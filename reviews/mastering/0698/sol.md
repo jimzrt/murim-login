@@ -8,11 +8,11 @@ Light.
 
 Bigger and brighter than any light she had ever seen.
 
-A tremendous radiance that had erupted without warning swelled as though it might burst, swallowing the approaching darkness as it seeped into the world.
+The radiance had erupted without warning. It swelled as though it might burst, swallowing the approaching darkness as it spread across the world.
 
 Kwooooooo!
 
-A pillar of light shot toward the distant sky and pierced the heavens. Sunlight poured through a gap in the dark clouds.
+A pillar of light soared into the distance and pierced the sky. Sunlight poured through a break in the dark clouds.
 
 The darkness that had surged over the stone walls like a wave faltered the moment it touched the radiance, as though its path had been blocked.
 
@@ -74,15 +74,15 @@ No, she could hardly have failed to recognize it. She was the one who had combed
 
 For more than ten years.
 
-Yet even after enough time had passed for mountains and rivers to change, she had failed to find so much as the slightest trace of the Beast King Stone itself. In the end, she had left the ancient legend behind and begun her grand plan.
+Yet even after enough time had passed for the landscape to change, she had found not the slightest clue to the stone’s true nature. She had set the old legend aside and begun her grand plan.
 
 But why? Why now?
 
-“You bastaaaaards!”
+“You bastards!”
 
 Whoooooosh! Crack!
 
-A terrifyingly immense surge of qi rose and pressed down on everything around it.
+A terrifying surge of qi rose and pressed down on everything around her.
 
 The countless beasts that had been baring their teeth and growling tucked their tails between their legs. Pavilions throughout the area began to collapse as though a giant had stepped on them.
 
@@ -106,7 +106,7 @@ The dark clouds filling the sky gave a great roar.
 
 Her chilling voice rang through the world of light and darkness, reaching every ear.
 
-“It is something the Lord of Heaven must rightfully take. It is not an object that insignificant beings like you are fit to possess.”
+“It rightfully belongs to the Lord of Heaven. It is not something insignificant beings like you may possess.”
 
 Beasts and humans alike froze before her overwhelming power. They forgot to scream, forgot to run, and stared blankly up at her.
 
@@ -132,9 +132,9 @@ And frightening.
 
 Fear was something every living creature knew. But feeling it and surrendering to it were different things.
 
-They knew that even now, they had to endure the fear pressing down on their entire bodies and advance. Only then could they win.
+They knew they had to bear the fear weighing on their bodies and keep moving. Only then could they win.
 
-—Much blood will flow, human.
+—Much blood will flow, Human.
 
 “Fuck. If I survive this, I won’t even take a piss toward Nanman again.”
 
@@ -160,11 +160,9 @@ Even if everyone who remained here died at the Southern Heaven Demon Empress’s
 
 For now, the sacred stone’s power was holding back the demonic qi pouring from the rift.
 
-He did not know how long this tense standoff would last, but before the situation grew any worse, they had to defeat the Southern Heaven Demon Empress and close the rift.
+He did not know how long the standoff would last. Before it broke, they had to defeat the Southern Heaven Demon Empress and close the rift.
 
 *No matter what it takes.*
-
-Whoosh.
 
 Jin Taekyung drew a deep breath and glared at the figure high above the wreckage of the pavilions.
 
@@ -174,7 +172,7 @@ Someone had to fall before this cruel story could end.
 
 “Let’s go.”
 
-The low voice had just slipped between his lips when—
+The words had barely left his lips when—
 
 —Kraaaaaaang!
 
@@ -190,11 +188,11 @@ The outsider who had come to this land after hundreds of years soared upward as 
 
 Bang!
 
-He kicked off the ground.
+They kicked off the ground.
 
 Pop!
 
-He stepped on the invisible air and wind.
+They stepped on the unseen air and wind.
 
 Whoooooosh!
 
@@ -220,7 +218,7 @@ Light and darkness mingled in a blinding flash that washed over the Nanman Beast
 
 * * *
 
-Rrrrrumble.
+Gooooooong.
 
 A roar like the sky splitting apart accompanied a tremendous surge of qi that swept in every direction.
 
@@ -228,11 +226,11 @@ Baeksang instinctively shut his eyes against the blinding flash. A gale struck h
 
 *Hngh.*
 
-What kind of overwhelming power was this?
+What overwhelming power.
 
 Even as a Supreme Peak master, he could barely keep his balance against the aftershock.
 
-When he finally opened his eyes, the area around him had already been reduced to ruins. The tribespeople who had barely survived thanks to the protection of the beasts were fleeing while screaming.
+When he finally opened his eyes, everything around him lay in ruins. The tribespeople who had survived only because the beasts had shielded them were fleeing, screaming.
 
 “Kyaaaaaa!”
 
@@ -256,7 +254,7 @@ Boom!
 
 The force of his palm crossed the distance and knocked a large boulder away.
 
-A half-gray-haired middle-aged man who had been struggling to save an old woman trapped beneath the stone wall widened his eyes.
+A graying middle-aged man who had been struggling to free the old woman beneath the wall stared at him.
 
 “Y-You…”
 
@@ -300,7 +298,7 @@ Baeksang passed the frozen man and reached toward the old woman.
 
 Tap. Tap!
 
-The blurred hand moved like lightning, touching the old woman’s acupoints.
+His hand blurred like lightning as his fingers pressed her acupoints. The furrows in her wrinkled brow eased at once.
 
 “Cough.”
 
@@ -314,15 +312,15 @@ Why?
 
 Baeksang could not answer even that simple question. Perhaps he would not be able to answer it in ten years, or a hundred.
 
-He did not know the answer himself.
+He did not know himself.
 
 When he finally broke the brief silence, he gave no answer.
 
 “Leave with the others. Get as far away as you can.”
 
-“S-Sir!”
+“W-Wait!”
 
-“Do you intend to let your mother die like this? Or…….”
+“Will you let your mother die here? Or…”
 
 Baeksang’s gaze darkened.
 
@@ -330,11 +328,11 @@ Baeksang’s gaze darkened.
 
 “…!”
 
-“Go. If you head for the East Gate, a way out will open.”
+“Go. Head for the East Gate. You’ll find a way out.”
 
 Baeksang turned away. Behind him, the man’s hoarse voice rang out.
 
-“Do you think this will… Do you think this will make the sins you committed forgivable!”
+“Do you think this… Do you think this makes what you did forgivable?”
 
 Baeksang answered the angry shout only in his heart.
 
