@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "But once its effects began to spread slowly over the course of more than three shichen, everything changed.",
+      "defect": "The draft makes the effects spread over three shichen; the source says they begin spreading after more than three shichen.",
+      "id": "F01",
+      "rationale": "The delayed onset explains why the medicine seemed ineffective earlier.",
+      "replacement": "But after more than three shichen, its effects would slowly begin to spread, and everything changed.",
+      "severity": "critical",
+      "source": "세 시진이 넘는 시간에 걸쳐 느릿하게 약효가 퍼지기 시작한다면"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Slaughter Saint had been certain that no Peak master could easily endure all that.",
+      "defect": "Peak is a lower realm than the source’s 초절정.",
+      "id": "F02",
+      "rationale": "The binding glossary renders 초절정 as Supreme Peak.",
+      "replacement": "The Slaughter Saint had been certain that no Supreme Peak master could easily endure all that.",
+      "severity": "major",
+      "source": "그 어떤 초절정 고수라고 해도 쉽사리 버틸 수 없으리라 확신했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The memory of that fierce punch from moments ago sent a shiver down his spine.",
+      "defect": "The source describes the wind from Taekyung’s fist grazing his back, not a punch striking him or merely a remembered punch.",
+      "id": "F03",
+      "rationale": "The near miss is the physical detail behind his doubt about Taekyung’s strength.",
+      "replacement": "His back still seemed to tingle where the fierce wind from Taekyung’s fist had swept past moments ago.",
+      "severity": "major",
+      "source": "조금 전 들이닥쳤던 그 맹렬한 권풍(拳風)이 스쳐 지나간 등줄기가 찌르르 울리는 듯했다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "This very Tianshan was the Land of Ruin, which had held the poison called demonic energy for the past thousand years.",
+      "defect": "The draft turns 마, the figurative poison of demonic evil, into a specific form of energy.",
+      "id": "F04",
+      "rationale": "The source does not identify an energy or qi mechanism here.",
+      "replacement": "This very Tianshan was the Land of Ruin, which had harbored the poison called demonic evil for the past thousand years.",
+      "severity": "major",
+      "source": "지난 천년 간 마(魔)라는 독을 품고 있던 멸지였으니."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Now that I think about it, I’m getting hungry.”",
+      "defect": "The draft loses Mujin’s abrupt turn from pity to finding the horses appetizing.",
+      "id": "F05",
+      "rationale": "침이 고이다 means his mouth is watering, which lands the source’s deadpan reversal.",
+      "replacement": "“Now that I think about it, my mouth’s watering.”",
+      "severity": "minor",
+      "source": "다시 생각해 보니까 침이 고이네요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jeok Cheongang gazed into the dark forest, murmuring to himself.",
+      "defect": "The draft makes an internal thought audible.",
+      "id": "F06",
+      "rationale": "마음속 specifies that he says it in his mind.",
+      "replacement": "With that thought, Jeok Cheongang gazed into the dark forest.",
+      "severity": "minor",
+      "source": "적천강은 마음속 뇌까림과 함께 캄캄한 숲을 응시했다."
+    }
+  ],
+  "summary": "The draft changes the pill’s timing and Taekyung’s rank, and loses several physical and tonal details.",
+  "version": 1
+}
