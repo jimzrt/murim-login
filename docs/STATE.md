@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 1090
-- Next chapter: 1091
-- Current block: 1090–1094 (1/5)
-- Latest translation: `translations/1090.md`
-- Latest summary: `summaries/beats/1090.md`
-- Safe profiles through: chapter 1090
+- Last completed: 1091
+- Next chapter: 1092
+- Current block: 1090–1094 (2/5)
+- Latest translation: `translations/1091.md`
+- Latest summary: `summaries/beats/1091.md`
+- Safe profiles through: chapter 1091
 
 ## Current Block
 
-- A frost-covered Beggars’ Sect disciple reaches Xining with a final message naming the Blood Lord and threatening to destroy the city, then dies. Gung Gibang mourns him and objects when Hak Eui criticizes the lack of intelligence; Cheongheoja apologizes for his disciple. Hak Eui urges abandoning Xining, but Jin Taekyung says the Blood Lord’s forces have already crossed Qinghai Lake, identified Blizzard’s traces on the messenger, and tells Hak Eui he may flee. A rumble begins shaking Xining.
-- The Blood Lord’s released messenger was a two-knot disciple; nearly thirty Beggars’ Sect disciples remained across Qinghai Lake, and only the messenger made it back to Xining before dying.
+- Dark Heaven’s army reaches Xining, and its immense advance shakes the city. Jin Taekyung admits to Jeok Cheongang that he fears failing the civilians behind the wall; Jeok tells him that facing fear and caring about others’ pain are what make someone a hero.
+- The Blood Lord goads Jeok Cheongang into coming down from the wall. Taekyung, Jeok, and the Slaughter Saint leap down to confront him. After the Blood Lord unleashes a powerful shout, Taekyung attacks and says this time will be different.
 
 ## Open Questions
 
@@ -18,7 +18,7 @@
 - Why did the Lord of Heaven spare Taekyung in Gansu, and what is his real purpose?
 - Will the Alliance Leader and other righteous warriors reach Qinghai?
 - What is the hidden ember Cheongheoja warned about?
-- What caused the shaking in Xining, and how soon will the enemy arrive?
+- What will happen in the confrontation with the Blood Lord?
 
 ## Exceptional Decision
 
