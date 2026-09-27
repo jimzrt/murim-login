@@ -1,21 +1,20 @@
 # Translation State
 
-- Last completed: 1027
-- Next chapter: 1028
-- Current block: 1025–1029 (3/5)
-- Latest translation: `translations/1027.md`
-- Latest summary: `summaries/beats/1027.md`
-- Safe profiles through: chapter 1027
+- Last completed: 1028
+- Next chapter: 1029
+- Current block: 1025–1029 (4/5)
+- Latest translation: `translations/1028.md`
+- Latest summary: `summaries/beats/1028.md`
+- Safe profiles through: chapter 1028
 
 ## Current Block
 
-- The approaching rider is revealed as the Blood-Sword Demon Lord, the killer of Goyangcheon, the last survivor of the Goyang Family and the former Spear King. He recalls serving the Heavenly Demon and killing the Heaven-Poison Demon Lord, the Hainan Sect Leader, and Goyangcheon; he also says Mae Jonghak’s killing of Heaven-Poison worked out well for him.
-- Taekyung questions when Dark Heaven and the Lord of Heaven emerged. The Blood-Sword Demon Lord refuses to answer, says he only wanted to confirm something, and admits he fears Taekyung might defeat the Lord of Heaven. As Taekyung, Jeok Cheongang, and Sama Pyo rush forward, the Three Elders of Tianshan block them. The Blood-Sword Demon Lord lowers his hand and commands a strike; roughly a thousand heads fall, and he is smiling.
+- The Blood-Sword Demon Lord watches Jin Taekyung with eager fascination as Taekyung reveals White Flame and an immense dark-blue Force. Jeok Cheongang recognizes that Taekyung has reached the realm of the Ten Kings, making him the eleventh giant. Taekyung wounds the First Elder and kills the Third; Sama Pyo stabs and kills the Third Elder with hidden daggers, then Taekyung kills the Second Elder. The First Elder remains alive, watching in horror.
 
 ## Open Questions
 
 - When did Dark Heaven and the Lord of Heaven emerge, and did Dark Heaven cause the Great Faction War?
-- Who or what was the target of the Blood-Sword Demon Lord’s commanded strike, and what happened to the meeting party and the thousand prisoners?
+- Who were the thousand people killed by the Blood-Sword Demon Lord, and what became of the rest of the meeting party?
 - What is the Lord of Heaven’s identity and purpose?
 
 ## Exceptional Decision

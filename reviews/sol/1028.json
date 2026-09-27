@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A dark-blue flash—neither flame, wave, nor thunderbolt—distorted space as it came crashing down on them.",
+      "defect": "The source says no one could tell which of the three it was; the draft asserts it was none of them.",
+      "id": "F01",
+      "rationale": "알 수 없는 preserves uncertainty about the flash’s nature.",
+      "replacement": "A dark-blue flash—impossible to tell whether it was flame, wave, or thunderbolt—distorted space as it came crashing down on them.",
+      "severity": "critical",
+      "source": "화염인지, 파도인지, 벽력인지 알 수 없는 검푸른 섬광이 공간을 일그러트리며 들이닥쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And that hand was the only one he had.",
+      "defect": "The draft implies Jin Taekyung has only one hand. The source says he was gripping the spear with only one hand.",
+      "id": "F02",
+      "rationale": "하나뿐이었다 refers to the hand engaged in the preceding action, not his total number of hands.",
+      "replacement": "And he was holding the spear with only one hand.",
+      "severity": "critical",
+      "source": "그리고 그 손은, 하나뿐이었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The cruel nature he’d inherited from his mother’s womb had blossomed when it met the demonic martial arts he’d learned as soon as he could walk.",
+      "defect": "“Inherited from his mother” assigns the cruelty a maternal origin absent from the source.",
+      "id": "F03",
+      "rationale": "어미의 배 속에서부터 타고난 describes an inborn disposition, not something specifically inherited from his mother.",
+      "replacement": "The cruelty he’d possessed since before he was born blossomed when it met the demonic martial arts he’d learned around the time he began to walk.",
+      "severity": "major",
+      "source": "어미의 배 속에서부터 타고난 잔인한 성정은 걸음마를 시작할 무렵부터 익힌 마공(魔功)을 만나 꽃을 피웠고"
+    },
+    {
+      "confidence": 0.94,
+      "current": "But unlike the men of the old era, who had fallen to time and crumbled beneath the blood-bright blades of their enemies, he was a hero of a new age.",
+      "defect": "The draft omits the old heroes spilling their blood and makes the enemy blades “blood-bright” instead of blue-tinged.",
+      "id": "F04",
+      "rationale": "피를 뿌리며 is their action; 시퍼런 describes the blades, not blood already on them.",
+      "replacement": "But unlike the heroes of the past, who had fallen to time or collapsed spilling their blood on the cold-blue blades of their enemies, he was a hero of a new age.",
+      "severity": "major",
+      "source": "하지만 세월을 이기지 못해 쓰러지고, 적들이 휘두르는 시퍼런 날붙이에 피를 뿌리며 허물어진 과거의 그들과는 다른 새로운 시대의 영웅임을."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Yet as the Third Elder staggered and steadied himself, everything felt just as it had before.",
+      "defect": "The draft loses that he is checking for a change through his qi perception.",
+      "id": "F05",
+      "rationale": "기감 identifies the sense through which he detects the unchanged positions and energies.",
+      "replacement": "Yet as the Third Elder staggered and steadied himself, his Qi Sense told him everything was just as it had been.",
+      "severity": "major",
+      "source": "하지만 비틀비틀 신형을 바로잡는 삼노의 기감에는 모든 것이 그대로였다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "The Force that onlookers called *ganggi* was no longer a dazzling blue-white.",
+      "defect": "“Onlookers” makes the namers spectators at the fight; the source means people fond of discussing such things. The extra romanization obscures the established term.",
+      "id": "F06",
+      "rationale": "호사가들 denotes enthusiasts or commentators, and the supplied glossary renders 강기 as Force.",
+      "replacement": "What martial arts enthusiasts called Force was no longer a dazzling blue-white.",
+      "severity": "minor",
+      "source": "호사가들이 강기(罡氣)라 부르는 그것은 더 이상 눈부신 청백색이 아니었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The young man’s voice sounded as low and composed as if it belonged to someone far older than the thirty he could have been.",
+      "defect": "The draft invents an age comparison as the explanation for his voice and obscures that he merely appears barely thirty.",
+      "id": "F07",
+      "rationale": "The source contrasts his apparent youth with the remarkable calm of his voice without comparing him to an older speaker.",
+      "replacement": "The young man looked barely thirty, yet his voice was astonishingly low and composed.",
+      "severity": "minor",
+      "source": "이제 겨우 이립이나 됐을까 싶은 젊은 놈의 목소리는, 어찌 저럴 수 있을까 싶을 만큼 낮고 침착했다."
+    }
+  ],
+  "summary": "The draft has two scene-fact errors and several localized fidelity defects.",
+  "version": 1
+}

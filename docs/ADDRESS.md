@@ -1502,3 +1502,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 적천강 | 혈검마군 | former opposing martial masters | you; you bastard | blunt and hostile | Uses 너 and 네놈 while confronting him. |
 | 혈검마군 | 진태경 | enemy addressing a younger martial artist | you | familiar and measured | Uses 자네 while praising and assessing Taekyung. |
 | 진태경 | 혈검마군 | young martial artist confronting an enemy | you | casual and challenging | Questions when the Blood-Sword Demon Lord and the Lord of Heaven appeared. |
+| 사마표 | 삼노 | enemy addressing an elder of the Three Elders of Tianshan | you | casual and taunting | Sama Pyo answers the Third Elder’s accusation and taunts him while attacking. |
