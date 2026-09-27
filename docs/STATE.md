@@ -1,22 +1,23 @@
 # Translation State
 
-- Last completed: 1108
-- Next chapter: 1109
-- Current block: 1105–1109 (4/5)
-- Latest translation: `translations/1108.md`
-- Latest summary: `summaries/beats/1108.md`
-- Safe profiles through: chapter 1108
+- Last completed: 1109
+- Next chapter: 1110
+- Current block: 1105–1109 (5/5)
+- Latest translation: `translations/1109.md`
+- Latest summary: `summaries/beats/1109.md`
+- Safe profiles through: chapter 1109
 
 ## Current Block
 
-- Cheongpung survives being buried in the blast and stealthily crosses the battlefield using the Slaughter Saint’s Ghost Illusory Slaughter Step, which he has mastered to nine-tenths and blended with his Dark Fragrance Drift. He strikes the Black Ghost as Jin Taekyung unleashes One Annihilation, but Taekyung collapses, and the System gives no death confirmation. The Blood Lord survives the flames with his senses and memories gone; driven by thirst, he absorbs blood and bites a subordinate.
+- After Jin Taekyung’s shout, Cheongpung and Jeong Hogun’s Embroidered Uniform Guards force their way through the fanatics toward the Blood Lord. The Blood Lord rapidly regenerates by absorbing blood from the dead, regains his strength and memories, and recognizes Cheongpung and his debt to Mae Jonghak.
+- Cheongpung wounds the Blood Lord and presses the attack, but the Blood Lord calls for reinforcements. Countless flying beasts descend on the battlefield, with another being at their center; the chapter ends as a tearing impact fills Cheongpung’s vision with blood.
 
 ## Open Questions
 
-- What condition is Jin Taekyung in after collapsing, and what happened to the Black Ghost?
-- Will the Blood Lord regain his memories, and what will become of him and the subordinate he attacked?
+- What condition is Jin Taekyung in after using One Annihilation?
+- What happened to Cheongpung in the final impact?
+- What are the flying beasts and the being at their center?
 - Why does the Lord of Heaven want Taekyung, and what does he intend to do with him?
-- Who are the allies approaching by river from the east?
 - Which of Cheongheoja’s Disciples is the hidden Dark Heaven agent, and what did Cheongheoja ask Taekyung to do?
 
 ## Exceptional Decision
