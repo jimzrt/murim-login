@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful. Two small additions narrow or alter details in the account of the Prophet and the Magic Gem smuggling.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 257",
+      "current": "he would not have left any gaps in the records",
+      "defect": "The Korean says he would not have left any gaps, without specifying that these would be gaps in records. The English adds a narrower, document-specific claim.",
+      "replacement": "he would not have left any gaps",
+      "rationale": "The source says 빈틈을 남겨 두지 않았겠죠 (“would not have left any gaps”) after mentioning the risk of smuggling; it does not name records as the thing that would have no gaps.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 279",
+      "current": "united their scattered followers",
+      "defect": "The source identifies the people he united as terrorists, not as followers. “Followers” adds an affiliation or loyalty implication.",
+      "replacement": "united the scattered terrorists",
+      "rationale": "The Korean says 사분오열된 테러리스트들을 규합하여: he brought together the terrorists who had been split into factions.",
+      "confidence": 0.91
+    }
+  ]
+}

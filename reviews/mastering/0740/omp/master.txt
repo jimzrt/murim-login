@@ -10,7 +10,7 @@ It cleared away the waste that naturally built up in the body and calmed the min
 
 Someone’s footsteps sounded like thunder.
 
-Before long, I realized who the uninvited guest pacing outside the door was and brought my internal energy under control.
+I soon recognized the uninvited guest pacing outside the door and drew my internal energy back in.
 
 *Chime.*
 
@@ -86,15 +86,15 @@ Not one that would put everything right. Just an insight that let me forget for 
 
 The Skeleton King seemed to buffer for a moment before answering.
 
-“Uh, yeah. It’s doenjang jjigae and braised short ribs.”
+“Oh. Yeah. Doenjang jjigae and braised short ribs.”
 
 I could tell who had made it just from the smell. Picturing my mother anxiously preparing meals for me these past few days, I lifted the lid from the tray.
 
 *Click.*
 
-I stared blankly at the food as steam rose from it. Then I scooped up a spoonful of doenjang jjigae, something I had not seen in a long time.
+Steam rose from the food. I gazed at it for a moment, then took a spoonful of the doenjang jjigae I hadn’t seen in so long.
 
-The moment I put it in my mouth, I spat it right back out.
+The instant it touched my tongue, I spat it out.
 
 *Ptooey.*
 
@@ -102,7 +102,7 @@ The moment I put it in my mouth, I spat it right back out.
 
 What the hell was this?
 
-I looked back and forth between the flustered Skeleton King and the doenjang jjigae before opening my mouth hesitantly.
+I looked from the flustered Skeleton King to the stew and back again.
 
 “Who made this?”
 
@@ -150,7 +150,7 @@ Those were my first words to Team Leader Choi in days. His lips moved as though 
 
 “If you insist on blaming yourself, say *we*. You didn’t do it alone.”
 
-“That’s right. This body also achieved a great feat in the desert.”
+“That’s right. This body played a very important part in the desert.”
 
 At the Skeleton King’s sudden interruption, Team Leader Choi shrugged.
 
@@ -208,13 +208,13 @@ I knew next to nothing about this sort of thing, but the thickness of the stack 
 
 “Bigger than Ares Guild?”
 
-“You would have to combine Ares Guild and Peace Guild, then add three or four major Guilds on top of that.”
+“You’d have to combine Ares and Peace Guild, then add another three or four major Guilds.”
 
 “Holy shit.”
 
 “Count just the Gates Odin Guild controls this way, and there are more than two hundred worldwide. They hold permanent leases, so they effectively own them. Those Gates produce an enormous quantity of Magic Gems.”
 
-Even if a considerable number of those holdings were controlled through unofficial channels, having control of around two hundred Gates put Odin Guild on the level of a small country.
+Even if many of those holdings were controlled through unofficial channels, two hundred Gates put Odin Guild on the level of a small country.
 
 No. Given the strength of its Hunters, it might be more powerful than one.
 
@@ -222,17 +222,17 @@ No. Given the strength of its Hunters, it might be more powerful than one.
 
 Michael Silbert wasn’t merely a mad dog. He was a Tosa mastiff among fighting dogs, and he was clever to boot.
 
-*But he was also a bastard I absolutely had to beat to death.*
+*But I still have to beat him to death.*
 
 That thought brought another to mind.
 
-“Then is it possible that the Magic Gems from those Gates were used in this terrorist attack without being refined?”
+“Could the Magic Gems from those Gates have been used in the attacks without being refined?”
 
 “No. At least, not according to the documents.”
 
 “According to the documents?”
 
-“As you know, Michael Silbert is an extremely thorough person. He had no reason to take the risk of smuggling Magic Gems, and even if he had, he would not have left any gaps in the records. The Magic Gems used in the terrorist attacks most likely came out of the Middle East or Africa.”
+“As you know, Michael Silbert is meticulous. He has no reason to risk smuggling Magic Gems. Even if he did, he wouldn’t leave a trail. The Gems used in the attacks most likely came from the Middle East or Africa.”
 
 That made sense.
 
@@ -244,11 +244,11 @@ Besides, Michael Silbert wasn’t alone. He had a reliable accomplice who was ev
 
 “The Prophet.”
 
-At the name that slipped from my mouth, Team Leader Choi nodded with a grim expression.
+Team Leader Choi’s face hardened, and he nodded.
 
-“I searched thoroughly for information on the Prophet as well.”
+“I’ve searched everywhere for information on the Prophet, too.”
 
-“What kind of bastard is the Prophet?”
+“What kind of bastard is he?”
 
 I genuinely wanted to know who this madman was—the one who had beheaded the leaders of two major terrorist organizations, united their scattered followers, and shaken the world.
 
@@ -262,27 +262,27 @@ Team Leader Choi’s answer was nothing like what I’d hoped to hear.
 
 “Wait. Even the United States doesn’t know?”
 
-“Not just the United States. Even with the entire world searching, the situation is still the same.”
+“Not even with the whole world looking for him.”
 
-I blinked and thought.
+I blinked.
 
 *How is that possible?*
 
 The madman calling himself the Prophet had thrown the United States and the rest of the world into turmoil. How could he vanish right under everyone’s noses?
 
-“You’re not hiding what you know to protect classified information, are you?”
+“They’re not keeping it classified even though they know?”
 
 “I spoke with Chuck Hagel recently. He swore to God he didn’t know where the Prophet was.”
 
 Chuck Hagel had been with us in the desert. He was also the United States Secretary of Defense, not just an S-rank Hunter.
 
-Unless he was lying, if even the Secretary of Defense did not know, then the Prophet really must have shot straight up into the sky.
+Unless he was lying, if even he didn’t know, the Prophet might as well have flown up into the sky.
 
 *Who the hell is he?*
 
 I frowned. Team Leader Choi went on.
 
-“And there’s one more thing. Mr. Johnson contacted us. He said he had found someone among the other Grand Mages who was likely to have been in contact with Michael Silbert. He said we would probably be able to learn more vital information through that person.”
+“One more thing. Mr. Johnson contacted me. Among the other Grand Mages, he’s found someone who was likely in contact with Michael Silbert. He thinks we can learn more important information through him.”
 
 This, at least, was good news.
 
