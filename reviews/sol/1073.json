@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "If I hit you, it seems like it’d hurt too much.",
+      "defect": "Reverses who would be hit.",
+      "id": "F01",
+      "rationale": "Jin asks to hit Jeok because Jin expects being hit himself would hurt.",
+      "replacement": "If you hit me, it’d hurt too much.",
+      "severity": "critical",
+      "source": "제가 맞으면 너무 아플 것 같아서."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Because then, everything would start to feel inevitable.\n\nAnd another person’s sacrifice and death must never be treated as inevitable.",
+      "defect": "Changes the danger of growing accustomed to deaths into a claim about whether deaths are inevitable.",
+      "id": "F02",
+      "rationale": "당연해져 버릴 and 당연해져서는 안 되는 refer to treating sacrifice and death as ordinary or expected, continuing the thought about never getting used to them.",
+      "replacement": "Because then, I’d start taking everything for granted.\n\nAnd another person’s sacrifice and death must never become something I take for granted.",
+      "severity": "major",
+      "source": "그렇게 된다면 모든 것이 당연해져 버릴 테니까.\n\n그리고 누군가의 희생과 죽음은, 결코 당연해져서는 안 되는 종류의 것이니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Gaettongi, a divine general descended upon this land in answer to Heaven’s will, has arrived!",
+      "defect": "Uses Gaettongi instead of the established name Gaettong.",
+      "id": "F03",
+      "rationale": "The glossary maps 개똥이 to Gaettong; the final 이 here is not part of the established English name.",
+      "replacement": "Gaettong, a divine general descended upon this land in answer to Heaven’s will, has arrived!",
+      "severity": "minor",
+      "source": "개똥이가 왔으니"
+    }
+  ],
+  "summary": "Three actionable findings: one reversed action, one altered moral distinction, and one glossary mismatch.",
+  "version": 1
+}
