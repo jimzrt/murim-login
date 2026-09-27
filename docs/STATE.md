@@ -1,20 +1,19 @@
 # Translation State
 
-- Last completed: 1167
-- Next chapter: 1168
-- Current block: 1165–1169 (3/5)
-- Latest translation: `translations/1167.md`
-- Latest summary: `summaries/beats/1167.md`
-- Safe profiles through: chapter 1167
+- Last completed: 1168
+- Next chapter: 1169
+- Current block: 1165–1169 (4/5)
+- Latest translation: `translations/1168.md`
+- Latest summary: `summaries/beats/1168.md`
+- Safe profiles through: chapter 1168
 
 ## Current Block
 
-- Lost in Trance, Jin reads the flow of Morgoth’s Dragon Breath and deflects it with White Flame, then summons an iron spear to pierce the cores of the spells aimed at him. Magic Johnson’s Hell Fire is stopped by Morgoth’s Anti Magic, but the resulting opening lets Jin escape the surrounding gravity and charge through the Breath. Jin uses the Fire Dragon Divine Spear’s second form, Heavenly Strike, to split the Dragon’s Breath.
-- Morgoth attacks Jin in the air and realizes that his foreleg still bears the unhealed wound left by the Skeleton King. Jin’s spear strikes that wound; the result is not shown.
+- Jin Taekyung presses his attack through Morgoth’s foreleg, cuts off both wings, and unveils the Fire Dragon Divine Spear’s Third Form, Open Heaven. Its refined hellfire strikes Morgoth down, ending the battle. The survivors recognize that humanity has won and that Jin led them to victory.
 
 ## Open Questions
 
-- What is the outcome of Jin and Morgoth’s clash?
+- What condition are Jin and the surviving forces in after the battle?
 
 ## Exceptional Decision
 
