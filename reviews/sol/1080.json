@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "the city’s leaders provided them with food and drink.",
+      "defect": "The specific provisions, liquor and meat, become generic food and drink.",
+      "id": "F01",
+      "rationale": "술과 고기 names what the leaders gave the crowd.",
+      "replacement": "the city’s leaders provided them with liquor and meat.",
+      "severity": "minor",
+      "source": "성내의 수뇌부는 그런 이들을 위해 술과 고기를 내주었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You’re getting long-winded. Want me to make it easier?”",
+      "defect": "The implied threat to shorten the City Lord’s tongue disappears.",
+      "id": "F02",
+      "rationale": "혀가 기시네 and 좀 짧게 해 드릴까 turn his evasive answer into a threat against his tongue.",
+      "replacement": "“That’s a long tongue you’ve got. Want me to shorten it?”",
+      "severity": "major",
+      "source": "“혀가 기시네. 좀 짧게 해 드릴까.”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Take him away at sunrise. Don’t forget to send him with a companion so he won’t be lonely.”",
+      "defect": "“Take him away” presents the sunrise order as removal rather than the euphemistic order to send him to his death.",
+      "id": "F03",
+      "rationale": "보내라 leaves the destination euphemistic; the subsequent choice between beheading as a corrupt official and destruction as a traitor supplies its lethal meaning.",
+      "replacement": "“Send him off at sunrise. And don’t forget to give him some company on the way. He might get lonely.”",
+      "severity": "critical",
+      "source": "“해 뜨면 보내라. 혼자 가면 외로우니까 길동무 붙여 주는 것도 잊지 말고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "At Jeong Hogun’s resolute answer, the other Embroidered Uniform Guards waiting nearby quickly carried out the orders they’d been given.",
+      "defect": "The guards act at Jeong Hogun’s hand signal, not at his spoken answer.",
+      "id": "F04",
+      "rationale": "손짓에 identifies the gesture as the cue for the waiting guards.",
+      "replacement": "Jeong Hogun answered more firmly than ever, then gestured. At his signal, the other Embroidered Uniform Guards waiting nearby swiftly carried out their orders.",
+      "severity": "major",
+      "source": "어느 때보다 굳건한 대답한 정호군의 손짓에, 대기하고 있던 나머지 금의위 위사들이 정해진 바에 따라 신속하게 명령을 이행했다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Are you Songak, the Qinghai Regional Military Commissioning Office’s commander?”",
+      "defect": "The draft assigns Songak the title of commander, which this identification does not state.",
+      "id": "F05",
+      "rationale": "The source identifies Songak by the 위지휘사사 office without specifying his rank or command.",
+      "replacement": "“Songak of Qinghai’s Regional Military Commission. Is that you?”",
+      "severity": "major",
+      "source": "“청해성 위지휘사사(衛指揮使司) 송악. 맞소?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "officials in stiff robes, their backs as rigid as their necks,",
+      "defect": "The comparison is between their stiff necks and their robes; rigid backs are added.",
+      "id": "F06",
+      "rationale": "그 목만큼이나 modifies 빳빳한 관복.",
+      "replacement": "officials in robes as stiff as their necks,",
+      "severity": "minor",
+      "source": "그 목만큼이나 빳빳한 관복을 걸친 벼슬아치들도"
+    }
+  ],
+  "summary": "The draft preserves the scene’s main sequence but loses two threats’ physical meaning and misstates who triggers the guards’ action.",
+  "version": 1
+}

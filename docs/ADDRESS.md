@@ -1544,3 +1544,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 청허자 | younger martial artist to senior sect leader | Sect Leader | respectful | Uses a formal greeting and bow. |
 | 청허자 | 진태경 | senior sect leader to younger martial artist | Fellow Daoist Jin | warm and polite | Greets Taekyung by surname and confirms Hak Woo is well. |
 | 학수 | 진태경 | Kunlun Senior Disciple to visiting martial artist | Fellow Daoist Jin | polite and respectful | Addresses Taekyung as 진 도우. |
+| 학의 | 진태경 | Kunlun Sect disciple to renowned martial artist | Great Hero Jin Taekyung | formal and deferential | Uses 진태경 대협 when introducing himself and greeting Taekyung. |
+| 청해성주 | 진태경 | city official to imperial marquis | Marquis of Shangshan | extremely deferential | Uses 상산후 while responding to Taekyung. |
