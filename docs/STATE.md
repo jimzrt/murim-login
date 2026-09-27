@@ -1,19 +1,21 @@
 # Translation State
 
-- Last completed: 1171
-- Next chapter: 1172
-- Current block: 1170–1174 (2/5)
-- Latest translation: `translations/1171.md`
-- Latest summary: `summaries/beats/1171.md`
-- Safe profiles through: chapter 1171
+- Last completed: 1172
+- Next chapter: 1173
+- Current block: 1170–1174 (3/5)
+- Latest translation: `translations/1172.md`
+- Latest summary: `summaries/beats/1172.md`
+- Safe profiles through: chapter 1172
 
 ## Current Block
 
-- Morgoth dies when Jin’s spear pierces his Dragon Heart, releasing its accumulated magical power across the battlefield. Jin’s injuries and status effects are healed, but he falls into a deep sleep from exhaustion. The Skeleton King revives as a Lv. 180 Undead King after absorbing the spreading darkness. Magic Johnson and the Undead King realize that another catastrophe has begun—or has been completed—and the pillar of magical power connecting heaven and earth explodes.
+- Morgoth’s death releases the Dragon Heart’s accumulated power, and the resulting darkness spreads from Moscow as the Great Cataclysm begins. The Undead King and Magic Johnson recognize the danger and leave with the unconscious Jin.
+- The System reports the Rift reaching 90%, then marks the Main Quest Rift and Collapse as failed because its progress was not halted and creates the new Main Quest Predestined Collapse. Gates across Eurasia mutate, with at least 20% reaching levels that could lead to Monster Waves; the U.S. President orders Code Black activated.
+- At a gathering of world leaders, Choi Minwoo speaks for someone unable to attend and declares that humanity will end the war. The chapter ends with the Great Cataclysm underway and Minwoo alive.
 
 ## Open Questions
 
-- What catastrophe was completed by Morgoth’s death, and what will follow the explosion of the magical-power pillar?
+- What will happen as the Great Cataclysm and Predestined Collapse unfold?
 - How will Jin fare after his exhaustion-induced unconsciousness?
 
 ## Exceptional Decision

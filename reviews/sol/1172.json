@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Their senses and minds had simply frozen in the frost-like magical power, too slow to respond.\n\nThey remembered *that day*, which had come without a word of warning just a few decades ago.",
+      "defect": "The draft says they remembered that day; the source says their frozen senses and minds had not yet reacted to its memory.",
+      "id": "F01",
+      "rationale": "기억을 is the object of 미처 제때 반응하지 못했을 뿐이다, not a separate assertion that they remembered.",
+      "replacement": "Their senses and minds, frozen by the icy magical power, simply hadn’t reacted in time to the memory of *that day*—the day that had arrived without a word of warning just a few decades ago.",
+      "severity": "critical",
+      "source": "다만 서릿발 같은 마력에 얼어붙은 오감과 정신이 미처 제때 반응하지 못했을 뿐이다.\n\n지금으로부터 불과 수십 년 전, 한 마디의 예고도 없이 찾아온 ‘그날’의 기억을."
+    },
+    {
+      "confidence": 0.97,
+      "current": "When a spearhead wreathed in flames cut through the thick storm clouds covering Moscow’s sky alongside Morgoth,",
+      "defect": "“Alongside Morgoth” makes him appear to cut the clouds with the spearhead. The spearhead cut through both Morgoth and the clouds.",
+      "id": "F02",
+      "rationale": "모르고스와 함께 joins Morgoth to the clouds as what the spearhead cut through.",
+      "replacement": "When a spearhead wreathed in flames cut through Morgoth and the thick storm clouds covering Moscow’s sky,",
+      "severity": "critical",
+      "source": "화염을 머금은 창날이 모르고스와 함께 모스크바의 하늘을 뒤덮고 있던 짙은 먹구름을 베어 가른 그때"
+    },
+    {
+      "confidence": 0.94,
+      "current": "the Undead King held his unconscious friend in his arms and felt the warmth coming from his fingertips.",
+      "defect": "The warmth is felt through his fingertips, not emitted by them.",
+      "id": "F03",
+      "rationale": "손끝을 타고 전해지는 describes warmth reaching him through his fingertips while he holds his friend.",
+      "replacement": "the Undead King held his unconscious friend in his arms and felt warmth pass into his fingertips.",
+      "severity": "major",
+      "source": "의식을 잃은 친구를 품에 안은 언데드 킹은 손끝을 타고 전해지는 온기를 느꼈다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“More than twenty percent of them have reached the point where they’re likely to become Monster Waves…”",
+      "defect": "“Likely” turns the reported threshold for progression into a probability judgment.",
+      "id": "F04",
+      "rationale": "몬스터 웨이브로 진행될 정도의 수치 specifies a level sufficient for progression; 약 20퍼센트 이상 is approximately twenty percent or more.",
+      "replacement": "“At least twenty percent of them have reached levels high enough to progress into Monster Waves…”",
+      "severity": "major",
+      "source": "“그중 약 20퍼센트 이상의 게이트가 몬스터 웨이브로 진행될 정도의 수치로…….”"
+    },
+    {
+      "confidence": 0.87,
+      "current": "A dazzling beam of light—so muffled that it could hardly be called light and darkness at the same time—sealed the sky. This time, it never opened again.",
+      "defect": "The draft’s comparison is incoherent: the source contrasts the beam’s dazzling appearance with calling it darkness, while also describing its oppressive quality.",
+      "id": "F05",
+      "rationale": "눈부신 contrasts with 어둠이라는 단어와는 도저히 함께할 수 없는; 먹먹한 gives the beam its oppressive quality.",
+      "replacement": "Dazzling. That oppressive beam, so bright it seemed impossible to call it darkness, closed the sky. This time, it never opened again.",
+      "severity": "minor",
+      "source": "눈부신. 어둠이라는 단어와는 도저히 함께할 수 없는 그 먹먹한 빛줄기가 하늘을 닫았고 이번에는 두 번 다시 열리지 않았다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "> **Mission:** Defeat [“Black Dragon Duke” Morgoth] (Complete)\n>\n> Halt the Rift’s progress (Incomplete)\n>\n> **System**\n>\n> Main Quest [Rift and Collapse] has failed.\n>\n> A new Main Quest, [Inevitable Collapse], has been created.",
+      "defect": "Consecutive System notices are split by a second heading, UI names retain prohibited square brackets, and “Inevitable” asserts more than 예정된.",
+      "id": "F06",
+      "rationale": "These are consecutive notices in one System window. 예정된 means planned or predetermined, not necessarily impossible to avert.",
+      "replacement": "> **Mission:** Defeat “Black Dragon Duke” Morgoth (Complete)\n>\n> Halt the Rift’s progress (Incomplete)\n>\n> Main Quest Rift and Collapse has failed.\n>\n> A new Main Quest, Predestined Collapse, has been created.",
+      "severity": "minor",
+      "source": "- 임무 : [“흑룡공” 모르고스] 처치 (완료)\n\n[균열]의 진행도 저지 (미완료)\n\n- 메인 퀘스트, [균열과 붕괴]가 실패했습니다.\n\n- 새로운 메인 퀘스트, [예정된 붕괴]가 생성되었습니다."
+    },
+    {
+      "confidence": 0.83,
+      "current": "the evil Dragon that had terrorized countless worlds for thousands of years",
+      "defect": "“Countless worlds” introduces multiple worlds where the source describes terror throughout the world.",
+      "id": "F07",
+      "rationale": "뭇 세상 refers broadly to the world, not a count of separate worlds.",
+      "replacement": "the evil Dragon that had terrorized the whole world for thousands of years",
+      "severity": "minor",
+      "source": "지난 수천 년간 뭇 세상을 공포로 몰아넣었던 악룡"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“…Yes. At last.”",
+      "defect": "“At last” suggests welcome relief; 결국 marks a feared outcome finally coming to pass.",
+      "id": "F08",
+      "rationale": "The speakers are acknowledging the onset of Code Black, not celebrating its arrival.",
+      "replacement": "“…Yes. In the end.”",
+      "severity": "minor",
+      "source": "- ……예, 결국."
+    }
+  ],
+  "summary": "The draft reverses two scene details and weakens several consequential details of the spreading catastrophe.",
+  "version": 1
+}
