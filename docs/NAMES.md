@@ -2582,3 +2582,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 예정된 붕괴 | **The Foreordained Collapse** | Title of the new Main Quest. |
 | 나포박호 | **Lop Nur** | Lake crossed by the Imperial Army. |
 | 화정 | **Hejing** | Place expected to be reached by the Imperial Army. |
+| 한혈보마 | **sweat-blood horse** | The horses whose meat was made into jerky. |
