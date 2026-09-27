@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“So you were planning this from the very beginning.”",
+      "defect": "Morgoth’s question becomes a statement.",
+      "id": "F01",
+      "rationale": "The Korean question ending asks whether the Skeleton King intended this all along.",
+      "replacement": "“Just as I thought. Was that your plan from the start?”",
+      "severity": "major",
+      "source": "역시, 처음부터 그럴 생각이었나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It seems I underestimated you—or rather, you.",
+      "defect": "The shift from addressing a group to addressing the Skeleton King alone is unintelligible in English.",
+      "id": "F02",
+      "rationale": "너희 is plural; 자네 singles out the Skeleton King.",
+      "replacement": "It seems I underestimated all of you… No, I underestimated you.",
+      "severity": "major",
+      "source": "나는 너희를…… 아니 자네를 과소평가하고 있던 모양이야."
+    },
+    {
+      "confidence": 0.96,
+      "current": "With an incantationless spell that came as naturally as breathing, Morgoth’s strike transcended the limits of Blink magic and slammed into the Skeleton King’s back.",
+      "defect": "The draft makes the strike, rather than Morgoth’s use of Blink, transcend the spell’s limits.",
+      "id": "F03",
+      "rationale": "The source describes Morgoth appearing through an extraordinary use of Blink before his blow lands.",
+      "replacement": "Morgoth cast a wordless spell as naturally as breathing, pushed Blink magic past its limits, and appeared to strike the Skeleton King in the back.",
+      "severity": "major",
+      "source": "무영창 주문과 함께, 블링크 마법의 한계를 초월하여 나타난 모르고스의 일격이 스켈레톤 킹의 등줄기를 후려쳤다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "they would surely have thought of two words:\n\nThe end.",
+      "defect": "종말 is one word of two Korean characters, not two words; “The end” also weakens its apocalyptic sense.",
+      "id": "F04",
+      "rationale": "The source names an end-of-the-world event, followed by images of the world’s and all living things’ final moments.",
+      "replacement": "they would surely have thought of one word:\n\nApocalypse.",
+      "severity": "minor",
+      "source": "분명 두 글자를 떠올렸을 것이다.\n\n종말(終末)."
+    }
+  ],
+  "summary": "The draft preserves the scene’s main events but changes a question into a statement, loses a deliberate shift in address, and misattributes the limit-breaking magic.",
+  "version": 1
+}
