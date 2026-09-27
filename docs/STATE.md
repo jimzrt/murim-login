@@ -1,22 +1,21 @@
 # Translation State
 
-- Last completed: 1038
-- Next chapter: 1039
-- Current block: 1035–1039 (4/5)
-- Latest translation: `translations/1038.md`
-- Latest summary: `summaries/beats/1038.md`
-- Safe profiles through: chapter 1038
+- Last completed: 1039
+- Next chapter: 1040
+- Current block: 1035–1039 (5/5)
+- Latest translation: `translations/1039.md`
+- Latest summary: `summaries/beats/1039.md`
+- Safe profiles through: chapter 1039
 
 ## Current Block
 
-- Jin Taekyung returns to Jeok Cheongang after his attack on the Blood-Sword Demon Lord fails. Jeok is seriously injured but hides it behind his usual gruff bravado; together, he and Taekyung identify the white-robed mages’ Magic as the source of the Demon Lord’s surges in strength. Taekyung suspects one mage may be a Grand Mage, though that mage has not unleashed a battlefield-wide attack. As Jeok engages the Demon Lord, Taekyung heads for the hill to target the mages, asking Jeok to hold the Demon Lord off for half a quarter-hour.
+- Jin Taekyung abandons Jeok Cheongang’s side to attack the white-robed mages, hoping to end the Magic empowering the Blood-Sword Demon Lord. Jeok holds the Demon Lord back despite his injuries and the power the mages have given his opponent. Jin is met by the last Black Ghost, So Gunak, and more than a hundred Peak masters; their strength rises as the fight continues. Wounded and outnumbered, Jin charges forward and summons Fire Dragon Armor.
 
 ## Open Questions
 
 - What are the identity and purpose of the Lord of Heaven?
 - Did Dark Heaven cause the Great Faction War?
-- Who is the unnamed white-robed woman, and what is the white-robed followers’ purpose?
-- Is there a Grand Mage among the white-robed mages, and why has that mage not intervened fully?
+- Who are the white-robed mages, and what is their purpose?
 - How were the former Demonic Cult fiends made into Black Ghosts?
 
 ## Exceptional Decision

@@ -2491,3 +2491,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 풍소귀 | **Pung Sogwi** | Name of one of the four defeated Black Ghosts. |
 | 황독소 | **Hwang Dokso** | Name of one of the four defeated Black Ghosts. |
 | 풍귀 | **Wind Ghost** | Power invoked by a white-robed figure and imbued in the Blood-Sword Demon Lord. |
+| 소군악 | **So Gunak** | Name shown in the System status. |
