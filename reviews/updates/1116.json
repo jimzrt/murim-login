@@ -1,0 +1,114 @@
+{
+  "chapter": 1116,
+  "files": {
+    "characters/Blood Lord.md": "10b70ea99837c80d906e458d11a74478421efcf660f8a94e5612c202166e4bff",
+    "characters/Cheongheoja.md": "8d2417ba0af73148119b8dafd4ec6bf9e9168d11e59ca18ca4c61b134b1badd0",
+    "characters/Divine Physician.md": "85bc9a5a9407199b349dba3b9bcf170e64dfb000ff63ef7a007128617a9e841b",
+    "characters/Hak Eui.md": "138c9c57f577e82c05958450bb1c5d24beca4e0dd404741487180b1181f778ec",
+    "characters/Hak Su.md": "e37e1c13cfb6d52828f5d60683a7008be5bff2c6d37e7eb77c54b64ec0b0395e",
+    "docs/ADDRESS.md": "d55475543ec1fb1c82a8c660ed8fc6b6c7536abad3e5c84ebccc42321005d0fd",
+    "docs/CONTEXT.json": "d9903bb6d1f6d89695be134856ed01159bb7809068541d88848a121abfdc31e3",
+    "docs/NAMES.md": "66b724f4d846741f2cbbc7e843d83ef54cdbfc708dd1f9b56308f753f4d5a999",
+    "docs/STATE.md": "bf4270d60af5d51360b204ed0525fa24747a597de94f093a20d8c5fce46081fd",
+    "summaries/beats/1116.md": "0b785b45aed1dd04a0351a3ea0d4cca9e679b8e91cae3e4634e2a8833edd7636"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "학수",
+        "kinship": "Junior Brother addressing his Senior Brother",
+        "normal_address": "Senior Brother",
+        "notes": "Uses 대사형.",
+        "speaker": "학의",
+        "speech_level": "Formal and firm"
+      },
+      {
+        "addressee": "청허자",
+        "kinship": "Disciple addressing his Master",
+        "normal_address": "Master",
+        "notes": "Addresses him as 스승님.",
+        "speaker": "학수",
+        "speech_level": "Respectful and formal"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Hak Eui is alive; the severed head mistaken for his was a prisoner's corpse disguised with a human-skin mask by the Slaughter Saint.",
+        "Hak Su is a Dark Heaven spy known as Number Six; his gratitude and affection for Cheongheoja were genuine.",
+        "Five other Dark Heaven spies embedded in Kunlun reveal themselves and take Temporary Strength Pills at the East Gate.",
+        "Cheongheoja intends to lead the East Gate forces to the Inner City but refuses to leave Hak Su behind."
+      ],
+      "plot": [
+        "At Xining’s East Gate, Cheongheoja and his Senior Disciple Hak Su learn that the other gates are retreating to the Inner City. Cheongheoja refuses to leave Hak Su behind. Hak Eui, believed dead, returns and reveals that the corpse was a prisoner disguised by the Slaughter Saint. He identifies Hak Su as the Dark Heaven spy who betrayed Kunlun, but Hak Su says he was raised to serve Dark Heaven as Number Six. Five other spies reveal themselves and take Temporary Strength Pills as Cheongheoja stands between them and the Kunlun defenders."
+      ],
+      "translation_decisions": [
+        "Render 육호 as “Number Six,” Hak Su’s Dark Heaven identifier."
+      ]
+    },
+    "chapter": 1116,
+    "context": {
+      "active_continuity": [
+        "The West Gate has fallen, and the South Gate defenders were ordered to retreat to the Inner City.",
+        "Cheongheoja plans to lead the East Gate forces to the Inner City but remains at the East Gate with Hak Su and the revealed spies.",
+        "Hak Eui is alive; a disguised prisoner's corpse led others to believe he had been killed.",
+        "Hak Su is a Dark Heaven spy known as Number Six; five other embedded spies have revealed themselves and taken Temporary Strength Pills.",
+        "The Slaughter Saint helped conceal Hak Eui's survival by making a human-skin mask."
+      ],
+      "continuity_sources": [
+        1115,
+        1116
+      ],
+      "open_questions": [
+        "What will happen in the East Gate confrontation between Cheongheoja, the Kunlun defenders, and the spies?",
+        "Will the East Gate forces reach the Inner City, and what awaits them there?"
+      ],
+      "safe_through": 1116,
+      "temporary_decisions": [
+        "Render 육호 as “Number Six” for Hak Su’s Dark Heaven identifier."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Number Six",
+        "korean": "육호",
+        "notes": "Hak Su's Dark Heaven identifier."
+      },
+      {
+        "english": "Kunlun Ten Guests",
+        "korean": "곤륜십객",
+        "notes": "Group of Kunlun figures regarded as future Elders."
+      },
+      {
+        "english": "Kunlun Five Guests",
+        "korean": "곤륜오객",
+        "notes": "The five remaining members of the Kunlun Ten Guests identified as Dark Heaven spies."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Hak Su is Cheongheoja’s Senior Disciple and a senior brother to Hak Woo in the Kunlun Sect.",
+        "path": "characters/Hak Su.md",
+        "replacement": "- **Role:** Hak Su is a Dark Heaven spy known as Number Six, formerly Cheongheoja’s Senior Disciple in the Kunlun Sect."
+      },
+      {
+        "current": "- **Personality:** Gracious and hopeful, he responds to Taekyung’s mistakes with patience and warmth.",
+        "path": "characters/Hak Su.md",
+        "replacement": "- **Personality:** He is disciplined and mission-bound as a Dark Heaven spy, yet his gratitude and affection for Cheongheoja were genuine."
+      },
+      {
+        "current": "- **Relationships:** Cheongheoja is his Master, and Hak Woo is his youngest Junior Brother; he treats Jin Taekyung warmly as a Fellow Daoist.",
+        "path": "characters/Hak Su.md",
+        "replacement": "- **Relationships:** Cheongheoja was his Master, Hak Woo his youngest Junior Brother, and he treated Jin Taekyung warmly as a Fellow Daoist."
+      },
+      {
+        "current": "- **Relationships:** Hak Woo is his Disciple; he knows Jin Taekyung by reputation and treats him warmly.",
+        "path": "characters/Cheongheoja.md",
+        "replacement": "- **Relationships:** Hak Su and Hak Eui are his Disciples; he knows Jin Taekyung by reputation and treats him warmly."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

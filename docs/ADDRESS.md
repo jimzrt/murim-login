@@ -1562,3 +1562,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 적천강 | 현천 | allied martial masters defending the North Gate | Hyeoncheon | familiar and direct | Jeok calls out to Hyeoncheon to act. |
 | 태청진인 | 적천강 | younger Daoist elder to senior martial master | Senior | formal and deferential | Apologizes for his impertinence before sending Jeok toward the Inner City. |
 | 혈주 | 곤륜오선 | hostile opponent to elder martial masters | you old men | insulting and threatening | Threatens to tear them apart and orders them to leave. |
+| 학의 | 학수 | Junior Brother addressing his Senior Brother | Senior Brother | Formal and firm | Uses 대사형. |
+| 학수 | 청허자 | Disciple addressing his Master | Master | Respectful and formal | Addresses him as 스승님. |

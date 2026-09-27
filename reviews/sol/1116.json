@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He’d seen his master holding a bloodied sword beside his Junior Brother’s severed head.",
+      "defect": "The draft places the severed head beside Cheongheoja; the source says he was holding both the head and the bloody sword.",
+      "id": "F01",
+      "rationale": "The master’s possession of the head is part of the apparent proof of Hak Eui’s death.",
+      "replacement": "He’d seen his master holding his Junior Brother’s severed head and a sword dripping with blood.",
+      "severity": "critical",
+      "source": "잘려 나간 사제의 목과 피가 흐르는 검을 들고 있던 스승의 모습을 볼 수 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Who are you talking to?”",
+      "defect": "Cheongheoja asks who is running out of time, not whom Hak Su is addressing.",
+      "id": "F02",
+      "rationale": "The question turns Hak Su’s warning back on him; Cheongheoja repeats it explicitly in his next line.",
+      "replacement": "“Who is out of time?”",
+      "severity": "major",
+      "source": "“누구에게 말이냐?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "A dead man had come back to life.",
+      "defect": "The draft asserts a resurrection. The source describes the appearance of someone believed to be dead.",
+      "id": "F03",
+      "rationale": "The subsequent dialogue reveals that Hak Eui’s death was staged.",
+      "replacement": "The man they had believed dead stood before them.",
+      "severity": "major",
+      "source": "이미 돌아올 수 없는 강을 건넜다고 알려진 망자(亡者)가, 모두의 앞에 모습을 드러냈으니."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had taken a boy he’d happened to meet wandering near Qinghai Lake—and who had concealed his true purpose—as a sign of fate.",
+      "defect": "Hak Su staged the encounter to look accidental; the draft instead calls it a chance meeting and only says he hid his purpose.",
+      "id": "F04",
+      "rationale": "우연을 가장한 specifies the deception’s mechanism: the apparent coincidence was deliberate.",
+      "replacement": "He had accepted his meeting with a boy wandering near Qinghai Lake as fate, never knowing the boy had made it look like chance.",
+      "severity": "major",
+      "source": "우연을 가장한 채 청해호 인근을 떠돌던 어느 소년과의 만남을 운명으로 받아들였으니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Elders known as the Kunlun Ten Guests, destined to follow in the Kunlun Five Immortals’ footsteps and considered essential pillars of the Kunlun Sect,",
+      "defect": "The draft makes the Ten Guests current Elders; the source describes them as future Elders expected to succeed the Five Immortals.",
+      "id": "F05",
+      "rationale": "향후 marks their elder status as prospective.",
+      "replacement": "The Kunlun Ten Guests, regarded as future Elders who would succeed the Kunlun Five Immortals and as indispensable pillars of the Kunlun Sect,",
+      "severity": "major",
+      "source": "곤륜십객(崑崙十客)이라 불리며, 향후 곤륜오선의 뒤를 이을 장로들이자 작금의 곤륜파에서 빼놓을 수 없는 중추로 여겨지는 그들은"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hak Eui’s eyes widened at the unbelievable sight beyond Cheongheoja’s shoulder, which now blocked his view.",
+      "defect": "Cheongheoja blocks Hak Eui’s path, not his view; Hak Eui sees the scene over his shoulder.",
+      "id": "F06",
+      "rationale": "앞을 가로막은 describes Cheongheoja intercepting Hak Eui’s advance.",
+      "replacement": "Cheongheoja had stepped into his path. Over his master’s shoulder, Hak Eui caught sight of something unbelievable, and his eyes widened.",
+      "severity": "major",
+      "source": "어느덧 앞을 가로막은 청허자의 어깨너머로 보이는 믿을 수 없는 광경에, 학의는 눈을 부릅떴다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Six. That’s my name.”",
+      "defect": "The draft drops 호, which makes the name a numbered designation rather than simply the word “Six.”",
+      "id": "F07",
+      "rationale": "육호 identifies him by an assigned number.",
+      "replacement": "“Number Six. That’s my name.”",
+      "severity": "major",
+      "source": "“육호(六號). 그게 내 이름이다.”"
+    }
+  ],
+  "summary": "The draft changes the staged meeting, the decoy’s physical evidence, and several details of the reveal.",
+  "version": 1
+}
