@@ -2477,3 +2477,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 홍표 | **Hong Pyo** | Deputy Thousand Captain of the Gansu Regional Military Commission. |
 | 혈검마군 | **Blood-Sword Demon Lord** | Antagonist commanding the army advancing on the Great Snow Mountain. |
 | 천산삼노 | **Three Elders of Tianshan** | The three former Demonic Cult fiends serving the Blood-Sword Demon Lord. |
+| 호법원주 | **Guardian Court Chief** | Title of a Kongtong Sect official reported among the dead. |
