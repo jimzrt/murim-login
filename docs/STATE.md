@@ -1,23 +1,22 @@
 # Translation State
 
-- Last completed: 1026
-- Next chapter: 1027
-- Current block: 1025–1029 (2/5)
-- Latest translation: `translations/1026.md`
-- Latest summary: `summaries/beats/1026.md`
-- Safe profiles through: chapter 1026
+- Last completed: 1027
+- Next chapter: 1028
+- Current block: 1025–1029 (3/5)
+- Latest translation: `translations/1027.md`
+- Latest summary: `summaries/beats/1027.md`
+- Safe profiles through: chapter 1027
 
 ## Current Block
 
-- Dark Heaven demands an unarmed meeting at a midpoint in half an hour, limited to three attendees and requiring Jin Taekyung; it threatens to kill all one thousand prisoners if any condition is broken. Jin and Jeok Cheongang agree to go. After Sima Gong and the Wind-and-Cloud Sword Lord debate who should take the third place, Sama Pyo volunteers, leaving Sima Gong and the Sword Lord behind. On the way, Taekyung questions Pyo’s reason for volunteering; Pyo deflects by asking about Taekyung’s Go proverb and his father. An unknown visitor approaches on horseback.
+- The approaching rider is revealed as the Blood-Sword Demon Lord, the killer of Goyangcheon, the last survivor of the Goyang Family and the former Spear King. He recalls serving the Heavenly Demon and killing the Heaven-Poison Demon Lord, the Hainan Sect Leader, and Goyangcheon; he also says Mae Jonghak’s killing of Heaven-Poison worked out well for him.
+- Taekyung questions when Dark Heaven and the Lord of Heaven emerged. The Blood-Sword Demon Lord refuses to answer, says he only wanted to confirm something, and admits he fears Taekyung might defeat the Lord of Heaven. As Taekyung, Jeok Cheongang, and Sama Pyo rush forward, the Three Elders of Tianshan block them. The Blood-Sword Demon Lord lowers his hand and commands a strike; roughly a thousand heads fall, and he is smiling.
 
 ## Open Questions
 
-- Who is the approaching visitor, and what does the meeting hold for the defenders?
-- Who is the new Demon Lord, and what is the purpose of the offer?
-- What will happen to the thousand prisoners?
-- Who killed the Great Snow Mountain scouts, and what is the origin of the sword technique?
-- Who sent Sama Pyo the secret letter, what did it say, and are Sima Gong’s orders involving Pyo and Taishan connected to Dark Heaven?
+- When did Dark Heaven and the Lord of Heaven emerge, and did Dark Heaven cause the Great Faction War?
+- Who or what was the target of the Blood-Sword Demon Lord’s commanded strike, and what happened to the meeting party and the thousand prisoners?
+- What is the Lord of Heaven’s identity and purpose?
 
 ## Exceptional Decision
 
