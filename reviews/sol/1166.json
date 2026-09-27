@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Or if Jin Taekyung had possessed a Dragonheart, brimming with power almost without limit like his own, perhaps it would be Morgoth—not Jin Taekyung—standing there now.",
+      "defect": "Reverses who Morgoth imagines would be standing.",
+      "id": "F01",
+      "rationale": "The source explicitly says 진태경, not 자신, might be standing there.",
+      "replacement": "Or if Jin Taekyung had possessed a Dragonheart, brimming with power almost without limit like his own, perhaps Jin Taekyung would be the one standing there now instead of him.",
+      "severity": "critical",
+      "source": "혹은 진태경이 자신처럼 무한에 가까운 힘을 품은 드래곤 하트(Dragonheart)를 갖고 있었더라면, 지금 서 있는 것은 자신이 아닌 진태경이었을지도 모른다고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You didn’t think I’d overlook something this obvious, did you?”",
+      "defect": "The negative question suggests Jin did not expect Morgoth to miss it; Morgoth is challenging Jin for thinking he would fail to anticipate it.",
+      "id": "F02",
+      "rationale": "예상 못 할 줄 알았나 asks whether Jin thought Morgoth could not anticipate even this much.",
+      "replacement": "“Did you think I wouldn’t see even this coming?”",
+      "severity": "major",
+      "source": "고작 이 정도도 예상 못 할 줄 알았나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Taekyung surged forward, propelled by the explosive force of Flamefire Path, and brought his spear down with all his strength.",
+      "defect": "Changes Jin’s upward surge into forward movement.",
+      "id": "F03",
+      "rationale": "솟구쳐 오른 describes rising before the downward spear strike.",
+      "replacement": "Jin Taekyung shot upward on the explosive force of Flamefire Path and brought his spear down with all his strength.",
+      "severity": "major",
+      "source": "염화일로(炎火一路)의 폭발력을 바탕으로 솟구쳐 오른 진태경은 온 힘을 다해 창날을 내리그었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“I’m… afraid of you.”",
+      "defect": "Loses the pointedly contemptuous address that marks Morgoth’s abandonment of polite speech.",
+      "id": "F04",
+      "rationale": "네놈 is insulting rather than the courteous 자네 Morgoth used earlier; the preceding narration explicitly marks that register shift.",
+      "replacement": "“Because I’m… afraid of you, you bastard.”",
+      "severity": "major",
+      "source": "상대가 아닌 오직 자신의 기품을 위해 사용해 왔던 최소한의 존대도, 실낱처럼 남아 있던 마지막 한 조각의 오만도 내려놓은 모르고스가 나직이 덧붙였다.\n\n- 나는…… 네놈이 두려우니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Using his foot, heavy with a thousand pounds of weight, as his pivot,",
+      "defect": "Omits the step and makes the foot itself heavy rather than describing a weighty step.",
+      "id": "F05",
+      "rationale": "내디디며 is the action of stepping; the planted foot becomes the axis of the strike.",
+      "replacement": "He planted a step with the weight of a thousand pounds, using that foot as his pivot,",
+      "severity": "major",
+      "source": "천근의 무게를 담은 발을 축으로 삼아 내디디며"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A storm that swept everything away, and an inferno capable of burning anything.",
+      "defect": "Drops the established rendering of 겁화.",
+      "id": "F06",
+      "rationale": "The supplied glossary specifies “hellfire” for 겁화.",
+      "replacement": "A storm that swept everything away, and hellfire capable of burning anything.",
+      "severity": "minor",
+      "source": "모든 것을 휩쓰는 폭풍인 동시에, 무엇이든 불태울 수 있는 겁화를."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A supreme power granted only to Dragons.",
+      "defect": "Narrows the stated recipients from dragonkin to Dragons.",
+      "id": "F07",
+      "rationale": "The supplied glossary distinguishes 용족, “dragonkin,” from 드래곤, “Dragon.”",
+      "replacement": "A supreme power granted only to dragonkin.",
+      "severity": "major",
+      "source": "오직 용족에게만 허락된 초유의 권능."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> Status effect **[Trance]** applied.",
+      "defect": "Retains square brackets around a term inside a System panel.",
+      "id": "F08",
+      "rationale": "The binding Markdown rules prohibit square brackets around System UI terms.",
+      "replacement": "> Status effect **Trance** applied.",
+      "severity": "minor",
+      "source": "- 상태 이상, [무아지경(無我之境)]이 적용됩니다."
+    }
+  ],
+  "summary": "One reversal of who would be standing, plus errors in Morgoth’s challenge, combat mechanics, and terminology.",
+  "version": 1
+}

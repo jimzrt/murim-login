@@ -1,22 +1,20 @@
 # Translation State
 
-- Last completed: 1165
-- Next chapter: 1166
-- Current block: 1165–1169 (1/5)
-- Latest translation: `translations/1165.md`
-- Latest summary: `summaries/beats/1165.md`
-- Safe profiles through: chapter 1165
+- Last completed: 1166
+- Next chapter: 1167
+- Current block: 1165–1169 (2/5)
+- Latest translation: `translations/1166.md`
+- Latest summary: `summaries/beats/1166.md`
+- Safe profiles through: chapter 1166
 
 ## Current Block
 
-- Morgoth summons his remaining regional forces as Jin Taekyung advances through the Dragon-tooth soldiers. The suicide squad and reinforcements led by Magic Johnson arrive, followed by Felix and four S-rank Hunters. They engage Morgoth’s forces and the seven Guardians, who are the old comrades of the arriving Hunters. With the allied mages countering Morgoth’s lightning, Jin pushes toward Morgoth.
+- Jin Taekyung breaks through Morgoth’s layered defensive magic, but Morgoth’s gravity and successive spells drive him into a battle of attrition. Jin burns away Morgoth’s ice, lightning, and thorny vines with Fire Dragon’s Single Tail, reaching the brink of Great Completion. Morgoth catches him with gravity and vines, then fires Dragon Breath to erase him. As the blast arrives, Jin enters No-self, his Fire Dragon Divine Spear reaches Great Completion, and he perceives the world with the Mind’s Eye before lifting his spear.
 
 ## Open Questions
 
-- Can Jin reach and defeat Morgoth?
-- Can the Guardians be freed from Morgoth’s control?
-- What is the Skeleton King’s condition after his sacrifice?
-- Can the arriving allies turn the battle’s tide?
+- Did Jin survive Morgoth’s Dragon Breath, and can he counterattack?
+- What will Jin perceive or do through the Mind’s Eye while in No-self?
 
 ## Exceptional Decision
 
