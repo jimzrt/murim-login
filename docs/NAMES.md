@@ -2526,3 +2526,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 황하수로맹 | **Yellow River Channel League** | The Yangtze River Channel League’s former rival. |
 | 통산 | **Tongsan** | Place crossed by the Green Forest forces. |
 | 천도객 | **Heaven-Stealing Thief** | Epithet of the thief said to be able to steal from heaven. |
+| 만총 | **Man Chong** | Branch Master of the Beggars’ Sect’s Xining branch. |

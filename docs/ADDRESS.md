@@ -1549,3 +1549,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 청풍 | 대인 | younger companion addressing an older benefactor | Uncle Great Sir | polite and familiar | Cheongpung repeatedly calls him 대인 아저씨. |
 | 대인 | 청풍 | older benefactor addressing a younger companion | you | familiar and teasing | Great Sir addresses Cheongpung as 자네. |
 | 제갈풍 | 맹주 | Zhuge Clan Family Head to Murim Alliance Leader | Alliance Leader | polite | Zhuge Feng addresses the concealed Alliance Leader in the Zhuge Clan garden. |
+| 만총 | 석삼 | branch master to subordinate disciple; close comrades | Seok Sam | familiar informal | Man Chong calls to Seok Sam by name; the answering voice is an impersonator. |
+| 혈주 | 만총 | hostile attacker to opposing branch master | you | taunting informal | The Blood Lord uses 당신 while baiting Man Chong. |
