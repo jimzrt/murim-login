@@ -1,23 +1,22 @@
 # Translation State
 
-- Last completed: 1140
-- Next chapter: 1141
-- Current block: 1140–1144 (1/5)
-- Latest translation: `translations/1140.md`
-- Latest summary: `summaries/beats/1140.md`
-- Safe profiles through: chapter 1140
+- Last completed: 1141
+- Next chapter: 1142
+- Current block: 1140–1144 (2/5)
+- Latest translation: `translations/1141.md`
+- Latest summary: `summaries/beats/1141.md`
+- Safe profiles through: chapter 1141
 
 ## Current Block
 
-- The Son of Heaven formally enfeoffs Jin Taekyung as Prince Shangshan, then offers him the title Prince of Ye, which Taekyung declines. Taekyung jokes with the Emperor about receiving more royal titles, stunning the onlookers.
-- Murim leaders from across the realm arrive in Xining and gather around Taekyung, greeting him with respect. After the city becomes a celebration, Taekyung leaves and meets the Bow Saint beside the river beyond the East Gate; he had avoided her for three days to sort through his thoughts, and they watch the river in silence.
+- The Bow Saint tells Jin Taekyung how the Martial God first appeared during the Great Faction War, defeated a pursuing Demonic Cult force, united the Murim factions, and later vanished after defeating the Heavenly Demon. Taekyung suspects her account is incomplete, recalling that she remained indifferent when his life was in danger. When he asks why the Martial God wanted to find him, she answers that it was for the sake of the realm; Taekyung accepts this as true and concludes that he now knows the identity of another being like the Martial God, though the chapter does not name that person.
 
 ## Open Questions
 
 - What was the Bow Saint’s motive when Jin Taekyung was in mortal danger?
 - What will happen in the campaign against the Lord of Heaven?
 - What is the connection between Cheon Taemin and the Martial God?
-- What will Taekyung and the Bow Saint discuss?
+- What is the Bow Saint withholding about the Martial God?
 - What did Taekyung’s dream of the winged being and battlefield signify?
 
 ## Exceptional Decision
