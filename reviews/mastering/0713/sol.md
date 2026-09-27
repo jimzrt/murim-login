@@ -16,7 +16,7 @@ Space twisted. The darkness that had writhed as though it were alive went still,
 
 Toward the gap in the cliff, its enormous jaws open like some primordial beast, beyond the thick darkness that had swallowed the guardian spirit.
 
-At the same time, I could clearly see and hear it.
+Then I saw and heard it clearly.
 
 —Kraaaaang!
 
@@ -52,7 +52,7 @@ Kuwaaaang!
 
 The wind—no, the storm—swallowed his voice.
 
-A distant flash of darkness and light mixed together, blocking my vision, while the enormous shock wave battered and flung away everything within its range.
+A blinding flash of mingled darkness and light hid everything from view. The shock wave struck everything in its path and sent it flying.
 
 But—
 
@@ -66,7 +66,7 @@ No. They canceled it out.
 
 Kuwaaaang! Crack!
 
-The earth shook with a deafening roar. The impact was powerful enough to push back both of my firmly rooted legs.
+The earth shook. The impact drove back my feet despite how firmly I had planted them.
 
 Jeok Cheongang had stepped forward to protect the survivors too. He flicked both sleeves.
 
@@ -78,13 +78,13 @@ Unlike mine, his two fully formed fire dragons rampaged through the air, tearing
 
 Ssszzzzzt!
 
-Smoke and steam filled every direction. In a world dyed entirely pale white, I exhaled the breath I had been holding and reached out.
+Acrid smoke and steam filled the air. With the world turned white around me, I let out the breath I had been holding and thrust out a hand.
 
 Boom!
 
 Compressed air burst outward, driving the smoke and steam away.
 
-And beyond the vision that slowly cleared, the darkness was dispersing, while a collapse that had only just begun awaited us all.
+As my view cleared, I saw the darkness dispersing—and the collapse that had only just begun.
 
 Rumble. Rumble-rumble!
 
@@ -100,7 +100,7 @@ It was over.
 
 The long, fierce battle had finally ended. We had stopped a catastrophe that might have claimed hundreds of thousands of lives. Perhaps millions.
 
-Why was the emptiness greater than the joy?
+So why did I feel more empty than relieved?
 
 Perhaps because I knew better than anyone that something remained unfinished.
 
@@ -116,11 +116,9 @@ Ding.
 >
 > A sudden **Quest**, **Sacrifice and Rest**, has been generated. You cannot refuse this Quest.
 
-As the System notification reached my ears, I suddenly reached out.
+At the sound of the System notification, I reached out.
 
-The darkness that had writhed painfully in the air like a living creature scattered between my fingers.
-
-The sunlight shining through the slowly dispersing storm clouds was warm. Floating above it was a translucent holographic window displaying only a few short lines.
+The darkness that had writhed in the air like a living thing scattered between my fingers. Sunlight warmed my hand through the thinning storm clouds. Above it floated a translucent window bearing only a few lines of text.
 
 > **System**
 >
@@ -152,7 +150,7 @@ Step.
 
 I walked through the darkness as it broke apart and blew away with the ash. Jeok Cheongang followed quietly. Among the countless rocks still crashing down, I sensed someone’s presence.
 
-I saw it.
+No. I saw him.
 
 > **System**
 >
@@ -170,7 +168,7 @@ Whoosh!
 
 His form blurred, and the ten-odd jang between us vanished. His blood-soaked forepaw struck the ground, launching his enormous body into the air.
 
-Pop.
+Thud.
 
 A shadow fell over our heads. Jeok Cheongang and I struck with all our strength, remembering what the guardian spirit had asked of us before he left.
 
@@ -188,7 +186,7 @@ It was somewhere deep and cold. No light reached it. Not even the faintest warmt
 
 Then he felt warmth and opened his eyes.
 
-No. It was not warmth. It was heat.
+No. It was too fierce to call warmth. Heat.
 
 Through his blurred vision, he made out a familiar face.
 
@@ -212,7 +210,7 @@ How strange. He had lost everything he had wanted, yet he felt no despair. Only 
 
 “She’s dead.”
 
-“The rift must have disappeared as well.”
+“And the rift is gone.”
 
 “…Yes.”
 
@@ -228,7 +226,7 @@ Baeksang stared at the bodies with empty eyes.
 
 “…!”
 
-Jin Taekyung clenched his teeth and glared at Baeksang. Baeksang did not avoid the gaze, where flames seemed to pour down in streams.
+Jin Taekyung clenched his teeth and glared at him. Baeksang did not look away from the fury in his eyes.
 
 “To be precise, I learned a few months ago, when a letter arrived from the Central Plains.”
 
@@ -258,7 +256,7 @@ To offer them up as living sacrifices.
 
 “You stupid fuck. How can you even say—”
 
-For some reason, Jin Taekyung’s words suddenly trailed off.
+Jin Taekyung stopped. Something had occurred to him.
 
 Baeksang moved his bloodstained lips.
 
@@ -286,7 +284,7 @@ It made him grieve—and it made him furious.
 
 “…!”
 
-“And Hwi… that child. I would have lost him all over again.”
+“And I would have lost Hwi again.”
 
 Old memories passed through Baeksang’s eyes.
 
@@ -302,7 +300,7 @@ Whenever his resolve wavered after that, he went to the Southern Heaven Demon Em
 
 That was why he had created the Baekcheon Unit.
 
-Not for himself, but for someone else—for the hope that he would stop this catastrophe.
+Not for himself. For someone else, in the hope that they would stop the catastrophe.
 
 “I couldn’t do that myself.”
 
@@ -310,7 +308,7 @@ A child might kill a parent, but no parent could kill their child.
 
 Baeksang was a father. Even if he went back to that moment dozens of times—hundreds—he would make the same choice.
 
-Baeksang spat up blood and lifted his blurred eyes toward the Beast Miao King.
+He coughed up blood and lifted his dimming eyes to the Beast Miao King.
 
 A memory passed through them: the saddest and happiest day of his life.
 
@@ -324,4 +322,4 @@ Just as he had decades later, on the day the Southern Heaven Demon Empress came 
 
 Baeksang gave a faint smile.
 
-“Please kill me, hyung.”
+“Kill me, hyung.”

@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "The Beast Miao King, barely conscious, reached toward the distant light with a dazed look on his face.",
+      "defect": "The source says he had only just regained consciousness, not that he remained barely conscious. The current wording changes his state.",
+      "id": "F01",
+      "rationale": "이제 겨우 정신을 차린 describes having only just come to; it does not establish that he was still barely conscious.",
+      "replacement": "The Beast Miao King, who had only just regained consciousness, reached toward the distant light with a dazed look on his face.",
+      "severity": "minor",
+      "source": "Lines 31–33"
+    },
+    {
+      "confidence": 0.96,
+      "current": "All two hundred jang of it.",
+      "defect": "This makes the cliff exactly two hundred jang long, losing the source's approximate, slightly-greater-than-two-hundred measure.",
+      "id": "F02",
+      "rationale": "이백여 장 indicates a little over two hundred jang; the accepted baseline preserved that quantity.",
+      "replacement": "More than two hundred jang of it.",
+      "severity": "minor",
+      "source": "Line 97"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Jagged rocks, great and small, poured from above and filled the sky.",
+      "defect": "“Jagged” substitutes a sharp-edged quality for the source's description of unusually shaped, bizarre rocks.",
+      "id": "F03",
+      "rationale": "기암괴석 describes oddly shaped rocks, not specifically jagged ones.",
+      "replacement": "Strange rocks, great and small, poured from above and filled the sky.",
+      "severity": "minor",
+      "source": "Line 99"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Smoke and steam filled every direction.",
+      "defect": "The English omits the smoke's acrid quality.",
+      "id": "F04",
+      "rationale": "매캐한 describes the smoke as acrid or choking; this physical detail is present in the source.",
+      "replacement": "Acrid smoke and steam filled every direction.",
+      "severity": "minor",
+      "source": "Line 87"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with several minor shifts in physical detail and state.",
+  "version": 1
+}
