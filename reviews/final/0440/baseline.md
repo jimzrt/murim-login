@@ -54,77 +54,79 @@ Only then did the junior nod. The veteran let out a deep sigh and looked at his 
 
 The chatroom for the live stream currently airing on iTube, the world’s largest video-sharing website, was already going berserk.
 
-> └ ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ Sibu-leol.
->
-> └ Lord Fuck… *he* is back.
->
-> └ Lord Balls too. I saw him bet his balls on the Chinese news earlier and laughed my ass off, seriously lmao.
->
-> └ King Taekyung. The bastard who pulled off an incredible achievement, told every interview to fuck off, and wrapped up his official press conference in thirty minutes…
->
-> └ And yet fought like hell to rescue the survivors until the very end…
->
-> └ The bastard who bet his balls instead of money on a Chinese state-run broadcast watched by at least ten million people…
->
-> └ The bastard who says *sibu-leol* in front of the entire world…
->
-> └ King Taekyung. Infinitely warmhearted, but completely insane…
->
-> └ ㅋㅋㅋㅋㅋㅋ Is he even a Hunter, or is he some kind of eccentric?
->
-> └ Nope, he’s Lord Sibu-leol.
->
-> └ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ Lord Sibu-leol is pretty good.
->
-> └ ㅋㅋㅋㅋㅋㅋㅋㅋ Actually, didn’t King Taekyung say something about this in an earlier interview? He asked people to stop calling him Lord Fuck.
->
-> └ Really? Got it, hyung![^1] From today on, I’ll call him Lord Sibu-leol!
->
-> └ He doesn’t like Lord Fuck? Then we have to call him Lord Sibu-leol from now on lmao.
->
-> └ Lord Fuck + Lord Balls = Lord Sibu-leol.
->
-> └ Look at that buildup lmao. At this point, was it intentional?
->
-> └ Hello, everyone. What do you think about the fact that Mr. Jin is a descendant of Jin Chui, a general of the Ming dynasty? China is a great and powerful country, so if he were to become a naturalized citizen, it would be an even better opportunity for him. Oh, and for the record, I’m Korean.
->
-> └ ??????
->
-> └ Why are you suddenly dumping jajang[^2] sauce in here…
->
-> └ Take care on your way home, Mr. Wang.
->
-> └ If that bastard is Korean, then I’m an Asgardian. I drank beer with Thor in Valhalla yesterday.
->
-> └ Heh, Chinese as expected. You give yourself away immediately because you’re an idiot wwwww. Of course, Jin Taekyung is an idiot too. I’m Korean as well, but I think it’s a nuisance to everyone when he uses such vulgar language at an official event like today. At the very least, there’s something to learn from our neighboring country Japan when it comes to national character.
->
-> └ ????
->
-> └ Jajang[^2] sauce wasn’t enough, so now you’re dumping wasabi on us too…
->
-> └ “Heh” lmao. You sound like some Japanese right-winger trembling with rage at King Taekyung. Why are you so stupid?
->
-> └ ??? : Magdonaldo. Ssankyu![^3]
->
-> └ Please watch your own country’s broadcasts. Stop coming to Korea’s official channel and pretending to be Korean.
->
-> └ Wwwww, it’s hilarious how hard you’re denying reality. I really am Korean.
->
-> └ Where do you live?
->
-> └ Seoul City, Busan District.[^4]
->
-> └ Ha…
->
-> └ There’s a reason people call this place Hell Joseon.[^5] What is this, left Azure Dragon and right White Tiger?[^6] We’ve got left jajang[^2] and right wasabi.
->
-> └ There’s even a Devil Fruit user up north.[^7]
->
-> └ ??? : Uncle-in-law, uncle-in-law, total barrage![^8]
->
-> └ Don’t get baited by weirdos. Watch the broadcast. The car parade is about to start.
->
-> └ It really is. Don’t get angry over pointless stuff, hyungs.[^1] Let’s just watch King Taekyung.
+ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ Sibu-leol.
+
+Lord Fuck… *he* is back.
+
+Lord Balls too. I saw him bet his balls on the Chinese news earlier and laughed my ass off, seriously lmao.
+
+King Taekyung. The bastard who pulled off an incredible achievement, told every interview to fuck off, and wrapped up his official press conference in thirty minutes…
+
+And yet fought like hell to rescue the survivors until the very end…
+
+The bastard who bet his balls instead of money on a Chinese state-run broadcast watched by at least ten million people…
+
+The bastard who says *sibu-leol* in front of the entire world…
+
+King Taekyung. Infinitely warmhearted, but completely insane…
+
+ㅋㅋㅋㅋㅋㅋ Is he even a Hunter, or is he some kind of eccentric?
+
+Nope, he’s Lord Sibu-leol.
+
+ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ Lord Sibu-leol is pretty good.
+
+ㅋㅋㅋㅋㅋㅋㅋㅋ Actually, didn’t King Taekyung say something about this in an earlier interview? He asked people to stop calling him Lord Fuck.
+
+Really? Got it, hyung! From today on, I’ll call him Lord Sibu-leol!
+
+He doesn’t like Lord Fuck? Then we have to call him Lord Sibu-leol from now on lmao.
+
+Lord Fuck + Lord Balls = Lord Sibu-leol.
+
+Look at that buildup lmao. At this point, was it intentional?
+
+Hello, everyone. What do you think about the fact that Mr. Jin is a descendant of Jin Chui, a general of the Ming dynasty? China is a great and powerful country, so if he were to become a naturalized citizen, it would be an even better opportunity for him. Oh, and for the record, I’m Korean.
+
+??????
+
+Why are you suddenly dumping jajang sauce in here…
+
+Take care on your way home, Mr. Wang.
+
+If that bastard is Korean, then I’m an Asgardian. I drank beer with Thor in Valhalla yesterday.
+
+Heh, Chinese as expected. You give yourself away immediately because you’re an idiot wwwww. Of course, Jin Taekyung is an idiot too. I’m Korean as well, but I think it’s a nuisance to everyone when he uses such vulgar language at an official event like today. At the very least, there’s something to learn from our neighboring country Japan when it comes to national character.
+
+????
+
+Jajang sauce wasn’t enough, so now you’re dumping wasabi on us too…
+
+“Heh” lmao. You sound like some Japanese right-winger trembling with rage at King Taekyung. Why are you so stupid?
+
+??? : Magdonaldo. Ssankyu!
+
+Please watch your own country’s broadcasts. Stop coming to Korea’s official channel and pretending to be Korean.
+
+Wwwww, it’s hilarious how hard you’re denying reality. I really am Korean.
+
+Where do you live?
+
+Seoul City, Busan District.
+
+Ha…
+
+There’s a reason people call this place Hell Joseon.[^1] What is this, left Azure Dragon and right White Tiger? We’ve got left jajang and right wasabi.
+
+There’s even a Devil Fruit user up north.
+
+??? : Uncle-in-law, uncle-in-law, total barrage!
+
+Don’t get baited by weirdos. Watch the broadcast. The car parade is about to start.
+
+It really is. Don’t get angry over pointless stuff, hyungs. Let’s just watch King Taekyung.
+
+[^1]: “Hell Joseon” is a cynical nickname for South Korea, comparing modern society to the rigid and oppressive Joseon era.
 
 Broadcast networks, cable channels, and general programming channels were all showing the scene. On top of that, viewers around the world were watching through iTube’s live stream.
 
@@ -132,17 +134,17 @@ With untold numbers watching, the massive limousine bus carrying Jin Taekyung an
 
 The cheers grew louder, flashes burst everywhere, and drones filled the sky overhead, painting patterns across the night.
 
-> └ Wow, this is insane. There are so many people that the cameras can’t even fit them all in the frame ㄷㄷ;[^9]
->
-> └ This is bigger than the Olympics. How many drones are there, anyway?
->
-> └ A lot, I guess?
->
-> └ I know that much…
->
-> └ I got goose bumps the moment the bus started moving. My chest actually swelled up. Is this for real?
+Wow, this is insane. There are so many people that the cameras can’t even fit them all in the frame ㄷㄷ;
 
-The limousine bus carrying Jin Taekyung and his companions moved at ten kilometers per hour[^10] through a wall of people.
+This is bigger than the Olympics. How many drones are there, anyway?
+
+A lot, I guess?
+
+I know that much…
+
+I got goose bumps the moment the bus started moving. My chest actually swelled up. Is this for real?
+
+The limousine bus carrying Jin Taekyung and his companions moved at ten kilometers per hour through a wall of people.
 
 Brilliant fireworks exploded without pause, and flower petals scattered by the crowd whirled through the air on the wind.
 
@@ -172,7 +174,7 @@ His mother’s warm hand stroking his back made his throat tighten, while the si
 
 “Mom worked harder than I did. You too, Sis.”
 
-“I know. Mom and Oppa[^11] worked harder.”
+“I know. Mom and Oppa worked harder.”
 
 “I thought you were barely human, but you do have a shred of conscience after all.”
 
@@ -210,15 +212,15 @@ Team Leader Choi stared at the hand Jin Taekyung held out. Then a deep dimple ap
 
 Just as the two firmly clasped hands, a grumbling voice rang out inside Jin Taekyung’s head.
 
-*You’re all having a grand old time.*
+—You’re all having a grand old time.
 
 *Are you still sulking?*
 
-*Who is sulking?! Does this body, reborn as a great king, look as though it would feel such a petty human emotion?*
+—Who is sulking?! Does this body, reborn as a great king, look as though it would feel such a petty human emotion?
 
 *You’re definitely sulking.*
 
-*I am not!*
+—I am not!
 
 The attention seeker—no, the Skeleton King—who had been forced by circumstances to hide in the Inventory had been sulking bitterly for quite a while.
 
@@ -226,31 +228,31 @@ Jin Taekyung smiled faintly and spoke inwardly.
 
 *Hey.*
 
-*Do not speak to me!*
+—Do not speak to me!
 
 *Thanks for everything so far. I’m counting on you from here on out, too.*
 
-*H-Hmm.*
+—H-Hmm.
 
 The Skeleton King cleared his throat and continued hesitantly.
 
-*Since you put it that way, I shall consider it.*
+—Since you put it that way, I shall consider it.
 
 *Consider what?*
 
-*Staying with you, you vile human.*
+—Staying with you, you vile human.
 
 *Oh, you don’t need to consider that.*
 
-*What?*
+—What?
 
 *You’re joining Peace Guild no matter what. I’ve already had the contract drawn up, so go put your thumbprint on it. No, wait. Your fingerprints won’t show up in a records check, so I guess you’ll have to stamp it with your skull.*
 
-*What is this?! Is this not a free and democratic country?!*
+—What is this?! Is this not a free and democratic country?!
 
 *Nope. I’m going to work you like a slave and suck out every last drop, right down to your marrow.*
 
-*Release this body immediately! Turn the car around!*
+—Release this body immediately! Turn the car around!
 
 Unable to hold it in any longer, Jin Taekyung burst out laughing and leaned toward the driver’s seat.
 
@@ -292,7 +294,7 @@ If anything, people seemed to compete to feed fresh wood and wind to the fading 
 
 The name Jin Taekyung was everywhere, and for someone still suffering from severe aftereffects, it was unbearable torment.
 
-“This morning, the United States’ S-rank Hunter Magic Johnson announced through his official social-media account that he is pursuing some kind of agreement with Peace Guild—”
+—This morning, the United States’ S-rank Hunter Magic Johnson announced through his official social-media account that he is pursuing some kind of agreement with Peace Guild—
 
 *Bang!*
 
@@ -313,15 +315,3 @@ At the same time, it belonged to the man who had shown him a fear he could never
 Just as Go Jun howled amid the devastated room, a faint sound of movement reached him, followed by a cautious voice.
 
 “T-Team Leader.”
-
-[^1]: *Hyung* is a term a man uses for an older brother or an older male acquaintance. *Hyungs* is its plural.
-[^2]: *Jajang* is the black-bean sauce used in Korean-style Chinese noodles. Here it stands for the Chinese commenter, just as wasabi stands for the Japanese commenter.
-[^3]: “Magdonaldo” and “Ssankyu” imitate Japanese pronunciations of “McDonald’s” and “thank you.”
-[^4]: Seoul and Busan are separate cities; Busan is not a district of Seoul.
-[^5]: “Hell Joseon” is a cynical nickname for South Korea, comparing modern society to the rigid and oppressive Joseon era.
-[^6]: The Azure Dragon and White Tiger are traditional symbols associated with the east and west, respectively.
-[^7]: Devil Fruits grant supernatural powers in the manga *One Piece*. “Up north” refers to North Korea.
-[^8]: This twists the name of an attack from *One Piece* into a reference to an uncle by marriage, alluding to the execution of North Korean leader Kim Jong-un’s uncle by marriage.
-[^9]: ㄷㄷ represents trembling and is used online to express shock or awe.
-[^10]: Ten kilometers per hour is about 6.2 mph.
-[^11]: *Oppa* is a term a woman uses for an older brother or an older male acquaintance.
