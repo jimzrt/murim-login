@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 1082
-- Next chapter: 1083
-- Current block: 1080–1084 (3/5)
-- Latest translation: `translations/1082.md`
-- Latest summary: `summaries/beats/1082.md`
-- Safe profiles through: chapter 1082
+- Last completed: 1083
+- Next chapter: 1084
+- Current block: 1080–1084 (4/5)
+- Latest translation: `translations/1083.md`
+- Latest summary: `summaries/beats/1083.md`
+- Safe profiles through: chapter 1083
 
 ## Current Block
 
-- Cheongpung watches the crowd desecrate the executed officials’ bodies and reflects that he never grows used to killing. Great Sir tells him that the strong are not accustomed to killing but worn down by it, and that Taekyung has chosen to accept his reality and fate. After Great Sir’s eccentric banter and flawless concealment technique, Hyuk Mujin finds Cheongpung and reports that Potala Palace in Tibet has joined Dark Heaven and that Seafaring King Pa Ryun and Green Forest Battle King Tae Gunak have betrayed them.
-- Pa Ryun and Tae Gunak meet in front of a dense forest. Despite their mutual insults and long rivalry, they suppress their auras and discuss a plan that is proceeding as instructed: in two days, they are to take control of the Yangtze.
+- Villagers connect a blocked mountain road and a recovered Blue Flower Escort Bureau flag to a suspected Green Forest Alliance attack, and fear the Alliance may betray its official allies. They also discuss reports that the Murong Family joined Dark Heaven. Pa Ryun recounts how imperial troops killed the old man who raised him, leading him to reject the Son of Heaven’s claim to rule; he now leads a fleet toward the Great Nation’s warships.
 
 ## Open Questions
 
-- Who is the black-robed captive, and what does he know?
+- Who is the black-robed captive in Qinghai, and what does he know?
 - Why did the Lord of Heaven spare Taekyung in Gansu, and what is his real purpose?
 - Will the Alliance Leader and other righteous warriors reach Qinghai?
 - What is the hidden ember Cheongheoja warned about?
-- What did the Murim Alliance’s missive say, and who instructed Pa Ryun and Tae Gunak?
+- Who is the black-robed man beside Pa Ryun?
 
 ## Exceptional Decision
 
