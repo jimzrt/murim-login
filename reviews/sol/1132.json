@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "“You kept your promise.”",
+      "defect": "The draft assigns the fulfilled promise to Jeok Cheongang rather than to the Disciple who has returned.",
+      "id": "F01",
+      "rationale": "Taekyung speaks after enduring the transformation to return. The Korean leaves the subject implicit; the scene supports Taekyung reporting that he kept his promise.",
+      "replacement": "“I kept my promise.”",
+      "severity": "critical",
+      "source": "“약속, 지켰네요.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "They thought only of the Master’s grief-stricken hands clutching his Disciple’s body as he sobbed, or the battle’s echoes that still hadn’t faded. Or perhaps they thought it was simply their imagination.",
+      "defect": "The witnesses are attributing the finger’s movement to other causes, not merely thinking about the Master’s hands or the battlefield.",
+      "id": "F02",
+      "rationale": "The Korean lists the explanations the witnesses gave for what they saw, establishing why they missed the sign of life.",
+      "replacement": "They put the movement down to the grieving Master’s hands as he held his Disciple’s body and sobbed, the lingering vibrations of the battlefield—or simply their imagination.",
+      "severity": "major",
+      "source": "그저 제자의 시신을 끌어안고 오열하는 스승의 비통한 손길이나 아직도 멎지 않은 전장의 울림. 혹은 단순한 착각이라고 생각했을 뿐이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "They failed to look closely at the quality hidden behind those two words: purification.",
+      "defect": "“Those two words” carries over a reference to the Korean written term that does not work for the single English word “destruction.”",
+      "id": "F03",
+      "rationale": "The contrast is between fire’s destructive and purifying qualities; the Korean character count need not survive in English.",
+      "replacement": "They failed to look past destruction and see fire’s power to purify.",
+      "severity": "minor",
+      "source": "소멸이라는 두 글자에 가려진, 정화(淨化)의 성질은 유심히 들여다보지 못한 채."
+    }
+  ],
+  "summary": "The closing line reverses who kept the promise; an earlier passage also obscures why the witnesses dismissed the moving finger.",
+  "version": 1
+}
