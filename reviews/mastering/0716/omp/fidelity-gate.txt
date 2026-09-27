@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor fidelity shifts: a character-reading cue becomes massage skill, and Namho’s resolve becomes a past hope.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Chapter 716, line 83",
+      "current": "Ju Hwaran smiled approvingly at the sight of Mujin deftly massaging me",
+      "defect": "The source says Mujin was quick to read the situation as he massaged Taekyung. “Deftly” instead describes his massage technique, losing the character-reading cue.",
+      "replacement": "Ju Hwaran smiled approvingly at how quickly Mujin had caught on and started massaging me",
+      "rationale": "눈치 빠르게 describes Mujin’s quick perception, not the skillfulness of his hands.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Chapter 716, line 45",
+      "current": "I’d hoped to see that bastard muzzled before I died……",
+      "defect": "The source expresses Namho’s insistence that he has to see the man muzzled before he dies. “I’d hoped” turns that resolve into a past hope.",
+      "replacement": "I have to see that bastard muzzled before I die……",
+      "rationale": "내가 죽기 전에 … 봐야 하는데 conveys that seeing it before his death is something he must do.",
+      "confidence": 0.92
+    }
+  ]
+}

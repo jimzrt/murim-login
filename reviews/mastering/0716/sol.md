@@ -12,7 +12,7 @@ Her usually gentle eyes and voice had turned sharp as thorns.
 
 “Young Hero Taishan.”
 
-Taishan, her first target, flinched.
+Her first target flinched.
 
 “Do you have any idea how much the Pavilion Master—how much Young Master Jin has gone through for us? How could you say something like that?”
 
@@ -20,7 +20,7 @@ Taishan, her first target, flinched.
 
 “I know you have an enormous appetite, but if you say anything ominous like that again, I really will muzzle you, just as Elder Namho suggested.”
 
-At Ju Hwaran’s stern warning, Sama Pyo narrowed his brows and opened his mouth.
+At her stern warning, Sama Pyo frowned.
 
 “Young Lady Ju, Taishan isn’t a beast.”
 
@@ -76,7 +76,7 @@ Ju Hwaran smiled approvingly at the sight of Mujin deftly massaging me, then tur
 
 “Captain Song.”
 
-A tremor ran through Song Ilseom’s pupils. He had remained silent from beginning to end.
+Song Ilseom, who hadn’t said a word this entire time, looked shaken to the core.
 
 “I haven’t said anything.”
 
@@ -130,7 +130,7 @@ Something felt wrong. I cautiously caught his arm.
 
 “No, it’s… fine now.”
 
-“Our Captain is doing it again. You like it because it feels good, don’t you?”
+“Our Captain’s doing it again. It feels good, doesn’t it?”
 
 “No. I said it’s fine. You must be tired too, so stop.”
 
@@ -142,11 +142,11 @@ As Mujin turned to Ju Hwaran and laughed heartily, I sent him a Sound Transmissi
 
 “……!”
 
-—So get your hand off me right now, you bastard. Before I break your wrist.
+—Get your hand off it, you bastard. Before I break your wrist.
 
 After a brief silence, Mujin slowly withdrew his hand.
 
-I wanted desperately to smack the back of his head as he stared at me with a gaze filled with a mixture of awe and fear, but I barely managed to hold myself back in front of everyone else.
+He stared at me with mingled awe and terror. I wanted nothing more than to smack the back of his head, but with everyone watching, I barely held back.
 
 Then again, maybe…
 
@@ -156,13 +156,13 @@ I let the thought go and looked around at each of their faces.
 
 Only a few days ago, I’d thought I might never see them again. Our situation had been that bad. Everything ahead of us had been lost in fog.
 
-But now that we were all gathered together like this, alive, I was overcome with emotion all over again.
+But here we were, alive and together. Seeing them now brought it all back.
 
-The fact that not one of them had died filled me with joy.
+Not one of them had died.
 
 “I’m glad. Really.”
 
-At my single sentence, which broke the brief silence, everyone’s eyes widened. Then they smiled faintly.
+Everyone’s eyes widened at my words. Then, one by one, they smiled faintly.
 
 That was enough.
 
@@ -194,19 +194,19 @@ But before I could speak, Ju Hwaran went on.
 
 “Great Hero Jeok reassured everyone. He said you’d only collapsed from exhaustion.”
 
-I asked, feeling uneasy.
+Could he really have said that?
 
 “……What exactly did the Old Master—no, my master—say?”
 
 “Hmm. I’m not sure. Everyone was in such a panic. But I remember him saying you hadn’t been seriously injured because he’d arrived in time. Palace Lord Yayul agreed.”
 
-“It was heavenly luck. Heavenly luck. No matter how powerful that bastard is, how could he have survived that hellscape? Two of the Ten Kings had stepped in. Even the Southern Heaven Demon Empress wouldn’t have been able to do anything.”
+Namho nodded. “A stroke of heavenly luck, that’s what it was. No matter how skilled that bastard is, how else could he have survived that hellscape? Two of the Ten Kings stepped in. Even the Southern Heaven Demon Empress couldn’t have done anything against them.”
 
 That wasn’t quite what had happened.
 
 I nodded anyway.
 
-This was unmistakable protection. Jeok Cheongang and the Beast Miao King had taken action to conceal my secret and keep people from becoming suspicious.
+Jeok Cheongang and the Beast Miao King were protecting me. They’d made up a story to hide my secret and keep anyone from asking questions.
 
 *The Baekcheon Unit survivors will keep quiet too. Their loyalty is to the Beast Miao King.*
 
@@ -224,7 +224,7 @@ Here in Murim, they would use another word.
 
 Supernatural powers beyond anyone’s understanding were bound to inspire fear. I wanted as few people as possible to know about the System—about this ability of mine.
 
-*Though what was done was done.*
+*Though it’s already out there.*
 
 I had no idea what consequences my unavoidable choice that day would bring. Still, I was glad the person who’d seen it up close was Jeok Cheongang. I knew what kind of man the Beast Miao King was, too, and that put me at ease.
 
@@ -232,7 +232,7 @@ I had no idea what consequences my unavoidable choice that day would bring. Stil
 
 “Huh?”
 
-“What are you thinking about so hard?”
+“What are you thinking about?”
 
 I must have been lost in thought for a while. Mujin was watching me suspiciously, so I waved a hand.
 
@@ -254,13 +254,13 @@ He glanced at me, leaving no doubt who he meant.
 
 “Yohi did?”
 
-“Yes. Great Hero Yayul seemed willing to forgive her, but she voluntarily entered the underground prison.”
+“Yes. Great Hero Yayul was willing to forgive her, but she went into the underground prison of her own accord.”
 
 I hadn’t expected Yohi to go that far. In a way, though, it made sense.
 
 She’d repented too late, but she *had* joined Baeksang for wealth and power. Nearly dying must have taught her something.
 
-*She chose it herself. She must have thought it was the right thing to do.*
+*She made her own choice. She must believe it’s the right one.*
 
 I listened as they went on.
 
@@ -270,7 +270,7 @@ More Nanman people than ever were staying at the Nanman Beast Palace, working to
 
 “I can imagine. The Beast Miao King must be just as busy.”
 
-“Great Hero Yayul…… You probably won’t see him either—not just us, but anyone else.”
+“Great Hero Yayul… I don’t think *anyone* has seen him.”
 
 “What?”
 
