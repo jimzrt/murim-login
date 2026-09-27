@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "And, in contrast, a being born blessed by every living thing in the world: a Dragon.",
+      "defect": "“Every living thing” narrows 만물, which includes all things in the world.",
+      "id": "F01",
+      "rationale": "The source contrasts the cursed undead with a Dragon blessed by the whole of creation, not only living creatures.",
+      "replacement": "And, in contrast, a being born with the blessing of all creation: a Dragon.",
+      "severity": "major",
+      "source": "그와는 반대로 온 세상 만물의 축복 속에서 탄생한 존재, 드래곤(Dragon)."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Now I understand how you, a mere undead—no, a mere Skeleton—came to possess such power.",
+      "defect": "“No” makes Morgoth correct himself; the source compounds the insult.",
+      "id": "F02",
+      "rationale": "그것도 adds the more specific, contemptuous description without retracting “undead.”",
+      "replacement": "Now I understand how you, a mere undead—a Skeleton, at that—came to possess such power.",
+      "severity": "minor",
+      "source": "한낮 언데드, 그것도 스켈레톤에 불과한 자네가 어떻게 그 정도의 힘을 지니게 되었는지 이제야 이해가 되는군."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I don’t underestimate you.",
+      "defect": "The singular “you” loses Morgoth’s shift to addressing the Skeleton King and others together.",
+      "id": "F03",
+      "rationale": "너희 is plural; Morgoth’s conclusion extends beyond the opponent standing before him.",
+      "replacement": "I don’t underestimate any of you.",
+      "severity": "major",
+      "source": "나는, 너희를 얕보지 않아."
+    }
+  ],
+  "summary": "Three actionable fidelity findings: the scope of the Dragon’s blessing, Morgoth’s compounded insult, and his plural address.",
+  "version": 1
+}

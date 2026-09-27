@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "More precisely, the Skeleton King and the [Hero’s Sword] in his hand.",
+      "defect": "Square brackets make the established weapon name look like a System UI term outside a System panel.",
+      "id": "C01",
+      "rationale": "The checkpoint’s established rendering is “Hero’s Sword”; this sentence is ordinary narration.",
+      "replacement": "More precisely, the Skeleton King and the Hero’s Sword in his hand.",
+      "severity": "minor",
+      "source": "Chapter 1159, Morgoth examining the sword"
+    }
+  ],
+  "summary": "The reading copies, summary, and active state preserve the handoff from Jin to the disguised Skeleton King. One formatting inconsistency is actionable.",
+  "version": 1
+}

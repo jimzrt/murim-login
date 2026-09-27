@@ -1,0 +1,107 @@
+{
+  "chapter": 1159,
+  "files": {
+    "characters/Divine Physician.md": "8681d3b5224c43efb0d42f9d89ef2e6db0c99ffb8c0c3e7032d8238b18a057ec",
+    "characters/Doppelganger.md": "90e13f7d47199c9d32caf684a65b58ab4bbde7356de0fdb7511c39d858ce1eed",
+    "characters/Jin Taekyung.md": "ea97ac74fa96d9a248346977d059f1509b3fa5cbcd83c200871de32f4e72339e",
+    "characters/Jintae.md": "80f6655e0bf97935c3b5d48a2b9d739501472fa8f5d1539bfbcd156a4f61be76",
+    "characters/Leviathan.md": "1dcadaf0fb652a908395463d42273e51f4f9ed8d728cd1642f2e4bb51709fa15",
+    "characters/Morgoth.md": "d3d1155c96fb7fb978ac8080aa974657c2f027b798a9b735d97b4798d3f53f7d",
+    "docs/ADDRESS.md": "f649e1c8b8c90bc946df11556e5576674e12644e5461312fe1d42e0257ee2185",
+    "docs/CONTEXT.json": "903288ed83015c1bc60b4d02cdc441f940326cee67ab8bf7cc697b7d83af41cb",
+    "docs/STATE.md": "16a9f93cb8a006e92bfbfdaaa8dc25dae83419d518f251447a41e9c369ef32d4",
+    "summaries/beats/1159.md": "26321fd0883c765b28b34b3ac8f27d041e7787bf1a9a0831c0da177bd04498b7"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "모르고스",
+        "kinship": "opponents",
+        "normal_address": "Morgoth; you",
+        "notes": "The Skeleton King addresses Morgoth directly and rejects his offer.",
+        "speaker": "스켈레톤 킹",
+        "speech_level": "hostile informal"
+      },
+      {
+        "addressee": "스켈레톤 킹",
+        "kinship": "opponents",
+        "normal_address": "you; 자네",
+        "notes": "Morgoth uses courteous, measured speech while addressing the Skeleton King.",
+        "speaker": "모르고스",
+        "speech_level": "formal-polite"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Skeleton King has reached Morgoth’s palace and is fighting him while appearing as Jin Taekyung.",
+        "The Skeleton King wields the Hero’s Sword despite being undead; Morgoth says he cannot explain this.",
+        "Morgoth identifies the Skeleton King’s ability to absorb magical power and some abilities, and infers that he encountered a Doppelganger.",
+        "Morgoth offers the Skeleton King the role of Guardian; the Skeleton King refuses.",
+        "The Skeleton King’s attack does not injure Morgoth, who launches black magical blades at him."
+      ],
+      "plot": [
+        "The Skeleton King enters Morgoth’s palace disguised as Jin Taekyung and refuses Morgoth’s offer to become his Guardian. Morgoth recognizes that the Skeleton King absorbed power and some abilities from the Arch Lich, Leviathan, and Behemoth, and realizes he has encountered a Doppelganger. The Skeleton King attacks with the Hero’s Sword, but Morgoth is unharmed and then launches a field of magical blades at him."
+      ],
+      "translation_decisions": [
+        "Render 영웅의 검 as Hero’s Sword.",
+        "Render 가디언 as Guardian when referring to the role Morgoth offers."
+      ]
+    },
+    "chapter": 1159,
+    "context": {
+      "active_continuity": [
+        "Morgoth’s three-day deadline and demand for Cheon Taemin and Jin Taekyung as tribute remain in effect.",
+        "Cheon Taemin remains unconscious in a recovery capsule in a hidden Pentagon chamber.",
+        "Jin believes Cheon Taemin was the Martial God and The Helper, and suspects Asmodeus was not completely erased; these identities and suspicions are unconfirmed.",
+        "The World Hunter Federation was ordered to mobilize for Moscow against Morgoth and his monsters; Jin intended to go alone.",
+        "The Skeleton King has reached Morgoth’s palace disguised as Jin Taekyung and is fighting Morgoth after refusing to become his Guardian.",
+        "The Skeleton King absorbed power and some abilities from the Arch Lich, Leviathan, and Behemoth; Morgoth inferred he had encountered a Doppelganger.",
+        "The Skeleton King wields the Hero’s Sword, an Ego Sword; Morgoth cannot explain how an undead can use it.",
+        "Morgoth’s magical attack is now directed at the Skeleton King; the outcome is unresolved.",
+        "The Skeleton King can hear the dead spirits and regards them as his people; he suspects he may once have been human, but has no memories and sometimes experiences déjà vu.",
+        "Morgoth was summoned by Asmodeus from beyond distant stars and space, but does not know why; he says he is not devoted to Asmodeus."
+      ],
+      "continuity_sources": [
+        1158,
+        1159
+      ],
+      "open_questions": [
+        "Were Cheon Taemin, the Martial God, and The Helper the same person?",
+        "Was Asmodeus completely erased?",
+        "Who escaped through Area 52 in Jin’s likeness?",
+        "What will happen when Morgoth’s three-day deadline expires?",
+        "Can the Skeleton King survive Morgoth’s magical attack, and how can he wield the Hero’s Sword?"
+      ],
+      "safe_through": 1159,
+      "temporary_decisions": [],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Skeleton King",
+        "korean": "스켈레톤 킹",
+        "notes": "Undead ally of Jin Taekyung; chapter’s viewpoint character."
+      },
+      {
+        "english": "Hero’s Sword",
+        "korean": "영웅의 검",
+        "notes": "The Ego Sword wielded by the Skeleton King."
+      }
+    ],
+    "profile_creations": [
+      {
+        "aliases": [],
+        "english": "Morgoth",
+        "filename": "Morgoth.md",
+        "korean": "모르고스",
+        "personality": "He is composed, curious about unusual powers, and confident in his own strength; he says he does not underestimate humanity after Asmodeus was stopped by a human.",
+        "relationships": "Asmodeus summoned Morgoth, though Morgoth says he is not devoted to him; Morgoth offers the Skeleton King the role of Guardian, which the Skeleton King refuses.",
+        "role": "Morgoth is a Dragon and the sovereign of a vast palace who seeks to recruit the Skeleton King as his Guardian.",
+        "voice": "He speaks in polished, courteous, formal phrasing, often asking measured questions while expressing condescension or fascination."
+      }
+    ],
+    "profile_updates": [],
+    "version": 1
+  },
+  "version": 1
+}
