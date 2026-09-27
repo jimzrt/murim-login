@@ -1,6 +1,6 @@
 # Blood Lord (혈주)
 
-- **Safe through:** Chapter 1102
+- **Safe through:** Chapter 1103
 - **Aliases:** None
 - **Role:** Young-seeming high-ranking Dark Heaven figure who directs its sorcerers’ seed experiments and prepares their deployment for the Lord of Heaven’s great cause.
 - **Personality:** Cunning and controlling, he avoids costly risks while manipulating allies; beneath his devotion to the Lord of Heaven, he resents being treated as disposable and resents Taekyung’s apparent favor.

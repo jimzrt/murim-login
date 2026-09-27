@@ -1,6 +1,6 @@
 # The Prophet (선지자)
 
-- **Safe through:** Chapter 833
+- **Safe through:** Chapter 1103
 - **Aliases:** Muninn (무닌)
 - **Role:** The Prophet is a Level 170 Doppelganger titled “The Final Abyss,” who concealed itself for decades as Muninn.
 - **Personality:** A calculating, ruthless impostor who exploits followers’ faith and turns to brutal violence when they question or outlive their usefulness.

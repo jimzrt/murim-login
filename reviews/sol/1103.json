@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.92,
+      "current": "then roared and flung their weapons with all their strength.",
+      "defect": "“Flung their weapons” says the attackers let go of them; the source describes unleashing attacks with the weapons in their hands.",
+      "id": "F01",
+      "rationale": "손에 쥔 keeps the weapons in their grasp during the attack.",
+      "replacement": "then roared and lashed out with the weapons in their hands, putting all their strength behind each blow.",
+      "severity": "critical",
+      "source": "온 힘을 다해 손에 쥔 병장기를 흩뿌리면서."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Now the sensation of No-self was more intense than ever, taking over my entire body.",
+      "defect": "Uses the established term for 무아 rather than the distinct glossary term for 무아지경.",
+      "id": "F02",
+      "rationale": "The binding glossary distinguishes 무아지경 (“Trance”) from 무아 (“No-self”).",
+      "replacement": "Now the sensation of Trance was more intense than ever, taking over my entire body.",
+      "severity": "minor",
+      "source": "그 어느 때보다 강렬한 무아지경의 감각이 전신을 지배하고 있었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Jin Taekyung struggled to sit up.",
+      "defect": "Changes getting to his feet into sitting up.",
+      "id": "F03",
+      "rationale": "몸을 일으켜 세웠다 describes bringing his body upright, not merely sitting.",
+      "replacement": "Jin Taekyung struggled to his feet.",
+      "severity": "critical",
+      "source": "진태경은 힘겹게 몸을 일으켜 세웠다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Maybe it was because he’d suddenly woken from a state of No-self, when every sense had been pushed to its limit.",
+      "defect": "Again substitutes the term for 무아 for the source’s 무아지경.",
+      "id": "F04",
+      "rationale": "The binding glossary renders 무아지경 as “Trance.”",
+      "replacement": "Maybe it was because he’d suddenly woken from a Trance in which every sense had been pushed to its limit.",
+      "severity": "minor",
+      "source": "모든 감각이 최고조에 다다라있던 무아지경의 상태에서 돌연 깨어나서일까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "More precisely, toward his beloved weapon, still lodged in their backs.",
+      "defect": "Places the weapon inside the charging enemies’ backs, contradicting the next sentence’s spear buried in the ground.",
+      "id": "F05",
+      "rationale": "그들의 등 뒤에 locates the weapon behind the enemies; it does not say it is lodged in their bodies.",
+      "replacement": "More precisely, toward his beloved weapon, which lay behind them.",
+      "severity": "critical",
+      "source": "정확히는, 그들의 등 뒤에 남아 있는 자신의 애병을 향해."
+    },
+    {
+      "confidence": 0.97,
+      "current": "That damned cheerful voice was nowhere to be heard.",
+      "defect": "Replaces Cheongpung’s innocence with cheerfulness.",
+      "id": "F06",
+      "rationale": "천진난만한 characterizes his guileless, childlike manner, not his mood.",
+      "replacement": "That damned innocent voice was nowhere to be heard.",
+      "severity": "major",
+      "source": "그 빌어먹게도 천진난만한 목소리는 어디에서도 들을 수 없었다."
+    }
+  ],
+  "summary": "Three action and positioning errors, plus characterization and terminology defects.",
+  "version": 1
+}
