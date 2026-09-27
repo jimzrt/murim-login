@@ -1,23 +1,28 @@
 # Translation State
 
-- Last completed: 1136
-- Next chapter: 1137
-- Current block: 1135–1139 (2/5)
-- Latest translation: `translations/1136.md`
-- Latest summary: `summaries/beats/1136.md`
-- Safe profiles through: chapter 1136
+- Last completed: 1137
+- Next chapter: 1138
+- Current block: 1135–1139 (3/5)
+- Latest translation: `translations/1137.md`
+- Latest summary: `summaries/beats/1137.md`
+- Safe profiles through: chapter 1137
 
 ## Current Block
 
-- The Son of Heaven and Zhuge Feng’s plan crushes the Dark Heaven forces attacking the Moving Formations: Imperial Guards, Zhuge Clan mechanisms and formations, and Zhuge repeating crossbows turn the battle into a slaughter. Baek Yeon beheads the executed traitor and trades irreverent jokes with the Emperor, who credits Jin Taekyung for saving him and the realm. Declaring the new name Great Ming, the Emperor orders a personal expedition to Xinjiang and vows not to return to the palace until the traitors are rooted out.
+- Seven days after the battle, Mae Jonghak and the Slaughter Saint discuss the failed search for an unnamed target and the growing coalition preparing to march west toward Xinjiang. Mae says the search will continue with fewer people assigned to it; defeating the Lord of Heaven is the only way to stop the conflict.
+- The Slaughter Saint remains troubled by the Bow Saint’s conduct when Jin Taekyung was in mortal danger and by an ominous feeling tied to the Son of Heaven. Taishan bursts in with news that the Pavilion Master has awakened.
 
 ## Open Questions
 
-- How will the campaign against the Lord of Heaven and the forces in Xinjiang unfold?
+- What was the target the searchers failed to find?
+- What was the Bow Saint’s motive when Jin Taekyung was in mortal danger?
+- What will happen in the campaign against the Lord of Heaven in Xinjiang?
+- Why does the Son of Heaven’s title give the Slaughter Saint a sense of foreboding?
 
 ## Exceptional Decision
 
 - Render 大明 as “Great Ming” and 親征 as “personal expedition.”
+- Render 滅魔正天 as “Exterminate the Demons and Set Heaven Right.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

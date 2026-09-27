@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Then, sensing something, he noticed Mae Jonghak silently watching him. He carefully parted his lips.",
+      "defect": "The draft makes the Slaughter Saint the one who senses something; the source describes Mae Jonghak as watching him as though Mae had sensed something.",
+      "id": "F01",
+      "rationale": "무언가를 느낀 듯 modifies 매종학, not the Slaughter Saint.",
+      "replacement": "Then he carefully opened his mouth to speak to Mae Jonghak, who was watching him in silence as though he had sensed something.",
+      "severity": "major",
+      "source": "그리고 무언가를 느낀 듯, 말없이 자신을 응시하는 매종학을 향해 신중히 입술을 뗐다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The symbolism attached to a place was created by the people who lived there.",
+      "defect": "The draft restricts the people who give a place meaning to its residents.",
+      "id": "F02",
+      "rationale": "사람에 의해 identifies people as the source of the symbolism but does not say they lived there.",
+      "replacement": "The symbolism attached to a place was created by people.",
+      "severity": "minor",
+      "source": "특정한 장소에 담긴 상징성이란, 바로 사람에 의해 만들어지는 것이니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "And the martial artists of the Nine Sects and One Gang and the Five Great Families were not to be outdone.",
+      "defect": "“Not to be outdone” adds a competitive motive absent from the source.",
+      "id": "F03",
+      "rationale": "말할 것도 없었다 means their participation went without saying; 필두로 한 identifies the groups leading the martial artists.",
+      "replacement": "And it went without saying that martial artists were gathering too, led by the Nine Sects and One Gang and the Five Great Families.",
+      "severity": "minor",
+      "source": "구파일방과 오대세가를 필두로 한 무림인들은 말할 것도 없었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "The next moment, before a massive brute could burst into the study with heavy, hurried footsteps—",
+      "defect": "“Before ... could burst” implies the entrance was prevented, though the source says he burst in and interrupted the Slaughter Saint.",
+      "id": "F04",
+      "rationale": "The source's 전까지는 completes the preceding “Or tried to”: the attempt to speak lasted only until the man entered.",
+      "replacement": "Then heavy, hurried footsteps sounded, and a massive man burst into the study.",
+      "severity": "minor",
+      "source": "다음 순간 육중하면서도 다급한 발걸음과 함께, 엄청난 덩치의 거한이 집무실로 난입하기 전까지는."
+    }
+  ],
+  "summary": "The draft is broadly faithful, with one changed subject and several localized additions or wording defects.",
+  "version": 1
+}
