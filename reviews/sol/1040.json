@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A terrifying ring of fire traced its arc, and more than ten enemies caught within its range were swept up in it.",
+      "defect": "“Its range” reads as the fire’s range, rather than the spell’s. This obscures Jin’s reason for killing those enemies before the body-strengthening magic takes effect.",
+      "id": "F01",
+      "rationale": "마법의 범위 specifies the magic’s range; the preceding sentence establishes that its targets must be alive for it to work.",
+      "replacement": "The terrifying ring of fire swept through a dozen or so enemies within the spell’s range.",
+      "severity": "major",
+      "source": "그 무시무시한 불의 고리가 그리는 궤적에는, 마법의 범위에 포함되어 있던 십여 명의 적들이 있었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Taishan.”",
+      "defect": "The invocation reads as an address to the character Taishan rather than a call upon a mountain.",
+      "id": "F02",
+      "rationale": "The spell brings down immense pressure, and Jin subsequently cuts through the invoked 태산.",
+      "replacement": "“Great mountain.”",
+      "severity": "major",
+      "source": "“태산(太山)이여.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "It cut through Taishan.",
+      "defect": "This makes the spearhead appear to cut through the character Taishan.",
+      "id": "F03",
+      "rationale": "태산 here refers back to the mountain invoked by the spell, not the named character.",
+      "replacement": "It cut through the great mountain.",
+      "severity": "major",
+      "source": "태산을 베었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And no matter how long an *imugi* lived, without a dragon pearl it couldn’t ascend to the heavens.",
+      "defect": "“No matter how long” omits the explicit thousand-year age.",
+      "id": "F04",
+      "rationale": "천년 묵은 specifies an imugi that has lived for a thousand years.",
+      "replacement": "And even a thousand-year-old *imugi* couldn’t ascend to the heavens without a dragon pearl.",
+      "severity": "minor",
+      "source": "천년 묵은 이무기라 한들 여의주 없이는 하늘로 올라갈 수 없는 것처럼."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n> - You defeated **[Lv.175 So Gunak]**!\n> - Level Up!",
+      "defect": "The System notice retains square brackets and adds bold emphasis absent from the message.",
+      "id": "F05",
+      "rationale": "The binding panel format identifies System text without square brackets or outer emphasis.",
+      "replacement": "> **System**\n> - You defeated Lv. 175 So Gunak!\n> - Level Up!",
+      "severity": "minor",
+      "source": "- [Lv.175 소군악]을 처치하셨습니다!\n\n- 레벨 업!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n> - **[Fire Dragon Armor]** has suffered severe damage from powerful energy!\n> - **[Fire Dragon Armor]** has been automatically recalled to **[Inventory]**! It cannot be resummoned until the damaged sections are repaired to a certain degree!\n> - Time until **[Fire Dragon Armor]** is automatically repaired: **3 days**",
+      "defect": "The System notices retain square brackets and bold entire UI terms and the time value without a corresponding label or emphasis.",
+      "id": "F06",
+      "rationale": "The binding panel format calls for unbracketed UI terms and no blanket bolding of notice content.",
+      "replacement": "> **System**\n> - Fire Dragon Armor has suffered severe damage from powerful energy!\n> - Fire Dragon Armor has been automatically recalled to Inventory! It cannot be resummoned until the damaged sections are repaired to a certain degree!\n> - Time until Fire Dragon Armor is automatically repaired: 3 days",
+      "severity": "minor",
+      "source": "- [화룡갑]이 강력한 기운에 의해 극심한 손상을 입었습니다!\n\n- [화룡갑]이 [인벤토리]로 자동 소환됩니다! 파손 부위를 일정 수치까지 수복하기 전까지는 재소환할 수 없습니다!\n\n- [화룡갑]의 자동 수복까지 남은 시간 : 3일"
+    }
+  ],
+  "summary": "The draft obscures why Jin attacks the mages’ targets, renders a mountain invocation like the name of a person, and misformats both System panels.",
+  "version": 1
+}
