@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1035
-- Next chapter: 1036
-- Current block: 1035–1039 (1/5)
-- Latest translation: `translations/1035.md`
-- Latest summary: `summaries/beats/1035.md`
-- Safe profiles through: chapter 1035
+- Last completed: 1036
+- Next chapter: 1037
+- Current block: 1035–1039 (2/5)
+- Latest translation: `translations/1036.md`
+- Latest summary: `summaries/beats/1036.md`
+- Safe profiles through: chapter 1036
 
 ## Current Block
 
-- After leveling up upon defeating four Death Knights, Jin Taekyung confronts the Blood-Sword Demon Lord, whose former Demonic Cult comrades were among the Black Ghosts. Taekyung uses Qi Sense to identify the Demon Lord as Chuk Banghyeol and watch his level rise from 170 to 180. As a white-robed figure invokes the Wind Ghost’s power and imbues him with it, Taekyung realizes the force at work is Magic, not dark arts.
+- Jin Taekyung recognizes the Moving Formation, the corrupted Water God Dragon and Blood Fish, the rift, and the Black Ghosts as evidence of Magic. Jeok Cheongang pulls him clear of the Blood-Sword Demon Lord’s attack, and a veiled white-robed woman’s gravity magic delays his attempt to rejoin Jeok. Fighting through the Dark Heaven followers, Jin realizes the System can answer a mass summon from his Inventory: he awakens his Middle Dantian and Will, summons one hundred blades, and prepares to unleash them.
 
 ## Open Questions
 
