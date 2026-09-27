@@ -2512,3 +2512,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 순자 | **Soonja** | Name Great Sir gives herself. |
 | 청허자 | **Cheongheoja** | Kunlun Sect Leader. |
 | 숙자 | **Soonja** | Name used by the woman who introduces herself to Cheongheoja. |
+| 학수 | **Hak Su** | Cheongheoja’s Senior Disciple and Hak Woo’s senior brother. |

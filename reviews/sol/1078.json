@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*As long as they have the Moving Formation, it’s almost impossible to commit all their forces to Qinghai.*",
+      "defect": "“Their forces” points to Dark Heaven, but Taekyung is explaining why his own side cannot concentrate its entire strength in Qinghai.",
+      "id": "F01",
+      "rationale": "Dark Heaven’s ability to move elsewhere is the reason Taekyung’s allies cannot leave other places undefended.",
+      "replacement": "*As long as they have the Moving Formation, it’s almost impossible for us to commit all our forces to Qinghai.*",
+      "severity": "critical",
+      "source": "놈들에게 이동진(移動陳)이 있는 이상, 청해성 한 곳에 완전한 총력을 기울이는 건 불가능에 가깝다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Unlike Hak Su’s expectant voice, I’d only briefly entertained the thought that it might happen. At his words, I felt my strength drain away.",
+      "defect": "The draft makes Taekyung briefly consider whether the Alliance Leader might arrive. His fleeting expectation precedes the disclosure of Hak Su’s supposed good news; hearing what it is deflates him.",
+      "id": "F02",
+      "rationale": "그 말을 듣는 순간 places the disappointment at the moment he hears Hak Su’s answer, not after Taekyung has already weighed the likelihood of that answer.",
+      "replacement": "For a moment, I’d thought, *Could it be?* But when I heard what Hak Su meant by good news, my strength drained away.",
+      "severity": "major",
+      "source": "기대에 가득 찬 학수의 음성과는 달리, 잠시나마 설마 하는 마음을 품었던 나는 그 말을 듣는 순간 맥이 탁 풀리는 것을 느꼈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I tied a water jug to his ankle to make him even heavier. He looked like he was having the time of his life.",
+      "defect": "The chain attached to the captive’s ankle is omitted.",
+      "id": "F03",
+      "rationale": "쇠사슬이랑 물통 names both the chain and the water jug as weights attached at his ankle.",
+      "replacement": "I attached a chain and a water jug to his ankle to make him even heavier. He looked like he was having the time of his life.",
+      "severity": "minor",
+      "source": "발목에 쇠사슬이랑 물통 달아서 더 무겁게 해 줬죠. 아주 좋아 죽던데요."
+    }
+  ],
+  "summary": "Three actionable fidelity issues: a reversed force-allocation subject, a missed reaction to the promised news, and an omitted restraint.",
+  "version": 1
+}
