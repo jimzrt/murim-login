@@ -152,7 +152,7 @@ Fwoooosh! Boom!
 
 Terrible heat engulfed dozens of lizard men and burst into flames. The monsters recoiling at the sight already looked like routed soldiers.
 
-Reading the flow of battle, Shao Shen charged to the front and shouted.
+Reading the flow of battle, Xiao Shen charged to the front and shouted.
 
 “Charge! Charge!”
 

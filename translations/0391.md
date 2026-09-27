@@ -2,7 +2,7 @@
 
 Zhang Wei, commander of the Sichuan Province Public Security Armed Forces Department’s 2nd Company, had remained in the rear, and the operation had made him uneasy from the very beginning.
 
-*Go ahead with the army and occupy the city? That’s different from Colonel Shao’s orders.*
+*Go ahead with the army and occupy the city? That’s different from Colonel Xiao’s orders.*
 
 His doubts had only deepened when they deliberately bypassed their allies fighting up ahead and continued their advance.
 
@@ -16,9 +16,9 @@ The middle-aged senior officer frowned at Zhang Wei’s question.
 
 “Ah, you mean that little regimental commander.”
 
-Zhang Wei’s expression hardened at the officer’s mocking tone toward Shao Shen.
+Zhang Wei’s expression hardened at the officer’s mocking tone toward Xiao Shen.
 
-“Regimental Commander Shao Shen holds the same rank as you, Colonel Wang. And he’ll soon be promoted to major general.”
+“Regimental Commander Xiao Shen holds the same rank as you, Colonel Wang. And he’ll soon be promoted to major general.”
 
 “That child knows nothing about the world. He was simply lucky. As if awakening as an A-rank Hunter wasn’t enough, he even made the promotion list thanks to that Korean bastard’s exploits. Considering how quickly he’s risen through the ranks, I wonder if he has some useful guanxi[^1] in political circles.”
 

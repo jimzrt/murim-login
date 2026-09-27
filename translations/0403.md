@@ -254,7 +254,7 @@ And neither were the two people who had yet to regain consciousness.
 
 *The healer said they wouldn’t wake up until they’d recovered from their exhaustion.*
 
-Remembering what the healer who had stopped by earlier had told me, I looked at Team Leader Choi and Shao Shen, both sunk in a deep sleep.
+Remembering what the healer who had stopped by earlier had told me, I looked at Team Leader Choi and Xiao Shen, both sunk in a deep sleep.
 
 Thanks to the top-grade potion, their injuries had vanished as if they had never existed. But the fatigue accumulated in their bodies and minds was a separate matter.
 

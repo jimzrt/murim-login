@@ -456,10 +456,10 @@ class WorkflowTest(unittest.TestCase):
         )
         source_path = self.root / "source.txt"
         source_path.write_text("샤오 쉔이 명령을 따랐다.", encoding="utf-8")
-        profile = self.root / "characters" / "Shao Shen.md"
+        profile = self.root / "characters" / "Xiao Shen.md"
         profile.parent.mkdir(exist_ok=True)
         profile.write_text(
-            "# Shao Shen (샤오 쉔)\n\n"
+            "# Xiao Shen (샤오 쉔)\n\n"
             "- **Safe through:** Chapter 0\n"
             "- **Aliases:** None\n"
             "- **Role:** Airport defender\n"
@@ -480,25 +480,25 @@ class WorkflowTest(unittest.TestCase):
             update = {
                 "chapter": 1,
                 "beat": {
-                    "plot": ["Shao Shen followed."],
+                    "plot": ["Xiao Shen followed."],
                     "continuity": ["He follows Jin."],
-                    "translation_decisions": ["Shao Shen."],
+                    "translation_decisions": ["Xiao Shen."],
                 },
                 "context": {
                     "version": 1,
                     "safe_through": 1,
                     "continuity_sources": [1],
-                    "active_continuity": ["Shao Shen follows Jin."],
+                    "active_continuity": ["Xiao Shen follows Jin."],
                     "open_questions": ["What next?"],
-                    "temporary_decisions": ["Use Shao Shen."],
+                    "temporary_decisions": ["Use Xiao Shen."],
                 },
                 "names": [],
                 "address_pairs": [],
                 "profile_updates": [],
                 "profile_creations": [{
-                    "filename": "Shao Shen.md",
+                    "filename": "Xiao Shen.md",
                     "korean": "샤오 쉔",
-                    "english": "Shao Shen",
+                    "english": "Xiao Shen",
                     "aliases": [],
                     "role": "Western-front commander",
                     "personality": "Shy off the battlefield",

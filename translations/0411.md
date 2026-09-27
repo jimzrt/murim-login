@@ -72,7 +72,7 @@ It covered every member of the suicide squad—a Barrier spell painstakingly ins
 
 “At this point, there’s nothing I wouldn’t do.”
 
-Shao Shen exhaled the breath he had been holding and joined in.
+Xiao Shen exhaled the breath he had been holding and joined in.
 
 “I’d be willing to go even further. This is truly…”
 
@@ -280,7 +280,7 @@ Of course…
 
 My spear lashed out with all my strength, skewering six or seven monsters like meat on a skewer.
 
-Shao Shen and the Hunters in the suicide squad, having escaped the crisis, gave me grateful looks.
+Xiao Shen and the Hunters in the suicide squad, having escaped the crisis, gave me grateful looks.
 
 “Everyone, group up around me!”
 
@@ -288,7 +288,7 @@ Shao Shen and the Hunters in the suicide squad, having escaped the crisis, gave 
 
 “No time to explain! Stop talking and move!”
 
-Team Leader Choi and Shao Shen nodded at my shout and advanced with the suicide squad.
+Team Leader Choi and Xiao Shen nodded at my shout and advanced with the suicide squad.
 
 I understood their concern, but we had already survived three Magic Traps, and this was the rear where the Arch Lich had gathered its elites. The chances of another trap being triggered were slim.
 
