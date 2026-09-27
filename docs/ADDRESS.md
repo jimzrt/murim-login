@@ -1516,3 +1516,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 대마도사 | 궁성 | Adversaries | Bow Saint | Not established | She identifies him by title when recognizing the archer who struck the Hell Fire sphere. |
 | 혁소평 | 종남파 제자들 | senior Zhongnan disciple rallying his sect’s disciples | Disciples of the Zhongnan Sect | forceful and exhortative | Calls on them not to retreat and declares their path is there. |
 | 마중걸 | 주화란 | fellow combatant addressing the young bureau head | Young Lady | polite and hesitant | Addresses her as 소저 while trying to speak up about his injuries. |
+| 혈검마군 | 사마공 | former bargaining allies turned enemies | you; you traitor | blunt and hostile | Uses direct, contemptuous forms while accusing Sima Gong of betraying him. |
+| 사마공 | 혈검마군 | former bargaining allies turned enemies | you; you Demonic Cult bastard | calm and contemptuous | Uses 당신 before ending with the insult 마교 잡놈아. |
