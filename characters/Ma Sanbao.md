@@ -1,9 +1,9 @@
 # Ma Sanbao (마삼보)
 
-- **Safe through:** Chapter 1068
+- **Safe through:** Chapter 1077
 - **Aliases:** None
-- **Role:** Ma Sanbao is the East Depot’s former Brush-Holding Eunuch, a sorcerer and former Disciple of another Demon Lord who now serves the Blood Lord.
-- **Personality:** He is vigilant and patient, concealing his loyalties while awaiting the moment to act for the late Emperor.
+- **Role:** Ma Sanbao is a sorcerer and Supreme Peak martial artist, former disciple of the Eastern Heaven Demon Lord, and servant of the Lord of Heaven, whose power lets him raise the dead within limits and command beasts with ritual bells.
+- **Personality:** He is ambitious and confident in his usefulness to the Lord of Heaven, dismissive of his former master’s weakness, and pragmatic about losing subordinates.
 - **Voice:** He speaks in measured, courteous language and uses calm repetition, feigned agreement, and procedural reminders to steer conversations while keeping sensitive details guarded.
-- **Relationships:** Ma Sanbao was a longtime friend and former East Depot cohort of Hong Jin, served the Eastern Heaven Demon Lord, and led a restoration effort for Prince Shangshan; he now serves the Blood Lord.
+- **Relationships:** Ma Sanbao served the Eastern Heaven Demon Lord as his disciple and now serves the Lord of Heaven; he regards Jin Taekyung as an adversary who will make a captured operative betray him.
 - **Sources:** Korean source and accepted translation, Chapter 866
