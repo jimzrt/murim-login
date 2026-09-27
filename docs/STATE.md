@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1075
-- Next chapter: 1076
-- Current block: 1075–1079 (1/5)
-- Latest translation: `translations/1075.md`
-- Latest summary: `summaries/beats/1075.md`
-- Safe profiles through: chapter 1075
+- Last completed: 1076
+- Next chapter: 1077
+- Current block: 1075–1079 (2/5)
+- Latest translation: `translations/1076.md`
+- Latest summary: `summaries/beats/1076.md`
+- Safe profiles through: chapter 1076
 
 ## Current Block
 
-- Taekyung reunites warmly with Gung Gibang at the lakeside camp, where the Beggars’ Sect has prepared fires and rations for the exhausted allies. The Slaughter Saint reveals that he and Cheongpung arrived in Qinghai about a month ago and secretly investigated possible spies before Dark Heaven’s attack forced them to hide among the enemy. They found no spies they could identify, but could not reach Taiqing Hall because of a strange, chilling presence around it; Taekyung suspects it was magical power.
+- As Taekyung’s group gathers at Qinghai Lake, the Kunlun Sect Leader Cheongheoja arrives by ship and reveals that more vessels are coming to evacuate their roughly three thousand allies. Cheongheoja confirms that his disciple Hak Woo is safe and will meet Taekyung after they leave. Cheongheoja’s conversation with his unnamed disciple hints at a hidden ember that may bring disaster, while the campfires on the shore represent hope of resisting it.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - What is the connection between Soonja and the Slaughter Saint?
 - What does the Bow Saint mean by setting everything right?
 - What happened to the Great Sir’s boy companion?
-- What is the strange presence surrounding Taiqing Hall?
+- What is the hidden ember Cheongheoja warned about?
 
 ## Exceptional Decision
 

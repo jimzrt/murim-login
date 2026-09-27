@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Even though we’ve already lost our home?”",
+      "defect": "“Home” obscures that the sect has lost its headquarters.",
+      "id": "F01",
+      "rationale": "본산 refers to the sect’s principal mountain or headquarters, not an ordinary home.",
+      "replacement": "“Even though we’ve already lost our sect’s headquarters?”",
+      "severity": "major",
+      "source": "이미 본산(本山)을 빼앗겼는데도?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The old man, who had called himself an empty-handed old man,",
+      "defect": "“Empty-handed” changes his self-deprecating joke from lacking substance to lacking possessions.",
+      "id": "F02",
+      "rationale": "실속 없는 echoes his claim that the quoted speaker sounds impressive but has nothing of substance to offer.",
+      "replacement": "The old man, who had just called himself all talk and no substance,",
+      "severity": "minor",
+      "source": "스스로를 실속 없는 늙은이라 칭한 노인이"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The old man soared upward like a bird, then came sailing down from dozens of yards in the air. Exclamations rose from all around us.",
+      "defect": "The draft turns the distance he crosses through the air into his height above the ground and reduces dozens of jang to dozens of yards.",
+      "id": "F03",
+      "rationale": "수십여 장의 허공을 가로질러 describes the span traversed; a jang is substantially longer than a yard.",
+      "replacement": "The old man soared like a bird, crossed dozens of jang through the air, and descended. Exclamations rose from all around us.",
+      "severity": "critical",
+      "source": "한 마리의 비조(飛鳥)처럼 높이 솟구친 노인의 신형이 자그마치 수십여 장의 허공을 가로질러 떨어져 내리는 광경에, 곳곳에서 탄성이 터져 나왔다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "To a land far to the west, to the foot of a great mountain where the sky met the earth.",
+      "defect": "“The foot” replaces the great mountain slopes, and “where the sky met the earth” weakens the image of those slopes touching the sky.",
+      "id": "F04",
+      "rationale": "거대한 산자락 is the vast mountain slopes; 그곳의 하늘과 맞닿은 describes them reaching the sky.",
+      "replacement": "To a land far to the west, to the vast slopes of a mountain that touched the sky.",
+      "severity": "major",
+      "source": "머나먼 서쪽 너머의 땅, 그곳의 하늘과 맞닿은 거대한 산자락으로."
+    },
+    {
+      "confidence": 0.95,
+      "current": "They might each look middle-aged, elderly, and young, respectively,",
+      "defect": "The Bow Saint’s apparent age is raised from a mature adult to elderly.",
+      "id": "F05",
+      "rationale": "장년 denotes mature adulthood, while 소년 specifically evokes a boy, contrasting their appearances with their accumulated years in Murim.",
+      "replacement": "They might look middle-aged, mature, and boyish, respectively,",
+      "severity": "major",
+      "source": "제각각 중년, 장년, 소년의 모습을 하고 있지만"
+    },
+    {
+      "confidence": 0.98,
+      "current": "During the Star-Array Grand Banquet, I’d spent some time with Gung Gibang and the others. One of them had been Hak Woo, the Kunlun Cloud Dragon—and Hak Woo was Cheongheoja’s Disciple.",
+      "defect": "The draft makes Taekyung the person who spent time with Gung Gibang’s group; the source describes Hak Woo associating with them.",
+      "id": "F06",
+      "rationale": "한동안 궁기방 등과 함께 어울려 다니던 modifies 학우, not the narrator.",
+      "replacement": "During the Star-Array Grand Banquet, Hak Woo, the Kunlun Cloud Dragon, had spent some time hanging around with Gung Gibang and the others. He was Cheongheoja’s Disciple.",
+      "severity": "major",
+      "source": "성라대연이 한창 진행되던 당시, 한동안 궁기방 등과 함께 어울려 다니던 곤륜운룡(崑崙雲龍) 학우가 바로 청허자의 제자이기도 했으니."
+    }
+  ],
+  "summary": "Several scene facts and relationships are altered, chiefly the sect’s lost headquarters, the old man’s movement through the air, and Hak Woo’s association with Gung Gibang.",
+  "version": 1
+}

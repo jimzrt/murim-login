@@ -1535,3 +1535,11 @@ Overrides generic relationship prose in character profiles for this pair.
 | 혈주 | 마삼보 | superior_to_subordinate | you; you fool | hostile and threatening | The Blood Lord berates Ma Sanbao after the surveillance is exposed. |
 | 마삼보 | 혈주 | subordinate_to_superior | My Lord | deferential | Ma Sanbao reports to the Blood Lord and pleads for mercy. |
 | 청풍 | 순자 | stranger_to_stranger | Auntie | polite | Cheongpung addresses Soonja as 아주머니. |
+| 적천강 | 청허자 | senior martial master to former acquaintance and younger martial master | you / Fellow Daoist | blunt and familiar | Jeok Cheongang mocks Cheongheoja for addressing him as a fellow Daoist. |
+| 궁성 | 청허자 | fellow martial master and former acquaintance | Cheongheo | polite and familiar | Uses his shortened name and remarks on his graying hair. |
+| 살성 | 청허자 | fellow martial master and former acquaintance | you | blunt and familiar | Recognizes him from a prior meeting. |
+| 청풍 | 청허자 | younger martial artist to senior sect leader | Grandpa Cheongheoja | cheerful and polite | Uses a friendly, familial form because they share the surname Cheong. |
+| 숙자 | 청허자 | fellow martial artist | you | formal and self-assured | Introduces herself and proposes getting along. |
+| 태산 | 청허자 | younger martial artist to senior sect leader | you | clipped and childlike | Asks whether Cheongheoja brought meat. |
+| 진태경 | 청허자 | younger martial artist to senior sect leader | Sect Leader | respectful | Uses a formal greeting and bow. |
+| 청허자 | 진태경 | senior sect leader to younger martial artist | Fellow Daoist Jin | warm and polite | Greets Taekyung by surname and confirms Hak Woo is well. |
