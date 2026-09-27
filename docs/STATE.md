@@ -1,24 +1,22 @@
 # Translation State
 
-- Last completed: 1052
-- Next chapter: 1053
-- Current block: 1050–1054 (3/5)
-- Latest translation: `translations/1052.md`
-- Latest summary: `summaries/beats/1052.md`
-- Safe profiles through: chapter 1052
+- Last completed: 1053
+- Next chapter: 1054
+- Current block: 1050–1054 (4/5)
+- Latest translation: `translations/1053.md`
+- Latest summary: `summaries/beats/1053.md`
+- Safe profiles through: chapter 1053
 
 ## Current Block
 
-- The Bow Saint’s Force arrow destroys the Grand Mage’s shields and leaves her apparently dead; after the blast, Jin finds her remains, but later notices signs of Teleport nearby. The battle below the hill is still underway.
-- The Blood-Sword Demon Lord offers information about a traitor, but Jin refuses a deal and kills him. Jin names Sima Gong, Song Il, and Hwangbo Eom as suspected traitors; he had already seen them act against the Blood-Sword Demon Lord, and recognizes that their trust in one another helped turn the battle. He does not forgive them, but will remember their final acts of honor.
-- A System chime fills Jin with renewed strength after the kill. Exhausted, he resolves to keep growing stronger and discovers signs of Teleport near the Grand Mage’s remains.
+- Jin recognizes the severed limbs and robe as evidence that the Grand Mage escaped by Teleport. He concludes she likely reached allies at an unknown location, while Jeok Cheongang and the Bow Saint realize they cannot pursue her. Jin wonders whether the Lord of Heaven is connected to the dead Demon King, Asmodeus, then returns with Jeok and the Bow Saint to the still-raging battle. A force of thousands arrives beneath a torn banner, and the battle’s balance tips as an unknown distant orchestrator intended.
 
 ## Open Questions
 
 - What are the identity and purpose of the Lord of Heaven?
 - Why does the Lord of Heaven want Jin to survive and grow stronger?
-- What is the Grand Mage’s fate after the signs of Teleport were found near her remains?
-- What is the Grand Mage’s master’s identity and connection to the Chosen One?
+- Are the Lord of Heaven and Asmodeus connected?
+- Who prepared the battle’s stage, and why?
 
 ## Exceptional Decision
 
