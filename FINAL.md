@@ -17,23 +17,25 @@ Compare the English with the Korean source.
 
 ## Footnotes
 
-Use Markdown footnotes (`[^1]`, `[^2]`, …). Number them in reading order, starting at 1 for this chapter. Put every definition in one block at the end of the file. Move existing definitions there and keep their facts.
+Use Markdown footnotes (`[^1]`, `[^2]`, …). Number them in order of first appearance, starting at 1 for this chapter. Put every definition in one block at the end of the file.
 
-This pass overrides the usual “footnote once” rule. Footnote every occurrence in this chapter, even when an earlier sentence or an earlier chapter already explained it. A repeated note may be shorter, but it must still contain the conversion or the explanation.
+Within this chapter, write one definition for a term, unit, amount, or reference. Every later occurrence of that same thing reuses the same marker. `goshiwon` five times is one note, and so is `hyung`. A different amount or a different term gets its own note. Another chapter may carry its own note for the same term.
 
 Write notes in factual English. No spoilers and no jokes added by the note. Romanize words. A note may include the original character when it is explaining that character. Keep Hangul jamo already used as chat reactions, such as ㅋㅋ and ㄷㄷ.
 
-Skip a conversion footnote only when that same occurrence already states both metric and imperial.
+Add a note only when an English reader would otherwise miss the meaning or the conversion. Skip it when the sentence already says what the reference means. A translated proverb whose warning is plain, a joke the next line completes, a place name used as a place, and a fictional law the dialogue already describes do not get notes.
+
+Skip a conversion footnote when the prose already states both metric and imperial for that quantity.
 
 ### Won
 
-Footnote every mention of Korean won, including round figures and vague amounts (“hundreds of millions of won”). Use only the project rates in the packet. Show dollars, then euros, as approximate figures. Round large amounts to about two significant figures and say “about.” For a vague amount, give the approximate range those words cover.
+Footnote Korean won, including round figures and vague amounts (“hundreds of millions of won”), when the prose does not already give the conversion. Use only the project rates in the packet. Show dollars, then euros, as approximate figures. Round large amounts to about two significant figures and say “about.” For a vague amount, give the approximate range those words cover. One note per distinct amount; reuse it for every later mention of that same amount.
 
-Do not convert traditional money (nyang, taels, cash) or Chinese yuan with the won rate. Explain those with a cultural or historical note instead.
+Do not convert traditional money (nyang, taels, cash) or Chinese yuan with the won rate. Explain those with a cultural or historical note only when the English does not already carry the meaning.
 
 ### Units
 
-Footnote every Korean or Chinese traditional unit with both metric and imperial, using this table:
+Footnote a Korean or Chinese traditional unit, or a metric quantity, once in the chapter, with both metric and imperial, using this table:
 
 | Unit | Use | Metric | Imperial |
 | --- | --- | --- | --- |
@@ -54,7 +56,9 @@ Also footnote metric quantities already in the English (kilometers, meters, cent
 
 ### Cultural references
 
-Footnote every Korean, Chinese, or other Asian cultural reference a general English reader might not fully understand: institutions, food, customs, holidays, history, myth, religion, slang, wordplay, memes, and jokes. Explain the reference in one or two sentences. Do this even when the English already carries part of the meaning, and even when the joke still works in English.
+Footnote a Korean, Chinese, or other Asian word, custom, institution, food, joke, or allusion when the English does not already carry it: `goshiwon`, `hyung`, `doenjang`, `jeonse`, `murim`. Explain it in one or two sentences. One note per term in the chapter, reused by every later occurrence.
+
+Leave it unnoted when the English is already clear. Do not explain a proverb the translation has already stated, a pun the scene completes, or ordinary vocabulary.
 
 ## Formatting
 

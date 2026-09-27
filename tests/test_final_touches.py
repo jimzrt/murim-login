@@ -84,7 +84,7 @@ class FinalQaTest(unittest.TestCase):
         self.assertIn("1 US dollar = 1400 Korean won", packet)
         self.assertIn("1 euro = 1550 Korean won", packet)
         self.assertIn("# Chapter 4", packet)
-        self.assertIn("every occurrence", packet.casefold())
+        self.assertIn("same marker", packet.casefold())
 
 
 class NextFinalChapterTest(unittest.TestCase):
