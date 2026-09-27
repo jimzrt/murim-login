@@ -1,26 +1,27 @@
 # Translation State
 
-- Last completed: 1123
-- Next chapter: 1124
-- Current block: 1120–1124 (4/5)
-- Latest translation: `translations/1123.md`
-- Latest summary: `summaries/beats/1123.md`
-- Safe profiles through: chapter 1123
+- Last completed: 1124
+- Next chapter: 1125
+- Current block: 1120–1124 (5/5)
+- Latest translation: `translations/1124.md`
+- Latest summary: `summaries/beats/1124.md`
+- Safe profiles through: chapter 1124
 
 ## Current Block
 
-- Jin Taekyung awakens under Final Rally, which suppresses his pain, heightens his Qi Sense, and lets Jeok Cheongang’s Scorching Yang Qi heal some of his injuries. With a nine-minute-59-second quest timer, Taekyung fights forward alongside Jeok Cheongang, Cheongpung, the Saints, and civilians who charge to protect him. He remembers fallen companions and loved ones, including Hyuk Mujin, whom he believes is dead, then shatters two Black Ghosts’ Force attacks. The Slaughter Saint and Bow Saint engage the Black Ghosts, whose wounds and severed limbs keep regenerating under overlapping magic. Taekyung advances with Jeok Cheongang and Cheongpung and confronts the Blood Lord; the quest timer shows five minutes remaining.
+- With five minutes remaining, Jin Taekyung, Jeok Cheongang, and Cheongpung attack the Blood Lord together, but his counterstrike devastates the battlefield and leaves all three battered. Taekyung narrowly evades the Blood Lord’s attacks as if guided by instinct, while Cheongpung is knocked to one knee and Jeok is sent flying. Taekyung then thrusts his spear through the Blood Lord’s palm—the same hand that had already been wounded and had not healed.
 
 ## Open Questions
 
-- Will Taekyung survive the remaining quest time and reach the Blood Lord?
-- Can the Saints defeat the regenerating Black Ghosts?
+- Will Taekyung survive the remaining quest time and defeat the Blood Lord?
+- Why can Taekyung evade the Blood Lord’s attacks with such precision?
+- What effect will Taekyung’s spear thrust have on the Blood Lord?
 - What happened to Hyuk Mujin?
 - Will Taekyung ever fulfill his promise to Ju Hwaran?
 
 ## Exceptional Decision
 
-- Render 부각주 as “Vice Captain” when Taishan addresses Hyuk Mujin.
+- None.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
