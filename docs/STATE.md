@@ -1,24 +1,24 @@
 # Translation State
 
-- Last completed: 1110
-- Next chapter: 1111
-- Current block: 1110–1114 (1/5)
-- Latest translation: `translations/1110.md`
-- Latest summary: `summaries/beats/1110.md`
-- Safe profiles through: chapter 1110
+- Last completed: 1111
+- Next chapter: 1112
+- Current block: 1110–1114 (2/5)
+- Latest translation: `translations/1111.md`
+- Latest summary: `summaries/beats/1111.md`
+- Safe profiles through: chapter 1111
 
 ## Current Block
 
-- The Blood Lord regains his strength and memories after absorbing the fiends’ life force, then attacks Cheongpung. Jeong Hogun takes the strike meant for Cheongpung, loses an arm, and urges him to leave. Jeong Hogun and roughly three hundred surviving Embroidered Uniform Guards affirm their duty to protect the people and charge the Blood Lord; a blood-red flash engulfs them.
-- Jin Taekyung, barely conscious and longing to rest, struggles to remain awake as an unknown voice challenges him. Memories and a refreshing, flower-scented energy revive his body and mind. Cheongpung calls him Benefactor and says the West Gate is in trouble.
+- The West Gate has fallen, with more than half of its garrison reported as casualties; Cheongpung and Jin Taekyung retreated to the Inner City, both badly injured, and Taekyung may not survive. At the South Gate, the Slaughter Saint chooses to remain with the Bow Saint and defend their position rather than go to Taekyung, while the Bow Saint’s motives remain unclear. The Slaughter Saint calls on Jeok Cheongang for help, and Jeok answers with an earthquake.
+- The Blood Lord heads toward the Inner City to kill Taekyung. At the North Gate, Jeok Cheongang has killed all but the last of the Twelve Secret Monks and advances on the Dalai Lama.
 
 ## Open Questions
 
-- What is Jin Taekyung’s condition after regaining consciousness, and who was the voice in his mind?
-- What is the state of the West Gate?
-- What happened to Jeong Hogun and the guards after the blood-red flash engulfed them?
-- What are the flying beasts and the being at their center?
-- Why does the Lord of Heaven want Taekyung, and what does he intend to do with him?
+- Will Jin Taekyung survive his injuries, and can he receive treatment from the Divine Physician?
+- What is the Bow Saint hiding, and why did she accept the possibility of Taekyung’s death?
+- What will happen in the confrontation between Jeok Cheongang and the Dalai Lama?
+- Can the South Gate hold against the Grand Mage and the four Black Ghosts?
+- Will the Blood Lord reach Taekyung before he can be treated?
 
 ## Exceptional Decision
 
