@@ -1596,3 +1596,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 모르고스 | 진태경 | enemy Dragon addressing a human opponent | you | formal, measured | Uses 자네 while addressing Jin. |
 | 진태경 | 모르고스 | human opponent addressing an enemy Dragon | son | casual and mocking | Calls Morgoth 아들. |
 | 모르고스 | 아스모데우스 | being summoned by Asmodeus | Asmodeus | formal and measured | Morgoth directly addresses Asmodeus while reflecting on his failure. |
+| 진태경 | 골골이 | friends | Bones | casual and familiar | Jin calls his revived friend 골골이. |
+| 언데드 킹 | 진태경 | friends | human | casual and familiar | The Undead King addresses Jin as 인간. |

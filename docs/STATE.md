@@ -1,21 +1,20 @@
 # Translation State
 
-- Last completed: 1170
-- Next chapter: 1171
-- Current block: 1170–1174 (1/5)
-- Latest translation: `translations/1170.md`
-- Latest summary: `summaries/beats/1170.md`
-- Safe profiles through: chapter 1170
+- Last completed: 1171
+- Next chapter: 1172
+- Current block: 1170–1174 (2/5)
+- Latest translation: `translations/1171.md`
+- Latest summary: `summaries/beats/1171.md`
+- Safe profiles through: chapter 1171
 
 ## Current Block
 
-- Morgoth tells Jin that he may be chosen by God, prompting Jin to confront the burdens he has carried and recognize that he has grown to bear them. Jin recalls that others—including the Doppelganger, the Bow Saint, the Martial God, and the System—have called him the chosen one, but says it does not matter who chose him: he will keep going and hopes to survive alongside his allies. Morgoth explains that humans are driven by desire and change, then reveals he returned the Skeleton King to help Jin become stronger and make what comes next more interesting. As Jin asks why, Morgoth notices a mysterious object at Jin’s neck and senses a trace of the one he sought. A streak of light shoots toward Morgoth’s Dragon Heart.
+- Morgoth dies when Jin’s spear pierces his Dragon Heart, releasing its accumulated magical power across the battlefield. Jin’s injuries and status effects are healed, but he falls into a deep sleep from exhaustion. The Skeleton King revives as a Lv. 180 Undead King after absorbing the spreading darkness. Magic Johnson and the Undead King realize that another catastrophe has begun—or has been completed—and the pillar of magical power connecting heaven and earth explodes.
 
 ## Open Questions
 
-- Is Jin truly chosen by God, and what does that mean?
-- What will happen to Morgoth and the Skeleton King?
-- What is the object at Jin’s neck, and whose trace did Morgoth recognize?
+- What catastrophe was completed by Morgoth’s death, and what will follow the explosion of the magical-power pillar?
+- How will Jin fare after his exhaustion-induced unconsciousness?
 
 ## Exceptional Decision
 
