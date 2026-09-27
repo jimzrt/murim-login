@@ -2522,3 +2522,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 학운의 | **Hak Unui** | Kunlun Cloud Dragon; Hak Eui’s Junior Brother. |
 | 태군악 | **Tae Gunak** | Green Forest Battle King. |
 | 청화 | **Blue Flower** | Name on the flag of the Blue Flower Escort Bureau. |
+| 해룡선 | **Sea Dragon Ship** | Pa Ryun’s powerful vessel. |
+| 황하수로맹 | **Yellow River Channel League** | The Yangtze River Channel League’s former rival. |
