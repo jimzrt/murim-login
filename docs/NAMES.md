@@ -2502,3 +2502,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 말똥 | **Malttong** | One of Great Sir’s self-adopted names; gloss as “Horse Poop.” |
 | 태청전 | **Taiqing Hall** | Hall in Kunlun where the Blood Lord and Grand Mage meet. |
 | 황태제 | **Imperial Younger Brother** | Title for the Emperor’s appointed heir apparent. |
+| 고랑검문 | **Gorang Sword Sect** | Sect whose disciples execute their treacherous Sect Leader. |
+| 강평 | **Gangpyeong** | Disciple who confronts the Gorang Sword Sect’s treacherous Sect Leader. |
+| 난주혁가 | **Lanzhou Hyuk Family** | Family whose members confront their traitorous Family Head. |
