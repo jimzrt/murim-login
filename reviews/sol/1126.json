@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "His master, submerged in a deep pool of blood, reaching out a trembling hand toward his disciple as he faced death.",
+      "defect": "The draft places the master in the blood pool; the disciple is the one lying there and facing death.",
+      "id": "F01",
+      "rationale": "잠긴 채 and 죽음과 맞닥트린 describe 제자, the person the master reaches toward.",
+      "replacement": "Jin Taekyung’s master, reaching a trembling hand toward his disciple, who lay in a deep pool of blood facing death.",
+      "severity": "critical",
+      "source": "깊은 피 웅덩이에 잠긴 채, 죽음과 맞닥트린 자신의 제자를 향해 떨리는 손끝을 내뻗던 스승도."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Dark Heaven fanatics, who had held their ground despite the counterattack made possible by their overwhelming numbers, chanted the eight words of their Lord’s creed as if entranced.",
+      "defect": "“Their overwhelming numbers” attributes the numerical advantage behind the counterattack to the fanatics, who are resisting it. The Korean also specifies eight characters, not eight words.",
+      "id": "F02",
+      "rationale": "The counterattack is mounted against the fanatics; 여덟 글자 counts the characters of the invocation.",
+      "replacement": "The Dark Heaven fanatics, who had kept the battle at a stalemate despite a counterattack backed by overwhelming numbers, chanted the eight-character invocation praising the Lord of Heaven as if entranced.",
+      "severity": "major",
+      "source": "압도적인 숫자를 바탕으로 펼쳐진 반격에도 팽팽한 전세를 유지하던 암천의 광신도들은 홀린 듯이 천주를 찬양하는 여덟 글자의 교언(敎言)을 읊었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Someone once sent me a letter saying he’d wait until the Yellow River ran clear. That we’d meet again then.”",
+      "defect": "The draft makes the letter writer male, although the following passage identifies her as Wolhwa.",
+      "id": "F03",
+      "rationale": "The source leaves the sender unnamed in this line, then identifies the sender as Wolhwa.",
+      "replacement": "“Someone once sent me a letter saying she’d wait until the Yellow River ran clear. That we’d meet again then.”",
+      "severity": "critical",
+      "source": "누가 나한테 그런 서신을 보냈었지. 황하가 맑아질 때를 기다리고 있겠다고. 그때 다시 만나자고."
+    },
+    {
+      "confidence": 0.96,
+      "current": "With the Martial God—the heavens—gone, the Sword Saint Mae Jonghak was the brightest star in the sky and the greatest person under heaven in this era.",
+      "defect": "“Greatest person under heaven” weakens the established martial distinction and departs from its glossary rendering.",
+      "id": "F04",
+      "rationale": "천하제일인 is the established “greatest under heaven”; 가장 높이 떠올라 describes height, not brightness.",
+      "replacement": "With the Martial God—the heavens—gone, the Sword Saint Mae Jonghak was the highest star in the sky and the greatest under heaven in this era.",
+      "severity": "minor",
+      "source": "무신(武神)이라는 하늘이 사라진 지금, 검성 매종학은 가장 높이 떠올라 있는 별이자 당대의 천하제일인(天下第一人)이었으니."
+    }
+  ],
+  "summary": "The draft reverses who is lying in the blood pool and misstates the battlefield counterattack. It also assigns Wolhwa the wrong pronoun.",
+  "version": 1
+}
