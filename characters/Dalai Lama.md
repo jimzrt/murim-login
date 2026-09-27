@@ -1,9 +1,9 @@
 # Dalai Lama (달뢰라마)
 
-- **Safe through:** Chapter 1111
+- **Safe through:** Chapter 1112
 - **Aliases:** Palace Lord
-- **Role:** The Dalai Lama is the Potala Palace’s leader and ruler of Xizang, commanding its Twelve Secret Monks.
-- **Personality:** Fiercely hostile to the Fire Gate Clan and committed to the Potala Palace’s interests; he trusts the Lord of Heaven but distrusts the Blood Lord.
+- **Role:** The former Dalai Lama led the Potala Palace and its Twelve Secret Monks until Jeok Cheongang killed him at the North Gate.
+- **Personality:** Driven by the Potala Palace’s inherited vendetta against the Fire Gate Clan, he pursued greater power and an alliance with Dark Heaven despite the contradiction between his cause and his use of demonic power.
 - **Voice:** Uses Buddhist self-reference and addresses others as “donor”; his Han speech is described as halting.
-- **Relationships:** He leads the Potala Palace in an unequal alliance with Dark Heaven and commits its forces to ending the Fire Gate Clan, pursuing the Palace’s longstanding grievance.
+- **Relationships:** He led the Potala Palace’s vendetta against the Fire Gate Clan and allied with Dark Heaven to gain the strength needed to pursue it.
 - **Sources:** Korean source and accepted translation, Chapter 1096

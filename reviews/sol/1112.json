@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "the Twelve Secret Monks—his Disciples and fellow senior monks",
+      "defect": "“Fellow senior monks” turns fellow martial brothers into a rank description.",
+      "id": "F01",
+      "rationale": "사형제들 denotes martial brothers, not monks senior to him.",
+      "replacement": "the Twelve Secret Monks—his Disciples and fellow martial brothers",
+      "severity": "major",
+      "source": "제자이자 사형제들로 이루어진 십이밀승은 물론"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Faced with the question that hit the mark, the Dalai Lama chose silence over admitting the truth. The stranger watched him quietly, looking more like a martial artist than a monk, then let out a long sigh.",
+      "defect": "The English makes the stranger, rather than the Dalai Lama, look more like a martial artist than a monk.",
+      "id": "F02",
+      "rationale": "그의 모습 refers to the Dalai Lama’s appearance as observed by the stranger.",
+      "replacement": "Faced with the pointed question, the Dalai Lama chose silence over admitting the truth. The stranger watched the Dalai Lama, who already seemed more like a martial artist than a monk, then let out a long sigh.",
+      "severity": "major",
+      "source": "정곡을 찌르는 반문에 달뢰라마는 인정 대신 침묵을 택했고, 이미 승려보다는 무림인에 가까운 그의 모습을 말없이 지켜보던 이방인은 한숨을 푹 내쉬었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*I should’ve crippled every last one of them instead of stopping at twenty.*",
+      "defect": "The punchline changes the degree of injury into the number of victims.",
+      "id": "F03",
+      "rationale": "반병신 contrasts with 아예 죄다 병신: he regrets not doing worse to those he already injured, not stopping after twenty people.",
+      "replacement": "*I should’ve crippled them all completely instead of leaving them half-crippled.*",
+      "severity": "critical",
+      "source": "반병신이 아니라, 아예 죄다 병신을 만들어 버렸어야 했는데."
+    },
+    {
+      "confidence": 0.96,
+      "current": "And so, the precept against killing was broken.\n\nA storm of blood swept over both sides—but only one of them.",
+      "defect": "The second sentence says the bloodstorm swept over both sides before denying it.",
+      "id": "F04",
+      "rationale": "The source describes a bloodstorm driven by only one side.",
+      "replacement": "And so, the killing began.\n\nA storm of blood swept through—not from both sides, but from only one.",
+      "severity": "major",
+      "source": "그렇게 살계(殺戒)가 열렸다.\n\n양측 모두에서가 아닌, 오직 한쪽에서만 몰아치는 피바람."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Mad Wind Society had tried to take Songhak’s head—and lost most of its leadership instead.",
+      "defect": "The bandits tried to steal Songhak’s horse, not kill him for his head.",
+      "id": "F05",
+      "rationale": "말 means horse here; 빼앗으려다 describes attempted theft.",
+      "replacement": "The Mad Wind Society had tried to steal Songhak’s horse—and lost most of its leadership instead.",
+      "severity": "critical",
+      "source": "송학의 말을 빼앗으려다 수뇌부 대다수의 목숨을 빼앗긴 광풍사는"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even the Fire Gate Clan, which had steadily built up gratitude and grudges by stirring up all manner of trouble, had no chance of persuading the martial artists of the Central Plains to seek out and hand over those dangerous outsiders from the west for revenge.",
+      "defect": "The draft reverses who would be handed over: the Central Plains would not surrender the Fire Gate Clan to western outsiders.",
+      "id": "F06",
+      "rationale": "그들을 refers to the Fire Gate Clan; the outsiders seeking revenge are the Potala Palace.",
+      "replacement": "Even though the Fire Gate Clan had steadily built up gratitude and grudges by stirring up all manner of trouble, there was no chance the martial artists of the Central Plains would hunt them down and hand them over so dangerous outsiders from the west could take revenge.",
+      "severity": "critical",
+      "source": "중원의 무림인들이 서쪽의 위험한 이방인들의 복수를 위해 그들을 찾아 바칠 가능성은 전무했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "I have always held Four Ancestor, the Third Sect Leader, in the deepest respect.",
+      "defect": "“Four Ancestor” reads as a count rather than an ancestral title.",
+      "id": "F07",
+      "rationale": "四祖 identifies the fourth ancestor.",
+      "replacement": "I have always held the Fourth Ancestor, the Third Sect Leader, in the deepest respect.",
+      "severity": "minor",
+      "source": "본좌는 사조(四祖)이신 삼대 문주를 마음 깊이 존경해 온 바"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Without a hair on my head harmed, I…… evaded them and returned safely to the Central Plains.",
+      "defect": "“On my head” narrows the idiom without source support.",
+      "id": "F08",
+      "rationale": "털끝 하나 means not a single hair, with no reference to his head.",
+      "replacement": "Without so much as a hair harmed, I…… evaded them and returned safely to the Central Plains.",
+      "severity": "minor",
+      "source": "털끝 하나 상하지 않고 놈들을…… 피하여 무사히 중원으로 돌아왔느니라."
+    },
+    {
+      "confidence": 0.94,
+      "current": "As the sound of bones shifting rang out and the flames gathered around Jeok Cheongang’s hands began to dim, a lone roar burst from between his bloodied lips, proving how much injury and exhaustion had piled up.",
+      "defect": "The draft omits the named azure dragon’s roar.",
+      "id": "F09",
+      "rationale": "창룡후 specifies the kind of roar, not merely its number.",
+      "replacement": "As the sound of bones shifting rang out and the flames gathered around Jeok Cheongang’s hands began to dim, a single azure dragon’s roar burst from between his bloodied lips, bearing witness to his mounting injuries and exhaustion.",
+      "severity": "major",
+      "source": "핏물이 흘러나오던 그의 입술 사이로 외마디 창룡후(蒼龍吼)가 터져 나온 것은."
+    },
+    {
+      "confidence": 0.93,
+      "current": "> [By decree of the Jade Emperor: Even dogs are left alone while they eat.]",
+      "defect": "“By decree” turns the ancestor’s mock pronouncement into an edict and obscures the later echo of 가로되.",
+      "id": "F10",
+      "rationale": "가로되 introduces what someone says; Jeok deliberately repeats the formula later.",
+      "replacement": "> [The Jade Emperor says: Even a dog should be left alone while it eats.]",
+      "severity": "minor",
+      "source": "옥황상제 가로되, 밥 먹을 때는 개도 안 건드린다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“By decree of Fire King Jeok Cheongang: Never harm a being with something to protect, even if it’s a beast.”",
+      "defect": "“By decree” repeats the edict error, while “something to protect” omits the obligation conveyed by 반드시.",
+      "id": "F11",
+      "rationale": "The line echoes the ancestor’s 가로되 and specifies something the being must protect.",
+      "replacement": "“Fire King Jeok Cheongang says: Never harm a being who has something they must protect, even if that being is a beast.”",
+      "severity": "minor",
+      "source": "화왕 적천강 가로되, 반드시 지켜야 할 것이 있는 존재는 설령 축생(畜生)이라 할지라도 건드리지 말지어다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "This old man still has someone to protect.",
+      "defect": "“Someone” resolves an intentionally open-ended object into a person.",
+      "id": "F12",
+      "rationale": "지켜야 할 것 leaves what Jeok must protect unspecified.",
+      "replacement": "This old man still has something to protect.",
+      "severity": "major",
+      "source": "노부는 아직 지켜야 할 것이 남아 있으니."
+    }
+  ],
+  "summary": "The draft reverses two causal details and misstates a central insult; several smaller changes affect hierarchy, attribution, and the recurring joke.",
+  "version": 1
+}

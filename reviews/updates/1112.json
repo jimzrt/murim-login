@@ -1,0 +1,96 @@
+{
+  "chapter": 1112,
+  "files": {
+    "characters/Dalai Lama.md": "9a0fe256dc39cae5d32d80b32ba6ba8c5ba74b810251508356321bc6ea5e4d33",
+    "characters/Divine Physician.md": "ddd5d7721e984c4b0b319b36e3a4741e690ad38c144b3495c3aed62605c2a86e",
+    "characters/Hak Eui.md": "c0d94898223b2f39860ec2830174c092a21bb365f9144b3121e903df41deb089",
+    "characters/Hyeoncheon.md": "563b32f19f4d9118baea57d28a19448839fc8a1ad81cf4f364a4beec41c544f7",
+    "characters/Jeok Cheongang.md": "fe022fec4517035afedd6525ad58fe61752347563af0350ad8240eb5964399de",
+    "docs/ADDRESS.md": "81e3c508f36bdbbfec37f028da5e1c420204474ec94d34d895078f395893cbb1",
+    "docs/CONTEXT.json": "bbb9aee318e8c9421bb3afd4ad7dea21414b909c81e9dec81b8549233676c7d1",
+    "docs/NAMES.md": "b11a3900716c29bbb12566605a5b2b29b815bc855f6d7ff2496ddb57f4d9e13b",
+    "docs/STATE.md": "75124bf5c41e9207a53f9ef3023cd9c51487121b7563eb1af309b7adf0103833",
+    "summaries/beats/1112.md": "d00cfa44621c8fabc28955eb5989cf7f7cbb5d2031e11b7bea957030fb60b53b"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "현천",
+        "kinship": "allied martial masters defending the North Gate",
+        "normal_address": "Hyeoncheon",
+        "notes": "Jeok calls out to Hyeoncheon to act.",
+        "speaker": "적천강",
+        "speech_level": "familiar and direct"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Dalai Lama is dead: Jeok Cheongang killed him at the North Gate.",
+        "The Potala Palace’s long-standing vendetta against the Fire Gate Clan began when Songhak, its Fifth Sect Leader, killed one hundred Potala martial monks and crippled another hundred after they tried to detain him; he later escaped pursuit and returned to the Central Plains.",
+        "The Dalai Lama sought an alliance with Dark Heaven because the Potala Palace lacked the strength to take revenge on the Central Plains alone; Dark Heaven’s pills, martial arts, and demonic power helped him grow stronger.",
+        "Jeok Cheongang and Perfected Being Hyeoncheon are severely injured after defending the North Gate; Hyeoncheon is alive but barely conscious."
+      ],
+      "plot": [
+        "At the North Gate, the Dalai Lama recognizes Jeok Cheongang’s techniques and explains that the Potala Palace’s grudge began over two hundred years ago, when Songhak destroyed its forces after its monks interrupted his meal. The Palace later built its strength and allied with Dark Heaven to seek revenge against the Fire Gate Clan. Jeok exposes the Dalai Lama’s use of demonic power, then kills him while declaring that he will protect the Fire Gate Clan.",
+        "Jeok Cheongang and Perfected Being Hyeoncheon had both been gravely injured defending the North Gate. Hyeoncheon is still alive but barely breathing when Jeok calls out to him during the fight."
+      ],
+      "translation_decisions": [
+        "Retain established renderings: Songhak, Ghost Flame Fist, Flame Divine Palm, Flame-Extinguishing Divine Fist, and azure dragon’s roar.",
+        "Render 창도 as “Chamdo.”"
+      ]
+    },
+    "chapter": 1112,
+    "context": {
+      "active_continuity": [
+        "The West Gate has fallen; more than half its garrison are casualties, and some survivors retreated to the Inner City.",
+        "Jin Taekyung and Cheongpung are badly injured in the Inner City; Taekyung may not survive.",
+        "The Slaughter Saint remains at the South Gate to support its defense; the Bow Saint’s motives are unclear.",
+        "Jeok Cheongang killed the Dalai Lama at the North Gate; Jeok is badly injured, and Perfected Being Hyeoncheon is alive but barely conscious.",
+        "The Potala Palace’s vendetta against the Fire Gate Clan began with Songhak’s destruction of its forces more than two hundred years ago; the Dalai Lama allied with Dark Heaven to seek revenge.",
+        "The Blood Lord is heading to the Inner City to kill Taekyung."
+      ],
+      "continuity_sources": [
+        1111,
+        1112
+      ],
+      "open_questions": [
+        "Will Jin Taekyung survive his injuries, and can he receive treatment from the Divine Physician?",
+        "What is the Bow Saint hiding, and why did she accept the possibility of Taekyung’s death?",
+        "Can the South Gate hold against the Grand Mage and the four Black Ghosts?",
+        "Will the Blood Lord reach Taekyung before he can be treated?"
+      ],
+      "safe_through": 1112,
+      "temporary_decisions": [
+        "Render 西藏 as “Xizang” for the Murim region; retain “Tibet” when Taekyung identifies it from his modern-world perspective."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Chamdo",
+        "korean": "창도",
+        "notes": "Town named as the site of Songhak’s inn stay."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** The Dalai Lama is the Potala Palace’s leader and ruler of Xizang, commanding its Twelve Secret Monks.",
+        "path": "characters/Dalai Lama.md",
+        "replacement": "- **Role:** The former Dalai Lama led the Potala Palace and its Twelve Secret Monks until Jeok Cheongang killed him at the North Gate."
+      },
+      {
+        "current": "- **Personality:** Fiercely hostile to the Fire Gate Clan and committed to the Potala Palace’s interests; he trusts the Lord of Heaven but distrusts the Blood Lord.",
+        "path": "characters/Dalai Lama.md",
+        "replacement": "- **Personality:** Driven by the Potala Palace’s inherited vendetta against the Fire Gate Clan, he pursued greater power and an alliance with Dark Heaven despite the contradiction between his cause and his use of demonic power."
+      },
+      {
+        "current": "- **Relationships:** He leads the Potala Palace in an unequal alliance with Dark Heaven and commits its forces to ending the Fire Gate Clan, pursuing the Palace’s longstanding grievance.",
+        "path": "characters/Dalai Lama.md",
+        "replacement": "- **Relationships:** He led the Potala Palace’s vendetta against the Fire Gate Clan and allied with Dark Heaven to gain the strength needed to pursue it."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
