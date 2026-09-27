@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Make way…!”\n\nThe towering Grand Mage caught his breath, then shouted like a roar.\n\n“Make way!”",
+      "defect": "“Make way” tells others to step aside; Johnson orders the force to open a path through the enemy.",
+      "id": "F01",
+      "rationale": "길을 열어라 directs the fighters to clear a route toward their Alliance Leader.",
+      "replacement": "“Clear a…!”\n\nThe towering Grand Mage caught his breath, then shouted like a roar.\n\n“Clear a path!”",
+      "severity": "major",
+      "source": "“길을……!”\n\n가쁜 호흡을 삼킨 거구의 대마도사가, 이내 포효하듯 외쳤다.\n\n“길을 열어라!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A dense cloud of steam rose, covering the area and blocking the battlefield from view.",
+      "defect": "The draft omits the cloud’s roughly hundred-meter radius.",
+      "id": "F02",
+      "rationale": "반경 백여 미터 specifies how far the steam spreads.",
+      "replacement": "A dense cloud of steam rose, spreading across a radius of roughly a hundred meters and blocking the view in every direction.",
+      "severity": "minor",
+      "source": "반경 백여 미터를 뒤덮을 만큼 자욱한 수증기가 피어올라 사방의 시야를 가렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "At the same time, countless pairs of bloodshot eyes gleamed ominously from within the dark rift in space.",
+      "defect": "“Bloodshot” adds a physical detail absent from the source.",
+      "id": "F03",
+      "rationale": "안광 describes the ominous gleam of eyes, not their redness.",
+      "replacement": "At the same time, countless eyes gleamed ominously from within the dark rift in space.",
+      "severity": "minor",
+      "source": "그와 동시에 어두컴컴한 공간의 틈새로, 무수히 많은 안광(眼光)이 흉흉하게 번뜩였다."
+    }
+  ],
+  "summary": "The draft changes a battlefield order and adds an unsupported visual detail; it also omits the extent of the steam cloud.",
+  "version": 1
+}
