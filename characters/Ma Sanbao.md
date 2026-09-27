@@ -1,6 +1,6 @@
 # Ma Sanbao (마삼보)
 
-- **Safe through:** Chapter 1066
+- **Safe through:** Chapter 1067
 - **Aliases:** None
 - **Role:** Ma Sanbao is the East Depot’s former Brush-Holding Eunuch, a sorcerer and former Disciple of another Demon Lord who now serves the Blood Lord.
 - **Personality:** He is vigilant and patient, concealing his loyalties while awaiting the moment to act for the late Emperor.

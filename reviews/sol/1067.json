@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "His body, hidden behind a mask while he secretly served as an East Depot eunuch just like his Master’s, had never been found. That could only mean one thing.",
+      "defect": "The draft makes the body seem hidden behind a mask; Ma Sanbao wore the mask while operating in secret.",
+      "id": "F01",
+      "rationale": "가면을 쓴 채 describes Ma Sanbao’s conduct before his disappearance, not the location or condition of his body.",
+      "replacement": "Like his Master, he’d worn a mask while working in secret as an East Depot eunuch. His body had never been found, and that could only mean one thing.",
+      "severity": "major",
+      "source": "자신의 스승처럼 가면을 쓴 채 동창의 태감으로 암약하던 그의 시체는 끝끝내 찾을 수 없었고, 이는 한 가지 사실만을 의미했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I’d crossed paths with Hak Woo, the Kunlun Sect’s greatest young prodigy and a member of the Ten Dragons and Phoenixes, during the Star-Array Grand Banquet.",
+      "defect": "Hak Woo’s stated epithet is omitted.",
+      "id": "F02",
+      "rationale": "The source explicitly identifies him as 곤륜운룡.",
+      "replacement": "I’d crossed paths with Hak Woo—the Kunlun Cloud Dragon, the Kunlun Sect’s greatest young prodigy and a member of the Ten Dragons and Phoenixes—during the Star-Array Grand Banquet.",
+      "severity": "minor",
+      "source": "성라대연 당시 곤륜파 최고의 후기지수이자 십봉룡의 일원이던 곤륜운룡(崑崙雲龍) 학우와 인연을 맺기는 했지만"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Starting a campfire in the middle of enemy territory was enough to set off every last one of my nerves. But one lunatic didn’t seem to mind.",
+      "defect": "The reaction is narrowed to the narrator and softens 개소리; the source says this infuriates the others as well.",
+      "id": "F03",
+      "rationale": "나를 포함한 다른 이들 includes the narrator and the others, while 개소리 is a blunt dismissal.",
+      "replacement": "Starting a campfire in the middle of enemy territory was bullshit that set everyone’s blood boiling, mine included. But one lunatic didn’t seem to mind.",
+      "severity": "minor",
+      "source": "적진 한가운데에서 캠프 파이어라니, 나를 포함한 다른 이들의 가슴에 불을 지르는 개소리였지만 어느 정신 나간 인간은 달랐다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "“They’re pest birds.”",
+      "defect": "“Pest” suggests nuisance rather than harm, weakening the reason given for killing them.",
+      "id": "F04",
+      "rationale": "해로운 describes birds that cause harm, not merely birds that are bothersome.",
+      "replacement": "“They’re dangerous birds.”",
+      "severity": "minor",
+      "source": "“해로운 새라서 그래요.”"
+    },
+    {
+      "confidence": 0.87,
+      "current": "*Thump.*",
+      "defect": "“Thump” suggests a blunt impact; 푹 marks something plunging into the monster immediately before it stops moving.",
+      "id": "F05",
+      "rationale": "The source’s sound conveys a penetrating blow, not a thud.",
+      "replacement": "*Stab.*",
+      "severity": "major",
+      "source": "푹.\n\n완전히 움직임을 멈춘 괴물을"
+    },
+    {
+      "confidence": 0.91,
+      "current": "The watchful eyes and the pursuers would catch up soon.",
+      "defect": "The draft makes the watching eyes themselves something that will catch up, though surveillance is already in place.",
+      "id": "F06",
+      "rationale": "The preceding discovery establishes the watching eyes as present; the approaching threat is the pursuers.",
+      "replacement": "Eyes were already watching us, and pursuers would soon be on our heels.",
+      "severity": "minor",
+      "source": "감시의 눈이, 추격자들이 따라붙을테니."
+    }
+  ],
+  "summary": "The draft preserves the scene’s main events, but misplaces Ma Sanbao’s mask, omits Hak Woo’s epithet, and changes the sound of the final killing blow.",
+  "version": 1
+}

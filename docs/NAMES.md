@@ -2505,3 +2505,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 고랑검문 | **Gorang Sword Sect** | Sect whose disciples execute their treacherous Sect Leader. |
 | 강평 | **Gangpyeong** | Disciple who confronts the Gorang Sword Sect’s treacherous Sect Leader. |
 | 난주혁가 | **Lanzhou Hyuk Family** | Family whose members confront their traitorous Family Head. |
+| 강시공 | **Corpse Art** | Wei Zhong’s technique for creating or controlling jiangshi. |

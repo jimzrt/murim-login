@@ -1,22 +1,22 @@
 # Translation State
 
-- Last completed: 1066
-- Next chapter: 1067
-- Current block: 1065–1069 (2/5)
-- Latest translation: `translations/1066.md`
-- Latest summary: `summaries/beats/1066.md`
-- Safe profiles through: chapter 1066
+- Last completed: 1067
+- Next chapter: 1068
+- Current block: 1065–1069 (3/5)
+- Latest translation: `translations/1067.md`
+- Latest summary: `summaries/beats/1067.md`
+- Safe profiles through: chapter 1067
 
 ## Current Block
 
-- The Great Sir guides Jin Taekyung’s group into northwestern Qinghai, shortening their journey by at least two days. Taekyung’s force of roughly three thousand rests in the mountains, where Hyeoncheon reminds him that the survivors follow him out of gratitude and a desire for revenge. Before Taekyung can address them, the forest falls silent and unknown enemies approach; he orders the force to prepare for battle.
-- In the Kunlun mountains, the Grand Mage questions the Blood Lord’s newly casual manner and his master’s trust in him. The Blood Lord reveals that the man in black beside them, recently his subordinate, was until a few months ago another Demon Lord’s Disciple. The man is identified as Ma Sanbao; he reports that he has found what they were seeking, and the Blood Lord welcomes the news.
+- Jin Taekyung’s allied force wins its first battle in Qinghai in half a shichen, killing over a thousand enemies with around thirty wounded and no deaths. Among the enemy dead, Jin finds a reanimated Kunlun Sect Disciple whose condition resembles the Corpse Art used by Wei Zhong, leading Jin and Jeong Hogun to suspect Ma Sanbao is with Dark Heaven. Jin worries Dark Heaven’s hundred-thousand-strong army may include jiangshi and that the Lord of Heaven may appear. A bird with rotting flesh and bloodred eyes reveals that reanimated monsters are also watching from the trees; Jin orders the Great Sir to kill any more such birds, then leaves the stopped Kunlun monster behind as the group prepares for pursuit.
 
 ## Open Questions
 
-- What has Ma Sanbao found?
-- What enemies are approaching Taekyung’s force?
-- Why does the System prevent Jin from logging out beyond the incomplete linked Quest?
+- Is Ma Sanbao with Dark Heaven, and has he spread the Corpse Art to others?
+- Are Dark Heaven’s forces broadly composed of reanimated corpses?
+- What is the Lord of Heaven seeking through Jin, and when will he appear?
+- How many reanimated creatures are monitoring the allied force, and where are the pursuers?
 
 ## Exceptional Decision
 
