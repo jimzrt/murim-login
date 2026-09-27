@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The emotions in the enemy’s eyes came closer with the wind, as though they were pushing against time as it slowed.",
+      "defect": "The draft makes the emotions move with the wind; the enemy’s eyes are what approach like the wind.",
+      "id": "F01",
+      "rationale": "바람처럼 가까워지는 modifies 적의 눈동자; the emotions are contained in those eyes.",
+      "replacement": "And he could feel the emotions in the enemy’s eyes as they drew closer like the wind, as though defying the slowing of time.",
+      "severity": "major",
+      "source": "마치 느려진 시간을 거스르듯, 바람처럼 가까워지는 적의 눈동자에 담겨 있는 감정도 함께."
+    },
+    {
+      "confidence": 0.99,
+      "current": "With the Ancient Dragon’s last struggle, heedless of death, the powerful magic and countless teeth lurking within its maw flashed toward a single human.",
+      "defect": "The draft renders 마력 as “magic” rather than the binding term “magical power.”",
+      "id": "F02",
+      "rationale": "The supplied glossary distinguishes 마력 (“magical power”) from other energy terms.",
+      "replacement": "With the Ancient Dragon’s last struggle, heedless of death, the immense magical power and countless teeth lurking within its maw flashed toward a single human.",
+      "severity": "minor",
+      "source": "그 안에 도사린 강대한 마력과 수많은 이빨이 한 인간을 향해 번뜩였다."
+    }
+  ],
+  "summary": "One action-image error and one glossary mismatch.",
+  "version": 1
+}
