@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled copy has major omissions: it drops Baeksang’s reason for moving freely through the Inner Palace and Taekyung’s no-retreat resolve. It also omits a physical detail from the chieftain’s plea.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "Lines 25–27",
+      "current": "Unless one walked the Demonic Path, even a fairly skilled internal-energy master would have had his internal energy thrown into disarray and lost his composure the moment he entered the demonic qi’s domain.",
+      "defect": "The translation omits the source’s clarification that Baeksang can move freely through the Inner Palace precisely because he is a Supreme Peak master. This drops both his rank and the causal contrast with the internal-energy masters described in the next sentence.",
+      "replacement": "No. It was precisely because he was a Supreme Peak master that he could move freely through the Inner Palace.",
+      "rationale": "The source says, “아니, 초절정 고수였기에 이렇게 내궁을 활보할 수 있다.” The accepted baseline also preserves this distinction.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "major",
+      "source": "Lines 359–363",
+      "current": "A few times. A few dozen. It didn’t matter.\n\nNot only me, but every living thing in Nanman—and even the Central Plains—would inevitably be swallowed by the flames.",
+      "defect": "The translation omits Taekyung’s statement that there is nowhere left to retreat and that even one backward step would make that place hell. The omission removes the immediate reason he must keep standing and the source’s explicit retreat-or-hell image.",
+      "replacement": "There was nowhere left to retreat. If I took even one step backward, that place would be hell.",
+      "rationale": "The source states, “더 이상 물러설 곳은 없다. 단 한 번이라도 뒷걸음질 친다면 그곳이 바로 지옥이다.” The accepted baseline preserves both sentences.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 41–43",
+      "current": "Baeksang quietly looked down at the fallen tribal chieftain, who had lost his balance, and opened his mouth.",
+      "defect": "The translation omits the chieftain’s outstretched hand brushing Baeksang’s white collar, a concrete action during his plea.",
+      "replacement": "The chieftain’s outstretched hand brushed Baeksang’s snow-white collar. Baeksang quietly looked down at him as he fell and opened his mouth.",
+      "rationale": "The source says the chieftain reaches out desperately and his hand brushes the white collar. The accepted baseline preserves this physical detail.",
+      "confidence": 0.99
+    }
+  ]
+}

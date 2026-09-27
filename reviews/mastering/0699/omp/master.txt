@@ -2,7 +2,7 @@
 
 Rumble! Crash!
 
-Unable to withstand the fierce vibrations, the stone walls of the Inner Palace crumbled helplessly, and the iron gate that had broken free slammed into the ground with a heavy roar.
+The stone walls of the Inner Palace could not withstand the violent shaking. They crumbled, and a broken iron gate slammed into the ground with a heavy clang.
 
 It was like watching a small hill collapse.
 
@@ -10,7 +10,7 @@ Baeksang slipped past the debris and shot forward.
 
 Whoooosh!
 
-Wind brushed across his entire body. His sharpened senses caught the metallic scent of blood and the screams echoing from every direction.
+Wind swept over him. His sharpened senses caught the scent of blood and screams rising from every direction.
 
 He felt the internal energy churning inside him and took a deep breath.
 
@@ -18,9 +18,9 @@ He felt the internal energy churning inside him and took a deep breath.
 
 A massive cliff rose behind the Inner Palace like a folding screen. Demonic qi flowed from a gap in it—a gap that could only be called a *rift* now. Even Baeksang could not take it lightly.
 
-Unless one walked the Demonic Path, even a fairly skilled internal-energy master would have had his internal energy thrown into disarray and lost his composure the moment he entered the demonic qi’s domain.
+No. He could move through the Inner Palace only because he was a Supreme Peak master. Unless they walked the Demonic Path, even a skilled internal-energy master would have felt their power thrown into disarray and lost their composure the moment they entered the demonic qi’s reach.
 
-Just like the middle-aged man now staggering into his path to block him.
+Just like the middle-aged man who staggered into his path.
 
 “P-Palace Lord? Is that you, Palace Lord?”
 
@@ -30,13 +30,13 @@ But the man who used to greet Baeksang with an oily, flattering smile was now cr
 
 “Please, please save me! I don’t want to die ye—!”
 
-Baeksang quietly looked down at the fallen tribal chieftain, who had lost his balance, and opened his mouth.
+His flailing hand brushed Baeksang’s white collar. The chieftain lost his balance and fell, and Baeksang looked down at him.
 
 “Why should I?”
 
 “P-Palace Lord?”
 
-“You must have known already. That what I intended to do would bring great harm to Nanman.”
+“You knew what I intended to do would bring great harm to Nanman.”
 
 “…!”
 
@@ -50,17 +50,17 @@ Puhk!
 
 The attack pierced the crown of the chieftain’s skull, and he collapsed. His eyes remained wide with disbelief. Even in death, they seemed to ask Baeksang a question.
 
-*How can you still stand so proudly even in the face of this hellscape?*
+*Why? How can you stand there so calmly in the face of this hellscape?*
 
-And Baeksang answered the dead man’s question in his heart.
+Baeksang answered the dead man in his heart.
 
-*Because I had already made up my mind.*
+*Because I knew what I was doing.*
 
 Even so, his breath trembled.
 
-If that man had begged him to save the tribespeople instead of his own life, would Baeksang have saved them?
+If the chieftain had begged for the lives of his tribespeople instead of his own, would Baeksang have spared him?
 
-No. Perhaps meeting such a peaceful death was actually an act of mercy for a man with such poor martial arts.
+Perhaps a swift death was a mercy to a man with such poor martial arts.
 
 Ten thousand.
 
@@ -74,7 +74,7 @@ He sped across the vast training ground, where screams filled the air. The stabl
 
 Vengeance. Anger. Regret.
 
-The emotions that had piled up layer after layer with every step whipped around him.
+With every step, the feelings he had buried layer upon layer surged up again.
 
 *If only I hadn’t taken my only son to the battlefield. If only I’d drawn my sword instead of clasping hands with the Southern Heaven Demon Empress the day she came.*
 
@@ -106,7 +106,7 @@ In his mind, the Southern Heaven Demon Empress’s voice echoed from the night b
 
 She had laughed. Baeksang had dropped to his knees without hesitation.
 
-Only after watching the new lord of the Nanman Beast Palace repeatedly strike his head against the floor for quite some time did she finally give him the answer he had so desperately wanted.
+Only after watching the Nanman Beast Palace’s new lord strike his head against the floor for a long while did she give him the answer he had begged for.
 
 “A polite child deserves a reward. Fine. Once the grand plan begins, return to your office.”
 
@@ -116,7 +116,7 @@ Only after watching the new lord of the Nanman Beast Palace repeatedly strike hi
 
 Her amused voice faded from his ears. Baeksang’s only hand trembled as he reached toward the door, slowly, so slowly.
 
-If the Southern Heaven Demon Empress and Dark Heaven said it was so, then it was so.
+He had never asked *how*. If the Southern Heaven Demon Empress and Dark Heaven said it would happen, it would happen. After everything they had shown him—powers beyond nature—how could he doubt it?
 
 However many eyes watched the Inner Palace, the promise would be kept.
 
@@ -134,15 +134,15 @@ Creak.
 
 His spacious office came into view.
 
-Simple, crude furnishings that still held the warmth of their former owner. A table that had preserved the traces of many long years.
+Simple, rough furnishings that still held the warmth of their former owner. A table worn by the passing years. And a large mirror that looked out of place among them.
 
-And then. And then……
+And…
 
 That was all.
 
 *Nothing. There’s nothing here.*
 
-Baeksang stared at the office with hollow, empty eyes, then suddenly let out a hollow laugh.
+The realization crushed him like an immense boulder. He stared at the empty office and let out a laugh.
 
 “Heh. Heh heh. Heh heh heh.”
 
@@ -166,7 +166,7 @@ Bang! Bang! Krrr-boom!
 
 He kept punching. The office was not the only thing that broke.
 
-The callused back of his hand split open, and white bone showed faintly through the blood covering his fist.
+The callused back of his hand split open. White bone showed through the blood on his fist.
 
 *It hurts.*
 
@@ -184,15 +184,15 @@ He had thought the world had stopped. Beyond the open window, everything was sti
 
 —Grrk, grrrk!
 
-Humans and beasts struggled as they resisted the demonic qi devouring their bodies and minds.
+People and beasts writhed as they fought the demonic qi consuming their bodies and minds. Large and small shadows raced toward them.
 
 Thud-thud-thud-thud!
 
-Countless beasts thundered across the ground, climbed over the collapsed stone walls, and descended upon them.
+A host of beasts thundered over the collapsed stone wall and descended on the screaming victims—not to slaughter them, but to save them.
 
 —Graaaar!
 
-With the roar of a familiar White Tiger at the head of the group, the beasts moved in perfect formation. They bit the arms, legs, or scruffs of the nearest people and beasts, then raced toward the Outer Palace.
+At the familiar White Tiger’s roar, the beasts moved as one. They caught the nearest people and beasts by their arms, legs, or the backs of their necks and ran toward the Outer Palace.
 
 Away from the demonic qi. One step farther toward the light.
 
@@ -208,7 +208,7 @@ Boom! Crack!
 
 The figure hurtled toward the ground like a meteor. Two pavilions collapsed, and the earth shook.
 
-Blue flames stepped on empty air and shot toward the thick darkness.
+A moment later, blue flame stepped on empty air and shot back toward the dense darkness.
 
 Without a moment’s rest. As though it could burn away even the death waiting for it.
 
@@ -220,11 +220,11 @@ The question remained trapped in Baeksang’s mouth. Another question, heard not
 
 “How much more blood do you mean to spill, Baeksang?”
 
-Baeksang stared blankly out the window and finally gave his answer.
+Baeksang stared out the window and gave his answer at last.
 
 “I don’t know. I don’t know either.”
 
-It was a secret he had been unable to tell anyone.
+It was a secret he had never told anyone.
 
 After losing his son, he had dreamed of revenge. Meeting the Southern Heaven Demon Empress had given him hope. Then one day he had realized he’d crossed a river he could never cross back, and despair had followed.
 
@@ -244,7 +244,7 @@ Someone covered in blood and dust was looking back at him.
 
 A man who had lost everything and become an empty shell. An old man who had held the years at bay through sheer martial power, surviving as a monster.
 
-The large mirror occupying one corner of the office reflected his figure.
+The mirror in the corner of the office reflected him.
 
 But Baeksang saw something else, too.
 
@@ -296,11 +296,11 @@ But…
 
 A few times. A few dozen. It didn’t matter.
 
-Not only me, but every living thing in Nanman—and even the Central Plains—would inevitably be swallowed by the flames.
+There was nowhere left to retreat. One step back, and that was where hell would begin. It wouldn’t stop with me. Every living thing in Nanman, and then the Central Plains, would be swallowed by the flames.
 
 *I have to stop her.*
 
-I wiped the blood from the corner of my mouth with my sleeve and stood.
+I wiped my mouth with my sleeve and stood.
 
 Before I could summon my internal energy again, I realized things could still get worse.
 
@@ -310,4 +310,4 @@ I turned my head on instinct.
 
 “…Fuck.”
 
-Darkness descending thickly over the collapsing Inner Palace.
+Darkness was spreading over the collapsing Inner Palace.

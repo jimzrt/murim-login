@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Baeksang quietly looked down at the fallen tribal chieftain, who had lost his balance, and opened his mouth.",
+      "defect": "The translation omits the chieftain’s outstretched hand brushing Baeksang’s white collar, a concrete action during his plea.",
+      "id": "F03",
+      "rationale": "The source says the chieftain reaches out desperately and his hand brushes the white collar. The accepted baseline preserves this physical detail.",
+      "replacement": "The chieftain’s outstretched hand brushed Baeksang’s snow-white collar. Baeksang quietly looked down at him as he fell and opened his mouth.",
+      "severity": "minor",
+      "source": "Lines 41–43"
+    }
+  ],
+  "summary": "The assembled copy has major omissions: it drops Baeksang’s reason for moving freely through the Inner Palace and Taekyung’s no-retreat resolve. It also omits a physical detail from the chieftain’s plea.",
+  "version": 1
+}
