@@ -1,6 +1,6 @@
 # So Gunak (소군악)
 
-- **Safe through:** Chapter 1039
+- **Safe through:** Chapter 1040
 - **Aliases:** None
 - **Role:** So Gunak is a Black Ghost, a former Demonic Cult fiend transformed into a black-armored warrior.
 - **Personality:** Not established.
