@@ -1,0 +1,116 @@
+{
+  "chapter": 1171,
+  "files": {
+    "characters/Divine Physician.md": "432579d7be418479b158870ea0e1445f3f9c3178c169db4ded922128358c787e",
+    "characters/Grand Mage.md": "9619e7c1fffc6594b5a931d6ee0f33aa102afd31adf316892028213da7f7b3a6",
+    "characters/Jin Taekyung.md": "f0b1476f887b4c6326cae0dd675022d156c2eb426fdbd9b617cd34889adaa7fc",
+    "characters/Jintae.md": "9ccd0597670a627458079f9beffa913543f4646f6a45ca7bec9cf2eb3ed05ecc",
+    "characters/Morgoth.md": "e83b2eb1dd7afea1658f3e0be9eac340d25b598b75eaf214f1dc3b10add64301",
+    "docs/ADDRESS.md": "9888fa34f76fb43f17128ef707d756cad1ad61b59610e952577b341a16beda3f",
+    "docs/CONTEXT.json": "f26e3a76216d86a41d0be5cdc0573b9530bbabe4822c2ac431347d9b81a1db85",
+    "docs/NAMES.md": "6e9de10cb86d235cdc20ec9eddcaa1edc2bda70493e7635975354014596de37a",
+    "docs/STATE.md": "2155d2827e3a2bf72b5369d0177fb72e9972b13bd9dbc6e756ffc7f90f9902ea",
+    "summaries/beats/1171.md": "3f823ae4e060ae580f8a89ab454950eca1f53d5a166dac8b1c4c05f2ead9d33c"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "골골이",
+        "kinship": "friends",
+        "normal_address": "Bones",
+        "notes": "Jin calls his revived friend 골골이.",
+        "speaker": "진태경",
+        "speech_level": "casual and familiar"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "friends",
+        "normal_address": "human",
+        "notes": "The Undead King addresses Jin as 인간.",
+        "speaker": "언데드 킹",
+        "speech_level": "casual and familiar"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jin killed Morgoth by piercing his Dragon Heart; the released magical power is tied to the beginning or completion of another catastrophe.",
+        "The Skeleton King revived as a Lv. 180 Undead King after absorbing the darkness and magical power, and reunited with Jin as a trusted friend.",
+        "Jin’s injuries and status effects were healed, but he fell unconscious from severe exhaustion.",
+        "Magic Johnson and the Undead King witnessed the magical-power pillar explode; the resulting catastrophe remains unresolved."
+      ],
+      "plot": [
+        "Morgoth dies when Jin’s spear pierces his Dragon Heart, releasing its accumulated magical power across the battlefield. Jin’s injuries and status effects are healed, but he falls into a deep sleep from exhaustion. The Skeleton King revives as a Lv. 180 Undead King after absorbing the spreading darkness. Magic Johnson and the Undead King realize that another catastrophe has begun—or has been completed—and the pillar of magical power connecting heaven and earth explodes."
+      ],
+      "translation_decisions": [
+        "Render 언데드 킹 as “Undead King,” distinct from the former Skeleton King form.",
+        "Use “Dragon Heart” for 드래곤 하트, “Dragon Lord” for 드래곤 로드, and “Lord of the Dead” for 망자의 군주."
+      ]
+    },
+    "chapter": 1171,
+    "context": {
+      "active_continuity": [
+        "Morgoth was killed when Jin pierced his Dragon Heart; its immense magical power burst across the battlefield.",
+        "Jin’s injuries and status effects were healed, but he fell unconscious from severe exhaustion.",
+        "The Skeleton King revived as the Lv. 180 Undead King after absorbing the spreading darkness and magical power.",
+        "Magic Johnson and the Undead King recognized that another catastrophe had begun or been completed; the pillar of magical power exploded."
+      ],
+      "continuity_sources": [
+        1171
+      ],
+      "open_questions": [
+        "What catastrophe was completed by Morgoth’s death, and what will follow the explosion of the magical-power pillar?",
+        "How will Jin fare after his exhaustion-induced unconsciousness?"
+      ],
+      "safe_through": 1171,
+      "temporary_decisions": [],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Dragon Heart",
+        "korean": "드래곤 하트",
+        "notes": "A Dragon’s heart and source of power."
+      },
+      {
+        "english": "Dragon Lord",
+        "korean": "드래곤 로드",
+        "notes": "Morgoth’s former rank as the greatest and most powerful Dragon."
+      },
+      {
+        "english": "Dragon Killer",
+        "korean": "용살자",
+        "notes": "Achievement Jin earns for killing Morgoth."
+      },
+      {
+        "english": "Dragon Slayer",
+        "korean": "드래곤 슬레이어",
+        "notes": "Title Jin receives after killing Morgoth."
+      },
+      {
+        "english": "Lord of the Dead",
+        "korean": "망자의 군주",
+        "notes": "Title displayed for the revived Undead King."
+      },
+      {
+        "english": "Undead King",
+        "korean": "언데드 킹",
+        "notes": "The revived form of the Skeleton King."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Relationships:** Jin Mukyung is his older brother and Jeok Cheongang his Master and trusted confidant; he shares deep loyalty with Hyuk Mujin, whom he values as family, and considers the Skeleton King a friend.",
+        "path": "characters/Jin Taekyung.md",
+        "replacement": "- **Relationships:** Jin Mukyung is his older brother and Jeok Cheongang his Master and trusted confidant; he shares deep loyalty with Hyuk Mujin, whom he values as family, and considers the revived Undead King, formerly the Skeleton King, a friend."
+      },
+      {
+        "current": "- **Role:** Morgoth is a Dragon and sovereign of a vast palace who collects powerful beings he kills or subdues as Guardians, including seven S-rank Hunters from Earth.",
+        "path": "characters/Morgoth.md",
+        "replacement": "- **Role:** Morgoth was a Dragon Lord and sovereign of a vast palace, slain by Jin Taekyung when Jin pierced his Dragon Heart."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

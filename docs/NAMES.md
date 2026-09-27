@@ -2575,3 +2575,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 드래곤 하트 | **Dragon Heart** | Morgoth’s exposed organ. |
 | 심안 | **Mind’s Eye** | Ability that activates under specific conditions and causes extreme fatigue. |
 | 온고지신 | **Learn from the Old, Know the New** | System achievement. |
+| 용살자 | **Dragon Killer** | Achievement Jin earns for killing Morgoth. |
+| 드래곤 슬레이어 | **Dragon Slayer** | Title Jin receives after killing Morgoth. |
+| 망자의 군주 | **Lord of the Dead** | Title displayed for the revived Undead King. |
+| 언데드 킹 | **Undead King** | The revived form of the Skeleton King. |
