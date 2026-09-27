@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 1089
-- Next chapter: 1090
-- Current block: 1085–1089 (5/5)
-- Latest translation: `translations/1089.md`
-- Latest summary: `summaries/beats/1089.md`
-- Safe profiles through: chapter 1089
+- Last completed: 1090
+- Next chapter: 1091
+- Current block: 1090–1094 (1/5)
+- Latest translation: `translations/1090.md`
+- Latest summary: `summaries/beats/1090.md`
+- Safe profiles through: chapter 1090
 
 ## Current Block
 
-- At Qinghai Lake, Xining Branch Master Man Chong grows suspicious when a returning patrol appears to have twelve riders instead of ten. The newcomers impersonate a dead disciple, and the Blood Lord reveals that he has killed the patrol and taken the men’s blood. With the Grand Mage’s help, he freezes the lake, traps the Beggars’ Sect disciples, and orders any survivor to carry word that he is coming.
+- A frost-covered Beggars’ Sect disciple reaches Xining with a final message naming the Blood Lord and threatening to destroy the city, then dies. Gung Gibang mourns him and objects when Hak Eui criticizes the lack of intelligence; Cheongheoja apologizes for his disciple. Hak Eui urges abandoning Xining, but Jin Taekyung says the Blood Lord’s forces have already crossed Qinghai Lake, identified Blizzard’s traces on the messenger, and tells Hak Eui he may flee. A rumble begins shaking Xining.
+- The Blood Lord’s released messenger was a two-knot disciple; nearly thirty Beggars’ Sect disciples remained across Qinghai Lake, and only the messenger made it back to Xining before dying.
 
 ## Open Questions
 
@@ -17,7 +18,7 @@
 - Why did the Lord of Heaven spare Taekyung in Gansu, and what is his real purpose?
 - Will the Alliance Leader and other righteous warriors reach Qinghai?
 - What is the hidden ember Cheongheoja warned about?
-- Who survives the Blood Lord’s attack at Qinghai Lake?
+- What caused the shaking in Xining, and how soon will the enemy arrive?
 
 ## Exceptional Decision
 
