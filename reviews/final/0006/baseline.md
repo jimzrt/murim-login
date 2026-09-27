@@ -60,7 +60,7 @@ When I finished reading the description, something occurred to me.
 
 *That’s exactly what it is. A power-level scanner.*
 
-In a famous manga, they used a mechanical device to measure an opponent’s power level.[^1] I wondered how Qi Sense would work.
+In a famous manga, they used a mechanical device to measure an opponent’s power level. I wondered how Qi Sense would work.
 
 Curious, I called the command to mind.
 
@@ -72,9 +72,9 @@ Ding.
 
 > **System**
 >
-> You used Qi Sense. Since your current realm is 1st Mastery, you can scan targets at or below Lv. 30 within 10 jang.[^2]
+> You used Qi Sense. Since your current realm is 1st Mastery, you can scan targets at or below Lv. 30 within 10 jang.
 
-Ten jang—that was thirty meters.[^2]
+Ten jang—that was thirty meters.
 
 Whoosh.
 
@@ -106,7 +106,7 @@ The world seemed to brighten before my eyes. If Qi Sense was a single ray of lig
 >
 > **Logout**
 >
-> Now you must make your way through this harsh Murim.[^3]
+> Now you must make your way through this harsh Murim.
 >
 > Grow stronger and become famous.
 >
@@ -166,7 +166,7 @@ I’d start by beating the shit out of the game’s developers. Fucking bastards
 
 Matching uniforms. Disciplined postures. Clipped voices.
 
-The moment I saw the martial artists guarding the Jin Family of Taiyuan’s main gate, the word *Murim*[^3] flashed through my mind.
+The moment I saw the martial artists guarding the Jin Family of Taiyuan’s main gate, the word *Murim* flashed through my mind.
 
 *So this is what a prestigious family is like.*
 
@@ -194,7 +194,7 @@ Through the window, I saw the NPC’s face—or rather, Hyuk Mujin’s—twist i
 
 “Ah, well…”
 
-No matter where you went, there were always people like that—the kind who worked for a conglomerate and thought that made them a chaebol,[^4] when the actual chaebol was someone else entirely.
+No matter where you went, there were always people like that—the kind who worked for a conglomerate and thought that made them a chaebol, when the actual chaebol was someone else entirely.
 
 I quietly opened the window and coughed.
 
@@ -330,7 +330,7 @@ But…
 
 The fact that this was a game and Hyuk Mujin was an NPC didn’t matter. No—I decided not to think about it.
 
-All the stress that had built up erupted, shattering the last of my patience.
+All the stress that had built up over the past few days erupted, shattering the last of my patience.
 
 “Hey. You. Stop right there.”
 
@@ -407,8 +407,3 @@ Jin Wikyung, the thirty-five-year-old Lesser Family Head of the Jin Family of Ta
 *Here we go again.*
 
 Wipeng, Jin Wikyung’s escort, let out an inscrutable sigh as he watched his master walk away.
-
-[^1]: The device alludes to the scouter in *Dragon Ball*, which displays a fighter’s power level.
-[^2]: A jang is about 3.03 m (9.94 ft). Ten jang is about 30 m (99 ft).
-[^3]: Murim is the world or community of martial artists in Korean martial-arts fiction.
-[^4]: A chaebol is a large, family-controlled South Korean business conglomerate; the word can also refer to its wealthy owners.

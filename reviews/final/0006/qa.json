@@ -1,0 +1,102 @@
+{
+  "chapter": 6,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.248,
+    "source_characters": 5597,
+    "source_paragraphs": 197,
+    "translation_characters": 12582,
+    "translation_paragraphs": 185
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 75
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 109
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대사",
+        "preferred": "Master for a senior Buddhist monk"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "수문각",
+        "preferred": "Gate Guard Pavilion"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인내",
+        "preferred": "Endurance"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "무한",
+        "preferred": "Wuhan"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "위압",
+        "preferred": "Intimidation"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "정기",
+        "preferred": "vital essence"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
