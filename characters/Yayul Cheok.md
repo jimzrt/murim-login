@@ -1,6 +1,6 @@
 # Yayul Cheok (야율척)
 
-- **Safe through:** Chapter 723
+- **Safe through:** Chapter 1095
 - **Aliases:** Beast Miao King
 - **Role:** Yayul Cheok is the over-eighty Palace Lord of the Nanman Beast Palace, a Supreme Peak master among the Ten Kings, Great Chieftain of the Miao people, and public priest of the Earth Mother Goddess.
 - **Personality:** Boisterous, warmhearted, forthright, playful, and politically conscious of the tribal coalition he leads.
