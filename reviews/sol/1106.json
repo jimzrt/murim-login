@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Blood Lord’s calm, unguarded confidence.",
+      "defect": "“Unguarded” reverses the explicit statement that he never lets his guard down.",
+      "id": "F01",
+      "rationale": "여유롭지만, 결코 방심하지 않는 contrasts ease with vigilance.",
+      "replacement": "The Blood Lord’s ease—and the fact that he never let his guard down.",
+      "severity": "critical",
+      "source": "여유롭지만, 결코 방심하지 않는 혈주의 태도가."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The monster of blood had absorbed all the blood within a dozen yards, devouring the life and strength it contained. He fixed his gaze on me, eyes bright with delight.",
+      "defect": "A radius of more than ten jang is over a hundred feet, not a dozen yards.",
+      "id": "F02",
+      "rationale": "The shortened distance substantially reduces the reach of his blood absorption.",
+      "replacement": "The monster of blood had absorbed all the blood within a radius of more than a hundred feet, devouring the life and strength it contained. He fixed his gaze on me, eyes bright with delight.",
+      "severity": "major",
+      "source": "반경 십여 장에 존재하는 모든 핏물을 흡수하고, 그 안에 담겨 있던 생명력과 힘을 집어삼킨 피의 괴물이 희열 어린 눈빛으로 나를 응시했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Eyes wide with disbelief, they looked back and forth between the huge holes torn through their bodies and the monster standing dozens of yards away. Then they breathed their last.",
+      "defect": "Several dozen jang is hundreds of feet, not dozens of yards.",
+      "id": "F03",
+      "rationale": "The distance establishes how far the redirected arrows traveled.",
+      "replacement": "Eyes wide with disbelief, they looked back and forth between the huge holes torn through their bodies and the monster standing hundreds of feet away. Then they breathed their last.",
+      "severity": "major",
+      "source": "믿을 수 없다는 듯이 부릅뜬 채, 각자의 몸뚱어리에 새겨진 커다란 구멍과 수십여 장 밖에 우뚝 서 있는 괴물을 번갈아 바라보다가 이승에서의 마지막 숨결을 내뱉었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The fanatics rushing at us, shouting about martyrdom, and the wave of terror their deaths inspired were even overpowering the effect of One Against a Thousand.",
+      "defect": "The fear comes from the charging fanatics, not from their deaths.",
+      "id": "F04",
+      "rationale": "그로 인한 refers to their terrifying charge; the source does not make their deaths the cause.",
+      "replacement": "The sight of fanatics charging in, shouting about martyrdom, and the wave of fear they stirred up were even overpowering the effect of One Against a Thousand.",
+      "severity": "major",
+      "source": "순교를 부르짖으며 달려드는 광신도들의 모습이, 그로 인한 공포의 물결이 일기당천의 효과마저 짓누르고 있었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "And at the center of this blood-soaked storm of madness stood a monster whose aura shot through the world like Mount Taishan.",
+      "defect": "The draft makes the monster stand still while his aura shoots outward; the source has the monster hurtling forward with mountain-like momentum.",
+      "id": "F05",
+      "rationale": "쏘아지는 describes the monster’s movement, while 태산과도 같은 기세 describes its force.",
+      "replacement": "And at the center of this blood-soaked storm of madness, a monster came hurtling forward with the momentum of Mount Taishan.",
+      "severity": "major",
+      "source": "그리고 이 광기에 휩싸인 피바람의 중심에는, 태산(太山)과도 같은 기세로 쏘아지는 괴물이 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Across a dozen yards that vanished in an instant, his Red Blade carved a massive line of blood-red light.",
+      "defect": "More than ten jang is over a hundred feet, not a dozen yards.",
+      "id": "F06",
+      "rationale": "The distance defines the closing movement at the chapter’s final clash.",
+      "replacement": "Across more than a hundred feet of space that vanished in an instant, his Red Blade carved a massive line of blood-red light.",
+      "severity": "major",
+      "source": "단숨에 지워지는 십여 장의 공간 너머, 놈의 적도가 거대한 핏빛 선을 그렸다."
+    }
+  ],
+  "summary": "The draft reverses the Blood Lord’s guarded demeanor and misstates the cause of the defenders’ fear. It also compresses several battlefield distances.",
+  "version": 1
+}
