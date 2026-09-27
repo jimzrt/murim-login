@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The lips of the palace, shut tight for so long, finally parted as the music drifting from beyond the distant city walls began to fade.",
+      "defect": "궁성 refers to the Bow Saint, not a palace.",
+      "id": "F01",
+      "rationale": "The subject of the physical action is the woman speaking beside Taekyung.",
+      "replacement": "The Bow Saint’s lips, long pressed shut, finally parted as the music drifting from beyond the distant city walls began to fade.",
+      "severity": "critical",
+      "source": "굳게 닫혀 있던 궁성의 입술이 열린 것은, 저 멀리 성벽 너머로 들려오던 풍악 소리마저 서서히 잦아들던 때였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Bow Saint’s voice carried memories from a past the palace had held onto for so long.",
+      "defect": "The sentence assigns the memories to a palace rather than to the Bow Saint.",
+      "id": "F02",
+      "rationale": "궁성이 is the subject of 간직하고 있던: she had kept those memories.",
+      "replacement": "The Bow Saint’s soft voice carried memories she’d held onto for a long time.",
+      "severity": "critical",
+      "source": "궁성이 오랫동안 간직하고 있던 과거의 기억이 나직한 음성을 타고 흘러나온다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Before even half a day had passed, every enemy had been killed or captured. It was hard to believe one person had done it all.",
+      "defect": "The Bow Saint’s spoken account becomes unmarked narration.",
+      "id": "F03",
+      "rationale": "The source marks both sentences as her dialogue.",
+      "replacement": "“Before even half a day had passed, every enemy had been killed or captured. It was hard to believe one person had done it all.”",
+      "severity": "major",
+      "source": "“고작 반나절이 지나기도 전에 적들은 모조리 죽거나 사로잡혔다. 단 한 사람이 행한 일이라고는 믿을 수 없었지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hearing about the beginning and end of the being called the Martial God had finally made me certain of the identity of another person who’d existed beneath the same sky as him—yet was different.",
+      "defect": "The draft puts the other person beneath the same sky; the source says a different sky. It also shifts “like him” from the person to the sky.",
+      "id": "F04",
+      "rationale": "그와 같은 describes the other person, while 다른 하늘 아래 describes where that person existed.",
+      "replacement": "Hearing about the beginning and end of the being called the Martial God had finally made me certain of the identity of another person like him—one who had existed beneath a different sky.",
+      "severity": "critical",
+      "source": "그와 같은, 그러나 다른 하늘 아래에 존재했던 또 다른 이의 정체를."
+    }
+  ],
+  "summary": "The draft misidentifies the Bow Saint twice, drops a spoken line’s quotation marks, and reverses the final distinction between two skies.",
+  "version": 1
+}
