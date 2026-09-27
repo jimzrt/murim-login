@@ -1,6 +1,6 @@
 # Blood Lord (혈주)
 
-- **Safe through:** Chapter 1104
+- **Safe through:** Chapter 1105
 - **Aliases:** None
 - **Role:** Young-seeming high-ranking Dark Heaven figure and formidable combatant who commands weapons telekinetically and absorbs blood to restore vitality.
 - **Personality:** Cunning and controlling, he avoids costly risks while manipulating allies; beneath his devotion to the Lord of Heaven, he resents being treated as disposable and resents Taekyung’s apparent favor.
