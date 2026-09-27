@@ -1,9 +1,9 @@
 # Blood Lord (혈주)
 
-- **Safe through:** Chapter 1117
+- **Safe through:** Chapter 1121
 - **Aliases:** None
-- **Role:** Young-seeming high-ranking Dark Heaven figure and formidable combatant who commands weapons telekinetically and absorbs blood to restore vitality.
-- **Personality:** Cunning and controlling, he plans around opponents’ strengths and learns from past mistakes; his confidence in his overwhelming power is genuine rather than bluster, and he remains devoted to the Lord of Heaven despite resenting being treated as disposable and Taekyung’s apparent favor.
+- **Role:** Young-seeming high-ranking Dark Heaven figure and formidable combatant who commands weapons telekinetically and absorbs blood to restore vitality; after killing the Grand Mage, he claims command of the Dark Heaven army.
+- **Personality:** Cunning and controlling, he plans around opponents’ strengths and trusts his overwhelming power; his newly unrestrained madness leads him to defy the Lord of Heaven’s will and seize command for himself.
 - **Voice:** Light, cheerful, and joking even while threatening or killing; turns cold and contemptuous when challenged.
-- **Relationships:** He serves the Lord of Heaven and suspects the Lord wants Jin Taekyung above all else; he recognizes Cheongpung and remembers a debt to Sword Saint Mae Jonghak.
+- **Relationships:** He has served the Lord of Heaven but now openly defies his will; he is fixated on killing Jin Taekyung, killed the Grand Mage, and recognizes Cheongpung from his connection to Sword Saint Mae Jonghak.
 - **Sources:** Korean source and accepted translation, Chapter 262

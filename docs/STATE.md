@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 1120
-- Next chapter: 1121
-- Current block: 1120–1124 (1/5)
-- Latest translation: `translations/1120.md`
-- Latest summary: `summaries/beats/1120.md`
-- Safe profiles through: chapter 1120
+- Last completed: 1121
+- Next chapter: 1122
+- Current block: 1120–1124 (2/5)
+- Latest translation: `translations/1121.md`
+- Latest summary: `summaries/beats/1121.md`
+- Safe profiles through: chapter 1121
 
 ## Current Block
 
-- Hyuk Mujin is struck in the chest and collapses, prompting Taishan, Sama Pyo, Song Ilseom, Ju Hwaran, Gung Gibang, and the surviving defenders to fight on in fury. Cheongheoja finishes Black Ghost, then confronts Pa Ryun, Tae Gunak, and an unidentified black-robed figure he suspects is a powerful Dark Heaven member. The figure releases an overwhelming force that cuts across the battlefield.
-- At the Inner City, Jin Taekyung senses the East Gate has fallen and realizes Pa Ryun and Tae Gunak have arrived with an army of about thirty thousand. Some of the retreating defenders are missing; as enemies surround the Inner City, it crumbles.
+- The Blood Lord destroys the Inner City wall, confirms Jin Taekyung is alive, then kills the Grand Mage for trying to take Taekyung away. He declares himself commander of the Dark Heaven army and orders the fanatics to kill everyone inside the Inner City. Badly wounded, Taekyung pushes away Cheongpung’s support, reaches Jeok Cheongang, and asks him to open a path.
 
 ## Open Questions
 
@@ -18,7 +17,7 @@
 - Who is the black-robed figure, and what was the outcome of the attack at the East Gate?
 - Who has not returned to the Inner City, and what happened to them?
 - What happened to Great Sir and Black Ghost?
-- Who survived the collapse of the Inner City?
+- Will Jin Taekyung and the others survive the Dark Heaven assault?
 
 ## Exceptional Decision
 
