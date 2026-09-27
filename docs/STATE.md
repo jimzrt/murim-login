@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 1078
-- Next chapter: 1079
-- Current block: 1075–1079 (4/5)
-- Latest translation: `translations/1078.md`
-- Latest summary: `summaries/beats/1078.md`
-- Safe profiles through: chapter 1078
+- Last completed: 1079
+- Next chapter: 1080
+- Current block: 1075–1079 (5/5)
+- Latest translation: `translations/1079.md`
+- Latest summary: `summaries/beats/1079.md`
+- Safe profiles through: chapter 1079
 
 ## Current Block
 
-- Aboard the ships crossing Qinghai Lake, Jin Taekyung meets Hak Su, Cheongheoja’s Senior Disciple and Hak Woo’s senior brother. Hak Su expects the Alliance Leader and righteous warriors to join them, but Taekyung doubts the Central Plains can commit its full strength while Dark Heaven can use the Moving Formation. Taekyung reflects that the Lord of Heaven may want him alive, though he still cannot understand the reason. He and Hyuk Mujin haul the bound black-robed captive from the lake; the captive promises to talk, but reveals no information in this chapter.
+- Taekyung and Mujin nearly kill the black-robed captive while trying to interrogate him, but a physician revives him and repairs his tongue. The captive finally tells them where not to stab him; Taekyung stops the rough treatment and tells Mujin to speak with him. Hak Su sees Xining emerge from the fog.
+- The allies enter Xining to a vast public welcome. Taekyung recognizes that people across Qinghai have gathered in the city and, aware of the danger Dark Heaven poses to them, tells Cheongpung they will do everything they can, even at the cost of their lives.
 
 ## Open Questions
 
