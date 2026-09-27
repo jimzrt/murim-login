@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At the center of that tremendous clash, which had swallowed up an area dozens of *jang* across, Jeok Cheongang stood between the Blood-Sword Demon Lord and me, who’d been frozen like a statue.",
+      "defect": "Omits Jeok Cheongang pushing the frozen narrator away before stopping the Blood-Sword Demon Lord.",
+      "id": "F01",
+      "rationale": "밀어 내고 and 막아선 specify both actions and their order.",
+      "replacement": "At the center of that tremendous clash, which had swallowed an area dozens of *jang* across, Jeok Cheongang had shoved me aside when I froze like a statue and stepped in to stop the Blood-Sword Demon Lord.",
+      "severity": "critical",
+      "source": "반경 수십여 장에 달하는 공간을 단숨에 집어삼킨 강대한 격돌의 중심에는, 석상처럼 굳어 있던 나를 밀어 내고 혈검마군을 막아선 적천강이 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Beneath a hundred mountains of sabers and forests of swords, aimed at countless enemies as if held by an invisible hand.",
+      "defect": "Makes the hundred summoned weapons into a hundred mountains and forests.",
+      "id": "F02",
+      "rationale": "일백 개 counts the weapons forming the figurative 도산검림, not one hundred mountains.",
+      "replacement": "Beneath a mountain of sabers and a forest of swords—a hundred blades aimed at countless enemies as if held by an invisible hand.",
+      "severity": "critical",
+      "source": "마치 보이지 않는 손에 붙잡힌 듯, 무수한 적들을 향해 겨누어진 일백 개의 도산검림(刀山劍林) 아래에서."
+    },
+    {
+      "confidence": 0.95,
+      "current": "I realized that time was finally flowing again, and that a streak of light had torn through the gap like a bolt of lightning.",
+      "defect": "Drops the fact that the streak of light was swung—an attack, not merely light moving through a gap.",
+      "id": "F03",
+      "rationale": "휘둘려진 describes a swung strike.",
+      "replacement": "Only then did I realize that time had begun flowing again—and that a streak of light had been swung like lightning through the gap.",
+      "severity": "major",
+      "source": "이제야 다시 흐르기 시작하는 현실의 시간과, 그 틈새를 찢으며 벼락처럼 휘둘려진 한 줄기의 섬광을 깨달으며."
+    },
+    {
+      "confidence": 0.99,
+      "current": "With two words:\n\nMagic.",
+      "defect": "Calls a single English word “two words.”",
+      "id": "F04",
+      "rationale": "두 글자 refers to the two Korean characters of 마법; the English rendering is one word.",
+      "replacement": "With one word:\n\nMagic.",
+      "severity": "minor",
+      "source": "바로, 마법(魔法)이라는 두 글자로."
+    },
+    {
+      "confidence": 0.94,
+      "current": "A chill ran through me as hundreds of pieces of steel slid against one another.",
+      "defect": "Adds a physical reaction and loses the cold, ringing sound of the steel.",
+      "id": "F05",
+      "rationale": "서늘한 describes the sound; the source does not say a chill runs through the narrator.",
+      "replacement": "The cold ring of hundreds of pieces of steel sliding against one another.",
+      "severity": "minor",
+      "source": "수백에 달하는 무수한 강철이 맞물리며 울려 퍼지는 서늘한 소음을."
+    }
+  ],
+  "summary": "The draft omits Jeok Cheongang’s rescue action and turns a hundred summoned weapons into a hundred mountains of weapons.",
+  "version": 1
+}
