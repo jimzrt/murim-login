@@ -1,6 +1,6 @@
 # Son of Heaven (천자)
 
-- **Safe through:** Chapter 1182
+- **Safe through:** Chapter 1185
 - **Aliases:** Emperor, Zhu Di
 - **Role:** The Son of Heaven is the Emperor of Great Ming and Zhu Bao’s elder brother; he has ordered a personal expedition to Xinjiang and will not return to the palace until the traitors are rooted out.
 - **Personality:** Strategic and imperious, the Son of Heaven has learned to value compassion for his people and will risk himself to protect them.
