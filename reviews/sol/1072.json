@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The monsters swept around them with speed that belied their enormous frames. Beyond them, the black-robed man spoke through clenched teeth to the intruder, blocked from view by a wall of monsters.",
+      "defect": "The draft places the wall of monsters in front of the intruder rather than in front of the black-robed man.",
+      "id": "F01",
+      "rationale": "철벽처럼 앞을 가로막은 괴물들 너머로 흑의인은 places the speaker behind the monsters blocking the way.",
+      "replacement": "The monsters swept around them with speed that belied their enormous frames, forming an impenetrable wall in front of the black-robed man. From behind it, he spoke through clenched teeth.",
+      "severity": "critical",
+      "source": "그 거대한 체격과는 어울리지 않는 속도로 삽시간에 주위를 에워싸는 한편, 철벽처럼 앞을 가로막은 괴물들 너머로 흑의인은 씹어뱉듯 말을 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The intruder rambled on, then clapped a hand over his mouth.",
+      "defect": "The draft adds a hand gesture; he abruptly closes his mouth.",
+      "id": "F02",
+      "rationale": "입을 다물었다 describes closing his mouth, with no hand action.",
+      "replacement": "The intruder stopped rambling and snapped his mouth shut with a little gasp.",
+      "severity": "critical",
+      "source": "주절주절 떠들던 불청객이 헙, 하고 입을 다물었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The intruder, surrounded by horrible monsters, had perked up his ears and cupped his hands around his mouth like a trumpet to listen.",
+      "defect": "Cupping his hands around his mouth would project his voice, not help him hear; the action is directed at listening.",
+      "id": "F03",
+      "rationale": "두 손으로 나팔 모양까지 만들어 주위의 소리를 듣고 있던 ties the hand gesture to hearing the sounds around him.",
+      "replacement": "The intruder, surrounded by horrible monsters, had perked up his ears and even cupped his hands around them like a trumpet to listen.",
+      "severity": "critical",
+      "source": "귀를 쫑긋 세운 채, 두 손으로 나팔 모양까지 만들어 주위의 소리를 듣고 있던 불청객을 향해."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had neither the internal energy of several jiazi nor martial arts exceptional enough to be called divine.",
+      "defect": "“Several” invents a quantity absent from the source.",
+      "id": "F04",
+      "rationale": "갑자 단위 means measured in units of jiazi; it does not specify several.",
+      "replacement": "He had neither internal energy measured in jiazi nor martial arts exceptional enough to be called divine.",
+      "severity": "major",
+      "source": "갑자 단위의 공력도, 신공(神功)이라 불릴 정도로 뛰어난 무공도 없지만"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“You… You’re a spy for the orthodox faction.”",
+      "defect": "“Spy” assigns a specific role where the accusation is that he is a lackey or agent.",
+      "id": "F05",
+      "rationale": "끄나풀 marks a subordinate doing another group’s bidding, not necessarily an intelligence operative.",
+      "replacement": "“You… You’re an orthodox faction lackey.”",
+      "severity": "major",
+      "source": "“네놈…… 정파의 끄나풀이로군.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Each of the monsters guarding him had skill comparable to a martial artist of at least First Rate, and some were as strong as Peak masters.",
+      "defect": "The lower bound drops from Supreme First Rate to First Rate.",
+      "id": "F06",
+      "rationale": "초일류 is the established Supreme First Rate realm.",
+      "replacement": "Each monster guarding him had skill comparable to a master ranging from at least Supreme First Rate up to Peak.",
+      "severity": "major",
+      "source": "그를 호위하는 괴물들은 저마다 최소 초일류에서 절정의 고수들과 비견될 정도의 실력을 지녔다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“That’s a relief. Just like Little Grandpa.”",
+      "defect": "The draft loses the intruder’s confidence that Little Grandpa is responsible for the missing replies.",
+      "id": "F07",
+      "rationale": "역시 expresses vindicated confidence in him, following the discovery that no bells answer.",
+      "replacement": "“What a relief. I knew I could count on Little Grandpa.”",
+      "severity": "major",
+      "source": "“다행이에요. 역시 작은할아버지라니까.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "More precisely, he had no awareness left with which to answer.",
+      "defect": "“No awareness” suggests impaired consciousness rather than being too overwhelmed to respond.",
+      "id": "F08",
+      "rationale": "대답할 정신조차 남아 있지 않았다 concerns his mental composure; he remains conscious and asks a question immediately afterward.",
+      "replacement": "More precisely, he no longer had the presence of mind to answer.",
+      "severity": "major",
+      "source": "보다 정확히는, 대답할 정신조차 남아 있지 않았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The body crumpled helplessly as the Sleep Acupoint was struck.",
+      "defect": "The acupoint is pressed, not struck.",
+      "id": "F09",
+      "rationale": "눌림 specifies pressure on the acupoint.",
+      "replacement": "His body crumpled helplessly as the Sleep Acupoint was pressed.",
+      "severity": "minor",
+      "source": "수혈(睡血)이 눌림과 동시에 힘없이 허물어지는 몸뚱어리."
+    }
+  ],
+  "summary": "Action reversals and several meaningful terminology and characterization errors.",
+  "version": 1
+}

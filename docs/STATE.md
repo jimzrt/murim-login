@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1071
-- Next chapter: 1072
-- Current block: 1070–1074 (2/5)
-- Latest translation: `translations/1071.md`
-- Latest summary: `summaries/beats/1071.md`
-- Safe profiles through: chapter 1071
+- Last completed: 1072
+- Next chapter: 1073
+- Current block: 1070–1074 (3/5)
+- Latest translation: `translations/1072.md`
+- Latest summary: `summaries/beats/1072.md`
+- Safe profiles through: chapter 1072
 
 ## Current Block
 
-- Jin Taekyung organizes roughly three thousand allies into a circular formation as at least ten thousand monsters surround them. Sama Pyo and Jeong Hogun take the wings; Hyeoncheon with the Kongtong Disciples and Hyuk Sopyung with the Zhongnan Disciples take the rear; Jeok Cheongang, Bow Saint, and the Fire Dragon Pavilion join Jin at the vanguard. As the battle begins, the chapter cuts to thirty sorcerers carrying out the Blood Lord’s order to reduce the enemy’s numbers and capture Jin alive. One of the monsters guarding a sorcerer does not obey a bell command—and speaks like a person.
+- A sorcerer controlling hundreds of monsters discovers that an intruder has hidden among them for two days and can imitate their sounds. When the sorcerer’s bell signal receives no answer, the intruder reveals that the other sorcerers are likely dead and mentions his Little Grandpa. The Little Grandpa appears silently behind the sorcerer, severs his wrist, and presses his Sleep Acupoint; he then leaves with the intruder.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - Did Jin’s sword strike kill or otherwise affect the watching crow?
 - Are Dark Heaven’s forces broadly composed of reanimated corpses, and has Ma Sanbao spread the Corpse Art to others?
 - What is the Lord of Heaven seeking through Jin, and when will he appear?
-- Who is the person among the monsters, and how did they come to be there?
+- Who are the intruder and his Little Grandpa?
 
 ## Exceptional Decision
 
