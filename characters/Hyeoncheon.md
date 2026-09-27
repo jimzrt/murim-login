@@ -1,6 +1,6 @@
 # Perfected Being Hyeoncheon (현천진인)
 
-- **Safe through:** Chapter 1076
+- **Safe through:** Chapter 1094
 - **Aliases:** None
 - **Role:** Perfected Being Hyeoncheon is the current Sect Leader of the Kongtong Sect, a veteran Daoist master, and a Supreme Peak martial artist.
 - **Personality:** Grave and reflective, he bears the losses of the Great Faction War yet rejects punishing the innocent for their relatives’ crimes.
