@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jealous of Jin Taekyung, who received the attention of someone who seemed to care for him almost affectionately.",
+      "defect": "“Someone” obscures that the attention comes from the Blood Lord’s own master.",
+      "id": "F01",
+      "rationale": "그런 주인 refers directly to the master whose disregard for his servants the Blood Lord resents.",
+      "replacement": "Jealous of Jin Taekyung, who had all but monopolized that same master’s almost affectionate attention.",
+      "severity": "major",
+      "source": "그런 주인에게 애정에 가까운 관심을 한 몸에 받고 있는 진태경을."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I don’t know. I just…”\n\n“What?”\n\n“I simply knew. Naturally.”",
+      "defect": "The pause is moved into the first answer, and “too” is lost.",
+      "id": "F02",
+      "rationale": "나도 means “me too”; the hesitation belongs to his explanation after the Blood Lord asks again.",
+      "replacement": "“I don’t know either.”\n\n“What?”\n\n“I just… knew, as if it were the most natural thing in the world.”",
+      "severity": "minor",
+      "source": "“몰라, 나도.”\n\n“뭐?”\n\n“단지…… 당연하게 알 수 있었다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "His body was shoved backward, unable to withstand the force.\n\nJin Taekyung fell, unable even to keep his body upright.",
+      "defect": "Immediately after the Blood Lord twists the spear, “his body” can be read as the Blood Lord’s rather than Jin Taekyung’s.",
+      "id": "F03",
+      "rationale": "The next sentence identifies Jin Taekyung as the one who falls.",
+      "replacement": "Jin Taekyung was shoved backward, unable to withstand the force.\n\nHe fell, unable even to keep his body upright.",
+      "severity": "minor",
+      "source": "힘을 이기지 못하고 밀려 나가는 몸뚱어리.\n\n신형조차 제대로 가누지 못한 채 쓰러진 진태경을 향해"
+    }
+  ],
+  "summary": "The draft largely preserves the fight, but obscures the Blood Lord’s reason for envying Jin Taekyung and introduces a few localized ambiguities.",
+  "version": 1
+}

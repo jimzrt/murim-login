@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 1124
-- Next chapter: 1125
-- Current block: 1120–1124 (5/5)
-- Latest translation: `translations/1124.md`
-- Latest summary: `summaries/beats/1124.md`
-- Safe profiles through: chapter 1124
+- Last completed: 1125
+- Next chapter: 1126
+- Current block: 1125–1129 (1/5)
+- Latest translation: `translations/1125.md`
+- Latest summary: `summaries/beats/1125.md`
+- Safe profiles through: chapter 1125
 
 ## Current Block
 
-- With five minutes remaining, Jin Taekyung, Jeok Cheongang, and Cheongpung attack the Blood Lord together, but his counterstrike devastates the battlefield and leaves all three battered. Taekyung narrowly evades the Blood Lord’s attacks as if guided by instinct, while Cheongpung is knocked to one knee and Jeok is sent flying. Taekyung then thrusts his spear through the Blood Lord’s palm—the same hand that had already been wounded and had not healed.
+- White Flame pierces the Blood Lord, and Taekyung says he instinctively knew the Blood Lord’s movements and how to counter them. The Blood Lord acknowledges that Taekyung was stronger in that moment, but Taekyung’s power runs out and the spear misses his heart. The Blood Lord tears the spear free, takes White Flame, and turns toward Taekyung; Jeok Cheongang and Cheongpung intervene, but the Blood Lord knocks them aside.
+- Taekyung struggles to stand and attacks with a summoned dagger. The Blood Lord crushes Taekyung’s wrist, and Taekyung kicks the falling dagger into the Blood Lord’s shin. The Blood Lord breaks Taekyung’s legs and grabs his throat. As Taekyung’s vision darkens, it turns white, then red; what happens next is unresolved.
 
 ## Open Questions
 
-- Will Taekyung survive the remaining quest time and defeat the Blood Lord?
-- Why can Taekyung evade the Blood Lord’s attacks with such precision?
-- What effect will Taekyung’s spear thrust have on the Blood Lord?
-- What happened to Hyuk Mujin?
-- Will Taekyung ever fulfill his promise to Ju Hwaran?
+- What happens as Taekyung’s vision turns red?
+- Can Taekyung survive the Blood Lord’s attack?
+- Can Jeok Cheongang or Cheongpung continue fighting?
+- Will the Blood Lord retain White Flame?
 
 ## Exceptional Decision
 
