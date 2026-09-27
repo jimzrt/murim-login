@@ -1,0 +1,81 @@
+{
+  "chapter": 1150,
+  "files": {
+    "characters/Divine Physician.md": "bb84133cedf2d53fb1d9bcc15b2ed0d60e04e69e221373795fa0d4836562f0b2",
+    "characters/Michael.md": "4266acf02b6aaab6e84fc2f452313ccc2ac445a18753f6136fe19f4ab717d320",
+    "docs/ADDRESS.md": "086dd0005e1c1a65a8c9b775bfb0a1e4fc134619a76bb15f40ddb6e22d4198e5",
+    "docs/CONTEXT.json": "db7cb0ef3b5ef8562fb7b883e834daaecc9b5a1acfcccb7352d2504f588e3908",
+    "docs/NAMES.md": "2b8eaa77ee80729eb8250b7ede77d8e7ec834c0781cdde2940ecd1483e65494c",
+    "docs/STATE.md": "f55a362d91604c6aab43501f8982b7bc0d48fd97b4071711d467ad164e34b9c1",
+    "summaries/beats/1150.md": "bef124d26d6930ec0ba7478cf3a6547f0709237c6f59618a0305fe9c0f2c413d"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "블라디미르 푸린",
+        "kinship": "Morgoth addresses Furin as a political ruler and counterpart.",
+        "normal_address": "you",
+        "notes": "Morgoth consistently uses the familiar 자네.",
+        "speaker": "모르고스",
+        "speech_level": "Morgoth uses 하게체, a familiar but formal register."
+      },
+      {
+        "addressee": "모르고스",
+        "kinship": "Furin addresses the being demanding his surrender.",
+        "normal_address": "you; briefly “sir” in the reading copy",
+        "notes": "Furin shifts from 너 to 당신 and briefly uses an honorific form of address.",
+        "speaker": "블라디미르 푸린",
+        "speech_level": "Furin mainly uses 해체, with a brief shift to a deferential address."
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Morgoth says he once stayed in another world, later left for the Demon Realm, and entered another’s service there.",
+        "Morgoth calls the catastrophe and massacre he inflicted punishment for humanity’s refusal to obey his offer; he demands Furin surrender and become a citizen in name, while Furin rejects the terms.",
+        "Furin estimates 50 million casualties over the past ten days; North Africa and West Asia have become a land of death, with resisters rotting or turned undead and survivors enslaved.",
+        "Furin suggests Morgoth fears someone he has not yet found; Morgoth does not confirm or deny this.",
+        "Furin presses a concealed button, and a tremendous rumble rises from deep beneath the Kremlin; its cause is not revealed."
+      ],
+      "plot": [
+        "Morgoth tells Vladimir Furin that he once stayed in another world before leaving for the Demon Realm, and frames his destruction and subjugation of humanity as punishment for rejecting his offer. Furin rejects surrender, challenges Morgoth’s reason for negotiating, and suggests he fears someone he has not found. Furin presses a concealed button, triggering a deep rumble beneath the Kremlin."
+      ],
+      "translation_decisions": [
+        "Render 크렘린 궁 as “the Kremlin.”",
+        "Render 사상자 as “casualties”; the text gives an estimate of 50 million without separating deaths from injuries."
+      ]
+    },
+    "chapter": 1150,
+    "context": {
+      "active_continuity": [
+        "Morgoth says he once stayed in another world, left for the Demon Realm, and entered another’s service there.",
+        "Morgoth describes his devastation and subjugation of humanity as punishment and demands Furin’s surrender.",
+        "Furin estimates 50 million casualties from the past ten days; North Africa and West Asia are devastated, resisters are rotting or undead, and survivors are enslaved.",
+        "Furin presses a concealed button, triggering a deep rumble beneath the Kremlin."
+      ],
+      "continuity_sources": [
+        1150
+      ],
+      "open_questions": [
+        "What caused the rumble beneath the Kremlin when Furin pressed the concealed button?",
+        "Is Morgoth afraid of someone he has not yet found, as Furin suggests?"
+      ],
+      "safe_through": 1150,
+      "temporary_decisions": [
+        "Render 크렘린 궁 as “the Kremlin.”",
+        "Render 사상자 as “casualties,” without specifying deaths versus injuries."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Kremlin",
+        "korean": "크렘린 궁",
+        "notes": "Site of the deep underground rumble triggered by Furin’s concealed button."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [],
+    "version": 1
+  },
+  "version": 1
+}

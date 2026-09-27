@@ -1581,3 +1581,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 스켈레톤 킹 | trusted ally and companion | you | casual | Taekyung teases the Skeleton King after awakening. |
 | 진태경 | 스켈레톤 킹 | reunited friends and allies | you | insulting-casual | Taekyung teases him as weak while fighting, then quietly reciprocates his greeting. |
 | 스켈레톤 킹 | 진태경 | reunited friends and allies | you | insulting-casual | He trades blunt insults with Taekyung, then quietly says he is glad to see him again. |
+| 모르고스 | 블라디미르 푸린 | Morgoth addresses Furin as a political ruler and counterpart. | you | Morgoth uses 하게체, a familiar but formal register. | Morgoth consistently uses the familiar 자네. |
+| 블라디미르 푸린 | 모르고스 | Furin addresses the being demanding his surrender. | you; briefly “sir” in the reading copy | Furin mainly uses 해체, with a brief shift to a deferential address. | Furin shifts from 너 to 당신 and briefly uses an honorific form of address. |

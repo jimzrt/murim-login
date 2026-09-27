@@ -2553,3 +2553,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 리자드맨 | **Lizardman** | Humanoid monster species, distinct from 리자드. |
 | 흑룡공 | **Black Dragon Duke** | Title in Morgoth's System announcement. |
 | 모르고스 | **Morgoth** | The being who answers the summoning. |
+| 크렘린 궁 | **Kremlin** | Site of the deep underground rumble triggered by Furin’s concealed button. |

@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The estimated death toll alone had already reached fifty million.",
+      "defect": "사상자 counts the dead and injured, not deaths alone.",
+      "id": "F01",
+      "rationale": "The draft changes the scale of confirmed deaths.",
+      "replacement": "Estimates already put the number of dead and injured at fifty million.",
+      "severity": "critical",
+      "source": "현재까지의 추정 사상자만 무려 5천만."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“A million people died the day we fought it. A thousand Hunters, led by no fewer than four S-ranks, died as well.”",
+      "defect": "인명 피해 means casualties, not deaths; “we fought it” also places Furin among the combatants without source support.",
+      "id": "F02",
+      "rationale": "The source gives a casualty figure for the battle and does not identify Furin as a participant.",
+      "replacement": "“The day of the battle against it, there were a million casualties. A thousand Hunters led by no fewer than four S-ranks died as well.”",
+      "severity": "critical",
+      "source": "놈과의 전투가 있던 날, 백만에 달하는 인명 피해가 있었지. 무려 네 명의 S급이 지휘하던 천 명의 헌터들도 함께 죽었고."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Then you—you came from the other world you mentioned?”",
+      "defect": "Furin corrects his address from familiar 너 to more respectful 당신; repeating “you” loses the deliberate adjustment.",
+      "id": "F03",
+      "rationale": "The correction marks Furin’s attempt to address Morgoth more respectfully as he sees a chance to negotiate.",
+      "replacement": "“Then you—no, sir. Did you come from the other world you mentioned?”",
+      "severity": "major",
+      "source": "“그렇다면 너, 아니 당신은 지금 말한 그 이계에서 온 건가?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "There had been several major incidents over the past year, beginning with the appearance of the Lich. But compared with what had happened over the last ten days, they were a drop in the bucket.",
+      "defect": "아크 리치 loses its Arch designation.",
+      "id": "F04",
+      "rationale": "The source names the Arch Lich and dates its appearance to approximately a year earlier.",
+      "replacement": "There had been several major incidents since the Arch Lich appeared about a year ago. But compared with what had happened over the last ten days, they were a drop in the bucket.",
+      "severity": "minor",
+      "source": "약 일 년 전, 아크 리치의 출현을 시작으로 여러 대사건이 있었지만, 지난 열흘간 벌어진 일들에 비하면 새 발의 피에 불과했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Furin took a long draw on his cigar, its tip glowing evenly, then added:",
+      "defect": "The draft adds a long draw where the source says Furin evenly lit the tip and put the cigar in his mouth.",
+      "id": "F05",
+      "rationale": "The source describes lighting and positioning the cigar, not inhaling from it.",
+      "replacement": "Furin put the cigar, its tip now evenly lit, between his lips and added:",
+      "severity": "minor",
+      "source": "끝부분을 골고루 태운 푸린이 시가를 물며 덧붙였다."
+    }
+  ],
+  "summary": "Two casualty figures are rendered as deaths, and Furin’s shift to respectful address is lost.",
+  "version": 1
+}
