@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jin Taekyung watched the blue circle, the veil of mystery around the man, finally reach its target.",
+      "defect": "The apposition makes the blue circle the veil rather than the means of lifting it.",
+      "id": "F01",
+      "rationale": "The Korean says the blue circle will remove the veil surrounding the man.",
+      "replacement": "He clearly saw the blue circle that would lift the veil of mystery around the man finally reach its target.",
+      "severity": "major",
+      "source": "그리고 그를 둘러싸고 있는 비밀의 장막을 걷어 줄 푸른 원이, 마침내 목표에 닿는 것을 똑똑히 목격할 수 있었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "the blue circle of [Qi Sense], which had reached Level 9, shot outward.",
+      "defect": "The draft turns a nine-star Skill progression into a Level.",
+      "id": "F02",
+      "rationale": "The source specifies 9성, not Level 9.",
+      "replacement": "the blue circle of [Qi Sense], which had reached nine stars, shot outward.",
+      "severity": "minor",
+      "source": "어느덧 9성에 도달한 [기감]의 푸른 원이 빠르게 뻗어 나갔다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n> Skill [Qi Sense] was half successful!",
+      "defect": "The System panel retains square brackets around the Skill name, contrary to the packet’s panel-format rule.",
+      "id": "F03",
+      "rationale": "The System heading and blockquote already identify the notice; the binding rule excludes square brackets around UI terms in panels.",
+      "replacement": "> **System**\n> Skill Qi Sense was half successful!",
+      "severity": "minor",
+      "source": "- 스킬, [기감]이 반쯤 성공했습니다!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Sooni.”",
+      "defect": "Sooni is a different name; the source says Jeomsuni.",
+      "id": "F04",
+      "rationale": "점순이 includes 점, which the draft drops.",
+      "replacement": "“Jeomsuni.”",
+      "severity": "major",
+      "source": "“점순이.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“His name changes every time I visit. There were times it was Gaettong or Sso-Ttong.”",
+      "defect": "Sso-Ttong misrenders 소똥이, and leaving both names unexplained hides their shared poop-name joke.",
+      "id": "F05",
+      "rationale": "개똥 and 소똥 mean dog poop and cow poop; the paired meanings account for the absurdity of the names.",
+      "replacement": "“His name changes every time I visit. He’s even gone by Gaettong—Dog Poop—and Sottong—Cow Poop.”",
+      "severity": "minor",
+      "source": "“갈 때마다 이름이 바뀝디다. 개똥이, 소똥이였던 적도 있소.”"
+    }
+  ],
+  "summary": "The draft changes how Qi Sense is described at a key moment and substitutes one of Great Sir’s claimed names. It also obscures the joke in two other names.",
+  "version": 1
+}

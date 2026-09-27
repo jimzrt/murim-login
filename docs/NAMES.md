@@ -2496,3 +2496,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 녕하 | **Ningxia** | Place name; origin of the mounted bandits mentioned by Sima Gong. |
 | 혈의인 | **Blood-Clad Men** | Blood-soaked figures initially surrounding Sama Pyo; identified as Kongtong Sect Disciples. |
 | 안서 | **Anxi** | Place passed on the route north from Dunhuang into the grasslands. |
+| 미친놈 | **Madman** | Insult Great Sir adopts as a name; also appears in the System display. |
+| 점순이 | **Jeomsuni** | One of the names Ma Junggeol recalls Great Sir using. |
+| 소똥이 | **Sottong** | One of the names Ma Junggeol recalls; gloss as “Cow Poop.” |
