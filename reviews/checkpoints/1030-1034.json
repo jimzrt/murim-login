@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“Then that makes five, counting the ones who’ve just appeared.”",
+      "defect": "The count contradicts the two Black Ghosts that passed them and the four now approaching.",
+      "id": "C01",
+      "rationale": "The next paragraph explicitly counts two plus four, leaving one of seven unaccounted for.",
+      "replacement": "“Then that makes six, counting the ones who’ve just appeared.”",
+      "severity": "major",
+      "source": "Chapter 1033, Jin Taekyung counting the Black Ghosts"
+    },
+    {
+      "confidence": 1.0,
+      "current": "a kusari-gama—a sickle attached to a chain",
+      "defect": "The weapon differs from the checkpoint’s established rendering.",
+      "id": "C02",
+      "rationale": "The translation decision specifies “chain sickle” for this weapon.",
+      "replacement": "a chain sickle",
+      "severity": "minor",
+      "source": "Chapter 1033, Black Ghost weapons"
+    },
+    {
+      "confidence": 0.99,
+      "current": "perhaps both master and Disciple can survive",
+      "defect": "“Disciple” is capitalized as an ordinary relationship noun.",
+      "id": "C03",
+      "rationale": "The paired noun “master” is lowercase; this is not a formal title.",
+      "replacement": "perhaps both master and disciple can survive",
+      "severity": "minor",
+      "source": "Chapter 1031, Blood-Sword Demon Lord’s offer"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Zhongnan Sect Disciples, who had formed a tight sword formation",
+      "defect": "“Disciples” is capitalized as an ordinary noun.",
+      "id": "C04",
+      "rationale": "The sect name is proper; its disciples are not a named organization or rank here.",
+      "replacement": "The Zhongnan Sect disciples, who had formed a tight sword formation",
+      "severity": "minor",
+      "source": "Chapter 1032, Zhongnan sword formation"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Dozens of Disciples had died in the blink of an eye.",
+      "defect": "“Disciples” repeats the inconsistent capitalization.",
+      "id": "C05",
+      "rationale": "The word refers generically to members of the sect.",
+      "replacement": "Dozens of disciples had died in the blink of an eye.",
+      "severity": "minor",
+      "source": "Chapter 1032, casualties in the Zhongnan formation"
+    }
+  ],
+  "summary": "The main continuity error is a Black Ghost count of five where the surrounding account establishes six. The remaining actionable issues are a terminology mismatch and inconsistent capitalization of “disciple.”",
+  "version": 1
+}

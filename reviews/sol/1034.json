@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "She was the leader of all the white-robed figures, and had served the Lord of Heaven even more closely than the Blood-Sword Demon Lord himself.\n\nSo even a born killer like him couldn’t easily lay a hand on her over a mere slight.",
+      "defect": "Reveals the figure is a woman before the source’s deliberate correction from “he” to “she.”",
+      "id": "F01",
+      "rationale": "The source withholds the figure’s gender until she speaks.",
+      "replacement": "The figure led the white-robed group and had served the Lord of Heaven even more closely than the Blood-Sword Demon Lord himself.\n\nSo even a born killer like him couldn’t easily strike over a mere slight.",
+      "severity": "major",
+      "source": "모든 백의인들의 우두머리 격인 동시에, 심지어 혈검마군 자신보다도 가까이에서 천주를 모셨던 자.\n\n그러니 살귀(殺鬼)의 기질을 타고난 혈검마군으로서도 단순한 수틀림을 명분 삼아 쉽사리 손을 쓸 수 없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But neither the white-robed woman he’d singled out nor anyone around her answered.",
+      "defect": "Again identifies the figure as a woman before the reveal.",
+      "id": "F02",
+      "rationale": "The source still refers to the target as a white-robed figure here.",
+      "replacement": "But neither the white-robed figure he’d singled out nor anyone nearby answered.",
+      "severity": "major",
+      "source": "하지만 표적이 된 백의인은 물론, 그를 둘러싼 누구도 혈검마군의 말에 대꾸하지 않았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "They’d been tipping fast even before the battle began. They were tipping even faster now.",
+      "defect": "Adds that the advantage is growing faster now than before.",
+      "id": "F03",
+      "rationale": "The source says the scales tip rapidly at both times, without comparing the rates.",
+      "replacement": "They had been tipping rapidly before the battle began, and they were still tipping rapidly now.",
+      "severity": "minor",
+      "source": "전투를 시작하기 전에도, 지금 이 순간에도 빠르게 기울고 있다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Why was she hurling a boulder into his heart, cracking the faith he’d so firmly believed was absolute trust?",
+      "defect": "Obscures whose trust is in doubt: he believed his master trusted him completely.",
+      "id": "F04",
+      "rationale": "The source describes his belief that he was receiving wholehearted trust.",
+      "replacement": "Why was she hurling a boulder into his heart, cracking his conviction that he had his master’s complete trust?",
+      "severity": "major",
+      "source": "그저 전폭적인 신뢰를 받고 있다 굳게 믿었던 자신의 마음에, 어찌 이리 커다란 바위를 던져 균열을 일으키는 것일까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Before the roar even reached him, a wave of power suddenly washed over the Blood-Sword Demon Lord. He turned his head a moment ahead of it, took in the scene, and murmured calmly.",
+      "defect": "Says he turns before the wave reaches him, although sensing that wave prompts him to turn before the roar.",
+      "id": "F05",
+      "rationale": "The source makes the felt wave the cue for his early turn.",
+      "replacement": "Before the roar even reached him, the Blood-Sword Demon Lord sensed a sudden wave of power and turned his head. He took in the scene and murmured calmly.",
+      "severity": "critical",
+      "source": "그리고 굉음이 울려 퍼지기도 전, 불현듯 느껴지는 힘의 파동에 한발 앞서 고개를 돌린 혈검마군은 모든 것을 확인하고 담담하게 뇌까렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Eternal death had finally come for them, too.",
+      "defect": "Makes the Black Ghosts’ permanent deaths complete before the subsequent spear strike.",
+      "id": "F06",
+      "rationale": "찾아오고 있다 describes death approaching, not having already arrived.",
+      "replacement": "Eternal death was finally coming for them, too.",
+      "severity": "critical",
+      "source": "그들에게도 마침내 영원한 죽음이 찾아오고 있다는 사실을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Not the four Black Ghosts. Not the followers who had kept charging at the two masters without pause.",
+      "defect": "Calls Jeok Cheongang and Jin Taekyung two masters, losing their master-disciple relationship.",
+      "id": "F07",
+      "rationale": "두 사승 identifies the pair by their master-disciple relationship.",
+      "replacement": "Not the four Black Ghosts. Not the followers who had kept charging at the master and his disciple without pause.",
+      "severity": "major",
+      "source": "끊임없이 두 사승을 향해 덤벼들던 교도들도."
+    }
+  ],
+  "summary": "The draft reveals the white-robed figure’s gender before the source does and alters several battlefield details.",
+  "version": 1
+}
