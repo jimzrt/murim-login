@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "At the same time, the Southern Heaven Demon Empress’s eyes widened as she felt the wind sweeping toward her from behind.",
+      "defect": "The wind sweeping toward her from behind is already stated in the preceding sentence. This repeats that beat; the source states it once while also noting that her eyes widened.",
+      "id": "F01",
+      "rationale": "The source says she feels the wind from behind and widens her eyes, without repeating the sensation.",
+      "replacement": "At the same instant, the Southern Heaven Demon Empress’s eyes widened.",
+      "severity": "minor",
+      "source": "Lines 41–42"
+    },
+    {
+      "confidence": 0.99,
+      "current": "As I froze in place, the guardian spirit whispered with all its strength.",
+      "defect": "The English omits the narrator’s chill at the sight of the Demon Empress’s overwhelming power.",
+      "id": "F02",
+      "rationale": "The source explicitly says a chill overtakes him before he freezes and hears the guardian spirit.",
+      "replacement": "A chill swept over me at the sight of that overwhelming power. As I froze in place, the guardian spirit whispered with all its strength.",
+      "severity": "minor",
+      "source": "Line 339"
+    }
+  ],
+  "summary": "Two minor fidelity defects: a repeated beat about wind from behind and an omitted chill at the sight of the Demon Empress.",
+  "version": 1
+}

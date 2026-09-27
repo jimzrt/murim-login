@@ -28,15 +28,13 @@ A figure was flung helplessly away by the blast.
 
 One sleeve of his blood- and dust-stained white robe hung empty. Blood gushed from the wound in his chest, an injury beyond recovery.
 
-But his cold, steady gaze remained fixed on the Southern Heaven Demon Empress until the very end.
+Yet his cold gaze remained fixed on her.
 
 His eyes, filled with rage and regret beyond measure, seemed to tell her he had waited a very long time for this moment.
 
 “Baeksang…!”
 
 His name burst from her lips like a scream. At the same instant, she felt wind rushing at her from behind.
-
-At the same time, the Southern Heaven Demon Empress’s eyes widened as she felt the wind sweeping toward her from behind.
 
 Shwaaaaaak!
 
@@ -104,13 +102,13 @@ No—they trembled with a fear that seemed to bind their very souls.
 
 “A-Aah…!”
 
-The groans rising from every direction all turned toward one place: the Nanman Beast Palace they had left behind.
+Groans rose from every direction. Every gaze turned toward the Nanman Beast Palace they had left behind.
 
 Boom. Rumble.
 
 It was collapsing.
 
-The pavilions and homes their ancestors had spent long years building with blood and sweat—the place where they had been born and raised—were on the verge of collapsing before their eyes.
+Before their eyes, the pavilions and homes their ancestors had spent generations building with blood and sweat—the place where they had lived all their lives—were about to fall.
 
 What more was there to say?
 
@@ -130,7 +128,7 @@ The people who witnessed it were overcome with relief and joy. But the person wh
 
 Drip. Drip.
 
-Dark-red blood spilled down from the corner of her mouth.
+Dark-red blood spilled from her mouth.
 
 Everything within a radius of fifty jang had been shattered and hurled away. Standing in the empty space left behind, the Southern Heaven Demon Empress looked around with blood-red eyes.
 
@@ -140,7 +138,7 @@ She had not cared if it killed her. There was no returning alive now, and even i
 
 And yet she had survived.
 
-She should have been blown apart and killed in the explosion, after swallowing everything in its path. Instead, she had survived. The humiliation burned.
+She should have swallowed everything in the explosion and been blown apart with it. Instead, she had survived. The humiliation burned.
 
 “Baeksang! You bastard. How dare you!”
 
@@ -190,7 +188,7 @@ The last strength bought by burning her life.
 
 Step.
 
-At that moment, a sharp sound of splitting air rang out.
+She took a heavy step forward. A sharp whistle split the air.
 
 Shk! Crack!
 
@@ -272,13 +270,13 @@ A massive body trembled now and then in a deep pool of blood.
 
 The silver fur I’d once thought almost mystical was soaked through. Pale blue eyes blinked at me with visible effort.
 
-—You’ve slept a long time.
+—You slept a long time.
 
-“……What is this?”
+“…What happened?”
 
 —I have no regrets. Neither does he.
 
-At the moment that distant flash had filled my vision, there had been green Force and a silver mane blocking my eyes.
+A memory came back to me: green Force and a silver mane rising before my eyes as that blinding flash filled my vision.
 
 *No way.*
 
@@ -312,11 +310,11 @@ Kraaaaaack!
 
 “Gaaaaaaaah!”
 
-The Southern Heaven Demon Empress entered my field of vision, her veins standing out across her entire body as she burned through the last of her life and tore apart more than a hundred members of the Baekcheon Unit.
+The ground shook, and another scream followed. The Southern Heaven Demon Empress came into view, veins standing out across her body as she burned through the last of her life and tore into the more than a hundred members of the Baekcheon Unit.
 
 “…!”
 
-As I froze in place, the guardian spirit whispered with all its strength.
+A chill swept through me at the sight of that power. As I froze, the guardian spirit whispered fiercely.
 
 —Go. Now!
 
@@ -326,9 +324,7 @@ But…
 
 *I’d regret it for the rest of my life.*
 
-I muttered dazedly and grabbed the sacred stone.
-
-Then I rose and ran.
+I closed my hand around the sacred stone, got to my feet, and ran.
 
 Not toward the Outer Palace.
 
