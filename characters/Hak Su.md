@@ -1,6 +1,6 @@
 # Hak Su (학수)
 
-- **Safe through:** Chapter 1078
+- **Safe through:** Chapter 1079
 - **Aliases:** None
 - **Role:** Hak Su is Cheongheoja’s Senior Disciple and a senior brother to Hak Woo in the Kunlun Sect.
 - **Personality:** Gracious and hopeful, he responds to Taekyung’s mistakes with patience and warmth.

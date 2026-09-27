@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "A gentle ripple stirred in the wide, blue river beyond the thick veil of fog.",
+      "defect": "Calls the water a river immediately before the scene identifies it as Qinghai Lake.",
+      "id": "C01",
+      "rationale": "The next chapter identifies the blue water as Qinghai Lake.",
+      "replacement": "A gentle ripple stirred on the wide, blue lake beyond the thick veil of fog.",
+      "severity": "minor",
+      "source": "Chapter 1075, closing paragraph"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The river there was blue, and as wide as the sea.",
+      "defect": "Calls Qinghai Lake a river in the passage that names it.",
+      "id": "C02",
+      "rationale": "The following sentences identify the body of water as a lake.",
+      "replacement": "The water there was blue, and as wide as the sea.",
+      "severity": "minor",
+      "source": "Chapter 1076, opening"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I was silently watching the river waters of Qinghai Lake, which had a thin layer of ice in places from the bitter cold, when someone’s voice drifted to my ears.",
+      "defect": "Describes the lake’s waters as river waters.",
+      "id": "C03",
+      "rationale": "The party is crossing Qinghai Lake by ship.",
+      "replacement": "I was silently watching the waters of Qinghai Lake, which had a thin layer of ice in places from the bitter cold, when someone’s voice drifted to my ears.",
+      "severity": "minor",
+      "source": "Chapter 1078, ship crossing"
+    },
+    {
+      "confidence": 0.92,
+      "current": "A clear chime rang out above the rushing river.",
+      "defect": "Calls the water beneath the crossing ship a river.",
+      "id": "C04",
+      "rationale": "The ship is still crossing Qinghai Lake; the replacement retains the sense of moving water without changing the location.",
+      "replacement": "A clear chime rang out above the water rushing past the ship.",
+      "severity": "minor",
+      "source": "Chapter 1079, chime before arrival"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Yes?”\n\n“Yes?”",
+      "defect": "Duplicates Cheongpung’s reply with no intervening action or speaker change.",
+      "id": "C05",
+      "rationale": "One reply completes the exchange; the second reads as an accidental duplicate.",
+      "replacement": "“Yes?”",
+      "severity": "minor",
+      "source": "Chapter 1079, Taekyung addressing Cheongpung"
+    }
+  ],
+  "summary": "The reading copies carry Qinghai Lake through the crossing but call it a river in four places. Chapter 1079 also repeats a reply.",
+  "version": 1
+}

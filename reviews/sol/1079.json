@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Huh? Wasn’t it two vertebrae above?”\n\n“How confusing. Shouldn’t you go ask him again, Captain?”",
+      "defect": "Taekyung’s reply is omitted. It identifies the proposed spot as a lethal acupoint, making their apparent uncertainty more threatening.",
+      "id": "F01",
+      "rationale": "여기는 사혈인데 explicitly objects that the spot is a lethal acupoint.",
+      "replacement": "“Huh? Wasn’t it two vertebrae above?”\n\n“No way. That’s a lethal acupoint.”\n\n“I’m confused. Shouldn’t you go ask him again, Captain?”",
+      "severity": "major",
+      "source": "“그럴 리가. 여기는 사혈(死血)인데?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Th-three things.”",
+      "defect": "The captive is supplying the number of vertebrae, not introducing three things.",
+      "id": "F02",
+      "rationale": "세 마디 answers their dispute over how many vertebrae below the cervical vertebrae to stab.",
+      "replacement": "“Th-three vertebrae.”",
+      "severity": "major",
+      "source": "“세, 세 마디.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“If they’re glazed over, we’ll just have to sharpen them up again.”",
+      "defect": "“Sharpen” loses the loose-versus-tight wordplay that sets up the slap.",
+      "id": "F03",
+      "rationale": "풀렸으면 and 조여야지 contrast something coming loose with tightening it again.",
+      "replacement": "“If they’ve gone slack, we’ll just have to tighten them up again.”",
+      "severity": "minor",
+      "source": "“풀렸으면 다시 조여야지.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Not quite. Maybe a prodigy.”",
+      "defect": "“Prodigy” does not clearly step down from “genius,” weakening Taekyung’s deliberately modest distinction.",
+      "id": "F04",
+      "rationale": "수재 is presented here as a lesser claim than 천재.",
+      "replacement": "“Not a genius. Just exceptionally gifted.”",
+      "severity": "minor",
+      "source": "“천재까지는 아니고. 수재 정도.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "One look at his voice and those eyes, filled with nothing but terror, told me he had been reborn as a far more honest man.",
+      "defect": "A voice cannot be looked at; the source describes both his gaze and voice as full of fear.",
+      "id": "F05",
+      "rationale": "눈빛과 음성 are separate perceived signs of his fear.",
+      "replacement": "The terror in his eyes and voice told me he had been reborn as a far more honest man.",
+      "severity": "minor",
+      "source": "오직 공포로 가득 차 있는 그 눈빛과 음성을 본 순간"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even if I explained it, Young Master Cheongpung wouldn’t change.",
+      "defect": "The draft renders 소협 as “Young Master” rather than the specified martial address “Young Hero.”",
+      "id": "F06",
+      "rationale": "The packet’s exact glossary maps 소협 to Young Hero; 청 is the surname used with that address.",
+      "replacement": "Even if I explained it, Young Hero Cheong wouldn’t change.",
+      "severity": "minor",
+      "source": "알아봤자 청 소협은 달라지지 않을 거야."
+    }
+  ],
+  "summary": "The draft preserves the main events, but omits a lethal-acupoint warning and mistranslates a count in the interrogation scene.",
+  "version": 1
+}
