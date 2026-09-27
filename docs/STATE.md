@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 1159
-- Next chapter: 1160
-- Current block: 1155–1159 (5/5)
-- Latest translation: `translations/1159.md`
-- Latest summary: `summaries/beats/1159.md`
-- Safe profiles through: chapter 1159
+- Last completed: 1160
+- Next chapter: 1161
+- Current block: 1160–1164 (1/5)
+- Latest translation: `translations/1160.md`
+- Latest summary: `summaries/beats/1160.md`
+- Safe profiles through: chapter 1160
 
 ## Current Block
 
-- The Skeleton King enters Morgoth’s palace disguised as Jin Taekyung and refuses Morgoth’s offer to become his Guardian. Morgoth recognizes that the Skeleton King absorbed power and some abilities from the Arch Lich, Leviathan, and Behemoth, and realizes he has encountered a Doppelganger. The Skeleton King attacks with the Hero’s Sword, but Morgoth is unharmed and then launches a field of magical blades at him.
+- Morgoth is moved by the Skeleton King's willingness to sacrifice himself and changes his aim from killing him to claiming him. After Morgoth wounds and disarms him, the Skeleton King channels his power through the Hero's Sword and directs his final strike at his own neck; a vast eruption engulfs the Dragon Lair, and monsters across the area feel its shock.
 
 ## Open Questions
 
 - Were Cheon Taemin, the Martial God, and The Helper the same person?
 - Was Asmodeus completely erased?
-- Who escaped through Area 52 in Jin’s likeness?
-- What will happen when Morgoth’s three-day deadline expires?
-- Can the Skeleton King survive Morgoth’s magical attack, and how can he wield the Hero’s Sword?
+- Who escaped through Area 52 in Jin's likeness?
+- What will happen when Morgoth's three-day deadline expires?
+- Did the Skeleton King and Morgoth survive the eruption, and what happened to the Dragon Lair?
 
 ## Exceptional Decision
 
