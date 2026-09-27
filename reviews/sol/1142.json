@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Of course, I’d been waiting for more than two shichen, ever since Jin Taekyung had quietly slipped away. But anyway, I had no idea.",
+      "defect": "The first-person pronouns switch the viewpoint to Taekyung and make him the person waiting for himself.",
+      "id": "F01",
+      "rationale": "Jeok Cheongang is the one denying that he knows where his Disciple went; the narration is wryly exposing his lie.",
+      "replacement": "Of course, Jeok Cheongang had been waiting for more than two shichen, ever since Jin Taekyung had quietly slipped away. But anyway, he had no idea.",
+      "severity": "critical",
+      "source": "물론 처음 진태경이 슬그머니 사라질 때부터 지금까지 두 시진을 넘게 기다리고 있었지만, 아무튼 그랬다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He’d come looking because the two of them were so alike, but somehow, the old and young members of the Fire Gate Clan both gave him a headache.",
+      "defect": "The reason for his search changes from both Master and Disciple being missing to their being alike.",
+      "id": "F02",
+      "rationale": "쌍으로 보이지 않아 says the pair could not be seen; their resemblance is not why he came looking.",
+      "replacement": "He’d gone out of his way to look for them because neither Master nor Disciple was anywhere to be seen, but somehow, both the old and young members of the Fire Gate Clan gave him a headache.",
+      "severity": "critical",
+      "source": "사제(師弟)가 쌍으로 보이지 않아 굳이 찾아왔거늘, 어째 열화문의 이름을 단 것들은 늙은 놈이나 젊은 놈이나 머리를 아프게 만든다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Roughly twice as much time had passed between the Great Cataclysm in the modern world and the Great Faction War that had swept across Murim.",
+      "defect": "The sentence treats the two events as endpoints of one elapsed interval, leaving the twofold comparison unintelligible.",
+      "id": "F03",
+      "rationale": "시간 차는 대략 두 배 compares the timing across the two worlds; the following sentence contrasts that difference with the System’s much larger time ratio.",
+      "replacement": "The timelines of the Great Cataclysm in the modern world and the Great Faction War in Murim differed by a factor of about two.",
+      "severity": "major",
+      "source": "현대에서 일어난 대격변과 무림을 휩쓸었던 정마대전의 시간 차는 대략 두 배."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Monk, and you too, Peng. I know you’d rather have more, but be satisfied with this for now.",
+      "defect": "“You’d rather have more” invents a preference for more wine; the regret concerns the limited memorial offering.",
+      "id": "F04",
+      "rationale": "아쉽겠지만 qualifies the inadequacy of what Jeok can offer them now, before promising a proper memorial.",
+      "replacement": "“Monk, and you too, Peng. It may not be much, but make do with this for now.",
+      "severity": "minor",
+      "source": "땡중아, 그리고 팽가 놈아. 아쉽겠지만 지금은 이것으로 만족해라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "My eyes flew wide. In the hazy moonlight, a pocket watch gleamed against his chest.",
+      "defect": "The draft omits the watch’s reflection in Taekyung’s widened eyes and adds its position against Jeok’s chest.",
+      "id": "F05",
+      "rationale": "The Korean locates the image of the watch in Taekyung’s eyes, not against Jeok’s chest.",
+      "replacement": "My eyes flew wide, reflecting a pocket watch glinting in the hazy moonlight.",
+      "severity": "minor",
+      "source": "일순간 부릅떠진 눈동자에, 흐릿한 달빛을 받아 번쩍이는 회중시계가 비치고 있었다."
+    }
+  ],
+  "summary": "Two scene facts are changed, and the time-ratio explanation is misstated. Two smaller details also need correction.",
+  "version": 1
+}
