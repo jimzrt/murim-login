@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“There’s no need to answer. You already know.”",
+      "defect": "Changes the speaker’s claim from “I already know” to “you already know.”",
+      "id": "F01",
+      "rationale": "Taekyung has just realized the old man will not answer his question; he has not learned the old man’s identity.",
+      "replacement": "“You don’t have to answer. I already know.”",
+      "severity": "critical",
+      "source": "“대답은 굳이 하지 않아도 되겠군. 이미 잘 알고 있으니.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "So why don’t you believe what you did with your own hands?",
+      "defect": "Adds the hands as the means of an action the source attributes only to Taekyung himself.",
+      "id": "F02",
+      "rationale": "스스로 행하고도 means he did it himself; it does not specify a physical mechanism.",
+      "replacement": "So why can’t you believe what you yourself did?",
+      "severity": "major",
+      "source": "한데 너는 어찌하여 스스로 행하고도 믿지 못하느냐?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Suddenly, I had the sense that I’d heard something like this before.\n\nThat there was a similar moment I’d experienced sometime in the past.",
+      "defect": "Turns the recollection of having heard similar words into a recollection of experiencing a similar event.",
+      "id": "F03",
+      "rationale": "비슷한 내용을 ... 들어 본 적 refers to hearing similar content, not living through a similar moment.",
+      "replacement": "Suddenly, I felt as though I’d heard something like this said before, somewhere.",
+      "severity": "major",
+      "source": "지금의 이 상황을, 비슷한 내용을 언젠가 들어 본 적이 있던 것 같다는 생각이."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“It was tangible. For that moment, at least.”",
+      "defect": "“Tangible” implies it could be touched rather than that the formless qi took visible form.",
+      "id": "F04",
+      "rationale": "유형 directly contrasts with the old man’s 무형; their exchange concerns how Taekyung saw it.",
+      "replacement": "“It had a form. For that moment, at least.”",
+      "severity": "minor",
+      "source": "“유형(有形)이었습니다. 그 순간만큼은.”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Or, more precisely, at the place where his long-awaited guest had stayed.",
+      "defect": "“Long-awaited” asserts anticipation rather than a long interval since the guest’s visit.",
+      "id": "F05",
+      "rationale": "오랜만에 찾아온 describes the visit as occurring after a long time, without saying the old man expected it.",
+      "replacement": "Or, more precisely, at the place where the guest who had visited after so long had stayed.",
+      "severity": "minor",
+      "source": "아니, 정확히는 오랜만에 찾아온 손님이 머물렀던 그 자리를."
+    },
+    {
+      "confidence": 0.9,
+      "current": "Letting the name linger on the tip of his tongue, the old man wondered:",
+      "defect": "“Linger” leaves the name unspoken, while 흘려 보내며 describes letting it out.",
+      "id": "F06",
+      "rationale": "The name has just appeared in the old man’s spoken dialogue.",
+      "replacement": "Letting the name slip from his lips, the old man wondered:",
+      "severity": "minor",
+      "source": "혀끝에 맴도는 이름을 흘려 보내며, 노인은 생각했다."
+    }
+  ],
+  "summary": "The draft changes who knows the answer, adds a physical action, and mistakes a remembered instruction for a remembered event.",
+  "version": 1
+}
