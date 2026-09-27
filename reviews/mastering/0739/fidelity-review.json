@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "Michael Silbert did not miss the opportunity to seize the attention of the entire world.",
+      "defect": "The source says Silbert did not miss the moment when the world’s attention was focused on the event. This wording instead says he seized the world’s attention.",
+      "id": "F01",
+      "rationale": "The Korean describes the timing of Silbert’s opportunity, not an act of attracting the world’s attention.",
+      "replacement": "Michael Silbert did not miss the moment when the attention of the entire world was fixed on the event.",
+      "severity": "minor",
+      "source": "Korean lines 13–14"
+    },
+    {
+      "confidence": 0.99,
+      "current": "In the grainy footage, the figure called themself the Prophet and pointed to the two heads placed in front of them before continuing.",
+      "defect": "The English omits the dim lighting and the figure’s robe pulled deeply over their head.",
+      "id": "F02",
+      "rationale": "Both physical details appear in the source and were preserved in the accepted baseline.",
+      "replacement": "Beneath dim lighting stood an unidentified figure with a robe pulled deeply over their head. In the grainy footage, the figure called themself the Prophet and pointed to the two heads placed in front of them before continuing.",
+      "severity": "minor",
+      "source": "Korean line 127"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Today’s horrific tragedy was only the beginning.",
+      "defect": "The source includes the audience’s stunned reaction to the Prophet’s threat of judgment before saying today’s tragedy was only the beginning.",
+      "id": "F03",
+      "rationale": "“심판이라니” is an explicit reaction to the announced judgment, not merely a repetition of the following thought.",
+      "replacement": "Judgment, they said. Today’s horrific tragedy was only the beginning.",
+      "severity": "minor",
+      "source": "Korean lines 147–149"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A lone figure standing in a desert filled with blood and corpses suddenly raised their head.",
+      "defect": "The English omits that it was a dark night and even the moonlight was dim.",
+      "id": "F04",
+      "rationale": "The source’s setting detail was present in the accepted baseline and is absent from the assembled copy.",
+      "replacement": "On a dark night, with even the moonlight dim, a lone figure standing in a desert filled with blood and corpses suddenly raised their head.",
+      "severity": "minor",
+      "source": "Korean line 169"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The front page was filled with nothing but openly condemnatory articles and sensational headlines, while fierce battles between netizens raged beneath them.",
+      "defect": "The English omits the Skeleton King’s observation that even a brief look showed the online news pages were a complete mess.",
+      "id": "F05",
+      "rationale": "This observation appears in the source and the accepted baseline, but not in the assembled English.",
+      "replacement": "Even from the brief glance he had taken, the state of the online news pages was a complete mess. The front page was filled with nothing but openly condemnatory articles and sensational headlines, while fierce battles between netizens raged beneath them.",
+      "severity": "minor",
+      "source": "Korean line 203"
+    },
+    {
+      "confidence": 0.99,
+      "current": "At least for now, there was no way to reveal the truth.",
+      "defect": "The English omits the Skeleton King’s realization that his thought was pointless.",
+      "id": "F06",
+      "rationale": "The source explicitly states that he knew the thought was futile; the accepted baseline preserves that beat.",
+      "replacement": "But the Skeleton King knew it was all a pointless thought. At least for now, there was no way to reveal the truth.",
+      "severity": "minor",
+      "source": "Korean lines 267–269"
+    }
+  ],
+  "summary": "The chapter is mostly faithful, but it drops several source details and slightly changes the focus of Michael Silbert’s action.",
+  "version": 1
+}

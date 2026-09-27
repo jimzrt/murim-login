@@ -4,7 +4,7 @@ Ten Monster Waves in a single day were enough to plunge the world into shock and
 
 Worse, they had struck capitals and major cities whose names were known around the world. Several major Guilds, led by Odin Guild, had swiftly suppressed the Monster Waves, but the damage was immense. The confirmed death toll alone had reached several thousand.
 
-People kept their senses on high alert in their homes or emergency shelters, and Michael Silbert did not miss the opportunity to seize the attention of the entire world.
+People waited in their homes and emergency shelters, alert to every sound. Michael Silbert did not let the moment pass while the whole world was watching.
 
 “This is footage Odin Guild obtained during the first Monster Wave in Paris.”
 
@@ -28,7 +28,7 @@ When the CCTV footage was released, it sent another shock through the world.
 
 News reports poured in from every direction.
 
-Once it became clear that the Monster Waves had not been unstoppable natural disasters but tragedies caused by terrorism, people were consumed by anger and emptiness, and the internet reached saturation point.
+Once people learned that the Monster Waves had not been unavoidable natural disasters but tragedies caused by terrorism, anger and helplessness swept over them. The internet was overwhelmed.
 
 > I’ve got no words. These people are seriously insane.
 
@@ -66,31 +66,31 @@ Once it became clear that the Monster Waves had not been unstoppable natural dis
 
 >> Welcome, wasabi.
 
->> Does Lord Fuck have ten bodies, you Japanese bastard? Watch some TV. Taekyung ran himself ragged today. He was a step late, but seeing him try to save even one person somehow really moved me.
+>> Does Lord Fuck have ten bodies, you Japanese bastard? Turn on the TV. Taekyung ran himself ragged today. He was too late, but watching him try to save even one person got me right in the heart.
 
->> So criticizing Korea automatically makes someone Japanese now, lol? Unfortunately, I’m Korean.
+>> So anyone who criticizes Korea must be Japanese? Too bad, I’m Korean.
 
 >> If you want to keep pretending you’re Korean, take the W key off your keyboard.
 
-There was no point paying attention to trolls. The most important thing now was finding out who the terrorists belonged to and why they had committed such acts.
+> Giving a troll attention is a waste of time. What matters now is finding out who these terrorists belong to and why they did this.
 
-> The terrorists are all from the Arab world, so it’s obvious. It has to be either Al Qaeda or IS.
+>> They’re all Arabs. It’s obvious. Al Qaeda or IS.
 
 >> If it’s so obvious, why haven’t the countries that were hit issued a joint statement or an official announcement? They need to verify it first. Al Qaeda and IS have both taken serious losses lately.
 
->> I agree with the comment above. A few weeks ago, their main bases were completely wrecked and their leader was killed and replaced.
+>> Agreed. Their main bases got wrecked a few weeks ago, and their leaders were killed and replaced.
 
 Everyone knew about the bloodbath that had swept through the Middle East and Africa.
 
 A mysterious group of vigilantes had appeared. No one knew their faces, their names, or even their genders. They had beheaded the leaders of the terrorist and rebel groups. With their leadership gone in an instant, the two factions had torn themselves apart in fierce internal struggles, suffered enormous losses, and finally raised the white flag.
 
-> Doesn’t that make it even more obvious? They may have been weakened, but if they lost their leader, they could easily have carried out terrorist attacks around the world in the name of revenge.
+> Doesn’t that make it more obvious? They’ve been weakened, sure, but they lost their leaders. Revenge is plenty of reason to attack the whole world.
 
->> There are probably a lot of elementary school kids here who don’t know this, but when the United States got seriously pissed off during the 9/11 attacks, Hussein got scared and denied that it was them. A little while ago, they practically surrendered and begged people to stop, saying they wouldn’t commit any more terrorist attacks. But this terrorist attack involved ten countries, including the United States. Do you really think that makes sense?
+>> Must be a lot of kids here who don’t remember 9/11. When the United States got pissed off, even Hussein got scared and denied his people were behind it. And these groups practically surrendered a little while ago, begging everyone to stop and saying they wouldn’t carry out any more attacks. Now ten countries have been hit, including the United States. You think that makes sense?
 
->> No matter how crazy they are, that’s impossible. Besides, I heard the current leaders of the Middle Eastern terrorist groups belong to the moderate faction.
+>> Not even if they’re crazy. Besides, I heard the new leaders of the Middle Eastern terrorist groups are moderates.
 
->> What the hell is going on?
+>> Then what the hell is going on?
 
 Korean netizens were hardly the only ones asking. News sites and online communities around the world lit up with arguments.
 
@@ -98,7 +98,7 @@ Before long, the answer was broadcast worldwide in a video.
 
 —I declare in the name of the Prophet.
 
-In the grainy footage, the figure called themself the Prophet and pointed to the two heads placed in front of them before continuing.
+Under dim lighting stood an unidentified figure with a robe drawn low over their face. In the grainy footage, the figure called themself the Prophet, pointed to the two heads placed before them, and continued.
 
 —I will wipe from this sacred land the apostates who abandoned their convictions for their own safety. I will bring rightful vengeance and justice to the world.
 
@@ -106,7 +106,7 @@ It was not hard to recognize whose heads they were. They had led the world’s m
 
 IS. And Al Qaeda.
 
-Before the horribly beheaded former leaders, the Prophet slowly parted their lips.
+Standing before the severed heads of their former leaders, the Prophet spoke again.
 
 —As long as God is with us, we will not stop. Beginning today, we will judge and punish you.
 
@@ -114,23 +114,23 @@ Before the horribly beheaded former leaders, the Prophet slowly parted their lip
 
 “…!”
 
-The people watching the video caught their breath without realizing it.
+The people watching held their breath.
 
-Today’s horrific tragedy was only the beginning.
+*Judge them? Today’s horror was only the beginning?*
 
 Yet even those staring at the screen in disbelief understood it instinctively. The unidentified figure calling themself the Prophet was not making an empty threat. They could set off a bomb anywhere in the world right now and bring about another disaster.
 
 Then the Prophet’s final words reached the stunned audience.
 
-—Inshallah. Know that all of this began with you.
+—Inshallah. Know that you brought all of this upon yourselves.
 
 *Crackle.*
 
 The short video ended in a burst of harsh static.
 
-No—just when everyone thought it had ended, another screen began transmitting.
+Or so everyone thought. Another image began to play.
 
-A lone figure standing in a desert filled with blood and corpses suddenly raised their head. The face glimpsed through the mask resembled someone everyone knew.
+It was a dark night, with even the moonlight faint. A lone figure stood amid blood and corpses in the desert, then suddenly raised their head. The face glimpsed beneath the mask resembled someone everyone knew.
 
 * * *
 
@@ -146,7 +146,7 @@ He held a silver tray in one hand, his eyes fixed on the smartphone in the other
 
 > **Video Analysis Finds a 99.99% Match: Young Hero’s Other Identity**
 
-> **Joguk Ilbo Chief Editorial Writer Lee Kanghee: “A Tragedy Born of Pointless Heroism”**
+> **Joguk Ilbo Chief Editorial Writer Lee Kanghee: “A Tragedy Born of Misguided Heroism”**
 
 > **Public Opinion Divided: A Criminal Drunk on Heroism, or a Vigilante in the Shadows?**
 
@@ -154,17 +154,17 @@ He held a silver tray in one hand, his eyes fixed on the smartphone in the other
 
 The Skeleton King muttered the curse before he knew it.
 
-The front page was filled with nothing but openly condemnatory articles and sensational headlines, while fierce battles between netizens raged beneath them.
+Even a brief look told him the online news pages were a mess. The front page was full of sensational headlines and articles openly condemning Jin Taekyung. Beneath them, netizens were fighting it out.
 
-> Lol, look at the level of these garbage reporters’ headlines.
+> Lol, look at these garbage reporters’ headlines.
 
 >> Seriously. They’re desperate for clicks. Nothing in the articles, either—just bits and pieces stitched together.
 
->> But if you only look at the headline, it isn’t entirely wrong, is it?
+>> But going by the headlines, they’re not entirely wrong, are they?
 
 >> Honestly, I like Lord Fuck too, but I think he acted too hastily this time.
 
-> This deserves criticism. There’s nothing he can say for himself.
+> He deserves the criticism. What can he even say in his defense?
 
 >> What do you mean? A few weeks ago, when he wrecked Al Qaeda and the others, you were all cheering. You didn’t know who did it, but you said it felt great to see those bastards wiped out.
 
@@ -172,7 +172,7 @@ The front page was filled with nothing but openly condemnatory articles and sens
 
 >> It was fine then but not now? You’re fucking nuts, lol.
 
->> The situation has changed. Seriously, how many people are dead now? Nationalist hype and personal fandom are all well and good, but look at how serious the situation has become because of what Jin Taekyung did.
+>> Things have changed. How many people have died now? National pride and being a fan are all well and good, but look at what Jin Taekyung’s actions have led to.
 
 > I knew that bastard Jin Taekyung would cause trouble. I couldn’t stand watching him get full of himself when everyone started calling him a young hero and the next Cheon Taemin.
 
@@ -182,7 +182,7 @@ The front page was filled with nothing but openly condemnatory articles and sens
 
 >> Then why did he do it?
 
->> Look at the timing. It was right before the Mana Cultivation Method was released. Seriously, do you think there are only one or two Awakened among the Middle Eastern terrorists and African rebel groups? Who was supposed to deal with them if they learned the Mana Cultivation Method and started committing every kind of crime, including terrorism?
+>> Look at the timing. It was right before the Mana Cultivation Method was released. There are plenty of Awakened among the Middle Eastern terrorists and African rebels. If they learned it and started using it for terrorism and every other kind of crime, who would deal with them?
 
 >> That still doesn’t justify murder.
 
@@ -196,13 +196,13 @@ The front page was filled with nothing but openly condemnatory articles and sens
 
 > What I don’t get is Cheon Taemin. Even now, he hasn’t shown his face once. Jin Taekyung’s been missing for days too.
 
->> He caused trouble and is pretending it has nothing to do with him. Seriously disgusting, lol. Just look at Odin Guild. King-God Michael is the past and the future.
+>> Caused a disaster and now he’s acting like it’s none of his business. Disgusting, lol. Look at Odin Guild instead. King-God Michael is the past and the future.
 
 Reading the comments, the Skeleton King found himself wondering:
 
 *What faces would those humans make if they knew the truth?*
 
-At least for now, there was no way to reveal the truth. On the contrary, they might be completely sunk by the backlash.
+But he knew the thought was pointless. At least for now, they could reveal none of it. The backlash might sink them completely.
 
 Human society, as he had come to know it, was far more complicated—and far more frustrating—than he had expected.
 
@@ -210,7 +210,7 @@ Human society, as he had come to know it, was far more complicated—and far mor
 
 The Skeleton King shook his head and stopped before a massive door.
 
-When he discovered that the silver tray he had brought yesterday was still sitting there, he let out a deep sigh and carefully pulled on the doorknob.
+The silver tray he had left there yesterday was still untouched. He sighed deeply, then carefully pulled the doorknob.
 
 *Click.*
 
