@@ -104,6 +104,21 @@ python tools/run_lock.py
 
 Use `python tools/run_until_mastering.py N` to process the mastering queue sequentially through a target chapter with the configured bounded retries.
 
+### Final touches
+
+Final touches are a third FIFO, after a chapter has been mastered and that commit has landed:
+
+```bash
+python tools/run_next_final.py
+python tools/run_until_final.py 1024
+```
+
+`run_next_final.py` takes the oldest mastered chapter that is not yet finished. The packet is the Korean source, the mastered English, and `FINAL.md`. The edit may add footnotes, repair System / thought / speech / chat formatting, restore omitted source sentences, and remove unsupported duplicates. Wording otherwise stays put. Deterministic QA must pass before the copy replaces `translations/NNNN.md`. The commit is `Final Chapter N`.
+
+Won amounts use the fixed rates in `docs/final.json` (1 dollar = 1,400 won, 1 euro = 1,550 won). Traditional units and metric amounts get a footnote with both metric and imperial. Cultural references, jokes, and those conversions are footnoted on every occurrence in the chapter.
+
+The final-touches runner holds `.work/final.lock`. It may run beside translation and mastering. `run_until_final.py N` walks from the oldest unfinished mastered chapter through chapter N, one chapter at a time, and stops at the first chapter mastering has not promoted yet.
+
 ## What the pipeline guarantees
 
 Model output is never accepted directly. The pipeline uses:

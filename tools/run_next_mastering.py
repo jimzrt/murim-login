@@ -141,6 +141,11 @@ def foreign_overlap_paths(dirty: list[str], chapter: int) -> set[str]:
             continue
         if any(master_owns_path(path, number) for number in active):
             foreign.add(path)
+    try:
+        from tools.final_touches import foreign_final_paths
+    except ModuleNotFoundError:
+        from final_touches import foreign_final_paths
+    foreign.update(foreign_final_paths(dirty))
     return foreign
 
 

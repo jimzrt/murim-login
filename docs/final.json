@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "models": {
+    "final": "openai-codex/gpt-6-sol:medium"
+  },
+  "omp_config": ".omp/review-overlay.yml",
+  "timeouts": {
+    "final": 1800
+  },
+  "packet_token_limit": 90000,
+  "model_retries": 1,
+  "min_baseline_preserved": 0.8,
+  "run_until_final_retries": 2,
+  "run_until_final_retry_delay_seconds": 30,
+  "currency": {
+    "krw_per_usd": 1400,
+    "krw_per_eur": 1550
+  }
+}

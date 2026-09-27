@@ -20,11 +20,21 @@ python tools/run_next_mastering.py
 
 It picks the oldest accepted chapter that is not yet promoted, runs the
 two-model overlay, promotes the verified copy, creates `Master Chapter N`, and
-registers that commit. The two runners may overlap: translation holds
-`.work/run.lock`, mastering holds `.work/master.lock`, and Git commits wait on
-`.work/commit.lock`. Inspect locks with `python tools/run_lock.py`. An audit
-takes both work locks. The wrappers require a clean Git worktree for their own
-path set; dirt owned by the other runner is ignored.
+registers that commit. Translation holds `.work/run.lock`, mastering holds
+`.work/master.lock`, and Git commits wait on `.work/commit.lock`. Final
+touches are a third queue, after a chapter is mastered:
+
+```bash
+python tools/run_next_final.py
+```
+
+It picks the oldest mastered chapter that has not yet had final touches, builds
+a specialized packet, checks footnotes, format, duplicates, and omissions, and
+commits `Final Chapter N` only after deterministic QA passes. It holds
+`.work/final.lock` and may overlap with translation and mastering. Inspect
+locks with `python tools/run_lock.py`. An audit takes all three work locks.
+The wrappers require a clean Git worktree for their own path set; dirt owned
+by the other runners is ignored.
 
 ## Controller Loop
 
