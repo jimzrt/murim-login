@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Dust cloud. About three hundred yards out.”",
+      "defect": "Three hundred jang is roughly a thousand yards, not three hundred.",
+      "id": "F01",
+      "rationale": "One jang is approximately ten feet; the draft places the approaching force about three times too close.",
+      "replacement": "“Dust cloud. About a thousand yards out.”",
+      "severity": "critical",
+      "source": "삼백여 장 밖. 먼지구름."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Amid the constant, faint tremors came the occasional, heavier impact.\n\nNo.\n\n*A roar.*\n\nThe moment I realized, a chill ran down my spine.\n\nThat sound—that roar—wasn’t something an ordinary human could make.",
+      "defect": "The immense sound mixed with the ground tremors becomes a vocal roar before the creature appears.",
+      "id": "F02",
+      "rationale": "굉음 describes a tremendous noise here; the source does not identify it as the monster’s voice.",
+      "replacement": "Amid the constant, faint tremors came the occasional, heavier impact.\n\nNo.\n\n*A thunderous boom.*\n\nThe moment I realized, a chill ran down my spine.\n\nThat sound—that tremendous boom—wasn’t something an ordinary human could make.",
+      "severity": "major",
+      "source": "쿵. 쿠궁.\n\n쉼 없이 이어지는 잔 떨림 사이에 드문드문 스며 있는 울림.\n\n아니.\n\n‘굉음.’\n\n그 사실을 깨달은 순간, 서늘한 한기가 등골을 타고 흘러내렸다.\n\n이건, 저 굉음은 한낱 인간이 낼 수 있는 종류의 것이 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The wind that poured out with its roar was so slow that calling it a roar hardly seemed right. That only made the sound more chilling. And the gust carried something worse than the horrible stench.",
+      "defect": "The draft makes the wind slow; the source describes the monster’s cry as unnaturally slow.",
+      "id": "F03",
+      "rationale": "포효라고 부르기에는 너무나도 느린 modifies 괴성, while the wind pours out alongside it.",
+      "replacement": "Its cry was too slow to call a roar, and all the more chilling for it. The wind that poured out with that sound carried more than a horrible stench.",
+      "severity": "major",
+      "source": "그리고 포효라고 부르기에는 너무나도 느린, 그래서 더욱 소름 끼치게 느껴지는 괴성과 함께 쏟아진 바람에는 끔찍한 악취 이상의 것이 담겨 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But even as the monster’s fist, packed with tremendous force, bore down on him, Jin Taekyung’s gaze didn’t waver. He rushed toward the monster, stepping on invisible stairs in midair.\n\nNot his advancing footfalls. Not his body hurtling forward.\n\nNor the silver-white spearhead wreathed in navy-blue flame.",
+      "defect": "The fragments lose the shared predicate: his steps, body, and spearhead do not waver either.",
+      "id": "F04",
+      "rationale": "The source extends 조금도 흔들리지 않았다 across all three following images.",
+      "replacement": "But even as the monster’s fist, packed with tremendous force, bore down on him, Jin Taekyung’s gaze didn’t waver. He rushed toward the monster, stepping on invisible stairs in midair.\n\nNeither did his advancing steps, his body hurtling forward with them, or the silver-white spearhead wreathed in navy-blue flame.",
+      "severity": "major",
+      "source": "그러나 엄청난 거력(巨力)이 실린 주먹이 다가오고 있음에도, 보이지 않은 허공의 계단을 밟으며 괴물을 향해 쇄도하는 진태경의 눈빛은 조금도 흔들리지 않았다.\n\n나아가는 발걸음도, 그에 따라 쏘아지는 신형도.\n\n그리고.\n\n군청색의 화염이 깃든, 은백색의 창날도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Amid the tremendous roar raised by the enemies, now only a few dozen feet away, came faint vibrations that had gone unnoticed.",
+      "defect": "The approaching enemies are tens of jang away, not a few dozen feet away.",
+      "id": "F05",
+      "rationale": "수십여 장 denotes tens of ten-foot units; the draft brings the enemies substantially closer.",
+      "replacement": "Amid the tremendous noise raised by the enemies, now a few hundred feet away, came faint vibrations nearly lost beneath it.",
+      "severity": "critical",
+      "source": "수십여 장 앞까지 다가온 적들이 일으키는 거대한 굉음의 틈바구니에 숨어 전해지는 미세한 울림들."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“You all saw that, right? Those bastards are jack shit.”",
+      "defect": "“Are jack shit” is unnatural English for this blunt reassurance.",
+      "id": "F06",
+      "rationale": "The source uses strong profanity to dismiss the monsters in front of the frightened force.",
+      "replacement": "“You all saw that, right? These fuckers ain’t shit.”",
+      "severity": "minor",
+      "source": "“다들 봤지? 이 새끼들 좆도 아닌 거.”"
+    }
+  ],
+  "summary": "Several distance and action details need correction; the monster’s first approach is also mistaken for a vocal roar.",
+  "version": 1
+}
