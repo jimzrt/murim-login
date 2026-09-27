@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 1105
-- Next chapter: 1106
-- Current block: 1105–1109 (1/5)
-- Latest translation: `translations/1105.md`
-- Latest summary: `summaries/beats/1105.md`
-- Safe profiles through: chapter 1105
+- Last completed: 1106
+- Next chapter: 1107
+- Current block: 1105–1109 (2/5)
+- Latest translation: `translations/1106.md`
+- Latest summary: `summaries/beats/1106.md`
+- Safe profiles through: chapter 1106
 
 ## Current Block
 
-- A blood-red blast erupts at the West Gate, and its shock wave reaches the North Gate. Jeok Cheongang realizes the Blood Lord’s power has exceeded his expectations and fears for Taekyung, who chose to face the enemy at the West Gate. Before Jeok can go to him, the Dalai Lama arrives at the North Gate with Potala Palace forces and declares that the Fire Gate Clan will end there that day.
-- Jeok is torn between rushing to Taekyung and defending the North Gate. Remembering Taekyung’s resolve not to turn away from fear, he faces the Dalai Lama, the Twelve Secret Monks, two Black Ghosts, and the advancing army, proclaiming himself the Fire King and eighteenth Sect Leader of the Fire Gate Clan.
+- At the West Gate, the Blood Lord absorbs the blood and life force around him, then uses telekinetically redirected arrows to kill roughly two hundred defenders in an instant. Dark Heaven’s followers advance while praising the Lord of Heaven and welcoming martyrdom. Taekyung, battered but determined to stop the Blood Lord, prepares his greatest attack; both charge, and the chapter ends as the Blood Lord’s blade draws a vast red arc.
 
 ## Open Questions
 
