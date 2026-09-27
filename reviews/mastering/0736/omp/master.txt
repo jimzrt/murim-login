@@ -174,7 +174,7 @@ With a faint smile, he stepped toward the remaining monsters, trampling the fall
 
 **Odin Guild Declares Support for Ares**
 
-**Odin Guild Master Michael Silbert: “We Offer Our Heartfelt Applause for Ares Guild’s Actions in the Public Interest and Will Walk Forward Alongside Them”**
+**Odin Guild Master Michael Silbert: “We Applaud Ares’s Actions in the Public Interest and Will Walk Alongside Them”**
 
 **Odin Guild Makes Surprise Release of New Mana Cultivation Method!**
 
@@ -200,7 +200,7 @@ A few seconds later, another breaking report came over the holographic TV. It wa
 
 Reports poured from the TVs around the restaurant.
 
-But among the countless words spilling from the lips of people with different skin colors and speaking different languages, only three terms pierced my ears.
+The reporters had different skin colors and spoke different languages, but only three things they said reached me.
 
 Monster Wave.
 
@@ -286,7 +286,7 @@ But no one stopped. Not even Team Leader Choi, who was probably bearing the wors
 
 He clenched his teeth and pulled out another scroll.
 
-Ignoring the foreign airport Hunters thrown into confusion by our unauthorized spatial movement, he tore one scroll, then another before the aftereffects of the first had even faded.
+Ignoring the Hunters at a foreign airport who stared in alarm at our unauthorized arrival, he tore one, then another before the aftereffects had worn off.
 
 Scroll after scroll ripped apart.
 
@@ -344,11 +344,11 @@ That was the reality before me.
 
 Ares Guild’s Paris branch no longer existed. Neither did the people who had begun their day peacefully nearby.
 
-The skyscraper that had once reached the clouds had become a ruin blanketed in death, and the people who had been laughing and talking here only a few dozen minutes ago had crossed a river from which they could never return.
+The skyscraper that had once reached toward the clouds was a ruin blanketed in death. People who had been laughing and talking here only a few dozen minutes ago would never come back.
 
 Like the unidentified body buried beneath the wreckage in front of me.
 
-*What was I thinking?*
+What was I thinking?
 
 I stared down at it, then reached out and grabbed an arm. Only when I pulled did I realize the arm belonged to another body.
 
@@ -374,7 +374,7 @@ My stomach burned as though I’d swallowed a ball of fire.
 
 I clenched my teeth until they felt ready to break. Swallowing the blood from my split lips, I struggled to calm the three jiazi of Scorching Yang Qi raging in my dantian.
 
-I could not get any more agitated. I had to remain calm and composed—more than ever.
+I couldn’t let myself get any angrier. I had to stay calm. Think clearly.
 
 Otherwise, I wouldn’t be able to face the owner of the immense energy approaching behind me in my right mind.
 

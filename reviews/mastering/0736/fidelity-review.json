@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "people who had been fighting with fistfuls of each other’s collars",
+      "defect": "The source identifies the people fighting in the 10th arrondissement as lower-class residents. The assembled English omits that established social detail, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "하층민 means lower-class people; the source specifies who the fighters are, not merely where they are.",
+      "replacement": "lower-class residents who had been fighting with fistfuls of each other’s collars",
+      "severity": "minor",
+      "source": "Lines 13–14"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Fear, which only powerful monsters could emit,",
+      "defect": "“Powerful” makes the restriction sound based on strength, while 상위 몬스터 identifies an upper-tier class of monster.",
+      "id": "F02",
+      "rationale": "The source limits the ability to 상위 몬스터; the accepted baseline’s “High-Rank monsters” preserves the rank distinction.",
+      "replacement": "Fear, which only high-ranking monsters could emit,",
+      "severity": "minor",
+      "source": "Line 77"
+    }
+  ],
+  "summary": "Two minor fidelity losses: the English drops the crowd’s lower-class status and blurs the rank-based restriction on who can emit Fear.",
+  "version": 1
+}

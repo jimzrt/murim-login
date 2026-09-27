@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor fidelity losses: the English drops the crowd’s lower-class status and blurs the rank-based restriction on who can emit Fear.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 13–14",
+      "current": "people who had been fighting with fistfuls of each other’s collars",
+      "defect": "The source identifies the people fighting in the 10th arrondissement as lower-class residents. The assembled English omits that established social detail, which the accepted baseline preserved.",
+      "replacement": "lower-class residents who had been fighting with fistfuls of each other’s collars",
+      "rationale": "하층민 means lower-class people; the source specifies who the fighters are, not merely where they are.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 77",
+      "current": "Fear, which only powerful monsters could emit,",
+      "defect": "“Powerful” makes the restriction sound based on strength, while 상위 몬스터 identifies an upper-tier class of monster.",
+      "replacement": "Fear, which only high-ranking monsters could emit,",
+      "rationale": "The source limits the ability to 상위 몬스터; the accepted baseline’s “High-Rank monsters” preserves the rank distinction.",
+      "confidence": 0.91
+    }
+  ]
+}
