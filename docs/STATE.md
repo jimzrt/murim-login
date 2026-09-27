@@ -1,24 +1,24 @@
 # Translation State
 
-- Last completed: 1097
-- Next chapter: 1098
-- Current block: 1095–1099 (3/5)
-- Latest translation: `translations/1097.md`
-- Latest summary: `summaries/beats/1097.md`
-- Safe profiles through: chapter 1097
+- Last completed: 1098
+- Next chapter: 1099
+- Current block: 1095–1099 (4/5)
+- Latest translation: `translations/1098.md`
+- Latest summary: `summaries/beats/1098.md`
+- Safe profiles through: chapter 1098
 
 ## Current Block
 
-- The Blood Lord cowes the Dalai Lama into accepting the Potala Palace’s subordinate position in its alliance with Dark Heaven, promising that the Fire Gate Clan will be destroyed in Xining. He dismisses the possibility that Jeok Cheongang and Jin Taekyung would flee while their allies and civilians remain at risk, then privately resolves to kill Taekyung even if that means disobeying the Lord of Heaven. He waits for a signal from a long-hidden Dark Heaven agent inside the enemy’s ranks before attacking.
-- As a storm gathers over Xining, Bow Saint says the defenders may have missed their chance to strike before the Potala Palace joined the siege. The Slaughter Saint estimates only a one-in-ten chance of eliminating the enemy leadership at night, rising to one in five if the heavens help; Taekyung rejects the attack because Dark Heaven’s magic makes the odds worse than they appear. Jeok Cheongang privately demands to know what the Blood Lord said at the last moment, which Taekyung has not disclosed.
+- Taekyung admits that the Blood Lord offered to spare everyone else if Taekyung left Xining alone within a day, severed the sinews and meridians in all four limbs, and surrendered. Jeok Cheongang warns that the Blood Lord cannot be trusted. Taekyung believes the Lord of Heaven wants him more than anything, perhaps even more than the world, and senses a final wave approaching Xining.
+- A fleet bearing the Yangtze River Channel League’s flags travels to meet new allies. Mu Song confronts his Master, Pa Ryun, over orders to kill captured imperial troops, arguing that it was a massacre and revealing that the Eldest Senior Brother and Elders may serve someone else. Pa Ryun knocks Mu Song unconscious; tens of thousands of figures gather near the river as the fleet prepares to welcome them.
 
 ## Open Questions
 
-- Will the expected reinforcements reach Xining in time to decide the battle?
-- Why does the Lord of Heaven appear to want Taekyung above all else?
+- Will the approaching force reach Xining in time to decide the battle?
+- Why does the Lord of Heaven want Taekyung, and what does he intend to do with him?
 - Who is the hidden Dark Heaven agent inside the defenders’ ranks, and when will they signal?
-- What did the Blood Lord say at the last moment, and will Taekyung tell Jeok Cheongang?
-- Will the Blood Lord’s plan to kill Taekyung bring him into conflict with the Lord of Heaven?
+- Who are the new allies gathering near the river?
+- Whom do the Eldest Senior Brother and Elders serve, and what was Mu Song about to reveal?
 
 ## Exceptional Decision
 

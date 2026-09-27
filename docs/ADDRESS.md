@@ -1553,3 +1553,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 혈주 | 만총 | hostile attacker to opposing branch master | you | taunting informal | The Blood Lord uses 당신 while baiting Man Chong. |
 | 혈주 | 달뢰라마 | allied leader to allied leader | Palace Lord | familiar, then threatening and insulting | Calls him 궁주, then warns him not to speak down to him. |
 | 달뢰라마 | 혈주 | allied leader to allied leader | donor; you | formal, then angry and informal | Initially uses the Buddhist honorific 시주 before challenging the Blood Lord. |
+| 무송 | 파륜 | disciple_to_master | Master | respectful, but frank and challenging | Mu Song addresses Pa Ryun as 스승님 while pleading with him to reconsider. |
+| 파륜 | 무송 | master_to_disciple | you | gruff and commanding | Pa Ryun addresses Mu Song as 네 녀석 while assigning him punishment. |
