@@ -46,7 +46,7 @@ Mungyeong cut me off with an innocent smile.
 
 Nothing was sweeter than authorized slacking in the middle of a boring guard shift.
 
-The river bandits smiled and left, delighted to lounge in the cool shade. As for the Sound Transmission[^1] I was preparing to send as a last resort, a single sentence from Mungyeong stopped me cold.
+The river bandits smiled and left, delighted to lounge in the cool shade. As for the Sound Transmission I was preparing to send as a last resort, a single sentence from Mungyeong stopped me cold.
 
 “You seem to have three or four lives.”
 
@@ -92,7 +92,7 @@ Mungyeong seemed momentarily at a loss for words. After a long silence, he final
 
 “I’ve seen all kinds, but never anyone as strange as you.”
 
-“From everyone else’s perspective, I’d say we’re both equally strange. Send a messenger-pigeon survey to everyone in Murim[^2] and ask which one of us is the bigger freak.”
+“From everyone else’s perspective, I’d say we’re both equally strange. Send a messenger-pigeon survey to everyone in Murim and ask which one of us is the bigger freak.”
 
 “Freak?”
 
@@ -102,7 +102,7 @@ The aura Mungyeong let loose made every hair on my body stand on end.
 
 He silently watched me swallow hard, then tossed out a single phrase.
 
-“Middle Dantian.”[^3]
+“Middle Dantian.”
 
 “Huh?”
 
@@ -240,15 +240,17 @@ When I raised my head, I saw Mungyeong murmuring under his breath and nodding sl
 
 After muttering something unintelligible, he suddenly spoke.
 
-“It was Lü Yan.”[^4]
+“It was Lü Yan.”[^1]
 
 “I know about stomach cancer and lung cancer, but… are you sick somewhere?”
+
+[^1]: The Korean reading of Lü Yan’s name, *Yeo-am*, ends in *am*, the Korean word for “cancer”—hence Taekyung’s misunderstanding.
 
 “…You don’t know Lü Yan?”
 
 Mungyeong looked at me as though I were insane, then continued.
 
-“Lü Yan. His courtesy name was Dongbin, and his Taoist name was Chunyangzi. He attained his own Dao[^5] and reached the realm of an immortal. People called him the Sword Immortal.”
+“Lü Yan. His courtesy name was Dongbin, and his Taoist name was Chunyangzi. He attained his own Dao and reached the realm of an immortal. People called him the Sword Immortal.”
 
 “Wait. You mean Lü Dongbin?”
 
@@ -350,17 +352,12 @@ It had started as an act, but somehow it had become real. Bewilderment flashed a
 
 “You’re leaving?”
 
-“I don’t care anymore. Do whatever you want. Kill me, spare me, use Impure World Reincarnation[^6] on me—whatever.”
+“I don’t care anymore. Do whatever you want. Kill me, spare me, use Impure World Reincarnation[^2] on me—whatever.”
+
+[^2]: Impure World Reincarnation is a resurrection technique from *Naruto*.
 
 Just as I was about to take a step, someone appeared while scattering a powerful aura.
 
 “What the hell is this dogshit?”
 
 The gazes of the Fire King and the Slaughter Saint collided in midair.
-
-[^1]: Sound Transmission is a martial-arts technique for sending words privately to a chosen listener.
-[^2]: Murim is the martial world of fighters and sects.
-[^3]: The Middle Dantian is an energy center in traditional East Asian martial-arts theory, associated with the chest.
-[^4]: The Korean reading of Lü Yan’s name, *Yeo-am*, ends in *am*, the Korean word for “cancer”—hence Taekyung’s misunderstanding.
-[^5]: *Dao* means “Way”; in Taoist thought, it can refer to a path of spiritual cultivation.
-[^6]: Impure World Reincarnation is a resurrection technique from *Naruto*.
