@@ -2524,3 +2524,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 청화 | **Blue Flower** | Name on the flag of the Blue Flower Escort Bureau. |
 | 해룡선 | **Sea Dragon Ship** | Pa Ryun’s powerful vessel. |
 | 황하수로맹 | **Yellow River Channel League** | The Yangtze River Channel League’s former rival. |
+| 통산 | **Tongsan** | Place crossed by the Green Forest forces. |
