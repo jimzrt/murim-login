@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "he could clearly make out their great, flapping ears.",
+      "defect": "The conspicuous moving feature is the elephants’ trunks, not their ears.",
+      "id": "F01",
+      "rationale": "커다란 코 refers to large trunks, and 휘날리며 describes their motion.",
+      "replacement": "he could clearly make out their great trunks swinging as they ran.",
+      "severity": "critical",
+      "source": "확연하게 눈에 띄는 커다란 코를 휘날리며"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He grieved Baeksang’s death more than anyone.",
+      "defect": "Omits that Baeksang was Yayul Cheok’s sworn brother.",
+      "id": "F02",
+      "rationale": "의형제였던 explicitly identifies their relationship and gives his grief its context.",
+      "replacement": "He grieved the death of his sworn brother Baeksang more than anyone.",
+      "severity": "major",
+      "source": "의형제였던 백상의 죽음에 누구보다 슬퍼했으며"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Its enemies, now as heavy as boulders weighing ten thousand pounds, rolled down the snow-covered slope, on the verge of crashing into the villages below.",
+      "defect": "Makes the boulders Dark Heaven’s enemies rather than Dark Heaven, the enemy threatening the world.",
+      "id": "F03",
+      "rationale": "적들 names the threatening enemy in Namho’s perspective; it does not mean the enemies of the preceding sentence’s Dark Heaven.",
+      "replacement": "The enemy had become a boulder weighing ten thousand pounds, rolling down the snow-covered slope and on the verge of crushing the villages below.",
+      "severity": "critical",
+      "source": "만근거석(萬斤巨石)이나 다름없게 된 적들은 눈 덮인 산비탈을 구르고 굴러 그 아래의 마을을 덮치기 일보 직전이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "the ones who might appear like ghosts from somewhere within their ranks.",
+      "defect": "“Within their ranks” suggests infiltrators among Sichuan’s defenders; the concern is enemies appearing somewhere inside the territory.",
+      "id": "F04",
+      "rationale": "내부 refers to the interior being defended, consistent with the preceding concern about the Moving Formation.",
+      "replacement": "the ones who might appear like ghosts somewhere within Sichuan.",
+      "severity": "major",
+      "source": "내부 어딘가에서 유령처럼 나타날 적들"
+    },
+    {
+      "confidence": 0.99,
+      "current": "And the land people called Tibet, thousands of miles from the Central Plains and classified as part of the Outer Lands, was closer to the latter, as far as I understood it.\n\nTibet.\n\nThe name I alone knew from the world of Murim was Tibet.",
+      "defect": "Collapses the local name and Taekyung’s modern-world name into “Tibet,” then reverses which world supplies the name only he knows.",
+      "id": "F05",
+      "rationale": "서장 is the name used locally; 티베트 is the other name Taekyung recognizes from his modern-world knowledge.",
+      "replacement": "And the land people here called Xizang, thousands of miles from the Central Plains and classified as part of the Outer Lands, was closer to the latter, as far as I understood it.\n\nXizang.\n\nIn Murim, I alone knew its other name: Tibet.",
+      "severity": "major",
+      "source": "세인들이 서장(西藏)이라 부르며 중원에서 수만 리나 떨어진 새외(塞外)로 규정지은 땅은, 내가 이해하기로 후자에 가까웠다.\n\n서장.\n\n무림에서 나만이 아는 다른 명칭으로는, 티베트(Tibet)."
+    },
+    {
+      "confidence": 0.96,
+      "current": "their long, beautiful tusks were black and grimy, as if they’d been dipped in something.",
+      "defect": "Changes the comic image of tusks looking fried to tusks dipped in something.",
+      "id": "F06",
+      "rationale": "튀기기 invokes frying, not dipping.",
+      "replacement": "their long, beautiful tusks were blackened, as if someone had deep-fried them.",
+      "severity": "minor",
+      "source": "상아는 어디에 한 번 튀기기라도 했는지 거무튀튀했고"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Cheongpung stared, half dazed, at the giant elephants he’d only ever seen in movies about little folk destroying a ring. He murmured his review.",
+      "defect": "Attributes knowledge of modern movies to Cheongpung. The film comparison belongs to Taekyung’s narration.",
+      "id": "F07",
+      "rationale": "The source compares what Cheongpung faces to movie elephants without saying Cheongpung has seen the movie.",
+      "replacement": "Facing real-life versions of the giant elephants from that movie about little folk destroying a ring, Cheongpung murmured his verdict, half dazed.",
+      "severity": "critical",
+      "source": "반지 부수는 난쟁이 영화에서나 보던 거대 코끼리들을 실사화로 마주한 청풍이 반쯤 넋이 나간 목소리로 감상평을 중얼거렸다."
+    }
+  ],
+  "summary": "The draft preserves the chapter’s main turn, but changes the first visual clue, reverses the enemy in Namho’s metaphor, and introduces several smaller factual and continuity errors.",
+  "version": 1
+}
