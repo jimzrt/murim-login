@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "And the Doppelganger, whose summoning had set Morgoth’s arrival in motion, had long ago infiltrated human society and operated in secret.",
+      "defect": "The draft says the Doppelganger was summoned. The source says it helped set Morgoth’s summoning in motion.",
+      "id": "F01",
+      "rationale": "모르고스 is the object of 소환; 도플갱어 is described as its 단초.",
+      "replacement": "And the Doppelganger, who had helped set Morgoth’s summoning in motion, had long ago infiltrated human society and operated in secret.",
+      "severity": "critical",
+      "source": "모르고스 소환의 단초가 되었던 도플갱어는 오래전부터 인간 사회에 녹아들어 암약하기까지 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Through the constant crackle of static, the view of a vast conference room was filled by a landscape thousands of kilometers away.",
+      "defect": "The draft makes the conference room the view on display. The source says a distant landscape fills the conference room; it also specifies tens of thousands of kilometers.",
+      "id": "F02",
+      "rationale": "수만 킬로미터 밖의 풍경 is what fills 넓은 회의실 내부.",
+      "replacement": "Through the constant crackle of static, a landscape tens of thousands of kilometers away filled the vast conference room.",
+      "severity": "critical",
+      "source": "끊임없이 치직거리는 노이즈 속, 넓은 회의실 내부를 메운 것은 수만 킬로미터 밖의 풍경이었다."
+    }
+  ],
+  "summary": "Two scene facts are reversed: who was summoned, and what appeared in the conference room.",
+  "version": 1
+}

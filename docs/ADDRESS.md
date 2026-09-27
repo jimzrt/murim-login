@@ -1585,3 +1585,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 블라디미르 푸린 | 모르고스 | Furin addresses the being demanding his surrender. | you; briefly “sir” in the reading copy | Furin mainly uses 해체, with a brief shift to a deferential address. | Furin shifts from 너 to 당신 and briefly uses an honorific form of address. |
 | 모르고스 | 파이 첸 | Enemies | human | Condescending, informal | Morgoth addresses her as a foolish human and later as human. |
 | 파이 첸 | 모르고스 | Enemies | you monster | Rude, informal | She curses at him and refuses his offer to follow him. |
+| 도널드 | 진 | U.S. President speaking to Jin Taekyung | Mr. Jin | Polite | He invites Jin to call him Donny. |
+| 진 | 도널드 | Jin Taekyung speaking to the U.S. President | Donny | Polite | Jin accepts the President’s invitation to use his familiar name. |
