@@ -26,7 +26,7 @@ The hollow thought echoed through his mind.
 
 “……!”
 
-Jin Taekyung’s eyelids, which had been slowly closing, stopped abruptly.
+Taekyung’s closing eyelids stopped.
 
 The shock jolted him awake, and his distant senses rushed back.
 
@@ -38,11 +38,9 @@ It was impossible. *He* was supposed to be somewhere far away in the Central Pla
 
 But someone had once said that hope could break a person—and raise them up again. Taekyung clung to that invisible thread and opened his eyes.
 
-“Ah. Aah…”
-
 He saw the Southern Heaven Demon Empress staggering, both arms gone.
 
-And a single Zen staff planted at an angle beside her as she stood gripped by shock and confusion.
+Beside her, planted at an angle in the ground, stood a Zen staff.
 
 Clatter.
 
@@ -82,7 +80,7 @@ She watched it approach with empty eyes.
 
 No groan or scream escaped her. Her feet might as well have been nailed to the ground, and the pain where her arms had been felt strangely distant.
 
-*I have to dodge. Somehow, I have to dodge…*
+*I have to dodge. Somehow…*
 
 Her body would not obey the cry in her head.
 
@@ -156,7 +154,7 @@ Tank it.
 
 I swallowed the curse and squeezed out every last bit of strength to throw myself forward.
 
-No—it would be more accurate to say that I barely managed to raise my body and throw myself over the Southern Heaven Demon Empress.
+No. I barely managed to get up and fall onto the Southern Heaven Demon Empress.
 
 Whump!
 
@@ -204,7 +202,7 @@ No. My body had shot through the rubble like a beam of light and buried itself t
 
 Cough.
 
-With a cough, what little blood I had left trickled from the corner of my mouth.
+What little blood I had left trickled from the corner of my mouth.
 
 My eardrums had burst, yet I heard a swarm of bees buzzing in my ears. Through my blurred vision, I could make out the Southern Heaven Demon Empress sprawled on the ground and someone’s figure wavering like a heat haze.
 
@@ -234,13 +232,13 @@ The second Disciple he had taken in his lifetime, and the only one he had left.
 
 The one ember that had appeared in the life of a man who had wished only for death and shown him a reason to keep living.
 
-*But why? Why the hell would he do that?*
+*Then why? Why the hell—*
 
 He felt as though he might cough up blood.
 
-What he had unleashed at the Southern Heaven Demon Empress was the Flame Divine Palm, driven to a staggering twelve-tenths of its normal limit.
+He had unleashed the Flame Divine Palm at the twelve-star stage of mastery upon the Southern Heaven Demon Empress. It carried heat fierce enough to melt steel.
 
-And Jin Taekyung had suddenly blocked that horrifying heat, powerful enough to melt steel.
+And Taekyung had leaped in front of it.
 
 *You crazy bastard. You stupid bastard!*
 
@@ -282,7 +280,7 @@ Unable to watch Taekyung die before his eyes, Jeok Cheongang squeezed his eyes s
 
 He had seen countless deaths. Some he had witnessed from afar. Others he had caused with his own hands.
 
-But… Jin Taekyung’s death was different.
+But Taekyung was different.
 
 The boy had barely passed twenty. Unlike Jeok Cheongang, he had so many years left to live, so much happiness still to enjoy.
 
@@ -290,7 +288,7 @@ The boy had barely passed twenty. Unlike Jeok Cheongang, he had so many years le
 
 Jeok Cheongang cried out as though the words were tearing blood from him.
 
-He held Jin Taekyung’s hand, which had been half melted by his own martial arts. Holding that hand, still bearing the marks of those horrific injuries, he wept his heart out…
+He took Taekyung’s hand, half melted by his own martial art, and held it as he wept…
 
 *Huh?*
 
@@ -324,6 +322,6 @@ A pair of eyes was watching him with interest.
 
 They stared at each other. Jeok Cheongang froze.
 
-Facing him, Jin Taekyung wiggled his fingers sheepishly.
+Taekyung wiggled his fingers sheepishly.
 
 “Um, could you let go of my hand first? Then we can talk.”

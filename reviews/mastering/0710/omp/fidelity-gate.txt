@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is broadly faithful, with a few localized shifts in physical detail, relationship implication, and the narrator’s description of his attack.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 203–205",
+      "current": "Of all the attacks I’d made in all the battles I’d fought, this was the most primitive. And I had never needed one to work more badly.",
+      "defect": "The source describes the attack as both primal and primitive, then says this was the strike he wanted more desperately than ever. The English drops the first descriptor and shifts desperation into needing the attack to succeed.",
+      "replacement": "Of all the attacks I’d made in all the battles I’d fought, this was the most primal and primitive. That was why I wanted this strike more desperately than any before.",
+      "rationale": "The Korean says “가장 원초적이며 원시적인 공격” and “어느 때보다 간절했던 일격,” preserving both the paired description and the narrator’s intense desire for the strike.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 263",
+      "current": "The second Disciple he had taken in his lifetime, and the only one he had left.",
+      "defect": "“The only one he had left” implies that other disciples existed and were no longer with him. The source says Taekyung was Jeok Cheongang’s second Disciple and his one and only Disciple.",
+      "replacement": "His second Disciple in his lifetime—and his one and only Disciple.",
+      "rationale": "“생애 두 번째이자, 하나뿐인 제자” identifies Taekyung as the second and sole Disciple, without stating that Jeok had others who were gone.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 337",
+      "current": "The back of it was pale and smooth as a newborn baby’s.",
+      "defect": "“Smooth” adds a surface-quality detail absent from the source, which describes the hand as pale and milky-white.",
+      "replacement": "The back of it was pale as a newborn baby’s.",
+      "rationale": "“뽀얗고” conveys a pale, milky-white appearance; it does not establish that the skin was smooth.",
+      "confidence": 0.86
+    }
+  ]
+}
