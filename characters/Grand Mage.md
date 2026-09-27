@@ -1,6 +1,6 @@
 # Grand Mage (대마도사)
 
-- **Safe through:** Chapter 1045
+- **Safe through:** Chapter 1049
 - **Aliases:** None
 - **Role:** The Grand Mage leads the white-robed mages and is a formidable mage who has reached the edge of truth.
 - **Personality:** She remains composed and curious even as her own forces die, showing little concern for their suffering.
