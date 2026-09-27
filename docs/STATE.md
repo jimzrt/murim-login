@@ -1,19 +1,19 @@
 # Translation State
 
-- Last completed: 1063
-- Next chapter: 1064
-- Current block: 1060–1064 (4/5)
-- Latest translation: `translations/1063.md`
-- Latest summary: `summaries/beats/1063.md`
-- Safe profiles through: chapter 1063
+- Last completed: 1064
+- Next chapter: 1065
+- Current block: 1060–1064 (5/5)
+- Latest translation: `translations/1064.md`
+- Latest summary: `summaries/beats/1064.md`
+- Safe profiles through: chapter 1064
 
 ## Current Block
 
-- News of the victory in Gansu spreads across the realm, with the public exaggerating the number of Dark Heaven rebels killed or captured. Jin Taekyung is widely celebrated as the Blazing Flame Divine Dragon and Marquis of Shangshan, and the Emperor’s proclamation calls for the government and Murim to unite against Dark Heaven. While Taekyung and Hyuk Mujin travel, a falcon arrives carrying a bloodied missive.
+- Jin Taekyung and the Bow Saint bring down a messenger eagle carrying a bloodied report: Dark Heaven has occupied Kunlun. The Kunlun Sect and allied forces withdrew to Qinghai Lake, suffering about a thousand casualties; the report describes an immense enemy force comparable to the Hundred Thousand Demonic Disciples. The group discusses the threat to Qinghai and Gansu. Jin cannot log out because the linked Quest “To Qinghai” remains incomplete, so he sets out with the others for Qinghai, guided by Great Sir.
 
 ## Open Questions
 
-- What does the bloodied missive from Qinghai say?
+- Why does the System prevent Jin from logging out beyond the incomplete linked Quest?
 
 ## Exceptional Decision
 
