@@ -1,6 +1,6 @@
 # Ma Sanbao (마삼보)
 
-- **Safe through:** Chapter 1077
+- **Safe through:** Chapter 1117
 - **Aliases:** None
 - **Role:** Ma Sanbao is a sorcerer and Supreme Peak martial artist, former disciple of the Eastern Heaven Demon Lord, and servant of the Lord of Heaven, whose power lets him raise the dead within limits and command beasts with ritual bells.
 - **Personality:** He is ambitious and confident in his usefulness to the Lord of Heaven, dismissive of his former master’s weakness, and pragmatic about losing subordinates.
