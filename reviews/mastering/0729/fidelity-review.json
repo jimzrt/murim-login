@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "President Baek hadn’t bought the presidential chair secondhand on Oi Market.",
+      "defect": "The source calls it a “phoenix chair,” preserving the specific image that the assembled version replaces with the generic “presidential chair.” The accepted baseline retained the phoenix image.",
+      "id": "F01",
+      "rationale": "봉황 의자 literally identifies a phoenix chair; the generic replacement loses a source-specific detail and regresses from the baseline.",
+      "replacement": "The phoenix chair wasn’t something President Baek had bought secondhand on Oi Market.",
+      "severity": "minor",
+      "source": "Lines 71, 87–89"
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was why we were planning to reveal the Smiling—or rather, the Heaven and Earth Cultivation Technique while borrowing the name of the unconscious Cheon Taemin.",
+      "defect": "The assembled version omits the stated aim of avoiding outside interference as much as possible.",
+      "id": "F02",
+      "rationale": "The source explicitly states 최대한 외부의 견제를 피한다 before explaining the plan; the current passage gives the plan but drops that motive.",
+      "replacement": "Avoiding outside interference as much as possible. That was why we were planning to reveal the Smiling—or rather, the Heaven and Earth Cultivation Technique while borrowing the name of the unconscious Cheon Taemin.",
+      "severity": "minor",
+      "source": "Line 87"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ordinary people would be safer too.",
+      "defect": "The source says ordinary people would be much safer; the translation drops the degree of improvement.",
+      "id": "F03",
+      "rationale": "훨씬 더 안전해진다는 뜻 explicitly emphasizes that ordinary people would become far safer.",
+      "replacement": "Ordinary people would be much safer too.",
+      "severity": "minor",
+      "source": "Line 253"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Jin Taekyung, who had been watching a webtoon on his smartphone",
+      "defect": "“Watching a webtoon” suggests viewing it as a video; the source says he was looking at a webtoon, ordinarily read on a smartphone.",
+      "id": "F04",
+      "rationale": "The source’s 보다 here describes engaging with a webtoon on a phone; “reading” preserves the activity more accurately.",
+      "replacement": "Jin Taekyung, who had been reading a webtoon on his smartphone",
+      "severity": "minor",
+      "source": "Line 299"
+    }
+  ],
+  "summary": "Mostly faithful. A few details are lost or shifted, including one explicit strategic motive and a source-specific image.",
+  "version": 1
+}

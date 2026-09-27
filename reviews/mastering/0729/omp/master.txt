@@ -14,11 +14,11 @@ Team Leader Choi and I weren’t trying to fill a bucket. We wanted a boat so fu
 
 “Pardon?”
 
-He had gone through every kind of hardship before entering the Blue House at the age of just over forty. His eyes widened at the words *Mana Cultivation Method*, and when the name of one particular person followed, he spilled his coffee.
+He must have been through plenty to make it into the Blue House just past forty. The words *Mana Cultivation Method* made his eyes widen. The name that followed made him spill his coffee.
 
 “I-Is that true? Did he really…?”
 
-“Yes. My maternal grandfather created it himself. He wanted to share this Mana Cultivation Method with everyone.”
+“Yes. My maternal grandfather created it himself. He wants to share the Mana Cultivation Method with everyone.”
 
 “I-I can’t believe it.”
 
@@ -30,7 +30,7 @@ He was the Slayer who had defeated the Demon King Asmodeus and brought the Great
 
 “But why is the Mana Cultivation Method called *Smiling*…?”
 
-“……I took out the wrong one. Please forget what you just saw.”
+“…I brought out the wrong one. Please forget what you saw.”
 
 Honestly, if people knew I’d created it, I wouldn’t care whether it was called *The Smiling Mana Cultivation Method* or *As-Salamu Alaykum*.
 
@@ -48,9 +48,9 @@ Of course it would. That was what I’d made it for.
 
 The name had changed for grown-up reasons, but I’d come up with the new one too. Feeling a little proud, I added, “In short, it’s a fucking incredible Mana Cultivation Method.”
 
-Team Leader Choi gave me a pointed cough, but President Baek Hanseong didn’t pay any attention.
+Team Leader Choi gave me a pointed cough. President Baek didn’t notice—or, more likely, he was too distracted to notice.
 
-He stared as though possessed at the booklet containing the principles of the Heaven and Earth Cultivation Technique. Only after a long while did he finally come to his senses.
+He stared at the booklet containing the technique’s principles as though entranced. It was a long while before he came to his senses.
 
 “But why bring something this important to me…?”
 
@@ -62,7 +62,7 @@ President Baek hadn’t bought the presidential chair secondhand on Oi Market. H
 
 “We hope we can support each other.”
 
-“But no matter how large a Guild steps forward, it will be difficult as long as he is still here.”
+“But even if a major Guild tried to interfere, it would have a hard time while your grandfather is around.”
 
 A sound assessment.
 
@@ -70,11 +70,11 @@ If it were true.
 
 *Unfortunately, it isn’t.*
 
-That was why we were planning to reveal the Smiling—or rather, the Heaven and Earth Cultivation Technique while borrowing the name of the unconscious Cheon Taemin. Team Leader Choi had no intention of telling the truth even to President Baek Hanseong, who had always shown us a very favorable attitude.
+We wanted to avoid as much outside interference as possible. That was why we were using the unconscious Cheon Taemin’s name to release the Smiling—no, the Heaven and Earth Cultivation Technique. Team Leader Choi had no intention of telling the truth even to President Baek, who had always been friendly to us.
 
 He was a politician, after all.
 
-“Neither I nor my maternal grandfather want any conflict or controversy. To prevent that, we need the government’s cooperation.”
+“Neither my grandfather nor I want any conflict or controversy. That’s why we need the government’s cooperation.”
 
 “Does that mean the Blue House can announce the existence of this Mana Cultivation Method itself?”
 
@@ -84,13 +84,13 @@ Team Leader Choi shook his head.
 
 “So you want me to drum up interest…”
 
-“This Mana Cultivation Method’s release will be announced as a sort of national project. If that happens, Korea’s standing will rise as well.”
+“The release will be presented as a national project. Korea’s standing will rise as a result.”
 
 “Hmm.”
 
 The first public release of a Mana Cultivation Method in history. Korea’s name would forever be tied to it—and so would the President’s achievement.
 
-A faint smile appeared around President Baek Hanseong’s lips.
+A faint smile appeared on President Baek’s lips.
 
 “The Korean flag looks especially fine today.”
 
@@ -100,7 +100,7 @@ Someone once said the most powerful drug in the world was a patriotic high.
 
 * * *
 
-Cheon Taemin. The public release of the Mana Cultivation Method. A national project.
+Cheon Taemin. The public release of a Mana Cultivation Method. A national project.
 
 Those three phrases brought everything to a boil like a cauldron over charcoal. The fire was lit in Korea.
 
@@ -128,17 +128,17 @@ No—the media had already exploded.
 
 “What about Ares? Don’t you have a contact there? We’ve gotten tips from them before!”
 
-“That person is in the detention center right now. You know, because he got caught up in the Go Jun incident a while back……”
+“He’s in a detention center right now. He got caught up in that Go Jun incident a while back…”
 
 “You’re killing me. What about Choi Minwoo?”
 
-“Oh, don’t even ask. Getting a line into them is practically impossible, and you couldn’t get a single drop of blood out of them even if you poked them.”
+“Don’t even ask. It’s nearly impossible to get through to him, and you couldn’t draw a drop of blood from his people if you tried.”
 
 “Then Jin Taekyung?”
 
 “…I’m the one who’d bleed if I tried him, Chief. Do you want to watch me get beaten to death?”
 
-Sources of unknown origin were leaking out everywhere, but unless they made contact first, there was no way to figure out who had leaked them.
+Tips were surfacing everywhere, with no way to tell who was leaking them. Unless a source approached a reporter first, there was no way to reach them.
 
 The media, at their wits’ end, could only churn out clickbait. Online, things were even worse.
 
@@ -174,37 +174,37 @@ The media, at their wits’ end, could only churn out clickbait. Online, things 
 >
 > └ An earthquake is totally justified this time. Everyone in our Guild lost their shit watching the official Blue House press conference.
 
-> **I’m a civilian, so I don’t really know, but what exactly is a Mana Cultivation Method?**
+> **I’m not a Hunter, so I don’t really know. What exactly is a Mana Cultivation Method?**
 >
-> └ To put it simply, it’s a secret technique that only a tiny number of people can learn. Like the Zaha Divine Technique or the Fire Gate Divine Technique from wuxia novels. Those things are normally kept within their own circles, but this guy is saying screw that and making it available to everyone, yeah.
+> └ Basically, it’s a secret technique only a tiny number of people can learn. Like the Zaha Divine Technique or the Fire Gate Divine Technique in wuxia novels. People normally keep that stuff to themselves, but they’re saying screw it and making this one public.
 >
 > └ I don’t read wuxia novels, so I don’t know.
 >
-> └ Okay, then think of it like a food recipe. Restaurants with Michelin stars all have their own recipes for the food they sell, right?
+> └ Okay, think of it as a recipe. The dishes they serve at Michelin-starred restaurants all have their own recipes, right?
 >
 > └ What’s Michelin?
 >
-> └ LOL…… Then think of it as the sort of cooking secret every mother has.
+> └ LOL… Then think of it as a cooking secret every mother has.
 >
-> └ My mom is a terrible cook. I think she only knows the secret to making food taste bad.
+> └ My mom’s a terrible cook. I think her only secret is how to make food taste bad.
 >
 > └ Hey. How old are you?
 >
 > └ Nine.
 >
-> └ Fuck, now I can’t even properly swear at you.
+> └ Fuck. Now I can’t even swear at you properly.
 >
-> └ **Fact:** Curses very refreshingly at a nine-year-old.
+> └ **Fact:** Just swore at a nine-year-old, no problem.
 >
 > └ Fuck off.
 >
-> └ I’m an avid wuxia reader, but what’s the Fire Gate Divine Technique? I know the Zaha Divine Technique.
+> └ I read tons of wuxia, but what’s the Fire Gate Divine Technique? I know the Zaha Divine Technique.
 >
 > └ ? You don’t read *Login Murim*?
 >
 > └ Zerobic, welcome.
 >
-> └ He took a break over the harvest festival last year. Not Zerobic—Bastardbic.
+> └ He took a break during last year’s harvest festival. More like Bastardbic.
 
 Netizens could usually find two sides to anything and argue about it without end. But beneath articles about the Mana Cultivation Method’s release, they were united in praise.
 
@@ -218,7 +218,7 @@ Of course, some people were disappointed for an entirely different reason.
 
 “Hmm.”
 
-“It would have been nice if you had given us some advance notice.”
+“It would have been nice to have some advance notice.”
 
 Ares Guild.
 
@@ -230,7 +230,7 @@ The executives exchanged glances at the young, capable new Vice Guild Master’s
 
 He’d admitted fault first. That gave them grounds to press him—just enough to make sure he never acted on his own again.
 
-But the problem was the terrifying legitimacy possessed by that Vice Guild Master who was young—no, barely more than a boy.
+The problem was the formidable legitimacy of a Vice Guild Master so young he was practically green.
 
 *He stepped forward personally.*
 
@@ -240,7 +240,7 @@ But the problem was the terrifying legitimacy possessed by that Vice Guild Maste
 
 Cheon Taemin hadn’t appeared before them in a very long time.
 
-Some executives recruited from outside had never even encountered their Guild Master after joining Ares Guild, while even executives with considerable seniority had begun harboring vague suspicions after Lee Jungryong’s funeral.
+Some executives recruited from outside had never met their Guild Master, even after joining Ares. Even those who had been there for years had begun to harbor vague suspicions after Lee Jungryong’s funeral.
 
 *Something’s happened to the Guild Master.*
 
@@ -254,15 +254,15 @@ Even if doubts still lingered, showing them would be incredibly foolish. Cheon T
 
 “You’re all awfully quiet.”
 
-A low voice broke the silence. Jin Taekyung, who had been watching a webtoon on his smartphone, continued:
+A low voice broke the silence. Jin Taekyung looked up from the webtoon on his smartphone.
 
-“When someone apologizes to you, aren’t you supposed to say something in response?”
+“When someone apologizes, you’re supposed to answer them.”
 
 “…!”
 
-“Isn’t that right?”
+“Aren’t you?”
 
-Dozens of pairs of eyes trembled, and throats bobbed nervously.
+Dozens of eyes quivered. Throats bobbed.
 
 The executives exchanged glances, then bowed their heads with forced smiles.
 

@@ -1,0 +1,1822 @@
+{
+  "baseline_blocks": 116,
+  "baseline_sha256": "7e82d53fd3caf431b9fe5041de0a9b4df8a2d52830c3e77765d2aa2d860046ef",
+  "global_terminology_alerts": [
+    {
+      "korean": "그분",
+      "preferred": "that person"
+    }
+  ],
+  "hunk_count": 94,
+  "hunks": [
+    {
+      "baseline": "I had never gone fishing in my life, and I didn’t know how to do it.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "I’d never gone fishing in my life, and I didn’t know how.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was what we needed.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "",
+      "sol_paragraphs": "after P4",
+      "sol_range": [
+        4,
+        4
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Scatter bait about the major announcement in every direction and draw in as much interest and attention from as many fish—or rather, people—as possible.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "13",
+      "sol": "That was what we needed. Scatter hints about a major announcement far and wide, then draw as much attention as possible from as many fish—or rather, people—as we could.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, the process required a little persuasion, too.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "15",
+      "sol": "Of course, we’d need to do a little persuading along the way.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi and I weren’t aiming merely to fill the bucket we’d brought. We wanted a boatload so enormous it would spill over.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "17",
+      "sol": "",
+      "sol_paragraphs": "after P6",
+      "sol_range": [
+        6,
+        6
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "팀장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Team Leader"
+        }
+      ]
+    },
+    {
+      "baseline": "But to make that dream a reality, we needed excellent sailors, and the first person Team Leader Choi contacted was President Baek Hanseong.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "Team Leader Choi and I weren’t trying to fill a bucket. We wanted a boat so full the catch spilled over the sides. And for that, we needed a good crew. The first person Team Leader Choi called was President Baek Hanseong.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had gone through every kind of hardship before entering the Blue House at the age of just over forty. His eyes widened at the words *Mana Cultivation Method*, and when the name of one particular person followed, he spilled his coffee.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "23",
+      "sol": "He must have been through plenty to make it into the Blue House just past forty. The words *Mana Cultivation Method* made his eyes widen. The name that followed made him spill his coffee.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“Yes. My maternal grandfather created it himself. He wanted to share this Mana Cultivation Method with everyone.”",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "27",
+      "sol": "“Yes. My maternal grandfather created it himself. He wants to share the Mana Cultivation Method with everyone.”",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“H-How can this be?”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "29",
+      "sol": "“I-I can’t believe it.”",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A living Savior and a hero who had accomplished something unmatched in human history.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "33",
+      "sol": "A living savior. A hero who had accomplished something no one else in human history ever had.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everyone had no choice but to show respect before the name of the Slayer—the man who had defeated the Demon King Asmodeus and brought the Great Cataclysm to an end.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "35",
+      "sol": "He was the Slayer who had defeated the Demon King Asmodeus and brought the Great Cataclysm to an end. Everyone respected his name.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……I took out the wrong one. Please forget what you just saw.”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "39",
+      "sol": "“…I brought out the wrong one. Please forget what you saw.”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To be perfectly honest, if I became known as its creator, I wouldn’t care whether the Mana Cultivation Method was called *Smiling* or *As-Salamu Alaykum*.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "41",
+      "sol": "Honestly, if people knew I’d created it, I wouldn’t care whether it was called *The Smiling Mana Cultivation Method* or *As-Salamu Alaykum*.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But since the name Cheon Taemin was attached to it, Team Leader Choi and I agreed that *The Smiling Mana Cultivation Method* was a problem.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "43",
+      "sol": "But with Cheon Taemin’s name attached, Team Leader Choi and I agreed that *The Smiling Mana Cultivation Method* was a problem.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What Team Leader Choi placed on the table was a neatly bound booklet. Its cover bore the Mana Cultivation Method’s new name.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "47",
+      "sol": "Team Leader Choi placed a neatly bound booklet on the table. A new name was printed on the cover.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“*Heaven and Earth Cultivation Technique*……”",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "49",
+      "sol": "“*Heaven and Earth Cultivation Technique*…”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Heaven and Earth Cultivation Technique is versatile enough for even the lowest-ranking Hunter to learn, and it is also exceptionally safe. It may be difficult to see tremendous effects immediately after learning it, but it will certainly be of great help to Hunters.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "51",
+      "sol": "“The Heaven and Earth Cultivation Technique is versatile enough for even the lowest-ranking Hunter to learn, and exceptionally safe. It won’t produce tremendous results the moment someone learns it, but it will undoubtedly be a great help to Hunters.”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course it would. That was what I had made it for.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "53",
+      "sol": "Of course it would. That was what I’d made it for.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The name had changed because of adult circumstances, but I had come up with the new name, too.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "55",
+      "sol": "",
+      "sol_paragraphs": "after P24",
+      "sol_range": [
+        24,
+        24
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Feeling a little proud, I added:",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "57",
+      "sol": "",
+      "sol_paragraphs": "after P24",
+      "sol_range": [
+        24,
+        24
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“In short, it’s a fucking incredible Mana Cultivation Method.”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "59",
+      "sol": "The name had changed for grown-up reasons, but I’d come up with the new one too. Feeling a little proud, I added, “In short, it’s a fucking incredible Mana Cultivation Method.”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi gave me a pointed cough, but President Baek Hanseong didn’t pay any attention.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "61",
+      "sol": "Team Leader Choi gave me a pointed cough. President Baek didn’t notice—or, more likely, he was too distracted to notice.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        }
+      ]
+    },
+    {
+      "baseline": "No, it would be more accurate to say that he didn’t even have the time to pay attention.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "63",
+      "sol": "",
+      "sol_paragraphs": "after P26",
+      "sol_range": [
+        26,
+        26
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He stared as though possessed at the booklet containing the principles of the Heaven and Earth Cultivation Technique. Only after a long while did he finally come to his senses.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "65",
+      "sol": "He stared at the booklet containing the technique’s principles as though entranced. It was a long while before he came to his senses.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "cultivation technique"
+        },
+        {
+          "korean": "천지심법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heaven and Earth Cultivation Technique"
+        }
+      ]
+    },
+    {
+      "baseline": "“But why would you bring something this important to me…?”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "67",
+      "sol": "“But why bring something this important to me…?”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The phoenix chair wasn’t something President Baek Hanseong had bought used on Oi Market.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "71",
+      "sol": "",
+      "sol_paragraphs": "after P29",
+      "sol_range": [
+        29,
+        29
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        },
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        },
+        {
+          "korean": "오이마켓",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Oi Market"
+        }
+      ]
+    },
+    {
+      "baseline": "He immediately realized why Team Leader Choi and I had come to see him.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "73",
+      "sol": "President Baek hadn’t bought the presidential chair secondhand on Oi Market. He understood at once why Team Leader Choi and I had come.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We only hope that we can be of strength to each other.”",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "77",
+      "sol": "“We hope we can support each other.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But no matter how large a Guild steps forward, it will be difficult as long as he is still here.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "79",
+      "sol": "“But even if a major Guild tried to interfere, it would have a hard time while your grandfather is around.”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was an accurate assessment.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "81",
+      "sol": "A sound assessment.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Assuming it was true.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "83",
+      "sol": "If it were true.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Avoiding interference from outside as much as possible.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "87",
+      "sol": "",
+      "sol_paragraphs": "after P36",
+      "sol_range": [
+        36,
+        36
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was why we were planning to reveal the Smiling—or rather, the Heaven and Earth Cultivation Technique while borrowing the name of the unconscious Cheon Taemin. Team Leader Choi had no intention of telling the truth even to President Baek Hanseong, who had always shown us a very favorable attitude.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "89",
+      "sol": "We wanted to avoid as much outside interference as possible. That was why we were using the unconscious Cheon Taemin’s name to release the Smiling—no, the Heaven and Earth Cultivation Technique. Team Leader Choi had no intention of telling the truth even to President Baek, who had always been friendly to us.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        }
+      ]
+    },
+    {
+      "baseline": "“Neither I nor my maternal grandfather want any conflict or controversy. To prevent that, we need the government’s cooperation.”",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "93",
+      "sol": "“Neither my grandfather nor I want any conflict or controversy. That’s why we need the government’s cooperation.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Are you saying that the Blue House may directly announce the existence of this Mana Cultivation Method?”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "95",
+      "sol": "“Does that mean the Blue House can announce the existence of this Mana Cultivation Method itself?”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It should be enough to announce that there has been cooperation between both sides and that a major announcement will be made in two days. That alone will draw the public’s attention.”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "99",
+      "sol": "“It should be enough to say we’ve been working together and that there’ll be a major announcement in two days. That alone will get the public’s attention.”",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So you want me to drum up interest……”",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "101",
+      "sol": "“So you want me to drum up interest…”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This Mana Cultivation Method’s release will be announced as a sort of national project. If that happens, Korea’s standing will rise as well.”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "103",
+      "sol": "“The release will be presented as a national project. Korea’s standing will rise as a result.”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The unprecedented public release of a Mana Cultivation Method. And the name Korea, which would forever accompany this historic event, along with the President’s achievement.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "107",
+      "sol": "The first public release of a Mana Cultivation Method in history. Korea’s name would forever be tied to it—and so would the President’s achievement.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A faint smile appeared around President Baek Hanseong’s lips.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "109",
+      "sol": "A faint smile appeared on President Baek’s lips.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        }
+      ]
+    },
+    {
+      "baseline": "“That Korean flag looks especially beautiful today.”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "111",
+      "sol": "“The Korean flag looks especially fine today.”",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Someone once said that the most powerful drug in the world was a patriotic high.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "113",
+      "sol": "Someone once said the most powerful drug in the world was a patriotic high.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheon Taemin. The public release of the Mana Cultivation Method. A national project.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "121",
+      "sol": "Cheon Taemin. The public release of a Mana Cultivation Method. A national project.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those three keywords boiled like a cauldron over charcoal, and their ignition point was none other than Korea.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "125",
+      "sol": "Those three phrases brought everything to a boil like a cauldron over charcoal. The fire was lit in Korea.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> “My beloved and respected citizens. I stand before you today to make one major announcement……”",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "127",
+      "sol": "> “My beloved and respected fellow citizens. I stand before you today to make an important announcement…”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "President Baek Hanseong demonstrated his promise to cooperate fully with an emergency official Blue House press conference.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "129",
+      "sol": "President Baek made good on his promise to cooperate by calling an emergency press conference at the Blue House.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        }
+      ]
+    },
+    {
+      "baseline": "His passionate speech before countless reporters and cameras, including foreign press, was broadcast live on television. Before long, it was transmitted across the world and caused an enormous upheaval.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "131",
+      "sol": "He spoke passionately before a crowd of reporters and cameras, including the foreign press. The conference went out live on television, spread across the world, and caused an uproar.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> [The Mana Cultivation Method Made Public—An Unprecedented Event!]",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "133",
+      "sol": "",
+      "sol_paragraphs": "after P56",
+      "sol_range": [
+        56,
+        56
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> [The Savior of Humanity Saves the World Once Again!]",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "137",
+      "sol": "> **Mana Cultivation Method to Be Made Public—A Historic First!**\n>\n> **Savior of Humanity Saves the World Once Again!**\n>\n> **Will the Living Legend Finally Show Himself?**",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> [The Living Legend Finally Preparing to Reveal Himself?]",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "139",
+      "sol": "",
+      "sol_paragraphs": "after P57",
+      "sol_range": [
+        57,
+        57
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mere mention of Cheon Taemin, who had stayed out of the public eye for so long, was already enough to make headlines. And now the Mana Cultivation Method he had created was going to be revealed to the entire world.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "141",
+      "sol": "Cheon Taemin’s name alone was newsworthy after he’d stayed out of sight for so long. Now the Mana Cultivation Method he’d created was going to be released to the entire world.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No, the media had already exploded.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "147",
+      "sol": "No—the media had already exploded.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hey! Reporter Park! Peace Guild! Contact the Peace Guild!”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "149",
+      "sol": "“Hey! Reporter Park! The Peace Guild! Call the Peace Guild!”",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I-I did, of course, but nothing comes out no matter how much I poke around.”",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "151",
+      "sol": "“I-I already did. I can’t get a thing out of them.”",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then what about Ares? Don’t you have anyone you can lean on there? We’ve gotten a few sources from them before!”",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "153",
+      "sol": "“What about Ares? Don’t you have a contact there? We’ve gotten tips from them before!”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That person is in the detention center right now. You know, because he got caught up in the Go Jun incident a while back……”",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "155",
+      "sol": "“He’s in a detention center right now. He got caught up in that Go Jun incident a while back…”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "그분",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "that person"
+        }
+      ]
+    },
+    {
+      "baseline": "“This is driving me crazy. What about Choi Minwoo?”",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "157",
+      "sol": "“You’re killing me. What about Choi Minwoo?”",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh, don’t even ask. Getting a line into them is practically impossible, and you couldn’t get a single drop of blood out of them even if you poked them.”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "159",
+      "sol": "“Don’t even ask. It’s nearly impossible to get through to him, and you couldn’t draw a drop of blood from his people if you tried.”",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then what about Jin Taekyung?”",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "161",
+      "sol": "“Then Jin Taekyung?”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……If I touch him, I’m the one who’ll bleed. Chief, do you want to watch me get beaten to death?”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "163",
+      "sol": "“…I’m the one who’d bleed if I tried him, Chief. Do you want to watch me get beaten to death?”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sources of unknown origin were leaking out everywhere, but unless they made contact first, there was no way to figure out who had leaked them.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "165",
+      "sol": "Tips were surfacing everywhere, with no way to tell who was leaking them. Unless a source approached a reporter first, there was no way to reach them.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The media, driven almost to the point of madness, could do nothing but churn out clickbait articles. The situation on the internet was even worse.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "167",
+      "sol": "The media, at their wits’ end, could only churn out clickbait. Online, things were even worse.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **Three-Line Summary of the Current Situation**\n>\n> 1. Cheon Taemin created a Mana Cultivation Method.\n>\n> 2. His grandson and an insanely badass junior are pushing to make it public. The government is jumping on the bandwagon.\n>\n> 3. There must have been Hunters who didn’t even know what a Mana Cultivation Method was, but the one Cheon Taemin created is so damn versatile that even the lowest-ranking Hunters can learn it.\n>\n> Wow! Level up together!",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "171",
+      "sol": "> **Three-Line Summary of the Current Situation**\n>\n> 1. Cheon Taemin made a Mana Cultivation Method.\n>\n> 2. His grandson and a fucking awesome junior are pushing to make it public. The government’s jumping on the bandwagon.\n>\n> 3. Some Hunters probably didn’t even know what a Mana Cultivation Method was, but the one Cheon Taemin made is so versatile even the lowest-ranking Hunters can learn it.\n>\n> Wow! Let’s all level up!\n>\n> 4. That wasn’t three lines.\n>\n> └ **Author:** What the fuck are you talking about? I laid it out neatly.\n>\n> └ It’s not three lines in the KakaoPage viewer.\n>\n> └ **Author:** You crazy bastard.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **4. This isn’t a three-line summary.**\n>\n> └ **Author:** What the fuck are you talking about? I organized it neatly.\n>\n> └ It’s not a three-line summary when you look at it through the KakaoPage viewer.\n>\n> └ **Author:** You crazy bastard.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "175",
+      "sol": "",
+      "sol_paragraphs": "after P71",
+      "sol_range": [
+        71,
+        71
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "카카오페이지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "KakaoPage"
+        }
+      ]
+    },
+    {
+      "baseline": "> **The Mana Cultivation Method is going public?!**\n>\n> └ Written by Cheon Taemin?!\n>\n> └ Edited by Jin Taekyung?!?!\n>\n> └ Wasn’t the editor Kim Gyeongsik?\n>\n> └ ? Who’s Kim Gyeongsik?\n>\n> └ The site’s shaking here too, lol.\n>\n> └ This one totally deserves an earthquake. Everyone in our Guild pissed themselves watching the official Blue House press conference.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "177",
+      "sol": "> **The Mana Cultivation Method is going public?!**\n>\n> └ Written by Cheon Taemin?!\n>\n> └ Compiled by Jin Taekyung?!?!\n>\n> └ Wasn’t it compiled by Kim Gyeongsik?\n>\n> └ ? Who’s Kim Gyeongsik?\n>\n> └ Earthquake over here too, lol.\n>\n> └ An earthquake is totally justified this time. Everyone in our Guild lost their shit watching the official Blue House press conference.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **I’m a civilian, so I don’t really know, but what exactly is a Mana Cultivation Method?**\n>\n> └ To put it simply, it’s a secret technique that only a tiny number of people can learn. Like the Zaha Divine Technique or the Fire Gate Divine Technique from wuxia novels. Those things are normally kept within their own circles, but this guy is saying screw that and making it available to everyone, yeah.\n>\n> └ I don’t read wuxia novels, so I don’t know.\n>\n> └ Okay, then think of it like a food recipe. Restaurants with Michelin stars all have their own recipes for the food they sell, right?\n>\n> └ What’s Michelin?\n>\n> └ LOL…… Then think of it as the sort of cooking secret every mother has.\n>\n> └ My mom is a terrible cook. I think she only knows the secret to making food taste bad.\n>\n> └ Hey. How old are you?\n>\n> └ Nine.\n>\n> └ Fuck, now I can’t even properly swear at you.\n>\n> └ **Fact:** Curses very refreshingly at a nine-year-old.\n>\n> └ Fuck off.\n>\n> └ I’m an avid wuxia reader, but what’s the Fire Gate Divine Technique? I know the Zaha Divine Technique.\n>\n> └ ? You don’t read *Login Murim*?\n>\n> └ Zerobic, welcome.\n>\n> └ He took a break over the harvest festival last year. Not Zerobic—Bastardbic.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "179",
+      "sol": "> **I’m not a Hunter, so I don’t really know. What exactly is a Mana Cultivation Method?**\n>\n> └ Basically, it’s a secret technique only a tiny number of people can learn. Like the Zaha Divine Technique or the Fire Gate Divine Technique in wuxia novels. People normally keep that stuff to themselves, but they’re saying screw it and making this one public.\n>\n> └ I don’t read wuxia novels, so I don’t know.\n>\n> └ Okay, think of it as a recipe. The dishes they serve at Michelin-starred restaurants all have their own recipes, right?\n>\n> └ What’s Michelin?\n>\n> └ LOL… Then think of it as a cooking secret every mother has.\n>\n> └ My mom’s a terrible cook. I think her only secret is how to make food taste bad.\n>\n> └ Hey. How old are you?\n>\n> └ Nine.\n>\n> └ Fuck. Now I can’t even swear at you properly.\n>\n> └ **Fact:** Just swore at a nine-year-old, no problem.\n>\n> └ Fuck off.\n>\n> └ I read tons of wuxia, but what’s the Fire Gate Divine Technique? I know the Zaha Divine Technique.\n>\n> └ ? You don’t read *Login Murim*?\n>\n> └ Zerobic, welcome.\n>\n> └ He took a break during last year’s harvest festival. More like Bastardbic.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Netizens were always divided into two camps and never stopped arguing, but when it came to articles about making the Mana Cultivation Method public, they all spoke with one voice and offered nothing but praise.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "181",
+      "sol": "Netizens could usually find two sides to anything and argue about it without end. But beneath articles about the Mana Cultivation Method’s release, they were united in praise.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Someone was going to reveal a secret technique that others possessed but hid with all their might—and reveal it without any restrictions.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "185",
+      "sol": "Someone was giving away a secret technique of the kind others fought to keep hidden, with no restrictions at all.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Simply out of a desire to help everyone.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "187",
+      "sol": "Simply because they wanted to help everyone.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For people, the public release of the Mana Cultivation Method was not something meant only for Hunters.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "189",
+      "sol": "",
+      "sol_paragraphs": "after P76",
+      "sol_range": [
+        76,
+        76
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "헌터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hunter"
+        }
+      ]
+    },
+    {
+      "baseline": "If Hunters became stronger, they could suppress the unsettling incidents occurring one after another much more quickly. That also meant ordinary people would become much safer.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "191",
+      "sol": "And the release wouldn’t benefit only Hunters. Stronger Hunters could deal more quickly with the disturbing incidents that had been occurring one after another. Ordinary people would be safer too.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, there were also people who couldn’t hide their disappointment for an entirely different reason.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "195",
+      "sol": "Of course, some people were disappointed for an entirely different reason.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It would have been nice if you had given us some advance notice.”",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "199",
+      "sol": "“It would have been nice to have some advance notice.”",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In response to the cautious complaints of the internal executives who had survived despite the rapidly changing situation within the Guild, Choi Minwoo lowered his head slightly.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "203",
+      "sol": "Choi Minwoo dipped his head at the cautious complaints from executives who had survived the upheaval within the Guild.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m sorry I couldn’t tell you beforehand. But I thought it would be better to handle things quickly before the information leaked.”",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "205",
+      "sol": "“I’m sorry I couldn’t tell you beforehand. But I thought it best to act quickly, before the information leaked.”",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Faced with the apology from the young and capable new Vice Guild Master, the executives glanced at one another.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "207",
+      "sol": "The executives exchanged glances at the young, capable new Vice Guild Master’s apology.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had admitted his mistake and apologized first, giving them the justification they needed. This was the right time to put him in his place to ensure he would never act unilaterally again.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "211",
+      "sol": "He’d admitted fault first. That gave them grounds to press him—just enough to make sure he never acted on his own again.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the problem was the terrifying legitimacy possessed by that Vice Guild Master who was young—no, barely more than a boy.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "213",
+      "sol": "The problem was the formidable legitimacy of a Vice Guild Master so young he was practically green.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*He actually stepped forward himself.*",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "215",
+      "sol": "*He stepped forward personally.*",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheon Taemin had not shown himself before everyone for an incredibly long time.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "221",
+      "sol": "Cheon Taemin hadn’t appeared before them in a very long time.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some executives recruited from outside had never even encountered their Guild Master after joining Ares Guild, while even executives with considerable seniority had begun harboring vague suspicions after Lee Jungryong’s funeral.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "223",
+      "sol": "Some executives recruited from outside had never met their Guild Master, even after joining Ares. Even those who had been there for years had begun to harbor vague suspicions after Lee Jungryong’s funeral.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "아레스",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ares Guild"
+        }
+      ]
+    },
+    {
+      "baseline": "*Something happened to the Guild Master.*",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "225",
+      "sol": "*Something’s happened to the Guild Master.*",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheon Taemin had not appeared even at Lee Jungryong’s funeral, though the two had been practically sworn brothers.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "229",
+      "sol": "",
+      "sol_paragraphs": "after P93",
+      "sol_range": [
+        93,
+        93
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "천태민",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Cheon Taemin"
+        },
+        {
+          "korean": "이정룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Lee Jungryong"
+        },
+        {
+          "korean": "준이",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jun"
+        },
+        {
+          "korean": "정룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jungryong"
+        }
+      ]
+    },
+    {
+      "baseline": "Hadn’t he also refused to intervene when his grandson was sent from one overseas branch to another, practically exiled by Lee Jungryong?",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "231",
+      "sol": "Cheon Taemin hadn’t appeared at the funeral of Lee Jungryong, a man who had been practically his sworn brother. Nor had he intervened when Lee Jungryong sent his grandson from one overseas branch to another, all but exiling him.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But……things were different now.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "233",
+      "sol": "But…things were different now.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No, even if they still harbored doubts in some corner of their minds, revealing them would be unbelievably foolish.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "235",
+      "sol": "",
+      "sol_paragraphs": "after P95",
+      "sol_range": [
+        95,
+        95
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To them, the name Cheon Taemin was still the embodiment of reverence. And the fresh-faced Vice Guild Master’s winning card was not only his grandfather.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "237",
+      "sol": "Even if doubts still lingered, showing them would be incredibly foolish. Cheon Taemin’s name still commanded their deepest respect. And his grandfather wasn’t the young Vice Guild Master’s only winning card.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A low voice broke the silence. Jin Taekyung, who had been watching a webtoon on his smartphone, continued:",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "241",
+      "sol": "A low voice broke the silence. Jin Taekyung looked up from the webtoon on his smartphone.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When someone apologizes to you, aren’t you supposed to say something in response?”",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "245",
+      "sol": "“When someone apologizes, you’re supposed to answer them.”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "247",
+      "sol": "“…!”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Isn’t that right?”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "249",
+      "sol": "“Aren’t you?”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dozens of pairs of eyes trembled, and throats bobbed nervously.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "251",
+      "sol": "Dozens of eyes quivered. Throats bobbed.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The executives exchanged glances. Then, just as they bowed their heads with forced smiles—it happened.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "253",
+      "sol": "The executives exchanged glances, then bowed their heads with forced smiles.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P116",
+      "baseline_range": [
+        116,
+        116
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "253",
+      "sol": "That was when it happened.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 104,
+  "sol_sha256": "ff12b6245e5cdfc43e234e2124c8c237ae64c2b6b625cfc6e197b2d918520d8a",
+  "version": 1
+}
