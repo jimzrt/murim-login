@@ -1576,3 +1576,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 제갈풍 | 천자 | Zhuge Clan Family Head addressing the Emperor | Your Majesty | formal and deferential | Apologizes for his discourtesy after joking with the Emperor. |
 | 천자 | 제갈풍 | Emperor addressing the Zhuge Clan Family Head | you | familiar and permissive | Uses 자네 while forgiving Zhuge Feng's discourtesy. |
 | 살성 | 적천강 | familiar peer and fellow martial master | you | familiar and teasing | Uses 자네 while teasing Jeok and reassuring him. |
+| 적천강 | 살성 | familiar fellow martial master | you | familiar, insulting-casual | Trades teasing insults with the Slaughter Saint over who is welcome in Taekyung’s carriage. |
