@@ -60,7 +60,7 @@ And if the Yangtze River Channel League had taken advantage of the chaos caused 
 
 Jin Wikyung had not come here as the Lesser Family Head or acting Family Head of the Jin Family of Taiyuan.
 
-He had come as an inspector for the new Murim Alliance[^1] that would soon be formed.
+He had come as an inspector for the new Murim Alliance that would soon be formed.
 
 What that meant was simple.
 
@@ -115,9 +115,9 @@ I glanced at Jeok Cheongang before going on.
 
 “Correct. The Dongting Fisherman spent his entire life near Dongting Lake and built friendships with renowned figures from all walks of life.”
 
-The Dongting Fisherman was well known even in Murim[^1], where strange and extraordinary figures were hardly rare.
+The Dongting Fisherman was well known even in Murim, where strange and extraordinary figures were hardly rare.
 
-It was unusual enough that he had never joined either the orthodox or unorthodox faction and had spent his entire life near Dongting Lake. But the formidable martial arts he performed with the single fishing rod he always carried were also famous throughout Murim[^1].
+It was unusual enough that he had never joined either the orthodox or unorthodox faction and had spent his entire life near Dongting Lake. But the formidable martial arts he performed with the single fishing rod he always carried were also famous throughout Murim.
 
 “I couldn’t understand how a Supreme Peak master like the Dongting Fisherman could disappear without anyone noticing.”
 
@@ -155,7 +155,7 @@ Mu Song looked considerably less fine than before, so I quietly amended my state
 
 “……”
 
-“Actually, when I was little, I dreamed of becoming a river bandit. The Grand Line![^2] The great Yangtze!”
+“Actually, when I was little, I dreamed of becoming a river bandit. The Grand Line! The great Yangtze!”
 
 “……”
 
@@ -177,7 +177,7 @@ Leaving Mu Song looking dejected once again, Zhuge Feng continued slowly.
 
 “Yangtze One Saber. Yangtze One Saber…”
 
-The sobriquet sounded vaguely familiar, but the name itself was new to me. Surely he wasn’t the Hwang Chung from *Romance of the Three Kingdoms*.[^3]
+The sobriquet sounded vaguely familiar, but the name itself was new to me. Surely he wasn’t the Hwang Chung from *Romance of the Three Kingdoms*.[^1]
 
 *He does seem to be the Uncle Hwang Mu Song mentioned when we first arrived in Hubei.*
 
@@ -225,7 +225,7 @@ Mu Song shot to his feet, the veins standing out on his neck as he shouted.
 
 He, too, was one of the disciples who had inherited the Seafaring King’s ultimate technique.
 
-The qi[^4] pressure radiating from Mu Song, who had reached the upper limits of the Peak realm, stirred the dust settled around us.
+The qi pressure radiating from Mu Song, who had reached the upper limits of the Peak realm, stirred the dust settled around us.
 
 Zhuge Feng covered his mouth with his sleeve, gave a small cough, and answered calmly.
 
@@ -301,7 +301,7 @@ Something dark and battered lay in his hand.
 
 Zhuge Feng nodded at Gung Gibang’s murmur.
 
-“The Black Bamboo Fishing Rod. The Dongting Fisherman’s signature weapon, the only one of its kind in all Murim[^1].”
+“The Black Bamboo Fishing Rod. The Dongting Fisherman’s signature weapon, the only one of its kind in all Murim.”
 
 “……!”
 
@@ -313,7 +313,4 @@ He pointed it at the wide-eyed Mu Song as though about to run him through.
 
 “You will take the lead and guide us beyond Tianling Falls to Donghu Stronghold. I intend to see with my own two eyes exactly what happened there.”
 
-[^1]: Murim is the martial-arts world and its community of fighters and sects.
-[^2]: The Grand Line is an ocean route in *One Piece*, a Japanese pirate story also adapted for television.
-[^3]: Hwang Chung is the Korean reading of Huang Zhong, a general from *Romance of the Three Kingdoms*.
-[^4]: Qi is the vital energy that martial artists cultivate and wield.
+[^1]: Hwang Chung is the Korean reading of Huang Zhong, a general from *Romance of the Three Kingdoms*.
