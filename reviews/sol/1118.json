@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The black-robed man and his companion silently exchanged glances. Keeping their faces set, they watched Cheongheoja and the Kunlun Disciples, who stood with swords raised, and lifted the ritual bells in their hands.",
+      "defect": "“Keeping their faces set” assigns Cheongheoja and the disciples’ expression to the sorcerers.",
+      "id": "F01",
+      "rationale": "The Korean describes Cheongheoja and the disciples as grim-faced and aiming their swords; the sorcerers exchange glances, watch them, and raise their bells.",
+      "replacement": "The black-robed man and his companion silently exchanged glances. They watched Cheongheoja and the Kunlun Disciples, who aimed their swords at them with grim faces, and raised the ritual bells in their hands.",
+      "severity": "critical",
+      "source": "말없이 눈빛을 주고받은 흑의인과 그 동료는, 굳게 다문 얼굴로 검을 겨누고 있는 청허자와 곤륜의 제자들을 주시하며 손에 쥔 요령을 들어 올렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "But the seven men and women made up a truly bizarre group, even by the standards of a jiangshi sorcerer. They paid his question no mind and answered.",
+      "defect": "They disregard his reaction, not his question; “paid his question no mind and answered” contradicts itself.",
+      "id": "F02",
+      "rationale": "그런 반응 refers to the sorcerer’s response to their appearance.",
+      "replacement": "But the seven men and women made up a truly bizarre group, even by the standards of a jiangshi sorcerer. Unfazed by his reaction, they answered.",
+      "severity": "major",
+      "source": "하지만 강시술사인 그가 보기에도 실로 괴상망측한 조합을 자랑하는 일곱 명의 남녀는, 그런 반응 따위는 아랑곳하지 않고 대답했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Why would we run? We need to buy time, even if it means shooting the shit.”",
+      "defect": "“Shooting the shit” suggests casual conversation rather than deliberately spouting nonsense to stall the enemy.",
+      "id": "F03",
+      "rationale": "헛소리라도 씨부리면서 makes their crude, nonsensical talk the means of buying time.",
+      "replacement": "“Why would we run? We need to buy time by spouting whatever bullshit we can.”",
+      "severity": "major",
+      "source": "“우리가 왜 도망을 쳐. 헛소리라도 씨부리면서 시간을 벌어야 하는데.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Disappointment in the orthodox faction’s tilted training ground.",
+      "defect": "The literal “tilted training ground” reads as a complaint about a physical surface rather than unfair favoritism.",
+      "id": "F04",
+      "rationale": "The phrase extends the preceding complaint that an unorthodox member was passed over for the post.",
+      "replacement": "Disappointment with the orthodox faction’s rigged playing field.",
+      "severity": "minor",
+      "source": "기울어진 정파 연무장에 대한 실망"
+    }
+  ],
+  "summary": "Four actionable findings: a reversed subject, a misidentified reaction, and two lines that obscure the scene’s logic.",
+  "version": 1
+}
