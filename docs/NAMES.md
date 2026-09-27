@@ -2538,3 +2538,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 육호 | **Number Six** | Hak Su's Dark Heaven identifier. |
 | 곤륜십객 | **Kunlun Ten Guests** | Group of Kunlun figures regarded as future Elders. |
 | 곤륜오객 | **Kunlun Five Guests** | The five remaining members of the Kunlun Ten Guests identified as Dark Heaven spies. |
+| 소규혁 | **So Gyuhyeok** | Defender who announces himself by the epithet 담도비랑. |
+| 무철 | **Mu Cheol** | Defender who announces himself by the epithet 쾌도진천. |
+| 조혁 | **Jo Hyeok** | Defender who announces himself by the epithet 흑살검. |

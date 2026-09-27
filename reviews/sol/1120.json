@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "And someone else, likewise indifferent to the deaths of their comrades, plunged into the dozens of fanatics rushing at Sama Pyo as if to surround him.",
+      "defect": "The draft assigns indifference to fallen comrades to the person helping Sama Pyo. In the source, it describes the attacking fanatics.",
+      "id": "F01",
+      "rationale": "The fanatics continue their assault without regard for their comrades’ deaths; the newcomer pushes through them.",
+      "replacement": "And someone else plunged into the dozens of fanatics closing in around Sama Pyo, heedless of their fallen comrades.",
+      "severity": "critical",
+      "source": "동료의 죽음 따위는 아랑곳하지 않은 채, 그런 사마표를 포위하듯 덮치는 수십의 광신도들 사이를 파고든 또 다른 누군가 역시도."
+    },
+    {
+      "confidence": 1.0,
+      "current": "A wizened old Daoist murmured the four characters they had shouted until they were spitting blood, back in the days when they fought ten thousand of the Demonic Path. He tightened his grip on his sword.",
+      "defect": "The draft reduces 십만 (one hundred thousand) to ten thousand.",
+      "id": "F02",
+      "rationale": "십만 specifies a hundred thousand.",
+      "replacement": "An old Daoist murmured the four characters they had shouted until they were spitting blood, back when they fought a hundred thousand followers of the Demonic Path. He tightened his grip on his sword.",
+      "severity": "critical",
+      "source": "십만 마도와 맞서 싸웠던 그 시절, 피를 토하도록 외쳤던 네 글자를 나직이 뇌까린 어느 노도사는 힘주어 검 자루를 쥐었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You bastards are worse than beggars!”",
+      "defect": "The plural generic 'beggars' removes Gung Gibang’s pointed comparison with himself.",
+      "id": "F03",
+      "rationale": "이 거지 means 'this beggar,' preserving his self-reference and insult.",
+      "replacement": "“You bastards are lower than this beggar!”",
+      "severity": "major",
+      "source": "이 거지보다 못한 새끼들아!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "With all their strength, they cried out the last words that might become their epitaph—the final mark proving that they had existed in this world.",
+      "defect": "An epitaph is an inscription made after death; these shouted words might instead be their last words.",
+      "id": "F04",
+      "rationale": "유언 refers to words left behind before death, not an epitaph.",
+      "replacement": "With all their strength, they cried out what might be their last words—the final trace of their existence in this world.",
+      "severity": "minor",
+      "source": "어쩌면 유언이 될지도 모르는, 자신들이 이 세상에 존재했음을 알리는 마지막 흔적을 온 힘을 다해 부르짖으며."
+    }
+  ],
+  "summary": "Four actionable fidelity findings.",
+  "version": 1
+}
