@@ -1,6 +1,6 @@
 # Chapter 448
 
-A Supreme Peak master could perform feats straight out of an old folktale—erasing several zhang[^1] of distance in a single step, leaping upward by stepping on empty air, and bringing down a cliff with one punch.
+A Supreme Peak master could perform feats straight out of an old folktale—erasing several zhang of distance in a single step, leaping upward by stepping on empty air, and bringing down a cliff with one punch.
 
 But…
 
@@ -10,7 +10,7 @@ KRA-KOOOOM!
 
 We were not on solid ground, but in the middle of the Yangtze, a river as vast as the open sea.
 
-Before a massive whirlpool hundreds of zhang[^1] across, the swift ship carrying me was no more than a tiny leaf.
+Before a massive whirlpool hundreds of zhang across, the swift ship carrying me was no more than a tiny leaf.
 
 BOOM!
 
@@ -70,7 +70,7 @@ Cheongpung nodded as though he understood perfectly and flung both arms into the
 
 “Ah. Yes, Benefactor!”
 
-Cheongpung had been enjoying the Wolmido Disco Pang Pang[^2] all by himself, but now he snapped both sleeves.
+Cheongpung had been enjoying the Wolmido Disco Pang Pang[^1] all by himself, but now he snapped both sleeves.
 
 The Taeeul Miri Palm, one of Huashan’s proudest techniques, transformed into dozens of flower petals that lashed through the air.
 
@@ -122,7 +122,7 @@ Contrary to what I thought, however, the internal energy erupting from Jeok Cheo
 
 FWOOOSH—KRA-KOOOOM!
 
-Several jiazi[^3] of Scorching Yang Qi burst forth at once.
+Several jiazi of Scorching Yang Qi burst forth at once.
 
 The moisture filling the air evaporated, and the tremendous recoil sent the swift ship shooting forward like an arrow.
 
@@ -178,7 +178,7 @@ His eyes red around the edges, Jeok Cheongang stared at the waters of the Yangtz
 
 “Good. Seize that goddamn bastard at once and bring him before me.”
 
-At the end of Jeok Cheongang’s blazing gaze was a swift ship following several dozen zhang[^1] behind us. Zhuge Feng sat at its bow, waving his feather fan.
+At the end of Jeok Cheongang’s blazing gaze was a swift ship following several dozen zhang behind us. Zhuge Feng sat at its bow, waving his feather fan.
 
 “Ha-ha, Senior! Please set aside your anger!”
 
@@ -230,7 +230,9 @@ I clicked my tongue softly and addressed Jeok Cheongang, who had not stopped ber
 
 “Old Master.”
 
-“When we return, do your job properly. If you make this old man suffer through something like that again, I’ll storm the headquarters of the Yangtze River Channel League, burn every ship to ashes, and throw that Seafaring King bastard into Tianling Falls along with the Zhuge Clan bastards… What is it? Tell me later.”
+“When we return, do your job properly. If you make this old man suffer through something like that again, I’ll storm the headquarters of the Yangtze River Channel League, burn every ship to ashes, and throw that Seafaring King bastard into Tianling Falls along with the Zhuge Clan bastards…”
+
+“What is it? Tell me later.”
 
 “That’s not it. I think we’ve arrived.”
 
@@ -272,7 +274,7 @@ Jin Wikyung spoke, his expression stiff.
 
 No one needed to ask what he meant.
 
-If Donghu Stronghold really was responsible for the two incidents that had occurred over the past fifteen days, just as the circumstances revealed so far suggested… then a clash of martial force might take place, in accordance with the laws of Murim.[^4]
+If Donghu Stronghold really was responsible for the two incidents that had occurred over the past fifteen days, just as the circumstances revealed so far suggested… then a clash of martial force might take place, in accordance with the laws of Murim.
 
 “Stronghold Lord. We did not come here to spill blood. I trust you understand what I mean.”
 
@@ -290,7 +292,7 @@ Perhaps Mu Song was the person here most desperate to prevent bloodshed.
 
 No matter how skilled the river bandits of Donghu Stronghold might be, and no matter how powerful their leader, Yangtze One Saber Hwang Chung, was as a Supreme Peak master, they could not withstand our current force.
 
-Even if some utterly incomprehensible disaster—a genuine one-in-ten-thousand chance—sent everyone here to the bottom of the Yangtze, the Yangtze River Channel League would then have to face the whole of Murim.[^4] If the Nine Sects and One Gang joined forces with the Five Great Families, the League would vanish without a trace.
+Even if some utterly incomprehensible disaster—a genuine one-in-ten-thousand chance—sent everyone here to the bottom of the Yangtze, the Yangtze River Channel League would then have to face the whole of Murim. If the Nine Sects and One Gang joined forces with the Five Great Families, the League would vanish without a trace.
 
 “Raise the flag high and let them know we are here.”
 
@@ -332,7 +334,4 @@ Something previously concealed by the fog and aquatic plants had floated into vi
 
 It was someone’s corpse.
 
-[^1]: A zhang is ten traditional length units of approximately 30.3 cm each, or about 3.03 m (9.94 ft).
-[^2]: Wolmido Disco Pang Pang is a Korean amusement-park ride in which riders sit on a rotating platform while the operator jolts and spins it.
-[^3]: A jiazi is a traditional sixty-year cycle; here it measures accumulated internal energy.
-[^4]: Murim is the martial-arts world and its community of martial artists.
+[^1]: Wolmido Disco Pang Pang is a Korean amusement-park ride in which riders sit on a rotating platform while the operator jolts and spins it.
