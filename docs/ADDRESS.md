@@ -1579,3 +1579,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 적천강 | 살성 | familiar fellow martial master | you | familiar, insulting-casual | Trades teasing insults with the Slaughter Saint over who is welcome in Taekyung’s carriage. |
 | 스켈레톤 킹 | 최민우 | allied protector to the commander he protects | you | casual | Uses 너 while telling Minwoo he will protect him. |
 | 진태경 | 스켈레톤 킹 | trusted ally and companion | you | casual | Taekyung teases the Skeleton King after awakening. |
+| 진태경 | 스켈레톤 킹 | reunited friends and allies | you | insulting-casual | Taekyung teases him as weak while fighting, then quietly reciprocates his greeting. |
+| 스켈레톤 킹 | 진태경 | reunited friends and allies | you | insulting-casual | He trades blunt insults with Taekyung, then quietly says he is glad to see him again. |

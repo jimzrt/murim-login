@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“If monsters like you exist, why can’t there be monsters like them?”",
+      "defect": "The Skeleton King calls Jin a monstrous human, not a monster. The draft erases the human-versus-monster contrast.",
+      "id": "F01",
+      "rationale": "괴물 같은 인간 explicitly identifies Jin as human while comparing him to the monsters.",
+      "replacement": "“If a human as monstrous as you can exist, why can’t monsters like them?”",
+      "severity": "major",
+      "source": "네놈처럼 괴물 같은 인간도 있는데, 저런 놈들도 있을 수 있잖나."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Do you have to say something so obnoxious like it’s the most natural thing in the world?”\n\n“Talking about obnoxious? You’ve really become Korean. Weren’t you supposed to be playing a foreigner?”",
+      "defect": "Rendering 밥맛 없는 as “obnoxious” removes the reference to appetite that Jin immediately picks up for his joke.",
+      "id": "F02",
+      "rationale": "Jin’s response turns on the Skeleton King using 밥맛, literally ‘taste for food’ or appetite.",
+      "replacement": "“Do you have to say things that put me off my food like it’s nothing?”\n\n“Food? You’ve really become Korean. Weren’t you supposed to be playing a foreigner?”",
+      "severity": "major",
+      "source": "“밥맛 없는 소리를 너무 당연하게 하는 거 아닌가?”\n\n“밥맛을 논하다니, 아주 한국인 다 됐구만. 심지어 원래 컨셉은 외국인 아니었냐?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I sensed it before anyone else, and at the same time became aware of a tremendous presence that suddenly appeared high overhead.",
+      "defect": "“Sensed it” omits Jin’s feeling of déjà vu; the awareness of the presence is a separate, simultaneous realization.",
+      "id": "F03",
+      "rationale": "기시감 is the feeling that something has happened before, while 깨달았다 separately describes his recognition of the presence.",
+      "replacement": "I felt a sense of déjà vu before anyone else, and at the same time became aware of a tremendous presence suddenly looming high overhead.",
+      "severity": "major",
+      "source": "나는 그 누구보다 먼저 기시감을 느꼈고, 동시에 높은 허공 위에서 불현듯 드리워지는 거대한 기운의 존재를 깨달았다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Mr. Stone King, born in Atlanta, Georgia,",
+      "defect": "“Born in” asserts a birthplace where the source only says he is from Atlanta.",
+      "id": "F04",
+      "rationale": "출신 establishes where he is from, not necessarily where he was born.",
+      "replacement": "Mr. Stone King, from Atlanta, Georgia,",
+      "severity": "minor",
+      "source": "미국 조지아주 애틀란타 출신의 스톤 킹 씨"
+    }
+  ],
+  "summary": "The draft loses a recognition cue and a food-based exchange, and changes a contrast in the Skeleton King’s dialogue.",
+  "version": 1
+}
