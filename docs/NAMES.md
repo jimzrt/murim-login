@@ -2579,3 +2579,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 드래곤 슬레이어 | **Dragon Slayer** | Title Jin receives after killing Morgoth. |
 | 망자의 군주 | **Lord of the Dead** | Title displayed for the revived Undead King. |
 | 언데드 킹 | **Undead King** | The revived form of the Skeleton King. |
+| 예정된 붕괴 | **The Foreordained Collapse** | Title of the new Main Quest. |

@@ -1599,3 +1599,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 골골이 | friends | Bones | casual and familiar | Jin calls his revived friend 골골이. |
 | 언데드 킹 | 진태경 | friends | human | casual and familiar | The Undead King addresses Jin as 인간. |
 | 임꺽정 | 신입 | team leader to rookie team member | rookie | casual | Kkeokjeong uses this address while encouraging the young Hunter. |
+| 진태경 | 언데드 킹 | trusted allies and friends | you little shit | insulting-casual | Jin responds to the Undead King’s awkward question with a familiar insult. |
