@@ -62,7 +62,7 @@ Even now, with the Crown Prince Party—closely tied to Ares Guild—on the decl
 
 The person in charge could change. The government could be replaced. But the greed that lived in every human heart would never disappear.
 
-Even the straightest bamboo bent beneath enough weight. Go Jun had created that weight with tens of billions of won.[^1]
+Even the straightest bamboo bent beneath enough weight. Go Jun had created that weight with tens of billions of won.
 
 The head of the investigation team managing the city that had once been the Arch Lich’s stronghold, along with the senior officials under him, had proved no different.
 
@@ -210,7 +210,7 @@ The rumor had begun when three Hunters who had secretly left with Go Jun one day
 
 For now, only a tiny handful within the security team—Go Jun’s closest associates—knew the truth. But soon enough, it would spread like an epidemic.
 
-*If it’s true… Haa. Things have gotten seriously complicated.*
+*If it’s true…* *Haa. Things have gotten seriously complicated.*
 
 The team member took a deep breath and focused.
 
@@ -224,7 +224,7 @@ Right now, his first priority was retrieving the object the head of the investig
 
 As he headed toward the agreed meeting place, he suddenly found himself envying Jin Taekyung.
 
-*Damn. If I had fifty trillion won[^2] like that bastard, I’d move straight to Europe and live like royalty.*
+*Damn. If I had fifty trillion won like that bastard, I’d move straight to Europe and live like royalty.*
 
 He was wealthy himself and owned several buildings, but human greed was not so easily satisfied.
 
@@ -254,7 +254,7 @@ I watched the musclebound monsters bustling around the deck with a mournful gaze
 
 I had only ever seen that kind of thing online, and I intended to keep it that way.
 
-Reality wasn’t a boat party with beautiful women. It was staring out at the Yangtze from a deck packed with musclebound river bandits doing boat PT.[^3]
+Reality wasn’t a boat party with beautiful women. It was staring out at the Yangtze from a deck packed with musclebound river bandits doing boat PT.
 
 No. There was one more thing.
 
@@ -264,7 +264,7 @@ I had to dodge the finger flicks our boisterous Old Master, Fire King Jeok Cheon
 
 “Well, look at you. Dodging, are we?”
 
-“…Isn’t dodging them the whole point of this training? You said I needed to maintain a mind like a clear mirror and still water while heightening my senses so I could get used to my Middle Dantian.[^4]”
+“…Isn’t dodging them the whole point of this training? You said I needed to maintain a mind like a clear mirror and still water while heightening my senses so I could get used to my Middle Dantian.”
 
 Jeok Cheongang answered without a shred of shame.
 
@@ -333,8 +333,3 @@ I stared at Jeok Cheongang.
 “A clear mirror… Forget it. You and that brat both. To hell with all of it!”
 
 The Yangtze was peaceful today, too.
-
-[^1]: Tens of billions of won is roughly ₩20–90 billion: about $14–64 million or €13–58 million.
-[^2]: Fifty trillion won is about $36 billion or €32 billion.
-[^3]: PT means personal training, a common abbreviation in Korean gym usage.
-[^4]: A dantian is an internal center for cultivating qi in Chinese martial arts. The Middle Dantian is traditionally associated with the chest.
