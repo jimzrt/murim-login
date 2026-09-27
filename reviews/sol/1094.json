@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "So the Blood Lord had crushed him.\n\nMore thoroughly than before.",
+      "defect": "“Than before” invents an earlier beating; at their first meeting, the Blood Lord only watched from afar.",
+      "id": "F01",
+      "rationale": "더욱 철저하게 intensifies the second encounter without establishing a prior attack.",
+      "replacement": "So the Blood Lord had crushed him.\n\nThoroughly.",
+      "severity": "critical",
+      "source": "그래서 짓밟았다.\n\n더욱 철저하게."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Over his shoulder, two voices rang out, old yet clear.",
+      "defect": "Omits that Cheongpung’s whole body is surrounded by the qi of the Zaha Divine Technique.",
+      "id": "F02",
+      "rationale": "The source explicitly identifies the technique and its visible effect on Cheongpung.",
+      "replacement": "Over Cheongpung’s shoulder, two voices rang out, old yet clear. The qi of the Zaha Divine Technique enveloped his entire body.",
+      "severity": "major",
+      "source": "자하신공(紫霞神功)의 기운을 전신에 두른 청풍의 어깨너머로, 노쇠하지만 맑은 두 줄기의 음성이 울려 퍼졌다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Hong Dao. Burn the bastard who killed that monk to a fucking crisp. Don’t leave so much as a hair.”",
+      "defect": "The imperative makes Hong Dao sound like the person ordered to act, although he is the monk whose killer Jeok intends to burn.",
+      "id": "F03",
+      "rationale": "Jeok names Hong Dao, then gives the instruction he claims to have received in the dream. The added “fucking” also intensifies the source’s profanity.",
+      "replacement": "“Hong Dao. He told me to burn the bastard who killed that monk to a crisp, without leaving so much as a hair.”",
+      "severity": "critical",
+      "source": "“굉도. 그 땡중을 죽인 개자식을 털끝 하나 남기지 않고 태워 버리라고.”"
+    },
+    {
+      "confidence": 0.86,
+      "current": "Three of them were leading figures among the Three Saints, each fully comparable to the foremost of the Ten Kings.",
+      "defect": "Makes all three members of the Three Saints and places the foremost of the Ten Kings outside that count.",
+      "id": "F04",
+      "rationale": "The source counts three exceptional masters within the seven, including the foremost of the Ten Kings alongside those of the Three Saints.",
+      "replacement": "Among them were members of the Three Saints and the foremost of the Ten Kings, a master fully their equal.",
+      "severity": "major",
+      "source": "심지어 그중 셋은 제각각 삼성의 일익이자 그들과 충분히 비견될 십왕의 수좌(首座)였으니"
+    },
+    {
+      "confidence": 0.99,
+      "current": "There were more than ten of them. He could also feel someone else behind them, standing as rigid as a fortress and exuding suffocating demonic qi.",
+      "defect": "Assigns the rigid stance and demonic qi to the person behind the Black Ghosts instead of to the Black Ghosts.",
+      "id": "F05",
+      "rationale": "그들 refers to the Black Ghosts; the other person is behind them.",
+      "replacement": "There were a dozen or so of them, standing like an iron wall and exuding suffocating demonic qi. He could sense someone else behind them, too.",
+      "severity": "critical",
+      "source": "그 숫자만 무려 십여 기에 달한다는 것과 철벽처럼 우뚝 선 채 숨 막히는 마기를 내뿜고 있는 그들의 뒤에 또 다른 누군가가 있다는 사실도 함께."
+    },
+    {
+      "confidence": 0.92,
+      "current": "Gritting his teeth, the Blood Lord poured all his seething fury into his hand.\n\nKWA-ANG!\n\nJin Taekyung was driven back ten steps with a thunderous boom.",
+      "defect": "Drops the Blood Lord’s action of wrenching his hand free, which causes Taekyung to be driven back.",
+      "id": "F06",
+      "rationale": "손을 떨쳤다 is an action at the point of contact, not merely energy gathered in his hand.",
+      "replacement": "Gritting his teeth, the Blood Lord wrenched his hand free with all the fury surging through him.\n\nKWA-ANG!\n\nJin Taekyung was driven back ten steps with a thunderous boom.",
+      "severity": "critical",
+      "source": "일순간, 이를 악문 혈주는 전신에 들끓어 오르는 분노를 실어 손을 떨쳤다.\n\n쾅!\n\n굉음과 함께 열 걸음을 물러난 진태경을 향해"
+    }
+  ],
+  "summary": "The draft changes several actions and subjects, obscures the balance of the encirclement, and omits Cheongpung’s technique.",
+  "version": 1
+}

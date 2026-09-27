@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The office of the Qinghai City Lord, now a headless corpse, was as impossibly spacious and luxurious as ever.",
+      "defect": "The officeholder is called the Qinghai Governor immediately afterward.",
+      "id": "C01",
+      "rationale": "Uses one title for the same deceased officeholder within the scene.",
+      "replacement": "The office of the Qinghai Governor, now a headless corpse, was as impossibly spacious and luxurious as ever.",
+      "severity": "minor",
+      "source": "Chapter 1090, office description"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Only one young, nameless disciple had made it back to Xining.\n\nAnd even he had died along the way.",
+      "defect": "The disciple died after meeting scouts a hundred li west of Xining, not after reaching the city.",
+      "id": "C02",
+      "rationale": "Preserves his journey and death without contradicting the opening scene.",
+      "replacement": "Only one young, nameless disciple had made it back toward Xining.\n\nAnd even he had died along the way.",
+      "severity": "minor",
+      "source": "Chapter 1090, account of the Beggars’ Sect disciples"
+    },
+    {
+      "confidence": 0.9,
+      "current": "The qi of the Zaha Divine Technique enveloped his entire body.",
+      "defect": "After the introduction of two additional speakers, “his” has an unclear antecedent.",
+      "id": "C03",
+      "rationale": "Identifies whose qi is being described without changing the action.",
+      "replacement": "The qi of the Zaha Divine Technique enveloped Cheongpung’s entire body.",
+      "severity": "minor",
+      "source": "Chapter 1094, arrival of the allied fighters"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*The Grand Mage. No—the Grand Mage.*",
+      "defect": "The supposed correction repeats the same identification.",
+      "id": "C04",
+      "rationale": "Removes a contradictory self-correction while retaining Taekyung’s recognition.",
+      "replacement": "*The Grand Mage.*",
+      "severity": "minor",
+      "source": "Chapter 1094, Taekyung senses the encirclement"
+    }
+  ],
+  "summary": "Four actionable continuity and clarity issues: an inconsistent title, a mistaken arrival, an ambiguous pronoun, and a duplicated identification.",
+  "version": 1
+}
