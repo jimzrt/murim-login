@@ -60,11 +60,11 @@ I lowered my fist. “But they did nothing?”
 
 “Someone?”
 
-“What choice did they have? This wasn’t some nobody who’d crawled in off the street. The great Fire King himself told them to drop everything.”
+“What could they do? It wasn’t some nobody off the street. The Fire King himself told them to drop it.”
 
 “……!”
 
-“He reportedly told them that if the Palace Lord didn’t appear by midnight two days later, he would step in personally, so they should shut their mouths and focus on calming the people. The Young Palace Lord agonized over it, but in the end, he listened to the Fire King. The other chieftains had no choice either.”
+“He said that if the Palace Lord still hadn’t appeared after midnight two days later, he’d go looking himself. Until then, they were to shut their mouths and focus on calming the people. The Young Palace Lord agonized over it but listened in the end. The other chieftains followed suit.”
 
 Jeok Cheongang—and Yayul Mok, too?
 
@@ -78,7 +78,7 @@ My surprise didn’t last long. I thought for a moment, then nodded.
 
 “*I see?* That’s all?”
 
-“What else is there to say? If Ol—no, if Master said to drop it, then we should drop it.”
+“What else is there to say? If the Old—no, if Master told them to drop it, they should drop it.”
 
 Namho stared at me, then smacked his lips. “That’s quite a bond of trust between master and disciple.”
 
@@ -96,7 +96,7 @@ His answer had come without a moment’s hesitation. Then he glanced toward some
 
 “……?”
 
-What was that? Had Ju Hwaran just given him an axe-eyed glare?
+Had Ju Hwaran just glared at him?
 
 But her eyes were curved into a smile when I looked. I must have imagined it. I probably wasn’t fully awake yet.
 
@@ -120,9 +120,9 @@ Once they were gone, I slipped out of the pavilion through the window.
 
 * * *
 
-*If he isn’t there, no big deal. If he is, then great.*
+It was only a guess. If he wasn’t there, so be it. If he was, all the better.
 
-But the moment I entered a remote patch of grass that no one ever visited, my guess became certainty.
+But the moment I stepped into the secluded patch of grass no one visited anymore, my guess became certainty.
 
 “Oh, there you are.”
 
@@ -132,7 +132,7 @@ The grass stirred faintly at my greeting. At the same instant, a streak of light
 
 *Whoosh—crack!*
 
-The dagger flew straight toward the space between my brows. I caught it without even looking, and the blade began to glow red, unable to withstand the heat of the Scorching Yang Qi in my hand.
+I caught the dagger flying straight at the spot between my brows. The heat of the Scorching Yang Qi in my hand turned its blade red.
 
 *Drip. Hissss.*
 
@@ -188,11 +188,11 @@ The Outer Palace alone was enormous, large enough to pass for the capital of a s
 
 “Hmm.”
 
-Wonhu let out a low hum and stared at me. Then, instead of the answer I had expected, a quiet command slipped from his lips.
+Wonhu studied me. Then, instead of giving the answer I expected, he spoke quietly.
 
 “Make way.”
 
-The Seven Miao Tigers standing behind him flinched in unison.
+The other Seven Miao Tigers flinched.
 
 “Big Brother.”
 
@@ -200,7 +200,7 @@ The Seven Miao Tigers standing behind him flinched in unison.
 
 “I won’t say it twice.”
 
-At Wonhu’s firm voice, the Seven Miao Tigers hesitated for a moment before sighing heavily and splitting apart to either side.
+They hesitated, then heaved a sigh and parted to either side.
 
 “I trust you know where to find him. I’ll take my leave.”
 
@@ -232,7 +232,7 @@ I glanced around as I spoke. A low voice came from the broad-backed man sitting 
 
 “It’s fine. It’s been like that for a long time.”
 
-“True. Great Hero Yayul would know better. You said you always hid here whenever you caused some major incident as a child.”
+“I suppose you’d know better, Great Hero Yayul. You told me you used to hide here whenever you got into serious trouble as a child.”
 
 “……Did I?”
 
@@ -256,9 +256,9 @@ I watched the Beast Miao King’s back for a moment, then asked, “Why did you 
 
 “Palace Lord.”
 
-The Beast Miao King let out a quiet, humorless laugh and muttered in an empty voice,
+The Beast Miao King gave a short, hollow laugh.
 
-“Do you think…… I have the qualifications to be a Palace Lord?”
+“Do you think…… I deserve to be Palace Lord?”
 
 “Hmm. That depends on why you came here.”
 
@@ -268,7 +268,7 @@ The Beast Miao King let out a quiet, humorless laugh and muttered in an empty vo
 
 A brief silence passed before he spoke.
 
-“It hurt. More than I could bear.”
+“I was in pain. More than I could bear.”
 
 “Because of what?”
 
