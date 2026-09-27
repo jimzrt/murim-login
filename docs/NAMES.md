@@ -2493,3 +2493,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 풍귀 | **Wind Ghost** | Power invoked by a white-robed figure and imbued in the Blood-Sword Demon Lord. |
 | 소군악 | **So Gunak** | Name shown in the System status. |
 | 대술사 | **Grand Mage** | Title of the veiled woman leading the white-robed mages. |
+| 녕하 | **Ningxia** | Place name; origin of the mounted bandits mentioned by Sima Gong. |
