@@ -8,7 +8,7 @@ The instant the Arch Lich faced the enormous fire dragon that burst from the spe
 
 There was no avoiding this attack.
 
-The Spell it had not yet managed to unleash and the magical power that had been on the verge of completion scattered beneath the flames rushing straight toward it.
+The Spell it had not yet managed to unleash and the mana that had been on the verge of completion scattered beneath the flames rushing straight toward it.
 
 The fire dragon, blazing with hellfire, opened its jaws at the Arch Lich, which had frozen in place, oblivious even to the pain.
 
@@ -16,7 +16,7 @@ The fire dragon, blazing with hellfire, opened its jaws at the Arch Lich, which 
 
 Blue flames swept in every direction with a thunderous roar like that of a dragon. The terrible heat distorted space and vaporized everything in its path.
 
-The Arch Lich felt the magical power and barriers surrounding it melt away. It even felt a sensation it had long since forgotten.
+The Arch Lich felt the mana and barriers surrounding it melt away. It even felt a sensation it had long since forgotten.
 
 *It’s hot.*
 
@@ -32,11 +32,11 @@ The Gate.
 
 The Arch Lich’s red eye-lights flared wide as it stretched out a hand, but no voice emerged. The fire dragon swallowed the Gate, which was as large as itself, whole.
 
-The moment the unprecedented mass of magical power gathered from the life force of hundreds of thousands of humans collided with the flames, a blinding flash erupted.
+The moment the unprecedented mass of mana gathered from the life force of hundreds of thousands of humans collided with the flames, a blinding flash erupted.
 
 *Fwoosh!*
 
-A pillar of light rose into the sky, bright enough to be seen from hundreds, perhaps thousands, of kilometers[^1] away.
+A pillar of light rose into the sky, bright enough to be seen from hundreds, perhaps thousands, of kilometers away.
 
 Darkness and blue flames collided with one another, then soon blended together. The forest of buildings that had been struggling to remain standing bent at the waist, and a ring of wind burst outward.
 
@@ -98,11 +98,11 @@ A vow to itself and an oath of vengeance spilled toward Jin Taekyung.
 
 Jin Taekyung spat out a wad of phlegm.
 
-“Big talk from a bastard who’s about to croak. Go on. Say, ‘Asmodeus[^2] is a fucking son of a bitch.’”
+“Big talk from a bastard who’s about to croak. Go on. Say, ‘Asmodeus is a fucking son of a bitch.’”
 
 The Skeleton King hesitantly opened its mouth.
 
-—“Asmodeus[^2] is a fucking son of a bitch…”
+—“Asmodeus is a fucking son of a bitch…”
 
 “…Not you.”
 
@@ -240,7 +240,7 @@ The soul of someone it had once shattered and trampled beneath its feet. A fragm
 
 Suddenly, the Arch Lich recalled a memory it had buried deep within its mind.
 
-“How noble, human. What is your name?”
+*“How noble, human. What is your name?”*
 
 That day, when blood had formed rivers and corpses had formed mountains.
 
@@ -296,9 +296,9 @@ Only then did the belated screams erupt.
 
 “Death Knights! They’re Death Knights!”
 
-“Fuck, what the hell are you talking about? Didn’t we take care of all of them?”
+「Fuck, what the hell are you talking about? Didn’t we take care of all of them?」
 
-“I-I don’t think so! It looks like they hid their elites separately among the others!”
+「I-I don’t think so! It looks like they hid their elites separately among the others!」
 
 Those words soon proved true.
 
@@ -341,6 +341,3 @@ Before long, monsters numbering in the tens of thousands were turning to ash and
 *Whoooooosh.*
 
 At long last, the war was over.
-
-[^1]: One kilometer is about 0.62 miles; 100 kilometers is about 62 miles, and 1,000 kilometers is about 620 miles.
-[^2]: Asmodeus is a demon king.
