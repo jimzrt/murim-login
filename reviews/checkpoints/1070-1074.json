@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "the intruder believes the others are dead.",
+      "defect": "Attributes the belief about the other sorcerers to the intruder instead of the black-robed sorcerer.",
+      "id": "C01",
+      "rationale": "The black-robed sorcerer reaches that conclusion when no bells answer his signal.",
+      "replacement": "the black-robed sorcerer believes his fellow sorcerers are dead.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot; chapter 1072"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Bow Saint recognizes the Slaughter Saint, who says he is acting to set the changed world right.",
+      "defect": "Attributes Bow Saint’s statement about setting the world right to the Slaughter Saint.",
+      "id": "C02",
+      "rationale": "Bow Saint says both that she had to act and “Just as you did, Slaughter Saint.”",
+      "replacement": "Bow Saint recognizes the Slaughter Saint and says she had to act to set the changed world right, just as he did.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot; chapter 1074"
+    }
+  ],
+  "summary": "The reading copies maintain consistent voices and terminology. Two checkpoint-summary sentences misattribute a character’s inference and a line of dialogue.",
+  "version": 1
+}

@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Gung Gibang—the next beggar king, destined to lead the Ten Thousand Beggars.",
+      "defect": "십만 is one hundred thousand, not ten thousand.",
+      "id": "F01",
+      "rationale": "The draft reduces the stated number of beggars by a factor of ten.",
+      "replacement": "Gung Gibang—the next beggar king, destined to lead a hundred thousand beggars.",
+      "severity": "critical",
+      "source": "십만 거지 떼를 이끌 차세대의 왕초 거지, 궁기방이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "What awaited us was an enormous lake none of us had ever seen before, and a group of beggars gathered around it, huddled together as they lit campfires.",
+      "defect": "The narrator says he had never seen the lake; the draft extends that claim to every ally.",
+      "id": "F02",
+      "rationale": "난생처음 보는 is narrated from Taekyung’s viewpoint and does not establish the others’ experience.",
+      "replacement": "What awaited us was an enormous lake I’d never seen before, and a group of beggars huddled around it, lighting campfires.",
+      "severity": "critical",
+      "source": "난생처음 보는 거대한 호수와 그 주위에 옹기종기 모여 모닥불을 피우고 있는 한 무리의 거지들이었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Though that one’s just as much of a reckless brat.”",
+      "defect": "“That one” can point back to Cheongpung, but the Slaughter Saint is looking at Taekyung and calls him reckless too.",
+      "id": "F03",
+      "rationale": "저 녀석 refers to the narrator, whose laughter the Slaughter Saint has just explained.",
+      "replacement": "“Though the one laughing is just as much of a reckless brat.”",
+      "severity": "major",
+      "source": "물론, 그러는 저 녀석도 만만치 않은 천둥벌거숭이지만."
+    },
+    {
+      "confidence": 0.9,
+      "current": "I stared at the first-encounter menace before me, half bewildered and half glad to see him. After a moment, I finally managed to speak.",
+      "defect": "“First-encounter” makes 첫 경험 sound like their first meeting rather than a first-time experience.",
+      "id": "F04",
+      "rationale": "첫 경험 means a first experience; “encounter” changes the joke’s referent.",
+      "replacement": "I stared at the first-time-experience menace before me, half bewildered and half glad to see him. After a moment, I finally managed to speak.",
+      "severity": "minor",
+      "source": "나는 잠시 당혹감과 반가움이 반반 섞인 채로 멍하니 눈앞의 첫 경험 빌런을 바라보다가, 이내 간신히 입을 열었다."
+    }
+  ],
+  "summary": "The draft changes a beggar count and the viewpoint of the lake description, and blurs two character references.",
+  "version": 1
+}
