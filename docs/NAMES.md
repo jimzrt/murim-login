@@ -2535,3 +2535,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 창도 | **Chamdo** | Town named as the site of Songhak’s inn stay. |
 | 곤륜오선 | **Kunlun Five Immortals** | Collective name for five senior Kunlun elders. |
 | 태청진인 | **Taecheong Jin-in** | Leader of the Kunlun Five Immortals; rendered “Perfected One Taecheong” in address. |
+| 육호 | **Number Six** | Hak Su's Dark Heaven identifier. |
+| 곤륜십객 | **Kunlun Ten Guests** | Group of Kunlun figures regarded as future Elders. |
+| 곤륜오객 | **Kunlun Five Guests** | The five remaining members of the Kunlun Ten Guests identified as Dark Heaven spies. |
