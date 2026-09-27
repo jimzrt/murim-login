@@ -1,23 +1,22 @@
 # Translation State
 
-- Last completed: 1138
-- Next chapter: 1139
-- Current block: 1135–1139 (4/5)
-- Latest translation: `translations/1138.md`
-- Latest summary: `summaries/beats/1138.md`
-- Safe profiles through: chapter 1138
+- Last completed: 1139
+- Next chapter: 1140
+- Current block: 1135–1139 (5/5)
+- Latest translation: `translations/1139.md`
+- Latest summary: `summaries/beats/1139.md`
+- Safe profiles through: chapter 1139
 
 ## Current Block
 
-- Before waking, Jin Taekyung dreams that he is a bird flying over a modern battle between fighter jets and monsters, then sees a colossal winged being with obsidian-like eyes before a white light engulfs him. He awakens after seven days to find Jeok Cheongang and the Fire Dragon Pavilion members gathered around him. The survivors share their relief and grief; Taekyung thanks Hyuk Mujin for staying alive, and the older martial artists give the younger ones privacy before leaving. By the time Taekyung’s conversation with them ends, night has fallen.
+- The Son of Heaven survived by accepting the White Illusion Jiangshi Art and arrives in Xining with a hundred thousand Imperial Guards as the Murim forces gather. Jin Taekyung and Mae Jonghak agree that the fallen heroes’ blood debt must be repaid to the Lord of Heaven. Three days after waking, Taekyung welcomes the Emperor, who says he should now be called Prince Shangshan.
 
 ## Open Questions
 
-- What was the target the searchers failed to find?
 - What was the Bow Saint’s motive when Jin Taekyung was in mortal danger?
-- What will happen in the campaign against the Lord of Heaven in Xinjiang?
+- What will happen in the campaign against the Lord of Heaven?
 - What did Taekyung’s dream of the winged being and battlefield signify?
-- Why does the Son of Heaven’s title give the Slaughter Saint a sense of foreboding?
+- What is the connection between Cheon Taemin and the Martial God?
 
 ## Exceptional Decision
 
