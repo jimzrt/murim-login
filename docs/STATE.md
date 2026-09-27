@@ -1,25 +1,26 @@
 # Translation State
 
-- Last completed: 1095
-- Next chapter: 1096
-- Current block: 1095–1099 (1/5)
-- Latest translation: `translations/1095.md`
-- Latest summary: `summaries/beats/1095.md`
-- Safe profiles through: chapter 1095
+- Last completed: 1096
+- Next chapter: 1097
+- Current block: 1095–1099 (2/5)
+- Latest translation: `translations/1096.md`
+- Latest summary: `summaries/beats/1096.md`
+- Safe profiles through: chapter 1096
 
 ## Current Block
 
-- A horn announces the arrival of the Nanman Beast Palace, whose people and beasts have left their bloodied homeland and sworn to join the Murim Alliance and avenge their kin. Namho realizes their departure may leave Sichuan exposed, but Great Sir identifies a second force approaching: the Potala Palace, advancing with elephants and thousands of red- and yellow-robed troops. As the Potala Palace joins Dark Heaven’s forces at the encirclement of Xining, Taekyung realizes the Lord of Heaven’s true objective is him. The Blood Lord gives Taekyung one day to sever his sinews and meridians and surrender, promising to spare everyone else if he does; the encirclement parts at the Blood Lord’s gesture.
+- The Blood Lord lets Jin Taekyung and the other defenders return to Xining rather than risk a costly battle, intending to wait for thirty thousand reinforcements expected within one or two days. He never planned to honor his ultimatum: he hopes Taekyung will choose to fight, giving him a pretext to kill him.
+- The Dalai Lama arrives with the Potala Palace’s forces and confronts the Blood Lord for releasing the Fire Gate Clan’s heirs, whom the Potala Palace has long hated. The Blood Lord invokes the Palace’s debt to the Lord of Heaven, promises rewards for helping capture Taekyung, then threatens the Dalai Lama for speaking down to him.
 
 ## Open Questions
 
-- Will the Nanman Beast Palace and other reinforcements reach Xining in time to affect the battle?
-- Will Taekyung surrender, and what will happen when the Blood Lord’s one-day ultimatum expires?
-- Will Sichuan be attacked from Tibet after the Nanman Beast Palace’s departure?
+- Will the expected reinforcements reach Xining in time to decide the battle?
+- Why does the Lord of Heaven appear to want Taekyung above all else?
+- Will the Potala Palace continue cooperating with the Blood Lord after his threat to the Dalai Lama?
 
 ## Exceptional Decision
 
-- Render 西藏 as “Xizang” when naming the region in the Murim setting; retain “Tibet” as Taekyung’s modern-world identification of it.
+- Render 西藏 as “Xizang” for the Murim region; retain “Tibet” when Taekyung identifies it from his modern-world perspective.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

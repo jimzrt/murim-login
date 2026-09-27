@@ -1551,3 +1551,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 제갈풍 | 맹주 | Zhuge Clan Family Head to Murim Alliance Leader | Alliance Leader | polite | Zhuge Feng addresses the concealed Alliance Leader in the Zhuge Clan garden. |
 | 만총 | 석삼 | branch master to subordinate disciple; close comrades | Seok Sam | familiar informal | Man Chong calls to Seok Sam by name; the answering voice is an impersonator. |
 | 혈주 | 만총 | hostile attacker to opposing branch master | you | taunting informal | The Blood Lord uses 당신 while baiting Man Chong. |
+| 혈주 | 달뢰라마 | allied leader to allied leader | Palace Lord | familiar, then threatening and insulting | Calls him 궁주, then warns him not to speak down to him. |
+| 달뢰라마 | 혈주 | allied leader to allied leader | donor; you | formal, then angry and informal | Initially uses the Buddhist honorific 시주 before challenging the Blood Lord. |
