@@ -2,7 +2,7 @@
 
 Should I tear it up or not?
 
-Looking at Jin Taekyung, whose thoughts were written plainly across his face, Choi Minwoo let out a faint, incredulous laugh inwardly.
+Choi Minwoo watched the thought play out across Jin Taekyung’s face and let out an incredulous little laugh.
 
 *I really can’t figure him out.*
 
@@ -18,7 +18,7 @@ The crooked handwriting looked like a child’s, and the title was ridiculous. B
 
 *He created an entirely new mana cultivation method.*
 
-It was a small act of revenge for suddenly handing over something this absurd without saying a word.
+There was a simple reason Choi Minwoo had teased him about his handwriting earlier. It was a small act of revenge for springing something this extraordinary on him without a word.
 
 The shock he had felt a few hours ago had been that great.
 
@@ -44,25 +44,25 @@ Jin Taekyung had been holed up in the training room the whole time. Choi Minwoo 
 
 “It was a fairly aggressive thing for any president to say, especially the American president. Some people criticized him for deliberately provoking the terrorists.”
 
-“Hm. Why bring up something as grand as creating heaven and earth? What about retaliatory terrorism?”
+“Hm. Why bring up something as grand as the creation of heaven and earth? Were there any retaliatory attacks?”
 
 “None. Not a single one.”
 
 “Not one?”
 
-“Yes. If anything, they’ve even been keeping their mouths shut.”
+“No. If anything, they’ve been keeping their mouths shut.”
 
 The sullen look on Jin Taekyung’s face eased a little.
 
 “Guess beating the crap out of them paid off.”
 
-It was at that exact moment that Choi Minwoo, who had been gazing pensively at Jin Taekyung, suddenly spoke.
+Choi Minwoo studied him for a moment, then spoke.
 
 “So that was why.”
 
 “Why what?”
 
-“I thought about two things. Why you suddenly suppressed the terrorists. And what it meant that you gave me this new mana cultivation method.”
+“I’ve been thinking about two things. Why you suddenly went after the terrorists, and why you gave me this new mana cultivation method.”
 
 Now he had his answer.
 
@@ -130,11 +130,11 @@ Those high-ranking Hunters were connected by invisible ties across the world, ea
 
 “…!”
 
-It was a short answer, but I immediately understood what he meant.
+That brief answer was enough.
 
 *Have we stood out too much?*
 
-His words about how, whether I had wanted it or not, I had already drawn far more attention than necessary.
+I remembered what Jeok Cheongang had told me just before I Logged Out: whether I’d wanted it or not, I’d drawn far more attention than I should have.
 
 The spotlight was bright. But everything around it was dark.
 
@@ -142,7 +142,7 @@ I’d read that line in a novel I liked back in school. It was true. The brighte
 
 In Murim and in the modern world.
 
-“Team Leader Choi, by any chance…?”
+“Team Leader Choi, are you saying…?”
 
 He understood the question and shook his head.
 
@@ -160,7 +160,7 @@ He gave me a flat look.
 
 “…Fair.”
 
-Still, this place was a complete mess too.
+This place was a fucking mess too.
 
 People with plenty to lose didn’t like the world changing. The handful of Hunters with mana cultivation methods of their own were no exception.
 
@@ -198,27 +198,27 @@ This time, though, I couldn’t just give in.
 
 Magical power had already increased throughout the world. No—it was still increasing, even now. Mutation Gates were appearing one after another, and monster waves had begun.
 
-“Monsters are growing stronger as the mana increases. You know that too, Team Leader. But if people learn about this mana cultivation method under the current circumstances…”
+“Monsters are getting stronger as magical power increases. You know that. But if people learn this mana cultivation method now…”
 
 “Hunters’ abilities will improve across the board. It’s stable enough for even the lowest-ranked Hunters to learn without difficulty.”
 
 Team Leader Choi’s expression hardened.
 
-“I understand what you’re thinking, Mr. Jin. Wasn’t that why you suppressed the various rebel groups and terrorists in the first place—to reduce the possibility of the mana cultivation method being misused as much as possible?”
+“I know what you’re thinking, Mr. Jin. That’s why you went after those rebel groups and terrorists in the first place, isn’t it? To reduce the chance of this method being misused.”
 
 “Yes. Before I worried about how sharp the weapon I’d made was, I had to think about whose hands it might end up in.”
 
 About two weeks ago in modern-world time, an incident in Texas had driven that point home: an attempted terrorist attack using a Magic Gem.
 
-Fortunately, the terrorists’ attempt had ended in failure, and there had been no casualties. But that incident had made me realize something for certain.
+Fortunately, the attempt had failed without any casualties. But it had made me realize something.
 
 “When I said I wanted to share it with *everyone*, that included every kind of criminal and lunatic.”
 
-Afterward, I followed Magic Johnson to the Pentagon and obtained information about them with the tacit approval of the President of the United States. Alongside the people who had come with me, I dyed the desert red with blood and cut away every element that might become a threat.
+Afterward, I followed Magic Johnson to the Pentagon. With the U.S. President’s tacit approval, we got intelligence on those people. Then my companions and I went into the desert, spilled a lot of blood, and cut down the threats we could find.
 
 Rebel groups that trained kidnapped children to shoot. Fanatical terrorists willing to carry out suicide attacks…
 
-I killed anyone who stood in the way, and the dead were bound to the Skeleton King’s undead army, which chased after those who fled.
+I killed the ones who stood in our way. The dead joined the Skeleton King’s undead army and pursued those who fled.
 
 For the ones farther away, we used captured leaders to send false orders: rebel groups were told to attack terrorist organizations, and terrorist organizations were told to attack rebel groups.
 
@@ -232,7 +232,7 @@ They wouldn’t be the only ones growing stronger from it. Hunters everywhere wo
 
 Then I’d release the Jin Family’s Cultivation Technique, too. So far, I’d taught it to only a handful of people, including Team Leader Choi.
 
-The low-ranking Hunters who knew absolutely nothing about mana cultivation methods would not be able to apply the Jin Family’s Cultivation Technique even if I handed it to them right now. But once they had learned the method, they would be able to cultivate it on their own.
+Low-ranking Hunters who knew nothing about mana cultivation methods couldn’t make use of it if I handed it to them now. But once they’d learned the basics, they could practice it on their own.
 
 I met Team Leader Choi’s eyes.
 
@@ -262,7 +262,7 @@ He looked as though he’d run into Magic Johnson in a dark alley at night. I he
 
 “What way…?”
 
-“Put your maternal grandfather’s name to work for us just this once.”
+“Let us use your grandfather’s name just this once.”
 
 “What?”
 

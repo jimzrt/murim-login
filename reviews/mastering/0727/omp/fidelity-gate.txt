@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is broadly faithful, but it omits a continuity detail and the explicit reason for Minwoo’s earlier teasing; one physical image also shifts from the source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 27–29",
+      "current": "It was a small act of revenge for suddenly handing over something this absurd without saying a word.",
+      "defect": "The source explicitly says Minwoo had teased Taekyung earlier, even pointing out his terrible handwriting. The assembled line omits that action, which explains the revenge.",
+      "replacement": "Choi Minwoo had teased Jin Taekyung earlier, even pointing out his terrible handwriting, for one simple reason: it was a small act of revenge for suddenly handing over something this absurd without saying a word.",
+      "rationale": "The Korean names both the earlier teasing and the handwriting criticism as the context for Minwoo’s small retaliation.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 165–167",
+      "current": "His words about how, whether I had wanted it or not, I had already drawn far more attention than necessary.",
+      "defect": "The assembled copy drops the recalled conversation’s timing and speaker: it was with Jeok Cheongang just before Logout.",
+      "replacement": "I suddenly remembered the conversation I’d had with Jeok Cheongang just before Logout. His words about how, whether I had wanted it or not, I had already drawn far more attention than necessary.",
+      "rationale": "Both the conversation and its timing are stated in the source and preserved in the accepted baseline.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 289",
+      "current": "before the paint on his new nameplate had dried",
+      "defect": "The source’s image is of the freshly made plaque still being hot enough that it had not cooled; the assembled version substitutes paint drying.",
+      "replacement": "before the freshly made nameplate had even had time to cool",
+      "rationale": "The accepted baseline preserves the source’s cooling image; the assembled copy introduces a different physical detail.",
+      "confidence": 0.94
+    }
+  ]
+}

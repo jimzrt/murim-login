@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "It was a small act of revenge for suddenly handing over something this absurd without saying a word.",
+      "defect": "The source explicitly says Minwoo had teased Taekyung earlier, even pointing out his terrible handwriting. The assembled line omits that action, which explains the revenge.",
+      "id": "F01",
+      "rationale": "The Korean names both the earlier teasing and the handwriting criticism as the context for Minwoo’s small retaliation.",
+      "replacement": "Choi Minwoo had teased Jin Taekyung earlier, even pointing out his terrible handwriting, for one simple reason: it was a small act of revenge for suddenly handing over something this absurd without saying a word.",
+      "severity": "minor",
+      "source": "Lines 27–29"
+    },
+    {
+      "confidence": 1.0,
+      "current": "His words about how, whether I had wanted it or not, I had already drawn far more attention than necessary.",
+      "defect": "The assembled copy drops the recalled conversation’s timing and speaker: it was with Jeok Cheongang just before Logout.",
+      "id": "F02",
+      "rationale": "Both the conversation and its timing are stated in the source and preserved in the accepted baseline.",
+      "replacement": "I suddenly remembered the conversation I’d had with Jeok Cheongang just before Logout. His words about how, whether I had wanted it or not, I had already drawn far more attention than necessary.",
+      "severity": "minor",
+      "source": "Lines 165–167"
+    },
+    {
+      "confidence": 0.94,
+      "current": "before the paint on his new nameplate had dried",
+      "defect": "The source’s image is of the freshly made plaque still being hot enough that it had not cooled; the assembled version substitutes paint drying.",
+      "id": "F03",
+      "rationale": "The accepted baseline preserves the source’s cooling image; the assembled copy introduces a different physical detail.",
+      "replacement": "before the freshly made nameplate had even had time to cool",
+      "severity": "minor",
+      "source": "Line 289"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but it omits a continuity detail and the explicit reason for Minwoo’s earlier teasing; one physical image also shifts from the source.",
+  "version": 1
+}
