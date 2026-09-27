@@ -1543,3 +1543,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 태산 | 청허자 | younger martial artist to senior sect leader | you | clipped and childlike | Asks whether Cheongheoja brought meat. |
 | 진태경 | 청허자 | younger martial artist to senior sect leader | Sect Leader | respectful | Uses a formal greeting and bow. |
 | 청허자 | 진태경 | senior sect leader to younger martial artist | Fellow Daoist Jin | warm and polite | Greets Taekyung by surname and confirms Hak Woo is well. |
+| 학수 | 진태경 | Kunlun Senior Disciple to visiting martial artist | Fellow Daoist Jin | polite and respectful | Addresses Taekyung as 진 도우. |
