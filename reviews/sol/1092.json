@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "even if it amounted to no more than a move and a half",
+      "defect": "Changes a gap of one move or even half a move into one and a half moves.",
+      "id": "F01",
+      "rationale": "일초 반식 names a move and a half-move as progressively smaller margins, not their sum.",
+      "replacement": "even if the gap was only one move—or half a move",
+      "severity": "critical",
+      "source": "그 격차가 설령 일초 반식이라 할지라도"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Taekyung’s figure, standing tall a dozen yards away",
+      "defect": "Reduces a distance of more than ten jang to roughly one-third its length.",
+      "id": "F02",
+      "rationale": "A jang is approximately three meters.",
+      "replacement": "Jin Taekyung’s figure, standing tall over thirty meters away",
+      "severity": "critical",
+      "source": "십여 장 밖에 우뚝 서 있던 진태경의 신형"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Well, even if you didn’t, you’d have had to tear something off and stick it on to get revenge on the Sword Saint. Right?",
+      "defect": "Turns “forget about me” into “even if you didn’t,” contradicting the preceding question about wanting strength.",
+      "id": "F03",
+      "rationale": "나는 몰라도 sets Taekyung aside as an opponent before naming the Sword Saint as the reason the Blood Lord needed the graft.",
+      "replacement": "Well, forget about me. To get revenge on the Sword Saint, you’d have had to tear something off and stick it on. Right?",
+      "severity": "major",
+      "source": "하긴, 나는 몰라도 검성에게 복수하려면 뭐라도 떼서 붙여야 했겠지. 안 그래?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "a thick cloud of dust spreading across a radius of several dozen yards",
+      "defect": "Shrinks the dust cloud’s radius by converting tens of jang into tens of yards.",
+      "id": "F04",
+      "rationale": "Each jang is about ten feet; 수십여 장 spans hundreds of feet.",
+      "replacement": "a thick cloud of dust spreading across a radius of hundreds of feet",
+      "severity": "critical",
+      "source": "반경 수십여 장을 뒤덮으며 자욱하게 일어난 먼지구름"
+    },
+    {
+      "confidence": 0.99,
+      "current": "the opening left by the Blood Lord, who had chased me for a hundred yards while unleashing attack after attack",
+      "defect": "Reduces the distance the Blood Lord pursued Taekyung by roughly two-thirds.",
+      "id": "F05",
+      "rationale": "일백여 장 is over one hundred jang, or over three hundred meters.",
+      "replacement": "the opening left by the Blood Lord, who had chased me for over three hundred meters while unleashing attack after attack",
+      "severity": "critical",
+      "source": "일백여 장이나 나를 뒤쫓으며 공격을 쏟아부은 혈주의 공백을 채운 것은"
+    }
+  ],
+  "summary": "The draft alters three combat distances, the size of the strength gap, and a taunt about revenge.",
+  "version": 1
+}
