@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "If you sever your Sinews and Meridians and surrender of your own accord within that time, I’ll spare everyone but you.",
+      "defect": "The anatomical terms are capitalized here but lowercase in Chapter 1098 and the checkpoint’s terminology decision.",
+      "id": "C01",
+      "rationale": "These are not named techniques or titles; consistent lowercase avoids implying a distinct term.",
+      "replacement": "If you sever your sinews and meridians and surrender of your own accord within that time, I’ll spare everyone but you.",
+      "severity": "minor",
+      "source": "Chapter 1095, Blood Lord’s ultimatum"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The three words flashed through his mind.",
+      "defect": "His preceding thought, “A predator,” is two English words.",
+      "id": "C02",
+      "rationale": "Removes a count that contradicts the English reading copy without changing the impression.",
+      "replacement": "The thought flashed through his mind.",
+      "severity": "minor",
+      "source": "Chapter 1097, Dalai Lama’s impression of the Blood Lord"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Leave us. This matter will go unpunished.”",
+      "defect": "Pa Ryun subsequently adds the subordinate’s ten strokes to Mu Song’s punishment, so the matter does not go unpunished.",
+      "id": "C03",
+      "rationale": "Clarifies that the subordinate is spared while preserving Pa Ryun’s later transfer of the strokes.",
+      "replacement": "“Leave us. You won’t be punished for this.”",
+      "severity": "minor",
+      "source": "Chapter 1098, Pa Ryun dismissing his subordinate"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Yangtze River Channel League fleet was preparing to meet thousands of new allies gathered near the river; their identity is unknown.",
+      "defect": "Chapter 1098 specifies “Thousands—no, tens of thousands of shadows,” while this state entry drops the corrected scale.",
+      "id": "C04",
+      "rationale": "Preserves the chapter’s explicit correction without identifying the allies.",
+      "replacement": "The Yangtze River Channel League fleet was preparing to meet tens of thousands of new allies gathered near the river; their identity is unknown.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity entry on the Yangtze River Channel League"
+    }
+  ],
+  "summary": "Voice and continuity are broadly consistent. Four minor wording and state issues are actionable.",
+  "version": 1
+}
