@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The Blood-Sword Demon Lord, who had brought the traitors—including the Black Night King—into the fold, had known nothing of their betrayal. But under the original plan, they should all have been dead by now.",
+      "defect": "The draft says he did not know about their betrayal; the source says he did not know about the plan under which his recruits would already be dead.",
+      "id": "F01",
+      "rationale": "까맣게 몰랐지만 leads into 본래의 계획대로라면 그들 모두가 진작 죽었어야 했다, not into a claim that he was unaware of their betrayal.",
+      "replacement": "The Blood-Sword Demon Lord, who had recruited the traitors starting with the Black Night King, had no idea. Under the original plan, they would all have been dead by now.",
+      "severity": "critical",
+      "source": "정작 흑야왕을 시작으로 배신자들을 포섭한 혈검마군은 까맣게 몰랐지만, 본래의 계획대로라면 그들 모두가 진작 죽었어야 했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "She had managed to achieve part of her goal, but no more than that.",
+      "defect": "“Part of her goal” makes her objective only partially achieved; the source says she achieved her immediate objective, but nothing beyond it.",
+      "id": "F02",
+      "rationale": "소기의 목적 is the objective she set out to accomplish, and 달성할 수 있었으나 states that she achieved it.",
+      "replacement": "She had achieved her immediate objective, but that was all.",
+      "severity": "major",
+      "source": "비록 소기의 목적은 달성할 수 있었으나 겨우 그뿐."
+    },
+    {
+      "confidence": 0.91,
+      "current": "He had begun waking more often from the deep sleep that had lasted as long as ten years, or at least nearly a year.",
+      "defect": "The singular “the deep sleep” turns recurring slumbers of differing lengths into one sleep.",
+      "id": "F03",
+      "rationale": "The source contrasts the longest and shortest durations of his deep sleeps while describing a change in how often he woke.",
+      "replacement": "He had begun waking more often from deep slumbers that could last up to ten years and, even at their shortest, nearly a year.",
+      "severity": "major",
+      "source": "길게는 십 년, 짧아도 일 년 가까이 이어졌던 깊은 잠에서 자주 깨어났고"
+    },
+    {
+      "confidence": 0.9,
+      "current": "In the darkness, slowly dispersing, an indistinct green light glimmered faintly.",
+      "defect": "“Indistinct” describes the light’s appearance, while 정체를 알 수 없는 leaves its nature unidentified; 흐릿하게 already supplies the faintness.",
+      "id": "F04",
+      "rationale": "The source distinguishes the unknown nature of the green light from its faint glow.",
+      "replacement": "As the darkness slowly dispersed, a mysterious green light glimmered faintly.",
+      "severity": "minor",
+      "source": "조금씩 흩어지는 어둠 속, 정체를 알 수 없는 녹광(綠光)이 흐릿하게 빛나고 있었다."
+    }
+  ],
+  "summary": "Four actionable fidelity and wording findings.",
+  "version": 1
+}
