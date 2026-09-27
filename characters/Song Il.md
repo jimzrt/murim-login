@@ -1,6 +1,6 @@
 # Song Il (송일)
 
-- **Safe through:** Chapter 1044
+- **Safe through:** Chapter 1046
 - **Aliases:** Roaring Fury Swordsman
 - **Role:** Elder of the Zhongnan Sect, known as the Roaring Fury Swordsman and one of Sect Leader Gong Iljung’s two Senior Brothers.
 - **Personality:** Arrogant and domineering, but capable of remorse over choices that harmed his sect and those he failed to protect.

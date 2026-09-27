@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The sight of them fighting with death already accepted, together with the Force arrows raining down one after another, held back the Gansu Coalition Army as it staggered backward under the looming shadow of defeat.",
+      "defect": "“Held back” can mean the Zhongnan Disciples and arrows impeded the coalition; they instead stopped its retreat.",
+      "id": "F01",
+      "rationale": "발목을 붙잡았다 applies to the coalition while it is 뒷걸음질 치던—backing away.",
+      "replacement": "The sight of them fighting with death already accepted, together with the Force arrows raining down one after another, stopped the Gansu Coalition Army from retreating as it staggered backward on the brink of defeat.",
+      "severity": "critical",
+      "source": "죽음을 각오하고 싸우는 그들의 모습과 연이어 쏟아지는 강기의 화살이, 짙은 패색을 띤 채 뒷걸음질 치던 감숙 연합군의 발목을 붙잡았다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Everyone else is fine. So stop hesitating and let’s get to the Pavilion Master.”",
+      "defect": "“Else” exempts the visibly injured speaker from Ju Hwaran’s blanket dismissal of everyone’s injuries.",
+      "id": "F02",
+      "rationale": "다들 includes the group without an exception; that sweeping claim sustains the exchange with the injured Mujin and Junggeol.",
+      "replacement": "“Everyone’s fine. So stop hesitating and let’s get to the Pavilion Master.”",
+      "severity": "major",
+      "source": "“다들 멀쩡해요. 그러니까 머뭇거리지 말고 어서 각주님께 가요.”"
+    },
+    {
+      "confidence": 0.88,
+      "current": "No—he’d been told to fight.",
+      "defect": "Past perfect makes the order sound like a completed earlier instruction rather than the pressure he is under now.",
+      "id": "F03",
+      "rationale": "싸우랜다 corrects his thought that he has to fight: someone is making him fight.",
+      "replacement": "No—he was being told to keep fighting.",
+      "severity": "minor",
+      "source": "아니, 싸우랜다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "You are the sharpest sword and strongest shield I possess.",
+      "defect": "The translation adds a superlative to “shield.”",
+      "id": "F04",
+      "rationale": "가장 날카로운 modifies 검; 방패 has no corresponding superlative.",
+      "replacement": "You are my sharpest sword and my shield.",
+      "severity": "minor",
+      "source": "그대들은 짐이 가진 가장 날카로운 검이자 방패인즉"
+    }
+  ],
+  "summary": "One battle action is reversed; three smaller passages alter characterization or emphasis.",
+  "version": 1
+}

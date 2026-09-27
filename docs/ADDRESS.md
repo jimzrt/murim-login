@@ -1514,3 +1514,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 송일 | 황보엄 | Senior Brother to Junior Brother | Junior Brother | familiar and heated | Song Il calls Hwangbo Eom 사제. |
 | 황보엄 | 송일 | Junior Brother to Senior Brother | Senior Brother | familiar and dryly teasing | Hwangbo Eom calls Song Il 대사형. |
 | 대마도사 | 궁성 | Adversaries | Bow Saint | Not established | She identifies him by title when recognizing the archer who struck the Hell Fire sphere. |
+| 혁소평 | 종남파 제자들 | senior Zhongnan disciple rallying his sect’s disciples | Disciples of the Zhongnan Sect | forceful and exhortative | Calls on them not to retreat and declares their path is there. |
+| 마중걸 | 주화란 | fellow combatant addressing the young bureau head | Young Lady | polite and hesitant | Addresses her as 소저 while trying to speak up about his injuries. |
