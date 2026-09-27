@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A forest of glittering steel covered the city walls and advanced, raising red flowers as it went.",
+      "defect": "성내 means inside the city, not the city walls.",
+      "id": "F01",
+      "rationale": "The fighters are advancing through the city; the source does not place them on its walls.",
+      "replacement": "A forest of glittering steel covered the city and advanced, raising red flowers as it went.",
+      "severity": "critical",
+      "source": "번뜩이는 강철의 숲이 성내를 뒤덮고, 붉은 꽃을 피워 올리며 전진한다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "So deep a darkness that even the two giants of the dark-path figures—who had once fought the Hundred Thousand Demonic Disciples at the center of the Heavenly Demon—had faltered.",
+      "defect": "The draft puts the disciples at the center of the Heavenly Demon; the Heavenly Demon led the force the two giants fought.",
+      "id": "F02",
+      "rationale": "천마를 중심으로 한 describes the opposing demonic force, not the position of the disciples.",
+      "replacement": "The darkness was deep enough to shake even the two giants of the dark path, who had once fought the Hundred Thousand Demonic Disciples led by the Heavenly Demon.",
+      "severity": "critical",
+      "source": "천마(天魔)를 중심으로 한 십만마도와도 맞서 싸웠던, 흑도의 두 거인마저 마음이 흔들릴 만큼."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They were afraid of Dark Heaven’s power, and the spies they’d planted inside long ago had proposed surrendering to survive.",
+      "defect": "“They’d planted” makes the two leaders the agents who installed the spies. The source identifies the spies as having been planted within their ranks, without assigning the planting to those leaders.",
+      "id": "F03",
+      "rationale": "내부에 심어져 있던 is passive; the spies' proposal was directed at the fearful leaders.",
+      "replacement": "They were afraid of Dark Heaven’s power, and spies planted in their ranks long ago had urged them to submit in order to survive.",
+      "severity": "critical",
+      "source": "그들은 분명 암천의 힘을 두려워하고 있었고, 이미 오래전부터 내부에 심어져 있던 간자들은 굴복을 통한 생존을 제의했었지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "No—maybe I was this glad to see him because of the person on his back.",
+      "defect": "The source explicitly contrasts Great Sir himself with the person he is carrying; “him” drops that identification and contrast.",
+      "id": "F04",
+      "rationale": "대인이 아니라 names the person Taekyung is reconsidering his relief at seeing.",
+      "replacement": "No—maybe it wasn't Great Sir himself I was so glad to see, but the person on his back.",
+      "severity": "major",
+      "source": "아니, 어쩌면 이토록 반가운 것은 대인이 아니라 그의 등에 업혀 있는 한 사람 때문일지도 몰랐다."
+    },
+    {
+      "confidence": 0.86,
+      "current": "The Abbot of Shaolin Temple is no ordinary man, so you’d better believe him without arguing.",
+      "defect": "The draft turns Jeok's pointed appeal to the Abbot's stature into a neutral assertion about him.",
+      "id": "F05",
+      "rationale": "그 대단한 points to the Abbot's reputation, with a dry edge that fits Jeok's exchange about Hong Dao.",
+      "replacement": "The great Abbot of Shaolin Temple said it, so you’d better believe him without arguing.",
+      "severity": "minor",
+      "source": "그 대단한 소림사 방장이 하는 말이니 네놈도 군말 없이 믿어라."
+    },
+    {
+      "confidence": 0.91,
+      "current": "**Time Limit: 59 seconds**",
+      "defect": "The countdown displayed in the hologram window is formatted as prose emphasis rather than a System panel.",
+      "id": "F06",
+      "rationale": "The preceding narration identifies a hologram window; the binding Markdown rule frames game UI panels as System blockquotes.",
+      "replacement": "> **System**\n> **Time Limit:** 59 seconds",
+      "severity": "minor",
+      "source": "제한 시간 : 59초"
+    },
+    {
+      "confidence": 0.91,
+      "current": "**Time Limit: 30 seconds**",
+      "defect": "This countdown window lacks the required System-panel framing.",
+      "id": "F07",
+      "rationale": "Prose intervenes between countdowns, so this is a separate window.",
+      "replacement": "> **System**\n> **Time Limit:** 30 seconds",
+      "severity": "minor",
+      "source": "제한 시간 : 30초"
+    },
+    {
+      "confidence": 0.91,
+      "current": "**Time Limit: 15 seconds**",
+      "defect": "This countdown window lacks the required System-panel framing.",
+      "id": "F08",
+      "rationale": "Prose intervenes between countdowns, so this is a separate window.",
+      "replacement": "> **System**\n> **Time Limit:** 15 seconds",
+      "severity": "minor",
+      "source": "제한 시간 : 15초"
+    },
+    {
+      "confidence": 0.91,
+      "current": "**Time Limit: 10 seconds**",
+      "defect": "This countdown window lacks the required System-panel framing.",
+      "id": "F09",
+      "rationale": "Prose intervenes between countdowns, so this is a separate window.",
+      "replacement": "> **System**\n> **Time Limit:** 10 seconds",
+      "severity": "minor",
+      "source": "제한 시간 : 10초"
+    },
+    {
+      "confidence": 0.91,
+      "current": "**Time Limit: 5 seconds**",
+      "defect": "This countdown window lacks the required System-panel framing.",
+      "id": "F10",
+      "rationale": "Prose intervenes between countdowns, so this is a separate window.",
+      "replacement": "> **System**\n> **Time Limit:** 5 seconds",
+      "severity": "minor",
+      "source": "제한 시간 : 5초"
+    },
+    {
+      "confidence": 0.91,
+      "current": "**Time Limit: 1 second**",
+      "defect": "This final countdown window lacks the required System-panel framing.",
+      "id": "F11",
+      "rationale": "Prose intervenes before the final countdown, making it a separate window.",
+      "replacement": "> **System**\n> **Time Limit:** 1 second",
+      "severity": "minor",
+      "source": "제한 시간 : 1초"
+    }
+  ],
+  "summary": "Two scene details and the origin of the spies are mistranslated; the countdown windows also need System-panel formatting.",
+  "version": 1
+}

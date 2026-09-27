@@ -1,6 +1,6 @@
 # Hak Eui (학의)
 
-- **Safe through:** Chapter 1116
+- **Safe through:** Chapter 1128
 - **Aliases:** None
 - **Role:** Hak Eui is a First-Generation Disciple of the Kunlun Sect.
 - **Personality:** Composed, observant, and assertive; he investigates matters closely and uses his standing to bring consequential findings before the leaders.
