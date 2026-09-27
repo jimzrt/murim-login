@@ -1,20 +1,20 @@
 # Translation State
 
-- Last completed: 1107
-- Next chapter: 1108
-- Current block: 1105–1109 (3/5)
-- Latest translation: `translations/1107.md`
-- Latest summary: `summaries/beats/1107.md`
-- Safe profiles through: chapter 1107
+- Last completed: 1108
+- Next chapter: 1109
+- Current block: 1105–1109 (4/5)
+- Latest translation: `translations/1108.md`
+- Latest summary: `summaries/beats/1108.md`
+- Safe profiles through: chapter 1108
 
 ## Current Block
 
-- As Jin Taekyung unleashes One Annihilation against the Blood Lord, instinct warns him of a hidden Black Ghost moving between them. Taekyung commits to the attack anyway; a streak of light cuts the Black Ghost with the Zaha Divine Technique just before Taekyung’s blue-black flames engulf it and the Blood Lord.
+- Cheongpung survives being buried in the blast and stealthily crosses the battlefield using the Slaughter Saint’s Ghost Illusory Slaughter Step, which he has mastered to nine-tenths and blended with his Dark Fragrance Drift. He strikes the Black Ghost as Jin Taekyung unleashes One Annihilation, but Taekyung collapses, and the System gives no death confirmation. The Blood Lord survives the flames with his senses and memories gone; driven by thirst, he absorbs blood and bites a subordinate.
 
 ## Open Questions
 
-- Does Taekyung survive using One Annihilation, and does the Blood Lord survive its flames?
-- Who intervened with the Zaha Divine Technique?
+- What condition is Jin Taekyung in after collapsing, and what happened to the Black Ghost?
+- Will the Blood Lord regain his memories, and what will become of him and the subordinate he attacked?
 - Why does the Lord of Heaven want Taekyung, and what does he intend to do with him?
 - Who are the allies approaching by river from the east?
 - Which of Cheongheoja’s Disciples is the hidden Dark Heaven agent, and what did Cheongheoja ask Taekyung to do?

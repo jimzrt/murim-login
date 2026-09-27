@@ -2531,3 +2531,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 달뢰라마 | **Dalai Lama** | Traditional title of the Potala Palace’s leader. |
 | 십이밀승 | **Twelve Secret Monks** | The Potala Palace’s twelve top fighters. |
 | 일당백 | **One Against a Hundred** | System Title; distinct from 일기당천, “One Against a Thousand.” |
+| 적도 | **Red Blade** | Named blade that shatters in Taekyung’s flames. |
