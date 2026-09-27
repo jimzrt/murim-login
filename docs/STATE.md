@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 1045
-- Next chapter: 1046
-- Current block: 1045–1049 (1/5)
-- Latest translation: `translations/1045.md`
-- Latest summary: `summaries/beats/1045.md`
-- Safe profiles through: chapter 1045
+- Last completed: 1046
+- Next chapter: 1047
+- Current block: 1045–1049 (2/5)
+- Latest translation: `translations/1046.md`
+- Latest summary: `summaries/beats/1046.md`
+- Safe profiles through: chapter 1046
 
 ## Current Block
 
-- As Jeok Cheongang rushes to stop the Grand Mage’s Hell Fire, Sima Gong blocks the Blood-Sword Demon Lord long enough for Jeok to continue. Jeok reaches the sphere and attacks with the Flame-Extinguishing Divine Fist, but brilliant Force arrows strike first and break it apart. The blast rains fire across the battlefield, killing thousands, mostly Dark Heaven’s forces; the enemy casualties number fewer than a hundred.
-- Jin Taekyung survives and recognizes the distant archer as the Bow Saint. The Grand Mage also recognizes him, while wondering why the Hell Fire struck her own forces. Jeok Cheongang, Sima Gong, and the Bow Saint’s conditions after the blast remain unknown.
+- The Bow Saint’s Force arrows destroy the falling fireballs, saving the surviving Taeeul Merciless Sword and Roaring Fury Swordsman and letting the battered Zhongnan Sect disciples rally the Gansu Coalition Army. Taishan, Namho, Song Ilseom, Ju Hwaran, Hyuk Mujin, and Ma Junggeol fight through the battle while trying to reach Jin Taekyung; Mujin and Ma Junggeol are wounded.
+- A thousand Embroidered Uniform Guards led by Jeong Hogun charge into the battle under the Emperor’s order to protect Jin Taekyung and defeat his enemies, shifting the battlefield’s momentum.
 
 ## Open Questions
 
@@ -18,7 +18,7 @@
 - Did Dark Heaven cause the Great Faction War?
 - Who are the white-robed mages, and what is their purpose?
 - How were the former Demonic Cult fiends made into Black Ghosts?
-- What happened to Jeok Cheongang, Sima Gong, Jin Taekyung, Song Il, and Hwangbo Eom after the blast?
+- What happened to Jin Taekyung, Jeok Cheongang, Sima Gong, Song Il, and Hwangbo Eom after the blast?
 
 ## Exceptional Decision
 
