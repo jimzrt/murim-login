@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "And even without an expert half a step above him, capturing Jin Taekyung alive rather than killing him would be very difficult.",
+      "defect": "The draft leaves the expert unidentified, though the sentence refers to Jeok Cheongang.",
+      "id": "F01",
+      "rationale": "그가 points back to the Fire King, whom the Blood-Sword Demon Lord has just concluded he cannot defeat alone.",
+      "replacement": "Even without Jeok Cheongang, a master half a step above him, capturing Jin Taekyung alive rather than killing him would be very difficult.",
+      "severity": "major",
+      "source": "설령 자신보다 반 수 위의 고수인 그가 없다 해도, 진태경을 죽이지 않고 생포하는 것은 매우 어려운 일이 되리라는 것을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The vast army of Dark Heaven had already charged to within a hundred yards.",
+      "defect": "A hundred jang is approximately 330 yards, not a hundred yards.",
+      "id": "F02",
+      "rationale": "Rendering 장 as yards without conversion makes the approaching force appear more than three times closer.",
+      "replacement": "The vast army of Dark Heaven had already charged to within roughly three hundred thirty yards.",
+      "severity": "critical",
+      "source": "어느덧 백여 장 앞까지 치달은 암천의 대군세가"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The two martial brothers of the Fire Gate Clan stood at the heart of the battlefield like iron towers, waiting for the enemy.",
+      "defect": "Jin Taekyung and Jeok Cheongang are master and disciple, not martial brothers.",
+      "id": "F03",
+      "rationale": "師弟 denotes their teacher–student relationship here.",
+      "replacement": "The Fire Gate Clan’s master and disciple stood at the heart of the battlefield like iron towers, waiting for the enemy.",
+      "severity": "critical",
+      "source": "열화문의 두 사제(師弟)는 철탑처럼 전장의 중심에서 적들을 기다렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "About fifty yards away",
+      "defect": "Fifty jang is approximately 165 yards.",
+      "id": "F04",
+      "rationale": "The unconverted unit substantially changes the spacing between the combatants and the army.",
+      "replacement": "About a hundred sixty-five yards away",
+      "severity": "critical",
+      "source": "오십여 장 밖"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Thirty yards.",
+      "defect": "Thirty jang is approximately a hundred yards.",
+      "id": "F05",
+      "rationale": "The draft makes the enemy more than three times closer than the source does.",
+      "replacement": "About a hundred yards.",
+      "severity": "critical",
+      "source": "삼십여 장."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Sama Pyo gripped the saber he’d taken from one of the Three Elders of Tianshan with both hands.",
+      "defect": "The draft turns a sword and saber held in both hands into one two-handed saber.",
+      "id": "F06",
+      "rationale": "도검 names both weapons; the sentence describes Sama Pyo gripping them with his two hands.",
+      "replacement": "Sama Pyo tightened his grip on the sword and saber that had once belonged to the Three Elders of Tianshan, one in each hand.",
+      "severity": "critical",
+      "source": "사마표가 한때 천산삼노의 것이었던 도검을 양손에 힘주어 그러쥔 그때였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Twenty yards.",
+      "defect": "Twenty jang is approximately sixty-six yards.",
+      "id": "F07",
+      "rationale": "The unconverted unit changes how near the enemy is during this exchange.",
+      "replacement": "About sixty-five yards.",
+      "severity": "critical",
+      "source": "이십여 장."
+    },
+    {
+      "confidence": 0.86,
+      "current": "Unlike him, Jin Taekyung had been born into the orthodox faction.",
+      "defect": "The draft equates 定道, a set path, with the orthodox faction and changes what Sama Pyo envies.",
+      "id": "F08",
+      "rationale": "The source writes 定道 rather than 正派; Sama Pyo is contrasting their perceived paths, not stating Jin’s factional birth.",
+      "replacement": "Unlike him, Jin Taekyung had been born with a path already laid out for him.",
+      "severity": "major",
+      "source": "그와 달리, 진태경은 정도(定道)에서 태어났으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ten yards.",
+      "defect": "Ten jang is approximately thirty-three yards.",
+      "id": "F09",
+      "rationale": "The draft places the descending riders substantially closer than the source does.",
+      "replacement": "About thirty yards.",
+      "severity": "critical",
+      "source": "십여 장."
+    }
+  ],
+  "summary": "The draft changes a master–disciple relationship, Sama Pyo’s weapons, Jin Taekyung’s characterization, and five battlefield distances.",
+  "version": 1
+}
