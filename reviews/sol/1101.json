@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "We’d formed a dense wall of arrows, firing them at a near-vertical angle to stop the Dark Heaven followers, while bringing out the countermeasures we’d prepared for the monsters.",
+      "defect": "“Near-vertical” reverses 직사, which describes nearly direct fire.",
+      "id": "F01",
+      "rationale": "The source specifies 직사에 가깝게, not steeply arcing or vertical fire.",
+      "replacement": "We held back the Dark Heaven followers with a dense rain of arrows fired on nearly direct trajectories, while bringing out the countermeasures we’d prepared for the monsters.",
+      "severity": "critical",
+      "source": "촘촘한 화망(火網)을 갖춘 채 직사에 가깝게 떨어져 내리는 화살 비로 암천의 교도들을 저지하는 한편"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A solid touch filled my empty hand with a System notification.",
+      "defect": "The notification accompanies the solid object appearing in his hand; it does not fill his hand.",
+      "id": "F02",
+      "rationale": "와 함께 links the notification to the sensation; 텅 비어 있던 손아귀를 채우는 describes what he feels in his hand.",
+      "replacement": "Along with the System notification came the solid feel of something filling my empty hand.",
+      "severity": "major",
+      "source": "시스템 알림과 함께 텅 비어 있던 손아귀를 채우는 단단한 촉감."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The blade, spinning with tremendous force and not an ounce of internal energy, took three heads.\n\nNo—it smashed them apart.",
+      "defect": "The saber strikes and smashes three necks, not three heads.",
+      "id": "F03",
+      "rationale": "세 명의 목 specifies three people’s necks; the correction 박살 낸다 intensifies what happened to those necks.",
+      "replacement": "The blade spun with terrifying force and not an ounce of internal energy, cutting through three necks.\n\nNo—it smashed through them.",
+      "severity": "critical",
+      "source": "단지 무시무시한 힘으로 회전한 도신이 세 명의 목을 베어 낸다.\n\n아니, 박살 낸다."
+    },
+    {
+      "confidence": 0.88,
+      "current": "As if to warn them they’d reached somewhere they must not trespass, its color was uniformly blood-red, and it looked perilous. But its power and speed were no less than those of a Peak master.",
+      "defect": "The red, precarious-looking Sword Energy signals that its users have reached into a realm beyond their proper limits. The draft instead makes the color a warning addressed to the attackers.",
+      "id": "F04",
+      "rationale": "침범해서는 안 될 영역에 손을 댔다는 것을 알려 주듯 describes the fighters’ overreach, consistent with the following explanation of the Temporary Strength Pills.",
+      "replacement": "Each streak was blood-red and looked dangerously unstable, as if betraying that its wielder had reached into a realm they had no business touching. Yet their power and speed rivaled a Peak master’s.",
+      "severity": "major",
+      "source": "마치, 불꽃을 향해 홀린 듯이 나아가는 부나방처럼.\n\n서걱!\n\n사방을 난도질하는 예리한 검기(劍氣).\n\n침범해서는 안 될 영역에 손을 댔다는 것을 알려 주듯, 그 색이 하나같이 피처럼 붉고 위태로워 보였으나 그 위력과 속도만큼은 절정고수의 그것 못지않다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "thousands upon thousands of monsters",
+      "defect": "“Thousands upon thousands” suggests a substantially larger number than 수천.",
+      "id": "F05",
+      "rationale": "수천 gives a count in the thousands; 물경 emphasizes how staggering that count is without multiplying it.",
+      "replacement": "several thousand monsters",
+      "severity": "minor",
+      "source": "물경 수천에 달하는 괴물들이"
+    }
+  ],
+  "summary": "The draft changes the archers’ firing angle and the result of a saber strike, and misstates what fills Taekyung’s hand.",
+  "version": 1
+}
