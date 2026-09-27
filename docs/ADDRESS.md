@@ -1518,3 +1518,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 마중걸 | 주화란 | fellow combatant addressing the young bureau head | Young Lady | polite and hesitant | Addresses her as 소저 while trying to speak up about his injuries. |
 | 혈검마군 | 사마공 | former bargaining allies turned enemies | you; you traitor | blunt and hostile | Uses direct, contemptuous forms while accusing Sima Gong of betraying him. |
 | 사마공 | 혈검마군 | former bargaining allies turned enemies | you; you Demonic Cult bastard | calm and contemptuous | Uses 당신 before ending with the insult 마교 잡놈아. |
+| 대술사 | 혈검마군 | subordinate_to_commander | Demon Lord | respectful and formal | Addresses him as 마군 while acknowledging his injuries. |
+| 혈검마군 | 대술사 | commander_to_subordinate | Grand Mage | blunt and commanding | Orders her to heal him immediately. |

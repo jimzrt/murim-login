@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*Three *jang* straight ahead. Three *chun* to the left.*",
+      "defect": "The source says three chi, not three chun; the nested italics also break the thought’s Markdown.",
+      "id": "F01",
+      "rationale": "치 is the unit used for the leftward offset. 촌 would be chun.",
+      "replacement": "*Three jang straight ahead. Three chi to the left.*",
+      "severity": "major",
+      "source": "‘전방으로부터 삼 장. 좌측으로 세 치.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He flung his sword with all his strength.",
+      "defect": "“Flung his sword” suggests he threw it, though he retains it for the horizontal slash that follows.",
+      "id": "F02",
+      "rationale": "The source describes wielding the sword, not releasing it.",
+      "replacement": "He whipped his sword through the air with all his strength.",
+      "severity": "critical",
+      "source": "혈검마군이 온 힘을 다해 검을 흩뿌렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He didn’t get the chance, not until someone moved with a desperate resolve equal to, or perhaps even greater than, the Blood-Sword Demon Lord’s moments earlier.",
+      "defect": "“Not until” implies he got the chance after the other person moved. That movement instead stops his attempted slash.",
+      "id": "F03",
+      "rationale": "He only tries to bring the sword down; the other person acts first.",
+      "replacement": "But before he could, someone moved with a desperate resolve equal to—or perhaps greater than—his own moments earlier.",
+      "severity": "critical",
+      "source": "아니, 정확히는 내리그으려 했다.\n\n어쩌면 조금 전의 혈검마군만큼, 혹은 그 이상이라 할 수 있는 필사적인 의지를 품은 누군가가 움직이기 전까지는."
+    },
+    {
+      "confidence": 0.98,
+      "current": "It did so with astonishing ease, as if mocking the desperate Will behind the blow.",
+      "defect": "Capitalized “Will” invokes the established System attribute, but 염원 here means a desperate hope or wish.",
+      "id": "F04",
+      "rationale": "The source describes the hope carried in Taekyung’s spear strike, not the System attribute 의지.",
+      "replacement": "It did so with astonishing ease, as if mocking the desperate hope behind the blow.",
+      "severity": "major",
+      "source": "마치 창날에 실려 있던 필사적인 염원을 비웃기라도 하듯, 놀라울 정도로 손쉽게."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Under ordinary circumstances—or if he were a human made of flesh and blood—his injuries would have killed him several times over.",
+      "defect": "“Under ordinary circumstances” loses the contrast with the Blood-Sword Demon Lord’s former self, before his body was strengthened.",
+      "id": "F05",
+      "rationale": "본래의 그 refers to what he himself used to be; the following sentence credits his extremely strengthened body with keeping him alive.",
+      "replacement": "If he were his former self—or even just an ordinary flesh-and-blood human—those injuries would have killed him several times over.",
+      "severity": "major",
+      "source": "본래의 그였다면. 아니, 최소한 피륙으로 이루어진 인간이라면 이미 몇 번이나 죽어도 이상하지 않을 정도의 부상."
+    }
+  ],
+  "summary": "Five actionable fidelity findings: a wrong unit, a misleading sword action, a reversed timing cue, a misapplied System term, and a lost reference to the Demon Lord’s former self.",
+  "version": 1
+}
