@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Even from a dozen or so yards away, where I’d stopped to watch.",
+      "defect": "A dozen or so *jang* is roughly thirty-plus yards, not a dozen yards.",
+      "id": "F01",
+      "rationale": "The draft substantially shortens Jin’s stated distance from Sama Pyo.",
+      "replacement": "Even from some thirty-odd yards away, where I’d stopped to watch.",
+      "severity": "major",
+      "source": "십여 장 밖에서 걸음을 멈춘 채 지켜보고 있던 내게도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And even farther off, where the Fire Dragon Pavilion members waited for orders, not knowing what was happening.",
+      "defect": "They are waiting in obedience to an order already given, not waiting to receive orders.",
+      "id": "F02",
+      "rationale": "명령을 따라 대기하고 있던 specifies why they remain in place.",
+      "replacement": "And even farther off, where the Fire Dragon Pavilion members stood waiting as ordered, with no idea what was happening.",
+      "severity": "major",
+      "source": "그리고 그보다도 먼 곳에서, 영문도 모른 채 명령을 따라 대기하고 있던 화룡각 대원들에게도."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Lately, I keep thinking of the first time I met your father, in the middle of the Great Faction War.”",
+      "defect": "The respectful address to Sama Pyo and honorific reference to his father disappear, obscuring the later shift to “Boy of the Sama family.”",
+      "id": "F03",
+      "rationale": "도우 and 춘부장 are courteous forms; Hyeoncheon abandons that courtesy when he later demands Sama Pyo’s father.",
+      "replacement": "“Lately, I keep remembering when I first met your esteemed father, my friend, in the middle of the Great Faction War.”",
+      "severity": "major",
+      "source": "“근래 들어 계속해서 떠오르더군. 정마대전의 한복판에서 도우(道友)의 춘부장을 처음으로 만났을 때가.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "That immense human tide, black as night, had swept over the tall ramparts in an instant and swallowed everything.",
+      "defect": "The army breaks down the walls; it does not merely sweep over them.",
+      "id": "F04",
+      "rationale": "성벽을 무너트리고 describes the physical destruction of the defenses.",
+      "replacement": "That immense human tide, black as night, had brought down the high walls in an instant and swept away everything in its path.",
+      "severity": "major",
+      "source": "칠흑과도 같았던 그 거대한 인(人)의 파도는 단숨에 높은 성벽을 무너트리고 모든 것을 휩쓸었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "At that moment, as he’d risked life and limb, vowing revenge.",
+      "defect": "This describes Hyeoncheon hovering between life and death while injured, not taking a risk.",
+      "id": "F05",
+      "rationale": "생사를 오가던 refers to his condition during recovery from severe injuries.",
+      "replacement": "Back then, as he hovered between life and death and swore revenge.",
+      "severity": "major",
+      "source": "복수를 다짐하며 생사를 오가던 그 순간"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Why did a fire surge from deep in his chest every time he pictured their faces and names, one by one, beneath that silver-white veil?",
+      "defect": "The faces and names came from the veiled woman’s words; the draft places the men themselves beneath her veil.",
+      "id": "F06",
+      "rationale": "The veiled woman supplied the information that seeded Hyeoncheon’s suspicions.",
+      "replacement": "Why did fire surge from deep in his chest whenever he recalled each face and name the woman had spoken of from behind her silver-white veil?",
+      "severity": "major",
+      "source": "은백색의 면사 아래로 흘러나온 그들 한 사람 한 사람의 얼굴과 이름을 떠올릴 때마다, 왜 가슴 깊은 곳에서 불길이 솟구치는 것일까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "After enduring the brink of death for three days, Hyeoncheon had finally recovered enough to move. He’d thought then:",
+      "defect": "“Recovered enough to move” substitutes a mobility threshold for recovery from his injuries.",
+      "id": "F07",
+      "rationale": "가까스로 부상에서 회복한 says he narrowly recovered from his wounds; it does not mention being able to move.",
+      "replacement": "After three days at death’s door, Hyeoncheon had barely recovered from his injuries. He’d thought then:",
+      "severity": "major",
+      "source": "사흘간 죽음의 고비를 견딘 끝에 가까스로 부상에서 회복한 현천진인은 생각했더랬다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "A Kongtong Sect Disciple covered the distance of several dozen yards in an instant, moving like an arrow.",
+      "defect": "Several dozen *jang* is substantially farther than several dozen yards.",
+      "id": "F08",
+      "rationale": "A jang measures roughly three meters; the shorter draft distance diminishes the speed described.",
+      "replacement": "A Kongtong Sect Disciple closed a distance of well over a hundred yards in an instant, moving like an arrow.",
+      "severity": "major",
+      "source": "화살 같은 속도로 수십여 장의 거리를 단숨에 좁힌 공동파의 제자가"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The white cloth signaled someone’s death. And the Disciple who had just returned had confirmed it.",
+      "defect": "The Disciple’s reaction is a clue, not an explicit confirmation.",
+      "id": "F09",
+      "rationale": "The conclusion follows from the cloth and his reaction together; the source does not have him confirm the deaths.",
+      "replacement": "The white cloth signaled someone’s death. Then there was the reaction of the Disciple who had just returned.",
+      "severity": "major",
+      "source": "누군가의 죽음을 의미하는 흰색 천. 그리고 지금 막 되돌아온 제자의 반응."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Dead? You mean he’s dead? Like this? Is this really how it ends?”",
+      "defect": "The singular “he” misidentifies the immediate subject: Hyeoncheon has just learned that both Zhongnan traitors are dead.",
+      "id": "F10",
+      "rationale": "The preceding passage names Song Il and Hwangbo Eom as the two newly discovered deaths.",
+      "replacement": "“Dead? You mean they’re dead? Just like that? Is that all they get?”",
+      "severity": "critical",
+      "source": "“죽어? 죽었단 말이냐? 이렇게, 고작 이런 식으로!”"
+    }
+  ],
+  "summary": "The draft changes an existing order into an anticipated one, understates two distances, and alters several details of the battle and Hyeoncheon’s recollection.",
+  "version": 1
+}

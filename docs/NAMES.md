@@ -2494,3 +2494,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소군악 | **So Gunak** | Name shown in the System status. |
 | 대술사 | **Grand Mage** | Title of the veiled woman leading the white-robed mages. |
 | 녕하 | **Ningxia** | Place name; origin of the mounted bandits mentioned by Sima Gong. |
+| 혈의인 | **Blood-Clad Men** | Blood-soaked figures initially surrounding Sama Pyo; identified as Kongtong Sect Disciples. |

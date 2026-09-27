@@ -1522,3 +1522,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 혈검마군 | 대술사 | commander_to_subordinate | Grand Mage | blunt and commanding | Orders her to heal him immediately. |
 | 천주 | 대술사 | master to servant | you | commanding and authoritative | Addresses her through mind-voice, ordering her to report, raise her head, and depart. |
 | 대술사 | 천주 | servant to master | Lord of Heaven | extremely deferential | Uses reverent titles and self-abasing language while reporting and pleading. |
+| 현천진인 | 사마표 | Kongtong Sect Leader confronting the son of a man he believes betrayed the survivors | Sama family boy | formal, then cold and severe | Initially addresses him as 도우, then shifts to 사마가의 아해야 before demanding that he bring his father. |
