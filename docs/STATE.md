@@ -1,20 +1,20 @@
 # Translation State
 
-- Last completed: 1166
-- Next chapter: 1167
-- Current block: 1165–1169 (2/5)
-- Latest translation: `translations/1166.md`
-- Latest summary: `summaries/beats/1166.md`
-- Safe profiles through: chapter 1166
+- Last completed: 1167
+- Next chapter: 1168
+- Current block: 1165–1169 (3/5)
+- Latest translation: `translations/1167.md`
+- Latest summary: `summaries/beats/1167.md`
+- Safe profiles through: chapter 1167
 
 ## Current Block
 
-- Jin Taekyung breaks through Morgoth’s layered defensive magic, but Morgoth’s gravity and successive spells drive him into a battle of attrition. Jin burns away Morgoth’s ice, lightning, and thorny vines with Fire Dragon’s Single Tail, reaching the brink of Great Completion. Morgoth catches him with gravity and vines, then fires Dragon Breath to erase him. As the blast arrives, Jin enters No-self, his Fire Dragon Divine Spear reaches Great Completion, and he perceives the world with the Mind’s Eye before lifting his spear.
+- Lost in Trance, Jin reads the flow of Morgoth’s Dragon Breath and deflects it with White Flame, then summons an iron spear to pierce the cores of the spells aimed at him. Magic Johnson’s Hell Fire is stopped by Morgoth’s Anti Magic, but the resulting opening lets Jin escape the surrounding gravity and charge through the Breath. Jin uses the Fire Dragon Divine Spear’s second form, Heavenly Strike, to split the Dragon’s Breath.
+- Morgoth attacks Jin in the air and realizes that his foreleg still bears the unhealed wound left by the Skeleton King. Jin’s spear strikes that wound; the result is not shown.
 
 ## Open Questions
 
-- Did Jin survive Morgoth’s Dragon Breath, and can he counterattack?
-- What will Jin perceive or do through the Mind’s Eye while in No-self?
+- What is the outcome of Jin and Morgoth’s clash?
 
 ## Exceptional Decision
 
