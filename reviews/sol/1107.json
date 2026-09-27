@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "The card the Blood Lord had kept hidden until the very end—now stronger than before, and more cunning than he was powerful.",
+      "defect": "The comparison applies to the Blood Lord, not his hidden card. The source says his planning had grown even sharper than his strength.",
+      "id": "F01",
+      "rationale": "강해지고 and 치밀해진 both describe 혈주.",
+      "replacement": "The card the Blood Lord had kept hidden until the very end. He had grown stronger than before, and his planning had grown sharper still.",
+      "severity": "major",
+      "source": "과거보다 더욱더 강해지고, 강해진 것 이상으로 치밀해진 혈주가 마지막까지 숨겨 두었던 패가."
+    },
+    {
+      "confidence": 0.97,
+      "current": "And at the last moment, as that dreadful heat was about to devour everything in its path, a streak of light passed through the Black Ghost like an apparition.",
+      "defect": "The streak sweeps past the Black Ghost; it does not pass through it like something intangible.",
+      "id": "F02",
+      "rationale": "흑귀를 스쳐 지나간 describes a swift passage past the Black Ghost; the ensuing cut is physical.",
+      "replacement": "And at the last moment, as that dreadful heat was about to devour everything in its path, a streak of light swept past the Black Ghost like an apparition.",
+      "severity": "critical",
+      "source": "그 끔찍한 열기가 막아서는 모든 것을 집어삼키려던 마지막 순간, 마치 환영(幻影)처럼 흑귀를 스쳐 지나간 한 줄기의 섬광도 함께."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Until the moment the massive flames erupting from the spearhead devoured the space.\n\nUntil a streak of light shot from somewhere, passing through the Black Ghost that had been ordered to stand between Jin Taekyung and the Blood Lord.",
+      "defect": "The first “Until” makes the flames a separate point at which the plan fails. The disruption is the streak arriving as the flames erupt. “Passing through” also changes the streak’s physical path.",
+      "id": "F03",
+      "rationale": "그 순간 locates the streak’s arrival at the eruption; 전까지는 refers to the streak passing the Black Ghost, not to the flames.",
+      "replacement": "As massive flames erupted from the spearhead and swallowed the space, a streak of light flew in from somewhere and swept past the Black Ghost that, following its orders, had moved between Jin Taekyung and the Blood Lord.",
+      "severity": "critical",
+      "source": "창날을 따라 터져 나온 거대한 화염이 공간을 집어삼킨 그 순간.\n\n어디선가 날아든 섬광이, 주어진 명령에 따라 진태경과 혈주 사이를 가로막은 흑귀를 스쳐 지나가기 전까지는."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Staring blankly at the scene, stunned as if the world had stopped, the Blood Lord remembered a face he’d long since forgotten.\n\nSomeone who’d taken one of his arms in the past—someone who looked a great deal like this person, yet had vanished from the battlefield so pointlessly that he couldn’t imagine them having inherited that man’s legacy.",
+      "defect": "The remembered person resembles the man who took the Blood Lord’s arm; he is not himself identified as the one who took it. “Long since forgotten” also changes a momentary lapse of memory.",
+      "id": "F04",
+      "rationale": "닮아 있는 distinguishes the remembered man from the one who took the arm; 잠시 잊고 있던 means briefly forgotten.",
+      "replacement": "Staring blankly at the scene, stunned as if the world had stopped, the Blood Lord remembered a face he’d momentarily forgotten.\n\nThe man looked remarkably like the one who had taken his arm, yet had vanished from the battlefield so anticlimactically that he’d hardly seemed worthy of inheriting that man’s teachings.",
+      "severity": "critical",
+      "source": "마치 세상이 멈춘 듯한 충격 속, 멍하니 그 광경을 바라보던 혈주의 머릿속에서 잠시 잊고 있던 한 사람의 얼굴이 떠올랐다.\n\n과거 그의 한쪽 팔을 앗아 간 누군가의 모습과 퍽 닮아 있는, 그런 자의 진전을 이었다고는 생각되지 않을 정도로 어느샌가 허무하게 전장에서 모습을 감추었던 그를."
+    }
+  ],
+  "summary": "The draft changes the Black Ghost’s interception and confuses the identity of the person the Blood Lord remembers.",
+  "version": 1
+}
