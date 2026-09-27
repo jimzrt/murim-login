@@ -1,20 +1,21 @@
 # Translation State
 
-- Last completed: 1169
-- Next chapter: 1170
-- Current block: 1165–1169 (5/5)
-- Latest translation: `translations/1169.md`
-- Latest summary: `summaries/beats/1169.md`
-- Safe profiles through: chapter 1169
+- Last completed: 1170
+- Next chapter: 1171
+- Current block: 1170–1174 (1/5)
+- Latest translation: `translations/1170.md`
+- Latest summary: `summaries/beats/1170.md`
+- Safe profiles through: chapter 1170
 
 ## Current Block
 
-- Humanity rallies as Jin returns from the sky after defeating Morgoth. System notices register a new Fire Dragon Divine Spear form, Open Heaven, improvements to his martial arts, and level-ups that heal his injuries. His Fire Dragon Armor is destroyed, and he is left mentally exhausted. Morgoth, gravely wounded with his Dragon Heart exposed, tells Jin that he spent millennia seeking God and now believes Jin is chosen by God. The Skeleton King’s head appears in Jin’s arms as Morgoth repeats that claim.
+- Morgoth tells Jin that he may be chosen by God, prompting Jin to confront the burdens he has carried and recognize that he has grown to bear them. Jin recalls that others—including the Doppelganger, the Bow Saint, the Martial God, and the System—have called him the chosen one, but says it does not matter who chose him: he will keep going and hopes to survive alongside his allies. Morgoth explains that humans are driven by desire and change, then reveals he returned the Skeleton King to help Jin become stronger and make what comes next more interesting. As Jin asks why, Morgoth notices a mysterious object at Jin’s neck and senses a trace of the one he sought. A streak of light shoots toward Morgoth’s Dragon Heart.
 
 ## Open Questions
 
 - Is Jin truly chosen by God, and what does that mean?
 - What will happen to Morgoth and the Skeleton King?
+- What is the object at Jin’s neck, and whose trace did Morgoth recognize?
 
 ## Exceptional Decision
 
