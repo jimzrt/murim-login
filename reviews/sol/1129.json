@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Who do you think you are, calling me by such a lowly name? Can you not see this radiant crown?”",
+      "defect": "The Skeleton King’s contemptuous address to Jin as an insignificant human is omitted, and 천박한 describes the nickname as vulgar, not lowly.",
+      "id": "F01",
+      "rationale": "하찮은 인간 주제에 establishes the speaker’s disdain; 천박한 이름 condemns the name’s vulgarity.",
+      "replacement": "“A mere human like you dares call me by such a vulgar name? Can’t you see this radiant crown?”",
+      "severity": "major",
+      "source": "‘하찮은 인간 주제에 이 몸을 그따위 천박한 이름으로 부르다니. 네놈은 이 찬란한 왕관이 보이지 않는 것이냐?’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I’d secretly believed that Golgoli—or rather, the Skeleton King—could answer the question that had haunted me for so long.",
+      "defect": "The narration uses 골골이, whose binding rendering is “Bones”; Golgoli renders the different form 골골 used in direct address.",
+      "id": "F02",
+      "rationale": "The supplied glossary distinguishes 골골이 from 골골.",
+      "replacement": "I’d secretly believed that Bones—or rather, the Skeleton King—could answer the question that had haunted me for so long.",
+      "severity": "minor",
+      "source": "골골이, 아니 스켈레톤 킹이라면 내 오랜 의문을 해결해 줄 수 있으리라고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A voice spoke from behind me without warning. I instinctively twisted away and retreated a few steps, fixing my gaze on the uninvited guest standing there.",
+      "defect": "The draft attaches “a few steps” to Jin’s retreat instead of the distance to the intruder, and omits the absence of any sign of someone’s presence.",
+      "id": "F03",
+      "rationale": "몇 걸음 밖에 describes where the intruder stands; 인기척도 없이 describes how undetected his presence was.",
+      "replacement": "A voice came from behind me without any hint of someone’s presence. I instinctively twisted away and retreated, fixing my gaze on the uninvited guest standing only a few steps away.",
+      "severity": "major",
+      "source": "인기척도 없이 뒤에서 들려온 목소리에, 본능적으로 몸을 비틀며 물러난 나는 몇 걸음 밖에 우뚝 서 있는 불청객을 주시했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "With a casual wave of his hand, as if blowing out a candle, the old man swept away the heat of the Flame Divine Palm. He gestured at me.",
+      "defect": "The draft omits that he dispels the technique without even forming Palm Force, then changes his eye signal into an unspecified gesture.",
+      "id": "F04",
+      "rationale": "수강조차 맺혀 있지 않은 specifies the mechanism and scale of his feat; 눈짓했다 specifies an eye signal.",
+      "replacement": "Without even forming Palm Force, the old man waved a hand and blew away the heat of the Flame Divine Palm as if snuffing out a candle. Then he signaled to me with his eyes.",
+      "severity": "major",
+      "source": "수강(手罡)조차 맺혀 있지 않은 손짓으로, 마치 촛불을 끄듯 화염신장의 열기를 날려 버린 노인이 나를 향해 눈짓했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Why was the amusement park I’d been promised a trip to if I got a perfect score on this week’s spelling test blazing on the TV screen?",
+      "defect": "“This week’s” adds a schedule the source does not give.",
+      "id": "F05",
+      "rationale": "이번 identifies the particular test, not the week it takes place.",
+      "replacement": "Why was the amusement park I’d been promised a trip to if I got a perfect score on my spelling test blazing on the TV screen?",
+      "severity": "minor",
+      "source": "이번 받아쓰기 시험에서 백 점을 맞으면 가기로 했었던 놀이공원이 왜 TV 화면 속에서 활활 타오르고 있는지."
+    }
+  ],
+  "summary": "The draft preserves the scene’s main events but misses a technique detail, changes the intruder’s position, and drops a character’s contemptuous address.",
+  "version": 1
+}

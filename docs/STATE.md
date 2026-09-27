@@ -1,23 +1,21 @@
 # Translation State
 
-- Last completed: 1128
-- Next chapter: 1129
-- Current block: 1125–1129 (4/5)
-- Latest translation: `translations/1128.md`
-- Latest summary: `summaries/beats/1128.md`
-- Safe profiles through: chapter 1128
+- Last completed: 1129
+- Next chapter: 1130
+- Current block: 1125–1129 (5/5)
+- Latest translation: `translations/1129.md`
+- Latest summary: `summaries/beats/1129.md`
+- Safe profiles through: chapter 1129
 
 ## Current Block
 
-- Jin Taekyung reunites with the surviving Fire Dragon Pavilion members and learns that Hyuk Mujin is alive, though unconscious and badly injured. Mae Jonghak praises Mujin’s courage and tells Taekyung that the allied forces are fighting under Taekyung’s name.
-- Mae Jonghak explains that he persuaded the Seafaring King and the Green Forest Battle King to resist Dark Heaven, as in the Great Faction War. He tells Taekyung that people needed someone to believe in, and calls Taekyung a light who unites them beyond rank or formality.
-- As Taekyung’s remaining time runs down, he and Jeok Cheongang speak about meeting again after death. Taekyung asks Jeok to pass a message to his family in the realm of immortals if they ever meet. With one second left, Taekyung apologizes to his Master, and the world around him closes.
+- After apparently dying, Taekyung awakens in a boundless gray-white space and meets an old man who can read his thoughts. The man refuses to explain who he is or how he helped Taekyung, then attacks him. Taekyung still has his internal energy and martial techniques; the old man gives him a spear, and their fight begins.
 
 ## Open Questions
 
-- Did Taekyung survive when his countdown ended?
-- What favor was Jeok Cheongang about to ask of Taekyung?
-- What will happen to the battle in Xining?
+- Who is the old man, and has he met Taekyung before?
+- How did the old man help Taekyung, and what does he intend to begin?
+- What is the gray-white space, and what happens to Taekyung there?
 
 ## Exceptional Decision
 
