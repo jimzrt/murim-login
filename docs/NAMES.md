@@ -2521,3 +2521,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 위지휘사사 | **Regional Military Commission** | Qinghai military authority named in the chapter. |
 | 학운의 | **Hak Unui** | Kunlun Cloud Dragon; Hak Eui’s Junior Brother. |
 | 태군악 | **Tae Gunak** | Green Forest Battle King. |
+| 청화 | **Blue Flower** | Name on the flag of the Blue Flower Escort Bureau. |
