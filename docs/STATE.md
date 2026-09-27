@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 1112
-- Next chapter: 1113
-- Current block: 1110–1114 (3/5)
-- Latest translation: `translations/1112.md`
-- Latest summary: `summaries/beats/1112.md`
-- Safe profiles through: chapter 1112
+- Last completed: 1113
+- Next chapter: 1114
+- Current block: 1110–1114 (4/5)
+- Latest translation: `translations/1113.md`
+- Latest summary: `summaries/beats/1113.md`
+- Safe profiles through: chapter 1113
 
 ## Current Block
 
-- At the North Gate, the Dalai Lama recognizes Jeok Cheongang’s techniques and explains that the Potala Palace’s grudge began over two hundred years ago, when Songhak destroyed its forces after its monks interrupted his meal. The Palace later built its strength and allied with Dark Heaven to seek revenge against the Fire Gate Clan. Jeok exposes the Dalai Lama’s use of demonic power, then kills him while declaring that he will protect the Fire Gate Clan.
-- Jeok Cheongang and Perfected Being Hyeoncheon had both been gravely injured defending the North Gate. Hyeoncheon is still alive but barely breathing when Jeok calls out to him during the fight.
+- After learning that Jeong Hogun and many defenders died protecting others, Jin Taekyung suppresses his grief and self-blame, rises despite his grave injuries, and rallies those around him to keep fighting for the people sheltering in the Inner City. Cheongpung steadies himself and vows they will prevail as Taekyung’s Zaha Divine Technique flares and the battle continues.
+- The Blood Lord slaughters the defenders blocking the road to the Inner City, convinced that the Lord of Heaven’s rule will make might the only justice. As he prepares to continue, a sharp, dazzling flash stops his advance.
 
 ## Open Questions
 
 - Will Jin Taekyung survive his injuries, and can he receive treatment from the Divine Physician?
 - What is the Bow Saint hiding, and why did she accept the possibility of Taekyung’s death?
 - Can the South Gate hold against the Grand Mage and the four Black Ghosts?
-- Will the Blood Lord reach Taekyung before he can be treated?
+- Who or what stopped the Blood Lord’s advance?
 
 ## Exceptional Decision
 
