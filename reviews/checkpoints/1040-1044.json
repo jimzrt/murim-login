@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "not even half-formed,finally met the barrier between them.",
+      "defect": "Missing space after the comma.",
+      "id": "C01",
+      "rationale": "Repairs a visible reading-copy typo without changing the action.",
+      "replacement": "not even half-formed, finally met the barrier between them.",
+      "severity": "minor",
+      "source": "Chapter 1042, One Annihilation striking the barrier"
+    },
+    {
+      "confidence": 0.96,
+      "current": "> *I hear you two went through quite an ordeal.*",
+      "defect": "Recalled speech is italicized like a direct thought.",
+      "id": "C02",
+      "rationale": "The passage presents this as something the visitor said; speech takes curly double quotes.",
+      "replacement": "> “I hear you two went through quite an ordeal.”",
+      "severity": "minor",
+      "source": "Chapter 1044, Sima Gong’s first recalled line"
+    },
+    {
+      "confidence": 0.96,
+      "current": "> *This is a rare elixir I managed to acquire. Its effects rival Shaolin’s Great Restoration Pill. It will be more than enough to heal your Internal Injuries.*",
+      "defect": "Recalled speech is italicized like a direct thought.",
+      "id": "C03",
+      "rationale": "This is part of the visitor’s spoken offer, not either brother’s thought.",
+      "replacement": "> “This is a rare elixir I managed to acquire. Its effects rival Shaolin’s Great Restoration Pill. It will be more than enough to heal your Internal Injuries.”",
+      "severity": "minor",
+      "source": "Chapter 1044, Sima Gong’s recalled offer"
+    },
+    {
+      "confidence": 0.96,
+      "current": "> *This isn’t generosity. It’s a transaction. And if you accept it… not only will you settle an old grudge, you’ll help protect the Zhongnan Sect.*",
+      "defect": "Recalled speech is italicized like a direct thought.",
+      "id": "C04",
+      "rationale": "The narration explicitly says the visitor said this to the brothers.",
+      "replacement": "> “This isn’t generosity. It’s a transaction. And if you accept it… not only will you settle an old grudge, you’ll help protect the Zhongnan Sect.”",
+      "severity": "minor",
+      "source": "Chapter 1044, Sima Gong’s recalled transaction"
+    },
+    {
+      "confidence": 0.98,
+      "current": "> *How did it come to this?*",
+      "defect": "A remembered spoken question is formatted as a direct thought.",
+      "id": "C05",
+      "rationale": "The following sentence says their Junior Brother asked the question in a hollow voice.",
+      "replacement": "> “How did it come to this?”",
+      "severity": "minor",
+      "source": "Chapter 1044, recollection of the Wind-and-Cloud Sword Lord"
+    }
+  ],
+  "summary": "The reading copies and continuity state align on the unresolved Hell Fire attack. Actionable issues are one missing space and four recalled spoken lines formatted as thoughts.",
+  "version": 1
+}

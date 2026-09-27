@@ -1511,3 +1511,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 태을무정검 | 풍운검군 | Senior Brother to Zhongnan Sect Leader and Junior Brother | Junior Brother, Sect Leader | serious and restrained | Uses 장문 사제 while telling him the sect’s losses will worsen if the battle continues. |
 | 대마도사 | 진태경 | adversary_to_adversary | you | polite, teasing | She uses polite phrasing while taunting him and warning him not to overexert himself. |
 | 진태경 | 대마도사 | adversary_to_adversary | you bitch | insulting-casual | He curses at her while refusing to give up. |
+| 송일 | 황보엄 | Senior Brother to Junior Brother | Junior Brother | familiar and heated | Song Il calls Hwangbo Eom 사제. |
+| 황보엄 | 송일 | Junior Brother to Senior Brother | Senior Brother | familiar and dryly teasing | Hwangbo Eom calls Song Il 대사형. |

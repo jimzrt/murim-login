@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Even now, they hadn’t been able to let go of the grudge they held against the two Senior Brothers of the Fire Gate Clan.",
+      "defect": "Identifies Jeok Cheongang and Jin Taekyung as two Senior Brothers rather than Master and Disciple.",
+      "id": "F01",
+      "rationale": "The parenthetical 師弟 specifies a master–disciple pair.",
+      "replacement": "Even now, they hadn’t been able to let go of their grudge against the Fire Gate Clan’s Master and Disciple.",
+      "severity": "critical",
+      "source": "지금 이 순간에도 그들은, 열화문의 두 사제(師弟)에게 품었던 원한을 완전히 버리지 못하고 있었으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even if they didn’t kill the Fire Gate Clan, they had to inflict the same humiliation on them that they’d suffered.",
+      "defect": "Turns a revenge method short of death into a decision not to kill the Fire Gate Clan.",
+      "id": "F02",
+      "rationale": "그 방식이 죽음이 아니더라도 qualifies the form their revenge might take; it does not make the clan as a whole the object of a proposed killing.",
+      "replacement": "Even if their revenge stopped short of killing, they had to make the Fire Gate Clan suffer the same humiliation they had.",
+      "severity": "critical",
+      "source": "설령 그 방식이 죽음이 아니더라도, 그들이 겪은 것과 같은 수모를 열화문에 안겨 주어야 했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Though they’d made clear they refused to meet, the uninvited guest had insisted on facing them. The two Senior Brothers, unable to trust such unbelievable generosity, had refused—until the visitor offered them a single, irresistible line.",
+      "defect": "Adds a refusal of the offer before the visitor speaks; the only stated refusal was to meet him.",
+      "id": "F03",
+      "rationale": "The source says they doubted the generosity, then heard the visitor’s persuasive words. It does not say they rejected his offer at that point.",
+      "replacement": "Though they’d made clear they did not want to meet, the uninvited guest had secured an audience anyway. Seeing the two martial brothers distrust his almost unbelievable generosity, he said something they could not refuse.",
+      "severity": "critical",
+      "source": "만남을 거부하는 뜻을 밝혔음에도 끝끝내 대면한 불청객은, 도무지 믿을 수 없을 정도로 후한 호의를 의심하는 두 사형제에게 거부하지 못할 한마디를 던졌다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "To their youngest Junior Brother and the Disciples of their sect, who’d looked up to them as Senior Brothers despite their shortcomings.",
+      "defect": "Softens the younger members’ deferential service into admiration.",
+      "id": "F04",
+      "rationale": "섬겼던 conveys the respect and service owed to senior martial brothers, not merely looking up to them.",
+      "replacement": "To their youngest Junior Brother and the Disciples of their sect, who’d treated them as Senior Brothers despite how unworthy they were.",
+      "severity": "major",
+      "source": "못난 자신들을 사형으로 섬겼던 막내 사제와 사문의 제자들에게."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Their peaceful childhood, spent honing martial arts more than cultivating benevolence.",
+      "defect": "Drops the justice or moral-duty component of 인의 from the elders’ recollection of their priorities.",
+      "id": "F05",
+      "rationale": "인의 joins humane conduct with righteousness; the contrast establishes what they neglected before their later wrongdoing.",
+      "replacement": "Their peaceful childhood, spent honing their martial arts instead of cultivating compassion and justice.",
+      "severity": "major",
+      "source": "인의(人義)보다는 무공을 갈고 닦았던 평화로운 어린 시절을."
+    },
+    {
+      "confidence": 0.97,
+      "current": "His face was as cold as ever, but the veins standing out on his arms showed that he was fighting harder than ever before.",
+      "defect": "Locates the prominent veins on his arms when the source gives no location.",
+      "id": "F06",
+      "rationale": "The source specifies prominent veins as evidence of his exertion, but not where they appear.",
+      "replacement": "His face was as cold as ever, but his bulging veins showed that he was giving it more than ever before.",
+      "severity": "minor",
+      "source": "언제나처럼 냉막하기 그지없는 얼굴이었으나, 한껏 도드라진 핏줄은 그가 어느 때보다 전력을 다하고 있다는 증거였다."
+    }
+  ],
+  "summary": "Two scene facts change in the draft: the Fire Gate pair’s relationship and what the Zhongnan elders intended by their revenge. The draft also adds a refusal that the source does not state.",
+  "version": 1
+}
