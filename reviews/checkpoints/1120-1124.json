@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "A powerful, unidentified figure approaches.",
+      "defect": "The figure approaching the Inner City defenders in Chapter 1122 is identified as the Blood Lord. The unidentified black-robed man appears at the East Gate in Chapter 1120.",
+      "id": "C01",
+      "rationale": "Keeps the two figures and their locations distinct.",
+      "replacement": "The Blood Lord advances on the defenders.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.96,
+      "current": "An unidentified powerful figure approached the Inner City defenders; this block does not reveal his identity or what followed.",
+      "defect": "This places the unidentified man at the Inner City, though he stepped forward and attacked at the East Gate.",
+      "id": "C02",
+      "rationale": "Preserves the unresolved hook without conflating him with the Blood Lord.",
+      "replacement": "An unidentified black-robed man unleashed an attack at the East Gate; what happened to the defenders caught in it remains unknown.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The quest timer begins counting down from five minutes as Taekyung confronts the Blood Lord.",
+      "defect": "The quest timer starts at nine minutes, 59 seconds in Chapter 1123; it reaches five minutes when Taekyung confronts the Blood Lord.",
+      "id": "C03",
+      "rationale": "Corrects the timer’s starting point while retaining the confrontation milestone.",
+      "replacement": "The quest timer starts at nine minutes, 59 seconds and reaches five minutes when Taekyung confronts the Blood Lord.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity"
+    }
+  ],
+  "summary": "The reading copies show no clear cross-chapter drift. The checkpoint summary and active state have three actionable continuity errors.",
+  "version": 1
+}

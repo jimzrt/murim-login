@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Though their abilities differed, the three Supreme Peak masters’ perfect combined attack was enough to shake the entire Murim on the strength of their reputations alone.",
+      "defect": "The source says the three masters differ in the degree of their renown and that each name alone shakes the Murim. The draft instead makes their abilities differ and attributes that effect to their combined attack.",
+      "id": "F01",
+      "rationale": "각각의 명성 refers to each master’s individual reputation; the combined attack is a separate fact.",
+      "replacement": "Though their renown varied, each of the three Supreme Peak masters could make the entire Murim tremble on the strength of his name alone. Together, they launched a perfect combined attack.",
+      "severity": "major",
+      "source": "비록 정도의 차이는 있을지언정, 각각의 명성만으로도 천하 무림을 떨어 울리는 세 초절정 고수의 완벽한 합공(合攻)."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had put everything into that strike.",
+      "defect": "“Everything” contradicts the immediately following statement that he spent one-third of his strength.",
+      "id": "F02",
+      "rationale": "The strike was made with great force, quantified as one-third of his power—not all of it.",
+      "replacement": "He had put tremendous power into that strike.",
+      "severity": "critical",
+      "source": "그만큼 전력을 다한 일격이었으니까.\n\n단 한 번의 공격으로 지닌 힘의 삼분지 일을 쏟아부었을 만큼."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It had erased every living thing within a radius of more than ten jang and turned the area into a hellscape where only death remained.",
+      "defect": "The draft states that the attack killed everything in its radius, although the three opponents survived. The source describes what the attack was powerful enough to do.",
+      "id": "F03",
+      "rationale": "The ending 만큼 continues the description of the strike’s magnitude, not an account of its actual casualties.",
+      "replacement": "It had been powerful enough to erase every living thing within a radius of over ten jang and turn the area into a hellscape where only death remained.",
+      "severity": "critical",
+      "source": "반경 십여 장에 존재하는 모든 생명체를 지우고, 죽음만이 내려앉은 지옥도(地獄道)로 변모시킬 만큼."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Through that very hand, the wound in which, for some reason, the Blood Lord still hadn’t healed.",
+      "defect": "The English is ungrammatical and makes the Blood Lord the agent of healing rather than describing a wound that has not healed.",
+      "id": "F04",
+      "rationale": "The source identifies the hand by its still-unhealed wound as the spear passes through it.",
+      "replacement": "Past that very hand, whose wound, for some reason, had yet to heal.",
+      "severity": "minor",
+      "source": "어째서인지 아직까지도 상처가 치유되지 않은, 바로 그 손을 지나."
+    }
+  ],
+  "summary": "Four actionable findings: two changes to the attack’s scale and outcome, one misattribution of the masters’ reputations, and one malformed injury description.",
+  "version": 1
+}
