@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "the woman known as the Grand Magecould only be utterly perfect.",
+      "defect": "Missing space joins the title and verb.",
+      "id": "C01",
+      "rationale": "Restores the established title and corrects the reading-copy formatting.",
+      "replacement": "the woman known as the Grand Mage could only be utterly perfect.",
+      "severity": "minor",
+      "source": "Chapter 1045, opening explanation of magic"
+    }
+  ],
+  "summary": "The reading copies, summary, and active state are consistent. One spacing error is actionable.",
+  "version": 1
+}

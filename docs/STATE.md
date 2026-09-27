@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 1048
-- Next chapter: 1049
-- Current block: 1045–1049 (4/5)
-- Latest translation: `translations/1048.md`
-- Latest summary: `summaries/beats/1048.md`
-- Safe profiles through: chapter 1048
+- Last completed: 1049
+- Next chapter: 1050
+- Current block: 1045–1049 (5/5)
+- Latest translation: `translations/1049.md`
+- Latest summary: `summaries/beats/1049.md`
+- Safe profiles through: chapter 1049
 
 ## Current Block
 
-- The Bow Saint and Jeok Cheongang badly wound the Blood-Sword Demon Lord, but Sima Gong stabs his ankle before he can counterattack. Jeok’s Flame Divine Palm sends him crashing onto a hillside near the Grand Mage. As the Grand Mage begins healing him, Jin Taekyung makes a last-ditch spear attack that her barrier deflects; he collapses, and the Grand Mage’s fading healing light has stabilized him instead. The Blood-Sword Demon Lord remains gravely injured, and the battle continues.
+- The Grand Mage reveals that the Lord of Heaven ordered the Blood-Sword Demon Lord’s disposal after his role was fulfilled. She has healed Jin Taekyung enough to regain consciousness and urges him to kill the Blood-Sword Demon Lord and become stronger; Jin is still weak and bound as the battle continues below the hill.
 
 ## Open Questions
 
 - What are the identity and purpose of the Lord of Heaven?
+- Why did the Lord of Heaven order the Blood-Sword Demon Lord’s disposal?
 - Did Dark Heaven cause the Great Faction War?
 - Who are the white-robed mages, and what is their purpose?
 - How were the former Demonic Cult fiends made into Black Ghosts?
-- Why did the Grand Mage’s healing light stabilize Jin Taekyung rather than heal the Blood-Sword Demon Lord?
 
 ## Exceptional Decision
 
