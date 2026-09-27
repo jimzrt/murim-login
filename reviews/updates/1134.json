@@ -1,0 +1,103 @@
+{
+  "chapter": 1134,
+  "files": {
+    "characters/Baek Yeon.md": "02a27386e72e6d968db918fb50b16d9c0d4eac82b50279ef686ea04587e5e2dd",
+    "characters/Blood Lord.md": "38342aadc5266713e700dc97248addbcb5650a71463b171e21e94055210b11be",
+    "characters/Divine Physician.md": "cbe75d6b40449e40472bbafd4873a0700cf02b832635cc430b72e29a1652369e",
+    "characters/Hak Eui.md": "1563f95b2140ea041ec825cc7a399cd05f677520e124dc6126894c446113df7a",
+    "characters/Jeok Cheongang.md": "984584e96dfecbb682a0bf6317318b1fe54a29a4eac1d713b9136f0369b5b46e",
+    "characters/Jin Taekyung.md": "0c82f5f997f425a08f64e2ac585fb9179968be0d20a9fe02bb8e0ead1e13dd10",
+    "characters/Jintae.md": "219769ca21f3ab614879b4b6b1c0876e077aba0681852e84a1d4ec19647b7df7",
+    "characters/Ju Gongsan.md": "f1e7efb9dcabd31de167ecd054bf37a4dc2ba4d58c650e3af9cc6a337beb08ac",
+    "characters/Ma Sanbao.md": "7c538152fc6688fd9517501955ed5c9fc1ffd6f3bd654700fe0837e3a519308d",
+    "characters/Mae Jonghak.md": "273352dce0dc2c629b4bf5b4995278e9d4ee00ee65b28c3eade8c2a052258315",
+    "characters/Zhuge Feng.md": "1a5e0d744bc7a32acdad77c5d705dc4525c9a8e416a18fee109ec8c4bb834da4",
+    "docs/ADDRESS.md": "a2d0b132c6b5c100792a4fa466bc2deeab7921a8134b7206d6d4a5220049871a",
+    "docs/CONTEXT.json": "8d80e10fd4d7a7c5704c608c4b8f48df31428926897a7fe879b7c86774db167b",
+    "docs/NAMES.md": "a748a23dd04ae8f0d0c8056ba9e2d3b28b4a655e79077f108552bb0f78f6c332",
+    "docs/STATE.md": "d4beb763042517266de537d6355b0cdfd2f78a1369c98b88f5a31c05be21d0c2",
+    "summaries/beats/1134.md": "c0a4562babc66d385c65f0b297151cd910126014bf293f033b0e7236a6b4f080"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "제갈풍",
+        "kinship": "hostile opponents",
+        "normal_address": "you; bastard",
+        "notes": "Ma Sanbao threatens to tear Zhuge Feng and his family apart.",
+        "speaker": "마삼보",
+        "speech_level": "insulting and threatening"
+      },
+      {
+        "addressee": "마삼보",
+        "kinship": "former imperial colleagues; Baek Yeon addresses a former servant of the throne",
+        "normal_address": "Eunuch Ma",
+        "notes": "Baek Yeon recognizes him as 마 태감.",
+        "speaker": "백연",
+        "speech_level": "formal title"
+      },
+      {
+        "addressee": "마삼보",
+        "kinship": "Emperor addressing his former servant and traitor",
+        "normal_address": "traitor",
+        "notes": "The Son of Heaven asks whether Ma Sanbao enjoyed his rebellion.",
+        "speaker": "천자",
+        "speech_level": "familiar and imperious"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Ma Sanbao and roughly one thousand of his followers survived the ambush in a remote Henan valley; he was unable to move when Zhuge Feng, Baek Yeon, and the Son of Heaven confronted him.",
+        "Zhuge Feng had prepared a trap at the Magic Formation’s destination; about two thousand of Ma Sanbao’s troops died in the ambush.",
+        "Ma Sanbao had planned to divide his forces between Henan and Shanxi, intending to seize both provinces."
+      ],
+      "plot": [
+        "Ma Sanbao assembled roughly five thousand troops, including three thousand monsters, and changed his plan to target Henan and Shanxi in two groups. He sent about three thousand followers through the Grand Mage’s Magic Formation, but an ambush prepared by Zhuge Feng killed roughly two thousand before they could begin their advance. Unable to move, Ma Sanbao recognized Zhuge Feng and threatened him.",
+        "Baek Yeon appeared with the Son of Heaven. The Emperor confronted Ma Sanbao as a traitor; the chapter ends with Ma groaning, without establishing the outcome of the confrontation."
+      ],
+      "translation_decisions": [
+        "Render 강시술사 as “corpse sorcerer” and 마법진 as “Magic Formation.”"
+      ]
+    },
+    "chapter": 1134,
+    "context": {
+      "active_continuity": [
+        "The Helper gave Taekyung an unidentified gift and chose to remain in the enduring gray-white space, awaiting an unknown end.",
+        "Ma Sanbao and roughly one thousand followers survived Zhuge Feng’s ambush in a remote Henan valley; Baek Yeon and the Son of Heaven confronted him while he was unable to move."
+      ],
+      "continuity_sources": [
+        1133,
+        1134
+      ],
+      "open_questions": [
+        "What did the Helper give Taekyung?",
+        "What will happen to Ma Sanbao after the Son of Heaven confronts him?"
+      ],
+      "safe_through": 1134,
+      "temporary_decisions": [],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "corpse sorcerer",
+        "korean": "강시술사",
+        "notes": "A sorcerer capable of leading an army using corpses."
+      },
+      {
+        "english": "Magic Formation",
+        "korean": "마법진",
+        "notes": "The formation that transports Ma Sanbao and his followers."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Relationships:** Ma Sanbao served the Eastern Heaven Demon Lord as his disciple and now serves the Lord of Heaven; he regards Jin Taekyung as an adversary who will make a captured operative betray him.",
+        "path": "characters/Ma Sanbao.md",
+        "replacement": "- **Relationships:** Ma Sanbao served the Eastern Heaven Demon Lord as his disciple and now serves the Lord of Heaven; he was once an imperial servant before rebelling against the Son of Heaven."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

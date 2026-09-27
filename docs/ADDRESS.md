@@ -1570,3 +1570,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 태군악 | 청허자 | former fellow Daoists, now estranged | fellow Daoist | familiar and reproachful | Tae Gunak recalls that Cheongheoja once called him a fellow Daoist. |
 | 적천강 | 혈주 | hostile_opponents | you | blunt and threatening | Jeok Cheongang blocks the Blood Lord’s final attack on Taekyung and rebukes him. |
 | 노인 | 진태경 | older opponent to younger opponent; no family relation established | you | calm, familiar speech | The old man addresses Taekyung as 자네 while testing him. |
+| 마삼보 | 제갈풍 | hostile opponents | you; bastard | insulting and threatening | Ma Sanbao threatens to tear Zhuge Feng and his family apart. |
+| 백연 | 마삼보 | former imperial colleagues; Baek Yeon addresses a former servant of the throne | Eunuch Ma | formal title | Baek Yeon recognizes him as 마 태감. |
+| 천자 | 마삼보 | Emperor addressing his former servant and traitor | traitor | familiar and imperious | The Son of Heaven asks whether Ma Sanbao enjoyed his rebellion. |

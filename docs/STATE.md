@@ -1,20 +1,21 @@
 # Translation State
 
-- Last completed: 1133
-- Next chapter: 1134
-- Current block: 1130–1134 (4/5)
-- Latest translation: `translations/1133.md`
-- Latest summary: `summaries/beats/1133.md`
-- Safe profiles through: chapter 1133
+- Last completed: 1134
+- Next chapter: 1135
+- Current block: 1130–1134 (5/5)
+- Latest translation: `translations/1134.md`
+- Latest summary: `summaries/beats/1134.md`
+- Safe profiles through: chapter 1134
 
 ## Current Block
 
-- Jin Taekyung awakens after his heart and innate qi recover, and the allied forces celebrate their victory over the Blood Lord and Grand Mage. Seeing bone birds fly west, he realizes Ma Sanbao has remained at Mount Kunlun to prepare a strike through the Moving Formation against the Central Plains. Before Taekyung can respond, Mae Jonghak uses a Pressure-Point Strike to make him rest. At Kunlun, Ma Sanbao receives the birds’ report and sets out for the Central Plains with his subordinates.
+- Ma Sanbao assembled roughly five thousand troops, including three thousand monsters, and changed his plan to target Henan and Shanxi in two groups. He sent about three thousand followers through the Grand Mage’s Magic Formation, but an ambush prepared by Zhuge Feng killed roughly two thousand before they could begin their advance. Unable to move, Ma Sanbao recognized Zhuge Feng and threatened him.
+- Baek Yeon appeared with the Son of Heaven. The Emperor confronted Ma Sanbao as a traitor; the chapter ends with Ma groaning, without establishing the outcome of the confrontation.
 
 ## Open Questions
 
 - What did the Helper give Taekyung?
-- Will Ma Sanbao’s attack through the Moving Formation reach the Central Plains?
+- What will happen to Ma Sanbao after the Son of Heaven confronts him?
 
 ## Exceptional Decision
 

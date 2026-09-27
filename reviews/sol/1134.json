@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The mountain lord[^1] who had ruled Mount Kunlun only a month ago lowered his now-larger-than-life body to greet his master.",
+      "defect": "“Larger-than-life” is figurative; the mountain lord’s body has physically grown larger than it was when he was alive.",
+      "id": "F01",
+      "rationale": "살아 있을 적보다도 거대해진 explicitly compares his present size with his size while alive.",
+      "replacement": "The mountain lord[^1] who had ruled Mount Kunlun only a month ago bent his body, now larger than it had been in life, to greet his master.",
+      "severity": "major",
+      "source": "살아 있을 적보다도 거대해진 몸뚱어리를 굽혀 자신의 주인을 맞이했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Along with thousands of human demons who had, before then, surrounded Taiqing Hall—the very symbol of the Kunlun Sect—without leaving a single gap.",
+      "defect": "“Before then” makes the encirclement sound finished; the thousands are surrounding the hall at this moment.",
+      "id": "F02",
+      "rationale": "둘러싸고 있던 describes their ongoing position around the hall.",
+      "replacement": "Along with thousands of human demons who now surrounded Taiqing Hall—the very symbol of the Kunlun Sect—without leaving a single gap.",
+      "severity": "major",
+      "source": "어느덧 곤륜파의 상징과 같은 태청전(太淸殿)을 빈틈없이 둘러싸고 있던, 수천의 인마(人魔)와 함께."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At the deaths of fully two thousand of their comrades, felled before they could take even one step into Henan.",
+      "defect": "They have already arrived in Henan; they die before taking their first step there, not before entering it.",
+      "id": "F03",
+      "rationale": "The formation has delivered them to the destination; 하남에서의 means “in Henan.”",
+      "replacement": "At the deaths of fully two thousand of their comrades, felled before they could take their first step in Henan.",
+      "severity": "major",
+      "source": "그가 할 수 있는 일이라곤, 그저 멍하니 바라보는 것뿐이었다.\n\n하남에서의 첫발을 떼기도 전에 쓰러진, 무려 이천에 달하는 아군들의 죽음을."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He clicked his tongue, then added:",
+      "defect": "Clicking his tongue suggests disapproval; he smacks his lips as he surveys the survivors.",
+      "id": "F04",
+      "rationale": "입맛을 다시며 describes a lip-smacking gesture, preserving his unsettling relish.",
+      "replacement": "He smacked his lips, then added:",
+      "severity": "major",
+      "source": "살아남은 그의 수하들을 천천히 훑어본 중년인이 입맛을 다시며 덧붙였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "For now, even understanding the two words filling his blank mind was more than he could manage.\n\n*An ambush……!*\n\nYes, it was an ambush.\n\nOne laid with extraordinary care.",
+      "defect": "He can barely process the realization, rather than failing to understand it. 함정 is a trap, specifically the one laid in the formation, not an ambush.",
+      "id": "F05",
+      "rationale": "이해하는 것만으로도 벅찼으니까 conveys the effort of grasping the realization; the repeated 함정 identifies the mechanism revealed immediately afterward.",
+      "replacement": "For now, he could barely process the word filling his blank mind.\n\n*A trap…!*\n\nYes, it was a trap.\n\nOne laid with extraordinary care.",
+      "severity": "major",
+      "source": "지금 당장은 새하얗게 물든 뇌리를 가득 채운 두 글자를 이해하는 것만으로도 벅찼으니까.\n\n‘함정……!’\n\n그래, 이건 함정이었다.\n\n그것도 아주 치밀하게 준비한."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I do. I’ll remember you—until after today.”",
+      "defect": "The draft reverses the timing of Ma Sanbao’s threat: he has remembered Zhuge Feng until now and expects to forget him after today.",
+      "id": "F06",
+      "rationale": "기억하고 있었지 is retrospective; 오늘 이후로는 … 잊히겠지만 states that Zhuge Feng will leave his mind after today.",
+      "replacement": "“I do. I remembered you. After today, though, I’ll forget you.”",
+      "severity": "critical",
+      "source": "“그래. 기억하고 있었지. 오늘 이후로는 머릿속에서 잊히겠지만.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "No—at the age-old criminal who had dared to overthrow the imperial household.",
+      "defect": "“Age-old criminal” suggests the criminal is old; 천고 describes the magnitude of his treason.",
+      "id": "F07",
+      "rationale": "천고의 죄인 condemns him as a criminal whose offense will be remembered for ages.",
+      "replacement": "No—at the criminal for the ages who had dared to overthrow the imperial household.",
+      "severity": "minor",
+      "source": "천고의 죄인을."
+    }
+  ],
+  "summary": "Several errors alter the arrival, the trap, and Ma Sanbao’s reactions.",
+  "version": 1
+}

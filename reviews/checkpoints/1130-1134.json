@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The powerful jiangshi sorcerer who carried on the Maoshan Sect’s legacy",
+      "defect": "Uses “jiangshi sorcerer” instead of the packet’s established “corpse sorcerer.”",
+      "id": "C01",
+      "rationale": "Chapter 1134 and the checkpoint translation decisions use “corpse sorcerer” for the same role.",
+      "replacement": "The powerful corpse sorcerer who carried on the Maoshan Sect’s legacy",
+      "severity": "minor",
+      "source": "Chapter 1133, Taekyung recalls Ma Sanbao"
+    },
+    {
+      "confidence": 0.99,
+      "current": "a certain jiangshi sorcerer who carried on the Maoshan Sect’s legacy",
+      "defect": "Repeats the terminology drift.",
+      "id": "C02",
+      "rationale": "Keeps Ma Sanbao’s designation consistent across the reading copies.",
+      "replacement": "a certain corpse sorcerer who carried on the Maoshan Sect’s legacy",
+      "severity": "minor",
+      "source": "Chapter 1133, Mount Kunlun scene"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Ma was unable to move when Zhuge Feng, Baek Yeon, and the Son of Heaven confronted him. His fate is unresolved.",
+      "defect": "Extends Ma’s initial inability to move through the entire confrontation, although he subsequently turns his head and draws up his energy.",
+      "id": "C03",
+      "rationale": "Preserves the immediate shock without asserting continued immobility.",
+      "replacement": "Ma initially stood unable to move after the ambush, then confronted Zhuge Feng, Baek Yeon, and the Son of Heaven. His fate is unresolved.",
+      "severity": "minor",
+      "source": "Checkpoint Continuity, final bullet"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Baek Yeon and the Son of Heaven confronted him while he was unable to move.",
+      "defect": "Carries the same overstatement into active state.",
+      "id": "C04",
+      "rationale": "Avoids treating Ma’s initial inability to move as his condition throughout the confrontation.",
+      "replacement": "Baek Yeon and the Son of Heaven confronted him after the ambush; his fate remains unresolved.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity second entry"
+    }
+  ],
+  "summary": "Two terminology inconsistencies in Chapter 1133 and an overstatement in the checkpoint continuity and active state. No other actionable drift found.",
+  "version": 1
+}
