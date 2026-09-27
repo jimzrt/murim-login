@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 1175
-- Next chapter: 1176
-- Current block: 1175–1179 (1/5)
-- Latest translation: `translations/1175.md`
-- Latest summary: `summaries/beats/1175.md`
-- Safe profiles through: chapter 1175
+- Last completed: 1176
+- Next chapter: 1177
+- Current block: 1175–1179 (2/5)
+- Latest translation: `translations/1176.md`
+- Latest summary: `summaries/beats/1176.md`
+- Safe profiles through: chapter 1176
 
 ## Current Block
 
-- Jin Taekyung tells his allies that Demon King Asmodeus is alive in another world under the name Lord of Heaven. Choi Minwoo and the others accept Jin’s account and trust him. After sharing a final evening with his friends and comrades, Jin promises to return and logs in.
-- The Lord of Heaven awakens with renewed strength. The Grand Mage confirms that the process is not yet complete, but the Lord of Heaven says it will be, and that the course already set in motion cannot be stopped. The chapter ends before the Lord of Heaven gives the Grand Mage a command.
+- Jin Taekyung’s return to Murim is unusually violent and prolonged, but he arrives safely and reunites with Jeok Cheongang. Jeok tells him that nearly a month passed in Murim during Taekyung’s less-than-week-long absence in the modern world.
+- The group has reached the Taklamakan Desert in Xinjiang. Jeok reports that, despite severe and erratic weather, they have encountered no Dark Heaven followers, monsters, or mounted bandits. Taekyung and Jeok realize that the surrounding land contains no living things.
 
 ## Open Questions
 
 - What command will the Lord of Heaven give the Grand Mage?
 - What remains to be completed, and what will happen when it is completed?
 - What is Alpha, and what does its awakening mean?
-- What choices will Jin make in the new Main Quest, and what consequences will follow?
+- Why does the land around Taekyung’s group in Xinjiang contain no living things?
 - Why is Cheon Taemin still alive despite the capsule’s stated permanent binding to its Player until death?
 
 ## Exceptional Decision
