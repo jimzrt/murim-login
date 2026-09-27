@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 1104
-- Next chapter: 1105
-- Current block: 1100–1104 (5/5)
-- Latest translation: `translations/1104.md`
-- Latest summary: `summaries/beats/1104.md`
-- Safe profiles through: chapter 1104
+- Last completed: 1105
+- Next chapter: 1106
+- Current block: 1105–1109 (1/5)
+- Latest translation: `translations/1105.md`
+- Latest summary: `summaries/beats/1105.md`
+- Safe profiles through: chapter 1105
 
 ## Current Block
 
-- At the western breach, Dark Heaven followers keep chanting their creed even as they are cut down, terrifying the defenders. The Blood Lord sends hundreds of weapons toward them, but Jin Taekyung blocks the attack with a wall of fire. The two face off: both are injured, and Taekyung taunts the Blood Lord about the Lord of Heaven’s interest in him. The Blood Lord cannot deny the suspicion, then absorbs blood from nearby corpses and attacks; the chapter ends in a flash of red.
-- The Blood Lord calls Taekyung the Blazing Flame Divine Dragon. Taekyung remains standing despite his injuries, and others begin to rise behind him.
+- A blood-red blast erupts at the West Gate, and its shock wave reaches the North Gate. Jeok Cheongang realizes the Blood Lord’s power has exceeded his expectations and fears for Taekyung, who chose to face the enemy at the West Gate. Before Jeok can go to him, the Dalai Lama arrives at the North Gate with Potala Palace forces and declares that the Fire Gate Clan will end there that day.
+- Jeok is torn between rushing to Taekyung and defending the North Gate. Remembering Taekyung’s resolve not to turn away from fear, he faces the Dalai Lama, the Twelve Secret Monks, two Black Ghosts, and the advancing army, proclaiming himself the Fire King and eighteenth Sect Leader of the Fire Gate Clan.
 
 ## Open Questions
 
