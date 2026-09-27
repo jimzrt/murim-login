@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is largely faithful, with three minor details changed or omitted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 33, 1st sentence",
+      "current": "stepped forward",
+      "defect": "The source says she extended her foot, not that she stepped forward. This changes her physical action.",
+      "replacement": "thrust out a foot",
+      "rationale": "The Korean says 발을 뻗었다, which describes extending a foot or leg; the next sentence says her figure vanished.",
+      "confidence": 0.92
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 55",
+      "current": "churned the Beast Miao King’s insides",
+      "defect": "The English assigns the internal-energy effect to the Beast Miao King, while the source leaves the affected person unspecified.",
+      "replacement": "churned one person’s insides",
+      "rationale": "The source says 한 사람의 내부, “one person’s insides.” The accepted baseline preserves that ambiguity.",
+      "confidence": 0.84
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 309",
+      "current": "An immense energy surged through her body and gathered in her hand.",
+      "defect": "The translation omits that the energy is unprecedented.",
+      "replacement": "An immense, unprecedented energy surged through her body and gathered in her hand.",
+      "rationale": "The source describes the energy as 거대한 미증유의 기운: immense and unprecedented.",
+      "confidence": 0.95
+    }
+  ]
+}

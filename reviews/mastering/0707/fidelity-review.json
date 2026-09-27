@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.92,
+      "current": "stepped forward",
+      "defect": "The source says she extended her foot, not that she stepped forward. This changes her physical action.",
+      "id": "F01",
+      "rationale": "The Korean says 발을 뻗었다, which describes extending a foot or leg; the next sentence says her figure vanished.",
+      "replacement": "thrust out a foot",
+      "severity": "minor",
+      "source": "Lines 33, 1st sentence"
+    },
+    {
+      "confidence": 0.95,
+      "current": "An immense energy surged through her body and gathered in her hand.",
+      "defect": "The translation omits that the energy is unprecedented.",
+      "id": "F03",
+      "rationale": "The source describes the energy as 거대한 미증유의 기운: immense and unprecedented.",
+      "replacement": "An immense, unprecedented energy surged through her body and gathered in her hand.",
+      "severity": "minor",
+      "source": "Line 309"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with three minor details changed or omitted.",
+  "version": 1
+}

@@ -10,7 +10,7 @@ Whoosh!
 
 A fierce rush of air drowned out the wind.
 
-A massive figure surged forward, erasing the space around it. Green Fist Force erupted from the Beast Miao King’s fist, illuminating the world.
+A massive figure charged at her. Green Fist Force erupted from the Beast Miao King’s fist, lighting up the world.
 
 Kraaaaaaash!
 
@@ -56,11 +56,9 @@ He swallowed the blood rising in his throat and grinned.
 
 “…!”
 
-The Southern Heaven Demon Empress’s eyes widened.
+The Southern Heaven Demon Empress stared at him.
 
-It was unbelievable. That the Beast Miao King could smile even in a situation like this.
-
-And that her full-strength palm strike had become so pathetically weak.
+She could not believe that the Beast Miao King dared smile at her, even now. Or that the palm strike she’d thrown with all her strength had been so pathetically weak.
 
 Blood slipped between her clenched teeth. Then her figure blurred.
 
@@ -102,7 +100,7 @@ He bared his bloodstained teeth.
 
 His cold voice cut into her ears. Blood vessels burst in her eyes as she stared at him.
 
-She instinctively reached out with her other hand to seize the Beast Miao King by the throat. But then she saw the green Fist Force filling her vision and realized—
+Instinctively, she tried to reach for his throat with her other hand. Then green Fist Force filled her vision, and she remembered.
 
 *Ah.*
 
@@ -112,7 +110,7 @@ Boom!
 
 The world turned upside down. Flung away like a cannonball, the Southern Heaven Demon Empress felt her vision dim.
 
-In the slowed-down world, light and darkness flashed endlessly before her eyes. The sky and the earth traded places, twisting together.
+Light and darkness flickered before her in the slowed world. Sky and earth traded places.
 
 Then came an impact that threatened to grind her entire body to powder.
 
@@ -126,9 +124,7 @@ Splash!
 
 Dark. Red.
 
-Dark-red blood mixed with pieces of internal organs sprayed across the countless large and small fragments scattered in every direction.
-
-She felt her body trembling along with the horrible pain.
+Dark-red blood mixed with pieces of her organs sprayed across the rubble. Her body trembled with pain.
 
 *This… This can’t be happening. It can’t.*
 
@@ -150,7 +146,7 @@ Toward her loyal subordinate, his torn-open neck hanging limp as he awaited a re
 
 “Hurry. Take me as far away from here as you can…”
 
-At this moment, the Southern Heaven Demon Empress was more desperate than anyone else in the world.
+In that moment, the Southern Heaven Demon Empress wanted nothing more.
 
 Her grand plan had achieved only half its aim. Death, which she had never once imagined for herself, loomed before her.
 
@@ -164,23 +160,21 @@ Whoosh. Crack!
 
 It was not the Beast Miao King, Jin Taekyung, or anyone else.
 
-It was simply a massive boulder.
+It was a boulder.
 
-It had probably been dislodged by the force of the impact.
+The impact must have dislodged it from somewhere in the mountain of rubble. Perhaps it had once been a foundation stone of the Nanman Beast Palace. Now the thousand-geun boulder crashed down on the Southern Heaven Demon Empress’s last hope.
 
-Somewhere in the ruins piled up like a mountain—perhaps even the foundation stone of the Nanman Beast Palace—a massive stone weighing a thousand geun crashed down over the Southern Heaven Demon Empress’s final hope.
-
-The masked man, who had lost his reason long ago and now did nothing but obey his master’s commands, was crushed beneath the boulder. His limbs twitched.
+The masked man had lost his reason long ago and followed only his master’s orders. Pinned beneath the rock, his limbs twitched.
 
 She stared blankly at him. Then footsteps like thunder reached her ears.
 
 Thud. Thud.
 
-A footfall approached over blood-soaked ground, treading on sand and rubble.
+A footstep crossed the blood-soaked ground, grinding sand and rubble beneath it.
 
 No. Footsteps.
 
-No strange cries or clashing weapons accompanied those unusually loud steps.
+No monstrous cries or clashing blades sounded between those unnaturally loud steps.
 
 *Ah.*
 
@@ -188,9 +182,9 @@ The Southern Heaven Demon Empress raised her head and finally understood.
 
 The fierce battle for the fate of this land—for Nanman—was over.
 
-And along with it, the fate she had carried forward for so many years was also nearing its end.
+And her own life, drawn out across so many years, was nearing its end.
 
-At the head of the approaching group was the person who had created this entire situation.
+At the head of the approaching group was the person who had brought her to this.
 
 Thud.
 
@@ -204,7 +198,7 @@ Whoosh! Thud!
 
 The Finger Qi she fired on instinct grazed Jin Taekyung’s shoulder and pierced the rubble behind him.
 
-He casually rubbed the blood flowing from the cut, then licked his palm, wet with blood.
+He wiped the blood from the cut and licked it from his palm.
 
 “Thanks. I was thirsty anyway. Is this what they mean by a grandmother’s love?”
 
@@ -228,9 +222,7 @@ But…
 
 *Not enough.*
 
-Even so, she could not overturn the current situation.
-
-The Southern Heaven Demon Empress understood that better than anyone. She knew the desperate reality that had befallen her.
+It could not turn this around. She knew that better than anyone.
 
 When she saw the Beast Miao King beside Jin Taekyung, she was certain.
 
@@ -250,7 +242,7 @@ The Beast Miao King. The guardian spirit. Jin Taekyung.
 
 As though they had planned it, all three surged forward like a single gust of wind. They would give her no opening, not even a moment for final words.
 
-They had only one resolve: to cut off the breath of the Fiend known as the Southern Heaven Demon Empress.
+They meant to end the Fiend known as the Southern Heaven Demon Empress.
 
 Kraaaaaaaash!
 
@@ -268,7 +260,7 @@ Long ago, the Southern Heaven Demon Empress had loved him from the moment she fi
 
 She would offer her insignificant life for him.
 
-Even if her youth and beauty faded someday, she had promised to remain by his side forever, even if only from a distance.
+Even when her youth and beauty faded, she would remain by his side forever, if only from afar.
 
 She had not known then that the day she would give her life would come so soon. Or that a day would come when she could no longer remain near the Lord of Heaven she revered.
 
@@ -280,7 +272,7 @@ If the Lord of Heaven remembered her as a servant who had loved him more than an
 
 If he did, she could gladly burn through the life she had left with a smile.
 
-Just as she was doing at this very moment.
+Just as she was about to do now.
 
 Crack.
 
@@ -298,4 +290,4 @@ No. She tried to.
 
 Thud!
 
-Until a sword thrust out from the heap of ruins behind her and buried itself in her back, emerging from the deep, dark gap between the fallen stones.
+A sword burst from a deep, dark gap in the rubble behind her and buried itself in her back.
