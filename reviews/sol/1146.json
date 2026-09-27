@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“I’m already planning to charge out there and fight. Every last one of us who’s still here.”",
+      "defect": "The draft makes the Skeleton King announce his own plan; he is telling Choi that the others are already prepared to fight.",
+      "id": "F01",
+      "rationale": "남아 있는 놈들 전부 identifies the people remaining in the shelter as the ones intending to fight, setting up the report that they have grabbed their gear.",
+      "replacement": "“The others still here are already planning to rush out and fight. Every last one of them.”",
+      "severity": "major",
+      "source": "이미 당장이라도 뛰쳐나가서 전투할 생각이거든. 남아 있는 놈들 전부."
+    },
+    {
+      "confidence": 0.96,
+      "current": "But every radar network—including communications—had been down for some time.",
+      "defect": "The draft treats communications as a type of radar network.",
+      "id": "F02",
+      "rationale": "통신을 비롯하여 lists communications alongside the disabled radar networks.",
+      "replacement": "But communications and every radar network had been down for some time.",
+      "severity": "minor",
+      "source": "통신을 비롯하여 모든 레이더망은 진작 마비된 상황."
+    },
+    {
+      "confidence": 0.88,
+      "current": "Just like his thoughts. On and on.",
+      "defect": "Thoughts substitutes for his emotional state and makes the image less coherent.",
+      "id": "F03",
+      "rationale": "마음 refers here to his heart or state of mind, not a succession of thoughts.",
+      "replacement": "Like his heart. Endlessly.",
+      "severity": "minor",
+      "source": "그의 마음처럼. 끝없이."
+    },
+    {
+      "confidence": 0.91,
+      "current": "The farther they got from the stretch of corridor they’d just walked through, the stronger the rumbling became.",
+      "defect": "The draft invents a fixed stretch of corridor they are moving away from; the rumbling has intensified over the distance they have walked.",
+      "id": "F04",
+      "rationale": "The source compares the increased rumbling with the distance the two have traveled.",
+      "replacement": "The rumbling had grown stronger with every step they’d taken down the corridor.",
+      "severity": "minor",
+      "source": "두 사람이 지나쳐 온 복도의 거리만큼, 울림 역시 강해져 있었다."
+    }
+  ],
+  "summary": "One speaker attribution error and three localized fidelity or clarity issues.",
+  "version": 1
+}
