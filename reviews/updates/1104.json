@@ -1,0 +1,79 @@
+{
+  "chapter": 1104,
+  "files": {
+    "characters/Blood Lord.md": "206e8f52eff5d8eacc9f3a037c6bd75f7573d4f52986ec22893431fdd6f0a4cd",
+    "characters/Jin Taekyung.md": "c61dccae9c98c58f19fc334da68767c3dc54a09efba980c0d3c2d837918322f3",
+    "characters/Jintae.md": "9e9deac5ac6998909bfb3e822ebb351184c08ba1f55bb83e9488a2582a00c156",
+    "characters/Taishan.md": "5601de6a0e5bf016eac8aa2488fe2a23c2524189d2a4a1306cb2fb2ca69224cc",
+    "docs/ADDRESS.md": "7d5539af1e284a236ad4316839d4d059c5a59a2fab2614f464155afc01f04d84",
+    "docs/CONTEXT.json": "fd29d7a4a570ab8da041554743bd51ee8a0ef040e34846652cd58c29dfef282e",
+    "docs/STATE.md": "6ab9bd8180813919ec902da1ed9fc4487efe534dae71e4db2274b5e114188e0a",
+    "summaries/beats/1104.md": "d0a987117cdba7242ec833570e83bc321100d4879c08a88427755e6f4fe117d5"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "혈주",
+        "kinship": "hostile_opponent_to_hostile_opponent",
+        "normal_address": "you; you son of a bitch",
+        "notes": "Taekyung insults the Blood Lord while challenging his claim that he will kill him.",
+        "speaker": "진태경",
+        "speech_level": "insulting-casual"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Blood Lord can command weapons from a distance and absorbs blood from nearby corpses, gaining vitality and strength.",
+        "The Blood Lord believes the Lord of Heaven wants Jin Taekyung above all else, but attacks him anyway; Taekyung is injured and still standing when the clash resumes."
+      ],
+      "plot": [
+        "At the western breach, Dark Heaven followers keep chanting their creed even as they are cut down, terrifying the defenders. The Blood Lord sends hundreds of weapons toward them, but Jin Taekyung blocks the attack with a wall of fire. The two face off: both are injured, and Taekyung taunts the Blood Lord about the Lord of Heaven’s interest in him. The Blood Lord cannot deny the suspicion, then absorbs blood from nearby corpses and attacks; the chapter ends in a flash of red.",
+        "The Blood Lord calls Taekyung the Blazing Flame Divine Dragon. Taekyung remains standing despite his injuries, and others begin to rise behind him."
+      ],
+      "translation_decisions": [
+        "Render 天上天下, 萬魔仰伏 as “Heaven above and earth below; All demons bow!”"
+      ]
+    },
+    "chapter": 1104,
+    "context": {
+      "active_continuity": [
+        "Dark Heaven and the Potala Palace are attacking Xining; fighting continues at the breached western wall.",
+        "The Blood Lord has coordinated pressure across Xining’s gates; the siege is underway.",
+        "The Blood Lord is fighting Jin Taekyung at the western breach and can command weapons and absorb blood to gain strength.",
+        "The Lord of Heaven appears to want Jin Taekyung above all else; the Blood Lord suspects this but attacks Taekyung anyway.",
+        "Taekyung is injured but still standing; others have begun to rise behind him."
+      ],
+      "continuity_sources": [
+        1103,
+        1104
+      ],
+      "open_questions": [
+        "Why does the Lord of Heaven want Taekyung, and what does he intend to do with him?",
+        "Who are the allies approaching by river from the east?",
+        "Which of Cheongheoja’s Disciples is the hidden Dark Heaven agent, and what did Cheongheoja ask Taekyung to do?",
+        "What happened to Cheongpung after he intercepted the attack?"
+      ],
+      "safe_through": 1104,
+      "temporary_decisions": [
+        "Render 西藏 as “Xizang” for the Murim region; retain “Tibet” when Taekyung identifies it from his modern-world perspective."
+      ],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Young-seeming high-ranking Dark Heaven figure who directs its sorcerers’ seed experiments and prepares their deployment for the Lord of Heaven’s great cause.",
+        "path": "characters/Blood Lord.md",
+        "replacement": "- **Role:** Young-seeming high-ranking Dark Heaven figure and formidable combatant who commands weapons telekinetically and absorbs blood to restore vitality."
+      },
+      {
+        "current": "- **Relationships:** He serves the Lord of Heaven but resents the Lord’s apparent special interest in Jin Taekyung, whom he resolves to kill even if it means defying the Lord’s command; he considers Taekyung and Cheongpung formidable adversaries.",
+        "path": "characters/Blood Lord.md",
+        "replacement": "- **Relationships:** He serves the Lord of Heaven but suspects the Lord wants Jin Taekyung above all else; despite that, he attacks Taekyung, whom he considers a formidable adversary, as well as Cheongpung."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

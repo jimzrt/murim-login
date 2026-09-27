@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Heaven above and earth below, all demons bow!”",
+      "defect": "The creed does not match the established punctuation and capitalization.",
+      "id": "C01",
+      "rationale": "The checkpoint fixes this rendering for the recurring creed.",
+      "replacement": "“Heaven above and earth below; All demons bow!”",
+      "severity": "minor",
+      "source": "Chapter 1101, enemy battle cry"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Heaven above and earth below, all demons bow!”",
+      "defect": "The repeated creed differs from its established rendering.",
+      "id": "C02",
+      "rationale": "Keeping the same wording and punctuation lets readers recognize the chant across chapters.",
+      "replacement": "“Heaven above and earth below; All demons bow!”",
+      "severity": "minor",
+      "source": "Chapter 1103, Taekyung’s account of the enemy chant"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Heaven above and earth below.”\n\n“All demons bow!”",
+      "defect": "The first line ends the creed as a sentence instead of carrying into its response.",
+      "id": "C03",
+      "rationale": "The semicolon preserves the two-speaker exchange while matching the established creed.",
+      "replacement": "“Heaven above and earth below;”\n\n“All demons bow!”",
+      "severity": "minor",
+      "source": "Chapter 1104, followers’ call-and-response"
+    }
+  ],
+  "summary": "Continuity and terminology are consistent across the packet. The Dark Heaven creed differs from the checkpoint’s established rendering in three chapters.",
+  "version": 1
+}
