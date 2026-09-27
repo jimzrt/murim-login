@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful; two minor wording choices narrow or shift the source meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 25, 63",
+      "current": "over ten figures waited for him",
+      "defect": "십여 명 means roughly ten people; “over ten” asserts a lower bound the source does not establish.",
+      "replacement": "about ten figures waited for him",
+      "rationale": "The source gives an approximate count, not a definite count greater than ten.",
+      "confidence": 0.84
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 63",
+      "current": "None could hope to rival him.",
+      "defect": "감히 범접할 수 없었다 means they could not dare approach him; “rival” shifts the point to competing with or matching him.",
+      "replacement": "None dared approach him.",
+      "rationale": "The source emphasizes the distance and intimidation between Michael and the other major figures, following the description of his overwhelming presence.",
+      "confidence": 0.89
+    }
+  ]
+}
