@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "That was when the Skeleton King muttered bitterly to himself.",
+      "defect": "Makes his inward thought an action that begins at this point, rather than placing the next event during it.",
+      "id": "F01",
+      "rationale": "내심 makes the muttering internal, and 그때였다 introduces the interruption that follows.",
+      "replacement": "As the Skeleton King thought bitterly to himself, it happened.",
+      "severity": "major",
+      "source": "스켈레톤 킹이 내심 씁쓸하게 읊조린 그때였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Under conditions so dire he’d have to borrow even a cat’s front paws, hearing things wasn’t strange at all.",
+      "defect": "The literal rendering obscures the idiom about being desperate for help.",
+      "id": "F02",
+      "rationale": "고양이의 앞발이라도 빌리다 means seeking even the least useful help in desperate circumstances.",
+      "replacement": "With the odds so bad he’d take help from a cat if he could get it, hearing things wasn’t strange at all.",
+      "severity": "minor",
+      "source": "이렇듯 고양이의 앞발이라도 빌려야 하는 악조건 속에서 환청이 들리는 건 결코 이상한 일이 아니었다."
+    },
+    {
+      "confidence": 0.89,
+      "current": "It sounded unfamiliar, yet somehow it caught in his ear.",
+      "defect": "“Caught in his ear” is unnatural and loses the voice’s immediate, memorable familiarity.",
+      "id": "F03",
+      "rationale": "귀에 착 하고 달라붙는 describes a voice that immediately catches and stays in the listener’s ear.",
+      "replacement": "It sounded unfamiliar, yet somehow it stuck with him the moment he heard it.",
+      "severity": "minor",
+      "source": "낯설게 느껴지면서도, 귀에 착 하고 달라붙는 듯한 저 음성."
+    },
+    {
+      "confidence": 0.91,
+      "current": "And seeing how they’d tied me up in the kind of turtle-shell bondage you only saw in certain Japanese videos, using ogre tendons—the famously tough kind—I realized whoever did it was completely insane.",
+      "defect": "“Bondage” makes the sexual implication more explicit than the source’s euphemistic reference to Japanese videos.",
+      "id": "F04",
+      "rationale": "The source names the tying pattern and hints at the videos without explicitly labeling the act.",
+      "replacement": "And they’d used those famously tough ogre tendons to tie me up in a turtle-shell pattern like something out of a certain kind of Japanese video. Whoever did this wasn’t just crazy.",
+      "severity": "major",
+      "source": "심지어 그 질기다는 오우거 힘줄로 일본의 어느 영상물에서나 보던 귀갑 묶기를 해놓은 걸 보니, 미쳐도 보통 미친놈이 아니었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Nor was it clear who needed to be careful.",
+      "defect": "Turns Jin’s pointed reversal of the warning into uncertainty.",
+      "id": "F05",
+      "rationale": "Jin is asserting that the seven, not he, are the ones who should be careful; he immediately cuts their number to six.",
+      "replacement": "And they’d picked the wrong person to warn.",
+      "severity": "major",
+      "source": "조심해야 할 대상이 누구인지도."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Clop.",
+      "defect": "“Clop” suggests a hoof rather than a footstep.",
+      "id": "F06",
+      "rationale": "저벅 is the sound of a deliberate footstep as Jin advances.",
+      "replacement": "Step.",
+      "severity": "minor",
+      "source": "저벅."
+    }
+  ],
+  "summary": "Several lines alter the source’s action or blunt the final reversal; other issues are localized wording.",
+  "version": 1
+}

@@ -2550,3 +2550,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 예왕 | **Prince of Ye** | Title offered to Jin Taekyung, which he declines. |
 | 팔황 | **Eight Directions** | Paired with the Nine Provinces as a broad geographic expression. |
 | 타커라마간 | **Taklamakan Desert** | Desert the coalition army is crossing in Xinjiang. |
+| 리자드맨 | **Lizardman** | Humanoid monster species, distinct from 리자드. |
