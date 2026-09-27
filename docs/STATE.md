@@ -1,24 +1,24 @@
 # Translation State
 
-- Last completed: 1109
-- Next chapter: 1110
-- Current block: 1105–1109 (5/5)
-- Latest translation: `translations/1109.md`
-- Latest summary: `summaries/beats/1109.md`
-- Safe profiles through: chapter 1109
+- Last completed: 1110
+- Next chapter: 1111
+- Current block: 1110–1114 (1/5)
+- Latest translation: `translations/1110.md`
+- Latest summary: `summaries/beats/1110.md`
+- Safe profiles through: chapter 1110
 
 ## Current Block
 
-- After Jin Taekyung’s shout, Cheongpung and Jeong Hogun’s Embroidered Uniform Guards force their way through the fanatics toward the Blood Lord. The Blood Lord rapidly regenerates by absorbing blood from the dead, regains his strength and memories, and recognizes Cheongpung and his debt to Mae Jonghak.
-- Cheongpung wounds the Blood Lord and presses the attack, but the Blood Lord calls for reinforcements. Countless flying beasts descend on the battlefield, with another being at their center; the chapter ends as a tearing impact fills Cheongpung’s vision with blood.
+- The Blood Lord regains his strength and memories after absorbing the fiends’ life force, then attacks Cheongpung. Jeong Hogun takes the strike meant for Cheongpung, loses an arm, and urges him to leave. Jeong Hogun and roughly three hundred surviving Embroidered Uniform Guards affirm their duty to protect the people and charge the Blood Lord; a blood-red flash engulfs them.
+- Jin Taekyung, barely conscious and longing to rest, struggles to remain awake as an unknown voice challenges him. Memories and a refreshing, flower-scented energy revive his body and mind. Cheongpung calls him Benefactor and says the West Gate is in trouble.
 
 ## Open Questions
 
-- What condition is Jin Taekyung in after using One Annihilation?
-- What happened to Cheongpung in the final impact?
+- What is Jin Taekyung’s condition after regaining consciousness, and who was the voice in his mind?
+- What is the state of the West Gate?
+- What happened to Jeong Hogun and the guards after the blood-red flash engulfed them?
 - What are the flying beasts and the being at their center?
 - Why does the Lord of Heaven want Taekyung, and what does he intend to do with him?
-- Which of Cheongheoja’s Disciples is the hidden Dark Heaven agent, and what did Cheongheoja ask Taekyung to do?
 
 ## Exceptional Decision
 
