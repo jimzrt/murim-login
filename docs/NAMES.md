@@ -2560,3 +2560,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 드래곤 레어 | **Dragon Lair** | Morgoth’s newly created stronghold. |
 | 도널드 | **Donald** | Given name of President Donald Doramp Jr. |
 | 은빛 산 | **Silver Mountains** | Morgoth identifies himself as its master. |
+| 바실리 게라시모프 | **Vasily Gerasimov** | Russian general appointed acting president after the Moscow catastrophe. |
+| 에이미 | **Amy** | News presenter. |
+| 스티브 | **Steve** | News presenter. |
