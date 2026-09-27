@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 1177
-- Next chapter: 1178
-- Current block: 1175–1179 (3/5)
-- Latest translation: `translations/1177.md`
-- Latest summary: `summaries/beats/1177.md`
-- Safe profiles through: chapter 1177
+- Last completed: 1178
+- Next chapter: 1179
+- Current block: 1175–1179 (4/5)
+- Latest translation: `translations/1178.md`
+- Latest summary: `summaries/beats/1178.md`
+- Safe profiles through: chapter 1178
 
 ## Current Block
 
-- Taekyung’s group finds all life gone from the surrounding land. The Slaughter Saint suspects either a final battle drawing on all of Xinjiang or that Dark Heaven has drained the region of life; he says even the plants have withered. While Taekyung had been asleep, Jeok Cheongang repeatedly pressed the Slaughter Saint to check on him and eventually told him about Taekyung’s otherworldly origin. Taekyung accepts that the Slaughter Saint now knows, then hears Cheongpung calling out to him from nearby.
+- The Slaughter Saint, Hyuk Mujin, and Cheongpung each admit how Jin Taekyung’s secret spread among the group. Taekyung reassures Ju Hwaran that he is human, around twenty-eight, and from a place where people live; she accepts his explanation. Jeok Cheongang says Great Sir has not been told and leaves that decision to Taekyung, but warns that Bow Saint may have difficulty accepting the truth.
+- Alone in the desert, Bow Saint reflects on Taekyung’s secret and questions whether the Martial God’s letter truly expresses what he wants. A faint sound comes from behind her.
 
 ## Open Questions
 
@@ -17,7 +18,7 @@
 - What remains to be completed, and what will happen when it is completed?
 - What is Alpha, and what does its awakening mean?
 - Why does the land around Taekyung’s group in Xinjiang contain no living things?
-- Why is Cheon Taemin still alive despite the capsule’s stated permanent binding to its Player until death?
+- Who or what is behind Bow Saint?
 
 ## Exceptional Decision
 
