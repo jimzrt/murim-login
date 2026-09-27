@@ -2514,3 +2514,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 숙자 | **Soonja** | Name used by the woman who introduces herself to Cheongheoja. |
 | 학수 | **Hak Su** | Cheongheoja’s Senior Disciple and Hak Woo’s senior brother. |
 | 서녕 | **Xining** | Capital of Qinghai. |
+| 학의 | **Hak Eui** | Kunlun Sect First-Generation Disciple. |
+| 척 모 | **Cheok Mo** | Sect Leader of the Gonghwa Sect. |
+| 송악 | **Songak** | Named official of Qinghai’s Regional Military Commission. |
+| 공화문 | **Gonghwa Sect** | Qinghai martial sect. |
+| 위지휘사사 | **Regional Military Commission** | Qinghai military authority named in the chapter. |

@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 1079
-- Next chapter: 1080
-- Current block: 1075–1079 (5/5)
-- Latest translation: `translations/1079.md`
-- Latest summary: `summaries/beats/1079.md`
-- Safe profiles through: chapter 1079
+- Last completed: 1080
+- Next chapter: 1081
+- Current block: 1080–1084 (1/5)
+- Latest translation: `translations/1080.md`
+- Latest summary: `summaries/beats/1080.md`
+- Safe profiles through: chapter 1080
 
 ## Current Block
 
-- Taekyung and Mujin nearly kill the black-robed captive while trying to interrogate him, but a physician revives him and repairs his tongue. The captive finally tells them where not to stab him; Taekyung stops the rough treatment and tells Mujin to speak with him. Hak Su sees Xining emerge from the fog.
-- The allies enter Xining to a vast public welcome. Taekyung recognizes that people across Qinghai have gathered in the city and, aware of the danger Dark Heaven poses to them, tells Cheongpung they will do everything they can, even at the cost of their lives.
+- In Xining, Jin Taekyung confronts the city’s leaders over inadequate food stores and the City Lord’s corruption. He orders the Embroidered Uniform Guard to detain the City Lord and other officials, then addresses the remaining leaders. Kunlun Sect First-Generation Disciple Hak Eui introduces himself and respectfully greets Taekyung.
 
 ## Open Questions
 
@@ -18,6 +17,7 @@
 - Why did the Lord of Heaven spare Taekyung in Gansu, and what is his real purpose?
 - Will the Alliance Leader and other righteous warriors reach Qinghai?
 - What is the hidden ember Cheongheoja warned about?
+- How will Xining secure food for its gathered refugees?
 
 ## Exceptional Decision
 
