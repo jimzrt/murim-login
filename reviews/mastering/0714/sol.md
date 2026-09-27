@@ -16,7 +16,7 @@ If only he could.
 
 “This brings back old memories.”
 
-The Beast Miao King opened his eyes at the quiet voice. Baeksang’s face, wearing a faint smile, was reflected in his eyes.
+The Beast Miao King opened his eyes at the quiet voice. Baeksang wore a faint smile.
 
 “We were young back then. I wanted to become Palace Lord of the Nanman Beast Palace someday, and I was desperate to beat you.”
 
@@ -52,7 +52,7 @@ Instead, he produced two bottles of fruit wine he had stolen from somewhere and 
 
 “I’ve got wine, but no one to drink it with. Come along if you want.”
 
-At the Beast Miao King’s quiet voice, Baeksang’s eyes widened for a moment. Then he coughed up blood and laughed.
+At the Beast Miao King’s quiet recitation, Baeksang’s eyes widened. Then he coughed up blood and laughed.
 
 “Cough. You still remember that?”
 
@@ -64,7 +64,7 @@ At the Beast Miao King’s quiet voice, Baeksang’s eyes widened for a moment. 
 
 The Beast Miao King could not help laughing. Moisture had gathered at the corners of his crescent-shaped eyes.
 
-“Well, I vividly remember the little brat who collapsed before he had even finished a single cup. I also remember what you said while looking at me with those unfocused eyes.”
+“I remember a little brat who collapsed before he’d even finished one cup. And what you said while you looked at me through those bleary eyes.”
 
 Baeksang nodded weakly, his unfocused gaze reaching back into the past.
 
@@ -74,11 +74,11 @@ Baeksang nodded weakly, his unfocused gaze reaching back into the past.
 
 “Of course not.”
 
-Baeksang continued in a quiet voice.
+Baeksang’s voice dropped.
 
 “You were… simply my hyung. Perhaps you had been since the day we met.”
 
-The two boys had tasted alcohol for the first time, then collapsed and fallen asleep. When they opened their eyes the next morning in an old shrine, they had become sworn brothers closer than anyone else.
+The two boys, tasting alcohol for the first time, had fallen asleep where they lay. From the moment they woke in that old shrine the next morning, they were sworn brothers closer than anyone.
 
 In the mountains. In the fields. By rivers and in marshes.
 
@@ -94,13 +94,13 @@ Until a terrible fate tore them apart.
 
 “Enough. Stop.”
 
-The Beast Miao King already knew why Baeksang had brought up these memories.
+The Beast Miao King knew why Baeksang had brought up that day. He knew what Baeksang was asking of him.
 
 “Do I truly have to… kill you with my own hands?”
 
 Baeksang gave a small nod.
 
-“Far too much blood has already been spilled. Everything happened because of my misguided choices.”
+“Too much blood has been spilled already. All because of my choices.”
 
 The traitor who had betrayed Nanman and its countless tribespeople had to be executed. That was a duty the Palace Lord of the Nanman Beast Palace had to carry out himself—the only way to keep the vow he had made in the old shrine.
 
@@ -114,7 +114,7 @@ His trembling finger indicated the countless tribespeople and warriors making th
 
 It was true.
 
-The people constantly pouring into the Inner Palace had learned that the catastrophe was over and cheered. Then they were horrified by the sight that unfolded before their eyes. Finally, they fell silent at the sight of their returning Palace Lord and the traitor collapsed before him.
+The crowds pouring into the Inner Palace had cheered when they learned the catastrophe was over. Then they saw what lay before them and fell silent at the sight of their returning Palace Lord and the traitor collapsed at his feet.
 
 No. Not silent.
 
@@ -146,7 +146,7 @@ A man guilty of an unforgivable crime had to die a criminal, without sympathy or
 
 That was… the last thing Baeksang could do.
 
-“That day, which will come before long…!”
+“And when that day comes…!”
 
 He swallowed the blood rising in his throat, clenched his teeth, and shouted on.
 
@@ -162,13 +162,13 @@ Crack!
 
 A fist shot through the air, crushing flesh and shattering bone.
 
-The single punch buried deep in Baeksang’s chest carried green Force, like the broad fields where they had rolled around together as children.
+Buried deep in Baeksang’s chest, the punch carried green Force the color of the broad fields where they had tumbled about as children.
 
 *Thank you, hyung.*
 
 *You became a truly great Palace Lord, just as you promised.*
 
-Along with a murmur no one could hear, Baeksang stared at the face of one person visible beyond his fading field of vision.
+The words never reached his lips. Baeksang gazed through his fading vision at the face before him.
 
 *But why…?*
 
@@ -188,7 +188,7 @@ The world was no longer dark.
 
 *Isn’t that right, Hwi?*
 
-He thought of the son who had lost his reason and driven a sword into his father’s chest, and of the child already waiting for him in another world, smiling brightly.
+He thought of the son who, his reason gone, had driven a sword into his father’s chest. Of the child who must already be waiting for him in another world, smiling brightly.
 
 Baeksang smiled in peace.
 
@@ -198,17 +198,17 @@ His strength left him, and his body collapsed.
 
 The world remained bright. The people went on cheering.
 
-And in place of his sworn elder brother, who was not even allowed to wail, someone closed Baeksang’s eyes.
+And because his sworn elder brother was not even free to wail, someone else closed Baeksang’s eyes.
 
 “…Fuck. What the hell are you smiling about? It’s not like you did anything right.”
 
-Jin Taekyung muttered to himself, then suddenly looked down at the old thing clenched in his hand.
+Jin Taekyung muttered to himself. Then he looked at the old thing in his hand.
 
 He didn’t know. Baeksang deserved to die. He was a bad man who had done terrible things. So why did Jin feel so damn awful? Why had he brought this?
 
 *Damn it.*
 
-Along with the curses that never left his mouth, Jin Taekyung covered Baeksang’s face with the object in his hand.
+The curse stayed in his head. He covered Baeksang’s face with what he held.
 
 Baekcheon.
 
@@ -222,7 +222,7 @@ Through the endless cheers came voices, faint as echoes.
 
 “Taishan is here! Taishan is sorry he’s late!”
 
-“Hey, you bastard! Are you alive?”
+“Hey, you little bastard! Are you alive?”
 
 *Am I hearing things?*
 
@@ -248,13 +248,13 @@ I was wondering what hole this bastard had crawled out of when he went on.
 
 —…?
 
-—I am the Eastern Heaven Demon Lord, who commands the east. Directly beneath me in rank is the East-West Heaven Demon Empress, who commands the east and west.
+—I am the Eastern Heaven Demon Lord. The east is mine. Directly below me is the East-West Heaven Demon Empress, who rules the east and west.
 
-*No, fuck this. Four directions were plenty. What the hell is an East-West Heaven Demon Empress?*
+*No, fuck off. North, south, east, and west were plenty. What the hell is an East-West Heaven Demon Empress?*
 
 He’d taken the bit so far I had nothing to say.
 
-At this rate, I feared that even if I returned to the modern world, I might find the Dongducheon Demon Lord or the Incheon Demon Empress waiting for me.
+At this rate, I’d get back to the modern world and find the Dongducheon Demon Lord or the Incheon Demon Empress waiting for me. The thought made it hard to breathe.
 
 But what else could I do? I didn’t know I was dreaming, so I fought like hell.
 
@@ -286,7 +286,7 @@ He came toward me with both arms gone and a gaping hole in the middle of his che
 
 As he greedily swallowed flesh and blood, he whispered in my ear.
 
-—But when is this infuriating bastard supposed to wake up?
+—But when is this infuriating bastard going to wake up?
 
 And at that moment, my eyes flew open.
 
@@ -294,13 +294,13 @@ And at that moment, my eyes flew open.
 
 A strong, unfamiliar smell hung in the air. Above me was a ceiling I didn’t recognize.
 
-I blinked blankly, slowly becoming aware of reality. Then a familiar voice pierced my ears.
+I blinked, slowly making sense of where I was. Then a familiar voice reached me.
 
 “Come clean now, and I’ll let you off with a little singeing. You’re a quack, aren’t you?”
 
 “N-no, sir.”
 
-“The child hasn’t woken up for seven days and nights. Does that make any sense? Go get the Beast Miao King.”
+“The boy hasn’t woken up in seven days and nights. Does that make any sense? Go get the Beast Miao King.”
 
 “Gasp. Th-that’s…”
 

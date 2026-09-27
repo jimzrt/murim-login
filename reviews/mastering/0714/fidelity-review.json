@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The request his only sworn younger brother had made after so many years cut deep, like a sharp blade.",
+      "defect": "The source specifies that several decades had passed; “so many years” removes that quantity.",
+      "id": "F01",
+      "rationale": "수십여 년 means several decades, a detail retained in the accepted baseline.",
+      "replacement": "The request his only sworn younger brother had made after several decades cut deep, like a sharp blade.",
+      "severity": "minor",
+      "source": "Lines 9, 4"
+    },
+    {
+      "confidence": 0.82,
+      "current": "What the hell are you smiling about?",
+      "defect": "“Smiling” softens 처웃고, which conveys a contemptuous or obnoxious grin in this insult.",
+      "id": "F02",
+      "rationale": "The source’s phrasing is dismissive and contemptuous; the accepted baseline’s “grinning” better preserves that attitude.",
+      "replacement": "What the hell are you grinning about?",
+      "severity": "minor",
+      "source": "Line 211, 102"
+    },
+    {
+      "confidence": 0.91,
+      "current": "He didn’t know.",
+      "defect": "This shifts Jin’s first-person thought into third-person narration.",
+      "id": "F03",
+      "rationale": "모르겠다 is Jin’s first-person thought in context; the accepted baseline preserves it as “I don’t know.”",
+      "replacement": "*I don’t know.*",
+      "severity": "minor",
+      "source": "Line 215, 104"
+    }
+  ],
+  "summary": "The assembled copy is largely faithful. Three minor fidelity regressions remain.",
+  "version": 1
+}
