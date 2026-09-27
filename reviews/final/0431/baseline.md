@@ -28,7 +28,7 @@ His answer was as sharp as a blade.
 
 “Since the Stone Age, you bastard. You stared at me so much that I thought you were going to bore holes in my face.”
 
-I had sensed someone secretly watching me as soon as I left the Magic Formation site.
+I had sensed someone secretly watching me as soon as I left the magic-circle site.
 
 It was an unpleasant, clinging gaze, completely different from the curiosity and admiration everyone else directed at me.
 
@@ -44,7 +44,7 @@ The words had clearly hit the mark, but Go Jun showed no surprise whatsoever.
 
 “I thought you would. Otherwise, you wouldn’t have left Magic Johnson behind and come all the way out here alone.”
 
-*Well, look at this bastard.*
+Well, look at this bastard.
 
 Only then did I understand why Go Jun wasn’t surprised. He had deliberately sent me a signal—a signal to follow him.
 
@@ -82,7 +82,7 @@ Drops of blood fell from the fist he had clenched so tightly that it had turned 
 
 “There are only two people here—you and me. Tell me the truth with your own lips.”
 
-“Vile human! How dare you leave out this Atlanta-born Stone King!”
+“Vile human! How dare you leave out this Atlanta-born Stone-King!”
 
 That made one more monster present.
 
@@ -166,7 +166,7 @@ Thud-thud-thud!
 
 Three unconscious figures in black dropped out of thin air in the distance.
 
-They were all high-level Hunters trained in stealth and concealed by various kinds of magic, but none of them could escape my Qi Sense, which had grown even sharper after the opening of my Middle Dantian.[^1]
+They were all high-level Hunters trained in stealth and concealed by various kinds of magic, but none of them could escape my Qi Sense, which had grown even sharper after the opening of my Middle Dantian.
 
 “What, were you filming me on the sly? You fucking hidden-camera creep.”
 
@@ -242,7 +242,7 @@ I shoved my fingers into the ragged stumps of his arms. The Scorching Yang Qi in
 
 Crack!
 
-My Strength could reduce even a thousand-geun[^2] boulder to powder. The bones in both his legs shattered at once, breaking into hundreds of fragments.
+My Strength could reduce even a thousand-geun boulder to powder. The bones in both his legs shattered at once, breaking into hundreds of fragments.
 
 “……!”
 
@@ -350,7 +350,4 @@ As we spoke, the Skeleton King muttered quietly.
 
 “What about the club?”
 
-*That’s a gay bar, dumbass.*
-
-[^1]: The dantian is an energy center in traditional Chinese thought and martial arts. The Middle Dantian is located in the chest.
-[^2]: A thousand Korean geun is about 600 kg (1,320 lb).
+“That’s a gay bar, dumbass.”
