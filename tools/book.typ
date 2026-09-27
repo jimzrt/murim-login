@@ -10,28 +10,32 @@
 #let murim-body-size = 11.5pt
 
 #let murim-plaque(corner, dragon, body) = {
-  set text(font: "Noto Sans Mono", size: murim-body-size, fill: rgb("#ffffff"), weight: "bold")
+  set text(font: ("Noto Sans", "Noto Sans Mono"), size: murim-body-size, fill: rgb("#ffffff"), weight: "bold")
   set par(leading: 0.68em, spacing: 0.7em)
-  show strong: set text(fill: rgb("#f0d56a"), weight: "bold")
+  show strong: set text(fill: rgb("#ffe7a8"), weight: "bold")
   set list(marker: [#box(width: 1.15pt, height: 0.72em, fill: murim-gold, baseline: 12%)])
   set enum(numbering: "1.")
   show list: it => align(left, block(inset: (x: 6pt), it))
   show enum: it => align(left, block(inset: (x: 6pt), it))
 
-  let banner = box(
-    fill: rgb("#245a96"),
-    stroke: 0.6pt + murim-gold,
-    inset: (x: 7pt, y: 2pt),
+  let plaque-label = box(
+    height: 15pt,
+    fill: rgb("#3a78b8"),
+    stroke: 1.05pt + murim-gold,
+    inset: (x: 8pt, y: 0pt),
   )[
-    #grid(
-      columns: 3,
-      column-gutter: 4pt,
-      align: horizon,
-      image(dragon, height: 7pt),
-      text(size: 7pt, tracking: 1.6pt, weight: "bold")[SYSTEM],
-      scale(x: -100%)[#image(dragon, height: 7pt)],
-    )
+    #align(horizon)[#text(size: 7.5pt, tracking: 1.6pt, weight: "bold")[SYSTEM]]
   ]
+  // Dragons sit outside the plate, and the whole crest is centered on the
+  // top stroke so it reads as part of the frame rather than a heading.
+  let banner = grid(
+    columns: 3,
+    column-gutter: 1.5pt,
+    align: horizon,
+    image(dragon, height: 15pt),
+    plaque-label,
+    scale(x: -100%)[#image(dragon, height: 15pt)],
+  )
 
   let piece(flip-x: false, flip-y: false) = {
     let img = image(corner, width: murim-cap, height: murim-cap)
@@ -52,19 +56,20 @@
     #block(
       width: 100%,
       breakable: false,
-      fill: gradient.linear(rgb("#3a78b8"), rgb("#2d6aad"), rgb("#1c4a82"), angle: 180deg),
+      fill: gradient.linear(rgb("#4a90d0"), rgb("#3a78b8"), rgb("#2d6aad"), angle: 180deg),
       stroke: murim-arm + murim-gold,
-      inset: (x: 1.2em, top: 10pt, bottom: 1.15em),
+      inset: (x: 1.15em, top: 12pt, bottom: 1.05em),
     )[
       #set align(center + top)
-      #block(height: 18pt)
+      #line(length: 100%, stroke: 1.75pt + murim-gold)
+      #v(0.55em)
       #body
     ]
     #place(top + left)[#piece()]
     #place(top + right)[#piece(flip-x: true)]
     #place(bottom + left)[#piece(flip-y: true)]
     #place(bottom + right)[#piece(flip-x: true, flip-y: true)]
-    #place(top + center, dy: 0.4pt)[#banner]
+    #place(top + center, dy: -7.5pt)[#banner]
   ])
   v(1.55em, weak: true)
 }
