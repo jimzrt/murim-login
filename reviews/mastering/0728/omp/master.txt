@@ -4,11 +4,11 @@ People are all the same.
 
 Success after success makes them more confident, and before long, they start closing the eyes and ears they once kept wide open.
 
-But Team Leader Choi was a decent person before he was an excellent Hunter or manager. Even though the decision was his to make, he always sought everyone’s understanding.
+But Team Leader Choi was a decent person before he was an excellent Hunter or manager. Even though the decision was his to make, he always asked for everyone’s thoughts.
 
 “…So I’d like to hear what you all think.”
 
-When Team Leader Choi finished speaking in a low voice, the people sitting on the sofa fell silent for a moment.
+When he finished speaking, the people on the sofa fell silent.
 
 No, *people* wasn’t quite right. At some point, a monster had made himself at home among them.
 
@@ -16,19 +16,17 @@ And that monster looked more serious than ever.
 
 “This body objects.”
 
-Every gaze turned toward him at the firm refusal, delivered without a hint of hesitation.
-
-But the Skeleton King continued without a care.
+Every eye turned to the Skeleton King. He went on without the slightest hesitation.
 
 “You all know why. Expand your influence too far, and people grow wary. Human envy and jealousy invite danger. Am I wrong?”
 
 I’d thought this before, but the bastard really had become almost human.
 
-When I awkwardly shook my head, the Skeleton King’s voice gained even more force.
+I shook my head reluctantly, and his voice grew firmer.
 
 “This body would prefer to avoid any more attention, too. If other humans discover my true identity, it will cause trouble for all of you. So put an end to this foolish talk.”
 
-He ended his speech with a stern rebuke. The rest of us looked at one another as though we’d rehearsed it.
+He finished with a stern glare. The rest of us looked at one another as though we’d rehearsed it.
 
 He had a point.
 
@@ -44,7 +42,7 @@ Team Leader Choi, Im Kkeokjeong, and Song Song nodded in turn.
 
 “More than pretty famous. He hasn’t even had the account long, and he’s already got over a hundred thousand followers.”
 
-The Skeleton King, who had faltered after being struck in the heart of the matter, thrust out his chest at Song Song’s words.
+The Skeleton King had faltered under my question. At Song Song’s words, he puffed out his chest.
 
 “As of today, a hundred and twenty thousand.”
 
@@ -60,11 +58,11 @@ I watched him preen and let out a dry laugh.
 
 “Delete the account. Now. That’s your last warning.”
 
-After hesitating for a moment at my threat, the Skeleton King answered in a depressed voice.
+He hesitated, then answered miserably.
 
-“……Understood.”
+“…Very well.”
 
-“At least you’re obedient. But you didn’t post any strange nonsense on SNS, did you?”
+“At least you listened. You haven’t posted any weird shit on there, have you?”
 
 The internet’s reach was staggering. In Murim, people sent messenger pigeons. Here, a few taps of a finger could send something around the world.
 
@@ -72,7 +70,7 @@ The internet’s reach was staggering. In Murim, people sent messenger pigeons. 
 
 Song Song broke in, sounding unconcerned.
 
-“Fortunately, there’s nothing much. I looked through everything just in case, and he’s only posted a ton of pictures of his own face.”
+“Luckily, there’s nothing like that. I went through it, and all he’s posted are pictures of his face.”
 
 “Really?”
 
@@ -82,11 +80,11 @@ Song Song broke in, sounding unconcerned.
 
 It hit me.
 
-I remembered whose hands had created the Skeleton King’s handsome face.
+I remembered whose hands had made that handsome face.
 
 *Magic Johnson.*
 
-The Grand Mage of the century. And the century’s gayest man.
+The Grand Mage of the century. And the gay man of the century.
 
 Magic Johnson—the man said to work unbelievable magic with two staffs—had put plenty of his own taste into the Skeleton King’s current appearance. The guy was handsome by any standard, but his face and build were perfectly suited to the tastes of a certain crowd.
 
@@ -102,7 +100,7 @@ Oblivious to my newfound regard, the Skeleton King fiddled with his phone and sp
 
 “I cannot bring myself to delete it. You are the most wicked, cruel human in the world.”
 
-“What crime did I commit in my previous life to deserve being called cruel by a monster bastard?”
+“What did I do in a past life to deserve being called cruel by a monster?”
 
 “Ah, to part so suddenly. Somewhere, an unknown woman who can no longer gaze upon this body’s dazzling face will weep without end.”
 
@@ -122,11 +120,11 @@ Im Kkeokjeong nodded as if the answer were obvious.
 
 “Well, if you and Team Leader Choi have decided, I’m with you.”
 
-“Song-i, what about you?”
+“Song-i?”
 
 “Hmm.”
 
-Song Song crossed her legs at an angle and continued.
+Song Song crossed her legs and leaned back.
 
 “From what I’ve heard, we’re doing this for everyone. If I say no, I’ll be the only bitch here, won’t I?”
 
@@ -138,11 +136,11 @@ Song Song crossed her legs at an angle and continued.
 
 “Oh, listen to this bastard.”
 
-Song Song smiled sweetly and raised her middle finger before suddenly sighing.
+She smiled sweetly, raised her middle finger, then sighed.
 
 “What a ride. When Team Leader Choi offered me a transfer and I left the Ares Guild, I never imagined we’d end up here.”
 
-“You should’ve just stayed there.”
+“You should’ve stayed.”
 
 “Hey, I couldn’t. That Branch Leader was too much of a pervert. I figured I’d be better off working for someone young, handsome, and rich. But I got a bad feeling on the very first day.”
 
@@ -150,7 +148,7 @@ Song Song smiled sweetly and raised her middle finger before suddenly sighing.
 
 “Yeah. I’d come to get away from one pervert, and there was some other weird bastard waiting for me. I was starving, and he burned all the meat. Then, out of nowhere, he told me his star sign was Taurus. What kind of lunatic does that?”
 
-“Ah-ha.”
+“Ah.”
 
 I gave a quiet laugh and looked at her without another word.
 
@@ -160,7 +158,7 @@ Truthfully, I felt bad for Song Song and Im Kkeokjeong. Ever since the Peace Gui
 
 “What’s that look for?”
 
-“Nothing. I just wanted to tell you that it isn’t too late yet.”
+“Nothing. I just wanted to say it’s not too late.”
 
 “What?”
 
@@ -168,27 +166,27 @@ Truthfully, I felt bad for Song Song and Im Kkeokjeong. Ever since the Peace Gui
 
 There was no laughter in my voice this time. Song Song’s gaze turned serious.
 
-“How dangerous are we talking?”
+“How dangerous?”
 
 “We’re past the point where this is just a domestic matter.”
 
-“You seem to have a tendency to underestimate yourself. You and Team Leader Choi left Korea behind a long time ago.”
+“You have a habit of underestimating yourself. You and Team Leader Choi went beyond Korea a long time ago.”
 
 She wasn’t exaggerating.
 
-Ever since I took down the Arch Lich in China, my name had become known throughout the world. Meanwhile, Team Leader Choi had appeared in the media as the new City Lord of the Ares Guild and the successor to the living Savior.
+My name had become known around the world after I took down the Arch Lich in China. Team Leader Choi had been all over the media as the new master of the Ares Guild and the heir to the living savior.
 
 But this was different. If anything, everything we’d achieved was what had created the problem.
 
 I shrugged.
 
-“Someone once said that the bigger you get, the more there is to take a bite out of.”
+“Someone told me that the bigger you get, the more there is for people to take from you.”
 
 “So how much are you planning to let them take?”
 
 “I’m not. And I don’t intend to start.”
 
-Song Song stared at me for a moment before suddenly speaking.
+Song Song studied me for a moment.
 
 “You know something?”
 
@@ -196,33 +194,31 @@ Song Song stared at me for a moment before suddenly speaking.
 
 “It’s way too late for us to back out. Both Uncle Kkeokjeong and me.”
 
-Im Kkeokjeong quietly added to her words.
+Im Kkeokjeong spoke quietly.
 
 “I wasn’t planning to back out anyway.”
 
 “Uncle.”
 
-“Whether it’s too late or not doesn’t matter. Once you start something, you have to see it through to the end. At least for the sake of the one who left us first.”
+“Doesn’t matter whether it’s too late. Once we’ve started, we see it through together. For the sake of the one who left us first, if nothing else.”
 
 “…!”
 
 “Right, Team Leader Choi?”
 
-At Im Kkeokjeong’s quiet question, everyone’s gazes turned in one direction.
+Everyone turned toward him.
 
 Team Leader Choi had gone quiet at some point. He was looking at the empty place someone had left behind. Until recently, it had still held that person’s warmth. Now nothing could fill it.
 
 He spoke.
 
-“I visited the grave today. Someone had carved words beside the gravestone. ‘Thank you for coming. I love you. Please come again.’”
+“I went to the grave today. Someone had carved a message beside the gravestone. Thank you for coming. I love you. Please come again.”
 
 No one said anything. Team Leader Choi continued calmly.
 
-“So next time, I’d like all of us to go visit that person together. Next year, the year after that……and even decades from now.”
+“So next time, I’d like us all to visit. Next year, the year after… and decades from now.”
 
-It was the resolve of a man who had been forced to send someone precious on ahead.
-
-The four words *all of us together* carried his determination not to let the same thing happen again.
+It was the resolve of a man who’d had to let someone precious go ahead of him. In *all of us* was a determination never to let it happen again.
 
 *Decades from now.*
 
@@ -232,13 +228,13 @@ I didn’t know what we’d look like then. For now, knowing we’d go forward t
 
 “Team Leader Choi.”
 
-At my quiet call, he gave a heavy nod.
+At my quiet call, he gave a solemn nod.
 
 “Understood. Let’s begin.”
 
 We’d already discussed the broad strokes. Team Leader Choi took out his phone and called the first person.
 
-Beep. Beep. Click.
+Ring. Ring. Click.
 
 The call connected before it could ring a third time. A deep voice, practiced by a hectic life in politics, came from the other end.
 
@@ -248,23 +244,21 @@ There were plenty of people named Baek Hanseong in Korea. But only one Team Lead
 
 “Yes, Mr. President. I’m calling about something important.”
 
-—Ha-ha. Well, putting it that way already makes me feel a little strange. I’m looking forward to it, but at the same time, I’m starting to feel uneasy.
+—Ha-ha. Well, now I’m both looking forward to it and a little worried.
 
-At the appearance of a major figure who moved an entire country, Im Kkeokjeong and Song Song fell silent. The Skeleton King’s eyes widened as he whispered to me.
+At the arrival of a man who ran a country, Im Kkeokjeong and Song Song fell silent. The Skeleton King stared wide-eyed and whispered to me.
 
 “President Baek Hanseong? Is he—”
 
 “That’s right. Our country’s pres—”
 
-“I know. Isn’t he the popular celebrity with more than ten million followers?”
+“I know. The celebrity with more than ten million followers.”
 
 “…”
 
-“Damn it. A human has a hundred times this body’s following.”
+“Damn it. A mere human has a hundred times this body’s following.”
 
-As I watched the Skeleton King vent his frustration, I thought:
-
-*Please just fucking die already…….*
+Watching the Skeleton King seethe, I thought, *Please just fucking die.*
 
 Come to think of it, he already had.
 
@@ -278,7 +272,7 @@ Crackle. Whoooosh.
 
 The lights faded. Every machine stopped.
 
-Confused shouts erupted from all around, shattering the momentary silence.
+Startled shouts broke the brief silence.
 
 “What the hell?”
 
@@ -288,35 +282,35 @@ Confused shouts erupted from all around, shattering the momentary silence.
 
 “Right? Though the experts said an A-rank Magic Gem would last at least thirty years.”
 
-“So what, does it matter why the Magic Gem ran out ten years early? Are you so curious you’re about to go insane?”
+“So? Does it matter why it ran out ten years early? Are you dying to know?”
 
 “N-No, sir.”
 
-“Enough. Everyone, focus! The Security Team and Technical Team will be here within two minutes, so don’t move a finger—stay exactly where you are! Anyone with spare mana lanterns, go get them right now.”
+“Then focus! Security and Technical will be here within two minutes. Nobody move a finger—stay where you are! If you’ve got a spare mana lantern, get it out.”
 
-But despite the department head’s shout, the entire building lit up again before even a minute had passed. The power had returned.
+Before even a minute had passed, the lights came back on. The power had returned.
 
 “Damn it. Running around for nothing…”
 
-The department head grumbled before waving away the Security Team, who had arrived a step too late.
+The department head grumbled and waved to the Security Team, who had arrived a moment too late.
 
 “As you can see, everything’s fine. Any idea why the power went out?”
 
-“I asked our team leader, too, and apparently it happens once every few years, although it’s rare. The Technical Team will have to investigate to find the exact cause.”
+“I asked my team leader. Apparently it happens once every few years, rare as it is. Technical will have to check the exact cause.”
 
 “Right. That’s their job.”
 
 The Security Team Hunter gave an awkward smile and went through the checks. Had anything gone missing during the blackout? Was anyone hurt? Had anyone noticed anything suspicious?
 
-But it was little more than a simple procedure, and there were mountains of work waiting to be handled. No one had the time or energy to devote to a blackout that had lasted barely a minute.
+It was a simple procedure, but everyone had mountains of work to do. A blackout lasting less than a minute hardly seemed worth more of their time.
 
 “Sorry, but could you come back if you have any more questions? We’re a little busy right now.”
 
-The Security Team employee nodded at the department head’s words.
+The Security Team employee nodded.
 
 “Of course. You do look a lot busier than usual. Something going on?”
 
-“A notice came down from above. Apparently, something big is going to happen sometime today.”
+“An official notice came down from above. Something big is supposed to happen today.”
 
 “Something big?”
 
@@ -328,13 +322,11 @@ The Security Team employee nodded at the department head’s words.
 
 “You too.”
 
-But as they returned to their respective positions, none of them knew.
+They returned to their posts, unaware of what had happened during that brief darkness.
 
-During that short span of less than a minute, some ghostlike entity had moved through every part of the building, riding the thick darkness.
+A ghostlike presence had traveled through the building. Deep underground, a single item had vanished from the evidence storage room.
 
-And that one item had disappeared from the evidence storage room deep underground.
-
-The hundreds of employees going about their work, the highly skilled Hunters of the Security Team, and even the alarm magic had failed to notice. The entity that had completed everything with ease leisurely slipped out of the building.
+Not one of the hundreds of employees, the skilled Hunters on the Security Team, or even the alarm magic had noticed. Having finished its work with ease, the presence slipped out of the building.
 
 Step. Step.
 
