@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 1121
-- Next chapter: 1122
-- Current block: 1120–1124 (2/5)
-- Latest translation: `translations/1121.md`
-- Latest summary: `summaries/beats/1121.md`
-- Safe profiles through: chapter 1121
+- Last completed: 1122
+- Next chapter: 1123
+- Current block: 1120–1124 (3/5)
+- Latest translation: `translations/1122.md`
+- Latest summary: `summaries/beats/1122.md`
+- Safe profiles through: chapter 1122
 
 ## Current Block
 
-- The Blood Lord destroys the Inner City wall, confirms Jin Taekyung is alive, then kills the Grand Mage for trying to take Taekyung away. He declares himself commander of the Dark Heaven army and orders the fanatics to kill everyone inside the Inner City. Badly wounded, Taekyung pushes away Cheongpung’s support, reaches Jeok Cheongang, and asks him to open a path.
+- The exhausted defenders at the Inner City make a desperate stand against tens of thousands of fanatics. Jeok Cheongang supports the critically wounded Jin Taekyung while fighting, and the Slaughter Saint and Bow Saint join them; Cheongpung also arrives. The Slaughter Saint’s words make Jeok realize Taekyung may be dying. As a powerful, unidentified figure approaches, civilians armed with crude weapons arrive to protect the people fighting for them. Taekyung briefly wakes and tells the figure to shut up.
 
 ## Open Questions
 
+- Will Jin Taekyung survive his injuries?
+- Who is the powerful figure approaching the defenders?
 - Will Hyuk Mujin survive his chest wound?
-- Who is the black-robed figure, and what was the outcome of the attack at the East Gate?
-- Who has not returned to the Inner City, and what happened to them?
-- What happened to Great Sir and Black Ghost?
-- Will Jin Taekyung and the others survive the Dark Heaven assault?
+- What happened to Cheongheoja and the black-robed figure at the East Gate?
+- What happened to Black Ghost?
 
 ## Exceptional Decision
 
