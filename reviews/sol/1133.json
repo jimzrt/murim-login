@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "the weight of a thousand *geun* pressed his eyelids down as exhaustion and sleep washed over him.",
+      "defect": "Changes ten thousand geun to one thousand.",
+      "id": "F01",
+      "rationale": "만근 means ten thousand geun.",
+      "replacement": "exhaustion and sleep washed over him, pressing down on his eyelids with the weight of ten thousand *geun*.",
+      "severity": "critical",
+      "source": "쏟아지는 피로와 졸음은 만근(萬斤)의 무게로 눈꺼풀을 짓눌렀다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Their wings spread wide, exposed white bones showing beneath the feathers, and their blood-red eyes flashed as they flew across the sky.",
+      "defect": "Adds feathers and places the exposed bones beneath them.",
+      "id": "F02",
+      "rationale": "The source describes exposed white bone joints on their wings; it does not mention feathers.",
+      "replacement": "They flew across the sky with their wings spread wide, white bone joints exposed and blood-red eyes flashing.",
+      "severity": "major",
+      "source": "새하얀 뼈마디가 드러난 날개를 활짝 편 채, 핏빛 눈동자를 번뜩인 괴조들이 하늘을 가로질러 날아가고 있었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "A final sword stroke that would lay waste to the Central Plains, a place as good as unclaimed.",
+      "defect": "“Unclaimed” suggests a question of ownership rather than the Central Plains being left undefended.",
+      "id": "F03",
+      "rationale": "무주공산 here characterizes an open, unguarded target for the reserved attack.",
+      "replacement": "A final sword stroke that would lay waste to the Central Plains, now all but undefended.",
+      "severity": "major",
+      "source": "무주공산(無主空山)이나 다름없는 중원을 초토화시킬, 최후의 일검을."
+    },
+    {
+      "confidence": 0.94,
+      "current": "No. He couldn’t possibly do that.",
+      "defect": "Collapses Jin Taekyung’s two-part refusal and loses the emphatic “absolutely not.”",
+      "id": "F04",
+      "rationale": "He is trying to object to Mae Jonghak’s order to rest, first rejecting it outright and then insisting he cannot comply.",
+      "replacement": "No. Absolutely not. He couldn’t rest now.",
+      "severity": "minor",
+      "source": "안 된다고. 절대 그럴 수는 없다고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> [Innate qi] has been restored!\n>\n> Status abnormality, [Final Rally], has been lifted!\n>\n> The sudden Quest, [A Candle in the Wind, or a Flame], has been successfully completed!",
+      "defect": "Retains square brackets around terms inside a framed System panel, contrary to the packet’s Markdown rules.",
+      "id": "F05",
+      "rationale": "The System heading and blockquote already identify the panel; the binding format excludes brackets around its terms.",
+      "replacement": "> **System**\n>\n> Innate qi has been restored!\n>\n> Status abnormality, Final Rally, has been lifted!\n>\n> The sudden Quest, A Candle in the Wind, or a Flame, has been successfully completed!",
+      "severity": "minor",
+      "source": "- [선천지기(先天眞氣)]가 회복되었습니다!\n\n- 상태 이상, [회광반조(廻光返照)]가 해제되었습니다!\n\n- 돌발 퀘스트, [바람 앞의 촛불, 혹은 불꽃]을 성공적으로 완료했습니다!"
+    }
+  ],
+  "summary": "The draft preserves the main sequence, but changes a quantity and two physical or strategic details. The System panel also retains prohibited brackets.",
+  "version": 1
+}
