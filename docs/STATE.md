@@ -1,21 +1,23 @@
 # Translation State
 
-- Last completed: 1127
-- Next chapter: 1128
-- Current block: 1125–1129 (3/5)
-- Latest translation: `translations/1127.md`
-- Latest summary: `summaries/beats/1127.md`
-- Safe profiles through: chapter 1127
+- Last completed: 1128
+- Next chapter: 1129
+- Current block: 1125–1129 (4/5)
+- Latest translation: `translations/1128.md`
+- Latest summary: `summaries/beats/1128.md`
+- Safe profiles through: chapter 1128
 
 ## Current Block
 
-- The Blood Lord, mortally wounded, questions what he fought for and realizes the Lord of Heaven never valued his loyalty. As he makes one last attack on Jin Taekyung, Jeok Cheongang blocks it; the surrounding allies shield Taekyung from the rain. The Blood Lord dies, and the Dark Heaven army collapses.
-- The System grants Taekyung multiple Level Ups and completes several Quests, extending his Final Rally to 5 minutes 35 seconds. His injuries from One Annihilation have damaged his innate qi beyond recovery, and he believes he is going to die. He shares a brief farewell with Cheongpung and prepares to say goodbye to the others.
+- Jin Taekyung reunites with the surviving Fire Dragon Pavilion members and learns that Hyuk Mujin is alive, though unconscious and badly injured. Mae Jonghak praises Mujin’s courage and tells Taekyung that the allied forces are fighting under Taekyung’s name.
+- Mae Jonghak explains that he persuaded the Seafaring King and the Green Forest Battle King to resist Dark Heaven, as in the Great Faction War. He tells Taekyung that people needed someone to believe in, and calls Taekyung a light who unites them beyond rank or formality.
+- As Taekyung’s remaining time runs down, he and Jeok Cheongang speak about meeting again after death. Taekyung asks Jeok to pass a message to his family in the realm of immortals if they ever meet. With one second left, Taekyung apologizes to his Master, and the world around him closes.
 
 ## Open Questions
 
-- Will Taekyung survive the damage to his innate qi and the end of Final Rally?
-- What will happen to the battlefield and the allied forces now that the Blood Lord is dead?
+- Did Taekyung survive when his countdown ended?
+- What favor was Jeok Cheongang about to ask of Taekyung?
+- What will happen to the battle in Xining?
 
 ## Exceptional Decision
 
