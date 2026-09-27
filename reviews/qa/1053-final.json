@@ -1,0 +1,63 @@
+{
+  "chapter": 1053,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.019,
+    "source_characters": 5115,
+    "source_paragraphs": 147,
+    "translation_characters": 10329,
+    "translation_paragraphs": 146
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "고자",
+        "preferred": "eunuch"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마도",
+        "preferred": "Demonic Path"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "의지",
+        "preferred": "Will"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "촌각",
+        "preferred": "moments"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

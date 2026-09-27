@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jin Taekyung stepped into the pool of blood and forced his feet to move.",
+      "defect": "The draft omits that Jin rises before taking a reluctant step.",
+      "id": "F01",
+      "rationale": "일어난 means he got up; 떨어지지 않은 발걸음을 뗐다 describes a step he struggled to take.",
+      "replacement": "Jin Taekyung rose, stepping in the pool of blood, and forced himself to take a step.",
+      "severity": "critical",
+      "source": "피 웅덩이를 밟으며 일어난 진태경은 떨어지지 않은 발걸음을 뗐다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "The two characters never quite made it past his tongue. Jin Taekyung silently turned them over in his mind, like bear gall.",
+      "defect": "“Two characters” refers to the Korean spelling, not the English title; “like bear gall” leaves the image’s bitterness unclear.",
+      "id": "F02",
+      "rationale": "The name remains unspoken, and 곱씹었다 evokes chewing over the bitter thought.",
+      "replacement": "The name hovered on the tip of his tongue, never spoken. Jin Taekyung silently chewed it over, bitter as bear gall.",
+      "severity": "minor",
+      "source": "차마 소리가 되어 흘러나오지 못한 채 혀끝에서만 맴도는 그 두 글자를, 진태경은 곰의 쓸개처럼 조용히 곱씹었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But the darkness cast by the two characters *Dark Heaven* was deeper and denser than any of them.",
+      "defect": "The English name is not two characters.",
+      "id": "F03",
+      "rationale": "두 글자 describes the Korean name’s written form; the image of its shadow does not depend on that count.",
+      "replacement": "But the darkness cast by the name *Dark Heaven* was deeper and denser than any of them.",
+      "severity": "minor",
+      "source": "그러나 암천(暗天)이라는 두 글자가 드리운 어둠은 그 무엇보다 깊고 짙었고"
+    },
+    {
+      "confidence": 0.96,
+      "current": "At the head of countless people and horses—thousands of them—a group roared as if coughing up blood, their torn flags whipping fiercely in the wind.",
+      "defect": "The draft changes the single torn banner into multiple flags and shifts the waving action from the group to the flags.",
+      "id": "F04",
+      "rationale": "깃발 is singular here, and the group is waving it.",
+      "replacement": "At the head of thousands of people and horses, a group fiercely waved a torn banner and roared as if coughing up blood.",
+      "severity": "minor",
+      "source": "물경 수천을 아우르는 무수한 인마의 선두에서, 찢어진 깃발을 맹렬하게 휘날리며 피를 토하듯 부르짖는 일단의 무리를."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Their flags billowed in the wind as they advanced.",
+      "defect": "The draft again makes the single banner plural.",
+      "id": "F05",
+      "rationale": "The source continues to refer to one 깃발 accompanying the group.",
+      "replacement": "The banner billowed in the wind as it advanced with them.",
+      "severity": "minor",
+      "source": "바람을 타고 나부끼는 깃발이 그들과 함께 나아간다."
+    }
+  ],
+  "summary": "The draft preserves the central Teleport deduction. Action and banner details need correction; two literal renderings of Korean character counts read unnaturally in English.",
+  "version": 1
+}
