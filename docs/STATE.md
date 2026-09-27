@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1080
-- Next chapter: 1081
-- Current block: 1080–1084 (1/5)
-- Latest translation: `translations/1080.md`
-- Latest summary: `summaries/beats/1080.md`
-- Safe profiles through: chapter 1080
+- Last completed: 1081
+- Next chapter: 1082
+- Current block: 1080–1084 (2/5)
+- Latest translation: `translations/1081.md`
+- Latest summary: `summaries/beats/1081.md`
+- Safe profiles through: chapter 1081
 
 ## Current Block
 
-- In Xining, Jin Taekyung confronts the city’s leaders over inadequate food stores and the City Lord’s corruption. He orders the Embroidered Uniform Guard to detain the City Lord and other officials, then addresses the remaining leaders. Kunlun Sect First-Generation Disciple Hak Eui introduces himself and respectfully greets Taekyung.
+- Hak Eui urges Jin Taekyung to replace beheading the corrupt City Lord of Qinghai and his associates with a harsher public execution. His real aim is to bring forward the results of his investigation into the city’s affairs; Taekyung gives him the floor, and the meeting continues through the night. The next day, the City Lord and around a dozen other criminals are brought into the streets and executed as a crowd watches. A messenger eagle arrives from the Murim Alliance in Henan; Taekyung reads the message and reacts with alarm, but its contents are not revealed.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - Why did the Lord of Heaven spare Taekyung in Gansu, and what is his real purpose?
 - Will the Alliance Leader and other righteous warriors reach Qinghai?
 - What is the hidden ember Cheongheoja warned about?
-- How will Xining secure food for its gathered refugees?
+- What did the Murim Alliance’s missive say?
 
 ## Exceptional Decision
 
