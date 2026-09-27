@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.68,
+      "current": "Our numbers had grown to nearly two thousand.",
+      "defect": "Chapter 1066 calls the force three thousand, and Chapters 1067–1068 repeat that figure without describing any reinforcements.",
+      "id": "C01",
+      "rationale": "This aligns the departure count with the repeatedly stated size of the same force. The Korean source is not in this packet, so the numerical correction has lower confidence.",
+      "replacement": "Our numbers had grown to nearly three thousand.",
+      "severity": "major",
+      "source": "Chapter 1065, departure from Gansu"
+    },
+    {
+      "confidence": 0.68,
+      "current": "growing to nearly two thousand as Kongtong, Zhongnan, Black Dragon Demon Gate, and Embroidered Uniform Guard fighters join.",
+      "defect": "The summary preserves the Chapter 1065 count that conflicts with the subsequent reading copies.",
+      "id": "C02",
+      "rationale": "Keeps the summary consistent with the proposed Chapter 1065 correction and the repeated count in Chapters 1066–1068.",
+      "replacement": "growing to nearly three thousand as Kongtong, Zhongnan, Black Dragon Demon Gate, and Embroidered Uniform Guard fighters join.",
+      "severity": "minor",
+      "source": "Checkpoint plot summary, departure from Gansu"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Great Sir first detected the surveillance in Ningxia.",
+      "defect": "Great Sir notices a watching bird in Qinghai. Ningxia is where Ma Sanbao says Great Sir was known, not where this surveillance was detected.",
+      "id": "C03",
+      "rationale": "Separates the bird’s location from the earlier information about Great Sir.",
+      "replacement": "Great Sir noticed a watching bird in Qinghai; Jin then recognized it as a possible means of surveillance.",
+      "severity": "major",
+      "source": "Checkpoint continuity, Ma Sanbao’s surveillance"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Ma Sanbao serves the Blood Lord and was covertly watching Jin’s force; Great Sir first detected the surveillance in Ningxia.",
+      "defect": "The active state repeats the false Ningxia location.",
+      "id": "C04",
+      "rationale": "Prevents the incorrect location from carrying into later chapters.",
+      "replacement": "Ma Sanbao serves the Blood Lord and was covertly watching Jin’s force; Great Sir noticed a watching bird in Qinghai, and Jin recognized the surveillance.",
+      "severity": "major",
+      "source": "Durable state, active_continuity entry on Ma Sanbao"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jeong Hogun agreed to remove the Embroidered Uniform Guard’s armor, but Jin told him to keep his helmet on when the rumble began; the order had not yet been carried out.",
+      "defect": "Chapter 1069 says Jeong had already taken off his helmet when Jin told him not to take the armor off yet.",
+      "id": "C05",
+      "rationale": "Preserves the action already taken and distinguishes the helmet from the pending armor order.",
+      "replacement": "Jeong Hogun agreed to order the Embroidered Uniform Guard to remove its armor. He had taken off his helmet when Jin told him not to remove the armor yet, as the rumble began.",
+      "severity": "minor",
+      "source": "Checkpoint continuity, armor order"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jeong Hogun agreed to Jin’s order to remove the Embroidered Uniform Guard’s armor, but Jin told him to keep his helmet on when the new rumble began.",
+      "defect": "The state says Jeong kept his helmet on, contradicting Chapter 1069.",
+      "id": "C06",
+      "rationale": "Keeps the active state aligned with the final on-page action.",
+      "replacement": "Jeong Hogun agreed to Jin’s order to remove the Embroidered Uniform Guard’s armor; after Jeong took off his helmet, Jin told him not to remove the armor yet as the new rumble began.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity entry on Jeong Hogun"
+    }
+  ],
+  "summary": "Actionable continuity issues: the force’s headcount changes without an explained reinforcement, and the checkpoint state misplaces the surveillance discovery and misstates Jeong Hogun’s helmet action.",
+  "version": 1
+}
