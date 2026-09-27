@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled chapter is largely faithful, but it drops a physical detail and a character reaction, and slightly changes an insult’s target.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 283–285",
+      "current": "Through the widening gap in the cliff, an intensely dark and viscous energy began to crawl out, gnawing away at the world.\n\nDemonic qi that would corrupt life and conquer this land!",
+      "defect": "The source also says a blade-sharp gale swept in every direction. That physical detail is omitted.",
+      "replacement": "A blade-sharp gale swept in every direction. Through the widening gap in the cliff, an intensely dark and viscous energy began to crawl out, gnawing away at the world.\n\nDemonic qi that would corrupt life and conquer this land!",
+      "rationale": "The source explicitly describes the gale before the dark energy emerges; the assembled passage moves directly from the roar to the energy.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 313–317",
+      "current": "A young man stood tall, staring at the unbelievable, overwhelming spectacle unfolding before him.\n\nEnough to make her want to rip his throat out in one go.",
+      "defect": "The source says the Demon Empress finds his appearance laughable and pitiful. The assembled version omits both reactions.",
+      "replacement": "A young man stood tall, staring at the unbelievable, overwhelming spectacle unfolding before him. To the Southern Heaven Demon Empress, he looked utterly laughable and pitiful.\n\nEnough to make her want to rip his throat out in one go.",
+      "rationale": "The source explicitly attributes both the amusement and pity to the Demon Empress before saying she wants to tear out his throat.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 167",
+      "current": "I have no interest in a beast that reeks like you do.",
+      "defect": "The wording makes the beast smell like the Demon Empress, adding a personal-odor implication. The source calls it a foul-smelling beast.",
+      "replacement": "I have no interest in some musk-reeking beast.",
+      "rationale": "노린내 나는 modifies 짐승; the insult is directed at the beast’s smell, not a smell shared with the speaker.",
+      "confidence": 0.96
+    }
+  ]
+}

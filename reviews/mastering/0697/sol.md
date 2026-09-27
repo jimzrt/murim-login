@@ -22,9 +22,7 @@ I knew it was her. I forced the words out through clenched teeth.
 
 Heat churned in my gut as if I’d swallowed lava. My fingers trembled around the spear shaft, and my heart hammered against my ribs.
 
-A tidal wave of emotion raged through me—far more fiercely than when I had faced Baeksang.
-
-But simple hostility and anger were not the only things that had seized me.
+The emotions raging through me were nothing like what I’d felt when I faced Baeksang. But hostility and anger weren’t the only things holding me in place.
 
 *She’s strong.*
 
@@ -60,9 +58,7 @@ In Hubei, the Southern Heaven Demon Empress had been nothing more than a beautif
 
 The one thing I regretted was being too stupid to recognize the culprit standing right in front of me.
 
-My anger at myself for failing to realize I had been toyed with for someone else’s amusement.
-
-And my guilt at failing to prevent an even greater sacrifice.
+I was angry at myself for failing to see that I’d been toyed with for someone else’s amusement. And I blamed myself for not preventing the greater loss of life that followed.
 
 Rustle.
 
@@ -114,7 +110,7 @@ Her voice trailed off as her gaze shifted slightly downward, toward the enormous
 
 Grrrrr.
 
-The guardian spirit growled low and glared at the Southern Heaven Demon Empress. I could feel its muscles tense as it prepared itself.
+The guardian spirit growled and glared at her. I could feel its muscles tighten beneath me.
 
 —A hideous beast, you say. Then what should a human like you be called?
 
@@ -128,7 +124,7 @@ The warriors surrounding the Inner Palace, inside and out, caught their breath. 
 
 I tightened my grip on the spear. Dozens of movements and forms flashed through my mind—ways to end her life with the fastest, deadliest strike I could deliver.
 
-“You’ll find it even more interesting in a moment. This one’s going to bite through the back of your neck.”
+“You’ll find it even more interesting in a moment. It’s going to tear out the back of your neck.”
 
 “A beast is still a beast. The same was true of a certain foolish imugi that waited for Heaven’s call.”
 
@@ -146,7 +142,7 @@ A faint smile touched her lips.
 
 “Memories?”
 
-—Everything that makes up the world possesses an essence and traces. And in that sense, you in its memories were…
+—Everything in this world has an essence and leaves traces. And in his memories, you were…
 
 “Beautiful, I suppose. Dazzlingly so.”
 
@@ -158,7 +154,7 @@ A faint smile touched her lips.
 
 Silence followed the guardian spirit’s words. The people who had been murmuring in shock fell quiet. The countless growling beasts held their breath and lowered themselves to the ground.
 
-And at the center of it all stood one person.
+At the center of it all stood one woman.
 
 Fwoosh!
 
@@ -192,7 +188,7 @@ That was why I could speak.
 
 Just like this.
 
-“How ugly is your face, really, for someone to say something like that to you?”
+“How smashed up is your real face for it to look that ugly?”
 
 “…!”
 
@@ -226,9 +222,9 @@ The earth shook. The world shook. With a deafening roar, the enormous cliff that
 
 Someone groaned in shock at the strange, terrifying sight.
 
-*So it has come to this. At long last.*
+*So it’s come to this. In the end.*
 
-Someone else spat out a despairing mutter in the depths of their heart.
+Someone else whispered in despair, deep in their heart.
 
 “It’s over. All of it.”
 
@@ -242,11 +238,11 @@ How could she not? This was the fruit of long years of endurance.
 
 That rift, far larger and more powerful than the one in Hubei Province, was her creation. It marked the moment the omnipotent Lord of Heaven’s will descended upon this land.
 
-Kraaaaaaash!
+Whoooooosh!
 
-Through the widening gap in the cliff, an intensely dark and viscous energy began to crawl out, gnawing away at the world.
+A blade-sharp gale swept through the area. From the widening gap in the cliff, a darkness thick with qi began to crawl out, gnawing at the world.
 
-Demonic qi that would corrupt life and conquer this land!
+Demonic qi that would corrupt life and claim this land!
 
 —Krrk, krrrk!
 
@@ -254,13 +250,13 @@ Demonic qi that would corrupt life and conquer this land!
 
 “Ghk. Guhk!”
 
-“W-what’s happening all of a sudden—krrk!”
+“W-what’s happening to you all of a sudden—krrk!”
 
-The rift had not even opened completely, yet its power was already spreading in every direction.
+The rift was not yet fully open, but its power was already spreading.
 
 Look at that surging darkness. At the countless beasts and humans writhing with the whites of their eyes showing, awaiting the change to come.
 
-And soon, the change caused by the rift would begin.
+Soon the rift would change them.
 
 *No. That’s not right.*
 
@@ -272,11 +268,11 @@ A lingering smile spread across the Southern Heaven Demon Empress’s lips. Then
 
 *Jin Taekyung.*
 
-A young man stood tall, staring at the unbelievable, overwhelming spectacle unfolding before him.
+The young man stood motionless, staring at the vast, unbelievable sight before him. To her, he looked laughable and pitiable.
 
-Enough to make her want to rip his throat out in one go.
+So pitiable she wanted to tear out his throat in one bite.
 
-*You… should never have come here.*
+*You should never have come here.*
 
 She was about to launch herself toward Jin Taekyung when—
 
