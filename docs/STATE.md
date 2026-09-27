@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 1069
-- Next chapter: 1070
-- Current block: 1065–1069 (5/5)
-- Latest translation: `translations/1069.md`
-- Latest summary: `summaries/beats/1069.md`
-- Safe profiles through: chapter 1069
+- Last completed: 1070
+- Next chapter: 1071
+- Current block: 1070–1074 (1/5)
+- Latest translation: `translations/1070.md`
+- Latest summary: `summaries/beats/1070.md`
+- Safe profiles through: chapter 1070
 
 ## Current Block
 
-- Great Sir’s alarming bad feeling turns out to be urgent bowel trouble, frustrating Jin and Jeok Cheongang but not changing their need to escape. Their group has already repelled three pursuers; the tireless undead keep catching up, and the allies estimate it will take two days to reach Qinghai Lake. Ju Hwaran warns that safety there depends on Qinghai’s forces having gathered and the enemy not committing everything to the pursuit. Jin decides the Embroidered Uniform Guard should remove its distinctive armor, but an unprecedented rumble begins before the order can be carried out.
-- Jeong Hogun initially refuses to remove armor bestowed by the Emperor, then agrees after Jin invokes the Emperor’s order to prioritize the Marquis of Shangshan’s commands. Jin tells him to keep his helmet on when the new rumble begins.
+- As Jin’s force of roughly three thousand retreats east, a towering monster emerges and its Fear effect freezes the troops. Jin cuts off its fist and kills it with Fire Dragon’s Single Tail and hellfire. More enemies approach from every direction; faint bell sounds accompany a coordinated encirclement. Jin declares they must fight their way through, and the force levels its weapons.
 
 ## Open Questions
 
 - Who is Great Sir, and what is his connection to Hyeoncheon and the surviving Kongtong Disciples?
 - Did Jin’s sword strike kill or otherwise affect the watching crow?
 - Are Dark Heaven’s forces broadly composed of reanimated corpses, and has Ma Sanbao spread the Corpse Art to others?
-- What caused the new rumble, and what is approaching the retreating group?
 - What is the Lord of Heaven seeking through Jin, and when will he appear?
+- Who created the giant monster, and who directs the coordinated encirclement signaled by bells?
 
 ## Exceptional Decision
 
