@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1085
-- Next chapter: 1086
-- Current block: 1085–1089 (1/5)
-- Latest translation: `translations/1085.md`
-- Latest summary: `summaries/beats/1085.md`
-- Safe profiles through: chapter 1085
+- Last completed: 1086
+- Next chapter: 1087
+- Current block: 1085–1089 (2/5)
+- Latest translation: `translations/1086.md`
+- Latest summary: `summaries/beats/1086.md`
+- Safe profiles through: chapter 1086
 
 ## Current Block
 
-- The Yangtze River Channel League and Green Forest Alliance march west in force, joined by Dark Heaven troops through Moving Formations; the Green Forest forces alone number about five thousand near Tongsan. With the orthodox factions weakened and some leaders unwilling to risk their families, Zhuge Feng leaves a gathering and seeks the concealed Alliance Leader in the Zhuge Clan’s Inner Hall garden.
+- Mae Jonghak reveals that a long-prepared opportunity to strike back against Dark Heaven has arrived. He gives Zhuge Feng Song Ho’s secret list of embedded spies, allies, and meeting locations, then leaves; Zhuge Feng prepares the Zhuge Clan to evacuate immediately and urges Jin Taekyung to hold on in the west.
 
 ## Open Questions
 
