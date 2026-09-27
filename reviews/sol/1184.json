@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The man who’d made a medicine close to poison by crossing that “very fine line” gave a quiet sigh and continued,",
+      "defect": "Crossing the line implies he made poison. He used the fine distinction to make something that remained medicine.",
+      "id": "F01",
+      "rationale": "독에 가까운 약 remains medicine, explaining why the poison warning and ring did not activate.",
+      "replacement": "The man who’d used that “very fine line” to make a medicine almost indistinguishable from poison sighed softly and added,",
+      "severity": "major",
+      "source": "바로 그 ‘아주 미세한 차이’로 독에 가까운 약을 만들어낸 장본인은 작게 한숨을 내쉬며 덧붙였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Their palms and twin sabers collided.",
+      "defect": "The draft leaves out that Taekyung strikes with both palms.",
+      "id": "F02",
+      "rationale": "쌍장 and 쌍도 specify two palms against two sabers.",
+      "replacement": "Both his palms slammed into her twin sabers.",
+      "severity": "minor",
+      "source": "쌍장(雙掌)과 쌍도(雙刀)가 부딪혔다."
+    },
+    {
+      "confidence": 0.88,
+      "current": "No. Perhaps the only adversary of the Lord of Heaven, chosen by Heaven itself.",
+      "defect": "The established rendering of 대적자 is “the Adversary.”",
+      "id": "F03",
+      "rationale": "This preserves the source’s uncertainty and uses the packet’s binding term.",
+      "replacement": "No. Perhaps the Lord of Heaven’s only Adversary, chosen by Heaven itself.",
+      "severity": "minor",
+      "source": "아니 어쩌면, 하늘이 선택한 천주(天主)의 유일한 대적자."
+    }
+  ],
+  "summary": "Two action details and one established term need correction.",
+  "version": 1
+}

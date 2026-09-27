@@ -1,23 +1,22 @@
 # Translation State
 
-- Last completed: 1183
-- Next chapter: 1184
-- Current block: 1180–1184 (4/5)
-- Latest translation: `translations/1183.md`
-- Latest summary: `summaries/beats/1183.md`
-- Safe profiles through: chapter 1183
+- Last completed: 1184
+- Next chapter: 1185
+- Current block: 1180–1184 (5/5)
+- Latest translation: `translations/1184.md`
+- Latest summary: `summaries/beats/1184.md`
+- Safe profiles through: chapter 1184
 
 ## Current Block
 
-- At a ruined city near the Tianshan Mountains, Jin Taekyung and Hyuk Mujin wait for the Murim Alliance and Imperial Guards, who have not arrived by the agreed deadline. Mungyeong sends Taekyung a special fasting pill; Taekyung and Mujin share their worry for their absent companions and agree to bet that they will arrive before midnight.
-- After midnight, Jeok Cheongang announces that the group will advance as planned rather than wait or turn back to seek their allies. Taekyung realizes Jeok had concealed the plan from him. Jeok explains that if the forces failed to rendezvous by the agreed date, they would advance without hesitation—and reveals that Taekyung is to be the main attack.
+- Jeok Cheongang reveals that Taekyung was secretly designated the allied forces’ main attack against Dark Heaven, a plan everyone present accepted to keep him hidden as their last weapon. Taekyung refuses to abandon his missing companions and decides to turn back, but the Slaughter Saint incapacitates him with a specially made medicine and the Bow Saint blocks his escape; Jeok catches him as he collapses.
 
 ## Open Questions
 
+- What happened to the separated companions and allied troops?
 - Why did the Murim Alliance and Imperial Guards miss the rendezvous?
-- What does it mean for Taekyung to be the main attack, and why was the plan concealed from him?
-- What caused Taekyung's chest pain and sleeplessness?
-- What command will the Lord of Heaven give the Grand Mage, and what remains to be completed?
+- What caused Taekyung’s chest pain and sleeplessness?
+- What remains to be completed for the Lord of Heaven, and what command will he give the Grand Mage?
 - What is Alpha, and what does its awakening mean?
 
 ## Exceptional Decision
