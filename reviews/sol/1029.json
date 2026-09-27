@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Not like the Second Elder, whose collarbone had been torn away first, then one arm had been severed, and finally his Eight Extraordinary Meridians had been ripped to shreds before his head was cut off.",
+      "defect": "“Not like” reverses the comparison: Jin wants the Third Elder to suffer as the Second Elder did.",
+      "id": "F01",
+      "rationale": "그랬던 것처럼 means “just as [the Second Elder] had.”",
+      "replacement": "Like the Second Elder, whose collarbone had been torn away first, then one arm had been severed, and finally his Eight Extraordinary Meridians had been ripped to shreds before his head was cut off.",
+      "severity": "critical",
+      "source": "가장 먼저 쇄골이 뜯겨 나가고, 곧이어 한쪽 팔이 잘리고, 결국은 몸 안의 기경팔맥(奇經八脈)이 갈기갈기 찢어진 후에야 목이 잘려 나간 이노가 그랬던 것처럼."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I was speaking to the monster watching this whole scene from a dozen or so yards away, his face alight with excitement—the one who’d cut a thousand people’s heads off with a single gesture.",
+      "defect": "십여 장 is more than ten jang, not a dozen yards; the draft places him substantially closer.",
+      "id": "F02",
+      "rationale": "A jang is roughly three meters; ten-plus jang exceeds thirty yards.",
+      "replacement": "I was speaking to the monster watching this whole scene from more than thirty yards away, his face alight with excitement—the one who’d cut a thousand people’s heads off with a single gesture.",
+      "severity": "critical",
+      "source": "상기 어린 얼굴로 십여 장 밖에서 이 모든 사태를 지켜보던, 단 한 번의 손짓으로 천 명의 목을 떨어트린 괴물에게 건네는 말이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "This wasn’t a grappling technique steeped in complex principles, nor was it a palm strike charged with internal energy.",
+      "defect": "The source rules out any move powered by internal energy, not specifically a palm strike.",
+      "id": "F03",
+      "rationale": "공력이 담겨 있는 한 수 specifies an internal-energy-powered move without naming a strike type.",
+      "replacement": "This wasn’t a grappling technique steeped in complex principles, or even a move powered by internal energy.",
+      "severity": "major",
+      "source": "이건 복잡한 묘리가 스며든 금나수(禁拿囚)도, 공력이 담겨 있는 한 수도 아니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Go to hell. This old man never had a junior like you.”",
+      "defect": "“Go to hell” sanitizes Jeok’s blunt sexual profanity.",
+      "id": "F04",
+      "rationale": "좆이나 까거라 is a vulgar dismissal; the exchange depends on the contrast with the Demon Lord’s teasing respect.",
+      "replacement": "“Fuck off. This old man never had a junior like you.”",
+      "severity": "major",
+      "source": "“좆이나 까거라. 노부는 네놈 같은 후배 둔 적 없으니.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "A descendant of the Fire Gate Clan, the heroes I’d heard about only in stories!",
+      "defect": "“The heroes” adds a plural characterization absent from the source.",
+      "id": "F05",
+      "rationale": "The exclamation is about encountering a descendant of the Fire Gate Clan, not a group of heroes.",
+      "replacement": "A descendant of the Fire Gate Clan I’d only ever heard about!",
+      "severity": "minor",
+      "source": "말로만 들었던 열화문의 후예라니!"
+    },
+    {
+      "confidence": 0.85,
+      "current": "Everyone around you shuddered and called you a mad old man, but not me.",
+      "defect": "“Around you” assigns the onlookers to Jeok when the source leaves whose circle they belonged to unspecified.",
+      "id": "F06",
+      "rationale": "주위의 모두 contrasts the others’ reaction with the speaker’s without identifying them as Jeok’s companions.",
+      "replacement": "Everyone else shuddered and called you a mad old man, but I didn’t.",
+      "severity": "minor",
+      "source": "주위의 모두가 미친 늙은이라며 치를 떨었지만, 나만큼은 아니었소."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> Defeated [Lv. 135 Gungongbo]!",
+      "defect": "Square brackets remain around a System notice’s target, contrary to the packet’s System-panel rule.",
+      "id": "F07",
+      "rationale": "The blockquote and System heading already frame the notice; the binding rule excludes square brackets around System UI terms.",
+      "replacement": "> Defeated Lv. 135 Gungongbo!",
+      "severity": "minor",
+      "source": "- [Lv.135 고궁보]를 처치했습니다!"
+    }
+  ],
+  "summary": "One negation reverses the Second Elder’s death; other findings concern distance, combat mechanism, register, and a System-panel formatting rule.",
+  "version": 1
+}
