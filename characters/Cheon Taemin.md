@@ -1,6 +1,6 @@
 # Cheon Taemin (천태민)
 
-- **Safe through:** Chapter 1174
+- **Safe through:** Chapter 1175
 - **Aliases:** Slayer; Sky (the American epithet used for him)
 - **Role:** Ares Guild Master and humanity's greatest Hunter, the Slayer who defeated the Demon King and created the first Mana Cultivation Method during the Great Cataclysm; he remains unconscious in a secret facility deep beneath the Pentagon.
 - **Personality:** Not established.

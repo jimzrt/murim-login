@@ -1,6 +1,6 @@
 # Seong Jinho (성진호)
 
-- **Safe through:** Chapter 406
+- **Safe through:** Chapter 1175
 - **Aliases:** Jinho; Mr. Seong Jinho
 - **Role:** Seong Jinho is the manager of Hope Goshiwon, a thirty-year-old exam candidate, and Jin Taekyung’s older civilian friend and current roommate.
 - **Personality:** Knowledgeable about IT, shamelessly blunt, melodramatic when threatened, and a heavy drinker

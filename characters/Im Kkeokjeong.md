@@ -1,6 +1,6 @@
 # Im Kkeokjeong (임꺽정)
 
-- **Safe through:** Chapter 1173
+- **Safe through:** Chapter 1175
 - **Aliases:** Im Hyeokjun; Kkeokjeong hyung; Uncle Kkeokjeong
 - **Role:** Ares Guild Team 32 Leader and veteran Hunter; he rose from F-rank to B-rank.
 - **Personality:** Good-natured and teasing, he uses humor to ease rookies’ nerves and is modest about his own merits.
