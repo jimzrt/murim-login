@@ -2509,3 +2509,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 대인 | **Great Sir** | Name used for the mysterious figure in Ningxia. |
 | 청해호 | **Qinghai Lake** | Destination of the retreat; distinct source form from 청해성. |
 | 춘자 | **Chunja** | Name the Great Sir says the monsters should obey; he adopts it after changing his name and gender. |
+| 순자 | **Soonja** | Name Great Sir gives herself. |

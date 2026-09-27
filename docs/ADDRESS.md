@@ -1534,3 +1534,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 대인 | 태산 | elder addressing a younger ally | young friend | familiar and playful | Offers Taishan a portion of the bird as a reward. |
 | 혈주 | 마삼보 | superior_to_subordinate | you; you fool | hostile and threatening | The Blood Lord berates Ma Sanbao after the surveillance is exposed. |
 | 마삼보 | 혈주 | subordinate_to_superior | My Lord | deferential | Ma Sanbao reports to the Blood Lord and pleads for mercy. |
+| 청풍 | 순자 | stranger_to_stranger | Auntie | polite | Cheongpung addresses Soonja as 아주머니. |
