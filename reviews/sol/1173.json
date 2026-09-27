@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "—Monster Wave detected 3.2 kilometers to the east!",
+      "defect": "Reports the wave only to the east; the source says east and west.",
+      "id": "F01",
+      "rationale": "동서쪽 names both directions, not east alone.",
+      "replacement": "—Monster Wave detected 3.2 kilometers away to the east and west!",
+      "severity": "critical",
+      "source": "동서쪽 3.2km 밖에서 몬스터 웨이브 발생!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The rift had passed its threshold. The Collapse had begun.",
+      "defect": "Changes progression beyond the rift stage into a rift crossing its own threshold.",
+      "id": "F02",
+      "rationale": "균열의 단계를 넘어 describes moving beyond the rift stage.",
+      "replacement": "The rift stage was over. The Collapse had begun.",
+      "severity": "major",
+      "source": "균열의 단계를 넘어 붕괴가 시작되었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Thankfully, that laugh hadn’t been an ordinary person pretending to be a vicious criminal.",
+      "defect": "Reverses who would be pretending: the young man is reassured that the frightening-looking leader is not a criminal posing as an ordinary person.",
+      "id": "F03",
+      "rationale": "흉악범의 일반인 코스프레 means a vicious criminal masquerading as an ordinary person.",
+      "replacement": "Thankfully, that laugh hadn’t come from a vicious criminal pretending to be an ordinary person.",
+      "severity": "critical",
+      "source": "다행히도 앞서 느낀 그 웃음은 흉악범의 일반인 코스프레가 아니었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "So far beneath the bottom that adding UCK to the end of his rank wouldn’t seem out of place.",
+      "defect": "Adding UCK to “F-rank” does not produce the source’s F-U-C-K joke.",
+      "id": "F04",
+      "rationale": "The suffix attaches to the letter F, spelling the insult.",
+      "replacement": "So far beneath the bottom that you could tack UCK onto the F and it would fit perfectly.",
+      "severity": "major",
+      "source": "등급 뒤에 UCK를 붙여도 전혀 이질감이 없다는 밑바닥 아래의 지하."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Jesus, there he goes with the ‘back in my day’ again. The man lives on Mocha Gold.”",
+      "defect": "Loses the latte wordplay that prompts the exchange about Mocha Gold and White Gold.",
+      "id": "F05",
+      "rationale": "그놈의 라떼 plays on the sound of the stock ‘back in my day’ phrase; the next lines continue the coffee joke.",
+      "replacement": "“Jesus, here comes his ‘back in my day’ latte again.[^1] And all he ever drinks is Mocha Gold.”\n\n[^1]: The Korean phrase for “back in my day” sounds like “latte,” setting up the instant-coffee joke.",
+      "severity": "major",
+      "source": "염병, 그놈의 라떼 또 나왔네. 허구헌날 모카 골드만 처먹는 양반이."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Yeah. Almost every day for half a year. From the crack of dawn until evening, without missing a single day.”",
+      "defect": "Makes attendance ‘almost every day,’ contradicting the explicit statement that he missed no days. The approximation applies to the duration.",
+      "id": "F06",
+      "rationale": "거의 modifies 반년, while 단 하루도 안 빼놓고 rules out missed days.",
+      "replacement": "“Yeah. For nearly half a year. From the crack of dawn until evening, without missing a single day.”",
+      "severity": "minor",
+      "source": "그래, 거의 반년 내내 그랬지. 단 하루도 안 빼놓고, 꼭두새벽부터 저녁까지."
+    },
+    {
+      "confidence": 0.95,
+      "current": "I remember the headline: *From F-rank to B-rank: The most dramatic rise of any Hunter.*",
+      "defect": "Turns the headline’s steep twists and turns in a Hunter’s life into an unqualified rise.",
+      "id": "F07",
+      "rationale": "인생 굴곡 refers to life’s ups and downs, not solely upward advancement.",
+      "replacement": "I remember the headline: *From F-rank to B-rank: A Hunter’s Life of Extraordinary Ups and Downs.*",
+      "severity": "major",
+      "source": "F급에서 B급까지. 누구보다 가팔랐던 어느 헌터의 인생 굴곡."
+    }
+  ],
+  "summary": "Actionable errors in the reported direction, a reversed comparison, the Collapse’s progression, and two jokes.",
+  "version": 1
+}

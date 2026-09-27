@@ -1598,3 +1598,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 모르고스 | 아스모데우스 | being summoned by Asmodeus | Asmodeus | formal and measured | Morgoth directly addresses Asmodeus while reflecting on his failure. |
 | 진태경 | 골골이 | friends | Bones | casual and familiar | Jin calls his revived friend 골골이. |
 | 언데드 킹 | 진태경 | friends | human | casual and familiar | The Undead King addresses Jin as 인간. |
+| 임꺽정 | 신입 | team leader to rookie team member | rookie | casual | Kkeokjeong uses this address while encouraging the young Hunter. |
