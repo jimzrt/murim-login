@@ -1526,3 +1526,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 현천진인 | 진 도우 | fellow martial artist and acquaintance | my friend Jin | familiar and respectful | Hyeoncheon greets Taekyung as 진 도우 after recognizing him from their earlier meeting. |
 | 진태경 | 대인 | young martial artist to benefactor | you | casual and blunt | Taekyung asks who Great Sir is, addressing him as 당신. |
 | 대인 | 진태경 | older benefactor to young martial artist | you | familiar conversational | Great Sir addresses Taekyung as 자네. |
+| 혈주 | 대술사 | fellow servant of the same person | you; you bitch | insulting-casual | Blood Lord taunts the Grand Mage and uses a crude insult. |
+| 대술사 | 혈주 | fellow servant of the same person | you | contemptuous-casual | The Grand Mage addresses the Blood Lord while rebuking him. |

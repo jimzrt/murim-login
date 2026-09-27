@@ -1,28 +1,28 @@
 # Translation State
 
-- Last completed: 1061
-- Next chapter: 1062
-- Current block: 1060–1064 (2/5)
-- Latest translation: `translations/1061.md`
-- Latest summary: `summaries/beats/1061.md`
-- Safe profiles through: chapter 1061
+- Last completed: 1062
+- Next chapter: 1063
+- Current block: 1060–1064 (3/5)
+- Latest translation: `translations/1062.md`
+- Latest summary: `summaries/beats/1062.md`
+- Safe profiles through: chapter 1062
 
 ## Current Block
 
-- Taekyung uses Qi Sense on Great Sir. The System only partially succeeds, showing Level 119 but initially no name; after Great Sir calls himself “Madman,” the display changes, and later changes again to “Gaettong.” Ma Junggeol says Great Sir’s name changes between visits and recalls “Jeomsuni,” “Gaettong,” and “Sottong.” Taekyung gives up trying to make sense of it.
+- Taekyung concludes Great Sir is genuinely insane rather than a Dark Heaven spy and urges accepting him as an ally, though he cannot explain his conviction. After the victory in Gansu, Taekyung feels no joy; he completes the Path of Blood Quest and accepts a new chain Quest.
+- At the Taiqing Hall in Kunlun, the Blood Lord and Grand Mage argue over their recent failures. The Blood Lord boasts of his achievement and reveals the word “Kunlun” carved into his throne.
 
 ## Open Questions
 
-- What are the identity and purpose of the Lord of Heaven, and is he connected to Asmodeus?
-- Where are the remaining Kongtong Sect survivors?
-- What is the new mission in Qinghai, and who is the other servant there?
-- What is the mysterious green light?
-- Who is Great Sir, and why does the name he uses change?
+- Who is Great Sir, and why does he believe himself to be the changing names displayed by the System?
+- What is the important item the Blood Lord retrieved, and what achievement is he boasting about?
+- Who is the person served by the Blood Lord and Grand Mage, and is that person connected to Asmodeus?
+- What are the details of the new chain Quest Taekyung accepted?
 
 ## Exceptional Decision
 
-- Render 대인 as “Great Sir” for the mounted bandits’ address.
-- Render 미친놈 as “Madman” when Great Sir adopts it as a name; render 소똥이 as “Sottong” with the gloss “Cow Poop.”
+- Render 말똥 as “Malttong,” glossed as “Horse Poop.”
+- Render 태청전 as “Taiqing Hall.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
