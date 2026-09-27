@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The distance of more than twenty jang closed in an instant, and the staggering monster came rushing toward him.",
+      "defect": "Makes the staggering monster rush toward Cheongpung; the monster only appears closer because Cheongpung has closed the distance.",
+      "id": "F01",
+      "rationale": "The preceding movement is Cheongpung’s. The Korean describes the monster’s appearance drawing nearer, not the monster charging.",
+      "replacement": "The distance of more than twenty jang closed in an instant, and the staggering monster loomed suddenly closer.",
+      "severity": "critical",
+      "source": "이십여 장에 달하던 거리가 순식간에 좁혀지고, 비틀거리는 괴물의 모습이 성큼 다가왔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Their unshakable, desperate resolve shot toward the wall of fanaticism like a spear from behind the person kneeling at their backs.",
+      "defect": "Places the spear behind the kneeling person rather than making it that person’s spear.",
+      "id": "F02",
+      "rationale": "누군가의 창 identifies the spear as belonging to the person kneeling behind them.",
+      "replacement": "Their unshakable, desperate resolve shot toward the wall of fanaticism like the spear of someone kneeling behind them.",
+      "severity": "major",
+      "source": "그리고 그 굳건하고도 처절한 결사(決死)의 각오가, 그들의 등 뒤에 무릎 꿇은 누군가의 창처럼 광신(狂信)의 벽을 향해 쏘아졌다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "No matter how many Temporary Strength Pills they took, no pill could close the gap in martial enlightenment.",
+      "defect": "Introduces an unsupported quantity of pills.",
+      "id": "F03",
+      "rationale": "The Korean says taking the pill cannot bridge the gap; it does not suggest taking multiple pills.",
+      "replacement": "Even with Temporary Strength Pills, they could not close the gap in martial enlightenment.",
+      "severity": "minor",
+      "source": "제아무리 잠력단을 복용했다 한들, 무학에 대한 깨달음의 간극은 좁힐 수 없는 법."
+    }
+  ],
+  "summary": "Three actionable fidelity findings: one altered movement, one misplaced spear, and one unsupported pill quantity.",
+  "version": 1
+}

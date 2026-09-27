@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "His lips went white. His nails dug deep into his skin, and hot blood ran between his fingers—not the conflict he felt.",
+      "defect": "The final clause does not connect coherently to the physical description.",
+      "id": "C01",
+      "rationale": "Preserves his physical reaction and inner conflict without the broken comparison.",
+      "replacement": "His lips went white. His nails dug deep into his skin, and hot blood ran between his fingers. None of it matched the turmoil inside him.",
+      "severity": "minor",
+      "source": "Chapter 1105, Jeok Cheongang at the North Gate"
+    },
+    {
+      "confidence": 0.91,
+      "current": "The modern world was still full of Madmen.",
+      "defect": "The unexplained capitalization makes an ordinary noun look like a defined group.",
+      "id": "C02",
+      "rationale": "The same passage later uses “Madmen” generically rather than identifying an organization or title.",
+      "replacement": "The modern world was still full of madmen.",
+      "severity": "minor",
+      "source": "Chapter 1106, Taekyung’s reflection on the modern world"
+    },
+    {
+      "confidence": 0.86,
+      "current": "The purple Force Cheongpung had sent flying grazed the Blood Lord’s arm, frozen for a moment.\n\nNo—it cut through it.",
+      "defect": "The singular arm obscures how the next sentence can send both arms into the air.",
+      "id": "C03",
+      "rationale": "Makes the immediate action legible without changing the stated result.",
+      "replacement": "The purple Force Cheongpung had sent flying grazed the Blood Lord’s raised arms.\n\nNo—it cut through them.",
+      "severity": "minor",
+      "source": "Chapter 1109, Cheongpung’s strike at the Blood Lord"
+    },
+    {
+      "confidence": 0.96,
+      "current": "and a violent impact fills Cheongpung’s vision with blood.",
+      "defect": "Identifies an impact that the chapter does not establish.",
+      "id": "C04",
+      "rationale": "Keeps the final event observable without resolving what happened or whose blood it is.",
+      "replacement": "and sticky blood paints Cheongpung’s vision red amid the sound of flesh and bone tearing.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot, final sentence"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The final impact obscured his vision with blood; his fate is unknown.",
+      "defect": "Treats the unresolved final event as a confirmed impact.",
+      "id": "C05",
+      "rationale": "Preserves the uncertainty of Cheongpung’s fate and the chapter’s exact sensory hook.",
+      "replacement": "At the end, the sound of flesh and bone tearing accompanied blood painting his vision red; his fate is unknown.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Continuity, Cheongpung bullet"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Cheongpung attacked the Blood Lord; a violent impact at the end of the chapter obscured Cheongpung’s vision with blood.",
+      "defect": "Stores an unconfirmed impact as a continuity fact.",
+      "id": "C06",
+      "rationale": "Keeps active state limited to what the reading copy reveals.",
+      "replacement": "Cheongpung attacked the Blood Lord; at the end of the chapter, the sound of flesh and bone tearing accompanied sticky blood painting Cheongpung’s vision red.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity, Cheongpung entry"
+    }
+  ],
+  "summary": "The reading copies maintain the stated terminology and unresolved hooks. The checkpoint materials turn the final, unidentified burst of blood into a confirmed impact; two smaller prose issues are actionable.",
+  "version": 1
+}
