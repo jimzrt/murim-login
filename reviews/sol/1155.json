@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The man looked to be in his nineties, hardly able to move without an Awakening—maybe even a stimulant—but there was no age limit on America’s venerable martial art of gunmanship.",
+      "defect": "The draft suggests an Awakening might get the doctor moving. The source says he looks far from Awakened and would need a stimulant just to move. “Gunmanship” also loses the mock martial-art name.",
+      "id": "F01",
+      "rationale": "각성은커녕 contrasts being Awakened with needing 각성제, while 건법(Gun法) presents shooting as a martial art.",
+      "replacement": "The man looked to be in his nineties and, far from being Awakened, seemed to need a shot of stimulants just to move. But America’s venerable martial art of gun-fu had no age limit.",
+      "severity": "major",
+      "source": "한눈에 보기에도 각성은커녕 각성제라도 맞아야 움직일 수 있을 것 같은 90대 노인이었으나, 아메리카의 유구한 전통 무술인 건법(Gun法)에는 별다른 나이 제한도 없으니까."
+    }
+  ],
+  "summary": "One actionable fidelity finding.",
+  "version": 1
+}
