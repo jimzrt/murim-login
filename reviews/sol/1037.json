@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "That was why Sama Pyo couldn’t look away now.\n\nHe could have dodged, but he couldn’t.",
+      "defect": "“Couldn’t look away” changes his inability to see an acceptable escape into an inability to avert his gaze.",
+      "id": "F01",
+      "rationale": "He can physically evade the Sword Energy, but doing so would leave an ally to die.",
+      "replacement": "That was why, at this moment, Sama Pyo could see no way out.\n\nHe could have dodged, but he couldn’t.",
+      "severity": "critical",
+      "source": "그렇기에, 지금 이 순간 사마표의 눈에는 보이지 않았다.\n\n분명 피할 수 있었으나, 피할 수 없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Why hadn’t they targeted this place, when Sima Gong commanded an army of thirty thousand and they were the key force on this battlefield?",
+      "defect": "“They” makes the Black Ghosts the key force; the source identifies Sima Gong’s thirty-thousand-strong army as that force.",
+      "id": "F02",
+      "rationale": "Sama Pyo is questioning why the Black Ghosts left his father’s strategically important army alone.",
+      "replacement": "Why hadn’t they targeted this place, when Sima Gong’s thirty-thousand-strong army was the key force on this battlefield?",
+      "severity": "critical",
+      "source": "흑야왕 사마공이 이끄는 삼만의 대병력이 있음에도, 이 전장의 핵심이라 할 수 있는 전력임에도 어찌 이곳만큼은 노리지 않았는가."
+    },
+    {
+      "confidence": 0.96,
+      "current": "His father had already made up his mind to go another way.",
+      "defect": "The draft turns Sima Gong’s concealed ulterior intentions into a definite decision to take another path.",
+      "id": "F03",
+      "rationale": "다른 마음을 품다 indicates a hidden change of intention; the source does not specify a chosen course of action here.",
+      "replacement": "His father was already harboring other intentions.",
+      "severity": "major",
+      "source": "자신의 아버지가 이미 다른 마음을 품었음을."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The treasured blade he’d given his son as his first and last gift now reflected the face of an old man with a troubled look in his eyes.\n\nAt that very moment, a distant flash of light erupted far away.",
+      "defect": "The draft omits that the distant flash is also reflected in the saber.",
+      "id": "F04",
+      "rationale": "도신에 비친 빛 links the flash to what Sima Gong sees in the blade, not merely to a separate event.",
+      "replacement": "The treasured blade he’d given his son as his first and last gift now reflected an old man with a troubled look in his eyes.\n\nAt that very moment, it also reflected a flash of light erupting far in the distance.",
+      "severity": "major",
+      "source": "처음이자 마지막 선물로 아들에게 주었던 그 보도(寶刀)는, 어느덧 복잡한 눈빛을 한 늙은 사내를 비추고 있었다.\n\n바로 그 순간. 저 멀리 터져 나온 아득한 섬광도 함께."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Along with it came the sharp whistle of two unexpected projectiles.",
+      "defect": "The source specifies two sounds cutting through the air, not two projectiles.",
+      "id": "F05",
+      "rationale": "파공성 describes the sounds; assigning them to projectiles adds an unsupported physical detail.",
+      "replacement": "He also heard two unexpected, sharp whistles cutting through the air.",
+      "severity": "major",
+      "source": "생각지도 못했던 두 줄기의 날카로운 파공성도 함께."
+    },
+    {
+      "confidence": 1.0,
+      "current": "A Narye tagon?[ ^1 ]",
+      "defect": "The spaces prevent the marker from functioning as a Markdown footnote reference.",
+      "id": "F06",
+      "rationale": "The existing definition is otherwise left unreferenced.",
+      "replacement": "A Narye tagon?[^1]",
+      "severity": "minor",
+      "source": "나려타곤(懶驢打滾)?"
+    }
+  ],
+  "summary": "The draft changes Sama Pyo’s reason for not dodging, misidentifies the battlefield’s key force, and omits what Sima Gong sees reflected in the saber.",
+  "version": 1
+}
