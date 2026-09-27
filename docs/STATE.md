@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1076
-- Next chapter: 1077
-- Current block: 1075–1079 (2/5)
-- Latest translation: `translations/1076.md`
-- Latest summary: `summaries/beats/1076.md`
-- Safe profiles through: chapter 1076
+- Last completed: 1077
+- Next chapter: 1078
+- Current block: 1075–1079 (3/5)
+- Latest translation: `translations/1077.md`
+- Latest summary: `summaries/beats/1077.md`
+- Safe profiles through: chapter 1077
 
 ## Current Block
 
-- As Taekyung’s group gathers at Qinghai Lake, the Kunlun Sect Leader Cheongheoja arrives by ship and reveals that more vessels are coming to evacuate their roughly three thousand allies. Cheongheoja confirms that his disciple Hak Woo is safe and will meet Taekyung after they leave. Cheongheoja’s conversation with his unnamed disciple hints at a hidden ember that may bring disaster, while the campfires on the shore represent hope of resisting it.
+- Ma Sanbao surveys a frozen reed bed near Qinghai Lake, where starving migratory birds have begun mutating after feeding on monsters’ remains. He uses a ritual bell to command the birds and raise surviving monsters. His men report that most of their dead were killed by a nearly imperceptible sword strike, which Ma attributes to the Slaughter Saint. One operative is missing, and all the group’s bells have been taken. Ma dismisses the risk of the bells being used, but predicts Jin Taekyung will make the captured operative betray them. Remembering Taekyung’s indecipherable insult, Ma vows to retaliate and looks east toward Qinghai Lake.
 
 ## Open Questions
 
