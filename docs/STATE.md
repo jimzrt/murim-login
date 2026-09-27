@@ -1,20 +1,21 @@
 # Translation State
 
-- Last completed: 1116
-- Next chapter: 1117
-- Current block: 1115–1119 (2/5)
-- Latest translation: `translations/1116.md`
-- Latest summary: `summaries/beats/1116.md`
-- Safe profiles through: chapter 1116
+- Last completed: 1117
+- Next chapter: 1118
+- Current block: 1115–1119 (3/5)
+- Latest translation: `translations/1117.md`
+- Latest summary: `summaries/beats/1117.md`
+- Safe profiles through: chapter 1117
 
 ## Current Block
 
-- At Xining’s East Gate, Cheongheoja and his Senior Disciple Hak Su learn that the other gates are retreating to the Inner City. Cheongheoja refuses to leave Hak Su behind. Hak Eui, believed dead, returns and reveals that the corpse was a prisoner disguised by the Slaughter Saint. He identifies Hak Su as the Dark Heaven spy who betrayed Kunlun, but Hak Su says he was raised to serve Dark Heaven as Number Six. Five other spies reveal themselves and take Temporary Strength Pills as Cheongheoja stands between them and the Kunlun defenders.
+- At the East Gate, two Dark Heaven operatives wait for the Yangtze River Channel League and Green Forest Alliance, while a black-robed jiangshi sorcerer worries that the delayed allies will incur the Blood Lord’s wrath. When the iron bridge begins to lower, he mistakes it for proof that spies have opened the gate and unleashes a thousand monsters alongside two Black Ghosts and their troops.
+- The bridge and gate were opened by the defenders as a trap. After the Black Ghosts and monsters enter, a Force strike breaks the chain and the gate begins to close. Hak Su appears and is killed as a traitor to the Kunlun Sect. Cheongheoja and a small group of allies face the intruders as a horn sounds from the direction of the Yangtze River Channel League.
 
 ## Open Questions
 
-- What will happen in the East Gate confrontation between Cheongheoja, the Kunlun defenders, and the spies?
-- Will the East Gate forces reach the Inner City, and what awaits them there?
+- What will happen in the East Gate battle now that the Black Ghosts and monsters have entered?
+- Will the approaching Yangtze River Channel League reach the East Gate in time?
 
 ## Exceptional Decision
 
