@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "Above the grand banquet hall of the imperial palace, strewn with the blood and corpses of the rebel army, the Bow Saint spoke after finally revealing herself.",
+      "defect": "“Above” places the Bow Saint over the hall; the source places her in the blood-covered hall and says she revealed her identity.",
+      "id": "F01",
+      "rationale": "대연회장 위 refers to the scene in the hall, while 정체를 드러낸 specifies the revelation of her identity.",
+      "replacement": "In the imperial palace’s grand banquet hall, covered in the rebels’ blood and corpses, the Bow Saint finally revealed her identity and spoke.",
+      "severity": "critical",
+      "source": "반란군의 피와 시체로 뒤덮인 황궁의 대연회장 위, 마침내 정체를 드러낸 궁성(弓星)이 말을 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The reputations of their extraordinary mages and knights had shaken the entire continent, crossing the seas.",
+      "defect": "Singular “continent” reduces the reach of their reputations from all continents to one.",
+      "id": "F02",
+      "rationale": "전 대륙 means all continents; the source has already established that Morgoth’s world has twelve.",
+      "replacement": "The fame of their extraordinary mages and knights had crossed the seas and shaken every continent.",
+      "severity": "major",
+      "source": "뛰어난 마법사와 기사들의 명성은 바다를 넘어 전 대륙을 뒤흔들었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "gain more money and fame—to become a son and older brother he could be proud of.",
+      "defect": "The draft makes Taekyung proud of himself rather than someone his family can be proud of.",
+      "id": "F03",
+      "rationale": "자랑스러운 아들이자 오빠 describes the son and older brother he wanted to be for his family.",
+      "replacement": "gain more money and fame—and become a son and older brother his family could be proud of.",
+      "severity": "major",
+      "source": "이를 말미암아 더욱 많은 돈과 유명세를 얻어 자랑스러운 아들이자 오빠가 되고 싶었다."
+    },
+    {
+      "confidence": 0.88,
+      "current": "He had seen a being who defied the laws of nature, and confirmed that a human chosen by God existed.",
+      "defect": "“Laws of nature” replaces the ordained order or providence invoked by 섭리, weakening the passage’s divine framing.",
+      "id": "F04",
+      "rationale": "정해진 섭리 concerns a predetermined order, not specifically natural law.",
+      "replacement": "He had seen a being who stood outside the ordained order, and confirmed the existence of a human chosen by God.",
+      "severity": "major",
+      "source": "정해진 섭리를 벗어난 존재를 보았고, 신의 선택을 받은 인간 또한 확인했으니."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Along with it came the weight of an enormous responsibility he couldn’t have imagined, couldn’t even have imagined, just two years ago.",
+      "defect": "The repeated English phrase loses the distinction between never having imagined it and being unable to imagine it.",
+      "id": "F05",
+      "rationale": "상상한 적도, 할 수도 없었던 expresses both that he had not imagined it and that he could not have.",
+      "replacement": "And with it came the weight of an enormous responsibility he had never imagined—and could never have imagined—just two years earlier.",
+      "severity": "minor",
+      "source": "불과 이 년 전에는 상상한 적도, 할 수도 없었던 막대한 책임감의 무게도 함께."
+    },
+    {
+      "confidence": 0.96,
+      "current": "He had achieved it, and he was still moving forward.",
+      "defect": "The draft changes ongoing growth into Taekyung moving forward.",
+      "id": "F06",
+      "rationale": "Both verbs refer back to 성장, which has happened and continues.",
+      "replacement": "He had grown, and he was still growing.",
+      "severity": "minor",
+      "source": "이루었고, 이어지고 있다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The power and shining life contained in those two words, spoken through parched lips.",
+      "defect": "“Hope” is one English word, not two.",
+      "id": "F07",
+      "rationale": "두 글자 counts the two Korean syllable blocks in 희망; that count does not carry over to English.",
+      "replacement": "The power and bright vitality in the word that had passed through those parched lips.",
+      "severity": "minor",
+      "source": "바짝 메마른 입술 사이로 흘러나온 두 글자에 담긴 힘을, 반짝이는 생기를."
+    }
+  ],
+  "summary": "Actionable errors in location, geographic quantity, family motivation, the account of growth, and divine terminology.",
+  "version": 1
+}

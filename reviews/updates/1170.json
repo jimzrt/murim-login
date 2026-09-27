@@ -1,0 +1,77 @@
+{
+  "chapter": 1170,
+  "files": {
+    "characters/Divine Physician.md": "3cd49b5d2082a5160b5ee6a3ad141e4caef9975083e1ac78009dff883041cb03",
+    "characters/Doppelganger.md": "499674f65ecec61ca9c09af9474fe9c5c2e900ef1252661e819d2c2a3a2d4bc3",
+    "characters/Jin Taekyung.md": "f3bcd41720d12025ae7cd4c42f74301e99ed343f27119903c52e2e2dcf924a5c",
+    "characters/Jintae.md": "2cf4651b4c2ee25ae38fa4e687e904f2f65cbf4aee682a564c518642d81a48e4",
+    "characters/Martial God.md": "ac975336d244beb17437dc5be01a75b6dab524e7f9ae66459241c8d10475986b",
+    "characters/Morgoth.md": "837f15dbb77c4aa1ae6cee8287a67ac284b16925c8abdaa0fa476d4cd27056ba",
+    "characters/Taishan.md": "fe054d350d29ced7b46fe34c8da7f862dbf1fec622fdd7b475bbb631b2aaf98e",
+    "docs/CONTEXT.json": "39468789c73014bb2784c2528ee298adfc0cf7e32e51e27f11f47f8b6911e05e",
+    "docs/STATE.md": "fc83bbf43af3f632e01d16fc707908005b87cf4b29ea67e6c06ee415bbbb7539",
+    "summaries/beats/1170.md": "2bc0619cc6d04cc43f41ca9b809afce6e76a135595e4f15c36c16cc38e2ecc3d"
+  },
+  "update": {
+    "address_pairs": [],
+    "beat": {
+      "continuity": [
+        "Jin has recovered the Skeleton King from Morgoth.",
+        "Morgoth has noticed an object at Jin’s neck surrounded by an energy that is neither mana nor magical power; he regards it as a trace of the one he sought.",
+        "Jin accepts that he has grown to bear his increasing responsibilities and is determined to keep going, regardless of whether he was chosen by God."
+      ],
+      "plot": [
+        "Morgoth tells Jin that he may be chosen by God, prompting Jin to confront the burdens he has carried and recognize that he has grown to bear them. Jin recalls that others—including the Doppelganger, the Bow Saint, the Martial God, and the System—have called him the chosen one, but says it does not matter who chose him: he will keep going and hopes to survive alongside his allies. Morgoth explains that humans are driven by desire and change, then reveals he returned the Skeleton King to help Jin become stronger and make what comes next more interesting. As Jin asks why, Morgoth notices a mysterious object at Jin’s neck and senses a trace of the one he sought. A streak of light shoots toward Morgoth’s Dragon Heart."
+      ],
+      "translation_decisions": [
+        "Render 선택받은 자 as “chosen one” and 방주의 주인 as “Master of the Ark.”",
+        "Keep mana and magical power distinct; the energy around the object at Jin’s neck is neither."
+      ]
+    },
+    "chapter": 1170,
+    "context": {
+      "active_continuity": [
+        "Humanity won the battle against Morgoth; its surviving forces are wounded but rallying.",
+        "Jin’s physical injuries were healed, but severe mental exhaustion remains; his Fire Dragon Armor was destroyed.",
+        "Jin created Open Heaven, the third form of the Fire Dragon Divine Spear; Fire Gate Divine Technique and Qi Sense reached the ninth star.",
+        "Jin recovered the Skeleton King from Morgoth.",
+        "Morgoth is gravely wounded, with his Dragon Heart exposed; a streak of light is now shooting toward it.",
+        "Morgoth noticed an object at Jin’s neck surrounded by energy that is neither mana nor magical power, and sensed it as a trace of the one he sought.",
+        "Jin is determined to keep going and hopes to survive alongside his allies, regardless of whether he was chosen by God."
+      ],
+      "continuity_sources": [
+        1169,
+        1170
+      ],
+      "open_questions": [
+        "Is Jin truly chosen by God, and what does that mean?",
+        "What will happen to Morgoth and the Skeleton King?",
+        "What is the object at Jin’s neck, and whose trace did Morgoth recognize?"
+      ],
+      "safe_through": 1170,
+      "temporary_decisions": [],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Personality:** Hungry, self-aware, and dryly observant, he is pragmatic and fiercely defiant; he masks fear with anger and protects those he cherishes, while recognizing that his enemies fear him too.",
+        "path": "characters/Jin Taekyung.md",
+        "replacement": "- **Personality:** Hungry, self-aware, and dryly observant, he is pragmatic and fiercely defiant; he protects those he cherishes and meets mounting responsibility with hope and a determination to endure."
+      },
+      {
+        "current": "- **Personality:** Composed and intellectually curious, Morgoth spent millennia seeking God and treats powerful beings as trophies out of possessive desire; he can recognize and accept his own fear as a reason to grow stronger.",
+        "path": "characters/Morgoth.md",
+        "replacement": "- **Personality:** Composed and intellectually curious, Morgoth spent millennia seeking God and regards powerful beings as sources of amusement, willing to aid a worthy rival when it promises greater future entertainment."
+      },
+      {
+        "current": "- **Relationships:** Asmodeus summoned Morgoth, though Morgoth says he is not devoted to him; Morgoth holds the Skeleton King as a trophy and commands seven soul-stolen S-rank Hunters as Guardians.",
+        "path": "characters/Morgoth.md",
+        "replacement": "- **Relationships:** Asmodeus summoned Morgoth, though Morgoth says he is not devoted to him; Morgoth returned the Skeleton King to Jin to help him grow stronger and commands seven soul-stolen S-rank Hunters as Guardians."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
