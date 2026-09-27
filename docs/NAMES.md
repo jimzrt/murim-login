@@ -2569,3 +2569,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 드워프 | **Dwarf** | One of the other races Morgoth lived among. |
 | 엘프 | **Elf** | One of the other races Morgoth lived among. |
 | 워프 게이트 | **Warp Gate** | Gate used for long-distance travel. |
+| 용아병 | **Dragon-tooth soldiers** | Guardians born of Dragons and serving them. |

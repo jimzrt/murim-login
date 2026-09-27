@@ -1593,3 +1593,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 모르고스 | 스켈레톤 킹 | captor_to_target | Skeleton King | measured informal-polite | Morgoth addresses him by title while ordering him to come to his master. |
 | 모르고스 | 스켈레톤 킹 | captor_to_captive | you | polite-familiar | Morgoth addresses him as 자네 while trying to persuade him to accept Morgoth's claim. |
 | 스켈레톤 킹 | 모르고스 | captive_to_captor | you | insulting-casual | The Skeleton King uses 너 and blunt commands while rejecting Morgoth. |
+| 모르고스 | 진태경 | enemy Dragon addressing a human opponent | you | formal, measured | Uses 자네 while addressing Jin. |
+| 진태경 | 모르고스 | human opponent addressing an enemy Dragon | son | casual and mocking | Calls Morgoth 아들. |
