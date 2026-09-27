@@ -6,7 +6,7 @@ Less than fifteen minutes had passed since the battle began, but if I was being 
 
 Until now.
 
-Rumble, rumble, rumble!
+Rrrrrumble!
 
 “…Fuck.”
 
@@ -16,7 +16,7 @@ Not just because the Inner Palace was collapsing. It might have been the symbol 
 
 The problem was that as the largest structure in the Nanman Beast Palace crumbled like a sandcastle, the darkness pouring from the rift grew thicker.
 
-Kraaaaaash!
+Kwoooooosh!
 
 Demonic qi. Also known as magical power.
 
@@ -34,7 +34,7 @@ Crack. Crrrunch.
 
 *Death* flashed through my mind, but that wasn’t it.
 
-What awaited them was pain worse than death, and the changes that would soon come over them would make them forget even the pain.
+What awaited them was pain worse than death. Soon, what happened to them would make them forget even that pain.
 
 *No. I should call it a mutation, not a change.*
 
@@ -44,7 +44,7 @@ The magical power from the rift had been strong enough to corrupt a five-hundred
 
 Not unless someone helped them.
 
-*And apparently, that someone is me.*
+*And that someone would be me.*
 
 Fuck.
 
@@ -70,7 +70,7 @@ I shot forward like a cannonball, leaving a small crater behind and clearing mor
 
 Flamefire Path.
 
-Kraaaaaash!
+Kwoooooosh!
 
 In a world gone slow, blue-white light-flames burst forth.
 
@@ -78,7 +78,7 @@ The guardian spirit vanished from my sight as it charged the Southern Heaven Dem
 
 Whoooosh.
 
-Wind carrying the scent of blood brushed across my entire body. By then, beneath the feet I had planted in midair, I could see countless beasts and humans writhing as darkness engulfed them.
+A blood-scented wind swept over me. By then I was stepping through the air, and below my feet, countless humans and beasts writhed in the darkness.
 
 And…
 
@@ -124,23 +124,23 @@ No—at the hazy figure walking slowly out of the Inner Palace ruins, half-hidde
 
 “…A mask? Who the fuck are you?”
 
-The answer to my question was a single flash of light that glinted from more than thirty yards away.
+My answer was a flash from more than thirty yards away.
 
 Shwaaaak! Slash!
 
 I missed it by a hair.
 
-I twisted my head like lightning and glanced over my shoulder. A pavilion that had somehow retained its shape until now had been crushed and split in half.
+I jerked my head aside and glanced over my shoulder. A pavilion that had somehow held together until now had been all but crushed in half.
 
 Crack. Rumble!
 
-Watching the pavilion collapse half a beat late, I muttered inwardly.
+It collapsed half a beat later.
 
 *Fast.*
 
 The power behind that attack was savage and unrefined. Rough, yes—but devastating. If I failed to dodge even once, there wouldn’t be enough of my body left to find.
 
-But the same was true of me.
+Then again, the same was true of him.
 
 Puhk. Whoooosh!
 
@@ -156,7 +156,7 @@ Shu-whoom! Boom!
 
 Compressed air burst from the spearpoint. The masked man twisted aside by no more than a sheet of paper’s width, seized the shaft, and stepped in.
 
-At the same time, dark sword-light flashed from his fingertips.
+Dark sword-light flashed from his hand.
 
 Slash!
 
@@ -248,9 +248,9 @@ Because it hurt? No. I’d taken injuries like this often enough as a Hunter.
 
 An injured hand was bad news when I needed to conserve every bit of strength I could, but I could still use it.
 
-It was the tremendous rebound force I had felt when my Flame Divine Palm struck the masked man’s chest—and the identity of the flash whose sound alone had caused that sense of incongruity.
+The real problem was the tremendous force that had rebounded through my palm when I struck the masked man’s chest—and the identity of the weapon whose sound had felt so familiar.
 
-*This is……*
+*These are…*
 
 The shape and size were different, but I knew what I was holding.
 
@@ -260,13 +260,13 @@ I stared at the twin wheels caught in my left hand and slowly turned, thinking o
 
 I hoped he wouldn’t answer. I hoped the force I’d felt at the end had been my imagination.
 
-But my ominous suspicion had already become reality.
+But my worst suspicion was already taking shape.
 
 Rumble. Rustle.
 
-Within the cloud of dust that had yet to settle, heavy rebar and timber shifted, and a pale figure rose to its feet.
+In the dust that had yet to settle, heavy iron beams and timbers shifted. A pale figure rose among them.
 
-Then a flashing streak of light crossed more than sixty yards and hurtled at me.
+Then a flash came hurtling across more than sixty yards.
 
 Whoosh! Crrrunch!
 
@@ -278,13 +278,13 @@ The same dagger I’d driven into his chest moments ago.
 
 Blood that wasn’t mine stained its heavily rusted, handspan-long blade. My attack had landed.
 
-*If so, he should have suffered a fatal wound…… How the hell?*
+*Then he should be badly wounded. How the hell…?*
 
-They were monsters capable of fighting a hundred men alone even with a dagger buried in their chest.
+I knew better than most how hard humans could be to kill—especially Supreme Peak masters. A monster like that could fight a hundred men with a dagger buried in his chest.
 
 But not when the one who put it there was a Supreme Peak master of equal or greater skill.
 
-*This isn’t a fight between street thugs.*
+*This isn’t a street fight.*
 
 In a life-and-death duel between masters, the greatest danger wasn’t the blade. It was the internal energy carried on it—energy that entered through the wound and tore apart the blood vessels within.
 
@@ -296,18 +296,18 @@ And yet…
 
 The dagger wound wasn’t even all he’d taken. One arm was crippled at the very least, and I’d struck him square in the chest with the Flame Divine Palm.
 
-Even a master at the level of the Ten Kings could not be that unharmed.
+Even one of the Ten Kings couldn’t have come through that looking so unharmed.
 
 “…What the fuck are you?”
 
 That wrongness had spread through my whole body, bringing a cold wariness with it.
 
-But before the masked man could answer my question, a tremendous roar rang out.
+Before the masked man could answer, a tremendous crash rang out.
 
 Kraaa-boom!
 
 A silver figure struck the ground like a meteor.
 
-And above its head in midair, the Southern Heaven Demon Empress stood with a smile.
+The guardian spirit lay there, covered in wounds and gasping for breath. Above its head, the Southern Heaven Demon Empress stood in midair, smiling.
 
 “My hunting dog. I took great care training him.”

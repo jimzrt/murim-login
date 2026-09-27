@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled chapter is generally faithful, but it omits two source details: the narrator’s explicit recognition that masters are hard to kill, and the guardian spirit’s injuries and labored breathing at the scene’s end.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 317–321",
+      "current": "They were monsters capable of fighting a hundred men alone even with a dagger buried in their chest.",
+      "defect": "The assembled text omits the narrator’s preceding observation that he knows from experience that humans—and especially Supreme Peak masters—do not die easily. The next sentence about their ability to fight with a dagger in the chest does not fully preserve that explicit observation.",
+      "replacement": "I knew this all too well, almost to the point of disgust. Humans, especially Supreme Peak masters, did not die as easily as one might think. They were monsters capable of fighting a hundred men alone even with a dagger buried in their chest.",
+      "rationale": "The source explicitly states both the narrator’s familiarity with this fact and the fact itself before describing what the masters can endure.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 351–353",
+      "current": "A silver figure struck the ground like a meteor.",
+      "defect": "The source identifies the figure as the guardian spirit and says its body is covered in wounds and it is gasping for breath. The assembled sentence omits those details.",
+      "replacement": "The guardian spirit struck the ground like a meteor, its body covered in wounds as it gasped for breath.",
+      "rationale": "The source gives the guardian spirit’s identity and battered, breathless condition immediately after its landing.",
+      "confidence": 0.99
+    }
+  ]
+}
