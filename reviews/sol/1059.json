@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "tossed down the poor old man riding on his shoulders",
+      "defect": "Taishan sets the old man down as if tossing him; the draft says he actually throws him down.",
+      "id": "F01",
+      "rationale": "던지듯 qualifies 내려놓은; it does not replace the action of setting him down.",
+      "replacement": "set down the poor old man riding on his shoulders as if he were tossing him aside",
+      "severity": "critical",
+      "source": "목말을 타고 있던 불쌍한 노인을 던지듯 내려놓은"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“It’s been a while, Daoist Jin.”",
+      "defect": "The address makes Jin a Daoist rather than addressing him as a fellow practitioner.",
+      "id": "F02",
+      "rationale": "도우 is an address of fellowship, not a statement that Jin is a Daoist.",
+      "replacement": "“It’s been a while, my friend Jin.”",
+      "severity": "major",
+      "source": "“오랜만이군, 진 도우(道友).”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You have a better subordinate than I expected. Don’t you think?”",
+      "defect": "The comparison is to Taishan’s appearance, not Hyeoncheon’s prior expectations.",
+      "id": "F03",
+      "rationale": "보기보다 means ‘better than he looks.’",
+      "replacement": "“He’s a better subordinate than he looks. Don’t you think?”",
+      "severity": "minor",
+      "source": "“보기보다 좋은 수하를 두었어. 그렇지 않나?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“I am but a lowly Daoist, a mere ‘horsehair’ of a man. I devoted my life to the sword instead of the Daoist scriptures, and I couldn’t save my Disciples as they bled and died. But…”",
+      "defect": "The literal ‘horsehair’ invents an image of the man rather than conveying the dismissive term for a Daoist.",
+      "id": "F04",
+      "rationale": "말코 도사 is a disparaging expression for a Daoist, not a description of horsehair.",
+      "replacement": "“I’m just a wretched old Daoist. I devoted my life to the sword instead of the Daoist scriptures, and I couldn’t save my Disciples as they bled and died. But…”",
+      "severity": "major",
+      "source": "“빈도(貧道)는 한낱 말코 도사일세. 도가의 경전보다는 검에 심취하여 일평생을 살았고, 피를 흘리며 죽어 가는 제자들을 구할 수도 없었지. 하지만…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "through the sight of their Senior Brothers, drenched in blood from head to toe",
+      "defect": "The draft excludes junior fellow Disciples.",
+      "id": "F05",
+      "rationale": "사형제 includes both senior and junior martial siblings.",
+      "replacement": "through the sight of their fellow Disciples, drenched in blood from head to toe",
+      "severity": "minor",
+      "source": "머리부터 발끝까지 피를 뒤집어쓴 자신들의 사형제를 통해"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I quietly closed my eyes and covered my ears.",
+      "defect": "Covering his ears adds a physical gesture absent from the source.",
+      "id": "F06",
+      "rationale": "귀를 닫았다 describes closing himself off to what he hears; no hands or ear-covering are specified.",
+      "replacement": "I quietly closed my eyes and shut out the sound.",
+      "severity": "minor",
+      "source": "나는 조용히 눈을 감고 귀를 닫았다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Waaah! Ohhh, you came!”",
+      "defect": "The draft turns an indistinct, sobbed cry into a clear statement that Jin has arrived.",
+      "id": "F07",
+      "rationale": "The Korean renders the man’s wailing phonetically; it does not clearly say ‘you came.’ Jin’s ensuing confusion depends on not understanding him.",
+      "replacement": "“Waaah! Uuughhh!”",
+      "severity": "major",
+      "source": "“으허허허헝! 어이오고오오!”"
+    }
+  ],
+  "summary": "Several localized fidelity errors change physical actions, an address, and the final comic beat.",
+  "version": 1
+}

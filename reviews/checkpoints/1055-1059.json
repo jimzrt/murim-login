@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Pyo accepts responsibility for concealing the truth and proposes sacrificing the Black Dragon Demon Gate’s leaders and compensating those seeking revenge. Sima Gong approves of his resolve, but dies before finishing his final words.",
+      "defect": "Omits Pyo’s reversal: he refuses to kill his father and chooses to bear the consequences himself.",
+      "id": "C01",
+      "rationale": "Chapter 1056 makes the refusal the decisive turn in their final conversation.",
+      "replacement": "Pyo first proposes sacrificing the Black Dragon Demon Gate’s leaders and compensating those seeking revenge. Sima Gong approves, but Pyo refuses to kill his father, accepts responsibility for concealing the betrayal, and chooses to bear the consequences. Sima Gong dies before finishing his final words.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot, first paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Taekyung stops Taishan from charging the Kongtong Disciples, knocking him unconscious.",
+      "defect": "Misidentifies Taishan’s destination.",
+      "id": "C02",
+      "rationale": "Chapter 1059 says Taishan heads straight for Sama Pyo; the Disciples move to block him.",
+      "replacement": "Taekyung stops Taishan from charging toward Sama Pyo through the Kongtong Disciples, knocking him unconscious.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot, third paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Taishan charged toward the Kongtong Disciples; Taekyung stopped him by knocking him unconscious.",
+      "defect": "Repeats the incorrect destination, contrary to the durable state’s wording.",
+      "id": "C03",
+      "rationale": "The Disciples intercept Taishan’s path; they are not where he is trying to go.",
+      "replacement": "Taishan charged toward Sama Pyo through the Kongtong Disciples; Taekyung stopped him by knocking him unconscious.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Continuity, third bullet"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At the same time, Taekyung understood the feelings of those giving such a cruel end to enemies who no longer had the strength to resist.",
+      "defect": "Switches from Taekyung’s first-person narration to third person for one sentence, then immediately switches back.",
+      "id": "C04",
+      "rationale": "The surrounding narration uses “I,” including the next paragraph.",
+      "replacement": "At the same time, I understood the feelings of those giving such a cruel end to enemies who no longer had the strength to resist.",
+      "severity": "minor",
+      "source": "Chapter 1057, battlefield aftermath before “Wait here”"
+    }
+  ],
+  "summary": "The main continuity issue is in the checkpoint summary: it omits Pyo’s refusal to kill his father and twice misstates Taishan’s destination. Chapter 1057 also has a localized viewpoint slip.",
+  "version": 1
+}
