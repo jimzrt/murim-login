@@ -36,11 +36,11 @@ I couldn’t exactly tell him I’d had a fucking nightmare in which Old Master 
 
 That was no exaggeration. My body felt as light as a feather, and the long sleep had cleared the fatigue from my head. I felt sharper than ever.
 
-*They said I was unconscious for seven days and nights, didn’t they?*
+*He said I was unconscious for seven days and nights, didn’t he?*
 
 I must have been more exhausted than I realized.
 
-Not to brag, but it was rare for a master who had reached the Supreme Peak realm like me to remain unconscious for an entire week.
+Not to brag, but it was rare for a Supreme Peak master like me to stay unconscious for a whole week.
 
 Then, without meaning to, I blurted out, “That’s a relief.”
 
@@ -58,13 +58,11 @@ Sunlight slipped through the half-open window, and birdsong tickled my ears. Far
 
 *I’m alive.*
 
-It was ironic.
-
 It was strange. I was breathing. I could feel the world around me. Yet I still found it hard to believe I was alive.
 
 At the same time, a hollow emptiness took hold of me.
 
-For an instant, the darkness that had wrapped around the Inner Palace seemed to pass over the sunlight settling on the window. So did the sight of countless corpses collapsed with their faces buried in pools of blood.
+For an instant, I seemed to see the darkness that had engulfed the Inner Palace spread across the sunlit window. Countless bodies lay with their faces buried in pools of blood.
 
 *So… none of it was a dream.*
 
@@ -73,8 +71,6 @@ The joy and relief of surviving faded, leaving guilt and bitterness in their pla
 I stared blankly at the window until a low voice reached me.
 
 “In the end, some survive, and some die.”
-
-Tap.
 
 A hand came to rest on my shoulder. I felt its warmth as Jeok Cheongang gazed into the distance and continued.
 
@@ -104,7 +100,7 @@ At my call, Jeok Cheongang smiled warmly and shook his head.
 
 I cautiously pointed at his head. Gleaming in the sunlight, his bald scalp was using Solar Fist as a passive Skill.
 
-“Either close the window or move your head a little.”
+“Could you close the window or move your head?”
 
 “……!”
 
@@ -134,11 +130,11 @@ Bones shifted in his tightly clenched fist. Sensing I’d made a terrible mistak
 
 I swallowed hard.
 
-“That sounds… really bad.”
+“That sounds… pretty awful.”
 
 “Why? The journey will only bore you.”
 
-“It won’t be boring at all. I like admiring natural scenery.”
+“It won’t bore me at all. I like looking at the scenery.”
 
 “How about returning to nature for good?”
 
@@ -162,7 +158,7 @@ Resigned to my fate, I made a polite request.
 
 “If you take it without a fuss, I can do that. Which would you prefer, Flame Divine Palm or Flame-Extinguishing Divine Fist?”
 
-“……Would either of those not hurt if you used them gently?”
+“……Would either one hurt less if you went easy?”
 
 “Would you rather I hit you hard?”
 
@@ -186,7 +182,7 @@ I writhed with my mouth hanging open, pain shooting through my forehead. Jeok Ch
 
 “I thought it was about time you woke up, so I came by for the first time in a while. And here you are, perfectly fine. Stop spouting nonsense and get your strength back. I’m leaving.”
 
-Click.
+Thud.
 
 I opened my eyes just as the door shut firmly behind him. Rubbing my forehead with tears in my eyes, I looked at the space he’d left behind and muttered, “You could’ve stayed a little longer…”
 
@@ -196,17 +192,17 @@ Boom. Boom. Rumble!
 
 Amazingly, those were someone’s footsteps. Alongside the vibrations of what sounded like a charging elephant, I sensed several others approaching with uncanny lightness.
 
-They were headed toward the firmly closed door Jeok Cheongang had just passed through.
+They were headed straight for the closed door Jeok Cheongang had just passed through.
 
 “Hey, wait—!”
 
-But my desperate shout never reached the end.
+My urgent shout came too late.
 
 Crash!
 
 The wooden door burst apart, sending dust billowing into the air.
 
-As I stood there blankly frozen in the quarters that had become a ruin in an instant, I saw several familiar faces through the dust cloud and let out a helpless laugh.
+I sat frozen in the quarters, now a ruin, until I spotted familiar faces through the dust and let out a helpless laugh.
 
 *Yeah. Well, this isn’t so bad either.*
 
@@ -230,23 +226,21 @@ Bang!
 
 Hearing the crash behind him, Jeok Cheongang let out a quiet laugh.
 
-“Well, what a commotion.”
+“What a commotion.”
 
 It had to be that huge fellow—Taishan, or was it Geosan?
 
-The physician who had left the quarters first must already have spread the news. The members of the Fire Dragon Pavilion had rushed over faster than anyone else, barely sparing Jeok Cheongang a glance as they headed toward the pavilion. That had happened only moments ago.
+The physician who had left first must have spread the news. Only moments ago, the Fire Dragon Pavilion members had rushed past Jeok Cheongang toward the building, barely sparing him a glance.
 
 *The youngsters want to be together. This old man should give them space.*
 
 Granted, there was another old man among them. But Jeok Cheongang had passed ninety-nine long ago. To him, anyone under eighty was in the prime of youth.
 
-It was his firm belief that anyone eighty or younger could chew Ten-Thousand-Year Cold Iron.
+He maintained that anyone under eighty ought to be able to chew Ten-Thousand-Year Cold Iron.
 
 *…Perhaps that’s going a bit far.*
 
-After muttering inwardly, Jeok Cheongang began to walk slowly.
-
-He looked up at the sky, which had cleared as though nothing had happened, and watched the Nanman people begin gathering in groups of three or five after hearing the news of Jin Taekyung.
+Jeok Cheongang began to walk. He looked up at the sky, clear again as though nothing had happened, and watched the Nanman people gathering in groups of three or five as word of Jin Taekyung’s awakening spread.
 
 The cool breeze brushed against him, and a thought came to him.
 
@@ -282,13 +276,13 @@ Jeok Cheongang wasn’t angry. He was proud to see Jin Taekyung doing his best t
 
 That was all.
 
-So why did something in his chest still ache? Why did Jin Taekyung’s figure keep wavering before his eyes even as he looked at the world around him?
+Then why did his chest still ache? Why did he keep seeing the boy before him no matter where he looked?
 
 *Damn it. I really am getting old.*
 
 Strangely, he didn’t much mind.
 
-He had witnessed that mysterious recovery with his own eyes, but it was Jin Taekyung—not anything else—who filled his heart.
+He had witnessed Jin Taekyung’s inexplicable recovery with his own eyes. Yet it was Jin Taekyung himself, and nothing else, who filled his thoughts.
 
 *Well, this isn’t so bad either.*
 
@@ -320,7 +314,7 @@ Taishan, who was on his hands and knees mopping the floor at my express command,
 
 “That’s right. Taishan thought the Pavilion Master would never wake up and looked forward to it.”
 
-I was just beginning to feel touched when I noticed that something was wrong and blinked.
+I was starting to feel touched when I caught something odd.
 
 “Looked forward to it? Why?”
 
@@ -334,7 +328,7 @@ Namho, who had claimed the only chair on account of his age, muttered, “Why as
 
 That bastard really had been looking forward to it.
 
-Sama Pyo, who was practically Taishan’s mother, met my eyes and lowered his head weakly.
+Sama Pyo, Taishan’s mom for all practical purposes, met my eyes and lowered his head.
 
 “Pretend you didn’t hear that. Even with ten mouths, I’d have nothing to say.”
 

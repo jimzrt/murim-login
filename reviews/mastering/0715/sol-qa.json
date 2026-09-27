@@ -1,0 +1,47 @@
+{
+  "chapter": 715,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 1.896,
+    "source_characters": 5771,
+    "source_paragraphs": 184,
+    "translation_characters": 10942,
+    "translation_paragraphs": 175
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "경지",
+        "preferred": "realm / realm stage"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "화기",
+        "preferred": "fire qi"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
