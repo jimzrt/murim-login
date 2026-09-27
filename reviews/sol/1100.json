@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "With a voice as clear as raindrops, he drew a bowstring with a rough, work-worn finger that seemed entirely at odds with it.",
+      "defect": "“Work-worn” invents a history for the finger; the source describes it only as rough.",
+      "id": "F01",
+      "rationale": "투박한 describes the finger’s appearance, not how it became that way.",
+      "replacement": "With a voice clearer than raindrops, he drew the bowstring with a rough finger that seemed entirely at odds with it.",
+      "severity": "minor",
+      "source": "빗방울보다도 투명한 목소리와 함께, 그와는 어울리지 않는 투박한 손가락이 시위를 당긴다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "Magic, that terrifying sorcery, wasn’t the only thing in the world beyond the power of ordinary people.",
+      "defect": "“Sorcery” misses the binding rendering of 사술, while “ordinary people” weakens the source’s contrast with human power itself.",
+      "id": "F02",
+      "rationale": "The realization is that the masters, too, possess power beyond human limits; the supplied glossary renders 사술 as “dark arts.”",
+      "replacement": "Those terrifying dark arts called magic weren’t the only thing beyond human power.",
+      "severity": "minor",
+      "source": "인간의 힘을 벗어난 존재는, 마법이라 불리는 저 끔찍한 사술(詐術)만이 아니라는 것을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even as flashes of lightning, dreadful cold, and ice struck toward them—and even the rain that should have soaked their heads came flying like arrows.",
+      "defect": "The draft makes dreadful cold a separate incoming threat instead of a property of the ice.",
+      "id": "F03",
+      "rationale": "끔찍한 냉기를 간직한 modifies 얼음; the rain, specifically, becomes arrows.",
+      "replacement": "Even as flashing lightning, ice bearing a dreadful chill, and rain that should have soaked their heads came flying at them—the rain transformed into arrows.",
+      "severity": "major",
+      "source": "번뜩이는 벼락이, 끔찍한 냉기를 간직한 얼음이, 정수리를 적셔야 할 빗줄기가 화살이 되어 날아들어도."
+    }
+  ],
+  "summary": "The draft preserves the battle’s main actions and sequence. Three localized wording defects are actionable.",
+  "version": 1
+}
