@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "And his Disciple was fighting the Blood Lord, someone who absolutely could not die.",
+      "defect": "The sentence makes the Blood Lord, rather than Jeok Cheongang’s Disciple, the person who must not die.",
+      "id": "F01",
+      "rationale": "결코 죽어서는 안 되는 modifies 제자.",
+      "replacement": "And his Disciple, who absolutely could not be allowed to die, was fighting the Blood Lord.",
+      "severity": "critical",
+      "source": "결코 죽어서는 안 되는 제자가 혈주와 싸우고 있다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "the monstrous figure standing three yards tall",
+      "defect": "Three jang is approximately thirty feet, not three yards; the draft reduces the monster’s height to less than a third of its stated size.",
+      "id": "F02",
+      "rationale": "삼 장 is about nine to ten meters.",
+      "replacement": "the monstrous figure standing nearly thirty feet tall",
+      "severity": "critical",
+      "source": "무려 삼 장에 달하는 거구의 괴물도"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’ll kill you for him. Even if it isn’t today.”",
+      "defect": "“Him” assigns a gender to the unidentified 그분.",
+      "id": "F03",
+      "rationale": "The source does not identify 그분 as male.",
+      "replacement": "“For that person’s sake, I’ll kill you. Even if it isn’t today.”",
+      "severity": "major",
+      "source": "“그분을 위해서라도 반드시 당신을 죽일 거야. 당장 오늘이 아니더라도.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A dagger the Slaughter Saint had just thrown was buried deep in the eye slit of the helmet pulled so low that not even the man’s face was visible.",
+      "defect": "The dagger is lodged between the helmet’s eyeholes, not in an eye slit.",
+      "id": "F04",
+      "rationale": "눈구멍 사이 specifies the space between the eyeholes.",
+      "replacement": "A dagger the Slaughter Saint had just thrown was buried deep between the eyeholes of the helmet, which was pulled so low that not even the man’s face was visible.",
+      "severity": "major",
+      "source": "얼굴조차 보이지 않게 깊게 눌러쓴 투구의 눈구멍 사이에는, 조금 전 살성이 쏘아 보낸 비수 한 자루가 깊숙이 박혀 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A white flash, too bright to believe it was flame, filled his vision.",
+      "defect": "The surprising quality is the flash’s whiteness, not its brightness.",
+      "id": "F05",
+      "rationale": "믿을 수 없을 만큼 새하얀 describes its color; 시야를 가렸다 says it obscured his view.",
+      "replacement": "A flash so impossibly white it was hard to believe it was flame blocked his view.",
+      "severity": "minor",
+      "source": "화염이라고 하기에는 믿을 수 없을 만큼 새하얀 섬광이 시야를 가렸다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“If my one and only Disciple is playing, shouldn’t I be able to play with fire a hundred or even a thousand times?”",
+      "defect": "“Is playing” loses Jeok’s teasing image of his Disciple performing antics for him, which answers the Grand Mage’s remark about watching grandchildren.",
+      "id": "F06",
+      "rationale": "재롱을 부린다 echoes 손주 재롱 and keeps Jeok’s affectionate comeback.",
+      "replacement": "“If my one and only Disciple is putting on a show for me, I can play with fire a hundred times over. A thousand, even.”",
+      "severity": "minor",
+      "source": "“하나뿐인 제자 놈이 재롱을 부린다는데, 그깟 불장난이야 백번 천번도 할 수 있지 않겠느냐?”"
+    }
+  ],
+  "summary": "The draft misassigns who must survive, specifies an unidentified person's gender, and changes several physical details.",
+  "version": 1
+}
