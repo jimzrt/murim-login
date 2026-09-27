@@ -450,6 +450,8 @@ The instruction manual. That was right—I’d read it. More precisely, I’d re
 
 The moment I finally remembered every warning I’d managed to read, a chill ran through my entire body.
 
+> **Warning**
+>
 > - The player cannot log out at will.
 > - If the player dies during gameplay, resurrection is impossible.
 

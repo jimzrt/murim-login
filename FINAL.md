@@ -12,6 +12,7 @@ Compare the English with the Korean source.
 
 - Restore source facts, events, dialogue, and sentences the English dropped, in the same place in the scene.
 - Remove English sentences that have no support in the Korean.
+- Keep a bold label that names a quoted document, manual, warning, or sign, such as `> **Warning**`. Keep it when this chapter recalls or reprints a notice that was labeled earlier, even if the Korean reprint shows only the body.
 - Keep repetition the Korean itself repeats: comedy, panic, emphasis, echoed dialogue, and short beats such as `……`.
 - Do not treat a short refrain or a deliberate echo as a duplicate.
 
@@ -62,9 +63,9 @@ Leave it unnoted when the English is already clear. Do not explain a proverb the
 
 ## Formatting
 
-Enforce these four patterns. Repair anything that drifts.
+Enforce these four patterns. Repair System, speech, thought, and chat formatting when it drifts. Leave every other blockquote heading as it stands.
 
-- **System.** Each real game System panel is one Markdown blockquote headed exactly `> **System**`. Keep the panel’s lines inside that blockquote. Start a new panel only when prose intervenes. Do not wrap System text in square brackets or label a manual, sign, or ordinary quotation as System.
+- **System.** Each real game System panel is one Markdown blockquote headed exactly `> **System**`. Keep the panel’s lines inside that blockquote. Start a new panel only when prose intervenes. Do not wrap System text in square brackets or label a manual, sign, or ordinary quotation as System. A manual or remembered notice keeps its own label, such as `> **Warning**` or `> **Product User Manual**`. That label is not a System panel, and it is not drift.
 - **Speech.** Spoken dialogue uses curly double quotes (`“` `”`). Not straight quotes, not italics.
 - **Thoughts.** Direct thoughts are italics with no quotation marks.
 - **Chat and comments.** Public comment threads and private chat logs shown as threads are one unheaded blockquote. Each message line begins with `└`, as in `> └ message`. Do not add a `**Chat**` heading. Ordinary spoken dialogue stays in curly quotes.
