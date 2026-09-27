@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "They’d used only a portion of it, of course, but it had contained a full four nyang of Ten-Thousand-Year Cold Iron. Its strength and sharpness were more than worthy of being called a famous sword.",
+      "defect": "“It” makes the four nyang a property of the original chain rather than the sword made from it.",
+      "id": "F01",
+      "rationale": "The source says that despite using only part of the chain, the resulting sword contains four nyang of the material.",
+      "replacement": "Only part of the chain had gone into the sword, of course, but the blade contained a full four nyang of Ten-Thousand-Year Cold Iron. Its strength and sharpness more than earned it the name of a famous sword.",
+      "severity": "major",
+      "source": "물론 그중에서도 일부만을 사용했으나, 만년한철이 무려 넉 냥이나 들어갔으니 그 강도와 예리함은 과히 명검이라 부르기에 손색이 없을 정도."
+    },
+    {
+      "confidence": 0.97,
+      "current": "—Of course we’ll win this time, too. Yes. I’ll make sure of it.",
+      "defect": "“I’ll make sure of it” can mean Mujin promises to ensure victory; he is agreeing to Taekyung’s request to die where Taekyung can see him if things go wrong.",
+      "id": "F02",
+      "rationale": "The following narration explicitly treats this answer as a promise to Taekyung about Mujin’s death.",
+      "replacement": "—Of course we’ll win this time, too. But yes. If it comes to that, I promise I will.",
+      "severity": "major",
+      "source": "당연히 이번에도 우리가 이기겠지만, 예. 반드시 그러겠습니다."
+    },
+    {
+      "confidence": 0.88,
+      "current": "“Go… on.”",
+      "defect": "Mujin urges Taishan to act quickly, rather than telling him to proceed.",
+      "id": "F03",
+      "rationale": "어서 is an urgent prompt here, immediately before Taishan throws Mujin toward the sorcerer.",
+      "replacement": "“Hur…ry.”",
+      "severity": "minor",
+      "source": "“어……서.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "And at the same time, he saw the wide eyes of the black-robed man, now closing in through the air, right in front of him.",
+      "defect": "The draft has the black-robed man closing in through the air; Mujin is the one flying toward him.",
+      "id": "F04",
+      "rationale": "Taishan has just hurled Mujin toward the sorcerer standing by the gate.",
+      "replacement": "And as he flew through the air, he saw the black-robed man’s wide eyes suddenly right in front of him.",
+      "severity": "critical",
+      "source": "그리고 그와 동시에, 어느덧 허공을 가로질러 코앞까지 성큼 다가온 흑의인의 부릅뜬 눈동자를 보았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A flash, carrying his last remaining strength, grazed the jiangshi sorcerer’s neck.",
+      "defect": "“Grazed” suggests a superficial wound, but the strike cuts through the sorcerer’s neck and severs his head.",
+      "id": "F05",
+      "rationale": "스치듯 describes the fleeting motion of the cut; the next scene confirms that the head falls.",
+      "replacement": "A flash carrying the last of his strength swept across the jiangshi sorcerer’s neck.",
+      "severity": "critical",
+      "source": "마지막 힘이 실린 섬광이, 강시술사의 목을 스치듯 가로질렀다."
+    }
+  ],
+  "summary": "The draft changes who moves in the final attack and makes a severing cut sound superficial. It also obscures Mujin’s promise to Taekyung.",
+  "version": 1
+}

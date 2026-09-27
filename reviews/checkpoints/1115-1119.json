@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "If the greatest archer under Heaven hadn’t helped him—a man who could tear apart a target from hundreds of jang away—even the Slaughter Saint would never have made it back in one piece.",
+      "defect": "The appositive calls the Bow Saint a man, contradicting the established she/her decision and her pronouns later in the chapter.",
+      "id": "C01",
+      "rationale": "Keeps the action and description intact while correcting the character reference.",
+      "replacement": "If the greatest archer under Heaven hadn’t helped him—a woman who could tear apart a target from hundreds of jang away—even the Slaughter Saint would never have made it back in one piece.",
+      "severity": "major",
+      "source": "Chapter 1115, Slaughter Saint’s recollection of the fight with the Black Ghosts"
+    },
+    {
+      "confidence": 0.91,
+      "current": "An enemy army estimated at no less than thirty thousand had finally appeared here, today.",
+      "defect": "“Appeared here” suggests the army is at the East Gate, though the defenders cannot see it; Chapter 1119 places the horn several hundred jang away, and the active state says the coalition has not been shown reaching the gate.",
+      "id": "C02",
+      "rationale": "Preserves the defenders’ inference from the horn without presenting the army as visibly present or already at the gate.",
+      "replacement": "An enemy army estimated at no less than thirty thousand had finally drawn near.",
+      "severity": "minor",
+      "source": "Chapter 1118, defenders hearing the horn east of the gate"
+    }
+  ],
+  "summary": "One clear pronoun error and one arrival claim that conflicts with the reading copy and active state.",
+  "version": 1
+}
