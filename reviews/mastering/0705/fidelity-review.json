@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "he followed another’s orders like a hunting dog forced into a leash he had never wanted",
+      "defect": "The source says he followed behind someone while wearing an unwanted leash; it does not say he followed that person’s orders.",
+      "id": "F01",
+      "rationale": "누군가의 뒤를 따르면서도 describes following behind someone, not obeying their commands.",
+      "replacement": "he followed another like a hunting dog wearing a leash he had never wanted",
+      "severity": "minor",
+      "source": "Line 93"
+    },
+    {
+      "confidence": 0.89,
+      "current": "treated them as a diversion",
+      "defect": "This suggests the warriors served as a distraction or side activity, rather than being regarded as mere amusement.",
+      "id": "F02",
+      "rationale": "한낱 유흥거리로 여기던 means treating them as mere entertainment; that dismissive amusement is the point of the contrast with their later transformation.",
+      "replacement": "treated them as nothing more than a source of amusement",
+      "severity": "minor",
+      "source": "Line 281"
+    }
+  ],
+  "summary": "Two minor fidelity shifts: the draft turns following someone into obeying their orders, and recasts treating the warriors as amusement as treating them as a diversion.",
+  "version": 1
+}

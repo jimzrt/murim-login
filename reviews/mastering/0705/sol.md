@@ -20,7 +20,7 @@ Baekcheon Unit.
 
 “…!”
 
-The Southern Heaven Demon Empress’s pupils trembled.
+The Southern Heaven Demon Empress’s eyes trembled.
 
 She couldn’t understand why those characters beneath the endless dark sky unsettled her so deeply. Why a piece of old silk, yellowed by the years and fluttering in the wind, should make her uneasy at all.
 
@@ -34,17 +34,17 @@ Or why a memory she had once dismissed was returning now.
 
 *For a long time. He’s set up a refuge somewhere called Wenshan, hasn’t he?*
 
-*Th-then, may this lowly servant dare ask the Demon Empress just one thing?*
+*Th-then may this lowly servant dare ask you one question?*
 
 *You want to know why I’m watching when I know what he’s doing.*
 
-*Forgive my impertinence, but yes. Even now, a considerable portion of the vast supplies flowing to Baeksang is being used to train warriors. If he should ever harbor different intentions…*
+*Forgive my impertinence, but yes. Even now, a considerable share of the vast supplies going to Baeksang is being used to train those warriors. If he ever decides to turn against you…*
 
 *So what? It’s amusing.*
 
 *Pardon?*
 
-*Think about it. What could possibly change just because he feeds elixirs to orphans who have nowhere to go and teaches them a few forms of martial arts?*
+*Think about it. What difference will it make if he feeds elixirs to a few orphans with nowhere to go and teaches them a few forms of martial arts?*
 
 *Th-that…*
 
@@ -64,7 +64,7 @@ What happened in a remote mountain valley where no one set foot gradually ceased
 
 *It was too insignificant to keep watching.*
 
-It was only natural. She held Baeksang’s leash, and even if he cut it himself and charged at her, she possessed more than enough power to crush him to death in an instant.
+Of course it was. She held Baeksang’s leash. Even if he tore it free and lunged at her, she had the power to crush him in an instant.
 
 Such arrogance, such ease, belonged only to those with overwhelming strength.
 
@@ -82,11 +82,11 @@ No. He had carried that sky in his heart.
 
 Even as he followed another’s orders like a hunting dog forced into a leash he had never wanted, he must have written those characters with guilt and anger at knowing his path was wrong and being unable to leave it.
 
-On that yellowed, worn silk that had once been dazzlingly white, he must have drawn the sky he had wanted to see.
+On silk that had once been dazzlingly white, he had drawn the sky he longed to see.
 
-And the wish he could not fulfill with his own hands had been passed on to one person.
+And the wish he could not fulfill himself had passed to another man.
 
-“Leave. I have already cleared the East Gate. The guards at the underground prison will be more lax than usual, so the Han Chinese should be able to escape this place without much difficulty.”
+“Leave. I’ve already cleared the East Gate. The guards at the underground prison will be thinner than usual, so the Han Chinese should be able to escape without much trouble.”
 
 “…!”
 
@@ -128,13 +128,13 @@ Rumors of warriors racing across the wilderness spread quietly, but swiftly.
 
 *The Palace Lord has returned!*
 
-*Our Dai people will join the Palace Lord! Protect this land from the traitors who colluded with Dark Heaven, usurped the Palace Lord’s position, and betrayed Nanman!*
+*Our Dai people will join him! Protect this land from the traitors who conspired with Dark Heaven, usurped his place, and betrayed Nanman!*
 
 *Mobilize every warrior. Send out messengers, now!*
 
-As many as ten thousand warriors headed for the Nanman Beast Palace, leaving behind a vacuum of equal size.
+As many as ten thousand warriors had been sent to the Nanman Beast Palace, leaving a gap of equal size behind.
 
-The tribal chieftains who had rebelled against Baeksang and left the Nanman Beast Palace led their warriors to join their true Palace Lord.
+The tribal chieftains who had rebelled against Baeksang and left the palace led their own warriors to join their true Palace Lord.
 
 *You…*
 
@@ -156,7 +156,7 @@ The Beast Miao King asked why. The Bai man answered with a dazed look.
 
 The Beast King Stone was a legend. A miracle.
 
-And that day, the Bai man—no, the Captain of the Guards—was not the only one who witnessed the wondrous sight on Ailao Mountain.
+And the Bai man—no, the Captain of the Guards—had not been the only one to witness that astonishing sight on Ailao Mountain.
 
 *That Han Chinese bastard… No. Great Hero Jin Taekyung told us to find you at once, Palace Lord. He said everything would be lost if we were any later.*
 
@@ -164,7 +164,7 @@ Once the three thousand warriors who had surrounded Ailao Mountain joined them, 
 
 Nor could the group that had realized something was wrong and hurried toward the Nanman Beast Palace.
 
-“I had to rush to the Inner Palace and didn’t see it through to the end. How did the battle turn out?”
+“I had to rush to the Inner Palace before the fight was over. How did it end?”
 
 The Beast Miao King asked without taking his eyes off the Southern Heaven Demon Empress. Wang Ho, Commander of the Baekcheon Unit, wiped blood from his cheek. The heat of battle still burned in his eyes.
 
@@ -180,7 +180,7 @@ Jin Taekyung, who had watched it all unfold, gave a short laugh. He didn’t kno
 
 “…!”
 
-The Southern Heaven Demon Empress clenched her teeth before she could stop herself.
+The Southern Heaven Demon Empress clenched her teeth before she knew it. The taste of blood filled her mouth.
 
 Dead. All of them.
 
@@ -192,7 +192,9 @@ The thousands who had arrived with the Beast Miao King had crushed her last move
 
 Fury boiled up inside her. Worse than the fury was the unease, the cold creeping through her chest.
 
-The two characters filling the Southern Heaven Demon Empress’s mind now were death.
+One word filled her mind.
+
+*Death.*
 
 *…Die? I’m going to die? Me?*
 
@@ -208,7 +210,7 @@ With killing intent as sharp as the point of an awl.
 
 Thoom.
 
-Hundreds of feet stepped forward at once, their combined impact spreading as a tremendous echo.
+Hundreds of feet advanced at once, the sound rolling across the ground.
 
 Grrrr.
 
@@ -248,7 +250,7 @@ And only one man in all the world could wield the blade called the Baekcheon Uni
 
 “Give the order, Palace Lord. No…”
 
-A middle-aged man whose black hair had turned half gray with the passage of time—the Commander of the Baekcheon Unit, Wang Ho—spoke in a weighty voice.
+Wang Ho’s hair had gone half gray over the years. The Commander of the Baekcheon Unit spoke in a deep voice.
 
 “My lord.”
 
@@ -272,13 +274,13 @@ Krrrunch!
 
 Its roar shook heaven and earth. Its forepaw swept through everything in its way, tearing and crushing.
 
-Gripping the guardian spirit’s mane, white enough to match his own pallor, Jin Taekyung muttered,
+Jin Taekyung gripped the guardian spirit’s mane. It was as white as his own face.
 
 “No, fuck. I’m exhausted enough to die, so why am I—”
 
 His dismay at the sudden acceleration—and his suspicion that the guardian spirit might be a Korean-made tiger—vanished the next moment.
 
-To be precise, they had no choice but to vanish.
+It had to.
 
 Gooooong.
 
@@ -288,7 +290,7 @@ Jin yanked the guardian spirit’s mane backward at lightning speed.
 
 His ace in the hole: reverse gear.
 
-The guardian spirit understood his intention perfectly and launched itself.
+The guardian spirit understood him perfectly and sprang away.
 
 Forward.
 
