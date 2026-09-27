@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "As I suspected. You are an idiot. Cheongpung, you’re far too naïve for your age.",
+      "defect": "Great Sir calls Cheongpung by the wrong name, Kang Pung; the draft removes the setup for Cheongpung’s correction.",
+      "id": "F01",
+      "rationale": "강풍 is Kang Pung, not 청풍.",
+      "replacement": "As I suspected. You are an idiot. Kang Pung, you’re far too naïve for your age.",
+      "severity": "major",
+      "source": "강풍 자네는 나이에 비해 너무 어리숙한 면이 있어."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“That’s exactly what I said. Cheongpung.”",
+      "defect": "Great Sir repeats the wrong name while insisting he was right; the draft makes him say the correct name.",
+      "id": "F02",
+      "rationale": "The repeated 강풍 completes the wrong-name joke.",
+      "replacement": "“That’s exactly what I said. Kang Pung.”",
+      "severity": "major",
+      "source": "내 말이 바로 그 말일세. 강풍."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You only just started talking to me, and be honest. You don’t remember why you came, do you?”",
+      "defect": "Cheongpung says this was the first time he called Great Sir, rebutting the accusation that he keeps calling him. The draft instead comments on when Great Sir started talking.",
+      "id": "F03",
+      "rationale": "처음 불렀고 answers 왜 자꾸 부르나 directly.",
+      "replacement": "“That was the first time I called you. And be honest—you don’t remember why you came, do you?”",
+      "severity": "major",
+      "source": "처음 불렀고, 솔직히 말씀하세요. 뭐 때문에 왔는지 기억 안 나시죠?"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Though he ended up inside the belly of the White Head Mountains.",
+      "defect": "The draft turns 백두강산 into mountains with a belly, rather than preserving the named possessor of that belly.",
+      "id": "F04",
+      "rationale": "백두강산의 뱃속 identifies whose belly he entered; “the White Head Mountains” changes the referent.",
+      "replacement": "Though he ended up in Baekdu Gangsan’s belly.",
+      "severity": "critical",
+      "source": "결국 백두강산의 뱃속으로 들어갔지만."
+    },
+    {
+      "confidence": 0.99,
+      "current": "facing him from a hundred-odd yards away",
+      "defect": "The draft substitutes yards for 장, reducing the separation to less than a third of the source distance.",
+      "id": "F05",
+      "rationale": "A hundred-odd 장 is roughly a thousand feet, not a hundred yards.",
+      "replacement": "facing him from more than three hundred yards away",
+      "severity": "major",
+      "source": "백여 장의 거리를 두고 마주 선"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Did you eat some rotten outhouse shit by mistake?",
+      "defect": "The insult changes foul wastewater into feces and makes the image more explicit.",
+      "id": "F06",
+      "rationale": "하오수 refers to wastewater; the source’s coarse 처먹었나 supports the insult, not the substituted substance.",
+      "replacement": "Did you swallow some rotten sewage by mistake?",
+      "severity": "minor",
+      "source": "썩은 하오수라도 잘못 처먹었나?"
+    }
+  ],
+  "summary": "The draft loses Great Sir’s wrong-name joke, changes a person into a mountain range, and substantially shortens the distance between the two kings.",
+  "version": 1
+}

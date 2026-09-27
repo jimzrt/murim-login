@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 1081
-- Next chapter: 1082
-- Current block: 1080–1084 (2/5)
-- Latest translation: `translations/1081.md`
-- Latest summary: `summaries/beats/1081.md`
-- Safe profiles through: chapter 1081
+- Last completed: 1082
+- Next chapter: 1083
+- Current block: 1080–1084 (3/5)
+- Latest translation: `translations/1082.md`
+- Latest summary: `summaries/beats/1082.md`
+- Safe profiles through: chapter 1082
 
 ## Current Block
 
-- Hak Eui urges Jin Taekyung to replace beheading the corrupt City Lord of Qinghai and his associates with a harsher public execution. His real aim is to bring forward the results of his investigation into the city’s affairs; Taekyung gives him the floor, and the meeting continues through the night. The next day, the City Lord and around a dozen other criminals are brought into the streets and executed as a crowd watches. A messenger eagle arrives from the Murim Alliance in Henan; Taekyung reads the message and reacts with alarm, but its contents are not revealed.
+- Cheongpung watches the crowd desecrate the executed officials’ bodies and reflects that he never grows used to killing. Great Sir tells him that the strong are not accustomed to killing but worn down by it, and that Taekyung has chosen to accept his reality and fate. After Great Sir’s eccentric banter and flawless concealment technique, Hyuk Mujin finds Cheongpung and reports that Potala Palace in Tibet has joined Dark Heaven and that Seafaring King Pa Ryun and Green Forest Battle King Tae Gunak have betrayed them.
+- Pa Ryun and Tae Gunak meet in front of a dense forest. Despite their mutual insults and long rivalry, they suppress their auras and discuss a plan that is proceeding as instructed: in two days, they are to take control of the Yangtze.
 
 ## Open Questions
 
@@ -17,7 +18,7 @@
 - Why did the Lord of Heaven spare Taekyung in Gansu, and what is his real purpose?
 - Will the Alliance Leader and other righteous warriors reach Qinghai?
 - What is the hidden ember Cheongheoja warned about?
-- What did the Murim Alliance’s missive say?
+- What did the Murim Alliance’s missive say, and who instructed Pa Ryun and Tae Gunak?
 
 ## Exceptional Decision
 

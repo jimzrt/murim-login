@@ -1546,3 +1546,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 학수 | 진태경 | Kunlun Senior Disciple to visiting martial artist | Fellow Daoist Jin | polite and respectful | Addresses Taekyung as 진 도우. |
 | 학의 | 진태경 | Kunlun Sect disciple to renowned martial artist | Great Hero Jin Taekyung | formal and deferential | Uses 진태경 대협 when introducing himself and greeting Taekyung. |
 | 청해성주 | 진태경 | city official to imperial marquis | Marquis of Shangshan | extremely deferential | Uses 상산후 while responding to Taekyung. |
+| 청풍 | 대인 | younger companion addressing an older benefactor | Uncle Great Sir | polite and familiar | Cheongpung repeatedly calls him 대인 아저씨. |
+| 대인 | 청풍 | older benefactor addressing a younger companion | you | familiar and teasing | Great Sir addresses Cheongpung as 자네. |
