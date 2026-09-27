@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Heaven above, heaven below.”",
+      "defect": "The creed says heaven and earth, not heaven both above and below.",
+      "id": "F01",
+      "rationale": "천상천하 refers to heaven above and the world below.",
+      "replacement": "“In heaven and on earth.”",
+      "severity": "major",
+      "source": "“천상천하(天上天下).”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Only after driving his sword into the man’s chest did the follower’s words finally stop.",
+      "defect": "The sentence makes the follower appear to drive the sword into his own chest.",
+      "id": "F02",
+      "rationale": "The Sword Lord stabs the follower to silence him.",
+      "replacement": "The follower’s words stopped only when the Wind-and-Cloud Sword Lord drove his sword into the man’s chest.",
+      "severity": "critical",
+      "source": "가슴에 검을 꽂고 나서야 우뚝 끊기는 교언."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Then, at last, the Wind-and-Cloud Sword Lord recognized the source of his unease.",
+      "defect": "Unease replaces the specific sense of déjà vu.",
+      "id": "F03",
+      "rationale": "기시감 is a feeling of having encountered something before.",
+      "replacement": "Then, at last, the Wind-and-Cloud Sword Lord understood why this felt familiar.",
+      "severity": "minor",
+      "source": "순간, 풍운검군은 그제야 이 기시감의 정체를 알아차렸다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "He barely steadied himself, pain like a stab piercing his wrist.\n\nThe impact itself was beyond comparison.",
+      "defect": "The second sentence reads as another physical impact rather than the far greater shock he feels at his opponent’s strength.",
+      "id": "F04",
+      "rationale": "The shock is compared with his wrist pain and leads directly into his stunned recognition.",
+      "replacement": "He barely steadied himself, pain stabbing through his wrist.\n\nFar worse than the pain was the shock.",
+      "severity": "major",
+      "source": "손목을 찌르는 듯한 통증을 느꼈다.\n\n그와는 비교도 할 수 없을 만큼, 엄청난 충격도 함께."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Someone not stronger than anyone else in the world, but who had always brought winds of change no one could have predicted.",
+      "defect": "Not stronger than anyone else can suggest he is weaker than everybody, rather than simply not the strongest.",
+      "id": "F05",
+      "rationale": "The Korean denies that he surpasses everyone; it does not place him below everyone.",
+      "replacement": "Someone who wasn’t the strongest person in the world, but who had always brought winds of change no one could have predicted.",
+      "severity": "major",
+      "source": "천하의 그 누구보다 강한 것은 아니지만, 지금껏 언제나 그 누구도 예상치 못한 변화의 바람을 불어왔던 누군가를."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The flash of its blade flew straight for the enemy’s forehead.",
+      "defect": "Forehead loses the precise target.",
+      "id": "F06",
+      "rationale": "미간 specifies the space between the eyebrows.",
+      "replacement": "The flash of its blade flew straight for the spot between the enemy’s brows.",
+      "severity": "minor",
+      "source": "그 섬광의 종착지는 정확히 적의 미간을 겨누고 있었다."
+    }
+  ],
+  "summary": "The main defects are an impossible subject in the chest-stab sentence, a mistranslated creed, and wording that obscures the Sword Lord’s shock and his assessment of Jin.",
+  "version": 1
+}
