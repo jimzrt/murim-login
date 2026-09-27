@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "A new Main Quest, Predestined Collapse, has been created.",
+      "defect": "The new quest has a different title from the Chapter 1174 panel and the checkpoint’s terminology decision.",
+      "id": "C01",
+      "rationale": "The Foreordained Collapse is the title used when Jin opens the quest and in the active continuity.",
+      "replacement": "A new Main Quest, The Foreordained Collapse, has been created.",
+      "severity": "major",
+      "source": "Chapter 1172, failed-quest System panel"
+    },
+    {
+      "confidence": 0.94,
+      "current": "[Lv. 180 “Lord of the Dead” Undead King]",
+      "defect": "The floating UI label retains square brackets, contrary to the packet’s UI formatting rule.",
+      "id": "C02",
+      "rationale": "The preceding sentence already identifies it as text hovering above his head; brackets add no distinction.",
+      "replacement": "Lv. 180 “Lord of the Dead” Undead King",
+      "severity": "minor",
+      "source": "Chapter 1171, level label above the Undead King"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The three ominous syllables humanity had forgotten over the past few decades were branded into everyone’s minds once more.",
+      "defect": "“Great Cataclysm” does not have three syllables in English.",
+      "id": "C03",
+      "rationale": "The replacement retains the reference to the name immediately above it without an English-language mismatch.",
+      "replacement": "The ominous name humanity had forgotten over the past few decades was branded into everyone’s minds once more.",
+      "severity": "minor",
+      "source": "Chapter 1172, Great Cataclysm transition"
+    }
+  ],
+  "summary": "The reading copies and checkpoint state preserve the main continuity. Three terminology and formatting inconsistencies are actionable.",
+  "version": 1
+}

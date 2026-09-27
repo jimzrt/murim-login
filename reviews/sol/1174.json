@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He also knew that those three words included one being who was more human than most humans.",
+      "defect": "“Everyone” is one English word, not three; the count refers to the three Korean syllables of ‘사람들.’",
+      "id": "F01",
+      "rationale": "The replacement preserves the inclusion without carrying over an inapplicable Korean syllable count.",
+      "replacement": "He also knew that Jin’s request included one being who was more human than most humans.",
+      "severity": "major",
+      "source": "그가 말하는 ‘사람들’이 정확히 누구를 칭하는 것인지, 최민우는 이미 충분히 짐작하고 있었다.\n\n대부분의 인간보다도 더욱 인간 같은, 어느 한 존재 역시 저 세 글자에 포함되어 있다는 사실 역시도."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The instruction manual for that ancient capsule, the starting point of all this, said a Player remained bound to it permanently, until death.",
+      "defect": "The draft makes the Player bound to the capsule; the manual says the capsule is permanently bound to its Player until the Player dies.",
+      "id": "F02",
+      "rationale": "The attachment rule concerns the capsule and its owner.",
+      "replacement": "The instruction manual for that beat-up old capsule, the starting point of all this, said it remained permanently bound to its Player until the Player died.",
+      "severity": "major",
+      "source": "이 모든 것의 시작이라 할 수 있는 그 낡아빠진 캡슐 이용 설명서에는, 플레이어의 사망 전까지 영구 귀속된다고 적혀 있었으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Just as Taishan moves and leaves his mark, every choice you make will affect the whole world.",
+      "defect": "The draft treats 태산 as the character Taishan. Here it is a great mountain in a simile about the consequences of movement.",
+      "id": "F03",
+      "rationale": "The mountain image parallels the worldwide impact of the Player’s choices.",
+      "replacement": "Just as a great mountain leaves its mark when it moves, every choice you make will affect the whole world.",
+      "severity": "major",
+      "source": "태산이 움직이며 흔적을 남기듯, 당신의 모든 선택 역시 온 세상에 영향을 끼칠 것입니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Friends who’d gladly lay down their lives for me.",
+      "defect": "The draft reverses who is willing to die: Jin would lay down his life for these friends.",
+      "id": "F04",
+      "rationale": "The implied subject of 기꺼이 목숨을 내놓을만한 is the first-person narrator.",
+      "replacement": "Friends I’d gladly lay down my life for.",
+      "severity": "critical",
+      "source": "등을 맡길 수 있는 전우이자, 기꺼이 목숨을 내놓을만한 친구이며, 이제는 가족이라 불러도 좋을 그들을 향해 나는 첫 마디를 뗐다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Just like those hurried footsteps I could clearly hear beyond the countless layers of magic covering this place.",
+      "defect": "The source says Jin can distinctly sense the footsteps, not necessarily hear them through the magical barriers.",
+      "id": "F05",
+      "rationale": "느껴지는 describes perception without specifying hearing.",
+      "replacement": "Just like those hurried footsteps I could clearly sense beyond the countless layers of magic covering this place.",
+      "severity": "minor",
+      "source": "이 공간을 뒤덮은 무수한 마법의 막 너머로, 선명하게 느껴지는 저 다급한 발걸음들처럼."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“D-did you not get enough sleep?”",
+      "defect": "The Undead King asks whether Jin is still half asleep, not whether he slept enough.",
+      "id": "F06",
+      "rationale": "잠이 덜 깨다 means not yet fully awake; the line responds to Jin’s apparently dreamlike proposal.",
+      "replacement": "“Uh… are you still half asleep?”",
+      "severity": "minor",
+      "source": "“그, 잠이 덜 깼나?”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "“By the time they tied you to the stake, you would’ve been. They’d just have to remove what you’ve got between your legs.”",
+      "defect": "The draft replaces the speaker’s dangling-thing euphemism with a more anatomically explicit location.",
+      "id": "F07",
+      "rationale": "아랫도리에 달린 것 preserves the crude but indirect joke.",
+      "replacement": "“By the time they tied you to the stake, you would’ve been. They’d just have to cut off what’s dangling down there.”",
+      "severity": "minor",
+      "source": "“화형대에 매달렸을 때쯤이면 여자가 되어 있을걸? 아랫도리에 달린 것만 떼면 되잖아.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—There are System messages you haven’t checked.\n\n—The distribution and density of [magical power] are skyrocketing…\n\n—Current progress of the [rift]…",
+      "defect": "These consecutive System notices are not framed as a System window, and the UI terms retain source-style square brackets.",
+      "id": "F08",
+      "rationale": "The binding format calls for one blockquoted System window for consecutive notices, without square brackets around UI terms.",
+      "replacement": "> **System**\n>\n> —There are System messages you haven’t checked.\n>\n> —The distribution and density of magical power are skyrocketing…\n>\n> —Current progress of the rift…",
+      "severity": "minor",
+      "source": "- 확인하지 못한 시스템 메시지가 있습니다.\n\n- [마력]의 분포도와 농도가 폭등…….\n\n- [균열]의 현재 진행도……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Quest success requirements have not been met.\n\n—Main Quest, [Rift and Collapse], has failed.\n\n—A new Main Quest, [The Foreordained Collapse], has been created.\n\n—Would you like to view this Quest? Y / N",
+      "defect": "A second group of consecutive System notices is unframed and retains square brackets around Quest names.",
+      "id": "F09",
+      "rationale": "The prose between the two notice groups requires a separate System window.",
+      "replacement": "> **System**\n>\n> —Quest success requirements have not been met.\n>\n> —Main Quest, Rift and Collapse, has failed.\n>\n> —A new Main Quest, The Foreordained Collapse, has been created.\n>\n> —Would you like to view this Quest? Y / N",
+      "severity": "minor",
+      "source": "- 퀘스트 성공 요건을 충족하지 못했습니다.\n\n- 메인 퀘스트, [균열과 붕괴]가 실패했습니다.\n\n- 새로운 메인 퀘스트, [예정된 붕괴]가 생성되었습니다.\n\n- 해당 퀘스트를 확인하시겠습니까? Y / N"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> [The Foreordained Collapse]",
+      "defect": "The Quest title retains square brackets inside the framed System panel.",
+      "id": "F10",
+      "rationale": "The System heading and blockquote already identify this as UI text.",
+      "replacement": "> The Foreordained Collapse",
+      "severity": "minor",
+      "source": "[예정된 붕괴]"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it reverses a sacrifice, misreads a mountain metaphor as a character reference, and leaves two System windows unformatted.",
+  "version": 1
+}
