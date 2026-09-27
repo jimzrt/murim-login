@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 1057
-- Next chapter: 1058
-- Current block: 1055–1059 (3/5)
-- Latest translation: `translations/1057.md`
-- Latest summary: `summaries/beats/1057.md`
-- Safe profiles through: chapter 1057
+- Last completed: 1058
+- Next chapter: 1059
+- Current block: 1055–1059 (4/5)
+- Latest translation: `translations/1058.md`
+- Latest summary: `summaries/beats/1058.md`
+- Safe profiles through: chapter 1058
 
 ## Current Block
 
-- The allied forces annihilate Dark Heaven’s army on the snowfield. As the exhausted Jin Taekyung orders Sama Pyo to stay back, Pyo says he will leave the Fire Dragon Pavilion and face his own burdens alone. Taekyung recalls that Pyo deliberately let Namho suspect his father’s covert actions to protect their companions, and says he still trusts him as a friend. Pyo continues across the battlefield to confront the Kongtong Sect Leader, whose killing intent bears down on him.
+- Taishan tries to rush to Sama Pyo’s aid, but Jin Taekyung and Namho stop him. At the center of a hundred Blood-Clad Men—revealed to be Kongtong Sect Disciples—stands their Sect Leader, Perfected Being Hyeoncheon, who believes Sima Gong and other Gansu leaders betrayed the survivors at Dunhuang. Hyeoncheon came seeking Sima Gong, but learns he is dead; a returning Disciple reports that Song Il and Hwangbo Eom are dead as well.
+- Sama Pyo offers to accept the punishment for his father’s crimes, acknowledging that his life cannot repay the survivors’ losses. He asks Hyeoncheon to strike him down. Hyeoncheon draws his sword.
 
 ## Open Questions
 
@@ -17,7 +18,7 @@
 - Where did the missing Kongtong Sect survivors go?
 - What is the new mission in Qinghai, and who is the other servant there?
 - What is the mysterious green light?
-- What will happen when Sama Pyo confronts the Kongtong Sect Leader?
+- Will Hyeoncheon strike Sama Pyo down?
 
 ## Exceptional Decision
 
