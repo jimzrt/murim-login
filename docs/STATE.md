@@ -1,27 +1,28 @@
 # Translation State
 
-- Last completed: 1049
-- Next chapter: 1050
-- Current block: 1045–1049 (5/5)
-- Latest translation: `translations/1049.md`
-- Latest summary: `summaries/beats/1049.md`
-- Safe profiles through: chapter 1049
+- Last completed: 1050
+- Next chapter: 1051
+- Current block: 1050–1054 (1/5)
+- Latest translation: `translations/1050.md`
+- Latest summary: `summaries/beats/1050.md`
+- Safe profiles through: chapter 1050
 
 ## Current Block
 
-- The Grand Mage reveals that the Lord of Heaven ordered the Blood-Sword Demon Lord’s disposal after his role was fulfilled. She has healed Jin Taekyung enough to regain consciousness and urges him to kill the Blood-Sword Demon Lord and become stronger; Jin is still weak and bound as the battle continues below the hill.
+- The Grand Mage reveals that the Lord of Heaven has watched Jin Taekyung and identified him as the Chosen One. She says her master wants Jin to survive and grow stronger, but refuses to explain why. The Blood-Sword Demon Lord cannot understand why his disposal is tied to Jin’s growth.
+- Jin connects the Chosen One title to the Bow Saint and the Martial God’s letter. When the Grand Mage binds and chokes him, he challenges her to kill him, then severs his heart meridians using the faint healing power she gave him.
 
 ## Open Questions
 
 - What are the identity and purpose of the Lord of Heaven?
-- Why did the Lord of Heaven order the Blood-Sword Demon Lord’s disposal?
+- Why does the Lord of Heaven want Jin to survive and grow stronger?
+- How did the Martial God foresee the Chosen One, and what connects his letter to the Lord of Heaven’s plans?
 - Did Dark Heaven cause the Great Faction War?
 - Who are the white-robed mages, and what is their purpose?
-- How were the former Demonic Cult fiends made into Black Ghosts?
 
 ## Exceptional Decision
 
-- Render 대마도사 as Grand Mage.
+- Render 대마도사 and 대술사 as Grand Mage.
 - Use Fire Ball, Stone Wall, and Magic Arrow for the named spells.
 - Render 헬 파이어 as Hell Fire; use hellfire for descriptive 겁화.
 - Render 쇄월검진 as Moon-Shattering Sword Formation.
