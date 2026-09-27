@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Hearing about the beginning and end of the being called the Martial God had finally made me certain of the identity of another person like him—one who had existed beneath a different sky.",
+      "defect": "“Another person like him” presents the modern-world figure as distinct from the Martial God, while chapters 1142–1144 develop the possibility that they are the same person.",
+      "id": "C01",
+      "rationale": "Preserves Taekyung’s emerging theory without resolving the identity question early or contradicting the following chapters.",
+      "replacement": "Hearing about the Martial God’s beginnings and end had finally strengthened my suspicion about who he was beneath a different sky.",
+      "severity": "major",
+      "source": "Chapter 1141, final paragraph"
+    },
+    {
+      "confidence": 0.96,
+      "current": "After a week of watching the second hand stay exactly where it was, I shoved this sturdy piece of trash deep into my Inventory.",
+      "defect": "Chapter 1144 says the watch has only one hand and identifies it as an hour hand.",
+      "id": "C02",
+      "rationale": "Removes a contradictory second hand while retaining the observation that the watch appeared broken.",
+      "replacement": "After a week of watching its sole hand stay exactly where it was, I shoved this sturdy piece of trash deep into my Inventory.",
+      "severity": "minor",
+      "source": "Chapter 1143, recollection of the pocket watch"
+    },
+    {
+      "confidence": 0.88,
+      "current": "**Item Window**\n\n**[Pocket Watch of Unknown Make]**\n\n**Type:** Common Item  \n**Grade:** None  \n**Restrictions:** None  \n**Description:** A pocket watch made by someone unknown. Extremely sturdy. At a glance, it looks like an old, broken watch. Even on closer inspection, it looks like a broken watch.",
+      "defect": "The game item-information panel is not formatted as a System blockquote window.",
+      "id": "C03",
+      "rationale": "Applies the packet’s System-panel format without changing any item information.",
+      "replacement": "> **System**\n>\n> **Item Window**\n>\n> **[Pocket Watch of Unknown Make]**\n>\n> **Type:** Common Item  \n> **Grade:** None  \n> **Restrictions:** None  \n> **Description:** A pocket watch made by someone unknown. Extremely sturdy. At a glance, it looks like an old, broken watch. Even on closer inspection, it looks like a broken watch.",
+      "severity": "minor",
+      "source": "Chapter 1143, original item information"
+    },
+    {
+      "confidence": 0.88,
+      "current": "**Item Window**\n\n**[Pocket Watch of Unknown Make]**\n\n**Type:** Special Item  \n**Grade:** None  \n**Restrictions:** None  \n**Description:** A pocket watch made by someone unknown. Extremely sturdy. At a glance, it looks like an old, broken watch. On closer inspection, it seems to hold a secret I have yet to uncover.",
+      "defect": "The updated game item-information panel is not formatted as a System blockquote window.",
+      "id": "C04",
+      "rationale": "Keeps both item-information displays consistent with the required System-panel format.",
+      "replacement": "> **System**\n>\n> **Item Window**\n>\n> **[Pocket Watch of Unknown Make]**\n>\n> **Type:** Special Item  \n> **Grade:** None  \n> **Restrictions:** None  \n> **Description:** A pocket watch made by someone unknown. Extremely sturdy. At a glance, it looks like an old, broken watch. On closer inspection, it seems to hold a secret I have yet to uncover.",
+      "severity": "minor",
+      "source": "Chapter 1143, updated item information"
+    }
+  ],
+  "summary": "The packet has two continuity conflicts and two unframed System item panels. The remaining reading copies, summary, and active state have no other actionable checkpoint issues.",
+  "version": 1
+}

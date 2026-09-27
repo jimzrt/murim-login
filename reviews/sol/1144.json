@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "So deeply and soundly that even if someone shook him, he wouldn’t wake.",
+      "defect": "The draft says shaking him would fail to wake him; the source says he would not know even if someone shook him awake.",
+      "id": "F01",
+      "rationale": "깨어도 explicitly allows for his being awakened; 모를 describes his lack of awareness.",
+      "replacement": "Into a sleep so deep and vivid that he wouldn’t know it even if someone shook him awake.",
+      "severity": "critical",
+      "source": "누가 흔들어 깨어도 모를 만큼 깊고 선명한 잠에."
+    },
+    {
+      "confidence": 0.99,
+      "current": "we’ve been forced to shed countless lives.",
+      "defect": "Changes the blood they have shed into lives they have taken or lost.",
+      "id": "F02",
+      "rationale": "피를 흘리다 refers to bleeding or bloodshed, not shedding lives.",
+      "replacement": "we’ve had to shed so much blood.",
+      "severity": "major",
+      "source": "우리는 무수한 피를 흘려야만 했소."
+    },
+    {
+      "confidence": 0.99,
+      "current": "and from then on, he’d pestered me for it every other day.",
+      "defect": "“Every other day” understates how often he pestered Taekyung.",
+      "id": "F03",
+      "rationale": "하루가 멀다하고 means nearly every day.",
+      "replacement": "and from then on, he’d pestered me for it practically every day.",
+      "severity": "minor",
+      "source": "그때부터 하루가 멀다하고 끈질기게 달라붙었었지."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Its sole hand was one mark away from its original position.",
+      "defect": "“Mark” introduces a visible dial marking that the source does not establish.",
+      "id": "F04",
+      "rationale": "한 칸 describes a step in position; the passage says the watch has no numbers and does not identify marked divisions.",
+      "replacement": "Its sole hand had moved one position from where it had originally been.",
+      "severity": "minor",
+      "source": "그것의 유일한 시침은 본래의 위치에서 한 칸 벗어나 있었다."
+    }
+  ],
+  "summary": "Four actionable fidelity and wording issues.",
+  "version": 1
+}
