@@ -1,23 +1,24 @@
 # Translation State
 
-- Last completed: 1141
-- Next chapter: 1142
-- Current block: 1140–1144 (2/5)
-- Latest translation: `translations/1141.md`
-- Latest summary: `summaries/beats/1141.md`
-- Safe profiles through: chapter 1141
+- Last completed: 1142
+- Next chapter: 1143
+- Current block: 1140–1144 (3/5)
+- Latest translation: `translations/1142.md`
+- Latest summary: `summaries/beats/1142.md`
+- Safe profiles through: chapter 1142
 
 ## Current Block
 
-- The Bow Saint tells Jin Taekyung how the Martial God first appeared during the Great Faction War, defeated a pursuing Demonic Cult force, united the Murim factions, and later vanished after defeating the Heavenly Demon. Taekyung suspects her account is incomplete, recalling that she remained indifferent when his life was in danger. When he asks why the Martial God wanted to find him, she answers that it was for the sake of the realm; Taekyung accepts this as true and concludes that he now knows the identity of another being like the Martial God, though the chapter does not name that person.
+- Jeok Cheongang waits for Jin Taekyung and talks with the Slaughter Saint, who tells him not to blame himself for Taekyung’s near-death or the deaths of the Dharma King and Thunderbolt Saber King. Jeok pours wine as a memorial to the two fallen masters, then sees the East Gate opening and leaves. Taekyung considers whether Cheon Taemin was the Martial God and how that might fit the capsule’s ownership rules, then encounters Jeok and notices a pocket watch hanging around his neck.
+- Taekyung still does not know who the Helper is or how the capsule’s ownership rules could fit his theory about Cheon Taemin and the Martial God.
 
 ## Open Questions
 
-- What was the Bow Saint’s motive when Jin Taekyung was in mortal danger?
+- Are Cheon Taemin and the Martial God the same person, and how could Taekyung have acquired the capsule if so?
+- What accounts for the time ratio between the modern world and Murim?
+- Who is the Helper, and what is his relationship to the System?
+- What is the significance of the pocket watch Jeok wears?
 - What will happen in the campaign against the Lord of Heaven?
-- What is the connection between Cheon Taemin and the Martial God?
-- What is the Bow Saint withholding about the Martial God?
-- What did Taekyung’s dream of the winged being and battlefield signify?
 
 ## Exceptional Decision
 

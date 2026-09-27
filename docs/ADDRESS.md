@@ -1575,3 +1575,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 천자 | 마삼보 | Emperor addressing his former servant and traitor | traitor | familiar and imperious | The Son of Heaven asks whether Ma Sanbao enjoyed his rebellion. |
 | 제갈풍 | 천자 | Zhuge Clan Family Head addressing the Emperor | Your Majesty | formal and deferential | Apologizes for his discourtesy after joking with the Emperor. |
 | 천자 | 제갈풍 | Emperor addressing the Zhuge Clan Family Head | you | familiar and permissive | Uses 자네 while forgiving Zhuge Feng's discourtesy. |
+| 살성 | 적천강 | familiar peer and fellow martial master | you | familiar and teasing | Uses 자네 while teasing Jeok and reassuring him. |
