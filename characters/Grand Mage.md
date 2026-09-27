@@ -1,6 +1,6 @@
 # Grand Mage (대마도사)
 
-- **Safe through:** Chapter 1094
+- **Safe through:** Chapter 1148
 - **Aliases:** None
 - **Role:** A senior Dark Heaven sorcerer who directs its mages and participates in its plans to conquer the world.
 - **Personality:** Strategic and ambitious, with a sharp temper when others squander opportunities or act without consulting her.
