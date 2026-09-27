@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Jeok Cheongang, who’d been about to snap, let out a small laugh before he knew it.",
+      "defect": "“About to snap” turns a moment of being overcome with emotion into impending anger.",
+      "id": "F01",
+      "rationale": "울컥 describes his emotional response to hearing the familiar voices, not a loss of temper.",
+      "replacement": "Jeok Cheongang felt a sudden swell of emotion, then let out a small laugh before he knew it.",
+      "severity": "major",
+      "source": "순간 울컥했던 적천강은 자신도 모르게 피식 실소를 흘렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The shadow’s body rose as if floating, climbing more than a thousand steps.",
+      "defect": "“More than a thousand” reduces 수천 개가 넘는, which denotes thousands of steps.",
+      "id": "F02",
+      "rationale": "The stated scale is thousands, not merely over one thousand.",
+      "replacement": "The shadow rose as if floating, climbing thousands of steps.",
+      "severity": "critical",
+      "source": "마치 부유하듯 수천 개가 넘는 계단을 오른 그림자의 신형은"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“What surprises you so?”",
+      "defect": "The Lord of Heaven’s direct address, “Grand Mage,” is omitted at the moment the shadow’s identity is revealed.",
+      "id": "F03",
+      "rationale": "대술사여 explicitly names the addressee before the narration identifies the shadow.",
+      "replacement": "“What surprises you so, Grand Mage?”",
+      "severity": "major",
+      "source": "무엇이 그리도 놀라운가. 대술사(大術士)여."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Those who share the same root and branch are one. Since you were reborn through my grace, you must have felt it.”",
+      "defect": "“Those who share” changes the root-and-branch metaphor into a statement about multiple people sharing both.",
+      "id": "F04",
+      "rationale": "The source says the root and branch themselves form one body, explaining why the reborn Grand Mage could sense the wave.",
+      "replacement": "“Root and branch are parts of the same whole. Reborn through my grace, you must have felt it.”",
+      "severity": "major",
+      "source": "본래 뿌리와 가지는 한 몸이니, 나의 은총을 말미암아 새롭게 태어난 그대라면 느낄 수 있었으리라."
+    },
+    {
+      "confidence": 0.93,
+      "current": "For a moment, they turned toward their own hand.\n\nThe sight was enough to make anyone recoil: the body was dead, rotted and decayed until white bones showed through, as if it had been roused from death. But the Grand Mage shuddered with joy and awe.",
+      "defect": "The draft makes the entire body the visible rotted object; the source directs attention to the Grand Mage’s hand.",
+      "id": "F05",
+      "rationale": "그 모습 refers back to the hand the Grand Mage is looking at; the dead body provides context for its condition.",
+      "replacement": "For a moment, they turned toward their own hand.\n\nIt was rotted and decayed, white bone showing through—a chilling reminder that the body had already died. But the Grand Mage shuddered with joy and awe.",
+      "severity": "major",
+      "source": "자신의 손에 닿았다.\n\n이미 죽어 버린 육신을 일깨워 주듯 온통 썩고 문드러져 새하얀 뼈가 드러난 그 모습은 보는 이로 하여금 섬뜩함을 자아내기에 충분했지만, 대술사는 기쁨과 전율에 몸서리쳤다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "and the way Jeok Cheang’s heart had sunk when he saw his Disciple like that.",
+      "defect": "Jeok Cheongang’s name is misspelled.",
+      "id": "F06",
+      "rationale": "The established name is Jeok Cheongang.",
+      "replacement": "and the way Jeok Cheongang’s heart had sunk when he saw his Disciple like that.",
+      "severity": "minor",
+      "source": "그런 제자의 모습을 마주한 순간 철렁 내려앉은 마음도."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“An uninvited guest is sitting right there, so I was wondering what he was up to.”",
+      "defect": "Jeok is questioning who the uninvited man is, not what activity he is engaged in.",
+      "id": "F07",
+      "rationale": "뭐 하는 놈인가 challenges the person’s identity or standing; 떡하니 emphasizes how conspicuously he is sitting there.",
+      "replacement": "“There’s an uninvited guest planted right there. I was wondering who the hell he was.”",
+      "severity": "minor",
+      "source": "웬 불청객이 떡하니 앉아 있으니 뭐 하는 놈인가 하고 보고 있었지."
+    }
+  ],
+  "summary": "The draft has one altered emotional reaction, one incorrect quantity, and several localized fidelity and wording defects.",
+  "version": 1
+}
