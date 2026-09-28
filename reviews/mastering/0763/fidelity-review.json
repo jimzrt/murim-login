@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "On-screen, Jin Taekyung stood grim-faced while Michael spoke one step ahead of him. Michael’s voice carried to them all.",
+      "defect": "The source says their image passes through the camera lenses into countless eyes and describes Michael’s voice as powerful and drilling into everyone’s ears. The assembled version omits both the camera-to-eyes image and the voice’s force.",
+      "id": "F01",
+      "rationale": "The source explicitly includes both details in lines 61–63; the current text reduces them to a scene description and a voice merely carrying.",
+      "replacement": "The image of grim-faced Jin Taekyung and Michael Silbert, speaking one step ahead of him, passed through the camera lenses into countless eyes, accompanied by a powerful voice that drilled into everyone’s ears.",
+      "severity": "minor",
+      "source": "Lines 61–63"
+    },
+    {
+      "confidence": 0.97,
+      "current": "No one watching from elsewhere complained about the disruption.",
+      "defect": "The source says viewers neither complained nor paid attention to the reporters’ sighs and camera movement. The current sentence retains only the lack of complaints.",
+      "id": "F02",
+      "rationale": "The source explicitly says people did not complain or pay attention (불평하거나 신경 쓰지 않았다).",
+      "replacement": "No one watching from elsewhere complained or paid any attention to it.",
+      "severity": "minor",
+      "source": "Line 62"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Fear spread through their minds like dark clouds.",
+      "defect": "The source says cloud-like emotions gnawed at and consumed people’s minds. The current version changes that action to fear spreading and drops the consuming image.",
+      "id": "F03",
+      "rationale": "The source’s verbs 좀먹고 잠식한다 describe the emotions eating away at and consuming their minds, not merely spreading through them.",
+      "replacement": "Feelings like dark clouds gnawed away at and consumed their minds.",
+      "severity": "minor",
+      "source": "Line 169"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The German soldiers and police holding them back.",
+      "defect": "The source identifies the German Federal Armed Forces, not simply German soldiers.",
+      "id": "F04",
+      "rationale": "독일 연방군 names the German Armed Forces; the accepted baseline also preserves that institutional reference.",
+      "replacement": "The German Armed Forces and police holding them back.",
+      "severity": "minor",
+      "source": "Line 241"
+    },
+    {
+      "confidence": 0.96,
+      "current": "People stared, unable to believe what they’d heard.",
+      "defect": "The source specifically says the people opened their eyes wide as they doubted their ears. “Stared” omits that physical reaction.",
+      "id": "F05",
+      "rationale": "눈을 부릅뜬 means they opened their eyes wide; this physical reaction is explicit in the source.",
+      "replacement": "People, doubting their own ears, opened their eyes wide.",
+      "severity": "minor",
+      "source": "Line 287"
+    }
+  ],
+  "summary": "The assembled chapter is broadly faithful, with a few omitted physical and sensory details and one imprecise institutional reference.",
+  "version": 1
+}
