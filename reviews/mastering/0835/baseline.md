@@ -2,25 +2,25 @@
 
 *Splaaash.*
 
-Sudal sat at the bow of the ship as it cut swiftly through the current, lost in thought. He was a river pirate of the Yangtze River Channel League and Deputy Stronghold Lord of the Water Dragon Stronghold, which held sway over Hubei Province.
+Sudal, a river pirate belonging to the Yangtze River Channel League and Deputy Stronghold Lord of the Water Dragon Stronghold, which held sway over Hubei Province, sat at the bow of a ship cutting swiftly through the current, lost in thought.
 
 *Looking back, things have gone pretty well so far.*
 
 Sudal had made quite a name for himself in his line of work.
 
-He was deputy lord of a major stronghold with more than five hundred river pirates under its command. And though it had taken him a long time, he had finally reached the Peak level of martial arts.
+He was the deputy lord of a major stronghold with more than five hundred river pirates under its command. And though it had taken him a long time, he had finally reached the Peak level of martial arts.
 
-Simply staying active and in one piece as he approached fifty made him a model of a successful river pirate. But Sudal had achieved more than that.
+Simply staying active and in one piece as he approached fifty made him a model of a successful river pirate. But Sudal had already achieved more than that.
 
 *I’ve saved up a decent amount of money, too.*
 
-Few water strongholds had hundreds of fighters.
+It was rare for a water stronghold to have hundreds of fighters.
 
 On top of that, Mu Song, the Ship-Fire Boy who headed the Water Dragon Stronghold, was a shrewd man with powerful backing: he was a direct Disciple of the Alliance Leader of the Yangtze River Channel League. As his deputy, Sudal had made plenty just by picking up the scraps that fell his way.
 
 Of course, a good deal of that wealth had gone to pleasure houses.
 
-*Could I buy a decent manor somewhere out in Hubei? Property prices have probably gone up again, though. Fuck. Do they plate the pillars in gold or something?*
+*Could I buy a decent manor somewhere out in Hubei? Though property prices have probably gone up again. Damn it. Do they plate the pillars in gold or something?*
 
 Sudal stared gloomily at the current, which broke into rough waves around the ship.
 
@@ -30,7 +30,7 @@ Retirement? Settling down?
 
 A few years ago—not even a few months ago—those soft, mushy words wouldn’t have crossed his mind.
 
-Sudal had always prided himself on being a born sailor and river pirate.
+Sudal had always thought of himself as a born sailor and river pirate.
 
 But not anymore. His carefree life as a raider, and his life as a bold man of the water, were both slowly coming to an end.
 
@@ -40,7 +40,7 @@ Even at this very moment.
 
 At the cautious call from behind him, Sudal squeezed his eyes shut.
 
-*I’m fucked.*
+*We’re fucked.*
 
 It wasn’t a guess. He was certain.
 
@@ -48,21 +48,21 @@ Ever since they’d left the wretched land of Yunnan five days ago, the same nig
 
 *I thought we might make it through the whole day for once…*
 
-The inevitable had arrived.
+In the end, the inevitable had arrived.
 
 But Sudal didn’t run. He resolved to face it like a brave river pirate and answered.
 
 “I’m listening. Speak.”
 
-“Well, you see, it’s just…”
+“Well, you see, it’s just—”
 
 “Talk, or get your ass kicked.”
 
 “I’m too old to want a beating, so I’ll talk. It’s just… do we have any beef?”
 
-Sudal turned slowly toward the familiar face of his subordinate.
+Sudal turned around slowly and looked at the familiar face of his subordinate.
 
-“Are you that eager to get your ass kicked?”
+“Are you really that eager to get your ass kicked?”
 
 “Of course not.”
 
@@ -70,9 +70,9 @@ Sudal turned slowly toward the familiar face of his subordinate.
 
 “I need beef. Specifically, beef marinated in a spicy sauce.”
 
-“Beef. Spicy marinade…”
+“Beef, spicy marinade…”
 
-Sudal trailed off and took a deep breath. Recent experience was teaching him to recover the composure he’d forgotten decades ago.
+Sudal trailed off and took a deep breath. Recent experience had been teaching him to rediscover the composure he’d forgotten over the past few decades.
 
 “You know where we are right now, don’t you?”
 
@@ -84,7 +84,7 @@ His subordinate nodded enthusiastically.
 
 “We’ve finally left that godforsaken Yunnan behind and are crossing the Yangtze on our way to Sichuan.”
 
-“Then one last question. In the middle of the Yangtze, when it’s been well over a month since we set foot on land, can we get our hands on marinated beef?”
+“Then one last question. In the middle of the Yangtze, after more than a month without setting foot on land, do you think we can get our hands on marinated beef?”
 
 “No.”
 
@@ -98,7 +98,7 @@ The subordinate smiled awkwardly at the rare praise, then suddenly turned seriou
 
 “I said we don’t have any.”
 
-“He said to make some if we don’t.”
+“They told me to make some if we don’t.”
 
 “Could it be… that bastard?”
 
@@ -108,7 +108,7 @@ His subordinate looked around before answering in a voice kept low with great ef
 
 You could always count on him to be the one.
 
-Neither of them said the name, but they both knew.
+Neither of them said the name, but they both knew who they meant.
 
 At the moment, there was only one lunatic who’d demand spicy marinated beef aboard a ship crossing the Yangtze.
 
@@ -116,9 +116,9 @@ At the moment, there was only one lunatic who’d demand spicy marinated beef ab
 
 Spending thirty years as a river pirate meant seeing all kinds of idiots and morons. But even a seasoned pirate like Sudal had never seen anyone like him.
 
-A build and appetite that barely seemed human. Simple-mindedness that could shock even the most uncultured river pirates.
+A build and appetite that barely seemed human. A level of simple-mindedness that could shock even the most uncultured river pirates.
 
-Actually, Sudal had once met another lunatic of much the same sort, albeit one considerably smaller.
+Actually, Sudal had once met another lunatic of the same sort, albeit one considerably smaller.
 
 “Shit. I’d almost forgotten him, and now I’m thinking about that bastard too.”
 
@@ -130,9 +130,9 @@ Actually, Sudal had once met another lunatic of much the same sort, albeit one c
 
 They both thought of him at the same time.
 
-The young man who looked perfectly normal but seemed possessed by some kind of ghost, stuffing his face with dumplings and sweets whenever he got the chance.
+The young man who looked perfectly normal, but seemed possessed by some kind of ghost, and would stuff his face with dumplings and sweets whenever he got the chance.
 
-Sudal gazed wistfully back on those days a few months ago, then let out a sigh.
+Sudal gazed wistfully back on the past, a few months ago, then let out a sigh.
 
 Before Hubei was stained with blood, he’d been living a peaceful, sensible life as a river pirate.
 
@@ -142,7 +142,7 @@ Before Hubei was stained with blood, he’d been living a peaceful, sensible lif
 
 “Oh, really? That’s what happened?”
 
-“I’m telling you. The second he made eye contact with you, he’d start whining for those skewers. That *horo* bastard was something else.”[^2]
+“I’m telling you. The second he made eye contact with you, he’d start whining for candied hawthorn skewers. That son of a bitch was a real pain in the ass.”
 
 One lunatic demanded beef with the sauce already on it, and another demanded candied hawthorn skewers.
 
@@ -154,7 +154,7 @@ The lunatic who wanted beef was a Peak master from the Black Dragon Demon Gate, 
 
 His backing was insane: the Sword Saint, Mae Jonghak, was his Master, and the Sect Leader of Huashan was his Senior Brother.
 
-In terms of seniority alone, he stood on equal footing with the Sect Leaders of the Nine Sects and One Gang. And according to popular opinion, his talent for martial arts ranked among the top three of all time.
+In terms of seniority alone, he stood on equal footing with the Sect Leaders of the Nine Sects and One Gang. And according to public opinion, his talent for martial arts was among the top three throughout history.
 
 *The heavens are cruel. Why give all that to a bastard like him?*
 
@@ -164,9 +164,9 @@ As Sudal looked up at the clear sky and lamented his fate—
 
 Something broke, followed by a shout like the roar of a beast.
 
-“Beef! Taishan wants beef! Spicy marinade!”
+“Beef! Taishan wants beef! Spicy sauce!”
 
-Sudal’s subordinate turned pale.
+Sudal’s subordinate turned pale as he spoke.
 
 “This is bad. He’s already at moderate rage.”
 
@@ -180,9 +180,9 @@ Sudal’s subordinate turned pale.
 
 “What?!”
 
-Sudal snapped out of it and told him where he’d hidden his emergency supply of drinking snacks.
+Sudal snapped out of it and told him where he’d hidden his emergency rations for drinking snacks.
 
-“There’s a jar in the corner of my cabin.”
+“There’s a jar in the corner of the cabin I use.”
 
 “Beef?”
 
@@ -190,23 +190,23 @@ Sudal snapped out of it and told him where he’d hidden his emergency supply of
 
 “That still won’t be enough, will it?”
 
-“Of course not. With his appetite, I wouldn’t be surprised if he ate the jar too. But what if you went with the Young Sect Leader of the Black Dragon Demon Gate?”
+“Of course it won’t. With his appetite, he could eat the whole jar and still want more. But what if you take it over with the Young Sect Leader of the Black Dragon Demon Gate?”
 
 “Ah!”
 
 “Go. The fate of this ship is in your hands.”
 
-“That’s our Deputy Stronghold Lord!”
+“That’s our Deputy Stronghold Lord, all right!”
 
-The subordinate gave him a thumbs-up and hurried off. Sudal watched him go with a proud smile and rubbed the bridge of his nose.
+The subordinate raised a thumb and hurried off. Sudal watched him go with a proud smile and rubbed the bridge of his nose.
 
 “That boy…”
 
-But the smile vanished.
+But the smile disappeared in an instant.
 
 Instead of taking their possessions, he was giving them a ride—and he still had to worry about this.
 
-He’d even felt proud of himself for coming up with a decent solution. The misery suddenly welled up in him, and his eyes grew wet.
+He’d even felt proud of himself for coming up with a decent solution. Now, all of a sudden, the misery welled up in him, and his eyes grew wet.
 
 *Is this why I became a river pirate?*
 
@@ -214,7 +214,7 @@ A sudden sense of futility weighed on him, but Sudal forced himself to shake his
 
 No. He only had to hang on a little longer.
 
-It had already been five days since they left Yunnan. With heaven’s help and a good wind, they might arrive within a day.
+It had already been five days since they left Yunnan. With the heavens on their side, and a good wind, they could arrive within a day.
 
 Then he could say goodbye to those wretched people…
 
@@ -222,25 +222,25 @@ Then he could say goodbye to those wretched people…
 
 “Huh?”
 
-Sudal blinked, shaken from his thoughts. An old man who looked stern as hell stood before him, holding a fishing rod.
+Sudal snapped out of his thoughts and blinked. An old man who looked stern as hell stood before him, holding a fishing rod.
 
-“You…”
+“You’re…”
 
-“You?”
+“Me?”
 
 “No, Elder…”
 
 “Elder?”
 
-“…What should I call you, then?”
+“……What should I call you, then?”
 
-“Just call me Senior No. And get that hideous face of yours away from the bow. The Dragon King would turn tail if he came up for some fresh air and saw your mug.”
+“Just call me Senior No. And get that hideous face of yours away from the bow. The Dragon King would turn tail if he came up here for some fresh air and saw your mug.”
 
 “Ah, yes. Understood, Senior No.”
 
 The old man hadn’t been with them when they sailed from Sichuan toward Yunnan about two months ago.
 
-Now, five days into their voyage back, Sudal still didn’t know exactly who he was. But looking at him, the old man somehow gave off the air of a master.
+Now, five days into their voyage back, Sudal still didn’t know exactly who he was. But looking at him now, the old man somehow gave off the air of a master.
 
 Especially…
 
@@ -252,7 +252,7 @@ The old man’s forehead was black as if it had been painted, and swollen to twi
 
 Sudal quickly moved away from the bow and studied him before speaking cautiously.
 
-If he could get on the good side of a mysterious old master who’d been living in seclusion in Nanman and obtain the formula for a martial art, what better fortuitous encounter could there be?
+If he could get on the good side of the mysterious old master who’d been living in seclusion in Nanman and obtain the formula for a martial art, what better fortuitous encounter could there be?
 
 “Um, so…”
 
@@ -260,7 +260,7 @@ If he could get on the good side of a mysterious old master who’d been living 
 
 “Yes, sir.”
 
-Silence fell at once.
+Silence settled at once after that single sentence.
 
 Just as Sudal was watching for a chance to speak, the old man sitting at the bow with his fishing line cast suddenly shouted.
 
@@ -278,7 +278,7 @@ Just as Sudal was watching for a chance to speak, the old man sitting at the bow
 
 “Shut that crafty mouth of yours and finish what you were going to say. I’m going out of my mind wondering.”
 
-Sudal stared at the old man, who already looked like he was out of his mind.
+Sudal stared at the old man before him, who already looked like he was out of his mind.
 
 *I thought I’d finally escaped the Fire King, and now there’s another crazy old man!*
 
@@ -308,19 +308,19 @@ The old man scoffed.
 
 “Me?”
 
-The old man puffed out his chest.
+The old man puffed out his chest and replied.
 
 “My name is Namho.”
 
 “Ah! Namho?”
 
-“That’s right. I’m *the* Namho.”
+“That’s right. This Namho is none other than the very man standing before you.”
 
-Namho smiled fondly as he thought back on his youth. Sudal wondered.
+The old man, Namho, smiled fondly as he thought back on his youth. Sudal wondered.
 
 *Who the hell is Namho?*
 
-Perhaps he was an old master from the previous generation. Sudal couldn’t recall ever hearing the name.
+Perhaps because he was an old master from the previous generation, but Sudal couldn’t recall ever hearing that name.
 
 Then the old man spoke again, and Sudal, who’d been unsure, couldn’t help but jump in shock.
 
@@ -330,9 +330,9 @@ Then the old man spoke again, and Sudal, who’d been unsure, couldn’t help bu
 
 “That’s not all. A thousand orthodox martial artists owe their lives to me, and twice that many members of the Demonic Cult died because of me.”
 
-“Wow! A thousand, then another two thousand! A hero born of the Great Faction War!”
+“Wow! A thousand, and two thousand more! A hero born of the Great Faction War!”
 
-“The Nine Sects and One Gang? The Five Great Families? They’re strong, very strong. But charging in and swinging a blade isn’t the only thing that matters. What matters is victory in battle!”
+“Sure, the Nine Sects and One Gang? The Five Great Families? They’re strong, very strong. But charging in and swinging a blade isn’t the only thing that matters. What matters is victory in battle!”
 
 “Wow! Victory!”
 
@@ -354,7 +354,7 @@ Sudal threw both arms up and shouted along. Then something struck him as odd, an
 
 “Yeah. I did. From the rear.”
 
-“…?”
+“……?”
 
 “Is that a problem?”
 
@@ -368,11 +368,11 @@ Sudal stared at Namho, who remained completely unashamed. After a brief silence,
 
 “Why would I learn something like that?”
 
-“…?”
+“……?”
 
-“Being a martial artist is dangerous as hell, and hard work. When you’re young, you show off and get stabbed to death. When you’re old, your body’s a wreck.”
+“Martial artists have it filthy dangerous and hard. When they’re young, they show off and get stabbed to death. When they’re old, they’re practically guaranteed to end up with their bodies wrecked.”
 
-“…!”
+“……!”
 
 “Look at you. You’re trembling right now. You’re getting old, your martial arts are mediocre, and your body’s starting to give out. Might be a stroke, so if you’re interested, come along. I’m on my way to see a famous physician.”
 
@@ -380,7 +380,7 @@ About half of what Namho said was true.
 
 Sudal had already lost it. But he wasn’t trembling from a stroke—he was trembling with rage.
 
-He held on to his last thread of reason long enough to ask one final question.
+The last thread of reason he had left was moving his lips to resolve one final question.
 
 “T-then what about that Iron Head Technique you mentioned?”
 
@@ -390,17 +390,17 @@ He held on to his last thread of reason long enough to ask one final question.
 
 “I got stung by a bee.”
 
-“…!”
+“……!”
 
-“Some beastly bastard disturbed a Black Gold Bee hive because he wanted the honey, and I nearly died for it. We somehow managed to draw out the venom, but this swelling just won’t go down.”
+“Some beastly bastard disturbed a Black Gold Bee’s hive because he wanted the honey, and I nearly died for it. We somehow managed to draw out the venom, but this swelling just won’t go down.”
 
-Namho gently rubbed his black, swollen forehead. Sudal felt dizzy, as though he’d been stung by a bee himself.
+As Namho gently rubbed his black, swollen forehead, Sudal felt the world go dizzy, as though he’d been stung by a bee himself.
 
 *What kind of fucked-up situation is this…?*
 
 Two months.
 
-A whole two months. He’d left merchant ships laden with wealth and grain behind and, under what was practically a threat, been dragged from his home base in Hubei to Sichuan, then all the way to Yunnan.
+A whole two months. He’d left the merchant ships laden with wealth and grain behind, and under what was practically a threat, he’d been dragged away from his home base in Hubei to Sichuan, and then all the way to Yunnan.
 
 And it still wasn’t over.
 
@@ -408,17 +408,17 @@ The waiting had gone on forever. He’d stopped in Guangxi for a chance to make 
 
 It was easy to call it two months, but being trapped on a ship with the ugliest, most uneducated people in the world had made those two months feel like two years.
 
-*All I have to do is take them to Sichuan, then I can go back to Hubei. And this is how things are going right to the end.*
+*All I have to do is take them to Sichuan, then I can go back to Hubei. And this is what happens at the very end.*
 
-One beast of a man spent all day shoving whatever he could into his mouth. Now Sudal had been fooled by a powerless old man he’d never met before and insulted for his trouble.
+One beast of a man spent all day shoving whatever he could into his mouth. This time, he’d been tricked by a powerless old man he’d never met before and showered with insults.
 
 That wasn’t all. The rest of them were just as crazy.
 
-Hyuk Mujin—whom he’d met enough times to recognize—was going around preaching some religion called the Earth Mother Goddess to his subordinates. Song Ilseom and Sama Pyo, who’d looked like they disliked each other from the start, had dueled on deck and half destroyed the mast.
+Hyuk Mujin—the one he’d already seen enough times to know—was going around preaching some religion called the Earth Mother Goddess, or something. Song Ilseom and Sama Pyo, who’d looked like they disliked each other from the start, had dueled on deck and half destroyed the mast.
 
 And Ju Hwaran, the Ten Dragons and Phoenixes and the most beautiful woman in Sichuan?
 
-Two months ago, when they’d set out for Nanman, she’d looked like a fairy. Now she spent her days coming out onto the deck to watch everyone.
+Just two months ago, when they’d set out for Nanman, she’d looked like a fairy. Now she spent her days coming out onto the deck to keep an eye on everyone.
 
 And whenever she heard even the slightest sound somewhere, she’d prick up her ears and mutter as though she wanted everyone to hear.
 
@@ -432,7 +432,7 @@ And whenever she heard even the slightest sound somewhere, she’d prick up her 
 
 What was he, the Dragon King? How was he supposed to calm a raging river?
 
-He’d put up with enough. For five days, he’d seen everything he never wanted to see and heard everything he never wanted to hear.
+He’d been patient long enough. Five days of seeing things he couldn’t stand and hearing things he didn’t want to hear.
 
 *That’s it. I’ve got nowhere left to retreat. I’m settling this today.*
 
@@ -444,11 +444,10 @@ Until a familiar voice sounded behind him.
 
 “Whew. I feel so much better after getting a good rest. Hey, mister, how far have we come?”
 
-Sudal turned slowly. Jin Taekyung had shown himself for the first time in five whole days. Sudal raised his eyes to him and answered with a grin.
+Sudal slowly turned around. He looked up at Jin Taekyung, who’d shown himself for the first time in five whole days, and answered with a grin.
 
 “Hehe. We’ll be there soon.”
 
 That night, the swift ship arrived in Sichuan, and Sudal decided to retire.
 
 [^1]: Candied hawthorn skewers are a traditional Chinese street snack made by coating hawthorn fruit with hardened sugar.
-[^2]: The Korean name for the snack, *bingdanghoro*, lets the speaker repeat *horo*, an insult meaning “bastard.”

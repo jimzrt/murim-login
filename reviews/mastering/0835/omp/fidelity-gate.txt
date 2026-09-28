@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled chapter is faithful overall. One minor loss of specificity in Ju Hwaran’s complaint.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 435",
+      "current": "*Oh. The waves are so rough. What if the Pavilion Master suffers qi deviation while circulating his qi because of all the noise? You’re river pirates, aren’t you? Can’t you do something about a single wave?*",
+      "defect": "The Korean specifically says the sound of the waves might cause qi deviation. “All the noise” broadens the cause to unspecified noise.",
+      "replacement": "*Oh. The waves are so rough. What if the Pavilion Master suffers qi deviation while circulating his qi because of the sound of the waves? You’re river pirates, aren’t you? Can’t you do something about a single wave?*",
+      "rationale": "The source says 파도 소리 때문에, explicitly attributing the risk to the sound of the waves.",
+      "confidence": 0.98
+    }
+  ]
+}

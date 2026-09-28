@@ -22,7 +22,7 @@ Of course, a good deal of that wealth had gone to pleasure houses.
 
 *Could I buy a decent manor somewhere out in Hubei? Property prices have probably gone up again, though. Fuck. Do they plate the pillars in gold or something?*
 
-Sudal stared gloomily at the current, which broke into rough waves around the ship.
+Sudal stared gloomily at the churning water.
 
 *I never thought I’d be thinking about stuff like this.*
 
@@ -106,8 +106,6 @@ His subordinate looked around before answering in a voice kept low with great ef
 
 “Sure enough, it’s that bastard.”
 
-You could always count on him to be the one.
-
 Neither of them said the name, but they both knew.
 
 At the moment, there was only one lunatic who’d demand spicy marinated beef aboard a ship crossing the Yangtze.
@@ -148,9 +146,9 @@ One lunatic demanded beef with the sauce already on it, and another demanded can
 
 Sudal shuddered at their cruelty. But then, as now, there was nothing he could do.
 
-The lunatic who wanted beef was a Peak master from the Black Dragon Demon Gate, one of the foremost factions among the unorthodox. He was also the right-hand man of its Young Sect Leader, who was all but certain to inherit the sect. And that little shit he’d mentioned was a far, far bigger figure than even him.
+The lunatic who wanted beef was a Peak master from the Black Dragon Demon Gate, one of the foremost unorthodox factions. He was also the right-hand man of its Young Sect Leader, who was all but certain to inherit the sect. And the *horo* bastard they’d just mentioned was an even bigger figure.
 
-*If it’s Cheongpung, the Huashan Divine Dragon, he’s a big shot among big shots.*
+*Cheongpung, the Huashan Divine Dragon. Now there’s a big shot among big shots.*
 
 His backing was insane: the Sword Saint, Mae Jonghak, was his Master, and the Sect Leader of Huashan was his Senior Brother.
 
@@ -210,7 +208,7 @@ He’d even felt proud of himself for coming up with a decent solution. The mise
 
 *Is this why I became a river pirate?*
 
-A sudden sense of futility weighed on him, but Sudal forced himself to shake his head.
+For a moment, doubt gripped him. Sudal forced himself to shake his head.
 
 No. He only had to hang on a little longer.
 
@@ -246,7 +244,7 @@ Especially…
 
 *That forehead.*
 
-The old man’s forehead was black as if it had been painted, and swollen to twice the size of anyone else’s. Sudal couldn’t take his eyes off it.
+The old man’s forehead was black as if it had been painted, and swollen to twice its normal size. Sudal couldn’t take his eyes off it.
 
 *I’ve heard of external arts like that.*
 
@@ -298,7 +296,7 @@ Sudal had foolishly thought he could breathe easy again. Swallowing his misery, 
 
 The old man scoffed.
 
-“Great Hero? What nonsense. That Ironblood Elder is the lowest of the low. One of the scum of the Murim who absolutely must be hunted down and killed. Though he might already be dead. He spent the entire Great Faction War pretending to sit on the sidelines, while he was up to all kinds of dirty business behind the scenes.”
+“Great Hero? What nonsense. That Ironblood Elder is the lowest of the low. Scum who ought to be hunted down and killed for the good of Murim. Though he might already be dead. He spent the entire Great Faction War pretending to sit on the sidelines, while he was up to all kinds of dirty business behind the scenes.”
 
 “Oh. So you aren’t Great Hero Ironblood Elder. I mean, that scum.”
 
@@ -322,7 +320,7 @@ Namho smiled fondly as he thought back on his youth. Sudal wondered.
 
 Perhaps he was an old master from the previous generation. Sudal couldn’t recall ever hearing the name.
 
-Then the old man spoke again, and Sudal, who’d been unsure, couldn’t help but jump in shock.
+But what Namho said next made him jump.
 
 “I killed dozens of fiends during the Great Faction War.”
 
@@ -336,7 +334,7 @@ Then the old man spoke again, and Sudal, who’d been unsure, couldn’t help bu
 
 “Wow! Victory!”
 
-“When I was young, whenever I sent out a messenger pigeon, the great sects everyone had heard of would move, huh? And sometimes the Three Saints and Ten Kings would rush right out!”
+“When I was young, all I had to do was send out a messenger pigeon and the great sects everyone’s heard of would move. Sometimes even the Three Saints and Ten Kings would come rushing out!”
 
 “Wow! The Three Saints! The Ten Kings! You must be the Martial God at the very least!”
 
@@ -358,7 +356,7 @@ Sudal threw both arms up and shouted along. Then something struck him as odd, an
 
 “Is that a problem?”
 
-Sudal stared at Namho, who remained completely unashamed. After a brief silence, he parted his lips.
+Sudal stared at Namho, who looked entirely pleased with himself. After a brief silence, he spoke.
 
 “Then, Senior, do you have a title?”
 
@@ -374,11 +372,11 @@ Sudal stared at Namho, who remained completely unashamed. After a brief silence,
 
 “…!”
 
-“Look at you. You’re trembling right now. You’re getting old, your martial arts are mediocre, and your body’s starting to give out. Might be a stroke, so if you’re interested, come along. I’m on my way to see a famous physician.”
+“Look at you. You’re trembling right now. You’re getting old, your martial arts are mediocre, and your body’s starting to give out. Might be a stroke, so if you’re interested, come along. I’m on my way to see a good physician.”
 
 About half of what Namho said was true.
 
-Sudal had already lost it. But he wasn’t trembling from a stroke—he was trembling with rage.
+Sudal’s body had already given out on him. But he wasn’t trembling from a stroke—he was trembling with rage.
 
 He held on to his last thread of reason long enough to ask one final question.
 
@@ -386,7 +384,7 @@ He held on to his last thread of reason long enough to ask one final question.
 
 “I said I knew about it. I never said I’d learned it.”
 
-“But if you haven’t even learned Iron Head Technique, why is your forehead so—”
+“But if you haven’t learned Iron Head Technique, why is your forehead so—”
 
 “I got stung by a bee.”
 
@@ -404,9 +402,9 @@ A whole two months. He’d left merchant ships laden with wealth and grain behin
 
 And it still wasn’t over.
 
-The waiting had gone on forever. He’d stopped in Guangxi for a chance to make some pocket money, only to be caught by the Fire King, Jeok Cheongang—who was known as the Blood Monk—and dragged along.
+The waiting had dragged on forever. He’d stopped in Guangxi for a chance to make some pocket money, only to be caught and dragged along by Jeok Cheongang, the Fire King—who was going by the name Blood Monk.
 
-It was easy to call it two months, but being trapped on a ship with the ugliest, most uneducated people in the world had made those two months feel like two years.
+It was easy to call it two months, but being trapped on a ship with the ugliest, most uncultured people in the world had made those two months feel like two years.
 
 *All I have to do is take them to Sichuan, then I can go back to Hubei. And this is how things are going right to the end.*
 
@@ -416,15 +414,15 @@ That wasn’t all. The rest of them were just as crazy.
 
 Hyuk Mujin—whom he’d met enough times to recognize—was going around preaching some religion called the Earth Mother Goddess to his subordinates. Song Ilseom and Sama Pyo, who’d looked like they disliked each other from the start, had dueled on deck and half destroyed the mast.
 
-And Ju Hwaran, the Ten Dragons and Phoenixes and the most beautiful woman in Sichuan?
+And Ju Hwaran, one of the Ten Dragons and Phoenixes and the most beautiful woman in Sichuan?
 
 Two months ago, when they’d set out for Nanman, she’d looked like a fairy. Now she spent her days coming out onto the deck to watch everyone.
 
-And whenever she heard even the slightest sound somewhere, she’d prick up her ears and mutter as though she wanted everyone to hear.
+Whenever she heard even the slightest sound, she’d prick up her ears and mutter loudly enough for everyone to hear.
 
 *Oh. The Pavilion Master still needs to rest. Does that barrel really have to be moved right now?*
 
-*Oh. That rope scraping is so loud. Should I just cut every rope so the Pavilion Master can be comfortable?*
+*Oh. That rope scraping is so loud. Should I just cut all the ropes so the Pavilion Master can rest?*
 
 *Oh. Why’s he gulping down water like that? Couldn’t he go without drinking and slowly dry up instead?*
 
@@ -436,13 +434,11 @@ He’d put up with enough. For five days, he’d seen everything he never wanted
 
 *That’s it. I’ve got nowhere left to retreat. I’m settling this today.*
 
-Overcome with fury, Sudal drew the broad-bladed saber tucked into his waistband.
+Overcome with fury, Sudal reached for the broad-bladed saber tucked into his waistband.
 
-Or, he tried to.
+He was about to draw it when a familiar voice sounded behind him.
 
-Until a familiar voice sounded behind him.
-
-“Whew. I feel so much better after getting a good rest. Hey, mister, how far have we come?”
+“Whew. I feel a lot better after that rest. Hey, mister, how far have we come?”
 
 Sudal turned slowly. Jin Taekyung had shown himself for the first time in five whole days. Sudal raised his eyes to him and answered with a grin.
 
