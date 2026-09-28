@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "If anyone else had said it, no matter how great a Hunter they were, they’d have cursed them under their breath.",
+      "defect": "The assembled copy omits the preceding thought that, under normal circumstances, they would have considered Jin’s claim absurd nonsense. The source presents that reaction separately before contrasting how they would respond if anyone else said it.",
+      "id": "F01",
+      "rationale": "Korean line 221 says they would normally have thought it was 말도 안 되는 헛소리; line 223 separately says they would have cursed anyone else who said it. The accepted baseline preserves both beats.",
+      "replacement": "Normally, they would have thought it was absurd nonsense. If anyone else had said it, no matter how great a Hunter they were, they’d have cursed them under their breath.",
+      "severity": "minor",
+      "source": "Lines 219–223"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The only person writing a new legend after Cheon Taemin.",
+      "defect": "The assembled copy omits the conclusion that everyone could not help but believe in Jin Taekyung, which connects his status as a legendary hero to their trust in him.",
+      "id": "F02",
+      "rationale": "Korean line 231 states that everyone could not help believing in him. The accepted baseline includes this sentence; the assembled copy moves directly from the legend statement to Jin’s record of fighting at the front.",
+      "replacement": "The only person writing a new legend after Cheon Taemin. They couldn’t help believing in him.",
+      "severity": "minor",
+      "source": "Lines 225–233"
+    }
+  ],
+  "summary": "Two source beats preserved in the accepted baseline are missing from the assembled copy.",
+  "version": 1
+}

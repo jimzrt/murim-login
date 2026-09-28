@@ -22,7 +22,7 @@ Yet none of the people watching the vultures fly overhead and on toward the hori
 
 More precisely, they knew the creatures’ master was on their side.
 
-And at least one of them thought of him as more than an ally. He was a friend.
+And some of them thought of him as more than an ally. He was a friend.
 
 “Hey.”
 
@@ -80,9 +80,9 @@ And that was only how many the Skeleton King had confirmed. The true number migh
 
 The Skeleton King knew who Jin meant by *him*. He shook his head.
 
-“I still don’t know. From above, there are about three that look like serious threats, but whether one of them is The Prophet… Hmm.”
+“I still don’t know. There are about three on the ground that look dangerous even from above, but whether one of them is The Prophet… Hmm.”
 
-The Skeleton King let out a low groan. His expression stiffened as he continued.
+He let out a sudden groan, his face stiffening.
 
 “There was one in the air, too.”
 
@@ -120,7 +120,7 @@ People had family bound to them by blood, and friends who were family in all but
 
 But…
 
-“I don’t know where it came from, but there’s a saying: There’s no paradise at the end of the road when you run away.”
+“I don’t know where I heard it, but there’s a saying: There’s no paradise where you end up after running away.”
 
 It was strange.
 
@@ -128,15 +128,15 @@ The sun overhead was hot enough to set them on fire, yet the moment they heard J
 
 He was right.
 
-There was no paradise at the end of the road when you ran away. They lived in a time like that.
+There was no paradise waiting at the end of a retreat. That was the age they lived in.
 
 “Run, and run, and keep running… Then one day, after doing everything you can to stay alive, you look around. Will there be anything left for you to protect?”
 
-It had been more than thirty years.
+It had been some thirty years.
 
 Humanity had rebuilt bigger, grander cities on the ruins left by the Great Cataclysm. The disaster’s traces remained only in records and scars.
 
-Those who survived the war, or were born after peace arrived, didn’t know what war was like.
+Those who had survived the war, and those born only after peace arrived, no longer knew war.
 
 But Jin Taekyung was different.
 
@@ -146,9 +146,9 @@ A battle was not a war. A Gate was not the real world.
 
 In the Gates they’d faced until now, they could retreat to avoid a fight. But the place where they stood now was the world where they’d been born and raised.
 
-A world with something they had to protect.
+A world that held things they wanted to protect.
 
-A world they had to protect, no matter what.
+A world they had to defend.
 
 Jin Taekyung had known that since the day he survived alone, leaving behind someone who’d been like an older brother. He knew it still, now that he’d come to know another world.
 
@@ -164,7 +164,7 @@ The power that had come to them one day like a stroke of luck had been given to 
 
 *Whoosh.*
 
-Sand whipped around Jin Taekyung. A hot wind blew in from somewhere and swept over the people.
+Sand whipped around Jin Taekyung. A hot wind blew in from somewhere and swept over the Hunters.
 
 It thawed their hands and feet, frozen despite the scorching sun, and set the red blood in their veins boiling—blood unlike that of the monsters now emerging in the distance through a vast sandstorm.
 
@@ -206,7 +206,7 @@ Someone burst out laughing. A Hunter who’d been staring at the comrade beside 
 
 *Kill them all? Every last one of those monsters?*
 
-If anyone else had said it, no matter how great a Hunter they were, they’d have cursed them under their breath.
+Ordinarily, they’d have called it absurd nonsense. If anyone else had said it—no matter how great a Hunter—they’d have cursed him under their breath.
 
 But that startlingly young Asian man was Jin Taekyung, the new Alliance Leader of the World Hunter Federation.
 
@@ -214,7 +214,7 @@ A hero who had proven himself.
 
 The only person writing a new legend after Cheon Taemin.
 
-Jin Taekyung had always fought at the very front, harder than anyone else.
+They couldn’t help believing him. Jin Taekyung had always fought at the very front, harder than anyone else.
 
 That alone was reason enough to fight.
 
@@ -246,7 +246,7 @@ Why?
 
 Simple. Cuba had been destroyed.
 
-The monster wave that began in the center of Cuba’s capital had grown beyond control. It ended only after sinking three island nations in the Cayman Islands deep beneath the sea.
+The monster wave that began in the heart of its capital had grown beyond control. It ended only after three island nations in the Cayman Islands had sunk deep beneath the sea.
 
 Perhaps that was when it started.
 
@@ -256,9 +256,9 @@ His mother had been in Cuba.
 
 *Crackle.*
 
-Ash that had been burning for a long time dropped with a soft *tap*.
+A long column of ash broke off and fell with a soft *tap*.
 
-After watching it in silence for a long while, Chuck Hagel abruptly spoke.
+Chuck Hagel watched it in silence for a while before speaking.
 
 “Any request for backup?”
 
@@ -278,7 +278,7 @@ The aide barely kept the words from slipping out. He clicked his tongue instead.
 
 “We’re fully prepared and standing by. We have the rear of the Rub’ al Khali Desert covered.”
 
-“Damn it. That’s all well and good, but that goddamn satellite surveillance still doesn’t work. Why are the drones down? Did some defense contractor take a kickback?”
+“Damn it. That doesn’t make the goddamn satellite surveillance work. Why are the reconnaissance drones down? Did somebody take a kickback from the defense contractor?”
 
 “Come on, boss. You know why. The concentration of magical power is too high.”
 
@@ -286,7 +286,7 @@ The aide barely kept the words from slipping out. He clicked his tongue instead.
 
 “…”
 
-The aide was profoundly grateful that there was no one from a defense contractor around at that moment.
+The aide was deeply grateful that no one from a defense contractor was there to hear him.
 
 He was grateful, too, that his short-tempered superior was still guarding the main force.
 
@@ -306,12 +306,12 @@ A moment later, Chuck Hagel saw his aide’s face stiffen as he read the report.
 
 “What is it?”
 
-“…We’re under attack. Part of the search party outside has been hit.”
+“…An attack. Part of the search party we sent out has been hit.”
 
 “What?”
 
 “And…”
 
-The aide paused for breath, then let it out.
+The aide drew a breath, then let it out.
 
 “The enemy isn’t a monster.”
