@@ -68,7 +68,7 @@ Team Leader Choi squeezed his eyes shut. Unable to watch any more, I stepped in.
 
 “Hmm. On second thought, perhaps not.”
 
-“See?”
+“Exactly.”
 
 “Of course. Call me whatever you like. That can be my name.”
 
@@ -86,7 +86,7 @@ The Skeleton King muttered a curse at his new name, then spoke.
 
 “It was too badly wounded to flee far. Leviathan can’t have gone far yet.”
 
-“Although Leviathan suffered a heavy blow thanks to Mr. Jin Taekyung, I understand that it obtained an unrefined S-rank Magic Gem. Wouldn’t that be enough for it to recover from its wounds and then some?”
+Team Leader Choi frowned. “Leviathan took a heavy blow from Mr. Jin Taekyung, but I understand it obtained an unrefined S-rank Magic Gem. Wouldn’t that be more than enough to heal its wounds?”
 
 “Heal?”
 
@@ -100,9 +100,7 @@ The Skeleton King gave a quiet snort.
 
 The assessment from an actual monster was persuasive.
 
-On top of that, One Annihilation was a killing blow powerful enough to wreck even its caster’s body.
-
-True to its name, Leviathan had twisted its body at the last moment, but those were not wounds that could heal in a short time.
+Besides, **One Annihilation** was a killing blow powerful enough to wreck the body of the person using it. Leviathan had twisted away at the last moment, living up to its name, but it couldn’t heal from that in a hurry.
 
 *Lure it. Lure it, huh.*
 
@@ -118,11 +116,11 @@ The answer was simple.
 
 Team Leader Choi spoke almost with a groan. “We’ll need one hell of a lure.”
 
-“Yes. We need bait so delicious that Leviathan will risk its life to charge at it.”
+“Yes. Something tempting enough that Leviathan will take the risk.”
 
-And at this point, there was only one thing that could lure Leviathan in.
+Right now, there was only one thing that might tempt it.
 
-“Excuse me, Prime Minister?”
+“Prime Minister?”
 
 Koizumi had been following the conversation with glazed eyes. He looked up at my gentle tone.
 
@@ -132,7 +130,7 @@ Koizumi had been following the conversation with glazed eyes. He looked up at my
 
 “A few of what?”
 
-“Don’t play dumb. S-rank Magic Gems.”
+“Come on. S-rank Magic Gems.”
 
 “…Eh?”
 
@@ -144,15 +142,15 @@ Koizumi had been following the conversation with glazed eyes. He looked up at my
 
 I held out my pinkie to the wide-eyed prime minister.
 
-*We’ll win one and pay it back. Win it.*
+*We can win some and pay him back. Win some.*
 
 * * *
 
 In the modern world, S-rank Magic Gems were treasures of tremendous value.
 
-Before even considering that they were the finest energy source capable of powering an entire metropolis, there were only around a hundred of them in the entire world. Their rarity alone was astonishing.
+Even before you considered that one was an energy source capable of powering an entire metropolis, there were only about a hundred in the world. Their rarity alone made them priceless.
 
-Perhaps that was why the Japanese prime minister, despite promising his full cooperation, had initially been horrified. Of course, in the end, he had no choice but to hand them over, even if it was against his will.
+No wonder the prime minister had nearly jumped out of his skin, despite his promise to cooperate. In the end, though, he’d had no choice but to hand them over.
 
 “Here they are.”
 
@@ -176,9 +174,9 @@ The prime minister saw my expression and answered in a rush. “These are all th
 
 *Habits are scary.*
 
-At Team Leader Choi’s intervention, I scratched the back of my head. The Japanese prime minister, who had been edging backward for a while now, hurriedly slipped out of the room, repeatedly begging us to return the Magic Gems safely.
+I scratched the back of my head at his warning. The prime minister, who had already been edging backward, slipped out of the room, repeatedly insisting that we return the gems safe and sound.
 
-But once he was gone, the mood in the room was rather lukewarm.
+Once we were alone, though, no one seemed particularly excited.
 
 “Hmm. Two…”
 
@@ -188,17 +186,17 @@ But once he was gone, the mood in the room was rather lukewarm.
 
 The number of S-rank Magic Gems didn’t matter. What mattered was the amount and quality of the magical power left in them.
 
-*Normally, they should obviously have been refined… but this time, we have a different use for them.*
+*Of course they’ve been refined. Normally, that’s what you’d want… but we need them for something else.*
 
 We had two S-rank Magic Gems in front of us. What we needed was bait—something Leviathan would rush for even if it knew there was a trap.
 
-A massive mass of pure magical power, like the one it had taken.
+A huge mass of pure magical power, like the gem it had swallowed.
 
-*Even if we use both of these together as bait, they still won’t come close to an unrefined Magic Gem.*
+*Even together, these two don’t come close to an unrefined gem.*
 
 I wasn’t alone in thinking it. As we exchanged looks, the Skeleton King spoke up.
 
-“No matter how I think about it, these will not be enough. What about bringing more?”
+“The more I think about it, the less likely these are to work. What if we bring more?”
 
 “Bring more from where…? Oh.”
 
@@ -252,7 +250,7 @@ His face lit up. “What is it?”
 
 “Leaving me out? What are you talking about?”
 
-It must have been more unexpected than he could have imagined. I continued as he stared at me with perfectly round eyes.
+He looked genuinely stunned.
 
 “I can’t help it. Too many people are watching us right now.”
 
@@ -274,9 +272,9 @@ His fist came down, shattering the table. Suddenly he was right in front of me, 
 
 “…What?”
 
-“Even if we catch Leviathan, once your identity is revealed, you’re finished. I’m only trying to avoid that.”
+“Even if we kill Leviathan, it’s over for you if people learn what you are. That’s all I’m trying to prevent.”
 
-*Wood crackle.*
+*Crack.*
 
 Bones shifted in his clenched fist. He stared at me in disbelief, then cried out as if the words were blood he had to spit up.
 
@@ -286,8 +284,8 @@ Bones shifted in his clenched fist. He stared at me in disbelief, then cried out
 
 “Huh?”
 
-*Got you. Hooked.*
+*Got him.*
 
-I looked at the Skeleton King with a satisfied smile.
+I smiled at the Skeleton King.
 
 “You said you’d do anything. Right?”

@@ -1,0 +1,15 @@
+{
+  "summary": "One minor causal narrowing: the source links Leviathan’s arrival to being both hungry and wounded, while the assembled line names only hunger.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Chapter 751, line 129",
+      "current": "Hunger brought it here in the first place.",
+      "defect": "This reduces the stated reason for Leviathan’s arrival to hunger alone. The preceding sentence describes it as a hungry, wounded beast, and the Korean says its reason for coming here was the same as that description.",
+      "replacement": "That’s why it came all the way here, too.",
+      "rationale": "The Korean phrase “그와 같지” refers back to thinking of Leviathan as a hungry, wounded beast; it does not isolate hunger as the sole cause.",
+      "confidence": 0.84
+    }
+  ]
+}
