@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor omissions weaken source-specific meaning and physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 5",
+      "current": "Everything alive is born into a struggle.",
+      "defect": "The source says every living thing is bestowed a destiny of struggle at birth. “Born into a struggle” drops the explicit sense of an assigned fate.",
+      "replacement": "Everything alive is born with a destiny of struggle.",
+      "rationale": "탄생과 동시에 투쟁의 운명을 부여받는다 explicitly describes receiving the fate of struggle at the moment of birth; the accepted baseline preserved that meaning.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 287",
+      "current": "By the time I spotted the archers and their dark bows through the thinning ranks of fanatics, it was too late.",
+      "defect": "The source specifies shortbows; “bows” omits that physical detail.",
+      "replacement": "By the time I spotted the archers and their dark shortbows through the thinning ranks of fanatics, it was too late.",
+      "rationale": "묵색의 단궁 specifies dark-colored shortbows, not bows generally.",
+      "confidence": 0.91
+    }
+  ]
+}

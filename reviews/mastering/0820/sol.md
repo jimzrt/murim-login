@@ -4,9 +4,9 @@ Everything alive is born into a struggle.
 
 Humans, monsters, animals in the wild or behind fences, even green plants—all of them.
 
-Even when survival itself wasn’t the reason to struggle, you had to fight and take what you wanted.
+Even when survival wasn’t at stake, you had to fight to get what you wanted.
 
-And under this absolute law, I was no exception.
+I was no exception to that rule.
 
 *Crunch!*
 
@@ -18,7 +18,7 @@ That was enough. I twisted aside, leaving behind a fanatic who collapsed with hi
 
 The air split. A flash dropped from empty space and skimmed past me by half a handspan.
 
-Between the pitch-black robe and turban that covered him completely, I saw his eyes widen. The White Flame’s spearhead was reflected in them.
+Between the pitch-black robe and turban covering him, I saw his eyes widen. White Flame’s spearhead was reflected in them.
 
 *Thump. Splurt!*
 
@@ -34,7 +34,7 @@ Like a tail fluttering in the wind.
 
 *Fire Dragon’s Single Tail.*
 
-Flames surged. The enemies’ auras flashing from every direction drove away the darkness racing toward the dim dawn.
+Flames surged. The enemies’ auras flashed from every direction, driving back the darkness as dawn approached.
 
 I turned, my whole body moving in one smooth motion.
 
@@ -52,7 +52,7 @@ No—faint lines had already appeared across the bodies of dozens of fanatics, f
 
 Trembling pupils. A fading voice.
 
-But no words or actions could stop death from bearing down without mercy.
+But nothing they said or did could stop death from coming for them.
 
 *Fwoooooosh!*
 
@@ -68,7 +68,7 @@ At the same time, flesh, bones, and organs—torn apart by a single horizontal s
 
 “De…mon…”
 
-Someone’s voice reached my ears. Of course, it belonged to one of the fanatics, someone whose face and name I didn’t know—and an enemy I had to kill.
+A voice reached my ears. It belonged to a fanatic whose face and name I didn’t know. An enemy I had to kill.
 
 *Pfft!*
 
@@ -82,7 +82,7 @@ The fanatics surrounding me stopped moving.
 
 Most of them probably couldn’t understand even a quarter of what they’d just seen.
 
-How their comrades had died. Why they couldn’t wound me, even with so many fighters.
+How their comrades had died. Why so many of them still couldn’t wound me.
 
 They would die with those questions unanswered.
 
@@ -102,7 +102,7 @@ The old man with the long name, Yahya Muhammad Ahmad Bedouin, twisted his scimit
 
 *Ka-ga-gak!*
 
-Auras of different colors collided, sparking like lightning. A small explosion waited at their tips.
+Auras of different colors collided, throwing off sparks like lightning. Then came a small explosion.
 
 *Boom!*
 
@@ -120,7 +120,7 @@ Two entirely different energies, neither of which he’d revealed until now, coe
 
 *Mana. And magical power.*
 
-As those two words crossed my mind, the old man continued.
+As the words crossed my mind, the old man continued.
 
 “I, Yahya Muhammad Ahmad Bedouin, am a warrior chosen by God.”
 
@@ -136,9 +136,9 @@ If more fanatics had been capable of accepting those two opposing energies, the 
 
 “If that is what you wish to believe, then believe it.”
 
-The old man shook his head and looked at me with gray eyes.
+The old man shook his head and fixed his gray eyes on me.
 
-“You know nothing. Dozens, hundreds died trying to be chosen by God. But I alone survived.”
+“You know nothing. Dozens, hundreds died trying to be chosen by God. I alone did not.”
 
 “So being ‘chosen by God’ just means mixing a human and a monster half and half? Does that make a half-and-half order of black-bean noodles and spicy seafood noodles a warrior of God too?”
 
@@ -166,19 +166,19 @@ In the end, there was only one thing I could say to fanatics like them.
 
 The old man came toward me. The fanatics who had faltered found their fighting spirit again.
 
-“Your steps will never reach the Prophet.”
+“You will never reach the Prophet.”
 
 “Fuck off.”
 
 *Whoosh.*
 
-I shot forward like the wind as I answered.
+I shot forward like the wind.
 
 Our brief exchange had given my body time to recover from the strain of battle. It had also given me time to assess the situation.
 
 *It’s even. Fierce, but we’re holding our own.*
 
-The Hunters’ shouts, which had been distant, were drawing closer.
+The Hunters’ shouts were getting closer.
 
 But to overcome odds of more than ten to one and win, we had to cut off the head.
 
@@ -200,11 +200,11 @@ The old man sprang back, ready for my counterattack, and shouted in a cold voice
 
 Damn old bastard.
 
-He might’ve been the most fanatical of the fanatics, but the experience he’d gained over the years was no joke.
+He might’ve been a fanatic among fanatics, but the years had taught him a thing or two.
 
 He knew exactly what his job was, and he kept his head even in the heat of battle.
 
-*If this drags on any longer…I’ll really lose him for good.*
+*If this drags on…I’ll lose him for good.*
 
 As I cut down the fanatics rushing in from every direction like moths to a flame, I thought. No—I calculated.
 
@@ -214,7 +214,7 @@ How to end this fight as quickly as possible.
 
 And how much I’d have left when I could finally chase the Doppelganger again.
 
-Then, amid the unending blood and screams, I realized I’d been thinking about something stupid.
+Then, amid the blood and screams, I realized how stupid that was.
 
 *Fuck. When did I start calculating every little thing?*
 
@@ -222,17 +222,17 @@ When had it started? Every moment had become a struggle.
 
 Each time, I’d had to forget the past and put the future out of my mind.
 
-That was how you survived. Only by betting everything on the present could you think about the past and move toward the future.
+That was how I survived. Only by staking everything on the present could I live to look back and move forward.
 
 *Slice!*
 
 Hot pain ran down my back. My exhausted body felt as heavy as waterlogged cotton. Weapons came at me like gears turning together, large and small, opening wounds all over me.
 
-But because of that, my hesitant body and mind woke up completely.
+But the pain woke up every part of me that had been holding back.
 
 *Grit.*
 
-I clenched my teeth against the pain and hurled the spear I held in a reverse grip at the fanatics charging straight at me.
+I clenched my teeth and hurled the spear I held in a reverse grip at the fanatics charging straight at me.
 
 The space was too tight for a proper throw, but one step was all I needed.
 
@@ -268,7 +268,7 @@ Blue-white flames lit the darkness. They burned flesh and turned the blood and b
 
 That was when it happened.
 
-One fanatic, who had unconsciously stepped backward before that cruel, dazzling sight of a mass execution by fire, suddenly had his head fly into the air.
+One of the fanatics, backing away without realizing it from the cruel, dazzling spectacle of people burning alive, lost his head.
 
 *Slice!*
 
@@ -302,13 +302,11 @@ As the world slowed, one thought came to me with absolute certainty.
 
 *I can’t dodge this.*
 
-Of course, I could knock aside half of them. Of the rest, I could somehow twist my body to evade half.
+I could knock aside half of them. Of those left, I could twist out of the way of another half somehow.
 
 But the Fire Dragon Armor hadn’t finished repairing itself. I would still have to take some damage.
 
-But why?
-
-A strange feeling came over me.
+Then why did that feel wrong?
 
 My instincts seemed to reject the judgment my mind had made.
 
@@ -316,7 +314,7 @@ A strange sense of déjà vu ran through me, as though every part of me were tak
 
 *I can do this.*
 
-A strange certainty, like a conviction, took over my body and mind. An inexplicable tickling sensation began around the center of my chest and spread through my entire body.
+The conviction took hold of my body and mind. An inexplicable tickle began near the center of my chest and spread through me.
 
 *Right now.*
 
@@ -328,15 +326,15 @@ No—not just the arrows. Everything around them.
 
 Time began to move again, but no one spoke.
 
-I stared silently at the arrows stopped in midair, then snapped my fingers.
+I stared at the arrows stopped in midair, then snapped my fingers.
 
 *Swish.*
 
-The arrows pointed toward the enemy. And once again, the power of my newly advanced Middle Dantian pressed down on the space around us.
+The arrows turned toward the enemy. The qi of my Middle Dantian, advanced another step, pressed down on the space around us.
 
 *Ding. Ding. Ding.*
 
-As the clear chimes pierced my ears, I smiled at the old man, frozen like a statue.
+As clear chimes rang in my ears, I smiled at the old man, frozen like a statue.
 
 “Whoa. It worked?”
 
@@ -346,4 +344,4 @@ As the clear chimes pierced my ears, I smiled at the old man, frozen like a stat
 
 *Whoosh-whoosh-whoosh-whoosh!*
 
-The arrows’ powerful whistle swallowed the words he was about to say.
+The fierce whistle swallowed the rest of his words.
