@@ -1,0 +1,63 @@
+{
+  "chapter": 457,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.996,
+    "length_ratio": 2.133,
+    "source_characters": 5643,
+    "source_paragraphs": 178,
+    "translation_characters": 12037,
+    "translation_paragraphs": 167
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 292
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "무림",
+        "preferred": "Murim"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "정호",
+        "preferred": "Jung Ho"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "고든",
+        "preferred": "Gordon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진중",
+        "preferred": "Jinzhong"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
