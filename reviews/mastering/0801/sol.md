@@ -2,13 +2,13 @@
 
 “We’re leaving soon. Get ready.”
 
-At that one remark, tossed out when I came back without warning, Yamamoto Genji surprisingly nodded obediently.
+I’d barely returned before I said it, but Yamamoto Genji nodded without protest.
 
 “Understood.”
 
-For a guy who’d been going on about Chōsenjin when he first woke up, he was being about as polite as possible.
+For a guy who’d been calling me Chōsenjin when he first woke up, he was remarkably polite.
 
-If Heo Jun had witnessed this astonishing change, he might have written this on the first line of the *Donguibogam*:
+If Heo Jun had witnessed this transformation, he might have written this on the first page of the *Donguibogam*:
 
 > A beating is the best medicine.
 
@@ -64,7 +64,7 @@ A healer from the medical unit came running before the words had left my mouth.
 
 “No, sir. It’s still waiting.”
 
-“Good. Contact the team leader right away and tell him to load one more body. I’ll take care of the cleanup, so all they have to do is come pick him up.”
+“Good. Contact the team leader and tell him to take one more body. I’ll handle the cleanup. They just need to come pick it up.”
 
 “I’ll pass that along.”
 
@@ -114,13 +114,13 @@ I’d have loved to beat the hell out of him, but the fact that I needed even a 
 
 “Hey.”
 
-“W-why? What is it?”
+“W-what is it?”
 
 “I’m not going to hit you, so relax. I just want to check one more time.”
 
 My voice dropped.
 
-“What you said he told you back then. Are you sure?”
+“What he said to you back then. Are you sure?”
 
 Before Yamamoto Genji could answer, the words I’d already heard several times replayed in my ears.
 
@@ -164,7 +164,7 @@ Searching was the hard part. Getting there wasn’t. Once we had a destination, 
 
 The thousand Hunters chosen for the expedition were among the best deployed to the Middle East. We took the shortest route across the Arabian Desert and reached the Rub’ al Khali.
 
-And we immediately understood why the people of the ancient Middle East had called this place the Empty Quarter.
+I immediately understood why people long ago had called it the Empty Quarter.
 
 Desert and wilderness stretched to the horizon like a vast sea, with small villages scattered through it like reefs.
 
@@ -186,7 +186,7 @@ And a place didn’t get abandoned without reason.
 
 I wished Magic Johnson, who’d come with us, had said that. Unfortunately, it was the Skeleton King. I could feel what he meant, though.
 
-Maybe we all did.
+Maybe we all could.
 
 *The concentration of magical power… It’s too dense.*
 
@@ -214,9 +214,9 @@ The Skeleton King watched him mutter without pause, then turned to me.
 
 Was this bastard a genius?
 
-I barely stopped myself from nodding at his surprisingly logical argument. Then I gave Yamamoto Genji a hard kick and got out of the vehicle.
+I barely stopped myself from nodding at his surprisingly sound argument. Instead, I gave Yamamoto Genji a hard kick and got out of the vehicle.
 
-*What do you mean, he’s here already?*
+*He’s not here yet.*
 
 We were still a considerable distance from the oil fields The Prophet had hinted at. Apart from the rising concentration of magical power, I hadn’t sensed anything unusual.
 
@@ -258,7 +258,7 @@ We didn’t know the limits of The Prophet’s abilities or his personal fightin
 
 In this desert, The Prophet was practically a pope with countless fanatics at his command.
 
-*It’d be a problem if we brought in reinforcements only to leave the rear wide open to a raid.*
+*Wouldn’t do to bring in reinforcements and leave the rear wide open.*
 
 That didn’t mean I planned to fight recklessly.
 
@@ -266,13 +266,13 @@ Normally, I would’ve gone alone. The reason I’d brought a thousand Hunters w
 
 And the force we had now was neither too small nor too large.
 
-Even without me, we had two dependable powerhouses in Magic Johnson and the Skeleton King. Add the cowardly Yamamoto Genji and Team Leader Choi, and I was sure we could smash our way through whatever came.
+Even without me, we had Magic Johnson and the Skeleton King. Add Yamamoto Genji—coward or not—and Team Leader Choi, and I was confident we could smash our way through whatever came.
 
 *Bring in more forces, though, and he might run.*
 
-Chuck Hagel, Faye Chen, Prince Felix, and several other S-rank Hunters were guarding the encirclement with a considerable force to our rear.
+We held the front. Behind us, Chuck Hagel, Faye Chen, Prince Felix, and several other S-rank Hunters guarded the encirclement with substantial forces of their own.
 
-If we added or removed even a little from either side, the balance of power would shift—and our chance to eliminate The Prophet would slip that much farther away.
+Shift that balance even a little, and our chance to eliminate The Prophet might slip away with it.
 
 “No beast attacks something that looks stronger than itself. Especially not a fox like The Prophet. Right, Jin?”
 
@@ -282,11 +282,11 @@ I nodded at Magic Johnson, watching the heat haze rise over the distant desert.
 
 “Still, that’s a relief. Looks like that quick-witted fox hasn’t gotten scared and run off.”
 
-“What do you mean—!”
+“What do you—!”
 
-His face went rigid in an instant.
+His face went rigid.
 
-Realizing what I meant, Magic Johnson hurriedly swallowed the rest of his words and shouted, pouring his mighty mana into his voice.
+Realizing what I meant, Magic Johnson swallowed the rest of his question and shouted, his voice charged with mighty mana.
 
 “Prepare for battle!”
 
