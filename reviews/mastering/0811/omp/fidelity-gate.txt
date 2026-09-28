@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it omits a meaningful look and weakens a source detail about the monsters’ flight.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 45–47",
+      "current": "The instant he heard Magic Johnson’s voice, his heart had lurched. He forced himself to settle down, then gestured with his chin toward the dead Ant Lion’s corpse.",
+      "defect": "The translation omits that the Skeleton King had unconsciously been looking at Jin Taekyung. That explains what Johnson had noticed and why the Skeleton King could not answer honestly.",
+      "replacement": "The Skeleton King had found himself looking at Jin Taekyung, but he couldn’t exactly say so. The instant he heard Magic Johnson’s voice, his heart had lurched. He forced himself to settle down, then gestured with his chin toward the dead Ant Lion’s corpse.",
+      "rationale": "The Korean explicitly says the Skeleton King had been looking at Jin Taekyung without realizing it before he gestured toward the corpse.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 69",
+      "current": "after the fleeing monster army",
+      "defect": "The translation drops the source’s description of the monster army fleeing frantically.",
+      "replacement": "after the monster army as it fled in a panic",
+      "rationale": "정신없이 도망치던 describes the army fleeing in a frantic, heedless manner; the accepted baseline also preserved this detail as “in a panic.”",
+      "confidence": 0.94
+    }
+  ]
+}
