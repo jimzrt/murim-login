@@ -24,7 +24,7 @@ I deliberately hardened my expression.
 
 “…”
 
-*He was annoyingly sharp.*
+He was annoyingly sharp.
 
 Martial arts were his minor, while eating and shitting were his major. He had to know the location of every privy on the island.
 
@@ -56,7 +56,7 @@ As Hyuk Mujin stared at me through narrowed eyes, Gung Gibang’s eyes suddenly 
 
 “Oh, you’re right. He was here a moment ago. Where the hell did he go?”
 
-*Where else? He was already outside waiting for me.*
+Where else? He was already outside waiting for me.
 
 *Let’s talk.*
 
@@ -76,7 +76,7 @@ Hyuk Mujin gave me a dubious look.
 
 “…”
 
-*What the hell was this lunatic talking about? I was the one about to end up covered in blood.*
+What the hell was this lunatic talking about? I was the one about to end up covered in blood.
 
 I was too dumbfounded to speak, and Gung Gibang added his two cents.
 
@@ -124,7 +124,7 @@ The pressure of that broken-record routine was no joke. His aura bore down on me
 
 “What do you mean? You called me out earlier because you had something to say.”
 
-*Had Cannes named him Actor of the Year or something?*
+Had Cannes named him Actor of the Year or something?
 
 He blinked as if he truly had no idea what I was talking about. For a moment, even I nearly fell for it.
 
@@ -138,7 +138,7 @@ The monster wearing the skin of a young medical apprentice smiled brightly and c
 
 “…Fine. Let’s go.”
 
-*I miss my mother.*
+I miss my mother.
 
 Holding back tears, I followed Mungyeong.
 
@@ -172,7 +172,7 @@ Every death left traces. This was especially true of deaths caused by battles be
 
 I had heard that a widely experienced master with a deep understanding of various martial arts could identify the weapon used—and even determine which form had killed the victim—simply by examining the wounds on a corpse.
 
-And the young medical apprentice before me possessed both the discernment and martial prowess to make him one of the finest examiners of the dead in Murim.[^1]
+And the young medical apprentice before me possessed both the discernment and martial prowess to make him one of the finest examiners of the dead in Murim.
 
 “I have never seen wounds like these before. They seem to follow the principles of the very basic Three Calamities Sword Technique, yet they undulate like waves. They are exceedingly strange.”
 
@@ -230,7 +230,7 @@ Unlike the corpses of the river bandits, the bodies of the children, women, and 
 
 And there was one more thing.
 
-“The houses and the surrounding ground had caved in everywhere. That would have been impossible without a force of ten thousand geun,[^2] and it is not a method an internal-arts master with profound internal energy would choose.”
+“The houses and the surrounding ground had caved in everywhere. That would have been impossible without a force of ten thousand geun, and it is not a method an internal-arts master with profound internal energy would choose.”
 
 “So, an external-arts master?”
 
@@ -238,13 +238,13 @@ And there was one more thing.
 
 “…I was just talking to myself.”
 
-*He was awfully sensitive about this.*
+He was awfully sensitive about this.
 
 After hurriedly making that excuse, I fell silent and considered the matter.
 
 Martial arts in Murim could broadly be divided into two categories.
 
-Internal arts emphasized the efficient use and application of internal energy. External arts also used internal energy, but focused on tempering the body to their absolute limits.
+Internal arts emphasized the efficient use and application of internal energy. External arts also used internal energy, but focused on tempering the body to its absolute limits.
 
 Most people faced those two paths upon entering the world of martial arts, and most chose the former.
 
@@ -327,6 +327,3 @@ It was only a guess, but what if the Dongting Fisherman really was a member of D
 Mungyeong turned away, his voice cold.
 
 “Always be suspicious, and stay alert. May martial fortune be with you.”
-
-[^1]: *Murim* refers to the martial-arts world and its community of martial artists.
-[^2]: A *geun* is a Korean unit of weight equal to 600 g (1.32 lb). Ten thousand geun is about 6,000 kg (13,200 lb).
