@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "I was a consciousness without a body. Nothing more than a spectator.",
+      "defect": "“Without a body” changes the source’s description of the narrator as a consciousness that did not exist into a specific claim that he lacked a body.",
+      "id": "F02",
+      "rationale": "The Korean says “존재하지 않는 의식,” literally a consciousness that did not exist; it does not describe the narrator as bodiless.",
+      "replacement": "I was a consciousness that did not exist, nothing more than a spectator.",
+      "severity": "minor",
+      "source": "Line 173"
+    }
+  ],
+  "summary": "The assembled copy is largely faithful, with two minor changes that add or alter physical detail.",
+  "version": 1
+}

@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled copy is largely faithful, with two minor changes that add or alter physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 123–124",
+      "current": "Behind them, monsters advanced across the horizon with flames the color of sunset at their backs.",
+      "defect": "“Behind them” places the monsters behind the fleeing wild animals. The Korean says the monsters advanced across the horizon with the sunset-colored flames at their backs; it does not establish their position relative to the animals.",
+      "replacement": "Monsters advanced across the horizon, flames the color of sunset at their backs.",
+      "rationale": "The source separately describes the animals bolting and the monsters advancing, specifying only that the flames were behind the monsters.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 173",
+      "current": "I was a consciousness without a body. Nothing more than a spectator.",
+      "defect": "“Without a body” changes the source’s description of the narrator as a consciousness that did not exist into a specific claim that he lacked a body.",
+      "replacement": "I was a consciousness that did not exist, nothing more than a spectator.",
+      "rationale": "The Korean says “존재하지 않는 의식,” literally a consciousness that did not exist; it does not describe the narrator as bodiless.",
+      "confidence": 0.88
+    }
+  ]
+}

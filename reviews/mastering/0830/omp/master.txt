@@ -14,7 +14,7 @@ I looked down at the Doppelganger as it cried out in desperation. After a brief 
 
 The pressure on its chest lifted, and it broke into a fit of coughing.
 
-The Doppelganger let out the breath it had been holding, then glared at me with eyes full of pain and fury. But deep inside them, fear lurked—fear it hadn’t quite managed to hide.
+It expelled the breath it had been holding and glared at me, fury and pain mingling in its eyes. But fear lurked deep within them, not quite hidden.
 
 It looked so helpless that it was hard to believe it had been a named monster at Level 170.
 
@@ -52,7 +52,7 @@ My mouth felt as though I’d swallowed a handful of sand. Exhaustion and thirst
 
 “He—the Demon King…”
 
-Each syllable was a struggle. I didn’t dare say it aloud, or even imagine it.
+Every syllable was a struggle. I didn’t want to say the words, much less imagine what they meant.
 
 But I knew.
 
@@ -72,9 +72,9 @@ I said nothing. Neither did the Skeleton King or the Doppelganger.
 
 For a moment, none of us spoke.
 
-Until I heard the whisper of a shadow, something not of this world.
+Then the shadow whispered.
 
-“Is he still alive?”
+“Alive?”
 
 *Stir.*
 
@@ -84,11 +84,11 @@ The darkness rippled. Its pitch-black face, its features barely discernible, spl
 
 The Doppelganger was laughing.
 
-It had forgotten its anger, pain, and fear of me.
+It seemed to have forgotten its anger at me, its pain, its fear.
 
-Or perhaps it had covered them all with the presence of its absent master.
+Or perhaps the presence of its absent master had swallowed them all.
 
-“Our Great King overcame the curse of the gods. He may waver, but he will not break. Even if he perishes, he will rise again. And at last, he will make all the earth and water in this world his own.”
+“The Great King overcame a god’s curse. He may waver, but he will not break. Even if he falls, he will rise again. And at last, he will make all the earth and water in this world his own.”
 
 “…!”
 
@@ -98,11 +98,11 @@ I stared blankly at the Doppelganger as it laughed aloud.
 
 The moment I met its eyes, darkness swirling within them, my vision swam.
 
-*This is…*
+*What is this?*
 
 No sound came out. The dust and rubble around us vanished. So did the Skeleton King and the Doppelganger.
 
-No. It felt as though my entire consciousness was being pulled somewhere.
+No—it felt as though my entire consciousness was being pulled away.
 
 At the same time, sights unlike anything I’d ever seen poured before my eyes like a meteor shower.
 
@@ -122,7 +122,7 @@ Wild animals scattered across the vast wilderness, all bolting at once as if on 
 
 *Rumble…*
 
-Hundreds of thousands. Millions.
+Tens of thousands. Millions.
 
 Perhaps even more.
 
@@ -166,7 +166,7 @@ Until the last of them was gone.
 
 All I could do was watch.
 
-As if someone were controlling me, I saw Niagara Falls turn red with blood. I saw hundreds crushed to death beneath the shattered Leaning Tower of Pisa.
+As if someone else controlled where I looked, I saw Niagara Falls run red with blood. I saw hundreds crushed to death beneath the shattered Leaning Tower of Pisa.
 
 I was a consciousness without a body. Nothing more than a spectator.
 
@@ -178,15 +178,15 @@ Death beyond counting. Destruction.
 
 Corpses covered the streets. A broken church cross lay plunged into a pool of blood.
 
-A child, unaware of what had happened to their parents, could no longer bear the hunger and crawled out of a small box. When the child saw a pack of goblins in the alley, the doll in their hand fell to the ground.
+A child who had no idea what had happened to their parents could no longer bear the hunger and crawled out of a small box. In the alley, the child saw a pack of goblins and dropped the doll in their hand.
 
 Catastrophe.
 
-A word for an unexpected, unfortunate disaster.
+A word for an unforeseen calamity.
 
-But even that word, a symbol of the Great Cataclysm, could not begin to describe the horrors I had seen.
+But even that word, the one that defined the Great Cataclysm, couldn’t describe the horrors I’d seen.
 
-In place of the voice that wouldn’t come, one word suddenly occurred to me.
+Unable to speak, I found myself thinking of another word.
 
 *The end.*
 
@@ -198,7 +198,7 @@ More precisely, their hope was already dead.
 
 One person at a time. Slowly.
 
-Torn into hundreds or thousands of pieces, they disappeared into the bellies of hungry monsters.
+Torn into hundreds or thousands of pieces, they had disappeared into the bellies of hungry monsters.
 
 “To Magic Johnson.”
 
@@ -208,11 +208,11 @@ A face both familiar and unfamiliar.
 
 Team Leader Choi, his face covered in scars and one arm gone, drained his glass.
 
-Xiao Shen lifted a bottle with tearful eyes and filled the empty glass.
+Xiao Shen lifted a bottle, her eyes wet, and filled it again.
 
 “To ‘Uncle Chuck’ Hagel and our friend Stone King, who became eternal stars one year ago today.”
 
-As I heard the names called out with every glass filled and drained, I understood.
+As names were called with every glass filled and emptied, I understood.
 
 This was a memorial for the fallen.
 
@@ -220,7 +220,7 @@ A send-off before battle, one last remembrance of the heroes who had gone ahead�
 
 And…
 
-“To the bravest man of all.”
+“To the bravest of us all.”
 
 “To the light of humanity, who stood against the darkness and always lit the way for everyone.”
 
@@ -232,7 +232,7 @@ The trembling voice fell silent. Team Leader Choi drained yet another glass and 
 
 *Crack.*
 
-Blood ran from his hand, mingling with the shards of the shattered glass and dripping onto the ground. The candles went out all at once, and silence fell over the entire plaza.
+The glass shattered. Blood ran from his hand with the shards and spattered the ground. Every candle went out at once, and silence settled over the plaza.
 
 At the same time, light swelled at Team Leader Choi’s waist.
 
@@ -258,7 +258,7 @@ Thousands—perhaps tens of thousands—of feet stamped the ground. The light ga
 
 *Clang! Clang-clang!*
 
-Blades clashed in the air, spitting sparks. The tanks slammed and pounded their massive tower shields like mad.
+Blades struck one another overhead, throwing sparks. The tanks slammed and pounded their massive tower shields like mad.
 
 They moved with a single purpose, like the pulse of one enormous heart.
 
@@ -266,7 +266,7 @@ For those who had gone before them, and as they waited for the battle ahead, the
 
 They waited for his final words.
 
-“Today, we fight until the very last person.”
+“Today, we fight to the last.”
 
 *Clang-clang-clang!*
 
@@ -294,7 +294,7 @@ There stood a being cloaked in darkness.
 
 A moan escaped someone’s lips and reached my ears.
 
-My senses, floating as if submerged in water, came back to me. The hairs all over my body stood on end.
+My senses, which had felt distant and buoyant, as though I were submerged in water, returned. Every hair on my body stood on end.
 
 *The Demon King.*
 
@@ -304,7 +304,7 @@ Demon King Asmodeus.
 
 The accursed king who had driven humanity into the flames in the past—and would do so in a future that had yet to begin.
 
-And the moment I stared into the writhing darkness in the distance—
+I stared at the darkness writhing in the distance.
 
 *Crack…*
 
