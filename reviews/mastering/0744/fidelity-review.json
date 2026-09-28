@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Swiss Hunters had thoroughly searched the subspace pockets we carried, worried that even one of the materials might be smuggled out.",
+      "defect": "The assembled English drops the sentence establishing that a Grand Mage’s magical research materials were treasures in themselves. This removes a source-stated detail and the context for why the Hunters guarded them so carefully.",
+      "id": "F01",
+      "rationale": "The Korean explicitly says the Grand Mage’s research materials were valuable treasures before explaining the Hunters’ thorough search. The accepted baseline preserved this detail.",
+      "replacement": "A Grand Mage’s magical research materials were incredible treasures in and of themselves. The Swiss Hunters had thoroughly searched the subspace pockets we carried, worried that even one of the materials might be smuggled out.",
+      "severity": "minor",
+      "source": "Lines 157–159"
+    }
+  ],
+  "summary": "The assembled English omits the source’s explanation that the stolen research materials were valuable in their own right.",
+  "version": 1
+}

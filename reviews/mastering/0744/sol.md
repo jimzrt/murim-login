@@ -2,13 +2,13 @@
 
 A thought occurred to me.
 
-I wished that everything tormenting me right now was merely a scene from some movie or novel. Something like that.
+I wished everything tormenting me right now were just a scene from a movie or a novel.
 
 *Then at least some evidence would pop up somewhere.*
 
-Of course, contrary to the hope I had secretly been holding on to, nothing of the sort happened.
+No such luck.
 
-Everyone, myself included, searched every inch of Siegfried Wassmann’s hideout, but what popped out wasn’t evidence concerning his death. It was a person.
+We searched Siegfried Wassmann’s hideout from top to bottom. But what popped up wasn’t evidence about his death. It was people.
 
 More precisely, over a hundred Hunters from the Swiss Federal Police, who had followed us and arrived late.
 
@@ -16,13 +16,13 @@ More precisely, over a hundred Hunters from the Swiss Federal Police, who had fo
 
 “We’re taking control of the scene under legal procedure. Put down whatever you’re holding immediately and…”
 
-Well, what else could we do?
+What could we do?
 
-If they had abruptly pointed swords at us, I would have answered with my spear. But they were carrying out official duties, and instead of swords, they had thrust forward the invincible cheat code known as legal procedure.
+If they’d pointed swords at us, I would’ve answered with my spear. But they were doing their jobs, and instead of swords, they’d brought the invincible cheat code known as legal procedure.
 
 Even unorthodox swordsmen who drew their weapons at the slightest provocation hesitated in front of government soldiers.
 
-And as a twenty-first-century modern man with a logical mindset, my answer had been decided from the start.
+As a logical twenty-first-century man, I knew what to say.
 
 “Are you going to put us in handcuffs too?”
 
@@ -32,11 +32,11 @@ And as a twenty-first-century modern man with a logical mindset, my answer had b
 
 With countless media outlets wishing me a long and healthy life while cursing me to hell, causing another incident would’ve been insane.
 
-My companions and I cooperated so obediently that even the Swiss Hunters were surprised. After undergoing a thorough body search and brief questioning, we were released.
+My companions and I cooperated so readily that the Swiss Hunters looked surprised. After a thorough search and a brief round of questioning, they let us go.
 
 The high-ranking official who introduced himself as the lead investigator had just one thing to say.
 
-“Additional investigations related to this case will be conducted, so we ask for your continued cooperation in the future.”
+“We’ll be conducting further inquiries into this case. Please cooperate with us if we contact you again.”
 
 That was all.
 
@@ -48,11 +48,11 @@ According to Team Leader Choi, Michael Silbert’s influence reached the leaders
 
 Team Leader Choi had a straightforward answer.
 
-“They deliberately let us go. Since it was clear that neither the evidence nor the circumstances had anything to do with us, they must have judged that pursuing the matter any further would be difficult.”
+“He deliberately let us go. There’s no evidence or circumstance connecting us to the death. He must have decided he couldn’t push this any further.”
 
-“That bastard Michael let us go on purpose? Just getting dragged into this case would already hurt us.”
+“Michael decided that? Just getting dragged into the case would hurt us.”
 
-“The public is fickle. Right now, quite a few people are cursing us because they’re being controlled by the media and mob psychology. But that’s because The Prophet and terrorism provide a plausible justification at first glance.”
+“The public is fickle. Right now, plenty of people are cursing us, swayed by the media and the crowd. But The Prophet and the terrorist attacks give them a reason that seems plausible at first glance.”
 
 “And if the reason doesn’t hold up, people won’t buy it?”
 
@@ -60,13 +60,13 @@ Team Leader Choi had a straightforward answer.
 
 “Oh.”
 
-Come to think of it, that was a pattern people displayed often—no, quite frequently.
+Come to think of it, people did that all the time.
 
 You only had to look at the entertainment news on any online portal. The moment a celebrity got caught up in a scandal, netizens swarmed like bees to the honey the media had put out.
 
-There were the genius prophets who claimed they had known it would happen ever since the celebrity’s debut, and even twenty-first-century physiognomists insisting that face-reading was a science.
+There were the genius prophets who claimed they’d known what the celebrity was like from the day they debuted, and the twenty-first-century face-readers insisting that appearances were science.
 
-And around the time the winner of that world’s greatest malicious-comment contest was crowned by upvotes, a new fact would emerge and turn the situation around, and the swarm would change its tune in an instant.
+By the time upvotes had crowned a winner in the world’s greatest nasty-comment contest, some new fact would come out and turn the story on its head. The whole swarm would change its tune.
 
 Why?
 
@@ -80,11 +80,11 @@ Siegfried Wassmann’s mysterious death was that kind of case. Michael Silbert u
 
 Magic Johnson broke the silence, his voice subdued.
 
-“But the biggest reason we need to be wary of him is that this mad bastard is more meticulous and stronger than anyone.”
+“But the greatest reason to be wary of him is that he’s also meticulous and powerful.”
 
 Even the Skeleton King wore an uncharacteristically grave expression.
 
-“I agree. When I first saw that bastard in Paris, I felt something so eerie that it was difficult to believe he was human.”
+“I agree. When I first saw him in Paris, I felt something so chilling that I could scarcely believe he was human.”
 
 Most madmen ended up in prison or a psychiatric hospital.
 
@@ -94,21 +94,19 @@ One of the powerful.
 
 Of the people I’d met in the modern world, Lee Jungryong qualified. So did Go Jun, though he fell short of his Master in plenty of ways.
 
-But that bastard…
-
-He had already gone beyond that category.
+Michael had gone beyond them.
 
 You’d have to add those two together, then multiply the result, to get a madman like him.
 
 Michael Silbert was a monster who’d given up being human.
 
-*Why? What could he possibly want to go this far?*
+*Why? What could he possibly want badly enough to go this far?*
 
 I looked up. The sky was clear as hell, and the surrounding landscape had kept its northern European beauty. It couldn’t have been more at odds with what was happening.
 
 *Fuck.*
 
-I muttered a quiet curse inwardly, then pulled a small pouch from inside my clothes and handed it to Magic Johnson.
+I cursed under my breath, then pulled a small pouch from inside my clothes and handed it to Magic Johnson.
 
 “Here.”
 
@@ -116,7 +114,7 @@ I muttered a quiet curse inwardly, then pulled a small pouch from inside my clot
 
 “Don’t open it yet. Take it with you and look through it properly. Team Leader Choi and I are hopeless when it comes to magic. We wouldn’t know what we were looking at.”
 
-“Magic? Jin, what are you suddenly talking about?”
+“Magic? Jin, what are you talking about?”
 
 He looked bewildered. Then his eyes widened.
 
@@ -138,7 +136,7 @@ Magic Johnson snatched the pocket.
 
 “N-no, that’s not what I meant. But how did you…?”
 
-“The Hunters assigned to me were pretty lax with their body search.”
+“The Hunters searching me were pretty lax.”
 
 Team Leader Choi blinked at me. “Lax?”
 
@@ -146,7 +144,7 @@ Team Leader Choi blinked at me. “Lax?”
 
 A blatant lie, of course.
 
-The Swiss Hunters had thoroughly searched the subspace pockets we carried, worried that even one of the materials might be smuggled out.
+A Grand Mage’s research materials were treasures in their own right. The Swiss Hunters had emptied every subspace pocket we carried, afraid even a single item might leave the property.
 
 They hadn’t searched my Inventory.
 
@@ -160,7 +158,7 @@ The result of that theft was now in Magic Johnson’s hands.
 
 “I told you. They weren’t watching closely, so I slipped it out.”
 
-“You secretly slipped it out?”
+“Slipped it out?”
 
 He opened the pocket and looked inside.
 
@@ -170,7 +168,7 @@ He opened the pocket and looked inside.
 
 “…Jin?”
 
-Well. I had picked up this and that, so I had brought quite a lot.
+Well. Once I started picking things up, I might have taken rather a lot.
 
 Everyone had been distracted, though, and there were mountains of documents left behind. It probably wasn’t that obvious.
 
@@ -180,13 +178,13 @@ Everyone had been distracted, though, and there were mountains of documents left
 
 “Enough? Are you serious? There’s more than enough.”
 
-“Then please investigate it based on those materials for the time being.”
+“Then please go through it for now.”
 
 “But with everything happening, I can’t focus entirely on—no. I’ll do my best. If I find even the smallest clue in here, Michael won’t be able to carry on like this.”
 
 I nodded.
 
-“Please do.”
+“Please.”
 
 The distribution of magical power had intensified again, and the damage was mounting. Magic Johnson would be a tremendous help with the aftermath, but we needed to deal with the root of the problem first.
 
@@ -216,15 +214,15 @@ Kill the master of the world’s greatest Guild, and I’d be a fucking bastard 
 
 The civilization humanity had built was magnificent.
 
-The sight of people cheering after discovering fire for the first time in the distant past could no longer be found anywhere.
+The people who had cheered at the discovery of fire in the distant past were nowhere to be found now.
 
 Those wandering groups had become farming societies. Factories rose where fields and rice paddies had once stood, and humanity forged the modern world from steel and blood.
 
-Humanity, once the weakest of all, had thus become the master of this blue planet.
+Humans, once the weakest of all, had become masters of this blue planet.
 
 They flew across the sky faster than light, ventured into space, and used weapons born of that progress to kill one another.
 
-Humanity was the ruler of this land, its people, and an explorer forever moving forward.
+Humanity ruled this land, lived upon it, and explored ever farther beyond it.
 
 But even humanity could not do everything.
 
@@ -234,9 +232,9 @@ One was the infinite expanse of space. The other lay deep beneath the sea, where
 
 The deep sea.
 
-Even adventurers who had discovered the five oceans and six continents and reached into the domain of outer space had never set foot there. It was still filled with countless speculations and secrets.
+Even the explorers who had discovered five oceans and six continents and set their sights on space had never set foot there. It remained a place of speculation and secrets.
 
-No—perhaps it was a secret that should never have been pried into.
+Perhaps those secrets were never meant to be disturbed.
 
 *Shhrrk.*
 
@@ -248,9 +246,9 @@ The lightless depths swallowed their red blood.
 
 *Hssss.*
 
-A faint light spread beyond the darkness.
+A faint glow spread through the darkness.
 
-Each time the scales covering something enormous, several meters in radius, shifted, the surrounding space alternately brightened and darkened.
+Each time the scales covering the enormous thing shifted, light washed over the surrounding water, then vanished. The creature spanned several meters in radius.
 
 At last, the center of the glow shone clearly.
 
@@ -258,6 +256,6 @@ It was no luminous organ like those found on some deep-sea fish. The power it he
 
 It was an eye.
 
-The eye of a creature so enormous that it was difficult to believe.
+The eye of a creature almost too enormous to believe.
 
 A monster everyone thought had vanished long ago had awakened after an unfathomable span of time.
