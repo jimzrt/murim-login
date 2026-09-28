@@ -30,7 +30,7 @@ Like a bolt of lightning.
 
 The Doppelganger staggered backward with a silent sigh.
 
-No—at the moment it felt itself take a step, it crumpled, spraying a fountain of blood.
+No. The moment it felt itself take a step, it crumpled, spraying blood.
 
 *SPURT!*
 
@@ -42,7 +42,7 @@ As the Doppelganger realized it had died, the bond that had held a soul tightly 
 
 The Doppelganger could feel it clearly.
 
-The mana, memories, and carefully hoarded vitality of the Grand Mage once hailed as a hero were draining away like the tide.
+The mana and memories of the Grand Mage once hailed as a hero were draining away, along with the precious vitality it had hoarded so carefully.
 
 The ticket for the last flight out of here had just sold out.
 
@@ -72,7 +72,7 @@ Besides, many of them were already dead.
 
 How it had laughed when it learned that Leviathan, one of those commanders, had been killed by Jin Taekyung.
 
-But it couldn’t die like this. Not when it was destined to stand at the Great King’s right hand.
+It could not die like a dog here. Not when it was destined to stand at the Great King’s right hand.
 
 *I have to survive. I can’t die here.*
 
@@ -102,7 +102,7 @@ The rush of air swallowed its unfinished words.
 
 As its upper half scattered into dozens of pieces, the Skeleton King’s sword moved again.
 
-*Thrust!*
+*Thud!*
 
 “Ghk.”
 
@@ -114,7 +114,7 @@ Even with its chest pierced, its bloodshot eyes remained fixed on the exit.
 
 *Damn it. Damn it!*
 
-The Doppelganger cursed soundlessly, regretting everything.
+The Doppelganger cursed soundlessly and regretted the lives it had spent.
 
 How many souls had it stolen from humans over the past thirty years? How many of those humans had been considered strong?
 
@@ -126,7 +126,7 @@ It hadn’t mattered.
 
 No matter how many it used up, it could simply replenish them. Even if it didn’t, it had enough.
 
-No—it had had more than enough.
+No—it *had* had enough.
 
 Until today, when it met a monster wearing human skin.
 
@@ -136,7 +136,7 @@ A cold breeze brushed its nape. A sharp blade cut through its neck, and death an
 
 No. They came again and again, like a record stuck on repeat.
 
-*Slice! Thrust! SH-SH-SH!*
+*Slice! Thud! SH-SH-SH!*
 
 It was cut, stabbed, and broken into dozens of pieces that scattered through the air.
 
@@ -154,7 +154,7 @@ Fear rose with the word *Erasure*.
 
 The lives that had once numbered around a thousand were gone.
 
-Feeling its vitality dwindle until it could count what remained on both hands, the Doppelganger summoned every ounce of strength and stood up again.
+Sensing its remaining vitality dwindle to something it could count on both hands, the Doppelganger summoned every ounce of strength and stood again.
 
 *Slide. WHOOSH!*
 
@@ -164,7 +164,7 @@ Its body regenerated in an instant, like the beanstalk in an old fairy tale. Reb
 
 Pain like a burn raked down its back.
 
-But its desire to survive was stronger than the pain that lingered. As the Doppelganger threw itself forward, heedless of its life, the Skeleton King reached out without hesitation.
+But its desire to survive was stronger than the lingering pain. As the Doppelganger threw itself forward, heedless of the danger, the Skeleton King reached out without hesitation.
 
 *Thud-thud-thud!*
 
@@ -234,7 +234,7 @@ Wind followed unsteady footsteps, scattering the ash.
 
 A black, gray-white shadow stirred amid the thick layer that had settled on the ground.
 
-“…So that’s it.”
+“…I see.”
 
 Supported by the Skeleton King, Jin Taekyung stood before it. A faint light shone in his eyes as he looked down at the shadow.
 
@@ -298,7 +298,7 @@ Bodies lay scattered among the smoke rising everywhere. The screams of those sti
 
 How many people had died because of the Doppelganger’s terrorist attacks and the monsters?
 
-How many had lost their homes and had to say goodbye to their precious family and friends?
+How many had lost their homes and had to say goodbye to family and friends?
 
 Hundreds of thousands? Millions?
 
@@ -324,7 +324,7 @@ And of all those things, only one was here before me.
 
 My foot, charged with internal energy, pressed down on the shadow.
 
-The Doppelganger, writhing and groaning, begged me for mercy. It could feel pain, even in this cursed form.
+The Doppelganger writhed and groaned. It could feel pain even in this cursed form.
 
 “S-save me…”
 
@@ -332,7 +332,7 @@ The Doppelganger, writhing and groaning, begged me for mercy. It could feel pain
 
 “Y-yes. Anything. I’ll do anything! I will!”
 
-For a moment, I just stared down at it. Then I gathered the internal energy I had left and sent it surging toward the tip of my foot.
+For a moment, I just stared down at it. Then I gathered the internal energy I had left and sent it surging into my foot.
 
 *Crack. Crunch!*
 
@@ -358,7 +358,7 @@ The Doppelganger had stopped screaming the moment it saw my expression.
 
 It spoke in a voice full of fear.
 
-“I-I didn’t want to do it! Have you forgotten? It was all on the king’s orders!”
+“I-I didn’t want to do it! Have you forgotten? The king made me do all of it!”
 
 The king.
 
