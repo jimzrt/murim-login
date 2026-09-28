@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful. One short-form title differs from the binding glossary, and one insult is softened.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 191",
+      "current": "Western Heaven. Southern Heaven.",
+      "defect": "남천 is rendered as “Southern Heaven,” but the binding glossary specifies “South Heaven” for this short form.",
+      "replacement": "Western Heaven. South Heaven.",
+      "rationale": "The source uses the short form 남천, not the full title 남천마후. The glossary distinguishes 남천 as “South Heaven.”",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 191",
+      "current": "I’ll accomplish what you two failed to do.",
+      "defect": "The translation omits the contemptuous insult 연놈, reducing the speaker’s hostility toward the two dead figures.",
+      "replacement": "I’ll accomplish what you two bastards failed to do.",
+      "rationale": "연놈 is a derogatory way to refer to the pair; the English retains the address but drops its insult.",
+      "confidence": 0.89
+    }
+  ]
+}

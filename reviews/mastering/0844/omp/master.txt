@@ -72,7 +72,7 @@ Once they produced something close to a finished result, its impact would be mor
 
 At the words he seemed to have spoken to himself, the sorcerers bowed their heads even lower.
 
-If it wasn’t enough, they would have to make up the difference somehow. They didn’t want to end up like their comrades who had died before them.
+If the results fell short, they would have to find a way to improve them. None wanted to end up like the sorcerer who had just died.
 
 “Blood Lord, if you could tell us which part you found lacking…”
 
@@ -128,7 +128,7 @@ He remembered the first thing he’d said to the subordinate who delivered it, t
 
 “How can anyone be that fucking useless? There must be something he’s hiding.”
 
-It was only natural.
+What else could he have said?
 
 Jin Taekyung’s martial arts were worse than a Third Rate street thug’s, and he even made a schedule for his rounds of the pleasure houses.
 
@@ -140,7 +140,7 @@ No. A bug.
 
 But one day, Jin Taekyung changed.
 
-Unlike Cheongpung, Jin Taekyung had been born a bug. Then he became an earthworm, then a venomous centipede, then an imugi, and finally a dragon.
+Unlike Cheongpung, he’d been born a bug. Then he became an earthworm, a venomous centipede, an imugi—and finally a dragon.
 
 When the Blood Lord pieced together the entire transformation, he was stunned.
 
@@ -166,13 +166,13 @@ And pain and humiliation etched into his soul.
 
 *If Jin Taekyung hadn’t gotten in my way…*
 
-Jin Taekyung, drenched in blood, clinging to his ankle and refusing to let go—and the Sword Saint Mae Jonghak’s Force sweeping across his arm.
+Grinding his teeth, the Blood Lord remembered that day: Jin Taekyung, covered in blood, clinging to his ankle and refusing to let go; Sword Saint Mae Jonghak’s Force cutting across his arms.
 
 Worse than the pain had been the ridicule of the others.
 
 Though two of them were lonely spirits now.
 
-*Western Heaven. Southern Heaven. Watch closely from wherever you are. I’ll accomplish what you two failed to do.*
+*Western Heaven. South Heaven. Watch closely from wherever you are. I’ll do what you two failed to do.*
 
 The Western Heaven Demon Lord and the Southern Heaven Demon Empress had been too powerful for even the prideful Blood Lord to dismiss.
 
@@ -184,7 +184,7 @@ Second, helping the Lord of Heaven accomplish the great cause would require grea
 
 “Spread them.”
 
-“What?”
+“Pardon?”
 
 The Blood Lord looked at the sorcerers who had questioned him without thinking. The bloody gleam that had been in his eyes moments ago had settled into a cold stare.
 
@@ -214,7 +214,7 @@ Nearly.
 
 “That was…”
 
-“I know. If the Fire King—that old man—hadn’t happened to show up pretending to be a monk, it might have worked.”
+“I know. If the Fire King hadn’t happened to show up playing the monk, you might have succeeded.”
 
 The unorthodox faction’s uprising in Guangxi Province had been no coincidence.
 
