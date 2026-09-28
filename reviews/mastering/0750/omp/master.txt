@@ -20,13 +20,13 @@ But the mythical monster defied the laws of nature just as surely as the energy 
 
 The sea shook.
 
-At the same time, large and small whirlpools of water surged up from the depths and blocked the spearhead as it raced forward.
+Whirlpools large and small rose from the depths, blocking the spearhead as it raced forward.
 
 *KOOOOONG!*
 
 The collision sent waves of force spreading outward, one after another.
 
-By the time the shock and thunderous roar that had shaken the world had subsided, the flames that had pulverized every obstacle in their path were also fading away, having exhausted their strength.
+By the time the shock and thunderous roar had subsided, the flames had pulverized every obstacle in their path. Now they, too, were fading, their strength spent.
 
 The spear had failed to reach the monster before its body vanished into the darkness far ahead.
 
@@ -48,7 +48,7 @@ And he was that way now.
 
 “Enough.”
 
-The instant the sharp voice slipped from my lips without my realizing it—
+The sharp word escaped my lips before I realized it.
 
 *Flash.*
 
@@ -62,13 +62,13 @@ Men in military uniforms and expensive-looking tailored suits.
 
 The old man seated opposite me, at the head of the table, spoke with a grave expression.
 
-“Good heavens. To think Leviathan got away.”
+“To think Leviathan got away.”
 
-It was the first time I had seen his face, but according to Team Leader Choi, that old man was one of the three most powerful people in Japan.
+I’d never met him before today, but according to Team Leader Choi, he was one of the three most powerful people in Japan.
 
 No—if you counted the authority he actually wielded, he might be number one.
 
-The position of Defense Minister was an immensely powerful one even in peacetime. In a situation like this, with the country at war, he possessed more power than anyone.
+Defense Minister was an immensely powerful position even in peacetime. With the country at war, it carried more power than ever.
 
 But looking at the old Defense Minister put me in a foul mood.
 
@@ -92,7 +92,7 @@ The conference room went still. While the other Japanese men glanced nervously a
 
 “What?”
 
-“Have your ears actually gotten worse? You already heard me, so why do you keep asking?”
+“Has it suddenly gone bad? You heard me. Why keep asking?”
 
 “How dare—!”
 
@@ -112,19 +112,19 @@ Normally.
 
 “Japan formally requested assistance through the Ministry of Foreign Affairs. We answered that request and risked our lives to come here. And yet…”
 
-Team Leader Choi’s words cut off, and his gaze turned cold.
+Team Leader Choi fell silent. His gaze turned cold.
 
 “Why did you not deploy additional forces?”
 
 “……”
 
-“As I understand it, at the exact moment Jin Taekyung attacked Leviathan, at least two thousand Hunters had been mobilized. The Ground and Air Self-Defense Forces were also standing by.”
+“As I understand it, at least two thousand Hunters had been assembled by the time Jin Taekyung attacked Leviathan. The Ground and Air Self-Defense Forces were standing by as well.”
 
 “That was…”
 
 “I know most of them would not have been much help in a fight. But if you had deployed Japan’s Hunters, even then, they could have slowed Leviathan’s escape for a little while.”
 
-Team Leader Choi’s words were clear and precise. They were also entirely true.
+Team Leader Choi had laid out the facts clearly.
 
 That little while was exactly what I’d needed.
 
@@ -140,7 +140,7 @@ Team Leader Choi and the roughly two hundred Hunters who’d disembarked from th
 
 “If you wanted to keep your own losses down and claim the credit, you should have done the job properly. Then we wouldn’t be in this situation.”
 
-The Defense Minister clenched his lips tightly before speaking.
+The Defense Minister pressed his lips together.
 
 “The encirclement… The encirclement was perfect.”
 
@@ -164,7 +164,7 @@ Having listened to all my helpful answers, the Skeleton King muttered, “What? 
 
 “……!”
 
-With that single statement striking the truth with perfect accuracy, the temperature inside the conference room dropped below freezing.
+The temperature in the conference room seemed to drop below freezing.
 
 But watching everyone fall silent and glance nervously around gave me no satisfaction at all.
 
@@ -174,11 +174,11 @@ Those bugs were worse than monsters, and they were sitting there calling themsel
 
 *It’s not like I can say “fuck this” and quit.*
 
-The number of casualties confirmed so far was roughly one hundred thousand.
+The casualty count so far was roughly a hundred thousand.
 
 It was only that low because, by some stroke of luck, the tsunami Leviathan had caused had stopped around the outskirts of Tokyo.
 
-If it returned after I left, Tokyo would be renamed Atlantis.
+If I left and it came back, they might as well rename Tokyo Atlantis.
 
 *And if it gives up on Japan and goes after somewhere else…*
 
@@ -190,7 +190,7 @@ Of course, the idiots here—including that old monkey chief—would probably da
 
 The worst part was, they really would.
 
-After letting out a hundred-percent pure, deep sigh, I spoke to the Defense Minister, who had become completely silent.
+I let out a sigh of pure, undiluted exasperation and addressed the Defense Minister, who had finally shut his mouth.
 
 “Enough. Get me someone else in charge.”
 
@@ -202,17 +202,17 @@ After letting out a hundred-percent pure, deep sigh, I spoke to the Defense Mini
 
 “Oh, give me a break. How long are you going to keep up the empire crap? Your empire got flattened by two atomic bombs. You should’ve given up the title of Emperor while you were at it.”
 
-“That was a savage and barbaric act of destruction by those American Yankees!”
+“That was a savage act of destruction by the American Yankees!”
 
 I plugged my ears as the Defense Minister shrieked.
 
-“I think I’m going to get radiation poisoning. I think I’m going to get radiation poisoning. I think I’m going to get radiation poisoning. I think I’m going to get radiation poisoning.”
+“I’m going to get radiation poisoning. I’m going to get radiation poisoning. I’m going to get radiation poisoning. I’m going to get radiation poisoning.”
 
 “Chikshō!”
 
 Maybe he’d lived long enough not to care. Or maybe radiation contamination had robbed him of all fear.
 
-Just as the Defense Minister was rampaging and charging at me with his old body, the Skeleton King reached out and seized him by the back of the neck.
+As the Defense Minister charged at me, flailing despite his age, the Skeleton King reached out and caught him by the back of the neck.
 
 “Stop, you old and insignificant hu—no, Yellow Monkey.”
 
@@ -220,7 +220,7 @@ Just as the Defense Minister was rampaging and charging at me with his old body,
 
 “You dare insult the great United States in front of me?”
 
-“I have not forgotten! I have not forgotten the terrible things you bastards did to this land and its innocent subjects of the Imperial State!”
+“I have not forgotten what you bastards did to this land and the innocent subjects of our empire!”
 
 “Vengeful spirits of Pearl Harbor, descend upon me!”
 
@@ -228,7 +228,7 @@ Just as the Defense Minister was rampaging and charging at me with his old body,
 
 A Japanese imperialist from the ’70s-and-’80s generation arguing with an American monster from the Demon Realm.
 
-Watching those horrifying hybrids with my own two eyes made my chest swell with emotion despite itself, but it was not over yet.
+The sight of those two horrifying oddities made my chest swell with emotion. Unfortunately, it wasn’t over.
 
 *Fwoooooosh.*
 
@@ -240,7 +240,7 @@ A chill ran through me, and the fluorescent lights began to dim.
 
 Even the people struggling to separate the Defense Minister and the Skeleton King shuddered in the cold.
 
-*What the hell is happening all of a sudden?*
+*What’s happening now?*
 
 I turned my head. My eyes met Team Leader Choi’s across the room.
 
@@ -256,7 +256,7 @@ A shout from moments earlier rang through my ears again.
 
 The eerie energy became a gale, shattering the fluorescent lights overhead.
 
-I was already running through the sudden darkness toward someone.
+I was already running through the sudden darkness toward the Skeleton King.
 
 “Look closely, and feel their resentment—!”
 
@@ -276,7 +276,7 @@ And apparently my demand for someone in charge had gotten through. Before long, 
 
 “Ah, yes. Nice to meet you, Prime Minister Koizumi.”
 
-I had never imagined I would live to see the day I met this man in person.
+I never thought I’d meet this man in person.
 
 I’d only ever seen collections of his quotes online. Seeing him now gave me a brief jolt of excitement, like I’d met a celebrity.
 
@@ -294,7 +294,7 @@ At least, that was what I wanted to do.
 
 “Why the look, Jinsang?”
 
-“No, it’s just… We also need to discuss Leviathan. And the way you keep addressing me is a little…”
+“It’s just… We need to talk about Leviathan. And there’s the way you keep addressing me.”
 
 “The way I address you, Jinsang?”
 
@@ -302,7 +302,7 @@ At least, that was what I wanted to do.
 
 “Ah, I see. It must sound like something else in Korean. Then shall I call you Gyeongsang, using the last syllable of your name?”
 
-There was no way that would work.
+How would that help?
 
 I’d dodged a pile of shit only to get pissed on.
 

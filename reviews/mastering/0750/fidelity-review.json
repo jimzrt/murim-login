@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Maybe he’d lived long enough not to care.",
+      "defect": "“Not to care” adds indifference. The source wonders whether he charged because he had lived long enough, without specifying that he no longer cared.",
+      "id": "F01",
+      "rationale": "The Korean says 살 만큼 살아서 그런 걸까—whether he had lived enough. The following sentence separately offers radiation contamination as a reason he lost his fear.",
+      "replacement": "Maybe he’d lived long enough.",
+      "severity": "minor",
+      "source": "Line 217"
+    }
+  ],
+  "summary": "One minor nuance shifts the reason for the Defense Minister’s fearlessness; the rest is faithful to the source.",
+  "version": 1
+}
