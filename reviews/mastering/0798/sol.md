@@ -4,7 +4,7 @@ I knew. No matter how extraordinary your abilities were, you couldn’t prevent 
 
 But every second felt like an hour because the people falling and spilling their blood at this very moment were suffering because of me.
 
-I was the one who’d called them to this distant desert in a foreign land. I was the one who’d led them to their deaths.
+I was the one who’d called them to a desert in a distant country. I was the one who’d sent them to their deaths.
 
 Once I took on the title of Alliance Leader, I had to bear that anguish until this war was over. I had to lead from the front and fight harder than anyone else.
 
@@ -56,7 +56,7 @@ Every person I’d sensed, every voice I’d heard, belonged to those who had ar
 
 I froze, staring at hundreds of bodies dried out like mummies.
 
-The people’s eyes turned toward me. Their murmuring felt as distant as an echo.
+People turned toward me, but their faces and murmurs felt distant, like an echo.
 
 Only one word filled my mind.
 
@@ -118,7 +118,7 @@ Still, I spoke up, hoping against hope.
 
 “……”
 
-“We searched every inch of a 700-kilometer radius. We practically threatened Syria and Iraq into cooperating, too. But, damn it…”
+“We combed through seven hundred kilometers of the surrounding area. We practically threatened Syria and Iraq into helping us. But, damn it…”
 
 The Prophet was gone.
 
@@ -128,7 +128,7 @@ As if he’d never existed in this world at all.
 
 No wonder the elite Hunters who’d joined the search right after me all looked as if they’d seen a ghost.
 
-“We were so close. Where the hell did he run off to?”
+“We were right behind him. Where the hell did he go?”
 
 The reinforcements had moved quickly. They’d reached the scene less than fifteen minutes after J1, a team of roughly two hundred Japanese Hunters, reported an engagement.
 
@@ -162,7 +162,7 @@ Or…
 
 *One of his subordinates could be a mage at that level.*
 
-If that was true, it’d be the worst of the worst. Fortunately, Magic Johnson immediately shook his head when he heard my thought.
+That would be the worst possibility. Fortunately, Magic Johnson immediately shook his head.
 
 “That’s not it.”
 
@@ -178,11 +178,11 @@ That wasn’t a guess. I could hear the certainty in his voice, and his next wor
 
 “……!”
 
-“The only survivor from J1. He woke up not long before you arrived.”
+“The only survivor from J1. He woke up not long before you got back.”
 
 The only survivor.
 
-I couldn’t just sit there and listen after hearing those words. I sprang to my feet and asked Magic Johnson,
+I couldn’t sit still after hearing that. I sprang to my feet.
 
 “Where is he now?”
 
@@ -190,7 +190,7 @@ I couldn’t just sit there and listen after hearing those words. I sprang to my
 
 The survivor lay in bed, hooked up to all kinds of medical equipment.
 
-Team Leader Choi and the Skeleton King had been talking beside the bed with serious expressions. They opened their mouths as if to say something when they saw me, but then closed them again.
+Team Leader Choi and the Skeleton King had been talking beside him with serious expressions. When they saw me, they opened their mouths as if to say something, then closed them again.
 
 My face must have told them the search that had lasted until dawn had failed.
 
@@ -202,15 +202,15 @@ The Skeleton King understood immediately and nodded.
 
 “Then when I first got to the scene…”
 
-“By then, every last one of them was dead. Not a single wounded person left. That human was in critical condition, too, but he got lucky. You came in, didn’t even listen properly, and left again right away.”
+“Everyone else was already dead. There wasn’t a single wounded person left. That human was in bad shape too, but he got lucky. You arrived and ran off again before you’d even heard me out.”
 
 Only then did I remember the frantic moments when I’d reached the scene: the word *survivor* amid the voices I’d heard on my way there, and the Skeleton King trying to tell me something as I left.
 
-“You left before I could say a word. I was about to go after you, but I stopped myself. Something else could’ve happened with me away from here, too.”
+“You were gone before I could say a word. I thought about following you, but something else could’ve happened if I’d left this place too.”
 
 The Skeleton King had made the right call. Maybe he’d read the situation more calmly than I had.
 
-Seeing me bite my lip in silence, Team Leader Choi spoke.
+I bit my lip. Team Leader Choi spoke.
 
 “You both made the right decisions. What matters now is that we have a survivor.”
 
@@ -222,7 +222,7 @@ I studied the survivor. He was staring into space with his mouth hanging open.
 
 He didn’t look fine, for one thing. For another, his face seemed familiar. And even without checking his pulse, I could sense the abundant energy inside him.
 
-*Wait. Could this guy be…?*
+*Wait. Is this guy…?*
 
 I turned toward Team Leader Choi. He nodded as if he’d read my mind, and a quiet Sound Transmission reached my ears alone.
 
@@ -234,7 +234,7 @@ I turned toward Team Leader Choi. He nodded as if he’d read my mind, and a qui
 
 The five hundred Hunters who’d responded as reinforcements had been lucky.
 
-If The Prophet had been a little stupider, or more confident in his own strength, they wouldn’t have escaped death either.
+If The Prophet had been a little stupider, or a little more confident in his own strength, they might have died too.
 
 But he was clever and cautious. He knew that the longer he stayed in one place, the greater the threat he would face.
 
@@ -242,7 +242,7 @@ That was bad news for humanity, but good luck for those who’d survived.
 
 By that measure, the man before me—Yamamoto Genji, still staring into space with unfocused eyes—had been extraordinarily lucky.
 
-Of course, having gone through something similar myself, I didn’t think of it that way.
+Having gone through something similar myself, I doubted he’d see it that way.
 
 *Damn it.*
 
@@ -262,7 +262,7 @@ I was the one who’d sent him—and all of them—into that deathtrap.
 
 I took Yamamoto Genji’s wrist and sent my internal energy into him.
 
-My Scorching Yang Qi, warm to the touch, flowed through his pulse and into his body. His erratic heartbeat steadied, and a flush of warmth spread across his pale face.
+Warm Scorching Yang Qi flowed through his wrist and into his body. His erratic pulse steadied, and color returned to his pale face.
 
 “Yamamoto.”
 
@@ -280,6 +280,6 @@ I don’t know how long we stayed like that. At last, his eyes came into focus. 
 
 “Chōsenjin?”[^1]
 
-Wait, this fucking bastard.
+You motherfucker.
 
 [^1]: *Chōsenjin* is a Japanese term for Koreans, used here as an ethnic slur.
