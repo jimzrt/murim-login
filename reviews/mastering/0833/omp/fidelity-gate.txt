@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled copy contains a duplicated description of the darkness and misplaces which element fills half the cavern. The final command also changes “Follow me” to “Come here.”",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 49–50",
+      "current": "Countless Magic Gems were piled almost to the ceiling, enough to fill half the enormous cavern.",
+      "defect": "This says the Magic Gems fill half the cavern. The source says the fire fills half the cavern, fueled by Magic Gems piled nearly to the ceiling.",
+      "replacement": "The flames blazed using countless Magic Gems as kindling, filling half the enormous cavern and piling so high they nearly touched the ceiling.",
+      "rationale": "The source describes the fire filling half the cavern, then specifies that the gems feeding it are piled high enough to reach the ceiling.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 51",
+      "current": "Darkness so dense it seemed impossible to have missed until now rippled like fire.",
+      "defect": "This repeats the preceding sentence’s description of the darkness rippling like flames. The source gives that image once, followed by the unprecedented power within it.",
+      "replacement": "An unprecedented power writhed within it, ready to burst forth at any moment.",
+      "rationale": "The source’s next sentence describes the immense power within the darkness, not a second instance of the darkness rippling.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 331",
+      "current": "Come here, you bastard.",
+      "defect": "The command changes from telling him to follow the speaker to telling him to come to the speaker.",
+      "replacement": "Follow me, you bastard.",
+      "rationale": "“따라와” means “follow me”; it does not specify that the addressee should come to the speaker’s location.",
+      "confidence": 0.99
+    }
+  ]
+}

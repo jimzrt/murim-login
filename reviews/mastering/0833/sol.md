@@ -4,7 +4,7 @@ Dazed.
 
 A weightless sensation, as though gravity had ceased to exist, filled Jin Taekyung’s body.
 
-Jin Taekyung opened his eyes amid that alien sensation and stared blankly at the unfamiliar sight spread out before him, beyond a field of vision full of static like a broken television screen.
+He opened his eyes and stared blankly through a haze of static, like the picture on a broken television, at the unfamiliar scene beyond it.
 
 *Where am I?*
 
@@ -26,8 +26,6 @@ Someone in a long robe called out, and people sank to their knees in a wave that
 
 Hunched old people, men and women clutching each other’s hands, children whose eyes had been shining with innocence—none remained standing.
 
-No. They were the only ones there.
-
 In fact, they were the crowd. Ordinary people of the sort you could see anywhere in the Middle East.
 
 Only one group stood out among them: figures in robes covered with unfamiliar patterns.
@@ -46,8 +44,6 @@ It was darkness. And fire.
 
 Countless Magic Gems were piled almost to the ceiling, enough to fill half the enormous cavern. They fed the flames like kindling.
 
-The darkness rippled like flames, so dense that it seemed strange he hadn’t noticed it until now.
-
 Darkness so dense it seemed impossible to have missed until now rippled like fire. An unprecedented power writhed within it, ready to burst forth at any moment.
 
 *Fwoooooosh.*
@@ -64,7 +60,7 @@ The space beyond the tightly sealed darkness opened its jaws, like a child forci
 
 The black flames thrashed like a writhing dragon and swallowed countless Magic Gems. Pure, unrefined magical power coursed along the Magic Formation carved into the ground and flowed into the flames.
 
-On and on. Until the Magic Gems had poured out all their energy and crumbled to ash.
+On and on, until the gems had given up every last trace of power and crumbled to ash.
 
 *Crackle.*
 
@@ -72,7 +68,7 @@ The mountain of Magic Gems began to break apart. It collapsed.
 
 Jin Taekyung watched in shock as those masses of magical power, their purpose served, lost their strength and scattered.
 
-He watched the enormous bomb he’d been searching for with such desperation ignite—the seed of calamity that had slipped away somewhere, hidden from the world’s eyes for decades.
+The enormous bomb he’d searched for so desperately—the seeds of calamity that had slipped beyond the world’s sight over the past several decades—was igniting before him.
 
 And at last, calamity in full bloom stepped through the crack in space.
 
@@ -96,7 +92,7 @@ And finally, the old mage staggering toward him.
 
 “Ah… Ahhh…”
 
-The mage, Ahomed, stared at the man with tears streaming down his face.
+Ahomed stared at the man, tears streaming down his face.
 
 Skin so translucent the veins showed through. A face of unbelievable beauty. And an immense power surging within him.
 
@@ -106,7 +102,7 @@ The man before him was God’s messenger, a being who could truly be called a di
 
 “O Prophet, are you watching? At last, your prophecy has come true—!”
 
-The instant Ahomed opened his arms toward the man—
+Ahomed opened his arms toward the man.
 
 *Slice.*
 
@@ -114,9 +110,9 @@ His trembling voice cut off. The old mage’s body collapsed like a rotten log.
 
 *Thump. Thud.*
 
-His arms and legs, torn apart. His upper and lower body, severed.
+His severed arms and legs fell, followed by the two halves of his torso.
 
-And last of all, his head slid diagonally off his torso and hit the ground.
+Last, his head slid at an angle from his body and struck the ground.
 
 It rolled like a ball of thread until it reached the man’s feet. He looked down at the dead mage’s face.
 
@@ -150,9 +146,7 @@ The darkness, having devoured the corpse without leaving a drop of blood, coiled
 
 No. At the same time, it rose behind him like enormous wings.
 
-*Flash!*
-
-Jin Taekyung saw it.
+*Fwoosh!*
 
 Jin Taekyung saw the darkness spread without end. It blotted out the sunlight leaking through the ceiling and cast death over the heads of people frozen like statues.
 
@@ -190,13 +184,13 @@ Relief hit me so suddenly that all the strength went out of me.
 
 In my final moments in the modern world, my mental strength had been drained so completely I couldn’t even attempt Login.
 
-If the System hadn’t helped, even by force, I would’ve stayed collapsed for days without knowing what was happening… No, wait.
+If the System hadn’t stepped in, even half by force, I might have lain unconscious for days without knowing what was happening… No, wait.
 
 *System update?*
 
 Those words stood out amid my jumbled memories.
 
-If all the System notifications I’d heard were true, then something had changed—something that had never happened before.
+If the notifications I’d heard were real, something had changed. Something that had never happened before.
 
 I sat up in a hurry and gave the command in my mind.
 
@@ -210,7 +204,7 @@ However hard I stared at the empty air, no translucent window appeared. Nor did 
 
 The curse slipped out before I could stop it. I was rattled, but I had a fair idea why the System had suddenly stopped working.
 
-System update.
+The update.
 
 *Maybe I can’t use it until the update’s done?*
 
@@ -234,7 +228,7 @@ And I understood all over again that the vast, terrible calamity I’d failed to
 
 *Clench.*
 
-My hand tightened without me realizing it. My fist had gone white and trembled. At the same time, the scene from the nightmare flashed before my eyes.
+My hand tightened without my noticing. My knuckles turned white, and my fist trembled as images from the nightmare flashed before my eyes.
 
 The truth was, I still didn’t know what I’d seen.
 
@@ -258,7 +252,7 @@ A name came to mind. I forced it away.
 
 I still didn’t know what he was. But judging by the Doppelganger’s attitude when we spoke and the way events had unfolded, that man wasn’t Asmodeus.
 
-Even if—if he really was a Demon King…
+Even if, against all odds, he really was the Demon King…
 
 *I have enough time.*
 
@@ -266,7 +260,7 @@ I could shut myself away and train as I had on Mount Jiuhua. A little over a yea
 
 As long as the System existed, time was on my side.
 
-*Dark Heaven might not be, though.*
+*Dark Heaven won’t be, though.*
 
 I got up and looked around the carriage.
 
@@ -276,7 +270,7 @@ Was sleeping in carriages the latest fad at the Nanman Beast Palace? Even allowi
 
 None of the familiar faces who should have been nearby were there.
 
-The people from the Fire Dragon Pavilion. Hyuk Mujin, who should’ve been sitting beside me as my guard and nodding off. And Jeok Cheongang, whose jaw had dropped when I told him about the modern world and he mistook it for the realm of immortals.
+Not the Fire Dragon Pavilion members. Not Hyuk Mujin, who should have been sitting beside me, supposedly standing guard while nodding off. Not Jeok Cheongang, whose jaw had dropped when he took my account of the modern world to mean I’d been to the realm of immortals.
 
 *Where the hell did they… Hm?*
 
@@ -290,9 +284,9 @@ What the hell was he talking about?
 
 I listened past the surrounding murmur to the voice carrying over it.
 
-“And who is it that believes in and follows that Blazing Flame Divine Dragon? It’s me. Want to know why? Because I’ve got my place at the Captain’s side locked down! I’m his most trusted subordinate—that’s why my place is secure.”
+“And who believes in and follows that very Blazing Flame Divine Dragon? Me. Want to know why? Because I’ve got a firm hold on our Captain’s side! I’m his most trusted subordinate. That’s how I hold on.”
 
-“A firm grip? How so?”
+“A firm hold? What do you mean?”
 
 “Captain, don’t move! Blazing Flame Divine Dragon, mess with me and you’re dead! That’s how close I am to our Captain. Incredibly close.”
 
@@ -302,7 +296,7 @@ I listened past the surrounding murmur to the voice carrying over it.
 
 Just as his speech reached its climax, I stuck my head out the window.
 
-“Listening to all that has me curious. Who is it?”
+“Now I’m curious. Who is it?”
 
 Hyuk Mujin laughed heartily and turned.
 
