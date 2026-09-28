@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "if he gave himself over to the mist now, everything would be at peace.",
+      "defect": "The mist promises relief from his troubles, not that everything will be peaceful.",
+      "id": "F01",
+      "rationale": "모든 것이 편해질 describes things becoming easier for him; the peaceful paradise is introduced in the following sentence.",
+      "replacement": "if he gave himself over to the mist now, everything would be easier.",
+      "severity": "major",
+      "source": "지금 이대로 안개에 몸을 맡기면 모든 것이 편해질 것만 같은 기분."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They were gone.",
+      "defect": "The draft declares the companions gone before Jeok reaches that conclusion.",
+      "id": "F02",
+      "rationale": "Jeok first notices that he cannot see them, then corrects himself with 사라졌다—'They disappeared.'",
+      "replacement": "He couldn't see them.",
+      "severity": "major",
+      "source": "보이지 않는다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Just put up with it. Losing a hair or two won’t kill you.",
+      "defect": "The punchline changes one hair being harmed into losing multiple hairs.",
+      "id": "F03",
+      "rationale": "털끝 하나 repeats the single-hair promise Jeok has just begun to make, then abruptly lowers his standard.",
+      "replacement": "Just bear with it. One hair getting hurt won’t kill you.",
+      "severity": "minor",
+      "source": "그냥 참아라. 털끝 하나 정도는 상해도 안 죽는다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "What are you waiting for? Get your asses out here!",
+      "defect": "The command drops Jeok’s contemptuous demand that the hidden beings crawl out.",
+      "id": "F04",
+      "rationale": "쳐 기어 나오지 않고 is a rough, belittling demand to crawl out, not merely to come out.",
+      "replacement": "What are you waiting for? Crawl the hell out here!",
+      "severity": "major",
+      "source": "무엇 하느냐. 당장 쳐 기어 나오지 않고."
+    },
+    {
+      "confidence": 0.97,
+      "current": "At the same time, the gleaming eyes went out as helplessly as a lamp in the wind, and someone’s face appeared in them.",
+      "defect": "The draft makes the eyes themselves go out and specifies a face before the source does.",
+      "id": "F05",
+      "rationale": "안광 is the light in Jeok’s eyes; 누군가의 모습 is someone’s appearance. The next sentence identifies it as a face.",
+      "replacement": "At the same time, the fierce light in his eyes faded like a lamp caught by the wind, and someone’s figure was reflected in them.",
+      "severity": "major",
+      "source": "그와 동시에 바람을 만난 등불이 꺼지듯, 힘없이 사그라지는 안광에 누군가의 모습이 비쳤다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes the mist’s lure, anticipates the disappearance, and blurs two character beats.",
+  "version": 1
+}
