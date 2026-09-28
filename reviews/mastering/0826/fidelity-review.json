@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "I’m not answering because the thing asking isn’t a person.",
+      "defect": "The Korean calls the speaker a “새끼,” a blunt insult. “The thing” preserves the dehumanizing sense but drops the explicit profanity and weakens the line’s register.",
+      "id": "F01",
+      "rationale": "The source uses the profane noun “새끼” for the one asking; the surrounding exchange also maintains blunt, profane hostility.",
+      "replacement": "I’m not answering because some bastard who isn’t even human is asking.",
+      "severity": "minor",
+      "source": "Lines 199–200"
+    }
+  ],
+  "summary": "One minor register shift softens the insult in the dialogue.",
+  "version": 1
+}

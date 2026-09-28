@@ -120,8 +120,6 @@ Its words were half truth, half lie.
 
 The place certainly had everything it needed to be called a temple. But *grotesque* fit it far better than *marvelous*.
 
-Naturally.
-
 Everything I could see was grand and immense, as though modeled on a temple from mythology. Yet rotten plant roots wrapped around the towering pillars, and the ceiling shut out every last ray of sunlight.
 
 The temple reminded me of the Doppelganger. It had copied the outer trappings of myth convincingly enough, but everything inside was rotten and dead.
@@ -180,7 +178,7 @@ I lowered my spearhead.
 
 I didn’t know what Siegfried Bassman had been like in life. I’d never seen him or met him. All I knew came from textbooks and what other people had told me.
 
-But listening to a bastard wearing someone else’s shell mock me still left me disgusted.
+Still, listening to a bastard wearing his shell mock me made my skin crawl.
 
 Of course, I had another reason to show my hostility so openly: the Doppelganger would consider it a natural reaction.
 
@@ -246,7 +244,7 @@ People like me.
 
 *Father.*
 
-A beloved face flashed before my eyes. The misfortune that struck my family had lasted only an instant, but the sorrow and longing lasted forever.
+His familiar face flashed before my eyes. The misfortune that struck my family had come in an instant. The grief and longing had lasted forever.
 
 Maybe that was why something hot was boiling deep in my chest when I needed to be calmer than ever.
 
@@ -258,11 +256,11 @@ My grip had tightened until my hand turned white.
 
 I glared at the Doppelganger and spoke. No, I muttered the words like a promise to myself.
 
-“He—the Demon King—is already dead.”
+“He’s dead. The Demon King is already dead.”
 
 And at that moment, I saw it clearly.
 
-The Doppelganger’s smile deepened. Then came the question, carrying a truth I couldn’t accept.
+The Doppelganger’s smile deepened. Then it asked a question whose meaning I couldn’t accept.
 
 “Do you really think so?”
 
