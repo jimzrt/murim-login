@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "You all feel like old friends to me. Don’t I to you?",
+      "defect": "“Old friends” adds a friendship claim. The Korean says the long-standing relationships make them feel familiar to him, then asks whether he feels familiar to them as well.",
+      "id": "F01",
+      "rationale": "The source uses 친숙하게 느껴지는군 (feel familiar), not a word for friends. The distinction matters as he is pressuring former supporters by invoking their long history and shared trust.",
+      "replacement": "“Even the shortest of our relationships goes back more than ten years, so you all feel familiar to me. Don’t I feel familiar to you?”",
+      "severity": "minor",
+      "source": "Lines 179–180"
+    }
+  ],
+  "summary": "The chapter is largely faithful. One line turns familiarity into a claim of friendship that the source does not make.",
+  "version": 1
+}

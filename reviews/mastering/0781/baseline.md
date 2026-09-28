@@ -4,21 +4,21 @@
 
 A roar shook everything around us.
 
-At the same time, murky energy—light and darkness mixed together—poured out, engulfed the room, and hung over everyone’s heads.
+At the same time, a murky energy, light and darkness mixed together, poured out, swallowed the room, and hung over everyone’s heads.
 
 Dark.
 
-It was far too early for the sun to have set, yet the National Assembly building had already turned the first page of night.
+It was far too early for the sun to have set, yet the National Assembly building had already entered the first page of night.
 
 A night without a bright moon or stars scattered across the sky.
 
-And yet, in a haze fainter than moonlight, someone radiated a presence clearer than anything else.
+And yet, in the haze—fainter than moonlight—someone radiated a presence clearer than anything else.
 
 *Step. Step.*
 
-The air shifted with each slow step he took.
+The flow of air changed with each slow step he took.
 
-No, the air wasn’t the only thing that had changed.
+No, it wasn’t only the air that had changed.
 
 His gray eyes were slowly turning black, like ink spreading through water.
 
@@ -38,13 +38,13 @@ His slow footsteps finally stopped.
 
 My face, twisted with contempt, was reflected in his eyes, where darkness rippled.
 
-“You monstrous bastard.”
+“You monster of a bastard.”
 
 I probably wasn’t the only one thinking that.
 
 Shock spread across hundreds of faces.
 
-The best fighters from countries all around the world had gathered here, but no one dared to speak or move.
+The best of the best from countries all around the world had gathered here, but no one dared to speak or move.
 
 Every one of them had reached a high realm. They could feel just how vast—and terrifyingly powerful—the aura Michael Silbert was giving off.
 
@@ -58,9 +58,9 @@ Michael Silbert hadn’t been arrogant after all.
 
 No matter how vile and impure the source of his power was, its sheer scale was beyond anything I’d faced before.
 
-*If I had to name one person who came close, it would be the Southern Heaven Demon Empress.*
+*If I had to name one person, it would be the Southern Heaven Demon Empress.*
 
-But for all their similarities, there was a clear difference between them.
+But the two were alike in one way and clearly different in another.
 
 The Southern Heaven Demon Empress was constantly supplied with magical power flowing from the rift.
 
@@ -74,13 +74,13 @@ Something that was no longer human, but wasn’t a monster, either.
 
 A monster that had spent decades building up its power while evading the notice of an absolute being stood before me.
 
-Now he was revealing every last bit of the strength he’d kept hidden.
+Now, he was revealing every last bit of the strength he’d kept hidden.
 
-With a predator’s smile, he looked at me and everyone else before opening his tightly closed lips.
+With a predator’s smile, he looked at me and everyone else before finally opening his tightly closed lips.
 
-“I told you. As long as he’s not here, no one can stop me now.”
+“I told you. As long as he’s not here, there’s no one left who can stop me.”
 
-The air had gone cold. Eyes wavered around the room.
+The air had frozen cold. Eyes wavered around the room.
 
 But not everyone here was overwhelmed by Michael Silbert’s aura.
 
@@ -88,11 +88,11 @@ But not everyone here was overwhelmed by Michael Silbert’s aura.
 
 *Whoooosh.*
 
-A gust of wind suddenly swept through the room.
+A gust of wind suddenly swept through from somewhere.
 
-No—it wasn’t wind. It was so much mana that it felt like wind.
+No—it wasn’t wind. It was so much mana that it felt like one.
 
-Dense smoke rose behind Magic Johnson, who had slung his staff over his shoulder like a steel pipe.
+Dense smoke billowed behind Magic Johnson, who had slung his staff over his shoulder like a steel pipe.
 
 *Crackle.*
 
@@ -112,19 +112,21 @@ Team Leader Choi, however, did something different.
 
 At last, the [Hero’s Sword] slid free of its scabbard. He handed it to someone else.
 
+With a brief remark.
+
 “Please take it. It suits you better than it does me.”
 
 The recipient blinked at this unexpected gesture of goodwill, then nodded in thanks.
 
 He silently looked at the sword in his hands before suddenly speaking.
 
-“It’s a little late to say this, but…”
+“I’ve been meaning to say this for a while…”
 
 The Skeleton King.
 
-The King of the Dead stared at Michael Silbert and continued.
+The King of the Dead continued, staring at Michael Silbert.
 
-“From the moment I first saw you, I’ve never liked you.”
+“From the moment I first met you, I’ve never liked you.”
 
 *Kiiing.*
 
@@ -136,11 +138,11 @@ Now that the truth was out, it was clear who their enemy was.
 
 *Shhhhh.*
 
-Weapons and dazzling radiance cut through the murky darkness, all aimed at Michael Silbert.
+Weapons and dazzling radiance aimed at Michael Silbert, cutting through the murky darkness.
 
 But the smile on his face remained.
 
-No—it grew broader and more vivid as he spoke.
+No—he spoke with a smile that had grown even broader and brighter.
 
 “Oh, Fabian. You too?”
 
@@ -150,39 +152,41 @@ The Guild Master of Kronos, unexpectedly called by name, clenched his jaw.
 
 His eyelids trembled, and the blade in his hand wavered.
 
-Michael Silbert laughed heartily at his obvious agitation, then turned to the others.
+Michael Silbert burst into hearty laughter at his obvious agitation, then turned to the others.
 
 “Christopher, Fernando, Joanne, Marcel, Khalid…”
 
 The names of powerful figures spilled from his lips, one after another.
 
-The spark Michael Silbert had struck spread from the Guild Master of Kronos to people throughout the room.
+The sparks that flew from Michael Silbert’s mouth spread from the Guild Master of Kronos to people throughout the room.
 
 Every one of them was either the head of a major Guild or an S-rank Hunter, yet they froze like statues just from hearing their names.
 
-Race, nationality, gender, age—they differed in every way but one.
+Race, nationality, gender, age.
 
-Until just a moment ago, they’d all been Michael Silbert’s supporters.
+They were all different, but they shared one thing.
 
-And the ties they’d built over so many years were more tangled and weighty than anyone could imagine.
+Until just a moment ago, they’d been Michael Silbert’s supporters.
 
-“Even the shortest of our relationships goes back more than ten years. You all feel like old friends to me. Don’t I to you?”
+And the relationships they’d built up over so many years were complex and heavy beyond anyone’s imagining.
 
-No one answered. Michael Silbert smiled at those frozen in place.
+“Even the shortest of our relationships goes back more than ten years. You all feel like old acquaintances to me. Don’t I to you?”
+
+No answer came from anywhere. Michael Silbert smiled at those frozen in place.
 
 “If this is what you’ve chosen, I won’t stop you… but think it over once more. Think about the trust and friendship we’ve shared all these years.”
 
-I could feel unease and confusion spreading through the room.
+I could feel an invisible tremor of unease and confusion spreading.
 
 This wasn’t simply an appeal to their affection.
 
 Michael Silbert was pressuring the people who’d turned their backs on him.
 
-Behind the words *trust* and *friendship* lurked the ugly secrets only those involved knew. He was using them as leverage.
+Behind the words *trust* and *friendship* lurked a shadow: the ugly secrets only those involved knew, which Michael was using as leverage.
 
-The spark he’d tossed among them blazed up, feeding on the fear and anxiety hidden deep in their hearts.
+The spark Michael Silbert had tossed into the room soon blazed into a fire, feeding on the fear and anxiety hidden deep in their hearts.
 
-Then he said something that made them forget even the little conscience they had left.
+Then he spoke again, making them forget even the little conscience they had left.
 
 “If the whole truth came out, do you think you’d be safe?”
 
@@ -196,17 +200,17 @@ Michael Silbert slowly turned his head to look at me and added,
 
 That was the finishing blow.
 
-And just as Fabian, the Guild Master of Kronos, led the Hunters who made up nearly half the people present in lowering their weapons—
+And just as Fabian, the Guild Master of Kronos, led nearly half the Hunters in the room in lowering their weapons—
 
-A voice slipped from my lips, cold and unfamiliar, as if it belonged to someone else.
+A voice, strange and cold, as if it belonged to someone else, slipped from my lips.
 
-“Yeah. I should thank you, actually. For showing yourselves like this, at least.”
+“Yeah. I should thank you, actually. For coming out like this, at least.”
 
 “What?”
 
 The confusion that crossed Michael Silbert’s face didn’t last long.
 
-No—almost at once, someone’s scream swallowed his voice.
+No—in almost the same instant, someone’s scream erupted and swallowed his voice.
 
 “Argh!”
 
@@ -214,13 +218,13 @@ No—almost at once, someone’s scream swallowed his voice.
 
 *Slash! Splatter!*
 
-Fountains of blood shot up amid overlapping screams.
+Fountains of blood shot up between overlapping screams.
 
-The ambush began on all sides the instant the weapons came down. The Guild Master of Kronos realized what was happening a moment too late and shouted,
+The ambush began all around us the instant the weapons came down. The Guild Master of Kronos realized what was happening a moment too late and shouted,
 
 “You fucking—!”
 
-“I regret it too, Fabian. I’d hoped it wouldn’t come to this.”
+“I regret it too, Fabian. I didn’t want things to turn out this way.”
 
 Magic Johnson had already risen into the air. He answered coolly as he gripped his staff.
 
@@ -228,9 +232,9 @@ Magic Johnson had already risen into the air. He answered coolly as he gripped h
 
 The air trembled.
 
-Fire and ice filled the sky on a massive surge of mana, then plunged toward the ground like streaks of light.
+Along with a massive flow of mana, fire and ice filled the sky, then plunged toward the ground like streaks of light.
 
-Toward the traitors who had once been his comrades-in-arms.
+They were aimed at the traitors who’d once been his comrades-in-arms.
 
 *Whoosh! Thud-thud-thud!*
 
@@ -238,11 +242,11 @@ Toward the traitors who had once been his comrades-in-arms.
 
 Three or four A-rank Hunters, relatively weaker than the others, dropped to their knees with dying groans.
 
-Meanwhile, the Guild Master of Kronos, who had been about to hurl his weapon at Magic Johnson in midair, found someone else standing in his way.
+Meanwhile, the Guild Master of Kronos, who had been about to hurl his weapon at Magic Johnson in midair, found himself facing a new guest.
 
 “You’ve gone completely off the rails since I last saw you. Why’d you make such a stupid choice, Fabian, you dumb son of a bitch?”
 
-Grimy military boots. The acrid smell of cigar smoke clinging to his whole body.
+The grimy military boots. The acrid scent of cigars wafting from his entire body.
 
 The Guild Master of Kronos clenched his jaw as he faced the white man, well past middle age and nearing old age.
 
@@ -252,7 +256,7 @@ He was no easy opponent.
 
 No—he was dangerous.
 
-Fabian looked back, hoping for help from his allies, but that hope was in vain.
+The Guild Master looked back, hoping for help from his allies, but that hope was in vain.
 
 Just a few steps away, the S-rank Hunters who’d turned to Michael Silbert’s side with him were struggling against other enemies.
 
@@ -276,31 +280,31 @@ Right. The enemies’ blood was red.
 
 Human blood, not monster blood.
 
-The red blood I’d never wanted to see in the world where I was born and raised soaked the National Assembly building and the enormous round table.
+The sight of that red blood—the one I’d hoped never to see in the world where I was born and raised—was soaking the National Assembly building and the enormous round table.
 
-Maybe that was why my mouth tasted so bitter and my blood was boiling, even though I’d expected this.
+Maybe that was why, even though I’d expected things to turn out this way, my mouth tasted so bitter and my blood boiled through my whole body.
 
 *Fwoosh.*
 
 The fire dragon coiled in my dantian surged up.
 
-I felt heat like molten lava seep through every part of my body, and suddenly I spoke.
+As I felt a heat like molten lava seep through every part of my body, I suddenly spoke.
 
-“Fucking awful sight, isn’t it?”
+“Hell of a shitty sight, isn’t it?”
 
-Michael Silbert had ignored everything happening around him and watched me in silence. Instead of answering, he asked,
+Ignoring everything unfolding right before him, Michael Silbert had been silently watching me. Instead of answering, he asked,
 
-“Is everything happening here your doing?”
+“Are you telling me everything happening right now is by your design?”
 
-“What if it is?”
+“What if it was?”
 
-“Then I applaud your bold decision.”
+“I applaud your decisive action.”
 
-*Bold decision.*
+*Decisive action.*
 
 The words pierced something in my chest like an awl.
 
-But I kept it off my face and answered calmly.
+But I kept that to myself and answered calmly.
 
 “Then don’t just flap your gums. Clap your hands, you dumbass.”
 
@@ -308,11 +312,11 @@ But I kept it off my face and answered calmly.
 
 “Why not?”
 
-“Because if I give you even the slightest opening, I have a feeling something will happen. Of course…”
+“Because if I let my guard down even a little around you, I have a feeling something will happen. Of course…”
 
 Michael Silbert’s smile faded as he continued.
 
-“That won’t happen.”
+“But that won’t happen.”
 
 “Maybe. You sure about that?”
 

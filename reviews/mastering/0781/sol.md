@@ -22,7 +22,7 @@ No, the air wasn’t the only thing that had changed.
 
 His gray eyes were slowly turning black, like ink spreading through water.
 
-The characteristically pale skin of a white man was covered in a thin membrane like leather, and his entire body—now longer and thicker—seemed to radiate strength and elasticity unlike anything he’d shown before.
+His pale skin was wrapped in a thin, leather-like membrane. His entire body had grown longer and thicker, and seemed to possess strength and resilience beyond anything he’d shown before.
 
 As if…
 
@@ -48,7 +48,7 @@ The best fighters from countries all around the world had gathered here, but no 
 
 Every one of them had reached a high realm. They could feel just how vast—and terrifyingly powerful—the aura Michael Silbert was giving off.
 
-And with it, they understood the true meaning of what he’d said earlier.
+And they understood the true meaning of what he’d said earlier.
 
 *The only person I fear isn’t here right now.*
 
@@ -68,7 +68,7 @@ Michael Silbert, on the other hand, had found a way to make magical power coexis
 
 *Just how much magical power has he absorbed?*
 
-I fixed my eyes on Michael Silbert, my gaze sinking deep.
+I stared at Michael Silbert, my gaze hardening.
 
 Something that was no longer human, but wasn’t a monster, either.
 
@@ -96,7 +96,7 @@ Dense smoke rose behind Magic Johnson, who had slung his staff over his shoulder
 
 *Crackle.*
 
-The last stub of his cigar was crushed beneath a military boot. Chuck Hagel spat out a glob of phlegm, pretending the nicotine had brought him back to life.
+The last stub of a cigar was crushed beneath a military boot. Chuck Hagel, revitalized by his nicotine fix, spat out a glob of phlegm.
 
 Flames streamed from his eyes as he glared at Michael Silbert.
 
@@ -104,7 +104,7 @@ Flames streamed from his eyes as he glared at Michael Silbert.
 
 And he wasn’t the only one.
 
-Faye Chen had already drawn her bow, and Prince Felix unsheathed an ornate longsword set with brilliant jewels, his bearing full of dignity.
+Faye Chen had already drawn her bow, and Prince Felix unsheathed an ornate longsword set with brilliant jewels, his bearing as dignified as ever.
 
 Team Leader Choi, however, did something different.
 
@@ -114,9 +114,9 @@ At last, the [Hero’s Sword] slid free of its scabbard. He handed it to someone
 
 “Please take it. It suits you better than it does me.”
 
-The recipient blinked at this unexpected gesture of goodwill, then nodded in thanks.
+The recipient blinked at this unexpected gesture, then nodded in thanks.
 
-He silently looked at the sword in his hands before suddenly speaking.
+He looked silently at the sword in his hands before speaking.
 
 “It’s a little late to say this, but…”
 
@@ -196,7 +196,7 @@ Michael Silbert slowly turned his head to look at me and added,
 
 That was the finishing blow.
 
-And just as Fabian, the Guild Master of Kronos, led the Hunters who made up nearly half the people present in lowering their weapons—
+Fabian, the Guild Master of Kronos, lowered his weapon. Nearly half the Hunters in the room followed suit.
 
 A voice slipped from my lips, cold and unfamiliar, as if it belonged to someone else.
 
@@ -254,9 +254,9 @@ No—he was dangerous.
 
 Fabian looked back, hoping for help from his allies, but that hope was in vain.
 
-Just a few steps away, the S-rank Hunters who’d turned to Michael Silbert’s side with him were struggling against other enemies.
+Just a few steps away, the S-rank Hunters who’d returned to Michael Silbert’s side with him were struggling against other enemies.
 
-Faye Chen, Prince Felix, the Skeleton King—who was already raising the dead Hunters and sending them charging—and Choi Minwoo.
+Faye Chen, Prince Felix, the Skeleton King—who was already raising dead Hunters and sending them charging—and Choi Minwoo.
 
 There wasn’t a hint of hesitation in their swift movements.
 
@@ -302,7 +302,7 @@ The words pierced something in my chest like an awl.
 
 But I kept it off my face and answered calmly.
 
-“Then don’t just flap your gums. Clap your hands, you dumbass.”
+“Then don’t just say it. Clap your hands, dumbass.”
 
 “Sorry, but I can’t do that.”
 
@@ -316,7 +316,7 @@ Michael Silbert’s smile faded as he continued.
 
 “Maybe. You sure about that?”
 
-And just as silence fell for a moment—
+For a moment, silence fell.
 
 *Whoosh.*
 

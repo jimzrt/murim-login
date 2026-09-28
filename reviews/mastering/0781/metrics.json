@@ -1,0 +1,131 @@
+{
+  "chapter": 781,
+  "stages": {
+    "adjudicator": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 4608,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.004580280000000001,
+      "cost_usd": 0.004580280000000001,
+      "elapsed_seconds": 125.299,
+      "event_log": "/Users/james/dev/murim-login-new/reviews/mastering/0781/omp/adjudicator.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 21577,
+      "model": "gpt-6-luna",
+      "models": {
+        "openai-codex/gpt-6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 4608,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.004580280000000001,
+          "input_tokens": 21577,
+          "model": "gpt-6-luna",
+          "output_tokens": 4753,
+          "provider": "openai-codex",
+          "reasoning_tokens": 1859,
+          "requests": 1,
+          "total_tokens": 30938
+        }
+      },
+      "output_bytes": 11209,
+      "output_tokens": 4753,
+      "packet_bytes": 71632,
+      "packet_token_estimate": 17908,
+      "provider": "openai-codex",
+      "reasoning_tokens": 1859,
+      "requested_model": "openai-codex/gpt-6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 30938,
+      "usage_source": "omp_provider_reported"
+    },
+    "fidelity_gate": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 4608,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.00263268,
+      "cost_usd": 0.00263268,
+      "elapsed_seconds": 45.321,
+      "event_log": "/Users/james/dev/murim-login-new/reviews/mastering/0781/omp/fidelity-gate.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "finding_count": 1,
+      "input_tokens": 15801,
+      "major_or_critical_count": 0,
+      "model": "gpt-6-luna",
+      "models": {
+        "openai-codex/gpt-6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 4608,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.00263268,
+          "input_tokens": 15801,
+          "model": "gpt-6-luna",
+          "output_tokens": 2013,
+          "provider": "openai-codex",
+          "reasoning_tokens": 1824,
+          "requests": 1,
+          "total_tokens": 22422
+        }
+      },
+      "output_bytes": 843,
+      "output_tokens": 2013,
+      "packet_bytes": 53436,
+      "packet_token_estimate": 13359,
+      "provider": "openai-codex",
+      "reasoning_tokens": 1824,
+      "requested_model": "openai-codex/gpt-6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 22422,
+      "usage_source": "omp_provider_reported"
+    },
+    "master": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.068254,
+      "cost_usd": 0.068254,
+      "elapsed_seconds": 60.489,
+      "event_log": "/Users/james/dev/murim-login-new/reviews/mastering/0781/omp/master.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 20542,
+      "model": "gpt-6-sol",
+      "models": {
+        "openai-codex/gpt-6-sol": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.068254,
+          "input_tokens": 20542,
+          "model": "gpt-6-sol",
+          "output_tokens": 2717,
+          "provider": "openai-codex",
+          "reasoning_tokens": 373,
+          "requests": 1,
+          "total_tokens": 23259
+        }
+      },
+      "output_bytes": 10724,
+      "output_tokens": 2717,
+      "packet_bytes": 59143,
+      "packet_token_estimate": 14786,
+      "provider": "openai-codex",
+      "reasoning_tokens": 373,
+      "requested_model": "openai-codex/gpt-6-sol:medium",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 23259,
+      "usage_source": "omp_provider_reported"
+    }
+  },
+  "version": 1
+}
