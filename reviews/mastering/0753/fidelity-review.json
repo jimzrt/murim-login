@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The fact that he could not even shout for fear of attracting Leviathan made him more miserable still.",
+      "defect": "Changes the reason he cannot shout. The Korean says he cannot shout loudly because he fears Leviathan might appear, not because he fears attracting Leviathan.",
+      "id": "F01",
+      "rationale": "레비아탄이 나타날까 봐 means “for fear Leviathan might appear.” The current wording adds the distinct idea that shouting could attract it.",
+      "replacement": "The fact that he could not even shout aloud in case Leviathan appeared made him more miserable still.",
+      "severity": "minor",
+      "source": "Line 183"
+    },
+    {
+      "confidence": 0.94,
+      "current": "the mythical monster, more than three hundred meters long",
+      "defect": "Turns an approximate length into a claim that the monster exceeds 300 meters.",
+      "id": "F02",
+      "rationale": "삼백여 미터 conveys approximately three hundred meters; it does not establish that the length is greater than 300 meters.",
+      "replacement": "the mythical monster, about three hundred meters long",
+      "severity": "minor",
+      "source": "Line 247"
+    }
+  ],
+  "summary": "Two minor fidelity issues: the reason he cannot shout is changed, and Leviathan’s approximate length is stated as exceeding 300 meters.",
+  "version": 1
+}

@@ -6,7 +6,7 @@ What wonderful weather. Only a little over twenty hours ago, the sea had been bu
 
 *Beautiful. Is this nature?*
 
-The place where the man had lived was nothing like this. That distant, distant place was always dim and dark as night, with a terrible stench hanging in the air. Of course, for personal reasons, he had never smelled a stench in his life, but there was no doubt the place had reeked.
+The place where the man had lived was nothing like this. That distant, distant place was always dark as night and stank terribly. Of course, for personal reasons, he had never smelled it himself, but it must have.
 
 In any case, the man liked this world.
 
@@ -60,7 +60,7 @@ By the time he realized this was more than strange—that he was in danger—it 
 
 Jin Taekyung had blocked the door and was creeping toward him with a bundle of rope.
 
-“I’ll talk to you carefully. I’ll try to find my courage.”
+“I’ll tell you gently. I’ll try to be brave.”
 
 “Don’t sing some weird song! Put down the rope!”
 
@@ -78,7 +78,7 @@ Jin Taekyung had blocked the door and was creeping toward him with a bundle of r
 
 A wave rolled in from far away and struck the stern of the little motorboat.
 
-The seawater splashed refreshingly across his face, jolting the Skeleton King out of his thoughts. He muttered,
+Cool seawater splashed across the Skeleton King’s face, jolting him out of his thoughts.
 
 “…Damn it.”
 
@@ -124,7 +124,7 @@ Along with the two S-rank Magic Gems the Japanese government had provided.
 
 “You’re definitely going to save me… right?”
 
-That was the last thing he heard.
+That was it.
 
 The little boat, carrying one S-rank monster and two S-rank Magic Gems, set off before he received an answer. Following GPS coordinates entered beforehand, it began circling near an uninhabited island several hundred kilometers away.
 
@@ -190,7 +190,7 @@ Warm bird shit.
 
 Growling under his breath, the Skeleton King looked up.
 
-As expected, a flock of gulls had been circling above him for some time. They had apparently decided that humans were free cafeterias and had been following the little boat.
+Sure enough, the flock of gulls that had been following the little boat was above him. At some point, they had apparently decided humans were a free source of food.
 
 More precisely, they were scattering shit and piss as they flew away toward some distant point.
 
@@ -232,7 +232,7 @@ The moment the mythical monster, more than three hundred meters long, opened its
 
 “It’s been twenty-three hours, you motherfucker.”
 
-Along with the unexpected voice of one man, a fierce flame shot forward, evaporating the moisture in its path.
+A voice no one had expected rang out, and fierce flames shot forward, evaporating the water in their path.
 
 *Crunch!*
 
@@ -276,7 +276,7 @@ Especially when that assassin was known as the Slaughter Saint.
 
 “…Aren’t you from the orthodox faction?”
 
-“Do orthodox martial artists not die even when they get stabbed?”
+“Do people from the orthodox faction survive getting stabbed?”
 
 “No, but you should be developing your martial arts—”
 
@@ -286,13 +286,13 @@ Especially when that assassin was known as the Slaughter Saint.
 
 In short, I was lucky.
 
-The living legend of the assassin world had teaching skills that could put even Daechi-dong’s top cram-school instructor[^2] to shame, and I was good at anything that involved using my body, so I absorbed his teachings like a sponge.
+The living legend of the assassin world could give even Daechi-dong’s top cram-school instructor[^2] a run for their money. And I was good at anything I could learn with my body, so I soaked up his teaching like a sponge.
 
 I had never dreamed I would use the Turtle Breath Technique in the modern world before using it in Murim. But it certainly worked.
 
 *Crunch!*
 
-A spear wreathed in blue-white flames was sucked into the dark monster’s maw.
+A spear wreathed in blue-white flames shot into the dark monster’s maw.
 
 No—it shattered the teeth that had already grown back and buried itself in the roof of its mouth.
 
@@ -314,9 +314,9 @@ I stepped onto an invisible staircase and stopped in midair.
 
 Ragged breathing. The pupils of Leviathan’s huge, crocodile-like eyes narrowed into long vertical slits.
 
-“You. How could you…”
+“You. How did you…”
 
-“Ah, that? It’s a long story.”
+“Oh, that? It’s a long story.”
 
 I grinned.
 
@@ -324,7 +324,7 @@ I grinned.
 
 *Inventory open. Summon.*
 
-Along with the thought that accompanied the words, I hurled the spear in my hand.
+As the thoughts flashed through my mind, I launched the spear in my hand.
 
 *Whoooooom!*
 
