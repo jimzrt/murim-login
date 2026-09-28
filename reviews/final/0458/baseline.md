@@ -102,7 +102,7 @@ Ten seconds. Nine, eight…
 
 The faint moonlight reflected on the surface drew closer.
 
-My arms and legs felt as heavy as if iron balls had been tied to them, while the two people in my hands weighed like thousand-catty boulders.[^2]
+My arms and legs felt as heavy as if iron balls had been tied to them, while the two people in my hands weighed like thousand-catty boulders.
 
 And then—
 
@@ -194,7 +194,7 @@ A pure-white body and scales, along with two horns.
 
 *Hiss. Hiss. Hiss-hiss!*
 
-*No, don’t go!*
+“Hey, don’t go!”
 
 I hurriedly shouted at the creature as it flicked its tongue and turned away.
 
@@ -258,7 +258,7 @@ But nothing changed.
 
 The waters of Dongting Lake had grown calm, as if nothing had happened, while the faint dawn mist spreading across the lake created a beautiful scene.
 
-*Is this what the Wuling Peach Blossom Spring, where immortals are said to live, looks like?*
+*Is this what the Wuling Peach Blossom Spring, where immortals are said to live, looks like?*[^2]
 
 I stared silently at the scene before me, then spoke without warning.
 
@@ -414,6 +414,6 @@ At my greeting, Honglan, the dazzlingly beautiful singing courtesan, bowed with 
 
 “It is an honor to see you, Benefactor.”
 
-[^1]: A **zhang** is a traditional Chinese unit of length, approximately 3.3 meters or 10.9 ft.
+[^1]: A **zhang** is a traditional Chinese unit of distance, roughly 3.3 meters.
 
-[^2]: A **catty** is a traditional unit of weight. Here, a thousand catties is approximately 500 kg or 1,100 lb.
+[^2]: Wuling Peach Blossom Spring is a classical Chinese image of an idyllic, isolated utopia.
