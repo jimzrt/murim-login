@@ -2,9 +2,7 @@
 
 *So it’s finally starting.*
 
-I muttered to myself as I watched the back of someone walking alone.
-
-Then again, it wasn’t just me. Everyone here was doing the same.
+I watched Michael Silbert walk alone toward the center of the hall.
 
 So did everyone else. The cameras positioned throughout the room and some three hundred pairs of eyes around the round table followed his every step.
 
@@ -50,11 +48,11 @@ In this scripted musical, the leading man delivered his next line in response to
 
 “Why not?”
 
-“Because I’m not qualified to do so.”
+“Because it isn’t my place.”
 
 Michael answered calmly, then turned toward me—or, rather, toward Team Leader Choi, seated to my right.
 
-“Unless you’re family by blood, of course.”
+“Perhaps if I were family by blood.”
 
 “……!”
 
@@ -84,13 +82,13 @@ I opened my eyes, feeling hollowed out. Team Leader Choi met my gaze, read what 
 
 *Scrape.*
 
-The chair, which had endured for ages longer than its new master, slowly scraped backward. At that moment—
+The chair, which had endured far longer than its new occupant, slid slowly backward.
 
 “Before we elect a representative—the purpose of today’s inaugural ceremony—I must inform you that my maternal grandfather, Hunter Cheon Taemin…”
 
 At last, his name was spoken. In the breathless silence that followed, the savior’s only blood relative continued quietly.
 
-“…has become seriously ill and will be unable to take part in this war.”
+“…has become too ill to take part in this war.”
 
 “……!”
 
@@ -104,13 +102,13 @@ A suffocating silence settled over the First National Assembly Hall.
 
 Frozen by shock and confusion, the people inside could do nothing but turn those words over and over in their minds.
 
-*“My maternal grandfather, Hunter Cheon Taemin, has become seriously ill and will be unable to take part in this war.”*
+*“My maternal grandfather, Hunter Cheon Taemin, has become too ill to take part in this war.”*
 
 Barely ten minutes into the inaugural ceremony, a bomb had gone off.
 
 No. In another sense, it was a catastrophe.
 
-*Sky is sick? What on earth does that mean?*
+*Sky is ill? What on earth…*
 
 *How could he be? It can’t be true.*
 
@@ -134,13 +132,13 @@ Shock gave way to a hollow sense of loss. Some of the elders grew angry.
 
 “What—what on earth is this supposed to mean?”
 
-“Gravely ill? Even for someone like your maternal grandfather, that’s too much to believe!”
+“Gravely ill? You know what sort of man your grandfather is! There’s a limit to what we can believe!”
 
 “Explain yourself. There’s no way he could be sick!”
 
-But contrary to the elders’ desperate wishes, Cheon Taemin’s only maternal grandson merely shook his head, calm and composed.
+But Cheon Taemin’s only maternal grandson merely shook his head, calm despite their raised voices.
 
-“Everything I’ve told you is absolutely true.”
+“Everything I’ve told you is true.”
 
 “Young man!”
 
@@ -150,7 +148,7 @@ But contrary to the elders’ desperate wishes, Cheon Taemin’s only maternal g
 
 “I always wondered where my grandfather was. What reason could he possibly have for not showing himself even to his only grandson, after all this time?”
 
-Choi Minwoo looked around at everyone and continued.
+Choi Minwoo looked around the room.
 
 “I didn’t learn the truth until after Vice Guild Master Lee Jungryong and Go Jun died. At some point, for reasons we still don’t know, my grandfather fell into a coma. A very small number of people had been hiding it.”
 
@@ -160,13 +158,13 @@ Shock swept through the hall again. This time, the silence did not last.
 
 “It’s hard to believe, but it’s true. I can vouch for it.”
 
-A towering Black man, who had been watching the situation in silence, was looking at them.
+Everyone turned toward the deep voice. The towering Black man who had watched in silence until now was looking back at them.
 
 “Magic Johnson!”
 
 “Y-You knew too?”
 
-Magic Johnson nodded before answering.
+Johnson nodded.
 
 “Those young men contacted me a few months ago, and I came to this country. I didn’t expect to find Sky unconscious.”
 
@@ -182,13 +180,13 @@ One word crossed everyone’s mind.
 
 *Leader.*
 
-A new hero who could fill the savior’s absence as much as possible. Someone who could win the support of a majority of the three hundred people gathered around this enormous round table.
+With Cheon Taemin unable to fight, they needed a new leader. A new hero who could fill as much of the savior’s absence as possible and win the support of a majority of the three hundred people around the table.
 
 *Then…*
 
 By the time that thought formed, most had already made up their minds.
 
-Strength. Fame. Popularity. A spirit of sacrifice and courage. Leadership…
+Strength. Fame. The respect of others. Courage and a willingness to sacrifice. Leadership.
 
 Each had their own standards, and even among those already called heroes, only a handful met them.
 
@@ -206,7 +204,7 @@ With only one step left to take, he was already thinking about what came after.
 
 The absolute power of the World Hunter Federation already felt close enough to touch. But an obstacle that would continue to trouble him had to be removed.
 
-Michael Silbert fixed his sunken eyes on one man.
+Michael fixed his darkened gaze on one man.
 
 Even as voting began, Jin Taekyung sat with his lips firmly closed. Beside him was a blond monster with a calm expression.
 
@@ -220,7 +218,7 @@ Ostracism? A pottery-shard lottery?
 
 I thought it had originated with a method the ancient Athenians used to banish tyrants, but I wasn’t sure.
 
-One thing I did know: what I held wasn’t a piece of pottery, but a fragment of a tower shield. And the person whose name appeared on the most fragments wouldn’t be banished—they’d become the leader of the World Hunter Federation.
+What I did know was that the thing in my hand wasn’t a pottery shard. It was a piece of a tower shield. And whoever got the most names written down wouldn’t be banished. They’d become the leader of the World Hunter Federation.
 
 *Would’ve been nice if it worked the other way around, huh?*
 
@@ -234,21 +232,21 @@ I sent the Sound Transmission on a whim. To my surprise, an answer came back.
 
 I turned the scrap of iron over in my fingers.
 
-*You crazy bastard. I wondered why you’d answered me, but you’re still on about that.*
+*You crazy bastard. I wondered why you’d finally answered me, but you’re still on about that.*
 
 *I know what you’re thinking. But it’s too…*
 
 *Dangerous?*
 
-After a brief silence, the Skeleton King answered.
+The Skeleton King fell silent for a moment.
 
-*Yes. Even now, this body cannot be certain.*
+*Yes. Even now, I can’t be certain.*
 
 *The odds are close to fifty-fifty. And this is just a guess, but I think the chance of success is a little higher.*
 
-*Do you understand what that means? There’s a fifty percent chance you could lose everything.*
+*Do you know what that means? There’s nearly a fifty percent chance you’ll lose everything.*
 
-*Really? To me, it sounds like there’s a fifty percent chance I could protect everything.*
+*Really? Sounds to me like there’s nearly a fifty percent chance I’ll protect everything.*
 
 *……!*
 
@@ -262,6 +260,6 @@ This silence lasted longer than the first. Then, for the first time in a long wh
 
 *Why go this far? Why take that risk when your family and friends could get hurt?*
 
-I answered with a truth that might have been settled the day I first met him.
+I answered him with a truth that might have been settled the day we met.
 
 *Because you’re my friend, too.*

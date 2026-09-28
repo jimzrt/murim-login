@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "So did everyone else. The cameras positioned throughout the room and some three hundred pairs of eyes around the round table followed his every step.",
+      "defect": "The opening sentence repeats the preceding paragraph’s statement that everyone was watching. The next sentence also omits the source’s clarification that the eyes followed one person—specifically Michael Silbert.",
+      "id": "F01",
+      "rationale": "Line 9 says everyone here was doing the same; line 11 then specifies that the cameras and eyes followed one person, naming Michael Silbert. The accepted baseline preserves that identification without repeating line 9.",
+      "replacement": "The cameras positioned throughout the room and some three hundred pairs of eyes around the round table followed one man—or, to be precise, Michael Silbert.",
+      "severity": "minor",
+      "source": "Korean lines 9–11"
+    },
+    {
+      "confidence": 0.94,
+      "current": "His voice was thick with emotion.",
+      "defect": "The source describes a hoarse or husky voice, not a voice thick with emotion. The current wording adds an emotional cause or quality that the source does not establish.",
+      "id": "F02",
+      "rationale": "잠겨 있는 목소리 describes a hoarse or husky voice; the source separately describes moisture in his eyes but does not attribute the voice quality to emotion.",
+      "replacement": "His voice was hoarse.",
+      "severity": "minor",
+      "source": "Korean line 37"
+    },
+    {
+      "confidence": 0.96,
+      "current": "A towering Black man, who had been watching the situation in silence, was looking at them.",
+      "defect": "The translation omits that a low voice suddenly rang out, the event that draws everyone’s gaze toward him.",
+      "id": "F03",
+      "rationale": "불쑥 들려온 저음의 목소리 means a low voice suddenly sounded; the source explicitly links it to the crowd turning to look.",
+      "replacement": "At the sudden sound of a low voice, everyone’s eyes turned in one direction. A towering Black man, who had been watching the situation in silence, was looking at them.",
+      "severity": "minor",
+      "source": "Korean line 187"
+    }
+  ],
+  "summary": "The translation has a redundant sentence, omits the explicit identification of the person being watched, and changes a hoarse voice into one thick with emotion.",
+  "version": 1
+}
