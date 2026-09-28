@@ -26,9 +26,7 @@ The Prophet staggered, clutching his bleeding chest. The moment his hand closed 
 
 *Shhk.*
 
-A faint line appeared across The Prophet’s wrist with a chilling cut.
-
-His right hand, which had half-drawn the sword, lost its strength and fell away from his body.
+A faint line appeared across his wrist. His right hand, still gripping the half-drawn sword, fell from his body.
 
 *Thud. Splatter!*
 
@@ -52,9 +50,9 @@ His hand stopped dead in midair. Bones ground out of place, and his brow twisted
 
 *Whistle—thud, thud, thud!*
 
-Something pure white shot toward him like a beam of light and pierced his limbs.
+Something white streaked toward him and pierced his limbs.
 
-The long, sharp bone shards sliced through flesh and bone like tofu, pinning his body—which had been floating in the air—deep into the cliff.
+Long, sharp shards of bone sliced through flesh and bone like tofu, pinning him deep into the cliff.
 
 *Crunch!*
 
@@ -64,9 +62,7 @@ Overpowered in an instant after my surprise attack, The Prophet coughed up a mou
 
 “Cough. Heh heh.”
 
-Pain was the same for everyone.
-
-But The Prophet laughed, curling his bloodstained lips as if he couldn’t feel a thing.
+Pain was the same for everyone. Yet he smiled through bloodstained lips as though he felt none of it.
 
 “Good. First, I’ll give you credit. Very well done.”
 
@@ -86,13 +82,13 @@ I’d already cut off his hand and crushed his knee. My first strike had driven 
 
 But The Prophet wasn’t an ordinary human. That impossible vitality couldn’t belong to one.
 
-And unlike Michael Silbert, who had been practically half-human and half-demon, then died in the form of a monster while bleeding monster’s blood, The Prophet was still shedding red human blood.
+And unlike Michael Silbert, who had been all but half-human and half-demon and had died in a monster’s form, bleeding a monster’s blood, The Prophet was still bleeding red.
 
 “……Jin.”
 
 “What… what the hell is that thing?”
 
-Magic Johnson and the Skeleton King stared at the incomprehensible being, their gazes trembling. The Prophet laughed, his voice thick with blood.
+Magic Johnson and the Skeleton King stared at him, their gazes trembling. The Prophet laughed, blood thick in his voice.
 
 “No one can answer that. That’s the kind of being I am.”
 
@@ -115,7 +111,7 @@ I’d received the special Item as a Reward for completing **Unknown Death**, th
 > **Type:** Single-Use Item  
 > **Grade:** Special  
 > **Restriction:** Jin Taekyung  
-> **Description:** In the distant past, a god who would become part of myth offered up an eye to drink from the spring of wisdom. In exchange for one eye, he gained infinite wisdom, while the eye that sank to the bottom of the spring gained the power to pierce even the truths of other worlds.
+> **Description:** In the distant past, a god now lost to myth offered up an eye to drink from the spring of wisdom. In exchange, he gained infinite wisdom, while the eye that sank to the bottom of the spring gained the power to see even the truths of other worlds.
 >
 > **Effect:** Can be applied to a single target only.
 
@@ -127,7 +123,7 @@ But now I did.
 
 A few hours ago, I’d found my one clue. Before that, the System had already handed me the key to understanding it.
 
-A key that could be used on only one target—and therefore had to be used with even greater care.
+A key I could use on only one target, so I had to choose carefully.
 
 And now I held the power to see through every truth.
 
@@ -147,13 +143,13 @@ Pierced it. Revealed what lay beneath.
 
 *Flash!*
 
-The instant a distant, blinding light flooded my vision, countless bells thrashed inside my mind.
+A blinding light filled my vision. Countless bells rang inside my head.
 
 System notifications I’d never heard before and holographic windows I’d never seen raced in every direction, to the ends of the earth and above the clouds.
 
 *Ding. Ding. Ding. Diiiiing!*
 
-One sound swallowed another. The translucent holographic windows multiplied from one to five, from five to dozens, then to a hundred.
+One sound swallowed another. The translucent windows multiplied from one to five, from five to dozens, then to a hundred.
 
 They were a wave. A mountain.
 
@@ -163,7 +159,7 @@ A gasp escaped me. Cold ran down my spine at the sight before me.
 
 Hundreds. Perhaps thousands.
 
-More holographic windows than I could count burst forth like fireworks. They all came from one being—the beginning and center of everything.
+More holographic windows than I could count burst forth like fireworks, all from a single being at their center.
 
 *The Prophet.*
 
@@ -183,7 +179,7 @@ At last, I understood what The Prophet truly was. How this cursed monster had hi
 
 *Right. Now I get it.*
 
-I stared at The Prophet, still smiling. Then, with the breath I’d been holding, I spat out a single word.
+I stared at him. He was still smiling. I let out the breath I’d been holding and spoke one word.
 
 “Doppelganger.”
 
@@ -191,7 +187,7 @@ I saw his reaction clearly.
 
 “……!”
 
-The corners of his mouth, which had been curved like a half-moon, stiffened. The holographic window hovering above his head shone with a particularly gloomy light.
+His crescent-shaped smile stiffened. The holographic window above his head glowed with an oddly gloomy light.
 
 > **System**
 >
@@ -211,8 +207,6 @@ They were wrong.
 
 The doppelganger had been there from the beginning. Everyone had mistaken its failure to reveal itself for its absence.
 
-At least, Jin Taekyung knew that better than anyone.
-
 Jin Taekyung knew that better than anyone now. He even knew when this incomprehensible being, which had devoured countless lives, had first slipped into their world.
 
 “Michael Silbert. The Great Battle of Paris.”
@@ -223,21 +217,21 @@ His voice came out abruptly, hard as the cliff rock on either side of them. The 
 
 December 25, 2020.
 
-The great battle that made a page in history—and made the name Michael Silbert known to all humanity.
+The battle that had gone down in history and etched Michael Silbert’s name into humanity’s memory.
 
-As one layer of that day’s truth peeled away, Jin Taekyung swallowed hard. The Skeleton King clenched his teeth, while Magic Johnson stared at The Prophet—or rather, the doppelganger—in disbelief.
+As another layer of that day’s truth fell away, Jin Taekyung caught his breath. The Skeleton King clenched his teeth. Magic Johnson stared at The Prophet—at the doppelganger—in disbelief.
 
-“That can’t be. The one that attacked Paris at the time was definitely…”
+“That can’t be. The one that attacked Paris was a…”
 
-“A dragon. More precisely, a hatchling less than three hundred years old. It was born a dragon, so arrogance was in its nature. And it let its guard down, as young ones do. Of course, it was unexpected that a human would kill it, even so.”
+“Dragon. A hatchling, to be precise, not even three hundred years old. Born a dragon, naturally arrogant. Young enough to let its guard down. Though I admit, it was surprising that a human killed it.”
 
 The doppelganger had cut Johnson off. He went on.
 
 “In the end, they were simply unlucky. The young dragon, and the humans who miraculously survived their encounter with it.”
 
-The Grand Mage, who had lived through the Great Cataclysm firsthand, couldn’t hold back a groan.
+The Grand Mage, who had fought his way through the Great Cataclysm, let out a groan.
 
-“……It was a lie, then. Michael Silbert made all of it up.”
+“……It was a lie. Michael Silbert made all of it up.”
 
 “Well, not all of it. A dragon did attack Paris. And Michael did survive alone.”
 
@@ -249,7 +243,7 @@ The doppelganger grinned.
 
 “An interesting offer. I accepted. Then he killed the remaining humans himself.”
 
-Jin Taekyung suddenly remembered a line from the conversation he’d had with Michael Silbert just before the man met his end.
+Jin Taekyung suddenly remembered something Michael Silbert had said in their final conversation.
 
 *I was struggling to survive, too!*
 
@@ -259,7 +253,7 @@ He’d been telling the truth. Michael Silbert had struggled to survive. His des
 
 And so a human and a monster had joined forces.
 
-But it wasn’t a shackle. It was a contract. Two monsters who differed in appearance but shared the same nature had made a deal to achieve their own goals.
+It hadn’t been a shackle. It had been a contract between two monsters, different in appearance but alike at heart, each seeking to achieve his own goal.
 
 But…
 
@@ -267,13 +261,13 @@ But…
 
 “What?”
 
-“I asked what it was for. What was your real reason for wanting to live among people in this world?”
+“I asked what for. What did you really want from living among people in this world?”
 
 Jin Taekyung ground out the words. After a moment’s silence, the doppelganger smiled.
 
 “Well, I don’t think now’s the time to wait for my answer.”
 
-And at that moment—
+And then—
 
 *Rumble.*
 

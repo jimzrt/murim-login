@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "My first strike had driven straight toward his heart, too.",
+      "defect": "This changes the strike’s described action and target. The Korean says the strike precisely pierced the area around his heart; “driven straight toward his heart” describes direction toward the heart instead.",
+      "id": "F02",
+      "rationale": "The source says 심장 어림을 정확히 파고들었다, locating the strike precisely in the heart’s vicinity.",
+      "replacement": "My first strike had pierced the area around his heart, too.",
+      "severity": "minor",
+      "source": "Line 91"
+    },
+    {
+      "confidence": 0.87,
+      "current": "I could see Yamamoto Genji—or rather, the bastard wearing his face—grinning.",
+      "defect": "“Wearing his face” adds a specific disguise mechanism that this source sentence does not establish.",
+      "id": "F03",
+      "rationale": "The Korean corrects the identification from Yamamoto Genji to “that bastard”; it does not describe the bastard as wearing Genji’s face.",
+      "replacement": "I could see Yamamoto Genji—or rather, the bastard—grinning.",
+      "severity": "minor",
+      "source": "Line 17"
+    }
+  ],
+  "summary": "The chapter is mostly faithful, but one passage duplicates a fact and another weakens the description of the first strike; one phrase adds an unsupported implication about the Prophet’s appearance.",
+  "version": 1
+}
