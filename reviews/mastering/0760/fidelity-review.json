@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Around two hundred Hunters from the Ares Guild and Peace Guild had come with us.",
+      "defect": "“Around two hundred” makes the count approximate in both directions, while 이백여 명 means more than two hundred. The accepted baseline preserves that quantity.",
+      "id": "F01",
+      "rationale": "The source specifies a count exceeding two hundred; the assembled English can include fewer than two hundred.",
+      "replacement": "More than two hundred Hunters from the Ares Guild and Peace Guild had come with us.",
+      "severity": "minor",
+      "source": "Line 141"
+    }
+  ],
+  "summary": "Two minor fidelity defects: the Hunter count loses the source’s over-200 quantity, and the incoming attack is described twice.",
+  "version": 1
+}

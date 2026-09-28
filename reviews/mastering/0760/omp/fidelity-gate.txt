@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor fidelity defects: the Hunter count loses the source’s over-200 quantity, and the incoming attack is described twice.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 141",
+      "current": "Around two hundred Hunters from the Ares Guild and Peace Guild had come with us.",
+      "defect": "“Around two hundred” makes the count approximate in both directions, while 이백여 명 means more than two hundred. The accepted baseline preserves that quantity.",
+      "replacement": "More than two hundred Hunters from the Ares Guild and Peace Guild had come with us.",
+      "rationale": "The source specifies a count exceeding two hundred; the assembled English can include fewer than two hundred.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 287–289",
+      "current": "A heavy roar of air being split apart bored toward my side along with the monster’s cry. A heavy rush of air bore down on my side. With three Minotaurs skewered on my spear, I reached out with my free hand the instant I sensed it.",
+      "defect": "The incoming attack’s sound and approach are described twice. The Korean gives one attack sound alongside the monster’s cry, then says the narrator reaches out after sensing it.",
+      "replacement": "A heavy roar of air being split apart bored toward my side along with the monster’s cry. With three Minotaurs skewered on my spear, I reached out with my free hand the instant I sensed it.",
+      "rationale": "The second sentence repeats the same approaching rush without a corresponding second event in the source.",
+      "confidence": 0.99
+    }
+  ]
+}

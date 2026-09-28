@@ -2,7 +2,7 @@
 
 “Über, what?”
 
-He had definitely called my name before muttering something, but when I glanced back, Joel Schumacher was already collapsed against a pile of concrete with his head resting on it.
+Schumacher had definitely called my name and then muttered something else. When I glanced back, though, he was already slumped against a pile of concrete, his head resting on it.
 
 *He really gave it everything he had.*
 
@@ -32,13 +32,13 @@ Still, the Skeleton King would be far more useful in the fight. Instead of givin
 
 His reply came back curt.
 
-*There are human eyes watching, so suppress your magical power as much as possible. And when using your power is unavoidable, make absolutely certain that no one notices.*
+*There are humans watching, so I suppress my magical power as much as possible. If I have no choice but to use my powers, I make certain no one sees.*
 
 *Good.*
 
 *Satisfied now?*
 
-*This is enough to make you about middle-school age, not a child.*
+*You’re up to about middle-school age.*
 
 *…How dare you. You’re not even thirty. This body is an elder who has lived for over a hundred years.*
 
@@ -114,7 +114,7 @@ Their cries shook the earth. Watching the countless bulls surge toward us from e
 
 “Can I use a little of my power, then? I think we need an army.”
 
-“If you want to announce that you’re a monster, why not start an internet broadcast? You could rake in virtual gifts with a ‘Skeleton Army Creation’ stream.”
+“If you want everyone to know you’re a monster, why not start a livestream? Do a ‘Create a Skeleton Army’ challenge and you’ll rake in the virtual gifts.”
 
 “Damn it. Too late to ask them to let us through, I suppose?”
 
@@ -136,11 +136,11 @@ The three of us weren’t the only ones who had come to save Munich.
 
 Around two hundred Hunters from the Ares Guild and Peace Guild had come with us. They hadn’t had much chance to contribute against Leviathan, but they were the elite of the elite. Without a hint of hesitation, they readied themselves to meet the enemy.
 
-“Please give us our orders.”
+“Give us our orders.”
 
 Team Leader Choi. The Skeleton King. Even the Hunters who had barely survived the crisis in the middle of their grueling fight.
 
-Everyone was looking at my mouth.
+Everyone was looking to me.
 
 Waiting for my command alone.
 
@@ -152,7 +152,7 @@ Whoooooosh.
 
 The fire dragon coiled in my lower dantian woke and spread through every part of my body.
 
-Taking the crowd’s thunderous roar as my signal, I kicked off the ground with all my strength.
+At the sound of the Hunters’ thunderous roar, I kicked off the ground.
 
 Boom!
 
@@ -162,7 +162,7 @@ No. They hadn’t come to me.
 
 I’d come to them.
 
-Whoosh.
+Haa.
 
 I exhaled, held my breath, and raised the spear I’d been holding at an angle. Powerful Scorching Yang Qi turned to flame along its transparent blade.
 
@@ -276,8 +276,6 @@ As it did now.
 
 Whoooom!
 
-A heavy roar of air being split apart bored toward my side along with the monster’s cry.
-
 A heavy rush of air bore down on my side. With three Minotaurs skewered on my spear, I reached out with my free hand the instant I sensed it.
 
 Thud.
@@ -324,9 +322,9 @@ Wariness had turned to fear, and that fear kept driving it backward.
 
 Whoooom! Crack!
 
-Dozens of Minotaurs that had rushed in from every direction to protect their leader were flung away. At last, after the monsters had been reduced to gruesome heaps of blood and flesh, the path ahead lay wide open.
+Dozens of Minotaurs rushed in from every direction to protect their leader. They flew back as mangled heaps of flesh, leaving the path ahead wide open.
 
-I shook the blood from my spearhead and slowly continued.
+I shook the blood from my spearhead.
 
 “You came here however the fuck you pleased. You don’t get to leave that way.”
 
@@ -334,7 +332,7 @@ I shook the blood from my spearhead and slowly continued.
 
 Boom!
 
-The belated cry was swallowed by the thunderous sound exploding from my toes.
+The thunder of my foot striking the ground swallowed its belated cry.
 
 I shot toward it like a beam of light, the distance vanishing between us. The Minotaur Lord gritted its teeth and hurled its double-bladed axe.
 
