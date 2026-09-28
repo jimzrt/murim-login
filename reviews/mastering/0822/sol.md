@@ -16,11 +16,11 @@ They thought nothing like it would ever happen again in human history.
 
 No—they hoped it wouldn’t. Please.
 
-But at this very moment, in an unnamed canyon in the Rub’ al Khali Desert, those who had been piling up blood and bodies without end had no choice but to admit it.
+But at that moment, in an unnamed canyon in the Rub’ al Khali Desert, those who had been piling up blood and bodies without end had no choice but to admit it.
 
-The common sense they had accepted had crumbled once more.
+Their idea of what was possible had crumbled once more.
 
-*Rooooar.*
+*Rooooom.*
 
 The rain of steel lashing through the darkness stopped. The whirlwind that had seemed ready to swallow the entire desert slowly died away.
 
@@ -38,13 +38,13 @@ The Hunters stared in awe and elation.
 
 The fanatics trembled with fear and hatred.
 
-And among all the people gathered there, the one being who wasn’t human spat out the one word they had all wanted to say.
+And among all those gathered there, the one being who wasn’t human gave voice to the word on everyone’s mind.
 
 “Monster.”
 
 The Skeleton King’s mouth curled as he looked at the man before him.
 
-“I told you, didn’t I? Let’s finish this before someone scarier than me shows up.”
+“I told you, didn’t I? We should finish this before someone scarier than me shows up.”
 
 “……!”
 
@@ -54,7 +54,7 @@ He had already been struggling against the Skeleton King, but now his injuries w
 
 “How… How can anyone do that?”
 
-The man muttered in a dazed voice.
+He sounded dazed.
 
 His bulging eyes stared past the whirlwind, at the blood and corpses it had left behind.
 
@@ -96,23 +96,23 @@ An ordinary Hunter would have struggled even to breathe beneath that pressure. T
 
 To the undead, killing intent was more familiar than anything else.
 
-Simply by existing, he was already in contact with death.
+Simply by existing, he stood close to death.
 
 The man’s aura was no different.
 
 *Half as strong as that guy, if I’m generous.*
 
-Thinking of *that guy*, shimmering in the distance like a mirage, the Skeleton King let out a quiet snort.
+Thinking of *that guy*, shimmering in the distance like a mirage, the Skeleton King let out a quiet laugh.
 
 The world called beings like him monsters. But the real monster was someone else.
 
-“Why did you have to do something like this? If you’d stayed quietly tucked away in some corner of the desert, you wouldn’t have made that guy angry.”
+“Why did you have to do all this? If you’d stayed tucked away in some corner of the desert, you wouldn’t have made him angry.”
 
-“……God, God chose us. The great God Himself sent the Prophet to lead His warriors to the promised land!”
+“……God chose us. God Himself chose us! He sent the Prophet to lead His warriors to the promised land!”
 
 “The promised land?”
 
-The Skeleton King glanced around as he echoed the words.
+The Skeleton King looked around.
 
 Corpses lay in every direction.
 
@@ -138,9 +138,9 @@ Countless faces he had encountered since coming into the world flashed before hi
 
 “They fought countless battles and kept dying. But they didn’t fight only for the god they believed in.”
 
-They had families and friends. People they loved. Values worth protecting.
+They had families and friends. People they loved. Things worth protecting.
 
-“I couldn’t understand those stupid humans. I couldn’t even accept that there were different kinds of death.”
+“I couldn’t understand those stupid humans. I couldn’t even accept that there might be different kinds of death.”
 
 But not anymore.
 
@@ -160,7 +160,7 @@ But there were others who burned like torches and died away like wildfires.
 
 People who went forward prepared to die.
 
-People who stood their ground and fought for others, for a better world, even in the face of death.
+People who stood their ground against death for others, for a better world.
 
 The world called them heroes.
 
@@ -170,11 +170,11 @@ It called their deaths sacrifices.
 
 “……!”
 
-“If you have a mouth, then answer me. You foolish people who brought calamity upon the world after being deceived by an illusion.”
+“If you have a mouth, answer me. You fools who were taken in by a falsehood and brought calamity upon the world.”
 
 *Kiiiiing.*
 
-The man swallowed a breath as the fading golden crown above the Skeleton King’s brow began to shine.
+The man caught his breath as the fading golden crown above the Skeleton King’s brow began to shine.
 
 His wandering gaze passed over the countless faces surrounding him.
 
@@ -186,15 +186,15 @@ And not just from the Hunters.
 
 Even the fanatics under his command were wavering.
 
-Some of them looked at him with eyes clouded by resentment and confusion, then turned away. The sight struck the man as though something solid inside him had suddenly collapsed.
+They looked at him with resentment and confusion in their eyes, then turned their heads away. The sight struck him as though something solid inside him had come crashing down.
 
-“I, I… I…”
+“I… I…”
 
 He wanted to speak.
 
-He wanted to shout at the people wavering before him.
+He wanted to shout at those whose faith was wavering.
 
-Tell them not to be taken in by a demon’s silver tongue.
+Tell them not to fall for a demon’s words.
 
 Tell them not to dare question the great God and His Prophet.
 
@@ -206,7 +206,7 @@ In his mind, gone blank, the demon’s words from a moment ago repeated without 
 
 The man clenched his teeth without realizing it. Pain shot through a broken molar, but even that felt distant, like a dream.
 
-The corpses of his followers filling every direction.
+So did the corpses of his followers filling the ground around him.
 
 So did the sticky pool of blood at his feet.
 
@@ -236,7 +236,7 @@ It was at that very moment.
 
 *Step.*
 
-In a world where everything had stopped, a single person’s footfall rang out.
+In a world where everything seemed to have stopped, a single person’s footstep rang out.
 
 At the same time, a calm voice reached the man’s ears.
 
@@ -278,15 +278,15 @@ And none of it had been a natural disaster.
 
 People had caused it.
 
-“There is no God. And even if there is, He wouldn’t be an idiot who watches over trash like you.”
+“There is no God. And even if there is, He’s not stupid enough to look after trash like you.”
 
-Jin Taekyung spat out each word as he looked across the countless fanatics.
+Jin Taekyung forced out every syllable as he took in the countless fanatics before him.
 
 Some staggered in shock. Others wept, belatedly realizing what they had done.
 
 But if a few short words could have changed their hearts, those disasters would never have happened.
 
-“How dare you, you wicked heretic!”
+“How dare a wicked heretic say such a thing!”
 
 “God is great!”
 
@@ -330,7 +330,7 @@ Of the hundred or so fanatics who had charged at once, half were torn to pieces 
 
 *Thud, thud, thud.*
 
-Flesh, blood, and bone fragments filled the empty spaces where screams had been.
+Flesh, blood, and fragments of bone filled the silence where their screams had been.
 
 Hamid Shah Masoud could only stare, eyes wide, as his sword hilt slipped from his hand.
 
@@ -342,7 +342,7 @@ Not the Hunters. Not the fanatics.
 
 Not the Skeleton King, the Hero’s Sword hanging at his side, or Magic Johnson, standing upright in midair.
 
-At this moment, only one person could speak.
+At that moment, only one person could speak.
 
 He alone could pass judgment or grant forgiveness.
 
@@ -358,19 +358,19 @@ A desperate plea.
 
 Jin Taekyung looked down at him without a flicker in his eyes. Then he reached out.
 
-A searing heat gathered at the tips of his bloodstained fingers.
+Heat gathered at the tips of his bloodstained fingers.
 
 *Thwip. Thud.*
 
 A single blast of hot wind.
 
-That was all. The man fell quietly and never got up again.
+That was all. The man fell without resistance and never rose again.
 
 *At last.*
 
 Jin Taekyung let out the breath he had been holding and lifted his head.
 
-*Clang. Thud-thud.*
+*Clang. Thud-thud!*
 
 Countless still-sharp weapons fell, and knees sank into the blood-soaked sand.
 

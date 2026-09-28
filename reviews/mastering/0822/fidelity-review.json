@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "An eerie noise filled the space for more than ten meters around him.",
+      "defect": "“More than ten meters” changes the source’s approximate distance into a lower bound.",
+      "id": "F01",
+      "rationale": "The source says 반경 십여 미터, meaning a radius of roughly ten meters, not a radius exceeding ten meters.",
+      "replacement": "An eerie noise filled a radius of about ten meters around him.",
+      "severity": "minor",
+      "source": "Line 327"
+    },
+    {
+      "confidence": 0.88,
+      "current": "The Skeleton King had watched humans more closely than any other monster had.",
+      "defect": "“More closely” suggests greater attentiveness; the source describes watching humans from a closer physical distance.",
+      "id": "F02",
+      "rationale": "가까운 곳에서 means “from a close place.” The next lines separately establish that he was with them.",
+      "replacement": "The Skeleton King had watched humans from closer than any other monster had.",
+      "severity": "minor",
+      "source": "Line 151"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, with one radius-quantity shift and one loss of physical-proximity meaning.",
+  "version": 1
+}
