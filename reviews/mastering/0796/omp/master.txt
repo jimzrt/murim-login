@@ -12,7 +12,7 @@ The phenomenon sometimes occurred during a total lunar eclipse or when the atmos
 
 The scattered raindrops grew heavier.
 
-A downpour that seemed out of place in this barren land, where the annual rainfall was less than 250 millimeters, soon blanketed the whole area.
+A downpour out of place in this barren land, where annual rainfall was less than 250 millimeters, soon swept across the desert.
 
 Across the endless sand and the few trees scattered through it.
 
@@ -22,7 +22,7 @@ And over the head of someone invisible to the naked eye.
 
 The rain struck an unseen barrier and bounced away without touching him.
 
-The Prophet, crossing the vast desert behind an invisible barrier, abruptly looked up at the sky.
+The Prophet was crossing the vast desert when he suddenly looked up.
 
 The sky was dark and noisy. Storm clouds that had looked ominous for days were unleashing rain and thunder with furious force, as though enraged by what had happened on this land.
 
@@ -30,13 +30,13 @@ The Prophet paid them no mind. He studied the sky—or rather, opened his senses
 
 *Rumble. Rrrumble.*
 
-Thunder boomed ceaselessly overhead. The Prophet paused to focus on the sounds around him, then muttered,
+Thunder rolled ceaselessly overhead. He stopped walking and listened. Then he muttered,
 
 “They’re gone.”
 
 The sharp cries of eagles that had echoed in the distance were gone.
 
-The persistent flying beasts some pursuer must have sent after him had finally given up and turned back.
+The persistent birds some pursuer had set on him had finally given up and turned back.
 
 *They were a nuisance. Good riddance.*
 
@@ -74,7 +74,7 @@ He was growing so quickly that no one could predict his limits. So quickly that 
 
 His fingers strayed to something, drawing out a faint metallic sound.
 
-Forcing down the impatience welling up inside him, The Prophet murmured,
+He forced down the impatience rising inside him and murmured,
 
 “Just a little more. Just a little more, and it’ll be complete.”
 
@@ -86,7 +86,7 @@ That left The Prophet only one option.
 
 *Hunt.*
 
-But time was short. To complete his plan successfully, he had to make it bigger and bolder than before.
+But time was short. To bring his plan to completion, he needed to operate on a larger scale. Take greater risks.
 
 For example…
 
@@ -122,7 +122,7 @@ The only person who could fill the void left by the unconscious Cheon Taemin. Th
 
 But people shouldn’t forget his temper, either. Sometimes—no, fairly often—he acted without a thought for the consequences. And he had the strength to back it up.
 
-The Self-Defense Forces Hunters, their knees weak at the Supreme One’s reply—practically a murder threat—had desperately tried to talk Yamamoto down. Even after climbing into an evacuation vehicle, Yamamoto Genji still couldn’t contain his anger.
+The Self-Defense Forces Hunters had gone weak at the knees when that reply came through. It sounded less like an order than advance notice of a murder. They’d desperately talked Yamamoto into boarding a transport vehicle, but he’d been fuming ever since.
 
 “Konoyarō. How dare a Chōsenjin…!”
 
@@ -134,7 +134,7 @@ They didn’t much like Yamamoto’s attitude themselves. But if word reached th
 
 *No. Absolutely not.*
 
-The Defense Minister, who had played a major role in the Leviathan incident—including preparing a kamikaze operation—was now in a federal prison after his connection to Michael Silbert had come to light. And the kind but stupid Prime Minister couldn’t even go a few days without spewing more shit.
+The Defense Minister, who had made a name for himself during the Leviathan incident by preparing a kamikaze operation, was now in a federal prison. His connection to Michael Silbert had come to light. And the kind but stupid Prime Minister couldn’t go a few days without spewing more shit.
 
 > [Japanese Prime Minister Koizumi: “People of Yamato, fight for Jin-sama, the great shogun who defeated Susanoo for us!”]
 >
@@ -150,17 +150,17 @@ The Defense Minister was set to spend his twilight years in federal prison, whil
 
 Even Korean netizens, who’d been holding back because of the tense mood, had started saying things like this:
 
-> **Top comment:** I don’t really want to bring this up when things are already tense, but… do those guys have something against Japan?
+> **Top comment:** Things are pretty tense lately, so I don’t really want to bring this up, but… do those guys have something against Japan?
 >
 > └ The Japanese Prime Minister and Defense Minister are anti-Japan, lmao. Fuck.
 >
-> └ If you ask me, they must’ve had something going on in a past life.
+> └ I bet they were something else in a past life.
 >
-> └ One of them was a turtle ship in a past life, and the other was a lunchbox bomb. Seriously, it’s not easy to spew that much shit.
+> └ One was a turtle ship and the other was a lunchbox bomb.[^1] Seriously, it’s not easy to fuck up this badly.
 >
-> └ I wonder if this is how the independence fighters felt when they saw Mutaguchi Renya…
+> └ Is this how the independence fighters felt when they looked at Mutaguchi Renya?[^2]
 >
-> └ Shadow independence army. Agreed.
+> └ Shadow independence fighters. Agreed.
 >
 > └ Sushi country: “Uh, what are those guys doing?”
 
@@ -178,7 +178,7 @@ He’d avoided Leviathan because he was afraid. Then he’d made up a personal e
 
 That might have kept him alive and in one piece. But once it was all over, something worse than death had been waiting for him.
 
-> Those guys really are something. That S-rank Hunter hasn’t shown his face once, even now, lmao. What was his name again?
+> Those guys really are something. That S-rank Hunter still hasn’t shown his face, lmao. What was his name again?
 >
 > └ Genji.
 >
@@ -188,13 +188,13 @@ That might have kept him alive and in one piece. But once it was all over, somet
 >
 > └ Are you guys insane?
 >
-> └ Why are you talking about a dead game from ages ago, you fossils?
+> └ Why are you talking about some dead game from ages ago, you fossils?
 >
-> └ It’s true, though? Look it up if you don’t believe me.
+> └ It’s true, though. Look it up if you don’t believe me.
 >
 > └ ?
 >
-> └ It’s real; he actually has an older brother named Yamamoto Hanzo.
+> └ Holy shit, it’s real. He has an older brother named Yamamoto Hanzo.
 >
 > └ How is this real?
 >
@@ -204,19 +204,19 @@ That might have kept him alive and in one piece. But once it was all over, somet
 >
 > └ LMAO
 >
-> └ Goddamn, that really hurts my pride.
+> └ Fuck, I hate that I laughed.
 >
-> └ wwwwwww I was about to get mad, but I laughed without even realizing it?
+> └ wwwwwww I was about to get mad, but I laughed without meaning to.
 >
-> └ “Don’t laugh at him too much, okay? I thought it was kind of funny, though.” wwwww
+> └ “Don’t laugh at him too much, okay?” But that was pretty funny. wwww
 >
 > └ Even wasabi’s laughing, lmao.
 >
-> └ Lmao, wasabi showed up, but where’s the black bean sauce?
+> └ Lmao, wasabi showed up. Where’s the black bean sauce?
 >
-> └ It’s now confirmed that Jin Taekyung is from Shanxi Province, China. After examining old historical records, renowned historians at Peking University discovered the Jin Family of Taiyuan (see more)
+> └ It’s now confirmed that Jin Taekyung is from Shanxi Province, China. Renowned historians at Peking University examined old records and discovered a martial family called the Jin Family of Taiyuan (see more)
 >
-> └ ;;;; The second they see an opening, these bastards launch straight into their Jin-is-Chinese campaign.
+> └ ;;;; The second these bastards see an opening, they launch a Jin-is-Chinese campaign.[^3]
 >
 > └ Didn’t the Red Guards destroy their old records?
 >
@@ -224,9 +224,9 @@ That might have kept him alive and in one piece. But once it was all over, somet
 >
 > └ So did Genji—or was it Hanzo—actually go to the Middle East this time?
 >
-> └ Yeah. I heard they accepted him since he’s an S-rank Hunter, at least.
+> └ Yeah. I heard they took him since he’s an S-rank Hunter.
 >
-> └ Isn’t he just going to sit out the fighting? Doesn’t seem like he’d be much help anyway. They should just send him around to entertain the troops.
+> └ Isn’t he just going to sit out the fighting? Doesn’t seem like he’d help much anyway. Send him around to entertain the troops.
 >
 > └ Captain Wasabi.
 
@@ -234,37 +234,37 @@ That might have kept him alive and in one piece. But once it was all over, somet
 
 Remembering the comments, Yamamoto shuddered.
 
-Swift Retreat. Captain Wasabi.
+Swift No-Show. Captain Wasabi.
 
-The more he turned those words over, like awls digging into his lungs, the more his rage made him tremble.
+The words dug into him like awls. The more he thought about them, the angrier he got.
 
 And on top of that…
 
 *That rude reply? In front of the Self-Defense Forces?*
 
-Jin Taekyung’s warning, which was practically a threat—and the way the Self-Defense Forces Hunters had hurried to hold Yamamoto back instead of getting angry at such rudeness—had stripped away every last bit of Yamamoto Genji’s pride.
+Jin Taekyung’s warning had been a threat. Worse, instead of getting angry on his behalf, the Self-Defense Forces Hunters had hurried to talk him down. Together, they’d stripped away the last of his pride.
 
 *If I go back now, what does that make me?*
 
-By all accounts, he was an S-rank Hunter. But everyone who’d heard the rumors looked down on him. He’d scoured the desert with everything he had, determined to change how they saw him, and it had looked as if he was about to get results.
+He was indisputably an S-rank Hunter, yet everyone who knew the rumors looked down on him. He’d scoured the desert, desperate to change that, and had thought he was close to finding something.
 
-And now, an emergency withdrawal order.
+Then came the withdrawal order.
 
 Yamamoto had been muttering curses under his breath nonstop when a suspicion struck him.
 
 *That Chōsenjin… Could it be? No. Of course it is.*
 
-That was it. All of this was Jin Taekyung’s scheme to stop him from earning credit. The anti-Japanese sentiment that had started long ago had followed him all the way here.
+Jin Taekyung was trying to keep him from winning any glory. The anti-Japanese sentiment that had begun long ago had followed him all the way here.
 
 Having reached a conclusion that was practically a delusion, Yamamoto barked,
 
 “Oi, sutoppu!”
 
-At his sudden order to stop, the evacuation vehicle ground to a halt.
+The transport vehicle stopped dead.
 
-Unlike before they’d set out, when they’d strongly objected to disobeying the withdrawal order, the Self-Defense Forces Hunters now meekly followed his command. Yamamoto’s face brightened.
+Before they’d set out, the Self-Defense Forces Hunters had vehemently opposed disobeying the withdrawal order. Now they’d obeyed him without a word. Yamamoto’s face brightened.
 
-*That’s right. I’m the beacon of the great Yamato people! The one they follow isn’t that Korean—it’s me…!*
+*That’s right. I’m a beacon of the great Yamato people! They don’t follow that Korean. They follow me—!*
 
 The thought broke off.
 
@@ -272,7 +272,7 @@ The Self-Defense Forces Hunters looked bewildered. At the same instant, a realiz
 
 “Wait. Who’s in the driver’s seat?”
 
-One of the Self-Defense Forces Hunters blinked and answered,
+One of the Hunters blinked.
 
 “No one.”
 
@@ -289,10 +289,6 @@ And why they could no longer hear the rain that had been pouring all around them
 “Ambu—!”
 
 “Ambush!”
-
-“We’re under attack!”
-
-And at the same time—
 
 *BOOM!*
 

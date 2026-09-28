@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Ambu—!”\n\n“Ambush!”\n\n“We’re under attack!”",
+      "defect": "The source has two shouted lines, but the assembled English has three. “We’re under attack!” adds a reaction not present in the source.",
+      "id": "F01",
+      "rationale": "The source contains only “습겨억!” and “습격이다!” before the explosion.",
+      "replacement": "“Ambu—!”\n\n“Ambush!”",
+      "severity": "minor",
+      "source": "Lines 323–325"
+    }
+  ],
+  "summary": "One unsupported extra shout appears in the ambush beat.",
+  "version": 1
+}
