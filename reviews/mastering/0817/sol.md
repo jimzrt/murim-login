@@ -76,7 +76,7 @@ Less than a second had passed.
 
 Yet Jin Taekyung had found where Blink had taken it and crossed the dozen or so meters between them.
 
-*You’ve got to be fucking kidding me…!*
+*This crazy…!*
 
 The Doppelganger swallowed the curse rising to its lips.
 
@@ -176,7 +176,7 @@ The Doppelganger had no time to react.
 
 Its mouth fell open as tremendous pain shot through its wrist.
 
-Siegfried Bassman had been a great Grand Mage in life, but Jin Taekyung’s terrifying strength couldn’t be stopped by any magic in his memories.
+Siegfried Bassman had been a great Grand Mage in life, but none of the spells in his memories could stop Jin Taekyung’s terrifying strength.
 
 *Crreeeak!*
 
@@ -196,7 +196,7 @@ After this terrifying feeling of weightlessness would come the impact. Its whole
 
 *No!*
 
-Siegfried Bassman was the most precious of all the lives it had absorbed.
+Siegfried Bassman was among the most precious lives it had absorbed.
 
 Hunting a publicly known S-rank Hunter was difficult enough. A Grand Mage was an especially valuable prize, granting it the versatile power of magic.
 
@@ -318,19 +318,19 @@ The Doppelganger looked down at him with all the authority befitting a prophet.
 
 God and Prophet were names that commanded absolute obedience.
 
-But Amir asked again, looking bewildered.
+Yet Amir looked bewildered.
 
 “Jin Taekyung?”
 
 “Why? Are you afraid of him?”
 
-“No. But… hadn’t you already subdued him, Prophet?”
+“No. But… have you not already subdued him, Prophet?”
 
 The Doppelganger frowned.
 
 “What do you mean? You couldn’t have seen what happened.”
 
-“Yes. But you personally subdued him and brought him here.”
+“No. But you subdued him yourself and brought him here.”
 
 “What?”
 

@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "followers it had spent decades cultivating",
+      "defect": "The translation omits the source’s emphasis that the followers were painstakingly cultivated.",
+      "id": "F01",
+      "rationale": "공들여 양성해 낸 explicitly conveys the care and effort invested in raising them; the accepted baseline preserves that detail.",
+      "replacement": "followers it had spent decades carefully cultivating",
+      "severity": "minor",
+      "source": "Lines 233, 245"
+    },
+    {
+      "confidence": 0.87,
+      "current": "God and Prophet were names that commanded absolute obedience.",
+      "defect": "“Commanded absolute obedience” adds an explicit obedience claim not stated in the source.",
+      "id": "F02",
+      "rationale": "신. 그리고 선지자라는 이름은 절대적이다 says that God and the name Prophet are absolute; it does not specify obedience.",
+      "replacement": "The names God and Prophet were absolute.",
+      "severity": "minor",
+      "source": "Lines 327–328"
+    },
+    {
+      "confidence": 0.91,
+      "current": "His eyes slowly opened.",
+      "defect": "“Slowly” changes the manner of opening his eyes; the source describes him opening them groggily.",
+      "id": "F03",
+      "rationale": "부스스 눈을 떴다 conveys a groggy, bleary awakening. The accepted baseline preserves that manner with “blearily.”",
+      "replacement": "He blearily opened his eyes.",
+      "severity": "minor",
+      "source": "Line 347"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with minor shifts in characterization and emphasis.",
+  "version": 1
+}
