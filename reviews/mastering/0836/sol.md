@@ -8,7 +8,7 @@ But one thing was certain: it was enough time for the swift ship the Yangtze Riv
 
 *It’s been a while since I was here.*
 
-I murmured to myself and looked at the scene spread out before me.
+I looked out at the scene before me.
 
 A stretch of the Yangtze so vast it looked like the sea. As the sun went down, the river had turned black, its surface streaked with lights of every color.
 
@@ -26,7 +26,7 @@ Namho narrowed his eyes. Hyuk Mujin supplied the answer to what those countless 
 
 Namho snorted so hard I wondered if he’d done it through his ass instead of his nose. Then he gave a hollow laugh.
 
-“Have you ever seen such a fool? You’ve already forgotten what kind of man this old man is.”
+“What a fool. Have you already forgotten what kind of man this old man is?”
 
 He was right. Namho wasn’t just an ordinary old man from Nanman.
 
@@ -38,7 +38,7 @@ It might all be in the distant past now, but Namho had once been one of the Hidd
 
 Hyuk Mujin scratched the back of his head sheepishly. Namho nodded at him with a solemn expression.
 
-“I’ll forgive you. It’s only natural—you find this old man so sociable and approachable.”
+“This old man is so sociable and approachable that it’s understandable.”
 
 “You are approachable. You remind me of Grandpa Hong, who lived next door when I was a kid.”
 
@@ -60,19 +60,19 @@ Namho glared at Hyuk Mujin with exactly that look, then let out a deep sigh.
 
 “Yes. It made me think how little the Central Plains have changed.”
 
-Namho gazed at the ships gliding along the Yangtze, their lights bright in the distance, and continued slowly.
+Namho watched the brightly lit boats gliding along the Yangtze in the distance and continued.
 
 “Some people risk their lives fighting to set a collapsing world back on its feet. Others float pleasure boats and lose themselves in indulgence. How could I not find it absurd? How could I not feel hollow?”
 
 “Ah.”
 
-“I’m not blaming you, young as you are. Nor am I telling you to be angry with them. But there’s just one thing I’d like to ask of you.”
+“I’m not blaming you. You’re still so young. Nor am I asking you to be angry with them. But there is one thing I’d ask of you.”
 
 Hyuk Mujin had fallen silent. Namho looked at him and the others one by one, then added bitterly, “Whatever you see, please don’t lose heart. As long as you have the will, you can get back up no matter how many times you fall. But once your will breaks, you can accomplish nothing.”
 
 This wasn’t the Namho we usually saw.
 
-This was advice from a veteran who’d weathered the storm of the Great Faction War—and from an old man.
+This was advice from someone who’d weathered the storm of the Great Faction War. From an old man.
 
 And I wasn’t imagining the way his gaze lingered on me in particular.
 
@@ -80,9 +80,9 @@ And I wasn’t imagining the way his gaze lingered on me in particular.
 
 I was young even by modern standards. In Murim, people had all the more reason to worry about me.
 
-I’d only started making a name for myself in Murim less than two years ago. And on top of that, I’d barely passed twenty.
+I was a newcomer who’d only started making a name for himself less than two years ago. I’d barely passed twenty.
 
-To an old martial-world veteran, Jin Taekyung of the Jin Family of Taiyuan was far too young to be expected to have matured mentally.
+To an old martial-world veteran, Jin Taekyung of the Jin Family of Taiyuan must have seemed far too young to be expected to have matured mentally.
 
 Of course…
 
@@ -90,7 +90,7 @@ Of course…
 
 If someone asked whether I’d grown up, I’d probably say no. I still acted like a kid now and then—or pretty often, honestly—and let my emotions get the better of me.
 
-But at least I wasn’t so easily shaken that the people around me needed to worry.
+But I wasn’t so easily shaken that the people around me needed to worry.
 
 No. I’d been through too much for that.
 
@@ -112,15 +112,15 @@ Or they’re the sort who don’t care if tens of thousands die, as long as it h
 
 Once, every one of those things hurt.
 
-But as time passed, my heart—scratched raw by countless strangers whose faces I’d never seen—grew calloused and hard. The pain that used to pierce deep into me eventually became familiar.
+But over time, the heart that countless strangers had scratched raw grew calloused. Even the pain that had once felt like it pierced right through me became familiar.
 
 Yeah. That was enough.
 
-I had too much on my shoulders to let every little thing wound me and make me suffer.
+I had too much on my shoulders to let every little thing wound me.
 
 “They’re having a good time.”
 
-I finished thinking, gave a quiet laugh, and said it aloud. Namho’s eyes widened at my words. Then he, too, gave a bitter smile.
+I gave a quiet laugh as I said it. Namho’s eyes widened. Then he, too, gave a bitter smile.
 
 “Yes. They are.”
 
@@ -130,7 +130,7 @@ The Blazing Flame Divine Dragon Jin Taekyung wasn’t just some kid overflowing 
 
 “Let’s go. The moment we reach the landing, we move out. No dawdling.”
 
-At my order, Taishan shot his hand up.
+Taishan shot his hand up.
 
 “Taishan wants five-spice pork.”
 
@@ -168,7 +168,7 @@ His voice drooped. Sama Pyo gave him a sympathetic look. Namho, looking disappoi
 
 Messing with a man’s name like that.
 
-Watching the river pirate’s face as Namho stubbornly mangled his name until he didn’t even have the energy to argue, I felt sorry for him.
+The river pirate looked too worn down to argue with Namho anymore. It made my heart ache for him.
 
 I patted his shoulder sympathetically.
 
@@ -188,7 +188,7 @@ Sudal’s—or Sea Otter’s, or Heimdall’s—unfocused eyes flashed. Whether 
 
 “……”
 
-Judging by his reaction, they really must have had a rough time.
+Judging by that reaction, they really had suffered.
 
 Then again, with the Fire Dragon Pavilion members being impossible to control, it was no wonder.
 
@@ -198,7 +198,7 @@ Even Ju Hwaran, the only woman in our party and the only sane one, was showing s
 
 “……”
 
-At this point, even hearing it scared me.
+Honestly, she was starting to scare me too.
 
 Her lips kept moving as she muttered, but she had the diction of a Murim Alliance announcer and the projection of an opera singer. Every word hammered into my ears like a nail.
 
@@ -218,9 +218,9 @@ I asked with sincere concern, “I knew this would happen. Have your qi and bloo
 
 “What? No. I’m perfectly fine—”
 
-“I’ll do whatever I can. Don’t hold it in—tell me what’s going on. Your complexion’s awfully dark. And you’re looking off in a completely different direction. You’re a wreck.”
+“I’ll do whatever I can. Don’t hold it in; tell me what’s wrong. Your complexion’s awfully dark, and your eyes are looking in completely different directions. You’re a wreck.”
 
-“My face has looked like this since I was born. And my eyes have been like this ever since my father beat me when I was fifteen.”
+“My face has looked like this since I was born. My eyes have been like this since my father hit me when I was fifteen.”
 
 “Pardon?”
 
@@ -242,13 +242,13 @@ But with the composure of a Supreme Peak master, I pointed naturally at the fire
 
 The ships? What about them?
 
-I lowered my eyes without thinking.
+I looked down without thinking.
 
 The pleasure boats had come much closer. At last, I understood why Sudal had hurried over.
 
 “Those are…”
 
-“They’re not all pleasure boats. No wonder there were so many more lights than usual.”
+“They’re not all pleasure boats. I thought there were more lights than usual.”
 
 He was right.
 
@@ -266,7 +266,7 @@ That stopped me for a moment, but it didn’t really matter.
 
 Military vessels, my ass. What was there to worry about?
 
-The Yangtze River Channel League’s flag was flying from the swift ship I was on, and I knew perfectly well that this huge band of river pirates had long ago greased the officials’ palms and made friends in the right places.
+The Yangtze River Channel League’s flag flew from our swift ship. I knew this enormous band of river pirates had spent years greasing officials’ palms and cultivating friendly relations.
 
 Or at least, I thought I knew.
 
@@ -288,6 +288,6 @@ The river pirate leader, by now stripped of his name entirely, gave a hollow lau
 
 The moment I asked again, dumbfounded—
 
-*BOOOOM!*
+*BOOM! BOOM! BOOM!*
 
 About a hundred cannon barrels belched fire at once.
