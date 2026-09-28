@@ -143,15 +143,17 @@ table.system-window td {
   line-height: 0;
 }
 
-.system-edge-left {
+/* These need the table and cell in the selector. The plain td rule sets
+   border: 0, and that shorthand was winning over a single class. */
+table.system-window td.system-edge-left {
   border-left: 12px solid #e6c86a;
 }
 
-.system-edge-right {
+table.system-window td.system-edge-right {
   border-right: 12px solid #e6c86a;
 }
 
-.system-base {
+table.system-window td.system-base {
   border-bottom: 12px solid #e6c86a;
   font-size: 0;
   line-height: 0;
