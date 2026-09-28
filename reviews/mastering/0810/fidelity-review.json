@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "It’s one of the ones that fled the battle earlier.",
+      "defect": "The source says the newly appeared Ant Lion had larger pincers and stronger mana than any Ant Lion Jin knew. The assembled copy omits both details.",
+      "id": "F01",
+      "rationale": "The source explicitly describes the monster’s unusually large pincers and powerful mana before Jin identifies it as one of the earlier escapees.",
+      "replacement": "It’s one of the ones that fled the battle earlier. Its pincers were larger and its mana stronger than those of any Ant Lion I knew.",
+      "severity": "minor",
+      "source": "Korean lines 197–199"
+    }
+  ],
+  "summary": "One source-specific physical and power detail is missing from the assembled copy.",
+  "version": 1
+}
