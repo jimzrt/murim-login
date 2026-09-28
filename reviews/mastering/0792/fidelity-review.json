@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "They had magical power to carry them on the wind instead of feathers, and though they’d lost the life within them, their vitality would never run dry.",
+      "defect": "The source explicitly says the eagles beat their wings vigorously before describing their magical power and vitality. The assembled English drops that physical action, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "독수리들은 힘차게 날갯짓했다 means the eagles beat their wings with strength.",
+      "replacement": "The eagles beat their wings with all their strength. They had magical power to carry them on the wind instead of feathers, and though they’d lost the life within them, their vitality would never run dry.",
+      "severity": "minor",
+      "source": "Korean line 179"
+    },
+    {
+      "confidence": 0.91,
+      "current": "But the Skeleton King’s words were the opposite of reassuring.",
+      "defect": "The source contrasts the Skeleton King's words with the still, apparently empty desert; it does not say his words were reassuring or not reassuring.",
+      "id": "F02",
+      "rationale": "그와는 상반되는 refers to the contrast between the desert's stillness and the King's statement that they had found the search squad.",
+      "replacement": "Yet the Skeleton King’s words ran contrary to the stillness around them.",
+      "severity": "minor",
+      "source": "Korean line 35"
+    },
+    {
+      "confidence": 0.87,
+      "current": "Holy shit. The man had presence.",
+      "defect": "This shifts the narrator's reaction from Hagel's audacity or nerve to his presence. The source's blunt, impressed exclamation is about his outrageous boldness.",
+      "id": "F03",
+      "rationale": "미친 패기 보소 conveys an impressed reaction to Hagel's audacious nerve, not simply his presence.",
+      "replacement": "Holy shit. The man had some nerve.",
+      "severity": "minor",
+      "source": "Korean line 305"
+    }
+  ],
+  "summary": "The assembled copy is mostly faithful, but it omits a physical action and shifts two source details.",
+  "version": 1
+}

@@ -4,23 +4,17 @@
 
 Xiao Shen turned at the words but saw nothing unusual. The Skeleton King did.
 
-Even though Magic Johnson’s illusion magic had given him a human appearance, he was fundamentally a monster.
+Magic Johnson’s illusion magic might have made him look human, but he was a monster at his core—and one of the highest-ranking undead monsters at that.
 
-And not just any monster—one of the highest-ranking undead.
-
-The sensation gripping the Skeleton King at that moment was something connected to the very source of his power.
+What had caught his attention now was connected to the very source of his power.
 
 *Damn it. This is…*
 
-There was no doubt.
+There was no mistake. Faint as it was, he could feel it.
 
-The feeling was faint, but unmistakable.
+Beneath a dark sky that swallowed even the moonlight, death qi was dispersing across the endless desert.
 
-Beneath a dark sky that swallowed even the moonlight, he sensed the energy of death scattering across the endless desert.
-
-There wasn’t a single drop of blood or a corpse in sight, but the Skeleton King recognized the energy stirring his instincts from beyond the darkness: death qi.
-
-He knew, too, what had happened to the search squad that had suddenly gone silent about an hour ago.
+Not a drop of blood or a single body was in sight. But the Skeleton King recognized the energy beyond the darkness that stirred his instincts. He knew what fate had befallen the search squad that had suddenly gone silent about an hour ago.
 
 “Young human brat.”
 
@@ -30,9 +24,7 @@ He knew, too, what had happened to the search squad that had suddenly gone silen
 
 “…!”
 
-The desert was still, without a trace of anyone. But the Skeleton King’s words were the opposite of reassuring.
-
-Xiao Shen finally understood what was happening. His face stiffened as he nodded, and the Skeleton King started walking, following his instincts.
+The desert was silent, without a trace of anyone. Xiao Shen looked from it to the Skeleton King and finally understood. His face stiffened as he nodded, and the Skeleton King followed his instincts into the desert.
 
 *Crunch. Crunch.*
 
@@ -44,7 +36,7 @@ The next moment—
 
 *Fwoosh!*
 
-A section of the desert, stretching out like an endless sea, surged into the air.
+A section of the desert rose into the air.
 
 With a single gesture, the Skeleton King sent out a vast surge of magical power that held the sand aloft. Beneath it lay twenty bodies. At the sight of them, he froze.
 
@@ -76,17 +68,19 @@ The Skeleton King stared into a distant stretch of pitch-black desert, then turn
 
 He clicked his tongue.
 
-“I’m not sure I can protect anyone.”
+“I’m not very good at protecting someone else.”
 
 “…?”
 
 “Hmm.”
 
-He looked Xiao Shen up and down. Then, with a sigh, he said, “Listen, young human brat. I’m giving you two missions.”
+The Skeleton King looked Xiao Shen up and down, then sighed.
+
+“Listen, young human brat. I’m giving you two missions.”
 
 “Ah, yes! I’ll do anything you ask, Teacher King.”
 
-“Good attitude. First, take out that damned special radio of yours and contact the main force again.”
+“Good attitude. First, get that damned special radio of yours out again and tell the main force something.”
 
 “What should I tell them?”
 
@@ -102,7 +96,7 @@ Even Xiao Shen had to ask again when he heard the answer.
 
 “What?”
 
-“And protect yourself. If you don’t think you can, you can run.”
+“And protect yourself. If you can’t, run.”
 
 “W-wait a second.”
 
@@ -126,7 +120,7 @@ No. Those were monsters, too many to count.
 
 *Monster Wave…!*
 
-At the moment the words that had become humanity’s nightmare struck Xiao Shen’s mind—
+As the words that had become humanity’s nightmare struck him—
 
 *Crunch.*
 
@@ -136,7 +130,7 @@ There was no fear or hesitation in his steps. Mighty magical power surged from h
 
 > “In the name of the King, I command you.”
 
-His low voice echoed across the desert. It pierced the thick darkness and roused the spirits crushed beneath the weight of ages and countless grains of sand.
+His low voice echoed through the desert. It pierced the thick darkness and awakened the spirits buried beneath countless grains of sand for ages.
 
 > “Answer the call.”
 
@@ -144,7 +138,7 @@ His low voice echoed across the desert. It pierced the thick darkness and roused
 
 A tremor like an earthquake swept through the desert.
 
-At their king’s call, steeped in the energy of death, spirits that had lain in deep slumber burst through the sand and rose to the surface.
+At the call of a king steeped in death qi, spirits woke from their deep slumber and burst through the sand.
 
 *Crackle!*
 
@@ -160,17 +154,17 @@ Their sharp cries split the night. With wings spanning several meters, the eagle
 
 They flew past the monster army charging across the ground in a storm of sand, then scattered over the vast desert and woods. They had only one mission:
 
-Find a certain being who wasn’t here, by the King’s command.
+Find the being who wasn’t here, as their king had commanded.
 
 > “Somewhere in this desert, there’s something with the scent of humans on it. Find it. Without fail.”
 
-They had magical power to carry them on the wind instead of feathers, and though they’d lost the life within them, their vitality would never run dry.
+The eagles beat their wings. They had magical power to carry them on the wind in place of feathers. They had lost their life, but not their inexhaustible vigor.
 
 *Whoosh!*
 
 Far below, the King watched the flock disappear into the distance. He thought of the human bodies he had uncovered moments ago, then walked toward the monster army bearing down on him.
 
-*What kind of trace was it?*
+*What were those traces?*
 
 *Whoosh—BOOM!*
 
@@ -194,7 +188,7 @@ But as soon as the battle began, the Skeleton King understood. Absorbing part of
 
 Blood and flesh flew. The living screamed.
 
-The enemy formation began to crumble in moments.
+Their formation began to crumble.
 
 With a single strike, the Skeleton King knocked the heads off three ogres. Then he looked toward a dark stretch of desert.
 
@@ -202,9 +196,9 @@ He couldn’t see anything, but he knew. Whatever had killed the search squad ha
 
 *What the hell are you?*
 
-The question he asked himself went unanswered. The Skeleton King stared into the darkness with sunken eyes, then raised an ogre lying like a rotten log from the dead.
+The question went unanswered. Still staring into the darkness, the Skeleton King raised an ogre that had fallen like a rotten log.
 
-No—not just the ogre. Everything around him.
+No—not just the ogre. Everything around it.
 
 > “Answer the call.”
 
@@ -218,7 +212,7 @@ The undying army, now twice its former size, fell upon the living.
 
 *Grrrrr!*
 
-The desert was gradually buried beneath countless screams and death.
+Screams and death swept across the desert.
 
 Xiao Shen stared blankly at the scene before remembering the mission he’d forgotten.
 
@@ -252,13 +246,13 @@ Chuck Hagel—an S-rank Hunter active since the Great Cataclysm and the former S
 
 Chuck Hagel’s idea of a greeting drew quiet laughter from the people lined up on either side of me.
 
-It vanished without a trace the next moment.
+It vanished the next moment.
 
-“You’re laughing? Does this fucked-up wartime situation look like a joke to you?”
+“You’re laughing? Does this fucked-up war look like a joke to you?”
 
 “…”
 
-“You lunatics. From now on, anyone who laughs in front of me is getting their ass kicked, rank be damned. I don’t care if you’re some pasty Yankee dumbass who thinks white skin is your greatest achievement in life, a darkie spouting bullshit about political correctness, or a yellow monkey who can’t stop staring at his smartphone. I’ll beat every last one of you half to death. Understood?”
+“You lunatics. From now on, anyone who laughs in front of me gets their ass kicked, rank be damned. I don’t care if you’re some pasty Yankee dumbass who thinks white skin is his greatest achievement, a darkie spouting bullshit about political correctness, or a yellow monkey who can’t stop staring at his smartphone. I’ll beat you half to death. Understood?”
 
 “Yes, sir!”
 
@@ -276,16 +270,16 @@ Holy shit. The man had presence.
 
 He really was a living legend. Even Senior Kim Soodan would have to concede he had a thing or two to learn from Hagel about taking over a stage.
 
-Of course, those thick arms like a bear’s and the violence he was born with had a lot to do with creating this brisk atmosphere.
+Of course, those bear-thick arms and his natural taste for violence had a lot to do with how quickly everyone had snapped to attention.
 
 *He’s definitely the right man for the job.*
 
-Just as I thought that, a military jeep came tearing across the runway and screeched to a stop in front of us. A soldier in dress uniform hurriedly called out.
+Just as I thought that, a military jeep tore across the runway and stopped in front of us. A soldier in dress uniform called out urgently.
 
 “Monster Wave! We’ve received an emergency request for support. It’s a Monster Wave!”
 
-If I’d been an ordinary traveler, I would’ve taken a day to recover from jet lag.
+If I’d been an ordinary traveler, I probably would’ve taken a day to recover from jet lag.
 
-But my life had parted ways with the word *ordinary* a long time ago, and there was no chance of them ever getting back together.
+But my life had parted ways with *ordinary* a long time ago, and there was no chance of them ever getting back together.
 
 “Where is it?”
