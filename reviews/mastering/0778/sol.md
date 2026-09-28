@@ -1,22 +1,22 @@
 # Chapter 778
 
-“Because you’re my friend, too.”
+*Because you’re my friend, too.*
 
 At those quiet words, the Skeleton King’s eyes trembled. I looked straight at him and continued.
 
-“That’s all there is to it. You’re my friend, too. If I lost you like this, I’d feel like shit for the rest of my life. That’s why I can’t give up.”
+*That’s all there is to it. You’re my friend, too. If I lost you like this, I’d feel like shit for the rest of my life. That’s why I can’t give up.*
 
-“……”
+*……*
 
-“Remember when we fought the Arch Lich in China?”
+*Remember when we fought the Arch Lich in China?*
 
 The Skeleton King nodded silently.
 
-Yeah. How could I forget?
+Yeah. How could either of us forget?
 
 That fierce battle was still etched vividly in my mind.
 
-“I really thought I was going to die. No—if things had kept going the way they were, I’d probably have died nine times out of ten.”
+*I really thought I was going to die. No—if things had kept going the way they were, I’d have died nine times out of ten.*
 
 It had been that hard a fight.
 
@@ -24,7 +24,7 @@ Countless monsters had blocked our path. And the Arch Lich we’d finally faced 
 
 But…
 
-“You saved me. Even knowing you might be erased.”
+*You saved me. Even though it meant risking Erasure.*
 
 I could still see him leaping out of my Inventory without even asking permission and taking the Arch Lich’s strike in my place at that life-or-death moment.
 
@@ -32,23 +32,23 @@ It was a sacrifice.
 
 A pure, noble sacrifice.
 
-At the same time, it was a great deed that allowed an ordinary someone to finally become a new being.
+The kind of act through which someone ordinary could become someone new.
 
 And so the Skeleton Warlord who had ruled the Black Forest gained a crown.
 
-He returned from the brink of Erasure, took up the radiant [Hero’s Sword], and drove it into the Arch Lich’s chest.
+He returned from the brink of Erasure, took the radiant Hero’s Sword in hand, and drove it into the Arch Lich’s chest.
 
-“Why did you make that choice back then?”
+*Why did you make that choice?*
 
-“……Who knows. I don’t.”
+*……I don’t know.*
 
 The Skeleton King turned his gaze to empty space and muttered.
 
-“All I know is that I had a very stupid, very trivial reason.”
+*All I know is that I had a very stupid, very small reason.*
 
-“A reason?”
+*A reason?*
 
-“There was something I’d always wondered. Who am I? Where was I born, and what sin did I commit to become the monster I am now? Surely I wasn’t always like this.”
+*There was something I’d always wondered. Who am I? Where was I born, and what did I do wrong to become the monster I am now? Surely I wasn’t always like this.*
 
 His hollow thoughts echoed in my ears.
 
@@ -70,7 +70,7 @@ The Skeleton King slowly tilted his head. His gaze left the empty space and sett
 
 *Then perhaps I could sacrifice myself for someone else… for a friend.*
 
-“……!”
+*……!*
 
 *Yes, that’s right, you damn crafty human.*
 
@@ -110,7 +110,7 @@ The Skeleton King looked around, then muttered in a half-resigned voice.
 
 “Manage… what?”
 
-Suddenly singled out, Team Leader Choi clenched his teeth, looking as if grim reality had just hit him.
+Suddenly singled out, Team Leader Choi clenched his teeth. He looked like he’d just remembered how he’d ended up here.
 
 “Yes, that’s right. I’m sorry. This is all my fault for failing to manage Jin Taekyung.”
 
@@ -122,7 +122,7 @@ Fair enough.
 
 But what could I do? Things had gone this way.
 
-People’s affairs often took turns no one could predict. Just like right now.
+People’s plans often went in directions no one could predict. Just like right now.
 
 Even so, I wasn’t the least bit uneasy about having done things out of order.
 
@@ -158,13 +158,13 @@ Just as Team Leader Choi’s eyes rolled back and he was about to spring to his 
 
 “Please, get a grip! I think Jin made a mistake, too, but… Wait. Have you been bulking up lately?”
 
-This was a mess beyond all messes.
+What a fucking mess.
 
 Seeing my chance, I gave Magic Johnson a thumbs-up as he felt Team Leader Choi’s lean muscles, then stood and looked around.
 
 Open mouths. Faces asking what the hell was going on. Eyes gone unfocused.
 
-A commotion had erupted out of nowhere at this important meeting to elect the World Hunter Federation’s representative as humanity faced a crisis. Everyone looked as if they’d just seen Demon King Asmodeus brought back with Edo Tensei[^1].
+At this crucial gathering to elect the World Hunter Federation’s leader while humanity faced a crisis, everyone looked as if they’d just seen Demon King Asmodeus resurrected with Edo Tensei[^1].
 
 [^1]: Edo Tensei is a technique in *Naruto* that summons the dead back to life.
 
@@ -176,7 +176,7 @@ It was a sincere, polite apology. But sometimes sincerity just didn’t get thro
 
 “You damn bastard. This might be the last cigar of my life.”
 
-Chuck Hagel pretended to answer with the bleak resignation of a terminal lung cancer patient, all while puffing on his cigar twice as fast.
+Chuck Hagel answered with the gloom of a terminal lung cancer patient—or pretended to—while puffing on his cigar twice as fast.
 
 “It’s okay. I trust you. But go fuck yourself, Jin.”
 
@@ -196,7 +196,7 @@ His face was stiffer than I’d ever seen it. I couldn’t help laughing.
 
 *You’re laughing?*
 
-It was only natural to answer someone who was curious.
+It was only polite to answer a question.
 
 I opened my mouth without a care.
 
@@ -224,7 +224,7 @@ But unlike the others watching this unbelievable scene, I welcomed that cold air
 
 How long had it been since I’d felt this relieved?
 
-I took a deep breath and started trudging along. I passed between the round tables, then got tired of even that after a few steps and leaped over everyone’s heads.
+I took a deep breath and started walking. I passed between sections of the round table, then, after a few steps, got tired of even that and leaped over everyone’s heads.
 
 *Whoosh. Tap.*
 
@@ -246,15 +246,15 @@ His eyes, fixed on me, held anger he couldn’t hide. And I knew exactly why.
 
 I trailed off, watching Michael Silbert’s rigid face, then continued slowly.
 
-“Then I suddenly thought, what am I getting so mad about over something this trivial? Is it really worth throwing a fit over?”
+“Then I thought, why am I getting so mad over something this small? Is it really worth throwing a fit over?”
 
 I looked around. Just as I’d expected, most people were staring at me like I was crazy.
 
-Naturally. I’d caused a scene at the most important moment, hurled curses at a Senior, and now I was telling an ice cream story nobody had asked for.
+Of course they were. I’d caused a scene at the worst possible moment, cursed out a Senior, and now I was telling an ice cream story nobody had asked for.
 
 Their expressions were so funny that I laughed again.
 
-“Anyway, that’s all.”
+“Anyway. That’s what happened.”
 
 At the same time, I drew up my internal energy and stamped my foot down hard.
 
@@ -264,9 +264,9 @@ At the same time, I drew up my internal energy and stamped my foot down hard.
 
 Michael Silbert’s belated shout vanished beneath the roar.
 
-In the split second when nobody could stop me, I completely crushed the center of the round table, a place set aside for just one man. Then I looked at the faces staring at me in shock.
+In the instant before anyone could stop me, I crushed the center of the round table, the place reserved for just one person. Then I looked at the shocked faces around me.
 
-“After thinking about it, I realized that seat was just like that ice cream. If nobody was greedy, there’d be nothing to get angry about. But the greedy ones always step forward and cause trouble.”
+“The more I thought about it, the more that seat seemed like the ice cream. If nobody wanted it so badly, nobody would have a reason to get angry. But the greedy ones always step forward and cause trouble.”
 
 Of course, the difference between ice cream and the World Hunter Federation was beyond comparison.
 
@@ -274,7 +274,7 @@ Their importance in this world. And… the scale of what that greed had caused.
 
 People had died because of that greed.
 
-Hundreds of thousands of people had lost their families and friends, their homes and their hopes.
+More than a hundred thousand people had lost family and friends, homes and hope.
 
 After paying such a high price, all they’d gained was despair and fear.
 
