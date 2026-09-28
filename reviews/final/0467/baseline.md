@@ -62,7 +62,7 @@ Hyuk Mujin patted Cheongpung’s shoulder guiltily.
 
 “Yes. I’ll find some way to feed you until your stomach bursts.”
 
-“But you’re poor too, Hyuk Mujin. Last time, I saw you picking up silver nyang[^1] at the ferry landing……”
+“But you’re poor too, Hyuk Mujin. Last time, I saw you picking up silver nyang at the ferry landing……”
 
 “My father is rich.”
 
@@ -202,7 +202,7 @@ The sky had turned pitch-black, and lightning struck at irregular intervals. Hea
 
 *Of all times for this to happen.*
 
-It hadn’t been this bad when we entered the Dongting Fisherman’s secret refuge. Yet in less than a single shichen,[^2] the situation around us had rapidly deteriorated toward the worst possible outcome.
+It hadn’t been this bad when we entered the Dongting Fisherman’s secret refuge. Yet in less than a single shichen, the situation around us had rapidly deteriorated toward the worst possible outcome.
 
 But…
 
@@ -244,13 +244,13 @@ He was right. No matter how sturdy it was, a ferryboat was still a ferryboat.
 
 To find the Dongting Fisherman’s secret refuge, the boat had needed to be light and small. It had been perfect for that purpose, but those same advantages were now its greatest weaknesses.
 
-*Even by the shortest route, it’ll take at least two shichen[^2] to reach land… What if the boat sinks before then?*
+*Even by the shortest route, it’ll take at least two shichen to reach land… What if the boat sinks before then?*
 
 The answer to my own question came back immediately.
 
 *No.*
 
-*Even if I used my internal energy to perform Rising on Duckweed, Crossing Water,[^3] the distance left is too great. And that was before the weather became like this. The boatman is right. The boat won’t hold.*
+*Even if I used my internal energy to perform Rising on Duckweed, Crossing Water, the distance left is too great. And that was before the weather became like this. The boatman is right. The boat won’t hold.*
 
 Even at a glance, I could see patches where wood had been torn from the surface of the ferryboat pulled up onshore.
 
@@ -340,7 +340,7 @@ And then a hollow voice, empty as though his soul had left his body, pierced my 
 
 “Run.”
 
-*What?*
+What?
 
 I had no time to form a question.
 
@@ -349,7 +349,3 @@ I wasn’t given a chance to react.
 The moment every sense in my body went taut, an enormous roar erupted behind me.
 
 *Kaboom—!*
-
-[^1]: A nyang was a traditional unit of currency; silver nyang refers to money measured in silver.
-[^2]: A shichen is a traditional time unit of approximately two hours.
-[^3]: Rising on Duckweed, Crossing Water is a martial-arts movement feat for crossing the surface of water.
