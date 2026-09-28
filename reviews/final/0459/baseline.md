@@ -74,7 +74,7 @@ Dark Heaven’s name had begun spreading among ordinary people after the Shaolin
 
 Gung Gibang, standing beside me, spoke with an incredulous expression.
 
-“Officer, did you know that this ‘gang of thugs’ killed Master Hong Dao, the Abbot of Shaolin Temple[^1] and the Dharma King?”
+“Officer, did you know that this ‘gang of thugs’ killed Master Hong Dao, the Abbot of Shaolin Temple and the Dharma King?”
 
 “Th-that…”
 
@@ -166,13 +166,13 @@ Ju Wongong might have been a distant relative, but he was still a member of the 
 
 “Force…!”
 
-“I am certain. That single attack killed most of the Peak masters guarding Young Master Ju and the martial artists of Qingxia Hall.[^2]”
+“I am certain. That single attack killed most of the Peak masters guarding Young Master Ju and the martial artists of Qingxia Hall.”
 
 The scene seemed to unfold before my eyes.
 
 Nothing was more destructive than Force. Even someone who had never seen it before would recognize that dazzling light for what it was the moment they faced it.
 
-The same was true of Honglan, and it must have been an attack that Ju Wongong’s guards and the bumbling martial artists of Qingxia Hall[^2] had been powerless to stop.
+The same was true of Honglan, and it must have been an attack that Ju Wongong’s guards and the bumbling martial artists of Qingxia Hall had been powerless to stop.
 
 Perhaps because she was recalling that horrifying moment, Honglan’s voice began to tremble faintly.
 
@@ -210,13 +210,13 @@ Gung Gibang muttered the words like a sigh, while Hyuk Mujin clicked his tongue.
 
 “And?”
 
-“What do you mean, ‘and’? I have heard plenty about the miraculous abilities of martial artists like you, but this is absurd! Even the water bandits of the Yangtze River Channel League whom I encountered from time to time were never capable of such feats. How could anyone swim so quickly across such a vast expanse of water, much less sink dozens of vessels single-handedly, including the Great Nation’s military vessels—”
+“What do you mean, ‘and’? I have heard plenty about the miraculous abilities of martial artists like you, but this is absurd! Even the water bandits of the Yangtze River Channel League whom I encountered from time to time were never capable of such feats. How could anyone swim so quickly across such a vast expanse of water, much less sink dozens of vessels single-handedly, including the Great Nation’s military vessels?”
 
 “He could. If he is the man I’m thinking of.”
 
 A clear voice rang out. Under everyone’s gaze, Honglan slowly parted her lips.
 
-“He is a master of water arts who can breathe like a fish, swim faster than one, and easily sink dozens of vessels by himself. I do not know how formidable the water bandits you encountered may have been, but here on Dongting Lake, even the Seafaring King himself could not stand against him.”
+“He can breathe like a fish, swim faster than one, and easily sink dozens of vessels by himself. I do not know how formidable the water bandits you encountered may have been, but here on Dongting Lake, even the Seafaring King himself could not stand against him.”
 
 Honglan’s gaze turned toward the blue-green waters beyond the camp.
 
@@ -259,6 +259,3 @@ That was why Honglan’s next words were like a torch lighting the path ahead.
 I clenched my fist tightly. Then I immediately sprang to my feet.
 
 “Let’s go. Right now.”
-
-[^1]: Shaolin Temple is a Buddhist monastery known for its martial arts tradition.
-[^2]: Qingxia Hall is an unofficial Hubei social club formed by the children of influential families.
