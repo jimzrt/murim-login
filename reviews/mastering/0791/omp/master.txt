@@ -46,7 +46,7 @@ As the plane’s wing cut across the cloud-choked sky and rain poured down, the 
 
 Who was that bastard?
 
-Even though the voice hadn’t been altered, I couldn’t make out their gender or age. Their face was hidden, too, beneath a hood pulled down low.
+Even though the voice hadn’t been altered, I couldn’t tell their gender or age. And the robe pulled low over their face had hidden that completely.
 
 *Did they cover up so carefully because people would recognize their face?*
 
@@ -132,7 +132,7 @@ That was how much authority and power the World Hunter Federation held now.
 
 The UN General Assembly, representing nearly every country on Earth, had given its approval. All of humanity supported us.
 
-If the United States had *called itself* the world’s police, the World Hunter Federation was recognized as such by everyone—and untouchable.
+If the United States had *called itself* the world’s police, the World Hunter Federation had earned the title in everyone’s eyes—and was untouchable.
 
 Even Russia, which had clashed constantly with the Western powers led by the United States, had promised to cooperate fully with the Federation and warned the Middle Eastern countries that objected.
 
@@ -158,7 +158,7 @@ Team Leader Choi answered at once.
 
 I knew. That was one of the main reasons I was heading to the Middle East myself.
 
-Even so, I couldn’t help asking again, even if it was premature.
+Even if it was too soon to ask, I had to.
 
 “How long do you expect it to take?”
 
@@ -172,13 +172,13 @@ Would we, though?
 
 I said nothing, but unease stirred inside me.
 
-*They’re not going to be easy to deal with.*
+*That bastard won’t be easy to catch.*
 
 The Prophet had evaded surveillance around the world even before the Federation was founded.
 
-The worst terrorist in history, far beyond the South American drug lords or even his much older predecessor, Osama bin Laden.
+The worst terrorist in history, surpassing the South American drug lords and even the far more seasoned Osama bin Laden.
 
-Some people might have thought it was amazing we could catch someone like that within two months…
+Some people might have been impressed that we could catch someone like that within two months.
 
 I wasn’t.
 
@@ -194,7 +194,7 @@ In a month. In two weeks. Or…
 
 And when that bomb went off, the Cataclysm named in my Main Quest would begin. It wasn’t hard to imagine.
 
-If that happened, a disaster on par with—no, possibly even worse than—the terrorist attacks The Prophet had carried out so far would sweep across the world.
+A disaster on par with—no, possibly worse than—the terrorist attacks The Prophet had carried out so far would sweep across the world.
 
 > “It’s your turn now. Let’s see you struggle with everything you’ve got. I’ll be watching from up there.”
 
@@ -202,7 +202,7 @@ A voice suddenly echoed in my ears.
 
 Now I understood what Michael Silbert’s last words had really meant.
 
-But just as I’d sent that bastard, who’d seemed impossible to stop, plunging into the depths of hell, I was ready to fight again.
+But I’d sent that bastard, who’d seemed impossible to stop, straight to the depths of hell. I was ready to fight again.
 
 And I had a suspicion that was close to certainty.
 
@@ -212,7 +212,7 @@ A hungry person wouldn’t hold back with a delicious meal right in front of the
 
 The Prophet probably hadn’t finished preparing to set off the bomb. They were lying low, holding their breath so they wouldn’t be found before the cooking was done.
 
-*I have to find them before that happens. No matter what.*
+*I have to find them first. No matter what.*
 
 I looked at Team Leader Choi.
 
@@ -256,9 +256,9 @@ Xiao Shen tilted his head at the Skeleton King’s reaction, then answered.
 
 “Thank you!”
 
-“Don’t get excited, you young human brat.”
+“Don’t look so pleased, you human brat.”
 
-He grumbled, but the Skeleton King was in a pretty good mood as he headed toward their destination—just as he’d said.
+He grumbled, but as they headed toward their destination, the Skeleton King was in a good mood.
 
 Actually, he was rather pleased.
 
@@ -286,6 +286,6 @@ It was a patch of sparse woods and desert where a search squad had lost contact 
 
 “I don’t see anything around here. Are you sure—”
 
-The Skeleton King had been frowning as he surveyed the area, but his eyes suddenly flew open.
+At that moment, the Skeleton King’s eyes widened as he scanned the area.
 
 “…What’s that?”
