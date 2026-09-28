@@ -4,7 +4,7 @@ Hunters lived close to death.
 
 It made no difference whether they were S-rank Hunters known around the world or F-rank Hunters as common as stones in the street. No one was exempt.
 
-The misfortune of death came equally to everyone, and Hunters were more accustomed to that fact than anyone.
+Death came for everyone, and Hunters knew that better than anyone.
 
 But…
 
@@ -12,9 +12,9 @@ But…
 
 The quiet curse spoke for everyone.
 
-Reflected in dozens of pairs of eyes, trembling slightly in that moment, were more than two hundred corpses, shriveled nearly to nothing.
+Dozens of pairs of eyes trembled as they stared at more than two hundred corpses, shriveled nearly to nothing.
 
-“Damn it. Has anyone here ever seen anything this insane, even once?”
+“Damn it. Has anyone here ever seen anything this insane?”
 
 No one answered the Team Leader. More accurately, they’d forgotten how.
 
@@ -22,25 +22,25 @@ No one answered the Team Leader. More accurately, they’d forgotten how.
 
 They might have been assigned to recover the dead in the rear, but they were Hunters all the same. They’d had more than their share of brushes with death and seen more corpses than they cared to remember.
 
-Especially after the series of events that had unfolded one after another over the past few months. How many deaths had they witnessed?
+Especially over the past few months, with one disaster following another. How many deaths had they witnessed?
 
-And yet, even they couldn’t help feeling a chill run down their spines at that moment.
+Yet even they felt a chill run down their spines.
 
 “…Didn’t you say they’d been dead for less than two hours?”
 
 The Team Leader bit his lip at the question that broke the long silence.
 
-“It’s hard to believe, but yes. That’s exactly what I was told.”
+“It’s hard to believe, but yes. That’s what I was told.”
 
 “Then it’s one of two things. Either you’re deaf, Team Leader, or whoever told you is insane.”
 
 “Could be. But neither is true.”
 
-“Maybe not. But looking at these bodies, I’d say they’ve been dead for at least a couple of centuries. What kind of lunatic told you they’d been dead for less than two hours?”
+“Looking at these bodies, I’d say they’ve been dead for a couple of centuries at least. What kind of lunatic told you it’s been less than two hours?”
 
-“What, you planning to go argue with them?”
+“What, are you going to go argue with him?”
 
-“We ought to check whether it’s true. And if they were talking nonsense, I’ll punch them right in the face.”
+“We should check whether it’s true. And if he’s talking nonsense, I’ll punch him in the face.”
 
 “Fine.”
 
@@ -56,9 +56,9 @@ The Team Leader had taken out a cigarette and put it between his lips. He went o
 
 The Hunters were speechless.
 
-It wasn’t so much that the lunatic they’d just been cursing was Magic Johnson. The greater shock came from the realization that the order itself wasn’t wrong.
+It wasn’t so much the discovery that the lunatic they’d been cursing was Magic Johnson. The greater shock was that the report he’d given them was true.
 
-*So it’s all true?*
+*So this is real?*
 
 *Damn it. What’s going on?*
 
@@ -66,7 +66,7 @@ Becoming a veteran Hunter meant knowing the smell of blood better than the smell
 
 Limbs severed, torsos torn apart, heads crushed…
 
-They’d seen it all more times than they could count. Most of the corpses they’d encountered belonged to monsters, but plenty had belonged to comrades they’d shared meals with, too.
+They’d seen it all more times than they could count. Most of the corpses had belonged to monsters, but plenty had been comrades they’d shared meals with.
 
 Even so, they’d never seen bodies like these.
 
@@ -74,7 +74,7 @@ More than two hundred corpses, dried out without a drop of blood left in them.
 
 If they hadn’t known what had happened, every last one of them would have thought they’d been sent to excavate ruins.
 
-These weren’t just corpses. They looked like mummies that had been buried deep underground for centuries.
+These looked less like corpses than mummies that had lain buried deep underground for centuries.
 
 *Damn it. Have we been bewitched?*
 
@@ -82,7 +82,7 @@ These weren’t just corpses. They looked like mummies that had been buried deep
 
 They weren’t gruesome so much as bizarre.
 
-Every moment sent goose bumps crawling over their bodies. They couldn’t take even one step toward those corpses, with not a trace of life left in them.
+The sight gave them goose bumps every time they looked at it. They couldn’t bring themselves to take a single step toward those bodies, without a trace of life left in them.
 
 And the same question filled every mind.
 
@@ -90,9 +90,9 @@ And the same question filled every mind.
 
 Not *who*. *What*.
 
-As everyone swallowed hard at the thought of an unknown enemy they couldn’t even begin to predict, the Team Leader took a deep drag on his cigarette and shouted,
+They swallowed hard at the thought of an unknown enemy they couldn’t even begin to imagine. Then the Team Leader drew deeply on his cigarette and shouted.
 
-“Fuck! How long are you going to stand there staring? Stop wasting time thinking about it and get moving! Now!”
+“Fuck! How long are you going to stand there staring? Stop thinking about it and get moving! Now!”
 
 The Hunters jolted as if they’d just woken up. At last, they began to move, though their steps were slow.
 
@@ -102,7 +102,7 @@ As he watched his subordinates force themselves toward the corpses, the Team Lea
 
 He cursed under his breath and threw it to the ground.
 
-But his hand, now brushing over his parched lips, was trembling slightly.
+The hand he raised to his now-parched lips was trembling.
 
 * * *
 
@@ -110,15 +110,13 @@ But his hand, now brushing over his parched lips, was trembling slightly.
 
 Team Leader Choi’s face was grave.
 
-“Everyone’s afraid. Word about the fallen Hunters’ bodies is circulating quietly.”
+“Everyone’s afraid. Word about the fallen Hunters’ bodies is getting around.”
 
 “…”
 
 “We need to do something before it gets any worse. If this continues…”
 
 His voice trailed off, but I knew what he meant.
-
-I finished the sentence Team Leader Choi couldn’t.
 
 *We’ll fall apart from the inside before we even get moving.*
 
@@ -140,11 +138,9 @@ The J1 team Yamamoto Genji belonged to had been wiped out in a bizarre fashion. 
 
 Even the authority my name carried couldn’t seal every one of their mouths.
 
-People’s emotions.
-
 Human emotions—especially fear—were beyond anyone’s control.
 
-But the bigger problem was that the rumors frightening even veteran Hunters who’d been through hell and back weren’t baseless nonsense.
+But the bigger problem was that the story frightening even veteran Hunters wasn’t just a rumor.
 
 “And although these stories haven’t gained much traction yet…”
 
@@ -168,11 +164,11 @@ Magic Johnson shot to his feet with a shout, his eyes blazing.
 
 “What kind of world do they think we live in, believing superstitious crap like that… Damn it.”
 
-Magic Johnson started to say something, then shut his mouth with a rough curse.
+Magic Johnson broke off with a curse.
 
 The hulking Grand Mage had clearly remembered something he’d forgotten for a moment.
 
-That Hunters were more obsessed with superstition than anyone else in the world.
+Hunters were more superstitious than anyone.
 
 In a way, it was only natural. Whatever their reasons for becoming Hunters, they were human. They wanted to survive.
 
@@ -182,13 +178,13 @@ Even athletes kept strange routines no one else understood and clung to childish
 
 Athletes might believe a superstition would save their careers. For Hunters, it was their lives at stake.
 
-Especially when they faced an unknown phenomenon that no one had ever encountered before.
+Especially when they were faced with something unknown, something no one had ever encountered before.
 
 “A Demon King, of all things. What a bunch of idiots.”
 
-I looked at the Skeleton King, who muttered in disbelief.
+I turned to look at the Skeleton King, who was muttering in disbelief.
 
-He’d already gotten a similar look from me several times, so he immediately understood what it meant and furrowed his brow.
+He’d caught me looking at him like that several times already. He understood immediately and frowned.
 
 “I told you. I don’t know either.”
 
@@ -196,7 +192,7 @@ That wasn’t the answer I’d wanted.
 
 I tried to hide my disappointment. “Right. That’s why I gave you time to think.”
 
-“……Damn it. I’m genuinely curious, too. What the hell is that guy called The Prophet?”
+“…Damn it. I want to know what that Prophet bastard is as much as you do.”
 
 The Skeleton King sighed and went on.
 
@@ -222,33 +218,33 @@ I answered without thinking. “Clubs?”
 
 “Illegal immigrant. Dumbass. Eunuch.”
 
-The Skeleton King gave me a look that had gone completely cold, then sighed deeply.
+The Skeleton King gave me a flat look, then sighed.
 
 “Damn it. Yes, clubs were a hell of a surprise too. But what amazed me most was the monster encyclopedia you humans made.”
 
 “What?”
 
-“That was when I first realized there were so many different kinds of monsters. Until then, what I knew about monsters amounted to a scrap of flesh on a pile of bones.”
+“That was when I first realized just how many kinds of monsters existed. Until then, what I knew barely amounted to the flesh on my bones.”
 
 “…!”
 
-“But even you humans, who’ve spent so long researching monsters, haven’t uncovered everything. Isn’t that right?”
+“But even you humans, who’ve spent so long studying monsters, haven’t learned everything. Have you?”
 
-“That’s true. There were limits to what we could learn by studying monsters.”
+Magic Johnson answered grimly. “No. There were limits to what we could learn by studying them.”
 
 These days, it was the kind of story you only read in history textbooks.
 
-Even after the Great Cataclysm, humanity wanted more data. In the period immediately after the war ended, Hunters weren’t hunting monsters so much as capturing them.
+After the Great Cataclysm, humanity still wanted more data. Immediately after the war ended, Hunters were sent to capture monsters rather than hunt them.
 
 Then came all kinds of experiments, including dissections.
 
-But that wasn’t enough. Not every monster in the world was a low-level one like a goblin.
+But that wasn’t enough. Not every monster was a low-level goblin.
 
 “The more powerful the monsters we tried to capture, the greater our losses. Plenty of S-rank Hunters joined the effort, myself included, but we didn’t always succeed.”
 
 “Which means…”
 
-“Among the highest-level monsters we most wanted to target, some Named monsters like Leviathan and the Arch Lich had disappeared completely. And there were monsters like dragons, with very few individuals. We weren’t able to learn much about those.”
+“Some of our most important targets—top-level Named monsters like Leviathan and the Arch Lich—had disappeared entirely. Others, like Dragons, were so few in number that we couldn’t get our hands on them. We never managed to study those.”
 
 I murmured, “The Prophet could be one of them.”
 
@@ -262,19 +258,19 @@ He was a complete unknown.
 
 We knew neither what he was nor what he could do.
 
-And fighting an enemy whose nature you hadn’t uncovered was the stupidest, craziest thing you could do.
+Fighting an enemy you knew nothing about was the stupidest, craziest thing you could do.
 
-Of course, I’d done that crazy thing countless times.
+Of course, I’d done it countless times.
 
 “Then there’s only one option left.”
 
-At my offhand remark, I saw everyone’s expression grow heavy. Before anyone could try to stop me, I continued.
+Everyone’s expression grew heavy. I spoke again before anyone could try to stop me.
 
 “We set out immediately. I have to see that bastard’s face.”
 
-One message.
+One thing.
 
-I would use those words The Prophet had sent me through Yamamoto Genji as a signpost and track the bastard down.
+I would use that one thing The Prophet had said to me through Yamamoto Genji as a signpost and follow his trail.
 
 Before an irreversible catastrophe struck.
 

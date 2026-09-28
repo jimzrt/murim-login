@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "the Team Leader took a deep drag on his cigarette and shouted,",
+      "defect": "“Took a deep drag” ordinarily describes smoking a lit cigarette, but he realizes moments later that he has not lit it. This obscures the source’s detail and creates a contradiction in English.",
+      "id": "F01",
+      "rationale": "The source says he draws on the cigarette, then explicitly reveals he has not lit it. The replacement preserves that action without implying it is burning.",
+      "replacement": "the Team Leader sucked on the cigarette between his lips and shouted,",
+      "severity": "minor",
+      "source": "Lines 95–101"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Human emotions—especially fear—were beyond anyone’s control.",
+      "defect": "The English generalizes the claim to human emotions overall. The source specifies uncontrollable negative emotions, particularly fear.",
+      "id": "F02",
+      "rationale": "The Korean identifies negative emotions like fear as the uncontrollable force; it does not make that claim about human emotions generally.",
+      "replacement": "Negative emotions, especially fear, were beyond anyone’s control.",
+      "severity": "minor",
+      "source": "Lines 149–151"
+    }
+  ],
+  "summary": "Two minor fidelity issues: the cigarette phrasing implies it was lit, and the emotion sentence broadens the source’s claim about negative emotions.",
+  "version": 1
+}
