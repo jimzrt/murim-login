@@ -44,7 +44,7 @@ Of course, some might understand even after the truth came out. They might trust
 
 But…
 
-“How many of them do you think would truly accept this truth?”
+“How many of them do you think would accept it?”
 
 The Skeleton King pointed toward the closed window.
 
@@ -86,7 +86,7 @@ That was the truth. No—it had to be the truth.
 
 Faced with a reality he had no choice but to accept, the Skeleton King gave a hollow laugh.
 
-*Damn it. I’ll never be able to go to a club again.*
+*Damn it. I guess I’ll never go to a club again.*
 
 And yet, for some reason, part of him felt relieved.
 
@@ -134,7 +134,7 @@ I didn’t know when I’d opened my eyes, much less how I’d ended up gripping
 
 Riiip.
 
-The collar of his crumpled designer shirt tore under the force of my grip. Above my whitening knuckles, a pair of eyes silently gazed at me.
+The collar of his crumpled designer shirt tore under my grip. Beyond my white-knuckled hand, his eyes met mine without a word.
 
 “Do as you wish. Beat me to a pulp. Break my limbs, or even kill me. But…”
 
@@ -148,13 +148,13 @@ His breath trembled. So did his voice.
 
 His words, his gaze—the strength went out of me all at once.
 
-The energy boiling through my entire body as if it were about to explode, the hand clenched with all its strength—everything felt strangely unfamiliar.
+The qi boiling through my body as though I might explode, the hand I’d clenched so hard… None of it felt like mine.
 
 I stumbled back as if I’d come to my senses after being possessed.
 
 “…I’m sorry.”
 
-Everything he had said was true. It was simply the only solution capable of breaking through this situation.
+I knew Team Leader Choi had done nothing wrong. Everything he’d said was true. The Skeleton King’s sacrifice was the only solution he could see.
 
 If the Skeleton King hadn’t offered it himself, Team Leader Choi would never have said a word.
 
@@ -164,7 +164,7 @@ His cool judgment had shown him the only solution, but he had the decency not to
 
 Some might call him a hypocrite. I wouldn’t. I knew the Skeleton King wasn’t just another monster to be killed and disposed of to him, any more than he was to me.
 
-*Even if he were the one who had to sacrifice himself, he would have offered it as the solution before anyone else.*
+*If he’d been the one who had to make the sacrifice, he would’ve offered himself first.*
 
 Unlike me, Team Leader Choi was a born leader.
 
@@ -232,13 +232,11 @@ I opened my eyes. Team Leader Choi studied me with a conflicted look before repl
 
 “Why?”
 
-“The World Hunter Federation is now indispensable. Given the current situation, with magical power levels rising every day, it is the only way to stop a spark that has already been lit from spreading.”
+“The World Hunter Federation has become indispensable. With magical power levels rising every day, it’s the only way to contain the fire that has already been set.”
 
 “Even if something happens to me or that bastard?”
 
 “……!”
-
-His eyes shook violently.
 
 His eyes widened. A moment later, he understood what I meant and shouted.
 

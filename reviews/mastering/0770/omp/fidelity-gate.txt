@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled chapter is faithful overall, with one unsupported physical reaction added.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 277–279",
+      "current": "His eyes widened. A moment later, he understood what I meant and shouted.",
+      "defect": "Adds that Team Leader Choi’s eyes widened; the source says his eyes shook, then that he understood and shouted.",
+      "replacement": "A moment later, he understood what I meant and shouted.",
+      "rationale": "The source already renders the eye reaction as “His eyes shook violently.” It does not describe his eyes widening.",
+      "confidence": 0.99
+    }
+  ]
+}
