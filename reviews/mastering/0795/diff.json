@@ -1,0 +1,2143 @@
+{
+  "baseline_blocks": 146,
+  "baseline_sha256": "38aaed9e61fbc4c465645a32554ba6d699d6b37745c3c03f4da5af9e802d6064",
+  "global_terminology_alerts": [],
+  "hunk_count": 112,
+  "hunks": [
+    {
+      "baseline": "> **System**\n>\n> Quest success conditions met!\n>\n> **Mission:** Discover the truth behind the death (Complete)\n>\n> Quest *An Unknown Death* successfully completed!\n>\n> You have obtained the special Item *Eyes of Truth*!\n>\n> You have gained a large amount of EXP!",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "> **System**\n>\n> Quest success conditions met!\n>\n> **Mission:** Discover the truth behind his death (Complete)\n>\n> Quest *An Unknown Death* successfully completed!\n>\n> You have obtained the special Item *Eyes of Truth*!\n>\n> You have gained a large amount of EXP!",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The System messages flowing into my eyes and ears were the final step—the confirmation that everything Huginn had said was true.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "The System messages appearing before my eyes and ringing in my ears were the final confirmation that everything Huginn had said was true.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But a Quest was just a Quest. I wanted more information than that.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "But a Quest was just a Quest. I wanted more.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everything about Muninn—or the person called The Prophet.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "Everything he knew about Muninn—the person called The Prophet.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Huginn’s unsteady breath brushed my face as I leaned in close.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "19",
+      "sol": "I leaned in until Huginn’s trembling breath brushed my face.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“An agreement? Of course I have to keep it. Just not now.”",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "23",
+      "sol": "“An agreement? Of course I’ll keep it. Just not now.”",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The condition for keeping my promise in the first place was confirming that The Prophet had killed Siegfried Wassmann. But in this relationship, I was the one holding all the cards.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "25",
+      "sol": "I’d promised to keep my word if he confirmed that The Prophet had killed Siegfried Wassmann. But I was the one holding the knife by the handle.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "29",
+      "sol": "“…!”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You know what I’m like. If I say I’ll do something, I do it. So quit trying to outthink me and open your mouth. If you’re sure you won’t get caught, go ahead and mix in a lie.”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "31",
+      "sol": "“You know what I’m like. If I say I’ll do something, I do it. Quit trying to outthink me and open your mouth. Go ahead and mix in a lie if you think you can get away with it.”",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A person’s eyes held a great deal of information.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "33",
+      "sol": "",
+      "sol_paragraphs": "after P14",
+      "sol_range": [
+        14,
+        14
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And in that sense, the resignation that had just taken over Huginn’s eyes was proof that he’d finally given up on everything.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "35",
+      "sol": "You could learn a lot from a person’s eyes. The resignation that had just taken over Huginn’s told me he’d finally given up.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……Fuck.”",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "“…Fuck.”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a curse that sounded almost like a sigh, Huginn began to speak.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "39",
+      "sol": "The curse came out almost like a sigh. Then he began to speak.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "후긴",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Huginn"
+        }
+      ]
+    },
+    {
+      "baseline": "“I don’t know the details, either. Not exactly what the Muninn of today is like.”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "41",
+      "sol": "“I don’t know much about him, either. Not exactly what the current Muninn is like.”",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At his first words, I’d grabbed a potion bottle. But when Huginn hurriedly added the rest, I frowned.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "43",
+      "sol": "I’d grabbed a potion bottle at his first words, but what he hurriedly added made me frown.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "후긴",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Huginn"
+        }
+      ]
+    },
+    {
+      "baseline": "*The Muninn of today?*",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "45",
+      "sol": "*The current Muninn?*",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Like he hasn’t always been the same person.”",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "51",
+      "sol": "“He hasn’t always been the same person.”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My mind raced. I slowly lowered the potion bottle and fixed Huginn with a steady gaze.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "55",
+      "sol": "My mind raced. I slowly set down the potion bottle and stared at Huginn.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Since I became an adult and officially began serving the Guild Master, I’ve met three Muninns. Including the ones before then, the person now called The Prophet is the fifth Muninn.”",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "59",
+      "sol": "“Since I became an adult and officially began serving the Guild Master, I’ve met three Muninns. If you count the ones before that, the man now called The Prophet is the fifth.”",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What do you mean, before then?”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "61",
+      "sol": "“Before that?”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When the Great Cataclysm hadn’t ended yet. Everywhere you went, there were war orphans. I was one of them, too. Though I wasn’t a child, of course.”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "63",
+      "sol": "“Before the Great Cataclysm ended. There were war orphans everywhere you went. I was one of them, though I wasn’t a little kid.”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I didn’t need to hear the details to see the outline of it.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "65",
+      "sol": "I didn’t need the details to picture what had happened.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Good people and bad people saw the world in completely different ways.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "67",
+      "sol": "",
+      "sol_paragraphs": "after P30",
+      "sol_range": [
+        30,
+        30
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The good might have pitied the countless orphans left in the wake of the Great Cataclysm. Those on the opposite side would have used them as stepping stones for their ambitions.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "69",
+      "sol": "Good people and bad people saw the world differently. Good people might have pitied the countless orphans left by the Great Cataclysm. Others saw a way to further their ambitions.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Lee Jungryong acquired Go Jun the same way.*",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "71",
+      "sol": "*Lee Jungryong found Go Jun the same way.*",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The good fortune of Awakening came equally to everyone in humanity after their twentieth birthday.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "73",
+      "sol": "",
+      "sol_paragraphs": "after P32",
+      "sol_range": [
+        32,
+        32
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In that sense, orphans with no one to rely on were lottery tickets that hadn’t been scratched yet. Huginn must have been a diamond Michael Silbert had plucked from the mud.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "75",
+      "sol": "Once you turned twenty, anyone could have the good fortune to Awaken. Orphans with no one to rely on were unscratched lottery tickets, and Huginn must have been a diamond Michael Silbert plucked from the mud.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“More precisely, the first Muninn. That was the first and last time I saw him.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "81",
+      "sol": "“The first Muninn, to be precise. I only saw him once.”",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The last? What happened after that?”",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "83",
+      "sol": "“Only once? What happened after that?”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It was after the Great Cataclysm ended. The Guild Master didn’t want my existence to come to light, so he kept me close after I’d completed a certain amount of training in secret. From that day on, I became Huginn, and I was introduced to a man with an unfamiliar face.”",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "85",
+      "sol": "“The Great Cataclysm ended. The Guild Master wanted to keep my existence secret, so after I’d trained in secret for a while, he brought me to his side. That was the day I became Huginn. He introduced me to a man I’d never seen before.”",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And he was the new Muninn?”",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "87",
+      "sol": "“The new Muninn?”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What happened to the first Muninn?”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "91",
+      "sol": "“What happened to the first?”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무닌",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Muninn"
+        }
+      ]
+    },
+    {
+      "baseline": "“Gone missing? If he was Michael Silbert’s right-hand man, he must have been highly skilled.”",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "95",
+      "sol": "“Missing? If he was one of Michael Silbert’s closest men, he must have been skilled.”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At my sharp look, Huginn gave a bitter smile.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "97",
+      "sol": "Huginn gave a bitter smile at my look.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If you don’t believe me, there’s nothing I can do. But that’s all I know. Back then, I hadn’t even Awakened. I wasn’t Huginn yet.”",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "99",
+      "sol": "“If you don’t believe me, I can’t help that. But it’s all I know. I hadn’t even Awakened back then. I wasn’t Huginn yet.”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When exactly?”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "101",
+      "sol": "“When exactly was this?”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Spring of 2021. The Guild Master was already famous by then. After the Great Battle of Paris, he was emerging as one of the heroes who embodied France. No, Europe.”",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "103",
+      "sol": "“Spring of 2021. The Guild Master was already famous. After the Great Battle of Paris, he was becoming one of the heroes who represented France—no, Europe.”",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I studied Huginn’s expression for a moment, but couldn’t find any sign of a lie in his face or eyes.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "105",
+      "sol": "I studied Huginn for a moment, but found no trace of a lie in his expression.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the important part started now.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "107",
+      "sol": "The important part came next.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Prophet… Who’s the fifth Muninn?”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "109",
+      "sol": "“The Prophet. Who’s the fifth Muninn?”",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Think back. Just tell me what you know. Everything you saw and heard.”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "113",
+      "sol": "“Think. Tell me exactly what you know. Everything you saw and heard.”",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Huginn furrowed his brow and thought for a while, but it didn’t take long for him to speak.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "115",
+      "sol": "Huginn frowned in thought, but it didn’t take him long to answer.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He was a white man. Most of his face was covered, so I couldn’t get a good look at him… But his build didn’t look suited to close combat. That’s just my personal impression, of course.”",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "117",
+      "sol": "“A white man. Most of his face was covered, so I didn’t get a good look at him. His build didn’t seem suited to close combat, though. That was only my impression.”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "You couldn’t judge a Hunter by their build alone—not when you had someone like Jeok Cheongang, with his slight frame, as proof.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "119",
+      "sol": "",
+      "sol_paragraphs": "after P54",
+      "sol_range": [
+        54,
+        54
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        },
+        {
+          "korean": "헌터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hunter"
+        }
+      ]
+    },
+    {
+      "baseline": "But if someone as skilled as Huginn had gotten that impression, it was worth taking seriously.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "121",
+      "sol": "Jeok Cheongang was slight, and no one would judge his abilities by his build. Still, an impression from someone as skilled as Huginn was worth taking seriously.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The problem was… the information he’d given me was nowhere near enough to figure out The Prophet’s identity.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "123",
+      "sol": "The problem was that it gave me nowhere near enough to identify The Prophet.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A white man. Maybe a ranged Hunter. That’s all you know?”",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "125",
+      "sol": "“A white man. Possibly a ranged Hunter. That’s all you know?”",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Huginn swallowed dryly at my calm but icy voice, then answered.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "127",
+      "sol": "Huginn swallowed at my quiet, cold voice.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s why I said I didn’t know much. I saw him only once, about three years ago. And even then, the Guild Master ordered me to leave right away.”",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "129",
+      "sol": "“I told you I didn’t know much. I met him once, about three years ago. The Guild Master ordered me to leave almost immediately.”",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then how do you know he’s The Prophet? That he killed Siegfried Wassmann?”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "131",
+      "sol": "“Then how do you know he’s The Prophet? Or that he killed Siegfried Wassmann?”",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Guild Master told me when the time came. That’s how it’s always been with Muninn.”",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "133",
+      "sol": "“The Guild Master told me when the time came. That’s how it’s always worked with Muninn.”",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When I stayed by the Guild Master’s side and acted as his hands and feet, they were weapons sent on more dangerous missions. They’d disappear for a year, sometimes several, then suddenly show up one day. I always came into the picture afterward.”",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "137",
+      "sol": "“I stayed by the Guild Master’s side and acted as his hands and feet. They were weapons he sent on more dangerous missions. They’d be gone for a year, sometimes several years, then suddenly appear again. I was always brought in afterward.”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Information about Sky, Cheon Taemin. And…”",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "141",
+      "sol": "“Information about Sky—Cheon Taemin. And…”",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That…”",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "145",
+      "sol": "“Well…”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My palm whipped out like a lash and slapped Huginn across the face.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "149",
+      "sol": "",
+      "sol_paragraphs": "after P68",
+      "sol_range": [
+        68,
+        68
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "후긴",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Huginn"
+        }
+      ]
+    },
+    {
+      "baseline": "After hesitating for a moment, he spat blood and muttered a few words through his pained expression.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "151",
+      "sol": "My palm whipped across Huginn’s face. He spat blood, then muttered a few words through the pain.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "경험치",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "EXP"
+        }
+      ]
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "155",
+      "sol": "“…!”",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“All of it was information the Muninn from three years ago brought back. That’s everything. Damn it.”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "157",
+      "sol": "“The Muninn from three years ago brought back all that information. That’s everything. Damn it.”",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I stared at Huginn, frozen like a statue.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "159",
+      "sol": "I stared at him, frozen.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "후긴",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Huginn"
+        }
+      ]
+    },
+    {
+      "baseline": "Was it anger?",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "161",
+      "sol": "Anger?",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*He knew about Leviathan from the start, and used Magic Gems to lure it to Tokyo.*",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "165",
+      "sol": "*He knew about Leviathan from the start. He used Magic Gems to lure it to Tokyo.*",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the one who gave that information to Michael Silbert was none other than Muninn—the very man now called The Prophet.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "167",
+      "sol": "And the one who’d given Michael Silbert that information was Muninn—the man now called The Prophet.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The truth finally laid bare sent a chill down my spine, as if someone had poured ice water over me.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "169",
+      "sol": "The truth sent a chill down my spine, as if someone had poured ice water over me.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*How the hell?*",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "171",
+      "sol": "*How the hell did he know?*",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even modern humanity, which had brought civilization to greater heights than ever before, still knew little about the deep sea.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "173",
+      "sol": "",
+      "sol_paragraphs": "after P79",
+      "sol_range": [
+        79,
+        79
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "심해",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "deep sea"
+        }
+      ]
+    },
+    {
+      "baseline": "And yet… he’d found the catastrophic presence lurking in those dark, distant depths.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "175",
+      "sol": "For all the heights modern civilization had reached, the deep sea remained largely unexplored. Yet he’d learned of the calamity lurking in its dark depths.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Maybe it had all been on Michael Silbert’s orders. But could that really be the whole story?",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "177",
+      "sol": "Perhaps he’d done it all on Michael Silbert’s orders. But was that the whole story?",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I swallowed the curse rising from deep in my chest.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "181",
+      "sol": "I swallowed the curse rising in my chest.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Now I understood.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "183",
+      "sol": "",
+      "sol_paragraphs": "after P83",
+      "sol_range": [
+        83,
+        83
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Why no one had ever noticed Muninn’s existence.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "185",
+      "sol": "Now I understood why no one had ever noticed Muninn.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A hidden blade that secretly visited Michael Silbert once every few years—sometimes after just one.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "187",
+      "sol": "",
+      "sol_paragraphs": "after P84",
+      "sol_range": [
+        84,
+        84
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "미카엘",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Michael"
+        },
+        {
+          "korean": "실베르트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Silbert"
+        }
+      ]
+    },
+    {
+      "baseline": "Unlike Huginn, he hadn’t stayed at Silbert’s side day to day. And since he was sometimes replaced because of his dangerous missions, there’d been no way to notice him.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "189",
+      "sol": "A hidden blade who visited Michael Silbert in secret, sometimes after a year, more often after several. He never stayed at Silbert’s side the way Huginn did. With dangerous missions replacing the man behind the name from time to time, how could anyone have noticed?",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even Huginn, who’d handled most of Michael Silbert’s affairs as his right hand, barely knew anything about Muninn.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "191",
+      "sol": "Even Huginn, who handled most of Michael Silbert’s affairs, knew little about him.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무닌",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Muninn"
+        }
+      ]
+    },
+    {
+      "baseline": "But one thing was certain…",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "193",
+      "sol": "One thing was certain.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*He’s dangerous. Far more than I ever imagined.*",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "195",
+      "sol": "*He’s dangerous. Far more dangerous than I thought.*",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He’d taken down Siegfried Wassmann, an outstanding Grand Mage, all on his own. He’d also drawn the outlines of the events behind this terrorist attack and supplied the information to Michael Silbert.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "197",
+      "sol": "He’d killed Siegfried Wassmann, an outstanding Grand Mage, single-handedly. He’d also drawn up the plans behind the major events of this terrorist attack and passed them to Michael Silbert.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Michael Silbert hadn’t done it on his own.*",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "199",
+      "sol": "*Silbert hadn’t done it alone.*",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "미카엘",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Michael"
+        }
+      ]
+    },
+    {
+      "baseline": "Michael Silbert had reached his current position thanks to the loyal Muninns who’d died for him.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "201",
+      "sol": "Michael Silbert had reached his position thanks to the loyal Muninns who’d died for him.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I didn’t know what kind of results the previous Muninns had achieved, but the Prophet I was picturing now was already far more than a mere subordinate.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "203",
+      "sol": "I didn’t know what the earlier Muninns had accomplished. But the man I now knew as The Prophet was far more than a mere subordinate.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Where the hell did he find people like that?*",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "207",
+      "sol": "*Where the hell did he find people like them?*",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter how vast the world was, no matter how many secrets it held, things eventually leaked out somewhere. Just as the great Guilds secretly trained new S-rank Hunters beyond the public eye.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "209",
+      "sol": "The world was vast and full of secrets, but secrets had a way of leaking. Even the great Guilds training new S-rank Hunters out of sight couldn’t hide everything forever.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But this was beyond anything I’d expected.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "211",
+      "sol": "This was beyond anything I’d imagined.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "경험치",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "EXP"
+        }
+      ]
+    },
+    {
+      "baseline": "*They must have been handling the dirty work for a long time.*",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "213",
+      "sol": "*They must have handled his dirty work for years.*",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were the darkest shadows Michael Silbert had kept hidden.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "217",
+      "sol": "",
+      "sol_paragraphs": "after P98",
+      "sol_range": [
+        98,
+        98
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "미카엘",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Michael"
+        },
+        {
+          "korean": "실베르트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Silbert"
+        }
+      ]
+    },
+    {
+      "baseline": "For a long time, they’d smuggled unrefined Magic Gems out of the Middle East and Africa without pause, and stored them away. They were warehouse keepers, blades that eliminated rivals, and informants, all at once.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "219",
+      "sol": "They were Michael Silbert’s darkest shadows. For years, they’d smuggled unrefined Magic Gems out of the Middle East and Africa without pause and stored them away. They’d been his warehouse keepers, his informants, and the blades he used to eliminate rivals.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At least, until Michael Silbert died.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "221",
+      "sol": "At least until Michael Silbert died.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*But now the Prophet had all of it.*",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "223",
+      "sol": "*Now the fifth has it all.*",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "선지자",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "The Prophet"
+        }
+      ]
+    },
+    {
+      "baseline": "This wasn’t just a pair of hands and feet like Huginn.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "225",
+      "sol": "",
+      "sol_paragraphs": "after P101",
+      "sol_range": [
+        101,
+        101
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "후긴",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Huginn"
+        }
+      ]
+    },
+    {
+      "baseline": "The arm called Muninn, torn from its dead master’s body, had already made itself a new body.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "227",
+      "sol": "He wasn’t merely a pair of hands and feet like Huginn. The arm called Muninn had broken away from its dead master’s body and grown a body of its own.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An heir who commanded countless fanatics from a religion followed by twenty percent of the world’s population—and who’d inherited everything his dead master had hidden away.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "231",
+      "sol": "An heir who commanded countless fanatics of a religion followed by twenty percent of the world’s population, and who’d inherited everything his dead master had hidden.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That madman now had the knife’s handle in his grasp.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "233",
+      "sol": "That madman now held the knife by the handle.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No. It couldn’t be that.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "239",
+      "sol": "",
+      "sol_paragraphs": "after P107",
+      "sol_range": [
+        107,
+        107
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I couldn’t make a firm judgment based on information that was still uncertain, not in a situation like this.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "241",
+      "sol": "No. Not that. I couldn’t jump to conclusions on information I wasn’t even sure of, especially now.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I forcibly brushed away the thought that had flashed through my mind and sprang to my feet.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "243",
+      "sol": "I forced the thought from my mind and sprang to my feet.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had to tell everyone about this information as soon as possible and call back the search teams scattered across the Middle East.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "245",
+      "sol": "I had to tell everyone what I’d learned and call back the search teams scattered across the Middle East, as fast as I could. The Prophet was strong enough to kill a Grand Mage alone. I’d sent those teams into the desert to prevent more deaths, not to throw their lives away.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Prophet was powerful enough to kill a Grand Mage on his own.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "247",
+      "sol": "",
+      "sol_paragraphs": "after P110",
+      "sol_range": [
+        110,
+        110
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "대마도사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grand Mage"
+        },
+        {
+          "korean": "선지자",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "The Prophet"
+        }
+      ]
+    },
+    {
+      "baseline": "I’d sent them into the desert to prevent even greater losses, not to throw their lives away.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "249",
+      "sol": "",
+      "sol_paragraphs": "after P110",
+      "sol_range": [
+        110,
+        110
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Right. This guy was still here.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "253",
+      "sol": "Right. Huginn was still here.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the desperate voice holding me back, I turned around.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "255",
+      "sol": "",
+      "sol_paragraphs": "after P112",
+      "sol_range": [
+        112,
+        112
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before he could get another word out, I snatched a potion bottle from the box and brought it down on the crown of his head at lightning speed.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "257",
+      "sol": "I turned at his desperate cry. Before he could say another word, I snatched a potion bottle from the box and brought it down on the crown of his head with lightning speed.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Huginn lost consciousness in one blow and toppled over along with his chair.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "261",
+      "sol": "Huginn lost consciousness in a single blow and toppled over with his chair.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Probably a concussion at the very least, but he’d been drenched in potion, too. He’d be fine.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "263",
+      "sol": "A concussion at the very least. But he’d been drenched in potion, so he’d probably be fine.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Make sure you live a nice, long life, okay?”",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "265",
+      "sol": "“Live a nice, long life, okay?”",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I spat phlegm toward him, brushed the glass dust off my hand, and walked outside.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "267",
+      "sol": "I spat toward him, brushed the glass dust off my hand, and stepped outside. The torturers were pacing in the hallway. I jerked my chin at them.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then I nodded at the torturers pacing in the hallway.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "269",
+      "sol": "",
+      "sol_paragraphs": "after P118",
+      "sol_range": [
+        118,
+        118
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He told us a fair amount, but there might still be things he hasn’t said.”",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "271",
+      "sol": "“He talked a fair bit, but there might be more he hasn’t told us.”",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Get it out of him. Squeeze him for every last drop, even his soul.”",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "275",
+      "sol": "“Get it out of him. Squeeze out every last thing, even if you have to wring his soul dry.”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The torturers answered, their faces lighting up.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "277",
+      "sol": "Their faces lit up.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ll do my best. There are a lot of methods we haven’t tried yet.”",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "281",
+      "sol": "“We’ll do our best. There are plenty of methods we haven’t tried.”",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "You make those with people. Not trash like Huginn.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "289",
+      "sol": "You made promises to people. Not trash like Huginn.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As I listened to Team Leader Choi answer through my smartphone, I walked down the hall. Then I turned my head and looked out the window.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "293",
+      "sol": "I listened to Team Leader Choi answer over the phone as I crossed the hallway. Then I turned to look out the window.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moon peeking through the clouds looked unusually red tonight.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "295",
+      "sol": "Tonight, the moon showing through the clouds looked unusually red.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 131,
+  "sol_sha256": "615c6c8baa2f8137ce37322a6dd62e680abb2fbce933153cfc1b0f7bf29366f7",
+  "version": 1
+}

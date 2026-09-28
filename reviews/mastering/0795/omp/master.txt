@@ -4,7 +4,7 @@
 >
 > Quest success conditions met!
 >
-> **Mission:** Discover the truth behind the death (Complete)
+> **Mission:** Discover the truth behind his death (Complete)
 >
 > Quest *An Unknown Death* successfully completed!
 >
@@ -18,7 +18,7 @@ The System messages appearing before my eyes and ringing in my ears were the fin
 
 But a Quest was just a Quest. I wanted more.
 
-Everything about Muninn—or the person called The Prophet.
+Everything he knew about Muninn—the person called The Prophet.
 
 “Spill everything you know about him. Don’t leave out a single thing.”
 
@@ -28,7 +28,7 @@ I leaned in until Huginn’s trembling breath brushed my face.
 
 “An agreement? Of course I’ll keep it. Just not now.”
 
-The condition for keeping my promise in the first place was confirming that The Prophet had killed Siegfried Wassmann. But in this relationship, I was the one holding all the cards.
+I’d promised to keep my word if he confirmed that The Prophet had killed Siegfried Wassmann. But I was the one holding the knife by the handle.
 
 “Talk. Or you’ll rot in prison until the day you die.”
 
@@ -52,7 +52,7 @@ That was too loaded a phrase to brush off.
 
 It sounded as if…
 
-“Like he hasn’t always been the same person.”
+“He hasn’t always been the same person.”
 
 “That’s right. He’s changed several times.”
 
@@ -60,7 +60,7 @@ My mind raced. I slowly set down the potion bottle and stared at Huginn.
 
 “Tell me more.”
 
-“Since I became an adult and officially began serving the Guild Master, I’ve met three Muninns. Including the ones before then, the person now called The Prophet is the fifth Muninn.”
+“Since I became an adult and officially began serving the Guild Master, I’ve met three Muninns. If you count the ones before that, the man now called The Prophet is the fifth.”
 
 “Before that?”
 
@@ -72,17 +72,15 @@ Good people and bad people saw the world differently. Good people might have pit
 
 *Lee Jungryong found Go Jun the same way.*
 
-The good fortune of Awakening came equally to everyone in humanity after their twentieth birthday.
-
-In that sense, orphans with no one to rely on were lottery tickets that hadn’t been scratched yet. Huginn must have been a diamond Michael Silbert had plucked from the mud.
+Once you turned twenty, anyone could have the good fortune to Awaken. Orphans with no one to rely on were unscratched lottery tickets, and Huginn must have been a diamond Michael Silbert plucked from the mud.
 
 And…
 
 “That’s when you met Muninn.”
 
-“More precisely, the first Muninn. That was the first and last time I saw him.”
+“The first Muninn, to be precise. I only saw him once.”
 
-“The last? What happened after that?”
+“Only once? What happened after that?”
 
 “The Great Cataclysm ended. The Guild Master wanted to keep my existence secret, so after I’d trained in secret for a while, he brought me to his side. That was the day I became Huginn. He introduced me to a man I’d never seen before.”
 
@@ -90,11 +88,11 @@ And…
 
 Huginn nodded.
 
-“What happened to the first Muninn?”
+“What happened to the first?”
 
 “I don’t know. The Guild Master only told me he’d gone missing during the Great Cataclysm. He probably died in the war.”
 
-“Gone missing? If he was Michael Silbert’s right-hand man, he must have been highly skilled.”
+“Missing? If he was one of Michael Silbert’s closest men, he must have been skilled.”
 
 Huginn gave a bitter smile at my look.
 
@@ -104,31 +102,29 @@ Huginn gave a bitter smile at my look.
 
 “Spring of 2021. The Guild Master was already famous. After the Great Battle of Paris, he was becoming one of the heroes who represented France—no, Europe.”
 
-I studied Huginn’s expression for a moment, but couldn’t find any sign of a lie in his face or eyes.
+I studied Huginn for a moment, but found no trace of a lie in his expression.
 
 The important part came next.
 
-“The Prophet… Who’s the fifth Muninn?”
+“The Prophet. Who’s the fifth Muninn?”
 
 “Hmm.”
 
-“Think back. Just tell me what you know. Everything you saw and heard.”
+“Think. Tell me exactly what you know. Everything you saw and heard.”
 
 Huginn frowned in thought, but it didn’t take him long to answer.
 
 “A white man. Most of his face was covered, so I didn’t get a good look at him. His build didn’t seem suited to close combat, though. That was only my impression.”
 
-You couldn’t judge a Hunter by their build alone—not when you had someone like Jeok Cheongang, with his slight frame, as proof.
-
-But if someone as skilled as Huginn had gotten that impression, it was worth taking seriously.
+Jeok Cheongang was slight, and no one would judge his abilities by his build. Still, an impression from someone as skilled as Huginn was worth taking seriously.
 
 The problem was that it gave me nowhere near enough to identify The Prophet.
 
 “A white man. Possibly a ranged Hunter. That’s all you know?”
 
-Huginn swallowed dryly at my calm but icy voice, then answered.
+Huginn swallowed at my quiet, cold voice.
 
-“That’s why I said I didn’t know much. I saw him only once, about three years ago. And even then, the Guild Master ordered me to leave right away.”
+“I told you I didn’t know much. I met him once, about three years ago. The Guild Master ordered me to leave almost immediately.”
 
 “Then how do you know he’s The Prophet? Or that he killed Siegfried Wassmann?”
 
@@ -144,11 +140,11 @@ Huginn swallowed dryly at my calm but icy voice, then answered.
 
 “And what?”
 
-“That…”
+“Well…”
 
 *Smack!*
 
-After hesitating for a moment, he spat blood and muttered a few words through his pained expression.
+My palm whipped across Huginn’s face. He spat blood, then muttered a few words through the pain.
 
 “Tokyo. Leviathan. Magic Gems.”
 
@@ -156,7 +152,7 @@ After hesitating for a moment, he spat blood and muttered a few words through hi
 
 “The Muninn from three years ago brought back all that information. That’s everything. Damn it.”
 
-I stared at Huginn, frozen like a statue.
+I stared at him, frozen.
 
 Anger?
 
@@ -164,11 +160,11 @@ No. Shock.
 
 *He knew about Leviathan from the start. He used Magic Gems to lure it to Tokyo.*
 
-And the one who gave that information to Michael Silbert was none other than Muninn—the very man now called The Prophet.
+And the one who’d given Michael Silbert that information was Muninn—the man now called The Prophet.
 
 The truth sent a chill down my spine, as if someone had poured ice water over me.
 
-*How the hell?*
+*How the hell did he know?*
 
 For all the heights modern civilization had reached, the deep sea remained largely unexplored. Yet he’d learned of the calamity lurking in its dark depths.
 
@@ -180,19 +176,19 @@ I swallowed the curse rising in my chest.
 
 Now I understood why no one had ever noticed Muninn.
 
-Unlike Huginn, he hadn’t stayed at Silbert’s side day to day. And since he was sometimes replaced because of his dangerous missions, there’d been no way to notice him.
+A hidden blade who visited Michael Silbert in secret, sometimes after a year, more often after several. He never stayed at Silbert’s side the way Huginn did. With dangerous missions replacing the man behind the name from time to time, how could anyone have noticed?
 
-Even Huginn, who’d handled most of Michael Silbert’s affairs as his right hand, barely knew anything about Muninn.
+Even Huginn, who handled most of Michael Silbert’s affairs, knew little about him.
 
 One thing was certain.
 
 *He’s dangerous. Far more dangerous than I thought.*
 
-He’d taken down Siegfried Wassmann, an outstanding Grand Mage, all on his own. He’d also drawn the outlines of the events behind this terrorist attack and supplied the information to Michael Silbert.
+He’d killed Siegfried Wassmann, an outstanding Grand Mage, single-handedly. He’d also drawn up the plans behind the major events of this terrorist attack and passed them to Michael Silbert.
 
-*Michael Silbert hadn’t done it on his own.*
+*Silbert hadn’t done it alone.*
 
-Michael Silbert had reached his current position thanks to the loyal Muninns who’d died for him.
+Michael Silbert had reached his position thanks to the loyal Muninns who’d died for him.
 
 I didn’t know what the earlier Muninns had accomplished. But the man I now knew as The Prophet was far more than a mere subordinate.
 
@@ -200,11 +196,11 @@ Another root. Or a second Michael Silbert.
 
 *Where the hell did he find people like them?*
 
-No matter how vast the world was, no matter how many secrets it held, things eventually leaked out somewhere. Just as the great Guilds secretly trained new S-rank Hunters beyond the public eye.
+The world was vast and full of secrets, but secrets had a way of leaking. Even the great Guilds training new S-rank Hunters out of sight couldn’t hide everything forever.
 
 This was beyond anything I’d imagined.
 
-*They must have been handling the dirty work for a long time.*
+*They must have handled his dirty work for years.*
 
 Five Muninns. And the fifth Muninn.
 
@@ -212,7 +208,7 @@ They were Michael Silbert’s darkest shadows. For years, they’d smuggled unre
 
 At least until Michael Silbert died.
 
-*But now the Prophet had all of it.*
+*Now the fifth has it all.*
 
 He wasn’t merely a pair of hands and feet like Huginn. The arm called Muninn had broken away from its dead master’s body and grown a body of its own.
 
@@ -246,7 +242,7 @@ A concussion at the very least. But he’d been drenched in potion, so he’d pr
 
 “Live a nice, long life, okay?”
 
-I spat phlegm toward him, brushed the glass dust off my hand, and walked outside.
+I spat toward him, brushed the glass dust off my hand, and stepped outside. The torturers were pacing in the hallway. I jerked my chin at them.
 
 “He talked a fair bit, but there might be more he hasn’t told us.”
 
@@ -258,7 +254,7 @@ Their faces lit up.
 
 “Yes, sir.”
 
-“I’ll do my best. There are a lot of methods we haven’t tried yet.”
+“We’ll do our best. There are plenty of methods we haven’t tried.”
 
 “Oh, look at this, Michael! Santa left us a whole box of potions!”
 
@@ -266,7 +262,7 @@ Their faces lit up.
 
 A promise?
 
-You make those with people. Not trash like Huginn.
+You made promises to people. Not trash like Huginn.
 
 “Everyone on the leadership team, to the strategy room. Right now.”
 

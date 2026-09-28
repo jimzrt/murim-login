@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*Smack!*",
+      "defect": "The source explicitly says the narrator’s palm lashes out and slaps Huginn across the face. The assembled text retains only the sound, omitting the action and where it lands.",
+      "id": "F01",
+      "rationale": "The Korean states that the palm struck Huginn’s cheek; the sound alone does not preserve that physical action.",
+      "replacement": "*Smack!* My palm whipped out like a lash and slapped Huginn across the face.",
+      "severity": "minor",
+      "source": "Lines 155–159"
+    },
+    {
+      "confidence": 0.91,
+      "current": "I spat phlegm toward him,",
+      "defect": "“Toward him” specifies the direction of the spit, which the source does not establish.",
+      "id": "F03",
+      "rationale": "The Korean says the narrator spat phlegm, without specifying that he aimed it at Huginn.",
+      "replacement": "I spat phlegm,",
+      "severity": "minor",
+      "source": "Line 275"
+    }
+  ],
+  "summary": "The assembled chapter omits the explicit slap and loses the hidden-blade image and the cadence of Muninn’s visits.",
+  "version": 1
+}

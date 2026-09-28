@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled chapter omits the explicit slap and loses the hidden-blade image and the cadence of Muninn’s visits.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 155–159",
+      "current": "*Smack!*",
+      "defect": "The source explicitly says the narrator’s palm lashes out and slaps Huginn across the face. The assembled text retains only the sound, omitting the action and where it lands.",
+      "replacement": "*Smack!* My palm whipped out like a lash and slapped Huginn across the face.",
+      "rationale": "The Korean states that the palm struck Huginn’s cheek; the sound alone does not preserve that physical action.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 195",
+      "current": "Unlike Huginn, he hadn’t stayed at Silbert’s side day to day.",
+      "defect": "The assembled copy omits the description of Muninn as a hidden blade who secretly visited Michael Silbert, as well as the visit cadence: as often as once a year, but usually only once every several years.",
+      "replacement": "A hidden blade who secretly visited Michael Silbert as rarely as once every several years—or, at most often, once a year.",
+      "rationale": "The source gives both the hidden-blade image and the visits’ frequency. The accepted baseline preserved them; the assembled copy replaces them with the broader statement that Muninn did not stay by Silbert’s side day to day.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 275",
+      "current": "I spat phlegm toward him,",
+      "defect": "“Toward him” specifies the direction of the spit, which the source does not establish.",
+      "replacement": "I spat phlegm,",
+      "rationale": "The Korean says the narrator spat phlegm, without specifying that he aimed it at Huginn.",
+      "confidence": 0.91
+    }
+  ]
+}
