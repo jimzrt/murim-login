@@ -2,7 +2,7 @@
 
 Returning to everyday life usually means things have settled down.
 
-But immediately after the mysterious death of Siegfried Wassmann, we returned to our respective positions only to face a frantic stretch of time.
+But after Siegfried Wassmann’s mysterious death, we went back to our respective posts only to find ourselves busier than ever.
 
 “The magical-power reading at the C-rank Gate in Sokcho, Gangwon Province, is rising rapidly. It’s at Stage Two… entering Stage Three! We have a mutation Gate!”
 
@@ -44,7 +44,7 @@ And at those horrific scenes, I fought as hard as I could.
 
 White Flame’s spearhead sliced cleanly through hide and bone harder than armor.
 
-The enormous monster—I had no idea how many I’d killed by then—stopped dead in its tracks. Then it slowly turned around and split in two from top to bottom.
+The enormous monster—I’d lost count of how many I’d killed—stopped dead. It slowly turned toward me and split down the middle.
 
 *Shff. Thud!*
 
@@ -158,7 +158,7 @@ I looked from the handkerchief to her and smacked my lips.
 
 “Just curious. Are you saving your Clean Magic to make soup with?”
 
-“Do you think Magic works by putting coins into it? You can chug potions to replenish mana, but you can’t replenish mental energy that’s already been spent. I’m already not getting enough sleep these days, so shut up and use the handkerchief.”
+“You think I put a coin in every time I cast a spell? Potions can restore mana, but they can’t restore the mental energy I’ve spent. I’m barely sleeping as it is, so shut up and use the handkerchief.”
 
 I knew who was chiefly responsible for her lack of sleep, so I couldn’t argue.
 
@@ -196,7 +196,7 @@ Song Song frowned.
 
 “I thought you were getting back to normal. What’s with you? If you want to blame yourself that badly, kill those bastards first. Then you can beat yourself up all you like.”
 
-That was exactly what I wanted to do.
+Nothing would make me happier.
 
 But it wasn’t that easy. Three days had passed since our trip to Switzerland, and little had changed.
 
@@ -204,7 +204,7 @@ Magic Johnson’s investigation had produced no results. Neither magic nor satel
 
 “Don’t blame yourself so much, and don’t worry so much. You’re not the only one working hard. Uncle Kkeokjeong was raising hell yesterday, saying he’d go straight to Paris and cut Michael’s head off.”
 
-“That… It’s reassuring to have an entire army on our side, but if he did that, Uncle Kkeokjeong would be the one losing his head.”
+“Well, it’s reassuring to know he’s on our side, but if he did that, Uncle Kkeokjeong would lose his own head.”
 
 “Yeah. That’s exactly what I told him.”
 
@@ -222,7 +222,7 @@ He looked even more exhausted than Song Song. His usually immaculate office was 
 
 “Thank you for making the long trip. But…”
 
-Team Leader Choi looked back and forth between Song Song and me, then lowered his voice.
+He glanced between us and lowered his voice.
 
 “Where’s the other one?”
 
@@ -232,30 +232,28 @@ Team Leader Choi looked back and forth between Song Song and me, then lowered hi
 
 Had I kept him shut away too long? He sounded furious.
 
-I took the Skeleton King out of my Inventory, pretending to rummage through the subspace pouch at my waist as I recited the command.
+I pretended to rummage through the subspace pouch at my waist as I took the Skeleton King out of my Inventory.
 
 *Inventory open. Summon.*
 
 A sturdy young white man popped into view. Song Song muttered, “Wow. Easy birth.”
 
-“Shut your mouth, beautiful but ill-mannered human female. How dare you compare this body to such a thing…”
+“Shut your mouth, beautiful but ill-mannered human female. How dare you compare me to—”
 
 “Thanks. I feel so much better now.”
 
-“You damn…”
+“Damn you.”
 
-The Skeleton King’s face was full of displeasure as he muttered a curse, but there was nothing we could do about it.
+The Skeleton King looked thoroughly displeased, but we had no choice.
 
 *Even if his identity is partly out in the open, we need to keep him hidden as much as we can.*
 
 We’d given him a new past and identity, but nothing in this world was perfect. Even the Pentagon, supposedly the most secure place on earth, had been breached the same way.
 
-Given the circumstances, we had no choice but to limit his exposure as much as possible.
+Under the circumstances, we had to limit his exposure wherever we could.
 
 But Team Leader Choi’s next words made me realize we would have to play the Skeleton King card.
 
-“Three minutes ago, Tokyo Bay collapsed.”[^2]
+“Three minutes ago, Tokyo Bay collapsed.”
 
 [^1]: Ganggangsullae is a traditional Korean circle dance and folk song.
-
-[^2]: The Korean wording literally says that Tokyo Bay “collapsed,” preserving the alarming ambiguity of the announcement.
