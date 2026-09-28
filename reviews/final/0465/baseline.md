@@ -60,7 +60,7 @@ Bones ground against one another as he started forward. A long fishing rod had s
 
 It could not compare to Ten-Thousand-Year Cold Iron, but this was the Dongting Fisherman’s signature weapon, said to be as strong as meteorite iron and extraordinarily flexible.
 
-Despite being partially damaged, it was still one *zhang*[^1] long. A fishing line and hook with a faint sheen hung from its tip.
+Despite being partially damaged, it was still one *zhang* long. A fishing line and hook with a faint sheen hung from its tip.
 
 *That’s…*
 
@@ -76,7 +76,7 @@ The line attached to the black-wood fishing rod was that very Heavenly Silkworm 
 
 Caution couldn’t hurt. Even if the Fire Dragon Armor was a divine weapon, it wasn’t invincible armor capable of blocking everything.
 
-I opened my mouth while staring at the Dongting Fisherman, who had stopped three *zhang*[^1] away.
+I opened my mouth while staring at the Dongting Fisherman, who had stopped three zhang away.
 
 “You have two choices. First, you die by my hand right here. Second, you tell me everything you know without leaving out a single detail, then atone to your victims. Which will it be?”
 
@@ -120,7 +120,7 @@ Now that I looked at him, he did resemble the monster from that movie. The small
 
 I clicked my tongue softly and addressed the Dongting Fisherman.
 
-“This changes the genre… The divine artifact you people are looking for isn’t a ring,[^2] is it?”
+“This changes the genre… The divine artifact you people are looking for isn’t a ring, is it?”
 
 “……”
 
@@ -154,7 +154,7 @@ His eyes had turned pitch-black.
 
 As he charged alongside that streak of light, I spoke in a low, heavy voice.
 
-“Turn down the volume, you fucking bastard.”
+“Turn down the volume, you sibu-leol bastard.”
 
 *Fwoosh! Boom!*
 
@@ -162,11 +162,11 @@ Blue-white flames enveloped the transparent spearhead as I stepped forward.
 
 *Pop!*
 
-Three *zhang*[^1] was by no means a short distance.
+Three *zhang* was by no means a short distance.
 
 But the Dongting Fisherman and I were superhumans who had set foot in the realm of Supreme Peak. The moment we shot toward each other, distance lost all meaning. The gap vanished, and the air exploded.
 
-White Flame’s spearhead, carrying unimaginable heat, and the Heavenly Silkworm Thread, writhing like a living creature as it carried several *jiazi*[^3] of internal energy, tore through space.
+White Flame’s spearhead, carrying unimaginable heat, and the Heavenly Silkworm Thread, writhing like a living creature as it carried several *jiazi* of internal energy, tore through space.
 
 *Shh-shh-shh-shh-shing!*
 
@@ -180,7 +180,7 @@ The scars left on the countless corpses scattered throughout Donghu Stronghold f
 
 *He used this martial art to kill weak, innocent commoners.*
 
-I wasn’t especially sensitive, nor was I a *junzi*.[^4] I had no reason to defend the bandits of the Yangtze River Channel League. They were river bandits who had gathered to plunder, and they had undoubtedly taken other people’s lives and property.
+I wasn’t especially sensitive, nor was I a *junzi*. I had no reason to defend the bandits of the Yangtze River Channel League. They were river bandits who had gathered to plunder, and they had undoubtedly taken other people’s lives and property.
 
 It might seem as though I had taken lives too, but the difference between me and them was that they had not killed to survive. They had done it because it served their purposes.
 
@@ -200,7 +200,7 @@ No human being should kill another like that.
 
 In the slowed world, my voice vanished beneath the raging wind.
 
-Power flooded the hand gripping the spear shaft. As the mighty Scorching Yang Qi[^5] boiled throughout my body, I brought the spearhead down at an angle.
+Power flooded the hand gripping the spear shaft. As the mighty Scorching Yang Qi boiled throughout my body, I brought the spearhead down at an angle.
 
 *Fwoosh. Shhk!*
 
@@ -228,11 +228,11 @@ I could tell where that strange fishing-rod weapon would move and how the Heaven
 
 My half-lidded eyes took in every detail, and my wide-open senses read each attack before it came.
 
-*If this had been me before my Middle Dantian[^6] opened, I would’ve struggled.*
+*If this had been me before my Middle Dantian opened, I would’ve struggled.*
 
 When the place where you stand changes, the scenery you see changes as well.
 
-Opening my Middle Dantian[^6] had expanded my senses and granted me a new field of vision I hadn’t even known existed. The results were unfolding before my eyes.
+Opening my Middle Dantian had expanded my senses and granted me a new field of vision I hadn’t even known existed. The results were unfolding before my eyes.
 
 *Here it comes.*
 
@@ -246,7 +246,7 @@ Even so, I predicted the oncoming trajectory with perfect accuracy and swung my 
 
 Another fast, razor-sharp strike severed the Heavenly Silkworm Thread.
 
-The line had once stretched five *zhang*[^1], but I’d reduced it by nearly half without allowing it to inflict any meaningful damage. An even more ferocious aura erupted from the Dongting Fisherman’s entire body.
+The line had once stretched five *zhang*, but I’d reduced it by nearly half without allowing it to inflict any meaningful damage. An even more ferocious aura erupted from the Dongting Fisherman’s entire body.
 
 “Now that’s more like a person.”
 
@@ -290,7 +290,7 @@ The pain was severe enough to make an ordinary person scream, but I accepted it 
 
 *This is nothing.*
 
-I’d endured countless injuries and unimaginable pain while traveling between the modern world and Murim.[^7]
+I’d endured countless injuries and unimaginable pain while traveling between the modern world and Murim.
 
 There had been times when I writhed in agony as though every bundle of nerves in my body were being severed, times when I had genuinely wanted to die.
 
@@ -323,11 +323,3 @@ As his scream of pain filled the cave, I raised my fist toward him.
 “……!”
 
 *Thud!*
-
-[^1]: A *zhang* is a traditional unit of length equal to ten *cheok*, approximately 3.03 m (9.94 ft). Three *zhang* is about 9.09 m (29.8 ft); five is about 15.2 m (49.7 ft).
-[^2]: A reference to Gollum and the One Ring in *The Lord of the Rings*.
-[^3]: A *jiazi* is a traditional sixty-year cycle.
-[^4]: A *junzi* is the Confucian ideal of a morally upright person.
-[^5]: *Qi* is vital energy in Chinese martial-arts tradition; Scorching Yang Qi is fire-aligned.
-[^6]: The Middle Dantian is one of the body’s energy centers in martial-arts tradition.
-[^7]: *Murim* is the world of martial artists and their sects in Korean martial-arts fiction.
