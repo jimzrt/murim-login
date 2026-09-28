@@ -14,7 +14,7 @@ He wasn’t getting tired. He just wasn’t.
 
 More precisely, whenever he seemed to be tiring, he was suddenly fine again. Even the Doppelganger, sick to death of experiencing death, was starting to curse.
 
-“What kind of fucking bastard is this……?”
+“What kind of fucking bastard are you……?”
 
 *Slice!*
 
@@ -38,7 +38,7 @@ One of the top twenty rankers in France, no less.
 
 *Jean the Swift.*
 
-Recalling the nickname from the memories it had absorbed, the Doppelganger stepped onto the ground with feet that felt unusually light.
+Recalling the nickname from the memories it had absorbed, the Doppelganger pushed off the ground with feet that felt unusually light.
 
 *Swish.*
 
@@ -46,7 +46,7 @@ A breeze skimmed past its chest by a hair’s breadth.
 
 Its form wavered like a heat haze, then appeared several meters back. A relaxed smile spread across its lips. It had dodged without difficulty.
 
-“From here on, things won’t be so ea—”
+“From here on, I won’t be so ea—”
 
 *Shwhack! Thunk!*
 
@@ -58,7 +58,7 @@ It hadn’t even seen what hit it. At least Jin Taekyung had stopped attacking f
 
 “Huh? What was that just now?”
 
-At the sight of him asking in apparent surprise, the Doppelganger felt sure of itself.
+Seeing him ask in apparent surprise, the Doppelganger felt sure it understood.
 
 *Of course. That last hit must’ve been pure luck.*
 
@@ -80,7 +80,7 @@ Jin Taekyung offered his thanks and condolences to the Hunter who’d been absor
 
 That was enough respect for the dead. What he needed to do next was already clear.
 
-Before even more people were sacrificed, he had to copy the EXP—no, completely destroy the Doppelganger.
+Before more people were sacrificed, he had to keep farming EXP—no, erase the Doppelganger completely.
 
 “No time to waste. Let’s get one more death in.”
 
@@ -108,7 +108,7 @@ It was an extraordinary ability. But not when measured against the rare few born
 
 Like the one who had sent it to this world.
 
-*Until every part of the plan is complete, I must never come face-to-face with the target.*
+*Until the plan is complete, you must never come face-to-face with the target.*
 
 *Whump!*
 
@@ -128,7 +128,7 @@ That freedom and power had gone to its head.
 
 In the Demon Realm, it had been bound to someone else. Here, it was a king in all but name, able to accomplish anything it set its mind to.
 
-The more arrogant the Doppelganger became, the less weight it gave to its orders—and the heavier its own complacency grew.
+The more arrogant it became, the less its orders mattered to it—and the more careless it grew.
 
 Michael Silbert?
 
@@ -196,13 +196,13 @@ Jin’s face blurred as its vision darkened, but the powerful aura pouring from 
 
 “The C-Chosen One……”
 
-The words slipped out like a groan. Its head drooped limply.
+The words escaped like a groan. Its head drooped.
 
 Jin Taekyung’s fist shot toward it like a mace to deliver another death—then touched its forehead as lightly as a blade of grass.
 
 *Tap. Fwoosh!*
 
-The wind swept around them, unable to keep up with the speed of his punch. Jin Taekyung’s cold gaze settled on the Doppelganger’s new face.
+The wind, unable to stop as quickly as his fist, swirled around them. Jin Taekyung’s cold gaze settled on the Doppelganger’s new face.
 
 “What did you just say?”
 
@@ -228,7 +228,7 @@ Fear of death itself.
 
 Its life was not infinite. To survive, it had absorbed the life force of others and burned it like firewood, just as its kin had once done.
 
-*And they, too, met Erasure.*
+*And they, too, were erased for good.*
 
 There had been a time when the Doppelgangers held sway over the Demon Realm. But after long years and a brutal purge, it alone had survived out of hundreds of its kind.
 
@@ -244,9 +244,9 @@ Mana gathered around its fist, coating it in a faint aura. The Doppelganger spra
 
 *Whoosh!*
 
-The thunderous rush of air came a moment later. A hard, thick palm blocked its fist.
+The rush of air sounded a moment later. A hard, broad palm met its fist.
 
-No—it squeezed it.
+No—it closed around it.
 
 *Crack.*
 
@@ -282,28 +282,28 @@ As it took its second step, a streak of light flashed toward it.
 
 *Slice!*
 
-Its headless body slammed into the ground. Several meters away, the Doppelganger came back to life, only for a lightning-fast strike to cleave down over its head.
+Its headless body slammed into the ground. Several meters away, the newly revived Doppelganger saw another lightning-fast strike cleave down over its head.
 
 *Fwoosh!*
 
-A fountain of blood burst from its body, split in two.
+Blood sprayed from its body as it split in two.
 
 Jin Taekyung didn’t stop. His heated spearhead cut through the air again and again.
 
 *Shh-shh-shhk!*
 
-A flash of light cut across its tilting body. Its limbs, chopped into dozens of pieces, hit the ground—and immediately began to grow back at a terrifying speed.
+A flash of light sliced through the falling body. Its limbs, chopped into dozens of pieces, hit the ground and began growing back at a terrifying speed.
 
 “Gyaaaah!”
 
 The Doppelganger roared as it revived amid that gruesome death. Pain still lingered, gnawing at its senses like insects.
 
-If Jin Taekyung had just used up a considerable amount of internal energy with that last strike, the Doppelganger had to sacrifice a dozen or more lives.
+Jin Taekyung had spent a considerable amount of internal energy on that last attack. The Doppelganger had paid with more than a dozen lives.
 
 Now it understood. To escape Jin Taekyung, it would have to spend even the lives it had been saving.
 
 *Fwooooo.*
 
-Vast mana poured over both its hands. Looking at a face he seemed to recognize, Jin Taekyung muttered like a groan:
+Vast amounts of mana poured over both its hands. At the sight of a face he recognized, Jin Taekyung muttered as if groaning.
 
 “Siegfried Bassman?”

@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "For more than thirty years, the Doppelganger had enjoyed a freedom it had never known before.",
+      "defect": "The Korean says it was freer than ever during those years, not that it had never known freedom before. The English makes a stronger claim about its past.",
+      "id": "F01",
+      "rationale": "그 어느 때보다 자유로웠고 compares its freedom with any time before; it does not say the Doppelganger had never previously been free.",
+      "replacement": "For more than thirty years, the Doppelganger had been freer than ever.",
+      "severity": "minor",
+      "source": "Lines 137–138"
+    },
+    {
+      "confidence": 0.78,
+      "current": "the rare few born to wield absolute power",
+      "defect": "This changes beings born with the fate of an absolute being into beings born to wield absolute power. The source does not specify wielding power as their destiny.",
+      "id": "F02",
+      "rationale": "절대자의 운명을 타고난 describes beings born with the fate of an absolute being, rather than explicitly saying they are destined to wield power.",
+      "replacement": "the rare few born to become absolute beings",
+      "severity": "minor",
+      "source": "Line 115"
+    }
+  ],
+  "summary": "Two minor additions shift the source’s comparison of the Doppelganger’s freedom and the nature of the exceptional beings.",
+  "version": 1
+}
