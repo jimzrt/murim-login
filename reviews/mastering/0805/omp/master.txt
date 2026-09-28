@@ -50,9 +50,7 @@ Or so the three S-rank monsters believed.
 
 *BOOM!*
 
-The earth flipped over with a deafening crash. Then a dark shadow fell overhead—
-
-—and their instincts awakened alongside the warning lights flashing in their minds.
+The ground erupted with a deafening crash. Then a dark shadow fell over them, and their instincts screamed a warning.
 
 These S-rank monsters were far too intelligent to dismiss as mere beasts. They understood at once what had happened, even as they struggled to accept what was right in front of them.
 
@@ -74,7 +72,7 @@ Flames spread as wide as a Grand Mage’s Fire Wall spell, but burned hotter. Th
 
 *Ding. Ding. Ding.*
 
-System alerts mingled with the dying screams of monsters.
+System alerts mingled with dying screams.
 
 But they weren’t all that awaited Jin Taekyung as he rose from the blackened ash.
 
@@ -96,7 +94,7 @@ A sharp ring sounded. The impossibly sturdy axe blade burst apart.
 
 *Crack—BOOM!*
 
-Hundreds of fragments rained down on the monsters rushing to save their commander.
+Hundreds of shattered fragments flew in every direction, tearing into the monsters rushing to save their commander.
 
 *Thud, thud, thud!*
 
@@ -104,7 +102,7 @@ Screams rose with sprays of blood. Corpses piled atop corpses.
 
 The Lycanthrope Champion stood frozen, bright yellow eyes wide. Jin Taekyung brought his spearhead down toward it without a moment’s hesitation.
 
-Or he would have, if not for the whistling sounds rushing in from both sides.
+Or he would have, if not for the sounds rushing in from both sides.
 
 *Whoooosh!*
 
@@ -120,7 +118,7 @@ His body moved before the thought was complete. Straightening, he released the s
 
 *Whoom—BOOM!*
 
-A shockwave and crash shook the ground.
+The impact shook the ground.
 
 But the sword and claws, shrouded in immense magical power, canceled out the force of his Flame Divine Palm. They didn’t stop there.
 
@@ -184,7 +182,7 @@ The Skeleton King’s gaze dropped to Jin Taekyung’s thigh. It looked as thoug
 
 The Manticore Lord had struck there with the Fire Dragon Armor around Jin Taekyung’s upper body in mind. It was as clever as it was strong.
 
-“Looks more like it tested your blood.”
+“Looks like you got bloodied instead.”
 
 “They’re stronger than I expected. One of them, especially, is practically a named monster even among the S-ranks.”
 
@@ -194,7 +192,7 @@ The Manticore Lord had struck there with the Fire Dragon Armor around Jin Taekyu
 
 “The Manticore? It does stand out, even at a glance.”
 
-The Skeleton King glared at the Manticore Lord, his face hardening. His voice turned cold.
+The Skeleton King’s face hardened as he stared at the Manticore Lord.
 
 “So that’s the one that wounded you.”
 
@@ -204,13 +202,13 @@ The Skeleton King glared at the Manticore Lord, his face hardening. His voice tu
 
 “…?”
 
-“What’s with that unpleasant look?”
+“What’s with that look?”
 
 “No, I just thought this was where you’d say you were going to avenge your friend or something.”
 
 The Skeleton King’s eyes widened.
 
-“What the hell are you talking about? We’ve got a much better chance if the strongest fight the strongest.”
+“What the hell are you talking about? We’ve got a much better chance if the strongest fights the strongest.”
 
 “…”
 
@@ -230,7 +228,7 @@ Jin Taekyung, who had staunched the bleeding in his thigh, kindly explained.
 
 Far away, Yamamoto Genji had sidled up beside Choi Minwoo and put on a determined expression. The Skeleton King spotted him and muttered, “I’m going to kill that bastard.”
 
-“Sure. But first, let’s finish this damn fight as quickly as we can.”
+“Sure. But first, let’s finish this damn fight.”
 
 Jin Taekyung spat out bloody phlegm and lowered his spear.
 
@@ -316,7 +314,7 @@ Blood sprayed a moment later. But the monsters that should have charged us with 
 
 Was it because of the martial prowess I’d shown? My Intimidation?
 
-No. The monsters avoiding me to charge the Hunters weren’t afraid. They were obeying someone else.
+No. The monsters dodging us to charge the Hunters weren’t afraid. They were obeying someone else.
 
 The kind of obedience you saw only in trained elite troops.
 
@@ -346,7 +344,7 @@ The Manticore Lord smiled.
 
 “What the hell does that mean?” the Skeleton King asked.
 
-“It means he’ll tell us if we beat the shit out of him.”
+“It means he’ll tell us after we beat the shit out of him.”
 
 I brought my spearhead down toward the monster.
 

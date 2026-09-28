@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "My ears rang.",
+      "defect": "This changes the physical sensation from ears feeling muffled or blocked to ringing.",
+      "id": "F01",
+      "rationale": "The source says 귓가가 먹먹하다, describing a muffled sensation in his ears, not tinnitus.",
+      "replacement": "My ears felt muffled.",
+      "severity": "minor",
+      "source": "Chapter 805, line 339"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Together, they struck with more destructive force than he could withstand even with his Scorching Yang Qi pushed to its limit.",
+      "defect": "“Pushed to its limit” says his Scorching Yang Qi reached its maximum; the source instead specifies that he raised it explosively.",
+      "id": "F02",
+      "rationale": "The source says 폭발적으로 끌어올린 열양지기, specifying the manner in which he increased his Scorching Yang Qi, not that he necessarily reached its limit.",
+      "replacement": "Together, their destructive power was more than he could withstand, even with his Scorching Yang Qi raised explosively.",
+      "severity": "minor",
+      "source": "Chapter 805, line 165"
+    }
+  ],
+  "summary": "Two minor fidelity issues: a change to the described ear sensation and a lost detail about how Jin Taekyung raises his Scorching Yang Qi.",
+  "version": 1
+}
