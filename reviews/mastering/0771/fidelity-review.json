@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But this was me.\n\nA realistic man busting his ass for the sake of this world where no one could see him, the true man of this era who was—",
+      "defect": "The assembled copy drops the intervening sentence describing him as a man who struggles for the best possible outcome even when he looks uncool and undignified.",
+      "id": "F01",
+      "rationale": "The source explicitly includes this self-description before the line about working for the world where others do not know about it. The accepted baseline also preserves the omitted beat.",
+      "replacement": "But this was me.\n\nA man who struggled somehow toward the best possible result, even if I looked uncool for now and was horribly undignified.\n\nA realistic man busting his ass for the sake of this world where no one could see him, the true man of this era who was—",
+      "severity": "minor",
+      "source": "Korean lines 235–239"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, but it omits a distinct self-description present in the Korean.",
+  "version": 1
+}

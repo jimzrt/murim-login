@@ -76,7 +76,7 @@ Even if that was what it took, I would tear out the root of this disaster.
 
 Whoosh.
 
-A scorching heat spread throughout my body. Spitting out a single word as though I were chewing it to pieces, I unleashed the qi wave I had drawn up to its limit in every direction.
+Heat spread through my body. I spat out the words as if I were chewing them to pieces, then unleashed the qi wave I’d drawn up to its limit.
 
 Rumble!
 
@@ -94,11 +94,11 @@ Beep, beep! Weeeee!
 
 The murmurs that Team Leader Choi’s earlier tremor had stirred up turned to screams.
 
-Amid the countless footsteps passing outside the door and the desperate shouts they were vomiting out, Team Leader Choi, who had been staring at me with a hollow expression, suddenly raised the *Hero’s Sword*.
+Footsteps hurried past the door. People shouted to one another. Team Leader Choi stared at me, looking hollow, then abruptly raised the *Hero’s Sword*.
 
 Thunk!
 
-The silver blade plunged into the floor, slicing through it like tofu. He squeezed his eyes shut, then opened them and pulled a smartphone and a potion from inside his clothes as though he had resigned himself to everything.
+The silver blade sliced into the floor like tofu. He squeezed his eyes shut, opened them again, and pulled a smartphone and a potion from his clothes with the air of a man resigned to his fate.
 
 Then I saw his eyes widen. A moment later, his fingers flew across the screen.
 
@@ -106,13 +106,13 @@ Flash.
 
 A huge man appeared in midair amid the glow of a hologram. Magic Johnson looked more frantic than I’d ever seen him.
 
-—Damn it. Why are you taking so long to answer? Did you look at the materials I sent? I found something strange a little while ago—wait, what the hell is going on here?
+—Damn it. Why did you take so long to answer? Did you see the materials I sent? I found something strange a little while ago—wait. What the hell is going on?
 
 He looked from Team Leader Choi to me. I didn’t answer. I strode toward him.
 
 More precisely, toward the documents in his hand.
 
-*This is…*
+*What is this?*
 
 Several photographs. Pages packed with tiny text.
 
@@ -130,7 +130,7 @@ Fwoosh.
 
 My qi wave dispersed, and the tremors slowly died away.
 
-But my gaze wavered more than ever, as did my mind after glimpsing the true shape of something beyond the fog filling my head.
+But I was more shaken than ever. Through the fog in my head, I’d caught a glimpse of something.
 
 *If this is true…*
 
@@ -150,11 +150,11 @@ Unable to finish the thought, I stared blankly at Magic Johnson. Then I turned t
 
 “…What?”
 
-*What the hell? Is he insane?*
+*Is he out of his mind?*
 
-Reading the thought plainly conveyed through Team Leader Choi’s eyes, I let out a hollow laugh.
+I could read the thought in Team Leader Choi’s eyes. A laugh escaped me.
 
-No matter how people around us looked at me, I continued to quietly chuckle to myself like a madman for quite some time before suddenly slapping both cheeks hard.
+I kept chuckling to myself like a madman for a while, regardless of how anyone looked at me. Then I slapped both my cheeks.
 
 Smack!
 
@@ -182,7 +182,7 @@ Team Leader Choi’s and Magic Johnson’s eyes twitched at my grand, solemn dec
 
 What more needed to be said?
 
-I gave a faint smile and nodded as though I understood everything.
+I gave them a faint, knowing smile and nodded.
 
 The new hope I’d glimpsed at the last moment had lit a heat somewhere inside me, different from Scorching Yang Qi. It kept welling up.
 
@@ -192,13 +192,13 @@ Drip. Splash!
 
 “…What the fuck?”
 
-Was it really going to overflow?
+Was it *actually* overflowing?
 
-Heat—or rather, a torrent of red liquid—gushed from my nostrils, which had opened up with refreshing force before the fourth path even had a chance to do so. The two men’s gazes went cold.
+Before I’d managed to open up a fourth path, my nostrils had opened instead. Red liquid poured out of them. The two men’s expressions went cold.
 
 “You have a nosebleed. A really bad one.”
 
-—It reminds me of the fountain in the plaza of my mansion. More precisely, it looks like the baby angel built into the fountain is pissing like that.
+—It’s like the fountain in the plaza of my mansion. Specifically, the baby angel in the fountain pissing.
 
 “You should have slapped yourself more gently.”
 
@@ -216,7 +216,7 @@ As I accepted the potion from Team Leader Choi, I thought that going straight to
 
 But this was me.
 
-A realistic man busting his ass for the sake of this world where no one could see him, the true man of this era who was—
+A man who’d struggle toward the best possible outcome, even if he looked pathetic and undignified for now. A practical man busting his ass day and night for this world where no one could see him. The true hero of our age, who—
 
 “What are you doing? Swallow it. All in one gulp.”
 
@@ -232,7 +232,7 @@ A familiar face filled the screen.
 
 Gray hair. Gray eyes.
 
-The man looked as though he had been born somewhere between light and darkness. He stood before countless camera flashes and cameras, continuing to speak without sound. Stark subtitles ran beneath him.
+The man looked as though he’d been born somewhere between light and darkness. He stood before countless flashing cameras, speaking in silence while stiff subtitles ran beneath him.
 
 > **Live:** UN Emergency General Assembly Approves Reestablishment of World Hunter Federation by Overwhelming Vote
 >
@@ -244,13 +244,13 @@ Beep.
 
 At Team Leader Choi’s urgent command, the sound trapped in the speakers rushed out like a flood.
 
-—Does that statement mean that you intend to become the representative of the World Hunter Federation yourself?
+—Does that mean you intend to become the head of the World Hunter Federation yourself?
 
-—Michael! Can an inaugural ceremony really be held in a situation like this?
+—Michael! Can you hold an inaugural ceremony at a time like this?
 
-—When and where would you like it to be held?
+—When and where would it be held?
 
-—We’re from the *Washington Post*. Please give us a statement!
+—*Washington Post*! Please give us a statement!
 
 The questions came like screams.
 
@@ -262,7 +262,7 @@ He was a hologram. In reality, he had to be several kilometers away at the very 
 
 The air around him. The sense that the entire scene had been arranged for him alone.
 
-The presence of that man, radiating suffocating majesty simply by being seen and heard.
+His presence was suffocating even through a screen.
 
 Only Michael Silbert was free to speak there now.
 
@@ -270,11 +270,11 @@ Only Michael Silbert was free to speak there now.
 
 —…!
 
-I could feel it. The tumult wrapping around them.
+I could feel the crowd stirring.
 
 And there he stood beneath a spotlight brighter than any he’d known in his life: a born agitator and orator.
 
-—The representative of the World Hunter Federation should go to someone other than me. A living savior, the hero of the Great Cataclysm who already saved humanity from the Demon King once before!
+—Someone other than me should lead the World Hunter Federation. The hero of the Great Cataclysm who once saved humanity from the Demon King. Our living savior!
 
 His voice, infused with internal energy, carried on and on. Overcome with excitement, people looked to the sky and cried out.
 
@@ -286,7 +286,7 @@ Michael Silbert.
 
 As the fervor spread like fire, he pressed on.
 
-—The inaugural ceremony will be held without fail. Whether it is the mad terrorist who calls himself The Prophet, any monster whatsoever, or even the return of the Demon King, the Hunters of the World Hunter Federation will gather in one place, choose their representative, and swear that they have become humanity’s sword and shield!
+—The inaugural ceremony *will* be held. Neither the mad terrorist who calls himself The Prophet, nor any monster, nor even the Demon King himself should he return, will stop the Hunters of the World Hunter Federation from gathering in one place, choosing their leader, and swearing to become humanity’s sword and shield!
 
 —Waaaaah!
 
@@ -306,10 +306,10 @@ To the people caught up in it. To the cameras trained on him.
 
 Or perhaps…
 
-*Toward me—the one who could do nothing but watch him from here.*
+—Two days from now. Seoul, Korea.
+
+To me, watching him from here.
 
 Michael Silbert made his declaration to the world.
-
-—Two days from now. Seoul, Korea.
 
 —In the savior’s homeland, where the World Hunter Federation first began, we will rise once more, just as we did then.
