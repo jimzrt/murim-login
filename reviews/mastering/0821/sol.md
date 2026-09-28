@@ -14,7 +14,7 @@ That was why a Spellblade was considered as impossible as the coexistence of man
 
 The old man had long since reached the realm of the superhuman.
 
-In his youth, he had ranged across battlefields amid the turbulent politics of the Middle East, protecting his tribe. Then, as the Great Cataclysm began in his middle age, he awakened to a power he had never known existed.
+In his youth, he had crossed battlefields to protect his tribe amid the turmoil of the Middle East. Then, at the start of the Great Cataclysm, he had awakened a power he’d never known existed.
 
 Even without accepting magical power, he would have been strong enough to stand shoulder to shoulder with the heroes of the Great Cataclysm.
 
@@ -28,7 +28,7 @@ The unit waiting in the rear was made up of elite troops he had personally train
 
 Yet the arrows those very troops had loosed had been stopped.
 
-No—they were under control.
+No. They had been seized.
 
 Dozens of arrows, shot with tremendous force and filled with mana, controlled by a single gesture.
 
@@ -42,9 +42,9 @@ In that space where everything else seemed to have disappeared like a desert mir
 
 Dozens of arrowheads glinted in the darkness, their mana still intact. They pointed toward the men who had shot them. And…
 
-“Wow. It actually worked.”
+“Whoa. It worked?”
 
-They were ready to obey the will of their new master.
+…awaited the will of their new master.
 
 *Jin Taekyung.*
 
@@ -62,7 +62,7 @@ He wanted to ask, but the young man did not wait for an old fool blinded by fals
 
 *Whoosh-whoosh-whoosh!*
 
-A fierce whistle of air shattered the silence. Hundreds of fanatics surrounding them watched the unbelievable sight with vacant eyes.
+The arrows’ fierce whistle shattered the silence. Hundreds of fanatics surrounding them watched in disbelief.
 
 As if an invisible giant had drawn a bowstring, dozens of steel arrows came raining down, faster and harder than before.
 
@@ -106,7 +106,7 @@ Arrows were flying toward him, weaving around the fanatics as though they were a
 
 *This is impossible…!*
 
-A cry like a scream rose to his tongue, then disappeared. No—he wasn’t even given time to let it out.
+A cry rose to his tongue, but he had no time to let it out.
 
 He sucked in a breath and swung his scimitar. As streaks of light filled the air around him, he knew.
 
@@ -132,7 +132,7 @@ He felt arrowheads pierce armor and flesh and shatter bone. The heat they carrie
 
 “Cough.”
 
-His once-sturdy legs trembled. As the old man staggered, more than ten arrows buried deep in his body, the fanatics supporting him shouted like they were screaming in despair.
+His once-steady legs trembled. More than ten arrows buried deep in his body, he staggered into the arms of his followers.
 
 “No!”
 
@@ -190,7 +190,7 @@ But…
 
 In the end, this too was a struggle for each side’s purpose.
 
-To gain peace, they had to wage war. And in that war, rivers of blood and death would flow.
+To gain peace, they had to wage war. And war meant blood and death beyond counting.
 
 There was no other choice.
 
@@ -234,7 +234,7 @@ And yet, why?
 
 For the first time, the old man who had believed in God and the Prophet more than anyone felt doubt.
 
-But even now, as he charged like a streak of light and watched the rain of steel pour from the sky, brimming with lava-hot mana, he couldn’t find an answer.
+Even as he charged like a streak of light, even as he watched steel rain down from the sky filled with lava-hot mana, he could find no answer.
 
 *Answer me. Is this truly the promised land you spoke of?*
 
@@ -248,7 +248,7 @@ Only a faint voice reached his ears. He could not tell whether it belonged to a 
 
 *Fwoooosh!*
 
-A gale swept through. A wave of steel, falling in place of damp rain, swallowed him.
+A gale swept through. A wave of steel fell in place of rain and swallowed him.
 
 As his body and power—part monster, part human—were smashed to pieces, the old man heard a terrible scream echoing faintly.
 
@@ -280,7 +280,7 @@ Every head turned in the same direction.
 
 It was a roar and a scream at once.
 
-A scream of steel raining through the air. And a scream of terror from people who sensed their own deaths.
+The scream of steel raining through the air. The terrified screams of people who sensed their deaths.
 
 *Kwaaaang!*
 

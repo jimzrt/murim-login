@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled chapter is largely faithful. Two minor details remain: an omitted physical description and an added implication about the Doppelganger.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 107–109",
+      "current": "Arrows were flying toward him, weaving around the fanatics as though they were alive.",
+      "defect": "The translation omits the image of the arrows reflected in the old man's aged gray eyes.",
+      "replacement": "Reflected in his aged gray eyes were arrows flying toward him, weaving around the fanatics as though they were alive.",
+      "rationale": "The source explicitly describes what appears in his 노회한 회색빛 눈동자—his aged gray eyes. The accepted baseline preserves that physical detail; the assembled version drops it.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 149–151",
+      "current": "If the Doppelganger, calling itself the Prophet, was their spiritual pillar, the old man was the warrior chief favored by God—the general who led them.",
+      "defect": "“Calling itself” adds that the Doppelganger named or presented itself as the Prophet. The source says it served as their spiritual pillar under the Prophet's name, without specifying that act.",
+      "replacement": "If the Doppelganger, under the name of the Prophet, was their spiritual pillar, the old man was the warrior chief favored by God—the general who led them.",
+      "rationale": "The Korean says 도플갱어가 선지자라는 이름으로 정신적인 지주의 역할을 했다면: the Doppelganger served as their spiritual pillar in the name of the Prophet. It does not establish that the Doppelganger called itself that.",
+      "confidence": 0.91
+    }
+  ]
+}
