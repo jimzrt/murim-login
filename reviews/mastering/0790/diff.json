@@ -1,0 +1,1676 @@
+{
+  "baseline_blocks": 120,
+  "baseline_sha256": "0e4a047bdca345fb5bd726e8230cfb6fa29a67591c1464cc6538fd686b01f946",
+  "global_terminology_alerts": [],
+  "hunk_count": 88,
+  "hunks": [
+    {
+      "baseline": "At that single question, the smile lingering on Team Leader Choi’s lips faded.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "At that single question, the smile on Team Leader Choi’s lips faded.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A man with a keen mind, he immediately grasped the simple but clear distinction. And I already knew what the brief silence meant.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "He caught the distinction at once. And I already knew what his brief silence meant.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So you still haven’t found him.”",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "13",
+      "sol": "“You still haven’t found him.”",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi, who’d been watching me with a grave expression, nodded.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "15",
+      "sol": "Team Leader Choi watched me with a grave expression, then nodded.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right.”",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "17",
+      "sol": "“No.”",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You haven’t even uncovered his location?”",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "“You don’t even know where he is?”",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi didn’t answer. Silence was as good as a yes.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "He didn’t answer. His silence was answer enough.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "팀장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Team Leader"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "I swallowed the curse that threatened to escape and looked up at the night sky.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "25",
+      "sol": "I swallowed the curse and looked up at the night sky.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just because you’re in the same place doesn’t mean you’re all looking in the same direction.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "27",
+      "sol": "Being in the same place didn’t mean we were looking at the same thing. Team Leader Choi and I certainly weren’t.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just like Team Leader Choi and I were looking at different scenery at that very moment.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "29",
+      "sol": "",
+      "sol_paragraphs": "after P13",
+      "sol_range": [
+        13,
+        13
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "팀장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Team Leader"
+        }
+      ]
+    },
+    {
+      "baseline": "I stared at the holographic window covered in question marks and muttered to myself.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "37",
+      "sol": "I stared at the holographic window covered in question marks.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*The Quest still hasn’t been completed…*",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "41",
+      "sol": "*The Quest still isn’t complete…*",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It could only mean one thing.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "43",
+      "sol": "That could only mean one thing.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The being represented by those question marks in the Quest window had never been Michael Silbert in the first place.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "45",
+      "sol": "The being those question marks stood for had never been Michael Silbert.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Why? Why the hell?*",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "47",
+      "sol": "*Why? Why the hell not?*",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even I hadn’t seen this coming.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "51",
+      "sol": "",
+      "sol_paragraphs": "after P19",
+      "sol_range": [
+        19,
+        19
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I’d firmly believed that eliminating Michael Silbert was the only key to completing this Quest and resolving the new Cataclysm.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "53",
+      "sol": "I hadn’t seen this coming. I’d been certain that eliminating Michael Silbert was the only way to complete the Quest and stop the coming Cataclysm.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That deranged fanatic who called himself God’s messenger and a prophet—the terrorist I’d thought was merely a lackey following Michael Silbert’s orders—was the real key to this Main Quest.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "59",
+      "sol": "That deranged fanatic who called himself God’s messenger and a prophet—the terrorist I’d taken for a lackey following Michael Silbert’s orders—was the real key to this Main Quest.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was the starting point of the Cataclysm soon to come.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "67",
+      "sol": "He was where the coming Cataclysm would begin.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "New holographic windows filled my vision with a sudden notification.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "73",
+      "sol": "New holographic windows filled my vision. At the same moment, I understood.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, I realized:",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "75",
+      "sol": "",
+      "sol_paragraphs": "after P28",
+      "sol_range": [
+        28,
+        28
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The clock on the bomb called the Cataclysm, the one that would soon shake the world, was ticking even now.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "77",
+      "sol": "The clock on the bomb called Cataclysm, the one that would soon shake the world, was ticking even now.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "These days, even the term “global village” had become outdated.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "81",
+      "sol": "These days, even “global village” sounded outdated.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Countless issues arose around the world every single day—too many to keep track of.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "83",
+      "sol": "",
+      "sol_paragraphs": "after P31",
+      "sol_range": [
+        31,
+        31
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But even people accustomed to seeing all kinds of news on TV and the internet, then promptly forgetting it, had been shaken to the core by what happened a week ago.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "85",
+      "sol": "More happened across the world in a single day than anyone could keep track of. People had grown used to seeing one shocking story after another on TV and the internet, then promptly forgetting them.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Like land mines detonating, armed crackdowns and arrests had begun in countries all over the world, carried out by Hunters.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "87",
+      "sol": "But what had happened a week ago had shaken even them.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "헌터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hunter"
+        }
+      ]
+    },
+    {
+      "baseline": "Among those arrested were high-ranking politicians, including presidents, some of the wealthiest people in the world, and Hunters.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "89",
+      "sol": "Across the world, Hunters had launched armed crackdowns and arrests, sudden as land mines going off. Those caught up in them included high-ranking politicians—even presidents—some of the world’s wealthiest people, and Hunters.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every one of them was a heavyweight with influence over global politics, business, and security—not merely a particular region or country.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "93",
+      "sol": "Every one of them held influence over global politics, business, or security, far beyond the borders of any one region or country.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "People who’d been waiting only for the new World Hunter Federation’s inaugural ceremony were thrown into confusion. Before long, that confusion turned to shock.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "95",
+      "sol": "People waiting for the new World Hunter Federation’s inaugural ceremony were thrown into confusion. Soon, confusion gave way to shock.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> “All the truth is in here.”",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "97",
+      "sol": "> “The whole truth is in here.”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In Choi Minwoo’s hand as he stood before the cameras in his role as interim spokesperson was a microchip smaller than a fingernail.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "101",
+      "sol": "Choi Minwoo stood before the cameras as interim spokesperson, holding a microchip smaller than a fingernail.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of all the many cameras installed throughout the National Assembly to capture a moment in history, it was the only one to survive the aftermath of the tremendous battle.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "103",
+      "sol": "Cameras had been installed throughout the National Assembly to record a moment in history. Only one had survived the tremendous battle, and Choi held what it had recorded.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, it was a Pandora’s box containing a truth no one could bear to face.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "105",
+      "sol": "It was also a Pandora’s box, containing a truth no one could bear to face.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The footage ran a little over three hours.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "109",
+      "sol": "",
+      "sol_paragraphs": "after P40",
+      "sol_range": [
+        40,
+        40
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But once it was uploaded to a streaming site where the whole world could watch, it plunged the world into a pit of silence.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "113",
+      "sol": "The footage ran for just over three hours. Uploaded to a streaming site for all to see, it plunged the world into silence.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Choi Minwoo had been telling the truth. It contained all the truth.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "115",
+      "sol": "Choi Minwoo had told the truth. Everything was there.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not a single edit. Not a single lie.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "117",
+      "sol": "No edits. No lies.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Billions of people were confronted with an unbelievable truth—and, within the Pandora’s box that had suddenly opened, they discovered something still left inside.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "121",
+      "sol": "Billions of people confronted a truth they could scarcely believe. And inside the Pandora’s box that had suddenly opened, they found something still left at the bottom.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was hope.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "123",
+      "sol": "Hope.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> One thing’s for sure. I’d trust them with the lives of my family.\n>\n> └ Agreed.\n>\n> └ Real heroes. Real Hunters.\n>\n> └ Yeah. And Jin’s the greatest hero of them all.\n>\n> └ Damn it. What kind of idiot talked shit about that young savior?\n>\n> └ Hate to admit it, but I did until recently. But I have to admit I was an idiot. Call me a fucking moron and I couldn’t argue.\n>\n> └ You bald piece of shit.\n>\n> └ Leave the bald part out before I put a bullet in your head.\n>\n> └ Fine, you fucking moron.\n>\n> └ God bless you.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "125",
+      "sol": "> One thing’s for sure. I’d trust them with my family’s lives.\n>\n> └ Agreed.\n>\n> └ Real heroes. Real Hunters.\n>\n> └ Yeah. And Jin’s the greatest hero of them all.\n>\n> └ Damn it. What kind of idiot talked shit about that young savior?\n>\n> └ Hate to admit it, but I did until recently. I was an idiot. Call me a fucking moron and I couldn’t argue.\n>\n> └ You bald piece of shit.\n>\n> └ Leave the bald part out before I put a bullet in your head.\n>\n> └ Fine, you fucking moron.\n>\n> └ God bless you.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> I’ve decided. I’m naming my unborn child Sibal.[^1] It’s a great name, taken from Jin Taekyung’s nickname.\n>\n> └ A Korean passing by here with some advice: that’s not a very good choice.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "127",
+      "sol": "> I’ve decided. I’m naming my unborn child Sibal.[^1] It’s a great name, taken from Jin Taekyung’s nickname.\n>\n> └ As a Korean passing by, I’d advise against that.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "[^1]: “Sibal” sounds like *ssibal*, a common Korean profanity roughly equivalent to “fuck.”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "129",
+      "sol": "",
+      "sol_paragraphs": "after P48",
+      "sol_range": [
+        48,
+        48
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "한국",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Korea"
+        }
+      ]
+    },
+    {
+      "baseline": "> Wait. Am I the only one who knows that fucking monster’s out there? Why is everyone silent?\n>\n> └ If you’re talking about the Stone King, stop trying to derail the conversation and get lost.\n>\n> └ You’re insane. He’s a monster.\n>\n> └ Oh. So?\n>\n> └ Listen. My cousin was shot and killed by a Black man, but I don’t treat my Black friends like murderers.\n>\n> └ Michael Silbert killed countless people. The Stone King fought for them. So, which one’s the hero and which one’s the monster?\n>\n> └ Shit. The world’s going to end because of morons like you.\n>\n> └ Great. You done talking? Now get lost.\n>\n> └ Goodbye, idiot.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "131",
+      "sol": "> Wait. Am I the only one who knows about that fucking monster? Why isn’t anyone saying anything?\n>\n> └ If you mean the Stone King, stop trying to derail the conversation and get lost.\n>\n> └ Are you insane? He’s a monster.\n>\n> └ Oh. So?\n>\n> └ Listen. My cousin was shot and killed by a Black man, but I don’t treat my Black friends like murderers.\n>\n> └ Michael Silbert killed countless people. The Stone King fought for them. So which one’s the hero, and which one’s the monster?\n>\n> └ Shit. Morons like you are going to be the end of the world.\n>\n> └ Great. You done? Now get lost.\n>\n> └ Goodbye, idiot.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> I’m French, and at first I thought there’d been a terrorist attack or something. I was looking at social media when a video popped up of the president falling out of a window at the Élysée Palace.\n>\n> └ Emmanuel? He deserved to die. The bastard was in bed with Michael Silbert.\n>\n> └ Did you see the video of the Swiss interior minister getting arrested? Magic Johnson was beating him with that big, beautiful staff of his.\n>\n> └ OMG……\n>\n> └ Buddy. It’s not what you think. Don’t let your imagination run wild.\n>\n> └ It was a swift and brilliant operation. The World Hunter Federation had its ranks in order in just an hour, then rooted out the traitors planted all over the world. They didn’t have time to run or fight back.\n>\n> └ They kept the operation completely secret right up until it began, too. If this had been Mexico or Brazil, the information probably would’ve leaked through the gangs.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "133",
+      "sol": "> I’m French, and at first I thought there’d been a terrorist attack. I was on social media when a video popped up of the president falling out of a window at the Élysée Palace.\n>\n> └ Emmanuel? He deserved to die. The bastard was in bed with Michael Silbert.\n>\n> └ Did you see the video of the Swiss interior minister getting arrested? Magic Johnson was beating him with that big, beautiful staff of his.\n>\n> └ OMG…\n>\n> └ Buddy. It’s not what you think. Don’t let your imagination run wild.\n>\n> └ It was a swift, brilliant operation. The World Hunter Federation organized its forces in just an hour, then rooted out the traitors planted all over the world. They didn’t have time to run or fight back.\n>\n> └ They kept the operation completely secret until it began, too. If this had been Mexico or Brazil, the information probably would’ve leaked through the gangs.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> We support you and love you. May God watch over you all.\n>\n> └ It’s too soon to relax. Nobody’s forgotten about the fanatical terrorist, right?\n>\n> └ Of course we remember. But the World Hunter Federation will protect us. That lunatic who calls himself The Prophet is keeping his head down and watching what happens.\n>\n> └ It’s already been two weeks since the terrorist attacks stopped. The Prophet will die soon, just like bin Laden, and then real peace will finally come.\n>\n> └ Jin. Please wake up soon. We’re waiting for our hero.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "135",
+      "sol": "> We support you and love you. May God watch over you all.\n>\n> └ It’s too soon to relax. Nobody’s forgotten about the fanatical terrorist, right?\n>\n> └ Of course we remember. But the World Hunter Federation will protect us. That lunatic who calls himself The Prophet is keeping his head down and watching what happens.\n>\n> └ The attacks stopped two weeks ago. The Prophet will die soon, just like bin Laden, and then we’ll finally have real peace.\n>\n> └ Jin. Please wake up soon. We’re waiting for our hero.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A week was nowhere near enough time for the whole world to recover from the shock.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "137",
+      "sol": "",
+      "sol_paragraphs": "after P51",
+      "sol_range": [
+        51,
+        51
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even so, humanity was quickly finding its footing again.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "139",
+      "sol": "",
+      "sol_paragraphs": "after P51",
+      "sol_range": [
+        51,
+        51
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had faith in the World Hunter Federation, and hope that things would get better.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "141",
+      "sol": "A week was nowhere near enough time for the world to recover from the shock. Even so, humanity was quickly finding its footing again, sustained by faith in the World Hunter Federation and hope that things would get better.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But somewhere beyond their sight, a new movement had already begun.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "143",
+      "sol": "But somewhere beyond their sight, something new was already stirring.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Or perhaps it was a blaze that would devour the world.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "145",
+      "sol": "Or perhaps a fire was starting—one that would swallow the world.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Concentrate every force we can mobilize in the Middle East. Now.”",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "147",
+      "sol": "“Concentrate every force we can mobilize in the Middle East. Right now.”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung’s words were relayed straight to the World Hunter Federation’s leadership through Choi Minwoo. No one questioned them.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "151",
+      "sol": "Choi Minwoo relayed Jin Taekyung’s words straight to the World Hunter Federation’s leadership. No one questioned them.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And they’d known from the start what their answer would be.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "157",
+      "sol": "And there had never been any doubt about their answer.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A trembling voice rang through the cave.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "167",
+      "sol": "A trembling voice echoed through the cave.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Prophet silently looked down at the man prostrate at their feet, then spoke.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "169",
+      "sol": "The Prophet silently looked down at the man prostrate at their feet.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Th-that is…”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "175",
+      "sol": "“Th-that…”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The hesitant man lowered his head to the floor.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "181",
+      "sol": "The man hesitated, then pressed his head to the ground.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“At least a hundred thousand.”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "183",
+      "sol": "“We estimate at least a hundred thousand.”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "185",
+      "sol": "“…!”",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "187",
+      "sol": "“…!”",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The staggering number, far beyond their expectations, froze the already chilly air in the cave.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "191",
+      "sol": "The staggering number, far beyond what they had expected, froze the already chilly air in the cave.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those gathered here knew that the number didn’t mean an ordinary infantry force.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "193",
+      "sol": "Everyone gathered there knew those hundred thousand weren’t ordinary infantry.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hunters were rare, regardless of their Grade.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "199",
+      "sol": "",
+      "sol_paragraphs": "after P76",
+      "sol_range": [
+        76,
+        76
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "등급",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grade"
+        },
+        {
+          "korean": "헌터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hunter"
+        }
+      ]
+    },
+    {
+      "baseline": "Only one in a thousand had the chance to awaken, and even then, they had to undergo specific training before they could be recognized as a Hunter.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "201",
+      "sol": "Hunters were rare, whatever their rank. Only one person in a thousand had the chance to awaken, and even then, they had to undergo specific training before they could be recognized as a Hunter.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But their opponents were the World Hunter Federation.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "203",
+      "sol": "But their enemy was the World Hunter Federation.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As its name implied, it was a vast organization to which every Hunter in the world belonged. Out of humanity’s billions, millions of Hunters who’d beaten the 0.1 percent odds and been chosen by God were charging toward the desert.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "205",
+      "sol": "True to its name, every Hunter in the world belonged to that vast organization. From humanity’s billions, millions had beaten the 0.1 percent odds and been chosen by God. Now they were bearing down on the desert.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—the whole world was coming.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "207",
+      "sol": "No—the whole world was.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We’ve lost contact with our informants planted in the Pentagon.”",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "211",
+      "sol": "“We’ve lost contact with our informants in the Pentagon.”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their growing anxiety spilled out in their voices. For a long while, they poured out the information they’d managed to gather.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "219",
+      "sol": "Their growing fear spilled into their voices. For a long while, they poured out everything they had learned. The situation was already hurtling toward the worst possible outcome.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The situation was already hurtling toward its worst possible outcome.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "221",
+      "sol": "",
+      "sol_paragraphs": "after P85",
+      "sol_range": [
+        85,
+        85
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The newly born World Hunter Federation was truly bold, moving without hesitation. It had begun by bathing its inaugural ceremony in blood, then set about reaping the seeds Michael Silbert had sown. By revealing the whole truth without the slightest omission, it had won support from across the world.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "227",
+      "sol": "The newly formed World Hunter Federation had moved boldly, without hesitation. It had begun by bathing its inaugural ceremony in blood, then set about gathering up the seeds Michael Silbert had sown. By revealing the whole truth without hiding or embellishing a thing, it had won support across the world.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Nothing could stand against the hammer the World Hunter Federation had brought down. A president of a nation, the head of a massive corporation that could sway the world’s stock markets—every one of them had fallen, bleeding.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "231",
+      "sol": "Nothing could stop the hammer the World Hunter Federation had brought down. A nation’s president, the head of a corporation powerful enough to sway the world’s stock markets—they had all fallen, bleeding.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Half a century ago, after Osama bin Laden’s terrorist attack, Pakistan and the Middle Eastern countries that had refused to let the United States fly through their airspace would not dare oppose this action either.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "233",
+      "sol": "Half a century ago, after Osama bin Laden’s terrorist attack, Pakistan and other Middle Eastern countries had refused to let the United States cross their airspace. Even they would not dare oppose this operation.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They couldn’t do something as insane as making enemies of the World Hunter Federation—and the entire world.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "235",
+      "sol": "They could hardly do something as insane as make enemies of the World Hunter Federation and the entire world. If they did, they would be met with artillery fire and a great many Hunters.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They’d be met with countless artillery shells and a visit from countless Hunters.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "237",
+      "sol": "",
+      "sol_paragraphs": "after P91",
+      "sol_range": [
+        91,
+        91
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "헌터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hunter"
+        }
+      ]
+    },
+    {
+      "baseline": "But unlike those who could choose compromise, the people gathered in this cave hadn’t been given even the slightest choice.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "239",
+      "sol": "But unlike those who could choose to compromise, the people gathered in this cave had no choice at all.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Please, please show us the way we must go!”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "243",
+      "sol": "“Please, please show us the way!”",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Desperate cries rang out from every corner.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "245",
+      "sol": "Desperate cries rang out from all sides.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Armed with fanaticism, they all knelt and prostrated themselves before one person alone.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "247",
+      "sol": "Consumed by fanaticism, they knelt and prostrated themselves before one person alone.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were afraid of the enemy closing in, but at the same time, their faith in the path they’d walked until now was unshaken.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "251",
+      "sol": "They feared the enemy closing in. But they also held fast to their faith in the path they had walked: offering their lives to God, following the prophet He had sent, and witnessing the astounding miracles the Prophet had shown them.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had devoted their lives to God and followed the prophet He had sent.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "255",
+      "sol": "",
+      "sol_paragraphs": "after P97",
+      "sol_range": [
+        97,
+        97
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "선지자",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "The Prophet"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "They had witnessed the Prophet’s astounding miracles.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "257",
+      "sol": "",
+      "sol_paragraphs": "after P97",
+      "sol_range": [
+        97,
+        97
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "선지자",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "The Prophet"
+        }
+      ]
+    },
+    {
+      "baseline": "“Teach these lost servants!”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "259",
+      "sol": "“Guide these lost servants!”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Defeat these infidels and proclaim God’s will to the whole world!”",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "261",
+      "sol": "“Defeat the infidels and proclaim God’s will to the whole world!”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The torches lighting the cave flickered in the wind. From beneath the deeply drawn hood of a robe, the Prophet’s voice rang out—impossible to place by age or gender.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "265",
+      "sol": "The torches lighting the cave flickered in the wind. From beneath the Prophet’s deeply drawn hood came a voice whose age and gender no one could place.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The anxiety that had threatened to burst turned to cheers. As the Prophet watched them repeatedly bow and cry out about God’s greatness, they thought:",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "275",
+      "sol": "The anxiety that had threatened to burst gave way to cheers. As they cried out about God’s greatness and bowed again and again, the Prophet watched them and thought:",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their long wait would soon bear fruit.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "277",
+      "sol": "The long wait would soon bear fruit.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P120",
+      "baseline_range": [
+        120,
+        120
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "277",
+      "sol": "[^1]: “Sibal” sounds like *ssibal*, a common Korean profanity roughly equivalent to “fuck.”",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 108,
+  "sol_sha256": "6a319e924fe35f4c0c2bbeb17e308422cccb3c6236942fc473727c51ae8cc1de",
+  "version": 1
+}

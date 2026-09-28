@@ -6,25 +6,23 @@ At that single question, the smile on Team Leader Choi’s lips faded.
 
 Not *What happened to him?* but *Where is he?*
 
-A man with a keen mind, he immediately grasped the simple but clear distinction. And I already knew what the brief silence meant.
+He caught the distinction at once. And I already knew what his brief silence meant.
 
 “You still haven’t found him.”
 
 Team Leader Choi watched me with a grave expression, then nodded.
 
-“That’s right.”
+“No.”
 
 “You don’t even know where he is?”
 
-Team Leader Choi didn’t answer. Silence was as good as a yes.
+He didn’t answer. His silence was answer enough.
 
 *Damn it.*
 
 I swallowed the curse and looked up at the night sky.
 
-Just because you’re in the same place doesn’t mean you’re all looking in the same direction.
-
-Just like Team Leader Choi and I were looking at different scenery at that very moment.
+Being in the same place didn’t mean we were looking at the same thing. Team Leader Choi and I certainly weren’t.
 
 > **System**
 >
@@ -50,7 +48,7 @@ Just like Team Leader Choi and I were looking at different scenery at that very 
 >
 > **Failure:** ???
 
-I stared at the holographic window covered in question marks and muttered to myself.
+I stared at the holographic window covered in question marks.
 
 *The Quest still isn’t complete…*
 
@@ -58,7 +56,7 @@ That could only mean one thing.
 
 The being those question marks stood for had never been Michael Silbert.
 
-*Why? Why the hell?*
+*Why? Why the hell not?*
 
 I hadn’t seen this coming. I’d been certain that eliminating Michael Silbert was the only way to complete the Quest and stop the coming Cataclysm.
 
@@ -96,7 +94,7 @@ But what had happened a week ago had shaken even them.
 
 Across the world, Hunters had launched armed crackdowns and arrests, sudden as land mines going off. Those caught up in them included high-ranking politicians—even presidents—some of the world’s wealthiest people, and Hunters.
 
-Every one of them was a heavyweight with influence over global politics, business, and security—not merely a particular region or country.
+Every one of them held influence over global politics, business, or security, far beyond the borders of any one region or country.
 
 People waiting for the new World Hunter Federation’s inaugural ceremony were thrown into confusion. Soon, confusion gave way to shock.
 
@@ -104,11 +102,11 @@ People waiting for the new World Hunter Federation’s inaugural ceremony were t
 
 Choi Minwoo stood before the cameras as interim spokesperson, holding a microchip smaller than a fingernail.
 
-Of all the many cameras installed throughout the National Assembly to capture a moment in history, it was the only one to survive the aftermath of the tremendous battle.
+Cameras had been installed throughout the National Assembly to record a moment in history. Only one had survived the tremendous battle, and Choi held what it had recorded.
 
 It was also a Pandora’s box, containing a truth no one could bear to face.
 
-But once it was uploaded to a streaming site where the whole world could watch, it plunged the world into a pit of silence.
+The footage ran for just over three hours. Uploaded to a streaming site for all to see, it plunged the world into silence.
 
 Choi Minwoo had told the truth. Everything was there.
 
@@ -116,7 +114,7 @@ No edits. No lies.
 
 Only facts, plain and undeniable.
 
-Billions of people were confronted with an unbelievable truth—and, within the Pandora’s box that had suddenly opened, they discovered something still left inside.
+Billions of people confronted a truth they could scarcely believe. And inside the Pandora’s box that had suddenly opened, they found something still left at the bottom.
 
 Hope.
 
@@ -212,7 +210,7 @@ The World Hunter Federation began to move.
 
 A trembling voice echoed through the cave.
 
-The Prophet silently looked down at the man prostrate at their feet, then spoke.
+The Prophet silently looked down at the man prostrate at their feet.
 
 “What is their estimated strength?”
 
@@ -242,11 +240,11 @@ But their enemy was the World Hunter Federation.
 
 True to its name, every Hunter in the world belonged to that vast organization. From humanity’s billions, millions had beaten the 0.1 percent odds and been chosen by God. Now they were bearing down on the desert.
 
-No—the whole world was coming.
+No—the whole world was.
 
 “The entire desert is under surveillance.”
 
-“We’ve lost contact with our informants planted in the Pentagon.”
+“We’ve lost contact with our informants in the Pentagon.”
 
 “The residents of nearby villages and small towns are being evacuated.”
 
@@ -270,17 +268,17 @@ But unlike those who could choose to compromise, the people gathered in this cav
 
 “Prophet!”
 
-“Please, please show us the way we must go!”
+“Please, please show us the way!”
 
 Desperate cries rang out from all sides.
 
-Armed with fanaticism, they all knelt and prostrated themselves before one person alone.
+Consumed by fanaticism, they knelt and prostrated themselves before one person alone.
 
 They feared the enemy closing in. But they also held fast to their faith in the path they had walked: offering their lives to God, following the prophet He had sent, and witnessing the astounding miracles the Prophet had shown them.
 
-“Teach these lost servants!”
+“Guide these lost servants!”
 
-“Defeat these infidels and proclaim God’s will to the whole world!”
+“Defeat the infidels and proclaim God’s will to the whole world!”
 
 *Fwoosh. Fwoosh.*
 

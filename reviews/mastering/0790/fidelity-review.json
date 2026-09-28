@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But once it was uploaded to a streaming site where the whole world could watch, it plunged the world into a pit of silence.",
+      "defect": "The source states that the footage ran for just over three hours; the assembled English omits this concrete detail.",
+      "id": "F01",
+      "rationale": "불과 세 시간 남짓한 영상 specifies that the footage lasted a little over three hours.",
+      "replacement": "The footage ran for just over three hours. But once it was uploaded to a streaming site where the whole world could watch, it plunged the world into a pit of silence.",
+      "severity": "minor",
+      "source": "Korean line 135"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He was where the coming Cataclysm would begin.",
+      "defect": "This describes The Prophet as the place where the Cataclysm begins, rather than its starting point.",
+      "id": "F02",
+      "rationale": "격변의 시작점이거나 means that he was the starting point of the coming Cataclysm.",
+      "replacement": "He was the starting point of the coming Cataclysm.",
+      "severity": "minor",
+      "source": "Korean lines 85–87"
+    }
+  ],
+  "summary": "Two minor fidelity defects: the footage duration is omitted, and the Cataclysm’s starting point is recast as a location.",
+  "version": 1
+}
