@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The man dragged in a ragged breath and cried out, “Th-the City Lord…!”",
+      "defect": "The subordinate’s ragged breath and cry are already described in the preceding sentence. This repeats both actions, which occur only once in the source.",
+      "id": "F01",
+      "rationale": "The Korean describes the subordinate exhaling roughly and crying out once after the Captain recognizes him.",
+      "replacement": "“Th-the City Lord…!”",
+      "severity": "minor",
+      "source": "Lines 333–335"
+    }
+  ],
+  "summary": "The scene is faithful overall; the final line repeats an action already stated immediately before it.",
+  "version": 1
+}

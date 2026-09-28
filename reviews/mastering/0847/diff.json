@@ -1,0 +1,2060 @@
+{
+  "baseline_blocks": 139,
+  "baseline_sha256": "e2588001dcc05de08eb6d86424ab053af21a45b72fb99513396a443ca735758b",
+  "global_terminology_alerts": [],
+  "hunk_count": 105,
+  "hunks": [
+    {
+      "baseline": "Yet just as the two characters that made up *天下*—“all under Heaven”—suggested, there was Heaven above it all.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "Yet just as the two characters for *天下*—“all under Heaven”—suggested, Heaven stood above it all.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even birds that flew with the clouds across the distant sky, even humans who ceaselessly rose and fell and pointed blades at one another, all looked up at Heaven.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "13",
+      "sol": "Even birds flying with the clouds across the distant sky looked up to it. So did humans, who rose and fell without end and turned their blades on one another.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Wondering what magnificent being might dwell up there.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "15",
+      "sol": "All wondered what magnificent being might dwell up there.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The blue sky that looked down on everything in the world was the ultimate symbol of authority, after all.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "23",
+      "sol": "The blue sky looking down on everything was the ultimate symbol of authority, after all.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*But even the Son of Heaven is just a man in the end. Look at him—stealing another man’s favored concubine and all.*",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "25",
+      "sol": "*But even the Son of Heaven is just a man. He steals another man’s favored concubine like anyone else.*",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The astonishment from a moment ago vanished, replaced by a quiet laugh.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "27",
+      "sol": "Jeok Cheongang’s surprise vanished, replaced by a quiet laugh.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "At the sight of Jeok Cheongang chuckling, the Captain of the Guards looked awkward.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "29",
+      "sol": "",
+      "sol_paragraphs": "after P13",
+      "sol_range": [
+        13,
+        13
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        },
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "“It wasn’t exactly a funny story.”",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "31",
+      "sol": "The Captain of the Guards looked uncomfortable at the sound. “It wasn’t exactly a funny story.”",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No? From where I’m sitting, it was plenty funny. The man they even call the Son of Heaven steals his subject’s favored concubine, and the poor subject gets lovesick enough to hover between life and death.”",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "33",
+      "sol": "“No? From where I’m sitting, it’s plenty funny. A man they call the Son of Heaven steals his subject’s favored concubine, and that subject gets so lovesick he’s at death’s door.”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Captain of the Guards was so shocked he forgot to breathe.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "37",
+      "sol": "The captain was so shocked he forgot to breathe.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "He’d already guessed the man was crazy, but to say something so disrespectful about the Son of Heaven—",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "39",
+      "sol": "He’d already guessed the man was crazy, but to speak so disrespectfully of the Son of Heaven—",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He hurriedly checked for anyone nearby, then managed to squeeze out a voice.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "41",
+      "sol": "",
+      "sol_paragraphs": "after P18",
+      "sol_range": [
+        18,
+        18
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A-are you insane? I don’t know who you are, but how dare you say that about His Majesty the Emperor…!”",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "43",
+      "sol": "He hurriedly checked for anyone nearby, then managed to force the words out. “A-are you insane? I don’t know who you are, but how dare you say that about His Majesty the Emperor…!”",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Do you even have to ask? Good heavens, if anyone else had heard you, you’d be charged with treason on the spot.”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "47",
+      "sol": "“Do you even have to ask? Good heavens, if anyone else had heard you, you’d be accused of treason on the spot.”",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hm. Treason, you say.”",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "49",
+      "sol": "“Hm. Treason.”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Maybe not in the past, but now he was a Master with a Disciple, and a member of the Murim Alliance to boot.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "53",
+      "sol": "Things might have been different in the past, but now he was a Master with a Disciple and a member of the Murim Alliance.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That could make things a little awkward.”",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "55",
+      "sol": "“That could be a little troublesome.”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Awkward? Do you think treason is some petty offense?”",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "57",
+      "sol": "“A little troublesome? Do you think treason is some petty offense?”",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s not a crime so great that it warrants wiping out all nine branches of a family. The Son of Heaven is still a person made of flesh and blood. What’s the big deal if he gets insulted a little?”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "59",
+      "sol": "“It’s hardly grave enough to warrant exterminating a man’s nine degrees of kin. The Son of Heaven is made of flesh and blood like anyone else. What does it matter if someone insults him?”",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Your face is a sight to behold. Heh heh.”",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "63",
+      "sol": "“Look at your face. Heh heh.”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Captain of the Guards stood frozen with his mouth agape. Jeok Cheongang slapped his knee and laughed.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "65",
+      "sol": "The captain stood frozen, mouth agape. Jeok Cheongang slapped his knee and laughed.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "He had lived for a hundred and several dozen years.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "67",
+      "sol": "",
+      "sol_paragraphs": "after P30",
+      "sol_range": [
+        30,
+        30
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He’d seen with his own eyes the age of warring heroes, when the blood never dried, and the birth of a new unified dynasty.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "69",
+      "sol": "He had lived for a hundred and several dozen years. He’d seen the age of warring heroes, when the blood never dried, and the birth of a new unified dynasty with his own eyes.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Son of Heaven—an object of awe and reverence?",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "71",
+      "sol": "Awe and reverence for the Son of Heaven?",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For as long as he could remember, the title had never meant all that much to Jeok Cheongang.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "75",
+      "sol": "For a very long time, the title had meant little to Jeok Cheongang.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Just someone a little more extraordinary than others, with far greater ambition and cruelty.*",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "77",
+      "sol": "*Just someone a little more extraordinary than most, with far greater ambition and cruelty.*",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was Jeok Cheongang’s assessment. And after hearing his one and only Disciple’s stories, he was even more certain.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "79",
+      "sol": "That had always been his assessment. After hearing what his one and only Disciple had to say, he was more certain of it than ever.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        }
+      ]
+    },
+    {
+      "baseline": "He’d judged it right.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "81",
+      "sol": "He’d been right.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Son of Heaven wasn’t bestowed by Heaven. He was born amid countless rivers of blood and heaps of corpses.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "83",
+      "sol": "Heaven did not bestow the Son of Heaven. He was born amid countless pools of blood and heaps of corpses.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang suddenly remembered the stories Jin Taekyung had told him: astonishing tales of a giant iron bird taking to the sky and traveling among countless stars.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "85",
+      "sol": "Jeok Cheongang thought of the astonishing stories Jin Taekyung had told him: of great iron birds sent into the sky, and of traveling among countless stars.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As he thought of them and watched the Captain of the Guards still standing frozen, he couldn’t help letting out another laugh.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "87",
+      "sol": "Then he looked at the captain, still frozen before him, and couldn’t hold back another laugh.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "“I understand. There’s a mountain of things even this old man doesn’t know. How could a little sprout like you begin to imagine them?”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "89",
+      "sol": "“I understand. There are mountains of things even this old man knows nothing about. How could a youngster like you begin to imagine them?”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Th-this old man? Little sprout?”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "91",
+      "sol": "“Th-this old man? A youngster?”",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The world is vast, and the years keep passing. Maybe Dongfang Shuo, who lived through three thousand jiazi, could have watched it all change.”[^1]",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "93",
+      "sol": "“The world is vast, and time keeps moving. Perhaps Dongfang Shuo, who lived three thousand *jiazi*, could watch it all change.”[^1]",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Captain of the Guards stared at Jeok Cheongang, dazed.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "95",
+      "sol": "The Captain of the Guards stared at him blankly.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        }
+      ]
+    },
+    {
+      "baseline": "The man looked about his age, yet spoke in such a strange way. And none of what he was saying made sense to him.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "97",
+      "sol": "The man looked about his age, yet spoke like someone from another era. Worse, the captain couldn’t make sense of a word he was saying.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Captain of the Guards trailed off.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "101",
+      "sol": "",
+      "sol_paragraphs": "after P46",
+      "sol_range": [
+        46,
+        46
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "“You don’t need to try to understand. Anyone listening to a story like that would have the same questions.”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "103",
+      "sol": "“You needn’t try to understand. Anyone listening to that would have the same question.”",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the sudden voice that slipped into his ear, the Captain of the Guards sucked in a breath and instinctively drew the sword at his waist, swinging it.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "107",
+      "sol": "The sudden voice at his ear made the captain gasp. Instinctively, he reached for the sword at his waist to draw and swing it.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "Or he tried to.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "109",
+      "sol": "Or tried to.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Until a terrifyingly immense energy erupted from somewhere and pressed down on his entire body.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "111",
+      "sol": "An immense force erupted from somewhere and pressed down on his entire body.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A wave of qi, hot as flames and heavy as a mountain.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "115",
+      "sol": "A wave of qi, hot as flames and heavy as a massive boulder.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Captain of the Guards froze, not daring even to breathe.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "117",
+      "sol": "The captain froze, not daring even to breathe.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "His head had bowed beneath the force pressing down on it. His eyes trembled with agitation as he stared at his hand, still short of the sword hilt.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "119",
+      "sol": "His head bowed under the weight. Trembling, he stared at his hand. It hadn’t even reached the hilt.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only the unanswered question drifted through the Captain of the Guards’ mind, bleached white with shock.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "123",
+      "sol": "The unanswered question was all that remained in his mind, blank with shock.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "He’d left Murim to join the government in search of a comfortable life, but he was still a Peak master.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "127",
+      "sol": "He’d left Murim for a comfortable life in government service, but he was still a Peak master.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And not some hothouse flower raised in the shelter of a prestigious sect. He was a Peak master who’d come up as a wandering martial artist, hardened by real combat.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "129",
+      "sol": "Nor was he some hothouse flower raised in the shelter of a prestigious sect. He’d come up as a wandering martial artist, a Peak master hardened by real combat.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He’d spent more than twenty years as a wanderer.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "131",
+      "sol": "",
+      "sol_paragraphs": "after P60",
+      "sol_range": [
+        60,
+        60
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He’d gone to war as soon as his first downy hairs appeared, and survived by turning into a stubborn weed.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "133",
+      "sol": "He’d spent more than twenty years as a wanderer. He’d gone to war when he was barely old enough to grow peach fuzz and survived like a stubborn weed.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He might not have learned the fine martial arts taught to the disciples of great families, but he was proud that his experience on the brink of death surpassed theirs.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "135",
+      "sol": "He might not have learned the fine martial arts taught to the disciples of great sects, but he was proud that his experience on the brink of death more than made up for it.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He could see it clearly. Feel it plainly.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "141",
+      "sol": "He could see it clearly. Feel it.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The shadow of death drawing near. A towering wall he could never overcome, even if he were reborn again and again.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "143",
+      "sol": "Death’s shadow had drawn close. Before him stood a wall he could never overcome, no matter how many times he was reborn.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that very moment, a bead of cold sweat that had formed without his noticing ran down from the Captain of the Guards’ chin.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "147",
+      "sol": "A bead of cold sweat slipped from his chin.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "At the calm voice, the heat scattered as if it had never been there.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "153",
+      "sol": "At the calm voice, the heat scattered as though it had never been there.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Captain of the Guards let out the breath he’d been holding and took several ragged breaths. In his ears, the sound of a conversation reached him.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "155",
+      "sol": "The captain let out his held breath and began breathing hard. Voices reached his ears.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "“A guest? He’s just some nobody here to make a request that isn’t even worth calling a request.”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "157",
+      "sol": "“A guest? He’s some nobody here to make a request hardly worth calling one.”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Technically, he’s my guest. He came to see me, after all.”",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "159",
+      "sol": "“He’s my guest, to be precise. He came to see me.”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What kind of guest tries to draw his sword the moment he arrives?”",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "161",
+      "sol": "“What kind of guest tries to draw a sword the moment he arrives?”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I understand. Anyone could do that if they were startled while still reeling from shock.”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "163",
+      "sol": "“I can understand it. He was already shaken, and then someone startled him.”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Quiet. You’d better be grateful to this old man for keeping you safe.”",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "165",
+      "sol": "“Quiet. You’re only safe thanks to this old man.”",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I can’t compare to you, Sir Jeok, but I did learn a thing or two from my Master. You needn’t worry.”",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "167",
+      "sol": "“I wouldn’t dare compare myself to you, Sir Jeok, but my Master did teach me a thing or two. You needn’t worry.”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, but this brat who doesn’t even have the blood dried on his head has been talking back to me all this time—”",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "169",
+      "sol": "“Why, you little brat! You’ve been talking back to me this whole time, and the blood on your head isn’t even dry—”",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“As a physician, I’d point out that if the blood in your head dries up, you die.”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "171",
+      "sol": "“As a physician, I should point out that if the blood in your head dries up, you die.”",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You—!”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "173",
+      "sol": "“Hey!”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Captain of the Guards, listening to them, lifted his head in confusion.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "175",
+      "sol": "The captain lifted his head in confusion.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "Far from being a child with wet blood still on his head, an old man with snow-white hair looked at him with kind eyes.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "177",
+      "sol": "The man Jeok Cheongang had called a wet-behind-the-ears brat had snow-white hair. He looked at the captain with kind eyes.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In that instant, the Captain of the Guards recognized the old man by instinct.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "183",
+      "sol": "The captain knew who he was at once.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "He had the bearing of an immortal. And the conversation he’d just overheard contained all the answers.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "185",
+      "sol": "The old man had the bearing of an immortal, and their conversation had supplied the rest.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes, that’s right. This old man was late, and I ended up offending you without meaning to.”",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "191",
+      "sol": "“Yes. I arrived late and caused you trouble without meaning to.”",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "노부",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "this old man"
+        }
+      ]
+    },
+    {
+      "baseline": "“N-no! You didn’t offend me at all!”",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "193",
+      "sol": "“N-no! Not at all!”",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Captain of the Guards hurriedly waved his hands, then glanced nervously at Jeok Cheongang.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "195",
+      "sol": "The captain waved his hands, then glanced nervously at Jeok Cheongang.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "Meeting the Divine Physician at last was wonderful, but it was nothing compared to finding out who that terrifying bald middle-aged man was.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "197",
+      "sol": "Meeting the Divine Physician at last was wonderful. But it was nothing beside the question of who that terrifying bald, middle-aged man might be.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The scattered pieces in his mind seemed to fall into place all at once.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "201",
+      "sol": "The scattered pieces in his mind fell into place.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The way he treated the Divine Physician, who looked to be well past seventy, like a child. The overwhelming force that had bound his entire body with nothing more than its release.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "203",
+      "sol": "Jeok treated the Divine Physician, who looked well past seventy, like a child. Merely releasing his qi had been enough to bind the captain’s entire body.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—more precisely, the Scorching Yang Qi.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "205",
+      "sol": "No—more precisely, it was Scorching Yang Qi.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And, finally, what the Divine Physician had just called him.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "207",
+      "sol": "And then there was what the Divine Physician had called him.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*He said “Sir Jeok.” He definitely did.*",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "209",
+      "sol": "*He said “Sir Jeok.” I heard him.*",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Captain of the Guards swallowed hard.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "211",
+      "sol": "The captain swallowed.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "It was nonsense. A crazy thought.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "213",
+      "sol": "It was absurd. A crazy thought.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But he couldn’t help it. As far as he knew, there was only one person in all the world who fit all those details.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "215",
+      "sol": "But as far as he knew, only one person in the world fit every detail.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Th-that person, could he be F-F-Fire—”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "217",
+      "sol": "“Th-that man… Could he be F-F-Fire—”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Captain of the Guards stammered, unable to finish. Jeok Cheongang frowned.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "219",
+      "sol": "Jeok Cheongang frowned at the stammering captain.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "“That’s right. I am the Fire King. Not the F-F-Fire King.”",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "221",
+      "sol": "“That’s right. I’m the Fire King. Not the F-F-Fire King.”",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……His reaction is somehow getting on my nerves. I feel like the Grim Reaper.”",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "225",
+      "sol": "“…Why does that reaction rub me the wrong way? You’d think I was the Grim Reaper.”",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Jeok Cheongang’s baffled look, the Divine Physician was reminded of something his Master had once told him.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "227",
+      "sol": "At Jeok Cheongang’s baffled look, the Divine Physician remembered something his Master had once told him.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> “As a rule, it’s best to keep your distance from martial artists.”\n>\n> “Why?”\n>\n> “Of all the kinds of people in the world, they’re the most vile, violent, and—on top of that—stupid.”\n>\n> “Ah, I suppose that’s true to some extent.”\n>\n> “……What do you mean by that?”\n>\n> “Nothing. But I thought not all martial artists were like that.”\n>\n> “True. But steer clear of those who follow the demonic, heterodox arts. Ninety-nine out of a hundred are idiots.”\n>\n> “I’ve heard there are righteous heroes among the orthodox faction. Should I avoid them, too?”\n>\n> “If you can, yes. They talk about benevolence and righteousness, but half of them are idiots.”\n>\n> “Then what about martial artists who belong to neither the orthodox faction nor the ranks of those who follow the demonic, heterodox arts?”\n>\n> “They’re so unruly, and so many of them are unknown, that it’s hard to judge. But based on my experience, you only need to remember two things.”\n>\n> “What are they?”\n>\n> “The Fire King. The Fire Gate Clan. Repeat them and burn them into your mind.”\n>\n> “The Fire King. The Fire Gate Clan.”\n>\n> “Once isn’t enough. This time, say them and engrave them on your heart.”\n>\n> “The Fire King. The Fire Gate Clan.”\n>\n> “Good. Remember those two.”\n>\n> “I think I’ve heard the title Fire King before, but why do I need to remember it so well?”\n>\n> “Avoid him.”\n>\n> “Pardon?”\n>\n> “Never meet him, no matter what. If you hear a rumor that the Fire King has appeared somewhere while I’m away, leave the entire province.”\n>\n> “What? What kind of person is he that I’d have to go that far?”\n>\n> “A lunatic.”\n>\n> “……?”\n>\n> “The Fire King—or rather, the Fire Gate Clan—are lunatics who’ve spent generations fighting orthodox martial artists and followers of the demonic, heterodox arts alike. They beat people when they’re in a bad mood, when they’re in a good mood, and some days when they’re neither happy nor upset.”\n>\n> “……How can people like that exist?”\n>\n> “They do. There’s a mad sect that’s spent more than three hundred years breeding—no, producing—one generation of insanely strong lunatics after another.”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "229",
+      "sol": "> “As a rule, it’s best to keep your distance from martial artists.”\n>\n> “Why?”\n>\n> “Of all the kinds of people in the world, they’re the most vile, violent, and stupid.”\n>\n> “Ah, I suppose that’s true to some extent.”\n>\n> “…What do you mean by that?”\n>\n> “Nothing. But I thought not all martial artists were like that.”\n>\n> “True. But steer clear of those who follow demonic, heterodox arts. Ninety-nine out of a hundred are idiots.”\n>\n> “I’ve heard there are righteous heroes among the orthodox faction. Should I avoid them, too?”\n>\n> “If you can. They talk about benevolence and righteousness, but half of them are idiots.”\n>\n> “Then what about martial artists who belong to neither side?”\n>\n> “They do as they please, and little is known about many of them. They’re hard to judge. But in my experience, you only need to remember two things.”\n>\n> “What are they?”\n>\n> “The Fire King. The Fire Gate Clan. Repeat them and burn them into your mind.”\n>\n> “The Fire King. The Fire Gate Clan.”\n>\n> “Once isn’t enough. This time, say them and engrave them on your heart.”\n>\n> “The Fire King. The Fire Gate Clan.”\n>\n> “Good. Remember those two.”\n>\n> “I think I’ve heard the title Fire King before, but why must I remember it so well?”\n>\n> “Avoid him.”\n>\n> “Pardon?”\n>\n> “Never meet him, no matter what. If you hear he’s appeared somewhere while I’m away, leave the province altogether.”\n>\n> “What kind of person is he that I’d have to go that far?”\n>\n> “A madman.”\n>\n> “…?”\n>\n> “The Fire King—or rather, the Fire Gate Clan—are madmen who’ve spent generations fighting orthodox and heterodox martial artists alike. They beat people when they’re in a bad mood, when they’re in a good mood, and some days when they’re in neither.”\n>\n> “…How can people like that exist?”\n>\n> “They do. For more than three hundred years, that mad sect has bred—no, produced—one generation of insanely strong madmen after another.”",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Divine Physician remembered that day clearly.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "233",
+      "sol": "",
+      "sol_paragraphs": "after P109",
+      "sol_range": [
+        109,
+        109
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "신의",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Divine Physician"
+        }
+      ]
+    },
+    {
+      "baseline": "His Master, who always kept his composure and was known as the greatest assassin of all time, had stressed just how dangerous they were by using the word “lunatic” three times in a row.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "235",
+      "sol": "The Divine Physician remembered that day clearly. His Master, renowned as the greatest assassin of all time and unfailingly composed, had used the word *mad* three times to impress the danger upon him.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Then why does Sir Jeok look so offended? Everything he said sounds right.*",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "237",
+      "sol": "*Then why does Sir Jeok look so offended? It all sounds right to me.*",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, the Divine Physician didn’t say that out loud. He had more important things to do—like stop Jeok Cheongang, who had grabbed the Captain of the Guards by the collar and was now shouting at him.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "239",
+      "sol": "He kept that thought to himself. Stopping Jeok Cheongang, who had seized the captain by the collar and begun shouting at him, came first.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "신의",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Divine Physician"
+        },
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "“Eek! I-I didn’t! Please spare me!”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "247",
+      "sol": "“Eek! I-I’m not! Please spare me!”",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If your voice shakes one more time, every last hair on your body is going to…!”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "249",
+      "sol": "“If your voice shakes one more time, I’ll strip every last hair off your body…!”",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“Sir Jeok, that’s enough. Please calm down.”",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "251",
+      "sol": "“Sir Jeok, please. Calm down.”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Divine Physician sighed as he stopped Jeok Cheongang, then spoke to the trembling Captain of the Guards.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "253",
+      "sol": "The Divine Physician sighed as he stopped Jeok, then turned to the trembling captain.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        },
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "“I heard most of the situation without meaning to, but to get straight to the point, I can’t leave.”",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "255",
+      "sol": "“I happened to hear the gist of the situation. To get straight to the point, I can’t leave.”",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Y-yes? Why not?”",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "257",
+      "sol": "“W-what? Why not?”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“From what you’ve told me, the City Lord is suffering from a rather unusual case of lovesickness. As a physician, I have no choice but to care for those who are sicker and in greater pain.”",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "259",
+      "sol": "“From what you’ve told me, the City Lord is suffering from an unusual case of lovesickness. As a physician, I must tend to those who are sicker and in greater pain.”",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“B-but his behavior is so different from usual!”",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "261",
+      "sol": "“B-but he’s behaving nothing like himself!”",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s only natural. He’s had the person he loves taken from him. How could he not be suffering? If my patients improve later on, I’ll come by then, even if it’s only once…”",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "263",
+      "sol": "“That’s only natural. The person he loves has been taken from him. Imagine how he must feel. If the patients in my care improve, I’ll pay him a visit then…”",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Divine Physician’s voice trailed off. His gaze shifted toward the slightly open door.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "265",
+      "sol": "The Divine Physician trailed off and looked toward the slightly open door.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A hurried footfall and ragged breathing were drawing closer, loud enough for everyone there to hear.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "267",
+      "sol": "",
+      "sol_paragraphs": "after P125",
+      "sol_range": [
+        125,
+        125
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with the unmistakable clank of armor—a sound seldom heard from a martial artist.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "269",
+      "sol": "Hurried footsteps and ragged breathing drew closer, loud enough for everyone to hear. With them came the distinctive clank of armor, a sound seldom heard from a martial artist.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sure enough, before long, a figure clad in gleaming armor ran up and came to a halt in front of the door, nearly collapsing.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "273",
+      "sol": "Sure enough, a figure in gleaming armor soon ran up and stopped at the door, nearly collapsing.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Captain of the Guards’ eyes widened when he recognized a subordinate who should have been back at the City Lord’s residence. The man sucked in a ragged breath and cried out:",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "277",
+      "sol": "The captain’s eyes widened. He recognized a subordinate who should have remained at the City Lord’s residence.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "호위장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Captain of the Guards"
+        }
+      ]
+    },
+    {
+      "baseline": "“C-City Lord…!”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "279",
+      "sol": "The man dragged in a ragged breath and cried out, “Th-the City Lord…!”",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 132,
+  "sol_sha256": "0701368e3ca09e02610d39eea9f5c025b97583b7ca7dc4088d8670c7a61cb5f1",
+  "version": 1
+}

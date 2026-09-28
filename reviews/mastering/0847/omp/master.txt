@@ -30,7 +30,7 @@ The Captain of the Guards looked uncomfortable at the sound. “It wasn’t exac
 
 “……!”
 
-The Captain of the Guards was so shocked he forgot to breathe.
+The captain was so shocked he forgot to breathe.
 
 He’d already guessed the man was crazy, but to speak so disrespectfully of the Son of Heaven—
 
@@ -56,7 +56,7 @@ Things might have been different in the past, but now he was a Master with a Dis
 
 “Look at your face. Heh heh.”
 
-The Captain of the Guards stood frozen with his mouth agape. Jeok Cheongang slapped his knee and laughed.
+The captain stood frozen, mouth agape. Jeok Cheongang slapped his knee and laughed.
 
 He had lived for a hundred and several dozen years. He’d seen the age of warring heroes, when the blood never dried, and the birth of a new unified dynasty with his own eyes.
 
@@ -72,11 +72,11 @@ That had always been his assessment. After hearing what his one and only Discipl
 
 He’d been right.
 
-The Son of Heaven isn’t granted by Heaven; he is born amid bloodshed and countless corpses.
+Heaven did not bestow the Son of Heaven. He was born amid countless pools of blood and heaps of corpses.
 
-Jeok Cheongang suddenly remembered the stories Jin Taekyung had told him: astonishing tales of a giant iron bird taking to the sky and traveling among countless stars.
+Jeok Cheongang thought of the astonishing stories Jin Taekyung had told him: of great iron birds sent into the sky, and of traveling among countless stars.
 
-As he thought of them and watched the Captain of the Guards still standing frozen, he couldn’t help letting out another laugh.
+Then he looked at the captain, still frozen before him, and couldn’t hold back another laugh.
 
 “I understand. There are mountains of things even this old man knows nothing about. How could a youngster like you begin to imagine them?”
 
@@ -90,8 +90,6 @@ The man looked about his age, yet spoke like someone from another era. Worse, th
 
 “What on earth does that—”
 
-The Captain of the Guards trailed off.
-
 “You needn’t try to understand. Anyone listening to that would have the same question.”
 
 “……!”
@@ -100,19 +98,19 @@ The sudden voice at his ear made the captain gasp. Instinctively, he reached for
 
 Or tried to.
 
-Until a terrifyingly immense energy erupted from somewhere and pressed down on his entire body.
+An immense force erupted from somewhere and pressed down on his entire body.
 
 Whoosh!
 
 A wave of qi, hot as flames and heavy as a massive boulder.
 
-The Captain of the Guards froze, not daring even to breathe.
+The captain froze, not daring even to breathe.
 
-His head had bowed beneath the force pressing down on it. His eyes trembled with agitation as he stared at his hand, still short of the sword hilt.
+His head bowed under the weight. Trembling, he stared at his hand. It hadn’t even reached the hilt.
 
 *H-how?*
 
-Only the unanswered question drifted through the Captain of the Guards’ mind, bleached white with shock.
+The unanswered question was all that remained in his mind, blank with shock.
 
 How could this be?
 
@@ -134,7 +132,7 @@ Death’s shadow had drawn close. Before him stood a wall he could never overcom
 
 Drip.
 
-At that very moment, a bead of cold sweat that had formed without his noticing ran down from the Captain of the Guards’ chin.
+A bead of cold sweat slipped from his chin.
 
 “It’s a hot day. That’s a bit much to put a guest through.”
 
@@ -142,7 +140,7 @@ Ssshhh.
 
 At the calm voice, the heat scattered as though it had never been there.
 
-The Captain of the Guards let out the breath he’d been holding and took several ragged breaths. In his ears, the sound of a conversation reached him.
+The captain let out his held breath and began breathing hard. Voices reached his ears.
 
 “A guest? He’s some nobody here to make a request hardly worth calling one.”
 
@@ -156,13 +154,13 @@ The Captain of the Guards let out the breath he’d been holding and took severa
 
 “I wouldn’t dare compare myself to you, Sir Jeok, but my Master did teach me a thing or two. You needn’t worry.”
 
-“No, but this brat who doesn’t even have the blood dried on his head has been talking back to me all this time—”
+“Why, you little brat! You’ve been talking back to me this whole time, and the blood on your head isn’t even dry—”
 
 “As a physician, I should point out that if the blood in your head dries up, you die.”
 
-“You—!”
+“Hey!”
 
-The Captain of the Guards, listening to them, lifted his head in confusion.
+The captain lifted his head in confusion.
 
 The man Jeok Cheongang had called a wet-behind-the-ears brat had snow-white hair. He looked at the captain with kind eyes.
 
@@ -170,7 +168,7 @@ The man Jeok Cheongang had called a wet-behind-the-ears brat had snow-white hair
 
 “……!”
 
-In that instant, the Captain of the Guards recognized the old man by instinct.
+The captain knew who he was at once.
 
 The old man had the bearing of an immortal, and their conversation had supplied the rest.
 
@@ -182,13 +180,13 @@ The old man—the Divine Physician—smiled wryly and nodded.
 
 “N-no! Not at all!”
 
-The Captain of the Guards hurriedly waved his hands, then glanced nervously at Jeok Cheongang.
+The captain waved his hands, then glanced nervously at Jeok Cheongang.
 
 Meeting the Divine Physician at last was wonderful. But it was nothing beside the question of who that terrifying bald, middle-aged man might be.
 
 *Could it be…?*
 
-The scattered pieces in his mind seemed to fall into place all at once.
+The scattered pieces in his mind fell into place.
 
 Jeok treated the Divine Physician, who looked well past seventy, like a child. Merely releasing his qi had been enough to bind the captain’s entire body.
 
@@ -196,17 +194,17 @@ No—more precisely, it was Scorching Yang Qi.
 
 And then there was what the Divine Physician had called him.
 
-*He said “Sir Jeok.” He definitely did.*
+*He said “Sir Jeok.” I heard him.*
 
-The Captain of the Guards swallowed hard.
+The captain swallowed.
 
 It was absurd. A crazy thought.
 
-But he couldn’t help it. As far as he knew, there was only one person in all the world who fit all those details.
+But as far as he knew, only one person in the world fit every detail.
 
 “Th-that man… Could he be F-F-Fire—”
 
-The Captain of the Guards stammered, unable to finish. Jeok Cheongang frowned.
+Jeok Cheongang frowned at the stammering captain.
 
 “That’s right. I’m the Fire King. Not the F-F-Fire King.”
 
@@ -220,23 +218,23 @@ At Jeok Cheongang’s baffled look, the Divine Physician remembered something hi
 >
 > “Why?”
 >
-> “Of all the kinds of people in the world, they’re the most vile, violent, and—on top of that—stupid.”
+> “Of all the kinds of people in the world, they’re the most vile, violent, and stupid.”
 >
 > “Ah, I suppose that’s true to some extent.”
 >
-> “……What do you mean by that?”
+> “…What do you mean by that?”
 >
 > “Nothing. But I thought not all martial artists were like that.”
 >
-> “True. But steer clear of those who follow the demonic, heterodox arts. Ninety-nine out of a hundred are idiots.”
+> “True. But steer clear of those who follow demonic, heterodox arts. Ninety-nine out of a hundred are idiots.”
 >
 > “I’ve heard there are righteous heroes among the orthodox faction. Should I avoid them, too?”
 >
-> “If you can, yes. They talk about benevolence and righteousness, but half of them are idiots.”
+> “If you can. They talk about benevolence and righteousness, but half of them are idiots.”
 >
-> “Then what about martial artists who belong to neither the orthodox faction nor the ranks of those who follow the demonic, heterodox arts?”
+> “Then what about martial artists who belong to neither side?”
 >
-> “They’re so unruly, and so many of them are unknown, that it’s hard to judge. But based on my experience, you only need to remember two things.”
+> “They do as they please, and little is known about many of them. They’re hard to judge. But in my experience, you only need to remember two things.”
 >
 > “What are they?”
 >
@@ -250,25 +248,25 @@ At Jeok Cheongang’s baffled look, the Divine Physician remembered something hi
 >
 > “Good. Remember those two.”
 >
-> “I think I’ve heard the title Fire King before, but why do I need to remember it so well?”
+> “I think I’ve heard the title Fire King before, but why must I remember it so well?”
 >
 > “Avoid him.”
 >
 > “Pardon?”
 >
-> “Never meet him, no matter what. If you hear a rumor that the Fire King has appeared somewhere while I’m away, leave the entire province.”
+> “Never meet him, no matter what. If you hear he’s appeared somewhere while I’m away, leave the province altogether.”
 >
-> “What? What kind of person is he that I’d have to go that far?”
+> “What kind of person is he that I’d have to go that far?”
 >
-> “A lunatic.”
+> “A madman.”
 >
-> “……?”
+> “…?”
 >
-> “The Fire King—or rather, the Fire Gate Clan—are lunatics who’ve spent generations fighting orthodox martial artists and followers of the demonic, heterodox arts alike. They beat people when they’re in a bad mood, when they’re in a good mood, and some days when they’re neither happy nor upset.”
+> “The Fire King—or rather, the Fire Gate Clan—are madmen who’ve spent generations fighting orthodox and heterodox martial artists alike. They beat people when they’re in a bad mood, when they’re in a good mood, and some days when they’re in neither.”
 >
-> “……How can people like that exist?”
+> “…How can people like that exist?”
 >
-> “They do. There’s a mad sect that’s spent more than three hundred years breeding—no, producing—one generation of insanely strong lunatics after another.”
+> “They do. For more than three hundred years, that mad sect has bred—no, produced—one generation of insanely strong madmen after another.”
 
 The Divine Physician remembered that day clearly. His Master, renowned as the greatest assassin of all time and unfailingly composed, had used the word *mad* three times to impress the danger upon him.
 
@@ -282,23 +280,23 @@ He kept that thought to himself. Stopping Jeok Cheongang, who had seized the cap
 
 “Then why is your voice shaking? Are you mocking me for being bald?”
 
-“Eek! I-I didn’t! Please spare me!”
+“Eek! I-I’m not! Please spare me!”
 
-“If your voice shakes one more time, every last hair on your body is going to…!”
+“If your voice shakes one more time, I’ll strip every last hair off your body…!”
 
 “Sir Jeok, please. Calm down.”
 
-The Divine Physician sighed as he stopped Jeok Cheongang, then spoke to the trembling Captain of the Guards.
+The Divine Physician sighed as he stopped Jeok, then turned to the trembling captain.
 
 “I happened to hear the gist of the situation. To get straight to the point, I can’t leave.”
 
-“Y-yes? Why not?”
+“W-what? Why not?”
 
 “From what you’ve told me, the City Lord is suffering from an unusual case of lovesickness. As a physician, I must tend to those who are sicker and in greater pain.”
 
 “B-but he’s behaving nothing like himself!”
 
-“That’s only natural. He’s had the person he loves taken from him. How could he not be suffering? If my patients improve later on, I’ll come by then, even if it’s only once…”
+“That’s only natural. The person he loves has been taken from him. Imagine how he must feel. If the patients in my care improve, I’ll pay him a visit then…”
 
 The Divine Physician trailed off and looked toward the slightly open door.
 
@@ -310,7 +308,7 @@ Sure enough, a figure in gleaming armor soon ran up and stopped at the door, nea
 
 “You…”
 
-The Captain of the Guards’ eyes widened when he recognized a subordinate who should have been back at the City Lord’s residence. The man sucked in a ragged breath and cried out:
+The captain’s eyes widened. He recognized a subordinate who should have remained at the City Lord’s residence.
 
 The man dragged in a ragged breath and cried out, “Th-the City Lord…!”
 
