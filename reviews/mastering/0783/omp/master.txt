@@ -8,7 +8,7 @@ As I charged, the spearhead flashed forward, cleaving through space. Flames surg
 
 One precise point pierced the invisible flow.
 
-Some of the magical power sweeping toward me like a wave dispersed helplessly. My vision plunged through the gap in the magical power at the same speed as my thrust—and a familiar face came into view.
+Some of the magical power sweeping toward me like a wave scattered. I drove through the gap at full speed, and a familiar face came into view.
 
 No. Familiar and strange at once.
 
@@ -76,7 +76,7 @@ Despite the enormous difference in force, Michael Silbert’s sword slipped out 
 
 Flames burst forth in a flash.
 
-The thick darkness moved like a living creature and hurried to envelop its master, but my Flame-Extinguishing Divine Fist, thrown with all my strength, burned through the magical power and slammed into his chest.
+The thick darkness moved like a living creature, rushing to envelop its master. But my Flame-Extinguishing Divine Fist burned through the magical power and slammed into his chest.
 
 *Kwaaaang!*
 
@@ -86,7 +86,7 @@ Michael Silbert hastily flung out both arms, pouring magical power toward me to 
 
 *Kh-erk.*
 
-I cut down every bolt of magical power flying toward me and watched him stagger. A strange feeling stirred in me.
+I cut down every bolt flying toward me and watched him stagger. Something strange stirred in me.
 
 Not because I’d finally landed a solid hit. Because the blood spilling from his mouth was red.
 
@@ -102,15 +102,15 @@ I answered readily.
 
 “What?”
 
-“You don’t need to understand. There’s a shitload of things in this world you don’t know about anyway.”
+“You don’t need to understand. There’s a shitload of things in this world you don’t know about.”
 
 “……!”
 
-“So I don’t bother trying to understand, either. You, or those lunatics fighting over there—who knows what kind of fucked-up shit they got up to while working with you to end up in that fight? None of it makes any sense to me.”
+“I don’t bother trying to understand, either. You, or those lunatics fighting over there. Who knows what kind of fucked-up shit they’ve done with you to end up in that fight? None of it makes sense to me.”
 
 I stared straight at Michael Silbert.
 
-“No. The moment I understood it, I’d become the same kind of idiot.”
+“No. The moment it did, I’d be the same kind of idiot.”
 
 A new emotion spread across his face, over the traces of pain.
 
@@ -140,13 +140,13 @@ And at the end of its path stood Michael Silbert.
 
 Flame and magical power erupted together.
 
-The stained glass, which had barely held its shape thanks to dozens of layers of defensive magic, couldn’t withstand the shock wave and shattered. I flashed through the rain of countless shards falling overhead and thrust out both palms.
+Dozens of layers of defensive magic had barely kept the stained glass intact. The shock wave finally shattered it, and I flashed through the rain of shards pouring down overhead, striking with both palms.
 
 *Boom!*
 
 A gale of flame swept through the room.
 
-Amid the haze left by the explosion, the shadow of someone staggering was etched clearly into my eyes.
+Amid the haze left by the explosion, I caught a clear glimpse of someone staggering.
 
 *That’s him.*
 
@@ -154,25 +154,25 @@ No doubt about it.
 
 I kicked off the ground and charged, reaching out to grab empty air.
 
-No—two spears appeared as if drawn into existence by the command I shouted in my mind. I caught them and launched them once more.
+No—at the command I shouted in my mind, two spears appeared as though drawn into existence. I caught them and hurled them after the first.
 
 *Shweeeek!*
 
 Two streaks of light crossed the space between us.
 
-When Michael Silbert twisted aside and dodged the spears, I tore through the darkness surrounding us again and closed in right in front of him.
+Michael Silbert twisted aside to dodge them. I tore through the darkness around us again and closed in on him.
 
 “Jin Taekyung!”
 
 *Whooom!*
 
-Beyond his furious shout came the heavy whistle of a weapon cutting through the air.
+His furious shout was swallowed by the heavy rush of his sword through the air.
 
 Fed an absurd amount of magical power, the enormous blade came down as if to cleave me in two.
 
 *Shwaaaak! Shhk!*
 
-Space split open, and the sword, having missed its target, cleaved the ground.
+It split the air, missed me, and cleaved the ground.
 
 Pain stung across my chest. I’d dodged sideways at the last moment, but the pressure behind the sword was stronger—and sharper—than I’d imagined.
 
@@ -200,7 +200,7 @@ An enemy, plain and simple. I owed him no friendly explanation.
 
 *Fwoosh.*
 
-The Flame Divine Palm, now at the eighth level of mastery, poured out a dreadful heat.
+The Flame Divine Palm, brought to eight-tenths of its full power, poured out a dreadful heat.
 
 It was too late for him to free the hand gripping his sword. As he thrust out his other hand, I gave a command in my mind.
 
@@ -216,7 +216,7 @@ His eyes bulged, pain mingling with some realization I couldn’t read.
 
 Meticulous as he was, Michael Silbert might already have suspected I had an Inventory.
 
-But I was stronger than he thought—and even better at improvising.
+But I was stronger than he thought, and better at improvising than that.
 
 Even if he’d guessed, it wouldn’t have changed much.
 
@@ -230,9 +230,9 @@ They were all wrong.
 
 I’d been an F-rank Hunter, born in muddy water. I’d struggled and grown through countless brushes with death.
 
-I would keep struggling with all my might until every bit of dirt filling this pit around me was gone. Until it finally became a clear pond.
+I’d fought with everything I had to clear the dirt from the pit around me. To turn it into a clear pond at last.
 
-And yet…… I couldn’t hand my pond over to some leech. Not a mantis, not a toad—a leech.
+And I wasn’t about to hand that pond over to a leech. Not a mantis or a toad—a leech.
 
 Especially one that would fill it with blood instead of muddy water.
 
@@ -240,21 +240,21 @@ Especially one that would fill it with blood instead of muddy water.
 
 My hand flashed.
 
-Still clutching Michael Silbert’s hand, pierced by the dagger, I summoned another weapon from my Inventory and slashed, stabbed, twisted, and drove it into him wherever I could.
+Still clutching Michael Silbert’s dagger-pierced hand, I summoned another weapon from my Inventory. I slashed and stabbed wherever I could, twisting the weapon and driving it in deeper.
 
 “Graaah!”
 
-Blood sprayed from his wide-open mouth. At the same time, the hand that had belatedly let go of the sword hilt drove into my side like a battering ram.
+Blood sprayed from his wide-open mouth. At the same time, the hand that had finally let go of his sword drove toward my side like a battering ram.
 
 *Whoom!*
 
-The air whistled with a weight that made my skin crawl.
+The weight behind it made my skin crawl.
 
 He had the magical power of two or three S-rank monsters combined and enough raw strength to tear a large monster apart with his bare hands.
 
 The System had given me a body like steel, but I wouldn’t come away unscathed if that blow landed.
 
-At least, if I did nothing.
+Not as I was.
 
 *Inventory open. Summon.*
 
@@ -287,7 +287,7 @@ And in that instant—
 
 *Ptoo!*
 
-I spat the blood pooled in my mouth into his face.
+I spat the blood in my mouth into his face.
 
 As he flailed instinctively, his face drenched in blood, I drove my fist into him.
 
