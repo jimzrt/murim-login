@@ -4,7 +4,7 @@ Time changes many things.
 
 The living. The dead.
 
-Before the laws of time, all things were equal.
+Before the passage of time, all things are equal.
 
 Even an absolute ruler who once commanded the world will one day return to the earth. A seed scattered by the wind and mixed into the soil may, hundreds of years later, become part of a dense thicket of grass.
 
@@ -94,7 +94,7 @@ Ju Wongong, who’d been staring blankly at me through the lattice window, opene
 
 “Um… aren’t you getting out?”
 
-I blinked and asked him back.
+I blinked at him.
 
 “Why would I get out?”
 
@@ -194,7 +194,7 @@ Or, to be precise, it wasn’t just the Sichuan Tang Clan.
 
 The martial artists of the Sichuan Tang Clan, dressed in green uniforms, were joined by Daoists from the Qingcheng Sect, nuns from the Emei Sect, and finally even the beggars of the Beggars’ Sect.
 
-At the sight of that enormous crowd surging in like a sea of people, Namho gaped.
+Namho gaped at the enormous crowd surging toward us.
 
 “Hell, what in the world have you been doing?”
 
@@ -232,7 +232,7 @@ But one thing was certain.
 
 The Sichuan Tang Clan—or rather, Sichuan Murim—had risen again.
 
-They had stopped the invisible rift that had persisted all this time, coming together to rise above their grief.
+They had put a stop to the divisions that had persisted unseen all this time. They had come together and were rising above their grief.
 
 To avenge what they had lost.
 
@@ -274,7 +274,7 @@ At the corners of his mouth, always sharp and hard as a dagger, dimples appeared
 
 “It’s good to see you again, Blazing Flame Divine Dragon Jin Taekyung.”
 
-At that one line, filled with the old man’s joy, the suppressed cheers rang out thunderously.
+At those few words, filled with the old man’s joy, the suppressed cheers rang out thunderously.
 
 At the same time, another voice slipped through the noise and into my ear—one only I could hear.
 

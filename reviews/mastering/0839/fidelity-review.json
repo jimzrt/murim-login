@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "The unexpected courtesy left me at a loss for words.",
+      "defect": "The translation omits the intensity of 극진한, which describes the courtesy as exceptionally respectful or gracious.",
+      "id": "F01",
+      "rationale": "극진한 예의 conveys more than courtesy alone; it emphasizes the extraordinary degree of respect in Tang Sadok’s greeting.",
+      "replacement": "The unexpected show of exceptional courtesy left me at a loss for words.",
+      "severity": "minor",
+      "source": "Line 277"
+    }
+  ],
+  "summary": "The chapter is broadly faithful. One minor omission softens the degree of Tang Sadok’s courtesy.",
+  "version": 1
+}

@@ -6,7 +6,7 @@ The living. The dead.
 
 Before the laws of time, all things were equal.
 
-Even an absolute ruler who once commanded the world will one day return to the earth. A seed scattered by the wind and mixed into the soil may, hundreds of years later, become part of a dense thicket of grass.
+Even an absolute ruler who once commanded the world would one day return to the earth. A seed carried on the wind and buried in the soil might grow, hundreds of years later, into a dense thicket of grass.
 
 Murim was no different.
 
@@ -20,7 +20,7 @@ And the Five Great Families.
 
 Fifteen pillars supporting the Murim of the Central Plains.
 
-Deep-rooted trees that had swayed but never been uprooted in hundreds of years.
+Deep-rooted trees that had never been uprooted in the past several hundred years, even when they swayed.
 
 The Sichuan Tang Clan was one of them.
 
@@ -36,7 +36,7 @@ At the coachman’s words, Ju Wongong nodded, then sneaked a look at me.
 
 I’d only said it to tease him, but the guy had gone and gotten scared.
 
-I let out a short laugh as I watched Ju Wongong hastily change his tune.
+I snickered as I watched Ju Wongong hastily change his tune.
 
 When you got right down to it, he wasn’t exactly a bad guy. He was just incompetent, fond of pocketing money from anyone and everyone, and used his imperial status to live in luxury.
 
@@ -46,19 +46,19 @@ Now that I put it that way, he did sound like a bad guy. Some of the bribes Ju W
 
 *He still hasn’t learned his lesson, even after nearly dying. Should I lay into him some more?*
 
-The thought must have shown on my face. Ju Wongong went pale and urged the coachman on.
+My concern must have shown on my face. Ju Wongong went pale and urged the coachman on.
 
 “Every second counts! Pick up the pace!”
 
-“It’s not that urgent. Don’t hassle a man who’s already doing his job. Worry about yourself.”
+“It’s not that urgent. Don’t hassle the poor guy for doing his job. You should worry about yourself.”
 
 “Every second does not count! Maintain this speed!”
 
-Controlling an avatar like this was surprisingly fun.
+This feeling of controlling an avatar was surprisingly fun.
 
 Maybe it was even more fun because he was a distant imperial relative and the acting City Lord of Sichuan Province.
 
-Well, I had saved his life, and he was easy to handle. Keeping up a connection with him could come in handy.
+Well, I had saved his life, and he was easy to handle. Keeping him on friendly terms could come in handy.
 
 “No need to go any farther. Let’s stop here. We’re almost there anyway, and neither side will be happy if we show up at the Sichuan Tang Clan like this.”
 
@@ -104,7 +104,7 @@ I blinked and asked him back.
 
 “……?”
 
-“As you know, we’ve got someone elderly and someone sick in our party. I figured a carriage would make things easier. People will clear the way for us on the streets, too.”
+“As you know, we’ve got elderly people and sick people in our party. I figured it’d be more comfortable if we had one. And when we’re out on the road, people are more likely to clear the way.”
 
 “……!”
 
@@ -112,7 +112,7 @@ I blinked and asked him back.
 
 An ordinary martial artist would’ve been flustered by what I said.
 
-*It’s an imperial carriage, can we really do this? No, it’s all right, I’m fine.* One model answer after another.
+It’s an imperial carriage, can we really do this? No, it’s all right, I’m fine, and so on—one model answer after another.
 
 But the great Fire Dragon Pavilion members were a different breed.
 
@@ -120,7 +120,7 @@ Actually, whatever fresh-faced promise they’d once had had come back from Nanm
 
 “Aw, shit. My whole body’s aching bad enough to kill me, and these Central Plains bastards are so high and mighty they don’t even respect the elderly…”
 
-Namho started, muttering as if he wanted to be heard and patting his waist. The Fire Dragon Pavilion members climbed down from their horses and filed into the carriage.
+Namho started, muttering just loud enough for everyone to hear and patting his lower back. The Fire Dragon Pavilion members climbed down from their horses and filed into the carriage.
 
 Of course, they didn’t forget to make their own comments.
 
@@ -150,11 +150,11 @@ Then he yanked the splendid golden flag free.
 
 *Clack.*
 
-Controlling an avatar like this really was a lot of fun.
+This feeling of controlling an avatar really was a lot of fun.
 
 * * *
 
-The first to greet us when we reached the Sichuan Tang Clan were the gruff voice and wary eyes of a gate guard stationed atop the newly built stone wall.
+The first to greet us when we reached the Sichuan Tang Clan were the gate guard’s gruff voice and wary eyes, watching from atop the newly built stone wall.
 
 “Stop! State your affiliation and name. If you’re a martial artist, give your title and reason for coming.”
 
@@ -170,7 +170,7 @@ When I first visited the Sichuan Tang Clan a few months ago, I was pretty sure h
 
 *Rrrrumble.*
 
-As the massive iron gate swung open, the gate guard smacked the clueless new recruit on the back of the head. He clasped his hands in salute to me several times, then rushed off somewhere in a panic.
+As the massive iron gate swung open, the gate guard smacked the dim-witted new recruit on the back of the head. He clasped his hands to me several times, then rushed off somewhere in a panic.
 
 “Everyone, come outside! The Fire Dragon Pavilion has arrived!”
 
@@ -186,7 +186,7 @@ Or, to be precise, it wasn’t just the Sichuan Tang Clan.
 
 “Great Hero Jin! Do you remember me?”
 
-“It’s a pleasure to see you again. Thanks to you, the Disciples of our sect were spared heavy losses.”
+“It’s a pleasure to see you again. Thanks to you, the disciples of our sect avoided a great many casualties.”
 
 “Amitabha. To think that Benefactor Jin has returned to Sichuan Murim. On behalf of Emei, I offer you my thanks once more.”
 
@@ -200,7 +200,7 @@ At the sight of that enormous crowd surging in like a sea of people, Namho gaped
 
 “I more or less told you what happened in Sichuan.”
 
-“Even so, this is… It’s strange enough that people from other sects are here with the Sichuan Tang Clan, who are famous for their foul tempers. But why are they all coming out like this?”
+“Even so, this is… It’s strange enough that people from other sects are here with the Sichuan Tang Clan, who are famous for their foul tempers. But why are they all coming out to greet you like this?”
 
 “I just did a few things here and there.”
 
@@ -210,7 +210,7 @@ There was nothing more embarrassing than praising myself, and he’d find out na
 
 *Still, it looks like everyone’s been doing well.*
 
-I kept bowing my head as cheers and clasped-hand greetings poured in from every direction. Something tickled at a corner of my heart.
+I kept bowing my head as cheers and clasped-hand greetings poured in from every direction. A warm feeling stirred in a corner of my heart.
 
 To be honest, I’d been a little worried.
 
@@ -224,7 +224,7 @@ But contrary to my fears, the faces surrounding me now held nothing but joy.
 
 The Outer Court, where dark-red bloodstains had still been visible just before we left, was now full of green grass.
 
-The sky, once blanketed in black smoke from the fires that cremated countless bodies day after day, was clear without a single cloud. Beneath it stood rows of pavilions rebuilt through everyone’s help and hard work.
+The sky, once blanketed in black smoke from the fires that burned countless bodies day after day, was clear without a single cloud. Beneath it stood rows of pavilions rebuilt through everyone’s help and hard work.
 
 I didn’t know whether they had completely moved on from the grief of that day.
 
@@ -236,19 +236,19 @@ They had stopped the invisible rift that had persisted all this time, coming tog
 
 To avenge what they had lost.
 
-And to make sure they never lost something precious again.
+And so they would never lose something precious again.
 
 *Yeah. That’s all that matters.*
 
-I told myself that firmly, as though making a promise, and climbed down from the carriage.
+As if making a promise to myself, I repeated those words with force in my heart and climbed down from the carriage.
 
-The crowd had already blocked the road, but more than that, I’d spotted a familiar face approaching in the distance.
+The crowd that had gathered all around us had already blocked the road. But more than that, I’d spotted a familiar face approaching in the distance.
 
-*Step. Step.*
+*Thud. Thud. Thud.*
 
 A body so slender it was almost emaciated. A pallid face like that of someone suffering from an illness, and footsteps landing with vigor, as if he were scolding his own frailty.
 
-*Step.*
+*Thud.*
 
 Suddenly, he stopped.
 
@@ -260,15 +260,15 @@ At the end of the path, an old man looked at me with eyes gleaming a soft green.
 
 His greeting was not merely stiff—it was cold.
 
-But the next moment, everyone holding their breath as they watched saw it clearly.
+But the next moment, everyone watching in bated breath saw it clearly.
 
-The old man, who seemed as if he would never bow to anyone, bent at the waist toward me.
+The old man’s back, which seemed as if it would never bend to anyone, inclining toward me.
 
-And they heard warmth in his voice—warmth no one there had ever heard from him before.
+And they heard the warm voice of that old man—a voice no one there had ever heard before.
 
 “I, Tang Sadok, Family Head of the Sichuan Tang Clan and the Myriad-Poison Asura, have the honor of meeting my family’s Benefactor.”
 
-The unexpected courtesy left me at a loss for words. Tang Sadok clasped his hands in a sincere salute, then looked at me and smiled.
+The unexpected courtesy was so profound that I was at a loss for words. Tang Sadok clasped his hands in a formal salute, his sincerity plain, then smiled at me.
 
 At the corners of his mouth, always sharp and hard as a dagger, dimples appeared—dimples I’d never seen before.
 
