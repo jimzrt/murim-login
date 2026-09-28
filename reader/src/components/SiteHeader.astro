@@ -33,6 +33,10 @@ const onChapter = chapter != null;
     </svg>
     <span class="sr-only nav-home-sr">Home</span>
   </a>
+  <span class="nav-chapter" id="nav-chapter" hidden={!onChapter}>
+    <span class="nav-chapter-full">Chapter {chapter}</span>
+    <span class="nav-chapter-short">ch {chapter}</span>
+  </span>
   <span class="nav-spacer" aria-hidden="true"></span>
   <span class="read-progress-label" id="read-progress-label" hidden={!onChapter} aria-hidden="true">0%</span>
   <button class="nav-btn nav-icon-btn" id="jump-open" type="button" aria-label="Jump to chapter" title="Jump to chapter">
