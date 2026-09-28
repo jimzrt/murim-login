@@ -22,11 +22,11 @@ Why would they, when presidents from around the world had abandoned all dignity 
 
 “I’m not saying we should never establish it! I’m saying we should put it on hold. Do you know what *on hold* means?”
 
-“Did you just speak informally to me? Are you insane?”
+“Did you just speak to me like that? Are you insane?”
 
 “You’re the insane one. What are we going to do about the Federation’s enormous authority? We haven’t even properly reviewed the proposed changes. We can’t just approve this in a few days!”
 
-“You fucking… What’s your country’s GDP?”
+“You son of a—what’s your country’s GDP?”
 
 Shouts flew through the translators. Faces glowed red.
 
@@ -34,25 +34,25 @@ Baek held a perfect three-for-three record in the brawls for which Korea’s Nat
 
 *What are they, children?*
 
-Sometimes sharp words were exchanged and an uncomfortable atmosphere formed in accordance with international affairs, but the UN General Assembly was supposed to be a place where nations demonstrated their dignity and their leaders showed their character.
+The General Assembly was not always like this. International affairs sometimes brought sharp words and uncomfortable silences, but it was supposed to be a place where nations displayed their dignity and leaders their character.
 
-However, as the situation spiraled toward the worst possible outcome and the presidents were crushed beneath immense stress and pressure from all sides, they had no choice but to throw off the masks they had been wearing and reveal their true faces.
+Now the situation was hurtling toward disaster. Crushed by pressure from inside and outside their countries, the presidents had finally thrown off their masks.
 
 “We’re all going to die! What happens if we put off establishing the Federation even now?”
 
 “Exactly! Saudi Arabia strongly supports the establishment of the World Hunter Federation—”
 
-“The Middle East should know when to bow out. You’ve sold more than enough oil, and now you’ve even exported terrorists to the entire world. What more do you want?”
+“The Middle East ought to know when to stay out of this. You’ve made plenty selling oil, and now you’re exporting terrorists to the whole world.”
 
 “What?”
 
-At the words of the Russian president, who was old beyond measure, a middle-aged man wearing a turban bulged his eyes.
+The middle-aged man in the turban stared at the ancient Russian president.
 
 “How dare you, you dictator!”
 
 “A dictator? That’s rich coming from a king. At least I was elected in a fair vote. I wasn’t born into a royal family and handed this seat.”
 
-“Ah, are you talking about that fair election where the voter turnout reached 140 percent in the last presidential election?”
+“Ah, is that the fair election where turnout reached 140 percent?”
 
 “Well, these things happen. It was a long time ago.”
 
@@ -62,11 +62,11 @@ He swept his gleaming eyes around the room. Long past a hundred, he kept himself
 
 “What matters is that I—and Russia—oppose establishing the World Hunter Federation.”
 
-“You…!”
+“You—!”
 
 “Let’s be frank. I don’t think the Federation is unnecessary. I’m concerned about who will take charge of it.”
 
-Tap. Tap.
+*Tap. Tap.*
 
 His wrinkled fingers struck the table. The force of the gesture carried through the hologram, silencing the supporters who had been about to protest.
 
@@ -76,7 +76,7 @@ His wrinkled fingers struck the table. The force of the gesture carried through 
 
 Furin nodded. “They were. That damned Asmodeus was sweeping across the world.”
 
-“The situation is still serious, but it is not as bad as it was then. I hope everyone will consider that the World Hunter Federation possesses far too much authority for us to make such a hasty decision.”
+“The situation is serious now,” Doramp Junior said, “but not as serious as it was then. I ask everyone to consider how much authority the World Hunter Federation would have before making a decision so quickly.”
 
 The Cold War between Russia and the United States had ended more than a century ago. Their long-standing resentment had not vanished, but here, at least, the two presidents agreed.
 
@@ -86,7 +86,7 @@ For Baek, the first to call for a delay, that was welcome news. So was the suppo
 
 Chairman Xiao Yang looked toward Baek.
 
-“As President Baek of Korea has repeatedly stated, the establishment of the World Hunter Federation must be discussed with great care.”
+“As President Baek has said throughout these discussions, establishing the World Hunter Federation demands careful deliberation.”
 
 “Er, Japan also agrees with Kankoku’s position—”
 
@@ -94,7 +94,7 @@ Chairman Xiao Yang looked toward Baek.
 
 *What the hell is that bastard about to say now?*
 
-President Baek Hanseong hurriedly cut off Prime Minister Koizumi before he could dump shit all over the discussion. He leaned toward the microphone fitted with a translation device.
+Baek cut Prime Minister Koizumi off before he could dump shit all over the discussion and leaned toward his microphone.
 
 “As I’ve said several times, we must handle the question of the World Hunter Federation with care. Deciding it after only three days would be far too hasty—”
 
@@ -112,7 +112,7 @@ The French president cut in with a scoff.
 
 “If it’s what we’ve been hearing for three days, I must respectfully decline. Half the Louvre has burned. What else is there to hear?”
 
-President Baek Hanseong was rendered speechless. Without realizing it, he rubbed his throbbing temples.
+Baek had no answer. He rubbed his throbbing temple without realizing it.
 
 *That damned bastard.*
 
@@ -132,11 +132,11 @@ Armed officers and soldiers demanded that the crowds disperse, but their calls f
 
 If France, one of the world’s ten most developed countries, was in that state, there was no need to guess how others were faring.
 
-“What the people want now is a result. A result that will reassure them. A result that will guarantee the lives of themselves and their families.”
+“What our people want is a result. Something that will reassure them. Something that will guarantee their lives and their families’ lives.”
 
 “If the World Hunter Federation isn’t reestablished, our country is finished. At the very least, the presidential palace will burn, and I won’t escape unscathed.”
 
-“We have no choice but to support it wholeheartedly. The movements of our military factions are already deeply suspicious.”
+“We have no choice but to support it. The military’s movements are already worrying.”
 
 “You’re opposing it now? Have you lost your mind? Do you think you can watch from the far bank while the rest of us burn?”
 
@@ -152,15 +152,15 @@ It was a nuclear blast—one that would soon swallow their entire country.
 
 At this rate, it would not be monsters burning down presidential palaces. It would be furious citizens and coup forces.
 
-“We can’t delay any longer!”
+“We can’t wait any longer!”
 
 “Let’s vote!”
 
-“We do not trust the Security Council or the permanent members! We demand a full vote!”
+“We don’t trust the Security Council or the permanent members! We demand a vote of the full Assembly!”
 
 The calls came from all sides. Baek knew the long meeting was nearing its end.
 
-*This… can’t be stopped anymore.*
+*I can’t stop this anymore.*
 
 The UN Security Council still held enormous power. The United States, the United Kingdom, France, Russia, and China had been permanent members since their victory in the Second World War. Korea had joined them after the Great Cataclysm.
 
@@ -180,15 +180,15 @@ The secretary-general’s announcement that voting had begun sounded distant. Al
 
 “…You want to buy time.”
 
-“Even a few weeks. No, even a few days would be enough. Please do everything you can until we reach the limit of what is possible.”
+“A few weeks. No, even a few days will do. Please do everything you can.”
 
-“Hah. What exactly is happening right now?”
+“What exactly is going on?”
 
 After a long silence, Choi’s answer had been brief.
 
 “War.”
 
-“…Mr. President. Mr. President.”
+“…President. Mr. President.”
 
 Baek snapped out of his thoughts. His chief secretary was watching him, concern and impatience mingling on his face.
 
@@ -196,11 +196,11 @@ Baek snapped out of his thoughts. His chief secretary was watching him, concern 
 
 “Ah.”
 
-After letting out a short groan that sounded almost like a sigh, President Baek Hanseong looked at the presidents filling the office.
+A sound halfway between a groan and a sigh escaped him. Baek looked at the presidents filling his office.
 
-No—the holograms.
+No. Their holograms.
 
-Then, thinking of Choi Minwoo and Jin Taekyung, who were probably preparing for war somewhere by now, he cast the final vote of this miserable meeting.
+Then, thinking of Choi Minwoo and Jin Taekyung, who must be preparing for war somewhere, he cast the final vote of the interminable meeting.
 
 * * *
 
@@ -208,7 +208,7 @@ Sometimes you did not need to see someone’s face, or hear more than a few word
 
 A voice’s tone and pitch could tell you enough.
 
-In that sense, Choi Minwoo understood everything the moment he answered the call from President Baek Hanseong.
+Choi Minwoo understood what had happened the moment he answered Baek Hanseong’s call.
 
 “I did everything I could.”
 
@@ -216,7 +216,7 @@ A long silence followed. The few words they exchanged after that felt hollow.
 
 When the short call ended, Choi walked toward a room crowded with documents and monitors. Inside, someone was so absorbed in what he was doing that he had not noticed Choi arrive.
 
-Then, suddenly, Choi opened his mouth.
+Choi spoke.
 
 “The UN… has approved reestablishing the World Hunter Federation.”
 

@@ -1,0 +1,2237 @@
+{
+  "baseline_blocks": 131,
+  "baseline_sha256": "9dbbabf4e7c62d8994dbba8f0a5a8eff3237d733a4dfc93f7c1760030758512f",
+  "global_terminology_alerts": [],
+  "hunk_count": 114,
+  "hunks": [
+    {
+      "baseline": "The name originated from the story that Queen Marie Antoinette’s hair suddenly turned completely white several days before her execution during the French Revolution in the eighteenth century.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "The name came from the story that Queen Marie Antoinette’s hair suddenly turned white a few days before her execution during the eighteenth-century French Revolution.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Although the exact nature and cause of this strange phenomenon had never been determined, the President of Korea, Baek Hanseong, was certain that its cause was extreme stress.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "No one had established the true nature or cause of the strange phenomenon, but at that moment, Baek Hanseong, the President of Korea, was certain it was extreme stress.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After all, his current situation was much the same.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "His own situation felt similar enough.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The profanity he had kept under control ever since his highly publicized debut in politics swirled around inside his mouth.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "15",
+      "sol": "The curse he had kept to himself since his closely watched debut in politics swirled around in his mouth.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sharp-eyed secretary who had been with him since his days as a member of the National Assembly gestured for him to cover his mouth, but President Baek Hanseong did not care.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "17",
+      "sol": "The sharp-eyed secretary who had worked with him since his days in the National Assembly gestured for him to cover his mouth. Baek ignored him.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        },
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "The entire room was packed with foreigners.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "",
+      "sol_paragraphs": "after P8",
+      "sol_range": [
+        8,
+        8
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Naturally, none of them were proficient enough in Korean to infer the pronunciation and meaning from the shape of his mouth alone. And they certainly were not free enough to spend their time watching his lips.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "The room was full of foreigners. None of them knew Korean well enough to read his lips, and they were far too busy to watch his mouth in the first place.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was only natural.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "23",
+      "sol": "",
+      "sol_paragraphs": "after P9",
+      "sol_range": [
+        9,
+        9
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With the rare spectacle of presidents from various countries abandoning all dignity and pointing fingers at one another, why would anyone bother watching his mouth?",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "25",
+      "sol": "Why would they, when presidents from around the world had abandoned all dignity and were pointing fingers at one another?",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m not saying we should never establish it! I’m saying we should put it on hold for now. Don’t you know what ‘on hold’ means?”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "29",
+      "sol": "“I’m not saying we should never establish it! I’m saying we should put it on hold. Do you know what *on hold* means?”",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Did you just speak informally to me? Are you insane?”",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "31",
+      "sol": "“Did you just speak to me like that? Are you insane?”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re the insane one. What are we going to do about the Federation’s overwhelming authority? This isn’t something we can approve half-assedly in a few days without even properly reviewing the revisions!”",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "33",
+      "sol": "“You’re the insane one. What are we going to do about the Federation’s enormous authority? We haven’t even properly reviewed the proposed changes. We can’t just approve this in a few days!”",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You fucking… What’s your country’s GDP?”",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "35",
+      "sol": "“You son of a—what’s your country’s GDP?”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Shouts rang back and forth through the translation devices, accompanied by faces flushed bright red.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "37",
+      "sol": "Shouts flew through the translators. Faces glowed red.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For President Baek Hanseong, who held a perfect three-for-three record in the brawls that were a famous feature of Korea’s National Assembly, it was an oddly heartwarming sight.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "39",
+      "sol": "Baek held a perfect three-for-three record in the brawls for which Korea’s National Assembly was famous, so the sight was oddly familiar. But after days of it, he felt as though his head might burst.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        },
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "But after several days of the same situation, he felt as though his head were about to explode.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "41",
+      "sol": "",
+      "sol_paragraphs": "after P17",
+      "sol_range": [
+        17,
+        17
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, it was not always like this.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "45",
+      "sol": "",
+      "sol_paragraphs": "after P18",
+      "sol_range": [
+        18,
+        18
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sometimes sharp words were exchanged and an uncomfortable atmosphere formed in accordance with international affairs, but the UN General Assembly was supposed to be a place where nations demonstrated their dignity and their leaders showed their character.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "47",
+      "sol": "The General Assembly was not always like this. International affairs sometimes brought sharp words and uncomfortable silences, but it was supposed to be a place where nations displayed their dignity and leaders their character.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "However, as the situation spiraled toward the worst possible outcome and the presidents were crushed beneath immense stress and pressure from all sides, they had no choice but to throw off the masks they had been wearing and reveal their true faces.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "49",
+      "sol": "Now the situation was hurtling toward disaster. Crushed by pressure from inside and outside their countries, the presidents had finally thrown off their masks.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We’re all about to die! What do you think will happen if we put off establishing the Federation even now?”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "51",
+      "sol": "“We’re all going to die! What happens if we put off establishing the Federation even now?”",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Exactly! Saudi Arabia strongly supports the establishment of the World Hunter Federation…”",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "53",
+      "sol": "“Exactly! Saudi Arabia strongly supports the establishment of the World Hunter Federation—”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Middle East should know when to bow out. You’ve sold more than enough oil, and now you’ve even exported terrorists to the entire world. What more do you want?”",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "55",
+      "sol": "“The Middle East ought to know when to stay out of this. You’ve made plenty selling oil, and now you’re exporting terrorists to the whole world.”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the words of the Russian president, who was old beyond measure, a middle-aged man wearing a turban bulged his eyes.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "59",
+      "sol": "The middle-aged man in the turban stared at the ancient Russian president.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A dictator? That’s rich coming from a king. At least I was elected through fair elections and voting. I wasn’t born into royalty and handed this position like someone else.”",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "63",
+      "sol": "“A dictator? That’s rich coming from a king. At least I was elected in a fair vote. I wasn’t born into a royal family and handed this seat.”",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, are you talking about that fair election where the voter turnout reached 140 percent in the last presidential election?”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "65",
+      "sol": "“Ah, is that the fair election where turnout reached 140 percent?”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "“Well, these things happen from time to time. And it’s already in the past.”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "67",
+      "sol": "“Well, these things happen. It was a long time ago.”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "More than twenty years ago, Vladimir Furin had become the Russian president for life through the astonishing voter turnout that had surpassed the country’s entire population.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "69",
+      "sol": "More than twenty years earlier, Vladimir Furin had become Russia’s president for life in an election whose astonishing turnout exceeded the country’s entire population.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His eyes gleaming, he looked around the room.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "71",
+      "sol": "",
+      "sol_paragraphs": "after P30",
+      "sol_range": [
+        30,
+        30
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Although he had already passed the age of one hundred long ago, he had maintained his health through cutting-edge medical technology and magical potions. He continued in a powerful voice.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "73",
+      "sol": "He swept his gleaming eyes around the room. Long past a hundred, he kept himself healthy with cutting-edge medical technology and Magic potions, and his voice remained strong.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The important thing is that I—and Russia—oppose the establishment of the World Hunter Federation.”",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "75",
+      "sol": "“What matters is that I—and Russia—oppose establishing the World Hunter Federation.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You…!”",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "77",
+      "sol": "“You—!”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Let’s be frank. It’s not that I believe the World Hunter Federation is unnecessary. I’m concerned about who will take that position.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "79",
+      "sol": "“Let’s be frank. I don’t think the Federation is unnecessary. I’m concerned about who will take charge of it.”",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "헌터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hunter"
+        }
+      ]
+    },
+    {
+      "baseline": "Tap. Tap.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "81",
+      "sol": "*Tap. Tap.*",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His wrinkled fingers drummed against the table.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "83",
+      "sol": "",
+      "sol_paragraphs": "after P35",
+      "sol_range": [
+        35,
+        35
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The force of the gesture came through the hologram intact, and the representatives of the pro-Federation camp, who had been about to lash out, fell silent for a moment.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "85",
+      "sol": "His wrinkled fingers struck the table. The force of the gesture carried through the hologram, silencing the supporters who had been about to protest.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When the establishment of the World Hunter Federation was first discussed, I supported it because I trusted Sky. From the time I met him personally, he seemed like a man with little interest in power.”",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "87",
+      "sol": "“When we first discussed establishing the World Hunter Federation, I supported it because I trusted Sky. I met him myself. He had little interest in power.”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And the circumstances were at their worst as well.”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "89",
+      "sol": "",
+      "sol_paragraphs": "after P37",
+      "sol_range": [
+        37,
+        37
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the words of the President of the United States, Doramp Junior, Furin nodded.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "91",
+      "sol": "“And the circumstances were far worse,” said the President of the United States, Doramp Junior.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "푸린",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Furin"
+        }
+      ]
+    },
+    {
+      "baseline": "“Yes, they were. Back then, that damned Asmodeus was sweeping across the entire world.”",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "93",
+      "sol": "Furin nodded. “They were. That damned Asmodeus was sweeping across the world.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The situation is still serious, but it is not as bad as it was then. I hope everyone will consider that the World Hunter Federation possesses far too much authority for us to make such a hasty decision.”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "95",
+      "sol": "“The situation is serious now,” Doramp Junior said, “but not as serious as it was then. I ask everyone to consider how much authority the World Hunter Federation would have before making a decision so quickly.”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Cold War between Russia and the United States had already been over for more than a century. It would have been impossible to say that the deep resentment accumulated over such a long time had completely disappeared, but at least in this room, the two presidents were in agreement.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "97",
+      "sol": "The Cold War between Russia and the United States had ended more than a century ago. Their long-standing resentment had not vanished, but here, at least, the two presidents agreed.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And that was very welcome news to President Baek Hanseong, who had been the first to argue that the Federation’s establishment should be put on hold.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "99",
+      "sol": "",
+      "sol_paragraphs": "after P41",
+      "sol_range": [
+        41,
+        41
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        },
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "Especially with the help of another ally who had already promised to stand with Korea.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "101",
+      "sol": "For Baek, the first to call for a delay, that was welcome news. So was the support of another ally who had already promised to stand with Korea.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Our Zhonghua People’s Republic likewise wishes to express our deep concern once again.”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "103",
+      "sol": "“Our Zhonghua People’s Republic must once again express its deep concern.”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Chairman Xiao Yang looked at President Baek Hanseong and continued.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "105",
+      "sol": "Chairman Xiao Yang looked toward Baek.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        },
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "“As President Baek of Korea has repeatedly stated, the establishment of the World Hunter Federation must be discussed with great care.”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "107",
+      "sol": "“As President Baek has said throughout these discussions, establishing the World Hunter Federation demands careful deliberation.”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대한민국",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Korea"
+        },
+        {
+          "korean": "한국",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Korea"
+        }
+      ]
+    },
+    {
+      "baseline": "“Er, Japan also agrees with Kankoku’s opinion…”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "109",
+      "sol": "“Er, Japan also agrees with Kankoku’s position—”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What the hell is that bastard going to say this time?*",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "113",
+      "sol": "*What the hell is that bastard about to say now?*",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "President Baek Hanseong hurriedly cut off Prime Minister Koizumi before he could dump shit all over the discussion. He leaned toward the microphone fitted with a translation device.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "115",
+      "sol": "Baek cut Prime Minister Koizumi off before he could dump shit all over the discussion and leaned toward his microphone.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        },
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "“As I have already said several times, the World Hunter Federation is an issue that must be handled carefully. Deciding the matter after only three days would be far too hasty—”",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "117",
+      "sol": "“As I’ve said several times, we must handle the question of the World Hunter Federation with care. Deciding it after only three days would be far too hasty—”",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The President of France cut in with a derisive laugh.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "121",
+      "sol": "The French president cut in with a scoff.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "프랑스",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "France"
+        }
+      ]
+    },
+    {
+      "baseline": "“Are you unaware of what has happened outside during those three days?”",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "123",
+      "sol": "“Do you have any idea what has happened outside during those three days?”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That…”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "125",
+      "sol": "“That—”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I don’t know what the situation is like in Korea, but France has already suffered five large-scale riots. Insane doomsday cultists have poured into the streets screaming, and all business and production have already ground to a near halt.”",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "127",
+      "sol": "“I don’t know how things are in Korea, but France has already had five major riots. Doomsday fanatics are out in the streets screaming, and work and production have all but stopped.”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…Please, just listen to me for a moment.”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "129",
+      "sol": "“…Please, hear me out.”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If you’re going to repeat the same thing we’ve already heard for three straight days, I must respectfully decline. Half of the Louvre Museum has burned down. What more do you possibly have to say?”",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "131",
+      "sol": "“If it’s what we’ve been hearing for three days, I must respectfully decline. Half the Louvre has burned. What else is there to hear?”",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "President Baek Hanseong was rendered speechless. Without realizing it, he rubbed his throbbing temples.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "133",
+      "sol": "Baek had no answer. He rubbed his throbbing temple without realizing it.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        },
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "Everyone knew that the French president had risen to his current position with the support of the Odin Guild.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "137",
+      "sol": "He knew perfectly well that Odin Guild’s support had helped the French president reach office. But he could hardly argue when the man was telling the truth.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the reason Baek could not easily refute him was that everything he had said was true.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "139",
+      "sol": "",
+      "sol_paragraphs": "after P60",
+      "sol_range": [
+        60,
+        60
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One word from a hero with tremendous public support had set fire to the powder keg of a world filled with anxiety and fear.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "143",
+      "sol": "A single statement from a hero with enormous public support had lit the fuse on a world full of fear and anxiety.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Half the world’s population had watched him in real time as he announced the coming of a second Great Cataclysm, and the flames had spread into reality in less than a day.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "145",
+      "sol": "Half the world’s population had watched him warn of a second Great Cataclysm in real time. Within a day, the fire had spread beyond the metaphor.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Demonstrators of a scale bordering on a riot.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "147",
+      "sol": "",
+      "sol_paragraphs": "after P63",
+      "sol_range": [
+        63,
+        63
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The people who had poured into the streets, seized by rage and fear, had very little patience left. It was only natural that flames soon began to rise throughout the cities.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "149",
+      "sol": "Huge demonstrations bordering on riots. People driven into the streets by fear and anger had little patience left, and fires soon broke out across their cities.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their calls, made while fully armed and demanding that the demonstrators disperse immediately, could not reach the ears of people who had already lost half their reason.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "153",
+      "sol": "Armed officers and soldiers demanded that the crowds disperse, but their calls fell on ears already half-deaf to reason.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If that was the situation in France, one of the ten most advanced countries in the world, the state of every other country was obvious.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "155",
+      "sol": "If France, one of the world’s ten most developed countries, was in that state, there was no need to guess how others were faring.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What the people want now is a result. A result that will reassure them. A result that will guarantee the lives of themselves and their families.”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "157",
+      "sol": "“What our people want is a result. Something that will reassure them. Something that will guarantee their lives and their families’ lives.”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If the reestablishment of the World Hunter Federation fails… our country is finished. At the very least, the presidential palace will burn, and I won’t come out of it intact.”",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "159",
+      "sol": "“If the World Hunter Federation isn’t reestablished, our country is finished. At the very least, the presidential palace will burn, and I won’t escape unscathed.”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We have no choice but to support it wholeheartedly. The movements of our military factions are already deeply suspicious.”",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "161",
+      "sol": "“We have no choice but to support it. The military’s movements are already worrying.”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re insane. You’re opposing it in this situation? Are you watching a fire across the river because you think it’s someone else’s problem?”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "163",
+      "sol": "“You’re opposing it now? Have you lost your mind? Do you think you can watch from the far bank while the rest of us burn?”",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The spotlight was bright.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "165",
+      "sol": "",
+      "sol_paragraphs": "after P71",
+      "sol_range": [
+        71,
+        71
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But everything around it was dark.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "167",
+      "sol": "The spotlight was bright. Everything around it was dark.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A small number of developed nations lived amid civilization more advanced than ever before. But out of the 185 countries belonging to the UN, how many could truly enjoy all of that civilization?",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "169",
+      "sol": "A handful of developed nations enjoyed a civilization more advanced than ever. But how many of the UN’s 185 member states shared in all of it?",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even after Demon King Asmodeus had been defeated, hunger and civil war had not disappeared. More than a few nations were clutching the deep wounds left by the Great Cataclysm while struggling to keep their governments intact.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "171",
+      "sol": "Demon King Asmodeus had fallen, yet hunger and civil war remained. More than a few countries were still struggling to keep their governments intact while nursing the deep wounds left by the Great Cataclysm.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And for those caught in such circumstances, this incident was not merely a powder keg exploding.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "173",
+      "sol": "For them, this was more than a powder keg exploding.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a nuclear detonation.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "175",
+      "sol": "",
+      "sol_paragraphs": "after P75",
+      "sol_range": [
+        75,
+        75
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A nuclear detonation that would soon swallow the entire country.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "177",
+      "sol": "It was a nuclear blast—one that would soon swallow their entire country.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If things continued like this, it was obvious that enraged citizens and military factions—not monsters—would burn down the presidential palaces.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "179",
+      "sol": "At this rate, it would not be monsters burning down presidential palaces. It would be furious citizens and coup forces.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We can’t delay any longer!”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "181",
+      "sol": "“We can’t wait any longer!”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We do not trust the Security Council or the permanent members! We demand a full vote!”",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "185",
+      "sol": "“We don’t trust the Security Council or the permanent members! We demand a vote of the full Assembly!”",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was not just one or two people.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "187",
+      "sol": "",
+      "sol_paragraphs": "after P80",
+      "sol_range": [
+        80,
+        80
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As shouts erupted simultaneously from every corner of the room, President Baek Hanseong realized that the long meeting was finally drawing to a close.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "189",
+      "sol": "The calls came from all sides. Baek knew the long meeting was nearing its end.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        },
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "*This… can’t be stopped anymore.*",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "191",
+      "sol": "*I can’t stop this anymore.*",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, the UN Security Council still possessed immense authority.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "193",
+      "sol": "",
+      "sol_paragraphs": "after P82",
+      "sol_range": [
+        82,
+        82
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The United States, the United Kingdom, France, Russia, and China—the victors of the Second World War.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "195",
+      "sol": "The UN Security Council still held enormous power. The United States, the United Kingdom, France, Russia, and China had been permanent members since their victory in the Second World War. Korea had joined them after the Great Cataclysm.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With Korea, which had joined after the Great Cataclysm, there were six permanent member states in total. And if the United Kingdom, which had chosen neutrality on this matter, and France, which had chosen to support it, were excluded, four permanent members were standing with the opposition camp that was effectively calling for a delay.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "197",
+      "sol": "Of those six, the United Kingdom had remained neutral on this question and France supported the proposal. The other four stood on the side effectively calling for a delay.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대격변",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Cataclysm"
+        },
+        {
+          "korean": "대한민국",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Korea"
+        },
+        {
+          "korean": "한국",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Korea"
+        }
+      ]
+    },
+    {
+      "baseline": "But even the veto power held by the permanent members had clear limits now that the UN had been reorganized.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "201",
+      "sol": "But even the permanent members’ veto power had clear limits under the reorganized UN.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The secretary-general’s declaration announcing the start of the vote seemed distant.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "205",
+      "sol": "",
+      "sol_paragraphs": "after P86",
+      "sol_range": [
+        86,
+        86
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, the only thing ringing clearly in President Baek Hanseong’s ears was the conversation he had exchanged with Choi Minwoo three days earlier.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "207",
+      "sol": "The secretary-general’s announcement that voting had begun sounded distant. All Baek could hear clearly was his conversation with Choi Minwoo three days earlier.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        },
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "“UN decisions must be delayed as long as possible.”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "209",
+      "sol": "“We need to delay the UN’s decision as long as possible.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You mean delayed? Not stopped?”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "211",
+      "sol": "“Delay it? Not stop it?”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. If we could stop them, there would be nothing more I’d ask for. But even if the United States and China helped us, that would be nearly impossible.”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "215",
+      "sol": "“If we could stop it, I’d ask for nothing more. But even with the United States and China helping us, that would be nearly impossible.”",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…You mean we need to buy time.”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "219",
+      "sol": "“…You want to buy time.”",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Even a few weeks. No, even a few days would be enough. Please do everything you can until we reach the limit of what is possible.”",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "223",
+      "sol": "“A few weeks. No, even a few days will do. Please do everything you can.”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hah. What exactly is happening right now?”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "225",
+      "sol": "“What exactly is going on?”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And Choi Minwoo’s answer, which had come after a long silence, had been short.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "227",
+      "sol": "After a long silence, Choi’s answer had been brief.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "최민우",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Choi Minwoo"
+        }
+      ]
+    },
+    {
+      "baseline": "“It’s war.”",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "229",
+      "sol": "“War.”",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…Mr. President. Mr. President.”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "231",
+      "sol": "“…President. Mr. President.”",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "President Baek Hanseong abruptly came to himself. The chief secretary was looking at him with a face filled with equal parts concern and impatience.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "233",
+      "sol": "Baek snapped out of his thoughts. His chief secretary was watching him, concern and impatience mingling on his face.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        },
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "“You have to cast your vote now. We’re the last ones.”",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "237",
+      "sol": "“You need to vote. We’re the last.”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After letting out a short groan that sounded almost like a sigh, President Baek Hanseong looked at the presidents filling the office.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "243",
+      "sol": "A sound halfway between a groan and a sigh escaped him. Baek looked at the presidents filling his office.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        }
+      ]
+    },
+    {
+      "baseline": "No—the holograms.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "245",
+      "sol": "No. Their holograms.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, thinking of Choi Minwoo and Jin Taekyung, who were probably preparing for war somewhere by now, he cast the final vote of this miserable meeting.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "247",
+      "sol": "Then, thinking of Choi Minwoo and Jin Taekyung, who must be preparing for war somewhere, he cast the final vote of the interminable meeting.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sometimes, communication was possible without facing one another or even saying very much.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "251",
+      "sol": "Sometimes you did not need to see someone’s face, or hear more than a few words, to understand them.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The tone of a voice. Its rise and fall.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "253",
+      "sol": "A voice’s tone and pitch could tell you enough.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That alone could convey the meaning and significance contained in the words.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "255",
+      "sol": "",
+      "sol_paragraphs": "after P105",
+      "sol_range": [
+        105,
+        105
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In that sense, Choi Minwoo understood everything the moment he answered the call from President Baek Hanseong.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "257",
+      "sol": "Choi Minwoo understood what had happened the moment he answered Baek Hanseong’s call.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "The silence that followed those words was long, and the conversation remaining between the two men was empty.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "261",
+      "sol": "A long silence followed. The few words they exchanged after that felt hollow.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After ending the short call, Choi Minwoo began to walk.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "261",
+      "sol": "",
+      "sol_paragraphs": "after P108",
+      "sol_range": [
+        108,
+        108
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "최민우",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Choi Minwoo"
+        }
+      ]
+    },
+    {
+      "baseline": "Toward a room filled with documents and monitors.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "261",
+      "sol": "",
+      "sol_paragraphs": "after P108",
+      "sol_range": [
+        108,
+        108
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Toward a person so absorbed in something that he had not even noticed Choi’s arrival.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "261",
+      "sol": "When the short call ended, Choi walked toward a room crowded with documents and monitors. Inside, someone was so absorbed in what he was doing that he had not noticed Choi arrive.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, suddenly, Choi opened his mouth.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "261",
+      "sol": "Choi spoke.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The UN… approved the reestablishment of the World Hunter Federation.”",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "261",
+      "sol": "“The UN… has approved reestablishing the World Hunter Federation.”",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The answer was short.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "261",
+      "sol": "The reply was short.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Fuuuck.”",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "261",
+      "sol": "“Fuck.”",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 113,
+  "sol_sha256": "0d607ad0bd3e7002ba8d0a02dc2451e2a49c185601d617e5d3bc8d3aaae24f42",
+  "version": 1
+}

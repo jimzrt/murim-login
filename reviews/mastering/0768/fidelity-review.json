@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Armed officers and soldiers demanded that the crowds disperse, but their calls fell on ears already half-deaf to reason.",
+      "defect": "The source says they demanded that the crowds disperse immediately; the translation omits that urgency.",
+      "id": "F01",
+      "rationale": "The source explicitly includes 즉각 (immediately) in the demand to disperse.",
+      "replacement": "Armed officers and soldiers demanded that the crowds disperse immediately, but their calls fell on ears already half-deaf to reason.",
+      "severity": "minor",
+      "source": "Lines 145–147"
+    },
+    {
+      "confidence": 0.92,
+      "current": "The movements of our military factions are already deeply suspicious.",
+      "defect": "“Suspicious” suggests questionable or clandestine activity, while the Korean says the military factions’ movements are alarming or troubling.",
+      "id": "F02",
+      "rationale": "심상치 않다 characterizes the situation as unusual or ominous; it does not establish suspicion of wrongdoing.",
+      "replacement": "The movements of our military factions are already deeply troubling.",
+      "severity": "minor",
+      "source": "Line 155"
+    }
+  ],
+  "summary": "The translation is faithful overall, with two minor source-fidelity shifts.",
+  "version": 1
+}
