@@ -50,7 +50,7 @@ His voice was relaxed. With his back to the cameras, Michael moved his lips, loo
 
 —So? What will it be?
 
-*Damn it.*
+“Damn it.”
 
 The curse slipped out in a whisper. Michael gave me a faint smile and stepped closer.
 
@@ -84,7 +84,7 @@ Michael looked into the cameras.
 
 “That is all. Have a good night, everyone.”
 
-Leaving the reporters shouting behind the German Armed Forces and police officers who blocked their way, Michael Silbert turned and walked toward his private aircraft, which had landed in the center of the open lot.
+With that, he turned away. The reporters shouted after him, held back by German soldiers and police, as he walked toward his private aircraft in the middle of the lot.
 
 He left me with one last remark that only I could hear.
 
@@ -106,13 +106,13 @@ Confusion and shock were written across their faces. They spoke too quietly for 
 
 “We’ve been played. This was what it was all for.”
 
-“Damn it, what the hell is this mess? What’s this World Hunter Federation thing, anyway?”
+“Fuck, what the hell is going on? And what’s this World Hunter Federation?”
 
 Their questions came in a rush, but I said nothing.
 
 *What could I say?*
 
-*Where should I even begin, and how should I explain it?*
+*Where would I even begin?*
 
 As I wrestled with that, someone’s face came to mind.
 
@@ -142,7 +142,7 @@ Team Leader Choi finally realized I was keeping something from them. His face ha
 
 My thoughts were tangled, but they didn’t have long to wait.
 
-After several dozen seconds that felt like an hour, I sent my voice toward Team Leader Choi through Sound Transmission.
+After several dozen seconds that felt like an hour, I sent Choi a Sound Transmission.
 
 —The Skeleton King’s identity has been discovered.
 
@@ -150,7 +150,7 @@ After several dozen seconds that felt like an hour, I sent my voice toward Team 
 
 —Contact Magic Johnson. I need everything his investigation has turned up from the materials we took from the late Siegfried Wassman’s hideout, and everything he knows about Michael Silbert. All of it. Not a single thing left out.
 
-Team Leader Choi remained silent as though he had lost his voice, then slowly nodded. I took a deep breath and began walking.
+Choi’s eyes trembled. He stood silent as though he’d lost his voice, then gave a slow, heavy nod.
 
 I took a deep breath and started walking across the lot, now empty of people.
 
@@ -176,7 +176,7 @@ It smelled freshly brewed. Beyond the steam rising from it, gray eyes—somewher
 
 “I’m glad you came so quickly. I was worried it might get cold.”
 
-I sat down and quietly looked at the full cup. As the silence stretched on, Huginn, who had been standing at attention behind him, spoke.
+I sat and looked down at the full cup. When the silence stretched on, Huginn spoke from where he stood at attention behind me.
 
 “If it isn’t to your taste, shall I prepare something else?”
 
@@ -186,7 +186,7 @@ I gave him no answer. I looked away from the cup and jerked my chin toward Micha
 
 “I don’t care if you keep a pet, but that crow won’t stop cawing. It’s getting on my nerves.”
 
-*Whoosh.*
+*Step.*
 
 The air grew heavier. A faint sound reached my ears as Huginn came one step closer behind me.
 
@@ -194,7 +194,7 @@ The air grew heavier. A faint sound reached my ears as Huginn came one step clos
 
 “…!”
 
-“What? You think I can’t do it?”
+“What? Think I won’t do it?”
 
 I was speaking to Huginn, but I kept my eyes on his master. Michael stared at me for a moment, then blinked.
 
@@ -230,7 +230,7 @@ He was wrong.
 
 Michael Silbert knew nothing.
 
-He did not know what kind of life I had truly lived, or how much recklessness it had taken to overcome every crisis and survive until today.
+He didn’t know the life I’d actually lived, or how many reckless chances I’d taken to survive one crisis after another.
 
 No one in this world could even guess at that secret. One day, it would be a dagger I drove into an enemy’s heart.
 
@@ -250,9 +250,9 @@ Someone else was less composed. I felt a startled movement behind me and shrugge
 
 “He does now.”
 
-“He’s been getting on my nerves for a while, so I couldn’t say anything.”
+“And he’s been getting on my nerves so much I can hardly talk.”
 
-“Leave now, Huginn.”
+“Leave us, Huginn.”
 
 After a moment’s hesitation, Huginn bowed his head and left the aircraft. Michael spoke again.
 

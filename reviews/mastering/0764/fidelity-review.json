@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "I took a deep breath and started walking across the lot, now empty of people.",
+      "defect": "The deep breath and start of walking were already translated in the preceding paragraph. The Korean describes one breath and one start of walking, not two.",
+      "id": "F01",
+      "rationale": "The source gives one 심호흡과 함께 걸음을 옮겼다, followed by the detail that the lot had emptied of people.",
+      "replacement": "The lot was empty now.",
+      "severity": "minor",
+      "source": "Lines 161–163"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Team Leader Choi remained silent as though he had lost his voice, then slowly nodded.",
+      "defect": "Omits the detail that Choi’s eyes trembled.",
+      "id": "F02",
+      "rationale": "The source explicitly says 파르르 떨리는 눈동자 before describing Choi’s silence and nod.",
+      "replacement": "His eyes trembled. Team Leader Choi remained silent as though he had lost his voice, then slowly nodded.",
+      "severity": "minor",
+      "source": "Line 159"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Team Leader Choi finally realized I was keeping something from them.",
+      "defect": "Adds that the narrator was deliberately withholding information from a group. The source only says Choi realized something was hidden.",
+      "id": "F03",
+      "rationale": "The Korean says 숨겨진 무언가가 있음을 알아차린, without specifying who concealed it or from whom.",
+      "replacement": "Team Leader Choi finally realized something was being kept hidden.",
+      "severity": "minor",
+      "source": "Line 141"
+    }
+  ],
+  "summary": "The chapter is largely faithful. The assembled copy duplicates a breathing action and alters one physical detail and the agency of a realization.",
+  "version": 1
+}
