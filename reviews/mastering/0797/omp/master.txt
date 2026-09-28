@@ -120,7 +120,7 @@ This was the operations headquarters, but the others each commanded a force of t
 
 “We’ve temporarily lost contact with Team D4. We suspect interference from magical power and have dispatched a support team as a precaution.”
 
-Reports poured in from all around the room, starting with Team Leader Choi.
+Reports poured in from around the room.
 
 Some search teams under headquarters command hadn’t returned yet, and others were out of contact. For now, though, there was no reason to worry. As magical power levels rose, mana communications and radio signals naturally grew less reliable.
 
@@ -144,7 +144,7 @@ Chuck Hagel had sprung to his feet the moment the radio sounded. Now he looked a
 
 “Damn it. Is it the guy I’m thinking of?”
 
-“Yes. Judging by Team F6’s current coordinates, it’s definitely him. They must’ve gotten confused.”
+“Yes. Given Team F6’s coordinates, it has to be him. They must not have recognized him.”
 
 “Tell him not to scare the troops. Plenty of them haven’t seen him in person. We don’t need the confusion.”
 
@@ -172,7 +172,7 @@ Judging by the looks on the faces of the commanders seated around us, they were 
 
 *You’re dead when you get back.*
 
-Just as I muttered to myself, another urgent transmission rang out.
+Then another urgent transmission rang out.
 
 Beep.
 
@@ -182,11 +182,11 @@ Beep.
 
 He was *really* dead.
 
-But as I wondered how I could deal with the Skeleton King in a way that would make the story of his getting his ass kicked spread far and wide, an unexpected follow-up crackled in my ear.
+I was considering how best to kick his ass when an unexpected voice came over the radio.
 
 —This is Team J1! Multiple dead! Multiple injured! Send support as fast as you can, aaagh!
 
-Crunch. Splaash!
+Crunch. Splatter!
 
 A chill ran down my spine.
 
@@ -196,11 +196,11 @@ The gruesome sound of flesh tearing and that scream came through the radio. Ever
 
 “Find the transmitter’s coordinates! Now!”
 
-“Sound the alarm! Dispatch the nearest search team to those coordinates immediately!”
+“Sound the alarm! Send the nearest search team to those coordinates!”
 
 “Teams P3 and P4 are moving within thirty-five kilometers!”
 
-“Get the orders out! Hurry! And request support from the Skeleton King, too!”
+“Give them the order! Hurry! Request support from the Skeleton King, too!”
 
 Wheeeee!
 
@@ -264,7 +264,7 @@ An invisible wind cut down another person in place of an answer.
 
 The tank who’d charged forward with a scream split in two, massive tower shield and all. Blood sprayed through the air, vivid even in the dark.
 
-Splaash. Thud-thud!
+Splatter. Pat, pat.
 
 Deep night. Dim moonlight.
 
@@ -302,19 +302,19 @@ No. He didn’t care.
 
 If only he could survive. If only he could make it back to Japan alive.
 
-But the next moment, someone’s unfamiliar voice pierced his ear.
+Then a voice he’d never heard before reached his ear.
 
 “Where are you going in such a hurry, foolish servant?”
 
 “……!”
 
-Just as Yamamoto Genji froze like a statue—
+Yamamoto froze like a statue.
 
-“Over there!”
+“There!”
 
 “Someone’s there!”
 
-“Get into formation!”
+“Prepare formation!”
 
 Vrooom.
 
