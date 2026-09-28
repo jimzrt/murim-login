@@ -4,7 +4,7 @@ Every now and then, I found myself wondering.
 
 Just how often did I pass out? How many times had it happened?
 
-If the System window summarized my life, how much of it would be time I’d lost while unconscious?
+If the System Window summarized my life, how much of it would I have spent unconscious?
 
 Damn it. I had no idea.
 
@@ -184,11 +184,11 @@ But even with all their efforts, they hadn’t been able to heal me completely.
 
 The price of using power my body couldn’t handle was bitter. Wishing otherwise wouldn’t change the reality.
 
-A vessel faced with more water than it could hold had only two choices.
+A vessel made to take more water than it could hold had only two possible fates.
 
 It could hold what it was able to—or break under the weight of the water pouring in.
 
-I was in the latter situation.
+I was headed for the latter.
 
 “…It’s only a crack for now, though.”
 
@@ -242,11 +242,11 @@ As I stared at him, bewildered, Hyuk Mujin hurriedly rummaged through his robes 
 
 “What’s that…?”
 
-“It’s a letter Sir Jeok and the Divine Physician left before they departed. They told us to get everything ready and bring you as soon as you woke up, without wasting any time.”
+“It’s a letter Sir Jeok and the Divine Physician left before they departed. They told us to get ready and bring you over as soon as you woke up, without being late.”
 
 Jeok Cheongang and the Divine Physician had left ahead of us. And they’d left a letter.
 
-Trying to make sense of the questions that still wouldn’t go away, I unfolded the rough-textured yellow paper. At that moment, a single line written in a strikingly vigorous hand—presumably the Divine Physician’s—seared itself into my eyes.
+Still full of questions, I unfolded the rough yellow paper. A single line written in a vigorous hand—presumably the Divine Physician’s—seared itself into my eyes.
 
 > City Lord of Sichuan Province. Deceased.
 
@@ -290,7 +290,7 @@ His Master had taken a fearsome number of lives, yet rescued countless others fr
 
 *“And if even that doesn’t help, and the patient chooses to die…”*
 
-*“Carefully prepare their body for burial, and see them off on their final journey. But whoever the patient may be, always remember one thing.”*
+*“Prepare their body for burial with care, and see them off. But whoever your patient may be, always remember one thing.”*
 
 *“What is it?”*
 
@@ -312,7 +312,7 @@ Or perhaps…
 
 The Divine Physician gazed calmly down at the City Lord’s corpse.
 
-A renowned physician from Sichuan had already concluded that the high-ranking man had died suddenly. But after examining the body for more than three shichen, the Divine Physician disagreed.
+A renowned physician in Sichuan had already decided the high-ranking man’s death had been sudden and natural. But after examining the body for more than three shichen, the Divine Physician disagreed.
 
 *What grudge did you incur?*
 

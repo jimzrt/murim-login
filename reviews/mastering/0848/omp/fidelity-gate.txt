@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is largely faithful, but the English omits the source’s explicit salt image in the advice about a patient who dies.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 317",
+      "current": "Carefully prepare their body for burial, and see them off on their final journey.",
+      "defect": "The source explicitly writes 염(鹽)해 주고, invoking salt (鹽), while the translation replaces that image with generic preparation for burial.",
+      "replacement": "Salt their body with care, and see them off on their final journey.",
+      "rationale": "The parenthetical character 鹽 specifies salt; omitting it loses a concrete source detail and the line’s deliberately grim image.",
+      "confidence": 0.84
+    }
+  ]
+}
