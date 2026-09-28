@@ -30,11 +30,11 @@ The easy manner. The faint smile on his lips.
 
 As he came closer, my stomach twisted. Each breath felt like a huge needle stirring around inside it.
 
-Was this the effect of **Broken Body**? Or was it because I was standing face-to-face with the lunatic now right in front of me?
+Was that **Broken Body**, or was it the lunatic now standing in front of me?
 
 Maybe both.
 
-“Did that friend come with you?”
+“Did your friend come with you?”
 
 “Find out for yourself.”
 
@@ -42,7 +42,7 @@ Maybe both.
 
 Michael gazed at the firmly shut door over my shoulder, then nodded.
 
-“I’ve confirmed it. You brought him here safely.”
+“I’ve checked. You brought him.”
 
 An ordinary civilian watching us might have wondered what the hell he meant. I didn’t.
 
@@ -66,17 +66,17 @@ A brief silence fell between us. I broke it.
 
 Michael looked puzzled for a moment, then laughed aloud.
 
-“Very well. If the person involved insists on putting it that way, perhaps there is a difference. But what possible difference could it make?”
+“Very well. If you insist on the distinction, perhaps there is one. But what difference does it make?”
 
 “A hell of a difference. Someone like you wouldn’t understand, even if you died and came back.”
 
 “No. What matters is that you and your friend are here. And if anything matters more than that…”
 
-The voice reaching my ears suddenly dropped into a low murmur.
+His voice dropped.
 
-“Your intention.”
+“It’s why you came.”
 
-“My intention?”
+“Why I came?”
 
 “Yes. Your intentions today.”
 
@@ -84,7 +84,7 @@ He watched me as though he’d suspected them from the start. I let the silence 
 
 “Let me ask you something.”
 
-“I’m the one who should hear an answer first, but very well. I’ll permit the question.”
+“I ought to get an answer first, but very well. Ask.”
 
 “What are *your* intentions?”
 
@@ -98,7 +98,7 @@ I closed the few paces between us until our noses nearly touched. I could see th
 
 Human.
 
-Considering everything he had done, it was difficult to believe, but Michael Silbert was undeniably human, just like me.
+After everything he’d done, it was hard to believe, but Michael Silbert was human, just like me.
 
 Blood, flesh, and bone.
 
@@ -110,11 +110,11 @@ Ever since I’d first met him, all I’d felt toward Michael was anger. Not now
 
 I genuinely wanted to know. I couldn’t understand him. The more clues I found about him, the more questions I had.
 
-“Born on March 18, 1994, in Paris’s Tenth Arrondissement. His father ran away before he was born, and his alcoholic single mother, who lived with him, died in 2012.”
+“Born March 18, 1994, in Paris’s Tenth Arrondissement. His father ran off before he was born. His alcoholic mother raised him alone and died in 2012.”
 
 What I’d learned of one man’s life spilled from my mouth.
 
-I turned away from Michael Silbert and began to walk.
+I left Michael behind and started walking.
 
 *Step. Step.*
 
@@ -128,13 +128,13 @@ Finally came the event that changed his life completely.
 
 I stopped and looked up.
 
-I raised my head. In the stained glass set into the wall, a young man stood alone amid countless heaps of corpses, tears running down his face.
+In the stained glass on the wall, a young man stood alone amid piles of corpses, weeping. Beneath him was a short inscription.
 
 *December 25, 2020 — The Great Battle of Paris*
 
 They said it had been one of the ten fiercest battles of the entire Great Cataclysm.
 
-Instead of bells ringing through the streets to celebrate Christmas, screams and thunderous explosions echoed through Paris. A thousand Hunters stationed in the city waged an urban battle against monsters that outnumbered them dozens of times over.
+Instead of Christmas bells, screams and explosions filled the streets. A thousand Hunters stationed in Paris fought monsters that outnumbered them dozens of times over.
 
 For a whole week.
 
@@ -146,7 +146,7 @@ When seven days and nights had passed and the last sun of 2020 had set, reinforc
 
 I turned slowly.
 
-The face of the young man in the stained glass was there—the young man who had survived alone in that ruin, more than thirty years ago, while the stench of blood hung thick in the air.
+The face of the young man in the stained glass was there before me—the one who had survived alone in those blood-soaked ruins some thirty years ago.
 
 “Michael Silbert.”
 
@@ -158,9 +158,9 @@ He had listened without a word. At my quiet call, he finally spoke.
 
 “I won’t deny it. I thought it might stand in my way one day. Everyone was in chaos then, so it was easy enough to deal with.”
 
-Michael Silbert answered calmly, then stared at me.
+He regarded me calmly.
 
-“But… if that’s all you found, I’m a little disappointed.”
+“But if that’s all you found, I’m disappointed.”
 
 “What?”
 
@@ -198,33 +198,33 @@ Under my gaze, Michael’s smile widened.
 
 “Some of them are dead by now, I’m guessing.”
 
-“If they won’t bow their heads on their own, shouldn’t they be forced to yield? They were fools.”
+“If they wouldn’t bow willingly, I had to force them. They were fools.”
 
 He wasn’t talking about enemies long gone. He was talking to me.
 
-A warning to lower my head before he crushed me by any means necessary. A meticulous attempt to make sure not even the slightest possibility of things going wrong remained.
+Bow your head before I break you by any means necessary. Even now, he was making sure there was no chance of things going wrong.
 
 I studied him for a moment, then broke the silence.
 
-“You’re half wrong and half right.”
+“You’re half right.”
 
 “What do you mean?”
 
-“It’s true that I see you as a monster. But this isn’t fear. It’s pity. You could call it disgust, too.”
+“I do see you as a monster. But I’m not afraid of you. I pity you. And you disgust me.”
 
 “…!”
 
-“I just wanted to ask. Whether this could be cleaned up before irreversible sacrifices occurred. Whether any trace of humanity remained in this lunatic. And…”
+“I wanted to ask if there was still time to stop this before more lives were lost. If there was anything human left in you. And…”
 
 My voice sank.
 
-“I’m a little disappointed. That you thought I could hold you back with nothing more than a few criminal convictions.”
+“I’m disappointed that you thought a few criminal convictions were all I had to use against you.”
 
 “What?”
 
 Before he could make sense of it, I turned and held out my hand.
 
-*Whoosh. Bang!*
+*Whoosh. Clunk.*
 
 Qi flowed from my fingertips and gently pushed the shut doors open. Beyond them, I could sense people drawing closer up the stairs.
 
@@ -234,7 +234,7 @@ I tipped my head toward Michael. His face had gone rigid.
 
 “…!”
 
-“You haven’t even transferred the deed, and you’re already acting like the landlord. What a fucking asshole.”
+“The deed hasn’t even changed hands, and you’re already acting like you own the place. Fucking asshole.”
 
 I ignored his icy stare, sat in the nearest chair, and leaned back.
 
@@ -242,12 +242,10 @@ The die had been cast. It was still rolling, and soon we would see whether it ca
 
 We’d find out who died and who survived, too.
 
-And I had not the slightest intention of dying in a place like this.
-
-Especially not at the hands of a monster instead of a human being.
+I had no intention of dying here. Least of all at the hands of a monster.
 
 *Step. Step. Step.*
 
-Hundreds of footsteps finally entered the now-silent conference hall.
+Hundreds of people entered the silent hall.
 
 The first page in the history of the new World Hunter Federation was turning.

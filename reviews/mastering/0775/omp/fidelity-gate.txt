@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor fidelity shifts: the assembled copy drops the narrator’s biting tone and changes his stated disillusionment to disgust.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 11–13",
+      "current": "Michael Silbert showed no reaction to my tone.",
+      "defect": "The Korean explicitly describes the narrator’s tone as 신랄한 (biting or scathing). The assembled line reduces it to a generic tone.",
+      "replacement": "Michael Silbert showed no reaction despite my biting tone.",
+      "rationale": "The source contrasts Silbert’s lack of emotion with the narrator’s sharply critical tone.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 245",
+      "current": "It’s pity. You could call it disgust, too.",
+      "defect": "환멸 conveys disillusionment or disenchantment, not simply disgust. The current wording shifts the narrator’s judgment toward direct revulsion.",
+      "replacement": "It’s pity. You could call it disillusionment, too.",
+      "rationale": "The narrator contrasts fear with pity and disillusionment; the source does not use the more direct sense of disgust.",
+      "confidence": 0.84
+    }
+  ]
+}
