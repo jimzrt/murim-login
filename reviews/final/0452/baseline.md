@@ -52,7 +52,7 @@ Boom, boom, boom!
 
 Cheongpung was about as far from normal as a person could get, but his skills were undeniable.
 
-Dozens of palm shadows infused with powerful internal energy struck through the air and lashed the surface of the water. The resulting thrust sent the swift ship vaulting over the whirlpool of Tianling Falls before landing on the other side.
+Dozens of palm shadows infused with powerful internal energy struck through the air and lashed the surface of the water. The resulting thrust sent the fast ship vaulting over the whirlpool of Tianling Falls before landing on the other side.
 
 Boom! Splash!
 
@@ -76,7 +76,7 @@ Those two acted like this every chance they got.
 
 Leaving behind the bickering of our two human pieces of sweet-and-sour pork—dunked on the way in and drenched on the way out—the swift ship cleared Tianling Falls safely and sped across the Yangtze.
 
-About three shichen[^1] later, the ship that had departed at dawn reached the ferry landing at Zaoyang. By then, it was already close to noon.
+About three shichen later, the ship that had departed at dawn reached the ferry landing at Zaoyang. By then, it was already close to noon.
 
 “The waterways of the Yangtze do not reach Mount Longzhong, where the Zhuge Clan is located. From here, you will have to travel by land.”
 
@@ -138,7 +138,9 @@ As I stared at him in disbelief, Gung Gibang clicked his tongue and cut in.
 
 “I don’t know about making you an elder, but I can make you a cripple. Tell us before my fist gets there.”
 
-“…They’re martial artists from Qingxia Hall. I told you, so please loosen that fist a little.”
+“…”
+
+“They’re martial artists from Qingxia Hall. I told you, so please loosen that fist a little.”
 
 “Qingxia Hall? What do those bastards do?”
 
@@ -158,7 +160,7 @@ Most were Second or Third Rate swordsmen who fell short of First Rate. Perhaps t
 
 At this point, weren’t they idols rather than martial artists?
 
-It almost made me wonder if the K-pop craze that had begun in Korea had crossed worlds and spread all the way to Murim.[^2]
+It almost made me wonder if the K-pop craze that had begun in Korea had crossed worlds and spread all the way to Murim.
 
 Qingxia Bulletproof Martial Artist Corps. Maybe they had come to play a gig under a name like that.
 
@@ -244,8 +246,6 @@ I trailed off and blinked.
 
 What the hell was this?
 
-Gone.
-
 The bastards who had been beside me moments ago were nowhere to be seen. Only the Zhuge Clan retainer remained, standing there awkwardly.
 
 “Wait, where did every one of those bastards go?”
@@ -270,7 +270,7 @@ No. Not one person.
 
 One fucking beggar.
 
-*The Myriad-Li[^3] Chasing Wind Movement Technique?*
+*The Myriad-Li Chasing Wind Movement Technique?*
 
 That lunatic was actually using a secret technique of the Beggars’ Sect for this?
 
@@ -304,15 +304,10 @@ Unlike Gung Gibang and Hyuk Mujin, who were scooping up silver nyang with all th
 
 But I knew the habits of the creature called Cheongpung inside and out, so it didn’t take me long to find him.
 
-“First, ten sweets, please. Oh, and some jeonbyeong[^4] too. Not the ones you just picked up—the big ones over there, and give me plenty. Wow, thank you! By any chance, where’s the dumpling shop?”
+“First, ten sweets, please. Oh, and some jeonbyeong too. Not the ones you just picked up—the big ones over there, and give me plenty. Wow, thank you! By any chance, where’s the dumpling shop?”
 
 Snap.
 
 Something inside my head broke. My eyes rolled back until only the whites showed, and I roared.
 
 “You fucking bastards!”
-
-[^1]: A shichen is a traditional time unit of approximately two hours; three shichen is about six hours.
-[^2]: Murim is the martial world of martial artists and sects.
-[^3]: Li is a traditional Chinese distance unit of approximately 500 m (0.311 mi). Here it is part of the technique’s name.
-[^4]: Jeonbyeong is a Korean thin pancake or crepe.
