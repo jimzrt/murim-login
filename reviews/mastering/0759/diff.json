@@ -1,0 +1,3128 @@
+{
+  "baseline_blocks": 203,
+  "baseline_sha256": "cee5ce209555e4a5e1eb5e1f41d48525e5c637f7a701a252cdfe1fe3a3136fee",
+  "global_terminology_alerts": [
+    {
+      "korean": "돌파",
+      "preferred": "break through / breakthrough"
+    },
+    {
+      "korean": "근력",
+      "preferred": "Strength"
+    }
+  ],
+  "hunk_count": 167,
+  "hunks": [
+    {
+      "baseline": "The inside of the command center was hot and muggy, like a steam sauna.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "The command center felt hot and muggy, like a steam sauna.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No. In truth, that was only an illusion brought on by the extreme anxiety and unease pressing down on everyone’s hearts.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "It wasn’t. The oppressive heat was an illusion born of the anxiety weighing on everyone inside.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if to prove it, despite the temperature being perfectly controlled around the clock by Magic, cold sweat poured down the forehead of Markus, the German prime minister.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "The temperature was kept perfect around the clock by Magic, yet cold sweat streamed down German Prime Minister Markus’s forehead.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We expect them to reach Class 1 within thirty minutes!”",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "“Class 1 disaster level expected within thirty minutes!”",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The range of the magical-power increase is expanding!”",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "“The area of increased magical power is expanding!”",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Intelligence has recalculated the enemy’s size! At least ten thousand troops!”",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "17",
+      "sol": "“Intelligence has revised the enemy estimate! At least ten thousand!”",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A report from Commander Scholz! He requests authorization to use ‘Uran’ as a precaution!”",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "19",
+      "sol": "“A report from Commander Scholz! He’s requesting authorization to use ‘Uran’ as a precaution!”",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the final report, Prime Minister Markus bit his lip.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "21",
+      "sol": "Markus bit his lip at the final report.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those two characters, treated as the most classified of secrets, stood for uranium. In other words, nuclear weapons.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "25",
+      "sol": "The closely guarded code word meant uranium. In other words, nuclear weapons.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Naturally, Germany, a nation defeated in the Second World War, was not allowed to possess nuclear weapons. But in this world, there were truths that could not be revealed.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "27",
+      "sol": "As a nation defeated in the Second World War, Germany was not supposed to possess nuclear weapons. But some truths could never be made public.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*They want to use Uran? Now of all times?*",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "29",
+      "sol": "*He wants to use Uran?*",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Commander Scholz, who was in charge of Munich’s blockade, was not an idiot who spoke without thinking. He was one of the few excellent commanders to achieve military success during the Great Cataclysm, and a man of cold, rational judgment.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "31",
+      "sol": "Commander Scholz, who was overseeing the blockade of Munich, was no fool who spoke without thinking. He was one of the few commanders with military successes to his name from the Great Cataclysm, and a man known for his cool judgment.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At his aide’s call, Prime Minister Markus squeezed his eyes shut. Then he forced his mouth open.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "35",
+      "sol": "At his aide’s call, Markus squeezed his eyes shut. Then he forced out the words.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It is merely a measure for the worst-case scenario. I am giving this order as the head of this nation’s government.”",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "41",
+      "sol": "“It’s a precaution against the worst-case scenario. I’m giving you this order as the head of this country’s government.”",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The generals and aides, who had stared wide-eyed at the unexpected order, soon nodded.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "43",
+      "sol": "The generals and aides stared at him, wide-eyed. Then they nodded.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They already knew. Against superior monsters that were no different from demons, modern weapons capable of inflicting meaningful damage were almost exclusively nuclear weapons.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "45",
+      "sol": "They knew as well as he did: against high-level monsters that might as well be demons, nuclear weapons were almost the only modern arms capable of dealing meaningful damage.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If this truly is the worst-case scenario, even nuclear weapons won’t be of any use.*",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "49",
+      "sol": "*If the worst does happen, even nuclear weapons might be useless.*",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Nuclear weapons were double-edged swords.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "51",
+      "sol": "A nuclear weapon was a double-edged sword.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If there was a monster among the enemy comparable to a high-ranking mage, it could use spatial teleportation to drop a nuclear missile with horrific destructive power over the skies of a major city.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "53",
+      "sol": "If the enemy included a monster comparable to a high-ranking mage, it could use spatial teleportation to drop their nuclear missile over a major city.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If the nuclear attack succeeded, Munich—the city known as Germany’s third city—would be wiped off the map. And if it failed…",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "55",
+      "sol": "If the attack succeeded, Munich—Germany’s third-largest city—would be wiped out. If it failed… Markus didn’t want to imagine what would follow.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He did not even want to imagine it.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "57",
+      "sol": "",
+      "sol_paragraphs": "after P27",
+      "sol_range": [
+        27,
+        27
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The evacuation operation is still underway. At present, only around ten percent of Munich’s population remains in the danger zone.”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "61",
+      "sol": "“The evacuation is still underway. About ten percent of Munich’s population remains in the danger zone.”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hurry it up. Once things begin, there will be no turning back.”",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "63",
+      "sol": "“Move faster. Once this begins, there’s no turning back.”",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The capital, Berlin, had taken a direct hit in the earlier terrorist attack.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "67",
+      "sol": "",
+      "sol_paragraphs": "after P31",
+      "sol_range": [
+        31,
+        31
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "베를린",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Berlin"
+        }
+      ]
+    },
+    {
+      "baseline": "They could not stand by and let Munich go through the same process. Even counting only the human and material damage caused by Monster Waves so far, the losses had already reached astronomical levels.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "69",
+      "sol": "The capital, Berlin, had already taken a direct hit in the earlier terrorist attack. Markus couldn’t stand by and let Munich suffer the same fate. The human and material losses from Monster Waves so far were astronomical.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마법사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "mage"
+        }
+      ]
+    },
+    {
+      "baseline": "*This time, we have to stop it.*",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "71",
+      "sol": "*We have to stop this one.*",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if it meant blowing the entire city away with nuclear weapons, the people had to survive.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "73",
+      "sol": "Even if they had to blow the entire city away, they had to save its people. A country existed because of the people who lived within its borders.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A nation could exist because there were people living within its borders.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "75",
+      "sol": "",
+      "sol_paragraphs": "after P34",
+      "sol_range": [
+        34,
+        34
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And to make that wish a reality, they absolutely needed reinforcements.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "77",
+      "sol": "",
+      "sol_paragraphs": "after P34",
+      "sol_range": [
+        34,
+        34
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A Hunter who was a one-man army, capable of doing the work of a thousand—or even ten thousand—single-handedly.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "79",
+      "sol": "And to do that, they needed reinforcements. Hunters who were one-person armies, each capable of doing the work of a thousand—or ten thousand.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What happened to them?”",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "81",
+      "sol": "“What’s the status of those two?”",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Them.*",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "83",
+      "sol": "",
+      "sol_paragraphs": "after P36",
+      "sol_range": [
+        36,
+        36
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was only two words, with no name attached, but no one in the command center failed to understand what they meant. Reports poured in simultaneously from every direction.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "85",
+      "sol": "No names were needed. Everyone in the command center knew whom he meant, and reports came from all sides.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The battle is heavily in our favor! We expect it to end within thirty minutes!”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "89",
+      "sol": "“The battle is heavily in his favor! Estimated to end within thirty minutes!”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as an anonymous voice let out a sigh, one of the aides quickly continued.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "93",
+      "sol": "Someone’s frustrated mutter had barely faded when another aide spoke up.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Jin Taekyung is traveling to Munich. His estimated time of arrival at the site is approximately one hour.”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "95",
+      "sol": "“Jin Taekyung is on his way to Munich. Estimated time until he reaches the site is about one hour.”",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What? An entire hour?”",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "97",
+      "sol": "“What? A whole hour?”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Didn’t you say there were only thirty minutes left before it reached a Class 1 disaster?”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "99",
+      "sol": "“Didn’t you say we only had thirty minutes until Class 1?”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I-I’m sorry. He’s traveling as quickly as possible by fighter jet, but the distance is over eight thousand kilometers…”",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "101",
+      "sol": "“I-I’m sorry. He’s traveling as fast as he can by fighter jet, but it’s more than eight thousand kilometers…”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid the people who had completely forgotten the meaning of composure, Prime Minister Markus rubbed his forehead with a handkerchief already damp with sweat.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "105",
+      "sol": "While those around him lost all semblance of composure, Markus wiped his forehead with a handkerchief already soaked through.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Everyone, stay calm. Even if the predicted size of the monsters has grown, we are by no means outmatched. First, evacuate all remaining citizens within the time we have left, and deploy every available force.”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "107",
+      "sol": "“Everyone, stay calm. The estimated number of monsters has increased, but we’re not outmatched. Evacuate every remaining civilian while there’s still time, and deploy every force we have.”",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The main forces surrounding the danger zone currently numbered five thousand.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "109",
+      "sol": "",
+      "sol_paragraphs": "after P48",
+      "sol_range": [
+        48,
+        48
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If they also deployed all the reserves waiting in the rear, they would have an army of Hunters numbering no fewer than ten thousand.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "111",
+      "sol": "Five thousand Hunters made up the main force surrounding the danger zone. With all the reserves waiting in the rear, they would have an army of ten thousand.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Moreover, at its head stood Schumacher, an S-rank Hunter Germany was proud of.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "113",
+      "sol": "And at its head stood Germany’s own S-rank Hunter, Schumacher.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Thud.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "115",
+      "sol": "*Thud.*",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Prime Minister Markus sprang to his feet and spoke in a resolute voice.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "117",
+      "sol": "Markus rose from his seat.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This is a fight we have a good chance of winning. Thirty minutes. If we can hold out for a mere thirty minutes, we can minimize the damage and bring this situation to an end—”",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "119",
+      "sol": "“We have every chance of winning. Thirty minutes. If we can hold out for just thirty minutes, we can minimize the damage and bring this to an end—”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And at that very moment—",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "121",
+      "sol": "",
+      "sol_paragraphs": "after P53",
+      "sol_range": [
+        53,
+        53
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“An emergency report from Commander Scholz!”",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "123",
+      "sol": "“Emergency report from Commander Scholz!”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with the scream-like cry that swallowed the rest of the prime minister’s words, a massive shock swept through the command center.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "125",
+      "sol": "The scream of a report cut him off, sending a shock through the command center.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“T-the magical power! The magical power has broken through the critical point!”",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "127",
+      "sol": "“M-magical power! It’s passed the critical threshold!”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A breakthrough of the critical point.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "129",
+      "sol": "The critical threshold.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "돌파",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "break through / breakthrough"
+        }
+      ]
+    },
+    {
+      "baseline": "There was only one thing that could mean.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "131",
+      "sol": "That could mean only one thing.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Monster Wave.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "133",
+      "sol": "A Monster Wave.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At last, the sturdy dam—the barrier that had separated humans from monsters—had collapsed.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "137",
+      "sol": "At last, the solid dam—the barrier that had kept humans and monsters apart—had collapsed.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Rumble-rumble-rumble!",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "143",
+      "sol": "*Rumble!*",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A tremendous vibration swept through Munich.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "145",
+      "sol": "A tremendous tremor swept through Munich.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The concrete-covered ground split apart, and high-rise buildings designed to withstand even earthquakes collapsed like dominoes.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "147",
+      "sol": "The concrete-covered ground split open. High-rises designed to withstand earthquakes toppled like dominoes.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Kaboom!",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "149",
+      "sol": "*Crash! Boom!*",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And beyond the thunderous roar that shook the world, people could finally hear it. Finally see it.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "151",
+      "sol": "And beyond the thunderous noise, people could finally hear it. See it.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ssshhh!",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "153",
+      "sol": "*Shhhh!*",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sound of the air splitting apart as if cleaved by a sword, and the cries of countless monsters revealing themselves from within.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "155",
+      "sol": "The air split as though sliced by a sword, and the cries of countless monsters came from the opening.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ssssss.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "159",
+      "sol": "*Hissss.*",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A mist darker than gray—black, in fact—flowed out and seeped into every corner.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "161",
+      "sol": "Mist darker than gray, almost black, spilled out and seeped through the area.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Monsters with the heads of bulls and arms and legs like humans.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "163",
+      "sol": "Monsters with human arms and legs and the heads of bulls.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Minotaurs that emerged without end drew harsh breaths and looked around.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "165",
+      "sol": "The Minotaurs emerged without end, breathing hard as they looked around.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An unfamiliar world filled with every kind of noise they had never heard before.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "167",
+      "sol": "",
+      "sol_paragraphs": "after P73",
+      "sol_range": [
+        73,
+        73
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yet the magical power permeating it was sweeter than anything they had ever tasted, and the sight of countless humans in the distance awakened the ferocity they had been born with.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "169",
+      "sol": "This strange world was filled with noises they had never heard. Yet the magical power permeating it was sweeter than anything, and the countless humans in the distance stirred the ferocity they had been born with.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Minotaurs let out a unified roar and charged across the ground.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "175",
+      "sol": "",
+      "sol_paragraphs": "after P76",
+      "sol_range": [
+        76,
+        76
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "미노타우로스",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Minotaur"
+        }
+      ]
+    },
+    {
+      "baseline": "Toward the humans who had formed a wall of steel with their enormous shields.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "177",
+      "sol": "Roaring as one, the Minotaurs charged toward the humans who had raised a wall of steel with their enormous shields.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For more blood and magical power!",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "179",
+      "sol": "Toward more blood and magical power.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Rumble-rumble-rumble!",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "181",
+      "sol": "*Rumble!*",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And at the moment when countless hooves pounded the earth—",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "183",
+      "sol": "As countless hooves pounded the ground, streaks shot across the sky with a heavy rush of air and plunged down upon the monsters.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whoooosh.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "185",
+      "sol": "*Boom! Boom! Boom!*",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a heavy roar of air being torn apart, countless streaks crossed the sky and plunged down over the monsters’ heads.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "187",
+      "sol": "",
+      "sol_paragraphs": "after P81",
+      "sol_range": [
+        81,
+        81
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "KABOOM!",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "189",
+      "sol": "",
+      "sol_paragraphs": "after P81",
+      "sol_range": [
+        81,
+        81
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A barrage of missiles poured down by the German federal forces waiting in the rear.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "191",
+      "sol": "Missiles poured in from the German federal forces waiting in the rear.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Massive explosions accompanied by flames swallowed everything around them. Everything left behind in the area, where most of the citizens had already been evacuated, was reduced to ash and melted beneath the horrific firepower.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "193",
+      "sol": "Fire and explosions engulfed the area. They would turn everything left there to ash, melt it with overwhelming firepower. Most of the citizens had already evacuated.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Or at least, that was what they wished would happen.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "195",
+      "sol": "",
+      "sol_paragraphs": "after P83",
+      "sol_range": [
+        83,
+        83
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even though they knew that the firepower born of science could not stop those monsters.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "197",
+      "sol": "At least, that was what the humans hoped—even knowing that weapons born of science could not stop these monsters.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Kaaaaa…",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "199",
+      "sol": "*Rumble…*",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The bombardment that seemed as though it would continue forever finally ended.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "201",
+      "sol": "The bombardment, which had seemed endless, finally ceased.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid the silence that settled over the city in an instant, one of the Hunters staring at the mist that had not disappeared muttered quietly.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "203",
+      "sol": "Silence settled over the city. One of the Hunters staring into the mist that still lingered muttered, “They’re coming.”",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They’re coming.”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "205",
+      "sol": "",
+      "sol_paragraphs": "after P87",
+      "sol_range": [
+        87,
+        87
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And that one word, which everyone had thought, soon became a prophecy.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "207",
+      "sol": "Everyone had been thinking it. A moment later, it came true.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Thud-thud-thud-thud-thud!",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "209",
+      "sol": "*Rumble-rumble-rumble!*",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A fierce vibration shook the earth. Beyond the dark mist, an uncountable number of monster horns flashed.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "211",
+      "sol": "A fierce tremor shook the earth. Beyond the dark mist, more horns than anyone could count flashed into view.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "Along with the roar of a monster radiating a presence more overwhelming than any Minotaur’s—",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "213",
+      "sol": "Then came the roar of a monster whose presence dwarfed every other Minotaur’s.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Fear of the S-rank monster, the Minotaur Lord, spread in every direction.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "217",
+      "sol": "The Fear of the S-rank Minotaur Lord spread in every direction.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "At the head of the army he led, the chieftain had blown away everything blocking the broad road and forcefully kicked off the ground.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "219",
+      "sol": "At the head of its army, the leader swept away everything blocking the broad road and kicked off the ground with all its might.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Boom! Fwoosh!",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "221",
+      "sol": "*Boom! Whoosh!*",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The ground sank as deeply as a sinkhole.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "223",
+      "sol": "The ground sank beneath it like a sinkhole.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the monster’s massive body charged forward with a tremendous roar, a figure shot toward it at the speed of a beam of light.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "225",
+      "sol": "A figure shot toward the charging giant, swift as a beam of light.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "The cry was filled with undisguised fury.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "229",
+      "sol": "The fury in his voice was unmistakable.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Once Germany’s representative fencing gold medalist, he had become Germany’s very symbol—the S-rank Hunter Joel Schumacher. A sabre moved in accordance with his hand.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "231",
+      "sol": "Once a gold medalist who had represented Germany in fencing, he had become a symbol of the country itself: S-rank Hunter Joel Schumacher.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P113",
+      "baseline_range": [
+        113,
+        113
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "231",
+      "sol": "His hand moved, and his sabre followed.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whoosh!",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "233",
+      "sol": "*Swish!*",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A silver streak crossed the air with a sharp roar.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "235",
+      "sol": "A silver line cut through the air. The Minotaur Lord swung its enormous halberd to meet it.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And at the moment when the enormous halberd, swung with brutal force, met it head-on—",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "237",
+      "sol": "",
+      "sol_paragraphs": "after P103",
+      "sol_range": [
+        103,
+        103
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "BOOM!",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "239",
+      "sol": "*Boom!*",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A muffled roar and shock wave shook everything around them.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "241",
+      "sol": "A muffled blast and a shock wave shook everything around them.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the signal announcing the beginning of the battle, and the two species, bound to a fate they could not escape, charged toward each other.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "243",
+      "sol": "It was the signal for the battle to begin. The two species, bound to a fate neither could escape, charged at each other.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Rumble-rumble-rumble!",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "251",
+      "sol": "*Rumble!*",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Shhk-shhk-shhk! Splurt!",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "253",
+      "sol": "*Swish-swish-swish! Crunch!*",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Countless roars and screams.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "255",
+      "sol": "Roars and screams rose from every side, with death close behind.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And death following close behind the screams as they echoed through the battlefield.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "259",
+      "sol": "",
+      "sol_paragraphs": "after P112",
+      "sol_range": [
+        112,
+        112
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the beginning of a horrific bloodbath that could end only after they had killed and been killed by one another.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "263",
+      "sol": "The terrible fight had begun. It would end only when one side had killed the other.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was so consumed that he could not even feel the passage of time, much less know who around him was dying or how many had fallen.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "269",
+      "sol": "He lost track of time. He had no idea who was dying around him, or how many.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had no choice. If he looked away for even a single moment, that enormous halberd would tear his body to pieces.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "271",
+      "sol": "He couldn’t afford to look. If he took his eyes off the Minotaur Lord for even a moment, its enormous halberd would smash his body to pieces.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whoom, splurt!",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "273",
+      "sol": "*Whoosh! Crunch!*",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The halberd’s blade passed right in front of him with a heavy roar of air, making the fine hairs on his body stand on end.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "275",
+      "sol": "The halberd’s blade passed right in front of his face with a heavy rush of air. Every fine hair on his body stood on end.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But at the same time, his body—seasoned by countless repetitions of training and battle—moved as naturally as flowing water.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "277",
+      "sol": "Yet his body, trained through countless repetitions and battles, moved with effortless fluidity.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Fwoosh, bang!",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "279",
+      "sol": "*Swish! Bang!*",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Compressed air burst from the tip of the sabre he thrust out with his step.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "281",
+      "sol": "He stepped and thrust his sabre. Compressed air burst from its tip.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Minotaur Lord took a step back with agility unsuited to its massive frame, its face twisting.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "283",
+      "sol": "The Minotaur Lord retreated a step with agility that belied its massive size, its face twisting.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A cry filled with confusion and pain. At some point, a hole the size of a child’s fist had appeared in its shoulder.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "287",
+      "sol": "Confusion and pain mingled in its cry. A hole the size of a child’s fist had opened in its shoulder.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I did it.*",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "289",
+      "sol": "*That worked.*",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Schumacher felt a tingling rush of pleasure run down his spine.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "291",
+      "sol": "A thrill ran down Schumacher’s spine.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The movement just now had been so natural and fast that even he had not been aware of it. It had been as if invisible strings were controlling his body.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "293",
+      "sol": "His movement had been so fast and natural that he hadn’t even been aware of it, as though invisible strings had guided his body.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fight against the Minotaur Lord was by no means easy.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "297",
+      "sol": "",
+      "sol_paragraphs": "after P129",
+      "sol_range": [
+        129,
+        129
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "미노타우로스",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Minotaur"
+        }
+      ]
+    },
+    {
+      "baseline": "No. To be honest, it was grueling.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "299",
+      "sol": "The fight had not been easy. Honestly, it had been grueling.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The rusted spearhead of the halberd tore chunks of flesh away with the slightest graze, and the tremendous force transmitted every time their weapons collided rapidly drained his Stamina.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "301",
+      "sol": "The rusty spearhead of the halberd tore away chunks of flesh with even a glancing hit. Every clash of their weapons sent enough force through him to drain his Stamina.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Strength: overwhelmingly inferior.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "303",
+      "sol": "He was overwhelmingly weaker. Slightly faster.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "근력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Strength"
+        }
+      ]
+    },
+    {
+      "baseline": "Speed: slightly superior.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "305",
+      "sol": "",
+      "sol_paragraphs": "after P132",
+      "sol_range": [
+        132,
+        132
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That had been the result so far, and the enormous fatigue and blood loss were making Schumacher’s vision hazy.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "307",
+      "sol": "That was the balance so far, and exhaustion and blood loss were beginning to blur his vision.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "슈마허",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Schumacher"
+        }
+      ]
+    },
+    {
+      "baseline": "But…",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "309",
+      "sol": "",
+      "sol_paragraphs": "after P133",
+      "sol_range": [
+        133,
+        133
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For some reason, he felt as if he could do anything now.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "311",
+      "sol": "But for some reason, he felt as though he could do anything now.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if he could bring down that terrifying monster and become the superhuman who saved this land.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "313",
+      "sol": "He could defeat that terrifying monster. He could become the superhuman who saved this land.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The father of German philosophy, Friedrich Nietzsche, had said it long ago.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "317",
+      "sol": "",
+      "sol_paragraphs": "after P136",
+      "sol_range": [
+        136,
+        136
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Übermensch was a superhuman who rose even amid tragedy, a great overcomer who sought to realize his potential to the utmost.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "319",
+      "sol": "Friedrich Nietzsche, the father of German philosophy, had spoken of the Übermensch: a superhuman who rose even in tragedy, a great overcomer who strove to realize his fullest potential.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And now, at this very moment, Joel Schumacher was rising another step—not through an idea, but through martial force.",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "321",
+      "sol": "And at this moment, Joel Schumacher was rising to a new level through martial force, not merely as an idea.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "From the countless years of training and experience he had accumulated as the world’s greatest fencer.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "323",
+      "sol": "He drew on everything he had built through training and experience, from his years as the world’s greatest fencer until now. And on his will to survive.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And through his desire to survive.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H133",
+      "korean_lines": "325",
+      "sol": "",
+      "sol_paragraphs": "after P139",
+      "sol_range": [
+        139,
+        139
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whoosh! Shhhh!",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H134",
+      "korean_lines": "327",
+      "sol": "*Swish! Swish-swish-swish!*",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Countless streaks of light crossed the air.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H135",
+      "korean_lines": "329",
+      "sol": "Streaks of light crossed the air.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every time the sabre danced, swung with the least movement and the greatest speed, the Minotaur staggered backward, spraying blood.",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H136",
+      "korean_lines": "331",
+      "sol": "With the smallest movements and the greatest speed, his sabre danced. Each stroke sent the Minotaur Lord stumbling backward, spraying blood.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Stab. Slash.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H137",
+      "korean_lines": "333",
+      "sol": "*Thrust! Slash!*",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He stabbed and slashed.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H138",
+      "korean_lines": "335",
+      "sol": "He stabbed and cut.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The monster’s body, reflected in Schumacher’s hazy eyes, was filled with countless openings, and his senses, sharpened to their peak, were focused on one thing alone.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H139",
+      "korean_lines": "337",
+      "sol": "To Schumacher’s hazy eyes, the monster’s body was riddled with openings. Every one of his heightened senses was fixed on a single target.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Slash! Fwoosh!",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H140",
+      "korean_lines": "343",
+      "sol": "*Slash! Fwoosh!*",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As he watched a fountain of blood shoot into the air, Joel Schumacher blinked.",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H141",
+      "korean_lines": "345",
+      "sol": "A fountain of blood shot into the air. Schumacher blinked.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "조엘",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Joel"
+        }
+      ]
+    },
+    {
+      "baseline": "Something was strange.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H142",
+      "korean_lines": "349",
+      "sol": "Something was wrong.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The monster’s blood should have been green or blue, yet the blood raining down over his head was red like a rose.",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H143",
+      "korean_lines": "351",
+      "sol": "The monster’s blood should have been green or blue. The blood falling over his head was red as a rose.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if it were human blood.",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H144",
+      "korean_lines": "353",
+      "sol": "Like human blood.",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Blood spilled between his cracked lips.",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H145",
+      "korean_lines": "357",
+      "sol": "Blood spilled between his dry lips.",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, the dreamlike haze vanished from his senses, and the reality that rushed in all at once awakened his consciousness.",
+      "baseline_paragraphs": "P175",
+      "baseline_range": [
+        174,
+        175
+      ],
+      "hunk_id": "H146",
+      "korean_lines": "359",
+      "sol": "The dreamlike haze vanished, and reality rushed in.",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’d been cut.*",
+      "baseline_paragraphs": "P176",
+      "baseline_range": [
+        175,
+        176
+      ],
+      "hunk_id": "H147",
+      "korean_lines": "361",
+      "sol": "*I’ve been cut.*",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not *I cut it.*",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H148",
+      "korean_lines": "363",
+      "sol": "",
+      "sol_paragraphs": "after P157",
+      "sol_range": [
+        157,
+        157
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’d been cut.*",
+      "baseline_paragraphs": "P178",
+      "baseline_range": [
+        177,
+        178
+      ],
+      "hunk_id": "H149",
+      "korean_lines": "365",
+      "sol": "He hadn’t cut the monster. He had been cut.",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Schumacher staggered as fiery pain radiated from his back.",
+      "baseline_paragraphs": "P179",
+      "baseline_range": [
+        178,
+        179
+      ],
+      "hunk_id": "H150",
+      "korean_lines": "367",
+      "sol": "Fiery pain spread from his back, and Schumacher staggered.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the last moment, while all his senses were fixed on the chieftain, a Minotaur had slashed his back with a rusty sword. His comrades hacked its head off and caught him as he staggered.",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H151",
+      "korean_lines": "369",
+      "sol": "At the last moment, while all his senses had been focused on the leader, another Minotaur had slashed his back with a rusty sword. His comrades cut off its head and caught him.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whoooosh, splurt!",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H152",
+      "korean_lines": "375",
+      "sol": "*Whoosh! Crunch!*",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with the heavy roar of air being torn apart, the hands supporting him and the breath of his comrade disappeared.",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H153",
+      "korean_lines": "377",
+      "sol": "The hands supporting him vanished. So did his comrade’s breathing.",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Schumacher lost his balance and collapsed, then raised his head while gasping for breath.",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H154",
+      "korean_lines": "379",
+      "sol": "Schumacher lost his balance and fell. Gasping, he lifted his head.",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Minotaur Lord.",
+      "baseline_paragraphs": "P186",
+      "baseline_range": [
+        185,
+        186
+      ],
+      "hunk_id": "H155",
+      "korean_lines": "381",
+      "sol": "",
+      "sol_paragraphs": "after P165",
+      "sol_range": [
+        165,
+        165
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "미노타우로스",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Minotaur"
+        }
+      ]
+    },
+    {
+      "baseline": "The leader of the monsters that had come to Munich was looking down at him.",
+      "baseline_paragraphs": "P187",
+      "baseline_range": [
+        186,
+        187
+      ],
+      "hunk_id": "H156",
+      "korean_lines": "383",
+      "sol": "The Minotaur Lord stood over him, leader of the monsters that had come to Munich, an enormous double-bladed axe raised high.",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With an enormous double-bladed axe raised overhead.",
+      "baseline_paragraphs": "P188",
+      "baseline_range": [
+        187,
+        188
+      ],
+      "hunk_id": "H157",
+      "korean_lines": "385",
+      "sol": "",
+      "sol_paragraphs": "after P166",
+      "sol_range": [
+        166,
+        166
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was over.",
+      "baseline_paragraphs": "P190",
+      "baseline_range": [
+        189,
+        190
+      ],
+      "hunk_id": "H158",
+      "korean_lines": "389",
+      "sol": "This was the end.",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For Munich.",
+      "baseline_paragraphs": "P191",
+      "baseline_range": [
+        190,
+        191
+      ],
+      "hunk_id": "H159",
+      "korean_lines": "391",
+      "sol": "",
+      "sol_paragraphs": "after P168",
+      "sol_range": [
+        168,
+        168
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "뮌헨",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Munich"
+        }
+      ]
+    },
+    {
+      "baseline": "For the Hunters here.",
+      "baseline_paragraphs": "P192",
+      "baseline_range": [
+        191,
+        192
+      ],
+      "hunk_id": "H160",
+      "korean_lines": "393",
+      "sol": "For Munich. For the Hunters here.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Joel Schumacher closed his eyes with a hollow laugh.",
+      "baseline_paragraphs": "P194",
+      "baseline_range": [
+        193,
+        194
+      ],
+      "hunk_id": "H161",
+      "korean_lines": "397",
+      "sol": "Schumacher gave a hollow laugh and closed his eyes.",
+      "sol_paragraphs": "P171",
+      "sol_range": [
+        170,
+        171
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "조엘",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Joel"
+        }
+      ]
+    },
+    {
+      "baseline": "No. It was at the moment he was about to close them.",
+      "baseline_paragraphs": "P195",
+      "baseline_range": [
+        194,
+        195
+      ],
+      "hunk_id": "H162",
+      "korean_lines": "399",
+      "sol": "No—he was about to close them when a stranger’s voice reached him.",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The unfamiliar voice that pierced his ear awakened his fading consciousness.",
+      "baseline_paragraphs": "P197",
+      "baseline_range": [
+        196,
+        197
+      ],
+      "hunk_id": "H163",
+      "korean_lines": "399",
+      "sol": "",
+      "sol_paragraphs": "after P173",
+      "sol_range": [
+        173,
+        173
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In his dizzy vision, Schumacher slowly blinked and saw someone’s back blocking the way in front of him.",
+      "baseline_paragraphs": "P198",
+      "baseline_range": [
+        197,
+        198
+      ],
+      "hunk_id": "H164",
+      "korean_lines": "399",
+      "sol": "His fading mind stirred. Schumacher blinked slowly through his blurred vision and saw someone standing between him and the Minotaur Lord.",
+      "sol_paragraphs": "P174",
+      "sol_range": [
+        173,
+        174
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A back broader than the Minotaur Lord’s, radiating a calm yet overwhelming presence.",
+      "baseline_paragraphs": "P199",
+      "baseline_range": [
+        198,
+        199
+      ],
+      "hunk_id": "H165",
+      "korean_lines": "399",
+      "sol": "The man’s back seemed broader than the monster’s. His presence was calm, yet overwhelming.",
+      "sol_paragraphs": "P175",
+      "sol_range": [
+        174,
+        175
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "미노타우로스",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Minotaur"
+        }
+      ]
+    },
+    {
+      "baseline": "And a spear held in that person’s hand.",
+      "baseline_paragraphs": "P200",
+      "baseline_range": [
+        199,
+        200
+      ],
+      "hunk_id": "H166",
+      "korean_lines": "399",
+      "sol": "A spear rested in his hand.",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, Joel Schumacher realized.",
+      "baseline_paragraphs": "P201",
+      "baseline_range": [
+        200,
+        201
+      ],
+      "hunk_id": "H167",
+      "korean_lines": "399",
+      "sol": "And Schumacher understood.",
+      "sol_paragraphs": "P177",
+      "sol_range": [
+        176,
+        177
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "조엘",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Joel"
+        }
+      ]
+    }
+  ],
+  "sol_blocks": 179,
+  "sol_sha256": "8f36a35e728aadf5bf49babcf178b24e47ef285a1bd092a8b3fb3fe510647b24",
+  "version": 1
+}

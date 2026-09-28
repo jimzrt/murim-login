@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "it could use spatial teleportation to drop their nuclear missile over a major city.",
+      "defect": "“Their” assigns the missile to the enemy. The Korean says a nuclear missile could be dropped, without saying the monster or its side owns it.",
+      "id": "F01",
+      "rationale": "The source names the missile and the means of deploying it, but does not establish who possesses the missile.",
+      "replacement": "it could use spatial teleportation to drop a nuclear missile over a major city.",
+      "severity": "minor",
+      "source": "Line 53"
+    },
+    {
+      "confidence": 0.91,
+      "current": "If the worst does happen, even nuclear weapons might be useless.",
+      "defect": "“Might be useless” weakens the certainty of the thought. The Korean says that in the truly worst-case scenario, even nuclear weapons would be no use.",
+      "id": "F02",
+      "rationale": "아무 소용이 없겠지 expresses that nuclear weapons would be of no use in that scenario, not merely that they might be.",
+      "replacement": "If the worst does happen, even nuclear weapons would be useless.",
+      "severity": "minor",
+      "source": "Line 49"
+    }
+  ],
+  "summary": "The assembled copy has a few minor meaning shifts and one duplicated line.",
+  "version": 1
+}

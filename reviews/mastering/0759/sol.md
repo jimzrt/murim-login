@@ -64,13 +64,11 @@ The capital, Berlin, had already taken a direct hit in the earlier terrorist att
 
 *We have to stop this one.*
 
-Even if it meant blowing the entire city away with nuclear weapons, the people had to survive.
-
-A nation could exist because there were people living within its borders.
+Even if they had to blow the entire city away, they had to save its people. A country existed because of the people who lived within its borders.
 
 And to do that, they needed reinforcements. Hunters who were one-person armies, each capable of doing the work of a thousand—or ten thousand.
 
-“What happened to them?”
+“What’s the status of those two?”
 
 No names were needed. Everyone in the command center knew whom he meant, and reports came from all sides.
 
@@ -102,13 +100,13 @@ And at its head stood Germany’s own S-rank Hunter, Schumacher.
 
 *Thud.*
 
-Prime Minister Markus sprang to his feet and spoke in a resolute voice.
+Markus rose from his seat.
 
 “We have every chance of winning. Thirty minutes. If we can hold out for just thirty minutes, we can minimize the damage and bring this to an end—”
 
 “Emergency report from Commander Scholz!”
 
-Along with the scream-like cry that swallowed the rest of the prime minister’s words, a massive shock swept through the command center.
+The scream of a report cut him off, sending a shock through the command center.
 
 “M-magical power! It’s passed the critical threshold!”
 
@@ -164,11 +162,11 @@ As countless hooves pounded the ground, streaks shot across the sky with a heavy
 
 Missiles poured in from the German federal forces waiting in the rear.
 
-Massive explosions accompanied by flames swallowed everything around them. Everything left behind in the area, where most of the citizens had already been evacuated, was reduced to ash and melted beneath the horrific firepower.
+Fire and explosions engulfed the area. They would turn everything left there to ash, melt it with overwhelming firepower. Most of the citizens had already evacuated.
 
 At least, that was what the humans hoped—even knowing that weapons born of science could not stop these monsters.
 
-Kaaaaa…
+*Rumble…*
 
 The bombardment, which had seemed endless, finally ceased.
 
@@ -192,7 +190,7 @@ At the head of its army, the leader swept away everything blocking the broad roa
 
 The ground sank beneath it like a sinkhole.
 
-As the monster’s massive body charged forward with a tremendous roar, a figure shot toward it at the speed of a beam of light.
+A figure shot toward the charging giant, swift as a beam of light.
 
 “How dare you!”
 
@@ -224,7 +222,7 @@ It was the signal for the battle to begin. The two species, bound to a fate neit
 
 Roars and screams rose from every side, with death close behind.
 
-It was the beginning of a horrific bloodbath that could end only after they had killed and been killed by one another.
+The terrible fight had begun. It would end only when one side had killed the other.
 
 * * *
 
@@ -236,7 +234,7 @@ He couldn’t afford to look. If he took his eyes off the Minotaur Lord for even
 
 *Whoosh! Crunch!*
 
-The halberd’s blade passed right in front of him with a heavy roar of air, making the fine hairs on his body stand on end.
+The halberd’s blade passed right in front of his face with a heavy rush of air. Every fine hair on his body stood on end.
 
 Yet his body, trained through countless repetitions and battles, moved with effortless fluidity.
 
@@ -262,15 +260,13 @@ The fight had not been easy. Honestly, it had been grueling.
 
 The rusty spearhead of the halberd tore away chunks of flesh with even a glancing hit. Every clash of their weapons sent enough force through him to drain his Stamina.
 
-Strength: overwhelmingly inferior.
-
-Speed: slightly superior.
+He was overwhelmingly weaker. Slightly faster.
 
 That was the balance so far, and exhaustion and blood loss were beginning to blur his vision.
 
 But for some reason, he felt as though he could do anything now.
 
-As if he could bring down that terrifying monster and become the superhuman who saved this land.
+He could defeat that terrifying monster. He could become the superhuman who saved this land.
 
 *Yes. The Übermensch.*
 
@@ -284,7 +280,7 @@ He drew on everything he had built through training and experience, from his yea
 
 Streaks of light crossed the air.
 
-Every time the sabre danced, swung with the least movement and the greatest speed, the Minotaur staggered backward, spraying blood.
+With the smallest movements and the greatest speed, his sabre danced. Each stroke sent the Minotaur Lord stumbling backward, spraying blood.
 
 *Thrust! Slash!*
 
@@ -337,8 +333,6 @@ The Minotaur Lord stood over him, leader of the monsters that had come to Munich
 *…Goddamn it.*
 
 This was the end.
-
-For Munich.
 
 For Munich. For the Hunters here.
 
