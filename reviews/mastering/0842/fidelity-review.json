@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "something big and thick flew through his vision, bleached white with pain, and slapped him across the cheek.",
+      "defect": "The phrasing makes it sound as though the thing flying through his vision was bleached white. The Korean says pain whitened his vision, and the thing appeared within it.",
+      "id": "F01",
+      "rationale": "The source explicitly attributes the whiteness to his vision being flooded by pain (고통으로 인해 새하얗게 물든 시야 속에서), not to the object.",
+      "replacement": "As the young man curled up and groaned, his vision bleached white with pain. Something big and thick flew into it and slapped him across the cheek.",
+      "severity": "minor",
+      "source": "Line 27"
+    },
+    {
+      "confidence": 0.84,
+      "current": "the Chief Escort she’d trusted like family nearly let the Zhongnan Sect take the Yongbong Escort Bureau",
+      "defect": "“Let” can imply the Chief Escort knowingly permitted the takeover. The source says the bureau nearly fell to the Zhongnan Sect because of the Chief Escort, without establishing deliberate permission.",
+      "id": "F02",
+      "rationale": "The source uses a passive construction with the Chief Escort as the cause (총표두에 의해 ... 뺏길 뻔하고); it does not state that the Chief Escort let the takeover happen intentionally.",
+      "replacement": "the Yongbong Escort Bureau nearly fell to the Zhongnan Sect because of the Chief Escort she’d trusted like family",
+      "severity": "minor",
+      "source": "Line 163"
+    }
+  ],
+  "summary": "Two minor fidelity issues: one ambiguous physical image and one added implication about the Chief Escort’s intent.",
+  "version": 1
+}

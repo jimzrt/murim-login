@@ -22,7 +22,7 @@ Not that he cared. It hurt too damn much.
 
 Was this what it felt like to have your face smashed with a rock?
 
-As the young man curled up and groaned, something big and thick flew through his vision, bleached white with pain, and slapped him across the cheek.
+He curled up, groaning. Through a haze of white pain, something large and broad came flying at his cheek.
 
 *Smack.*
 
@@ -38,9 +38,9 @@ He also realized that the hard thing he’d struck when he sat up had been that 
 
 *Taishan, you son of a bitch…*
 
-That familiar voice. That inhumanly solid body.
+No doubt about it. That familiar voice. That face, too hard to belong to a human being.
 
-There were plenty of monsters around Hyuk Mujin, but only one who was a monster in the purest sense of the word.
+Hyuk Mujin knew plenty of monsters, but only one was a monster in such a literal sense.
 
 *Smack. Smack. Smack.*
 
@@ -62,7 +62,7 @@ As his vision faded, his life flashed before his eyes.
 
 *Mother, Father. I’m sorry. You were right.*
 
-He should’ve just taken over the family business like a good son from the start.
+He should have taken over the family business like they’d wanted.
 
 By now, he could have been the heir to the Hyuk Family Textile Shop, addressed as Young Master and scattering silver nyang in the streets. Instead, mouthing off to Jin Taekyung whenever he got the chance and getting punched until his nose bled had become his daily routine.
 
@@ -116,7 +116,7 @@ Mujin wiped at his tears. “Young Lady Ju, I’m sorry to say this, but I’m n
 
 “That’s right. Where is it?”
 
-“Taishan ate it. It was pretty tasty.”
+“Ate it. Tasted all right.”
 
 “Oh…”
 
@@ -128,7 +128,7 @@ Hwaran tried to decide who was worse: the man who’d eaten the ointment or the 
 
 “No need to apologize. It’s just that this falls outside my duties, so there’ll be an additional fee…”
 
-Song Ilseom noticed Ju Hwaran fiddling with the scabbard at her waist. His face stiffened as he continued.
+He noticed Hwaran fingering the scabbard at her waist. His face stiffened.
 
 “…but this doesn’t seem like the time for jokes.”
 
@@ -146,7 +146,7 @@ Song hurried out. He returned with the ointment before more than a few moments h
 
 “I heard Taishan caused more trouble while I was gone. I apologize.”
 
-After Song Ilseom, who was judging the amount of ointment, came Sama Pyo, apologizing. Then Namho asked with an expectant look:
+Song held up the ointment for inspection while Sama Pyo offered his apology. Namho looked on with eager anticipation.
 
 “Just asking, but does the Fire Dragon Pavilion have a rule for offenses like this? Dismemberment into five pieces, perhaps…”
 
@@ -158,7 +158,7 @@ It had started after the Chief Escort she’d trusted like family nearly let the
 
 She wanted to draw her sword and go on a mad rampage. Instead, she took a deep breath, gathered the last of her patience, and answered them in turn.
 
-“That’s plenty of ointment. Young Hero Sama, don’t leave in the first place. Taishan would probably cause some other trouble even with you here, but at least he wouldn’t eat the ointment or knock Young Hero Hyuk unconscious again. And Old Master Namho.”
+“That’s enough ointment. Young Hero Sama, don’t leave Taishan alone in the first place. He’d probably find some other trouble to cause even with you here, but at least he wouldn’t eat the ointment or knock Young Hero Hyuk out again. And Old Master Namho.”
 
 “Yes?”
 
@@ -176,7 +176,7 @@ Her icy voice made everyone in the room shut their mouths and shake their heads.
 
 Even Taishan, one of the most oblivious men alive, and Mujin, who had been moaning in pain, fell silent. They traded glances with the others.
 
-*Young Lady Ju has changed a lot. She’s had a hard time lately, but I didn’t think it was this bad. That man’s supposed to be her escort. Doesn’t he know anything?*
+*Young Lady Ju has changed. She’s had a hard time lately, but I didn’t think it was this bad. That man’s supposed to be her escort. Doesn’t he know what’s going on?*
 
 *Why is that unorthodox bastard staring at me? Does he want a real fight this time?*
 
@@ -184,11 +184,11 @@ Even Taishan, one of the most oblivious men alive, and Mujin, who had been moani
 
 *Taishan wants more ointment. It was a nice little treat.*
 
-*These damn people don’t care that I’m hurt at all. And what does she mean, the Sichuan Tang Clan? What the hell happened?*
+*These damn people don’t care that I’m hurt. And what do they mean, the Sichuan Tang Clan? What happened?*
 
 Not a single thought got through to anyone else, but everyone except Hwaran reached the same unspoken agreement: they would keep their mouths shut until she calmed down.
 
-It wasn’t until Ju Hwaran’s stiff face softened that Hyuk Mujin, who’d been furtively checking the others’ expressions while applying ointment himself, was able to hear what had happened.
+Mujin watched their faces as he applied the ointment himself. Only after Hwaran’s stiff expression had softened did he get to hear what had happened.
 
 “What? It’s been two days?”
 
@@ -206,7 +206,7 @@ He’d closed his eyes for what felt like a short, deep sleep. Now two days had 
 
 “Young Hero Hyuk, you don’t remember?”
 
-“No. I only remember what the Captain and the Huang tribe member were saying at the river landing. After that, there was a flash before my eyes.”
+“No. I remember what I said while the Captain was talking to the Huang tribe member at the river landing. Then there was a flash before my eyes.”
 
 Song Ilseom, leaning against the wall with his arms crossed, muttered, “You remember it exactly.”
 
@@ -268,6 +268,6 @@ When you come back from a faraway land, you have plenty to talk about.
 
 Especially when all sorts of unimaginable things have been happening there.
 
-After I’d told Jeok Cheongang my endless story, he stayed silent for a long while. Then he summed up his thoughts in a single, short, blunt remark.
+Jeok Cheongang listened to my story without interruption. When I finally finished, he stayed silent for a long time. Then he gave me his thoughts in one short, emphatic sentence.
 
 “We’re fucked.”
