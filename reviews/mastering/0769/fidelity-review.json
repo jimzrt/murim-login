@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The World Hunter Federation was absolutely necessary.",
+      "defect": "The source explicitly says “I admit it” before affirming the Federation is necessary. The assembled version drops that beat, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "The Korean has 인정한다 (“I admit it”) as a standalone sentence before the statement of necessity.",
+      "replacement": "I admitted it. The World Hunter Federation was absolutely necessary.",
+      "severity": "minor",
+      "source": "Lines 141–143"
+    },
+    {
+      "confidence": 0.99,
+      "current": "We had to stop him. Within the time we had been given, we had to use every ounce of our strength to hold Michael Silbert back.",
+      "defect": "The translation omits that this was why the narrator had spoken in front of everyone three days earlier. That event and its timing are explicit in the source and preserved in the baseline.",
+      "id": "F02",
+      "rationale": "The source says 그렇기에 나는 사흘 전, 모두의 앞에서 말했었다 before stating what he said: “놈을 막아야 한다고.”",
+      "replacement": "That was why, three days ago, I had said it in front of everyone: We had to stop him. Within the time we had been given, we had to use every ounce of our strength to hold Michael Silbert back.",
+      "severity": "minor",
+      "source": "Lines 151–153"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Thoughts tore through my head. My mouth had fallen open, but I couldn’t force a sound out.",
+      "defect": "The current version replaces the source’s image of unspeakable voices circling in the narrator’s open mouth with the more general inability to make a sound.",
+      "id": "F03",
+      "rationale": "The source says that unvoiced words circled inside his mouth after it opened; the accepted baseline retains this image.",
+      "replacement": "Thoughts tore through my head, and voices I couldn’t bring myself to let out circled in my open mouth.",
+      "severity": "minor",
+      "source": "Line 237"
+    }
+  ],
+  "summary": "The assembled chapter omits the narrator’s admission and the context for his earlier warning, and loses a source-specific image of unspoken voices.",
+  "version": 1
+}

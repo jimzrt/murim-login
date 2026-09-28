@@ -32,8 +32,6 @@ A young man far younger than himself, who had won the public’s love in an absu
 
 The name lingered in his mouth, accompanied by a faint pain at his throat.
 
-Swish.
-
 Michael carefully pulled down the turtleneck that covered his neck. A dark-red mark stood out against his skin, warped by a brief surge of heat.
 
 It was the first wound he had suffered in more than a decade. He was tracing the mark Jin Taekyung had left several days ago when—
@@ -44,7 +42,7 @@ A phone vibrated somewhere. His fingertips trembled against the wound, which had
 
 Instinctively, Michael pulled his collar back up and looked at the name on his smartphone screen.
 
-[Emmanuel]
+Emmanuel.
 
 There were many people in the world named Emmanuel. But only one could contact him directly without going through Huginn.
 
@@ -76,7 +74,7 @@ Probably because I’d seen it coming.
 
 “Fuck.”
 
-Still, I had to do what needed to be done. It wasn’t like I could shout, *Yay!*
+Still, I had to say something. It wasn’t like I could shout, *Yay!*
 
 Having cursed out of habit, I looked at Team Leader Choi, who had just come through the door.
 
@@ -110,7 +108,7 @@ Ordinarily.
 
 Politics had nothing to do with it anymore. This was about survival.
 
-If several big, powerful men blocked the fire hydrant while your house was about to burn to ashes and told you to wait just a little longer, who would obediently turn around and leave?
+If your house was about to burn down and a few big, strong men blocked the fire hydrant and told you to wait a little longer, would you quietly turn around and go home?
 
 I understood where those countries were coming from.
 
@@ -118,15 +116,15 @@ But…
 
 *Finding out the fire extinguisher is actually a flamethrower is another matter.*
 
-The World Hunter Federation was absolutely necessary.
+I could admit it: the World Hunter Federation was necessary.
 
-During the last Great Cataclysm, when terrible flames had spread in every direction, they had played the role of excellent firefighters. They had done their best as heroes more devoted than anyone else.
+During the Great Cataclysm, when terrible fires were spreading in every direction, it had served as an excellent firefighter. Its members had done everything they could, as heroes more devoted than anyone.
 
 But Michael Silbert was no firefighter.
 
-What could be a greater black comedy than the person who had secretly started the fire being appointed as the new firefighter?
+What could be a darker joke than appointing the man who had secretly started the fires to put them out?
 
-We had to stop him. Within the time we had been given, we had to use every ounce of our strength to hold Michael Silbert back.
+That was why, three days ago, I had told everyone we had to stop him. We had to use every bit of the time we had left to hold Michael Silbert back.
 
 Now the sand in the hourglass we had turned over was almost gone.
 
@@ -150,9 +148,7 @@ But Michael Silbert was one of the most famous people in the world. Decades of i
 
 I had no answer for the Skeleton King.
 
-Magic Johnson, who had been put in charge of the material from the hideout, might have discovered something by now, but the possibility was slim.
-
-Even when he had come to us by hologram three days earlier, he had already gone over all the material more than ten times—and then gone over it again.
+Magic Johnson was handling the material from the hideout. He might have found something by now, but the chances were slim. When he appeared by hologram three days ago, he had already gone through everything more than ten times.
 
 All I had left was a guess bordering on despair.
 
@@ -186,17 +182,17 @@ But as I stared at him, the Skeleton King continued calmly.
 
 “……!”
 
-“It is a simple solution, is it not? If you have been caught by a weakness so serious that you have no choice but to comply with his demands, then eliminate the weakness. Along with a suitable explanation.”
+“Is that not simple? If he holds a weakness powerful enough to force you to do as he says, remove the weakness. Give people a suitable reason.”
 
 A chill ran down my spine. Every hair on my body stood on end.
 
 He stood before me as he always did, yet he had never felt more like a stranger.
 
-His deeply sunken gaze. His faint smile. Even his calm voice.
+His solemn eyes. His faint smile. His calm voice.
 
 Every part of him.
 
-“This body is a monster. To you humans, I am practically evil itself, and I am also cunning enough to deceive the eyes of insignificant humans and approach them whenever I wish.”
+“This body is a monster. To you humans, I am evil itself. Cunning enough to deceive the eyes of insignificant humans and get close to them whenever I please.”
 
 The Skeleton King grinned.
 
@@ -212,21 +208,19 @@ Thoughts tore through my head. My mouth had fallen open, but I couldn’t force 
 
 I had never once considered it. That made it all the more shocking.
 
-Then, as I froze for an instant, a voice pierced my ears like a needle.
+Then another voice pierced through my daze.
 
-“It is a possibility.”
+“It could work.”
 
 “Team Leader Choi!”
 
-My shout burst out instinctively, but Team Leader Choi did not flinch in the slightest.
-
-His face rigid, he continued.
+He didn’t so much as flinch at my shout. His face set, he went on.
 
 “A weakness is only a weakness when it’s exposed and an enemy can use it. If you remove it yourself, there’s no problem.”
 
-“What the hell are you talking about right now…”
+“What the hell are you—”
 
-“The public still loves you, Mr. Jin Taekyung. Although the extermination of the terrorist group brought about the appearance of The Prophet, it was done for the sake of a greater good, and you gave everything you had to save people despite the countless accusations thrown at you. In particular, the self-sacrifice you showed against Leviathan and during the Monster Wave in Munich…”
+“The public still loves you, Mr. Jin Taekyung. Destroying the terrorist group may have led to The Prophet’s appearance, but you acted for the greater good. Despite all the criticism, you gave everything you had to save people. The willingness to sacrifice yourself that you showed against Leviathan and during the Monster Wave in Munich, in particular—”
 
 “Enough!”
 
@@ -254,7 +248,7 @@ Thud.
 
 Team Leader Choi stepped forward hard, bringing his face close to mine. His eyes held a tangle of emotions, and his voice was firm.
 
-“People don’t believe it.”
+“People won’t believe it.”
 
 His last words dwindled like a dying campfire.
 
