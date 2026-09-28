@@ -16,9 +16,9 @@ There was no way.
 
 I knew it. Everyone in the world knew it.
 
-The Demon King—Asmodeus—was already dead.
+The Demon King—Asmodeus—was dead.
 
-Near the end of the Great Cataclysm, on what would later be called Victory Day, humanity’s hero fought the Demon King and finally brought down the calamity that had turned the whole world into a blazing inferno.
+Near the end of the Great Cataclysm, on what would later be called Victory Day, humanity’s hero fought the Demon King and finally brought down the calamity that had turned the world into an inferno.
 
 And a few hours later, a small life was born in a country on a peninsula surrounded by the sea on three sides.
 
@@ -35,8 +35,6 @@ I was only standing there. Only moving my lips to speak. Yet I was short of brea
 Like the voice now burrowing into my ears.
 
 “Yes. That, too, is true, Jin Taekyung. Chosen One.”
-
-The abyss-like monster looked at me and curled its lips.
 
 The Doppelganger looked at me and curled its lips. On the Grand Mage’s stolen face, the smile was as sly and wicked as a serpent’s.
 
@@ -56,11 +54,11 @@ Its eyes, dark and deep, swirled like the abyss as they fixed on me.
 
 “Do you still not understand? My existence is proof. Proof that the truth you believe is a lie, and that another truth exists beyond your knowledge.”
 
-My vision blurred in an instant.
+My vision blurred.
 
 The massive pillars supporting the temple vanished from sight, along with the grotesque statues and the Skeleton King, whose lips were moving as if he were trying to say something.
 
-There was only one presence.
+Only one figure remained.
 
 The Doppelganger filled my vision, its image etched sharply into my eyes.
 
@@ -70,13 +68,13 @@ My mind reeled. Small puzzle pieces surfaced one by one, filling the empty space
 
 *Long before the Demon King Asmodeus fell, the Doppelganger had already infiltrated this world.*
 
-Michael Silbert hadn’t chosen the Doppelganger from the start.
+Michael Silbert hadn’t chosen the Doppelganger.
 
 The Doppelganger had chosen him.
 
-The monster from another world had recognized a monster in this one. It had read the immense ambition curled up inside a human body of flesh and bone.
+The monster from another world had recognized a monster in this one. It had seen the immense ambition crouched inside a human body of flesh and bone.
 
-*Why had the Doppelganger chosen Michael Silbert, of all people?*
+*Why Michael Silbert, of all people?*
 
 I already knew the answer.
 
@@ -94,7 +92,7 @@ What happened after that must have been just as I knew it.
 
 The Doppelganger put Michael Silbert forward and used him to move the world.
 
-The puppet that had made a name for itself at the Great Battle of Paris quietly grew in the shadow of Cheon Taemin, the sky above it. And the shadow controlling the puppet fed on someone’s soul, out of sight.
+The puppet that had made a name for himself at the Great Battle of Paris quietly grew in the shadow of Cheon Taemin, the sky above him. And out of sight, the shadow controlling that puppet fed on other people’s souls.
 
 For more than thirty years, the Doppelganger climbed the stairs, keeping the order it had received in mind.
 
@@ -132,7 +130,7 @@ I didn’t believe the Doppelganger. It was made of lies, through and through. F
 
 But…
 
-*If every word it said was true.*
+*If every word of it is true…*
 
 Then I already knew what I had to do.
 
@@ -140,7 +138,7 @@ Dynamite with a severed fuse won’t explode. A locked door won’t open without
 
 And in that sense, the Doppelganger was both the fuse and the key: the signal for a vast calamity about to unfold.
 
-This was the only chance to stop the return of a being who would be a nightmare for humanity.
+This was our only chance to stop the return of a being who was a nightmare to humanity.
 
 *I’ll kill it.*
 
@@ -162,7 +160,7 @@ Blue-white flames burst from my toes and devoured the darkness.
 
 In an instant split into ever smaller pieces, I erased the space between us and thrust my spear. It was a motion I’d repeated thousands, tens of thousands of times.
 
-Toward a single being.
+This time, it was aimed at a single being.
 
 *SHWAAA!*
 
@@ -170,7 +168,7 @@ True to its name, White Flame cut through the darkness, its spearhead dazzling a
 
 As if nothing could stop it.
 
-As if it would turn everything to ash.
+As if it could turn everything to ash.
 
 At least, that was how it looked until the Doppelganger gestured and something invisible barred its path.
 
@@ -212,11 +210,11 @@ Confidence showed in its curled lips. It hadn’t smiled like that while fleeing
 
 *Vwoom.*
 
-An unprecedented force resonated from every direction.
+An immense force resonated from every direction.
 
 Magic Formations blazed into view all around us, and the enormous statues depicting the seventy-two commanders of the Demon Realm began to tremble.
 
-“As the Great King’s representative, I command you: awaken from your slumber.”
+“As the Great King’s representative, I command you: awaken.”
 
 *Crackle.*
 
@@ -228,11 +226,11 @@ No—they opened their eyes.
 
 *Flash.*
 
-Monsters, ranging from a few meters to dozens of meters tall, gazed down at the distant ground with glowing red eyes.
+The enormous monsters, some a few meters tall and others dozens, gazed down at the ground far below with glowing red eyes.
 
 The Skeleton King, whose earlier attack had been stopped by a translucent barrier just like mine, stared at them.
 
-Then he shouted like a bolt of lightning.
+Then he shouted.
 
 “Dodge!”
 
@@ -250,7 +248,7 @@ Not because the statues’ attacks were too powerful or too fast.
 
 Because every step I took away from them would take me farther from the Doppelganger.
 
-*Now’s the time to go.*
+*I have to go forward.*
 
 The statues under its control were powerful. But it had copied only the forms of the Demon Realm’s seventy-two commanders. Not one of them had the strength of an S-rank monster.
 
@@ -270,7 +268,7 @@ A space pitifully small beside the vast temple—but large enough for what I nee
 
 *Hngh.*
 
-A headache so sharp it nearly blacked out my vision.
+A headache nearly whited out my vision.
 
 I endured it. I had to.
 
@@ -306,7 +304,7 @@ Everything came crashing down.
 
 All seventy-two colossal statues. The pillars as thick as the World Tree.
 
-The countless magic circles that had filled every corner of the temple.
+And the countless Magic Formations that had filled the temple.
 
 *KWA-CRASH!*
 
