@@ -18,7 +18,7 @@ It swam with all its might.
 
 But for all the ferocity of its will to survive, its fins and tail—once swift enough to cut through the vast ocean like rays of light—barely moved. Its whole body, once brimming with strength, was growing heavier.
 
-*Why the hell…?*
+*Why…?*
 
 Leviathan gasped for breath. It couldn’t stop now.
 
@@ -26,7 +26,7 @@ It had finally managed to shake them off. The way to survival was open. All it h
 
 Whether it took decades or centuries, it could have its revenge someday—so long as it survived today. Unlike humans, fated to die after barely a hundred years, Leviathan could live for something close to eternity as long as it had water and magical power.
 
-*In the end, I'm the one who will survive. Not you bastards. This Leviathan!*
+*I’m the one who’ll survive. Not you. Leviathan!*
 
 It forced up the body that kept trying to sink. Riding the waves left by the battle, carried by the current, it headed for the refuge waiting somewhere far away.
 
@@ -72,7 +72,7 @@ Choi Minwoo, the human who had crushed its last hope, watched two figures approa
 
 At Team Leader Choi’s words, the sailors of the Japan Maritime Self-Defense Force aboard the aircraft carrier let out a tremendous cheer.
 
-I had vomited up enough seawater to fill a kettle before barely managing to open my mouth.
+I’d coughed up enough seawater to fill a kettle. I barely managed to speak.
 
 “Tell them to keep it down. My head’s ringing.”
 
@@ -82,7 +82,7 @@ The Skeleton King, so drenched he looked pickled in seawater, chimed in.
 
 Team Leader Choi nodded.
 
-“Yes. We'd run another raid right here.”
+“Yes. We’d have to fight another raid right here.”
 
 “…Are you serious?”
 
@@ -94,13 +94,13 @@ The enormous monster lay bound tight in a magic-infused net, struggling to breat
 
 —You…
 
-Even with its crushed eye, it somehow recognized me and muttered like a groan. I brushed back my wet hair and waved.
+It somehow recognized me even with its crushed eye. I pushed my wet hair back and waved.
 
 “Yeah, it’s me, you son of a bitch.”
 
-—K-kill me. I have not the slightest intention of suffering humiliation at the hands of a mere human.
+—K-kill me. I won’t suffer the humiliation of being captured by a mere human.
 
-I blinked silently. Then I asked Team Leader Choi,
+I blinked, then turned to Team Leader Choi.
 
 “Did anyone say we were keeping this thing alive?”
 
@@ -112,13 +112,13 @@ The Skeleton King had followed me over. He answered flatly.
 
 “Are you insane?”
 
-“Right? I was wondering what the hell that bullshit was about.”
+“Right? I was wondering what the hell it was talking about.”
 
 I shrugged and drove White Flame, which I’d recovered on the way here, into Leviathan’s body.
 
 *Splurch!*
 
-It seemed as if death, which had drawn close once again, flickered in Leviathan's eyes.
+A faint, guttural groan escaped it. Death had drawn close again, and Leviathan seemed to see it in front of its eyes.
 
 Half its body was already gone. Tenacious as it was, there was no coming back from a wound like that.
 
@@ -166,7 +166,7 @@ The problem was proving it. Without evidence that he’d caused this disaster, n
 
 That was how much standing Odin Guild—and Michael Silbert—had in the world. He was more than a hero of the Great Cataclysm. He was in a position to reach for the place only one person in human history had ever occupied.
 
-*Normally, it would be impossible even if I died and came back to life… But things are different now.*
+*Normally, he wouldn’t have a chance in hell… But things are different now.*
 
 Cheon Taemin.
 
@@ -182,7 +182,7 @@ For Michael Silbert—one of the countless people who had lived in Cheon Taemin�
 
 *…Damn it.*
 
-The strength drained out of me. I pulled the spear shaft from deep inside Leviathan's body and aimed it at its neck.
+The strength went out of me. I pulled the spear from Leviathan’s body and aimed it at its neck.
 
 The hunt was over. It was time to put this damn monster down.
 
@@ -212,7 +212,7 @@ I twisted the spearhead as the question flashed through my mind. But fatigue lay
 
 The thick neck, several meters across, was sliced in half.
 
-Beyond the green blood surging up like a wave, my eyes met the monster's eyes, already overshadowed by irreversible death.
+Green blood surged up like a wave. Beyond it, I met the eye of a monster already beyond saving.
 
 Its final thought sounded in my mind, not my ears.
 
@@ -220,13 +220,13 @@ Its final thought sounded in my mind, not my ears.
 
 “……!”
 
-—The time has come, human. Please survive. Survive to the very end. Survive until the end of this world, and see with your own eyes the day I never got to see…
+—The time has come, human. Please survive. Survive to the very end. Live until the last day of this world, and see with your own eyes the day I won’t live to see…
 
 *Splash.*
 
-At the same time, the enormous maw that had been trembling violently slammed into the surface of the water.
+Its thought faded, trailing off like an echo. The enormous maw, still trembling, fell into the water.
 
-And as I stared at the light fading from its eyes, confused, a clear ringing filled my ears.
+I stared at the light gone from Leviathan’s eye, unable to make sense of what it had said. Then a clear ringing sounded in my ears.
 
 *Ding. Ding. Ding.*
 
@@ -269,13 +269,13 @@ The news was brief but electrifying. It reached Japan’s Ministry of Defense fi
 
 [**The Calamity of the Sea finally meets its death!**]
 
-[**The miracle of twenty-four hours. Asia's star takes flight after falling to rock bottom!**]
+[**The miracle of twenty-four hours. Asia’s star takes flight after its long fall!**]
 
 People who had held back their fear and prayed desperately for the raid’s success erupted in cheers. News outlets around the world, which had watched Japan with bated breath, poured out articles as though they’d been waiting for their cue.
 
 [**The dazzling rise of a young hero.**]
 
-[**Japanese Prime Minister boldly declares at a press conference, defying everyone's expectations: “I kept it. Because it was a promise.”**]
+[**Japanese Prime Minister defies expectations with bold declaration at press conference: “I kept my promise.”**]
 
 [**Japanese Defense Minister abruptly dismissed. Senior Ministry of Defense official laments: “The Defense Minister was considering a kamikaze operation.”**]
 
@@ -291,6 +291,6 @@ Jin Taekyung.
 
 Asia’s star.
 
-A bird that had taken flight once more after an endless fall.
+A bird that had taken flight again after a seemingly endless fall.
 
 But amid the praise and cheers of the entire world, he couldn’t smile.

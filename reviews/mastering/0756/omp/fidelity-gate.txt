@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is broadly faithful, but it omits two source details and adds an unsupported image in a headline.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 141",
+      "current": "It seemed as if death, which had drawn close once again, flickered in Leviathan's eyes.",
+      "defect": "The English omits the faint groan that precedes the description of death flickering in Leviathan’s eyes.",
+      "replacement": "A faint groan escaped it. Death, drawing close once again, seemed to flicker in Leviathan’s eyes.",
+      "rationale": "The Korean explicitly says a faint groan escapes before describing death appearing to flicker in Leviathan’s eyes.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 255",
+      "current": "At the same time, the enormous maw that had been trembling violently slammed into the surface of the water.",
+      "defect": "The English omits the final thought slowly scattering and ending like an echo.",
+      "replacement": "The thought slowly scattered, finally ending like an echo. At the same time, the enormous maw that had been trembling violently slammed into the surface of the water.",
+      "rationale": "The Korean describes the thought fading like an echo before noting that the maw hits the water at the same time.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Headline, line 327",
+      "current": "[**The miracle of twenty-four hours. Asia's star takes flight after falling to rock bottom!**]",
+      "defect": "“Rock bottom” adds a specific lowest-point image not established by the Korean, which says the star takes flight after a fall.",
+      "replacement": "[**The miracle of twenty-four hours. Asia's star takes flight again after a fall!**]",
+      "rationale": "추락 끝에 날아오른 describes taking flight after a fall; it does not specify reaching rock bottom.",
+      "confidence": 0.91
+    }
+  ]
+}
