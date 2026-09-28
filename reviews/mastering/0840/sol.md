@@ -2,7 +2,7 @@
 
 In the Sichuan Tang Clan, a family built around its bloodline, the Family Head’s authority was absolute. No—even if Tang Sadok hadn’t been the Family Head, that probably wouldn’t have changed much.
 
-The title Myriad-Poison Asura was enough to inspire both awe and fear.
+The name Myriad-Poison Asura inspired awe and fear all on its own.
 
 “Our family’s Benefactor must be tired after his long journey.”
 
@@ -12,9 +12,9 @@ The Sichuan Tang Clan’s martial artists, along with the visitors from Emei, Qi
 
 “So these are the pillars of the Fire Dragon Pavilion I’ve heard so much about.”
 
-Tang Sadok had been taking a good look at the members of the Fire Dragon Pavilion while I exchanged greetings with the others. Then he suddenly paused.
+While I exchanged greetings with the others, Tang Sadok looked over the members of the Fire Dragon Pavilion. Then he paused.
 
-“As I understand it, every member of the Fire Dragon Pavilion is young. Have you been struck by some deadly poison?”
+“I was told every member of the Fire Dragon Pavilion was young. Have you been struck by some deadly poison?”
 
 Namho, the old young man he’d singled out, answered with a face like he’d bitten into something foul.
 
@@ -22,9 +22,9 @@ Namho, the old young man he’d singled out, answered with a face like he’d bi
 
 “If not poison, then qi deviation?”
 
-“You trying to start something with me?”
+“Are you trying to start something?”
 
-“Ah, I only asked because I couldn’t sense any internal energy. In that case, perhaps your age is…”
+“Ah, I only asked because I couldn’t sense any internal energy. Then perhaps you’re simply…”
 
 “Seventy-five. I’m traveling with these fellows for a while, for reasons of my own.”
 
@@ -32,7 +32,7 @@ Namho, the old young man he’d singled out, answered with a face like he’d bi
 
 “I understand. We’re both getting old. It happens.”
 
-Though Namho practiced no martial arts, Tang Sadok regarded his confidence with interest. He showed kindness to Ju Hwaran, granddaughter of the Escort King, and to Song Ilseom, who’d reached an impressive realm at a young age. As for Sama Pyo and Taishan, who strictly speaking belonged to the demonic, heterodox arts, he simply gave them a silent nod.
+Tang Sadok regarded Namho with interest. Despite knowing no martial arts, the man carried himself with confidence. He showed warmth toward Ju Hwaran, granddaughter of the Escort King, and Song Ilseom, who had reached an impressive realm at a young age. As for Sama Pyo and Taishan, who strictly speaking belonged to the demonic, heterodox side of Murim, he merely gave them a silent nod.
 
 And then…
 
@@ -46,9 +46,9 @@ And then…
 
 A brief silence settled over us.
 
-Tang Sadok looked back and forth between me and Hyuk Mujin, who was slung over Taishan’s shoulder like a sack of luggage, then sighed.
+Tang Sadok looked from me to Hyuk Mujin, who was slung over Taishan’s shoulder like a sack of luggage, and sighed.
 
-“I’ll have someone look after your subordinates. For now, unpack and visit the Medical Hall in the Outer Court. They’ll treat him well.”
+“I’ll assign someone to look after your subordinates. For now, have them unpack and visit the Medical Hall in the Outer Court. They’ll treat him well.”
 
 At Tang Sadok’s gesture, a guard waiting nearby came forward. Taishan spoke in his usual flat voice.
 
@@ -62,15 +62,15 @@ At Tang Sadok’s gesture, a guard waiting nearby came forward. Taishan spoke in
 
 He really was a lunatic.
 
-I mean, if he was going to do that, why say anything in the first place?
+If he was going to leave anyway, why say anything in the first place?
 
-I stopped Ju Hwaran with a glance as she started to smack Taishan upside the head, then followed Tang Sadok toward the Inner Court.
+I stopped Ju Hwaran with a glance before she could smack Taishan upside the head, then followed Tang Sadok toward the Inner Court.
 
 “You earn people’s trust wherever you go. Here in Sichuan, and even among subordinates who’ve only recently joined you.”
 
 I answered with a quiet laugh. Watching the others slowly disappear from sight, I said, “Seems the same goes for you, Great Hero Tang. I didn’t expect them to still be at the Sichuan Tang Clan.”
 
-“It’s something I’m truly grateful for. I felt ashamed to keep relying on them, so I told them more than once that they were free to go… Yet they’ve stayed with our family all this time. They’re treating the sick who haven’t yet recovered and continuing to help rebuild the clan.”
+“I’m truly grateful. I felt shameless relying on them, so I told them more than once that they were free to leave… Yet they stayed. They’re treating patients who haven’t recovered and continuing to help rebuild our family home.”
 
 “I may not have seen everything, but the Outer Court already looks much as it used to.”
 
@@ -88,13 +88,13 @@ Knowing Tang Sadok as I did made it all the more surprising.
 
 “Mm. I suppose it was.”
 
-“I understand. Especially since you knew what I was like before all this happened.”
+“I understand. After all, you knew me before that happened.”
 
-“Of course. Back then, you really…had quite a temper.”
+“I did. Back then, you really…had quite a temper.”
 
-“Hah. I was.”
+“Hah. I did.”
 
-Tang Sadok let out a hearty laugh, and I gaped at him.
+Tang Sadok gave a hearty laugh. I stared at him.
 
 “Are you sure you’re feeling all right?”
 
@@ -170,19 +170,19 @@ Then a voice boomed like thunder, reaching my ears from more than a hundred *jan
 
 “They’re my patients!”
 
-“How many times have I told you that boy’s life is in danger if you don’t go now?”
+“How many times have I told you his life will be in danger if you don’t go now?”
 
 “If it were that bad, would I still be here? I heard about his condition and was sure he’d be all right—that’s why I said we should wait here! I’ve told you hundreds of times!”
 
-“No, but you—! I’m telling you, I don’t think that’s what’s going on!”
+“I’m telling you, my judgment is different!”
 
 “A physician makes that judgment, and I’m the physician!”
 
 “One martial artist knows another martial artist’s condition best. And I am Jeok Cheongang, the Fire King!”
 
-“My Master is both the Divine Physician and the Slaughter Saint! I inherited his teachings in full, so I know better than you do, Elder!”
+“My Master is both the Divine Physician and the Slaughter Saint! I inherited his teachings in full. I know better than you do!”
 
-“Hey, are you talking back to this old man because you’re counting on that man’s backing?”
+“Oh, so you think you can talk back to me because you have him behind you?”
 
 “Oh, so you’re going to insult my Master to my face?”
 
@@ -190,7 +190,7 @@ Then a voice boomed like thunder, reaching my ears from more than a hundred *jan
 
 “You know what? Do your worst! Strike my pressure points, kidnap me—I don’t care! But if you drag me away by force, I’ll refuse to treat him!”
 
-“Would you look at this quack! Fine! I’ll count to three! If you don’t get up with that damned travel bag by then, you’d better be ready! One!”
+“You damned quack! Fine, I’ll count to three! If you haven’t picked up that blasted bag and gotten to your feet by then, you’d better be ready! One!”
 
 “Two, three! Happy?”
 

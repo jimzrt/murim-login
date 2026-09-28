@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "granddaughter of the Escort King",
+      "defect": "The Korean identifies Ju Hwaran as part of the Escort King’s bloodline; it does not specify that she is his granddaughter.",
+      "id": "F01",
+      "rationale": "핏줄 establishes descent or blood relation without specifying a generation.",
+      "replacement": "a descendant of the Escort King",
+      "severity": "minor",
+      "source": "Line 39"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I’d woken briefly, then spent three more days asleep.",
+      "defect": "This makes the three days the duration of the sleep after waking. The source says the period spanning the brief awakening and falling asleep again was three days.",
+      "id": "F02",
+      "rationale": "The source describes the whole period as three days, not three additional days asleep.",
+      "replacement": "I’d woken briefly, then fallen asleep again. Three days had passed.",
+      "severity": "minor",
+      "source": "Line 133"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Once or twice would be bad enough.",
+      "defect": "The source complains that this has happened more than once or twice; this wording instead says even one or two times would be bad.",
+      "id": "F03",
+      "rationale": "한두 번도 아니고 means it is not merely once or twice, emphasizing repeated occurrences.",
+      "replacement": "And it’s not like this has only happened once or twice.",
+      "severity": "minor",
+      "source": "Line 221"
+    },
+    {
+      "confidence": 0.82,
+      "current": "You know what? Do your worst!",
+      "defect": "This drops the source’s crude “cut my belly open” expression, which gives the challenge a specific physical image and bluntness.",
+      "id": "F04",
+      "rationale": "배 째십시오 is the speaker’s vivid, defiant expression before listing pressure-point strikes and abduction.",
+      "replacement": "Ah, I don’t care. Cut me open if you want!",
+      "severity": "minor",
+      "source": "Line 205"
+    },
+    {
+      "confidence": 0.79,
+      "current": "The Disgrace King, Jeok Cheongang…!",
+      "defect": "The source’s 추왕 repeats the “ugly” image from the preceding joke; “Disgrace” shifts the epithet toward dishonor rather than ugliness.",
+      "id": "F05",
+      "rationale": "The source uses 추왕 after calling the scene 추하다, preserving the same ugly/shameful wordplay in the new title.",
+      "replacement": "The Ugly King, Jeok Cheongang…!",
+      "severity": "minor",
+      "source": "Line 259"
+    }
+  ],
+  "summary": "Mostly faithful, with a few small shifts in relationship, elapsed time, and comic phrasing.",
+  "version": 1
+}
