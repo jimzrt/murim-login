@@ -16,7 +16,7 @@ Ignoring the people staring back and forth between Ju Wongong and me with their 
 
 “You are a subject of the Great Nation! How dare you show such disrespect to a member of His Majesty the Emperor’s own bloodline?”
 
-“I have a friend named Johnson.[^1] If he were here, he’d have violated something else.”
+“I have a friend named Johnson. If he were here, he’d have violated something else.”
 
 “……!”
 
@@ -42,7 +42,7 @@ Although I answered casually, I was not entirely wrong.
 
 The imperial family bore the same Zhu surname as the Son of Heaven and carried the blood of dragons. That alone made them noble.
 
-Even though Murim[^2] and the government maintained a relationship of mutual noninterference, disrespecting or threatening an imperial relative was treated as a serious crime.
+Even though Murim and the government maintained a relationship of mutual noninterference, disrespecting or threatening an imperial relative was treated as a serious crime.
 
 There was a reason the Zhuge Clan retainer had been whining like a dog desperate to relieve itself.
 
@@ -66,9 +66,9 @@ I frowned at his whisper.
 
 At that moment, Ju Wongong misread our whispering and shouted triumphantly.
 
-“It seems you have finally grasped the gravity of the situation. But it is already too late! The imperial court will soon dispatch a hundred thousand troops to exterminate the nine branches of your kin,[^3] along with those of every other traitor!”
+“It seems you have finally grasped the gravity of the situation. But it is already too late! The imperial court will soon dispatch a hundred thousand troops to exterminate the nine branches of your kin, along with those of every other traitor!”
 
-“Oh. A Buster Call.[^4]”
+“Oh. A Buster Call.”
 
 “What have you been babbling about this whole time, you traitorous bastard?”
 
@@ -80,7 +80,7 @@ When unmistakable fury filled Ju Wongong’s eyes, the commoners sucked in their
 
 They seemed eager to avoid being dragged into someone else’s trouble. That meant fewer eyes watching us, so I had no complaints.
 
-*They keep threatening people with the nine branches of their kin[^3] whenever they get bored.*
+*They keep threatening people with the nine branches of their kin whenever they get bored.*
 
 Did they not bother with anything less?
 
@@ -168,7 +168,7 @@ I muttered,
 
 “That was… I shall apologize once again. I never dreamed that you possessed His Highness Prince Shangshan’s token.”
 
-“Oh, I see. So if I hadn’t had the token, you would’ve brought a hundred thousand troops to exterminate nine branches of my family,[^3] gouged out my eyes, and torn me limb from limb?”
+“Oh, I see. So if I hadn’t had the token, you would’ve brought a hundred thousand troops to exterminate nine branches of my family, gouged out my eyes, and torn me limb from limb?”
 
 “W-why would you say such a thing? Ha, ha-ha-ha.”
 
@@ -190,7 +190,7 @@ The direct imperial line possessed legitimacy and authority. Even by counting de
 
 *This is what they call using barbarians to defeat barbarians.*
 
-Defeat barbarians with barbarians, and a weak Celestial Dragon[^5] with a strong Celestial Dragon.[^5]
+Defeat barbarians with barbarians, and a weak Celestial Dragon with a strong Celestial Dragon.
 
 The chairman of my fan club was this formidable. Just thinking about it made my heart swell.
 
@@ -286,7 +286,7 @@ Like most courtesans, including Wolhwa, Honglan concealed her true name.
 
 And unlike Ju Wongong, who knew absolutely nothing about martial arts, she had received at least some training.
 
-*Lower District Sect?*
+—Lower District Sect?
 
 Her slender shoulder twitched at my Sound Transmission, and Honglan gave a slight nod.
 
@@ -328,11 +328,6 @@ I was about to turn away when Ju Wongong held something out to me.
 
 “……!”
 
-At this rate, my fan café would be reaching Leaf Level 2 soon.[^6]
+At this rate, my fan café would be reaching Leaf Level 2 soon.[^1]
 
-[^1]: Johnson is the name of an American talk-show host Taekyung has encountered; “johnson” is also slang for a penis.
-[^2]: Murim is the world of martial artists and their organizations.
-[^3]: Punishing nine branches of a person’s kin refers to extending a treason sentence across the offender’s family.
-[^4]: A Buster Call is an order for a devastating naval attack in *One Piece*.
-[^5]: The Celestial Dragons in *One Piece* are privileged nobles who claim exceptional status by birth.
-[^6]: Korean online fan cafés use membership ranks; “Leaf Level 2” is one such rank.
+[^1]: Korean online fan communities often use graded membership tiers named after stages of a leaf’s growth.
