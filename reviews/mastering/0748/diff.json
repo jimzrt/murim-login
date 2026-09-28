@@ -1,0 +1,2320 @@
+{
+  "baseline_blocks": 162,
+  "baseline_sha256": "34b498bab463196cda622825e3013eeabbd31bc4bf7173a17b66e5dc6a83c947",
+  "global_terminology_alerts": [
+    {
+      "korean": "인시",
+      "preferred": "Insi"
+    }
+  ],
+  "hunk_count": 122,
+  "hunks": [
+    {
+      "baseline": "Michael Silbert replied calmly to Huginn’s report.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "Michael Silbert listened to Huginn’s report and answered calmly.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ares Guild and Peace Guild have assembled five teams from their handpicked elites, and the Korean government is mobilizing the Air Force to send them to Tokyo. I prepared the profiles of the Hunters involved, just in case.”",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "“Ares Guild and Peace Guild have assembled five teams of handpicked Hunters, and the Korean government has mobilized the Air Force to take them to Tokyo. I’ve prepared the Hunters’ profiles, just in case.”",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The tablet Huginn handed over contained detailed personal information on the Hunters included in the relief force. Michael glanced at it, and a faint smile crossed his lips.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "13",
+      "sol": "Huginn handed him a tablet containing detailed information on every Hunter in the relief force. Michael glanced at it, and a faint smile crossed his lips.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well done. What about assistance from countries other than Korea?”",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "15",
+      "sol": "“Well done. Any assistance from outside Korea?”",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There is none at present. China could be a great help if it joined us, but it lost its core forces in the war against the Lich, and its relationship with Japan is poor. They will not respond to the request.”",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "17",
+      "sol": "“None at present. China would be a great help if it joined in, but it lost its core forces in the war against the Lich, and its relations with Japan are poor. It won’t answer the request.”",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "의지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Will"
+        }
+      ]
+    },
+    {
+      "baseline": "China had already suffered enormous losses from the Lich and the terrorist attack that had taken place in Beijing ten days earlier.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "China had already suffered enormous losses fighting the Lich and in the terrorist attack on Beijing ten days earlier.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even for China, which possessed an immense number of Hunters, confronting an apex monster capable of causing a disaster on its own was an enormous burden.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "Even with its vast number of Hunters, taking on a top-tier monster capable of causing a disaster by itself would be a heavy burden. All the more so when the request came from Japan, a country with which China had appalling diplomatic relations.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even more so when the country requesting assistance was Japan, with whom China had the worst possible diplomatic relationship.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "23",
+      "sol": "",
+      "sol_paragraphs": "after P10",
+      "sol_range": [
+        10,
+        10
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "중국",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "China"
+        },
+        {
+          "korean": "일본",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Japan"
+        }
+      ]
+    },
+    {
+      "baseline": "“There is no need to worry about China. Even if the old Chairman wants to help Jin Taekyung, the circumstances at home will not permit it.”",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "25",
+      "sol": "“There’s no need to worry about China. Even if the old Chairman wants to help Jin Taekyung, circumstances at home won’t allow it.”",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "의지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Will"
+        }
+      ]
+    },
+    {
+      "baseline": "Hearing those words, Huginn realized that there was something he had not yet been told.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "27",
+      "sol": "Huginn realized there was something he had not yet been told.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If anyone heard that, they might misunderstand. Terrorism is an unfortunate incident that no one can predict until it occurs. Don’t you agree?”",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "31",
+      "sol": "“Someone might get the wrong idea if they heard you say that. A terrorist attack is an unfortunate event no one can predict before it happens. Don’t you agree?”",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Under Michael’s unwavering gaze, Huginn lowered his head.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "33",
+      "sol": "Michael held his gaze. Huginn lowered his head.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "39",
+      "sol": "“…”",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And this is only my personal opinion, but I suspect Shanghai may become the next target.”",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "41",
+      "sol": "“And this is only my personal opinion, but I suspect Shanghai may be the next target.”",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His tone was casual, but Huginn could smell the thick blood embedded in those words.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "43",
+      "sol": "Michael’s tone was casual. Huginn could smell the blood in those words.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Shanghai was China’s most populous major city.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "45",
+      "sol": "Shanghai was China’s most populous metropolis. After Beijing, which had been struck ten days ago, another staggering loss of life was all but certain.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Following Beijing, which had been targeted by the terrorist attack ten days ago, it was obvious that an enormous number of people would perish.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "47",
+      "sol": "",
+      "sol_paragraphs": "after P21",
+      "sol_range": [
+        21,
+        21
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "베이징",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beijing"
+        }
+      ]
+    },
+    {
+      "baseline": "*China is certainly paying a steep price for siding with Jin Taekyung.*",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "49",
+      "sol": "*China is paying dearly for siding with Jin Taekyung.*",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When one thought about it, China was not the only country involved.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "51",
+      "sol": "And China was hardly alone.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This series of incidents, which most people regarded as indiscriminate terrorism, contained an element of punishment directed at the countries and Guilds that had shown friendly attitudes toward Jin Taekyung.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "53",
+      "sol": "Most people saw the series of attacks as indiscriminate terrorism. But the countries and Guilds that had shown Jin Taekyung a friendly face were being punished.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*And the result will be one of two things.*",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "55",
+      "sol": "*And it’ll end one of two ways.*",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "의지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Will"
+        }
+      ]
+    },
+    {
+      "baseline": "Huginn muttered inwardly as he looked at his superior.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "57",
+      "sol": "Huginn looked at his superior.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There stood a conqueror with the greatest ambition in the world, advancing toward a grand objective.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "59",
+      "sol": "There stood a conqueror with greater ambitions than anyone else in the world, pressing toward his grand objective.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But why was it?",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "61",
+      "sol": "So why did Huginn feel this way?",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The situation was unquestionably perfect.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "65",
+      "sol": "",
+      "sol_paragraphs": "after P29",
+      "sol_range": [
+        29,
+        29
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Leviathan was a monster as powerful as the Lich.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "67",
+      "sol": "",
+      "sol_paragraphs": "after P29",
+      "sol_range": [
+        29,
+        29
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        },
+        {
+          "korean": "레비아탄",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Leviathan"
+        },
+        {
+          "korean": "리치",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Lich"
+        }
+      ]
+    },
+    {
+      "baseline": "And unlike the Lich subjugation, which had involved no fewer than six S-rank Hunters, Jin Taekyung could not expect any outside assistance this time beyond the forces already at his disposal, including Japan’s.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "69",
+      "sol": "The situation was perfect. Leviathan was a monster as powerful as the Lich. And unlike the battle against the Lich, in which no fewer than six S-rank Hunters had taken part, Jin Taekyung could expect no outside help this time beyond the forces already at his disposal, including Japan’s.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If Jin Taekyung manages to overcome even this…*",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "73",
+      "sol": "*What if Jin Taekyung survives even this?*",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The thought came to him ominously.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "75",
+      "sol": "The thought would not leave him.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perhaps, just this once, his superior had made the wrong choice.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "77",
+      "sol": "",
+      "sol_paragraphs": "after P33",
+      "sol_range": [
+        33,
+        33
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perhaps this trap would instead become a sturdy rope that pulled Jin Taekyung out of the mire he had been trapped in.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "79",
+      "sol": "What if, just this once, his superior had made the wrong choice? What if this trap became the sturdy rope that pulled Jin Taekyung out of the mire?",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "However, Huginn’s worries were soon buried beneath a vibration that reached them.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "81",
+      "sol": "A vibration soon buried Huginn’s doubts.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Entry into the operation area complete. Preparing to descend in ten seconds.”",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "85",
+      "sol": "“Entering the operation area. Prepare to descend in ten seconds.”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The pilot’s report came through the speakers at the same time as the aircraft trembled. A moment later, his superior’s quiet voice reached Huginn’s ears.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "87",
+      "sol": "The pilot’s report came through the speakers as the aircraft shook. Then Huginn heard his superior’s quiet voice.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It has begun.”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "89",
+      "sol": "“It’s begun.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Michael’s gaze had already turned toward the window, his body clad in dazzling silver armor.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "91",
+      "sol": "Michael, now clad in dazzling silver armor, was looking out the window.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A major city engulfed in monstrous cries and enormous flames.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "93",
+      "sol": "",
+      "sol_paragraphs": "after P40",
+      "sol_range": [
+        40,
+        40
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There lay the battlefield where the name Michael Silbert would once again be etched into the minds of the entire world.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "95",
+      "sol": "A city engulfed in the cries of monsters and towering flames. The battlefield where the name Michael Silbert would once again be etched into the minds of the world.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Pressing down a helmet engraved with a crown, Michael looked like an ancient god as he continued speaking to his crow.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "99",
+      "sol": "He pressed a crown-engraved helmet onto his head. Looking like a god of old, he spoke to his crow once more.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "미카엘",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Michael"
+        }
+      ]
+    },
+    {
+      "baseline": "“Prepare for me to become the undisputed best.”",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "101",
+      "sol": "“Prepare to become the best—beyond anyone’s doubt.”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The wait had been long, and the pain had run deep.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "103",
+      "sol": "The wait had been long. The pain had been deep.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Now he wanted to paint himself across this world of vivid colors. Not Cheon Taemin, nor Jin Taekyung, but the name Michael Silbert.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "105",
+      "sol": "Now he wanted to paint his name across this many-colored world. Not Cheon Taemin’s. Not Jin Taekyung’s.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "미카엘",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Michael"
+        },
+        {
+          "korean": "실베르트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Silbert"
+        }
+      ]
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P52",
+      "baseline_range": [
+        52,
+        52
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "105",
+      "sol": "Michael Silbert’s.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Humanity, which ruled the five oceans and six continents, had given names of its own choosing to every living thing in the past and present.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "113",
+      "sol": "Humanity ruled five oceans and six continents. It had named every living thing it knew, past and present.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But there were certainly exceptions.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "117",
+      "sol": "But there were exceptions.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some beings passed down from the distant past possessed forms beyond humanity’s ability to comprehend and overwhelming power. It was difficult to explain them as anything else.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "119",
+      "sol": "Some beings passed down from the distant past had forms humanity could not fathom and powers it could not comprehend. No familiar creature could describe them.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Much like the being now driving humanity toward catastrophe.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "121",
+      "sol": "One such being was now bringing disaster upon humanity.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beneath deep waters filled with countless pieces of wreckage and mixed with blood, a gigantic mythical beast advanced with the waves, smashing and sweeping away everything that stood in its path.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "127",
+      "sol": "Deep beneath the water, where wreckage and blood mingled, a mythical beast of immense size moved with the waves. It smashed and swept away everything in its path.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some called it a crocodile. Others described it as a whale.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "131",
+      "sol": "Some called it a crocodile. Others compared it to a whale.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But in the end, humanity could not define it as anything.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "133",
+      "sol": "",
+      "sol_paragraphs": "after P58",
+      "sol_range": [
+        58,
+        58
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was far too enormous to be treated as a mere living creature, and it possessed a mysterious power that could not be explained.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "135",
+      "sol": "In the end, humanity could find no way to define it. It was too enormous to be treated as a mere animal, and it possessed a mysterious power no one could explain.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Thus, it was called an inexplicable monster. And after the passage of countless years, it came to possess a single name that meant only itself in this world.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "137",
+      "sol": "So they called it a monster beyond explanation. Over the centuries, it acquired a name that meant this creature and no other.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Far away, amid the screams of human beings, that name rang out.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "139",
+      "sol": "Far away, amid human screams, that name rang out.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s an order! B-rank Hunters and below, withdraw from the battlefield immediately…!”",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "143",
+      "sol": "“This is an order! All B-rank Hunters and below, leave the battlefield immedia—”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The shouts and screams that had echoed so loudly vanished. A wave containing an overwhelming force swallowed and pulverized everything.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "147",
+      "sol": "The shouts and screams vanished. A wave of overwhelming force swallowed and shattered everything in its path.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Humans. Buildings. Even the pitiful defensive Magic.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "149",
+      "sol": "People. Buildings. Even the pitiful defensive Magic.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After unleashing waves dozens of meters high and sweeping them in every direction, Leviathan let out a satisfied growl.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "153",
+      "sol": "Leviathan let out a satisfied growl as waves dozens of meters high swept through the surrounding area.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had truly been a long time.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "155",
+      "sol": "",
+      "sol_paragraphs": "after P68",
+      "sol_range": [
+        68,
+        68
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Since it had awakened from its tedious sleep. Since it had rampaged freely like this.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "157",
+      "sol": "It had been so long since it had awakened from that tiresome sleep. So long since it had rampaged to its heart’s content.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Leviathan thought of its master.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "161",
+      "sol": "Leviathan remembered its master.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An absolute ruler who had unified the chaotic Demon Realm and forced every monster into submission.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "165",
+      "sol": "The absolute ruler who had united the chaotic Demon Realm and brought every monster to heel.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But Asmodeus, powerful as he had been, had eventually fallen to human hands, and Leviathan had retreated into the deep sea to sleep.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "167",
+      "sol": "Yet even Asmodeus had fallen to human hands. Leviathan had retreated into the deep sea and gone to sleep.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With its master gone, it could no longer obtain the enormous quantities of magical power and food it had once enjoyed. To survive until the day its master returned, it had needed to conserve its strength.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "169",
+      "sol": "With its master gone, it could no longer obtain the vast quantities of magical power and food it once had. To survive until the day he returned, it had needed to conserve its strength.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And its wait had not been in vain.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "171",
+      "sol": "And the wait had not been in vain.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*It has changed. It cannot compare to the time when the Demon King was here, but it has definitely changed.*",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "173",
+      "sol": "*It’s changed. Nothing like it was when the Demon King was here, but it has changed.*",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Leviathan had been doubtful when it first awoke and crossed the ocean.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "175",
+      "sol": "",
+      "sol_paragraphs": "after P77",
+      "sol_range": [
+        77,
+        77
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "레비아탄",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Leviathan"
+        }
+      ]
+    },
+    {
+      "baseline": "But the closer it came to this place, the more clearly it understood.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "177",
+      "sol": "",
+      "sol_paragraphs": "after P77",
+      "sol_range": [
+        77,
+        77
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The abundant magical power permeating the water, the land, and the air.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "179",
+      "sol": "Leviathan had still been uncertain when it awoke and crossed the ocean. The closer it came to this place, though, the more clearly it sensed the abundant magical power permeating the water, the land, the air.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And what, exactly, had awakened it from its sleep.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "181",
+      "sol": "And what, exactly, had awakened it.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At some point, Leviathan’s enormous pupils flashed.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "185",
+      "sol": "Leviathan’s enormous eyes flashed.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the deep waters that had become part of the sea, a powerful energy reached it from among countless pieces of wreckage and human corpses.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "187",
+      "sol": "Deep below the surface, where the flooded city had become part of the sea, a powerful energy reached it from among countless pieces of wreckage and human corpses.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*That is…*",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "189",
+      "sol": "*That’s…*",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was no mistake. This was the source of a monster’s power—the appetizing scent of a Magic Gem.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "191",
+      "sol": "There was no mistaking it. The appetizing scent of a Magic Gem—the source of a monster’s power.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And not one touched by human hands, but a lump of pure magical power that retained all of its original energy.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "193",
+      "sol": "One untouched by human hands, still holding all its original energy. A mass of pure magical power.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An excellent source of food, more than enough to replenish the strength it had expended, had been waiting for Leviathan in the human settlement.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "195",
+      "sol": "There, in the humans’ own territory, waited a meal that would more than replenish the strength Leviathan had spent.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*So that was why.*",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "197",
+      "sol": "*So that’s why.*",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Leviathan realized how it had been able to awaken.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "199",
+      "sol": "",
+      "sol_paragraphs": "after P87",
+      "sol_range": [
+        87,
+        87
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "레비아탄",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Leviathan"
+        }
+      ]
+    },
+    {
+      "baseline": "With the magical power that had seeped into this world, and something containing energy of that magnitude, it had been entirely possible.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "201",
+      "sol": "Leviathan understood what had awakened it. The magical power now permeating the world, combined with something containing energy of that magnitude, had been enough.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Leviathan was the calamity and ruler of the sea. Its starving body, weakened by a long sleep, had responded to the waves of energy carried through the seawater.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "203",
+      "sol": "Leviathan was the calamity and ruler of the sea. Starved by its long sleep, its body had responded to the pulse of power carried through the seawater.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If I can make that magical power my own…*",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "205",
+      "sol": "*If I can make that magical power mine…*",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Greed filled Leviathan’s eyes. A feast had been laid out before it. There was no reason to refuse.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "207",
+      "sol": "Greed filled Leviathan’s eyes. A feast lay before it. Why refuse?",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As it advanced to swallow its prey, the water grew shallower and part of its back emerged from the sea, but the beast did not hesitate for even a moment.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "213",
+      "sol": "The water grew shallower as it advanced toward its prey, exposing part of its back. The beast did not hesitate.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had already assessed the situation. The humans blocking its path were weak, and seawater that obeyed its will surged in every direction.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "215",
+      "sol": "It had already assessed the situation. The humans in its path were weak, and all around it surged seawater that obeyed its will.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Countless arrows and lightning spells streaked through the air and plunged down. Hunters who had hastily gathered unleashed a concentrated volley with every ounce of strength they possessed.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "225",
+      "sol": "Countless arrows and lightning spells streaked through the air. The hastily assembled Hunters poured every ounce of strength into their volley.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the result was so pitifully insignificant that it was almost tragic.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "227",
+      "sol": "The result was dismal.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "인시",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Insi"
+        }
+      ]
+    },
+    {
+      "baseline": "After a series of explosions, the Hunters widened their eyes at the sight revealed before them.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "231",
+      "sol": "The explosions cleared. The Hunters stared.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A little scorching and dozens of wounds.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "235",
+      "sol": "A little scorching. Dozens of wounds.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—scratches.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "237",
+      "sol": "No. Scratches.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was the full extent of the damage they had inflicted on the monster before them. And the price that returned moments later was harsh.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "239",
+      "sol": "That was all the damage they had done to the beast. The price they paid for it was far worse.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "A massive tail suddenly emerged and struck the surface of the water.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "243",
+      "sol": "An enormous tail broke the surface and struck the water.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Seeing the waves surge upward with a thunderous roar, the tanks at the front clenched their teeth. They shifted their weight onto their legs, which were half submerged in water, and layered their Tower Shields together to form a wall.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "245",
+      "sol": "The tanks at the front clenched their teeth as a wave rose with a thunderous roar. They planted their half-submerged legs and layered their Tower Shields into a wall.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their movements were vigorous and as fast as lightning.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "249",
+      "sol": "They moved with practiced, lightning-fast precision.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Though there were fewer than a hundred of them, everyone who had remained there was at least a B-rank Hunter. As seasoned warriors, they knew their duty.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "251",
+      "sol": "Fewer than a hundred Hunters remained, but every one of them was at least B-rank. They were seasoned fighters. They knew their duty.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t retreat! Hold the line!”",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "255",
+      "sol": "“Don’t fall back! Hold!”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And at that moment, when the desperate shouts of the tanks blended with the mages’ incantations—",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "259",
+      "sol": "The tanks’ desperate shouts mingled with the mages’ incantations.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P127",
+      "baseline_range": [
+        127,
+        127
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "259",
+      "sol": "Then Leviathan spoke in a Demon Realm language none of them understood.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with Demon Realm language that no one there could understand, the enormous wave that had surged up around Leviathan advanced and split apart.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "263",
+      "sol": "The enormous wave rising around it surged forward and split.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "레비아탄",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Leviathan"
+        },
+        {
+          "korean": "마계어",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Realm language"
+        },
+        {
+          "korean": "마계",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Realm"
+        }
+      ]
+    },
+    {
+      "baseline": "*Splaaash!*",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "265",
+      "sol": "*Splaash!*",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One wave became dozens, and dozens became hundreds of streams of water. Filled with powerful magical power, they transformed into spears and descended upon the Hunters.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "267",
+      "sol": "One wave became dozens. Dozens became hundreds of streams. Charged with powerful magical power, they took the shape of spears and fell upon the Hunters.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A shock wave arrived with a thunderous roar and shook everything around them.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "271",
+      "sol": "The impact shook everything around them.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hundreds of spears made of water and magical power tore through the overlapping defensive Magic and crushed the Tower Shields that had stood before them like an iron wall.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "273",
+      "sol": "Hundreds of spears made of water and magical power tore through the layered defensive Magic and crushed the Tower Shields standing before them like an iron wall.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The water spears swallowed even the screams as they smashed through armor and cleaved bone and flesh.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "279",
+      "sol": "The water spears swallowed even the screams as they smashed armor and cut through flesh and bone.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As streams of water turned red with the blood they had absorbed, powerful winds blew over the heads of the Hunters collapsing to the ground.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "281",
+      "sol": "The streams ran red with blood. As Hunters crumpled beneath them, a fierce wind swept overhead.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Propellers spun violently.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "285",
+      "sol": "Propellers churned.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dozens of unmanned fighter jets arrived through the storm and unleashed the guns and missiles mounted on their airframes without the slightest hesitation.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "287",
+      "sol": "Dozens of unmanned fighter jets broke through the storm and immediately opened fire with their guns and missiles.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Destroying Leviathan?",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "289",
+      "sol": "Destroy Leviathan?",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They did not even dream of it.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "291",
+      "sol": "No one dreamed of it.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their only objective was to delay the monster, even for a brief moment, before the main force capable of confronting it arrived.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "293",
+      "sol": "Their only goal was to hold the monster up, however briefly, until the main force capable of fighting it arrived.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But contrary to the hopes of those watching the scene from the operations control room, Leviathan’s power and authority were simply too overwhelming.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "295",
+      "sol": "But the people watching from the operations control room had underestimated Leviathan’s power.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The primordial beast that controlled tidal waves and storms roared. Lightning fell from the sky, already filled with dark clouds, and swept over the unmanned fighter jets.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "299",
+      "sol": "The ancient beast that commanded tidal waves and storms roared. Lightning fell from the cloud-choked sky and swept through the unmanned jets.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Crashes and explosions. Or sinking.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "303",
+      "sol": "They crashed. Exploded. Sank.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the center of that calamity, Leviathan advanced, dragging its enormous body forward.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "305",
+      "sol": "At the center of the calamity, Leviathan drove its enormous body onward.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It felt slightly fatigued after its long sleep and the considerable magical power it had already expended, but such things did not matter in the slightest.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "307",
+      "sol": "Its long sleep and the considerable magical power it had spent had left it slightly tired. None of that mattered.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The lump of magical power that was rapidly drawing closer even now.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "309",
+      "sol": "That mass of magical power was drawing closer by the moment. Its scent was so appetizing it nearly overwhelmed Leviathan’s reason.",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As long as it had that thing, which gave off a scent so appetizing it could numb reason, it could recover its original strength.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "311",
+      "sol": "",
+      "sol_paragraphs": "after P143",
+      "sol_range": [
+        143,
+        143
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It could cover this land in a tidal wave and make it its own.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "313",
+      "sol": "With it, Leviathan could regain its former strength. Cover this land with a tidal wave and claim it for its own.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At last, with its prey before it, Leviathan opened its jaws wide.",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "317",
+      "sol": "At last, Leviathan reached its prey and opened its jaws wide.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Its maw, resembling that of a crocodile, swallowed in a single bite the corpses and wreckage submerged in the deep water—and the lump of magical power that existed somewhere among them.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "319",
+      "sol": "Its crocodile-like maw swept toward the corpses and wreckage submerged in the deep water—and the mass of magical power hidden somewhere among them—to swallow everything in one bite.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No, it tried to swallow them.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "321",
+      "sol": "It would have.",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next moment—",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "323",
+      "sol": "",
+      "sol_paragraphs": "after P148",
+      "sol_range": [
+        148,
+        148
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If not for a streak of light that descended onto the rippling surface of the water.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "325",
+      "sol": "But a streak of light fell onto the rippling water.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Blue-white light-flames imbued with searing heat burned through the waves.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "327",
+      "sol": "Blue-white light-flames, burning with tremendous heat, consumed the wave.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 151,
+  "sol_sha256": "d3977b15906aa9948a885b1c45e11c67030bc22b1aaf39d53b455889a7eff817",
+  "version": 1
+}

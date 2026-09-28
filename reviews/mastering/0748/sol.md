@@ -36,7 +36,7 @@ Michael held his gaze. Huginn lowered his head.
 
 “And this is only my personal opinion, but I suspect Shanghai may be the next target.”
 
-His tone was casual, but Huginn could smell the thick blood embedded in those words.
+Michael’s tone was casual. Huginn could smell the blood in those words.
 
 Shanghai was China’s most populous metropolis. After Beijing, which had been struck ten days ago, another staggering loss of life was all but certain.
 
@@ -48,7 +48,7 @@ Most people saw the series of attacks as indiscriminate terrorism. But the count
 
 *And it’ll end one of two ways.*
 
-Huginn muttered inwardly as he looked at his superior.
+Huginn looked at his superior.
 
 There stood a conqueror with greater ambitions than anyone else in the world, pressing toward his grand objective.
 
@@ -60,9 +60,9 @@ The situation was perfect. Leviathan was a monster as powerful as the Lich. And 
 
 But…
 
-*If Jin Taekyung manages to overcome even this…*
+*What if Jin Taekyung survives even this?*
 
-The thought came to him ominously.
+The thought would not leave him.
 
 What if, just this once, his superior had made the wrong choice? What if this trap became the sturdy rope that pulled Jin Taekyung out of the mire?
 
@@ -70,7 +70,7 @@ A vibration soon buried Huginn’s doubts.
 
 *Rrrrrumble.*
 
-“Entry into the operation area complete. Preparing to descend in ten seconds.”
+“Entering the operation area. Prepare to descend in ten seconds.”
 
 The pilot’s report came through the speakers as the aircraft shook. Then Huginn heard his superior’s quiet voice.
 
@@ -100,7 +100,7 @@ Rabbits. Dogs. Cats. Horses. Dinosaurs…
 
 But there were exceptions.
 
-Some beings passed down from the distant past possessed forms beyond humanity’s ability to comprehend and overwhelming power. It was difficult to explain them as anything else.
+Some beings passed down from the distant past had forms humanity could not fathom and powers it could not comprehend. No familiar creature could describe them.
 
 One such being was now bringing disaster upon humanity.
 
@@ -108,7 +108,7 @@ One such being was now bringing disaster upon humanity.
 
 A low cry reverberated in every direction.
 
-Beneath deep waters filled with countless pieces of wreckage and mixed with blood, a gigantic mythical beast advanced with the waves, smashing and sweeping away everything that stood in its path.
+Deep beneath the water, where wreckage and blood mingled, a mythical beast of immense size moved with the waves. It smashed and swept away everything in its path.
 
 *Craaaack!*
 
@@ -160,7 +160,7 @@ And what, exactly, had awakened it.
 
 Leviathan’s enormous eyes flashed.
 
-In the deep waters that had become part of the sea, a powerful energy reached it from among countless pieces of wreckage and human corpses.
+Deep below the surface, where the flooded city had become part of the sea, a powerful energy reached it from among countless pieces of wreckage and human corpses.
 
 *That’s…*
 
@@ -168,7 +168,7 @@ There was no mistaking it. The appetizing scent of a Magic Gem—the source of a
 
 One untouched by human hands, still holding all its original energy. A mass of pure magical power.
 
-An excellent source of food, more than enough to replenish the strength it had expended, had been waiting for Leviathan in the human settlement.
+There, in the humans’ own territory, waited a meal that would more than replenish the strength Leviathan had spent.
 
 *So that’s why.*
 
@@ -210,7 +210,7 @@ A little scorching. Dozens of wounds.
 
 No. Scratches.
 
-That was the full extent of the damage they had inflicted on the monster before them. And the price that returned moments later was harsh.
+That was all the damage they had done to the beast. The price they paid for it was far worse.
 
 *Whoooosh—BOOM!*
 
@@ -220,7 +220,7 @@ The tanks at the front clenched their teeth as a wave rose with a thunderous roa
 
 *Clack-clack-clack!*
 
-Their movements were vigorous and as fast as lightning.
+They moved with practiced, lightning-fast precision.
 
 Fewer than a hundred Hunters remained, but every one of them was at least B-rank. They were seasoned fighters. They knew their duty.
 
@@ -244,7 +244,7 @@ One wave became dozens. Dozens became hundreds of streams. Charged with powerful
 
 *KABOOOOOM!*
 
-A shock wave arrived with a thunderous roar and shook everything around them.
+The impact shook everything around them.
 
 Hundreds of spears made of water and magical power tore through the layered defensive Magic and crushed the Tower Shields standing before them like an iron wall.
 
@@ -268,7 +268,7 @@ No one dreamed of it.
 
 Their only goal was to hold the monster up, however briefly, until the main force capable of fighting it arrived.
 
-But contrary to the hopes of those watching the scene from the operations control room, Leviathan’s power and authority were simply too overwhelming.
+But the people watching from the operations control room had underestimated Leviathan’s power.
 
 *Goooooong.*
 
@@ -288,13 +288,13 @@ With it, Leviathan could regain its former strength. Cover this land with a tida
 
 *Grrrrraaaah.*
 
-At last, with its prey before it, Leviathan opened its jaws wide.
+At last, Leviathan reached its prey and opened its jaws wide.
 
 Its crocodile-like maw swept toward the corpses and wreckage submerged in the deep water—and the mass of magical power hidden somewhere among them—to swallow everything in one bite.
 
 It would have.
 
-If not for a streak of light that descended onto the rippling surface of the water.
+But a streak of light fell onto the rippling water.
 
 *Fwoooooosh! Craaaack!*
 
