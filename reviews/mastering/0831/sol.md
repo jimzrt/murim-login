@@ -1,6 +1,6 @@
 # Chapter 831
 
-I could’ve sworn I heard something like that.
+I could’ve sworn I heard it.
 
 *CRASH.*
 
@@ -20,13 +20,13 @@ Team Leader Choi strode forward, the Hero’s Sword held high, and countless Hun
 
 Toward somewhere the moonlight couldn’t reach.
 
-Toward a being standing alone, cloaked in darkness.
+Toward a lone figure standing there, cloaked in darkness.
 
 *No.*
 
 Not yet. Not yet.
 
-I reached out with all my strength. Through my blurring vision, I moved the body that had become entirely my own and took a step toward him.
+I reached out with all my strength. Through my blurring vision, I moved the body that was entirely my own again and took a step toward him.
 
 Demon King Asmodeus.
 
@@ -34,13 +34,13 @@ I could see the back of that calamity. He wasn’t enormous or grotesque.
 
 Even if all of this was an illusion that would never come to pass, I wanted to see his true form with my own eyes—the form no one had ever told me about.
 
-I wanted to catch even a glimpse of him buried in the deep darkness, to feel the power coiled within him, if only for a moment.
+I wanted to see him beneath that deep darkness, to feel the power coiled within it, if only for a moment.
 
-*More. Just a little more!*
+*Closer. Just a little closer!*
 
 I didn’t know.
 
-Maybe my desperate cry had echoed in my heart and reached him. Or maybe everything I was seeing and feeling wasn’t an illusion after all, but something else.
+Maybe my desperate, silent cry had reached him. Or maybe everything I was seeing and feeling wasn’t an illusion after all, but something else.
 
 There was only one thing I could be sure of: something had reacted to my soundless cry.
 
@@ -54,7 +54,7 @@ My heart lurched. An icy chill ran down my spine.
 
 It made no sense. It was impossible.
 
-But the Demon King was definitely turning toward me—and that was the last thing I saw.
+But the Demon King was turning toward me—and that was the last thing I saw.
 
 *Flash.*
 
@@ -62,7 +62,7 @@ Everything around me disappeared. Team Leader Choi and Xiao Shen, the countless 
 
 But the darkness did not disappear.
 
-No—an abyss-like presence was closing in, pressing in on me from every direction.
+No—an abyss-like presence was closing in from every direction.
 
 *What the hell is this…*
 
@@ -143,7 +143,7 @@ The chunks of stone that had hung in midair began to fall again. The Skeleton Ki
 
 Had even a second passed in reality?
 
-But I’d experienced at least several hours—years’ worth of illusions—and returned.
+But I’d been gone for at least several hours, experiencing years of illusions.
 
 There probably wasn’t a single survivor among those who’d gone through what I had. They must all have been absorbed by the Doppelganger.
 
@@ -155,7 +155,7 @@ Instead of answering the confused Skeleton King, I shook my head.
 
 Then I left him behind and faced the Doppelganger, which was staring up at me in a daze.
 
-“You—you… What are you…?”
+“You… What are you…?”
 
 *Rustle.*
 
@@ -167,7 +167,7 @@ What I’d torn apart with my flame-wreathed hands wasn’t just an illusion. It
 
 “…!”
 
-“Yeah. I figured there had to be some reason that dog barking its head off this whole time was cooperating so easily.”
+“Yeah. I thought that dog barking its head off about the King was cooperating a little too easily.”
 
 At my offhand remark, the Doppelganger shuddered.
 
@@ -189,21 +189,21 @@ I didn’t know why the Doppelganger and the System called me that.
 
 I didn’t know who had chosen me, or what the Ark was. I couldn’t know that right now.
 
-But if those two words referring to me weren’t just nonsense, then I knew at least this much: stopping that fucked-up scene the Doppelganger had shown me must be the mission I’d been given.
+But if those two names for me weren’t just nonsense, I knew this much: stopping that fucked-up future the Doppelganger had shown me must be the mission I’d been given.
 
 “Brace yourself. Everything you saw will soon become the future—and reality.”
 
-“Are you sure? I may be a genius, but I’m not exactly planning to die young.”
+“Are you sure? I may be a genius, but I’m not planning to die young.”
 
-The Doppelganger laughed out loud at my reply. Its helplessness and madness were impossible to hide now that it had accepted its complete Erasure.
+The Doppelganger laughed out loud at my reply. It had accepted its complete Erasure, and the emptiness and madness in its laughter were impossible to hide.
 
 “If the King returns, will you still be able to say that?”
 
 I thought of the deep darkness I’d seen in the illusion.
 
-I thought of that last glimpse of Demon King Asmodeus, whose appearance I’d never managed to make out clearly. I thought of the overwhelming strength I’d felt from him, even from a distance.
+I thought of Demon King Asmodeus, whose appearance I’d never managed to make out, and the overwhelming strength I’d felt from him even at a distance.
 
-*If I fought him, could I really win?*
+*If I fought him, could I win?*
 
 An empty question.
 
@@ -215,7 +215,7 @@ If that had been reality, and the power I’d felt was real, just meeting his ga
 
 But sometimes a question has more than one answer.
 
-Especially when I’m the one solving it.
+Especially when I’m the one answering it.
 
 “If I fought him as I am now, I’d definitely die. Miserably, without even managing to hurt him properly.”
 
@@ -229,9 +229,9 @@ At my answer, the Doppelganger’s laughter grew louder. It didn’t seem to car
 
 I looked at the Doppelganger as it fell silent and continued slowly.
 
-“If it were me right now. That’s the most important premise.”
+“As I am now. That’s the important part.”
 
-At some point, I’d changed. I’d had no choice but to change in order to survive, in order to protect what mattered.
+At some point, I’d changed. I’d had no choice but to change to survive and to protect others.
 
 I’d thrown away the caution I’d held on to as an F-rank Hunter. Sometimes I’d faced my enemies boldly—and with even greater recklessness.
 
@@ -241,7 +241,7 @@ And every time I risked my life in a fight, I’d reaped the rewards of that ris
 
 The man I am now and the man I’ll be in the future are different.
 
-So the future has to change, too. Whatever risks I have to take—even if it costs me my life—I’ll change it with my own power.
+So the future has to change, too. Whatever risks it takes—even if it costs me my life—I’ll change it with my own power.
 
 That’s all I can do. And it must be why someone I don’t know chose me.
 
@@ -255,7 +255,7 @@ I won’t be shaken by some horrible illusion or a few words from the Doppelgang
 
 I was tired. I felt like I could collapse at any moment.
 
-But as I looked down at the Doppelganger, which had stiffened, I wanted to make sure I said this.
+But as I looked down at the Doppelganger’s stiffened face, there was one thing I wanted to tell it.
 
 “The future’s already changed.”
 
@@ -265,9 +265,9 @@ I pulled at the corner of my mouth, stiff with dried blood. Fighting off the sle
 
 I didn’t know exactly what the Doppelganger had planned to do or what it had hoped to achieve.
 
-I’d wanted to hear it directly from the thing itself, but it would be completely gone in a few seconds. There was no point asking now.
+I’d wanted to hear it from the thing itself, but it would be completely gone in a few seconds. There was no point asking now.
 
-I could find everything out.
+I could find out the rest.
 
 Even if I had to scour the whole world, I’d track down every trace of the Doppelganger and pull up the roots it had left behind. Then the illusion would remain an illusion.
 
@@ -287,13 +287,13 @@ An organization that transcended gender, race, age, and national borders.
 
 I was the Alliance Leader at the head of that vast federation.
 
-Everyone had chosen me. Everyone trusted and followed me. So there was no room in my heart for the word *impossible*.
+Everyone had chosen me. Everyone trusted and followed me. There was no room in my heart for the word *impossible*.
 
 “So…”
 
 My voice trailed off, growing weak.
 
-My vision slowly tilted against my will. Without a word, the Skeleton King suddenly came up beside me and reached out to support me.
+My vision slowly tilted against my will. Without a word, the Skeleton King appeared beside me and reached out to support me.
 
 He helped me finish what I hadn’t yet managed to say.
 
@@ -301,17 +301,17 @@ He helped me finish what I hadn’t yet managed to say.
 
 *Whoosh.*
 
-My toe came down hard, with a heavy rush of air.
+My foot came down hard, cutting through the air with a heavy rush.
 
 And in that moment, something inexplicable caught my eye through my hazy vision.
 
 *Was it… smiling?*
 
-I couldn’t possibly know.
+I couldn’t tell.
 
 Was the smile an illusion brought on by exhaustion? Or was it a reality I couldn’t understand?
 
-Before I could even think back over that fleeting question, the toe, still wreathed in a faint flame, had already stamped down on the shadow. It led a monster that had lived through ages beyond imagining to Erasure.
+Before I could think any further, my foot, still wreathed in a faint flame, stamped down on the shadow. It brought a monster that had lived through ages beyond imagining to Erasure.
 
 *BOOM!*
 
