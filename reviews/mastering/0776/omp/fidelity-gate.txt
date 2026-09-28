@@ -1,0 +1,15 @@
+{
+  "summary": "One minor physical-detail shift: the source describes the heat and the neck pain as separate sensations.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 251–253",
+      "current": "Michael felt the heat in them as keenly as a searing pain at the back of his neck, beneath his armor.",
+      "defect": "The comparison makes the heat feel like the neck pain, while the source says the heat reached him in full and a sizzling, searing pain then spread across the back of his neck.",
+      "replacement": "The heat in them reached him in full, and a searing pain, as if his skin were sizzling, spread across the back of his neck beneath his armor.",
+      "rationale": "The Korean describes two sensations: 열기가 고스란히 전해지다 (the heat was conveyed in full) and a 지지는 듯한 작열통 (sizzling, searing pain) at the nape beneath his armor.",
+      "confidence": 0.91
+    }
+  ]
+}

@@ -8,7 +8,7 @@ Do heroes appear first, bringing troubled times in their wake?
 
 Or do troubled times give rise to heroes?
 
-Even after many years had passed, no clear answer had emerged that could satisfy everyone. But when faced with the history of the Great Cataclysm, even those who had argued for the former were forced to turn toward the latter.
+No answer has satisfied everyone, even after all these years. But the Great Cataclysm forced even those who believed the former to consider the latter.
 
 A Great War unlike any other in human history.
 
@@ -60,7 +60,7 @@ And new faces were filling the seats left empty by those who were gone.
 
 “Fifteen? Were you…?”
 
-“Yes. I was one of the citizens in the bunker. You may not remember, Senior, but you saved my life back then.”
+“Yes. I was one of the civilians in the bunker. You won’t remember, but you saved my life.”
 
 “Well, I’ll be.”
 
@@ -106,7 +106,7 @@ But… no. It couldn’t be. It was absurd.
 
 Only one person could have done so: Cheon Taemin.
 
-Even he, who had reached a one-of-a-kind realm, had merely sensed something in passing at the time. Michael Silbert, who had immediately noticed the warning sign, had been forced to lie low like a wanted criminal for a long time.
+Even he, at a realm no one else had reached, had only sensed something in passing. Michael had immediately realized what had happened and spent years lying low like a wanted man.
 
 Until Cheon Taemin disappeared from the public eye.
 
@@ -116,9 +116,9 @@ Until Michael was certain Cheon Taemin’s attention had shifted away from him.
 
 As his unease grew, Michael shook his head inwardly.
 
-Bravado meant to search for one final opening after everything was already over. The last desperate struggle of someone who had sensed his defeat.
+No. Jin’s words were nothing but bravado. A bluff meant to find one last opening when everything was already over. The final struggle of a man who knew he had lost.
 
-But why?
+Then why couldn’t Michael shake the memory of him?
 
 Even as he dismissed it as a bluff, Jin’s image rose before him like a haze, clouding his eyes and ears.
 
@@ -172,9 +172,9 @@ Yes. This was power.
 
 This was why he had to gain authority by any means necessary.
 
-The actions of the strong were always justified by the weak who feared their power.
+The strong could do anything, and the weak who feared them would justify it.
 
-It did not matter if they did not respect him. It did not matter if they did not love him.
+It didn’t matter if they respected him. It didn’t matter if they loved him.
 
 If he could make them afraid—if he could reign over them rather than lead them—he would have everything.
 
@@ -190,7 +190,7 @@ Grand Mage Magic Johnson. Chuck Hagel, who had resigned as United States Secreta
 
 They were formidable figures, even among the people gathered here from around the world. But their side held fewer than half of the three hundred seats.
 
-*The old generation must have come here looking only toward Sky, while the new generation followed Jin Taekyung.*
+*The old guard followed Sky. The younger ones followed Jin Taekyung.*
 
 But whom would they support once Cheon Taemin’s condition became known?
 
@@ -214,7 +214,7 @@ He slipped a hand into his pocket.
 
 The moment he pressed the pager inside, sending a signal to someone, his eyes met Jin Taekyung’s.
 
-A pair of reddish, heated eyes.
+Jin’s eyes glowed faintly red.
 
 Michael felt the heat in them as keenly as a searing pain at the back of his neck, beneath his armor.
 
@@ -270,7 +270,7 @@ Not today. Not tomorrow or the day after. Perhaps not before this second Great W
 
 “What in the world…?”
 
-“Where is Sky? Where is that person?”
+“Where is Sky? Where is he?”
 
 What everyone had taken for a simple mix-up set off a rising murmur, then shock and confusion.
 
