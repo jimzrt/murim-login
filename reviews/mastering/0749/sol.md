@@ -20,7 +20,7 @@ As realization struck, the world seemed to slow. Leviathan could see and feel it
 
 A mighty force, swift as lightning and carrying the heat of the sun.
 
-The flames plunging down and swallowing the blue surface were headed straight for it.
+The flames plunging down through the blue surface were headed straight for it.
 
 *Splaaash!*
 
@@ -62,7 +62,7 @@ And through the owner of that spear flowed the blood of a species Leviathan had 
 
 —How can a mere human…!
 
-At the cry of the mythical beast, filled with undisguised astonishment, the small and insignificant human answered by merely moving his lips.
+The mythical beast’s cry rang with undisguised shock. The small, insignificant human answered by moving his lips.
 
 One Annihilation.
 
@@ -124,13 +124,13 @@ As I grew stronger, the power of One Annihilation had risen exponentially—unti
 
 *Damn it.*
 
-I was dizzy. My breathing was ragged.
+I was dizzy. I could barely breathe.
 
 My body had gone beyond exhaustion and was screaming in agony. My dantian, dry as a desert, begged me to stop.
 
 The backlash was so severe I could not move a finger.
 
-But if I had not anticipated a situation like this, I would never have attempted something as insane as firing One Annihilation in the first place.
+But if I had not expected this, I would never have done something as insane as opening with One Annihilation.
 
 *Open Inventory. Summon.*
 
@@ -140,7 +140,7 @@ The System responded to my thought. A silhouette appeared in my blurred vision, 
 
 I never thought I would be so glad to hear that rude tone.
 
-Seeing me grin despite the pain, the Skeleton King clicked his tongue and shoved a small crystal bottle into my mouth.
+The Skeleton King clicked his tongue at my grin and shoved a small crystal bottle into my mouth.
 
 A solution available only in this world.
 
@@ -158,7 +158,7 @@ The moment I managed to swallow it, a refreshing energy spread through every par
 >
 > - All status abnormalities have been removed!
 
-My empty dantian filled to the brim. My torn muscles knitted back together, and my hazy vision became clear and sharp.
+My empty dantian filled. Torn muscles knitted together, and my blurred vision cleared.
 
 Healing power on par with a Level Up.
 
@@ -168,7 +168,7 @@ But the warning that followed caught even me off guard.
 
 > **System**
 >
-> - The special debuff, **Broken Body**, rejects the effect!
+> - The special debuff, **Broken Body**, resists removal!
 >
 > - This debuff cannot be removed by artificial means!
 >
@@ -194,9 +194,9 @@ The maw said to have once torn an aircraft carrier apart in a single bite had be
 
 Even so, the monster had been incredibly lucky.
 
-If it had not instinctively turned its head at the last moment—and if this had been land instead of underwater—it would have met its end long ago.
+If it had not instinctively turned its head at the last moment—and if we had been on land instead of underwater—it would already be dead.
 
-*I should have finished it with one strike.*
+*I should have finished it in one blow.*
 
 A shame, but there was nothing I could do about it.
 
@@ -218,19 +218,19 @@ It lasted only twenty-four hours each time I activated it. Worse, its clash with
 
 *Fwoooooosh!*
 
-I moved as quickly as though I were using a movement technique on land.
+I moved as fast as I would using a movement technique on land.
 
 Still howling in pain, Leviathan spotted us closing in and roared.
 
 —GRAAAAAAAH!
 
-The instant it opened its half-torn maw as wide as it could—
+The moment it opened its half-torn maw wide—
 
 *Krrrk. Krrrrrk!*
 
 The flow of the water changed. Though there was not a breath of wind underwater, everything around us was sucked toward its maw as if caught in a tornado.
 
-It was a scene worthy of a disaster.
+A disaster unfolding before my eyes.
 
 But I did not stop. I planted a foot on a nearby piece of wreckage and kicked off, picking up speed.
 
@@ -284,7 +284,7 @@ Now I understood why the monster had suddenly reappeared after decades in hiding
 
 —Stop it!
 
-Bones rose upward like a growing tree and forcefully pushed against the tips of my feet.
+The Skeleton King thrust out a hand as he shouted. Bones rose like a growing tree and drove against the tips of my feet.
 
 *Bang!*
 
