@@ -1,0 +1,25 @@
+{
+  "summary": "Two source details preserved in the accepted baseline are missing from the assembled English.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 107–109",
+      "current": "Jin swallowed his groan and evaded the attack that came immediately after.",
+      "defect": "Omits the dull impact and Jin’s body shaking before he swallows his groan and dodges.",
+      "replacement": "A dull impact rang out, and Jin’s body shook. He swallowed his groan and evaded the attack that came immediately after.",
+      "rationale": "The source explicitly describes the impact sound and Jin’s body shaking; both details appeared in the accepted baseline.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean lines 181–185",
+      "current": "Leviathan tilted its head without realizing it.",
+      "defect": "Omits the reveal of the screaming being over Jin’s shoulder in Leviathan’s pupil.",
+      "replacement": "Leviathan tilted its head without realizing it. Over Jin Taekyung’s shoulder, a being screaming horribly appeared in the monster’s pupil.",
+      "rationale": "The source explicitly locates the screaming being over Jin’s shoulder and shows it reflected in Leviathan’s pupil; the accepted baseline preserved this visual detail.",
+      "confidence": 0.99
+    }
+  ]
+}

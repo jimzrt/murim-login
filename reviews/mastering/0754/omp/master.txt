@@ -4,7 +4,7 @@
 
 Intense heat scorched the air and evaporated the moisture in its path.
 
-A single streak of flame fell like a meteor. Leviathan’s eyes widened as it twisted its body, forgetting even the pain that had come before.
+A streak of flame fell like a meteor. Leviathan’s eyes widened. Forgetting even the pain of the earlier attack, it twisted its body aside.
 
 *Shhk!*
 
@@ -50,9 +50,9 @@ A vast shadow covered a radius of several hundred meters. Magical power churned 
 
 “Damn it, I told you I don’t taste good…”
 
-The Skeleton King muttered blankly.
+The Skeleton King stared at it in disbelief.
 
-At that very moment—
+Then—
 
 “Get lost.”
 
@@ -70,7 +70,7 @@ A small human figure shot through the collapsing spray. Leviathan roared in fury
 
 *Whoooooosh!*
 
-Streams of water surged up from every direction and shot toward Jin Taekyung’s entire body.
+Streams of water surged up from every direction and shot toward Jin Taekyung.
 
 Each carried enough force to pierce an aircraft carrier. An ordinary human wouldn’t stand a chance.
 
@@ -100,13 +100,13 @@ His hands and feet felt heavy. He wasn’t as fast as he used to be, and he was 
 
 **Broken Body** was taking an enormous toll in combat.
 
-It might have been different if he had never possessed those capabilities in the first place. But with every attribute except Intelligence drastically reduced, the resulting void left his body unable to properly carry out the commands from his mind.
+If he had never had that strength to begin with, it might have been different. But every attribute except Intelligence had fallen drastically. His body could no longer keep up with the commands his mind gave it.
 
 Just like now.
 
 *Thud!*
 
-Jin swallowed his groan and evaded the attack that came immediately after.
+A dull blow knocked him off balance. Jin swallowed a groan and dodged the next attack.
 
 *Boom! Boom! Boom!*
 
@@ -144,11 +144,11 @@ The moment the spearhead met the barrier of magical power shielding Leviathan’
 
 It struck toward the human who had dared defy a myth.
 
-*Fwoosh!*
+*Flash!*
 
 In the slowed world, dozens of lightning bolts plunged from high above.
 
-They emerged as dozens, but by the time they reached their destination, they had merged into one. That destructive force of nature was sucked toward a single point as though drawn there by something.
+They began as dozens, but converged into a single column before reaching the sea. As though drawn by something, that destructive force rushed toward one point.
 
 *Crackle, crackle, crackle!*
 
@@ -166,7 +166,7 @@ The voltage was in the billions of volts. No matter how strong the human was, he
 
 Leviathan blinked its enormous eye.
 
-Beyond the slowly fading flash, the human who should have been standing there with his flesh burned and his bones shattered by the lightning was staring back at Leviathan completely unharmed.
+Beyond the fading glare, the human who should have been burned to the bone by now was looking straight back at it. Completely unharmed.
 
 He even spoke, looking a little embarrassed.
 
@@ -178,7 +178,7 @@ He even spoke, looking a little embarrassed.
 
 What?
 
-Leviathan tilted its head without realizing it.
+Leviathan tilted its head without realizing it. Over Jin Taekyung’s shoulder, it saw the source of that horrific scream.
 
 “Gyaaaaaaaah…”
 
@@ -190,21 +190,21 @@ The Skeleton King glanced down at his smoking body, then awkwardly lowered the s
 
 “Great timing. Good lightning-rod strategy.”
 
-“I only drew this to help you… No, as expected, you saw through my strategy perfectly. Not bad.”
+“I only drew this to help you… No, of course. You saw through my strategy perfectly. Not bad.”
 
 —…!
 
-What the hell were these bastards?
+*What the hell is wrong with these bastards?*
 
 For a moment, Leviathan couldn’t make sense of any of it.
 
-That instant of distraction was enough to disrupt the flow of magical power that had been as solid as a wall with no gaps.
+That moment of distraction was enough to disrupt the flow of magical power that had sealed its defenses without a gap.
 
 *Crack!*
 
 The fissure was tiny compared to the whole barrier.
 
-But it was exactly the opening Jin Taekyung had been desperately waiting for, and the flame dwelling in the spearhead smashed through the wavering magical power and plunged toward its target.
+But it was the opening Jin Taekyung had been waiting for. The flames around his spearhead broke through the wavering magical power and plunged toward their target.
 
 *Thrust!*
 
@@ -230,11 +230,11 @@ Its enormous head saved it from death, but the pain was beyond anything the myth
 
 Terrifyingly powerful Fear spread outward from Leviathan.
 
-Marine creatures crouching in the deep sea rolled their eyes back and floated upward, while countless birds fleeing far away after sensing the danger that was about to arrive suddenly fell from the sky.
+Marine creatures huddled in deep water rolled their eyes back and floated to the surface. Countless birds that had sensed the coming danger and fled far away fell from the sky.
 
-At this moment, Leviathan was angrier than it had ever been.
+Leviathan had never been angrier.
 
-*I’ll kill them. I must!*
+*I’ll kill them. I swear it!*
 
 It would tear them apart until no one could recognize them. The human who had inflicted this pain and the traitor who had turned on its own kind would die the most gruesome deaths it could give them.
 
@@ -242,7 +242,7 @@ But amid the pain and fury that consumed Leviathan, fear raised its head.
 
 *How?*
 
-The enemies had not only inflicted such a massive wound upon it the day before—they had deceived its senses and lured it into a trap.
+Those two had wounded it terribly just a day ago. Now they had deceived its eyes and ears and lured it into a trap.
 
 Especially the human. That tiny creature had driven a weapon into its head and wielded a power Leviathan couldn’t begin to understand.
 
@@ -252,7 +252,7 @@ During the Great Cataclysm, such a thing would have been unimaginable.
 
 Leviathan had roamed the five oceans and sent countless lives to watery graves. Even the humans considered the strongest had failed each time they tried to hunt it.
 
-Leviathan had always been the one doing the hunting.
+No. Leviathan had always been the hunter.
 
 It had been born a ruler and lived as a predator. In the vast sea, humans had always been prey—not even enough for a mouthful.
 
@@ -264,9 +264,9 @@ The Demon King Asmodeus.
 
 —…!
 
-In that instant, Leviathan’s eyes, stained with pain and anger, opened wide.
+Leviathan’s eyes widened.
 
-*Could this bastard be…?*
+*Could this be…?*
 
 It had heard of a human who had stood against its mighty master.
 
@@ -278,11 +278,11 @@ It had to be. There couldn’t be two humans this strong.
 
 Leviathan’s mistaken conclusion swelled into terror. Its anger vanished, leaving only one thought.
 
-*I have to run. As far away as possible. I have to get away from him!*
+*Run. As far as I can. Get away from him!*
 
 Anger? Fighting spirit?
 
-None of that mattered. If this human had defeated the Demon King Asmodeus, whom Leviathan had served as its master, then its own fate was practically decided.
+Neither meant a thing. If this human had defeated Asmodeus, Leviathan’s own fate was all but decided.
 
 —GROOOOOOAR!
 
@@ -306,9 +306,9 @@ No human should have possessed such strength. In the end, only one way out remai
 
 The deep sea.
 
-The place where Leviathan had first opened its eyes. An unknown domain deep beneath the ocean that no enemy had ever been able to invade.
+The place where Leviathan had first opened its eyes. An unknown realm far beneath the surface, where no enemy had ever reached it.
 
-If it reached that place, even this tenacious and terrifying human would be shaken off.
+If it could get there, even this relentless, terrifying human would fall away.
 
 *Whoosh!*
 
