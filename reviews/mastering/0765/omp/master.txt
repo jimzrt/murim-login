@@ -10,7 +10,7 @@ But if we crossed that line and clashed, there would be no turning back. One of 
 
 I had no intention of backing down. Now that he had found a fatal weakness, one step backward would be the end of me.
 
-*Tap. Tap. Crash!*
+*Tap. Crack. Crash!*
 
 The coffee cup cracked, then burst apart.
 
@@ -18,7 +18,7 @@ At the same instant, I sensed dozens of people racing toward us like streaks of 
 
 *Bang!*
 
-The alloy door was ripped off in an instant, and a piercing sound rang out.
+The alloy door was torn away in a single blow. Air whistled as the intruders rushed through the opening.
 
 In the blink of an eye, the loyal hounds had entered the aircraft, wagging their tails at their master.
 
@@ -58,9 +58,7 @@ I stared at him, then slowly reined in my aura.
 
 I hated it, but he was right.
 
-As long as the world did not realize what he truly was, even if I killed him here and eliminated the threat of future consequences, I would be branded the worst kind of murderer and criminal.
-
-I would have to spend the rest of my life running from pursuit and surveillance worse than those aimed at a public enemy of the Murim, while my family and friends lost their ordinary lives completely.
+As long as the world remained blind to what Michael Silbert really was, killing him here would make me a murderer in everyone’s eyes, even if it eliminated the threat he posed. I’d spend the rest of my life fleeing pursuit and surveillance worse than anything a public enemy of the Murim would face. My family and friends would lose their ordinary lives along with me.
 
 That was what frightened me most, and Michael knew it.
 
@@ -90,9 +88,9 @@ Michael already knew the Skeleton King’s identity. He also knew that, however 
 
 My fist trembled beneath the table. I kept my voice as even as I could.
 
-“What if I help you?”
+“What happens if I help you?”
 
-“The World Hunter Federation takes root. Without any controversy. Cleanly.”
+“The World Hunter Federation takes root. No objections, no trouble. A clean start.”
 
 He dropped a sugar cube into his coffee.
 
@@ -134,15 +132,15 @@ During the Great Cataclysm, the World Hunter Federation had earned its praise by
 
 Michael Silbert was their opposite.
 
-A man who caused disasters without hesitation for the sake of his own interests and power. A monster consumed by endless desire was sitting across from me.
+The man across from me caused disasters without a second thought if they served his interests. A monster consumed by a hunger for power sat where a true hero should have been.
 
-In place of the true hero, who had fallen into an indefinite coma, that monster sat across from me.
+That hero was trapped in a coma with no end in sight.
 
 “…Cheon Taemin.”
 
 The name escaped me like a groan. Michael’s face stiffened for a moment before he smiled faintly.
 
-“Ah, yes. Sky. He was there.”
+“Ah, yes. Sky. There’s him.”
 
 *Click.*
 
@@ -164,7 +162,7 @@ I finally understood what Michael wanted. I bit my lip.
 
 “…!”
 
-“But the fortunate thing for the people is that Sky recommended someone else as his replacement. The captain who will lead the newly born ark known as the World Hunter Federation. Another hero of the Great Cataclysm known throughout the world, someone else who stopped the spread of terrorism through a noble spirit of sacrifice.”
+“Fortunately for the people, Sky will recommend someone to take his place. A captain for the ark that is the new World Hunter Federation. Another hero of the Great Cataclysm, known throughout the world. Someone who, through noble self-sacrifice, prevented terrorism from spreading.”
 
 My breath caught.
 
@@ -182,7 +180,7 @@ He wanted more than my help. He wanted me to put him on the throne.
 
 Once all those gears, large and small, had turned together, every accusation that he’d revived the World Hunter Federation for his own power would disappear. Everyone would seem to have urged him to take the throne.
 
-Without any disturbance or suspicion.
+No objections. No suspicions.
 
 With the support of Cheon Taemin, humanity’s living savior, and of me, his greatest obstacle, he would have an unassailable claim. The next savior—and a king with immense power at his command.
 
@@ -204,13 +202,13 @@ He drained his coffee and added calmly, “And I need the World Hunter Federatio
 
 “…!”
 
-At those words, something hot surged up from deep in my dantian.
+Something hot surged up from deep in my dantian.
 
 *Grind.*
 
 I glared at him, fire in my eyes. My fists were clenched so tightly they’d turned white, ready to erupt like volcanoes.
 
-For the sake of the power he wanted—*that* paltry thing—dozens of cities had been destroyed and more than a few million people had died.
+For the sake of the power he wanted—*that* paltry thing—dozens of cities had been destroyed and millions of people had died.
 
 And that wasn’t all. Black smoke from the collapsed forests of buildings and the burning streets had blotted out the sun. Survivors who had barely escaped the sudden disaster now huddled in bomb shelters and their homes, clutching family and friends as they trembled in fear.
 
@@ -224,7 +222,7 @@ Blue-white flames surged from the fist that had been trembling all this time. Po
 
 Rage seized my entire body. Killing intent rose with it, and I drove my fist forward.
 
-*Whoom! Roooar!*
+*Whoom. Crash!*
 
 *Flame-Extinguishing Divine Fist.*
 
@@ -244,13 +242,13 @@ A tremendous blast shook everything around us. I withstood the shockwave driving
 
 At the last instant, he had drawn his sword like lightning and caught the Flame-Extinguishing Divine Fist on its blade.
 
-*Sizzle-sizzle-sizzle!*
+*Sizzle!*
 
 A gray aura, the color of its master’s eyes, gleamed ominously. From beyond the blade pressed against my blue-white flames, his low voice reached me.
 
 “I’m warning you. If you don’t stop here, there really will be no going back.”
 
-*Shhhk!*
+*Whoosh!*
 
 There was still one last line we hadn’t crossed. As his warning sank in, I sensed Huginn and the guards approaching behind me. I closed my eyes.
 

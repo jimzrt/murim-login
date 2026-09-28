@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "He also knew that, however angry I was, I couldn’t kill him here.",
+      "defect": "“Here” makes the limitation location-based. The Korean says Michael knew I could not kill him immediately.",
+      "id": "F01",
+      "rationale": "The source phrase 당장 ... 죽이지 못하리라는 means “couldn’t kill him right away”; it does not specify that the aircraft or current location is the constraint.",
+      "replacement": "He also knew that, however angry I was, I couldn’t kill him right away.",
+      "severity": "minor",
+      "source": "Chapter 765, lines 97–99"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall; one minor temporal detail shifts in the narration.",
+  "version": 1
+}
