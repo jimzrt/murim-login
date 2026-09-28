@@ -8,31 +8,31 @@ I’d only raised my spear. So where had that whistle cutting through the air be
 
 And what the hell gave those idiots the confidence to charge at me?
 
-In that brief instant, split into even smaller fragments, I turned and brought my spearhead down.
+In that fraction of an instant, I turned and brought my spearhead down.
 
 *Whooom. Kaang!*
 
-The pressure bursting along the spearhead knocked away a dozen or so daggers. At the same moment, two swords came slashing in from either side, aiming for my upper and lower body at once.
+The force bursting from the spearhead knocked away a dozen or so daggers. At the same moment, two swords came in from either side, driving toward my upper and lower body.
 
 *Shhk, slice!*
 
 It burned like I’d been scalded.
 
-An alert sounded to tell me the durability of my Fire Dragon Armor had dropped, and a considerable stream of blood gushed from my thigh.
+An alert warned me that the Fire Dragon Armor’s durability had dropped, and blood spurted from my thigh.
 
 Still, that was a decent price for fending off a surprise attack by three S-rank Hunters.
 
-Even more so if I’d given as good as I got, instead of being the only one to take a hit.
+Especially since I hadn’t been the only one to pay.
 
 *Pshaaa!*
 
-Blood sprayed belatedly, soaking the ground. A middle-aged man and woman stared wide-eyed as they saw their comrade collapse, his chest split wide open.
+Blood sprayed belatedly across the ground. A middle-aged man and woman stared as their comrade collapsed, his chest split wide open.
 
 “When did you—!”
 
 “No, Fernando!”
 
-It had all happened so quickly that I hadn’t had time to see who they were. But now that I was facing them, I recognized them all too well.
+It had happened too fast for me to see who’d attacked. Now that I faced them, though, I knew those faces all too well.
 
 S-rank Hunters who represented their respective countries and stood as symbols of humanity.
 
@@ -40,9 +40,9 @@ Or rather, who *had*.
 
 “Well, look who it is. I know all of you.”
 
-At my greeting, tinged with a hollow laugh, the middle-aged pair swallowed hard.
+The middle-aged pair swallowed hard at my greeting.
 
-Fernando Lucas, Brazil’s S-rank Hunter, had made the reckless choice to aim for my chest. Even as he spilled an enormous amount of blood, he was fumbling for a potion with trembling hands.
+Fernando Lucas, Brazil’s S-rank Hunter, had made the reckless choice to aim for my chest. Even as blood poured from his wound, he pulled out a potion with a trembling hand.
 
 He looked so desperate that I spoke to him in the warm voice of a romantic lead.
 
@@ -62,7 +62,7 @@ Bottle and all, without even removing the cap.
 
 Shattered glass and potion poured into his open mouth.
 
-But even the highest-grade potion, capable of restoring torn organs in the blink of an eye, couldn’t bring back someone who was already dead.
+But even the finest potion could only heal torn organs in the blink of an eye. It couldn’t bring back the dead.
 
 “I told you not to drink it.”
 
@@ -90,7 +90,7 @@ They gasped and barely dodged the attack, landing in front of and behind me. The
 
 “So that’s your answer?”
 
-“Wait. Don’t provoke him for no reason. Right now, we need to save Michael first—”
+“Wait. Don’t provoke him. We need to save Michael first—”
 
 The woman had a much better grasp of the situation than the man, but she made me want to laugh just as much.
 
@@ -122,13 +122,13 @@ I charged without hesitation at the people I’d once admired and respected.
 
 It was ironic. Pain tormented people, yet as death drew near, they could no longer feel it.
 
-And…… that numbness was more frightening than any terrible pain.
+And…… that numbness was more frightening than any pain.
 
 *Ah.*
 
 Michael Silbert blinked blankly.
 
-His lips were slightly parted, but he couldn’t even groan. The strength was draining from his arms and legs, from which powerful energy had surged without pause. The blood that had soaked his body and was now sloshing around him felt dull and distant.
+His lips parted, but he couldn’t even groan. The strength was draining from the arms and legs that had once brimmed with power. Even the blood soaking his body and sloshing around him felt distant.
 
 *Damn it.*
 
@@ -136,7 +136,7 @@ If this was how he fell, what had he lived for?
 
 *Grrk. Cough.*
 
-Instead of a hollow laugh, a bloody bubble welled in his mouth. His head tipped to the side as if he were collapsing, and he saw the corpse of a man frozen with his eyes wide open.
+Blood frothed in his mouth where a bitter laugh should have been. His head lolled to one side, and he saw a corpse lying there with its eyes wide open.
 
 A familiar face.
 
@@ -158,17 +158,17 @@ The others spilling blood and dying for him throughout the chamber were no diffe
 
 Michael Silbert knew why they fought.
 
-They knew there was too much to lose if they admitted and accepted everything now.
+They fought for themselves. They had too much to lose by admitting everything now.
 
 In the end, he and they were nothing but filth seething in the same pit.
 
-But thanks to that—thanks to how long he’d indulged their greed and ambition—Michael Silbert had bought himself a little time.
+But because he’d spent so long satisfying their greed and ambition, they’d bought him a little time.
 
 Precious time to cast off the human bonds he’d clung to until the end and become the Demon King.
 
 *Slosh. Splash.*
 
-The blood that had filled the crater rippled like a wave. Through his blurred vision, he saw a spearhead flash through the air and graze the neck of a middle-aged man.
+The blood pooled in the crater rippled like a wave. Through his blurred vision, Michael saw a spearhead flash across the air and pass over a middle-aged man’s neck.
 
 *Slice!*
 
@@ -196,13 +196,13 @@ Its endless magical power and Regeneration came with it.
 
 *Shhhh!*
 
-The blood was sucked deep into his body. Severed muscles rejoined. Broken bones and ruined organs mended.
+Blood rushed deep into him. Severed muscles rejoined. Broken bones and ruined organs mended.
 
 A short scream rang out, as though to celebrate his return from the brink of death.
 
 “Kh-erk!”
 
-It was a victory cry announcing the resurrection of one life—and a death rattle announcing the end of another.
+A celebratory salute for one life restored, and the death cry of another.
 
 A middle-aged woman staggered backward with a hole through her chest.
 
@@ -214,7 +214,7 @@ The spearhead came free, and blood spurted.
 
 *Thump.*
 
-In front of the corpse that had crumpled like a rotten log stood a young man, tall as an iron tower. Michael Silbert saw him.
+Before the corpse that crumpled like a rotten log stood a young man, tall as an iron tower.
 
 —Jin Taekyung.
 
@@ -258,7 +258,7 @@ But one man did not.
 
 A dreadful mass of energy gathered around the two horns rising from Michael Silbert’s forehead. Jin Taekyung watched the Breath form without a trace of panic.
 
-He merely looked on for a moment before tossing out a single word like a sigh.
+He gazed at it for a moment, then spoke as if sighing.
 
 “Fucking bastard. I’m already in bad shape……”
 
