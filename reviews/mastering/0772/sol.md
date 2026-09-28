@@ -2,7 +2,7 @@
 
 The incitement, the speech, the declaration—it was over.
 
-But the enormous roar did not end. It continued without pause.
+The roar went on.
 
 Reporters’ cameras caught the crowds pouring into the streets, while their microphones picked up cheers shouted in half-hoarse voices. Everywhere felt like a festival.
 
@@ -12,7 +12,7 @@ Only days ago, disaster had descended on this city. Now an inexplicable hope and
 
 They chanted his name and applauded with all they had.
 
-For a very long time. With all their strength.
+For a long time. With all their strength.
 
 They poured out their gratitude and respect for a true hero who had stepped forward for their sake, without the slightest desire for the immense power of the World Hunter Federation.
 
@@ -22,7 +22,7 @@ The retreating figure of a hero who had always seemed so strong was beautiful.
 
 From behind.
 
-“You’ve arrived.”
+“Welcome back.”
 
 Huginn was waiting below the stage. He gave a slight bow and gestured, and the Odin Guild’s Hunters hurried to block the reporters following Michael.
 
@@ -56,7 +56,7 @@ Joy at finally reaching his grand objective?
 
 Or… a few of the fragments of feeling he had left?
 
-Michael Silbert thought about the reason for his tears, which even he did not know, but soon shook his head inwardly.
+Michael Silbert considered the reason for his tears, a reason even he did not know. Then he dismissed the thought.
 
 He did not always need to find the right answer.
 
@@ -80,7 +80,7 @@ Huginn’s voice broke into his thoughts.
 
 “No. I sensed it, faintly.”
 
-Huginn, who had been following behind him, stopped short. Michael Silbert smiled faintly.
+Huginn stopped short behind him. Michael smiled.
 
 “Surprised?”
 
@@ -104,7 +104,7 @@ Michael muttered, almost to himself, “Perhaps I’ve been training too hard.�
 
 He already knew what had made him impatient.
 
-As well as the identity of the intense heat he had suddenly felt in the distance just before beginning his speech.
+And he knew who was behind the fierce heat he had felt in the distance just before his speech.
 
 “What happened to Jin Taekyung? If it had been an emergency, you would have interrupted me in the middle of the speech. It can’t have been too serious.”
 
@@ -116,7 +116,7 @@ As well as the identity of the intense heat he had suddenly felt in the distance
 
 “The monster left first. What else?”
 
-“They tried various types of magic after approaching as closely as possible, but both the view inside and even the sounds were blocked, so…”
+“They got as close as they could and tried various spells, but they couldn’t see inside or hear anything…”
 
 “That’s enough. I’d expect as much.”
 
@@ -132,7 +132,7 @@ Michael fell into thought. Then he murmured, “It seems they’ve had a disagre
 
 Huginn’s eyes widened. Michael continued.
 
-“Increase security and strengthen the surveillance network until the inaugural ceremony. In particular, don’t take your eyes off that monster for even a moment. He is the most important key to this entire affair—he cannot be left out of it.”
+“Increase security and tighten surveillance until the inaugural ceremony. Above all, don’t take your eyes off that monster for a moment. He’s the most important piece in this affair. We can’t afford to lose him.”
 
 “Understood.”
 
@@ -165,8 +165,6 @@ Michael could not suppress a quiet laugh.
 Even though he was remembered as one of the heroes of the Great Cataclysm, there had been plenty of walls in his way. Back then, he had not been overwhelmingly powerful, and the Odin Guild could hardly have been called a major guild.
 
 So he had become stronger. He had brought down the walls and rivals before him by any means necessary.
-
-But it was truly laughable.
 
 And now? He had built a force and fighting strength no one could ignore, only to find that the obstacle in his path was the softest-hearted bastard he had ever faced.
 
@@ -206,7 +204,7 @@ In an instant, the scene in the mirror became one of utter darkness. A figure wr
 
 The voice gave away neither age nor gender.
 
-As The Prophet’s lips curled slightly beneath the robe, Michael Silbert’s eyes sank deep.
+Beneath the robe, The Prophet’s mouth curled into a faint smile. Michael Silbert’s eyes darkened.
 
 * * *
 
@@ -224,7 +222,7 @@ People rushed into the streets, cheering and shouting. Fireworks burst over citi
 
 All they had needed was a little hope.
 
-Hope that someone would protect them and their loved ones from that monster. The hope that humanity would win again this time, just as it had in the past.
+Hope that someone would protect them and their loved ones from those monsters. Hope that humanity would win this time, as it had before.
 
 Michael Silbert’s declaration washed away the fear that had gripped them for three days, then spread to every corner of the world.
 
@@ -234,7 +232,7 @@ Michael Silbert’s declaration washed away the fear that had gripped them for t
 >
 > **French President:** “The protesters have dispersed. The peace we have now was possible because a hero gave the UN an answer.”
 
-Strictly speaking, all of this had begun with a single word from Michael Silbert, but the public saw him differently.
+Strictly speaking, Michael Silbert’s words had started all of it. The public saw things differently.
 
 Michael did it all. He’s a true hero.
 
@@ -266,10 +264,10 @@ Michael did it all. He’s a true hero.
 
 └ Yeah, we all know that. Where is he now, and what’s he doing?
 
-└ You’ll find out soon, so shut your fucking mouth. The inaugural ceremony is tomorrow. Are you whining like a little brat because you can’t wait even one more day?
+└ We’ll find out soon, so shut the fuck up. The inaugural ceremony is tomorrow. You can’t wait one more day without whining like a brat?
 
 Hope. Joy. Questions. Anticipation.
 
-Those countless emotions mixed and merged as the inaugural ceremony of the World Hunter Federation drew closer by the second, and prominent Hunters and Guild Masters from countries all over the world boarded private planes bound for Korea.
+Those feelings mingled as the World Hunter Federation’s inaugural ceremony drew closer by the hour. Prominent Hunters and Guild Masters from around the world boarded private planes bound for Korea.
 
 Of course, I was one of them.
