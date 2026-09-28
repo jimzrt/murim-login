@@ -1,6 +1,47 @@
 {
   "chapter": 746,
   "stages": {
+    "adjudicator_model": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 4608,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.0048665800000000006,
+      "cost_usd": 0.0048665800000000006,
+      "elapsed_seconds": 92.463,
+      "event_log": "/Users/james/dev/murim-login-new/reviews/mastering/0746/omp/adjudicator.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 25205,
+      "model": "gpt-6-luna",
+      "models": {
+        "openai-codex/gpt-6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 4608,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.0048665800000000006,
+          "input_tokens": 25205,
+          "model": "gpt-6-luna",
+          "output_tokens": 4600,
+          "provider": "openai-codex",
+          "reasoning_tokens": 1318,
+          "requests": 1,
+          "total_tokens": 34413
+        }
+      },
+      "output_bytes": 14197,
+      "output_tokens": 4600,
+      "packet_bytes": 88796,
+      "packet_token_estimate": 22199,
+      "provider": "openai-codex",
+      "reasoning_tokens": 1318,
+      "requested_model": "openai-codex/gpt-6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 34413,
+      "usage_source": "omp_provider_reported"
+    },
     "draft_model": {
       "billing_type": "subscription",
       "cache_read_tokens": 30208,
@@ -45,6 +86,47 @@
     "draft_packet": {
       "input_bytes": 51291,
       "packet_token_estimate": 12823
+    },
+    "master_model": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.06765,
+      "cost_usd": 0.06765,
+      "elapsed_seconds": 50.431,
+      "event_log": "/Users/james/dev/murim-login-new/reviews/mastering/0746/omp/master.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 21505,
+      "model": "gpt-6-sol",
+      "models": {
+        "openai-codex/gpt-6-sol": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.06765,
+          "input_tokens": 21505,
+          "model": "gpt-6-sol",
+          "output_tokens": 2464,
+          "provider": "openai-codex",
+          "reasoning_tokens": 175,
+          "requests": 1,
+          "total_tokens": 23969
+        }
+      },
+      "output_bytes": 10552,
+      "output_tokens": 2464,
+      "packet_bytes": 64701,
+      "packet_token_estimate": 16176,
+      "provider": "openai-codex",
+      "reasoning_tokens": 175,
+      "requested_model": "openai-codex/gpt-6-sol:medium",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 23969,
+      "usage_source": "omp_provider_reported"
     },
     "review_model": {
       "billing_type": "subscription",
