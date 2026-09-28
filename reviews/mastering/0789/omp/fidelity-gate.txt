@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled English omits a sentence establishing that this nightmare was like the ones before it and slightly shifts the description of the narrator’s temperament.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 13–15",
+      "current": "But it was far calmer, sadder, and, in a way, even more welcome than the ones I usually had. Because I met people I missed inside it.",
+      "defect": "The Korean says this nightmare was in the same vein as the previous ones before contrasting its calmer, sadder, and more welcome qualities. That sentence is omitted, and the opening “But” loses its contrastive setup.",
+      "replacement": "This nightmare was much the same. But it was far calmer, sadder, and, in a way, even more welcome than the ones I usually had. Because I met people I missed inside it.",
+      "rationale": "Line 13 states “이번에 찾아온 악몽도 그와 같은 맥락이었다” (“This nightmare was in the same vein”). The accepted baseline also preserves that beat.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 11",
+      "current": "Even someone as thick-skinned as me",
+      "defect": "“Thick-skinned” suggests being insensitive to criticism, while the Korean describes a dull or blunted disposition. The change shifts the narrator’s characterization.",
+      "replacement": "Even someone with as dull a disposition as me",
+      "rationale": "The source phrase “무딘 성격의 소유자” describes someone with a dull disposition; it does not specifically describe resilience to criticism.",
+      "confidence": 0.84
+    }
+  ]
+}

@@ -8,7 +8,7 @@ In a way, it was only natural.
 
 Even someone as thick-skinned as me would start to fall apart after crossing the line between life and death several times a week and watching people close to me die or get hurt.
 
-But it was far calmer, sadder, and, in a way, even more welcome than the ones I usually had. Because I met people I missed inside it.
+This nightmare was no different. Yet it felt quieter and sadder than the others—and, in a way, even welcome. Because in it, I met people I missed.
 
 “Son. While Dad’s at work, play nicely with Hayeon, okay?”
 
@@ -72,7 +72,7 @@ A great inferno rose, feeding on the blood and countless corpses like firewood, 
 
 The screams of those still alive rose higher than ever—then died away without a trace.
 
-Everything was dead. Everything was burning.
+Everything was dying. Everything was burning.
 
 The terrible sight before me was something beyond a dream.
 
@@ -94,7 +94,7 @@ The world shook with a deafening roar.
 
 The sky split apart, and space warped in every direction.
 
-At the same time, a single word flashed through my mind like a bolt of lightning.
+At the same time, a single word flashed through my mind.
 
 *Rift.*
 
@@ -136,11 +136,11 @@ Mom had stepped away for a moment. When she came hurrying back… Well, there’
 
 She sobbed so bitterly that I thought I’d woken up in a morgue instead of a hospital room.
 
-If the medical staff who’d been waiting nearby hadn’t insisted she stop, I might have drowned in their tears. I’m only exaggerating a little.
+If the medical staff waiting nearby hadn’t insisted she let them examine me, I might have drowned in their tears. I’m only exaggerating a little.
 
 “Um, could the family calm down for a moment? We need to run some tests first…”
 
-Mom wouldn’t have budged even if Demon King Asmodeus had come knocking—but a few words from a renowned doctor and healer were enough to make her step back without a fuss.
+Mom wouldn’t have budged even if Demon King Asmodeus had come knocking, but a few words from a renowned doctor and healer were enough to make her step back.
 
 Of course, she made sure to clasp their hands and ask them again and again to look after me.
 
@@ -150,7 +150,7 @@ Of course, she made sure to clasp their hands and ask them again and again to lo
 
 “Yes. I’m not sure exactly what he said. I’d stepped out for a moment.”
 
-“Understood. Patient, do you remember what you said?”
+“I see. Do you remember what you said?”
 
 I answered.
 
@@ -204,13 +204,13 @@ I was stuck in bed for two whole days without a smartphone or TV, all in the nam
 
 I ate, slept, laughed, and talked with my family. It felt like a dream.
 
-If not for the nightmare I’d had just before waking up, those days would have been so happy I wouldn’t have felt a hint of anxiety.
+If not for the nightmare I’d had just before waking, I might have spent those happy days without a hint of anxiety.
 
 But I already knew I couldn’t make them last any longer.
 
 If I wanted to quiet the unease growing inside me, it was time to step back out into the world.
 
-Mom and Hayeon. The medical staff. And all the friends who didn’t come to visit because they wanted me to rest.
+Mom and Hayeon. The medical staff. All the people who cared enough to let me rest instead of visiting.
 
 They might have kept quiet about what was happening outside for my sake, but the System hadn’t.
 
@@ -218,7 +218,7 @@ They might have kept quiet about what was happening outside for my sake, but the
 
 The System notifications I hadn’t had a chance to check told me what had happened. Right after I’d finished Michael Silbert off for good, the World Hunter Federation had appointed me its new Alliance Leader while I was unconscious.
 
-*Never thought I’d end up as Alliance Leader, of all things.*
+*Never thought I’d end up playing Alliance Leader.*
 
 I was surprised at first, but after thinking it over, I decided to accept.
 
@@ -242,7 +242,7 @@ Before that, though, there was one thing I had to take care of.
 
 Her answer was immediate and firm.
 
-Hayeon continued, her face set.
+Her expression hardened as she went on.
 
 “Mom would be thrilled to hear that. Right?”
 
@@ -272,7 +272,7 @@ That meant yes.
 
 “The wind’s cold.”
 
-That was the first thing Team Leader Choi said when I saw him after several days.
+That was the first thing Team Leader Choi said when I saw him again.
 
 I was sitting alone on a bench. Glad to see him, I broke into a grin.
 
@@ -306,7 +306,7 @@ Team Leader Choi paused at my calm response.
 
 Team Leader Choi studied me for a moment, then nodded without saying anything.
 
-The gesture said he wouldn’t ask any more.
+He wasn’t going to ask.
 
 He already suspected I had secrets other people didn’t know about. To him, why I’d contacted him only two days after waking was probably the more important question.
 
@@ -316,21 +316,21 @@ He already suspected I had secrets other people didn’t know about. To him, why
 
 “Yes. A week ago, we arrested a number of key figures with close ties to Michael Silbert. Among them…”
 
-He rattled off names: French President Emmanuel, Swiss Interior Minister Werner, who was almost certain to become the next president, and the head of a massive corporation.
+He listed French President Emmanuel, Swiss Interior Minister Werner, who had been all but certain to become the next president, and the heads of major corporations.
 
-Every one of them was a heavyweight who held sway over politics and business around the world.
+Each was a heavyweight in the worlds of politics or business.
 
 There were few Hunters among them. The ones who could have been called their leaders had either died alongside Michael Silbert that day or been captured.
 
 “It was a bold and excellent decision. If you’d spared them, a much larger civil war would have broken out.”
 
-Yes. That was exactly why we couldn’t let the bastards live.
+Yes. That was why I couldn’t let the bastards live.
 
 The battle at the National Assembly had been a bloody bargain: their lives in exchange for tens, perhaps hundreds, of thousands of others.
 
 But Team Leader Choi still hadn’t mentioned the one being I wanted to know about.
 
-What had happened to the one person I was worried about. The source of this unease.
+The source of my unease.
 
 “Team Leader Choi.”
 
