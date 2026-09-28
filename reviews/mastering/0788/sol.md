@@ -46,7 +46,7 @@ It took barely a decade for him to become someone no political heavyweight—not
 
 *I’ll help you.*
 
-At those words from Michael Silbert, Emmanuel—now a senator who embodied Paris and the leader of the largest party in parliament—had a sudden certainty.
+At those words from Michael Silbert, Emmanuel—by then a senator who had become a symbol of Paris and the leader of the largest party in parliament—knew.
 
 The election was over before it had even begun.
 
@@ -78,7 +78,7 @@ Michael Silbert laughed aloud at that perfect answer and handed his new watchdog
 
 The memory of that day was still vivid.
 
-As President Emmanuel gazed at the box and sank into thought, he felt his heart pound.
+Gazing at the box, President Emmanuel felt his heart pound.
 
 *A king. A king.*
 
@@ -86,7 +86,7 @@ A king in the twenty-first century—in this country obsessed with revolution, n
 
 It was madness.
 
-But when Michael Silbert said it, that was different. He was a man who had made countless impossibilities and wild imaginings come true.
+But it was different when Michael Silbert said it. He had made countless impossibilities and flights of imagination real.
 
 President Emmanuel suddenly recalled the last words of his father, who had used the chaos of the Great Cataclysm to amass an astronomical fortune almost overnight.
 
@@ -132,7 +132,7 @@ President Emmanuel frowned at the sudden knock.
 
 “What is it?”
 
-An attendant’s voice came through the crack in the closed door.
+An attendant’s voice came through the closed door.
 
 “It’s time for your meal, Mr. President.”
 
@@ -142,9 +142,9 @@ An attendant’s voice came through the crack in the closed door.
 
 How could he have an appetite with the most important moment of his life just ahead?
 
-President Emmanuel cursed inwardly at his dim-witted attendant, then stared down at the smartphone in his hand.
+Emmanuel cursed the dim-witted attendant under his breath, then stared at the smartphone in his hand.
 
-After hesitating, he tapped one person’s number.
+After a moment’s hesitation, he tapped a number.
 
 *Brr. Brr. Brr.*
 
@@ -184,11 +184,11 @@ With a thunderous boom, the centuries-old office door burst into dust.
 
 A massive man with graying hair strode through the opening and gave the frozen president a friendly smile.
 
-“Long time no see, Emmanuel. You little rat—I could tear you apart and kill you, and it still wouldn’t be enough.”
+“Long time no see, Emmanuel. You little rat. Tearing you apart wouldn’t be enough.”
 
 “You—you’re…”
 
-“Funny, isn’t it? A moment ago, I thought I could fall asleep in three seconds. But looking at your face has driven the tiredness right out of me. Johnson, who should be in Switzerland right now, probably feels the same way. Don’t you think?”
+“Funny, isn’t it? A moment ago, I thought I could fall asleep in three seconds. But one look at your face, and I’m not tired at all. Johnson’s probably feeling the same way over in Switzerland right now. Eh?”
 
 Chuck Hagel laughed heartily.
 
@@ -200,9 +200,9 @@ He shoved Huginn’s smartphone into his back pocket, then spoke to Emmanuel, wh
 
 “Now it’s your choice. Get dragged out with your arms and legs broken, or walk out on those cotton-swab legs of yours.”
 
-It was over. All of it was over.
+It was over. All of it.
 
-Everything he’d built, along with every future he could have had, had collapsed.
+Everything Emmanuel had built had collapsed, along with every future he’d imagined.
 
 Faced with a reality he couldn’t believe, he trembled, forgetting even to breathe. After turning it over in his mind again and again, he finally managed a word.
 
@@ -222,7 +222,7 @@ Then he drove a fist like a lump of iron straight into Emmanuel’s face.
 
 Teeth and blood sprayed through the air. Emmanuel flew back like a cannonball, shattered the window, and disappeared from sight.
 
-“Asshole. What kind of question was that?”
+“Asshole. As if I’d let you.”
 
 Chuck muttered and looked down through the broken window.
 
@@ -250,17 +250,17 @@ A little while later, people drawn by the unexpected commotion saw their preside
 
 But that was not the last shock awaiting them.
 
-When they picked up their smartphones to report this unprecedented crime, an enormous bomb no one could have foreseen rocked the world.
+As they picked up their smartphones to report the astonishing crime they had witnessed, news no one had expected rocked the world.
 
-> **Breaking News:** World Hunter Federation’s first official announcement: “Two hours ago, we summarily executed Michael Silbert and his followers, who betrayed humanity. The operation is still ongoing.”
+> **Breaking News:** World Hunter Federation’s first official announcement: “Two hours ago, we summarily executed Michael Silbert and his followers for betraying humanity. The purge is still ongoing.”
 >
-> **Unprecedented bloodshed.** Choi, descendant of the Savior and interim spokesperson for the World Hunter Federation: “We will reveal the truth, along with all the evidence.”
+> **Unprecedented bloodshed.** Choi, of the Savior’s bloodline and interim spokesperson for the World Hunter Federation: “We will reveal the truth, along with all the evidence.”
 >
 > **[Live] World Hunter Federation Official Press Conference**
 
 The press conference began amid confusion and shock on a scale that “unprecedented” could hardly capture.
 
-And even as Choi Minwoo calmly continued speaking before everyone, captured by hundreds of camera lenses, the key figures of the New World Hunter Federation spread across the globe like dandelion seeds on the wind, uprooting the weeds Michael Silbert had left behind.
+And even as Choi Minwoo spoke calmly before hundreds of camera lenses, the key figures of the new World Hunter Federation spread across the globe like dandelion seeds on the wind, uprooting the weeds Michael Silbert had left behind.
 
 One day. Two days. Three…
 
