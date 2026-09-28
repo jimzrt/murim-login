@@ -14,7 +14,7 @@ The nightmare of the sea had slowly faded from memory. News of its return drew m
 
 [Japanese Defense Minister Fujiwara: “I Will Risk My Life to Protect the Imperial Subjects—No, the Citizens.” The True Feelings of an Imperialist Who Can’t Keep Up with the Times?]
 
-[Japanese Defense Minister Fujiwara Leaves the Press Conference as Though Fleeing (Photo)]
+[Defense Minister Fujiwara Leaves Press Conference as Though Fleeing (Photo)]
 
 [Japanese Prime Minister Vows: “We Will Kill That Monster Within Three Days and Show the Archipelago’s Strength.” Asked How by a Foreign Reporter, He Smiles Faintly: “We Will Succeed. That Is My Promise.”]
 
@@ -28,7 +28,7 @@ The nightmare of the sea had slowly faded from memory. News of its return drew m
 
 [Leviathan Disappears Once Again. Terrorist Attacks and Monster Waves Continue.]
 
-[Michael Silbert and Odin Guild Suppress a Third Monster Wave in a Single Day. Praise Pours in from Around the World, Along with Questions About Sky: “Why Hasn’t He Appeared?”]
+[Michael Silbert and Odin Guild Suppress Their Third Monster Wave in a Single Day. Praise Pours In from Around the World, Along with Questions About Sky: “Why Hasn’t He Appeared?”]
 
 .
 
@@ -74,7 +74,7 @@ Michael gave a quiet laugh at the frustration in Huginn’s voice and lifted his
 
 Michael set down his cup and leaned back against the leather sofa.
 
-The inside of the tent, enchanted with spatial expansion, was as luxurious as a suite in a seven-star hotel. Michael seemed so relaxed that it was hard to believe he had defeated an S-rank monster only moments earlier.
+Spatial expansion Magic had turned the inside of the tent into something as luxurious as a seven-star hotel suite. Michael looked so at ease that it was hard to believe he had defeated an S-rank monster moments ago.
 
 “Huginn, I’ll say this once. Listen carefully.”
 
@@ -162,7 +162,7 @@ Feeling the mighty energy coursing through his body, Michael Silbert was certain
 
 *Whoooooosh.*
 
-The wind blowing from far away was thick with the smell of salt.
+The wind from the distance carried the thick smell of salt.
 
 Near the Philippine Sea, close to the Japanese archipelago, a whale surfaced through the rolling water and blinked its enormous eyes.
 
@@ -220,9 +220,9 @@ That loathsome feeling, born of an impossibly small human, held the mighty monst
 
 Leviathan couldn’t understand it.
 
-Over the course of roughly a day, Leviathan had completely absorbed the masses of magical power that humans called S-rank Magic Gems.
+Over the course of little more than a day, it had absorbed every last bit of the magical power contained in what humans called an S-rank Magic Gem. It had been certain that, with water’s healing power and this new magical power together, any wound would heal without a trace.
 
-It had been certain that the healing power of water, combined with the new magical power, would make any injury vanish without a trace. Yet everything had gone as badly as it could.
+Instead, everything had gone as badly as it could.
 
 *The moment I leave the deep sea, the humans will target me. Better to gather as much strength as I can here before I go…*
 

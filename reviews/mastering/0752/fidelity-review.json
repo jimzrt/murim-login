@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "He glanced at Michael’s trembling fingers.",
+      "defect": "The source explicitly says Huginn speaks with genuine concern after noticing Michael’s trembling fingers. The current text omits that emotional cue.",
+      "id": "F01",
+      "rationale": "The Korean says 진심 어린 걱정을 담아 입을 열었다: he spoke with sincere concern. The accepted baseline also preserves this detail.",
+      "replacement": "With genuine concern, Huginn glanced at Michael’s trembling fingers and spoke.",
+      "severity": "minor",
+      "source": "Lines 121–123"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He would find out once the preparations were complete.",
+      "defect": "The source specifies that these are preparations for withdrawal; the current text leaves their purpose unstated.",
+      "id": "F02",
+      "rationale": "The Korean says 철수 준비, explicitly identifying the preparations as withdrawal preparations. The accepted baseline preserves that detail.",
+      "replacement": "He would find out once preparations for their withdrawal were complete.",
+      "severity": "minor",
+      "source": "Lines 145–147"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful. Two minor omissions weaken source-specific details.",
+  "version": 1
+}
