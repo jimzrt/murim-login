@@ -26,7 +26,7 @@ Huginn took his smartphone from his pocket.
 
 “…!”
 
-A voice suddenly slipped into his ear, and Huginn’s heart lurched.
+The voice came from only a few steps away. Huginn’s heart lurched.
 
 *How?*
 
@@ -46,7 +46,7 @@ Huginn considered his answer. “No.”
 
 “For a moment, I was. Not anymore.”
 
-“Why is that?”
+“Why not?”
 
 “Because you’re the Guild Master.”
 
@@ -54,7 +54,7 @@ Huginn considered his answer. “No.”
 
 “I mean it. I’d stake my life on it.”
 
-“Don’t go staking such a precious life so easily.”
+“You shouldn’t wager such a precious life so easily.”
 
 “It’s all right. I gave it to you long ago.”
 
@@ -68,7 +68,7 @@ Michael let out a quiet laugh at the ready answer and looked out the window.
 
 Then he added, “Leave them be.”
 
-Huginn ran his fingers over the smartphone in his hand. A single phone call would be enough to send all the reporters gathered outside away.
+Huginn turned the smartphone over in his hand. One call would send every reporter outside away. Even if he had to use force, the newspapers wouldn’t print a word about it.
 
 That was Odin Guild. That was the world they lived in.
 
@@ -96,11 +96,11 @@ In short, today’s stage belonged to Jin Taekyung.
 
 Huginn lowered his head. He had spoken out of loyalty, but he couldn’t bring himself to face the anger he expected.
 
-*But this is reality.*
+*It’s the truth.*
 
-The tide had already turned.
+The tide had turned.
 
-Michael’s Odin Guild had built an impressive record during the terrorist crisis by suppressing more than ten Monster Waves. Yet Jin Taekyung had restored his steadily declining reputation in only two battles.
+Michael’s Odin Guild had built an impressive record during the terrorist crisis, suppressing more than ten Monster Waves. Yet Jin Taekyung had restored his steadily declining reputation in just two outings.
 
 Leviathan’s infamy from the Great Cataclysm, when it had all but ruled the seas, had played a part. So had Jin’s overwhelming victory over the Munich Monster Wave, whose scale had surpassed all expectations. But Huginn believed there was a deeper reason public opinion had changed so quickly.
 
@@ -154,7 +154,7 @@ Huginn jerked his head up. Michael saw his bewilderment and gave a hearty laugh.
 
 *Psssh.*
 
-Huginn’s unfinished voice was swallowed by the noise that erupted the instant the door opened, like a dam collapsing.
+The rest of Huginn’s words vanished beneath the noise that burst in as the door opened.
 
 *Click, click-click-click!*
 
@@ -162,7 +162,7 @@ Huginn’s unfinished voice was swallowed by the noise that erupted the instant 
 
 “TBC Broadcasting! Could we have a word?”
 
-“I understand this is your second meeting. What kind of relationship do you normally have with Mr. Jin?”
+“I understand this is your second meeting. How well do you know Mr. Jin?”
 
 “Nearly every crisis has been resolved. Why come to Munich now?”
 
@@ -172,21 +172,17 @@ Huginn’s unfinished voice was swallowed by the noise that erupted the instant 
 
 Flashes fired without pause. Reporters shouted questions over one another, and Huginn’s face hardened.
 
-Most of the questions being thrown at them revolved around Jin Taekyung. One audacious reporter had even gone so far as to compare them.
+Just as he’d expected. Most of their questions centered on Jin Taekyung. One audacious reporter had even compared the two Monster Waves outright.
 
 “…Whatever you have in mind, Guild Master, it would be best to postpone the interview.”
 
 Michael calmly shook his head and strode toward the exit.
-
-With a single remark that seemed to have nothing to do with the current situation.
 
 “I watched the video you obtained in Japan. Very interesting.”
 
 “Pardon?”
 
 “Come along. We can’t keep him waiting any longer.”
-
-*Step.*
 
 Michael descended the aircraft stairs without hesitation and stood before the cameras and flashing lights.
 
@@ -196,17 +192,15 @@ Beyond the reporters clamoring for a scoop, and the German soldiers holding them
 
 *Flash!*
 
-The night was illuminated by the most dazzling burst of flashes yet.
+A dazzling burst of flashes lit the night.
 
 Reporters gasped and hurriedly parted. The two heroes walked slowly through the opening until they stood face-to-face.
 
 “We meet again, Jin.”
 
-*Slide.*
-
 Michael greeted him warmly and held out a hand. Jin Taekyung stared in silence at his smiling enemy, then took it.
 
-His voice was low and hoarse, almost as though it were boiling.
+His voice came out low and taut.
 
 “…Michael Silbert.”
 
@@ -224,7 +218,7 @@ But Michael Silbert’s mask was harder and thicker than any I’d ever encounte
 
 *Crack.*
 
-The bones in our clasped hands shifted with a grinding sound. Feeling the force transmitted through his grip, I widened my eyes.
+Bones shifted in our clasped hands. I felt the strength of his grip and stared.
 
 *What the hell…?*
 
@@ -232,7 +226,7 @@ The force was unbelievable. With everyone watching, I wasn’t using my full str
 
 *How?*
 
-That was why neither a Supreme Peak master nor an S-rank Hunter could approach me in pure physical ability.
+The System had made my physical abilities superhuman in the truest sense of the word. I’d thought no Supreme Peak master or S-rank Hunter could come close to me in raw physical strength.
 
 That was what I’d thought until I took his hand.
 
@@ -256,19 +250,19 @@ But he and I were having a conversation their cameras and microphones couldn’t
 
 —What the fuck are you playing at?
 
-—Who can say? I do not understand what you mean. Is coming to congratulate a young junior on his victory some kind of trick?
+—Playing at? I don’t know what you mean. Is coming to congratulate a younger colleague on his victory a trick?
 
 —A passing dog would laugh at that, you son of a bitch.
 
 —You really won’t believe me.
 
-—Sorry, but I’m not that much of an idiot. You’re already a step too late.
+—Sorry, but I’m not that much of an idiot. You’re already too late.
 
 Michael let out a quiet laugh and moved his lips.
 
 —Actually, you’re right. I came to make a very important announcement.
 
-—An important announcement?
+—An announcement?
 
 —One that will turn the whole world upside down.
 

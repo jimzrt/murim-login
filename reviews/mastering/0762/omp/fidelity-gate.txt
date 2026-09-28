@@ -1,0 +1,35 @@
+{
+  "summary": "One factual error changes which Monster Wave the reporter asks about; the English also omits two source details.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "Line 197",
+      "current": "Don’t you think suppressing the Cape Town wave took far too long?",
+      "defect": "The reporter asks whether suppressing the Munich Monster Wave took too long, not the Cape Town wave. Cape Town is only the size comparison.",
+      "replacement": "But don’t you think it took far too long to suppress the Munich wave?",
+      "rationale": "The question contrasts the Munich wave’s nearly tenfold size with the time taken to suppress it.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 41",
+      "current": "What startled him was that he hadn’t sensed Michael Silbert’s presence at all—not even the faintest trace of it.",
+      "defect": "The source emphasizes that Michael was only a few steps away, heightening the significance of Huginn’s failure to sense him.",
+      "replacement": "What startled him was that, despite Michael being only a few steps away, he hadn’t sensed even the faintest trace of his presence.",
+      "rationale": "The Korean explicitly places Michael just a few steps away when Huginn fails to sense him.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 271",
+      "current": "That was why neither a Supreme Peak master nor an S-rank Hunter could approach me in pure physical ability.",
+      "defect": "The English omits that the System enhanced the narrator’s physical abilities to a superhuman level, the stated reason for the comparison.",
+      "replacement": "The System had made my physical abilities superhuman in the truest sense of the word. That was why neither a Supreme Peak master nor an S-rank Hunter could approach me in pure physical ability.",
+      "rationale": "The source explicitly identifies System-based growth and describes the resulting physical ability as superhuman before drawing the comparison.",
+      "confidence": 0.99
+    }
+  ]
+}
