@@ -190,7 +190,7 @@ Namho glared at me without a word. Hyuk Mujin, who’d finally escaped the Truth
 
 “Whoa. Why are you getting so mad?”
 
-“This old man has a plan, too. What would you do if the fellow in front of you were a Dark Heaven lackey wearing Blazing Flame Divine Dragon Jin Taekyung’s face?”
+“This old man has a plan. What would you do if the fellow in front of you were a Dark Heaven lackey wearing Blazing Flame Divine Dragon Jin Taekyung’s face?”
 
 “I suspect infirmities of old age, but no, he isn’t. I’ll stake my neck on it.”
 
@@ -234,19 +234,19 @@ Before I could finish the question, a thought crossed my mind.
 
 The Western Heaven Demon Lord had dealt the Sichuan Tang Clan a devastating blow a few months ago. But the strength of a great family didn’t disappear overnight.
 
-Besides, the Sichuan Tang Clan, which mainly dealt in hidden weapons and poison, was also one of the most renowned medical families in the world.
+Besides, the Tang Clan mainly dealt in hidden weapons and poison, which made it one of the most renowned medical families in the world.
 
 And on top of that…
 
 *The Divine Physician is in Sichuan.*
 
-Strictly speaking, the Divine Physician known to the world was actually the Slaughter Saint. But unlike his master, the Disciple had stayed in Sichuan, and he was a physician every bit as worthy of the title.
+Strictly speaking, the Divine Physician known to the world was actually the Slaughter Saint. But the Disciple he’d left behind in Sichuan was a physician every bit as worthy of the title.
 
 Jeok Cheongang had gone ahead to bring that new Divine Physician back.
 
 *He didn’t have to go that far.*
 
-I felt a pang of regret that I wouldn’t get to see him right away, and a warmth stirred in one corner of my heart. Then a stabbing pain rose from deep inside my body.
+I wished I could see him now, and warmth stirred in my chest. Then a stabbing pain rose from deep inside my body.
 
 *This is…*
 
@@ -264,7 +264,7 @@ I swallowed the groan, but I couldn’t stop my brow from furrowing a little. Th
 
 That wasn’t a lie.
 
-I was thinking about my injuries—and about Jeok Cheongang, who’d noticed them three days ago.
+I was thinking about my injuries—and about Jeok Cheongang, who must have noticed them three days ago.
 
 *Old Master must have gone to find the Divine Physician because he realized he couldn’t treat me himself.*
 
@@ -276,7 +276,7 @@ But my injury, which even the System couldn’t heal, must have seemed beyond Je
 
 I felt like a gambler who’d borrowed from loan sharks to keep playing, only to ruin his life.
 
-Even if I could go back to that moment, I knew I’d make the same choice. All I could do was give a bitter smile.
+But what could I do now? I knew I’d make the same choice even if I could go back to those moments. All I could manage was a bitter smile.
 
 It couldn’t be helped.
 
@@ -288,15 +288,15 @@ If I hadn’t used One Annihilation at each of those moments of crisis, I wouldn
 
 The System wasn’t someone I could sit down with and talk to, and I had no intention of whining at it. It had already given me more than enough and warned me again and again.
 
-Every path I’d walked until now had been my own choice.
+Every step I’d taken had been my own choice.
 
-*That’s enough. It is what it is.*
+*Then that’s enough.*
 
 With that, I cleared the jumble of thoughts from my mind.
 
 Thinking about it alone wouldn’t make anything better right now. I had to consider how the people around me felt, too.
 
-I’m really a considerate person, aren’t I? No, wait a second.
+That’s how considerate I am… No, wait a second.
 
 “Then where’d that Taishan bastard go?”
 
@@ -326,7 +326,7 @@ The bushes some fifty jang away shook, and a huge figure burst out. He was so ma
 
 He raised the dark object in his hand high.
 
-“Taishan’s favorite thing in the world—no, a miracle cure for the sick Pavilion Master!”
+“Taishan’s favorite thing in the world—no, medicine to cure sick Pavilion Master!”
 
 The people watching stared blankly and murmured.
 
@@ -340,9 +340,9 @@ The people watching stared blankly and murmured.
 
 *Bzzzzzzzz!*
 
-It was the first time I’d ever seen it.
+I’d never seen bees that big before.
 
-Bees that big—and thousands of them all swarming together.
+Or thousands of bees that big gathered in one place.
 
 “…Primordial Heavenly Venerable. Gods of heaven and earth.”
 
