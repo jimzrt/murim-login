@@ -16,7 +16,7 @@ The ship rocked like a willow leaf amid the raging waves. At Ship-Fire Boy Mu So
 
 “Keep rowing! Put your asses into it and row!”
 
-“Anyone who slacks off from this moment on had better watch out! What was it called again? Right! I’ll sentence you to the dip-and-taste punishment![^1]”
+“Anyone who slacks off from this moment on had better watch out! What was it called again? Right! I’ll sentence you to the dip-and-taste punishment!”
 
 “Aaaaaah!”
 
@@ -36,7 +36,7 @@ Martial arts were not the only thing he had learned from his Master, the Seafari
 
 If anything, he had first learned how to steer all sorts of ships, predict the weather, and read the currents—before he had learned martial arts.
 
-Mu Song had been a sailor before he was a Murim[^2] martial artist, and no river bandit would follow an incompetent captain.
+Mu Song had been a sailor before he was a Murim martial artist, and no river bandit would follow an incompetent captain.
 
 The little boy who had once yearned for the Yangtze had grown into a captain skilled enough to earn the respect of even old sailors. Even his coldhearted Master, who had not shown his Disciple the slightest hint of affection, had once said:
 
@@ -72,7 +72,7 @@ No matter how bad the weather became, it should not have been worse than the Yan
 
 That was what he had believed.
 
-At least until two *shichen*[^3] ago.
+At least until two *shichen* ago.
 
 *It wasn’t this bad when we first launched the ship.*
 
@@ -128,7 +128,7 @@ The next moment, Mu Song and the river bandits saw it clearly.
 
 The flames rising from the fist transformed into a fire dragon and bit into the waist of the waterspout.
 
-The churning water collapsed in an instant beneath the overwhelming Scorching Yang Qi, every trace of moisture evaporating. The waterspout, which had been bearing down on the merchant vessel with the force of ten thousand *geun*[^4], became a dense cloud of steam that spread around them like fog.
+The churning water collapsed in an instant beneath the overwhelming Scorching Yang Qi, every trace of moisture evaporating. The waterspout, which had been bearing down on the merchant vessel with the force of ten thousand *geun*, became a dense cloud of steam that spread around them like fog.
 
 Then—
 
@@ -194,7 +194,7 @@ Mungyeong made a show of frowning. He had no intention of listening to Zhuge Fen
 
 Perfected Being Hyeongong was a master whose seniority placed him alongside the Sect Leaders of the Nine Sects and One Gang.
 
-Mu Song and the river bandits had been unable to determine Mungyeong’s identity beyond knowing that he was a Returned to Youth master. They were shocked to hear him refer to Perfected Being Hyeongong, a respected elder throughout Murim[^2], as a child.
+Mu Song and the river bandits had been unable to determine Mungyeong’s identity beyond knowing that he was a Returned to Youth master. They were shocked to hear him refer to Perfected Being Hyeongong, a respected elder throughout Murim, as a child.
 
 “Gasp!”
 
@@ -218,7 +218,7 @@ Leaving the stunned men behind, Mungyeong’s body shot forward as though foldin
 
 *Splash!*
 
-Two—no, three figures sped forward, their feet stepping across the water.
+Two—no, three figures sped across the water.
 
 Zhuge Feng, dangling from Mungyeong’s hand, answered Jeok Cheongang.
 
@@ -262,7 +262,7 @@ All three men’s eyes widened.
 
 It was not thunder and lightning rumbling across the sky.
 
-The black heavens above them were silent. The enormous sound had clearly come from somewhere several hundred *jang*[^5] ahead.
+The black heavens above them were silent. The enormous sound had clearly come from somewhere several hundred *jang* ahead.
 
 “You bastards—!”
 
@@ -286,7 +286,7 @@ The three men stood frozen, utterly speechless.
 
 The cliff collapsed with a deafening roar.
 
-Boulders weighing ten thousand *geun*[^4], which had clearly been part of it for centuries, came pouring down like a rain shower, and an enormous spray of water surged upward.
+Massive boulders that had clearly been part of it for centuries came pouring down like a rain shower, and an enormous spray of water surged upward.
 
 But none of that mattered.
 
@@ -297,9 +297,3 @@ More precisely, I stared at the System window floating above its head.
 > **System**
 >
 > Lv. ??? Mutated Water God Dragon
-
-[^1]: “Dip-and-taste” refers to dipping food into sauce before eating; Mu Song turns the phrase into the name of a joking punishment.
-[^2]: *Murim* refers to the martial-arts world and its community of fighters, sects, and families.
-[^3]: A *shichen* is a traditional time unit of approximately two hours. Two *shichen* are approximately four hours.
-[^4]: A Korean *geun* is approximately 600 g (1.32 lb). Ten thousand *geun* are approximately 6,000 kg (13,200 lb).
-[^5]: A *jang* is a traditional Korean length of approximately 3.03 m (9.94 ft).
