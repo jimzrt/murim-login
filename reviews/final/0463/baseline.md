@@ -2,7 +2,7 @@
 
 Deep within a dark cave where only a faint light seeped in, a small old man sat cross-legged in quiet contemplation.
 
-Energy like the sun raced through hundreds of acupoints and into the Eight Extraordinary Meridians.[^1] It took on physical form, rising to envelop the old man’s entire body.
+Energy like the sun raced through hundreds of acupoints and into the Eight Extraordinary Meridians. It took on physical form, rising to envelop the old man’s entire body.
 
 Then the changes began.
 
@@ -78,7 +78,7 @@ Jeok Cheongang sighed in complaint, lowered his head, and continued.
 
 “Don’t you think so?”
 
-A man stood where his gaze came to rest. Crouching Dragon Guest[^2] Zhuge Feng waved his folding fan as he answered.
+A man stood where his gaze came to rest. Crouching Dragon Guest Zhuge Feng waved his folding fan as he answered.
 
 “When I was nine, my grandfather once sat me beside him and said something similar. ‘I don’t know what bastard is up there, but he must have a truly god-awful temper.’ You are saying the same thing now, Senior.”
 
@@ -90,7 +90,7 @@ Jeok Cheongang nodded.
 
 “He was also smarter than you. At least he didn’t have the bad manners to wave a fan in front of someone old enough to be his grandfather. Fold that thing before I break it.”
 
-“It will not break easily. I had two nyang[^3] of Ten-Thousand-Year Cold Iron worked into it.”
+“It will not break easily. I had two nyang of Ten-Thousand-Year Cold Iron worked into it.”
 
 “Is your skull made of Ten-Thousand-Year Cold Iron too?”
 
@@ -276,7 +276,7 @@ Gung Gibang stepped back, and Hyuk Mujin came forward.
 
 “……”
 
-What a sibu-leol[^4] bastard. I felt what little strength I had left draining away.
+What a sibu-leol bastard. I felt what little strength I had left draining away.
 
 I let out a small sigh, then gave Cheongpung one final, earnest warning.
 
@@ -317,8 +317,3 @@ Then I spotted something in the distance.
 *What’s that…?*
 
 Far ahead, a pitch-black cave came into view.
-
-[^1]: The Eight Extraordinary Meridians are channels through which qi is said to circulate in traditional Chinese medicine and martial-arts fiction.
-[^2]: “Crouching Dragon” was a sobriquet of Zhuge Liang, a strategist of China’s Three Kingdoms period.
-[^3]: A *nyang* is a traditional Korean unit of weight. Two nyang are approximately 75 g (2.65 oz).
-[^4]: *Sibu-leol* is a colloquial Korean profanity, roughly equivalent to “fucking.”
