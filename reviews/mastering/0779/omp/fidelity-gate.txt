@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is largely faithful. One repeated action is added in the assembled English.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 437–439",
+      "current": "Michael Silbert swallowed as Jin’s words trailed off.",
+      "defect": "Michael’s swallow is already rendered in the preceding sentence, “Michael swallowed.” Repeating it adds a second physical action; the source describes only one swallow.",
+      "replacement": "Then a quiet remark shook his world.",
+      "rationale": "The Korean describes Michael swallowing once as Jin’s sentence trails off, followed by the quiet remark.",
+      "confidence": 0.99
+    }
+  ]
+}

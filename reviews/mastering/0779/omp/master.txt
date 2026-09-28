@@ -14,7 +14,7 @@ Countless others looked back and forth between Jin Taekyung and the Stone King, 
 
 They couldn’t help it. Everyone here knew who the Stone King was.
 
-No—ask anyone on the street, and they’d know, too.
+Ask anyone on the street, and they’d know, too.
 
 An S-rank Hunter with United States citizenship who had appeared out of nowhere like a comet.
 
@@ -80,7 +80,7 @@ The criticism had become shouting. Jin paid it no mind and opened his mouth agai
 
 As if those were the only words he knew. As if imprinting that one fact on their minds were his sole purpose in life.
 
-Without pause, ignoring every gaze and every accusation pouring toward him.
+He ignored every gaze and accusation directed at him.
 
 Calmly, he repeated the truth that might become his greatest weakness, looking straight at Michael Silbert—the one man who had remained silent through the uproar around the enormous round table.
 
@@ -106,7 +106,7 @@ And they understood what that meant.
 
 The same impossible question crossed everyone’s mind.
 
-At the same time, hundreds of pairs of eyes turned toward one person.
+Hundreds of pairs of eyes turned toward one person.
 
 No—toward something that might not be a person at all.
 
@@ -114,9 +114,9 @@ The Stone King.
 
 The handsome American was still sitting where he had been all along. But they could see it. They could feel it.
 
-The slight trembling of his eyes and the faint fear seeping through them. The certainty that this was the answer to their question.
+The slight tremor in his eyes. The faint fear in them. The answer to the question none of them had dared ask.
 
-Then the truth they had finally accepted came with an enormous unseen shock that swept through the room like a wave.
+The truth struck them like an unseen wave.
 
 No. Like a hammer.
 
@@ -126,9 +126,9 @@ No. Like a hammer.
 
 Everyone stared, mouths agape.
 
-What was reflected now in the wide-open eyes of more than three hundred people was neither a handsome young man nor an S-rank Hunter with outstanding skills and Fame.
+In the wide eyes of more than three hundred people, the figure before them was no longer a handsome young man or an S-rank Hunter of exceptional skill and fame.
 
-There stood a cursed being who could never coexist with humanity, one who had once driven mankind to the brink of disaster.
+He was a cursed being who could never coexist with humanity. One of the creatures that had once plunged mankind into catastrophe.
 
 “…A monster.”
 
@@ -146,7 +146,7 @@ With it came killing intent so palpable it seemed one could touch it.
 
 A wind whipped up from somewhere. In the freezing air, countless needle-sharp gazes pierced the Stone King.
 
-Everyone here had been chosen by God for the sole purpose of fighting monsters, and given the name Hunter by humanity.
+Everyone here had been chosen by God to fight monsters and given the name Hunter by humanity.
 
 From the beginning, they had had only one duty.
 
@@ -168,27 +168,27 @@ The faces of the people who had been ready to swing their weapons went rigid.
 
 A place awash in killing intent and mana was as good as a death trap.
 
-But the voice’s owner had broken that flow. At the very last moment, just as an attack was about to be unleashed, he had slipped through an invisible gap.
+Yet the owner of that voice had broken the flow. Just as the attack was about to begin, he had found an invisible opening.
 
 And he’d done it with ease.
 
 *Step. Step.*
 
-The low thud of footsteps broke the suffocating silence.
+Footsteps broke the suffocating silence.
 
-As one young man cut through the mountain of sabers and forest of swords formed by countless weapons and stood in front of everyone, an elder Hunter with a full head of white hair spoke with a stern expression.
+A young man crossed through that mountain of sabers and forest of swords and stood in everyone’s way. A white-haired elder Hunter regarded him gravely.
 
 “What are you doing?”
 
 Recognizing the elder, Jin Taekyung answered respectfully.
 
-“I’m doing what I have to do, Senior.”
+“What I have to do, Senior.”
 
-“And what you have to do is… protect that monster?”
+“Surely you don’t mean protecting that monster.”
 
 “I do.”
 
-At Jin’s unhesitating reply, the elder Hunter asked with an expression of disbelief.
+The elder stared at him in disbelief.
 
 “Why?”
 
@@ -224,11 +224,11 @@ He was an S-rank Hunter who had fought since the Great Cataclysm, a man who had 
 
 But Jin Taekyung’s response went far beyond anything the onlookers expected.
 
-“Fuck, don’t be so damn ridiculous.”
+“Oh, fuck off with that bullshit.”
 
 “What?”
 
-“That speech was so long-winded I couldn’t even follow every stupid point. But first, I want to ask you one thing.”
+“There’s so much bullshit in that speech I don’t know where to start. But first, let me ask you something.”
 
 Jin Taekyung fixed a cold gaze on the Guild Master of Kronos.
 
@@ -262,11 +262,11 @@ Perhaps it was a truth they had known all along and could only pretend not to se
 
 No one answered. Jin Taekyung smiled.
 
-“This is a black comedy if I’ve ever seen one. There are assholes everywhere who aren’t even human, but the guy who nearly worked himself to death trying to save one more person is standing at death’s door the moment his identity comes out.”
+“It’s a fucking black comedy. The world’s full of bastards who barely qualify as human, but someone who worked his ass off trying to save even one more person gets one foot in the grave the moment you find out what he is.”
 
-Cold flames flickered in the young man’s eyes, visible above his raised smile.
+Cold fire flickered in his eyes above that smile.
 
-Countless weapons surrounded them. As he looked at that forest of blades, poised to come flying at any moment, the emotion rising inside him had a name: anger and bitterness.
+Weapons surrounded him on every side. Looking at the forest of blades poised to strike, he felt anger—and bitterness.
 
 “I didn’t want this. I wasn’t asking for much. I just… thought you’d give me enough time to explain.”
 
@@ -276,9 +276,9 @@ Of course he understood. Many of them must have lost people close to them to mon
 
 He had, too.
 
-But… even so, something churned inside him.
+But even so, his stomach churned.
 
-He felt sorry for the Skeleton King, who had fought while sacrificing himself for humanity. He felt bitter watching those people try to kill him without a moment’s hesitation, and his anger rose when he realized how many of them still showed outright hostility, even in this situation.
+He was sorry for the Skeleton King, who had sacrificed himself fighting for humans. It was bitter to watch them try to kill him without a moment’s hesitation. And anger rose in Jin when he saw how many still showed open hostility, even now.
 
 Because he knew their hostility wasn’t only about his calling the Skeleton King—a monster—his friend and comrade-in-arms.
 
@@ -308,7 +308,7 @@ Magic Johnson winked and gestured with his staff toward the war hammer rippling 
 
 “Whoa. Don’t do anything rash. Take it from a comrade-in-arms who’s risked his life fighting beside you.”
 
-“Do you know what your actions mean right now?”
+“Do you know what you’re doing?”
 
 “Of course. You don’t have to tell me. We know exactly where we’re going from here.”
 
@@ -324,9 +324,9 @@ The Guild Master of Kronos’s gaze darkened as he took in those familiar, disti
 
 Magic Johnson. Chuck Hagel. Faye Chen. Prince Felix.
 
-And then Choi Minwoo, whose symbolic significance as Cheon Taemin’s only blood relative was unmistakable. Finally, even the Stone King, who had been watching the weapons aimed at him with a hard expression, stood up.
+Choi Minwoo, Cheon Taemin’s only blood relative, stood with them. Finally, the Stone King rose too, his face set as he looked at the weapons aimed at him.
 
-*This is bad. It’s already beyond the range Michael predicted.*
+*This is bad. We’re already outside the range Michael predicted.*
 
 But the greatest surprise was the young man who had reached him.
 
@@ -344,11 +344,11 @@ It came from a young man who hadn’t lived half as long as he had.
 
 Magic Johnson’s warning flashed through his mind. *You’d better stop there. Don’t do anything rash.*
 
-He understood, too, who that warning had been for.
+He understood now who the warning had been meant to protect.
 
 *Step.*
 
-By the time he came to his senses, it was already too late. The Guild Master of Kronos instinctively shifted to the side, and Jin Taekyung walked on as if that were only natural.
+By the time he collected himself, it was too late. The Guild Master of Kronos instinctively turned aside, and Jin Taekyung walked past as though he’d expected nothing else.
 
 Half of the roughly three hundred people surrounding them tried to stop him, then found themselves making way without knowing why. Of those who remained, half merely watched; others closed around Jin as if to escort him.
 
@@ -376,7 +376,7 @@ But it was fine. It was fine.
 
 The throne was still there.
 
-Once the vote began, the place where he sat would become the throne.
+Once the votes were counted, wherever Michael sat would become the throne.
 
 Jin Taekyung, on the other hand, had no seat left at this round table.
 
@@ -392,13 +392,13 @@ Soon, he would have no place anywhere in the world.
 
 “Everything will proceed through legal channels. Those involved will be formally charged and put on trial. And if they resist…”
 
-Michael Silbert continued, his voice raised as if to call out to everyone.
+Michael raised his voice for everyone to hear.
 
 “They’ll be executed on the spot.”
 
 A suffocating silence followed.
 
-But the moment he slowly turned his head toward Jin Taekyung, Michael Silbert could hear a thunderous sound echoing through it.
+Michael slowly turned his head toward Jin Taekyung. In that silence, he heard a sound like thunder.
 
 *Thump.*
 
@@ -408,9 +408,9 @@ His heart dropped.
 
 His heartbeat quickened. Jin Taekyung’s eyes curved like crescents, their gaze piercing the center of his chest like an awl.
 
-What was it? Why was it?
+What was it?
 
-Why was that bastard smiling even in a situation like this?
+Why was that bastard smiling even now?
 
 Why?
 
@@ -420,18 +420,18 @@ The world seemed to slow.
 
 His pounding heart and trembling pulse filled his ears. Every one of his senses, fixed on Jin Taekyung, caught the words that followed.
 
-“What if you hadn’t colluded with a monster, but…”
+“What if someone hadn’t colluded with a monster…”
 
 Jin let the sentence trail off. Michael swallowed.
 
-Michael Silbert swallowed as Jin’s words trailed off. Then a quiet remark shook his world.
+Then a quiet question shook his world.
 
-“You were already no different from one? What would happen then?”
+“What if he was already no different from one? What would happen to him?”
 
 “……!”
 
 No—it shook everyone’s world.
 
-With a contemptuous gaze fixed on something neither human nor monster, Jin delivered one final line.
+Jin looked at Michael with contempt, as though he were something neither human nor monster, and delivered the final blow.
 
 “Has the wound on your neck healed, Michael?”
