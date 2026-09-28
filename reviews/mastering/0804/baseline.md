@@ -20,19 +20,19 @@ What were they feeling at that moment?
 
 A chill creeping down their spines? Or fear they’d briefly forgotten?
 
-I didn’t know exactly what it was, but I wasn’t feeling either one.
+I didn’t know exactly what it was, but at least I wasn’t feeling either one.
 
 What you saw depended on where you stood.
 
-Unlike them, I stood on a peak. From there, I could see farther and sense more.
+In that sense, unlike them, I was standing on the peak. I could see and feel more, and from farther away.
 
-And I wasn’t the only one.
+And that wasn’t a privilege I enjoyed alone.
 
 “This is…”
 
 The Skeleton King, who’d come up beside me at some point, murmured as if groaning.
 
-Magic Johnson, who’d been saving his strength by focusing on defense in the rear, looked grim. So did Yamamoto Genji, an S-rank Hunter at least in name, and Team Leader Choi, whose Qi Sense was nearly as sharp as his.
+Magic Johnson, who’d been saving his strength by focusing on defense in the rear, had a grim look on his face. So did Yamamoto Genji, an S-rank Hunter at least in name, and Team Leader Choi, whose Qi Sense was nearly as sharp.
 
 “Fuck.”
 
@@ -52,15 +52,15 @@ The ground shuddered around me, and a wall of sand surged upward.
 
 Through the countless grains falling back down, I saw the Hunters’ faces. They looked as if they’d just been doused in cold water.
 
-“What are you all scared of? You that eager to die?”
+“What are you all scared of? You all that eager to die?”
 
 “B-but this is…”
 
-“However you rank them, they’re still monsters. And we’re all still Hunters. So quit freezing up like you’re about to die and…”
+“Call them whatever rank you like—they’re still monsters. And we’re all still Hunters. So quit freezing up like you’re about to die and…”
 
 *Thud!*
 
-I drove a dagger into the head of an ogre still writhing and clinging stubbornly to life, then finished my sentence.
+I drove a dagger into the head of an ogre that was still writhing, stubbornly clinging to its life, then continued with emphasis.
 
 “Fight. Like Hunters.”
 
@@ -80,15 +80,15 @@ I drove a dagger into the head of an ogre still writhing and clinging stubbornly
 >
 > The status effect **Fear**, which had been applied to numerous allies, has been removed!
 >
-> Ally morale has greatly increased. Those who follow your leadership will share a strong bond and perform even better!
+> Ally morale has greatly increased. Those who follow your leadership will have a strong bond and perform even better!
 >
 > Certain stats increase when facing numerous enemies!
 
-One Against a Thousand was the Title I’d earned while fighting the Arch Lich’s army in Sichuan Province. For a reward earned through such a rare feat, it certainly delivered.
+One Against a Thousand was the Title I’d earned while fighting the Arch Lich’s army in Sichuan Province. As a reward for accomplishing such a rare feat, it was definitely effective.
 
 “GRAAAAAH!”
 
-A few Hunters who’d been swallowing nervously until now roared, their eyes bloodshot. A tremendous cheer followed, heating the air around us.
+A few Hunters who’d been swallowing nervously until now roared, their eyes bloodshot. A tremendous cheer soon erupted, heating the air around us.
 
 Of course, there were always exceptions.
 
@@ -100,19 +100,21 @@ I clicked my tongue softly at the sight of Yamamoto Genji rubbing his shin where
 
 Their movements were orderly now, unlike before.
 
-A force of well over ten thousand marched with measured precision, parting to the left and right. Three paths opened, and at last, the beings radiating an overwhelming presence appeared.
+A force of well over ten thousand marched with measured precision, splitting to the left and right. Three paths opened, and at last, the beings radiating an overwhelming presence appeared.
 
 *The S-rank monsters.*
 
 Some were huge and grotesque. Others were so small compared to the monsters around them that they barely stood out.
 
-But the demonic qi and Fear pouring from them were as overwhelming as all those countless monsters put together.
+But the powerful demonic qi and Fear pouring from them were as immense as that of all these countless monsters combined.
 
-Enough to frighten even Yamamoto Genji. Cowardly and less capable though he was, he was still an S-rank Hunter.
+Enough to make even Yamamoto Genji afraid, despite his cowardice and lack of skill—or, at least, despite his being an S-rank Hunter in name.
 
-“So those are the commanders leading this monster army,” the Skeleton King murmured.
+“So those are the commanders leading this monster army.”
 
-“But the most important one is still missing,” I said.
+At the Skeleton King’s murmur, I spoke up.
+
+“But the most important one is still missing.”
 
 “…The Prophet.”
 
@@ -120,7 +122,7 @@ Enough to frighten even Yamamoto Genji. Cowardly and less capable though he was,
 
 “But is he here now? It pains me to admit it, but… I haven’t seen or sensed anyone I’d take to be The Prophet.”
 
-To be honest, neither had I.
+To be honest, the same was true for me.
 
 But there was one thing I was sure of.
 
@@ -132,21 +134,21 @@ Given how meticulous the bastard was, he was probably watching everything unfold
 
 The enemies were too numerous, and the battlefield too vast, for me to get a clear read with Qi Sense.
 
-On top of that, the monster army’s momentum had changed with the arrival of its S-rank commanders. It was nothing like before.
+On top of that, the monster army’s momentum had changed with the arrival of the S-rank monsters who could only be called its commanders. It was nothing like before.
 
 “Jin.”
 
 Magic Johnson’s low voice reached my ears. His eyes had sunk deep, as if he could already guess what the battle about to begin again would cost us.
 
-He was worried about me, too—the one who would have to bear it all.
+And he was worried about me, the one who would have to bear the weight of it all.
 
 “If you’ll let me, I’d like to take command instead.”
 
-I stared silently at Magic Johnson for a moment, then shook my head.
+I stared silently at Magic Johnson for a brief moment, then shook my head.
 
 “No. I’m in command.”
 
-Of course, Magic Johnson had the skill and the qualifications. He was a veteran of the Great Cataclysm and a fine commander who’d led his forces to victory in more than ten major battles.
+Of course, Magic Johnson had all the skill and qualifications for it. He was a veteran who’d lived through the Great Cataclysm and a fine commander who’d led his forces to victory in around a dozen major battles.
 
 But…
 
@@ -158,31 +160,31 @@ But…
 
 Magic Johnson looked at me with wide eyes, then gave a small nod.
 
-When he spoke, I heard firm trust and the faintest trace of a smile.
+The voice that followed held firm trust and the faintest trace of a smile.
 
 “All right, young friend. Give us our orders.”
 
 I took a deep breath and looked around at everyone.
 
-A thousand Hunters in all. I didn’t know every name or every face.
+A thousand Hunters in all. I didn’t know all their names or faces.
 
 But if someone fell here and never got back up, I’d remember everything about them for the rest of my life.
 
 Yeah. That was enough.
 
-If I died, they’d do the same for me.
+If I died, they would, too.
 
-“I’m dropping the formalities now, Magic Johnson.”
+“From now on, I’ll dispense with the formalities, Magic Johnson.”
 
 “Yes, young boss.”
 
-“Keep the enemies in the air in check and focus on protecting our allies. The Hunters under you are to follow your orders until I say otherwise.”
+“Keep the enemies in the air in check and focus on protecting our allies. All subordinate Hunters are to follow Magic Johnson’s orders until I give them another command.”
 
 “Yes, sir!”
 
-Magic Johnson shouted his answer and rose into the air.
+With that answer, shouted like a cheer, Magic Johnson rose into the air.
 
-The Grand Mage’s eyes, alight with a keen edge, followed hundreds of specks slowly crossing the cloudless sky—and the eagle beating its wings at their head.
+The Grand Mage’s eyes, sharp as blades, watched hundreds of specks slowly crossing the cloudless sky—and the eagle beating its wings at their head.
 
 More precisely, he was watching a monster with enormous wings tens of meters across and a lion’s lower body: a Griffon.
 
@@ -192,15 +194,15 @@ More precisely, he was watching a monster with enormous wings tens of meters acr
 
 “Take a hundred troops and hold the front line. If the tanks break formation, hand in your sword and retire.”
 
-Team Leader Choi raised the Hero’s Sword, its blade shining with transparent light, and answered.
+Team Leader Choi raised the **[Hero’s Sword]**, its blade shining with transparent light, and answered.
 
 “That won’t happen.”
 
-Team Leader Choi was the great hero Cheon Taemin’s only blood descendant and the master of the Ares Guild, yet he’d never once slacked off.
+Team Leader Choi was the sole blood descendant of the great hero Cheon Taemin and the master of the Ares Guild, yet he’d never once slacked off in his efforts.
 
 Sometimes I thought that if a new S-rank Hunter emerged anytime soon, it would be him.
 
-I let out a quiet laugh at his calm confidence, then turned to the others still waiting.
+I let out a quiet laugh at Team Leader Choi’s calm confidence, then turned to the others still waiting.
 
 “Skeleton King. Yamamoto Genji. You two…”
 
@@ -208,7 +210,7 @@ I let out a quiet laugh at his calm confidence, then turned to the others still 
 
 “M-me too?”
 
-I silenced Yamamoto Genji with a hard stare, then corrected the Skeleton King.
+I silenced Yamamoto Genji with a hard stare, then corrected what the Skeleton King had just said.
 
 “You and him take one each. I’ll take two.”
 
@@ -216,7 +218,7 @@ I silenced Yamamoto Genji with a hard stare, then corrected the Skeleton King.
 
 “Huh?”
 
-The two of them questioned me at the same time. I turned away and muttered inwardly.
+The two of them questioned me at the same time. At that very moment, I turned away and muttered inwardly.
 
 *Open Inventory. Summon.*
 
@@ -228,23 +230,23 @@ A flame warped the space around it.
 
 Force formed around the transparent spearhead, wrapping it in a clear sheen.
 
-In an instant too brief to measure, I gripped the spear in reverse and drove it down like a streak of light.
+And in that brief instant, split into ever-smaller fragments, I drove the spear down like a streak of light, gripping it in reverse.
 
-At an unseen enemy that had approached from deep in the desert without anyone noticing.
+At the unseen enemy who’d crept up from deep in the desert without anyone noticing.
 
 *Shhk. KRAAAAAASH!*
 
-The heat-soaked ground split like tofu.
+The ground, filled with searing heat, split like tofu.
 
-Hard sand and earth beneath my feet shot high into the air. In the ground, gouged out like a vast crater, countless writhing creatures came into view.
+Hard sand and earth beneath my feet shot high into the air. In the ground, gouged out like a vast crater, countless writhing life-forms came into view.
 
-Among them was the largest of all, a monster gleaming red.
+Among them was a monster larger than all the rest, gleaming red.
 
 *That’s…*
 
 A warning light flashed in my mind.
 
-At the same time, the blue circle of Qi Sense spread out alongside my spearhead and reached the monster’s hard body.
+At the same time, the blue circle of **[Qi Sense]** that extended with my spearhead reached the monster’s hard body.
 
 *Ding. Ding. Ding.*
 
@@ -260,7 +262,7 @@ At the same time, the blue circle of Qi Sense spread out alongside my spearhead 
 >
 > Lv. 99 Elite Scorpion
 
-Countless details reached me through my eyes and ears.
+Countless details came to me through my eyes and ears.
 
 But my attention was fixed on only one of them.
 
@@ -268,7 +270,7 @@ But my attention was fixed on only one of them.
 >
 > Lv. 140 Scorpion King
 
-Countless scorpions as large as grown men—and one scorpion larger than dozens of them put together.
+Countless scorpions as large as adult men—and one scorpion larger than dozens of them put together.
 
 *The Scorpion King.*
 
@@ -278,11 +280,11 @@ That was the enemy I had to take down first.
 
 Superheated flames scorched the monsters’ lair, deep beneath the ground.
 
-Their hard carapaces, sharp pincers, even the venomous stingers on their tails—all of it melted away.
+Their hard carapaces, sharp pincers, even the stingers on their tails—all of it melted away.
 
 *Kiiiiieeet!*
 
-The scorpions—or rather, the monsters—screamed in agony. Their dying cries spilled out of the pit and into the world.
+The scorpions—or rather, the monsters—screamed in agony, their dying cries spilling out of the pit and into the world.
 
 Humans and monsters.
 
@@ -300,25 +302,25 @@ Their numbers weren’t the problem.
 
 Their momentum, and the quantity and quality of the demonic qi they emitted, were beyond comparison with what we’d faced before.
 
-The elite monsters waiting in the rear charged after their S-rank commanders. More than ten thousand monsters surged behind them like a wave.
+The elite monsters waiting in the rear charged after their commanders, the S-rank monsters at their head. More than ten thousand monsters surged behind them like a wave.
 
 *KRAAAAAH!*
 
-On the ground came an enormous force led by three S-rank monsters. Over everyone’s heads, hundreds of flying monsters shrieked, led by the Griffon spreading its unusually large wings.
+On the ground, an enormous force led by three S-rank monsters. Over everyone’s heads, hundreds of flying monsters shrieked, led by the Griffon spreading its unusually large wings.
 
 *Kiaaaak!*
 
 The attack began across both sky and ground.
 
-But I neither feared nor hesitated.
+But I didn’t feel afraid or hesitate.
 
 *Kiaaaat!*
 
-The Scorpion King screamed as it burst out of the pit. I drove one decisive strike into it.
+I simply drove a decisive, certain strike into the Scorpion King as it screamed and shot up out of the pit.
 
 *Crunch! Fwoooooosh!*
 
-Its acidic blood melted away in the flames.
+At that moment, the flames melted the acidic blood spilling out of it.
 
 *Ding.*
 

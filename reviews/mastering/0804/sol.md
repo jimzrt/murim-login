@@ -50,7 +50,7 @@ I kicked Yamamoto Genji in the shin for spouting nonsense at a time like this. A
 
 The ground shuddered around me, and a wall of sand surged upward.
 
-Through the countless grains falling back down, I saw the Hunters’ faces. They looked as if they’d just been doused in cold water.
+Through the falling sand, I saw the Hunters’ faces. They looked as if they’d just been doused in cold water.
 
 “What are you all scared of? You that eager to die?”
 
@@ -94,7 +94,7 @@ Of course, there were always exceptions.
 
 “No, even so, that was a bit much…”
 
-I clicked my tongue softly at the sight of Yamamoto Genji rubbing his shin where I’d kicked it, watching me warily. Then I turned my eyes toward the monster army stretching endlessly across the vast desert.
+I clicked my tongue at the sight of Yamamoto Genji rubbing his shin and watching me warily. Then I turned toward the monster army stretching endlessly across the desert.
 
 *Clack. Clack-clack.*
 
@@ -126,7 +126,7 @@ But there was one thing I was sure of.
 
 The Prophet was somewhere on this battlefield.
 
-Given how meticulous the bastard was, he was probably watching everything unfold from some distance away.
+Given how meticulous the bastard was, he’d be watching everything unfold, even if he kept his distance.
 
 *If he came close, I’d sense him right away.*
 
@@ -136,7 +136,7 @@ On top of that, the monster army’s momentum had changed with the arrival of it
 
 “Jin.”
 
-Magic Johnson’s low voice reached my ears. His eyes had sunk deep, as if he could already guess what the battle about to begin again would cost us.
+Magic Johnson’s low voice reached my ears. The look in his eyes suggested he knew what the battle about to begin again would cost us.
 
 He was worried about me, too—the one who would have to bear it all.
 
@@ -150,7 +150,7 @@ Of course, Magic Johnson had the skill and the qualifications. He was a veteran 
 
 But…
 
-“If there’s something I have to bear, I won’t push it onto someone else.”
+“If it’s mine to bear, I won’t push it onto someone else.”
 
 “…!”
 
@@ -184,7 +184,7 @@ Magic Johnson shouted his answer and rose into the air.
 
 The Grand Mage’s eyes, alight with a keen edge, followed hundreds of specks slowly crossing the cloudless sky—and the eagle beating its wings at their head.
 
-More precisely, he was watching a monster with enormous wings tens of meters across and a lion’s lower body: a Griffon.
+Not an eagle. A Griffon, with enormous wings stretching dozens of meters and the lower body of a lion.
 
 “Choi Minwoo.”
 
@@ -220,13 +220,13 @@ The two of them questioned me at the same time. I turned away and muttered inwar
 
 *Open Inventory. Summon.*
 
-The two daggers that had served me so well in close combat disappeared. The cool, solid feel of a spear shaft filled my hand, which had been empty for an instant.
+The two daggers that had served me so well in close combat disappeared. The solid, cool shaft of a spear filled my hands in their place.
 
-A flame warped the space around it.
+Flames warped the space around it.
 
 *Fwoosh.*
 
-Force formed around the transparent spearhead, wrapping it in a clear sheen.
+Force formed around the transparent spearhead.
 
 In an instant too brief to measure, I gripped the spear in reverse and drove it down like a streak of light.
 
@@ -276,7 +276,7 @@ That was the enemy I had to take down first.
 
 *KRAAAAAASH! Crunch!*
 
-Superheated flames scorched the monsters’ lair, deep beneath the ground.
+Superheated flames burned through the monsters’ lair deep beneath the ground.
 
 Their hard carapaces, sharp pincers, even the venomous stingers on their tails—all of it melted away.
 
@@ -288,17 +288,17 @@ Humans and monsters.
 
 Monsters and humans.
 
-Everyone could hear their screams, and everyone reacted.
+Everyone heard their screams, and everyone reacted.
 
 “Kill. The. Humans!”
 
-The Demon Realm language erupted like a roar from an S-rank monster, and a massive tremor swept in every direction.
+An S-rank monster’s roar rang out in the Demon Realm language, and a massive tremor swept in every direction.
 
 *Rumble, rumble, rumble!*
 
 Their numbers weren’t the problem.
 
-Their momentum, and the quantity and quality of the demonic qi they emitted, were beyond comparison with what we’d faced before.
+Their momentum, and the quantity and quality of the demonic qi they emitted, were beyond comparison with before.
 
 The elite monsters waiting in the rear charged after their S-rank commanders. More than ten thousand monsters surged behind them like a wave.
 

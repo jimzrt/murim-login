@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "And I wasn’t the only one.",
+      "defect": "Drops the source’s framing of seeing and sensing more as a special privilege.",
+      "id": "F01",
+      "rationale": "The Korean calls this ability a 특권 (privilege) that the narrator does not enjoy alone. The accepted baseline preserved that framing.",
+      "replacement": "And that wasn’t a privilege I alone could enjoy.",
+      "severity": "minor",
+      "source": "Lines 27–31"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Magic Johnson shouted his answer and rose into the air.",
+      "defect": "Omits the comparison that his answer was shouted like a cheer.",
+      "id": "F02",
+      "rationale": "The source describes the answer as being shouted like a cheer (함성처럼 내지른 대답), a detail preserved in the accepted baseline.",
+      "replacement": "With an answer shouted like a cheer, Magic Johnson rose into the air.",
+      "severity": "minor",
+      "source": "Lines 187–191"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, with two minor omissions of source-specific nuance.",
+  "version": 1
+}
