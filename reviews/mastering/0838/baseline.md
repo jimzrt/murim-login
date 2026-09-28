@@ -2,17 +2,17 @@
 
 As you go through life, you meet all sorts of people.
 
-Only a tiny fraction of them become what you’d call meaningful connections.
+Of course, only a tiny fraction of them become what you’d call meaningful connections.
 
-Most pass through your life by chance, then gradually fade from your memory. Their names. Their faces.
+Most people you meet just pass through your life by chance, then gradually fade from your memory. Their names. Their faces.
 
-But there are exceptions.
+But there are exceptions to everything.
 
-Like the guy sprinting toward me just as I set foot on the landing.
+Like the guy sprinting toward me at full speed, right as I set foot on the landing.
 
 “Young Master Jin! Young Master Jin!”
 
-Was this guy a chance encounter, or a connection that would stick?
+Was this guy a coincidence in my life, or a connection?
 
 I pushed the thought aside and faced the young man, who’d already rushed right up to me.
 
@@ -20,19 +20,19 @@ He was handsome in a refined, aristocratic sort of way, though his upturned eyes
 
 Actually, now that I thought about it, his personality had been a bit like that too.
 
-Right now, though, he looked like a dog reunited with an owner it thought it had lost.
+Though right now, he looked about as happy as a dog who’d found the owner it thought it had lost.
 
 But…
 
 “What was your name again?”
 
-The young man had been panting away as if to prove just how poor his stamina was. At my mutter, he stared at me in shock.
+The young man, who’d been panting away as if to prove just how poor his stamina was, heard my mutter and stared at me in shock.
 
 “Y-you mean you don’t even remember my name?”
 
 Of course I didn’t. Who remembers every extra’s name when they watch a movie?
 
-I answered shamelessly anyway.
+But instead of saying that out loud, I answered shamelessly.
 
 “Of course I remember.”
 
@@ -62,7 +62,7 @@ I’d shown him some goodwill and found out his name. A perfect bit of banter ha
 
 “…!”
 
-After a brief silence, I spoke carefully.
+After a brief silence, I carefully opened my mouth.
 
 “Did you happen to change your name…?”
 
@@ -72,7 +72,7 @@ After a brief silence, I spoke carefully.
 
 “How could you forget? Even now, when I close my eyes, I can still feel the warmth I felt in that cold, dark Dongting Lake!”
 
-At Ju Wongong’s deeply wounded cry, everyone around us turned to look at me. I could hear their hushed voices, too.
+At Ju Wongong’s deeply wounded cry, everyone around us turned to look at me. Their voices were hushed, of course.
 
 “What’s going on…?”
 
@@ -82,9 +82,11 @@ At Ju Wongong’s deeply wounded cry, everyone around us turned to look at me. I
 
 “Remember that time our captain went from the Night King to a blushing innocent, then turned into a Supreme Peak-level homosexual…?”
 
-I’d wondered which bastard was spouting nonsense like a webnovel title. Turns out it was the very bastard I knew.
+I’d wondered which bastard was making up nonsense like a webnovel title. Turns out it was the very bastard I knew.
 
-I sentenced Hyuk Mujin to death with a glare, then spoke as calmly as I could, keeping a close eye on Ju Hwaran. She’d clapped a hand over her mouth.
+I sentenced Hyuk Mujin to death with a glare, then spoke as calmly as I could.
+
+All the while keeping a close eye on Ju Hwaran, who had her hand clamped over her mouth.
 
 “I’ll explain everything. It’s all a misunderstanding.”
 
@@ -98,7 +100,7 @@ For the first time in a while, I lost my temper.
 
 “Hyah!”
 
-The coachman cracked his whip, and the splendid carriage drawn by six fine horses raced down the smooth highway.
+At the coachman’s vigorous crack of the whip, the splendid carriage drawn by six fine horses raced down the smooth highway.
 
 A carriage was a symbol of wealth—a luxury anyone with enough money could afford, regardless of status. But a six-horse carriage was different.
 
@@ -110,31 +112,31 @@ Especially when a golden flag fluttered above it.
 
 “Make way for Young Master Ju Wongong!”
 
-Dozens of mounted soldiers escorted the enormous carriage, and the golden flag marked it as belonging to the imperial family. The road parted before us like the Red Sea.
+With dozens of mounted soldiers escorting the enormous carriage, and a golden flag marking it as belonging to the imperial family, the crowd parted like the Red Sea.
 
 “Mom, what’s that?”
 
 “Shh!”
 
-Commoners along the road, young and old, hurriedly dropped to the ground. Even the fat, powerful official who’d been lording it over everyone from a sedan chair carried by four men climbed down with a wobble.
+Commoners along the road, young and old, hurriedly dropped to the ground. Even the fat, powerful official who’d been lounging in a sedan chair carried by four sturdy men climbed down with a wobble.
 
 *Huh. So what I heard before we left was true?*
 
-I peered out through the lattice window, then looked at Ju Wongong.
+I peered out through the lattice window and looked at Ju Wongong.
 
-I hadn’t seen him in over four months by Murim’s reckoning. He looked even more full of life than before.
+It had been over four months by Murim’s reckoning since I last saw him. He seemed more full of life than before.
 
-Well, of course he did. The last time I saw him, he’d looked more like a drowned corpse than a person.
+Well, of course he was doing better. The last time I saw him, he’d looked more like a drowned corpse than a person.
 
 “Everything is thanks to Young Master Jin.”
 
-Apparently his face wasn’t the only thing that had changed. Had he learned to read minds? Ju Wongong spoke out of nowhere, stroking his neatly trimmed beard.
+It seemed his face wasn’t the only thing that had changed while we were apart. Had he learned to read minds? Ju Wongong spoke out of nowhere, stroking his neatly trimmed beard.
 
 “After I nearly died at Dongting Lake, I resolved to be reborn. I repented of my old ways, when I did nothing but drink, chase women, and gamble…”
 
-“And yet you were out having a great time on a pleasure boat.”
+“And yet you launched a pleasure boat and had a great time.”
 
-Ju Wongong faltered, then changed his tune.
+Ju Wongong faltered at my words, then changed his tune.
 
 “I repented, but resolved to cut back gradually. I’ve also been training my body…”
 
@@ -154,13 +156,13 @@ My neat summary could’ve made even Daechi-dong’s top cram-school instructor 
 
 “You should’ve known. Before you hurt my feelings.”
 
-After spending half an hour explaining the whole “That Time Our Captain Denied Going from the Night King to a Blushing Innocent and Becoming a Supreme Peak-Level Lover of Men” business, I gazed mournfully off to one side and continued.
+After spending half an hour explaining the whole “time our captain went from the Night King to a blushing innocent, then became a Supreme Peak-level homosexual” incident, I gazed off to one side with a deliberately mournful look and continued.
 
 “One of my subordinates got hurt because of you.”
 
 Ju Wongong followed my gaze and shuddered.
 
-In one corner of the carriage, still racing along without pause, a bloody mess—no, Hyuk Mujin—was sprawled against the luxurious interior.
+In one corner of the carriage, still racing without pause, a bloody mess—no, Hyuk Mujin—was sprawled against the luxurious interior.
 
 “But it’s not my fault he ended up like that.”
 
@@ -180,13 +182,13 @@ In one corner of the carriage, still racing along without pause, a bloody mess�
 
 “N-no, that’s not what I—”
 
-“That’s it. I’m really hurt. Get out of the carriage. I’m going straight back to my hometown.”
+“This won’t do. I’m really hurt. Get out of the carriage. I’m going back to my hometown right now.”
 
 “Why are you telling me to get out of my own carriage? And if you mean your hometown, that’s Shanxi Province. Why would you suddenly go there…?”
 
 “To visit the little—no, His Highness, Prince Shangshan. He must’ve grown quite a bit by now. When I saw him about two years ago, I was even changing his poopy diapers.”
 
-“P-Prince Shangshan! Poopy diapers!”
+“P-Prince Shangshan! Diapers!”
 
 Even among Celestial Dragons, there were different levels.
 
@@ -196,7 +198,7 @@ Ju Wongong had been horrified at the name of Prince Shangshan Zhu Bao—the Son 
 
 Oh, right.
 
-But when a sharp reader catches a sloppy continuity error, there’s no need to panic. I widened my eyes and shot back:
+Even when a sharp reader catches a sloppy continuity error, you don’t have to panic. I widened my eyes and shot back:
 
 “Are you making fun of His Highness Prince Shangshan for wearing diapers at his age?”
 
@@ -228,9 +230,11 @@ If you didn’t know the situation, you might wonder why he was groveling like t
 
 Put simply, he wasn’t just an expert at killing his own blood relatives. He was practically the equal of the Primordial Heavenly Venerable.
 
-And if even a hint of the word *rebellion* reached the Son of Heaven’s ears?
+And if even a hint of the word “rebellion” reached the Son of Heaven’s ears?
 
-Rather than waste time on a long-winded excuse, you’d be better off heading straight for the Sichuan Tang Clan. At least the people there knew dozens of poisons that would kill you less painfully than the poisoned draught sure to arrive soon.
+Instead of offering a long-winded excuse, the best choice would be to head straight for the Sichuan Tang Clan.
+
+At the very least, people there knew dozens of poisons that would kill you less painfully than the cup of poisoned wine that was sure to arrive soon.
 
 “Why are you crying now? Anyone would think you were actually plotting treason.”
 
@@ -238,7 +242,7 @@ I patted Ju Wongong on the shoulder. I felt a little sorry for him, but there wa
 
 *It’s easier when you’ve got someone in your pocket.*
 
-Before the carriage left, I’d heard why this guy—who should’ve been stuck in Hubei Province for taking bribes—had suddenly turned up in Sichuan, merrily sailing a pleasure boat.
+Before the carriage left, I’d heard why the guy—who should’ve been stuck in Hubei Province for taking bribes—had suddenly turned up in Sichuan, merrily sailing a pleasure boat.
 
 “My crime hasn’t been completely wiped away. His merciful Majesty merely moved my place of exile to Sichuan for a while, and I’m obeying his command. But if some rumor about treason starts going around… Really, really…”
 
@@ -258,21 +262,23 @@ Ju Wongong sniffled and nodded.
 
 A lot had happened while I was away from Sichuan.
 
-The City Lord of Sichuan Province had suddenly fallen ill. And the other officials weren’t trustworthy enough to be entrusted with such a vast stretch of land and its military forces.
+The City Lord of Sichuan Province had suddenly fallen ill. And the officials weren’t trustworthy enough to be entrusted with such a vast stretch of land and its military forces.
 
 That was probably why Ju Wongong had been chosen.
 
-He was a distant imperial relative with no real claim to the throne. He lacked the nerve, ability, and backing to make such a claim, and his only real talent was drinking, chasing women, and gambling. There couldn’t have been a more suitable person to fill the empty seat for a while.
+He was a distant imperial relative, with no real claim to the throne.
+
+He lacked the nerve, ability, and backing to make such a claim, and his only real talent was drinking, chasing women, and gambling. There couldn’t have been a more suitable person to fill an empty seat for a while.
 
 But Ju Wongong could offer me more than I’d expected.
 
-His appointment might only be temporary, but his personal incompetence didn’t diminish the authority of the City Lord of Sichuan Province.
+His appointment might only be temporary, but the authority of the City Lord of Sichuan Province was a different matter from his personal incompetence.
 
-*At least while I’m in Sichuan, I can make sure they’re thoroughly prepared for Dark Heaven.*
+*At least as long as I’m in Sichuan, I can make sure they’re well prepared for Dark Heaven.*
 
 The government and Murim had long maintained an uneasy coexistence.
 
-But if I could mobilize the government’s manpower—which dwarfed Murim’s—maybe we could uncover whatever Dark Heaven might be planning in Sichuan.
+But if I could mobilize the government’s manpower—which was incomparable to Murim’s—then maybe we could uncover whatever plans Dark Heaven might have in Sichuan.
 
 Of course, before that…
 

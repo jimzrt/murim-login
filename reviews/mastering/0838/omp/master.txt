@@ -48,7 +48,7 @@ He caught the signal in my words and answered with a relaxed smile.
 
 “See? You heard him, Young Master Protagonist.”
 
-I’d shown him some goodwill and found out his name. A perfect bit of banter had me feeling rather pleased with myself—until the young man looked back and forth between Hyuk Mujin and me with a completely flat expression.
+I’d shown him some goodwill and found out his name. I was feeling rather pleased with our perfect teamwork—until the young man looked back and forth between Hyuk Mujin and me with a flat expression.
 
 “Ju Wongong.”
 
@@ -80,7 +80,7 @@ At Ju Wongong’s deeply wounded cry, everyone around us turned to look at me. I
 
 “No way…”
 
-“Remember that time our captain went from the Night King to a blushing innocent, then turned into a Supreme Peak-level homosexual…?”
+“That Time Our Captain Went from the Night King to a Blushing Innocent and Became a Supreme Peak-Level Lover of Men…?”
 
 I’d wondered which bastard was spouting nonsense like a webnovel title. Turns out it was the very bastard I knew.
 
@@ -90,7 +90,7 @@ I sentenced Hyuk Mujin to death with a glare, then spoke as calmly as I could, k
 
 And right then—
 
-“Remember that time our captain went from the Night King to a blushing innocent, then became a Supreme Peak-level homosexual? The allegations he denied…?”
+“That Time Our Captain Denied Going from the Night King to a Blushing Innocent and Becoming a Supreme Peak-Level Lover of Men…?”
 
 For the first time in a while, I lost my temper.
 
@@ -104,7 +104,7 @@ A carriage was a symbol of wealth—a luxury anyone with enough money could affo
 
 Especially when a golden flag fluttered above it.
 
-*Clip-clop, clip-clop, clip-clop!*
+*Thud-thud-thud-thud!*
 
 “Clear the road!”
 
