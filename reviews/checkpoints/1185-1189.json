@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He couldn't see them.",
+      "defect": "The straight apostrophe differs from the curly apostrophes used in the surrounding reading copies.",
+      "id": "C01",
+      "rationale": "Keeps punctuation consistent without changing the prose.",
+      "replacement": "He couldn’t see them.",
+      "severity": "minor",
+      "source": "Chapter 1187, after Jeok Cheongang breaks the mist’s claw"
+    }
+  ],
+  "summary": "The reading copies, summary, and active state are consistent across the checkpoint. One punctuation inconsistency is actionable.",
+  "version": 1
+}
