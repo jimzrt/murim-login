@@ -135,7 +135,14 @@ python tools/run_until_final.py 1024
 
 `run_next_final.py` finishes one mastered chapter. `run_until_final.py` repeats
 that through the target chapter and stops when mastering has not yet promoted
-the next one. An audit takes the translation, mastering, and final-touches
+the next one. A mastered range can be edited in parallel, with commits one at
+a time:
+
+```bash
+python tools/run_final_batch.py 6 40 --workers 3
+```
+
+An audit takes the translation, mastering, and final-touches
 locks. Do not run `audit_range` beside any of the three queues.
 
 Checkpoint reports are automatically recorded with unresolved dispositions for

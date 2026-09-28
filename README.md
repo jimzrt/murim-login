@@ -119,6 +119,14 @@ Won amounts use the fixed rates in `docs/final.json` (1 dollar = 1,400 won, 1 eu
 
 The final-touches runner holds `.work/final.lock`. It may run beside translation and mastering. `run_until_final.py N` walks from the oldest unfinished mastered chapter through chapter N, one chapter at a time, and stops at the first chapter mastering has not promoted yet.
 
+Already mastered chapters do not depend on one another, so a range can be edited in parallel. Commits stay one at a time:
+
+```bash
+python tools/run_final_batch.py 6 40 --workers 3
+```
+
+`--workers` defaults to `batch_workers` in `docs/final.json`. Chapters that are not mastered yet are skipped. A chapter that fails QA is left uncommitted and the rest of the batch continues.
+
 ## What the pipeline guarantees
 
 Model output is never accepted directly. The pipeline uses:

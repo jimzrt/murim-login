@@ -31,7 +31,14 @@ python tools/run_next_final.py
 It picks the oldest mastered chapter that has not yet had final touches, builds
 a specialized packet, checks footnotes, format, duplicates, and omissions, and
 commits `Final Chapter N` only after deterministic QA passes. It holds
-`.work/final.lock` and may overlap with translation and mastering. Inspect
+`.work/final.lock` and may overlap with translation and mastering. A range of
+already mastered chapters can be edited in parallel and committed one at a time:
+
+```bash
+python tools/run_final_batch.py 6 40 --workers 3
+```
+
+A failed chapter stays uncommitted and the other workers continue. Inspect
 locks with `python tools/run_lock.py`. An audit takes all three work locks.
 The wrappers require a clean Git worktree for their own path set; dirt owned
 by the other runners is ignored.
