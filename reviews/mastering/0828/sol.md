@@ -2,7 +2,7 @@
 
 Fear comes in different kinds and degrees.
 
-Some people spend their whole lives afraid of water because they fell into a valley stream as children. Those who’ve lived through an earthquake carry trauma like a brand.
+Some people spend their whole lives afraid of water because they fell into a stream as children. Those who’ve lived through an earthquake carry the trauma like a brand.
 
 But the greatest, deepest fear is fear of the unknown.
 
@@ -12,7 +12,7 @@ That is the unknown.
 
 The universe. The deep sea. Places even humanity, with all its science and magic, has yet to fully reach.
 
-And now, in this very moment, a single streak of fire tearing everything around it to shreds.
+And now, a single streak of fire tearing everything around it to shreds.
 
 *BOOOOM!*
 
@@ -40,13 +40,13 @@ In an instant, all seventy-two Golems became heaps of rubble—before the Doppel
 
 No. It hadn’t even had time to give the order.
 
-The flames tearing through everything hadn’t destroyed only the Golems.
+The flames hadn’t destroyed only the Golems.
 
 *CRASH!*
 
 An immense force shook the air.
 
-The magic circles, scattering dazzling halos of light, exploded one after another.
+The magic circles, which had been scattering dazzling light, burst apart as if they’d exploded.
 
 The Doppelganger watched in horror as the translucent barrier around it melted like candle wax.
 
@@ -66,7 +66,7 @@ Its connection to countless magic circles had been forcibly severed, sending the
 
 If it had cast the magic directly instead of preparing the circles through various conduits and spells, the backlash would have been severe enough to kill it several times over.
 
-*How? How is this possible?*
+*How? How?*
 
 The Doppelganger raised its head, gasping for breath.
 
@@ -90,7 +90,7 @@ He staggered toward it as if he might collapse at any moment.
 
 It was strange.
 
-The whole place was filled with thunderous noise. The temple, stripped of its pillars, was slowly collapsing, and the rocks that had once been Golems were scattering in every direction…
+The temple was filled with deafening noise. Deprived of its pillars, it was slowly collapsing. Rocks that had once been Golems flew in every direction…
 
 *Step.*
 
@@ -116,7 +116,7 @@ Jin Taekyung would never catch it.
 
 But it had been wrong.
 
-The Doppelganger, which had left the battlefield before anyone else, hadn’t known Jin Taekyung had reached an even higher realm in that brief time.
+The Doppelganger had been the first to leave the battlefield. It hadn’t known that, in that brief time, Jin Taekyung had reached a higher realm.
 
 Now that it understood, it was too late.
 
@@ -126,7 +126,7 @@ Erasure. Forever.
 
 Cold fear crawled up its spine. What it did next came from instinct rather than reason.
 
-The Doppelganger burned through the souls it had left without hesitation. It healed the body mangled by mana backlash, then gathered the energy that had once again filled it to the brim into both hands and unleashed it.
+The Doppelganger burned through its remaining souls without restraint. It healed the body ravaged by mana backlash, then gathered the energy that filled it once more into both hands and unleashed it.
 
 At the inhuman monster approaching it.
 
@@ -134,7 +134,7 @@ At Jin Taekyung.
 
 *FWOOSH!*
 
-The instant a blinding flash burst forth—
+A blinding flash erupted.
 
 “No!”
 
@@ -142,7 +142,7 @@ A step ahead of Jin Taekyung, the Skeleton King had been charging toward the Dop
 
 *POP!*
 
-The Skeleton King in his usual state wouldn’t even have snorted at it.
+Ordinarily, the Skeleton King wouldn’t even have snorted at a threat to Jin Taekyung.
 
 For all his bluster, he acknowledged that Jin Taekyung was stronger than he was.
 
@@ -162,7 +162,7 @@ He’d stopped asking himself. Friends didn’t need a reason.
 
 The Skeleton King brought down the Hero’s Sword.
 
-Golden magical power, bright as sunlight and strangely unlike magic, split the flash.
+Golden magical power, bright as sunlight and utterly unlike the magical power he knew, split the flash.
 
 No.
 
@@ -178,7 +178,7 @@ Before he could finish the thought, a light far brighter than the first filled h
 
 The whole world turned white.
 
-In that blinding flash, which would have instantly robbed an ordinary human of their sight, the Skeleton King belatedly remembered the answer to his question.
+An ordinary human would have lost their sight instantly in that blinding flash. Inside it, the Skeleton King belatedly found the answer to his question.
 
 *Damn it.*
 
@@ -206,7 +206,7 @@ But even a moment without sight was a mistake he couldn’t take back when he wa
 
 In the blank white world, the Skeleton King raised his sword. With his sight gone, his hearing took in everything around him.
 
-The roar of rubble crashing down a moment later.
+The roar of rubble falling a moment later.
 
 An unfamiliar cracking sound from high above.
 
@@ -220,27 +220,27 @@ A low voice no one else could hear reached his ear.
 
 At Jin Taekyung’s Sound Transmission, the Skeleton King understood.
 
-Why no magic had come flying at him, even though this was the perfect chance to knock him down.
+Why no spell had struck him, though he was an easy target.
 
 And what the energy moving stealthily through the air was.
 
 *Teleport!*
 
-The Skeleton King’s guess was right.
+He was right.
 
 The Doppelganger was pouring all its strength into drawing a Teleport magic circle.
 
 It felt both relief and regret that it had taken the soul of such an accomplished Grand Mage.
 
-*You piece of shit…!*
+*Shit!*
 
-The Doppelganger’s nature might be that of a monster familiar with magical power, but right now it was in the body of an ordinary human.
+The Doppelganger might be a monster naturally familiar with magical power, but right now it inhabited a human body.
 
-If it tried to cast Teleport without a magic circle to get as far as possible from that inhuman monster, Jin Taekyung, it would crumble to dust without even a chance to resurrect.
+If it cast Teleport without a magic circle to put as much distance as possible between itself and Jin Taekyung, its body would crumble to dust. It wouldn’t even have a chance to resurrect.
 
 *Fwoosh.*
 
-Mana flowed from the Doppelganger’s hand as it swept through the air, slowly wrapping around its body.
+Mana flowed from the hand it swept through the air, gradually wrapping around its body.
 
 The magic circle would take a little time to complete, but it would reduce the danger by more than half.
 
@@ -252,7 +252,7 @@ That was enough for the Doppelganger to survive. The ancient monster of the abys
 
 It happened in an instant.
 
-A bone fragment shot in with a sharp whistle and was deflected by the defensive magic the Doppelganger hurriedly cast.
+A bone fragment whistled toward it, only to bounce off the defensive magic it hastily cast.
 
 *SH-SH-SH-SH! CLANG!*
 
@@ -266,7 +266,7 @@ Losing your sight in battle was like losing the use of both legs.
 
 That was why the Doppelganger hadn’t tried to disable him any further. The Skeleton King was a formidable opponent, and getting far away from Jin Taekyung—who might do anything next—was more urgent.
 
-But right now, the Skeleton King’s movements were far beyond anything the Doppelganger had expected.
+Yet the Skeleton King’s movements went far beyond anything it had expected.
 
 *CRASH!*
 
@@ -274,15 +274,15 @@ Fired with great speed and force, and aimed with extraordinary precision, the bo
 
 The Doppelganger escaped through the opening with a Blink spell, confusion filling its eyes.
 
-*How the hell…*
+*How…?*
 
 It could tell from every move the Skeleton King made. Those attacks required certainty.
 
-Even though the Skeleton King had taken the full force of the Light magic, he continued his attacks without the slightest hesitation.
+He had taken the full force of the Light magic, yet he kept attacking without a moment’s hesitation.
 
 *POP.*
 
-His hazy form shot across the space. At the same time, the golden magical power coating his sword traced a graceful arc.
+His blurred form shot forward. Golden magical power coated his sword as it traced a graceful arc.
 
 As its wielder intended.
 
@@ -294,15 +294,15 @@ At that moment—
 
 *SHWAAK!*
 
-The Skeleton King’s unhesitating charge wavered.
+The Skeleton King’s headlong charge shifted.
 
-An ice spear shot past between his streaming golden locks and slammed into a pile of rubble.
+An ice spear grazed his streaming golden hair and struck a heap of rubble.
 
 *BOOM! CRACK-CRACK!*
 
 The air turned cold. The Skeleton King moved by his own senses and the Sound Transmissions reaching his ear.
 
-—Three steps right. A horizontal slash.
+—Three steps right. Slash across.
 
 *SHHK!*
 
@@ -318,7 +318,7 @@ Dozens of Magic Missiles tore through empty air.
 
 As expected of spells cast with a Grand Mage’s power, they struck hard and exploded spectacularly.
 
-But not a single spell touched the Skeleton King. The Doppelganger swallowed a startled breath as he closed to within ten steps.
+But none touched the Skeleton King. The Doppelganger caught its breath when it saw he had closed to within ten steps.
 
 *Already…!*
 
@@ -328,7 +328,7 @@ The Skeleton King kept firing bone fragments to disrupt the magic circle. He dod
 
 *Was that mutant always this strong?*
 
-But the question disappeared without a trace the moment the Doppelganger saw the Skeleton King’s unfocused eyes.
+The question vanished the moment the Doppelganger saw his unfocused eyes.
 
 A shock like a bucket of cold water took its place.
 
@@ -336,7 +336,7 @@ A shock like a bucket of cold water took its place.
 
 What had Jin Taekyung done?
 
-How could he be barely standing, as if he were about to collapse at any moment, and still render the Doppelganger this helpless?
+He could barely stand, yet somehow he had made the Doppelganger this helpless.
 
 Confusion and fear gripped it as it gathered its mana.
 
