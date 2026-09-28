@@ -38,7 +38,7 @@ Even people who pissed at least once or twice a day sometimes missed the target.
 
 Only about half of the hundred or so iron balls had been fired properly, and more than half of those hadn’t come anywhere near us.
 
-The ones that had miraculously reached the swift ship had merely served as sacrifices to the river’s wave pool.
+The few that had miraculously landed near the swift ship had only made us a wave pool.
 
 *Well, I suppose they’ve only fired a few shots now and then during training.*
 
@@ -92,7 +92,7 @@ The moment I tossed out that one line—
 
 *Boom!*
 
-The second volley thundered, and a faint whistle came from behind me.
+The second volley thundered, and faint whistles sounded behind me.
 
 *Whoosh!*
 
@@ -146,7 +146,7 @@ The pleasure boat fell quiet. The smile on the young man’s lips faded.
 
 *Clack.*
 
-He set his cup down roughly, splashing the wine inside.
+He set his cup down hard, splashing wine across the table.
 
 “Trouble?”
 
@@ -162,7 +162,7 @@ The merchant who’d spoken first stammered.
 
 He ran a sizable trading company in Sichuan, and he already regretted opening his mouth.
 
-He’d even paid a bribe to attend this gathering, hoping to win the young man’s favor. As a merchant, he’d heard and seen a lot, so he’d spoken without giving it much thought. Now, instead of catching the young man’s eye, he was about to fall out of favor.
+He’d even paid a bribe to attend this gathering, hoping to win the young man’s favor. Running a trading company meant he heard things, and he’d spoken without thinking. Now, instead of winning favor, he was about to lose it.
 
 “I-I’m sorry, Young Master.”
 
@@ -180,7 +180,7 @@ The Yangtze River Channel League?
 
 A grand name, but in the end, it was just a collection of stinking, uneducated river pirates.
 
-No matter how inviolable the boundary between the government and Murim was, to the young man they were nothing but bandits who ought to be beaten down on sight.
+The government and Murim might not interfere with each other, but to the young man, they were bandits to be beaten down on sight.
 
 What had happened a few months ago had only hardened that belief.
 
@@ -212,7 +212,7 @@ He turned as he shouted—and blinked.
 
 That was his first thought.
 
-But even after rubbing his eyes hard with his sleeve and looking again, the scene before him remained unchanged.
+But even after rubbing his eyes hard with his sleeve and looking again, the sight before him remained.
 
 No, something had changed.
 
@@ -224,7 +224,7 @@ The boat that should have sunk long ago was closing in at tremendous speed.
 
 “What the hell is that?”
 
-The courtesans, who’d been watching their employer for cues, and those who’d reluctantly raised their heads at the young man’s order, all blinked as they watched the unbelievable sight.
+The courtesans, who’d been watching their employer for cues, and the guests, who’d reluctantly raised their heads at his order, blinked at the impossible sight.
 
 *How is it still in one piece?*
 
@@ -244,7 +244,7 @@ As someone had noticed, more than ten military vessels were still busy firing ca
 
 “Then why aren’t you hitting it?”
 
-“We are! We definitely hit it! We heard the sound!”
+“We are! We definitely hit it! We heard it!”
 
 “Then why is it still in one piece?”
 
@@ -264,7 +264,7 @@ The sleek vessel cutting through the black current as it approached from the dar
 
 Fear crept up alongside the question in every mind.
 
-Every sailor had heard stories of ghost ships that cannonballs couldn’t sink—and whose dead crews wouldn’t stay dead.
+Every sailor had heard the stories: ships of the dead that cannonballs couldn’t sink, crewed by the dead who couldn’t be killed.
 
 *I-is it really a ghost ship?*
 
@@ -272,11 +272,11 @@ Every sailor had heard stories of ghost ships that cannonballs couldn’t sink�
 
 *Then is the Yangtze a sea?*
 
-While the soldiers’ absurd thoughts chased one another around, the young man had come right up to the bow of the pleasure boat. He was putting to the test the strange gift he’d received just that day: an instrument called a thousand-li lens.
+While the soldiers’ absurd thoughts led from one to the next, the young man moved to the very bow of the pleasure boat. He was trying out the remarkable gift he’d received that day: an instrument called a thousand-li lens.
 
 What he saw horrified him.
 
-“This is insane…”
+“This is fucking insane…”
 
 He muttered the vulgar words without realizing it, then stood there gaping.
 
@@ -284,7 +284,7 @@ Through the thousand-li lens, he could see something he could hardly believe.
 
 *Boom! Boom! Craaash!*
 
-Cannonballs bounced away amid the thunderous blasts.
+Cannonballs went flying away amid the thunderous impacts.
 
 No—people were knocking away the cannonballs as they came hurtling toward the ship.
 
@@ -314,6 +314,6 @@ Namho, who knew a thing or two, answered.
 
 “Yeah. Well…”
 
-Jin Taekyung scratched the back of his head and added:
+Jin Taekyung scratched the back of his head.
 
 “I saved his life once when our paths crossed.”

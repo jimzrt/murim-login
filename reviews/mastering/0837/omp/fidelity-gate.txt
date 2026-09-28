@@ -1,0 +1,15 @@
+{
+  "summary": "One minor wording shift changes what is described as blade-like.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 199",
+      "current": "The government troops are as sharp as blades",
+      "defect": "The source describes the troops’ 기세—their force or momentum—as like a blade. The current wording instead describes the troops themselves as sharp.",
+      "replacement": "The government troops have momentum like a blade",
+      "rationale": "In 관군의 기세는 칼 같고, 칼 같고 modifies 기세, not 관군.",
+      "confidence": 0.94
+    }
+  ]
+}
