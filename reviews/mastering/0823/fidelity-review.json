@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But most of them did not see the young hero’s eyes twitch as he stood amid the cheers pouring in from every direction.",
+      "defect": "This repeats the preceding sentence’s claim that most people did not see the moment, then restates it for the first specific detail. The source makes that claim once, followed by the details they missed.",
+      "id": "F01",
+      "rationale": "The Korean says most people did not know or see, then describes the hero’s twitching eyes and whitening fingers. It does not repeat the “did not see” claim.",
+      "replacement": "The young hero’s eyes twitched as he stood amid the cheers pouring in from every direction.",
+      "severity": "minor",
+      "source": "Lines 79–81"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Through the distant pain, his blurred vision cleared again.",
+      "defect": "This repeats the preceding sentence’s image of his vision clearing through the pain.",
+      "id": "F02",
+      "rationale": "The source describes his vision clearing once, then says he swallows the blood on his tongue, raises his head, and sees familiar faces.",
+      "replacement": "Jin Taekyung swallowed the blood on his tongue and raised his head. Two welcome faces were waiting for him.",
+      "severity": "minor",
+      "source": "Lines 211–213"
+    }
+  ],
+  "summary": "Two repeated observations add redundancy not present in the Korean source.",
+  "version": 1
+}

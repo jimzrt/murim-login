@@ -20,9 +20,9 @@ The Hunters had been afraid.
 
 Afraid they would never see their families again. Afraid that if they fell in this nameless canyon, an even greater calamity would swallow those who remained.
 
-But their brief fear had been rendered meaningless. Jin Taekyung had ended this massive battle in an instant.
+But Jin Taekyung had ended the massive battle in an instant, making their brief fear seem almost unfounded.
 
-He had been overwhelming—and, in a way, divine.
+His power had been overwhelming—and, in a way, divine.
 
 Everyone who survived knew it.
 
@@ -32,7 +32,7 @@ Like a scene from a myth.
 
 *If miracles exist… this must be what one looks like.*
 
-Magic Johnson suddenly felt something stir in his chest. The Grand Mage’s gaze, fixed on Jin Taekyung, trembled like ripples on a pond.
+Magic Johnson felt something stir in his chest. As he gazed at Jin Taekyung, his eyes trembled like ripples on water.
 
 *He reminds me of him. Astonishingly so.*
 
@@ -71,8 +71,6 @@ Blades smeared with blood and flesh thrust toward the sky.
 A tremendous roar shook the canyon.
 
 It was joy at victory, mourning for fallen comrades, and reverence offered wholly to one man.
-
-But most of them neither knew nor saw it.
 
 But most of them did not see the young hero’s eyes twitch as he stood amid the cheers pouring in from every direction.
 
@@ -190,9 +188,7 @@ A human and a monster. No—his friends had come.
 
 To help him.
 
-*Crack.*
-
-The vision that had blurred with that distant pain grew clear again.
+He clenched his teeth.
 
 Through the distant pain, his blurred vision cleared again. Jin Taekyung swallowed the blood on his tongue and raised his head. Two welcome faces were waiting for him.
 
@@ -212,7 +208,7 @@ Jin Taekyung answered weakly.
 
 “Tell me how many, you ugly, dim-witted bastard.”
 
-“One. But if you don’t want me to break it, quit waving it around and lower it.”
+“One. Now put it down unless you want me to break it.”
 
 The Skeleton King, who had been waggling his middle finger in front of Jin’s face, nodded.
 
@@ -220,7 +216,7 @@ The Skeleton King, who had been waggling his middle finger in front of Jin’s f
 
 Jin Taekyung snorted, then broke into a cough.
 
-“Team Leader Choi… *cough*, how is he?”
+“Team… *cough*. Team Leader Choi?”
 
 “He’s fine. A little injured, but fine.”
 
@@ -228,7 +224,7 @@ Jin Taekyung snorted, then broke into a cough.
 
 “Trust me. I’m not lying.”
 
-Jin Taekyung let out a relieved sigh and straightened his back with effort.
+Jin Taekyung let out a relieved breath and straightened his back with effort.
 
 He was still short of breath, his senses still dull. But he couldn’t stop here.
 
@@ -264,7 +260,7 @@ It always had with the young man before him.
 
 “Then leave.”
 
-Looking up at Magic Johnson, who was a head taller than him, Jin Taekyung continued:
+Jin Taekyung looked up at Magic Johnson, who stood a head taller than him.
 
 “But until I accept your resignation, you’ll have to follow my orders.”
 
@@ -278,7 +274,7 @@ The talk of resignations and orders was nothing more than a clumsy play on words
 
 *Damn it.*
 
-He couldn’t bring himself to meet those eyes. He was ashamed of himself for having to make this choice.
+Johnson could not bring himself to meet those eyes. He was ashamed of the choice he had no choice but to make.
 
 He squeezed his eyes shut, then opened them and gritted his teeth.
 
@@ -290,15 +286,15 @@ Jin Taekyung gave a faint smile.
 
 “What?”
 
-“Sichuan, China. You said the same thing there. And we pulled it off just fine.”
+“Sichuan, China. You said the same thing there. And we pulled it off.”
 
 “……!”
 
 “Send me to the place the Prophet—no, the Doppelganger—told us about at the beginning.”
 
-Magic Johnson’s pupils trembled as he looked at Jin Taekyung.
+Magic Johnson’s eyes trembled as he looked at Jin Taekyung.
 
-He had to stop him. He absolutely had to stop him.
+He had to stop him. He knew he had to.
 
 But his damned Grand Mage’s mind was already calculating, already drawing a reasonable conclusion.
 
@@ -308,21 +304,21 @@ They had tried Teleport magic once before under a magical power concentration li
 
 It had been possible because Magic Johnson was among the finest mages alive—and because the person he was transporting was Jin Taekyung.
 
-*If it isn’t Teleport magic, if it isn’t Jin… no one else can stop the Doppelganger.*
+*Without Teleport, without Jin… no one can stop the Doppelganger.*
 
 Jin Taekyung’s proposal was reckless, but the reality behind it could not be ignored.
 
 A considerable amount of time had passed since the Doppelganger fled the battlefield. Catching up to it was almost impossible.
 
-But if they used Teleport magic—
+Unless they used Teleport.
 
-And if there was someone who could endure Teleport magic this dangerous, things would be different.
+Unless someone could survive a Teleport this dangerous.
 
-How cruel.
+Cruel as it was, that changed everything.
 
 “Fuck.”
 
-Magic Johnson muttered a curse weakly. Jin Taekyung was standing on his own now, without anyone’s help, looking straight at him.
+Magic Johnson muttered the curse weakly. Jin Taekyung was standing on his own now, looking straight at him.
 
 And beside Jin stood someone who had volunteered to share the danger.
 
@@ -336,10 +332,10 @@ The moment Magic Johnson saw him, he knew he had nowhere left to retreat.
 
 *Whummm.*
 
-The staff, filled with mana, trembled. Beyond the dazzling flash, his voice rang out faintly.
+The staff trembled, filled with mana. Beyond the dazzling flash, his voice sounded faint.
 
 “Come back alive. No matter what.”
 
 *Fwoooosh.*
 
-An overwhelming flash of light swallowed the space around them.
+A blinding flash swallowed the space around them.
