@@ -162,6 +162,26 @@ input {
   min-width: 0;
 }
 
+.nav-chapter {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  max-width: 40%;
+  overflow: hidden;
+  color: var(--muted);
+  font-family: var(--ui);
+  font-size: 0.84rem;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+.nav-chapter-short {
+  display: none;
+}
+
 .read-progress-label {
   margin-right: 0.15rem;
   min-width: 2.6rem;
@@ -465,6 +485,18 @@ pagefind-modal pagefind-modal-header .pf-input:focus-visible {
   .nav-spacer {
     flex: 1 1 auto;
     min-width: 0.25rem;
+  }
+
+  .nav-chapter {
+    font-size: 0.78rem;
+  }
+
+  .nav-chapter-full {
+    display: none;
+  }
+
+  .nav-chapter-short {
+    display: inline;
   }
 
   .read-progress-label {

@@ -271,9 +271,11 @@ function ensureWordWeightsFromPage() {
 }
 
 function syncProgressChrome() {
-  const onChapter = Boolean(document.querySelector("[data-page='chapter']"));
+  const page = document.querySelector<HTMLElement>("[data-page='chapter']");
+  const onChapter = Boolean(page);
   const progress = document.getElementById("read-progress");
   const label = document.getElementById("read-progress-label");
+  const chapterLabel = document.getElementById("nav-chapter");
   if (progress) {
     progress.hidden = !onChapter;
   }
@@ -281,6 +283,22 @@ function syncProgressChrome() {
     label.hidden = !onChapter;
     if (!onChapter) {
       label.textContent = "0%";
+    }
+  }
+  if (chapterLabel) {
+    chapterLabel.hidden = !onChapter;
+    if (onChapter) {
+      const chapter = Number(page?.dataset.chapter);
+      const full = chapterLabel.querySelector(".nav-chapter-full");
+      const short = chapterLabel.querySelector(".nav-chapter-short");
+      if (Number.isInteger(chapter)) {
+        if (full) {
+          full.textContent = `Chapter ${chapter}`;
+        }
+        if (short) {
+          short.textContent = `ch ${chapter}`;
+        }
+      }
     }
   }
   document.getElementById("site-header")?.classList.remove("is-hidden");
