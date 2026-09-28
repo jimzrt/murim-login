@@ -2,11 +2,11 @@
 
 A space reserved for one person alone.
 
-In the light that faintly illuminated the darkness, an eerie sound of flesh tearing echoed through the air.
+In the dim light, a sickening sound of flesh and bone twisting echoed through the darkness.
 
 *Crack. Crack-crack.*
 
-Bones and muscles twisted. A tremendous force surged in time with the beating of a heart, bringing about a transformation.
+Bones and muscles contorted. A tremendous surge of energy pulsed in time with a beating heart, remaking the body from within.
 
 What was weak grew strong.
 
@@ -16,7 +16,7 @@ The man’s veins stood out across his body, and cold sweat had soaked him throu
 
 *Drip.*
 
-Drops of blood fell one by one.
+Blood fell in scattered drops.
 
 Yet despite the agony wringing every part of his body, there was no trace of fear or pain in his gray eyes.
 
@@ -44,7 +44,7 @@ Michael Silbert felt the change within himself and smiled.
 
 *Vrrrrr.*
 
-A faint vibration reached him from somewhere.
+A faint vibration came from somewhere nearby.
 
 Michael knew exactly what it meant. He rose without hesitation and silently extended a hand. A hidden door opened, spilling light from the other side.
 
@@ -108,11 +108,11 @@ Michael shook his head without hesitation.
 
 Siegfried Wassmann had been a figure of tremendous stature, not just in Switzerland but around the world. Michael could easily use his death to spread theories about his enemies. It would just as easily backfire.
 
-If he forcibly dragged his enemies into a pit of filth, some of that filth would splash onto him as well.
+Drag them into a pit of filth, and some of it would splash onto him.
 
 “Most people won’t give those theories a second thought. Worse, some will start wondering whether everything that’s happened around those bastards was staged. People who curse them today will take their side tomorrow.”
 
-They were quick to condemn someone after being deceived by one tiny false aspect, then quickly changed their attitude once the whole truth came to light, gently embracing the person they had cursed.
+As far as Michael knew, that was how people worked. They were quick to condemn someone on the strength of one small lie. Then, when the truth came out, they changed their tune and gently embraced the person they had cursed.
 
 As though nothing had happened.
 
@@ -130,7 +130,7 @@ At most, Siegfried Wassmann’s death might put pressure on Magic Johnson. Even 
 
 Huginn answered the calm, firm order at once.
 
-“Understood. I’ll relay that to Minister Berse as well.”
+“Understood. I’ll inform Minister Berse.”
 
 “Good. How are things with the media outlets?”
 
@@ -182,7 +182,7 @@ Just as it had loved someone from Michael’s past, still vivid in his memory.
 
 *Sky.*
 
-One week ago, Michael had sensed a trace of Cheon Taemin in the young Asian man he met for the first time in the ruins.
+A week ago, among the ruins, Michael had met that young Asian man for the first time and sensed something of Cheon Taemin in him.
 
 He looked different. He felt different. But Michael’s instincts had warned him.
 
@@ -196,7 +196,7 @@ Those swept up in the terror of the attacks and the crowd mentality the media ha
 
 *But if my guess is right… it’s only a matter of time before he falls.*
 
-Michael thought to himself as he recalled Jin Taekyung’s eyes, blazing with rage.
+Michael remembered Jin Taekyung’s eyes blazing with anger.
 
 And someone who had stood beside him.
 
@@ -222,7 +222,7 @@ The man who had given the order and the man who had carried it out both knew wha
 
 To Michael, that was a minor detail.
 
-If he could obtain what he wanted, then the sacrifice of those who would die somewhere in this vast world was an absurdly cheap price.
+An unavoidable sacrifice on the way to the destination he had sought for so long. If it bought him what he wanted, the lives of people dying somewhere in this vast world were a cheap price indeed.
 
 * * *
 

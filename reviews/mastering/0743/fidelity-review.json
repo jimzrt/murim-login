@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "They were quick to condemn someone after being deceived by one tiny false aspect, then quickly changed their attitude once the whole truth came to light, gently embracing the person they had cursed.",
+      "defect": "The English omits the source’s explicit framing that, as far as Michael knew, this was simply what human beings were like.",
+      "id": "F01",
+      "rationale": "The Korean states “as far as Michael knew” and characterizes this behavior as human nature before describing it. The accepted baseline preserved that framing.",
+      "replacement": "As far as Michael knew, that was simply what human beings were like. They were quick to condemn someone after being deceived by one tiny false aspect, then quickly changed their attitude once the whole truth came to light, gently embracing the person they had cursed.",
+      "severity": "minor",
+      "source": "Chapter 743, lines 141–143"
+    },
+    {
+      "confidence": 0.91,
+      "current": "One step. Only one step remained between Michael and the summit he had longed to reach. He already held the flag that would proclaim his conquest.",
+      "defect": "“Summit” changes the source’s high-ground image. The Korean describes reaching and occupying a long-desired high ground, with a flag to announce its capture.",
+      "id": "F02",
+      "rationale": "The source repeats the image of high ground and its occupation; the accepted baseline also used “high ground.”",
+      "replacement": "One step. Only one step remained before Michael reached the high ground he had longed for, and he held the flag that would announce he had taken it.",
+      "severity": "minor",
+      "source": "Chapter 743, lines 243–245"
+    },
+    {
+      "confidence": 0.93,
+      "current": "To Michael, that was a minor detail.",
+      "defect": "The English omits the explicit idea that the deaths and injuries were an unavoidable sacrifice required to reach his desired destination.",
+      "id": "F03",
+      "rationale": "The source states that reaching his long-desired destination required this unavoidable sacrifice. The following sentence calls the sacrifice cheap, but does not preserve that explicit necessity.",
+      "replacement": "To Michael, that was a minor detail. An unavoidable sacrifice was the price of reaching the destination he had longed for.",
+      "severity": "minor",
+      "source": "Chapter 743, lines 263–273"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Michael knew the power of the media. He knew, too, how shallow and frightening a crowd’s judgment could be.",
+      "defect": "The source refers to crowd psychology, not the crowd’s judgment. The English narrows and changes the subject of Michael’s understanding.",
+      "id": "F04",
+      "rationale": "The Korean phrase 군중심리 means crowd psychology or mob psychology; it does not specifically identify the crowd’s judgment.",
+      "replacement": "Michael knew the power of the media. He knew, too, how shallow and frightening crowd psychology could be.",
+      "severity": "minor",
+      "source": "Chapter 743, lines 197–199"
+    }
+  ],
+  "summary": "The assembled copy has a few source-fidelity losses: it omits Michael’s framing of human nature and the sacrifice required to reach his goal, and it shifts two source images.",
+  "version": 1
+}
