@@ -1,6 +1,6 @@
 # Chapter 464
 
-Dongting Lake was unquestionably a lake, but it covered a thousand *li*[^1], and even at its shallowest, the water was easily more than ten *zhang*[^2] deep.
+Dongting Lake was unquestionably a lake, but it covered a thousand *li*, and even at its shallowest, the water was easily more than ten *zhang* deep.
 
 The place I was swimming through now was one of the deepest parts of Dongting Lake. Naturally, the water was much deeper here, and the current raged like waves.
 
@@ -116,7 +116,7 @@ And that half-burned torch told me something important.
 
 *It hasn’t been out for long.*
 
-A faint warmth still lingered in the wood. It wasn’t difficult to deduce that the torch had fallen for some reason no more than one or two *shichen*[^3] ago.
+A faint warmth still lingered in the wood. It wasn’t difficult to deduce that the torch had fallen for some reason no more than one or two *shichen* ago.
 
 And that pointed to one conclusion.
 
@@ -180,7 +180,7 @@ The sudden noise jolted me alert as if someone had dumped cold water over my hea
 
 My fully extended senses analyzed the sound and sent the new information straight to my brain.
 
-*Fifty-odd zhang[^2] ahead. Closer than I expected.*
+*Fifty-odd zhang ahead. Closer than I expected.*
 
 The sound also echoed with unusual depth and volume. That meant there was a larger space ahead, beyond this narrow cave passage.
 
@@ -190,7 +190,7 @@ One step. Then another.
 
 I focused every nerve in my toes as they touched the damp cave floor.
 
-It was a blessing that I had used my Scorching Yang Qi[^4] beforehand to dry the water that had soaked me through. If water dripping from my body had struck the floor and made a sound, the Dongting Fisherman would have discovered me.
+It was a blessing that I had used my Scorching Yang Qi beforehand to dry the water that had soaked me through. If water dripping from my body had struck the floor and made a sound, the Dongting Fisherman would have discovered me.
 
 *I have to finish this inside the cave. Fighting underwater would make things much harder.*
 
@@ -202,7 +202,7 @@ Here, however, I had solid ground beneath my feet. This was land, and naturally,
 
 *I can’t let this opportunity slip away.*
 
-The fifty-odd *zhang*[^2] between us rapidly dwindled.
+The fifty-odd *zhang* between us rapidly dwindled.
 
 *Splish. Splaash.*
 
@@ -216,11 +216,11 @@ If the Dongting Fisherman proved too formidable, I would use everything I had to
 
 *I’ll finish it in a single stroke, like a bolt of lightning.*
 
-With a short breath, I awakened the fire dragon sleeping deep within my dantian[^5].
+With a short breath, I awakened the fire dragon sleeping deep within my dantian.
 
-The three *jiazi*[^6] of Scorching Yang Qi[^4] I had continually replenished through circulation surged into every limb and bone.
+The three *jiazi* of Scorching Yang Qi I had continually replenished through circulation surged into every limb and bone.
 
-Searing heat flooded hundreds of acupoints and the Eight Extraordinary Meridians[^7], driving every physical ability to its limit.
+Searing heat flooded hundreds of acupoints and the Eight Extraordinary Meridians, driving every physical ability to its limit.
 
 And then…
 
@@ -230,7 +230,7 @@ One step was enough.
 
 I planted a foot lightly against the slanted wall and shot forward.
 
-The passage opened into a chamber some thirty *zhang*[^2] in radius, presumably the heart of the cave.
+The passage opened into a chamber some thirty *zhang* in radius, presumably the heart of the cave.
 
 At its center, a white-haired old man crouched with his back to me.
 
@@ -252,7 +252,7 @@ The Fire Dragon Armor.
 
 Then a cluster of light visible only to me brushed my finger and transformed into the divine artifact known as the Myriad-Poison Ring. At the same time, a spear with a transparent blade appeared in my grasp.
 
-The next moment, three *jiazi*[^6] of Scorching Yang Qi[^4] flooded into them all.
+The next moment, three *jiazi* of Scorching Yang Qi flooded into them all.
 
 *Whoooooosh!*
 
@@ -287,11 +287,3 @@ I had been too quick to assume.
 *Boom!*
 
 A snow-white streak of light flew in from somewhere and slammed into White Flame’s spear blade.
-
-[^1]: In this Chinese setting, one *li* is approximately 500 meters (0.311 miles); a thousand *li* is about 500 kilometers (311 miles).
-[^2]: One *zhang* is approximately 3.03 meters (9.94 feet).
-[^3]: A *shichen* is a traditional time unit of approximately two hours.
-[^4]: *Qi* is the vital energy cultivated and used in Chinese martial traditions. Scorching Yang Qi is fire-aligned.
-[^5]: The *dantian* is an energy center in the lower abdomen in Chinese martial traditions.
-[^6]: A *jiazi* is a traditional sixty-year cycle; three *jiazi* represent 180 years.
-[^7]: The Eight Extraordinary Meridians are channels through which qi flows in traditional Chinese physiology.
