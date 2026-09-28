@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "He’d played two cheat cards at once.",
+      "defect": "“Cheat cards” changes the source’s cheat-key/code image into a playing-card image and weakens the gaming joke.",
+      "id": "F02",
+      "rationale": "The Korean uses 치트키, the familiar gaming term for a cheat key/code. The accepted baseline rendered this as “cheat codes.”",
+      "replacement": "He’d used two cheat codes at once.",
+      "severity": "minor",
+      "source": "Line 41"
+    }
+  ],
+  "summary": "Two minor fidelity issues: an omitted fact about the Skeleton King and a weakened rendering of the cheat-code joke.",
+  "version": 1
+}

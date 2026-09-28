@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor fidelity issues: an omitted fact about the Skeleton King and a weakened rendering of the cheat-code joke.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 107–111",
+      "current": "Even Michael Silbert, who’d kept his identity completely hidden by controlling the two energies coexisting inside him, had once aroused the Skeleton King’s suspicions.\n\n*And his abilities are exceptional.*",
+      "defect": "The assembled text omits the statement that the Skeleton King is the foremost expert on magical power. His exceptional abilities do not convey that specific expertise.",
+      "replacement": "Whether he wanted it or not, the Skeleton King was the foremost expert on magical power.",
+      "rationale": "The source explicitly calls him the best expert on magical power, reinforcing why his judgment about the undead and magic is reliable. The accepted baseline preserved this fact.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 41",
+      "current": "He’d played two cheat cards at once.",
+      "defect": "“Cheat cards” changes the source’s cheat-key/code image into a playing-card image and weakens the gaming joke.",
+      "replacement": "He’d used two cheat codes at once.",
+      "rationale": "The Korean uses 치트키, the familiar gaming term for a cheat key/code. The accepted baseline rendered this as “cheat codes.”",
+      "confidence": 0.96
+    }
+  ]
+}

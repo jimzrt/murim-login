@@ -2,7 +2,7 @@
 
 With the whole world searching high and low, the chances that The Prophet had slipped into a major city full of people were close to zero.
 
-So the tight search net spread across the Middle East, centered on the main force, was focused on monitoring underdeveloped areas. The place we headed to right away was no exception.
+The search net spread across the Middle East from the main base was therefore focused on less developed areas. Our destination was one of them.
 
 Wasteland stretched out on either side of a track so rough it hardly deserved to be called a road.
 
@@ -10,7 +10,7 @@ Beyond it lay a desert as vast as the open sea, dotted with little stands of tre
 
 And there, familiar faces were waiting for me.
 
-“You’re with the main force, righ—huh?”
+“You’re from the main base, righ—huh?”
 
 Surprise flashed across a face so young it belonged more to a boy than a man. Xiao Shen stared at me, dumbstruck, then cried out.
 
@@ -60,11 +60,11 @@ I turned. A figure was walking out of the darkness, countless pairs of monster e
 
 *Shing.*
 
-Dozens of Hunters accompanying us as our supposed entourage reflexively drew their weapons. I stopped them with a casual wave and answered evenly.
+The dozens of Hunters who’d accompanied us as an entourage reflexively drew their weapons. I stopped them with a casual wave and answered evenly.
 
 “I got here as fast as I could.”
 
-“Already talking nonsense. I’ve been waiting at least a week.”
+“Already talking nonsense. Feels like I’ve waited at least a week.”
 
 “Well, I did sleep for a long time.”
 
@@ -98,15 +98,15 @@ Though, technically, it was an army of the undead.
 
 I nodded. If the Skeleton King said so, then that was that.
 
-Even Michael Silbert, who’d kept his identity completely hidden by controlling the two energies coexisting inside him, had once aroused the Skeleton King’s suspicions.
+Even Michael Silbert, who’d kept his identity hidden by carefully controlling the two energies within him, had once aroused the Skeleton King’s suspicions. Whether he wanted the distinction or not, the Skeleton King was the foremost expert on magical power.
 
 *And his abilities are exceptional.*
 
 In Murim, a Supreme Peak master is called a one-man army.
 
-An S-rank Hunter in the modern world might not compare to a Supreme Peak master, of course, but they weren’t treated all that differently.
+An S-rank Hunter in the modern world might not compare to a Supreme Peak master, but the way people treated them wasn’t much different. They were all superhumans, on another level from ordinary people and Hunters alike.
 
-Even among such people, the Skeleton King’s abilities stood out.
+Even among them, the Skeleton King stood out.
 
 Any capable S-rank Hunter could take down an army of monsters alone. Finishing the job in less than thirty minutes without a single casualty was another matter.
 
@@ -128,13 +128,13 @@ Any capable S-rank Hunter could take down an army of monsters alone. Finishing t
 
 Is this guy fucking insane?
 
-I stared at the Skeleton King, who could swap out his family tree at the drop of a hat, with some bemusement. But I didn’t have much to say. He’d held off a Monster Wave by himself. The least I could do was praise him instead of cursing him out.
+I stared at the Skeleton King, who could swap out his family tree without missing a beat. But I couldn’t really complain. He’d stopped a Monster Wave by himself. Praising him instead of cursing him out was the least I could do.
 
 I sighed and started to turn away. Then a question occurred to me.
 
 *Why did he call for backup?*
 
-The Skeleton King was powerful. As long as his magical power held out, he could create an endless army of the undead, and his own fighting ability was no joke.
+The Skeleton King was powerful. As long as he had the magical power, he could keep raising undead indefinitely, and he was no slouch in a fight himself.
 
 So why?
 
@@ -154,7 +154,7 @@ I turned back. Maybe my thoughts showed on my face, because the Skeleton King wa
 
 After a brief silence, he answered.
 
-“Even this great king doesn’t know.”
+“Even I don’t know.”
 
 “What?”
 
@@ -186,7 +186,7 @@ Chuck Hagel came over to inspect the bodies. The cigar fell from his mouth.
 
 He wasn’t the only one.
 
-“What the hell is this…?”
+“What the hell…?”
 
 “Damn it. Henry?”
 
@@ -198,7 +198,7 @@ No.
 
 The other Hunters and I had seen countless horrific sights. On a battlefield reeking of monsters and blood, even a severed limb wouldn’t make us bat an eye.
 
-But even people like us had never seen anyone die like this before.
+But almost none of them had ever seen a death like this.
 
 Almost none. A handful of us, myself included, had.
 
@@ -224,7 +224,7 @@ Whatever had killed him was here in this desert.
 
 The distance to the site and back was the same, but the return trip felt incomparably shorter.
 
-My head was full of questions.
+My thoughts filled every moment of it.
 
 *How?*
 
@@ -232,7 +232,7 @@ It wasn’t just me. Everyone had been certain Michael Silbert killed Siegfried 
 
 The reason was simple.
 
-Wassmann was a Grand Mage, but unlike Magic Johnson, a War Mage who specialized in combat magic, he was a scholar through and through. That was why Johnson had suspected him of designing Area A. Wassmann was a master of barrier magic based on Magic Formations, as well as an expert on monsters.
+Wassmann was a Grand Mage, but unlike Magic Johnson, a War Mage who specialized in combat magic, he was a scholar through and through. That was why Johnson had suspected him of designing Area A. Wassmann was a master of barrier magic built on magic circles, as well as an expert on monsters.
 
 Would a mage that skilled—and that reclusive—have protected his hideout with nothing but a tarp?
 
@@ -290,9 +290,9 @@ Branches and roots served different purposes, but they were parts of the same tr
 
 I just hadn’t uncovered it yet. Even if it was hidden now, I could find it someday.
 
-And in that sense, the first person I went to see after returning to the main force was one of the largest branches on the sick tree that was Michael Silbert.
+And so, on returning to the main base, the first person I sought out was one of the largest branches of the diseased tree that was Michael Silbert.
 
-“Someone died about two hours ago. Not just one person—twenty.”
+“People died about two hours ago. Not one person. Twenty.”
 
 A faint smile crossed the gaunt face on the other side of the table as soon as I sat down and said it.
 
