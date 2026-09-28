@@ -18,7 +18,7 @@ The Appraisal System was still inaccessible, so I couldn’t tell exactly what w
 
 The best physician in the world had sacrificed his own time and health to make this pill for me. Even if it was hard as a rock, I planned to chew it until the sweetness came out. It was the least I could do.
 
-And the moment I chewed the pill with heartfelt gratitude—
+And the moment I bit into it with heartfelt gratitude—
 
 Crunch.
 
@@ -26,7 +26,7 @@ I realized that being a decent human being could go to hell. This wasn’t somet
 
 Ptooey.
 
-The pill I spat out on instinct stuck fast to the Divine Physician’s pristine white robe.
+The pill flew from my mouth and stuck to the Divine Physician’s pristine white robe.
 
 He gazed mournfully at the pill he’d spent days making. “I told you not to spit it out…”
 
@@ -34,15 +34,15 @@ Still retching and struggling to keep my senses, I spoke from the heart.
 
 “Sorry, but are you out of your mind?”
 
-“I am, and I understand exactly how you feel.”
+“No, and I understand exactly how you feel.”
 
-“Have you tried eating it yourself?”
+“Have you tried it yourself?”
 
-“I haven’t.”
+“No, but—”
 
 “Then you have no idea how I feel. None.”
 
-“Medicine that’s good for you is supposed to taste bitter. It always is.”
+“Medicine that’s good for you is supposed to be bitter. Absolutely.”
 
 “This wasn’t just bitter. Did you put poison in it or something?”
 
@@ -50,7 +50,7 @@ Still retching and struggling to keep my senses, I spoke from the heart.
 
 Jeok Cheongang, who’d watched the whole thing, bellowed and glared at me.
 
-“He may not be particularly trustworthy and may seem a bit of a quack, but he made that medicine with care for your sake. Poison? Where did you get the nerve to say such blasphemous nonsense?”
+“He may not be particularly trustworthy and may seem a bit of a quack, but he made that medicine with care for your sake. Poison? How dare you say such a thing!”
 
 “Sorry.”
 
@@ -70,7 +70,7 @@ He drew a deep breath, as if suppressing the urge to kill, and spoke calmly.
 
 “……”
 
-“Sometimes I do wonder what my Master would think if he were here, but it’s all right. I’m a physician, after all. I should expect a pill I spent several sleepless nights making to be chewed up and spat out. Ha ha ha.”
+“Sometimes I wonder what my Master would do if he were here, but it’s all right. I’m a physician. If someone chews up a pill I spent several sleepless nights making and spits it out, I should just accept it. Ha ha ha.”
 
 He did not look all right.
 
@@ -120,7 +120,7 @@ One thing was certain: its medicinal properties weren’t the only thing leaking
 
 Jeok Cheongang caught a whiff of the hideous stench escaping from the crushed pill and instinctively stepped back.
 
-“Could this be Formless Ultimate Poison…!”
+“Could this be Formless Ultimate Poison…?”
 
 “I’m done treating him. I’ll throw this pill in the latrine. Find another physician.”
 
@@ -128,7 +128,7 @@ Jeok Cheongang caught a whiff of the hideous stench escaping from the crushed pi
 
 The Fire King caught the Divine Physician’s robe as he turned away and spoke through his nose. His other hand had already flashed up to pinch it shut.
 
-“Ah, I didn’t mean to do that. Sorry. But this stench… What in the world did you put in this pill?”
+“Ah, that slipped out. Sorry. But this stench… What in the world did you put in the pill?”
 
 “If I told you, would you understand?”
 
@@ -172,7 +172,7 @@ Bent over like a shrimp, I tried to vomit up something hot surging from deep in 
 
 Tried to.
 
-If someone hadn’t clamped a hand over my mouth and nose at that very moment—
+Because at that moment, someone clamped a hand over my mouth and nose.
 
 Crack.
 
@@ -214,13 +214,13 @@ All trace of his earlier banter gone, he reached toward the unconscious Jin Taek
 
 Swish. Tap. Dudududuk!
 
-His movements were as swift as a flash of light, his hands terrifyingly calm.
+His hands moved like flashes of light, each touch frighteningly precise.
 
 Every time they blurred, Jin Taekyung’s body jerked. Scorching Yang Qi seeped in through the pressure points he struck, melting the pill and spreading its medicinal effects throughout Jin’s body.
 
 *Don’t rush. Stay calm.*
 
-Jeok Cheongang repeated the words to himself as if making a vow.
+Jeok Cheongang repeated the words to himself.
 
 He couldn’t afford the slightest mistake. Humans weren’t so easy to kill, but their bodies were astonishingly sensitive. All the more so when that body held several jiazi of internal energy.
 
@@ -232,7 +232,7 @@ Hssssss.
 
 An ordinary physician witnessing the scene would have rubbed his eyes or screamed and fled.
 
-But the Divine Physician was the one physician who did neither.
+The Divine Physician did neither.
 
 He had spent decades following his Master and treating countless patients, and his Master’s excellent teaching had given him experience beyond even that. It mattered, too, that the Master in question was the Slaughter Saint.
 
@@ -254,9 +254,9 @@ With the Fire King, Jeok Cheongang, it was different. Of the ten Supreme Peak ma
 
 Just like the Divine Physician’s own Master.
 
-*You’re doing well somewhere, aren’t you? Aren’t you?*
+*You’re doing well somewhere, aren’t you, Master?*
 
-The Divine Physician had just thought of the Master he’d parted from four months earlier, almost as if he’d been forced to leave, and smiled faintly when—
+He thought suddenly of the Master he’d parted from four months ago, when circumstances had all but forced them apart. A faint smile touched his face.
 
 Whoosh.
 
@@ -274,9 +274,9 @@ From what the Divine Physician had witnessed, the treatment had been flawless. Y
 
 His insistence that the Divine Physician check Jin again seemed driven less by trust in the physician than by boundless affection for his Disciple.
 
-And the Divine Physician understood Jeok Cheongang’s feelings.
+The Divine Physician understood.
 
-“Understood. I’ll examine him again.”
+“Of course. I’ll examine him again.”
 
 He went to Jin Taekyung, who lay unconscious, and took his pulse. He was so thorough that half an hour had passed by the time he looked up.
 
@@ -294,11 +294,11 @@ Only then did life return to Jeok Cheongang’s tired eyes.
 
 “…!”
 
-“Even steel bends when it’s heated. In the end, it becomes a lump of molten metal. What chance does a body made of flesh and blood have?”
+“Even steel bends when heated. In the end, it melts. How much more vulnerable is a body made of flesh and blood?”
 
 The Divine Physician looked at Jeok Cheongang gravely. It was hard to meet his trembling gaze, but a physician who lied about a patient’s condition was no physician at all.
 
-“Making this pill made me realize it once again. A full recovery is impossible, but improvement is possible.”
+“Making the pill confirmed it for me. A full recovery is impossible. Improvement, however, is possible.”
 
 Grind.
 
