@@ -54,7 +54,7 @@ Their footsteps shook the earth, and their shouts rang out from every direction.
 
 The fanatics who’d hidden from the eyes of the world were crying out. Ironically, those calling for God’s salvation held weapons that brought blood and death.
 
-*They’re not people like us. They’re just enemies we have to bring down.*
+*They’re not people like us. They’re enemies we have to bring down.*
 
 Choi repeated the thought to himself like a vow. No—every Hunter looking down at them felt the same way.
 
@@ -72,7 +72,7 @@ And the Hunters gathered here existed for one reason. Their sole duty was to hun
 
 Blades appeared here and there, their edges glinting coldly.
 
-The Hunters were visibly more exhausted than usual after their battle against the monster horde, but the determination in their eyes was stronger than ever.
+The Hunters were visibly exhausted from their battle against the monster horde, but the resolve in their eyes was stronger than ever.
 
 *Fwoooosh!*
 
@@ -120,7 +120,7 @@ They were as strong and clever as any Hunter. Above all, they had two excellent 
 
 “Inshallah.”
 
-One man rampaged at the front, shouting roughly. An old man watched the battlefield with a composed expression from the rear.
+A man shouted as he rampaged at the front. An old man watched the battlefield calmly from the rear.
 
 The two stood out even amid the chaos. The moment Choi spotted them, he instinctively grasped how powerful they were.
 
@@ -146,23 +146,23 @@ But he didn’t panic. Their dive had become a fall, yet for some reason, he fou
 
 The screams of the other Hunters clinging to the griffin’s spine didn’t matter. Neither did the way they stared at him as though he’d lost his mind.
 
-*I don’t regret any of the choices I’ve made. I’ll just fight as hard as I can.*
+*I don’t regret any of my choices. All I can do is fight my hardest.*
 
 His mind was calm. The sword in his hand felt as light as a feather. Today, he felt he could do anything.
 
 The ground rushed closer, and the shout of a fanatic he didn’t know struck his ears.
 
-“For the great God, for the Prophet!”
+“For our great God! For the Prophet!”
 
 Choi laughed aloud. Then he spoke.
 
 “For our Alliance Leader.”
 
-His voice was low but powerful. It was the signal.
+His voice was low but firm. It was the signal.
 
 *Papat!*
 
-Choi Minwoo—and all the Hunters—kicked off the body of the griffin plummeting straight toward the ground and soared away.
+Choi—and the other Hunters—kicked off the griffins plummeting toward the ground and sprang away.
 
 *Tap.*
 
@@ -200,7 +200,7 @@ Choi pointed his sword at the man. The **Hero’s Sword**, imbued with brilliant
 
 The eight hundred or so Hunters who’d dropped from the sky gathered around its light as it spread through the darkness.
 
-“Damn heretics. I’ll send you all to hell.”
+“Damned heretics. I’ll send you all to hell.”
 
 The man vanished from sight, a vicious smile on his face. A sword strike flashed out at the same instant and grazed Choi’s neck as he instinctively ducked.
 
@@ -208,15 +208,15 @@ The Skeleton King, who’d been holding off the fanatics swarming from all sides
 
 *Boom!*
 
-Countless roars and screams swept through the canyon. The ground heaved, and the solid bedrock split apart.
+Roars and screams swept through the canyon. The ground heaved, and solid bedrock split apart.
 
 The bloodshed and shock of a battle unlike any the canyon had seen in centuries reached the cliffs on either side—even the canyon’s center, dozens of meters beyond its entrance.
 
 And those tiny cracks helped, if only a little, to free someone who should never have escaped.
 
-*Thud-thud. Bang!*
+*Rattle. Bang!*
 
-A bone shard as long as a spear and thicker than one blasted outward. At the same time, new flesh and blood welled up from the severed ends of countless shattered limbs.
+A shard of bone as long as a spear and thicker than one burst outward. At the same time, new blood and flesh welled up from the severed ends of limbs that had been crushed and torn apart countless times.
 
 *Slide. Crack.*
 
@@ -230,9 +230,9 @@ The Doppelganger completed its one hundred and forty-fifth resurrection and grin
 
 *Thwack!*
 
-A streak of light pierced the space between its eyes instead of answering. The young man holding the spear moved his dry, cracked lips.
+A flash of light pierced its forehead instead of an answer. The young man holding the spear parted his bone-dry lips.
 
-“No. I think I’ve got a little more in me now.”
+“No. I think I’m just getting my strength back.”
 
 And at that moment—
 
@@ -294,13 +294,13 @@ With that in mind…
 
 The Doppelganger was staggering to its feet when my spearhead swept through it. Its upper body slid away at an angle.
 
-And at the same time, the sight I’d grown sick of seeing played out before my eyes once again.
+And then the sight I’d grown sick of seeing played out before me again.
 
 *Slither.*
 
 Blood and flesh welled up at a terrifying speed. The Doppelganger rose whole, looking more relaxed than ever.
 
-“That’s enough. You must be close to your limit by now.”
+“That’s enough. You must be close to your limit.”
 
 “Nope. I’m doing fine.”
 

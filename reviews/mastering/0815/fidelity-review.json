@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The sword in his hand felt as light as a feather.",
+      "defect": "The source specifically compares the sword's lightness to a black feather; the color detail is omitted.",
+      "id": "F01",
+      "rationale": "The Korean says “검은 깃털처럼,” explicitly naming a black feather.",
+      "replacement": "The sword in his hand felt as light as a black feather.",
+      "severity": "minor",
+      "source": "Line 167"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I don’t know how long I—or we—can hold out.",
+      "defect": "The English omits the initial repeated “I don’t know,” losing the source’s hesitation and self-correction.",
+      "id": "F02",
+      "rationale": "The Korean repeats 모르겠습니다 before reformulating the subject as “I, we.”",
+      "replacement": "I don’t know. I don’t know how long I—or we—can hold out.",
+      "severity": "minor",
+      "source": "Line 203"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful. Two minor omissions alter source-specific emphasis.",
+  "version": 1
+}
