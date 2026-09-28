@@ -44,7 +44,7 @@ Zhuge Gyun nodded gravely.
 
 After the Sea Serpent Society, three strongholds of the Yangtze River Channel League—including Donghu Stronghold—had been annihilated.
 
-If we had not arrived when we did—and if it had not been for Ship-Fire Boy Mu Song and the swift ship under his command—the tragedy at Donghu Stronghold beyond Tianling Falls would have remained unknown for much longer.
+If we had not arrived when we did—and if it had not been for Ship-Fire Boy Mu Song and the fast boats under his command—the tragedy at Donghu Stronghold beyond Tianling Falls would have remained unknown for much longer.
 
 “But one question remains. This is not something that can be concealed forever. It might take time, but the truth was bound to come out. If Dark Heaven had truly intended to cover it up, they would have handled everything more quietly, without drawing public attention. They could have laid the blame for the Sea Serpent Society’s destruction on the Yangtze River Channel League.”
 
@@ -94,7 +94,7 @@ Fortunately, their operation in Sichuan had failed, but what they were after was
 
 *Divine artifacts—or the destruction of the prestigious great sects known as the Nine Sects and One Gang and the Five Great Families.*
 
-It was hard to believe that people like that had gone to such lengths merely to wipe out a sect like the Sea Serpent Society, whose members were just trying to make a living, and three strongholds.
+It was hard to believe that people like that had gone to such lengths merely to wipe out the Sea Serpent Society and three strongholds whose members earned their living on the water.
 
 It might have made sense if they had targeted the headquarters of the Yangtze River Channel League, where the Seafaring King was based.
 
@@ -174,7 +174,7 @@ I was about to turn away when I realized I had forgotten one important question.
 
 “……That’s quite a collection.”
 
-I had no idea how impressive a wheelchair, a book, and a fan could be as divine artifacts, but it was worth checking just in case.
+I had no idea how impressive a cart, a book, and a fan could be as divine artifacts, but it was worth checking just in case.
 
 I turned to Zhuge Gyun.
 
@@ -240,7 +240,7 @@ Drenched in sweat from head to toe, Hyuk Mujin shook his head with effort.
 
 “Huff, I am truly fine. I am the Vice Squad Leader of the Jin Dragon Squad of the great Jin Family of Taiyuan! I cannot cause trouble for my family or Captain—”
 
-“Did a guy like you run around trying to pick up silver nyang[^2]?”
+“Did a guy like you run around trying to pick up silver nyang?”
 
 “…….”
 
@@ -250,7 +250,7 @@ Drenched in sweat from head to toe, Hyuk Mujin shook his head with effort.
 
 Hyuk Mujin was a fairly large man, but I possessed an extraordinary Strength stat. Carrying one person while running was no great burden.
 
-*Why do I suddenly feel like Red Hare?*[^3]
+*Why do I suddenly feel like Red Hare?*
 
 I don’t know how long we ran with that strange feeling.
 
@@ -277,5 +277,3 @@ I was thinking that as we crossed Wuhan’s maze of streets when it happened.
 A scream rang out in the distance, shattering the deep, dark silence.
 
 [^1]: A **shichen** is a traditional time unit of roughly two hours.
-[^2]: A **silver nyang** is a historical unit of silver currency.
-[^3]: **Red Hare** is a famously swift horse associated with the Three Kingdoms era.
