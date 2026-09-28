@@ -10,13 +10,13 @@ But before the ringing came, an enormous shock wave traveled through our hands, 
 
 It felt as if a giant’s palm had struck my entire body.
 
-The irresistible force sent me flying backward. I twisted in midair, and a blade of gray energy came rushing toward my face.
+The force sent me flying backward. The moment I twisted in midair, a blade of gray energy came rushing toward my face.
 
 *Shhk!*
 
 A hair’s breadth. That was all.
 
-I snapped my head aside, and the gray energy skimmed past the tip of my nose, cleaving the ground like soft tofu. I landed lightly on the spot it had cut through.
+I snapped my head aside. The gray energy skimmed the tip of my nose and sliced through the ground like soft tofu. I landed lightly above the cut.
 
 Then I watched a man walk toward me, his entire body wrapped in gray energy.
 
@@ -30,7 +30,7 @@ He smiled at the sound of my voice. The shadow in his deep-set dimple seemed esp
 
 The ground crumbled beneath each step he took.
 
-The energy pouring from Michael Silbert was so overwhelming that even those fighting nearby choked on their breath and retreated as far as they could.
+The energy pouring from Michael Silbert was so overwhelming that even those fighting nearby caught their breath and put as much distance between themselves and him as they could.
 
 But not me.
 
@@ -40,7 +40,7 @@ Just as I’d decided before coming here, I would fight.
 
 To stop that monster strolling toward me. To keep him from hurling billions of people into the flames all over again.
 
-I stepped forward, putting my weight into it.
+I stepped forward with all my strength.
 
 *Whoosh.*
 
@@ -124,7 +124,7 @@ But I focused only on the energy in front of me, pouring the flames from both ha
 
 Not swallowing it—gnawing it away.
 
-Not stopping it—throwing it out of balance.
+Not stopping it—breaking it apart.
 
 At last, the mass of destructive energy visibly shrank. I twisted it with all my strength and hurled it behind me.
 
@@ -200,7 +200,7 @@ Of course, as far as I was concerned, that was all in Michael Silbert’s head.
 
 “Yeah, you leeching bastard.”
 
-His face slowly stiffened. I let out a scornful laugh.
+His face slowly stiffened. I couldn’t help laughing.
 
 “An imugi from a clear pond ascends to heaven. Ever seen a grub wriggling in a sewer turn into a dragon? No matter how strong you get, your nature stays the same. At best, you’re a mosquito or a leech.”
 
@@ -222,7 +222,7 @@ I had the power and abilities everyone wished for, yet I couldn’t save the cit
 
 It felt as though these terrible disasters were happening because I’d stood against Michael Silbert.
 
-That was why, for a little while, I couldn’t help but wonder.
+For a while, I couldn’t help wondering if I should stop.
 
 *No. I was afraid.*
 
@@ -230,7 +230,7 @@ Fine. I’d admit it.
 
 I was afraid to keep running down a path strewn with countless dead.
 
-The closer I chased Michael Silbert, the more blood and bodies I feared I’d trample underfoot.
+The longer I chased Michael Silbert, the more blood and bodies I feared I’d find beneath my feet.
 
 I thought that if I simply handed him the world, he’d stop The Prophet and every other disaster, if only to protect what had become his.
 
@@ -240,7 +240,7 @@ When I finally came out of that long, dark tunnel I’d walked alone in my heart
 
 No. There was an answer.
 
-All of it had come from my own weakness. My foolish hope was wrong, and Michael Silbert was a monster who wouldn’t stop running even after he crossed the finish line.
+That hope had been born of my own weakness. Michael Silbert was a monster who wouldn’t stop running even after he crossed the finish line.
 
 That was why I had to kill him, as a human being.
 
@@ -252,7 +252,7 @@ That was why I had to kill him, as a human being.
 
 I leveled my spear at Michael Silbert.
 
-His eyes had turned so black there was no trace of their original color. At the same time, an immense, seemingly endless power wrapped around his entire body and began to whirl.
+His eyes had turned so black that no trace of their original color remained. An immense, seemingly endless power swirled around his body.
 
 *Kwaaaah.*
 
@@ -280,11 +280,11 @@ But right now, there was only one thing I could say to him.
 
 *Grrrrrrk!*
 
-As I charged toward his energy, surging like waves across a boundless sea, I suddenly wondered why that immense power—enough to make even my three jiazi of internal energy feel hopelessly inadequate—didn’t frighten me.
+As I charged toward his surging waves of energy, I suddenly wondered why that immense power—enough to make even my three jiazi of internal energy feel hopelessly inadequate—didn’t frighten me.
 
-Why Michael Silbert, who’d absorbed a Magic Gem and gained physical abilities comparable to mine and a seemingly inexhaustible supply of magical power, seemed so small.
+Why Michael Silbert, who’d absorbed a Magic Gem and gained physical abilities comparable to mine and an inexhaustible supply of magical power, seemed so small.
 
-And as I thrust out the spearhead, I found the answer.
+As I thrust out the spearhead, I found the answer.
 
 *Because I’m a Hunter.*
 

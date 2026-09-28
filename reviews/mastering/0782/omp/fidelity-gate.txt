@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled chapter is faithful overall. Two minor defects: a softened insult and a dropped action detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 199",
+      "current": "“Idiot. What’s a leech like you going to do?”",
+      "defect": "“Idiot” softens the forceful insult 병신.",
+      "replacement": "“Dumbass. What’s a leech like you going to do?”",
+      "rationale": "The Korean uses a coarse, contemptuous insult; the current rendering is milder than the source.",
+      "confidence": 0.82
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 157",
+      "current": "A silver streak plunged from the air, piercing the exact spot where he’d stood a moment ago.",
+      "defect": "The translation drops the source’s emphasis that the silver streak plunged fiercely.",
+      "replacement": "A silver streak plunged violently from the air, piercing the exact spot where he’d stood a moment ago.",
+      "rationale": "The source says 맹렬하게 내리꽂힌, specifying the force of the downward strike; the accepted baseline also preserved that detail.",
+      "confidence": 0.89
+    }
+  ]
+}
