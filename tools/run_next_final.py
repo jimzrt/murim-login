@@ -59,13 +59,6 @@ def final_done(number: int, dirty: set[str]) -> bool:
     return not any(final_owns_path(path, number) for path in dirty)
 
 
-def _uncommitted(number: int, dirty: set[str]) -> bool:
-    state = final_record(number)
-    if state.get("stage") in {"RUNNING", "QA_FAILED", "READY_TO_COMMIT"}:
-        return True
-    return state.get("stage") == "PROMOTED" and any(final_owns_path(path, number) for path in dirty)
-
-
 def translation_blocked(number: int) -> str | None:
     try:
         from tools.workflow import active_mastering_chapters, incomplete_chapter, translation_write_paths
@@ -103,11 +96,6 @@ def next_final_chapter(dirty: list[str] | None = None) -> int | None:
     blocked = translation_blocked(number)
     if blocked:
         raise SystemExit(blocked)
-    extras = [item for item in pending[1:] if _uncommitted(item, dirty_set)]
-    if extras:
-        raise SystemExit(
-            "multiple incomplete final-touches chapters: " + ", ".join(map(str, [number, *extras]))
-        )
     return number
 
 

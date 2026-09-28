@@ -8,7 +8,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from tools import final_qa, final_touches, run_next_final
+from tools import final_qa, final_touches, run_final_batch, run_next_final
 
 
 def chapter(body: str) -> str:
@@ -148,13 +148,12 @@ class NextFinalChapterTest(unittest.TestCase):
         with patch.object(run_next_final, "mastering_done", return_value=True):
             self.assertEqual(run_next_final.next_final_chapter(dirty=[]), 2)
 
-    def test_rejects_a_second_unfinished_chapter(self):
+    def test_resumes_the_oldest_when_several_are_unfinished(self):
         for number in (1, 2):
             self.write_translation(number)
             self.write_final(number, "QA_FAILED", qa_passed=False)
         with patch.object(run_next_final, "mastering_done", return_value=True):
-            with self.assertRaisesRegex(SystemExit, "multiple incomplete"):
-                run_next_final.next_final_chapter(dirty=[])
+            self.assertEqual(run_next_final.next_final_chapter(dirty=[]), 1)
 
     def test_foreign_paths_cover_an_in_flight_chapter(self):
         self.write_final(4, "READY_TO_COMMIT")
@@ -169,6 +168,60 @@ class NextFinalChapterTest(unittest.TestCase):
             foreign,
             {"reviews/final/0004/state.json", "translations/0004.md"},
         )
+
+
+class FinalBatchTest(unittest.TestCase):
+    def setUp(self):
+        self.temporary = tempfile.TemporaryDirectory()
+        self.root = Path(self.temporary.name)
+        (self.root / "translations").mkdir()
+        self.patches = [
+            patch.object(run_final_batch, "ROOT", self.root),
+            patch.object(final_touches, "ROOT", self.root),
+            patch.object(run_final_batch, "translation_blocked", return_value=None),
+        ]
+        for item in self.patches:
+            item.start()
+
+    def tearDown(self):
+        for item in reversed(self.patches):
+            item.stop()
+        self.temporary.cleanup()
+
+    def write_translation(self, number: int) -> None:
+        (self.root / "translations" / f"{number:04d}.md").write_text(
+            f"# Chapter {number}\n", encoding="utf-8"
+        )
+
+    def write_final(self, number: int, stage: str) -> None:
+        folder = self.root / "reviews" / "final" / f"{number:04d}"
+        folder.mkdir(parents=True)
+        (folder / "state.json").write_text(
+            json.dumps({"chapter": number, "stage": stage, "qa_passed": True}),
+            encoding="utf-8",
+        )
+
+    def test_skips_unmastered_and_keeps_later_chapters(self):
+        for number in (3, 4, 5):
+            self.write_translation(number)
+        with patch.object(run_final_batch, "mastering_done", side_effect=lambda number: number != 4):
+            chosen, notes = run_final_batch.select_batch(3, 5)
+        self.assertEqual(chosen, [3, 5])
+        self.assertEqual(notes, ["chapter 4: not mastered"])
+
+    def test_skips_a_finished_chapter_and_a_blocked_one(self):
+        for number in (6, 7, 8):
+            self.write_translation(number)
+        self.write_final(6, "PROMOTED")
+
+        def blocked(number: int) -> str | None:
+            return "busy" if number == 8 else None
+
+        with patch.object(run_final_batch, "mastering_done", return_value=True):
+            with patch.object(run_final_batch, "translation_blocked", side_effect=blocked):
+                chosen, notes = run_final_batch.select_batch(6, 8)
+        self.assertEqual(chosen, [7])
+        self.assertEqual(notes, ["chapter 8: still in translation or mastering"])
 
 
 if __name__ == "__main__":
