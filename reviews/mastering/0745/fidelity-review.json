@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "A temperature swing of sixty degrees in a single day.",
+      "defect": "The source emphasizes the striking size of the daily temperature difference (자그마치, “as much as/no less than”); the assembled line states the number neutrally. The accepted baseline preserved that emphasis.",
+      "id": "F01",
+      "rationale": "The Korean describes a temperature difference reaching as much as sixty degrees, with an explicit emphasis on its magnitude.",
+      "replacement": "A daily temperature swing of no less than sixty degrees.",
+      "severity": "minor",
+      "source": "Lines 9; P4"
+    },
+    {
+      "confidence": 0.88,
+      "current": "to save their fellow believers persecuted even in the Western world.",
+      "defect": "“Fellow believers” narrows 동포, which means compatriots or fellow countrymen; the source does not specify that these people are fellow believers.",
+      "id": "F02",
+      "rationale": "The source says 동포들, referring to their compatriots. The religious context does not establish the narrower affiliation added by “fellow believers.”",
+      "replacement": "to save their compatriots, persecuted even in the Western world.",
+      "severity": "minor",
+      "source": "Line 195; P93"
+    }
+  ],
+  "summary": "Two minor fidelity issues: an omitted emphasis on the temperature swing and a narrowed meaning for “compatriots.”",
+  "version": 1
+}
