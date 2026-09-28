@@ -1,10 +1,10 @@
 # Chapter 808
 
-The Great Cataclysm was a massive event that changed the course of human history.
+The Great Cataclysm changed the course of human history.
 
 Naturally, it became the subject of countless studies and analyses. Scholars around the world identified three decisive reasons humanity had won.
 
-First: the existence of Cheon Taemin.
+First, Cheon Taemin.
 
 Second, the emergence of the Awakened, who would come to be known as Hunters.
 
@@ -14,7 +14,7 @@ And third:
 
 They were right.
 
-If Cheon Taemin’s existence and the emergence of the Awakened had been unexpected salvation, human intelligence and will were what allowed us to overcome any crisis.
+Cheon Taemin and the Awakened had been unexpected salvation. Human intelligence and will were what allowed us to overcome any crisis.
 
 They were the reason humanity had won—and the monsters had lost.
 
@@ -64,7 +64,7 @@ I dropped onto it from above and burst its hard skull with a punch packed with i
 
 *Stagger. Thud.*
 
-With the System notification, its stumbling body fell like a rotten log.
+At the System notification, its staggering body toppled like a rotten log.
 
 I spat a wad of phlegm onto the corpse, adjusted my grip on White Flame, and muttered, “You piece of shit. Way to ruin the moment.”
 
@@ -86,7 +86,7 @@ Bone separated from flesh, and a haze of blood filled the air. Dozens fell to th
 
 *Squish.*
 
-As I approached, stepping through the blood-soaked sand, the air around me gave a sharp, tingling hum.
+I stepped through the blood-soaked sand. The air around me gave a sharp, tingling hum.
 
 Scorching Yang Qi stirred up intense heat, but the monsters’ eyes had gone cold long ago.
 
@@ -162,7 +162,7 @@ The swordsmen chopped the Troll, still twitching despite its fatal wounds, into 
 
 There was no need to exchange words amid the chaos of battle. Not when we understood each other without speaking.
 
-They gave me a light nod, then charged toward another target. They were going after the higher-level monsters intelligent enough to control their respective groups.
+They acknowledged me with a glance and charged toward another target: a higher-level monster intelligent enough to control its group.
 
 *Good choice.*
 
@@ -182,7 +182,7 @@ The leaders of each group—lower-ranking commanders, in effect—were falling a
 
 “Hup. Gale Slash!”
 
-The name of the technique, barked in a low voice, was pure Japanese bravado. But the power behind that single sword strike was no bluff.
+The technique’s name, delivered in a low voice, was pure Japanese bravado. The power behind the sword strike was no bluff.
 
 *Shwaa—slice!*
 
@@ -194,7 +194,7 @@ Hunters rushed into the space he’d opened and cut down every monster in their 
 
 The formation slowly collapsed. The front line gave ground.
 
-But waiting for the monster army as it gave ground, step by step, were the Skeleton King and a thousand Skeletons, blocking off their rear.
+But waiting behind the retreating monsters were the Skeleton King and a thousand Skeletons, blocking their escape.
 
 “Surround them! If you’ve got no teeth, hold them with your bones!”
 
@@ -216,7 +216,7 @@ Its furious roar became a scream of pain. When the massive monster finally met a
 
 —Grr. Ah. Ah. Ah.
 
-Reborn as an undead, the massive monster charged off, dragging its heavy body along.
+Raised as an undead, it charged off on its heavy legs.
 
 The Hunters flinched at the sight. Then they spotted the Skeleton King and went right back to fighting as if nothing had happened.
 
@@ -228,7 +228,7 @@ Less than an hour had passed.
 
 But victory was already tipping toward the humans.
 
-Thousands of monsters had already been wiped out. The force that had initially outnumbered us ten to one was now down to five to one—and the gap was shrinking by the second.
+Thousands of monsters had been wiped out. The force that had initially outnumbered us ten to one was down to five to one, and the gap kept shrinking.
 
 *CRACK! THUD!*
 
@@ -248,7 +248,7 @@ The monster army was nothing but a mass of beasts now. Victory was only a matter
 
 Not one of those countless monsters could stop us. Could stop me.
 
-Except for the one being that still hadn’t shown itself.
+Except for the one being that still hadn’t shown himself.
 
 *Where the hell are you?*
 
@@ -256,11 +256,11 @@ Thinking of The Prophet, a mystery from beginning to end, I dropped toward the g
 
 *BOOM! Slice!*
 
-White Flame’s spearhead plunged down with me and split open another monster’s skull. Its body split cleanly in two and fell to either side. Between the halves, I saw eyes filled with fear.
+White Flame’s spearhead plunged down with me and split another monster’s skull. Its body fell neatly in half, one piece to either side. Beyond it, I saw eyes filled with fear.
 
 “Die.”
 
-I charged like a beast of prey and went on a rampage.
+I charged like a beast of prey and tore through them like a predator.
 
 The lower-level monsters froze as though gripped by **Fear**, staring at the death bearing down on them. The higher-level monsters fought back with the last of their strength.
 
@@ -294,17 +294,17 @@ As I turned to face the next monsters, I realized the balance of the battle had 
 
 —Krrk. GRAAAAH!
 
-The desert shook. With terrified cries, wave after wave of monsters were retreating.
+The desert shook. With terrified cries, waves of monsters were pulling back.
 
 *They’re running. All those monsters.*
 
-The thought that flashed through my mind was exactly what I was seeing.
+The thought flashed through my mind as I watched it happen.
 
 Their advantage in numbers?
 
 The monster army had lost its will to fight and was fleeing at full speed. None of them cared about that anymore.
 
-The Hunters stared, blinking, then raised their tired spears and swords. With bloodshot eyes, they raced after the monsters.
+The Hunters stared for a moment, blinking. Then they raised their weary spears and swords and raced after the monsters, bloodshot eyes fixed on their backs.
 
 “Kill every last one!”
 

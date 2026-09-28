@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Mana surged at his boiling command.",
+      "defect": "The Korean describes a voice that seems to boil and an immense amount of mana surging. This shifts the boiling image from the voice to the command and omits the mana’s stated magnitude.",
+      "id": "F01",
+      "rationale": "The source says 끓어오르는 듯한 음성과 함께 막대한 마나가 요동친다: the voice sounds as if boiling, while vast mana surges alongside it.",
+      "replacement": "His voice seemed to boil as an immense amount of mana surged.",
+      "severity": "minor",
+      "source": "Lines 35–39"
+    },
+    {
+      "confidence": 0.91,
+      "current": "The moment I chose a target, I was already closing the distance and moving on to my next attack.",
+      "defect": "The assembled line drops the source’s image of his body erasing space as it moves into its next action.",
+      "id": "F02",
+      "rationale": "The Korean says 공간을 지우며 다음 행동에 나서고 있었다, an image retained in the accepted baseline as “erasing the distance.”",
+      "replacement": "The moment I chose a target, my body was already erasing the distance and launching into its next action.",
+      "severity": "minor",
+      "source": "Line 153"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Curses and screams mingled as aura and magical power, light and darkness, clashed all around us.",
+      "defect": "The translation renders 오러 as “aura,” the same English term used for 기세 in this scene, collapsing two distinct concepts and losing the baseline’s established “Force” rendering for 오러.",
+      "id": "F03",
+      "rationale": "The source separately names 오러 and 마력; the accepted baseline distinguishes them as “Force” and “magical power,” while the assembled copy also uses “aura” for 기세 in the same scene.",
+      "replacement": "Curses and screams mingled as Force and magical power, light and darkness, clashed all around us.",
+      "severity": "minor",
+      "source": "Line 131"
+    }
+  ],
+  "summary": "The assembled copy has a small omission in Magic Johnson’s spellcasting description and loses a source-specific image and a technical distinction preserved by the accepted baseline.",
+  "version": 1
+}
