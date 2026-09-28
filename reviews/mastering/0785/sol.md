@@ -44,7 +44,7 @@ Lethal strikes rushed in from every direction. A moment’s carelessness would c
 
 They were Hunters.
 
-Even if the word meant nothing more to those traitors than a faded slogan, they had upheld what it meant to be a Hunter—and they would continue to do so.
+To the traitors, the word might have been nothing but a faded slogan. The others had lived up to its meaning, and they would keep doing so.
 
 That was their duty. The responsibility that came with their strength.
 
@@ -110,7 +110,7 @@ It pressed down on my whole body, almost more than I could bear.
 
 *Huff. Huff.*
 
-My breathing was ragged. I struggled to clear my blurred vision, then drove the shaft of my spear into the ground to support myself.
+I struggled to clear my blurred vision, drove the shaft of my spear into the ground, and leaned on it.
 
 *Thump.*
 
@@ -162,7 +162,7 @@ I still remembered the Instructor’s answer, delivered with a solemn expression
 
 *“Get down.”*
 
-It was a stupid, dusty old memory.
+A stupid memory, and one I hadn’t thought of in years.
 
 He’d promptly whacked me on the ass about twenty times with a spear shaft from the armory, then practically forced me to take that spear as my first weapon.
 
@@ -172,13 +172,13 @@ This line of work was crawling with some truly spectacular assholes.
 
 But even that Instructor, who must have stayed at the training center for the pleasure of messing with recruits like me, couldn’t have imagined where his stupid joke would lead.
 
-That because of his stupid little joke, I’d be standing here now.
+That it would help keep me standing here.
 
-That the F-rank Hunter he’d seen back then would make Michael Silbert kneel just a little over ten years later.
+That the F-rank Hunter he’d met would bring Michael Silbert to his knees a little over ten years later.
 
 *Thump.*
 
-I raised my head at the heavy sound that pierced my ears.
+I lifted my head at the heavy sound.
 
 Through my blurred vision, I saw him trembling on one knee.
 
@@ -188,7 +188,7 @@ Michael Silbert’s wings of magical power were gone. So were his gleaming black
 
 *Cough.*
 
-With a cough, a torrent of bloody fluid mixed with bits of his organs poured out.
+Blood and pieces of his organs poured from his mouth.
 
 He’d exhausted all his magical power, and his body refused to heal as it had before, no matter how badly he wanted it to.
 
@@ -202,7 +202,7 @@ I had no strength to say it aloud. I spoke the words in my head, gritted my teet
 
 Then I walked toward him.
 
-*Thud.*
+*Step.*
 
 Pain tore through my body with every step, as though I might break apart.
 
@@ -212,7 +212,7 @@ Or perhaps I already had.
 
 Strange.
 
-My eardrums had burst, and my ears had been ringing for a while, but the System’s warning beeps were still loud and annoying.
+My eardrums had burst, and my ears had been muffled for some time. Yet the System’s warnings still sounded loud and clear.
 
 *My body must be pretty thoroughly wrecked.*
 
@@ -220,15 +220,15 @@ A hollow laugh escaped me. It didn’t matter.
 
 Since when had I ever worried about my condition in a fight?
 
-I was happier that I’d finally brought Michael Silbert down—and that, despite the immense aftermath, all those familiar faces had made it through alive.
+What mattered was that I’d brought Michael Silbert down. And despite the force of that blast, the familiar faces around me were still alive.
 
-Of course, not everyone felt the same joy I did.
+Not everyone shared my relief, of course.
 
-“Jin Taekyung!”
+“Jin Taekyuuung!”
 
 The middle-aged giant charging at me—the Kronos Guild Master—certainly didn’t.
 
-As proof of how fierce the fighting had been, he’d lost an arm to some powerful fighter I couldn’t identify. Unable to accept that his life was over, he charged at me.
+He’d lost an arm to some powerful fighter in the battle. Unable to accept that his life was over, he came straight for me.
 
 Then a fierce rush of air sounded behind me, and he had no choice but to accept it.
 
@@ -236,7 +236,7 @@ Then a fierce rush of air sounded behind me, and he had no choice but to accept 
 
 An absurdly huge War Hammer swept past. The Kronos Guild Master’s face vanished.
 
-Behind his corpse, which crumpled like a rotten log, Chuck Hagel stood posed like a shot-putter.
+Behind his body, which crumpled like a rotten log, Chuck Hagel stood in the pose of a shot-putter.
 
 He stared at me for a moment, let out a short laugh, and turned to charge the remaining traitors.
 
@@ -248,11 +248,11 @@ Cheers and screams mingled in my muffled ears. Some fell, spraying blood. Others
 
 The tide had turned.
 
-Even if the goddess of fate showed up to tip the scales back, all we had to do was take her down, too.
+Even if the goddess of fate came down to tip the scales back, we could take her down too.
 
 Just as I would take down the monster struggling to rise now that I was right in front of him.
 
-*Thud.*
+*Step.*
 
 When had I gotten this close?
 
@@ -276,11 +276,11 @@ Michael Silbert’s eyes flew wide. Both arms crumpled. Blood and a scream he co
 
 *Grrk. Grrrk.*
 
-Blood spurted intermittently, splattering my face.
+Blood spurted across my face.
 
-But why?
+Why, then, did it smell so foul?
 
-If I thought about what he’d done up until now, the scent of blood seeping into my nose should have been sweet. But all I could smell was something revolting.
+After everything he’d done, I would have thought the scent of his blood would be sweet. Instead, it sickened me.
 
 Maybe that was why I stopped.
 
@@ -290,15 +290,13 @@ Why the face reflected in his eyes, dark with blood and tears, looked twisted in
 
 I knew he couldn’t give me the answer I wanted, no matter what I asked.
 
-No answer could calm this heart and these emotions threatening to burst out of me.
+No answer could settle the feelings threatening to burst out of me.
 
 But I still wanted to hear him speak. I had to.
 
 For all the people who had died because of his pathetic ambition.
 
 “Answer me.”
-
-*Grab.*
 
 I seized Michael Silbert’s one remaining horn and hauled him upright. Fighting the pain that surged through me, I whispered to him as he slipped closer to death.
 

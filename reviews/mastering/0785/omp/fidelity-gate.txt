@@ -1,0 +1,15 @@
+{
+  "summary": "One sensory detail is mistranslated; the rest of the assembled passage appears faithful.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 237",
+      "current": "My eardrums had burst, and my ears had been ringing for a while",
+      "defect": "The Korean says his ears had long felt muffled, not that they were ringing. The following reference to his muffled ears confirms that sensation.",
+      "replacement": "My eardrums had burst, and my ears had been muffled for a while",
+      "rationale": "귓가는 먹먹해진 지 오래인데 describes ears that had long felt muffled or blocked; it does not describe ringing.",
+      "confidence": 0.99
+    }
+  ]
+}
