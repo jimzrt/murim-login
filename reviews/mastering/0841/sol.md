@@ -8,7 +8,7 @@ Tang Sadok led Jeok Cheongang and me to a pavilion deep in the Inner Court and t
 
 At Jeok Cheongang’s quiet call, Tang Sadok froze like a statue. Though he still hadn’t recovered, he’d been hurrying to leave the pavilion.
 
-He slowly turned around and struggled to squeeze out a voice that wouldn’t come.
+He slowly turned and struggled to force out a voice.
 
 “May I ask why you called me…?”
 
@@ -26,7 +26,7 @@ The current Sect Leader of the Fire Gate Clan—a long-established sect of utter
 
 For over three hundred years, the sect had gone around setting fires across the land. Yet when his own residence caught fire, Jeok Cheongang had wiped out more than a thousand Demonic Cult members. He was hypocrisy incarnate.
 
-A bead of cold sweat he hadn’t even noticed forming rolled down Tang Sadok’s neck. He swallowed hard and answered.
+A bead of cold sweat rolled down Tang Sadok’s neck. He swallowed hard.
 
 “O-of course. This junior will forget everything he saw and heard.”
 
@@ -94,7 +94,7 @@ A suffocating silence fell. Jeok Cheongang stared at me without a word, then slo
 
 “Y-yes!”
 
-At Jeok Cheongang’s thunderous shout, Tang Sadok looked at me with the relieved expression of a man whose fifty-year-old indigestion had finally cleared up, then shot out of the pavilion like a streak of light.
+At the thunderous shout, Tang Sadok looked at me with the relieved expression of a man whose fifty-year-old indigestion had finally cleared up. Then he shot out of the pavilion like a streak of light.
 
 No—he ran away.
 
@@ -110,13 +110,13 @@ But I could hardly blame him when I’d just made such a huge, spectacular mess 
 
 “All of it. From beginning to end.”
 
-“Our sect’s rules say anyone who spouts bullshit from beginning to end gets beaten twice as much.”
+“Our sect has a rule: anyone who spouts bullshit from beginning to end gets beaten twice as hard.”
 
 “……Is that really one of the sect’s rules?”
 
 “It is.”
 
-“What lunatic—no, what esteemed person came up with that rule?”
+“What lunatic—no, who came up with that rule?”
 
 “I did. Just now.”
 
@@ -150,9 +150,9 @@ Rather than going off somewhere to die, a man built like that could tell everyon
 
 “I’m the one whose feelings are hurt. I shaved off a perfectly good head of hair and went all the way to Nanman pretending to be a monk, and you dare stab me in the back like this?”
 
-I cautiously raised my head.
+I stole another glance up.
 
-Then sunlight poured through the window and flashed off Jeok Cheongang’s forehead in a surprise Solar Fist attack. I reflexively squinted.
+Sunlight poured through the window, flashed off Jeok Cheongang’s head, and hit me with a surprise Solar Fist attack. I squinted on instinct.
 
 “Whoa. That’s bright.”
 
@@ -206,7 +206,7 @@ And as soon as I knelt again, I remembered something I’d briefly forgotten.
 
 Before he’d even finished speaking, the air split with a tremendous roar.
 
-I squeezed my eyes shut on instinct and suddenly thought of Hyuk Mujin. If I made it out alive, I resolved to treat him much better than before. Then I gritted my teeth and swallowed a breath.
+I squeezed my eyes shut and suddenly thought of Hyuk Mujin. If I made it out alive, I’d treat him much better from now on. I gritted my teeth and held my breath.
 
 *Hngh…!*
 
@@ -216,27 +216,27 @@ And in that instant—
 
 *Whoosh!*
 
-A faint touch brushed my forehead as a fierce gust of hot wind whipped my hair around.
+Something touched my forehead. A fierce rush of hot wind whipped my hair around.
 
 *Huh?*
 
-As the hot wind died down, I opened my eyes in confusion and saw Jeok Cheongang pressing a finger to my forehead, sighing heavily with an irritated look on his face.
+As the wind died down, I opened my eyes in confusion. Jeok Cheongang had a finger pressed to my forehead and was sighing in irritation.
 
 But his eyes held affection, and the joy of seeing me again.
 
-“You little monster. Stop making such a fuss and get up already.”
+“You wretch. Stop making such a fuss and get up.”
 
 “What?”
 
-“If you’re going to do it, do it properly. Like…bowing, for instance.”
+“If you’re going to do it, do it properly. For instance… Yes, bowing.”
 
-I blinked dumbly. Jeok Cheongang glanced toward the window, where sunlight streamed in, and muttered:
+I blinked at him. Jeok Cheongang glanced toward the sunlit window and muttered,
 
 “Sure is a nice day.”
 
 I didn’t know why I suddenly laughed.
 
-No—that wasn’t true. I already knew.
+No. I did know.
 
 Today. The day before yesterday. Maybe for a long time now.
 
@@ -244,7 +244,7 @@ Today. The day before yesterday. Maybe for a long time now.
 
 “You little brat. What are you laughing at?”
 
-“Nothing. Let me give you my bow. I’ll make it a proper nine-bow ritual.”
+“Nothing. Just accept my bows. I’ll give you a proper nine-bow ritual.”
 
 Jeok Cheongang flinched at the mention of the nine-bow ritual, then scoffed.
 
@@ -252,7 +252,7 @@ Jeok Cheongang flinched at the mention of the nine-bow ritual, then scoffed.
 
 He was right. Jeok Cheongang and I had never formally become Master and Disciple.
 
-An old man who had come out into the world to eliminate the Disciple who had once been like family to him needed a new successor to carry on his sect’s teachings. And a young man struggling to stay alive needed greater strength.
+An old man had come back into the world to eliminate a Disciple who had once been like family to him. He needed a new successor to carry on his sect’s teachings. A young man struggling to stay alive needed greater strength.
 
 They had come together because each needed what the other had. The nine-bow ritual meant nothing to them. It was an empty ceremony.
 
@@ -262,7 +262,7 @@ But…
 
 *It stings a little, hearing him say it.*
 
-At some point, what had once felt natural began to sting, and what had stung began to feel natural.
+At some point, what I’d taken for granted had begun to hurt, and what had once hurt had become something I took for granted.
 
 And I wasn’t the only one whose feelings had changed.
 
@@ -278,7 +278,7 @@ His voice faded and scattered into the breeze.
 
 But I heard him clearly.
 
-The rest of what he’d left unsaid—not with my ears, but with my heart.
+Not the rest of his words—he never finished them. I heard what he meant, not with my ears, but with my heart.
 
 And that was enough.
 
@@ -292,9 +292,9 @@ Jeok Cheongang answered without turning his head. Maybe he couldn’t bring hims
 
 “Old Master.”
 
-“What? Why?”
+“Ah, what?”
 
-His reaction was exactly what I’d expected, and it made me laugh out loud. Then I said the words I’d kept in my heart for a long time.
+It was exactly the reaction I’d expected, and I laughed aloud. Then I said something I’d kept in my heart for a long time.
 
 “It’s good to see you again. And to have you still here, close by.”
 
@@ -310,15 +310,15 @@ As if he’d never once had to decide what face to make at a moment like this, h
 
 But everyone learns through experience.
 
-No matter how much a person denies it, no matter how unfamiliar it feels, they can’t hide what’s in their heart.
+No matter how much a person denies what they feel, no matter how unfamiliar it is, they can’t hide it forever.
 
-That was true even of the man who had lived for more than a century with a hot, hard mask over his face—the face Murim had named the Fire King.
+Not even a man who had spent more than a century behind the hot, hard mask Murim had named the Fire King.
 
 “Wel…”
 
 His voice faltered. His expression was a strange tangle of feelings he still didn’t know what to do with.
 
-But the next moment, his stubborn eyes curved into a gentle arc.
+Then his stubborn eyes curved gently.
 
 His voice reached me like a soft breeze, as warm as the sunlight.
 

@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "For over three hundred years, the sect had gone around setting fires across the land.",
+      "defect": "Omits that the sect set fires across the land generation after generation.",
+      "id": "F01",
+      "rationale": "The Korean says 대대로, explicitly describing the practice as continuing through successive generations.",
+      "replacement": "For over three hundred years, generation after generation, the sect had gone around setting fires across the land.",
+      "severity": "minor",
+      "source": "Lines 27–29"
+    },
+    {
+      "confidence": 0.91,
+      "current": "I’d just made such a huge, spectacular mess all by myself.",
+      "defect": "Softens the source’s explicit profanity and blunts the crude joke.",
+      "id": "F02",
+      "rationale": "The Korean explicitly says 똥 (shit) and describes it as 크고 아름답다 (big and beautiful); “mess” removes the profanity and “spectacular” changes the joke’s wording.",
+      "replacement": "I’d just left such a huge, beautiful pile of shit all by myself.",
+      "severity": "minor",
+      "source": "Line 109"
+    },
+    {
+      "confidence": 0.94,
+      "current": "He’d regained his youth and vigor through Bone Transformation.",
+      "defect": "“Vigor” loses the source’s reference to regained sharpness or keen intelligence.",
+      "id": "F03",
+      "rationale": "The Korean says 과거의 젊음과 총기, referring to his former youth and sharpness.",
+      "replacement": "He’d regained his youth and sharpness through Bone Transformation.",
+      "severity": "minor",
+      "source": "Lines 143–145"
+    }
+  ],
+  "summary": "Three minor fidelity issues: an omitted continuity detail, softened profanity, and a loss of the source’s reference to Jeok Cheongang’s sharpness.",
+  "version": 1
+}
