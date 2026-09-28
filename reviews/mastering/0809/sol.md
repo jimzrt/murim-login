@@ -4,9 +4,9 @@ It was like watching a massive dam collapse.
 
 *Boom. Boom. KABOOM!*
 
-The most ferocious of the large monsters turned and fled.
+The ferocious giants turned and fled.
 
-Every time their several-meter-tall bodies took a step, the enormous weight crushed corpses and smaller monsters underfoot like tofu.
+With every step their enormous bodies took, corpses and smaller monsters were crushed underfoot like tofu.
 
 *Crunch! Crack-crunch!*
 
@@ -14,7 +14,7 @@ Every time their several-meter-tall bodies took a step, the enormous weight crus
 
 —Kyargh!
 
-Painful death cries rang out all around us, but not one of them belonged to a Hunter. At least on this battlefield today, the weak weren’t human. They were monsters.
+Death cries rang out all around us, but not one belonged to a Hunter. On this battlefield, at least, the weak weren’t human. They were monsters.
 
 The strong devour the weak.
 
@@ -50,7 +50,7 @@ Some had lost friends.
 
 “N-no! Emma!”
 
-Some had lost a comrade who was also a lover.
+Some had lost a comrade and a lover.
 
 “Motherfucker. Were you in San Francisco a month ago, too? What? Damn it. Quit spewing shit I can’t understand and go to hell.”
 
@@ -72,7 +72,7 @@ We’d fought against overwhelming numbers. The Hunters had suffered heavy losse
 
 “Die! Die!”
 
-Hoarse shouts rang out here and there, voices raw from exhaustion and excitement.
+Shouts rose from every direction, voices hoarse with exhaustion and excitement.
 
 The Hunters spat on the Troll’s corpse, chopped as fine as ground meat, then moved on with bloodshot eyes to find their next prey.
 
@@ -86,11 +86,11 @@ And I was at its center.
 
 *Whoosh!*
 
-A razor-sharp gust shot along the spearhead and swept past the fleeing monsters.
+I brought my spear down at an angle. A razor-sharp gust shot along the spearhead and swept through the fleeing monsters.
 
 *Shraaaak.*
 
-Blood burst out instead of a scream, soaking into the sand.
+Blood burst out instead of screams, soaking the sand.
 
 But those lucky enough to escape the attack’s reach put more distance between us and ran faster.
 
@@ -106,7 +106,7 @@ We’d killed so many, yet there were still enough to be called an army. Letting
 
 *Still, we can’t chase them right now.*
 
-Everyone was exhausted from a long and brutal battle. Right now, the only things driving the Hunters were their anger and desire for revenge against the monsters. Nothing more, nothing less.
+Everyone was exhausted from the long, brutal battle. Anger and the desire for revenge were all that kept the Hunters moving. Nothing more.
 
 And I wasn’t the only one thinking it.
 
@@ -132,7 +132,7 @@ A lie.
 
 My arms and legs felt as heavy as if they’d been soaked in water. The internal energy that had filled my dantian was running low.
 
-More than anything, the dull ache I’d felt deep inside my body on and off throughout the battle was growing worse.
+Worse, the ache deep inside my body that had come and gone throughout the battle was growing stronger.
 
 *Damn debuff.*
 
@@ -140,13 +140,13 @@ I kept my expression calm by force and recalled a System message I’d seen not 
 
 > **System**
 >
-> All things come with a price. But you have once again ignored repeated warnings and used power that surpasses your limits.
+> All things come with a price. Yet you have once again ignored repeated warnings and used power beyond your limits.
 >
 > Information for the special debuff **Damaged Body** has been updated.
 >
-> The special debuff **Broken Body** has been newly applied.
+> The special debuff **Broken Body** has been applied.
 >
-> The existing stat penalties caused by debuffs remain unchanged, and the effects of the new debuff will also apply.
+> Existing stat penalties caused by debuffs remain unchanged. The effects of the new debuff will apply in addition to them.
 >
 > **Muscles and Bones** have weakened. The chance of injury has increased considerably.
 >
@@ -160,7 +160,7 @@ One Annihilation’s unprecedented destructive power had eaten away at my body a
 
 *Should I have avoided using One Annihilation against Michael Silbert?*
 
-The thought left a bitter taste in my mouth, but there was nothing I could do about it. Back then, I hadn’t had much choice beyond One Annihilation.
+The thought left a bitter taste in my mouth, but it couldn’t be helped. At the time, I’d had little choice.
 
 I pushed aside the potion Magic Johnson held out with a worried look.
 
@@ -184,7 +184,7 @@ Magic Johnson added, “I haven’t found him either. Jin, maybe The Prophet was
 
 I thought for a moment, then shook my head.
 
-Four S-rank monsters and an army of more than fifteen thousand monsters. That was far too much to use as bait for a mere trap.
+Four S-rank monsters and an army of more than fifteen thousand. That was far too much to use as bait for a trap.
 
 *So why hasn’t he shown himself?*
 
@@ -212,7 +212,7 @@ The Team Leaders—our lower-ranking commanders—were ordering them to stop, bu
 
 “What?”
 
-“If we keep pursuing them without rest, the units will fall apart in no time. First, get the worked-up Hunters back under control as quickly as you can.”
+“If we keep pursuing them without rest, our forces will fall apart in no time. First, get the Hunters back under control. Quickly.”
 
 “Jin.”
 
@@ -246,7 +246,7 @@ Heavy with the smell of blood, it spread through the cool night air.
 
 One hundred and eighty-five.
 
-That was how many people had fought more bravely than anyone else—and, because of that, had crossed a river they could never come back over.
+That was the number who had fought more bravely than anyone—and who, because of it, had crossed a river they could never cross back.
 
 But the survivors had to keep moving.
 
