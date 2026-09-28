@@ -10,7 +10,7 @@ Probably the latter.
 
 Whoooosh.
 
-Dozens of people who had been scrambling for silver nyang[^1] froze, and silence fell over the noisy main road.
+Dozens of people who had been scrambling for silver nyang froze, and silence fell over the noisy main road.
 
 Then one short command broke the stillness.
 
@@ -22,7 +22,7 @@ Then one short command broke the stillness.
 
 “……!”
 
-Give a dog three years at a village school and it can recite poetry. Beat it for long enough and it can memorize the Four Books and Three Classics.[^2]
+Give a dog three years at a village school and it can recite poetry. Beat it for long enough and it can memorize the Four Books and Three Classics.
 
 That was why the village-school dog—or rather, Hyuk Mujin—who had been conditioned by a year of my violence and profanity moved faster than anyone else.
 
@@ -34,7 +34,7 @@ A beat later, Gung Gibang grasped the situation and used his movement technique,
 
 “Pancakes! Please give me the pancakes, quick! Benefactor is angry!”
 
-That sibu-leol[^3] bastard. He was still making sure to get his snacks.
+That sibu-leol bastard. He was still making sure to get his snacks.
 
 Once they had been wrapped, Cheongpung raced toward me like a streak of light. I spoke to him gently.
 
@@ -50,9 +50,9 @@ I looked at the fidgeting Cheongpung and the other two, who were subtly avoiding
 
 *When the hell are these bastards going to become human?*
 
-They should have been squeezing out every last ounce of strength to reach the Zhuge Clan, yet here they were using martial arts to pick up a few silver nyang.[^1]
+They should have been squeezing out every last ounce of strength to reach the Zhuge Clan, yet here they were using martial arts to pick up a few silver nyang.
 
-Gung Gibang had even sneakily snatched silver nyang[^1] out of someone else’s hand. At this point, he was not a beggar. He was a bandit.
+Gung Gibang had even sneakily snatched silver nyang out of someone else’s hand. At this point, he was not a beggar. He was a bandit.
 
 *Life, for fuck’s sake…*
 
@@ -72,7 +72,7 @@ Hyuk Mujin jerked his head up, looking incredulous.
 
 “What about Young Hero Gung?”
 
-“He’s a beggar down to the bone. Honestly, it’s hard to criticize a beggar for picking up silver nyang.”[^1]
+“He’s a beggar down to the bone. Honestly, it’s hard to criticize a beggar for picking up silver nyang.”
 
 “An accurate and wise judgment.”
 
@@ -174,7 +174,7 @@ Clang!
 
 The sparrow-eyed man’s eyes widened.
 
-Unable to withstand the force of my finger flick, the sword flew from his hand and buried itself deep in the ground.
+Unable to withstand the force of my finger flick, the sword flew from his hand, spun through the air, and buried itself deep in the ground.
 
 “Who the fuck points a sword at someone like that? In broad daylight, no less.”
 
@@ -214,7 +214,7 @@ They looked exactly like zoo visitors watching monkeys.
 
 I slowly raised my fist, and the Bermuda Triangle, which had been watching only my expression, responded enthusiastically.
 
-“Exactly. They won’t come to their senses until they’ve been beaten like dogs on the hottest day of summer.”[^4]
+“Exactly. They won’t come to their senses until they’ve been beaten like dogs on the hottest day of summer.”
 
 “I was the first one to take that medicine. Cured me on the spot.”
 
@@ -318,11 +318,13 @@ Each threw a punch carrying fierce qi, the four strikes interlocking with exquis
 
 Thud-thud-thud-thud!
 
+Exactly four impacts sounded.
+
 With exactly four sounds of impact, four bodies sprawled face-first onto the ground at the same speed with which they had charged.
 
 None of them got back up.
 
-“What the sibu-leol?”[^3]
+“What the sibu-leol?”
 
 “……!”
 
@@ -342,7 +344,11 @@ The Zhuge Clan retainer put a hand to his forehead, while Gung Gibang and Hyuk M
 
 “Captain, I laughed so hard my belly button fell off. I can’t see where it rolled, so I’m still looking for it.”
 
-“Right. In times as bleak as these, how could we simply let the man who gave us such wonderful entertainment leave? So… grab that bastard by the collar and escort him over here.”
+“Right. In times as bleak as these, how could we simply let the man who gave us such wonderful entertainment leave? So…”
+
+I pointed at the young man.
+
+“Grab that bastard by the collar and escort him over here.”
 
 “Loyalty, loyalty!”
 
@@ -372,7 +378,7 @@ I turned to the first one who had shouted.
 
 “So you do know us!”
 
-“I don’t, you sibu-leol[^3] bastard. Get down before I beat you into juk.”[^5]
+“I don’t, you sibu-leol bastard. Get down before I beat you into juk.”[^1]
 
 They might have thrown their weight around in Hubei Province, but if I’d never heard of them, they were nobodies.
 
@@ -426,13 +432,9 @@ The young man gave a hollow laugh, then shouted in a dignified voice,
 
 “I, Ju Wongong, am a noble scion of the dragon’s blood and a third cousin of His Majesty the Emperor! If you know your crime, kneel even now!”
 
-“Okay, Celestial Dragon.[^6] Get down.”
+“Okay, Celestial Dragon.[^2] Get down.”
 
 “……!”
 
-[^1]: A nyang is a traditional unit of currency; the money here is silver.
-[^2]: The Four Books and Three Classics are foundational texts of Confucian learning.
-[^3]: *Sibu-leol* is a Korean profanity, roughly equivalent to “fuck.”
-[^4]: *Boknal* are the hottest days of the Korean summer, historically associated with eating dog-meat soup.
-[^5]: *Juk* is Korean rice porridge, continuing Taekyung’s wordplay on “Juksan.”
-[^6]: The privileged World Nobles in *One Piece*, infamous for treating ordinary people as beneath them.
+[^1]: *Juk* is Korean rice porridge, continuing Taekyung’s wordplay on “Juksan.”
+[^2]: The privileged World Nobles in *One Piece*, infamous for treating ordinary people as beneath them.
