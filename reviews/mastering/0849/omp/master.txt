@@ -6,7 +6,7 @@ That was how long it took us to reach the City Lord’s Hall, which served as bo
 
 Thudududud!
 
-Stealing Ju Wongong’s carriage—no, borrowing it—had been a stroke of genius.
+Taking Ju Wongong’s carriage—no, *borrowing* it—had been a stroke of genius.
 
 The six-horse carriage was lavish enough to turn heads at a glance, and it had a kind of magic that made horrific traffic jams disappear.
 
@@ -32,7 +32,7 @@ Had someone given them orders beforehand?
 
 We didn’t stop the carriage or go through any of the checks we should have.
 
-The enormous iron gates swung open to match the carriage’s rapidly approaching speed. Hyuk Mujin, seated on the driver’s bench, didn’t ease up on the reins until we’d passed through no fewer than five gates.
+The enormous iron gates swung open as we approached. Hyuk Mujin, seated on the driver’s bench, didn’t ease up on the reins until we’d passed through no fewer than five gates.
 
 Pffft. Pffft.
 
@@ -194,7 +194,7 @@ The Captain looked Namho up and down as if he were staring at an ant from the so
 
 Creeeak.
 
-The doors swung open to either side with an irritating squeal, as if the new intruder wasn’t welcome.
+The doors swung open with an irritating squeal, as if they didn’t welcome the new visitor.
 
 Namho came right up beside me as I headed inside and whispered, “What’s with his reaction? Is a tiger that funny? Huh?”
 
@@ -254,13 +254,13 @@ Martial arts skill wasn’t the only thing I’d gained from everything I’d be
 
 “Do you have to taste shit to tell it from black bean sauce?”
 
-“Someone around twenty would do exactly that. It’s a phase everyone goes through.”
+“Someone around twenty might well do exactly that. Everyone goes through that phase.”
 
 “Everyone does, but not everyone earns the sobriquet Blazing Flame Divine Dragon around that age. Ah, this way.”
 
 I answered without missing a beat and turned down another corridor.
 
-Namho looked at me with narrowed eyes for a moment, but then followed without another word. Meanwhile, I kept an ear out for the voices slowly drawing nearer.
+Namho studied me through narrowed eyes for a moment, then followed without another word. I listened to the voices drawing closer.
 
 — So, according to the Divine Physician’s examination, it was a natural death?
 
@@ -270,7 +270,7 @@ Namho looked at me with narrowed eyes for a moment, but then followed without an
 
 — …In any case, I agree with the other physicians’ diagnoses. There’s nothing particularly suspicious about the City Lord’s—or rather, the former City Lord’s—death.
 
-— Ah, thank you. That Captain of the Guards has been making such a fuss that even I, this Young Master, was getting a little flustered. Now that the renowned Divine Physician of the realm has stepped in, it feels like I’ve gained a thousand troops.
+— Ah, thank you. That Captain of the Guards made such a fuss that even I was starting to worry. But now the Divine Physician, renowned throughout the realm, has spoken. I feel as though I’ve gained a thousand troops.
 
 — You flatter me. I’ve only done my duty as a physician.
 
@@ -298,7 +298,7 @@ Ju Wongong stared at me, his face darkening rapidly. After a long silence, he sp
 
 “Put it off. You’re obviously just going to spout nonsense.”
 
-At my firm reply, Ju Wongong lowered his head sadly. Jeok Cheongang watched him walk away, his back limp, then spoke in a serious voice.
+Ju Wongong lowered his head sadly. Jeok Cheongang watched him shuffle away, then spoke in a serious voice.
 
 “If you’d arrived fifteen minutes later, I might have had the rare experience of tearing open an imperial family member’s mouth for the first time in my life.”
 
@@ -316,7 +316,7 @@ I let out a long sigh and turned to the Divine Physician, pretending not to hear
 
 “What do you mean?”
 
-“You wouldn’t have told that idiot everything, would you? And seeing both of you here tells me enough.”
+“You wouldn’t have told that idiot everything. Seeing both of you here tells me enough.”
 
 The Divine Physician smiled ruefully at my flat reply.
 
@@ -332,7 +332,7 @@ I was still deciding whether to feel pleased or offended when the Divine Physici
 
 “Gu poison. A very rare kind found deep in Nanman. It’s called Blood Soul Gu.”
 
-Jeok Cheongang nodded as he looked at it.
+Jeok Cheongang nodded at Namho’s reaction.
 
 “Bringing that fellow here was worthwhile.”
 
