@@ -4,17 +4,17 @@ The Skeleton King was like a demonic sword.
 
 A blade sharp enough to cut through anything, with killing power to match—yet one that had to remain sheathed.
 
-A demonic sword that had to be drawn and wielded only when absolutely necessary, and only where no one was watching.
+It could only be drawn when absolutely necessary, somewhere no one would see it.
 
 In that sense, the deep sea, swallowed by darkness on every side, was the perfect place.
 
 *Shwoooooosh!*
 
-A wave of bones surged and churned through the water.
+A wave of bones surged through the water.
 
 The remains of sea creatures that had accumulated over hundreds, perhaps thousands, of years awoke at a single being’s call.
 
-The moment they opened their eyes, countless bones raced toward one another, obeying commands that bound their souls like chains.
+Obeying commands that bound their souls like chains, countless bones raced toward one another.
 
 *Crack. Clatter-clatter!*
 
@@ -34,7 +34,7 @@ A crown.
 
 It was the mark of one who had claimed a throne for himself, and the power shining from it was far too brilliant to be called mere magical power.
 
-—This is a royal command.
+—That is a royal command.
 
 His voice held authority; his gaze, arrogance.
 
@@ -60,7 +60,7 @@ Leviathan’s cry rang with bewilderment and rage. Its enormous body, hundreds o
 
 *Kwaaaaaa!*
 
-Violent whirlpools spun in every direction.
+Violent currents whirled on every side.
 
 Leviathan rushed toward the wall of white bones without a moment’s hesitation.
 
@@ -72,13 +72,13 @@ Leviathan had first opened its eyes in the deep sea. In those pitch-black depths
 
 At least, that was what it believed until a quiet voice came with a fresh stab of agony.
 
-“Where are you off to in such a hurry? We haven’t even settled the bill yet.”
+“Where are you off to in such a hurry? We haven’t settled the bill yet.”
 
 *Crunch!*
 
 —GRAAAAAAAH!
 
-Leviathan’s massive body, which had been shooting forward like a ray of light, writhed violently.
+Leviathan’s hurtling body writhed.
 
 Jin Taekyung gripped the spear shaft buried deep in the monster’s brow with one hand. With the other, he drove a sword—drawn from who knew where—into its enormous eye.
 
@@ -88,7 +88,7 @@ He spoke almost in a whisper.
 
 Less than a day had passed, and the confirmed casualties already exceeded a hundred thousand.
 
-They were strangers whose faces and names Jin did not know, but as he stared into the writhing Leviathan’s eyes, his own gaze burned with cold fury.
+Jin did not know their names or faces. But as he watched Leviathan writhe in pain, cold fury burned in his eyes.
 
 “We have to collect the blood debt, don’t we?”
 
@@ -104,13 +104,13 @@ Spears, swords, axes.
 
 It didn’t matter.
 
-Countless weapons he had shoved deep into his Inventory whenever he had the chance flashed into his hands one after another, then plunged toward their targets in the blink of an eye.
+Weapons I had stuffed into the depths of my Inventory whenever I had the chance flashed into my hands and plunged into the target an instant later.
 
 *Thrust-thrust-thrust! Crunch!*
 
 Scales shattered. Bone and flesh crumpled.
 
-The precise circulation of internal energy he usually employed was nowhere to be seen, but even that was enough.
+There was none of my usual precision in the way I circulated my internal energy, but it was enough.
 
 The mythical monster that had reigned as a calamity of the sea all its life writhed in agony unlike anything it had ever known.
 
@@ -132,7 +132,7 @@ The fin of a blue whale that had been slowly sinking twitched. Dozens of sturgeo
 
 Dead, yet not dead.
 
-The countless marine creatures that had finally become a single legion moved as one body. And at their head stood the king of wraiths who had awakened them.
+The countless sea creatures, now an army, moved as one. At their head stood the king of wraiths who had awakened them.
 
 —My legion!
 
@@ -154,7 +154,7 @@ Compressed seawater fired through the depths like cannonballs. Hundreds of blast
 
 But even Leviathan, calamity of the sea, could not control everything.
 
-This vast ocean belonged entirely to it, but the countless deaths and wraiths flowing within the waves followed only the owner of the crown.
+The vast ocean might belong to it alone. The countless dead and their wraiths carried in its waves answered only to the one who wore the crown.
 
 —Open your eyes.
 
@@ -170,7 +170,7 @@ Leviathan opened wide the eye Jin Taekyung had half-crushed.
 
 Bones scattered by the blasts gathered again. Broken pieces reassembled into new shapes and clung to Leviathan’s enormous body.
 
-They seeped through the cracks in its strength and clung to the monster’s magical power, which still had not run dry, draining it like leeches.
+They slipped through gaps in its defenses and, like leeches, drank the magical power it still had in abundance.
 
 *Shhhhhhh!*
 
@@ -196,7 +196,7 @@ The Skeleton King’s power was different in nature from ordinary magical power.
 
 But Leviathan had awoken from its long sleep only days ago. Now it was gravely wounded and exhausted. Everything happening around it seemed impossibly confusing.
 
-Confusing enough to make it forget reality for one brief moment.
+For one brief moment, it forgot the danger it was in.
 
 Then a terrible burning pain jolted it back to its senses.
 
@@ -206,7 +206,7 @@ Leviathan clenched what remained of its teeth. Half were already gone.
 
 It had fought countless humans called Hunters during the Great Cataclysm, but it had never felt pain like this. Blades wreathed in aura had barely stung, and even its worst injuries had soon healed after it absorbed another monster’s magical power and rested.
 
-But the flames tearing through its enormous head even now, turning flesh and bone to ash, were different.
+This was different. Flames were tearing through its enormous head, turning flesh and bone to ash.
 
 That tiny human was different.
 
@@ -216,9 +216,9 @@ That tiny human was different.
 
 He was nothing like the humans Leviathan had fought before. He was on another level.
 
-He kept muttering without pause as he drove weapons of unknown origin into various parts of Leviathan’s body and twisted them around. There was even a madness in his muttering that not even monsters could approach.
+Still muttering, he drove weapons from nowhere into one part of its body after another and tore through it. There was a madness in his words beyond anything even a monster could match.
 
-“We’re halfway there already. Come on, let’s keep it up a little longer.”
+“We’re halfway there already. Come on, just a little more.”
 
 “Sir, just one more set.”
 
@@ -228,7 +228,7 @@ He kept muttering without pause as he drove weapons of unknown origin into vario
 
 —GRAAAAAAAAAH!
 
-Leviathan let out a horrible cry.
+Leviathan cried out.
 
 It was no roar. It was a scream.
 
@@ -250,7 +250,7 @@ There was still hope.
 
 Its tenacious vitality. The half of its magical power it had yet to spend. And its enemies were no longer as they had been when it first met them.
 
-Especially that human who had dealt it such devastating damage with a single attack the day before.
+Especially the human who had dealt it such a devastating blow the day before.
 
 *If he could use that power again, I’d already be dead. Something must have happened to him.*
 
@@ -258,7 +258,7 @@ Leviathan was a highly intelligent monster. Its assessment was shrewd, and it ma
 
 —Kwoooooo!
 
-Its massive body, hundreds of meters in diameter, writhed with all its strength and released its magical power. A tremendous force surged outward like something inflating, pushing away everything around it.
+Its body, hundreds of meters across, thrashed with all its strength as magical power surged outward, pushing everything away.
 
 *Kwaaaaaa!*
 
@@ -268,7 +268,7 @@ Leviathan shook off the Skeletons draining its magical power like leeches and ch
 
 *Whoooooosh!*
 
-The water flowing over its enormous body became violent whirlpools and churned wildly.
+Water rushing along its immense body churned into a violent current.
 
 The Skeleton King missed it by a hair and shouted, his voice close to a scream.
 
@@ -306,27 +306,27 @@ Some of my powers had an expiration date.
 
 Damn it.
 
-Before I could even spit out that single curse, a massive boulder covered in green moss and seaweed had come up right behind me.
+Before I could get the word out, an enormous rock covered in green moss and seaweed loomed behind me.
 
 *Crack!*
 
 “Guh!”
 
-Then pain squeezed my entire body.
+The impact hit. Pain gripped my entire body.
 
-Through the momentarily whitened field of vision, I saw Leviathan’s back as it staggered toward the surface, fleeing despite being unable to fully absorb the force of the collision.
+My vision flashed white. Through it, I saw Leviathan staggering toward the surface, fleeing despite taking the force of the collision itself.
 
-I also saw the Skeleton King chasing after it while riding a half-dismembered shark.
+The Skeleton King pursued it on the back of a half-severed shark.
 
 *Clatter-clatter-clatter!*
 
 Bone Binding.
 
-A net of bones shot across the current and blocked the enormous body, but it could not restrain the monster thrashing with a desperate will to survive.
+A net of bones shot through the water and caught Leviathan’s enormous body. It couldn’t hold a monster fighting so desperately to survive.
 
 *Crunch!*
 
-The bones shattered and scattered in every direction.
+Bones shattered and scattered.
 
 But it wasn’t over.
 

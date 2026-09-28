@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "A sturdy shield of wraiths that would let nothing living pass.",
+      "defect": "The source says the shield permits not even a single breath; “nothing living pass” replaces that physical image with a broader restriction on living beings.",
+      "id": "F01",
+      "rationale": "The Korean is 일체의 숨결도 허락하지 않는, literally denying even a single breath. The accepted baseline preserves the breath image.",
+      "replacement": "A sturdy shield of wraiths that would allow not even a single breath through.",
+      "severity": "minor",
+      "source": "Line 25"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Then pain squeezed my entire body.",
+      "defect": "The English omits the explicit powerful impact that precedes the pain.",
+      "id": "F02",
+      "rationale": "The source separately states 강렬한 충격 (“a powerful impact”) and then says pain squeezed the narrator’s entire body.",
+      "replacement": "A powerful impact. Then pain squeezed my entire body.",
+      "severity": "minor",
+      "source": "Line 345"
+    }
+  ],
+  "summary": "Two minor fidelity losses: the bone barrier’s breath image is generalized, and the collision’s explicit impact is omitted.",
+  "version": 1
+}
