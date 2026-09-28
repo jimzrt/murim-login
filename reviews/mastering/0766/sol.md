@@ -2,13 +2,13 @@
 
 At some point, I had begun fighting without end.
 
-When I had no power, I fought in Gates for the happiness of my people. After gaining power, I fought to protect them.
+When I had no power, I fought in Gates for the happiness of the people close to me. Once I had power, I fought to protect them.
 
 But… what an irony.
 
 I had never backed down in the face of death. Now a few words were enough to make me retreat.
 
-*Slide.*
+*Shhh.*
 
 The blue-white flames that had burned so fiercely died down.
 
@@ -48,13 +48,13 @@ Fist and blade locked together once more. Powerful blue and dark energies shudde
 
 I clenched my teeth.
 
-In my mind, I had already killed Michael Silbert dozens of times. I had broken his limbs, crushed his mouth, and ripped out his heart before bursting it apart.
+In my mind, I had killed Michael Silbert dozens of times already. Broken his limbs, crushed his mouth, ripped out his heart and burst it in my hand.
 
 But this wasn’t Murim.
 
 No—whatever world we were in, no one would accept what I wanted to do unless I tore off the mask he wore first.
 
-“If that had been my intention… I would have done it long ago.”
+“If that were my plan… I’d have done it already.”
 
 “You’re more reckless than I thought. And even more arrogant.”
 
@@ -138,7 +138,7 @@ Michael Silbert nodded.
 
 “But Jin Taekyung’s recklessness defies all expectations. Hasn’t he always been difficult to predict?”
 
-“Everyone has a weakness. And he possesses one more fatal than anyone else’s.”
+“Everyone has a weakness. His is more dangerous than most.”
 
 “What weakness?”
 
@@ -146,7 +146,7 @@ Michael Silbert nodded.
 
 Michael continued in the same calm voice.
 
-“Someone whose joy, anger, sorrow, and pleasure are so clear is easier to handle than a materialistic person. Wealth and honor can be regained even after they are lost, but people cannot.”
+“Someone whose joy, anger, sorrow, and pleasure are so plain to see is easier to handle than someone motivated by greed. Wealth and honor can be regained. People can’t.”
 
 He looked at his private aircraft, all but wrecked by the force of their clashes.
 
@@ -170,7 +170,7 @@ How could Jin Taekyung have more to lose than him?
 
 Michael patted Huginn on the shoulder.
 
-“There is no need to worry. In a few days, everything will be concluded successfully.”
+“No need to worry. In a few days, everything will be settled.”
 
 “I hope so, but…”
 
@@ -192,7 +192,7 @@ Huginn turned. His superior stood holding a sword with nothing left but the hilt
 
 Michael shook his head at Huginn’s alarm. With a strange look in his eyes, he gazed at the fragments scattered around his feet.
 
-“Well, this is something…”
+“Well…”
 
 Only two clashes.
 
@@ -210,7 +210,7 @@ And then… his greatest obstacle.
 
 *I thought Cheon Taemin was the only one left.*
 
-That was how it had been. That was how it should have been.
+He had been certain. He had needed to be.
 
 Yet today, calculations that should have allowed no margin for error had proved completely wrong.
 
@@ -226,7 +226,7 @@ A moment later, he gave a faint scoff.
 
 It was a pointless question. He had reached his current position precisely because he had never used all his strength against any enemy.
 
-The one who uses all his strength wins the battle, but the one who hides his strength wins the war.
+A man who uses everything he has may win a battle. The man who keeps his strength hidden wins the war.
 
 Michael Silbert wanted to win the war. Not the battle—the war.
 
@@ -236,7 +236,7 @@ He had lived for dominion, not mere survival, and only one final step remained b
 
 At least not tonight.
 
-Michael Silbert swallowed the words circling the tip of his tongue and suddenly raised his head toward the sky.
+Michael swallowed the words on the tip of his tongue and looked up at the sky.
 
 To his gray eyes, Munich’s night sky shone more brightly than ever. Someone else had looked at that same sky only moments before and seen no moonlight at all.
 
@@ -250,11 +250,11 @@ Michael Silbert was not careless enough to leave an obstacle where it stood afte
 
 * * *
 
-Even after I had finished telling them everything, the spacious suite remained filled with heavy air and silence.
+Even after I’d told them everything, the spacious suite remained heavy with silence.
 
-*It couldn’t be helped.*
+*Of course it did.*
 
-I looked at Team Leader Choi and the Skeleton King, both of whom had gone rigid, and muttered inwardly.
+I looked at Team Leader Choi and the Skeleton King. Both had gone rigid. It was about the reaction I’d expected.
 
 Nobody stays calm when their head’s on fire. And in this case, being a monster instead of a human wouldn’t make any difference.
 
@@ -266,7 +266,7 @@ The Skeleton King broke the silence first. He muttered the curse, then spoke wit
 
 “Hmm.”
 
-Under normal circumstances, I would have made a joke. But the matter was too serious this time, and I found it difficult to answer.
+Normally, I would have cracked a joke. This time, I couldn’t think of an answer.
 
 The Skeleton King probably had plenty on his mind. His identity had been discovered, and he had no idea what would happen to him next.
 
@@ -276,7 +276,7 @@ I couldn’t bring myself to say any of that. I just sat there, moving my lips w
 
 “Go ahead.”
 
-“Will this body never be allowed to enter the club again?”
+“Will I never be allowed into a club again?”
 
 I blinked. For a moment, I couldn’t make sense of the question.
 
@@ -288,17 +288,17 @@ By the time I came to my senses, White Flame’s spearhead was driving into his 
 
 “Die. Please, just die…”
 
-“Please spare me! My ribs! I’ve got a cracked rib!”
+“Please spare me! My ribs! You’ve cracked my ribs!”
 
 “You thoughtless bastard. Even Myeongnyun Jinsa Galbi[^1] has more sense than you…”
 
-“Mr. Jin Taekyung! Mr. Jin Taekyung! You mustn’t!”
+“Mr. Jin Taekyung! Mr. Jin Taekyung! Stop!”
 
 I must have lost it for a moment.
 
 After a brief, rage-induced out-of-body experience, Team Leader Choi’s pleas finally brought me back to my senses.
 
-Seeing the Skeleton King clutching his chest and trying to force his ribs back into place made my vision turn white again, but I endured through the superhuman mental fortitude befitting a Supreme Peak master.
+The sight of the Skeleton King clutching his chest and fitting his ribs back into place made my vision go white again. Somehow, I held on with the superhuman willpower of a Supreme Peak master.
 
 *Fuck. I think I’m about to suffer qi deviation.*
 
@@ -306,4 +306,4 @@ Another ten minutes of watching that, and my qi and blood would have tangled so 
 
 Fortunately, a visitor arrived before qi deviation did.
 
-[^1]: Myeongnyun Jinsa Galbi is a Korean all-you-can-eat barbecue chain specializing in pork ribs; its name is used here as an absurd comparison.
+[^1]: Myeongnyun Jinsa Galbi is a Korean barbecue chain known for its pork ribs. Taekyung’s comparison follows the Skeleton King’s cry about his ribs.
