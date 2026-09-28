@@ -1,6 +1,6 @@
 # Chapter 806
 
-There’s an old saying that’s been passed down in the Murim for ages.
+There was an old saying in Murim.
 
 *A Third Rate swordsman gets beaten to death by street thugs. A Peak master dies fighting a master like himself. But the only things that can kill a Supreme Peak master are his own arrogance and carelessness.*
 
@@ -12,7 +12,7 @@ While everyone else wandered Murim’s treacherous mountains, they stood on the 
 
 But there was no such thing as *invincible* in this world.
 
-Even among those who reach the chosen realm, there are clear differences in strength.
+Even among those who had reached that rarefied realm, there were clear differences in strength.
 
 People looking up from below couldn’t tell. Those who stood on peaks of their own could see and feel someone else beyond the thick fog—standing higher or lower than they were.
 
@@ -134,7 +134,7 @@ That, too, was part of its plan.
 
 Its tail slammed into my side with more weight and force than a battering ram.
 
-The stinger on its tip couldn’t pierce all the way through my Fire Dragon Armor, but I had to bear the full force of the tremendous impact it delivered.
+The stinger on its tip couldn’t pierce all the way through my Fire Dragon Armor, but the impact came through all the same.
 
 “Ugh…!”
 
@@ -272,11 +272,9 @@ All I’d been born with was a pair of balls. This bastard was named-monster lev
 
 Even in the middle of his own fight, the Skeleton King had somehow seen what happened. His urgent shout came from far behind me.
 
-But despite his worry, I had no intention of dying here. Not even the slightest.
+But despite his worry, I had no intention of dying here.
 
-If anything, I was almost glad that being **Poisoned** had dulled my senses.
-
-At least now I wouldn’t feel much pain from what I was about to do.
+If anything, I was glad the **Poisoned** status had dulled my senses. At least I’d barely feel what I was about to do.
 
 “Thanks for the help, you son of a bitch.”
 
@@ -316,13 +314,13 @@ Even with all my stats drastically reduced by the special debuff, my physical ab
 
 And the Lycanthrope Champion was built for Agility, not Strength. I could slam it into the ground with one hand.
 
-“Now, you little punk… Attention!”
+“You little… Attention!”
 
 *Whack! Crunch!*
 
 I kicked its knee joint, shattering it in an instant.
 
-As the strongest of the half-man, half-beast warriors let out a mournful cry, I kept a firm grip on its claw and slammed the monster into the ground.
+As the strongest of the half-man, half-beast warriors let out a mournful howl, I gripped the claw lodged in my palm and hurled it to the ground.
 
 *Whoom—BANG!*
 
@@ -334,7 +332,7 @@ At last, I had a free hand.
 
 *Open Inventory. Summon.*
 
-A sharp dagger flashed. Above it, blazing hellfire surged and flew toward the Manticore Lord’s head.
+A sharp dagger flashed. Hellfire surged around it, and I sent it flying toward the Manticore Lord’s head.
 
 —…!
 
@@ -350,7 +348,7 @@ The blade cut through hide and shattered flesh and bone. Flames exploded.
 
 The clear chime I’d been waiting for rang in my ears.
 
-Just as the clear chime I’d been waiting for rang in my ears, a flash of light suddenly swept in from somewhere and cut through the Lycanthrope Champion’s neck as it charged at me.
+Then a flash of light swept in from somewhere and cut through the neck of the Lycanthrope Champion charging at me.
 
 *Slice!*
 
@@ -358,4 +356,4 @@ Just as the clear chime I’d been waiting for rang in my ears, a flash of light
 
 “…”
 
-This son of a bitch stole my kill.
+That son of a bitch stole my kill.
