@@ -6,7 +6,7 @@ Amid the blackened sky and the violent wind and rain, a shower of strangely shap
 
 *Rumble-rumble-rumble, crash!*
 
-When a massive boulder struck the lake, spray erupted several *jang*[^1] into the air. Birds that had lost their nests tumbled from the collapsing cliff with shrill cries, while torrential rain and lightning battered the world without pause.
+When a massive boulder struck the lake, spray erupted several *jang* into the air. Birds that had lost their nests tumbled from the collapsing cliff with shrill cries, while torrential rain and lightning battered the world without pause.
 
 And as everything collapsed around them… one being alone reared up.
 
@@ -26,13 +26,13 @@ Only one question filled everyone’s thoughts.
 
 Scales gleamed with an ominously beautiful black sheen. Its body was so thick that ten burly men with their arms outstretched could barely have encircled it.
 
-Their gazes traveled up the long, sinuous body, more than thirty *jang*[^2] of it visible above the surface, until they reached two horns jutting from its forehead.
+Their gazes traveled up the long, sinuous body rising more than thirty *jang* above the surface until they reached two horns jutting from its forehead.
 
 And beneath them, its eyes.
 
 Blood-red pupils stretched into long vertical slits. As the scales around its mouth slowly parted, they revealed saw-edged teeth and a maw like a dark cavern.
 
-*Grrrrr.*
+“Grrrrr.”
 
 The vicious growl echoing down from far above sent a chill deep into the bones of Crouching Dragon Guest Zhuge Feng.
 
@@ -64,7 +64,7 @@ He was a martial artist, but first and foremost, he was the Family Head of the d
 
 To a man like him, unverified superstition was not even worth considering. Believing in an illusion no one had ever seen was simply foolish.
 
-But someone a hundred *jang*[^3] away from Zhuge Feng was different.
+But someone a hundred *jang* away from Zhuge Feng was different.
 
 Unlike Zhuge Feng, he was not a Family Head responsible for an entire household. He was merely an old boatman who had survived by relying on his own experience and a single ferryboat.
 
@@ -112,7 +112,7 @@ And in the end, it would punish him just as it had punished the others.
 
 With death!
 
-He could not die like this. Somehow, he had to calm the divine spirit’s anger.
+He could not die like this. Somehow, he had to calm the divine spirit's anger.
 
 A cracked cry burst from the old boatman’s mouth as he stood there, entranced.
 
@@ -126,7 +126,7 @@ Before the others, frozen rigid by the colossal being’s appearance, could stop
 
 *Tap-tap-tap, splash!*
 
-The instant the old boatman’s shabby straw sandals touched the water of Dongting Lake—
+The instant the old boatman's shabby straw sandals touched the water of Dongting Lake—
 
 *Swish.*
 
@@ -136,7 +136,7 @@ The old boatman’s reflection appeared in those blood-red vertical pupils. As t
 
 *Whoooooosh!*
 
-A chilling aura erupted in every direction from the thirty-*jang*[^2] body.
+A chilling aura erupted in every direction from the thirty-*jang*-long body.
 
 Birds in flight lost their strength and plummeted. Thousands of fish fleeing in schools through the depths of Dongting Lake floated belly-up to the surface.
 
@@ -144,7 +144,7 @@ An aura as immense as its body, an aura akin to death.
 
 Neither insignificant creatures nor even humans could remain unharmed before it.
 
-Before that invisible aura even reached him, the old boatman’s entire body had already stiffened like a stone statue.
+Before that invisible aura even reached him, the old boatman's entire body had already stiffened like a stone statue.
 
 His mouth hung open, his eyes bulged wide. Just as his pupils began to roll white beneath the grip of terror—
 
@@ -154,9 +154,9 @@ A sharp whistle cut through the air, and the old boatman crumpled where he stood
 
 A young man gently caught his frail body, then raised his head and stared at the enormous being.
 
-“Hey, you fucking eel bastard.”
+“Hey, you sibu-leol eel bastard.”
 
-*……!*
+“……!”
 
 At the clear voice, the enormous being’s pupils swelled as though it had realized something.
 
@@ -170,7 +170,7 @@ But that young man was free from it all. More than fearless, he almost seemed ac
 
 Just like now.
 
-“Can’t you open those eyes properly?”
+“Can't you open those eyes properly?”
 
 With that offhand remark from the young man, Jin Taekyung, a streak of light tore through the air.
 
@@ -182,13 +182,13 @@ When I first saw the thing, only one thought flashed through my mind.
 
 *Am I seeing things?*
 
-I could hardly have thought otherwise. A monster I had seen somewhere before had appeared right in front of me—not in the modern world, but in Murim.[^4]
+I could hardly have thought otherwise. A monster I had seen somewhere before had appeared right in front of me—not in the modern world, but in Murim.
 
 If it had merely been an illustration in some fantasy novel, that would have been one thing. Unfortunately, I recognized it from the *Monster Encyclopedia*, compiled over the past several decades by countless leading scholars and Hunters who had fought in the Great Cataclysm.
 
 *Could that be…?*
 
-Although the monsters I had fought most often during my Hunter career had been low-level creatures like goblins, the section I had looked at most in the *Monster Encyclopedia* was the one covering the highest-level monsters.
+Although the monster I had fought most often during my Hunter career had been low-level creatures like goblins, the section I had looked at most in the *Monster Encyclopedia* was the one covering the highest-level monsters.
 
 And that thing was one of the monsters given a particularly large entry.
 
@@ -202,7 +202,7 @@ No, let me correct that.
 
 At least, that had been true until a moment ago.
 
-*A Sea Serpent in Murim?[^4] What the hell is going on…?*
+*A Sea Serpent in Murim? What the hell is going on…?*
 
 I had frozen in shock, but I soon noticed something strange.
 
@@ -226,7 +226,7 @@ But these two similar yet different monsters did share one crucial trait.
 
 It was that.
 
-An inherently ferocious aura possessed only by monsters—fundamentally different from what martial artists called killing intent.
+An inherently ferocious aura possessed only by monsters—fundamentally different from the killing intent martial artists called killing intent.
 
 *Fear.*
 
@@ -234,13 +234,13 @@ Fear was exactly what it sounded like: terror and dread.
 
 Every monster possessed it, but the stronger the monster, the more powerful its Fear became.
 
-It shackled an enemy’s body by instilling fear and terror, then shattered the enemy’s mind.
+It shackled an enemy's body by instilling fear and terror, then shattered the enemy's mind.
 
 *Just like the Dongting Fisherman.*
 
 The scattered puzzle pieces in my head began falling into place.
 
-The Dongting Fisherman’s state, which had seemed almost insane. His clear eyes returning only after all his strength had drained away.
+The Dongting Fisherman's state, which had seemed almost insane. His clear eyes returning only after all his strength had drained away.
 
 *He must have encountered that thing before we did.*
 
@@ -268,7 +268,7 @@ One second. No, even a quarter of a second later, and the poor old man might hav
 
 I raised my head and looked at the enormous being towering in the distance.
 
-*Damn. It’s huge.*
+*Damn. It's huge.*
 
 I had never fought a Sea Serpent, but this thing was clearly no pushover.
 
@@ -276,7 +276,7 @@ It had just taken a spear I had hurled with all my strength and still hadn’t f
 
 *Bam!*
 
-With a heavy impact, the colossal body, more than thirty *jang*[^2] long, swayed slightly.
+With a heavy impact, the colossal body, more than thirty *jang* long, swayed slightly.
 
 It was like watching a small mountain move. I bit my lip.
 
@@ -290,7 +290,7 @@ But if I could not finish it in One Strike, that would be a foolish move.
 
 It was more urgent to act before the enormous monster recovered from its confusion.
 
-I turned and drew a deep breath as I pulled internal energy up from my dantian.[^5]
+I turned and drew a deep breath as I pulled internal energy up from my dantian.
 
 “Cheongpung! Hyuk Mujin! Gung Gibang!”
 
@@ -314,7 +314,7 @@ Unlike Gung Gibang and Hyuk Mujin, whose eyes looked as though half their souls 
 
 Anyone would freeze after seeing a monster like that. I was the exception because I had grown up in the modern world, surrounded by monsters until I was sick of them.
 
-But Cheongpung had been born and raised in Murim.[^4] The fact that he could overcome Fear so easily was astonishing.
+But Cheongpung had been born and raised in Murim. The fact that he could overcome Fear so easily was astonishing.
 
 “Young Hero Cheongpung. Are you really all right?”
 
@@ -333,9 +333,3 @@ Cheongpung threw both arms wide and exclaimed emphatically.
 *I hadn’t thought that through.*
 
 *Cheongpung had been out of his mind from the beginning.*
-
-[^1]: A *jang* is a traditional Korean unit of length equal to about 3.03 meters (9.94 ft). Several *jang* means several times that distance.
-[^2]: Thirty *jang* is about 91 meters (298 ft).
-[^3]: A hundred *jang* is about 303 meters (994 ft).
-[^4]: *Murim* is the martial world of fighters, sects, and clans.
-[^5]: The *dantian* is a center of internal energy in the lower abdomen.
