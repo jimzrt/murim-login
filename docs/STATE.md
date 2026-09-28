@@ -1,20 +1,20 @@
 # Translation State
 
-- Last completed: 1186
-- Next chapter: 1187
-- Current block: 1185–1189 (2/5)
-- Latest translation: `translations/1186.md`
-- Latest summary: `summaries/beats/1186.md`
-- Safe profiles through: chapter 1186
+- Last completed: 1187
+- Next chapter: 1188
+- Current block: 1185–1189 (3/5)
+- Latest translation: `translations/1187.md`
+- Latest summary: `summaries/beats/1187.md`
+- Safe profiles through: chapter 1187
 
 ## Current Block
 
-- As the group pushes through Tianshan’s strange, lightless mist and climbs its peaks, Jeok Cheongang and the Slaughter Saint acknowledge that they have no way to explain or overcome the phenomena. They suspect the events are no longer coincidences, and Jeok worries that fate may be cruel to his unconscious Disciple. During a brief rest, Hyuk Mujin and Gung Gibang joke about their hardships, then share their grief over the uncertain fate of the Jin Family and Beggars’ Sect. The mist suddenly moves as if alive, catching Mujin’s attention.
+- A sinister mist unleashes a force that overwhelms the group and separates Jeok Cheongang from the Bow Saint, the Slaughter Saint, Gung Gibang, Hyuk Mujin, Ju Hwaran, and Song Ilseom. Jeok remains with his unconscious Disciple on his back, fights off waves of monstrous beings, and freezes when an impossible, familiar figure appears.
 
 ## Open Questions
 
-- What happened to the separated companions, allied troops, Jin Family, and Beggars’ Sect, and why did the Murim Alliance and Imperial Army miss the rendezvous?
-- What is causing Tianshan’s darkness and strange phenomena, and why does the mist appear to move as if alive?
+- Who is the familiar figure who appears before Jeok, and how can they be present?
+- What is causing the mist’s power, and what has happened to the separated companions?
 - What is the source of Taekyung’s chest pain and sleeplessness, and did he use his full strength against the fasting pill’s effects?
 - What remains to be completed for the Lord of Heaven, and what command will he give the Grand Mage?
 - What is Alpha, and what does its awakening mean?

@@ -2583,3 +2583,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 나포박호 | **Lop Nur** | Lake crossed by the Imperial Army. |
 | 화정 | **Hejing** | Place expected to be reached by the Imperial Army. |
 | 한혈보마 | **sweat-blood horse** | The horses whose meat was made into jerky. |
+| 환마 | **Illusion Fiend** | A former-generation master of illusion. |
+| 귀곡자 | **Guiguzi** | A former-generation master of Mystic Gate Formations. |
