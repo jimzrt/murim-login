@@ -70,7 +70,7 @@ A heretic persecuting the great Prophet chosen by God.
 
 “Then there’s only one thing left to do.”
 
-I muttered evenly, staring at the Doppelganger. It understood what I meant, and the corners of its mouth curled upward.
+I spoke calmly, staring at the Doppelganger. It understood what I meant, and the corners of its mouth curled upward.
 
 “I’m looking forward to it.”
 
@@ -138,7 +138,7 @@ I grabbed it by the throat and twisted hard.
 
 Its neck bones shattered under my grip, and its head bent at a grotesque angle.
 
-*Ding.* Another bell rang, and the twisted head straightened. The face, smiling coyly, belonged to a woman I’d never seen before.
+*Ding.* Another bell rang, and the twisted head straightened. The face smiling back at me belonged to a woman I’d never seen before.
 
 “Oh, did you know? This woman was the lover of the man you just killed. Looks like they were planning to get married this year.”
 
@@ -154,7 +154,7 @@ My hand stopped dead, as if someone had hit a pause button. The Doppelganger whi
 
 I clenched my teeth.
 
-The Doppelganger hadn’t just absorbed its victims’ appearances. It could reproduce their abilities exactly as they’d had them in life—and it had their memories, too.
+The Doppelganger hadn’t just absorbed its victims’ appearances. It could reproduce the abilities they’d had in life, and it had taken their memories, too.
 
 Those memories, spilling from its mouth, dug into my chest like an awl and made me hesitate.
 
@@ -162,11 +162,11 @@ Those memories, spilling from its mouth, dug into my chest like an awl and made 
 
 Blood seeped between my clenched teeth.
 
-Beyond the canyon, the tremors had grown stronger, and I could feel a fierce killing intent. In front of me, a monster that came back no matter how many times I killed it was smiling faintly.
+Beyond the canyon, the tremors had grown stronger, and I could feel a fierce killing intent. In front of me, a monster that came back no matter how many times I killed it smiled faintly.
 
 “Jin!”
 
-Magic Johnson’s urgent shout struck my eardrums. The smile on the Doppelganger’s face deepened.
+Magic Johnson’s urgent shout struck my ears. The smile on the Doppelganger’s face deepened.
 
 “This is your last chance.”
 
@@ -196,7 +196,7 @@ The Doppelganger’s low whisper wound softly around my whole body.
 
 *Rumble.*
 
-The canyon shook. The footsteps of countless fanatics—and the hooves of the camels they rode—were approaching from the darkness beyond.
+The canyon shook. The footsteps of countless fanatics—and the hooves of the camels they rode—were rapidly approaching from the darkness beyond.
 
 “Think of your family and friends. Can you even imagine how much sorrow and pain they’ll suffer because of your death?”
 
@@ -216,7 +216,7 @@ The eyes of the nameless woman—or rather, the Doppelganger—sparkled.
 
 “Allahu Akbar!”
 
-The mighty roar of countless voices merging into one rang across the darkening desert.
+Countless voices merged into a single roar across the dark desert.
 
 Brilliant light shimmered around Magic Johnson, while hundreds of undead stared with dimly glowing eyes at the waves of fanatics surging toward them.
 
@@ -284,7 +284,7 @@ A brief silence followed. The Doppelganger stared at me without a word, then fur
 
 A cry rang out from the sky, swallowing the Doppelganger’s unfinished words.
 
-It naturally looked up at the sky, and its eyes suddenly widened.
+It looked up, and its eyes suddenly widened.
 
 “……What’s that?”
 

@@ -1,0 +1,821 @@
+{
+  "baseline_blocks": 150,
+  "baseline_sha256": "50228f2992bc7c60de92dfd5f47bb103b2d9009e9da4d53cce77111d3bf903c2",
+  "global_terminology_alerts": [],
+  "hunk_count": 44,
+  "hunks": [
+    {
+      "baseline": "The ground shook. Clods of dirt and fragments of rock broke away from the impossibly high cliffs and began raining down overhead, one after another.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "The ground shook. Clods of dirt and fragments of rock broke away from the towering cliffs and rained down overhead, one after another.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Magic Johnson muttered with a groan. The Skeleton King and hundreds of undead, blocking the canyon’s exit, crouched low and glared into the darkness.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "Magic Johnson muttered the words like a groan. The Skeleton King and hundreds of undead blocked the canyon’s exit, crouching low as they stared into the darkness.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I steadied my breathing and raised my Qi Sense. With my senses sharpened to their limits, I took in everything around me.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "17",
+      "sol": "I steadied my breathing and heightened my Qi Sense, sharpening my senses to take in everything around me.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The depth and intensity of the tremors traveling through the ground. The wind blowing from the west, and the scent carried on it. And the sounds.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "19",
+      "sol": "The depth and force of the tremors traveling through the ground. The wind blowing from the west, and the smell it carried. And the sounds.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The distance made it impossible to determine the enemies’ exact number or strength, but I could be certain of one thing.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "21",
+      "sol": "They were too far away for me to judge their exact number or strength, but I was certain of one thing.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That left only one possibility. The Doppelganger, sensing my gaze, bared its bloodstained teeth in a grin.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "25",
+      "sol": "That left only one possibility. The Doppelganger sensed my gaze and bared its bloodstained teeth in a grin.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An unbelievable rate of recovery—obviously not human.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "41",
+      "sol": "An unbelievable rate of recovery—obviously not human. The power of Regeneration, enough to make anyone suspicious.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A power of Regeneration that anyone would have to question.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "43",
+      "sol": "",
+      "sol_paragraphs": "after P20",
+      "sol_range": [
+        20,
+        20
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "재생",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Regeneration"
+        }
+      ]
+    },
+    {
+      "baseline": "Perhaps they’d glimpsed the shadow of a god in the Doppelganger, who used mana and had the same red blood and flesh as them.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "47",
+      "sol": "Perhaps they’d glimpsed the shadow of a god in the Doppelganger, who used mana and had the same red blood and flesh as they did.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They’ll fight until the very last person falls. For their god. And for me.”",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "57",
+      "sol": "“They’ll fight until the very last one falls. For their god. And for me.”",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was simply the truth.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "61",
+      "sol": "It was the truth.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Doppelganger had planted its followers in this desert far earlier than I’d expected. And the wave of fanatics that began there had already shaken the world in the form of terrorism.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "65",
+      "sol": "The Doppelganger had planted its followers in this desert far earlier than I’d expected. The wave of fanatics that began there had already shaken the world through terrorism.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This was ultimately the joint work of monsters and madmen. And right now, I was nothing but a heretic who had to be killed.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "71",
+      "sol": "This was the work of a monster and a bunch of madmen. And right now, I was nothing but a heretic who had to be killed.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I muttered evenly, staring at the Doppelganger. It understood what I meant, and the corners of its mouth curled upward.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "77",
+      "sol": "I spoke calmly, staring at the Doppelganger. It understood what I meant, and the corners of its mouth curled upward.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Its limbs were bound, so there was no way it could dodge. But the Doppelganger frowned and sighed.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "87",
+      "sol": "Its limbs were bound, so it couldn’t dodge. The Doppelganger merely frowned and sighed.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The severed muscles and shattered bones returned to their proper places. Fresh, rosy blood welled up, and smooth, childlike skin covered it.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "93",
+      "sol": "The severed muscles and shattered bones returned to their proper places. Bright red blood filled the gaps, and smooth skin, like a child’s, grew over it.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The countless Level windows I’d seen with the **Truthful Eye**—and could still see now—weren’t just numbers.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "99",
+      "sol": "The countless Level windows I’d seen with the **Truthful Eye**—and could still see now—meant far more than they appeared to.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were fuel, and they were the lives of the victims the Doppelganger had devoured.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "103",
+      "sol": "They were fuel, but they were also the lives of the victims the Doppelganger had devoured.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Like an arcade game character that came back to life as soon as you fed it a coin, the bastard could revive endlessly.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "105",
+      "sol": "Like an arcade game character that came back to life whenever you fed it a coin, the bastard could keep reviving.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I twisted the dagger still in my hand. Heat surged from my dantian, raced through my acupoints, and flowed into the dagger.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "109",
+      "sol": "I twisted the dagger still in my hand. Heat surged from my dantian, raced through my acupoints, and flowed into the blade.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Its heart had already been pierced once, yet it had recovered like an immortal. Now it was crushed completely. The clear bell I’d been waiting for rang beside my ear.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "115",
+      "sol": "Its heart had already been pierced once, yet it had recovered as if nothing could kill it. Now the heart was crushed completely, and the clear bell I’d been waiting for rang in my ear.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The low bridge of its nose and the crooked teeth visible in its mouth.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "135",
+      "sol": "A low nose bridge. Crooked teeth visible inside its mouth.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Judging by those distinctive features, clearly East Asian, it had to be a Hunter from J1—one of the team thought to have been wiped out, apart from Yamamoto Genji.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "137",
+      "sol": "Judging by features distinctive even among East Asians, this had to be a Hunter from J1—one of the team thought to have been wiped out apart from Yamamoto Genji.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Come to think of it, I forgot to introduce myself. Nice to meet you. I’m Hiroshi Inoue. I spent my childhood in Nagasaki, then moved to Tokyo…….”",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "139",
+      "sol": "“Come to think of it, I forgot to introduce myself. Nice to meet you. I’m Hiroshi Inoue. I spent my childhood in Nagasaki, then moved to Tokyo……”",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unable to withstand my tremendous grip, the Doppelganger’s neck snapped at once, its head lolling at a grotesque angle.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "143",
+      "sol": "Its neck bones shattered under my grip, and its head bent at a grotesque angle.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "도플갱어",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Doppelganger"
+        }
+      ]
+    },
+    {
+      "baseline": "*Ding.* Another bell rang, and the twisted head straightened. The face, smiling coyly, belonged to a woman I’d never seen before.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "145",
+      "sol": "*Ding.* Another bell rang, and the twisted head straightened. The face smiling back at me belonged to a woman I’d never seen before.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Doppelganger hadn’t just absorbed its victims’ appearances. It could reproduce their abilities exactly as they’d had them in life—and it had their memories, too.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "161",
+      "sol": "The Doppelganger hadn’t just absorbed its victims’ appearances. It could reproduce the abilities they’d had in life, and it had taken their memories, too.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the memories spilling from its mouth dug into my chest like an awl, making me hesitate.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "163",
+      "sol": "Those memories, spilling from its mouth, dug into my chest like an awl and made me hesitate.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beyond the canyon, the tremors had grown stronger, and I could feel a fierce killing intent. In front of me, a monster that came back no matter how many times I killed it was smiling faintly.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "169",
+      "sol": "Beyond the canyon, the tremors had grown stronger, and I could feel a fierce killing intent. In front of me, a monster that came back no matter how many times I killed it smiled faintly.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Magic Johnson’s urgent shout struck my eardrums. The smile on the Doppelganger’s face deepened.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "173",
+      "sol": "Magic Johnson’s urgent shout struck my ears. The smile on the Doppelganger’s face deepened.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Doppelganger shrugged at me, frozen like a statue.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "187",
+      "sol": "The Doppelganger shrugged at me as I stood frozen like a statue.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The canyon shook. The footsteps of countless fanatics—and the hooves of the camels they rode—were approaching from the darkness beyond.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "203",
+      "sol": "The canyon shook. The footsteps of countless fanatics—and the hooves of the camels they rode—were rapidly approaching from the darkness beyond.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sorrow and pain over someone’s death. Yeah, I’d been through it. An experience that had shaken me so badly my heart had nearly collapsed.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "213",
+      "sol": "Sorrow and pain over someone’s death. Yeah, I’d been through it. It had shaken me so badly I’d felt close to falling apart.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "경험치",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "EXP"
+        }
+      ]
+    },
+    {
+      "baseline": "*Allahu Akbar!*",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "221",
+      "sol": "“Allahu Akbar!”",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mighty roar of countless voices merging into one rang across the darkening desert.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "223",
+      "sol": "Countless voices merged into a single roar across the dark desert.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Brilliant radiance shimmered around Magic Johnson, while hundreds of undead stared with dimly glowing eyes at the waves of fanatics surging toward them.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "225",
+      "sol": "Brilliant light shimmered around Magic Johnson, while hundreds of undead stared with dimly glowing eyes at the waves of fanatics surging toward them.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When I took a step back, I saw its smiling face. In a gentle voice, as if speaking to a child, it said:",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "233",
+      "sol": "I took a step back and saw it smiling at me. It spoke gently, as if to a child.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I found myself muttering:",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "237",
+      "sol": "I found myself muttering.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with its hollow question, the Doppelganger’s head shot into the air.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "253",
+      "sol": "As it asked its empty question, the Doppelganger’s head flew into the air.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A new face rose onto its shoulders, as if a page had turned, and blinked.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "255",
+      "sol": "A new face rose onto its shoulders as if someone had turned a page, and blinked.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The heat blazing around **White Flame**’s spearhead was turning its eyes red.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "257",
+      "sol": "The heat blazing around **White Flame**’s spearhead cast a reddish glow in its eyes.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Quit talking out of your ass and answer me. My dream is to be the head of a village where everyone lives to a hundred.”",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "283",
+      "sol": "“Quit talking out of your ass and answer me. My dream is to be the head of a longevity village.”",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It naturally looked up at the sky, and its eyes suddenly widened.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "291",
+      "sol": "It looked up, and its eyes suddenly widened.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before the forces split off, I’d used Sound Transmission to give the Skeleton King direct orders.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "297",
+      "sol": "Before the forces split up, I’d used Sound Transmission to give the Skeleton King direct orders.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 149,
+  "sol_sha256": "dcaf0eea66b1687890f3fca527d412a001f26436e0e8ee6fb491f440d672fb6b",
+  "version": 1
+}

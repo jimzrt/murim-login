@@ -2,25 +2,25 @@
 
 *Crack. Rumble.*
 
-The ground shook. Clods of dirt and fragments of rock broke away from the towering cliffs and rained down overhead, one after another.
+The ground shook. Clods of dirt and fragments of rock broke away from the impossibly high cliffs and began raining down overhead, one after another.
 
 “……Damn it.”
 
-Magic Johnson muttered the words like a groan. The Skeleton King and hundreds of undead blocked the canyon’s exit, crouching low as they stared into the darkness.
+Magic Johnson muttered with a groan. The Skeleton King and hundreds of undead, blocking the canyon’s exit, crouched low and glared into the darkness.
 
 More precisely, at the countless enemies approaching from beyond it.
 
 *Fwoooosh.*
 
-I steadied my breathing and heightened my Qi Sense, sharpening my senses to take in everything around me.
+I steadied my breathing and raised my Qi Sense. With my senses sharpened to their limits, I took in everything around me.
 
-The depth and force of the tremors traveling through the ground. The wind blowing from the west, and the smell it carried. And the sounds.
+The depth and intensity of the tremors traveling through the ground. The wind blowing from the west, and the scent carried on it. And the sounds.
 
-They were too far away for me to judge their exact number or strength, but I was certain of one thing.
+The distance made it impossible to determine the enemies’ exact number or strength, but I could be certain of one thing.
 
 *They’re not monsters.*
 
-That left only one possibility. The Doppelganger sensed my gaze and bared its bloodstained teeth in a grin.
+That left only one possibility. The Doppelganger, sensing my gaze, bared its bloodstained teeth in a grin.
 
 “Humans are such strange creatures. They’ll throw their lives away for a being they’ve never even seen, calling it a god. All it takes is a few solemn words, and they’re weeping buckets.”
 
@@ -36,11 +36,13 @@ It wasn’t a potion. It wasn’t magic.
 
 And yet, even now, its broken body was healing.
 
-An unbelievable rate of recovery—obviously not human. The power of Regeneration, enough to make anyone suspicious.
+An unbelievable rate of recovery—obviously not human.
+
+A power of Regeneration that anyone would have to question.
 
 But the fanatics who had been launching terrorist attacks around the world since before the Great Cataclysm would have seen it differently.
 
-Perhaps they’d glimpsed the shadow of a god in the Doppelganger, who used mana and had the same red blood and flesh as they did.
+Perhaps they’d glimpsed the shadow of a god in the Doppelganger, who used mana and had the same red blood and flesh as them.
 
 “A miracle.”
 
@@ -50,21 +52,21 @@ Its voice rang out, brimming with excitement. The Doppelganger stared at me with
 
 “……!”
 
-“They’ll fight until the very last one falls. For their god. And for me.”
+“They’ll fight until the very last person falls. For their god. And for me.”
 
 I didn’t argue with the Doppelganger’s confident claim.
 
-It was the truth.
+It was simply the truth.
 
 No matter what we did, a clash was inevitable.
 
-The Doppelganger had planted its followers in this desert far earlier than I’d expected. The wave of fanatics that began there had already shaken the world through terrorism.
+The Doppelganger had planted its followers in this desert far earlier than I’d expected. And the wave of fanatics that began there had already shaken the world in the form of terrorism.
 
 So even if I told them the truth about the Doppelganger, nothing would change.
 
 *If a few words were enough to make them see reason, they wouldn’t be fanatics.*
 
-This was the work of a monster and a bunch of madmen. And right now, I was nothing but a heretic who had to be killed.
+This was ultimately the joint work of monsters and madmen. And right now, I was nothing but a heretic who had to be killed.
 
 A heretic persecuting the great Prophet chosen by God.
 
@@ -80,35 +82,35 @@ I muttered evenly, staring at the Doppelganger. It understood what I meant, and 
 
 As I spoke, I thrust my dagger forward, piercing its heart.
 
-Its limbs were bound, so it couldn’t dodge. The Doppelganger merely frowned and sighed.
+Its limbs were bound, so there was no way it could dodge. But the Doppelganger frowned and sighed.
 
 “Give it a rest. That hurts like hell.”
 
 *Crack.*
 
-The severed muscles and shattered bones returned to their proper places. Bright red blood filled the gaps, and smooth skin, like a child’s, grew over it.
+The severed muscles and shattered bones returned to their proper places. Fresh, rosy blood welled up, and smooth, childlike skin covered it.
 
 It healed at a staggering speed, as if a video were playing in fast-forward.
 
 Even the great shards of bone that had pierced its limbs and pinned it deep into the cliff shifted slightly, pushed by the flesh and bone growing around them.
 
-The countless Level windows I’d seen with the **Truthful Eye**—and could still see now—meant far more than they appeared to.
+The countless Level windows I’d seen with the **Truthful Eye**—and could still see now—weren’t just numbers.
 
 *Other lives.*
 
-They were fuel, but they were also the lives of the victims the Doppelganger had devoured.
+They were fuel, and they were the lives of the victims the Doppelganger had devoured.
 
-Like an arcade game character that came back to life whenever you fed it a coin, the bastard could keep reviving.
+Like an arcade game character that came back to life as soon as you fed it a coin, the bastard could revive endlessly.
 
 *But it’s not truly immortal.*
 
-I twisted the dagger still in my hand. Heat surged from my dantian, raced through my acupoints, and flowed into the blade.
+I twisted the dagger still in my hand. Heat surged from my dantian, raced through my acupoints, and flowed into the dagger.
 
 *Thud—boom!*
 
 Scorching Yang Qi poured through the dagger buried deep in its chest and exploded inside the Doppelganger.
 
-Its heart had already been pierced once, yet it had recovered as if nothing could kill it. Now the heart was crushed completely, and the clear bell I’d been waiting for rang in my ear.
+Its heart had already been pierced once, yet it had recovered like an immortal. Now it was crushed completely. The clear bell I’d been waiting for rang beside my ear.
 
 *Ding.*
 
@@ -128,15 +130,15 @@ The Doppelganger was still grinning. Behind its melting skin, another unfamiliar
 
 “Shut your mouth.”
 
-A low nose bridge. Crooked teeth visible inside its mouth.
+The low bridge of its nose and the crooked teeth visible in its mouth.
 
-Judging by features distinctive even among East Asians, this had to be a Hunter from J1—one of the team thought to have been wiped out apart from Yamamoto Genji.
+Judging by those distinctive features, clearly East Asian, it had to be a Hunter from J1—one of the team thought to have been wiped out, apart from Yamamoto Genji.
 
-“Come to think of it, I forgot to introduce myself. Nice to meet you. I’m Hiroshi Inoue. I spent my childhood in Nagasaki, then moved to Tokyo……”
+“Come to think of it, I forgot to introduce myself. Nice to meet you. I’m Hiroshi Inoue. I spent my childhood in Nagasaki, then moved to Tokyo…….”
 
 I grabbed it by the throat and twisted hard.
 
-Its neck bones shattered under my grip, and its head bent at a grotesque angle.
+Unable to withstand my tremendous grip, the Doppelganger’s neck snapped at once, its head lolling at a grotesque angle.
 
 *Ding.* Another bell rang, and the twisted head straightened. The face, smiling coyly, belonged to a woman I’d never seen before.
 
@@ -156,7 +158,7 @@ I clenched my teeth.
 
 The Doppelganger hadn’t just absorbed its victims’ appearances. It could reproduce their abilities exactly as they’d had them in life—and it had their memories, too.
 
-Those memories, spilling from its mouth, dug into my chest like an awl and made me hesitate.
+And the memories spilling from its mouth dug into my chest like an awl, making me hesitate.
 
 *Crack.*
 
@@ -180,7 +182,7 @@ Magic Johnson’s urgent shout struck my eardrums. The smile on the Doppelganger
 
 The cool desert wind brushed my face. It felt as if I’d been doused in cold water.
 
-The Doppelganger shrugged at me as I stood frozen like a statue.
+The Doppelganger shrugged at me, frozen like a statue.
 
 “I understand. It’d hurt your pride. You’d be embarrassed. But if you die here like the rest of those humans, would that be a pointless death—or a noble sacrifice by a hero?”
 
@@ -206,7 +208,7 @@ The canyon shook. The footsteps of countless fanatics—and the hooves of the ca
 
 My lips moved without a sound.
 
-Sorrow and pain over someone’s death. Yeah, I’d been through it. It had shaken me so badly I’d felt close to falling apart.
+Sorrow and pain over someone’s death. Yeah, I’d been through it. An experience that had shaken me so badly my heart had nearly collapsed.
 
 “No one will blame you. Even I respect everything you’ve done. So even now……”
 
@@ -214,11 +216,11 @@ The eyes of the nameless woman—or rather, the Doppelganger—sparkled.
 
 “Run.”
 
-“Allahu Akbar!”
+*Allahu Akbar!*
 
 The mighty roar of countless voices merging into one rang across the darkening desert.
 
-Brilliant light shimmered around Magic Johnson, while hundreds of undead stared with dimly glowing eyes at the waves of fanatics surging toward them.
+Brilliant radiance shimmered around Magic Johnson, while hundreds of undead stared with dimly glowing eyes at the waves of fanatics surging toward them.
 
 And I……
 
@@ -226,11 +228,11 @@ Let go of the Doppelganger’s neck.
 
 *Step.*
 
-I took a step back and saw it smiling at me. It spoke gently, as if to a child.
+When I took a step back, I saw its smiling face. In a gentle voice, as if speaking to a child, it said:
 
 “Good. You made the right choice.”
 
-I found myself muttering.
+I found myself muttering:
 
 “Is this the best option?”
 
@@ -246,11 +248,11 @@ I nodded, then murmured under my breath.
 
 *Shhk!*
 
-As it asked its empty question, the Doppelganger’s head flew into the air.
+Along with its hollow question, the Doppelganger’s head shot into the air.
 
-A new face rose onto its shoulders as if someone had turned a page, and blinked.
+A new face rose onto its shoulders, as if a page had turned, and blinked.
 
-The heat blazing around **White Flame**’s spearhead cast a reddish glow in its eyes.
+The heat blazing around **White Flame**’s spearhead was turning its eyes red.
 
 “What the fuck are you, some Ditto from a failed link trade? Quit trying to pull that crap on me.”
 
@@ -276,7 +278,7 @@ A brief silence followed. The Doppelganger stared at me without a word, then fur
 
 “Damn it. This has gone to shit. Why are you so reckless? You want to be remembered by history as a hero who made a noble sacrifice?”
 
-“Quit talking out of your ass and answer me. My dream is to be the head of a longevity village.”
+“Quit talking out of your ass and answer me. My dream is to be the head of a village where everyone lives to a hundred.”
 
 “Then why the hell……!”
 
@@ -290,7 +292,7 @@ It naturally looked up at the sky, and its eyes suddenly widened.
 
 I already knew what the Doppelganger was seeing.
 
-Before the forces split up, I’d used Sound Transmission to give the Skeleton King direct orders.
+Before the forces split off, I’d used Sound Transmission to give the Skeleton King direct orders.
 
 “They’re a little late, but they made it just in time.”
 
