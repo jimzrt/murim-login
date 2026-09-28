@@ -2,23 +2,21 @@
 
 Fanatics and Hunters.
 
-The battle between two forces, waged around the canyon, could be summed up in four characters:
+The battle raging around the canyon could be summed up in one phrase: advance and retreat.
 
-Advance and retreat.
-
-The fighting was that fierce, and everyone on both sides had put their lives on the line.
+Neither side could gain ground for long. Everyone fought with their lives on the line.
 
 Some fought for a faith they had held all their lives, one they could not even imagine was false. Others fought for convictions just as firm.
 
 And so they fought.
 
-It was a clash of faith and conviction, and at the same time, a holy war.
+It was a clash of faith and conviction. To those fighting it, a holy war.
 
 But amid so much blood and death, whether anyone was religious no longer mattered.
 
 *Demons.*
 
-They were human beings with the same appearance, but each held a different standard for good and evil. Their eyes met between the blades lunging toward one another, burning with murderous intent.
+They were all human, yet each side had its own idea of good and evil. Their eyes met across the blades they thrust at one another, burning with the will to kill.
 
 “Die!”
 
@@ -42,7 +40,7 @@ If he’d raised his shield just a fraction later, he would have died.
 
 But Hunters lived closer to death than anyone. Everyone here had survived countless brushes with it.
 
-The tank grabbed the arrow and snapped it in two, then shouted in a hoarse voice.
+The tank grabbed the arrow and snapped it, then shouted hoarsely.
 
 “They’re coming! Hold formation!”
 
@@ -66,9 +64,9 @@ The enemy had an overwhelming advantage in numbers.
 
 Less than three hours had passed since the battle against the monster army. That fight had drained them in body and mind, and the fanatics were the worst opponents they could have faced now.
 
-Ten thousand of them.
+Nearly ten thousand of them.
 
-They kept charging even after their chests were cut open or their limbs were severed, their eyes alight with venom.
+They kept charging with their chests slashed open or their limbs severed.
 
 More than thirty years ago, the Doppelganger had raised these fanatics somewhere in this barren desert, hidden from the world, under the name of the Prophet. They were monsters of another kind.
 
@@ -76,7 +74,7 @@ More than thirty years ago, the Doppelganger had raised these fanatics somewhere
 
 A sword bearing a faint aura pierced a fanatic’s chest and emerged from his back.
 
-It was a grievous wound. Even if he used a potion right away, there was no telling whether he’d live or die. Yet the fanatic whose chest had been pierced bared his blood-soaked teeth and smiled.
+Even a potion used immediately might not save him. Yet he bared his blood-soaked teeth and smiled.
 
 “I-Inshallah…”
 
@@ -104,15 +102,15 @@ The dagger lodged squarely between Hans’s eyes had taken his voice and his lif
 
 The Hunter laid down the body, his gaze darkening.
 
-The canyon was an ideal battlefield for facing a larger force, but no matter how efficiently they fought, casualties were unavoidable.
+The canyon was well suited to holding off a larger force, but even fighting as efficiently as they could, they could not avoid casualties.
 
 Especially against madmen who saw death as martyrdom.
 
-It was just as their ranks were about to crumble before the wave of fanatics charging without regard for their lives—
+Their ranks were beginning to crumble before the wave of fanatics charging without regard for their lives when—
 
 *Fwoosh.*
 
-A fierce heat washed over everyone’s heads.
+Heat washed over everyone’s heads.
 
 Before anyone could look up, fire came pouring down like a meteor shower with a fierce whistle.
 
@@ -132,7 +130,7 @@ A powerful area spell that could turn the tide of battle.
 
 Every Hunter thought the same thing. No—they were certain.
 
-With Jin Taekyung nowhere to be seen, Magic Johnson was their surest bet to lead them to victory.
+With Jin Taekyung nowhere to be seen, Magic Johnson was their surest path to victory.
 
 At least, they were certain until blue waves surged up from parched land that held nothing but sand and stone in every direction.
 
@@ -156,15 +154,15 @@ Water and fire. Fire and water.
 
 The opposing forces met and mingled. Then they collided.
 
-With a shockwave that shook everything within hundreds of meters, they exploded above the heads of the Hunters and fanatics.
+The impact shook the air for hundreds of meters around them as they exploded above the Hunters and fanatics.
 
 *Fwoosh! Boom-boom!*
 
 “Gyaaaah!”
 
-“M-My God!”
+“O God!”
 
-Someone screamed from beyond the steam that swept through the area on the wind.
+Screams rang out beyond the steam sweeping through the battlefield on the wind.
 
 The thick steam blinded everyone to what had happened. But Magic Johnson, who had cast the spell, knew better than anyone.
 
@@ -186,7 +184,7 @@ Magic Johnson swallowed a groan.
 
 He didn’t need to wonder who had built the force before him.
 
-The Great Cataclysm had been a time of immense chaos. Thirty years was long enough for nature itself to change, and the desert must have been the perfect place to hide something.
+The Great Cataclysm had been a time of immense chaos. Thirty years was long enough for the landscape itself to change, and the desert was an ideal place to hide something.
 
 How the Doppelganger had gathered and trained them was not what Magic Johnson wanted to know.
 
@@ -202,7 +200,7 @@ At that very moment, the Doppelganger was leaving the battlefield with a small e
 
 *I have to chase it. I can’t let it get away.*
 
-But despite his determination, Magic Johnson couldn’t move easily.
+But Magic Johnson could not move so easily.
 
 Unlike monsters, the fanatics were thoroughly trained. They knew what mattered most in this battle.
 
@@ -272,7 +270,7 @@ The Skeleton King sighed at the sword piercing his chest.
 
 He turned his wrist. A bone shard shot out and pierced his attacker’s throat.
 
-With a gurgling sound, the fanatic fell. The Skeleton King kicked him hard, clearing some space. At that moment—
+As the fanatic fell with a wet gurgle, the Skeleton King kicked him hard to clear some space.
 
 *Whoom.*
 
@@ -288,13 +286,13 @@ There was no mistaking him, even covered head to toe in blood.
 
 The Skeleton King raised an undead monster with what little magical power he had left, then tapped the man’s cheek.
 
-“Hey. Human with a fine-looking build. Can you hear me?”
+“Hey. You, the human who’s all looks. Can you hear me?”
 
-*Cough.* Choi Minwoo spat up blood again, then answered in a voice on the verge of fading.
+*Cough.* Choi Minwoo spat up blood again and answered in a voice barely above a whisper.
 
 “Yes. Very clearly.”
 
-“Good. We’re short on time, so listen carefully. You’re not going to die, so don’t worry. And even if you do, I’ll bring you back as an undead, so don’t—dammit. He passed out.”
+“Good. We’re short on time, so listen carefully. You’re not going to die, so don’t worry. Even if you do, I’ll bring you back as an undead, so there’s no need to—dammit. He passed out.”
 
 The Skeleton King clicked his tongue and stood. Then he added, almost as an afterthought, “Still, he held out remarkably well, all things considered. Don’t you think?”
 
@@ -302,7 +300,7 @@ The Skeleton King clicked his tongue and stood. Then he added, almost as an afte
 
 An aura swept past the Skeleton King’s head in place of an answer.
 
-He watched blond hair flutter through the air, muttered a string of curses, then faced forward. Through the thick steam, he saw a man.
+He watched strands of blond hair drift down, muttered a string of curses, and looked ahead. A man stood beyond the thick steam.
 
 “Not at all. That bastard is trash.”
 
@@ -310,7 +308,7 @@ His hair was disheveled, and a wound crossed his cheek.
 
 The Skeleton King gave a quiet laugh at the fury in the man’s eyes.
 
-“No matter how I look at it, he fought well. When he wakes up, I’ll have to praise him myself.”
+“No, I’d say he fought well. I’ll have to praise him myself when he wakes up.”
 
 “Shut your filthy mouth, cursed demon.”
 
@@ -318,4 +316,4 @@ The Skeleton King gave a quiet laugh at the fury in the man’s eyes.
 
 The Skeleton King pulled the hilt of the sword from Choi Minwoo’s hand. Sacred light spread along the blade of the [Hero’s Sword].
 
-“Get in here, quick. Before someone scarier than me shows up.”
+“Come at me, then. Before someone scarier than me gets here.”

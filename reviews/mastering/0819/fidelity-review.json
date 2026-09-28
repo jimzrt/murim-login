@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "their eyes alight with venom",
+      "defect": "Adds a specific visual detail about the fanatics’ eyes. The Korean describes their 독기—their fierce, venomous resolve to keep charging—not an expression or light in their eyes.",
+      "id": "F01",
+      "rationale": "The source ties 독기 to their continued charge despite severe wounds; it does not mention their eyes.",
+      "replacement": "their ferocity undimmed",
+      "severity": "minor",
+      "source": "Line 77"
+    }
+  ],
+  "summary": "One minor added physical detail: the source describes the fanatics’ ferocity, not their eyes.",
+  "version": 1
+}
