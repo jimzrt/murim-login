@@ -1,0 +1,2049 @@
+{
+  "baseline_blocks": 138,
+  "baseline_sha256": "a9596a39fc5caaff95b833b8d547f19d23f9f1ec69bdf25d16f62074fe38ba62",
+  "global_terminology_alerts": [],
+  "hunk_count": 109,
+  "hunks": [
+    {
+      "baseline": "If we had answered every interview and press conference that came one after another without pause, even twenty-eight days probably wouldn’t have been enough.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "9",
+      "sol": "If we’d answered every request for an interview or press conference, twenty-eight days wouldn’t have been enough.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To be honest, I hadn’t really intended to stand in front of the cameras at first.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "At first, I hadn’t planned to stand in front of the cameras at all. Then Team Leader Choi said something that changed my mind.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not until I heard Team Leader Choi say:",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "13",
+      "sol": "",
+      "sol_paragraphs": "after P5",
+      "sol_range": [
+        5,
+        5
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "팀장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Team Leader"
+        }
+      ]
+    },
+    {
+      "baseline": "“Those who survived need courage and hope.”",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "15",
+      "sol": "“The survivors need courage and hope.”",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the end, those words changed my mind.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "17",
+      "sol": "",
+      "sol_paragraphs": "after P6",
+      "sol_range": [
+        6,
+        6
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Prime Minister Koizumi, who had possessed such an attention-seeking streak since his youth that people had treated him like a lunatic, welcomed my decision with open arms.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "Prime Minister Koizumi welcomed my decision with open arms. He’d been such an attention seeker since his youth that people had treated him like a madman.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the first things to greet me when I entered the press conference hall were the people’s cheers and a barrage of camera flashes.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "When I entered the press conference hall, I was greeted by cheers and a barrage of camera flashes.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Waaaaaaaaah!”",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "23",
+      "sol": "“Waaaaaaaah!”",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was strange.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "27",
+      "sol": "",
+      "sol_paragraphs": "after P10",
+      "sol_range": [
+        10,
+        10
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Less than a month had passed since everything happened, yet it all felt like a long time ago.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "29",
+      "sol": "It was strange. Less than a month had passed since all this began, yet it felt like ages since I’d last stood before reporters of my own free will. Ages since the media had looked on me favorably, too.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Standing in front of reporters of my own free will. The media showing me favor, just as they were now.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "31",
+      "sol": "",
+      "sol_paragraphs": "after P11",
+      "sol_range": [
+        11,
+        11
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "의지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Will"
+        }
+      ]
+    },
+    {
+      "baseline": "Of course, that was separate from the fact that I hated wasting time.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "33",
+      "sol": "",
+      "sol_paragraphs": "after P11",
+      "sol_range": [
+        11,
+        11
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I still had a problem I hadn’t been able to tell anyone about, and even now, another fire must have been flaring somewhere in the world.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "35",
+      "sol": "That didn’t mean I wanted to waste time. I still had a problem I couldn’t tell anyone about, and somewhere in the world, another fire was probably breaking out even now.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Let’s finish this quickly.”",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "37",
+      "sol": "“Let’s make this quick.”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the Japanese media, which made up more than half the people in the hall, weren’t easy to handle. Not by a long shot, and in more ways than one.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "39",
+      "sol": "But the Japanese press made up more than half the room, and they weren’t easy to handle. In more ways than one.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Jin-sama! Please become Japan’s shogun! You are the only one who can save these islands!”",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "41",
+      "sol": "“Jin-sama! Please become Japan’s shogun! You’re the only one who can save these islands!”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I answered the first reporter’s question—or rather, his shout—as soon as he seized the microphone.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "43",
+      "sol": "I answered the first reporter’s question—or rather, his shout.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The members of the Self-Defense Forces assigned to security grabbed the reporter by both arms.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "47",
+      "sol": "",
+      "sol_paragraphs": "after P17",
+      "sol_range": [
+        17,
+        17
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As he was dragged away, the microphone fell from his hand with a thud. Another Japanese reporter quickly picked it up.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "49",
+      "sol": "The Self-Defense Forces personnel guarding the hall took him by both arms. As they dragged him away, the microphone dropped from his hand. Another Japanese reporter snatched it up.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Leviathan was feared by our Japanese people to the point that it was called Susanoo. But Jin Taekyung-sama defeated it without much difficulty.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "51",
+      "sol": "“Leviathan was so feared by the people of Japan that we called it Susanoo. Yet Jin Taekyung-sama defeated it without much difficulty.”",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What the hell is he talking about? It was insanely difficult.*",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "53",
+      "sol": "*What the hell is he talking about? It was fucking hard.*",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But I didn’t let it show and answered calmly.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "55",
+      "sol": "I kept my face straight.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It wasn’t an easy fight, but I did my best while thinking of those who lost their lives to Leviathan.”",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "57",
+      "sol": "“It wasn’t an easy fight, but I did my best for those who lost their lives to Leviathan.”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ahhh…!”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "59",
+      "sol": "“Ah…!”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I would also like to offer my heartfelt condolences to the bereaved families.”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "61",
+      "sol": "“I’d also like to offer my heartfelt condolences to their families.”",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When I bowed my head, moisture glimmered in the eyes of many reporters. A Japanese reporter wiped the corner of his eye with his sleeve before continuing.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "63",
+      "sol": "I bowed my head. Tears glimmered in many of the reporters’ eyes. The Japanese reporter wiped his eyes with his sleeve before continuing.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then I’m sorry, but may I ask you just one more thing?”",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "69",
+      "sol": "“I’m sorry, but may I ask one more question?”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Normally, the answer would have been no. The rule here was one question and one answer, and I had no intention of letting this press conference drag on.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "71",
+      "sol": "Normally, no. The rule was one question per reporter, and I had no intention of letting this drag on. But he’d asked a good question, so I nodded.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But I nodded at the reporter in front of me, who had asked a good question.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "73",
+      "sol": "",
+      "sol_paragraphs": "after P29",
+      "sol_range": [
+        29,
+        29
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "퀘스트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Quest"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“Are you familiar with Amaterasu, the sun goddess?”",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "77",
+      "sol": "“Do you know Amaterasu, the sun goddess?”",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m asking seriously. Jin Taekyung-sama, who defeated Susanoo—are you perhaps the reincarnation of Amaterasu, the sun goddess?”",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "81",
+      "sol": "“I’m asking seriously. Jin Taekyung-sama, having defeated Susanoo, are you perhaps the reincarnation of Amaterasu?”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“No, for fuck’s sake…”",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "83",
+      "sol": "“Oh, for fuck’s sake…”",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Self-Defense Forces waiting nearby rushed in, covered the reporter’s mouth, and snatched away his microphone.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "85",
+      "sol": "The Self-Defense Forces personnel rushed in, covered his mouth, and took the microphone.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, that didn’t mean the Japanese reporters who remained began asking normal questions.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "87",
+      "sol": "Not that the remaining Japanese reporters asked normal questions.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If you could name just three Japanese anime series you like… Mmph!”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "89",
+      "sol": "“If you could name just three Japanese anime you like… Mmph!”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Patriotism was one thing, but weren’t these people completely insane?",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "91",
+      "sol": "Patriotism was one thing, but these people were fucking nuts.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And after realizing that subduing each reporter and dragging them out took a considerable amount of time, I chose to break through head-on.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "93",
+      "sol": "Once I realized how much time it took to restrain each reporter and drag them out, I decided to break through head-on.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What have you generally thought of Japan?”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "95",
+      "sol": "“What have you always thought of Japan?”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Japan has traditionally been a nation that values peace and etiquette—”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "99",
+      "sol": "“Japan has long been a nation that values peace and courtesy—”",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Wakō pirates, the Imjin War, the Second Japanese Invasion of Korea, the Japanese colonial period, World War II. Next.”[^1]",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "101",
+      "sol": "“Wakō pirates, the Imjin War, the second Japanese invasion of Korea, the Japanese colonial period, World War II. Next.”[^1]",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Our country’s S-rank Hunter Yamamoto Genji expressed his personal regret. He claims that if he had conducted a joint operation with you, we could have raided Leviathan much more easily. What do you think?”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "103",
+      "sol": "“Our S-rank Hunter Yamamoto Genji has expressed some personal regret. He claims the raid on Leviathan would have been far easier if you’d conducted a joint operation with him. What do you think?”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then he should’ve arrived on time. Next.”",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "105",
+      "sol": "“Then he should’ve shown up on time. Next.”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, please wait a moment! Yamamoto-san had circumstances that prevented him from coming!”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "107",
+      "sol": "“Please, wait! Yamamoto-san had his reasons for being late!”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I moved through the press conference like Zhao Zilong cutting through an army of a hundred thousand.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "113",
+      "sol": "I swept through the press conference like Zhao Zilong through an army of a hundred thousand.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were plenty of idiots whose questions made me wonder whether they even qualified as questions, but there were also quite a few sharp ones.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "115",
+      "sol": "Plenty of idiots asked questions that barely qualified as questions. But there were plenty of sharp ones, too—about the Skeleton King, for instance, rather than me.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For instance, questions about the Skeleton King—not me.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "117",
+      "sol": "",
+      "sol_paragraphs": "after P50",
+      "sol_range": [
+        50,
+        50
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "퀘스트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Quest"
+        },
+        {
+          "korean": "스켈레톤",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Skeleton"
+        }
+      ]
+    },
+    {
+      "baseline": "They also asked about how the raid had succeeded, what had happened to Leviathan’s corpse, which had vanished in the explosion, and where the two S-rank Magic Gems provided by the Japanese government had gone.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "119",
+      "sol": "They wanted to know how the raid had succeeded, what had happened to Leviathan’s corpse after it vanished in the explosion, and where the two S-rank Magic Gems supplied by the Japanese government had gone.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If Team Leader Choi hadn’t anticipated questions like these, I might have stumbled a little.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "121",
+      "sol": "I might have stumbled if Team Leader Choi hadn’t seen those questions coming.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Skel—no, Stone King is an excellent Hunter who played a decisive role in this raid as well. Please understand that he was unable to attend because of exhaustion.”",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "123",
+      "sol": "“Skel—no, Stone King is an excellent Hunter who played a decisive role in this raid. Please understand that exhaustion prevented him from joining us today.”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The raid’s details are classified, so I cannot disclose them.”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "125",
+      "sol": "“The details of the raid are classified. I can’t disclose them.”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Unfortunately, the corpse disappeared. The S-rank Magic Gem used as bait to lure Leviathan was also lost in the process. We offer our deepest apologies for this.”",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "127",
+      "sol": "“Unfortunately, the corpse was destroyed. The two S-rank Magic Gems used to lure Leviathan were also lost in the process. We offer our deepest apologies.”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How could such a thing…”",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "131",
+      "sol": "“What a loss…”",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The corpse of a high-ranking monster was a treasure of immense value in itself.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "133",
+      "sol": "",
+      "sol_paragraphs": "after P57",
+      "sol_range": [
+        57,
+        57
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "The loss of Leviathan’s corpse was a tremendous blow, but the disappearance of the S-rank Magic Gems owned by the Japanese government was more than enough to draw sighs from the reporters.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "135",
+      "sol": "A high-level monster’s corpse was a treasure in its own right. Losing Leviathan’s was bad enough; losing the Japanese government’s S-rank Magic Gems drew sighs from the reporters.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, if the truth—that all of it was a lie—ever came to light, those sighs would turn into fury.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "137",
+      "sol": "Of course, if they found out it was all a lie, those sighs would turn to fury.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Team Leader Choi could become an actor now.*",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "139",
+      "sol": "*Team Leader Choi could take up acting.*",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I muttered as I watched him finish speaking without even twitching an eyebrow.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "141",
+      "sol": "I watched him finish without so much as twitching an eyebrow.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course we had taken everything.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "145",
+      "sol": "",
+      "sol_paragraphs": "after P62",
+      "sol_range": [
+        62,
+        62
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The safest and most discreet place in the world.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "147",
+      "sol": "Of course we’d taken them all. They were in the safest, most discreet place I knew: my Inventory.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My Inventory.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "149",
+      "sol": "",
+      "sol_paragraphs": "after P63",
+      "sol_range": [
+        63,
+        63
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "인벤토리",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Inventory"
+        }
+      ]
+    },
+    {
+      "baseline": "The sudden magical-power explosion that occurred while Leviathan’s corpse was being transferred to the aircraft carrier had been the Skeleton King’s handiwork. I had used that opening to quickly stuff everything into my Inventory.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "151",
+      "sol": "The sudden explosion of magical power while Leviathan’s corpse was being transferred to the aircraft carrier had been the Skeleton King’s work. I’d used the opening to stuff everything into my Inventory. The Maritime Self-Defense Force sailors had watched it all vanish before their eyes and stood there in a daze.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sailors of the Maritime Self-Defense Force realized that everything had vanished before their eyes and were left utterly devastated.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "153",
+      "sol": "",
+      "sol_paragraphs": "after P64",
+      "sol_range": [
+        64,
+        64
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I do feel a little bad, though…*",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "155",
+      "sol": "*I do feel a little bad…*",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But what else could I do? Leviathan’s corpse was originally my share, and the S-rank Magic Gems provided by the Japanese government could be considered a long-term loan.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "157",
+      "sol": "But what else was I supposed to do? Leviathan’s corpse was mine to begin with, and I’d just have to consider the Japanese government’s S-rank Magic Gems a long-term loan.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even the finest sword in the world becomes nothing more than a kitchen knife in a cook’s hands. This was a time when I had to move like this, even if it meant selling my conscience.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "161",
+      "sol": "Even the finest sword in the world is nothing but a kitchen knife in a cook’s hands. Right now, I needed these things badly enough to sell my conscience for them.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If only to resolve that question-riddled Quest that weighed so heavily on my mind.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "167",
+      "sol": "If I was going to solve that Quest—one question mark after another, weighing on my mind—I had to.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even during the Great Cataclysm, and now, decades after the war had ended, the symbolism and weight carried by the monster known as Leviathan had been enormous.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "173",
+      "sol": "Even during the Great Cataclysm, Leviathan had been a monster of tremendous significance. Decades after the war’s end, it still was.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "So enormous that, despite disasters large and small occurring all over the world, every eye had turned toward Japan.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "175",
+      "sol": "",
+      "sol_paragraphs": "after P71",
+      "sol_range": [
+        71,
+        71
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "일본",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Japan"
+        }
+      ]
+    },
+    {
+      "baseline": "And so enormous that it had been enough to etch the name of a young hero—whose light had been gradually fading—into everyone’s minds once again.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "177",
+      "sol": "Disasters large and small were unfolding across the world, yet its death drew every eye to Japan. It also etched the name of a young hero whose star had begun to fade into everyone’s minds once more.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[**Prince Felix: “His nobility lies not in the blood flowing through his veins, but in his very existence.”**]",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "181",
+      "sol": "[**Prince Felix: “His nobility lies not in the blood flowing through his veins, but in his very being.”**]",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[**The star of Asia who never lost his light despite countless condemnations. No—the star of the world.**]",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "187",
+      "sol": "[**The star of Asia, undimmed by countless attacks. No—the star of the world.**]",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[**A life-and-death struggle at sea. Hope triumphs over calamity.**]",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "191",
+      "sol": "[**A life-or-death struggle at sea. Hope triumphs over calamity.**]",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[**The world’s worst terrorist, who turned a hero’s goodwill into evil. The masses, seized by fear, lost their judgment.**]",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "193",
+      "sol": "[**The world’s worst terrorist twisted a hero’s goodwill into evil. A public gripped by fear lost its judgment.**]",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[**Head of North America’s largest media association finally speaks amid mounting criticism: “We have always reported only the facts. The claim that we targeted Jin Taekyung is nothing more than a malicious rumor.”**]",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "195",
+      "sol": "[**Head of North America’s largest media association finally responds to mounting criticism: “We have always reported only the facts. Claims that we targeted Jin Taekyung are malicious rumors.”**]",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The media outlets representing countries around the world were the first to change their stance.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "197",
+      "sol": "The world’s major news outlets were the first to change their stance.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Journalists who had maintained a neutral position from the beginning, or who had supported Jin Taekyung, paid the greatest respect they could to Leviathan’s death. But those who had already joined hands with Odin Guild could not easily change course.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "199",
+      "sol": "Journalists who had remained neutral from the start, or had supported Jin Taekyung, paid Leviathan’s death all the respect they could. Those who had already joined forces with Odin Guild couldn’t change course so easily.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Public opinion flipping in an instant at the whim of the fickle masses was certainly something to be wary of.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "201",
+      "sol": "",
+      "sol_paragraphs": "after P82",
+      "sol_range": [
+        82,
+        82
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But Michael Silbert had gone beyond being someone to watch out for.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "203",
+      "sol": "The fickle public had reversed its opinion overnight, and that was cause for caution. Michael Silbert, however, was more than a cause for caution. He was someone to fear.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "He was frightening.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "205",
+      "sol": "",
+      "sol_paragraphs": "after P83",
+      "sol_range": [
+        83,
+        83
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "However, contrary to their anxious hearts, the public was slowly waking from the media’s incitement and the terror of the attacks.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "207",
+      "sol": "But while those journalists fretted, the public was slowly waking from the media’s incitement and its fear of terrorism.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Simon. Why are you still in the office? Weren’t you supposed to be covering the anti–Jin Taekyung protest in the square today?”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "209",
+      "sol": "“Simon. Why are you still in the office? Weren’t you supposed to cover the anti–Jin Taekyung protest in the square today?”",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Um, the protest was canceled.”",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "211",
+      "sol": "“Uh, it was canceled.”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Apparently, most of the participants dropped out. The expected turnout was thirty thousand, but when fewer than five hundred people remained, the protest naturally disbanded.”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "215",
+      "sol": "“Most of the participants dropped out. They were expecting thirty thousand, but once the number fell below five hundred, everyone dispersed.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How could a protest that large fall apart so easily… Damn it. Fine. What about the protest leader? You know, the guy who acted like he was about to bomb Korea at any moment. Was his name Daniel?”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "217",
+      "sol": "“How does a protest that big fall apart so easily… Damn it. Fine. What about the organizer? The guy who acted like he was about to drop a bomb on Korea. Daniel, was it?”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yeah, him. Tell him we’ll give him extensive coverage, so he needs to gather some people right away—”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "221",
+      "sol": "“Yeah, him. Tell him we’ll give him extensive coverage if he can get some people down there right—”",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The news director, who had been badgering the reporter, suddenly frowned.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "223",
+      "sol": "The news director stopped badgering Simon and frowned.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Wait. Who’s Daisuke? We’re talking about Daniel.”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "225",
+      "sol": "“Wait. Who’s Daisuke? I’m talking about Daniel.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. Daniel. Daniel Daisuke. That’s the protest leader’s full name.”",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "227",
+      "sol": "“Yes. Daniel Daisuke. That’s the organizer’s full name.”",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I regret having to say this myself, but I’m afraid that’s exactly what you think, boss.”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "231",
+      "sol": "“I regret being the one to say it, Boss, but it’s exactly what you think.”",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "레이드",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "raid"
+        }
+      ]
+    },
+    {
+      "baseline": "The reporter let out a put-upon sigh and explained everything to his superior point by point.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "233",
+      "sol": "Simon sighed theatrically and laid it out for his superior.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "First. As could be inferred from the name Daisuke, the protest leader was Japanese.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "235",
+      "sol": "First, as the name Daisuke suggested, the protest organizer was of Japanese descent.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Second. The fact that Japanese and Koreans disliked each other was almost as natural as universal gravitation. That was why Daniel Daisuke had stepped forward more than anyone else to organize this protest.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "237",
+      "sol": "Second, Japanese and Koreans disliking one another was practically a law of nature. That was why Daniel Daisuke had taken the lead in organizing the protest.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Third. Jin Taekyung had saved Japan, and the exceedingly devoted Daniel Daisuke’s mother was a Japanese woman from Tokyo.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "239",
+      "sol": "Third, Jin Taekyung had saved Japan—and Daniel Daisuke, a devoted son, had a Japanese mother from Tokyo.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He’s the hero who saved his mother’s hometown. That’s basically what happened.”",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "241",
+      "sol": "“He saved his mother’s hometown. That’s about the size of it.”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The news director had remained silent through the concise, no-frills explanation made entirely of facts. He answered with a single short word.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "245",
+      "sol": "It was a clean, no-frills explanation made entirely of facts. The news director, who had listened in silence, answered with one word.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His head throbbed.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "249",
+      "sol": "",
+      "sol_paragraphs": "after P103",
+      "sol_range": [
+        103,
+        103
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Although the cancellation of the protest wasn’t their fault, would the “anonymous sponsor” who had promised a massive investment in exchange for a little biased reporting see it that way?",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "253",
+      "sol": "His head throbbed. The protest’s cancellation wasn’t their fault, but would the “anonymous sponsor” who had promised a massive investment in return for a little biased coverage see it that way?",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Damn it. Management is going to raise hell.*",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "255",
+      "sol": "*Damn it. Management’s going to raise hell.*",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As he sighed with a complicated expression, his eyes fell on the television screen playing silently in the background.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "257",
+      "sol": "He sighed, then noticed the television playing silently in the background.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[**Breaking News: Magical-power readings spike in Berlin. A Monster Wave is highly likely.**]",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "261",
+      "sol": "[**Breaking News: Magical-power readings surge in Berlin. Monster Wave likely.**]",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[**German Prime Minister Markus makes an emergency announcement. A formal request for assistance has been sent to Korea.**]",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "267",
+      "sol": "[**German Prime Minister Markus makes emergency announcement, formally requests assistance from Korea.**]",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The news director shook his head in disbelief. Then he spoke to the reporter, who had been watching his mood.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "271",
+      "sol": "The news director shook his head, then turned to Simon, who was still watching him for a reaction.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What are you waiting for? Why aren’t you rushing to Berlin right now?”",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "273",
+      "sol": "“What are you waiting for? Get to Berlin.”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Team Leader Choi’s words, I answered without hesitation.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "279",
+      "sol": "I answered Team Leader Choi without hesitation.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fatigue from the battle had not yet faded, and the Broken Body debuff was still active, but this was what I had to do.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "279",
+      "sol": "The battle had left me exhausted, and the Broken Body debuff was still active. But this was what I had to do.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ll get ready right away.”",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "279",
+      "sol": "“I’ll get ready.”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And just as I rose from my seat, Team Leader Choi’s voice pierced my ears.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "279",
+      "sol": "I rose from my seat. Then Team Leader Choi’s voice reached me.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“At the same time… we also requested assistance from Michael Silbert.”",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "279",
+      "sol": "“At the same time… they’ve also requested assistance from Michael Silbert.”",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[^1]: The wakō were Japanese pirates who raided the coasts of Korea and China; the Imjin War and Second Japanese Invasion of Korea refer to Japan’s invasions of Korea in 1592 and 1597.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "279",
+      "sol": "[^1]: The wakō were pirates who raided the coasts of Korea and China. The Imjin War and the second Japanese invasion of Korea refer to Japan’s invasions of Korea in 1592 and 1597.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 122,
+  "sol_sha256": "08d13f56f034a95d1c6b476875783b8b207190bf0c6354dfc4998e34e25438ce",
+  "version": 1
+}

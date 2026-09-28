@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "twenty-eight days wouldn’t have been enough.",
+      "defect": "The English makes the prediction definite, while the source says it probably would not have been enough.",
+      "id": "F01",
+      "rationale": "The source uses 아마 (“probably”), which qualifies the prediction.",
+      "replacement": "twenty-eight days probably wouldn’t have been enough.",
+      "severity": "minor",
+      "source": "Lines 7–9"
+    },
+    {
+      "confidence": 0.93,
+      "current": "They were in the safest, most discreet place I knew: my Inventory.",
+      "defect": "“I knew” makes the claim subjective and omits the source’s comparison to anywhere in the world.",
+      "id": "F02",
+      "rationale": "The source describes the Inventory as a place safer and more discreet than anywhere in the world, not merely the safest place the narrator knows.",
+      "replacement": "They were in the safest, most discreet place in the world: my Inventory.",
+      "severity": "minor",
+      "source": "Lines 141–143"
+    }
+  ],
+  "summary": "The assembled English is faithful overall, with two minor shifts in certainty.",
+  "version": 1
+}
