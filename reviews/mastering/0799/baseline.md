@@ -1,18 +1,20 @@
 # Chapter 799
 
-If the N-word is the button that sets Black people off, then *Chōsenjin* is the Korean-only special edition.[^1]
+If the N-word is the button that sets Black people off, then *Chōsenjin* is the Korean-specific special edition.[^1]
 
-It’s bad enough when Korean weebs who’ve overdosed on Japanophilia start throwing around *Chōsenjin*. But you hear its full ugliness when it comes straight from a Japanese guy.
+It’s bad enough when Korean weebs who’ve overdosed on Japanophilia start throwing around *Chōsenjin*. But you really see the full horror of it when you hear it straight from a Japanese guy.
 
 Like right now.
 
 “Chōsenjin?”
 
-The moment that magic word reached my ears, the will of Hongik Ingan, passed down from Grandfather Dangun in the distant past, and the vital essence of Joseon’s eight provinces surged up from deep within me.[^2]
+The moment that magic word pierced my ears—
+
+The will of Hongik Ingan, which had begun with Grandfather Dangun in the distant past, and the vital essence of Korea’s eight provinces surged up from deep within me.
 
 And if you compressed that long-winded sentence into four syllables, you’d get something completely unrelated: Scorching Yang Qi.
 
-Honestly, I was pissed off and just spouting whatever came to mind.
+Honestly, I was just spouting whatever came to mind because I was pissed off.
 
 *Whoosh!*
 
@@ -20,7 +22,7 @@ Honestly, I was pissed off and just spouting whatever came to mind.
 
 “Please don’t, Mr. Jin!”
 
-The sudden burst of heat made the Skeleton King swallow saliva he didn’t even have. Team Leader Choi launched himself at me like a football player and grabbed hold.
+The sudden burst of heat made the Skeleton King swallow saliva he didn’t even have, while Team Leader Choi launched himself at me like a football player and grabbed hold.
 
 “You can’t hit him yet! He’s a patient!”
 
@@ -34,7 +36,9 @@ The sudden burst of heat made the Skeleton King swallow saliva he didn’t even 
 
 “Let go. That bastard’s pissing me off.”
 
-I pried Team Leader Choi’s arms from around my waist and muttered, “Ahn Jung-geun. Yun Bong-gil. Yu Gwan-sun. Ahn Chang-ho. Kim Won-bong…”
+I pried Team Leader Choi’s arms from around my waist and muttered,
+
+“Ahn Jung-geun. Yun Bong-gil. Yu Gwan-sun. Ahn Chang-ho. Kim Won-bong…”
 
 “Gasp.”
 
@@ -48,7 +52,7 @@ At Team Leader Choi’s cry for backup, the Skeleton King answered calmly.
 
 “We need to hear his testimony!”
 
-“We do. But who’s going to take responsibility for my beautiful skull if it gets smashed trying to stop him?”
+“We do. But who’s going to take responsibility for my beautiful skull if it gets smashed to pieces trying to stop him?”
 
 “Johnson! Mr. Johnson! Help!”
 
@@ -68,13 +72,13 @@ Magic Johnson burst through the door like a knight in shining armor, then blinke
 
 “Chōsenjin?”
 
-Magic Johnson still looked puzzled. The Skeleton King helpfully explained.
+Magic Johnson still looked puzzled, not quite understanding what it meant. The Skeleton King helpfully elaborated.
 
 “As far as I know, it means about the same thing as ‘nigger.’”
 
-“Motherfucking Japs! You goddamn son of a beach! Jin! Kill that bastard right now!”
+“Motherfucking Japs! You goddamn sons of the beach! Jin! Kill that bastard right now!”
 
-Even the hulking Grand Mage, well over two meters tall, had started raging. Team Leader Choi muttered so quietly I could barely hear him.
+Even the hulking Grand Mage, well over two meters tall, had started raging. Team Leader Choi muttered so quietly I could barely hear him,
 
 “Fuck, I really can’t do this anymore…”
 
@@ -92,7 +96,7 @@ I looked at Team Leader Choi with pride.
 
 “I’m really going to hit him, you know?”
 
-“You were going to do it even if I stopped you, so why ask? Just one hit. And go easy.”
+“You were going to do it even if I stopped you, so why ask? Just make it one hit. And go easy.”
 
 “Okay.”
 
@@ -112,7 +116,7 @@ After a three-stage transformation in how he addressed me that would’ve put Fr
 
 “I sincerely apologize!”
 
-“…Did you go to a dogeza academy or something?”
+“……Did you go to a dogeza academy or something?”
 
 It was a perfect, textbook dogeza.
 
@@ -126,7 +130,7 @@ Whatever else, he’d come all the way to the Middle East on my orders.
 
 He’d hesitated for a while even after the order to withdraw, and in the end he’d lost every member of his team. But if you looked at it closely, I was more or less responsible for all of it as the one in command.
 
-If Yamamoto Genji was an incompetent defeated general, then I was a pathetic commander who’d entrusted hundreds of lives to a man like that.
+If Yamamoto Genji was an incompetent defeated general, then I was a pathetic commander who’d entrusted the lives of hundreds of people to a man like that.
 
 “Get up.”
 
@@ -134,11 +138,11 @@ If Yamamoto Genji was an incompetent defeated general, then I was a pathetic com
 
 “I said, get up.”
 
-“H-hai.”
+“Y-yes.”
 
 Yamamoto Genji cautiously sat back on his heels.
 
-His potion shower had left his body without a scratch. And judging by his wide-open eyes, his mind seemed to be working properly again, too.
+His body was completely free of injuries, thanks to the potion shower he’d had. And judging by his wide-open eyes, his mind seemed to be working properly again, too.
 
 “Tell me everything that happened. From beginning to end. Don’t leave anything out.”
 
@@ -148,11 +152,11 @@ Yamamoto Genji hesitated, licked his parched lips, and finally began.
 
 “The Prophet?”
 
-“…Yes.”
+“……Yes.”
 
-At the mention of The Prophet, Yamamoto Genji shuddered and swallowed.
+At the word *The Prophet*, Yamamoto Genji shuddered and swallowed.
 
-“The vehicles suddenly stopped, and an unfamiliar energy sent a chill through my whole body.”
+“At some point, the vehicles suddenly stopped, and an unknown force made my whole body go cold.”
 
 He was a coward and a fool, but he was still an S-rank Hunter. He must’ve instinctively sensed that something was wrong.
 
@@ -168,7 +172,7 @@ Magic Johnson met my gaze and spoke.
 
 “What are the odds it was an artifact?”
 
-“That’s possible. But I understand J1 had ten vehicles assigned to them. Is that right?”
+“That’s certainly possible. But I understand J1 had ten vehicles assigned to them. Is that right?”
 
 Yamamoto Genji answered.
 
@@ -184,7 +188,9 @@ Yamamoto Genji nodded spasmodically, like someone being chased, and continued.
 
 As if he were reliving the terror of that moment, his hands and feet began to tremble.
 
-I watched him for a while, then asked, “What about you?”
+I stared at Yamamoto Genji for a while, then suddenly asked,
+
+“What about you?”
 
 “Huh?”
 
@@ -194,7 +200,7 @@ I watched him for a while, then asked, “What about you?”
 
 His pupils, which had just managed to refocus, wavered.
 
-He reflexively avoided my gaze. I saw no grief over the loss of his comrades, no anger at himself.
+He reflexively avoided my gaze. There was no grief over the loss of his comrades in him, no anger at himself.
 
 Fear.
 
@@ -206,19 +212,19 @@ The only things Yamamoto Genji felt now were fear of The Prophet and relief at h
 
 You son of a bitch.
 
-He flinched as if I’d hit the mark, and something hot surged up inside me.
+When he flinched as if I’d hit the mark, something hot surged up inside me.
 
 If someone hadn’t grabbed my shoulder, I would’ve punched that cowardly face of his, testimony or no testimony.
 
 *Damn it.*
 
-I chewed on my lip, trying to hold down the bitterness and anger.
+I bit down on my lip, trying to swallow the bitterness and anger.
 
 I silently glared at Yamamoto Genji, his head bowed. A long time passed before I spoke again.
 
 “What happened after that?”
 
-Yamamoto Genji kept his head down, his eyes darting around, and answered cautiously.
+The man had his head lowered, his eyes darting around. He cautiously began to speak.
 
 “He heard the reinforcements arriving and left.”
 
@@ -226,7 +232,7 @@ Yamamoto Genji kept his head down, his eyes darting around, and answered cautiou
 
 “Th-that…”
 
-Yamamoto Genji hesitated at Team Leader Choi’s sharp question, then answered.
+Yamamoto Genji hesitated for a moment at Team Leader Choi’s sharp question, then answered,
 
 “He must have had another reason.”
 
@@ -238,11 +244,11 @@ Yamamoto Genji hesitated at Team Leader Choi’s sharp question, then answered.
 
 Sucked everything out of them?
 
-The rest of us stared at him, unable to make sense of his words. Yamamoto Genji hurriedly continued.
+As the rest of us stared at him, unable to make sense of his words, Yamamoto Genji hurriedly continued.
 
-“I-I swear I’m not lying. He sucked up the pools of blood all around us, too. He pulled something like a pale mist out of the dead people’s bodies and swallowed it. After that, the corpses dried up like mummies…”
+“I-I swear there isn’t a single lie in what I’m saying. He sucked up the pools of blood all around us, too. He pulled something like a pale mist out of the dead people’s bodies and swallowed it. After that, the corpses dried up like mummies…”
 
-It was like being struck in the back of the head. The words that followed came through only faintly.
+The shock hit me like a blow to the back of the head. The words that followed came through only faintly.
 
 And I wasn’t the only one stunned.
 
@@ -250,45 +256,49 @@ And I wasn’t the only one stunned.
 
 Magic Johnson muttered as if he were groaning and rubbed his forehead. Under the lights, his forehead had grown damp with cold sweat.
 
-“Damn it. What the hell is it? As far as I know, there’s no magic available to humans that could do something that horrifying…”
+“Damn it. What the hell was it? As far as I know, there’s no magic permitted to humans that could do something that horrifying…”
 
-His voice trembled. He fell silent, stood frozen like a statue, then slowly turned his head.
+His voice, which had been surging out with his emotions, trembled.
+
+Magic Johnson stopped speaking and stood frozen like a statue. Then he slowly turned his head and looked somewhere.
 
 No—all of us did.
 
-And there, at the end of our gazes, stood one being.
+And at the end of our gazes stood one being.
 
 *The Skeleton King.*
 
 My friend. A comrade I could trust with my back.
 
-But we’d instinctively looked at him because the answer to The Prophet lay in his very existence.
+But the reason we’d instinctively looked at him was that the answer to The Prophet lay in his very existence.
 
-Someone who used magic unavailable to humans.
+Someone who used magic not permitted to humans.
 
-A powerful being capable of taking out a Grand Mage single-handedly, whose strength had never once been revealed to the world.
+A powerful being, capable of taking out a Grand Mage single-handedly, whose strength had never once been revealed to the world.
 
 Another secret Michael Silbert had hidden even from Huginn, his right-hand man.
 
 *A monster.*
 
-Yes.
+That was right.
 
 That was what The Prophet really was.
 
-“H-he left behind a message.”
+“He left behind a message.”
 
-The monster called The Prophet was dangling bait in front of me.
+The monster called The Prophet had been dangling bait in front of me.
 
 * * *
 
-On a high, moundlike hill, an old man in a turban watched a hazy cloud of sand rise not far away.
+On a tall hill rising like a mound, an old man in a turban watched a hazy cloud of sand billow up not far away.
 
-More precisely, he watched the dozens of vehicles visible through it.
+More precisely, he watched the dozens of vehicles visible through the sand.
 
 “Shall we eliminate them?”
 
-At his subordinate’s voice, which came from empty air, the old man asked calmly, “How many?”
+At his subordinate’s voice, which came from empty air, the old man asked calmly,
+
+“How many are there?”
 
 “We estimate more than five hundred.”
 
@@ -304,9 +314,11 @@ The old man stroked his coarse beard. He fell silent in thought, and only after 
 
 “Hamid, did you not hear me?”
 
-After a moment’s silence at the sudden call, the subordinate answered, “I’m sorry, Amir. I was out of line.”
+After a moment’s silence at the sudden call, the subordinate answered,
 
-“Restrain your hot blood and wait for the time that is soon to come. Did The Prophet not say as much? Everything will unfold according to his will.”
+“I’m sorry, Amir. I was out of line.”
+
+“Restrain your impatience and wait for the time soon to come. Did The Prophet not say as much? Everything will unfold according to his will.”
 
 The old man reached out and felt around in the air. Something invisible was protecting them from the infidels.
 
@@ -314,15 +326,15 @@ That was why even satellites in orbit couldn’t detect them—and why the infid
 
 No, the infidels wouldn’t find them even if they came right up to them.
 
-Unless they lifted this veil and stepped out themselves, no one could see or sense them. And if that moment came, it would be the intruder’s last moment alive.
+Unless they lifted this veil and went out on their own, no one could see or sense them. And if that moment came, it would be the last moment their intruders spent alive.
 
 This mysterious power could only be thought of as divine protection.
 
 Their god had sent The Prophet down to earth in his place, and The Prophet would lead them to the promised land.
 
-They would punish the wicked infidels and establish God’s will across every land and sea.
+They would punish the wicked infidels and set God’s will straight across every land and sea.
 
-“Do not be impatient. As long as The Prophet is with us, victory in this great holy war will be ours.”
+“Do not be impatient. As long as The Prophet is with us, we will be victorious in this great holy war.”
 
 “But where is The Prophet now…?”
 
@@ -332,11 +344,10 @@ They would punish the wicked infidels and establish God’s will across every la
 
 “Inshallah.”
 
-The old man murmured it once more, his reverence swelling.
+Feeling his reverence swell, the old man murmured it once more.
 
 Inshallah.
 
 God willing.
 
 [^1]: *Chōsenjin* is a Japanese term for Koreans, used here as an ethnic slur.
-[^2]: Hongik Ingan, “to broadly benefit humanity,” is the founding ideal attributed to Dangun, Korea’s legendary first king. “Joseon’s eight provinces” is a traditional expression for the whole country.

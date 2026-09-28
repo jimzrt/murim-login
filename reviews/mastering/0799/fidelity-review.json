@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.85,
+      "current": "a Japanese guy",
+      "defect": "The Korean uses the contemptuous 일본놈, but “guy” is neutral and softens the speaker’s attitude.",
+      "id": "F01",
+      "rationale": "The sentence contrasts hearing the slur from Korean weebs with hearing it directly from a Japanese person; the source’s derogatory noun adds contempt to that contrast.",
+      "replacement": "a Japanese bastard",
+      "severity": "minor",
+      "source": "Line 7"
+    },
+    {
+      "confidence": 0.91,
+      "current": "my teammates who’d died before me",
+      "defect": "“Before me” can imply that the speaker died later. The Korean says the teammates had died earlier, without that implication.",
+      "id": "F02",
+      "rationale": "The source’s 앞서 죽은 marks the teammates as having died earlier; Yamamoto survived, so the current phrasing introduces an unintended chronological implication.",
+      "replacement": "my teammates who’d died earlier",
+      "severity": "minor",
+      "source": "Line 243"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with two minor shifts in register and chronology.",
+  "version": 1
+}

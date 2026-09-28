@@ -124,7 +124,7 @@ Damn it.
 
 Whatever else, he’d come all the way to the Middle East on my orders.
 
-He’d hesitated for a while even after the order to withdraw, and in the end he’d lost every member of his team. But if you looked at it closely, I was more or less responsible for all of it as the one in command.
+He’d hesitated even after the order to withdraw, and in the end he’d lost every member of his team. But when it came down to it, the responsibility was mine as the one in command.
 
 If Yamamoto Genji was an incompetent defeated general, then I was a pathetic commander who’d entrusted hundreds of lives to a man like that.
 
@@ -136,7 +136,7 @@ If Yamamoto Genji was an incompetent defeated general, then I was a pathetic com
 
 “H-hai.”
 
-Yamamoto Genji cautiously sat back on his heels.
+Yamamoto Genji cautiously sat upright on his heels.
 
 His potion shower had left his body without a scratch. And judging by his wide-open eyes, his mind seemed to be working properly again, too.
 
@@ -174,11 +174,11 @@ Yamamoto Genji answered.
 
 “That’s right. They all stopped at once.”
 
-“Magic used through an artifact has clear limitations. He’s definitely a mage.”
+“Magic used through an artifact has limits. He’s definitely a mage.”
 
 “R-right. That’s right.”
 
-Yamamoto Genji nodded spasmodically, like someone being chased, and continued.
+Yamamoto Genji nodded so hard his head seemed to jerk, like someone being chased, and continued.
 
 “I saw it clearly. The flash of light, the blood, people falling at a single gesture… I’d never seen anything like it. Everyone around me died in the blink of an eye. It was definitely magic.”
 
@@ -198,7 +198,7 @@ He reflexively avoided my gaze. I saw no grief over the loss of his comrades, no
 
 Fear.
 
-The only things Yamamoto Genji felt now were fear of The Prophet and relief at having survived.
+The only things I could sense from Yamamoto Genji now were fear of The Prophet and relief at having survived.
 
 “You ran. No—did you try to run and fail?”
 
@@ -214,7 +214,7 @@ If someone hadn’t grabbed my shoulder, I would’ve punched that cowardly face
 
 I chewed on my lip, trying to hold down the bitterness and anger.
 
-I silently glared at Yamamoto Genji, his head bowed. A long time passed before I spoke again.
+A long time passed before I spoke again.
 
 “What happened after that?”
 
@@ -232,7 +232,7 @@ Yamamoto Genji hesitated at Team Leader Choi’s sharp question, then answered.
 
 “Another reason…?”
 
-“He sucked everything out of my teammates who’d died before me.”
+“He sucked everything out of the teammates he’d killed.”
 
 “What?”
 
@@ -248,13 +248,13 @@ And I wasn’t the only one stunned.
 
 “No. This… That isn’t magic.”
 
-Magic Johnson muttered as if he were groaning and rubbed his forehead. Under the lights, his forehead had grown damp with cold sweat.
+Magic Johnson rubbed his forehead as he spoke, his voice little more than a groan. Under the lights, cold sweat glistened on his skin.
 
 “Damn it. What the hell is it? As far as I know, there’s no magic available to humans that could do something that horrifying…”
 
 His voice trembled. He fell silent, stood frozen like a statue, then slowly turned his head.
 
-No—all of us did.
+We all did.
 
 And there, at the end of our gazes, stood one being.
 
@@ -300,7 +300,7 @@ The old man stroked his coarse beard. He fell silent in thought, and only after 
 
 “Leave them be.”
 
-“But the distance…”
+“But they’re so close…”
 
 “Hamid, did you not hear me?”
 
@@ -308,7 +308,7 @@ After a moment’s silence at the sudden call, the subordinate answered, “I’
 
 “Restrain your hot blood and wait for the time that is soon to come. Did The Prophet not say as much? Everything will unfold according to his will.”
 
-The old man reached out and felt around in the air. Something invisible was protecting them from the infidels.
+The old man reached out and felt through the air. Something invisible was protecting them from the infidels.
 
 That was why even satellites in orbit couldn’t detect them—and why the infidels couldn’t find them despite drawing within a few kilometers.
 
@@ -316,7 +316,7 @@ No, the infidels wouldn’t find them even if they came right up to them.
 
 Unless they lifted this veil and stepped out themselves, no one could see or sense them. And if that moment came, it would be the intruder’s last moment alive.
 
-This mysterious power could only be thought of as divine protection.
+This mysterious power could only be divine protection.
 
 Their god had sent The Prophet down to earth in his place, and The Prophet would lead them to the promised land.
 
@@ -326,7 +326,7 @@ They would punish the wicked infidels and establish God’s will across every la
 
 “But where is The Prophet now…?”
 
-“He will come of his own accord soon. Do not doubt it. With the net he has laid, he will gather up every last one of those infidels and send them to God.”
+“He will come of his own accord soon. Do not doubt it. With the net he himself has cast, he will gather up every last one of those infidels and send them to God.”
 
 “……!”
 
