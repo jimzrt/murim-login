@@ -24,7 +24,7 @@ I dropped back into my seat with a thump. “The soundproofing magic is perfect,
 
 He didn’t answer, but I knew.
 
-The look in his sunken eyes told me he’d understood exactly what I meant.
+The look in his eyes told me he understood exactly what I meant.
 
 After a brief silence, a snicker slipped between Huginn’s lips.
 
@@ -48,7 +48,7 @@ So that was why he’d grown so gaunt since I last saw him. Apparently, I wasn�
 
 Of course, I’d more or less guessed as much.
 
-A bunch of countries could join forces, form the UN, and draft an international convention against torture. In the end, if no one found out, what did it matter?
+Countries could band together, form the UN, and draft an international convention against torture. In the end, if no one found out, what did it matter?
 
 And Huginn had been Michael Silbert’s right hand, handling missions both big and small.
 
@@ -72,7 +72,7 @@ Even torture and mental magic would struggle to break his will.
 
 “Shut up. I don’t want to hear it. I don’t care if you were a piano prodigy at five or an orphan who grew to hate the world.”
 
-Everyone had their sob story.
+Everyone had a story.
 
 But I wasn’t some late-night radio host, and I had no reason to listen to a villain’s tired old backstory.
 
@@ -118,7 +118,7 @@ And Huginn was an S-rank Hunter. Even with his mana suppressed, his vitality was
 
 “Our crow friend’s going to live a long time. Of course, he’ll spend the rest of it in prison.”
 
-I leaned my chair way back and gazed at the pure white ceiling, my voice calm as I went on.
+I leaned my chair far back and gazed at the white ceiling, keeping my voice calm.
 
 “A sealed room without a ray of sunlight. Someone watching you around the clock. Interrogations whenever they feel like it. Or should I say torture? After everything you’ve done, they’ll probably be pretty brutal for a long time.”
 
@@ -128,9 +128,9 @@ I leaned my chair way back and gazed at the pure white ceiling, my voice calm as
 
 Millions had been killed or injured in the terrorist attacks.
 
-In front of a humanity consumed by grief and rage, the word *human rights* had already become meaningless.
+To a humanity consumed by grief and rage, the words *human rights* had already become meaningless.
 
-If an article appeared in the *New York Times* tomorrow morning saying Huginn had been tortured, people all over the world would be shocked—and start collecting donations.
+If the *New York Times* reported tomorrow morning that Huginn had been tortured, people around the world would be so shocked they’d start collecting donations.
 
 Not for his legal fees. For potions to prolong his suffering forever.
 
@@ -146,7 +146,7 @@ Pain was the same for everyone, even an S-rank Hunter with a strong body and min
 
 Getting used to pain didn’t make it hurt less.
 
-“Why aren’t you answering? You’re making me feel awkward for asking. If you’re already like this, how are you going to get through the rest of your life?”
+“Why aren’t you answering? You’re making me look bad for worrying about you. If you’re already like this, how are you going to get through the rest of your life?”
 
 Just as I straightened from my half-reclined position, a wet crunch sounded and blood poured from Huginn’s mouth.
 
@@ -178,7 +178,7 @@ Or rather, a box packed full of them.
 
 “…”
 
-“Open your mouth. Come on. Say ‘ah.’”
+“Open your mouth. Say ‘ah.’ Come on.”
 
 Huginn stared at me blankly instead of answering, so I slapped him across the face.
 
@@ -186,7 +186,7 @@ Huginn stared at me blankly instead of answering, so I slapped him across the fa
 
 Teeth flew in every direction.
 
-But I wasn’t satisfied with stopping there.
+But I wasn’t ready to stop there.
 
 *Smack! Crunch.*
 
@@ -206,7 +206,7 @@ Blood smeared around his mouth, Huginn stammered out an answer.
 
 “Why are you even—”
 
-“But you little shit. I’ve let you get away with enough. You fucking bastard, you keep dragging this out like you’re the last royal chef of Joseon, carefully tasting everything first. What is this, a royal banquet? You’re not leaving until you’ve used every potion in this box.”
+“You know what, you little shit? I’ve put up with enough. You keep testing me like you’re the last royal chef of Joseon tasting the food. What is this, a royal banquet? You’re not leaving until I’ve used every potion in this box.”
 
 “I’ll tell you! I’ll tell you everything—!”
 
@@ -214,11 +214,13 @@ Blood smeared around his mouth, Huginn stammered out an answer.
 
 I didn’t know what I was saying. Or why I was acting like this.
 
-All I knew was that the heat that had been creeping up from my gut finally reached my head.
+The heat that had been creeping up from my gut had finally reached my head.
 
-*Grab. Wham!*
+I snatched up a potion bottle and brought it down on the top of his head.
 
-I snatched up a potion bottle and swung it at the top of his head. At the dull impact and surge of pain, his tightly bound body trembled.
+*Wham!*
+
+His tightly bound body trembled at the dull impact and the pain that followed.
 
 “W-wait!”
 
@@ -266,7 +268,7 @@ Huginn stared at me wide-eyed, then spoke in a trembling voice.
 
 “I’m telling the truth! I really did!”
 
-“Are you yelling at me right now? Do you—do you feel so wronged you can’t stand it?”
+“Are you yelling at me right now? Do you feel so wronged you can’t stand it?”
 
 “N-no, that’s not what I—”
 
@@ -276,13 +278,13 @@ Huginn stared at me wide-eyed, then spoke in a trembling voice.
 
 I thought I might have vaguely heard him say something like that, but what did it matter?
 
-Thanks to Huginn’s excellent teamwork, we emptied the second box of potions, too. When I took out a third, I heard his tearful voice.
+Thanks to Huginn’s excellent teamwork, we emptied the second box of potions. When I took out a third, I heard his tearful voice.
 
 “Stop! Stooop!”
 
 The mouth even veteran torturers hadn’t been able to pry open was now running free.
 
-Maybe the genuine madness I’d shown had moved him, I thought. I closed the box I’d opened halfway.
+Maybe the genuine madness I’d shown had moved him. I closed the box I’d begun to open.
 
 “You finally understand how sincere I am.”
 
@@ -304,23 +306,23 @@ Huginn swallowed, then finally spoke.
 
 “Be precise. Again.”
 
-“The one who killed Siegfried Wassmann… was the person they call The Prophet.”
+“The one who killed Siegfried Wassmann… was the man they call The Prophet.”
 
 There was no doubt. Huginn was telling the truth.
 
 But just as my suspicion became certainty, another question came to mind.
 
-“The person they call The Prophet?”
+“The man they call The Prophet?”
 
 “…Ah.”
 
-Maybe it was because his mind was foggy. He looked like he’d said something he didn’t need to, but it was too late to take back words once he’d let them out.
+Maybe his mind was foggy. He looked as though he’d said something he shouldn’t have, but it was too late to take it back.
 
 *There’s more.*
 
 I’d thought Michael Silbert and The Prophet were connected, but I hadn’t been able to pin down exactly how.
 
-I glared at him, my eyes sinking deep, and spoke.
+I fixed Huginn with a hard stare.
 
 “Tell me what you mean. Tell me everything you know about The Prophet.”
 
@@ -336,11 +338,11 @@ He had to struggle not to live, but to die. Yet Huginn had been driven to the ed
 
 The moment I blurted out the question, a memory flashed through my mind: the day Huginn first came to Ares Guild.
 
-Two ravens engraved into a corner of his business card.
+Two ravens engraved in a corner of his business card.
 
 And… the conversation I’d had with Team Leader Choi.
 
-“Huginn and Muninn. Those two ravens are symbols of a certain god from Norse mythology.”
+“Huginn and Muninn. Those two ravens are associated with a god from Norse mythology.”
 
 “Who?”
 
@@ -352,4 +354,4 @@ I blinked.
 
 Odin, the supreme god. And the two ravens who served him: Huginn and Muninn.
 
-There had never been just one crow to begin with.
+There had never been just one crow.

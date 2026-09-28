@@ -1,0 +1,15 @@
+{
+  "summary": "One minor age-timing detail is less precise than the Korean.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 79",
+      "current": "a piano prodigy at five",
+      "defect": "This can mean he was already a prodigy when he was five; the Korean says he had played piano since he was five.",
+      "replacement": "a piano prodigy who’d been playing since he was five",
+      "rationale": "다섯 살 때부터 means “since he was five,” establishing when he began playing rather than only his age when he was a prodigy.",
+      "confidence": 0.91
+    }
+  ]
+}
