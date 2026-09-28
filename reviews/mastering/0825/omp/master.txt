@@ -98,7 +98,7 @@ I tore through the gap opened by the Teleport spell and plunged down like lightn
 
 Heat spread outward. Ten-odd meters vanished in an instant.
 
-And at the end of it stood the Doppelganger, eyes wide at this unexpected turn of events.
+At the end of them stood the Doppelganger, eyes wide at our sudden arrival.
 
 “Y—!”
 
@@ -160,7 +160,7 @@ His sword flashed, imbued with power far beyond what a mere undead monster shoul
 
 *Shhk!*
 
-A sharp slicing sound.
+A sharp slice.
 
 Dazzling magical power, utterly at odds with the name **Hero’s Sword**, cut through the Doppelganger’s wrist.
 
@@ -188,7 +188,7 @@ The aberration before it had broken past the limits of ordinary undead and reach
 
 But…
 
-*It’s still no match for that monster.*
+*Not as high as that monster.*
 
 The Doppelganger leapt back from the Skeleton King, its gaze shifting quickly.
 
@@ -264,7 +264,7 @@ The Doppelganger sucked in a startled breath and hurriedly drew back its mana.
 
 The gale descending on the Skeleton King dissolved into a gentle breeze. At the same time, layer upon layer of translucent barriers covered the Doppelganger’s body.
 
-Then, just as a dazzling flash shot across the space and finally struck the surface of the shields—
+A dazzling flash shot through the air and struck them.
 
 *Crack!*
 
@@ -282,7 +282,7 @@ All three happened at once. Blue-white flames filled the air, and a massive shoc
 
 The Skeleton King felt the impact reach the ground. For an instant, he wondered if that strike had cost the Doppelganger one of its most precious souls.
 
-But Jin Taekyung knew better.
+Jin Taekyung knew better.
 
 Exhausted as he was, he had scraped together every last bit of strength for that strike. He knew better than anyone why the clear, familiar chime had not sounded.
 
@@ -310,7 +310,7 @@ Toward the Doppelganger at the center of the explosion.
 
 Golden magical power surged along his blade.
 
-The force was less than half of what it would normally have been, thanks to the aftermath of the reckless Teleport spell. But the dazzling sword light cut through the sky without hesitation.
+The strain of the reckless Teleport had left him with less than half his usual strength, but the dazzling sword light cut through the sky without slowing.
 
 It sliced through the thick smoke and shot toward the enemy beyond.
 
@@ -328,7 +328,7 @@ Crimson blood burst forth like a fountain.
 
 My vision was slowly blurring, but I saw it clearly.
 
-The Skeleton King’s strike cutting through the air. And someone’s arm shooting up through the blood.
+The Skeleton King’s strike cutting through the air. An arm rising through the spray of blood.
 
 *He cut it off.*
 
@@ -356,10 +356,10 @@ Its face twisted like a Fiend’s, the Doppelganger continued.
 
 *What?*
 
-Just as I was about to blurt out a question—
+I was about to ask when—
 
 *Vwoom.*
 
 An immense power pulsed around it.
 
-No—the entire ruin shuddered like a living creature.
+No. The entire ruin trembled like a living creature.

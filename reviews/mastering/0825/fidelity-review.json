@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.84,
+      "current": "It was far more cunning than most humans or monsters.",
+      "defect": "“Most” weakens the source’s comparison: the Doppelganger was vastly more cunning than ordinary humans or monsters, not merely more cunning than most of them.",
+      "id": "F01",
+      "rationale": "월등하게 교활했다 and 여느 인간이나 몬스터와 비교해도 establish a strong comparison against ordinary humans or monsters.",
+      "replacement": "It was far more cunning than any ordinary human or monster.",
+      "severity": "minor",
+      "source": "Korean source lines 207–209"
+    },
+    {
+      "confidence": 0.9,
+      "current": "He must have pushed himself beyond his limits, too.",
+      "defect": "This shifts the inference from using power beyond his limits to pushing himself beyond them, which can describe exertion without specifying the power use stated in the source.",
+      "id": "F02",
+      "rationale": "놈도 한계 이상의 힘을 사용한 것이 분명해 specifically says he must have used power exceeding his limits.",
+      "replacement": "He must have used power beyond his limits, too.",
+      "severity": "minor",
+      "source": "Korean source line 205"
+    }
+  ],
+  "summary": "Two minor fidelity losses: the comparison of the Doppelganger’s cunning is weakened, and its inference about Taekyung’s power use becomes less specific.",
+  "version": 1
+}
