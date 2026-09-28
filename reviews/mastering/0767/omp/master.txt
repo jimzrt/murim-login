@@ -34,7 +34,7 @@ Of course, he didn’t stop there. After muttering nonstop about a son and a bea
 
 “This… is about as bad as it gets.”
 
-If the Skeleton King’s existence were exposed, I would not be the only one to suffer a serious blow. Neither would Team Leader Choi.
+Only then did something I’d overlooked occur to me. If the Skeleton King’s identity came out, Team Leader Choi and I wouldn’t be the only ones to suffer.
 
 “I’m sorry. I should’ve been more careful.”
 
@@ -48,9 +48,7 @@ Magic Johnson was one of only three Grand Mages in the world. No—now there wer
 
 “With Siegfried dead, there’s only one mage left who could see through my illusion Magic… And I guarantee you, even Michael couldn’t get her to act.”
 
-If Magic Johnson was speaking with such certainty, it had to be true.
-
-I had heard plenty about the other Grand Mage myself, and after decades had passed, most of what I had heard had turned out to be fact rather than rumor.
+If Johnson was that certain, he was probably right. I’d heard plenty about the other Grand Mage myself. Over the decades, most of those stories had turned out to be fact rather than rumor.
 
 But even leaving her aside, we had enough clues. And I wasn’t the only one who saw where they pointed.
 
@@ -58,7 +56,7 @@ But even leaving her aside, we had enough clues. And I wasn’t the only one who
 
 “Leviathan.”
 
-Although the words were different, they meant the same thing. Team Leader Choi, who had spoken at the same time as me, continued slowly as everyone’s eyes turned toward him.
+Our voices overlapped. We’d used different words, but Team Leader Choi and I meant the same thing. With everyone looking at him, he went on.
 
 “As you all know, what happened in Japan wasn’t simply a terrorist attack or a Monster Wave.”
 
@@ -78,19 +76,19 @@ I picked up where Team Leader Choi had left off. The five oceans covered a stagg
 
 The answer was already there, as Team Leader Choi’s next words made clear.
 
-“He calculated everything meticulously from the beginning, taking Japan’s situation at the time and every other factor into account.”
+“He planned it meticulously from the start. He took Japan’s situation at the time into account—everything.”
 
 Johnson grasped what he meant and spoke with a groan.
 
-“Then all of it—including the second terrorist attack—was meant to draw you in?”
+“Then all of it, including the second attack, was meant to draw you in?”
 
 “Yes. I’m certain.”
 
 “But why Japan? If that was his goal, wouldn’t it have been easier to lure Leviathan to Korea?”
 
-Team Leader Choi shook his head and continued in a calm voice.
+Team Leader Choi shook his head.
 
-“From Michael Silbert’s perspective, it was the only possible choice. Even setting aside the fact that Korean Hunters are far stronger, our government has been on high alert ever since Go Jun artificially caused two Monster Waves. If magical power had suddenly surged, they would have noticed immediately.”
+“From Michael Silbert’s perspective, Japan was the better choice. Even apart from the much higher caliber of Korean Hunters, our government has been on alert ever since Go Jun deliberately caused those two Monster Waves. A sudden surge in magical power would have been detected almost immediately.”
 
 “The Magic Gem…!”
 
@@ -102,13 +100,13 @@ But near Tokyo, magical power levels were already running wild because of the Mo
 
 “Yes,” Johnson said. “It all fits.”
 
-“He drew the outline based on that from the start, then colored it in with the second terrorist attack. Since Japan was fairly far from the major Hunter powers, it would not have been difficult to predict that its own forces would be unable to stop a named monster like Leviathan.”
+“He laid out the plan on that basis from the start, then filled it in with the second attack. Japan is hardly a leading Hunter power. It wouldn’t have been difficult to predict that its own forces couldn’t easily stop a named monster like Leviathan.”
 
 The Supreme Peak masters of Murim were proof enough that people at the same level could differ enormously in strength. Modern S-rank Hunters were no different.
 
 And Japan’s S-rank Hunter, Yamamoto Genji, was stuck on the lower floors of that pyramid of power.
 
-*If he was really as strong as all those Japanese netizens and Japan-worshipping fanboys dickriding him claimed, why had he shown up so late that Leviathan was already dead when he’d had an entire day to get there?*
+*If he was as strong as those Japanese netizens and Japan-worshipping fanboys kept claiming, why did he take an entire day to show up—after Leviathan was already dead?*
 
 *The answer was obvious.*
 
@@ -124,7 +122,7 @@ No. *Us.*
 
 “……!”
 
-A chill ran down my spine. I abruptly raised my head as though I had just woken up and stared at the Skeleton King.
+A chill ran down my spine. I raised my head as if I’d just woken up and stared at the Skeleton King.
 
 He’d been listening in a daze, too distracted even to put his dislocated bones back in place. At my stare, he flinched and shrank back.
 
@@ -136,7 +134,7 @@ He’d been listening in a daze, too distracted even to put his dislocated bones
 
 “That’s not it.”
 
-“Th—then why?”
+“Th-then what?”
 
 Damn it. My teeth had clenched without me noticing. My voice came out low and strained.
 
@@ -158,7 +156,7 @@ The Skeleton King’s pupils trembled. Johnson, who had been thinking in silence
 
 “So he’d suspected it for some time.”
 
-“He would have needed evidence to turn that suspicion into certainty.”
+“And he needed evidence to turn that suspicion into certainty.”
 
 “Even at the cost of so many lives?”
 
@@ -174,7 +172,7 @@ He was right.
 
 That was all the bastard had wanted: the weakness that would guarantee his victory in a war against me. So he’d set the entire stage, cutting off any chance of reinforcements from other countries and creating a situation where the Skeleton King had no choice but to step in.
 
-*And then… he finally got his hands around that weakness.*
+*And in the end, he got hold of that weakness.*
 
 That wasn’t all. His willingness to launch the second terrorist attack must also have had a great deal to do with the World Hunter Federation.
 
@@ -228,9 +226,9 @@ Two people central to that debate were still in Munich. One was Jin Taekyung, wh
 
 “I didn’t say foul-tempered—damn it. Sorry. I didn’t mean that.”
 
-“It wouldn’t matter even if you did. But if you’re really sorry, throw me a decent scoop.”
+“Doesn’t matter if you did. But if you’re sorry, give me a decent scoop.”
 
-“A decent scoop? Then how about the emergency convening of the UN General Assembly?”
+“A decent scoop? How about the emergency UN General Assembly?”
 
 The bearded German reporter gave a short laugh.
 
@@ -264,7 +262,7 @@ The German reporter repeated the near-certain figure under his breath and swallo
 
 “That means…”
 
-“Yes. That’s right. The UN will announce it soon.”
+“Yes. The UN will announce it soon.”
 
 Simon, the reporter who looked a good ten years younger than the German man facing him, went on slowly.
 
