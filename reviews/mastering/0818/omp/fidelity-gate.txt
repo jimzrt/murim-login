@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled copy has a few localized fidelity defects: it drops a physical detail and a silence-breaking beat, and it intensifies one insult.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 111",
+      "current": "*Slice! Spurt!*",
+      "defect": "The Korean adds that a sharp blade cuts off a whole handful of his hair. The assembled copy omits this physical detail, which the accepted baseline preserved.",
+      "replacement": "*Slice! Spurt!*\nA chill. I felt a sharp blade cut off a whole handful of my hair.",
+      "rationale": "The source explicitly describes the chill and the loss of a handful of hair before describing the auras grazing his body.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 71",
+      "current": "At the same time, the world that had momentarily stopped began moving again.",
+      "defect": "The source explicitly says the silence shattered. That beat is absent from the assembled copy, though present in the accepted baseline.",
+      "replacement": "The silence shattered. At the same time, the world that had momentarily stopped began moving again.",
+      "rationale": "“산산이 부서지는 정적” establishes the silence breaking as a distinct beat before the world resumes moving.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 245",
+      "current": "“God told me, you crazy old bastard.”",
+      "defect": "“Bastard” adds profanity not present in the Korean insult.",
+      "replacement": "“God told me, you crazy old man.”",
+      "rationale": "“이 정신 나간 늙은이야” means a crazy or out-of-his-mind old man; it does not include a profanity equivalent to “bastard.”",
+      "confidence": 0.95
+    }
+  ]
+}
