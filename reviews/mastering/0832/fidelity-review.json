@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "Sometimes, what you’ve always taken for granted goes wrong.",
+      "defect": "The source’s opening only says that such moments sometimes happen in life; the next sentence supplies the unexpected turn. This line adds that things “go wrong” and repeats the taken-for-granted idea from the following sentence.",
+      "id": "F01",
+      "rationale": "The source separates the general setup (line 5) from the unexpected turn (line 7). The assembled opening makes the setup more negative and duplicates the following sentence’s premise.",
+      "replacement": "Sometimes, life throws you a curveball.",
+      "severity": "minor",
+      "source": "Lines 5–7"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I wanted that to be the case.\n\nI wished I were. Unfortunately, this was real.",
+      "defect": "The assembled English repeats the wish before stating that reality is different. The source expresses the wish once, followed by the contrast.",
+      "id": "F02",
+      "rationale": "The source says he wished he were dreaming or in an illusion, but the truth was different. “I wished I were” repeats the preceding sentence rather than translating another source beat.",
+      "replacement": "Unfortunately, this was real.",
+      "severity": "minor",
+      "source": "Lines 37–39"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I seized the Skeleton King’s wrist.",
+      "defect": "The source says the narrator grabs the wrist while speaking urgently. The assembled English omits that urgency.",
+      "id": "F03",
+      "rationale": "The source’s “다급한 목소리와 함께” explicitly conveys urgency as he grabs the wrist; the accepted baseline also preserves it.",
+      "replacement": "I seized the Skeleton King’s wrist, my voice urgent.",
+      "severity": "minor",
+      "source": "Line 183"
+    }
+  ],
+  "summary": "The translation contains a duplicated thought, adds a negative implication to the opening, and drops the narrator’s urgency when he grabs the Skeleton King.",
+  "version": 1
+}

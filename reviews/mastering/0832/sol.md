@@ -2,7 +2,7 @@
 
 Sometimes, what you’ve always taken for granted goes wrong.
 
-A moment when something you’d always taken for granted—one is followed by two, and two by three—suddenly takes an unexpected turn.
+One comes after two—no, two comes after one, and three after two. Then, without warning, something as certain as that takes a turn you never expected.
 
 But I’d never once imagined this outcome.
 
@@ -13,31 +13,29 @@ But I’d never once imagined this outcome.
 
 …What?
 
-I froze like a statue and stared blankly at the holographic window floating in the air.
+I froze like a statue and stared at the holographic window floating in the air.
 
 Inside its translucent frame were the same words I’d just heard.
 
 Main Quest. Failed.
 
-The two words drilled into my retinas, tearing through the emptiness in my mind and leaving me reeling.
+The words seemed to bore into my eyes, stirring up confusion in my suddenly empty mind.
 
-*Why? How could this happen?*
+*Why?*
 
-My lips moved on instinct, but no sound came out.
+My lips moved, but no sound came out.
 
-With endless questions swirling in my mind, I shook my head. The world spun around me. No matter how I looked at it, I couldn’t make sense of what was happening.
+I shook my head. The world spun. No matter how hard I tried, I couldn’t make sense of what had happened.
 
 Was I dreaming?
 
 Or was I still trapped in an illusion the Doppelganger had created?
 
-I wanted that to be the case.
-
 I wished I were. Unfortunately, this was real.
 
 “…Human, snap out of it!”
 
-A voice reached me through my blurred vision. If the Skeleton King’s hand shaking me was proof that this was all real—
+The Skeleton King’s voice reached me through the haze. His hand shook me, proof that this was reality.
 
 *Ding. Ding. Ding.*
 
@@ -45,19 +43,19 @@ The chimes kept ringing, and the darkness scattering into the air like ash was p
 
 > **System**
 > You have defeated Level 10 “Final Abyss” Doppelganger.
-> 
-> Due to the extreme level difference, you receive no Reward.
-> 
+>
+> Due to the extreme level difference, you receive no Reward for the kill.
+>
 > With the death of this target, the Doppelganger species has been completely wiped out.
-> 
+>
 > You have completely eradicated a species. The name Doppelganger will now slowly be forgotten as time passes.
-> 
+>
 > You have achieved the very rare achievement, Where’s Your Do Clan From?[^1]
-> 
+>
 > As a Reward for achieving a very rare achievement, you have gained a massive amount of EXP and Fame!
-> 
+>
 > You have acquired the Title Species Slayer!
-> 
+>
 > Level Up!
 
 Another Level Up. Another recovery.
@@ -67,8 +65,6 @@ Another Level Up. Another recovery.
 My foggy vision cleared. Strength surged through my revitalized body, more powerful than before.
 
 None of that mattered.
-
-Something else was far more important.
 
 I’d failed the most important Quest—the one I’d been certain I would complete.
 
@@ -88,7 +84,7 @@ But we hadn’t.
 
 I couldn’t breathe. A terrible headache stabbed through my skull like an awl, and I remembered the Doppelganger’s final moments. That faint smile I’d dismissed as a trick of my eyes.
 
-*I didn’t see it wrong…*
+*I saw it.*
 
 I’d been wrong. That smile was real—the smile of someone who had finished what they’d set out to do.
 
@@ -102,7 +98,7 @@ I was sure of only one thing: something that should never have happened had begu
 
 *Boom. Ba-boom.*
 
-A drumbeat suddenly reached my ears.
+A drumbeat reached my ears.
 
 Neither a clear chime nor a mechanical warning, it was more ominous than any sound I’d ever heard. A war drum heralding the start of a great war—and a warning from the System.
 
@@ -137,7 +133,7 @@ A cursed world no one had ever glimpsed, crawling with darkness and monsters. A 
 
 It had opened. Only temporarily, but it had opened.
 
-Cursed beings, summoned from another dimension by someone else, had set foot in this world.
+Cursed beings summoned by someone else across a tear between dimensions had set foot in this world.
 
 A rift. Magical power surging.
 
@@ -173,7 +169,7 @@ I seized the Skeleton King’s wrist. He’d been watching my inexplicable behav
 
 “This is just the beginning. It’s not over.”
 
-“What are you talking about—”
+“What are you—”
 
 “Tell the main force. Tell the World Hunter Federation. Right now.”
 
@@ -201,7 +197,7 @@ That was all I managed to say.
 
 “Human! Human!”
 
-The Skeleton King tried to haul me up with his powerful hands, but my body went limp against my will.
+The Skeleton King hauled at me with his powerful hands, but my body went limp against my will.
 
 As my consciousness sank after the long fight, I thought of the best thing I could do now.
 
@@ -265,7 +261,7 @@ His name was long by ordinary standards and short for a man from the Middle East
 
 “Inshallah!”
 
-It had been an unbearably long time. It was true for Ahomed, whose family had followed God’s will for generations, as it was for the others.
+They had endured for so long. Ahomed, whose family had followed God’s will for generations, and all the others.
 
 Though they’d been blessed with a talent for magic that anyone would envy, they’d had to hide from the world and live like criminals. They’d had to keep secret their great plan to change the world’s fate.
 
@@ -273,9 +269,9 @@ But…
 
 *We did it. At last.*
 
-Ahomed felt hot tears running down his face before he even realized it. He had devoted his entire life to following only the Prophet’s words.
+Hot tears ran down Ahomed’s face. He had devoted his entire life to following the Prophet’s words.
 
-In the old mage’s eyes lay the relief of someone finally free of all his hardship, the joy of fulfilling God’s mission, and worry and sorrow for someone who wasn’t there.
+In the old mage’s eyes were relief that their hardships were over, joy at fulfilling God’s mission, and worry and sorrow for someone who was not there.
 
 *O Prophet. Our guiding light. Where are you now?*
 
@@ -291,23 +287,21 @@ That must have been why, before leaving, he had summoned Ahomed, the one in char
 
 > “Ahomed. If I haven’t returned by dawn three days from now, you and the others who remain must complete the mission.”
 >
-> “P-Prophet, how could you say such a thing?”
+> “P-Prophet, how can you say such a thing?”
 >
-> “It’s only a precaution. If you all don’t stay here to protect everyone and carry on the mission, how can we fight the infidels’ army without worry?”
+> “It is only a precaution. If you do not stay here to protect everyone and carry on the mission, how can we fight the infidels’ army with our minds at ease?”
 >
 > “B-but…”
 >
-> “I trust you, Ahomed. You are my brother and Disciple, bound to me in the name of God.”
+> “I trust you, Ahomed. My brother and Disciple, bound to me in the name of God.”
 
 Neither the Prophet—no, the Doppelganger—nor Ahomed knew that he would never return. That a single human would erase him forever.
 
 Yet that was exactly what had happened. Sensing that something had gone wrong, Ahomed led the mages who had studied under the Prophet alongside him to the Magic Formation they had spent so long preparing.
 
-And now, in this very moment—
+And now they watched darkness rise from it, devouring more Magic Gems than they could count.
 
-They watched the darkness rise, devouring more Magic Gems than they could count.
-
-“O Messenger of God! O God’s hammer, come to set this defiled world right! At last, descend upon us!”
+“O Messenger of God! O hammer of God, who will set this defiled world right! At last, descend upon us!”
 
 His cry rang out, carrying a lifetime of pent-up anguish and a faith that could only be called fanatical.
 
@@ -315,4 +309,4 @@ His cry rang out, carrying a lifetime of pent-up anguish and a faith that could 
 
 Deep within the darkness, red eyes flashed.
 
-[^1]: The Korean title is a dialect-flavored pun that sounds like “Where are you from, Mr. Do?” while also evoking a question about one’s ancestral clan.
+[^1]: The Korean achievement name is a dialect-flavored pun on asking someone surnamed Do which ancestral clan they belong to.
