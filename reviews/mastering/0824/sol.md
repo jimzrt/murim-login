@@ -12,7 +12,7 @@ The Doppelganger bit its lip as it watched the sky slowly brighten.
 
 Dawn had come too soon. No—it had taken longer than expected.
 
-*Everything should have been over before daybreak at the latest.*
+*Everything should have been over before daybreak.*
 
 The Doppelganger knew that no amount of regret would change what had happened. Its carefully laid plans had gone awry long ago, and at the center of it all, from the very beginning, was that bastard.
 
@@ -44,7 +44,7 @@ Instead, the opposite had happened.
 
 The monster army had been crushed, and the fanatics it had spent so much effort raising had become a shield for its escape.
 
-*I can’t believe I got beaten this badly.*
+*I can’t believe I lost them like that.*
 
 A bitter taste filled the Doppelganger’s mouth.
 
@@ -70,13 +70,13 @@ At the question, delivered with deliberate gravity, the man in black carrying it
 
 “Yes. He’s more of a monster than I thought. There’s no telling what he might do.”
 
-At the Doppelganger’s words, laced with an unusual mixture of impatience and fear, the dozens of men in black running around it like an escort exchanged glances.
+At the impatience and fear in the Doppelganger’s voice, so unlike its usual manner, the dozens of men in black running around it exchanged glances.
 
-They’d been running at full speed for nearly an hour. And now it wanted them to go even faster?
+They had been running at full speed for nearly an hour. And now it wanted them to go faster?
 
 The man carrying the Doppelganger to conserve its strength glanced back at it before speaking carefully.
 
-“I’m sorry to say this, but… we cannot go any faster.”
+“Forgive me for saying so, but… we cannot go any faster.”
 
 “What?”
 
@@ -102,7 +102,7 @@ Every word struck home, as though the Doppelganger could see straight into their
 
 Amir, their leader, had raised them to serve as the Prophet’s personal guard. But the Promised Land they had all longed for had proved to be a barren canyon. Instead of green life and hope, heretics had awaited them there.
 
-Then came the fierce battle, and their brothers and sisters fell, their blood spraying across the ground.
+Then battle had erupted, and their brothers and sisters had fallen, spilling blood.
 
 Even so, they had not faltered. They believed they were fighting a holy war to uphold God’s will. They believed their brothers’ and sisters’ deaths were holy martyrdom.
 
@@ -132,7 +132,7 @@ Taking his silence as permission, the man continued cautiously. Their destinatio
 
 Wind roared around the figures racing forward. Other men in black joined in.
 
-“We abandoned our brothers and sisters and ran.”
+“We left our brothers and sisters behind.”
 
 “We’re afraid God will abandon us.”
 
@@ -178,7 +178,7 @@ The men in black stared around them, dazed. Then they dropped to their knees as 
 
 Their reaction was only natural.
 
-The Prophet served only one person, and this was the land where that person had once descended. It was worthy of being called the Sacred Land.
+The Prophet served but one master. A land where that master had once stayed was surely worthy of the name Sacred Land.
 
 They prostrated themselves, crying out for God’s blessing. Above their heads, the Prophet’s voice continued.
 
@@ -200,17 +200,17 @@ The change was as stark as desert sunlight turning to a freezing northern blizza
 
 At that moment—
 
-*Boom! Thud-thud.*
+*Boom! Rat-a-tat.*
 
 The men in black blinked, still overcome with emotion.
 
-When they raised their heads from the ground, red blood and pieces of flesh were scattered all around them.
+When they lifted their heads from the ground, they saw blood and pieces of flesh scattered all around them.
 
 “Huh…?”
 
 A dazed sound escaped someone’s lips.
 
-It was a pure question—and a reality they couldn’t accept.
+It was a question born of a reality they could not accept.
 
 Before they could find an answer, deep darkness fell over them.
 
@@ -220,13 +220,13 @@ A chill ran down their spines. Their hands and feet stiffened like stone, beyond
 
 Bodies honed through a lifetime of training, mana, the swords at their waists—none of it was any use now.
 
-Ah.
+“Ah.”
 
 A single groan.
 
 Seized by a terror and shock unlike anything they had ever known, the men in black stared at the darkness bearing down on them.
 
-The darkness was as smooth as a mirror, and their faces were reflected in it, clear as day.
+Its surface was smooth as a mirror. Their faces were reflected in it.
 
 *This is…*
 
@@ -238,7 +238,7 @@ The great Prophet who would lead them all to the Promised Land.
 
 No. The *thing* they had believed was the Prophet looked down at them and smiled.
 
-It was leading them not to death, or anything else, but into a bottomless pit within a dreadful abyss.
+It was leading them not to death, but into a dreadful, bottomless abyss.
 
 “Listen, you fools. You weak, worthless humans.”
 
@@ -256,7 +256,7 @@ As their vision plunged into that bottomless pit, they heard the devil’s final
 
 —God…
 
-Had already abandoned you.
+…has already abandoned you.
 
 The words echoed faintly.
 
@@ -270,9 +270,9 @@ Or so it thought.
 
 *Fwoooosh.*
 
-That was, until a dazzling beam of light erupted in the air above the ruins.
+A dazzling beam of light erupted in the air above the ruins.
 
-Until blue-white flames surged and poured forth from within that distant radiance.
+From within that distant radiance, blue-white flames surged forth.
 
 *Kwaaaaaang!*
 
