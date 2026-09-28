@@ -2,7 +2,7 @@
 
 “At the same time… we also requested assistance from Michael Silbert.”
 
-The name that Team Leader Choi suddenly blurted out.
+The name came out of nowhere.
 
 Michael Silbert.
 
@@ -30,7 +30,7 @@ The greatest beneficiary of these meticulously engineered disasters was Michael 
 
 For a while, he had even made people forget Cheon Taemin’s name.
 
-*I have to stop him now, while there’s still time. Somehow.*
+*I have to stop him now. Somehow.*
 
 I didn’t know what Michael Silbert ultimately wanted. But if a monster like him gained unchecked fame and power—if he became as untouchable as Cheon Taemin—I was certain a disaster worse than anything we’d seen would follow.
 
@@ -38,27 +38,27 @@ I didn’t know what Michael Silbert ultimately wanted. But if a monster like hi
 
 He understood what I meant and nodded. “The pilots are already waiting.”
 
-Team Leader Choi, the Skeleton King, and I hurried toward the aircraft that had already been prepared, exchanging words as we went.
+We couldn’t afford to lose a moment. Team Leader Choi, the Skeleton King, and I hurried toward the aircraft, talking as we went.
 
 “What’s happening in Germany?”
 
-“A Class 2 disaster warning has been issued, centered around Munich. According to the information provided by the German government, a Monster Wave will occur within five hours at the latest.”
+“A Class 2 disaster warning has been issued for Munich and the surrounding area. According to the German government, a Monster Wave will occur within five hours at the latest.”
 
 “If five hours is the government’s upper limit…”
 
 Team Leader Choi nodded. “It could happen at any moment.”
 
-Running on wishful thinking in the face of disaster was a universal human trait. Or at least governments responsible for evacuating people had no choice but to do so.
+Wishful thinking in the face of disaster was universal. Or perhaps a government trying to evacuate people had no choice but to leave them some hope.
 
-The moment the German government officially admitted, “We’re fucked,” a major city like Munich would descend into chaos in an instant.
+The moment the German government officially announced, “We’re fucked,” a major city like Munich would descend into chaos.
 
 “Damn it.”
 
-“Fortunately, their response so far has been excellent. Every country in the world has been on high alert since the terrorist attack on the Paris branch, and more than three thousand Hunters have gathered in Munich since the Class 2 disaster warning was issued. Our Ares Guild is one of them.”
+“Fortunately, their response so far has been excellent. Countries around the world have been on alert since the attack on the Paris branch. More than three thousand Hunters have gathered in Munich since the warning was issued, including members of our Ares Guild.”
 
 “That’s something, at least. What about Odin? No—that man?” the Skeleton King asked.
 
-“Of course, Hunters from the Odin Guild branch in Munich are standing by as well, but… the core forces led by Michael Silbert are currently in Africa.”
+“The Odin Guild branch in Munich has Hunters standing by, of course. But Michael Silbert and his core forces are currently in Africa.”
 
 “Africa?”
 
@@ -72,7 +72,7 @@ The Skeleton King sneered, but I shook my head.
 
 “Hm?”
 
-“If it had been part of his calculations from the beginning, he would have left for Munich by now. So at least the incident in Munich wasn’t a terrorist attack he had a hand in.”
+“If Munich had been part of his plan, he’d already be on his way there. Which means this Monster Wave, at least, isn’t a terrorist attack he had a hand in.”
 
 “Exactly,” Team Leader Choi said. “That makes it even more dangerous.”
 
@@ -168,13 +168,13 @@ The Skeleton King was slowly waving a hand in front of my face.
 
 “Wrong. One. Your condition is worse than I thought—”
 
-“I deliberately didn’t count the finger you’re waving because I’m going to pull it out soon.”
+“I didn’t count the finger you’re waving because I’m about to pull it off.”
 
 “……”
 
-“You’re still waving it. Fold that finger while I’m asking nicely.”
+“You’re still waving it. Put it down while I’m asking nicely.”
 
-As the Skeleton King quietly folded the middle finger he had been enthusiastically waving, Team Leader Choi spoke in a subdued voice.
+The Skeleton King quietly lowered the middle finger he’d been waving with such enthusiasm. Team Leader Choi spoke in a subdued voice.
 
 “If something’s wrong, we can wait until you’ve rested. We don’t know what kind of S-rank monster will appear, but there are forces on-site capable of responding to it, so…”
 
@@ -182,7 +182,7 @@ As the Skeleton King quietly folded the middle finger he had been enthusiastical
 
 I cut him off. Mental exhaustion and the Broken Body debuff had left me far from my best, but every moment we delayed would mean more damage. That much was obvious.
 
-My mission now is to stop the disaster. The disaster in Munich—and, beyond that, the disaster that would swallow this world.
+My mission now was to stop the disaster in Munich—and beyond it, the disaster that threatened to swallow the world.
 
 “Let’s go. Before we lose any more time.”
 
@@ -198,7 +198,7 @@ The words lingered on my tongue, then faded without ever reaching him.
 
 South Africa.
 
-Commonly known in Korea by the abbreviation Nam-agong, this country was Africa’s most highly developed industrial nation. Because it had few Gates, it was also one of the countries that had suffered the least damage from monsters, from the Great Cataclysm until now.
+Often shortened to *Nam-agong* in Korean, the country was Africa’s most industrialized nation. It had few Gates and had suffered less damage from monsters than almost any other country since the Great Cataclysm.
 
 At least until half a day ago.
 
@@ -236,7 +236,7 @@ At its broad, heavy feet lay the bodies of Hunters, their limbs twisted or their
 
 Easy. Far too easy.
 
-If this had happened not long ago, it would not have been able to deal with the humans who crossed through the Gate and invaded its territory so effortlessly.
+Not long ago, it could never have dealt so easily with the humans who crossed through the Gate to invade its territory. But things were different now.
 
 —Ha. Ha. Ha!
 
@@ -248,7 +248,7 @@ Over the past several decades, humans had gone from prey to hunters.
 
 Now they were prey again.
 
-—I. WILL. KILL. EVERY. LAST. ONE!!
+—I. WILL. KILL. EVERY. LAST. ONE!
 
 Years of oppression. Years of humans invading their territory and hunting them. The leader’s fury erupted in a roar.
 
@@ -262,7 +262,7 @@ The leader wasn’t alarmed. A Troll could survive losing its head. Unless its b
 
 *Whoosh-whoosh-whoosh! Boom-boom-boom!*
 
-Along with the sound of air splitting, the leader’s consciousness snapped off.
+The sound of air splitting cut through its thoughts. Its consciousness vanished.
 
 For all its Regeneration and steel-hard flesh, the leader was helpless. Its body dropped to its knees before it could even wonder what had happened.
 
@@ -276,6 +276,6 @@ The other Trolls looked around in confusion. A calm voice reached them.
 
 *Step.*
 
-With the footstep moving forward, a colossal force bore down on everything around them.
+A foot came down, and an immense force pressed in from every direction.
 
 “My friend is waiting for me.”

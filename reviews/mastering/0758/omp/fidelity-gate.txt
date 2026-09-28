@@ -1,0 +1,25 @@
+{
+  "summary": "Mostly faithful; two lines shift the source’s meaning or physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 45–47",
+      "current": "I was certain a disaster worse than anything we’d seen would follow.",
+      "defect": "The source says the coming disaster would be worse than the present situation, not worse than anything humanity had ever seen. The English broadens the comparison.",
+      "replacement": "I was certain a disaster worse than the one unfolding now would follow.",
+      "rationale": "“지금보다 더한 재앙” means a disaster worse than now.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 291",
+      "current": "Explosions erupted everywhere, but the Trolls’ tough skin and tremendous Regeneration kept them standing.",
+      "defect": "The source says the Trolls’ tough skin and Regeneration were unaffected by the explosions. “Kept them standing” changes that physical detail to whether they remained upright.",
+      "replacement": "Explosions erupted everywhere, but the Trolls’ tough skin and tremendous Regeneration weren’t fazed.",
+      "rationale": "“끄떡도 하지 않았다” says the explosions had no effect on their tough skin and Regeneration.",
+      "confidence": 0.87
+    }
+  ]
+}
