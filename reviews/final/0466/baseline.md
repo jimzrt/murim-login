@@ -66,9 +66,9 @@ The scales had already tipped in my favor. I laced my fingers tightly through hi
 
 *Crack!*
 
-Sibu-leol.[^1] I’d never even held a woman’s hand in my life, yet here in Murim,[^2] I’d interlocked fingers with enough men to fill a truck.
+Sibu-leol. I’d never even held a woman’s hand in my life, yet here in Murim, I’d interlocked fingers with enough men to fill a truck.
 
-Of course, an affectionate finger-lock fueled by the pent-up rage of a man who’d been single all his life never failed to deliver.
+Of course, an affectionate finger-lock fueled by the pent-up rage of a lifelong virgin never failed to deliver.
 
 Just like now.
 
@@ -144,11 +144,11 @@ Hundreds—thousands—of fragments tore through the air in every direction, but
 
 Heavier than a rock, faster than the wind.
 
-My entire body cleaved through the air several times faster than when I’d been thrown back, carrying the weight of ten thousand *geun*.[^3]
+My entire body cleaved through the air several times faster than when I’d been thrown back, carrying the weight of ten thousand *geun*.
 
 “Dongting Fisherman!”
 
-My shout shook the vast cavern. Several *jiazi*[^4] of Scorching Yang Qi carried in my voice pressed down the water and pushed the rocks aside.
+My shout rattled his wide-open eyes. Several *jiazi* of Scorching Yang Qi carried in my voice pressed down the water and pushed the rocks aside.
 
 And at the end of it all stood one man.
 
@@ -320,7 +320,7 @@ The Sleeping Dragon of Shanxi.
 
 No—the Blazing Flame Divine Dragon, Jin Taekyung.
 
-The kind of bastard who looked capable of crawling back alive even if he were thrown into the deepest pit of the underworld. More vicious than A-Gwi[^5] and strong enough to beat Yama[^6] himself into the ground.
+The kind of bastard who looked capable of crawling back alive even if he were thrown into the deepest pit of the underworld. More vicious than A-Gwi and strong enough to beat Yama himself into the ground.
 
 *I’ve never once imagined that bastard dying… But nothing is absolute. Surely not?*
 
@@ -332,7 +332,7 @@ But this time, he couldn’t help wavering.
 
 *Rumble. Crash!*
 
-Just as the old boatman had warned a couple of *shichen*[^7] earlier, even calling the current weather on Dongting Lake the worst imaginable would have been an understatement.
+Just as the old boatman had warned a couple of *shichen* earlier, even calling the current weather on Dongting Lake the worst imaginable would have been an understatement.
 
 A raging storm. Lightning crashing down from the sky.
 
@@ -395,11 +395,3 @@ Beaming from ear to ear, Jin Taekyung held the Dongting Fisherman out toward the
 *Rumble. Crash!*
 
 Thunder and lightning shook the entire world.
-
-[^1]: *Sibu-leol* is a colloquial Korean curse, roughly equivalent to “fuck.”
-[^2]: *Murim* is the world of martial artists and their sects in Korean martial-arts fiction.
-[^3]: *Geun* is a Korean unit of weight: one *geun* is 600 g (1.32 lb). Ten thousand *geun* is about 6,000 kg (13,200 lb).
-[^4]: A *jiazi* is a traditional sixty-year cycle, used here to measure accumulated internal energy.
-[^5]: A-Gwi is a legendary Dogon from Sichuan, invoked here as a measure of ferocity.
-[^6]: Yama is the Buddhist lord of the underworld.
-[^7]: A *shichen* is a traditional time unit of approximately two hours; a couple of *shichen* is about four hours.
