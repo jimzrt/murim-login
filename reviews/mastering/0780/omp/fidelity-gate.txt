@@ -1,0 +1,15 @@
+{
+  "summary": "One major subject/object error changes who bears the risk of the double-edged sword.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "Korean source, lines 125–127",
+      "current": "And what had made him willing to use a double-edged sword fraught with danger and uncertainty against Michael?",
+      "defect": "The Korean says Jin was willing to stab himself with the double-edged sword. The assembled English changes the target to Michael, removing the personal risk Jin accepted.",
+      "replacement": "And why had he been willing to stab himself with a double-edged sword fraught with danger and uncertainty?",
+      "rationale": "In the Michael-focused passage, 진태경이 is the subject and 자신을 refers back to Jin Taekyung; the next clause describes his willingness to take that risk.",
+      "confidence": 0.94
+    }
+  ]
+}

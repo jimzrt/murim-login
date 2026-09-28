@@ -48,7 +48,7 @@ His gray eyes were still unsettled, and I could almost read the thoughts racing 
 
 But—
 
-“Don’t strain yourself trying to figure it out. You already know, don’t you?”
+“Don’t strain yourself thinking. You already know, don’t you?”
 
 Once all the equations lined up, the answer was clear.
 
@@ -88,7 +88,7 @@ That young man wasn’t merely an obstacle to be removed. He was another wall Mi
 
 *Such heat.*
 
-The heat in those black eyes.
+It shone in those black eyes like light.
 
 At the same time, the wound on the back of Michael’s neck—still there like a brand—burned with pain.
 
@@ -96,7 +96,7 @@ At the same time, the wound on the back of Michael’s neck—still there like a
 
 Without realizing it, Michael Silbert reached for his neck.
 
-But when his fingertips met the cold armor that covered it all the way up to his throat, hiding the wound, a dry laugh escaped him.
+His fingertips met the cold armor that covered the wound, rising all the way to his neck, and a dry laugh escaped him.
 
 Excuses? Damage control?
 
@@ -138,15 +138,15 @@ The answer was shorter than the question.
 
 *Whoosh!*
 
-A sheet of paper shot through the air like an arrow. Michael Silbert caught it between two fingers and murmured the title written at the top.
+A sheet of paper flew toward Michael like an arrow. He caught it between two fingers and read the title at the top.
 
 “…The Compatibility of Mana and Magical Power.”
 
-“They say he was the greatest monster scholar of his age, even before you count his being a Grand Mage. Looks like he researched just about everything.”
+“They say he was the greatest monster scholar of his age, even before he was a Grand Mage. He researched just about everything.”
 
 “There shouldn’t have been any research material left.”
 
-“Sure. That’s what people knew.”
+“Sure. Not that anyone knew of.”
 
 Michael Silbert looked down at the paper in his hand. His gray eyes darted across it; he read and understood the entire page in an instant.
 
@@ -154,13 +154,13 @@ Michael Silbert looked down at the paper in his hand. His gray eyes darted acros
 
 Jin Taekyung’s low voice reached his ears.
 
-“That wouldn’t have been true for you.”
+“It wouldn’t sound insane to you.”
 
 Michael Silbert raised his head. The paper, now badly crumpled in his grip, caught fire.
 
-*Fwoosh. Crumble.*
+*Fwoosh. Crackle.*
 
-Ash drifted through the air. Beyond it, the eyes that had gone cold now held a reddish glow.
+Ash drifted through the air. Beyond it, a reddish heat entered Jin Taekyung’s cool, steady eyes.
 
 “Looks like Siegfried Bassman wondered about it too. But even he never managed to prove it. Or maybe he stopped because he thought he’d crossed a taboo.”
 
@@ -222,7 +222,7 @@ All of it came down to one thing.
 
 “Magical power.”
 
-Jin Taekyung slowly turned around. Looking into the gray eyes that no longer wavered, he continued.
+Jin Taekyung slowly turned back. He looked into Michael’s gray eyes, which no longer wavered.
 
 “I don’t know how it happened or what gave you the chance, but… you were able to grow stronger by absorbing magical power. Just like a monster.”
 
@@ -246,7 +246,7 @@ He had only recently gained his new power. Amid a great gathering of people, tha
 
 Back then, he’d possessed such a tiny amount of magical power that the man hadn’t looked his way again. But the fear of that day had never truly faded.
 
-Even after time had passed and Cheon Taemin had vanished. Even after Michael had learned the secrets of Zone A from Siegfried Bassman.
+Not after Cheon Taemin vanished. Not after Michael learned the secrets of Zone A from Siegfried Bassman.
 
 He hadn’t even attended Lee Jungryong’s funeral.
 
@@ -258,10 +258,10 @@ But…
 
 Speaking quietly, Michael Silbert awakened the enormous energy dormant deep within him.
 
-That unprecedented, turbulent power in which light and darkness had mingled for years—but which, from a certain day onward, had been stained a deeper and deeper shade by the swelling darkness.
+Light and darkness had mingled in it for years. Then, one day, the darkness had begun to swell, staining that strange, turbulent energy ever deeper.
 
 “The only person in this world I fear isn’t here right now.”
 
 *Rumble, rumble, rumble.*
 
-A vast wave of force rose and pressed down on everything around them.
+A vast wave of energy rose and pressed down on everything around them.
