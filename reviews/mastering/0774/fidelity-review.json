@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "When I came to, there was blood everywhere.",
+      "defect": "The source describes the surroundings as a sea of blood (피바다), a stronger, specific image than simply blood being everywhere. The accepted baseline preserved that image.",
+      "id": "F01",
+      "rationale": "The Korean says 사방이 피바다였다: all around him was a sea of blood.",
+      "replacement": "When I opened my eyes again, it was a sea of blood all around me.",
+      "severity": "minor",
+      "source": "774:25"
+    },
+    {
+      "confidence": 0.92,
+      "current": "Only then did a faint smile touch Team Leader Choi’s lips.",
+      "defect": "The English omits that Choi’s faint smile came in response to Taekyung’s banter.",
+      "id": "F02",
+      "rationale": "내 너스레에 explicitly links the smile to Taekyung’s lighthearted remark.",
+      "replacement": "My banter finally brought a faint smile to Team Leader Choi’s lips.",
+      "severity": "minor",
+      "source": "774:171"
+    }
+  ],
+  "summary": "Two minor omissions soften source-specific imagery and the stated reaction to Taekyung’s banter.",
+  "version": 1
+}

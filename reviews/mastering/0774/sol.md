@@ -244,7 +244,7 @@ He could never forget it.
 
 Michael Silbert gently stroked the chair he had once occupied. Age had left it rough and creaking, yet even that stirred something in him.
 
-But that was all.
+But only for a moment.
 
 He looked down at the chair that held those memories without sitting in it or leaning against it. His gaze drifted away from it, toward the center of the round table.
 
@@ -292,7 +292,7 @@ In his youth, he had been neither particularly strong nor particularly weak besi
 
 Cheon Taemin—the man Michael had revered and feared, the man who had forced him to lie low for fear of attracting his notice—was gone.
 
-All he could do now was remain as a record in this place and watch Michael, who would soon ascend the throne.
+All the savior of humanity could do now was remain a record in this hall and watch Michael ascend the throne.
 
 “I’ll take the place where you once stood.”
 
