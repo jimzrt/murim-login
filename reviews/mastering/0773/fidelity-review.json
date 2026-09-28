@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "It would decide where the world went from here.",
+      "defect": "Omits that the stakes extend beyond the simple distinction between enemies and allies.",
+      "id": "F01",
+      "rationale": "The Korean says the ceremony’s outcome would decide not only the fate of Michael Silbert and the narrator, but also—beyond the simple concept of enemies and us—the direction the world would take.",
+      "replacement": "Beyond the simple question of enemies and allies, it would decide the direction this world took from here.",
+      "severity": "minor",
+      "source": "Lines 161–165"
+    }
+  ],
+  "summary": "One minor omission: the English drops the source’s contrast between the enemy-versus-us framing and the broader direction of the world.",
+  "version": 1
+}

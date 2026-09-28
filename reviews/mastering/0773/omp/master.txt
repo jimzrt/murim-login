@@ -4,11 +4,11 @@ It was good to have somewhere to return to. Better still if there were people wa
 
 “Team Leader Choi! Taekyung!”
 
-After several hours of flying, we arrived at Incheon Airport. From far away, a hairy giant came thundering toward us with both arms spread wide.
+After several hours in the air, we arrived at Incheon Airport. A hairy giant came thundering toward us from across the runway, arms spread wide.
 
 Whump!
 
-The air caught in my throat.
+The air left my lungs.
 
 Even as Im Kkeokjeong squeezed us in a hug that felt more like a chokehold, Team Leader Choi and I patted his shoulders while he sobbed.
 
@@ -26,15 +26,13 @@ Going by appearances, even the Green Forest Alliance Leader would have to step a
 
 The man’s outside and inside couldn’t have been more different.
 
-And from over Im Kkeokjeong’s shoulder came a voice as clear and direct as the impression its owner gave.
+From over his shoulder came a voice as bright and forthright as its owner looked.
 
-“You should say *we* were worried, not *I*. What does that make me when you put it like that?”
+“You should say *we* were worried, not *I*. What does that make me?”
 
 Song Song stopped and looked Team Leader Choi and me over carefully.
 
 “Hmm. You both look better than I expected.”
-
-I asked in return,
 
 “Are you sure? I’ll be suffocated in five minutes at this rate.”
 
@@ -42,7 +40,7 @@ I asked in return,
 
 “Can’t you see how bloodshot my eyes are? I haven’t slept properly in three days.”
 
-“Why? You look much better than you did on TV a few days ago.”
+“You still look a lot better than you did on TV a few days ago.”
 
 She added, “Your eyes were completely gone then. You looked like you were about to drop dead.”
 
@@ -58,7 +56,7 @@ Team Leader Choi’s was, too.
 
 “How did the matter I asked you to handle go?” he asked.
 
-“I delivered your instructions properly—to both the Peace and Ares Guilds. Once I narrowed the list down, there weren’t even ten people. But the ones I chose are all staunch loyalists.”
+Song Song lowered her voice. “I passed on your instructions to both Peace and Ares. Once I narrowed the list down, there weren’t even ten people. The ones I chose are that loyal, though.”
 
 “Is there any chance the information leaked?”
 
@@ -94,7 +92,7 @@ Police officers and soldiers appeared everywhere in the scenery passing beyond t
 
 “As you requested, we cleared everyone out in advance for security.”
 
-Baek Hanseong continued as he threw away the red ginseng juice he had finished drinking.
+Baek Hanseong tossed aside his empty packet of red ginseng juice. “Of course, that terrorist made it a necessary precaution anyway.”
 
 He meant The Prophet.
 
@@ -120,15 +118,11 @@ I couldn’t tell him everything—not because I distrusted him, but because I c
 
 *There are plenty of ways.*
 
-Michael Silbert’s eyes and ears were everywhere.
+Michael Silbert had eyes and ears everywhere. There might be a mole among the President’s closest aides. He might be under surveillance.
 
-There could be a mole among Baek Hanseong’s closest advisers, and there was every chance he was being watched.
+Anyone would be shaken by a truth this hard to believe. Being a seasoned politician didn’t mean Baek Hanseong could hide every emotion. If the enemy caught even a hint of what we knew, our position would grow worse.
 
-The moment anyone was confronted with an unbelievable truth, they were bound to be shaken.
-
-Being an experienced politician did not mean he could hide every emotion. If the enemy noticed something because of that, the situation would become even more disadvantageous.
-
-*And we can’t rule out the possibility that the clue we found isn’t the truth.*
+*And we can’t rule out the possibility that the clue we found doesn’t point to the truth.*
 
 My eyes met Team Leader Choi’s, and I could tell he was thinking the same thing.
 
@@ -140,7 +134,7 @@ For now, though, we couldn’t be certain of anything.
 
 Less than twenty-four hours remained before the inaugural ceremony. How it ended would decide everyone’s fate.
 
-Michael Silbert and me.
+Not just Michael Silbert’s and mine. Not just the enemies’ and ours.
 
 It would decide where the world went from here.
 
@@ -156,7 +150,7 @@ I understood what his trailing words meant and shook my head.
 
 “No. I’m planning to see them after the inaugural ceremony.”
 
-“Are you sure that will be all right?”
+“Are you sure?”
 
 “Of course.”
 
@@ -176,7 +170,7 @@ The words I couldn’t bring myself to say lingered on the tip of my tongue, the
 
 “Ah.”
 
-“I’m fairly certain he was on the list of people entering the country… Has something happened?”
+“I’m certain he was on the arrival list… Has something happened?”
 
 I hesitated, then met Team Leader Choi’s eyes. I gave a bitter smile.
 
@@ -252,7 +246,7 @@ Prince Felix had just finished the brief scan when a large shadow fell over him.
 
 “It’s been a while, Felix. Oh, should I call you His Highness?”
 
-At the familiar face looking down at him from far above, Prince Felix seemed about to frown, but then relaxed his expression.
+He looked up at the familiar face far above him. His brow began to furrow, then smoothed again.
 
 He would have scolded anyone else. But this was one of the few people from whom he could tolerate a little rudeness.
 
@@ -274,7 +268,7 @@ Felix had never met the middle-aged man in person, but he recognized him at once
 
 “…Chuck Hagel.”
 
-Chuck Hagel, who had been puffing away at his cigar in front of a no-smoking sign, answered,
+Chuck Hagel took another puff in front of a no-smoking sign.
 
 “You calling me, Prince?”
 
@@ -282,13 +276,13 @@ At his irritable tone, Magic Johnson eased forward. “Since we’ve run into ea
 
 Felix studied them both for a moment, then shook his head.
 
-“I have no interest.”
+“No, thank you.”
 
 “Too bad.”
 
 “See you tomorrow. Both of you.”
 
-“Sure. Then we’ll do that.”
+“Sure. See you then.”
 
 A perfectly ordinary exchange.
 
