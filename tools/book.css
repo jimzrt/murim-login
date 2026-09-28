@@ -86,14 +86,16 @@ blockquote {
 /* Kindle Oasis is the reference. It drops border-image, gradients, and
    absolute positioning, and its navy crushes toward black. The frame is a
    table of the site's corner pieces; the dragons and SYSTEM plate are the
-   top edge of that frame. #4a90d0 is the site highlight #3a78b8 lifted so
-   the panel stays a mid gray. */
+   top edge of that frame. #3470aa keeps white text near 5:1, darker than
+   the old lifted blue but still a mid gray on the Oasis. The dragon and
+   corner PNGs are matted to this same blue: Kindle draws transparent
+   pixels as white. */
 table.system-window {
   width: 100%;
   margin: 1.5em 0 1.25em;
   border-collapse: collapse;
   border-spacing: 0;
-  background-color: #4a90d0;
+  background-color: #3470aa;
   color: #ffffff;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 0.92em;
@@ -113,7 +115,7 @@ table.system-window col {
 table.system-window td {
   padding: 0;
   border: 0;
-  background-color: #4a90d0;
+  background-color: #3470aa;
   vertical-align: top;
 }
 
@@ -174,7 +176,7 @@ table.system-head {
   margin: 0;
   border-collapse: collapse;
   border-spacing: 0;
-  background-color: #4a90d0;
+  background-color: #3470aa;
 }
 
 table.system-head col {
@@ -184,7 +186,7 @@ table.system-head col {
 table.system-head td {
   padding: 0;
   border: 0;
-  background-color: #4a90d0;
+  background-color: #3470aa;
   vertical-align: middle;
 }
 
@@ -222,7 +224,7 @@ table.system-head td.system-badge {
 .system-plaque {
   display: inline-block;
   vertical-align: middle;
-  background-color: #3a78b8;
+  background-color: #2a5f8c;
   border: 2px solid #e6c86a;
   color: #ffffff;
   font-family: Helvetica, Arial, sans-serif;

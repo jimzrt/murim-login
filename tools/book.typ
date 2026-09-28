@@ -20,7 +20,7 @@
 
   let plaque-label = box(
     height: 15pt,
-    fill: rgb("#3a78b8"),
+    fill: rgb("#2a5f8c"),
     stroke: 1.05pt + murim-gold,
     inset: (x: 8pt, y: 0pt),
   )[
@@ -56,7 +56,7 @@
     #block(
       width: 100%,
       breakable: false,
-      fill: gradient.linear(rgb("#4a90d0"), rgb("#3a78b8"), rgb("#2d6aad"), angle: 180deg),
+      fill: gradient.linear(rgb("#3470aa"), rgb("#2d6aad"), rgb("#245f92"), angle: 180deg),
       stroke: murim-arm + murim-gold,
       inset: (x: 1.15em, top: 12pt, bottom: 1.05em),
     )[
