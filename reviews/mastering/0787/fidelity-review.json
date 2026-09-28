@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.9,
+      "current": "Pai Chen.",
+      "defect": "The assembled copy changes the established name Faye Chen to Pai Chen.",
+      "id": "F01",
+      "rationale": "The source names 파이 첸, and the accepted baseline renders it as Faye Chen. The assembled copy provides no source-based reason to change this established romanization.",
+      "replacement": "Faye Chen.",
+      "severity": "minor",
+      "source": "Korean line 365; accepted baseline P168"
+    }
+  ],
+  "summary": "One minor continuity regression: an established character name was re-romanized.",
+  "version": 1
+}

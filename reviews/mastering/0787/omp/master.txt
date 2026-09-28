@@ -63,7 +63,7 @@ More cunning than any enemy Jin had ever faced, the scheming man who had shaken 
 
 No. Perhaps by now his soul had tumbled into the abyss reflected in those staring eyes.
 
-Just like Jin’s final farewell to him, in the moment the cold spearhead pierced his throat.
+Just as Jin had told him when the cold spearhead pierced his throat.
 
 “…Go to hell.”
 
@@ -73,7 +73,7 @@ Jin spat out the words and gripped the spear shaft. He twisted it hard, cutting 
 
 A jet of green blood erupted as Michael Silbert’s head came free of his body and rolled across a pool of blood.
 
-At the same moment, as if on cue, a tremendous roar erupted. No—it was both a roar and a cheer.
+As if on cue, a tremendous noise broke out. No—it was both a roar and a cheer.
 
 *Boom! Boom-boom-boom!*
 
@@ -105,7 +105,7 @@ The Skeleton King put a hand on Jin’s shoulder.
 
 “…!”
 
-“So stop bawling like an idiot. No one is blaming you or holding you responsible.”
+“So stop bawling like an idiot. No one blames you.”
 
 Jin fell silent at those prickly but warm words.
 
@@ -119,9 +119,9 @@ Then, amid the endless cheering and rumbling, he let out a wry chuckle.
 
 “…!”
 
-“What are you looking at? Keep your eyes nice and polite.”
+“What are you looking at? Watch those eyes.”
 
-The Skeleton King had been quietly hoping for a response, though he’d tried not to show it. Now, he muttered with a stunned look on his face.
+The Skeleton King had been hoping for a response, though he’d tried not to show it. Now he stared at Jin in shock.
 
 “Is this truly what human nature is like…?”
 
@@ -167,7 +167,7 @@ There was the world’s condemnation, growing harsher by the day. There were the
 
 Jin had fought himself, and he had fought the world.
 
-Now that he’d finally defeated Michael Silbert, even standing still demanded superhuman patience.
+Now that he’d finally defeated Michael Silbert, even standing upright demanded superhuman endurance.
 
 But…
 
@@ -185,7 +185,7 @@ Sirens had begun to mingle with the cheers, drawing closer. He couldn’t collap
 
 *Thud.*
 
-Using the spear he’d driven into the ground as a cane, Jin Taekyung leaned against it and murmured in a voice that seemed about to fade away.
+Jin drove his spear into the ground and leaned on it like a cane. His voice was barely audible.
 
 “Thanks so fucking much, Assistant Hwang, you son of a bitch…”
 
@@ -229,7 +229,7 @@ He didn’t want to wake his friend, who had fallen into a deep sleep as if he�
 
 Perhaps everyone felt the same.
 
-As if they’d never cheered at all, the hundreds of Hunters pressed their lips together in silence and simply looked on.
+The hundreds of Hunters, who had been cheering only moments ago, fell silent as if by agreement. They simply watched.
 
 They watched the young man who had been braver and shone brighter than anyone else here today.
 
@@ -261,21 +261,21 @@ The moment that short word filled their minds, everyone there was overcome by a 
 
 Hero. They knew the word all too well.
 
-At some point, the whole world had begun calling them heroes. One ordinary day, they’d gained unexpected powers, fought monsters, and become humanity’s sword and shield.
+For years, the whole world had called them heroes. On what had seemed an ordinary day, they’d gained unexpected powers. They’d fought monsters and become humanity’s sword and shield.
 
 But why?
 
-Why did that word, heard so often it had nearly worn grooves in their ears, make their hearts swell like this?
+Why did a word they’d heard a thousand times make their hearts swell now?
 
 Why did looking back leave them both ashamed and choked with emotion?
 
 One image kept coming back to them: the look in Jin’s eyes as he shouted the truth without fear, surrounded by hundreds of weapons.
 
-And the sight of a young man weeping alone, while everyone cheered at the end of the fierce battle.
+And another: a young man weeping alone while everyone else cheered at the end of the battle.
 
 Perhaps that was why the reinforcements entering the ruined National Assembly stopped without realizing it and held their breath.
 
-And why, in a silence so deep it seemed you could hear a needle drop, someone let out the breath they’d been holding.
+And why, in a silence so complete a falling needle might have been heard, someone let out the breath he’d been holding.
 
 “Fuck.”
 
@@ -319,13 +319,11 @@ He wondered for a moment what expression His Majesty the King—his father—wou
 
 With everyone watching, Felix slowly crossed the ruined chamber and stopped.
 
-Then he spoke without preamble.
-
 “It looks as though you could use another pair of hands. If you don’t mind, may I help?”
 
-At Prince Felix’s most courteous offer yet, the Skeleton King nodded. He was supporting Jin Taekyung, who had collapsed into sleep against the spear shaft.
+At Felix’s unusually courteous offer, the Skeleton King nodded. He was supporting Jin, who had fallen asleep against the spear shaft.
 
-“If you wish, then do so, human prince.”
+“If you wish, human prince.”
 
 Felix’s reply astonished everyone nearby.
 
@@ -343,7 +341,7 @@ Choi Minwoo answered calmly, and more hands joined them.
 
 One trembling hand belonged to Chuck Hagel, who was already acting as though he were going through withdrawal. The small hand covered in unusually thick calluses belonged to Pai Chen.
 
-As for Magic Johnson, he stared at the staff in his hand for a moment, then suddenly grinned.
+Magic Johnson stared at the staff in his hand for a moment, then grinned.
 
 “Sometimes everything I’ve learned feels useless. Like right now.”
 
@@ -351,7 +349,7 @@ He tucked the staff away and strode over to lend a hand.
 
 At first glance, it made no sense.
 
-A Grand Mage who had mastered hundreds of spells, and the finest Hunters, capable of slicing through tons of concrete in an instant, had all gathered to lift one young man.
+A Grand Mage who had mastered hundreds of spells and Hunters capable of slicing through tons of concrete in a single stroke had all gathered to lift one young man.
 
 But this was how they chose to show him their respect.
 
@@ -365,7 +363,7 @@ Careful not to disturb the peace that had finally found him, if only for a littl
 
 When they laid Jin down on the ground, everyone realized something.
 
-The inaugural ceremony of the New World Hunter Federation, which would be recorded in the history of humanity, was not over yet.
+The inaugural ceremony of the new World Hunter Federation—a ceremony that would go down in human history—wasn’t over yet.
 
 The young man before them would be both the beginning and the end of the Great War to come.
 
@@ -375,9 +373,9 @@ The cold scrape of steel cut through the silence.
 
 A sword slid slowly from its sheath and pointed toward the sky.
 
-Soon, countless weapons—dozens, then hundreds—glinted in the sunset streaming through the shattered stained glass.
+Then dozens of weapons rose, then hundreds, glinting in the sunset that streamed through the shattered stained glass.
 
-In the ruins, steeped in the reddish warmth of flames, they were turned toward the young man immersed in an unbreakable peace.
+There in the ruins, bathed in warmth as red as fire, lay a young man at peace where no one could disturb him.
 
 Their weapons pointed toward him.
 
