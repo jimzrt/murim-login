@@ -10,7 +10,7 @@ The first thing to greet them was a wary shout.
 
 “Stop!”
 
-At the shout from atop the stone wall, a dozen or so arrows flashed through the air and pierced the plumes on the horsemen’s helmets.
+In the next instant, a dozen or so arrows flashed from atop the wall and pierced the brims of the riders’ helmets.
 
 Shaaak! Thunk, thunk, thunk!
 
@@ -20,15 +20,15 @@ A mistake?
 
 No. A warning.
 
-If they ignored the warning and came any closer, the next arrows would pierce their throats instead of their helmet plumes.
+If they came any closer, the next volley would pierce their throats instead of their helmet brims.
 
 “Gasp…!”
 
-Sighs erupted from all around.
+Gasps sounded on every side.
 
-The more than twenty horsemen stopped where they stood as if on cue. They couldn’t hide their fear, but the man at their center was different.
+As if on cue, the horsemen stopped in place. None could hide his fear—except the man at their center.
 
-*As expected. The reputation is well deserved.*
+*The reputation is well deserved.*
 
 He looked up at the wall, admiration and tension mingling in his eyes. A group of archers stood there with bows drawn, backlit by the early morning sun.
 
@@ -66,15 +66,15 @@ The man had plainly been picking a fight, yet somehow the captain didn’t feel 
 
 *Who is he?*
 
-For a moment, the Captain of the Guards forgot his mission and studied the man in front of him.
+For a moment, the captain forgot his mission and studied the man before him.
 
 He wasn’t quite a giant, but he had a sturdy, well-proportioned build and a face that looked around forty. So far, he could have been any martial artist in Murim.
 
-But his gaze was so piercing it bordered on menacing. Even the Captain of the Guards, who’d seen all sorts of people since his days as a wandering martial artist, flinched.
+His eyes were another matter. Their piercing gaze bordered on menacing. Even the captain, who’d encountered every kind of person since his days as a wandering martial artist, flinched.
 
 *And he’s bald.*
 
-The Captain of the Guards saw the middle-aged man’s scalp gleaming in the sunlight and sensed danger.
+The captain saw the middle-aged man’s head gleaming in the sunlight and sensed danger.
 
 In his experience, most martial artists were missing something important. Why would anyone who was carefree and happy throw himself into the brutal, turbulent martial world?
 
@@ -88,11 +88,11 @@ The captain jumped and answered on reflex. He’d slipped from polite speech int
 
 “You know me?”
 
-“N-no.”
+“N-no, Sir.”
 
-“Then why are you staring at my head like that? It’s making me uncomfortable.”
+“Then why are you staring at my head when we’ve only just met? It pisses me off.”
 
-It was hard to say which was ruder: calling someone “you” and “that bastard” the moment you met, or staring at his head. But for the Captain of the Guards, who’d already sensed danger, there was only one option left.
+The captain couldn’t say which was ruder: calling a stranger a bastard or staring at his head. But he’d already sensed danger, and he had only one choice.
 
 “I-I’m sorry.”
 
@@ -126,25 +126,25 @@ The captain, already on edge, stared at him. Two things startled him: the Divine
 
 “Because the City Lord is ill?”
 
-“Yes. I don’t know if you’ve already heard, but… We’re here to treat the City Lord’s illness.”
+“Yes. I don’t know if you’ve heard, but… we’re seeking treatment for His Lordship.”
 
 “Surely you have plenty of physicians.”
 
 “That…”
 
-The Captain of the Guards hesitated for a moment, but not for long.
+The captain hesitated, though not for long.
 
 He didn’t know who the man before him was, but he was clearly someone of considerable standing in Murim. He’d inserted himself into a meeting arranged by the Family Head of the Sichuan Tang Clan as though it were nothing. However badly the clan had been struck, challenging the authority of Tang Sadok, the Myriad-Poison Asura, took more than nerve. It took madness.
 
-And then Jeok Cheongang spoke one sentence, enough to make the Captain of the Guards the most honest man in the world.
+Jeok Cheongang’s next words were enough to make the captain the most honest man in the world.
 
-“You don’t have to force yourself to talk. Once you’ve been beaten senseless, you’ll start remembering things you’d forgotten.”
+“You don’t have to force yourself to talk. After I beat you senseless, even things you’ve forgotten will come back to you.”
 
 “…!”
 
 “I must be seeing things. Your mouth still looks shut.”
 
-Deeply grateful that his subordinates weren’t here, the Captain of the Guards hurriedly opened his mouth.
+Deeply grateful that his subordinates weren’t there to watch, the captain hurried to speak.
 
 “The City Lord’s condition is that serious.”
 
@@ -152,7 +152,7 @@ Deeply grateful that his subordinates weren’t here, the Captain of the Guards 
 
 “Pardon?”
 
-“That answer was worth five hits. I’ll take one off for every proper answer you give from now on.”
+“That answer earned you five hits. I’ll take one off for every proper answer you give.”
 
 *Is he insane?*
 
@@ -162,7 +162,7 @@ Jeok Cheongang hadn’t so much as blinked while making the threat. The captain�
 
 Jeok Cheongang spread the fingers of one hand. The captain forced out his answer.
 
-“It’s quite different from what people say. Even the renowned physicians nearby have given up.”
+“It’s far worse than people know. Even the best physicians in the area have given up.”
 
 “So you need the Divine Physician?”
 
@@ -178,11 +178,11 @@ The captain licked his dry lips before continuing.
 
 “Strange…”
 
-Jeok Cheongang murmured and folded one finger.
+Jeok Cheongang folded one finger.
 
 “Four. Go on.”
 
-“Sometimes he’s conscious and can move about, but at other times he thrashes around like someone who’s gone mad.”
+“Sometimes he’s clearheaded and can move about. Other times, he rages like a madman.”
 
 “Rather than *like* a madman, hasn’t he simply gone mad?”
 
@@ -190,7 +190,7 @@ Jeok Cheongang murmured and folded one finger.
 
 “The Imperial Capital?”
 
-“Yes. He was summoned to court over the Blood Tragedy that happened four months ago.”
+“Yes. The court summoned him over the Blood Tragedy four months ago.”
 
 The Sichuan Blood Tragedy had caused an enormous upheaval, even to an outsider with no ties to Murim. The authorities and Murim might have kept out of each other’s affairs, but an event of that scale was bound to have repercussions.
 
@@ -198,7 +198,7 @@ More than ten thousand martial artists had fought in Sichuan, territory of the G
 
 “Word spread quickly. It happened not far from Chengdu, and there were too many witnesses for it not to. But the biggest problem was…”
 
-Jeok Cheongang, who’d been listening quietly, tossed out a single word.
+Jeok Cheongang, who’d been listening quietly, supplied the answer.
 
 “Dark Heaven.”
 
@@ -214,7 +214,7 @@ Dark Heaven had done just that. Disguised as government soldiers, they’d walke
 
 *Which means…*
 
-Jeok Cheongang sorted through his tangled thoughts and spoke.
+Jeok Cheongang sorted through his thoughts.
 
 “This is more interesting than I expected. Fine. Three. Keep going.”
 
@@ -222,7 +222,7 @@ Jeok Cheongang sorted through his tangled thoughts and spoke.
 
 “The higher-ups must have given him a thorough dressing-down.”
 
-“The court’s reprimand was part of it, but he also fell ill because he lost what he cherished most in the Imperial Capital.”
+“The court reprimanded him, yes. But he also lost what he cherished most while he was in the Imperial Capital.”
 
 “What he cherished most?”
 
@@ -244,7 +244,7 @@ The captain gave that brief answer, then fixed his gaze on Jeok Cheongang’s th
 
 “Fine. One.”
 
-The Captain of the Guards stared at the last finger still raised and swallowed hard before speaking.
+The captain stared at the last raised finger and swallowed hard.
 
 “His favored concubine.”
 
@@ -254,7 +254,7 @@ The Captain of the Guards stared at the last finger still raised and swallowed h
 
 “If he took her all the way to the Imperial Capital in the middle of that mess, I get the idea. So what, did he lose her in the street?”
 
-“No. To be precise, a high-ranking person in the Imperial Capital took her from him.”
+“No. To be precise, someone important in the Imperial Capital took her from him.”
 
 “Important enough to take the City Lord’s concubine. Who?”
 

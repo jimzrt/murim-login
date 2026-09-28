@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "The more than twenty horsemen stopped where they stood as if on cue.",
+      "defect": "“More than twenty” asserts a number above twenty, while 이십여 기 means about twenty. The same quantity is rendered as “Some twenty” earlier in the scene.",
+      "id": "F01",
+      "rationale": "The Korean repeats 이십여 기; the English should preserve the approximate quantity consistently rather than make the second mention a definite lower bound.",
+      "replacement": "The twenty-odd horsemen stopped where they stood as if on cue.",
+      "severity": "minor",
+      "source": "Lines 37; 7: 이십여 기"
+    }
+  ],
+  "summary": "The chapter is largely faithful. One repeated quantity is rendered more narrowly than the Korean supports.",
+  "version": 1
+}
