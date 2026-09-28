@@ -2,7 +2,7 @@
 
 “My name is Stone King, you hideous monster.”
 
-The moment he spat out those words as if biting them off, the Skeleton King finally understood.
+The moment he spat out those words, the Skeleton King finally understood.
 
 He had found the answer to the question that had tormented him for so long.
 
@@ -12,13 +12,11 @@ And the question that had bound his body and mind like a chain.
 
 *Who am I?*
 
-No matter how hard he’d thought about it, he’d never found an answer. But the answer had been there all along, within the Skeleton King himself.
+No matter how long he’d searched, he’d never found an answer. Yet it had been within him all along.
 
 *So that’s it.*
 
-The Skeleton King muttered to himself.
-
-In the black eyes he saw over a man’s shoulder, the radiance cast by his golden crown was reflected.
+The Skeleton King spoke the words silently. In the black eyes he could see over a man’s shoulder, the light from his golden crown was reflected.
 
 “What, exactly, did you want to become?”
 
@@ -56,11 +54,11 @@ Fear that, to the people he had begun to talk with, share his feelings with, and
 
 He still believed it. Otherwise, he would never have considered sacrificing himself here today.
 
-The Skeleton King didn’t want the humans he cared about to fall before the world did.
+The Skeleton King didn’t want the humans he cared about to fall before their world did.
 
 Humans were more complicated than he’d imagined. Some harbored terrible rage and killing intent, as monsters did—or worse.
 
-But humans also knew restraint and love. They thought and acted according to their own will.
+But humans also knew restraint and love. They thought and acted of their own free will.
 
 When petty disputes left countless people dead or injured, when children still little more than infants were abandoned in the street, it was humans who took those children into their arms.
 
@@ -72,7 +70,7 @@ But…
 
 “Not anymore.”
 
-The Skeleton King murmured calmly and gripped the horn piercing the back of his hand.
+The Skeleton King spoke quietly and gripped the horn piercing the back of his hand.
 
 *Crack.*
 
@@ -116,7 +114,7 @@ I didn’t know what to say.
 
 Should I laugh at the bastard for finally coming to his senses? Get angry? Or smack him upside the head as hard as I could, like I usually did?
 
-Like someone who’d forgotten how to speak, I sank into a brief but deep debate before suddenly opening my mouth.
+For a brief moment, I stood there as if I’d forgotten how to speak. Then I opened my mouth.
 
 “Golgoli, you stupid son of a bitch.”
 
@@ -142,7 +140,7 @@ As if a stone had lifted from my chest. As if the last bit of distance between u
 
 Yeah. That was enough.
 
-Feeling lighter, I threw a punch.
+I threw a punch.
 
 *Thwack!*
 
@@ -160,7 +158,7 @@ I hit him until blood or tears ran down his cheeks from eyes veined with burst c
 
 I kept hitting him. Breaking him. Crushing him.
 
-Every time I moved, every time my fists and feet slammed into him, the lingering aftermath of One Annihilation sent excruciating pain through my whole body. But I didn’t care.
+Every movement, every blow from my fists and feet sent the lingering pain of One Annihilation tearing through my body. I didn’t care.
 
 If someone hadn’t grabbed my wrist, I might have beaten Michael Silbert to death right there.
 
@@ -174,13 +172,13 @@ I turned without thinking and blinked. Team Leader Choi stood there, drenched fr
 
 No. Everyone was there.
 
-“Jin, it’s over. It’s finally… finally over.”
+“Jin, it’s over. It’s finally… over.”
 
 Magic Johnson approached with Chuck Hagel supporting him. He smiled weakly, but there was no joy in it, despite their victory in a battle that had decided their fate.
 
 After killing people who had once been his comrades, the hero’s smile was dark and bitter.
 
-Just like the silence that had settled over us, and everyone surrounding me.
+The others surrounding me looked much the same.
 
 “Oh.”
 
@@ -190,9 +188,9 @@ Only then did I raise my head and look around. Everything they’d said was true
 
 *Whoooosh.*
 
-A wind heavy with the smell of blood swept past.
+A wind thick with the smell of blood blew through the chamber.
 
-Pools of blood on the floor soaked our shoes. The enormous Round Table, once a symbol of the heroes who had saved the world, had been shattered, leaving only ruins behind.
+Everywhere I looked lay ownerless weapons and bodies. Pools of blood soaked my shoes. The enormous Round Table, once a symbol of the heroes who had saved the world, had been smashed to pieces.
 
 Yeah. It was over.
 
@@ -218,9 +216,9 @@ One of the two people at the front—a young man who still had peach fuzz on his
 
 “We killed or captured them all. We took more casualties than expected because of a man named Huginn, but we joined forces with the Peace and Ares Guilds and subdued him. Then we dispelled the illusion magic around the area and notified the Korean government a little while ago. Oh, and Mr. Shu here played a major part.”
 
-“You’ve both worked hard. It would have been a difficult fight if you hadn’t trusted us and helped.”
+“Thank you both for your hard work. If you hadn’t trusted us and helped, this would have been a difficult fight.”
 
-At Team Leader Choi’s heartfelt words, the man in his thirties whom the young man had called “Mr. Shu” shook his head.
+The man in his thirties whom the young Hunter had called “Mr. Shu” shook his head.
 
 “I only trusted the Übermensch’s judgment and his choice. What I saw of him that day in Munich… He was a true superhuman.”
 
@@ -246,25 +244,23 @@ I’d been right.
 
 Michael Silbert might have guarded against things going wrong, but part of him had been certain he would win.
 
-If he’d been acting like himself, he would have chosen France—his stronghold—or somewhere else with a firm support base, instead of Seoul, for the inaugural ceremony.
+Otherwise, he would have held the inaugural ceremony in France, his stronghold, or somewhere else where his support was secure—not Seoul.
 
 But that small lapse, that petty desire to stamp his name on this historic place, had brought down his vast ambition.
 
-I could hear it clearly.
+And now I could hear it.
 
 “We’ve won.”
 
-Along with Team Leader Choi’s words, echoing through the silent air, someone’s hideous ambition crumbled to pieces.
+Team Leader Choi’s words rang through the still air. With them, I could almost hear someone’s hideous ambition crumbling to pieces.
 
 I knew what I had left to do.
 
 *…Yeah.*
 
-To end everything, I had to erase the starting line where it all began.
+To end everything, I had to erase the place where it had all begun.
 
-Just as we had executed the traitors here today, the people who would have stood in the way of the great war to come.
-
-I had to pull out the root. Otherwise, new weeds—and offshoots of this thorn tree—would keep growing.
+We had dealt with the traitors here today, people who would have stood in our way during the great war to come. Now we had to pull out the root, so that no new weeds—or offshoots of this thorn tree—could grow.
 
 *Michael Silbert.*
 
@@ -276,17 +272,15 @@ Michael Silbert came to, blood surging from his mouth. He looked around with ble
 
 “So… that’s how it ended.”
 
-His voice was fading, but his tone was composed.
+His voice was faint, but his tone was composed.
 
-He had probably realized it instinctively the moment he looked around.
-
-That Huginn, his right-hand man, and the private army he had spent so many years training would never make it here.
+The moment he looked around, he must have known. Huginn, his right-hand man, and the private force he’d spent so many years raising would never make it here.
 
 “Did you kill them all?”
 
 I answered evenly.
 
-“The ones who were going to die died. The ones who were going to live lived.”
+“Those who had to die died. Those who could live lived.”
 
 “Huginn must be among the latter. You’ll have plenty to ask him.”
 
@@ -302,11 +296,11 @@ That simple word suddenly made me sick. I kicked him in the face.
 
 His head snapped aside, spraying blood.
 
-But maybe he couldn’t feel pain anymore. Without so much as a groan, Michael Silbert spat the blood filling his mouth and stubbornly continued.
+Maybe he couldn’t feel pain anymore. Without so much as a groan, Michael Silbert spat out a mouthful of blood and kept talking.
 
 “Tell Huginn I’m grateful for everything he’s done, and that he no longer needs to be loyal to me. Grant me that favor, and it will be easier for both of you. You can at least spare yourselves a messy, tedious round of torture and interrogation.”
 
-“Is that a kindness for a retainer who’s been loyal his whole life, or your last words?”
+“Is that consideration for a man who’s served you all his life, or your dying wish?”
 
 “Both, I suppose. From the look in your eyes, this place will be my grave soon.”
 
@@ -316,13 +310,13 @@ And I knew, more certainly than ever, that I couldn’t leave him the slightest 
 
 The law? A trial?
 
-Those institutions were made for humans, not monsters.
+Those were made for humans, not monsters.
 
-So they could never struggle again. So that even the tiniest chance of the tumors he’d planted in this land over the past several decades saving that monster would disappear.
+A monster should die like a monster. He could never be allowed to struggle free again. Not when the tumors he’d planted throughout this world over the past several decades might find even the smallest way to save him.
 
 Yet this was also a lawful judgment.
 
-Everyone here had witnessed the truth and fought through the bloodshed. They were witnesses and jurors, prosecutors and judges.
+Everyone here had seen the truth and fought through the bloodshed. They were witnesses and jurors, prosecutors and judges.
 
 And from this moment on, they and I would finally become *us*.
 
@@ -330,15 +324,13 @@ Race. Sex. Age. Borders.
 
 Even species would cease to divide us as we stood under one banner.
 
-In the name of the World Hunter Federation.
+The World Hunter Federation.
 
 “Michael Silbert.”
 
 My voice broke the silence. Though I put no internal energy behind it, it carried through the chamber, clear and steady.
 
-Loudly and clearly. On and on.
-
-“From this moment forward, the World Hunter Federation revokes all your qualifications and summarily executes you as a traitor. Anyone who objects, step forward.”
+“Effective immediately, the World Hunter Federation revokes every qualification granted to you and sentences you, a traitor, to summary execution. Anyone who objects, step forward.”
 
 Team Leader Choi answered at once.
 
@@ -368,13 +360,13 @@ To the World Hunter Federation’s first resolution.
 
 To the death of a traitor born human who had become a monster.
 
-Amid the deep resonance that rang on and on, I stared at Michael Silbert and asked,
+As the sound continued to roll through the chamber, I stared at Michael Silbert.
 
 “Any objections?”
 
 After a moment’s silence, he answered.
 
-“None. At first, I fought with all my strength to survive. After that, I fought to get what I wanted.”
+“None. At first, I struggled with all my strength to survive. After that, to possess what I wanted.”
 
 “Any last words?”
 
@@ -382,17 +374,17 @@ After a moment’s silence, he answered.
 
 I raised my spear as his mocking words reached me. The shaft felt heavier than it ever had before.
 
-Then, in front of hundreds of pairs of eyes, I drove the spearhead down with all my strength.
+Then, before hundreds of watching eyes, I drove the spearhead down.
 
-*Thrust!*
+*Thnk!*
 
-The spearhead pierced straight through his throat.
+The blade cut into his throat.
 
 A strangled sound failed to make it past his lips. Michael Silbert’s body went rigid.
 
-I looked into the monster’s eyes as life quickly drained away, then delivered the last words I’d put off until now.
+I watched the life drain from the monster’s eyes, then gave him the last words I’d held back until now.
 
-“Just like you said, watch closely. Not from up above—from the very bottom, beneath my feet.”
+“Like you said, watch closely. Not from up above. From the bottom, beneath my feet.”
 
 “……!”
 
@@ -402,4 +394,4 @@ Maybe both.
 
 *Ding. Ding. Ding.*
 
-Countless chimes and radiance welled up inside me.
+Countless chimes and a flood of radiance welled up inside me.
