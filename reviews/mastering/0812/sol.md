@@ -38,7 +38,7 @@ Magic Johnson fell silent for a moment, then gave a quiet laugh.
 
 “You’re right, Jin. I didn’t know you were so good with words.”
 
-“I’ve noticed this now and then, but test scores and running your mouth are two different things.”
+“I’ve noticed test scores and running your mouth are two different things.”
 
 Jin smiled faintly along with him, then called out a name.
 
@@ -94,7 +94,7 @@ That night, the beat-up capsule had tossed the fool who’d been reckless enough
 
 Jin didn’t wait for an answer.
 
-The faint smile had vanished from his lips. They were now as rough and hard as the rock Magic Johnson sat on.
+Even his faint smile was gone. His mouth was as hard as the rock Magic Johnson sat on.
 
 “After going through so many things I couldn’t have imagined, my imagination still barely improves.”
 
@@ -102,7 +102,7 @@ A being called the Demon King had descended upon Earth. Countless monsters had b
 
 Humanity had won after five years of the Great War, then built an even more brilliant and vast civilization.
 
-Impossible things. And yet, they’d happened to everyone just a few decades ago.
+Impossible things. And yet, they’d happened just a few decades ago.
 
 Jin hadn’t lived through that era, but he’d crossed dimensions, traveled between two worlds, and gained no shortage of experience.
 
@@ -180,7 +180,7 @@ Jin scratched his chin with the dagger. A week without shaving had left him with
 
 *Shhk.*
 
-The instant a drop of blood rolled from the tip of his chin, where the blade had nicked him, a chilly voice pierced everyone’s ears.
+A drop of blood rolled from the nick on his chin. His voice turned cold.
 
 “For more than thirty years, there has been only one Muninn.”
 
@@ -198,7 +198,7 @@ Yamamoto Genji, who had been listening with wide eyes, let his mouth fall open.
 
 “Yeah. The Prophet taught Michael Silbert how to handle magical power, and they worked together toward their own goals. He must’ve been incredibly powerful even thirty years ago.”
 
-The scattered pieces began to fall into place, one by one. Jin Taekyung’s voice became an unseen hand, feeling its way over countless pieces.
+The scattered pieces began to fall into place, one by one. Jin’s voice became an unseen hand feeling its way over them.
 
 One. Two. Three. Ten.
 
@@ -244,7 +244,7 @@ Magic Johnson raised his staff as he answered.
 
 The Magic Gem at the tip of the staff began to vibrate. It was an S-rank Magic Gem, obtained by killing a monster that had slaughtered an entire city on its own during the Great Cataclysm.
 
-Feeling the enormous flow of mana surging with the wind, Jin Taekyung suddenly spoke.
+Jin felt the enormous flow of mana surging with the wind.
 
 “Do you remember what you said earlier?”
 
@@ -254,7 +254,7 @@ Magic Johnson gave a heavy nod.
 
 “You were right. I’m only human, so I couldn’t help thinking subjectively.”
 
-“Everyone does. He’s a bit of an unusual case, but that friend is the same.”
+“Everyone does. He’s a bit of an unusual case, but that friend of yours is the same.”
 
 Magic Johnson gestured with his chin behind him.
 
@@ -268,7 +268,7 @@ Beyond the Skeleton King, who wore a golden crown made of magical power, hundred
 
 “Yes, but…”
 
-Jin Taekyung raised the dagger in his hand and continued.
+Jin raised the dagger in his hand.
 
 “It wasn’t just a subjective judgment.”
 

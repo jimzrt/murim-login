@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled copy contains a few minor shifts in attribution, implication, and physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 17, 23",
+      "current": "Johnson’s lips silently formed the name.",
+      "defect": "The English assigns the silently moving lips to Johnson. The Korean leaves the speaker unattributed; the accepted baseline also preserves that ambiguity.",
+      "replacement": "Silently moving lips murmured the figure’s identity.",
+      "rationale": "The Korean says that silently moving lips mutter the figure’s identity without naming whose lips they are.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 17",
+      "current": "Magic Johnson stared at him, apparently unable to understand why the air had suddenly grown so heavy. Then he turned his head.",
+      "defect": "The English specifies that Johnson does not understand why the air grew heavy. The Korean says he looks at Jin as if unable to understand, without specifying what he does not understand.",
+      "replacement": "In the suddenly heavy air, Magic Johnson stared at Jin as if he couldn’t understand him. Then he turned his head.",
+      "rationale": "The Korean separates the heavy air from Johnson’s incomprehending look at Jin; it does not state that he is puzzled by the change in the air.",
+      "confidence": 0.82
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 7",
+      "current": "Jin Taekyung felt the earth crumble beneath his foot and wondered why his footsteps sounded so loud. Was it the depth of the night? Or was it because every nerve in his body was on edge?",
+      "defect": "The translation drops the weight-bearing toe detail in the opening image, which the accepted baseline preserved.",
+      "replacement": "Jin Taekyung felt the earth crumble beneath the weight of his foot and wondered why his footsteps sounded so loud. Was it the depth of the night? Or was it because every nerve in his body was on edge?",
+      "rationale": "The Korean describes earth being crushed under the weight of his foot’s tip; the English only places the earth beneath his foot.",
+      "confidence": 0.78
+    }
+  ]
+}

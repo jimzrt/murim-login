@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.82,
+      "current": "Magic Johnson stared at him, apparently unable to understand why the air had suddenly grown so heavy. Then he turned his head.",
+      "defect": "The English specifies that Johnson does not understand why the air grew heavy. The Korean says he looks at Jin as if unable to understand, without specifying what he does not understand.",
+      "id": "F02",
+      "rationale": "The Korean separates the heavy air from Johnson’s incomprehending look at Jin; it does not state that he is puzzled by the change in the air.",
+      "replacement": "In the suddenly heavy air, Magic Johnson stared at Jin as if he couldn’t understand him. Then he turned his head.",
+      "severity": "minor",
+      "source": "Line 17"
+    },
+    {
+      "confidence": 0.78,
+      "current": "Jin Taekyung felt the earth crumble beneath his foot and wondered why his footsteps sounded so loud. Was it the depth of the night? Or was it because every nerve in his body was on edge?",
+      "defect": "The translation drops the weight-bearing toe detail in the opening image, which the accepted baseline preserved.",
+      "id": "F03",
+      "rationale": "The Korean describes earth being crushed under the weight of his foot’s tip; the English only places the earth beneath his foot.",
+      "replacement": "Jin Taekyung felt the earth crumble beneath the weight of his foot and wondered why his footsteps sounded so loud. Was it the depth of the night? Or was it because every nerve in his body was on edge?",
+      "severity": "minor",
+      "source": "Line 7"
+    }
+  ],
+  "summary": "The assembled copy contains a few minor shifts in attribution, implication, and physical detail.",
+  "version": 1
+}
