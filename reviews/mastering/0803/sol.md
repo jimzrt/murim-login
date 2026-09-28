@@ -24,7 +24,7 @@ God must have been enraged.
 
 Otherwise, He would not have unleashed a great flood called the Great Cataclysm.
 
-Sending the great Prophet down to this land and commanding him to punish them surely meant that he was to punish humanity’s arrogance on God’s behalf.
+Surely, sending the great Prophet to this land to punish them meant that the Prophet was to judge humanity’s arrogance on His behalf.
 
 “Do you not think so too, sinful infidel?”
 
@@ -50,7 +50,7 @@ His sword flew faster than ever before, its blade blazing with aura.
 
 *Shhk!*
 
-A flash came out of nowhere, cleaving both the aura-wreathed sword and its wielder in two.
+A sudden flash cleaved through the aura-wreathed sword and its wielder alike.
 
 *Splatter!*
 
@@ -102,7 +102,7 @@ A vast cloud of sand swept across the desert.
 
 * * *
 
-If this world were a chessboard, what would my role be?
+If this world were a chessboard, what piece would I be?
 
 A pawn that could only move forward?
 
@@ -114,7 +114,7 @@ Maybe a rook moving in straight lines, a queen with the combined reach of a bish
 
 Honestly, I didn’t know.
 
-Even now, as the Alliance Leader of the World Hunter Federation, even with everyone in the world knowing who I was, I still didn’t know exactly where I stood.
+Even now that I was Alliance Leader of the World Hunter Federation, even with everyone in the world knowing my name, I still didn’t know exactly where I stood. Or what I could and couldn’t do on this chessboard.
 
 But one thing I could say for sure.
 
@@ -130,7 +130,7 @@ Flesh and bone burst apart before the spearhead even touched them. A Troll with 
 
 “Damn it! How many times do I have to tell you? Kill them like that and I can barely use them as undead!”
 
-Instead of answering, I twisted my body.
+Instead of answering, I twisted aside.
 
 *Whoom. Boom!*
 
@@ -190,7 +190,7 @@ The wind that had always struck me head-on now slipped gently past.
 
 I felt as though I were floating through the air in zero gravity.
 
-Of course, I couldn’t claim I’d perfectly copied the Slaughter Saint’s personal martial art just by doing this much. But for dealing with these bastards right now, this much was enough.
+Of course, I couldn’t claim I’d mastered the Slaughter Saint’s personal martial art from this much. But this much was enough to deal with the bastards in front of me.
 
 *Shhk, shhk, shhk!*
 
@@ -250,9 +250,9 @@ A monster screamed as its throat was torn out.
 
 The undead that had done it, already missing an arm and a leg, was ripped to shreds by enraged monsters. That didn’t matter either.
 
-Thanks to that, I—
+It had bought me—
 
-No, we—had bought a little more time.
+No, *us*—a little more time.
 
 “Fire!”
 
@@ -264,7 +264,7 @@ No, we—had bought a little more time.
 
 Countless bolts of lightning and tongues of flame streaked through the air.
 
-Behind the enormous transport vehicle blocking the way like a barricade, the monsters packed in so tightly there wasn’t a gap—like the first day of an E-Mart Black Friday sale—had no choice but to take the sudden barrage of attacks head-on.
+Beyond the enormous transport vehicles blocking their path like barricades, the monsters were packed as tightly as shoppers at E-Mart on the first day of Black Friday. They took the sudden barrage head-on.
 
 *Crackle. KRAAAASH!*
 
@@ -312,8 +312,8 @@ Until we took them down, neither this battle nor the war would end.
 
 *This fight… is only just beginning.*
 
-And at that moment, just as I muttered those words deep in my heart—
+At that very moment, as the thought passed through my mind—
 
 *Thud. Thud. Thuuum.*
 
-An immense magical power surged from far away, making the desert tremble.
+Immense magical power reached us from far away and began to shake the desert.

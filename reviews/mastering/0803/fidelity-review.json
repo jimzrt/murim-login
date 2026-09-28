@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "I slipped among the monsters like mist, my daggers stabbing and slashing in flashes.",
+      "defect": "The Korean makes the two daggers seep in like mist; the assembled English applies that image to the narrator slipping among the monsters, changing who or what moves like mist.",
+      "id": "F01",
+      "rationale": "The Korean sentence makes the daggers the subject of both the mist-like approach and the flash-like strikes. The accepted baseline preserves that distinction.",
+      "replacement": "The two daggers seeped in like mist, stabbing and slashing in flashes of light. Dozens of monsters fell, spraying blood.",
+      "severity": "minor",
+      "source": "Chapter 803, line 227"
+    },
+    {
+      "confidence": 0.82,
+      "current": "The undead that had done it, already missing an arm and a leg, was ripped to shreds by enraged monsters.",
+      "defect": "“That had done it” identifies the undead as the one that tore out the monster’s throat. The Korean does not explicitly assign that action to this undead.",
+      "id": "F02",
+      "rationale": "The source separately describes the monster with its throat torn out and the undead body being torn apart; it does not state that the latter caused the former’s injury.",
+      "replacement": "The undead, already missing an arm and a leg, was ripped to shreds by enraged monsters.",
+      "severity": "minor",
+      "source": "Chapter 803, line 275"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful. Two minor additions or shifts affect the action imagery.",
+  "version": 1
+}
