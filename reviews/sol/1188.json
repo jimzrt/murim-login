@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "His only family in the world had died here.",
+      "defect": "“Family” loses Jeok Cheongang’s specific claim that the dead man was his only blood relative.",
+      "id": "F01",
+      "rationale": "피붙이 specifically means a blood relative.",
+      "replacement": "His only blood relative had died here.",
+      "severity": "major",
+      "source": "이곳에서 하나뿐인 피붙이가 죽었다고."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Even after nearly ten years had passed, he still hadn’t made peace with what happened.",
+      "defect": "The draft turns his realization that he was still not emotionally prepared into a claim that he had not accepted the past.",
+      "id": "F02",
+      "rationale": "마음의 준비를 끝내지 못했다 concerns readiness; the source leaves what he is preparing himself for implicit.",
+      "replacement": "Even after nearly ten years, he still wasn’t ready.",
+      "severity": "major",
+      "source": "어언 십 년의 세월이 지났음에도, 그는 여전히 마음의 준비를 끝내지 못했다는 것을."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A vicious little brat who had wandered the world in the distant past, not even knowing his own name.",
+      "defect": "“Vicious” makes the young Jeok Cheongang cruel rather than fiercely tenacious, and the draft omits his begging for food.",
+      "id": "F03",
+      "rationale": "독기 describes his hard-edged determination here; 유리걸식 specifies wandering and begging for food.",
+      "replacement": "A fiercely determined little boy who had wandered the world long ago, begging for food without even knowing his own name.",
+      "severity": "major",
+      "source": "까마득한 옛날, 제 이름조차 알지 못한 채 세상을 떠돌며 유리걸식하던 독기 가득한 꼬마를."
+    },
+    {
+      "confidence": 0.91,
+      "current": "With those words, inaudible to anyone, Jeok Cheongang threw a single punch.",
+      "defect": "“Inaudible to anyone” adds a universal claim where the source only says the words would not be heard.",
+      "id": "F04",
+      "rationale": "The line addresses the disciple Jeok Cheongang is letting go; it does not establish that nobody could hear him.",
+      "replacement": "With those words, which Jangcheon would never hear, Jeok Cheongang threw a single punch.",
+      "severity": "minor",
+      "source": "들리지 않을 그 한마디와 함께, 적천강은 일권(一拳)을 뻗었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "two gazes met in the empty space between them.",
+      "defect": "The draft drops the handspan separating their faces at the moment their eyes meet.",
+      "id": "F05",
+      "rationale": "한 뼘 gives the distance explicitly.",
+      "replacement": "two gazes met across the handspan of empty space between them.",
+      "severity": "minor",
+      "source": "두 개의 시선이 한 뼘 사이의 허공에서 얽혀들었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The foul stench and smell of blood that had been rumbling all around him faded",
+      "defect": "“Rumbling” describes an audible vibration rather than odors filling the air.",
+      "id": "F06",
+      "rationale": "진동하던 describes how pervasively the smells hung in the air, not a sound they made.",
+      "replacement": "Every foul odor and the reek of blood that had filled the air around him faded",
+      "severity": "minor",
+      "source": "사방에서 진동하던 온갖 악취와 피비린내가 희미해지고"
+    }
+  ],
+  "summary": "The draft preserves the scene’s main action, but changes a kinship claim and several details of Jeok Cheongang’s memories and realization.",
+  "version": 1
+}
