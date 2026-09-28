@@ -4,7 +4,7 @@ Even a Supreme Peak master will go down if he gets kicked in the balls. No matte
 
 Blow its head off, or burst its heart.
 
-Of course, there are exceptions to everything.
+Of course, there are exceptions.
 
 Some Trolls can put even a shattered head back together. Golems won’t fall until you destroy the core hidden somewhere inside them.
 
@@ -18,13 +18,13 @@ Not even an S-rank monster that had earned the title of Champion as the stronges
 
 “……”
 
-I looked back and forth between Yamamoto Genji, who was chattering so loudly he was spitting, and the headless body of the EXP… No, the Lycanthrope Champion.
+I looked back and forth between Yamamoto Genji, who was talking so excitedly he was spitting, and the headless body of my EXP… No, the Lycanthrope Champion.
 
 *No, fuck…*
 
 What kind of bullshit was this?
 
-It had been the perfect time to level up. The meal was already laid out in front of me, and some bastard had swooped in and gobbled it all up.
+It had been the perfect time to level up. The meal was already laid out in front of me, and some bastard had swooped in and gobbled it up.
 
 I was so furious my hands and feet felt ready to shake.
 
@@ -56,7 +56,7 @@ That shut Yamamoto Genji up. I gave the command in my head.
 
 *Open Inventory. Summon.*
 
-The System manifested in response to the command.
+The System responded.
 
 *Shk.*
 
@@ -76,15 +76,15 @@ The moment my trembling fingers touched something cold, a clear chime rang out, 
 >
 > Status abnormality **Convulsions** has been removed!
 
-As the chimes rang one after another, my vision cleared and the convulsions stopped.
+As the chimes rang one after another, my vision cleared and the shaking stopped.
 
 The Myriad-Poison Ring had drawn in the poison spreading from my collarbone through the rest of my body. It gleamed with its familiar black light.
 
 *I didn’t level up, but thank God I had the Myriad-Poison Ring.*
 
-It was a good thing I’d ended the fight quickly. The venom the Manticore Lord had carried was truly terrifying.
+It was a good thing I’d ended the fight quickly. The Manticore Lord’s venom was terrifying.
 
-With Scorching Yang Qi, which was the natural enemy of poison, and a top-grade potion, I could have been cured without much difficulty. But a potion ultimately worked by paying in advance with the body’s energy and vitality to maximize its recovery.
+Scorching Yang Qi was the natural enemy of poison, and with a top-grade potion on top of that, I could have cured myself easily enough. But potions maximized the body’s ability to recover by drawing on its stamina and vitality up front.
 
 With so many enemies still out there, a risk-free level-up would have been a hundred times better.
 
@@ -92,19 +92,19 @@ Of course…
 
 “A-are you all right?”
 
-Some bastard had been hanging back, watching for an opening, then rushed in and stole the last hit from me.
+That was out of the question, thanks to a certain bastard who’d hung back watching for an opening, then rushed in to steal the last hit.
 
-“Forget it. Don’t worry about it.”
+“Forget it. Don’t worry about me.”
 
 But what could I do?
 
-The bus had already left, and I didn’t have time to stand at an empty bus stop waiting for the next one and slap Yamamoto Genji across the face.
+The bus had already left. I didn’t have time to stand at an empty bus stop waiting for the next one while slapping Yamamoto Genji across the face.
 
-The one bit of good news amid all the bad was that the Skeleton King was the kind of excellent monster who knew how to finish his assigned job on time.
+The one bit of good news was that the Skeleton King was an excellent monster who knew how to finish his assigned job on time.
 
 *Crack-crunch!*
 
-We’d gotten quite far apart while fighting our respective opponents, but I could clearly see—and hear—the Death Knight, well over two meters tall, crumple along with his armor.
+We’d gotten quite far apart while fighting our respective opponents, but I could clearly see—and hear—the Death Knight, well over two meters tall, crumple inside its armor.
 
 I heard its final scream, too.
 
@@ -122,17 +122,17 @@ He spotted Yamamoto Genji tucked under my arm like a piece of luggage and added,
 
 I agreed. If that little shit had held up the Lycanthrope Champion for even a moment, everything would’ve ended much more smoothly.
 
-But kicking Yamamoto Genji in the joints in the middle of a battle involving thousands—tens of thousands—of fighters would be something only a lunatic would do. If I had time for that, I needed to use it to save one more person.
+But only a lunatic would stop to kick Yamamoto Genji in the shins in the middle of a battle involving thousands—tens of thousands—of fighters. If I had time for that, I needed to spend it saving someone.
 
 “Let’s go.”
 
-With that brief word, I shot forward. My limbs creaked, proof of the fierce battle that had just taken place, and my internal energy was considerably depleted.
+With that, I shot forward. My limbs creaked from the fierce fight I’d just been through, and I’d used up a considerable amount of internal energy.
 
 Even so, I had to go. I had to fight.
 
 *Shweee—BOOM!*
 
-The spearhead of White Flame, sent flying with tremendous force, swept through the rear of the monster army swarming like ants.
+I hurled White Flame with all my strength. Its spearhead swept through the rear of the monster army swarming like ants.
 
 A muffled boom swallowed their screams, and flames burst out, burning the living monsters’ limbs.
 
@@ -172,35 +172,35 @@ White Flame answered my call through the Middle Dantian and flew into my hand.
 
 Its grip had become so familiar that I could recognize it without looking.
 
-As soon as I reclaimed it, I poured in Scorching Yang Qi. The transparent spearhead took on a reddish glow.
+As soon as I caught it, I poured in Scorching Yang Qi. The transparent spearhead took on a reddish glow.
 
 *Fwoosh.*
 
 Flames. Wind. A world moving slowly.
 
-And… the eyes staring blankly at me as I soared through the air, with the entire battlefield laid out below.
+And… eyes staring blankly up at me as I soared above the battlefield.
 
 *Whoosh.*
 
-The wind brushed across my body. Time, which had stopped, gradually returned to its usual pace.
+Wind brushed across my body. Time, which had seemed to stop, gradually resumed its usual pace.
 
 I saw opposite emotions appear in countless wide eyes.
 
-There was joy in some. In others, despair was slowly sinking into reality.
+Joy in some. In others, despair slowly setting in.
 
 Humans and monsters. Monsters and humans.
 
 No one there needed to be told which side felt which.
 
-*Fire Dragon Divine Spear. This form.*
+*Fire Dragon Divine Spear. Second form.*
 
 I drew in a breath.
 
-My body descended slowly, keeping pace with time as I perceived it, while the flame-filled spearhead rose high, as if to pierce the sky.
+My body descended slowly, keeping pace with time as I perceived it, while I raised the flame-wreathed spearhead high enough to pierce the sky.
 
 *Fwoosh.*
 
-At that moment, when the space around me warped under the extreme heat, a massive shadow that had been circling over the Hunters surrounded by monsters shot toward me.
+As the extreme heat warped the air, a massive shadow that had been circling above the surrounded Hunters shot toward me.
 
 —Screee!
 
@@ -212,53 +212,53 @@ I didn’t have to look to sense its approach. Unlike the other monsters, it fle
 
 Yeah. It had to be.
 
-As a flying monster that ranged through the sky as if it owned it, it was one of the most troublesome opponents in its own way.
+A flying monster that roamed the sky as though it owned it. In some ways, it was the most troublesome opponent of all.
 
 But…
 
 *It doesn’t matter.*
 
-Ignoring the Griffins rushing at me with a gale of magical power, I brought the spearhead down.
+I ignored the Griffin leader rushing at me behind its gale of magical power and brought the spearhead down.
 
 Heavenly Strike.
 
 *Whoooooom!*
 
-Flames poured over the spearhead of White Flame, wiping out the gale of magical power rushing toward me and cleaving through space.
+Flames surged along White Flame’s spearhead, wiping out the gale rushing toward me and cleaving through space.
 
 A fierce, razor-sharp slash like a dragon’s claw descended on the center of the tightly packed monster army.
 
 *Fwoosh!*
 
-The heat and flash were so intense they seemed capable of melting everything before they even touched it.
+Heat and light flashed, hot enough to melt them before the strike even landed.
 
 Hellfire engulfed hundreds—perhaps a thousand—monsters and exploded.
 
 *BOOM! Rumble-rumble!*
 
-A rain of fire poured down. Screams and death flowed like lava.
+Fire rained down. Screams and death flowed like lava.
 
-Neither the hides of the upper-level monsters—unmarked even by bullets—nor the quick-footed lower-level ones who sensed danger and tried to flee could escape it.
+The upper-level monsters’ hides, unmarked even by bullets, couldn’t protect them. Neither could the speed of the lower-level monsters that sensed danger and turned to flee.
 
-Death was equal for all the monsters, and the leader of the Griffins watching the scene let out a roar like a scream.
+Death came for them all, and the Griffin leader watching the scene let out a roar like a scream.
 
 —Kyaaaah!
 
 *Whoom.* A heavy pressure pushed against my whole body.
 
-I raised my head. The leader of the Griffins, already overhead, was shooting toward me.
+I looked up. The Griffin leader was already overhead, diving straight at me.
 
-Even within its massive shadow, which blocked the sunlight, the monster’s beak shone like the sun, packed with immense magical power.
+Even in its enormous shadow, which blocked the sunlight, its beak shone like the sun, packed with immense magical power.
 
 If I met that attack head-on?
 
 Even I wouldn’t come away unscathed.
 
-At the fork in the road I’d faced a moment ago, I’d chosen not to fight it, but to break up the monster army’s formation.
+At the choice I’d faced a moment ago, I’d decided to break the monster army’s formation instead of fighting it.
 
 But—
 
-“I don’t have to be the one to do it. Right?”
+“I don’t have to be the one to fight you. Right?”
 
 —…!
 
@@ -286,9 +286,9 @@ But the person I’d really been counting on was someone else.
 
 *Rumble.*
 
-The air all around us shuddered. Everyone here, not just me, felt the battlefield’s atmosphere grow heavy.
+The air all around us shuddered. Everyone on the battlefield, not just me, felt it grow heavy.
 
-I felt the wind die down in an instant, and the enormous mana rising from somewhere deep below press down on the battlefield.
+The wind died in an instant. From somewhere deep below, enormous mana rose and pressed down on the battlefield.
 
 —Screep?
 
@@ -328,13 +328,13 @@ The Grand Mage who’d staged this incredible end to the battle deserved to be c
 
 *Rumble! Crack-crunch!*
 
-The flames spread without end. Chaos took hold. Countless monsters were crushed beneath the Griffins’ huge bodies as they rained down like a meteor shower.
+Flames spread without end. Chaos took hold. Countless monsters were crushed beneath the Griffins’ huge bodies as they rained down like meteors.
 
 I looked over the monster army, its center utterly broken, and shouted with internal energy behind my voice.
 
 “Formation! Change!”
 
-This battle was already won.
+We’d already won this battle.
 
 “Kill every last one of those bastards!”
 
