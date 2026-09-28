@@ -1,0 +1,2218 @@
+{
+  "baseline_blocks": 146,
+  "baseline_sha256": "c9f967c4b6d2a81715e448e929cca18648f5d3f7d4063773c9d6648c5e9806a1",
+  "global_terminology_alerts": [],
+  "hunk_count": 119,
+  "hunks": [
+    {
+      "baseline": "Beneath a sky shrouded in dark clouds, Sugihara Gyoiku thought blankly.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "Beneath a sky shrouded in dark clouds, Sugihara Gyoiku stared blankly ahead.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What the hell is happening?*",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "*What the hell just happened?*",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His mind, belonging to nothing more than an ordinary civilian, could not process what had happened to him.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "He was an ordinary civilian. His mind could not make sense of what had happened to him.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His trembling limbs had already stopped obeying their owner’s will, and his stomach, full of salty seawater, could not withstand the rough movements of the rescue helicopter.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "11",
+      "sol": "His arms and legs shook beyond his control. His stomach, full of salty seawater, could not bear the rescue helicopter’s rough movements.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "의지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Will"
+        }
+      ]
+    },
+    {
+      "baseline": "No—perhaps what Gyoiku truly could not endure was the horrifying reality that had suddenly come crashing down on him.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "13",
+      "sol": "Or perhaps what Gyoiku truly could not bear was the horrifying reality that had come crashing down on him.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dirty vomit sprayed in every direction.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "17",
+      "sol": "Vomit sprayed everywhere.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some of it hit the other people loaded into the rescue net with Gyoiku, but no one complained or even seemed to care.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "19",
+      "sol": "Some of it hit the other people in the rescue net with him, but no one complained. No one even seemed to notice.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They simply stared at the scene unfolding below them with empty eyes.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "21",
+      "sol": "They only stared at the scene below with vacant eyes.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Crack!*",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "23",
+      "sol": "*Craaaack!*",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It broke, collapsed, and was swept away.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "25",
+      "sol": "Things broke, collapsed, and were swept away.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A gigantic wave dozens of meters high—perhaps even hundreds.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "27",
+      "sol": "A wave dozens of meters high. Perhaps even hundreds.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even though they were witnessing it with their own eyes, they could not believe the disaster unfolding across the sea as it swallowed everything in its path.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "29",
+      "sol": "Even as they watched it happen, they could scarcely believe the disaster swallowing everything in its path.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The port of Tokyo Bay, where hundreds of ships had entered and departed every day, had already vanished without a trace. Cargo ships weighing tens of thousands of tons were shattered like Styrofoam, then carried along by the waves into the nearby industrial complex.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "31",
+      "sol": "The port of Tokyo Bay, where hundreds of ships came and went every day, had vanished without a trace. Cargo ships weighing tens of thousands of tons apiece broke apart like Styrofoam and rode the waves into a nearby industrial complex.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a deafening roar, fierce flames surged upward and swallowed the people’s screams.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "35",
+      "sol": "Flames surged upward with a deafening roar, swallowing people’s screams.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beneath the constant wail of alarms, cars and crowds that looked tiny as swarms of ants scattered in every direction to escape the disaster.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "37",
+      "sol": "Alarms wailed without pause. Far below, cars and crowds that looked as small as swarms of ants scattered in every direction.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To escape the horrifying calamity.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "39",
+      "sol": "Fleeing the disaster.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unable to accept the fate that had befallen them.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "41",
+      "sol": "Struggling to survive without yet grasping the fate that had befallen them.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And behind those struggling desperately to survive, an enormous shadow fell across the ground.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "43",
+      "sol": "And behind them, an enormous shadow fell.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Whoooosh!*",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "45",
+      "sol": "*Whoooooosh!*",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The survivors watching the whole scene from above let out vacant moans.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "49",
+      "sol": "The survivors watching from above let out hollow moans.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The land they had painstakingly rebuilt through decades of sweat and blood after the Great Cataclysm was collapsing. A magnificent civilization was falling apart.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "51",
+      "sol": "The homes they had spent decades rebuilding with blood and sweat after the Great Cataclysm were collapsing. A magnificent civilization was falling apart.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The white foam that had always scattered against the breakwaters and the blue seawater had both turned red.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "53",
+      "sol": "The white foam that had always broken against the seawalls, and the blue water beneath it, had turned red.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Nothing could stop that enormous wave as it smashed through and swept away everything in its path.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "55",
+      "sol": "Nothing could stop that enormous wave as it smashed through everything in its path.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—even if the wave itself subsided, it would make no difference.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "57",
+      "sol": "No. Even if the wave subsided, it would make no difference.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Because this was not merely a natural disaster.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "59",
+      "sol": "This was not merely a natural disaster.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beneath the deep waters that had swallowed the port and industrial complex, an even greater calamity was lurking.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "61",
+      "sol": "Something worse lurked beneath the deep waters that had swallowed the port and industrial complex.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The survivors who had miraculously lived through it knew the truth. That was why, upon spotting dozens of fighter jets flying toward them from the opposite direction, they could only scream as though coughing up blood.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "63",
+      "sol": "The survivors knew it. And when they spotted dozens of fighter jets flying toward them, they screamed as if their throats would tear.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t come here!”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "67",
+      "sol": "“Don’t come!”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not the squadron of fighter jets streaking across the sky with sonic booms.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "71",
+      "sol": "Not the squadron of fighter jets streaking across the sky with sonic booms. Not the elite Japanese Hunters aboard them, sent to deal with the disaster.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not the elite Japanese Hunters who had boarded those aircraft to deal with the situation.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "73",
+      "sol": "",
+      "sol_paragraphs": "after P35",
+      "sol_range": [
+        35,
+        35
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "헌터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hunter"
+        },
+        {
+          "korean": "일본",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Japan"
+        }
+      ]
+    },
+    {
+      "baseline": "And not the deep-sea monster that had awakened from its long sleep.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "75",
+      "sol": "And not the deep-sea monster awakened from its long sleep.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A low but immense rumble stirred up the waves that had begun to subside.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "79",
+      "sol": "A low, immense call raised the waves just as they had begun to subside.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The strengthening wind turned into a storm and howled through the air, while thunderous roars soon echoed among the countless dark clouds covering the sky.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "81",
+      "sol": "The strengthening wind whipped into a storm. Thunder rumbled among the countless dark clouds that now covered the sky.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every living thing in the vicinity froze like a statue and stared blankly at the sky.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "85",
+      "sol": "Every living thing nearby froze like a statue and stared blankly upward.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a fear engraved deep in their bones—a primal instinct they could feel simply because they were alive.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "87",
+      "sol": "It was fear engraved deep in their bones, an instinct they felt simply because they were alive.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The power of nature. But at the same time, a power that was not natural.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "91",
+      "sol": "The power of nature—and yet something beyond nature.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The pilot was muttering in a groan as he prepared to relay the order for the Hunters on standby to descend.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "95",
+      "sol": "The pilot was about to order the waiting Hunters to descend when the words escaped him in a groan.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment—",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "97",
+      "sol": "",
+      "sol_paragraphs": "after P46",
+      "sol_range": [
+        46,
+        46
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hundreds, thousands of bolts of lightning plunged down from the sky and flooded the entire world with white light.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "105",
+      "sol": "Hundreds—thousands—of bolts of lightning plunged from the sky, turning the whole world white.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Japanese Ministry of Defense’s operations control room, hastily called into session, was silent.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "109",
+      "sol": "The Japanese Ministry of Defense’s operations control room had fallen silent.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A suffocating silence. Throats moving soundlessly. Eyes clouded with shock.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "111",
+      "sol": "Suffocating silence. Throats working soundlessly. Unfocused eyes.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Although dozens of high-ranking officials and generals were present, not a single person spoke first.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "113",
+      "sol": "Dozens of high-ranking officials and generals were present, but no one spoke. They could only stare at the holographic screen with vacant eyes.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "All they could do was stare with vacant eyes at the holographic screen installed inside the control room.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "115",
+      "sol": "",
+      "sol_paragraphs": "after P52",
+      "sol_range": [
+        52,
+        52
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What… What the hell just happened?*",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "117",
+      "sol": "*What… What just happened?*",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A single thought occupied everyone’s mind.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "119",
+      "sol": "The same thought occupied every mind.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was how shocking the scene they had witnessed was.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "121",
+      "sol": "",
+      "sol_paragraphs": "after P54",
+      "sol_range": [
+        54,
+        54
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A flash of light so intense that it filled the holographic screen. When the people who had instinctively closed their eyes finally opened them again, all they could see were dozens of aircraft plunging toward the ground—and the waves swallowing them whole.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "123",
+      "sol": "The flash had filled the screen with light so fierce that they had closed their eyes without realizing it. When they opened them again, all they saw were dozens of aircraft falling toward the ground—and the waves swallowing them.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Th-They’ve been… completely wiped out.”",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "125",
+      "sol": "“Th-They’ve all been wiped out.”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An oblivious report feebly broke the silence, revealing the truth that everyone wanted to avoid facing.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "127",
+      "sol": "Someone’s thoughtless report broke the silence. It confirmed the truth none of them wanted to face.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everything had vanished.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "129",
+      "sol": "Everything was gone. No—everyone was dead.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—they had died.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "131",
+      "sol": "",
+      "sol_paragraphs": "after P58",
+      "sol_range": [
+        58,
+        58
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The hundreds, thousands of lightning bolts had turned everything within their range to ash.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "133",
+      "sol": "The hundreds, thousands of lightning bolts had reduced everything in their path to ash.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The rescue helicopters carrying those who had miraculously survived. The fighter squadron proudly fielded by the Air Self-Defense Force. The hundreds of Hunters mobilized in an emergency.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "135",
+      "sol": "The rescue helicopters carrying the miraculous survivors. The Air Self-Defense Force’s prized fighter squadron. The hundreds of Hunters mobilized for the emergency.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had all been finished.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "137",
+      "sol": "All gone.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the thing that had plunged the operations control room into deathly silence was not merely the tsunami that had already swallowed as many as ten cities and now threatened the capital.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "139",
+      "sol": "But it was not only the tsunami—already engulfing ten cities and threatening the capital—that had plunged the control room into deathly silence.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the monster.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "141",
+      "sol": "The monster.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had seen the form of a monster that had vanished several decades ago—one they had believed would never appear again.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "143",
+      "sol": "They had seen a monster that had vanished decades ago, one they had believed would never return.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……Susanoo.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "145",
+      "sol": "“…Susanoo.”",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was the monster’s nickname, given because it was said to rule the sea and storms.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "147",
+      "sol": "The nickname came from its supposed command of the sea and storms.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "But the general who muttered the name like a groan hurriedly closed his mouth.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "149",
+      "sol": "",
+      "sol_paragraphs": "after P66",
+      "sol_range": [
+        66,
+        66
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next moment, he felt the Defense Minister’s glare fixed on him.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "151",
+      "sol": "The general who muttered it hurriedly shut his mouth when he felt the Defense Minister’s glare.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Th-That was…”",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "153",
+      "sol": "“I-It’s just…”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Japanese Defense Minister cut off the man’s hurried excuse and looked around the room.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "157",
+      "sol": "The Japanese Defense Minister cut off the general’s attempted excuse and looked around.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Half of the people who needed to produce a solution immediately were still floundering in shock. The other half waited for his lips to open again.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "159",
+      "sol": "Half the people who should have been devising a response were still floundering in shock. The rest waited for him to speak again.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Like baby birds waiting for food.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "161",
+      "sol": "Like baby birds waiting to be fed.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Or like people hoping for a single scapegoat who could take responsibility for this disaster in their place.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "163",
+      "sol": "Or people looking for the one scapegoat willing to take responsibility in their place.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Crack.*",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "165",
+      "sol": "*Grind.*",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The elderly Defense Minister ground his teeth.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "167",
+      "sol": "The elderly Defense Minister clenched his teeth.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were so many generals and officials, yet no matter where he looked, there was no suitable person.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "169",
+      "sol": "For all the generals and officials in this room, he could not find a single suitable person.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The foolish, cowardly Prime Minister had buried himself in a bunker long ago, while the very few capable and responsible commanders did not have powerful enough backers to enter the Ministry of Defense’s control room.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "171",
+      "sol": "The foolish, cowardly Prime Minister had retreated to a bunker long ago. The few capable, responsible commanders lacked the powerful backers needed to get into the Ministry of Defense’s control room.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the end, there was only one person who could shoulder the blame right now.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "173",
+      "sol": "That left only one person to shoulder the burden.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*These incompetent bastards!*",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "175",
+      "sol": "*Incompetent bastards!*",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Defense Minister cursed them inwardly, completely forgetting that he himself had risen through the ranks thanks to an ancestor from a daimyo family.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "177",
+      "sol": "He cursed them inwardly, forgetting that he owed his own rise to an ancestor who had been a daimyo. But he was not so foolish that he could deny the reality before him.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "방위대신",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Defense Minister"
+        }
+      ]
+    },
+    {
+      "baseline": "Still, he was not so ignorant that he could deny the reality bearing down on them.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "179",
+      "sol": "",
+      "sol_paragraphs": "after P80",
+      "sol_range": [
+        80,
+        80
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Stop that thing with everything we have! I don’t care whether it’s the Self-Defense Forces or Hunters. Mobilize every resource at our disposal!”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "181",
+      "sol": "“Stop that thing with everything we have! Self-Defense Forces, Hunters—I don’t care. Use every means at our disposal!”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes, sir!”",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "183",
+      "sol": "“Y-Yes, sir!”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Defense Minister slammed his wrinkled hand against the table, then squeezed his eyes shut without being able to continue.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "189",
+      "sol": "The Defense Minister slammed his wrinkled hand on the table, then squeezed his eyes shut. He could not bring himself to finish.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Do we really… do we really have to go this far?*",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "191",
+      "sol": "*Do we really have to go that far?*",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A brief hesitation passed through his mind.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "193",
+      "sol": "",
+      "sol_paragraphs": "after P86",
+      "sol_range": [
+        86,
+        86
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But it lasted only for a moment.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "195",
+      "sol": "The hesitation lasted only a moment.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The situation had already spiraled beyond control, and to prevent an even greater disaster as much as possible, *that man* was more qualified than anyone else.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "197",
+      "sol": "The situation had already spiraled out of control. If anyone could keep it from becoming an even greater disaster, it was *that man*.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ask the world for help. And that man in particular—we must bring him here, no matter what diplomatic price we have to pay.”",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "199",
+      "sol": "“Ask the world for help. And we must bring that man here, whatever diplomatic price we have to pay.”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What?”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "201",
+      "sol": "“Sir?”",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His lips trembled like a child being forced to eat broccoli.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "205",
+      "sol": "His lips trembled like a child faced with a plate of broccoli.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, facing the people staring back at him with no idea what he meant, the Defense Minister shouted until it seemed as though he were coughing up blood.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "207",
+      "sol": "The others stared at him, plainly lost. The Defense Minister shouted as though the words were tearing out of his throat.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His pride as a subject of the Great Japanese Empire could not accept it, but he had no other choice.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "211",
+      "sol": "His pride as a subject of the Great Japanese Empire rebelled at the thought, but he had no choice.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That monster—Leviathan—was a demon sent down by heaven.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "213",
+      "sol": "That monster—Leviathan—was a demon sent down from heaven.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not long afterward, news broadcast on large and small holographic televisions installed throughout the control room informed them that the Defense Minister had made the right choice by selecting Jin Taekyung.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "221",
+      "sol": "Before long, news reports playing on holographic televisions throughout the control room confirmed that he had been right to choose Jin Taekyung.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "방위대신",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Defense Minister"
+        }
+      ]
+    },
+    {
+      "baseline": "> —The entire world has once again been engulfed in flames. Ten days ago, the figure known as “The Prophet,” who carried out an unprecedented series of terrorist attacks, announced a second series of attacks in a video…",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "223",
+      "sol": "> —The world has once again been engulfed in flames. In a video, the figure known as “The Prophet,” who carried out an unprecedented series of terrorist attacks ten days ago, has announced a second series of attacks…",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> —Breaking news. A monster wave has occurred in Manhattan, United States. Beginning with this incident, the United States and the rest of the world have entered a state of emergency…",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "225",
+      "sol": "> —Breaking news. A monster wave has occurred in Manhattan, United States. The United States and countries around the world are entering a state of emergency…",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> —At present, entry and exit bans have been imposed on countries where monster waves have occurred. As a result, part of the emergency Hunter mobilization order intended to support Tokyo, Japan, has fallen through. Among the countries in the nearest region of Asia, only Korea is believed to be capable of providing support…",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "227",
+      "sol": "> —Entry and exit bans are now in effect for countries experiencing monster waves. As a result, part of the emergency mobilization of Hunters to assist Tokyo has fallen through. Among nearby Asian countries, Korea is believed to be the only one able to provide support…",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "일본",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Japan"
+        }
+      ]
+    },
+    {
+      "baseline": "The news delivered to us by President Baek Hanseong was the starting gun announcing that everything had begun.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "233",
+      "sol": "The news President Baek Hanseong passed on to us was the starting gun. Everything had begun.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ares Guild and Peace Guild are heading out as the advance team. Five teams are already waiting—B-rank or higher, and limited to volunteers only.”",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "235",
+      "sol": "“Ares Guild and Peace Guild are heading out as the advance team. Five teams are already standing by, all volunteers of B-rank or higher.”",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi’s response had been faster than anyone’s.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "237",
+      "sol": "Team Leader Choi had acted faster than anyone.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment he first heard what had happened in Tokyo, he had already issued the mobilization order. President Baek Hanseong had prepared the Air Force so that we could reach our destination as quickly and safely as possible.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "239",
+      "sol": "He had issued the mobilization order as soon as he heard the news from Tokyo. President Baek, meanwhile, had prepared Air Force aircraft to get us there as quickly and safely as possible.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "백한성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Baek Hanseong"
+        }
+      ]
+    },
+    {
+      "baseline": "“What about the Teleport Magic circle?”",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "241",
+      "sol": "“What about a Teleport Magic Formation?” I asked as I gathered the equipment we needed.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi shook his head at my question as I gathered the equipment we needed.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "243",
+      "sol": "Team Leader Choi shook his head.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "장비",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Equipment"
+        }
+      ]
+    },
+    {
+      "baseline": "“We could try it, but the probability of failure is far too high right now. The magical-power distribution around Tokyo rose sharply because of the monster wave ten days ago, and it’s already measuring more than three times the previous level.”",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "245",
+      "sol": "“We could try, but the chance of failure is far too high. Magical-power levels around Tokyo rose sharply after the monster wave ten days ago. They’re already more than three times that level.”",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Damn it. This reminds me of China.”",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "247",
+      "sol": "“Damn it. Reminds me of China.”",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. It’s the same situation as back then.”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "249",
+      "sol": "“Yes. It’s the same situation.”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mana and magical power were natural opposites.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "251",
+      "sol": "Mana and magical power were opposed to each other.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If we attempted spatial movement while the magical-power distribution was rising sharply and growing unstable like this, our bodies could be broken apart like a thousand-piece puzzle—even if they were solid lumps of iron.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "253",
+      "sol": "Attempt spatial travel while magical-power levels were climbing this fast and fluctuating this wildly, and even a body made of solid iron could come apart like a thousand-piece puzzle.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Taking the worsening weather in the area into account, we estimate about thirty minutes.”",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "257",
+      "sol": "“Allowing for the worsening weather nearby, about thirty minutes.”",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, we would not be making a safe landing on a broad airport runway.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "261",
+      "sol": "",
+      "sol_paragraphs": "after P117",
+      "sol_range": [
+        117,
+        117
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was at least a ninety-percent chance that Tokyo International Airport, once the pride of Japan, had already been blown to absolute shit.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "263",
+      "sol": "We would not be landing safely on a wide airport runway. There was at least a ninety-percent chance Tokyo International Airport had already been blown to shit.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "일본",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Japan"
+        }
+      ]
+    },
+    {
+      "baseline": "*And the remaining ten percent is the chance it’ll be blown to shit on our way there.*",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "265",
+      "sol": "*And the other ten percent is the chance it’ll be blown to shit before we get there.*",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The video sent by Japan’s Ministry of Defense replayed in my mind.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "269",
+      "sol": "The footage Japan’s Ministry of Defense had sent us replayed in my mind.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Maritime Self-Defense Force being swept away by a gigantic triangular wave. The land being submerged.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "271",
+      "sol": "The Maritime Self-Defense Force swept away by a gigantic triangular wave. Land disappearing beneath the water.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The wave had shattered the extensive defensive Magic installed along Japan’s coastline as though it were nothing, swallowed tens of thousands of people, and turned even the last remnants of hope to ash beneath countless lightning bolts.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "273",
+      "sol": "It had broken through the extensive defensive Magic along Japan’s coastline as though it were nothing, swallowed tens of thousands of people, and reduced what little hope remained to ash beneath countless bolts of lightning.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As though proving the power ascribed to it by myths passed down from time immemorial.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "275",
+      "sol": "As though proving the power attributed to it in myths passed down from time immemorial.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One of the most powerful S-rank monsters commanded by the Demon King Asmodeus, it was a calamity that had vanished along with his death.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "281",
+      "sol": "One of the most powerful S-rank monsters under the Demon King Asmodeus. A calamity that had vanished when Asmodeus died.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some claimed that Leviathan had died alongside the Demon King. Others argued that the monster had survived and was merely waiting for the right time.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "283",
+      "sol": "Some said Leviathan had died with the Demon King. Others insisted it had survived and was merely biding its time. With no evidence either way, the years had passed.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "But without any evidence or proof, time continued to pass.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "285",
+      "sol": "",
+      "sol_paragraphs": "after P128",
+      "sol_range": [
+        128,
+        128
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And today—",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "285",
+      "sol": "",
+      "sol_paragraphs": "after P128",
+      "sol_range": [
+        128,
+        128
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The nightmare known as Leviathan had been resurrected.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "285",
+      "sol": "And today, more than thirty years later, the nightmare called Leviathan had returned.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had crossed more than thirty years to return to this world.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "285",
+      "sol": "",
+      "sol_paragraphs": "after P129",
+      "sol_range": [
+        129,
+        129
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An inevitability intended by someone?",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "285",
+      "sol": "Had someone intended it?",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Muttering the unresolved question inwardly, I finished my preparations and began walking toward the Hunters and aircraft waiting for me.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "285",
+      "sol": "With the question still unresolved, I finished my preparations and walked toward the waiting Hunters and aircraft.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The wind blowing from far away seemed to carry a faint smell of blood.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "285",
+      "sol": "The wind blowing from far away seemed to carry the faint smell of blood.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 134,
+  "sol_sha256": "9d7b97414ca405f376f736e48e832ed11b1c836bc7693f16d8623b7d128fe33c",
+  "version": 1
+}

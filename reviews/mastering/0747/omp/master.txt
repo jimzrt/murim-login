@@ -8,7 +8,7 @@ He was an ordinary civilian. His mind could not make sense of what had happened 
 
 His arms and legs shook beyond his control. His stomach, full of salty seawater, could not bear the rescue helicopter’s rough movements.
 
-No—perhaps what Gyoiku truly could not endure was the horrifying reality that had suddenly come crashing down on him.
+Or perhaps what Gyoiku truly could not bear was the horrifying reality that had come crashing down on him.
 
 “Ugh—bwaaaargh!”
 
@@ -36,9 +36,9 @@ Alarms wailed without pause. Far below, cars and crowds that looked as small as 
 
 Fleeing the disaster.
 
-Unable to accept the fate that had befallen them.
+Struggling to survive without yet grasping the fate that had befallen them.
 
-And behind those struggling desperately to survive, an enormous shadow fell across the ground.
+And behind them, an enormous shadow fell.
 
 *Whoooooosh!*
 
@@ -46,11 +46,11 @@ And behind those struggling desperately to survive, an enormous shadow fell acro
 
 The survivors watching from above let out hollow moans.
 
-The land they had painstakingly rebuilt through decades of sweat and blood after the Great Cataclysm was collapsing. A magnificent civilization was falling apart.
+The homes they had spent decades rebuilding with blood and sweat after the Great Cataclysm were collapsing. A magnificent civilization was falling apart.
 
-The white foam that had always scattered against the breakwaters and the blue seawater had both turned red.
+The white foam that had always broken against the seawalls, and the blue water beneath it, had turned red.
 
-Nothing could stop that enormous wave as it smashed through and swept away everything in its path.
+Nothing could stop that enormous wave as it smashed through everything in its path.
 
 No. Even if the wave subsided, it would make no difference.
 
@@ -58,7 +58,7 @@ This was not merely a natural disaster.
 
 Something worse lurked beneath the deep waters that had swallowed the port and industrial complex.
 
-The survivors who had miraculously lived through it knew the truth. That was why, upon spotting dozens of fighter jets flying toward them from the opposite direction, they could only scream as though coughing up blood.
+The survivors knew it. And when they spotted dozens of fighter jets flying toward them, they screamed as if their throats would tear.
 
 “N-No!”
 
@@ -90,15 +90,13 @@ The power of nature—and yet something beyond nature.
 
 The pilot was about to order the waiting Hunters to descend when the words escaped him in a groan.
 
-At that moment—
-
 *Fwoosh!*
 
 Hundreds—thousands—of bolts of lightning plunged from the sky, turning the whole world white.
 
 * * *
 
-The Japanese Ministry of Defense’s operations control room, hastily called into session, was silent.
+The Japanese Ministry of Defense’s operations control room had fallen silent.
 
 Suffocating silence. Throats working soundlessly. Unfocused eyes.
 
@@ -116,7 +114,7 @@ Someone’s thoughtless report broke the silence. It confirmed the truth none of
 
 Everything was gone. No—everyone was dead.
 
-The hundreds, thousands of lightning bolts had turned everything within their range to ash.
+The hundreds, thousands of lightning bolts had reduced everything in their path to ash.
 
 The rescue helicopters carrying the miraculous survivors. The Air Self-Defense Force’s prized fighter squadron. The hundreds of Hunters mobilized for the emergency.
 
@@ -134,7 +132,7 @@ The nickname came from its supposed command of the sea and storms.
 
 The general who muttered it hurriedly shut his mouth when he felt the Defense Minister’s glare.
 
-“Th-That was…”
+“I-It’s just…”
 
 “Shut your trap, Yoshimura.”
 
@@ -170,21 +168,21 @@ He cursed them inwardly, forgetting that he owed his own rise to an ancestor who
 
 The Defense Minister slammed his wrinkled hand on the table, then squeezed his eyes shut. He could not bring himself to finish.
 
-*Do we really… do we really have to go this far?*
+*Do we really have to go that far?*
 
 The hesitation lasted only a moment.
 
 The situation had already spiraled out of control. If anyone could keep it from becoming an even greater disaster, it was *that man*.
 
-“Ask the world for help. And that man in particular—we must bring him here, no matter what diplomatic price we have to pay.”
+“Ask the world for help. And we must bring that man here, whatever diplomatic price we have to pay.”
 
-“What?”
+“Sir?”
 
 “If it’s him…”
 
 His lips trembled like a child faced with a plate of broccoli.
 
-Then, facing the people staring back at him with no idea what he meant, the Defense Minister shouted until it seemed as though he were coughing up blood.
+The others stared at him, plainly lost. The Defense Minister shouted as though the words were tearing out of his throat.
 
 “That man! I said call that Chōsenjin![^1] Jin Taekyuuung!”
 
@@ -212,13 +210,13 @@ The news President Baek Hanseong passed on to us was the starting gun. Everythin
 
 Team Leader Choi had acted faster than anyone.
 
-The moment he first heard what had happened in Tokyo, he had already issued the mobilization order. President Baek Hanseong had prepared the Air Force so that we could reach our destination as quickly and safely as possible.
+He had issued the mobilization order as soon as he heard the news from Tokyo. President Baek, meanwhile, had prepared Air Force aircraft to get us there as quickly and safely as possible.
 
 “What about a Teleport Magic Formation?” I asked as I gathered the equipment we needed.
 
 Team Leader Choi shook his head.
 
-“We could try it, but the probability of failure is far too high right now. The magical-power distribution around Tokyo rose sharply because of the monster wave ten days ago, and it’s already measuring more than three times the previous level.”
+“We could try, but the chance of failure is far too high. Magical-power levels around Tokyo rose sharply after the monster wave ten days ago. They’re already more than three times that level.”
 
 “Damn it. Reminds me of China.”
 
@@ -234,7 +232,7 @@ Attempt spatial travel while magical-power levels were climbing this fast and fl
 
 “Thirty minutes…”
 
-There was at least a ninety-percent chance that Tokyo International Airport, once the pride of Japan, had already been blown to absolute shit.
+We would not be landing safely on a wide airport runway. There was at least a ninety-percent chance Tokyo International Airport had already been blown to shit.
 
 *And the other ten percent is the chance it’ll be blown to shit before we get there.*
 
@@ -262,8 +260,8 @@ And today, more than thirty years later, the nightmare called Leviathan had retu
 
 Had someone intended it?
 
-Muttering the unresolved question inwardly, I finished my preparations and began walking toward the Hunters and aircraft waiting for me.
+With the question still unresolved, I finished my preparations and walked toward the waiting Hunters and aircraft.
 
-The wind blowing from far away seemed to carry a faint smell of blood.
+The wind blowing from far away seemed to carry the faint smell of blood.
 
 [^1]: A derogatory Japanese term for a Korean.

@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "already engulfing ten cities",
+      "defect": "The Korean says the tsunami had swallowed nearly ten cities, not exactly ten.",
+      "id": "F01",
+      "rationale": "열 개에 달하는 indicates a number approaching ten; “ten cities” states the count as ten.",
+      "replacement": "already engulfing nearly ten cities",
+      "severity": "minor",
+      "source": "Chapter 747, line 131"
+    },
+    {
+      "confidence": 0.91,
+      "current": "His lips trembled like a child faced with a plate of broccoli.",
+      "defect": "The comparison changes a child eating broccoli into a child merely facing a plate, adding reluctance and dropping the source’s specific image.",
+      "id": "F02",
+      "rationale": "The source says the lips trembled like those of a child eating broccoli (브로콜리를 먹는 어린아이처럼).",
+      "replacement": "His lips trembled like a child eating broccoli.",
+      "severity": "minor",
+      "source": "Chapter 747, line 195"
+    },
+    {
+      "confidence": 0.98,
+      "current": "There was at least a ninety-percent chance that Tokyo International Airport, once the pride of Japan, had already been blown to absolute shit.",
+      "defect": "The assembled copy omits the narrator’s explicit point that they would not be making a safe landing on a broad airport runway.",
+      "id": "F03",
+      "rationale": "The source explicitly states that a safe landing on a broad airport runway was out of the question before estimating the airport’s destruction.",
+      "replacement": "Of course, there’d be no safe landing on a broad airport runway. There was at least a 90 percent chance that Tokyo International Airport, once the pride of Japan, had already been blown to absolute shit.",
+      "severity": "minor",
+      "source": "Chapter 747, line 251"
+    }
+  ],
+  "summary": "The assembled English is broadly faithful, but it changes the broccoli image, rounds an approximate city count to ten, and omits the explicit warning that no safe runway landing is possible.",
+  "version": 1
+}
