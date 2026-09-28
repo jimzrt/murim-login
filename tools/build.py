@@ -21,6 +21,7 @@ FILTER = ROOT / "tools" / "system-window.lua"
 STYLESHEET = ROOT / "tools" / "book.css"
 BOOK_TYP = ROOT / "tools" / "book.typ"
 TYPST_TEMPLATE = ROOT / "tools" / "typst-template.typ"
+FONT_DIR = ROOT / "tools" / "fonts"
 COVER = ROOT / "cover.jpg"
 READER = ROOT / "reader"
 TITLE = "Murim Login"
@@ -80,6 +81,7 @@ def run_pandoc(
             [
                 "--pdf-engine=typst",
                 "--pdf-engine-opt=--root=/",
+                f"--pdf-engine-opt=--font-path={FONT_DIR.resolve()}",
                 f"--template={TYPST_TEMPLATE}",
                 "--toc",
                 "--toc-depth=1",
