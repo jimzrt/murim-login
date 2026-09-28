@@ -1,6 +1,6 @@
 # Jeok Cheongang (적천강)
 
-- **Safe through:** Chapter 1187
+- **Safe through:** Chapter 1188
 - **Aliases:** Fire King; eighteenth Sect Leader of the Fire Gate Clan
 - **Role:** Jeok Cheongang is the Fire Gate Clan’s current Sect Leader, a legendary martial master who has surpassed the Three Saints, Jin Taekyung’s Master and intended heir’s mentor, and a trusted confidant who occupies the chief seat of the Murim Alliance’s Five Kings Hall.
 - **Personality:** Secretive, sharp-eyed, gruff, and dryly teasing, he fears water and follows his own path rather than pursuing grand causes; though he turned his back on the world, he wants Taekyung to pursue righteousness, practice chivalry, and win people’s hearts, and fiercely protects those he still has.
