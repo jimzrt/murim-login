@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "And this endless range of dark mountains showed no sign of revealing the secrets it concealed beneath its vast shadow.\n\nNot to its master, or to the other uninvited guests besides Jeok Cheongang and me.",
+      "defect": "The draft makes the master and other guests people to whom secrets are withheld. They are among the things the mountains conceal.",
+      "id": "F01",
+      "rationale": "산맥의 주인은 물론 … 불청객들까지도 identifies what remains hidden, not the audience denied a revelation.",
+      "replacement": "And this endless range of dark mountains showed no sign of revealing what it hid within its vast bulk.\n\nThat included the mountains’ master—and the other uninvited guests besides Jeok Cheongang and me.",
+      "severity": "critical",
+      "source": "그리고 이 끝없이 펼쳐진 어둠의 산맥은 좀처럼 자신이 온몸으로 가리고 있는 비밀을 드러낼 생각이 없어 보였다.\n\n산맥의 주인은 물론, 나와 적천강을 제외한 또 다른 불청객들까지도."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> - Status effect **Internal Injury** has…\n\n> **System**",
+      "defect": "An entire passage of physical distress, Jeok Cheongang’s attempt to support him, and the arrival of a second wave of notifications is missing.",
+      "id": "F02",
+      "rationale": "The omitted passage establishes the immediate cost of Mind’s Eye and separates the two notification waves.",
+      "replacement": "> - Status effect **Internal Injury** has…\n\nJin Taekyung gasped for breath.\n\nHis chest felt tight. Nausea rose as his disoriented body swayed from side to side.\n\nThrough vision warped like a heat haze, he saw Jeok Cheongang rush up and catch him, shouting something. His battered senses could barely register the man’s words or touch.\n\nFor a moment.\n\nThen a second wave swept over him, accompanied by a cascade of chimes.\n\n*Ding. Ding. Ding.*\n\n> **System**",
+      "severity": "critical",
+      "source": "진태경은 숨을 헐떡였다.\n\n가슴이 답답하다.\n\n차오르는 욕지기와 함께, 방향 감각을 상실한 몸뚱어리가 이리저리 흔들린다.\n\n아지랑이처럼 일그러진 시야 너머로 불쑥 다가온 적천강이 부축과 함께 무어라 외쳤으나, 이미 망가진 감각은 그의 말과 손길을 제대로 받아들이지 못했다.\n\n아주 잠시.\n\n겹겹이 울려 퍼지는 종소리와 동시에 밀려온, 두 번째 파도가 그를 덮치기 전까지는.\n\n띠링. 띠링. 띠링."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Only now, after seeing and feeling them for myself, did I understand that the Tianshan Mountains were exactly what they were said to be: a restricted area, a Land of Ruin.",
+      "defect": "“Exactly what they were said to be” contradicts the preceding conclusion that the stories drastically understated the danger.",
+      "id": "F03",
+      "rationale": "The source calls the mountains 금지 and 멸지; it does not say the prevailing accounts described them accurately.",
+      "replacement": "Only now, after seeing and feeling the Tianshan Mountains for myself, did I understand that they were a forbidden land in the truest sense—a Land of Ruin.",
+      "severity": "major",
+      "source": "오늘에서야 직접 보고 느낀 천산산맥은 말 그대로 금지(禁地)이자 멸지(滅地)였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "High risk, high reward.\n\nIt had been a dangerous move, but the payoff was worth it.\n\nI’d gained all at once the EXP it would take to defeat several Black Ghosts—and, more importantly, I’d achieved my main goal.\n\n“What on earth…!”\n\nAt my Master’s stunned expression, his Disciple curled his bloodied lips into a smile.",
+      "defect": "The draft reverts to first person after the source has shifted to third-person narration.",
+      "id": "F04",
+      "rationale": "The post-break narration names 진태경 and subsequently describes the Master and Disciple from outside their viewpoints.",
+      "replacement": "High risk, high reward.\n\nIt had been a dangerous move, but the payoff was worth it.\n\nHe’d gained all at once the EXP it would take to defeat several Black Ghosts—and, more importantly, achieved his main goal.\n\n“What on earth…!”\n\nAt his Master’s stunned expression, the Disciple curled his bloodied lips into a smile.",
+      "severity": "major",
+      "source": "하이 리스크 하이 리턴.\n\n위험성이 큰 시도였던 만큼 그 대가는 충분했다.\n\n흑귀를 몇 마리나 쓰러트려야 얻을 수 있는 경험치를 일거에 획득한 데다, 가장 중요한 목적을 달성했으니.\n\n“도대체……!”\n\n경악하는 스승의 모습에, 제자는 피에 젖은 입꼬리를 말아 올리며 웃었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "one martial artist who’d traded his burning love for his family and any semblance of self-awareness for a handful of dirt.",
+      "defect": "The draft says he traded away his loyalty as well as his self-awareness; the joke is that he retains excessive loyalty while having traded away his self-awareness. “A handful of dirt” also replaces the source’s candy image.",
+      "id": "F05",
+      "rationale": "불타는 애사심 characterizes him; 자기객관화를 엿 바꿔 먹은 describes what he has lost.",
+      "replacement": "one martial artist whose fierce loyalty to his family was matched only by his willingness to trade self-awareness for a piece of candy.",
+      "severity": "major",
+      "source": "소속 가문을 향한 불타는 애사심과 자기객관화를 엿 바꿔 먹은 어느 무인을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Look—the numbers are off by one. The others can copy it, but they probably didn’t even dare try to imitate that person.",
+      "defect": "“The others” becomes the subject doing the copying. Hyuk’s theory is that the alleged dark arts could imitate everyone else but not the missing man.",
+      "id": "F06",
+      "rationale": "다른 사람들은 다 따라 해도 contrasts the people supposedly imitated with 그 양반, whom the supposed deceivers did not dare imitate.",
+      "replacement": "Look—we’re one person short. They must have managed to imitate everyone else, but not dared to try imitating that man.",
+      "severity": "critical",
+      "source": "봐라, 머릿수가 하나 부족하잖아. 아마 다른 사람들은 다 따라 해도 그 양반은 흉내 낼 엄두도 안 났나 보지."
+    }
+  ],
+  "summary": "The draft omits the aftermath of Mind’s Eye, reverses what the mountains conceal, and shifts out of the source’s third-person narration after the scene break.",
+  "version": 1
+}

@@ -1604,3 +1604,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 궁성 | 대인 | Acquaintances traveling together; Bow Saint is wary of the mysterious Great Sir. | you | polite, controlled | Bow Saint questions him formally and apologizes after mistaking him for an enemy. |
 | 대인 | 궁성 | Acquaintances traveling together; Great Sir calls Bow Saint “Young Lady” and “heroine.” | Young Lady; heroine | polite conversational, familiar and teasing | He alternates respectful titles with candid personal questions. |
 | 살성 | 진태경 | senior allied martial artist to younger companion | you | familiar and blunt | Addresses Taekyung with 너 and 네가 while explaining that he anticipated Taekyung’s response. |
+| 진태경 | 살성 | younger companion to senior allied martial artist | you; quack | blunt and insulting-casual | Taekyung calls the Slaughter Saint a quack while explaining his quick awakening. |

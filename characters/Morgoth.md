@@ -1,6 +1,6 @@
 # Morgoth (모르고스)
 
-- **Safe through:** Chapter 1176
+- **Safe through:** Chapter 1191
 - **Aliases:** None
 - **Role:** Morgoth was a Dragon Lord and sovereign of a vast palace, slain by Jin Taekyung when Jin pierced his Dragon Heart.
 - **Personality:** Composed and intellectually curious, Morgoth spent millennia seeking God and regards powerful beings as sources of amusement, willing to aid a worthy rival when it promises greater future entertainment.
