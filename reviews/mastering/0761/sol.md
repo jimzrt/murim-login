@@ -1,6 +1,6 @@
 # Chapter 761
 
-No matter how powerful a monster was, unless it possessed regenerative abilities equal to or greater than a Troll’s, it was bound to die if its neck or heart was pierced.
+No matter how powerful a monster was, unless it could regenerate as well as a Troll or better, a spear through its neck or heart would kill it.
 
 Just like now.
 
@@ -18,9 +18,7 @@ Its eyes went wide with pain. Blood and phlegm rattled in its slightly open mout
 
 *Grrk. Grrrk…*
 
-What tenacious vitality.
-
-But it was time to put a period to it.
+Stubborn bastard. It was time to put an end to that.
 
 “Goodbye.”
 
@@ -34,17 +32,17 @@ The flame carried by my spearhead exploded. Its tree-thick neck snapped in an in
 > - Gained a large amount of **EXP** and **Fame**!
 > - **Level Up!**
 
-As the System notification rang in my ears, I slowly turned around.
+As the System notices rang in my ears, I slowly turned.
 
 The battlefield had fallen silent. Humans and monsters who had been fighting fiercely moments ago were all staring at me.
 
 At me, standing before the monster’s crumpled corpse.
 
-At me, who looked like hope to some and nothing short of disaster to others.
+At a sight that meant hope to some and disaster to others.
 
 They had stopped as if by agreement. I kicked the Minotaur Lord’s head where it lay on the ground.
 
-*Whoooosh—clang!*
+*Whoooosh—thump!*
 
 The severed head soared high into the sky and landed at the center of the battlefield.
 
@@ -64,7 +62,7 @@ Joy for the humans.
 
 Fear for the monsters.
 
-And at the moment countless gazes filled with those different emotions left me and met one another—
+And the moment their countless gazes left me and met one another—
 
 “Waaaaaaaah!”
 
@@ -102,7 +100,7 @@ True to their name, the Hunters ground the already shattered Minotaur army into 
 
 “You bastards!”
 
-“This is revenge for Jonas! Kill every last one of them!”
+“This is for Jonas! Kill every last one!”
 
 *Whoooosh! Crunch!*
 
@@ -126,7 +124,7 @@ That caught me off guard.
 
 Never mind the military commander handling the rear guard—these Hunters had their own team leaders. Why ask an outsider like me? Still, the answer was simple enough.
 
-“What are you waiting for? Instead of wasting time asking me this, go kill them.”
+“What are you asking me for? Go kill them.”
 
 “Thank you! Team Three, follow me!”
 
@@ -144,11 +142,11 @@ Never mind the military commander handling the rear guard—these Hunters had th
 
 What the fuck. That was scary.
 
-Judging by the shouts echoing from every direction, this wasn’t Germany anymore. It was the Aztec Empire at minimum.
+Going by the shouts echoing everywhere, this was less Germany than the Aztec Empire.
 
 Granted, they were hunting invading monsters rather than people. That was a pretty big difference.
 
-“Still, it would probably be better not to drink the blood…”
+“Still, I wouldn’t drink the blood…”
 
 “What was that?”
 
@@ -156,7 +154,7 @@ Granted, they were hunting invading monsters rather than people. That was a pret
 
 Team Leader Choi gave me a strange look, wiped the blood from his face, and spoke.
 
-“It seems most of them have been dealt with. The German Federal Army deployed the rear guard they had held back, and I hear they’re right on the verge of annihilating the rest.”
+“It looks like we’ve dealt with most of them. The German Federal Army has deployed the rear guard it held back. I hear they’re close to finishing off the rest.”
 
 “Quite a few escaped.”
 
@@ -170,7 +168,7 @@ I nodded and asked what mattered most.
 
 Science and magic had come together in this world.
 
-Most injuries could be treated with surgery, and with healing magic and potions added to the mix, even someone who had lost a limb could recover enough to move around without difficulty within a month.
+Surgery could treat most injuries. Add healing magic and potions, and even someone who had lost a limb could be back on their feet within a month.
 
 But the number of dead weighed on me.
 
@@ -214,15 +212,13 @@ Odin Guild was enormous. With branches all over the world, it could respond quic
 
 Michael had used the Prophet as a tool to bring about this disaster.
 
-To everyone else, it might look like the indiscriminate terror attack of a mad fanatic. But Michael Silbert, who had manipulated everything from behind the scenes, knew exactly when and where the terror would occur.
+To everyone else, it looked like the indiscriminate terror attacks of a mad fanatic. Michael Silbert, pulling the strings from behind the scenes, knew exactly when and where each attack would happen.
 
 *The Monster Wave in South Africa was probably one of them.*
 
 But there were exceptions.
 
-I had intervened in the Munich Monster Wave, something Michael Silbert had failed to predict, and stopped the disaster before he could.
-
-No.
+Michael hadn’t foreseen the Munich Monster Wave. I had stepped in and stopped it before he could.
 
 And in doing so, I had gained the power to stand in his way: the public’s renewed support and trust.
 
@@ -240,9 +236,9 @@ But…
 
 I had done everything I could. Call it self-justification. Call it telling myself I’d won. I didn’t care.
 
-And as a result, I had become the only—and greatest—obstacle in this world capable of standing against Michael Silbert.
+I had fought to save even one more life, gritting my teeth to prevent a greater disaster. And the result was that I had become the only obstacle in this world—the greatest one—capable of stopping Michael Silbert.
 
-*Open Quest window.*
+*Open Quest Window.*
 
 *Ding.*
 
@@ -254,9 +250,9 @@ I repeated the word reflected in my eyes.
 
 I had killed the Minotaur Lord, the greatest cause of this Monster Wave, and wiped out nearly ten thousand monsters. Still, the System had said nothing.
 
-As if there was still a long way to go.
+As if I had a long way to go.
 
-As if it would only finish the mission assigned to me after I had shattered all of Michael Silbert’s plans and brought him to complete ruin—or ended his life.
+As if it would not consider my mission complete until I had shattered every one of Michael Silbert’s plans and brought him to ruin—or killed him.
 
 I was staring silently at the window when—
 
@@ -266,13 +262,13 @@ I was staring silently at the window when—
 
 I turned my head. Far off in the dark sky, beyond what an ordinary person could see, a faint light was approaching.
 
-*What is that?*
+*Is that…?*
 
 A question. A guess. Then certainty.
 
 My tangled thoughts worked through all three before reaching an answer.
 
-Team Leader Choi noticed something was wrong a moment after I did and spoke in a subdued voice.
+Team Leader Choi noticed a moment later and spoke quietly.
 
 “He’s arrived.”
 
@@ -292,15 +288,15 @@ Simon, a reporter nearing his tenth year on the job, was bursting with excitemen
 
 His smartphone was full of notes and draft headlines he had been typing for hours.
 
-An army of monsters led by the S-rank monster Minotaur Lord.
+An army of monsters led by the S-rank Minotaur Lord.
 
-Estimated number: ten thousand. A massive force.
+Estimated strength: ten thousand. A massive force.
 
 Central Munich. Urban battle breaks out.
 
-The battle turns against humanity. And then Jin Taekyung finally appears.
+The battle turns against humanity. Then Jin Taekyung appears.
 
-S-rank Hunter Joel Schumacher in crisis, saved by a true transcendent being. Is Jin Taekyung Übermensch?
+S-rank Hunter Joel Schumacher faces death, only to be saved by a true transcendent being. Is Jin Taekyung the Übermensch?
 
 A great victory! A scoop! Are you seeing this, News Director? You bastard, you’re worse than a pig’s asshole. Why the fu— am I getting blamed because Daniel Daisuke got the rally canceled?
 
@@ -312,13 +308,13 @@ The news director had shouted at him half a day ago over the cancellation of the
 
 *Yeah, all right. Upper management’s been riding him hard lately.*
 
-Covering for your superior was also part of a subordinate’s duty. Simon nodded and entered a new note.
+Making excuses for a superior was part of a subordinate’s duty. Simon nodded and typed a new note.
 
 The meeting of two heroes.
 
 Jin Taekyung and Michael Silbert meet again in Munich!
 
-And just as Simon typed the final exclamation point, a powerful wind blew toward him and the countless other reporters.
+The moment he typed the final exclamation point, a fierce wind blew toward him and the other reporters.
 
 *Whoooosh.*
 

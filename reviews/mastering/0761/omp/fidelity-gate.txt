@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor regressions: the kick’s direction is omitted, and the Main Quest display loses its established System-panel presentation.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 53–57",
+      "current": "They had stopped as if by agreement. I kicked the Minotaur Lord’s head where it lay on the ground.",
+      "defect": "The source says the head is kicked toward the people who had stopped. The assembled English omits that direction, which gives the action its taunting, rallying force.",
+      "replacement": "They had stopped as if by agreement. I kicked the Minotaur Lord’s head, where it lay on the ground, toward them.",
+      "rationale": "The Korean says “그들을 향해” (“toward them”) immediately before the kick. The accepted baseline preserves that target.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 277–283",
+      "current": "The same Main Quest, unchanged since I had first seen it.\n\n*Cataclysm.*",
+      "defect": "The holographic Main Quest display is rendered as narration and a standalone thought, omitting the established System-panel presentation and its explicit Main Quest title.",
+      "replacement": "> **System**\n>\n> **Main Quest: Cataclysm**",
+      "rationale": "The source identifies the unchanged Main Quest appearing in the holographic window; the accepted baseline renders that displayed content as a System panel. The translation rules require actual System UI to use a headed blockquote window.",
+      "confidence": 0.83
+    }
+  ]
+}
