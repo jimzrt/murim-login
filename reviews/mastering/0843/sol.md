@@ -64,7 +64,7 @@ But…
 
 *That brat’s the one telling me. I have to believe him.*
 
-Believe him. Jin Taekyung.
+He believed Jin Taekyung.
 
 At some point, that had become the most natural thing in the world. The old man trusted the young man, and the young man trusted the old man.
 
@@ -84,7 +84,7 @@ The modern world and Murim. Murim and the modern world.
 
 The two worlds were astonishingly alike—not in their civilizations, but in the currents of change running through them.
 
-“If Murim has Dark Heaven, then the world I lived in has monsters. And both are headed in a bad direction.”
+“If Murim has Dark Heaven, the world I live in has monsters. And both worlds are headed in a bad direction.”
 
 “Not so long ago, each world went through its own Great Faction War, too.”
 
@@ -130,15 +130,15 @@ All I’d done was fall asleep in a damn old capsule. Then I’d had to fight on
 
 But as my circumstances changed, so did my thinking.
 
-I’d gone from an F-rank Hunter who lost his job overnight to a celebrity, gripping power and wealth in both hands that I never could’ve imagined before.
+I’d gone from an F-rank Hunter who lost his job overnight to a celebrity, with power and wealth I could never have imagined in either hand.
 
 And I’d gained them in both worlds—the modern world and Murim.
 
 *My bad luck turned into good luck.*
 
-The days when I’d lamented, *How can I be this unlucky?* quickly faded into the past.
+The days when I’d wondered how one person could be so unlucky soon faded into the past.
 
-What I’d thought was bad luck turned out to be good fortune sent down from the heavens. Maybe it was even more than that—a stroke of heavenly fortune.
+What I’d taken for bad luck had turned out to be a gift from the heavens. Maybe it was more than good fortune. Maybe it was destiny smiling on me.
 
 Until, one day, I began to feel a strange sense of déjà vu.
 
@@ -152,7 +152,7 @@ The Head Elder of the Jin Family of Taiyuan, who had long harbored a desire for 
 
 The one saving grace was that those flames hadn’t reduced everything in their path to ash.
 
-Though countless people had died, even more had escaped the fire. And I’d found many traces left behind where that terrible disaster had swept through.
+Countless people had died, but even more had escaped. And in the wake of that terrible disaster, I’d found traces of what had happened.
 
 The Water God Dragon, driven mad and stripped of reason.
 
@@ -172,7 +172,7 @@ That darkness writhing like a living creature. The familiarity I’d sensed time
 
 At first, I couldn’t accept that.
 
-It shouldn’t exist. It couldn’t exist.
+It shouldn’t have been there. It couldn’t have been.
 
 But as time passed, the picture grew clearer, forcing me to face reality.
 
@@ -206,7 +206,7 @@ There was no doubt.
 
 Dark Heaven was the true link between the modern world and Murim.
 
-Everything I’d personally witnessed since becoming entangled with them was evidence—and served as both prosecutor and judge.
+Everything I’d witnessed since becoming entangled with them was evidence enough. It made the case and delivered the verdict.
 
 *But how?*
 
@@ -224,7 +224,7 @@ The implication was clear.
 
 *Something that shouldn’t exist appeared in Murim during the chaos of the Great Faction War—or shortly afterward.*
 
-If so, the timing lined up exactly. That was when Dark Heaven first approached the Head Elder.
+The timing fit. That was when Dark Heaven had first approached the Head Elder.
 
 But I still didn’t know the underlying cause. The biggest question remained unanswered.
 
@@ -234,7 +234,7 @@ Dark Heaven’s master.
 
 No, an absolute being they might as well worship as a god.
 
-How he could exist in Murim wasn’t what puzzled me. The Great Cataclysm thirty-odd years ago had begun much the same way.
+I wasn’t particularly puzzled by how he could exist in Murim. The Great Cataclysm had begun much the same way some thirty years ago.
 
 The problem was…
 
@@ -246,21 +246,19 @@ I stopped walking.
 
 Darkness lay heavy over the world, and torches burned red throughout the Inner Court.
 
-As I stared blankly into their flames, lost in thought, I suddenly felt a shock as if something had pierced through the top of my head.
+I stared absently into their flames, lost in thought. Then a realization struck me like a blow through the top of my head.
 
 “Could it be…?”
 
 The words escaped me like a groan and faded into the darkness.
 
-Just then—
+*Rustle.*
 
-Swish.
-
-The shadow cast by a wavering torch touched the tips of my feet.
+The shadow of a wavering torch reached my feet.
 
 Like that cursed being who no longer existed. Like the one who had smiled even as he met his eternal Erasure.
 
-And at the same time, a conversation buried in the depths of my memories rang in my ears like an illusion.
+At the same moment, a conversation long buried in my memory echoed in my ears.
 
 *The great king has overcome a god’s curse. He may waver, but he will not break. Even if he falls, he will rise again. And at last, he will make all the earth and water in this world his own.*
 
