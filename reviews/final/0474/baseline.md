@@ -92,7 +92,7 @@ No. Everything changed in response to its fury.
 
 It was a truly frightening and bizarre sight. Lightning struck without pause from a sky shrouded in unusually thick black clouds, while rain poured down in a deluge unlike anything seen in the past fifty years.
 
-Swollen several times over by the abnormal weather of the past several shichen,[^1] the river formed whirlpools large and small that circled the Water God Dragon.
+Swollen several times over by the abnormal weather of the past several shichen, the river formed whirlpools large and small that circled the Water God Dragon.
 
 *Kwaaaaaaaaa!*
 
@@ -124,7 +124,7 @@ Things of the strange, prodigious force, rebellion, and ghosts.
 
 Everything embodied by that four-character phrase was unfolding before them.
 
-An inexplicable being and phenomena beyond the understanding of even two men who had spent long years in the Murim[^2] were appearing before their eyes.
+An inexplicable being and phenomena beyond the understanding of even two men who had spent long years in the Murim were appearing before their eyes.
 
 But the words *supernatural powers* did not belong to only one being.
 
@@ -226,7 +226,7 @@ But his very foundation was different.
 
 As a martial artist, Jin Taekyung was a powerful fighter who had reached the Supreme Peak realm.
 
-Yet even if the internal energy and martial insight he had accumulated over several jiazi[^3] vanished, he would still be strong in his own right.
+Yet even if the internal energy and martial insight he had accumulated over several jiazi vanished, he would still be strong in his own right.
 
 It was as though the power of heaven had taken residence in a human body made of mere flesh.
 
@@ -248,7 +248,7 @@ Now it was time to pass that answer on to someone else.
 
 Just as Jeok Cheongang shrugged, Cheongpung spoke with a determined expression.
 
-“Come on, let’s go too. Mimi![^4] Strike with lightning! Whip up a whirlwind!”
+“Come on, let’s go too. Mimi! Strike with lightning! Whip up a whirlwind!”
 
 ……*Chirik, chiriririk?*
 
@@ -256,7 +256,7 @@ Just as Jeok Cheongang shrugged, Cheongpung spoke with a determined expression.
 
 “……That idiot’s no different.”
 
-Just as Jeok Cheongang threatened to make Cheongpung drink liquor made from a Thousand-Year Poison Horned Snake if he spouted one more load of bullshit, an eerie silence and oppressive presence bore down upon everything within a radius of several dozen *jang*.[^5]
+Just as Jeok Cheongang threatened to make Cheongpung drink liquor made from a Thousand-Year Poison Horned Snake if he spouted one more load of bullshit, an eerie silence and oppressive presence bore down upon everything within a radius of several dozen *jang*.
 
 *Gugugugugung!*
 
@@ -331,9 +331,3 @@ Why?
 *Kwaaaaaaaaaah!*
 
 …Why the hell was this bastard using Breath?
-
-[^1]: A *shichen* is a traditional time unit of approximately two hours.
-[^2]: *Murim* is the world of martial artists and their sects.
-[^3]: A *jiazi* is a traditional sixty-year cycle.
-[^4]: Mimi is a worker at Honghwaru whose name Cheongpung invokes here.
-[^5]: A *jang* is a traditional length of about 3.03 m (9.94 ft).
