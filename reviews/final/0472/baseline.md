@@ -8,7 +8,7 @@ As agony spread through it like fire, the Mutated Water God Dragon unleashed a p
 
 —Kraaaaaaaaaah!
 
-Its torso was as thick as a dozen or so full-grown trees bundled together, and its length easily exceeded thirty *jang*[^1].
+Its torso was as thick as a dozen or so full-grown trees bundled together, and its length easily exceeded thirty *jang*.
 
 When that enormous body, like a small mountain, began thrashing wildly, the shock waves swept through everything around it.
 
@@ -20,7 +20,7 @@ The entire area was being devastated as though under concentrated bombardment, y
 
 *Shh-shh-shik!*
 
-Some charged toward the monster. Others retreated beyond the reach of its thrashing body. Zhuge Feng—the current Family Head of the Zhuge Clan and the Crouching Dragon Guest[^2]—belonged to the latter group.
+Some charged toward the monster. Others retreated beyond the reach of its thrashing body. Zhuge Feng—the current Family Head of the Zhuge Clan and the Crouching Dragon Guest—belonged to the latter group.
 
 Having finally regained his senses, he stared in bewilderment at the scene before him.
 
@@ -28,7 +28,7 @@ Having finally regained his senses, he stared in bewilderment at the scene befor
 
 Zhuge Feng possessed extensive knowledge of creatures known as spiritual creatures or evil creatures, but this dragon-like monster defied everything he knew.
 
-If word of what had happened here today reached the outside world, not only Murim[^3] but the entire realm would be thrown into an uproar.
+If word of what had happened here today reached the outside world, not only Murim but the entire realm would be thrown into an uproar.
 
 *How could something like this happen…?*
 
@@ -68,7 +68,7 @@ Cheongpung thought for a moment, then nodded.
 
 “…?”
 
-“Don’t look at me like that. It’s simply that this isn’t a battle I need to fight today. It’s the same reason Zhuge Wuhou[^4], our family’s ancestor, did not stand at the vanguard and cut down the enemy.”
+“Don’t look at me like that. It’s simply that this isn’t a battle I need to fight today. It’s the same reason Zhuge Wuhou, our family’s ancestor, did not stand at the vanguard and cut down the enemy.”
 
 Zhuge Feng knew exactly where he stood and what he needed to do.
 
@@ -86,7 +86,7 @@ The peace that had lasted for more than fifty years was over. Dark clouds filled
 
 Cheongpung, racing toward the distant battlefield, was one of those winds.
 
-*Wuhou[^4]. At least for today, it seems there is no place for this unworthy descendant to step forward.*
+*Wuhou. At least for today, it seems there is no place for this unworthy descendant to step forward.*
 
 Just as Zhuge Feng murmured those words to himself, a dazed conversation behind him drifted into his ears.
 
@@ -164,7 +164,7 @@ No matter how tough the monster’s body was, his Force could have cut through i
 
 The problem was its thickness.
 
-The monstrous tail was two *jang*[^1] in diameter.
+The monstrous tail was two *jang* in diameter.
 
 Combined with flesh far tougher than he had anticipated…
 
@@ -186,7 +186,7 @@ His small, slender figure was flung backward through the air.
 
 Mungyeong twisted in midair and landed with a rough movement wholly unsuited to the name Ghost Illusory Slaughter Step. Beside him, Jeok Cheongang melted an incoming boulder with a single palm strike and spoke in a mocking tone.
 
-“Did your martial arts become childish too after you Returned to Youth[^5]?”
+“Did your martial arts become childish too after you Returned to Youth?”
 
 “Its strength and speed both far exceeded my expectations. Even with the principle of Four Ounces Deflecting a Thousand Catties, I couldn’t redirect it completely.”
 
@@ -268,7 +268,7 @@ Mungyeong’s eyes widened.
 
 *Boom-boom-boom! Fwoooosh!*
 
-A tremendous roar and vibration spread across a radius of several dozen *jang*[^1].
+A tremendous roar and vibration spread across a radius of several dozen *jang*.
 
 At the center of it all, Jeok Cheongang stood tall and completely unscathed.
 
@@ -286,8 +286,6 @@ Mungyeong turned toward the monster’s enormous body. Cheongpung, who had just 
 
 At last, they saw it.
 
-—Gwoooooooooah!
-
 The monster thrashing wildly—and someone dangling from its head at a dizzying height, ripping out its whiskers with his bare hands.
 
 “Bald head! Baldy! Smooth, shiny baldy!”
@@ -297,9 +295,3 @@ The monster thrashing wildly—and someone dangling from its head at a dizzying 
 —Kroooooooooah!
 
 The Water God Dragon’s mournful wail rang out through the wind and rain.
-
-[^1]: A *jang* is a traditional Korean length of ten *ja*, about 3.03 m (9.94 ft). Thirty *jang* is about 91 m (298 ft), and two *jang* is about 6.06 m (19.9 ft).
-[^2]: “Crouching Dragon” alludes to Zhuge Liang, the Chinese strategist associated with that epithet.
-[^3]: *Murim* is the world or community of martial artists in Korean martial-arts fiction.
-[^4]: Zhuge Wuhou is an honorific title for Zhuge Liang, a Chinese statesman and military strategist; “Wuhou” is its shortened form here.
-[^5]: Returned to Youth refers to a martial-arts-fiction phenomenon in which advanced attainment restores a person’s youthful appearance.
