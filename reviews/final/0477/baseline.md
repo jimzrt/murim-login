@@ -76,9 +76,9 @@ And the fucking human gripping that spear was smiling.
 
 My mother had always been lenient when it came to raising her children.
 
-She never believed studying was the only path to success. Even when she saw my high school report card—sevens in every subject,[^1] like I’d hit the slot-machine jackpot—she ended her lecture with one short remark.
+She never believed studying was the only path to success. Even when she saw my high school report card—sevens in every subject, like I’d hit the slot-machine jackpot—she ended her lecture with one short remark.
 
-“Amazing, my son…”
+*“Amazing, my son…”*
 
 Hmm. Now that I thought about it, she may already have given up on me halfway by then.
 
@@ -96,21 +96,23 @@ Even though I had no talent for studying, I enjoyed novels like that. Sometimes,
 
 For example, the scene where the Lilliputians tied Gulliver down with ropes.
 
-“Mom! Look! I caught Hayeon! She’ll be quiet now!”
+*“Mom! Look! I caught Hayeon! She’ll be quiet now!”*
 
-“Waaaaaah! Mommy!”
+*“Waaaaaah! Mommy!”*
 
-“No! Hayeon! My daughter!”
+*“No! Hayeon! My daughter!”*
 
 Of course, my curiosity did not end particularly well.
 
-When my mother saw her young daughter bound from head to toe in blue packing tape, she screamed. Then she used a *hyojason*[^2] to beat the calves of the son who had just proven himself decidedly unfilial.
+When my mother saw her young daughter bound from head to toe in blue packing tape, she screamed. Then she used a *hyojason*[^1] to beat the calves of the son who had just proven himself decidedly unfilial.
+
+[^1]: A Korean back scratcher whose name literally means “filial son’s hand.”
 
 But with a tenacity unusual for an elementary schooler, I did not shed a single tear.
 
 I did, however, reflect on where I had gone wrong.
 
-“Next time, I need to tape her mouth shut too, so she can’t scream!”
+*“Next time, I need to tape her mouth shut too, so she can’t scream!”*
 
 Ah, what fond memories.
 
@@ -240,7 +242,7 @@ The illegal resident of Mount Jiuhua.
 
 The firebug of the Great Faction War.
 
-A national-level thug who had dominated the Murim[^3] with seniority as insane as Bodhidharma’s skull water[^4] and martial arts even more explosive.
+A national-level thug who had dominated the Murim with seniority as insane as Bodhidharma’s skull water and martial arts even more explosive.
 
 Just looking at him made my heart race and my eyes burn.
 
@@ -316,7 +318,7 @@ The three people who had grown accustomed to waiting for my orders sprang into a
 
 Jeok Cheongang, Mungyeong, Cheongpung—and me.
 
-The first and strongest raid team in the history of the Murim[^3] shot toward the enormous body of the monster writhing in agony.
+The first and strongest raid team in the history of the Murim shot toward the enormous body of the monster writhing in agony.
 
 *Shweeeeeek!*
 
@@ -397,8 +399,3 @@ The next moment, the Mutated Water God Dragon heard a low, steady voice.
 “You’ve worked hard.”
 
 *Thk!*
-
-[^1]: South Korean high school grades used a nine-band scale, with 1 the highest and 9 the lowest.
-[^2]: A Korean back scratcher whose name literally means “filial son’s hand.”
-[^3]: *Murim* is the world of martial artists and their factions in Korean martial-arts fiction.
-[^4]: An allusion to a Korean Buddhist tale usually told about the monk Wonhyo, who drank water in the dark and later discovered it had come from a skull.
