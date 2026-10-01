@@ -16,9 +16,9 @@ Besides, even if he did talk, everyone would dismiss him as a senile old madman.
 
 *And he won’t have to worry about money anymore. All things considered, it’s not a bad arrangement for him.*
 
-Mungyeong wondered what expression the boatman would make when he discovered the money pouch beside the brazier. He also recalled what the person who had asked him to deliver it had said.
+Mungyeong wondered what expression the boatman would make when he discovered the money pouch beside the brazier—and how he would react to the message from the person who had asked Mungyeong to deliver it.
 
-“He came along for no good reason and nearly died. The least we can do is give him hazard pay and workers’ compensation.”
+*He came along for no good reason and nearly died. The least we can do is give him hazard pay and workers’ compensation.*
 
 Workers’ compensation?
 
@@ -60,7 +60,7 @@ That included their conversation.
 
 “About what?”
 
-“Oh, come on. Don’t pretend you don’t know. What else could I mean but the dark-path figures of Murim[^1] who committed those heinous crimes at Dark Heaven’s instigation?”
+“Oh, come on. Don’t pretend you don’t know. What else could I mean but the dark-path figures of Murim who committed those heinous crimes at Dark Heaven’s instigation?”
 
 “What could a mere medical apprentice like me possibly say? I’m simply grateful the culprits have finally been captured. All I can do is devote myself to my duties.”
 
@@ -136,7 +136,7 @@ Mungyeong stared at the middle-aged medical apprentice in disbelief and clicked 
 
 If even a medical apprentice who could be considered educated acted like this, then the reaction of ordinary people was obvious.
 
-*They’ll praise the Son of Heaven[^2] without a shred of doubt. It’s only been two days, so the report on this incident probably hasn’t even reached the imperial palace yet.*
+*They’ll praise the Son of Heaven without a shred of doubt. It’s only been two days, so the report on this incident probably hasn’t even reached the imperial palace yet.*
 
 A fabricated lie. A hidden truth.
 
@@ -158,7 +158,7 @@ There, he found a master and Disciple proudly displaying the depth of their affe
 
 “You fucking piece of—”
 
-“Dormammu,[^3] I’ve come to take a shit. Ah, sorry. It slipped out on instinct.”
+“Dormammu, I’ve come to take a shit. Ah, sorry. It slipped out on instinct.”
 
 “I swear on the ancestors of our sect, I’ll stuff shit into your mouth!”
 
@@ -194,7 +194,7 @@ He had drastically reduced its power, presumably because he possessed at least a
 
 *My insides are getting nice and warm.*
 
-Who needed gukbap?[^4] One bowl of Flame Divine Palm, and I already felt full.
+Who needed gukbap?[^1] One bowl of Flame Divine Palm, and I already felt full.
 
 “Ugh…”
 
@@ -292,7 +292,7 @@ I knew he was trying to look out for me, but somehow, that only made me feel sad
 
 Mungyeong narrowed his eyes as he listened to Jeok Cheongang’s utterly incoherent argument.
 
-“I can feel my innate qi[^5] draining away just standing here. Enough. I didn’t come for this pointless exchange.”
+“I can feel my innate qi draining away just standing here. Enough. I didn’t come for this pointless exchange.”
 
 Before Jeok Cheongang could say anything else, I hurriedly spoke up.
 
@@ -316,7 +316,7 @@ The Dongting Fisherman was the exact opposite. This was only my guess, but he mu
 
 “What?”
 
-“All four of his limbs were crushed, and his internal injuries are considerable. He’s a Supreme Peak master, and the City Lord gave him an elixir, so he should recover quickly. But that imugi[^6] must have gotten him good.”
+“All four of his limbs were crushed, and his internal injuries are considerable. He’s a Supreme Peak master, and the City Lord gave him an elixir, so he should recover quickly. But that imugi must have gotten him good.”
 
 “…”
 
@@ -338,7 +338,7 @@ Honglan.
 
 The culprit behind this entire incident.
 
-The woman who had corrupted the imugi[^6] that had guarded the Yangtze and Dongting Lake for more than five hundred years and caused countless deaths.
+The woman who had corrupted the imugi that had guarded the Yangtze and Dongting Lake for more than five hundred years and caused countless deaths.
 
 And the woman I had never managed to find.
 
@@ -356,9 +356,4 @@ Gung Gibang must have raced here using his movement technique at full speed. He 
 
 “……!”
 
-[^1]: *Murim* is the world of martial artists and their sects, distinct from ordinary society.
-[^2]: *Son of Heaven* is a traditional title for the Chinese Emperor.
-[^3]: Dormammu is a character from *Doctor Strange*. The line parodies the repeated phrase “Dormammu, I’ve come to bargain.”
-[^4]: *Gukbap* is rice served in hot soup, a common Korean comfort food.
-[^5]: *Qi* is vital energy in Chinese thought and martial arts; *innate qi* is the vital energy a person is born with.
-[^6]: An *imugi* is a legendary Korean serpent often associated with dragons.
+[^1]: *Gukbap* is rice served in a hot, hearty soup, a common Korean comfort food.
