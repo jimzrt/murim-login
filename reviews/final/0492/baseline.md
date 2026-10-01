@@ -10,7 +10,7 @@ Zhuge Feng’s eyes shone with rapture as he stroked the silver scales.
 
 “This strength. This beauty. I can hardly believe it.”
 
-The Water God Dragon had died without ever becoming a true dragon, but it was still a divine imugi[^1] that had lived for five hundred years.
+The Water God Dragon had died without ever becoming a true dragon, but it was still a divine imugi that had lived for five hundred years.
 
 Its body had already proven itself in battle. It was both armor and a weapon in its own right.
 
@@ -20,11 +20,11 @@ Zhuge Feng wasn’t exaggerating in the slightest.
 
 The scales were harder than steel, and even Sword Energy could not cut clean through them. The bones beneath were harder still.
 
-Even in the modern age, with its advanced Magic-powered forging, material like this would sell for whatever price its owner named. In Murim,[^2] its value went without saying.
+Even in the modern age, with its advanced Magic-powered forging, material like this would sell for whatever price its owner named. In Murim, its value went without saying.
 
 *It may not be on the level of Ten-Thousand-Year Cold Iron, but… it’s an incredible treasure.*
 
-The Water God Dragon’s body stretched for more than a hundred zhang,[^3] and every inch of it was made up of treasures like those.
+The Water God Dragon’s body stretched for more than a hundred zhang,[^1] and every inch of it was made up of treasures like those.
 
 Armor made from those scales would not be pierced even by a crossbow. A weapon made from its bones would be harder and sharper than one made from meteorite iron.
 
@@ -32,11 +32,11 @@ Martial arts manuals, elixirs, and exceptional weapons—the three things every 
 
 It was only natural that greed showed in Zhuge Feng’s eyes, and in several others’.
 
-“If we made a Dog-Beating Staff[^4] out of that…”
+“If we made a Dog-Beating Staff out of that…”
 
 Hyuk Mujin objected to Gung Gibang’s muttering.
 
-“Why make a Dog-Beating Staff[^4] out of the bones? You’d want a sword. A Bone Sword made from an imugi’s[^1] bones… Just imagine it.”
+“Why make a Dog-Beating Staff out of the bones? You’d want a sword. A Bone Sword made from an imugi’s bones… Just imagine it.”
 
 “Are you looking down on the Beggars’ Sect?”
 
@@ -44,9 +44,9 @@ Hyuk Mujin objected to Gung Gibang’s muttering.
 
 “Want me to beat you like a dog?”
 
-“Come on, calm down. There’s enough there to make a hundred Dog-Beating Staffs[^4] or swords with plenty left over. Why fight about it?”
+“Come on, calm down. There’s enough there to make a hundred Dog-Beating Staffs or swords with plenty left over. Why fight about it?”
 
-“Fair point. Then I call one Dog-Beating Staff.[^4]”
+“Fair point. Then I call one Dog-Beating Staff.”
 
 “And I’ll reserve a sword…”
 
@@ -66,7 +66,7 @@ These bastards still didn’t get it.
 
 I frowned and shook a large fist at them threateningly.
 
-“You two useless bastards couldn’t do a damn thing when we were fighting, and now you’re talking about Dog-Beating Staffs?[^4] Swords? Reservations?”
+“You two useless bastards couldn’t do a damn thing when we were fighting, and now you’re talking about Dog-Beating Staffs? Swords? Reservations?”
 
 “Well, that’s…”
 
@@ -120,7 +120,7 @@ There was wisdom in the voice alone. Perfected Being Hyeongong of Wudang stepped
 
 Jin Wikyung, who was also seeing the Water God Dragon for the first time, nodded solemnly.
 
-“You’re quite right, Perfected Being. It sacrificed itself to prevent even greater bloodshed. This imugi[^1] deserves to be called a Divine Dragon.”
+“You’re quite right, Perfected Being. It sacrificed itself to prevent even greater bloodshed. This imugi deserves to be called a Divine Dragon.”
 
 “A terrible loss. We owe it so much. Should we not all pray for its soul together?”
 
@@ -128,7 +128,7 @@ Perfected Being Hyeongong was exactly what one would expect from an old Daoist w
 
 He was nothing like the human garbage beside me, who couldn’t muster a shred of gratitude.
 
-Overcome by a sudden surge of faith in the Primordial Heavenly Venerable,[^5] I quickly clasped my hands together.
+Overcome by a sudden surge of faith in the Primordial Heavenly Venerable, I quickly clasped my hands together.
 
 “Amen.”
 
@@ -136,21 +136,21 @@ Hyeongong, who had been reciting a Daoist prayer, flinched and turned to me.
 
 “Amen?”
 
-“My mistake. Amitabha.[^6]”
+“My mistake. Amitabha.”
 
-“…Repeat after me. Infinite Life Buddha.[^7]”
+“…Repeat after me. Infinite Life Buddha.”
 
-“Ah, sorry. Infinite Life Buddha.[^7]”
+“Ah, sorry. Infinite Life Buddha.”
 
-“Excellent. The Primordial Heavenly Venerable[^5] will watch over you, Young Friend Jin.”
+“Excellent. The Primordial Heavenly Venerable will watch over you, Young Friend Jin.”
 
 “Ah. Yes.”
 
 *Does Wudang have missionaries too?*
 
-Hyeongong smiled like a Civilization[^8] player going for a religious victory. After a short prayer, he looked up at the sky.
+Hyeongong smiled like a Civilization player going for a religious victory. After a short prayer, he looked up at the sky.
 
-“You, divine imugi.[^1] I pray that you become an Azure Dragon there and soar across the heavens.”
+“You, divine imugi. I pray that you become an Azure Dragon there and soar across the heavens.”
 
 “Ah…”
 
@@ -184,7 +184,7 @@ He wasn’t a Daoist. He was a lunatic.
 
 Looking at the man I’d trusted for all of a moment, I was reminded of something.
 
-*Every last one of these Murim[^2] bastards is hopeless.*
+*Every last one of these Murim bastards is hopeless.*
 
 * * *
 
@@ -196,13 +196,13 @@ One battle remained, and sometimes it got even fiercer than the raid itself.
 
 Hunters had to make a living, after all.
 
-Maybe things were different for top Hunters earning several billion to tens of billions of won[^9] a year. In a raid party of lower-tier Hunters, though, arguments over byproducts worth a few tens of thousands of won[^10] were commonplace. That was why contracts were essential.
+Maybe things were different for top Hunters earning tens or hundreds of billions of won a year. In a raid party of lower-tier Hunters, though, arguments over byproducts worth just a few tens of thousands of won were commonplace. That was why contracts were essential.
 
 And the Water God Dragon’s corpse was a treasure of immense value all by itself.
 
 We’d gone into this raid without drawing up a contract. In the modern world, that would have led to an enormous dispute.
 
-But this was Murim.[^2] The people here belonged to the physical school: they preferred settling matters with their bodies to talking things out.
+But this was Murim. The people here belonged to the physical school: they preferred settling matters with their bodies to talking things out.
 
 I knew just the word for people like that.
 
@@ -276,13 +276,13 @@ At Jin Wikyung’s booming shout, I immediately bowed my head.
 
 Zhuge Feng seemed to sense something was wrong, but Jin Wikyung’s scolding went on.
 
-“Taekyung, you played the greatest part in defeating the Water God Dragon! You practically saved Sir Zhuge’s life! But he is still the Family Head of a great clan and a respected elder of Murim![^2]”
+“Taekyung, you played the greatest part in defeating the Water God Dragon! You practically saved Sir Zhuge’s life! But he is still the Family Head of a great clan and a respected elder of Murim!”
 
 “Whew. I’ve committed a crime worthy of death.”
 
 “Wait, Lesser Family Head.”
 
-“You may have been raised without manners, but you’re still a youngster! How dare you treat Sir Zhuge, a man renowned throughout Murim,[^2] as though he were some shameless bastard? As soon as we return to our family, I’ll…!”
+“You may have been raised without manners, but you’re still a youngster! How dare you treat Sir Zhuge, a man renowned throughout Murim, as though he were some shameless bastard? As soon as we return to our family, I’ll…!”
 
 “Lesser Family Head Jiiin!”
 
@@ -302,7 +302,7 @@ Zhuge Feng cried out desperately and waved a hand, looking thoroughly fed up.
 
 “…Whew.”
 
-*Game over. Yoshi, grand season.[^11]*
+*Game over. Yoshi, grand season.*
 
 Zhuge Feng wilted, worn out in body and spirit. Jin Wikyung and I exchanged satisfied smiles.
 
@@ -322,22 +322,12 @@ This was a battle we couldn’t retreat from—and shouldn’t.
 
 Only by standing our ground against anyone who challenged us could we become true Hunters and true martial artists.
 
-“Ten percent. Hand it over. Or hand over your neck.”
+—Ten percent. Hand it over. Or hand over your neck.
 
-“We’ll hand it over.”
+—We’ll hand it over.
 
 But there were exceptions to every rule.
 
 …Fuck.
 
-[^1]: An *imugi* is a serpent-like creature in Korean folklore that may become a dragon.
-[^2]: *Murim* is the martial-arts world of fighters, sects, and clans.
-[^3]: A *zhang* is a traditional Chinese unit equal to ten *chi*, about 3.03 m (9.94 ft). A hundred zhang is about 303 m (994 ft).
-[^4]: The Dog-Beating Staff is the signature weapon associated with the Beggars’ Sect.
-[^5]: The Primordial Heavenly Venerable is a deity in Daoism.
-[^6]: Amitabha is a Buddha whose name is used as a Buddhist invocation.
-[^7]: Infinite Life Buddha is a Buddhist invocation referring to the Buddha of Infinite Life.
-[^8]: *Civilization* is a strategy video game series in which a player can pursue a religious victory.
-[^9]: Several billion to tens of billions of won is roughly ₩2 billion–₩99 billion, or about $1.4 million–$71 million and €1.3 million–€64 million.
-[^10]: A few tens of thousands of won is roughly ₩20,000–₩90,000, or about $14–$64 and €13–€58.
-[^11]: “Yoshi, grand season” is a Korean internet catchphrase used to celebrate a win.
+[^1]: A zhang is a traditional East Asian unit of length, roughly 3.3 meters.
