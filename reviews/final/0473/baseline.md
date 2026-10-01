@@ -64,11 +64,11 @@ Before I could even blink, a cliff rushed right up to my face.
 
 A tremendous shock wave crashed over me with a roar that seemed to split the sky apart. My vision blurred, and my eyes lost focus.
 
-The Water God Dragon had slammed its head into the cliff with tens of thousands—perhaps hundreds of thousands—of *geun*[^1] of force, but it did not stop there.
+The Water God Dragon had slammed its head into the cliff with tens of thousands—perhaps hundreds of thousands—of *geun* of force, but it did not stop there.
 
 *Whoooooosh!*
 
-The length of its torso exposed above the water alone was more than thirty *jang*.[^2] Counting the portion still submerged, it was comparable in size to a modern aircraft carrier.
+The length of its torso exposed above the water alone was more than thirty *jang*. Counting the portion still submerged, it was comparable in size to a modern aircraft carrier.
 
 Once a monster that enormous began rampaging like a mad thing, nothing could stop it.
 
@@ -116,7 +116,7 @@ But in a situation like this, who cared about sword technique?
 
 Faster than anyone else, different from everyone else. It was time to become a sashimi master, working to a whole new rhythm atop his cutting board.
 
-“From now on, your name is live-fish sashimi. Or maybe bone-in sashimi.”[^3]
+“From now on, your name is live-fish sashimi. Or maybe bone-in sashimi.”[^1]
 
 I made the solemn declaration and drove the short sword, its blade wrapped in blue-white Scorching Yang Qi, straight into its flesh.
 
@@ -152,7 +152,7 @@ After shattering bone and slicing through flesh, the blade withdrew and shot for
 
 My physical abilities, which could be called superhuman, certainly played a part. But the wrist snap I had trained through the USB—a treasure of humanity—was enough to make even a Peak sword master yield a move.
 
-*Ah. So this is All Streams Returning to the Source…*[^4]
+*Ah. So this is All Streams Returning to the Source…*
 
 When had it been?
 
@@ -160,11 +160,11 @@ Shortly after I attained sagehood, I had decided to destroy the USB, and Jin-ho 
 
 His words flashed through my mind.
 
-“Taekyung, remember the words left behind by our ancient ancestors. A ghost who dies after getting one off has a healthy glow. Getting one off is always worth it.”
+*Taekyung, remember the words left behind by our ancient ancestors. A ghost who dies after getting one off has a healthy glow. Getting one off is always worth it.*
 
-“…Which ancestor said that?”
+*…Which ancestor said that?*
 
-“Does that matter? The problem is that you’re about to destroy a national-treasure-grade cultural artifact. If you erase that thing, I’ll report you directly to the Cultural Heritage Administration. You’re looking at a minimum of twenty-five years in prison with no chance of parole.”
+*Does that matter? The problem is that you’re about to destroy a national-treasure-grade cultural artifact. If you erase that thing, I’ll report you directly to the Cultural Heritage Administration. You’re looking at a minimum of twenty-five years in prison with no chance of parole.*
 
 *Is he insane?*
 
@@ -176,13 +176,13 @@ But looking back now, those words were unquestionably the greatest saying since 
 
 I felt profound gratitude toward Jin-ho and thought of the women who had now become memories.
 
-*Thank you, Uehara. I love you, dutiful daughter of the mapo tofu[^5] restaurant.*
+*Thank you, Uehara. I love you, dutiful daughter of the mapo tofu restaurant.*
 
 *Schk! Puh-puh-puh-puh-puhuk!*
 
 —Graaaargh!
 
-Ah, what a *sugoi*[^6] scream.
+Ah, what a *sugoi* scream.
 
 My gratitude-filled pro-Japanese sword technique gouged into the gaping pupil and drove deeper and deeper inside.
 
@@ -364,9 +364,4 @@ I smiled brightly and tore out its whiskers.
 
 *Kwadeudeuk!*
 
-[^1]: A Korean *geun* is a unit of weight equal to 600 g (1.32 lb); here it describes the force of the impact.
-[^2]: A *jang* is ten *cheok*, or about 3.03 m (9.94 ft). Thirty *jang* is about 91 m (298 ft).
-[^3]: *Hwal-eo-hoe* is raw fish prepared from live fish, while *sekkosi* is thinly sliced raw fish served with the bones left in.
-[^4]: *Mallyu gwijong* is a martial-arts expression for different paths or techniques ultimately converging on the same principle.
-[^5]: Mapo tofu is a Sichuan dish of tofu in a spicy sauce, traditionally made with minced meat.
-[^6]: *Sugoi* is Japanese for “amazing” or “impressive.”
+[^1]: *Hwal-eo-hoe* is sashimi prepared from live fish, while *sekkosi* is thinly sliced raw fish served with the bones left in.
