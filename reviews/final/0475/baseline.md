@@ -4,7 +4,7 @@ The Mutated Water God Dragon.
 
 When you got right down to it, this bastard was a dragon too.
 
-It might have been closer to an *imugi*[^1] than a true dragon, considering it could neither roam beneath the azure heavens nor wield a dragon pearl.[^2]
+It might have been closer to an *imugi* than a true dragon, considering it could neither roam beneath the azure heavens nor wield a dragon pearl.
 
 But there was one problem…
 
@@ -14,7 +14,7 @@ And not just any Breath. A fucking powerful one.
 
 *Kwaaaaaaaaaah!*
 
-I stared with my mouth hanging open as an enormous sphere of water spread across a radius of several dozen *jang*.[^3]
+I stared with my mouth hanging open as an enormous sphere of water spread across a radius of several dozen *jang*.
 
 The ground, built up layer upon layer over centuries by sediment flowing from the Yangtze, collapsed by nearly half in an instant.
 
@@ -26,7 +26,7 @@ That was not merely an enormous quantity of water gathered together and fired al
 
 With the Mutated Water God Dragon’s immense qi infused into the sphere, it was only right to call it Water Breath from now on.
 
-*Water Breath in the Murim.*[^4]
+*Water Breath in the Murim.*
 
 It would have been more natural if some insane undead monster had insisted it was from Atlanta, Georgia, in the United States.
 
@@ -34,7 +34,7 @@ I stared in horror as the Water Breath vomited by the Water God Dragon pulverize
 
 At the same moment, three figures shot away from the ground being reduced to a wasteland.
 
-“Mimi,[^5] blow up the water orb!”
+“Mimi, blow up the water orb!”
 
 “…You’re completely insane. I felt murderous intent for a moment there without even realizing it.”
 
@@ -186,7 +186,7 @@ But one of them chose a direction completely opposite to the other two.
 
 Seeing Jeok Cheongang charge alone toward the monster instead of dodging, Mungyeong sent a Sound Transmission.
 
-“Fire King!”
+—Fire King!
 
 But rather than answer, Jeok Cheongang thrust one palm toward the oncoming wave.
 
@@ -244,7 +244,7 @@ Jeok Cheongang walked toward the writhing monster, his eyes blazing as he contin
 
 Cheongpung joined in with an innocent voice.
 
-“Wow. Do eels really get that big? Are they all about fifty *jang*[^3] long?”
+“Wow. Do eels really get that big? Are they all about fifty *jang* long?”
 
 “I feel the urge to kill rising.”
 
@@ -274,7 +274,7 @@ Just as Jeok Cheongang and Mungyeong exchanged determined looks, Cheongpung sudd
 
 “……?”
 
-“It’s true. On the way here, Benefactor… Uh, what was it again? Oh, right. He asked me to call him Aguaman.”[^6]
+“It’s true. On the way here, Benefactor… Uh, what was it again? Oh, right. He asked me to call him Aguaman.”
 
 What the hell was that supposed to mean?
 
@@ -307,10 +307,3 @@ At the same time, a thunderous shout burst from Jin Taekyung’s lips as he land
 What burned in his eyes was not the look of a martial artist.
 
 It was the look of a seasoned Hunter.
-
-[^1]: An *imugi* is a serpent-like creature in Korean folklore associated with dragons.
-[^2]: A dragon pearl is a legendary orb associated with dragons in East Asian folklore.
-[^3]: One *jang* is about 3.03 meters (9.94 ft). Fifty *jang* is about 150 meters (500 ft).
-[^4]: *Murim* refers to the world and community of martial artists.
-[^5]: Mimi works at Honghwaru. Taekyung’s command imitates the way a Pokémon trainer calls out a creature’s move.
-[^6]: Aguaman is Cheongpung’s mistaken version of Aquaman, a superhero associated with the sea.
