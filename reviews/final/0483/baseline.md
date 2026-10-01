@@ -14,7 +14,7 @@ Honglan—or rather, the Southern Heaven Demon Empress, inhabiting the body of a
 
 Western Heaven Demon Lord and Southern Heaven Demon Empress.
 
-Even Mimi-chan[^1] could tell that those sobriquets had been created with the four directions in mind.
+Even Mimi-chan could tell that those sobriquets had been created with the four directions in mind.
 
 The Western Heaven Demon Lord was already a monster I had barely managed to defeat after several brushes with death. And there were at least three more like him?
 
@@ -36,7 +36,7 @@ The Southern Heaven Demon Empress gazed at me through someone else’s eyes, the
 
 “……!”
 
-“There’s no way you could have found it in only two days. So I suppose a spiritual creature really is a spiritual creature. Then again, a five-hundred-year-old imugi[^2] would certainly qualify as a divine being.”
+“There’s no way you could have found it in only two days. So I suppose a spiritual creature really is a spiritual creature. Then again, a five-hundred-year-old imugi would certainly qualify as a divine being.”
 
 Having grasped everything in an instant, the Southern Heaven Demon Empress smoothly added,
 
@@ -46,7 +46,7 @@ It was all still vivid. The traces of the Gate I had glimpsed through fragments 
 
 That was something that could not—and should not—have happened.
 
-At least not here in Murim.[^3] It was an incomprehensible phenomenon that should never have appeared in this world.
+At least not here in Murim. It was an incomprehensible phenomenon that should never have appeared in this world.
 
 Yet the Southern Heaven Demon Empress and Dark Heaven had dragged the impossible into reality. It was enough to make me wish it were all a lie.
 
@@ -190,7 +190,7 @@ By then, dark red blood was already flowing from between the officer’s lips. W
 
 *Whoosh.*
 
-Internal energy surged from my dantian[^4] and poured into his body, but the death that had already begun could not be reversed.
+Internal energy surged from my dantian and poured into his body, but the death that had already begun could not be reversed.
 
 Things that outlived their usefulness were discarded.
 
@@ -204,7 +204,7 @@ And it wasn’t only his mouth.
 
 Dark red blood poured from his eyes, nose, and ears—from the seven apertures of the human body.
 
-A death that could not be stopped by several jiazi[^5] of internal energy or even a Pressure-Point Strike loomed before the officer’s eyes.
+A death that could not be stopped by several jiazi of internal energy or even a Pressure-Point Strike loomed before the officer’s eyes.
 
 “It’s too late.”
 
@@ -266,7 +266,7 @@ With her chin resting in her hand as she gazed out the window, the Southern Heav
 
 Then a furious shout thundered over the heads of the Escort Bureau men stealing entranced glances at her.
 
-“Stop gawking and focus on the delivery! Unless you want to get yourselves killed by the Miao people[^6] we’ll meet in a few days!”
+“Stop gawking and focus on the delivery! Unless you want to get yourselves killed by the Miao people we’ll meet in a few days!”
 
 Despite the rough language, the speaker was a woman of dazzling beauty.
 
@@ -315,10 +315,3 @@ At that moment, the Southern Heaven Demon Empress could barely contain her delig
 Delight at the screams and deaths that would soon be heard in another place.
 
 And delight at having met a new face.
-
-[^1]: *-chan* is a Japanese suffix expressing affection or familiarity.
-[^2]: An *imugi* is a legendary Korean serpent associated with dragons.
-[^3]: *Murim* is the martial world: the society of martial artists and their sects.
-[^4]: The *dantian* is an energy center in the body in East Asian martial traditions.
-[^5]: A *jiazi* is a traditional sixty-year cycle.
-[^6]: The Miao are an ethnic group of southwestern China and neighboring regions.
