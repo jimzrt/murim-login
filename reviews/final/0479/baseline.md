@@ -40,7 +40,7 @@ Yes. It had been her.
 
 The Lower District Sect member who had survived the tragedy at Dongting Lake alongside Ju Wongong. A breathtaking beauty capable of swaying an entire nation.
 
-The owner of the hairpin in my hair was the one who had corrupted a benevolent imugi[^1] and stained Dongting Lake and the Yangtze with blood—the culprit behind every incident that had occurred in Hubei Province.
+The owner of the hairpin in my hair was the one who had corrupted a benevolent imugi and stained Dongting Lake and the Yangtze with blood—the culprit behind every incident that had occurred in Hubei Province.
 
 *Why hadn’t I realized it? Where had the lies begun, and where had the truth ended?*
 
@@ -74,7 +74,7 @@ It missed by no more than a hair.
 
 The Fist Force narrowly avoided the Water God Dragon and slammed into the surface of the now-calm lake.
 
-The heat carried by the Scorching Yang Qi[^2] was so intense that every trace of moisture within a radius of several jang[^3] evaporated in an instant.
+The heat carried by the Scorching Yang Qi was so intense that every trace of moisture within a radius of several jang evaporated in an instant.
 
 The Water God Dragon was already at death’s door.
 
@@ -120,8 +120,6 @@ I looked at Mungyeong with the last of my hope, but the man who also bore the so
 
 —You speak the truth, one who walks between life and death.
 
-One who walks between life and death.
-
 Mungyeong’s neatly shaped brows twitched at the words that had seen straight through his identity.
 
 “You… know me?”
@@ -130,11 +128,11 @@ Mungyeong’s neatly shaped brows twitched at the words that had seen straight t
 
 What exactly had been happening in the dreams the Water God Dragon claimed to have?
 
-It was an imugi[^1] that had lived for five hundred years. Even now, with all its strength exhausted and death close at hand, it possessed a depth and mystery beyond anything I could fathom.
+It was an imugi that had lived for five hundred years. Even now, with all its strength exhausted and death close at hand, it possessed a depth and mystery beyond anything I could fathom.
 
 As though gazing at something beyond human understanding, the Water God Dragon stared into the empty air over our shoulders and sent out its mental intent.
 
-—Unfortunately, this is as far as I am permitted to go. Though I cannot speak of the heavenly patterns[^4]… yes, I suppose I may leave one gift behind before I depart.
+—Unfortunately, this is as far as I am permitted to go. Though I cannot speak of the heavenly patterns… yes, I suppose I may leave one gift behind before I depart.
 
 *A gift?*
 
@@ -158,7 +156,7 @@ At the same time, the black stain covering much of the pearl melted away. Each t
 
 What I could see was only part of it.
 
-I could feel the sheer magnitude and depth of the qi[^2] contained within the pearl, and the sight unfolding before me brought a single word to mind.
+I could feel the sheer magnitude and depth of the qi contained within the pearl, and the sight unfolding before me brought a single word to mind.
 
 *Purification.*
 
@@ -170,11 +168,11 @@ At last, when the transformation was complete, an irrepressible gasp escaped som
 
 The pearl now shone with a radiance far brighter than before.
 
-Although it had shrunk to roughly the size of an ordinary pill, the crystal of qi[^2], cleansed of every impurity, contained power of immeasurable clarity and depth.
+Although it had shrunk to roughly the size of an ordinary pill, the crystal of qi, cleansed of every impurity, contained power of immeasurable clarity and depth.
 
 *So pure.*
 
-It was an incredibly powerful crystal of qi.[^2]
+It was an incredibly powerful crystal of qi.
 
 As all of us stared at it in awe—
 
@@ -208,7 +206,7 @@ A faint smile lingered in its eyes as it gazed up at the clear sky.
 
 *Grrr.*
 
-Along with the fading mental intent, the final breath of the imugi[^1] that had failed to become a dragon escaped from its blood-soaked mouth.
+Along with the fading mental intent, the final breath of the imugi that had failed to become a dragon escaped from its blood-soaked mouth.
 
 Then everything stopped, and silence descended.
 
@@ -236,7 +234,9 @@ It gave off a scent so faint that even my keen sense of smell could barely detec
 
 “First tell me what the hell is going on… What? A snake?”
 
-“Yes. A flower snake.”[^5]
+“Yes. A flower snake.”[^1]
+
+[^1]: In Korean slang, a “flower snake” is a woman who seduces men and exploits them.
 
 * * *
 
@@ -252,7 +252,7 @@ When a middle-aged man in a military uniform muttered wistfully, the colleague b
 
 “Your wife should have seen you just now.”
 
-“Don’t say such unlucky things. I’d rather lock eyes with Yama.”[^6]
+“Don’t say such unlucky things. I’d rather lock eyes with Yama.”
 
 “You’re old enough to know better, and you have five children as cute as rabbits. Are you seriously acting like this?”
 
@@ -328,11 +328,11 @@ Officer Song leaned his ear toward Honglan, his heart pounding.
 
 Then her sweet, warm breath tickled his ear.
 
-“The truth is, I used the imugi[^1] living in Dongting Lake to kill a great many people.”
+“The truth is, I used the imugi living in Dongting Lake to kill a great many people.”
 
 “What?”
 
-“But that imugi[^1] just died. I’m sorry to see it go, but at the same time, I’m delighted.”
+“But that imugi just died. I’m sorry to see it go, but at the same time, I’m delighted.”
 
 Officer Song slowly lifted his head and stared blankly at Honglan.
 
@@ -357,10 +357,3 @@ Honglan watched with satisfaction as Officer Song nodded like a man under a spel
 And to the man who had become her captive, she made a request—or rather, issued her first command.
 
 “Shall we change our destination?”
-
-[^1]: An *imugi* is a legendary Korean serpent-like creature associated with becoming a dragon.
-[^2]: *Qi* is vital energy cultivated and used in martial arts.
-[^3]: A *jang* is a traditional Korean measure of length equal to about 3.03 m (9.94 ft).
-[^4]: *Heavenly patterns* are celestial signs read for major changes and omens.
-[^5]: In Korean slang, a “flower snake” is a woman who seduces men and exploits them.
-[^6]: Yama is the Buddhist lord of the underworld.
