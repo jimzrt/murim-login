@@ -8,7 +8,7 @@ Gung Gibang’s announcement did not agitate only me. Immediately after the batt
 
 “What happened?”
 
-After Jeok Cheongang’s blunt question and Mungyeong’s shameless question, asked while he was still concealing his identity, I spoke grimly.
+After Jeok Cheongang’s blunt question and Mungyeong’s shameless question, asked while he was still concealing his identity—I spoke grimly.
 
 “A trace?”
 
@@ -44,7 +44,7 @@ Even setting aside my gut feeling that there was no way she would be caught this
 
 Two days ago, shortly after we left to find the Dongting Fisherman, the government troops had attempted to take Honglan to the Hubei provincial government.
 
-She was the only survivor besides Ju Wongong, a member of the Huang tribe. On the surface, she was also one of the chief contributors to his rescue, alongside me. From the authorities’ perspective, taking her with them had been the obvious choice.
+She was the only survivor besides Ju Wongong, a member of the imperial family. On the surface, she was also one of the chief contributors to his rescue, alongside me. From the authorities’ perspective, taking her with them had been the obvious choice.
 
 *Though that was the last time anyone saw her.*
 
@@ -78,7 +78,7 @@ I blinked silently, then somehow managed to force out my voice.
 
 “All those people… committed suicide together?”
 
-“Without a doubt. They stabbed themselves in the throat with the daggers they carried as standard equipment. When the bodies were examined, they were said to have died with smiles on their faces. Of course, Honglan was nowhere to be found.”
+“Without a doubt. They used the daggers issued to them as standard equipment and stabbed themselves in the throat. When the bodies were examined, they were said to have died with smiles on their faces. Of course, Honglan was nowhere to be found.”
 
 “What the hell?”
 
@@ -100,13 +100,13 @@ The Soul-Seizing Technique.
 
 As the name suggested, it was one of the monstrous martial arts and supreme techniques that bewitched and controlled an opponent’s soul.
 
-I knew what it was because it had often appeared in the wuxia[^1] novels I had read, but this was the first time I had encountered it since coming to Murim.[^2]
+I knew what it was because it had often appeared in the wuxia novels I had read, but this was the first time I had encountered it since coming to Murim.
 
 “Wait. That actually exists?”
 
 Jeok Cheongang stared at me as if I had said something absurd.
 
-“Is that something the man who took down a five-hundred-year-old imugi[^3] should be saying?”
+“Is that something the man who took down a five-hundred-year-old imugi should be saying?”
 
 “…Well, when you put it that way, I don’t really have a response.”
 
@@ -118,11 +118,11 @@ Jeok Cheongang stared at me as if I had said something absurd.
 
 “Because I’m a Supreme Peak master?”
 
-“To break through the wall means that one’s body and mind have reached a supreme realm. And how much more resistant would you be, with your Middle Dantian[^4] awakened?”
+“To break through the wall means that one’s body and mind have reached a supreme realm. And how much more resistant would you be, with your Middle Dantian awakened?”
 
 Jeok Cheongang paused, then suddenly frowned and added,
 
-“No. Perhaps what that bitch wanted was for you to fight the imugi.[^3]”
+“No. Perhaps what that bitch wanted was for you to fight the imugi.”
 
 “Either way, what matters is that the culprit is a master of the Soul-Seizing Technique and has vanished like a ghost.”
 
@@ -154,7 +154,7 @@ Then Jeok Cheongang spoke, his expression stiff.
 
 “…I-I wasn’t speaking to you, Great Hero Jeok.”
 
-“You won’t come to your senses until you’ve been beaten like a dog on slaughter day.[^5] Get down.”
+“You won’t come to your senses until you’ve been beaten like a dog on slaughter day. Get down.”
 
 * * *
 
@@ -202,7 +202,7 @@ Jin Wikyung, who had hurried over after hearing that the sole survivor had been 
 
 “…Yes.”
 
-*Hyung.[^6] That’s the guy.*
+*Hyung. That’s the guy.*
 
 I swallowed the words rising in my throat. The Hubei Branch Leader of the Lower District Sect—who had briefly been treated as an agent of Dark Heaven after mistaking Honglan’s identity—bowed repeatedly and withdrew.
 
@@ -282,7 +282,7 @@ Even a 99.9 percent possibility was still only a guess without that final 0.1 pe
 
 Honglan had revealed her identity without the slightest hesitation. She continued brightly.
 
-“I was surprised. You’ve become much stronger than Blood Lord said you were. Then again, if that were still all you amounted to, the Western Heaven Demon Lord would have killed you before the imugi[^3] got the chance.”
+“I was surprised. You’ve become much stronger than Blood Lord said you were. Then again, if that were still all you amounted to, the Western Heaven Demon Lord would have killed you before the imugi got the chance.”
 
 Why was this happening?
 
@@ -303,10 +303,3 @@ But Honglan shattered my expectations with a single word.
 “The Southern… Heaven Demon Empress?”
 
 *These fucking bastards are really screwing around in every direction—east, west, south, and north.*
-
-[^1]: *Wuxia* is a genre of Chinese fiction about martial artists and their adventures.
-[^2]: *Murim* is the world of martial artists and their organizations, distinct from ordinary society.
-[^3]: An *imugi* is a legendary Korean serpent-like creature associated with dragons.
-[^4]: The *Middle Dantian* is an energy center in martial arts traditions, associated with the chest.
-[^5]: “Slaughter day” refers to *boknal*, the Korean summer dog days, historically associated with eating dog meat.
-[^6]: *Hyung* is how a man addresses an older brother or an older man with whom he is close.
