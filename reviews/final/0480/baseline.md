@@ -106,9 +106,9 @@ Before long, the old man—no, the elderly boatman—was delving into old memori
 
 “I don’t know if you’ve heard of Baekchu, sir. These days, boats like that are common at the Wuhan ferry docks, but when I was young, a man who sailed a Baekchu vessel was considered a first-rate husband prospect. That, or an Audi. You know, the one with four circles on the bow.”
 
-“That sounds somewhat like Five Qi Returning to Origin.[^1]”
+“That sounds somewhat like Five Qi Returning to Origin.”
 
-“Huh? What’s Five Qi Returning to Origin[^1]?”
+“Huh? What’s Five Qi Returning to Origin?”
 
 “It’s something. Let’s move on.”
 
@@ -299,5 +299,3 @@ Then he pointed to the brazier still burning in the corner of the room and the k
 “I boiled that decoction myself. Three times a day. After meals. Make sure you take it.”
 
 Caring for a patient until the very end was a medical apprentice’s duty.
-
-[^1]: Five Qi Returning to Origin is a high realm of martial cultivation; its name draws on the Daoist idea of five vital energies returning to their source.
