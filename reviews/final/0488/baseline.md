@@ -6,7 +6,7 @@ In the broadest sense, it could be called a spiritual creature. But it possessed
 
 *You could tell just by looking at the weather.*
 
-As expected of an imugi[^1] that had lived for five hundred years, there was something different about it.
+As expected of an imugi that had lived for five hundred years, there was something different about it.
 
 When the mutated Water God Dragon had gone on a rampage, thunderbolts and towering waves had nearly turned Dongting Lake upside down. Now, however, the lake was calm, as though nothing had ever happened.
 
@@ -24,7 +24,7 @@ I suddenly felt wronged.
 
 Could he still be pissed because I’d spoken casually to him during the battle?
 
-He hadn’t called me out here just so we could have a little physical conversation, had he?
+He hadn’t called me out here just so we could have a little “physical conversation,” had he?
 
 My unease continued to grow as Mungyeong led me deeper into increasingly secluded territory.
 
@@ -44,7 +44,7 @@ Sure enough, a middle-aged Daoist dressed in Wudang robes emerged from the deep 
 
 Judging by his age, the middle-aged Daoist was clearly their presiding chair. He opened his mouth toward us.
 
-“This area is closed after the Hour of the Dog.[^2] Please turn back—No, wait. Could that be the Blazing Flame Divine Dragon?”
+“This area is closed after the Hour of the Dog. Please turn back—No, wait. Could that be the Blazing Flame Divine Dragon?”
 
 “What?”
 
@@ -75,8 +75,6 @@ Come to think of it, this was my last God-given chance to escape.
 “Slaugh—”
 
 “Hm?”
-
-—Instant execution.
 
 “—The breeze is blowing softly.”
 
@@ -154,7 +152,7 @@ As the middle-aged Daoist stared at me with lukewarm eyes, Mungyeong’s Sound T
 
 *What am I, some kind of avatar?*
 
-But what could I do? In the Murim,[^3] the strong were the law—and the gods.
+But what could I do? In the Murim, the strong were the law—and the gods.
 
 I trudged over, draped an arm around Mungyeong’s shoulders, and pulled a miserable face.
 
@@ -266,7 +264,7 @@ He gave off no ripple of qi, but I could still feel them—the countless blades 
 
 This was Mungyeong’s hidden name and his true nature.
 
-I didn’t know what he had been like in the past. But I would stake Hyuk Mujin’s balls on this: even after some forty years away from the Murim,[^3] Mungyeong’s blades had not dulled in the slightest.
+I didn’t know what he had been like in the past. But I would stake Hyuk Mujin’s balls on this: even after some forty years away from the Murim, Mungyeong’s blades had not dulled in the slightest.
 
 No. If anything, they had undoubtedly grown even sharper.
 
@@ -340,7 +338,7 @@ I had no idea what he meant, so I didn’t even know how to respond.
 
 After hesitating for a moment, I cautiously ventured a guess.
 
-“Ganggangsullae?”[^4]
+“Ganggangsullae?”[^1]
 
 “Jeok Cheongang didn’t tell you any—What?”
 
@@ -366,7 +364,4 @@ Mungyeong stared at me with eyes full of anger and regret, then looked up at the
 
 *Secret martial arts?*
 
-[^1]: An *imugi* is a legendary Korean serpent associated with dragons.
-[^2]: The Hour of the Dog is a traditional time period corresponding to approximately 7–9 p.m.
-[^3]: *Murim* is the world of martial artists in Korean martial-arts fiction.
-[^4]: *Ganggangsullae* is a traditional Korean circle dance and folk song. Taekyung treats the last syllable of Jeok Cheongang’s name as the start of a word-chain answer.
+[^1]: *Ganggangsullae* is a traditional Korean circle dance and folk song. Taekyung treats the last syllable of Jeok Cheongang’s name as the start of a word-chain answer.
