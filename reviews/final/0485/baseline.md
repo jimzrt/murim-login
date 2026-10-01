@@ -44,7 +44,7 @@ Those unanswerable questions stayed with me for a long time afterward.
 
 My thoughts were a mess. I had suspected as much ever since seeing it through the *Memory Fragment*, but now that I was face-to-face with a reality so difficult to believe, I found myself at a loss for words.
 
-*A Gate in the Murim[^1].*
+*A Gate in the Murim.*
 
 This was an enormous rift—a sign that the laws governing this world were collapsing, and the first step toward disaster.
 
@@ -60,7 +60,7 @@ Standing apart from the others, I gazed out over the blackened waters of Dongtin
 
 The past several months had been one continuous sea of corpses and blood.
 
-While the Star-Array Grand Banquet was taking place in Henan, Shaolin—the Mount Tai and Northern Dipper[^2] of the orthodox Murim[^1]—had been attacked, and the flames of Dark Heaven had spread to Sichuan.
+While the Star-Array Grand Banquet was taking place in Henan, Shaolin—the Mount Tai and Northern Dipper of the orthodox Murim—had been attacked, and the flames of Dark Heaven had spread to Sichuan.
 
 More importantly, inexplicable phenomena had occurred along the way.
 
@@ -120,13 +120,13 @@ Then the Great Faction War would have ended in victory for the Demonic Cult, and
 
 *Why hadn’t I realized it?*
 
-Even I, the sole outsider in this world of Murim[^1], had failed to predict the truth.
+Even I, the sole outsider in this world of Murim, had failed to predict the truth.
 
 The faint suspicion that had occasionally crossed my mind had been buried beneath talk of monstrous martial arts and supreme techniques from the Thousand-Year Demonic Path, then erased by the power the Western Heaven Demon Lord had called supernatural powers.
 
 But things were different now.
 
-I had confirmed the existence of the Gate. I had realized that the common sense and laws of the Murim[^1], which had gradually become familiar to me, were collapsing.
+I had confirmed the existence of the Gate. I had realized that the common sense and laws of the Murim, which had gradually become familiar to me, were collapsing.
 
 And I had realized that the strange abilities of Dark Heaven—which martial artists called monstrous martial arts and supernatural powers—could be explained with a single word.
 
@@ -188,7 +188,7 @@ Jeok Cheongang smacked his lips after his attack on the back of my head failed.
 
 “…I’d rather not.”
 
-“You insolent brat. Then why were you so distracted earlier? Spacing out like that in the Murim[^1] is a good way to get yourself killed.”
+“You insolent brat. Then why were you so distracted earlier? Spacing out like that in the Murim is a good way to get yourself killed.”
 
 “So you were planning to kill me?”
 
@@ -220,11 +220,11 @@ Jeok Cheongang had even used a grappling technique to make sure he landed the bl
 
 Rubbing the back of my throbbing head, I thought for a moment before speaking.
 
-“The truth is, I’m not from this world. And I think an evil power from the world I originally came from is deeply connected to Dark Heaven. You know that imugi[^3] that went berserk this time? That was all their doing. The rift in the cliff is a Gate. If it ever fully breaks open, monsters will come pouring out.”
+“The truth is, I’m not from this world. And I think an evil power from the world I originally came from is deeply connected to Dark Heaven. You know that imugi that went berserk this time? That was all their doing. The rift in the cliff is a Gate. If it ever fully breaks open, monsters will come pouring out.”
 
 “…”
 
-“When that happens, it’s all over. Completely over. And it’s probably not true, but there’s a bastard called Demon King Asmodeus. If he’s still alive and has his sights set on the Murim[^1], then we’re all completely fucked—”
+“When that happens, it’s all over. Completely over. And it’s probably not true, but there’s a bastard called Demon King Asmodeus. If he’s still alive and has his sights set on the Murim, then we’re all completely fucked—”
 
 “I understand.”
 
@@ -276,7 +276,7 @@ What the fuck?
 
 My brain ground to a halt. I stared blankly, mouth hanging open and both hands clutching the back of my head, as his furious voice rang out.
 
-“Do you take this old man for an idiot? What? You’re not from this world? ‘I Was a Mere Civilian in Another World, but Now I’m a Supreme Peak Master in the Murim[^1].’ Is that it?”
+“Do you take this old man for an idiot? What? You’re not from this world? ‘I Was a Mere Civilian in Another World, but Now I’m a Supreme Peak Master in the Murim.’ Is that it?”
 
 “That title’s surprisingly trendy and pretty good—no, that’s not the point. Just hear me out.”
 
@@ -343,7 +343,3 @@ Beneath the brilliant moonlight, he saw someone in much the same position as him
 At Jeok Cheongang’s words, Mungyeong answered,
 
 “No. Get lost.”
-
-[^1]: *Murim* is the martial-arts world and its society of fighters and sects.
-[^2]: Mount Tai and the Northern Dipper are traditional symbols of eminence; together, they describe Shaolin as a leading authority in the Murim.
-[^3]: An *imugi* is a serpent-like creature in Korean folklore, often described as a being that has not yet become a dragon.
