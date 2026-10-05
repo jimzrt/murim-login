@@ -2,17 +2,17 @@
 
 “Hah… Hah…”
 
-Hyuk Mujin was gasping for breath. His arms and legs, moving nonstop while he was on edge, creaked like they belonged to someone else. His heart felt ready to burst at any second.
+Hyuk Mujin was gasping for breath. After running nonstop with every nerve on edge, his arms and legs felt as though they belonged to someone else. His heart seemed ready to burst.
 
 *How did it come to this?*
 
-Even as he ran for his life, Hyuk Mujin wondered when and where everything had started going wrong.
+Even as he ran for his life, Mujin wondered when and where everything had started going wrong.
 
 But as always, one question led to another, with no end in sight. At the end of it all, only one self-mocking thought remained.
 
 *Fuck. Was being born the mistake?*
 
-Hyuk Mujin felt so wronged and miserable he could have cried.
+He felt so wronged and miserable he could have cried.
 
 Why the hell had a textile-shop owner’s son insisted on becoming a martial artist? He could’ve quietly taken over the family business.
 
@@ -38,7 +38,7 @@ The chill, the primal fear he’d felt from the moment he first spotted the blac
 
 His mind was full of questions he couldn’t answer.
 
-And his body, already pushed to its limit, was slipping out of his control a little at a time without him even realizing it.
+And his body, already pushed to its limit, was slipping out of his control without him even realizing it.
 
 *Slip.*
 
@@ -118,7 +118,7 @@ At last, Taishan found his answer. He spoke with a triumphant look.
 
 “Ah, Master…”
 
-Wails erupted all around them.
+Wails erupted all around him.
 
 Namho, driven to the edge of his patience, brought his elbow down on Taishan’s thick skull. Mujin let out a sobbing scream. The Divine Physician thought of his absent master and fingered the large acupuncture needle inside his sleeve, wanting, for the first time, to kill someone.
 
@@ -148,7 +148,7 @@ Someone was rushing toward them with a fierce whistle of air. Familiar flames bu
 
 “Captaiiin!”
 
-Mujin finally let out the tears he’d been holding back.
+Mujin finally burst into tears.
 
 * * *
 
@@ -162,7 +162,7 @@ The situation in front of me wasn’t quite on that level, but it was still plen
 
 Taishan, his face alight with near-maniacal joy.
 
-“Kill this bastard right now! You’re more than capable of cracking this fucking idiot’s head open!”
+“Kill this bastard right now! You can crack this fucking idiot’s head open!”
 
 Namho, radiating so much rage that *mania* didn’t begin to cover it.
 
@@ -170,7 +170,7 @@ Namho, radiating so much rage that *mania* didn’t begin to cover it.
 
 Hyuk Mujin, sobbing with the relief of someone who’d died and come back to life.
 
-“Ah, Master… This unworthy Disciple had a wicked thought.”
+“Ah, Master… This unworthy Disciple has harbored a wicked thought.”
 
 And finally, the Divine Physician, muttering with such a serene, transcendent expression that he looked ready to send even the Buddha flying with a Palm Strike of the Tathagata.
 
@@ -246,11 +246,11 @@ Like a dragon’s tail stretching out without end.
 
 *Fwoooosh!*
 
-In that moment, all around us lit up as brightly as day.
+In that moment, everything lit up as brightly as day.
 
 Blue-white flames leaped from the spearhead and surged forward, burning and melting the ornaments scattered throughout the imperial palace.
 
-They passed over the heads of the three, who’d heard my Sound Transmission and dropped down half a beat before the final moment.
+They passed over the heads of the three, who’d heard my Sound Transmission and dropped to the ground half a beat before the flames reached them.
 
 Then they engulfed the vision of the black-clad figures close on their heels.
 
@@ -258,7 +258,7 @@ Then they engulfed the vision of the black-clad figures close on their heels.
 
 *Rumble-rumble-rumble!*
 
-A tremendous explosion and roar. Then the earth shook.
+A tremendous explosion and roar. Then came the shockwave.
 
 Light flashed, and the swelling flames fell like rain, covering a radius of several dozen *jang*.
 
@@ -276,7 +276,7 @@ Or maybe it was my vision that was growing faint, tilting a little more with eve
 
 *Thump.*
 
-Making it look as natural as possible, and without anyone noticing, I straightened the spear and used it to support myself. Then I suppressed my labored breathing.
+I planted the spear upright and leaned on it, making the movement as natural as I could so no one would notice. Then I forced my breathing under control.
 
 *…Damn it.*
 
@@ -296,7 +296,7 @@ For now, I could only be satisfied that I’d saved the Fire Dragon Pavilion mem
 
 “Benefactor!”
 
-Ju Hwaran, now right in front of me, shouted with alarm written across her face.
+Ju Hwaran was right in front of me now, her face tight with alarm.
 
 Song Ilseom and Sama Pyo came up on either side of her and spoke, their expressions strained.
 

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.89,
+      "current": "I drew heat from deep within myself and sent it through every limb and acupoint.",
+      "defect": "The Korean says the heat flows through the limbs and body (사지백해), not through acupoints. The translation substitutes a specific anatomical pathway that the source does not state.",
+      "id": "F01",
+      "rationale": "사지백해 refers broadly to the limbs and body; acupoints are not mentioned in this sentence.",
+      "replacement": "I drew heat from deep within myself and sent it through my limbs and throughout my body.",
+      "severity": "minor",
+      "source": "§ 108; Korean line 223"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one minor physical-detail substitution in the description of heat moving through the body.",
+  "version": 1
+}
