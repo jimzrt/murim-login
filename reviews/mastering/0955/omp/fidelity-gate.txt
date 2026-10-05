@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled copy is mostly faithful, but it drops a physical action and an early-morning setting detail preserved in the accepted baseline.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 129–131",
+      "current": "And felt my body, drenched in exhaustion like a waterlogged cotton rag.",
+      "defect": "The source says the narrator gritted his teeth before feeling his exhausted body. That physical action is omitted.",
+      "replacement": "I gritted my teeth. And felt my body, drenched in exhaustion like a waterlogged cotton rag.",
+      "rationale": "Line 129, 이를 악물었다, explicitly describes clenching his teeth; the accepted baseline preserves it.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 37",
+      "current": "Above us, the morning dew that had woken me was slowly rolling down a leaf, and now and then the only sound in the deserted mountain woods was the chirping of insects.",
+      "defect": "The source states that it was the dim light of early morning. The assembled copy omits this setting detail.",
+      "replacement": "It was the dim light of early morning. Above us, the morning dew that had woken me was slowly rolling down a leaf, and now and then the only sound in the deserted mountain woods was the chirping of insects.",
+      "rationale": "Line 37, 어스름한 새벽이었다, establishes the dim early-morning light; the accepted baseline includes it.",
+      "confidence": 0.99
+    }
+  ]
+}

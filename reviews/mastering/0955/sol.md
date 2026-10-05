@@ -4,13 +4,13 @@ Tap.
 
 Something cold touched me, and my eyes flew open.
 
-My body moved on instinct, too.
+My body moved on instinct.
 
 *Whoosh!*
 
 My fist cut through empty air.
 
-As my vision snapped back into focus, the Bow Saint—watching me from the tree across from us—spoke with a calm expression.
+As my vision snapped into focus, the Bow Saint spoke from the tree opposite me, where she had been watching.
 
 “Looks like you had a nightmare.”
 
@@ -18,11 +18,11 @@ As my vision snapped back into focus, the Bow Saint—watching me from the tree 
 
 Only then did I realize I’d been asleep—so deeply that I hadn’t even noticed myself drifting off.
 
-And, just as the Bow Saint had said, everything I’d seen and experienced in it had been the worst of the worst.
+And everything I’d seen and experienced in that sleep had been the worst of the worst.
 
 “How long was I asleep?”
 
-I asked as I tried to steady my ragged breathing. The Bow Saint dropped lightly from the branch and answered.
+I struggled to steady my breathing as I asked. The Bow Saint dropped lightly from the branch.
 
 “Let’s see. About one *shichen*.”
 
@@ -30,7 +30,7 @@ I asked as I tried to steady my ragged breathing. The Bow Saint dropped lightly 
 
 “Sleep a little longer. At least until daybreak.”
 
-Above us, the morning dew that had woken me was slowly rolling down a leaf, and now and then the only sound in the deserted mountain woods was the chirping of insects.
+Dawn was still dim. Above me, the morning dew that had woken me rolled slowly off a leaf. In the deserted mountain woods, the only sounds were the occasional chirps of insects.
 
 “Old—no, where’s Master?”
 
@@ -52,7 +52,7 @@ Not toward the campfire, but toward the still-dark woods.
 
 “I’ll go on ahead, slowly. When Old Master gets back, we can—”
 
-“You really are a stubborn brat.”
+“You really don’t listen, do you?”
 
 The Bow Saint clicked her tongue and reached out.
 
@@ -66,7 +66,7 @@ Finger Qi shot toward me with a sound like tearing wind and grazed the back of m
 
 I’d forgotten. The woman who looked barely thirty was still a Murim martial artist, and force came more naturally to her than words.
 
-And the Three Saints were, among other things, a top-tier corporation—no, a nationwide gang.
+The Three Saints were among the biggest corporations in the business—no, the most notorious gangs in the country.
 
 I glared at her in silence, then said, “I have to go.”
 
@@ -100,7 +100,7 @@ She watched the fire slowly come back to life, lost in thought as though remembe
 
 “…”
 
-“I gave every moment my best, but the results still fell short. There wasn’t even time to sit back and enjoy a meal or a cup of tea. I had to kill people and watch others die. Even after I discovered the inner demon that had taken root deep in my heart, that didn’t change.”
+“I gave everything I had, every moment, and still failed to get the result I wanted. I had no time to sit down for a meal or a cup of tea. I killed people and watched others die. Even after I discovered the inner demon taking root deep in my heart, nothing changed.”
 
 The eyes she fixed on the campfire glowed red, like the flames of the wars she had witnessed so many times long ago.
 
@@ -110,9 +110,9 @@ The eyes she fixed on the campfire glowed red, like the flames of the wars she h
 
 The fire swelled as it came back to life. Beyond the drifting sparks, the Bow Saint looked at me, her gaze deep and steady.
 
-“If something can’t be stopped even by someone who’s run without rest for seven whole days and nights… Then yes. That, surely, is fate.”
+“If something cannot be stopped even by someone who has run without a moment’s rest for seven days and nights… then yes. Perhaps that is fate.”
 
-And felt my body, drenched in exhaustion like a waterlogged cotton rag.
+I gritted my teeth and felt the exhaustion soaking through my body like water through cotton.
 
 I knew she was right.
 
@@ -126,7 +126,7 @@ The cracked voice that came from my mouth sounded like someone else’s. My back
 
 “When I finally got there… everyone was dead. Every last one of them. Not a single exception.”
 
-“Is that so?”
+“Were they?”
 
 My voice trembled. The Bow Saint’s remained calm.
 
@@ -138,7 +138,7 @@ It wasn’t sadness. It was despair—despair that seemed to punch through the e
 
 Even now that I was awake, I could still see them before me, all of them horribly dead.
 
-“That’s why I have to go. Before it’s too late. As soon as possible.”
+“That’s why I have to go. Before it’s too late. As fast as I can.”
 
 At first, I’d thought this was just a game. Nothing more than data made by bespectacled developers in black turtlenecks or plaid shirts.
 
@@ -152,11 +152,11 @@ And to the deranged old man who’d wandered the world searching for the Discipl
 
 The sincerity they’d shown me had gathered in my heart until it overflowed.
 
-Another friend and comrade. A Master and family.
+A friend and a comrade. A Master and a family.
 
 When I closed my eyes, the faces and names of everyone I’d met rose out of the darkness.
 
-That was why I had to run, even if it meant wringing every last bit of strength from this tired, impatient body.
+They were why I had to keep running, even if I had to wring the last of my strength from this exhausted body.
 
 *Just as I have for the past seven days and nights.*
 
@@ -164,19 +164,19 @@ I’d given it everything I had.
 
 I’d crossed rugged mountains that even seasoned hunters avoided. Rather than waste time waiting for a boat, I’d burned through an enormous amount of internal energy to cross a river using Rising on Duckweed, Crossing Water.
 
-That was how I’d made it here. To this place.
+That was how I’d made it here.
 
 *Only about two days to Taiyuan now.*
 
 I might already have overtaken the imperial messengers or the messenger eagles. I’d abandoned even the fine horse the Son of Heaven had given me, seeking the fastest route and running day and night without rest.
 
-But those two short days were also enough time for the nightmare I’d had today to become reality.
+But two days was also more than enough time for today’s nightmare to come true.
 
 *I can’t let that happen.*
 
-I curled my hand into a tight fist. My nails dug into my flesh, and I felt hot blood well up.
+I clenched my fist. My nails dug into my palm, and I felt hot blood well up.
 
-The Bow Saint had been watching me in silence. Just then, she spoke.
+The Bow Saint watched me for a moment, then spoke.
 
 “Strange.”
 
@@ -188,17 +188,17 @@ The Bow Saint had been watching me in silence. Just then, she spoke.
 
 “Sometimes you need to trust them. They aren’t as weak as you think, or so easily uprooted.”
 
-My whole body stiffened. For a moment I was at a loss for words, and then the Bow Saint’s voice continued in my ear.
+My whole body went rigid. While I stood there at a loss for words, she continued.
 
-“Of course, you can do a great deal. You could shatter a boulder weighing ten thousand *geun* with one hand, and split a river with the other. But what if it were a mountain instead of a boulder? An ocean instead of a river? Would you just quietly bear it alone, like Yu Gong long ago?”
+“You can do a great deal, of course. You could shatter a ten-thousand-*geun* boulder with one hand and split a river with the other. But what if it were a mountain instead of a boulder? An ocean instead of a river? Would you bear that burden alone, like Yu Gong long ago?”
 
 Yu Gong. The foolish old man who had tried to bring down a vast mountain by digging out its earth and carrying away its stones.
 
 In the end, the Jade Emperor was moved by his devotion and helped him achieve his goal. Yu Gong hadn’t done it through his own strength and effort alone.
 
-“What if the countless people who heard Yu Gong’s story hadn’t laughed at him for being a fool, but had joined forces to help him?”
+“What if all the people who heard about Yu Gong had helped him instead of laughing at him for a fool?”
 
-I didn’t answer, but I thought to myself:
+I didn’t answer, but I knew what I thought.
 
 With their help, the old man would have achieved his goal in the end. Not through the Jade Emperor, but through the people who believed in him and followed him.
 
@@ -238,7 +238,7 @@ The Bow Saint blinked at my unexpected answer. Then she caught my meaning and le
 
 “That’s all right. The man behind me may not be the Jade Emperor, but he’s at least Yama.”
 
-*Shff.*
+*Crunch.*
 
 A deliberately loud footstep.
 
@@ -246,7 +246,7 @@ I turned and saw Yama himself—no, Jeok Cheongang—standing there with a frown
 
 *Thump.*
 
-Jeok Cheongang set down a large deer, who knew where he’d caught it, and spoke.
+He set down a large roe deer he’d caught somewhere.
 
 “You cheeky brat. I leave for a moment, and you call me Yama?”
 
@@ -254,7 +254,7 @@ His tone was gruff and his brow deeply furrowed. But the corner of his mouth was
 
 He’d plainly heard my conversation with the Bow Saint. Pretending otherwise, he asked, “Enough. Spare me the excuses. How about some meat for a change?”
 
-Meat, when every second mattered.
+Meat, when every moment mattered.
 
 I glanced toward the thick woods to the north, then answered with a faint smile.
 
