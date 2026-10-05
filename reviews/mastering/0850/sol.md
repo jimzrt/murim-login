@@ -4,7 +4,7 @@ Blood Soul Gu.
 
 Namho had identified the gu poison for us, and the name alone sounded ominous. Then again, I’d never seen a gu poison with my own eyes before.
 
-I studied the tiny creature writhing on the Divine Physician’s gloved palm.
+I studied the tiny creature writhing on the Divine Physician’s palm.
 
 It was much smaller than a grain of millet, with a thread-thin body the color of blood. It looked too small for an ordinary person to make out with the naked eye, yet it kept struggling to burrow into his skin.
 
@@ -142,7 +142,7 @@ A heavy silence followed Namho’s last words.
 
 No one spoke, but it wasn’t hard to guess what the others were thinking.
 
-A great war that had drenched Nanman in blood for more than a hundred years.
+A great war that had drenched Nanman in blood for a hundred years.
 
 And now, long after that war, Blood Soul Gu had appeared again—in a Great Nation official who wasn’t even a martial artist.
 

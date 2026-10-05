@@ -2,11 +2,11 @@
 
 Blood Soul Gu.
 
-Namho had identified the gu poison for us, and the name alone sounded ominous. Then again, I’d never seen a gu poison with my own eyes before.
+The name alone sounded ominous. Namho had identified the gu poison for us, but I’d never seen one with my own eyes.
 
 I studied the tiny creature writhing on the Divine Physician’s gloved palm.
 
-It was much smaller than a grain of millet, with a thread-thin body the color of blood. It looked too small for an ordinary person to make out with the naked eye, yet it kept struggling to burrow into his skin.
+It was much smaller than a grain of millet, with a thread-thin body the color of blood. An ordinary person would hardly have been able to see it, yet it kept struggling to burrow through the leather into his skin.
 
 As though that were its sole reason for existing.
 
@@ -22,11 +22,11 @@ Only after checking for gaps several times did he take off his thick leather glo
 
 Namho nodded.
 
-“That’s only natural. Blood Soul Gu is scarcely known even in Nanman. More precisely, there can’t be many people left who still remember the name.”
+“That’s only natural. Blood Soul Gu is a venomous creature scarcely known even in Nanman. More precisely, there can’t be many people left who still remember the name.”
 
 “You mean…”
 
-“This was a very long time ago. Nanman was divided into three powers, like a three-legged cauldron, and they were locked in a terrible war. That was when Blood Soul Gu first came to light.”
+“This was a very long time ago. Nanman was split among three powers, like the legs of a cauldron, and they were locked in a terrible war. That was when Blood Soul Gu first came to light.”
 
 I knew the story. I’d heard it several times during my stay in Nanman, and if you went back far enough, it involved my own sect, the Fire Gate Clan.
 
@@ -42,7 +42,7 @@ The name came out like a groan. I looked at Namho.
 
 “But I never saw anything like it in the Poisonblood Grounds.”
 
-“Gu poisons favor deep, hidden places. Even after combing through the Poisonblood Grounds like you were stirring up a hornet’s nest, would you expect to spot something like that?”
+“Gu poisons favor deep, hidden places. Even after stirring up the Poisonblood Grounds like a hornet’s nest, would you expect to spot something like that?”
 
 He had a point.
 
@@ -66,7 +66,7 @@ Everyone looked at Namho. He let out the breath he’d been holding.
 
 “……!”
 
-“I spent a long time in Nanman collecting information. I searched through every scrap of what little remained in the records and sought out the oldest and wisest people from each tribe. I had to feel my way toward the truth in their stories, then sift out whatever might be false.”
+“I spent a long time in Nanman collecting information. I searched through every scrap of what little remained in the records, and sought out the oldest and wisest people from each tribe. I had to feel my way toward the truth in their stories, then sift out whatever might be false.”
 
 One day, after the Great Faction War had ended, the Martial God vanished without a trace.
 
@@ -108,7 +108,7 @@ The Divine Physician, who’d been listening to Namho in silence, spoke with a g
 
 “That’s right. It wasn’t poisoning or a plague. By the time the Nanman Beast Palace learned the cause, more than a hundred warriors had died.”
 
-“Blood Soul Gu may move stealthily and be hard to see, but with so many victims, surely they could have found it sooner.”
+“Blood Soul Gu may be small and difficult to detect, but with so many victims, surely they could have found it sooner.”
 
 “I thought so too. But there was a reason they didn’t.”
 
@@ -184,7 +184,7 @@ Was it because he had sent government troops to help us during the Sichuan Blood
 
 The thought crossed my mind, but I shook my head.
 
-No. If it was retaliation, a far more horrific death would have served them a hundred times better. They could have shown the whole world what happened to anyone who opposed Dark Heaven—even a high-ranking official. Then even those who thought Murim had nothing to do with them would have been too afraid to defy it again.
+No. If it was retaliation, a far more horrific death would have served them a hundred times better. They could have shown the whole world what happened to anyone who opposed Dark Heaven—even a high-ranking official. Those who thought Murim had nothing to do with them would have been afraid to defy it again.
 
 *But if they chose this method anyway…*
 
@@ -218,7 +218,7 @@ The City Lord’s death was the first sign of Dark Heaven’s scheme, and it gav
 
 A chill ran up my spine.
 
-Eyes wide, I watched the maid hurry away and managed to force out the words.
+I watched the maid hurry away and managed to force out the words.
 
 “We need to send people out. Now. Find out everything about the City Lord of Sichuan and Ju Wongong. No—the Emperor and all his relatives, too.”
 

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Then even those who thought Murim had nothing to do with them would have been too afraid to defy it again.",
+      "defect": "The Korean says even people who considered themselves far removed from Murim would have no choice but to feel fear. The English instead says they would be deterred from defying Dark Heaven again, adding an action and a specific consequence.",
+      "id": "F01",
+      "rationale": "The source’s emphasis is on the reach of the fear, extending even to people who thought themselves unrelated to Murim—not on whether they would later defy Dark Heaven.",
+      "replacement": "Even those who thought they were far removed from Murim would have had no choice but to feel afraid.",
+      "severity": "minor",
+      "source": "Korean lines 209–211"
+    }
+  ],
+  "summary": "One minor fidelity defect: the retaliation hypothetical changes the consequence from being forced to feel fear to being deterred from future defiance.",
+  "version": 1
+}
