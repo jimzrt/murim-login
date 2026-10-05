@@ -6,7 +6,7 @@ A ruffian from the martial world who held no official post and didn’t even car
 
 *The first, and probably the last.*
 
-Even considering the short history of the Great Nation, which had only lasted three generations so far, it was a feat unlikely ever to be repeated.
+Even for a nation with a history of only three generations, it was unprecedented—and unlikely ever to happen again.
 
 Yet almost no one spoke up against this insult to the imperial family’s dignity.
 
@@ -14,7 +14,7 @@ Not unless they were among the handful of ministers with unwavering convictions 
 
 “Your Majesty! Forgive my boldness, but seating that man so close to you—”
 
-“It is the imperial decree.”
+“It is an imperial decree.”
 
 “…A wise decision indeed!”
 
@@ -50,7 +50,7 @@ At Cang Gong’s calm question, I answered.
 
 “Oh.”
 
-I swallowed the mouthful crammed into my cheeks, then spoke again.
+I swallowed the food crammed into my mouth, then tried again.
 
 “It’s definitely good. There are plenty of side dishes, too.”
 
@@ -98,11 +98,11 @@ Cang Gong had shut out sound with a flawless barrier of internal energy. He spok
 
 “I don’t know about that. I’d say you’re every bit as formidable a master as my teacher.”
 
-“This old man was able to overcome a grave Internal Injury and attend today thanks to the good fortune of gaining insight during my recovery. The more important the matter, the more carefully it must be handled, don’t you think?”
+“This old man was able to overcome a grave Internal Injury and attend today only because I had the good fortune to gain enlightenment during my recovery. The more important the matter, the more certain we must be of success, don’t you think?”
 
 Yeah, that made sense.
 
-I nodded naturally and resumed moving the chopsticks I’d set down for a moment.
+I nodded and picked up my chopsticks again.
 
 Cang Gong watched me as if I were some strange creature, then spoke.
 
@@ -116,7 +116,7 @@ Cang Gong watched me as if I were some strange creature, then spoke.
 
 “Are you nervous?”
 
-“I am. My stomach is.”
+“My stomach is.”
 
 “You really do take after your master. It takes quite a nerve to sit here eating like this, just as I’d heard.”
 
@@ -134,7 +134,7 @@ Cang Gong watched me as if I were some strange creature, then spoke.
 
 “Ah.”
 
-“I truly didn’t expect that. I thought the Murim Alliance had already deployed most of its forces throughout the land to deal with sudden attacks by Dark Heaven, which could appear anywhere at any time.”
+“I never expected them. I understood the Murim Alliance had already deployed most of its forces across the land to respond to Dark Heaven’s attacks, which might come anywhere, at any time.”
 
 Instead of answering, I lifted my cup and took a drink. The fragrant aroma of a truly fine liquor filled my mouth, and it went down smoothly.
 
@@ -150,11 +150,11 @@ Cang Gong was gazing steadily at me with his gray eyes when—
 
 “Enough.”
 
-The Emperor’s resonant voice rang out, and in the same instant, the beautiful music that had filled the grand banquet hall vanished as if it had been washed away.
+The Emperor’s voice rang out, and in the same instant, the beautiful music filling the grand banquet hall stopped.
 
 Those who had been whispering to one another, those who had been drinking with solemn faces—even the musicians and dancers forcing themselves to perform in that atmosphere—all fell silent.
 
-Everyone stopped moving and turned toward the Emperor, following his voice and gaze.
+Everyone stopped moving and turned in the direction of the Emperor’s gaze.
 
 “My heir approaches. He shall inherit this continent and the Great Nation that will endure for the next thousand years. Receive him with all due ceremony.”
 
@@ -186,7 +186,7 @@ The woman was beautiful enough to topple a kingdom.
 
 *No wonder the City Lord of Sichuan Province fell so hard for her.*
 
-I thought to myself as I looked at the woman—or rather, Aehyang.
+I looked at the woman—at Aehyang.
 
 Until only a few months ago, she had been the City Lord of Sichuan Province’s favored concubine. Now she walked beneath the Embroidered Uniform Guard’s close protection, stroking her belly with an uneasy look on her face.
 
@@ -194,7 +194,7 @@ And while everyone’s eyes followed her, I saw someone else emerge from the sti
 
 A face that still belonged to a child.
 
-Yet his expression and stride were bolder than those of any young man.
+But an expression and a stride bolder than those of most young men.
 
 Prince Shangshan, Zhu Bao.
 
@@ -210,15 +210,15 @@ I didn’t have to think for long.
 
 My Sound Transmission crossed the space between us, and Prince Shangshan stopped in his tracks. I let out a quiet laugh to myself and moved my lips again.
 
-“Are you still keeping the item I entrusted to you safe?”
+“Do you still have the item I entrusted to you?”
 
 After a brief pause, he started walking again. Prince Shangshan didn’t look my way. Instead, he flicked the sleeve covering the back of his hand.
 
-For a moment, I caught sight of a dark, dull ring.
+For an instant, I caught sight of a dark ring.
 
 I nodded at the sight of the Myriad-Poison Ring, and Cang Gong suddenly spoke.
 
-“Good. It seems His Highness is still keeping it safe.”
+“Good. It seems His Highness still has it.”
 
 I wasn’t surprised. Cang Gong had reached a level even I couldn’t fathom. I’d figured he could listen in on a Sound Transmission.
 
@@ -228,19 +228,15 @@ I answered calmly without even turning my head. I could feel Cang Gong watching 
 
 *So Gyo.*
 
-I saw her.
-
 There she was, following quietly behind Prince Shangshan.
 
 In place of her flexible sword, she wore two weapons at her waist, each curving like a saber. So Gyo looked straight at me and gave me a faint smile.
 
 “Did you see that?” Cang Gong asked.
 
-At Cang Gong’s question, I answered calmly.
-
 “I did.”
 
-“She was smiling at you.”
+“She smiled at you.”
 
 “Did she? I thought she was smiling at you.”
 
@@ -254,9 +250,9 @@ At Cang Gong’s question, I answered calmly.
 
 “A thousand years! A thousand years! A thousand thousand years!”
 
-The civil and military officials of the court, along with two thousand Embroidered Uniform Guards, roared their cheers toward the heir of the Great Nation, shaking the whole place.
+The court officials and nearly two thousand Embroidered Uniform Guards shouted their acclaim for the Great Nation’s heir, their voices shaking the hall.
 
-Whether they were merely going along with the occasion or were genuinely celebrating it, they all chanted with one voice. At the center of that immense cheer stood the Emperor, Aehyang, and finally, Prince Shangshan.
+Whether they were merely playing along or sincerely celebrating, they all shouted as one. At the center of that immense cheer stood the Emperor, Aehyang, and Prince Shangshan.
 
 Beside me sat the one person who wasn’t joining in.
 
@@ -264,7 +260,7 @@ Beside me sat the one person who wasn’t joining in.
 
 He continued without waiting for an answer.
 
-“Why did the Emperor forgive you, despite your unforgivable disrespect? It was the perfect chance to remove Prince Shangshan while gaining both a pretext and a practical advantage.”
+“Why did the Emperor forgive you after such unforgivable disrespect? It was the perfect opportunity to remove Prince Shangshan while gaining both a pretext and a practical advantage.”
 
 “I don’t know. I’m a pretty simple guy.”
 
@@ -278,7 +274,7 @@ He continued without waiting for an answer.
 
 Cang Gong was no longer looking toward the throne where the Emperor stood. Nor was he bowing to it. He sat upright and fixed his gray eyes on me.
 
-“So, have you finished checking?”
+“And did you find out?”
 
 “Yes.”
 

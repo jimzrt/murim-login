@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled copy is broadly faithful, with two minor shifts in meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 23",
+      "current": "As it turned out, even conviction and courage crumbled like a sandcastle struck by a wave when faced with the Emperor.",
+      "defect": "The Korean says conviction and courage are bound to crumble before the Emperor, expressing a general tendency. “As it turned out” instead frames the collapse as something that happened in this instance.",
+      "replacement": "Even conviction and courage were bound to crumble like a sandcastle hit by a wave when faced with the Emperor.",
+      "rationale": "The source’s “허물어지기 마련이다” conveys an expected or inevitable tendency, not a retrospective observation.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 127",
+      "current": "That your martial arts are unparalleled for someone your age, and that you’re resourceful and tenacious enough to survive any crisis.",
+      "defect": "“Tenacious” shifts the source’s “임기응변과 생존력,” which describes quick adaptability and survival ability, toward persistence or grit.",
+      "replacement": "That your martial arts are unparalleled for someone your age, and that you’re quick-witted and resourceful enough to survive any crisis.",
+      "rationale": "The source specifically praises adaptability and survival skills in a crisis, not tenacity.",
+      "confidence": 0.9
+    }
+  ]
+}
