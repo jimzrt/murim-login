@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Why are you doing this too, Senior Brother Lee?",
+      "defect": "“이 사형” means “this Senior Brother,” not “Senior Brother Lee.” The translation invents a surname for the person being addressed.",
+      "id": "F01",
+      "rationale": "The Korean uses 이 as a demonstrative; it does not identify the speaker as Lee.",
+      "replacement": "Why are you doing this too, Senior Brother?",
+      "severity": "minor",
+      "source": "Paragraph 251 (이 사형까지)"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The man he’d called Senior Brother Lee",
+      "defect": "This repeats the invented surname. The source refers to the man as “this Senior Brother,” not as someone named Lee.",
+      "id": "F02",
+      "rationale": "이 사형 is a demonstrative address, not a personal name.",
+      "replacement": "The man he’d called Senior Brother",
+      "severity": "minor",
+      "source": "Paragraph 255 (이 사형이라 불린 그)"
+    },
+    {
+      "confidence": 0.94,
+      "current": "I looked around at the Fire Dragon Pavilion members riding alongside me",
+      "defect": "The translation omits that the narrator looked at the members’ faces one by one.",
+      "id": "F03",
+      "rationale": "차례차례 specifies a sequential, face-by-face look, rather than merely looking around at the group.",
+      "replacement": "I looked from face to face among the Fire Dragon Pavilion members riding alongside me",
+      "severity": "minor",
+      "source": "Paragraph 149 (얼굴을 차례차례 바라보다)"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but it misreads a Korean form of address as a surname and omits a small detail about the narrator looking from face to face.",
+  "version": 1
+}

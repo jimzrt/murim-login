@@ -2,7 +2,7 @@
 
 As Jin Wikyung had already said, the most likely place for a major battle with Dark Heaven was Qinghai, where the Kunlun Sect was located.
 
-It was a strategic foothold the enemy would have to take before advancing into the Central Plains—and one the orthodox Murim would have to defend with their lives.
+It was a strategic foothold the enemy would have to take to advance into the Central Plains—and one the orthodox faction would have to defend with their lives.
 
 That was exactly why I could answer Hyuk Mujin’s question about how we would get to Qinghai without hesitation.
 
@@ -24,7 +24,7 @@ That was exactly why I could answer Hyuk Mujin’s question about how we would g
 
 I asked without easing the reins of my galloping horse.
 
-“Otherwise?”
+“Where else?”
 
 “I think taking the water route would be better. We can travel overland as you said, then take a tributary of the Yangtze from Shaanxi straight to Qinghai. It’d save us about half a day and take a lot less effort.”
 
@@ -46,7 +46,7 @@ But I shook my head at once.
 
 “Even if you do, try to bear with it. I’ll pat your back.”
 
-Was this bastard looking down on a Supreme Peak master?
+Did this bastard think a Supreme Peak master was a joke?
 
 And I wasn’t some newly minted Supreme Peak master, either. I’d reached the pinnacle of martial arts and completed Bone Transformation. I was a superhuman among superhumans.
 
@@ -58,7 +58,7 @@ Whoosh—smack!
 
 “Gah!”
 
-It was the sort of impact that felt satisfying just to hear. Jeok Cheongang, who had expertly smacked the back of Hyuk Mujin’s head, clicked his tongue.
+The impact sounded satisfying even to me. Jeok Cheongang, who had expertly smacked the back of Hyuk Mujin’s head, clicked his tongue.
 
 He’d found the saddle uncomfortable, so he was traveling by stepping from branch to branch along the trees lining the road.
 
@@ -96,25 +96,25 @@ And besides…
 
 *They have a Warp Gate—or rather, a Moving Formation.*
 
-The Moving Formation gave the enemy more options, while serving as a painfully sharp dagger aimed at our backs.
+The Moving Formation gave the enemy more options. For us, it was a dagger aimed at our backs.
 
-They could send as many as a thousand people—at least, that was the number we’d confirmed so far—to somewhere in the Central Plains through a Moving Formation. How could we take that lightly?
+They could use it to send a thousand people—the number we’d confirmed so far—to somewhere in the Central Plains.
 
 Of course, there was a way to deal with it.
 
 The Zhuge Clan, renowned as the finest in the world at mechanisms and formations, possessed a formation called the Demon-Sealing Formation. As its name suggested, it could suppress and seal magical power.
 
-When a “rift” had opened at Dongting Lake, the Zhuge Clan had managed to contain it with the Demon-Sealing Formation, led by their Family Head, Zhuge Feng. That was why the incident had been brought to an end without even greater losses.
+When a “rift” opened at Dongting Lake, Zhuge Feng and the other members of the Zhuge Clan had blocked it with the Demon-Sealing Formation. That was why the incident had ended without even greater losses.
 
-*If they can stop a rift, they should be able to neutralize a Moving Formation, too. I’ve seen the Demon-Sealing Formation myself, so I know it works. The problem is time and manpower.*
+*If they can stop a rift, they should be able to neutralize a Moving Formation. I’ve seen the Demon-Sealing Formation work myself. The problem is time and manpower.*
 
 The world was vast.
 
-And no one knew how many Moving Formations Dark Heaven had built somewhere in that boundless sea of sand.
+And no one knew how many Moving Formations Dark Heaven had built—or where in that boundless sea of sand they were hidden.
 
 We’d found a way to deal with them well over half a year ago, yet several sects near Shanxi Province had still hesitated to send reinforcements, even for a short while. That alone showed how serious the risk was.
 
-Even if just one Moving Formation remained, it would be like a sharp shard of glass, digging deep into the sole of someone walking carelessly across the sand.
+Leave even one Moving Formation behind, and it would be like a sharp shard of glass digging deep into the sole of someone walking unsuspectingly across the sand.
 
 *That’s why we have to travel overland.*
 
@@ -138,7 +138,7 @@ The warriors of the tropics had finally left their jungle in an unprecedented ma
 
 I wasn’t speaking to Hyuk Mujin alone.
 
-After finishing my train of thought, I suddenly spoke. I looked around at the Fire Dragon Pavilion members riding alongside me, then added quietly,
+I looked in turn at the Fire Dragon Pavilion members riding alongside me, then added quietly,
 
 “Gansu.”
 
@@ -162,13 +162,13 @@ If we’d caught the arsonist before he set fire to the stable, that would have 
 
 But the stable had burned every time, and countless people had been slaughtered like livestock.
 
-As the person who’d repeatedly run around dousing the stables wherever I went, I was sick and tired of all of it.
+I was sick of running from one burning stable to the next, throwing water on the flames.
 
 So…
 
 *This time, we have to stop them. No matter what.*
 
-Before another fire started. Before there were more terrible losses.
+Before another fire started. Before more people died.
 
 We had to be cautious, then cautious again. Test the stone bridge before crossing it. I needed to see the situation in Gansu with my own eyes before moving on to Qinghai.
 
@@ -210,7 +210,7 @@ The man who suddenly spoke, bringing everyone to a halt, appeared to be around s
 
 Of course, the several hundred people following him knew appearances didn’t tell the whole story.
 
-Just as what they saw with their eyes wasn’t all there was, the old man had lived far longer than he looked. Only his formidable martial prowess could account for it.
+The old man had lived far longer than he looked, and only his formidable martial prowess made that possible.
 
 Great age and formidable skill.
 
@@ -218,7 +218,7 @@ Of everyone present, only one person could refuse an order from a man who posses
 
 “A rest, out of nowhere? What on earth do you mean, Eldest Senior Brother?”
 
-A half-white-haired Daoist in a clean robe hurried over, looking confused. The old man answered without a care.
+A graying Daoist in a clean robe approached with a bewildered look. The old man answered calmly.
 
 “This old body of mine is giving me trouble. I can’t go any farther, so I thought we’d rest for half a shichen. Is there a problem?”
 
@@ -248,12 +248,12 @@ At that very moment, pounding hooves rang through the deserted forest.
 
 Thud-thud-thud-thud!
 
-Several grassland horses burst through the rising cloud of dust. They spotted the group halted in the middle of the forest path and began to slow.
+Several grassland horses burst through a rising cloud of dust. Their riders spotted the group halted in the middle of the forest path and began to slow.
 
 More precisely, they slowed when they saw the flag rising above the group.
 
 **The Great Zhongnan Sect.**
 
-From atop his panting grassland horse, the young man riding in front read the characters embroidered in a single flowing stroke and muttered under his breath,
+At the front, a young man read the characters embroidered in a single flowing stroke from atop his panting horse and muttered under his breath,
 
 “I think there’s a typo…”
