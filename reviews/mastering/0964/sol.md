@@ -50,7 +50,7 @@ Blood from his enemies ran down the commander in chief’s sword, proof of how f
 
 He had given the battle everything he had.
 
-He had joined the fighting himself to raise his men’s spirits. Whenever a crisis arose, he had given flawless orders, sealing the gorge entrance so thoroughly that not even a drop of water could pass.
+He had joined the fighting himself to raise his men’s spirits. Whenever a crisis arose, his orders had sealed the gorge entrance tight.
 
 Fifteen thousand troops, scraped together from across Shanxi Province.
 
@@ -82,7 +82,7 @@ A hand tugged hard at his sleeve.
 
 The retainer’s face was full of desperation and urgency.
 
-And it wasn’t just the retainer in front of him. Everyone around him—the martial artists of the Jin Family of Taiyuan, the Sect Leaders of their vassal sects, and the government troops—was speaking to him with their eyes.
+And it wasn’t just the man in front of him. Everyone around him—the martial artists of the Jin Family of Taiyuan, the Sect Leaders of their vassal sects, and the government troops—was speaking to him with their eyes.
 
 *You have to get out of here.*
 
@@ -98,7 +98,7 @@ No—the strength of Dark Heaven, planted deep in the steppe, was far more terri
 
 Even now, the best course was to order a retreat.
 
-While the troops at the front held out to buy time, he—the commander in chief—could gather the remaining forces and withdraw. That was the best strategy.
+While the troops at the front fought to the death to buy time, he—the commander in chief—could gather the remaining forces and withdraw.
 
 But…
 
@@ -110,9 +110,9 @@ He had spent the past few years more accustomed to a brush than a sword, but the
 
 *Shhk!*
 
-A Keshik trying to break through his guards crumpled without a fight.
+A Keshik who had broken through his guards crumpled without a fight.
 
-Jin Wikyung advanced, cutting down the enemy with clean, precise movements. His retainer hurried after him again.
+Jin Wikyung advanced, cutting down the enemy with clean, precise movements. His retainer hurried after him.
 
 “Lesser Family Head, why—”
 
@@ -172,11 +172,11 @@ Not one of them.
 
 Jin Mukyung suddenly felt fatigue seep through his whole body.
 
-It was the pain of his flesh, which he had momentarily forgotten, and the vague helplessness of facing an insurmountable wall.
+It was the pain he had forgotten for a moment, and the helplessness of facing a wall too high to overcome.
 
 *Was this how it had to end?*
 
-Jin Mukyung looked up at the sky and muttered inwardly.
+Jin Mukyung looked up at the sky and asked himself the question.
 
 Even the faint moonlight had been swallowed by the clouds. As always, the sky offered no answer.
 
@@ -236,9 +236,9 @@ As Jin Mukyung wrestled with the question, Jamukha, who had been studying the Sw
 
 “If you’re not going to swing that sword, why not put it down?”
 
-For a moment, Jin Mukyung understood what he meant and let out a quiet laugh.
+Jin Mukyung understood what he meant and let out a quiet laugh.
 
-“You want me to surrender? To you, of all people?”
+“You want me to surrender? Me, of all people?”
 
 “Surrender?”
 
@@ -288,7 +288,7 @@ To Jin Mukyung, who had already resolved to die, everything Jamukha had said was
 
 At least, until he heard Jamukha’s next words.
 
-“I’ll spare your life. Yours, and all of theirs.”
+“I’ll spare you. You and all of them.”
 
 “……What?”
 
@@ -298,13 +298,13 @@ Jamukha looked at Jin Mukyung, whose eyes had widened, and gestured toward the b
 
 “Do you know how to tame a hunting dog? It’s surprisingly simple.”
 
-A leash alone was not enough.
+A collar alone was not enough.
 
 A hunting dog that hadn’t been fully tamed would become a beast the moment its leash came off, and bite its master.
 
 “But what if it’s starving?”
 
-A hunting dog kept on a tight leash and starved for days on end would grow docile. It would have no strength left to bite anyone, and in the helplessness it had never experienced before, it would realize it was nothing but an animal.
+A hunting dog kept in a sturdy collar and starved for days on end would grow docile. It would have no strength left to bite anyone, and in the helplessness it had never experienced before, it would realize it was an animal.
 
 “That’s when the master appears and tosses it some food.”
 
@@ -324,7 +324,7 @@ Jin Mukyung gritted his teeth without realizing it.
 
 Was it fear of the man in front of him?
 
-Wrong.
+No.
 
 It was hope.
 
@@ -332,7 +332,7 @@ Just for a little while.
 
 The hope that if he betrayed righteousness and turned his back on chivalry for only a short time, everyone could survive.
 
-That he could save the people continuing a blood-soaked battle whose ending was already decided, his one and only older brother, and the two Peak masters waiting to die behind him.
+That he could save the people fighting on in a blood-soaked battle whose ending was already decided, his one and only hyung, and the two Peak masters waiting to die behind him.
 
 “Mukyung!”
 
@@ -340,7 +340,7 @@ That he could save the people continuing a blood-soaked battle whose ending was 
 
 Wipeng and Cheol Mubaek.
 
-Jin Mukyung looked at the two men shouting with what little strength they had left, his gaze sunk deep.
+Jin Mukyung looked at the two men shouting with what little strength they had left, his gaze heavy.
 
 “I’m sorry. Both of you.”
 
@@ -350,7 +350,7 @@ Jin Mukyung looked at the two men shouting with what little strength they had le
 
 Wipeng and Cheol Mubaek’s eyes widened. Jamukha smiled.
 
-Jin Mukyung looked at Jamukha and parted his lips.
+Jin Mukyung looked at Jamukha and spoke.
 
 “Did I ever tell you?”
 
@@ -360,7 +360,7 @@ Jin Mukyung looked at Jamukha and parted his lips.
 
 Jamukha’s smile faded a little as Jin Mukyung stepped toward him.
 
-With a single phrase, spat out through clenched teeth, he answered:
+He spat out his answer through clenched teeth.
 
 “Go suck a dick.”
 

@@ -4,7 +4,7 @@
 
 Ripples spread across the pool of blood that had lain still.
 
-Tiny fragments of stone trembled. So did the countless corpses, their eyes wide open in death.
+Tiny fragments of stone trembled. So did the countless corpses, eyes wide open in death.
 
 *This is…*
 
@@ -16,9 +16,9 @@ An earthquake?
 
 Ridiculous.
 
-This tremor was undeniable proof that at least several thousand men and horses were closing in.
+This tremor was undeniable proof that at least several thousand men and horses were closing in on them.
 
-The cruel omen was enough to give some people hope, and others deep despair.
+The cruel omen was enough to give some people hope, and others utter despair.
 
 “Waaaaah!”
 
@@ -30,15 +30,15 @@ The nomads, whose morale had plummeted at the Demon Bird’s death, let out shri
 
 “Reinforcements!”
 
-“Jamukha Khan has arrived!”
+“Khan Jamukha has arrived!”
 
 If Jin Mukyung’s defeat of the Demon Bird had turned the tide of battle, now the reverse was happening.
 
 Jamukha.
 
-A name unfamiliar to the people of Shanxi. The ruler of the western grasslands, the absolute master of the vast Great Steppe. As if his arrival weren’t enough, at least several thousand reinforcements had joined him.
+A name unfamiliar even to the people of Shanxi. The ruler of the western grasslands, the undisputed master of the vast Great Steppe. And now, at least several thousand reinforcements had joined him.
 
-The nomads had been pushed back, their morale dwindling like a dying ember. Now it soared. The Shanxi defenders, who had been driving back the invaders moments ago, felt their forgotten fatigue and fear return.
+The nomads’ morale, which had been sinking as steadily as a dying ember while they were pushed back, soared. The Shanxi defenders, who had been driving back the invaders moments ago, felt the fatigue and fear they had forgotten return to them.
 
 Even the man leading them felt it.
 
@@ -46,9 +46,9 @@ Even the man leading them felt it.
 
 Jin Wikyung swallowed a groan.
 
-Blood from his enemies ran down the commander in chief’s sword, proof of how fiercely he had fought.
+As if to prove how fierce the battle had been, blood from his enemies ran down his sword, the weapon of the commander in chief.
 
-He had given the battle everything he had.
+He had fought with everything he had.
 
 He had joined the fighting himself to raise his men’s spirits. Whenever a crisis arose, he had given flawless orders, sealing the gorge entrance so thoroughly that not even a drop of water could pass.
 
@@ -56,7 +56,7 @@ Fifteen thousand troops, scraped together from across Shanxi Province.
 
 But reality was cold.
 
-Less than half of those fifteen thousand could be called the main force, and even they had suffered heavy losses against the enemies who kept pouring in.
+Less than half of those fifteen thousand could be called the main force, and even they had suffered heavy losses fighting the enemies who kept pouring in.
 
 For every enemy they felled, there were two. For every two, five.
 
@@ -64,7 +64,7 @@ For every five, ten.
 
 And behind them, tens of thousands more still waited.
 
-In this long, dreadful war of attrition around the narrow gorge, it was not the rocks that would break first, but the pebbles.
+In this long, dreadful war of attrition around the narrow gorge, it was not the rocks that broke first, but the pebbles.
 
 *Was this how it had to end?*
 
@@ -72,15 +72,15 @@ Jin Wikyung breathed hard and looked around.
 
 Everything was hazy, muffled.
 
-Enemies and allies charged over heaps of corpses and tangled together. He stood rooted to the spot while a retainer called to him, but the enemy’s shouts drowned out the words. They reached him only in broken snatches, like stepping-stones across a stream.
+Enemies and allies charged at one another over heaps of corpses, all tangled together. His retainer’s cries to him as he stood rooted to the spot were drowned out by the enemy’s shouts, reaching him only in broken snatches, like stepping-stones across a stream.
 
 “…urry, hurry!”
 
 He couldn’t make out the words, but Jin Wikyung understood exactly what his retainer meant.
 
-A hand tugged hard at his sleeve.
+A hand tugging hard at his sleeve.
 
-The retainer’s face was full of desperation and urgency.
+A face full of desperation and urgency.
 
 And it wasn’t just the retainer in front of him. Everyone around him—the martial artists of the Jin Family of Taiyuan, the Sect Leaders of their vassal sects, and the government troops—was speaking to him with their eyes.
 
@@ -104,7 +104,7 @@ But…
 
 *There’s no reason the commander in chief has to be me.*
 
-Jin Wikyung smiled faintly and tightened his grip on his sword hilt.
+Jin Wikyung smiled faintly and closed his hand around the sword hilt he had been holding loosely.
 
 He had spent the past few years more accustomed to a brush than a sword, but the Sword Energy of a Peak master had not dulled in the slightest.
 
@@ -120,7 +120,7 @@ Jin Wikyung advanced, cutting down the enemy with clean, precise movements. His 
 
 Jin Wikyung took another life and spoke.
 
-“Tell Lee Seowol, the Sect Leader of the Mount Heng Sword Sect, that from this moment on, I’m leaving everything that follows to her.”
+“Tell Lee Seowol, the Sect Leader of the Mount Heng Sword Sect, that from this moment on, I entrust everything that follows to her.”
 
 “……!”
 
@@ -128,13 +128,13 @@ Jin Wikyung took another life and spoke.
 
 With that shout, Jin Wikyung swept his sword through the air.
 
-A defeated commander had nowhere to return to. After sacrificing the lives of so many of his people, this was where he belonged.
+A defeated general had nowhere to return to. After sacrificing the lives of so many of his people, this was where he belonged.
 
 *She’s clever. She’ll manage.*
 
 With the weight on his heart lifted, his sword felt lighter. Pain flared from the wounds where lances and arrows had grazed him, setting his blood ablaze.
 
-*I promised everyone I would protect this land—Shanxi Province.*
+*I promised everyone. I would protect this land—Shanxi Province.*
 
 He had made another vow, too.
 
@@ -148,7 +148,7 @@ He would live and die with them.
 
 At the sight of Jin Wikyung advancing with a beast’s roar, a flame sprang up deep in the eyes of the Shanxi defenders who had been wavering.
 
-A shiver, its origin unknown, raced from the crowns of their heads through their bodies.
+A shiver, its origin unknown, raced from the crown of their heads through their entire bodies.
 
 *There he is.*
 
@@ -214,11 +214,11 @@ Jin Mukyung had tossed out the remark to create even the smallest opening. But J
 
 “What?”
 
-“Speak with your sword, not that tongue of yours. A provocation like that doesn’t suit someone like you.”
+“Speak with your sword, not that silver tongue of yours. A provocation like that doesn’t suit someone like you.”
 
 “……!”
 
-“You’re still far too clumsy at it. Though choosing the wrong opponent was a big part of it. Like that pathetic fool lying over there.”
+“You’re still far too clumsy. Though, of course, choosing the wrong opponent was a big part of it. Like that pathetic fool lying over there.”
 
 At Jamukha’s scornful glance toward the Demon Bird’s corpse, Jin Mukyung bit his lip.
 
@@ -244,7 +244,7 @@ For a moment, Jin Mukyung understood what he meant and let out a quiet laugh.
 
 Jamukha frowned and shook his head.
 
-“No. I mean submit. Roll over and show your belly to your master, wag your tail, and lick the tops of his feet like a dog.”
+“No. I mean submit. Roll over and show your belly to your master, wag your tail, and lick his feet like a dog.”
 
 “……!”
 
@@ -276,7 +276,7 @@ Jamukha spoke calmly, then continued.
 
 A cold, sharp edge filled the air.
 
-Jin Mukyung slowly raised his sword upright and spoke across its white blade.
+Jin Mukyung slowly raised his sword upright and spoke through its white blade.
 
 “By the time that ‘right time’ you’re talking about comes, everything I want to protect will be gone.”
 
@@ -358,7 +358,7 @@ Jin Mukyung looked at Jamukha and parted his lips.
 
 “What I said to a certain pig bastard who wanted to take me as his disciple.”
 
-Jamukha’s smile faded a little as Jin Mukyung stepped toward him.
+Jamukha’s smile had faded a little as Jin Mukyung stepped toward him.
 
 With a single phrase, spat out through clenched teeth, he answered:
 
@@ -370,7 +370,7 @@ At the instant Jamukha’s expression hardened—
 
 *Boooooo!*
 
-Far away, the sound of dozens of horns blowing at once reached the gorge.
+Far away, the resonance of dozens of horns reached the gorge at once.
 
 Jamukha knew better than anyone what that urgent blast meant.
 
@@ -378,4 +378,4 @@ Jamukha knew better than anyone what that urgent blast meant.
 
 And at the same time, he realized something.
 
-The tremor everyone in the gorge had felt moments ago hadn’t come from the nomads alone.
+The tremor everyone in the gorge had felt moments ago hadn’t belonged only to the nomads.
