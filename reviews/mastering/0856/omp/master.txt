@@ -20,13 +20,13 @@ Despite my boast that we’d cut the remaining time down to two days, reality wa
 
 “…!”
 
-“We’re not the only ones on the move. We have to push ourselves and get in their way before they reach their destination.”
+“We’re not the only ones on the move. We have to push ourselves hard enough to get ahead of them.”
 
 Jeok Cheongang already knew I was right, so he said nothing.
 
 Information was important. But perfect information didn’t exist.
 
-If we’d picked up some information, then so had our opponents.
+If we’d learned something, our opponents might have learned something, too.
 
 That was true even in the modern world, where information could be relayed by the minute or even the second. How much more so in Murim?
 
@@ -60,19 +60,19 @@ We were trying to cross half the continent in a little over half a month. It was
 
 Hyuk Mujin said nothing after that.
 
-No—neither did anyone else.
+Neither did anyone else.
 
-Instead of complaining, they held their tongues and kept moving.
+They held their tongues instead of complaining, and we kept moving.
 
 We crossed rugged mountain ranges and forded winding rivers.
 
-The vast continent’s climate and terrain varied a little from one region to the next.
+The vast continent’s climate and terrain varied from one region to the next.
 
-The midday heat in Hubei was like a blast furnace, while the night wind in Anhui cut like a cold blade.
+The midday heat in Hubei was like a blast furnace, while a chilly wind cut through the nights in Anhui.
 
 One day, after wind and rain had swept through, some of the party collapsed from exhaustion.
 
-“Young Hero Jin, I understand how important this matter is, but… we can’t go on any longer.”
+“Young Hero Jin, I understand how important this is, but… they can’t go on.”
 
 The Divine Physician had watched the others wear themselves down. I gave him a short answer.
 
@@ -84,7 +84,7 @@ Both refused at first, but this time I wouldn’t budge. One look told me they w
 
 *Of course they’re exhausted. We’ve been moving until their internal energy and stamina were spent.*
 
-And though his title was the Fire King, Jeok Cheongang was a man of cold disposition. For some reason, he felt sorry for Ju Hwaran, who was burning up from head to toe despite the Divine Physician’s treatment.
+And despite his title of Fire King, Jeok Cheongang had a cold disposition. Yet he seemed to feel sorry for Ju Hwaran, who was burning up with fever despite the Divine Physician’s treatment.
 
 “Is this really necessary? We could—”
 
@@ -100,11 +100,11 @@ The war had already begun, and upheaval lurked on every side.
 
 Catastrophes more terrible and vast than anything anyone had ever faced.
 
-To survive the war against Dark Heaven, all of us had to grow stronger—not just me. A blade hammered and tempered countless times won’t break even when it strikes a rock.
+To survive the war against Dark Heaven, all of us had to grow stronger—not just me. A blade hammered and tempered countless times wouldn’t break when it struck a rock.
 
 Jeok Cheongang was one of the very few people who understood what I meant better than anyone.
 
-He, too, had been remade through bone-deep effort and hardship. In the end, he’d become a peerless blade that cut through countless rocks blocking his way.
+He, too, had been remade through grueling effort and hardship. In the end, he’d become a fine blade that cut through the countless rocks in his path.
 
 “We have to make it through this together…”
 
@@ -114,7 +114,7 @@ Jeok Cheongang slowly repeated my words, then gave a dry chuckle.
 
 “I’ve always been taller than you, Old Master. Then and now.”
 
-Jeok Cheongang shook his head at my answer.
+Jeok Cheongang shook his head.
 
 “You’re still an arrogant brat. Then and now.”
 
@@ -122,11 +122,11 @@ Jeok Cheongang shook his head at my answer.
 
 “But no matter how I look at it, this is too much. You heartless little bastard.”
 
-“Miss Ju wanted it. I respected her wishes. If she were in enough pain to actually die, I’d have stopped her myself.”
+“Young Lady Ju wanted this. I respected her wishes. If she’d been in so much pain she might actually die, I’d have stopped her myself.”
 
-“Cut the crap. Anyway, your idea might be right, but I can be sure of one thing.”
+“Cut the crap. Your thinking may be right, but there’s one thing I’m sure of.”
 
-“Yes? What?”
+“What’s that?”
 
 “This old man guarantees you’ll never find a partner as long as you live.”
 
@@ -140,7 +140,7 @@ Jeok Cheongang dealt that brutal blow out of nowhere and darted away like the wi
 
 I gathered my internal energy and pushed off the ground. Stepping onto a branch of the nearest great tree, I sprang up above it. At last, I saw the light spreading in the distance.
 
-It was the dawn light.
+Dawn.
 
 The eleventh dawn I’d seen since we’d left the Sichuan Tang Clan.
 
@@ -148,7 +148,7 @@ But what made the light of this new morning so welcome was something coming into
 
 “Ah.”
 
-A faint exclamation rang in my ears.
+A faint exclamation sounded by my ear.
 
 Hyuk Mujin, still on my back, asked in a half-dead voice, “C-Captain. Where are we? What’s that?”
 
@@ -172,7 +172,7 @@ A little over a hundred years.
 
 That was all it took for the vast empire founded by the invaders from the grasslands to fall.
 
-There had been a great conqueror who was both hero and devil, destined to remain a legend to the very end. There had also been a wise ruler who strengthened the empire from within and cared for his subjects and people.
+There had been a great conqueror, both hero and devil, who remained a legend to the very end. There had also been a wise ruler who strengthened the empire from within and cared for his subjects.
 
 But at the end of that age, all that remained were terrible famine, corruption, and countless red flags fluttering in the wind.
 
@@ -188,7 +188,7 @@ Bandits who stole grain and valuables to fill their empty stomachs.
 
 Bandits who wanted to steal this nation’s mountains and rivers, too.
 
-*“How can the blood of kings, nobles, generals, and ministers be any different from anyone else’s?”*
+*“Are kings and generals born of some different blood?”*
 
 They might have been shabby on the outside, but did that mean there was nothing great within them?
 
@@ -222,7 +222,7 @@ Hong Jin woke with a start and blinked. Then he respectfully bowed his head to t
 
 “Forgive you? Don’t be absurd.”
 
-The boy, Prince Shangshan Zhu Bao, replied.
+The boy was Prince Shangshan, Zhu Bao.
 
 His composure and dignified voice were hard to believe in someone not yet in his midteens.
 
@@ -240,13 +240,13 @@ The young prince, much taller and more solidly built than most boys his age, con
 
 Hong Jin answered by bringing his hands together and bowing deeply.
 
-But as he stared at the floor of the slowly moving carriage, his gaze held both pride in the young prince and a hint of bitterness.
+Yet as he looked down at the floor of the slowly moving carriage, he felt both pride in the young prince and bitterness.
 
 *I earnestly pray it will be so as well, Your Highness… But your elder brother will not see it that way.*
 
-Hong Jin forced down the voice rising deep in his heart.
+Hong Jin forced down the words rising in his heart.
 
-His master, Prince Shangshan, had been an intelligent, mature boy from a young age. But he was far too young to understand the cruelty of the world.
+His master, Prince Shangshan, had been intelligent and mature from a young age. But he was far too young to understand the cruelty of the world.
 
 Even now, surrounded by the Embroidered Uniform Guard and bound for the Imperial Capital as though he were a prisoner under escort, he still had unwavering faith in his only blood relative.
 
@@ -256,13 +256,13 @@ Hong Jin did not.
 
 With that question, which would reach no one, Hong Jin closed his eyes.
 
-In the pitch-darkness, memories surfaced. Sounds returned.
+In the darkness, memories surfaced. Sounds returned.
 
 The days when the blood never dried. The days of purges, when hundreds died with their limbs torn from their bodies and thousands were beheaded, their heads put on display.
 
 And the late Emperor’s final words.
 
-*“Bao. I entrust that child to you.”*
+*“Bao. Look after that child.”*
 
 Thump.
 
@@ -280,11 +280,11 @@ A feeling both strange and familiar.
 
 Hong Jin had once served as the late Emperor’s hands and feet, just as the Embroidered Uniform Guard did now. The man’s voice brought back a sensation he hadn’t felt in over a decade.
 
-Along with a hint of puzzlement.
+And with it came a question.
 
 *Why have we stopped?*
 
-This covert procession had already entered Jiangsu, and the Embroidered Uniform Guard had no reason to stop. They were people who would gladly give their lives to carry out the Emperor’s orders.
+The covert procession had already entered Jiangsu, and the Embroidered Uniform Guard had no reason to stop. They would give their lives to carry out an imperial order.
 
 *Something’s going on.*
 
@@ -292,27 +292,27 @@ Hong Jin quietly sharpened his senses. He might not have mastered martial arts t
 
 Fortunately, the guards seemed to decide the matter didn’t warrant Sound Transmission. Their conversation drifted through the gap in the window.
 
-“According to the scouts, there’s an unidentified corpse about three hundred zhang ahead…”
+“According to the scouts, there’s an unidentified body about three hundred zhang ahead…”
 
 “They didn’t get close in case it was a trap, but they couldn’t see any obvious wounds…”
 
 “It could be an attempt to split up our forces. We’ll keep moving. Stay close to the carriage.”
 
-The murmuring conversation abruptly stopped. After a brief pause, the carriage started moving again.
+The murmured conversation cut off. After its brief halt, the carriage began to move again.
 
 Clip-clop. Clip-clop.
 
-As he listened to the quiet sound of hooves, Hong Jin thought,
+Listening to the soft sound of hooves, Hong Jin thought, *An unidentified body.*
 
 It wasn’t so strange. The continent was vast, and people wandered its roads begging for food. Even Jiangsu, so close to the Imperial Capital, was no exception.
 
-Why did one man’s name suddenly come to mind at this very moment?
+But why did one man’s name come to mind now?
 
-And why did an inexplicable hope well up in one corner of his heart?
+And why did hope suddenly rise in his chest?
 
 *Could it be…*
 
-Hong Jin had just lifted his head when—
+Hong Jin lifted his head.
 
 “Didn’t you say it was a corpse…?”
 
@@ -320,4 +320,4 @@ One of the Embroidered Uniform Guard had muttered the words. Then a voice Hong J
 
 “Captain. I swear I wasn’t dozing off. I was just lying down for a second… Huh? Who are you?”
 
-At that moment, Hong Jin burst out laughing, briefly forgetting that the young prince was right in front of him.
+For a moment, Hong Jin forgot the young prince was right in front of him and burst out laughing.

@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled English is largely faithful, but it changes Jeok Cheongang’s disposition and omits a brief thought that links the unidentified corpse to Hong Jin’s reaction.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 89",
+      "current": "Jeok Cheongang was a man of cold disposition.",
+      "defect": "The source describes him as 냉소적인, meaning cynical or sardonic, not cold in temperament. This changes the characterization.",
+      "replacement": "Jeok Cheongang was a man of cynical disposition.",
+      "rationale": "The source contrasts his title, Fire King, with his cynical nature before describing his sympathy for Ju Hwaran.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 319",
+      "current": "It wasn’t so strange.",
+      "defect": "The assembled English omits Hong Jin’s thought, “An unidentified corpse,” before his judgment that the discovery was not unusual. The accepted baseline preserved this thought.",
+      "replacement": "*An unidentified corpse.*\n\nIt wasn’t so strange.",
+      "rationale": "The source explicitly gives the thought ‘신원불명의 시신이라’ before Hong Jin considers how common such a sight would be.",
+      "confidence": 0.99
+    }
+  ]
+}
