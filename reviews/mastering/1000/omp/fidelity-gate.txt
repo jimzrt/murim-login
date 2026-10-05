@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is broadly faithful, but a few passages alter hierarchy, intent, or register.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 35–37",
+      "current": "He and the Roaring Fury Swordsman were the Wind-and-Cloud Sword Lord’s only two Senior Brothers and the most senior members of the Zhongnan Sect.",
+      "defect": "The Korean identifies Hwangbo Eom alone as the Zhongnan Sect’s highest-ranking member. The current wording can make both Senior Brothers the most senior members.",
+      "replacement": "He and the Roaring Fury Swordsman were the Wind-and-Cloud Sword Lord’s only two Senior Brothers, and Hwangbo Eom was the highest-ranking member of the Zhongnan Sect.",
+      "rationale": "The singular subject 그가 refers to Hwangbo Eom, who is identified as 현 종남파의 최고 배분.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 177",
+      "current": "he took Jeok Cheongang’s answer to mean that his Master wanted to give his Disciple the authority to speak.",
+      "defect": "The translation changes the idea of a Master backing his Disciple into granting the Disciple authority to speak.",
+      "replacement": "he took Jeok Cheongang’s answer as a Master’s way of backing his Disciple.",
+      "rationale": "제자에게 힘을 실어 주기 위한 means to support or back the Disciple, not to give the Disciple authority to speak.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 129",
+      "current": "a curious smile",
+      "defect": "“Curious” can suggest inquisitiveness, but the source describes an odd, inscrutable smile whose meaning is unclear.",
+      "replacement": "a strange, inscrutable smile",
+      "rationale": "The Korean says 의미를 알 수 없는 묘한 미소, explicitly describing a smile of unclear meaning.",
+      "confidence": 0.92
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean line 227",
+      "current": "he’d cleaned up the messes his Senior Brothers made more than once.",
+      "defect": "The translation softens the source’s crude image and register.",
+      "replacement": "he’d cleaned up the shit his Senior Brothers had left behind more than once.",
+      "rationale": "싸질러 놓은 똥 is a deliberately vulgar image, not a neutral reference to messes.",
+      "confidence": 0.96
+    }
+  ]
+}
