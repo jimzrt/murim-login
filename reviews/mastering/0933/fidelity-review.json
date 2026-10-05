@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "They moved as one, with a heavy ring of metal.",
+      "defect": "The source compares the movement to a sword; “moved as one” replaces that image with coordinated movement, which the Korean does not state.",
+      "id": "F01",
+      "rationale": "“칼 같은 움직임” means a movement like a blade, an image also preserved in the accepted baseline. The current line omits it.",
+      "replacement": "With a sword-sharp movement, a heavy clang rang out.",
+      "severity": "minor",
+      "source": "Korean line 49"
+    }
+  ],
+  "summary": "The translation is faithful overall, but it drops a source-specific image in the movement and sound description.",
+  "version": 1
+}

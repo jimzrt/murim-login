@@ -68,7 +68,7 @@ They stood in two neat rows on either side of the path to Qianqing Palace. I cou
 
 “Come on, you’re making me blush.”
 
-But I stopped laughing almost at once and returned their salute, bringing my hands together.
+But I stopped almost at once and returned their salute.
 
 “We’ll meet again. We will.”
 
@@ -168,7 +168,7 @@ Before I could respond, the Emperor gave a bitter smile and pointed to his head.
 
 “……No way.”
 
-He seemed to have already given up. And that gesture had meaning, too.
+He sounded as though he’d already resigned himself to it. That gesture only made it worse.
 
 I stared at him, eyes wide, as he parted his dry lips.
 
@@ -234,7 +234,7 @@ He gave a soft chuckle. Then, without warning, he coughed.
 
 *Cough.*
 
-His golden sleeve stained red. I looked around, my face hardening at the sudden spitting of blood, but the Emperor shook his head before I could move.
+Red stained his golden sleeve. I looked around, my face hardening at the sight of blood, but the Emperor shook his head before I could move.
 
 “Don’t bother.”
 
