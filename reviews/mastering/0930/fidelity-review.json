@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "A power meant for one person alone.",
+      "defect": "The translation preserves the description of the power but omits the preceding statement that this is the System’s power.",
+      "id": "F01",
+      "rationale": "The Korean explicitly says, “The System is that kind of power,” followed by the explanation that it is a power for only one person.",
+      "replacement": "That was the System’s power. A power meant for one person alone.",
+      "severity": "minor",
+      "source": "Korean lines 199–201"
+    }
+  ],
+  "summary": "One source-grounded omission remains: the English drops the line identifying this as the System’s power.",
+  "version": 1
+}

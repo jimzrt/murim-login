@@ -18,7 +18,7 @@ Then I realized where the déjà vu was coming from—and why the place felt fam
 
 That’s right.
 
-This was a vast pavilion built to serve as both living quarters and a place to handle state affairs—and a fortress filled with an ironclad guard.
+This was a vast pavilion built to serve as both living quarters and a place to conduct state affairs. A fortress packed with guards.
 
 Qianqing Palace.
 
@@ -38,7 +38,7 @@ A faint breeze stirred the curtains around the bedroom. At the same moment, a ma
 
 His voice was muffled, almost a mumble.
 
-I stared blankly at the unexpected intruder, then calmly assessed the situation.
+I stared blankly at the unexpected visitor, then calmly assessed the situation.
 
 The Emperor’s quarters. The Emperor’s blanket. The Emperor’s bed. The Emperor’s pillow.
 
@@ -46,7 +46,7 @@ My clothes were golden from head to toe, and when I lifted my pants for a peek, 
 
 The full King-God-Emperor package.
 
-And on top of that, No Shadow—the Emperor’s hidden guard, an assassin and Supreme Peak master—was speaking to me with such courtesy.
+And No Shadow—the Emperor’s hidden guard, an assassin and Supreme Peak master—was speaking to me with such courtesy.
 
 *Then could this be…*
 
@@ -56,7 +56,7 @@ Through clear-headed reasoning, I reached a conclusion. A shudder ran through me
 
 It had to be. There was no other explanation.
 
-I’d gotten a good night’s sleep, woken up, and my life had changed genres from fusion Murim to a possession story. Just as I was reeling from the shock, No Shadow spoke in his usual muffled voice.
+I’d gone to sleep and woken up to find that my life had changed genres from fusion Murim to a possession story. As I reeled from the shock, No Shadow spoke in his usual muffled voice.
 
 “Are you all right?”
 
@@ -88,9 +88,7 @@ To hell with being an emperor. I’d gone from a handsome guy in his early twent
 
 I silently tried the command, just in case.
 
-But it scattered into the void.
-
-There was no clear chime, no translucent holographic window.
+Nothing. No clear chime, no translucent holographic window.
 
 *What the hell is going on? How did things get like this?*
 
@@ -100,15 +98,15 @@ The levels I’d busted my ass to gain, my stats—I couldn’t even access the 
 
 *Wait. Then what happened to the original me?*
 
-The thought suddenly struck me, and my eyes flew open. I shouted at No Shadow in a panicked voice.
+My eyes flew open. I shouted at No Shadow in a panic.
 
-“Then what happened to me…? No, what happened to Jin Taekyung!”
+“Then what happened to me…? No, what happened to Jin Taekyung?”
 
 No Shadow blinked above his pitch-black mask.
 
 “You mean Jin Taekyung of the Jin Family of Taiyuan?”
 
-“Yes, the Blazing Flame Divine Dragon, Jin Taekyung! The guy who’s handsome, tall, and perfectly muscled, and I have no idea why women aren’t all over him!”
+“Yes, the Blazing Flame Divine Dragon, Jin Taekyung! The handsome, tall guy with perfect muscles who somehow isn’t popular with women!”
 
 His answer brought my thoughts to a halt.
 
@@ -120,7 +118,7 @@ His answer brought my thoughts to a halt.
 
 “……!”
 
-“As a result, His Highness the Imperial Younger Brother has refused food and drink for three days. He said there was something he must return to a friend with whom he shared a bond…”
+“As a result, His Highness the Crown Prince has refused food and drink for three days. He said there was something he must return to a friend with whom he shared a bond…”
 
 No Shadow trailed off and carefully held something out. I accepted it in a daze.
 
@@ -146,7 +144,7 @@ And perhaps Jin Taekyung the Hunter’s life in Korea had ended here too.
 
 At some point, I’d clenched my fist so hard my knuckles had gone white. Then I saw the wrinkles covering the back of my hand, and the strength left me.
 
-*Slide.*
+*Slip.*
 
 My fingers loosened. The Myriad-Poison Ring rolled over my rough skin and fell onto the bluestone floor.
 
@@ -154,9 +152,7 @@ My fingers loosened. The Myriad-Poison Ring rolled over my rough skin and fell o
 
 The cold sound echoed alone through the vast room.
 
-With hope drained from my eyes, I watched the Myriad-Poison Ring spin rapidly.
-
-Each time the black gem caught the light of the night-shining pearls and flashed, faces I would never see again crossed my mind.
+I watched the ring spin, the hope gone from my eyes. Every time its black gem caught the light of the night-shining pearls, faces I would never see again flashed before me.
 
 My family, more precious to me than my life. Team Leader Choi and so many other comrades.
 
@@ -184,15 +180,15 @@ I was no longer the chosen one or a Player. The System knew the truth, but it wo
 
 No. I wouldn’t be able to hear its answer.
 
-A power meant for one person alone.
+That was how the System worked. Its power was meant for one person alone.
 
 *And so…another Player will appear.*
 
 The hollow thought hovered on the tip of my tongue without becoming words.
 
-With my eyes sunk deep, I kept watching the Myriad-Poison Ring spinning.
+I stared at the Myriad-Poison Ring, still spinning on the blue stone.
 
-It was still turning and turning on the blue bluestone floor, without end.
+Still spinning. And spinning.
 
 “……?”
 
@@ -238,13 +234,13 @@ The familiar weight—the one I’d have recognized anywhere, and was so glad to
 
 “Ah, ah…”
 
-An indescribable electric thrill coursed through my whole body.
+An indescribable thrill shot through me.
 
 I was alive.
 
 I was still alive.
 
-This wasn’t that shitty dream from a moment ago. This was vivid reality, the present in which I was alive and breathing.
+This wasn’t that shitty dream. This was reality. I was here, alive and breathing.
 
 I was Jin Taekyung the Hunter and Jin Taekyung the Blazing Flame Divine Dragon.
 
@@ -276,13 +272,13 @@ Beside him, Jeok Cheongang avoided my gaze.
 
 The Bow Saint nodded and murmured, “Truly the chosen one…”
 
-I took a quiet, deep breath.
+I took a quiet breath.
 
 It felt as though the world had stopped.
 
-No—more accurately, I wished it would stop.
+No. I wished it would.
 
-But even after I shut my eyes tight, made a fervent wish, and opened them again, the dreadful reality was still waiting for me right there.
+But when I shut my eyes, made that wish with all my heart, and opened them again, the dreadful sight was still there.
 
 The Divine Physician. Jeok Cheongang. The Bow Saint.
 
@@ -296,17 +292,15 @@ Fuck. The Fire Dragon Pavilion.
 
 I was looking at them. They were looking at me.
 
-More precisely, they were staring at me with their eyes wide, as though they couldn’t believe what they were seeing—at the sight of my hand inside the front of my pants.
+More precisely, they were staring wide-eyed at my hand inside the front of my pants.
 
 *Ah.*
 
-I barely swallowed the sigh that was about to burst out.
+I barely managed to swallow the groan rising in my throat. Then I spoke as calmly as I could.
 
-Then, as calmly as I could, I spoke.
+“I know. I can see how this looks.”
 
-“I know. It looks like there’s plenty of room for misunderstanding.”
-
-“I don’t think it’s really a misunderstanding, mm.”
+“I don’t think you’re being misunderst—mm.”
 
 Song Ilseom cut himself off when he saw my expression.
 
@@ -318,13 +312,13 @@ Somehow feeling a little pleased and utterly humiliated at the same time, I trie
 
 “But there were…circumstances.”
 
-“Taishan knows! Taishan knows the circumstances! Taishan knows what that is!”
+“Taishan knows! Taishan knows about that! Knows what it is!”
 
 “Shut your mouth, you bastard!”
 
 “Ah.”
 
-Taishan had been bouncing with excitement, but shrank back at my thunderous shout. For some reason, Namho was still perched on his shoulders, riding him like a human throne. He spoke with a serious expression.
+Taishan shrank back from my thunderous shout. For some reason, Namho was still sitting on his shoulders. He spoke with a serious expression.
 
 “But when are you going to take that hand out?”
 
@@ -340,7 +334,7 @@ I kept my cool.
 
 “Still, there are a lot of eyes on you. You should take it out now. Quickly, not slowly.”
 
-“May I ask why?”
+“Why?”
 
 “The slower you move, the longer they’ll watch. I’ll count to three. Take it out exactly on three.”
 
