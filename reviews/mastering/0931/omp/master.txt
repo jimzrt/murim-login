@@ -2,9 +2,9 @@
 
 Everyone needs time alone.
 
-Say, when you need to check the System messages piled up until they’re ready to burst, like emails in a portal account you haven’t opened in years.
+Say, when you have to check the System messages piled up like emails in a portal-site inbox you haven’t opened in years.
 
-Especially if you’ve just groped your own private parts in front of a dozen people, then shuddered all over.
+Especially after feeling up your own private parts in front of more than ten people and shuddering all over.
 
 But even after that incomprehensible nightmare—and a situation worse than the nightmare itself—people seemed determined not to leave me alone.
 
@@ -18,17 +18,17 @@ My first visitors were the imperial physicians, who came charging in the moment 
 
 They’d apparently been standing by for three days under the Emperor’s strict orders. Reeking of herbal medicine, they had me do one thing after another, then huddled together with grave expressions and whispered.
 
-Of course, I could hear every word perfectly.
+Of course, I could hear every word.
 
 “His condition is normal—no, perfect.”
 
 “I heard there was an enormous battle, but he’s strangely unharmed. Not a single wound.”
 
-“That’s not all. If you look more closely, the front of his robe is suspiciously bulging.”
+“That’s not all. Look closely and the front of his robe is suspiciously swollen.”
 
 “What? You don’t mean that’s…? No. Impossible.”
 
-“To be honest, I’m not certain either. I’ll give you a signal when the opportunity arises. You can press it once, pretending it was an accident.”
+“I’m not sure myself. I’ll signal you when you get a chance. Press it and pretend it was an accident.”
 
 “Hmm. Understood.”
 
@@ -44,17 +44,17 @@ But even after they left, visitors kept coming to the pavilion where I was stayi
 
 “Who?”
 
-“Just a moment. They say they were appointed Guanglu Dafu the day before yesterday.”
+“Just a moment. Uh, he says he was appointed Guanglu Dafu the day before yesterday.”
 
 “What exactly does a Guanglu Dafu do?”
 
-“If I knew that, I wouldn’t have become a martial artist.”
+“If I knew that, I wouldn’t be a martial artist.”
 
 “Sounds like a scammer just from the title. Tell him I’m not taking out a loan.”
 
 “Yes, I’ll pass that along.”
 
-I only learned that the Guanglu Dafu was an official whose rank came just below the Three Excellencies after turning away dozens of officials. Then, at last, I welcomed a new visitor.
+I turned away dozens of officials before another visitor finally told me that Guanglu Dafu was an office outranked only by the Three Excellencies.
 
 “I hope I’m not too late. Judging by the crowds at your door, you’re already quite popular.”
 
@@ -110,7 +110,7 @@ Honestly, I couldn’t help admiring Ma Sanbao a little. Escaping that desperate
 
 Of course, it was possible. Ma Sanbao fell far short of his master, the Eastern Heaven Demon Lord, but he’d still reached the Supreme Peak realm and had monstrous powers of recovery. His disguise technique could change both his face and his build so thoroughly that even I had to marvel at it.
 
-*Lastly, he could’ve used a Moving Formation Dark Heaven had hidden somewhere nearby.*
+*And he could’ve used a Moving Formation Dark Heaven had hidden somewhere nearby.*
 
 Ma Sanbao had to die if we wanted to prevent future trouble. But if he’d already fled beyond our reach, there wasn’t much we could do.
 
@@ -124,7 +124,7 @@ Hong Jin smiled.
 
 “Hey, Hong.”
 
-“…You really do make yourself at home. What is it?”
+“…You really took that to heart. What is it?”
 
 “Can I ask you a favor?”
 
@@ -142,7 +142,7 @@ He’d answered readily enough, but when he heard my request, his eyes widened.
 
 “It’s important. I’ll explain once I’ve checked it myself.”
 
-“Of course you will. You can’t just expect me to do it for nothing. You’re making use of an East Depot eunuch, after all.”
+“You’d better. You can’t expect to use an East Depot eunuch and get away without an explanation.”
 
 Hong Jin rose with a joking smile and left. Hyuk Mujin, who’d been watching for an opening, sidled over.
 
@@ -154,13 +154,13 @@ Hong Jin rose with a joking smile and left. Hyuk Mujin, who’d been watching fo
 
 He even gave me a thumbs-up, trying to butter me up. I let out a short laugh and shook my head.
 
-“There is something.”
+“It’s a thing.”
 
 “Wait, you’re keeping it secret from me too?”
 
 “It’s not exactly that…”
 
-“Not exactly?”
+“Then what?”
 
 “I don’t know either.”
 
@@ -180,7 +180,7 @@ He made a show of his hurt feelings as he headed for the door. I called after hi
 
 *Whoosh.*
 
-Hyuk Mujin returned to his spot before I could count to two, then asked while pretending to look elsewhere,
+He was back before I could count to two. Pretending nothing had happened, he asked, “So, what is it?”
 
 “I told you. I don’t know exactly what it is either.”
 
@@ -190,11 +190,11 @@ Hyuk Mujin returned to his spot before I could count to two, then asked while pr
 
 “Who?”
 
-“Someone you know, too.”
+“Someone you know.”
 
 Hyuk Mujin cocked his head, then thumped his chest confidently.
 
-“Tell me who it is, and I’ll bring them here right away. Then you can hear all about it in greater detail…”
+“Tell me who it is and I’ll bring them here right away. Then you can get a proper explanation—”
 
 “That won’t work.”
 
@@ -228,9 +228,9 @@ Then I sank into the soft silk bedding and gazed out the window. It was bright e
 
 Even from this pavilion deep inside the Inner Palace, I could hear distant cheers and songs carried on the wind.
 
-Fireworks shot up here and there, painting the night sky in brilliant colors. The people, welcoming a new era, would have forgotten sleep and poured into the streets, laughing, talking, and drinking all night.
+Fireworks burst here and there, scattering color across the night sky. Welcoming a new era, people would be pouring into the streets instead of sleeping, laughing and talking and raising their cups all night.
 
-Leaving tomorrow’s worries behind to enjoy today’s happiness to the fullest.
+Leaving tomorrow’s worries for tomorrow and enjoying today’s happiness while they could.
 
 *You wanted a world like this once, too.*
 
@@ -240,7 +240,7 @@ A man who had let go of all the anger left in his heart at the very end and died
 
 And the Sound Transmission that had been all but his last words.
 
-*“Remember every word I say from this moment on.”*
+*Remember what I’m about to tell you. Remember it well.*
 
 What followed was short and simple.
 
@@ -250,7 +250,7 @@ That was all.
 
 *And I’d find out what that thing was soon enough.*
 
-I didn’t know either. I had no idea what that thing was, the one the Eastern Heaven Demon Lord had mentioned at the very end, or what it contained or meant.
+I didn’t know what the thing he’d mentioned in his final moments was, or what it contained, or what it meant.
 
 But I’d decided to stop thinking about it until I saw it with my own eyes. I had other things to deal with right now.
 
@@ -262,6 +262,6 @@ The quiet words had barely left my lips when—
 
 Chimes rang out like mad, and countless holographic windows filled my vision.
 
-For a very long time.
+They kept coming for a very long time.
 
 As if they’d been waiting for this moment all along.

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "then asked while pretending to look elsewhere,",
+      "defect": "The question “So, what was it?” is missing. The English says Hyuk Mujin asked something, but skips the question before Jin’s reply.",
+      "id": "F01",
+      "rationale": "The source has Hyuk Mujin ask “그래서, 뭔데요?” before Jin answers. The accepted baseline also preserves this question.",
+      "replacement": "then asked while pretending to look elsewhere,\n\n“So, what was it?”",
+      "severity": "minor",
+      "source": "Korean lines 193–197"
+    }
+  ],
+  "summary": "One brief dialogue question is omitted; the rest of the assembled English preserves the source meaning.",
+  "version": 1
+}
