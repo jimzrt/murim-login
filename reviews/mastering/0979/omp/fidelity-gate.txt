@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor fidelity regressions: the translation weakens the stated severity of the fighters’ exhaustion and drops the source’s image of shadows emerging from the gorge.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 13–15",
+      "current": "Their hands and feet trembled with exhaustion and fear of death.",
+      "defect": "The Korean specifies extreme exhaustion (극심한 피로); the assembled version omits that intensity, which the accepted baseline preserved.",
+      "replacement": "Their hands and feet trembled with utter exhaustion and fear of death.",
+      "rationale": "The source explicitly intensifies the fatigue, rather than merely stating that they were exhausted.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 53",
+      "current": "As dawn approached and the darkness faded, thousands of figures poured from the narrow gorge’s entrance.",
+      "defect": "The Korean describes thousands of shadows pouring from the gorge. “Figures” loses that source-specific visual image, which the accepted baseline retained.",
+      "replacement": "As dawn approached and the darkness faded, thousands of shadows poured from the narrow gorge’s entrance.",
+      "rationale": "The source says 그림자들 (shadows), not simply figures.",
+      "confidence": 0.97
+    }
+  ]
+}

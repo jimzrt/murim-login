@@ -24,7 +24,7 @@ But Iron Blood Saber Peng Cheolyeong, Family Head of the Hebei Peng Family, reco
 
 *Crack!*
 
-With that booming laugh, he swung his great saber and swept through a dozen nomads in a single stroke.
+With that booming laugh, he swung his great saber and swept through more than a dozen nomads in a single stroke.
 
 Beneath the fountain of blood soaring into the air, the fewer than one thousand remaining warriors of Hebei pressed forward behind their Family Head.
 
@@ -74,7 +74,7 @@ Murong Wijin clenched his teeth, unable to finish.
 
 What else could he say?
 
-Anyone who wasn’t a fool could see what was happening.
+Anyone who wasn’t a fool could see what had happened. Reality was cold enough to make them shudder.
 
 They had lost. Their enemies had won.
 
@@ -122,13 +122,13 @@ The spear’s fierce whistle crossed dozens of yards. The round shape impaled on
 
 *Thump.*
 
-When Murong Wijin saw what touched the tips of his shoes—an object that was, in fact, a person’s head—a groan escaped him before he could stop it.
+At the sight of what touched his toes—not an object, but a man’s head—a groan escaped him before he could stop it.
 
 “……Family Head.”
 
 Once spoken, words couldn’t be taken back.
 
-Murong Wijin belatedly realized his mistake and clamped his mouth shut, but the damage was done.
+Murong Wijin realized his mistake and clamped his mouth shut, but the damage was done.
 
 “You… You dare…”
 
@@ -222,27 +222,27 @@ Jin Wikyung’s voice hardened, then burst into a mighty shout.
 
 “We will fight. We will cross the Great Wall and trample the steppe. Whatever the cost, we will drive you out of there!”
 
-At that moment, a chill ran down Temur’s spine.
+A chill ran down Temur’s spine.
 
 The thousands of surviving nomads felt it, too.
 
 They all heard and felt Jin Wikyung’s resolve to repay this grudge, even if it took hundreds of years and cost countless lives.
 
-They heard the sincerity in his tightly restrained voice, seeping through clenched teeth.
+They heard the conviction in the words forced through his clenched teeth.
 
-And then, Temur had no choice but to decide.
+And then they had to choose.
 
 “……Temur of the Golden Clan.”
 
 Temur—the only chieftain who could fill Jamukha’s place—bowed his head.
 
-To the Han Chinese beyond the Great Wall.
+To a Han Chinese man from beyond the Great Wall.
 
 To the Alliance Leader of Shanxi and the Lesser Family Head of the Jin Family of Taiyuan.
 
 “I offer my greetings, my lord.”
 
-In that instant, time on the battlefield—which had stood still—began to flow again.
+In that instant, time on the battlefield began to move again.
 
 *Shhk-shhk-shhk!*
 
@@ -282,13 +282,13 @@ People standing at one side of the training ground watched in amazement, repeate
 
 Family Head.
 
-At the two words someone let slip, everyone clicked their tongues.
+At the two words someone let slip, everyone smacked their lips.
 
 They exchanged strange glances and fell silent, but only for a moment.
 
 Watching the child practice his sword with flawless form, stroke after stroke, they resumed their conversation as if nothing had happened.
 
-*“In any case, I don’t know much about the great sects of the Central Plains, but I doubt they have many talents like him. No, they must be quite rare.”*
+*“In any case, I doubt even the great sects of the Central Plains have many talents like him. No, he’d be rare anywhere.”*
 
 *“He’s a great blessing to our family. Though it troubles me how gloomy he’s become for a child his age since his mother died in childbirth…”*
 
@@ -310,7 +310,7 @@ So did the young man, who had been watching it all from a spot neither near nor 
 
 “F-Family Head!”
 
-Hearing someone blurt out the cry in a rush, the young man—who had just turned his head—furrowed his brow.
+Hearing someone blurt out the cry, the young man turned his head and frowned.
 
 Perhaps it was the sunset glow spreading from the west. He couldn’t make out the face of the man slowly approaching.
 
@@ -324,7 +324,7 @@ Nothing more to add, nothing to take away.
 
 Yet even without seeing his face, the young man could sense something distinctive about him as he scratched the back of his head.
 
-The others facing the man, of course, couldn’t hide their confusion.
+The others facing the man couldn’t hide their dismay.
 
 *“N-No, of course not.”*
 
@@ -342,7 +342,7 @@ He looked over the people silently watching him, then spoke again.
 
 The man puffed out his chest, plainly proud. But the young man saw the smile at his lips falter and turn bitter.
 
-Nor were the people who’d been restless ever since the man appeared any different.
+The people who had been on edge since the man appeared saw it, too.
 
 *“We’re sorry, Family Head.”*
 
@@ -352,7 +352,7 @@ Their voices and expressions were heavy.
 
 As they lowered their heads, the young man clicked his tongue softly without realizing it.
 
-He didn’t know who he was or where he was, but he could infer what was happening from what he’d heard and seen.
+He didn’t know who he was or where he was, but he had seen and heard enough to understand what had happened.
 
 Speaking of Heaven’s fate in front of a Family Head who had recently lost his wife…
 
@@ -374,15 +374,15 @@ But the man called Family Head answered in a way the young man hadn’t expected
 
 *“F-Family Head, that’s not…”*
 
-*“Enough. You people, honestly. I may be the Family Head, but you can’t just gossip about me behind my back.”*
+*“Enough. Honestly, you people. I’m still the Family Head, you know. Talking about me behind my back like this.”*
 
 The man folded his arms. The others, now on tenterhooks, glanced at one another.
 
-Should they tell the truth, or let it go?
+Should they tell him the truth or let him believe it?
 
 As they agonized, their mouths going dry, the man let out a deep sigh.
 
-*“Whew. You’ve confessed this much, so there’s no choice. As Family Head, I can’t just pretend I didn’t hear it. I’ll punish you now.”*
+*“Whew. Since you’ve confessed this much, I suppose I have no choice. As Family Head, I can hardly pretend I didn’t hear it. I’ll give you your punishment.”*
 
 Around him, people let out breaths they’d been holding.
 
@@ -398,11 +398,11 @@ That was all.
 
 The man waved away the retainers who tried to say something, dismissing them. Then he looked toward the child, who kept swinging his sword, unaware anyone had arrived.
 
-Only after every pair of eyes around them had turned away did he murmur softly.
+Only after everyone else had gone did the man murmur softly.
 
 *“Fate. Fate…”*
 
-His eyes lifted suddenly to the sky, empty. His next words were filled with nothing but bitterness.
+He lifted his eyes to the sky. His gaze was empty, and bitterness filled his next words.
 
 *“No. It’s all my fault.”*
 
