@@ -12,7 +12,7 @@ I swallowed the thought as soon as it came.
 
 The great battle looming ahead was unavoidable. The only questions were when and where. Countless people would die, and blood would spill across the land.
 
-If not Gansu, then Qinghai. If not Qinghai, then Tibet and Sichuan.
+If not Gansu, then Qinghai. If not Qinghai, then Tibet or Sichuan.
 
 *Or it could break out on several fronts at once.*
 
@@ -24,7 +24,7 @@ An army that size wouldn’t have to concentrate on a single target.
 
 With the Great Nation joining us, our own forces were formidable. But there was no denying that the enemy had more options than we did.
 
-And if even part of my vague suspicion was right, Dark Heaven wasn’t just a group held together by dark arts and fanaticism.
+And if my vague suspicion was right, Dark Heaven was more than a group held together by dark arts and fanaticism.
 
 *It can’t be helped. The Murim Alliance leadership knows what Dark Heaven is capable of. I’ll have to trust them.*
 
@@ -144,7 +144,7 @@ Wolhwa, proprietor of Honghwaru in Shanxi Province—and the first martial artis
 
 “Give Wolhwa my regards. The Branch Leader, I mean. Tell her I appreciate her looking out for us.”
 
-“The Branch Leader is looking forward to seeing you again, too. She originally planned to come in person while you were passing through Shaanxi, but circumstances…”
+“She’s looking forward to seeing you again, too. She’d planned to come in person while you were passing through Shaanxi, but circumstances…”
 
 He trailed off, reached into his robe, and held something out.
 
@@ -206,7 +206,7 @@ But the Lower District Sect member smiled.
 
 “What do you mean?”
 
-“Though it’s a frontier region, it’s still part of the world. Our sect and several other intelligence groups have been keeping an eye on Ningxia Province for a long time. We watched even more closely after the trouble there ended at the hands of that unidentified master.”
+“Ningxia may be a frontier region, but it’s still part of the world. Our sect and several other intelligence groups have watched it for years. Once that unidentified master put an end to the trouble there, we watched even more closely.”
 
 “Ah.”
 
@@ -214,7 +214,7 @@ I’d overlooked something. Information was money, and that wasn’t true only i
 
 And despite being spoken of in the same breath as the Beggars’ Sect, the Lower District Sect was far less of a martial sect. They were information merchants through and through.
 
-There was no way they’d ignored the major incident in Ningxia Province.
+Of course they hadn’t ignored something as significant as what had happened in Ningxia.
 
 Sure enough, his next words were matter-of-fact enough to make my worries seem misplaced.
 
@@ -228,13 +228,13 @@ Horse caravans.
 
 They roamed the land with their horses and the stars for company. Merchants and guides alike, they were fixtures of the regions they traveled.
 
-“So the disbanded mounted bandits became horse caravans.”
+“So the former bandits became horse caravans.”
 
 He nodded.
 
 “They couldn’t remain mounted bandits. Some became horse caravans; others formed merchant companies or Escort Bureaus. They changed with the times.”
 
-“Then what about the Supreme Peak master who pacified the mounted bandits?”
+“And the Supreme Peak master who pacified them?”
 
 “That’s the one question we haven’t answered. We’re told he’s remained in Ningxia Province ever since, but no one knows who he is. All we know is that he isn’t a fiend. Even our best informants have thrown up their hands.”
 
