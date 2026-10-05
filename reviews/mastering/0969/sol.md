@@ -6,7 +6,7 @@ They were throwing all their strength into driving back the enemies who filled t
 
 No—even if they’d been nearby, they wouldn’t have seen a thing.
 
-The strike was so natural and swift that it could deceive the Qi Sense of a Supreme Peak master ranked among the top three of the Ten Kings.
+The strike was so natural and swift that it had deceived the Qi Sense of a Supreme Peak master ranked among the top three of the Ten Kings.
 
 *Shhk!*
 
@@ -122,7 +122,7 @@ For the briefest moment, at least, that was how it looked.
 
 A flash of light—and it was over.
 
-Murong Baek’s figure blurred as he cut apart the palm force flying with the wind. The instant the Thunderbolt Saber King thought he saw him disappear, a red warning light flashed in his mind.
+Murong Baek cut through the palm strike with a single sweep of his sword. The instant his figure seemed to blur, a red warning light flashed in the Thunderbolt Saber King’s mind.
 
 *Shifting Form and Position!*
 
@@ -240,13 +240,13 @@ The Temporary Strength Pill was a double-edged sword.
 
 The early versions that had found their way into the hands of Pung Yang, the Red Wind Band Leader, and others were dangerous enough. Even the newly improved pill was highly addictive and carried severe side effects.
 
-The ordinary foot soldiers might take it, but Jamukha could not. He was the commander-in-chief of a great army, with much yet to do.
+An ordinary foot soldier might be expendable, but Jamukha was the commander-in-chief of a great army, with much still to do. He could not take it.
 
 Not from Murong Baek’s point of view, when he had placed Jamukha at the forefront.
 
 “How are you?”
 
-“Not as bad as you might think. Once I finish regulating my qi, my Internal Injury should heal soon.”
+“Not as bad as you might think. Once I finish circulating my qi, my internal injuries should heal soon.”
 
 Despite his words, nearly half of one shoulder had been cut away. His future as a saber fighter was in danger, yet there was not a trace of gloom on his face.
 
@@ -254,11 +254,11 @@ Jamukha knew how mysterious and powerful his savior’s Dark Heaven was—the Da
 
 With no worry at all showing on his face, he went on.
 
-“Though that bastard will be wandering the Nine Springs now, unlike me.”
+“Though that bastard will be wandering the Nine Springs now. He’s not so fortunate.”
 
 That was when Murong Baek’s gaze, fixed in one direction all this time, shifted to Jamukha.
 
-“You still have a long way to go.”
+“Not yet.”
 
 “What do you…?”
 
