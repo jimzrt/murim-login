@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "At the low words that slipped between his lips",
+      "defect": "The Korean describes a single quiet utterance (한 마디), while “words” makes it plural.",
+      "id": "F01",
+      "rationale": "The source explicitly frames “Come out” as one low utterance; the replacement preserves that singular beat.",
+      "replacement": "At the quiet utterance that slipped between his lips",
+      "severity": "minor",
+      "source": "Korean source line 209"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall, with one minor quantity/detail mismatch.",
+  "version": 1
+}

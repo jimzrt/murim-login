@@ -10,7 +10,7 @@ As their heat closed in on him in a single step, fierce enough to set his whole 
 
 He had made the right choice.
 
-To make this plan—which had gone wildly off course from what he’d expected—succeed, he had to use everything he’d been given as quickly as possible.
+If he was to salvage this plan, which had veered so far from what he’d expected, he had to use everything he’d been given—and quickly.
 
 *Fwoosh!*
 
@@ -26,7 +26,7 @@ A tremendous roar, audible only to him, reverberated from deep within his body.
 
 At the same time, the qi throughout his body surged.
 
-Lava-hot energy raced through hundreds of acupoints, swelling and surging as if it might burst at any moment.
+Lava-hot energy raced through hundreds of acupoints, swelling as if it might burst at any moment.
 
 A colossal wave of power from a strange artifact he had never once used was tearing down part of the high, sturdy wall that had stood in his way.
 
@@ -41,8 +41,6 @@ The wind. The air. The qi within it.
 And the two streams of flame rushing toward him, smashing everything in their path to pieces.
 
 *So this is what it feels like. This is what it is.*
-
-The North Heaven Demon Lord thought.
 
 He felt he could almost understand the world the Heavenly Demon had seen as he ruled over the Hundred Thousand Demonic Disciples with martial prowess that reached the heavens and sought to conquer the world. The world the Martial God had seen when he defeated him and brought peace to it.
 
@@ -76,7 +74,7 @@ Dark crimson Force swept toward them like a wave.
 
 *KABOOOOOM!*
 
-The entire gorge shook. The shock wave swelled and exploded, sweeping everything within a radius of more than ten *zhang*.
+The entire gorge shook. The shock wave swelled and exploded, sweeping across a radius of more than ten *zhang*.
 
 No—*seized* and *swallowed* would have been better words for it.
 
@@ -84,7 +82,7 @@ The blinding flash and thunderous roar robbed everyone in the gorge of sight and
 
 *Rrrrrumble!*
 
-Part of the cliff collapsed, unable to withstand the aftershock.
+Part of the cliff collapsed, unable to withstand the force.
 
 The pools of blood and countless corpses scattered all around had vanished into dust. Amid what remained, the North Heaven Demon Lord drew a slow breath.
 
@@ -94,7 +92,7 @@ Then he turned his head toward somewhere beyond the choking silence and clouds o
 
 No—he sensed them.
 
-The presences that had survived this horrific disaster, not yet entirely extinguished.
+The presences that had survived the disaster, not yet entirely extinguished.
 
 “You managed to survive. As you should have.”
 
@@ -112,7 +110,7 @@ As someone did now.
 
 *Whoom! KABOOM!*
 
-In the blink of an eye, a mass of concentrated energy struck the spearhead the North Heaven Demon Lord had swung, bouncing off from an unseen blind spot.
+In an instant, a mass of concentrated energy came silently from an unseen angle, struck the spearhead he swung to meet it, and bounced away.
 
 The North Heaven Demon Lord looked up at the figure standing atop a fractured, crumbling cliff more than thirty *zhang* high. A faint smile touched his lips.
 
@@ -124,19 +122,19 @@ He had set foot, if only by one step, into the realm of those called the Invinci
 
 *KRAKAKAKANG!*
 
-A mass of light packed with such tremendous power it could hardly be called an arrow.
+Masses of light held power far too great for them to be called arrows.
 
 The North Heaven Demon Lord deflected a barrage of them, each powerful enough to kill even a skilled Peak master with one strike. His smile deepened.
 
-“You should’ve come a little slower. If you’d taken your time and saved some strength, a lot might have turned out differently.”
+“You should’ve come a little slower. If you’d taken your time and saved some strength, much might have turned out differently.”
 
 The distance from Zhejiang Province, where the Imperial Capital stood, to Shanxi Province was well over a few thousand *li*.
 
-And for those three to have crossed that distance and appeared here without catching the North Heaven Demon Lord’s attention meant they’d moved faster than a messenger eagle or a courier.
+For those three to have crossed that distance and appeared here without attracting his notice, they must have moved faster than a courier or a messenger eagle.
 
 They had rushed here without sparing even a moment, let alone taking proper rest before a battle.
 
-That guess was enough to convince the North Heaven Demon Lord that victory was certain.
+That deduction was enough to convince the North Heaven Demon Lord of his victory.
 
 “Unfortunately, it’s too late to turn back now.”
 
@@ -160,11 +158,11 @@ A deep rumble spread from the tip of his foot as he stepped forward lightly.
 
 The colossal power had frozen everyone in the gorge.
 
-An unprecedented energy no one had ever imagined a human could possess expanded his dantian and raced through hundreds of acupoints.
+Energy beyond anything he had imagined a human could possess expanded his dantian and raced through hundreds of acupoints.
 
 The North Heaven Demon Lord laughed aloud.
 
-*It feels like I could do anything right now.*
+*I could do anything right now.*
 
 No—he *could*.
 
@@ -180,7 +178,7 @@ The North Heaven Demon Lord’s smile vanished. Two voices were conversing throu
 
 —He was ugly to begin with, but now he’s scowling. His face looks like shit.
 
-—Why would you say it like that? My little guy is handsome and looks plenty clever.
+—Why would you say that? My little guy is clever and handsome.
 
 —All right, I get it. Take your damn hand off your waistband right now, before I turn you into a eunuch with one palm strike.
 
@@ -188,33 +186,33 @@ The North Heaven Demon Lord’s gaze darkened. Confusion and shock unmistakable 
 
 —Uh, he’s looking this way.
 
-—Must’ve just gotten lucky. This old man knows at a glance.
+—Lucky guess. This old man knows these things at a glance.
 
 —We need to jump him all at once. What if he’s spotted us? Try moving to the side.
 
-—I was about to. Stop pushing me. How dare you touch this old man’s body?
+—I was about to. Stop pushing me. How dare you lay a hand on this old man?
 
-—That’s not a hand.
+—That’s not my hand.
 
 —Huh?
 
-At that moment, the North Heaven Demon Lord’s mouth twitched.
+The North Heaven Demon Lord’s mouth twitched.
 
 “Come out.”
 
-At the low words that slipped between his lips, a breathless silence descended.
+At those low words, a breathless silence seemed to descend.
 
 *Seemed* to.
 
 —He says come out. And he’s looking right at us.
 
-—Didn’t I tell you? He definitely guessed.
+—Didn’t I tell you? He’s guessing.
 
 —I don’t think so. Wait, can he hear our Sound Transmission?
 
 —Just because he took some pill? There’s no way that bastard can do that. I’ll stake that Hyuk bastard’s balls on it.
 
-*Tap.*
+*Snap.*
 
 The last thread of the North Heaven Demon Lord’s patience broke. A cold voice slipped through his clenched teeth.
 
@@ -228,7 +226,7 @@ The dust cloud split as if cut by a sword. Jeok Cheongang emerged in tattered cl
 
 Behind the Master, who had said something so embarrassing with an unnecessarily solemn expression, his Disciple—several heads taller—spoke with an uneasy look.
 
-“Why stake the balls of someone who isn’t even here? You won’t need them anyway. You might as well stake your own.”
+“Why stake the balls of someone who isn’t even here? You won’t need yours anyway. You might as well stake those.”
 
 “Isn’t that true of you, too?”
 
@@ -240,11 +238,11 @@ A thunderous crash swallowed the rest of his words.
 
 A moment later came a cough.
 
-“Cough. Jeez, look at all this fine dust. Wouldn’t want anyone thinking you’re not a Chinese bastard.”
+“Cough. Jeez, look at all this fine dust. Trust a Chinese bastard to bring the smog.”
 
 “Ahem. Stop making a fuss. You’ll bring shame on the Fire Gate Clan.”
 
-“My God, is there even more shame left to bring?”
+“Seriously, is there any shame left to bring?”
 
 At the sight of Jin Taekyung and Jeok Cheongang standing there unharmed, the North Heaven Demon Lord’s gaze darkened.
 
@@ -252,7 +250,7 @@ At the sight of Jin Taekyung and Jeok Cheongang standing there unharmed, the Nor
 
 He hadn’t attacked at full power, but they had evaded a strike backed by more than seventy percent of his strength. They clearly still had plenty in reserve.
 
-The North Heaven Demon Lord had no choice but to admit that, at some point, he’d come to trust too much in the power he’d been given.
+The North Heaven Demon Lord had no choice but to admit that he had come to trust too much in the power he’d been given.
 
 And that he had underestimated the enemies before him.
 
@@ -268,11 +266,11 @@ At his quiet call, the hunting dog he had commanded for decades answered.
 
 “I will not tolerate any more interference. Before things go wrong, use every force we have and wipe them out at once.”
 
-Jamukha understood exactly what the North Heaven Demon Lord meant by using every last bit of their strength.
+Jamukha understood exactly what the North Heaven Demon Lord meant.
 
 Today, the Thunderbolt Saber King and the Hebei Peng Family had been invited guests on this battlefield. The three Supreme Peak masters who had appeared unexpectedly, however, were uninvited.
 
-The die had been cast. They had to secure victory before the whole game was overturned.
+The die had been cast. They had to secure victory before the whole board was overturned.
 
 As the North Heaven Demon Lord had just done, they would use every means at their disposal.
 
@@ -288,7 +286,7 @@ The Bow Saint swiftly fired arrows of light that swept away most of it, but even
 
 *Poom! Poom! Poom!*
 
-Fireworks blossomed across the blackened sky.
+Fireworks burst across the black sky.
 
 Obeying his master’s command, Jamukha had let the countless hunting dogs under him off their leashes. Now he tipped into his mouth the Temporary Strength Pill the North Heaven Demon Lord had stopped him from taking earlier.
 
