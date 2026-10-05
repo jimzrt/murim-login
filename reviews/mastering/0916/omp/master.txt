@@ -32,7 +32,7 @@ His mind struggled to grasp a sight that should never have happened. Pain and em
 
 He was falling. Tilting.
 
-In the slowed world, a familiar figure was slowly flung away, his back to Jeok Cheongang as scarlet blood sprayed from him. The sight burned itself into Jeok Cheongang’s wide-open eyes like a brand.
+In the slowed world, a familiar back drifted away, spraying scarlet blood. The sight branded itself into Jeok Cheongang’s wide-open eyes like a mark of fire.
 
 “……!”
 
@@ -46,7 +46,7 @@ And that he was not the only one who felt this way.
 
 *Thump.*
 
-His hand reached out through time as it flowed slowly, supporting that familiar back.
+His hand moved through the slowly flowing time and caught that familiar back.
 
 It was firm and warm.
 
@@ -116,7 +116,7 @@ Toward him and everyone else.
 
 “Ru—”
 
-And in that instant—
+And then—
 
 *KABOOOOOM!*
 
@@ -134,7 +134,7 @@ Even bodies that had once transcended death.
 
 *KABOOOOOM!*
 
-The Eastern Heaven Demon Lord saw it clearly. He heard it without a doubt.
+The Eastern Heaven Demon Lord saw it clearly. He heard it, too.
 
 Golden Ox Palace, reborn as one of his followers—a Supreme Peak master formidable enough in life to be counted among the Twelve Palaces of the Zodiac—was engulfed in white flames.
 
@@ -160,7 +160,7 @@ The Fire King Jeok Cheongang.
 
 The fire dragon roared loudly enough to shake the entire Imperial Capital. Hearing it, the Eastern Heaven Demon Lord prepared to die and drew up every last scrap of strength he had.
 
-He blamed the subordinate who had been so damned faithful to his orders that he couldn’t stop, and blamed himself for bringing about the touch upon the reverse scale of the dragon called the Fire King.
+He cursed the subordinate who had been so damned faithful to his orders that he had not stopped. And he cursed himself for having touched the reverse scale of the dragon known as the Fire King.
 
 But…
 
@@ -176,7 +176,7 @@ The deathly energy of the dead closed around the Eastern Heaven Demon Lord’s b
 
 * * *
 
-I don’t know.
+I didn’t know.
 
 How much time had passed. How much time I had left if I was going to die here.
 
@@ -206,7 +206,7 @@ I let out a small sigh.
 
 It was sad that I could even say this, but it wasn’t the first time.
 
-One strange, almost galling thing was that I’d never been this badly injured back when I was an F-rank Hunter.
+The strange, unfair part was that I’d never been hurt this badly back when I was an F-rank Hunter.
 
 *Of course, getting stronger is the only reason I’m still alive.*
 
@@ -224,9 +224,9 @@ Proof that the sword strike I’d taken earlier had reached more than my flesh a
 
 *That was insane.*
 
-Yeah. It had definitely been insane.
+Yeah. It had been insane.
 
-Something I wouldn’t have done if I’d been thinking straight. No—even a reasonably crazy bastard wouldn’t have dared try it.
+I’d never have done it if I’d been thinking straight. Hell, most madmen wouldn’t have dared try.
 
 But I did.
 
@@ -268,17 +268,17 @@ Death.
 
 I could see it.
 
-The thing that had already taken a father from my family—the unwelcome visitor I’d narrowly avoided through every danger I’d faced—had finally come for me.
+The thing that had taken my father from our family. The uninvited guest I’d narrowly escaped through every danger I’d faced had finally come for me.
 
-Even now, through my fading vision, a black shape seemed to waver amid the falling ash and dust.
+Through my fading vision, a dark shape seemed to waver amid the falling ash and dust.
 
 *Don’t come.*
 
-I tried to squeeze out a voice with all my strength, but all that came from between my lips was a little blood and a ragged breath.
+I tried to force the words out with all my strength, but only a little blood and a ragged breath escaped my lips.
 
 I didn’t give up.
 
-Clinging to a consciousness that seemed ready to go out at any moment, I swallowed the blood pooling in my mouth and forced myself to stay alert.
+I clung to my failing consciousness, swallowed the blood pooling in my mouth, and forced myself to stay awake.
 
 I was afraid. Of death.
 
@@ -286,15 +286,15 @@ Afraid of leaving everyone like this.
 
 There was still so much I had to do. So many things I wanted to do with the people I loved and who loved me.
 
-But, but why?
+But then why?
 
-Why was that shadow coming closer to me?
+Why was that shadow coming closer?
 
 Why wouldn’t it stop walking, even now?
 
-I wasn’t ready yet. I didn’t want to die like this.
+I wasn’t ready. I didn’t want to die like this.
 
-*Just a little longer. Even for the briefest moment.*
+*Just a little longer. Even a moment.*
 
 Gasping for breath, I begged it to wait.
 
@@ -308,7 +308,7 @@ To the System.
 
 “Please…”
 
-And in the moment those words escaped me, wrung from the last of my strength—
+I wrung the word from the very last of my strength.
 
 *Ding.*
 

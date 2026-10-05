@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "A chilling sound of something being pierced reached his ears.",
+      "defect": "The Korean describes a chilling bursting or rupturing sound, not a sound caused by something being pierced. This changes the physical event.",
+      "id": "F01",
+      "rationale": "파열음 means a bursting or rupturing sound. The accepted baseline also describes something bursting, while the assembled version introduces a piercing action that the source does not establish.",
+      "replacement": "A chilling burst of sound reached his ears.",
+      "severity": "minor",
+      "source": "Korean source, line 13"
+    }
+  ],
+  "summary": "One source-fidelity defect: the sound is changed from a burst or rupture to something being pierced.",
+  "version": 1
+}
