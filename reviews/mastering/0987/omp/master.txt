@@ -6,11 +6,9 @@ The qi-sea acupoint.
 
 The energy I first encountered inside my body, in the place also known as the lower dantian, was pitiful.
 
-Its name meant “sea of qi,” which felt almost laughable. In that cramped vessel, more like a little stream than a sea, only a handful of murky energy rippled.
+Its name meant “sea of qi,” which felt almost laughable. In that cramped vessel, more like a little stream than a sea, only a handful of murky energy stirred.
 
-That was right.
-
-It had definitely been that way.
+That was how it had been.
 
 But…
 
@@ -24,7 +22,7 @@ Now it was different.
 >
 > **Transmitting Internal Energy Across the Body** carries extreme risks. If anything goes wrong while internal energy is being transferred and absorbed, it may lead to qi deviation or death.
 
-As the System’s notification gradually faded into the distance, my consciousness sank deep into my body.
+As the System notification faded from my ears, my consciousness sank deep into my body.
 
 When my eyes opened within that world, an endless ocean stretched before me.
 
@@ -32,7 +30,7 @@ When my eyes opened within that world, an endless ocean stretched before me.
 
 It stretched beyond sight. And it was hot.
 
-Instead of clear blue waves, waves of fire surged without end.
+Instead of clear blue water, waves of fire surged without end.
 
 An ocean of flame, vast beyond measure.
 
@@ -42,7 +40,7 @@ At its center, a gigantic fire dragon lay coiled atop a reef as black as pitch.
 
 I knew instinctively the moment I saw it.
 
-In this place, filled with nothing but flames and heat, the reef where the fire dragon had made its home stood out as something especially alien.
+In a place filled with nothing but flame and heat, the reef beneath the fire dragon stood out as something alien.
 
 *The energy I received from the Heavenly Power Demon.*
 
@@ -56,7 +54,7 @@ Decades of imprisonment and torture had worn him down, leaving him with far less
 
 The Heavenly Power Demon’s energy had remained inside me ever since.
 
-That energy served as the nest of the fire dragon, the very embodiment of Scorching Yang Qi born of the Fire Gate Clan’s martial arts.
+It had become the nest of the fire dragon—the very embodiment of the Scorching Yang Qi born of the Fire Gate Clan’s martial arts.
 
 The two had coexisted well enough. They had even sustained each other. But now I instinctively understood something.
 
@@ -74,19 +72,19 @@ Its massive body trembled. At last, its eyelids lifted, revealing blue-white eye
 
 The vertically slit eyes of a vicious beast.
 
-But the emotion within them wasn’t anger at being woken. It was obedience to its master.
+But there was no anger in them at being woken. Only obedience to their master.
 
 Of course.
 
-The fire dragon and the reef were both, in the end, part of this ocean.
+Both the fire dragon and the reef were part of this ocean.
 
-And the master of this vast world deep inside my body was none other than me.
+And the master of this vast world deep inside my body was me.
 
-So, the instant our eyes met, that tremendous concentration of Scorching Yang Qi joined with my consciousness.
+The instant our eyes met, that tremendous concentration of Scorching Yang Qi joined with my consciousness.
 
 *Whoosh!*
 
-Warmth and consciousness mingled.
+Warmth mingled with my mind.
 
 My vision turned blue-white. One with the fire dragon, I flung out both arms without hesitation.
 
@@ -104,11 +102,11 @@ Appalling heat surged from deep inside my body and raced up to my throat. If it 
 
 *Now.*
 
-There was no hesitation. With the breath I finally released, pale blue flames burst forth and wrapped around the reef.
+I didn’t hesitate. With the breath I released, blue-white flames burst forth and wrapped around the reef.
 
 Before that hellfire, powerful enough to destroy the world, the pitch-black reef began to lose its shape and melt.
 
-Then it was swept up by the waves of fire surging all around, rising high into the air. Having just breathed out a torrent of hellfire, I opened my mouth toward it.
+The waves of fire surging all around swept it up into the air. Having breathed out that torrent of hellfire, I opened my mouth toward it.
 
 *Whooosh.*
 
@@ -122,7 +120,7 @@ Sharp pain assailed my mind before I could take any satisfaction in having quenc
 
 But I clenched my teeth.
 
-I steadied my wavering mind and used all my strength to swallow back the energy surging up my throat.
+I steadied my wavering mind and used all my strength to swallow back what was rising up my throat.
 
 So it could never regain its original form.
 
@@ -140,7 +138,7 @@ The reef—or rather, the Heavenly Power Demon’s energy—hadn’t vanished.
 
 I had absorbed it. In another sense, we had found a new way to coexist.
 
-Unlike before, when it had been imperfect, now it had melted together into one. A perfect coexistence.
+Before, that coexistence had been imperfect. Now the two energies had dissolved fully into one.
 
 And with that astonishing change, something else began.
 
@@ -152,17 +150,15 @@ A massive bolt of lightning split open the closed sky and pierced the ocean of f
 
 *Ah.*
 
-Before I could fully feel the change in my power, a genuine exclamation escaped me.
+Before I could fully feel the change in my power, an exclamation escaped me.
 
 Yes.
 
 It was a thunderbolt in the truest sense of the word.
 
-The end of a long and fierce life.
-
 At the end of a long, fierce life, it was the symbol of a giant standing at death’s door—and the final legacy he meant to leave in this world through me.
 
-As that massive bolt of lightning finally entered deep into my body through the Great Palace Acupoint, I moved toward it as if entranced.
+As that massive bolt finally entered deep into my body through the Great Palace acupoint, I moved toward it as if entranced.
 
 I followed it upward and upward, along the current joining sea to sky.
 
@@ -170,11 +166,11 @@ I followed it upward and upward, along the current joining sea to sky.
 
 I couldn’t hear it. And yet I seemed to hear it.
 
-The sound of the fierce wind.
+The fierce wind.
 
-Everything I felt through the fire dragon’s massive body, which had long since come to feel like my own.
+Everything I felt through the fire dragon’s massive body, which already felt as though it had always been mine.
 
-My consciousness raced into the depths, perceiving everything as reality. I had risen so high that the ocean was no longer visible, and at last I saw it.
+Deep within my body, my consciousness perceived it all as real. I rose until the ocean vanished from sight, and at last I saw it.
 
 A gigantic mountain rising as though it would pierce the sky.
 
@@ -182,27 +178,27 @@ I already knew what it was.
 
 *The Middle Dantian.*
 
-The mountain known as the Jade Hall Acupoint glittered like a jewel, just as its name suggested.
+The mountain known as the Jade Hall acupoint glittered like a jewel, just as its name suggested.
 
 All but one part of it: the highest peak.
 
-*Why? How come?*
+*Why?*
 
 The question had barely surfaced before I found the answer.
 
-*It means I’m still not ready.*
+*I’m still not ready.*
 
 It had been quite some time since I opened my Middle Dantian, but even my incredible pace of growth had its limits.
 
 That peak belonged to the realm of enlightenment.
 
-A realm only those with heaven-given talent, blood-soaked effort, and long years behind them could enter.
+A realm for those with heaven-given talent, years of grueling effort, and long lives spent pursuing it.
 
 Even after growing stronger at a dazzling pace, I couldn’t easily reach that height.
 
 But…
 
-*If not now, when will I ever get another chance to try?*
+*If not now, when will I ever get another chance?*
 
 I’d had countless strokes of good fortune, but heavenly fortune never came easily.
 
@@ -212,7 +208,7 @@ And an opportunity created by someone prepared to die was one I would never see 
 
 Maybe my hesitation had vanished the moment all this began. Maybe the System’s warning had lost its meaning then, too.
 
-I’d already swallowed the Heavenly Power Demon’s energy. I already knew what I had to do.
+I had swallowed the Heavenly Power Demon’s energy. I knew what I had to do.
 
 *Crackle. Crackle-crackle!*
 
@@ -234,7 +230,7 @@ As my consciousness grew hazy, all I heard was someone’s thunderous shout.
 
 —Hah!
 
-The instant Jeok Cheongang’s unmistakable shout rang out—
+The instant Jeok Cheongang’s unmistakable voice rang out—
 
 “…!”
 
@@ -260,23 +256,23 @@ Lightning flashed before my eyes. It held everything that giant had been, and no
 
 Luckily for me.
 
-*Fuck, it’s not like I’ve never shit blood before.*
+*Fuck, I’ve shit blood plenty of times.*
 
 At some point, I started laughing like a madman.
 
-I bit into the lightning, swallowed it, and kept going without pause, even as I nearly blacked out from the pain I’d known was coming.
+I bit into the lightning, swallowed it, and kept going without pause, even when the pain I knew was coming nearly made me black out.
 
-Until the distant flash that had filled my vision slowly dimmed.
+Until the blinding light filling my vision slowly dimmed.
 
 Until at last it vanished completely, as though it had never existed.
 
 *Rumble.*
 
-Suddenly, through my hazy consciousness, I realized:
+Through my hazy consciousness, I realized something.
 
 The massive bolt of lightning that had connected my Middle and Lower Dantians was gone.
 
-The thunder I could hear from somewhere was ringing out inside me.
+The thunder I heard was ringing inside me.
 
 *I did it…*
 
@@ -286,9 +282,9 @@ The moment I understood that Transmitting Internal Energy Across the Body had su
 
 Clear chimes began ringing without pause, somewhere far off in my consciousness.
 
-But the sound hadn’t come from the ocean of the Lower Dantian, now far in the distance, or from the peak of the Middle Dantian, finally glowing like a brilliant jewel.
+But they hadn’t come from the ocean of the Lower Dantian, now far below me, or from the peak of the Middle Dantian, finally shining like a brilliant jewel.
 
-I raised my head and saw it.
+I raised my head and saw them.
 
 Clouds beyond the mountain peak’s reach.
 
@@ -306,7 +302,7 @@ I wanted to grow stronger. I wanted to go farther.
 
 I wanted to break through those white clouds, soar above them, and look down on everything.
 
-But I had to force down that burning thirst and longing.
+But I forced down that burning thirst and longing.
 
 I was already at my limit.
 
@@ -326,7 +322,7 @@ No—I became one with it.
 
 I shuddered and groaned.
 
-I floundered in my fading consciousness.
+My mind drifted. I floundered in it.
 
 Enveloped in a dazzling radiance where three lights mingled, I forgot everything around me.
 
@@ -334,7 +330,7 @@ No-self.
 
 As I sank into that endless swamp of consciousness, I heard a voice like a hallucination.
 
-—Good judgment. Just like back then.
+—A good choice. Just like back then.
 
 The voice felt unfamiliar, yet somehow familiar, as though I’d heard it before.
 
