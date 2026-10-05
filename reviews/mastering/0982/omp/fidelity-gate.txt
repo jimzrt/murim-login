@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled translation is largely faithful. One minor omission weakens the narrator’s explicitly self-centered qualification.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 7",
+      "current": "As long as the people around me and I can be happy, I don’t much care what happens elsewhere.",
+      "defect": "The Korean’s 만 makes the condition exclusive: the narrator is content so long as he and the people around him are the ones who can be happy. The current wording only says that they can be happy, losing that emphasis.",
+      "replacement": "As long as the people around me and I are the only ones who can be happy, I don’t much care what happens elsewhere.",
+      "rationale": "The source explicitly limits the desired happiness to the narrator and those around him, reinforcing his stated selfishness.",
+      "confidence": 0.94
+    }
+  ]
+}

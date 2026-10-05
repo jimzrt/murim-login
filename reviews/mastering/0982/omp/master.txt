@@ -20,7 +20,7 @@ We were walking in silence when Hyuk Mujin spoke up. I cut him off.
 
 “Because I don’t want to hear it.”
 
-“It’s not because you’re embarrassed, is it?”
+“You’re not just embarrassed, are you?”
 
 He was right.
 
@@ -30,7 +30,7 @@ That was why I’d been trying so hard to ignore the way Hyuk Mujin kept staring
 
 “Just?”
 
-“I somehow felt concerned, so I stuck my nose in where it didn’t belong. That’s all.”
+“He was bothering me, so I stuck my nose in where it didn’t belong. That’s all.”
 
 The words I’d said to Jin Mukyung through the door were also the conclusion I’d reached after a long time thinking about it.
 
@@ -98,15 +98,15 @@ Of course, the people around him weren’t going to stand by and let him do that
 
 The first to step in was the Medicine King Hall Master.
 
-At a glance, he looked like a stubborn old man. But with a menacing gleam in his eyes that didn’t match his calm tone, he glanced back and forth between the long needle in his hand and Jin Wikyung, then said:
+At a glance, he looked like an ordinary stubborn old man. But his eyes were far more menacing than his calm voice as he looked from the long needle in his hand to Jin Wikyung and back.
 
-“You can keep ignoring my orders and working until you ruin your health and die. Or you can get treated now, take it easy, and live a long life. Or, if you’d rather not drag it out, you can die by my hand. Which will it be?”
+“You can keep ignoring me and working until you ruin your health and die. You can get treated now, take it easy, and live a long life. Or you can skip all that and die by my hand. Which will it be?”
 
 Only then did Jin Wikyung begin to get some proper rest. Everyone who’d witnessed the exchange fiercely debated what they’d seen behind his back.
 
 Had his face gone as pale as a corpse’s from exhaustion, or from the Medicine King Hall Master’s long needle?
 
-Hyuk Mujin put it plainly.
+Hyuk Mujin was certain.
 
 “The needle. No question. Didn’t you see that old man’s eyes? If he hadn’t studied medicine, he’d have a position in Dark Heaven by now.”
 
@@ -136,7 +136,7 @@ That meant the entire Murong Family had joined Dark Heaven. Two days later, a me
 
 Several people had forced Jin Wikyung to rest, but getting the paperwork out of his hands was nearly impossible.
 
-The instant the messenger eagle arrived at the Jin Family of Taiyuan, Jin Wikyung received the news. He immediately called me in and told me what had happened in Hebei.
+He heard the news as soon as the messenger eagle arrived and immediately called me in to tell me what had happened.
 
 “It seems the Murong Family targeted both Shanxi and Hebei from the start. They used their offer to support us as a pretext to cross Hebei, leaving some of their forces behind to ambush the Peng Family.”
 
@@ -144,13 +144,13 @@ The bloodshed on the Double Ninth Festival hadn’t been confined to Shanxi Prov
 
 The Hebei Peng Family had been caught completely off guard by the Murong Family’s betrayal. With the Thunderbolt Saber King and many of their strongest masters away, they’d suffered heavy losses and had barely managed to defend their family home, fighting to the death.
 
-“But even that would only have bought them time. If everything had been delayed by two days, something irreversible would have happened.”
+“But even that would only have bought them time. If everything had been delayed by two days, the damage would have been beyond repair.”
 
-But just as the family stood on the brink of ruin, Peng Cheolyeong, its Family Head, finally arrived.
+Then, with the family on the brink of ruin, its Family Head finally arrived.
 
 Peng Cheolyeong announced himself with a roar. Behind him came some five hundred family members who’d returned from Shanxi at his side, along with hundreds of martial artists from the Jinzhou Yan Family, who were effectively vassals of the Hebei Peng Family.
 
-If that had been all, the battle would have been a hard one for the Hebei Peng Family.
+If that had been all, they might still have faced a grueling fight.
 
 The surprise attack had already devastated the Hebei Peng Family, and the thousand troops Peng Cheolyeong had assembled in haste were exhausted.
 
@@ -162,21 +162,21 @@ It was another victory for us—and a terrible defeat for the Murong Family.
 
 The kind of defeat they could never recover from.
 
-And so the Murong Family was annihilated.
+The Murong Family was crushed.
 
-Several dozen enemies, including its Lesser Family Head, Murong Yeonghwi, barely escaped the battlefield and vanished. But who knew?
+Several dozen enemies, including its Lesser Family Head, Murong Yeonghwi, barely escaped the battlefield and vanished. But they wouldn’t get far.
 
 “Unless they have a Moving Formation hidden somewhere, they’ll be caught soon enough. We have eyes everywhere.”
 
 Jin Wikyung wasn’t boasting.
 
-Even if the dark clouds cast by Dark Heaven eventually covered everyone’s heads, for now, the orthodox Murim factions still ruled the land.
+Even if the dark clouds cast by Dark Heaven would one day cover everyone’s heads, the orthodox Murim factions still ruled the land.
 
 The Murong Family had made an enemy of the world.
 
 They couldn’t flee into the vast Central Plains without breaking through the Jin Family of Taiyuan and the Hebei Peng Family. To the east, the Great Nation’s warships guarded the open sea.
 
-And the Great Steppe—their roots and little more than the final destination for outlaws—was already practically under the Jin Family of Taiyuan’s control.
+And the Great Steppe—the Murong Family’s roots and all but a final refuge for outlaws—was already practically under the Jin Family of Taiyuan’s control.
 
 “Send your tribespeople after them. Hunt them to the ends of the earth if you have to.”
 
@@ -188,7 +188,7 @@ As Shanxi’s Alliance Leader, the victor of the great battle, and the master wh
 
 “I… will obey.”
 
-The young chieftain who had once dreamed of uniting the vast steppe as its Great Khan submitted helplessly.
+The young chieftain who had once dreamed of ruling the vast grasslands as Great Khan submitted without strength.
 
 Of course he did.
 
@@ -200,7 +200,7 @@ If the whole truth came out, Temur would die.
 
 Not at our hands or Dark Heaven’s. At the hands of his own tribespeople.
 
-That was the leash Jin Wikyung held tight. The hunting dog couldn’t even think of betraying him.
+That was the leash Jin Wikyung held. The hunting dog couldn’t even contemplate betraying him.
 
 From the moment Temur accepted Jin Wikyung’s offer and joined the attack on the Murong Family, every other choice had effectively disappeared.
 
@@ -224,7 +224,7 @@ I deliberately frowned at Jeong Hogun, Thousand Captain of the Embroidered Unifo
 
 “Because I fought well.”
 
-“Or did you just show up at the end and take all the credit?”
+“Or did you just show up at the end and add your spoon to the table?”
 
 “Is that what you say to a Benefactor who traveled thousands of li to help you?”
 
@@ -248,7 +248,7 @@ He was grateful to me, and I felt the same way about him.
 
 “Yeah. It might be a little difficult. No, very difficult.”
 
-“Someone might die.”
+“Someone might die, you mean.”
 
 I nodded quietly. Jeong Hogun answered without a moment’s hesitation.
 
@@ -268,7 +268,7 @@ I swallowed a groan at the unexpected refusal. Then he continued in a low voice.
 
 I finally understood what he meant and let out a short laugh.
 
-“Why go this far?”
+“Why does it have to be that way?”
 
 “Because that is the Great Nation’s military code.”
 
@@ -290,6 +290,6 @@ Liaoning Province.
 
 The Murong Family’s stronghold, and the last threat left to deal with.
 
-At my order, Jeong Hogun struck his armor.
+Jeong Hogun struck his armor.
 
 “I obey the Marquis of Shangshan’s command.”
