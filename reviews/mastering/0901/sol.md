@@ -4,7 +4,7 @@ Silence.
 
 Perfect silence settled over the Grand Banquet Hall. Not even the faintest breath could be heard.
 
-Along with it came countless eyes, wide with shock, all fixed on one person.
+Countless eyes stared at one man.
 
 *What… did he just say?*
 
@@ -16,7 +16,7 @@ Everyone wondered the same thing. As they stared at the young man, they recalled
 
 Everyone had heard him clearly.
 
-They doubted their memories once, twice, ten times, but reality refused to change. Forgetting all about decorum, people gaped at him, barely managing to swallow the curses on the tips of their tongues.
+They questioned their memories once, twice, ten times, but the words never changed. Forgetting all decorum, they gaped at him and barely managed to swallow the curses on their tongues.
 
 *That crazy bastard.*
 
@@ -32,13 +32,13 @@ The usurper who had cut down tens of thousands of political enemies like a farme
 
 *He’s insane. Completely insane.*
 
-The officials in the lowest seats, their ranks too low to sit anywhere else, and even the high-ranking ministers at the heart of the political world all turned deathly pale and pressed their lips together.
+From the low-ranking officials in the farthest seats to the high ministers at the heart of government, everyone went deathly pale and pressed their lips shut.
 
 Something had happened that could never be allowed to happen.
 
 Calling it treason would hardly be a stretch. What came next was obvious.
 
-They would die. Die, and die again.
+People would die. Again and again.
 
 Jin Taekyung and his entire family, along with everyone connected to them, would vanish like dew on the execution ground.
 
@@ -46,7 +46,7 @@ And there was every chance the Embroidered Uniform Guard’s death list would in
 
 The late Emperor’s loyal subjects.
 
-It wasn’t hard to predict that some of those who considered Prince Shangshan the rightful heir would become targets.
+Some of those who considered Prince Shangshan the rightful heir would almost certainly become targets.
 
 Evidence? Justification?
 
@@ -58,7 +58,7 @@ Once the torture instruments tore through their flesh and muscle, even the most 
 
 The imperial torturers knew how to turn lies into truth and truth into lies. That work had once belonged to the East Depot, but it had long since passed to the Embroidered Uniform Guard.
 
-In other words, the sword was in one man’s hands alone.
+In other words, the sword was in one man’s hands.
 
 The Emperor’s.
 
@@ -66,7 +66,7 @@ One order from him, and it would all be over.
 
 Jin Taekyung had already given him grounds for punishment. No one could say whom the Emperor’s blade might cut down.
 
-Even if the final target were Prince Shangshan.
+Not even if its final target were Prince Shangshan.
 
 *How could he do something this absurd? What on earth is he thinking…?*
 
@@ -74,9 +74,9 @@ Even if the final target were Prince Shangshan.
 
 Some of the assembled officials clenched their teeth to hold back groans.
 
-Each of them either supported Prince Shangshan in secret or had signed the pledge and dreamed of a restoration. To them, the whole situation felt like a terrible calamity.
+Each of them either supported Prince Shangshan in secret or had signed the pledge and dreamed of a restoration. To them, the scene unfolding before their eyes was a calamity.
 
-Jin Taekyung had entered the imperial court as Prince Shangshan’s guest. The prince wouldn’t be able to escape responsibility, either.
+Jin Taekyung had entered the imperial palace as Prince Shangshan’s guest. The prince wouldn’t escape responsibility.
 
 *Heh… So Heaven’s Mandate is leaving the Great Nation.*
 
@@ -106,17 +106,17 @@ Standing at the center of the silence, the Emperor continued evenly.
 
 Forgive.
 
-He’d said he forgave him.
+He had said *forgive*.
 
-The very man who had ruthlessly slaughtered tens of thousands.
+The man who had ruthlessly slaughtered tens of thousands.
 
 The cruel Emperor who had launched a rebellion and a great purge.
 
-Everyone who had been at a loss for words stared blankly at the back of the absolute ruler—everyone except one person.
+Once again at a loss for words, everyone stared blankly at his back.
 
 Everyone except one man.
 
-Reading the sliver of emotion the Emperor hadn’t quite managed to hide from his face, Jin Taekyung muttered to himself.
+Jin Taekyung stood facing the Emperor and caught a flicker of emotion he hadn’t quite managed to hide.
 
 *So that’s how you’re playing it.*
 
@@ -132,13 +132,13 @@ He had gained a crucial key. The Emperor’s answer had also settled a question 
 
 Except in one case.
 
-Jin Taekyung quietly swallowed the rest of his thought.
+Jin Taekyung swallowed the rest of the thought.
 
 The scattered pieces of the puzzle began to fall into place. His head, which had felt ready to burst moments ago, gradually cleared. As his mind settled, a new path came into view.
 
 But he still didn’t have every answer.
 
-*But why on earth…?*
+*Why, though?*
 
 He started to send the Emperor a Sound Transmission.
 
@@ -150,7 +150,7 @@ Or rather, he would have, if someone hadn’t arrived just then.
 
 Jin Taekyung reacted a little faster than the Emperor. Baek Yeon reacted faster than Taekyung.
 
-Somewhere only five *jang* away, an old man with pale skin appeared without a sound. In a hoarse, aged voice, he continued, cupping his hands toward the Emperor.
+Only five *jang* away, a pale old man had appeared without a sound. He bowed to the Emperor and continued in an aged voice.
 
 “The late Emperor would be pleased as well. Would he not?”
 
@@ -164,7 +164,7 @@ The Emperor’s stiff face was reflected in gray eyes that held the weight of ma
 
 * * *
 
-The moment I saw Wei Zhong, I reflexively thought of an old fantasy movie I’d watched as a kid.
+The moment I saw Wei Zhong, I thought of an old fantasy movie I’d watched as a kid.
 
 A vast fantasy world. A party of heroes from different races setting out to destroy a certain necklace that was the source of the Demon King’s power.
 
@@ -184,29 +184,29 @@ I shut my mouth as soon as I caught myself, but it was too late. Everyone who’
 
 And the very sick Gandalf. Wei Zhong.
 
-“You must be the very man I’ve heard so much about.”
+“You must be the man I’ve heard so much about.”
 
 What was I supposed to say to that?
 
-I thought it over for a moment, then gave a small nod instead. Wei Zhong let out a snort and turned back toward the Emperor.
+After a moment’s thought, I gave a small nod instead. Wei Zhong let out a wry chuckle and turned back to the Emperor.
 
 “A truly rude man. Wouldn’t you agree, Your Majesty?”
 
 The Emperor didn’t answer.
 
-He gazed at Wei Zhong with eyes sunk deep in thought, and only spoke once the air around them had grown so cold it seemed frozen.
+He watched Wei Zhong with a deep, unreadable gaze. By the time he spoke, the air around us had grown so cold it seemed ready to freeze.
 
 “I was about to send someone for you, since you were nowhere to be seen… It’s been a long time, Cang Gong. Have you been well?”
 
-“After a rather long period of recuperation, I’ve finally recovered enough to move about. I owe it all to Your Majesty’s grace.”
+“After a long period of recuperation, I’ve recovered enough to move about. I owe it all to Your Majesty’s grace.”
 
 “My grace? Are you certain?”
 
 “Even the finest physicians couldn’t guarantee I would live. Seeing how much I’ve recovered, surely it must be Heaven’s will. And so I owe it all to Your Majesty, the Son of Heaven.”
 
-“That’s unfortunate. If you’d had the decoction made as the imperial physician I sent advised, you might have overcome your illness sooner.”
+“That’s unfortunate. If you’d had the medicine prepared as the imperial physician I sent advised, you might have overcome your illness sooner.”
 
-“I beg your forgiveness. However, I feared my old body couldn’t withstand the medicine prepared by the imperial physicians, so I had no choice but to recuperate instead. But…”
+“Forgive me. I feared this old body could not withstand the medicine the imperial physician brought, so I had no choice but to recuperate instead. But…”
 
 Concern suddenly clouded Wei Zhong’s face as he studied the Emperor.
 
@@ -216,7 +216,7 @@ Concern suddenly clouded Wei Zhong’s face as he studied the Emperor.
 
 A chill passed through the Emperor’s eyes, already hard with displeasure.
 
-“There’s no need to worry. It isn’t as bad as you fear.”
+“There’s no need to worry. It is nothing that should concern you.”
 
 “Then I’m greatly relieved. Now that you’ve become a sage king who shows such mercy, you must rule the realm for ten thousand years—ten thousand times ten thousand years.”
 
@@ -234,7 +234,7 @@ His title overshadowed it, but the Emperor was a Supreme Peak master who had ent
 
 But…
 
-*Cang Gong is different. That man is something else.*
+*Cang Gong is different.*
 
 I’d known it from the moment he appeared.
 
@@ -244,7 +244,7 @@ That pale old man who looked like Gandalf was a greater master than anyone else 
 
 In a fight between Supreme Peak masters, life and death could be decided in an instant.
 
-The fact that Cang Gong had come within five *jang* of us without me sensing him meant he’d all but seized the initiative.
+Cang Gong had come within five *jang* without anyone sensing his presence. That was as good as seizing the initiative.
 
 *Now I see why Ma Sanbao was so confident.*
 
@@ -258,7 +258,7 @@ The prince was a crucial key. Neither the restoration army nor the Emperor could
 
 Apparently, I wasn’t the only one thinking about him.
 
-“Your Majesty. Perhaps the recent storms have made the weather unusually chilly today. Might Your Majesty show some mercy for the sake of those poor officials, who are trembling over there?”
+“Your Majesty. Perhaps the recent storms have made today unusually chilly. Might you show mercy to those poor officials?”
 
 Cang Gong indicated the shivering officials. His manner was respectful and relaxed, but there was a barb in his words. Then he spoke again, as though a thought had just occurred to him.
 
@@ -280,13 +280,13 @@ The Emperor raised a hand to stop him and fixed Wei Zhong with a cold stare.
 
 Neither man said anything more.
 
-Nor did either bother to ask the other which heir he truly had in mind, or whom the other considered the heir.
+Neither asked which heir the other had in mind.
 
 They would wait for the banquet to reach its height. For the fuse to burn all the way down.
 
 And so would I.
 
-“Excuse me. It looks like you two are about done talking. Could I say something, if you don’t mind?”
+“Excuse me. It sounds like you two are about done talking. Could I say something?”
 
 The Emperor answered.
 

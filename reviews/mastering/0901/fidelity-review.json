@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "He had gained a crucial key. The Emperor’s answer had also settled a question he’d hardly dared ask himself.",
+      "defect": "The translation omits the source’s explicit link between the gamble’s danger and the importance of the key Taekyung gained.",
+      "id": "F02",
+      "rationale": "위험했던 만큼 중요한 열쇠 indicates that the key’s importance matched the gamble’s danger; the assembled English calls it crucial but drops that comparison, which the accepted baseline preserved.",
+      "replacement": "The risk had been worth it: he’d gained a key as important as the gamble had been dangerous, and the Emperor’s answer had settled a question he’d hardly dared ask himself.",
+      "severity": "minor",
+      "source": "Korean line 141"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it adds a redundant sentence and drops an explicit comparison between the gamble’s risk and the importance of the key gained.",
+  "version": 1
+}
