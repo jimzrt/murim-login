@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled translation has three fidelity defects: it omits an established image and physical action, and changes the sense of a title.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 179–183",
+      "current": "They feared that the wind from a cautious outstretched hand might snuff out their only light.",
+      "defect": "The source also says they instinctively could not approach the Martial God and could only circle around him. That behavior, preserved in the accepted baseline, is omitted.",
+      "replacement": "They instinctively couldn’t approach him; they could only circle around him. They feared that the wind from a cautious outstretched hand might snuff out their only light.",
+      "rationale": "The source explicitly describes their keeping their distance and circling him before explaining their fears.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 237–239",
+      "current": "Not because she hadn’t gotten the answer she wanted, but because she felt the air around them slowly heating up.",
+      "defect": "The source says the Bow Saint furrowed her brow, but the assembled translation omits that physical action.",
+      "replacement": "The Bow Saint’s brow furrowed—not because she hadn’t gotten the answer she wanted, but because she felt the air around them slowly heating up.",
+      "rationale": "The source explicitly gives her furrowing her brow at that moment; the accepted baseline also preserves it.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 259",
+      "current": "but someone with the stature to call himself a grandmaster.",
+      "defect": "“Grandmaster” shifts the sense from a figure fit to claim the standing of a sect’s patriarch to a martial-arts rank or honorific.",
+      "replacement": "but someone with the stature to call himself a Sect Patriarch.",
+      "rationale": "일문의 종사 refers here to the head or patriarch of a school; the accepted baseline’s “Sect Patriarch” preserves that sense.",
+      "confidence": 0.91
+    }
+  ]
+}

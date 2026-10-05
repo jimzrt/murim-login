@@ -124,7 +124,7 @@ The kind of madness only Jeok Cheongang, the Fire King, could attempt.
 
 Jeok Cheongang laughed. He remembered preparing to charge straight at the Demonic Cult forces that had occupied Anhui after driving out even the Nangong Family.
 
-“I just couldn’t believe it. Three thousand Demonic Cult followers defeated by one man.”
+“I couldn’t believe it. Three thousand Demonic Cult followers, driven back by one man.”
 
 Those three thousand weren’t a rabble who’d barely risen above Third Rate. They were elites forged by the Demonic Cult’s brutal training, fanatics who had sworn absolute loyalty to the Heavenly Demon.
 
@@ -132,7 +132,7 @@ Among them were two great fiends who had reached the Supreme Peak realm.
 
 “Of course, eventually I had no choice but to believe it.”
 
-The story was too incredible to accept, so he’d caught several Demonic Cult followers as they fled and interrogated them. He confirmed that their two leading great fiends and nearly half their forces had vanished.
+The story had seemed too incredible, so he’d captured and questioned several fleeing Demonic Cult followers. Their two leaders and nearly half their forces had vanished.
 
 All because of someone no one could identify.
 
@@ -154,15 +154,15 @@ Yet everyone believed in him and followed him.
 
 That was the kind of person he was. The only lamp lighting a world sunk in darkness. The sun, alone in the sky.
 
-They feared that the wind from a cautious outstretched hand might snuff out their only light.
+And perhaps that was why they could never quite bring themselves to approach him. They could only circle at a distance, afraid that even the breeze stirred by a cautious outstretched hand might snuff out their one light.
 
 Afraid that one step closer to the sun would leave them burning in its heat.
 
-“So the Martial God’s identity remained a mystery to the very end. No—no one could even dare imagine it. Not even the Thousand-Faced Fox, who served him more closely than anyone.”
+“So the Martial God’s identity remained hidden to the very end. No—none of us would have dared imagine it. Not even the Thousand-Faced Fox, who served him more closely than anyone.”
 
 But now Jeok Cheongang knew the secret the world had never learned. At last, he understood why that man could be called the Martial God.
 
-“Was it divine strength? That incomprehensible power.”
+“Divine strength, was it? That power none of us understood.”
 
 At his near-whisper, the Bow Saint slowly rose.
 
@@ -186,7 +186,7 @@ The Bow Saint met his gaze.
 
 Where nothing was hidden, there could be no secret.
 
-The Bow Saint had seen the bond between Master and Disciple clearly. And as the unbelievable story unfolded, she sensed Jeok Cheongang’s qi remain steady while he silently watched, confirming what she had understood.
+The Bow Saint had seen the bond between them clearly. And as their unbelievable story unfolded, Jeok Cheongang had watched without a flicker of surprise. She’d sensed it in his unshaken aura and known she was right.
 
 “When did you realize your Disciple was different from everyone else?”
 
@@ -202,7 +202,7 @@ Jeok Cheongang cut her off. Her reflection appeared in his eyes, now dark and so
 
 “Nothing changes. From the day I took that brat as my Disciple, we’ve shared everything and faced it together.”
 
-Not because she hadn’t gotten the answer she wanted, but because she felt the air around them slowly heating up.
+The Bow Saint’s brow tightened—not because he hadn’t given her the answer she wanted, but because the air around them was growing warm.
 
 *Rumble.*
 
@@ -214,13 +214,13 @@ And at the center of it all stood Jeok Cheongang, the Fire King.
 
 He slowly turned his head away from the garden. His eyes glowed red, flickering in the darkness like ghost fires.
 
-“Did you put my Disciple in danger just to make that trivial confirmation?”
+“You put my Disciple in danger for a little test that meant nothing.”
 
 Jeok Cheongang had not forgotten the rage and despair that seized him when Jin Taekyung collapsed, spraying blood.
 
 His Disciple might have grown strong enough to stand shoulder to shoulder with the Elders of great sects—perhaps even their Sect Leaders.
 
-He might no longer be a rash young man like others his age, but someone with the stature to call himself a grandmaster.
+He might no longer be a rash young man like others his age, but someone with the stature to call himself the founder of a school.
 
 Jin Taekyung was still his one and only Disciple.
 
@@ -228,7 +228,7 @@ Jin Taekyung was still his one and only Disciple.
 
 White hellfire spiraled upward.
 
-Through the heat haze rising from its terrible warmth, the Bow Saint spoke calmly.
+Through the heat haze rising from its terrible heat, the Bow Saint spoke calmly.
 
 “Two thousand five hundred and sixty-two.”
 
@@ -236,7 +236,7 @@ Jeok Cheongang stopped in his tracks. He had been moving toward her, but he thou
 
 “That’s how many of our people died in the grand banquet hall three days ago.”
 
-“You know the number well. But……”
+“You know the number. But……”
 
 His voice came out cold, utterly unlike the power blazing around him.
 
@@ -268,7 +268,7 @@ The Bow Saint looked into Jeok Cheongang’s trembling eyes.
 
 “I made that decision for far more people than that. Perhaps for everyone in this world.”
 
-“That was also why that person—the Martial God—chose me.”
+“That is why that person—the Martial God—chose me.”
 
 Her soft murmur drifted through the cold night air.
 

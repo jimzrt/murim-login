@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "They feared that the wind from a cautious outstretched hand might snuff out their only light.",
+      "defect": "The source also says they instinctively could not approach the Martial God and could only circle around him. That behavior, preserved in the accepted baseline, is omitted.",
+      "id": "F01",
+      "rationale": "The source explicitly describes their keeping their distance and circling him before explaining their fears.",
+      "replacement": "They instinctively couldn’t approach him; they could only circle around him. They feared that the wind from a cautious outstretched hand might snuff out their only light.",
+      "severity": "minor",
+      "source": "Lines 179–183"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Not because she hadn’t gotten the answer she wanted, but because she felt the air around them slowly heating up.",
+      "defect": "The source says the Bow Saint furrowed her brow, but the assembled translation omits that physical action.",
+      "id": "F02",
+      "rationale": "The source explicitly gives her furrowing her brow at that moment; the accepted baseline also preserves it.",
+      "replacement": "The Bow Saint’s brow furrowed—not because she hadn’t gotten the answer she wanted, but because she felt the air around them slowly heating up.",
+      "severity": "minor",
+      "source": "Lines 237–239"
+    }
+  ],
+  "summary": "The assembled translation has three fidelity defects: it omits an established image and physical action, and changes the sense of a title.",
+  "version": 1
+}
