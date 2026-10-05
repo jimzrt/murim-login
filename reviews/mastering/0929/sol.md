@@ -66,7 +66,7 @@ Each had lived a separate life. They had come together to steer the great ship t
 
 A few days earlier, the words of someone whose identity they did not know had lit a fuse hidden deep in their hearts.
 
-“The azure heaven that once shone blue is fading, and dark clouds are rolling in.”
+“The azure heaven fades, and dark clouds roll in.”
 
 As the tune slipped from someone’s lips, a young Confucian scholar joined in as though entranced.
 
@@ -74,7 +74,7 @@ As the tune slipped from someone’s lips, a young Confucian scholar joined in a
 
 “But, people, do not tremble. Do not be afraid.”
 
-An old laborer, his skin darkened by the sun, muttered in a rough voice. In his hand was an axe with a keen, blue-steel edge. Once, he had led an army.
+An old laborer with sun-darkened skin murmured the words in a rough voice. He held an axe with a keen edge that gleamed blue. Once, he had commanded an army.
 
 “For there is a mountain, the highest in all the world.”
 
@@ -82,7 +82,7 @@ An old laborer, his skin darkened by the sun, muttered in a rough voice. In his 
 
 “Fruit ripens there, and animals run free.”
 
-“And a home to keep out the storms, and a forest to provide firewood.”
+“There are homes to shelter us from the storms, and woods to give us firewood.”
 
 It was no longer any one person’s voice.
 
@@ -120,7 +120,7 @@ Thousands of pairs of solemn eyes shone in the dark.
 
 *Thud-thud-thud-thud.*
 
-The low mountain trembled. Those torches drawing closer by the moment were likely the punitive force sent by the Emperor, who had realized a restoration was underway.
+The low mountain trembled. The torches were drawing closer by the moment. They must belong to a force sent by the Emperor, who had discovered their restoration and meant to put it down.
 
 But…
 
@@ -134,7 +134,7 @@ Only a few days ago, on a day like any other, an unknown man in a bamboo hat had
 
 “He is descended from the dragon that commands rain and lightning, and fit to be a just and benevolent ruler!”
 
-And just as their great shout shook the land around them—
+Their shout rang out in every direction.
 
 *Whoosh.*
 
@@ -162,7 +162,7 @@ And perhaps Prince Shangshan had already…
 
 “You monsters! Aren’t you afraid of Heaven?”
 
-Some of the restoration army, consumed by rage, were about to rush at the man who was clearly an Embroidered Uniform Guard when the old man, who had led them all despite his age, suddenly spoke.
+Some of the restoration army, overcome with rage, were about to charge the man when the old man who had led them all spoke.
 
 “Whose blood is on your armor?”
 
@@ -182,13 +182,13 @@ And the voice of the man in bloodstained golden armor was familiar, too.
 
 “Was it you?”
 
-But unlike the restoration army, who could make no sense of this strange exchange, the Embroidered Uniform Guard understood what the old man’s brief question meant.
+The question meant nothing to the bewildered people around him. But the guard understood.
 
 “It was.”
 
 “Then what you said and did in the marketplace that day…”
 
-“It was all done at His Majesty’s command—the imperial decree.”
+“Was all done at His Majesty’s command.”
 
 “Ah.”
 
@@ -200,7 +200,7 @@ The old man let out a sigh. Some in the restoration army recognized the man at l
 
 They remembered it clearly: a voice that had carried over a crowd of hundreds, and a man in a bamboo hat who had dropped a great stone into their hearts before vanishing.
 
-“I am Lee Mo. I once served the late Emperor as Grand Preceptor. What is your name?”
+“This old man is Lee. I once served the late Emperor as Grand Preceptor. What is your name?”
 
 The man, now wearing a golden helmet in place of his bamboo hat, answered with the respect due to an elder official. Decades ago, Lee had repeatedly urged the Emperor to keep eunuchs at a distance, only to be falsely accused and driven from office.
 

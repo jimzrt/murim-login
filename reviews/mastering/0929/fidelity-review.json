@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "The old man’s eyes flashed with a strength hard to believe in a man of ninety, and a resolve firmer than anyone’s.",
+      "defect": "The source describes the old man’s eyes as shining with strength and uprightness. “Resolve firmer” changes the second quality from moral integrity or rectitude to determination.",
+      "id": "F01",
+      "rationale": "올곧게 conveys being upright or principled here, not simply having a firm resolve.",
+      "replacement": "The old man’s eyes flashed with a strength hard to believe in a man of ninety—and with an integrity more upright than anyone’s.",
+      "severity": "minor",
+      "source": "Lines 57; assembled P24"
+    },
+    {
+      "confidence": 0.91,
+      "current": "the roar of thousands who had joined the Embroidered Uniform Guard",
+      "defect": "This can mean the thousands joined the Guard as members. The source says the force of thousands joined up with the Guard.",
+      "id": "F02",
+      "rationale": "금의위와 합류한 군세 describes the army joining or converging with the Guard, not necessarily enlisting in it.",
+      "replacement": "the roar of thousands who had joined forces with the Embroidered Uniform Guard",
+      "severity": "minor",
+      "source": "Lines 263; assembled P117"
+    }
+  ],
+  "summary": "The assembled copy is broadly faithful, with two minor shifts in meaning.",
+  "version": 1
+}
