@@ -12,7 +12,7 @@ First was the force and authority of the Embroidered Uniform Guard, among the Gr
 
 The Murim Alliance.
 
-Even a renowned veteran of the martial world who had loudly insisted that martial artists should handle Murim affairs themselves would have had no choice but to accept it quietly before the Murim Alliance’s towering banner.
+Even a renowned veteran who had loudly insisted that martial artists should handle Murim affairs themselves could only accept it when faced with the Alliance’s banner.
 
 The two great powers guiding the world had joined forces. All that remained was to punish the Murong Family.
 
@@ -30,21 +30,21 @@ Thud-thud-thud-thud!
 
 Jeong Hogun’s terse command shook the earth.
 
-There was no need for all thousand Embroidered Uniform Guards to take action.
+There was no need for the thousand Embroidered Uniform Guards to move.
 
-The authority of the Marquis of Shangshan, personally appointed by the Son of Heaven not long ago, was vast enough to encompass the entire northern frontier. And when the Embroidered Uniform Guard—the force said to knock birds from the sky—arrived, Liaoning Province’s City Lord had rushed out to greet them and immediately surrendered all the military authority at his disposal.
+The authority of the Marquis of Shangshan, personally appointed by the Son of Heaven not long ago, reached across the entire north. And when the Embroidered Uniform Guard—the force said to be able to knock birds from the sky—arrived, Liaoning Province’s City Lord had rushed out to greet them and immediately placed every soldier under his command at their disposal.
 
 Thud. Thud. Thud.
 
-The first thousand cavalrymen galloped out to surround the Murong Family estate. Heavily armored infantry filled every gap with shields, spears, and swords.
+A thousand cavalrymen went first, surrounding the Murong estate. Heavily armored infantry filled every gap with shields, spears, and swords.
 
-Finally, the archers took their positions. Everything was ready.
+Finally, the archers took their positions.
 
-Like any Murim family on the frontier, the Murong Family estate was a fortress made by nature itself. And now it was sealed off without a single gap.
+The Murong estate, a natural fortress like so many frontier martial families’ strongholds, was sealed off without a single gap.
 
 Grrrrrr.
 
-With a heavy grinding sound, the iron gate slowly began to open.
+With a heavy grinding sound, the iron gate began to open.
 
 A man dressed in white as snow appeared beyond it. Jeong Hogun spoke.
 
@@ -74,7 +74,7 @@ Instead of answering, the man waved them back. He bit his lip, fixed his gaze on
 
 Step.
 
-Jeong Hogun watched him in silence, then spoke again.
+Jeong Hogun watched him for a moment, then spoke again.
 
 “Loose.”
 
@@ -98,7 +98,7 @@ The family retainers could bear it no longer and rushed out through the gate. Ye
 
 “Don’t come any closer! Whatever happens, you must not act rashly!”
 
-The family members who had started to run through the gate clenched their teeth and stopped.
+The retainers halted at the gate, teeth clenched.
 
 The man gave a small nod, then leaned on his sword and staggered to his feet.
 
@@ -116,7 +116,7 @@ Up close, he could see that the man was barely twenty.
 
 They said blood could not lie.
 
-Looking at the young man’s distinctly foreign features, Jeong Hogun suddenly recalled a face he had seen while collecting the dead, just after the fierce battle around Eight Spring Gorge had ended.
+Looking at the young man’s distinctly foreign features, Jeong Hogun recalled a face he had seen among the dead after the fierce battle around Eight Spring Gorge.
 
 “Then you’re Murong Baek’s…?”
 
@@ -136,9 +136,7 @@ The young man answered calmly and cupped his hands in greeting.
 
 “Staying changes nothing. But let’s hear your second reason.”
 
-The young man, Murong Su, lowered his hands and lifted his head.
-
-His gaze at Jeong Hogun was clear, and his voice was calm.
+Murong Su lowered his hands and lifted his head. His eyes were clear, his voice steady.
 
 “Someone has to take responsibility, don’t they?”
 
@@ -150,7 +148,7 @@ Jeong Hogun studied him in silence beneath the brim of his helmet, then looked p
 
 “Then who are those people who stayed with you?”
 
-“I don’t know if you’ll believe me, but they, too, were betrayed by my father. And they aren’t people who could really be called members of the Murong bloodline.”
+“I don’t know if you’ll believe me, but my father betrayed them too. Nor could you really call them Murong blood.”
 
 Jeong Hogun could guess who they were.
 
@@ -158,15 +156,15 @@ People so isolated within the family that they could never have learned the trut
 
 All but one.
 
-“Did you not know about your father’s crimes, either?”
+“Did you know of your father’s crimes?”
 
 “I can’t say I knew. Nor can I say I didn’t. I had only a vague feeling that something was wrong.”
 
 “And?”
 
-“I simply watched from a distance.”
+“I watched from a distance.”
 
-“Was it your affection for your own blood?”
+“Because he was your father?”
 
 “I don’t know when I was ever considered part of the Murong Family. My mother was a barbarian, my birth lowly, and my martial talent nothing worth speaking of…”
 
@@ -174,17 +172,17 @@ Murong Su smiled bitterly.
 
 “But one thing I do know. Saving those who remain is the best I can do.”
 
-“So in the end, you’re the only one left. Murong Su, Murong Baek’s son. A traitor’s blood.”
+“So you’re the one left to answer for it. Murong Su, son of Murong Baek. A traitor’s blood.”
 
-“That’s right. So, the others—”
+“That’s right. So please, spare the others—”
 
 “Execute them on the spot.”
 
-At Jeong Hogun’s firm interruption, all color drained from Murong Su’s face.
+All color drained from Murong Su’s face.
 
 “What do you—”
 
-“The Murong Family Head, Murong Baek, and his family colluded with foreign enemies, disrupted the order of the Great Nation, and caused immense harm throughout the northern frontier. This was clearly an act of treason. Not the slightest mercy can be shown in punishing it.”
+“Murong Baek, Family Head of the Murong Family, and his kin colluded with foreign enemies, disrupted the order of the Great Nation, and caused immense harm throughout the north. That is treason. There can be no mercy in punishing it.”
 
 “Thousand Captain!”
 
@@ -208,7 +206,7 @@ In Murong Su’s wide eyes, hundreds of archers drew their bowstrings taut.
 
 There was no choice left.
 
-One small gesture. Or one short command.
+One small gesture. One short command.
 
 That would end it. Everything.
 
@@ -216,9 +214,9 @@ That would end it. Everything.
 
 Murong Su’s desperate plea burst out with a spray of dark red blood.
 
-And then, a hoarse old voice spoke from behind Jeong Hogun.
+At that moment, an old voice came from behind Jeong Hogun.
 
-“People only show their true hearts when their lives are in danger. Don’t you agree, Thousand Captain of the Embroidered Uniform Guard?”
+“People only show their whole, honest selves when their lives are in danger. Don’t you agree, Thousand Captain?”
 
 The speaker was a small old man with dark skin and distinctive features unlike those of a Han man.
 
@@ -226,19 +224,19 @@ But what made him truly unusual was his mount. He rode neither a horse nor a mul
 
 A huge man who might have rivaled a bear.
 
-“Taishan can’t understand what you’re saying. Has Namho gone senile?”
+“Taishan doesn’t understand what you’re saying. Has Namho gone senile?”
 
 “Damn you. Not again.”
 
 The old man, Namho, was unfazed.
 
-As if he had been waiting for the moment, he pulled out a chunk of jerky and stuffed it into Taishan’s mouth. Then he nodded toward Jeong Hogun.
+As if he had been waiting for this, he pulled a chunk of jerky from inside his clothes and stuffed it into Taishan’s mouth. Then he glanced at Jeong Hogun.
 
-“Anyway. In this old man’s opinion, this is probably enough for now. What do you think?”
+“Anyway, this old man thinks you’ve done enough for now. What say you?”
 
 Jeong Hogun thought for a moment, then lowered his hand.
 
-As his fingers slowly relaxed, hundreds of taut bowstrings lowered in silence.
+As his fingers relaxed, hundreds of taut bowstrings lowered with them.
 
 “We’ll take them into custody and bring them to the government office first. Their fate will be decided after a thorough interrogation.”
 
@@ -260,11 +258,11 @@ The huge man crouched, bringing Namho roughly eye to eye with Murong Su. The you
 
 Namho smiled bitterly at Murong Su’s face, which had gone stiff as stone.
 
-“Don’t look so surprised. I’m only offering you a chance.”
+“Don’t look at me like that. I’m only here to offer you a chance.”
 
 “A chance…?”
 
-“Yes. A chance for those who haven’t strayed from the orthodox path.”
+“Yes. A chance for those who haven’t strayed from the right path.”
 
 Namho knew.
 
@@ -274,7 +272,7 @@ There was light even in deep darkness, and darkness even in the brightest light.
 
 That was why Jin Taekyung had sent Namho here.
 
-There was more than one way to eliminate a future threat. If what remained was not diseased plants but strong, green shoots, there was no reason to pull them up by the roots.
+Eliminating a future threat did not always mean killing everyone. If what remained was not diseased plants but strong, green shoots, there was no reason to pull them up by the roots.
 
 *“If we’re the orthodox faction, shouldn’t we at least live up to the name?”*
 
@@ -286,7 +284,7 @@ Then he addressed Murong Su and all the others who had come running, though bare
 
 “…!”
 
-“Those who abandoned benevolence and righteousness and strayed from the orthodox path can no longer belong to the Murim Alliance’s orthodox factions, nor can they be a great family.”
+“Those who abandoned benevolence and righteousness and strayed from the right path can no longer stand among the Murim Alliance’s orthodox factions, nor call themselves a great family.”
 
 His voice carried a force that seemed impossible for someone so small. Though he had put not a trace of internal energy into it, every word reached their ears clearly.
 
@@ -298,23 +296,23 @@ Namho looked straight at Murong Su.
 
 This was not his decision alone. Every sect in the north and the Murim Alliance had agreed to it.
 
-“If your innocence is proven in the future, the Murong family will have another chance to prove itself under a new Family Head.”
+“If your innocence is proven, the Murong household may prove itself anew under a new Family Head.”
 
 “…!”
 
 “…!”
 
-At that moment, the hundred or so members of the family trembled.
+The hundred or so retainers trembled.
 
-They had thought everything was over. Now they had one last chance to clear their names and prove themselves—all because of the sacrifice and courage of the one man who had not abandoned them to the very end.
+They had thought everything was over. Now they had one last chance to clear their names and prove themselves—all because of the sacrifice and courage of the one man who had refused to abandon them.
 
 “Young Master!”
 
-No longer retainers of the Murong Family but of the Murong household, they surrounded Murong Su with fervent voices and shining eyes.
+No longer retainers of the Murong Family, but of the Murong household, they surrounded Murong Su with impassioned cries and fervent eyes.
 
 The man they would soon call Family Head.
 
-As Namho watched the scene with a calm gaze, he suddenly remembered something he had forgotten and smiled faintly.
+Namho watched them quietly. Then, remembering something he had forgotten, he smiled.
 
 The Five Great Families.
 
@@ -322,4 +320,4 @@ Together with the Nine Sects and One Gang, they were the fifteen pillars holding
 
 He already knew who would fill the vacant fifth seat left by the fall of the Murong name.
 
-No—in fact, all the martial world knew.
+No—all of Murim knew.

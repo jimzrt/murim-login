@@ -1,0 +1,2324 @@
+{
+  "baseline_blocks": 171,
+  "baseline_sha256": "cf6a80f17eb652fbbec75ccf5957ec7938f203e34e9c9cd3b8bfd34ee302574d",
+  "global_terminology_alerts": [
+    {
+      "korean": "강호",
+      "preferred": "martial world"
+    }
+  ],
+  "hunk_count": 124,
+  "hunks": [
+    {
+      "baseline": "By the time the thousand Embroidered Uniform Guards led by Jeong Hogun crossed Hebei and reached Liaoning Province, not only the martial artists in the region but even the common people knew the whole truth.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "By the time the thousand Embroidered Uniform Guards led by Jeong Hogun crossed Hebei and reached Liaoning Province, everyone in the region knew the truth. Not just the martial artists—even the common people.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And, finally, the existence of Dark Heaven lurking behind it all.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "And, finally, Dark Heaven lurking behind it all.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For that reason, not even the most hot-blooded martial artists dared stand in the Embroidered Uniform Guard’s way.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "Not even the most hot-blooded martial artist dared stand in the Embroidered Uniform Guard’s way. There were two main reasons.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were two main reasons.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "",
+      "sol_paragraphs": "after P5",
+      "sol_range": [
+        5,
+        5
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The first was the force and authority of the Embroidered Uniform Guard, one of the Great Nation’s finest elite forces. The second was another banner flying alongside the imperial flag.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "First was the force and authority of the Embroidered Uniform Guard, among the Great Nation’s finest troops. Second was the banner flying beside the imperial flag.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even a renowned veteran of the martial world who had loudly insisted that martial artists should handle Murim affairs themselves would have had no choice but to accept it quietly before the Murim Alliance’s towering banner.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "Even a renowned veteran who had loudly insisted that martial artists should handle Murim affairs themselves could only accept it when faced with the Alliance’s banner.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무림맹",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murim Alliance"
+        },
+        {
+          "korean": "강호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial world"
+        }
+      ]
+    },
+    {
+      "baseline": "Now that the two great powers guiding the world had joined forces, all that remained was to punish the Murong Family.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "The two great powers guiding the world had joined forces. All that remained was to punish the Murong Family.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before long, everyone’s attention focused on one place.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "23",
+      "sol": "Before long, everyone’s attention turned to one place.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The home of the Murong Family, which had once founded a nation after thundering across the continent with a single charging spear and a composite bow.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "27",
+      "sol": "The Murong Family’s ancestral estate. They had once thundered across the continent with a charging spear and a composite bow and founded a nation.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Now, it stood on the brink of ruin.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "29",
+      "sol": "Now they faced ruin.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was no need for all thousand Embroidered Uniform Guards to take action.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "37",
+      "sol": "There was no need for the thousand Embroidered Uniform Guards to move.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The authority of the Marquis of Shangshan, personally appointed by the Son of Heaven not long ago, was vast enough to encompass the entire northern frontier. And when the Embroidered Uniform Guard—the force said to knock birds from the sky—arrived, Liaoning Province’s City Lord had rushed out to greet them and immediately handed over every military force at his disposal.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "39",
+      "sol": "The authority of the Marquis of Shangshan, personally appointed by the Son of Heaven not long ago, reached across the entire north. And when the Embroidered Uniform Guard—the force said to be able to knock birds from the sky—arrived, Liaoning Province’s City Lord had rushed out to greet them and immediately placed every soldier under his command at their disposal.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The first thousand cavalrymen galloped out to surround the Murong Family estate. Heavily armored infantry filled every gap with shields, spears, and swords.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "43",
+      "sol": "A thousand cavalrymen went first, surrounding the Murong estate. Heavily armored infantry filled every gap with shields, spears, and swords.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "모용세가",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murong Family"
+        }
+      ]
+    },
+    {
+      "baseline": "Finally, the archers took their positions. Everything was ready.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "45",
+      "sol": "Finally, the archers took their positions.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Like any Murim family on the frontier, the Murong Family estate was a fortress made by nature itself. And now it was sealed off without a single gap.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "47",
+      "sol": "The Murong estate, a natural fortress like so many frontier martial families’ strongholds, was sealed off without a single gap.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무림",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murim"
+        },
+        {
+          "korean": "모용세가",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murong Family"
+        }
+      ]
+    },
+    {
+      "baseline": "With a heavy grinding sound, the iron gate slowly began to open.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "51",
+      "sol": "With a heavy grinding sound, the iron gate began to open.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The order came without the slightest hesitation.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "57",
+      "sol": "There was not a moment’s hesitation in the order.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The archers, already in formation and prepared for this moment, knew what to do.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "59",
+      "sol": "The archers were already in formation, ready to fire.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For an instant, part of the sky turned black. Hundreds of arrows cut through the air and fell with deadly force. The man in white frantically swung his sword in front of them.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "63",
+      "sol": "For an instant, part of the sky turned black. Hundreds of arrows tore through the air toward the man in white, and he hastily swung his sword.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Steel met steel, sparks flying.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "67",
+      "sol": "Steel struck steel, scattering sparks.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When the storm of arrows swept past the gate, all that remained was the man, his face stricken, and the anguished cries of those calling out to him.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "69",
+      "sol": "When the rain of arrows had swept past the gate, the man stood there looking shaken. From behind him came anguished cries.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The man firmly waved them back instead of answering. He bit his lip, fixed his gaze on Jeong Hogun in the distance, and took a heavy step forward.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "77",
+      "sol": "Instead of answering, the man waved them back. He bit his lip, fixed his gaze on Jeong Hogun in the distance, and took a heavy step forward.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeong Hogun watched him in silence, then spoke again.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "81",
+      "sol": "Jeong Hogun watched him for a moment, then spoke again.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Once more, a rain of arrows fell, and the blade flashed.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "85",
+      "sol": "Another rain of arrows fell. The sword flashed.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But this time, there was one difference: blood was now spattered across the ground.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "87",
+      "sol": "This time, blood spattered the ground.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Thud-thud.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "89",
+      "sol": "Drip. Drip.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The shoulder pierced by an arrow began to twitch. But the man’s steps didn’t stop. He continued forward until some of the arrows in the third volley pierced his body.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "91",
+      "sol": "The shoulder pierced by an arrow twitched, but the man kept walking. He did not stop even when arrows from the third volley drove into him in several places.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At last, the man’s knees buckled. His once-white clothes had long since turned red.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "95",
+      "sol": "At last, his knees buckled. His once-white clothes had long since turned red.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Still, when the members of the family could no longer bear it and rushed out through the gate, his shout held not the slightest trace of pain.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "97",
+      "sol": "The family retainers could bear it no longer and rushed out through the gate. Yet there was not a trace of pain in his shout.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t come any closer. No matter what happens, you must not act rashly!”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "103",
+      "sol": "“Don’t come any closer! Whatever happens, you must not act rashly!”",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The family members who had started to run through the gate clenched their teeth and stopped.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "105",
+      "sol": "The retainers halted at the gate, teeth clenched.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The man gave a small nod, then used his sword as a cane to stagger back to his feet.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "107",
+      "sol": "The man gave a small nod, then leaned on his sword and staggered to his feet.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At last, he faced Jeong Hogun, who was slowly riding toward him.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "109",
+      "sol": "At last, he faced Jeong Hogun, who was riding slowly toward him.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We finally meet. I suppose it was worth risking my life.”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "111",
+      "sol": "“We finally meet. It seems risking my life was worth it.”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Up close, the man was a young man who looked barely twenty.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "115",
+      "sol": "Up close, he could see that the man was barely twenty.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I am. My father committed a crime that cannot be forgiven.”",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "119",
+      "sol": "“I am. My father committed an unforgivable wrong.”",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Looking at the young man’s distinctly foreign features, Jeong Hogun suddenly recalled a face he had seen while collecting the dead, just after the fierce battle around Eight Spring Gorge had ended.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "123",
+      "sol": "Looking at the young man’s distinctly foreign features, Jeong Hogun recalled a face he had seen among the dead after the fierce battle around Eight Spring Gorge.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then, are you Murong Baek’s…?”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "125",
+      "sol": "“Then you’re Murong Baek’s…?”",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I was his seventh son, born in his old age. The son of a sinful father.”",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "127",
+      "sol": "“His seventh son, born in his old age. The son of a father burdened with sin.”",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I am Murong Su, the Murong Family’s Seventh Young Master. I greet Thousand Captain Jeong.”",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "131",
+      "sol": "“I am Murong Su, the Murong Family’s Seventh Young Master. I greet you, Thousand Captain Jeong.”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You know who I am.”",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "133",
+      "sol": "“You know me.”",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I have eyes and ears of my own. I heard you were coming, of course.”",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "135",
+      "sol": "“I have eyes and ears. I’d heard you were coming.”",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then why did you stay here?”",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "137",
+      "sol": "“Then why did you stay?”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If I fled like my elder brothers, I would be admitting with my own actions that I was a traitor and an enemy of the Murim world.”",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "139",
+      "sol": "“If I fled like my elder brothers, I would be admitting that I was a traitor and an enemy of Murim.”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Nothing will change just because you stayed. Still, let’s hear your second reason.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "141",
+      "sol": "“Staying changes nothing. But let’s hear your second reason.”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young man, Murong Su, lowered his hands and lifted his head.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "143",
+      "sol": "Murong Su lowered his hands and lifted his head. His eyes were clear, his voice steady.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His gaze at Jeong Hogun was clear, and his voice was calm.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "145",
+      "sol": "",
+      "sol_paragraphs": "after P70",
+      "sol_range": [
+        70,
+        70
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "정호군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeong Hogun"
+        }
+      ]
+    },
+    {
+      "baseline": "“I’m the only direct descendant left at the family estate. Everyone connected to the crime has either died or fled.”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "151",
+      "sol": "“I’m the only direct descendant left at the estate. Everyone involved has either died or fled.”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beneath his deeply pulled-down helmet, Jeong Hogun silently looked at Murong Su. Then his gaze shifted past the young man’s shoulder.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "153",
+      "sol": "Jeong Hogun studied him in silence beneath the brim of his helmet, then looked past his shoulder.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "모용수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murong Su"
+        }
+      ]
+    },
+    {
+      "baseline": "“I don’t know if you’ll believe me, but they, too, were betrayed by my father. And they aren’t people who could really be called members of the Murong bloodline.”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "157",
+      "sol": "“I don’t know if you’ll believe me, but my father betrayed them too. Nor could you really call them Murong blood.”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "From Murong Su’s answer, Jeong Hogun could guess the identities of the people who had stayed behind.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "159",
+      "sol": "Jeong Hogun could guess who they were.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "모용수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murong Su"
+        }
+      ]
+    },
+    {
+      "baseline": "People so excluded within the family that they could not have come close to the truth.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "161",
+      "sol": "",
+      "sol_paragraphs": "after P77",
+      "sol_range": [
+        77,
+        77
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They must have been distant branches of the family, or people whose temperaments simply hadn’t fit with the rest.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "163",
+      "sol": "",
+      "sol_paragraphs": "after P77",
+      "sol_range": [
+        77,
+        77
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And among them were surely former guests who had become part of the Murong Family without sharing a drop of its blood.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "165",
+      "sol": "People so isolated within the family that they could never have learned the truth. Distant branches of distant branches, perhaps, or people who had never fit in. There would also be former guests who had become part of the Murong Family without sharing a drop of its blood.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With only one exception.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "167",
+      "sol": "All but one.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Did you not know about your father’s crimes, either?”",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "169",
+      "sol": "“Did you know of your father’s crimes?”",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I neither knew nor didn’t know. I only had a vague sense that something was wrong.”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "171",
+      "sol": "“I can’t say I knew. Nor can I say I didn’t. I had only a vague feeling that something was wrong.”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I simply watched from a distance.”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "175",
+      "sol": "“I watched from a distance.”",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Was it your affection for your own blood?”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "177",
+      "sol": "“Because he was your father?”",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I don’t know when I became a member of the Murong Family, seeing as I’m the son of a barbarian mother, born of low status, with little martial talent to speak of…”",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "179",
+      "sol": "“I don’t know when I was ever considered part of the Murong Family. My mother was a barbarian, my birth lowly, and my martial talent nothing worth speaking of…”",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Murong Su continued with a bitter smile.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "181",
+      "sol": "Murong Su smiled bitterly.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But there’s one thing I know for sure. The best I can do is save the people who remain.”",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "183",
+      "sol": "“But one thing I do know. Saving those who remain is the best I can do.”",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So in the end, you’re the only one left. Murong Su, Murong Baek’s son. A traitor’s blood.”",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "185",
+      "sol": "“So you’re the one left to answer for it. Murong Su, son of Murong Baek. A traitor’s blood.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. So, the others—”",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "187",
+      "sol": "“That’s right. So please, spare the others—”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Jeong Hogun’s firm interruption, all color drained from Murong Su’s face.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "191",
+      "sol": "All color drained from Murong Su’s face.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "정호군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeong Hogun"
+        }
+      ]
+    },
+    {
+      "baseline": "“What do you mean—”",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "193",
+      "sol": "“What do you—”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Murong Family Head, Murong Baek, and his family colluded with foreign enemies, disrupted the order of the Great Nation, and caused immense harm throughout the northern frontier. This was clearly an act of treason. Not the slightest mercy can be shown in punishing it.”",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "195",
+      "sol": "“Murong Baek, Family Head of the Murong Family, and his kin colluded with foreign enemies, disrupted the order of the Great Nation, and caused immense harm throughout the north. That is treason. There can be no mercy in punishing it.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Crack. Murong Su snapped the arrows lodged throughout his body. His face was painted with an anguish beyond words.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "201",
+      "sol": "Crack. Murong Su snapped the arrows lodged in his body, his face contorted with anguish.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Didn’t I tell you? They—they…”",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "203",
+      "sol": "“I told you! They—they…!”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He coughed, spitting blood.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "205",
+      "sol": "He coughed up blood and fell to his knees before he could finish.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Murong Su fell to his knees, unable to finish speaking. At that moment, the family members who had watched every second of the scene from a distance could no longer bear it. They rushed through the iron gate.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "207",
+      "sol": "The retainers, who had watched it all from a distance, could bear no more. They rushed out through the iron gate.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "모용수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murong Su"
+        }
+      ]
+    },
+    {
+      "baseline": "“No! The Young Master is innocent!”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "211",
+      "sol": "“No! The Young Master has done nothing wrong!”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In Murong Su’s wide-open eyes, he could see hundreds of archers drawing their bows taut.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "215",
+      "sol": "In Murong Su’s wide eyes, hundreds of archers drew their bowstrings taut.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One small gesture. Or one short command.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "219",
+      "sol": "One small gesture. One short command.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And it would all be over. Everything.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "221",
+      "sol": "That would end it. Everything.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Murong Su’s desperate plea broke through with a spray of dark red blood.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "225",
+      "sol": "Murong Su’s desperate plea burst out with a spray of dark red blood.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then, a hoarse old voice spoke from behind Jeong Hogun.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "227",
+      "sol": "At that moment, an old voice came from behind Jeong Hogun.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“People only show their true hearts when their lives are in danger. Don’t you agree, Thousand Captain of the Embroidered Uniform Guard?”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "229",
+      "sol": "“People only show their whole, honest selves when their lives are in danger. Don’t you agree, Thousand Captain?”",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "금의위",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Embroidered Uniform Guard"
+        }
+      ]
+    },
+    {
+      "baseline": "It was a small, elderly man.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "231",
+      "sol": "",
+      "sol_paragraphs": "after P110",
+      "sol_range": [
+        110,
+        110
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His skin was dark, and his striking features made it clear he was not Han.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "233",
+      "sol": "The speaker was a small old man with dark skin and distinctive features unlike those of a Han man.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But what made the old man look especially unusual was that he wasn’t riding a horse or a mule. He was riding a person.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "235",
+      "sol": "But what made him truly unusual was his mount. He rode neither a horse nor a mule, but a person.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A huge man, one who could be compared to a bear.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "237",
+      "sol": "A huge man who might have rivaled a bear.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Taishan can’t understand what you’re saying. Has Namho gone senile?”",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "239",
+      "sol": "“Taishan doesn’t understand what you’re saying. Has Namho gone senile?”",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Damn it, you’re at it again.”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "241",
+      "sol": "“Damn you. Not again.”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old man, Namho, didn’t flinch.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "243",
+      "sol": "The old man, Namho, was unfazed.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if he had been waiting for the moment, he pulled out a chunk of jerky and stuffed it into Taishan’s mouth. Then he nodded toward Jeong Hogun.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "245",
+      "sol": "As if he had been waiting for this, he pulled a chunk of jerky from inside his clothes and stuffed it into Taishan’s mouth. Then he glanced at Jeong Hogun.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Anyway. In this old man’s opinion, this is probably enough for now. What do you think?”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "247",
+      "sol": "“Anyway, this old man thinks you’ve done enough for now. What say you?”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After a moment’s thought, Jeong Hogun lowered his hand.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "249",
+      "sol": "Jeong Hogun thought for a moment, then lowered his hand.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As his fingers slowly relaxed, hundreds of taut bowstrings lowered in silence.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "251",
+      "sol": "As his fingers relaxed, hundreds of taut bowstrings lowered with them.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“First, we’ll escort them to the government office. We’ll decide how to deal with the survivors after a thorough interrogation.”",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "253",
+      "sol": "“We’ll take them into custody and bring them to the government office first. Their fate will be decided after a thorough interrogation.”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Do that. An old man like me doesn’t have the power to stop you from going that far. Even that much is more than they could have hoped for.”",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "255",
+      "sol": "“Do that. An old man like me couldn’t stop you from going that far. They should be grateful for even that much.”",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Namho shrugged, then patted Taishan on the crown of his head.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "257",
+      "sol": "Namho shrugged and patted the top of Taishan’s head.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The enormous man lowered himself, bringing Namho roughly eye to eye with Murong Su, who could only blink, still unable to make sense of what was happening.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "259",
+      "sol": "The huge man crouched, bringing Namho roughly eye to eye with Murong Su. The young man could only blink, still unable to make sense of what was happening.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Did you say your name was Murong Su?”",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "261",
+      "sol": "“You said your name was Murong Su?”",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Y-yes. But who exactly are you, Old Man?”",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "263",
+      "sol": "“Y-yes. But who are you, sir?”",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You don’t need to know the name of an old man like me. Just know that I belong to the Murim Alliance.”",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "265",
+      "sol": "“No need to know an old man’s name. Just know that I belong to the Murim Alliance.”",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh, one more thing. I’m also the Blazing Flame Divine Dragon’s—no, the Marquis of Shangshan’s representative.”",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "269",
+      "sol": "“Oh, one more thing. Right now, I also represent the Blazing Flame Divine Dragon—no, the Marquis of Shangshan.”",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t look so surprised. I’m only offering you a chance.”",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "273",
+      "sol": "“Don’t look at me like that. I’m only here to offer you a chance.”",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. A chance for those who haven’t strayed from the orthodox path.”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "277",
+      "sol": "“Yes. A chance for those who haven’t strayed from the right path.”",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even in deep darkness, there was light. And even in a brilliant beam of light, there was darkness.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "283",
+      "sol": "There was light even in deep darkness, and darkness even in the brightest light.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was exactly why Jin Taekyung had sent Namho here.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "285",
+      "sol": "That was why Jin Taekyung had sent Namho here.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Eliminating a future threat didn’t always mean eliminating the people themselves.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "287",
+      "sol": "",
+      "sol_paragraphs": "after P137",
+      "sol_range": [
+        137,
+        137
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If what remained was not diseased grass and trees, but strong, green shoots, there was no reason to rip them out by the roots.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "289",
+      "sol": "Eliminating a future threat did not always mean killing everyone. If what remained was not diseased plants but strong, green shoots, there was no reason to pull them up by the roots.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then he spoke to Murong Su—and to all of them, the entire group who had run breathlessly to his side despite being reduced to barely a hundred people.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "295",
+      "sol": "Then he addressed Murong Su and all the others who had come running, though barely a hundred of them remained.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…”",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "301",
+      "sol": "“…!”",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Those who abandoned benevolence and righteousness and strayed from the orthodox path can no longer belong to the Murim Alliance’s orthodox factions, nor can they be a great family.”",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "305",
+      "sol": "“Those who abandoned benevolence and righteousness and strayed from the right path can no longer stand among the Murim Alliance’s orthodox factions, nor call themselves a great family.”",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His voice was so powerful that it was hard to believe it came from such a small man. Though he hadn’t infused it with a single scrap of internal energy, every word rang clearly in their ears.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "307",
+      "sol": "His voice carried a force that seemed impossible for someone so small. Though he had put not a trace of internal energy into it, every word reached their ears clearly.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But if anyone still walks the right path, the Murim Alliance will not cast them aside. That is the right thing to do.”",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "309",
+      "sol": "“But if any among you still walk the right path, the Murim Alliance will not cast you aside. That is the right thing to do.”",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Namho fixed his eyes on Murong Su and continued.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "311",
+      "sol": "Namho looked straight at Murong Su.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“As I said, the Murong Family no longer exists. But the Murong household is another matter.”",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "313",
+      "sol": "“As I said, the Murong Family no longer exists. The Murong household, however, is another matter.”",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This wasn’t a decision he had made on his own.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "315",
+      "sol": "",
+      "sol_paragraphs": "after P148",
+      "sol_range": [
+        148,
+        148
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every sect in the north had agreed to it. The Murim Alliance had decided.",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "317",
+      "sol": "This was not his decision alone. Every sect in the north and the Murim Alliance had agreed to it.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If your innocence is proven in the future, the Murong family will have another chance to prove itself under a new Family Head.”",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "319",
+      "sol": "“If your innocence is proven, the Murong household may prove itself anew under a new Family Head.”",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "모용세가",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murong Family"
+        }
+      ]
+    },
+    {
+      "baseline": "“…”",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "321",
+      "sol": "“…!”",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…”",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "323",
+      "sol": "“…!”",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, the hundred or so members of the family trembled.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "325",
+      "sol": "The hundred or so retainers trembled.",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A final chance had been given to people who had thought everything was over.",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "327",
+      "sol": "",
+      "sol_paragraphs": "after P153",
+      "sol_range": [
+        153,
+        153
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had been given the chance to prove their innocence—to prove themselves.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "329",
+      "sol": "",
+      "sol_paragraphs": "after P153",
+      "sol_range": [
+        153,
+        153
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "All thanks to the sacrifice and courage of the one man who hadn’t abandoned them to the very end.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "331",
+      "sol": "They had thought everything was over. Now they had one last chance to clear their names and prove themselves—all because of the sacrifice and courage of the one man who had refused to abandon them.",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No longer retainers of the Murong Family but of the Murong household, they surrounded Murong Su with fervent voices and shining eyes.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "335",
+      "sol": "No longer retainers of the Murong Family, but of the Murong household, they surrounded Murong Su with impassioned cries and fervent eyes.",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The man they would soon call their Family Head.",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "337",
+      "sol": "The man they would soon call Family Head.",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Namho watched the scene with a calm gaze, he suddenly remembered something he had forgotten and smiled faintly.",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "339",
+      "sol": "Namho watched them quietly. Then, remembering something he had forgotten, he smiled.",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He already knew who would fill the fifth empty seat, left behind by the Murong name.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "345",
+      "sol": "He already knew who would fill the vacant fifth seat left by the fall of the Murong name.",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—in fact, all the martial world knew.",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "347",
+      "sol": "No—all of Murim knew.",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial world"
+        }
+      ]
+    }
+  ],
+  "sol_blocks": 162,
+  "sol_sha256": "81c274206a711855cd4dc889c00ce84a77353f5aec62ce23f566173256790e51",
+  "version": 1
+}
