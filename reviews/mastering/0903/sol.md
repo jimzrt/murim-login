@@ -4,7 +4,7 @@ Some mysteries have no answer, no matter how long you think about them. When tha
 
 Turn everything upside down.
 
-Forget all the circumstances and clues you’ve gathered so far, and start over from the beginning. That’s the last resort.
+Forget every circumstance and clue you’ve gathered and start again from the beginning.
 
 Like retracing your steps to find something precious you don’t remember dropping, I went back to the starting point and reconsidered every detail, large and small.
 
@@ -16,7 +16,7 @@ At last, I arrived at a hypothesis.
 
 A faint ripple passed through Cang Gong’s gray eyes.
 
-It appeared and vanished in less time than it took to blink, but I’d been watching his every tiny movement too closely to miss it.
+It appeared and vanished in an instant, but I was watching his every movement too closely to miss it.
 
 *So it was true.*
 
@@ -50,7 +50,7 @@ I swallowed the question before it could burst out, but I couldn’t hide my mom
 
 *Even Cang Gong doesn’t know who So Gyo is?*
 
-Cang Gong caught the confusion that had appeared on my face and gave a low laugh.
+He read the confusion on my face and gave a low laugh.
 
 “From the looks of it, you don’t know who she is either. You don’t even know whether she’s an ally or an enemy.”
 
@@ -58,11 +58,11 @@ Cang Gong caught the confusion that had appeared on my face and gave a low laugh
 
 “Strange. Very strange. Until just now, I suspected she might be a Murim Alliance spy, but… now I haven’t the faintest idea. Even if she were a master secretly trained by the imperial family, she couldn’t have escaped my notice.”
 
-This time, setting aside the situation I was in, I couldn’t help sharing Cang Gong’s bewilderment.
+For once, despite everything else going on, I couldn’t help sharing his bewilderment.
 
 *Then who is So Gyo?*
 
-If she’d belonged to the Murim Alliance, she would have told me the whole truth before things got to this point. And if she were a master of Dark Heaven or the imperial family, Cang Gong would have known.
+If she belonged to the Murim Alliance, she would have told me the truth before things reached this point. And if she were a master of Dark Heaven or the imperial family, Cang Gong would have known.
 
 But So Gyo was different.
 
@@ -70,7 +70,7 @@ From what I’d been able to determine, she was a third party. Someone who belon
 
 *Who the hell is she?*
 
-Who was So Gyo? What expression was she wearing as she watched us right now? What was she thinking?
+What expression was she wearing as she watched us now? What was she thinking?
 
 And…
 
@@ -88,11 +88,11 @@ Of course, the only reason I could afford to stand here provoking him was that I
 
 There was no mistaking the fear and reverence in Cang Gong’s voice as he spoke of someone who wasn’t here.
 
-The Blood Lord, the Western Heaven Demon Lord, and the Southern Heaven Demon Empress had all felt the same way.
+The Blood Lord, the Western Heaven Demon Lord, and the Southern Heaven Demon Empress had all been the same.
 
 Dark Heaven existed because it had a heaven of its own: the Lord of Heaven.
 
-“Tell me. As the person concerned, you might know why that person is searching for you so relentlessly. Is it because you’ve achieved something unprecedented at such a young age? Or is it because of some other worth only that person can recognize?”
+“Tell me. Since you’re the one he seeks, perhaps you know why that person is so intent on finding you. Is it because you’ve achieved something unprecedented at such a young age? Or is there some other worth in you that only he can recognize?”
 
 His gray eyes, so like a dead man’s, glimmered faintly.
 
@@ -118,31 +118,31 @@ Cang Gong stared at me, eyes wide, then smiled faintly.
 
 “Yes, of course you wouldn’t know. How could someone like you presume to fathom that person’s intentions—”
 
-“Yeah. I can look all I want, but I still can’t find your balls.”
+“Yeah. No matter how hard I try to fathom them, I still can’t find your balls.”
 
 “Choose your words carefully. No matter how generously that person has blessed me…”
 
-“Yeah. I could search the whole ocean and still not find your testicles.”
+“Yeah. I could search the whole ocean of his generosity and still not find your testicles.”
 
 “…”
 
 “I chose my words carefully. What’s the problem?”
 
-Amid the people’s continued cheering, Cang Gong’s tightly shut, pale lips parted.
+His faint smile was long gone. The crowd was still cheering when Cang Gong’s pale lips parted.
 
 “What do you think? Surely that person would understand if I merely pulled out your tongue.”
 
-“Sure. The Lord of Heaven might. You’re the one among his followers he worries about most. His sore ball—no, his sore finger. Especially since you haven’t got any balls.”
+“Sure. The Lord of Heaven might. Being the one follower without balls must make you a particularly sore ball—no, a sore finger.”
 
 I nodded in agreement and pointed over Cang Gong’s shoulder.
 
 “But that guy won’t understand.”
 
-In the slowed-down flow of time, everything happened at once.
+In that instant, everything happened at once.
 
 Cang Gong turned his head to look behind him. I drove a flame-wreathed fist at him.
 
-Cang Gong reflexively turned to look behind him. I thrust a fist wreathed in flame at him. And a solid palm shot forward like a flash of light, as if reversing time all by itself, intercepting my fist before it could reach anyone.
+And as though it alone were moving backward through time, a solid palm shot out at blinding speed and stopped my fist before it could touch anyone.
 
 *BOOM!*
 
@@ -160,7 +160,7 @@ Amid the sudden chaos, a pair of gleaming white eyes fixed on me.
 
 *Crack.*
 
-His voice was calm, but the immense force squeezing my fist was anything but.
+His voice was calm. The immense force crushing my fist was anything but.
 
 An unknown, ice-cold energy filled his palm, suppressing the flames in mine and snuffing them out.
 
@@ -184,7 +184,7 @@ I’d only needed a signal flare to let everyone know what was happening.
 
 “What are you—”
 
-The moment Cang Gong frowned—
+Cang Gong frowned.
 
 *BOOOOM!*
 
@@ -194,7 +194,7 @@ From the place Cang Gong had glanced toward moments earlier, a figure strode out
 
 “I’ll give you my first and last warning.”
 
-The flames dancing in that damn monk’s eyes looked anything but Buddhist. He swept his gaze across the hall and went on.
+The damn monk swept his flame-filled eyes over everyone in the hall. There was nothing Buddhist about that gaze.
 
 “Only step forward if you want your flesh and bones to melt.”
 
@@ -220,7 +220,7 @@ Seeing him stare down the road they’d traveled, his brow furrowed, the burly m
 
 “No, it’s just…”
 
-Hyuk Mujin trailed off and clicked his tongue.
+Hyuk Mujin trailed off and smacked his lips.
 
 “I thought I heard something.”
 
@@ -244,13 +244,13 @@ Taishan raised an eyebrow. “A sound? An enemy?”
 
 Hyuk Mujin swallowed his flare of anger and let out a long sigh.
 
-“Yeah, I’m going. I’m going.”
+“Yeah, I’m coming. I’m coming.”
 
 But despite his answer, his steps didn’t come as easily as before.
 
 The road behind him and the walls of the Imperial Capital, growing more distant by the moment, kept appearing before his eyes.
 
-*Damn it. Am I hearing things now, too?*
+*Damn it. Am I hearing things now?*
 
 Annoying as it was, Taishan was probably right that there hadn’t been a sound. If a Peak master a step above him hadn’t heard it, then there was nothing to hear.
 
@@ -264,7 +264,7 @@ His heart kept pounding when it hadn’t before, as though an invisible hand wer
 
 *Something feels wrong.*
 
-Along with the inexplicable unease, the face of someone he’d parted with a few shichen ago suddenly flashed through his mind.
+Along with that inexplicable unease came the face of someone he’d parted from a few shichen ago.
 
 *Just one mission.*
 
@@ -322,19 +322,19 @@ Namho answered his halting question in a heavy voice.
 
 “…!”
 
-“I don’t like this situation either. No—none of us do.”
+“I don’t like this either. None of us do.”
 
 For a moment, Hyuk Mujin had nothing to say.
 
 He understood perfectly well how they felt about being burdens instead of help. He understood why Jin Taekyung had lied to send him away.
 
-And it was the truth.
+And they were right.
 
 But… but…
 
-*Still, it shouldn’t be like this.*
+*Still, it shouldn’t have been like this.*
 
-Hyuk Mujin bit down on his lip until it bled and turned his head. Then, for an instant, he forgot the entire situation and muttered in a dazed voice.
+Hyuk Mujin bit his lip until it bled and turned his head. Then he forgot everything else and muttered in a daze.
 
 “Huh…?”
 

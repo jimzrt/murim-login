@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“Yeah. I can look all I want, but I still can’t find your balls.”",
+      "defect": "The reply changes the joke from trying to fathom Cang Gong’s intentions to literally looking for his balls. The Korean repeats 뜻을 헤아리다 from Cang Gong’s question, making the insult a direct callback.",
+      "id": "F01",
+      "rationale": "The source’s joke hinges on reusing the idea of fathoming intentions before turning it into the search for his balls; “look all I want” drops that connection.",
+      "replacement": "“Yeah. No matter how hard I try to fathom your intentions, I still can’t find your balls.”",
+      "severity": "minor",
+      "source": "Korean lines 127–129; assembled P60–P61"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Cang Gong turned his head to look behind him. I drove a flame-wreathed fist at him.\n\nCang Gong reflexively turned to look behind him. I thrust a fist wreathed in flame at him. And a solid palm shot forward like a flash of light, as if reversing time all by itself, intercepting my fist before it could reach anyone.",
+      "defect": "The assembled copy repeats Cang Gong turning around and the narrator throwing his flame-wreathed fist. The source describes each action once.",
+      "id": "F02",
+      "rationale": "The duplicated actions are not present in the Korean and make the attack sequence appear to happen twice.",
+      "replacement": "In the slowed-down flow of time, everything happened at once.\n\nCang Gong reflexively turned to look behind him. I thrust a fist wreathed in flame at him. And a solid palm shot forward like a flash of light, as if reversing time all by itself, intercepting my fist before it could reach anyone.",
+      "severity": "minor",
+      "source": "Korean lines 155–159; assembled P72–P73"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Amid the people’s continued cheering, Cang Gong’s tightly shut, pale lips parted.",
+      "defect": "The assembled English omits the explicit beat that Cang Gong’s faint smile had already vanished, which the accepted baseline preserved.",
+      "id": "F03",
+      "rationale": "The source explicitly notes the smile disappearing before Cang Gong speaks, marking his reaction to the exchange.",
+      "replacement": "His faint smile had long since vanished.\n\nAmid the people’s continued cheering, Cang Gong’s tightly shut, pale lips parted.",
+      "severity": "minor",
+      "source": "Korean line 139; assembled P66"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but one insult loses its callback to Cang Gong’s question, the attack sequence repeats an action, and a visible reaction from Cang Gong is omitted.",
+  "version": 1
+}
