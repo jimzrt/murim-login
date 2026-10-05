@@ -12,7 +12,7 @@ Was it the shock of finally facing the truth?
 
 Or had something actually changed inside me?
 
-I didn’t know the exact reason, but I’d been left to flounder alone in a state of utter confusion.
+I didn’t know. All I knew was that I’d been left to flounder alone in utter confusion.
 
 No—maybe I still was.
 
@@ -64,7 +64,7 @@ I answered firmly, then added, “That’s what makes it so strange. If this is 
 
 “…Even in a situation like this, you’ve got a silver tongue.”
 
-Jeok Cheongang said it with a sour expression, but he didn’t exactly argue with me.
+Jeok Cheongang looked grim, but he didn’t argue. With far more years behind him than I had, he must have known it himself.
 
 What was going to happen would happen, one way or another.
 
@@ -88,7 +88,7 @@ I spoke with Wolhwa without knowing exactly who I was or where I was. That conve
 
 *And even that was so basic I had to lie to Jin Wikyung and tell him my memories were jumbled.*
 
-If even the tiniest fragment of a memory had remained, I could’ve adjusted to this strange world much faster.
+If the tiniest fragment of the original Taekyung’s memory had remained, I could’ve adjusted to this strange world much faster.
 
 You know how it goes in web novels. The protagonist gets hit with a splitting headache, and a flood of memories comes rushing in.
 
@@ -146,13 +146,13 @@ I’d simply assumed he’d disappeared the moment I took over this body.
 
 Maybe whoever had made the piece-of-junk capsule that brought me here had thought that was the better outcome, too.
 
-*But that wasn’t what happened?*
+*But what if he hadn’t disappeared?*
 
 For once, I didn’t know what to say.
 
 I rubbed my stomach, wearing an expression I couldn’t have described if I’d tried.
 
-Jeok Cheongang watched me in silence until he finally spoke.
+Jeok Cheongang watched me in silence for a moment.
 
 “I understand you’re feeling conflicted, but what the hell are you rubbing your stomach for? It’s not like you’re pregnant. You’re a hairy man, for crying out loud.”
 
@@ -162,7 +162,7 @@ Was this the danger of media?
 
 The moment I thought there might be something inside me, my hand had gone to my stomach on instinct.
 
-*Must be a side effect of watching too many commercials about babies and toddlers,* I muttered to myself. Then I quietly moved my hand from my stomach to my chest and looked at Jeok Cheongang.
+*Must be a side effect of watching too many commercials about babies and toddlers.*
 
 I quietly moved my hand from my stomach to my chest and looked at Jeok Cheongang.
 
@@ -198,7 +198,7 @@ I was already starting to regret it. I snatched my hand back, and Jeok Cheongang
 
 “What are you going to do if your feelings are hurt? What can you even do? Hm? You…”
 
-“Hey, why are you getting worked up all of a sudden? Calm down. Take it easy.”
+“Why are you getting worked up all of a sudden? Calm down. Take it easy.”
 
 Thankfully, Jeok Cheongang came to his senses at the last moment. He spoke calmly, as though nothing had happened.
 
@@ -212,9 +212,9 @@ If I told people and even one word got out, I’d go from Divine Dragon to Mad D
 
 Jeok Cheongang believed me because of what he’d seen and experienced himself. But if the truth about me became known throughout the world, the orthodox faction’s chivalrous heroes would take numbers and line up to tear me apart for using unprecedented dark arts.
 
-Who knew? Maybe I’d become the Lord of Heaven’s classmate as a public enemy of Murim.
+Who knew? Maybe I’d end up classmates with the Lord of Heaven in the public-enemy-of-Murim department.
 
-But in response to my obvious answer, Jeok Cheongang shook his head.
+But Jeok Cheongang shook his head at my answer.
 
 “No. There’s one more person besides me. Have you already forgotten?”
 
@@ -224,7 +224,7 @@ I’d asked on instinct. Now I clicked my tongue.
 
 Right. There was someone else.
 
-Someone who wasn’t close enough for me to have a deep conversation with about something like this, but who was still somewhat near the truth.
+We weren’t close enough to have a deep conversation about this, but she knew something of the truth.
 
 *That’s right. The Bow Saint.*
 
@@ -250,7 +250,7 @@ As if that were the answer.
 
 She’d believed the outlandish contents of a letter and spent decades wandering the world in search of me—or, more precisely, the “chosen one.”
 
-Aside from Jeok Cheongang, who was standing right in front of me, and the mysterious absolute being known as the Martial God, whose very survival was uncertain, the Bow Saint was unquestionably the right person to ask.
+Aside from Jeok Cheongang and the mysterious absolute being known as the Martial God, who might not even be alive, the Bow Saint was unquestionably the right person to ask.
 
 Of course, first she’d have to agree to talk.
 
@@ -266,9 +266,9 @@ Before I could finish, Jeok Cheongang guessed what I was about to say and shook 
 
 Hebei. The Peng Family.
 
-At the sound of those two words, something stirred in a corner of my chest.
+At those two words, something stirred deep in my chest.
 
-Someone came to mind—someone who’d done his best for everyone until the very last moment of his life, then left.
+I thought of someone who’d done his best for everyone until the very last moment of his life.
 
 “The Thunderbolt Saber King… Is he…?”
 
@@ -284,10 +284,10 @@ I nodded quietly instead of answering.
 
 Then Jeok Cheongang left, and silence settled into the space he’d occupied.
 
-A quiet that had finally come at long last—one I hadn’t felt in a very long time.
+For the first time in a long while, everything was quiet.
 
-*Open System window.*
+*Open System Window.*
 
 Ding.
 
-A clear chime shattered the silence.
+A clear chime broke the silence.
