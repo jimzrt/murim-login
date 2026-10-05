@@ -14,7 +14,7 @@ Hong Jin glanced between Hyuk Mujin and me, then murmured, his expression sudden
 
 “…?”
 
-“It’s all right, so don’t take it too hard. These things happen sometimes. It’s part of life.”
+“It’s all right. Don’t take it too hard. These things happen.”
 
 Could Hong Jin know, too?
 
@@ -38,7 +38,7 @@ Every incident had victims and perpetrators, and perpetrators had mouths, too.
 
 The rebels who were already dead—or waiting for death.
 
-Some of those who’d passed through Hong Jin’s and the Embroidered Uniform Guard’s hands must have been close aides to the Eastern Heaven Demon Lord, and known the Emperor had been poisoned with Blood Soul Gu.
+Some of those who’d passed through the hands of Hong Jin and the Embroidered Uniform Guard must have been close aides to the Eastern Heaven Demon Lord. They might have known the Emperor had been poisoned with Blood Soul Gu.
 
 “You must’ve found out while interrogating the prisoners. Which ones knew?”
 
@@ -118,7 +118,7 @@ My vision went dark in an instant, and my whole body trembled.
 
 I couldn’t breathe. My hands and feet shook, and I felt like I was about to cry.
 
-It was like turning on the TV one day out of boredom and finding a national broadcast channel throwing a wet-dream party for me.
+It was like turning on the TV one day out of boredom and finding a broadcast channel throwing a wet-dream party for me.
 
 Twitching like I was sick, I barely managed to force the words out.
 
@@ -158,9 +158,9 @@ At my sharp question, Hong Jin answered with a sad smile.
 
 “Okay, I get it. I get it, so please stop.”
 
-Using his eunuch trump card—one he pulled out whenever he was bored—to shut me up, Hong Jin held out something he’d been carrying and continued.
+Having shut me up with the eunuch trump card he pulled out whenever he felt like it, Hong Jin held out something he’d been carrying.
 
-“I was going to do that anyway. I’m a busy man, too. I only came to hand over the item I was asked to deliver.”
+“I was going to stop anyway. I’m busy, too. I only came to hand over the item I was asked to deliver.”
 
 My badly backfired question had snapped me to my senses. Only then did I notice the small iron chest in Hong Jin’s hand and remember why he’d come back.
 
@@ -198,9 +198,9 @@ I gave a slight nod, and a translucent holographic window opened between Hong Ji
 >
 > **Grade:** Peak  
 > **Restriction:** None  
-> **Description:** An iron chest made by mixing in a small amount of Ten-Thousand-Year Cold Iron. As you’d expect, it’s incredibly durable—perfect for use as a shield or for storing precious belongings.
+> **Description:** An iron chest made by mixing in a small amount of Ten-Thousand-Year Cold Iron. Naturally, it’s incredibly durable—perfect for use as a shield or for storing precious belongings.
 >
-> However, it has no fewer than five locks, so using it often may be a bit of a hassle.
+> However, it has five locks, so using it often may be a bit of a hassle.
 
 I read the text quickly and swallowed a dry laugh.
 
@@ -234,7 +234,7 @@ He didn’t wait for my answer before leaving the room. Before closing the door,
 
 “What…?”
 
-“He misses his one and only friend. He can’t come see you right now because of the circumstances, but he wants to make sure he sees you before he leaves.”
+“He misses his one and only friend. He can’t come see you right now, but he wants to make sure he sees you before he leaves.”
 
 His one and only friend.
 
@@ -242,7 +242,7 @@ Remembering what he’d said when he gave me the Myriad-Poison Ring at Qianqing 
 
 “Tell him I feel the same way.”
 
-Hong Jin answered with a slight smile of his own, then left. Once I’d confirmed that all signs of life around me had disappeared, I set the iron chest on the floor and abruptly held out my hand.
+Hong Jin answered with a slight smile, then left. Once I was sure no one else was nearby, I set the iron chest on the floor and held out my hand.
 
 *Inventory open. Summon.*
 
@@ -268,7 +268,7 @@ The blade passed cleanly through all five padlocks in a single stroke. I looked 
 
 *This is…*
 
-I’d known from the moment I first picked up the iron chest, but its contents were as spare as its weight was light.
+I’d known it was light from the moment I picked it up, and there wasn’t much inside.
 
 A dozen or so bamboo slips, so old they were practically rotting away.
 
@@ -280,7 +280,7 @@ The moment I saw them, an inexplicable shiver ran down my spine.
 
 These were the Eastern Heaven Demon Lord’s—or, to put it another way, what he’d left behind.
 
-They had to be worth more than gold and more dangerous than gunpowder, in ways that couldn’t be measured by their weight or shape alone.
+Surely they held something that couldn’t be measured by weight or shape alone. Something more valuable than gold and more dangerous than gunpowder.
 
 It didn’t take long for me to realize my instinct was right.
 
@@ -288,7 +288,7 @@ No—it took only moments.
 
 *Rustle.*
 
-The moment I untied the string around the bundle of papers on top, still pristine white, a bolt of lightning shot through the crown of my head.
+I untied the string around the still-white bundle of papers on top, and a bolt of lightning seemed to shoot through the crown of my head.
 
 “…!”
 
@@ -302,7 +302,7 @@ His voice echoed as if from far away.
 
 I struggled to contain the turmoil inside me and spoke.
 
-“……Go get them.”
+“…Get them.”
 
 “What?”
 
