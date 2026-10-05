@@ -6,7 +6,7 @@ Maybe that was because, in my memory, he was always so stiff and curt.
 
 “Hey, you awake?”
 
-I greeted him, glad to see him.
+I was glad to see him conscious.
 
 He was looking right at me, but the focus in his dazed eyes wavered.
 
@@ -24,7 +24,7 @@ Mukyung looked thoroughly confused. Beside me, Hyuk Mujin spoke up, worry plain 
 
 “Hmm. You think so?”
 
-“To be honest, I had a bad feeling about him. Isn’t he the old geezer who threatens to ram a giant needle into a patient’s Huiyin Acupoint if they refuse treatment? Captain, don’t you remember when he pulled that on you while we were trading blows with the Mount Heng Sword Sect?”
+“To be honest, I had a bad feeling about him. Isn’t he the old geezer who threatens to ram a giant needle into a patient’s Huiyin Acupoint if they refuse treatment? Captain, don’t you remember when he pulled that on you while we were fighting the Mount Heng Sword Sect?”
 
 Of course I remembered.
 
@@ -50,7 +50,7 @@ Hyuk Mujin gave a small bow and turned away. He was just about to take his first
 
 “Where… am I?”
 
-His lips were cracked like drought-stricken fields. His voice came out in broken, hoarse bursts.
+Mukyung’s lips were cracked like drought-stricken fields. The words came out in broken bursts.
 
 But it was too soon to relax.
 
@@ -74,7 +74,7 @@ I could guess what he was trying to ask. Since he was struggling to get the word
 
 “What about… the others?”
 
-His questions kept coming, one after another. I pretended not to hear and ignored them.
+One question led straight to another. I pretended not to hear.
 
 I couldn’t tell him yet.
 
@@ -114,7 +114,7 @@ Mukyung let out a shallow sigh.
 
 “Now, now. You can’t talk like that to your own brother. Spit while lying down, and it’ll land on your own face.”
 
-I didn’t bother adding *though in reality, I was an outsider with not a drop of their blood in me.*
+I didn’t bother adding that, in reality, I was an outsider with not a drop of their blood in me.
 
 At least in the world I was living in now—Murim—the three sons of the Jin Family of Taiyuan had been born to the same parents.
 
@@ -136,7 +136,7 @@ He still looked a little confused, but I shrugged it off.
 
 *Well, it happens. I have all kinds of dreams every time I pass out.*
 
-No—maybe it was one of the chronic problems shared by Hunters and Murim people alike.
+I was used to it. Maybe it was a chronic problem for a lot of Hunters and martial artists.
 
 Keep coming close to death, and your state of mind is bound to change. That unease often comes out in dreams.
 
@@ -188,7 +188,7 @@ I put on an innocent, confused expression. Mukyung sighed softly.
 
 “Thank you. I mean it.”
 
-“Hmm. Somehow it feels like I’m making you bow down and thank me.”
+“Hmm. Somehow I feel like I had to drag that out of you.”
 
 “…”
 
@@ -208,11 +208,11 @@ I wanted to tease him some more, but the look in his eyes told me I’d better s
 
 “Helped? Who?”
 
-“They’re here. The Fire King and the Bow Saint. They’re both pretty nice people.”
+“The Fire King and the Bow Saint. They’re pretty nice people.”
 
 “…?”
 
-“Oh, right. You passed out early, so you wouldn’t know. Somehow, they ended up coming with me.”
+“Oh, right. You passed out early, so you wouldn’t know. They ended up coming with me.”
 
 Mukyung had seen Jeok Cheongang while I was staying with the Jin Family of Taiyuan. But hearing that the Bow Saint was here, too, must have been a shock in his weakened state.
 
@@ -242,7 +242,7 @@ His words were starting to trip over themselves. I kindly nodded.
 
 “Exactly.”
 
-“……How did you even meet them?”
+“…How did you even meet her?”
 
 “At the Imperial Palace.”
 
@@ -276,7 +276,7 @@ Hmm.
 
 Ordinary people who couldn’t understand the thought process of a genius were everywhere.
 
-In any case, after hearing the bare minimum, Jin Mukyung finally understood the situation and nodded.
+Still, now that Mukyung had heard the bare minimum, he seemed to grasp the situation. He nodded.
 
 “So those two treated my internal injury.”
 
@@ -312,7 +312,7 @@ I scratched the back of my head.
 
 “The sudden change was strange, but deep down, I was a little happy. The youngest seemed to have been reborn as someone entirely new, and the more I got to know him, the more decent he seemed.”
 
-“At the very least, he wasn’t someone who’d laugh and chatter thoughtlessly while leaving behind the deaths and sacrifices of so many people.”
+Mukyung added, “At the very least, he wasn’t someone who’d laugh and chatter without a care after so many others had died or sacrificed themselves.”
 
 The corners of my mouth, which I’d forced upward, slackened.
 
@@ -322,4 +322,4 @@ Mukyung looked straight at me as my smile disappeared.
 
 The air grew heavy. My face, gone stiff, was reflected in his wavering eyes.
 
-“Who was it, and how many people were sacrificed?”
+“Who was it? How many people died?”

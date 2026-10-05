@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "a pair of blades",
+      "defect": "The Korean specifies 쌍도, a pair of swords, while “blades” leaves the weapon type generic.",
+      "id": "F01",
+      "rationale": "The source identifies what the bow transforms into as paired swords, not just two blades.",
+      "replacement": "a pair of swords",
+      "severity": "minor",
+      "source": "Lines 243–245"
+    },
+    {
+      "confidence": 0.84,
+      "current": "Talking nonstop.",
+      "defect": "“Nonstop” adds a claim about the duration or frequency of his talking that the Korean does not establish.",
+      "id": "F02",
+      "rationale": "The source says he is acting much cheerier than usual and chattering; it does not say he talks continuously.",
+      "replacement": "Chattering.",
+      "severity": "minor",
+      "source": "Line 321"
+    }
+  ],
+  "summary": "The translation is faithful overall, with two minor losses or additions in physical detail and dialogue intensity.",
+  "version": 1
+}
