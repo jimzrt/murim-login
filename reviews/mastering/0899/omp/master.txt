@@ -8,7 +8,7 @@ Clank. Clank.
 
 I might’ve been able to enjoy the feeling a little longer if not for those ominous metallic sounds.
 
-But the Embroidered Uniform Guards surrounding Hong Jin and me as they marched along showed no sign of offering that kind of consideration.
+But the Embroidered Uniform Guards marching around Hong Jin and me weren’t about to show me that kind of consideration.
 
 *To be fair, I’d be crazy to expect it.*
 
@@ -100,7 +100,7 @@ A sign that he’d understood exactly what I meant.
 
 “Poppy…?”
 
-“It’s the dried sap of the poppy. If you smoke it when your mind is troubled, sometimes it calms you down and makes you feel drowsy. It’s often used to relieve pain, but it’s highly addictive, so—”
+“It’s sap collected from poppies and dried. Smoke it when your mind is troubled, and it can calm your thoughts and make you feel drowsy. It’s mostly used to relieve pain, but it’s highly addictive, so—”
 
 Hong Jin’s voice faded to a distant echo.
 
@@ -110,13 +110,13 @@ Only one word floated through my mind.
 
 I might’ve treated school lessons as a chance to catch up on sleep, but at least a little basic knowledge had stuck.
 
-Especially since my world history teacher had a booming voice so passionate it could chase away the sleep that had already claimed me.
+Especially since my world history teacher had a voice loud enough to wake me from a dead sleep.
 
 *“Hey! Jin Taekyung!”*
 
 *“Hrk. Huh?”*
 
-*“You punk. What did the teacher just say? Don’t roll your eyes around—tell me.”*
+*“You punk. What did I just say? Don’t look around—tell me.”*
 
 *“Uh, well…”*
 
@@ -154,13 +154,13 @@ And that opium came from a plant called the poppy.
 
 I silently thanked my world history teacher, who’d been more passionate than anyone.
 
-Thanks to him, I’d just learned something new.
+Thanks to him, I’d just figured out something else.
 
 *Opium. No, that distinctive scent of poppy… I’ve smelled it before. Stronger than Hong Jin’s.*
 
 Just a few days ago.
 
-I’d definitely felt that déjà vu. And only now did I realize what I’d overlooked at the time.
+I’d felt that déjà vu then. Only now did I realize what I’d overlooked.
 
 *Listen carefully. Don’t react.*
 
@@ -188,13 +188,13 @@ He lay there for a while, soaked in cold sweat as he caught his breath. Then he 
 
 “Is anyone there?”
 
-The dry sound of his voice had barely faded when—
+His dry voice rang out.
 
 Rustle.
 
 A breeze from somewhere stirred the silk curtains. A thread of Sound Transmission slipped between them and reached his ear.
 
-*—At your command.*
+*—Your orders?*
 
 The man said nothing for a while. He ran a hand over his face.
 
@@ -212,7 +212,7 @@ Though some time had passed since he’d awoken, his heart still pounded fiercel
 
 “Then is he there, too?”
 
-He.
+*He.*
 
 Hardly enough to identify one person among the many gathered for the grand banquet. Yet the shadow in the darkness answered without hesitation.
 
@@ -238,13 +238,13 @@ The Emperor seemed to be speaking to himself, but he went on.
 
 The man frowned, but the shadow’s next words silenced him.
 
-*—Yes. ‘She’ personally intervened and stopped us.*
+*—No. ‘She’ intervened personally to stop us.*
 
 “…I see.”
 
 *—If you command it, we can act at once.*
 
-“No. No.”
+“No. Leave it.”
 
 He shook his head and slowly rose from his bed.
 
@@ -252,7 +252,7 @@ The room was far too vast to be one person’s bedchamber. Clad in sleeping robe
 
 Rustle. Thud.
 
-The soft silk slid over his skin and fell to the floor.
+Soft silk brushed his skin and fell to the floor.
 
 An ordinary person would have shivered at the sudden chill. But the man stood firm as an iron tower.
 
@@ -260,7 +260,7 @@ As he had when he led a great army to crush the rebels.
 
 As he had that day, more than a decade ago.
 
-But for all his enduring spirit, the figure reflected in the mirror bore little resemblance to the man he’d once been.
+Yet for all his enduring spirit, he could barely find the man he’d once been in the mirror.
 
 *I’ve aged. Beyond recognition.*
 
@@ -278,13 +278,13 @@ Only the path ahead remained. Just one step left to take.
 
 “It’s time for me to leave Qianqing Palace.”
 
-At his words, the darkness where the shadow had melted stirred, and Qianqing Palace, silent as a grave, sprang to life.
+At his words, the darkness where the shadow had vanished stirred. Qianqing Palace, silent as a grave, sprang to life.
 
 No. They had been ready from the beginning.
 
 Ready to kill and to die at the Emperor’s command.
 
-And on the roof of Qianqing Palace, its pulse throbbing like a volcano on the verge of eruption, a woman gazed up at the cloudy sky.
+On the roof of Qianqing Palace, throbbing with activity like a live volcano, a woman gazed at the cloudy sky.
 
 “Will it rain again today?”
 
@@ -298,7 +298,7 @@ The Grand Banquet Hall was unbelievably vast and impossibly quiet. Countless off
 
 For that moment, they were all blind, unable to see, and mute, unable to speak.
 
-Those who already knew what was happening quietly reflected on the lives they’d led up to then. Those who didn’t know were frozen in place by the suffocating presence that had swallowed the Grand Banquet Hall.
+Those who knew what was happening quietly reflected on the lives they’d led. Those who didn’t were frozen by the suffocating presence that had filled the hall.
 
 Who would speak first?
 
@@ -312,6 +312,6 @@ A voice broke the silence.
 
 “Five hours late. Are you kidding me?”
 
-Jin Taekyung’s gaze pierced the darkness beyond the flickering torches.
+Jin Taekyung stared through the darkness beyond the flickering torches.
 
-More precisely, it pierced the enormous golden procession approaching from beyond, like a dragon.
+At the enormous golden procession approaching from beyond it, like a dragon.
