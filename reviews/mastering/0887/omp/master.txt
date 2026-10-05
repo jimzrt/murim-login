@@ -46,7 +46,7 @@ A Supreme Peak master who’d reached the realm of Returning to Simplicity—abl
 
 *So that movement earlier wasn’t a fluke.*
 
-I suppressed the sigh threatening to escape and quietly clenched my fists.
+I held back a gasp and quietly clenched my fists.
 
 I had no weapon worth mentioning, and my body was in rough shape. No matter how optimistically I looked at it, I was in no condition to face a master a level above me.
 
@@ -74,7 +74,7 @@ A brief silence followed. So Gyo studied me with an expression I couldn’t read
 
 “Lives…”
 
-“Yeah. Depending on your answer, someone here is definitely going to die.”
+“Yeah. Depending on your answer, someone here is going to die.”
 
 “If it comes to that, we already know who it’ll be. Don’t we?”
 
@@ -88,7 +88,7 @@ But I didn’t waver.
 
 I’d been through too many bloodbaths to fear someone just because she was strong—as a Hunter and as a martial artist of Murim.
 
-“Yeah, maybe it’s already been decided to some extent. But who says only one of us has to die?”
+“Yeah, maybe we do know. But who says only one of us has to die?”
 
 “What?”
 
@@ -134,7 +134,7 @@ Hadn’t she said herself that one of the main reasons she stayed in the imperia
 
 *She meant to get the imperial palace—or rather, the Emperor—in her grip and pull the strings.*
 
-The Fourth Prince’s sudden rebellion. The deaths of the late Emperor and the direct imperial family, and everything that had happened since.
+The scattered pieces fell into place: the Fourth Prince’s sudden rebellion, the deaths of the late Emperor and his direct descendants, and everything that had happened since.
 
 But in the end, it had only been a partial success.
 
@@ -168,7 +168,7 @@ I was quiet for a moment. Not because I needed to think about my answer, but bec
 
 How many people had died already?
 
-Every time Dark Heaven made a move, hundreds died. Then thousands. Eventually, tens of thousands vanished as lonely ghosts.
+Every time Dark Heaven made a move, hundreds died. Then thousands. Eventually, tens of thousands vanished, leaving only lonely ghosts.
 
 If my life was enough to put an end to that, I’d count myself lucky. Of course, the best outcome would be for me to live and So Gyo to die…
 
@@ -180,7 +180,7 @@ This time, So Gyo fell silent. She kept her lips pressed together for a long whi
 
 “What the hell are you talking about, you crazy bitch?”
 
-“And I think I understand a little why Prince Shangshan, that child, looks up to you so much. Yes. I really do.”
+“And I think I understand a little of why Prince Shangshan, that child, is so attached to you. Yes, I do.”
 
 “Are you threatening me because you’ve got a kid hostage?”
 
@@ -196,7 +196,7 @@ So Gyo shook her head slightly.
 
 She went on slowly.
 
-“Everything has its time. Being born with heavenly patterns won’t let you escape death.”
+“Everything has its time, child. Even being born blessed by heaven won’t let you escape death.”
 
 Swish.
 
@@ -254,7 +254,7 @@ Strength. Stamina. Agility.
 
 I excelled in all three. I’d surpassed my limits.
 
-One of the main reasons I’d survived against enemies a level—or even two levels—above me was this body, which could wield superhuman strength without internal energy.
+One of the main reasons I’d survived enemies a level—or even two levels—above me was this body, capable of superhuman feats without internal energy.
 
 It could tear steel apart with bare hands, run for two days and nights without collapsing, and surge forward like the wind with a single push off the ground.
 
@@ -268,7 +268,7 @@ With a short shout, I threw both arms out with all my strength.
 
 Boom!
 
-With so much power and speed behind it, the compressed air burst apart. I felt the internal energy that had surrounded and pressed down on me from every direction scatter.
+The sheer force and speed burst through the compressed air. I felt the internal energy pressing down on me from every direction scatter.
 
 *Now!*
 
@@ -310,9 +310,9 @@ I wanted to ask her the same thing.
 
 How had she blocked the Flame-Extinguishing Divine Fist I’d thrown with all my strength so easily? How had she met that blinding speed and force head-on without even looking strained?
 
-*You damn bitch. Have some conscience and at least pretend you’re struggling.*
+*You damn bitch. Have some decency and at least pretend that hurt.*
 
-I grumbled to myself and gave a wry smile.
+I grumbled to myself and gave a rueful laugh.
 
 Why was I laughing now? I didn’t know. Maybe I really had gone crazy. Or maybe it was because I’d prepared myself to die before this fight began.
 
@@ -334,7 +334,7 @@ But this wasn’t a sport played in a ring. There was no referee to stop the mat
 
 That was what a life-and-death duel meant. I’d known it all along.
 
-*I’d already made my choice.*
+*I’m ready.*
 
 My body might be failing, but my resolve didn’t waver.
 
@@ -344,8 +344,8 @@ Fwoosh!
 
 The world slowed. The scenery around me shifted.
 
-And at the moment I surrendered my whole body to the heat, the wind, and the fighting spirit bubbling like lava—
+I gave myself over to the heat, the wind, and the fighting spirit bubbling through me like lava.
 
 Screeeech!
 
-With a violent whistle, a streak of light hurtled toward me like lightning.
+With a piercing whistle, a streak of light hurtled toward me like lightning.

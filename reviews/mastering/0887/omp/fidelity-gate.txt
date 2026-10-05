@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is largely faithful, but a few phrases add or lose source-specific meaning and imagery.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 197–203",
+      "current": "If my life was enough to put an end to that, I’d count myself lucky.",
+      "defect": "The Korean says it would be fortunate if he could settle the cost with his life alone; it does not say his death would put an end to Dark Heaven’s actions.",
+      "replacement": "If I could settle the score with my life alone, I’d count myself lucky.",
+      "rationale": "“퉁칠 수 있다면” expresses settling or making up for the losses with one person, not necessarily ending the cause of those losses.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 163–167",
+      "current": "countless people had gone to their deaths on the execution grounds",
+      "defect": "This drops the source’s execution-ground dew image, which the accepted baseline preserved.",
+      "replacement": "countless people had vanished like dew on the execution grounds",
+      "rationale": "The Korean uses the image “형장의 이슬로 사라졌어도” (“vanished as dew on the execution grounds”); the current line conveys the deaths but omits that image.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 233–239",
+      "current": "The belt around So Gyo’s slender waist unfurled—no, it was a flexible sword.",
+      "defect": "“Unfurled” adds a specific motion that the Korean does not describe.",
+      "replacement": "The belt around So Gyo’s slender waist—no, a flexible sword—was filled with powerful internal energy and pointed at me.",
+      "rationale": "The source identifies the object as a flexible sword and says it was aimed at him; it does not say the belt unfurled.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 345–349",
+      "current": "Elusive, yet graceful.",
+      "defect": "“Elusive” suggests difficulty catching or understanding her, rather than the light, ethereal quality of the source description.",
+      "replacement": "Ethereal, yet graceful.",
+      "rationale": "The Korean “표횰하면서도 우아하다” describes her movement as ethereal and graceful; “elusive” changes that physical impression.",
+      "confidence": 0.84
+    }
+  ]
+}
