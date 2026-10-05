@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful, but two phrases introduce or blur relationship and gender information not established by the Korean.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 141–143",
+      "current": "her uncle, Cheol Mubaek",
+      "defect": "“Uncle” can imply a blood relative, while 의숙 denotes a martial-uncle relationship. The English loses that relationship distinction.",
+      "replacement": "her martial uncle, Cheol Mubaek",
+      "rationale": "The source identifies Cheol Mubaek as 이소월’s 의숙, not simply as her uncle.",
+      "confidence": 0.83
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 225",
+      "current": "He told me to protect it.",
+      "defect": "The English assigns a male pronoun to the unidentified person; the Korean does not specify that person’s gender.",
+      "replacement": "They told me to protect it.",
+      "rationale": "The source refers to the speaker only as 누군가, leaving gender unspecified. The translation rules require preserving genuine ambiguity.",
+      "confidence": 0.91
+    }
+  ]
+}

@@ -4,7 +4,7 @@ Fifteen minutes.
 
 Too short to properly savor even a cup of tea, but plenty of time for the Fire Dragon Pavilion members, myself included, to finish our preparations.
 
-And to prepare a send-off no one else had expected.
+Plenty of time for others to prepare a send-off none of us expected, too.
 
 Whoooosh. Fwoosh.
 
@@ -16,21 +16,21 @@ Crunch.
 
 Footprints marked the snow-covered ground.
 
-Leaving behind hundreds of people standing like iron towers, each holding a torch in one hand, Jin Wikyung stepped forward alone. Then he suddenly spoke.
+Jin Wikyung stepped forward alone, leaving behind hundreds of people standing like iron towers, each with a torch in one hand. Then he spoke.
 
 “The prodigal son finally came home, only to leave again.”
 
 His voice was stern, as if he were passing judgment on a criminal, but *prodigal son* drew quiet laughter from here and there.
 
-By now, everyone in the Jin Family of Taiyuan knew it. Not just them, but all of Shanxi Province—or rather, the whole world.
+By now, everyone in the Jin Family of Taiyuan knew better. Not just them, but all of Shanxi Province—or rather, the whole world.
 
-Jin Taekyung was no longer a disgrace to his family or a dissolute rogue.
+The name Jin Taekyung was no longer a stain on his family or that of a dissolute rogue.
 
 Ever since the day, more than a year ago, when I defeated the traitors—including the Head Elder—and restored peace, I had been their pride and their symbol.
 
 “I never wanted to send you away again.”
 
-I shrugged at Jin Wikyung, who muttered the words with a bitter expression.
+I shrugged at the bitterness in Jin Wikyung’s voice.
 
 “What can I do? Guess it’s fate.”
 
@@ -46,7 +46,7 @@ It was much the same for the Bow Saint and the Embroidered Uniform Guard, who st
 
 A massive army and a small advance unit.
 
-It was obvious which would be slower and which would be faster. And that considerable gap in timing might become the flap of a butterfly’s wings somewhere far away and change a great many things.
+It was obvious which would be slower. And that considerable gap in timing might become the flap of a butterfly’s wings somewhere far away, changing a great many things.
 
 Of course, knowing that did nothing to ease his worry for his own flesh and blood.
 
@@ -70,7 +70,7 @@ When I first opened my eyes, I was a tadpole. I struggled to survive and became 
 
 I leaped and leaped with all my might until I escaped the well. Beyond it waited a world incomparably wider and more treacherous than the one I’d left behind.
 
-And at every fork in the road that blocked my way, I had always made a choice.
+And at every fork in the road, I had made a choice.
 
 “It’s the road I chose. I don’t know when I’ll be able to stop, but… I have to keep running. All the way to the end.”
 
@@ -142,13 +142,13 @@ Lee Seowol, forcing a smile despite the death of her uncle, Cheol Mubaek—the T
 
 The Jin Family of Taiyuan’s senior members, who had served Jin Wikyung with unwavering loyalty and helped him raise the once-declining family into one of the Five Great Families.
 
-The scouts who had once crossed life and death alongside me. The young brother and sister who had grown so much while I was away from the Jin Family of Taiyuan. And countless family retainers whose faces were more familiar than their names.
+The scouts who had once faced life and death alongside me. The young brother and sister who had grown so much while I was away. And countless family retainers whose faces were more familiar than their names.
 
 Every one of them was looking at me.
 
-As I met each person’s eyes, they smiled brightly, nodded quietly, and stamped their feet with such overwhelming emotion that their hearts seemed ready to burst.
+As I met their eyes one by one, they smiled brightly, nodded quietly, or stamped their feet, looking so overwhelmed their hearts might burst.
 
-Hard and strong. Without anyone having to lead, they stamped the ground, now blanketed in white, and drew their weapons like lightning.
+Their feet struck the white-covered ground, hard and steady. Without anyone taking the lead, they drew their weapons like lightning.
 
 Clang-clang-clang-clang!
 
@@ -156,7 +156,7 @@ Amid hundreds of swaying torches, a dazzling wave of steel lit up everything aro
 
 Thud. Thud. Thoom!
 
-The ground shook beneath their vigorous footfalls. My heart, which had gradually settled into a steady rhythm to match them, began to pound. Just then, Jin Wikyung’s quiet voice slipped into my ear.
+The ground shook beneath their powerful footfalls. My heart, which had been settling down, began to pound in time with them. Just then, Jin Wikyung’s quiet voice reached my ear.
 
 “Do you see it?”
 
@@ -164,7 +164,7 @@ I didn’t answer.
 
 No—I couldn’t.
 
-I could only listen to Jin Wikyung’s voice echoing around me, my chest trembling deep inside.
+With something trembling deep in my chest, I could only listen as Jin Wikyung’s voice echoed around me.
 
 “You are our pride.”
 
@@ -174,7 +174,7 @@ I could only listen to Jin Wikyung’s voice echoing around me, my chest trembli
 
 Go forward without hesitation, with all your might.
 
-Hearing the rest of his words swallowed by the fierce snowstorm, I finally moved my feet.
+I heard the rest of his words beneath the fierce snowstorm and finally began to walk.
 
 Crunch.
 
@@ -206,7 +206,7 @@ The Thousand-Faced Fox, Song Ho, lightly declined the Sword Saint Mae Jonghak’
 
 “I’ll try to guess after I hear what was said. I prefer figuring things out for myself to being given the answer.”
 
-“Wouldn’t most people choose the former?”
+“Wouldn’t most people rather hear the answer?”
 
 “As Chief of the Hidden Shadow Pavilion, shouldn’t I be able to manage at least that much?”
 
@@ -216,7 +216,7 @@ The Thousand-Faced Fox, Song Ho, lightly declined the Sword Saint Mae Jonghak’
 
 Still gazing out the window, Mae Jonghak answered.
 
-“He told me to protect it. The place where I stood, the convictions I held in my heart, and the world.”
+“To protect what mattered. The place where I stood, the purpose I held in my heart, and the world.”
 
 “……!”
 
@@ -234,9 +234,9 @@ The Thousand-Faced Fox let out a breath he’d been holding.
 
 The Thousand-Faced Fox nodded without a word.
 
-He certainly would have been pleased. Maybe he would even have clapped his hands and burst out laughing.
+The Martial God certainly would have been pleased. He might even have clapped his hands and burst out laughing.
 
-In Song Ho’s memories, the Martial God seemed to carry every worry in the world, yet at times he could be as innocent as a child.
+In Song Ho’s memories, the Martial God had seemed to carry every worry in the world, yet at times he could be as innocent as a child.
 
 “There’s something I’d like to ask you.”
 
@@ -258,7 +258,7 @@ But Mae Jonghak’s next words swept that fear away at once.
 
 “Hmm. Or tripling it? Then you wouldn’t have to worry about retirement.”
 
-The Thousand-Faced Fox stared blankly at Mae Jonghak, frozen like a statue. Then he suddenly burst into a hearty laugh.
+The Thousand-Faced Fox stared blankly at Mae Jonghak, frozen like a statue. Then he burst into a hearty laugh.
 
 When he stopped laughing, he answered.
 
@@ -276,13 +276,13 @@ A gust of qi swept through the air and threw open the firmly shut door. Beyond i
 
 “I’ll say this up front: as long as the amount is reasonable, I’m willing to turn a blind eye to whatever the Chief of the Hidden Shadow Pavilion does.”
 
-At the first playful remark from a middle-aged man, Mae Jonghak nodded with satisfaction.
+At the middle-aged man’s playful remark, Mae Jonghak nodded with satisfaction.
 
 “Clever, as always. You know just what to say and when.”
 
 “You’re too kind.”
 
-“Now then, did you complete your mission safely, Family Head Zhuge?”
+“Did you complete your assignment, Family Head Zhuge?”
 
 The middle-aged man, Zhuge Feng—the Crouching Dragon Guest—waved his tattered feather fan.
 
