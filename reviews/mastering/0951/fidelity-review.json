@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But the outcome had been staggering.",
+      "defect": "The source explicitly says Jamukha clearly proved his martial prowess after noting the staggering outcome. The assembled version omits that statement, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "The source states, “자무카는 자신의 무용을 똑똑히 증명했다,” before describing the battle. That explicit characterization is absent from the assembled English.",
+      "replacement": "But the outcome had been staggering. Jamukha proved his prowess beyond doubt.",
+      "severity": "minor",
+      "source": "Korean source lines 203–205"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, but it omits an explicit statement that Jamukha proved his prowess, a detail preserved in the accepted baseline.",
+  "version": 1
+}

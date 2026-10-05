@@ -2,7 +2,7 @@
 
 *Whoosh…*
 
-The sudden downpour sent everything into a flurry of activity.
+The sudden downpour sent the animals of the grasslands scurrying for shelter.
 
 Birds folded their wings and hurried into the grass. Beasts that had been prowling for food settled inside caves far from human footsteps.
 
@@ -22,13 +22,13 @@ Beyond the rain, so dense they could barely see an inch ahead, countless riders 
 
 *Splash! Thududududu!*
 
-Mud sprayed in every direction. Hooves trampled through puddles of standing water as the horses charged forcefully onward.
+Mud sprayed in every direction. Hooves struck the standing water and drove onward.
 
 At the head of the enormous, seemingly endless column, two men stood out.
 
 “It doesn’t look like it’s going to let up.”
 
-The lean man muttered as he gazed at the sky, then turned to the hulking man riding beside him.
+The lean man glanced at the sky, then turned to the hulking man riding beside him.
 
 “Temur.”
 
@@ -66,11 +66,11 @@ Only then did the furrow between Chinggen’s brows ease.
 
 “Good. That’s how it should be. Well done.”
 
-Temur swallowed dryly and nodded.
+Temur swallowed and nodded.
 
 “Thanks for the praise.”
 
-“Now it’s time for you to do your part as a khan. I can’t stand beside you and give you every little piece of advice forever, can I? Right, my proud brother?”
+“Now you must do your part as a khan. I can’t stand beside you and advise you on every little thing forever, can I? My proud brother?”
 
 *Tap.*
 
@@ -82,11 +82,11 @@ Chinggen patted his armor. Temur gave a start.
 
 “No. I know what’s in your heart better than anyone, brother.”
 
-Chinggen let out a quiet sigh, then suddenly clenched his teeth.
+Chinggen let out a quiet sigh, then clenched his teeth.
 
 “Those filthy, despicable bastards. Every one I capture, I’ll tear to pieces and throw to the eagles.”
 
-Chinggen’s voice rang through the rain. The nomads racing silently around them, their eyes fixed ahead, flashed killing intent in their eyes beneath their helmets.
+His voice rang through the rain. Beneath their helmets, the nomads riding silently around them fixed murderous eyes on the road ahead.
 
 Everyone on the grasslands knew of the massacre that had taken place that day.
 
@@ -104,17 +104,17 @@ They had burst in at the height of the feast and swung their weapons at anyone i
 
 By the grace of heaven, the two khans had survived. But after a fierce battle, most of their retainers lay in pools of blood.
 
-“My dear brother. If Tengri hadn’t watched over us, the eastern grasslands would have been torn apart in an instant and fallen into the hands of those Han Chinese.”
+“My dear brother. If Tengri hadn’t watched over us, the eastern grasslands would have been torn apart and fallen into Han Chinese hands.”
 
 Chinggen gripped his reins until his knuckles turned white.
 
-“It’s obvious what they were after. They must have judged that we’d become a threat, with each of us commanding a powerful force. At last, they’ve shown the ambition they’d kept hidden.”
+“It’s obvious what they wanted. They saw the powerful forces we each commanded and decided we were a threat. At last, they’ve revealed the ambitions they kept hidden.”
 
 At the cold look in Chinggen’s eyes, Temur answered in a voice rough as iron.
 
 “I—I think so too.”
 
-“It wasn’t just us. Everyone on this land was being used by them from the very beginning. Those despicable bastards were planning to seize the entire grassland all along.”
+“It wasn’t just us. Everyone on this land was being used from the beginning. Those despicable bastards must have intended to take the entire grassland all along.”
 
 The nomads listening to Chinggen’s seething voice nodded as one.
 
@@ -126,7 +126,7 @@ Even after their great ancestors had trampled the Central Plains beneath countle
 
 No—their contempt had become hatred.
 
-All because a mere band of barbarians had sullied the history of the continent.
+All because mere barbarians had sullied the history of the continent.
 
 But human beings were creatures of forgetfulness.
 
@@ -140,7 +140,7 @@ Perhaps that was why everyone had welcomed Temur and Chinggen with open arms whe
 
 “It was my mistake.”
 
-Chinggen lamented as the rain poured down on him.
+Chinggen spoke bitterly beneath the pouring rain.
 
 “I should have thought more deeply about what kind of people they were and why they’d agreed to work with us. Noble warriors of the grasslands died because their leader was ignorant and foolish.”
 
@@ -148,11 +148,11 @@ At the sight of his grief and regret, everyone lowered their heads.
 
 Then a calm, powerful voice spoke.
 
-“If you correct that mistake, the warriors of the grasslands will be welcomed into Tengri’s embrace.”
+“If you correct that mistake, the warriors of the grasslands will rest in Tengri’s embrace.”
 
 Chinggen’s eyes widened at the sight of a middle-aged man with the distinctive braided hairstyle of the nomads.
 
-“Why is Khan Jamukha here? You should be in the rear…”
+“Khan Jamukha? Shouldn’t you be in the rear…?”
 
 “Greetings, Khan Jamukha!”
 
@@ -178,7 +178,7 @@ Temur gazed at Jamukha with trembling eyes, then hurriedly nodded.
 
 Chinggen raised his voice so everyone around them could hear.
 
-“Those foolish Han Chinese probably never knew how strong Khan Jamukha was—not even as they were dying.”
+“Those foolish Han Chinese never knew how strong Khan Jamukha was. Not even as they were dying.”
 
 Chinggen needn’t have said a word. The eyes fixed on Jamukha were already full of admiration and reverence.
 
@@ -190,7 +190,7 @@ He had only a dozen or so personal guards with him.
 
 But the outcome had been staggering.
 
-With a mere handful of guards—barely a match for the enemy numbers—he had fought a battle against the Han Chinese that was little short of a massacre.
+Jamukha had proved his prowess beyond doubt. With a mere handful of guards, he had fought so many Han Chinese that the battle was little short of a massacre.
 
 In the end, the Han Chinese plot against the western grasslands had failed. Enraged, Jamukha had led his tribes toward the Central Plains.
 
@@ -198,7 +198,7 @@ Just as he was doing now.
 
 “It was nothing. My men were simply skilled.”
 
-Jamukha answered calmly and jerked his chin over his shoulder. His personal guards, clad in dark armor, galloped after him with expressionless faces.
+Jamukha jerked his chin over his shoulder. His personal guards, clad in dark armor, galloped after him with impassive faces.
 
 They were the elite warriors created by the great conqueror who had laid the foundations of the nomadic empire in the distant past.
 
@@ -236,9 +236,9 @@ At the sudden Sound Transmission in his ear, Jamukha’s lips moved.
 
 *That was…*
 
-*I won’t change my mind. We’ll put those children in the vanguard and cross the border in the shortest time possible.*
+*I won’t change my mind. I’ll put those children in the vanguard, and we’ll cross the border as quickly as possible.*
 
-*There could be a trap. The place is crawling with fodder to take arrows for us. Why waste precious forces?*
+*There could be a trap. We have men everywhere who can take the arrows for us. Why waste valuable fighters?*
 
 *What trap? Fire King and Jin Taekyung, who won’t reach Shanxi Province for several days? Or those insignificant Shanxi fools?*
 
@@ -258,7 +258,7 @@ Beside Temur, who had yielded to the overwhelming difference in strength and eve
 
 *Compared to that dead man, this idiot…*
 
-*I kept him alive because he’s an idiot. Someone who’s surrendered deep in his heart is that much easier to handle.*
+*I kept him alive because he’s an idiot. A man who’s surrendered in his heart is easier to handle.*
 
 *I’ll grant you that. Thanks to his cooperation, far more barbarians gathered than I expected.*
 
