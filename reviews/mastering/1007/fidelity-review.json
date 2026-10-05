@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "the river flowing through the region came to be called the Yellow River",
+      "defect": "“Flowing through the region” changes the river’s described relation to the area: the Korean says the area was its starting point.",
+      "id": "F01",
+      "rationale": "일대를 기점으로 흐르던 describes the river as flowing with that area as its point of origin, not merely passing through it.",
+      "replacement": "the river that flowed from the region came to be called the Yellow River",
+      "severity": "minor",
+      "source": "Korean source lines 7–8"
+    },
+    {
+      "confidence": 0.91,
+      "current": "He’s a bear until it suits him to be a fox.",
+      "defect": "This implies he is normally bear-like and turns fox-like when convenient. The Korean says that, at times like this, he is not a bear but entirely a fox.",
+      "id": "F02",
+      "rationale": "곰이 아니라 순 여우라니까 contrasts the bear with someone who is purely fox-like; it does not establish the translation’s usual-versus-exceptional pattern.",
+      "replacement": "At times like this, he’s not a bear at all—he’s a straight-up fox. Am I right, brothers?",
+      "severity": "minor",
+      "source": "Korean source line 193"
+    }
+  ],
+  "summary": "The assembled translation is largely faithful, with two minor meaning shifts.",
+  "version": 1
+}

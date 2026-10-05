@@ -64,7 +64,7 @@ Everyone turned toward the former mounted bandit. He blinked.
 
 “And how many scouts left half a shichen ago?”
 
-“Exactly thirty. Was that when they got their horses earlier? I remember because they made a huge fuss, demanding better mounts since they had to patrol until sunset……”
+“Exactly thirty. I remember because when we gave them their horses, they raised hell demanding better mounts for a patrol that would last until sunset…”
 
 His voice cut off.
 
@@ -82,7 +82,7 @@ Only then did the martial artists realize something was wrong. Their eyes darted
 
 *Maybe someone had to take a dump?*
 
-*You can shit anywhere, cover it up, and call it a latrine. What kind of lunatic would abandon a mission just to come back and relieve himself?*
+*You can shit anywhere, cover it up, and call it a latrine. What kind of lunatic abandons a patrol to come back for that?*
 
 *Doesn’t everyone? I do.*
 
@@ -94,25 +94,25 @@ No matter how they put their heads together, no matter what explanation they cam
 
 Gulp.
 
-In the strange tension, just as someone swallowed dryly—
+In the strange tension, someone swallowed dryly.
 
 Fwoooosh! Boom!
 
-Hundreds of jang away, red smoke shot up from the pale cloud of dust. The Captain recognized what the signal flare assigned to the scouts meant and forced his voice out.
+Hundreds of jang away, red smoke shot up from the pale cloud of dust. The Captain recognized the scouts’ signal flare and forced the words out.
 
 “Suspicious person spotted…!”
 
 That was the signal for someone acting strangely—an unfamiliar intruder.
 
-At last realizing what was happening, the martial artists atop the wall shouted as if coughing up blood.
+The martial artists atop the wall finally grasped what was happening and shouted themselves hoarse.
 
 “This is real! It’s really happening!”
 
-“What are you waiting for, you bastards? Move your asses!”
+“What are you waiting for, you bastards? Move!”
 
 “L-let the Sect Leader know! Hurry!”
 
-The wall erupted into chaos as if a powder magazine had exploded. Meanwhile, the flare that had burst brilliantly in the sky slowly drifted down over the thirty scouts racing toward them with all their might, raising a cloud of dust.
+The wall erupted into chaos as though a powder magazine had exploded. Above the thirty scouts racing toward it with all their might, kicking up dust, the flare that had burst so brilliantly in the sky began to drift down.
 
 On one of the dozens of winding hills, a group stood watching with the shadows at their backs.
 
@@ -124,7 +124,7 @@ There were about fifty unidentified riders. At their head, a giant of a man let 
 
 The giant frowned.
 
-“I didn’t think they’d panic and run. We even brought a white flag just in case. Why are those bastards so scared?”
+“I didn’t think they’d panic and run. I even brought a white flag just in case. Why are those bastards so scared?”
 
 “Do you really need to ask? Look at your face, Big Brother. Who’s going to take a white flag as a friendly gesture from someone who looks like you?”
 
@@ -142,7 +142,7 @@ Agreement erupted from all around them.
 
 “Damn it. This whole thing’s going to shit, and now I’m getting nervous. What if we ride over there and they shower us with arrows?”
 
-“Can’t be helped. Big Brother, since it’s come to this, let’s just turn around and go back.”
+“Can’t be helped. Big Brother, since it’s come to this, let’s turn around while we still can.”
 
 “Second Brother, are you scared?”
 
@@ -156,7 +156,7 @@ Agreement erupted from all around them.
 
 “Bah! Must you see your own coffin before you learn your lesson?”
 
-“I’m going to lose my mind if I have to keep listening to that. You’ve picked up a weird habit. So, Big Brother, what are you going to do?”
+“I’m going to lose my mind if I have to keep hearing that. What a weird habit to pick up. So, Big Brother, what are we going to do?”
 
 At the question from the man called Third Brother, the giant, who’d stayed silent through the rapid-fire exchange, finally spoke.
 
@@ -242,7 +242,7 @@ Jeok Cheongang, standing beside me, nodded.
 
 The Wind-and-Cloud Sword Lord looked appalled by my clear-cut conclusion. The Black Night King, Sima Gong, burst into hearty laughter instead.
 
-“Haha! Straight to the point. We could’ve used someone like you on our side.”
+“Haha! I like how you handle things. We could’ve used someone like you on our side.”
 
 “…”
 
