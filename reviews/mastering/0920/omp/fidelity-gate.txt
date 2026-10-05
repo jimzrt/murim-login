@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled chapter is faithful overall, with one unsupported detail added to the weapon’s formation.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 363–367",
+      "current": "nocked against the shining bowstring",
+      "defect": "The Korean says a brilliant shaft of light appears in midair, caught on the flash. It does not identify a bowstring or describe the shaft as nocked, adding a specific mechanism to the image.",
+      "replacement": "caught on the flash",
+      "rationale": "The source describes the light beam in relation to the flash, without naming a bowstring or nocking action.",
+      "confidence": 0.89
+    }
+  ]
+}

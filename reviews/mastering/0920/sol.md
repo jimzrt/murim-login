@@ -14,7 +14,7 @@ A dazzling flash filled their vision. For a moment, they could only stare. It wa
 
 *KABOOM!*
 
-A tremendous roar battered their ears. An irresistible force swept over their bodies, frozen like stone statues.
+A tremendous roar battered their ears. An irresistible force swept through their bodies, frozen like stone statues.
 
 *Crunch! Fwoosh!*
 
@@ -60,11 +60,11 @@ Some of the Imperial Guards, long since recruited by the Eastern Heaven Demon Lo
 
 One strike.
 
-A single strike had killed or incapacitated more than fifty soldiers.
+A single strike had killed or incapacitated some fifty soldiers.
 
 Each had charged at the vanguard without hesitation, and each was a formidable fighter, ranging from Supreme First Rate to Peak.
 
-Compared to the full force of some three thousand, it wasn’t a major loss. But everyone had stopped because that one attack had swallowed dozens of Peak masters in its terrifying power.
+Compared to a force of nearly three thousand, the loss was not great. Yet everyone had stopped. One attack had swallowed dozens of Peak masters with terrifying power.
 
 No—it was the master behind that attack, whose might seemed almost demonic, who had stopped them.
 
@@ -92,7 +92,7 @@ A breeze stirred the woman’s thick hair.
 
 “So Gyo…!”
 
-In the silence that had fallen over the hall, a cry like a scream rang out belatedly. The woman—no, So Gyo—lifted her head and looked toward the voice.
+In the silence that had fallen over the hall, a belated cry rang out, almost a scream. The woman—no, So Gyo—lifted her head toward the voice.
 
 More precisely, toward the person standing there.
 
@@ -104,7 +104,7 @@ Her lips moved without a sound, and her dark blue eyes grew solemn.
 
 The hundreds of steps leading up to the dais were already buried beneath countless bodies.
 
-The thousand or so dead had been torn to shreds and finally died—or lay there writhing with their limbs severed.
+The thousand or so dead had been torn to shreds and finally killed—or lay there writhing with their limbs severed.
 
 As if hoping someone would put an end to their stubborn lives.
 
@@ -146,7 +146,7 @@ So the Emperor gave him a request, not an order.
 
 Baek Yeon’s eyes trembled.
 
-Taking in the Emperor’s exhaustion, his fatigue more visible than ever, he bowed deeply and extended a palm toward the great drum that had announced the start of the banquet.
+He took in the Emperor’s face, more exhausted than he had ever seen it, then bowed deeply and thrust a palm toward the great drum that had announced the start of the banquet.
 
 *Boom!*
 
@@ -162,11 +162,11 @@ The sound was immense enough for everyone in the grand banquet hall to hear. No�
 
 *Booooom!*
 
-Even when the third drumbeat rang out, the three thousand rebels didn’t know what to do. They hesitated.
+Even when the third drumbeat rang out, the nearly three thousand rebels could only hesitate.
 
 It had all unfolded so naturally.
 
-So Gyo’s overwhelming display of martial power had abruptly swept through the vanguard, and the drumbeat resounded with a grandeur they couldn’t explain. For a moment, they had been overwhelmed before they even knew it.
+So Gyo’s sudden, overwhelming attack on the vanguard. The drumbeat, resounding with a grandeur they could not explain. Before they knew it, they had been overwhelmed.
 
 Even the Eastern Heaven Demon Lord—the instigator and center of the rebellion, who should have been leading them from the front—lay in a horrific state at Jin Taekyung and Jeok Cheongang’s feet.
 
@@ -178,7 +178,7 @@ The Imperial Guards and East Depot leaders who had betrayed the imperial court a
 
 When they took the Outer Palace, they had thought it was all over.
 
-Even when they had seized every gate leading into the imperial palace and defeated the remaining defenders, taking advantage of another allied force sweeping through the capital, they had been certain a new age was about to begin.
+When another allied force swept through the Imperial Capital and they used the opportunity to seal every gate leading into the imperial palace and defeat its remaining defenders, they had been certain a new order was about to begin.
 
 But the reality they had so eagerly come to meet was different. The battle should have been theirs already.
 
@@ -192,15 +192,15 @@ Another drumbeat reached their ears.
 
 Every hair on their bodies stood on end. A chill ran down their spines.
 
-The fourth drumbeat was no louder than the ones before it, nor did it have a deeper, more resonant ring.
+The fourth drumbeat was no louder than the ones before it. Nor did it have the same deep, resonant power.
 
 Yet it made the rebels’ hearts sink for one reason alone.
 
 Behind them.
 
-The sound came not from Baek Yeon, visible in the distance, but from somewhere behind them.
+It came not from Baek Yeon, visible in the distance, but from somewhere behind their backs.
 
-And then it spread in every direction.
+Then more answered it from every direction.
 
 *Boom. Boom-boom.*
 
@@ -210,7 +210,7 @@ They were the signal that this long and gruesome banquet was coming to an end—
 
 *Rumble.*
 
-How long had this been going on?
+When had this begun?
 
 Where had such a vast army been hiding, and why had it waited until now?
 
@@ -222,7 +222,7 @@ Then they saw them.
 
 Hundreds of flags rising high on every side.
 
-Following the fluttering flags, a dragon embroidered in golden thread writhed as though alive.
+On the fluttering flags, dragons embroidered in golden thread seemed to writhe as though alive.
 
 “……!”
 
@@ -260,9 +260,9 @@ Already driven to the edge of a cliff, they had no other choice.
 
 A body without a head could not move.
 
-Capturing the Emperor and his family to make the rebellion succeed was the only way forward.
+Capturing the Emperor and his family, and making the rebellion succeed, was their only path to survival.
 
-“Whoever captures the Emperor and his family will become a marquis and enjoy wealth and glory for generations to come!”
+“Whoever captures the Emperor and his family will be made a marquis! Your descendants will enjoy wealth and glory for generations!”
 
 At that moment—
 
@@ -300,7 +300,7 @@ But only So Gyo had realized the other person’s true identity.
 
 *So it was you.*
 
-Swallowing a cryptic murmur, So Gyo silently looked down at the battlefield spread out beneath her.
+Swallowing those words, So Gyo looked down at the battlefield spread out beneath her.
 
 It was vast. And it was horrific.
 
@@ -314,7 +314,7 @@ Amid the enemies’ thunderous shouts, a cold wind billowed her silky hair. It c
 
 Thick enough to draw fragments of the past up from where time had buried them.
 
-Thick enough to revive the horrific memories she’d wanted to forget but never could.
+To bring back the horrific memories she had wanted to forget but never could.
 
 Perhaps that was why she felt not the slightest joy, though she had found the answer—the key—she had sought for so long.
 
@@ -344,7 +344,7 @@ A pure-white flash joined the two angled ends that had made the pieces look like
 
 Just as it had in the distant past.
 
-Still bearing the splendor of an age when it had been divine punishment to some, salvation to others.
+Still bearing the power it had wielded in an age when it had been divine punishment to some and salvation to others.
 
 “It’s been a long time.”
 
@@ -356,7 +356,7 @@ Then, as she had done tens of thousands of times before, she gripped the flash j
 
 A brilliant shaft of light took shape in midair, nocked against the shining bowstring.
 
-The unbelievable sight stirred the old memories of someone watching from afar. It raised someone’s figure from a past buried in dust.
+The unbelievable sight stirred the old memories of someone watching from afar. From a past buried in dust, it drew out the figure of a woman.
 
 An old woman who had ruled the battlefield with a bow larger than any other, unleashing Force like lightning.
 
