@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is faithful overall, with one lost source-specific image.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 25–27",
+      "current": "Someone had once said there was beauty in the sight of a person who had given their all.",
+      "defect": "The source specifically describes the person's back (뒷모습); the English generalizes this to their overall sight, losing the image preserved in the accepted baseline.",
+      "replacement": "Someone had once said there was beauty in the back of a person who had given their all.",
+      "rationale": "The Korean says “최선을 다한 자의 뒷모습은 아름답다고”—that the back of someone who gave their all is beautiful.",
+      "confidence": 0.97
+    }
+  ]
+}

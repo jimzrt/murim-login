@@ -6,27 +6,27 @@ But the winter one man—an emperor, or rather a man named Zhu Di—had to endur
 
 More than ten long years.
 
-For all that time, long enough for the world to change beyond recognition, he fought illness. He had to learn martial arts just to stay alive, and with the blades of rebellion lurking on every side, not a single day passed when he could sleep easy.
+For all that time, long enough for the world to change beyond recognition, he fought against illness. He had to learn martial arts just to stay alive, and not a single day passed when he could sleep easy, with the blades of rebellion lurking on every side.
 
 *Spring, regained after such a long wait.*
 
 The Emperor smiled bitterly.
 
-At last, the long winter had ended and warm spring had come. Yet he still shivered with cold.
+At last, the long winter had ended, and warm spring had come. Yet he still shivered with cold.
 
 “I was prepared for this. Have been for a long time. So…”
 
-The Emperor murmured the words calmly, then fixed his gaze on the young man before him.
+The Emperor murmured calmly, then fixed his gaze on the young man before him.
 
 “You don’t need to look at me like that.”
 
-Someone had once said there was beauty in the sight of a person who had given their all.
+Someone had once said that the back of a person who had given their all was beautiful.
 
 But there was nothing beautiful about someone wasting away after giving everything they had.
 
-The sight stirred only a bitter feeling that was hard to name.
+It only stirred up a bitter, indistinct sadness.
 
-That was the look in the eyes of the young man staring at the Emperor now: Jin Taekyung.
+That was exactly the look in the eyes of the young man staring at the Emperor now: Jin Taekyung.
 
 “How much time do you have left?”
 
@@ -36,29 +36,29 @@ That was the look in the eyes of the young man staring at the Emperor now: Jin T
 
 “Did it sound like a joke?”
 
-“……!”
+“……”
 
 “Even making it this far is a miracle. If I hadn’t learned martial arts, and if I hadn’t had the help of Baek Yeon and the Bow Saint, I’d already be dead.”
 
 The vitality and physical strength of a Supreme Peak master were beyond comparison with those of ordinary people.
 
-That was why the Emperor had learned martial arts—not to become stronger for its own sake, but solely to survive.
+That was why the Emperor had learned martial arts—not to become stronger, but solely to survive.
 
 He had to grow stronger to resist the Blood Soul Gu’s poison.
 
-But even the precious time he had bought himself was now drawing to a close.
+But even that precious time he had bought himself was now drawing to a close.
 
 “Not long ago, I found myself wondering something. If I’d been born with martial talent like yours, perhaps I could’ve completely suppressed the Blood Soul Gu.”
 
 “Don’t talk like you’re helpless. Making it this far is already incredible. If you don’t give up and keep working at it…”
 
-“Do you really believe that? Honestly, without the slightest bit of pity or a single lie?”
+“Do you really believe that? Sincerely, without a trace of pity or deceit?”
 
 Jin Taekyung was at a loss for words. The Emperor continued, his voice calm.
 
 “I don’t need half-hearted comfort. I know reality better than anyone.”
 
-Despite having been taught by two peerless masters—the Bow Saint and Baek Yeon—and having absorbed all manner of elixirs, he had only reached the early stage of Supreme Peak.
+Despite having been taught by two peerless masters—the Bow Saint and Baek Yeon—and having absorbed all manner of elixirs, he had only reached the early stages of Supreme Peak.
 
 Of course, the Blood Soul Gu’s poison had made learning martial arts no easy task. But the fact that even bone-deep effort and the finest possible conditions hadn’t brought him any further meant one thing.
 
@@ -78,7 +78,7 @@ The Emperor’s complexion was pale as he let out a series of small coughs. That
 
 It was a word he hadn’t heard in a long time.
 
-And the Emperor already knew what Taekyung meant by it.
+And at the same time, the Emperor already knew what Taekyung meant by it.
 
 “It’s too soon to give up.”
 
@@ -96,29 +96,29 @@ Taekyung fell silent.
 
 There was no need to ask how the examination had gone. Everything the Emperor had said and done until now was proof enough.
 
-“He said it was too late. He shook his head and said there was nothing he could do for me right now.”
+“He said it was too late. He shook his head and said there was nothing he could do about it for now.”
 
 It was the judgment of the Divine Physician, whose medical skill was the greatest under heaven.
 
-Unless the Great Firmament Immortal himself intervened, it was as good as confirmation that no human being could overcome this illness.
+Unless the Great Firmament Immortal got involved, it was as good as confirmation that this was an illness no human being could overcome.
 
 “And yet, all of a sudden, I felt ridiculous.”
 
 The Emperor continued with a bitter smile.
 
-“I thought I’d prepared myself and accepted everything long ago. But when the Divine Physician confirmed it, I felt as though a part of my chest had gone hollow.”
+“I thought I’d already prepared myself for everything and accepted it long ago. But when the Divine Physician confirmed it, I felt as if something inside my chest had gone hollow.”
 
 At last, spring had come.
 
 No—he had reclaimed spring.
 
-He had lived fiercely, and he wanted to keep doing so.
+He had lived fiercely, and wanted to keep doing so.
 
 But he didn’t have much time left.
 
 “Earlier, I told you I had no regrets left. That I was content.”
 
-Taekyung finally spoke.
+Taekyung, who had been silent, parted his lips.
 
 “I know. I knew you didn’t mean it.”
 
@@ -126,43 +126,43 @@ Taekyung finally spoke.
 
 The Emperor breathed heavily.
 
-The crushing pressure on his chest, as if an enormous boulder were weighing it down, wasn’t caused only by the Blood Soul Gu that had eaten away at his body and mind over the years.
+The crushing pressure on his chest at that moment, as if an enormous boulder were weighing it down, wasn’t caused only by the Blood Soul Gu that had eaten away at his body and mind over the years.
 
 “There’s… so much I have to take care of before I die.”
 
 The Emperor knew.
 
-The spring he’d fought so hard to reclaim, its warmth, was only a passing spring breeze—a brief respite.
+The spring he’d fought so hard to reclaim, its warmth, was only a passing breeze—a brief respite.
 
-Before long, a cold frost would fall over the land and cover it all.
+Before long, a cold frost would fall over the land and blanket it all.
 
-“There will be a war. One more brutal and vast than any before it.”
+“There will be a war. One more brutal and devastating than any before it.”
 
 The calm before the storm.
 
-Four characters that described the present situation more accurately than anything else.
+Four characters that described the current situation more accurately than anything else.
 
-And the weight of that coming storm would fall on whoever stood as ruler of the continent after the Emperor.
+And at the same time, it was the weight someone would have to bear when he stood as ruler of the continent after the Emperor.
 
 “Bao’er.”
 
-One name slipped from the Emperor’s dry lips.
+One person’s name slipped from the Emperor’s dry lips.
 
-Prince Shangshan. No—the Imperial Younger Brother, Zhu Bao.
+Prince Shangshan. No—the Crown Prince, Zhu Bao.
 
-His last lingering attachment, the one who made him look back again and again as he neared the end of his life. His own flesh and blood, so precious he could never bear to see him hurt.
+His last lingering attachment, the one who made him look back again and again at the end of his life. His flesh and blood, so precious he could never bear to see him hurt.
 
-The little boy who wasn’t here had become a great boulder pressing down on the Emperor’s chest.
+The little boy who wasn’t here had become a great boulder, pressing down on the Emperor’s chest.
 
 “He’ll surely become a sage king. He’ll be loved and praised by all the people, and bring peace and prosperity to this land.”
 
 But peace had already been broken.
 
-To survive the flames of war that would sweep across the continent, the boy would have to become a conqueror, not a sage king.
+To survive the flames of war that would sweep across the continent, the boy would have to become a ruthless ruler, not a sage king.
 
 “That burden will be too much for him.”
 
-The Emperor knew better than anyone how heavy and overwhelming the title *Son of Heaven* could be.
+The Emperor knew better than anyone how heavy and overwhelming the two words *Son of Heaven* could be.
 
 Perhaps by the heavens’ grace, his youngest brother had been born with the qualities of a sage king. But he was still far too young.
 
@@ -172,9 +172,9 @@ And too young to weather a war.
 
 *I want to live. I still have things to do for that boy, for this country and its people.*
 
-The Emperor said it only in his heart.
+The Emperor murmured to himself.
 
-He knew reality wouldn’t change no matter how desperately he wished it would, so he swallowed the words. As the ruler, who must never waver, he couldn’t say them aloud.
+He knew reality wouldn’t change no matter how desperately he wished it would, so he had to swallow his words. And because he was the ruler, who must never waver, he couldn’t say them aloud.
 
 *What’s the point of lamenting? It’s all futile anyway.*
 
@@ -198,7 +198,7 @@ The Emperor waited patiently for the rest. Then he couldn’t hold back any long
 
 “Oh, that.”
 
-Taekyung blinked as though he’d just remembered something he’d forgotten long ago, then scratched his chin.
+Taekyung blinked, as though he’d just remembered something he’d forgotten long ago, and scratched his chin.
 
 “I just won’t tell you. Let’s move on.”
 
@@ -210,7 +210,7 @@ Taekyung blinked as though he’d just remembered something he’d forgotten lon
 
 The Emperor was so dumbfounded he was about to continue, but Taekyung spoke first.
 
-“Just be honest. Say you want to live.”
+“Just be honest. Tell me you want to live.”
 
 “……!”
 
@@ -218,9 +218,9 @@ The Emperor was so dumbfounded he was about to continue, but Taekyung spoke firs
 
 The Emperor’s pupils trembled.
 
-It wasn’t because of Taekyung’s outrageous disrespect.
+It wasn’t because of Taekyung’s wildly disrespectful behavior.
 
-It was the embarrassment of having the truth he’d kept so tightly hidden laid bare, as if he’d been stripped naked.
+It was the embarrassment of having his tightly concealed truth laid bare, as if he’d been stripped naked.
 
 “I am… the Son of Heaven.”
 
@@ -228,7 +228,7 @@ It was the embarrassment of having the truth he’d kept so tightly hidden laid 
 
 “That’s enough!”
 
-The Emperor’s low shout didn’t faze Taekyung. His words came in a rush.
+The Emperor’s low shout didn’t faze Taekyung. He fired off his words like a machine gun.
 
 “When someone says something hurtful, it hurts. When you get cut by a blade, you bleed. When you’re facing a hard reality, you lose heart. It’s the same for everyone. What’s different about wearing golden silk embroidered with dragons and looking down on all the civil and military officials?”
 
@@ -240,9 +240,9 @@ The Emperor, his face clouded with confusion, wondered to himself:
 
 Why had he summoned Jin Taekyung here today? Why had he let out thoughts he’d never shared with anyone?
 
-And why, after such insolence, did he feel no anger?
+And why, despite being subjected to such insolent behavior, did he feel no anger?
 
-Then he let out a quiet laugh.
+Then, at last, he let out a quiet laugh.
 
 “Do you know something?”
 
@@ -284,11 +284,11 @@ The Emperor suddenly burst into loud laughter. Before long, he coughed up blood 
 
 “You said you were a father. If you don’t like me calling you Dad, I’ll call you Mom.”
 
-“What kind of madman are you?”
+“Have I ever seen a lunatic like this?”
 
-The Emperor laughed so hard he could barely breathe. Still grinning, he spoke again.
+The Emperor had been laughing so hard he was nearly out of breath. With a broad grin still on his face, he spoke.
 
-“Do you know what I was about to say a moment ago?”
+“Do you know what I was about to say just now?”
 
 “You mean the thing I said I didn’t know?”
 
@@ -304,7 +304,7 @@ The Emperor stared at Taekyung, who was still playing coy, then slowly parted hi
 
 Jin Taekyung grinned.
 
-“Now you sound like a person.”
+“You sound like a person now.”
 
 “But reality hasn’t changed. I didn’t want to make a pitiful spectacle of myself.”
 
@@ -314,7 +314,7 @@ Jin Taekyung grinned.
 
 “I cried. Three days ago.”
 
-Despite what he was saying, Taekyung’s voice held a hint of laughter.
+Despite what he was saying, Taekyung continued in a voice edged with laughter.
 
 “I’m not exaggerating one bit. I bawled my eyes out, with snot running everywhere. I writhed around like a grub and begged the heavens to save me. I told them I still had so much left to do. That there were precious people I absolutely had to see one more time.”
 

@@ -50,17 +50,17 @@ But even the precious time he had bought himself was now drawing to a close.
 
 “Not long ago, I found myself wondering something. If I’d been born with martial talent like yours, perhaps I could’ve completely suppressed the Blood Soul Gu.”
 
-“Don’t talk like you’re helpless. Making it this far is already incredible. If you don’t give up and keep working at it…”
+“Don’t talk like that. Making it this far is already incredible. If you don’t give up and keep working at it…”
 
 “Do you really believe that? Honestly, without the slightest bit of pity or a single lie?”
 
-Jin Taekyung was at a loss for words. The Emperor continued, his voice calm.
+Taekyung was at a loss for words. The Emperor continued, his voice calm.
 
 “I don’t need half-hearted comfort. I know reality better than anyone.”
 
 Despite having been taught by two peerless masters—the Bow Saint and Baek Yeon—and having absorbed all manner of elixirs, he had only reached the early stage of Supreme Peak.
 
-Of course, the Blood Soul Gu’s poison had made learning martial arts no easy task. But the fact that even bone-deep effort and the finest possible conditions hadn’t brought him any further meant one thing.
+Of course, the Blood Soul Gu’s poison had made learning martial arts no easy task. But the fact that even relentless effort and the finest possible conditions hadn’t brought him any further meant one thing.
 
 A limit.
 
@@ -70,7 +70,7 @@ The Emperor had neither the talent to break through the enormous wall in front o
 
 *Ka-koff. Koff.*
 
-The Emperor’s complexion was pale as he let out a series of small coughs. That was when Jin Taekyung’s quiet voice reached him.
+The pale-faced Emperor let out a series of small coughs. That was when Taekyung’s quiet voice reached him.
 
 “What if there’s still… a chance?”
 
@@ -88,7 +88,7 @@ And the Emperor already knew what Taekyung meant by it.
 
 “Now that I think about it, there were three of you, not two. Three people who knew about my condition.”
 
-At the sight of Jin Taekyung frozen with wide eyes, the Emperor gave a quiet laugh.
+At the sight of Taekyung frozen with wide eyes, the Emperor gave a quiet laugh.
 
 “He came to see me three days ago.”
 
@@ -116,7 +116,7 @@ He had lived fiercely, and he wanted to keep doing so.
 
 But he didn’t have much time left.
 
-“Earlier, I told you I had no regrets left. That I was content.”
+“Earlier, I told you I had no regrets left. That it was enough for me.”
 
 Taekyung finally spoke.
 
@@ -182,7 +182,7 @@ The Emperor gave a bitter laugh. That was when—
 
 “Did you know?”
 
-Jin Taekyung spoke up without warning, fixing his gaze on the Emperor as he continued.
+Taekyung spoke up without warning, looking the Emperor straight in the eye.
 
 “There are two main ways to piss someone off. The first is to start saying something and then stop, and the second is…”
 
@@ -208,7 +208,7 @@ Taekyung blinked as though he’d just remembered something he’d forgotten lon
 
 “What are you talking about—”
 
-The Emperor was so dumbfounded he was about to continue, but Taekyung spoke first.
+The Emperor was about to demand an explanation, but Taekyung spoke first.
 
 “Just be honest. Say you want to live.”
 
@@ -216,7 +216,7 @@ The Emperor was so dumbfounded he was about to continue, but Taekyung spoke firs
 
 “Is that so hard?”
 
-The Emperor’s pupils trembled.
+The Emperor’s eyes trembled.
 
 It wasn’t because of Taekyung’s outrageous disrespect.
 
@@ -230,15 +230,15 @@ It was the embarrassment of having the truth he’d kept so tightly hidden laid 
 
 The Emperor’s low shout didn’t faze Taekyung. His words came in a rush.
 
-“When someone says something hurtful, it hurts. When you get cut by a blade, you bleed. When you’re facing a hard reality, you lose heart. It’s the same for everyone. What’s different about wearing golden silk embroidered with dragons and looking down on all the civil and military officials?”
+“When someone says something hurtful, it hurts. When you get cut by a blade, you bleed. When you face a reality you can’t bear, you lose heart. It’s the same for everyone. What’s different about wearing golden silk embroidered with dragons and looking down on all the civil and military officials?”
 
 “……”
 
 “You said you didn’t need half-hearted comfort. Fine. I won’t give you any. But you need to be more honest, too. Forget being the Emperor or anything else—just act like a person for a little while.”
 
-The Emperor, his face clouded with confusion, wondered to himself:
+Confusion clouded the Emperor’s face.
 
-Why had he summoned Jin Taekyung here today? Why had he let out thoughts he’d never shared with anyone?
+Why had he summoned Taekyung here today? Why had he shared thoughts he’d never told anyone?
 
 And why, after such insolence, did he feel no anger?
 
@@ -248,13 +248,13 @@ Then he let out a quiet laugh.
 
 “I don’t. Except that you’re feeling better than I expected.”
 
-“But I haven’t even said anything yet.”
+“But I haven’t even said it yet.”
 
-“That’s why I said I don’t know. I’d have to hear it to know. How could I know if I haven’t heard it?”
+“That’s why I said I don’t know. I’d have to hear it to know. How could I know if you haven’t told me?”
 
 “Ha! Ha-ha-ha!”
 
-The Emperor suddenly burst into loud laughter. Before long, he coughed up blood and muttered,
+The Emperor burst into loud laughter. Before long, he coughed up blood and muttered,
 
 “Damn it.”
 
@@ -282,7 +282,7 @@ The Emperor suddenly burst into loud laughter. Before long, he coughed up blood 
 
 “What?”
 
-“You said you were a father. If you don’t like me calling you Dad, I’ll call you Mom.”
+“You said you were a father. If you don’t like Dad, I’ll call you Mom.”
 
 “What kind of madman are you?”
 
@@ -296,13 +296,13 @@ The Emperor laughed so hard he could barely breathe. Still grinning, he spoke ag
 
 “Not really.”
 
-“We—no, I…”
+“I mean… I…”
 
-The Emperor stared at Taekyung, who was still playing coy, then slowly parted his lips.
+The Emperor gazed at Taekyung, who was still playing coy, then slowly spoke.
 
 “I want to live. More desperately than anyone.”
 
-Jin Taekyung grinned.
+Taekyung grinned.
 
 “Now you sound like a person.”
 
@@ -316,11 +316,11 @@ Jin Taekyung grinned.
 
 Despite what he was saying, Taekyung’s voice held a hint of laughter.
 
-“I’m not exaggerating one bit. I bawled my eyes out, with snot running everywhere. I writhed around like a grub and begged the heavens to save me. I told them I still had so much left to do. That there were precious people I absolutely had to see one more time.”
+“I’m not exaggerating one bit. Tears and snot running down my face, I cried my eyes out. I writhed around like a grub and begged the heavens to save me. I told them I still had so much left to do. That there were people precious to me whom I had to see one more time.”
 
 “……!”
 
-“I must’ve looked too pathetic to bear watching. But I wasn’t ashamed of myself.”
+“I must’ve looked so pitiful no one could bear to watch. But I wasn’t ashamed of myself.”
 
 He’d fought to stay alive, and survived.
 
@@ -328,6 +328,6 @@ That was how he’d been given a second chance. How he’d ended up here.
 
 “You don’t need to be ashamed, and you don’t need to despair.”
 
-Jin Taekyung held out his hand to the Emperor.
+Taekyung held out his hand to the Emperor.
 
 “I’ll save you, one way or another.”
