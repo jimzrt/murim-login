@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled translation is faithful overall, with one minor loss of precision about how recognizable a court official would be.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 11 / P5",
+      "current": "Even a well-known court official couldn’t enter or leave without an authorized pass.",
+      "defect": "The source specifies an official whose face was known. “Well-known court official” can instead imply that the official was prominent or widely reputed, losing the point that recognition by face did not grant access.",
+      "replacement": "Even a court official whose face was well known couldn’t enter or leave without an authorized pass.",
+      "rationale": "The Korean says 얼굴이 알려진 조정의 관리—literally, a court official whose face was known—and contrasts that recognition with the requirement for an authorized pass.",
+      "confidence": 0.91
+    }
+  ]
+}

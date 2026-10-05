@@ -14,7 +14,7 @@ But today, even that derisive nickname aimed at the Emperor seemed out of place.
 
 “Affiliation and name.”
 
-“I’m Hong, from Seok Family Manor. Here are the identity tags and inventory of the belongings of the people who came with me.”
+“I’m Hong, from Seok Family Manor. Here are the identity tags for my household and a list of the goods we’ve brought.”
 
 “Ah, forgive me. You’re the steward of Seok Family Manor! Is your Family Head keeping well?”
 
@@ -138,13 +138,13 @@ Half a day before they entered the palace, however, the East Depot specialist wh
 
 “That won’t be a problem. He tears people apart with his hands.”
 
-“…Please never say things like that inside the imperial palace. You absolutely must promise me.”
+“…Please never say that inside the imperial palace. You must promise me.”
 
-After the specialist’s desperate, repeated warnings, Jeok Cheongang, the Divine Physician, and the Fire Dragon Pavilion members had received new names and faces and been allowed into the imperial palace.
+After the specialist’s almost desperate warnings, Jeok Cheongang, the Divine Physician, and the Fire Dragon Pavilion members had received new names and faces and made it into the imperial palace.
 
-Of course, there was no doubt the East Depot’s immense power had made it possible.
+The East Depot’s considerable power had plainly helped.
 
-“So everything in the letter was true. I can’t believe we got into that magnificent imperial palace so easily.”
+“So everything in the letter was true. I didn’t think we’d get into the imperial palace so easily.”
 
 At Jeok Cheongang’s mutter, the pretty, freckled girl beside him—who had been looking around carefully—answered.
 
@@ -180,11 +180,11 @@ Permitted to wear gold, one of the Son of Heaven’s symbols, they were the Grea
 
 Unlike the Imperial Guards, who could be seen throughout the Imperial Capital, the Embroidered Uniform Guard rarely appeared. When they did, their authority was unmistakable.
 
-As formidable as the man who now stepped forward, his eyes gleaming.
+The man who stepped forward now had a piercing gaze.
 
 “I am Jeong Hogun, a Thousand Captain of the Embroidered Uniform Guard.”
 
-His voice was calm, but a heavy aura pressed down in every direction.
+His voice was calm, but a heavy aura pressed outward in every direction.
 
 Jeok Cheongang sensed his intent well before that wave of energy reached the crowd and swiftly sent a Sound Transmission.
 
@@ -206,7 +206,7 @@ Know your enemy and know yourself, and you can fight a hundred battles without p
 
 To prepare for just such a situation, the Divine Physician had personally made Energy-Dispersing Poison, which disrupted internal energy, and given it to the group. Jeok Cheongang had already reached the realm of Returning to Simplicity and could conceal his qi at will without it.
 
-*The only problem is that there’s just one Taishan…*
+*The only problem is Taishan…*
 
 But contrary to his fears, Jeong Hogun’s gaze rested on Taishan only briefly before moving away.
 
@@ -224,7 +224,7 @@ The sparrow-mustached man, who looked like the steward of a pleasure house, aske
 
 “She knows better than I do. Don’t you?”
 
-The courtesan, who looked barely twenty, had a pure, lovely face. She blinked in surprise, then threw herself face-first onto the ground.
+The courtesan looked barely past twenty, with a delicate, lovely face. She blinked in surprise, then threw herself to the ground.
 
 “T-This girl has done nothing wrong!”
 
@@ -240,7 +240,7 @@ Jeong Hogun replied flatly.
 
 “Will you explain yourself?”
 
-The courtesan raised her head and stared up at Jeong Hogun in bewilderment.
+The courtesan raised her head and stared up at him in bewilderment.
 
 Then she yanked the hairpin from her hair and swung it in a flash.
 
@@ -248,7 +248,7 @@ Whoosh! Thunk!
 
 A faint sound of air being cut, followed by a spray of blood.
 
-Jeong Hogun watched with a lowered gaze as the courtesan plunged the hairpin into her own neck.
+Jeong Hogun watched with a somber gaze as the courtesan drove the hairpin into her own neck.
 
 “Why?”
 
@@ -262,19 +262,19 @@ Thump.
 
 Still coughing up blood, the courtesan went limp and collapsed.
 
-Jeong Hogun stared down at the corpse in silence for a while, then spoke abruptly.
+Jeong Hogun stared down at her body in silence for a while, then spoke.
 
 “Remove the body. Take everyone who came with her to the prison.”
 
-“Yes, sir!”
+“Loyalty!”
 
-“W-Wait! We didn’t know anything about this! We really don’t know a thing…”
+“W-Wait! We didn’t know anything about this! We really didn’t…!”
 
 Clang-clang!
 
 The cold sound of drawn blades drowned out their desperate excuses.
 
-Realizing they had no choice, they disappeared somewhere under the Embroidered Uniform Guard’s escort, faces filled with despair.
+Realizing they had no choice, they followed the Embroidered Uniform Guard away, despair on their faces.
 
 Jeong Hogun watched until they were gone, then turned to the person he had put off questioning.
 
@@ -294,4 +294,4 @@ Just as he cautiously curled his hand into a fist, a voice from far away reached
 
 At the familiar voice, Jeok Cheongang reflexively raised his head.
 
-A young man was walking toward them with a wide grin.
+A young man was walking toward them with a grin.
