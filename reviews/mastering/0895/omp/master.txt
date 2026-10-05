@@ -22,13 +22,13 @@ Especially when the people involved were assassins.
 
 “I had no choice. Pay them a fair price, and they’re more loyal than anyone.”
 
-“So what did you tell them to do about me?”
+“So what did you tell them about what to do with me?”
 
 “…My friend.”
 
 Ma Sanbao studied me with a furrowed brow, then went on with a sigh.
 
-“Don’t mistake me for a madman like the Son of Heaven. You came all this way, a thousand li, to help His Highness Prince Shangshan. They’re merely assassins carrying out a job they were promised payment for. Which of you is the more trustworthy ally?”
+“Don’t mistake me for a madman like the Son of Heaven. You came a thousand li to help His Highness Prince Shangshan. They’re assassins carrying out a job for pay. Which of you do you think I trust more?”
 
 “Well…”
 
@@ -46,11 +46,11 @@ Instinct told me it would be a bad idea to lay all my thoughts bare. Instead, I 
 
 “Then did you know about So Gyo, too?”
 
-“No. I deliberately withheld information about the assassins because I knew how people like you in Murim would see them, but… she’s different.”
+“No. I kept the assassins from you because I knew how martial artists like you would see them. But… that woman is different.”
 
 The shadow I thought I saw fall over Ma Sanbao’s face wasn’t just a trick of the darkness.
 
-“We didn’t tell you about that woman who goes by So Gyo because we didn’t know much about her ourselves.”
+“We didn’t warn you about the woman calling herself So Gyo because we knew little about her ourselves.”
 
 “You didn’t know? The East Depot, of all people?”
 
@@ -76,9 +76,9 @@ Ma Sanbao had spoken without pause for about fifteen minutes. He took a flask fr
 
 “I was afraid.”
 
-Ma Sanbao had just raised the flask to his lips. He went on.
+Ma Sanbao paused with the flask raised toward his lips.
 
-“It may sound like an excuse, but I couldn’t help it. I didn’t think the forces I’ve gathered so far would be able to handle her.”
+“It may sound like an excuse, but I couldn’t help it. I didn’t think the allies I’d gathered could handle her.”
 
 The sharp smell of liquor drifted from the mouth of the flask. Noticing my gaze, Ma Sanbao tossed it to me.
 
@@ -116,7 +116,7 @@ I turned the name over in my mind, along with the unbelievable story I’d just 
 
 Ma Sanbao’s face was grave as he answered. Then he turned toward the window.
 
-Beyond it, the rain had grown much lighter. His eyes, fixed on the thinning rain, had sunk deep.
+His eyes settled on the rain, now much thinner, and his expression darkened.
 
 “I can say this much for certain: without So Gyo, the coup that day would never have succeeded. Cang Gong wouldn’t be bedridden as he is now, either.”
 
@@ -126,7 +126,7 @@ So Gyo had first appeared more than ten years ago, on the day the imperial palac
 
 If Ma Sanbao’s story was true, Cang Gong—now laid low by illness—had been a remarkable man.
 
-He had served the late Emperor even before Baek Yeon, and Ma Sanbao said his martial arts were on a level comparable to Baek Yeon’s, despite Baek being hailed as the strongest warrior in the imperial family.
+He’d served the late Emperor longer than Baek Yeon had. Even his martial prowess was said to rival Baek Yeon’s, though Baek was called the foremost warrior of the imperial court.
 
 “Lord Cang Gong was the first to sense something was wrong. He summoned the Imperial Guards from the outskirts of the Imperial Capital and moved to repel the rebels with the East Depot forces inside the palace.”
 
@@ -142,7 +142,7 @@ Ma Sanbao’s voice hardened.
 
 An unidentified master dressed entirely in black appeared, and the tide turned sharply against them.
 
-Cang Gong couldn’t withstand the combined assault of the two Supreme Peak masters. He collapsed with severe Internal Injuries, and the balance of the battle fell apart.
+Baek Yeon and the figure in black. Cang Gong couldn’t withstand the two Supreme Peak masters fighting together. He fell with a severe internal injury, and the balance of the battle collapsed with him.
 
 “Our forces were by no means weaker than the Embroidered Uniform Guard. The only reason we lost was that figure in black… No, that unidentified master we now call So Gyo.”
 
@@ -154,7 +154,7 @@ Ma Sanbao stared at the spreading puddle, his eyes heavy, and murmured as if to 
 
 “What I saw her do that day was… chilling. In the face of that overwhelming aura, I couldn’t do a thing.”
 
-I suddenly remembered So Gyo’s energy, calm as a spring breeze from beginning to end. And the terrifying wave of power that surged from her in that brief instant.
+I remembered So Gyo’s qi, gentle as a spring breeze. And the terrifying wave of power that had surged from her for one brief instant.
 
 “She surely wasn’t even going all out.”
 
@@ -206,7 +206,7 @@ If the Murim Alliance intervened, it would be like bringing a foreign force into
 
 “Of course, the current Alliance Leader likely wants to help us. The secret order he gave you to guard Prince Shangshan tells me as much.”
 
-“That’s true. We also have to keep a close eye on every move the imperial family makes.”
+“That’s true. We have to watch every move the imperial court makes, too.”
 
 “But that’s as far as he can go. If he asked the Alliance to formally join the restoration army, how many of its leaders would agree?”
 
@@ -242,6 +242,6 @@ A bolt of lightning struck through the tangled mess in my head.
 
 For a moment I said nothing, staring at Ma Sanbao. The silence was brief, yet it felt longer than any I’d known. Then I spoke.
 
-“Do you still have that joint pledge you showed me last time?”
+“Do you still have that pledge you showed me last time?”
 
-At the meaning behind my words, a bright smile spread across Ma Sanbao’s face.
+A broad smile spread across Ma Sanbao’s face as he understood what I meant.
