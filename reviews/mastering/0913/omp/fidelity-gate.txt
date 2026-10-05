@@ -1,0 +1,45 @@
+{
+  "summary": "The assembled English is mostly faithful, but it drops a source image, repeats a thought, and omits who the Demon Lord first addresses.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 83–84",
+      "current": "a great weight had settled in his chest",
+      "defect": "The source specifically describes a large boulder resting on one corner of Jin Taekyung’s heart. The translation drops the boulder image and changes the location to his chest, also losing a detail preserved in the accepted baseline.",
+      "replacement": "a massive boulder was already weighing down one corner of Jin Taekyung’s heart",
+      "rationale": "The Korean says 커다란 바윗덩어리가 얹혀 있었다 (a large boulder was placed/resting there) and locates it in one corner of his heart.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 97–99",
+      "current": "He pushed the ominous question from his mind. Right now, keeping his attention on the enemy was all he could manage.",
+      "defect": "The assembled English repeats that Jin forced the ominous question from his mind; the source states this only once, then says that focusing on the enemy was already more than enough for him.",
+      "replacement": "Right now, keeping his attention on the enemy was all he could manage.",
+      "rationale": "Line 97 already renders 애써 지워 냈다 (forced himself to erase it). Lines 98–99 add only that focusing on the enemy was all he could manage.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 103–109",
+      "current": "No—the Emperor.",
+      "defect": "The source says the Demon Lord spoke to everyone present, then corrects himself: no, to the Emperor. The assembled English omits the first audience, so the correction loses its contrast.",
+      "replacement": "To everyone gathered there.\n\nNo—to the Emperor.",
+      "rationale": "The Korean explicitly gives both targets in sequence: 이 자리의 모두를 향해. 아니, 황제를 향해.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 289–293",
+      "current": "The Eastern Heaven Demon Lord spoke in a singsong voice. His gray gaze drifted to the young king trembling beside the Emperor.",
+      "defect": "The singsong-voice description is repeated. The source gives it once, before describing the Demon Lord’s gaze.",
+      "replacement": "His gray gaze drifted to the young king trembling beside the Emperor.",
+      "rationale": "The source’s line 291 describes the voice as humming like a song; line 293 describes the gray gaze. The assembled copy already renders the voice description in the preceding sentence.",
+      "confidence": 0.98
+    }
+  ]
+}

@@ -24,17 +24,13 @@ Jeok Cheongang stood back-to-back with Jin Taekyung, watching the creatures surr
 
 “You can ask me as many things as you want for three days straight.”
 
-Jin Taekyung spat out the blood pooling in his mouth, picked up a spear and sword lying on the ground, and added:
-
-“If those bastards are willing to wait that long, of course.”
+Jin Taekyung spat out the blood pooling in his mouth, picked up a fallen weapon, and added, “If those bastards are willing to wait that long.”
 
 Of course, he knew they wouldn’t.
 
-There was no chance of that happening.
-
 *Everyone’s thinking the same thing.*
 
-The faces of the Fire Dragon Pavilion members and the Embroidered Uniform Guards, now standing back-to-back in a circle, showed the same feelings swirling inside him. And then Jeok Cheongang’s subdued voice came from behind him, tense in a way he couldn’t hide.
+The Fire Dragon Pavilion members and the Embroidered Uniform Guards had formed a circle, each standing back-to-back with the next. Their faces betrayed their tension, and so did Jeok Cheongang’s subdued voice.
 
 “The realm of immortals… Your homeland. Does it have things like those?”
 
@@ -68,7 +64,7 @@ Understanding dawned, and Jeok Cheongang sighed.
 
 “This place seems to be getting just as shitty as my homeland.”
 
-Jeok Cheongang was silent for a moment after Jin Taekyung answered. Then he spoke.
+Jeok Cheongang fell silent for a moment.
 
 “Yes,” he said at last. “I think so, too. I suppose I’ve lived too long, to see a miserable sight like this.”
 
@@ -82,9 +78,7 @@ Jin Taekyung tried to sound cheerful, but a great weight had settled in his ches
 
 *Damn it.*
 
-He silently surveyed the area. Familiar and unfamiliar faces alike filled his vision.
-
-On every face, the whirlpool of complicated emotions they were feeling showed plainly.
+He surveyed the people around him. Familiar faces and unfamiliar ones alike showed the same tangle of emotions.
 
 Tension. Shock. Fear.
 
@@ -92,13 +86,11 @@ And a handful of courage, drawn with difficulty from beneath it all.
 
 *How many of them will make it out alive?*
 
-Jin Taekyung forced himself to erase the ominous question that had suddenly crossed his mind.
-
 He pushed the ominous question from his mind. Right now, keeping his attention on the enemy was all he could manage.
 
 “I have waited a very long time for this day.”
 
-The Eastern Heaven Demon Lord stood tall at the head and center of the army of the dead encircling the battlefield. He spoke slowly.
+The Eastern Heaven Demon Lord stood at the head of the army of the dead encircling the battlefield. He spoke slowly, addressing everyone there.
 
 No—the Emperor.
 
@@ -132,7 +124,7 @@ By the time Jin Taekyung realized what was happening, he was already too late.
 
 “Stop.”
 
-Jeok Cheongang grabbed Jin Taekyung by the shoulder as he was about to shoot toward the Eastern Heaven Demon Lord, and continued in a sunken voice:
+Jeok Cheongang caught Jin Taekyung by the shoulder before he could charge the Eastern Heaven Demon Lord.
 
 “It’s already too late,” he said, his voice low.
 
@@ -142,7 +134,7 @@ Jin Taekyung’s eyes widened. The change that followed showed him what Jeok Che
 
 *Crick. Crrick.*
 
-The ground trembled. As the vibrations grew stronger, the pools of blood rippled and the air turned cold.
+The ground seemed to tremble. As the vibration grew, pools of blood rippled and the air turned cold.
 
 *No. That’s not it.*
 
@@ -180,11 +172,9 @@ Jin Taekyung stamped on the corpse beneath his foot and answered through gritted
 
 A corpse with its throat split open lifted its head from a pool of blood. Jin Taekyung had crushed its spine, yet it still struggled to rise.
 
-“They’re monsters that aren’t dead, but aren’t alive, either.”
+“Monsters that aren’t dead, but aren’t alive, either.”
 
 Jeok Cheongang nodded.
-
-The pronunciation was unfamiliar, but the meaning was similar.
 
 The word was unfamiliar, but its meaning fit. Among all the sects and martial families under Heaven, only the Maoshan Sect had preserved tales of such monsters. *Undead* described them perfectly.
 
@@ -192,17 +182,13 @@ The word was unfamiliar, but its meaning fit. Among all the sects and martial fa
 
 When Jeok Cheongang had first heard those tales, he had dismissed them as nonsense invented by idle gossips.
 
-It was simply impossible.
-
 Such a thing could not exist. It defied the natural order ordained by Heaven.
-
-But now, that was no longer the case.
 
 But the unbelievable legend was before his eyes now.
 
 “…Jiangshi.”
 
-Jeok Cheongang murmured the word like a groan and reached toward the corpse twitching as it rose.
+He groaned the word and reached toward the corpse twitching as it rose.
 
 *Fwoosh. Boom!*
 
@@ -218,9 +204,9 @@ Jeok Cheongang stamped on the remains as they crumbled to ash and dissolved into
 
 “Burn them without end. If they won’t die, burn them to ash until they do. Just as our sect’s ancestors did.”
 
-Jin Taekyung stared at Jeok Cheongang with wide eyes, then replied with a deliberately serious expression:
+Jin Taekyung stared at him, eyes wide. Then he put on a solemn face.
 
-“How did you know? That’s exactly what I’m best at.”
+“How did you know? That’s what I’m best at.”
 
 Master and Disciple smiled at each other at the same time.
 
@@ -276,17 +262,15 @@ The Eastern Heaven Demon Lord walked forward slowly. Hundreds of the dead follow
 
 No—the Emperor stood there.
 
-“When the long and fierce age of warring heroes was drawing to a close, I was only thirteen.”
-
-The Eastern Heaven Demon Lord muttered in a voice that hummed like a song.
+“When the long and bloody age of warring powers was drawing to a close, I was only thirteen.”
 
 The Eastern Heaven Demon Lord spoke in a singsong voice. His gray gaze drifted to the young king trembling beside the Emperor.
 
 A boy barely in his early teens.
 
-Even he, an old man and a monster who had ceased to be human, had once been called a boy.
+Even the old man who had become a monster beyond human had once been a boy himself.
 
-“I was a sinner from the moment I was born. A sinner guilty of being born in an age of chaos—a sin that could never be washed away.”
+“I was a sinner from birth. Guilty of the unforgivable crime of being born in an age of chaos.”
 
 The day his father, an ordinary farmer, and his two older brothers, both still in their teens, were dragged off to the battlefield, the Eastern Heaven Demon Lord learned something for the first time.
 
@@ -304,7 +288,7 @@ And his mother, raped and killed after she resisted the soldiers who came to con
 
 From that day on, the boy did not cry.
 
-Even a year later, after the final victor—who had ended the age of chaos with the sharpest and strongest spears and swords—ascended the throne.
+Not a year later, when the final victor ended the age of chaos with the sharpest, strongest weapons and ascended the throne.
 
 Not when a Daoist recognized the wandering boy’s aptitude, took him as a Disciple, and brought him into his sect.
 
@@ -316,7 +300,7 @@ And within a few years, that happiness ended.
 
 “Did you know?”
 
-The Eastern Heaven Demon Lord stopped walking. Then he asked his enemy’s descendant, who was looking down at him from hundreds of steps above:
+The Eastern Heaven Demon Lord stopped walking. He looked up at his enemy’s descendant, gazing down at him from hundreds of steps above.
 
 “What your grandfather, Taizu, did to us?”
 
