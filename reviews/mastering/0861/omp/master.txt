@@ -8,7 +8,7 @@ The procession passed through Nanjing, the capital of Jiangsu Province and the f
 
 Eyes gleamed beneath helmets and suits of iron armor that covered every inch of their bodies.
 
-Each man radiated a heavy aura. There were nearly a thousand of them, and on the golden banners fluttering in the wind, the dragon that symbolized the imperial family writhed as if alive.
+Each soldier radiated a heavy aura. There were nearly a thousand of them, and the dragons on their golden banners writhed in the wind as though alive.
 
 The Embroidered Uniform Guard.
 
@@ -26,7 +26,7 @@ No—was there even one?
 
 Hong Jin already knew the answer. He swallowed a bitter smile.
 
-*They and I are nothing more than beasts. What matters is the will of the master who raises those beasts.*
+*They and I are nothing more than beasts. What matters is the will of the master who keeps us.*
 
 The Son of Heaven stood above all others. He could decide who lived and who died.
 
@@ -56,7 +56,7 @@ The massive wall he’d thought he would never see again in his lifetime. The wa
 
 *The imperial capital…!*
 
-Hong Jin forced down the sigh that nearly escaped him.
+Hong Jin forced down the gasp that nearly escaped him.
 
 He could see what lay out of sight. He could hear what no longer made a sound.
 
@@ -66,7 +66,7 @@ They were horrific fragments of the past, lodged deep in Hong Jin’s mind—and
 
 *“I’ll spare you. Just this once.”*
 
-At the sudden memory of someone’s cold voice ringing in his ears, Hong Jin clenched his teeth without realizing it.
+At the sudden memory of that cold voice ringing in his ears, Hong Jin clenched his teeth without realizing it.
 
 *It won’t go as Your Majesty wishes. Not this time.*
 
@@ -76,7 +76,7 @@ The sunset spreading from the distant west stained the walls of the imperial cap
 
 Hangzhou made a fine first impression.
 
-It had an abundance of goods carried by canal throughout Zhejiang Province, and its scenery was beautiful.
+Goods traveled its canals throughout Zhejiang Province, and the scenery was beautiful.
 
 The broad plains we’d passed on the way were covered in all kinds of grain, rippling like golden waves. Smiles never left the people’s faces.
 
@@ -118,7 +118,7 @@ Hong Jin answered in a voice so stiff it hardly sounded like him.
 
 “They must have received some sort of order. And it’s probably… connected to us somehow.”
 
-Hong Jin licked his red-painted lips and murmured,
+Hong Jin licked his red-painted lips.
 
 “I’d expected something, but this is more of a welcome than I bargained for.”
 
@@ -152,7 +152,7 @@ Hong Jin said that if he’d been born the late Emperor’s eldest son—or if h
 
 *But things hadn’t worked out that way.*
 
-Before becoming emperor, he’d been nowhere near the line of succession.
+Before becoming emperor, he’d been nowhere near the throne.
 
 He had three older brothers. The eldest had naturally become Crown Prince under the principle of primogeniture, and he was every bit as outstanding as his younger brother—perhaps even more so, depending on whom you asked.
 
@@ -166,7 +166,7 @@ The long wars had ended long ago.
 
 The seeds of rebellion scattered across the land had been uprooted, as had the foreign peoples who had constantly eyed the Great Nation.
 
-The Great Nation had been established on firm foundations. What it needed now wasn’t conquest, but stability. With his perfect orthodox lineage and all the qualities a ruler could need, the Crown Prince was a successor prepared in every respect.
+With the Great Nation’s foundations laid, what it needed wasn’t conquest but stability. The Crown Prince had an impeccable claim as the rightful heir and every quality a ruler could need. In every respect, he was ready to succeed.
 
 Until the imperial family’s fourth son, already pushed far from the line of succession, drew his sword from the shadows.
 
@@ -214,7 +214,7 @@ I’d long suspected that Hong Jin, his trusted aide, couldn’t be an ordinary 
 
 I had to ask him directly, even if it meant doing it like this.
 
-—Since I’ve risked my life, I deserve an answer to this question. Right now.
+—I’ve put my life on the line too. I need an answer. Right now.
 
 Clunk.
 
@@ -240,7 +240,7 @@ So the poor boy, unable to bear his hunger, became a eunuch and chose a new name
 
 It hadn’t taken long for that wish to come true.
 
-The young eunuch had escaped poverty and developed ambitions he’d never had before. He also had the ability to fulfill them.
+The young eunuch escaped poverty and developed ambitions he’d never had before. He had the ability to pursue them, too.
 
 His unfailing thoroughness and cool judgment soon caught the eye of the late Emperor.
 

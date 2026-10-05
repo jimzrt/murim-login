@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is largely faithful, but it loses one established rank and slightly shifts two details of meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 9, 15 — “기다리고 있었습니다, 천호.”",
+      "current": "“We’ve been waiting for you, Commander.”",
+      "defect": "The address is the rank 천호, not a generic command title. The glossary specifies “Thousand Captain.”",
+      "replacement": "“We’ve been waiting for you, Thousand Captain.”",
+      "rationale": "This is a specific rank held by Jeong Hogun, so rendering it generically loses established terminology.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 58 — “황도인 만큼 평상시 경계도 철저한 편이에요.”",
+      "current": "“As the imperial capital, it’s always well guarded.”",
+      "defect": "“Always” makes the security sound absolute. The Korean says security is generally fairly thorough even in ordinary circumstances.",
+      "replacement": "“As the imperial capital, security is usually pretty tight.”",
+      "rationale": "평상시 and -는 편 indicate the usual level or tendency, not an unqualified “always.”",
+      "confidence": 0.92
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 229 — “저 역시 목숨을 건 이상, 이 물음에 대한 답은 반드시 들어야겠습니다. 지금 당장.”",
+      "current": "—Since I’ve risked my life, I deserve an answer to this question. Right now.",
+      "defect": "“Deserve” changes the speaker’s insistence that he must hear the answer into a claim of entitlement.",
+      "replacement": "—Since I’ve risked my life, I have to hear the answer to this question. Right now.",
+      "rationale": "반드시 들어야겠습니다 expresses necessity and firm insistence, not that the speaker is owed an answer.",
+      "confidence": 0.87
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“We’ve been waiting for you, Commander.”",
+      "defect": "The address is the rank 천호, not a generic command title. The glossary specifies “Thousand Captain.”",
+      "id": "F01",
+      "rationale": "This is a specific rank held by Jeong Hogun, so rendering it generically loses established terminology.",
+      "replacement": "“We’ve been waiting for you, Thousand Captain.”",
+      "severity": "minor",
+      "source": "Lines 9, 15 — “기다리고 있었습니다, 천호.”"
+    },
+    {
+      "confidence": 0.87,
+      "current": "—Since I’ve risked my life, I deserve an answer to this question. Right now.",
+      "defect": "“Deserve” changes the speaker’s insistence that he must hear the answer into a claim of entitlement.",
+      "id": "F03",
+      "rationale": "반드시 들어야겠습니다 expresses necessity and firm insistence, not that the speaker is owed an answer.",
+      "replacement": "—Since I’ve risked my life, I have to hear the answer to this question. Right now.",
+      "severity": "minor",
+      "source": "Line 229 — “저 역시 목숨을 건 이상, 이 물음에 대한 답은 반드시 들어야겠습니다. 지금 당장.”"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it loses one established rank and slightly shifts two details of meaning.",
+  "version": 1
+}
