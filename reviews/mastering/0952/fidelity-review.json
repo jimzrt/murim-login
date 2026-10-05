@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The young man gazing at the field of bright yellow chrysanthemums showed no surprise.",
+      "defect": "The Korean says he was silently gazing at the chrysanthemums. The assembled version omits that detail, which the accepted baseline also preserved.",
+      "id": "F01",
+      "rationale": "The source explicitly says 말없이 바라보던, establishing that he watched the flowers without speaking.",
+      "replacement": "The young man silently gazing at the field of bright yellow chrysanthemums showed no surprise.",
+      "severity": "minor",
+      "source": "Lines 17–19; assembled paragraph P8"
+    },
+    {
+      "confidence": 0.98,
+      "current": "When an excuse to punish Taekyung finally presented itself, how could Mukyung not smile?",
+      "defect": "This drops the source's description of the situation as extremely frustrating, an emotional detail retained in the accepted baseline.",
+      "id": "F02",
+      "rationale": "The source says 이런 갑갑하기 그지없는 상황에서—“in this unbearably frustrating situation”—before noting that the excuse made him smile.",
+      "replacement": "In such an unbearably frustrating situation, when an excuse to punish Taekyung presented itself, how could Mukyung not smile?",
+      "severity": "minor",
+      "source": "Line 53; assembled paragraph P24"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Taekyung’s voice, unusually calm that day, still lingered in his ears.",
+      "defect": "The assembled version drops Jin Taekyung’s given name, which the source and accepted baseline include.",
+      "id": "F03",
+      "rationale": "The source names 진태경 here, and the accepted baseline renders it as “Jin Taekyung.”",
+      "replacement": "Jin Taekyung’s voice, unusually calm that day, still lingered in his ears.",
+      "severity": "minor",
+      "source": "Line 159; assembled paragraph P71"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He was no longer speaking as Mukyung’s older brother, but as the Alliance Leader of Shanxi Murim and the Lesser Family Head of the Jin Family of Taiyuan.",
+      "defect": "The source says that, after opening his eyes, Wikyung had become the Alliance Leader and Lesser Family Head in that moment. The translation recasts this change in role as a change in how he was speaking.",
+      "id": "F04",
+      "rationale": "The Korean says 그는 어느덧 … 되어 있었다: he had, by then, become those figures—not merely begun speaking in their capacity.",
+      "replacement": "After a brief hesitation, he opened his eyes. By then, he had become the Alliance Leader of Shanxi Murim and the Lesser Family Head of the Jin Family of Taiyuan.",
+      "severity": "minor",
+      "source": "Line 241; assembled paragraph P111"
+    }
+  ],
+  "summary": "The assembled English is largely faithful, but it drops a source-established character detail and emotional nuance, and changes a statement about Wikyung's role into a statement about how he speaks.",
+  "version": 1
+}

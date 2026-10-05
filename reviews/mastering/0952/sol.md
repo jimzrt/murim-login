@@ -24,13 +24,13 @@ Jin Mukyung asked without taking his eyes off the flowers. A familiar presence c
 
 Jin Wikyung looked hurt at his younger brother’s doubtful response.
 
-“Goodness. You don’t even remember anymore?”
+“What? Don’t you remember it?”
 
 “I remember. I asked because your version sounds quite different from mine.”
 
 “Different?”
 
-“Taekyung, that reckless fool, got completely drunk and caused a scene. It wasn’t exactly a pleasant time.”
+“Taekyung, that reckless fool, got drunk and caused a scene. I wouldn’t call it a wonderful time.”
 
 Jin Wikyung tilted his head.
 
@@ -48,7 +48,7 @@ His youngest brother was always causing trouble, and their eldest brother doted 
 
 Of course, that was long ago. Only a small fragment of the day remained in his memory.
 
-“The youngest bawled like the sky had fallen, and you didn’t touch your food. You just started training. You went off into the woods, away from everyone, and swung your sword until sunset. I can still picture you as clearly as if it were yesterday.”
+“The youngest cried as if the sky had fallen. You didn’t touch your food. You went off into the woods, away from everyone, and practiced with your sword until sunset. I can still see you there.”
 
 “I don’t remember that, but I’m sure I did.”
 
@@ -66,7 +66,7 @@ Jin Mukyung smacked his lips. He remembered Wikyung coming to see him off with a
 
 *“Do you… do you really have to go?”*
 
-*“Yes. I really do.”*
+*“Yes. I do.”*
 
 *“Even if your older brother begs you to stay?”*
 
@@ -84,19 +84,19 @@ Jin Mukyung smacked his lips. He remembered Wikyung coming to see him off with a
 
 *“What on earth would you tell him?”*
 
-*“Just a few important precautions he absolutely needs to know. Some foods you hate, your habits… Mukyung! Where are you going, Mukyung!”*
+*“Just a few important precautions he absolutely needs to know. Foods you dislike, some of your habits… Mukyung? Where are you going, Mukyung?”*
 
 He had run. With every last bit of strength he had.
 
 It was the first time in his life he had put so much effort into his movement technique.
 
-Jin Mukyung had only wanted to grow stronger at Heaven’s Gate Temple. He’d never had the slightest intention of earning the distinction of being its shortest-lived expelled cadet.
+Jin Mukyung had only wanted to grow stronger at Heaven’s Gate Temple. He had no intention of becoming the fastest cadet ever to get expelled.
 
-“I still remember your back as you left, covering your eyes with your sleeve to hide your sobs.”
+“I still remember watching you leave, hiding your tears behind your sleeve.”
 
 “…”
 
-Jin Mukyung quietly closed his mouth.
+Jin Mukyung kept his mouth shut.
 
 Some truths were more beautiful left untold. That he had raised his sleeve to shield his eyes from the dust, for instance. Or that he had run to escape his overzealous brother.
 
@@ -112,23 +112,23 @@ There was the face he remembered from about two years ago, when he had left once
 
 Just as he was looking at him now.
 
-“I laughed because I’m glad to see you. You haven’t changed at all, older brother.”
+“I’m laughing because I’m glad to see you. You haven’t changed, hyung.”
 
 “Mukyung, you…”
 
-“I’m glad everything is still the same.”
+“I’m glad some things are still the same.”
 
 He had spent a little over two years in pitch-black darkness.
 
 He had kept hunger at bay with bitter, astringent fasting pills and quenched his thirst with dew and rainwater collected in the training hall deep inside the cave.
 
-And whenever he swung his sword until he collapsed from exhaustion, sprawled on the cold ground, a thought would come to him.
+Sometimes, after swinging his sword until he collapsed on the cold ground, he would find himself wondering.
 
-Where was this place? Who was he?
+Where was he? Who was he?
 
 If he ever left that darkness, what would be waiting for him?
 
-“Part of me was afraid, too. Afraid that the world I knew, the people I knew, would have changed beyond recognition.”
+“Part of me was afraid. I thought the world I knew, and the people in it, might have changed beyond recognition.”
 
 He had been half right and half wrong.
 
@@ -152,13 +152,13 @@ As brothers born of the same mother. As martial artists.
 
 After Taekyung left, Mukyung had stood staring at the empty space he had occupied and murmured the answer he had failed to give him.
 
-*Yeah. See you later. I promise.*
+*Yeah. See you later. No matter what.*
 
-But that promise had never been kept.
+But they had not kept that promise.
 
-In that place, where he could not even feel time passing, Jin Mukyung swung his sword without rest. He slashed, stabbed, and tore through what lay beyond the pitch-black darkness.
+In a place where he could not even feel time passing, Jin Mukyung swung his sword without rest. He slashed, stabbed, and tore at the pitch-black darkness before him.
 
-Whenever he opened his eyes to something new, another wall rose before him.
+Every time he grasped something new, another wall stood in his way.
 
 He had to get over it. Break through it.
 
@@ -174,7 +174,7 @@ He left behind the darkness that had enveloped him for two years and emerged int
 
 “Hyung.”
 
-Jin Mukyung called softly and looked his own flesh and blood straight in the eyes.
+Jin Mukyung looked his brother straight in the eyes.
 
 There was light in his gaze, and a directness that made it impossible to lie to him.
 
@@ -184,7 +184,7 @@ There was light in his gaze, and a directness that made it impossible to lie to 
 
 “No. Give me an order, as the Lesser Family Head of the Jin Family of Taiyuan.”
 
-For a moment, Jin Wikyung’s eyes trembled.
+Jin Wikyung’s eyes trembled.
 
 “You knew…?”
 
@@ -202,7 +202,7 @@ Wikyung had not come looking for him solely to reunite with the brother who had 
 
 “Just as you know me well, hyung, I know you.”
 
-“This will be a dangerous mission.”
+“…It will be dangerous.”
 
 “I don’t mind.”
 
@@ -210,17 +210,17 @@ Jin Mukyung went on calmly.
 
 “I learned martial arts because I loved the sword. But I wanted to grow stronger for our family.”
 
-Only great strength could restore a fallen martial family.
+Only strength could restore a fallen martial family.
 
 His sword had carried more than a passion for martial arts all these years.
 
-“Jin Mukyung, Second Young Master of the Jin Family of Taiyuan. I will devote myself to carrying out the Lesser Family Head’s orders.”
+“Jin Mukyung, Second Young Master of the Jin Family of Taiyuan, will carry out the Lesser Family Head’s orders with all his heart.”
 
 His younger brother cupped his hands in a salute, his voice unwavering. Jin Wikyung slowly closed his eyes.
 
 After a brief hesitation, he opened them again. He was no longer speaking as Mukyung’s older brother, but as the Alliance Leader of Shanxi Murim and the Lesser Family Head of the Jin Family of Taiyuan.
 
-“From this moment on, you are neither the Second Young Master of the Jin Family of Taiyuan nor the Lesser Family Head’s younger brother.”
+“From this moment on, you are neither the Second Young Master of the Jin Family of Taiyuan nor the Lesser Family Head’s brother.”
 
 He released the breath he had been holding.
 
@@ -230,13 +230,13 @@ Then Wikyung looked calmly at his brother—no, his retainer—and continued.
 
 Jin Mukyung, the Heaven Shaking Sword.
 
-About five years ago, a young prodigy from the frontier had reached the Peak realm at barely twenty and earned a new epithet. His only older brother had named a fighting force after it.
+About five years earlier, the young prodigy from the frontier had reached the Peak realm at barely twenty and earned that epithet. His one older brother had named a fighting force after it.
 
 He had hoped Mukyung would one day return to this place.
 
-And with the wish that, just like the two characters in Heaven Shaking, his name would one day resound beyond the world and reach the heavens.
+He had hoped, too, that Mukyung’s name would resound throughout the world and up to the heavens, just as *Heaven Shaking* promised.
 
-“The enemy vanguard that invaded the north has split off some of its troops and is taking a detour to avoid Jeongyang. Take two hundred men from the Heaven Shaking Squad and blunt their vanguard.”
+“The enemy vanguard invading the north has split off some of its forces to go around Jeongyang. Take two hundred men from the Heaven Shaking Squad and blunt their advance.”
 
 Jin Mukyung smiled.
 
@@ -250,7 +250,7 @@ The vast steppe army entered the north without resistance. What awaited it was n
 
 “K-Khan…”
 
-Jamukha stared silently at the man trembling like a leaf.
+Jamukha stared at the man trembling before him.
 
 He knew at once that the thousand-man vanguard sent into Shanxi Province half a day ahead of the main force had been wiped out. The lone surviving fool had been sent back with a warning for the invaders.
 
@@ -290,6 +290,6 @@ No. What mattered was that all hundred Keshik among them had died in a single ba
 
 Jamukha stared south, his voice low.
 
-At that moment, a thought suddenly crossed his mind.
+A thought crossed his mind.
 
 This war was supposed to be overwhelming and one-sided. It might not be as easy as he had imagined.
