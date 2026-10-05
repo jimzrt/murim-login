@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "the late Emperor and his direct descendants had been confined after the rebellion more than ten years ago",
+      "defect": "“직계 황족들” refers to members of the direct imperial line, not specifically the late Emperor’s descendants. The translation changes who was confined there.",
+      "id": "F01",
+      "rationale": "The source says the late Emperor and the direct-line imperial family members were confined there; it does not identify them as his descendants.",
+      "replacement": "the late Emperor and the other members of the direct imperial line had been confined after the rebellion more than ten years ago",
+      "severity": "minor",
+      "source": "Korean lines 135–135"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Her calm eyes seemed to pierce straight through me.",
+      "defect": "The translation drops the source’s arrow simile and the explicit image of her gaze piercing his heart, which the accepted baseline preserved.",
+      "id": "F02",
+      "rationale": "The Korean says her quiet eyes seemed to pierce his heart like arrows.",
+      "replacement": "Her calm eyes seemed to pierce my heart like arrows.",
+      "severity": "minor",
+      "source": "Korean lines 311–313"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it narrows who was confined after the rebellion and drops a source-specific image in the description of So Gyo’s gaze.",
+  "version": 1
+}

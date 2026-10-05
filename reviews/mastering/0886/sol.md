@@ -14,7 +14,7 @@ Toward her snow-white neck.
 
 Whoom.
 
-The wind, unable to keep up with my speed, arrived a beat late. With a heavy whoosh, her hair fluttered.
+The wind arrived a beat behind me. Her silken hair flew about her face in the rush of air.
 
 At the last moment, I fought down my instincts and stopped my hand in midair. I stared at the familiar face before me.
 
@@ -36,7 +36,7 @@ So Gyo glanced at my hand, halted just in front of her throat.
 
 Instead of answering, I sent the internal energy I’d drawn up spreading in every direction.
 
-The System update had sealed my Skills, but that didn’t mean I’d lost the Qi Sense that was part of me as a martial artist.
+The System update had sealed my Skills, but it hadn’t taken away the innate sense for qi I possessed as a martial artist.
 
 Whoooosh.
 
@@ -50,15 +50,13 @@ Shit.
 
 I’d let my guard down. Lost in thought, I hadn’t even noticed someone nearby. If I’d walked into a trap, I’d have had no excuse.
 
-*More importantly… why is she here?*
+*But why is she here?*
 
 As far as I knew, So Gyo was one of the Emperor’s people and stayed in Qianqing Palace.
 
 For a moment, I wondered if I’d wandered deep into the Inner Palace without realizing it. I shook my head.
 
 Impossible.
-
-The boundary between the Outer Palace and Inner Palace was like the difference between heaven and earth.
 
 Security at the boundary between the Outer and Inner Palaces was on an entirely different level. No matter how much freedom I’d been given to move around, I couldn’t have entered the Inner Palace unless every member of the Embroidered Uniform Guard protecting it had taken a group nap like golden retrievers at doggy daycare.
 
@@ -94,13 +92,13 @@ I hadn’t expected her to answer, but she proved me wrong.
 
 “Only thoroughly vetted people can enter the imperial palace. Even an outsider who doesn’t know this place exists wouldn’t stray this far if he had the slightest bit of common sense.”
 
-“So you’re saying I’m an idiot with no common sense?”
+“So you’re saying I have no common sense?”
 
 “Thank you for saying it yourself.”
 
 She got me there.
 
-But thanks to what she’d said earlier, I thought I could guess where I’d wandered by chance.
+But her earlier words had given me an idea where I’d ended up.
 
 “Does the reason no one comes here have something to do with what happened a little over ten years ago?”
 
@@ -114,7 +112,7 @@ So Gyo’s expression, composed until now, shifted ever so slightly. She regarde
 
 “This time, I think you meant *as* perceptive as I look.”
 
-“I said it right. Just like a moment ago.”
+“I meant what I said. Both times.”
 
 Rather than snap back, I took another look at the desolate grounds.
 
@@ -122,7 +120,7 @@ Rather than snap back, I took another look at the desolate grounds.
 
 Something had seemed wrong from the moment I saw it. There was no one around, and the grounds had been neglected to an almost shocking degree.
 
-But now I understood, at least somewhat.
+Now I understood why.
 
 If this was where the late Emperor and his direct descendants had been confined after the rebellion more than ten years ago, no one in the imperial palace would dare come near it.
 
@@ -142,7 +140,7 @@ That part made no sense. Why would So Gyo, one of the Emperor’s loyal follower
 
 “Well…”
 
-I was at a loss for words and could only smack my lips. Then So Gyo, who had been watching me with composed eyes, suddenly spoke.
+I had no answer. As I stood there trying to think of one, So Gyo spoke again.
 
 “Answer one question honestly, and I might tell you.”
 
@@ -152,9 +150,9 @@ I was at a loss for words and could only smack my lips. Then So Gyo, who had bee
 
 What the hell was this woman after?
 
-I thought it over for a moment, but I didn’t hesitate long. There was something I really wanted to know.
+I considered it for a moment. There was something I wanted to know, too.
 
-“In exchange, can I ask you something else?”
+“Can I ask you something else instead?”
 
 “Of course.”
 
@@ -170,15 +168,15 @@ Her next words left me even more confused than before.
 
 “What…?”
 
-“I mean exactly what I said. I asked when you started learning martial arts.”
+“I asked when you started learning martial arts.”
 
 For a moment, all I could do was blink.
 
 Her question was so far from anything I’d expected that I’d been keeping my expression in check for nothing. I’d been prepared for something like *How deep are you in with Ma Sanbao?* Instead, the tension drained out of me, leaving only bewilderment.
 
-“No, why would you suddenly ask that…?”
+“Why would you suddenly ask that…?”
 
-“Have you already forgotten our conversation a moment ago? You only need to answer honestly.”
+“Have you forgotten what we just agreed? All you have to do is answer honestly.”
 
 She had a point.
 
@@ -192,27 +190,27 @@ I’d spent my time going back and forth between Murim and the modern world. Eve
 
 Who would believe I’d reached my current realm in just two years?
 
-Even the handful of people who knew the truth hadn’t fully believed it. They’d simply let it pass, thinking there must be some circumstances behind it.
+Even the handful of people who knew the truth hadn’t fully believed it. They’d simply let it pass, assuming there must be circumstances they didn’t know about.
 
 Even Jeok Cheongang, who’d watched me more closely and for longer than anyone else.
 
 *He didn’t fully accept it until he learned about the System and the modern world.*
 
-The idea that a Third Rate punk steeped in pleasure had become a Supreme Peak master who shook the Central Plains in only two years was simply beyond the bounds of what anyone could accept.
+A pleasure-addled Third Rate punk becoming a Supreme Peak master whose name shook the Central Plains in only two years? It was beyond anything people could accept.
 
 That was why rumors nowhere near the truth had become accepted as fact.
 
-—Jin Taekyung is a secret weapon the Jin Family of Taiyuan raised at the cost of the family’s survival.
+—Jin Taekyung was a secret weapon the Jin Family of Taiyuan raised with the family’s very survival at stake.
 
 —They had him pretend to be a layabout from an early age so he wouldn’t catch the eye of the Mount Heng Sword Sect or the Head Elder.
 
-—They funneled money to him under the pretense of paying a pleasure house. God knows how many elixirs they bought him with it. Jin Taekyung has three legs, they say.
+—They pretended to spend their money at pleasure houses, then used it to buy him so many elixirs that Jin Taekyung has three legs.
 
 That last one was a little strange, but anyway.
 
 Rumors like that hadn’t sprung up for no reason. Becoming a Supreme Peak master in two years was impossible even if the heavens split in two, so the wild stories had quickly hardened into accepted fact. That suited me.
 
-If I told the truth outright, I could be branded an irredeemable practitioner of demonic, heterodox arts—or worse, an enemy of all Murim who’d mastered terrifying demonic martial arts.
+If I told the truth outright, I could easily be branded a practitioner of demonic, heterodox arts—an enemy of all Murim who’d mastered some terrifying form of demonic martial arts.
 
 *And if I tell So Gyo the truth, she won’t believe me anyway.*
 
@@ -226,7 +224,7 @@ Like now.
 
 I met So Gyo’s eyes without a flicker of change in my expression.
 
-“The story going around is that I caught a tiger with a pinecone when I was one, and learned the art of shrinking space when I was two… but that’s a load of bullshit only idiots believe. Going by the memories I still have, it’s been about fifteen years.”
+“According to the stories going around, I killed a tiger with a pinecone when I was one and learned the earth-shrinking technique when I was two. That’s bullshit only idiots believe. Going by what I can remember, it’s been about fifteen years.”
 
 So Gyo murmured, “Fifteen years.”
 
@@ -234,21 +232,19 @@ So Gyo murmured, “Fifteen years.”
 
 “Like Cheongpung, the Huashan Divine Dragon?”
 
-“Right. Cheongpung—wait. You know him? Even his title?”
+“Right. Cheongpung’s—wait. You know him? Even his title?”
 
 “I know far more than you think. I’ve kept up with news from Murim.”
 
-“No, I mean, why would you need to?”
+“No, I mean *why*?”
 
 “There’s someone I need to find. Someone I absolutely must find.”
 
-So Gyo answered calmly and turned away.
+So Gyo turned away.
 
 Or rather, she was about to when I shot out an arm as fast as lightning.
 
 “I answered, so you need to keep your promise—”
-
-And then—
 
 Swish. Rustle.
 
@@ -256,7 +252,7 @@ A breeze passed between us.
 
 “Huh?”
 
-I stood frozen like a statue, staring dumbly at the hem of her robe as it brushed past my fingertips.
+I froze, staring at the hem of her robe as it brushed past my fingertips.
 
 *What was that?*
 
@@ -264,15 +260,15 @@ I hadn’t used my full strength, but I’d moved more than fast enough to catch
 
 Yet So Gyo had slipped past my hand with a movement technique so smooth she seemed to glide. As though it were the most natural thing in the world.
 
-*Was that just my imagination? Or…*
+*Did I misjudge her? Or…*
 
-A thought took shape in my mind, and the blood in my body seemed to turn cold. I glared at So Gyo, my eyes sinking deep.
+A thought struck me, and my blood seemed to run cold. I fixed her with a hard stare.
 
 “I didn’t know you could do that.”
 
 “I can do quite a few things. Just as you can see.”
 
-“Your movement technique is definitely beyond First Rate… Are you good at lying, getting under people’s skin, and running off, too?”
+“That movement technique is definitely beyond First Rate… Are lying, getting under people’s skin, and running away among your talents, too?”
 
 “Lying? I don’t think you’re in a position to accuse me of that.”
 
@@ -282,7 +278,7 @@ A thought took shape in my mind, and the blood in my body seemed to turn cold. I
 
 “……!”
 
-“Don’t underestimate the imperial family’s intelligence network. That’s why I’m staying here, too.”
+“Don’t underestimate the imperial family’s intelligence network. It’s why I’m here, too.”
 
 A chill ran down my spine.
 
