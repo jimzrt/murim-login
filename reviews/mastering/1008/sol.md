@@ -81,8 +81,7 @@ Seeing him stumble over his words now, I answered as casually as could be.
 Ma Junggeol would probably never know that, at this very moment, a translucent holographic window was floating like a ghost above his head.
 
 > **System**  
-> **Level:** 80  
-> **Name:** Ma Junggeol
+> Lv. 80 Ma Junggeol
 
 Level 80.
 
@@ -104,7 +103,7 @@ At the same time, the fifty-odd mounted men came rushing toward us.
 
 “Big Brother! Are you all right?”
 
-“Enough!”
+“Bah!”
 
 “I’m going to lose my mind. I told you to stop doing that.”
 
@@ -124,13 +123,13 @@ They all had such strong impressionist faces that even the Black Dragon Demon Ga
 
 *Shing.*
 
-As the faint sounds of friction from here and there heightened the tension, a low voice reached everyone’s ears.
+As faint sounds of steel shifting against scabbards heightened the tension, a low voice reached everyone’s ears.
 
 “I guarantee that anyone who tries something stupid from this point on will spend a very hot time with this old man.”
 
 No one present needed to ask who’d spoken.
 
-And, naturally, not even Tokyo Hot could hold a candle to the JCK-444 Fire Show Special. No one wanted to star in it.[^2]
+And, naturally, not even Tokyo Hot[^2] could hold a candle to the JCK-444 Fire Show Special. No one wanted to star in it.
 
 *Shuffle, shuffle.*
 
@@ -144,7 +143,7 @@ Jeok Cheongang emerged through the gap, leading the other leaders. He glanced at
 
 “Could he be a Dark Heaven lackey?”
 
-“We’d have to beat the truth out of him to be sure. But, as you already know, he doesn’t look or seem capable of pulling anything clever…”
+“We’d have to beat the truth out of him to be sure. But, as you already know, he doesn’t seem capable of pulling anything, and he’s not strong enough to try…”
 
 “You can’t judge by a feeling alone. What do you think of the possibility that they’re deliberately hiding their strength?”
 
@@ -168,7 +167,7 @@ The seven terrifying-looking men, Ma Junggeol included, shuddered. What could I 
 
 I’d suddenly found myself playing lawyer, and I felt an inexplicable sense of duty as I continued.
 
-“Therefore, I find no grounds to charge them with ‘vicious-looking men concealing their martial arts,’ and I rest my case.”
+“Therefore, I find no grounds to charge them with ‘vicious-looking men concealing their martial prowess,’ and I rest my case.”
 
 Jeok Cheongang nodded with an expression of admiration.
 
@@ -200,7 +199,7 @@ Smiling broadly at hearing that pleasant description again, I tried to reassure 
 
 “N-no, that’s all right. But it seems there’s been a misunderstanding for a while now. May I say something to clear it up?”
 
-“Now you’re talking. You should’ve said—spoken up sooner.”
+“Now you’re talking. You should’ve spoken up sooner.”
 
 “I was trying to explain, but you jumped straight to—”
 
@@ -226,7 +225,7 @@ People nodded here and there in agreement.
 
 Then, as if to prove why looks ruled modern society, the mood slowly turned hostile. One person spoke up.
 
-“Ma Junggeol, Ma Junggeol… Could you be that very Ma Junggeol of Baekma Bang?”
+“Ma Junggeol, Ma Junggeol… Could you be that Ma Junggeol of Baekma Bang?”
 
 It was the Black Night King, Sima Gong.
 
@@ -258,9 +257,9 @@ The elegant title didn’t fit their vicious faces at all. The leaders and I sil
 
 “Oh, you’re right…”
 
-“Enough! Can’t you all shut up? Do you know what kind of place this is?”
+“Bah! Will you all shut up? Do you know what kind of place this is?”
 
-“Sheesh. A minute ago you were shouting ‘Enough! Enough!’ at the top of your lungs. Now you lower your voice because there are masters around. Being born later is my fucking crime. My crime.”
+“Sheesh. A minute ago you were bellowing ‘Bah! Bah!’ at the top of your lungs. Now you lower your voice because there are masters around. Being born later is my fucking crime. My crime.”
 
 “……”
 
@@ -286,4 +285,4 @@ With everyone’s attention on him, Ma Junggeol straightened his bent back and a
 
 [^1]: A *gisaeng* was a Korean female entertainer. Calling a man a gisaeng’s older brother is a way of mocking his pretty face.
 
-[^2]: Tokyo Hot is a Japanese adult-video studio. JCK-444 is presented here as a particularly fiery adult-video special.
+[^2]: Tokyo Hot is a Japanese adult-video studio.

@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled English is faithful overall, with one minor omission of a source detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 289–290",
+      "current": "the commoners who’ve begun settling there",
+      "defect": "This omits 새롭게, which establishes that the commoners had only recently begun settling there.",
+      "replacement": "the commoners who’ve only recently begun settling there",
+      "rationale": "The source says 새롭게 정착하기 시작한 양민들, specifying that their settlement was new or recent.",
+      "confidence": 0.98
+    }
+  ]
+}
