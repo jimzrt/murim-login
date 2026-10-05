@@ -22,9 +22,9 @@ The gruesome sound of pierced flesh announced a successful hunt, and the air rip
 
 Where only ash and dust had been swirling, an old man quivered like a fish skewered on a harpoon. I hadn’t even seen him appear.
 
-“Wha—how…? Cough!”
+“Ho—how…? Cough!”
 
-Blood spilled from his mouth, running down his chin before he could finish speaking.
+Blood spilled from his mouth before he could finish speaking.
 
 I looked at his face, twisted with pain like a fiend’s, and answered calmly.
 
@@ -54,7 +54,7 @@ The last assassin, his upper body charred black, dropped to his knees.
 
 There was no need to check. He was dead.
 
-With his last hope extinguished right before his eyes, the old man’s voice sank into an oddly calm murmur.
+With his last hope extinguished before his eyes, the old man’s voice grew strangely calm.
 
 “So you showed an opening to lure in your target. You have more of an assassin’s nature than I expected.”
 
@@ -66,7 +66,7 @@ I made a show of frowning.
 
 The old man gave a tiny, spasmodic nod and continued.
 
-“Mungyeong. Is that bastard still the same?”
+“Mungyeong. Is he still the same?”
 
 “What?”
 
@@ -88,7 +88,7 @@ The old man coughed up blood again. “How could I not? He told me himself.”
 
 At that moment, I thought I knew who the old man was.
 
-A few months ago, while I was in Sichuan, the Slaughter Saint had mentioned Salcheonmun in passing. It was one of the few things he’d revealed about his otherwise shrouded past.
+A few months ago, while we were in Sichuan, the Slaughter Saint had mentioned one of the few known details of his otherwise shrouded past.
 
 “Salcheonmun.”
 
@@ -106,9 +106,9 @@ A fierce light flashed in the dying man’s eyes. Blood poured from his lips, an
 
 Hmm…
 
-Judging by that, it definitely wasn’t a reunion for Salcheonmun’s twelfth class.
+So this definitely wasn’t a Salcheonmun class reunion.
 
-The kind of reasonable, beautiful ending where they meet up, polish off a few bottles of Jiannan Chun, call a designated driver, and ride home in a carriage wasn’t something the assassin world did.
+Meeting up, polishing off a few bottles of Jiannan Chun, calling a designated driver, and riding home in a carriage—that sort of reasonable, beautiful ending probably didn’t exist in the assassin world.
 
 Especially if the Slaughter Saint himself had brought about Salcheonmun’s destruction.
 
@@ -136,7 +136,7 @@ His calm acceptance of death vanished. His voice burst out with a spray of blood
 
 Instead of answering, I jerked my chin toward the space above his head.
 
-Floating in the empty air was a translucent roster that no one but me in this world could see.
+A translucent nameplate hung in the empty air. I was the only person in this world who could see it.
 
 Lv. 140 Gye Yabu
 
@@ -182,7 +182,7 @@ I pulled out the spear and turned away. As I walked off, leaving his crumpling b
 
 The System notification told me two things.
 
-First, that Gye Yabu hadn’t been lying when he spoke before he died.
+First, Gye Yabu hadn’t been lying before he died.
 
 Second, I’d grown strong enough that killing a Level 140 enemy wasn’t enough to level me up—and that a warning about becoming Salcheonmun’s target didn’t bother me.
 
@@ -192,7 +192,7 @@ I could just kill them coming or going.
 
 I didn’t know how skilled Salcheonmun’s human butchers were, but I already had the Lord of Heaven’s undivided attention.
 
-How much hotter could a jalapeño really get if you added a Cheongyang chili?
+How much hotter could a jalapeño get if you added a Cheongyang chili?
 
 I’d just have to drink a nice, cold glass of milk first.
 
@@ -204,9 +204,9 @@ Living milk packed with EXP instead of calcium. Enough to put an end to this dam
 
 I stepped into the path of someone crawling away, scrabbling with the only leg he had left intact.
 
-The Eastern Heaven Demon Lord confirmed it was me, then smiled through his twisted face.
+The Eastern Heaven Demon Lord saw my face and smiled through his twisted features.
 
-“Yeah, you monster.”
+“Come on, then, you monster.”
 
 * * *
 
@@ -226,11 +226,11 @@ His grand plan had failed, but he was still alive.
 
 As long as its roots remained, the tree would not fall. Someday, it could grow thick branches and fresh leaves again.
 
-Just as everything from the Maoshan Sect, destroyed by Taizu long ago, had passed down to him.
+Just as everything that remained of the Maoshan Sect, destroyed by Taizu long ago, had been passed down to him.
 
 That was why he struggled.
 
-With just one leg, his undying body squirmed as he tried to escape.
+With only one leg left, he dragged his undying body across the ground, trying to escape.
 
 *Not yet. It’s not over yet.*
 
@@ -240,7 +240,7 @@ And there was more.
 
 He had lost the means to control the jiangshi, and the Salcheonmun assassins, including Gye Yabu, were dead.
 
-But if that was all he had prepared for today, the Eastern Heaven Demon Lord would never have begun this grand plan.
+But if that was all he had prepared for today, he would never have set his grand plan in motion.
 
 *I need time. Time.*
 
@@ -266,9 +266,9 @@ The voice was light, as though greeting an old friend. But the footstep blocking
 
 *Jin Taekyung.*
 
-The face of one man crossed his mind, then appeared in the Eastern Heaven Demon Lord’s vision.
+The face that crossed his mind appeared before his eyes.
 
-“Yeah, you monster.”
+“Come on, then, you monster.”
 
 And at that moment—
 
@@ -284,7 +284,7 @@ Now deprived of all four limbs, the Eastern Heaven Demon Lord calmly addressed a
 
 A thunderous impact drowned out the rest of his words.
 
-Then, as the Eastern Heaven Demon Lord was driven deep into the ground, a voice reached his ears, growling like a beast.
+As the Eastern Heaven Demon Lord was driven deep into the ground, a voice reached him, growling like a beast.
 
 “Shut your mouth. Before I rip out your tongue.”
 
@@ -304,19 +304,19 @@ The Eastern Heaven Demon Lord gave a short laugh.
 
 But no answer came, no matter how often he urged him. The Eastern Heaven Demon Lord’s smile deepened.
 
-“Right. You can’t. You won’t. If you rip out my tongue here and now, you’ll never get the answers you want.”
+“That’s right. You can’t. If you rip out my tongue here and now, you’ll never get the answers you want.”
 
 The Eastern Heaven Demon Lord already knew.
 
 In a desperate fight for their lives, they might have killed him. But now that they had won, they could not.
 
-He knew a great deal about Dark Heaven and the Lord of Heaven. One word from the Eastern Heaven Demon Lord could change the course of a great war that would decide the future of the world.
+He knew a great deal about Dark Heaven and the Lord of Heaven. A single word from him might change the course of a great war that would decide the future of the world.
 
 A war that would put hundreds of thousands, perhaps millions, of lives at stake.
 
 That was the last hope he clung to.
 
-“Listen, Fire King.”
+“Fire King.”
 
 *Rumble. Rumble.*
 
@@ -336,12 +336,12 @@ No—he was about to.
 
 *Gooooong.*
 
-Until an enormous beam of light shot from somewhere, wrapped around them, and burst.
+An enormous beam of light shot from somewhere, engulfed the soldiers, and burst.
 
 *KABOOM!*
 
-Faced with that unbelievable power, the Eastern Heaven Demon Lord’s eyes flew wide.
+At the sight of that unbelievable power, the Eastern Heaven Demon Lord’s eyes flew wide.
 
-At the same time, he screamed one person’s name.
+He cried out a name.
 
 “So Gyo…!”
