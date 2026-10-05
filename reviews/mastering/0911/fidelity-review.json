@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "A dazzling white flame flashed through the darkness, devouring and tearing its way forward.",
+      "defect": "The Korean describes a flash-bright flame that awakens the darkness before devouring and tearing forward. “Flashed through the darkness” replaces that image with a different action, also losing the baseline’s established wording.",
+      "id": "F01",
+      "rationale": "The source says the flame is 실로 눈부신, 섬광처럼 빛나는 and that it 어둠을 깨운다; the baseline preserves both the flash-like brightness and the darkness being awakened.",
+      "replacement": "A dazzling white flame, shining like a flash, roused the darkness. It devoured and tore its way forward.",
+      "severity": "minor",
+      "source": "Lines 17–18"
+    }
+  ],
+  "summary": "Two minor fidelity issues: the assembled copy drops a source image and changes the contrast in the passage about Hong Dao’s death.",
+  "version": 1
+}

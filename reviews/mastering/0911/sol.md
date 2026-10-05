@@ -18,7 +18,7 @@ Toward the enemy before him. Its heat filled the Eastern Heaven Demon Lord’s g
 
 “……!”
 
-The Eastern Heaven Demon Lord’s eyes widened as a fist came crashing toward him, erasing the space between them.
+The Demon Lord’s eyes widened as a fist came at him, erasing the space between them.
 
 *What is this?*
 
@@ -62,7 +62,7 @@ The second barely grazed him and melted the ground.
 
 *Kaaa-bang!*
 
-The final, third strike slammed into the staggering Eastern Heaven Demon Lord’s chest once more.
+The third slammed into his chest once more as he staggered.
 
 It shattered even the formidable Body-Protecting Qi that enveloped him.
 
@@ -136,7 +136,7 @@ Scorching Yang Qi, hot as lava, swallowed dozens of enemies.
 
 The bluestone had lost its smooth sheen and melted into a ruin. Corpses burned like firewood amid the embers that remained.
 
-As Jeok Cheongang approached, forging a path of fire no one dared block, the Eastern Heaven Demon Lord spoke in a voice mixed with a sigh and admiration.
+Jeok Cheongang came toward the Demon Lord along a path of fire no one dared block. The Demon Lord spoke, his voice caught between a sigh and admiration.
 
 “You attained… cough. You attained enlightenment?”
 
@@ -154,15 +154,15 @@ Yet the Eastern Heaven Demon Lord kept giving short, dry coughs and speaking, as
 
 Jeok Cheongang answered in a low voice.
 
-“Call it whatever you want. I don’t care about things like that. But…”
+“Call me whatever you want. I don’t care about any of that. But…”
 
 *Step.*
 
 He began walking again. White hellfire rippled over his body, ready to bring this brief, ill-fated encounter to an end.
 
-“You know one thing, at least. The third Demon Lord is about to die.”
+“I do know the third Demon Lord is about to die.”
 
-Jeok Cheongang’s gaze on the unsteady Eastern Heaven Demon Lord was cold and clear, unlike the energy he wielded.
+Jeok Cheongang’s gaze on the unsteady Demon Lord was cold and clear, unlike the energy he wielded.
 
 He would take no chances. He would make certain of the man’s death.
 
@@ -188,7 +188,7 @@ The Eastern Heaven Demon Lord watched Jeok Cheongang approach with careful steps
 
 “That monk was right.”
 
-“Yes, he was. Thinking back on it now, I wonder if that monk had some trick for reading the heavenly patterns… but I’ll never be able to find out. Do you know why?”
+“Yes, he was. Thinking back on it, I wonder if that monk had some trick for reading the heavenly patterns… but I’ll never be able to ask him. Do you know why?”
 
 The Eastern Heaven Demon Lord didn’t answer. At the mention of reading the heavenly patterns, he had realized which bald monk Jeok Cheongang meant.
 
@@ -198,7 +198,7 @@ And Jeok Cheongang expected no answer.
 
 “…Hong Dao, the Dharma King.”
 
-“If I’d been at Mount Jiuhua, I wouldn’t have been this angry. There would’ve been nothing I could do about it.”
+“If I’d been at Mount Jiuhua, I wouldn’t be this angry. There would’ve been nothing I could do.”
 
 But he hadn’t been at Mount Jiuhua.
 
@@ -254,7 +254,7 @@ Two rushes of air overlapped. No—three.
 
 The azure dragon’s roar shook the battlefield, the internal energy carried in Jeok Cheongang’s shout bursting the compressed air.
 
-At the same time, two streaks of light shot toward Jeok Cheongang’s back as if guided by an invisible hand—then were knocked away.
+At the same time, two streaks of light flying toward his back as if drawn by an invisible hand were knocked away.
 
 They were the Eastern Heaven Demon Lord’s two swords, pulled toward him by the power of his Middle Dantian. Jeok Cheongang drew up energy from throughout his body, gathered it in both hands, and swung upward as though scooping from below.
 
@@ -308,7 +308,7 @@ But the fist piercing his chest and protruding from his back, wreathed in white 
 
 His voice trailed off, drained of strength.
 
-In Jeok Cheongang’s deeply sunken eyes, the Eastern Heaven Demon Lord’s shattered arms hung limp.
+In Jeok Cheongang’s deeply sunken eyes, the Eastern Heaven Demon Lord stood with both shattered arms hanging limp.
 
 “If Yama asks why you died…”
 
@@ -322,7 +322,7 @@ Jeok Cheongang slowly pulled his fist free. Only then did the Demon Lord’s bod
 
 Jeok Cheongang silently looked down at the fallen Eastern Heaven Demon Lord. Not a trace of life remained in the corpse.
 
-Then, just as he let out the breath he’d been holding and turned away—
+Then he let out the breath he had been holding and turned away.
 
 *Crack.*
 

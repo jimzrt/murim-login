@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor fidelity issues: the assembled copy drops a source image and changes the contrast in the passage about Hong Dao’s death.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 17–18",
+      "current": "A dazzling white flame flashed through the darkness, devouring and tearing its way forward.",
+      "defect": "The Korean describes a flash-bright flame that awakens the darkness before devouring and tearing forward. “Flashed through the darkness” replaces that image with a different action, also losing the baseline’s established wording.",
+      "replacement": "A dazzling white flame, shining like a flash, roused the darkness. It devoured and tore its way forward.",
+      "rationale": "The source says the flame is 실로 눈부신, 섬광처럼 빛나는 and that it 어둠을 깨운다; the baseline preserves both the flash-like brightness and the darkness being awakened.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 207",
+      "current": "But he hadn’t been at Mount Jiuhua.",
+      "defect": "This turns the contrast into a statement about Jeok Cheongang’s location. The Korean’s “But that wasn’t so” contrasts the hypothetical helplessness at Mount Jiuhua with what actually happened: Hong Dao was killed at Shaolin, where Jeok Cheongang could have reached him in moments.",
+      "replacement": "But that wasn’t what had happened.",
+      "rationale": "The following lines establish the contrast as Hong Dao’s death at Shaolin and Jeok Cheongang’s inability to arrive in time, not simply that he was absent from Mount Jiuhua.",
+      "confidence": 0.87
+    }
+  ]
+}
