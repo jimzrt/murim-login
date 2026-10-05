@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is largely faithful. I found a small loss of imagery and two minor shifts in meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 51–53",
+      "current": "a great power: the Nangong Family",
+      "defect": "The Korean describes the Nangong Family as a great tree, preserving a specific image that the accepted baseline also retained. “A great power” conveys prominence but drops that image.",
+      "replacement": "a great tree: the Nangong Family",
+      "rationale": "The source uses 거목, literally “great tree,” as a metaphor for the family’s stature.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 157",
+      "current": "can make the weak feel even more powerless and wretched",
+      "defect": "The Korean compares the misery caused by comfort with the weak person’s existing helplessness. The current wording instead says comfort intensifies both powerlessness and misery.",
+      "replacement": "can make the weak feel even more wretched than their own helplessness",
+      "rationale": "The comparison in the source is 비참함보다 더한—misery greater than helplessness—not greater helplessness and misery.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 205",
+      "current": "We will. I promise.",
+      "defect": "“I promise” adds an explicit pledge that the Korean does not state.",
+      "replacement": "It will. Definitely.",
+      "rationale": "The source says “It will be that way. Definitely,” referring to their meeting with genuine smiles; it does not explicitly make a promise.",
+      "confidence": 0.91
+    }
+  ]
+}

@@ -6,11 +6,11 @@ The moment my brief explanation ended, Hyuk Mujin cried out, his face stiff with
 
 “But… damn it.”
 
-He said no more, but everyone here could tell he’d accepted reality.
+He said no more, but everyone could tell he’d accepted the situation.
 
 “If you rush ahead with your eyes fixed on what’s in front of you, you’ll trip over a rock. I know how hard this is for everyone, but for now, this is our best course.”
 
-Namho addressed everyone with a serious expression.
+Namho addressed us with a solemn expression.
 
 He might have sounded like a seasoned elder, too—if he hadn’t been tucked into Taishan’s arms like a baby kangaroo.
 
@@ -30,17 +30,17 @@ I was still wondering why Taishan looked downright solemn when Namho smiled with
 
 “Good lad. Open wide. Here comes the five-spice pork.”
 
-“Oh! Five! Spice! Pork!”
+“Five! Spice! Pork!”
 
 “…”
 
 Right. I’d thought something was off.
 
-I shook my head and eased my horse’s pace for a moment before speaking.
+I shook my head and eased my horse’s pace for a moment.
 
 “Elder Namho, please make contact with the Murim Alliance as soon as you leave Zhejiang Province. They’ll be making preparations of their own.”
 
-“I intended to do that anyway. As things stand, I’d only be a burden. I’ll try to lead the reinforcements and follow behind you.”
+“I intended to do that anyway. As things stand, I’d only be a burden. I’ll gather whatever reinforcements I can and follow behind you.”
 
 There wasn’t a single martial artist to be found in Zhejiang Province, where the Imperial Capital stood—let alone a sect.
 
@@ -54,7 +54,7 @@ At my call, Song Ilseom and Sama Pyo rode over and answered in turn.
 
 “I’m listening, Pavilion Master.”
 
-“I’ve lost count of how many times I’ve said this, but Sama is your surname, not your given name. Next time you call me…”
+“I’ve lost count of how many times I’ve said this, but Sama is my surname, not my given name. Next time you call me…”
 
 “I know. I’m doing it on purpose.”
 
@@ -70,9 +70,9 @@ Song Ilseom and Sama Pyo were formidable martial artists despite their youth. Bo
 
 I answered their determined assurances with, “Don’t fight each other.”
 
-“…”
+“…!”
 
-“…”
+“…!”
 
 “Don’t start bickering in front of the Embroidered Uniform Guards. It’s embarrassing. Got it?”
 
@@ -82,7 +82,7 @@ I answered their determined assurances with, “Don’t fight each other.”
 
 “Answer me.”
 
-The two of them stared at me with flat expressions, then let out quiet laughs. They both knew better than anyone that I was only joking.
+The two of them gave me flat looks, then let out quiet laughs. They knew as well as I did that I was only joking.
 
 “Understood.”
 
@@ -92,7 +92,7 @@ The two of them stared at me with flat expressions, then let out quiet laughs. T
 
 Hyuk Mujin, who’d been watching me in silence, nodded without a word.
 
-He understood the situation and didn’t say anything more, but there was no hiding the emotions in his troubled expression.
+He understood the situation and didn’t argue anymore, but his troubled expression gave away what he felt.
 
 He was hurt that I was leaving him behind without hesitation, and angry at himself for being nothing but a burden right now.
 
@@ -110,7 +110,7 @@ The smile I’d been forcing onto my face faltered.
 
 His question caught me by surprise. I hadn’t expected him to think of it that way, and for a moment I didn’t know what to say.
 
-After looking at him in silence for a moment, I answered calmly.
+I looked at him, then answered quietly.
 
 “Because you’ll do just fine without me asking.”
 
@@ -128,15 +128,15 @@ He glared at the reins clenched so tightly in his hands they looked ready to tea
 
 “…What?”
 
-“No, forget it. I said something stupid. You’re the one who has it hardest right now… I sincerely apologize.”
+“No. Forget it. I was talking nonsense. You’re the one who has it hardest right now… I’m truly sorry.”
 
-I silently watched him bow his head, his face red.
+I watched him bow his head, his face red.
 
 I wanted to tell him I understood that feeling, too. That I’d felt it all too clearly, down to my soul shattering and my bones breaking.
 
 But I couldn’t bring myself to say it.
 
-Sometimes, comfort from the strong can make the weak feel even more powerless and wretched.
+Sometimes, comfort from someone strong only makes someone powerless feel more wretched.
 
 And the cruel truth that there are things you can’t protect even when you have strength was something Hyuk Mujin couldn’t understand yet.
 
@@ -232,7 +232,7 @@ What difference did a few missing birds make?
 
 They might call themselves bandits, but they were only low-ranking lackeys. Their sole job was to watch their assigned stretch of mountain road until their eyes popped and contact the stronghold when travelers appeared.
 
-“Maybe a hawk came around. Those birds don’t want to get snatched up and eaten in the blink of an eye, so they’re keeping their beaks shut.”
+“Maybe a hawk came around. The birds don’t want to get snatched up and eaten, so they’re keeping their beaks shut.”
 
 “Oh, come to think of it, I did see a few hawks fly by earlier.”
 
@@ -254,7 +254,7 @@ He stroked his shaggy beard and muttered, “That *is* a little strange. Hawks d
 
 “…”
 
-“The deputy chief’s probably fast asleep by now. Wake him, and you won’t like what happens. Disturb him over something like that and he might throw an axe at you.”
+“He’s probably fast asleep by now. Wake him, and you won’t like what happens. Disturb him over something like that and he’ll throw an axe at you.”
 
 The bandit let out a long yawn and sprawled in the deep shade, stretching his arms and legs.
 
