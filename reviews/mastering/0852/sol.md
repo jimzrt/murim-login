@@ -6,7 +6,7 @@ The easiest places to start were inns and pleasure houses.
 
 They were full of people from every walk of life. Listen for a while and you could hear all kinds of stories.
 
-The downside was that none of the important information was there. Most of it was unverified rumor.
+The trouble was, there was rarely anything important among them. Most were unverified rumors.
 
 So martial artists whose heads weren’t just for decoration, and who’d spent some time earning their keep with a sword, went to information merchants instead.
 
@@ -52,9 +52,9 @@ Of course, Tang Sadok, the Family Head of the Sichuan Tang Clan, was there as we
 
 But what surprised everyone except Jeok Cheongang was that the Sect Leaders of Qingcheng and Emei had come in person.
 
-“I, Bicheonja of the Qingcheng Sect, a junior of the Murim, pay my respects to you, Senior.”
+“This junior, Bicheonja, pays his respects to you, Senior.”
 
-Sect Leader of the Qingcheng Sect or not, in front of Jeok Cheongang, he was a junior of the Murim.
+Sect Leader of the Qingcheng Sect or not, before Jeok Cheongang, he was a junior.
 
 Bicheonja looked as though he’d run hard enough to sweat through his soles. Jeok Cheongang nodded at his cupped-fist greeting. Bicheonja—or Cheongpung the Ancient Sword, as he was better known in Murim.
 
@@ -108,7 +108,7 @@ I sensed we were in deep shit and hurriedly stepped between them. It was the bes
 
 If they’d traded one more line, Extinction Divine Nun’s wooden prayer block would’ve come down on Jeok Cheongang’s skull.
 
-Of course, Jeok Cheongang wouldn’t have just let her hit him. The important thing was that Extinction Divine Nun’s anger quickly subsided when I appeared.
+Of course, Jeok Cheongang wouldn’t have just let her hit him. What mattered was that her anger quickly subsided when I appeared.
 
 “Oh, Benefactor Jin.”
 
@@ -130,7 +130,7 @@ The story had already begun making the rounds among people with decent informati
 
 Two Sect Leaders from the Nine Sects and One Gang, not to mention leaders of the land’s foremost information organizations.
 
-“Congratulations, though belated, Great Hero Jin Taekyung. Our Shaanxi Branch Leader was delighted when he heard the news.”
+“Congratulations, though belatedly, Great Hero Jin Taekyung. Our Shaanxi Branch Leader was delighted when she heard the news.”
 
 “I only wish that brat Gung Gibang—or rather, the Successor Beggar—could measure up to you even halfway. Anyway, what you did was incredible.”
 
@@ -156,13 +156,13 @@ Jeok Cheongang seemed to accept that the Elder had a point and looked for anothe
 
 “I’d dearly love to bring him here, but even I don’t know where he is. Our sect is organized into cells, so his location is a closely guarded secret…”
 
-“So a nobody who doesn’t even know where his own Sect Leader is showed up?”
+“So you sent some nobody who doesn’t even know where his Sect Leader is?”
 
 For a Lower District Sect with countless members, a Branch Leader was on the same level as a Beggars’ Sect Elder. The Sichuan Branch Leader swallowed hard under Jeok Cheongang’s pressure.
 
 “Of course not. Whatever information you want, we’ll find it by any means necessary and bring it to you as quickly as we can!”
 
-“Whatever you want. By any means necessary. As quickly as you can?”
+“Whatever I want. By any means necessary. As quickly as you can?”
 
 “Yes, sir.”
 
@@ -232,11 +232,11 @@ One of the Great Nation’s most powerful and secretive forces, acting only on t
 
 They’d shown themselves—and well before we arrived in Sichuan.
 
-In Anhui Province, not Zhejiang Province, where the Great Nation’s capital and the Emperor’s residence were located.
+In Anhui Province, not Zhejiang Province, where the Imperial Capital and the Son of Heaven resided.
 
 *And they’d been disguised, unlike usual.*
 
-Why had the Embroidered Uniform Guard—an agency directly under the Emperor—appeared in Anhui Province in disguise, unlike usual?
+Why had the Embroidered Uniform Guard—an agency directly under the Emperor—appeared in Anhui Province with their identities concealed?
 
 We had no way to learn more. The informants who’d caught their scent and followed them had been found dead. But I couldn’t help imagining the worst.
 
@@ -260,7 +260,7 @@ The shadow of Dark Heaven had reached the Great Nation’s imperial family.
 
 There was enough evidence. I silently stared up at the night sky, lit only by hazy moonlight.
 
-A question that would reach no one.
+The question I wanted to ask would reach no one.
 
 *What the hell are you after?*
 
@@ -268,7 +268,7 @@ And then—
 
 A faint sound came from somewhere in the sky and reached my ears.
 
-No. It reached both our ears.
+No. It reached both of us.
 
 Flutter.
 

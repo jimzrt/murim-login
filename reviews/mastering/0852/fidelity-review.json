@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Why had the Embroidered Uniform Guard—an agency directly under the Emperor—appeared in Anhui Province in disguise, unlike usual?",
+      "defect": "The source distinguishes changing clothes (line 245) from changing identities here. The English repeats the disguise detail instead, omitting that their identities had been changed.",
+      "id": "F01",
+      "rationale": "The phrase “신분까지 바꿔 가며” specifies that they went so far as to change their identities, a detail not conveyed by repeating that they were in disguise.",
+      "replacement": "Why had the Embroidered Uniform Guard—an agency directly under the Emperor—appeared in Anhui Province, even going so far as to change their identities?",
+      "severity": "minor",
+      "source": "Korean source line 247"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it omits the detail that the Embroidered Uniform Guard had changed their identities.",
+  "version": 1
+}
