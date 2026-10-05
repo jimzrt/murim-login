@@ -20,7 +20,7 @@ Shanxi.
 
 The land where he had been born and raised. The land his ancestors had protected.
 
-A little over three hundred years ago, near the end of the war that had drenched the world in blood, a man had arrived here.
+Some three hundred years ago, near the end of a war that had drenched the world in blood, a man had arrived here.
 
 His family name was Jin; his given name, Muryang.
 
@@ -28,7 +28,7 @@ He had been an unwelcome outsider. But in Taiyuan, he laid a foundation stone an
 
 *Even he couldn’t have known our family would endure for so long.*
 
-A little over three hundred years.
+Three hundred years.
 
 An almost unimaginable span of time.
 
@@ -36,7 +36,7 @@ Flowers beautiful enough to draw gasps and towering trees grand enough to awe al
 
 But the weeds on the frontier—the Jin Family of Taiyuan—still protected this land.
 
-Blooming in profusion, then broken, shattered, and rising again.
+Blooming in profusion, then cut down, broken, and rising again.
 
 “Rise and fall. Flourishing and decline.”
 
@@ -48,13 +48,13 @@ He smiled bitterly.
 
 “I had that badly wrong. Don’t you think?”
 
-It wasn’t a lament to no one, nor was he talking to himself.
+He wasn’t talking to himself.
 
 Wipeng stood at his post, solid as an iron tower and still as a lake. He spoke.
 
-“Looking at you now, my lord, I’m reminded of the past.”
+“Looking at you now, my lord, I’m reminded of something.”
 
-“The past?”
+“Oh?”
 
 “It wasn’t so long ago. Only two years.”
 
@@ -74,7 +74,7 @@ At his closest retainer’s firm answer, Jin Wikyung bit his lip.
 
 He was ashamed that he couldn’t deny it at once. And the reality that kept him from making a decision even in a moment of stubborn defiance was bleak.
 
-“I’m…the Lesser Family Head of our family. Countless lives depend on a few words or some small action of mine.”
+“I’m…the Lesser Family Head. A few words from me, one small act, could decide countless lives.”
 
 Not only those of the Jin Family of Taiyuan.
 
@@ -122,7 +122,7 @@ Their fate was obvious. So were the culprits.
 
 Jin Wikyung knew Temur and Chinggen well. Support from the Jin Family of Taiyuan had been one of the chief reasons the two men had risen so quickly to power on the grasslands.
 
-“Temur is strong, but utterly simple. Chinggen is calculating and cautious, but he’s no small man in ability. Neither would ever attempt something like this. They don’t have the strength for it, either.”
+“Temur is strong, but utterly simple. Chinggen is calculating and cautious, but his ambitions are too small. Neither would ever attempt something like this. They don’t have the strength for it, either.”
 
 The age when grassland nomads had thundered across the continent with bows and lances was long gone.
 
@@ -130,7 +130,7 @@ The empire they had built had vanished without a trace. Driven onto vast but des
 
 “Their strength has been proven. But it still isn’t enough to threaten the Central Plains.”
 
-Temur and Chinggen, now called khans, were still just two among the many Great Chieftains of the grasslands.
+Temur and Chinggen might now be called khans, but each was only one of the grasslands’ many Great Chieftains.
 
 And the Central Plains?
 
@@ -166,21 +166,21 @@ Eight Spring Gorge.
 
 Every night, Jin Wikyung wandered that bloody gorge, where enemies, allies, and traitors had charged at one another like beasts.
 
-“Lesser Family Head, are you all right—? Cough!”
+“Lesser Family Head, are you all ri—ack!”
 
 He watched a family retainer who had always greeted him with a smile collapse in a spray of blood.
 
-“P-Please, spare me. I beg you. I beg you.”
+“P-Please, spare me. Please. Please.”
 
 He passed a dying Mount Heng Sword Sect martial artist, eyes wide open, on his way to face another enemy.
 
-“Do you know what you—you, the Jin Family of Taiyuan—did to us?!”
+“Do you know what you and the Jin Family of Taiyuan did to us?!”
 
 He faced the traitors who had finally drawn the blades they had kept hidden for decades.
 
 He crossed swords with them without pause until, at last, he brought them down and stood before one man.
 
-“Look around you. What do you think as you watch them die so horribly?”
+“Look around you. What do you think when you see them dying like that?”
 
 A beard stained red with blood.
 
@@ -208,11 +208,11 @@ Wipeng’s voice suddenly reached him. Jin Wikyung blinked slowly, like a man wa
 
 “…Damn it. Look at the state of me.”
 
-Jin Wikyung let out a short curse, then gave a bitter chuckle.
+He gave a short, humorless laugh.
 
 It was ridiculous. He was trembling like a drenched rat.
 
-And the fate of Shanxi Murim—no, of all Shanxi Province—rested in the hands of this pathetic man, who could barely breathe under the pressure closing in from every direction.
+And the fate of Shanxi Murim—no, of all Shanxi Province—rested in the hands of this pathetic man, who could barely breathe beneath the pressure closing in on him.
 
 His one small comfort was that someone who had stood beside him for so long was still there.
 
@@ -232,7 +232,7 @@ The vast grasslands bordered not only Shanxi Province, but Liaoning, Hebei, and 
 
 And while Dark Heaven possessed the strange dark art known as the Moving Formation, no one could easily leave their sect or family undefended.
 
-They had things to protect, too.
+They had people to protect, too.
 
 “I intend to abandon Shanxi and head for Henan. As long as our people survive, our family won’t disappear.”
 
@@ -286,9 +286,9 @@ And among them was someone who had just appeared.
 
 “What’s got you so worried?”
 
-The young man’s voice was rough and awkward, as if he’d forgotten how to speak for a long time.
+The voice was rough and awkward, as if the young man had forgotten how to speak.
 
-His gaunt cheeks were hollow enough to stand out.
+Dressed in rags, he smiled at Jin Wikyung. His cheeks were gaunt enough to make the smile stand out.
 
 “Hyung.”
 
@@ -296,13 +296,13 @@ His gaunt cheeks were hollow enough to stand out.
 
 His younger brother had finally emerged into the world after a long seclusion. At the sight of him, Jin Wikyung closed his eyes, unable to contain the emotion rising within him.
 
-And in the instant of darkness, he recalled the voice of his youngest brother, who wasn’t there, speaking through Wipeng just moments ago.
+And in that instant of darkness, he recalled the voice of his youngest brother, absent from this room. The words Wipeng had repeated only moments ago.
 
 *Once you start retreating, you’ll keep backing away until you trip over a rock and fall.*
 
-He couldn’t be sure which choice was right or wrong.
+Jin Wikyung couldn’t be sure which choice was right.
 
-But the road ahead was decided.
+But he knew which way he had to go.
 
 Step.
 

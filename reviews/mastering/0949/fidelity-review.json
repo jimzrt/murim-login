@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Even he couldn’t have known our family would endure for so long.",
+      "defect": "“Couldn’t have known” expresses impossibility, while 모르셨겠지 is a conjecture that he probably did not know. The accepted baseline preserves that uncertainty.",
+      "id": "F01",
+      "rationale": "The Korean uses a conjectural ending, not a claim that he could not have known.",
+      "replacement": "Even he probably didn’t know our family would endure for so long.",
+      "severity": "minor",
+      "source": "Korean lines 31; assembled English P15"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall. One minor modal shift makes Jin Wikyung’s thought more certain than the Korean establishes.",
+  "version": 1
+}
