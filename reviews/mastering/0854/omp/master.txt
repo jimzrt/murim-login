@@ -2,7 +2,7 @@
 
 Jang Il, a junior military officer in Hubei Province, knew how to be satisfied with his life.
 
-Some people who knew him would click their tongues and say he had no ambition, despite being born a man. But Jang Il himself was proud of who he was.
+Some who knew him clicked their tongues at a man with so little ambition. Jang Il, for his part, was proud of himself.
 
 *I’ve done well enough. Damn right I have.*
 
@@ -30,7 +30,7 @@ It stung a little that he couldn’t see himself in a mirror—they were far too
 
 “Ahem. You think so, too?”
 
-“Yes, my lord. Whoever passes through the gate, none of them will dare raise their heads properly in the face of your authority.”
+“Yes, my lord. Whoever passes through the gate today, they won’t dare raise their heads in your presence.”
 
 “Now, now. What a silly thing to say.”
 
@@ -46,7 +46,7 @@ For all his protests, the corners of Jang Il’s mouth twitched upward. The elde
 
 “A traveling merchant I know. He said there’s been a bloodbath among martial artists, not just around Chongqing, but in Guangxi as well…”
 
-“It’s all nonsense, so ignore it. I’ve heard a little about Guangxi myself, but Chongqing only has a few disorganized bandits and river pirates. This caravan is bound to bring in a fortune.”
+“It’s all nonsense. Ignore it. I’ve heard a little about Guangxi myself, but Chongqing has nothing more than a few disorganized bandits and river pirates. This caravan is bound to be a great success.”
 
 Jang Il straightened his clothes and smiled with satisfaction.
 
@@ -112,7 +112,7 @@ Just as his horrified shout rang out—
 
 A weary voice cut in. Jang Il turned toward it and blinked.
 
-“M-Master of the Trading Company?”
+“M-Master?”
 
 There was no mistaking him. Even drenched in blood, with his clothes reduced to rags, Jang Il recognized him at once.
 
@@ -140,11 +140,11 @@ Several dozen bodies lay wrapped in straw mats. Two had been set apart from the 
 
 “Whether they’re in the mountains or on the Yangtze, thieves make their living by thieving, don’t they?”
 
-The trading company master muttered wearily and leaned against a shattered cart.
+The trading company master leaned against a half-destroyed cart and went on.
 
 “Everything went smoothly when we left Yichang two months ago. But as soon as we reached Chongqing, I had a feeling something was wrong. Sure enough, we’d barely set foot on Yuhua Mountain when they appeared.”
 
-Despite its beautiful scenery, Yuhua Mountain was known as one of Chongqing’s rugged mountains.
+For all its beautiful scenery, Yuhua Mountain was known for its rugged terrain.
 
 The trading company master remembered the moment they’d first encountered their enemies, hemmed in by narrow paths and dense brush. He shuddered before he could stop himself.
 
@@ -162,7 +162,7 @@ The trading company master remembered the moment they’d first encountered thei
 
 For a moment, Jang Il thought he’d misheard.
 
-A band of more than a thousand bandits? In the north, nomads or mounted bandits based on the grasslands sometimes joined forces and invaded with a large army. But not in Chongqing.
+More than a thousand thieves? In the north, nomads or mounted bandits from the grasslands sometimes joined forces and invaded in great numbers. But not in Chongqing.
 
 Something unprecedented had happened. Something that should never have happened.
 
@@ -184,7 +184,7 @@ Chongqing was right next to Hubei. From Yichang, where he commanded a gate, it w
 
 His hands and feet trembled. His breathing quickened.
 
-He should’ve been on his feet, directing the soldiers and sounding the alarm, but his body wouldn’t move.
+He should have been directing the soldiers and sounding the alarm, but his body wouldn’t move.
 
 Whether he noticed Jang Il’s condition or not, the trading company master continued.
 
@@ -192,7 +192,7 @@ Whether he noticed Jang Il’s condition or not, the trading company master cont
 
 Someone died, and a fierce battle began.
 
-The fighters trained by the trading companies and the hired wandering martial artists fought back. Even the caravan porters who had been hauling the carts joined in. But the river pirates and bandits, who’d spent their whole lives as raiders, cut them down without hesitation.
+The guards trained by the trading companies fought alongside the hired wandering martial artists. Even the caravan porters who’d been hauling the carts joined in. But the river pirates and bandits, who’d spent their lives as raiders, cut them down without hesitation.
 
 “It was less a battle than a slaughter. We had plenty of people, but half were caravan porters. The rest could only do so much.”
 
@@ -204,13 +204,13 @@ The trading company master had been speaking as calmly as he could, but now his 
 
 “Even with their legs slashed or an arm gone, they kept coming. Knock one down, and three more came. Knock three down, and five more appeared. If we swallowed our fear and brought them down too, ten more were waiting. Again and again…”
 
-The trading company master still remembered it clearly.
+The trading company master remembered them clearly.
 
 No—he would remember them until his dying breath.
 
 They had charged like fiends bursting out of a hellscape.
 
-“The battle ended decisively in just half a shichen—roughly an hour—and our side broke. Men started running in every direction. Surrounded by screams and death, I led my subordinates away, too. The caravan had failed, but we had to get out alive somehow.”
+“The battle ended in a rout after only half a shichen—about an hour. Our men lost heart and fled. With screams and death all around us, I led my subordinates away too. The trading expedition had failed, but we had to get out alive.”
 
 Nothing was more precious than life.
 
@@ -222,7 +222,7 @@ He had retreated with the other two trading company masters and the men they had
 
 “We wanted to go down and ask the imperial troops or another Murim sect for help, but with those men watching, it was nearly impossible. Staying on the move was our best option.”
 
-The enemy had been watching the main routes closely. The survivors, barely clinging to life, had made a break for Hubei along the shortest route and finally escaped Chongqing.
+The enemy watched the main routes closely. The survivors took the shortest route back toward Hubei and finally escaped Chongqing.
 
 Or so they thought.
 
@@ -234,14 +234,14 @@ The three-day pursuit had been brutal. From five hundred, they had fallen to hal
 
 Behind them, the enemy shouted.
 
-And just as their final battle was about to begin, people no one could have expected appeared.
+And just as their final battle was about to begin, someone none of them had expected appeared.
 
 “A middle-aged man. He had about ten people with him.”
 
 “A middle-aged man…?”
 
-“Yes. He walked toward us as if out for a stroll, pointed at the burning ships, and asked us this out of the blue.”
+“Yes. He came strolling up, pointed at the burning ships, and asked out of the blue…”
 
-The trading company master steadied his breathing and continued.
+The trading company master steadied his breathing.
 
 “Which son of a bitch set those on fire?”
