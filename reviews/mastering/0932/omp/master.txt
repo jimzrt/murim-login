@@ -27,7 +27,7 @@ I started with the first System message to appear and read them in order.
 
 “……”
 
-Minor inconvenience. Sincere regret.
+*Minor inconvenience. Sincerely regret.*
 
 What a way to piss me off right from the start.
 
@@ -91,7 +91,7 @@ It was exactly as the Item description said. At a glance, it looked broken. On c
 
 I felt like I was going insane.
 
-It was on par with the betrayal I’d felt when Santa Claus—the old man who’d brought my Christmas present when I was seven—had punched in the front door’s passcode and strolled in like he owned the place, then kissed my mom right in front of me.
+The betrayal was on par with what I’d felt at seven, when Santa Claus had punched in our front door’s passcode, strode inside, and kissed my mom right in front of me.
 
 *This is my… Update Reward?*
 
@@ -177,7 +177,7 @@ Some truths were unbearably cruel. Right now, this pocket watch was one of them.
 
 *But why would the System give me something like this?*
 
-This wasn’t some ordinary Quest. It was the Reward I’d received for completing an entire Update, and it was garbage like this.
+This wasn’t some ordinary Quest Reward. I’d received it for completing an entire Update, and it was garbage.
 
 Clinging to one last sliver of hope, I examined the watch again. All I found was more reason to despair.
 
@@ -187,7 +187,7 @@ For starters, the time was completely wrong. It was already nearing midnight, bu
 
 *And where the hell did the minute hand go?*
 
-At this point, I wasn’t sure I could even call it a pocket watch.
+At this point, I wasn’t sure I could even call it a pocket watch. Pocket poem, maybe. Pocket dial. Even those seemed generous.
 
 *I can’t adjust the time, either. And it doesn’t seem to keep moving. What the hell is this thing?*
 
@@ -263,11 +263,11 @@ That was the final trial period I’d settled on. Hyuk Mujin’s face lit up.
 
 “Come on. It came from the Western Regions. There probably isn’t a craftsman around here who can fix it. At most, you could carry it because it looks pretty.”
 
-Hyuk Mujin grinned unpleasantly as he went on.
+Hyuk Mujin grinned unpleasantly.
 
 “But what do you call it?”
 
-“Pocket-watch, shi—pocket watch.”
+“Pocket wa-fuck—pocket watch.”
 
 “Wow. Even the name’s pretty. Thread a leather cord through that ring and wear it around your neck. You’d draw eyes wherever you went.”
 
@@ -307,7 +307,7 @@ As Hyuk Mujin silently berated me with his gaze, I sensed dozens of people appro
 
 “Stop! Stop! Stop! Move and I’ll cut you down. Pocket!”
 
-At the head of the Embroidered Uniform Guard, their torches flickering, Jeong Hogun fell silent for a moment before replying.
+At the head of the Embroidered Uniform Guard, amid flickering torches, Jeong Hogun was silent for a moment.
 
 “What nonsense are you talking about?”
 
