@@ -1,0 +1,45 @@
+{
+  "summary": "The assembled English is largely faithful, but it shifts a regional power description, omits a source image, and changes two details of the battle scene.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 75–76",
+      "current": "the descendants of the Xianbei ruled Liaoning Province",
+      "defect": "The Korean calls the Xianbei descendants the dominant power in Liaoning Province; it does not establish that they ruled the province.",
+      "replacement": "the descendants of the Xianbei were the dominant power in Liaoning Province",
+      "rationale": "패자 means the hegemon or dominant power in a region, not necessarily its formal ruler.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 185",
+      "current": "Some of those who filled the vacuum there included informants from the Hebei Peng Family.",
+      "defect": "The assembled English omits the description of the newcomers as new kinds of people not previously seen on the grasslands.",
+      "replacement": "New kinds of people, never before seen on the grasslands. Some of those who filled the vacuum there included informants from the Hebei Peng Family.",
+      "rationale": "The source explicitly describes the people entering the long-lawless grasslands as new human groups before identifying the Peng Family informants among them.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 221",
+      "current": "“Enough!”",
+      "defect": "This turns a forceful shout into a verbal command meaning to stop. The Korean is a shouted exclamation, not an instruction to end something.",
+      "replacement": "“Hah!”",
+      "rationale": "갈(喝) is a cry or shout here, accompanying the release of his power; it does not mean “Enough.”",
+      "confidence": 0.87
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 211",
+      "current": "Men born on the open plain who died in the saddle.",
+      "defect": "The past-tense “died” makes this sound like a description of particular men, rather than the source’s general characterization of the horse-riding people.",
+      "replacement": "Men born on the open plain who die in the saddle.",
+      "rationale": "The Korean uses a generic present-tense contrast: they are born on the plain and die on horseback.",
+      "confidence": 0.95
+    }
+  ]
+}

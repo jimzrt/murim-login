@@ -8,7 +8,7 @@ That was what Peng Cheolhu, the Thunderbolt Saber King, saw when he entered the 
 
 Whoosh!
 
-Before he’d even finished speaking, dozens of hulking men scattered like the wind, returning to their original places.
+Before he could finish, dozens of hulking men rushed back to their seats like the wind.
 
 All but one.
 
@@ -20,7 +20,7 @@ The Thunderbolt Saber King frowned at the greeting from his eldest son, who was 
 
 “I heard you were sleeping soundly…”
 
-“Cut the nonsense. I thought you were finally ready to act like a proper person, so I handed over the Family Head position—and now you’re fighting with your own blood relatives? In this sacred conference room, no less, where we’re discussing matters of vital importance to the family!”
+“Enough. I thought you were finally fit to act like a man, so I handed over the Family Head position—and now you’re brawling with your own blood relatives? Here, in the sacred conference room where we discuss matters vital to the family!”
 
 Peng Cheolyeong, the Iron Blood Saber and current Family Head of the Hebei Peng Family, silently took the booming rebuke before speaking.
 
@@ -44,7 +44,7 @@ Fifth Uncle, who had shrunk into a corner the moment the Thunderbolt Saber King 
 
 “That’s enough. I get it. Let’s move on.”
 
-Having failed to come out of the exchange with any dignity, the Thunderbolt Saber King shook his head and took the seat of honor.
+Having gotten nowhere, the Thunderbolt Saber King shook his head and took the seat of honor.
 
 Fortunately, the sturdy iron chair had survived intact. It had been made to withstand the Hebei Peng Family’s time-honored habit of throwing punches whenever the mood struck.
 
@@ -54,7 +54,7 @@ Peng Cheolyeong sat beside him and got straight to the point.
 
 “Something’s wrong in the north.”
 
-“The north? Why would the Murong Family suddenly be acting strange?”
+“The north? What’s the Murong Family done now?”
 
 The Thunderbolt Saber King’s assumption was only natural. To the Hebei Peng Family, *the north* had always meant the Murong Family.
 
@@ -76,7 +76,7 @@ The true north. A land of outlaws more lawless even than Murim, with schemes and
 
 “Yes.”
 
-Peng Cheolyeong, considered the mildest of the Hebei Peng Family by blood, continued in a calm voice.
+Peng Cheolyeong, reputedly the mildest of the Hebei Peng bloodline, continued calmly.
 
 “The rumors coming from there are troubling.”
 
@@ -88,7 +88,7 @@ At the center of that change stood the Jin Family of Taiyuan, newly risen to pow
 
 “I heard there’s been no trouble since the Jin Family of Taiyuan formed that Seven-Route Army of theirs and swept through the place. Am I mistaken?”
 
-“You’re exactly right. They went on a single campaign and pulled out the tooth that had been aching for ages.”
+“No. With a single campaign, they pulled the tooth that had been aching for years.”
 
 After taking control of the Shanxi Murim, the Jin Family of Taiyuan had moved with a speed and boldness that astonished even the Five Great Families and the Nine Sects and One Gang.
 
@@ -96,11 +96,11 @@ They absorbed sects that had once bared their teeth at them, along with Escort B
 
 The mounted bandits who regularly crossed the border to pillage and kill could not stand against the Seven-Route Army. Neither could the horse-riding tribes.
 
-In fact, some of them had even rallied beneath the Jin Family of Taiyuan’s banner and reaped a handsome reward for their victories.
+Some had instead rallied beneath the Jin Family of Taiyuan’s banner and claimed a generous share of the spoils.
 
 “Temur. Chinggen.”
 
-At the foreign names that slipped from his son’s lips, the Thunderbolt Saber King narrowed his eyes.
+The Thunderbolt Saber King narrowed his eyes at the foreign names.
 
 He had devoted himself to martial arts since stepping back from the front lines, but he remained the Grand Family Head of the Hebei Peng Family in more than name. He remembered nearly everything discussed at the meetings he occasionally attended—even the names of barbarians whose faces he had never seen.
 
@@ -122,13 +122,13 @@ Or…
 
 “We don’t know for certain yet,” Peng Cheolyeong said quietly. “But the evidence suggests they’ve conspired with Dark Heaven.”
 
-The Thunderbolt Saber King let out a low groan to himself.
+The Thunderbolt Saber King stifled a groan.
 
 *Those bastards wouldn’t suddenly try this unless they’d lost their minds. Not when they know Fire King—that crazy old man—is standing right behind the Jin Family of Taiyuan.*
 
 Everyone knew of Jeok Cheongang’s ties to the Jin Family of Taiyuan. Rumor held that fear of the Fire King was why Temur and Chinggen had allied with the family, even betraying some of their own people to build the power they now held.
 
-*And now they’re going to stab him in the back like this? It makes no sense.*
+*And now they’d stab them in the back? Ridiculous.*
 
 Jeok Cheongang was hellfire itself: a blaze that died down only after reducing everything to ash.
 
@@ -152,9 +152,9 @@ After the Seven-Route Army’s campaign, led by the Jin Family of Taiyuan, more 
 
 People.
 
-Some of those who filled the vacuum there included informants from the Hebei Peng Family.
+Kinds of people the grasslands had never seen during their long years as a lawless land. Among those who claimed a place in the new order were informants for the Hebei Peng Family.
 
-“Recently, a few of them sent word that the barbarians on the grasslands are gathering.”
+“A few of them recently reported that the grassland tribes are gathering.”
 
 “How many?”
 
@@ -164,7 +164,7 @@ Some of those who filled the vacuum there included informants from the Hebei Pen
 
 “Father.”
 
-Peng Cheolyeong struggled to speak at the sight of the Thunderbolt Saber King staring at him, eyes wide.
+Peng Cheolyeong hesitated under the Thunderbolt Saber King’s wide-eyed stare.
 
 “That’s only the number of troops confirmed so far.”
 
@@ -212,7 +212,7 @@ Betrayal and disappointment burned through him.
 
 Then Peng Cheolyeong’s subdued voice reached his ears.
 
-“Please forgive me. I couldn’t risk Hebei Peng Family blood being spilled over a hasty decision. That’s all.”
+“Please forgive me. I could not spill Peng Family blood over a hasty judgment. That is all.”
 
 “What does that—”
 
@@ -234,7 +234,7 @@ His face went rigid.
 
 He had spoken almost to himself, but Peng Cheolyeong quietly nodded.
 
-“When will those goddamn bastards set foot in Shanxi Province?”
+“When will those damned bastards set foot in Shanxi Province?”
 
 Someone answered in a grave voice.
 

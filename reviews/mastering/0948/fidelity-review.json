@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "the descendants of the Xianbei ruled Liaoning Province",
+      "defect": "The Korean calls the Xianbei descendants the dominant power in Liaoning Province; it does not establish that they ruled the province.",
+      "id": "F01",
+      "rationale": "패자 means the hegemon or dominant power in a region, not necessarily its formal ruler.",
+      "replacement": "the descendants of the Xianbei were the dominant power in Liaoning Province",
+      "severity": "minor",
+      "source": "Lines 75–76"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Some of those who filled the vacuum there included informants from the Hebei Peng Family.",
+      "defect": "The assembled English omits the description of the newcomers as new kinds of people not previously seen on the grasslands.",
+      "id": "F02",
+      "rationale": "The source explicitly describes the people entering the long-lawless grasslands as new human groups before identifying the Peng Family informants among them.",
+      "replacement": "New kinds of people, never before seen on the grasslands. Some of those who filled the vacuum there included informants from the Hebei Peng Family.",
+      "severity": "minor",
+      "source": "Line 185"
+    },
+    {
+      "confidence": 0.87,
+      "current": "“Enough!”",
+      "defect": "This turns a forceful shout into a verbal command meaning to stop. The Korean is a shouted exclamation, not an instruction to end something.",
+      "id": "F03",
+      "rationale": "갈(喝) is a cry or shout here, accompanying the release of his power; it does not mean “Enough.”",
+      "replacement": "“Hah!”",
+      "severity": "minor",
+      "source": "Line 221"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Men born on the open plain who died in the saddle.",
+      "defect": "The past-tense “died” makes this sound like a description of particular men, rather than the source’s general characterization of the horse-riding people.",
+      "id": "F04",
+      "rationale": "The Korean uses a generic present-tense contrast: they are born on the plain and die on horseback.",
+      "replacement": "Men born on the open plain who die in the saddle.",
+      "severity": "minor",
+      "source": "Line 211"
+    }
+  ],
+  "summary": "The assembled English is largely faithful, but it shifts a regional power description, omits a source image, and changes two details of the battle scene.",
+  "version": 1
+}
