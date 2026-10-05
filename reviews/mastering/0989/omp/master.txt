@@ -10,7 +10,7 @@ But the moment he read the red missive brought by a Hidden Shadow Pavilion agent
 
 Today would not go according to plan.
 
-“Cancel the meeting already on the schedule. Instead, summon the Inner Hall’s officers within fifteen minutes.”
+“Cancel the scheduled meeting. Instead, summon the Inner Hall’s officers within the time it takes to drink a cup of tea.”
 
 “I’ll make sure every one of them is notified.”
 
@@ -32,7 +32,7 @@ Usually, the Number One Sword Under Heaven’s composure made him seem utterly c
 
 “Did you already… know?”
 
-“I can’t say I know. I just found it hard to sleep last night.”
+“I can’t say I did. I just couldn’t seem to sleep tonight.”
 
 Mae Jonghak slowly opened his eyes and looked at the Thousand-Faced Fox.
 
@@ -88,7 +88,7 @@ But Mae Jonghak didn’t need to ask. Before the Thousand-Faced Fox had finished
 
 Mae Jonghak nodded quietly.
 
-Though he’d spent only a short time with Jin Taekyung, he’d had a vague sense that the transfer would succeed.
+He had spent only a short time with Jin Taekyung, but he had already suspected the transfer might succeed.
 
 “That boy could certainly pull it off. There’s no telling how deep his abilities run.”
 
@@ -100,7 +100,7 @@ The Heavenly Martial Physique was something one was born with. Bone Transformati
 
 Even a white-haired old man on the verge of death could regain his youth and make remarkable gains in martial arts through Bone Transformation.
 
-And yet that fortune, coveted by all, had come to a young man around twenty.
+And yet that fortune, coveted by all, had come to a young man barely twenty.
 
 Even the Thousand-Faced Fox, who had read the report with his own eyes, plainly struggled to believe it.
 
@@ -118,17 +118,17 @@ Even the Thousand-Faced Fox, who had read the report with his own eyes, plainly 
 
 “What is it?”
 
-Mae Jonghak spread one hand instead of answering.
+Instead of answering, Mae Jonghak held out one hand.
 
 “Five.”
 
-“What does that—”
+“What do you—”
 
 “Of those fewer than twenty, five have appeared in this age alone.”
 
 “…!”
 
-“No—now there’ll be six.”
+“No. Now there are six.”
 
 The Martial God and the Three Saints.
 
@@ -140,7 +140,7 @@ Mae Jonghak raised another finger as he named them, then continued calmly.
 
 “That’s…”
 
-“You’ve felt it yourself, I’m sure. You just can’t easily accept it out loud.”
+“You’ve sensed it yourself. You just find it hard to accept.”
 
 Mae Jonghak uncrossed his legs and stood.
 
@@ -152,7 +152,7 @@ More than fifty years ago, two supreme figures had appeared in the same age: the
 
 And that was hardly all.
 
-Dozens of Supreme Peak masters from the orthodox, unorthodox, and Demonic factions had gathered around them, and a battle had begun between superhumans wielding unprecedented power.
+Dozens of Supreme Peak masters from the orthodox faction, the unorthodox faction, and the Demonic Cult had filled that era. Then a war began between superhumans wielding unprecedented power.
 
 The Three Saints and the Ten Kings. Great fiends of the Demonic Cult and the unorthodox faction, with power enough to shake heaven and earth.
 
@@ -160,7 +160,7 @@ And…
 
 “Now Dark Heaven has appeared, surpassing even the Demonic Cult of that era by far.”
 
-Does the age make the people, or do the people make the age?
+Did an age make its people, or did people make their age?
 
 The question had inspired countless debates, but no one had found a clear answer. Sword Saint Mae Jonghak was no exception.
 
@@ -174,7 +174,7 @@ His gaze deepened as he murmured, almost to himself.
 
 “Sometimes I wonder if all of this is a scheme devised by someone beyond our imagining.”
 
-Mae Jonghak suddenly turned to look out the window.
+Mae Jonghak turned toward the window.
 
 White snowflakes drifted slowly down, so thick they obscured the sunlight spreading from the distant east.
 
@@ -208,9 +208,9 @@ The words hovered on the tip of his tongue. The Thousand-Faced Fox could not bri
 
 He couldn’t believe it.
 
-No—he didn’t want to believe it.
+No—he didn’t want to.
 
-Mae Jonghak watched the Thousand-Faced Fox’s agitation with clear eyes.
+Mae Jonghak watched his agitation with clear eyes.
 
 “Pavilion Master Song. May I say one thing to you as your superior and the Alliance Leader?”
 
@@ -220,9 +220,9 @@ Mae Jonghak watched the Thousand-Faced Fox’s agitation with clear eyes.
 
 “…!”
 
-“Be more afraid than anyone else. Always be on guard against our enemies and distrust them. You and I have no choice. We’re in positions where we have to.”
+“Be more afraid than anyone else. Stay wary of our enemies, and question everything. You and I hold positions that leave us no other choice.”
 
-The Thousand-Faced Fox understood the meaning behind Mae Jonghak’s words at once.
+The Thousand-Faced Fox understood at once.
 
 “I’ll take your words to heart, Alliance Leader.”
 
@@ -268,7 +268,7 @@ Mae Jonghak did not doubt it for a moment.
 
 Jin Taekyung, now a giant of Murim, and the last successor Mae Jonghak had raised like his own grandson would stand at the center of this strange age.
 
-Thinking of Cheongpung, who must by now have finally heard the news from Shanxi Province even where he was so far away, Mae Jonghak poured internal energy into the missive in his hand.
+Thinking of Cheongpung, who must by now have heard the news from Shanxi Province despite the great distance between them, Mae Jonghak poured internal energy into the missive in his hand.
 
 *Fwoosh. Crackle.*
 
