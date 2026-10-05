@@ -58,7 +58,7 @@ Hyuk Mujin had been hunching his shoulders, ready to dodge a punch that might co
 
 “You’d normally have hit me at least twelve times by now, but you’re just smiling like some virtuous gentleman.”
 
-I barely held back the laugh bubbling up inside me.
+I barely held back another laugh.
 
 Then I kicked off the floor and shot forward like a flash of light.
 
@@ -78,11 +78,11 @@ Tap.
 
 Instead of smacking him as I usually did, I lightly tapped the back of his head and clicked my tongue.
 
-“You’ve been learning martial arts wrong all this time. Who told you to close your eyes?”
+“You little shit, have you been learning martial arts for nothing? Who told you to close your eyes?”
 
 “…Huh?”
 
-“Even if you’re getting hit, keep your eyes wide open. Even just keeping your eyes on your opponent puts you halfway there.”
+“Even if you’re about to get hit, keep your eyes wide open. Use them properly and you’re halfway there.”
 
 Hyuk Mujin rubbed the back of his head, looking dazed, then blurted out, “Why are you acting like this all of a sudden?”
 
@@ -106,13 +106,13 @@ Hyuk Mujin grinned.
 
 “What?”
 
-“I know all about it. When I said I might leave, it bothered you, didn’t it, Captain? Right?”
+“I know. When I said I might leave, it bothered you, didn’t it, Captain? Right?”
 
 I started to answer, then just let out a quiet laugh.
 
 “Yeah, you little shit. Must be nice to be so perceptive.”
 
-“I knew it. I thought so. Even you need someone like me, your right-hand man, stuck to your side if you want to get anything done.”
+“I knew it. Even you need a right-hand man like me stuck to your side if you want to get anything done.”
 
 “Right-hand man, my ass. You’re a little toe.”
 
@@ -148,7 +148,7 @@ Just as I began to question Hyuk Mujin’s tastes, he grinned and went on.
 
 For a moment, I couldn’t speak.
 
-At the same time, the truth I’d kept buried in my heart welled up and tickled the back of my throat.
+The truth I’d kept buried welled up, tickling the back of my throat.
 
 But…
 
@@ -188,7 +188,7 @@ Maybe that was why, instead of cutting off his long-winded story with a flick to
 
 “…Anyway, somehow I wound up stuck to your side.”
 
-Hyuk Mujin finished with a shrug, then suddenly looked at me.
+Hyuk Mujin finished with a shrug, then looked at me.
 
 “This is all your fault, Captain.”
 
@@ -202,7 +202,7 @@ Hyuk Mujin finished with a shrug, then suddenly looked at me.
 
 *Maybe not this time.*
 
-I swallowed the words that had been circling in my mouth.
+I swallowed the words.
 
 Unaware of what I was thinking, Hyuk Mujin went on as if nothing were wrong.
 
@@ -216,9 +216,9 @@ Unaware of what I was thinking, Hyuk Mujin went on as if nothing were wrong.
 
 “No. I just had a thought.”
 
-For a moment, Hyuk Mujin looked straight at me and spoke.
+Hyuk Mujin looked me straight in the eye.
 
-“Oh, I thought, maybe this time I can be the one to save you, Captain.”
+*Oh. Maybe this time I can be the one to save you, Captain.*
 
 “…!”
 
@@ -228,7 +228,7 @@ Hyuk Mujin added with a bright smile, “I’m still a First Rate nobody with a 
 
 I didn’t answer.
 
-No, I couldn’t.
+I couldn’t.
 
 It felt as if an invisible hand had closed around my throat, cutting off my breath. If I opened my mouth, I was afraid the truth might slip out before I could stop it.
 
@@ -254,21 +254,21 @@ Hyuk Mujin’s smile faded, and he nodded.
 
 “Oh, of course. But when did you manage to get in touch with the Murim Alliance, Captain?”
 
-“That’s not important, so forget it. I have a mission for you.”
+“That’s not important. I have a mission for you.”
 
 “Just me?”
 
 “No, everyone in the Fire Dragon Pavilion.”
 
-“The entire pavilion means… you’re coming with us, Captain?”
+“Everyone? Does that mean you’re coming too, Captain?”
 
-“I’m not going. And neither is my Master. You’ll lead the rest of the group to the place I tell you and wait there.”
+“Not me. Not my Master, either. You’ll lead the rest to the place I tell you and wait there.”
 
-“Are we meeting the Murim Alliance reinforcements there?”
+“Are we meeting the Murim Alliance reinforcements?”
 
-“Yeah. They’ll arrive within half a day at the earliest, and by tomorrow at the latest.”
+“Yeah. They’ll arrive in half a day if they’re quick. Tomorrow at the latest.”
 
-Hyuk Mujin nodded as if he understood, then suddenly furrowed his brow.
+Hyuk Mujin nodded as though he understood, then furrowed his brow.
 
 “That’s longer than I expected. Leaving you here at a time like this is a bit… You’re not in your usual condition, either.”
 
@@ -278,15 +278,15 @@ Hyuk Mujin grinned.
 
 “Right. I was a crow-tit worrying about a Heavenly Eagle.”
 
-“Usually, it’d be a stork you were worried about, not a Heavenly Eagle.”
+“Usually, it’s a stork the crow-tit worries about.”
 
 “For the Blazing Flame Divine Dragon, even a Heavenly Eagle isn’t enough. Anyway, is that the whole mission?”
 
-“Yeah. Right now.”
+“Yeah. Leave now.”
 
-I answered and took a neatly folded note from inside my robe, then handed it to him.
+I took a neatly folded note from inside my robe and handed it to him.
 
-I’d prepared it two days ago, but until the last moment, I’d wavered over whether to take it out at all.
+I’d prepared it two days ago, but until the last moment, I’d wavered over whether to take it out.
 
 “Anyone besides me and my Master should be able to leave the imperial palace without much trouble. Once you’re sure no one’s following you, check the destination written there.”
 
@@ -310,7 +310,7 @@ Whoosh.
 
 A slow exhalation. Hong Jin looked at me through the cloudy smoke from his long-stemmed tobacco pipe, then murmured as if to himself, “Martial artist Hyuk seemed pretty busy.”
 
-“He is. I gave him a mission.”
+“He will be. I gave him a mission.”
 
 “It must be important, to send him off at a time like this.”
 
@@ -322,7 +322,7 @@ Creak.
 
 The old wooden chair groaned. Hong Jin rose with elegant poise and spoke through the haze of smoke.
 
-“In a dangerous gamble where no one knows what will happen, you must want to save even one more person.”
+“In a dangerous gamble where no one knows what will happen, you want to save as many people as you can.”
 
 “…!”
 

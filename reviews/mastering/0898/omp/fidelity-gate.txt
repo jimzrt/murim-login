@@ -1,0 +1,45 @@
+{
+  "summary": "The assembled chapter is largely faithful, with a few small shifts in register, quantity, and meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 85",
+      "current": "“You’ve been learning martial arts wrong all this time. Who told you to close your eyes?”",
+      "defect": "The Korean opens with a blunt, familiar insult (이 새끼 이거), which is part of the teasing tone. The English drops it.",
+      "replacement": "“You little shit, you’ve been learning martial arts wrong all this time. Who told you to close your eyes?”",
+      "rationale": "The source uses casual profanity here, consistent with the narrator’s familiar banter with Hyuk Mujin.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 90",
+      "current": "I was afraid my younger sibling would take all my parents’ love",
+      "defect": "“All” adds a quantity the Korean does not specify.",
+      "replacement": "I was afraid my younger sibling would take my parents’ love",
+      "rationale": "The Korean says he feared his younger sibling would take his parents’ love, without saying it was all of it.",
+      "confidence": 0.92
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 113",
+      "current": "That even you and Great Hero Jeok would have to risk your lives.",
+      "defect": "The conjunction makes it sound as though both must risk their lives together. The Korean uses “or” in naming Taekyung and Great Hero Jeok.",
+      "replacement": "That even you or Great Hero Jeok would have to risk your lives.",
+      "rationale": "The source says “even you or Great Hero Jeok,” rather than coordinating them with “and.”",
+      "confidence": 0.85
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean line 105",
+      "current": "“Then shut up. I’m keeping you fit to fight.”",
+      "defect": "“Keeping you fit to fight” suggests maintaining fitness. The source says he is conserving Hyuk Mujin’s fighting strength.",
+      "replacement": "“Then shut up. I’m saving your strength.”",
+      "rationale": "전력 보존 means conserving combat strength here, as reinforced by the imminent fight.",
+      "confidence": 0.95
+    }
+  ]
+}
