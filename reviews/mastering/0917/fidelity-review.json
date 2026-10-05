@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Jeok Cheongang’s fist was lava and lightning at once.",
+      "defect": "The Korean compares the fist to lava and a flash of light (섬광), not lightning. “Lightning” adds an electrical phenomenon the source does not establish.",
+      "id": "F01",
+      "rationale": "섬광 means a flash or streak of light; it does not mean lightning.",
+      "replacement": "Jeok Cheongang’s fist was lava and a flash of light at once.",
+      "severity": "minor",
+      "source": "Line 171"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with one added physical detail in the description of Jeok Cheongang’s fist.",
+  "version": 1
+}

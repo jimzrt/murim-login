@@ -2,7 +2,7 @@
 
 *Fwoosh.*
 
-A fierce gale roared through the air. Layers of black ash that had piled up across the ground, along with embers that still hadn’t gone out, rode the wind and scattered in every direction.
+A fierce gale swept through. Layers of black ash rose from the ground, and embers that had yet to die scattered with them in every direction.
 
 From within the pale haze that blocked everyone’s view, a flame-wreathed fist cleaved through the air.
 
@@ -20,7 +20,7 @@ Fiercely enough that someone who had become nearly immortal found himself thinki
 
 *Ah.*
 
-The Eastern Heaven Demon Lord let out a quiet groan.
+The Eastern Heaven Demon Lord stifled a groan.
 
 His gray eyes, filled now with fear and awe, remained fixed on the man advancing through the flames he ceaselessly unleashed.
 
@@ -90,7 +90,7 @@ A monster called a vengeful spirit.
 
 That was why, in one respect, he understood Jeok Cheongang—the heart of an old Master who had seen his Disciple on the brink of death.
 
-He understood, too, the rage held within that mighty flame, which was trying to burn even the death energy he had summoned with all his might.
+He understood the rage within those mighty flames, which threatened to burn away even the death energy he had summoned with all his strength.
 
 *KABOOOOOM!*
 
@@ -102,15 +102,15 @@ For this moment, Jeok Cheongang’s rage had surpassed his own.
 
 *Crack.*
 
-The sound announcing a rift reached the Eastern Heaven Demon Lord’s ears. The energy that had poured ceaselessly from deep within his body was scattering.
+The sound of a fracture reached the Eastern Heaven Demon Lord’s ears. The energy pouring ceaselessly from deep within his body was scattering.
 
-At the starting point of that rift was a fist wreathed in pure white flames—and a pair of eyes pouring out stream after stream of fire and an even greater heat, flames that would bring down his last line of defense.
+At the heart of that fracture was a fist wreathed in pure-white flames. The flames were tearing down his last line of defense, while the eyes above them poured out a heat fiercer still.
 
 “Understand this clearly.”
 
 Jeok Cheongang’s gaze seemed hot enough to turn anyone it met to ash.
 
-“Understand what you’ve touched.”
+“What you dared to touch.”
 
 Yet his voice was as cold as the glaciers of the North Sea. It froze the Eastern Heaven Demon Lord’s spine and seeped into his soul.
 
@@ -150,7 +150,7 @@ It swept right through it.
 
 An instant of contact. A tremendous boom.
 
-But the time their fists met was far too brief, and the balance of power had already tipped.
+Their fists had met for far too brief a moment to call it a contest. The balance of power had already tipped.
 
 *Crack.*
 
@@ -188,17 +188,17 @@ Thrown backward like a misfired cannonball, the Eastern Heaven Demon Lord gritte
 
 A fist grazed his side—if pulverizing a handspan of flesh and bone could be called a graze—and slammed into the ground.
 
-At the same time, a tremendous boom split the sky, and a massive crater opened in the earth.
+A tremendous boom split the sky. A massive crater opened beneath it.
 
 A chill ran through the Eastern Heaven Demon Lord. He felt as though every hair on his body stood on end.
 
-If he could feel pain like an ordinary human, if he had fought Jeok Cheongang as he was now, how long would he have lasted?
+If he felt pain like an ordinary human, how long could he have lasted against Jeok Cheongang as he was now?
 
 How many times would he have died?
 
 *This is…*
 
-He had thought himself immortal. Unless the Martial God, who had vanished long ago, returned, he had been confident no one who came for him could bring him down.
+He had believed himself immortal. With the Martial God long gone, he had been confident that no one could bring him down.
 
 He had been wrong.
 
@@ -222,11 +222,11 @@ And for himself—the Eastern Heaven Demon Lord, who had chosen to become a mons
 
 The Eastern Heaven Demon Lord clenched his teeth. With no blood left to spill, bits of flesh fell away instead.
 
-*I cannot fall. Not ever.*
+*I cannot fall.*
 
-Even the Eastern Heaven Demon Lord himself couldn’t tell what it was.
+He himself could not have said what drove him.
 
-Was it the rage that had carried him this far? His obsession with revenge?
+Was it the rage that had sustained him all this time? His determination to take revenge?
 
 Or the last surge of fighting spirit from a martial artist facing the greatest enemy of his life?
 
@@ -238,7 +238,7 @@ Just as Jeok Cheongang had before him, the Eastern Heaven Demon Lord had surpass
 
 In the blink of an eye, Finger Qi streaked across the space between them like lightning and pierced Jeok Cheongang’s neck.
 
-No—it only looked as though it had pierced him.
+No. It only appeared to.
 
 Jeok Cheongang had been charging at him like a streak of flame. For an instant, it seemed he would fall with blood spraying from his pierced neck—then his figure dissolved like a heat haze.
 
@@ -246,13 +246,13 @@ Jeok Cheongang had been charging at him like a streak of flame. For an instant, 
 
 *Shifting Form and Position.*
 
-At the instant those four characters flashed through the Eastern Heaven Demon Lord’s mind—Shifting Form and Position—he spun around and swung the bell clutched in his only remaining arm.
+The four characters flashed through the Eastern Heaven Demon Lord’s mind. He spun around and swung the bell held in his only remaining hand.
 
 *Whoosh!*
 
 The bell slashed downward with a fierce whistle, gleaming with death energy.
 
-A single blow. If even one strike landed cleanly, no one could come away unscathed.
+One blow. If even one strike landed cleanly, no one would escape unscathed.
 
 That was how battles between Supreme Peak masters called superhuman were fought.
 
@@ -268,9 +268,9 @@ That strike was not enough against someone who, for this moment at least, had re
 
 Jeok Cheongang had neither spoken aloud nor used Sound Transmission.
 
-But the Eastern Heaven Demon Lord heard it clearly. He saw it, too.
+Yet the Eastern Heaven Demon Lord heard him clearly. He saw the unheard words in Jeok Cheongang’s gaze as he gripped the bell with a flame-wreathed hand, in his tightly closed lips.
 
-At the same time, he saw his own arm engulfed in flames in the next instant.
+Then he saw his own arm catch fire.
 
 *Fwoosh! KABOOOOOM!*
 
@@ -292,13 +292,13 @@ Each blow Jeok Cheongang landed brought death another step closer.
 
 *SHWAAAA!*
 
-Half the Eastern Heaven Demon Lord’s upper body had been scorched black by the previous attack. He didn’t resist the force throwing him backward.
+Half the Eastern Heaven Demon Lord’s upper body had been scorched black by that last attack. He did not resist the force hurling him backward.
 
 Instead, he poured every bit of energy remaining into his still-intact legs.
 
 He had lost both arms and the bell. He had to put as much distance between them as he could.
 
-But as he kicked off the ground with all his strength, he felt a force of roughly six tons seize his ankle.
+He kicked off the ground with all his strength—and felt a grip of immense force seize his ankle.
 
 *Crack.*
 
@@ -312,7 +312,7 @@ The world turned upside down. Through the rushing wind, the ground surged up to 
 
 *KABOOOOOM!*
 
-A thunderous roar drowned out his ears, and the earth’s crust surged upward.
+A thunderous impact left his ears ringing, and the ground heaved upward.
 
 The Eastern Heaven Demon Lord lay buried deep amid shattered dirt and rock, in earth that had hardened like granite. His eyelids trembled.
 
@@ -322,7 +322,7 @@ For well over half a century, he had worked in the shadows of the Imperial Palac
 
 So he knew.
 
-This wasn’t a matter of speed or strength.
+This was not a question of speed or strength alone.
 
 Jeok Cheongang now stood in a realm beyond his.
 
@@ -342,11 +342,11 @@ Was that the smile of a man finally accepting the death before him?
 
 No.
 
-It was the bitter laugh of someone who had waited so long for revenge, but had been forced to choose between that and his life—and who had decided to reveal the hidden sword he had meant to draw at the very end.
+It was the bitter laugh of a man forced to choose between the revenge he had awaited so long and his life. He had decided to reveal the blade he had kept hidden to draw at the very end.
 
-“—Come out, Heaven’s Slaughter.”
+—Come out, Heaven’s Slaughter.
 
-And just as a faint line of Sound Transmission, its meaning unclear, slipped between his moving lips—
+The faint Sound Transmission slipped between his moving lips, its meaning unclear.
 
 *Shiver.*
 
