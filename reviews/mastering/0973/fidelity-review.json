@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "Tremendous pressure traveled down White Flame’s shaft to my toes.",
+      "defect": "The Korean says the pressure traveled along White Flame’s spearhead, not down its shaft.",
+      "id": "F01",
+      "rationale": "The source specifies 창날을 타고, locating the pressure’s path at the spearhead. The current wording substitutes the shaft.",
+      "replacement": "Tremendous pressure traveled from White Flame’s spearhead to my toes.",
+      "severity": "minor",
+      "source": "Line 171"
+    },
+    {
+      "confidence": 0.86,
+      "current": "The old nomad who had brought his curved blade down like a wild beast was already hurtling backward.",
+      "defect": "The wording makes the blade’s downward action sound completed, while the source describes the nomad swinging it down as he is flung backward.",
+      "id": "F02",
+      "rationale": "The source’s 내리긋던 describes an action in progress, not a completed strike.",
+      "replacement": "The old nomad, swinging his curved blade down like a wild beast, was already hurtling backward.",
+      "severity": "minor",
+      "source": "Line 215"
+    }
+  ],
+  "summary": "The assembled copy is largely faithful, but it changes a physical detail of the force transfer and makes an ongoing blade swing sound completed.",
+  "version": 1
+}

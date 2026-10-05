@@ -44,7 +44,7 @@ To gain one thing was to lose another. If she kept attacking, she could bring do
 
 Her mind was made up. There was no need to hesitate.
 
-*I have to go. I have to do it myself.*
+*I have to go down there myself.*
 
 *Click.*
 
@@ -92,11 +92,11 @@ He shook his head with a hollow laugh. I answered calmly.
 
 “Of course you’d think that. Bastards like you wouldn’t understand even if you died and came back dozens of times.”
 
-The North Heaven Demon Lord thought of his followers as nothing more than pawns to secure victory. He could never understand that all of us here were risking our lives not to kill someone, but to protect someone.
+The North Heaven Demon Lord saw the people who followed him as nothing more than pawns he could use to win. He could never understand that we were risking our lives not to kill someone, but to protect someone.
 
 Or that this small difference was the most important measure of what separated the righteous from the demonic.
 
-“What a rotten age. The Murong Family Head goes and stabs someone in the back, then starts popping pills the moment things get a little rough. Right?”
+“What a rotten age. The head of the Murong Family stabs someone in the back, then starts popping pills the moment things get a little rough. Right?”
 
 Jeok Cheongang answered me.
 
@@ -166,7 +166,7 @@ Just like now.
 
 I gritted my teeth and drove my spear shaft upward.
 
-The muscles throughout my body swelled as if they were about to burst. A power no one but me could understand—supernatural powers—surged up and shook off the tremendous pressure bearing down on the spearhead.
+The muscles throughout my body swelled as if they might burst. Power no one but me could understand—power that belonged to the realm of the supernatural—surged through me and threw off the weight bearing down on my spearhead.
 
 *KABOOOOOM!*
 
@@ -238,13 +238,13 @@ No. More accurately…
 
 Looking back, every battle I’d fought over the last two years had been hard. My enemies were always strong, and I was always weaker than they were. I’d had to struggle with everything I had just to survive. Just to win.
 
-But then, one day, I suddenly realized something.
+Then one day, I’d realized something.
 
 I kept finding myself at death’s door not because I was weak, but because stronger enemies kept appearing.
 
 And somewhere along the way, I’d started catching up to them.
 
-The Head Elder, whose martial prowess had been so mighty. Pung Yang, whom I’d barely managed to defeat in a joint attack with Jin Mukyung.
+The Head Elder, with his formidable martial prowess. Pung Yang, whom I’d barely managed to defeat alongside Jin Mukyung.
 
 The Demon Lords and Demon Empresses of Dark Heaven, each of them a nightmare in their own right.
 
