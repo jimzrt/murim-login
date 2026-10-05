@@ -70,7 +70,7 @@ Who owned that spear.
 
 Where that horrifyingly intense Scorching Yang Qi came from.
 
-Before the three-syllable name that had suddenly surfaced could even take shape in their minds, the spearhead had raced forward, erasing the space between them, and reached its destination in an instant.
+Before the three-syllable name that had sprung to mind could even take shape, the spearhead had erased the space between them and reached its target.
 
 At the last possible moment, the old man frantically turned his dagger to block the spearhead bearing down on him.
 
@@ -96,7 +96,7 @@ A man drenched in blood from head to toe approached, moving more lightly and swi
 
 “Don’t say my name. I might get attached.”
 
-Then he shrugged toward one man standing dazed and motionless at the feet of the Eastern Heaven Demon Lord, who was sprawled there, stiff as a statue.
+Then he shrugged at the man standing dazed beside the Eastern Heaven Demon Lord, who lay sprawled on the ground, stiff as a statue.
 
 “Looks like this bastard still hasn’t come to his senses. Should I pull out his tongue while I’m at it?”
 
@@ -106,11 +106,11 @@ Then he shrugged toward one man standing dazed and motionless at the feet of the
 
 The Fire King Jeok Cheongang, his old Master, didn’t answer.
 
-No—he couldn’t answer.
+No—he couldn’t.
 
 He gazed in silence at his Disciple, who had come back as he always did. Then he burst out laughing.
 
-At the same time, he felt all the anger and sorrow that had held his whole body in its grip come crashing down, and he grasped his Disciple’s arm tightly.
+He laughed so hard that tears came to his eyes. As he did, all the anger and sorrow that had held his body in their grip came crashing down. He seized his Disciple’s arm.
 
 “Thank you.”
 
@@ -182,7 +182,7 @@ Jin Taekyung falling with an injury beyond recovery. Coughing up blood mixed wit
 
 *And yet, how could he possibly…?*
 
-Those who roam the martial world with death for a companion are martial artists. And among them, assassins stand closest to death.
+Martial artists roamed the martial world with death for a companion. Of all of them, assassins stood closest to it.
 
 Heaven’s Slaughter knew that better than anyone.
 
@@ -194,19 +194,19 @@ Heaven’s Slaughter’s survival had been a miracle. But even that seemed insig
 
 There was no doubt. Force had pierced straight through Jin Taekyung’s chest.
 
-It had split flesh and bone, destroyed his acupoints, and seeped into his organs, tearing them to shreds from within.
+It had split flesh and bone, destroyed his acupoints, and penetrated his organs, tearing them to shreds from within.
 
 No one could recover from such an injury—not even under the care of a Great Firmament Immortal, or if Yama himself erased their name from the book of the dead.
 
 And yet Jin Taekyung had come back alive.
 
-Though he looked like a man drenched in blood, his exposed skin was smooth, and his perfectly formed Muscles and Bones—the reason he was known as having a Heavenly Martial Physique—were plain to see.
+He was drenched in blood, but the skin beneath it was smooth. His Muscles and Bones, so perfect that he was said to possess a Heavenly Martial Physique, were intact.
 
 And that wasn’t all.
 
 His formidable internal energy—several *jiazi*’s worth, an impossible amount for someone barely past twenty—had filled back up as if nothing had happened.
 
-As if someone had filled an empty teacup with water.
+As easily as pouring water into an empty teacup.
 
 As if it were only natural.
 
@@ -216,11 +216,11 @@ An ability beyond reason.
 
 Heaven’s Slaughter’s sunken eyes trembled faintly.
 
-Now, his composure—barely held together until this moment—had finally crumbled. He was truly torn between two choices.
+His composure, barely maintained until now, had begun to crumble. For the first time, he was truly torn between two choices.
 
-Flight and duty.
+Flight or duty.
 
-And he wondered who would kill him: Dark Heaven or Jin Taekyung.
+And between whose hands he would die by: Dark Heaven’s or Jin Taekyung’s.
 
 Several decades ago, when he had been gasping at death’s door, Dark Heaven had made him an offer he could not refuse. It had never been out of kindness.
 
@@ -264,17 +264,17 @@ And, to his great fortune, even the heavens, usually so indifferent, seemed to b
 
 *Whoosh! Whoosh! Slice!*
 
-Another life vanished with a piercing sound. But unlike Jin Taekyung, who was rampaging as if possessed, Jeok Cheongang looked utterly exhausted to Heaven’s Slaughter.
+Another life vanished with a sound of rushing air. But unlike Jin Taekyung, who was rampaging as if possessed, Jeok Cheongang looked utterly exhausted to Heaven’s Slaughter.
 
 *Patapat. Splurt!*
 
-Hidden weapons came flying from every direction, grazing Jeok Cheongang’s body. Then, after killing with a single palm strike the assassin who had dropped down from above, the old dragon exhaled raggedly through his lips.
+Hidden weapons flew at Jeok Cheongang from every direction, grazing his body. He killed an assassin dropping from above with a single palm strike, then let out a ragged breath.
 
 *Huff. Huff.*
 
 His lips were dry and tinged pale blue. His body trembled faintly, even as he continued to unleash attacks of terrifying power.
 
-At the sight of Jeok Cheongang, who seemed to have forgotten the fearsome martial prowess he had displayed only moments ago, Heaven’s Slaughter muttered to himself.
+He seemed a far cry from the Jeok Cheongang who had displayed such fearsome martial prowess only moments ago. Heaven’s Slaughter thought to himself:
 
 *He’s reached his limit.*
 
@@ -294,7 +294,7 @@ He had spent his life as a butcher called an assassin. Now he shot straight forw
 
 And at that same moment, he understood.
 
-Though he himself was still cloaked by his concealment technique, he saw Jin Taekyung staring straight at him. He felt that gaze pierce his entire body.
+Jin Taekyung was staring straight at him, though he was still cloaked by his concealment technique. Heaven’s Slaughter felt that gaze pierce through his entire body.
 
 *He knew from the beginning…*
 
