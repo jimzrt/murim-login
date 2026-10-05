@@ -28,7 +28,7 @@ I nodded, then watched the walls draw closer with every pounding hoofbeat.
 
 “It’s quiet. Too quiet.”
 
-Anything in excess had poison hidden in it.
+Too much of anything could be dangerous.
 
 That was the feeling coming from the small city, now barely a hundred *jang* away.
 
@@ -68,7 +68,7 @@ How much flesh and bone had I cut through by now? I knew the thick, cloying sten
 
 Just as I reached that conclusion, Sama Pyo urged his horse up beside us. One calm remark turned my guess into certainty.
 
-“There’s no harm in continuing on as we are. Nothing’s going to happen anyway.”
+“We can keep going. Nothing’s going to happen.”
 
 His voice was steady, his gaze just as calm.
 
@@ -76,13 +76,13 @@ A thought struck me.
 
 “Could it be?”
 
-“That’s right. It looks like they’ve prepared quite an extravagant welcome.”
+“That’s right. Looks like they’ve prepared quite a welcome.”
 
 At that moment—
 
 *Rumble.*
 
-Several dozen *jang* ahead, the firmly shut iron gate began to slowly open.
+Several dozen *jang* ahead, the iron gate began to open.
 
 As the enormous mass of iron, weighing over a thousand *geun*, parted, a cold-faced middle-aged man appeared in the gap.
 
@@ -136,19 +136,19 @@ For the three hundred years since its founding, the Fire Gate Clan had walked th
 
 The Black Night King Sima Gong and the Black Dragon Demon Gate he led, on the other hand, were heirs to the tradition of demonic, heterodox arts.
 
-And judging from the things I’d heard about Sima Gong in the time we’d spent together, Jeok Cheongang’s opinion of him had been poor ever since the Great Faction War.
+And from the stories Jeok Cheongang had told me, his opinion of Sima Gong hadn’t been good even during the Great Faction War.
 
-“Things have been looking rather strange lately, so it came to this.”
+“Things have been unsettled of late. That’s why I brought them.”
 
 “So you emptied your sect and came pouring over here because things are unsettled? Stirring up innocent civilians while you’re at it.”
 
-“You seem to have misunderstood. Even with this many troops away, our sect’s defenses remain secure. The civilians left of their own accord. If they were frightened because of us, then there’s nothing we can do about that… but it isn’t necessarily a bad thing, is it?”
+“You misunderstand. Our sect remains well defended even with this many men away. The civilians chose to leave on their own. If our presence frightened them, there’s nothing I can do about that… but perhaps it isn’t a bad thing.”
 
 “What?”
 
 Jeok Cheongang narrowed his eyes. Sima Gong smiled gently, an expression at odds with his cold face.
 
-“I have no intention of being disrespectful to you, Senior. I only meant that, with this sense of danger hanging over them, the civilians would feel an even greater urgency to protect themselves. That, too, could be a way to save their lives.”
+“I mean no disrespect, Senior. I only meant that if this makes the civilians more aware of the danger around them, it may help save their lives.”
 
 “……!”
 
@@ -158,7 +158,7 @@ I had to admit one thing.
 
 He could dress up word games and sophistry to sound convincing, then soothe the person listening with just the right manner and smile.
 
-On top of that, he had martial arts that could rival the two Alliance Leaders of the Yangtze and the Green Forest. That was probably the biggest reason the Black Dragon Demon Gate was what it was today.
+Add martial arts that could rival the leaders of the Yangtze River Channel League and the Green Forest Alliance, and it was easy to see why the Black Dragon Demon Gate had become what it was.
 
 *Like father, like son? They’re definitely alike in that respect. Sama Pyo was just like that when I first met him.*
 
@@ -166,7 +166,7 @@ That was then, though.
 
 At our first meeting, Sama Pyo had spoken and acted like a slippery eel. The longer we spent together, the more I realized he wasn’t actually much of a talker.
 
-*Was “keep your outside and inside different” something his father taught him?*
+*Did his father teach him to keep what he thinks to himself?*
 
 I glanced between father and son—and met Sima Gong’s eyes.
 
@@ -174,13 +174,11 @@ I glanced between father and son—and met Sima Gong’s eyes.
 
 He was speaking to Jeok Cheongang, but the interest gleaming in his eyes was directed at me.
 
-It was already too late to pretend I hadn’t noticed his gaze and look away.
-
 Too late to pretend I hadn’t noticed. I glanced at Jeok Cheongang, who was still frowning at Sima Gong. He nodded.
 
 “I’m Jin Taekyung, of the Jin Family of Taiyuan.”
 
-“I know. How could I not? There’s hardly anyone in Gansu who hasn’t heard of your fame.”
+“I know. How could I not? There’s hardly anyone in Gansu who hasn’t heard of you.”
 
 It was the same tired pleasantry people exchanged whenever they met in Murim. But he’d said it with a smile, so I had to answer in kind.
 
@@ -218,21 +216,21 @@ Then Jeok Cheongang went on.
 
 “Gyaaaah!”
 
-The faint sound of something cutting through the air was followed by a sudden scream that swallowed Jeok Cheongang’s voice.
+A faint sound cut through the air, followed by a scream that drowned out Jeok Cheongang.
 
 *Clang! Clang! Clang!*
 
-At the same time, dazzling flashes of swordlight sprang up in every direction, and shouts rang out.
+Swordlight flashed in every direction, and shouts rang out.
 
 “Prepare for battle!”
 
-“The Black Dragon Demon Gate, prepare for an enemy attack!”
+“Black Dragon Demon Gate, be ready for an attack!”
 
 “By order of the Sect Leader! Zhongnan Disciples, form the Moon-Shattering Sword Formation at once! …What are you doing?”
 
-The Wind-and-Cloud Sword Lord had been ordering his Disciples to form a sword formation, but his voice trailed off in bafflement. Only then did everyone realize something was strange. Following the Wind-and-Cloud Sword Lord’s gaze, they all looked toward one person.
+The Wind-and-Cloud Sword Lord’s command trailed off in bafflement. Only then did everyone realize something was amiss. They followed his gaze to one person.
 
-A homely-looking guy who’d fallen from his saddle with a thunderous scream.
+An ugly guy who’d tumbled out of his saddle with a piercing scream.
 
 Hyuk Mujin.
 
@@ -246,7 +244,7 @@ Countless eyes were fixed on him like spotlights. He blinked silently until he f
 
 Everyone’s gaze shifted to me.
 
-Sima Gong’s eyes in particular were fixed on me. I did my best to keep my expression calm as I opened my mouth.
+Sima Gong’s, in particular, bored right through me. I kept my voice as calm as I could.
 
 “Don’t misunderstand. I don’t really know him.”
 
@@ -268,7 +266,7 @@ Cursing myself for failing to land the Finger Qi properly, I said, “We’ve me
 
 “Hmm. I suppose I do.”
 
-“Then what do you think caused that young man to suddenly scream and fall over?”
+“Then why do you think this young man suddenly screamed and fell off his horse?”
 
 In the suffocating silence, I considered my options and gave the best answer I could.
 
@@ -278,7 +276,7 @@ Hyuk Mujin’s mouth fell open. Perhaps the pain had stimulated his salivary gla
 
 “See? He comes and goes a few times a day. This sort of thing happens as regularly as his three meals—”
 
-“Wow, you’re really going to do this? You’re seriously going to do this? You want to take it all the way?”
+“Wow. You’re really doing this? Seriously? You want to see how far this goes?”
 
 At that critical moment, I sent a discreet Sound Transmission over Hyuk Mujin’s shoulder.
 

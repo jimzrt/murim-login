@@ -1,0 +1,65 @@
+{
+  "summary": "The chapter is broadly faithful, but several small source details were altered or added.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 7–8",
+      "current": "A feeling that belongs not only to a person, but to a place or an object, too.",
+      "defect": "The source describes this as a distinctive, inherent feeling. The translation says it belongs to those things but drops that defining quality.",
+      "replacement": "A distinctive feeling that belongs not only to a person, but to a place or an object, too.",
+      "rationale": "고유한 느낌 means a unique or inherent feeling; the accepted baseline preserved this with “distinctive.”",
+      "confidence": 0.92
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 9",
+      "current": "Years of life-or-death battles and grueling training have honed their five senses to their limits.",
+      "defect": "“Years of” adds a duration the source does not specify.",
+      "replacement": "Life-or-death battles and grueling training have honed their five senses to their limits.",
+      "rationale": "The source says the martial artists’ senses were maximized through life-or-death battles and harsh training, without stating how many years this took.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 11",
+      "current": "I turned and met the Wind-and-Cloud Sword Lord’s gaze. He had been staring at me.",
+      "defect": "The source’s image of a gaze fixed intently on the narrator is weakened; the translation instead says he had been staring at the narrator, changing the direction of his attention.",
+      "replacement": "I turned and met the Wind-and-Cloud Sword Lord’s gaze. He had been staring intently in my direction.",
+      "rationale": "The source says he had been looking this way (이쪽을 빤히 바라보고 있던), not specifically staring at the narrator before they met eyes.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 103–105",
+      "current": "For some reason, the closer he came, the more his son’s eyes darkened.",
+      "defect": "“Darkened” changes the source’s image of the son’s eyes sinking deeply.",
+      "replacement": "For some reason, the closer his father came, the more deeply his son’s eyes sank.",
+      "rationale": "깊게 가라앉아가는 describes the eyes sinking deeper, an image also preserved in the accepted baseline; it does not say they darkened.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Line 163",
+      "current": "I only meant that, with this sense of danger hanging over them, the civilians would feel an even greater urgency to protect themselves. That, too, could be a way to save their lives.",
+      "defect": "“Urgency to protect themselves” adds a specific response that the source does not state.",
+      "replacement": "I only meant that, with these warning signs around them, the civilians would feel an even greater sense of danger. That, too, could be a way to save their lives.",
+      "rationale": "The source says they would feel a greater sense of crisis (더욱 큰 위기감), not specifically an urgency to take protective action.",
+      "confidence": 0.89
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "Lines 191–195",
+      "current": "Too late to pretend I hadn’t noticed. I glanced at Jeok Cheongang, who was still frowning at Sima Gong. He nodded.",
+      "defect": "The first sentence repeats the preceding paragraph’s statement that it was too late to pretend not to notice the gaze.",
+      "replacement": "I glanced at Jeok Cheongang, who was still frowning at Sima Gong. He nodded.",
+      "rationale": "The source gives this beat once before the narrator glances at Jeok Cheongang and receives his nod; the repeated sentence adds emphasis absent from the source.",
+      "confidence": 0.99
+    }
+  ]
+}
