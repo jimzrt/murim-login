@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Sometimes, your true feelings just don’t get through to the other person.",
+      "defect": "The Korean explicitly says “my true feelings,” but the translation shifts to a generic second-person viewpoint.",
+      "id": "F01",
+      "rationale": "The source uses 내 진심, preserving the narrator’s first-person perspective.",
+      "replacement": "Sometimes, my true feelings just don’t get through to the other person.",
+      "severity": "minor",
+      "source": "Line 5"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The more I thought about it, the stranger it seemed.",
+      "defect": "The source says the more one knows or learns, the stranger it is; the translation changes that accumulating knowledge into thinking about it.",
+      "id": "F02",
+      "rationale": "알면 알수록 means “the more one knows,” not “the more one thinks about it.”",
+      "replacement": "The more I learned, the stranger it seemed.",
+      "severity": "minor",
+      "source": "Line 72"
+    },
+    {
+      "confidence": 0.91,
+      "current": "So don’t do anything stupid like fighting to the death.",
+      "defect": "“Fighting to the death” implies the fight will end in death, stronger than the source’s warning not to risk one’s life fighting.",
+      "id": "F03",
+      "rationale": "목숨 걸고 싸우다 means to fight while risking one’s life; it does not necessarily mean fighting until someone dies.",
+      "replacement": "So don’t do anything stupid like risking your life in a fight.",
+      "severity": "minor",
+      "source": "Line 149"
+    }
+  ],
+  "summary": "The translation is largely faithful, with a few shifts in viewpoint and meaning.",
+  "version": 1
+}

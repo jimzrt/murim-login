@@ -8,7 +8,7 @@ We weren’t going to settle this by talking anyway.
 
 “That mouth of yours…”
 
-The words died before he could finish, leaving only a breath that scattered into the air.
+The words trailed off before he could finish them.
 
 The professor—or rather, the North Heaven Demon Lord—looked dizzy with rage. His face twisted as he steadied his breathing.
 
@@ -18,7 +18,7 @@ Since he seemed to be struggling, I spoke for him.
 
 “What?”
 
-“That’s what you were going to say, right? I’ve heard it plenty of times. I know.”
+“That’s what you were going to say, right? I’ve heard it plenty of times.”
 
 The North Heaven Demon Lord stared at me, momentarily at a loss for words, then clenched his teeth.
 
@@ -46,7 +46,7 @@ Jeok Cheongang, standing beside me, added, “For the record, mine would circle 
 
 A sharp whistle swallowed the rest of my words.
 
-I ducked on instinct, without a moment’s hesitation. A dagger shot past overhead at the speed of a streak of light and slammed into the cliff face.
+I ducked on instinct. A dagger streaked over my head like a beam of light and slammed into the cliff face.
 
 *KABOOM!*
 
@@ -86,7 +86,7 @@ There was no anger left on the North Heaven Demon Lord’s face. At his low voic
 
 The old nomad Jamukha’s eyelids trembled.
 
-“That is the very reason I have lived until now.”
+“That is the reason I have lived until now.”
 
 “Then what will you give me?”
 
@@ -98,7 +98,7 @@ The old nomad Jamukha’s eyelids trembled.
 
 With a heavy step, the dark crimson energy that had risen like heat haze gathered into a thick mist.
 
-The two men had finally drawn out every last drop of their strength. Watching them, Jeok Cheongang spoke calmly.
+As the two men drew out every last drop of their strength, Jeok Cheongang spoke calmly.
 
 “Taekyung.”
 
@@ -114,7 +114,7 @@ I answered without hesitation. “No.”
 
 Jeok Cheongang fell silent for a moment, then sighed.
 
-“Do you have some kind of disease that makes blood gush from your seven apertures and kills you if you play along at a time like this?”
+“Will blood gush from your seven apertures and kill you if you play along for once?”
 
 “What’s the point? We can’t even get our timing right. Better to land another hit on those bastards.”
 
@@ -132,7 +132,7 @@ For a moment, I didn’t know what to say. Then Jeok Cheongang’s quiet voice r
 
 “We’ve never made any embarrassing promises to each other, but as always, remember one thing.”
 
-“What should I keep in mind…?”
+“What’s that?”
 
 “This old man is always by your side.”
 
@@ -158,7 +158,7 @@ Step by step, the two enemies drew closer. I watched the dark crimson mist grow 
 
 “A long life at my age, huh? Seems I have a reason to live at least another hundred years.”
 
-Jeok Cheongang laughed heartily, clearly delighted.
+Jeok Cheongang threw back his head and laughed, clearly delighted.
 
 Pale light-flames gathered in his outstretched hands. Alongside them, blue-white flames surged over the spearhead of White Flame, burning away the chill of the deep night.
 
@@ -176,7 +176,7 @@ No. *We* stepped forward together, as if we’d promised to.
 
 Everyone who faced that mist, red as blood and frighteningly thick, felt a chill sink deep into their spines and stopped.
 
-No. They had no choice but to stop.
+They had no choice.
 
 Their instincts knew before their minds did.
 
@@ -192,7 +192,7 @@ But the greatest reason so many people from Shanxi were held back was the terrif
 
 What could describe the scene better than *heaven and earth shaking*?
 
-Beyond the mist, writhing like a living creature, four Supreme Peak masters were entangled with one another at the speed of flashes of light.
+Beyond the mist, which writhed like a living creature, four Supreme Peak masters clashed at blinding speed.
 
 Without a moment’s pause.
 
@@ -212,7 +212,7 @@ Flame-Extinguishing Divine Fist.
 
 A tremendous blaze erupted from a technique he had brought to the tenth level of mastery through more than a century of training.
 
-It stained the air and shot toward the enemy before him—toward the North Heaven Demon Lord.
+It lit the air as it shot toward the enemy before him—toward the North Heaven Demon Lord.
 
 *KABOOOOOM!*
 
@@ -224,7 +224,7 @@ Or rather, it vanished from human sight, with all its limitations.
 
 *Whoosh.*
 
-A tiny, faint whistle slipped quietly into his ear.
+A tiny whistle reached Jeok Cheongang’s ear.
 
 But he knew well that movement faster than sound could fool his hearing, too.
 
@@ -252,7 +252,7 @@ With the Temporary Strength Pill’s power behind him, the North Heaven Demon Lo
 
 *Shwaa!*
 
-The spearhead pierced a single precise point.
+The spearhead pierced straight through a single point.
 
 The immense Force at its tip split flames that had seemed capable of burning the whole world, and the distance between the two men vanished.
 
@@ -262,13 +262,13 @@ Jeok Cheongang’s eyes widened at the overwhelming force.
 
 This wasn’t a question of enlightenment in the martial arts.
 
-The North Heaven Demon Lord’s movements, enhanced to an extreme, made everything possible—along with internal energy so powerful it made Jeok Cheongang wonder if he had drawn out every last bit of his innate qi.
+The North Heaven Demon Lord’s internal energy was so immense that Jeok Cheongang wondered if he had drawn out every last bit of his innate qi. That, combined with his greatly enhanced speed, made it possible.
 
 *Damn it.*
 
 Swallowing the curse rising to his lips, Jeok Cheongang drew on all the internal energy in his body.
 
-He slammed both hands together against the spearhead plunging toward his chest.
+He slammed his hands together around the spearhead plunging toward his chest.
 
 *Krrrrk!*
 
@@ -298,7 +298,7 @@ He could feel throughout his body that Jeok Cheongang wasn’t bluffing.
 
 Though he drove it with all his strength, the spearhead could go no farther.
 
-Jeok Cheongang’s skin was crushed by the Force, but his toes were dug deep into the ground, perfectly still.
+Jeok Cheongang’s skin was being crushed by the Force, yet his feet, dug deep into the ground, did not budge.
 
 The old monster of Mount Jiuhua had returned decades younger—and far stronger than the North Heaven Demon Lord remembered.
 
@@ -306,7 +306,7 @@ Strong enough that even after taking the Temporary Strength Pill, he couldn’t 
 
 *But…*
 
-It ends here.
+It ended here.
 
 The moment that thought formed, the North Heaven Demon Lord twisted the spear shaft with every ounce of strength he had.
 
