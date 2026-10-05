@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "And yet he could still dredge up that tiny fragment from his aging mind because the young nomad, who had rampaged like a wolf despite his terrible injuries, had left such a powerful impression on him.",
+      "defect": "The source explicitly identifies this as a fragment of a memory from more than half a century ago. The assembled copy retains the fragment and its cause but drops the age of the memory.",
+      "id": "F02",
+      "rationale": "The source says over half a century had passed since this memory; the accepted baseline also preserves that timeframe.",
+      "replacement": "It was a fragment of a memory more than half a century old. And yet he could still dredge it up from his aging mind because the young nomad, who had rampaged like a wolf despite his terrible injuries, had left such a powerful impression on him.",
+      "severity": "minor",
+      "source": "Line 57"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Or so everyone, including the Thunderbolt Saber King, had believed.",
+      "defect": "The source explicitly says the chieftain vanished without a trace. The assembled copy moves directly to what everyone believed, leaving the disappearance itself unstated.",
+      "id": "F03",
+      "rationale": "The disappearance is a distinct narrative beat in the source and was present in the accepted baseline.",
+      "replacement": "He vanished without a trace. Everyone, including the Thunderbolt Saber King, had believed that was the end of him.",
+      "severity": "minor",
+      "source": "Lines 93–95"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Especially not for an old master like the Thunderbolt Saber King.",
+      "defect": "This leaves out the source's intervening point that enlightenment has no end and progress is not exclusive to the young. In the assembled copy, the remaining sentence is also left without that context.",
+      "id": "F04",
+      "rationale": "The source explicitly links the old master's continued development to the broader ideas that enlightenment is endless and that the young do not have a monopoly on progress.",
+      "replacement": "There was no end to enlightenment. Progress wasn’t a privilege reserved for the young—especially not for an old master like the Thunderbolt Saber King.",
+      "severity": "minor",
+      "source": "Lines 279–283"
+    }
+  ],
+  "summary": "The assembled copy contains a duplicated passage and omits several source details preserved in the accepted baseline.",
+  "version": 1
+}

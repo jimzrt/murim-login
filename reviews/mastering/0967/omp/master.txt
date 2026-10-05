@@ -4,13 +4,13 @@ To a martial artist, martial arts were like fingerprints: each person’s took a
 
 Even disciples who studied under the same master, learned the same martial arts, and followed the same formulas would move differently according to their temperaments and physical traits.
 
-A man who doesn’t fear death might use a sword technique more boldly than prescribed. Someone with short arms and legs might widen their stride when using a footwork technique.
+A man who didn’t fear death might wield his sword more boldly than the technique prescribed. Someone with short limbs might widen his stride to perform a footwork technique.
 
 And at that moment, something about Jamukha felt strangely familiar to Peng Cheolhu, the Thunderbolt Saber King.
 
 *BOOM! BOOM! KRAAA-BOOM!*
 
-The two saber blades clashed without pause, accompanied by a barrage of fierce impacts.
+The two saber blades clashed again and again.
 
 Beyond them, Jamukha’s calm face—and every movement he made—grew more familiar the longer the Thunderbolt Saber King watched.
 
@@ -44,15 +44,15 @@ The Thunderbolt Saber King murmured as if to himself.
 
 Only one character separated that title from his current one, but more than half a lifetime lay between them.
 
-The first time the two had crossed paths was before the unprecedented Great War called the Great Faction War, back when Peng Cheolhu was the Lesser Family Head of the Hebei Peng Family.
+They had first crossed paths before the unprecedented war known as the Great Faction War, when Peng Cheolhu was still the Lesser Family Head of the Hebei Peng Family.
 
 *I thought so. He’s that barbarian from back then.*
 
 The Thunderbolt Saber King looked at Jamukha with fresh eyes.
 
-And yet he could still dredge up that tiny fragment from his aging mind because the young nomad, who had rampaged like a wolf despite his terrible injuries, had left such a powerful impression on him.
+The memory was more than half a century old. Yet he could still draw it from his aging mind because the young nomad, who had fought like a wolf despite his terrible injuries, had left such a strong impression.
 
-*Right. That’s how it was.*
+*Yes. I remember now.*
 
 Nomads crossed the Great Wall and raided the borderlands. Those who lived there fought to protect their homes and possessions.
 
@@ -68,17 +68,17 @@ Peng Cheolhu had led his family in place of the bedridden Family Head. Recognizi
 
 The Hebei Peng Family and the Murong Family each held a place among the Five Great Families. Their forces were led by two Lesser Family Heads emerging as the finest young masters of their generation.
 
-Before the Great Faction War, the two families had been at odds over supremacy in the north. Their dramatic alliance proved enough to secure a fitting reward.
+Before the Great Faction War, the two families had been rivals for supremacy in the north. Their sudden alliance had won a victory to match.
 
 A flawless victory, without a single misstep.
 
-Or perhaps a glorious triumph.
+A great triumph.
 
 No one in the world questioned either description.
 
 So complete was their victory that the young chieftain of the eastern steppe, routed by Peng Cheolhu and the Hebei Peng Family, had barely escaped the Murong Family’s pursuit when its fighters arrived.
 
-Leaving behind only the blood of the countless warriors who had followed him.
+He had left behind only the blood of the many warriors who followed him, then vanished without a trace.
 
 Or so everyone, including the Thunderbolt Saber King, had believed.
 
@@ -114,7 +114,7 @@ Some fifty years flowed by like a river.
 
 So much changed.
 
-The new name he had taken to avoid a possible pursuit—Jamukha—had become a symbol of authority across the western steppe. His ranks teemed with fine steeds and warriors like hunting dogs. The few dozen gers he had started with had grown into tens of thousands of households.
+Jamukha, the new name he had taken to evade any pursuers, became a name of authority across the western steppe. Fine steeds and warriors like hunting dogs filled his ranks. What had begun as a few dozen gers grew into tens of thousands of households.
 
 But even when he had become all but king of the steppe, Jamukha had not forgotten Peng Cheolhu’s saber cutting across his body like a bolt of lightning.
 
@@ -148,7 +148,7 @@ The Thunderbolt Saber King’s eyes widened at the unexpected words.
 
 *KA-BOOM!*
 
-With a thunderclap that seemed to split the sky, the great saber—until then like a colossal wall—was forced back, unable to withstand the crescent saber’s power.
+With a roar that seemed to split the sky, the great saber that had stood like a colossal wall was forced back by the crescent saber.
 
 *KRAAAASH!*
 
@@ -162,7 +162,7 @@ Space split along his saber’s path. Streams of green Force shot from the cresc
 
 *BOOM! BOOM!*
 
-The roar of the two sabers colliding had already gone beyond the realm of steel.
+The noise of the two sabers colliding no longer sounded like steel.
 
 Jamukha’s gaze, so composed until now, had begun to boil like lava. So had the voice rising from his lips.
 
@@ -194,13 +194,13 @@ As a martial artist and a warrior who carried on the Peng Family’s legacy, the
 
 And he admired Jamukha himself—a man who had kept his wits about him to the very end, even with his revenge almost within reach.
 
-“How did you think to pull back? You had the perfect chance.”
+“How did you know to pull back? You had the perfect chance.”
 
 Even an enemy deserved respect when he had shown courage and fighting spirit worthy of praise.
 
 But Jamukha did not answer the Thunderbolt Saber King’s question.
 
-No—he couldn’t answer.
+He couldn’t.
 
 *Crack.*
 
@@ -222,7 +222,7 @@ He could not understand it.
 
 The martial arts of the Hebei Peng Family were the very embodiment of domineering power. For generations, its members had made their name throughout the world with strength honed through training and explosive internal energy cultivated through their techniques.
 
-For generations, the family had made its name throughout the world through strength honed by training and cultivation techniques that produced explosive internal energy. That reliance was also its one limitation.
+That had also been their one limitation.
 
 So Jamukha had pursued speed above all else.
 
@@ -232,15 +232,15 @@ But—
 
 “Why? How…!”
 
-As the Thunderbolt Saber King approached, steadying himself despite his internal injuries, Jamukha cried out, his voice thick with blood.
+As the Thunderbolt Saber King approached, steadying his internal injuries, Jamukha cried out through blood rising in his throat.
 
 Unlike Jamukha, who had been unable to answer the earlier question, the Thunderbolt Saber King replied calmly.
 
 “The Great Faction War. On that damn battlefield, I learned there were plenty of monsters in this world worse than this old man.”
 
-Especially not for an old master like the Thunderbolt Saber King.
+There was no end to enlightenment. Improvement was not a privilege reserved for the young—least of all for a veteran of the martial world known as the Thunderbolt Saber King.
 
-“Among them, there was this crazy old man who toyed with me and laughed at me. Said I was built like a bear and moved like molasses.”
+“One of them was some crazy old man who toyed with me and laughed. Said I was built like a bear and moved too damn slowly.”
 
 The Fire King, Jeok Cheongang.
 
