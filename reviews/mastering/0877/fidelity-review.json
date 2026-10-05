@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.89,
+      "current": "People take decoctions when they’re sick or need to build up their strength.",
+      "defect": "The Korean specifies 보신(補腎), a traditional-medicine treatment to nourish the kidneys, rather than generic strength-building. The current wording loses that medicinal detail.",
+      "id": "F01",
+      "rationale": "The source explicitly gives 補腎 as the reason someone might take a decoction.",
+      "replacement": "People take decoctions when they’re sick or need to nourish their kidneys.",
+      "severity": "minor",
+      "source": "Line 101"
+    },
+    {
+      "confidence": 0.86,
+      "current": "I mobilized the East Depot’s full strength to rescue the late Emperor and the other royals, but every attempt failed.",
+      "defect": "The source emphasizes that the rescue efforts failed spectacularly or miserably; the translation states only that they failed.",
+      "id": "F02",
+      "rationale": "보기 좋게 실패했어요 intensifies the failure rather than merely reporting its outcome; the accepted baseline also preserved that emphasis.",
+      "replacement": "I mobilized the East Depot’s full strength to rescue the late Emperor and the other royals, but every attempt failed miserably.",
+      "severity": "minor",
+      "source": "Line 183"
+    },
+    {
+      "confidence": 0.83,
+      "current": "The Sichuan Tang Clan’s divine artifact had detoxified the Formless Ultimate Poison that had brought down even Jeok Cheongang, the Fire King, though he’d suffered a serious injury.",
+      "defect": "The source explicitly describes Jeok Cheongang as a giant; that physical characterization is omitted.",
+      "id": "F03",
+      "rationale": "The Korean says 화왕 적천강이라는 거인마저, retaining the image of Jeok Cheongang as a giant even in the comparison.",
+      "replacement": "The Sichuan Tang Clan’s divine artifact had detoxified the Formless Ultimate Poison that had brought down even the giant Jeok Cheongang, the Fire King, though he’d suffered a serious injury.",
+      "severity": "minor",
+      "source": "Line 255"
+    }
+  ],
+  "summary": "The translation is largely faithful, with a few minor losses of source-specific detail and emphasis.",
+  "version": 1
+}

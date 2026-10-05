@@ -40,11 +40,11 @@ I nodded heavily.
 
 To hell with family ties—the Emperor had seized the throne after practically bathing in his relatives’ blood.
 
-If a child of his own blood were born under these circumstances, it was obvious what would soon happen to Prince Shangshan.
+If a child of his own blood were born now, it was obvious what would soon happen to Prince Shangshan.
 
-*Pulling up the weeds by the roots.*
+*Cut the grass and pull up the roots.*
 
-The child who’d once had to leave the imperial palace in a rush, wrapped in swaddling cloth, had now grown into a proper young boy. And the seed of a towering tree, sprung from the same root, had taken hold and flourished.
+The child who’d fled the imperial palace in swaddling clothes had grown into a boy. The seed of a towering tree, sprung from the same root, had taken hold and flourished.
 
 That was more than enough reason for a suspicious Emperor to eliminate Prince Shangshan.
 
@@ -58,19 +58,19 @@ No, that legacy would pass to his new heir as surely as the blood in his veins.
 
 Along with the label of a traitor’s child.
 
-The powerful men holding back their resentment toward the Emperor wouldn’t welcome that. Those who’d drawn up the pledge—basically a rolling paper for signatures—already had an excellent alternative in Prince Shangshan.
+The powerful men who were holding back their resentment toward the Emperor wouldn’t welcome that. Those who’d signed the pledge—basically a rolling paper for conspirators—already had an excellent alternative in Prince Shangshan.
 
 *And if Prince Shangshan disappeared, the Emperor couldn’t ask for a better outcome.*
 
-The air in the pavilion was heavy and cold, as if everyone were thinking the same thing I was.
+The air in the pavilion was heavy and cold. Everyone seemed to be thinking the same thing.
 
-Hong Jin had been staring into space, his gaze sunk deep, and a long silence had passed before he suddenly spoke.
+Hong Jin stared into space for a long while before he suddenly spoke.
 
 “How did you guess?”
 
 “What do you mean?”
 
-“I know a fair amount about the imperial palace, but Young Master Jin couldn’t have made that guess just from knowing that a woman named Aehyang was staying in Qianqing Palace.”
+“I know a fair amount about the imperial palace, but you couldn’t have guessed from the mere fact that a woman named Aehyang was staying in Qianqing Palace.”
 
 I thought back to what had happened.
 
@@ -86,7 +86,7 @@ I thought back to what had happened.
 
 “A decoction…”
 
-“To be honest, I do have people around me who know a lot about that sort of thing, but I don’t know exactly which herbs were used or what went into it. Still, when I thought about it, I could work out the general answer.”
+“To be honest, I know people who understand that sort of thing far better than I do. I couldn’t tell you which herbs were used or what went into it. But when I thought about it simply, I could work out the general answer.”
 
 I went on slowly.
 
@@ -104,15 +104,15 @@ Hong Jin let out a low groan.
 
 “How likely do you think it is, Young Master Jin?”
 
-“Do you want the cold, hard answer?”
+“Honestly?”
 
-“Yes. The cold, hard answer.”
+“Yes. Honestly.”
 
 “At least ninety percent.”
 
 “……!”
 
-“I’m sorry. But everything fits together too perfectly, as far as I can tell.”
+“I’m sorry. But everything fits together too well.”
 
 It was a damnable reality, but I had to acknowledge it.
 
@@ -130,7 +130,7 @@ No, he was probably more certain than anyone.
 
 Even Ma Sanbao, who’d visited the night before, hadn’t said a word about something this important. The Emperor had kept Aehyang’s condition secret even from the East Depot.
 
-Hong Jin, who’d held a fairly high position within the East Depot, couldn’t fail to understand what that meant.
+Hong Jin had held a fairly high position there. He knew what that meant.
 
 Call it a guess, but read it as certainty.
 
@@ -138,19 +138,19 @@ The Emperor’s seed was growing inside Aehyang. It was all but a foregone concl
 
 *He just doesn’t want to believe it.*
 
-I muttered to myself and watched Hong Jin in silence. Then I brought up one of the questions that still hadn’t been answered.
+I watched Hong Jin in silence, then brought up one of the questions that still hadn’t been answered.
 
 “I know this isn’t the best time, but may I ask you something?”
 
 Hong Jin’s voice was subdued. “Anything.”
 
-“Why didn’t the Emperor eliminate Prince Shangshan sooner? I mean…”
+“Why didn’t the Emperor get rid of His Highness sooner? I mean…”
 
 “Why didn’t he kill him?”
 
-I nodded silently, and Hong Jin continued.
+I nodded, and Hong Jin continued.
 
-“I can’t know exactly what was in the Emperor’s heart, but one thing is certain. He was probably afraid of the backlash if he killed even a young prince who hadn’t been weaned yet.”
+“I can’t know exactly what the Emperor was thinking, but I’m sure of one thing. He must have feared the backlash if he killed even a young prince who’d barely been weaned.”
 
 “Hadn’t he already killed countless people?”
 
@@ -202,7 +202,7 @@ Hong Jin realized what I was getting at. Confusion crossed his face.
 
 “……!”
 
-Hyuk Mujin, who’d been listening with a dry swallow, widened his eyes. I nodded quietly.
+Hyuk Mujin, who’d been listening with his mouth dry, widened his eyes. I nodded quietly.
 
 Two words came to mind—*Dark Heaven*—along with the cursed creature I’d seen only about two weeks ago.
 
@@ -212,7 +212,7 @@ A venomous creature that even Sichuan’s most renowned physicians had failed to
 
 It left almost no trace as it drove its host to death. Created centuries ago by the Five Poisons Sect of Nanman, it had been found in the corpse of the City Lord of Sichuan Province.
 
-*And the City Lord of Sichuan Province started showing strange symptoms months ago, on his way back from the imperial capital.*
+*And the City Lord started showing strange symptoms months ago, on his way back from the imperial capital.*
 
 Could it really be a coincidence?
 
@@ -230,9 +230,9 @@ After a silence, Hong Jin answered.
 
 “Then…”
 
-“I’m going to contact Eunuch Ma tonight at the latest. His Highness’s life… may be in immediate danger.”
+“I’ll contact Eunuch Ma tonight at the latest. His Highness’s life… may be hanging by a thread.”
 
-Right.
+He was right.
 
 If the Emperor had planted Blood Soul Gu in the City Lord of Sichuan Province a few months ago and in the late Emperor more than a decade ago—or if Dark Heaven had done it with his help—Prince Shangshan was as good as dead.
 
@@ -258,7 +258,7 @@ Hangzhou, in Zhejiang Province, had been one of the finest cities in the world f
 
 It had countless historic sights and beautiful views. Vast quantities of goods and wealth moved along its canals, and its brightly lit streets bustled with people late into the night.
 
-A city that never slept, in every sense.
+A city that never slept.
 
 So there was nothing unusual about a customer arriving late at one of the many shops lining the imperial capital’s main road.
 
@@ -266,7 +266,7 @@ The employee’s attitude toward him was a little unusual, though.
 
 “Go on, take a look around. If you like anything, ask me then.”
 
-The middle-aged employee looked bored to death, his manner dripping with brusqueness. The customer studied him for a moment, then parted his lips.
+The middle-aged employee looked bored to death, and his voice was brusque. The customer studied him for a moment, then spoke.
 
 “I’ve brought a message from the Blazing Flame Divine Dragon.”
 
