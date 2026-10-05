@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it omits a source detail about the subordinate’s martial training and replaces his specific rank with a generic form of address.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 39–41",
+      "current": "The thought of the man laughing and chatting inside the carriage right now made it hard to answer.",
+      "defect": "The assembled English omits the preceding statement that the subordinate serves in the military but is also a martial artist who has trained in martial arts. This detail explains why he recognizes the difficulty of facing Jin Taekyung and was present in the accepted baseline.",
+      "replacement": "Though he served in the military, he was still a martial artist who had trained in martial arts. The thought of the man laughing and chatting inside the carriage right now made it hard to answer.",
+      "rationale": "The Korean explicitly states that he belongs to the military and is also a trained martial artist before describing his hesitation.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 11",
+      "current": "“Commander!”",
+      "defect": "The source uses 천호, a specific rank, while “Commander” gives only a generic position and loses that rank distinction.",
+      "replacement": "“Thousand Captain!”",
+      "rationale": "The glossary identifies 천호 as the rank “Thousand Captain”; the Korean address here is that rank, not merely a general command role.",
+      "confidence": 0.91
+    }
+  ]
+}

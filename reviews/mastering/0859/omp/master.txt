@@ -8,11 +8,11 @@ Jeong Hogun answered calmly as one of his subordinates rode beside him.
 
 “Commander!”
 
-The subordinate’s gaze was deeply troubled, his expression stiff.
+The subordinate’s eyes were troubled, his expression stiff.
 
-He’d shared hardship with Jeong Hogun for more than ten years. The commander already knew what he was going to say without hearing it.
+They had shared hardships for more than ten years. Jeong Hogun already knew what the man was going to say.
 
-“I can guess well enough how you feel. You’re unhappy with this situation.”
+“I know how you feel. You’re unhappy with this situation.”
 
 “Unhappy doesn’t begin to cover it. Are you really going to stand by and let those rogues carry on like this?”
 
@@ -26,31 +26,31 @@ He let his voice trail off, but Jeong Hogun understood exactly what he meant.
 
 “You want to start a bloodbath?”
 
-“I understand your concerns, Commander. But we can’t just let a band of traitors who defy the Emperor’s supreme command go free.”
+“I understand your concerns, Commander. But we can’t just leave a band of traitors who defy the Emperor’s command alone.”
 
 “And if we don’t leave them alone, are you confident you can bring that man down?”
 
 “Well…”
 
-The subordinate was suddenly at a loss for words.
+The subordinate fell silent.
 
-The thought of the man laughing and chatting inside the carriage right now made it hard to answer.
+Though he served in the military, he was a martial artist himself. Thinking of the man who was probably laughing and chatting inside the carriage right now, he couldn’t bring himself to answer.
 
 Jin Taekyung of the Jin Family of Taiyuan.
 
 No—Jin Taekyung, the Blazing Flame Divine Dragon.
 
-*I’d heard he was still young, but I never imagined he’d be that strong.*
+*I’d heard he was young, but I never imagined he’d be that strong.*
 
 The Embroidered Uniform Guard received reports from every corner of the land. But stories about the Blazing Flame Divine Dragon were so well known that the subordinate had heard plenty even without relying on their far-flung spies.
 
 A descendant of a fallen martial family.
 
-The heir to the Fire Gate Clan, passed down through a single successor for more than three hundred years.
+The heir to the Fire Gate Clan, whose teachings had passed from one successor to the next for more than three hundred years.
 
-The troublemaker nobody in Shanxi had failed to hear of had become a Divine Dragon in barely two years. Now he stood at the heart of the turbulent currents shaking Murim.
+In barely two years, the troublemaker known throughout Shanxi had become a Divine Dragon. Now he stood at the center of the storm shaking Murim.
 
-But there was only one reason Jin Taekyung had become so exceptional.
+And there was one reason above all that Jin Taekyung had become so exceptional.
 
 *His martial might.*
 
@@ -62,7 +62,7 @@ Nor was it surprising that, after a long silence, Jeong Hogun’s subordinate an
 
 “If you know that, that’s enough.”
 
-Jeong Hogun replied evenly. For the Embroidered Uniform Guard, who served the Emperor’s solemn command, it was a humiliating conclusion. But as a soldier, it was the right one.
+Jeong Hogun’s reply was even. For the Embroidered Uniform Guard, charged with carrying out the Emperor’s command, it was a humiliating conclusion. But for a soldier, it was the right one.
 
 A soldier had to be clear-eyed about victory and defeat. Let pride lead him to the wrong decision, and he would never win the battle.
 
@@ -72,11 +72,11 @@ Even so, there was one thing the Embroidered Uniform Guard could never do: submi
 
 Jeong Hogun continued in a low voice.
 
-“But the Emperor’s command was to escort His Highness Prince Shangshan to the imperial capital. As discreetly as possible, without causing the slightest disturbance.”
+“But our orders were to escort His Highness Prince Shangshan to the Imperial Capital. As discreetly as possible, without causing a disturbance.”
 
 “……”
 
-“If His Highness Prince Shangshan hadn’t ordered us to lower our swords, I would have fought them myself.”
+“If His Highness hadn’t ordered us to lower our swords, I would have fought them myself.”
 
 Prince Shangshan Zhu Bao’s actions, however, had stunned every member of the Embroidered Uniform Guard.
 
@@ -102,11 +102,11 @@ The subordinate stared at him with wide eyes, then moved his lips.
 
 The Commander-in-Chief was the head of the Embroidered Uniform Guard.
 
-Among the high-ranking officials packed into the imperial capital, where all manner of powerful figures gathered, the Commander-in-Chief of the Embroidered Uniform Guard held exceptional influence and authority. And his immense power came from one person alone.
+Even among the powerful officials of the Imperial Capital, he wielded exceptional influence and authority. All that power came from one person.
 
 —You mean…
 
-The subordinate didn’t finish his sentence, but both men knew whose rank his words implied.
+The subordinate didn’t finish. Both men knew whom he meant.
 
 The Son of Heaven.
 
@@ -116,7 +116,7 @@ A giant seated on the throne, looking down upon countless officials and subjects
 
 The reason the Embroidered Uniform Guard existed, and the one to whom they pledged absolute loyalty.
 
-So Jeong Hogun’s order to inform the Commander-in-Chief was no different from telling him to report directly to the Son of Heaven.
+To inform the Commander-in-Chief was, in effect, to report to the Son of Heaven himself.
 
 —Commander… what would you have me do?
 
@@ -130,17 +130,17 @@ Jeong Hogun continued his Sound Transmission slowly.
 
 —Go. I won’t be going far.
 
-The subordinate stared at Jeong Hogun, eyes wide with disbelief. Then a faint smile crossed his lips.
+The subordinate stared at Jeong Hogun in disbelief. Then a faint smile crossed his lips.
 
-A prediction. He’d definitely called it a prediction.
+*Predicted.* He had definitely said *predicted*.
 
-Those two words were enough. His displeasure with his superior, who had seemed so unlike himself, and the Embroidered Uniform Guard’s wounded pride both vanished completely.
+That one word was enough. His displeasure with a superior who had seemed so unlike himself vanished, and with it went the sting to the Embroidered Uniform Guard’s pride.
 
 —Loyalty!
 
 The subordinate gave a vigorous military salute he could not accompany with a shout, then rode off like the wind, moving as one with his horse.
 
-Jeong Hogun watched him disappear and thought to himself:
+Jeong Hogun watched him disappear.
 
 Everything was in the palm of the Embroidered Uniform Guard—or rather, of His Imperial Majesty, the Son of Heaven.
 
@@ -148,11 +148,11 @@ Just as it always had been.
 
 * * *
 
-Senses were like vision.
+Senses were like sight.
 
-Just as looking at what was in front of you didn’t erase the scenery around you, I took in every bit of information from all directions with my keen senses, even as I talked.
+Looking at what was right in front of you didn’t erase the rest of the scenery. Even as I talked, my keen senses took in everything around me.
 
-The small movements of birds bounding through the thick undergrowth.
+The birds hopping through the thick undergrowth.
 
 The chill surrounding the Embroidered Uniform Guard as they encircled the carriage—as though escorting it. Or besieging it.
 
@@ -164,7 +164,7 @@ The sound of a horse’s hooves rapidly fading into the distance.
 
 “If you’re hyperventilating, that’s a little concerning. I happen to know a good physician. Why don’t you get a checkup while you’re at it, Your Highness?”
 
-“I’m glad you’re concerned for me. But entrusting my health to a physician I don’t even know would go against imperial etiquette. Once we reach the imperial capital, there will be an Imperial Physician, so…”
+“I’m glad you’re concerned for me. But entrusting my health to a physician I don’t know would go against imperial etiquette. Once we reach the Imperial Capital, there will be an Imperial Physician, so…”
 
 “Then I guess there’s no choice. The Divine Physician is exhausted, too, so that’s probably for the best.”
 
@@ -188,13 +188,13 @@ Hong Jin had learned martial arts, but hadn’t reached the Peak realm. Instead 
 
 —He must’ve gone to deliver a message. Any idea where?
 
-Maybe he’d been reading fan wikis or something; while Zhu Bao rambled on about the Divine Physician, Hong Jin used a finger as a brush and wrote in the air.
+While Zhu Bao rattled off everything he knew about the Divine Physician—had he found a fan wiki somewhere?—Hong Jin used his finger like a brush and wrote in the air.
 
 *The Imperial Capital.*
 
 It wasn’t good news, but I’d expected as much.
 
-The Embroidered Uniform Guard had been created by the Great Nation’s Emperor to serve as his own hands and feet. Anything concerning Prince Shangshan Zhu Bao was certain to reach the Emperor’s ears.
+The Embroidered Uniform Guard had been created to serve as the Emperor’s hands and feet. Anything concerning Prince Shangshan Zhu Bao was bound to reach his ears.
 
 *The Imperial Capital, huh…*
 
@@ -228,7 +228,7 @@ Even if I allowed for the usual exaggeration from the people of this continent a
 
 I licked my parched lips without realizing it.
 
-I really didn’t want to be acting like this, but I couldn’t shake the ominous feeling that had haunted me ever since Sichuan.
+I didn’t want to think this way, but I couldn’t shake the ominous feeling that had stayed with me ever since Sichuan.
 
 *What if my suspicion is right, and the Emperor has some sort of relationship with Dark Heaven?*
 
@@ -236,9 +236,9 @@ I didn’t need to think about the answer.
 
 We’d be fucked. Simple as that.
 
-The moment we entered the imperial capital, surrounded by layers upon layers of a million Imperial Guards, it would all be over.
+The moment we entered the Imperial Capital, surrounded by layer upon layer of Imperial Guards, it would all be over.
 
-If the Son of Heaven, who was as good as a living god, gave the order, countless blades would come flying at us from every direction. He wouldn’t even have to say much. He’d just point at us and say one thing:
+If the Son of Heaven, practically a living god, gave the order, countless blades would come at us from every direction. He wouldn’t even need a long speech. He could just point at us and say:
 
 “They’re dangerous traitors.”
 
