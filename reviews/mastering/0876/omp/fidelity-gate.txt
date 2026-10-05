@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is broadly faithful, with two minor wording shifts that blur source-specific meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 14; Korean lines 27–29",
+      "current": "secrets he’d seized while holding sway over the East Depot",
+      "defect": "The source says Hong Jin may have seized others’ weaknesses, not secrets generally. That distinction matters because the passage contrasts personal friendship with leverage gained as a powerful East Depot figure.",
+      "replacement": "weaknesses he’d seized while holding sway over the East Depot",
+      "rationale": "약점 means weaknesses or vulnerabilities; the text leaves open whether his ties were friendships or weaknesses he had seized.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Paragraph 28; Korean line 57",
+      "current": "whether they say ‘get down’ or ‘bark.’",
+      "defect": "‘Get down’ loses the source’s dig-and-bark parallel. 까라면 까고, 짖으라면 짖는 expresses doing whatever one is ordered to do, with the parallel verbs reinforcing the underlings-as-dogs joke.",
+      "replacement": "whether they tell us to dig or bark",
+      "rationale": "The Korean pairs 까다 (dig) with 짖다 (bark), then frames the guards as obedient underlings; ‘get down’ changes the first image.",
+      "confidence": 0.91
+    }
+  ]
+}

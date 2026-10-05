@@ -1,8 +1,8 @@
 # Chapter 876
 
-Hong Jin stared hard at the golden armor blocking his way.
+Hong Jin fixed a cold stare on the golden armor blocking his way.
 
-His voice, usually as high and gentle as a woman’s, had sunk lower than anyone had ever heard it.
+His voice, usually high and gentle as a woman’s, had sunk lower than anyone had ever heard it.
 
 “Move.”
 
@@ -16,23 +16,23 @@ His voice, usually as high and gentle as a woman’s, had sunk lower than anyone
 
 “……!”
 
-The several dozen Embroidered Uniform Guards looked at one another, their faces stiff.
+The dozens of Embroidered Uniform Guards looked at one another, their faces stiff.
 
 They already knew the eunuch standing before them was no pushover.
 
 They said no matter how high you climbed, power never lasted ten years, and no flower stayed red for ten days. But things were different when you were talking about the East Depot’s former Investigating Eunuch, who had once enjoyed the late Emperor’s favor.
 
-Besides, plenty of old officials still remained at court, and Hong Jin surely had ties with them.
+Besides, plenty of old officials still remained at court, and Hong Jin had surely built up ties with them over the years.
 
-Whether those ties were friendships forged as fellow servants of the late Emperor or secrets he’d seized while holding sway over the East Depot, no one could say. But one thing was certain.
+Whether those ties were friendships forged as fellow servants of the late Emperor or secrets he’d seized as a power broker who’d once controlled the East Depot, no one could say. But one thing was certain.
 
 His influence was not to be underestimated.
 
-“Even after more than ten years away from the palace, a few letters are enough to send a low-ranking Embroidered Uniform Guard to the borderlands. So get the hell out of my way, if you want to keep wearing that shiny armor.”
+“Even after more than ten years away from the palace, a few letters are enough to send a low-ranking Embroidered Uniform Guard stationed here to the borderlands. So get the hell out of my way, if you want to keep wearing that shiny armor.”
 
 A cold flame flickered in Hong Jin’s eyes.
 
-It had been two shichen since his young lord left to meet the Emperor.
+Around four hours had passed since his young lord left to meet the Emperor.
 
 The eunuch, renowned even within the East Depot for his cool head, was already at the end of his patience.
 
@@ -40,7 +40,7 @@ The eunuch, renowned even within the East Depot for his cool head, was already a
 
 Something had clearly happened.
 
-He tried to suppress the unease that kept rising inside him, but even that was getting harder to do.
+He tried to suppress the unease that kept rising inside him, but he was finding it harder and harder to do so.
 
 Just as Hong Jin bit down hard on his lip without realizing it—
 
@@ -54,31 +54,31 @@ A breezy voice cut in out of nowhere. Hyuk Mujin stepped in front of Hong Jin an
 
 “Come now, Comrade Hong, you should calm down too. What did these people do wrong? We underlings do what we’re told, whether they say ‘get down’ or ‘bark.’ Right?”
 
-The Embroidered Uniform Guards frowned, unsure whether he was taking their side or calling them sons of bitches to their faces. Hyuk Mujin didn’t give them time to think it over.
+The Embroidered Uniform Guards frowned, unsure whether he was taking their side or calling them sons of bitches to their faces. Hyuk Mujin didn’t give them time to think it over before continuing.
 
-“Still, could you at least find out what’s going on? We’re tired enough as it is. If you make this difficult, nobody’s going to have a good time. Right?”
+“Still, could you at least find out what’s going on? We’re all exhausted as it is. If you make this difficult, nobody’s going to have a good time. Right?”
 
 “Wait. That’s…”
 
-“Oh, you’ll check? Wow! The Embroidered Uniform Guard! The pride of the Great Nation! The guardians of the imperial family! Thanks a fucking lot! If you get the time, drop by the Hyuk Family Textile Shop in the center of the Imperial Capital. Give them my name and you can get a discount.”
+“Oh, you’ll check? Wow! The Embroidered Uniform Guard! The pride of the Great Nation! The guardians of the imperial family! Thanks a fucking lot! If you get the time, drop by the Hyuk Family Textile Shop in the center of the imperial capital. Give them my name and you can get a discount.”
 
-There was no chance to reply. Without waiting for the guards’ answer, Hyuk Mujin turned, grabbed Hong Jin, and hurried him away.
+There was no chance to reply. Without waiting for the guards’ answer, Hyuk Mujin quickly turned around, grabbed Hong Jin, and backed away.
 
 He spoke in a low whisper.
 
 “There’s nothing to gain by provoking them right now. You know better than most, so why are you doing this? Get a grip.”
 
-Those words didn’t make Hong Jin’s unease disappear, but they were enough to remind him of the reality he’d briefly forgotten.
+Those words didn’t make the unease in Hong Jin’s heart disappear, but they were enough to make him remember something he’d briefly forgotten.
 
 Hyuk Mujin was right.
 
 If he used his remaining influence at court to move a few powerful figures, all he’d manage to do was get rid of a few hunting dogs.
 
-He wouldn’t touch the body, let alone the head. Reaching the owner holding the hunting dogs’ leashes was out of the question.
+He wouldn’t touch the body, let alone the head. And reaching the owner holding the hunting dogs’ leashes was out of the question.
 
 Now was the time to hide his claws and sheath his fangs.
 
-Of course, though his head had cooled, his heart was still pounding wildly.
+Of course, while his head had cooled, his heart was still pounding wildly.
 
 “Aren’t you worried, Martial artist Hyuk?”
 
@@ -100,17 +100,17 @@ Hong Jin nodded weakly, and Hyuk Mujin answered at once.
 
 “What?”
 
-“I’ve followed the Captain through all kinds of trouble. Whenever he’s stepped in to handle something himself, he’s found a way to settle it.”
+“I’ve been following the Captain around and going through all kinds of things with him. There’s never been a problem he couldn’t solve by getting involved himself.”
 
 “……!”
 
-“No matter how badly things got tangled, in the end, the Captain swept it all away. All those bastards who strutted around claiming to be masters or secret masterminds went off to interview with Yama.”
+“No matter how badly things got twisted, in the end, the Captain swept everything away. All those bastards who strutted around bragging about being masters or the masterminds behind it all went off to interview with Yama.”
 
 Hyuk Mujin looked at Hong Jin’s wide eyes and continued in an unruffled voice.
 
 “To be perfectly honest, I’ve never met anyone as strong as the Captain. He’s insanely strong.”
 
-“Martial artist Hyuk, I’m sorry, but I’ll be blunt. The imperial palace is practically a living monster. No matter how skilled a Supreme Peak master Young Master Jin is…”
+“Martial artist Hyuk, I’m sorry, but I’ll be blunt about this. The imperial palace is practically a living monster. No matter how skilled a Supreme Peak master Young Master Jin is…”
 
 “I wasn’t just talking about martial arts.”
 
@@ -120,33 +120,33 @@ Hyuk Mujin looked at Hong Jin’s wide eyes and continued in an unruffled voice.
 
 “……!”
 
-“Even if the palace is crawling with masters a level or two above him, they still won’t be able to handle the Captain. It makes no sense, but that’s how the Captain I know has always been.”
+“Even if the palace is crawling with masters a level or two above him, they still won’t be able to handle the Captain. It makes no sense at all, but that’s how the Captain I know has always been.”
 
 “Does that make any sense?”
 
 “It shouldn’t, but somehow it does. Isn’t that why you asked our Captain to look after His Highness Prince Shangshan?”
 
-Hong Jin was struck speechless. Then he understood.
+Hong Jin was struck speechless. Then he suddenly understood.
 
-When he’d first received Ma Sanbao’s secret letter saying the Embroidered Uniform Guard was on the move, why had Jin Taekyung been the first person to come to mind?
+When he’d first received a secret letter from Ma Sanbao saying the Embroidered Uniform Guard was on the move, why had Jin Taekyung been the first person to come to mind?
 
 Trust between them?
 
 Of course that mattered. But if trust alone had been the deciding factor, he would have brought Li Feng, a lay disciple of Huashan and the Assistant Military Commissioner of Shanxi Province.
 
-Though Li Feng and Hong Jin had briefly been at odds, Li Feng had remained unwaveringly loyal to Prince Shangshan for years, even when the prince had been all but cast adrift.
+Even though Li Feng and Hong Jin had briefly been at odds, Li Feng had spent years offering unwavering loyalty to Prince Shangshan, who’d long been left with no support.
 
-Compared to that, calling Hong Jin’s relationship with Jin Taekyung one of mutual trust was a little embarrassing.
+Compared to that, Hong Jin’s relationship with Jin Taekyung… calling it mutual trust was a little embarrassing.
 
 It was true that he had a fairly close business relationship with the Jin Family of Taiyuan.
 
 But why?
 
-Why had he asked for Jin Taekyung when he could have brought a proven loyalist or another master from the martial world?
+Why had he asked for Jin Taekyung, when he could have brought along a proven loyalist or another master from the martial world?
 
 Hong Jin already knew the answer.
 
-“You’re right, Martial artist Hyuk. I’d foolishly forgotten for a moment. I let my emotions get the better of me.”
+“You’re right, Martial artist Hyuk. I’d foolishly forgotten for a moment. I must have let my emotions get the better of me.”
 
 Seeing Hong Jin regain his composure as if nothing had happened, Hyuk Mujin grinned.
 
@@ -158,7 +158,7 @@ Seeing Hong Jin regain his composure as if nothing had happened, Hyuk Mujin grin
 
 “Oh, that?”
 
-Hong Jin gave a small laugh.
+Hong Jin answered with a little laugh.
 
 “You’d laugh your head off if you heard it, too, Martial artist Hyuk. Apparently, Young Master Jin caught a dragon in Dongting Lake.”
 
@@ -176,7 +176,7 @@ After a breathless silence, he finally managed to squeeze out a few words.
 
 “No, just now. You said it wasn’t a dragon…”
 
-“Oh. An imugi. That’s right. I was there, too. At first I thought I was dreaming, but after a while I realized I wasn’t. Well, it didn’t fly through the sky, so it definitely wasn’t a dragon. It was an imugi.”
+“Oh. An imugi. That’s right. I was there, too. At first I thought I was dreaming, but after a while I realized it wasn’t a dream. Well, it didn’t fly through the sky, so it definitely wasn’t a dragon—it was an imugi.”
 
 “……?”
 
@@ -184,7 +184,7 @@ After a breathless silence, he finally managed to squeeze out a few words.
 
 “……!”
 
-Still reeling as if time had stopped, Hong Jin realized that everything Hyuk Mujin had said earlier had been true. Every last word.
+Still reeling as if time had stopped, Hong Jin realized that everything Hyuk Mujin had said earlier had been true—every last word.
 
 Choosing Jin Taekyung really had been a stroke of genius.
 
@@ -214,7 +214,7 @@ No matter how many times he looked around, he couldn’t see him.
 
 His young lord. The Great Nation’s last hope.
 
-Hong Jin rubbed his eyes with his sleeve again and again, but only one person was coming toward him.
+Hong Jin rubbed his eyes with his sleeve again and again, but only one person came back toward him.
 
 Jin Taekyung, the Blazing Flame Divine Dragon.
 
@@ -222,7 +222,7 @@ Jin Taekyung, the Blazing Flame Divine Dragon.
 
 Something had definitely happened. That cruel Emperor’s hand had finally reached his lord.
 
-But Hong Jin fought back the haze gathering before his eyes.
+But Hong Jin forced himself to hold back the haze gathering before his eyes.
 
 It wasn’t over yet. Surely that young martial artist had found some way out.
 
@@ -230,7 +230,7 @@ And as if to answer Hong Jin’s hopes, Jin Taekyung—who’d nearly knocked th
 
 “Get inside the pavilion. Right now!”
 
-Of course, he didn’t forget to smack his one loyal subordinate on the back of the head in the moment he had to spare.
+Of course, he didn’t forget to smack his one loyal subordinate on the back of the head as he passed.
 
 “Glad you returned safely…”
 
@@ -242,9 +242,9 @@ Whack!
 
 * * *
 
-Back at the pavilion, I used my internal energy to soundproof the place, then quickly laid out what had happened.
+After returning to the pavilion, I used my internal energy to soundproof the place, then quickly laid out what had happened.
 
-As briefly as possible. Just the essentials.
+As briefly as possible, just the essentials.
 
 First. The Emperor had locked Prince Shangshan inside Qianqing Palace under the pretext of protecting him.
 
@@ -252,7 +252,7 @@ Second. That Emperor was shameless as hell. Like the rabbit in the old folktale 
 
 Third. It seemed like the beloved concubine the Emperor had taken from the City Lord of Sichuan Province a few months ago was in Qianqing Palace.
 
-That wrapped up my summary. Even the twenty-first-century summary junkies who treated their eyes and scroll wheels as mere decorations would’ve given it a passing grade. Hong Jin’s expression had changed with every point; now all that remained was unconcealable shock.
+My summary was over—successful enough that even a twenty-first-century summary junkie, who treated their eyes and the scroll wheel as mere decorations, would’ve given it a passing grade. Hong Jin’s expression had changed with every sentence; now all that remained was unconcealable shock.
 
 “The City Lord of Sichuan Province’s concubine… is staying in Qianqing Palace?”
 
