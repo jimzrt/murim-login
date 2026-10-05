@@ -2,7 +2,7 @@
 
 “My subordinate’s crime is my own failing. Please forgive me, Your Highness.”
 
-Baek Yeon smiled warmly as he looked at the young prince before him.
+Baek Yeon smiled at the young prince before him.
 
 Prince Shangshan’s eyes shone with unusual clarity. Reflected in them was Baek Yeon, spattered with his subordinate’s blood.
 
@@ -30,17 +30,17 @@ Jin Taekyung scratched his chin and pointed at the severed head on the ground.
 
 Blood poured without pause from the neck, cut so cleanly it sent a shiver down his spine.
 
-“You commit murder in front of His Highness? Is a Commander of the Embroidered Uniform Guard allowed to run wild like this?”
+“You kill someone in front of His Highness? Does being Commander of the Embroidered Uniform Guard mean you can do whatever you want?”
 
 “Of course.”
 
 “What?”
 
-“I said I’m allowed. No matter how much power a high official wields—even if he’s a member of the imperial family—I and the Embroidered Uniform Guard serve only one person and obey his will.”
+“I said I can. No matter how powerful a high official may be—even if that person is a member of the imperial family—the Embroidered Uniform Guard and I serve only one person and obey his will.”
 
 Baek Yeon raised one hand toward the dark sky, then spread both arms toward the vast buildings stretching endlessly behind him.
 
-“The Son of Heaven. Aside from His Majesty the Emperor, who rules this world on Heaven’s behalf, who would dare punish the Embroidered Uniform Guard on a private whim?”
+“The Son of Heaven. Aside from His Majesty the Emperor, who rules this world on Heaven’s behalf, who would dare punish the Embroidered Uniform Guard as they please?”
 
 “……!”
 
@@ -104,7 +104,7 @@ Baek Yeon continued as if something had just occurred to him.
 
 Jin Taekyung thought for a moment, then shook his head.
 
-“That would be difficult.”
+“I’d rather not.”
 
 “Why?”
 
@@ -128,7 +128,7 @@ The prince’s breath trembled. But Baek Yeon’s armor wasn’t the only thing 
 
 “You are… truly arrogant and discourteous.”
 
-Prince Shangshan Zhu Bao trembled, but kept his eyes fixed on Baek Yeon as he continued.
+Prince Shangshan Zhu Bao trembled, but kept his eyes fixed on Baek Yeon.
 
 “Even so, I will not blame you. Nor will I ask my elder brother, His Majesty, to punish you.”
 
@@ -142,7 +142,7 @@ Baek Yeon bent at the waist in an exaggerated bow.
 
 “Both you and I are ultimately His Majesty’s subjects. But if you were my subject, you would not escape death here today. A sovereign must not forgive a disloyal subject.”
 
-At those words, an unreadable emotion passed over Baek Yeon’s face.
+An unreadable emotion crossed Baek Yeon’s face.
 
 It vanished almost at once. Without a word, he turned and gestured to his subordinates with his chin.
 
@@ -152,13 +152,13 @@ It vanished almost at once. Without a word, he turned and gestured to his subord
 
 “Oh, and Thousand Captain Jeong, stay behind a moment.”
 
-The Embroidered Uniform Guard soldiers, who’d paused where they stood, closed in around the party once more.
+The Embroidered Uniform Guards, who had stood motionless, closed in around the party once more.
 
 It was impossible to tell whether they were escorting the party or surrounding them. As they moved, Baek Yeon sent a quiet Sound Transmission.
 
 —You’ll regret coming here.
 
-Jin Taekyung’s reply came flying back amid the golden tide flowing toward the Inner City, as though he’d been waiting for it.
+Amid the golden tide flowing toward the Inner City, Jin Taekyung’s reply came back as if he’d been waiting for it.
 
 —My whole life’s a regret already. Mind your own business and go suck a dick.
 
@@ -184,13 +184,13 @@ Jeong Hogun, who had stayed at Baek Yeon’s order, followed him as a matter of 
 
 Clank. Clank.
 
-Baek Yeon climbed the stairs that stretched upward without end. Hundreds, even thousands of them. They symbolized the Son of Heaven’s authority.
+Baek Yeon climbed the stairs stretching upward without end. There were hundreds of steps, perhaps thousands—a symbol of the Son of Heaven’s authority.
 
 No matter how high an official’s rank, every time they went to court, they had to climb those stairs drenched in sweat.
 
 Leaving behind their power and their gold and silver treasures.
 
-Reminded of the Son of Heaven’s majesty, which reached all the way to Heaven.
+Reminded of the majesty of the Son of Heaven, who stood so close to Heaven itself.
 
 “Watch whom they meet and who comes to see them. Find out everything.”
 
@@ -198,15 +198,15 @@ To catch fish in a net, you first had to spread it wide.
 
 Only then did you draw it tight and haul it in.
 
-Of course, you also had to consider the possibility that something bulky or sharp-toothed might tear through it.
+Of course, you also had to allow for the possibility that something large or sharp-toothed might tear through it.
 
-“How is ‘that matter’ I entrusted to you some time ago?”
+“What became of ‘that matter’ I entrusted to you?”
 
 No answer came. Jeong Hogun lowered his head in silence, and Baek Yeon clicked his tongue softly.
 
 “Cunning bastards.”
 
-“I have nothing to say. I did my best, but…”
+“I have no excuse. I did my best, but…”
 
 “It doesn’t matter. Not yet. But there must not be a second mistake.”
 
@@ -216,7 +216,7 @@ No answer came. Jeong Hogun lowered his head in silence, and Baek Yeon clicked h
 
 “Yes.”
 
-Baek Yeon suddenly stopped and turned to look at Jeong Hogun. A silent whisper slipped through his slightly parted lips.
+Baek Yeon stopped and turned to look at Jeong Hogun. His lips moved slightly, releasing a soundless whisper.
 
 —If I ordered you to assassinate His Highness Prince Shangshan, would you do it?
 
@@ -234,7 +234,7 @@ A bead of cold sweat ran down Jeong Hogun’s forehead. He hadn’t even noticed
 
 His silence did not last long.
 
-“I will follow your orders with my life. If they are the Emperor’s command.”
+“I would give my life to obey. If it were the Emperor’s command.”
 
 The smile slowly faded from Baek Yeon’s lips. He studied his subordinate with an odd expression, then smiled faintly again.
 
@@ -246,7 +246,7 @@ The smile slowly faded from Baek Yeon’s lips. He studied his subordinate with 
 
 Baek Yeon turned his head.
 
-Far in the distance, he could see a procession of torches and golden armor stretching out one after another.
+Far in the distance, he could see a long procession of torches and golden armor.
 
 And though he could not see him now, the prince with dragon’s blood was somewhere within that ironclad escort.
 
@@ -290,7 +290,7 @@ Not Jeong Hogun. Not even Baek Yeon, who had anticipated the situation and let i
 
 The Blazing Flame Divine Dragon Jin Taekyung they knew had always been like that.
 
-He always overturned everyone’s expectations, bringing storms and flames that swept in from every direction.
+He overturned everyone’s expectations and brought storms and flames that swept through everything around him.
 
 Fwoosh.
 

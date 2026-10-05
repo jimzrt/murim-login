@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "Every citizen of the Great Nation has that right.",
+      "defect": "“Citizen” introduces a civic-status category that the Korean does not establish. 백성 refers to the people or subjects of the Great Nation, not specifically citizens.",
+      "id": "F01",
+      "rationale": "The source says 대국의 모든 백성들, meaning all the people or subjects of the Great Nation. The surrounding imperial setting does not establish a citizenship-based distinction.",
+      "replacement": "Everyone in the Great Nation has that right.",
+      "severity": "minor",
+      "source": "Lines 99–103"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor shift in how the petition right-holder is described.",
+  "version": 1
+}
