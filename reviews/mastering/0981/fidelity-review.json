@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Just two syllables.",
+      "defect": "The source says the quoted number is only two written characters. Calling them syllables changes the unit, and it is also inaccurate for the English phrase “Five thousand,” which has three syllables.",
+      "id": "F01",
+      "rationale": "‘글자’ refers to written characters; the line comments on the brevity of ‘오천’ as written.",
+      "replacement": "Just two characters.",
+      "severity": "minor",
+      "source": "Lines 19, 23: ‘오천.’ / ‘고작 두 글자다.’"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Guilt over what he’d already lost.",
+      "defect": "The translation weakens the explicit self-reproach into guilt over the loss, without clearly preserving that he blames himself.",
+      "id": "F02",
+      "rationale": "‘스스로를 향한 자책’ explicitly makes the reproach self-directed. The accepted baseline also preserved this as “Self-reproach.”",
+      "replacement": "Self-reproach over what he’d already lost.",
+      "severity": "minor",
+      "source": "Line 195: ‘이미 잃어버린 것에 대한, 스스로를 향한 자책.’"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with two minor fidelity issues in the assembled wording.",
+  "version": 1
+}

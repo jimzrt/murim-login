@@ -16,7 +16,7 @@ In the first light spreading from the distant east, he watched his younger broth
 
 Just two syllables. Far too short to hold the weight of thousands of lives. The number didn’t feel real.
 
-But it was, without a doubt, reality.
+But it was.
 
 *Over three thousand died. The rest suffered injuries, big and small, and many were left crippled.*
 
@@ -30,11 +30,11 @@ Many of the casualties were government soldiers from the Shanxi Provincial Offic
 
 More than five thousand casualties, yet in a single night they’d annihilated an army of well over thirty thousand.
 
-They’d won an incredible victory against foreign enemies who outnumbered and overpowered them. It was no exaggeration to say they’d written a new page in the history of the Great Nation.
+Against foreign enemies who outnumbered and overpowered them, they’d won a victory that would write a new page in the history of the Great Nation.
 
-And yet, not a single person looked happy as they spoke of the great victory.
+And yet, when they spoke of that great victory, neither of them looked happy.
 
-Those who took what belonged to others reveled in their victories. But those who fought to protect what was theirs mourned what they’d lost along the way.
+Those who took what belonged to others could revel in victory. Those who fought to protect what was theirs mourned what they’d lost along the way.
 
 The bodies and blood left behind by the dead were a burden the survivors alone had to bear.
 
@@ -42,9 +42,9 @@ The bodies and blood left behind by the dead were a burden the survivors alone h
 
 The great tiger of the Peng Family, which had held sway over Hebei for so long, had yet to wake from his grievous injuries.
 
-No one could have anticipated that the North Heaven Demon Lord—someone he’d considered a friend—would betray him. And the martial arts he’d used in his sudden ambush were in no way inferior to those of the Thunderbolt Saber King.
+No one could have foreseen the betrayal of the North Heaven Demon Lord, whom Peng had considered a friend. Nor were the martial arts the Demon Lord used in his sudden attack in any way inferior to Peng’s.
 
-*Even after we took down Jamukha and the North Heaven Demon Lord, things didn’t go smoothly. If we hadn’t subdued the nomads, we would probably have suffered much heavier losses.*
+*Even after we took down Jamukha and the North Heaven Demon Lord, things didn’t go smoothly. If we hadn’t subdued the nomads, our losses would have been much worse.*
 
 Despite having joined the battlefield some time before, the Murong Family’s forces had remained relatively intact until the fighting was nearly over.
 
@@ -58,7 +58,7 @@ The law of the strong preying on the weak applied everywhere.
 
 Sensing their end, the Murong Family fought with everything they had.
 
-While their allies were dying all around them, they took the Temporary Strength Pill they’d held back until then and fought to open an escape route alongside the western steppe nomads who’d refused to abandon their cause even after Jamukha’s death.
+They took the Temporary Strength Pills they’d withheld even as their allies died around them. Then, together with the western steppe nomads who had refused to yield after Jamukha’s death, they fought to open an escape route.
 
 Together, they numbered a staggering five thousand.
 
@@ -84,7 +84,7 @@ The world called them the Embroidered Uniform Guard.
 
 A dense fog of blood rolled over the gorge and engulfed the broad basin.
 
-With the first light of dawn, reinforcements swept in from every direction and crushed the enemy. The Bow Saint and the Fire King dominated the battlefield, while Jin Taekyung drove his spearhead into the chest of Murong Wijin, Head Elder of the Murong Family, who had resisted until the very end.
+With the first light of dawn, reinforcements swept in from every direction. The Bow Saint and the Fire King dominated the battlefield, while Jin Taekyung drove his spearhead into the chest of Murong Wijin, the Murong Family’s Head Elder, who had resisted to the very end.
 
 The battle—the war—ended that day.
 
@@ -94,7 +94,7 @@ It left behind the joy of a great victory, and a sorrow heavier still.
 
 Three full days had passed since then. Mukyung had finally regained consciousness, and his younger brother had told him everything that had happened. Now Taekyung was walking away, growing smaller beyond the window.
 
-Before he left, he’d left behind an old book.
+Before leaving, he’d placed an old book in Mukyung’s hands.
 
 *He asked me to give it to you. No—to hyung.*
 
@@ -110,7 +110,7 @@ Only the four characters on the cover of the book resting on his knees remained 
 
 Shura Annihilating Fist.
 
-It was the last trace an old master had left in this world—and the legacy of his martial lineage, entrusted to the Sword Demon of the Jin Family of Taiyuan.
+The last trace an old martial artist had left in this world. The legacy of his martial lineage, left to the Sword Demon of the Jin Family of Taiyuan.
 
 Another casualty of the battle three days ago. A man who had fought back-to-back with Mukyung but had not survived.
 
@@ -126,7 +126,7 @@ Mukyung remembered his last smile, blood staining his bared teeth. And he rememb
 
 *“Pardon?”*
 
-*“So, I was wondering—are you interested in Seowol?”*
+*“So, what do you think of Seowol?”*
 
 *“I’m sorry, what are you talking about all of a sudden…?”*
 
@@ -226,11 +226,11 @@ Taekyung no longer waited for an answer. Hyuk Mujin’s awkward attempts to play
 
 The voice continued as though its words were meant for someone else.
 
-“We just have to keep trying. Do the best we can with what we can do right now. If you despair and give up because nothing changes, that’s when hell really begins. Because later, you realize that all the effort you put in meant fewer people were taken from you.”
+“We just have to keep trying. Do the best we can right now. If we lose hope and give up because nothing changes, that’s when the real hell begins. Because sooner or later, we realize that all that effort meant fewer people were taken from us.”
 
 “…!”
 
-“So just keep doing what you’ve been doing. Keep at it, like you always have.”
+“So we keep doing what we’ve been doing. Just like we always have.”
 
 The bitterness in Taekyung’s voice slowly faded. A brief silence fell.
 
