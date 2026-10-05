@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor fidelity issues remain: an unsupported implication about the boy’s independence and a softened description of the Demon Lord’s lunge.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 107–109",
+      "current": "her youngest boy—far too young to be on his own—would survive",
+      "defect": "The source says her youngest son was far too young, but does not say he was too young to be on his own. That adds a specific implication about his independence.",
+      "replacement": "her youngest boy—still far too young—would survive",
+      "rationale": "턱없이 어린 describes the son as far too young; it does not specify what he was too young to do.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 189–193",
+      "current": "he was about to shoot forward and tear the Emperor to pieces.",
+      "defect": "The source says he shot forward toward the Emperor, intending to tear him to pieces. “Was about to shoot forward” reduces that movement to an impending action.",
+      "replacement": "he shot forward, intent on tearing the Emperor to pieces.",
+      "rationale": "쏘아져 describes him shooting forward; the following clause gives his intent. The voice interrupts at that moment.",
+      "confidence": 0.88
+    }
+  ]
+}

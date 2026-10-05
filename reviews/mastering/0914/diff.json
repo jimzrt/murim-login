@@ -1,0 +1,1672 @@
+{
+  "baseline_blocks": 174,
+  "baseline_sha256": "aaf15b23f4cd92bc13825f06c81ddb76dc21b23869b605b9ad36fd5942ef860e",
+  "global_terminology_alerts": [],
+  "hunk_count": 85,
+  "hunks": [
+    {
+      "baseline": "It was a name that remained, however faintly, in his memory.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "11",
+      "sol": "The name remained in his memory, however faintly.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He and every other prince had studied the art of ruling, and they were expected to know the history of the Great Nation and the imperial family inside and out.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "13",
+      "sol": "He and every other prince had studied the art of ruling. They were expected to know the history of the Great Nation and the imperial family inside and out.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That history included records concerning the Maoshan Sect.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "15",
+      "sol": "",
+      "sol_paragraphs": "after P6",
+      "sol_range": [
+        6,
+        6
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "모산파",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Maoshan Sect"
+        }
+      ]
+    },
+    {
+      "baseline": "More precisely, the event known as the “Maoshan Rebellion.”",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "17",
+      "sol": "That history included the Maoshan Sect—or, more precisely, the event known as the “Maoshan Rebellion.”",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **Third year of Pyeongjeong.**\n>\n> When His Majesty Taizu declared Nanjing in Jiangsu the imperial capital, the treasonous Maoshan rebels opposed the decision, rallied their forces, and rose against him.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "21",
+      "sol": "> **Third year of Pyeongjeong.**\n>\n> When His Majesty Taizu declared Nanjing in Jiangsu the Imperial Capital, the treasonous Maoshan rebels opposed the decision, rallied their forces, and rose against him.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The event received only a brief mention in the histories written by court historians, but its repercussions had been considerable.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "23",
+      "sol": "The court historians had given the event only a brief mention, but its repercussions had been considerable.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was an open revolt against the first Emperor, who had ended the long, fierce age of warring heroes and established himself as the continent’s final victor and an absolute ruler with boundless power.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "27",
+      "sol": "It was an open revolt against the first Emperor, who had emerged from the long, fierce age of warring heroes as the continent’s final victor and established himself as an absolute ruler with boundless power.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The day the imperial court received word that the Maoshan Sect, facing the loss of its ancestral home after generations of inhabiting it, had gathered its forces to oppose the relocation of the capital, Taizu immediately ordered his troops to march.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "33",
+      "sol": "The day the imperial court learned that the Maoshan Sect was gathering its forces to oppose the relocation of the capital, Taizu ordered his troops to march. The sect faced losing the home it had occupied for generations.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And three days later, the Maoshan Sect had disappeared from the world.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "35",
+      "sol": "Three days later, it had disappeared from the world.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "모산파",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Maoshan Sect"
+        }
+      ]
+    },
+    {
+      "baseline": "The mountain they had risked their lives to protect was engulfed in flames. Everything connected to those three characters—Maoshan Sect—was hacked apart by wave after wave of soldiers and thrown onto the pyres.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "37",
+      "sol": "The mountain they had risked their lives to protect was engulfed in flames. Everything connected to the three characters that spelled *Maoshan Sect* was hacked apart by wave after wave of soldiers and thrown onto the pyres.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No distinction between humans and livestock.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "39",
+      "sol": "Humans and livestock alike.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No distinction between the living and the dead.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "41",
+      "sol": "The living and the dead alike.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There, gazing back at him, stood the Maoshan Sect’s last surviving root—the one who had endured through the ages for this day alone.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "49",
+      "sol": "There stood the Maoshan Sect’s last surviving root, gazing back at him. He had endured through the ages for this day alone, his eyes burning with the hatred of a man who had never once forgotten his grudge.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His eyes burned with a hatred that could belong only to someone who had never once forgotten his grudge.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "51",
+      "sol": "",
+      "sol_paragraphs": "after P21",
+      "sol_range": [
+        21,
+        21
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "The Emperor descended the stairs, carpeted in crimson silk, and the two men who had once been bound together as ruler and subject drew closer to each other.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "65",
+      "sol": "The Emperor descended the stairs carpeted in crimson silk. The two men who had once been bound as ruler and subject drew closer to each other.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Until the Emperor stopped halfway down.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "67",
+      "sol": "",
+      "sol_paragraphs": "after P28",
+      "sol_range": [
+        28,
+        28
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Until a quiet voice slipped through his cracked lips.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "69",
+      "sol": "Then the Emperor stopped halfway down, and a quiet voice slipped through his cracked lips.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the abrupt question, the Eastern Heaven Demon Lord laughed aloud.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "75",
+      "sol": "The Eastern Heaven Demon Lord laughed aloud at the abrupt question, though his monstrous face was twisted into anything but a smile.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His face twisted into a monster’s, at odds with the sound of his laughter.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "77",
+      "sol": "",
+      "sol_paragraphs": "after P32",
+      "sol_range": [
+        32,
+        32
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had waited an awfully long time for this day.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "81",
+      "sol": "He had waited a very long time for this day.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "How many nights had he spent reliving his sense of betrayal and thirst for revenge?",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "83",
+      "sol": "How many nights had he lain awake, reliving his sense of betrayal and his thirst for revenge?",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The boy had chosen to become a eunuch so he could bring down the impregnable fortress of the Great Nation by the surest means possible. Then one day, when he was a young man, an unwelcome visitor had appeared and made him an offer.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "87",
+      "sol": "The boy had chosen to become a eunuch as the surest way to bring down the impregnable fortress of the Great Nation. Then, one day after he had grown into a young man, an unwelcome visitor appeared with an offer.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And that day, the young man became part of the demonic army.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "91",
+      "sol": "And that day, the young man joined the demonic army.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His father had often said that an age of peace and prosperity would come someday. His two older brothers had been dragged off to the battlefield as though they were captives, yet they had promised they would return alive.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "103",
+      "sol": "His father had often said that an age of peace and prosperity would come someday. His two older brothers had been dragged off to the battlefield as though they were captives, yet they had promised to return alive.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And their mother, who had lost her husband and two sons, had believed that at least her youngest boy—far too young to be on his own—would survive.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "105",
+      "sol": "His mother, having lost her husband and two sons, had believed that at least her youngest boy, far too young to be sent to war, would survive.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The boy had lost his entire family. He had barely survived the battlefield he’d been forced into, only for a second happiness—one that had miraculously found him—to be stolen away.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "111",
+      "sol": "The boy had lost his entire family and barely survived a battlefield he’d been forced onto. Then the second happiness that had found him, almost like a miracle, was stolen away as well.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You betrayed me first.”",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "113",
+      "sol": "“You betrayed me long ago.”",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Eastern Heaven Demon Lord’s voice, cold from beginning to end, and his gaze alike began to seethe like molten lava.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "123",
+      "sol": "The Eastern Heaven Demon Lord’s voice and gaze, both cold until now, seethed like molten lava.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To him, he was the one who had been betrayed first. The common people. The world.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "125",
+      "sol": "As he saw it, he was the one who had been betrayed first. The common people had been betrayed. The whole world had been betrayed.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His family had been lost in the desperate struggles of heroes dreaming of becoming kings and ministers. His Master and fellow disciples, who had become another family to him, had been hacked apart by countless spears and swords.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "127",
+      "sol": "He had lost his family to the struggles of men dreaming of becoming kings and ministers. His Master and fellow disciples, who had become another family to him, had been hacked apart by countless spears and swords.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had tried to protect their ancestral home, passed down through generations, in defiance of Taizu’s decree that no martial artists could live near the imperial capital.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "131",
+      "sol": "They had tried to protect the home passed down to them through generations, defying Taizu’s decree that no martial artists could live near the Imperial Capital.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had taken a very long time for the boy to become a young man, the young man to become middle-aged, and finally for his hair to turn white. But those years had not been wasted.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "141",
+      "sol": "It had taken many years for the boy to become a young man, the young man to become middle-aged, and finally for his hair to turn white. But those years had not been wasted.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mask of Cang Gong, which the Eastern Heaven Demon Lord had worn, was magnificent and powerful.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "143",
+      "sol": "The mask of Cang Gong that the Eastern Heaven Demon Lord wore was magnificent and powerful.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the Eastern Heaven Demon Lord and Cang Gong, he was second in power only to the Emperor.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "147",
+      "sol": "As both the Eastern Heaven Demon Lord and Cang Gong, he was second in power only to the Emperor.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He might not have worn a dragon robe, but he was another absolute ruler—second to one, above all others—and most of the court lay in his grasp.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "149",
+      "sol": "He might not have worn a dragon robe, but he was another absolute ruler—second to one, above all others. Most of the court lay in his grasp.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Eastern Heaven Demon Lord’s voice boiled as he spoke to the Emperor looking down at him.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "155",
+      "sol": "The Eastern Heaven Demon Lord looked up at the Emperor and spoke, his voice boiling over.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Waves of sound, like the wails of ghosts, spread in every direction.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "167",
+      "sol": "Sound like the wailing of ghosts spread in every direction.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Until they crossed the vast banquet hall and reached the stone walls covered in the bodies of the Imperial Guards.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "171",
+      "sol": "It crossed the vast banquet hall and reached the stone walls covered in the bodies of the Imperial Guards.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Until they could raise those who already lay there in a pitiful state from the dead.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "173",
+      "sol": "It raised them from the dead where they lay.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A roar that chilled the spine alone shook the night air. The monsters, now more ferocious and powerful, advanced in response to the sound waves ringing through their minds.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "177",
+      "sol": "A roar that chilled the spine shook the night air. The monsters, now more ferocious and powerful, followed the sound ringing through their minds.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And at the head of the surging wave of the dead was a man who had waited for this day alone.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "181",
+      "sol": "And at the head of that surging wave of the dead was the man who had waited for this day alone.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With those words, muttered as if making a vow to himself, the Eastern Heaven Demon Lord took a step.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "185",
+      "sol": "He muttered the words as though making a vow to himself, then took a step.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동천마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Eastern Heaven Demon Lord"
+        },
+        {
+          "korean": "마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "No—he shot forward in an instant, intent on tearing the Emperor to pieces.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "187",
+      "sol": "No—he was about to shoot forward and tear the Emperor to pieces.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If not for the voice that pierced his ear at that very moment.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "189",
+      "sol": "Then a voice pierced his ear.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was clearly only one speaker, but the voice came from several directions.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "201",
+      "sol": "There was clearly only one speaker, yet the voice came from several directions.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Six-Harmonies Voice Transmission technique—one beyond the reach of all but the most exceptional Supreme Peak masters.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "203",
+      "sol": "Six-Harmonies Voice Transmission—a technique even a Supreme Peak master would scarcely dare attempt.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Feeling the terrifying internal energy behind it, the Eastern Heaven Demon Lord bit down on his lip.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "205",
+      "sol": "The Eastern Heaven Demon Lord felt the terrifying internal energy behind it and bit down on his lip.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He remembered the bitter events of more than a decade ago.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "207",
+      "sol": "",
+      "sol_paragraphs": "after P94",
+      "sol_range": [
+        94,
+        94
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Then he fixed his gaze on the woman looking down at him from just behind the Emperor’s shoulder.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "209",
+      "sol": "He remembered his bitter defeat more than a decade ago and fixed his gaze on the woman looking down at him from just behind the Emperor’s shoulder.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She looked, on the surface, like nothing more than a beautiful, elegant woman. But the Eastern Heaven Demon Lord had already suffered a bitter defeat once before because of her intervention. He could feel it clearly.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "213",
+      "sol": "On the surface, she looked like nothing more than a beautiful, graceful woman. But he had suffered a crushing defeat once before because of her intervention. He knew exactly how much power was contained in that slender body.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동천마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Eastern Heaven Demon Lord"
+        },
+        {
+          "korean": "마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "Just how much power was contained in that slender body.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "215",
+      "sol": "",
+      "sol_paragraphs": "after P97",
+      "sol_range": [
+        97,
+        97
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And, along with that, how much he himself had grown over the years.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "217",
+      "sol": "He knew how much he himself had grown in the years since, too.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "So Gyo’s image was reflected in the Eastern Heaven Demon Lord’s sunken gaze.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "223",
+      "sol": "So Gyo’s image was reflected in his darkened eyes.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동천마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Eastern Heaven Demon Lord"
+        },
+        {
+          "korean": "마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "His greatest enemy, who had suddenly appeared one day and inflicted a wound on his body and soul that would never heal.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "227",
+      "sol": "The greatest enemy of his life, who had appeared without warning one day and left wounds on his body and soul that would never heal.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even after the grave Internal Injury she had given him refused to heal, forcing him to turn himself into a jiangshi, he still could not be sure who So Gyo was.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "229",
+      "sol": "The grave Internal Injury she had inflicted on him had never healed, forcing him to turn himself into a jiangshi. Even now, he could not be sure who So Gyo was.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If she were a spy for the orthodox factions, she would not have stood by and watched while things reached this point. If she were a master secretly raised by the imperial family, she should have appeared to stop him long ago.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "233",
+      "sol": "If she were an agent of the orthodox faction, she would not have stood by while matters reached this point. If she were a master secretly raised by the imperial family, she should have appeared to stop him long ago.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Holding a weapon in each hand, its shape reminiscent of a curved saber, she continued to look straight at him with an untroubled gaze.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "237",
+      "sol": "Gripping a weapon resembling a curved saber in each hand, she looked straight at him, her gaze untroubled.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She had cast off the black robes that had once covered her from head to toe.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "239",
+      "sol": "",
+      "sol_paragraphs": "after P108",
+      "sol_range": [
+        108,
+        108
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She had freely unleashed the immense power she had kept confined within her body.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "241",
+      "sol": "She had cast off the black clothing that had once covered her from head to toe and freely released the immense power she had kept confined within her body.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An unprecedented energy, made visible, rose strand by strand from all over So Gyo’s body. Her calm voice, at odds with the situation, rang out from all six directions.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "247",
+      "sol": "An unprecedented energy took visible form, rising in fine strands from all over So Gyo’s body. Her calm voice, at odds with the situation, rang out from all six directions.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, I have my own circumstances, just like you do, so I’m not sure I should tell you for free…”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "249",
+      "sol": "“Well, I have my own circumstances, just like you do. I’m not sure I should tell you for free…”",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She walked forward slowly. At the same time, So Gyo’s gaze turned cold.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "253",
+      "sol": "She walked forward slowly, and her gaze turned cold.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "소교",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "So Gyo"
+        }
+      ]
+    },
+    {
+      "baseline": "The Eastern Heaven Demon Lord clenched his teeth without realizing it, but his feet, stopped in their tracks, would not move easily.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "263",
+      "sol": "The Eastern Heaven Demon Lord clenched his teeth without realizing it. But having stopped, he found it difficult to take another step.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Maoshan Sect’s arts might have focused on various forms of sorcery, including the art of controlling jiangshi, but the Eastern Heaven Demon Lord had accepted death as his own and become a superhuman in a different sense.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "269",
+      "sol": "The Maoshan Sect’s arts might have focused on sorcery, including the art of controlling jiangshi, but he had made even death his own and become a superhuman in a different sense.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동천마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Eastern Heaven Demon Lord"
+        },
+        {
+          "korean": "마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "Even though his body could not die or feel pain, his Qi Sense kept sending its master warning after warning.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "277",
+      "sol": "Even though he could no longer die or feel pain, his Qi Sense kept sending him warning after warning.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "고수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "master"
+        }
+      ]
+    },
+    {
+      "baseline": "His Disciple Ma Sanbao’s low voice pierced his ear, but the Eastern Heaven Demon Lord did not move. He simply stared at So Gyo without a word.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "281",
+      "sol": "His Disciple Ma Sanbao’s low voice reached his ear, but the Eastern Heaven Demon Lord did not move. He stared at So Gyo without a word.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Considering the full strength of the Eastern Heaven Demon Lord, even with the Emperor, Baek Yeon, and the Emperor’s hidden guards present, he still had a good chance of winning.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "285",
+      "sol": "Considering the full strength at his disposal, he still had a good chance of winning, even with the Emperor, Baek Yeon, and the Emperor’s hidden guards against him.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동천마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Eastern Heaven Demon Lord"
+        },
+        {
+          "korean": "마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "Strictly speaking, he judged his own martial prowess to be half a step below the Fire King’s or So Gyo’s. But he and all his forces could keep launching attacks as tenacious as a mutual death strike, thanks to their horrifying vitality.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "287",
+      "sol": "Strictly speaking, he judged his own martial prowess to be half a step below the Fire King’s or So Gyo’s. But he and every soldier under his command possessed such horrifying tenacity that they could keep attacking as though each strike were meant to take their own lives along with the enemy’s.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "Not until the bodies of their enemies and the blood flowing through them had gone cold as ice.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "293",
+      "sol": "Not until their enemies’ bodies and the blood flowing through them had gone cold as ice.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The battle to the death was not taking place in this hall alone. By now, the armies of the Great Nation, divided into two, would be fighting a bloody battle around the imperial capital, and his side would win.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "297",
+      "sol": "The battle to the death was not taking place in this hall alone. By now, the armies of the Great Nation, split in two, would be fighting around the Imperial Capital.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P144",
+      "baseline_range": [
+        144,
+        144
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "297",
+      "sol": "His side would win.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the moment the worn bell, a divine artifact of the Maoshan Sect, gave off a strange chime—",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "305",
+      "sol": "The worn bell, a divine artifact of the Maoshan Sect, gave a strange chime.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "More than a thousand of the dead, once the elite soldiers of the Great Nation known as the Imperial Guards, charged across the banquet hall.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "309",
+      "sol": "More than a thousand of the dead—the Great Nation’s elite soldiers, once known as the Imperial Guards—charged across the banquet hall.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And two streaks of light burst out toward the army of the dead surging like a wave, shrieking as it came.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "313",
+      "sol": "As the shrieking army surged forward like a wave, two streaks of light burst toward it.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, the overwhelming Force unleashed by two superhumans who had stepped in front of the Emperor crushed and smashed the flesh and bones of the dead.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "319",
+      "sol": "Baek Yeon and So Gyo had stepped in front of the Emperor. The overwhelming Force they unleashed crushed the flesh and bones of the dead.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "초인",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "superhuman"
+        }
+      ]
+    },
+    {
+      "baseline": "Their power was enough to crush the vanguard in an instant. But the Eastern Heaven Demon Lord, who knew their abilities well, was not the least bit surprised.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "323",
+      "sol": "The vanguard was pulverized in an instant. But the Eastern Heaven Demon Lord knew what the two of them could do and was not the least bit surprised.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But humans, made of flesh and blood, were ultimately fated to perish.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "327",
+      "sol": "Humans were made of flesh and blood, and all were fated to die.",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even those called superhuman had limits set for them as humans, however far beyond ordinary those limits might be.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "329",
+      "sol": "Even those called superhuman had limits. Their limits might be far beyond those of ordinary people, but they were human limits all the same.",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With his gaze sunken deep, the Eastern Heaven Demon Lord moved forward.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "333",
+      "sol": "",
+      "sol_paragraphs": "after P155",
+      "sol_range": [
+        155,
+        155
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "동천마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Eastern Heaven Demon Lord"
+        },
+        {
+          "korean": "마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "His Disciple Ma Sanbao and a master of the Twelve Palaces of the Zodiac, returned from the dead, flanked him on either side as he climbed the stairs, now covered in rotten blood and shattered corpses.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "335",
+      "sol": "The Eastern Heaven Demon Lord moved forward, his gaze dark. With his Disciple Ma Sanbao on one side and a master of the Twelve Palaces of the Zodiac, returned from the dead, on the other, he climbed the stairs now covered in rotten blood and shattered corpses.",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P166",
+      "baseline_range": [
+        166,
+        166
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "341",
+      "sol": "The voice came from some distance behind him.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the voice from behind him, from quite a distance away, he suddenly realized that the howls of his followers, which had been ringing out in the distance, were beginning to die down.",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "343",
+      "sol": "Only then did he realize that the howls of his followers, which had been ringing out far away, were beginning to die down.",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He also realized that the limits he had assumed applied to superhumans might, perhaps, go even further.",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "345",
+      "sol": "Perhaps the limits he had assigned to superhumans were higher than he thought.",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "The Eastern Heaven Demon Lord turned around, his expression rigid. Reflected in his eyes were the faces of two men he hadn’t expected to see again so soon.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "349",
+      "sol": "He turned, his face rigid, and saw two men he had not expected to meet again so soon.",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동천마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Eastern Heaven Demon Lord"
+        },
+        {
+          "korean": "마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "Jeok Cheongang and Jin Taekyung, both looking like blood-soaked men, bared their white teeth and grinned.",
+      "baseline_paragraphs": "P173",
+      "baseline_range": [
+        172,
+        173
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "355",
+      "sol": "Jeok Cheongang and Jin Taekyung stood there looking like men drenched in blood. They bared their white teeth and grinned.",
+      "sol_paragraphs": "P167",
+      "sol_range": [
+        166,
+        167
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 168,
+  "sol_sha256": "67d73b27c95599e78020699fdd8eb1d061197851d9989ab5e3e2afb9e8557ebf",
+  "version": 1
+}

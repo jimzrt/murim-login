@@ -24,7 +24,7 @@ It was an open revolt against the first Emperor, who had emerged from the long, 
 
 Taizu, founder of the unified dynasty, was as cruel as he was great.
 
-The day the imperial court received word that the Maoshan Sect, facing the loss of its ancestral home after generations of inhabiting it, had gathered its forces to oppose the relocation of the capital, Taizu immediately ordered his troops to march.
+The day the imperial court learned that the Maoshan Sect was gathering its forces to oppose the relocation of the capital, Taizu ordered his troops to march. The sect faced losing the home it had occupied for generations.
 
 Three days later, it had disappeared from the world.
 
@@ -86,7 +86,7 @@ The Eastern Heaven Demon Lord stared at the Emperor with cold, gray eyes.
 
 His father had often said that an age of peace and prosperity would come someday. His two older brothers had been dragged off to the battlefield as though they were captives, yet they had promised to return alive.
 
-And their mother, who had lost her husband and two sons, had believed that at least her youngest boy—far too young to be on his own—would survive.
+His mother, having lost her husband and two sons, had believed that at least her youngest boy, far too young to be sent to war, would survive.
 
 But she had been wrong.
 
@@ -94,7 +94,7 @@ Every last one of their hopes had been betrayed.
 
 The boy had lost his entire family and barely survived a battlefield he’d been forced onto. Then the second happiness that had found him, almost like a miracle, was stolen away as well.
 
-“You betrayed me first.”
+“You betrayed me long ago.”
 
 All of them.
 
@@ -136,7 +136,7 @@ Even the imperial family.
 
 “I—or rather, we are…”
 
-The Eastern Heaven Demon Lord’s voice boiled as he spoke to the Emperor looking down at him.
+The Eastern Heaven Demon Lord looked up at the Emperor and spoke, his voice boiling over.
 
 “The Great Nation.”
 
@@ -154,11 +154,11 @@ Louder. Farther.
 
 It crossed the vast banquet hall and reached the stone walls covered in the bodies of the Imperial Guards.
 
-Until they could raise those who already lay there in a pitiful state from the dead.
+It raised them from the dead where they lay.
 
 *GRAAAH!*
 
-A roar that chilled the spine alone shook the night air. The monsters, now more ferocious and powerful, advanced in response to the sound waves ringing through their minds.
+A roar that chilled the spine shook the night air. The monsters, now more ferocious and powerful, followed the sound ringing through their minds.
 
 Toward the towering stairs. Toward the Emperor standing at their center.
 
@@ -272,7 +272,7 @@ Not until their enemies’ bodies and the blood flowing through them had gone co
 
 *If I capture the Emperor and Prince Shangshan—or kill that woman—this will all be over.*
 
-The battle to the death was not taking place in this hall alone. By now, the armies of the Great Nation, divided into two, would be fighting a bloody battle around the imperial capital, and his side would win.
+The battle to the death was not taking place in this hall alone. By now, the armies of the Great Nation, split in two, would be fighting around the Imperial Capital.
 
 His side would win.
 
@@ -296,7 +296,7 @@ As the shrieking army surged forward like a wave, two streaks of light burst tow
 
 Brilliant light flashed.
 
-At the same time, the overwhelming Force unleashed by two superhumans who had stepped in front of the Emperor crushed and smashed the flesh and bones of the dead.
+Baek Yeon and So Gyo had stepped in front of the Emperor. The overwhelming Force they unleashed crushed the flesh and bones of the dead.
 
 *CRUNCH!*
 
