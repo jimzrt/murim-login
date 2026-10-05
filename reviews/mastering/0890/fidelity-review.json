@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "with an easy smile",
+      "defect": "This softens 능글맞게 웃으며, which describes Ma Sanbao smiling slyly or with calculated, ingratiating guile—not merely smiling easily.",
+      "id": "F01",
+      "rationale": "The source characterizes Ma Sanbao’s smile as 능글맞다, reinforcing his slick, manipulative manner as he takes the initiative.",
+      "replacement": "with a sly smile",
+      "severity": "minor",
+      "source": "Korean line 165"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor characterization detail softened in the assembled copy.",
+  "version": 1
+}

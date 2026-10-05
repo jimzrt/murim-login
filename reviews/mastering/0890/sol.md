@@ -4,7 +4,7 @@ Clank. Clank.
 
 Heavy footsteps drew closer, accompanied by the metallic clatter of heavy armor.
 
-Hidden in the darkness just thirty feet away, I felt my heart seize up at Jeong Hogun’s sudden appearance.
+Hidden in the darkness just thirty feet away, I felt my heart seize at Jeong Hogun’s sudden appearance.
 
 *What the hell are you doing here…?*
 
@@ -12,7 +12,7 @@ I didn’t know why a Thousand Captain of the Embroidered Uniform Guard, which w
 
 *Damn it. If I’d known this would happen, I should’ve learned the concealment technique properly.*
 
-Regret washed over me, but it was far, far too late for that.
+The regret came far too late.
 
 I’d struggled tooth and nail to survive in Murim, and that was how I’d met Jeok Cheongang. After inheriting the Fire Gate Clan’s legacy, a good old-fashioned brawl had become both my only major and my general-education requirement.
 
@@ -80,15 +80,15 @@ For the guards who’d only taken shelter from the rain beneath the eaves—and 
 
 “G-General!”
 
-“Military law is strict. This is an order from me as a Thousand Captain of the Embroidered Uniform Guard.”
+“Military law is strict. This is an order from a Thousand Captain of the Embroidered Uniform Guard.”
 
 No. Don’t listen to him.
 
 You’re civilians now anyway. Just punch him.
 
-I fervently cheered on the middle-aged reservists—I mean, the Imperial Guard soldiers—but the two men who’d just been sent through the process of discharge still had a shred of reason left.
+I silently cheered on the middle-aged reservists—I mean, the Imperial Guards—but the two men who’d just been ordered to start the discharge process still had a shred of sense left.
 
-In the military, when they tell you to jump, you ask how high. And the Embroidered Uniform Guard was the place that could even cut off the heads of the highest officials—the sort who could make a flying bird drop from the sky.
+The military was a place where you did as you were told. And the Embroidered Uniform Guard could cut off the heads of even the highest officials, the sort whose word could make a flying bird drop from the sky.
 
 Only two kinds of people could tell Jeong Hogun to go to hell right now:
 
@@ -122,7 +122,7 @@ Ma Sanbao—the East Depot’s second-in-command and its de facto leader—smile
 
 “Of course you were. I know what a fine and capable man you are. But…”
 
-At that moment, Ma Sanbao’s voice, which had always seemed to hover somewhere between a man’s and a woman’s, dropped low.
+Ma Sanbao’s voice, somewhere between a man’s and a woman’s, dropped low.
 
 “Follow procedure. Follow procedure.”
 
@@ -172,7 +172,7 @@ Of course they’d say yes now.
 
 The guards snapped to attention and gave a hearty salute. Jeong Hogun turned away, and I was breathing an inward sigh of relief when a Sound Transmission reached my ear.
 
-—I don’t know exactly why you’ve come all the way here, but there are many eyes watching. Be careful and use your wits. I’ll send word to you myself later.
+*I don’t know exactly why you’ve come all the way here, but there are a lot of eyes watching. Keep your wits about you. I’ll contact you myself later.*
 
 “……!”
 
@@ -196,7 +196,7 @@ Swish.
 
 I moved like a shadow through the darkness, helped by the unrelenting rain and crashing thunder.
 
-After leaping over several pavilions and walls, I picked up a timely hint from a conversation between some other Imperial Guard soldiers.
+After clearing several pavilions and walls, I caught a timely hint in a conversation between two other Imperial Guards.
 
 “Have you seen ‘that guy’?”
 
@@ -206,11 +206,11 @@ After leaping over several pavilions and walls, I picked up a timely hint from a
 
 “Good grief. I’d heard about him, but that much?”
 
-“He’s a lunatic, I’m telling you. At this rate, they say he’ll eat every pig in Zhejiang Province with that mouth of his within a month. He looks like he’s got a pigsty in his stomach.”
+“I’m telling you, he’s a lunatic. At this rate, every pig in Zhejiang Province will end up in his mouth within a month. It’s like he’s got a pigsty in his stomach.”
 
 “Impressive. But wouldn’t it be better to kick him out?”
 
-“The imperial family has its reputation to consider. They can’t treat people brought here for the grand banquet poorly just because they eat a little pork. Orders have already been given to provide them with whatever they need for lodging and meals.”
+“The imperial family has its reputation to consider. They brought those people here for the grand banquet. They can’t turn them away over a little pork, especially when orders have already come down to provide as much food and lodging as they need.”
 
 “Good grief…”
 
@@ -248,7 +248,7 @@ The large kitchen knife in his other hand was trembling.
 
 Creak—BANG!
 
-The door to the pavilion flew open with a rough shove, and the Fire King, Jeok Cheongang, was surprised twice.
+The pavilion door flew open, and the Fire King, Jeok Cheongang, was surprised twice.
 
 First, the middle-aged cook, who clearly hadn’t learned martial arts, was giving off genuine killing intent.
 
