@@ -6,7 +6,7 @@ They burned with a fierce, terrible heat—and yet, somehow, they felt strangely
 
 *Fwoosh.*
 
-The blue-white flames that had pierced his body along with the spearhead burned everything, melted everything, and, at the same time, embraced it all.
+The blue-white flames that had entered his body with the spearhead burned and melted everything they touched. At the same time, they embraced it all.
 
 A man’s unhappy life.
 
@@ -40,7 +40,7 @@ Without taking my eyes off the ash, I asked, “Do you think that was too peacef
 
 “I think so, too.”
 
-No matter how much he’d reflected and repented, the crimes he’d committed would not disappear. Everything he had done as the Eastern Heaven Demon Lord, not Wei Zhong, was a burden he would have to carry even in Hell.
+No matter how deeply he had repented, his crimes would not disappear. Everything he had done as the Eastern Heaven Demon Lord, rather than Wei Zhong, was a burden he would have to carry even in Hell.
 
 “Then why did you do it?”
 
@@ -98,8 +98,6 @@ He paused, turning his gaze west, toward the place where the wind had gone.
 
 “The Maoshan Sect. Yes, the Maoshan Sect would be fitting.”
 
-*Gasp.*
-
 The officials around us sucked in their breath.
 
 Erecting a memorial at the Maoshan Sect would tarnish the reputation of Taizu, the founder of the Great Nation, and the imperial family itself.
@@ -128,7 +126,7 @@ The seat of Crown Prince had stood vacant for more than a decade. Now, at this v
 
 The Emperor no longer looked exhausted.
 
-His voice, filled with the majesty only the sovereign of a nation could possess, pierced the air. Riding the wind, it enveloped the entire grand banquet hall.
+His voice rang with the majesty of a sovereign, carrying across the entire grand banquet hall.
 
 *Clang! Clang! Clang!*
 
@@ -174,7 +172,7 @@ The thought had barely crossed my mind when the Emperor spoke.
 
 “……!”
 
-“Therefore, neither that woman nor the child in her womb has anything to do with Me. No one is to raise questions about this.”
+“Neither that woman nor the child in her womb has anything to do with Me. No one shall question it.”
 
 The court officials looked stunned by his declaration. But a few of us, myself included, were certain of one thing.
 
@@ -186,13 +184,13 @@ The Emperor had an Empress and consorts, yet had produced no heir in more than t
 
 Looking back, though, it wasn’t that he couldn’t have an heir. He had chosen not to.
 
-For the sake of his one and only younger brother, Prince Shangshan Zhu Bao.
+For his one and only younger brother, Prince Shangshan Zhu Bao.
 
-*He must have wanted to protect him from every threat. The throne—and his younger brother.*
+*He had to protect them both from every threat. The throne and his brother.*
 
 The sole direct heir of the orthodox imperial lineage.
 
-And, at the same time, a perfect puppet for Dark Heaven—a figure who gave them every justification they needed to overthrow the Emperor.
+And, to Dark Heaven, a perfect puppet with every claim they needed to overthrow the Emperor.
 
 On the surface, it had seemed that the Emperor couldn’t bear to kill his little brother and had sent him into exile instead. But Prince Shangshan Zhu Bao had survived this long because of the Emperor’s plan.
 
@@ -216,7 +214,7 @@ More than a decade was no short stretch of time.
 
 It had been long enough for the Eastern Heaven Demon Lord to shore up his weakened foundations. Long enough for the Emperor to prepare the decisive battle that would end everything.
 
-And the Emperor had secretly brought his only younger brother back with the help of the Embroidered Uniform Guard, then protected him by keeping him confined.
+The Emperor had secretly brought his only brother back with the help of the Embroidered Uniform Guard, then protected him by keeping him confined.
 
 He had even made an invincible master known as the Bow Saint serve as a mere bodyguard.
 
@@ -226,7 +224,7 @@ The voice that passed between the Emperor’s dry lips was astonishingly warm.
 
 Warm enough to make even Baek Yeon, who had stood beside him longer than anyone as comrade and subject, widen his eyes.
 
-Warm enough to make the body and heart of a boy who had longed for his family for so long suddenly go rigid.
+Warm enough to make the boy who had longed for his family all his life freeze where he stood.
 
 “It’s time.”
 
@@ -264,9 +262,9 @@ How desperately they had wished, for more than a decade, that it had all been a 
 
 That the natural order, twisted and blackened like a monster, would one day be set right.
 
-And yet.
+And now.
 
-And yet, it had.
+Now it had been.
 
 What they had yearned for in silence was unfolding before their eyes.
 
@@ -302,21 +300,21 @@ He had known the truth from the beginning and joined hands with the Eastern Heav
 
 The saying “Succeed and you’re a king; fail and you’re a traitor” was wrong.
 
-Even if you actually plotted treason, it wasn’t a crime as long as you weren’t caught.
+Even if you plotted treason, it wasn’t a crime as long as you weren’t caught.
 
 The old man had once tutored the former Crown Prince. Revered by Confucian scholars throughout the realm, he had risen to the rank of Grand Academician. And in matters like this, he was meticulous.
 
 *I’ll survive. Just as I always have.*
 
-Repeating that resolve to himself, the old man cried out “Long live!” amid the confusion of the crowd, inching backward.
+Repeating that resolve to himself, he cried “Long live!” with the crowd and inched backward.
 
 He needed to reach the subordinates waiting outside the imperial palace as quickly as possible.
 
-If he eliminated the handful of key figures who knew his identity and took possession of the pledge, he could keep his current position. And even if things became difficult, he could take his family’s wealth and flee.
+If he eliminated the handful of key figures who knew his identity and took possession of the pledge, he could keep his position. Even if that proved impossible, he could take his family’s assets and flee.
 
 Or so he believed.
 
-Until someone’s voice, strangely clear amid the deafening roar, pierced his ears.
+Then a voice, strangely clear amid the deafening cheers, reached his ears.
 
 “Where are you off to in such a hurry? A time like this calls for sharing the joy.”
 
@@ -330,9 +328,9 @@ He slowly turned his head and saw a young man approaching at an unhurried pace.
 
 “Come on. Just ‘Jin Taekyung’? That’s cold.”
 
-Jin Taekyung gave him a small smile and added, “You should call me Comrade Jin Taekyung.”
+Jin Taekyung smiled and added, “You should call me Comrade Jin Taekyung.”
 
-“What, what are you…”
+“What… what are you talking about?”
 
 “You didn’t know? I signed the pledge, too.”
 
