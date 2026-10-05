@@ -16,7 +16,7 @@ Yet in this world called Murim, only one person besides me knew the System exist
 
 The Fire King, Jeok Cheongang.
 
-No one else could know the true nature of the power I possessed.
+No one else knew the true nature of the power I possessed.
 
 Not the Bow Saint, and not even the handful of people who had stayed closest to me.
 
@@ -52,13 +52,13 @@ I licked my dry lips. My mouth felt as rough as if I’d chewed and swallowed a 
 
 *What on earth do they know? How much?*
 
-Just as I sent the unspoken question drifting through my mind, the Bow Saint—who had been watching me in silence with deeply shadowed eyes—suddenly spoke.
+As the unspoken question passed through my mind, the Bow Saint, who had been watching me with grave, still eyes, spoke.
 
 “You’re calmer than I expected. I thought you’d ramble on with excuses. Or pretend you didn’t know.”
 
 I forced myself to answer evenly. “Would that change anything?”
 
-“No. Nothing at all. You know that, too, don’t you?”
+“No. Nothing at all. You know that, don’t you?”
 
 That answer made one thing certain.
 
@@ -70,7 +70,7 @@ And she knew more than I’d imagined.
 
 I pushed away the question that had flashed through my mind and asked sharply, “Since when?”
 
-“That short question seems to hold several meanings. Let’s see… I’m not sure how to answer it. Why don’t I start with what happened today?”
+“That short question seems to mean several things. Let’s see. I’m not sure how to answer it, so why don’t I start with today?”
 
 The Bow Saint gently brushed the flowers lining either side of the path as she continued.
 
@@ -78,7 +78,7 @@ The Bow Saint gently brushed the flowers lining either side of the path as she c
 
 “How could that man—no, how could he…”
 
-“How does he know about you?”
+“How did he know about you?”
 
 I nodded, keeping my agitation in check.
 
@@ -122,7 +122,7 @@ Her careful footsteps carried her past the blades of grass. Faint moonlight fell
 
 “I couldn’t believe it, but I had no choice.”
 
-Because he was the Martial God.
+“Because he was the Martial God.”
 
 Awe she couldn’t conceal filled those words. Her voice as faint as the moonlight, the Bow Saint continued at the pace of her steps.
 
@@ -164,11 +164,11 @@ But even its cadets, remarkable as each of them was, fell far short of what the 
 
 I’d listened in silence until then. At last, I understood why she, like the other Three Saints, had disappeared from public view—though her disappearance had been overshadowed by the Martial God’s.
 
-And why she had been staying in the Imperial Palace.
+And why she had stayed in the Imperial Palace.
 
 “You used the imperial information network.”
 
-“‘Cooperating with’ would be more accurate than ‘using.’ That was before the current Emperor, then the Fourth Prince, launched the restoration.”
+“‘Cooperated with’ would be more accurate. This was before the current Emperor, then the Fourth Prince, launched the restoration.”
 
 “Then does the Emperor know…?”
 
@@ -188,19 +188,19 @@ The Bow Saint looked away from the sky and toward me. Our eyes met, and I quietl
 
 “The Jin Family of Taiyuan. Jin Taekyung. At first, the names were unfamiliar, and I had no interest in them. Not until the second piece of news came from Shanxi.”
 
-“What second report?”
+“What news?”
 
 “The unbelievable story that the Fire King, Jeok Cheongang, had taken on a Disciple.”
 
 The Bow Saint smiled faintly.
 
-“Of course, the reports that came in quite some time after that were far more surprising.”
+“Of course, what I heard quite some time after that was far more surprising.”
 
 A year after the Jin Family of Taiyuan took control of Shanxi Province, I finished my secluded training on Mount Jiuhua and descended the mountain.
 
 I was nothing like the person I’d been before.
 
-In my martial prowess. In my state of mind.
+Not in my martial prowess or my state of mind.
 
 And there were major events waiting for me, too.
 
@@ -216,7 +216,7 @@ The unknown person the Bow Saint had searched for so long was slowly emerging fr
 
 Two people.
 
-The word cut through my ears with unusual clarity. A name flashed through my mind like lightning.
+The words struck me with unusual clarity. A name flashed through my mind.
 
 “…Cheongpung.”
 

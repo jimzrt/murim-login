@@ -1,0 +1,15 @@
+{
+  "summary": "One source-fidelity defect: the translation mistakes 궁성 for the Bow Saint where it means the Imperial Palace.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "Line 23",
+      "current": "Not the Bow Saint, and not even the handful of people who had stayed closest to me.",
+      "defect": "궁성 here means the Imperial Palace, not the Bow Saint. The sentence says that neither the palace nor the few people who had been especially close to the narrator knew the power’s true nature.",
+      "replacement": "That included not only the Imperial Palace, but also the handful of people who had been at my side, even up close.",
+      "rationale": "The source contrasts the Imperial Palace with a handful of close companions; it does not name the Bow Saint in this sentence.",
+      "confidence": 0.99
+    }
+  ]
+}

@@ -1,0 +1,1798 @@
+{
+  "baseline_blocks": 131,
+  "baseline_sha256": "5cbbea041c2660bc00e828523479ffedc6ead6ed3dc3b5feb46d8fc721a6d763",
+  "global_terminology_alerts": [],
+  "hunk_count": 97,
+  "hunks": [
+    {
+      "baseline": "The power of supernatural forces—the kind that could even evade death.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "A supernatural power that could even evade death.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I knew better than anyone what that power was, the only way to define it being as something uncanny, like the work of ghosts.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "I knew better than anyone what it was. There was no other way to describe it than as something uncanny, like the work of ghosts.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A stroke of luck that had come to me when my life was slowly sinking like a boat with a hole in its hull.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "13",
+      "sol": "A stroke of luck that had come into my life when it was sinking like a boat with a hole in its hull.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A power that had given me both my greatest crisis and my greatest opportunity.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "15",
+      "sol": "A power that had brought me both my greatest crisis and my greatest opportunity.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And yet, in this world called Murim, there was only one person besides me who knew the System existed.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "17",
+      "sol": "Yet in this world called Murim, only one person besides me knew the System existed.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No one else could know the true nature of the power I possessed.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "21",
+      "sol": "No one else knew the true nature of the power I possessed.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That included not only the Imperial Palace, but also the handful of people who had been at my side, even up close.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "23",
+      "sol": "Not the Bow Saint, and not even the handful of people who had stayed closest to me.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A supernatural ability no human could even begin to imagine, one that couldn’t be contained by the four characters of *supernatural powers*.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "37",
+      "sol": "An ability beyond anything a human could imagine, one that even the four characters meaning *supernatural powers* couldn’t fully capture.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Even if that person is the Bow Saint, she’s no exception.*",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "39",
+      "sol": "*Even the Bow Saint is no exception.*",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "그분",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "that person"
+        }
+      ]
+    },
+    {
+      "baseline": "The shock I’d felt in that fleeting moment had long since settled.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "41",
+      "sol": "",
+      "sol_paragraphs": "after P19",
+      "sol_range": [
+        19,
+        19
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But one question remained, one I couldn’t answer on my own: how had *they* learned about something only a handful of people knew about me?",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "43",
+      "sol": "The shock I’d felt a moment ago had already settled. But one question remained, and I couldn’t answer it on my own: how had *they* learned there was something special about me when only a handful of people knew?",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The shadows of two giants who had vanished from the world long ago were falling over me at this very moment.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "49",
+      "sol": "The shadows of two giants who had vanished from the world long ago fell over me now.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not like shade cooling me from the sun, but like a kind of darkness.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "51",
+      "sol": "Not like shade that offered relief from the heat, but like darkness.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was enough to make my skin crawl.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "53",
+      "sol": "It made my skin crawl.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I licked my dry lips. My mouth felt as rough as if I’d swallowed a fistful of sand.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "55",
+      "sol": "I licked my dry lips. My mouth felt as rough as if I’d chewed and swallowed a fistful of sand.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What on earth do they know, and how much?*",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "57",
+      "sol": "*What on earth do they know? How much?*",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as I sent the unspoken question drifting through my mind, the Bow Saint—who had been watching me in silence with deeply shadowed eyes—suddenly spoke.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "59",
+      "sol": "As the unspoken question passed through my mind, the Bow Saint, who had been watching me with grave, still eyes, spoke.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re calmer than I expected. I thought you might ramble on with excuses. Or pretend you didn’t know.”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "61",
+      "sol": "“You’re calmer than I expected. I thought you’d ramble on with excuses. Or pretend you didn’t know.”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No. Nothing at all. You know that, too, don’t you?”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "65",
+      "sol": "“No. Nothing at all. You know that, don’t you?”",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment I heard that reply, I knew for certain.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "67",
+      "sol": "That answer made one thing certain.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This woman before me—the Bow Saint—had been watching me all along.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "69",
+      "sol": "The woman before me—the Bow Saint—had been watching me all along.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I pushed away the question that had suddenly flashed through my mind and spoke in a sharp voice.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "75",
+      "sol": "I pushed away the question that had flashed through my mind and asked sharply, “Since when?”",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Since when?”",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "77",
+      "sol": "",
+      "sol_paragraphs": "after P36",
+      "sol_range": [
+        36,
+        36
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That short question seems to hold several meanings. Let’s see… I’m not sure how to answer it. Why don’t I start with what happened today?”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "79",
+      "sol": "“That short question seems to mean several things. Let’s see. I’m not sure how to answer it, so why don’t I start with today?”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Blazing Flame Divine Dragon Jin Taekyung. The moment I saw you rise when you should surely have been dead, I finally became certain who the chosen one the Martial God spoke of was.”",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "83",
+      "sol": "“Blazing Flame Divine Dragon Jin Taekyung. When I saw you rise even though you should have died, I finally knew who the chosen one the Martial God spoke of was.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How could that man—no, how could the Martial God…”",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "85",
+      "sol": "“How could that man—no, how could he…”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무신",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Martial God"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“How does he know about you?”",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "87",
+      "sol": "“How did he know about you?”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It felt as if every nerve in my body were drawn taut.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "91",
+      "sol": "Every nerve in my body felt drawn taut.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everything could change completely depending on this answer. The course of what came next could twist in a direction even I couldn’t predict.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "93",
+      "sol": "Depending on her answer, everything could change. What happened next could take a turn even I couldn’t predict.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Bow Saint’s brief reply the next moment was enough to bring my thoughts to a halt.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "95",
+      "sol": "Then the Bow Saint gave a short reply that stopped my thoughts cold.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why would I know?”",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "97",
+      "sol": "“How would I know?”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Neither I nor he could have known. It’s only natural. I found that letter before you were even born.”",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "101",
+      "sol": "“Neither I nor he could have known. Of course not. I found the letter before you were even born.”",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. I first found it one day, after many years had passed since the Great Faction War ended—after the mountains and rivers had changed more than once.”",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "105",
+      "sol": "“Yes. I first found it after many years had passed since the Great Faction War ended—long enough for the mountains and rivers to change more than once.”",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Bow Saint’s calm voice mingled with the early morning air and drifted into my ears.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "107",
+      "sol": "Her calm voice mingled with the dawn air and drifted to my ears.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "궁성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Bow Saint"
+        }
+      ]
+    },
+    {
+      "baseline": "“At first, I thought it was simply the trace of some unknown ancient. But I was wrong. The letter had been left for me by the Martial God.”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "109",
+      "sol": "“At first, I thought it was simply a trace left by some unknown person from long ago. But I was wrong. The Martial God had left that letter for me.”",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then what, exactly, did the letter say?”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "111",
+      "sol": "“Then what exactly did it say?”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And there was one word that always appeared in its contents.”",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "117",
+      "sol": "“And there was one term that appeared throughout it.”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My chest felt tight, as though a great stone had been placed in the hollow there.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "119",
+      "sol": "My chest felt tight, as though a great stone had settled inside it. I forced the words out.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I forced the words out.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "121",
+      "sol": "",
+      "sol_paragraphs": "after P57",
+      "sol_range": [
+        57,
+        57
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. And ‘the chosen one’ didn’t point to any one specific person.”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "125",
+      "sol": "“That’s right. And ‘the chosen one’ didn’t necessarily refer to any one particular person.”",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Her careful footsteps moved through the grass, avoiding each blade.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "129",
+      "sol": "",
+      "sol_paragraphs": "after P60",
+      "sol_range": [
+        60,
+        60
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Faint moonlight poured over the Bow Saint’s head as she walked through the garden.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "131",
+      "sol": "Her careful footsteps carried her past the blades of grass. Faint moonlight fell over her as she walked through the garden.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "궁성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Bow Saint"
+        }
+      ]
+    },
+    {
+      "baseline": "Because he was the Martial God.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "135",
+      "sol": "“Because he was the Martial God.”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Her voice held an awe she couldn’t conceal.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "137",
+      "sol": "",
+      "sol_paragraphs": "after P63",
+      "sol_range": [
+        63,
+        63
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Bow Saint added, in a voice as faint as the moonlight, and continued slowly, matching her steps.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "139",
+      "sol": "Awe she couldn’t conceal filled those words. Her voice as faint as the moonlight, the Bow Saint continued at the pace of her steps.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So, after several decades, I went out into the world and traveled the land. I spent most of my time in the Central Plains, but at one point I went to the endless desert in the west, and at another I crossed the grasslands and traveled as far as the Northern Sea, full of moss and ice.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "141",
+      "sol": "“So, after several decades, I went out into the world and traveled the land. I spent most of my time in the Central Plains, but once I went as far as the endless desert in the west. Another time, I crossed the grasslands and reached the Northern Sea, where moss and ice covered everything.”",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The journey to find the “chosen one” mentioned in the Martial God’s letter was like searching a field of sand for one special grain. The Bow Saint had to shoulder the entire burden alone.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "143",
+      "sol": "Searching for the “chosen one” mentioned in the Martial God’s letter was like searching a field of sand for one special grain. The Bow Saint had to shoulder the entire burden alone.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I couldn’t ask anyone for help. The letter said that not a single detail related to the mission could be revealed before it was completed.”",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "145",
+      "sol": "“I couldn’t ask anyone for help. The letter said not a single detail about the mission could be revealed until I’d succeeded.”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the Bow Saint never gave up.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "147",
+      "sol": "But the Bow Saint hadn’t given up.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Martial God’s arrangement, which was almost like a prophecy, required someone called the chosen one.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "149",
+      "sol": "The Martial God’s arrangement, almost a prophecy, required someone called the chosen one.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When the whole world is covered in darkness, they will become a lamp and light the way. They are the one person who will finally open a new sky and bring the dawn.”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "151",
+      "sol": "“When the whole world is covered in darkness, that person will become a lamp and light the way. The only one who will open a new sky and bring the morning.”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Bow Saint murmured those words, then turned her head toward the sky.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "153",
+      "sol": "The Bow Saint murmured the words, then turned her face toward the sky.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But even after I searched and searched for someone whose age, face, name, and even gender I didn’t know, the chosen one never appeared.”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "155",
+      "sol": "“But no matter how long I searched for someone whose age, face, name, and even gender I didn’t know, the chosen one never appeared.”",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Finding a single person in this vast land—someone who might not even have been born yet—was almost impossible.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "159",
+      "sol": "Finding one person in this vast land—someone who might not even have been born yet—was nearly impossible.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But it wasn’t completely impossible. If what he wrote in the letter was true, the chosen one would be able to distinguish themselves at a dazzling pace.”",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "161",
+      "sol": "“But not entirely. If what he wrote in the letter was true, the chosen one would stand out with astonishing speed.”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A needle in a pouch was bound to poke out eventually.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "165",
+      "sol": "",
+      "sol_paragraphs": "after P76",
+      "sol_range": [
+        76,
+        76
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter where it was, or how deeply it was buried in a crowd.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "167",
+      "sol": "Sooner or later, the needle was bound to poke through. No matter where it was, or how deeply it was buried in a crowd.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I followed the rumors and sought out the people I thought might be the chosen one. But even at Heaven’s Gate Temple, where the brightest talents in the land gather, I couldn’t find any real certainty.”",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "169",
+      "sol": "“I followed rumors and sought out people I thought might be the chosen one. But even at Heaven’s Gate Temple, where the brightest talents in the land gather, I found no reason to be certain.”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heaven’s Gate Temple was where my second older brother, Jin Mukyung, had spent some time as the Second Young Master of the Jin Family of Taiyuan.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "171",
+      "sol": "Heaven’s Gate Temple was where Jin Mukyung, my second older brother and the Second Young Master of the Jin Family of Taiyuan, had spent some time.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a cradle of talent, overflowing with gifted people of every kind, along with the heirs of the most prominent sects.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "173",
+      "sol": "It was a cradle of talent, crowded with the heirs of prominent sects and gifted people of every kind.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But even the cadets of Heaven’s Gate Temple, each with their own remarkable talents, fell far short of the Bow Saint’s idea of the chosen one.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "175",
+      "sol": "But even its cadets, remarkable as each of them was, fell far short of what the Bow Saint expected of the chosen one.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They were all outstanding, but that was all. Every one of them had an obvious limit. They had limits, and so did I.”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "177",
+      "sol": "“They were all outstanding, but that was all. Every one of them had a clear limit. As did I.”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I’d been listening to the Bow Saint in silence until then. At last, I understood why she—like the other Three Saints—had disappeared from public view, hidden in the vast shadow cast by the Martial God.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "179",
+      "sol": "I’d listened in silence until then. At last, I understood why she, like the other Three Saints, had disappeared from public view—though her disappearance had been overshadowed by the Martial God’s.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "궁성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Bow Saint"
+        }
+      ]
+    },
+    {
+      "baseline": "And why she had been staying in the Imperial Palace.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "181",
+      "sol": "And why she had stayed in the Imperial Palace.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You were using the imperial information network.”",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "183",
+      "sol": "“You used the imperial information network.”",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“‘Cooperating with’ would be more accurate than ‘using.’ That was before the current Emperor, then the Fourth Prince, launched the restoration.”",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "185",
+      "sol": "“‘Cooperated with’ would be more accurate. This was before the current Emperor, then the Fourth Prince, launched the restoration.”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No. He only has a vague suspicion. He knows nothing. That was one of the conditions I set. And it matters that after he ascended the throne, I gained access to information from every corner of the land.”",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "189",
+      "sol": "“No. He suspects something, vaguely, but he knows nothing. That was one of my conditions. What matters is that after he took the throne, I gained access to information from every corner of the land.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Bow Saint was a weighty counterbalance—one powerful enough to tip the balance of power in an instant.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "191",
+      "sol": "The Bow Saint was a weight on the scales, powerful enough to tip the balance in an instant.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Disguised as a palace attendant, she stayed by the Emperor’s side and learned every detail of the large and small events unfolding across the land. The existence of an unidentified Supreme Peak master also had the effect of restraining the Eastern Heaven Demon Lord’s movements.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "193",
+      "sol": "Disguised as a palace attendant, she stayed by the Emperor’s side and learned what was happening across the land, from the smallest incident to the largest. The presence of an unidentified Supreme Peak master also restrained the Eastern Heaven Demon Lord’s movements.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One of those things was Dark Heaven, which had sunk its roots deep into the imperial court. And the other was…",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "197",
+      "sol": "One was Dark Heaven, which had sunk its roots deep into the imperial court. The other was…",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Someone who was growing beyond the reach of my eyes.”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "199",
+      "sol": "“Someone who was growing beyond my sight.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Bow Saint had been looking up at the sky, but now she turned her gaze toward me. Our eyes met in midair, and I quietly swallowed.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "201",
+      "sol": "The Bow Saint looked away from the sky and toward me. Our eyes met, and I quietly swallowed.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Jin Family of Taiyuan. Jin Taekyung. At first, the names were unfamiliar, and they didn’t interest me. At least until the second report from Shanxi.”",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "203",
+      "sol": "“The Jin Family of Taiyuan. Jin Taekyung. At first, the names were unfamiliar, and I had no interest in them. Not until the second piece of news came from Shanxi.”",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What second report?”",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "205",
+      "sol": "“What news?”",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The unbelievable news that the Fire King, Jeok Cheongang, had taken on a Disciple.”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "207",
+      "sol": "“The unbelievable story that the Fire King, Jeok Cheongang, had taken on a Disciple.”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Bow Saint added a faint smile.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "209",
+      "sol": "The Bow Saint smiled faintly.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Of course, the reports that came in quite some time after that were far more surprising.”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "211",
+      "sol": "“Of course, what I heard quite some time after that was far more surprising.”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A year after the Jin Family of Taiyuan conquered Shanxi Province, I finished my secluded training on Mount Jiuhua and came down from the mountain.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "213",
+      "sol": "A year after the Jin Family of Taiyuan took control of Shanxi Province, I finished my secluded training on Mount Jiuhua and descended the mountain.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was incomparably different from before.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "215",
+      "sol": "I was nothing like the person I’d been before.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In my martial prowess. In my state of mind.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "217",
+      "sol": "Not in my martial prowess or my state of mind.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And in the major events waiting for me.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "219",
+      "sol": "And there were major events waiting for me, too.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Every time I heard news about you, I became more and more interested. No—that wasn’t just interest.”",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "221",
+      "sol": "“Each time I heard news of you, I grew more interested. No—it was more than interest.”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A lamp to light the night, the one who would open the way to a new dawn.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "225",
+      "sol": "The lamp that would light the night. The one who would open a new sky and bring the morning.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The unknown person the Bow Saint had long searched for was gradually emerging from behind the curtain.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "227",
+      "sol": "The unknown person the Bow Saint had searched for so long was slowly emerging from behind the curtain.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s why I had to see for myself. I needed to know which of the two people I’d been weighing in my mind was the chosen one.”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "229",
+      "sol": "“That was why I had to see for myself. I needed to know which of the two people I was weighing in my mind was the chosen one.”",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The word cut through my ears with unusual clarity. A name flashed through my mind like lightning.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "233",
+      "sol": "The words struck me with unusual clarity. A name flashed through my mind.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the word that slipped out of me, the Bow Saint gave a small nod.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "237",
+      "sol": "At the name that escaped me, the Bow Saint gave a small nod.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. Cheongpung, the Huashan Divine Dragon. He, too, had every chance of being the chosen one. If I hadn’t seen you at the grand banquet hall, I would have believed the Sword Saint’s Disciple was the chosen one.”",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "239",
+      "sol": "“Yes. Cheongpung, the Huashan Divine Dragon. He had every chance of being the chosen one, too. If I hadn’t seen you in the grand banquet hall, I would have believed the Sword Saint’s Disciple was the one.”",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the Bow Saint wouldn’t have needed to call both of us here.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "241",
+      "sol": "But from her point of view, there had been no need to bring both of us here.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "궁성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Bow Saint"
+        }
+      ]
+    },
+    {
+      "baseline": "She was already fairly certain that one of the two was the chosen one.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "243",
+      "sol": "She was already fairly certain one of us was the chosen one.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And I had plenty of connections that might have tied me to the events that had just taken place.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "245",
+      "sol": "And I had enough ties to draw me into what had happened.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I already knew about your connection with Prince Shangshan—no, the Crown Prince. When Dark Heaven reached out to Hong Jin first, pretending to be an ally, I thought it might actually work out well. But I needed something more conclusive.”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "247",
+      "sol": "“I already knew of your connection with Prince Shangshan—no, the Imperial Younger Brother. When Dark Heaven reached out to Hong Jin first, pretending to be on our side, I thought it might work in our favor. But I needed something more definite.”",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just then, something suddenly came back to me.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "249",
+      "sol": "Then I remembered.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And I hadn’t thrown myself into the deadly place that was the Imperial Palace only to save Zhu Bao.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "253",
+      "sol": "And saving Zhu Bao wasn’t the only reason I’d thrown myself into the death trap of the Imperial Palace.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Was this what it felt like to get hit in the back of the head with a sledgehammer?",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "257",
+      "sol": "Was this what it felt like to be struck in the back of the head with a sledgehammer?",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I continued as if groaning.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "259",
+      "sol": "I spoke through a groan.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Bow Saint’s bitter smile branded itself into my eyes.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "263",
+      "sol": "The Bow Saint’s bitter smile burned itself into my eyes.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 125,
+  "sol_sha256": "0a134542bd96cfd64805e195642cb2e33fdbe25e1a6af44a7140c5b1f443b3f6",
+  "version": 1
+}
