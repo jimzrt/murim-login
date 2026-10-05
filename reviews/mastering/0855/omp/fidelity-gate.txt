@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled chapter is faithful overall. One small emphasis from the Korean is missing.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 11; P5",
+      "current": "Just thinking about that moment makes me feel like I’m going to piss myself!",
+      "defect": "The Korean 저까지 emphasizes that even the speaker feels intimidated enough to piss himself. The English omits that emphasis.",
+      "replacement": "Just thinking about that moment makes even me feel like I’m going to piss myself!",
+      "rationale": "The source explicitly includes 저까지 (even me, too), adding emphasis to the speaker’s reaction.",
+      "confidence": 0.94
+    }
+  ]
+}

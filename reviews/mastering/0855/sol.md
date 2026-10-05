@@ -1,6 +1,6 @@
 # Chapter 855
 
-“Which son of a bitch set the fire?”
+“Which son of a bitch set those on fire?”
 
 A low, weighty voice.
 
@@ -112,7 +112,7 @@ Strangely, of all the sins in the world, Jeok Cheongang considered arson the wor
 
 Perhaps that made sense. During the Great Faction War, he’d refused even Sword Saint Mae Jonghak’s request to join the orthodox faction. It was the Demonic Cult setting fires that had finally brought him out into the world.
 
-The battle three days ago had been for exactly that reason.
+The battle three days ago had been for much the same reason.
 
 *Actually, it’s embarrassing to even call that a battle.*
 
@@ -128,7 +128,7 @@ Afterward, Hyuk Mujin and the others had left, barely listening to the trading c
 
 They’d taken the only merchant ship that had somehow survived the flames as payment for saving their lives.
 
-Of course, they hadn’t asked for the other party’s consent. But anyway, that was what happened.
+Of course, they hadn’t asked the owners’ permission. But that was what happened.
 
 “Oh, come to think of it, those people must have reached Hubei by now, right?”
 
@@ -158,7 +158,7 @@ They’d traveled day and night, sticking to remote, rugged terrain to avoid att
 
 As the only woman in the group, she must have faced any number of difficulties.
 
-*She’s clearly kept up with her martial arts training, and her character is upright, too. The Escort King has himself one fine granddaughter.*
+*She’s kept up with her martial arts training, and she has a good head on her shoulders. The Escort King has himself one fine granddaughter.*
 
 Plenty of young people mistook recklessness for a virtue.
 
@@ -170,7 +170,7 @@ Jeok Cheongang had seen so many of them that he was sick of the type. It only ma
 
 Though he couldn’t claim he was entirely without an ulterior motive.
 
-*Even the ones swaggering around as Elders and Sect Leaders of the Nine Sects and One Gang now were a whole basket of no-good brats when they were young. Compared to them, Hwaran is more than Jin Taekyung deserves… No. What’s he lacking? He’s handsome, well-built, and there’s no need to mention his martial arts.*
+*Even some of the ones swaggering around as Elders and Sect Leaders of the Nine Sects and One Gang were no-good brats when they were young. She’s more than Taekyung deserves… No. What’s he lacking? He’s handsome, well-built, and his martial arts speak for themselves.*
 
 A fierce battle raged in his head.
 
@@ -198,9 +198,9 @@ The girl wasn’t merely young enough to be his granddaughter. She was young eno
 
 “Ho. Impressive. Very impressive.”
 
-“Thank you. But I’m not worthy of such high praise from you, Great Hero Jeok.”
+“Thank you. But it’s hardly worth such praise from you, Great Hero Jeok.”
 
-They said she’d led the Escort Bureau for several years in place of her father, who had been bedridden until recently. Her answer was every bit as crisp as he’d expect.
+They said she’d led the Escort Bureau for several years while her father was bedridden. The crispness of her answer made it easy to believe.
 
 Ju Hwaran seemed unsure what to do with the sudden praise, and Jeok Cheongang smiled fondly.
 
@@ -208,19 +208,19 @@ Ju Hwaran seemed unsure what to do with the sudden praise, and Jeok Cheongang sm
 
 “Pardon? What do you mean…?”
 
-“I was just talking to myself. Still, the more I hear you address me that way, the more stiff it sounds. From now on, you can just call me Grandpa—”
+“Just talking to myself. Anyway, the more I hear you address me that way, the stiffer it sounds. From now on, you can call me Grandfather—”
 
 Jeok Cheongang glanced at Ju Hwaran and changed course.
 
 Even he had to admit that *Grandfather* was too soon. Relationships had to begin slowly, one step at a time.
 
-If he got ahead of himself and made Ju Hwaran wary, it would surely affect her relationship with his one and only Disciple, too.
+If he got ahead of himself and made her wary, it would surely hurt her relationship with his one and only disciple.
 
 “…No. Call me Old Master.”
 
 “Really?”
 
-The only people who called Jeok Cheongang that were those who had known his predecessors, or the heads of the Nine Sects and One Gang and the Five Great Families.
+Only those whose families’ ties to Jeok Cheongang went back a generation, or the heads of the Nine Sects and One Gang and the Five Great Families, addressed him that way.
 
 Ju Hwaran’s eyes widened at the unexpected offer. Hyuk Mujin, who’d been listening, broke into a broad smile and chimed in.
 
@@ -270,19 +270,19 @@ The Divine Physician followed behind him, carrying a bundle stuffed with needles
 
 “You’re too kind. It’s simply something anyone would learn from experience.”
 
-“…What the fuck is wrong with you two?”
+“…You two are full of shit.”
 
 Jeok Cheongang eyed them both. Instead of laying into them, he clicked his tongue.
 
-One way or another, that rude young brat was his one and only Disciple, whom he couldn’t bring himself to hate. And the old man right beside him was a physician who’d agreed to travel a long way to treat that young brat.
+For all his insolence, that young brat was his one and only disciple, and Jeok Cheongang couldn’t bring himself to hate him. The old man beside him was a physician who’d agreed to travel all this way to treat that same brat.
 
 What more could he say?
 
-All he could do was pretend nothing was wrong, hide his worry, and ask this:
+He could only pretend nothing was wrong, hide his worry, and ask through Sound Transmission:
 
 *How are you feeling?*
 
-Jin Taekyung heard Jeok Cheongang’s Sound Transmission and gave a quiet laugh as he nodded.
+Jin Taekyung heard him, gave a quiet laugh, and nodded.
 
 Jeok Cheongang couldn’t tell whether Taekyung truly felt all right or was only pretending. But if what the Divine Physician had said earlier was true, there had to have been at least some improvement.
 
