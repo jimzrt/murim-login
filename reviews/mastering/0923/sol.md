@@ -48,13 +48,13 @@ Jeok Cheongang’s mutter was clear enough.
 
 No sweet words or kind gestures would get information out of the Eastern Heaven Demon Lord now.
 
-Like a horse galloping across a wilderness without looking back, his path had been set long ago.
+Like a horse galloping across the wilderness without looking back, he’d chosen his path long ago.
 
 “I’ve seen eyes like that before. Don’t waste time. Kill him now, before he can cause any more trouble.”
 
 He wasn’t speaking only to me.
 
-It was the greatest respect he could show the people who had fought beside him on the same battlefield—and a proposal addressed to one man.
+Jeok Cheongang was addressing everyone here. It was the greatest respect he could show those who had fought beside him—and a proposal to one man in particular.
 
 The ruler of this vast continent.
 
@@ -74,7 +74,7 @@ He stood with his lips pressed shut, gazing down at the Eastern Heaven Demon Lor
 
 At first, I didn’t know who he was asking.
 
-But as the Emperor’s gaze settled squarely on me, and the people around us erupted as if a dam had burst, I understood.
+Then his gaze settled squarely on me, and the people around us erupted as if a dam had burst.
 
 The Emperor was asking *me*, of all people, what should be done with the Eastern Heaven Demon Lord.
 
@@ -84,7 +84,7 @@ The Emperor was asking *me*, of all people, what should be done with the Eastern
 
 “How could Your Majesty, the sovereign of all under Heaven, ask a mere subject—not even a minister of the court, but a lawless ruffian from the martial world—”
 
-“Lawless ruffians from the martial world, you say.”
+“A lawless ruffian from the martial world.”
 
 The Emperor repeated the words quietly and looked around. Officials in court robes had gathered on every side of him.
 
@@ -96,13 +96,11 @@ He studied their faces one by one. Many had survived because he and the Eastern 
 
 “……”
 
-Silence fell in an instant.
+Silence fell.
 
 Having shut everyone up with a few words, the Emperor turned back to me.
 
 “Now answer me. I want to hear what you think.”
-
-I didn’t know.
 
 I didn’t know why he’d singled me out, or what answer he wanted.
 
@@ -110,9 +108,9 @@ But I didn’t dwell on it. As always, I could just say what I had to say.
 
 “If I opposed killing him, would you let him live?”
 
-A single, explosive question that no one had expected. I heard people around us catch their breath.
+People caught their breath all around us.
 
-Even the Eastern Heaven Demon Lord stopped laughing and opened his eyes wide.
+Even the Eastern Heaven Demon Lord stopped laughing and stared at me, eyes wide.
 
 The Emperor’s gaze didn’t waver.
 
@@ -140,7 +138,7 @@ An Emperor reduced to a puppet. Princes already poisoned.
 
 Those heirs to a noble bloodline had neither time nor people left to turn to.
 
-Except for one old general who had protected the Embroidered Uniform Guard with unwavering loyalty, and the Great Nation’s fourth prince, who was far from the throne and had been wandering the provinces.
+Except for an old general who had kept the Embroidered Uniform Guard loyal, and the Great Nation’s fourth prince, who had spent his days wandering the provinces, far from the throne.
 
 “There was only one way left.”
 
@@ -148,9 +146,9 @@ And so a restoration took place under the guise of a rebellion.
 
 More than a decade ago, right here in this grand banquet hall.
 
-In a single night, several hundred high-ranking court officials died. Before long, tens of thousands more were exiled or executed.
+Hundreds of court ministers died in a single night. Before long, tens of thousands more had been exiled or executed.
 
-He climbed the bodies of the traitors who had tried to destroy the Great Nation, with the unseen glares and curses of its people at his back.
+The fourth prince wielded the sword of the purge without hesitation. He climbed over the bodies of the traitors who had tried to destroy the Great Nation, with his people’s unseen glares and curses at his back.
 
 All the while, he promised himself he would soon reveal the truth and wash away his disgrace.
 
@@ -166,11 +164,11 @@ I’d heard the story from the Slaughter Saint himself.
 
 He and the Divine Physician had wandered the land treating its people. Those who remembered their kindness had hidden them from the imperial family’s search.
 
-*If the imperial court had found them then…*
+*If they’d been found back then…*
 
-History would have changed.
+History might have changed.
 
-Even if the poison that cast its long shadow of death over the imperial family had been the Blood Soul Gu, the Slaughter Saint and the Divine Physician I knew might have found some way to deal with it.
+Even if the poison casting its shadow over the imperial family had been the Blood Soul Gu, the Slaughter Saint and the Divine Physician I knew might have found a way to save them.
 
 Instead, that twist of fate ended with the deaths of the late Emperor, the crown princes, and several other members of the imperial family. The fourth prince, once so far from the throne, became a usurper and an unfilial son in the eyes of the world.
 
@@ -184,7 +182,7 @@ Though the fourth prince had formally received the throne and become the ruler o
 
 To them, he was a usurper blinded by ambition, a son who had dragged his father from the throne.
 
-As if that weren’t enough, a murderer and parricide who had led countless families and members of the imperial clan to their deaths.
+Worse, he was a murderer who had sent countless families and members of the imperial clan to their deaths.
 
 The traitors who had brought the Great Nation to the brink of ruin became loyal patriots. Those who had tried to protect it were left covered in filth.
 
@@ -206,21 +204,19 @@ The Emperor was the realm, and the Imperial Capital its center.
 
 But the Emperor and the capital were not the whole realm.
 
-If the Eastern Heaven Demon Lord had been killed that day, the Great Nation would have split in two and plunged into a massive war.
-
-With the country hanging by a thread, the only path the fourth prince could choose would have given those who had conspired with the Eastern Heaven Demon Lord long ago, and had waited for the right moment, another excuse to rebel.
+If they’d killed the Eastern Heaven Demon Lord that day, the Great Nation would have split in two and plunged into war. Killing him would have handed those who had long conspired with him and waited for their moment another pretext to rebel.
 
 “I had to prevent that. No more blood could be spilled.”
 
 The fourth prince had taken up a sword as soon as he could walk.
 
-By the time the calluses on his hands felt natural and the reins were familiar to his touch, he was marching off to war.
+By the time the calluses on his hands felt natural and he’d grown used to the feel of reins, he was riding off to war.
 
-Time and again, he’d led armies with outstanding martial skill and strategy, earning great victories. But whenever he went to the battlefield, he would murmur to himself:
+Time and again, he led an army to victory through his skill with the sword and his grasp of strategy. Yet every time he went to battle, he told himself the same thing.
 
 *This will be the last war.*
 
-*It has to be the last.*
+*It has to be.*
 
 The throne? Glory as a general?
 
@@ -252,11 +248,11 @@ The Emperor’s voice was calm, though something fierce burned beneath it. He br
 
 Toward his family’s enemy.
 
-Against the traitor of all time, who had plunged his country and its people into misery.
+Toward the traitor who had tried to plunge his country and its people into misery.
 
 Or he would have.
 
-The Emperor’s treasured sword was moving with enough force to split the man in two when a clear young voice rang out.
+Just as the Emperor’s sword swept down to cleave the Eastern Heaven Demon Lord in two, a clear voice rang out.
 
 “One thing is still missing.”
 
@@ -290,13 +286,13 @@ No one could stand in his way.
 
 At that moment, the boy they saw was a man.
 
-Not a young prince, but another ruler.
+Not merely a young prince, but another ruler.
 
 And that man, that ruler, slowly bowed his head.
 
 To someone who could not let go of his anger even before death.
 
-Toward the enemy who had killed his parents and brothers.
+To the man who had killed his parents and brothers.
 
 *Swish.*
 
@@ -316,7 +312,7 @@ Even the Eastern Heaven Demon Lord.
 
 “Ah.”
 
-A quiet groan slipped between his parted lips.
+A low sound escaped his parted lips.
 
 He looked at Prince Shangshan with trembling eyes, then smiled faintly.
 

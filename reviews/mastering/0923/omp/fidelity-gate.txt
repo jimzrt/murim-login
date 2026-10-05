@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it drops one action and loses a source-specific visual detail preserved in the accepted baseline.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 167–169",
+      "current": "He climbed the bodies of the traitors who had tried to destroy the Great Nation, with the unseen glares and curses of its people at his back.",
+      "defect": "The source explicitly says the fourth prince wielded the sword of purging without hesitation before describing him climbing over the traitors’ bodies. That action is omitted.",
+      "replacement": "The fourth prince wielded the sword of purging without hesitation. He climbed the bodies of the traitors who had tried to destroy the Great Nation, with the unseen glares and curses of its people at his back.",
+      "rationale": "The omitted sentence establishes the fourth prince’s own role in the purge; the following image does not state that action.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 265",
+      "current": "He looked at me over its shimmering blade, still spotless despite the countless dead it had cut down.",
+      "defect": "“Shimmering” loses the source’s specific image of a blade brilliantly gleaming in many colors.",
+      "replacement": "He looked at me over its brilliantly multicolored blade, still spotless despite the countless dead it had cut down.",
+      "rationale": "The Korean describes the sword blade as 오색창연한, emphasizing its vivid, many-colored brilliance; the accepted baseline also preserved that color detail.",
+      "confidence": 0.95
+    }
+  ]
+}
