@@ -22,7 +22,7 @@ Fear. Desperation. Anger.
 
 Dozens of people shouted, each caught up in their own emotions.
 
-Their silk robes had lost none of their sheen, and their plump bodies spoke to just how high their station had been—even in a place death had just torn through. But all the wealth and glory they had enjoyed until now were over, effective this very moment.
+Their silk robes still gleamed, and their plump bodies spoke to their lofty stations even here, where death had just torn through. But the wealth and glory they had enjoyed were over.
 
 Such was the fate of those guilty of high treason.
 
@@ -50,11 +50,11 @@ Then he got his skull cracked.
 
 “……!”
 
-At the Embroidered Uniform Guard’s cold smile, the old general sank to the ground, his face blank.
+At the guard’s cold smile, the old general sank to the ground, his face blank.
 
 He had realized that the warm blood running from the crown of his head was nothing compared to what he would be made to shed later.
 
-And one man was weaving his way through the chaos.
+And one man was moving back and forth through the chaos.
 
 “It’s been a while. Last time we met, I think you called me a ball-less eunuch bastard.”
 
@@ -88,7 +88,7 @@ The man who had once slandered Hong Jin by calling him a ball-less eunuch was dr
 
 “Do you know me? And what misunderstanding? Drag this traitorous bastard to the jail and throw him in.”
 
-Watching everything unfold at lightning speed right before my eyes, I murmured to myself.
+I watched it all unfold before my eyes.
 
 *There’s going to be a bloodbath.*
 
@@ -124,7 +124,7 @@ My eyes widened at the unexpected declaration.
 
 “You mean…”
 
-“Make every cause and connection crystal clear, and spare at least those who are innocent. That was what Bao’er asked of Me just now.”
+“‘Establish every connection clearly, and spare those who are innocent.’ That is what Bao’er asked of Me just now.”
 
 The Emperor added with a faint smile, “It was also his first request of Me as Imperial Younger Brother and as My brother.”
 
@@ -136,9 +136,9 @@ Had this man always smiled so much?
 
 The Emperor, whose face had always been cold and gloomy, looked much brighter now.
 
-His eyes rested on Prince Shangshan—or rather, Zhu Bao, now Crown Prince—as the boy met his gaze and awkwardly bowed his head. The warmth in the Emperor’s eyes was impossible to hide.
+When our eyes met, Prince Shangshan—or rather, Zhu Bao, now the Imperial Younger Brother—gave me a bow, still seemingly awkward about it. The Emperor’s gaze rested on him, warm with a fondness he couldn’t hide.
 
-*Even the Emperor is still just an older brother, in the end.*
+*Even an Emperor is still an older brother, in the end.*
 
 I gave a quiet snort and said, “That’s right. He’ll definitely be a sage king.”
 
@@ -162,19 +162,19 @@ Why was I starting to think of Jin Wikyung?
 
 “……A thousand years is a bit…”
 
-“Do you think that’s impossible right now?”
+“Do you think that’s too much to expect?”
 
-No, even if I thought about it as hard as I could, that seemed a bit much.
+Well, wasn’t it?
 
 But the Emperor’s eyes narrowed. I swallowed the words on the tip of my tongue and showed off my dazzling reflexes.
 
-“I just thought you were aiming a little low. I was thinking ten thousand years.”
+“I was going to say you’d aimed a bit low. I was thinking ten thousand years.”
 
 “Ten thousand years is impossible.”
 
 “……”
 
-“Perhaps it’s because you’re a Murim practitioner, but you do have a rather fanciful streak. You should try to develop a more realistic outlook.”
+“You martial artists do have a fanciful streak. You ought to cultivate a more realistic outlook.”
 
 This son of a bitch.
 
@@ -202,7 +202,7 @@ I turned, eyes wide, and Jeok Cheongang nodded gravely.
 
 —Good heavens, have you gone senile again? You can’t. If you lay a hand on the Emperor, it’s over for all of us. If he gets pissed off at us and cozies up to Dark Heaven, we won’t have a Great Nation anymore. We’ll have a Dark Heaven Nation. With Hell thrown in.
 
-I was still desperately trying to talk him out of it, like a missionary at Yeongdeungpo Station shouting that believers go to Heaven and unbelievers go to Hell, when Jeok Cheongang gave me a withering look and jerked his chin over my shoulder.
+I was still desperately trying to talk him out of it, like a preacher at Yeongdeungpo Station shouting, “Believers go to Heaven, unbelievers go to Hell,” when Jeok Cheongang gave me a flat look and jerked his chin over my shoulder.
 
 —Before I pluck those dog eyes out, look who’s waiting behind you.
 
@@ -224,7 +224,7 @@ What had she meant? What truth lay behind those words?
 
 My gaze wavered despite myself.
 
-The Bow Saint gave me a slight nod, then quietly turned and began walking.
+The Bow Saint gave me a slight nod, then quietly turned and walked away.
 
 Toward somewhere out of sight of the crowd.
 
@@ -236,7 +236,7 @@ I followed the Bow Saint without a word.
 
 As if to prove that the battle in the grand banquet hall had not been the whole of it, bodies and blood that no one had yet cleared away lay throughout the once-clean, spacious imperial palace.
 
-Still, no one stopped me and the Bow Saint as we crossed the palace at an unhurried pace.
+Yet no one stopped us as we crossed it at a steady pace.
 
 If anything, people hesitated, then bowed and stepped aside.
 
@@ -266,7 +266,7 @@ The symbol and center of Murim had vanished like a phantom just after disbanding
 
 As though he had never existed.
 
-As though he’d been waiting for this to happen from the beginning.
+As though he had been waiting all along to disappear.
 
 As the years passed after his sudden disappearance, rumors sprang up like weeds.
 
@@ -320,6 +320,6 @@ Countless rare and beautiful plants filled this place. It was the same abandoned
 
 The Bow Saint turned. Her eyes curved like crescents, but the gaze within them was grave and still.
 
-“You were the chosen one the Martial God spoke of, someone who was supposed to possess the supernatural powers to escape even death…so why are you in an irrecoverable state?”
+“You are the chosen one the Martial God spoke of. You should possess supernatural powers capable of escaping even death…so why are you in a state beyond recovery?”
 
 “……!”

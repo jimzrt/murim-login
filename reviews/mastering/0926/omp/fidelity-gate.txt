@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is largely faithful, but a few changes lose a source-specific joke, legal wordplay, and relationship detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 77",
+      "current": "Their faces were flushed at the tantalizing prospect of a fresh batch of prisoners to fill the Embroidered Uniform Guard’s jails, which had stood empty for some time.",
+      "defect": "The Korean says they are flushed by the newcomers’ “lewd scent,” preserving a crude, suggestive image. “Tantalizing prospect” replaces that sensory image and its sexual implication with a generic metaphor.",
+      "replacement": "Their faces were flushed with excitement at the lewd scent of the fresh recruits who would fill the Embroidered Uniform Guard’s jails, which had stood empty for some time.",
+      "rationale": "The source explicitly attributes their excitement to the newcomers’ 야한 냄새, not merely to the prospect of filling the jails.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 83",
+      "current": "The man who had once slandered Hong Jin by calling him a ball-less eunuch was dragged away.",
+      "defect": "“Slandered” suggests a false defamatory claim and loses the legal joke: the Korean specifies defamation by stating facts, even though the crude description was true.",
+      "replacement": "The man who had once defamed Hong Jin by stating as fact that he was a ball-less eunuch was dragged away.",
+      "rationale": "사실 적시 명예 훼손죄 specifically refers to defamation through stating facts; the wording makes that technical phrasing part of the joke.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 213",
+      "current": "like a missionary at Yeongdeungpo Station shouting that believers go to Heaven and unbelievers go to Hell",
+      "defect": "The translation changes the slogan’s first half from “Jesus Heaven” to “believers go to Heaven,” replacing the source’s direct religious invocation with a different claim.",
+      "replacement": "like a missionary at Yeongdeungpo Station shouting, “Jesus Heaven, Unbeliever Hell!”",
+      "rationale": "The Korean phrase is 예수천국 불신지옥: “Jesus Heaven, Unbeliever Hell.” The direct slogan is the source-specific image.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 133",
+      "current": "It was also his first request of Me as Imperial Younger Brother and as My brother.",
+      "defect": "“My brother” omits that Zhu Bao is the Emperor’s younger brother, a relationship specified by 아우.",
+      "replacement": "It was also his first request of Me as Imperial Younger Brother and as My younger brother.",
+      "rationale": "The Korean says 황태제이자 아우로서: as Imperial Younger Brother and as a younger brother.",
+      "confidence": 0.9
+    }
+  ]
+}
