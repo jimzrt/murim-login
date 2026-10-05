@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is broadly faithful. One source image preserved in the accepted baseline was lost.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 69–71",
+      "current": "riddled with holes",
+      "defect": "The source says the intruder becomes like a beehive, an image the accepted baseline preserved. “Riddled with holes” conveys the injury but drops that image.",
+      "replacement": "riddled like a beehive",
+      "rationale": "The Korean phrase 벌집이 되고 만다 explicitly invokes becoming a beehive; the source-specific comparison is absent from the assembled English.",
+      "confidence": 0.97
+    }
+  ]
+}

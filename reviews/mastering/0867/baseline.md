@@ -4,51 +4,51 @@
 
 Thunder rolled across the sky. As dazzling lightning flashed and torrential rain came pouring down, the palace attendants hurried about.
 
-Eunuchs and palace maids scurried toward the quarters of the consorts they served, worried that rainwater might be leaking in. The Embroidered Uniform Guards stationed throughout the imperial palace stood their ground beneath their broad-brimmed hats.
+Eunuchs and palace maids scurried toward the quarters of the consorts they served, worried that rain might be leaking in somewhere. The Embroidered Uniform Guards stationed throughout the imperial palace stood their ground beneath their broad-brimmed hats.
 
 Everyone who worked in the imperial palace had a role to play.
 
 Do your job well, and you were rewarded. Fail to, and you were punished.
 
-Yet one man strolled through the relentless downpour at his leisure. He was one of the few people in this vast palace who needn’t concern himself with rewards or punishments.
+And in the relentless downpour, one man strolled at his leisure. He was one of the few people in this vast imperial palace who needn’t concern himself with rewards or punishments.
 
 No—in fact, it was closer to the opposite.
 
 He wielded such immense authority that he could reward or punish others without the Son of Heaven’s approval.
 
-And yet no palace attendant dared try to catch his eye or get close to him.
+Yet not one palace attendant dared try to catch his eye or get close to him.
 
 Not even the rain pouring ceaselessly down at that very moment.
 
 *Whoosh.*
 
-Though he walked through the downpour, not a drop of water touched him.
+Though he walked through the downpour, not a drop of water touched the man.
 
 His half-white hair, tousled as it pleased, was bone-dry. His golden armor, polished with oil-treated cloth, still gleamed brilliantly.
 
-It was a strange, almost unreal sight, but then, he was no ordinary man.
+It was a strange, almost unreal sight, but the man was different.
 
-Immense authority wasn’t all he possessed.
+After all, immense authority wasn’t all he possessed.
 
 Raw power.
 
 Martial prowess far beyond the limits of human ability.
 
-He had the power to make the unreal real. With an important meeting ahead of him, he simply didn’t want to get wet.
+He had the strength to make the unreal real. And with an important meeting ahead of him, he simply didn’t want to get wet.
 
 *Vwoom.*
 
-The air trembled with his profound internal energy. Rain struck an invisible barrier and scattered in every direction, unable to touch him.
+The air trembled before his profound internal energy. The rain struck an invisible barrier and ricocheted away in every direction, unable to touch him.
 
 “It’s been quiet lately, but now it’s really coming down…”
 
 Muttering as he looked up at the sky flashing with lightning, the man resumed his steps. No one dared stand in his way.
 
-No one had in the past. No one did now. And no one would in the future.
+They hadn’t in the past. They didn’t now. And they never would.
 
 *Clank. Rumble.*
 
-The mere sight of him approaching from afar was enough.
+The mere sight of the man approaching from afar was enough.
 
 The Embroidered Uniform Guards peered out from beneath their deeply lowered hats. Without a moment’s hesitation, they opened the firmly shut gates and kept their heads bowed until he had passed.
 
@@ -56,31 +56,31 @@ The same was true of those quietly performing their duties out of sight.
 
 “Open the way.”
 
-At his sudden command, the vast garden, filled with all manner of rare flowers and plants, shimmered like a heat haze.
+At the man’s sudden command, the vast garden, filled with all manner of rare flowers and plants, shimmered like a heat haze.
 
 *Whoosh.*
 
-Even the foreign trees and flowers that had stood tall against the fierce wind and rain lowered their heads.
+Even the foreign trees and flowers that had stood tall against the fierce rain and wind lowered their heads.
 
-Thick leaves and branches slid aside, revealing a hidden path where only those granted permission could set foot.
+Thick leaves and branches stirred aside, revealing a hidden path where only those granted permission could set foot.
 
 Beautiful flowers have thorns.
 
-The imperial palace’s gardens were no different. An unwelcome guest fooled by their beauty into stepping inside would find himself surrounded by countless mechanisms and formations and riddled with holes.
+The imperial palace’s gardens were no different. An unwelcome guest who was fooled by their appearance and stepped inside recklessly would be surrounded by countless mechanisms and formations and riddled like a beehive.
 
 And it wasn’t just the gardens.
 
-The imperial palace itself was a den of dangers, a demon-slaying battleground—a mountain of sabers and a forest of swords in the truest sense.
+The imperial palace itself was a den of countless dangers, a demon-slaying battleground and a mountain of sabers and a forest of swords in the truest sense.
 
 Anyone without permission would die.
 
-Even someone whose martial prowess reached the heavens could not be sure of surviving.
+Even someone whose martial prowess reached the heavens could never be sure they would survive.
 
 As the man passed through five gates and dozens of pavilions, he was reminded of that once more. At last, he reached his destination and stopped.
 
 Qianqing Palace.
 
-Beneath a signboard inscribed in a bold, soaring hand, two middle-aged men stood like iron towers. They lowered their heads in greeting.
+Beneath the signboard, its characters written in a bold, soaring hand, two middle-aged men stood like iron towers. They lowered their heads in greeting.
 
 “You’ve arrived.”
 
@@ -88,15 +88,15 @@ Beneath a signboard inscribed in a bold, soaring hand, two middle-aged men stood
 
 Their voices and expressions were as alike as if they were one person.
 
-Their faces, too, made it plain they had been born of the same womb on the same day.
+And their features were so strikingly similar that anyone would know they had been born of the same womb on the same day.
 
-The twins continued politely.
-
-“Please wait a moment.”
+The twins continued, speaking politely to the man.
 
 “Please wait a moment.”
 
-The man frowned. Not because they were speaking in unison again, despite how many times he had told them not to, but because of the strong smell of blood coming from them.
+“Please wait a moment.”
+
+The man frowned. It wasn’t because he disliked the twins speaking in unison, despite his countless reminders not to. It was the strong smell of blood coming from them.
 
 “Looks like you had a guest.”
 
@@ -110,19 +110,19 @@ The man frowned. Not because they were speaking in unison again, despite how man
 
 “He took his own life just before—”
 
-“Enough. How many times have I told you once is enough? So you failed to take the intruder alive?”
+“Enough. How many times have I told you that once is enough? So you failed to take the intruder alive?”
 
 The twins blinked at him, looking unsure what to do, then mumbled under their breath.
 
-“He had a potent poison hidden beneath one of his molars.”
+“He had hidden a potent poison beneath one of his molars.”
 
-“He had a potent poison hidden—no, we did everything we could, but we couldn’t stop him. We beg your forgiveness.”
+“He had hidden a potent poison—no, we did everything we could, but we couldn’t stop him. We beg your forgiveness.”
 
 The man clicked his tongue softly.
 
 The fact that the intruder had made it this far was proof of his extraordinary martial prowess.
 
-Failing to capture him and learn who was behind him was a painful mistake, but something mattered more than reprimanding the twins right now.
+Failing to capture him and discover who was behind him was a painful mistake, but there was something more important than reprimanding the twins right now.
 
 “Don’t tell me he got inside the palace.”
 
@@ -130,7 +130,7 @@ Failing to capture him and learn who was behind him was a painful mistake, but s
 
 “Of course not.”
 
-*At least that’s a relief.* The man asked another question.
+At least that was a relief, the man thought to himself, then asked another question.
 
 “Is he inside?”
 
@@ -138,9 +138,9 @@ Failing to capture him and learn who was behind him was a painful mistake, but s
 
 “He’s waiting.”
 
-The man nodded, glanced up at the signboard, then stepped forward.
+The man nodded, glanced up at the signboard above him, then stepped forward.
 
-Qianqing Palace. Qianqing—“clear sky.” Those two characters seemed a poor fit for today.
+Qianqing Palace. Qianqing—“clear sky.” He couldn’t help thinking that those two characters were a poor fit for a day like this.
 
 *Step. Step.*
 
@@ -148,11 +148,11 @@ The palace interior was quiet.
 
 Not a person—or even a rat—could be seen. Only the countless paintings and works of art hanging on the walls glimmered in the faint light.
 
-But what he could see wasn’t everything.
+But there was more than met the eye.
 
-With every step, the man felt eyes following him. Shadows ready to rush out and cut him to pieces if he posed even the slightest threat, whoever he might be.
+With every step, the man felt eyes following him. Shadows poised to rush in and tear him apart the moment they sensed even the slightest threat, whoever he might be.
 
-At last, he stopped. Before him was a vast space prepared for one person alone, and there its master waited.
+At the end of his path, he came to a stop. A vast space had been prepared for one person alone, and its master was waiting.
 
 No—the master of all under heaven.
 
@@ -164,11 +164,11 @@ At that moment—
 
 The colorful silk curtains draped around the room stirred.
 
-Through the thin silk, amid wisps of faintly fragrant smoke, he glimpsed the back of someone dressed in dazzling white.
+Amid the smoke rising here and there, carrying a faint fragrance, the back of a figure dressed in dazzling white showed through the thin curtains.
 
 “You’ve come.”
 
-A quiet voice echoed through the room. At first, it sounded calm, almost languid.
+A quiet voice reverberated through the room. At first, it sounded calm and languid.
 
 The Son of Heaven of the Great Nation continued slowly, as if speaking to himself.
 
@@ -176,19 +176,19 @@ The Son of Heaven of the Great Nation continued slowly, as if speaking to himsel
 
 “……!”
 
-“I fought for a long time, covered in blood. They came at me from somewhere, without end, and I cut them down without end. Only when I finally woke did I realize it hadn’t been a mere dream.”
+“I fought for a long time, drenched in blood. They kept coming from somewhere, without end, and I kept cutting them down. Only when I finally woke did I realize it hadn’t been some idle dream.”
 
-Baek Yeon raised his head in silence. Pale smoke drifted from between the Son of Heaven’s lips.
+Baek Yeon raised his head in silence and looked at the pale smoke drifting from between the Son of Heaven’s lips.
 
-“So you’ve turned to poppy again.”
+“So you’ve turned to opium again.”
 
-“Does this look like poppy to you?”
+“Does this look like opium to you?”
 
 “Forgive me, but that is exactly what it looks like to me.”
 
-“You’re wrong. This isn’t poppy. It’s medicine—the only thing that can heal me.”
+“You’re wrong. This isn’t opium. It’s medicine—the only thing that can heal me.”
 
-Baek Yeon’s brow twitched.
+At that, Baek Yeon’s brow twitched.
 
 “Your Majesty, may I speak with you about something important?”
 
@@ -196,7 +196,7 @@ The Son of Heaven didn’t answer. Instead, he flicked his long, wide sleeve.
 
 *Swish.*
 
-With a faint rustle, the presences surrounding them withdrew like the tide. Baek Yeon straightened from his bow, his voice cold.
+With a faint rustle, the presences surrounding them withdrew like the tide. Baek Yeon straightened from his bow, his voice turning cold.
 
 “Your Majesty, with the great undertaking nearly complete, why would you disgrace yourself like this?”
 
@@ -204,19 +204,19 @@ If anyone else had been there, they would have covered their eyes and ears.
 
 Baek Yeon’s tone was far too sharp for a subject speaking to his ruler. It was more than insolent—it was defiant.
 
-Yet the Son of Heaven didn’t answer this time, either. The ruler of the world gave a low laugh instead. Only after a long while did he speak.
+Yet the Son of Heaven didn’t answer this time, either. The ruler of the world gave a low laugh instead. Only after a long while did he suddenly speak.
 
 “The great undertaking. Yes. There was a great undertaking.”
 
-“Please don’t forget the promise we made that day.”
+“Please don’t forget the promise from that day.”
 
 “Forget?”
 
 The Son of Heaven muttered with a short, incredulous laugh.
 
-“I haven’t forgotten. Not for a single moment since that day.”
+“I haven’t forgotten. I haven’t forgotten for even a moment since that day.”
 
-His voice was as weak as a sick man’s.
+His voice was as weak as that of a sick man.
 
 But Baek Yeon’s eyes, fixed on the Son of Heaven, didn’t waver. They were sunk deep and steady.
 
@@ -224,13 +224,13 @@ But Baek Yeon’s eyes, fixed on the Son of Heaven, didn’t waver. They were su
 
 After a brief silence, the Son of Heaven nodded quietly.
 
-He had come too far to turn back. Once no more than the fourth prince, he now ruled all under heaven. And he had become a man who could no longer get by without poppy.
+It was already too late to turn back. He had been no more than the fourth prince, but now he ruled all under heaven. He had become a man who couldn’t help but rely on opium.
 
-Wasn’t it said that a horse racing across the wilderness never looked back?
+Did they say that a horse racing across the wilderness never looked back?
 
 Even the Son of Heaven, who stood above all people, was no exception.
 
-He was a horse that could no longer stop of its own will. Even if it collapsed coughing up blood, it had to keep running toward its destination.
+He was a horse. A horse that could no longer stop of its own will, that had to keep running toward its destination even if it collapsed, coughing up blood.
 
 *Crack.*
 
@@ -238,7 +238,7 @@ His hand clenched instinctively, snapping the ornate long-stemmed tobacco pipe. 
 
 *Thump.*
 
-The rough pieces dug into his palm. Pain flared like a burn, and little by little, his mind began to clear.
+The rough sensation digging into his palm. A pain like a burn. And, little by little, his mind began to clear.
 
 “Ah.”
 
@@ -266,17 +266,17 @@ Baek Yeon nodded.
 
 “……”
 
-Baek Yeon pressed his lips together, but the Son of Heaven understood.
+Baek Yeon pressed his lips together, but the Son of Heaven understood what that meant.
 
-All sorts of bugs gather around a tempting meal.
+Wherever there’s a delicious meal, all sorts of bugs gather.
 
-Now that Prince Shangshan Zhu Bao had appeared in the Imperial Capital, the enemies who resented him would surely draw the blades they had kept hidden beneath their sleeves.
+Now that Prince Shangshan Zhu Bao had appeared in the imperial capital, his enemies—those who resented him—would surely draw the blades they’d kept hidden beneath their sleeves.
 
 Just like the nameless assassin who had come here before Baek Yeon today.
 
 “Baek Yeon, this must never happen again. Remember that.”
 
-His voice was different now, cold as ice. Baek Yeon faltered, then answered with a faint smile.
+The voice was different now, cold as ice. Baek Yeon hesitated, then answered with a faint smile.
 
 “I will engrave Your Majesty’s words into my bones. Please forgive my disloyalty until now.”
 

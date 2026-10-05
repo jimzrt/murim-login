@@ -2,13 +2,13 @@
 
 *Rumble.*
 
-Thunder rolled across the sky. As dazzling lightning flashed and torrential rain came pouring down, the palace attendants hurried about.
+Thunder rolled across the sky. Lightning flashed, and as rain came pouring down, the palace attendants hurried about.
 
 Eunuchs and palace maids scurried toward the quarters of the consorts they served, worried that rainwater might be leaking in. The Embroidered Uniform Guards stationed throughout the imperial palace stood their ground beneath their broad-brimmed hats.
 
-Everyone who worked in the imperial palace had a role to play.
+Everyone in the imperial palace had a role to play.
 
-Do your job well, and you were rewarded. Fail to, and you were punished.
+Do your job well, and you were rewarded. Fail, and you were punished.
 
 Yet one man strolled through the relentless downpour at his leisure. He was one of the few people in this vast palace who needn’t concern himself with rewards or punishments.
 
@@ -18,13 +18,13 @@ He wielded such immense authority that he could reward or punish others without 
 
 And yet no palace attendant dared try to catch his eye or get close to him.
 
-Not even the rain pouring ceaselessly down at that very moment.
+Not even the rain pouring down at that very moment.
 
 *Whoosh.*
 
 Though he walked through the downpour, not a drop of water touched him.
 
-His half-white hair, tousled as it pleased, was bone-dry. His golden armor, polished with oil-treated cloth, still gleamed brilliantly.
+His half-white hair, tousled every which way, was bone-dry. His golden armor, polished with oil-treated cloth, still gleamed.
 
 It was a strange, almost unreal sight, but then, he was no ordinary man.
 
@@ -42,7 +42,7 @@ The air trembled with his profound internal energy. Rain struck an invisible bar
 
 “It’s been quiet lately, but now it’s really coming down…”
 
-Muttering as he looked up at the sky flashing with lightning, the man resumed his steps. No one dared stand in his way.
+The man looked up at the sky flashing with lightning, then resumed walking. No one stood in his way.
 
 No one had in the past. No one did now. And no one would in the future.
 
@@ -50,7 +50,7 @@ No one had in the past. No one did now. And no one would in the future.
 
 The mere sight of him approaching from afar was enough.
 
-The Embroidered Uniform Guards peered out from beneath their deeply lowered hats. Without a moment’s hesitation, they opened the firmly shut gates and kept their heads bowed until he had passed.
+The Embroidered Uniform Guards peered out from beneath their lowered hats. Without a moment’s hesitation, they opened the firmly shut gates and kept their heads bowed until he had passed.
 
 The same was true of those quietly performing their duties out of sight.
 
@@ -86,7 +86,7 @@ Beneath a signboard inscribed in a bold, soaring hand, two middle-aged men stood
 
 “You’ve arrived.”
 
-Their voices and expressions were as alike as if they were one person.
+Their voices and expressions were so alike they might have belonged to one person.
 
 Their faces, too, made it plain they had been born of the same womb on the same day.
 
@@ -112,7 +112,7 @@ The man frowned. Not because they were speaking in unison again, despite how man
 
 “Enough. How many times have I told you once is enough? So you failed to take the intruder alive?”
 
-The twins blinked at him, looking unsure what to do, then mumbled under their breath.
+The twins blinked at him, looking unsure what to do, then mumbled.
 
 “He had a potent poison hidden beneath one of his molars.”
 
@@ -120,11 +120,11 @@ The twins blinked at him, looking unsure what to do, then mumbled under their br
 
 The man clicked his tongue softly.
 
-The fact that the intruder had made it this far was proof of his extraordinary martial prowess.
+The intruder’s having made it this far was proof of his extraordinary martial prowess.
 
 Failing to capture him and learn who was behind him was a painful mistake, but something mattered more than reprimanding the twins right now.
 
-“Don’t tell me he got inside the palace.”
+“Don’t tell me he got inside.”
 
 “Of course not.”
 
@@ -190,7 +190,7 @@ Baek Yeon raised his head in silence. Pale smoke drifted from between the Son of
 
 Baek Yeon’s brow twitched.
 
-“Your Majesty, may I speak with you about something important?”
+“Your Majesty, may I speak frankly about something important?”
 
 The Son of Heaven didn’t answer. Instead, he flicked his long, wide sleeve.
 
@@ -212,15 +212,15 @@ Yet the Son of Heaven didn’t answer this time, either. The ruler of the world 
 
 “Forget?”
 
-The Son of Heaven muttered with a short, incredulous laugh.
+The Son of Heaven gave a short, incredulous laugh.
 
 “I haven’t forgotten. Not for a single moment since that day.”
 
 His voice was as weak as a sick man’s.
 
-But Baek Yeon’s eyes, fixed on the Son of Heaven, didn’t waver. They were sunk deep and steady.
+But Baek Yeon’s eyes remained fixed on him, unwavering and dark.
 
-“They’ve already begun to move. Before everything falls apart, remember that you must put things back where they belong.”
+“They’ve already begun to move. Before everything falls apart, remember that we must put things back where they belong.”
 
 After a brief silence, the Son of Heaven nodded quietly.
 
@@ -234,9 +234,9 @@ He was a horse that could no longer stop of its own will. Even if it collapsed c
 
 *Crack.*
 
-His hand clenched instinctively, snapping the ornate long-stemmed tobacco pipe. The Son of Heaven stared at the broken pieces in his palm, then closed his fist tightly around them.
+His hand tightened without his noticing, snapping the ornate long-stemmed tobacco pipe. The Son of Heaven stared at the broken pipe in his palm, then clenched his fist around it.
 
-*Thump.*
+*Thud.*
 
 The rough pieces dug into his palm. Pain flared like a burn, and little by little, his mind began to clear.
 
@@ -282,7 +282,7 @@ His voice was different now, cold as ice. Baek Yeon faltered, then answered with
 
 *Flutter.*
 
-In response, the Son of Heaven merely waved his sleeve. Baek Yeon turned and began walking away.
+The Son of Heaven merely waved his sleeve. Baek Yeon turned and began walking away.
 
 After only a few steps, he stopped.
 
@@ -294,7 +294,7 @@ After only a few steps, he stopped.
 
 The Blazing Flame Divine Dragon, Jin Taekyung.
 
-Baek Yeon thought carefully about the man who had suddenly come to mind. A long while passed before he spoke.
+Baek Yeon thought carefully about the man who had come to mind. A long while passed before he spoke.
 
 “I don’t know.”
 
