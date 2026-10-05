@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "He made us promise, again and again, that even if he died, we would see the coup through.",
+      "defect": "The Korean says he earnestly and repeatedly urged them to ensure the coup succeeded; it does not say he made them promise.",
+      "id": "F01",
+      "rationale": "신신당부하셨어 conveys an earnest, emphatic appeal, not an explicit demand for a promise.",
+      "replacement": "He repeatedly implored us to see the coup through, even if he died.",
+      "severity": "minor",
+      "source": "Korean lines 15–17"
+    },
+    {
+      "confidence": 0.83,
+      "current": "A dull pain",
+      "defect": "“Dull” changes the quality of the pain. 아릿한 describes a stinging or smarting ache.",
+      "id": "F02",
+      "rationale": "The source describes the pain as 아릿한, rather than dull.",
+      "replacement": "A stinging ache",
+      "severity": "minor",
+      "source": "Korean line 177"
+    },
+    {
+      "confidence": 0.87,
+      "current": "or one of the Ten Kings",
+      "defect": "The English specifies that only one of the Ten Kings might be included, while the Korean names 십왕 as a group without specifying a number.",
+      "id": "F03",
+      "rationale": "The glossary establishes 십왕 as “Ten Kings”; the source does not narrow the reinforcement to one member.",
+      "replacement": "or the Ten Kings",
+      "severity": "minor",
+      "source": "Korean line 233"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with a few small shifts in meaning and specificity.",
+  "version": 1
+}

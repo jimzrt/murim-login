@@ -14,7 +14,7 @@ Wei Zhong, Seal-Holding Eunuch of the East Depot.
 
 Ma Sanbao sighed, regret on his face.
 
-“But it’s not good. He still hasn’t recovered completely. Of course, if he hadn’t been injured that badly, he wouldn’t still be alive.”
+“But he’s still not well. Even now, he hasn’t fully recovered. Of course, if he hadn’t been injured so badly, he wouldn’t have been allowed to live this long.”
 
 “What do you mean?”
 
@@ -22,7 +22,7 @@ Ma Sanbao sighed, regret on his face.
 
 I’d wondered about that myself.
 
-That meticulous Emperor had spared Lord Cang Gong, the man who stood in his way—and the head of the East Depot, the most threatening force of all.
+That meticulous Emperor had spared Cang Gong—a man standing in his way, and the head of the East Depot, no less.
 
 “Is there something else I don’t know?”
 
@@ -44,13 +44,13 @@ The air around us seemed to grow heavy. A fire flickered in Ma Sanbao’s eyes.
 
 “What did the Emperor get out of the bargain?”
 
-“Legitimacy and time. The late Emperor, after securing a promise about His Highness Prince Shangshan’s future, formally abdicated the throne. Lord Cang Gong calmed the opposition forces that had wanted to fight the new Emperor.”
+“Legitimacy and time. Once the late Emperor had secured a promise concerning His Highness Prince Shangshan, he formally ceded the throne. Lord Cang Gong calmed the forces that wanted to rise against the new Emperor.”
 
 The Imperial Capital might be the center of the realm, but it wasn’t the whole realm.
 
 The Great Nation’s vast territories were held together by countless officials and armies. Even with the legitimacy of a formal transfer of power, the new Emperor would have needed time to quell the unrest simmering across the land.
 
-Cang Gong was the most respected of the late Emperor’s old retainers. Cang Gong’s safety, along with Prince Shangshan’s, must have been what kept those forces in check.
+Cang Gong was the most respected of the late Emperor’s old retainers. His support, along with Prince Shangshan’s safety, must have been what kept those forces in check.
 
 “The bargain dealt us a terrible blow, but it let us achieve what we had to. The Emperor wasn’t the only one who needed time to recover.”
 
@@ -60,7 +60,7 @@ Instead, Cang Gong had miraculously survived his terrible Internal Injury. The E
 
 And so had the restoration army, which dreamed of rebellion under his leadership.
 
-“So the two sides split apart and faced off against each other. And they’ve been doing that for more than a decade.”
+“So the two sides have been facing off for more than a decade.”
 
 “That’s right. This clash has been inevitable for a long time. We’ve had our blades pointed at each other, but neither side could make the first move. Not openly, at least.”
 
@@ -74,7 +74,7 @@ I didn’t need to ask how those attempts had turned out. Both men were still al
 
 The Emperor lived under heavy guard in Qianqing Palace, though. Cang Gong’s survival was the surprising part.
 
-“When I went to Qianqing Palace, I saw that the Emperor had one hell of an assassin working for him. How did you stop them?”
+“When I went to Qianqing Palace, I saw that the Emperor had one hell of an assassin on his side. How did you keep them away from Cang Gong?”
 
 “The Emperor has several Supreme Peak masters under his command, of course. But our forces are no weaker. Have you heard of the Twelve Palaces of the Zodiac?”
 
@@ -88,7 +88,7 @@ My eyes widened. Twelve Supreme Peak masters, all here in the Imperial Capital? 
 
 I knew much of the Great Nation’s strength was concentrated here, but that was still astonishing. What Ma Sanbao said next surprised me even more.
 
-“Half of those twelve Supreme Peak masters belong to our side. Some of them are staying with Lord Cang Gong.”
+“Half of those twelve masters are on our side. Some are staying with Lord Cang Gong.”
 
 “…!”
 
@@ -96,7 +96,7 @@ I knew much of the Great Nation’s strength was concentrated here, but that was
 
 Ma Sanbao pointed to the names and positions on the pledge, one after another.
 
-Among them were old scholars who enjoyed the overwhelming support of the realm’s Confucian scholars, and senior court officials of the highest rank, such as the Three Dukes. But the most important figures were others.
+There was an elderly scholar with the overwhelming support of scholars across the realm. There were towering figures at court, including one of the Three Dukes, among the highest officials in the land.
 
 But the names that mattered most belonged to military officers.
 
@@ -108,7 +108,7 @@ I nodded gravely.
 
 The names on that pledge represented no less than half the Great Nation. If either side struck first, the result would be a sea of corpses and blood.
 
-“The Emperor is the one who drew his sword first. We had no intention of upsetting the balance. We wanted to wait, at least until His Highness Prince Shangshan was older.”
+“The Emperor is the one who’s drawn his sword. We had no intention of upsetting the balance. We wanted to wait, at least until His Highness Prince Shangshan was older.”
 
 Children of this era generally grew up faster than children in the modern world. But Prince Shangshan was still too young to shoulder the burden of an empire this vast.
 
@@ -152,9 +152,9 @@ Rustle.
 
 I opened my eyes to Ma Sanbao’s rigid face. After watching him in silence for a while, I brought my hand to my mouth.
 
-Crack. Tap.
+Crunch. Drip.
 
-A dull pain, and drops of blood began to fall. With my pinky finger wet with blood, I filled in the pledge’s empty space.
+A sharp sting, then drops of blood fell. I used my bloodied little finger to fill an empty space on the pledge.
 
 Jin Taekyung.
 
@@ -168,7 +168,7 @@ Ma Sanbao understood at once.
 
 “Does that make me a coward?”
 
-“No. I can’t blame you. You don’t want to suffer the same fate as the Maoshan Sect, annihilated for opposing the Great Nation in the past. Besides…”
+“No. I can’t blame you. You wouldn’t want your family to suffer the fate of the Maoshan Sect, wiped out for opposing the Great Nation. Besides…”
 
 He tucked the pledge, now bearing my name, into his robe.
 
@@ -202,7 +202,7 @@ He frowned at the writing.
 
 “I do.”
 
-I nodded at Ma Sanbao, whose eyes had widened, and continued slowly.
+I nodded to him and went on slowly.
 
 “Send one of your men to the place I’m about to tell you and have him deliver that message. Reinforcements from the Murim Alliance will arrive in time for the grand banquet. A powerful force that might even include the Slaughter Saint or one of the Ten Kings.”
 
@@ -210,9 +210,9 @@ I nodded at Ma Sanbao, whose eyes had widened, and continued slowly.
 
 “You told me last time: succeed, and we’re kings. Fail, and we’re traitors.”
 
-I met Ma Sanbao’s face, colored with shock and amazement, and muttered,
+I looked straight at Ma Sanbao’s stunned face.
 
-“In that case, shouldn’t we make sure this coup succeeds?”
+“Then we have to make sure this coup succeeds.”
 
 Yes.
 
@@ -226,11 +226,11 @@ Rain had battered the Imperial Capital overnight, flooding parts of the city. Hu
 
 In its wake, ominous rumors began to spread.
 
-They said they’d found a venomous serpent in a well on the outskirts of the capital—one bigger than several grown men put together.
+A venomous serpent larger than several grown men put together had been found in a well on the outskirts of the capital.
 
-They said it was Heaven’s warning to the current Son of Heaven, who had defied the natural order—and a prophecy that an even greater disaster was about to begin.
+It was Heaven’s warning to the present Son of Heaven for defying the natural order, and a sign that a greater disaster was coming.
 
-They said the rain had stopped so soon thanks to His Highness Prince Shangshan, who had carried on the late Emperor’s will.
+The rain had stopped as soon as it did only because His Highness Prince Shangshan had inherited the late Emperor’s virtue.
 
 Rumors like these, steeped in superstition, spread like wildfire. Within two days, they had crossed the city’s towering walls and reached the imperial palace.
 

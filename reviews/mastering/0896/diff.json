@@ -1,0 +1,2122 @@
+{
+  "baseline_blocks": 135,
+  "baseline_sha256": "6923c2edc2d286fbd760b65ba041f5411b1d4a6f9b9e77548cc9f9e3408100a5",
+  "global_terminology_alerts": [],
+  "hunk_count": 112,
+  "hunks": [
+    {
+      "baseline": "The pledge Ma Sanbao pulled from his robe was already quite worn, as if it had been keeping track of all the years that had passed.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "The pledge Ma Sanbao pulled from his robe was worn with age.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The paper had yellowed, and stains had spread in places.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "",
+      "sol_paragraphs": "after P2",
+      "sol_range": [
+        2,
+        2
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the names and titles, written densely in each person’s own hand, remained clear. At the center was one person’s name, written in the largest, boldest script of all.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "The paper had yellowed, and stains marked it here and there. But the names and positions, crowded onto it in each signer’s own hand, were still clear. At the center stood one name in larger, bolder script than all the rest.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "칭호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Title"
+        }
+      ]
+    },
+    {
+      "baseline": "“Lord Cang Gong.”",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "",
+      "sol_paragraphs": "after P4",
+      "sol_range": [
+        4,
+        4
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "창공",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Cang Gong"
+        }
+      ]
+    },
+    {
+      "baseline": "Ma Sanbao noticed where I was looking and spoke without warning.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "",
+      "sol_paragraphs": "after P4",
+      "sol_range": [
+        4,
+        4
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "“He was the first to draw up and sign the pledge. He made me promise over and over that even if he passed away, we had to see the coup through.”",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "17",
+      "sol": "“Lord Cang Gong,” Ma Sanbao said, noticing where I was looking. “He was the first to draw up the pledge and sign it. He made us promise, again and again, that even if he died, we would see the coup through.”",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“His condition must have been serious enough for him to consider his own death.”",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "19",
+      "sol": "“He must have thought he might die.”",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“His Internal Injury was bad enough that it wouldn’t have been surprising if he’d died right then and there. Thankfully, he survived…”",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "21",
+      "sol": "“His Internal Injury was so severe it would have been no surprise if he’d died on the spot. Thankfully, he survived…”",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao sighed, his face full of regret.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "23",
+      "sol": "Ma Sanbao sighed, regret on his face.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But it’s not good. He still hasn’t recovered completely. Of course, if he hadn’t been injured that badly, he wouldn’t still be alive.”",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "25",
+      "sol": "“But he’s still not well. Even now, he hasn’t fully recovered. Of course, if he hadn’t been injured so badly, he wouldn’t have been allowed to live this long.”",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why do you think the Emperor let Lord Cang Gong live? He was the foremost among the late Emperor’s old retainers. The fallout from executing him outright would have been too much to bear.”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "29",
+      "sol": "“Why else would the Emperor have spared Lord Cang Gong? He was the foremost of the old retainers who served the late Emperor. The Emperor couldn’t execute him outright without facing the consequences.”",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was something I’d wondered about, too.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "31",
+      "sol": "I’d wondered about that myself.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That meticulous Emperor had spared Lord Cang Gong, the man who stood in his way—and the head of the East Depot, the most threatening force of all.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "33",
+      "sol": "That meticulous Emperor had spared Cang Gong—a man standing in his way, and the head of the East Depot, no less.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At my question, Ma Sanbao quietly nodded.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "37",
+      "sol": "Ma Sanbao nodded quietly.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There was. A bargain that put the fate of the Great Nation on the line.”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "39",
+      "sol": "“There was a bargain. The fate of the Great Nation hung on it.”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The life of a child who hadn’t even learned to walk yet. And the lives of countless loyal officials in exchange.”",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "43",
+      "sol": "“The life of a child who hadn’t even learned to walk. Traded for the lives of countless loyal officials.”",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "45",
+      "sol": "“…!”",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. Just as you’re thinking. Nearly a hundred high-ranking officials were sacrificed to save His Highness Prince Shangshan. Not just them—their entire families.”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "47",
+      "sol": "“Yes, exactly what you’re thinking. Nearly a hundred senior officials were sacrificed to save His Highness Prince Shangshan. Not just the officials themselves, but their entire families.”",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The air around us grew heavy. Flames flickered in Ma Sanbao’s eyes.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "49",
+      "sol": "The air around us seemed to grow heavy. A fire flickered in Ma Sanbao’s eyes.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“With the late Emperor, His Highness the Crown Prince, and the other princes all seriously ill, we had to protect His Highness Prince Shangshan, our last hope, even at that cost. It was the only way.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "51",
+      "sol": "“With the late Emperor, His Highness the Crown Prince, and the other princes all gravely ill, we had to protect His Highness Prince Shangshan, our last hope, even at that cost. It was the only way.”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then what did the Emperor get in return?”",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "53",
+      "sol": "“What did the Emperor get out of the bargain?”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Legitimacy and time. The late Emperor, after securing a promise about His Highness Prince Shangshan’s future, formally abdicated the throne. Lord Cang Gong calmed the opposition forces that had wanted to fight the new Emperor.”",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "55",
+      "sol": "“Legitimacy and time. Once the late Emperor had secured a promise concerning His Highness Prince Shangshan, he formally ceded the throne. Lord Cang Gong calmed the forces that wanted to rise against the new Emperor.”",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The capital might be the heart of the realm, but the capital was not the realm itself.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "57",
+      "sol": "The Imperial Capital might be the center of the realm, but it wasn’t the whole realm.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Great Nation’s vast territory depended on its many officials and armies.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "59",
+      "sol": "The Great Nation’s vast territories were held together by countless officials and armies. Even with the legitimacy of a formal transfer of power, the new Emperor would have needed time to quell the unrest simmering across the land.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The new Emperor had gained at least some legitimacy by receiving the throne through a formal abdication from the late Emperor. But he would have needed time to quell the rebellions simmering across the land.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "61",
+      "sol": "",
+      "sol_paragraphs": "after P26",
+      "sol_range": [
+        26,
+        26
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "선황",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "the late Emperor"
+        }
+      ]
+    },
+    {
+      "baseline": "Lord Cang Gong, the most respected and authoritative of the late Emperor’s old retainers, and Prince Shangshan’s safety must have been the restraints that kept them in check.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "63",
+      "sol": "Cang Gong was the most respected of the late Emperor’s old retainers. His support, along with Prince Shangshan’s safety, must have been what kept those forces in check.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We suffered a devastating blow, but the bargain still let us achieve at least our bare minimum. The Emperor wasn’t the only one who needed time to recover.”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "65",
+      "sol": "“The bargain dealt us a terrible blow, but it let us achieve what we had to. The Emperor wasn’t the only one who needed time to recover.”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Emperor had probably expected Lord Cang Gong to die before long.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "67",
+      "sol": "The Emperor had probably expected Cang Gong to die before long.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But despite his terrible Internal Injury, Lord Cang Gong had miraculously survived, and the East Depot he led had endured to this day.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "69",
+      "sol": "Instead, Cang Gong had miraculously survived his terrible Internal Injury. The East Depot he led had endured, too.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "So had the restoration army, which dreamed of rebellion under Lord Cang Gong’s leadership.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "71",
+      "sol": "And so had the restoration army, which dreamed of rebellion under his leadership.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "창공",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Cang Gong"
+        }
+      ]
+    },
+    {
+      "baseline": "“So the two sides split apart and faced off against each other. And they’ve been doing that for more than a decade.”",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "73",
+      "sol": "“So the two sides have been facing off for more than a decade.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. This clash was inevitable from a long time ago. We kept our blades pointed at each other, but neither side could bring itself to act. At least, not openly.”",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "75",
+      "sol": "“That’s right. This clash has been inevitable for a long time. We’ve had our blades pointed at each other, but neither side could make the first move. Not openly, at least.”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I frowned at the words Ma Sanbao added.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "77",
+      "sol": "I frowned at that last part.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "The outcome was obvious without asking.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "83",
+      "sol": "",
+      "sol_paragraphs": "after P36",
+      "sol_range": [
+        36,
+        36
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Emperor and Lord Cang Gong were both still alive.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "85",
+      "sol": "I didn’t need to ask how those attempts had turned out. Both men were still alive.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "창공",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Cang Gong"
+        }
+      ]
+    },
+    {
+      "baseline": "But unlike the Emperor, who lived in Qianqing Palace under strict guard, Lord Cang Gong had survived attempts on his life. That was quite a surprise.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "87",
+      "sol": "The Emperor lived under heavy guard in Qianqing Palace, though. Cang Gong’s survival was the surprising part.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When I went to Qianqing Palace, I saw that the Emperor had one hell of an assassin working for him. How did you stop them?”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "89",
+      "sol": "“When I went to Qianqing Palace, I saw that the Emperor had one hell of an assassin on his side. How did you keep them away from Cang Gong?”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Of course, the Emperor has several Supreme Peak masters under his command. But our side is no weaker. Have you ever heard of the Twelve Palaces of the Zodiac?”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "91",
+      "sol": "“The Emperor has several Supreme Peak masters under his command, of course. But our forces are no weaker. Have you heard of the Twelve Palaces of the Zodiac?”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ve heard the name a few times, but aren’t those constellations?”",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "93",
+      "sol": "“I’ve heard the name a few times. Aren’t those constellations?”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Usually, yes. But it’s also the title given to the twelve Supreme Peak masters who protect the capital.”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "95",
+      "sol": "“Usually. But it’s also a title for the twelve Supreme Peak masters who protect the Imperial Capital.”",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What?",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "97",
+      "sol": "*What?*",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I couldn’t hide my surprise. My eyes widened.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "99",
+      "sol": "",
+      "sol_paragraphs": "after P43",
+      "sol_range": [
+        43,
+        43
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were twelve Supreme Peak masters in the capital—people rare even in Murim.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "101",
+      "sol": "My eyes widened. Twelve Supreme Peak masters, all here in the Imperial Capital? They were rare even in Murim.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even knowing that much of the Great Nation’s strength was concentrated in the capital, it was astonishing. And what Ma Sanbao said next was even more unexpected.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "103",
+      "sol": "I knew much of the Great Nation’s strength was concentrated here, but that was still astonishing. What Ma Sanbao said next surprised me even more.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Half of those twelve Supreme Peak masters belong to our side. Some of them are staying with Lord Cang Gong.”",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "105",
+      "sol": "“Half of those twelve masters are on our side. Some are staying with Lord Cang Gong.”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        },
+        {
+          "korean": "초절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Supreme Peak"
+        }
+      ]
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "107",
+      "sol": "“…!”",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao continued, pointing to the titles and names written on the pledge one by one.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "111",
+      "sol": "Ma Sanbao pointed to the names and positions on the pledge, one after another.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "칭호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Title"
+        }
+      ]
+    },
+    {
+      "baseline": "Among them were old scholars who enjoyed the overwhelming support of the realm’s Confucian scholars, and senior court officials of the highest rank, such as the Three Dukes. But the most important figures were others.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "113",
+      "sol": "There was an elderly scholar with the overwhelming support of scholars across the realm. There were towering figures at court, including one of the Three Dukes, among the highest officials in the land.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The military officers—that was who mattered most.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "115",
+      "sol": "But the names that mattered most belonged to military officers.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Commanders guarding either the capital or the borders beyond it.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "117",
+      "sol": "",
+      "sol_paragraphs": "after P51",
+      "sol_range": [
+        51,
+        51
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One of them was even a governor-general with tens of thousands of troops under his command.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "119",
+      "sol": "Commanders guarding the Imperial Capital and the borders beyond it. One was even a governor-general who commanded tens of thousands of troops.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Do you understand now why this standoff has lasted so long?”",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "121",
+      "sol": "“Do you understand why this standoff has lasted so long?”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I nodded heavily.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "123",
+      "sol": "I nodded gravely.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The names on this pledge were enough to make up half the Great Nation. If either side struck first under these circumstances, the land would become a sea of corpses and blood.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "125",
+      "sol": "The names on that pledge represented no less than half the Great Nation. If either side struck first, the result would be a sea of corpses and blood.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Emperor was the one who drew his sword first. We had no intention of breaking this balance. At least, we wanted to wait until His Highness Prince Shangshan had grown older.”",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "127",
+      "sol": "“The Emperor is the one who’s drawn his sword. We had no intention of upsetting the balance. We wanted to wait, at least until His Highness Prince Shangshan was older.”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Compared with children in the modern world, children of this era generally matured much faster.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "129",
+      "sol": "",
+      "sol_paragraphs": "after P56",
+      "sol_range": [
+        56,
+        56
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the cold reality was that Prince Shangshan was still too young to take on the burden of this vast empire.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "131",
+      "sol": "Children of this era generally grew up faster than children in the modern world. But Prince Shangshan was still too young to shoulder the burden of an empire this vast.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Even His Highness the Crown Prince, who was so intelligent, and the two princes, who were every bit as fit to be members of the imperial family, along with other members of the imperial family, all wasted away and died. Just like someone you know.”",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "133",
+      "sol": "“His Highness the Crown Prince was so gifted. The two princes and the other members of the imperial family were worthy of their station, too. Yet they all fell ill, wasted away, and died. Just like someone you know.”",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……The City Lord of Sichuan Province.”",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "135",
+      "sol": "“…The City Lord of Sichuan Province.”",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. He supposedly fell ill like that right after meeting the Emperor. Do you really think that was a coincidence?”",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "137",
+      "sol": "“Yes. He, too, supposedly fell ill that way just after meeting the Emperor. Do you think that’s a coincidence?”",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao continued in a voice that was both grave and certain.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "139",
+      "sol": "Ma Sanbao’s voice was grave, but there was no doubt in it.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Emperor must have joined hands with that treacherous group called Dark Heaven. Baek Yeon, who suddenly betrayed the late Emperor, and that woman So Gyo must also be closely connected to Dark Heaven.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "141",
+      "sol": "“The Emperor must have joined forces with that sinister group called Dark Heaven. Baek Yeon, who suddenly betrayed the late Emperor, and that woman So Gyo must be closely tied to them as well.”",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "143",
+      "sol": "“…!”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You and I have come too far to turn back now. It’s time to put an end to this long and terrible turmoil. The grand banquet that’s coming…”",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "145",
+      "sol": "“You and I have come too far to turn back. It’s time to end this long, terrible turmoil. The grand banquet…”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao’s eyes shone brightly.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "147",
+      "sol": "His eyes gleamed.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "“Will be the grand enthronement ceremony of a new Son of Heaven—the rightful one.”",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "149",
+      "sol": "“It will be the grand enthronement of a new Son of Heaven. The rightful one.”",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Without realizing it, I closed my eyes.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "151",
+      "sol": "I closed my eyes without realizing it.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dark.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "153",
+      "sol": "Darkness.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The rain that had poured down in a single furious burst had stopped. I could no longer hear it.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "155",
+      "sol": "The rain had spent itself in one furious downpour, and I could no longer hear it.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A suffocating silence.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "157",
+      "sol": "The silence was suffocating.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In that quiet, I looked inward. I examined my thoughts and questions once more, searching them deeply.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "159",
+      "sol": "In it, I turned my thoughts and doubts over once more.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "From the moment I’d asked Ma Sanbao for the pledge, I’d already made my decision. This choice was only the last fork in the road before I reached my destination.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "167",
+      "sol": "I’d made my decision the moment I asked Ma Sanbao for the pledge. This was only the last fork in the road to where I was going.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I opened my eyes. Ma Sanbao’s face was tense.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "171",
+      "sol": "",
+      "sol_paragraphs": "after P76",
+      "sol_range": [
+        76,
+        76
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "After staring at him in silence for a while, I brought my hand to my mouth.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "173",
+      "sol": "I opened my eyes to Ma Sanbao’s rigid face. After watching him in silence for a while, I brought my hand to my mouth.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Crack. Tap.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "175",
+      "sol": "Crunch. Drip.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A dull pain, and drops of blood began to fall. With my pinky finger wet with blood, I filled in the pledge’s empty space.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "177",
+      "sol": "A sharp sting, then drops of blood fell. I used my bloodied little finger to fill an empty space on the pledge.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just those three syllables.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "181",
+      "sol": "Three syllables. Nothing more.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was all.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "183",
+      "sol": "",
+      "sol_paragraphs": "after P81",
+      "sol_range": [
+        81,
+        81
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unlike everyone else whose names and details filled the pledge, I wrote no sobriquet, family, or affiliation.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "185",
+      "sol": "Unlike the others who had crowded the pledge with their names, I added no sobriquet, family, or affiliation.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao immediately understood what my action meant.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "187",
+      "sol": "Ma Sanbao understood at once.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You intend to bear it all alone. In case the coup fails.”",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "189",
+      "sol": "“You mean to shoulder the burden alone. In case the coup fails.”",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No. I can’t blame you. You don’t want to suffer the same fate as the Maoshan Sect, annihilated for opposing the Great Nation in the past. Besides…”",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "193",
+      "sol": "“No. I can’t blame you. You wouldn’t want your family to suffer the fate of the Maoshan Sect, wiped out for opposing the Great Nation. Besides…”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao tucked the pledge, now bearing my name, into his robe and continued.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "195",
+      "sol": "He tucked the pledge, now bearing my name, into his robe.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "“If you and your Master join our side, the coup won’t fail.”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "197",
+      "sol": "“If you and your Master join us, the coup won’t fail.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His expression and tone were full of conviction.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "199",
+      "sol": "",
+      "sol_paragraphs": "after P88",
+      "sol_range": [
+        88,
+        88
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I looked at him for a moment, then spoke without warning.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "201",
+      "sol": "He looked and sounded certain. I watched him for a moment, then spoke.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It shouldn’t be ‘it won’t fail.’ It should be ‘it has to succeed,’ shouldn’t it?”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "207",
+      "sol": "“Not ‘it won’t fail.’ It *has* to succeed, doesn’t it?”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before Ma Sanbao could finish, I walked over to the bookcase in the corner of the pavilion and pulled out a book.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "211",
+      "sol": "Before Ma Sanbao could finish, I went to the bookcase in the corner of the pavilion and pulled out a book. I tore out a page without hesitation, scrawled a short message on it with my still-bleeding finger, and handed it to him.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Without hesitating, I tore off one of its pages. Then, with a finger that was still bleeding, I scrawled a short message and handed it to Ma Sanbao.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "213",
+      "sol": "",
+      "sol_paragraphs": "after P94",
+      "sol_range": [
+        94,
+        94
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "Ma Sanbao frowned as he read what I’d written.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "217",
+      "sol": "He frowned at the writing.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "“I have no idea what this means. I can’t even read it properly.”",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "219",
+      "sol": "“I have no idea what it means. I can barely read it.”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s to be expected. It’s a secret code.”",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "221",
+      "sol": "“That’s because it’s in code.”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A secret code?”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "223",
+      "sol": "“Code?”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. A cipher only a tiny handful of people can decipher.”",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "225",
+      "sol": "“A cipher only a handful of people can understand.”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then why are you—wait. You can’t mean…”",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "227",
+      "sol": "“Then why are you—wait. You don’t mean…”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I nodded at Ma Sanbao, whose eyes had widened, and continued slowly.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "231",
+      "sol": "I nodded to him and went on slowly.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "“Send one of your men to the place I’m about to give you, and have them deliver that message. Then, on the day of the grand banquet, reinforcements from the Murim Alliance will arrive. It may even be a powerful force that includes the Slaughter Saint or one of the Ten Kings.”",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "233",
+      "sol": "“Send one of your men to the place I’m about to tell you and have him deliver that message. Reinforcements from the Murim Alliance will arrive in time for the grand banquet. A powerful force that might even include the Slaughter Saint or one of the Ten Kings.”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "235",
+      "sol": "“…!”",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You said it yourself last time. If we succeed, we’re kings. If we fail, we’re traitors.”",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "237",
+      "sol": "“You told me last time: succeed, and we’re kings. Fail, and we’re traitors.”",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I met Ma Sanbao’s face, colored with shock and amazement, and muttered,",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "239",
+      "sol": "I looked straight at Ma Sanbao’s stunned face.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“In that case, shouldn’t we make sure this coup succeeds?”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "241",
+      "sol": "“Then we have to make sure this coup succeeds.”",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Right.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "243",
+      "sol": "Yes.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a downpour the likes of which had rarely been seen.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "253",
+      "sol": "The downpour was almost without precedent.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The rain that fell overnight flooded parts of the capital. Hundreds of homes were submerged, and many people were killed or injured.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "255",
+      "sol": "Rain had battered the Imperial Capital overnight, flooding parts of the city. Hundreds of homes were submerged, and many people were killed or injured.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As it happened, ominous rumors began to spread.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "257",
+      "sol": "In its wake, ominous rumors began to spread.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They said they’d found a venomous serpent in a well on the outskirts of the capital—one bigger than several grown men put together.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "259",
+      "sol": "A venomous serpent larger than several grown men put together had been found in a well on the outskirts of the capital.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They said it was Heaven’s warning to the current Son of Heaven, who had defied the natural order—and a prophecy that an even greater disaster was about to begin.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "261",
+      "sol": "It was Heaven’s warning to the present Son of Heaven for defying the natural order, and a sign that a greater disaster was coming.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They said the rain had stopped so soon thanks to His Highness Prince Shangshan, who had inherited the late Emperor’s will.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "263",
+      "sol": "The rain had stopped as soon as it did only because His Highness Prince Shangshan had inherited the late Emperor’s virtue.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "All sorts of ill omens, mixed with superstition, spread like wildfire. By the time just two days had passed, they’d crossed the towering city walls and reached the imperial palace.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "265",
+      "sol": "Rumors like these, steeped in superstition, spread like wildfire. Within two days, they had crossed the city’s towering walls and reached the imperial palace.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even the deepest, most secret part of it: Qianqing Palace.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "267",
+      "sol": "They reached even its deepest, most secluded place: Qianqing Palace.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When the Emperor heard the rumors, he gave an impatient laugh.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "269",
+      "sol": "When the Emperor heard them, he gave an irritable laugh.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the beginning of the grand banquet—with its wind, rain, and sea of corpses and blood.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "275",
+      "sol": "It was also the beginning of the grand banquet—and the wind, rain, and sea of corpses and blood it would bring.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 123,
+  "sol_sha256": "8d8c54dfde26a81ca22d94aeecdf1a59f85a47c026f106da8dfe0539feebf52a",
+  "version": 1
+}
