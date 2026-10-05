@@ -6,27 +6,27 @@ But the guests who had gathered in a secret room early that morning at someone�
 
 Rats could be trampled to death. Birds could be shot down.
 
-The only ones they worried about were the Embroidered Uniform Guard.
+The only ones they had to worry about were the Embroidered Uniform Guard.
 
-Little more than the Emperor’s watchdogs, the Guard wore golden armor as yellow as a mongrel’s coat. Their specialty was combing every corner as if hunting for lice.
+The Guard, little more than the Emperor’s watchdogs, wore golden armor the same yellow as a mongrel’s coat. Their specialty was combing every corner as if hunting for lice.
 
-They sniffed out a target, tracked it down, sank their foul-smelling teeth into its neck, then ran back to their master, wagging their tails.
+They sniffed out their target, tracked it down, sank their foul-smelling teeth into its neck, then ran back to their master, wagging their tails.
 
-With so many eyes and ears throughout the Imperial Capital, though, even moving in the strictest secrecy left them uneasy, like a fish bone caught in the throat.
+And with so many eyes and ears throughout the imperial capital, even the most secretive movements were bound to nag at them like a fish bone caught in the throat.
 
 Perhaps that was why.
 
 Though a dozen or so people had gathered in one place, an uncomfortable silence lingered in the secret room for some time.
 
-Then, with a faint noise, the last person they were waiting for appeared.
+Until the last person they were waiting for appeared with a faint noise.
 
 Creeeak.
 
-The old hatch overhead opened, and dim light spilled in. Their eyes, accustomed to the darkness, narrowed reflexively, but they didn’t let down their guard.
+The old hatch overhead opened, and a dim shaft of light spilled in. Their eyes, accustomed to the darkness, narrowed reflexively, but they didn’t let down their guard.
 
 They weren’t sure the unfamiliar man who had just stepped into the room was the ally they knew so well.
 
-The newcomer immediately understood what their looks meant.
+The newcomer immediately understood what their eyes were asking.
 
 “Ah, my apologies. I was in such a hurry to get here that I forgot for a moment.”
 
@@ -38,7 +38,7 @@ A low groan rose from them all at once. The dozen or so guests watched the chang
 
 Shhhk.
 
-His features rippled like a wave.
+His features twisted like a wave.
 
 His long philtrum shortened, his unusually prominent bulbous nose grew sharp, and an odd light appeared in his once-dull, unfocused eyes.
 
@@ -46,13 +46,13 @@ That alone was astonishing enough, but the changes didn’t stop there.
 
 Crack.
 
-With the sound of hundreds of bones shifting out of place, his body shrank and stretched, again and again.
+With the sound of hundreds of bones shifting out of place, his body alternately shrank and stretched.
 
-The transformation happened in an instant. A moment later, not a trace of the man they’d just seen remained.
+The transformation happened in an instant. In the time it took for a blink, not a trace of the man they’d just seen remained.
 
-In his place stood a handsome, lean man in his thirties or forties.
+In his place stood a handsome man in his thirties or forties, with a lean build.
 
-At last, the guests recognized the face before them and relaxed.
+At last, the guests recognized the face before them and let go of the tension that had kept them taut.
 
 “Your skill is as wondrous as ever.”
 
@@ -62,13 +62,13 @@ At the admiring remarks from all around, Ma Sanbao, the East Depot’s Brush-Hol
 
 “It’s just a parlor trick I happened to pick up.”
 
-Having modestly brushed off his astonishing disguise technique and Bone-Shrinking Technique, Ma Sanbao continued.
+After modestly brushing off his astonishing disguise technique and Bone-Shrinking Technique, Ma Sanbao continued.
 
 “More importantly, it seems everyone arrived at the appointed time. I hope the journey here wasn’t too inconvenient.”
 
 The guests answered in more relaxed voices.
 
-“It wasn’t as bad as I expected. Your loyal subordinates helped us, and we took far greater care with our disguises.”
+“It wasn’t as bad as I expected. Your loyal subordinates helped us, and we disguised ourselves much more thoroughly this time.”
 
 “Of course, this ghastly thing is unpleasant and stifling, but what wouldn’t we endure to evade those Embroidered Uniform Guard bastards?”
 
@@ -78,7 +78,7 @@ That was right.
 
 What mattered wasn’t whether this skin belonged to a person or an animal.
 
-Their only goal was to overthrow the man sitting on the throne now—the Emperor who had brutally slaughtered countless longtime friends and comrades who shared their cause, then turned that fearsome blade on them.
+Their only goal was to overthrow the man sitting on the throne now—the Emperor who had brutally slaughtered countless friends with whom they had shared their affection for so long, and comrades with whom they had stood side by side in pursuit of their ideals, before turning that fearsome blade on them.
 
 “We can’t let ourselves be crushed so easily again. Not if we want to save our families and our people.”
 
@@ -86,25 +86,25 @@ Their only goal was to overthrow the man sitting on the throne now—the Emperor
 
 “Indeed. But that doesn’t mean we have to scoop up water that’s already dirty.”
 
-“Couldn’t agree more. We can refill the vessel as it empties, and replace the cracked one that reeks of blood with a new one.”
+“Couldn’t agree more. We can refill the vessel as it empties, and replace the cracked, bloodstained one with a new one.”
 
 For a while, they spoke in measured voices.
 
-They had ridden the tiger and were now clinging to its back. Only two choices remained: let fear drive them to climb down and be eaten alive, or hold on with all their might until the tiger exhausted itself—and plunge a dagger into the back of its neck.
+They had ridden the tiger and were now clinging to its back. Only two choices remained: let fear drive them to climb down and be eaten alive, or hold on with all their might until the exhausted tiger could take no more—and plunge a dagger into the back of its neck.
 
 Everyone gathered here had chosen the latter.
 
 For survival, in the narrowest sense. And for a great and glorious future, in the broadest.
 
-Thus, their fervent hopes and wishes came together, and at last they drew up a pledge bearing all their signatures.
+Thus, their fervent hopes and wishes came together, and at last a document bearing all their signatures was born.
 
-They would wait for the time to defy heaven.
+They would wait for the day when the time came to defy heaven.
 
 Fortunately, they didn’t have long to wait.
 
-More than a decade had passed since the day the Imperial Capital ran red with blood.
+More than a decade had passed since the day the imperial capital ran red with blood.
 
-White frost had settled on the heads of the old ministers who had barely survived, but the faction they’d secretly built with painstaking effort had grown stronger and larger. The child who had left for the frontier bundled in swaddling clothes had returned as a boy. And an ominous air was slowly gathering over the Imperial Capital.
+White frost had settled on the heads of the old ministers who had barely survived, but the faction they’d secretly built with painstaking effort had grown even stronger and larger. The child who had left for the frontier, bundled in swaddling clothes, had returned as a boy. And an ominous air was slowly gathering over the imperial capital.
 
 “Now everyone is watching the Emperor. The civil and military officials, and even the ignorant common folk.”
 
@@ -120,13 +120,13 @@ White frost had settled on the heads of the old ministers who had barely survive
 
 “The Emperor is the same. This is one of his schemes. Perhaps he means to unleash another storm of blood.”
 
-At the aged voice of a man whose finely made human-skin mask made him look middle-aged, the others let out low groans.
+At the old-sounding voice of someone wearing a precise human-skin mask that made him look middle-aged, the others let out low groans.
 
 Was it because they hadn’t expected it at all?
 
-No. His words had laid bare the truth they were all trying to ignore.
+No. It was because his words had sharply pointed to the truth they were all trying to ignore.
 
-They too had stumbled and rolled through the filth of politics and lived to tell the tale.
+They too had stumbled and rolled around in the filth of politics, and lived to tell the tale.
 
 They knew firsthand just how ruthless and daring the Emperor was.
 
@@ -142,13 +142,13 @@ At that, the old minister disguised as a middle-aged man burst into a hearty lau
 
 “Stop saying foolish things and face reality. Like Brush-Holding Eunuch Ma.”
 
-Every head turned toward him at once. Ma Sanbao, who had been listening quietly to the conversation, broke his long silence.
+Every head turned toward him at once. Ma Sanbao, who had been listening quietly to the conversation, broke his long silence and spoke.
 
-“It’s just as I’d expect from the man who nurtured the pillars of the Hanlin Academy. Your mind is as sharp as ever, even past eighty.”
+“It’s just as I’d expect from the man who nurtured so many pillars of the Hanlin Academy. Your mind is as sharp as ever, even past eighty.”
 
 “Brush-Holding Eunuch Ma. Then…”
 
-“I agree with His Excellency the Grand Academician.”
+“I agree with His Excellency the Grand Secretary.”
 
 “……!”
 
@@ -162,41 +162,41 @@ The others fell silent for a moment. Ma Sanbao had invoked his title as Brush-Ho
 
 Even as someone groaned, Ma Sanbao continued in an unwavering voice.
 
-“But it’s already clear whose blood will be caught up in that storm. It’s almost upon us, and both sides will have to throw everything they have into the clash.”
+“But it’s already clear whose blood will be mixed into that wind. The storm is almost upon us, and both sides will have to throw everything they have into the clash.”
 
-“Brush-Holding Eunuch Ma. Forgive me for asking, but can we really stand against the Emperor? From what we’ve learned so far, their forces are far greater than we expected…”
+“Brush-Holding Eunuch Ma. Forgive me for asking, but can we really stand against the Emperor? From what we’ve learned so far, their forces are far beyond what we expected…”
 
-The man regretted speaking almost at once.
+The one who’d cautiously spoken regretted it at once.
 
-Ma Sanbao’s gaze had shot toward him, cold and keen as a blade, making his heart sink.
+Ma Sanbao’s eyes had shot toward him, cold and keen as a blade, making his heart sink.
 
 “I—no, forgive me. I misspoke.”
 
-He forced out the apology in a voice that would barely come. Ma Sanbao withdrew his gaze as if nothing had happened and replied calmly.
+He forced out his apology in a voice that would barely come. Ma Sanbao withdrew his gaze as if nothing had happened and replied calmly.
 
 “That was unusually careless of you.”
 
 “……”
 
-“We’ve trusted one another and boarded the same boat. We all have to row together if we’re going to get anywhere. Isn’t that right?”
+“We’ve trusted one another and boarded the same boat. We have to row together if we’re going to get anywhere. Isn’t that right?”
 
 “Let me apologize once more. I’m truly sorry.”
 
 For a moment, Ma Sanbao’s response had chilled the air in the room. But he was also the one who warmed it again.
 
-“Don’t worry. We have the justification and the strength to bring the Emperor down.”
+“Don’t worry. We have more than enough justification and strength to bring the Emperor down.”
 
 “What do you mean…?”
 
-“I can’t tell you everything, but we’ve made ample preparations for this great undertaking. Please understand that I can’t say more than that.”
+“I can’t tell you everything, but we’ve made sufficient preparations for this great undertaking. Please understand that I can’t say more than that.”
 
 When Ma Sanbao put it that way, the others quietly folded away the questions lingering on their tongues and tucked them into a corner of their hearts.
 
 The fewer people who knew a secret, the better.
 
-Besides, though each of them had contributed some measure of influence and power, Ma Sanbao was one of the key figures in this plan.
+Besides, though each of them had contributed some measure of influence and power, Ma Sanbao was one of the key figures at the very heart of this plan.
 
-Much like a certain old minister: the Grand Academician of the Hanlin Academy, the cradle of the realm’s talent, who still held sway over the court even after retiring from office.
+Much like a certain old minister, once a Grand Secretary of the Hanlin Academy—the cradle of the realm’s talent—who still held sway over the court even after retiring from office.
 
 “By the way, how is that person doing?”
 
@@ -206,9 +206,9 @@ Ma Sanbao immediately understood the meaning behind the sudden question and answ
 
 “I’m worried. The Emperor must be watching for an opportunity every chance he gets.”
 
-“But he won’t get what he wants. I’ll say this with confidence: for now, even the Emperor won’t find it easy to lay a hand on that person.”
+“But he won’t get what he wants. I’ll say this with confidence: for now, even the Emperor won’t find it easy to reach that person with his evil designs.”
 
-“The whole Imperial Capital is boiling like a pot left over a fire. Before long, it’ll spill over in every direction.”
+“The whole imperial capital is boiling like a pot left over a fire. Before long, it’ll spill over in every direction.”
 
 “When do you think that will happen, Your Excellency?”
 
@@ -218,9 +218,9 @@ The old minister answered without the slightest hesitation.
 
 “I think so too.”
 
-“It’ll be a Hongmen Banquet.[^1] Blades will cross, and lives will hang in the balance.”
+“It’ll be a Hongmen Banquet.[^1] Their spears and swords will decide who lives and dies.”
 
-“It won’t be the same as Hongmen. Xiang Yu was foolish enough to let Liu Bang live, but the Emperor won’t do that.”
+“It won’t be the same as Hongmen. Xiang Yu was foolish enough to let Liu Bang live, but the Emperor won’t make that mistake.”
 
 The old minister quietly nodded, lost in thought. Then he suddenly spoke.
 
@@ -234,6 +234,6 @@ The old minister quietly nodded, lost in thought. Then he suddenly spoke.
 
 Ma Sanbao continued with a faint smile.
 
-“But if his master is there, that changes things.”
+“But if he has his master, that changes things.”
 
 [^1]: At the historical Feast at Hong Gate, a banquet became the setting for an attempt on Liu Bang’s life.

@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "whose blood will be caught up in that storm",
+      "defect": "The Korean says the blood will be mixed into the wind, preserving the wind image from the preceding blood-wind metaphor. “Caught up in that storm” replaces that image.",
+      "id": "F01",
+      "rationale": "The source says “그 바람에 섞인 피” (“blood mixed into that wind”), not blood caught up in a storm.",
+      "replacement": "whose blood will be mixed into that wind",
+      "severity": "minor",
+      "source": "Korean line 171"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I—no, forgive me. I misspoke.",
+      "defect": "“Forgive me” is added. The Korean self-corrects from an informal to a respectful first-person pronoun before saying he misspoke; the explicit apology comes later.",
+      "id": "F02",
+      "rationale": "The source says “내가, 아니 제가 실언을 했습니다,” which contains the self-correction and admission, but no request for forgiveness.",
+      "replacement": "I—no, I misspoke.",
+      "severity": "minor",
+      "source": "Korean line 179"
+    },
+    {
+      "confidence": 0.9,
+      "current": "We have the justification and the strength to bring the Emperor down.",
+      "defect": "The Korean describes both their grounds and their power as strong; the English drops that emphasis.",
+      "id": "F03",
+      "rationale": "“강한 명분과 힘” means strong justification and strength/power, not merely justification and strength.",
+      "replacement": "We have strong grounds and power to bring the Emperor down.",
+      "severity": "minor",
+      "source": "Korean line 193"
+    }
+  ],
+  "summary": "The translation is faithful overall, with a few minor shifts in imagery and dialogue nuance.",
+  "version": 1
+}

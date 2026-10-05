@@ -34,7 +34,7 @@ Krrk. Crack.
 
 “Hmm.”
 
-A low groan rose from them all at once. The dozen or so guests watched the changes around the man with grave expressions.
+A low murmur rose from them all at once. The dozen or so guests watched the changes overtaking the man with grave expressions.
 
 Shhhk.
 
@@ -122,7 +122,7 @@ White frost had settled on the heads of the old ministers who had barely survive
 
 At the aged voice of a man whose finely made human-skin mask made him look middle-aged, the others let out low groans.
 
-Was it because they hadn’t expected it at all?
+Was it because the thought had never occurred to them?
 
 No. His words had laid bare the truth they were all trying to ignore.
 
@@ -154,7 +154,7 @@ Every head turned toward him at once. Ma Sanbao, who had been listening quietly 
 
 “This is not merely my personal judgment. It is my judgment as the East Depot’s Brush-Holding Eunuch.”
 
-The others fell silent for a moment. Ma Sanbao had invoked his title as Brush-Holding Eunuch for a reason.
+The others fell silent for a moment. Ma Sanbao had invoked his title for a reason.
 
 “Then a storm of blood will sweep through the court.”
 
@@ -190,7 +190,7 @@ For a moment, Ma Sanbao’s response had chilled the air in the room. But he was
 
 “I can’t tell you everything, but we’ve made ample preparations for this great undertaking. Please understand that I can’t say more than that.”
 
-When Ma Sanbao put it that way, the others quietly folded away the questions lingering on their tongues and tucked them into a corner of their hearts.
+When Ma Sanbao put it that way, the others tucked their unasked questions away.
 
 The fewer people who knew a secret, the better.
 
@@ -200,7 +200,7 @@ Much like a certain old minister: the Grand Academician of the Hanlin Academy, t
 
 “By the way, how is that person doing?”
 
-Ma Sanbao immediately understood the meaning behind the sudden question and answered.
+Ma Sanbao immediately understood the sudden question and answered.
 
 “That person is still safe.”
 
@@ -222,7 +222,7 @@ The old minister answered without the slightest hesitation.
 
 “It won’t be the same as Hongmen. Xiang Yu was foolish enough to let Liu Bang live, but the Emperor won’t do that.”
 
-The old minister quietly nodded, lost in thought. Then he suddenly spoke.
+The old minister quietly nodded, lost in thought. Then he spoke.
 
 “What about that young martial artist? What do you think he’ll do?”
 
