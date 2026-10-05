@@ -10,7 +10,7 @@ That was true even for me, after weathering countless crises. For a child barely
 
 *Click.*
 
-Careful not to wake his young lord, Hong Jin closed the door with the utmost care and whispered to me,
+Careful not to wake his young lord, Hong Jin closed the door as gently as he could and whispered to me.
 
 “He must have been exhausted. He fell asleep in no time.”
 
@@ -28,7 +28,7 @@ From what I’d seen, those guys would risk not just overtime but their lives to
 
 Murim martial artists were all crazy in their own way, but the Embroidered Uniform Guard were hunting dogs, blindly loyal to the Son of Heaven.
 
-“Watching us like that won’t change anything. They won’t leave their posts for even a moment.”
+“Watching us like that won’t change anything. I won’t leave His Highness’s side for even a moment.”
 
 Hong Jin surveyed the torches and guards surrounding the pavilion as if they were laying siege to it, then added, “That’s how the Changwei operate.”
 
@@ -44,7 +44,7 @@ As if he’d read my mind, Hong Jin spoke first.
 
 I’d be grateful if he did.
 
-I nodded, and Hong Jin and I walked downstairs together.
+I nodded, and we walked downstairs together.
 
 We’d already sent away the Embroidered Uniform Guard, along with the palace attendants who were more or less there to keep an eye on us for them.
 
@@ -52,7 +52,7 @@ Even though I could see everything happening inside the pavilion as clearly as i
 
 “Young Master Jin, do you think it’s all right?”
 
-“There’s no need to worry. I’m nearby, and more importantly, I left that rascal Mujin with His Highness as a precaution.”
+“There’s no need to worry. I’m nearby, and more importantly, I left Mujin with His Highness just in case.”
 
 “Right. That makes me even more worried.”
 
@@ -138,7 +138,7 @@ The pounding of hooves echoed across the Imperial Capital until daybreak, and th
 
 This wasn’t some village headman’s birthday. It was the birthday of the Emperor, ruler of an entire continent.
 
-I could almost see it all before me: the packed crowds that day, and the dazzling golden armor of the guards who had sealed off the imperial palace.
+I could almost see the crowds that had packed the palace that day, and the dazzling golden armor of the guards who had sealed it off.
 
 “……The Embroidered Uniform Guard. They were in charge of the palace defenses.”
 
@@ -148,7 +148,7 @@ Hong Jin gave a bitter smile and nodded.
 
 Everything had been prepared down to the last detail.
 
-Baek Yeon and the guards who followed him took control of the imperial palace in an instant. As everyone looked on in shock, the fourth prince alone rose to his feet and stepped onto the stage prepared for him, his expression calm.
+Baek Yeon and the guards who followed him took control of the imperial palace in an instant. As everyone looked on in shock, the fourth prince alone rose to his feet and stepped calmly onto the stage prepared for him.
 
 It was the moment the history of the Great Nation changed.
 
@@ -156,7 +156,7 @@ It was the moment the history of the Great Nation changed.
 
 The unexpected spectacle was over, but no one left their seats. No—no one *could* leave.
 
-The people who had arrived as nothing more than spectators were forced to become actors in the next performance.
+Those who had arrived as spectators were forced to become actors in the next performance.
 
 “Those who submitted at once survived. Those who resisted were dragged off to the prisons controlled by the Embroidered Uniform Guard. The imperial family had it a little better, at least. At first, they were only confined.”
 
@@ -188,7 +188,7 @@ His voice fell silent.
 
 I turned over what he’d told me, then spoke.
 
-“I’m not sure that’s really loyalty.”
+“I’m not sure it’s loyalty.”
 
 “Hmm?”
 
@@ -202,7 +202,7 @@ Hong Jin sighed.
 
 “Young Master Jin, I’m sorry, but he’s still young. He’s only thirteen.”
 
-“That’s right. Only thirteen—and already able to make the Commander of the Embroidered Uniform Guard, a man whose influence could knock birds from the sky, bow his head. Already able to keep his composure while people die right in front of him.”
+“That’s right. Only thirteen—and he made the Commander of the Embroidered Uniform Guard, a man powerful enough to bring down birds in flight, bow his head. He kept his composure while someone died right in front of him.”
 
 “……!”
 
@@ -210,7 +210,7 @@ Sometimes. Maybe even fairly often.
 
 People caught up in their personal feelings make the wrong call.
 
-*Even if that person is a eunuch from the East Depot who’s been through hell and back.*
+*Even if they’re East Depot eunuchs who’ve been through hell and back.*
 
 I held Hong Jin’s frozen gaze and continued.
 
