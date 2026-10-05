@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "a silver line formed from internal energy",
+      "defect": "The Korean says the silver line is linked by internal energy and brilliant qi gathers along it. This wording instead says the line itself is formed from internal energy, changing the described relationship.",
+      "id": "F01",
+      "rationale": "공력으로 이어진 은빛 선을 따라 means the qi gathers along a silver line connected by internal energy; it does not state that internal energy forms the line.",
+      "replacement": "a silver line linked by internal energy",
+      "severity": "minor",
+      "source": "Lines 128–129"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one minor shift in the description of how the energy forms the silver line.",
+  "version": 1
+}

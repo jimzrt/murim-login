@@ -48,7 +48,7 @@ A crash rang out from atop the cliffs, more than thirty *zhang* high. Horrific s
 
 It sounded like thunder.
 
-Thunder that swallowed someone’s life and summoned an untimely shower.
+Thunder that swallowed lives and brought an untimely shower.
 
 *Drip. Drip-drip.*
 
@@ -124,7 +124,7 @@ The deep darkness tore open.
 
 Everyone on the battlefield could see that dazzling, destructive flash.
 
-The Shanxi martial artists, hacking their way through the enemies in the gorge with hoarse, unrelenting battle cries.
+The people of Shanxi, hacking their way through the enemies in the gorge as they shouted themselves hoarse.
 
 The nomads dying helplessly at their hands.
 
@@ -144,7 +144,7 @@ Arms and legs flew up through fountains of blood, along with pieces of flesh and
 
 *Krrrsh. Splatter.*
 
-Blood and flesh pattered down onto the ground, their late arrival ringing in everyone’s ears.
+Blood and flesh fell back to the ground, the sounds reaching everyone’s ears.
 
 Peng Cheolyeong, Family Head of the Hebei Peng Family and the Iron Blood Saber, blinked blankly. The Murong Family’s unexpected betrayal had left him surrounded on all sides and covered in blood.
 
@@ -222,7 +222,7 @@ Why Jin Taekyung had been able to come here. Whether Dark Heaven’s plan center
 
 “You should’ve been friendlier with him. Had meals together more often, swapped catalog numbers like proper members of the martial world. Well, I’m just glad I found out before it was too late.”
 
-“When you see him in a bit, thank him for me. He deserved to die, but at the end, I found myself a little concerned about him.”
+Jin Taekyung shrugged with an obnoxious look, then added, “When you see him in a bit, thank him for me. He deserved to die, but I felt a little bad about him at the end.”
 
 The North Heaven Demon Lord understood what he meant and smiled bitterly.
 
@@ -236,11 +236,11 @@ The North Heaven Demon Lord understood what he meant and smiled bitterly.
 
 The smile faded from Jin Taekyung’s lips.
 
-He had already shaken off the weakness left by the strike he’d launched with all his strength to save Jin Mukyung, exhausted as he was.
+Exhausted as he was, he had put everything into the strike that saved Jin Mukyung. The weakness it had left behind had finally subsided.
 
 “Thanks for waiting while I caught my breath.”
 
-The North Heaven Demon Lord looked at him with a subdued gaze.
+The North Heaven Demon Lord looked at him with darkened eyes.
 
 He had not given Jin Taekyung that time willingly. Someone else had forced him to.
 
@@ -254,13 +254,13 @@ At his words to the empty air, a figure blended into the darkness drifted gently
 
 The North Heaven Demon Lord gripped his spear at an angle. Unprecedented qi surged along its blade—nothing like what Jeok Cheongang remembered from their encounter on a battlefield long ago.
 
-“You’ve grown bold, haven’t you? A mere pup, speaking to this old man like an equal and even daring to act tough.”
+“You’ve grown bold, haven’t you? A mere pup, speaking to this old man so rudely and daring to act tough.”
 
 Jeok Cheongang grinned, baring his teeth. White hellfire rippled over both his outstretched hands.
 
 “When did you join forces with them?”
 
-“What a strange thing. The two of you, who were like cats and dogs, asking me the same question here today.”
+“How strange. You two were like cats and dogs, yet here you are asking me the same question.”
 
 The smile vanished from Jeok Cheongang’s face.
 
