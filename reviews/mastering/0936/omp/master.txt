@@ -1,6 +1,6 @@
 # Chapter 936
 
-Jeok Cheongang’s reaction to the truly grave news that the Emperor had been poisoned with Blood Soul Gu was short and to the point.
+Jeok Cheongang’s reaction to the grave news that the Emperor had been poisoned with Blood Soul Gu was brief.
 
 “That must hurt.”
 
@@ -20,7 +20,7 @@ At the sudden jab, the Divine Physician—who’d looked uncomfortable throughou
 
 “The patient told me not to inform anyone until he spoke of it himself. I merely respected his wishes. And why am I a quack?”
 
-“If a physician can’t cure an illness, he’s a quack. Take that Divine Physician name tag off today.”
+“If a physician can’t cure an illness, he’s a quack. Take off that Divine Physician name tag.”
 
 “I never put one on. It wasn’t mine to begin with.”
 
@@ -42,11 +42,11 @@ He was right. The Emperor was dying even now.
 
 Three days ago, just after the battle in the grand banquet hall, he’d looked unusually exhausted. I hadn’t imagined it.
 
-“From what I’ve seen, his vitality is already at its limit. I can’t even guarantee he’ll last another couple of months.”
+“From what I’ve seen, his strength is already at its limit. I can’t even guarantee he’ll last another couple of months.”
 
 For the Divine Physician to say that meant the poison had advanced beyond anything elixirs or internal energy could hold back.
 
-Like a jar full of holes that wouldn’t fill no matter how much water you poured into it, the Emperor’s life force was draining away fast.
+Like a jar with a hole in it that wouldn’t fill no matter how much water you poured in, the Emperor’s life force was draining away.
 
 *At this rate, he’ll die before long. If the Emperor dies suddenly, the Great Nation will be thrown into chaos.*
 
@@ -60,7 +60,7 @@ And he’d held on to the throne despite the powerful opposition led by the East
 
 I’d heard that outside the palace, things were already boiling like a cauldron over hot coals.
 
-Two days before I woke up, the Emperor had carried out another large-scale purge, then posted hundreds of proclamations across the capital.
+Two days before I woke, the Emperor had carried out another large-scale purge, then posted hundreds upon hundreds of proclamations across the Imperial Capital.
 
 The huge sheets, clearly stamped with the Imperial Seal, laid out the whole truth in detail.
 
@@ -88,7 +88,7 @@ I answered the Divine Physician’s grave question calmly.
 
 “But we have no way to do that. As I said, there isn’t enough time.”
 
-“That’s all right. The method I’m going to try probably won’t take long.”
+“That’s all right. The method I have in mind probably won’t take long.”
 
 “You sound quite certain…… Do you have a plan I don’t know about?”
 
@@ -102,13 +102,13 @@ Jeok Cheongang, who’d been listening in silence, suddenly widened his eyes.
 
 “I’d forgotten all about it. Yes, that treasure changes everything.”
 
-Jeok Cheongang tapped his forehead. Only then did the Divine Physician blink in apparent surprise.
+Jeok Cheongang slapped his forehead. Only then did the Divine Physician blink in surprise.
 
-“Don’t tell me you have the Myriad-Poison Ring in mind?”
+“You’re thinking of the Myriad-Poison Ring?”
 
 “Of course. What else?”
 
-“Huh……”
+“Ah……”
 
 At his low sigh, I gave a short laugh and continued.
 
@@ -118,15 +118,15 @@ The ring had absorbed even the Formless Ultimate Poison that had once threatened
 
 The Divine Physician had treated Jeok Cheongang alongside the Slaughter Saint back then. He knew better than anyone what the ring could do, so it was strange that he hadn’t thought of it until now.
 
-“I guess you’ve had a lot on your mind, given the circumstances. I understand. It happens.”
+“You must’ve had a lot on your mind, given the circumstances. I understand. It happens.”
 
-“Y-Young Master Jin.”
+“Um, Young Master Jin.”
 
 “It’s fine. As you know, I left it with Prince Shangshan—or rather, the Imperial Younger Brother. I’ll go get it now. It’ll only take a moment, so you can prepare the treatment while I’m gone.”
 
 “Young Master Jin?”
 
-“Oh, come on. Anyone can forget something now and then. Why are you making such a big deal of it? I’ll be off, then.”
+“Oh, anyone can forget something now and then. You don’t have to keep apologizing. I’ll be off.”
 
 I gave him a friendly smile and turned.
 
@@ -148,9 +148,9 @@ The Divine Physician gave me a flat look.
 
 “I didn’t buy it.”
 
-“Oh, someone gave it to you as a gift?”
+“Oh, someone gave it to you?”
 
-“It wasn’t a gift, either. I borrowed it for a while.”
+“It wasn’t a gift. I borrowed it.”
 
 “From whom?”
 
@@ -162,11 +162,11 @@ I steadied my breathing and managed to ask, “And that important thing was…�
 
 “What else? I’ve been to Qianqing Palace twice today.”
 
-“I didn’t hear anything about that from His Majesty……”
+“His Majesty didn’t tell me……”
 
 “Did he need to?”
 
-“Then the result was……?”
+“Then what happened?”
 
 “Just what I told you earlier.”
 
@@ -240,7 +240,7 @@ No matter how much I pressed him, unable to accept it, the Divine Physician’s 
 
 Something had glinted inside the Divine Physician’s sleeve. When I looked, I saw an acupuncture needle big enough to pierce the sole of an elephant’s foot.
 
-A chill ran down my spine, and I made my way back to my quarters as if fleeing. That had been barely fifteen minutes ago.
+A chill went through me, and I’d fled to my quarters. That was barely fifteen minutes ago.
 
 *Damn it.*
 
@@ -256,11 +256,11 @@ Yeah. Screwed.
 
 Worse than screwed.
 
-Forget the quest—the Emperor’s death had to be prevented. But with my last hope, the Myriad-Poison Ring, gone, my vision had gone yellow.
+Forget the Quest—I had to prevent the Emperor’s death. With my last hope, the Myriad-Poison Ring, gone, everything looked bleak.
 
 “What the hell…… am I supposed to do?”
 
-I stared blankly at the ceiling I’d grown accustomed to, muttering to myself. Then Hyuk Mujin—who seemed to have claimed one corner of the room as his own—came over and patted my shoulder, as if this were only natural.
+I stared helplessly at the ceiling I’d grown used to. Hyuk Mujin, who’d apparently claimed a corner of my room as his own, came over and patted my shoulder as though it were only natural.
 
 “It’s all right, Captain. Everything’s all right.”
 
@@ -292,7 +292,7 @@ He bowed at the speed of light, then looked wistfully at the pocket watch hangin
 
 I badly wanted to whack him on the back of the head, but I didn’t have the energy.
 
-I let out a long sigh and explained the situation in broad strokes, taking care not to reveal that the Emperor was the person at the center of the story.
+With a long sigh, I explained the situation in broad strokes, careful not to reveal that the Emperor was the one who was ill.
 
 “So someone promised to treat a seriously ill person.”
 
@@ -334,7 +334,7 @@ He saw me trembling. His voice dropped at once.
 
 *Stop. You’re making me feel worse, you bastard.*
 
-I gave him a sad look, silently telling him to stop, then lowered my head, unable to face Hyuk Mujin.
+I shot him a sad look, then lowered my head, unable to face him.
 
 Tap-tap-tap.
 
