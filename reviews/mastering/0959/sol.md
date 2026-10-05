@@ -8,7 +8,7 @@ The moment Jin Mukyung saw the man before him, he knew instinctively what he was
 
 *A demon.*
 
-The two syllables flashed through his mind.
+The word flashed through his mind.
 
 There was no mistake. The eyes drunk on killing intent. The corners of his mouth lifted in a lazy smile. The scent of blood seeping from his entire body was so strong it stung Mukyung’s nose just to stand before him.
 
@@ -32,7 +32,7 @@ Chinggen looked back at Mukyung and grinned.
 
 Chinggen took a light step, as though out for a stroll. Mukyung instantly sprang back and raised his sword at an angle.
 
-“Your Qi Sense is useful, too.”
+“Your Qi Sense is good, too.”
 
 Chinggen nodded with satisfaction.
 
@@ -44,7 +44,7 @@ Enemy though he was, Chinggen liked the young Sword Demon more than he had expec
 
 No one had expected that. The battlefield, briefly stilled by Chinggen’s arrival, stirred with alarm.
 
-More than anyone, the hundred or so nomads groaning amid the gaps in the collapsed rocks stared wide-eyed at their Great Chieftain, doubting their own eyes and ears.
+The hundred or so nomads groaning among the fallen rocks were especially stunned. They stared wide-eyed at their Great Chieftain, hardly believing what they had heard.
 
 They belonged to the western grasslands ruled by Temur and Chinggen. They knew both young Great Chieftains well, which made the offer all the harder to believe.
 
@@ -54,9 +54,9 @@ Chinggen had become Khan through strategy and leadership rather than personal ma
 
 “What are you saying…?!”
 
-The joy they’d felt at the arrival of Chinggen and the Keshik had vanished long ago.
+Shocked cries rang out on every side. The relief they had felt at the arrival of Chinggen and the Keshik was long gone.
 
-Chinggen smacked his lips at the sight of the nomads staring at him with wide eyes, each nursing injuries of varying severity.
+Chinggen smacked his lips as he looked at the injured nomads staring up at him.
 
 “Come to think of it, this is a strange time to make the offer, isn’t it? Especially with people watching.”
 
@@ -66,7 +66,7 @@ The short sword in his left hand blurred.
 
 A cold slicing sound rang out. The pile of rocks, barely holding together, collapsed onto the nomads.
 
-Their screams as they waited for rescue were swallowed by the roar, then disappeared completely.
+Their screams were swallowed by the roar and then vanished altogether.
 
 “Useless things. Never any help, but they sure do run their mouths.”
 
@@ -76,7 +76,7 @@ Their screams as they waited for rescue were swallowed by the roar, then disappe
 
 In the sudden silence, Mukyung fixed Chinggen with a steady gaze.
 
-“So you’re Chinggen, you bastard?”
+“You’re Chinggen?”
 
 “Hey, now. Is that any way to address me?”
 
@@ -106,7 +106,7 @@ Even the fiercest hunting dog did not bite its owner.
 
 “Well, that should satisfy your curiosity. What do you say to my generous offer?”
 
-Chinggen was looking at Mukyung with great anticipation when—
+Chinggen looked at Mukyung expectantly.
 
 “Impossible.”
 
@@ -116,7 +116,7 @@ A low voice cut in. Chinggen frowned at the face he saw over Mukyung’s shoulde
 
 The uninvited guest answered calmly.
 
-“How could a wolf serve under a mangy dog? He’s my little brother, whom I’ve cherished like my own son. As his older brother, I can’t let that happen.”
+“How could a wolf serve under a dog? I’ve cherished my little brother like a son. As his older brother, I can’t stand by and watch that happen.”
 
 “Little brother? Older brother?”
 
@@ -124,9 +124,9 @@ Chinggen’s eyes widened slightly as he looked at Jin Wikyung. Then he let out 
 
 “The Jin brothers… This is a much bigger catch than I expected.”
 
-*A big catch.*
+*A catch.*
 
-He remembered the old fisherman who had laughed heartily before the battle and promised to bring back a big catch.
+Wikyung’s gaze grew heavy. He remembered the old fisherman who had laughed before the battle and promised to bring back a big one.
 
 “What happened to Senior?”
 
@@ -144,7 +144,7 @@ Chinggen smiled faintly.
 
 “……!”
 
-“Actually, ‘snapped’ isn’t enough. More like crushed to pieces. He was slammed more than thirty *jang* down.”
+“No, ‘snapped’ isn’t quite right. More like crushed. He fell a good thirty *jang* or so.”
 
 Wikyung swallowed a groan.
 
@@ -160,21 +160,21 @@ Now the Jin Family owed him a debt. Him, and everyone else who had died here.
 
 “What?”
 
-“I need to know who you are, so I can speak with my head held high when we offer a memorial rite for the dead in the future.”
+“When we hold rites for the dead, I want to be able to tell them who you were.”
 
 Wikyung met Chinggen’s eyes with a cold gaze.
 
-“So we can say we personally tore apart and killed the bastard who dared invade Shanxi Province and harm you all.”
+“To tell them we tore apart the bastard who dared invade Shanxi Province and harm them.”
 
 “……!”
 
 “No matter how rotten the world gets, isn’t that what people ought to do?”
 
-Chinggen blinked his wide-open eyes, then suddenly burst into loud laughter.
+Chinggen blinked, then burst into laughter.
 
 “Ha! Hahahahaha!”
 
-His laughter boomed through the gorge, pressing down on everything around it.
+His laughter boomed across the gorge, pressing down on everything around him.
 
 No—it was no longer mere sound.
 
@@ -198,19 +198,19 @@ Just as mountain peaks differed in height, the man wearing Chinggen’s face cou
 
 *Sssssss.*
 
-At that moment, the martial artists of Shanxi Province could hardly believe their eyes.
+The martial artists of Shanxi Province could hardly believe their eyes.
 
 Fragments of broken rock were rising into the air as though suspended on invisible threads. There were a hundred or so of them.
 
-Their jagged edges were hidden weapons in their own right, and the man standing tall at their center was nothing less than a monster.
+Their sharp edges made each fragment a hidden weapon in its own right. The man standing amid them was nothing less than a monster.
 
-A monster of endless change, wearing human skin.
+A monster capable of endless change, wearing a human skin.
 
 *Crack. Crrrunch!*
 
 Bone shifted and flesh compressed with sickening sounds. His appearance changed by the moment.
 
-Everyone stared, stunned by the sight. Then three streaks of light flashed from somewhere.
+While everyone stared, three streaks of light flashed from somewhere nearby.
 
 *Shwaaa!*
 
@@ -220,7 +220,7 @@ Three figures crossed the space like lightning, too fast for even the Keshik to 
 
 *Whoom. Whish!*
 
-A mighty punch and two swords blazed with brilliant light as they rushed toward Chinggen—
+A mighty punch and two gleaming blades rushed toward Chinggen—
 
 “How dare you!”
 
@@ -230,9 +230,9 @@ With an enraged shout, an enormous surge of qi erupted like lava, driving everyt
 
 *Fwoooooosh!*
 
-A thick cloud of pale dust rose, obscuring everything beyond arm’s reach.
+Pale dust filled the air, hiding everything beyond arm’s reach.
 
-The three attackers were thrown back three *jang* by the irresistible force. They exchanged deep, steady looks—when—
+The irresistible force had pushed the three attackers back three *jang*. They exchanged steady looks—
 
 *Pop!*
 
@@ -252,9 +252,9 @@ Old and ugly.
 
 That alone was unpleasant enough. Being ambushed while enduring the painful reversal of his disguise technique and Bone-Shrinking Technique had made his mood far worse.
 
-“You ungrateful little bastard…”
+“The nerve of you ungrateful bastards…”
 
-The old man glared at the rats who had dared to ambush him. His eyes were so narrow and buried in fat they seemed impossible to see.
+He glared at the rats who had dared attack him. His eyes were so narrow and buried in fat they were barely visible.
 
 He was furious—especially because Jin Mukyung, the first person in a long while to catch his interest, was among them.
 
@@ -272,7 +272,7 @@ Then he came up with a likely answer.
 
 The old man’s eyes reddened with rage. Reflected in them were the two men smiling on either side of Mukyung.
 
-“And who are you two?”
+“And who are you?”
 
 The two men, one young and one old, answered readily.
 
@@ -282,7 +282,7 @@ The two men, one young and one old, answered readily.
 
 At the answers of the two Peak masters representing the Jin Family of Taiyuan and the Mount Heng Sword Sect, the old man licked his lips with a tongue surprisingly quick for his size.
 
-“So, one of you’s about to die and become a ghost, and the other’s a dog from Mount Heng. Good to know.”
+“One about to become a ghost, and a dog from Mount Heng. Good to know.”
 
 *Shing.*
 
@@ -296,4 +296,4 @@ The battlefield’s suspended moment ended, and the wick that had barely kept bu
 
 “Waaaaaah!”
 
-With a great roar that woke the deep night, two waves crashed into each other.
+A great roar shattered the deep night as two waves crashed into each other.

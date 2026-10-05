@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, with a few minor losses in physical detail, quantity, and register.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 41",
+      "current": "Mukyung instantly sprang back and raised his sword at an angle.",
+      "defect": "The source says Mukyung sprang a considerable distance backward. The translation preserves the retreat but drops its distance.",
+      "replacement": "Mukyung instantly sprang a great distance back and raised his sword at an angle.",
+      "rationale": "The source describes him as 훌쩍 물러난, emphasizing a large backward movement; the accepted baseline also preserved this as “sprang back a great distance.”",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 193",
+      "current": "No matter how rotten the world gets, isn’t that what people ought to do?",
+      "defect": "The softened phrasing loses the source’s crude, emphatic comparison: the world is going to shit.",
+      "replacement": "No matter how much the world goes to shit, isn’t that what people ought to do?",
+      "rationale": "세상이 개같이 돌아간다 is deliberately profane, not merely a description of the world as rotten. The binding rules say not to censor or soften the source’s profanity.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 223",
+      "current": "Just as mountain peaks differed in height, the man wearing Chinggen’s face could not be fully described by the words *Supreme Peak*.",
+      "defect": "The comparison omits that the source refers to dozens of mountain peaks.",
+      "replacement": "Just as dozens of mountain peaks differed in height, the man wearing Chinggen’s face could not be fully described by the words *Supreme Peak*.",
+      "rationale": "수십 개의 산봉우리 establishes the quantity “dozens,” which the accepted baseline preserved.",
+      "confidence": 0.86
+    }
+  ]
+}
