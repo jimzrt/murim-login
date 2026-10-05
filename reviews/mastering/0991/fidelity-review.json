@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "It was a memory.",
+      "defect": "This removes the speaker’s minimizing and qualified phrasing: 그냥, 일종의 (“just, a kind of”). The accepted baseline also preserved “just.”",
+      "id": "F02",
+      "rationale": "The source describes the dream as merely a kind of memory, rather than stating without qualification that it was a memory.",
+      "replacement": "It was just a kind of memory.",
+      "severity": "minor",
+      "source": "Line 327"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but it omits a distinct point about mental enlightenment and slightly overstates a tentative description of the dream.",
+  "version": 1
+}

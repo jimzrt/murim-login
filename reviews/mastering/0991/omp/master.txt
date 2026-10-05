@@ -20,7 +20,7 @@ I blinked slowly. My vision was a blur.
 
 Everything was hazy.
 
-Unlike my other dreams, which had been horrifyingly vivid, I couldn’t even make out the illusions around me.
+Unlike my other dreams, which had been horrifyingly vivid, I couldn’t even make out the shapes around me.
 
 Then someone spoke, and I finally understood why I felt so groggy.
 
@@ -72,7 +72,7 @@ Which meant this was—
 
 *Not my memory.*
 
-Just then, an inexplicable chill ran down my spine.
+A chill ran down my spine.
 
 Then the unfamiliar man the child had called Dad spoke close to my ear.
 
@@ -88,11 +88,11 @@ It was faint, but I’d heard it clearly.
 
 A father speaking to his son. Calling him by name.
 
-And at that moment, my thoughts ground to a halt with the shock of something I’d never expected.
+My thoughts stopped with the shock of it.
 
 *Fwoosh.*
 
-Light poured down from beyond the pitch-black darkness, wrapping around the child lost in deep sleep.
+Light poured down through the pitch-black darkness, wrapping around the child as he fell into a deep sleep.
 
 No—around me.
 
@@ -124,7 +124,7 @@ I couldn’t tell. I kept batting away the hands reaching for me, acting on inst
 
 Then someone seized my shoulder.
 
-Even in the middle of all that, I could feel the strength in that hand with perfect clarity.
+A powerful grip. Even now, I could feel its strength clearly.
 
 It hurt a little, but an unfamiliar warmth came through that hand, too.
 
@@ -132,7 +132,7 @@ It hurt a little, but an unfamiliar warmth came through that hand, too.
 
 My rigid body slowly relaxed.
 
-Only then did I realize whose energy was flowing along the acupoint pathways known to just two people in this vast world—the Extreme Yang qi flowing through me.
+Only then did I recognize the Extreme Yang qi flowing through the acupoint pathways known to just two people in this vast world.
 
 “…Old Master.”
 
@@ -142,9 +142,7 @@ I let the words out with the breath I’d been holding. A voice I knew all too w
 
 I closed my eyes as Jeok Cheongang told me to.
 
-I reminded myself that this place I was in was real, not an illusion, and slowly calmed my heart, which was pounding without pause.
-
-How much time passed like that?
+I realized that the place I was in now was real, not a dream, and gradually calmed my racing heart.
 
 After a while, I opened my eyes to a world that was quiet and clear.
 
@@ -162,7 +160,7 @@ I hesitated before answering his abrupt question.
 
 “What?”
 
-“Just once. Don’t hold back at all. Put your whole heart into it.”
+“Just once. Don’t hold back. I mean it.”
 
 “……”
 
@@ -190,11 +188,11 @@ Jeok Cheongang shook his head.
 
 “On second thought, I think I’m all right.”
 
-“You said to put my whole heart into it.”
+“You told me not to hold back.”
 
 “Not to this extent.”
 
-“Weren’t you the one who asked?”
+“You begged me.”
 
 “If you were going to take me *that* seriously, you should’ve refused three times first. Isn’t that only polite?”
 
@@ -226,7 +224,7 @@ At the same answer I’d given before, Jeok Cheongang clenched his fist again.
 
 “Was I not a moment ago?”
 
-“Do you really have to ask? You woke up and immediately started thrashing around like you couldn’t tell up from down, so I sent everyone else out.”
+“Do you really have to ask? You woke up thrashing around like you couldn’t tell up from down. I sent everyone else out.”
 
 “Hmm.”
 
@@ -238,7 +236,7 @@ Besides, the proof was right in front of me.
 
 “What a mess.”
 
-I muttered as I looked at the fragments scattered everywhere, their original forms lost. Jeok Cheongang nodded emphatically in agreement.
+I looked at the shattered fragments of what had once been furnishings. Jeok Cheongang nodded emphatically.
 
 “A hell of a mess.”
 
@@ -248,7 +246,7 @@ I muttered as I looked at the fragments scattered everywhere, their original for
 
 “What do you mean…?”
 
-“Your eldest brother was the one who made a scene. Built like a mountain, bawling his eyes out and insisting he couldn’t leave. I had no choice but to deal with him myself.”
+“Your eldest brother made a scene. Built like a mountain, bawling his eyes out, insisting he wouldn’t leave. I had no choice but to deal with him myself.”
 
 I stared at Jeok Cheongang, eyes wide.
 
@@ -270,11 +268,11 @@ I gave a quiet laugh instead of answering. Jeok Cheongang clicked his tongue.
 
 “Come on, you’re sulking again. You know that’s not true.”
 
-“Know what, my ass. More importantly… what caused this?”
+“Know what, my ass. More importantly… what was it?”
 
-The question came with a brief pause, his voice trailing off.
+His voice trailed off before the short question.
 
-I opened my mouth, feeling the sweat that had soaked my back.
+I felt cold sweat soaking my back.
 
 “It was just a dream.”
 
@@ -282,7 +280,7 @@ I opened my mouth, feeling the sweat that had soaked my back.
 
 “No, it wasn’t exactly a nightmare… I don’t know. It was a strange dream. I can’t really describe it.”
 
-Even as I answered, an odd feeling crept over me. I frowned.
+Even as I answered, something about the situation felt odd. I frowned.
 
 *What is it?*
 
@@ -292,7 +290,7 @@ But the sudden sense of déjà vu vanished when Jeok Cheongang spoke again, his 
 
 “Tell me more. That nightmare could be a trace of the Heart Demon lurking inside you.”
 
-I pushed aside my brief hesitation and answered.
+I put aside my brief hesitation.
 
 “I don’t think so. It was a memory.”
 
@@ -302,7 +300,7 @@ I knew what Jeok Cheongang was worried about.
 
 In modern terms, it was something like trauma.
 
-For a Murim martial artist to break past their limits and reach the highest realms, powerful internal energy and martial arts weren’t enough.
+For a Murim martial artist to break past their limits and reach a higher realm, powerful internal energy and martial arts weren’t enough. They also needed the enlightenment gained by training the mind.
 
 Whether their path was good or evil, they had to reach an understanding of their own to keep walking it.
 

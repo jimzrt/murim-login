@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful, but it omits a distinct point about mental enlightenment and slightly overstates a tentative description of the dream.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "Lines 335–339",
+      "current": "For a Murim martial artist to break past their limits and reach the highest realms, powerful internal energy and martial arts weren’t enough. Whether their path was good or evil, they had to reach an understanding of their own to keep walking it.",
+      "defect": "The translation omits the separate statement that mental enlightenment is gained through cultivation of the mind. The later sentence about gaining an understanding of one’s own does not preserve that specific process and concept.",
+      "replacement": "For a Murim martial artist to break past their limits and reach the highest realms, powerful internal energy and martial arts weren’t enough. They also needed mental enlightenment gained through cultivation of the mind. Whether their path was good or evil, they had to reach an understanding of their own to keep walking it.",
+      "rationale": "The source explicitly says that what is needed, beyond internal energy and martial arts, is 정신적인 깨달음 obtained through 심상의 수련. That explanatory point is absent from the assembled English.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 327",
+      "current": "It was a memory.",
+      "defect": "This removes the speaker’s minimizing and qualified phrasing: 그냥, 일종의 (“just, a kind of”). The accepted baseline also preserved “just.”",
+      "replacement": "It was just a kind of memory.",
+      "rationale": "The source describes the dream as merely a kind of memory, rather than stating without qualification that it was a memory.",
+      "confidence": 0.91
+    }
+  ]
+}
