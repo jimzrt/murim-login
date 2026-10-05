@@ -24,7 +24,7 @@ The ground shuddered, and a terrible wave of heat erupted. At that moment, a fig
 
 The ground crumbled like tofu beneath the foot he barely managed to plant.
 
-Jin Taekyung, the young man who’d just managed to steady himself after being hurled through the air with a sharp blast, spat the blood pooling in his mouth and muttered,
+Jin Taekyung steadied himself after being hurled through the air, spat out the blood that had pooled in his mouth, and muttered, “So, you’re a cut above me…”
 
 Speed, strength, a perfectly timed surprise attack—he’d made full use of them all, yet the gap between them was unmistakable.
 
@@ -62,7 +62,7 @@ At an absurdly young age, that martial artist had reached an astonishing level o
 
 Now that he’d experienced it firsthand, Cang Gong thought he understood why *that person* had taken such an interest in Jin Taekyung.
 
-Why *that person* had ordered them to keep that young brat alive, even after losing two loyal servants—the Western Heaven Demon Lord and the Southern Heaven Demon Empress—in the process.
+Why he still wanted the young brat kept alive, even after losing two loyal servants—the Western Heaven Demon Lord and the Southern Heaven Demon Empress—in the process.
 
 *As an enemy, he’d be the greatest obstacle. As an ally, he’d soon become a monster who could surpass even the Three Saints.*
 
@@ -112,7 +112,7 @@ He glanced around and added, “Though it looks like plenty of others would love
 
 He wasn’t exaggerating.
 
-Nearly two thousand members of the Embroidered Uniform Guard surrounded them in a circle. Every one of them was among the Great Nation’s finest troops, martial artists ranging from Supreme First Rate to Peak.
+Nearly two thousand members of the Embroidered Uniform Guard surrounded them. Every one of them belonged to the Great Nation’s finest force, with martial arts ranging from Supreme First Rate to Peak.
 
 And that wasn’t all.
 
@@ -126,9 +126,9 @@ Yet Cang Gong merely looked at the countless spears, swords, and arrowheads surr
 
 Or rather, he looked past them to the one man watching him from the high platform.
 
-“The hunting dogs have slipped their leashes and are running wild without even knowing where they’ll die, while their cunning master sits back and watches.”
+“The hunting dogs have slipped their leashes and are running wild, too stupid to know where they’ll die. Meanwhile, their cunning master sits back and watches.”
 
-Just as he always had.
+*Just as he always has.*
 
 Cang Gong laughed aloud.
 
@@ -172,7 +172,7 @@ Those were the last words he heard.
 
 The sword twisted and pulled free. His lifeless body toppled to the ground.
 
-Everywhere.
+Elsewhere—
 
 *Thrust!*
 
@@ -194,7 +194,7 @@ Killed by their own comrades. By superiors, subordinates, and men they’d cheri
 
 “…!”
 
-Muffled shouts burst out from every direction. The traitors and the betrayed, those who fought to protect and those who fought to take, clashed with one another.
+Strangled shouts rose on every side. The traitors and the betrayed, those fighting to protect and those fighting to take, clashed.
 
 *Clang-clang-clang!*
 
@@ -216,13 +216,13 @@ A strong wind sweeping in from far away had made just such a sound across those 
 
 The ripe grain and grasses would bow, and the great tree where the village held its festivals would shake its abundant branches and leaves.
 
-But the nameless man realized he’d never return to the hometown he missed.
+But the nameless man knew he would never see his hometown again.
 
 *Ah.*
 
 The darkness spreading across the sky was no darkness at all. Countless arrows were raining down.
 
-They spread across the sky as they rushed toward the people below—or toward the Emperor they’d sworn their loyalty to.
+They filled the air as they flew toward the men below—or toward the Emperor those men had sworn to serve.
 
 *Cough.*
 
@@ -266,7 +266,7 @@ The countless bodies still piling up amid sprays of blood served as firewood.
 
 And the life of one unfortunate man, made to suffer a little longer than the rest, as a sacrifice.
 
-But at the end of that horrific wait, the nameless member of the Embroidered Uniform Guard managed to remember the young man’s name—the one he’d almost forgotten.
+At the end of that terrible wait, the nameless Embroidered Uniform Guard remembered the young man’s name.
 
 *Jin Taekyung. Right. It was Jin Taekyung.*
 
@@ -292,11 +292,11 @@ A Supreme Peak master is still made of flesh and blood.
 
 To someone who doesn’t know any better, he might look like a superhuman who can take down hundreds or thousands of enemies. But he has limits.
 
-Especially when at least half of those hundreds or thousands are Peak masters.
+Especially when at least half those enemies are Peak masters.
 
 *Swish! Slice!*
 
-The tip of a spear someone thrust out skimmed past my cheek by a hair. Getting my skin sliced open by the internal energy packed into its blade was just the standard package. My fist returning the favor was a bonus.
+A thrust spearhead skimmed my cheek. The internal energy behind it sliced my skin anyway—that came standard. The punch I gave its owner was a bonus.
 
 *Wham!*
 
@@ -312,7 +312,7 @@ If they’d only been martial artists, they would’ve been much easier to deal 
 
 *Slash! Thrust!*
 
-I snatched a spear from someone’s hands and swung it wildly, glaring past the shoulders of the enemies surrounding me.
+I snatched a spear from someone’s hands and swung it at every enemy in reach, glaring past their shoulders.
 
 *Why the hell?!*
 
@@ -332,7 +332,7 @@ A sharp sound cut through the air. A dozen or so Embroidered Uniform Guards who�
 
 Their eyes widened in disbelief.
 
-Then, as if to reveal the cold truth, faint lines of blood appeared on their necks, growing darker by the second.
+Faint lines appeared across their necks, darkening by the second.
 
 *Gurgle—SHHHK!*
 
@@ -340,7 +340,7 @@ Blood beaded along the cuts, then sprayed like fountains. The man who’d swept 
 
 “Why did you do it? If you’d simply trusted me and followed along, everything could have gone smoothly.”
 
-Instead of answering Ma Sanbao’s bullshit—the kind even the mutt next door could understand—I brought my spearhead down.
+Instead of answering Ma Sanbao’s bullshit—so obvious even the mutt next door could understand it—I brought my spearhead down.
 
 *Whoosh!*
 
