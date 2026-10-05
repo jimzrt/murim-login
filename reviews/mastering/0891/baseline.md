@@ -4,7 +4,7 @@ It had only been a few days—not long enough to call this a reunion—but it wa
 
 And “a few days” was only on paper. It had felt more like a few months.
 
-*So much had happened.*
+*There’d been so much going on.*
 
 Still, how should I put it? Seeing familiar faces made this strange place feel, for a moment, like home. I liked that.
 
@@ -14,15 +14,15 @@ I smiled and waved at the group that had rushed over to me.
 
 The reactions came at once.
 
-Jeok Cheongang snorted, pretending it was nothing. Why was I making such a fuss when he’d seen me just a few shichen ago? Sama Pyo and Song Ilseom silently nodded. Ju Hwaran, who’d frozen like a statue when I appeared, suddenly flew down the stairs like a streak of light. Her voice unsteady, she said,
+Jeok Cheongang snorted as if nothing had happened, asking why I was making such a fuss when he’d already seen me a few shichen ago. Sama Pyo and Song Ilseom silently nodded. Ju Hwaran, who’d frozen like a statue when I suddenly appeared, came flying down the stairs in a flash. Her voice unsteady, she said,
 
-“B-Benefactor. No, Pavilion Master. Is there anywhere you *aren’t* hurt?”
+“Y-You… Benefactor. No, Pavilion Master. Are you hurt anywhere?”
 
 “Huh?”
 
-“N-No, that came out wrong. What I mean is…”
+“N-No, that’s not it. I misspoke. What I mean is…”
 
-“You’re asking if I’m hurt anywhere?”
+“You’re asking if I’m hurt?”
 
 “Ah. Yes!”
 
@@ -46,21 +46,21 @@ The Divine Physician nodded like a grandfather agreeing with his granddaughter, 
 
 “Uh…”
 
-What on earth was I supposed to say to that?
+What on earth was I supposed to say in this situation?
 
-I felt strangely awkward and was scrambling for an answer when a shadow fell over my head. Something damp touched my scalp.
+I felt strangely awkward and was frantically searching for something to say when a shadow suddenly fell over me. At the same time, something damp touched the crown of my head.
 
 Plop. Plop.
 
-For an instant, I thought rain was leaking through the ceiling. Then I heard the rough breathing behind me and felt the sticky saliva.
+For an instant, I thought rain was leaking through the ceiling. That was before I heard the rough breathing behind me and felt the sticky saliva.
 
 *Oh. You bastard.*
 
 I didn’t need to look to know who it was. I glanced up, and there he was, drooling exactly as I’d expected.
 
-“Taishan is very very happy and glad to see the Pavilion Master again.”
+“Taishan is very, very happy and glad to see the Pavilion Master again.”
 
-Was this lunatic for real? Listen to how fast he was talking.
+Was this lunatic for real? Look how fast he was talking.
 
 “Pavilion Master doing well Taishan doing well Taishan ate five-spice pork and ate five-spice pork and ate five-spice pork.”
 
@@ -72,7 +72,7 @@ Even now, he wasn’t looking at me. He was staring at the mountain of plates pi
 
 “……”
 
-He was clearly ready to eat five-spice pork, so I gave the order in a voice drained of all hope.
+He’d clearly finished preparing to eat five-spice pork, so I gave the order in a voice drained of all hope.
 
 “Fine. Eat it before it gets cold.”
 
@@ -80,13 +80,13 @@ He was clearly ready to eat five-spice pork, so I gave the order in a voice drai
 
 With an answer more enthusiastic than ever, Taishan hurled his massive body forward and began slaughtering the five-spice pork.
 
-I watched the horrific scene with glazed eyes, then remembered someone I’d forgotten.
+I watched the horrific scene through half-lidded eyes, then suddenly remembered someone I’d forgotten.
 
 “Wait. Where’s Elder Namho?”
 
 “I’m here.”
 
-Namho came shuffling down the stairs, one hand on his lower back, his face gloomy.
+Namho came clomping down the stairs, one hand on his lower back, his face gloomy.
 
 “I was resting for a moment. Maybe it’s because I’m old, but my body’s not what it used to be.”
 
@@ -96,11 +96,11 @@ Namho came shuffling down the stairs, one hand on his lower back, his face gloom
 
 “Oh no. Did you slip?”
 
-“It’s the imperial palace, so I suppose they keep even the privies well greased. I was hanging on to a ceiling beam when my strength gave out.”
+“Palace privy or not, the place might as well have been greased. I was hanging on to a ceiling beam when my strength gave out.”
 
-“A ceiling beam? Not the floor?”
+“The ceiling beam? Not the floor?”
 
-As I stared at him in confusion, the Divine Physician whispered to me.
+The Divine Physician whispered to me as I stared at him in confusion.
 
 “I believe he hid in the privy to ambush Young Hero Taishan.”
 
@@ -114,13 +114,13 @@ I let out a deep sigh and looked around at the people gathered in a circle aroun
 
 Some were normal, some weren’t, but they’d all followed me into the imperial palace—a tiger’s den—for my sake.
 
-They knew how dangerous this mission was, and they’d risked their one and only lives. I couldn’t hide anything from them or lie to them while we discussed what to do.
+They knew how dangerous this mission was, and they’d risked their one and only lives. When discussing what to do, I couldn’t hide or lie about a single thing.
 
-“I can’t stay away for as long as I’d like, so I’ll keep this quick.”
+“I can’t stay away from my post as long as I’d like, so I’ll keep this quick.”
 
 I took a quiet, deep breath and began to speak.
 
-Or tried to.
+Or, I tried to.
 
 Chomp. Chomp. *Pah-ooh.*
 
@@ -136,11 +136,11 @@ It made sense.
 
 They’d already learned about some of it through the East Depot, but there were things they were hearing for the first time here.
 
-Jeok Cheongang was the first to break the silence.
+The first to break the silence was Jeok Cheongang.
 
-“What a goddamn mess.”
+“This has gotten one hell of a mess.”
 
-He muttered under his breath, his gaze darkening.
+He muttered under his breath, his gaze sinking darkly.
 
 “Six Supreme Peak masters, and Embroidered Uniform Guards of that caliber… Is this what they mean when they call it a Great Nation?”
 
@@ -154,11 +154,11 @@ Murim and the government might look as though they were kept completely separate
 
 A Great Nation meant a continent. The forces hunkered down in the imperial capital were so powerful that even Jeok Cheongang had to groan.
 
-And there was an unexpected wild card among them.
+And there was another unexpected wild card.
 
 “First, tell us more about that woman called So Gyo. Her appearance, her way of speaking. What weapon she uses and how she moves.”
 
-Jeok Cheongang seemed more wary of So Gyo than anyone else. I told them everything I’d seen and felt, describing even her movements during our brief clash in detail.
+Jeok Cheongang seemed more wary of So Gyo than anyone else. I told them everything I’d seen and felt myself, even going into detail about her movements during our brief clash.
 
 Yet even Jeok Cheongang, who was among the three oldest in the martial world, and Namho, whose knowledge was second to none, couldn’t offer a clear answer.
 
@@ -166,19 +166,19 @@ Yet even Jeok Cheongang, who was among the three oldest in the martial world, an
 
 “I agree with Senior Jeok. If she’s serving Dark Heaven, she must be one of the demonic or heterodox martial artists. But even among the fiends the Hidden Shadow Pavilion identified during the Great Faction War, women of that caliber were very rare.”
 
-Namho turned to me, worry in his voice.
+Namho replied in a worried voice, then turned to me.
 
 “Did you notice anything strange? We can’t rule out the possibility that she was using a finely crafted human-skin mask or a disguise technique.”
 
-I thought back for a moment, then shook my head.
+I tried to recall what I’d seen, then shook my head.
 
-The deeper one’s martial arts realm, the sharper one’s eye became.
+The higher one’s martial arts realm, the sharper one’s eye became.
 
 No matter how well made a human-skin mask was, it had its limits. And maintaining a disguise technique took a constant supply of internal energy. From what I’d seen, I hadn’t felt the slightest trace of anything like that.
 
 “No. At least, from what I felt, it didn’t seem like she was using either of those methods.”
 
-“But there’s still a chance—”
+“But we can’t rule out the possibility…”
 
 “Enough. If that boy says so, then that’s how it is.”
 
@@ -190,7 +190,7 @@ After cutting Namho off firmly, Jeok Cheongang slowly stroked his chin.
 
 “Maybe thirty? She looked no older than her mid-thirties at most.”
 
-“To possess that kind of martial prowess at thirty is impossi—”
+“To reach that level of martial prowess around thirty is impossi—”
 
 Jeok Cheongang met my eyes and trailed off.
 
@@ -214,9 +214,9 @@ So this was how Hyuk Mujin felt.
 
 *Sorry. I’ll treat you better when we get back.*
 
-I kept quiet, chastened. Jeok Cheongang downed a cup of cold water in one go and clicked his tongue.
+I kept quiet, chastened, and Jeok Cheongang downed a cup of cold water in one go before clicking his tongue.
 
-“Damn it. It’s one of two things. Either the Lord of Heaven took a prodigy for the ages as his Disciple and raised her all this time, or she’s an old monster who’s gone beyond Returning to Simplicity and Returned to Youth.”
+“Damn it. It’s one of two things. Either the Lord of Heaven took some once-in-a-millennium prodigy as his Disciple and raised her all this time, or she’s an old monster who’s gone beyond Returning to Simplicity and Returned to Youth.”
 
 “Personally, I think it’s the latter. The Southern Heaven Demon Empress was the same.”
 
@@ -228,25 +228,25 @@ Nearly half a century had passed since the old sky of the Demonic Cult closed an
 
 Many of the people who’d emerged under Dark Heaven’s command in the present day were old masters from a previous generation, the kind known as fiends. But key figures like the Blood Lord, the Western Heaven Demon Lord, and the Southern Heaven Demon Empress were people the world hadn’t known about at all.
 
-*So Gyo probably belongs in the same category.*
+*So it makes sense that So Gyo belongs in the same category.*
 
-But something mattered more than discovering So Gyo’s identity.
+But there was something more important than discovering So Gyo’s identity.
 
 Why had she let me go when she could have subdued me?
 
 No matter how much I thought about it, I couldn’t find an easy answer.
 
-“I don’t get it. Why did So Gyo go out of her way to make that choice?”
+“I don’t know. Why did So Gyo go out of her way to make that choice?”
 
 Ju Hwaran, who’d been listening without a word, suddenly spoke up.
 
-“I haven’t been able to understand it either. This may be rude to you, Pavilion Master, but… why let a fish that’s already been caught in the net go free?”
+“I haven’t been able to understand it either. This may be rude to the Pavilion Master, but… why let a fish that’s already been caught in the net go free?”
 
 “Perhaps they intend to catch us all at once at the grand banquet that’s coming up.”
 
 Song Ilseom, seated beside her, answered. Ju Hwaran shook her head.
 
-“If word gets out, that only makes things harder for them. Now that they’ve done this, won’t we fight the decisive battle with everything we have?”
+“If the information got out, it would be a problem for them instead. Now that they’ve made this move, wouldn’t we fight the decisive battle with everything we have?”
 
 She was right.
 
@@ -266,7 +266,7 @@ At least, that was the impression I’d gotten of the Emperor.
 
 Thorough, calculating, and someone who would always uproot a future source of trouble.
 
-A cold, ruthless ruler. The master of a continent, with the power to match.
+A cold and ruthless ruler. The master of a continent with the power to match.
 
 It was hard to explain why someone like that had stood by and let all this happen.
 
@@ -280,4 +280,4 @@ But pull out every root in one go, and the weeds would finally be gone.
 
 *Damn it.*
 
-The air around us grew heavy.
+The air sank heavily around us.

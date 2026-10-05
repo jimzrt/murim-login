@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.89,
+      "current": "To possess that kind of martial prowess at thirty is impossi—",
+      "defect": "“At thirty” makes the age sound exact, while “이립 어림에” means around thirty. The accepted baseline preserved that approximation.",
+      "id": "F01",
+      "rationale": "The source describes an approximate age, consistent with the preceding estimate that she was probably about thirty.",
+      "replacement": "To possess that kind of martial prowess around thirty is impossi—",
+      "severity": "minor",
+      "source": "Line 201"
+    }
+  ],
+  "summary": "The assembled English is faithful overall, with one small loss of approximation in the description of So Gyo’s age.",
+  "version": 1
+}
