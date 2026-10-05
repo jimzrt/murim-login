@@ -2,7 +2,7 @@
 
 Leaving behind countless tears and a ceaseless rain of petals, tens of thousands of people—martial artists and ordinary folk alike—departed Eight Spring Gorge and returned to their places.
 
-The memorial for the departed, and the belated Double Ninth Festival, had come to an end. But those who remained had to keep moving forward, toward tomorrow and the day after.
+The memorial for the dead and the belated Double Ninth Festival had come to an end. But those who remained had to keep moving forward, toward tomorrow and the day after.
 
 And when we returned to the Jin Family of Taiyuan, more than the few family members left behind in case of an emergency were waiting for us.
 
@@ -22,7 +22,7 @@ As if welcoming a guest he had long expected, Jin Wikyung calmly led the envoy i
 
 “I’m deeply grateful for your consideration, Great Hero Jin.”
 
-In that moment, an unmistakable emotion passed over the faces of the Jin Family of Taiyuan’s senior members and the Sect Leaders under its protection.
+At that, a look of deep emotion passed over the faces of the Jin Family’s senior members and the Sect Leaders under its protection.
 
 It wasn’t only because the envoy bowed so deeply, with genuine respect and reverence.
 
@@ -34,7 +34,7 @@ This wasn’t some nobody, one of those self-important fools forever puffing eac
 
 *Everything is changing.*
 
-I, too, felt the weight of it all over again.
+I felt the weight of it all over again.
 
 Jin Wikyung was no longer the Lesser Family Head who had led a fading family in place of a father whose whereabouts were unknown. Nor was he a Young Hero.
 
@@ -170,7 +170,7 @@ And yet that was the one thing that left me uneasy, even in the peace that had f
 
 It had been a long time since I’d cared about getting stronger just for the sake of it.
 
-In the Quests that came one after another, someone’s death had been so inevitable that it might as well have been written into the bargain. And the burden I carried had grown just as heavy.
+In the chain of Quests that kept coming, someone had always died—so often I could almost call it inevitable. The burden I carried had grown heavier with every death.
 
 On top of that, a greater crisis than ever hung over all of Murim.
 
@@ -186,13 +186,13 @@ Then Nanman, the Imperial Palace, and now even here in Shanxi Province, they had
 
 *The Murong Family’s betrayal and the nomads’ invasion were certainly huge events. But the forces Dark Heaven has revealed in the process are still far below what I expected.*
 
-Other than the four Demon Lords and the Demon Empress, who were certainly key figures within Dark Heaven, more than half the enemies we had fought so far had been traitors and underlings.
+Apart from the three Demon Lords and the Demon Empress—four figures who had to be central to Dark Heaven—more than half the enemies we’d fought so far had been traitors and underlings.
 
 In other words, it was as if they’d recruited their forces locally.
 
-*And they still haven’t shown themselves. Why? And why keep up this string of costly battles that lead only to failure?*
+*And their own forces still haven’t come forward. Why? Why keep fighting these costly battles that end in failure?*
 
-My steps had carried me onward without my noticing, but I stopped and frowned.
+I stopped walking and frowned.
 
 Then another memory came to me: part of a conversation with Murong Baek, Family Head of the Murong Family, who had met his end as the North Heaven Demon Lord.
 
@@ -200,7 +200,7 @@ Then another memory came to me: part of a conversation with Murong Baek, Family 
 
 *“What?”*
 
-*“Now that I’m in this situation, I find myself wondering why the Western Heaven Demon Lord, the Southern Heaven Demon Empress, and the Eastern Heaven Demon Lord failed. How did a plan prepared so carefully for so long fall apart in an instant?”*
+*“Now that I’m in this situation, I find myself wondering why the Western Heaven Demon Lord, the Southern Heaven Demon Empress, and the Eastern Heaven Demon Lord failed. How did plans prepared so carefully for so long fall apart in an instant?”*
 
 We never found out what those incomprehensible words meant.
 
@@ -248,7 +248,7 @@ I screwed up my face and thought it over.
 
 Had he just spouted bullshit before he died? Or had his words carried some other meaning none of us, myself included, could guess?
 
-As I clung to that endless chain of thoughts, a familiar voice suddenly broke in.
+As I wrestled with that endless chain of thoughts, a familiar voice suddenly broke in.
 
 “No wonder you never came, even after I waited all that time. So this is where you were.”
 
