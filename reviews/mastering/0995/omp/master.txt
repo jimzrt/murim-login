@@ -18,7 +18,7 @@ For two reasons.
 
 First, seeing Namho again—or rather, seeing all of them—felt good. Comfortable, too, as though it had been ages since we’d met.
 
-Second, because Namho was sitting astride Taishan’s shoulders as though that were the most natural thing in the world. It was ridiculous.
+Second, Namho was perched on Taishan’s shoulders as though that were the most natural place in the world to sit.
 
 “What are you doing?”
 
@@ -52,11 +52,11 @@ With a deep sigh, Namho pulled a piece of taffy from his sleeve and waved it in 
 
 “There. Will you move now?”
 
-In that instant, Taishan’s eyes narrowed to razor-sharp slits.
+Taishan’s eyes narrowed sharply.
 
 “Just one?”
 
-“Damn it. I’ll give you another as soon as we get back.”
+“Damn it. I’ll give you another when we get back.”
 
 “Three.”
 
@@ -74,7 +74,7 @@ Taishan’s resolve was beginning to waver when a voice sounded from behind his 
 
 Her voice was low and calm, which somehow made the warning more dangerous. Taishan swallowed hard and hurried into the room.
 
-He even snatched the taffy Namho had been waving in front of him, displaying a thoroughness I could only admire.
+He still remembered to snatch the taffy Namho had been waving in his face.
 
 With the doorway finally clear, Ju Hwaran—the one who’d put an end to the rush-hour jam—strode toward me. She called out in a voice suddenly thick with emotion, as though she hadn’t just threatened to stab anyone.
 
@@ -88,15 +88,15 @@ It was funny, but her sudden change of attitude caught me off guard. While I flo
 
 “I’m sorry I arrived so late during the last battle. You must’ve had such a hard time.”
 
-Over Ju Hwaran’s shoulder, Sama Pyo stood like an invisible man and muttered to himself.
+Behind Ju Hwaran, Sama Pyo stood like an invisible man and muttered to himself.
 
 “I’d guess the enemies had a harder time.”
 
-Song Ilseom, arms crossed and his willow-leaf saber tucked against his chest as always, nodded.
+Song Ilseom, arms crossed over the willow-leaf saber tucked against his chest as always, nodded.
 
 “Judging by the aftermath, he was a monster. The enemies were smashed to pieces.”
 
-Jaw clenched, Ju Hwaran ignored the voices behind her and continued.
+Ju Hwaran clenched her jaw and ignored them.
 
 “Were you hurt? Are you all right now?”
 
@@ -106,13 +106,13 @@ Sama Pyo and Song Ilseom at least had some sense. They slipped away at the right
 
 A chill settled over the room.
 
-I didn’t know what expression Ju Hwaran had on her face as she slowly turned around, but I saw terror spread across Hyuk Mujin’s face as his voice trailed off. I decided I’d go on living without ever finding out.
+I couldn’t see Ju Hwaran’s expression as she slowly turned, but I saw the terror spread across Hyuk Mujin’s face as his voice trailed off. I decided I could live the rest of my life without finding out what she looked like.
 
 “Mujin, shut your blabbering mouth. Young Lady Ju, I’m fine. Completely fine, so please don’t worry. And Taishan, I have something important to say, so swallow that taffy before we start—oh, you’ve finished it already. Did you chew it, or drink it?”
 
 With Taishan’s magic trick over—and me wondering whether taffy might actually be a liquid—I’d finally sorted out the traffic. Namho gave me an uneasy look.
 
-“Something important, huh? For some reason, I already have a very bad feeling about this… Am I just being an old worrywart?”
+“Something important, huh? Why do I already have a bad feeling about this? Am I just worrying for nothing?”
 
 “If only that were all.”
 
@@ -136,9 +136,7 @@ As expected, Namho was the first to react. His brow furrowed as he spoke, then h
 
 “Yes. The place you’re thinking of.”
 
-I nodded, then spoke in a heavy voice.
-
-The far western edge, the birthplace of the Heavenly Demon Divine Cult—called the Demonic Cult in the Central Plains—and now the home base of Dark Heaven. That accursed land.
+I nodded and named the accursed land at the far western edge—the birthplace of the Heavenly Demon Divine Cult, called the Demonic Cult in the Central Plains, and now Dark Heaven’s base.
 
 “Xinjiang.”
 
@@ -146,7 +144,7 @@ The far western edge, the birthplace of the Heavenly Demon Divine Cult—called 
 
 “……!”
 
-A massive shock swept through the room like an invisible wave.
+Shock swept through the room like an invisible wave.
 
 * * *
 
@@ -174,7 +172,7 @@ Murim could only have become a mountain of sabers and a forest of swords because
 
 The Shaolin warrior monks learned martial arts to protect. Others, on encountering that astonishing power, learned martial arts to conquer the world.
 
-*“People of every stripe must’ve gathered from all directions, in droves. They used martial arts to wield such mysterious power that they hardly seemed human. Just imagine how astonished everyone must’ve been.”*
+*“People of every stripe must’ve come flocking from all directions. Someone used martial arts to wield power so uncanny he hardly seemed human. Imagine how astonished they must’ve been.”*
 
 There must have been only a few dozen of them at first.
 
@@ -182,19 +180,19 @@ The world around them was dark even in daylight. Having encountered a power like
 
 They told others what they’d seen with their own eyes. When people refused to believe them, they took hold of their sleeves and led them to him.
 
-To the man with that unbelievable power. To the leader who would protect them in this wretched age of chaos.
+To the man with that unbelievable power. To the leader who would protect them in that wretched age of chaos.
 
 The followers grew to hundreds, then thousands, and finally a hundred thousand. Their leader declared himself the Cult Leader and a divine man sent by Heaven.
 
 *“That was the beginning of the Heavenly Demon and the Demonic Cult.”*
 
-Jeok Cheongang had also said that they probably hadn’t called themselves the Heavenly Demon or the Demonic Cult from the very beginning.
+Jeok Cheongang had added that they probably hadn’t used those names from the start.
 
 What mattered was that the first Heavenly Demon never conquered the world. He and his followers settled instead in a desert on the western frontier.
 
 Over nearly a thousand years, they sometimes turned their blades on one another. After several divisions and reunifications, they brought about the Great Faction War, a calamity of enormous scale.
 
-Throughout those long years, the scorching sands ruled absolutely by Fiends became a wasteland that even Murim of the Central Plains couldn’t hope to challenge.
+Throughout those centuries, the scorching desert remained under the absolute rule of Fiends. It became the Land of Ruin, a place even the martial world of the Central Plains couldn’t hope to challenge.
 
 And so it remained, even now that a new shadow called Dark Heaven had fallen across it.
 
@@ -230,7 +228,7 @@ More important, these enemies would be far stronger and more terrifying than the
 
 The desert no longer belonged to the Demonic Cult. It belonged to Dark Heaven.
 
-They weren’t merely the successors of the Demonic Cult under a different name. They were a new group of followers, ruled by a power incomparably stronger and more dangerous.
+They weren’t merely the old cult’s successors under a new name. They were new followers ruled by something incomparably more powerful and dangerous.
 
 *Could that be why Logout was suddenly blocked?*
 

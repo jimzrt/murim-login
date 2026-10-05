@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is largely faithful, with a few remaining quantity and physical-detail shifts and one established term omitted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 107",
+      "current": "The enemies were smashed to pieces.",
+      "defect": "The Korean says they could not even gather the enemies’ bones, a hyperbolic description of their utter defeat. “Smashed to pieces” adds a more specific physical result.",
+      "replacement": "They couldn’t even gather their bones.",
+      "rationale": "전부 뼈도 못 추렸어 describes being unable to gather the bones; it does not specify that the enemies were smashed into pieces.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 235",
+      "current": "a wasteland",
+      "defect": "This renders 멸지 generically rather than using its established term, “Land of Ruin.”",
+      "replacement": "the Land of Ruin",
+      "rationale": "The glossary identifies 멸지 as “Land of Ruin,” and the source uses it as the name of the desert region.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 257",
+      "current": "more than thirty elite agents",
+      "defect": "This asserts a count above thirty, while 삼십여 명 means approximately thirty.",
+      "replacement": "around thirty elite agents",
+      "rationale": "삼십여 명 does not establish that the number exceeded thirty; the accepted baseline’s “thirty-odd” also preserves the approximate quantity.",
+      "confidence": 0.94
+    }
+  ]
+}
