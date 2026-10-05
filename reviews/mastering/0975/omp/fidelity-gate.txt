@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled copy is mostly faithful, but it drops the predator-strength contrast and changes the shock-wave mechanism.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 11–13",
+      "current": "He was a trained beast, with both the strength to face any enemy and the loyalty of a hunting dog.",
+      "defect": "The source specifically gives him a predator’s strength, contrasting it with a hunting dog’s loyalty. The assembled line omits the predator image preserved in the accepted baseline.",
+      "replacement": "He was a trained beast, with a predator’s strength to face any enemy and a hunting dog’s loyalty.",
+      "rationale": "The Korean says he possesses the strength of a predator who can face any enemy and the loyalty of a hunting dog.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 321–323",
+      "current": "Rather than absorb the shock wave, the North Heaven Demon Lord used it to speed his retreat.",
+      "defect": "“Absorb” changes the described mechanism. The source says he retreats by adding speed instead of canceling out the shock wave.",
+      "replacement": "Rather than cancel out the shock wave, the North Heaven Demon Lord used it to speed his retreat.",
+      "rationale": "The source uses 상쇄, meaning to cancel out or counteract, before contrasting that with accelerating his retreat.",
+      "confidence": 0.97
+    }
+  ]
+}

@@ -18,7 +18,7 @@ The signal he’d been waiting for had barely sounded when Jamukha swung his cur
 
 Two waves of Force collided in midair.
 
-The dark green Force of his blade, made darker and larger by the effects of the Temporary Strength Pill, pushed back the blue-white flames, if only for a moment. Just then, Jamukha’s foot shot forward like an arrow.
+The dark green Force of his blade, made darker and larger by the Temporary Strength Pill, pushed back the blue-white flames, if only for a moment. Then Jamukha shot forward like an arrow.
 
 *Whoosh.*
 
@@ -234,7 +234,7 @@ Jamukha staggered. Even as that terrifying force battered him, he couldn’t tak
 
 Through pain so intense it felt as if his soul were burning white, the five fingers buried in his flank held him fast like a hook.
 
-One punch, one palm strike—each carrying terrifying power—filled his vision, raining down in a blue-white torrent.
+Punches and palm strikes, each carrying terrifying power, filled his vision and rained down in a blue-white torrent.
 
 Until everything the Temporary Strength Pill had given him was spent.
 
@@ -288,7 +288,7 @@ As if everything spent and worn away were returning to its original state.
 
 Clear chimes rang in only one person’s ears as translucent letters filled the air.
 
-At the end of them were the words he’d been waiting for so long.
+At the end of them were the three words he had been waiting for.
 
 > **System**
 >
@@ -316,7 +316,7 @@ Rather than absorb the shock wave, the North Heaven Demon Lord used it to speed 
 
 But the North Heaven Demon Lord didn’t stop.
 
-He cut through the wind and seemed to erase the space around him as he shot toward the narrow gorge’s exit.
+He cut through the wind, devouring the distance to the narrow gorge’s exit.
 
 *Shweeeee! Boom!*
 
@@ -324,9 +324,9 @@ A casually thrown punch shattered the massive rocks filling the gorge. The North
 
 *Rrrrrum.*
 
-Space warped. At its center, the spearhead gave off a blindingly ominous flash.
+Space warped. At its center, the spearhead gave off an ominously brilliant flash.
 
-But that strike, carrying an unprecedented force, never swept across the people of Shanxi.
+But that strike, carrying unprecedented power, never swept through the people of Shanxi.
 
 *Shwack!*
 
