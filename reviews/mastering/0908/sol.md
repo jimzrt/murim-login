@@ -38,7 +38,7 @@ Flames burst from my toes, scorching the air. Riding the shock wave, I took one 
 
 The Imperial Guards.
 
-Along with the Embroidered Uniform Guard, they were one of the Great Nation’s elite forces, charged with protecting the imperial capital. They were also traitors who’d betrayed the Emperor and taken refuge in the shadow of the Eastern Heaven Demon Lord, who had lived behind the guise of Cang Gong.
+Along with the Embroidered Uniform Guard, they were one of the Great Nation’s elite forces charged with protecting the Imperial Capital. Now they were traitors who had turned against the Emperor and taken refuge under the Eastern Heaven Demon Lord—the man who had lived behind the guise of Cang Gong.
 
 From behind the high stone wall, they had been firing arrows without pause. Their bows were now aimed at the Fire Dragon Pavilion members who had appeared behind them alongside the black-clad figures.
 
@@ -46,9 +46,9 @@ At least, they were until I arrived.
 
 “General, your orders!”
 
-At the urgent call of someone who looked like a junior officer, a middle-aged man in ornate armor swung the baton in his hand without hesitation.
+At the urgent call of someone who looked like a junior officer, a middle-aged man in ornate armor raised the baton in his hand. He pointed it toward me as I closed the dozens of *jang* between us.
 
-He swung it at me as I closed the dozens of *jang* between us in an instant.
+After a brief hesitation, he gave the order.
 
 “Loose!”
 
@@ -146,9 +146,9 @@ And then came the desperate resistance of the few who hadn’t given up.
 
 “All Imperial Guards! Follow the General’s orders and take down that heinous—!”
 
-I shot my hand out like a bolt of lightning toward the few officers screaming at their men.
+I thrust out my hand toward the officers shouting themselves hoarse.
 
-Or, to be exact, I scattered the arrows I’d been holding with the power of my Middle Dantian.
+Or, more precisely, I sent the arrows I’d caught with the power of my Middle Dantian flying toward them.
 
 *Whoosh! Thup-thup-thup!*
 
@@ -158,7 +158,7 @@ Or, to be exact, I scattered the arrows I’d been holding with the power of my 
 
 Screams followed the arrows’ fierce whistle.
 
-True to their reputation as Imperial Guards, each of them was a master of no small skill. But they couldn’t dodge the arrows I sent flying as if I were controlling them.
+The Imperial Guards had earned their reputation. Each was a skilled master in his own right, but none could dodge the arrows I sent at them.
 
 Except one.
 
@@ -188,7 +188,7 @@ The middle-aged man fixed me with a grave look and tightened his grip on his gre
 
 I nodded and went on.
 
-“You’re the treacherous piece of shit who betrayed the Emperor and sided with Dark Heaven. The asshole who wanted to turn me and my people into pincushions. And the asshole who’s about to die.”
+“You’re the treacherous piece of shit who betrayed the Emperor and sided with Dark Heaven. The asshole who tried to turn me and my people into pincushions. And the asshole who’s about to die.”
 
 “……!”
 
@@ -222,7 +222,7 @@ If you could take in an entire mountain range at a glance, you had to be looking
 
 One step was enough.
 
-The great saber tore through distorted space, but it couldn’t match my speed as I moved through the air as if it were solid ground. Only the strands of Force it sent flying barely grazed me.
+The great saber tore through the space I’d occupied, unable to catch me as I moved through the air as though it were solid ground. Only the strands of Force streaming from it grazed my body.
 
 *Sizzle.*
 
@@ -276,7 +276,7 @@ Right into the middle of the Imperial Guards, who stood frozen like statues.
 
 *Hff.*
 
-Fear and anger, shock. And, last of all, confusion at not knowing what to do.
+Someone caught his breath. The men crowding the wall were a tumult of fear, anger, shock—and, finally, confusion over what to do.
 
 That confusion could mean only one thing.
 
@@ -290,19 +290,19 @@ The Great Nation’s imperial court wasn’t so easily fooled.
 
 That was probably how Dark Heaven had brought them into line. Now I had their carrots and sticks in my hands.
 
-“There’s one thing I can promise you, at least.”
+“There’s one thing I can promise you.”
 
-I spoke up abruptly, then addressed all the Imperial Guards.
+I addressed all the Imperial Guards.
 
-“If you side with the imperial court now, I’ll make sure you don’t end up as traitors, one way or another.”
+“If you side with the imperial court now, I’ll find some way to keep you from being branded traitors.”
 
 As soon as I finished speaking, I reached out toward an Imperial Guard officer approaching from a blind spot, his killing intent unmistakable.
 
 *Whoosh. Thud.*
 
-A whistle cut through the air. One more corpse was added to the count.
+Something whistled through the air. There was one more corpse on the wall.
 
-I pointed at the body lying there, a Finger Qi hole through its brow, and added calmly,
+I pointed to the officer lying there with his brow pierced by Finger Qi.
 
 “Anyone who doesn’t like my offer, raise your hand.”
 
@@ -312,7 +312,7 @@ I pointed at the body lying there, a Finger Qi hole through its brow, and added 
 
 No one raised a hand. I jumped down from the stone wall.
 
-Of course, I didn’t forget one last thing I absolutely had to say.
+But I didn’t forget one last thing they needed to hear.
 
 “Oh, and if there’s someone you know is a real bastard, cut him down right now.”
 

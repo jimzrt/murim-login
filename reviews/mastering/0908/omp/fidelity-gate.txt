@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled copy is largely faithful, but it changes the request for further explanation and omits a brief action and emotional image preserved in the source and accepted baseline.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 221–222",
+      "current": "If you need to add anything, spit it out yourself.",
+      "defect": "The source asks whether he needs any further explanation, not whether he has something to add. This changes the target of the taunt.",
+      "replacement": "If you need more explanation, spit it out yourself.",
+      "rationale": "The Korean says “혹시 부연 설명이 더 필요하면” (“if you need further explanation”). The accepted baseline also preserves that meaning.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 315–317",
+      "current": "Fear and anger, shock. And, last of all, confusion at not knowing what to do.",
+      "defect": "The assembled copy omits someone sucking in a breath and the narrator sensing a whirl of emotions from the guards.",
+      "replacement": "Someone sucked in a breath. I sensed a whirl of emotions from the countless guards crowding the top of the wall. Fear and anger, shock. And, last of all, confusion at not knowing what to do.",
+      "rationale": "The source explicitly describes both the swallowed breath and the narrator sensing a swirl of emotions from the men on the wall; both details appear in the accepted baseline.",
+      "confidence": 0.99
+    }
+  ]
+}
