@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled English is faithful overall, with one minor omitted action and narration beat.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 259–261",
+      "current": "It suddenly occurred to me that I didn’t know where this road led. But that thought was quickly buried by the conversation with the Slaughter Saint that came to mind.",
+      "defect": "The translation omits that the narrator muttered to himself and kept walking before realizing he did not know where the road led.",
+      "replacement": "I muttered to myself and kept walking. It suddenly occurred to me that I didn’t know where this road led. But that thought was quickly buried by the conversation with the Slaughter Saint that came to mind.",
+      "rationale": "The source explicitly says “내심 뇌까리며 계속해서 발걸음을 옮겼다” before the thought about the road. The accepted baseline preserves this beat; the assembled copy drops it.",
+      "confidence": 0.99
+    }
+  ]
+}

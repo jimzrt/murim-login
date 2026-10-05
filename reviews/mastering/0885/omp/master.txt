@@ -1,6 +1,6 @@
 # Chapter 885
 
-Naturally, there was no moving reunion beyond that.
+Naturally, there was no more touching reunion than that.
 
 We’d only been apart for a few days, and we couldn’t exactly acknowledge each other here.
 
@@ -30,7 +30,7 @@ But…
 
 *They’re different.*
 
-It was an instinct honed through countless real battles and brushes with death—so subtle that I wouldn’t have noticed it if I hadn’t reached my current realm.
+I could sense something faintly off about them. It was the sort of instinct honed through countless battles and brushes with death, and they’d hidden whatever it was so well that I might not have noticed it before reaching my current realm.
 
 *They’re not ordinary laborers.*
 
@@ -42,7 +42,7 @@ It was like a brand no amount of washing could remove. The sour smell of sweat a
 
 *Martial artists?*
 
-Were they martial artists who’d voluntarily taken Energy-Dispersing Poison to hide their internal energy? Or was it just my imagination, brought on by the fact that I had to be sensitive to everything happening around me right now?
+I wasn’t certain yet. Had they taken Energy-Dispersing Poison to hide their internal energy? Or was I imagining things because the situation had me alert to everything around me?
 
 *I’ll know if I check.*
 
@@ -86,7 +86,7 @@ He saw my smile and bowed again, flustered.
 
 For an instant, something shifted among the laborers coming over to clear the mess. In a pause too brief for anyone else to notice, the old man slowly opened his mouth.
 
-“If you’d help us, we’d be very grateful.”
+“If you’d help us, I’d be grateful.”
 
 “Then that’s settled.”
 
@@ -120,7 +120,7 @@ He didn’t look surprised. He frowned, sniffed at various parts of himself, and
 
 “That’s there too. Since you brought it up, could we put a little distance between us? I’m having trouble breathing.”
 
-“I thought you were just skilled in martial arts, but you’ve got a hell of a nose, too.”
+“I knew you were skilled in martial arts. Seems you have one hell of a nose, too.”
 
 “You know me?”
 
@@ -142,9 +142,9 @@ He grinned, releasing a terrible stench from between his blackened, yellow teeth
 
 “Kill a hundred and you’re a Killing Ghost. Kill a thousand and they call you a hero. Kill ten thousand and you become… a king.”
 
-My mouth felt gritty, like I’d been chewing sand. I stared at the old man, whose breath stank right in my face.
+My mouth felt gritty, as though I’d chewed a handful of sand. I stared at the old man and his foul breath.
 
-*What the hell is this?*
+*What the hell is he?*
 
 Something about him felt wrong. Just facing him sent a chill down my spine. Even in Murim, with every sort of person roaming it, you rarely came across someone like this.
 
@@ -170,7 +170,7 @@ The old man stared at me, eyes wide, then burst out laughing.
 
 I trailed off as a thought struck me.
 
-“No way…”
+“No way.”
 
 “Eunuch Ma. Is that answer enough?”
 
@@ -184,7 +184,7 @@ The old man rose and bowed to me.
 
 It was a clear dismissal—and a performance for whoever might be watching us. No, calling it a performance almost did him a disservice. He *was* an old laborer, every movement perfectly in character.
 
-“Please get back safely, sir. Then this old servant will be off…”
+“Please go on ahead, sir. I’ll be getting back to work…”
 
 Step. Step.
 
@@ -198,13 +198,13 @@ Even in all of Murim, only a few sorts of people could hide themselves and move 
 
 Even martial artists, surrounded as they were by lunatics and people with no sense of self-preservation, had certain sorts they preferred to avoid. The same few always made the list.
 
-Killing Ghosts. Fiends. Mysterious old men. Beautiful women in veils.
+Killing Ghosts. Fiends. Old men who looked like they were somebody. Beautiful women in veils.
 
 Like Japan’s legendary first-string team, they weren’t easy to find. But martial artists with a shred of sense and dreams of retiring to a village for the elderly someday knew to steer clear.
 
 Why? Simple.
 
-Even messing with them—and sometimes just being near them—made a sense of doom creep over you.
+Mess with one—or just stand too close—and you could feel the bad luck creeping up on you.
 
 And right up there with Killing Ghosts and fiends, among the three most avoided professions, were assassins.
 
@@ -216,7 +216,7 @@ His sobriquet was the Slaughter Saint, which made it a little ironic.
 
 *Actually, that’s well past ironic. It’s practically black comedy.*
 
-It suddenly occurred to me that I didn’t know where this road led. But that thought was quickly buried by the conversation with the Slaughter Saint that came to mind.
+I kept walking. For a moment, it occurred to me that I didn’t know where this path led, but the thought vanished beneath the memory of that conversation.
 
 *“A Killing Ghost or a fiend would be better. But whatever you do, stay away from assassins.”*
 
@@ -236,7 +236,7 @@ It suddenly occurred to me that I didn’t know where this road led. But that th
 
 *“You’ve gotten a little smarter.”*
 
-*“Thank you. Hmm. First, I’d watch the Killing Ghost or fiend, then carefully…”*
+*“Thank you. Hmm. First, I’d watch the Killing Ghost or fiend carefully, then…”*
 
 *“Yes. Your first priority is to carefully get out of there.”*
 
@@ -246,15 +246,15 @@ It suddenly occurred to me that I didn’t know where this road led. But that th
 
 The Slaughter Saint had looked up at the sky and sighed. Then he’d hit me on the head a couple of times with that rock-breaking fist before continuing.
 
-*“To put it more simply, Killing Ghosts and fiends are no different from madmen who don’t think about the consequences.”*
+*“Put simply, Killing Ghosts and fiends are madmen who act without thinking.”*
 
 *“Ow, my head. Doesn’t that make them more dangerous? Like you said, if I met one at an inn, the whole place could turn into a sea of blood.”*
 
 *“But you’d still have a good chance of surviving.”*
 
-*“Well, sure, if your martial skill is high enough…”*
+*“Well, sure, if you’re strong enough…”*
 
-*“It has nothing to do with skill. You can never predict people like that. They kill or spare people on a whim.”*
+*“Strength has nothing to do with it. Those lunatics are impossible to predict. They kill or spare people depending on their mood.”*
 
 *“They really are crazy.”*
 
@@ -264,7 +264,7 @@ The Slaughter Saint had looked up at the sky and sighed. Then he’d hit me on t
 
 *“Now you’re beginning to understand. They aren’t merely madmen. They’ll do anything to kill their target. That’s how an assassin can kill a master a level or two above them.”*
 
-*“They’ll do anything to assassinate their target…”*
+*“They’ll do anything to kill their target…”*
 
 *“That’s why you must be most wary of assassins and keep your distance. Understood?”*
 
@@ -286,10 +286,10 @@ Man, I got beaten up a lot that day.
 
 Then again, that was why I remembered the advice so clearly. And now I’d run into those very assassins in the middle of the imperial palace.
 
-*If Ma Sanbao was going to bring in martial artists, why bring assassins into the imperial palace?*
+*If Ma Sanbao was going to bring in martial artists, why choose assassins?*
 
-Just as a question I couldn’t answer right away rose in my mind—
+The question would have to wait.
 
 “Stop.”
 
-A clear, bright voice pierced my ears.
+A clear voice rang in my ears.
