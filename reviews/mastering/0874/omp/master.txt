@@ -2,7 +2,7 @@
 
 Perhaps the outcome had been decided long ago.
 
-The imperial palace, a perfect enemy stronghold. A guard so tight that even “ironclad” didn’t do it justice. And the Emperor, ruler of all under heaven.
+The imperial palace was enemy territory through and through. Its security was so tight that even “ironclad” didn’t do it justice. And at its center stood the Emperor, ruler of all under heaven.
 
 He had taken charge of the stage, the actors, and the direction himself. Even if a character like me stepped into the scene, it probably wouldn’t change much.
 
@@ -16,7 +16,7 @@ And why look at my rigid face now and sneer?
 
 Crack.
 
-A bone shifted with a sound from my tightly clenched fist. I scanned the impassive eyes visible above the assassins’ pitch-black masks, weighing my options.
+Bones ground together in my tightly clenched fist. I scanned the impassive eyes above the assassins’ pitch-black masks, weighing my options.
 
 *What do I do?*
 
@@ -28,7 +28,7 @@ Perhaps he was confident that no one under heaven could harm him.
 
 If so, he’d made a clear mistake.
 
-Even barehanded, I was a superhuman who had opened my Middle Dantian, an heir to the Fire Gate Clan who had inherited the Fire King Jeok Cheongang’s fearsome fist, palm, and finger techniques.
+Even barehanded, I was a superhuman who had opened my Middle Dantian. I was the heir to the Fire Gate Clan, trained in the fearsome fist, palm, and finger techniques of the Fire King Jeok Cheongang.
 
 *All I have to do is take their weapons.*
 
@@ -36,7 +36,7 @@ With every shift of my gaze, a path invisible to anyone else took shape in my mi
 
 A path to kill the assassins as quickly and efficiently as possible, then escape with Prince Shangshan.
 
-The fact that the Emperor was a master who had entered the realm of Supreme Peak was unexpected, but that was all.
+The Emperor’s mastery of Supreme Peak had caught me off guard, but that was all.
 
 *He’s only just entered Supreme Peak. What if I’m willing to sacrifice an arm to capture him first?*
 
@@ -50,7 +50,7 @@ Perhaps even Baek Yeon, Commander of the Embroidered Uniform Guard.
 
 Once I started, there would be no going back. That would be the beginning of a true rebellion.
 
-If I took the Emperor hostage and fled Qianqing Palace, would the East Depot, led by Ma Sanbao, help us? Were the people who had signed the collective pledge he’d mentioned the night before fully prepared?
+If I took the Emperor hostage and left Qianqing Palace, would the East Depot, led by Ma Sanbao, help us? Were the people who had signed the pledge he’d mentioned the night before fully prepared?
 
 As thoughts tangled through my mind—
 
@@ -72,7 +72,7 @@ It was because I could read the desperate plea in that young prince, so small he
 
 *Don’t step in any further.*
 
-It was as if a voice I couldn’t hear, a voice that couldn’t be heard, had sounded in my ear.
+I could almost hear him, though he hadn’t made a sound.
 
 Prince Shangshan was trying to stop me. He had stepped forward before I could make a choice that couldn’t be undone.
 
@@ -108,7 +108,7 @@ The answer was clear. We had to retreat when we weren’t prepared.
 
 *At least for today.*
 
-The Emperor watched me and smacked his lips, then suddenly spoke.
+The Emperor smacked his lips as he watched me, then spoke.
 
 “Now that you’ve decided, there’s no need for further discussion. This audience is over. Everyone, withdraw.”
 
@@ -142,7 +142,7 @@ I hadn’t thought far enough ahead. When he was still known as the Fourth Princ
 
 Such boldness and decisiveness were beyond anything an ordinary person could dream of.
 
-The thought suddenly crossed my mind: if I’d made a move, I would never have left Qianqing Palace alive.
+If I had made a move, I would never have left Qianqing Palace alive.
 
 *Damn it.*
 
@@ -182,15 +182,15 @@ It was simple enough to understand why none of the people assigned to accompany 
 
 *They’ve trained in martial arts. And to a considerable level, too.*
 
-Every one of them had the internal energy of a First Rate master.
+Every one of them was a First Rate master with a substantial store of internal energy.
 
 I also recognized the thin belts at their waists for what they were: flexible swords.
 
-And I couldn’t help guessing that if the Emperor gave the order, they’d be ready to drive those blades into Prince Shangshan’s neck at any moment.
+If the Emperor gave the order, those blades could be at Prince Shangshan’s throat in an instant.
 
 *There’s no time.*
 
-I was getting anxious. I had to meet Hong Jin as soon as possible and make a plan. I had to see through the Emperor’s hidden intentions, to discern his scheme.
+I had to meet Hong Jin as soon as possible and come up with a plan. I had to figure out what the Emperor was hiding—what he intended to do.
 
 “Your Highness.”
 
@@ -198,25 +198,25 @@ Prince Shangshan lifted his head at my call. He looked at me with calm eyes. Whe
 
 “I’d like you to give us a moment.”
 
-Working as a palace attendant in Qianqing Palace meant that they, too, were among the Emperor’s many loyal servants.
+Anyone serving as an attendant in Qianqing Palace was one of the Emperor’s many loyal subjects.
 
 But after a moment’s thought, So Gyo quietly led the others away through the maze of corridors.
 
 Only then did Prince Shangshan manage a smile.
 
-“Speak. Though we may not meet again for some time, understand that the circumstances aren’t right for a long farewell.”
+“Speak. Though we may not know when we’ll meet again, I hope you understand that we haven’t time for a long farewell.”
 
 There was something about a child who had grown up too soon that brought a lump to your throat.
 
 But I couldn’t let my emotions take over.
 
-I swallowed the words rising to my throat and held out my hand.
+I swallowed the words rising to my lips and held out my hand.
 
 “First, take this.”
 
 “……?”
 
-“Come on. There’s no time.”
+“Please. There’s no time.”
 
 Prince Shangshan hesitated, then took what I offered. When he saw the small, glimmering object in his palm, his eyes widened.
 
@@ -274,7 +274,7 @@ A few days ago, he’d even pestered me to give it to him.
 
 *“I believe your father is still alive.”*
 
-*“……Now that you mention it, I think it was my mother’s keepsake. I was mistaken.”*
+*“……Now that you mention it, it was my mother’s keepsake. I got confused.”*
 
 The Myriad-Poison Ring was never supposed to end up in anyone else’s hands.
 
@@ -312,7 +312,7 @@ Only then did I feel a little more at ease.
 
 The Emperor had seized the throne through a coup more than a decade ago, earning countless enemies in the shadows and no shortage of condemnation.
 
-The Emperor cared enough about having a legitimate pretext to summon Prince Shangshan to the imperial capital before bringing him under his control. If he meant to kill his one and only younger brother, the most likely method was poison.
+He cared enough about appearances to summon Prince Shangshan to the Imperial Capital before bringing him under his control. If he meant to kill his one and only younger brother, poison was the likeliest method.
 
 *As long as Prince Shangshan keeps the Myriad-Poison Ring on him, poisoning him won’t be an option.*
 
@@ -342,4 +342,4 @@ I bent down to meet his eyes.
 
 I grinned and ruffled Prince Shangshan’s hair.
 
-The young prince stared blankly at me with wide eyes, then smiled, too.
+He stared at me with wide eyes, then smiled, too.

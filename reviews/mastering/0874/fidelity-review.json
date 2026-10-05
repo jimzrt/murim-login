@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "He had taken charge of the stage, the actors, and the direction himself.",
+      "defect": "The Korean explicitly says he alone took charge of the stage, actors, and direction. “Himself” does not preserve that emphasis, which the accepted baseline retained.",
+      "id": "F01",
+      "rationale": "그 홀로 emphasizes that the Emperor did all of it alone.",
+      "replacement": "He alone had taken charge of the stage, the actors, and the direction.",
+      "severity": "minor",
+      "source": "Lines 9–10"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The air rippled in answer.",
+      "defect": "This makes the ripple sound like the assassin’s answer. The source says the empty air rippled in place of a reply, which is what the narrator sees instead of hearing an answer.",
+      "id": "F02",
+      "rationale": "대답 대신 means “in place of an answer”; the rippling air is the visible sign of No Shadow’s presence, not a literal reply.",
+      "replacement": "The empty air rippled in place of an answer.",
+      "severity": "minor",
+      "source": "Lines 125–127"
+    }
+  ],
+  "summary": "The assembled copy is largely faithful, but it drops one explicit emphasis and changes the meaning of the assassin’s silent response.",
+  "version": 1
+}
