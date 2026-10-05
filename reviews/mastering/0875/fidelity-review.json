@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "her face was the sort I’d remember for a long time after a single meeting.",
+      "defect": "The Korean says the woman herself would likely remain in his memory after one meeting; it does not specify that her face is what he would remember.",
+      "id": "F01",
+      "rationale": "The source describes 어느 여인 as memorable without identifying her face as the remembered feature.",
+      "replacement": "but she was the sort of woman I’d remember for a long time after a single meeting.",
+      "severity": "minor",
+      "source": "Korean lines 57–58"
+    }
+  ],
+  "summary": "One minor source-fidelity issue: the translation specifies what the narrator remembers when the Korean leaves it unspecified.",
+  "version": 1
+}

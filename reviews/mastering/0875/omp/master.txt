@@ -6,7 +6,7 @@ Before long, the palace attendants returned. They surrounded Prince Shangshan an
 
 *For now, this is the best I can do.*
 
-I thought to myself as I watched the young prince’s back, glimpsed now and then between the attendants.
+I watched the young prince, catching glimpses of his back between the attendants.
 
 How much time did that child have left?
 
@@ -16,9 +16,9 @@ If I’d gained anything from this audience, it was confirmation that the Empero
 
 *His coup has already made him plenty of enemies. He can’t get rid of his youngest brother the same way.*
 
-Everything needs at least some pretext.
+Everything needed at least some pretext.
 
-Even in an era of absolute monarchy, with the Emperor ruling over all, that was no exception. And the Emperor, who’d brought a bloody storm to the imperial palace more than a decade ago, had dangers lurking out of sight.
+Even in an absolute monarchy, with the Emperor ruling over all, that still held true. The Emperor had brought bloodshed to the imperial palace more than a decade ago, and dangers he couldn’t see remained.
 
 Old retainers who longed for the late Emperor.
 
@@ -30,9 +30,9 @@ If Prince Shangshan died under unnatural circumstances now, it would give someon
 
 No one knew exactly how far the Myriad-Poison Ring’s power extended.
 
-But it was a divine treasure that had even absorbed the Formless Ultimate Poison that once spread through Jeok Cheongang’s body. Even the Emperor wouldn’t have an easy time obtaining poison of that caliber.
+But it had absorbed even the Formless Ultimate Poison that once spread through Jeok Cheongang’s body. Even the Emperor would have trouble finding a poison potent enough to overcome a treasure like that.
 
-Unless he eventually discovered the Myriad-Poison Ring and took it by force.
+Unless he discovered the ring and took it by force.
 
 *But I’ve bought us some time, at least.*
 
@@ -40,7 +40,7 @@ Did I regret leaving the Myriad-Poison Ring with Prince Shangshan?
 
 No.
 
-From everything I’d seen so far, the Emperor and Dark Heaven were definitely connected somehow, and if the imperial family fell into their hands, it was all over.
+From everything I’d seen so far, the Emperor and Dark Heaven were deeply connected somehow. If the imperial house fell into their hands, it was over.
 
 I had to protect Prince Shangshan, even at the risk of losing the ring.
 
@@ -50,7 +50,7 @@ And he was one of the friends I’d made here.
 
 *Though there’s a bit of an age gap for me to call him a friend.*
 
-I smiled bitterly and watched until Prince Shangshan and his party disappeared from sight.
+I smiled bitterly and watched until Prince Shangshan and his attendants disappeared from sight.
 
 When I turned away, heavy-hearted, a woman stood quietly watching me. I still wasn’t used to seeing her, but her face was the sort I’d remember for a long time after a single meeting.
 
@@ -76,17 +76,17 @@ I’d barely taken a few steps after her when I frowned.
 
 Of course I did. I’d made a point of checking my escape route in case the worst happened.
 
-“Don’t just say it is. I’m telling you we’re going the wrong way.”
+I stared at her. “You can’t just say it is. We’re going the wrong way.”
 
 “The way into Qianqing Palace is different from the way out.”
 
 “What?”
 
-“The life gate can become the death gate, and the death gate can become the life gate. Since you’re a martial artist who travels the martial world, Young Master Jin, I thought you would understand what that means.”
+“The life gate can become the death gate, and the death gate the life gate. You travel the martial world, Young Master Jin. I thought you would understand.”
 
 “……!”
 
-I fell silent. A word flashed through my mind like a bolt of lightning.
+I fell silent. One possibility flashed through my mind.
 
 “Don’t tell me…mechanisms and formations?”
 
@@ -94,7 +94,7 @@ So Gyo gave a slight nod and started walking again. I stared after her for a mom
 
 *Damn it. Even for an Emperor, this is ridiculous. This isn’t a residence. It’s an impregnable fortress.*
 
-There were no fewer than three Supreme Peak masters stationed in Qianqing Palace, not counting the Emperor.
+There were three Supreme Peak masters stationed in Qianqing Palace, not counting the Emperor.
 
 One was a master of the concealment technique who guarded him at close range. And even by a conservative estimate, more than a hundred elite assassins were stationed throughout the palace.
 
@@ -126,23 +126,23 @@ His formidable martial prowess. His face, which looked ten years older than it s
 
 *Was that why?*
 
-Supreme Peak was a lofty realm no one could enter through innate talent alone.
+Supreme Peak was a lofty realm no one could reach through talent alone.
 
-And yet the ruler of the continent, who had everything anyone could want, had sweated blood to learn martial arts.
+Yet the ruler of the continent, who wanted for nothing, had sweated blood to master martial arts.
 
-He must have swung weapons without pause, like the martial artists of the martial world he called ruffians. At times, he must have groaned under pain that racked his whole body.
+Like the martial artists he called ruffians, he must have swung weapons tirelessly and, at times, groaned through pain that racked his whole body.
 
 Even so, it seemed he had never entirely shaken his fear of assassination or his nightmares.
 
-*It’s only a guess, but it’s certainly possible.*
+*It’s only a guess, but it’s possible.*
 
 I’d taken countless lives with these hands. I thought I could understand a little of what he felt.
 
 There was no such thing as a justifiable killing. Only a killing with a pretext.
 
-I’d comforted myself by saying I’d had no choice, that they were people I had to defeat. But that didn’t change the truth.
+I often told myself I’d had no choice, that the people I’d killed had to be stopped. But that didn’t change what I’d done.
 
-The countless dead would come to torment me from time to time—maybe even quite often—and I’d wake up drenched in cold sweat.
+The dead came back to torment me sometimes—maybe even often—and I’d wake drenched in cold sweat.
 
 So what must it be like for an Emperor who’d killed tens of thousands in a coup with no pretext at all?
 
@@ -154,9 +154,9 @@ I was starting to get a bad feeling.
 
 “Um, can I ask you something?”
 
-So Gyo stopped and turned around. At the same time, she spoke without hesitation.
+So Gyo stopped and turned. Before I could say more, she spoke.
 
-“Of course.”
+“You needn’t worry.”
 
 “What?”
 
@@ -234,13 +234,13 @@ Shhk-shhk-shhk!
 
 In an instant, a dozen or so blades dropped from the high ceiling and surrounded me.
 
-Black masks as dark as the shadows, with the eyes of killers visible above them.
+Pitch-black masks, and above them, the eyes of killers.
 
-Surrounded in a flash by the assassins of Qianqing Palace, I spoke in a low, heavy voice.
+I looked at the Qianqing Palace assassins encircling me and spoke in a low voice.
 
 “You said nothing unfortunate would happen.”
 
-So Gyo put a hand on the flexible sword at her waist. “It won’t. As long as you turn around and leave quietly.”
+So Gyo put a hand on the flexible sword at her waist. “It won’t. If you turn around and come with me quietly.”
 
 “I heard a strange noise and wanted to look. Why are you so touchy?”
 
@@ -268,13 +268,13 @@ So Gyo let out a small sigh and dismissed the assassins. I watched them withdraw
 
 There was no need to invite any more danger here.
 
-Though I’d been stopped in no time, I’d already accomplished what I’d set out to do.
+I’d been stopped almost immediately, but I’d already learned what I needed to know.
 
 I’d heard that woman’s sharp cry clearly.
 
-And it reminded me of someone’s voice I’d heard a few months ago at the residence of the City Lord of Sichuan Province.
+And it had reminded me of a voice I’d heard a few months ago at the residence of the City Lord of Sichuan Province.
 
-It had been so sweet and dripping with seduction that I couldn’t have forgotten it.
+A voice so sweet and full of practiced allure that I couldn’t have forgotten it.
 
 *What was her name…?*
 
