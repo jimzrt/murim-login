@@ -52,7 +52,7 @@ History had proven how fickle and suspicious those in power could be.
 
 And the current Son of Heaven was undeniably a tyrant. A usurper who had defied the natural order and climbed to the throne through blood, a ruler who wielded absolute power.
 
-Whether I became a traitor might already be out of my hands.
+So when I heard Ma Sanbao’s words, I began to understand. Whether I became a traitor might already be out of my hands.
 
 *Of course, I won’t deny that I had a hand in their deaths. No—I led the way. I had to survive, whatever it took. I had to stay here and wait for the right moment.*
 
@@ -62,7 +62,7 @@ Hong Jin was one of the former. Ma Sanbao was one of the latter.
 
 He became the fourth prince’s—no, the new Emperor’s—hunting dog.
 
-He was one of the cruelest of them, sinking his teeth into his targets’ necks without mercy. He survived that brutal purge and rose to become the East Depot’s second-in-command, its Brush-Holding Eunuch.
+Crueler than anyone, he tore into his targets without mercy. He survived the brutal purge and rose to become the East Depot’s second-in-command, its Brush-Holding Eunuch.
 
 And Ma Sanbao wasn’t the only one who had survived that way.
 
@@ -78,7 +78,7 @@ Cang Gong, the East Depot’s head and its Seal-Holding Eunuch, had urged his li
 
 The pledge.
 
-Clear proof that the traitors had signed their names in their own blood—and perhaps a record of the names of the meritorious officials who would one day enthrone a new Son of Heaven.
+Clear proof that the traitors had signed their names in their own blood—and perhaps a record for history of the people who would one day be credited with enthroning a new Son of Heaven.
 
 Ma Sanbao had mentioned the pledge before he left. Then he’d said something that was bound to keep me awake all night.
 
@@ -136,13 +136,13 @@ I groaned from the depths of my soul.
 
 Of all people, this idiot was my right-hand man—or rather, my pinky toe.
 
-Things were serious enough as it was, and with him like this, I’d hit a proper moment of clarity. At this point, I was starting to wonder if Dark Heaven had sent him as an ascension-to-immortality hitman to make sure I left this world early.
+Things were serious enough already. With him acting like this, I’d reached a whole new level of post-nut clarity. I was starting to wonder if Dark Heaven had hired him to send me ascending to immortality ahead of schedule.
 
 *No System. No one I can rely on right now, either.*
 
 Thinking about it, I’d been pretty lucky until now.
 
-The System had always pointed me toward where I needed to go, even if it did so vaguely through Quests. And whenever I wavered, Jeok Cheongang had been a sturdy pillar I could trust and lean on.
+The System had always pointed me toward where I needed to go, however vaguely, through Quests. And whenever I wavered, Jeok Cheongang had been someone I could trust and lean on.
 
 Now I had neither.
 
@@ -156,7 +156,7 @@ Ma Sanbao’s words echoed in my ears. So did what he’d said at the end.
 
 What exactly did he know? How had he learned so much? What connection was there between the information he’d uncovered about Dark Heaven and the Son of Heaven, and how dangerous was it?
 
-I’d wanted to stop Ma Sanbao, who seemed determined to leave, and press him for more answers. But I held back, imagining the Embroidered Uniform Guard receiving a Buster Call and rushing over the moment I caused a commotion.
+I’d wanted to stop Ma Sanbao as he left and press him for answers. But I’d held back, thinking of the Embroidered Uniform Guard getting a Buster Call and rushing over the moment I caused a commotion.
 
 Or maybe I’d let him go because I was still trying to grasp the weight of what he’d said afterward.
 
@@ -176,9 +176,9 @@ No, looking at things now, the reason was obvious.
 
 *It never had a reason to.*
 
-There was no need to count the forces across the entire world. A million elite troops were stationed near the imperial capital alone, and I’d seen hundreds of Peak masters with my own eyes.
+There was no need to count its forces across the entire land. Nearly a million elite troops were stationed around the imperial capital alone, and I’d seen hundreds of Peak masters with my own eyes.
 
-And if you included the forces that hadn’t yet come to light—especially the Supreme Peak masters……
+Add the forces that hadn’t yet been revealed—especially the Supreme Peak masters—and…
 
 *The imperial capital alone is already far stronger than the Murim Alliance.*
 
@@ -196,7 +196,7 @@ Even during the Great Faction War, they had watched.
 
 The scales of victory would tip in an instant.
 
-Until now, the fight had been between the Central Plains’ Murim and Dark Heaven. If the Great Nation joined in, Dark Heaven would become an external enemy hated by all under heaven.
+Until now, the fight had been between the Central Plains’ Murim and Dark Heaven. Once the Great Nation joined in, Dark Heaven would become an enemy of all under heaven.
 
 I still couldn’t gauge Dark Heaven’s full strength. But the weight carried by the words “Great Nation” was immense and undeniable.
 
@@ -222,7 +222,7 @@ Right. Including this idiot.
 
 “…Mujin. You little shit.”
 
-Hyuk Mujin opened his eyes naturally and spoke.
+Hyuk Mujin opened his eyes as if he’d been awake all along.
 
 “I wasn’t asleep.”
 
@@ -252,13 +252,13 @@ Orderly movement. A sharp aura.
 
 The Embroidered Uniform Guard.
 
-Hyuk Mujin stared at the golden-armored guards entering the pavilion and asked, wide-eyed,
+Hyuk Mujin stared at the golden armor entering the pavilion, wide-eyed.
 
 “Did the Emperor really wake up because of me?”
 
 “……”
 
-Should I really kill him?
+Should I kill him?
 
 I let out a deep sigh.
 
