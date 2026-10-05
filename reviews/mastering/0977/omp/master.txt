@@ -2,7 +2,7 @@
 
 Shame was only one of the many emotions every human being felt, but its weight varied enormously from person to person.
 
-For a slave scorned from the moment they were in their mother’s womb, shame might be no different from fate. For the noble and the wealthy, it could tear at the heart more cruelly and sharply than any blade.
+For a slave scorned since before birth, shame might be no different from fate. For the noble and wealthy, it could cut into the heart more cruelly than any blade.
 
 And the North Heaven Demon Lord was very much the latter.
 
@@ -10,23 +10,23 @@ And the North Heaven Demon Lord was very much the latter.
 
 A face and voice full of concern.
 
-And a smile whose lopsidedly raised corners made that concern look all the more absurd.
+And one corner of Jin Taekyung’s mouth crooked upward, making that concern look absurd.
 
 “I was so worried. I thought I might’ve lost you for good.”
 
-With every mocking word Jin Taekyung spoke, the North Heaven Demon Lord’s eyelids twitched.
+With every mocking word Jin Taekyung spoke, the North Heaven Demon Lord’s eyes twitched.
 
 As if walking into an obvious trap of his own accord weren’t bad enough, now he was being treated like a dog that had run away from home.
 
 The shame and despair gripping him were unlike anything he had ever felt before.
 
-“How dare a nobody like you—”
+“How dare someone like you—”
 
 “Shut up.”
 
 Jeok Cheongang appeared beyond the thinning cloud of dust, cutting the North Heaven Demon Lord off. His gaze had gone cold and deep.
 
-“Who do you think you are, running your mouth like that? You’re a nobody.”
+“Who gave you leave to run your mouth? You, of all people.”
 
 The North Heaven Demon Lord gritted his teeth.
 
@@ -96,7 +96,7 @@ One was a member of the Three Saints, known throughout the world. Another was an
 
 *This can’t be happening. It can’t.*
 
-The words slipped out alone from a hollow corner of his heart.
+The thought rose from a hollow place in his heart.
 
 Then, at some point, the trembling in the North Heaven Demon Lord’s eyes subsided. His gaze settled.
 
@@ -106,7 +106,7 @@ Jin Taekyung shot back without hesitation.
 
 “Do you people go around memorizing speeches or something? Is there a punishment if you get even one word wrong? Your internal energy gets confiscated for a week?”
 
-“Say whatever you want. It makes no difference. That is the only truth.”
+“Say whatever you want. That is the only truth.”
 
 “We’ve done a pretty good job stopping you so far, though. Today included.”
 
@@ -130,7 +130,7 @@ Jeok Cheongang’s voice was cold. He looked ready to burn the man alive on the 
 
 “Don’t rush, Fire King. Even if you don’t hurry me, we don’t have much time left.”
 
-With his mind emptied, his voice was calm as well. The North Heaven Demon Lord looked inward, contemplating the energy that remained in his body, and continued.
+With his mind emptied, his voice was calm as well. The North Heaven Demon Lord turned his attention to the energy remaining in his body and continued.
 
 “Half a year at most. That’s all.”
 
@@ -140,33 +140,33 @@ It had begun the day the absolute ruler in the darkness awoke from a long slumbe
 
 No—long before that.
 
-“Power beyond anything the hundred thousand followers of the Demonic Path possessed. Unbelievable powers. ‘A new heaven’ refers to that person.”
+“A force beyond comparison with the Hundred Thousand Demonic Disciples. Power beyond belief. He is the one they call a new heaven.”
 
 Everyone there knew whom the North Heaven Demon Lord meant.
 
 “The Lord of Heaven…”
 
-The Bow Saint murmured to herself, then lifted her clear eyes to look at the North Heaven Demon Lord.
+The Bow Saint murmured the title, then lifted her clear eyes to meet his.
 
 “Was that why you abandoned the comrades who shared life and death with you, and betrayed the world?”
 
 “Comrades? Did you just call them comrades?”
 
-The North Heaven Demon Lord suddenly burst into a hearty laugh.
+The North Heaven Demon Lord suddenly burst into laughter.
 
 Comrades. People who walked the same path.
 
-The meaning held in those two words—their utterly worthless value and the past they called to mind—made him laugh in spite of himself.
+The meaning of the word, the worthless value attached to it, and the past it called to mind drew another laugh from him.
 
-“It seems you lived in a different world from me. Well, what could you possibly know, when you shut yourselves away in remote mountain valleys without roots, turning your backs on the world?”
+“You must have lived in a different world from me. But then, what could you possibly know? You had no roots anywhere. You shut yourselves away in remote mountain valleys and turned your backs on the world.”
 
 His bloodshot eyes moved over Jeok Cheongang and the Bow Saint in turn.
 
-Neither of them had been known by name before the Great Faction War. They had been eccentric, reclusive masters.
+Before the Great Faction War, neither had even been known by name. They had been strange, reclusive figures.
 
 But the North Heaven Demon Lord—Murong Baek—was different.
 
-As a direct descendant of the Murong Family, one of the Five Great Families, he had seen the world. He had to wage covert battles against others who shared the same orthodox fold.
+As a direct descendant of the Murong Family, one of the Five Great Families, he had lived in the world. He had fought covert battles against the others within the same fold.
 
 “Everyone smiled and spoke of righteousness while hiding unseen blades in their sleeves. Is that what you call comrades? Is this the orthodox faction?”
 
@@ -182,7 +182,7 @@ Chivalry had lost more and more of its worth, while the orthodox faction—inclu
 
 Taking in countless lay disciples to expand the sects under their control had become commonplace.
 
-Some even committed the taboo of bringing the unorthodox faction into their fold. Others caused numerous casualties in clashes waged in secret.
+Some broke the taboo against bringing unorthodox groups into their fold. Others left casualties behind after clashes fought in secret.
 
 Expansion ended in an explosion.
 
@@ -200,9 +200,7 @@ The North Heaven Demon Lord looked down at the pool of blood beneath his feet.
 
 He had the handsome features of a man who had spent his life as the Family Head of a prestigious great family, and the authority and strength to match.
 
-Yet even after all the years the Murong Family had been rooted in Liaoning Province, the faint traces of his foreign ancestry still flowed through his veins.
-
-Enough to bring to mind, for a moment, the face of Jamukha lying dead.
+Yet despite all the years the Murong Family had been rooted in Liaoning Province, faint traces of his foreign ancestry remained. Enough that a glimpse of his face might bring to mind Jamukha, lying dead nearby.
 
 “Nomad?”
 
@@ -220,7 +218,7 @@ Long ago, the northeastern people called the Murong Xianbei had occupied the edg
 
 It was an age of chaos.
 
-Five foreign peoples and sixteen small kingdoms stood divided across the land.
+Five foreign peoples and sixteen small kingdoms had struggled for power.
 
 But the divided land eventually found stability, and the invaders who had used the turmoil to charge across the continent with lances and composite bows were either driven beyond the Great Wall or absorbed.
 
@@ -236,7 +234,7 @@ Their peerless martial arts and superb horsemanship had made them a towering for
 
 “Sometimes I wondered: if the Great Faction War had never happened, would the Murong Family have survived to this day?”
 
-Expansion ended in an explosion, but the aftermath of an explosion beyond anyone’s imagination could leave reconciliation and peace behind.
+Expansion ended in an explosion. But an explosion greater than anyone could have imagined had left reconciliation and peace in its wake.
 
 The arrival of the Demonic Cult as an outside enemy changed everything.
 
@@ -262,7 +260,7 @@ And so Murong Baek became the North Heaven Demon Lord.
 
 A powerful tremor spread across the ground.
 
-The North Heaven Demon Lord’s eyes were now so red that “bloodshot” no longer described them. His blood-red gaze swept over everyone in the gorge as he roared.
+His eyes were now so red that *bloodshot* no longer described them. Sweeping his blood-red gaze over everyone in the gorge, the North Heaven Demon Lord roared.
 
 “Who dares! What hypocrite has the right to condemn me!”
 
@@ -270,9 +268,9 @@ The North Heaven Demon Lord’s eyes were now so red that “bloodshot” no lon
 
 The internal energy carried in his aged shout burst outward as a mighty sonic wave.
 
-The aura was truly terrifying.
+Its force was terrifying.
 
-Blood flowed from the ears of the people of Shanxi, frozen like statues. Several who had been shaken to their cores by the roar alone coughed up blood and dropped to their knees.
+Blood flowed from the ears of the people of Shanxi, who stood frozen like statues. Some were shaken so badly by the shout alone that they coughed up blood and dropped to their knees.
 
 *Vrrrrm.*
 
@@ -282,7 +280,7 @@ Though gravely wounded, he radiated a vast wave of qi that seemed to squeeze the
 
 Innate qi.
 
-Just like the heads of Dark Heaven who had gone to the afterlife before him, the North Heaven Demon Lord was burning up everything he had been given in that moment.
+Like the leaders of Dark Heaven who had died before him, the North Heaven Demon Lord was burning through everything he possessed.
 
 Even knowing death waited at the end.
 
@@ -302,13 +300,13 @@ Jeok Cheongang gave a short laugh, and Jin Taekyung laughed with him.
 
 “I’ll go on ahead. You two can take your time catching up.”
 
-At the same moment, dirt and rock crumbled beneath Jin Taekyung’s toes.
+Dirt and rock crumbled beneath Jin Taekyung’s toes.
 
 *Crack—BOOM!*
 
 The ground split like a spiderweb, and a streak of flame shot forward.
 
-The two old monsters blurred, following the Divine Dragon as he charged ahead with greater speed and force than ever.
+The two old monsters blurred as they followed the Divine Dragon, who charged ahead faster and more fiercely than ever.
 
 *Flash.*
 
