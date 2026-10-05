@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“Must be because we’re brothers. Even on this, we’re of one mind.”",
+      "defect": "The Korean says that because they share the same blood, even “this” works or gets through. “We’re of one mind” changes that into agreement or shared thoughts, altering the joke’s logic; “brothers” also makes the relationship more specific than the source’s “same blood.”",
+      "id": "F01",
+      "rationale": "한 핏줄이라 그런지 means “perhaps because we share the same blood,” and 이런 것까지 통하는구나 says that even this sort of thing works or gets through. The source does not say they are of one mind.",
+      "replacement": "“Guess even this works, since we share the same blood.”",
+      "severity": "minor",
+      "source": "Lines 309–311"
+    },
+    {
+      "confidence": 0.9,
+      "current": "My eyes flew open, even though I hadn’t meant to open them.",
+      "defect": "The English implies the narrator intended to keep his eyes closed. The Korean instead describes his eyes, which had closed without his noticing, abruptly opening wide; it does not establish that intention.",
+      "id": "F02",
+      "rationale": "나도 모르게 감겼던 눈이 부릅떠졌다 describes the eyes opening wide after having closed without his awareness, not against an intention to keep them closed.",
+      "replacement": "My eyes, which had closed without my noticing, flew open.",
+      "severity": "minor",
+      "source": "Line 269"
+    }
+  ],
+  "summary": "The translation is largely faithful, but the final line changes the blood-related joke, and one sentence adds an unsupported implication about the narrator’s intent.",
+  "version": 1
+}

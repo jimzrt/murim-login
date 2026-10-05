@@ -93,7 +93,7 @@ The sky looking down over this vast land alone. A being who, though human, had c
 
 “…The Martial God?”
 
-The two syllables slipped from my lips before I realized it. A shiver ran down my spine.
+The name slipped from my lips before I realized it. A shiver ran down my spine.
 
 The Martial God. The Martial God himself?
 
@@ -165,7 +165,7 @@ If the message the Martial God had left the Bow Saint meant what I thought it di
 
 That was probably the Martial God’s true identity.
 
-The truth hidden behind an unparalleled hero the likes of whom had never been seen before, and would never be seen again: a man who’d appeared out of nowhere, saved a world in turmoil, then disappeared.
+The truth hidden behind an unparalleled hero who’d appeared out of nowhere, saved a world in turmoil, then disappeared.
 
 But if that theory was true…
 
@@ -207,7 +207,7 @@ On top of that, the ominous words it had left behind before its Erasure hinted a
 
 *I’ll find out when I get back. Why the Doppelganger said those things. What it went that far for.*
 
-Now that I’d made up my mind, there was no hesitation. I lay straight on the bed and pulled the covers up to my neck.
+Decision made, I lay straight on the bed and pulled the covers up to my neck.
 
 Even if I spent a couple of months in the modern world, only about three shichen would pass in Murim.
 
@@ -234,7 +234,7 @@ Bip-bip-bip!
 
 …What?
 
-My eyes flew open, even though I hadn’t meant to open them.
+My eyes flew open.
 
 But the System’s voice in my ears hadn’t changed. Neither had the dozens of error messages floating in the air. Confusion seized me.
 
@@ -260,20 +260,20 @@ But nothing changed.
 
 Nothing at all.
 
-The holographic windows that poured out with every command showed only the words “System error.” Faced with this unbelievable reality, all I could do was stare blankly and take it in.
+Holographic windows spilled out with every command, each displaying the words “System error.” Faced with this unbelievable reality, all I could do was stare and try to take it in.
 
-Actually, if I had to name one more thing I could do, it was let the person whose presence had drawn close to the door know that he was an unwelcome guest before he entered my room.
+Actually, there was one more thing I could do: let whoever had reached my door know they weren’t welcome before they came in.
 
 “Don’t come in. I’m… damn it. Anyway, I’m busy.”
 
 I assumed it was Hyuk Mujin without even looking. If it wasn’t him, it had to be one of the Fire Dragon Pavilion members.
 
-But my guess was just as spectacularly wrong as I’d been when I tried to Logout.
+But my guess was just as wrong as I’d been about Logging Out.
 
 Click.
 
-“Must be because we’re brothers. Even on this, we’re of one mind.”
+“Must be because we’re of the same blood. Even this gets through to you.”
 
-The next moment, the unwelcome guest opened the door without hesitation. No—it was Jin Wikyung, his expression heavy and grave.
+The unwelcome guest opened the door without hesitation. No—it was Jin Wikyung, his expression heavy and grave.
 
 The sight of him sent a chill down my spine.
