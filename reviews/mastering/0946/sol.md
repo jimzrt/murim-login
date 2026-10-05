@@ -110,13 +110,11 @@ Setting everything else aside, any martial artist would have had questions.
 
 That day, in front of a fair number of onlookers, Pung Yang had displayed power approaching the Supreme Peak realm. He’d already become an accomplished Peak master, making him a formidable fighter in his own right. But manifesting Force, even imperfectly, defied common sense.
 
-He’d already reached the fully developed Peak realm, making him a formidable fighter in his own right. But the fact that he’d manifested Force, even imperfectly, was beyond all reason.
-
 *Especially when the Head Elder, who’d reached the very limits of the Peak realm, could only show power like that after drawing on his innate qi.*
 
 Learning martial arts was like climbing an endless flight of stairs. A beginner might skip several steps at once, but at the Peak realm, you had to give everything you had just to reach the next one.
 
-Even Cheongpung, born with heaven-sent martial talent and strengthened at a dazzling pace, wouldn’t have skipped the steps laid out before him.
+Even Cheongpung, born with heaven-sent martial talent, had grown stronger at a dazzling pace without skipping the steps laid out before him.
 
 *But the Temporary Strength Pill makes that possible.*
 
@@ -174,7 +172,7 @@ And most people, however fiercely they wished for something, couldn’t bring th
 
 Then I understood why Jeok Cheongang was so certain—and what he was really trying to say.
 
-“They didn’t make it just to bolster their own fighting strength.”
+“They didn’t make it merely to strengthen their own forces.”
 
 “…!”
 

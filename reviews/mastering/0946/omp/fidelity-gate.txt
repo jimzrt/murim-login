@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is largely faithful, but the account of Pung Yang’s Peak realm and Force is duplicated in the assembled English.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 147–149",
+      "current": "That day, in front of a fair number of onlookers, Pung Yang had displayed power approaching the Supreme Peak realm. He’d already become an accomplished Peak master, making him a formidable fighter in his own right. But manifesting Force, even imperfectly, defied common sense.\n\nHe’d already reached the fully developed Peak realm, making him a formidable fighter in his own right. But the fact that he’d manifested Force, even imperfectly, was beyond all reason.",
+      "defect": "The source states once that Pung Yang had reached the fully developed Peak realm and that manifesting Force, even imperfectly, defied common sense. The assembled English states those same facts twice.",
+      "replacement": "That day, in front of a fair number of onlookers, Pung Yang had displayed power approaching the Supreme Peak realm. He’d already reached the fully developed Peak realm, making him a formidable fighter in his own right. But manifesting Force, even imperfectly, defied common sense.",
+      "rationale": "Korean lines 147–149 present the power approaching Supreme Peak, then the fully developed Peak realm and the unprecedented manifestation of Force once. The assembled English repeats the latter two facts across paragraphs [P56] and [P57].",
+      "confidence": 1.0
+    }
+  ]
+}
