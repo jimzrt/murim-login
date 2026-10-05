@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At last, the spearhead came free—or rather, his body did.\n\nNo—his body did.",
+      "defect": "The correction that his body came free is stated twice. The Korean makes this correction once, then explains that he tore his shoulder from the spear rather than pulling the spear out.",
+      "id": "F01",
+      "rationale": "The repeated correction adds emphasis absent from the source and is redundant with the following explanation.",
+      "replacement": "At last, the spearhead came free—or rather, his body did.",
+      "severity": "minor",
+      "source": "Lines 265–267"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one added repetition in the shoulder-extraction beat.",
+  "version": 1
+}

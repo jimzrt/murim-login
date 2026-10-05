@@ -6,9 +6,9 @@ The instant the North Heaven Demon Lord sensed a chilling force plunge toward hi
 
 A tremendous collision.
 
-Yet even as the unprecedented force carried on his spearhead swallowed the arrow of light, the North Heaven Demon Lord’s face remained as hard as stone.
+The unprecedented force carried on his spearhead swallowed the arrow of light, but his face remained as hard as stone.
 
-Because the attack aimed at him wasn’t over.
+The attack wasn’t over.
 
 *Shwaaa!*
 
@@ -18,7 +18,7 @@ A dozen or so streaks of light rushed at him through the pitch-black air. The No
 
 “Bow Saint—!”
 
-With an angry shout, the North Heaven Demon Lord realized he had no choice left and thrust out his spear.
+He shouted in fury. With no other choice, he thrust out his spear.
 
 Space warped along the path of its spearhead.
 
@@ -48,7 +48,7 @@ Staring into the terrifying heat burning its way through space, the North Heaven
 
 *Rrrrrum!*
 
-At its tip, a distant flash of light blazed.
+At the end of its path came a blinding flash.
 
 * * *
 
@@ -66,7 +66,7 @@ An explosion? A catastrophe?
 
 Jin Wikyung and the people of Shanxi had no answer.
 
-Crushed beneath an overwhelming force they had never experienced before—no, one they couldn’t even have imagined—they could only watch as a vast wave of power swept toward them.
+Crushed beneath a force they had never experienced—no, never even imagined—they could only watch the vast wave of power sweep toward them.
 
 *KABOOM! KAAAAABOOM!*
 
@@ -86,7 +86,7 @@ Moving in a realm beyond sight and sound, Jin Taekyung and Jeok Cheongang dodged
 
 *Poom!*
 
-Air erupted with a blast of terrible heat.
+Air erupted with terrible heat.
 
 The boom came late. By the time the flames that preceded it coiled through space, the North Heaven Demon Lord was already swooping down over their heads.
 
@@ -106,7 +106,7 @@ Except he had cut faintly red armor, not flesh and bone.
 
 *Pshk!*
 
-Blood spurted from the split in the Fire Dragon Armor, cut open by the Force.
+Blood spurted through the split in the Fire Dragon Armor.
 
 That tiny amount—not even a handful—was all he had managed to draw. Master and disciple seized the opening.
 
@@ -120,7 +120,7 @@ Even with his physical abilities pushed to their limits by the Temporary Strengt
 
 The higher you climbed, the farther you could see.
 
-But even across the North Heaven Demon Lord’s vast world, Jin Taekyung was a monster the likes of which he had never seen.
+Yet in all the vast world the North Heaven Demon Lord had seen, Jin Taekyung was a monster without equal.
 
 His accomplishments were unbelievable for his age. His physical abilities far surpassed even those called superhuman. And for some reason, ever since defeating Jamukha, his movements had grown faster and stronger, and his internal energy more powerful.
 
@@ -144,7 +144,7 @@ Burning pain seemed to seep into his very soul.
 
 The flames surged after him as he retreated. Even a glancing touch melted his armor and scorched his skin.
 
-And as the North Heaven Demon Lord endured that instant of pain and stumbled backward in a desperate retreat, the spearhead that had left him for a new master flashed toward him.
+As he staggered backward through the pain, the spearhead that had left him for a new master flashed toward him.
 
 *Shshshshk!*
 
@@ -204,9 +204,9 @@ Jeok vanished as if he had evaporated. At the same instant, tremendous heat scor
 
 *Fwoosh.*
 
-Blinding light-flames swallowed the darkness. The North Heaven Demon Lord instinctively looked up, his eyes turning white with their light.
+Blinding light-flames swallowed the darkness. The North Heaven Demon Lord instinctively looked up, their light turning his vision white.
 
-“You really do have the kind of eyes no one can trust.”
+*Those eyes of yours always looked shifty to me.*
 
 In that instant, the North Heaven Demon Lord saw it.
 
@@ -218,7 +218,7 @@ A dazzling wave of fire, neither red nor blue.
 
 The roar followed the movement a moment later, shaking everything around them.
 
-Unable to withstand the force, the North Heaven Demon Lord crashed deep into the cliff wall and swallowed the blood surging up his throat.
+The North Heaven Demon Lord slammed deep into the cliff wall. He swallowed the blood surging up his throat.
 
 *Not yet. Not yet.*
 
@@ -228,7 +228,7 @@ His vision blurring, he pushed against the cliff wall cradling his body and trie
 
 Tried to.
 
-Until a flash of light flickered through the dust cloud rising pale beyond the countless rock fragments raining down from the collision.
+A flash cut through the pale dust beyond the fragments of rock raining down from the collision.
 
 *Thud! Krrrk!*
 
@@ -244,7 +244,7 @@ But the North Heaven Demon Lord refused to give up. Though pain turned his visio
 
 *Crack! Fwoosh!*
 
-At last, the spearhead came free—or rather, his body did.
+At last, the spearhead came free.
 
 No—his body did.
 
@@ -262,7 +262,7 @@ The pain and injuries should have felled him long ago. His internal energy shoul
 
 The North Heaven Demon Lord pushed onward with every ounce of strength he had.
 
-Thinking of the prey who would be frozen in disbelief beyond the thick dust cloud settling all around.
+He pictured the prey who would be standing frozen in disbelief beyond the thick dust cloud settling around them.
 
 The only lifeline that could save him.
 
@@ -294,9 +294,9 @@ If he survived, another chance would come.
 
 And the North Heaven Demon Lord would return.
 
-In the not-too-distant future, before the sting of his defeat and his enemies’ cheers had faded, he would once more unfurl the Murong Family’s banner and stride across the land.
+Before the sting of his defeat and his enemies’ cheers had faded, he would once more raise the Murong Family’s banner and range across the land.
 
-Beneath a dark sky, with his hidden fangs bared to the fullest.
+Beneath a dark sky, his hidden fangs bared.
 
 *I will return. Even if I have to stake everything on it.*
 
@@ -304,7 +304,7 @@ Remembering the defeat and humiliation he had suffered today, the North Heaven D
 
 He failed to notice that pain and hope had numbed his reason into making a foolish judgment.
 
-He couldn’t even properly wonder why Jeok Cheongang and Jin Taekyung weren’t chasing him, even in this situation.
+He failed even to ask why Jeok Cheongang and Jin Taekyung weren’t chasing him.
 
 At last, beyond the dispersing dust, he saw Jin Wikyung—the man he had been so desperate to find.
 
@@ -316,13 +316,13 @@ And someone else standing tall before him, in front of Jin Wikyung, who had led 
 
 A low groan escaped the North Heaven Demon Lord’s lips.
 
-Just as his steps—which had seemed as if they would go on forever—stopped in a pool of blood, he stared at the Bow Saint with hollow eyes. Then someone’s voice drifted into his ears.
+His steps, which had seemed ready to carry him onward forever, stopped in a pool of blood. As he stared at the Bow Saint with hollow eyes, another voice reached him.
 
 “Poppy. Where did you go, Poppy?”
 
 An anxious voice rang through the dust cloud.
 
-Moments later, Jin Taekyung suddenly emerged from within it and stared wide-eyed at the North Heaven Demon Lord.
+Moments later, Jin Taekyung emerged from it and opened his eyes wide at the North Heaven Demon Lord.
 
 “Oh my god, Poppy! What are you doing here?”
 
