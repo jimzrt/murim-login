@@ -8,7 +8,7 @@ The sun was still a long way from rising. Darkness surrounded them on every side
 
 Rough hoofbeats shattered the silence of the night.
 
-More than a hundred messengers passed through the Seven Gates without a single formality. Like the dozens of messenger eagles sent ahead of them, they vanished into the wind, each bound for a different destination.
+Some hundred mounted messengers passed through the Seven Gates without a single formality. Like the dozens of messenger eagles sent ahead of them, they vanished like the wind, each bound for a different destination.
 
 The man who had given all these orders listened, pale-faced, as reports came in one after another.
 
@@ -24,7 +24,7 @@ The man who had given all these orders listened, pale-faced, as reports came in 
 
 “Enough.”
 
-At the Emperor’s sudden command, every sound around him vanished as if washed away.
+At the Emperor’s sudden word, every sound around him ceased.
 
 The Son of Heaven’s authority was absolute.
 
@@ -42,7 +42,7 @@ At the Emperor’s quiet murmur, everyone prostrated themselves, barely daring t
 
 The Emperor gave a small shake of his head and silently waved his long sleeve.
 
-Those who understood the unspoken command backed away and disappeared with careful steps. Before long, only two people remained in the vast main hall.
+Those who understood the unspoken command backed away and disappeared. Before long, only two people remained in the vast main hall.
 
 “Every time I say anything, they start begging me to kill them. If I’d had to listen to that for another fifteen minutes, I might’ve bitten through my own tongue.”
 
@@ -52,7 +52,7 @@ At the Emperor’s bitter smile, Baek Yeon, Commander of the Embroidered Uniform
 
 “It’s only a joke. What does it matter? Besides…”
 
-The Emperor leaned at an angle against the throne and continued.
+The Emperor leaned against the throne and continued.
 
 “I have not the slightest intention of dying in a situation like this.”
 
@@ -66,7 +66,7 @@ Dark Heaven.
 
 That rebellious faction, whose very name was ominous, was larger than expected—and more methodical, too.
 
-Even more so than a religious movement that had once erupted like a grass fire from a distant western land, back when Baek Yeon had served the late Emperor.
+Even more so than the religious movement that had once spread like wildfire from the distant west, back when Baek Yeon had served the late Emperor.
 
 “It was more than fifty years ago that those called the Demonic Cult headed for the Central Plains.”
 
@@ -76,9 +76,9 @@ The Emperor murmured to himself and stroked his graying beard.
 
 Though it had happened long before he was born, everyone knew of the momentous event when no fewer than a hundred thousand cultists set foot in the Central Plains.
 
-Especially because they weren’t merely country bumpkins lured in by sweet words. They were an army armed with unwavering faith and spears and swords.
+They weren’t merely country folk lured in by sweet words. They were an army armed with unwavering faith and blades.
 
-“When the Demonic Cult’s momentum reached the heavens, the martial artists of the orthodox factions petitioned the late Emperor. They said the Demonic Cult was a foreign enemy disrupting the Great Nation’s order, and asked him to raise the Imperial Army and order a campaign against them.”
+“When the Demonic Cult’s momentum seemed to reach the heavens, the martial artists of the orthodox faction petitioned the late Emperor. They said the Demonic Cult was a foreign enemy disrupting the Great Nation’s order, and asked him to raise the Imperial Army against them.”
 
 “I know.”
 
@@ -110,7 +110,7 @@ Cang Gong—or rather, the Eastern Heaven Demon Lord—had already been someone 
 
 Of course, countless orthodox martial artists had died because of Baek Yeon’s opposition. But he didn’t regret it in the least.
 
-He had simply made the choice that was best for the Emperor and the Great Nation—and, by extension, the people.
+He had simply made the choice he believed was best for the Emperor, the Great Nation, and the people.
 
 It wouldn’t have been too late to intervene after watching the two great powers, the Murim Alliance and the Demonic Cult, crash violently into each other.
 
@@ -122,17 +122,17 @@ The Emperor clicked his tongue at Baek Yeon’s words.
 
 “You’re unusually honest today.”
 
-“It can’t be helped. Many martial artists of the orthodox factions have the people’s trust, so we’d have no grounds to launch a campaign against them. But it would’ve been different if the Demonic Cult had survived.”
+“It’s the truth. Many martial artists of the orthodox faction have the people’s trust, so we’d have no grounds to launch a campaign against them. But it would’ve been different if the Demonic Cult had survived.”
 
 A massive boulder was too heavy even to move.
 
-But what about a pebble left behind after being smashed and battered again and again?
+But what about a stone left behind after countless blows and collisions?
 
-And if that pebble had jagged edges sharp enough to harm the people, Baek Yeon would have taken up his hammer without the slightest hesitation.
+If that stone was sharp enough to harm the people, Baek Yeon would have taken up his hammer without the slightest hesitation.
 
 He would have torn down the lawless fence that was Murim once and for all.
 
-“But if things had gone as you hoped, we wouldn’t have made it to the present day.”
+“But if things had gone as you hoped, we might never have reached this day.”
 
 The Emperor’s low voice echoed through the vast hall.
 
@@ -158,7 +158,7 @@ The information Jin Taekyung had delivered in the dead of night was an unexpecte
 
 Hundreds of warships and thousands of officers.
 
-Hundreds of thousands of troops, the imperial banners flying above them, were waiting for their command.
+Hundreds of thousands of troops, the imperial banners flying above them, were waiting for orders.
 
 “I command Baek Yeon, Commander of the Embroidered Uniform Guard.”
 
@@ -182,7 +182,7 @@ It wasn’t only the impact of the Emperor taking command in person. He could fe
 
 “Your Majesty.”
 
-But the words Baek Yeon struggled to force out never came.
+But Baek Yeon could get no further.
 
 Seeing the Emperor silently shake his head, the loyal subject could only clench his teeth, his heart heavy.
 
@@ -208,7 +208,7 @@ And so was the fact that someone had brought back his will to live, if only for 
 
 The Emperor smiled brightly—so brightly it was hard to believe he was a dying man—and continued,
 
-“We should see off a certain insolent rogue who’s leaving before me without keeping his promise to me.”
+“We should see off a certain insolent rogue who’s leaving before me without keeping his promise.”
 
 * * *
 
@@ -218,7 +218,7 @@ That was how much time had passed since I’d first gotten my hands on the iron 
 
 “Everything’s ready.”
 
-At Hyuk Mujin’s report in my ear, I opened my eyes, which I’d kept tightly shut.
+At Hyuk Mujin’s report, I opened my eyes.
 
 His gaze and expression were unusually grave. That alone said how urgent things had become.
 
@@ -268,13 +268,13 @@ The Bow Saint, who had been riding quietly with the reins in hand, replied.
 
 Jeok Cheongang nodded, then glanced at me and added,
 
-“Still, the Hebei Peng Family didn’t become one of the Five Great Families for no reason. With that kind of strength, they could beat just about anyone. And they have enough intelligence-gathering power to keep a clear eye on what’s happening not only in Hebei but in Shanxi, too.”
+“Still, the Hebei Peng Family didn’t become one of the Five Great Families for no reason. With that kind of strength, they could beat just about anyone. And their sources are good enough to know exactly what’s happening not only in Hebei but in Shanxi, too.”
 
 Only then did I think I understood.
 
 This completely random conversation was meant to put me at ease.
 
-*Heh.*
+*Huh.*
 
 What was I supposed to say? I was just grateful.
 

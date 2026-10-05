@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "no fewer than a hundred thousand cultists set foot in the Central Plains",
+      "defect": "“Cultists” identifies the group but loses the source’s disparaging implication in 사이비—false or pseudo-believers. The accepted baseline’s “so-called heretics” retained more of that attitude.",
+      "id": "F01",
+      "rationale": "The source calls them 사이비, not simply followers of a cult; this choice carries a dismissive judgment that the current neutral label omits.",
+      "replacement": "no fewer than a hundred thousand so-called heretics set foot in the Central Plains",
+      "severity": "minor",
+      "source": "Line 79; assembled paragraph P39"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor loss of the source’s dismissive wording for the Demonic Cult’s followers.",
+  "version": 1
+}
