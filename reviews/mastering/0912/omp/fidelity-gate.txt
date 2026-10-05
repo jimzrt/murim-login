@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is largely faithful, but it drops a source-specific image and adds a concrete attack detail not established by the Korean.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 7",
+      "current": "Alarm bells rang in his mind",
+      "defect": "The Korean specifies that the alarm in his mind is red. The assembled English drops that visual detail, which the accepted baseline preserved.",
+      "replacement": "The red alarm bells in his mind rang",
+      "rationale": "붉은 경종이 울리며 explicitly describes a red alarm bell ringing in his mind.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 16",
+      "current": "Yes, I was.",
+      "defect": "This makes his reply a direct, certain confirmation. The Korean’s 그래, 그랬겠지 is more like a calm, slightly detached acknowledgment: “Yes, I suppose I was.”",
+      "replacement": "Yes. I suppose I was.",
+      "rationale": "그랬겠지 carries an inferential “I suppose that was so” nuance, rather than simply asserting the past fact.",
+      "confidence": 0.84
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 255",
+      "current": "as the monsters that had appeared out of nowhere tore into them",
+      "defect": "“Tore into them” specifies the monsters’ attack mechanism. The Korean says the guards were falling in droves, spilling blood, because of the monsters’ sudden appearance, without specifying that they were being torn into.",
+      "replacement": "as the monsters that had appeared out of nowhere sent them falling in droves, blood spraying",
+      "rationale": "분분히 피를 뿌리며 쓰러지고 있었다 describes the guards falling and spraying blood; it does not state that the monsters tore into them.",
+      "confidence": 0.88
+    }
+  ]
+}

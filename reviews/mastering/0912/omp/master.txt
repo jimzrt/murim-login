@@ -70,13 +70,13 @@ But he was the Fire King, Jeok Cheongang.
 
 He twisted in midair, righted himself, and landed on his feet.
 
-Jeok Cheongang carved a deep furrow several *jang* long into the ground, absorbing the remaining force. Then his body suddenly staggered.
+His feet carved a deep furrow several *jang* long into the ground, absorbing the remaining force. Then he staggered.
 
 *Hack.*
 
 Dark red blood spilled from between his lips.
 
-Unable to hold back the congested blood that had risen with his internal injuries, Jeok Cheongang spat it out. That was when a faint whistle reached his ears.
+Unable to hold back the blood welling up from his internal injuries, Jeok Cheongang spat it out. That was when a faint whistle reached his ears.
 
 *Whoosh.*
 
@@ -120,9 +120,9 @@ The air, chilled moments ago, grew hot. His torn meridians screamed.
 
 The fire dragon inside him writhed violently, barely under his control.
 
-As if it would burn even its master’s body.
+As if it might burn its master’s body along with everything else.
 
-As if it would devour everything and reduce it to ashes.
+As if it might devour him and reduce him to ashes.
 
 And yet—
 
@@ -194,7 +194,7 @@ Squeezing out what little internal energy I had left, I knocked aside or cut dow
 
 *Pit-pit!*
 
-Even when small, thin fragments of blades and bluestone swept in with the gale and grazed me all over, I didn’t care.
+Small, thin shards of blades and bluestone came through the gale and slashed across me. I didn’t care.
 
 *If I dodge, the others will get hurt.*
 
@@ -264,13 +264,13 @@ I pushed Hyuk Mujin aside when he tried to stop me and hurried toward Jeok Cheon
 
 No—I tried to.
 
-If not for the one thing Jeok Cheongang said next.
+Then Jeok Cheongang spoke.
 
 “Stand back.”
 
 His voice was deeper than usual.
 
-His entire body was covered in blood and soot, but he kept his eyes fixed ahead without even glancing at me, though I stood a few steps behind him.
+Blood and soot covered his entire body. He stood a few steps ahead of me without so much as a glance back, staring straight ahead.
 
 At the lone figure standing beyond the slowly settling dust cloud.
 
@@ -278,7 +278,7 @@ And right then—
 
 *Fwoosh.*
 
-A breeze blew from somewhere, sweeping away the dust cloud. Beyond it, the figure came into view, walking slowly over countless corpses and pools of blood.
+A breeze blew from somewhere and swept the dust away. It revealed the figure walking slowly toward us, stepping through countless corpses and pools of blood.
 
 “……!”
 
@@ -292,9 +292,9 @@ And why I hadn’t sensed even the slightest sign of life from someone who, for 
 
 *Squish.*
 
-With each step, blood that had pooled to his ankles sprayed in every direction.
+With his next step, blood pooled to his ankles splashed in every direction.
 
-Arms and legs that had belonged to someone unknown bobbed in the blood as it pushed them along.
+Arms and legs that had belonged to someone bobbed along as the blood carried them.
 
 Yet none of it was as chilling as *that thing*.
 
@@ -304,7 +304,7 @@ Yet none of it was as chilling as *that thing*.
 
 The flames were still burning his face. Beneath it, the only part that had kept its shape—his lips—curved into a gentle smile.
 
-Cang Gong—the Eastern Heaven Demon Lord—or rather, the man who could no longer be called human, was smiling.
+Cang Gong—the Eastern Heaven Demon Lord—no, the thing that could no longer be called human, was smiling.
 
 Melted skin left the bones beneath it plainly exposed.
 
@@ -330,9 +330,9 @@ Ma Sanbao pulled out the short spear I’d driven deep into his body and came to
 
 “Why? Is that strange?”
 
-The Eastern Heaven Demon Lord stepped forward and continued:
+The Eastern Heaven Demon Lord took another step.
 
-“I once had a sect, too. A Master who became a parent to me, and countless Senior and Junior Brothers who became my family.”
+“I once had a sect, too. A Master who was a parent to me, and countless Senior and Junior Brothers who were my family.”
 
 “……You bastard. Don’t tell me…”
 
@@ -342,13 +342,13 @@ The Eastern Heaven Demon Lord slowly turned his head. At the end of his empty ga
 
 No—what lay there was a past long gone.
 
-“Under the pretext of moving the capital, I had to lose them all.”
+“Under the pretext of moving the capital, I lost them all.”
 
 “……!”
 
 “……!”
 
-At that moment, I realized who he really was. Before he became the Eastern Heaven Demon Lord of Dark Heaven, before he became Cang Gong of the East Depot, where had he belonged?
+At that moment, I realized who he really was. Before he became Dark Heaven’s Eastern Heaven Demon Lord, before he became Cang Gong of the East Depot, I knew where he had belonged.
 
 Jeok Cheongang realized it, too.
 
