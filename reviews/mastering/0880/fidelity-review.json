@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The officers fell silent at their superior’s command. They knew the prisoners trembling in their cells were nothing more than ignorant commoners.",
+      "defect": "The comparison of the task to searching for a gold vein in a depleted mine is omitted. The accepted baseline preserved this image, and it underscores how impossible the demanded results are.",
+      "id": "F01",
+      "rationale": "The Korean explicitly compares the situation to searching for a gold vein in an exhausted mine; the assembled English moves directly to the following storeroom image instead.",
+      "replacement": "The officers fell silent at their superior’s command. They knew the prisoners trembling in their cells were nothing more than ignorant commoners. This was little different from being told to find a gold vein in an abandoned mine that had been stripped bare.",
+      "severity": "minor",
+      "source": "Korean source §73"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Embroidered Uniform Guard officers knelt and formally received the imperial command, then streamed away like the tide to release the hundreds of prisoners. Their superior, the Thousand Captain, asked Jeong Hogun with a stony expression,",
+      "defect": "The narration that Jeong Hogun appeared suddenly and settled the situation in an instant is omitted. The next sentence shows the outcome but drops the source’s explicit beat of his abrupt intervention.",
+      "id": "F02",
+      "rationale": "The Korean directly states that his sudden appearance resolved the situation immediately; this sentence was also present in the accepted baseline.",
+      "replacement": "Jeong Hogun had appeared out of nowhere and settled the matter in an instant.\n\nThe Embroidered Uniform Guard officers knelt and formally received the imperial command, then streamed away like the tide to release the hundreds of prisoners. Their superior, the Thousand Captain, asked Jeong Hogun with a stony expression,",
+      "severity": "minor",
+      "source": "Korean source §131"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, but it omits two source details: the abandoned-mine comparison and Jeong Hogun’s sudden arrival settling the situation.",
+  "version": 1
+}

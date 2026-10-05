@@ -8,7 +8,7 @@ Neither were the rumors that had suddenly begun sweeping through the Imperial Ca
 
 “They say the Emperor finally has an heir.”
 
-“I heard they’ll hold a great banquet soon. That must be why His Highness, Prince Shangshan, returned after more than ten years.”
+“I heard they’ll hold a grand banquet soon. That must be why His Highness returned after more than ten years.”
 
 “But an heir? Does that mean Her Majesty the Empress is pregnant?”
 
@@ -30,7 +30,7 @@ Even the Embroidered Uniform Guard, said to be capable of catching a bird in fli
 
 The rumors spread so quickly that the imperial palace’s towering walls might as well not have been there. In a single night, the Embroidered Uniform Guard dragged away hundreds of people.
 
-“If you want to live, tell us everything. Which bastard has been spreading this nonsense?”
+“If you want to live, tell us everything. Who’s been spreading this nonsense?”
 
 “Eek! I’ll tell you! I’ll tell you everything!”
 
@@ -60,7 +60,7 @@ But they were the Embroidered Uniform Guard. In this vast realm, they owed absol
 
 The officers fell silent at their superior’s command. They knew the prisoners trembling in their cells were nothing more than ignorant commoners.
 
-Just as no storeroom was so clean that shaking it wouldn’t stir up dust, countless high officials had passed through the Guard’s prison, each with a crime or two to their name, great or small.
+They might as well have been ordered to find a vein of gold in a mine stripped bare. The high officials who had passed through the Guard’s prison had all had something to hide, however small. Search any storeroom hard enough and you could stir up dust.
 
 But these people were ordinary subjects. When the wind blew, they bent; when it rained, they got wet.
 
@@ -110,7 +110,7 @@ The Thousand Captain, who had been roaring at his subordinates moments ago, frow
 
 “What are you all waiting for? Obey the imperial order.”
 
-The Embroidered Uniform Guard officers knelt and formally received the imperial command, then streamed away like the tide to release the hundreds of prisoners. Their superior, the Thousand Captain, asked Jeong Hogun with a stony expression,
+Jeong Hogun had settled the matter in an instant. The officers knelt to formally receive the Emperor’s command, then streamed away to release the hundreds of prisoners. Their superior turned to Jeong Hogun, his face set.
 
 “What’s going on? And what about our report?”
 
@@ -122,7 +122,7 @@ Jeong Hogun’s voice was as flat and unreadable as ever.
 
 “What?”
 
-“I said they’re all true. The imperial court will make an official announcement soon. The Embroidered Uniform Guard will be responsible for the task.”
+“All of them. The imperial court will make a formal announcement soon, and our Guard will be responsible for it.”
 
 “……!”
 
@@ -144,7 +144,7 @@ The matter of the Emperor’s heir had been a closely guarded secret known to on
 
 “Something I’m overlooking? What are you—”
 
-“What a mere military officer like me can guess, surely His Majesty the Emperor knows.”
+“Do you suppose His Majesty can’t see what mere military officers like us can?”
 
 “……!”
 
@@ -170,7 +170,7 @@ Until war began, there was no telling who was an enemy and who was an ally. But 
 
 Whatever form it took.
 
-*What choice will that bastard make in this war?*
+*What will that man choose in this war?*
 
 Jeong Hogun thought of a young man he could never quite figure out.
 
@@ -194,9 +194,9 @@ Even celebrities caught red-handed by Daspatch usually spend a day or two keepin
 
 All in less than a day.
 
-*He sure is quick to act, but what on earth is he up to?*
+*You’ve got to hand it to him for acting fast, but what the hell is he thinking?*
 
-Unless the thing on his shoulders was purely decorative, anyone with a drop of ink on their hands and a working brain would come to roughly the same conclusion.
+The more people learned about this, the worse it was for him. Anyone with a little education and a working brain would reach more or less the same conclusion.
 
 —Huh? The Emperor secretly brought Prince Shangshan into the palace?
 
@@ -208,7 +208,7 @@ Those thoughts led to one conclusion:
 
 —The Emperor might get rid of Prince Shangshan!
 
-It would be one thing if he had a good reputation to begin with. But wasn’t the current Son of Heaven the one who’d come to the throne after unleashing a river of blood?
+It might have been different if the Emperor had a good reputation. But the current Son of Heaven had taken the throne in a bloody purge.
 
 A first-time offender might get probation for a minor crime. Nobody was going to trust a murderer with a record.
 
@@ -216,7 +216,7 @@ A first-time offender might get probation for a minor crime. Nobody was going to
 
 In Go terms, the Emperor had made a terrible move. For us, though, it meant we could breathe a little easier. We’d tried to buy time so he couldn’t recklessly threaten Prince Shangshan, and now that protection seemed firmer.
 
-“Isn’t this a decent situation? Whatever else, the imperial court has acknowledged everything in its own name. For now, the threats surrounding His Highness, Prince Shangshan, will disappear.”
+“Isn’t this good for us?” Hyuk Mujin ventured, watching our faces. “Whatever else happens, the imperial court has acknowledged everything. For now, the threat to His Highness, Prince Shangshan, should be gone.”
 
 Hong Jin nodded.
 
@@ -224,9 +224,9 @@ Hong Jin nodded.
 
 “The worst…?”
 
-“Young Master Jin, you can probably guess. You’ve experienced for yourself what the current Emperor is like.”
+“Young Master Jin probably has an idea. He’s dealt with the Emperor himself.”
 
-At their gaze, I smacked my lips and slowly began.
+They both looked at me. I smacked my lips before answering.
 
 “Personally, I see two possibilities. One good, one bad. Which do you want first?”
 
@@ -240,13 +240,13 @@ At their gaze, I smacked my lips and slowly began.
 
 “Yes.”
 
-Hong Jin looked sympathetically at Hyuk Mujin, who had quietly shut his mouth, then spoke.
+Hong Jin gave Hyuk Mujin a sympathetic look as he shut his mouth.
 
-The good possibility.
+“The good one first.”
 
-I sorted through my thoughts once more, then slowly parted my lips.
+The good one. I gathered my thoughts again before I spoke.
 
-“First: now that he’s made it public, the Emperor will find it hard to lay a hand on his only younger brother, and he’ll send him back safely after the banquet.”
+“First, now that he’s made it public, the Emperor finds it hard to touch his only younger brother and sends him home unharmed after the banquet.”
 
 “I like that one, but… what’s the bad one?”
 
