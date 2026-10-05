@@ -8,23 +8,23 @@ Their Sect Leader, the Wind-and-Cloud Sword Lord, proposed it, and while I was s
 
 “Old—no, Master.”
 
-“What are you standing around for? Get your subordinates ready. And you too, Wind-and-Cloud Sword Lord—start by kicking those lazy disciples of yours in the ass.”
+“What are you waiting for? Get your men ready. And you, Wind-and-Cloud Sword Lord—start by kicking those disciples of yours off their asses.”
 
 Just like that, the preparations were over.
 
 Our party, now a little over a thousand if I rounded generously, set off toward Gansu. The Roaring Fury Swordsman and the Taeeul Merciless Sword came along too, neither looking pleased about it.
 
-“Those two have looked downright miserable for a while now. If we’d met them exactly six months earlier, I’d have punched them in the jaw first thing.”
+“Those two have had faces like thunder for a while now. If we’d met even six months earlier, I’d have punched them in the jaw first thing.”
 
 Jeok Cheongang smacked his lips. I clicked my tongue.
 
 “If you didn’t want to look at them, you shouldn’t have accepted.”
 
-“Is that why your lips are sticking out three inches?”
+“Is that why your lips are sticking out three feet?”
 
 “Who says my lips are sticking out?”
 
-“Correction. They’re sticking out four inches now.”
+“Correction. Four feet now.”
 
 I shook my head at his teasing.
 
@@ -62,7 +62,7 @@ I couldn’t tell whether that was praise or a rebuke. When I stared at him with
 
 “The first is what narrow-minded fools say. The second is bullshit from people who’ve thoroughly botched the outcome.”
 
-Jeok Cheongang answered with cutting certainty, then went on.
+Having delivered that verdict without a trace of hesitation, Jeok Cheongang continued.
 
 “If I thought you’d done wrong, I’d have given you a proper scolding. So far, though, you haven’t done too badly. Besides, driving those lazy bastards all the way to Gansu like cattle has its appeal.”
 
@@ -70,7 +70,7 @@ He wasn’t wrong. Even now, the Zhongnan Sect Disciples were running their asse
 
 “From now until we reach Gansu, anyone who falls even a little behind or tries to slack off gets a private meeting with this old man.”
 
-A private lesson with an elder who’d reached a distant realm would be a fortuitous encounter anyone would pray for—unless the teacher was the Fire King. In that case, there was a good chance you’d become a dead man.
+A private meeting with a venerable master who’d reached an unfathomable realm would be a fortuitous encounter anyone might wish for. If that master was the Fire King, though, there was a good chance you’d be the one people called “the late.”
 
 Whoosh, whoosh, whoosh!
 
@@ -84,7 +84,7 @@ Boom! Whoooosh!
 
 A sharp boom rang out. His figure shot forward, leaving an afterimage behind.
 
-Jeok Cheongang’s afterimage seemed to remain behind as he rapidly closed in. The Zhongnan Sect Disciples sucked in their breath, and panicked shouts rang out among them.
+The Zhongnan Sect Disciples saw him closing in, sucked in their breath, and began shouting.
 
 “Run!”
 
@@ -98,7 +98,7 @@ Jeok Cheongang’s afterimage seemed to remain behind as he rapidly closed in. T
 
 My thoughts on the scene were brief.
 
-You’re all making a damn spectacle of yourselves.
+What the hell is wrong with you people?
 
 “Anyone would think Dark Heaven had shown up or someth—huh?”
 
@@ -132,15 +132,13 @@ They’d already disguised themselves as government troops in Sichuan once.
 
 One question led to another.
 
-Then, all of a sudden, I heard a chilling sound.
-
 Shing.
 
 At the sudden sound of a blade being drawn, I turned. Sama Pyo had drawn the Black Dragon Saber, the weapon that shared its name with his sobriquet.
 
 “Whoever they are, it won’t hurt to be prepared. Wouldn’t you agree, Pavilion Master?”
 
-His voice was calm, but his eyes were dark and intent.
+His voice was calm, but his eyes had gone dark. The closer we got to Gansu, the heavier the air around him had become.
 
 I nodded and urged my horse on.
 
@@ -150,7 +148,7 @@ My grassland horse’s hooves pounded the ground.
 
 I didn’t know who the people ahead of us were, but I was sure of one thing.
 
-*Even if Dark Heaven prepared an ambush, all we have to do is trample them and keep going.*
+*Even if this is Dark Heaven’s ambush, we can trample them and keep going.*
 
 We might be riding into a fierce battle. My heartbeat didn’t change.
 
@@ -218,21 +216,19 @@ One word was enough to stop the Roaring Fury Swordsman and the Taeeul Merciless 
 
 “Are you deaf? Those ears don’t seem much use. Want me to rip one off?”
 
-The Roaring Fury Swordsman had stopped only a few steps away from a civilian who stood frozen with his eyes squeezed shut. His face stiff, he began to speak.
-
-“Senior, I was only trying to make sure…”
+The Roaring Fury Swordsman had stopped only a few steps from a civilian whose eyes were squeezed shut. Looking uneasy, he said, “Senior Jeok. I only wanted to check…”
 
 “Answer the question. Should I rip it off or not?”
 
 “……”
 
-“I thought you were just deaf, but now it seems your mouth’s sealed shut too. Fine. You answer for your ailing Senior Brother.”
+“I thought you were just deaf, but now it seems your mouth doesn’t work either. Fine. You answer for your Senior Brother, since he’s having trouble.”
 
 Fire flickered in Jeok Cheongang’s eyes. The Taeeul Merciless Sword met his gaze and bowed his head slightly.
 
-“I only wanted to confirm who they were. I had no other intention. If my rash action upset you, Great Hero Jeok…”
+“We only wanted to confirm who these people were. We had no other intention. If our rash actions upset you, Great Hero Jeok…”
 
-“You didn’t upset me. You just made an even bigger mess.”
+“They didn’t upset me. You made a far bigger mess than that.”
 
 “I apologize.”
 
@@ -266,7 +262,7 @@ Sighs of relief rose all around us. The first man’s face brightened, and he sp
 
 He hurriedly clapped a hand over his mouth, but neither Jeok Cheongang nor I cared about the slip. We had looked strange enough, and he’d said something far more important.
 
-“Who did you think they were?”
+“Who did you think we were?” I asked.
 
 The man answered without hesitation.
 

@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "A private lesson with an elder who’d reached a distant realm",
+      "defect": "개인 면담 means a private meeting or audience, not a lesson. Calling it a lesson adds an instructional encounter that the source does not establish and blunts the joke about a meeting with a master who could leave someone dead.",
+      "id": "F01",
+      "rationale": "The source calls it a 개인 면담 (private meeting) and then jokes that meeting the Fire King could make you a 고인 (a deceased person). It does not describe a lesson.",
+      "replacement": "A private meeting with a master who’d reached a distant realm",
+      "severity": "minor",
+      "source": "Korean lines 75–79"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I nodded and urged my horse on.",
+      "defect": "The assembled version omits that Sama Pyo’s atmosphere had grown heavier as they got closer to Gansu, losing a source-established change in his demeanor.",
+      "id": "F02",
+      "rationale": "The source explicitly links the increasingly heavy atmosphere around Sama Pyo to their approach to Gansu before the narrator nods and urges his horse on.",
+      "replacement": "As the atmosphere around Sama Pyo grew heavier the closer we got to Gansu, I quietly nodded and urged my horse on.",
+      "severity": "minor",
+      "source": "Korean line 165"
+    },
+    {
+      "confidence": 0.94,
+      "current": "some already had blades in their hands.",
+      "defect": "This drops the vivid blue quality of the blades, a physical detail the source specifies.",
+      "id": "F03",
+      "rationale": "시퍼런 날붙이 describes sharply blue blades; the English retains only that they were blades.",
+      "replacement": "some already had gleaming blue blades in their hands.",
+      "severity": "minor",
+      "source": "Korean line 201"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it changes the nature of Jeok Cheongang’s promised meeting, omits a shift in Sama Pyo’s mood, and drops a visual detail from the approaching crowd.",
+  "version": 1
+}
