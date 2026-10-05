@@ -35,7 +35,9 @@ The first things that caught my eye were the System messages announcing the comp
 
 I’d only leveled up once, but the stat increase from successfully completing Transmitting Internal Energy Across the Body was enormous.
 
-I skimmed the messages, then erased a dozen or so with a single wave of my hand. There were still more holographic windows I needed to check.
+I quickly skimmed the messages, then erased a dozen or so with a single wave of my hand.
+
+There were still more holographic windows I needed to check.
 
 > **System**
 > Successfully absorbed the internal energy of the **Heavenly Power Demon**!
@@ -94,33 +96,35 @@ The stronger I got, the farther away my next level-up seemed. The EXP required r
 
 Even with all those incredible rewards, I felt conflicted.
 
-Caught between joy and bitterness, I remembered the Thunderbolt Saber King smiling brightly as he said he would pass everything he had on to me.
+Overwhelmed by both joy and bitterness, I remembered the Thunderbolt Saber King smiling brightly as he said he would pass everything he had on to me.
 
 And with him, I remembered all the victims who’d fallen at Eight Spring Gorge that day, when the chrysanthemums covering the mountain had turned red and the bodies of people and horses had piled up like mountains.
 
-I etched one thing deep in my heart: these enormous rewards had been paid for with the lives of the dead.
+At the same time, I engraved one thing deep in my heart.
+
+This enormous reward I’d been given was payment for the lives of the dead.
 
 *I’ll repay this debt… no matter what.*
 
-I’d never been well-off, and debt had always been a miserable thing to me. But not this time.
+I’d never had much of a comfortable life, and debt had always been a miserable thing to me. But not this time.
 
 I was looking toward the same place they were.
 
-The day I finally paid it all back, the peace everyone wanted would arrive.
+The day I finally cleared this entire debt, the peace everyone wanted would arrive.
 
-And to make that happen, I had to endure and overcome whatever hardships came my way.
+And to make that happen, I had to endure and overcome whatever hardships and adversity came my way.
 
-I couldn’t collapse under my grief or settle for where I was. I had to keep moving higher, with no thought of giving up.
+I couldn’t let grief make me collapse, or settle for the present. I had to keep moving toward higher places, never giving up.
 
-Toward the place I’d glimpsed while completing Transmitting Internal Energy Across the Body, hidden behind thick, billowing clouds.
+Toward the place I’d glimpsed while completing Transmitting Internal Energy Across the Body, hidden behind thick clouds.
 
 Toward the sky above the summit.
 
 *Right. The upper dantian.*
 
-Of course, I knew it wouldn’t be easy.
+Of course, I knew it was no easy feat.
 
-I couldn’t even be sure whether the Three Saints, the greatest masters in the Central Plains, or Jeok Cheongang, who stood shoulder to shoulder with them, had opened their upper dantian.
+Even the Three Saints, the greatest masters in the Central Plains, and Jeok Cheongang, who stood shoulder to shoulder with them, might not have opened their upper dantian. I couldn’t be sure.
 
 *No, even if they’ve already reached that stage, there must still be differences between them.*
 
@@ -134,7 +138,7 @@ I still couldn’t reach the absolute beings who looked down on the lower world 
 
 *What if I’d ridden that momentum and kept pushing forward back then?*
 
-A pang of regret struck me.
+A pang of regret suddenly crossed my mind.
 
 But I already knew the answer.
 
@@ -150,11 +154,11 @@ The more I thought about it, the more indescribably frustrating it felt. But loo
 
 What was this feeling?
 
-I furrowed my brow and thought back to the excruciating process of Transmitting Internal Energy Across the Body, then to the strange dream born of memories that weren’t mine.
+I suddenly furrowed my brow as I remembered the excruciating process of Transmitting Internal Energy Across the Body and the strange dream that had come from memories that weren’t mine.
 
 But that wasn’t all.
 
-The inexplicable déjà vu sweeping through me pointed to the trace of a memory worn away somewhere between the two.
+The inexplicable déjà vu that had suddenly taken hold of my entire body was telling me there was a trace of a memory, somewhere in between, that had been ground away.
 
 “Decision. A good decision… I’m sure I heard that somewhere.”
 
@@ -162,61 +166,61 @@ My lips moved on their own. The voice that came out sounded unfamiliar, as thoug
 
 How much time passed?
 
-I stared blankly into empty air, muttering the same words over and over like a man in a trance. At last, I recovered part of the memory I’d forgotten.
+Staring blankly into empty air like a man in a trance, muttering the same words over and over, I eventually recovered part of a memory that had been forgotten.
 
 *Someone definitely said something like that. Not in reality, but inside my consciousness.*
 
 My eyes stung. I’d forgotten even to blink.
 
-After turning the thought over for so long, my head felt hot.
+My head had grown hot from turning the thought over and over for so long.
 
-No—an invisible little awl was slowly burrowing into my mind.
+No—invisible little awls were slowly burrowing into my mind.
 
-A headache slowly spread through me.
+A headache spread through me.
 
-But even as the pain made me wince, I kept searching my memory. I groped through the darkness for a tiny fragment hidden behind larger memories.
+But even as the pain made me wince, I kept rummaging through my thoughts. I searched the darkness for a tiny fragment hidden beneath larger memories.
 
 And finally—
 
 I remembered.
 
-I remembered realizing it wasn’t time yet and turning away from the upper dantian beyond the clouds.
+I remembered myself, realizing it wasn’t time yet and turning away from the upper dantian beyond the clouds.
 
-Then, as I slipped into the world of No-self, someone’s words echoed faintly in my ear.
+And then, as I slipped into a trance where I lost all sense of self, someone’s words echoed faintly in my ear.
 
 *That was a good decision. Just like back then.*
 
 “……!”
 
-My eyes flew wide open.
+Before I knew it, my eyes had flown wide open.
 
-Because I’d realized who the voice belonged to?
+Was it because I’d realized who the voice belonged to?
 
 No.
 
-Because an immense pain had suddenly struck me.
+It was because an immense pain had suddenly struck me.
 
-Hk.
+Hngh.
 
-I sucked in a breath on instinct. Clenching my teeth wasn’t enough; I squeezed my eyes shut, too.
+The unexpected pain made me suck in a breath on instinct. I clenched my teeth and squeezed my eyes shut.
 
-The headache that had been slowly burrowing into my mind like an invisible awl had grown as huge as the long acupuncture needle the Medicine King Hall Master carried around like a prized weapon. Now it was tearing through my head.
+The headache that had been slowly burrowing into my mind like an invisible awl had grown as huge as the long acupuncture needle the Medicine King Hall Master carried around like a prized weapon, and it was now tearing through my head.
 
 *What the hell is this…!*
 
 With my vision gone white, I flailed my limbs like someone on the verge of drowning.
 
-Even then, I couldn’t let go of the one question still unanswered in my mind.
+Even in the middle of all this, though, I couldn’t let go of the one question in my mind that remained unanswered.
 
-Who did that voice, which had rung out like a hallucination at the last moment, belong to?
+Who was the owner of that voice that had rung out like a hallucination at the last moment?
 
-Who could speak to me in a space inside my mind rather than in the real world?
+Who could speak to me in a space inside my mind, rather than in the real world?
 
 *How? How could they do that?*
 
 There was one thing I could be sure of.
 
-The voice I’d heard belonged neither to Jeok Cheongang nor, least of all, to the Thunderbolt Saber King.
+The voice I’d heard at that moment belonged neither to Jeok Cheongang nor, even less so, to the Thunderbolt Saber King.
 
 And aside from those two old martial-world veterans, no one else could have communicated with me then.
 
@@ -244,37 +248,37 @@ But…
 
 I remembered only what they’d said. I couldn’t distinguish the pitch or depth of their voice, or even their gender.
 
-I couldn’t guess whether they were a woman or a man—or, if they were a man, how old they might be.
+I couldn’t guess whether they were a woman or a man. And if they were a man, I couldn’t even tell whether they were young or old.
 
-All I could vaguely recall was the sensation of that moment, dredged up at the cost of enduring that terrible headache.
+All I could vaguely recall was the sensation of that moment—the feeling I’d dredged up while enduring that terrible headache.
 
 *A strange familiarity.*
 
-The voice seemed as unfamiliar as something I’d never heard before, yet faintly, peculiarly familiar.
+It felt as unfamiliar as something I’d never heard before, and yet there was a faint, peculiar sense that I knew it.
 
-And that was all I could recover.
+And that was all I managed to recover.
 
 Whoosh!
 
-A flash of light exploded. The whiteness in my vision slowly receded, and my blurred sight began to come back into focus.
+A flash of light exploded. The whiteness in my vision slowly receded, and focus began to return to my blurry eyes.
 
 “……Ah.”
 
-I let out the breath I’d been holding and realized that the pain, which had seemed as though it would go on forever, had finally ended.
+I let out the breath I’d been holding and realized that the pain, which had seemed like it would go on forever, had finally ended.
 
-And with it, the memory I’d been allowed to recover had reached its limit.
+Along with the pain, the memory I’d been allowed to recover had reached its limit, too.
 
 *Damn it.*
 
-I stared silently at my fingertips, still trembling from the pain, then curled them into a tight fist.
+I stared silently at my fingertips, trembling with the remnants of the pain, then clenched them tight.
 
-Crunch.
+Crack.
 
-The skin of my palm, now almost like iron after Bone Transformation, pressed taut against my sharp fingernails.
+The skin of my palm, now almost like iron after undergoing Bone Transformation, pressed taut against my sharp fingernails.
 
-Perhaps it was the strange turmoil of my emotions.
+Perhaps it was because my emotions were surging so strangely.
 
-At that very moment, the vast qi sleeping inside my body began to boil—
+At that very moment, a vast energy sleeping inside my body began to boil—
 
 Ding.
 
@@ -289,6 +293,6 @@ Ding.
 
 Unknown Voice.
 
-I stared at the Quest title on the holographic window, then parted my tightly shut lips.
+As I stared at the Quest title on the holographic window, I opened my tightly shut lips.
 
 “Yes.”

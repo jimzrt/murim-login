@@ -138,13 +138,13 @@ A pang of regret struck me.
 
 But I already knew the answer.
 
-*I would’ve failed. And the odds would’ve been very high.*
+*I would’ve failed. Almost certainly.*
 
 Trying to break through to the upper dantian in those circumstances wouldn’t have been a challenge. It would’ve been a gamble.
 
 Even I, despite having fully opened my Middle Dantian and feeling an intense surge of elation, had instinctively understood the difference between courage and recklessness—and pulled back.
 
-The more I thought about it, the more indescribably frustrating it felt. But looking at it objectively, it had been a very good decision…
+The more I thought about it, the more frustrating it felt. But looking at it objectively, it had been a very good decision…
 
 *Wait.*
 
@@ -172,7 +172,7 @@ After turning the thought over for so long, my head felt hot.
 
 No—an invisible little awl was slowly burrowing into my mind.
 
-A headache slowly spread through me.
+A headache spread.
 
 But even as the pain made me wince, I kept searching my memory. I groped through the darkness for a tiny fragment hidden behind larger memories.
 
