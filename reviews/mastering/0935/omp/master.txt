@@ -10,7 +10,7 @@ Baek Yeon was one of the very few—perhaps the only person—who could come and
 
 “That doesn’t matter. I came to see Your Majesty.”
 
-At Commander Baek Yeon’s calm reply, the Emperor affected a frown.
+At the calm reply from the commander of the Embroidered Uniform Guard, the Emperor made a show of frowning.
 
 “I’d rather you hadn’t. I’ve seen enough of your face already.”
 
@@ -58,7 +58,7 @@ The answer came without hesitation. For a moment, the Emperor was at a loss for 
 
 “I concede. Flattery from you, of all people. You’ve changed, Baek Yeon.”
 
-“That’s true. Much like how Your Majesty has started making jokes.”
+“As have Your Majesty, now that you’ve started making jokes.”
 
 “Come now. I said I conceded. Enough nonsense.”
 
@@ -72,7 +72,7 @@ The sincerity in his words left the Emperor silent.
 
 Something welled up and caught in his throat. For the moment, he could barely speak. He fought the feeling down and forced out a reply.
 
-“If I’d had to walk that road alone, I would have given up along the way. I couldn’t have done it without you all.”
+“If I’d had to walk that road alone, I would have given up along the way. I couldn’t have done it without you.”
 
 “I don’t believe that.”
 
@@ -106,7 +106,7 @@ Could the Great Nation’s fourth prince, their last remaining choice, join them
 
 But he had proved himself. Better than anyone.
 
-Though the Imperial treasury was piled high with mountains of gold and silver, he had always lived frugally. Though peerlessly beautiful women had been presented before him, he had never indulged in women. He had even chosen not to produce an heir, for fear of putting his youngest brother in danger.
+Though the imperial treasury held mountains of gold and silver, he had always lived frugally. Though women of extraordinary beauty stood before him, he had never pursued them. He had even chosen not to have children, fearing that an heir of his own would put his youngest brother in danger.
 
 That way, Dark Heaven couldn’t harm Zhu Bao. They couldn’t recklessly kill a child with the legitimacy to replace the Emperor, nor could they inject him with Blood Soul Gu, which would swiftly kill its host.
 
@@ -118,7 +118,7 @@ The Emperor’s eyelids trembled at Baek Yeon’s quiet words.
 
 He hadn’t known. He hadn’t known Baek Yeon thought of him that way.
 
-Looking back over the road he’d traveled, the Emperor realized he wasn’t the only one who had kept his true feelings hidden. Baek Yeon had, too.
+Looking back on the road they’d traveled, he realized he wasn’t the only one who had kept his true feelings hidden.
 
 “I…… don’t know what to say.”
 
@@ -140,7 +140,7 @@ The Emperor shook his head, then clicked his tongue.
 
 “Are you talking about when you were learning martial arts?”
 
-“I am. You said, ‘Please forgive me for laying hands on Your Majesty’s precious body,’ then proceeded to beat me all over.”
+“I am. You’d say, ‘Please forgive me for laying hands on Your Majesty’s person,’ then beat me all over.”
 
 “Why bring that up all of a sudden?”
 
@@ -156,7 +156,7 @@ Baek Yeon frowned at the unexpected reminder.
 
 “That was……”
 
-Baek Yeon trailed off and glanced away at the empty air.
+Baek Yeon trailed off and looked away.
 
 He could excuse laying hands on the Emperor during martial arts training as part of teaching him. This was different. Even if he had meant to encourage the Emperor, some of the things he’d said and done had been anything but proper conduct for a subject.
 
@@ -166,7 +166,7 @@ He could excuse laying hands on the Emperor during martial arts training as part
 
 “You were taking poppy with our great undertaking so close at hand. I was afraid it would ruin your mind and body.”
 
-“What does that have to do with using the familiar form of address? I’d been bedridden and suffering for days, and had only just recovered some strength. I had to take poppy to ease the pain, even a little.”
+“What does that have to do with using the familiar form of address? I’d been bedridden for days and had only just regained a little strength. I needed the poppy to ease the pain, even a little.”
 
 “I know. I knew then, too, but I was worried about you, Your Majesty.”
 
@@ -176,7 +176,7 @@ At the edge of his vision, he’d caught the Emperor smiling.
 
 “……Ah.”
 
-“Do you concede defeat?”
+“Do you concede?”
 
 Baek Yeon realized the Emperor had been teasing him all along and sighed.
 
@@ -188,7 +188,7 @@ Baek Yeon realized the Emperor had been teasing him all along and sighed.
 
 “I was once a general like you. What matters more to a general than victory or defeat?”
 
-At the sight of the Emperor laughing with evident delight, Baek Yeon couldn’t help joining in with a hearty laugh.
+The Emperor looked so delighted that Baek Yeon couldn’t help laughing with him.
 
 What else mattered? If the Emperor was happy, that was enough.
 
@@ -214,11 +214,11 @@ Zhu Bao, the Great Nation’s new heir, would have to endure it too. Just when h
 
 The Emperor must have known. He needed to tell his brother to prepare for their parting, but he was afraid to face the boy’s grief. So he stayed away.
 
-*……I see.*
+*……Damn.*
 
 Baek Yeon forced the corners of his mouth back up. Not wanting to spoil the Emperor’s brief happiness, he spoke as brightly as he could.
 
-“By the way, something good must have happened today. Did Jin Taekyung bring you some amusing news?”
+“Something good must have happened today. Did Jin Taekyung bring you some amusing news?”
 
 “Amusing news? He did.”
 
@@ -236,7 +236,7 @@ The Emperor smiled as he added the next words. Baek Yeon’s smile vanished.
 
 The Emperor didn’t wait for an answer.
 
-“Those few absurd words made me feel hopeful.”
+“Those few absurd words made me hope.”
 
 It was strange. How could Jin Taekyung promise such a thing with such certainty on his face, such a gleam in his eyes?
 

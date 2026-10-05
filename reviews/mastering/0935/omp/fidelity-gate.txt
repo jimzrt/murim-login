@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is faithful overall, with two minor shifts in meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 17–18",
+      "current": "I’d rather you hadn’t.",
+      "defect": "This makes the Emperor wish Baek Yeon had not come. The Korean says he would rather decline, in response to Baek Yeon coming to see him.",
+      "replacement": "I’d rather decline.",
+      "rationale": "The next sentence explains the refusal: the Emperor has already seen enough of Baek Yeon’s face.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 189",
+      "current": "had been anything but proper conduct for a subject.",
+      "defect": "This conveys impropriety but drops the source’s explicit judgment that Baek Yeon’s behavior was disloyal.",
+      "replacement": "had been disloyal, with none of the proper respect between ruler and subject.",
+      "rationale": "The Korean calls his words and actions 불충한—disloyal—and says they showed no etiquette between sovereign and subject.",
+      "confidence": 0.86
+    }
+  ]
+}
