@@ -16,7 +16,7 @@ They discussed the beauty of a high official’s new concubine—the sort of off
 
 “I did.”
 
-“And he still got caught? Even with connections in the Guard?”
+“And he still got caught? Even with a son in the Guard?”
 
 “Oh, that one. Apparently, he was dismissed not long ago.”
 
@@ -268,13 +268,13 @@ What could that possibly mean?
 
 *A purge…!*
 
-A silent scream rang in their heads. Their backs were already slick with cold sweat as they sensed the danger.
+A silent scream rang in their heads. Cold sweat had already soaked their backs.
 
 They should have left long ago.
 
 Whether the rumor was true or not, this was a story they should never have heard.
 
-At that moment, they felt as if they were standing at the edge of a thousand-*zhang* cliff, one misstep from a fall they could never climb back from.
+They felt as if they were standing at the edge of a sheer cliff, where one misstep would send them plunging too far to ever climb back.
 
 The middle-aged man, meanwhile, was happily counting his silver. He and a few others hadn’t grasped the danger at all.
 
@@ -342,7 +342,7 @@ Shouts and tearful pleas burst out across the inn. An instant later, the screams
 
 Bang! Crash!
 
-Amid the crashes ringing through the inn, the Embroidered Uniform Guard captain leaped from the second-floor railing and landed lightly on the ground. He patted the trembling middle-aged man on the shoulder.
+Amid the crashes, the officer pushed off the second-floor railing and landed lightly beside the trembling middle-aged man. He patted him on the shoulder.
 
 “Now, it’s noisy here. Let’s go somewhere else and talk. You can tell me what else you know, who fed you that bullshit, and who else has heard it.”
 

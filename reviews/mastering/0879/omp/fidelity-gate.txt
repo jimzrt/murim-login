@@ -1,0 +1,35 @@
+{
+  "summary": "Mostly faithful, with a few minor shifts in meaning and emphasis.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 15",
+      "current": "He may have committed crimes against his own family to take the throne",
+      "defect": "The source says he committed an act against the bonds of kinship to take the throne; it does not specifically say that he committed crimes against his family.",
+      "replacement": "He may have violated even the bonds of kinship to take the throne",
+      "rationale": "The current wording adds a specific target—his own family—that the Korean does not establish.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 13",
+      "current": "they raised their cups again and again",
+      "defect": "The source says they repeatedly called out toasts, not merely that they raised their cups.",
+      "replacement": "they kept calling for one toast after another",
+      "rationale": "The Korean explicitly describes people shouting “cheers” at the news, preserving a voiced, celebratory reaction.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 11",
+      "current": "you found people repeating rumors they’d heard from someone else as if they were facts",
+      "defect": "The source depicts people teeming throughout Hangzhou; the current wording omits that sense of crowds everywhere.",
+      "replacement": "you found the streets teeming with people repeating rumors they’d heard from someone else as if they were facts",
+      "rationale": "득실거렸다 conveys that such people were abundant and everywhere, not just present wherever one went.",
+      "confidence": 0.83
+    }
+  ]
+}
