@@ -6,7 +6,7 @@ So Gyo watched Jin Taekyung until he vanished in the distance, turning over the 
 
 *He’s still a kid, you crazy bastards.*
 
-She wondered what expression Jin Taekyung had worn then, and how much of the anger and bitterness in his departing figure had been genuine.
+She wondered what expression he’d worn when he said them. How much of the anger and bitterness she’d sensed as he walked away had been genuine?
 
 There was no way for her to know.
 
@@ -42,7 +42,7 @@ The woman calling herself So Gyo had the standing and the strength to speak that
 
 “I had to see for myself whether the rumors about the Blazing Flame Divine Dragon, Jin Taekyung, were true. Whether he really was the one that person spoke of. And…”
 
-So Gyo turned her head. Her gaze swept over the place where someone had been moments ago, though that person was already gone. For an instant, her eyes gleamed sharply.
+So Gyo turned her head. Her gaze swept over the place where Jin Taekyung had stood. For an instant, her eyes sharpened.
 
 “What kind of person he is.”
 
@@ -110,9 +110,9 @@ So Gyo nodded.
 
 “You must have guessed already.”
 
-“Of course I have. But before we wipe them all out in one place, we should go after Jin Taekyung right now—”
+“Of course I have. But rather than wait to wipe them all out in one place, we could deal with Jin Taekyung now—”
 
-“Impossible.”
+“No.”
 
 So Gyo cut him off firmly.
 
@@ -136,7 +136,7 @@ A hero born of the Great Faction War. A demon awakened by the Demonic Cult.
 
 A man whose martial prowess towered above even those powerful enough to be called kings.
 
-He could not reach someone born in a human body and called a god, but he stood shoulder to shoulder with the Three Stars. If he took the other side, they would have to be prepared for tremendous losses.
+He could not reach the one born human who had come to be called a god, but he was said to stand shoulder to shoulder with the Three Stars. If he took the other side, they would have to be prepared for tremendous losses.
 
 Even with So Gyo, Baek Yeon himself, the Emperor, and several other Supreme Peak masters on their side.
 
@@ -152,15 +152,13 @@ Then So Gyo continued, a faint smile on her lips, and he realized she meant it.
 
 “……!”
 
-Leaving Baek Yeon frozen like a statue, unable to understand her at all, So Gyo turned away with a quiet laugh.
-
-The words she hadn’t told him drifted through her mind.
+Baek Yeon stood frozen like a statue, unable to make sense of her words. So Gyo gave a quiet laugh and turned away, keeping the rest to herself.
 
 *Wait. You’ll know soon enough.*
 
 Baek Yeon thought he knew everything, but he was wrong.
 
-The story So Gyo had kept from him was something only she and the Emperor knew. Secrets were better off unknown.
+What she hadn’t told him was known only to her and the Emperor. A secret was better kept secret.
 
 At least until the banquet both allies and enemies were so eagerly awaiting.
 
@@ -186,7 +184,7 @@ Hyuk Mujin’s face was tense.
 
 “What if they catch you…?”
 
-“They won’t. Not in this situation. You were there and heard it too, so you know.”
+“They won’t. Not in this situation. You heard what I did.”
 
 “I know. I know it’s urgent. But still…”
 
@@ -214,7 +212,7 @@ This was both a warning and a declaration: don’t try to avoid the all-or-nothi
 
 Our enemies had engineered this situation because they were confident they’d win. But however thoroughly they’d prepared, whatever traps they’d set, we couldn’t back down.
 
-*We have to fight. Right now, before we worry about winning or losing, we have to make a decision.*
+*We have to fight. Before we worry about winning or losing, we have to make that decision.*
 
 The stage was set. So were the actors.
 
@@ -240,7 +238,7 @@ Flash! Kaboom!
 
 *Now.*
 
-At the instant white light flashed and a thunderous boom rang out, I pushed off the railing and sprang into the air.
+As white light flashed and thunder boomed, I pushed gently off the railing and sprang into the air.
 
 Whoosh!
 
@@ -270,7 +268,7 @@ But not everything went smoothly.
 
 “What are you doing here?”
 
-“Y-Yes, sir!”
+“S-sir!”
 
 “If I remember the regulations correctly, your assigned post isn’t beneath the eaves.”
 
@@ -282,4 +280,4 @@ Jeong Hogun.
 
 A high-ranking Thousand Captain in the Embroidered Uniform Guard, he was walking toward the Imperial Guards.
 
-And at the same time, he was heading toward me, concealed not far away in the darkness.
+And toward me, hidden not far away in the darkness.
