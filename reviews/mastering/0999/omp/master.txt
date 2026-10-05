@@ -56,7 +56,7 @@ Hyuk Mujin answered without hesitation.
 
 “No. I don’t really know either. I just said the first thing that came to mind.”
 
-“Are you insane? Now I’m even more confused.”
+“Are you fucking insane? Now I’m even more confused.”
 
 “I’m sorry.”
 
@@ -64,7 +64,7 @@ Hyuk Mujin answered without hesitation.
 
 Ju Hwaran shot up a hand.
 
-“May you be healthy in every way. May your health be sound in every respect.”
+“Sound in every respect. May your health be sound in every respect.”
 
 “Oh. As expected of Young Lady Ju. Ten points to the Griffin Yongbong Escort Bureau.”
 
@@ -86,7 +86,7 @@ I belatedly realized I’d said it wrong and let out a deep sigh. Depending on h
 
 “Yes?”
 
-“Get down and put your head on the ground.”
+“Put your head down.”
 
 “Ah, yes.”
 
@@ -94,7 +94,7 @@ As Hyuk Mujin performed the remarkable feat of putting his head down while seate
 
 “You haven’t changed. Still as brazen as ever.”
 
-His snow-white beard hung down to his navel, making him look like an immortal who’d descended to the mortal world. But I already knew better.
+It was the one with the luxuriant white beard. The snow-white hair hung to his navel, making him look like an immortal dwelling among mortals. But I knew better.
 
 Hwangbo Eom, the Taeeul Merciless Sword, was about as far from an immortal as a man could get.
 
@@ -170,13 +170,13 @@ A graying Daoist with a goatee of awkward, in-between length clasped his hands r
 
 “Well, it’s been a while. What was your name again? Gong Piljung?”
 
-“Not Piljung. Iljung. I’m Gong Iljung, Great Hero Jeok.”
+“Not Piljung. Iljung. Gong Iljung, Great Hero Jeok.”
 
 “Ah, yes. I remember now. Wind-and-Cloud War God Gong Iljung.”
 
 “……Wind-and-Cloud Sword Lord.”
 
-“Good grief. I keep getting my words mixed up today. Sorry about that, Wind-and-Cloud Sword Lord Gong Piljung.”
+“Good grief. I keep getting my words mixed up today. My apologies, Wind-and-Cloud Sword Lord Gong Piljung.”
 
 The Wind-and-Cloud Sword Lord looked at me, all the fight gone out of him. His half-resigned eyes held a question he desperately wanted answered.
 
@@ -200,7 +200,7 @@ Feeling a little sorry that he’d caught some of the insult unintentionally, I 
 
 “Likewise.”
 
-Jeok Cheongang answered without hesitation, then looked over the Zhongnan Sect Disciples filling the forest path and added,
+Jeok Cheongang looked over the Zhongnan disciples filling the forest path.
 
 “I thought you’d be in Gansu or Qinghai by now.”
 
@@ -216,7 +216,7 @@ He couldn’t bring himself to finish, but his eyes shifted toward the answer.
 
 Song Il and Hwangbo Eom watched us with grim faces. I could piece together most of what had happened.
 
-*They’d dug in their heels and dared anyone to do something about it.*
+*They dug in their heels.*
 
 For some reason, those old bastards seemed to have held the whole Zhongnan Sect back. I was almost certain of it, especially since something similar had happened recently.
 
@@ -244,7 +244,7 @@ Song Il and Hwangbo Eom frowned as the remark found its marks.
 
 Jeok Cheongang’s stern rebuke was directed at me. He went on without pause.
 
-“Just making it this far while pissing blood all the way here makes you heroes! These great seniors of the Murim are only now beginning to act their age after all this time. How can you speak to them so rudely?”
+“Making it this far while pissing blood the whole way makes them heroes! These great seniors of the Murim have finally started acting their age. How dare you speak to them like that?”
 
 “……!”
 
@@ -256,7 +256,7 @@ Each word from the merciless Tongue King cut to the bone. Gong Iljung struggled 
 
 “G-Great Hero Jeok. Please, for my sake and my Master’s…”
 
-“All right. I’ll stop here.”
+“All right. I’ll stop there.”
 
 “Thank you.”
 
