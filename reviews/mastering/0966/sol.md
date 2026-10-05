@@ -36,7 +36,7 @@ A single step.
 
 Jamukha’s form blurred for an instant, then reappeared about ten feet away.
 
-He had dodged the attack with a ghostly movement. Just as he surged toward the Thunderbolt Saber King, a faint whistle sounded from beyond his blind spot.
+He had evaded the attack with a ghostly movement. Just as he surged toward the Thunderbolt Saber King, a faint whistle sounded from his blind spot.
 
 *Shwaa!*
 
@@ -72,7 +72,7 @@ But…
 
 *This is as far as it goes.*
 
-Without a word anyone could hear, Jamukha shook out both arms.
+Speaking too softly for anyone to hear, Jamukha shook out both arms.
 
 Green Force, like the vast grasslands where he had been born and raised, surged along his crescent saber and his empty hand.
 
@@ -104,7 +104,7 @@ As though his opponent had seen through both the form and the flow of the martia
 
 Confusion and anger mingled in his voice.
 
-The two blades remained locked in midair, their wielders’ bodies still apart. Jamukha looked at the Thunderbolt Saber King with calm eyes.
+Their sabers remained locked in midair, neither blade having reached its opponent. Jamukha met the Thunderbolt Saber King’s gaze calmly.
 
 “I’m disappointed. Shouldn’t you have saved your much younger junior first, Thunderbolt Saber King?”
 
@@ -120,7 +120,7 @@ A mistake.
 
 No—a grievous misjudgment.
 
-Jamukha was stronger than he had thought, and he was a far more formidable master, with deeper secrets.
+Jamukha was stronger than he had thought, and the secrets he held ran far deeper.
 
 *BOOM!*
 
@@ -132,7 +132,7 @@ The Thunderbolt Saber King let the force of the impact pass through him, then br
 
 A strike combining his innate divine strength with several jiazi of internal energy.
 
-Born the third son of the Hebei Peng Family, he had become its Family Head and the Thunderbolt Saber King through the family’s peerless martial art, the Primordial Thunderbolt Saber. Now it fell like a bolt of lightning.
+The Primordial Thunderbolt Saber—the peerless martial art of the family that had made Hebei Peng’s third son its Family Head and the Thunderbolt Saber King—fell like a bolt of lightning.
 
 As if it would split the world in two along with the enemy before him.
 
@@ -162,7 +162,7 @@ Neither moved first.
 
 As if on cue, both men shot toward each other.
 
-No one there could see the teeth and claws of the great tiger from the Hebei Peng Family or the wolf of the Great Steppe—so fast and so powerful were they.
+The teeth and claws of the great tiger from the Hebei Peng Family and the wolf of the Great Steppe moved too fast—and struck too hard—for anyone there to see.
 
 *BOOM! BOOM! KRAAA-BOOM!*
 
@@ -174,7 +174,7 @@ The screams of those caught in the tremendous shock waves sweeping across the go
 
 Arms and legs tore from bodies. Fountains of blood shot into the air.
 
-Beyond a thick haze of blood, flashes of light kept sparking without pause. The nomads caught at the heart of the calamity fled for their lives.
+Through the thick haze of blood, flashes kept bursting without pause. The nomads caught at the center of this sudden calamity fled for their lives.
 
 Some ran toward the relatively safe entrance at the rear.
 
@@ -184,7 +184,7 @@ Those with no choice but to take the latter route found themselves face-to-face 
 
 *Thud-thud-thud!*
 
-Dozens of nomads, unable to dodge the arrows raining down from the still-standing earthen rampart, fell like pincushions. The blades in the hands of Shanxi fighters flashed as they pressed forward, trampling the crumbling bodies.
+Dozens of nomads, unable to dodge the arrows raining down from the still-standing earthen rampart, fell like pincushions. The blades of the Shanxi fighters flashed as they pressed forward over the collapsing bodies.
 
 *Shhk!*
 
@@ -194,7 +194,7 @@ Having cut through a crescent saber and its wielder, he steadied his ragged brea
 
 Toward the enemies inside the gorge, who had once seemed endless no matter how many they killed, but were now being swept away like a wave.
 
-Toward the heart of the gorge, where two monsters were locked in a fierce battle.
+Toward the heart of the gorge, where two monsters were locked in battle.
 
 Danger?
 
@@ -204,9 +204,9 @@ The arrow had already been loosed. If they retreated now, only a defeat they cou
 
 *We have to seize the gorge and drive them out as soon as possible. That’s our only chance.*
 
-The arrival of the Hebei Peng Family, led by the Thunderbolt Saber King, had greatly improved the desperate battle situation. But Jin Wikyung’s cool head saw every detail of the position his side was in.
+The arrival of the Hebei Peng Family, led by the Thunderbolt Saber King, had turned a desperate battle around. But Jin Wikyung could see exactly where his side still stood.
 
-*This momentum is only temporary. If the enemy regains their composure, the tide will turn again.*
+*This momentum is only temporary. Once they regain their composure, the tide will turn again.*
 
 The Hebei Peng Family was undoubtedly strong.
 
@@ -218,7 +218,7 @@ Jamukha was fighting the Thunderbolt Saber King without giving an inch, and beyo
 
 Their morale had faltered, but they still outnumbered the Hebei Peng Family ten to one—perhaps more.
 
-Even after thousands of their soldiers had been killed or put out of action in the narrow gorge, the fundamental gap in their forces remained.
+Even after thousands of their soldiers had been killed or put out of action in the narrow gorge, the fundamental difference in their forces remained.
 
 There was only one answer.
 
@@ -264,7 +264,7 @@ The two forces had shared a border and been at odds for many years. Now they swu
 
 “Brothers of the Great Steppe! Will you retreat before a mere handful of Han Chinese?”
 
-Those cries, carried on the wind as they rang out against each other, perfectly reflected the situation they were in.
+Their cries carried on the wind, each side’s words reflecting the position it faced.
 
 The Hebei Peng Family’s martial artists were individually superior. But the nomads outnumbered them more than ten to one, surrounded them on all sides, and attacked without pause.
 
@@ -284,7 +284,7 @@ Still, a trace of unease lingered in their hearts.
 
 The Keshik centurions Jamukha had left outside the gorge exchanged grim looks.
 
-The Hebei Peng Family’s sudden arrival had sent the morale of the Shanxi fighters soaring, while brutally crushing the nomads’ momentum.
+The Hebei Peng Family’s sudden arrival had sent the Shanxi fighters’ morale soaring while crushing the nomads’ spirit.
 
 There was the imposing presence of a master like the Thunderbolt Saber King.
 
@@ -292,7 +292,7 @@ And there was the Hebei Peng Family’s reputation, which had kept the nomads fr
 
 Some of the centurions were already reaching inside their robes without realizing it.
 
-*If we use that now, we could turn this battle around in an instant.*
+*If we used that now, we could turn this battle around in an instant.*
 
 But the thought quickly faded.
 
@@ -306,7 +306,7 @@ Not simply because they were his subjects, but because it was Jamukha who had gi
 
 Jamukha was always coolheaded and certain. Everything he had said so far had proved right, and this would, too.
 
-That wouldn’t change even if the opponent was the Thunderbolt Saber King.
+Even against the Thunderbolt Saber King, the centurions believed that much.
 
 They had only one small question.
 
@@ -322,7 +322,7 @@ As the centurions recalled those words from several days ago and watched the bat
 
 *Rrrrattle.*
 
-Beyond the vast basin, where tens of thousands of enemies and allies were tangled together, a group suddenly emerged from the darkness. All at once, they drew their bows.
+Beyond the vast basin, where tens of thousands of allies and enemies fought tangled together, a group suddenly emerged from the darkness. All at once, they drew their bows.
 
 *Shwaaaaa!*
 
