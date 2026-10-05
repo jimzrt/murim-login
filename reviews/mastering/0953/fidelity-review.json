@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "A war in which both sides threw everything they had into the fight.",
+      "defect": "The source describes both sides colliding with all their might as they stake everything. The current line preserves the stakes but drops the image of the sides clashing, which the accepted baseline retained.",
+      "id": "F01",
+      "rationale": "서로가 온 힘을 다해 부딪치는 explicitly conveys both sides colliding with all their strength.",
+      "replacement": "A war in which both sides clashed with all their might, each staking everything they had.",
+      "severity": "minor",
+      "source": "Korean line 11"
+    },
+    {
+      "confidence": 0.88,
+      "current": "“By your command, we broke the enemy’s vanguard and returned.”",
+      "defect": "The report omits the source’s emphatic modifier for the command, which the accepted baseline rendered as “strict orders.”",
+      "id": "F02",
+      "rationale": "지엄하신 명령 conveys an august or strict command, not merely a command.",
+      "replacement": "“Under your strict orders, we broke the enemy’s vanguard and returned.”",
+      "severity": "minor",
+      "source": "Korean line 25"
+    },
+    {
+      "confidence": 0.91,
+      "current": "But they had made up their minds and refused to leave.",
+      "defect": "The current line omits the emphasis that they persisted in refusing to leave, which the accepted baseline preserved.",
+      "id": "F03",
+      "rationale": "끝끝내 emphasizes that they would not leave despite repeated efforts to persuade them.",
+      "replacement": "But they had made up their minds and refused to leave to the very end.",
+      "severity": "minor",
+      "source": "Korean line 203"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with a few minor omissions of source emphasis and a physical image preserved in the accepted baseline.",
+  "version": 1
+}

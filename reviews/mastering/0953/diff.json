@@ -1,0 +1,2128 @@
+{
+  "baseline_blocks": 156,
+  "baseline_sha256": "8ea1924b18a5ee2669ebf0bb666ca658e203d38349767b3c36dee061c091d7c0",
+  "global_terminology_alerts": [
+    {
+      "korean": "진태경",
+      "preferred": "Jin Taekyung"
+    }
+  ],
+  "hunk_count": 113,
+  "hunks": [
+    {
+      "baseline": "A war in which both sides clashed with all their might, each staking everything they had.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "11",
+      "sol": "A war in which both sides threw everything they had into the fight.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And Jin Wikyung had not the slightest intention of gambling everything he had on a single throw.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "13",
+      "sol": "And Jin Wikyung had no intention of staking everything he had on a single gamble.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Commander of the Heaven Shaking Squad, Jin Mukyung. I report to the Lesser Family Head.”",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "15",
+      "sol": "“Jin Mukyung, Commander of the Heaven Shaking Squad, reporting to the Lesser Family Head.”",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His voice was calm, but his whole body was soaked in blood.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "17",
+      "sol": "His voice was calm, though his whole body was soaked in blood.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Mukyung had left at noon and returned only around midnight. He looked like nothing so much as a blood demon.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "19",
+      "sol": "Mukyung had left at noon and returned only around midnight. He looked like a blood demon.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진무경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Mukyung"
+        }
+      ]
+    },
+    {
+      "baseline": "But their proud strides and blazing eyes were proof of the Jin Family of Taiyuan’s first victory.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "23",
+      "sol": "But their proud strides and bright, fierce eyes were proof of the Jin Family of Taiyuan’s first victory.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Under your strict orders, I broke the enemy’s vanguard and returned.”",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "25",
+      "sol": "“By your command, we broke the enemy’s vanguard and returned.”",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Mukyung continued, unhurried.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "27",
+      "sol": "Mukyung went on with his report.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진무경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Mukyung"
+        }
+      ]
+    },
+    {
+      "baseline": "Of the slightly more than two hundred men in the Heaven Shaking Squad, twenty-three had died and thirty-seven had suffered injuries, both serious and minor.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "29",
+      "sol": "Of the slightly more than two hundred men in the Heaven Shaking Squad, twenty-three had died and thirty-seven had suffered injuries, serious or minor.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the news that a single battle had left sixty casualties among the elite fighting force the Jin Family of Taiyuan had devoted itself to cultivating alongside the Jin Dragon Squad, several of the senior leaders grew somber. But the report that followed washed away even that brief sadness.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "31",
+      "sol": "Several of the senior leaders grew somber at the news. In a single battle, the Jin Family of Taiyuan had lost sixty men from an elite force it had devoted itself to raising alongside the Jin Dragon Squad. But the rest of Mukyung’s report swept even that brief sorrow away.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had annihilated the enemy vanguard, five times their number.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "35",
+      "sol": "They had annihilated an enemy vanguard five times their number.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And that included a hundred of the enemy’s elite troops.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "And among them had been a hundred of the enemy’s elite troops.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The people who had been listening in tense silence all let out a cheer at once.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "41",
+      "sol": "Everyone who had been listening in tense silence cheered at once.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And not just a victory, but an overwhelming one beyond any dispute.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "45",
+      "sol": "An overwhelming victory, beyond any dispute.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yet even as the air grew hot with excitement, Jin Wikyung kept his composure amid the celebrations.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "47",
+      "sol": "Yet even as excitement surged around him, Jin Wikyung kept his composure.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "War was like building a sandcastle. You had to keep scooping up sand and piling it on, again and again, before it was complete.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "53",
+      "sol": "War was like building a sandcastle. You had to scoop up sand and pile it on, again and again, before it was complete.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And even a sandcastle painstakingly built that way could collapse from a single hard kick.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "55",
+      "sol": "And even a sandcastle built with such care could collapse from a single hard kick.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*But if we build it solidly enough that it won’t collapse even when kicked, that changes things.*",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "57",
+      "sol": "*But if we build it solidly enough to withstand that kick, it’s another story.*",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Fortunately, the Jin Family of Taiyuan’s preparations had been thorough enough to make the limited time they’d had seem irrelevant.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "59",
+      "sol": "Fortunately, the Jin Family of Taiyuan’s preparations had been thorough despite the little time they’d had.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "By now, the grassland army—likely crossing the Great Wall and passing through northern Shanxi Province—must have been bewildered.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "61",
+      "sol": "By now, the grassland army was probably across the Great Wall and moving through northern Shanxi Province. They would have been stunned twice over.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "First, by the news that its vanguard, which included its finest troops, had been wiped out.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "63",
+      "sol": "First by the news that their vanguard, including some of their finest troops, had been wiped out.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then again, by the situation in the north, which had truly been left *empty*.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "65",
+      "sol": "And then by finding the north truly *empty*.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*You won’t find a thing to take in the north.*",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "67",
+      "sol": "*You won’t find a thing to take there.*",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung had pulled all the troops and commoners back from the north. He had also ordered every field—on the verge of harvest—to be burned.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "71",
+      "sol": "Wikyung had withdrawn all the troops and commoners and ordered every field, though harvest was near, burned.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진위경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Wikyung"
+        }
+      ]
+    },
+    {
+      "baseline": "Naturally, it was an excellent tactic against a huge army numbering in the tens of thousands. But Jin Wikyung had agonized over the decision dozens of times before making it.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "75",
+      "sol": "",
+      "sol_paragraphs": "after P36",
+      "sol_range": [
+        36,
+        36
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진위경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Wikyung"
+        }
+      ]
+    },
+    {
+      "baseline": "That was, until Assistant Military Commissioner Li Feng of Shanxi Province and several hundred people came to him first.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "77",
+      "sol": "Against an army of tens of thousands, it was an excellent tactic. Even so, Wikyung had agonized over the decision dozens of times—until Assistant Military Commissioner Li Feng of Shanxi Province and several hundred others came to him of their own accord.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“We have several tens of thousands of seok of provisions in reserve. We can more than handle their food supply.”*",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "81",
+      "sol": "*“We have tens of thousands of seok of provisions in reserve. We can feed those people.”*",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Li Feng, who could be considered the most senior official actually present at the Shanxi Provincial Office in the absence of Zhu Bao and Hong Jin, promised his full cooperation.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "85",
+      "sol": "With Zhu Bao and Hong Jin absent, Li Feng was effectively the highest-ranking official at the Shanxi Provincial Office. He promised his full cooperation.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The northern villagers, forced to leave their homes overnight—or rather, the village headmen—were already half blind with rage.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "93",
+      "sol": "The people of the north who had been forced to leave their homes overnight—or rather, their village headmen—were already half blind with rage.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Those damn bastards. They’ve been storming in and raising hell all the time, and now they’ve come to take our fields, too?”*",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "97",
+      "sol": "*“Those damn bastards. They come raiding and raising hell all the time, and now they want to take what’s growing in our fields, too?”*",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Everyone in our village has already agreed. If even one grain of rice gets into those barbarian bastards’ mouths, I’ll be torn to pieces.”*",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "99",
+      "sol": "*“Everyone in my village has agreed. If even one grain of rice ends up in those barbarian bastards’ mouths, they’ll tear me apart.”*",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“I’d sooner feed rice to pigs and cows. I wouldn’t stand for that even after I’m dead!”*",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "101",
+      "sol": "*“I’d sooner feed rice to the cows and pigs. I won’t stand for those bastards eating it, even when I’m dead!”*",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Shit. If anyone objects, step forward now. I don’t know who you are, but if you so much as open your mouth, I’ll call you a barbarian and shave your head clean so I can give you a queue!”*",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "103",
+      "sol": "*“Shit. If anyone objects, step forward now. I don’t care who you are—open your mouth and I’ll take you for a barbarian, shave your head, and give you a queue.”*",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Hey, you, Mr. Song! Why aren’t you saying anything? You got honey on those fields?”*",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "105",
+      "sol": "*“Hey, Mr. Song! Why aren’t you saying anything? You got honey spread over your fields?”*",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the village headman, Mr. Song, who had stayed silent without saying a word, earned a round of applause from everyone with just one suggestion.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "109",
+      "sol": "Mr. Song, the village headman who had said nothing at all, earned everyone’s applause with a single suggestion.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“……!”*",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "115",
+      "sol": "*“…!”*",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“It’d be even better if we took a dump and pissed in the stream before we left.”*",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "117",
+      "sol": "*“And before we leave, we should all shit and piss in the streams.”*",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Why the piss and shit, too?”*",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "119",
+      "sol": "*“What’s the shit and piss for?”*",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Good heavens! How could anyone come up with such a brilliant plan…!”*",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "123",
+      "sol": "*“Good heavens! How did you come up with a plan like that…?”*",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“I tried it once. Drank nearly half a gallon of the stuff. Thought I was going to die.”*",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "125",
+      "sol": "*“I tried it once. Drank about half a gallon. Thought I was going to die.”*",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mr. Song, a farmer with the unusual distinction of having drunk sewage, became a hero overnight. As people shoved poisonous weeds into the wells and shat and pissed by the streams, they wondered why he hadn’t placed first in the civil service exams.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "129",
+      "sol": "Mr. Song, a farmer with the unusual distinction of having drunk filthy water, became a hero overnight. As people stuffed poisonous plants into the wells and fouled the streams, they wondered why he had never placed first in the civil service exams.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "All while saying that the only good barbarian was a dead one—words that would have shocked someone if they’d heard them.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "131",
+      "sol": "All while declaring that the only good barbarian was a dead one—a remark that would have shocked a certain someone, had they heard it.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung wore a cold smile.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "135",
+      "sol": "Jin Wikyung smiled coldly.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It produced plenty of grain, but it was neither as developed as the Central Plains nor as powerful.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "139",
+      "sol": "It produced plenty of grain, but it was neither as developed as the Central Plains nor as strong militarily.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But for that very reason, when crisis came, its people could come together all the more strongly.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "141",
+      "sol": "Yet that was why its people could unite all the more fiercely in a crisis.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The long years of raids by mounted bandits and nomads had instilled a fierce resolve in the people of Shanxi. Now that resolve had caught fire.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "143",
+      "sol": "Long years of raids by mounted bandits and nomads had instilled a stubborn resolve in the people of Shanxi. Now that resolve had caught fire.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*We will protect it. No matter what.*",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "145",
+      "sol": "*We will protect it.*",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung had already made up his mind.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "147",
+      "sol": "Wikyung had already made up his mind.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진위경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Wikyung"
+        }
+      ]
+    },
+    {
+      "baseline": "He had given up sleep and rest, devoting himself to everything at hand. He sent swift-footed subordinates to survey the situation in the north and organized small detachments to watch for any unexpected division of enemy forces.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "149",
+      "sol": "He had gone without sleep or rest to devote himself to the preparations. He sent swift-footed subordinates to watch the north and organized small detachments to look for any enemy forces that might split off from the main army.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had personally ordered traps and iron caltrops set along every detour except Jeongyang, and checked on the progress of the work himself. All of it was part of the same effort.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "151",
+      "sol": "He had ordered traps and iron caltrops set along every detour except Jeongyang. Checking the progress of the work himself was part of that effort.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Taking the reinforcement work into account, it should be finished within half a day at the latest.”",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "155",
+      "sol": "“With the reinforcement work included, it should be finished within half a day at the latest.”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the end of this vase-shaped gorge, which had swallowed countless lives from the Great Faction War to the present, five new towers now rose where none had stood before.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "159",
+      "sol": "At the far end of the vase-shaped gorge, which had swallowed countless lives from the Great Faction War to the present day, stood five towers where none had stood before.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Made from a mixture of mud, wood, and stone, each stood three *jang* high and had a flat area large enough to accommodate a little over two hundred people.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "161",
+      "sol": "Built of mud, wood, and stone, each rose three *jang* high. Each had a level platform large enough to hold a little over two hundred people.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Taking the heights above the gorge isn’t enough. These forts are essential to our victory. Please do everything you can to make sure they don’t collapse.”",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "165",
+      "sol": "“Taking the heights above the gorge isn’t enough. These forts are essential to victory. Please do everything you can to make sure they don’t collapse.”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even as the two exchanged a few brief words, countless people around them went about their assigned tasks.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "171",
+      "sol": "Even as the two spoke, countless people around them went about their assigned tasks.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were a diverse lot.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "173",
+      "sol": "They came from all walks of life.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Martial artists in uniforms embroidered with the names of their sects tirelessly hauled weapons and heavy materials. Government troops in official uniforms moved in orderly formation at the commands of their officers.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "175",
+      "sol": "Martial artists in uniforms bearing the names of their sects hauled weapons and heavy materials without pause. Government troops in official uniforms moved at their officers’ commands.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But Jin Wikyung’s gaze was fixed on another group, each dressed so differently that their affiliations were impossible to make out, all hard at work.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "177",
+      "sol": "But Wikyung’s gaze settled on another group, people dressed in all sorts of clothes with no affiliation to mark them, working just as hard.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진위경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Wikyung"
+        }
+      ]
+    },
+    {
+      "baseline": "“On three, pull!”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "179",
+      "sol": "“Pull on three!”",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“One, two!”",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "181",
+      "sol": "“One, twooo!”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The men, covered in dust, labored on, sweat streaming off them.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "185",
+      "sol": "Men covered in dust kept up the grueling labor, sweat pouring off them.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The women carried supplies needed for battle and prepared simple meals.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "191",
+      "sol": "Women carried supplies for the battle and prepared simple food.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Jin Wikyung looked at the several thousand commoners, he felt a tightness in his chest.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "193",
+      "sol": "Looking at the thousands of commoners, Wikyung felt a tightness in his chest.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진위경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Wikyung"
+        }
+      ]
+    },
+    {
+      "baseline": "He had warned them in all sincerity, over and over. He had tried to persuade them.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "197",
+      "sol": "He had warned them sincerely, again and again. He had tried to persuade them.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This wasn’t just a dispute among martial artists.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "199",
+      "sol": "This wasn’t merely a dispute among martial artists.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a brutal war that would claim countless lives, and they—the powerless—would suffer the most.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "201",
+      "sol": "It was a brutal war that would claim countless lives, and they, with no strength to defend themselves, would suffer the most.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the people who had already made up their minds had refused to leave to the very end.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "203",
+      "sol": "But they had made up their minds and refused to leave.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had come here to help, even onto a battlefield about to be swept by a storm of bloodshed.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "205",
+      "sol": "They had even come to help here, on a battlefield that would soon be swept by bloodshed.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old carpenter, who had been glancing sideways at Jin Taekyung, chuckled.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "211",
+      "sol": "The old carpenter glanced sideways at Wikyung and chuckled.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "He said he had turned seventy several years ago. As he laughed out loud, air whistled through the gaps between the few teeth he had left.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "213",
+      "sol": "He had passed seventy several years ago. When he laughed, air whistled through the gaps between the few teeth he had left.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t you worry about it. This old man and all those folks out there came prepared.”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "215",
+      "sol": "“Don’t you worry about it. This old man and all those folks came knowing what we were getting into.”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Goodness, please don’t speak so formally to me. I may be an old man with little time left, but I’m not shameless enough to expect the Lesser Family Head to address me with honorifics.”",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "219",
+      "sol": "“Goodness, please don’t speak so formally to me. I may be an old man without much time left, but I’m not shameless enough to expect honorifics from the Lesser Family Head.”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old carpenter hurriedly waved his hands. Warmth shone in his pale gray eyes as he looked at Jin Wikyung.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "221",
+      "sol": "The old carpenter hurriedly waved his hands. Warmth shone in his pale gray eyes as he looked at Wikyung.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진위경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Wikyung"
+        }
+      ]
+    },
+    {
+      "baseline": "“Even a beast that can’t speak repays a kindness someday. How could a person turn away from a situation like this?”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "223",
+      "sol": "“Even a beast that can’t speak will repay a kindness someday. How could people turn their backs at a time like this?”",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What do you mean by that…?”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "225",
+      "sol": "“What do you mean…?”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When I was young and in my prime, the country must have been nearing its end. The Demonic Cult, or demons, or whatever those wretches were, stirred up trouble all over the place, and then years of bad harvests followed.”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "227",
+      "sol": "“When I was young and full of life, you’d have thought the country was falling apart. The Demonic Cult, or demons, or whatever those wretches were, stirred up trouble everywhere. Then came years of famine.”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had happened a long time ago.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "229",
+      "sol": "",
+      "sol_paragraphs": "after P104",
+      "sol_range": [
+        104,
+        104
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before Jin Wikyung was even born.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "231",
+      "sol": "It had happened long ago, before Jin Wikyung was born.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the old carpenter remembered it clearly. The days when they boiled and ate leather, and stripped bark from trees to chew.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "233",
+      "sol": "But the old carpenter remembered it clearly: boiling leather to eat and stripping bark from trees to chew.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everyone was starving, so there was no one to turn to for help—and no one who could help.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "235",
+      "sol": "Everyone was starving. There was no one they could ask for help, and no one able to give it.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If a group of men hadn’t come to their village one scorching day, he and his family would have starved to death before long.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "237",
+      "sol": "If a group of men hadn’t come to their village one day under the blazing sun, he and his family would have starved to death before long.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had abandoned the already barren land long ago, gone into the mountains, and become slash-and-burn farmers.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "251",
+      "sol": "They had abandoned the barren land long before, gone into the mountains, and become slash-and-burn farmers.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "So at first, they’d thought the newcomers were bandits.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "253",
+      "sol": "So at first, they had thought the newcomers were bandits.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Or strongmen sent by some powerful official to squeeze the last bit of blood from them, when they didn’t have a single iron coin or handful of grain left.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "255",
+      "sol": "Or men sent by someone powerful to squeeze the last drops from people who had neither an iron coin nor a handful of grain left.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Otherwise, there would have been no reason to come all the way into these deep mountains.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "257",
+      "sol": "Why else would anyone come this deep into the mountains?",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But instead of drawing the swords at their waists, the men set down the loads they had been carrying.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "259",
+      "sol": "But instead of drawing the swords at their waists, the men set down the loads on their backs.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dozens of them, filled to the brim with grain and meat—the kind of sight they could barely remember ever seeing.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "263",
+      "sol": "Dozens of them, filled with grain and meat—the sight of which had grown so distant he could barely remember it.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Get in line. We’ll hand it out one by one.”*",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "269",
+      "sol": "*“Get in line. We’ll hand it out in order.”*",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When every villager lined up together at the men’s direction, and when he watched his wife and children—who had been lying weak and helpless for days—eat until their bellies nearly burst.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "275",
+      "sol": "It still felt like one when everyone in the village lined up as the men instructed, and when he watched his wife and children, who had lain weak and helpless for days, eat until their bellies were full to bursting.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then, when he had stared blankly at that unbelievable sight and swallowed a mouthful of warm meat broth, only then did he realize it was all real.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "277",
+      "sol": "Only after staring at that unbelievable sight and swallowing a mouthful of warm meat broth did he realize it was real.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They wept aloud even as they chewed and swallowed what was in their mouths.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "283",
+      "sol": "They wept aloud even as they chewed and swallowed the food in their mouths.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Because they wanted to live. Because they wanted to make sure they were alive.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "285",
+      "sol": "Because they wanted to live. Because they wanted to know they were alive.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If we hadn’t received help that day, this old man and my family would have starved to death right there.”",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "287",
+      "sol": "“If they hadn’t helped us that day, this old man and my family would have starved to death there.”",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old carpenter looked at Jin Wikyung with tear-bright eyes. Unlike back then, a radiant smile now rested on his lips.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "289",
+      "sol": "The old carpenter looked at Wikyung with tears in his eyes. Unlike back then, he had a broad smile on his face.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진위경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Wikyung"
+        }
+      ]
+    },
+    {
+      "baseline": "“But those kind people were about to leave without saying a word. So I grabbed one of them by the leg and clung on.”",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "291",
+      "sol": "“But those good people tried to leave without a word. So I grabbed one of them by the leg and hung on.”",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He couldn’t read, not even the characters written on their clothes.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "293",
+      "sol": "He couldn’t read, not even the writing on their clothes.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "So he’d clung on stubbornly, asking where they were from and begging them to tell him their three-character names.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "295",
+      "sol": "So he had clung to the man, demanding to know where they had come from and begging for a name.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After a long struggle, he finally heard the answer he wanted.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "297",
+      "sol": "After a long struggle, he got the answer he wanted.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“From that day on, I vowed that if the Jin Family of Taiyuan ever needed it, I would give this worthless life of mine.”",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "299",
+      "sol": "“From that day on, I vowed that if the Jin Family of Taiyuan ever needed me, I would give this worthless life of mine.”",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "301",
+      "sol": "“…!”",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And it’s not just me. Every one of these people has received help from the Jin Family of Taiyuan, in one way or another.”",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "303",
+      "sol": "“And I’m not the only one. Every person here has received help from the Jin Family of Taiyuan, large or small.”",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some of those who had received their kindness left. Others stayed.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "305",
+      "sol": "Some of those who had received that kindness had left. Others had stayed.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To protect the land where their fathers and mothers—and they themselves—had lived.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "309",
+      "sol": "To protect the land where their fathers and mothers had lived, where they themselves had lived.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To repay the Jin Family of Taiyuan, who had reached out to help them on the day they had lain exhausted, waiting to die.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "311",
+      "sol": "For the Jin Family of Taiyuan, who had reached out to them when they lay exhausted, waiting to die.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was the Jin Family of Taiyuan’s true strength: the strength of a distinguished family that had endured for three hundred years through the rise and fall of fortune.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "313",
+      "sol": "That was the Jin Family of Taiyuan’s true strength. It was what had sustained a distinguished family through three hundred years of rises and falls.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Wikyung felt an ache deep in his chest.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "317",
+      "sol": "Wikyung felt an ache deep in his chest.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진위경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Wikyung"
+        }
+      ]
+    },
+    {
+      "baseline": "He wondered if he himself had been the one to underestimate the Jin Family of Taiyuan—and Shanxi Province—most of all.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "319",
+      "sol": "Perhaps he was the one who had underestimated the Jin Family of Taiyuan—and Shanxi Province—most of all.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And just as Jin Wikyung turned away to hide his reddened eyes—",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "321",
+      "sol": "He turned away to hide his reddened eyes.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진위경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Wikyung"
+        }
+      ]
+    },
+    {
+      "baseline": "A fierce pounding of hooves, clear even from a great distance.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "325",
+      "sol": "Hooves pounded fiercely, their sound clear even from far away.",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A single fine horse raced across the gorge as if fleeing something. Hanging from its back was a martial artist of the Jin Family of Taiyuan, dead with his eyes wide open.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "327",
+      "sol": "A fine horse raced across the gorge as though something were chasing it. Hanging from the horse was a martial artist of the Jin Family of Taiyuan, dead with his eyes wide open.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "329",
+      "sol": "“…!”",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "331",
+      "sol": "“…!”",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The air froze in an instant. Jin Wikyung shouted as if spitting blood.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "333",
+      "sol": "The air froze. Wikyung shouted as though the words were tearing out of him.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진위경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Wikyung"
+        }
+      ]
+    }
+  ],
+  "sol_blocks": 154,
+  "sol_sha256": "6e4e09c8add6774b60f7939dd50a92c955a1f13bc352a1f037695bacbd98530b",
+  "version": 1
+}

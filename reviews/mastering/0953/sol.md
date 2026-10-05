@@ -56,9 +56,9 @@ And even a sandcastle built with such care could collapse from a single hard kic
 
 Fortunately, the Jin Family of Taiyuan’s preparations had been thorough despite the little time they’d had.
 
-By now, the grassland army—likely crossing the Great Wall and passing through northern Shanxi Province—must have been bewildered.
+By now, the grassland army was probably across the Great Wall and moving through northern Shanxi Province. They would have been stunned twice over.
 
-First, by the news that its vanguard, which included its finest troops, had been wiped out.
+First by the news that their vanguard, including some of their finest troops, had been wiped out.
 
 And then by finding the north truly *empty*.
 
@@ -72,7 +72,7 @@ A scorched-earth strategy.
 
 Against an army of tens of thousands, it was an excellent tactic. Even so, Wikyung had agonized over the decision dozens of times—until Assistant Military Commissioner Li Feng of Shanxi Province and several hundred others came to him of their own accord.
 
-*“We have several tens of thousands of seok of provisions in reserve. We can more than handle their food supply.”*
+*“We have tens of thousands of seok of provisions in reserve. We can feed those people.”*
 
 With Zhu Bao and Hong Jin absent, Li Feng was effectively the highest-ranking official at the Shanxi Provincial Office. He promised his full cooperation.
 
@@ -82,7 +82,7 @@ The people of the north who had been forced to leave their homes overnight—or 
 
 *“Those damn bastards. They come raiding and raising hell all the time, and now they want to take what’s growing in our fields, too?”*
 
-*“Everyone in our village has already agreed. If even one grain of rice gets into those barbarian bastards’ mouths, I’ll be torn to pieces.”*
+*“Everyone in my village has agreed. If even one grain of rice ends up in those barbarian bastards’ mouths, they’ll tear me apart.”*
 
 *“I’d sooner feed rice to the cows and pigs. I won’t stand for those bastards eating it, even when I’m dead!”*
 
@@ -96,7 +96,7 @@ Mr. Song, the village headman who had said nothing at all, earned everyone’s a
 
 *“…!”*
 
-*“It’d be even better if we took a dump and pissed in the stream before we left.”*
+*“And before we leave, we should all shit and piss in the streams.”*
 
 *“What’s the shit and piss for?”*
 
@@ -106,9 +106,9 @@ Mr. Song, the village headman who had said nothing at all, earned everyone’s a
 
 *“I tried it once. Drank about half a gallon. Thought I was going to die.”*
 
-Mr. Song, a farmer with the unusual distinction of having drunk sewage, became a hero overnight. As people shoved poisonous weeds into the wells and shat and pissed by the streams, they wondered why he hadn’t placed first in the civil service exams.
+Mr. Song, a farmer with the unusual distinction of having drunk filthy water, became a hero overnight. As people stuffed poisonous plants into the wells and fouled the streams, they wondered why he had never placed first in the civil service exams.
 
-All while saying that the only good barbarian was a dead one—words that would have shocked someone if they’d heard them.
+All while declaring that the only good barbarian was a dead one—a remark that would have shocked a certain someone, had they heard it.
 
 *The road here won’t be easy.*
 
@@ -122,7 +122,7 @@ Yet that was why its people could unite all the more fiercely in a crisis.
 
 Long years of raids by mounted bandits and nomads had instilled a stubborn resolve in the people of Shanxi. Now that resolve had caught fire.
 
-*We will protect it. No matter what.*
+*We will protect it.*
 
 Wikyung had already made up his mind.
 
@@ -188,11 +188,11 @@ Like the old carpenter standing before him.
 
 “Looks like our Lesser Family Head has a lot on his mind.”
 
-The old carpenter, who had been glancing sideways at Jin Taekyung, chuckled.
+The old carpenter glanced sideways at Wikyung and chuckled.
 
 He had passed seventy several years ago. When he laughed, air whistled through the gaps between the few teeth he had left.
 
-“Don’t you worry about it. This old man and all those folks out there came prepared.”
+“Don’t you worry about it. This old man and all those folks came knowing what we were getting into.”
 
 “But still… how could I not worry?”
 
@@ -234,7 +234,7 @@ But instead of drawing the swords at their waists, the men set down the loads on
 
 They were huge sacks.
 
-Dozens of them, filled to the brim with grain and meat—the kind of sight they could barely remember ever seeing.
+Dozens of them, filled with grain and meat—the sight of which had grown so distant he could barely remember it.
 
 *“W-what in the world is this…?”*
 
@@ -262,7 +262,7 @@ The old carpenter looked at Wikyung with tears in his eyes. Unlike back then, he
 
 He couldn’t read, not even the writing on their clothes.
 
-So he’d clung on stubbornly, asking where they were from and begging them to tell him their three-character names.
+So he had clung to the man, demanding to know where they had come from and begging for a name.
 
 After a long struggle, he got the answer he wanted.
 
@@ -300,7 +300,7 @@ A fine horse raced across the gorge as though something were chasing it. Hanging
 
 “…!”
 
-The air froze in an instant. Jin Wikyung shouted as if spitting blood.
+The air froze. Wikyung shouted as though the words were tearing out of him.
 
 “Everyone, prepare for battle!”
 
