@@ -12,11 +12,11 @@ Especially when he was a Supreme Peak master with extraordinary concealment tech
 
 The stranger interrupted Hong Jin and pulled down his mask, revealing a smooth, clean-shaven face.
 
-His build was so androgynous it was hard to guess his gender, and he looked a good ten years younger than Hong Jin.
+His build was so androgynous I couldn’t easily guess his gender, and he looked at least ten years younger than Hong Jin.
 
 Then there was his martial prowess. He had reached Supreme Peak.
 
-Put all those clues together, and it wasn’t hard to guess who the uninvited guest was.
+Put it all together, and it wasn’t hard to guess where he came from.
 
 “The East Depot?”
 
@@ -52,7 +52,7 @@ Hong Jin saw the question in my eyes and spoke up.
 
 I stared at the stranger—or rather, Ma Sanbao.
 
-His position was more impressive than I’d imagined, but I was even more curious why a big shot like the East Depot’s second-in-command had come here in secret at this late hour.
+His position was higher than I’d expected, but what puzzled me more was why someone that important had come here in secret at this hour.
 
 Especially after I’d seen how that old eunuch treated Hong Jin earlier.
 
@@ -60,7 +60,7 @@ Especially after I’d seen how that old eunuch treated Hong Jin earlier.
 
 Ma Sanbao laughed again, though I’d asked Hong Jin.
 
-“You’re certainly no ordinary young man. To bring that up so casually right in front of me…”
+“You’re certainly no ordinary young man, bringing that up right in front of me.”
 
 “I wasn’t asking you.”
 
@@ -92,7 +92,7 @@ Hong Jin’s answer was firm.
 
 Shaking his head, Ma Sanbao patted Hong Jin’s shoulder. His face held equal parts bitterness and joy.
 
-“Even if the timing couldn’t be worse, I’m glad to see you again, even like this.”
+“The timing is poor, but I’m glad to see you again.”
 
 “Likewise.”
 
@@ -116,7 +116,7 @@ They must have arranged this beforehand. I just didn’t know where it had begun
 
 I didn’t have to wait long for an explanation. The two finished their brief reunion and took turns speaking.
 
-“Eunuch Ma and I are from the same cohort. We first set foot in the imperial palace on the same day.”
+“Eunuch Ma and I came in together. We first set foot in the imperial palace on the same day.”
 
 “And got cut on the same day, too. Remember? You were right ahead of me in line.”
 
@@ -150,13 +150,13 @@ They’d been cut together before entering the palace. Their bond had to be on a
 
 “At times, perhaps. But the Director always trusted you most, Eunuch Ma. And when it came to martial arts talent, no one in the East Depot could match you. Certainly not me.”
 
-I didn’t know how much of their conversation was true, but it suddenly struck me that Hong Jin’s assessment of Ma Sanbao’s martial arts was probably not exaggerated in the slightest.
+I didn’t know how much of their reminiscing was true. But Hong Jin’s assessment of Ma Sanbao’s martial arts didn’t sound exaggerated in the slightest.
 
 The qi I’d sensed from Ma Sanbao the moment I saw him was in no way inferior to mine or Baek Yeon’s.
 
 *Of course, internal energy isn’t everything.*
 
-I muttered to myself and looked Ma Sanbao over from head to toe.
+I looked Ma Sanbao over from head to toe.
 
 His height. The length of his arms and legs. Which muscles were especially developed, and what weapon he might use.
 
@@ -176,7 +176,7 @@ At Ma Sanbao’s sudden remark, I clicked my tongue inwardly.
 
 “An old habit. I may not be a Murim martial artist like you, but I have to stay alert wherever I go.”
 
-I’d examined him as discreetly as possible, in a fraction of a second—too quickly for him to have noticed.
+I’d examined him as discreetly as possible, in a fraction of a second. It shouldn’t have been enough time for him to notice.
 
 Yet Ma Sanbao had caught me while talking with Hong Jin. His Qi Sense was better than that of most Supreme Peak masters.
 
@@ -190,7 +190,7 @@ Assassination of important figures. Surveillance, intelligence gathering, and mo
 
 They were intelligence agents trained to the limit, skilled assassins, and soldiers.
 
-And with the Son of Heaven’s dazzling authority behind them, I’d heard they also served as a law enforcement agency.
+And with the Son of Heaven’s authority behind them, I’d heard they also served as law enforcement.
 
 Their influence and military strength had to be immense.
 
@@ -206,7 +206,7 @@ If those were only a fraction of their forces, what they had yet to reveal was t
 
 *And if the imperial palace joined hands with Dark Heaven—if, by some chance, it really came to that…*
 
-A cold shiver ran up my spine. My face, reflected in Ma Sanbao’s eyes, had stiffened without me noticing.
+A chill ran up my spine. In Ma Sanbao’s eyes, I saw my face had gone rigid.
 
 “You’re wary of me.”
 
@@ -214,11 +214,11 @@ A cold shiver ran up my spine. My face, reflected in Ma Sanbao’s eyes, had sti
 
 “For now?”
 
-“I don’t need you to tell me you two are close. What I want to know is that there still seem to be a lot of facts I haven’t heard.”
+“I can see you two are close. You don’t need to tell me that again. But there’s still a lot you haven’t told me.”
 
 “Yes, I suppose there is.”
 
-Ma Sanbao dropped into an empty chair and continued.
+Ma Sanbao dropped into an empty chair.
 
 “How much do I need to tell you to answer your questions?”
 
@@ -240,7 +240,7 @@ This was news to me.
 
 I’d assumed Hong Jin had chosen me because he was desperate and had no one else to turn to.
 
-Hong Jin had thought it through carefully and asked me for help.
+But he’d considered it carefully before asking me to save him.
 
 And through it all, someone had been helping him from behind the scenes.
 
@@ -268,7 +268,7 @@ Ma Sanbao spoke before I could continue. Then, in a low voice, he added:
 
 Drops of blood fell through the gaps in his white-knuckled fist. The East Depot’s second-in-command went on in a sharp voice unlike any I’d heard from him before.
 
-“Because there was something I had to do. Because I had to endure whatever hardships came and wait for my moment……!”
+“Because there was something I had to do. Because I had to endure whatever came and wait for the right moment……!”
 
 He couldn’t shout the words aloud. The cry struck the internal energy I’d spread around us and faded away.
 
