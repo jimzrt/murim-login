@@ -4,7 +4,7 @@ From the day the imperial proclamation went up in the streets, the area around t
 
 People came for all sorts of reasons.
 
-Commoners lingered outside the palace, hoping to catch even a glimpse of the ill-fated young prince they’d heard about only in rumors. Confucian scholars who fancied themselves men of loyalty and righteousness shouted at the top of their lungs, demanding to know why Prince Shangshan had been summoned in secret at a time like this. And poets and writers hoping to land themselves a position took the opportunity to compose and recite poems for the Emperor, who had finally secured an heir.
+Commoners lingered outside, hoping to catch even a glimpse of the ill-fated young king they’d only heard about. Confucian scholars who called themselves men of loyalty and righteousness demanded to know why Prince Shangshan had been summoned in secret at a time like this. And poets hoping to land a position composed verses for the Emperor, who had finally secured an heir, and recited them to anyone who would listen.
 
 “How long are we supposed to wait? We can’t see a damn thing from here, Prince Shangshan or no Prince Shangshan.”
 
@@ -38,11 +38,11 @@ Hundreds of scholars hurling fists and inkstones at one another made quite a spe
 
 “Grab that one first!”
 
-Shouts and screams rang out from every direction. Someone watched the scene with their mouth hanging open, then muttered,
+Shouts and screams rang out from every direction. Someone stared at the scene with his mouth hanging open, then muttered, “The greatest contest since the founding of the nation.”
 
 But the fierce brawl ended as suddenly as it had begun.
 
-And it wasn’t the imperial guards watching the fight from up close with keen interest who stopped them.
+And it wasn’t the palace guards, who had been watching the fight unfold right in front of them with keen interest, who stopped it.
 
 Thud.
 
@@ -66,7 +66,7 @@ The scholar started to turn around cautiously. At that very moment—
 
 “I’ve finally got you—!”
 
-One of the poets and writers, a pair of inkstones in his hands as he raced through the battlefield, charged toward the scholar—and suddenly froze. His mouth slowly fell open as he lifted his head.
+One of the poets, an inkstone in each hand, charged toward the scholar—and suddenly froze. His mouth slowly fell open as he lifted his head.
 
 Not toward the scholar’s face, only a few paces away, but far above it.
 
@@ -90,7 +90,7 @@ The air, hot with the brawl only moments ago, froze. Everyone gathered along the
 
 *What kind of monster is that…?*
 
-A shock flashed through everyone’s minds like a bolt of lightning.
+The same thought struck them all like a bolt of lightning.
 
 The fierce disagreement of moments before was forgotten. They could only stare at a giant unlike any they had seen before—or would ever see again.
 
@@ -102,23 +102,23 @@ And what about the head perched on his thick neck like a great boulder?
 
 Never mind that it was as big as a well-grown pumpkin. Every time those enormous eyes blinked, people felt as though it took years off their lives.
 
-The scholars who, only moments ago, had dared to demand an explanation from the Emperor were especially beside themselves.
+The scholars who had dared to demand an explanation from the Emperor were especially beside themselves.
 
 *Could he be an Embroidered Uniform Guard?*
 
-*No. The Guard recruits from among ordinary people. That thing isn’t human.*
+*No. They recruit from among human beings. That thing isn’t human.*
 
 *A secret weapon! The Emperor raised him to wipe out his opposition!*
 
 To hell with loyalty and righteousness. At the sight of that terrifying giant, their hands and feet trembled and their heads went numb.
 
-If they were formally sentenced to drink poison or be beheaded, at least people would call it an honorable death. But if they took even one slap from that hand larger than a pot lid, they’d die like dogs.
+If they were formally sentenced to drink poison or be beheaded, at least people would call it an honorable death. But one slap from a hand bigger than a pot lid, and they’d die for nothing.
 
 And yet…
 
 “Y-You think we’ll back down just because of that?!”
 
-The scholar who would go down as the first person to discover the giant—and probably the first person to die at his hands—in the annals of the Great Nation’s scholarly world, barely managed to force out a voice that wouldn’t come.
+The scholar who would be recorded as the first to discover the giant in the annals of the Great Nation’s scholarly world—and probably as his first victim—barely managed to force out the words.
 
 “J-Justice still lives! Even if you kill everyone here, the whole world will learn of your wicked plot!”
 
@@ -186,7 +186,7 @@ The voice rang through the hushed crowd. A dark-skinned old man who barely reach
 
 “……”
 
-In the awkward silence, the commander of the guards looked back and forth between the young giant and the old dwarf, his eyes gone cold.
+In the awkward silence, the commander looked between the young giant and the old dwarf with a flat stare.
 
 “Who exactly are you, old man?”
 
@@ -200,7 +200,7 @@ After a brief silence, the old dwarf answered, “An ordinary traveler passing b
 
 “I’ve no idea what that idiot thinks of me, but whenever he falls asleep, I try to strangle him. Unfortunately, I’ve failed every time.”
 
-The commander of the Embroidered Uniform Guard looked at the giant’s neck, thicker than a bull’s, and murmured in understanding.
+The Imperial Guards’ commander looked at the giant’s neck, thicker than a bull’s, and nodded as if he understood.
 
 “You sound even more suspicious now.”
 
@@ -214,7 +214,7 @@ The commander of the Embroidered Uniform Guard looked at the giant’s neck, thi
 
 Clang!
 
-Sharp spears and swords flashed in the tightly clenched hands of the guards. The old man let out a deep sigh at their menacing show of force, then spoke.
+Sharp spears and swords flashed in the Imperial Guards’ tightly clenched hands. The old man sighed at the menacing display.
 
 “Could you wait just a moment?”
 
@@ -230,7 +230,7 @@ The commander’s expression and voice hardened.
 
 “Wait! Don’t try anything!”
 
-The guards nearby sensed trouble and hurried to stop him, but they were too late to prevent the giant’s shout.
+The guards nearby sensed trouble and hurried to stop them, but they were too late to prevent the giant’s shout.
 
 “Fiiive-spiiice poooork!”
 
@@ -240,7 +240,7 @@ The people filling the road outside the imperial palace were startled once by th
 
 *Is he actually crazy?*
 
-Why was he shouting about five-spice pork out of nowhere? Was the name of those suspicious men’s accomplice Five-Spice Pork? Or had something gone wrong with his ears?
+Even the Imperial Guards’ commander was confused. Why shout for five-spice pork out of nowhere? Was Five-Spice Pork the name of those suspicious men’s accomplice? Or had he misheard?
 
 It was none of those things.
 
@@ -256,7 +256,7 @@ At the urgent shout, the crowd parted like a receding tide.
 
 The people who had thought nothing could surprise them anymore found themselves rubbing their eyes again.
 
-A carriage pulled by two horses was racing toward them at a mad pace.
+A carriage pulled by two horses was racing straight toward them.
 
 “Whoa! Whoaaaa!”
 
@@ -264,7 +264,7 @@ A carriage pulled by two horses was racing toward them at a mad pace.
 
 The street erupted into chaos. The carriage barely managed to stop when it reached the tense Imperial Guards.
 
-A young man jumped lightly down from it and hurriedly felt over the giant’s body.
+A young man jumped down and hurriedly felt over the giant’s body.
 
 “Are you all right? Are you hurt anywhere?”
 
@@ -280,7 +280,7 @@ There were seven of them in all.
 
 A pretty girl with noticeable freckles, and a young man beside her whose face was as stiff as a log.
 
-A giant who looked like a walking natural disaster, and a young man who handled that mountain of muscle as if it were a delicate piece of porcelain. An old man smiling placidly like an immortal amid all the chaos, and a short, dark-skinned old man beside him muttering curses.
+A giant who looked like a walking natural disaster, and a young man who handled that mountain of muscle as if it were delicate porcelain. An old man smiling like an immortal amid all the chaos, and a short, dark-skinned old man beside him muttering curses.
 
 And finally…
 
@@ -302,7 +302,7 @@ As he hesitated in confusion, the mean-looking monk, who had been the last to cl
 
 “Ah. That slipped out.”
 
-As if trying to hold back his anger, the disreputable monk took a deep breath and continued.
+The monk took a deep breath, as if holding back his anger.
 
 “We’re the circus troupe performing at the banquet. That’s our official letter of introduction.”
 
@@ -310,13 +310,13 @@ As if trying to hold back his anger, the disreputable monk took a deep breath an
 
 “That’s right. To liven things up, some bigwig or other invited us.”
 
-The commander hurriedly unfolded the letter in his hand. His eyes widened when he saw the seal of a high official—someone far beyond his station to question.
+The commander hurriedly unfolded the letter. His eyes widened when he saw the seal of a high official so far above his station he could hardly have looked the man in the eye.
 
 “This is…”
 
 “You’ve seen it, so you know. Open the gate already.”
 
-He might only be a junior officer, but he was a hundred-man commander in the imperial guard, responsible for protecting the capital. To be spoken to like that by a troupe of traveling performers—
+He might be a junior officer, but he was a hundred-man commander of the Imperial Guards, charged with protecting the capital. And now a traveling performer was speaking to him like this.
 
 But whoever backed the troupe was beyond his ability to deal with. He swallowed his anger and ordered his men to open the gate, committing the troupe’s name on the letter to memory.
 

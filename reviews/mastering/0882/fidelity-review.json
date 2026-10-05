@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But the fierce brawl ended as suddenly as it had begun.",
+      "defect": "The preceding line, “건국 이래 최고의 명승부로군” (“This is the greatest contest since the founding of the nation”), is omitted, losing the onlooker’s joke about the scholars’ brawl.",
+      "id": "F01",
+      "rationale": "The Korean includes this spoken punchline immediately before the brawl abruptly ends; the assembled copy skips it.",
+      "replacement": "“This is the greatest contest since the founding of the nation.”\n\nBut the fierce brawl ended as suddenly as it had begun.",
+      "severity": "minor",
+      "source": "Korean line 45"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The scholar who would go down as the first person to discover the giant—and probably the first person to die at his hands—in the annals of the Great Nation’s scholarly world",
+      "defect": "“At his hands” adds a specific cause of death that the Korean does not establish.",
+      "id": "F02",
+      "rationale": "The source says he may be recorded as the giant’s first discoverer and the first death, without stating that the giant would kill him.",
+      "replacement": "The scholar who would go down as the first person to discover the giant—and probably the first person to die—in the annals of the Great Nation’s scholarly world",
+      "severity": "minor",
+      "source": "Korean line 127"
+    }
+  ],
+  "summary": "The assembled copy is mostly faithful, but it omits a source joke and adds an unsupported cause of death.",
+  "version": 1
+}
