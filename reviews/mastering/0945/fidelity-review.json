@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "They say a pine caterpillar should stick to pine needles",
+      "defect": "This translates the idiom literally, leaving its intended point—sticking to one's own kind or sphere—unclear in English. The contrast with the bandits operating in Anhui without belonging to the Green Forest Alliance depends on that point.",
+      "id": "F01",
+      "rationale": "The Korean idiom 송충이는 솔잎만 먹어야 한다 functions as a warning to stay within one's proper domain; it is not meant to introduce a pine-caterpillar image in English.",
+      "replacement": "They say you should stick to your own turf",
+      "severity": "minor",
+      "source": "Line 237"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it literalizes an idiom in a way that obscures its point and adds an unsupported gender reference.",
+  "version": 1
+}

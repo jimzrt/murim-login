@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it literalizes an idiom in a way that obscures its point and adds an unsupported gender reference.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 237",
+      "current": "They say a pine caterpillar should stick to pine needles",
+      "defect": "This translates the idiom literally, leaving its intended point—sticking to one's own kind or sphere—unclear in English. The contrast with the bandits operating in Anhui without belonging to the Green Forest Alliance depends on that point.",
+      "replacement": "They say you should stick to your own turf",
+      "rationale": "The Korean idiom 송충이는 솔잎만 먹어야 한다 functions as a warning to stay within one's proper domain; it is not meant to introduce a pine-caterpillar image in English.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 177",
+      "current": "The Bow Saint frowned and clicked her tongue softly.",
+      "defect": "The English assigns the Bow Saint a female pronoun, but this passage does not establish the character's gender.",
+      "replacement": "The Bow Saint frowned and clicked their tongue softly.",
+      "rationale": "The Korean identifies the speaker as 궁성 and describes the frown and tongue-click without specifying gender; the accepted baseline also leaves gender unstated.",
+      "confidence": 0.84
+    }
+  ]
+}

@@ -20,11 +20,11 @@ He had no way of knowing. Before Namgung Ryong arrived, the man had happened upo
 
 “A bandit?”
 
-“Yes. And he’s the head of the bunch.”
+“Yes. And among the bandits, he’s this.”
 
 I tapped the top of my head. Namgung Ryong caught my meaning at once and nodded.
 
-“I can see why that man was acting like their leader.”
+“I can see why he was their leader.”
 
 His gaze grew more intent as he studied the man.
 
@@ -53,7 +53,7 @@ Masters who had reached the realm of Returning to Simplicity, or something close
 
 But this bandit chief was different.
 
-He wasn’t a master of Returning to Simplicity, nor had he gained enlightenment and raised his Level that way.
+He hadn’t reached Returning to Simplicity, nor had he gained enlightenment and raised his Level that way.
 
 *And people don’t jump twenty Levels all at once.*
 
@@ -95,7 +95,7 @@ Tap.
 
 My palm touched his chest.
 
-At the same time, a faint heat—one I’d worked hard to suppress, over and over—burst out through my palm.
+At the same instant, a faint heat I’d worked hard to suppress burst from my palm.
 
 Boom!
 
@@ -103,7 +103,7 @@ With a sound like compressed air exploding, his eight-foot frame shot away like 
 
 Kraaaash!
 
-Beyond the thick cloud of dust, I grabbed his motionless body with one hand and dragged him back. The bandits’ eyes widened.
+I caught hold of his motionless body with one hand and dragged him back through the thick cloud of dust. The bandits’ eyes went wide.
 
 “We’re short on time, so I’ll keep this brief.”
 
@@ -137,7 +137,7 @@ Thud-thud-thud!
 
 The thunder of hooves mingled with a tearful voice.
 
-Maybe Namgung Ryong and the authorities had already made arrangements, because nothing got in the way of us as we rode nonstop at full speed.
+Namgung Ryong and the authorities must have made arrangements already. Nothing stood in our way as we rode hard without stopping.
 
 Only one thing bothered me: the guy behind me wouldn’t stop sniffling.
 
@@ -149,11 +149,11 @@ Jang Il answered, sounding half resigned. He was the bandit who’d pretended to
 
 He’d been a bandit for more than ten years. He was at the bottom of the pecking order, but there was one thing that set him apart from the others.
 
-“You’ve known that guy for ten years?”
+“You’ve known that guy since ten years ago?”
 
 “Yes. I’ve known him since I first got into this line of work. For a while, we were like blood brothers.”
 
-“Brothers, my ass. You’re a bandit. What a load of bullshit.”
+“Blood brothers, my ass. You’re bandits. What a load of bullshit.”
 
 Jeok Cheongang had been listening as he rode beside us. At his candid opinion, the Bow Saint frowned and clicked her tongue softly.
 
@@ -171,13 +171,13 @@ Jeok Cheongang’s gaze turned icy. Lately, his hair had been slowly sprouting l
 
 Even as the two Supreme Peak masters exchanged cold looks, the horses kept running. Jang Il swallowed hard and continued.
 
-“A-Anyway, I followed the chief from then until now. When he said we were moving the stronghold to Anhui Province, everyone called him crazy and left, but I followed him on nothing but faith and loyalty.”
+“A-Anyway, I’ve followed the chief ever since. When he said we were moving the stronghold to Anhui Province, everyone else called him crazy and left. I stayed out of faith and loyalty.”
 
 “You moved the stronghold to Anhui Province?”
 
 “Yes. We were near Hubei before, but one day the chief suddenly decided we were moving. Everyone was dead set against it.”
 
-Jang Il smacked his lips, as if remembering the day, then went on.
+Jang Il smacked his lips as though remembering the day.
 
 “Truth be told, I didn’t say anything, but I was thinking of quitting this life and leaving before it was too late.”
 
@@ -185,7 +185,7 @@ Jang Il smacked his lips, as if remembering the day, then went on.
 
 “Oh, you don’t understand. Packing up and going is only a bit of work. The problem is, Anhui has the Nangong Family.”
 
-I frowned. Even at a glance, what Jang Il was saying didn’t quite make sense.
+I frowned. What he was saying didn’t seem to make sense.
 
 “That’s no reason. Wudang and the Zhuge Clan were in Hubei, where you were before.”
 
@@ -207,7 +207,7 @@ Bandits, carefully weighing up which martial artists might come after them.
 
 But there was something strange about the chief’s choice all the same. As if the Nangong Family weren’t enough, he’d set up his stronghold on the border between Anhui and Zhejiang, close to the Imperial Capital.
 
-“When did you move the stronghold?”
+“When did you move?”
 
 “Probably… three months ago? Around then.”
 
@@ -223,9 +223,9 @@ Jang Il added sadly, “And here I am, still at the bottom of the pecking order.
 
 I had no interest in an aging bandit’s complaints. As the wind brushed through my hair, I thought, *Even if they were small, he took over two strongholds all by himself?*
 
-Of course that was bullshit.
+Bullshit.
 
-Before his Level went up, the man had been no more than a middling Second Rate fighter, relying on some tiny amount of internal energy—who knew how he’d built it up—and his natural strength.
+Before his Level went up, the man had been a middling Second Rate fighter, relying on a tiny amount of internal energy—who knew how he’d acquired it—and his natural strength.
 
 *At best, he was on the threshold of First Rate. That wouldn’t be nearly enough.*
 
@@ -253,7 +253,7 @@ No neighborhood shop could beat a corporation.
 
 Become an officially recognized franchisee of the Green Forest Alliance, and you’d have to pay substantial taxes. But as long as you didn’t openly commit atrocities, you could avoid being hunted down by the great sects.
 
-You went from being a mere bandit to part of a symbiotic system that at least followed a few basic rules.
+You went from being a common bandit to one who observed at least a few basic rules of coexistence.
 
 *But that man fit neither category.*
 
