@@ -1,10 +1,10 @@
 # Chapter 897
 
-That day, everything was different from usual.
+That day, everything was different.
 
 The streets, usually filled with laughter and music, were quiet. Clouds that had yet to clear cast shadows over the people below, and the canal, swollen by unprecedented rainfall, churned uneasily, as if reflecting the mood of the city.
 
-At the end of it all, and at its center, stood the imperial palace.
+At the end of those streets, and at their center, stood the imperial palace.
 
 Rumble.
 
@@ -12,7 +12,7 @@ It was the dim hour before dawn. Even when the massive iron gates began to open 
 
 The palace gates always closed at the hour of the Rat and opened at the hour of the Rabbit.
 
-Before long, dawn would break. Ministers from the various courts would make their way to the palace, while the people of this beautiful, dangerous metropolis—high and low alike—began another day in their own places.
+Soon the sun would rise. Ministers would make their way to the palace, while the residents of this beautiful, dangerous metropolis—high and low alike—began another day in their own places.
 
 Like precisely meshing gears.
 
@@ -24,7 +24,7 @@ But the dazzling light that appeared between the slowly opening gates was proof 
 
 “Hm?”
 
-A vendor who had set up his stall along the main road in front of the palace, as usual, turned at the call of a fellow merchant. His narrow eyes swelled wide.
+A vendor setting up his stall along the main road in front of the palace turned at a fellow merchant’s call. His narrow eyes went wide.
 
 “T-The Embroidered Uniform Guard?”
 
@@ -32,17 +32,17 @@ The words had barely escaped his lips when—
 
 “Ha!”
 
-With a short battle cry shouted in unison, a thousand Embroidered Uniform Guards mounted on their fine steeds poured through the wide-open gates.
+A thousand Embroidered Uniform Guards shouted as one and poured through the open gates on their fine steeds.
 
 Thud-thud-thud-thud!
 
-Hooves thundered, waking the dawn.
+Hooves thundered through the dawn.
 
-The ground shook. Dust, settled by the cool morning air and rainwater that had yet to dry, rose into the air.
+The ground shook. Dust rose from where the cool morning air and still-wet streets had held it down.
 
 The thousand riders shot forward like a single arrow, crossing the main road before the palace in the blink of an eye. At a hand signal from their commander, they scattered in every direction.
 
-From a thousand to hundreds. Hundreds to a hundred. A hundred to dozens.
+A thousand became hundreds. Hundreds became groups of a hundred. A hundred became dozens.
 
 They split up, then split again, exactly as planned.
 
@@ -52,9 +52,9 @@ Tomorrow. The hour of the Goat.
 
 The grand banquet for the imperial prince’s birthday. Begins.
 
-That was how the first line of the hundreds of proclamations began, each written by the imperial court calligrapher whose elegant handwriting was renowned throughout the realm. The faces of the people already suffering from the untimely flood twisted with anger.
+Those were the opening lines of hundreds of proclamations, written by an imperial calligrapher whose elegant hand was renowned throughout the realm. The faces of the people already suffering from the untimely flood twisted with anger.
 
-“Three days? He’s holding that damn banquet for three whole days in a situation like this?”
+“Three days? He’s holding that damn banquet for three whole days, now?”
 
 “Shh. Keep your voice down. Want to get arrested for treason?”
 
@@ -64,17 +64,17 @@ That was how the first line of the hundreds of proclamations began, each written
 
 “Fuck, so to hell with what the people think? His own kid’s birthday comes first, is that it?”
 
-Some had lost their property. Others, their families.
+Some had lost their property. Others had lost family.
 
 And they were all neighbors who had been closer than family.
 
-So the people trying to calm those furious at the proclamation didn’t look happy, either.
+Even the people trying to calm those angered by the proclamation looked grim.
 
-The Son of Heaven. Or the Emperor.
+The Son of Heaven. The Emperor.
 
-How could the supreme ruler, descended from the dragon appointed by Heaven and charged with caring for all his subjects, do such a thing?
+How could the supreme ruler, born of the dragon’s blood and charged with caring for all his people, do this?
 
-Those who had lost what they treasured in the flood were furious. And the people watching them suddenly realized that they too might one day be standing there, furious over their own losses.
+Those who had lost what they treasured in the flood were furious. Watching them, others suddenly realized that one day they might suffer the same losses.
 
 *Something’s wrong with this country…*
 
@@ -84,9 +84,9 @@ But the current Emperor had violated the bonds of kinship.
 
 He was a monster in human skin who had seized the throne by slaughtering his parents, his siblings, and countless loyal officials and their families.
 
-And so Heaven’s favor must have turned away from him.
+No wonder Heaven’s favor had turned away from him.
 
-At the Shaolin Temple, known to everyone under Heaven, eminent monks had been dying. In Sichuan, thousands of martial artists had turned the broad daylight into a sea of corpses and blood.
+At Shaolin Temple, known to everyone under Heaven, eminent monks had died. In Sichuan, thousands of martial artists had made a sea of corpses and blood in broad daylight.
 
 And that wasn’t all.
 
@@ -94,9 +94,9 @@ Unbelievable rumors had come from Hubei of an imugi gone on a rampage. Sinister 
 
 The northern tribes, quiet as mice for a hundred years, were showing signs of unrest. And now an unprecedented downpour had struck the Imperial Capital.
 
-What could this string of disasters mean?
+What else could this string of disasters mean?
 
-*Heaven has forsaken this country. No—the heavens are trying to punish the Emperor.*
+*Heaven has forsaken this country. No—it means to punish the Emperor.*
 
 If these had been peaceful, prosperous times, no one would have given such rumors and superstitions a second thought.
 
@@ -104,7 +104,7 @@ A house earned through hard work, a beloved family, plenty of grain and money—
 
 For more than a decade, the realm had been as calm as the waters of West Lake. The people hadn’t complained about their new Son of Heaven as much as one might have expected.
 
-They could condemn the Son of Heaven for defying the natural order, but their lives and livelihoods hadn’t changed all that much.
+They might condemn him for violating the bonds of kinship, but little had changed in how they made a living.
 
 Some had even cheered when corrupt officials who’d run rampant during the late Emperor’s peaceful reign were caught up in the purge for treason. Good riddance, they’d said.
 
@@ -120,11 +120,11 @@ A man in a worn bamboo hat pulled low over his face muttered the question on eve
 
 His voice rang clearly through the crowd, which had fallen silent.
 
-The invisible air pressed down on them, heavy and still.
+The air seemed to press down on them.
 
-In the suffocating silence, people clenched their teeth and their eyes shone. For some reason, they strained to hear every word of the man’s voice, which sounded unusually clear.
+In that suffocating silence, people clenched their teeth and listened intently. For some reason, every word the man spoke sounded unusually clear.
 
-“The azure heaven’s power is waning, and dark clouds gather. The storm that will soon descend will soon swallow the realm whole.”
+“The qi of the azure heaven is fading, and dark clouds are gathering. Before long, a storm will sweep across the realm and swallow it whole.”
 
 It was strange.
 
@@ -138,11 +138,11 @@ And left them with a question they couldn’t help asking.
 
 “Um, sir. Forgive me for interrupting, but could I ask you one thing?”
 
-At the laborer’s cautious approach, rough as he looked, the man in the bamboo hat nodded.
+The man in the bamboo hat nodded at the rough-looking laborer’s cautious request.
 
 “Go ahead.”
 
-“If it’s not too much trouble, what should a poor man like me do to escape the storm you mentioned?”
+“What should someone like me do to escape the storm you mentioned?”
 
 “Head for the mountain.”
 
@@ -160,7 +160,7 @@ The highest mountain in the realm?
 
 Where was there a mountain vast enough to shelter everyone, with food and resources to spare?
 
-While the laborer searched for words, another man, more impatient, blurted out,
+While the laborer searched for words, someone less patient spoke up.
 
 “I don’t know who you are, but you seem to be a master of profound cultivation. Do you mean the Five Sacred Mountains of the Central Plains?”
 
@@ -170,9 +170,9 @@ The five famous mountains, said to be the highest in the realm and filled with s
 
 “Which of the Five Sacred Mountains do you mean? Mount Song in Henan? Taishan in Shandong? Huashan in Shaanxi? Or…”
 
-“You’re all wrong. I didn’t mean the Five Sacred Mountains of the Central Plains.”
+“None of them. I did not mean the Five Sacred Mountains.”
 
-“What? What do you mean? If not the Five Sacred Mountains, then what—”
+“What? If not the Five Sacred Mountains, then where—”
 
 The man’s calm, firm reply left the crowd speechless. Just then, an elderly voice came from somewhere among them.
 
@@ -186,11 +186,11 @@ An elderly Confucian scholar in faded but neat clothes gazed at the gloomy sky a
 
 “…!”
 
-A few people understood what those words meant, and their eyes widened. Most remained confused.
+A few people understood, and their eyes widened. Most remained confused.
 
 Until the old scholar continued.
 
-“Yes. That place could shelter all the people under Heaven. No matter how fiercely the storm swallowed the Five Sacred Mountains of the Central Plains, it would never dare reach Shangshan. The mountain’s master is under Heaven’s protection, a descendant of the dragon who commands rain and lightning.”
+“Yes. That place could shelter all the people under Heaven. A storm might swallow the Five Sacred Mountains, but it would never dare touch Shangshan. The mountain’s master has Heaven’s protection. He is a descendant of the dragon who commands rain and lightning.”
 
 For a moment, the world seemed to stop.
 
@@ -198,7 +198,7 @@ Everyone stood frozen like statues, looking at one another. Then they realized t
 
 Shangshan.
 
-Higher and wider than the Five Sacred Mountains of the Central Plains, a mountain capable of sheltering all the people under Heaven.
+A mountain higher and broader than the Five Sacred Mountains, large enough to shelter all the people under Heaven.
 
 And its master—a descendant of the dragon, protected by Heaven.
 
@@ -210,9 +210,9 @@ The man had never been talking about a mountain. Every word had pointed to one p
 
 Was this what it felt like to have a bolt of lightning strike through the crown of your head?
 
-Everyone’s whole body trembled as if they’d been electrocuted.
+They trembled as if they’d all been struck.
 
-Mouths agape. Teeth clenched. Fists balled, as they fought to cool their heads, burning hot with excitement.
+Some stood with mouths open, some with teeth clenched, some with fists balled tight, all struggling to cool their overheated heads.
 
 And at the same time, they pictured a future they had never imagined before.
 

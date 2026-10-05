@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.86,
+      "current": "as if reflecting the mood of the city.",
+      "defect": "The source says the canal’s uneasy movement reflects the situation as a whole, not specifically the city’s mood. The translation narrows the image to an emotional atmosphere.",
+      "id": "F01",
+      "rationale": "The Korean phrase 이 상황을 대변하듯 refers to representing this situation; it does not specify the city’s mood.",
+      "replacement": "as if reflecting the situation.",
+      "severity": "minor",
+      "source": "Paragraph 3; Korean line 7"
+    },
+    {
+      "confidence": 0.91,
+      "current": "a child who had survived the vast, brutal purge years ago",
+      "defect": "“Years ago” adds a specific elapsed time that the source does not establish.",
+      "id": "F02",
+      "rationale": "The Korean says 과거, meaning in the past, without specifying that the purge occurred years ago.",
+      "replacement": "a child who had survived the vast, brutal purge in the past",
+      "severity": "minor",
+      "source": "Paragraph 112; Korean line 231"
+    }
+  ],
+  "summary": "The assembled translation is broadly faithful, with two minor shifts in specificity.",
+  "version": 1
+}
