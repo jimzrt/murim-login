@@ -4,7 +4,7 @@ What made humans seem so special in a world teeming with life was their ability 
 
 Every human could do it.
 
-They took in their current situation through their eyes and ears, thought about what to do or say to the person in front of them, and put together the right words.
+They took in a situation with their eyes and ears, considered what to do or say to the person in front of them, and chose their words.
 
 At the same time, they predicted what those words and actions would bring about.
 
@@ -18,13 +18,13 @@ Just like me, right now.
 
 “So it was you.”
 
-So Gyo—no, the Bow Saint—stared at me. Her lips moved, and a voice only I could hear slipped between them.
+So Gyo—no, the Bow Saint—studied me. Her lips moved, and a voice only I could hear slipped between them.
 
 *—The one the Martial God spoke of. The chosen one.*
 
 …What?
 
-The shock of learning that So Gyo was the giant known as the Bow Saint had completely disappeared.
+The shock of learning that So Gyo was the legendary figure known as the Bow Saint vanished without a trace.
 
 That brief Sound Transmission hit me like a sledgehammer to the back of the head. I could only blink.
 
@@ -46,11 +46,11 @@ A long time ago? Just when was she talking about?
 
 What had the Martial God, who had vanished into the distant past, told her?
 
-But the question that flashed through my mind was cut short before it could even take shape.
+But I had to set those questions aside almost as soon as they occurred to me.
 
 *—It’s a long story I’ve kept to myself. But talking here and now wouldn’t be wise.*
 
-I desperately wanted to press her for answers, but the Bow Saint’s Sound Transmission was enough to remind me of the situation I’d momentarily forgotten.
+I wanted nothing more than to press her for answers, but her words reminded me of the situation I’d momentarily forgotten.
 
 Right.
 
@@ -80,7 +80,7 @@ I peeled a crust of dried blood off my cheek. “I figured you would. And even i
 
 “Do you take the title Bow Saint for the name of the dog next door?”
 
-“Then I’ll tell you. Every last word. I won’t leave out a single syllable.”
+“Then I’ll tell you. Every last word.”
 
 Jeok Cheongang studied me for a moment, then clicked his tongue.
 
@@ -90,7 +90,7 @@ Jeok Cheongang studied me for a moment, then clicked his tongue.
 
 His solid palm tapped my shoulder. He turned his head sharply away, speaking in a gruff voice.
 
-“Uh, well. What I’m trying to say is… hmm.”
+“Well, uh…”
 
 “Yes?”
 
@@ -102,9 +102,9 @@ But I didn’t rush to wipe the smile from my face like I used to.
 
 I knew how he felt. And he’d understand how I felt, too.
 
-*Thank you. For coming back to me.*
+*Thank you. For coming back.*
 
-That was what Jeok Cheongang had said just a little while ago, when I’d been hovering between life and death, after I finally clawed my way back from death and recovered.
+That was what Jeok Cheongang had said when I’d returned from the brink of death just a little while ago.
 
 Now it was my turn to say it to him.
 
@@ -170,7 +170,7 @@ To finish off the monster who had created a hellscape no painter could ever depi
 
 I walked, and kept walking.
 
-Past the dead and the rebels, bound tight in thick iron chains and struggling to break free.
+Past the undead and the rebels, bound tight in heavy iron chains and struggling to break free.
 
 Past dozens of flags rising high above me.
 
@@ -194,7 +194,7 @@ Or maybe he’d been waiting for someone other than the Bow Saint, who had watch
 
 To stop this meaningless struggle.
 
-This hollow sense of defeat and fury, now that he could no longer achieve his goal.
+To put an end to the emptiness and fury of knowing he could no longer achieve his goal.
 
 “Yes, it’s you.”
 
@@ -246,7 +246,7 @@ But now, the only faces left in his memory were twisted hideously with pain. All
 
 It made no sense.
 
-His mother’s piercing scream as the soldiers brutalized her while she fought to protect her only surviving child, and his Master’s final words—those memories were so vivid. So why were their smiling faces so faint?
+His mother’s piercing scream as soldiers brutalized her for resisting them to protect her only surviving child, and his Master’s final plea—those he remembered so clearly. Why, then, had their smiling faces grown so faint?
 
 Why were they blurred as if lost in fog?
 
@@ -264,7 +264,7 @@ Just as he had chosen to become a monster instead of a human being.
 
 “Do you know something?”
 
-His lips, wet with blood, moved. His eyes, fixed on Jin Taekyung, the Bow Saint, and the countless people who had gathered around him, flickered with cold flames.
+His blood-wet lips moved. His eyes passed over Jin Taekyung, the Bow Saint, and the countless others who had gathered around him. Cold flames flickered in them.
 
 “This is only the beginning.”
 
