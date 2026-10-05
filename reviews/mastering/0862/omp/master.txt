@@ -4,7 +4,7 @@ The East Depot.
 
 Anyone who’d read a few martial arts novels knew that name.
 
-If the Nine Sects and One Gang and the Five Great Families showed up like clockwork in those stories, then the imperial court had the East Depot, which stood alongside the Embroidered Uniform Guard as its other great power.
+If the Nine Sects and One Gang and the Five Great Families showed up like clockwork in those stories, the imperial court had the East Depot alongside the Embroidered Uniform Guard.
 
 And Hong Jin had been a member of that very East Depot.
 
@@ -136,7 +136,7 @@ Hong Jin answered calmly.
 
 Despite the considerable age difference between them, Hong Jin spoke to him without a hint of deference.
 
-That meant Hong Jin’s position back then must have been quite high. The old eunuch’s wrinkles deepened further.
+That meant Hong Jin’s position back then must have been quite high. The old eunuch’s wrinkles deepened.
 
 “You’d be wise to watch your words. The landscape isn’t the only thing that’s changed in the last ten years.”
 
@@ -162,7 +162,7 @@ Hong Jin’s voice rang clear.
 
 “…!”
 
-Hong Jin’s words had a hard edge beneath them, and the air around us froze.
+The barb in Hong Jin’s words left the air around us icy.
 
 Just as he said, if everything had followed the rules, the current Son of Heaven wouldn’t be sitting on the throne, and Prince Shangshan Zhu Bao’s situation would be very different.
 
@@ -180,9 +180,9 @@ One step.
 
 Space disappeared. The wind fell silent.
 
-In time that seemed to pass slowly, I reached out and pressed down on the hand of someone gripping a sword hilt tightly.
+In time that seemed to pass slowly, I reached out and pressed down on the hand gripping a sword hilt.
 
-To send the blade, not even halfway drawn, back where it belonged.
+The blade, not even halfway drawn, slid back where it belonged.
 
 Click.
 
@@ -324,7 +324,7 @@ I knew what answer he wanted now, too.
 
 “Uh, may I speak honestly?”
 
-“That is precisely what I want. This is an order from your king.”
+“That is precisely what I want. This is a royal command.”
 
 At the prince’s bold command, I laughed aloud.
 
@@ -334,7 +334,7 @@ Then I looked at everyone and spoke.
 
 Let’s not forget.
 
-This was the imperial palace. I had to keep things under control.
+This was the imperial palace. I had to watch what I said.
 
 “I’d have already beaten the shit out of every last one of them.”
 
@@ -342,4 +342,4 @@ This was the imperial palace. I had to keep things under control.
 
 “…!”
 
-Okay. So much for keeping it under control.
+Okay. So much for watching what I said.

@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is largely faithful, but three lines add or shift meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 35; Korean line 71",
+      "current": "caught in an ideological purge",
+      "defect": "The source says Hyuk Mujin was caught in an ideological screening or vetting. “Purge” suggests a more severe event than the Korean establishes.",
+      "replacement": "caught in an ideological screening",
+      "rationale": "사상 검증에 걸려 means being caught in an ideological check or screening; the sentence then separately says he is dragged to the Aoji coal mines.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Paragraph 135; Korean line 273",
+      "current": "so I ask you to forgive me, with a heart as vast as the sea, for not kneeling.",
+      "defect": "The phrasing can assign the “heart as vast as the sea” to Baek Yeon rather than to the prince whose forgiveness he requests.",
+      "replacement": "so I ask Your Highness to forgive me for not kneeling, with a heart as vast as the sea.",
+      "rationale": "하해와 같은 마음으로 용서해 주시길 is a deferential appeal for the prince to forgive him generously; the image should not characterize Baek Yeon.",
+      "confidence": 0.78
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Paragraph 164; Korean line 331",
+      "current": "This is an order from your king.",
+      "defect": "“Your king” adds a possessive relationship that the Korean does not state. The prince says he is issuing the order in his capacity as king.",
+      "replacement": "This is an order I give as king.",
+      "rationale": "왕으로서 내리는 명령이다 means an order issued as king, not an order from “your king.”",
+      "confidence": 0.95
+    }
+  ]
+}

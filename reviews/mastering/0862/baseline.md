@@ -6,7 +6,7 @@ Anyone who’d read a few martial arts novels knew that name.
 
 If the Nine Sects and One Gang and the Five Great Families showed up like clockwork in those stories, then the imperial court had the East Depot, which stood alongside the Embroidered Uniform Guard as its other great power.
 
-And Hong Jin had been a member of that very East Depot.
+And Hong Jin was a member of that very East Depot.
 
 My mouth fell open before I even realized it.
 
@@ -16,7 +16,7 @@ My mouth fell open before I even realized it.
 
 “No, I mean, it actually exists?”
 
-“…Is there a fake East Depot, then?”
+“……Is there a fake East Depot, then?”
 
 “Ah. That’s not what I meant.”
 
@@ -24,21 +24,21 @@ I hadn’t known the East Depot really existed.
 
 It hadn’t been that long since I’d learned the Embroidered Uniform Guard was real, either.
 
-The endless incidents and disasters in Murim kept me busy enough. Who would’ve expected to get tangled up with the imperial court like this?
+The endless incidents and disasters in Murim kept me busy enough. Who would’ve expected to suddenly get tangled up with the imperial court like this?
 
-*Still, if Hong Jin came from the East Depot, that would explain a lot about him.*
+*Still, if Hong Jin really did come from the East Depot, then some of the things he’s shown me make a lot more sense.*
 
-I looked at Hong Jin with fresh astonishment.
+Newly astonished, I looked at Hong Jin.
 
 I didn’t know the details, but the East Depot’s influence couldn’t be far behind the Embroidered Uniform Guard’s.
 
 At first, I’d thought he was just a eunuch who’d been a bit of a tough guy in his youth. Now that I’d heard his story, I could almost picture him hawking up phlegm in the palace corridors.
 
-Hyuk Mujin must have had a similar thought. He glanced sideways at Hong Jin and whispered in a voice barely above a breath.
+Hyuk Mujin must have had a similar thought. He’d been glancing sideways at Hong Jin, and now he whispered in a voice barely above a breath.
 
 “Captain. This is no ordinary eunuch.”
 
-“…Please, just shut your mouth.”
+“……Please, just shut your mouth.”
 
 “It’s fine. He can’t hear me.”
 
@@ -66,13 +66,13 @@ This was no time to go soft. I shook off Hyuk Mujin’s hand as he grabbed my sl
 
 Whoa, that startled me. For a second, I thought we were in North Korea.
 
-Hyuk Mujin was facedown, wailing like a Communist Party member caught in an ideological purge and dragged off to the Aoji coal mines. Comrade Hong—or rather, Hong Jin, Deputy Military Commissioner of Shanxi Province—watched him with a thoroughly unimpressed look and heaved a sigh that seemed to come from the depths of the earth.
+Hyuk Mujin was facedown, wailing like a Communist Party member caught in an ideological purge and dragged off to the Aoji coal mines. Hong Comrade—or rather, Hong Jin, Deputy Military Commissioner of Shanxi Province—watched him with a thoroughly unimpressed look and heaved a sigh that seemed to come from the depths of the earth.
 
 “Anyone would think I was the Grim Reaper. Stop making a spectacle of yourself in front of His Highness Prince Shangshan and get up. There are already plenty of eyes on us. At this rate, I’ll die of embarrassment.”
 
-Sadly enough, Hong Jin was right.
+Very sadly, Hong Jin was right.
 
-The Embroidered Uniform Guards were staring at us as if they couldn’t believe what a bunch of idiots we were. Prince Shangshan, who’d just woken up and was still groggy, opened his eyes wide and asked me,
+The Embroidered Uniform Guards were staring at us like they couldn’t believe what a bunch of idiots we were. Prince Shangshan, who’d just woken up and was still groggy, had his eyes wide as he asked me,
 
 “Is that man truly known by the sobriquet Tenfold Man?”
 
@@ -86,7 +86,7 @@ Tenfold Man and Tenfold Beta Man were only one character apart, after all.
 
 *Though their meanings are complete opposites.*
 
-I held my tongue to protect the young prince’s innocence. Just then, a group came down the endless staircase—long enough to make me wonder if it had been built to torture subjects—and stopped in front of us.
+I held my tongue to protect the young prince’s innocence. Just then, a group of people came down the endless staircase—long enough to make me wonder if it had been built to torture subjects—and stopped in front of us.
 
 Or, more precisely, they knelt before Prince Shangshan Zhu Bao.
 
@@ -94,15 +94,17 @@ Or, more precisely, they knelt before Prince Shangshan Zhu Bao.
 
 “A thousand years! A thousand years! A thousand thousand years!”
 
-They wore official robes of black silk, but ranged in age from young men who looked barely twenty to old men with deeply wrinkled faces.
+They wore official robes made of black silk, and their ages varied widely.
 
-Their robes weren’t the only thing they had in common. I realized at once.
+Some looked barely twenty, at most; others were old men with deeply wrinkled faces.
+
+But their robes weren’t the only thing they had in common. I realized at once.
 
 *Eunuchs.*
 
 No doubt about it.
 
-Every one of them had a face powdered white and lips painted red. Their voices sounded neither like women’s nor men’s, and even their loose robes couldn’t hide their small frames.
+Every one of them had a face powdered white and lips painted red. Their voices were neither a woman’s nor a man’s, and their small frames showed even through the loose fit of their robes.
 
 And yet—
 
@@ -110,9 +112,9 @@ And yet—
 
 Martial power wasn’t decided by the size of your body.
 
-What you saw wasn’t everything.
+There was more to people than what you could see.
 
-I could feel the immense qi coiled inside their small frames. At the same time, I recalled the name of the organization I’d just heard.
+I could feel the immense energy coiled inside their small frames. At the same time, I recalled the name of the organization I’d just heard.
 
 No—I found myself muttering it aloud.
 
@@ -134,7 +136,7 @@ Hong Jin answered calmly.
 
 “Call me whatever you like. But you’ve gotten even older since I last saw you.”
 
-Despite the considerable age difference between them, Hong Jin spoke to him without a hint of deference.
+Though there was a considerable age difference between them, Hong Jin spoke to him casually and without deference.
 
 That meant Hong Jin’s position back then must have been quite high. The old eunuch’s wrinkles deepened further.
 
@@ -154,19 +156,19 @@ The old eunuch continued in a chilly voice.
 
 “Times really have changed. Someone like you dares to question something His Highness Prince Shangshan permitted? And…”
 
-Hong Jin’s voice rang clear.
+Hong Jin continued in a clear voice.
 
 “If everything had gone according to the rules, things wouldn’t have come to this.”
 
-“…!”
+“……!”
 
-“…!”
+“……!”
 
 Hong Jin’s words had a hard edge beneath them, and the air around us froze.
 
 Just as he said, if everything had followed the rules, the current Son of Heaven wouldn’t be sitting on the throne, and Prince Shangshan Zhu Bao’s situation would be very different.
 
-Hong Jin had alluded to that fact, and the reaction of the Embroidered Uniform Guards and the East Depot eunuchs—the Son of Heaven’s own hands and feet—had been inevitable from the start.
+Hong Jin had alluded to that fact, and the reaction of the Embroidered Uniform Guards and the East Depot eunuchs—the Son of Heaven’s own hands and feet—was settled from the start.
 
 Shing.
 
@@ -190,11 +192,11 @@ At the soft sound, time—which had slowed for a moment—returned to normal. Th
 
 *How?*
 
-But I didn’t bother answering, nor did I knock down the man who’d already gone rigid as a statue.
+But I didn’t bother answering, nor did I knock down my opponent, who’d already gone rigid as a statue.
 
 Then again, even if I had answered, he might not have heard me.
 
-The wind, catching up with me after I’d moved like a flash of light, whipped in every direction.
+The wind, catching up with my figure after it had moved like a flash of light, whipped in every direction.
 
 Fwoosh!
 
@@ -208,9 +210,9 @@ In that breathless silence, without a single cough, I spoke calmly.
 
 “Who the hell told you to draw your weapon? With a child—no, with His Highness Prince Shangshan watching, no less.”
 
-“…!”
+“……!”
 
-“…!”
+“……!”
 
 “Let’s not make this any bigger than it has to be. That’s best for everyone, isn’t it?”
 
@@ -222,9 +224,9 @@ And my sincere words reached someone I hadn’t expected.
 
 “Your manner is disrespectful, but you’re not wrong.”
 
-“…!”
+“……!”
 
-*When did he get there?*
+When had he—
 
 I turned around, feeling as if someone had dumped a bucket of cold water over my head.
 
@@ -234,13 +236,13 @@ About thirty *jang* away, halfway down the endless staircase leading up to the i
 
 I’d been constantly honing my Qi Sense so I wouldn’t have to rely on the System as much as possible.
 
-There was no denying the distance between us was considerable. But the fact that I hadn’t sensed him proved the middle-aged man’s martial prowess was no less than mine.
+There was no denying the distance between us was considerable, but the fact that I hadn’t sensed him was proof that the middle-aged man’s martial prowess was no less than mine.
 
 *No. It might even be greater.*
 
-My thoughts turned cold as I watched him.
+I fixed my gaze on the man, feeling my mind grow cold.
 
-Instead of using lightness skill, he came slowly down the stairs with the leisurely gait of a man out for a stroll. He smiled at me and spoke.
+Instead of using lightness skill, he came slowly down the stairs with the leisurely gait of a carefree man. He smiled at me and spoke.
 
 “You’re reckless, like the other ruffians of the martial world, but not as ignorant. Jin Taekyung of the Jin Family of Taiyuan.”
 
@@ -250,7 +252,7 @@ I’d expected as much the moment I stepped in front of the Embroidered Uniform 
 
 And just as he knew who I was, I had a vague idea of who he was, too.
 
-Even if he hadn’t been wearing gleaming golden armor, the shout that rang out the next moment would’ve told me.
+Even if he hadn’t been wearing a gleaming golden suit of armor, the shout that rang out the next moment would’ve told me.
 
 “Loyalty!”
 
@@ -258,7 +260,7 @@ Even if he hadn’t been wearing gleaming golden armor, the shout that rang out 
 
 Led by Jeong Hogun, the Embroidered Uniform Guards under his command struck their chests and shouted their military salute as one. It was quite a sight.
 
-So was the middle-aged man approaching through that sea of flashing gold.
+So was the middle-aged man approaching through a sea of flashing gold.
 
 Step. Step.
 
@@ -266,19 +268,19 @@ His soft footsteps broke the silence that followed the shouts.
 
 He was neither large nor small, but somehow seemed like a giant. He stopped only when he reached the young prince.
 
-“I, Baek Yeon, Commander of the Embroidered Uniform Guard, pay my respects to His Highness Prince Shangshan. I serve only the Emperor with my utmost loyalty, so I ask you to forgive me, with a heart as vast as the sea, for not kneeling.”
+“I, Baek Yeon, Commander of the Embroidered Uniform Guard, pay my respects to His Highness Prince Shangshan. I serve only the Emperor with my utmost loyalty, so please forgive me for being unable to kneel, with a heart as vast as the sea.”
 
 His words were respectful, but his voice was light. He didn’t even show the proper deference due to a direct member of the imperial family—a prince.
 
 And then there was that faint smile on his lips.
 
-Still, the post of Commander of the Embroidered Uniform Guard carried that kind of power. He was the Son of Heaven’s most trusted military officer and the head of a force even the highest-ranking officials feared.
+Still, he held the post of Commander of the Embroidered Uniform Guard for a reason. He was the Son of Heaven’s most trusted military officer, and the head of a force even the highest-ranking officials feared.
 
 “Furthermore, I humbly ask that Your Highness hold me responsible for the crimes of my subordinates, who dared to show disrespect in your presence.”
 
 That wasn’t an apology or a request. It was a notification.
 
-He was telling us to end the matter here and now.
+He was telling us to put an end to this here and now.
 
 Even I, who was only watching for the moment, couldn’t help frowning. But Hong Jin, Prince Shangshan’s loyal servant, reacted differently from before.
 
@@ -288,7 +290,7 @@ He clenched his fist so tightly that his skin turned white.
 
 The rings on his ten fingers scraped against one another with an unpleasant sound.
 
-Hong Jin stared at the middle-aged man—or rather, Baek Yeon, Commander of the Embroidered Uniform Guard—with a deeply restrained gaze, then leaned toward Prince Shangshan and whispered,
+But Hong Jin stared at the middle-aged man—or rather, Baek Yeon, the Commander of the Embroidered Uniform Guard—with a deeply restrained gaze, then leaned toward Prince Shangshan and whispered,
 
 “Your Highness.”
 
@@ -300,7 +302,7 @@ Whether that was because Baek Yeon held the immense power of the Embroidered Uni
 
 And looking at it coldly, I had no place in this decision.
 
-Intervening when an Embroidered Uniform Guard drew his sword had been proper for me as the prince’s guard in name. But from here on, it was best to follow Hong Jin’s lead.
+Intervening when an Embroidered Uniform Guard drew his sword was the proper thing to do as a guard in name, but from here on, it was best to follow Hong Jin’s lead.
 
 This was the imperial court, not Murim.
 
@@ -324,7 +326,7 @@ I knew what answer he wanted now, too.
 
 “Uh, may I speak honestly?”
 
-“That is precisely what I want. This is an order from your king.”
+“That is precisely what I want. This is an order from your prince.”
 
 At the prince’s bold command, I laughed aloud.
 
@@ -338,8 +340,8 @@ This was the imperial palace. I had to keep things under control.
 
 “I’d have already beaten the shit out of every last one of them.”
 
-“…!”
+“……!”
 
-“…!”
+“……!”
 
 Okay. So much for keeping it under control.
