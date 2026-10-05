@@ -8,7 +8,7 @@ They were both closely connected to the assassin business.
 
 “I left that line of work a long time ago. I—No, I mean my Master…”
 
-Of course, the two of them protested that it was unfair. Even so, there was no denying they had considerable ties to the world of assassins.
+The two of them protested, of course. But there was no denying their ties to the world of assassins.
 
 Especially in the case of someone whose Master had once been known as the terrifying Slaughter Saint.
 
@@ -18,13 +18,13 @@ The Divine Physician looked around at us with darting eyes, then spoke as if he 
 
 “How would I know something like that? It’s true my Master was involved with that world once, but…”
 
-“Involved? He was swimming in it.”
+“Involved? He swam in it.”
 
 At Jeok Cheongang’s mutter, I nodded without thinking.
 
-“Whew. He was practically flying around back then.”
+“Whew. He practically flew through it.”
 
-“Right. He flew around so much he eventually became a star.”
+“Right. Flew so far he became a star.”
 
 “You make it sound like he’s dead. He’s still a living legend in that world.”
 
@@ -34,15 +34,15 @@ At Jeok Cheongang’s mutter, I nodded without thinking.
 
 “That came later. When he was young, he was probably no different from the rest of those bastards. And when you’re young, you do what you’re told.”
 
-The Divine Physician, who’d been listening to Jeok Cheongang and me go back and forth, gave us a look as cold as brine.
+The Divine Physician’s expression chilled as he listened to us go back and forth.
 
 “If you’re going to talk like that, I won’t say another word.”
 
-“Come on, don’t be like that. I’m only speaking loosely. You know how much I respect him.”
+“Come on, don’t be like that. You know how much I respect him.”
 
 “You’re old enough to know better, yet here you are sulking. Say something. Surely you heard a thing or two from your Master.”
 
-After I tried to coax him, the Divine Physician hesitated for a moment, then let out a deep sigh.
+After we coaxed him a little, the Divine Physician hesitated, then let out a deep sigh.
 
 “My Master was always reluctant to speak about his past.”
 
@@ -50,7 +50,7 @@ I could understand that. The Slaughter Saint I knew regretted his bloodstained p
 
 That was why, right after the Great Faction War ended, he’d put everything behind him and started down the path of a physician.
 
-Because he didn’t want to kill anyone anymore.
+He didn’t want to kill anyone anymore.
 
 He wanted to wash away the stench of blood that no amount of scrubbing could remove—not by killing, but by saving lives.
 
@@ -64,9 +64,9 @@ The Divine Physician trailed off, then let out the breath he’d been holding.
 
 “Then, could it be…?”
 
-“If they were assassins active in my Master’s time, I’ve probably heard of them at least once. Of course, given what assassins are like, it’s unlikely any of them are still active—”
+“If they were active in my Master’s time, I’ve probably heard of them at least once. Of course, given what assassins are like, it’s unlikely any of them are still active—”
 
-“I’m glad we asked you first, sir.”
+“I’m glad I asked you first, sir.”
 
 “Pardon? What do you mean?”
 
@@ -94,11 +94,11 @@ It was common knowledge in Murim, and easy enough to understand, that assassins 
 
 Even if you devoted yourself to a single path with a pure body and mind, setting foot in the Supreme Peak realm was like trying to pluck a star from the sky. What chance did assassins have when they had to learn all kinds of techniques just to survive and kill?
 
-*It’s like trying to master your major while having to take dozens of extra electives.*
+*It’s hard enough to master your major without taking dozens of extra electives.*
 
 That was why, judged purely by their martial arts, assassins were considered the weakest among those who practiced demonic, heterodox arts.
 
-The Slaughter Saint’s title as the greatest assassin of all time came from the same principle.
+It was also why the Slaughter Saint was called the greatest assassin of all time.
 
 But the old man I’d met today had unquestionably been a Supreme Peak master.
 
@@ -128,9 +128,9 @@ Sama Pyo flinched as everyone’s gaze swung toward him, then spoke.
 
 “How do you know that?”
 
-“How do you think? I heard about it.”
+“How do you think? Someone told me.”
 
-“From who—Ah.”
+“Who—Ah.”
 
 That was a pointless question.
 
@@ -144,7 +144,7 @@ And since the Black Dragon Demon Gate’s stronghold was in Qinghai, it would’
 
 So, the One-Legged Ghost Killer.
 
-“His epithet’s incredible. Just hearing it, he doesn’t sound like a good guy, does he?”
+“Quite an epithet. Just hearing it, he doesn’t sound like a good guy, does he?”
 
 Sama Pyo nodded.
 
@@ -152,15 +152,15 @@ Sama Pyo nodded.
 
 “Why do you keep looking down on assassins? You practice demonic, heterodox arts yourself.”
 
-“Even if you are the Pavilion Master, that’s harsh. I’m still one of the good, decent practitioners of demonic, heterodox arts.”
+“Even if you are the Pavilion Master, that’s harsh. I’m a decent person.”
 
 “What the fuck? Since when is there such a thing as a decent practitioner of demonic, heterodox arts? What are you, bright Dark Heaven?”
 
 “…You really are too much.”
 
-“Fine, I get it. You’re a decent guy. Whatever. Keep talking.”
+“Fine, I get it. You’re a decent guy. Keep talking.”
 
-Sama Pyo glared at Song Ilseom, who’d kept quiet until now but had started grinning like a lunatic the moment I laid into Sama Pyo, then spoke.
+Sama Pyo glared at Song Ilseom, who’d kept quiet until now but had started grinning like a lunatic the moment I laid into Sama Pyo.
 
 “They say the One-Legged Ghost Killer had a fearsome reputation throughout Qinghai even before the Great Faction War. His martial prowess was impressive, but his skill as an assassin was greater still. He was said to have killed an Elder of the Kunlun Sect who was a Supreme Peak master at the time.”
 
@@ -174,7 +174,7 @@ Sama Pyo glared at Song Ilseom, who’d kept quiet until now but had started gri
 
 “Keep going.”
 
-“That’s all. After the Great Faction War, I heard… his whereabouts became unknown.”
+“That’s all. After the Great Faction War, I heard… he simply disappeared.”
 
 “…”
 
@@ -190,17 +190,17 @@ Namho spoke up, rubbing his lower back.
 
 “You mean…”
 
-“It means there’s a good chance you mistook him for someone else. Even if the man you saw really was the One-Legged Killing Ghost… for now, he’s an ally whether we like it or not.”
+“You could easily have mistaken someone else for him. And even if the man you saw *was* the One-Legged Ghost Killer… for now, he’s an ally whether we like it or not.”
 
-Namho’s last words rang louder than the rest.
+Namho’s last words seemed to ring louder than the rest.
 
 *An ally. An ally.*
 
-Just those two words left a bad taste in my mouth.
+Just that one word was enough to make me uneasy.
 
-At the same time, I finally understood why the old assassin’s presence had felt like a thorn in my throat.
+And I finally understood why the old assassin’s presence had felt like a thorn in my throat.
 
-*I must be repulsed by the thought of getting mixed up with people like him.*
+*I don’t want anything to do with people like him.*
 
 If someone asked whether I thought I was a good person, I wouldn’t be able to answer easily.
 
@@ -210,7 +210,7 @@ I’d taken countless lives myself.
 
 If I thought someone was an enemy, I killed them without hesitation. The faster I grew stronger, the easier killing became. I could have crippled them by destroying their dantian and severing the Sinews and Meridians in their limbs, but I couldn’t find a reason to bother.
 
-No. I didn’t look for one.
+No. I hadn’t looked for one.
 
 I didn’t want to leave even the slightest chance of future trouble.
 
@@ -236,7 +236,7 @@ The old assassin wouldn’t have tried to become a better person like the Slaugh
 
 Yesterday, today, and tomorrow.
 
-And now, today, he’d become our dependable ally—a comrade who would fight back-to-back with us in the not-too-distant future.
+And now he was our dependable ally—a comrade who would soon fight back-to-back with us.
 
 *Is this… right?*
 
@@ -244,7 +244,7 @@ I found myself confused.
 
 The two words Ma Sanbao had used—*the great undertaking*—weighed heavily on my heart. So did the image of the young king held captive in Qianqing Palace, dressed in splendid but cold clothes.
 
-Just as I quietly smacked my lips at the bitter taste in my mouth, someone spoke in a calm voice.
+As I quietly tasted the bitterness in my mouth, someone spoke in a calm voice.
 
 “I once asked my Master why he’d ended the line of Salcheonmun, the sect where he was born and raised.”
 

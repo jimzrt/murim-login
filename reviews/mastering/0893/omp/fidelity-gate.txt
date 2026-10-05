@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is faithful overall, with one inconsistent rendering of an established assassin epithet.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 195 (독각살귀)",
+      "current": "the One-Legged Killing Ghost",
+      "defect": "This renders 독각살귀 differently from the established glossary term and from the other mentions in this scene, which use “One-Legged Ghost Killer.”",
+      "replacement": "the One-Legged Ghost Killer",
+      "rationale": "The glossary maps 독각살귀 to “One-Legged Ghost Killer,” and Namho uses the same epithet for the same possibly misidentified assassin.",
+      "confidence": 0.99
+    }
+  ]
+}
