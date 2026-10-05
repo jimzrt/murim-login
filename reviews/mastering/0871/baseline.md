@@ -4,29 +4,31 @@ Even the Embroidered Uniform Guard, called the Emperor’s hands and feet alongs
 
 Jeong Hogun led Prince Shangshan and me over to the middle-aged twins, whose names I didn’t know, and sent us a brief Sound Transmission.
 
-—From now on, be careful with every word and every move. Otherwise, you won’t leave here alive.
+—From now on, you must be careful with every word you say and every move you make. Otherwise, you won’t come out of here alive.
 
 Who the fuck did that bastard think he was kidding?
 
-I could already feel the danger on my skin. Not just from the twin Supreme Peak masters who’d appeared out of nowhere, but from all the people inside Qianqing Palace whose presence I could sense before we’d even entered.
+I could already feel it in my bones.
 
-*This place is guarded like hell.*
+Not just because of those twin Supreme Peak masters who’d appeared out of nowhere, but because of all the people inside the palace whose presence I could sense even though we hadn’t entered yet.
 
-My mouth felt as gritty as if I’d swallowed sand. I drew on my internal energy slowly enough that no one would notice, then moved my lips.
+*This place is insanely well guarded.*
 
-—Just answer me one thing. Why was I summoned?
+My mouth felt dry, as if I’d swallowed sand. I slowly drew on my internal energy, carefully enough that no one would notice, and moved my lips.
+
+—Just answer me one thing. Why the hell was I summoned?
 
 —I told you I don’t know.
 
-—Do you really not know, or do you know but refuse to tell me?
+Are you saying you really don’t know, or that you know but won’t tell me?
 
 —Both.
 
 Damn it. I was an idiot for asking.
 
-I glared at Jeong Hogun, who stood there with his usual impassive face, then passed beneath the plaque reading Qianqing Palace alongside Prince Shangshan, who had climbed down from his palanquin.
+I glared at Jeong Hogun, who stood with his usual impassive face, then passed beneath the plaque reading Qianqing Palace alongside Prince Shangshan, who had climbed down from his palanquin.
 
-Step. Step.
+Clop. Clop.
 
 Our footsteps rang out unusually loudly.
 
@@ -42,13 +44,15 @@ And on top of that…
 
 *Why the hell are there so many bats?*
 
-Shadows hidden even in the faint light.
+Shadows that didn’t show even in the faint light.
 
-The people watching our every move from the darkness had to be guards raised by the imperial family—and assassins.
+Those watching our every move from the darkness had to be imperial guards trained by the royal family—and assassins.
 
-If the worst happened, those assassins, nearly a hundred of them, would carve me up with the one-strike killing techniques they’d spent their lives honing. And the twin Supreme Peak masters would be right there with them, wielding a combined technique they looked as if they’d learned in the womb.
+If the worst came to pass, those assassins, nearly a hundred of them, would carve me up with the one-strike killing techniques they’d spent their lives honing.
 
-*Unless you’re one of the Ten Kings—or maybe a master on par with the Three Saints—you’ll almost certainly be buried here.*
+Along with the twin Supreme Peak masters, who looked as if they’d learned their combined technique in the womb.
+
+*Unless you’re one of the Ten Kings—or maybe a master on par with the Three Saints—you’re almost certainly going to be buried here.*
 
 People say the martial world is a mountain of sabers and a forest of swords.
 
@@ -58,29 +62,29 @@ This was the real mountain of sabers and forest of swords. A place where the Emp
 
 *How many masters does he have under his command?*
 
-Even the Nine Sects and One Gang and the Five Great Families had two Supreme Peak masters at most. Usually, they had only one. And here the Emperor had two of them working as gatekeepers.
+The Nine Sects and One Gang and the Five Great Families might have two Supreme Peak masters at most. Some had only one. And here the Emperor had two of them working as gatekeepers.
 
-I felt as though I were walking along a blade’s edge.
+It felt as if I were walking along a blade’s edge.
 
-A bead of cold sweat slid down the back of my neck. Then I noticed a small hand tugging at my sleeve.
+Just then, as a bead of cold sweat trickled down the back of my neck before I even realized it, I noticed a small hand tugging at my sleeve.
 
 Squeeze.
 
-The hand gripped hard enough to crumple the fabric. Only then did I notice the young prince’s ragged breathing.
+A hand gripping so tightly that my sleeve crumpled. Only then did I notice the young prince’s ragged breathing.
 
 *He’s trembling.*
 
 Before he was a member of the imperial family or a prince, he was a child.
 
-He’d been one when I first met him, and he still was now.
+He’d been the same the first time I met him, and nothing had changed now.
 
-He’d said he left the imperial palace when he was too young to remember. Of course he wouldn’t remember the Son of Heaven, either.
+He’d said he left the imperial palace when he was so young he couldn’t even remember it. Of course he wouldn’t remember the Son of Heaven, either.
 
 *And now his only family, his one and only older brother, is threatening his life.*
 
-A thought occurred to me.
+A thought suddenly occurred to me.
 
-Maybe the cheerful side Prince Shangshan had shown on the way to the Imperial Capital was his way of hiding his fear and disappointment.
+The cheerful side Prince Shangshan had shown on the way to the imperial capital—maybe it was an attempt to hide his fear and disappointment.
 
 When Hong Jin warned him that the Son of Heaven was a threat and he shook his head, saying that couldn’t be true…maybe that was the only choice a child could make when faced with a reality too hard to believe.
 
@@ -110,7 +114,7 @@ There were evil people who deserved to die, and good people with eyes as clear a
 
 I’d killed the former without a moment’s hesitation. When it came to the latter, I’d even risked my life to help them.
 
-And now I felt sorry for this young prince.
+And now, I felt sorry for this young prince.
 
 His trembling breaths reminded me of the young siblings who’d lost everything and fled after Jopil’s attack. His small hand clutching my sleeve made me think of my own little sister, Hayeon.
 
@@ -126,31 +130,33 @@ Could I look back on it years later as if it meant nothing?
 
 I smiled bitterly and looked down at Prince Shangshan, who didn’t even reach my chest.
 
-Then, almost on impulse, I raised a hand and gave his head a couple of gentle pats.
+Then, almost on impulse, I raised a hand and gently patted his head.
 
 “……!”
 
-His eyes flew wide, and his lips parted as if he were about to shout that I’d overstepped my bounds. But Prince Shangshan only stared up at me in surprise, his mouth working soundlessly.
+His eyes flew wide, and his lips parted slightly, as if he were about to shout that I’d overstepped my bounds. But Prince Shangshan only stared up at me in surprise, his mouth working soundlessly.
 
-Instead, his grip on my sleeve loosened, as though he felt relieved.
+Instead, the hand that had been gripping my sleeve so tightly loosened, as though he felt relieved.
 
 Who had ever dared to pat this child on the head?
 
-Even something as simple as that—something other children his age took for granted—was probably unfamiliar to Prince Shangshan, Zhu Bao.
+Even this little thing that every child his age should have experienced was something Prince Shangshan, Zhu Bao, had probably never known.
 
-*And right now, this little bit is the best I can do for him.*
+*This is the best I can do for him right now.*
 
-Just then, the twins, who had been striding forward without hesitation, stopped before a massive door.
+Just then, the twins, who had been striding forward without hesitation, stopped in front of a massive door.
 
-Click. Rumble.
+Click. Grrrrr.
 
-An iron door swung open with a heavy rumble. A dragon was carved into its surface so vividly it almost seemed alive. The twins, who hadn’t said a word since we entered the palace, broke their silence.
-
-“Please enter.”
+With a heavy rumble, an iron door swung open, its surface carved with a dragon so lifelike it seemed to move. The twins, who hadn’t said a word since we entered the palace, broke their silence.
 
 “Please enter.”
 
-It wasn’t as though we had any choice left. Still, hearing that we’d be separated from those Supreme Peak masters was welcome news.
+“Please enter.”
+
+It wasn’t as though we had any choice left.
+
+Besides, hearing that we’d be separated from the Supreme Peak masters was a welcome surprise.
 
 I nodded, then stepped through the iron door ahead of Prince Shangshan, shielding him as I went.
 
@@ -158,11 +164,11 @@ Rrrr. Thud.
 
 The heavy door shut behind us with another rumble. Beneath the faint light of countless night-shining pearls glowing on the ceiling, a man stepped forward.
 
-Step.
+Clop.
 
-His build was as slight as his footsteps were light.
+A slender frame, as slight as his light footsteps.
 
-He looked about fifty and wore a long robe with sleeves that dragged along the floor. Prince Shangshan spoke first when he saw him.
+He looked about fifty. A middle-aged man in a long robe whose sleeves dragged along the floor. Prince Shangshan spoke first when he saw him.
 
 “Who goes there?”
 
@@ -174,31 +180,31 @@ The middle-aged man gazed at the tense-faced Prince Shangshan and at me, standin
 
 “To see His Highness Prince Shangshan grown so tall, and from so close, fills me with deep emotion after all these years.”
 
-After a moment’s hesitation, Prince Shangshan asked, “Do you…know me?”
+After hesitating, Prince Shangshan asked, “Do you…know me?”
 
 “Of course. Though Your Highness does not remember me.”
 
-A faint smile touched his wrinkled lips. He turned his gaze from Prince Shangshan to me.
+A faint smile appeared on his wrinkled lips. The man turned his gaze from Prince Shangshan to me.
 
-“You and I have never met.”
+“You’re a stranger to me.”
 
-I said nothing. The moment I saw him, I’d had to fight to keep a string of curses from spilling out.
+I chose silence instead of answering. The moment I saw him, I’d had to fight to keep a string of curses from spilling out.
 
 Why? Simple.
 
-The middle-aged man in front of me—no, this middle-aged man *too*—was a Supreme Peak master.
+The middle-aged man in front of me—no, this middle-aged man, too—was a Supreme Peak master.
 
-*Oh, for fuck’s sake… I can’t do this anymore.*
+*No, fuck me… This is so goddamn unfair.*
 
-This was only my second day at the imperial palace.
+I’d only been at the imperial palace for two days.
 
-And even that was being generous. I hadn’t actually been here for twelve shichen, a full day.
+And that was being generous. If you counted the actual time I’d spent here, it hadn’t even been twelve shichen—a full day.
 
-Yet this was already the fifth Supreme Peak master I’d come face-to-face with.
+And yet this was already the fifth Supreme Peak master I’d come face-to-face with.
 
 *I’m so screwed.*
 
-I was seriously wondering if I should start wearing a condom instead of clothes when the man spoke again.
+Just as I was seriously wondering if I should start wearing a condom instead of clothes, the middle-aged man spoke again.
 
 “You needn’t tell me who you are. I already know. Jin Taekyung of the Jin Family of Taiyuan.”
 
@@ -208,15 +214,15 @@ I let out a deep sigh and answered.
 
 “Does everyone around here recognize me wherever I go?”
 
-“The imperial family’s eyes and ears are everywhere. And you do stand out.”
+“The imperial court’s eyes and ears are everywhere. And you do stand out.”
 
 “Because I’m handsome?”
 
 “No. Because you look like a thug at first glance.”
 
-Listen to this guy.
+Listen to the way this guy talks.
 
-“Then what are you around here? The eyes? Or the ears?”
+“Then what do you do around here? The eyes? Or the ears?”
 
 “Hmm. Which do you think I’m closer to?”
 
@@ -226,7 +232,7 @@ Listen to this guy.
 
 “Your sleeves are dragging on the floor, so I figure you must be great at mopping.”
 
-The middle-aged man stared at me blankly for a moment, then laughed aloud.
+The middle-aged man stared at me blankly for a moment, then burst out laughing.
 
 “Ha ha. Just as I’d heard.”
 
@@ -240,9 +246,9 @@ The middle-aged man stared at me blankly for a moment, then laughed aloud.
 
 “……”
 
-“Of course, the accounts were all over the place, so I was curious myself. Now, this way.”
+“Of course, the stories I heard were all over the place, so I was curious myself. Now, this way.”
 
-Before I could answer, he turned and took the lead as if it were only natural, without so much as a glance back.
+Without giving me a chance to answer, the middle-aged man spun around and naturally took the lead, not even looking back.
 
 “Where are we going?”
 
@@ -252,15 +258,15 @@ I’d had my suspicions, and I’d been right.
 
 Apparently, this old guy was the third transfer point on our way to the Emperor—and the final guide who would take us to our destination.
 
-*Obviously, he isn’t a cleaner.*
+*Obviously, he wasn’t a cleaner.*
 
-Who the hell was he? His clothes offered no clue.
+Who the hell was he? His clothes didn’t offer much of a clue.
 
-East Depot? Or Embroidered Uniform Guard?
+The East Depot? Or the Embroidered Uniform Guard?
 
 His gaunt frame made him look more like a eunuch, but his voice was so weighty it could knock even an Embroidered Uniform Guard off his feet.
 
-And he moved around as naturally as if this were his own home.
+And there was the way he moved around as naturally as if this were his own home.
 
 *Even the twins didn’t come this far. So he must be one of the Emperor’s closest, most trusted confidants…*
 
@@ -268,9 +274,9 @@ According to Ma Sanbao last night, the young Emperor was hot-tempered and suspic
 
 And that wasn’t all.
 
-There were the guards, of course, along with the eunuchs and palace attendants who stayed inside to see to his every need.
+The guards, of course, as well as the eunuchs and palace attendants who stayed inside to see to every need…
 
-This place existed for the Emperor, by the Emperor, and in service of the Emperor.
+This place had been created for the Emperor, by the Emperor, and in service of the Emperor.
 
 Could just anyone come and go in Qianqing Palace—let alone somewhere this deep inside?
 
@@ -278,9 +284,9 @@ I didn’t know for sure, but he’d probably need to be close in standing to Ba
 
 *Then could this guy be the East Depot’s leader, the Director? No. I heard he was much older, and that he’d been bedridden with illness for years.*
 
-I racked my brain, but no one came to mind.
+I quickly racked my brain, but no one came to mind.
 
-Ma Sanbao had mentioned far too many people, and this man didn’t match the distinctive features of any of the few he’d described.
+Ma Sanbao had mentioned far too many people, and the man didn’t match the distinctive features of any of the few he’d described.
 
 *If only I could use my Qi Sense Skill right now…*
 
@@ -290,7 +296,7 @@ If you’re thirsty, you dig a well.
 
 I’d just have to pry the information out of him somehow.
 
-I followed the man as he strolled along at an unhurried pace and tossed out a question.
+Walking behind the middle-aged man as he strolled along at an unhurried pace, I tossed out a question.
 
 “When do I get to meet the Emperor?”
 
@@ -298,43 +304,45 @@ I followed the man as he strolled along at an unhurried pace and tossed out a qu
 
 “At this rate, we’ll get there tomorrow.”
 
-The man gave a short laugh without looking back.
+The middle-aged man gave a quiet laugh without looking back.
 
-“You’re as impatient as you look. Wait a little. His Majesty is enjoying a diversion he hasn’t had in some time.”
+“You’re as impatient as you look. Just wait a little. His Majesty is enjoying a rare diversion.”
 
-“A diversion? After summoning us?”
+“Enjoying a diversion? After summoning us?”
 
 “And what, do you intend to complain?”
 
 “……!”
 
-“Everyone has their place. To ascend the throne is to be able to look down upon them all. A simple enough truth of the world, isn’t it?”
+“Everyone has a place of their own. To ascend the throne means to look down upon them all. Isn’t that a simple and straightforward truth of the world?”
 
 My expression hardened.
 
-Not because I objected to the Emperor’s behavior, or because the man’s answer had struck a nerve.
+Not because I objected to the Emperor’s behavior, or because the middle-aged man’s answer had struck a nerve.
 
-It was the casual look on his face, his tone, the effortless authority in every small movement. And on top of that, his appearance didn’t match any of the Emperor’s confidants Ma Sanbao had mentioned.
+It was the casual look and tone he’d just shown me. The effortless confidence that came through in every small movement.
+
+And on top of that, he didn’t look anything like any of the Emperor’s confidants Ma Sanbao had mentioned.
 
 *No way.*
 
-The thought sent a groan through me.
+The moment I let out a quiet groan inwardly—
 
-Step.
+Clop.
 
-The man came to an abrupt stop. Without a moment’s hesitation, he threw open the door before him, decorated with gold, silver, and jewels.
+The middle-aged man came to an abrupt stop. He threw open the door before them, decorated with gold, silver, and jewels, without the slightest hesitation, then spoke.
 
 “Your Majesty. In accordance with your solemn imperial command, I have brought the two people you requested.”
 
-But there was no answer.
+But there was no answer from anywhere.
 
 In fact, there wasn’t a hint of anyone else’s presence.
 
-Only one person stood inside the enormous bedchamber.
+Only one person stood within this enormous bedchamber.
 
 The middle-aged man.
 
-He turned slowly toward us and smiled, showing his white teeth.
+He slowly turned around. Then he smiled at us, showing his white teeth.
 
 “It was a brief diversion, but I enjoyed it.”
 

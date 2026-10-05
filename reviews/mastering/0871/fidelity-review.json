@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "The imperial family’s eyes and ears are everywhere.",
+      "defect": "“Imperial family” suggests the Emperor’s relatives, while 황실 here refers to the imperial court or institution whose surveillance reaches everywhere. The accepted baseline’s “imperial court” preserves that sense.",
+      "id": "F01",
+      "rationale": "The speaker describes the reach of the court’s network, not specifically the Emperor’s family members.",
+      "replacement": "The imperial court’s eyes and ears are everywhere.",
+      "severity": "minor",
+      "source": "Lines 218–219 (Korean line 219)"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall, with one minor institutional-sense shift.",
+  "version": 1
+}

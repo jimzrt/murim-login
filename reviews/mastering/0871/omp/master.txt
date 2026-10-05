@@ -2,7 +2,7 @@
 
 Even the Embroidered Uniform Guard, called the Emperor’s hands and feet alongside the East Depot, apparently had its limits.
 
-Jeong Hogun led Prince Shangshan and me over to the middle-aged twins, whose names I didn’t know, and sent us a brief Sound Transmission.
+Jeong Hogun handed Prince Shangshan and me over to the middle-aged twins, whose names I didn’t know, and sent me a brief Sound Transmission.
 
 —From now on, be careful with every word and every move. Otherwise, you won’t leave here alive.
 
@@ -30,13 +30,13 @@ Step. Step.
 
 Our footsteps rang out unusually loudly.
 
-I quietly sized up the twins’ backs as they walked in perfect sync, their movements identical down to the smallest detail.
+I studied the twins’ backs as they walked in perfect sync, their movements identical down to the smallest detail.
 
 *They’ve definitely trained in a combined attack technique…but what martial art, exactly?*
 
 No matter how I looked at it, the situation was bad.
 
-Not being able to guess what martial arts they’d learned was one thing. Just imagining two fully accomplished Supreme Peak masters using a combined attack technique made my stomach hurt.
+Not being able to guess what martial arts they’d learned was one thing. Just imagining two Supreme Peak masters who’d perfected a combined attack technique made my stomach hurt.
 
 And on top of that…
 
@@ -82,13 +82,13 @@ A thought occurred to me.
 
 Maybe the cheerful side Prince Shangshan had shown on the way to the Imperial Capital was his way of hiding his fear and disappointment.
 
-When Hong Jin warned him that the Son of Heaven was a threat and he shook his head, saying that couldn’t be true…maybe that was the only choice a child could make when faced with a reality too hard to believe.
+When Hong Jin warned him that the Son of Heaven was a threat, he’d shaken his head and said that couldn’t be true. Maybe that was the only response a child could manage when faced with something too painful to believe.
 
-*He shouldn’t have to understand any of this…but he’s had to grow up far too soon.*
+*He shouldn’t even have to know about any of this…but he’s had to grow up far too soon.*
 
 My feelings grew complicated.
 
-I thought of the boy from that winter in Shanxi Province, when icy winds howled through the mountains. He’d lost his parents and climbed a hill with his tiny, fern-like hands clinging tight to his little sister.
+I thought of a boy from that winter in Shanxi Province, when icy winds swept through the mountains. He’d lost his parents and climbed a hill, his little fern-like hand gripping his younger sister’s tight.
 
 And I remembered young Hayeon patting our mother’s back as she lay facedown, sobbing at our father’s funeral.
 
@@ -108,13 +108,13 @@ They were people, after all. They got angry, felt joy, and grieved.
 
 There were evil people who deserved to die, and good people with eyes as clear as glass.
 
-I’d killed the former without a moment’s hesitation. When it came to the latter, I’d even risked my life to help them.
+I’d killed the former without a moment’s hesitation. For the latter, I’d even risked my life.
 
 And now I felt sorry for this young prince.
 
 His trembling breaths reminded me of the young siblings who’d lost everything and fled after Jopil’s attack. His small hand clutching my sleeve made me think of my own little sister, Hayeon.
 
-*I need to think about this coldly. I have to. I can’t afford not to…*
+*I need to think about this coldly. I have to, especially with a choice like this…*
 
 But no matter how much I thought about it, I wasn’t sure I could.
 
@@ -156,7 +156,7 @@ I nodded, then stepped through the iron door ahead of Prince Shangshan, shieldin
 
 Rrrr. Thud.
 
-The heavy door shut behind us with another rumble. Beneath the faint light of countless night-shining pearls glowing on the ceiling, a man stepped forward.
+The heavy door shut behind us. Beneath the faint light of countless night-shining pearls set into the ceiling, a man stepped forward.
 
 Step.
 
@@ -170,9 +170,9 @@ Who goes there? Who goes there? Who goes there…
 
 His tense voice echoed again and again through the empty corridor. Not another person in sight—not even an ant.
 
-The middle-aged man gazed at the tense-faced Prince Shangshan and at me, standing slightly in front of him to shield him. Only when the echoes had faded did he speak.
+The middle-aged man gazed at Prince Shangshan’s stiff face, then at me standing slightly in front of him. Only when the echoes faded did he speak.
 
-“To see His Highness Prince Shangshan grown so tall, and from so close, fills me with deep emotion after all these years.”
+“To see His Highness Prince Shangshan so grown, and from this close, moves me deeply after all these years.”
 
 After a moment’s hesitation, Prince Shangshan asked, “Do you…know me?”
 
@@ -224,7 +224,7 @@ Listen to this guy.
 
 “What?”
 
-“Your sleeves are dragging on the floor, so I figure you must be great at mopping.”
+“Your sleeves are dragging along the floor. I bet you could give it a hell of a polish.”
 
 The middle-aged man stared at me blankly for a moment, then laughed aloud.
 
@@ -258,11 +258,11 @@ Who the hell was he? His clothes offered no clue.
 
 East Depot? Or Embroidered Uniform Guard?
 
-His gaunt frame made him look more like a eunuch, but his voice was so weighty it could knock even an Embroidered Uniform Guard off his feet.
+His gaunt frame made him look more like a eunuch, but his voice was weighty enough to put an Embroidered Uniform Guard to shame.
 
 And he moved around as naturally as if this were his own home.
 
-*Even the twins didn’t come this far. So he must be one of the Emperor’s closest, most trusted confidants…*
+*Even the twins didn’t come this far. So he must be one of the Emperor’s closest, most trusted people…*
 
 According to Ma Sanbao last night, the young Emperor was hot-tempered and suspicious. Only a handful of high-ranking officials and trusted servants who’d proven their loyalty were allowed into his residence, Qianqing Palace.
 
@@ -274,9 +274,9 @@ This place existed for the Emperor, by the Emperor, and in service of the Empero
 
 Could just anyone come and go in Qianqing Palace—let alone somewhere this deep inside?
 
-I didn’t know for sure, but he’d probably need to be close in standing to Baek Yeon, Commander of the Embroidered Uniform Guard.
+I couldn’t be sure, but he’d probably have to hold a position close to Baek Yeon’s as Commander of the Embroidered Uniform Guard.
 
-*Then could this guy be the East Depot’s leader, the Director? No. I heard he was much older, and that he’d been bedridden with illness for years.*
+*Could this be the Director, the head of the East Depot? No. I heard he was much older, and he’s been bedridden with illness for years.*
 
 I racked my brain, but no one came to mind.
 
@@ -284,15 +284,11 @@ Ma Sanbao had mentioned far too many people, and this man didn’t match the dis
 
 *If only I could use my Qi Sense Skill right now…*
 
-But there was nothing I could do about that.
-
-If you’re thirsty, you dig a well.
-
-I’d just have to pry the information out of him somehow.
+But there was nothing I could do about that. If I wanted answers, I’d have to get them myself.
 
 I followed the man as he strolled along at an unhurried pace and tossed out a question.
 
-“When do I get to meet the Emperor?”
+“When do I get to meet His Majesty?”
 
 “Soon.”
 
@@ -328,7 +324,7 @@ The man came to an abrupt stop. Without a moment’s hesitation, he threw open t
 
 But there was no answer.
 
-In fact, there wasn’t a hint of anyone else’s presence.
+In fact, I couldn’t sense anyone else at all.
 
 Only one person stood inside the enormous bedchamber.
 
