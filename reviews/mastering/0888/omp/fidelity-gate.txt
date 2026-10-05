@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is largely faithful, but three spans add or lose source-specific meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 71",
+      "current": "For reasons the rest of us haven’t been told.",
+      "defect": "The Korean says there are various respects in which other people do not know the truth; this wording implies the reasons were deliberately withheld.",
+      "replacement": "In all sorts of ways the rest of us don’t know about.",
+      "rationale": "“알려지지 않은” means “not known” or “unknown,” not necessarily “not told.”",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 93",
+      "current": "the anger that had briefly settled in me surged back up.",
+      "defect": "The translation specifies anger, while the Korean only says that the speaker’s feelings or state of mind, which had briefly settled, began to churn again.",
+      "replacement": "my heart, which had briefly settled, began to churn again.",
+      "rationale": "The source uses “마음” without naming anger; the surrounding distress does not establish that anger is the specific feeling.",
+      "confidence": 0.83
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 177",
+      "current": "Settle down.",
+      "defect": "This removes the source’s irreverent image of ordering the weapon to stay squashed or bent out of shape, which the accepted baseline retained.",
+      "replacement": "Stay bent out of shape.",
+      "rationale": "“찌그러져 있어라” is a blunt, figurative command, not simply a request to calm down.",
+      "confidence": 0.88
+    }
+  ]
+}

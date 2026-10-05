@@ -12,7 +12,7 @@ A deafening blast. A tremendous shock wave shoved my whole body backward.
 
 “Hngh!”
 
-Crack. I swallowed a breath and dug my feet in. The ground flipped up beneath them.
+Crack. I swallowed a breath and dug my feet in. The ground tore up around them.
 
 The gale whipped up by the impact sent pond water surging high into the air and swept through the rare flowers and plants covering the grounds.
 
@@ -24,7 +24,7 @@ Countless petals swirling on the wind really were a spectacular sight.
 
 But even the most carefree, clueless person would have groaned instead if they’d seen what had caused it.
 
-Just like I was doing now.
+Just like I did.
 
 “This is…”
 
@@ -34,7 +34,7 @@ Amid the rain of pond water and petals, it stood embedded deep in the ground, ra
 
 “A crescent blade?”
 
-The words slipped out before I could stop them. Then a low, resonant voice pierced my ear.
+The words slipped out before I could stop them. Then a low voice reached my ear.
 
 “Calling it just a crescent blade is a bit of an insult.”
 
@@ -52,7 +52,7 @@ I calmly addressed the man people called the Blood Envoy in fear.
 
 “Surprised by what?”
 
-“Nothing. It just seems like if it’s your trusted weapon, Blood Dragon would suit it better than Golden Dragon.”
+“If it’s your trusted weapon, I’d have thought Blood Dragon suited it better.”
 
 Baek Yeon had been approaching without hesitation, but at my pointed question, he stopped.
 
@@ -62,9 +62,9 @@ Baek Yeon had been approaching without hesitation, but at my pointed question, h
 
 “It’s Golden Dragon, not Goldie. And it was necessary.”
 
-“Sure. I’m sure it was necessary.”
+“Sure. I’m sure it was.”
 
-I glanced between So Gyo and Baek Yeon, speaking sarcastically.
+I glanced between So Gyo and Baek Yeon.
 
 “For reasons the rest of us haven’t been told.”
 
@@ -100,7 +100,7 @@ Baek Yeon stroked his chin beard.
 
 “Because you’ll try to cut her and me down with it.”
 
-“Then you shouldn’t have thrown it over.”
+“Then you shouldn’t have thrown it.”
 
 “I was in a hurry. What else could I do?”
 
@@ -108,13 +108,11 @@ Baek Yeon shrugged.
 
 “It has a deeper meaning to me, too. The late Emperor personally bestowed it on me the day I was appointed Commander of the Embroidered Uniform Guard.”
 
-“Then all the more reason I don’t care. The late Emperor would rather I used it anyway. If I said I was going to beat the traitorous bastards with it, he’d jump out of that pond and throw me Silverie, too.”
+“Then that’s even less of a problem. The late Emperor would rather I used it anyway. If I said I was going to beat some traitorous bastards with it, he’d jump out of that pond and throw me Silverie, too.”
 
 “……!”
 
 “And this isn’t an offer. I’m telling you.”
-
-At that moment, I saw it.
 
 I saw Baek Yeon’s thick eyebrows twitch, if only for a moment.
 
@@ -140,9 +138,9 @@ Even with the recovery I got from Level Ups, I’d ended up like this. What woul
 
 *It really would be my last move.*
 
-The problem was, even if I burned my life away to use it, I might not take a single person with me. It could turn into a suicide mission that got me killed after missing my target.
+The problem was, I could burn through my life to use it and still fail to take a single person to the afterlife with me.
 
-*That’s a little too far over the line.*
+*That’s a bit much.*
 
 I had no interest in becoming some dumbass who missed, exhausted himself, and died—or an SSS-rank suicide Hunter.
 
@@ -152,7 +150,7 @@ They had their own plans, and so did the anti-Emperor faction led by Ma Sanbao. 
 
 No—the truth was, I didn’t have the luxury of thinking about their plans with those two monsters in front of me.
 
-*Since we’re here, I’ll pull every damn stunt I can.*
+*Since it’s come to this, I’ll cause every bit of trouble I can.*
 
 Luckily, I had allies inside the imperial palace.
 
@@ -188,7 +186,7 @@ Just as the flames of Flamefire Path were about to burst from my feet, So Gyo sp
 
 “……!”
 
-Just five words, but they were enough to stop me in my tracks.
+Those few words were enough to stop me in my tracks.
 
 In all the confusion, I’d overlooked one thing.
 
@@ -198,9 +196,9 @@ They still had that child.
 
 As long as Prince Shangshan was in Qianqing Palace, the Emperor held his life in his hands.
 
-Qianqing Palace was a demon-slaying battleground. Just from what I’d seen with my own eyes, there were no fewer than four Supreme Peak masters there, including the Emperor.
+Qianqing Palace was a den of demons. I’d seen no fewer than four Supreme Peak masters stationed there with my own eyes, including the Emperor.
 
-It wouldn’t matter if it were me or the Fire King. Even if the Martial God himself returned, he couldn’t do anything about the blade at the young prince’s throat.
+It wouldn’t matter if it were me or the Fire King. Even if the Martial God himself returned, he couldn’t do anything about a blade already at the young prince’s throat.
 
 “Choose which path to take. And think about what awaits you at the end of it.”
 
@@ -208,9 +206,9 @@ Her tone was calm. The air around us was cold, and I had to force my voice throu
 
 “What the hell are you trying to get out of this?”
 
-“You don’t need to know. What matters is that you’ll survive here today.”
+“You don’t need to know. What matters is that you’ve survived this encounter today.”
 
-*Survive? Me?*
+*Survived? Me?*
 
 The lackeys of Dark Heaven would just let me go, now that they had leverage over me?
 
@@ -232,11 +230,11 @@ I’d heard something like that only a few months ago.
 
 From none other than the Southern Heaven Demon Empress.
 
-That was why I couldn’t help seeing the Southern Heaven Demon Empress as she’d been then, overlaid with the So Gyo standing before me now.
+I couldn’t help seeing her as she’d been then, overlaid with the So Gyo standing before me now.
 
-*The Southern Heaven Demon Empress had held back from killing me as much as she could, even right up until she was about to turn into a monster. Just like So Gyo is now.*
+*The Southern Heaven Demon Empress had avoided using a killing move against me as much as she could, even right up until she was about to turn into a monster. Just like So Gyo is now.*
 
-If so, the meaning could only be one thing.
+If so, it could mean only one thing.
 
 Just like the Southern Heaven Demon Empress, So Gyo—or rather, the Lord of Heaven—still wanted me.
 
@@ -292,7 +290,7 @@ Baek Yeon recovered his weapon from where it had buried itself deep in the groun
 
 “You have quite a dramatic way of returning it.”
 
-If this had happened just fifteen minutes ago, I’d have fired back with a sarcastic quip. But not now.
+Fifteen minutes ago, I’d have fired back with a sarcastic quip. But not now.
 
 I gritted my teeth and spoke to the two of them.
 
@@ -300,7 +298,7 @@ I gritted my teeth and spoke to the two of them.
 
 “Rest assured. Nothing like what you’re worried about will happen.”
 
-I had no way of knowing whether that answer was true or false.
+I had no way of knowing whether he meant it.
 
 All I could do was look for another way.
 
@@ -314,7 +312,7 @@ That celebration would become the battlefield where our fates were decided.
 
 *The Hongmen Banquet. So who’s Xiang Yu, and who’s Liu Bang?*
 
-I turned and walked away without hesitation. Before I’d completely disappeared from their sight, with my back to them, So Gyo’s voice suddenly reached me.
+I turned and walked away without hesitation. Before I’d disappeared from their sight, So Gyo’s voice reached me from behind.
 
 “Why did you give up fighting, Blazing Flame Divine Dragon Jin Taekyung? Do you want Prince Shangshan to become Emperor, too?”
 
