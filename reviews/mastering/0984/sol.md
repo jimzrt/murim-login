@@ -36,7 +36,7 @@ The Beggars’ Sect, the Lower District Sect, Huashan, and the Hebei Peng Family
 
 and the Murim Alliance, the heart of the martial world—
 
-all officially confirmed that every word of it was true, without the slightest falsehood.
+all officially confirmed that every word of it was true.
 
 Even the giant beyond the martial world—who existed, yet might as well not have—confirmed it.
 
@@ -208,7 +208,7 @@ First, to the Son of Heaven, who watched over all things from the distant Imperi
 
 Second, to the countless heroic souls who would shed their blood and fall to protect this world.
 
-And lastly, to the new marquis who stood at the heart of the martial world by virtue of the solemn imperial decree.
+And lastly, to the new marquis who stood at the heart of the martial world by imperial decree.
 
 The old scholar continued to bow.
 
@@ -226,7 +226,7 @@ Today, though, I followed the customs of the Double Ninth Festival too.
 
 I held more bright yellow chrysanthemums than my arms could contain, and awkwardly wore a pouch of cornelian berries at my side.
 
-It was a way to honor those who had passed before they could celebrate the Double Ninth Festival themselves.[^1]
+It was only right to honor those who had passed before they could see the Double Ninth Festival.[^1]
 
 And we had to keep moving forward, leaving their sacrifice behind us.
 
@@ -248,13 +248,13 @@ It was beautiful and, at the same time, unbearably sad.
 
 I wasn’t the only one who felt it. Tens of thousands of people filled the Eight Spring Gorge, and I knew they felt it too.
 
-Watching the yellow petals fall, I found myself wondering: Even now, as they drifted farther and farther away with the wind, were they only petals? Or were they the souls of those who had willingly thrown away their lives to protect what they cherished?
+Watching the yellow petals fall, I found myself wondering. As they drifted farther and farther away with the wind, were they petals? Or were they the souls of those who had willingly given their lives to protect what they cherished?
 
 There was no single right answer.
 
 There was no need to find one.
 
-We could believe whatever we wanted to believe. Whenever this day came around, we would return here and remember them.
+We could believe what we wanted to believe. We could return to this place someday and remember them.
 
 Each in our own way.
 
@@ -268,7 +268,7 @@ Drip. Drip, drip.
 
 Senses far beyond human limits sometimes told me things I didn’t want to know.
 
-Like the tears wetting the leather shoes of a man whose head was bowed and whose body was trembling slightly.
+Like the tears wetting the leather shoes of a man who stood with his head bowed, his body trembling slightly.
 
 No. Raindrops.
 
@@ -276,7 +276,7 @@ No. Raindrops.
 
 I quietly looked up at the sky.
 
-I couldn’t bring myself to look at Jin Wikyung like that, or at Lee Seowol silently mourning the death of her uncle, who had been her strongest support, or at the countless others in tears.
+I couldn’t bring myself to look at Jin Wikyung like that, or at Lee Seowol silently weeping for the uncle who had been her strongest support, or at the countless others.
 
 *Whoosh.*
 

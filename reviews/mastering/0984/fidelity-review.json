@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Lee Seowol silently mourning the death of her uncle, who had been her strongest support",
+      "defect": "The source explicitly says Lee Seowol is shedding tears. “Mourning” conveys her grief but omits that physical detail.",
+      "id": "F01",
+      "rationale": "The Korean describes Lee Seowol as silently crying over her uncle’s death; the current wording does not establish that she is crying.",
+      "replacement": "Lee Seowol silently shedding tears over the death of her uncle, who had been her strongest support",
+      "severity": "minor",
+      "source": "Korean line 291"
+    },
+    {
+      "confidence": 0.91,
+      "current": "The rain of flowers rose high, then fell around everyone as if to comfort them.",
+      "defect": "The source describes the falling flowers enveloping everyone, an image weakened to merely falling around them.",
+      "id": "F02",
+      "rationale": "감싸며 means the flowers fall while wrapping around or enveloping everyone; the current wording loses that embracing image.",
+      "replacement": "The rain of flowers rose high, then fell, enveloping everyone as if to comfort them.",
+      "severity": "minor",
+      "source": "Korean line 297"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with two minor losses of source detail.",
+  "version": 1
+}
