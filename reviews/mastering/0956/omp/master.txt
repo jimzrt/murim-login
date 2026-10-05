@@ -14,7 +14,7 @@ Eight Spring Gorge was the most important strategic passage in Shanxi.
 
 It offered the quickest route through the rugged northern mountains and was the last gateway to the plains of central Shanxi.
 
-If they took this place, positioned on the border between north and central Shanxi, nothing would remain to stop tens of thousands of cavalry charging side by side, shaking the earth beneath their hooves.
+If the invaders took it, nothing would stand between the north and central Shanxi to stop tens of thousands of horsemen charging shoulder to shoulder, shaking the earth beneath their hooves.
 
 And even if something did stand in their way, they could simply trample it.
 
@@ -28,7 +28,7 @@ That was precisely why the defenders had to stop the invaders before them, whate
 
 “Raaaaaah!”
 
-Screams of defiance pierced the darkness and echoed through the gorge.
+Shouts that sounded almost like screams pierced the darkness and shook the gorge.
 
 Amid the dense rain of arrows the two armies loosed at each other, a single streak of light moved with graceful ease, seemingly untouched by the chaos around it.
 
@@ -52,7 +52,7 @@ Eternal darkness. Light would never reach them again.
 
 *Fwoosh!*
 
-Fountains of blood surged into the air. The things that had once been people and horses were severed into pieces and flung in every direction.
+Fountains of blood surged into the air. What had once been men and horses flew apart in pieces.
 
 They hurtled onward with all the speed of their charge—
 
@@ -68,7 +68,7 @@ More precisely, he looked at their impossibly clean cut surfaces—and the sword
 
 *It really is sharp. Unbelievably so.*
 
-Admiration flickered in Jin Mukyung’s eyes as he gazed at the blade, which radiated a cold, keen aura even in the dark.
+Admiration flickered in Jin Mukyung’s eyes as he gazed at the blade, which gave off a cold, keen edge even in the dark.
 
 Only two days earlier, he had seen what the new sword could do in battle against a thousand enemies. Yet it still astonished him.
 
@@ -78,9 +78,9 @@ He was a swordsman with an appetite for fine blades, after all.
 
 To a martial artist, a cherished weapon was his closest friend and family.
 
-But just before Jin Mukyung’s first campaign, as he was polishing his beloved sword, a sturdy old man came to see him. He dropped a long bundle of cloth in front of him and said:
+But before Jin Mukyung’s first sortie, while he was tending to the sword he loved, a sturdy old man had come to see him. He set down a long cloth bundle and said:
 
-*“Get rid of that one. Use this from today on. I forged it for you well in advance, Second Young Master.”*
+*“Get rid of that one. Use this from today on. I forged it for you some time ago, Second Young Master.”*
 
 At first, Mukyung had thought the old man was out of his mind.
 
@@ -92,15 +92,15 @@ The mad old man before him was an extraordinary artisan, unlike any he had ever 
 
 One with more than enough skill to forge a divine weapon.
 
-*“You’ve got a good eye, judging by your face. That’s a relief. You look worthy of being its owner, at least.”*
+*“Judging by your face, you know what you’re looking at. Good. You seem fit to own it, at least.”*
 
 *“What on earth is this…?”*
 
 *“Can’t you tell? One of the finest things this old man has ever made. I worked myself to the bone on it in my old age. I forged it from something that can rival Ten-Thousand-Year Cold Iron, so take good care of it.”*
 
-The old man had left without hesitation after saying that. Jin Mukyung remained absorbed in his new sword for a long while, until one of the family retainers finally told him who the old man was.
+With that, the old man had left without a moment’s hesitation. Jin Mukyung remained absorbed in his new sword until a family retainer finally told him who its maker was.
 
-*“Come to think of it, Second Young Master might not know. The Ironcraft Hall was newly established in our family while you were in secluded training.”*
+*“Come to think of it, Second Young Master, you might not know. The Ironcraft Hall was established here while you were in secluded training.”*
 
 *“The Ironcraft Hall? Then that old man was…”*
 
@@ -114,15 +114,15 @@ It was home to some of the finest artisans in the world.
 
 They had the skill and pride to refuse to sell a weapon to anyone they deemed unworthy, even for a fortune in gold.
 
-The retainer didn’t know why Jang Taebo, who had reigned as the guild’s greatest artisan for decades, was now at the Jin Family of Taiyuan. But there was one thing he knew for certain.
+The retainer did not know why Jang Taebo, who had reigned as the guild’s greatest artisan for decades, was now with the Jin Family of Taiyuan. But there was one thing he did know.
 
-*“I believe he formed a connection with the Third Young Master. So, around the time you entered secluded training, he reversed his retirement and joined our family.”*
+*“I understand he formed a connection with the Third Young Master. Around the time you entered secluded training, he came out of retirement and joined our family.”*
 
 *“Taekyung? That guy?”*
 
-*“Yes. And somehow, Hall Master Jang brought a great many artisans who’d belonged to the Ironcraft Guild along with him. It was probably because of his old ties to them.”*
+*“Yes. And somehow, Hall Master Jang brought a great many artisans from the Ironcraft Guild with him. Perhaps because of his old ties to them.”*
 
-But there was something neither the retainer who’d given him that information nor Jin Mukyung, fresh out of secluded training, knew.
+But there was something neither the retainer nor Jin Mukyung, fresh out of secluded training, knew.
 
 The artisans who had dropped everything and rushed to the Jin Family of Taiyuan had not done it out of loyalty.
 
@@ -132,7 +132,7 @@ The Water God Dragon.
 
 The imugi had never obtained a dragon pearl and so had failed to become a dragon. In the end, Dark Heaven had corrupted it. But with a young man’s help, it had found eternal rest, leaving its sacred body behind.
 
-An ingredient for working metal so rare that even a meteorite fallen from the heavens or Ten-Thousand-Year Cold Iron might pale in comparison—something no famous artisan could resist.
+It was material for crafting weapons so rare that it might surpass even meteorite iron fallen from the heavens or Ten-Thousand-Year Cold Iron. No renowned artisan could have resisted it.
 
 And, naturally, a considerable portion had secretly made its way to the Jin Family of Taiyuan.
 
@@ -140,13 +140,13 @@ Its flesh and blood, steeped in spiritual power over hundreds of years, had beco
 
 Before long, parts of the Water God Dragon had found their way throughout the Jin Family of Taiyuan.
 
-Just as they were at this very moment.
+Just as they had at this very moment.
 
 *Whoosh!*
 
 No matter how fine the net, it could not catch every minnow.
 
-With their path blocked by Jin Mukyung alone, the steppe nomads had faltered at the sight of their comrades’ gruesome deaths. The arrows they loosed to keep the Jin forces at bay slipped between the government troops’ shields and struck a martial artist of the Jin Family of Taiyuan in the chest.
+The nomads’ advance had been stopped by Jin Mukyung alone. As they faltered at the sight of their comrades’ gruesome deaths, they loosed arrows to keep the defenders at bay. One slipped between the government troops’ shields and struck a Jin Family martial artist in the chest.
 
 Or so it seemed for a moment.
 
@@ -174,7 +174,7 @@ The nomads, who had been ready to trample the weak Han Chinese, could only look 
 
 Their bows could pierce most leather armor with ease. Now they were useless.
 
-It was only natural for unease to spread at the thought that one of the grasslands’ greatest weapons had been taken away from them.
+Unease spread through their ranks at the thought of losing one of the grasslands’ most powerful weapons.
 
 But they soon learned that even a moment spent worrying was a luxury they could not afford.
 
@@ -198,7 +198,7 @@ The cry, almost a scream, was swallowed before it could finish.
 
 Sparks sprang from arrowheads striking the rock walls.
 
-In the slowed world, through that brief, hazy light born of friction, they could see countless men and horses collapsing, spattering blood.
+In a world that seemed to slow, those fleeting, hazy flashes lit up men and horses falling all around, spraying blood.
 
 *Whoosh—thud-thud-thud!*
 
@@ -236,7 +236,7 @@ He already knew that the shield that had saved his life could not stop the enorm
 
 *Rrrrrumble!*
 
-Black spheres poured down the rock face out of the darkness, shaking the earth as they came.
+Black spheres came pouring down the rock face, shaking the earth as they fell.
 
 The steel rain had scarcely stopped when the avalanche of rocks arrived. The hundred-man commander looked up at a sky where even moonlight could not reach him.
 
@@ -266,7 +266,7 @@ A mere half an hour.
 
 That was all it had taken for more than five hundred troops to vanish.
 
-And they hadn’t even had a proper chance to begin fighting.
+They had barely begun to fight.
 
 Their enemies were proving more capable than expected.
 
@@ -290,7 +290,7 @@ How many years had he spent in a ger reeking of horse manure? Now, catching the 
 
 *—You haven’t answered me.*
 
-*—I’ll give it to you now. No.*
+*—I will now. No.*
 
 *—What a shame.*
 
@@ -300,7 +300,7 @@ Chinggen frowned, but Jamukha continued.
 
 *—You mean…*
 
-*—Take the cliffs. They’re being a nuisance, so we should deal with them before any more time passes.*
+*—Take the cliffs. They’ve been enough of a nuisance. Deal with them before they cause more trouble.*
 
 *—An excellent choice.*
 

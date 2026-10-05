@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "even a meteorite fallen from the heavens or Ten-Thousand-Year Cold Iron might pale in comparison",
+      "defect": "The source names 운철, which the glossary renders as “meteorite iron.” Calling it a meteorite changes the comparison from a material to the object it came from.",
+      "id": "F01",
+      "rationale": "The Korean compares the rare material with 운철 and 만년한철; the glossary specifies 운철 as “meteorite iron.”",
+      "replacement": "even meteorite iron or Ten-Thousand-Year Cold Iron might pale in comparison",
+      "severity": "minor",
+      "source": "Lines 153–154"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with one terminology and material-identity issue in the comparison of rare forging materials.",
+  "version": 1
+}
