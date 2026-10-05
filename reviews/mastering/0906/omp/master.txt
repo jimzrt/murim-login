@@ -6,13 +6,13 @@ A melee?
 
 A bloodbath?
 
-Maybe both. Everywhere I stepped, I was trampling the corpse of someone I didn’t know, while enemy spears, swords, and arrowheads came hurtling in without pause, from the ground and the sky alike.
+Maybe both. Everywhere I stepped, I trod on the corpse of someone I didn’t know. Enemy spears, swords, and arrows kept coming at me from the ground and the sky.
 
 Even now.
 
 “Look out!”
 
-One of the Embroidered Uniform Guards heard my shout and jolted, twisting at the waist.
+One of the Embroidered Uniform Guards heard my shout and jerked around, twisting at the waist.
 
 *Fffft!*
 
@@ -22,9 +22,9 @@ The traitor who’d tried to ambush him amid the chaos missed by a hair. Without
 
 *Whoooosh! Thud!*
 
-There wasn’t even the usual dying cry.
+There wasn’t even a dying cry.
 
-The blade shot out like a flash of light, piercing its target and then skewering a couple of nearby enemies like meat on a spit. The Embroidered Uniform Guard, who’d barely escaped with his life, gave me a slight nod.
+The blade shot out like a flash of light, pierced its target, and went on to skewer a couple of nearby enemies like meat on a spit. The guard, who’d barely escaped with his life, gave me a slight nod.
 
 “Thank y—”
 
@@ -36,7 +36,7 @@ An arrow pierced his throat, straight through his Adam’s apple.
 
 He collapsed with blood gurgling in his throat. Enemies trampled his body as they rushed in, swinging their weapons at anyone in reach.
 
-All accompanied by a calm voice that had no place in a situation like this—which made it all the more chilling.
+They spoke in calm voices that had no place in a scene like this—which made them all the more chilling.
 
 “Heaven above, earth below.”
 
@@ -46,7 +46,7 @@ Why did they remind me of the deranged fanatics I’d fought right before coming
 
 “Fucking lunatics…”
 
-Short cries of dismay rang out here and there. The Embroidered Uniform Guards had continued fighting calmly despite the sudden betrayal of their allies, as if to prove the weight of the golden armor they wore. But even they looked afraid as they watched the traitors, who had become entirely different people.
+Cries of dismay rose here and there. The Embroidered Uniform Guards had kept fighting calmly despite their allies’ sudden betrayal, as if to prove themselves worthy of the golden armor they wore. But even they looked afraid as they watched the traitors, who had become entirely different people.
 
 Or maybe they feared the martial prowess of someone they couldn’t hope to face.
 
@@ -54,7 +54,7 @@ Or maybe they feared the martial prowess of someone they couldn’t hope to face
 
 A leather shoe sank into a pool of blood as its owner stepped forward.
 
-One of the Embroidered Uniform Guards had backed away without realizing it. A groan slipped through his lips.
+One of the guards backed away without realizing it. A name escaped his lips like a groan.
 
 “Ma Sanbao…”
 
@@ -66,11 +66,11 @@ Its second-in-command and de facto leader.
 
 Or rather, that was the identity he’d used to deceive the world. Now he moved toward me.
 
-So fast that “approaching” hardly did it justice—he moved like a flash of light.
+“Moved” was the only word for it. He came like a flash of light.
 
 *Whoosh! BOOM!*
 
-His blows rained down like lightning from above. Every time I blocked one, my hands went numb.
+Blows rained down on me like lightning. Every time I blocked one, my hands went numb.
 
 My breathing had grown rougher than before, throwing off movements that should have flowed like water.
 
@@ -88,7 +88,7 @@ Hot blood ran from the cut. I retreated through the burning pain, and a low laug
 
 “What happened to all that momentum you had at the start, hmm?”
 
-Instead of answering, I turned my head. A dagger sprang from Ma Sanbao’s voluminous sleeve and pierced the empty space beside me like a streak of light.
+Instead of answering, I turned my head. A dagger sprang from Ma Sanbao’s billowing sleeve and shot through the space beside me like a streak of light.
 
 *Thwack!*
 
@@ -98,7 +98,7 @@ Ma Sanbao went on as if nothing had happened.
 
 “That’s a shame. If you hadn’t dodged, that young Embroidered Uniform Guard would still be breathing.”
 
-I looked at Ma Sanbao, who was taunting me, and wondered:
+I looked at his sneering face and wondered.
 
 If I hadn’t dodged, would the guard have survived?
 
@@ -120,7 +120,7 @@ It was Ma Sanbao.
 
 “Do you still not understand why they’re standing by and doing nothing?”
 
-He let out a derisive laugh and continued.
+He laughed under his breath.
 
 “Blazing Flame Divine Dragon Jin Taekyung. The Emperor used you too, in the end. Just as we tried to use you and the Fire King to get rid of So Gyo.”
 
@@ -134,7 +134,7 @@ But no matter how badly I wanted to deny it, I couldn’t speak.
 
 It was all too plausible.
 
-If the Emperor was anything like the man I’d experienced firsthand…
+Knowing what the Emperor was like from my own experience…
 
 And with So Gyo’s identity still a complete mystery…
 
@@ -154,7 +154,7 @@ A clash far too loud to have come from two weapons meeting sent me sliding back.
 
 Ma Sanbao kept swinging the flexible sword, giving me no pause. His voice came from beyond it.
 
-“The Great Nation, the Emperor—it’s always been like this. To the rulers who hold this vast land, people like you and me, people of Murim, aren’t subjects to govern.”
+“The Great Nation, the Emperor—they’ve always been like this. To the rulers of this vast land, martial artists like you and me aren’t subjects to govern.”
 
 *Whoosh-whoosh! Slice!*
 
@@ -166,13 +166,13 @@ The pressure behind his sword cut through my skin. Thin sprays of blood scattere
 
 A realization flashed through my mind, and my eyes widened.
 
-Even though there was considerable distance between us, I suddenly thought of someone fighting a thunderous battle alongside Jeok Cheongang far away.
+Far away, someone was fighting Jeok Cheongang in a battle whose thunder reached us even from this distance.
 
 *Could it be?*
 
 No. There was no *could* about it.
 
-Ma Sanbao had said it himself. This wasn’t a guess. It was a certainty.
+Ma Sanbao had said it himself. This wasn’t a guess anymore.
 
 *Krrrrang!*
 
@@ -180,7 +180,7 @@ Their different Forces collided, spitting sparks.
 
 My spear had once been a single weapon. Ma Sanbao’s fierce assault had broken it into two short spears. I crossed them to block his flexible sword and felt a chill coming off the blade, stopped inches from my face.
 
-“Cang Gong. Were you his disciple?”
+“Cang Gong. You’re his disciple?”
 
 “Cang Gong? How dare you call him a servant of that sinister, weak Emperor?”
 
@@ -204,7 +204,7 @@ It slipped over the spear shaft blocking its way like a living snake and flashed
 
 The flexible sword veered away from my chest.
 
-But I’d only survived a dangerous moment. The attack wasn’t over.
+But I’d only survived that one strike. The attack wasn’t over.
 
 *Wham!*
 
@@ -218,7 +218,7 @@ A fist struck my exposed chest. I staggered back more than ten steps, giving Ma 
 
 One step.
 
-At the same time, Ma Sanbao’s figure vanished like an illusion.
+Ma Sanbao vanished like an illusion.
 
 But even with my battered body and dulled senses, I reacted in time.
 
@@ -230,7 +230,7 @@ Broken in two, the spear had lost the advantage of its long reach. But the short
 
 *Whoooosh!*
 
-A single fierce whistle ripped through the air.
+A fierce whistle ripped through the air.
 
 Then came a tremendous impact.
 
@@ -248,13 +248,13 @@ The flexible sword had knocked my short spear aside. Now it came through the dus
 
 Ma Sanbao’s taunting Sound Transmission reached me with it.
 
-—Don’t worry. I’ll only cut you enough to leave you barely alive.
+*Don’t worry. I’ll cut you just enough to keep you alive.*
 
 That was his mistake.
 
 The world slowed. I could see every one of the dozens of sword-images raining down through the air.
 
-*Cut me? And only enough to leave me alive?*
+*Cut me? Just enough to keep me alive?*
 
 What a joke.
 
@@ -280,7 +280,7 @@ The spear tip pierced a single precise point. Dozens of sword-images vanished as
 
 *BOOM!*
 
-The impact sent the figure flying, unable to withstand the force of the collision.
+The collision sent someone flying.
 
 Not me.
 
@@ -306,7 +306,7 @@ Facing that force, which seemed capable of freezing everything it touched, I dre
 
 Wet firewood caught flame.
 
-I poured the Scorching Yang Qi that surged like fire through my acupoints, as unstable as twisted railway tracks, into my hand and grabbed the blade just as it began to pierce my side.
+Scorching Yang Qi surged through my acupoints, unstable as twisted railway tracks. I poured it into my hands and grabbed the blade as it drove toward my side.
 
 *Krrk, KRAAAASH!*
 
@@ -316,7 +316,7 @@ Agony shot through both hands.
 
 This wasn’t Empty-Hand Seizes the Blade, catching a weapon between bare fingers with precise timing and speed.
 
-This was just a brute-force grab.
+I’d simply grabbed it.
 
 “You crazy—!”
 
@@ -332,13 +332,13 @@ But…
 
 If my other stats were blue-chip stocks, Muscles and Bones were a savings account I’d kept adding to with every level and every training session.
 
-So what about now, more than a year after I’d gotten the System?
+And now, more than a year after I’d gotten the System?
 
 *What level am I again?*
 
 I smiled.
 
-I endured the horrible pain as my palm turned into a shredded mess, and looked into Ma Sanbao’s eyes, bulging as if they were about to burst.
+My palms were turning into shredded messes, but I endured the pain and looked into Ma Sanbao’s bulging eyes.
 
 Then I gave his words back to him, changing just a few.
 
@@ -352,6 +352,6 @@ Ma Sanbao tried to shout, but no sound came out.
 
 The short spear in my hand pierced his throat just as his lips began to part.
 
-“Ghk. Kgh.”
+*Ghk. Kgh.*
 
 Blood gurgled in his throat. The light faded from his eyes as he stared at me.
