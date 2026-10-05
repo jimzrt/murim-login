@@ -40,8 +40,6 @@ The moment he steeled his resolve again, a quiet voice sounded behind him.
 
 The Emperor stopped as if his feet had been nailed to the ground.
 
-The Divine Physician’s voice continued in his ear.
-
 “A fleeting hope must frighten you. Nothing is more painful than false hope.”
 
 After a brief silence, the Emperor slowly turned. The Divine Physician was still smiling at him.
@@ -68,7 +66,7 @@ The Divine Physician’s smile faded.
 
 “He carried his feverish wife and two children on his back in a wooden carrying frame. For three days and nights, he climbed the mountain without sleep, looking for a skilled physician said to be staying in a nearby slash-and-burn farming village.”
 
-The Emperor pictured the carpenter, drenched in sweat as he climbed the mountain, and muttered,
+The Emperor pictured the carpenter climbing, drenched in sweat.
 
 “That must have been hard. Very hard.”
 
@@ -106,7 +104,7 @@ Light returned to his eyes, and hope crept into his voice.
 
 The Divine Physician bowed deeply.
 
-“Yes. With the help of Heaven—or rather, Young Master Jin—I was able to find the one and only path to survival.”
+“Yes. With Heaven’s help—no, with Young Master Jin’s help—I found the one path by which Your Majesty might survive.”
 
 “……!”
 
@@ -118,7 +116,7 @@ The unexpected name made the Emperor close his eyes. In the darkness, he picture
 
 He had not resented Jin Taekyung for leaving. Even when he’d watched him walk away without a word about their promise, he’d felt only gratitude for all Jin Taekyung had done for the imperial house.
 
-He’d believed that was his duty—as ruler of this nation, as an older brother, and as a human being.
+He had believed that was what he owed him—as ruler of this nation, as an older brother, and as a human being.
 
 But Jin Taekyung had kept his promise after all. He had given the finest physician beneath Heaven a hope brighter than ever before and sent him back.
 
@@ -126,7 +124,7 @@ But Jin Taekyung had kept his promise after all. He had given the finest physici
 
 It didn’t matter. Whatever Jin Taekyung wanted, the Emperor would gladly give him.
 
-With a quiet chuckle, the Emperor opened his eyes and slowly spoke.
+He opened his eyes with a quiet chuckle.
 
 “Tell Us. What must We do to live?”
 
@@ -148,9 +146,9 @@ It happened all the time. He was the Emperor, ruler of all beneath Heaven. If an
 
 The Divine Physician had been silently working his lips for some time. At the Emperor’s gentle reassurance, he finally spoke.
 
-“Are those words truly sincere? Without the slightest falsehood?”
+“Do you mean that, Your Majesty? Without the slightest falsehood?”
 
-“Of course. From this moment on, We are a patient in need of your treatment before We are the Son of Heaven. We’ll trust you and follow your instructions, whatever they may be.”
+“Of course. From this moment on, We are a patient in need of your treatment before We are the Son of Heaven. Whatever you ask, We’ll trust you and do it.”
 
 “Very well. Since Your Majesty has said as much, I’ll speak frankly.”
 
@@ -194,7 +192,7 @@ Maoshan Sect.
 
 White Illusion Jiangshi Art.
 
-It was the ancient root of a sect belonging to someone who no longer existed in this world, and who had treasured it dearly.
+They held the old roots of a sect, treasured by someone no longer in this world.
 
 * * *
 
@@ -246,7 +244,7 @@ Jeong Hogun trailed off. He glanced at the thousand Embroidered Uniform Guards r
 
 His expression and tone were as impassive as ever, but I could hear the concern beneath them.
 
-No, I couldn’t miss it, either.
+I knew the problem as well as he did.
 
 *Reaching Shanxi Province won’t mean it’s over.*
 
@@ -266,7 +264,7 @@ Jeong Hogun cut off a branch hanging over the road, spat out a leaf that had lan
 
 “I understand how you feel, but I doubt you called me over just to say that.”
 
-His tone was so cold it made me dislike him on the spot. I felt my overheated thoughts cool down.
+The chill in his voice was enough to put anyone off. It cooled my overheated head, too.
 
 “Shit. This sucks.”
 
@@ -284,7 +282,7 @@ His tone was so cold it made me dislike him on the spot. I felt my overheated th
 
 At my firm reply, Jeong Hogun pressed his lips together.
 
-The eyes visible through his helmet looked a little sad. That had to be my imagination.
+The eyes visible beneath his helmet looked a little sad. Had to be my imagination.
 
 *Anyway, if that’s how it is…*
 
