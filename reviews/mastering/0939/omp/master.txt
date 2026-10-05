@@ -4,7 +4,7 @@
 
 Jeok Cheongang recognized the familiar face hurrying toward them through the darkness and drew in the aura surging through his body.
 
-Was it because the unexpected, unwelcome visitor was Hyuk Mujin?
+Was it because the unexpected visitor was Hyuk Mujin?
 
 No. Something about Mujin’s appearance was wrong.
 
@@ -22,13 +22,13 @@ Hoping his sudden sense of foreboding was mistaken, Jeok Cheongang called to Muj
 
 Mujin rushed over, then stopped short when he spotted the Bow Saint.
 
-“Th-this junior of Murim, Hyuk Mujin……”
+“Th-this humble junior, Hyuk Mujin……”
 
 The Bow Saint cut off his introduction with a small wave of her hand.
 
 “Save the formalities. Tell us why you’re here.”
 
-“It’s…… Captain. I mean, my lord ordered me to bring the two of you to him at once.”
+“Captain—my lord ordered me to bring the two of you to him at once.”
 
 “The two of us?”
 
@@ -36,7 +36,7 @@ The Bow Saint cut off his introduction with a small wave of her hand.
 
 The Bow Saint’s brow furrowed.
 
-But it wasn’t because a junior so far below her—Jin Taekyung, who was practically still a child—had dared to summon her as if he could order her around.
+It wasn’t because Jin Taekyung—a junior so far beneath her he was practically a child—had dared to summon her.
 
 “He said he’d explain everything in person. Everyone else is already gathered.”
 
@@ -56,7 +56,7 @@ The Bow Saint’s Sound Transmission reached his ear. Jeok Cheongang studied her
 
 He meant to continue the conversation another time. There were things he still hadn’t said and questions he hadn’t dared to ask. He had no intention of leaving it at this.
 
-—I hope our next conversation will be more meaningful than this one.
+—I hope our next conversation will be more meaningful.
 
 Despite his pointed words, the Bow Saint remained composed.
 
@@ -64,11 +64,11 @@ Despite his pointed words, the Bow Saint remained composed.
 
 —What do you mean by……
 
-Jeok Cheongang faltered at the many possible meanings in her answer. He was just about to continue when—
+Jeok Cheongang faltered at her answer. Just as he was about to press her—
 
 *Flap, flap.*
 
-The sound of powerful wings suddenly rang overhead.
+Powerful wings beat overhead.
 
 *Those are……*
 
@@ -82,13 +82,13 @@ Dozens of birds crossed the distant night sky. They flew in separate groups, eac
 
 Jeok Cheongang spoke almost in a groan. A weight settled in his chest.
 
-Sending out so many precious messenger eagles—not ordinary messenger pigeons—meant the Great Nation’s imperial court was on the move.
+Sending out that many precious messenger eagles, rather than ordinary messenger pigeons, meant the Great Nation’s imperial court had mobilized.
 
 Probably because of the news his Disciple had brought.
 
 *What could have happened?*
 
-There was no time left to hesitate.
+One thing, at least, was certain. They had no time to waste.
 
 “Lead the way. Hurry.”
 
@@ -106,19 +106,19 @@ His gaze darkened at the sight of several sheets of paper, still slick with oil.
 
 “A missive?”
 
-A veteran martial artist whose experience was second to none in the world, he had immediately recognized the papers. He took the stack from me and skimmed through it quickly.
+With all his years in the martial world, he recognized the papers at once. He took the stack and skimmed it.
 
 Before even a few moments had passed, he looked up, his face as hard as stone.
 
 “Is everything written here…… true?”
 
-If it had been half an hour ago, I might not even have heard Jeok Cheongang’s voice.
+Half an hour ago, I might not even have heard him. I’d been that stunned.
 
 But I’d since explained the situation to the Fire Dragon Pavilion members and passed the gist of it to Hong Jin and Qianqing Palace. I managed to answer calmly, though my answer was far from definite.
 
 “I don’t know.”
 
-“What do you mean!”
+“What do you mean?”
 
 “To be precise, none of it has been confirmed yet. But……”
 
@@ -206,7 +206,7 @@ The other man had deep eyes and a lean build. He clicked his tongue softly at th
 
 “You’re right, Chinggen. You always are.”
 
-Temur nodded at Chinggen, who looked displeased, then grinned, baring yellow teeth.
+Temur nodded at Chinggen’s displeased look, then grinned, baring yellow teeth.
 
 “But remember one thing. Alcohol is medicine in itself. It can never be poison.”
 
@@ -232,17 +232,17 @@ And all around him, the cheers poured in.
 
 “May you live to a ripe old age!”
 
-Khan.
+*Khan.*
 
 Ruler of the vast grasslands. King over tens of thousands of horses and warriors.
 
 How good it sounded.
 
-The two brothers, who had shared life and death together since childhood, had brought peace and prosperity to the endlessly turbulent grasslands—and at last earned the title of Khan.
+The title he had once only dreamed of was his now. The two brothers, who had shared life’s hardships and joys since childhood, had brought peace and prosperity to the endlessly turbulent grasslands. At last, they had earned the title of Khan.
 
-“Can you hear them? Hm? I said, are you listening?”
+“Can you hear them? Hm? I asked if you were listening.”
 
-Temur, who had been mingling with his warriors, filled Chinggen’s empty cup.
+Temur, still caught up in the warriors’ celebration, filled Chinggen’s empty cup.
 
 It was silver, imported from the Central Plains rather than carved from wood or animal bone. Its gleaming surface reflected both their faces: Temur’s broad grin and Chinggen’s unmistakable discomfort.
 
@@ -254,17 +254,17 @@ It was silver, imported from the Central Plains rather than carved from wood or 
 
 “Ah, that? I heard.”
 
-Temur chewed noisily on a piece of meat as he continued.
+Temur chewed a piece of meat as he went on.
 
 “But don’t worry so much. We may be Khans now, but the grasslands are vast. We can’t do anything about what happens beyond our reach.”
 
 Of course Temur knew. A few scouts had gone missing from time to time, and there had been several disturbances on the westernmost grasslands.
 
-Not enough to make him forget the indulgence of the moment.
+To him, though, it was nothing much. Certainly not enough to spoil the pleasure of this moment.
 
 “Come, my ever-worried brother. Let’s empty our cups first, then talk.”
 
-Temur laughed heartily and was about to offer Chinggen another drink when—
+Temur laughed heartily and offered Chinggen another drink.
 
 *Flap.*
 
