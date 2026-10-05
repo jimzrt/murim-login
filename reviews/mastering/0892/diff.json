@@ -1,0 +1,929 @@
+{
+  "baseline_blocks": 120,
+  "baseline_sha256": "75e6ed3c1633725bd6045a09a4446b8caad246ad1806f1c98decd2c8da8a8593",
+  "global_terminology_alerts": [],
+  "hunk_count": 49,
+  "hunks": [
+    {
+      "baseline": "“It’s hard to believe, but for our enemies, it is the fastest shortcut to taking control of the entire Great Nation.”",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "13",
+      "sol": "“It’s hard to believe, but for our enemies, that’s the fastest shortcut to taking control of the entire Great Nation.”",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Nothing was more decisive than an all-or-nothing match. Once a single battle with everything on the line was over, the winner would survive, and the loser would disappear.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "17",
+      "sol": "Nothing settled things quite like a character-deletion match. Once a single battle with everything on the line was over, the winner would survive and the loser would disappear.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It would be an enormous battle with the fate of the Great Nation at stake—and, without a doubt, a bloodbath that would paint the imperial capital red.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "25",
+      "sol": "It would be an enormous battle with the fate of the Great Nation at stake—and, without a doubt, a bloodbath that would paint the Imperial Capital red.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If we lose this battle, the restoration army will be wiped out in an instant, and Dark Heaven and the Emperor will take complete control of the Great Nation. But is that really all?*",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "27",
+      "sol": "*If we lose, the restoration army will be wiped out in an instant, and Dark Heaven and the Emperor will take complete control of the Great Nation. But is that really all?*",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Namho had said it earlier.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "29",
+      "sol": "",
+      "sol_paragraphs": "after P13",
+      "sol_range": [
+        13,
+        13
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Namho"
+        }
+      ]
+    },
+    {
+      "baseline": "That this was the fastest shortcut for the enemy.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "31",
+      "sol": "Namho had said it was the fastest shortcut for the enemy.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the shortcut wasn’t always the best choice. There was a reason people took the established road.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "33",
+      "sol": "But a shortcut wasn’t always the best choice. There was a reason people took the established road.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A shortcut, though, was narrow and complicated. The ground was uneven and unpaved, and sometimes you had to pass through shadowy alleys where danger—and foul smells—lurked.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "37",
+      "sol": "A shortcut, though, was narrow and winding. The ground was uneven and unpaved, and sometimes you had to pass through shadowy alleys where foul smells and danger lurked.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*And yet the enemy chose the latter. They even used me as bait to do it.*",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "39",
+      "sol": "*And yet the enemy chose the shortcut. They even used me as bait to do it.*",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if it was for the sake of the bigger picture, a series of choices like these seemed almost reckless.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "41",
+      "sol": "Even if it was all part of a larger plan, those choices seemed almost reckless.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang rose and paced around, muttering as if to himself.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "49",
+      "sol": "Jeok Cheongang rose and paced, muttering as if to himself.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Even if they didn’t know this old man was in the imperial palace, they should have at least considered the possibility if they knew what happened in Nanman.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "51",
+      "sol": "“Even if they don’t know this old man is in the imperial palace, they should have considered the possibility if they know what happened in Nanman.”",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For all I knew, they’d obtained that same information themselves.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "55",
+      "sol": "",
+      "sol_paragraphs": "after P25",
+      "sol_range": [
+        25,
+        25
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That Fire King Jeok Cheongang had intervened in the process of defeating the Southern Heaven Demon Empress, and had left Nanman with me.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "57",
+      "sol": "They must have obtained the same information: Fire King Jeok Cheongang had helped defeat the Southern Heaven Demon Empress, then left Nanman with me.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if they hadn’t even considered the existence of a predator called the Fire King. As if even if that predator joined the battle, it wouldn’t make the slightest difference to the outcome.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "61",
+      "sol": "As if they hadn’t even considered the existence of a predator called the Fire King. As if that predator joining the battle wouldn’t make the slightest difference to the outcome.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I could understand why they might discount me: I was already in rough shape, and they might have been acting on some kind of instruction from the Lord of Heaven.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "67",
+      "sol": "I could understand why they might discount me. I was already in rough shape, and they might have been acting on some kind of instruction from the Lord of Heaven.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Without the Blood Lord’s impossible ability to recover, he would’ve died instantly several times over. And during the Sichuan Blood Tragedy, he fought the Western Heaven Demon Lord with a body that had only just recovered from being poisoned.*",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "73",
+      "sol": "*Without the Blood Lord’s impossible ability to recover, Jeok Cheongang would’ve killed him several times over. And during the Sichuan Blood Tragedy, Jeok fought the Western Heaven Demon Lord when he’d only just recovered from being poisoned.*",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The magical power flowing from the rift had turned her halfway into a monster. And after burning her innate qi, she’d displayed a level of martial prowess beyond human limits.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "77",
+      "sol": "The magical power flowing from the rift had turned her halfway into a monster. And after burning her innate qi, she’d displayed martial prowess beyond human limits.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But they weren’t even considering Jeok Cheongang?",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "79",
+      "sol": "But they weren’t even taking Jeok Cheongang into account?",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I stared into the air, my gaze sinking as I thought.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "83",
+      "sol": "I stared into the air, my gaze darkening as I thought.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was definitely something going on.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "87",
+      "sol": "There was definitely something going on. Something I didn’t know yet. An undisclosed secret.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Something I didn’t know yet. A secret no one had uncovered.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "89",
+      "sol": "",
+      "sol_paragraphs": "after P41",
+      "sol_range": [
+        41,
+        41
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And I knew one person who might help answer at least some of these questions.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "91",
+      "sol": "And I knew one person who might answer at least some of my questions.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I spent all my time holed up in Nanman, so I don’t know the details. But I’ve heard that they did quite a bit of that in the past.”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "109",
+      "sol": "“I spent all my time holed up in Nanman, so I don’t know the details. But I’ve heard they did quite a bit of that in the past.”",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the years went by, the land and its people grew old.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "119",
+      "sol": "The landscape had changed, and people had grown old.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Namho, one of the countless people swept along by that current, patted his lower back and continued.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "121",
+      "sol": "Namho, one of the countless people carried along by those years, patted his lower back and continued.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Put simply, the Hundred Thousand Demonic Disciples amounted to an army of a hundred thousand invading from a foreign land. What’s more, unlike the Central Plains, they had a perfect center of command.”",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "133",
+      "sol": "“Put simply, the Hundred Thousand Demonic Disciples amounted to an army of a hundred thousand invading from a foreign land. What’s more, unlike the Central Plains, they had a single, unquestioned leader.”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unlike the orthodox faction, whose martial world was made up of people loyal to their own schools and leaders, those who followed the Demonic Path obeyed only one person: their Cult Leader, the Heavenly Demon.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "143",
+      "sol": "Unlike the orthodox faction, whose martial artists were loyal to their own schools and leaders, those who followed the Demonic Path obeyed only one person: their Cult Leader, the Heavenly Demon.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial world"
+        }
+      ]
+    },
+    {
+      "baseline": "It wasn’t for nothing that people still said the world would have belonged to the Demonic Path if the orthodox faction hadn’t had a new center of command in the Martial God, and if its symbolic masters—including the Three Saints and the Ten Kings—hadn’t fought so fiercely.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "145",
+      "sol": "People still said the world would have belonged to the Demonic Path if the orthodox faction hadn’t found a new figure to rally around in the Martial God, and if its renowned masters—including the Three Saints and the Ten Kings—hadn’t fought as they did.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. If the Great Nation helped us, everything would’ve been much easier.”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "151",
+      "sol": "“That’s right. If the Great Nation had helped us, everything would’ve been much easier.”",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Namho added bitterly,",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "153",
+      "sol": "",
+      "sol_paragraphs": "after P72",
+      "sol_range": [
+        72,
+        72
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Namho"
+        }
+      ]
+    },
+    {
+      "baseline": "“Of course, the imperial household tested the waters for a while, then spat the idea out.”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "155",
+      "sol": "Namho added bitterly, “Of course, the imperial household took a taste, then spat the idea out.”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "By this point, I was so curious that I couldn’t help asking more.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "157",
+      "sol": "By this point, I couldn’t help asking more.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a little off from what I’d originally wanted to discuss, but I wanted to know why the imperial household hadn’t intervened in the enormous battles that had erupted across the land during the Great Faction War.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "159",
+      "sol": "It was a little removed from what I’d originally wanted to discuss, but I wanted to know why the imperial household hadn’t intervened in the enormous battles that had erupted across the land during the Great Faction War.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why did they refuse? If a hundred thousand members of the Demonic Cult had invaded the Central Plains, surely the imperial household could’ve stepped in.”",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "161",
+      "sol": "“Why did they refuse? If a hundred thousand members of the Demonic Cult had invaded the Central Plains, surely the imperial household had reason to step in.”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Of course, that’s a load of convincing-sounding bullshit.”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "171",
+      "sol": "“Convincing-sounding bullshit, of course.”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Senior is right. They didn’t want to risk the people’s displeasure by mobilizing troops again, and they couldn’t bear the cost of the damage. They trusted the orthodox Murim to act as a shield, then sat back to enjoy the show.”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "173",
+      "sol": "“Senior is right. They didn’t want to risk the people’s displeasure by mobilizing troops again, or bear the damage it would cause. They trusted the orthodox faction to act as a shield and decided to sit back and watch.”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무림",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murim"
+        }
+      ]
+    },
+    {
+      "baseline": "“It was a foolish, indecisive choice. If the Demonic Cult had won the Great Faction War, the imperial household would’ve been next.”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "175",
+      "sol": "“It was foolish and indecisive. If the Demonic Cult had won the Great Faction War, the imperial household would’ve been next.”",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Hidden Shadow Pavilion came to the same conclusion. The Heavenly Demon was strong and ambitious. In the end, he would have brought down the Great Nation and established a theocracy. But as always, history is determined by its outcome, isn’t it?”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "177",
+      "sol": "“The Hidden Shadow Pavilion thought the same. The Heavenly Demon was strong and ambitious. We believed he would eventually bring down the Great Nation and establish a nation ruled by his cult. But as always, history is decided by how things turn out, isn’t it?”",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“After that, things went as everyone knows. The Heavenly Demon also didn’t want the imperial household to get involved, so his forces advanced deep into the Central Plains while avoiding harm to ordinary people as much as possible. After more than a decade of fierce battles, the orthodox faction won by a miracle.”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "181",
+      "sol": "“After that, things went as everyone knows. The Heavenly Demon didn’t want the imperial household involved either, so his forces advanced deep into the Central Plains while avoiding harm to ordinary people as much as possible. After more than a decade of fierce battles, the orthodox faction won by a miracle.”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s all. The imperial household had nearly been burned by an incident in the martial world, so in a way, it was only natural. After that, the Hidden Shadow Pavilion couldn’t send agents into the imperial capital anymore. If the imperial household spotted and exposed them, we’d have to fight the Great Nation instead of the Demonic Cult.”",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "189",
+      "sol": "“That’s all. The imperial household had nearly been burned by an incident in the martial world, so in a way, it was only natural. After that, the Hidden Shadow Pavilion couldn’t send agents into the Imperial Capital anymore. If the imperial household caught them, we’d have to fight the Great Nation instead of the Demonic Cult.”",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Because it’s in the past. We’re busy enough focusing on the present without dragging up old, dusty matters.”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "197",
+      "sol": "“Because it’s in the past. We’re busy enough dealing with the present without digging up ancient history.”",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh, right. That’s what it was. Why did you ask?”",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "205",
+      "sol": "“Oh, right. Why did you ask?”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang said something filthy in an unnecessarily solemn tone, his eyes gleaming. Under the many gazes fixed on me, I slowly began to speak.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "215",
+      "sol": "Jeok Cheongang delivered this filthy advice with needless solemnity, his eyes gleaming. With everyone looking at me, I slowly began to speak.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Is there anyone Ma Sanbao might personally bring in from the martial world?”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "217",
+      "sol": "“Are there any martial artists Ma Sanbao might have brought in personally?”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial world"
+        }
+      ]
+    },
+    {
+      "baseline": "“People from the martial world? Which sect?”",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "219",
+      "sol": "“Martial artists? From which sect?”",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial world"
+        }
+      ]
+    },
+    {
+      "baseline": "At that moment, the gazes that had been fixed on me split in two directions.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "229",
+      "sol": "At that moment, the gazes fixed on me swung in two directions.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One toward Sama Pyo.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "231",
+      "sol": "Some toward Sama Pyo.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The other toward the Divine Physician.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "233",
+      "sol": "The rest toward the Divine Physician.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 116,
+  "sol_sha256": "7c43c328daa835616b2bd5b36d2a5604261c7eeddb4ab73751926aeb28541ded",
+  "version": 1
+}

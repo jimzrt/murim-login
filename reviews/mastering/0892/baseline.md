@@ -8,11 +8,11 @@ For me—and for everyone else.
 
 At Jeok Cheongang’s mutter, Namho nodded.
 
-“It’s hard to believe, but for our enemies, that’s the fastest shortcut to taking control of the entire Great Nation.”
+“It’s hard to believe, but for our enemies, it is the fastest shortcut to taking control of the entire Great Nation.”
 
 He was right.
 
-Nothing settled things quite like a character-deletion match. Once a single battle with everything on the line was over, the winner would survive and the loser would disappear.
+Nothing was more decisive than an all-or-nothing match. Once a single battle with everything on the line was over, the winner would survive, and the loser would disappear.
 
 The problem was that we had no idea what lay behind our enemies’ confidence.
 
@@ -20,21 +20,23 @@ The problem was that we had no idea what lay behind our enemies’ confidence.
 
 It was easy to call it a single decisive battle, but this wasn’t just another life-and-death duel of the kind that happened all the time between martial artists.
 
-It would be an enormous battle with the fate of the Great Nation at stake—and, without a doubt, a bloodbath that would paint the Imperial Capital red.
+It would be an enormous battle with the fate of the Great Nation at stake—and, without a doubt, a bloodbath that would paint the imperial capital red.
 
 *If we lose this battle, the restoration army will be wiped out in an instant, and Dark Heaven and the Emperor will take complete control of the Great Nation. But is that really all?*
 
-Namho had said it was the fastest shortcut for the enemy.
+Namho had said it earlier.
 
-But a shortcut wasn’t always the best choice. There was a reason people took the established road.
+That this was the fastest shortcut for the enemy.
+
+But the shortcut wasn’t always the best choice. There was a reason people took the established road.
 
 A main road was wide and straight. Even if it took a little longer, you could reach your destination easily and comfortably.
 
 A shortcut, though, was narrow and complicated. The ground was uneven and unpaved, and sometimes you had to pass through shadowy alleys where danger—and foul smells—lurked.
 
-*And yet the enemy chose the shortcut. They even used me as bait to do it.*
+*And yet the enemy chose the latter. They even used me as bait to do it.*
 
-Even if it was all part of a larger plan, those choices seemed almost reckless.
+Even if it was for the sake of the bigger picture, a series of choices like these seemed almost reckless.
 
 They hadn’t stopped me, even though I’d repeatedly gotten in Dark Heaven’s way. They’d deliberately made a battle they absolutely had to win that much harder.
 
@@ -42,23 +44,25 @@ And I wasn’t the only one thinking about it.
 
 “Why?”
 
-Jeok Cheongang rose and paced, muttering as if to himself.
+Jeok Cheongang rose and paced around, muttering as if to himself.
 
-“Even if they don’t know this old man is in the imperial palace, they should have considered the possibility if they know what happened in Nanman.”
+“Even if they didn’t know this old man was in the imperial palace, they should have at least considered the possibility if they knew what happened in Nanman.”
 
 Dark Heaven’s intelligence network was vast. There was no way So Gyo or the Emperor hadn’t heard what even Ma Sanbao knew.
+
+For all I knew, they’d obtained that same information themselves.
 
 That Fire King Jeok Cheongang had intervened in the process of defeating the Southern Heaven Demon Empress, and had left Nanman with me.
 
 And still, they’d let me go.
 
-As if they hadn’t even considered the existence of a predator called the Fire King. As if that predator joining the battle wouldn’t make the slightest difference to the outcome.
+As if they hadn’t even considered the existence of a predator called the Fire King. As if even if that predator joined the battle, it wouldn’t make the slightest difference to the outcome.
 
 *This… really is strange.*
 
 No, more than strange. Suspicious.
 
-I could understand why they might discount me. I was already in rough shape, and they might have been acting on some kind of instruction from the Lord of Heaven.
+I could understand why they might discount me: I was already in rough shape, and they might have been acting on some kind of instruction from the Lord of Heaven.
 
 But Jeok Cheongang?
 
@@ -68,9 +72,9 @@ He’d already stood at the top of the Ten Kings during the Great Faction War. T
 
 Of course, the Southern Heaven Demon Empress, the most recent opponent he’d faced, was an exception.
 
-The magical power flowing from the rift had turned her halfway into a monster. And after burning her innate qi, she’d displayed martial prowess beyond human limits.
+The magical power flowing from the rift had turned her halfway into a monster. And after burning her innate qi, she’d displayed a level of martial prowess beyond human limits.
 
-But they weren’t even taking Jeok Cheongang into account?
+But they weren’t even considering Jeok Cheongang?
 
 *Bullshit.*
 
@@ -78,9 +82,11 @@ I stared into the air, my gaze sinking as I thought.
 
 The more I considered it, the more things didn’t add up.
 
-There was definitely something going on. Something I didn’t know yet. An undisclosed secret.
+There was definitely something going on.
 
-And I knew one person who might answer at least some of my questions.
+Something I didn’t know yet. A secret no one had uncovered.
+
+And I knew one person who might help answer at least some of these questions.
 
 “Ma Sanbao.”
 
@@ -98,7 +104,7 @@ I brought up a question I’d set aside for later.
 
 “Has the Hidden Shadow Pavilion ever gathered information on the East Depot? Or on anything else concerning the imperial household?”
 
-“I spent all my time holed up in Nanman, so I don’t know the details. But I’ve heard they did quite a bit of that in the past.”
+“I spent all my time holed up in Nanman, so I don’t know the details. But I’ve heard that they did quite a bit of that in the past.”
 
 “How far back?”
 
@@ -110,7 +116,7 @@ Half a century.
 
 As the years went by, the land and its people grew old.
 
-Namho, one of the countless people carried along by those years, patted his lower back and continued.
+Namho, one of the countless people swept along by that current, patted his lower back and continued.
 
 “When the Demonic Cult swept down into the Central Plains, the Murim Alliance was formed. The Hidden Shadow Pavilion was established in the process. Where do you think we reached out first?”
 
@@ -122,7 +128,7 @@ Namho grinned as he watched me hesitate.
 
 “…”
 
-“Put simply, the Hundred Thousand Demonic Disciples amounted to an army of a hundred thousand invading from a foreign land. What’s more, unlike the Central Plains, they had a single, unquestioned leader.”
+“Put simply, the Hundred Thousand Demonic Disciples amounted to an army of a hundred thousand invading from a foreign land. What’s more, unlike the Central Plains, they had a perfect center of command.”
 
 “They did. The Heavenly Demon, that son of a bitch.”
 
@@ -140,13 +146,15 @@ And to drive out the Heavenly Demon and his hundred thousand disciples, the Muri
 
 “So the Alliance reached out to the imperial household? To drive out the Heavenly Demon together?”
 
-“That’s right. If the Great Nation had helped us, everything would’ve been much easier.”
+“That’s right. If the Great Nation helped us, everything would’ve been much easier.”
+
+Namho added bitterly,
 
 “Of course, the imperial household tested the waters for a while, then spat the idea out.”
 
 By this point, I was so curious that I couldn’t help asking more.
 
-It was a little removed from what I’d originally wanted to discuss, but I wanted to know why the imperial household hadn’t intervened in the enormous battles that had erupted across the land during the Great Faction War.
+It was a little off from what I’d originally wanted to discuss, but I wanted to know why the imperial household hadn’t intervened in the enormous battles that had erupted across the land during the Great Faction War.
 
 “Why did they refuse? If a hundred thousand members of the Demonic Cult had invaded the Central Plains, surely the imperial household could’ve stepped in.”
 
@@ -158,17 +166,17 @@ It was a little removed from what I’d originally wanted to discuss, but I want
 
 At Namho’s words, Jeok Cheongang snorted.
 
-“Convincing-sounding bullshit, of course.”
+“Of course, that’s a load of convincing-sounding bullshit.”
 
 “Senior is right. They didn’t want to risk the people’s displeasure by mobilizing troops again, and they couldn’t bear the cost of the damage. They trusted the orthodox Murim to act as a shield, then sat back to enjoy the show.”
 
-“It was foolish and indecisive. If the Demonic Cult had won the Great Faction War, the imperial household would’ve been next.”
+“It was a foolish, indecisive choice. If the Demonic Cult had won the Great Faction War, the imperial household would’ve been next.”
 
 “The Hidden Shadow Pavilion came to the same conclusion. The Heavenly Demon was strong and ambitious. In the end, he would have brought down the Great Nation and established a theocracy. But as always, history is determined by its outcome, isn’t it?”
 
 Namho nodded and turned to me.
 
-“After that, things went as everyone knows. The Heavenly Demon didn’t want the imperial household involved either, so his forces advanced deep into the Central Plains while avoiding harm to ordinary people as much as possible. After more than a decade of fierce battles, the orthodox faction won by a miracle.”
+“After that, things went as everyone knows. The Heavenly Demon also didn’t want the imperial household to get involved, so his forces advanced deep into the Central Plains while avoiding harm to ordinary people as much as possible. After more than a decade of fierce battles, the orthodox faction won by a miracle.”
 
 “That’s it?”
 
@@ -184,7 +192,7 @@ Even Taishan, who’d been quietly slaughtering the five-spice pork, was blinkin
 
 “Why are you only telling us this now?”
 
-“Because it’s in the past. We’re busy enough dealing with the present without digging up ancient history.”
+“Because it’s in the past. We’re busy enough focusing on the present without dragging up old, dusty matters.”
 
 Namho shrugged, then suddenly furrowed his brow.
 
@@ -192,7 +200,7 @@ Namho shrugged, then suddenly furrowed his brow.
 
 “I asked whether the Hidden Shadow Pavilion had ever gathered information on the East Depot. It didn’t have to be the East Depot specifically—anything about the imperial household.”
 
-“Oh, right. Why did you ask?”
+“Oh, right. That’s what it was. Why did you ask?”
 
 “Because I learned something a little unsettling a few shichen ago.”
 
@@ -202,7 +210,7 @@ Namho shrugged, then suddenly furrowed his brow.
 
 “If your ass feels dirty, you wipe it—even if you have to use your bare hand. Now tell me.”
 
-Jeok Cheongang delivered this filthy advice with needless solemnity, his eyes gleaming. With everyone looking at me, I slowly began to speak.
+Jeok Cheongang said something filthy in an unnecessarily solemn tone, his eyes gleaming. Under the many gazes fixed on me, I slowly began to speak.
 
 “Is there anyone Ma Sanbao might personally bring in from the martial world?”
 
@@ -216,11 +224,11 @@ Jeok Cheongang delivered this filthy advice with needless solemnity, his eyes gl
 
 “…”
 
-At that moment, the gazes fixed on me swung in two directions.
+At that moment, the gazes that had been fixed on me split in two directions.
 
-Some toward Sama Pyo.
+One toward Sama Pyo.
 
-The rest toward the Divine Physician.
+The other toward the Divine Physician.
 
 After a brief silence, the two of them spoke in turn, one young and one old.
 

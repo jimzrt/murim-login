@@ -22,7 +22,7 @@ It was easy to call it a single decisive battle, but this wasn’t just another 
 
 It would be an enormous battle with the fate of the Great Nation at stake—and, without a doubt, a bloodbath that would paint the Imperial Capital red.
 
-*If we lose this battle, the restoration army will be wiped out in an instant, and Dark Heaven and the Emperor will take complete control of the Great Nation. But is that really all?*
+*If we lose, the restoration army will be wiped out in an instant, and Dark Heaven and the Emperor will take complete control of the Great Nation. But is that really all?*
 
 Namho had said it was the fastest shortcut for the enemy.
 
@@ -30,7 +30,7 @@ But a shortcut wasn’t always the best choice. There was a reason people took t
 
 A main road was wide and straight. Even if it took a little longer, you could reach your destination easily and comfortably.
 
-A shortcut, though, was narrow and complicated. The ground was uneven and unpaved, and sometimes you had to pass through shadowy alleys where danger—and foul smells—lurked.
+A shortcut, though, was narrow and winding. The ground was uneven and unpaved, and sometimes you had to pass through shadowy alleys where foul smells and danger lurked.
 
 *And yet the enemy chose the shortcut. They even used me as bait to do it.*
 
@@ -48,7 +48,7 @@ Jeok Cheongang rose and paced, muttering as if to himself.
 
 Dark Heaven’s intelligence network was vast. There was no way So Gyo or the Emperor hadn’t heard what even Ma Sanbao knew.
 
-That Fire King Jeok Cheongang had intervened in the process of defeating the Southern Heaven Demon Empress, and had left Nanman with me.
+They must have obtained the same information: Fire King Jeok Cheongang had helped defeat the Southern Heaven Demon Empress, then left Nanman with me.
 
 And still, they’d let me go.
 
@@ -64,7 +64,7 @@ But Jeok Cheongang?
 
 He’d already stood at the top of the Ten Kings during the Great Faction War. They said that if he’d joined the war a little earlier, he could have stood shoulder to shoulder with the Three Saints. He was a monster among monsters.
 
-*Without the Blood Lord’s impossible ability to recover, he would’ve died instantly several times over. And during the Sichuan Blood Tragedy, he fought the Western Heaven Demon Lord with a body that had only just recovered from being poisoned.*
+*Without the Blood Lord’s impossible ability to recover, Jeok Cheongang would’ve killed him several times over. And during the Sichuan Blood Tragedy, Jeok fought the Western Heaven Demon Lord when he’d only just recovered from being poisoned.*
 
 Of course, the Southern Heaven Demon Empress, the most recent opponent he’d faced, was an exception.
 
@@ -74,7 +74,7 @@ But they weren’t even taking Jeok Cheongang into account?
 
 *Bullshit.*
 
-I stared into the air, my gaze sinking as I thought.
+I stared into the air, my gaze darkening as I thought.
 
 The more I considered it, the more things didn’t add up.
 
@@ -108,7 +108,7 @@ Fifty years.
 
 Half a century.
 
-As the years went by, the land and its people grew old.
+The landscape had changed, and people had grown old.
 
 Namho, one of the countless people carried along by those years, patted his lower back and continued.
 
@@ -132,9 +132,9 @@ Jeok Cheongang cut in, and Namho nodded.
 
 That was why the Great Faction War had been so fierce, and why it had ended so quickly.
 
-Unlike the orthodox faction, whose martial world was made up of people loyal to their own schools and leaders, those who followed the Demonic Path obeyed only one person: their Cult Leader, the Heavenly Demon.
+Unlike the orthodox faction, whose martial artists were loyal to their own schools and leaders, those who followed the Demonic Path obeyed only one person: their Cult Leader, the Heavenly Demon.
 
-It wasn’t for nothing that people still said the world would have belonged to the Demonic Path if the orthodox faction hadn’t had a new center of command in the Martial God, and if its symbolic masters—including the Three Saints and the Ten Kings—hadn’t fought so fiercely.
+People still said the world would have belonged to the Demonic Path if the orthodox faction hadn’t found a new figure to rally around in the Martial God, and if its renowned masters—including the Three Saints and the Ten Kings—hadn’t fought as they did.
 
 And to drive out the Heavenly Demon and his hundred thousand disciples, the Murim Alliance must have needed a powerful ally.
 
@@ -142,13 +142,13 @@ And to drive out the Heavenly Demon and his hundred thousand disciples, the Muri
 
 “That’s right. If the Great Nation had helped us, everything would’ve been much easier.”
 
-“Of course, the imperial household tested the waters for a while, then spat the idea out.”
+Namho added bitterly, “Of course, the imperial household took a taste, then spat the idea out.”
 
-By this point, I was so curious that I couldn’t help asking more.
+By this point, I couldn’t help asking more.
 
 It was a little removed from what I’d originally wanted to discuss, but I wanted to know why the imperial household hadn’t intervened in the enormous battles that had erupted across the land during the Great Faction War.
 
-“Why did they refuse? If a hundred thousand members of the Demonic Cult had invaded the Central Plains, surely the imperial household could’ve stepped in.”
+“Why did they refuse? If a hundred thousand members of the Demonic Cult had invaded the Central Plains, surely the imperial household had reason to step in.”
 
 “I heard the late Emperor, who was the Son of Heaven at the time, opposed it personally.”
 
@@ -160,11 +160,11 @@ At Namho’s words, Jeok Cheongang snorted.
 
 “Convincing-sounding bullshit, of course.”
 
-“Senior is right. They didn’t want to risk the people’s displeasure by mobilizing troops again, and they couldn’t bear the cost of the damage. They trusted the orthodox Murim to act as a shield, then sat back to enjoy the show.”
+“Senior is right. They didn’t want to risk the people’s displeasure by mobilizing troops again, or bear the damage it would cause. They trusted the orthodox faction to act as a shield and decided to sit back and watch.”
 
 “It was foolish and indecisive. If the Demonic Cult had won the Great Faction War, the imperial household would’ve been next.”
 
-“The Hidden Shadow Pavilion came to the same conclusion. The Heavenly Demon was strong and ambitious. In the end, he would have brought down the Great Nation and established a theocracy. But as always, history is determined by its outcome, isn’t it?”
+“The Hidden Shadow Pavilion thought the same. The Heavenly Demon was strong and ambitious. We believed he would eventually bring down the Great Nation and establish a nation ruled by his cult. But as always, history is decided by how things turn out, isn’t it?”
 
 Namho nodded and turned to me.
 
@@ -176,7 +176,7 @@ Namho nodded and turned to me.
 
 “…”
 
-“That’s all. The imperial household had nearly been burned by an incident in the martial world, so in a way, it was only natural. After that, the Hidden Shadow Pavilion couldn’t send agents into the imperial capital anymore. If the imperial household spotted and exposed them, we’d have to fight the Great Nation instead of the Demonic Cult.”
+“That’s all. The imperial household had nearly been burned by an incident in the martial world, so in a way, it was only natural. After that, the Hidden Shadow Pavilion couldn’t send agents into the Imperial Capital anymore. If the imperial household caught them, we’d have to fight the Great Nation instead of the Demonic Cult.”
 
 After hearing about a past unknown to the world, I—and the other members of the Fire Dragon Pavilion—fell silent for a moment.
 
@@ -204,9 +204,9 @@ Namho shrugged, then suddenly furrowed his brow.
 
 Jeok Cheongang delivered this filthy advice with needless solemnity, his eyes gleaming. With everyone looking at me, I slowly began to speak.
 
-“Is there anyone Ma Sanbao might personally bring in from the martial world?”
+“Are there any martial artists Ma Sanbao might have brought in personally?”
 
-“People from the martial world? Which sect?”
+“Martial artists? From which sect?”
 
 “I don’t know what sect they belong to. And they’re not exactly ordinary martial artists, either.”
 
