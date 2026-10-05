@@ -2,7 +2,7 @@
 
 *Thuk.*
 
-There was no resistance. Nothing to stop it.
+The blade met no resistance.
 
 The imperial family’s treasured sword cut through the flesh and bone against its edge like tofu, doing its job regardless of its master’s wishes.
 
@@ -14,15 +14,15 @@ Silence fell.
 
 No one there had expected this.
 
-Who could have imagined that a vengeful ghost who had devoted his entire life to bringing down the accursed imperial court and the Great Nation would choose this path?
+The Eastern Heaven Demon Lord had devoted his life to bringing down the imperial family he cursed and the Great Nation it ruled. No one had imagined he would choose this path.
 
-That he would thrust his own neck onto the blade held out by his enemy’s descendant?
+That he would drive his own throat onto the blade held out by his enemy’s descendant.
 
 And yet, fate, once twisted, would not grant him death so easily.
 
 *Grrk. Cough.*
 
-Blood and phlegm bubbled through the gaping wound in his throat. Gasping for breath, the Eastern Heaven Demon Lord felt his body slowly, little by little, beginning to recover. A rasping laugh escaped him.
+Blood and phlegm bubbled through the gaping wound in his throat. As he gasped for breath, the Eastern Heaven Demon Lord felt his body begin, slowly, to heal. He let out a hollow laugh.
 
 What a farce.
 
@@ -54,7 +54,7 @@ He spat out the bloody froth rising in his throat and slowly went on.
 
 The eunuch was Hong Jin. The child was Zhu Bao.
 
-“I wanted to kill him. More than once, even after that.”
+“I tried to kill him. Several times after that, too.”
 
 But he had not done it.
 
@@ -62,17 +62,17 @@ It was not only because Prince Shangshan Zhu Bao would make the perfect puppet t
 
 The Eastern Heaven Demon Lord had dimly suspected that the Emperor’s decision to make his youngest brother Prince Shangshan and send him far away was a ruse. Even so, he could never bring himself to order the assassination.
 
-He hadn’t even known why he agonized over it so much.
+He had not known why he hesitated.
 
 No. He had known and pretended otherwise.
 
 “That child… reminded me of myself.”
 
-In the little boy who had lost his parents and siblings, in that small child being carried out of the palace as if in flight, the Eastern Heaven Demon Lord had seen his own past.
+In the little boy who had lost his parents and brothers, in that small figure carried away from the palace as though fleeing for his life, the Eastern Heaven Demon Lord had seen his own past.
 
 Messenger pigeons arrived at regular intervals with news of the boy. In those few written lines, he could read his loneliness.
 
-“They said that far away, more than ten thousand li from here, the five-year-old cried every night. His sobs were so loud they could be heard over the walls.”
+“They said that more than ten thousand li away, the five-year-old cried every night. They could hear him beyond the walls.”
 
 For better or worse, the child was precocious. At five, he had learned the truth.
 
@@ -88,7 +88,7 @@ In those few lines of the missive, he could still see the child crying.
 
 “He had only learned to hold back his tears. Just as I once did.”
 
-Something he didn’t want to get used to.
+It was something no one wanted to grow used to.
 
 Something he had no choice but to grow used to.
 
@@ -108,13 +108,13 @@ Far sooner than anyone would have wished.
 
 Time flowed on like a river.
 
-The Eastern Heaven Demon Lord, unable to recover from the injuries he had suffered at the hands of the Bow Saint, performed his sect’s forbidden ritual and turned himself into a jiangshi. Meanwhile, the child, whose days had always been much the same, met a young man.
+The Eastern Heaven Demon Lord never recovered from the injuries the Bow Saint had inflicted. He performed his sect’s forbidden art and turned himself into a jiangshi. Meanwhile, the child, whose days had always been much the same, met a young man.
 
 Jin Taekyung.
 
 The Third Young Master of the Jin Family of Taiyuan.
 
-A wastrel who had only just taken his first step toward turning his life around.
+The family wastrel, only just taking his first step toward turning his life around.
 
 And that third young master of an unremarkable martial family gave the boy something his life had never held before.
 
@@ -198,11 +198,11 @@ Propriety and wisdom.
 
 The Eastern Heaven Demon Lord groaned.
 
-The meaning behind the young prince’s final words—*forbearance*—cut into his heart like a blade.
+The meaning of the young prince’s last words—forgiveness—cut into his heart like a blade.
 
 “I… I could forgive nothing. At some point, I began to curse everything.”
 
-At the end of a brutal age of turmoil, the warlords who had caused him to lose his family had turned to dust and disappeared.
+The warlords whose fighting had cost him his family had long since turned to dust.
 
 Taizu, who had burned his sect and slaughtered his Master and fellow disciples, was dead as well.
 
@@ -214,11 +214,11 @@ Against those who were left. Against people who had done nothing wrong.
 
 “But how… how can you…!”
 
-Unable to bring himself to look straight at the boy, the Eastern Heaven Demon Lord closed his eyes and cried out, his voice boiling over.
+Unable to look the boy in the eye, the Eastern Heaven Demon Lord shut his eyes and cried out, his voice shaking with emotion.
 
 It was not the anger he had felt before.
 
-He was simply more anguished than ever.
+He was grieving more bitterly than ever.
 
 Even now, he could not let go of everything.
 
@@ -238,7 +238,7 @@ Prince Shangshan was looking at him, his gaze trembling.
 
 “Because my heart ached for you. I realized what made us different: the good fortune I was given, and you were not.”
 
-Prince Shangshan slowly turned his head. A man stood beside him, looking haggard but entirely at ease, as if there were nowhere else he could be. The young prince’s gaze fell on him.
+Prince Shangshan slowly turned his head. Beside him stood a haggard-looking man, as though being there were the most natural thing in the world.
 
 “I had a subject closer to me than family.”
 
@@ -248,7 +248,7 @@ His name was Hong Jin. He had been at the prince’s side from his earliest memo
 
 The Emperor closed his eyes with a low groan.
 
-The loyal old general and the Embroidered Uniform Guards, who had been forced to seize the throne to confront a greater injustice, clenched their teeth, trying to suppress their agitation.
+The loyal old generals and Embroidered Uniform Guards who had helped seize the throne to oppose a greater injustice clenched their teeth, struggling to contain their emotions.
 
 “When I could not see even a glimmer of light, there were people who reached out to me without asking for anything in return.”
 
@@ -258,7 +258,7 @@ People who had stepped outside the Great Nation’s laws and built a world apart
 
 Yet they had willingly torn down that boundary and rushed into a place where danger waited on every side.
 
-Prince Shangshan’s gaze passed from one to the next. One awkwardly scratched his bald head. Another gave him a gentle nod. One was rubbing his stomach as if he were hungry.
+Prince Shangshan’s gaze passed over them, one by one. One awkwardly scratched his bald head. Another greeted him with a gentle look. Someone else rubbed his stomach as though he were hungry.
 
 And at the end of his gaze stood a young man.
 
@@ -274,9 +274,9 @@ He had forgotten that single word for so long it felt strange to him. The Easter
 
 Then he saw himself reflected in the young prince’s tear-filled eyes: warped and blurred, like a monster.
 
-“The man I saw in you was not only a sinner of the ages, burdened with unforgivable karma. You were also an unfortunate person who had no choice but to walk a different path from mine.”
+“Before I saw a sinner burdened with deeds that can never be undone, I saw an unhappy man who could not walk the path I did.”
 
-Unfortunate, he had chosen revenge instead of forgiveness.
+Unhappy, he had chosen revenge over forgiveness.
 
 Inhuman, he had become a monster.
 
@@ -314,13 +314,11 @@ It mingled with the thick stench of blood rising from the hellscape he had made.
 
 *Too late. I realized far too late.*
 
-Thousands upon thousands of people had already been killed or wounded.
+Thousands, perhaps tens of thousands, had already been killed or wounded.
 
-And how many more would be sacrificed because of his choices?
+And how many more would suffer because of his choices?
 
-He couldn’t even begin to guess.
-
-Nor could he measure the weight of the crime he would bear for the countless lives swallowed up in the great war he had set in motion.
+He could not begin to imagine the countless lives that would be swallowed by the coming war, or the weight of the guilt he would bear for driving them to their deaths.
 
 Yet here, at the end, a new fork in the road lay before him. It whispered insistently that he should make the better choice, even if only by a little.
 
@@ -346,11 +344,11 @@ That was all.
 
 *—I’ve told you my story. Now it’s time to collect my fortune-telling fee.*
 
-Jin Taekyung watched the Eastern Heaven Demon Lord in silence, his gaze sunk deep. Then he nodded and stepped forward.
+Jin Taekyung studied him in silence for a moment. Then he nodded and stepped forward.
 
 *Splash.*
 
-Ripples spread across a pool of thick, sticky blood.
+Ripples spread across the thick pool of blood.
 
 Everyone watching knew what Jin Taekyung was about to do. Not one of the civil or military officials tried to stop him.
 
@@ -358,7 +356,7 @@ They did not dare.
 
 The Emperor and Prince Shangshan Zhu Bao had stepped aside themselves to clear his path.
 
-At this moment, Jin Taekyung was the Emperor’s appointed proxy, granted the authority to execute this great traitor on the Son of Heaven’s behalf.
+At that moment, Jin Taekyung had been granted the authority to execute the great traitor on the Son of Heaven’s behalf.
 
 *Shing.*
 
@@ -368,13 +366,11 @@ A cool breeze brushed the spearhead he held in a reverse grip. As the Eastern He
 
 “Probably. You’ll have to spend about three thousand jiazi as a cockroach or a mosquito first, though.”
 
-“I see. I suppose so.”
-
-At Jin Taekyung’s matter-of-fact answer, the Eastern Heaven Demon Lord let out a dry laugh. Jin Taekyung continued in an even voice.
+The Eastern Heaven Demon Lord let out a dry laugh at the answer.
 
 Then Jin Taekyung went on, his voice even.
 
-“But in your next life, make sure you’re born human again.”
+“But in the life after that, make sure you’re born human again.”
 
 “What do you mean…?”
 

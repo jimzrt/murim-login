@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled chapter is broadly faithful, with two minor losses of source imagery.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 15–17",
+      "current": "Silence fell.",
+      "defect": "The source says silence settled all around in an instant. The translation omits both the surrounding, enveloping image and the abrupt timing.",
+      "replacement": "In an instant, silence settled all around them.",
+      "rationale": "The source specifies that silence descended throughout the area at once; the accepted baseline preserved those details.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 269",
+      "current": "Now he smiled at the boy who had grown so much.",
+      "defect": "The source describes the boy as having grown dazzlingly. “So much” conveys the extent of his growth but loses the source’s vivid characterization.",
+      "replacement": "Now he smiled at the boy who had grown so brilliantly.",
+      "rationale": "눈부시게 성장한 carries a bright, dazzling emphasis, which the accepted baseline also retained with “so brilliantly.”",
+      "confidence": 0.88
+    }
+  ]
+}
