@@ -12,7 +12,7 @@ Everything was clear.
 
 The shallow breaths of Wipeng and Cheol Mubaek, both suffering severe Internal Injuries. The drops of blood spilling from between their lips.
 
-And then the Demon Bird finally released the two beloved swords he had been gripping tightly and turned around.
+The Demon Bird released the two swords he had been gripping so tightly and turned.
 
 He kicked off the ground with all his strength and thrust both palms forward like a bolt of lightning.
 
@@ -20,11 +20,11 @@ He kicked off the ground with all his strength and thrust both palms forward lik
 
 Blood-red Force flashed around his hands.
 
-The tremendous energy, enough to reduce even a boulder weighing ten thousand *geun* to dust in an instant, surged forward without resistance.
+The tremendous energy, enough to reduce even a boulder weighing ten thousand *geun* to dust, surged forward unchecked.
 
 Toward the sea-blue Sword Energy falling over the Demon Bird’s head.
 
-Toward the man who had brought that blade-sharp wave of Sword Energy crashing down.
+Toward the man who had brought that blade-sharp wave crashing down.
 
 Jin Mukyung.
 
@@ -60,7 +60,7 @@ One crushed the wind. The other cut through it.
 
 *Gooooom.*
 
-A distant flash. Air seething with heat.
+A distant flash. Seething air.
 
 As the red and blue lights raced toward each other, a thought struck the Demon Bird.
 
@@ -72,7 +72,7 @@ Perhaps the wall of enlightenment between Sword Energy Becoming Force and the le
 
 Even amid the raging gale, the Demon Bird could see the blue light shining clearly.
 
-That unwavering strike, descending at an angle along its destined path, was proof of all the enlightenment the young man had gained so far—and of his progress toward a new realm.
+That unwavering strike, descending at an angle along its chosen path, was proof of everything the young man had learned—and of his progress toward a new realm.
 
 *Rumble.*
 
@@ -84,7 +84,7 @@ And under pressure great enough to tear his body apart, Jin Mukyung closed his e
 
 It was a deep night, with even the moonlight dim. Once his sight was cut off, pitch-black darkness settled over him.
 
-It was so familiar. Every bit of energy and sensation in his body surged and flowed into the sword in his hand.
+It was so familiar. All the energy and sensation in his body surged toward the sword in his hand.
 
 He could see nothing, but he could feel it.
 
@@ -110,7 +110,7 @@ Just as it did now.
 
 The Demon Bird saw it clearly.
 
-A blue flash, so sharp it looked like a single thread, split his palm force from side to side. It was unbelievable.
+A blue flash so sharp it looked like a single thread split his palm force from side to side.
 
 And he marveled.
 
@@ -144,7 +144,7 @@ Even Cheol Mubaek and Wipeng, who had watched everything from closer than anyone
 
 The single, startlingly clear slicing sound from moments ago still rang in their ears.
 
-Along with a question they couldn’t understand.
+With it came a question none of them could answer.
 
 *What on earth…?*
 
@@ -154,7 +154,7 @@ The same thought crossed everyone’s mind.
 
 Red and blue had flashed within a distant, swelling blaze of light. That was all.
 
-Everyone on the battlefield had seen that dazzling light clearly, and at the same time, no one had seen a thing.
+Everyone on the battlefield had seen that dazzling light, yet no one had seen what happened.
 
 Now, only the two men standing a *jang* apart with their backs to each other could break the silence that had settled over the narrow gorge, thick with blood and corpses.
 
@@ -184,7 +184,7 @@ Dark red blood sprayed through the air and soaked the ground. Reflected in the r
 
 At the desperate cry from somewhere far away, the clamor of steel began again.
 
-Thinking of the familiar voice behind that cry, Jin Mukyung smiled faintly. The Demon Bird suddenly spoke to him.
+Jin Mukyung recognized the voice and smiled faintly. The Demon Bird spoke.
 
 “What was that strike?”
 
@@ -218,7 +218,7 @@ What he had trained was a martial art. In a sense, it wasn’t one at all.
 
 Only One Strike.
 
-He had spent two years searching for a single path for his sword, and today, in this place, he had glimpsed its very edge.
+He had spent two years searching for a single path for his sword, and today, here, he had caught a glimpse of where that path led.
 
 He had never thought to give the form a name.
 
@@ -230,7 +230,7 @@ A blue wave surges, and a bird falls.
 
 The Demon Bird murmured it like a line of poetry, then asked Jin Mukyung with unmistakable pride, “Well? Pretty good, isn’t it?”
 
-“Hard to say. It’s kind of cheesy.”
+“Hard to say. It’s kind of childish.”
 
 “Oh.”
 
@@ -238,7 +238,7 @@ Disappointment spread across the Demon Bird’s face. Then Jin Mukyung went on, 
 
 “But I suppose I could get used to it.”
 
-“Really? I knew you’d see it my way.”
+“Really? I thought so too.”
 
 The Demon Bird grinned from ear to ear.
 
@@ -246,7 +246,7 @@ He had no idea faint red lines were beginning to appear all over his body.
 
 No—he was doing his best to pretend he hadn’t noticed.
 
-“Heaven Shaking Sword, Jin Mukyung. Of the Jin Family of Taiyuan… Cough, you young Sword Demon.”
+“Heaven Shaking Sword, Jin Mukyung. Of the Jin Family of Taiyuan… Cough. Young Sword Demon.”
 
 *Drip. Drip.*
 
@@ -266,7 +266,7 @@ His eyes and voice burned with the obsession he had kept all his life: murder.
 
 The Demon Bird never finished.
 
-The red lines crossing his body, and the beads of blood swelling along them, finally burst in a magnificent explosion.
+The red lines crossing his body and the beads of blood swelling along them burst open.
 
 *FWOOSH!*
 
@@ -294,7 +294,7 @@ He gripped the sword hilt, which felt heavier than ever, and without hesitation 
 
 The force of his shout, carrying what little internal energy he had left, froze the air in the gorge.
 
-Jamukha’s personal guard, already well aware of the Demon Bird’s identity, was stunned by his end. The Shanxi defenders stared wide-eyed at the title of the fiend who had stained the world with blood long ago.
+Jamukha’s personal guard, who already knew the Demon Bird’s identity, were stunned by his death. The Shanxi defenders’ eyes widened at the name of the fiend who had stained the world with blood long ago.
 
 The Demon Bird was dead.
 
@@ -304,7 +304,7 @@ And in that same moment, another Supreme Peak master had been born.
 
 A tremendous roar shook the gorge. Their blood boiling like erupting lava, the Shanxi defenders charged without regard for their lives.
 
-They looked ready to swallow the personal guard, still frozen by the unexpected turn of events, and the nomads in the rear, bewildered by the connection between their Great Chieftain Chinggen and the Blood Soul Fat Demon.
+They bore down on the personal guard, still frozen by the unexpected turn, and the nomads in the rear, bewildered by the connection between their Great Chieftain Chinggen and the Blood Soul Fat Demon.
 
 “Attack!”
 
@@ -328,7 +328,7 @@ The blood mist that had briefly settled rose thick again.
 
 With the tide turned and their morale at its peak, the Shanxi defenders charged into the jaws of death.
 
-They swung their weapons with every last ounce of strength, and endured the pain, biting at their enemies until their final breath.
+They swung their weapons with every last ounce of strength. They endured the pain and tore at their enemies until their final breath.
 
 *Shhk! CRUNCH!*
 
@@ -350,7 +350,7 @@ The three commanders of a hundred were dead. So was the Demon Bird, an absolute 
 
 And even now, his men were dying to blades coming at them from every direction.
 
-And at the center of it all was a ghost, staggering as he drank in blood without end.
+At the center of it all stood a ghost, staggering as his sword drank blood without end.
 
 *Shhk. Shhk!*
 
