@@ -40,7 +40,7 @@ Even in Shanxi Province, dismissed as a backwater compared with the Central Plai
 
 *And now mounted bandits are hanging around here? Right on the border between Gansu and Shaanxi?*
 
-Even the craziest bastards knew to check whether they had somewhere to lie down before stretching out their legs.
+Even lunatics knew better than to pick a fight they couldn’t win.
 
 With the Kongtong Sect and the Black Dragon Demon Gate standing firm in Gansu, and Huashan and the Zhongnan Sect in Shaanxi, it made no sense for mounted bandits to swagger around here.
 
@@ -140,7 +140,7 @@ What mattered to me was the information the Lower District Sect member had.
 
 The Lower District Sect member repeated his warnings to the civilians who remained, then mounted his horse. The Wind-and-Cloud Sword Lord left a dozen or so Disciples behind to lead them safely to Shaanxi if danger arose.
 
-As soon as we set off, the Lower District Sect member’s first words were enough to leave everyone feeling as if they’d been smacked in the back of the head.
+As soon as we set off, the Lower District Sect member said something that left us all reeling.
 
 “To be honest, there are no mounted bandits.”
 
@@ -162,7 +162,7 @@ Jeok Cheongang sternly rebuked Hyuk Mujin, then turned to the frightened Lower D
 
 God, he’s terrifying.
 
-Just from listening to them, you’d think we were the Demonic Path Alliance, not the Murim Alliance.
+Just from listening to them, you’d think we were the Demonic Alliance, not the Murim Alliance.
 
 The Lower District Sect member, who didn’t seem to have a shred of internal energy, had gone pale under the pressure. He stammered out an explanation.
 
@@ -190,11 +190,11 @@ Only after I stepped in did tempers, boiling like a cauldron over a charcoal fir
 
 “Then all those people gathered in the village…”
 
-“I deliberately spread an exaggerated rumor. Trouble is about to break out in the western region, so we wanted to keep the civilians from getting caught up in it as much as possible.”
+“I deliberately spread an exaggerated rumor. Trouble is about to break out in the west, so I wanted to keep civilian casualties as low as possible.”
 
 “Dark Heaven is far away, but the mounted bandits are close?”
 
-“Exactly. Ningxia Province is pretty close, so the mounted bandits there are a greater threat than Dark Heaven beyond the desert. All the more so for someone like me, who hasn’t learned martial arts.”
+“Exactly. Ningxia Province is fairly close, so the bandits there are more frightening to them than Dark Heaven beyond the desert. Especially to someone like me, who hasn’t learned martial arts.”
 
 The Wind-and-Cloud Sword Lord, riding alongside us, frowned and cut in.
 
@@ -218,11 +218,11 @@ Everyone turned toward him. The Wind-and-Cloud Sword Lord cleared his throat and
 
 Namho cut in, picking up where the Wind-and-Cloud Sword Lord had left off.
 
-“That’s why Ningxia had always been a prize the Murim sects of the Central Plains couldn’t quite bring themselves to claim. The land was small and barren, and the people left there were all sorts of vicious bastards. Even if a sect took losses securing the territory, dealing with it afterward would be another problem. Am I right?”
+“That’s why Ningxia has always been a dilemma for the martial sects of the Central Plains: too much trouble to claim, but not something they could simply leave alone. The land is small and barren, and the only people left there are all sorts of vicious bastards. Even if a sect took losses securing the territory, dealing with it afterward would be another problem. Am I right?”
 
 The Wind-and-Cloud Sword Lord smacked his lips softly and nodded.
 
-“I don’t like admitting it, but I can’t deny it. Before the Great Faction War, we could only watch one another. Afterward, we suffered such heavy losses that we had to focus entirely on recovering.”
+“I don’t like admitting it, but I can’t deny it. Before the Great Faction War, we were too busy watching one another. Afterward, we suffered such heavy losses that we had to focus entirely on recovering.”
 
 I was starting to get the picture.
 
@@ -246,7 +246,7 @@ His answer took me by surprise.
 
 “What?”
 
-“No, they couldn’t. Ningxia was already lawless, and not only our sect but every martial faction in the surrounding area had only just recovered from the aftermath of the Great Faction War.”
+“No—they couldn’t. Ningxia was already lawless, and our sect and every other martial faction nearby had only just recovered from the Great Faction War.”
 
 “Then how on earth…”
 
@@ -254,9 +254,9 @@ His answer took me by surprise.
 
 “……!”
 
-Not a major sect like the Nine Sects and One Gang, but a single individual?
+Not a major sect like those of the Nine Sects and One Gang, but a single person?
 
-Everyone’s eyes widened at the answer they’d never expected.
+Everyone’s eyes widened.
 
 No wonder. From what we’d heard, Ningxia Province had once been utterly lawless.
 

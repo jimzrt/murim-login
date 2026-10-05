@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is largely faithful. One idiom is recast in a way that changes Ningxia’s strategic value.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 229",
+      "current": "That’s why Ningxia had always been a prize the Murim sects of the Central Plains couldn’t quite bring themselves to claim.",
+      "defect": "계륵 means something of little value that is nevertheless difficult to give up, not a prize that the sects were reluctant to claim. The current wording implies Ningxia was desirable.",
+      "replacement": "That’s why Ningxia had always been a dilemma for the Central Plains Murim sects—too small and barren to be worth taking, but not easy to ignore.",
+      "rationale": "The following explanation emphasizes the barren land and the danger of its remaining inhabitants, supporting the idiom’s sense of an unattractive but difficult-to-disregard prospect.",
+      "confidence": 0.97
+    }
+  ]
+}
