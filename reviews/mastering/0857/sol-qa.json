@@ -1,0 +1,63 @@
+{
+  "chapter": 857,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 1.852,
+    "source_characters": 5992,
+    "source_paragraphs": 176,
+    "translation_characters": 11100,
+    "translation_paragraphs": 162
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "조장",
+        "preferred": "Captain"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "고자",
+        "preferred": "eunuch"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "도도",
+        "preferred": "Dodo"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "천호",
+        "preferred": "Thousand Captain"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

@@ -80,7 +80,7 @@ Which made the man’s next words all the harder to believe.
 
 “Pardon?”
 
-“Hand over your badge right now and go where you belong. This will conclude your punishment for the mistake you made earlier.”
+“Hand over your badge and go where you belong. That will be the extent of your punishment for your earlier mistake.”
 
 “…!”
 
@@ -158,7 +158,7 @@ Commander Jeong watched him empty the flask and shake it for the last drops befo
 
 The young man stared into the empty flask as though liquor might appear if he waited long enough. Then he asked, “Do you mean that?”
 
-“Of course. You don’t seem to have reached the level of injuring others with Sword Energy, but the movement you just showed was extremely efficient and impressive.”
+“Of course. You don’t seem to have reached the level of injuring others with Sword Energy, but your movements just now were remarkably efficient.”
 
 “Thanks. Hearing that from someone way more skilled than me almost brings a tear to my eye. Though I could do without you talking down to me.”
 
@@ -186,13 +186,13 @@ The Embroidered Uniform Guard martial artists lined up behind Commander Jeong ex
 
 *What are we supposed to do in a situation like this?*
 
-*I don’t know. Captain Hong might know.*
+*I don’t know. Officer Hong might know.*
 
 *I don’t know, either.*
 
-*How can you not know, Captain Hong? You’re our Captain.*
+*How can you not know, Officer Hong? You lead our squad.*
 
-*Does a Captain have to be some kind of god? Still, Senior Officer Gal should know. He’s been around much longer than I have.*
+*What, does being squad leader make me a god? Senior Officer Gal should know. He’s been here much longer than I have.*
 
 *No. I don’t know, either…*
 
@@ -210,7 +210,7 @@ Commander Jeong slowly rode forward and looked down at the young man with his us
 
 “Are you done crying?”
 
-The young man answered in a tear-choked voice.
+“Not quite,” the young man answered thickly.
 
 “That doesn’t matter. You’re delaying us. Move aside.”
 
@@ -226,9 +226,9 @@ The young man sniffled.
 
 “I thought you said you’d been abandoned.”
 
-“Sometimes I get left behind when I’m with that person. Anyway, I don’t know why I ended up here, but they’ll be back soon.”
+“Sometimes I get left behind for a bit when I’m with that person. Anyway, I don’t know why I’m here, but he’ll be back soon.”
 
-Brush, brush.
+Pat, pat.
 
 The young man stood and dusted off his backside.
 
@@ -262,13 +262,13 @@ At the calm, cold answer, the young man shrugged and dropped something he’d be
 
 Tap.
 
-A faint sound, and a copper badge flashed as it caught the light. Three characters were engraved on its dirt-streaked surface.
+A copper badge caught the light. Three characters were engraved on its dusty surface.
 
 Embroidered Uniform Guard.
 
 “Whoops. Dropped it by accident. I was going to keep it as a souvenir.”
 
-His voice was exaggerated, but his gaze, fixed on Commander Jeong, had settled into a deep stillness.
+His voice was exaggerated, but his eyes were steady as he watched Commander Jeong.
 
 “I was only looking for the flask, but this weird thing came out with it.”
 
@@ -282,7 +282,7 @@ The Embroidered Uniform Guard drew their weapons and surrounded the young man in
 
 “Before I kill you, I’ll ask one thing.”
 
-“If you have time, ask as many as you like. I’d like to live a little longer, if possible.”
+“If you have time, you can ask as many things as you like. I’d rather live a little longer.”
 
 Something flickered in Commander Jeong’s eyes.
 
@@ -304,7 +304,7 @@ Commander Jeong nodded to Hyuk Mujin.
 
 None of this was a coincidence.
 
-Someone whose identity they didn’t know had been waiting for them from the start. They had surely placed people at every chokepoint the procession had to pass through.
+Someone unknown had been waiting for them from the start and must have stationed people along every stretch of road they had no choice but to pass.
 
 Commander Jeong needed to learn who it was. The answer came from somewhere he never expected.
 
@@ -312,12 +312,12 @@ Commander Jeong needed to learn who it was. The answer came from somewhere he ne
 
 There had been no sound. No trace of a presence.
 
-Yet the shadow of a young man had appeared among them, stretching down from a tree above.
+Yet a young man had appeared in a tree, his shadow falling across them.
 
 “We finally meet. How’ve you been?”
 
 “Do you… know me?”
 
-At Commander Jeong’s stiff question, the young man laughed.
+At Commander Jeong’s tense question, the young man laughed.
 
 “How the fuck would I know you, you son of a bitch?”

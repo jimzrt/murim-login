@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“That doesn’t matter. You’re delaying us. Move aside.”",
+      "defect": "The young man’s reply, “아직 조금 남았소” (“There’s still a little left”), is omitted before Commander Jeong says it does not matter. This removes a comic beat and makes the exchange jump directly from the question to the command.",
+      "id": "F01",
+      "rationale": "The Korean explicitly has the young man say he has a little more crying left before Commander Jeong tells him to move aside; the accepted baseline also preserves this reply as “Not quite.”",
+      "replacement": "“There’s still a little left.”\n\n“That doesn’t matter. You’re delaying us. Move aside.”",
+      "severity": "minor",
+      "source": "Lines 237–241"
+    }
+  ],
+  "summary": "The assembled English is largely faithful, but it omits a brief reply that the accepted baseline preserves and changes a sobbing sound into a hiccup.",
+  "version": 1
+}
