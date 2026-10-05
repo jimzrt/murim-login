@@ -2,7 +2,7 @@
 
 I won’t say the fight with Ma Sanbao was fiercer or harder than any I’d ever fought.
 
-There had been plenty of stronger opponents in the hellish battlefields I’d fought my way through. Even now, I could name several who’d been far worse than him.
+I’d faced plenty of worse opponents in the hellish battles I’d fought my way through. I could name several right now.
 
 But one thing was certain: today, Ma Sanbao had been stronger than me.
 
@@ -88,7 +88,7 @@ And at the end of it came my enemies’ blood and screams.
 
 “Gaaah!”
 
-I pushed forward, drenched in blood spraying like a fountain. I dodged the countless blades crashing in from every direction, knocked them aside, then sent them flying right back where they came from.
+I pushed forward, drenched in blood spraying like a fountain. I dodged the countless blades coming at me from every direction, knocked them aside, then sent the attacks right back.
 
 When the sword broke, I used a spear. When the spear snapped, an ax or a dagger.
 
@@ -126,19 +126,19 @@ The enemies kept blocking my way, no matter how many I killed. Their lips never 
 
 I fought to keep my ragged breathing quiet. Every muscle in my body throbbed as if I’d been electrocuted, and the hand that had grabbed Ma Sanbao’s sword could barely feel pain anymore.
 
-After pulling something that crazy, I was probably in terrible shape.
+After pulling something that crazy, it was probably a terrible sight.
 
 But I couldn’t show even the slightest weakness.
 
 Wolves hunted in packs, but no matter how hungry they were, they couldn’t bare their teeth at a lion that roared and charged them.
 
-They only tried to sink their teeth into a lion’s nape when it started backing away.
+They only tried to sink their teeth into its neck when it backed away.
 
 *Splash.*
 
 My heavy step sent the blood pooled around my ankles rippling.
 
-Like the blood still seeping from the countless wounds carved into my body, the blood reflecting the night sky was dark red.
+Like the blood seeping from the wounds all over my body, the blood beneath the night sky was dark red.
 
 *Can I do this?*
 
@@ -148,7 +148,7 @@ I’d killed over a hundred of them by my rough count, yet enemies still filled 
 
 The Great Nation’s—no, Dark Heaven’s—elite. They ranged from Supreme First Rate to the upper reaches of Peak. Each one was skilled, and each worshiped the Lord of Heaven like a fanatic.
 
-I had to defeat them all, every last fanatic who worshiped the Lord of Heaven, before I could reach Jeok Cheongang, who was still fighting a thunderous battle that seemed like it would never end.
+I had to get through them all to reach Jeok Cheongang. His earth-shaking battle was still going on, and it felt as though it might never end.
 
 *Goddammit.*
 
@@ -198,7 +198,7 @@ My gaze lingered on them for a moment. Only then did the countless whistles cros
 
 A deep shadow fell over my head.
 
-Hundreds of arrowheads flashed as they fell, all aimed at me alone. At the same moment, a red alarm bell rang violently inside my head.
+Hundreds of arrowheads flashed, all fired at me alone, and an alarm rang furiously inside my head.
 
 *Shit.*
 
@@ -220,17 +220,17 @@ I’d avoided using my Middle Dantian during the fight unless the danger was ext
 
 Bitter or not, I had to swallow it.
 
-I had to bear it myself.
+Bear the cost myself.
 
-There was no way in hell I was going to fall here, of all places.
+I had no intention of falling here.
 
-Just as I clenched my fist, ready to meet the arrows hurtling toward me with a ferocious whistle that seemed to tear through my ears—
+I was about to close my raised hand into a fist against the arrows screaming toward me when—
 
 “Turtle Shell! Defend!”
 
 At a shout from someone whose voice sounded familiar, a group swept in with blinding speed and surrounded me.
 
-They held up massive shields.
+Massive shields led the way.
 
 *Bam-bam-bam!*
 
@@ -242,7 +242,7 @@ Sparks lit up the darkness. Broken arrow fragments scattered in every direction.
 
 Blade Force swept across the sky in brilliant half-moons.
 
-The powerful energy formed a kind of barrier, slicing apart every arrow that flew toward them. The scattered fragments couldn’t pierce the gaps in their golden armor.
+That powerful energy formed a barrier, cutting apart every incoming arrow. The fragments couldn’t find a way through the gaps in their golden armor.
 
 *Clatter. Thud-thud-thud!*
 
@@ -272,11 +272,11 @@ Jeong Hogun struck his golden armor in a military salute. When he spoke again, h
 
 “…Huh.”
 
-“I’m sure you have plenty to ask me, and plenty you want to say. But I’d like you to save it until after this is over.”
+“I’m sure you have plenty to ask and plenty to say. But I’d like you to leave it until this is over.”
 
 Goddammit.
 
-If he came out with something like that before I could even open my mouth, there was nothing left to say.
+What was I supposed to say when he got that out before I’d even opened my mouth?
 
 I clicked my tongue and watched the enemies pressing in from all sides.
 
@@ -294,17 +294,17 @@ Jeong Hogun flinched at “peeping Tom,” then nodded.
 
 I understood immediately why he’d added those words.
 
-*So not So Gyo. No—more precisely, he doesn’t know, either.*
+*So not So Gyo. No—he doesn’t know about her, either.*
 
 It had to be that. Ma Sanbao hadn’t seemed to know, and neither had Cang Gong.
 
-Who that mysterious woman was, or what she had in mind.
+Who was that woman? What was she thinking?
 
 An unknown like that meant danger.
 
-*…Shit. Good thing I left the kids behind.*
+*…Fuck. Good thing I left the kids behind.*
 
-I muttered to myself and raised the ownerless spear I’d picked up moments ago, aiming it at the enemies surging toward us.
+I raised the ownerless spear I’d picked up moments ago and aimed it at the enemies surging toward us.
 
 I thought of the Fire Dragon Pavilion members, who should be somewhere safe, waiting for Murim Alliance reinforcements that weren’t coming.
 
@@ -318,12 +318,12 @@ They’d probably kick up a fuss later, repeating “Captain” like parrots. Bu
 
 What the fuck?
 
-I turned around, feeling as though I’d been possessed by a ghost, and spotted familiar faces appearing in the distance.
+I turned, feeling as though I’d heard a ghost, and spotted familiar faces in the distance.
 
 “Captaaaaaain!”
 
-More precisely, I saw Hyuk Mujin at the head of the Fire Dragon Pavilion members, hollering at the top of his lungs.
+Hyuk Mujin was at the head of the Fire Dragon Pavilion members, hollering at the top of his lungs.
 
 *Rumble-rumble-rumble!*
 
-And countless black figures trailing behind him like a tail.
+And countless black figures trailed behind them like a tail.

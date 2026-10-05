@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "Now wasn’t the time to care whether the medicine tasted bitter.",
+      "defect": "The English introduces medicine, which the Korean does not mention. The source says it was no time to distinguish bitter from sweet, followed by the thought that even if it was bitter, he had to swallow it.",
+      "id": "F01",
+      "rationale": "The next sentence preserves the source’s swallowing image; naming the substance as medicine adds a specific object not established by the Korean.",
+      "replacement": "Now wasn’t the time to care whether it was bitter or sweet.",
+      "severity": "minor",
+      "source": "Lines 223–225"
+    }
+  ],
+  "summary": "The assembled English is faithful overall, with one minor addition that makes an implied metaphor more explicit than the Korean.",
+  "version": 1
+}
