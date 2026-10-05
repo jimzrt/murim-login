@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "His two years of training had made losing his sight no problem",
+      "defect": "The Korean says that having his vision blocked was not a problem; “losing his sight” can imply blindness rather than temporary obstruction, changing the physical detail.",
+      "id": "F01",
+      "rationale": "The source specifies 시야가 차단된 것 (his field of vision being blocked), then contrasts it with blood getting into his eyes and disrupting his composure.",
+      "replacement": "His two years of training had made having his vision blocked no problem",
+      "severity": "minor",
+      "source": "Korean line 309"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one minor shift in how Jin Mukyung’s vision is described.",
+  "version": 1
+}

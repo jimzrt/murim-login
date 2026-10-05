@@ -114,7 +114,7 @@ Their cup had not yet shattered. Their enemies’ arrows might still be on the s
 
 His shout rose like wildfire, tearing through the night air.
 
-The old man pointed toward the gorge, where a fierce battle was raging.
+The old man pointed toward the gorge, where a fierce battle was raging. The steppe army was moving toward them below the fast-approaching hill, horns blaring, but he paid it no mind.
 
 “They are our neighbors, our friends, our comrades-in-arms! They swore beneath the same banner as we did. And they are the very people our family tried to turn its back on!”
 
@@ -156,7 +156,7 @@ At the old man’s next shouted question, the eyes of those riding through the d
 
 Thunderous hooves and blaring horns rang out one after the other.
 
-The sight of countless horsemen charging toward them through a hazy cloud of dust, just over three hundred yards away, did not shake a single one of them.
+Countless horsemen charged toward them through a pale cloud of dust, barely three hundred yards away. Not one of the fighters wavered.
 
 They were valiant fighters. Those men were losers who would soon be broken and crushed.
 
@@ -176,7 +176,7 @@ At that very moment—
 
 The twenty or so standard-bearers, who had waited through the past several days for this moment alone, raised their flags high.
 
-A blue tiger that looked ready to leap to life, and four characters stitched in a rough hand, billowed fiercely in the rushing wind.
+In the rushing wind, blue tigers that looked ready to leap to life and four characters stitched in a rough hand billowed into view.
 
 At last, they revealed themselves to everyone on the battlefield.
 
@@ -232,7 +232,7 @@ An old tiger might lose its strength and standing among its own, but the teeth a
 
 What’s more, the Hebei Peng Family was a renowned great family that ruled the north alongside the Murong Family.
 
-In that sense, the Thunderbolt Saber King and the martial artists of Hebei following him were showing exactly how they had earned the titles of Ten Kings and one of the Five Great Families.
+The Thunderbolt Saber King and the martial artists of Hebei following him were showing exactly how they had earned their places among the Ten Kings and the Five Great Families.
 
 *Boooo! Boooooo!*
 
@@ -282,11 +282,11 @@ The strike was so precise and swift it made Jin Mukyung’s skin crawl. His eyes
 
 *Shhk!*
 
-His hair fluttered. Blood sprayed from the gash cut into his forehead by the pressure alone, blinding him.
+Locks of hair flew. Pressure from the blade alone cut his forehead, and blood sprayed across his vision.
 
 *Damn it.*
 
-Jin Mukyung’s body jerked to a halt for an instant. His two years of training had made losing his sight no problem—but the blood in his eyes was enough to shake his composure.
+Mukyung froze for an instant. After two years of training, having his vision blocked was no problem. But blood touching his eyes was enough to shake his composure.
 
 For Jamukha, it was the perfect opening.
 
@@ -296,7 +296,7 @@ A chance to uproot the young Sword Demon, still unfinished but full of potential
 
 Jamukha raised his crescent saber, his voice low.
 
-He surpassed the Demon Bird in every respect. Even facing Jin Mukyung, exhausted to the limit, he did not let his guard down.
+In composure and in martial prowess alike, he surpassed the Demon Bird. Yet even against Mukyung, exhausted to the limit, he did not let his guard down.
 
 Calmly and without a word, he found the fastest, most precise path and brought his blade down.
 
@@ -310,7 +310,7 @@ With a fearsome whistle, a great saber shot in like a bolt of lightning and plun
 
 *Kaboom!*
 
-Beyond the boom that sounded as though the sky had split and the cloud of dust rising pale in its wake, the towering old man appeared. He bared his teeth in a grin at Jamukha.
+Beyond the boom that sounded as though the sky had split and the pale cloud of dust rising in its wake, a towering old man appeared. He bared his teeth at Jamukha in a grin.
 
 “Ready to die?”
 
