@@ -20,13 +20,13 @@ But unlike the scene I’d just imagined, reality was quiet. The cold killing in
 
 “That’s enough. Rein it in and put it away. Keep this up and you’ll put me in a bad mood.”
 
-I tossed out a few words, then pushed off a branch and dropped toward the ground.
+I tossed out the warning, then pushed off the branch and dropped toward the ground.
 
 No—I walked down through empty air, stepping on it as if it were a staircase.
 
 “Stepping on Empty Air…!”
 
-Someone’s gasp reached my ears. I could almost feel the Embroidered Uniform Guard’s blade-sharp aura waver.
+Someone’s startled voice reached my ears. I could almost feel the Embroidered Uniform Guard’s blade-sharp aura waver.
 
 *It burns through internal energy like crazy, but nothing beats it for this.*
 
@@ -42,7 +42,7 @@ I landed lightly on the ground. Waiting for me there was a beast howling miserab
 
 “Stop. Don’t come over here. Shut up.”
 
-“Where have you been all this time?! I was so scared!”
+“Where have you been all this time? I was so scared!”
 
 “…”
 
@@ -50,7 +50,7 @@ I’d gone to all that trouble to set the mood, and this bastard—
 
 I let out a deep sigh and pushed Hyuk Mujin away as he kept trying to hug me.
 
-“Ah, quit whining. I didn’t leave you behind.”
+“Quit whining. I didn’t abandon you.”
 
 “What?”
 
@@ -120,13 +120,13 @@ At my sudden praise, Hyuk Mujin furrowed his brow.
 
 “But don’t do that again. If you think you can’t win, take a step back and think of another way.”
 
-I patted Hyuk Mujin on the shoulder, then slowly turned around and added,
+I patted Hyuk Mujin on the shoulder, then slowly turned around.
 
 “Right, Your Excellency from the Embroidered Uniform Guard?”
 
-Our eyes met in midair.
+Our gazes met.
 
-His eyes were impassive, showing no particular emotion. Unlike the others, the man at the head of the procession hadn’t so much as blinked at my appearance. He spoke.
+His eyes were impassive, showing no particular emotion. Unlike the others, the man at the head of the procession hadn’t so much as blinked at my appearance.
 
 “You know that, and yet you blocked our way. Reckless, to say the least.”
 
@@ -206,7 +206,7 @@ An invisible force spread out from him. I licked my dry lips as I felt his aura�
 
 I’d suspected it from the moment I first saw him, but the man called Commander Jeong was a formidable master.
 
-No—by ordinary standards, even “formidable” was an understatement. His skill was enough to shatter a prejudice I’d held deep inside.
+No—by ordinary standards, even “formidable” was an understatement. His skill was enough to overturn a prejudice I’d held.
 
 *He doesn’t seem to have crossed the Supreme Peak threshold yet, but he’s at least at the very top of Peak.*
 
@@ -214,7 +214,7 @@ The authorities and Murim were always close and yet far apart.
 
 Murim was one forest within the Great Nation’s borders, but that forest was full of beasts like dragons and tigers.
 
-And yet, even among those serving the authorities, I’d rarely seen a proper master.
+And yet, among those serving the authorities, I’d rarely seen a proper master.
 
 Common soldiers were Third Rate or Second Rate, while martial officers were First Rate at best. Peak masters were rare among those in the military.
 
@@ -246,7 +246,7 @@ I had no intention of letting this standoff continue when neither side stood to 
 
 “Impressive aura, but you’d better put away those ugly weapons before someone gets hurt.”
 
-The instant I stepped forward after warning them—
+The instant I stepped forward—
 
 *Whoosh!*
 
@@ -256,7 +256,7 @@ A shaft of light shot straight at my face with a powerful crack of air. I caught
 
 Instead of a final scream, a tremor rolled through the ground.
 
-The archer, who’d leapt from the saddle of his fallen steed, stared at me in disbelief. An arrow was lodged in the center of the horse’s forehead.
+An arrow lodged squarely between its eyes, a fine steed collapsed. The archer leapt from its saddle and stared at me in disbelief.
 
 “I told you to put away what you were holding.”
 
@@ -274,7 +274,7 @@ Hyuk Mujin, scratching his grime-covered body as if he’d known this was coming
 
 “I’m sorry. I spoke out of turn.”
 
-“All right, got it.”
+“Good.”
 
 It was a peaceful conversation, as usual. But the tension around us had already grown so taut it felt ready to burst.
 
@@ -306,7 +306,7 @@ Jeong Hogun and I both turned our heads. Then we both dropped to one knee and bo
 
 *Step.*
 
-Beneath my lowered gaze, someone’s foot came into view—much larger than it had been in the last glimpse I remembered.
+Beneath my lowered gaze, someone’s foot came into view—much larger than it had been the last time I saw him.
 
 With it came a voice that had grown more mature, too. No longer the voice of a little child.
 
@@ -322,7 +322,7 @@ And before I could even answer, he handed me something he’d been holding.
 
 A secret letter.
 
-The moment that secretive word pierced my mind, Prince Shangshan leaned close to my ear and whispered,
+The moment that word flashed through my mind, Prince Shangshan leaned close to my ear and whispered,
 
 “Please give me your autograph.”
 

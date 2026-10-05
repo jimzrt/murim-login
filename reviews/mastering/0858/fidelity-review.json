@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.78,
+      "current": "“That’s enough. Rein it in and put it away. Keep this up and you’ll put me in a bad mood.”",
+      "defect": "“Put it away” can imply the guards have weapons drawn. At this point, the source describes their killing intent and asks them to rein it in; weapons are drawn later.",
+      "id": "F01",
+      "rationale": "The guards’ killing intent is the immediate context, and the source uses 갈무리해라 before any weapon is drawn. The later, explicit order to put weapons away makes the added implication here potentially confusing.",
+      "replacement": "“That’s enough. Ease up and rein it in. Keep this up and you’ll put me in a bad mood.”",
+      "severity": "minor",
+      "source": "Lines 23–25"
+    }
+  ],
+  "summary": "One minor wording issue: the line can imply the guards have already drawn weapons, though the source is about reining in their intensity.",
+  "version": 1
+}
