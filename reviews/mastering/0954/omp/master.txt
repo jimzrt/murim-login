@@ -4,11 +4,11 @@ When the sun sank toward the western mountains and darkness settled over the lan
 
 The cries of insects. Leaves brushing against one another.
 
-And, from hundreds of *jang* away, something like a shout from someone whose voice carried internal energy.
+And, from hundreds of *jang* away, a shout charged with internal energy.
 
 “I don’t know who that bastard is, but he’s got a set of lungs on him. Don’t you think?”
 
-At the low voice that pierced his ears, Temur swallowed nervously.
+Temur swallowed at the low voice beside him.
 
 In his trembling eyes was the reflection of a man smiling beneath the faint moonlight.
 
@@ -44,7 +44,7 @@ He’d never dreamed what would come of it.
 
 The Chinggen of his memory vanished. Temur jerked his head up like a man startled awake and answered in a trembling voice.
 
-To the man who had killed Chinggen—and had now become Chinggen.
+He was speaking to the man who had killed Chinggen—and had now become him.
 
 “Nothing. It’s nothing.”
 
@@ -78,7 +78,7 @@ Chinggen frowned and spat phlegm from his swaying saddle.
 
 The Great Wall, which a cruel emperor had built across a full ten thousand *li* after unifying the continent long ago, hardly deserved to be called a wall.
 
-Yet the north, which should have been unoccupied, was littered with obstacles everywhere.
+Yet the north, which should have been theirs for the taking, was littered with obstacles.
 
 *Losing the vanguard was one thing. I didn’t expect them to turn the whole place into such a filthy shitshow.*
 
@@ -88,7 +88,7 @@ Northern Shanxi Province, which they had reached through wind and rain, had been
 
 *Those lunatics. They burned down the places they’d been living in until recently, then left.*
 
-At Chinggen’s Sound Transmission, Jamukha’s lips moved, his expression still calm.
+Jamukha’s expression remained calm as his lips moved in reply.
 
 *Do you know Emperor Gaozu of Han?*
 
@@ -122,7 +122,7 @@ And at last…
 
 *The time has come.*
 
-Jamukha gazed into the pitch-black darkness. There, where even the moonlight was dimmed by dark clouds, he could almost see the enemy holding their spears and swords upright, struggling to master their trembling hearts.
+Jamukha gazed into the blackness ahead. Even the moonlight was dim behind the clouds, but he could almost see the enemy there, holding their weapons upright and struggling to still their trembling hearts.
 
 “Can you feel it? Their fear.”
 
@@ -138,11 +138,11 @@ To the nomads, death came cheap. Plunder and killing were taken for granted.
 
 “They don’t know where we came from! They don’t know what great conquerors our ancestors were!”
 
-It was as if the sound of their ancestors’ hooves, trampling across lands covered in frost and ice and crossing the dreadful, scorching desert, were faintly echoing in everyone’s ears.
+The force of his voice pressed down on the night. It was as though everyone could hear the distant hoofbeats of those ancestors trampling frost-covered lands and crossing deserts beneath a terrible sun.
 
 “Keep your eyes sharp as you draw your bows! Thrust your spears like a tiger’s claws! Cut through their flesh with crescent sabers like an eagle’s talons, then trample them beneath your horses’ hooves!”
 
-A light slowly kindled in the nomads’ slack eyes.
+A light slowly returned to the nomads’ weary eyes.
 
 They had marched without rest for more than half a month, through traps laid on every side. Thousands had lost horses they treasured as much as their own lives to poisoned iron caltrops. Thousands more had collapsed after drinking fouled water.
 
@@ -188,8 +188,6 @@ Beyond the gorge, the people waiting there felt the fierce vibration through the
 
 “So it comes to this, after all.”
 
-Jin Wikyung murmured, then looked down at his hand.
-
 Jin Wikyung looked down at his hand. It was clenched around his sword hilt, and it had begun to tremble.
 
 Why?
@@ -210,13 +208,13 @@ The old saying came to him suddenly. So did someone who hated it more than anyon
 
 *No. If you’re just going to leave it to Heaven in the end, why go through all that hell? You’ve got to make Heaven change its mind, even if you have to raise all kinds of hell to do it.*
 
-Yes, that was exactly what the guy would have said.
+Yes. That was exactly what he would say.
 
-Then, the next moment, he realized his hand had stopped trembling.
+Wikyung could almost hear his voice. A laugh escaped him before he knew it, and in the next moment, he realized his hand had stopped trembling.
 
 “Wipeng.”
 
-At the low call that cut through the thunder of approaching hooves, his longtime loyal retainer answered.
+His low call cut through the thunder of approaching hooves. His longtime retainer answered.
 
 “Your orders, my lord.”
 
@@ -250,7 +248,7 @@ A footfall sounded with startling clarity. Someone stepped out in front of them 
 
 Jin Mukyung was smiling.
 
-Amid the vibration and shouts that had swallowed the gorge.
+Amid the rumbling and shouts that had swallowed the gorge.
 
 In the darkness that had been his only friend for the past two years.
 

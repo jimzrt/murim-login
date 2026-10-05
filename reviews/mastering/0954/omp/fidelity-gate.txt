@@ -1,0 +1,45 @@
+{
+  "summary": "The translation is largely faithful, but it adds a daylight distinction, drops a voice-and-night image and a laugh, and repeats an action.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 5–7",
+      "current": "the quiet world carried sounds on the wind that no one could hear by day.",
+      "defect": "“By day” adds a time-of-day distinction the Korean does not establish; it says these sounds had not been heard until now.",
+      "replacement": "the quiet world carried sounds on the wind that had been impossible to hear until now.",
+      "rationale": "The source contrasts the quiet world with things that could not previously be heard, not with daytime.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 171, between the speech and the ancestors’ hoofbeats",
+      "current": "It was as if the sound of their ancestors’ hooves, trampling across lands covered in frost and ice and crossing the dreadful, scorching desert, were faintly echoing in everyone’s ears.",
+      "defect": "The assembled English omits the separate image of Jamukha’s forceful voice pressing down on the night air.",
+      "replacement": "His forceful voice pressed down on the night air. It was as if the sound of their ancestors’ hooves, trampling across lands covered in frost and ice and crossing the dreadful, scorching desert, were faintly echoing in everyone’s ears.",
+      "rationale": "The Korean states this image immediately before describing the ancestors’ hoofbeats; the accepted baseline also preserves it.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 271",
+      "current": "Yes, that was exactly what the guy would have said.",
+      "defect": "The translation omits Jin Wikyung’s involuntary laugh at the vivid voice in his ears.",
+      "replacement": "Yes, that was exactly what the guy would have said. At the vivid voice ringing in his ears, Jin Wikyung let out a laugh before he knew it.",
+      "rationale": "The source explicitly describes him laughing before the next beat, when he realizes his hand has stopped trembling; the accepted baseline preserves that action.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 237–239",
+      "current": "Jin Wikyung looked down at his hand. It was clenched around his sword hilt, and it had begun to tremble.",
+      "defect": "The assembled copy repeats that Jin Wikyung looked down at his hand; the source describes that action only once.",
+      "replacement": "His hand was clenched around his sword hilt, and it had begun to tremble.",
+      "rationale": "The preceding sentence already translates the source’s single action of looking down at his hand.",
+      "confidence": 1.0
+    }
+  ]
+}
