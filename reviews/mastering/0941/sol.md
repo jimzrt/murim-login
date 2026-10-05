@@ -30,11 +30,11 @@ He was right.
 
 The Emperor wasn’t the only one waiting for me in front of the Imperial Capital’s North Gate.
 
-*That’s…*
+*Oh.*
 
 Familiar faces came into view.
 
-The Thousand Captain of the Embroidered Uniform Guard, Jeong Hogun—the first face I’d seen at the imperial court, and the one I’d seen most often since—was only the beginning.
+Jeong Hogun, the Embroidered Uniform Guard’s Thousand Captain—the first of them I’d met, and the one I’d seen most often—was only the beginning.
 
 Baek Yeon and Hong Jin, who should have been busier than anyone else right now, were there too. And I spotted someone I hadn’t seen in days.
 
@@ -54,7 +54,7 @@ I gave Zhu Bao, who sat in his saddle looking ready to burst into tears, a faint
 
 “How dare you…!”
 
-His suppressed voice was accompanied by an air that instantly turned cold.
+His voice was low, and the air went cold at once.
 
 But after glaring at me for a moment, the Emperor burst into the laughter he’d been holding back.
 
@@ -64,7 +64,7 @@ But after glaring at me for a moment, the Emperor burst into the laughter he’d
 
 Gasps sounded here and there.
 
-Most of the people—especially the court ministers who had no idea why they were even here—looked at one another as if to ask whether this was really happening.
+Most of the people—especially the court ministers, who looked as if they had no idea why they’d been brought here—glanced at one another as though to ask whether this was really happening.
 
 The Emperor, of course, was still smiling.
 
@@ -72,11 +72,11 @@ The Emperor, of course, was still smiling.
 
 Without waiting for my reply, he continued.
 
-“But you think and act according to justice, righteousness, and chivalry. You are truly a hero of your age, worthy of the admiration of all.”
+“But you think and act according to what is right, to righteousness, and to chivalry. You are truly a hero of your age, worthy of everyone’s respect.”
 
 *Clip-clop. Clip-clop.*
 
-The Emperor rode slowly toward me until he was right in front of me. He gazed at me for a moment, then suddenly raised a hand to his shoulder.
+The Emperor rode slowly toward me until he was right in front of me. He studied me for a moment, then reached up to his shoulder.
 
 *Slip. Thump.*
 
@@ -98,11 +98,11 @@ The court ministers trembled as if they’d suffered strokes, staring aghast at 
 
 Shouts came from every direction.
 
-But their desperate voices were swallowed by the wind at the Emperor’s curt command.
+But the Emperor’s curt command swallowed them all.
 
 “Enough.”
 
-In the heavy silence pressing down on those around us, the Emperor turned his gaze to me and spoke.
+In the heavy silence, he turned back to me.
 
 “Go on. It’s just a little gift from me.”
 
@@ -134,7 +134,7 @@ I answered in disbelief.
 
 The sudden turn of events had me hesitating, but the Emperor was firm.
 
-“Please don’t refuse. If you do, something will happen that you’ll deeply regret.”
+“Please don’t refuse. If you do, something might happen that you’ll deeply regret.”
 
 “What?”
 
@@ -160,11 +160,11 @@ Maybe, just a little…
 
 *We were alike.*
 
-I had fought to protect what was precious to me. He, too, had made sacrifices for someone else.
+I had fought to protect what was precious to me. He, too, had sacrificed himself for someone else.
 
 He’d wagered his life without hesitation, and he didn’t regret it.
 
-The only difference was where we stood and what we saw. Just like me, the Emperor was only human.
+Only where we stood and what we saw were different. Just like me, the Emperor was human.
 
 Someone who knew how to be grateful for help, who liked jokes, who feared death.
 
@@ -194,7 +194,7 @@ The Emperor continued in a solemn voice.
 
 *Shing.*
 
-A flash of light suddenly leapt from his waist. The Emperor drew the imperial sword, his eyes gleaming as he shouted,
+A flash of light leapt from his waist. The Emperor drew the imperial sword, his eyes gleaming as he shouted,
 
 “From this moment, I also grant you the post of Thousand Captain of the Embroidered Uniform Guard. Lead a thousand guards and, by imperial command, swiftly put down the foreign bandits who disturb the order of the realm!”
 
@@ -208,7 +208,7 @@ I could hardly breathe. My chest thudded.
 
 That wasn’t my heartbeat.
 
-The thousand Embroidered Uniform Guards standing in formation on either side stamped their feet with all their might. They clashed their weapons together and struck their armor.
+The thousand Embroidered Uniform Guards standing in formation on either side were stamping their feet. They clashed their weapons and struck their armor.
 
 For the Emperor.
 
@@ -264,7 +264,7 @@ His voice flowed on, and he added quietly,
 
 “Be neither my subject nor my citizen… Just be someone who shines a light upon this world.”
 
-His words, low and heavy, rang in my ears like a final testament.
+His low, solemn words rang in my ears like a final farewell.
 
 * * *
 
@@ -272,15 +272,15 @@ Meeting and parting are inseparable.
 
 Where there’s a meeting, there’s a parting; and after a parting, another meeting awaits.
 
-Even so, the moment of parting is always bitter and full of regret.
+Even so, parting is always bitter. It always leaves something to be wished for.
 
 Especially for a child saying goodbye to someone he had relied on so deeply.
 
 *Tap. Drip.*
 
-Moisture fell onto the saddle.
+Tears dampened the saddle.
 
-Rather than look at his youngest brother’s silently weeping face, the Emperor gazed at the empty places left by those who had departed and spoke calmly.
+Rather than look at his youngest brother’s silently weeping face, the Emperor gazed at the empty places left by those who had departed.
 
 “Are you that sad?”
 
@@ -294,13 +294,13 @@ As heir to the Great Nation, Zhu Bao would have to face the coming war. He had b
 
 “I’m not sad at all.”
 
-“That’s very strange.”
+“That’s strange.”
 
 “Pardon?”
 
 “I’m sorry to see them go. How can you, not even fifteen yet, feel no sadness?”
 
-Zhu Bao looked up in surprise. The Emperor’s smiling face was reflected clearly in his eyes.
+Zhu Bao looked up in surprise. The Emperor’s smiling face filled his eyes.
 
 “Bao’er.”
 
@@ -318,7 +318,7 @@ Zhu Bao stared at him, too stunned to answer. The Emperor spoke gently.
 
 *Tap.*
 
-With an awkward hand, the Emperor stroked Zhu Bao’s head. Then he turned his horse around and rode away.
+The Emperor stroked Zhu Bao’s head with an awkward hand. Then he turned his horse around.
 
 He repeated something someone had once told him.
 
@@ -326,18 +326,18 @@ He repeated something someone had once told him.
 
 As sobs rose behind him, the Emperor hoped that Zhu Bao—his youngest brother, at least—would not follow in his footsteps.
 
-*I… realized far too late.*
+*I… realized it far too late.*
 
 A faint smile touched the Emperor’s lips. Just then, a fine horse came galloping through the enormous iron gate as it slowly closed.
 
-*Wait. That man…*
+*Wait. That’s…*
 
-Amid a situation he couldn’t understand, the Emperor saw the man who had returned and asked,
+The Emperor couldn’t make sense of the man’s return.
 
 “Did you leave something behind, Divine Physician?”
 
 “Yes.”
 
-The Divine Physician smiled and continued,
+The Divine Physician smiled.
 
 “I left a patient behind.”
