@@ -84,7 +84,7 @@ Just like the two men squatting beside the roadside wall now.
 
 “Do I need another reason to see Shanxi’s foremost beauty? I saw her from far away once, half a year ago, and my blurry old eyes cleared right up.”
 
-“Have you considered that one good whack from your wife might make everything go dark? And calling her Shanxi’s foremost beauty hardly does her justice. She leads the Mount Heng Sword Sect despite being a woman—and she’s formidable. If you cross her the wrong way, you won’t walk away in one piece.”
+“Have you considered that one good whack from your wife might make everything go dark? And Shanxi’s foremost beauty is only part of it. She leads the Mount Heng Sword Sect despite being a woman, and she’s formidable. Cross her the wrong way and you won’t walk away in one piece.”
 
 The man gazed dreamily into space, then swallowed.
 
@@ -114,7 +114,7 @@ Most of what they said was idle chatter, but some of it was worth the coachman�
 
 “Have you heard? The Jin Family of Taiyuan’s blacksmith shop has been making nothing but weapons lately.”
 
-“I thought you were about to say something important. That’s been going on for a while, hasn’t it? The Jin Family of Taiyuan is a Murim sect. It’s hardly strange.”
+“I thought you were about to tell me something new. They’ve been doing that for a while, haven’t they? The Jin Family is a Murim family. It’s hardly strange.”
 
 “True. But for the past six months, they’ve dealt exclusively in weapons. If you want farming tools, you’ll have to go at least as far as Gohyeon.”
 
@@ -206,7 +206,7 @@ Beyond the wooden lattice, children were laughing in a clean, orderly street.
 
 The coachman’s mouth fell open at the thought that someone of such high standing had lived through that. His employer watched the people passing slowly by and smiled faintly.
 
-“It’s nice to see everyone looking so happy.”
+“It’s good to see them all.”
 
 It had happened a very long time ago.
 
@@ -240,9 +240,9 @@ His employer—or rather, Hong Jin, Deputy Military Commissioner of Shanxi Provi
 
 “……!”
 
-“You thought I wouldn’t know, didn’t you? But they’ve probably figured it out to some extent already. No matter how secretly the Embroidered Uniform Guard operates, they can’t avoid that many eyes.”
+“You thought I didn’t know? But they’ve probably noticed something by now. No matter how discreetly the Embroidered Uniform Guard moves, it can’t escape that many eyes.”
 
-The fact that Hong Jin knew his identity, and the existence of the Embroidered Uniform Guard, said to act only on the Emperor’s orders.
+Hong Jin knew the coachman’s identity. And the Embroidered Uniform Guard—said to move only on the Emperor’s orders—was here.
 
 The coachman couldn’t decide which shocked him more. Then he realized what he needed to ask.
 
@@ -252,7 +252,7 @@ The coachman couldn’t decide which shocked him more. Then he realized what he 
 
 “One person?”
 
-“Someone who can protect us in any situation—or rather, His Highness Prince Shangshan. The most trustworthy person in all Murim.”
+“Someone who can protect us in any situation—no, someone who can protect His Highness Prince Shangshan. The martial artist we can trust most.”
 
 Hong Jin spoke slowly, emphasizing every word.
 

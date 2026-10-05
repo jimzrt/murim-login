@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled copy is largely faithful, with one small shift in the beauty-related banter.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 101–102",
+      "current": "And calling her Shanxi’s foremost beauty hardly does her justice.",
+      "defect": "The Korean frames “Shanxi’s foremost beauty” as a flattering way to put it before pivoting to her standing as a formidable sect leader. “Hardly does her justice” instead implies the beauty title understates her qualities, shifting the joke’s logic.",
+      "replacement": "And so much for calling her Shanxi’s foremost beauty—she leads the Mount Heng Sword Sect, and she’s formidable.",
+      "rationale": "“말이 좋아서 산서제일미지” sets up a contrast with the description that follows; it does not say the title fails to do her justice.",
+      "confidence": 0.87
+    }
+  ]
+}
