@@ -14,7 +14,7 @@ Beyond the wind whipping around me, I brought White Flame down on the blood-red 
 
 The enormous Palm Force split in two along the path of my spearhead.
 
-Leaving behind the tremendous impact and explosion as the deflected Palm Force shook the cliffs on either side, I planted my foot on the ground once more.
+The deflected force struck the cliffs on either side with a tremendous crash. Leaving the explosions behind, I planted my foot on the ground once more.
 
 *Tap.*
 
@@ -62,7 +62,7 @@ The North Heaven Demon Lord glared at me, gripping my spearhead in one hand. Str
 
 *Zzzzzzt!*
 
-An unprecedented energy flared up like a wildfire, pressing down on the flames carried by my spearhead. The power the North Heaven Demon Lord had gained by burning even his own life came at a steep and tremendous price: a death already set in stone.
+Power unlike anything I’d felt before flared like wildfire, pressing down on the flames carried by my spearhead. The North Heaven Demon Lord had gained that strength by burning his own life, and the price was as terrible as it was certain: death.
 
 Even with all my fatigue and injuries completely healed after I took down Jamukha, victory seemed impossible.
 
@@ -84,23 +84,21 @@ But I knew. So did he.
 
 Even without seeing each other, we knew each other too well.
 
-So, without the slightest fear or hesitation, we moved as the thought flashed through our minds.
+I could move on the thought that flashed through my mind without the slightest fear or hesitation.
 
 *Slip.*
 
-The instant I let go of the spear shaft and turned halfway around—
-
-A streak of flame, hidden behind my body—a frame massive enough to be called a giant—filled the space I’d left and exploded.
+The instant I let go of the spear shaft and turned halfway around, a streak of flame burst into the space I’d left. Until then, it had been hidden behind my body—a frame more than large enough to be called massive.
 
 *Gooooong.*
 
-Like the breath of a fire dragon from legend, pure white hellfire blazed across the darkness.
+Like the breath of a fire dragon from legend, pure white hellfire lit the darkness for miles around.
 
 It burned away the dew in the dawn air, vaporizing it as it rushed toward the North Heaven Demon Lord.
 
 *Fire. King.*
 
-His lips moved ever so slightly, forming a soundless cry. His eyes, heated by the scorching air, wavered, losing their focus.
+His lips barely moved, forming a soundless cry. His eyes wavered in the scorching heat, unable to settle on a direction.
 
 Confusion and fear he couldn’t hide.
 
@@ -134,7 +132,7 @@ The world shook. A relentless wave of force swept in every direction, and the gr
 
 The ground split like a spiderweb, unable to withstand the tremendous pressure.
 
-As I had done at the last moment, the North Heaven Demon Lord twisted his body and changed direction. His whole frame shuddered violently like a tree caught in a typhoon.
+As I had done a moment before, the North Heaven Demon Lord twisted his body and changed direction. His whole frame shuddered like a tree caught in a typhoon.
 
 His face twisted like a Fiend’s as he caught Jeok Cheongang’s fist in one hand and both of the Bow Saint’s curved blades in the other.
 
@@ -144,11 +142,11 @@ No matter how many years a monster spent wearing a human face, its nature didn�
 
 The North Heaven Demon Lord—Murong Baek—had crossed a river from which there was no return.
 
-Like so many other monsters who had pursued the Demonic Path for their own reasons, heading off somewhere beyond it.
+Like so many other monsters who, for reasons of their own, had followed the demonic path to wherever it led.
 
 *Crack—splatter!*
 
-Blood gushed from the flesh and joints of bone, slowly being cut and crushed.
+Blood spurted from flesh and bone as his hands were slowly cut and crushed.
 
 The North Heaven Demon Lord convulsed in pain beyond anything he had imagined.
 
@@ -168,15 +166,15 @@ The North Heaven Demon Lord’s words broke apart between gasping breaths. Jeok 
 
 “Everyone dies. People and monsters alike.”
 
-The blood-red light that seemed about to devour the whole world and the force that had been pressing down on everything around us were nowhere to be seen now.
+The blood-red light that had seemed ready to devour the world was gone. So was the wave of qi that had pressed down on everything around us.
 
-Even if some remained, they were fading like a lamp before the wind.
+Whatever remained was fading like a flame in the wind.
 
 *Krrrk.*
 
 The pressure was more than one hand could withstand.
 
-Before the white hellfire Jeok Cheongang drew forth with all his strength, alongside his quiet reply, the North Heaven Demon Lord finally dropped to one knee.
+Before the white hellfire Jeok Cheongang drew forth with all his strength, the North Heaven Demon Lord finally dropped to one knee.
 
 *BOOM!*
 
@@ -188,9 +186,9 @@ What life has a right answer?
 
 Life isn’t multiple choice. It isn’t a test graded on short answers or essays, either.
 
-Whatever life a person has lived, looking back, there will always be at least one thing they regret. That is what human life is.
+Whatever life a person has lived, they’ll find at least one regret when they look back. That’s what it means to be human.
 
-But both the judgment and the consequences are your own. That’s all.
+But your judgments and their consequences are yours. That’s all.
 
 “Murong Baek, the Divine Spear of the Imugi. No—the North Heaven Demon Lord. It’s time to accept the consequence of your choice.”
 
@@ -198,11 +196,11 @@ There’s a reason and a history behind every martial artist’s sobriquet.
 
 When I heard that unfamiliar one from the Bow Saint’s lips, I felt as though I’d caught a glimpse of the life Murong Baek had lived.
 
-The imugi.
+An imugi.
 
-An imugi that never became a dragon.
+A serpent that had never become a dragon.
 
-And at the same time, an imugi that had wanted to become a dragon more than anyone.
+And one that had wanted to become a dragon more than anyone.
 
 Maybe that was why.
 
@@ -220,9 +218,9 @@ The day I understood him would be the day I became a monster, too, on the far si
 
 “Before you go, know this.”
 
-With a quiet voice, I reached out.
+I reached out as I spoke.
 
-The pure white spear shaft the North Heaven Demon Lord had been forced to let go of to face Jeok Cheongang and the Bow Saint flew into my grip as though drawn there.
+The white spear shaft the North Heaven Demon Lord had been forced to release to face Jeok Cheongang and the Bow Saint flew into my grip as though drawn there.
 
 “Not everyone in the world makes the same choice you did.”
 
@@ -232,7 +230,7 @@ That’s how this world has always been—always, without fail.
 
 The law of the jungle existed not just in Murim, but in the modern world, too. And it would continue to exist, with means other than spears and swords.
 
-But if everyone made the same choice as the North Heaven Demon Lord out of fear of being cast aside, the world would already have become a hellscape.
+But if everyone made the same choice as the North Heaven Demon Lord out of fear of being cast aside, the world would already be a hellscape.
 
 A place without even the barest sense of decency or benevolence.
 
@@ -240,7 +238,7 @@ A terrible world that went on endlessly for one purpose alone: to devour others 
 
 But not everyone is like the North Heaven Demon Lord. That’s why I still think this world is worth living in.
 
-And I believe, too—
+And I believe something else, too.
 
 Among all those countless people scattered like stars across the night sky, whoever gave such inexplicable power to an unremarkable F-rank Hunter must feel the same way.
 
@@ -248,7 +246,7 @@ Among all those countless people scattered like stars across the night sky, whoe
 
 I didn’t wait for an answer.
 
-I simply thrust my spearhead, wreathed in blue-white flames, into him—quietly and without hesitation.
+Quietly, firmly, I drove the spearhead wreathed in blue-white flames forward.
 
 Toward the North Heaven Demon Lord, who still refused to give up, struggling as he burned through every bit of life left in his body.
 
@@ -276,7 +274,7 @@ Whenever it woke, the world had changed. It had once slept for decades, after al
 
 But as the years passed and the intervals between its awakenings grew shorter, it had begun to realize something.
 
-The day it had thought it would never reach had, at some point, drawn right up to its doorstep.
+The day it had thought it would never reach was now close at hand.
 
 *Fwoooosh.*
 
