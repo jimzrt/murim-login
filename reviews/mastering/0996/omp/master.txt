@@ -24,7 +24,7 @@ The words came to mind without hesitation, and there wasn’t a shred of exagger
 
 That’s right.
 
-I’m stronger now than I’ve ever been.
+I was stronger than I’d ever been.
 
 I’d fully absorbed the Heavenly Power Demon’s energy, which had remained inside me for quite some time without being completely assimilated, and the Thunderbolt Saber King’s as well.
 
@@ -44,7 +44,7 @@ In that sense, the four jiazi of internal energy reborn through complete fusion 
 
 Wanting more would be greedy.
 
-Even I, with the mysterious divine strength known as the System, had risked my life twice while undergoing Transmitting Internal Energy Across the Body.
+Even I, with the mysterious divine strength of the System, had risked my life through both transfers.
 
 And yet I couldn’t help feeling a little disappointed. The reason was the reality I’d faced the moment I finished circulating my qi.
 
@@ -88,7 +88,7 @@ I gestured it away from the corner of my vision and remembered the conversation 
 
 “If Dark Heaven crosses Xinjiang and cuts through the desert, as the information from the Hidden Shadow Pavilion suggests, where would it focus its attack?”
 
-“The Murim Alliance is considering three possibilities at once. They might advance through Tibet, which could be considered part of the Outer Lands. They might target Gansu Province, where the Kongtong Sect and Black Dragon Demon Gate are holding their ground. But the most dangerous place is probably…”
+“The Murim Alliance is considering three possibilities. They might advance through Tibet, which could be considered part of the Outer Lands. They might target Gansu Province, where the Kongtong Sect and Black Dragon Demon Gate are holding their ground. But the most dangerous place is probably…”
 
 “Qinghai. The Kunlun Sect, then.”
 
@@ -100,7 +100,7 @@ Its highlands included terrain so rugged it was downright forbidding, making it 
 
 Merchants would risk their lives for profit, but even they couldn’t cross a desert knowing death awaited them.
 
-But even setting all that aside, Qinghai was an indispensable strategic stronghold from a military standpoint.
+Set all that aside, though, and Qinghai was an indispensable strategic stronghold.
 
 One side had to defend it. The other had to trample it underfoot to get past.
 
@@ -124,13 +124,13 @@ I could picture the whole of Murim in the Central Plains—including the Nine Se
 
 *It’s coming. The all-out war we can’t avoid.*
 
-The drums of war had been pounding across the land for a long time. But the countless enemies even now crossing the desert toward somewhere in the west weighed on my heart more heavily than ever.
+The drums of war had been sounding across the land for a long time. But the thought of those countless enemies even now crossing the desert toward somewhere in the west weighed on my chest more heavily than ever.
 
 Those who meant to defend, and those who meant to take.
 
 A battle unlike anything we’d faced so far awaited us all in the west. Each side would stake its fate on it.
 
-*The fate of this world might be decided by a single battle, soon to come.*
+*The fate of this world might be decided by a single battle.*
 
 Maybe that was why the System had suddenly malfunctioned. Why this absolute law, which had never strayed from its set path no matter what happened, had begun to waver.
 
@@ -148,21 +148,21 @@ Or perhaps death.
 
 *Damn it.*
 
-Nothing ever goes smoothly.
+Nothing ever went smoothly.
 
-I gave a bitter smile to myself, then spoke to someone waiting beyond the firmly shut door.
+I gave a bitter laugh and spoke to the person waiting beyond the firmly shut door.
 
 “We leave in exactly fifteen minutes.”
 
 “As you command.”
 
-I heard Hyuk Mujin’s footsteps receding after his unusually forceful reply. As I stood, I suddenly sensed something strange and turned around.
+Hyuk Mujin’s reply carried an unusual force. I heard his footsteps recede and rose from my seat, only to sense something strange and turn my head.
 
 Tap. Tap-tap.
 
 Something damp and white drifted into the room on the wind.
 
-I looked at the unwelcome visitor that had arrived months ahead of schedule—the snowflakes slowly piling up—and remembered a line from the Quest window.
+I watched the snowflakes slowly accumulate, months ahead of their time, and remembered a line from the Quest window.
 
 *The world—and the heavens—are being turned upside down.*
 
@@ -174,7 +174,7 @@ Because the world as I felt it now—and the sky spilling those white snowflakes
 
 The light in the room was dim.
 
-It was already pitch-black outside, and the wind seeping through the crack in the door made the candle flame flicker precariously.
+It was already dark outside, and wind slipping through the crack in the door made the candle flame waver.
 
 Yet the man reading the letter in his hand didn’t so much as twitch an eyebrow. Years of grueling training since childhood had honed his eyesight enough to distinguish its tiny writing even by a flame that looked ready to go out.
 
@@ -184,11 +184,11 @@ He stared at the letter he’d already read several times. In his eyes, the wave
 
 The handwriting was sharp as a blade, and beside it was a familiar official seal.
 
-Guessing who had sent the letter, he muttered softly.
+He knew who had sent it.
 
 “You haven’t changed, have you?”
 
-His voice echoed hollowly, low and subdued.
+His low voice echoed hollowly.
 
 The letter wasn’t a request or a favor. It was an order.
 
@@ -204,7 +204,7 @@ The word came after a brief hesitation.
 
 It still felt unfamiliar. As he murmured it, he remembered a rigid, cold childhood with no room for dreams, only purpose—and the stern pair of eyes that had watched him through it.
 
-Creepy as it was, those eyes still seemed to be watching everything he did.
+Even now, those eyes seemed to be watching his every move.
 
 Perhaps that was why he failed to notice someone approaching outside the door.
 
@@ -212,7 +212,7 @@ Thump.
 
 “Ugh!”
 
-A sudden noise overlapped with a cry of pain. Then a sharp shout rang out, breaking the silence.
+A cry of pain followed the sudden noise. Then a sharp shout broke the silence.
 
 “You idiot! Height! I told you to mind your height!”
 
@@ -220,7 +220,7 @@ A sudden noise overlapped with a cry of pain. Then a sharp shout rang out, break
 
 “You little punk! Is this because I didn’t give you any sweets?”
 
-Guessing the intruders’ identities, he tossed the letter in his hand into the lamp.
+He recognized the voices. Taking the letter in his hand, he tossed it into the lamp.
 
 Fwoosh. Crackle.
 
@@ -232,7 +232,7 @@ Or rather, it was smashed to pieces.
 
 “My lord! Are you ready?”
 
-*Bam!*
+Bam!
 
 The booming shout came with a shower of splinters. But the man—Sama Pyo—didn’t look the least bit startled. He picked up the travel bag beside him and stood.
 
@@ -246,9 +246,9 @@ Namho, perched on Taishan’s shoulders, spat out a few pieces of wood.
 
 “That sounds like a reasonable amount to me. Not excessive.”
 
-“…It’s a wonder the Black Dragon Demon Gate hasn’t gone bankrupt. He’s a gluttonous demon through and through.”
+“…It’s a wonder the Black Dragon Demon Gate hasn’t gone bankrupt. He’s a hungry ghost.”
 
-Sama Pyo gave a short laugh. He already knew that the old Hidden Shadow Pavilion agent, who hadn’t seemed all that pleasant at first, had a warm heart and a fair amount of affection for others.
+Sama Pyo gave a short laugh. He already knew that the old Hidden Shadow Pavilion agent, who hadn’t seemed especially pleasant at first, was warmer and more affectionate than he let on.
 
 “More importantly, what were you doing in here alone?”
 
@@ -256,7 +256,7 @@ Sama Pyo gave a short laugh. He already knew that the old Hidden Shadow Pavilion
 
 “Is that so?”
 
-Namho glanced over Sama Pyo’s shoulder, but the letter, soaked through with oil, had already burned away without a trace.
+Namho glanced over Sama Pyo’s shoulder, but the oil-treated letter had already burned away without a trace.
 
 “Then put that fire out before you come out. The weather’s shitty enough without you burning down someone else’s thatched cottage.”
 
