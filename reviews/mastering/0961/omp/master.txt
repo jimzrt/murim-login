@@ -70,7 +70,7 @@ As the Demon Bird surveyed them with satisfaction, Wipeng spat.
 
 “Of course I can. I can already picture your corpse lying there in a moment.”
 
-“You have to see how long or short it is before you can tell.”
+“We’ll see about that.”
 
 “That’s the kind of bullshit weaklings say.”
 
@@ -138,7 +138,7 @@ He was the Disciple of a great fist fighter who had lost both arms to a fiend lo
 
 *Whoooooom—BANG!*
 
-Compressed air exploded. Fist Energy shot from his spinning fist and engulfed his master’s killer.
+Compressed air burst outward. Fist Energy shot from his rotating punch and engulfed his master’s enemy.
 
 Or at least, that was how it appeared for an instant.
 
@@ -198,7 +198,7 @@ But the clash unfolded in a way the Demon Bird hadn’t expected.
 
 “……!”
 
-A substantial recoil traveled up both sword blades.
+Considerable resistance traveled up both blades.
 
 The Demon Bird’s eyes widened at the dazzling sparks blooming where three different streams of energy met.
 
@@ -216,7 +216,7 @@ The Demon Bird was a born killer and hunter. He knew better than anyone how far 
 
 Yet the impossible was happening before his eyes.
 
-A mere Peak master had met head-on the Force he’d swung with several *jiazi* of internal energy. It was something that couldn’t happen—and shouldn’t.
+Mere Peak masters had met head-on Force backed by several *jiazi* of internal energy. It couldn’t happen. It shouldn’t.
 
 *Cough. Spurt.*
 

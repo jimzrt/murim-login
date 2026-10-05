@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is largely faithful, but a few details are lost or made more specific than the Korean supports.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 7",
+      "current": "the Demon Bird",
+      "defect": "The source says the Demon Bird was an unfamiliar title to Cheol Mubaek. The assembled English omits that detail, which the accepted baseline preserved.",
+      "replacement": "the unfamiliar title Demon Bird",
+      "rationale": "The Korean explicitly describes 마조 as a 생소한 별호, an unfamiliar sobriquet.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 207",
+      "current": "in ten or fifteen years",
+      "defect": "This gives a specific range that the source does not establish.",
+      "replacement": "in a dozen years or so",
+      "rationale": "십수 년 안에 conveys roughly a dozen years or more, not a definite ten-to-fifteen-year range. The accepted baseline’s wording preserves the approximate quantity.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 319",
+      "current": "A sound so faint it raised goose bumps.",
+      "defect": "The line drops the source’s image of a faint sound of air being pierced or split.",
+      "replacement": "A faint, chilling sound as it cut through the air.",
+      "rationale": "The Korean 파공성 identifies the sound of something breaking through the air; the current version replaces that physical detail with a reaction.",
+      "confidence": 0.94
+    }
+  ]
+}
