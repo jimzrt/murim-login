@@ -2,7 +2,7 @@
 
 Information is a puzzle. One piece alone can never give you the whole picture.
 
-Unless you gather the pieces and fit them together, they’re not information at all—just questions with no value.
+Unless you gather the pieces and fit them together, all you have are questions with no answers—and no value.
 
 The Embroidered Uniform Guard appearing in Anhui about fifteen days ago had been just such a piece.
 
@@ -32,9 +32,9 @@ Tang Sadok greeted Jeok Cheongang and me briefly. In front of him lay a scatteri
 
 “Probably.”
 
-At Tang Sadok’s brief reply and glance, the old man beside him—who had been carefully inspecting the messenger pigeons and their missives—spoke up.
+At Tang Sadok’s glance, the old man beside him, who had been carefully inspecting the pigeons and their missives, spoke up.
 
-“From what I’ve seen, there’s no sign the messenger pigeons were attacked, and none of the missives have been damaged.”
+“From what I’ve seen, there’s no sign any of the pigeons were attacked, and none of the missives have been damaged.”
 
 “Are you certain? This is important.”
 
@@ -44,7 +44,7 @@ At Tang Sadok’s brief reply and glance, the old man beside him—who had been 
 
 “Yes, Family Head. I won’t let so much as a rat near.”
 
-The old man bowed politely and left the room. His presence quickly faded into the distance.
+The old man bowed politely and left. His presence quickly faded into the distance.
 
 Tang Sadok caught the meaning in Jeok Cheongang’s eyes and spoke first.
 
@@ -52,15 +52,15 @@ Tang Sadok caught the meaning in Jeok Cheongang’s eyes and spoke first.
 
 The place Tang Sadok called “here” looked less like a pavilion than a huge aviary.
 
-Even standing still, the sharp, musty smell of birds stung my nose. Iron cages of all sizes filled the space, and feathers of every color fluttered through the air.
+Even standing still, I could smell the sharp, rank odor of birds. Iron cages of every size filled the space, and feathers of every color drifted through the air.
 
-It was clear that this place had been used for years solely to train messenger pigeons and send and receive their messages. Dozens of unopened missives were piled up inside.
+It was clear the place had been used for years solely to train messenger pigeons and send and receive them. Now dozens of unopened missives lay piled inside it.
 
 “There are more than I expected. A lot more missives than pigeons we saw on the way here.”
 
 Tang Sadok gave a small nod.
 
-“I’m surprised, too. Usually, they send only the bare minimum of information to keep the messenger pigeons from attracting attention. But sending several pages on each one means…”
+“I’m surprised, too. Usually they send only the bare minimum of information, so the pigeons won’t attract attention. But to load several missives onto each bird…”
 
 “They had that much information to send, even if this was the only way to do it.”
 
@@ -82,19 +82,19 @@ I was silent for a moment before answering Jeok Cheongang.
 
 “Twenty days. Damn, that’s late.”
 
-“By then, their trail in Anhui had already gone cold, and it seems neither the Beggars’ Sect nor the Lower District Sect in Hubei guessed they were the Embroidered Uniform Guard.”
+“By then, their trail in Anhui had already gone cold. And it seems neither the Beggars’ Sect nor the Lower District Sect in Hubei realized who they might be.”
 
 Tang Sadok frowned.
 
 “Isn’t it possible they weren’t the Embroidered Uniform Guard at all? If your guess is right and their target is Prince Shangshan, they’d have no reason to detour through Hubei to reach Shanxi. They could go straight from Anhui to Henan.”
 
-He was right. Anhui was closest to Henan, and they could enter Shanxi by heading just a little farther north.
+He was right. Anhui bordered Henan, and from there, heading a little farther north would take them into Shanxi.
 
 But Tang Sadok had forgotten one important thing.
 
 “If they *are* the Embroidered Uniform Guard, and they disguised themselves to hide their identities from the start, of course they’d avoid Henan.”
 
-“What does that mean…? Ah.”
+“What do you… Ah.”
 
 Tang Sadok let out a small exclamation.
 
@@ -102,25 +102,25 @@ Tang Sadok let out a small exclamation.
 
 “Exactly. Their trail was nearly picked up even in Anhui. Henan is practically an impregnable fortress right now.”
 
-The vast storm of war was reaching its peak, and the full-scale war with Dark Heaven had begun.
+The threat of war had reached its peak, and the full-scale war with Dark Heaven had begun.
 
-With everyone in the Central Plains Murim on high alert, crossing Henan—the home of the Murim Alliance’s headquarters—to reach Shanxi would be no different from giving away their identities.
+With all of Central Plains Murim on high alert, crossing Henan—where the Murim Alliance had its headquarters—on the way to Shanxi would be as good as announcing who they were.
 
 The Murim Alliance wasn’t made up of fools.
 
 Dark Heaven’s agents or the Embroidered Uniform Guard—it didn’t matter. Anyone suspicious would be identified in no time.
 
-Even if the Sword Saint, Mae Jonghak, leader of the Murim Alliance, merely stood by with a gentle smile and watched, one old fox beside him would be different.
+Even if the Alliance Leader, Sword Saint Mae Jonghak, stood by with his hands clasped behind his back and watched with a gentle smile, one old fox at his side wouldn’t.
 
 *Song Ho, the Thousand-Faced Fox.*
 
 He had another title: Chief of the Hidden Shadow Pavilion.
 
-At that very moment, as I pictured the Thousand-Faced Fox’s face, always marked by a faint smile—
+Just as I pictured that face with its ever-present, peculiar smile—
 
 Rustle.
 
-A faint sound came from the crack beneath the firmly shut door. But no one in the room, myself included, was surprised or flustered.
+A faint sound came through a gap in the firmly shut door. But no one in the room, myself included, was startled.
 
 We’d already sensed someone approaching and had a fair idea who it was.
 
@@ -130,7 +130,7 @@ At Jeok Cheongang’s glance, I reached out. A gentle current of qi pushed the d
 
 No—more accurately, two people who looked like one.
 
-The Tang Family retainer who had left earlier had Namho pinned in an embrace from behind, a blade pressed to his Adam’s apple.
+The Tang Family retainer who had left earlier had Namho pinned against him from behind, a dagger pressed to his Adam’s apple.
 
 “……?”
 
@@ -148,7 +148,7 @@ The minor problem was that Namho had nearly died for it.
 
 “You’re still young at heart. It’s not easy to get fired up at your age.”
 
-Namho, restrained with the retainer pressed up against his back, replied with a face like he’d bitten into a turd.
+Namho, trapped in what looked like an embrace, answered with a face like he’d bitten into a turd.
 
 “What’s that supposed to mean?”
 
@@ -178,9 +178,9 @@ At Tang Sadok’s sighing words, the retainer blinked, finally withdrew his dagg
 
 Namho watched him leave without so much as an apology and muttered,
 
-“I’ve seen all kinds of lunatics, but this is something else. No wonder the Sichuan Tang Clan is—”
+“I’ve seen all kinds of lunatics. No wonder the Sichuan Tang Clan has such a reputation in Murim…”
 
-“Is what?”
+“What kind of reputation?”
 
 Namho met Tang Sadok’s pointed gaze and changed course at the speed of light.
 
@@ -204,11 +204,11 @@ Before I could ask what he meant, Namho nodded toward the missive in my hand.
 
 “No, the one beside it.”
 
-I opened another of the dozens of missives scattered across the table and checked it.
+I opened another of the dozens of missives scattered across the table.
 
 “It says Hoyeon Trading Company. I’ve never heard of it. The contents say…”
 
-“It’s a trading company under the Qingcheng Sect. More precisely, Hoyeon Sword, a lay disciple of the Qingcheng Sect, has been running it for twenty years. He’s a Peak master, but he’s much better at running a trading company than at martial arts. Hoyeon Trading Company is one of the five largest in Shandong.”
+“It’s a trading company under the Qingcheng Sect. More precisely, Hoyeon Sword, a lay disciple of the Qingcheng Sect, has run it for twenty years. He’s a Peak master, but he’s far better at running a trading company than he is at martial arts. The company itself is among the five largest in Shandong.”
 
 “What?”
 
@@ -222,11 +222,11 @@ As far as I knew, he hadn’t set foot in the Central Plains since the Great Fac
 
 And if he didn’t care what the missives said, what source was he looking for?
 
-Jeok Cheongang and Tang Sadok stared at him with wide eyes. I could only look at him, dumbfounded and silent. Namho clicked his tongue, displeased.
+Jeok Cheongang and Tang Sadok stared at him wide-eyed. When I could only stare too, Namho clicked his tongue.
 
-“I’m no Jiang Taigong. Did you think I spent all those years in Nanman just sitting around fishing? I kept up with news from the Central Plains through the Hidden Shadow Pavilion’s Hidden Thread while I was there. There’s nothing to be so surprised about.”
+“I’m no Jiang Taigong. Did you think I spent all those years in Nanman just fishing? I kept up with news from the Central Plains through the Hidden Shadow Pavilion’s Hidden Thread. There’s nothing to be so surprised about.”
 
-“This seems like more than just keeping up with the news. Even if I heard some of that, I wouldn’t remember it.”
+“This seems like more than just keeping up with the news. I wouldn’t remember half of it even if someone told me.”
 
 “Call it an old man’s pastime. Anything else?”
 
@@ -254,7 +254,7 @@ They had split into groups of between ten and thirty, scattered across the provi
 
 *Shanxi. They gathered in Shanxi.*
 
-There was no doubt. Avoiding Henan and drawing as little attention as possible, they’d gone around it, slipping into Shanxi through Shaanxi and Shandong—the provinces that lay along the continent’s flank.
+I was sure of it. Drawing as little attention as possible, they’d avoided Henan and slipped into Shanxi through Shaanxi and Shandong, on either flank of the continent.
 
 And in Shanxi…
 
@@ -292,7 +292,7 @@ Tang Sadok and Jeok Cheongang read it and let out quiet exclamations.
 
 “It was already five days ago. Given the distance, the Sichuan Branch must have received the information and forwarded it only today.”
 
-That was probably right. If the missive had reached the Sichuan Tang Clan before we gathered here, I would’ve known about it already.
+Probably. If the missive had reached the Sichuan Tang Clan before we gathered here, we would’ve heard about it by now.
 
 But we were a step too late. Prince Shangshan was already in the Embroidered Uniform Guard’s hands. Behind the Guard stood the Son of Heaven. Or Dark Heaven.
 
@@ -336,7 +336,7 @@ Even through my confusion, I did my best to answer calmly.
 
 “What? What do you mean…?”
 
-I was baffled by his utterly firm tone. Namho said nothing, only holding out the missive in his hand.
+His certainty stopped me short. Without a word, Namho showed me the missive in his hand.
 
 > 1. Sender: Nakjo Escort Bureau.
 >
@@ -356,7 +356,7 @@ Only one place in the world could give an order to me—or rather, to Jeok Cheon
 
 “The Hidden Shadow Pavilion, to be precise. Though it would have had the Alliance Leader’s approval.”
 
-“The Nakjo Escort Bureau? What is this? I already checked every missive, so where did this even—”
+“The Nakjo Escort Bureau? What is this? I already checked every missive. Where did you—”
 
 My voice trailed off. The smell of blood reached me, and I turned toward it.
 
@@ -372,4 +372,4 @@ He was right. There was no more time to hesitate.
 
 I shot off into the darkness.
 
-We had a little over fifteen days left. We had to hurry, even if it was only by a single hour.
+About a fortnight remained. We couldn’t afford to lose even an hour.

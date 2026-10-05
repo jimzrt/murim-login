@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "There’s less than a fortnight until the first of the month.",
+      "defect": "“A fortnight” means fourteen days, while 보름 means fifteen days. The English changes the stated time remaining.",
+      "id": "F01",
+      "rationale": "The source says 보름도 안 남았어: fewer than fifteen days remain.",
+      "replacement": "There are fewer than fifteen days until the first of the month.",
+      "severity": "minor",
+      "source": "Korean line 381"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor timing-quantity shift.",
+  "version": 1
+}
