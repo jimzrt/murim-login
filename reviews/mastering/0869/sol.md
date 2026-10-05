@@ -74,7 +74,7 @@ Just like now.
 
 Anyone with half a brain could tell Jeong Hogun hadn’t tossed out that remark without a reason.
 
-I looked into his calmly lowered eyes and the blade hidden in them, thinking to myself:
+I looked into his calm eyes and the blade hidden in them, thinking to myself:
 
 *Well, look at this guy…*
 
@@ -84,7 +84,7 @@ But the deeper you thought, the longer you stayed silent—and that only gave yo
 
 Knowing that, I made a show of furrowing my brow.
 
-“You need to feel comfortable to get any sleep. Could you sleep soundly with a bunch of menacing men surrounding you on every side?”
+“You need to feel comfortable to get any sleep. Could you sleep soundly with a bunch of men in black surrounding you on every side?”
 
 “They are not surrounding you. They are guarding His Highness Prince Shangshan.”
 
@@ -110,7 +110,7 @@ If he said they were guarding the prince, then as I’d said, there was no reaso
 
 Faced with an essay question that led to a dead end either way, Jeong Hogun chose silence.
 
-Getting under the skin of someone who’d run out of things to say was my specialty.
+Getting under the skin of someone who’d run out of things to say was one of my specialties.
 
 “I asked you something, but you’ve gone quiet.”
 
@@ -138,11 +138,11 @@ In short, I went after everyone but the Emperor.
 
 Jeong Hogun held out far longer than I’d expected. He finally opened his mouth after I asked whether the Embroidered Uniform Guard’s chow was any good—and started digging into his family tree.
 
-“That’s enough… Give it a rest.”
+“Could you… give it a rest now?”
 
-I could feel his superhuman patience in the one breath he took between words. I nodded with a touch of respect, then replied,
+I could hear his superhuman patience in that one breath between words. I nodded with a touch of respect.
 
-“So you’re still an unmarried bachelor, then?”
+“So you’re still a bachelor, then?”
 
 “……!”
 
@@ -166,7 +166,7 @@ The guard recognized the hand as belonging to the very superior I’d just insul
 
 *Whack!*
 
-One punch, delivered with a heavy yet swift movement—brief, precise, and ruthlessly efficient.
+One punch, heavy but not slow, delivered in a short, efficient movement.
 
 Jeong Hogun’s fist caught the Embroidered Uniform Guard squarely on the jaw. The man crumpled without even a groan, and I let out a quiet sound of admiration.
 
@@ -228,7 +228,7 @@ I steadied my breathing and pulse quietly, in an instant, without anyone noticin
 
 Was it suspicion, or certainty?
 
-After countless thoughts flashed through my mind like streaks of lightning, I reached a single conclusion.
+Countless thoughts flashed through my mind before I reached a single conclusion.
 
 *A trap.*
 
@@ -236,7 +236,7 @@ Neither Hong Jin nor Ma Sanbao was careless.
 
 No—in terms of thoroughness, they were easily in the top five of everyone I’d ever met.
 
-The imperial palace, the East Depot—only people like that could survive in places like these.
+The imperial palace, the East Depot—only people like that could survive in places like those.
 
 And if the secret signal was obvious enough for Jeong Hogun to figure out, there was no way they’d risk meeting while using it.
 
@@ -262,7 +262,7 @@ It was a trap.
 
 Jeong Hogun stared into my eyes, which didn’t waver in the slightest. His answer was practically decided already.
 
-“The night was unusually noisy. A fierce storm and thunder kept roaring without letup.”
+“The night was unusually noisy. A fierce storm, thunder and lightning without letup.”
 
 “So?”
 
@@ -278,15 +278,15 @@ For once, I couldn’t tell for sure, and I wasn’t given time to try.
 
 *Step. Step.*
 
-Three people came down the stairs, their footsteps accompanied by a familiar, androgynous voice.
+Three people came down the stairs. The familiar, androgynous voice belonged to one of them.
 
 Jeong Hogun and the Embroidered Uniform Guards immediately straightened and saluted the young prince, who had just appeared.
 
 “I, Jeong Hogun, Thousand Captain of the Embroidered Uniform Guard, have come to escort His Highness Prince Shangshan.”
 
-Hong Jin, standing behind Prince Shangshan, who wore a tense expression, gave a wry smile.
+Hong Jin, standing behind the tense-looking prince, gave a wry smile.
 
-“You’re still as impatient as ever. No, perhaps I should say you’ve waited longer than expected, since you did manage to hold out for an entire day.”
+“You’re still as impatient as ever. No, perhaps I should say you’ve waited longer than expected, since you managed to hold out for an entire day.”
 
 “Mind your words, Deputy Military Commissioner.”
 

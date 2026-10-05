@@ -2,11 +2,11 @@
 
 After hurrying Hyuk Mujin upstairs, I blocked the Embroidered Uniform Guards who had come to the pavilion at the crack of dawn.
 
-Then I flashed a broad smile at the first familiar face I spotted.
+Then I flashed a broad smile at the familiar face that caught my eye first.
 
 “Oh, fancy seeing you again.”
 
-So much for the old saying that nobody spits in a smiling face.
+So much for the old saying that nobody spits in a smiling face. It was a complete lie.
 
 Jeong Hogun didn’t so much as twitch an eyebrow, even when I waved at him like an old friend.
 
@@ -26,13 +26,13 @@ Though, of course, it was the Son of Heaven’s will—above every law in the Gr
 
 “I have no obligation to tell you.”
 
-“Then let me guess. Is it finally time for the brothers to reunite?”
+“Then let me guess. Is it finally time for a family reunion?”
 
 At that, Jeong Hogun reacted. His eyebrow twitched so sharply I could see it from where I stood.
 
 “His Highness Prince Shangshan is to have an audience with His Majesty the Emperor.”
 
-“Right. In four characters: a reunion of brothers.”
+“Right. Four characters: brothers reunited.”
 
 “You’re a lawless thug from the martial world, so it seems you can’t understand. This is not merely a reunion between brothers. It’s…”
 
@@ -44,7 +44,7 @@ I nodded with a solemn expression.
 
 “……”
 
-“Not quite? Too long? How about a chaotic reunion of brothers? One character shorter, but pretty much the same thing.”
+“Not quite? Too long? How about a chaotic reunion of brothers? One word shorter, but pretty much the same thing.”
 
 Jeong Hogun took a deep breath, as if trying to calm himself, then spoke in a stiff voice.
 
@@ -56,7 +56,7 @@ Jeong Hogun took a deep breath, as if trying to calm himself, then spoke in a st
 
 “Judging by your face, you just remembered. If you understand, then let’s do better from now on. Don’t go making trouble for no reason. Okay?”
 
-I smiled and patted Jeong Hogun’s armor. Behind him, killing intent rose like a heat haze from the Embroidered Uniform Guards standing like iron towers.
+I smiled and patted Jeong Hogun’s armor. Behind him, the killing intent of the Embroidered Uniform Guards standing like iron towers began to rise in waves.
 
 *Whoosh.*
 
@@ -70,19 +70,19 @@ Just like now.
 
 “What?”
 
-“You look rather tired. As if you didn’t get much sleep last night.”
+“You look rather exhausted. As if you didn’t get much sleep last night.”
 
-Anyone with half a brain could tell Jeong Hogun hadn’t tossed out that remark without a reason.
+Anyone with half a brain could tell that Jeong Hogun hadn’t tossed out that remark on a whim.
 
 I looked into his calmly lowered eyes and the blade hidden in them, thinking to myself:
 
 *Well, look at this guy…*
 
-From the start, he’d given me the strong impression that he knew something.
+From the very start, he’d given off the strong impression that he knew something.
 
 But the deeper you thought, the longer you stayed silent—and that only gave your opponent more reason to suspect you.
 
-Knowing that, I made a show of furrowing my brow.
+Knowing that, I furrowed my brow and answered,
 
 “You need to feel comfortable to get any sleep. Could you sleep soundly with a bunch of menacing men surrounding you on every side?”
 
@@ -100,7 +100,7 @@ I scratched the back of my head and went on.
 
 “……!”
 
-“No, the more I think about it, the stranger it gets. If you’re guarding him, there are already soldiers everywhere. I don’t see why the Embroidered Uniform Guard needs to keep watch this closely, too. And if you’re surrounding him, that makes no sense either.”
+“No, the more I think about it, the stranger it gets. If you’re guarding him, there are already soldiers everywhere. I don’t see why the Embroidered Uniform Guard needs to be on this kind of high alert. And if you’re surrounding him, that makes even less sense.”
 
 Checkmate. A perfect one, too.
 
@@ -108,7 +108,7 @@ Either answer would leave him in an awkward position.
 
 If he said they were guarding the prince, then as I’d said, there was no reason for all this. If he said they were surrounding him, that would be as good as admitting that the Embroidered Uniform Guard was monitoring Prince Shangshan on the Son of Heaven’s orders.
 
-Faced with an essay question that led to a dead end either way, Jeong Hogun chose silence.
+And in this essay question where either answer would lead to a dead end, Jeong Hogun chose silence.
 
 Getting under the skin of someone who’d run out of things to say was my specialty.
 
@@ -124,7 +124,7 @@ Getting under the skin of someone who’d run out of things to say was my specia
 
 “……”
 
-“Honestly, you were surprised when your commander suddenly killed one of his subordinates yesterday, weren’t you? Is he always that reckless? I won’t tell anyone, so just whisper it to me. My earlobes are sensitive, though, so whispering’s a little awkward. Just use Sound Transmission once.”
+“Honestly, you were surprised when your commander suddenly killed one of his subordinates yesterday, weren’t you? Is he always that reckless? I won’t tell anyone, so just whisper it to me. My earlobes are sensitive, so whispering’s a little awkward. Just use Sound Transmission once.”
 
 Thrilling. Always fresh. Getting under someone’s skin was the best.
 
@@ -136,7 +136,7 @@ I started with gossip about his superior, Baek Yeon, then moved on to promotion 
 
 In short, I went after everyone but the Emperor.
 
-Jeong Hogun held out far longer than I’d expected. He finally opened his mouth after I asked whether the Embroidered Uniform Guard’s chow was any good—and started digging into his family tree.
+And Jeong Hogun held out far longer than I’d expected. He finally opened his mouth after I asked whether the Embroidered Uniform Guard’s chow was any good—and then started digging into his family tree.
 
 “That’s enough… Give it a rest.”
 
@@ -146,7 +146,7 @@ I could feel his superhuman patience in the one breath he took between words. I 
 
 “……!”
 
-“Don’t get me wrong. I’m not criticizing you for being unmarried at your age. I mean, I’m not your parents. And staying single isn’t so bad—you won’t ruin someone else’s life. So don’t let it get you down. Keep your pecker—no, your shoulders—up…”
+“Don’t get me wrong. I’m not criticizing you for being unmarried at your age. I mean, I’m not your parents. And staying single isn’t so bad—you won’t ruin someone else’s life by accident. So don’t let it get you down. Keep your package—no, your shoulders—up…”
 
 “You son of a bitch!”
 
@@ -160,17 +160,17 @@ Or, more accurately, he took one step forward before someone stopped him.
 
 “Enough. I won’t say it twice.”
 
-A calloused palm stopped the guard’s golden armor in its tracks. The voice that followed was low and heavy.
+With a voice low and heavy, a calloused palm stopped the guard’s golden armor in its tracks. The guard who recognized the hand as belonging to the very superior I’d just insulted shouted in a voice bubbling with rage.
 
-The guard recognized the hand as belonging to the very superior I’d just insulted. “Thousand Captain! How can you let that bastard—”
+“Thousand Captain! How can you let that bastard—”
 
 *Whack!*
 
 One punch, delivered with a heavy yet swift movement—brief, precise, and ruthlessly efficient.
 
-Jeong Hogun’s fist caught the Embroidered Uniform Guard squarely on the jaw. The man crumpled without even a groan, and I let out a quiet sound of admiration.
+Jeong Hogun’s fist caught the Embroidered Uniform Guard squarely on the jaw. The man crumpled without even a groan, and I watched him fall with a quiet sound of admiration.
 
-Not for Jeong Hogun’s impressive technique, though.
+For another reason entirely than the impressive way Jeong Hogun had moved.
 
 “Wow. You really didn’t say it twice.”
 
@@ -186,9 +186,9 @@ Jeong Hogun handed the subordinate he’d knocked out to the other guards, wiped
 
 His voice was as blunt as ever, but the gaze he fixed on me was bleak and wild, like the storm that had raged through the night.
 
-It was a side of him I hadn’t seen on the way to the Imperial Capital or after we’d arrived.
+It was a side of him I hadn’t seen on the way to the imperial capital or after we’d arrived.
 
-His composure had slipped. My guess had been right.
+A sign that his composure had slipped—and my guess had been right.
 
 “Well, the situation hasn’t changed yet, so I don’t think that order’s been withdrawn.”
 
@@ -202,25 +202,25 @@ At my casual reply, Jeong Hogun closed the distance and leaned in to whisper.
 
 “Anyone listening would think I’d already pulled something.”
 
-“From the hour of the Ox to Insi. Three red lanterns were lit.”
+“From the hour of the Ox to the hour of the Tiger. Three red lanterns were lit.”
 
 “What?”
 
-“From what I’ve heard, the East Depot used secret signals like that. Probably.”
+“From what I’ve heard, that was how the East Depot’s secret signals worked. Probably.”
 
 My heart gave a hard thump.
 
-From the hour of the Ox to Insi. Exactly when Ma Sanbao had come to see me.
+From the hour of the Ox to the hour of the Tiger. Exactly when Ma Sanbao had come to see me.
 
-*And red lanterns as a signal, too.*
+*And the signal used red lanterns, too.*
 
-It was lucky Jeong Hogun wasn’t looking me in the eye while whispering in my ear.
+It was lucky that Jeong Hogun wasn’t looking me in the eye while whispering in my ear.
 
-Otherwise, I might have betrayed myself with the tiniest movement.
+Otherwise, he might have noticed the tiniest flicker of a reaction.
 
 But I’d been through a lot by now. I’d learned how to keep my emotions in check.
 
-I steadied my breathing and pulse quietly, in an instant, without anyone noticing. Then I gave a short laugh.
+I quietly and instantly steadied my breathing and pulse, so no one could notice, then gave a short laugh.
 
 “Hong Jin’s crazy about the color red. You can tell by how he paints his lips that color every day, right?”
 
@@ -242,7 +242,7 @@ And if the secret signal was obvious enough for Jeong Hogun to figure out, there
 
 *I can’t take the bait.*
 
-I reached all those conclusions in an instant.
+All those judgments came in an instant—so fast it barely seemed like time had passed.
 
 My next move followed just as quickly.
 
@@ -260,7 +260,7 @@ No physical evidence. No witnesses.
 
 It was a trap.
 
-Jeong Hogun stared into my eyes, which didn’t waver in the slightest. His answer was practically decided already.
+Jeong Hogun stared at my eyes, which didn’t waver in the slightest. His answer was practically decided already.
 
 “The night was unusually noisy. A fierce storm and thunder kept roaring without letup.”
 
@@ -268,7 +268,7 @@ Jeong Hogun stared into my eyes, which didn’t waver in the slightest. His answ
 
 “It means nothing. That’s all.”
 
-Was the look in those black eyes suspicion he still couldn’t let go of?
+Was the thing in those black eyes a suspicion he still couldn’t let go of?
 
 Or disappointment because his attempt to sound me out had failed?
 
@@ -294,8 +294,8 @@ Hong Jin, standing behind Prince Shangshan, who wore a tense expression, gave a 
 
 “You cannot come with us.”
 
-Jeong Hogun cut Hong Jin off coldly, then added something I hadn’t expected.
+Jeong Hogun cut Hong Jin off coldly, then added something neither of us had expected.
 
 “His Majesty the Emperor summoned only His Highness Prince Shangshan and Jin Taekyung of the Jin Family of Taiyuan. Those two alone.”
 
-*What?*
+What?

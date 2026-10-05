@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "whether the Embroidered Uniform Guard’s chow was any good",
+      "defect": "The source says Jin asked whether Jeong Hogun was satisfied with his years of service in the Embroidered Uniform Guard. It does not mention food.",
+      "id": "F01",
+      "rationale": "Here, 짬밥 refers to tenure or experience from time served, not chow. The mistranslation changes the subject of Jin’s teasing.",
+      "replacement": "whether he was satisfied with his years of service in the Embroidered Uniform Guard",
+      "severity": "minor",
+      "source": "Korean lines 143–145"
+    }
+  ],
+  "summary": "One source-fidelity defect: a question about Jeong Hogun’s service in the Guard is mistranslated as a question about its food.",
+  "version": 1
+}
