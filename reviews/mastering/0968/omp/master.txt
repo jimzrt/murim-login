@@ -42,7 +42,7 @@ A single slicing sound rang out. Pain spread through Jamukha like fire, and he c
 
 *Ghk…!*
 
-He’d dodged. He should have dodged.
+He’d dodged. He was sure he’d dodged.
 
 But the wound in his shoulder throbbed without cease. The Thunderbolt Saber King’s internal energy had seeped through it and shaken his organs, slowing his feet.
 
@@ -70,13 +70,13 @@ The cliffs on either side. The rocks and corpses scattered across the ground.
 
 Even the loyal men who rushed in to save him.
 
-“Stop him! The Khan is in danger—!”
+“Stop it! The Khan is in dang—”
 
 *Puk! Fwoooooosh!*
 
 No scream followed.
 
-Those who had rushed forward with desperate cries crumpled into dozens of chunks of flesh. Jamukha, teeth clenched, reached for a weapon abandoned by its owner.
+The men crumpled into dozens of pieces. Jamukha gritted his teeth and reached for a weapon whose owner no longer needed it.
 
 *Woom.*
 
@@ -86,13 +86,13 @@ The air shuddered. A crescent saber flew into his hand, drawn by Seizing an Obje
 
 Part of the net scattered. Jamukha swallowed the blood that surged up his throat as the impact shook his entire body.
 
-His saber techniques, wielded with only one arm, were slower. Every time he met a strike head-on, the impact battered his insides, which kept screaming in pain.
+His saber techniques were slower with only one arm. Each time he met a strike head-on, the shock battered his insides.
 
 But—
 
-*Do you think I’ll die like this? And at your hands?*
+*You think I’ll die here? At your hands?*
 
-With that cry in his heart, Jamukha sent his crescent saber flashing in every direction.
+With that silent cry, Jamukha sent his crescent saber flashing out again and again.
 
 Thunderous impacts rang out, flashes of light filling his vision. Beyond them, the distant past swept through his mind: his younger self struggling to survive, clenching his teeth until they bled as he swore revenge. And the voice of someone who had willingly reached out to him.
 
@@ -112,7 +112,7 @@ Sitting amid the wreckage of his ambitions and the bodies of his men, the young 
 
 *“If you live, what will you live for?”*
 
-*“Revenge. I’ll repay today’s humiliation and grudge, no matter what. If you save me, I swear by Tengri…”*
+*“Revenge. I’ll repay today’s humiliation and settle this grudge. If you save me, I swear by Tengri…”*
 
 *“I’m not helping you.”*
 
@@ -128,7 +128,7 @@ He did not think for long. The decision he made in that instant was as firm as a
 
 The savior smiled, pleased to see him prostrate himself like a slave. He pointed beyond the endless horizon.
 
-*“Go. Build a new home where neither the Hebei Peng Family nor the eyes of the Central Plains can reach you.”*
+*“Go. Build a new home beyond the sight of the Hebei Peng Family and the Central Plains.”*
 
 *“You mean I should head west?”*
 
@@ -238,7 +238,7 @@ The bloodshed began with Shaolin Temple in Henan, swept through Sichuan and Anhu
 
 The Sleeping Dragon of Shanxi came to be called the Divine Dragon. Sensing danger, the people of the Central Plains gathered under the Murim Alliance’s banner. Even the great sects drew back, wary of an enemy blade that might strike at any moment.
 
-Of course, none of this applied to Jamukha.
+But Jamukha had no reason to fear that enemy.
 
 Dark Heaven, which everyone in the Central Plains dreaded, was “us” to him.
 
@@ -262,17 +262,17 @@ Everything had happened as the savior predicted.
 
 Except for one thing.
 
-*Why? Why?!*
+*Why? Why?*
 
-With a cry that circled only on the tip of his tongue, Jamukha twisted his unsteady body around.
+The cry never made it past Jamukha’s tongue. He twisted his staggering body aside.
 
 *Shhk! Puh-puh-puk!*
 
-Pain like a branding iron.
+Pain seared through him.
 
 He could see the attacks coming. His mind registered them. His body simply could not move fast enough.
 
-The net of Force that had pursued him relentlessly had faded after leaving dozens of large and small wounds across his body. But beyond it stood a great tiger that would never let its prey escape.
+The net of Force had left dozens of wounds, large and small, across his body before finally fading. Beyond it stood a great tiger that would never let its prey go.
 
 Lips pressed tight. Eyes alight with a cold flame.
 
@@ -280,7 +280,7 @@ Both hands gripped the great saber so hard they had gone white. Brilliant light 
 
 *Whoooom.*
 
-The Thunderbolt Saber King swung without hesitation. Jamukha watched the terrible strike, a fusion of defeat and swiftness, cut through the air.
+The Thunderbolt Saber King swung without hesitation. Jamukha watched the fearsome strike, its overwhelming power matched by its speed, cut through the air.
 
 And he understood.
 
@@ -290,7 +290,7 @@ Only one choice remained. Even if that choice left him drained and collapsed in 
 
 As the Force came at him from several yards away, the world seemed to slow. Jamukha took something from inside his robe.
 
-He tossed the small, blood-red pill into his mouth without hesitation.
+He brought the small, blood-red pill to his mouth without hesitation.
 
 Or tried to.
 
@@ -308,7 +308,7 @@ Jamukha looked up, forgetting even the pain.
 
 The owner of the spear that had fallen from the darkened sky spoke not to Jamukha, but to the Thunderbolt Saber King.
 
-“With people like this, no amount of caution is ever enough. Don’t you agree?”
+“You can never be too careful with men like him. Wouldn’t you agree?”
 
 *Shwaa!*
 
@@ -336,9 +336,9 @@ Just as he expected, a shout rose from beyond the gorge.
 
 The tension that had held the Thunderbolt Saber King’s entire body taut began to ease.
 
-At least, until a panicked shout from someone who was surely a member of the Hebei Peng Family followed in the next moment.
+Then another voice rang out—an urgent shout from someone who was unmistakably a Hebei Peng Family retainer.
 
-“Grand Family Head! The enemy—the Murong Family—!”
+“Grand Family Head! Those bastards—the Murong Family bastards…!”
 
 *What?*
 
@@ -356,7 +356,7 @@ As his vision faded, the Thunderbolt Saber King understood.
 
 Jamukha.
 
-The young chieftain who should have lost all his forces and died a defeated man—how had he shaken off his pursuers and survived until now?
+That young chieftain should have lost everything and died a defeated man. How had he shaken off his pursuers and survived all these years?
 
 *The Murong Family.*
 

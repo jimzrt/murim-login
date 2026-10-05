@@ -1,0 +1,15 @@
+{
+  "summary": "One minor causality shift: the English makes Jamukha’s choice cause his collapse, while the Korean frames losing strength and collapsing as a possibility despite which the choice is preferable.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 371–373",
+      "current": "Only one choice remained. Even if that choice left him drained and collapsed in this narrow gorge, it would be a hundred—a thousand—times better than dying at the Thunderbolt Saber King’s hands.",
+      "defect": "The wording makes the choice cause Jamukha to lose strength and collapse. The Korean says that even if he loses strength and falls in the narrow gorge, the choice he is about to make is still far better than dying at the Thunderbolt Saber King’s hands.",
+      "replacement": "Only one choice remained. Even if he lost his strength and collapsed in this narrow gorge, the choice he was about to make would be a hundred—a thousand—times better than dying at the Thunderbolt Saber King’s hands.",
+      "rationale": "The Korean presents losing strength and collapsing as a concessive condition, not as an effect caused by the choice.",
+      "confidence": 0.98
+    }
+  ]
+}

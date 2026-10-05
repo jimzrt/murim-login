@@ -1,0 +1,2884 @@
+{
+  "baseline_blocks": 195,
+  "baseline_sha256": "8dca5bbcc7aaf9bd4224b0339188574050cb354bd9c463316fd168f798151a98",
+  "global_terminology_alerts": [
+    {
+      "korean": "후기지수",
+      "preferred": "young prodigy / rising martial artist"
+    }
+  ],
+  "hunk_count": 152,
+  "hunks": [
+    {
+      "baseline": "*When three people walk together, there is always one who can be my teacher.*",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "*When three people walk together, one of them is sure to have something to teach me.*",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, the Thunderbolt Saber King didn’t know for certain whether Confucius or Mencius had said it.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "Of course, the Thunderbolt Saber King wasn’t sure whether it had been Confucius or Mencius.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the biggest reason he was smiling at that very moment was that someone who wasn’t there had come to mind.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "But the main reason he was smiling now was that he’d thought of someone who wasn’t there.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If not for the Fire King, that crazy old man, I wouldn’t have gotten any stronger.*",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "*If it weren’t for the Fire King—that crazy old man—I’d never have grown stronger.*",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "He had always lived a life in the spotlight.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "",
+      "sol_paragraphs": "after P6",
+      "sol_range": [
+        6,
+        6
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not only because he had been born into the Hebei Peng Family, one of the Five Great Families of the world, but even more because he had the talent and skill to deserve it.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "17",
+      "sol": "He had spent his life in the spotlight. Not merely because he’d been born into the Hebei Peng Family, one of the Five Great Families, but because he had the talent and skill to earn that attention.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Nangong Cheon. Murong Baek. And Peng Cheolhu.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "19",
+      "sol": "Nangong Cheon. Murong Baek. Peng Cheolhu.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Among the children of countless prestigious families, these three rising martial artists stood out above the rest. But while unexpected misfortune kept Murong Baek from reaching the same heights, the other two came to be called the Sword King and the Saber King.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "21",
+      "sol": "Of all the young prodigies born to prestigious families, those three had stood above the rest. Unexpected misfortune had kept Murong Baek from joining the other two at the top, while Nangong Cheon and Peng Cheolhu had come to be known as the Sword King and the Saber King.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "후기지수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "young prodigy / rising martial artist"
+        }
+      ]
+    },
+    {
+      "baseline": "But the Thunderbolt Saber King knew the truth.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "23",
+      "sol": "But the Thunderbolt Saber King knew why he had made it that far.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was because that old man had constantly ridden him whenever he got the chance that he had grown stronger, instead of remaining stuck where he was.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "27",
+      "sol": "That old man had laid into him at every opportunity. Without him, Peng Cheolhu would have kept treading water instead of growing stronger.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“I’ll tell you something. That grassland where you were born and raised isn’t as vast as you think.”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "29",
+      "sol": "“I’ll tell you something. That grassland you were born and raised on isn’t as vast as you think.”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Thunderbolt Saber King slowly raised his great saber.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "31",
+      "sol": "The Thunderbolt Saber King slowly raised his great saber toward Jamukha, who trembled as he clutched the shoulder Peng’s Force had nearly severed.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Toward Jamukha, trembling as he clutched the shoulder that had been half-severed by the Thunderbolt Saber King’s Force.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "33",
+      "sol": "",
+      "sol_paragraphs": "after P14",
+      "sol_range": [
+        14,
+        14
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "벽력도왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Thunderbolt Saber King"
+        },
+        {
+          "korean": "자무카",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jamukha"
+        },
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "Toward the king of the steppe, holding back a groan before the giant who stood tall beneath heaven.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "35",
+      "sol": "Toward the king of the steppe, holding back a groan before a giant who stood tall beneath heaven.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Now, let’s see this through to the end.”",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "37",
+      "sol": "“Now, let’s finish this.”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Space disappeared with a single step.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "41",
+      "sol": "With a single step, the space between them vanished.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Thunderbolt Saber King’s blurred form moved so fast it was hard to believe his enormous frame could move that way. The great saber that plunged down like lightning traced a path that was precise and calm.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "43",
+      "sol": "The Thunderbolt Saber King’s form blurred. For a man of his enormous build, he moved at an unbelievable speed, yet the path of the great saber plunging down like lightning was precise and controlled.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a single slicing sound and a pain that spread like flames, Jamukha clenched his teeth to hold back the scream rising in his throat.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "47",
+      "sol": "A single slicing sound rang out. Pain spread through Jamukha like fire, and he clenched his teeth against the scream rising in his throat.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He’d dodged. He should have dodged.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "51",
+      "sol": "He’d dodged. He was sure he’d dodged.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But even now, the wound in his shoulder kept crying out in pain, and the Thunderbolt Saber King’s internal energy had seeped through it and shaken his internal organs, holding his steps in place.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "53",
+      "sol": "But the wound in his shoulder throbbed without cease. The Thunderbolt Saber King’s internal energy had seeped through it and shaken his organs, slowing his feet.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A resonant hum burrowed into everyone’s ears.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "57",
+      "sol": "A resonant hum filled everyone’s ears.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unlike Jamukha’s crescent saber, now shattered into pieces, the Thunderbolt Saber King’s great saber had only a few scratches. It trembled, then surged forward once more.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "59",
+      "sol": "Jamukha’s crescent saber lay shattered. The Thunderbolt Saber King’s great saber bore only a few scratches. It trembled, then surged forward once more.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—it split apart as it advanced.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "61",
+      "sol": "No. It split as it advanced.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The blade, which should have been one, became five, then ten, then dozens.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "63",
+      "sol": "",
+      "sol_paragraphs": "after P28",
+      "sol_range": [
+        28,
+        28
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The dozens of afterimages formed a massive net and shot toward the space ahead.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "65",
+      "sol": "The single blade became five, then ten, then dozens. Its afterimages formed an enormous net and shot forward.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with the Thunderbolt Saber King’s low voice.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "67",
+      "sol": "The Thunderbolt Saber King spoke quietly.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, what filled the Thunderbolt Saber King’s voice and gaze as he faced Jamukha was certainty.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "71",
+      "sol": "",
+      "sol_paragraphs": "after P31",
+      "sol_range": [
+        31,
+        31
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "벽력도왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Thunderbolt Saber King"
+        },
+        {
+          "korean": "자무카",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jamukha"
+        }
+      ]
+    },
+    {
+      "baseline": "There wasn’t even a trace of carelessness toward the severely wounded, bleeding enemy—only certainty, born of his strike and his mastery.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "73",
+      "sol": "There was certainty in his voice and in his eyes as he faced Jamukha. Not a trace of carelessness toward a wounded, bleeding enemy—only confidence in his own strike and his own skill.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The net of Force descended. The tremendous energy hot on Jamukha’s heels as he leaped backward cut through everything it touched.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "77",
+      "sol": "The net of Force swept down. Jamukha threw himself backward, but the immense energy stayed close on his heels, cutting through everything it touched.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The cliffs lining both sides. The rocks and corpses scattered everywhere.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "79",
+      "sol": "The cliffs on either side. The rocks and corpses scattered across the ground.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even the loyal subordinates who had rushed in to save Jamukha.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "81",
+      "sol": "Even the loyal men who rushed in to save him.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "자무카",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jamukha"
+        }
+      ]
+    },
+    {
+      "baseline": "“Stop him! The Khan is in danger—!”",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "83",
+      "sol": "“Stop it! The Khan is in dang—”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the end, there were no screams.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "87",
+      "sol": "No scream followed.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those who had rushed forward with desperate cries crumpled into dozens of chunks of flesh. Jamukha, teeth clenched, reached for a weapon abandoned by its owner.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "89",
+      "sol": "The men crumpled into dozens of pieces. Jamukha gritted his teeth and reached for a weapon whose owner no longer needed it.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The air shuddered. As a crescent saber he had drawn toward himself with Seizing an Object Through Empty Space flew into his grasp, he unleashed a burst of Force.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "93",
+      "sol": "The air shuddered. A crescent saber flew into his hand, drawn by Seizing an Object Through Empty Space, and he unleashed a burst of Force.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Part of the net of Force scattered, but the enormous impact that shook his whole body made Jamukha swallow the blood surging up his throat.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "97",
+      "sol": "Part of the net scattered. Jamukha swallowed the blood that surged up his throat as the impact shook his entire body.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "His saber techniques, wielded with only one arm, were slower. Every time he met a strike head-on, the impact battered his insides, which kept screaming in pain.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "99",
+      "sol": "His saber techniques were slower with only one arm. Each time he met a strike head-on, the shock battered his insides.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Do you think I’ll die like this? And at your hands?*",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "103",
+      "sol": "*You think I’ll die here? At your hands?*",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With that cry in his heart, Jamukha sent his crescent saber flashing in every direction.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "105",
+      "sol": "With that silent cry, Jamukha sent his crescent saber flashing out again and again.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The thunderous booms that followed filled his vision with flashes of light. Beyond them, the distant past swept through his mind like a lantern show.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "107",
+      "sol": "",
+      "sol_paragraphs": "after P48",
+      "sol_range": [
+        48,
+        48
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Memories of his youth, when he had struggled to stay alive, clenched his teeth until they bled, and vowed revenge. And the voice of someone who had willingly reached out to him then.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "109",
+      "sol": "Thunderous impacts rang out, flashes of light filling his vision. Beyond them, the distant past swept through his mind: his younger self struggling to survive, clenching his teeth until they bled as he swore revenge. And the voice of someone who had willingly reached out to him.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He’d thought everything was over.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "115",
+      "sol": "He had thought everything was over.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The warriors who had once numbered in the thousands had been all but wiped out by the Hebei Peng Family’s elite, led by Peng Cheolhu. His rivals, who had been waiting for him to fall, would take his livestock and possessions—and enslave the few members of his tribe who remained.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "119",
+      "sol": "The warriors who had once numbered in the thousands had been all but wiped out by the Hebei Peng Family’s elite, led by Peng Cheolhu. His rivals had been waiting for his fall. They would take his livestock and wealth, then enslave the few people his tribe had left.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was the law of the steppe, handed down through nothing but the survival of the fittest.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "121",
+      "sol": "That was the law of the steppe, passed down through the survival of the strong.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But just as he thought everything was over, his last chance came.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "123",
+      "sol": "But just when he thought it was over, one last chance appeared.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young chieftain, slumped before his shattered ambitions and his subordinates’ corpses, seized the hand of salvation reaching toward him—the lifeline dropped from the heavens—with all his strength.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "125",
+      "sol": "Sitting amid the wreckage of his ambitions and the bodies of his men, the young chieftain seized the hand held out to him—the lifeline dropped from heaven—with all his strength.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“I want to live. No—I must survive, no matter what!”*",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "127",
+      "sol": "*“I want to live. No—I must survive!”*",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“If you want to live, what for?”*",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "131",
+      "sol": "*“If you live, what will you live for?”*",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Revenge. I’ll repay today’s humiliation and grudge, no matter what. If you save me, I swear by Tengri…”*",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "133",
+      "sol": "*“Revenge. I’ll repay today’s humiliation and settle this grudge. If you save me, I swear by Tengri…”*",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“I’m going to use you.”*",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "139",
+      "sol": "*“I’m using you.”*",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "*“……!”*",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "141",
+      "sol": "*“…!”*",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He didn’t deliberate for long. The decision he made in that fleeting moment was as firm as an iron tower.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "143",
+      "sol": "He did not think for long. The decision he made in that instant was as firm as an iron tower.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The savior smiled, pleased at the sight of him prostrating himself like a slave. Pointing beyond the endless horizon, he said:",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "151",
+      "sol": "The savior smiled, pleased to see him prostrate himself like a slave. He pointed beyond the endless horizon.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Go. Build a new home where neither the Hebei Peng Family nor the eyes of the Central Plains can reach you.”*",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "155",
+      "sol": "*“Go. Build a new home beyond the sight of the Hebei Peng Family and the Central Plains.”*",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Don’t worry. That land is still in utter chaos, and you won’t be alone anymore. You’ll be with ‘us.’”*",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "161",
+      "sol": "*“Don’t worry. The west is still in chaos, and you’re no longer alone. You have ‘us’ now.”*",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“That’s right. We’ll help you. Jamukha, warrior of the Great Steppe, reborn here today.”*",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "165",
+      "sol": "*“Yes. We’ll help you, Jamukha—warrior of the Great Steppe, reborn here today.”*",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young chieftain who left with a new name soon made a name for himself on the western steppe, and the greatest reason he was able to build such a powerful force was the savior’s support.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "171",
+      "sol": "The young chieftain left with a new name and soon distinguished himself on the western steppe. The greatest reason he was able to build such a powerful force was the savior’s support.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Countless livestock and goods. Even people and information.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "173",
+      "sol": "Livestock and wealth in vast quantities. Even people and information.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "That was how Jamukha’s personal guard, the Keshik, came into being.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "179",
+      "sol": "And so Jamukha’s personal guard, the Keshik, was born.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“These are supreme martial arts and the Hebei Peng Family’s techniques, suitable for you to learn. They aren’t the secret techniques passed down to only a handful of people, but studying them will surely help you greatly.”*",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "183",
+      "sol": "*“These are supreme martial arts for you to learn, along with the Hebei Peng Family’s martial arts. They don’t include the secret techniques passed down to only a select few, but studying them will certainly help you.”*",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before long, he was even given a sword and shield to face the lifelong enemy who would come to be known as the Thunderbolt Saber King.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "187",
+      "sol": "The savior had even given him a sword and shield with which to face the enemy of a lifetime—the man who had since become the Thunderbolt Saber King.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A thunderous crash shattered his reverie. Blood burst from his torn palm. Jamukha swung his crescent saber like a madman at the net of Force bearing down without end.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "193",
+      "sol": "The crash shattered his reverie. Blood burst from his torn palm, and Jamukha swung his crescent saber wildly at the net of Force bearing down on him.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One arm, its flesh, bones, and even muscles torn apart, was unusable. But the mighty internal energy and supreme martial arts he had built up over a long life still flowed through his fingertips.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "195",
+      "sol": "One arm was useless, its flesh, muscle, and even bone torn apart. But the immense internal energy he had accumulated over long years still flowed into his fingertips, along with the supreme martial arts he had learned.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with a memory from long after he had settled on the western steppe.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "197",
+      "sol": "So did a memory from years after he had settled on the western steppe.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Tell me. When should we set out?”*",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "199",
+      "sol": "*“Tell me. When should we march?”*",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Not yet. Wait for the right moment. You must never leave the west until you receive a clear order.”*",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "203",
+      "sol": "*“Not yet. Wait. You are not to leave the west until you receive an explicit order.”*",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Not yet? How much longer am I supposed to wait?”*",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "205",
+      "sol": "*“Not yet? How much longer must I wait?”*",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“If I wait only for that order, we’ll miss our chance. Now that the Central Plains are in turmoil because of the Great Faction War, we should strike at Hebei instead…”*",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "209",
+      "sol": "*“If I keep waiting for that order, we’ll miss our chance. The Central Plains are in turmoil because of the Great Faction War. If we strike Hebei now…”*",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Amazing. A hunting dog that can talk like a person.”*",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "211",
+      "sol": "*“Remarkable. A hunting dog that speaks like a man.”*",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“……!”*",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "213",
+      "sol": "*“…!”*",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Draw your saber. Right now.”*",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "215",
+      "sol": "*“Draw your saber. Now.”*",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Under the savior’s murderous gaze, Jamukha didn’t refuse. He charged.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "217",
+      "sol": "",
+      "sol_paragraphs": "after P89",
+      "sol_range": [
+        89,
+        89
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "자무카",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jamukha"
+        }
+      ]
+    },
+    {
+      "baseline": "And he met a wall—higher and more imposing than the one he had faced in his youth, when he had fought the Thunderbolt Saber King—and was forced to kneel.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "221",
+      "sol": "The savior’s eyes filled with killing intent. Jamukha did not refuse. He charged—and found himself facing a wall that seemed even higher and more imposing than the one he had encountered against Peng Cheolhu in his youth. He fell to his knees.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "벽력도왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Thunderbolt Saber King"
+        },
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "*“Remember this. Until we receive an order from ‘that person,’ we will never move.”*",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "225",
+      "sol": "*“Remember this. Until ‘that person’ gives the order, we do not move.”*",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“……That person?”*",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "229",
+      "sol": "*“…That person?”*",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even the savior, who had been like the heavens to him, was nothing more than someone else’s hunting dog.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "231",
+      "sol": "Even the savior, who had seemed like heaven itself to Jamukha, was someone else’s hunting dog.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the “us” the savior had spoken of from the beginning held a meaning far deeper and more powerful than Jamukha had ever imagined.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "235",
+      "sol": "From the beginning, the “us” he spoke of had meant something far deeper and more powerful than Jamukha had imagined.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Keep it in your heart until the day you take your revenge and claim the steppe. You will not be forgiven twice.”*",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "237",
+      "sol": "*“Keep that in mind until the day you take your revenge and claim the steppe. You will not be forgiven twice.”*",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, Jamukha hadn’t felt humiliation or defiance.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "241",
+      "sol": "Jamukha felt neither humiliation nor defiance. He trembled with fear and joy.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had shuddered with fear and joy.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "245",
+      "sol": "",
+      "sol_paragraphs": "after P97",
+      "sol_range": [
+        97,
+        97
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If he followed the owner of the leash around his neck, he could reach the destination that had seemed to grow ever more distant.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "247",
+      "sol": "If he followed the owner of the leash around his neck, he could reach the goal that had seemed to be slipping farther and farther away. Once that master had swallowed the world, he would toss the vast Great Steppe to the hunting dog who had carried out his task.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The leash’s owner, who had swallowed the world, would toss this vast Great Steppe to a hunting dog who had completed his mission well.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "249",
+      "sol": "",
+      "sol_paragraphs": "after P98",
+      "sol_range": [
+        98,
+        98
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "대초원",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Steppe"
+        },
+        {
+          "korean": "사냥개",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "hunting dog"
+        }
+      ]
+    },
+    {
+      "baseline": "From that day on, the defiance in Jamukha’s heart vanished without a trace. Then, after time had settled on his hair like frost, he realized at last that the moment had come.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "255",
+      "sol": "From that day on, every trace of defiance vanished from Jamukha’s heart. Years passed, frost settling in his hair, until one day he realized the time had finally come.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“A kind of pill. It lets you temporarily wield more strength than your limit—but you’ll pay a price to match.”*",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "263",
+      "sol": "*“A kind of pill. It lets you draw on power beyond your limits for a short time, though you’ll pay a price to match.”*",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Its effects were far too ominous for it to be called a spiritual elixir. The savior called it a Temporary Strength Pill.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "265",
+      "sol": "Its effects were too ominous for a spiritual elixir. The savior called it a Temporary Strength Pill.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Why are you giving this to me?”*",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "269",
+      "sol": "*“Why are you giving it to me?”*",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Call it an experiment. For the near future.”*",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "273",
+      "sol": "*“Consider it an experiment. For the near future.”*",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Then could it be…”*",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "275",
+      "sol": "*“Then… could it be?”*",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“That person has awakened. From now on, build a bridgehead for our advance into the Central Plains.”*",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "277",
+      "sol": "*“That person has awakened. Begin building a bridgehead for our advance into the Central Plains.”*",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“……!”*",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "279",
+      "sol": "*“…!”*",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The final few years added to his fifty-year wait passed in a flash.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "281",
+      "sol": "After a wait of more than fifty years, the last few years passed in a flash.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Following his orders, Jamukha scattered pills across the steppe, along with a few martial arts manuals. Each pill found its own owner, and those who gained power they could never have imagined before threw everything into chaos, disrupting the established order.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "285",
+      "sol": "On orders, Jamukha scattered pills and a number of martial arts manuals across the steppe. Each pill found its own owner. Armed with power they could never have imagined, those people spread chaos and disrupted the established order.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not only on the steppe, but in the Central Plains beyond the Great Wall as well.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "287",
+      "sol": "Not just on the steppe, but in the Central Plains beyond the Great Wall.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The leader of the mounted bandits known as the Red Wind Band on the eastern steppe was a man of considerable ambition.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "291",
+      "sol": "",
+      "sol_paragraphs": "after P112",
+      "sol_range": [
+        112,
+        112
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "마적",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "mounted bandits"
+        },
+        {
+          "korean": "적풍단",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Red Wind Band"
+        }
+      ]
+    },
+    {
+      "baseline": "With the aid of the Temporary Strength Pill, he built his forces at an astonishing pace. At last he turned his horse toward Shanxi Province, where he met his end.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "293",
+      "sol": "The leader of the mounted bandits known as the Red Wind Band on the eastern steppe was an ambitious man. With the Temporary Strength Pill’s help, he built his forces at an astonishing pace. Then he turned his horse toward Shanxi Province and met his death there.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the hands of a member of a borderland martial family in slow decline, who bore the unfamiliar epithet Sleeping Dragon of Shanxi.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "295",
+      "sol": "His killer was the scion of a borderland martial family in slow decline, a young man with the unfamiliar epithet Sleeping Dragon of Shanxi.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "About two years passed, and so much had happened.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "301",
+      "sol": "Roughly two years passed. So much happened in that time.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Jin Family of Taiyuan had risen to become the power of Shanxi Province. On the eastern steppe, where his old name had been forgotten, two young upstarts named Temur and Chinggen had begun to stand out. Far away in the Central Plains, the Star-Array Grand Banquet was held.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "305",
+      "sol": "The Jin Family of Taiyuan rose to rule Shanxi Province. On the eastern steppe, where Jamukha’s old name had been forgotten, two young upstarts named Temur and Chinggen distinguished themselves. Far away in the Central Plains, the Star-Array Grand Banquet was held.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, like dams giving way one after another, all the events that had been held back burst forth in succession.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "307",
+      "sol": "Then, like dams breaking one after another, everything that had been held back burst forth.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The bloodshed began with Shaolin Temple in Henan as its first victim, then swept through Sichuan and Anhui before spreading as far as distant Yunnan.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "309",
+      "sol": "The bloodshed began with Shaolin Temple in Henan, swept through Sichuan and Anhui, then spread as far as distant Yunnan.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Sleeping Dragon of Shanxi came to be called the Divine Dragon. The people of the Central Plains, sensing danger, gathered beneath the Murim Alliance’s banner, while even the great sects shrank back from the blades of enemies who might strike at any moment.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "311",
+      "sol": "The Sleeping Dragon of Shanxi came to be called the Divine Dragon. Sensing danger, the people of the Central Plains gathered under the Murim Alliance’s banner. Even the great sects drew back, wary of an enemy blade that might strike at any moment.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, none of this applied to Jamukha.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "313",
+      "sol": "But Jamukha had no reason to fear that enemy.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The enemy everyone in the Central Plains feared, Dark Heaven, was “us” to him.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "315",
+      "sol": "Dark Heaven, which everyone in the Central Plains dreaded, was “us” to him.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This was the moment Jamukha had waited for all his life.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "317",
+      "sol": "This was the moment he had waited for all his life.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "자무카",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jamukha"
+        }
+      ]
+    },
+    {
+      "baseline": "*“By the coming Double Ninth Festival, seize the eastern steppe and gather every soldier to conquer Shanxi.”*",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "319",
+      "sol": "*“By the coming Double Ninth Festival, take control of the eastern steppe. Mobilize every soldier and seize Shanxi.”*",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jamukha immediately summoned his warriors.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "323",
+      "sol": "Jamukha summoned his warriors at once. After so long a wait, he moved with lightning speed.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His movements were as swift as lightning, all the quicker for the long wait.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "327",
+      "sol": "",
+      "sol_paragraphs": "after P125",
+      "sol_range": [
+        125,
+        125
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At last, he raised a great army that encompassed the entire steppe, while the savior relayed news from beyond the Great Wall as it came.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "329",
+      "sol": "At last he assembled an army drawn from across the steppe. The savior, meanwhile, passed along timely news from beyond the Great Wall.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Shanxi Province’s forces, gathered around the Jin Family of Taiyuan. The place expected to become the fiercest battlefield.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "331",
+      "sol": "The strength of Shanxi Province, gathered around the Jin Family of Taiyuan. The place where the fiercest fighting was expected.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "And finally…",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "333",
+      "sol": "And one last thing.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“The Thunderbolt Saber King will go there for certain.”*",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "335",
+      "sol": "*“The Thunderbolt Saber King will go there. Without fail.”*",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even the end point of a grudge grown stale with age, one he absolutely had to wipe away.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "339",
+      "sol": "He had even given Jamukha the place where he could finally settle his oldest grudge.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And it had all gone as predicted.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "343",
+      "sol": "Everything had happened as the savior predicted.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "*Why? Why?!*",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "347",
+      "sol": "*Why? Why?*",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a cry that circled only on the tip of his tongue, Jamukha twisted his unsteady body around.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "349",
+      "sol": "The cry never made it past Jamukha’s tongue. He twisted his staggering body aside.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Pain like a branding iron.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "353",
+      "sol": "Pain seared through him.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even as his eyes saw it and his mind recognized it, his body moved too slowly.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "355",
+      "sol": "He could see the attacks coming. His mind registered them. His body simply could not move fast enough.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The net of Force that had pursued him relentlessly had faded after leaving dozens of large and small wounds across his body. But beyond it stood a great tiger that would never let its prey escape.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "357",
+      "sol": "The net of Force had left dozens of wounds, large and small, across his body before finally fading. Beyond it stood a great tiger that would never let its prey go.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lips pressed tightly together. Eyes flickering with cold fire.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "359",
+      "sol": "Lips pressed tight. Eyes alight with a cold flame.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And in his hands, gripping the immense great saber so tightly that his palms had gone white, brilliant flashes wrapped around the blade without leaving a gap.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "361",
+      "sol": "Both hands gripped the great saber so hard they had gone white. Brilliant light enveloped the blade from end to end.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Thunderbolt Saber King swung without hesitation. Jamukha watched the terrible strike, a fusion of defeat and swiftness, cut through the air.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "365",
+      "sol": "The Thunderbolt Saber King swung without hesitation. Jamukha watched the fearsome strike, its overwhelming power matched by its speed, cut through the air.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And understood.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "367",
+      "sol": "And he understood.",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had only one choice left.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "369",
+      "sol": "",
+      "sol_paragraphs": "after P143",
+      "sol_range": [
+        143,
+        143
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if he lost his strength and fell in this narrow gorge, the choice he was about to make would be a hundred, a thousand times better than dying at the Thunderbolt Saber King’s hands.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "371",
+      "sol": "Only one choice remained. Even if that choice left him drained and collapsed in this narrow gorge, it would be a hundred—a thousand—times better than dying at the Thunderbolt Saber King’s hands.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With Force flying toward him from several yards away and the world slowing down, Jamukha pulled something from inside his robe.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "375",
+      "sol": "As the Force came at him from several yards away, the world seemed to slow. Jamukha took something from inside his robe.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He tossed the small, blood-red pill into his mouth without hesitation.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "377",
+      "sol": "He brought the small, blood-red pill to his mouth without hesitation.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Until, at that very moment, a flash of light came plunging down from above.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "381",
+      "sol": "At that very moment, a flash of light fell from above.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In Jamukha’s eyes, filled with a moment’s pain and disbelief, he saw a spearhead shining in five colors.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "385",
+      "sol": "Through a stab of pain and disbelief, Jamukha saw a spearhead gleaming in five colors.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It pierced the back of his hand—and the Temporary Strength Pill he held in it, his last hope.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "387",
+      "sol": "It had pierced the back of his hand—and the Temporary Strength Pill in his grasp. His last hope.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "389",
+      "sol": "“…!”",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Forgetting even the pain, Jamukha raised his head.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "391",
+      "sol": "Jamukha looked up, forgetting even the pain.",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The owner of the spear, which had fallen from the sky shrouded in deep darkness, spoke not to Jamukha, but to the Thunderbolt Saber King.",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "393",
+      "sol": "The owner of the spear that had fallen from the darkened sky spoke not to Jamukha, but to the Thunderbolt Saber King.",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“With people like this, no amount of caution is ever enough. Don’t you agree?”",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H133",
+      "korean_lines": "395",
+      "sol": "“You can never be too careful with men like him. Wouldn’t you agree?”",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The great saber, which seemed poised to sweep everything away in a single stroke, let out a shrill whistle and stopped in midair.",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H134",
+      "korean_lines": "399",
+      "sol": "The great saber, poised to sweep everything away, whistled through the air and stopped.",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the sight of the familiar face, a smile of surprise appeared at the corner of the Thunderbolt Saber King’s mouth.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H135",
+      "korean_lines": "401",
+      "sol": "The Thunderbolt Saber King recognized the face. A surprised smile touched his lips.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Thunderbolt Saber King continued, his voice thick with emotion, to the middle-aged man with graying hair who looked twenty years younger than his actual age.",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H136",
+      "korean_lines": "405",
+      "sol": "He looked at the graying, middle-aged man, who appeared twenty years younger than he truly was, and spoke with deep feeling.",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "벽력도왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Thunderbolt Saber King"
+        }
+      ]
+    },
+    {
+      "baseline": "Seeing Murong Baek—once his rival for supremacy in the north, but now his true comrade-in-arms and friend after the Great Faction War—the Thunderbolt Saber King grinned broadly and lowered his great saber.",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H137",
+      "korean_lines": "409",
+      "sol": "They had fought countless times for supremacy in the north. Through the Great Faction War, they had become true comrades and friends. The Thunderbolt Saber King grinned broadly at Murong Baek and lowered his saber.",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jamukha was already out of action, and the elite Murong Family troops Murong Baek had brought with him must have joined the battlefield by now.",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H138",
+      "korean_lines": "415",
+      "sol": "Jamukha could no longer fight, and the elite fighters Murong Baek had brought from the Murong Family must already have joined the battle.",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And just as he expected, a shout rang out from beyond the gorge.",
+      "baseline_paragraphs": "P178",
+      "baseline_range": [
+        177,
+        178
+      ],
+      "hunk_id": "H139",
+      "korean_lines": "417",
+      "sol": "Just as he expected, a shout rose from beyond the gorge.",
+      "sol_paragraphs": "P167",
+      "sol_range": [
+        166,
+        167
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Thunderbolt Saber King felt the tension that had gripped his entire body slacken.",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H140",
+      "korean_lines": "421",
+      "sol": "The tension that had held the Thunderbolt Saber King’s entire body taut began to ease.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At least, until a panicked shout from someone who was surely a member of the Hebei Peng Family followed in the next moment.",
+      "baseline_paragraphs": "P181",
+      "baseline_range": [
+        180,
+        181
+      ],
+      "hunk_id": "H141",
+      "korean_lines": "423",
+      "sol": "Then another voice rang out—an urgent shout from someone who was unmistakably a Hebei Peng Family retainer.",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Grand Family Head! The enemy—the Murong Family—!”",
+      "baseline_paragraphs": "P182",
+      "baseline_range": [
+        181,
+        182
+      ],
+      "hunk_id": "H142",
+      "korean_lines": "425",
+      "sol": "“Grand Family Head! Those bastards—the Murong Family bastards…!”",
+      "sol_paragraphs": "P171",
+      "sol_range": [
+        170,
+        171
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What?",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H143",
+      "korean_lines": "427",
+      "sol": "*What?*",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In that instant, the Thunderbolt Saber King’s mind went blank, and he felt a chill creep through his body.",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H144",
+      "korean_lines": "429",
+      "sol": "For an instant, the Thunderbolt Saber King’s thoughts stopped. A sudden chill sank deep into his body.",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beyond the blinding pain, a quiet voice rang out.",
+      "baseline_paragraphs": "P186",
+      "baseline_range": [
+        185,
+        186
+      ],
+      "hunk_id": "H145",
+      "korean_lines": "433",
+      "sol": "Through the blinding pain, he heard a quiet voice.",
+      "sol_paragraphs": "P175",
+      "sol_range": [
+        174,
+        175
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I told you. No matter how careful you are, it’s never enough.”",
+      "baseline_paragraphs": "P187",
+      "baseline_range": [
+        186,
+        187
+      ],
+      "hunk_id": "H146",
+      "korean_lines": "435",
+      "sol": "“I told you. You can never be too careful.”",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P188",
+      "baseline_range": [
+        187,
+        188
+      ],
+      "hunk_id": "H147",
+      "korean_lines": "437",
+      "sol": "“…!”",
+      "sol_paragraphs": "P177",
+      "sol_range": [
+        176,
+        177
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As his vision blurred and faded, the Thunderbolt Saber King suddenly understood.",
+      "baseline_paragraphs": "P189",
+      "baseline_range": [
+        188,
+        189
+      ],
+      "hunk_id": "H148",
+      "korean_lines": "439",
+      "sol": "As his vision faded, the Thunderbolt Saber King understood.",
+      "sol_paragraphs": "P178",
+      "sol_range": [
+        177,
+        178
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young chieftain who should have lost all his power and died a defeated man—how had he shaken off his pursuers and survived until now?",
+      "baseline_paragraphs": "P191",
+      "baseline_range": [
+        190,
+        191
+      ],
+      "hunk_id": "H149",
+      "korean_lines": "443",
+      "sol": "That young chieftain should have lost everything and died a defeated man. How had he shaken off his pursuers and survived all these years?",
+      "sol_paragraphs": "P180",
+      "sol_range": [
+        179,
+        180
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was it.",
+      "baseline_paragraphs": "P193",
+      "baseline_range": [
+        192,
+        193
+      ],
+      "hunk_id": "H150",
+      "korean_lines": "447",
+      "sol": "Of course.",
+      "sol_paragraphs": "P182",
+      "sol_range": [
+        181,
+        182
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "On that day, more than fifty years ago, the one who had pursued him was none other than Murong Baek.",
+      "baseline_paragraphs": "P194",
+      "baseline_range": [
+        193,
+        194
+      ],
+      "hunk_id": "H151",
+      "korean_lines": "449",
+      "sol": "More than fifty years ago, the man who had pursued him was Murong Baek.",
+      "sol_paragraphs": "P183",
+      "sol_range": [
+        182,
+        183
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The true root of all this calamity.",
+      "baseline_paragraphs": "P195",
+      "baseline_range": [
+        194,
+        195
+      ],
+      "hunk_id": "H152",
+      "korean_lines": "451",
+      "sol": "The true source of all this calamity.",
+      "sol_paragraphs": "P184",
+      "sol_range": [
+        183,
+        184
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 184,
+  "sol_sha256": "930007f62c50e346b50af80e11d3f069ac8abee548bd2d19428fa85d020e85d9",
+  "version": 1
+}
