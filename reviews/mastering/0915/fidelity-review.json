@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "the wounds covering us from head to toe",
+      "defect": "The Korean specifies wounds both large and small. The English conveys their extent but omits that detail, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "크고 작은 explicitly describes the wounds as varied in size.",
+      "replacement": "the large and small wounds covering us from head to toe",
+      "severity": "minor",
+      "source": "Lines 13; assembled English P5"
+    },
+    {
+      "confidence": 0.87,
+      "current": "He’d struck a nerve because he was right.",
+      "defect": "This compresses two source beats into one: the remark is on target, and the Demon Lord’s assessment is exceptionally accurate. The explicit emphasis on his accurate judgment, retained in the accepted baseline, is lost.",
+      "id": "F02",
+      "rationale": "The source separately states that the remark hit home and that the Demon Lord’s assessment was that precise.",
+      "replacement": "He’d struck a nerve. His judgment was that accurate.",
+      "severity": "minor",
+      "source": "Lines 49–53; assembled English P21"
+    },
+    {
+      "confidence": 0.82,
+      "current": "He had been commander-in-chief of the Imperial Guards and a Supreme Peak master of the Twelve Palaces of the Zodiac.",
+      "defect": "The past perfect presents his command as a former office. The source identifies him as commander-in-chief and a Supreme Peak master without marking either role as past.",
+      "id": "F03",
+      "rationale": "The source’s apposition identifies who Golden Ox Palace is; it does not say he formerly held the command.",
+      "replacement": "He was the commander-in-chief of the Imperial Guards and a Supreme Peak master of the Twelve Palaces of the Zodiac.",
+      "severity": "minor",
+      "source": "Line 215; assembled English P88"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it drops a couple of source details and shifts Golden Ox Palace’s office into the past.",
+  "version": 1
+}

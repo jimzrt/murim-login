@@ -30,7 +30,7 @@ Jeok Cheongang and I had both used up a considerable amount in the fighting. The
 
 Especially with an enemy as powerful as the Eastern Heaven Demon Lord still ahead of us.
 
-“You both look exhausted. Why don’t you turn back now, while you still can?”
+“You both look rather tired. Why not turn back now?”
 
 The Eastern Heaven Demon Lord glanced over our shoulders.
 
@@ -122,7 +122,7 @@ A raging blaze devoured the air.
 
 *KABOOM!*
 
-It was unbearably hot. And terrifying.
+The heat was terrifying. So was the threat behind it.
 
 As the fighting became a three-way battle, the Eastern Heaven Demon Lord leaped clear of the flames. The situation brought a three-legged cauldron to mind.
 
@@ -134,7 +134,7 @@ So Gyo, the one he had to be most wary of, was tied down fighting well over a th
 
 But even among the three legs of a cauldron that would topple if any one of them broke, there was a most important leg.
 
-That leg was the Eastern Heaven Demon Lord himself.
+Himself.
 
 *That’s why they pushed themselves so hard to break through the encirclement.*
 
@@ -180,7 +180,7 @@ A greatsword larger than most grown men cut through the air.
 
 Jeok Cheongang, who had been pressing the retreating Eastern Heaven Demon Lord without pause, roared:
 
-“How dare a bastard like you!”
+“How dare you!”
 
 At that moment—
 
@@ -216,7 +216,7 @@ Just as it did now.
 
 *GRAAAH!*
 
-With his whites showing and a roar that made anyone who heard it feel fear, the commander of the Imperial Guards, once called Golden Ox Palace, shot forward. His broken golden armor gleamed, proof of the fame he’d earned in life.
+His eyes rolled white, and his roar struck fear into anyone who heard it. The former commander of the Imperial Guards shot forward, his broken golden armor gleaming—a reminder of the fame he’d earned in life.
 
 *Whoosh!*
 

@@ -1,0 +1,2084 @@
+{
+  "baseline_blocks": 166,
+  "baseline_sha256": "24698349e8e6fe0d4b76400156d829362090b3214a6474733133d425b79ab076",
+  "global_terminology_alerts": [
+    {
+      "korean": "열화",
+      "preferred": "Blazing Flame"
+    }
+  ],
+  "hunk_count": 109,
+  "hunks": [
+    {
+      "baseline": "After a brief silence, the Eastern Heaven Demon Lord continued, his gaze sunk deep.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "After a brief silence, the Eastern Heaven Demon Lord spoke again, his gaze dark.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His cold, gray eyes moved between Jeok Cheongang and me.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "His cold gray eyes moved between Jeok Cheongang and me—or, more precisely, over the wounds covering us from head to toe.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "More precisely, they lingered on the large and small wounds etched across our bodies.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "13",
+      "sol": "",
+      "sol_paragraphs": "after P5",
+      "sol_range": [
+        5,
+        5
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The smile I’d forced onto my face slackened. I ignored the pain coming from every part of my body and lowered my stance.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "17",
+      "sol": "The smile I’d forced onto my face faded. I tried to ignore the pain coming from every part of my body and lowered my stance.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I’d lost count of how many of those things I’d taken down. I couldn’t even decide what to call them.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "21",
+      "sol": "",
+      "sol_paragraphs": "after P8",
+      "sol_range": [
+        8,
+        8
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "All I’d done was fight the monsters pouring in without end, then fight some more.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "23",
+      "sol": "I couldn’t even decide what to call those things, let alone remember how many I’d taken down. I’d fought the monsters pouring in without end, then fought some more.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I swung anything I could get my hands on. When there was nothing left to swing, I smashed them apart with my fists and feet.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "25",
+      "sol": "I swung anything I could get my hands on. When there was nothing to swing, I smashed them with my fists and feet.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had to hit them at least three or four times with attacks that should’ve killed them in one blow just to render them unable to fight.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "31",
+      "sol": "Attacks that should have killed a person in one blow had to be delivered at least three or four times before one of these things could no longer fight.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang and I had both spent a considerable amount of internal energy in the fight.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "35",
+      "sol": "",
+      "sol_paragraphs": "after P14",
+      "sol_range": [
+        14,
+        14
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        },
+        {
+          "korean": "공력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "internal energy"
+        }
+      ]
+    },
+    {
+      "baseline": "The Extreme Yang Scorching Yang Qi accumulated through the Fire Gate Clan’s secret cultivation technique was the polar opposite of the death energy the dead possessed. But we couldn’t draw on it without limit.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "37",
+      "sol": "Jeok Cheongang and I had both used up a considerable amount in the fighting. The Extreme Yang Scorching Yang Qi accumulated through the Fire Gate Clan’s secret cultivation technique was the natural opposite of the death energy within the corpses, but we couldn’t draw on it without limit.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Especially with a powerful enemy like the Eastern Heaven Demon Lord still ahead of us.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "39",
+      "sol": "Especially with an enemy as powerful as the Eastern Heaven Demon Lord still ahead of us.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You both look exhausted. Why don’t you turn back now, while you still can?”",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "41",
+      "sol": "“You both look rather tired. Why not turn back now?”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Before everyone left behind is dead.”",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "45",
+      "sol": "“Before everyone you left behind is dead.”",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His words hit a little too close to home, and my hand tightened around the spear before I realized it.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "49",
+      "sol": "My grip tightened around the spear before I realized it. He’d struck a nerve because he was right.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Because he was right.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "51",
+      "sol": "",
+      "sol_paragraphs": "after P21",
+      "sol_range": [
+        21,
+        21
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His judgment was that accurate.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "53",
+      "sol": "",
+      "sol_paragraphs": "after P21",
+      "sol_range": [
+        21,
+        21
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their numbers fell far short of even half the enemy’s.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "57",
+      "sol": "",
+      "sol_paragraphs": "after P22",
+      "sol_range": [
+        22,
+        22
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the enemy were genuine monsters—things that didn’t tire and wouldn’t die easily.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "59",
+      "sol": "They numbered far less than half the enemy. And the enemy were genuine monsters that neither tired nor died easily.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But we’d had no choice but to leave them behind. We’d decided this was the only right answer.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "61",
+      "sol": "Even so, we’d had to leave them behind. We’d judged this our only chance.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He’d raised the dead twice already. There was no guarantee it wouldn’t become three times, or four.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "65",
+      "sol": "He’d raised the dead twice already. Nothing said he couldn’t do it a third or fourth time.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And if the same thing happened again…",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "67",
+      "sol": "And if that happened…",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*We’d die. Every last one of us.*",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "69",
+      "sol": "*We’d die. All of us.*",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As time passed, our allies died while the enemy multiplied.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "71",
+      "sol": "",
+      "sol_paragraphs": "after P28",
+      "sol_range": [
+        28,
+        28
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It wouldn’t matter even if reinforcements arrived—assuming they ever did, and assuming the Emperor had prepared any at all.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "73",
+      "sol": "As time passed, our allies would die and the enemy would multiply. Reinforcements wouldn’t change that, even if they arrived—and I didn’t know when they might come, or whether the Emperor had prepared any at all.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*But if we take out their leader, things will change.*",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "75",
+      "sol": "*But if we take out their leader, that changes things.*",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before I was a Murim martial artist, I’d lived as a Hunter. I knew that the fastest, most efficient way to bring down an undead army was to eliminate the Lich who’d raised them from the dead.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "77",
+      "sol": "I’d lived as a Hunter before I ever became a Murim martial artist. I knew the fastest, most effective way to bring down an undead army was to eliminate the Lich who’d raised it.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "We had to take him down somehow within that time. If it went longer, the gap left by Jeok Cheongang and me would be filled with the bodies of our allies.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "83",
+      "sol": "We had to take him down within that time. Any longer, and the gap Jeok Cheongang and I had left would be filled with our allies’ corpses.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The result would be the same if the other front, where So Gyo and Baek Yeon were holding the line, collapsed.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "85",
+      "sol": "The result would be the same if the other front, where So Gyo and Baek Yeon were holding the line, collapsed. Defeating the Eastern Heaven Demon Lord before the balance between those two fronts tipped was the only way out.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The only way to turn this situation around was to defeat the Eastern Heaven Demon Lord before the balance of the two fronts tipped.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "87",
+      "sol": "",
+      "sol_paragraphs": "after P35",
+      "sol_range": [
+        35,
+        35
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "동천마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Eastern Heaven Demon Lord"
+        },
+        {
+          "korean": "마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "*Can we do it? In that short a time?*",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "91",
+      "sol": "*Can we do it? In that little time?*",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The doubt that suddenly surfaced refused to leave.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "93",
+      "sol": "",
+      "sol_paragraphs": "after P37",
+      "sol_range": [
+        37,
+        37
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I didn’t know if this was the right choice.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "95",
+      "sol": "I couldn’t shake the sudden doubt. I didn’t know if we’d made the right choice.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Maybe saving Prince Shangshan and the Fire Dragon Pavilion members and escaping this damn imperial palace was the best we could do. Maybe surviving, even if that was all we managed, was the right answer. The question stabbed at a corner of my heart like an awl.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "97",
+      "sol": "Maybe the best we could do was save Prince Shangshan and the Fire Dragon Pavilion members and escape this damn imperial palace. Maybe surviving—even if that was all we managed—was the right answer. The thought pierced me like an awl.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The roars I’d been trying to ignore behind me, the screams of people and the clash of blades, rang sharply in my ears. They kept tearing through my thoughts.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "103",
+      "sol": "The roars behind me that I’d tried to ignore came through clearly now, along with people’s screams and the clash of blades. The sounds kept tearing through my thoughts.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I swallowed the curse rising to my lips and gripped the spear shaft until it felt ready to burst.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "107",
+      "sol": "I swallowed the curse rising to my lips and gripped the spear shaft until my hand felt ready to burst.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Jeok Cheongang’s Sound Transmission, as if he could see straight through my thoughts, my wavering heart settled into a surprising calm.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "115",
+      "sol": "Jeok Cheongang’s Sound Transmission came as if he’d seen straight through my thoughts. To my surprise, my wavering heart grew calm.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If it’s the Old Master, if I’m with Jeok Cheongang, it’s possible.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "121",
+      "sol": "With the Old Master, with Jeok Cheongang, it’s possible. Because I’m not alone. It’s *us*.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Because I’m not alone. It’s *us*.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "123",
+      "sol": "",
+      "sol_paragraphs": "after P51",
+      "sol_range": [
+        51,
+        51
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if we’re facing three Supreme Peak masters.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "125",
+      "sol": "",
+      "sol_paragraphs": "after P51",
+      "sol_range": [
+        51,
+        51
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        },
+        {
+          "korean": "초절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Supreme Peak"
+        },
+        {
+          "korean": "고수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "master"
+        }
+      ]
+    },
+    {
+      "baseline": "Even if every one of them is a monster who’s already left humanity far behind.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "127",
+      "sol": "Even if we’re facing three Supreme Peak masters. Even if every one of them is a monster who’s left humanity far behind.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the forceful words that pierced my ear, Jeok Cheongang and I stepped forward at the same time.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "135",
+      "sol": "At his forceful command, Jeok Cheongang and I stepped forward together.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As space vanished in an instant, we thrust out our palms as if we’d planned it long ago.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "139",
+      "sol": "The distance vanished in an instant. As though we’d agreed on it long ago, we thrust out our palms.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*BOOM!*",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "149",
+      "sol": "*KABOOM!*",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was unbearably hot. And terrifying.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "153",
+      "sol": "The heat was terrifying. So was the threat behind it.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the fight became a three-way battle, the Eastern Heaven Demon Lord leaped clear of the flames and suddenly thought of a three-legged cauldron.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "155",
+      "sol": "As the fighting became a three-way battle, the Eastern Heaven Demon Lord leaped clear of the flames. The situation brought a three-legged cauldron to mind.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If even one leg gives way, the whole cauldron loses its balance.*",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "157",
+      "sol": "*Break even one leg, and the whole thing loses its balance.*",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The overall battle was certainly in his favor.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "159",
+      "sol": "The battle as a whole was certainly going his way.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "So Gyo, the one he had to be most wary of, was tied down fighting the well over a thousand monsters alongside Baek Yeon. The best the Embroidered Uniform Guard led by Jeong Hogun and the Fire Dragon Pavilion members could do was hold on.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "161",
+      "sol": "So Gyo, the one he had to be most wary of, was tied down fighting well over a thousand monsters alongside Baek Yeon. The best the Embroidered Uniform Guard led by Jeong Hogun and the Fire Dragon Pavilion members could do was hold on.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But even a three-legged cauldron, which would topple if a single leg disappeared, had one leg more important than the others.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "163",
+      "sol": "But even among the three legs of a cauldron that would topple if any one of them broke, there was a most important leg.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That leg was the Eastern Heaven Demon Lord himself.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "165",
+      "sol": "Himself.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동천마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Eastern Heaven Demon Lord"
+        },
+        {
+          "korean": "마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "*That’s why they broke through the encirclement at such a cost.*",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "167",
+      "sol": "*That’s why they pushed themselves so hard to break through the encirclement.*",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After easily dodging the first missed attack and then the second, the Eastern Heaven Demon Lord calmly watched the two men charging at him.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "171",
+      "sol": "The first blow missed him. He evaded the second just as easily, calmly watching the two men charge.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동천마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Eastern Heaven Demon Lord"
+        },
+        {
+          "korean": "마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "They’d grasped the heart of the matter in an instant.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "173",
+      "sol": "",
+      "sol_paragraphs": "after P72",
+      "sol_range": [
+        72,
+        72
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid the chaos of fallen enemies and comrades alike rising again, they’d seen through his weakness.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "175",
+      "sol": "They’d grasped the heart of the matter at once. Amid the chaos of fallen enemies and comrades rising again, they’d found his weakness.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "So which of the two had made the call—the Master or the Disciple?",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "177",
+      "sol": "But which of them had made the call—the Master or the Disciple?",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If it was the former, I’d expect nothing less of the Fire King. But if it was the latter… I understand why that person wants him so badly.*",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "183",
+      "sol": "*If it was the former, I’d expect nothing less of the Fire King. But if it was the latter… I see why that person wants him so badly.*",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Powerful enough to defy his age. On top of that, a composure that never wavered, and the bold judgment to see through the heart of a battle in any situation.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "185",
+      "sol": "Martial prowess far beyond his years. Composure that held in any situation, and the bold judgment to see straight to the heart of a battle.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even the armies of the Great Nation, numbering a million, had many fierce generals.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "187",
+      "sol": "The Great Nation’s military, nearly a million strong, had plenty of fierce generals. Truly great commanders were rare.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But truly great commanders were rare.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "189",
+      "sol": "",
+      "sol_paragraphs": "after P79",
+      "sol_range": [
+        79,
+        79
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And Jin Taekyung had both qualities. At barely past twenty.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "191",
+      "sol": "Jin Taekyung had both qualities, though he was barely past twenty.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Could that person intend for this boy to fill the vacancies left by those who have departed?*",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "193",
+      "sol": "*Does that person mean to have the boy fill the places left by the departed?*",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Over the past few months, the Western Heaven Demon Lord had died, and so had the Southern Heaven Demon Empress.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "195",
+      "sol": "In the past few months, the Western Heaven Demon Lord and the Southern Heaven Demon Empress had died. Other powerful figures remained, himself among them, but the strength lost with those two had to be replaced somehow.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Though many powerful figures remained, including the Eastern Heaven Demon Lord himself, the forces lost with those who had departed had to be replenished somehow.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "197",
+      "sol": "",
+      "sol_paragraphs": "after P82",
+      "sol_range": [
+        82,
+        82
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "동천마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Eastern Heaven Demon Lord"
+        },
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        },
+        {
+          "korean": "마군",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "For his revenge.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "199",
+      "sol": "",
+      "sol_paragraphs": "after P82",
+      "sol_range": [
+        82,
+        82
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For the great undertaking that remained.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "201",
+      "sol": "For his revenge. For the great undertaking still ahead.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And in that sense, Jin Taekyung looked to the Eastern Heaven Demon Lord like a fine prospect—one who could more than fill the gap they’d left behind.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "203",
+      "sol": "And to the Eastern Heaven Demon Lord, Jin Taekyung looked more than capable of filling the gap they’d left.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His Master, of course, could never be allowed to live.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "205",
+      "sol": "His Master, of course, could not be allowed to live.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the Eastern Heaven Demon Lord moved with fluid evasions, a bell rang out.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "209",
+      "sol": "The bell rang as the Eastern Heaven Demon Lord flowed away from another attack.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same moment, Golden Ox Palace—the commander-in-chief of the Imperial Guards and a Supreme Peak master of the Twelve Palaces of the Zodiac—reacted at once.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "211",
+      "sol": "Golden Ox Palace responded at once. He had been commander-in-chief of the Imperial Guards and a Supreme Peak master of the Twelve Palaces of the Zodiac.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A greatsword, larger than most grown men, cut through the air.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "215",
+      "sol": "A greatsword larger than most grown men cut through the air.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang had been relentlessly pressing the retreating Eastern Heaven Demon Lord. Now he let out a shout like a burst of flame.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "217",
+      "sol": "Jeok Cheongang, who had been pressing the retreating Eastern Heaven Demon Lord without pause, roared:",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How dare a bastard like you!”",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "219",
+      "sol": "“How dare you!”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In that moment—",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "221",
+      "sol": "At that moment—",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Force of the greatsword, stronger than it had been in life, met the heat of the Flame-Extinguishing Divine Fist.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "225",
+      "sol": "The Force coating the greatsword, stronger than it had been in life, met the heat of the Flame-Extinguishing Divine Fist.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—it was swept away by it.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "227",
+      "sol": "No. The flames swallowed it.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Force, unable to withstand the terrifying power, shattered along with the greatsword. The blazing flames melted the dozens of fragments and sent them flying back.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "233",
+      "sol": "Unable to withstand the tremendous power, the Force shattered along with the greatsword. The flames melted the dozens of fragments even as they hurled them back at the wielder who had dared challenge the Fire King.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "열화",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blazing Flame"
+        }
+      ]
+    },
+    {
+      "baseline": "Straight toward the wielder of the greatsword, who had dared to challenge the name of the Fire King.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "235",
+      "sol": "",
+      "sol_paragraphs": "after P99",
+      "sol_range": [
+        99,
+        99
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "화왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Fire King"
+        }
+      ]
+    },
+    {
+      "baseline": "More than ten blood-streaked shards shot into him like flashes of light, shattering flesh and bone as they lodged inside.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "239",
+      "sol": "More than ten blood-streaked shards drove into him like flashes of light, shattering flesh and bone as they lodged inside.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The impact shook Golden Ox Palace’s body, and the blood still left inside him gushed out like a fountain.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "241",
+      "sol": "The impact shook Golden Ox Palace’s body. The blood left within him gushed out like a fountain.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Any physician in the land would have looked at the wound and been certain he was dead on the spot.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "245",
+      "sol": "Any physician in the land would have taken one look at his wounds and pronounced him dead on the spot.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But Golden Ox Palace had become a monster, and with that came a cursed tenacity—a life that refused to end. He also had a mission that had to be completed, no matter how many times he died.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "247",
+      "sol": "But Golden Ox Palace was no longer human. He had a cursed tenacity that kept him moving, and a mission he had to carry out no matter how many times he died.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His master’s command, driven deep into the empty consciousness that had opened before him. His sole mission, engraved in the sound of the bell, poured strength into the swaying corpse. It sent him charging forward without a care for the pain he’d already forgotten.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "251",
+      "sol": "His master’s command had been driven deep into his emptied mind. Engraved there by the bell, that single mission lent strength to his staggering corpse and sent him charging forward, heedless of pain he could no longer remember.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Just as he was now.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "253",
+      "sol": "Just as it did now.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With his whites showing and a roar that made anyone who heard it feel fear, the commander of the Imperial Guards, once called Golden Ox Palace, shot forward. His broken golden armor gleamed, proof of the fame he’d earned in life.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "257",
+      "sol": "His eyes rolled white, and his roar struck fear into anyone who heard it. The former commander of the Imperial Guards shot forward, his broken golden armor gleaming—a reminder of the fame he’d earned in life.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "금우궁",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Golden Ox Palace"
+        }
+      ]
+    },
+    {
+      "baseline": "The wind buckled. Space vanished.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "261",
+      "sol": "The wind buckled. The space between them vanished.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even as the armor and flesh of his body melted together in the heat and flames blocking his path, he didn’t stop.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "263",
+      "sol": "",
+      "sol_paragraphs": "after P112",
+      "sol_range": [
+        112,
+        112
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Like an enraged bull, true to the name Golden Ox Palace, he charged with all his might.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "265",
+      "sol": "Even when the flames in his path melted his armor and flesh together, he didn’t stop. Like an enraged bull, true to the name Golden Ox Palace, he charged with all his might.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At one person alone.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "267",
+      "sol": "Toward one man.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And to carry out the order of his master, who meant to use him as a shield to bring that giant down.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "271",
+      "sol": "He would serve as his master’s shield and carry out the order to bring that giant down.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Force surged over what could no longer be called a greatsword, with barely a handspan of blade left.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "275",
+      "sol": "Force surged over the handspan of blade that remained of his greatsword.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But in that moment, Jeok Cheongang’s keen senses detected another attack closing in from an angle.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "277",
+      "sol": "But Jeok Cheongang’s keen senses detected another attack closing in from an angle.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Eastern Heaven Demon Lord. It was him.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "281",
+      "sol": "The Eastern Heaven Demon Lord.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A man as powerful as he was cunning, a vengeful spirit willing to turn himself into a living monster to avenge his sect’s grudge, twisted his body and shot toward Jeok Cheongang like a flash of light.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "283",
+      "sol": "As powerful as he was cunning, he had turned himself into a living monster to avenge his sect. Now he changed course and came at Jeok Cheongang like a flash of light, alongside the other monster charging heedlessly through the flames of the Flame-Extinguishing Divine Fist.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Alongside another monster, one who paid no heed to the flames of the Flame-Extinguishing Divine Fist.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "285",
+      "sol": "",
+      "sol_paragraphs": "after P122",
+      "sol_range": [
+        122,
+        122
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "멸염신권",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Flame-Extinguishing Divine Fist"
+        }
+      ]
+    },
+    {
+      "baseline": "In the slowed world, a flicker of conflict crossed Jeok Cheongang’s eyes.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "289",
+      "sol": "In the slowed world, conflict flickered across Jeok Cheongang’s eyes.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were less than one *jang* away.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "291",
+      "sol": "",
+      "sol_paragraphs": "after P124",
+      "sol_range": [
+        124,
+        124
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was too late to retreat.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "293",
+      "sol": "Less than one *jang* separated them. It was too late to retreat.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, that would be best if he could manage it. But if he failed, and ended up with an even more serious injury…",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "297",
+      "sol": "If he succeeded, that would be best. But if he failed and suffered an even more serious injury…",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And Jeok Cheongang wasn’t worried about his own life.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "301",
+      "sol": "It wasn’t his own life Jeok Cheongang was worried about.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the one fighting not far away.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "303",
+      "sol": "",
+      "sol_paragraphs": "after P129",
+      "sol_range": [
+        129,
+        129
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His proud Disciple was exhausted to the limit, yet still driving Ma Sanbao back.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "305",
+      "sol": "His Disciple was fighting not far away. Exhausted as the boy was, he was still driving Ma Sanbao back. Jeok Cheongang could not have been prouder of him.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was why he couldn’t avoid the attack bearing down on him.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "309",
+      "sol": "That was why he couldn’t avoid the attack bearing down on him. He had no choice but to meet it.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had no choice but to fight back.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "311",
+      "sol": "",
+      "sol_paragraphs": "after P132",
+      "sol_range": [
+        132,
+        132
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if he suffered an injury he’d never recover from, even if his life ended, he had to win this clash.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "313",
+      "sol": "Even if he suffered an injury he would never recover from, even if he died, he had to win this clash. He had to give those monsters a certain death they could never overcome.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had to give those monsters a certain death they would never overcome again.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "315",
+      "sol": "",
+      "sol_paragraphs": "after P133",
+      "sol_range": [
+        133,
+        133
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Yes. That’s the only way…*",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "317",
+      "sol": "*Yes. Only then…*",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the slow-moving time, a single flame blossomed beautifully.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "323",
+      "sol": "In the slow-moving world, a single flame blossomed beautifully.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Fire King Jeok Cheongang swung both arms, unleashing flames more fierce than ever before.",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "327",
+      "sol": "The Fire King Jeok Cheongang thrust out both arms, unleashing flames fiercer than ever before.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The deafening boom and the flash that filled his vision returned time to motion. Within that shuddering moment, a streak of swordlight mingled with a familiar cry.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "331",
+      "sol": "A deafening blast and a flash that filled his vision set time moving again. Through that shuddering moment came a streak of swordlight and a familiar cry.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 144,
+  "sol_sha256": "ce3359e0a07a554a8938506ec56544f26bf58440ed38abf14b910e80cef07741",
+  "version": 1
+}
