@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "My condolences.",
+      "defect": "This can imply that someone has died, but the Korean only expresses regret or says the situation is unfortunate.",
+      "id": "F01",
+      "rationale": "“유감일세” expresses regret; it does not convey condolences for a death.",
+      "replacement": "That’s unfortunate.",
+      "severity": "minor",
+      "source": "Korean line 237"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one minor implication that the Korean does not establish.",
+  "version": 1
+}

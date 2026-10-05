@@ -14,7 +14,7 @@ Still, in more than ten years at the mountain stronghold, the bandit had never o
 
 *Why would they come all the way out to a backwater like this…?*
 
-Even if a tiger stays in its cave, every beast knows who their king is, who owns this mountain.
+Even if a tiger never leaves its cave, every beast knows who rules the mountain.
 
 The Nangong Family was that tiger.
 
@@ -78,9 +78,9 @@ More precisely, he found their chief sprawled out, while his brothers were, for 
 
 “I never meant to block your way, sir. So please, just…”
 
-An unfamiliar back. An ominous feeling he couldn’t explain.
+An unfamiliar back. A feeling that something was terribly wrong.
 
-The deputy chief was earnestly explaining something to a bald man and a woman standing before everyone when he spotted the bandit watching blankly from some forty yards away. His eyes widened.
+The deputy chief was earnestly explaining himself to a bald man and a woman standing before everyone. Then he spotted the bandit watching blankly from a dozen or so jang away, and his eyes widened.
 
 “Huh?”
 
@@ -226,13 +226,13 @@ After a brief silence, I spoke.
 
 Even as I said it, I knew the truth.
 
-This was a lie meant to hide what I really thought—something closer to an attempt to comfort myself.
+I was hiding what I really thought. It was a lie, more an attempt to comfort myself than him.
 
 *The Jin Family of Taiyuan can’t manage it alone.*
 
 Even Shaolin Temple, called the Mount Tai and Northern Dipper of the Murim, and the Sichuan Tang Clan, with its terrifying poisons, had suffered heavy losses.
 
-Fortunately, Qingcheng, Emei, and the Nanman Beast Palace had kept their losses to a minimum and preserved their forces. But there was no denying that they’d faced a tremendous crisis.
+Fortunately, Qingcheng, Emei, and the Nanman Beast Palace had kept their losses to a minimum and preserved their forces. But there was no denying how close they’d come to disaster.
 
 And this time, it was Dark Heaven’s main force.
 
@@ -254,7 +254,7 @@ My chest felt tight. I couldn’t stop thinking that if I’d found the missive 
 
 I’d lost three full days unconscious, and the Quest that appeared the moment I checked the missive in the iron chest had locked the door connecting me to reality.
 
-It had taken away my last refuge, my place of rest, and forced me to move forward.
+It had taken away my last refuge, my place of rest, and was forcing me forward.
 
 As if this were the only path I’d been given.
 
