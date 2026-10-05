@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Spend a few years working as a Hunter, and you stop batting an eye at most things.",
+      "defect": "The source describes Hunters as a specialized occupational group and says one grows accustomed to most situations. The current line omits the occupational detail and broadens “situations” to “things.”",
+      "id": "F01",
+      "rationale": "The Korean explicitly calls Hunter a 특수 직업군 (specialized occupational group) and refers to 어지간한 상황 (most situations). The accepted baseline preserved both details.",
+      "replacement": "Spend a few years in the specialized Hunter profession, and you stop batting an eye at most situations.",
+      "severity": "minor",
+      "source": "Lines 5–6"
+    },
+    {
+      "confidence": 0.95,
+      "current": "For as long as anyone could remember, the Murim had fascinated the continent’s gossips.",
+      "defect": "“For as long as anyone could remember” places the timeframe within living memory, which the source does not establish.",
+      "id": "F02",
+      "rationale": "아득한 과거부터 means “from the distant past.” The accepted baseline’s “From time immemorial” preserves that span; the current wording narrows it.",
+      "replacement": "Since time immemorial, the Murim had fascinated the continent’s gossips.",
+      "severity": "minor",
+      "source": "Line 157"
+    }
+  ],
+  "summary": "The assembled copy is largely faithful, but it loses a detail about the Hunter profession and shifts the opening of the Murim history from the distant past to the limits of living memory.",
+  "version": 1
+}

@@ -4,7 +4,7 @@ They say even a dog at a village school can recite poetry after three years. Spe
 
 The awful stench coming off a monster’s body? That’s nothing.
 
-If you see blood spraying like a fountain and someone’s limbs getting chopped off—not in a game or a movie, but in real life—
+You see blood spraying like a fountain and someone’s limbs getting chopped off—not in a game or a movie, but in real life.
 
 And if that someone is you or one of your companions… well, there’s no need to say more.
 
@@ -12,7 +12,7 @@ First comes the fear of death, before you even set foot on a battlefield. Then y
 
 That was how it happened for me.
 
-But even I, with a fair amount of hard-earned experience under my belt, couldn’t hold back the nausea rising from the pit of my stomach right now.
+But even with all the experience I’d gained, I couldn’t hold back the nausea rising from the pit of my stomach.
 
 “That’s…”
 
@@ -30,7 +30,7 @@ As heir to the Yongbong Escort Bureau, she’d had far more experience than othe
 
 No, the fact that she hadn’t thrown up was impressive.
 
-Everyone here—including me, who’d fought my way through all kinds of hellish situations—was barely holding back a gag, our faces twisted.
+Everyone here—including me, who’d fought my way through all kinds of hell—was barely holding back a gag.
 
 “What… What is this?”
 
@@ -38,7 +38,7 @@ The Divine Physician muttered in a strained voice.
 
 The old physician’s eyes trembled with undisguised shock and the fear of someone who’d glimpsed something beyond comprehension.
 
-Along with a sight before us that was impossible to believe.
+Something like the sight before us.
 
 *Sizzle. Hissss.*
 
@@ -54,13 +54,13 @@ The black-clad figures—no, the *things*—let out strange, unrecognizable crie
 
 As though they couldn’t feel the slightest pain.
 
-As though they didn’t even know what state their bodies were in.
+As though they didn’t even know what had happened to their bodies.
 
 *Crack. Crumble.*
 
 Arms, legs, and other parts blackened by the Scorching Yang Qi that had swept through them broke apart and scattered as ash.
 
-One of the things that lost its balance and fell tilted its head.
+One of the things fell and tilted its head.
 
 “Grr…?”
 
@@ -94,7 +94,7 @@ And they looked nothing like creatures with any life left in them.
 
 Namho had lived through the horrors of the Great Faction War. His groan spoke for everyone here—except me.
 
-Or, to be more precise, at that moment I was seeing something else the others didn’t know.
+Or, more precisely, I was seeing something the others didn’t yet understand.
 
 *How is this possible?*
 
@@ -140,7 +140,7 @@ Through the ringing air, the smoke still hanging thick around us, and the blazin
 
 “Grrraaaaa!”
 
-Their cries carried the chill of death.
+Their cries carried the aura of death.
 
 * * *
 
@@ -166,7 +166,7 @@ Everyone named in the *Murim Ranking Record* was a formidable master. The closer
 
 Supreme Peak masters of the orthodox faction, the unorthodox faction, the Demonic Cult, or somewhere between orthodox and unorthodox.
 
-Among them were wandering martial artists who roamed the Murim alone like lone wolves, heirs to mysterious and little-known sects, leaders of great powers, and people called Cult Leaders. Most of them shared one thing in common.
+There were wandering martial artists who roamed the Murim alone like wolves, heirs to little-known mysterious sects, leaders of great powers, and those called Cult Leaders. Most shared one thing in common.
 
 Nonaggression. A ban on fighting.
 
@@ -174,7 +174,7 @@ They didn’t confront one another lightly, much less come to blows.
 
 That was only natural when every one of them was a giant capable of moving the Murim. For the gossips, though, it was a disappointment.
 
-If a life-and-death duel broke out between Supreme Peak masters, they’d learn for certain who outranked whom—and gain a rare story they could dine out on for the rest of their lives.
+A life-and-death duel between Supreme Peak masters would settle their ranking—and give anyone who witnessed it a story to tell over drinks for the rest of their life.
 
 But conflict in the Murim didn’t erupt so easily. For a long time, the last page of the *Murim Ranking Record*, where the greatest warriors’ names were written, went unchanged.
 
@@ -200,15 +200,15 @@ But just as surely as the sun rose and set, new names appeared.
 
 “What?”
 
-“It says it was all done by one person. He wiped out a thousand Demonic Cult members alone, without anyone’s help. Not a single one was spared.”
+“It says one man did it. He wiped out all thousand of them alone, without anyone’s help. Not a single one survived.”
 
 “…What?”
 
-The name Jeok Cheongang was first made known that way. A few years later, he acquired the title Fire King. By the end of the Great Faction War, which had shaken the world of the Murim, his name had made it to the last page of the *Murim Ranking Record*.
+That was how the name Jeok Cheongang first became known. After a few more sunsets and sunrises, he gained the title Fire King. And by the end of the Great Faction War, which had shaken the world, his name had reached the last page of the *Murim Ranking Record*.
 
 The Martial God and the Three Saints.
 
-And among the ten Supreme Peak masters who followed them, he was the fiercest and strongest of the kings: the King of Kings.
+Then, among the ten Supreme Peak masters who followed them, the fiercest and strongest king of all.
 
 Fire King Jeok Cheongang.
 
@@ -276,7 +276,7 @@ If anything, Jeok Cheongang heard it more clearly.
 
 *Shh-shh-shh-shing!*
 
-Wind sharp as blades whipped around him. But the Eastern Heaven Demon Lord’s fierce attack—the pale-skinned old man’s—didn’t touch a single part of Jeok Cheongang’s body.
+Wind sharp as blades whipped around him. But none of the Eastern Heaven Demon Lord’s fierce attacks touched Jeok Cheongang.
 
 To him, that felt entirely natural.
 
@@ -298,7 +298,7 @@ He had been wrong. His departed friend had been right.
 
 “I’ll try.”
 
-As the words scattered from the tip of his tongue, a faint smile formed on Jeok Cheongang’s lips.
+The words left his lips, and a faint smile appeared on Jeok Cheongang’s face.
 
 At that moment—
 
