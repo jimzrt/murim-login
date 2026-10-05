@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is broadly faithful, with two minor details weakened in the description of Prince Shangshan’s maturity.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 139",
+      "current": "but it was a mark of adulthood.",
+      "defect": "The source says this was what qualified him as an adult, not merely a sign of adulthood.",
+      "replacement": "but that was what qualified him as an adult.",
+      "rationale": "어른의 자격 means the qualification or grounds for being an adult; “a mark of adulthood” weakens that claim.",
+      "confidence": 0.89
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 141",
+      "current": "At thirteen, he’d already shown he could do something even adults who’d merely grown older with the years they’d been given could not.",
+      "defect": "The assembled sentence omits that Prince Shangshan proved this on his own.",
+      "replacement": "At thirteen, Prince Shangshan had already proved on his own that he could do what even adults who’d merely grown older with the years they’d been given could not.",
+      "rationale": "The source explicitly says 홀로 입증해 보였다 (“proved on his own”); the accepted baseline also preserved this detail.",
+      "confidence": 0.95
+    }
+  ]
+}

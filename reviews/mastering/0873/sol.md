@@ -1,6 +1,6 @@
 # Chapter 873
 
-The same words can mean different things depending on who says them and the circumstances.
+The same words could mean different things depending on who said them and when.
 
 The Emperor’s words were no exception.
 
@@ -8,7 +8,7 @@ The Emperor’s words were no exception.
 
 “……!”
 
-At the unexpected words, Prince Shangshan jerked his head up from his prostration. I couldn’t stop a groan from slipping through my lips.
+Prince Shangshan jerked his head up from his prostration. I couldn’t stop a groan from slipping out.
 
 “Mm.”
 
@@ -34,11 +34,11 @@ Just like now.
 
 *He’s really enjoying this.*
 
-I lowered my head slightly as I watched the Emperor’s eyes gleam like a child who’d found an amusing new toy. I was trying to hide the way I’d clenched my teeth without realizing it.
+The Emperor’s eyes gleamed like a child’s upon finding a new toy. I lowered my head slightly to hide the teeth I’d clenched without realizing it.
 
 Just how far did that arrogant Emperor’s patience extend? If I crossed some invisible line he’d drawn, could I bear the consequences?
 
-Questions like those suddenly flashed through my mind, but right now I had to do whatever I could to fend off the Emperor’s grasping hand reaching for Prince Shangshan.
+The questions flashed through my mind, but right now I had to fend off the hand he’d reached toward Prince Shangshan.
 
 *Stay calm.*
 
@@ -50,11 +50,11 @@ I took a small breath and slowly spoke.
 
 The Emperor gave me a mocking look and continued.
 
-“Tell me, who are these loyal subjects you spoke of? That devious eunuch? Or that martial-world ruffian who flouts the Great Nation’s rules of propriety and roams the land?”
+“Tell me, who are these loyal subjects you spoke of? That devious eunuch? Or the martial-world ruffian who flouts the Great Nation’s laws and roams wherever he pleases?”
 
 Even a stray dog would know the first meant Hong Jin and the second meant me.
 
-But I didn’t so much as flinch. I bowed deeply and answered.
+But I didn’t flinch. I cupped my hands in a deep bow and answered.
 
 “Your Majesty is right that I belong to the martial world. I have roots in my family and my martial school.”
 
@@ -62,13 +62,13 @@ But I didn’t so much as flinch. I bowed deeply and answered.
 
 “Though I am not his subject, I was summoned as His Highness’s guest, and Your Majesty gave me permission to speak.”
 
-“This is getting more interesting by the moment. But dress a beast in clothes, and does that make it a person? Don’t waste my precious time on pointless formalities that don’t suit you. Get to the point. Briefly and simply.”
+“This grows more interesting. But dress a beast in clothes, and does that make it a person? Don’t waste my precious time on formalities that don’t suit you. Get to the point. Briefly and simply.”
 
 Briefly and simply.
 
 That was music to my ears.
 
-But now was the time to bow once more, just in case. I looked down at the soft carpet and said,
+But just in case, I needed him to give a little more ground. I looked down at the soft carpet.
 
 “How could I do that?”
 
@@ -90,17 +90,17 @@ With that safety net in place, I finally raised my head and looked at him. Then 
 
 “……!”
 
-The instant the Emperor’s eyes flashed—
+The Emperor’s eyes flashed.
 
 Whoosh!
 
 Killing intent like invisible blades shot in from all sides and wrapped around me.
 
-It was the killing intent of dozens of imperial guards—or rather, assassins—who had already revealed themselves once before. They’d all sent it at me at the same time.
+It came from the dozens of imperial guards—or rather, assassins—who had revealed themselves earlier. Every one of them had turned it on me at once.
 
 Their martial skill was at Peak, but their abilities as assassins had reached Supreme Peak.
 
-If they unleashed the one-strike killing techniques they’d spent their whole lives honing, staking their lives on them, even I wouldn’t get away unscathed.
+If they staked their lives on the killing techniques they’d spent a lifetime honing, even I wouldn’t get away unscathed.
 
 But what I feared never happened.
 
@@ -114,7 +114,7 @@ Holding back the assassins who seemed ready to drop from the air and carve me to
 
 “Prince Shangshan doesn’t need my care?”
 
-“Yes.”
+“No.”
 
 “Do you not know he’s only twelve years old?”
 
@@ -146,13 +146,11 @@ I shrugged.
 
 “You know about him, too.”
 
-The Emperor even knew about the Slaughter Saint.
-
-I didn’t know how deeply he’d dug into my affairs, but the fact that I was involved with one of the few members of the imperial family probably didn’t even count as noteworthy information to him.
+The Emperor even knew about the Slaughter Saint. I didn’t know how deeply he’d dug into my affairs, but my involvement with one of the few imperial relatives probably barely counted as information to him.
 
 The mention of Ju Wongong made him frown.
 
-“Everything ultimately comes from status and authority, not age. If this boy were no more than a distant imperial relative like Ju Wongong, do you think he could have shouted at Baek Yeon so boldly?”
+“Everything ultimately comes from status and authority, not age. If this boy were merely a distant imperial relative like Ju Wongong, do you think he could have shouted at Baek Yeon like that?”
 
 “I’ve heard there’s nothing more pointless than arguing about something that never happened. Besides, making the most of what you’ve been given isn’t something a child can do, either.”
 
@@ -176,9 +174,9 @@ The Emperor clicked his tongue at my ready answer.
 
 I swallowed the curses threatening to burst out and asked, “If you did that, what would become of His Highness?”
 
-It might have crossed a line. A ruffian from the martial world had no business asking about that, and the Emperor could have shouted me down with that very argument.
+That question might have crossed a line. The Emperor would have been well within his rights to ask what business a martial-world ruffian had knowing.
 
-But the Emperor answered readily, like a judge watching to see how far I’d cross the line.
+Instead, he answered readily, like a judge waiting to see how far I’d go.
 
 “He’ll return to where he belongs. He’ll live in the imperial palace, study under excellent teachers, and be served by loyal palace attendants in surroundings far better than barren Shanxi Province.”
 
@@ -194,7 +192,7 @@ And…
 
 *They’ll watch his every move for the Emperor and do whatever he orders.*
 
-Even if that order were to assassinate him.
+Even if the order was to assassinate him.
 
 The thought left my mind cold.
 
@@ -264,7 +262,7 @@ The assassin called Third Shadow had been pressing his dagger against my throat 
 
 “You’re slow to answer.”
 
-“……I am humbled, Your Majesty.”
+“……I stand in fear and awe, Your Majesty.”
 
 “I clearly made a promise. Yet you disobeyed my command and tried to harm him.”
 
