@@ -2,9 +2,7 @@
 
 At some point, the Thunderbolt Saber King, Peng Cheolhu, had begun to laugh without a sound.
 
-Even as the several sixty-year cycles’ worth of internal energy he’d accumulated, along with every ounce of strength in his body, melted away and vanished, the clear smile at the corners of his wrinkled mouth remained.
-
-Just like the brilliant halo of light still brightening his view in this very moment.
+The several sixty-year cycles of internal energy he’d accumulated, along with every ounce of strength in his body, was melting away. Yet the bright smile on his wrinkled face remained, as though it belonged there as surely as the brilliant light filling his vision.
 
 *Whoooosh.*
 
@@ -20,17 +18,17 @@ The air turned searing hot. Through it, the Thunderbolt Saber King saw three rad
 
 No—what he saw was a young man seated cross-legged, slowly rising into the air.
 
-*Yes. I suppose so.*
+*Yes. Of course.*
 
 He was witnessing Three Flowers Gather at the Crown, the realm every martial artist in Murim dreamed of reaching. But he wasn’t surprised.
 
-He’d walked this path himself once. And it was someone else’s present.
+He had walked this path himself. Now it was someone else’s turn.
 
 The Blazing Flame Divine Dragon, Jin Taekyung.
 
 Heir to the Fire Gate Clan and successor to the Fire King, Jeok Cheongang.
 
-For that callow brat, who’d only passed twenty two years ago, the realm of the Three Flowers Gather at the Crown was nothing more than a step on the way to a greater height.
+The Thunderbolt Saber King knew—and believed—that for this callow brat, who had turned twenty only two years ago, Three Flowers Gather at the Crown was merely a step on the way to greater heights.
 
 Even now, Jin Taekyung was moving toward the next step.
 
@@ -70,7 +68,7 @@ Will.
 
 It was Will: a fierce resolve to break rather than yield, to get past this wall and reach higher still.
 
-When the Thunderbolt Saber King felt Jin Taekyung’s Will, he was finally certain.
+Only when the Thunderbolt Saber King saw it was he certain.
 
 *I made the right choice.*
 
@@ -78,17 +76,17 @@ A smile brighter than any before spread across his face.
 
 He watched the internal energy he’d spent a lifetime accumulating—those long years, and the little life he had left—melt into the flames. Then he spoke, making his voice gruff despite everything he felt.
 
-“Damn it. I’ve done nothing but good things for the Fire Gate Clan before I go.”
+“Damn it. I’m leaving after doing nothing but good for the Fire Gate Clan.”
 
 The old master gazed at his Disciple, enveloped in the energy that had finally become one amid the distant blaze of light, and answered.
 
-“If you’re so sore about it, you should’ve had more kids. If you’d tried a little harder, maybe the Peng Family would’ve had a brat like him.”
+“If you’re so sore about it, you should’ve had more children. Try a little harder, and the Peng Family might have produced a brat like him.”
 
-“Would you listen to this senile old man? You took a monster for a Disciple by pure luck, and now you’re saying whatever you please.”
+“Listen to this senile old man. You got lucky taking a monster for a Disciple, and now you’ll say anything.”
 
 “That’s right. I was lucky.”
 
-“Damn it. Don’t admit it!”
+“Damn it. Don’t admit it.”
 
 “Why not?”
 
@@ -136,7 +134,7 @@ Jeok Cheongang looked at Peng Cheolhu, whose hair had turned completely white, a
 
 Jeok Cheongang stopped mid-sentence. At his startled expression, the Thunderbolt Saber King let out a hearty laugh.
 
-“What’s the matter? Have you gotten so old you’ve gone deaf, Jeok hyung?”
+“What? Have you gotten so old you’ve gone deaf, Jeok hyung?”
 
 “…!”
 
@@ -164,9 +162,9 @@ This time, the Thunderbolt Saber King laughed aloud. His face, covered in fine w
 
 “No. Better not. Hearing you say that makes me itch right down to my guts.”
 
-“You damnable bastard. What do I have to do to satisfy you?”
+“You damnable bastard. What do I have to say to satisfy you?”
 
-“That’s much better. You’ve finally turned back into the Fire King Jeok Cheongang I know.”
+“That’s much better. You’re finally the Fire King Jeok Cheongang I know.”
 
 At last, the Thunderbolt Saber King smiled in satisfaction. When he spoke again, his voice was gentle.
 
@@ -174,7 +172,7 @@ At last, the Thunderbolt Saber King smiled in satisfaction. When he spoke again,
 
 Jeok Cheongang didn’t answer.
 
-No—he couldn’t.
+He couldn’t.
 
 The sudden change in the Thunderbolt Saber King’s tone and expression, the voice that now sounded unmistakably like an old man’s—something about it lodged in Jeok Cheongang’s throat and left him speechless.
 
@@ -188,19 +186,19 @@ The Thunderbolt Saber King looked at him as if he understood and went on.
 
 So many years had passed.
 
-The sun and moon kept changing places. The mountains and rivers changed their clothes in turn, and those born into this world with vigorous cries returned to the soil.
+The sun and moon had traded places without pause. Mountains and rivers had changed their clothes with the seasons, and those born into the world crying lustily had returned to the earth.
 
 Yet some had not changed.
 
 Their bodies had aged with the years, but their hearts remained steadfast.
 
-“Looking back, I’ve been very lucky.”
+“Looking back, I was lucky.”
 
 Years flashed like meteors through the Thunderbolt Saber King’s fading eyes.
 
 He had been born into the Hebei Peng Family, a power that commanded its region, and spent a childhood wanting for nothing.
 
-In his youth, his name had spread beyond the northern lands and across the world.
+In his youth, his name had spread beyond the north and throughout the land.
 
 And then—
 
@@ -220,15 +218,15 @@ Jeok Cheongang nodded without hesitation.
 
 “That a man should meet his death proudly on the battlefield.”
 
-“You remembered.”
+“You remember.”
 
 “How could I forget? You said it several times a day.”
 
 “I did. And every time, you threatened to rip my mouth open.”
 
-The Thunderbolt Saber King laughed happily at the old memory. But instead of the thunderous laughter that had once boomed from him, only a faint breath came out.
+The Thunderbolt Saber King smiled at the memory. But in place of his once-thunderous laugh, only a faint breath escaped him.
 
-“I take it back. Now that I’ve come this far… this kind of death isn’t so bad after all.”
+“I take it back. Now that I’m here… this kind of death isn’t so bad.”
 
 His head kept drooping. He forced it up, straightened his bent back, and looked over Jeok Cheongang’s shoulder.
 
@@ -244,15 +242,15 @@ He had climbed the summit and reached the utmost height: the highest place on ea
 
 “Jeok hyung. Do you see him?”
 
-At the Thunderbolt Saber King’s voice, trembling with emotion, Jeok Cheongang turned to look at his Disciple.
+At the tremor of wonder in the Thunderbolt Saber King’s voice, Jeok Cheongang turned to his Disciple.
 
 “Yes. I see him. My one and only Disciple—and the successor who inherited everything you had.”
 
-“Is that so?”
+“Yes… so he is.”
 
 Death had already dimmed the Thunderbolt Saber King’s eyes. He could no longer see Jeok Cheongang’s face or Jin Taekyung’s form.
 
-And yet, in the darkness slowly approaching, he saw a radiant halo of light that would not go out.
+Yet in the darkness slowly closing around him, he could still see a brilliant light that would not go out.
 
 “Th-that child…”
 
@@ -262,17 +260,17 @@ Clinging to his fading consciousness, he reached toward the light shining beyond
 
 Toward the future he had left behind. Toward hope.
 
-Then he cast off everything pressing down on his body and lunged toward the light.
+Then he cast off everything weighing down his body and rushed into the light.
 
-Toward a new mountain peak that didn’t exist in this world, waiting for him.
+Toward a new mountain peak waiting for him beyond this life.
 
 Toward another Supreme Peak: death.
 
 *Tap.*
 
-His fingertips fell limply, touching nothing.
+His hand fell limply, his fingertips never reaching what he had sought.
 
-Jeok Cheongang quietly closed his eyes. A low voice slipped between his lips.
+Jeok Cheongang closed his eyes. A low voice passed between his lips.
 
 “Farewell, you Peng bastard.”
 
@@ -280,8 +278,8 @@ He would save the words *younger brother* for the day they met again.
 
 That was his last promise to the Thunderbolt Saber King—no, to Peng Cheolhu.
 
-And as the Fire King Jeok Cheongang, rather than Jeok hyung, he still had far too much left to do.
+For the Fire King Jeok Cheongang, rather than Jeok hyung, still had far too much left to do.
 
 *Whoosh.*
 
-Feeling the halo of light finally begin to fade, Jeok Cheongang opened his eyes.
+Sensing the brilliant light finally begin to fade, Jeok Cheongang opened his eyes.

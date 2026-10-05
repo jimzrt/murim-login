@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "For that callow brat, who’d only passed twenty two years ago, the realm of the Three Flowers Gather at the Crown was nothing more than a step on the way to a greater height.",
+      "defect": "The Korean says Taekyung had only passed the age of twenty two years earlier. This wording omits the age he passed and can instead suggest he passed twenty-two years ago.",
+      "id": "F01",
+      "rationale": "약관 is the age of twenty; 이 년 전에야 약관을 넘긴 means he crossed that age only two years ago.",
+      "replacement": "For that callow brat, who’d only come of age two years ago, the realm of the Three Flowers Gather at the Crown was nothing more than a step on the way to a greater height.",
+      "severity": "minor",
+      "source": "Line 39"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Fire King, Jeok Cheongang, and the Thunderbolt Saber King, Peng Cheolhu, looked at each other and chuckled.",
+      "defect": "The source calls the two men 거인, “giants,” an image omitted from the assembled copy.",
+      "id": "F02",
+      "rationale": "두 거인은 explicitly characterizes them as giants before describing their shared laugh.",
+      "replacement": "The two giants, the Fire King Jeok Cheongang and the Thunderbolt Saber King Peng Cheolhu, looked at each other and chuckled.",
+      "severity": "minor",
+      "source": "Line 117"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Now, now. Is that any way to speak to your younger brother? It seems Jeok hyung still hasn’t come to his senses.”",
+      "defect": "The line drops the specific joke: Cheolhu objects that Jeok Cheongang is still addressing his younger brother as “you bastard” (네놈), rather than merely speaking disrespectfully in general.",
+      "id": "F03",
+      "rationale": "The source explicitly contrasts the new sibling relationship with Jeok Cheongang’s continued use of 네놈, preserving the playful complaint about his form of address.",
+      "replacement": "“Now, now. You’re calling your younger brother ‘you bastard’? It seems Jeok hyung still hasn’t come to his senses.”",
+      "severity": "minor",
+      "source": "Line 181"
+    },
+    {
+      "confidence": 0.99,
+      "current": "This time, the Thunderbolt Saber King laughed aloud. His face, covered in fine wrinkles and age spots after he’d given away everything he had, creased deeply.",
+      "defect": "“Given away” implies Cheolhu transferred his possessions or power to someone. The source says he emptied himself of everything he had.",
+      "id": "F04",
+      "rationale": "자신이 가진 모든 것을 남김없이 비워 낸 뒤 describes complete depletion, not giving things away.",
+      "replacement": "This time, the Thunderbolt Saber King laughed aloud. After emptying himself of everything he had, his face, covered in fine wrinkles and age spots, creased deeply.",
+      "severity": "minor",
+      "source": "Line 187"
+    }
+  ],
+  "summary": "The assembled copy has a few source-fidelity losses: it blurs Taekyung’s age, weakens a specific joke about forms of address, and implies Cheolhu gave his strength away. It also omits the source’s image of the two men as giants.",
+  "version": 1
+}
