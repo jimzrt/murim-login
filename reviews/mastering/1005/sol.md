@@ -24,7 +24,7 @@ Physical exhaustion was bad enough, but mental fatigue weighed on both body and 
 
 What could they do?
 
-For a martial artist, crossing the line between life and death was a lifelong fate. The grief and pain brought on by war were the lot of those living through troubled times.
+For a martial artist, passing through the jaws of death was a lifelong fate. The grief and pain of war were the lot of those living through troubled times.
 
 It had always been that way, and it would stay that way.
 
@@ -62,7 +62,7 @@ A moment later, he looked up and stared at Song Ilseom.
 
 “It’s simple. I’m older than you.”
 
-Gulp.
+*Gulp.*
 
 Hyuk Mujin swallowed what was in his mouth and frowned.
 
@@ -272,7 +272,7 @@ Only then did he notice what was happening around him—and realize that somethi
 
 It wasn’t a question directed at anyone in particular. It was closer to an exclamation of shock.
 
-Song Ilseom froze, eyes wide. Ju Hwaran and Hyuk Mujin, both wearing serious expressions, answered in turn.
+Song Ilseom sat frozen, eyes wide. Ju Hwaran and Hyuk Mujin, both wearing serious expressions, answered in turn.
 
 “We don’t know either. How did this happen?”
 
@@ -280,15 +280,15 @@ Song Ilseom froze, eyes wide. Ju Hwaran and Hyuk Mujin, both wearing serious exp
 
 Ju Hwaran’s answer was full of worry. Hyuk Mujin’s was full of food.
 
-Pth, pth!
+*Pth, pth!*
 
 Ordinarily, Song Ilseom would have dodged the spray of food with a quick movement. This time, he couldn’t.
 
-Splut!
+*Splut!*
 
-Something unpleasant touched his skin.
+Something unpleasant struck his skin.
 
-Hyuk Mujin froze, worried about what he’d done. But despite his fears, Song Ilseom didn’t move.
+Hyuk Mujin froze, worried about what he’d done. But despite his fears, Song Ilseom didn’t react.
 
 He could only stare at one person, as stunned as if he’d come face-to-face with a living dragon.
 

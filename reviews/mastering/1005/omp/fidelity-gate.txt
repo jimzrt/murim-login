@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled English is faithful overall. One minor hedge weakens an explicit source claim.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 269–271",
+      "current": "only ever seemed to show its full power against enemies",
+      "defect": "The Korean states directly that his tongue always displayed its proper force only against enemies. “Seemed” adds uncertainty that the source does not establish.",
+      "replacement": "always showed its full power only against enemies",
+      "rationale": "The source says 항상 … 제대로 된 위력을 발휘했다, an unhedged statement that it always demonstrated its full power only against enemies.",
+      "confidence": 0.96
+    }
+  ]
+}
