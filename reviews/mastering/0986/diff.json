@@ -1,0 +1,1666 @@
+{
+  "baseline_blocks": 137,
+  "baseline_sha256": "ed616b18696a6eee381a866c886a80daf3999cc0c8a75769e5fa002c4d228de4",
+  "global_terminology_alerts": [
+    {
+      "korean": "근골",
+      "preferred": "Muscles and Bones"
+    }
+  ],
+  "hunk_count": 88,
+  "hunks": [
+    {
+      "baseline": "Truth be told, I’d had a pretty good idea from the start.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "Truth be told, I’d had some idea from the start.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "The heaviness in Jeok Cheongang’s expression and voice, so unlike his usual self.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "",
+      "sol_paragraphs": "after P2",
+      "sol_range": [
+        2,
+        2
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        }
+      ]
+    },
+    {
+      "baseline": "And the grief carried in his low, subdued voice was something the giant known as the Fire King rarely let show.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "Jeok Cheongang’s expression and tone were nothing like usual. Grief lay beneath his low, subdued voice—something the giant known as the Fire King rarely let anyone see.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the man gathered his bundle and left the moment we arrived, Jeok Cheongang spoke to him in a quiet voice.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "19",
+      "sol": "As he picked up his bundle and prepared to leave, Jeok Cheongang spoke quietly.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh, you brought him back sooner than I expected. That old man’s legs are so short, I figured it’d take another seven days and nights.”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "29",
+      "sol": "“Oh, you brought him sooner than I expected. That old man’s legs are so short, I figured it’d take another seven days and nights.”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Another giant had come to his senses after several days.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "31",
+      "sol": "Another giant had regained consciousness after several days.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I silently watched the Thunderbolt Saber King laugh heartily at his own lighthearted joke. Only when Jeok Cheongang gave my shoulder a nudge did I belatedly clasp my hands in a salute.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "33",
+      "sol": "I watched the Thunderbolt Saber King laugh heartily at his own joke. Only when Jeok Cheongang nudged my shoulder did I belatedly clasp my hands in a salute, showing him all the respect I could.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I gave him the utmost respect I could.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "35",
+      "sol": "",
+      "sol_paragraphs": "after P15",
+      "sol_range": [
+        15,
+        15
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I am Jin Taekyung, an insignificant martial artist of Murim. It’s an honor to meet you, Great Hero Peng.”",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "37",
+      "sol": "“I am Jin Taekyung, a humble junior of Murim. It’s an honor to meet you, Great Hero Peng.”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무인",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial artist"
+        }
+      ]
+    },
+    {
+      "baseline": "“Don’t bother. Excessive humility can be a poison in its own right. If you’re an insignificant martial artist, does that mean every other one beneath Heaven is dead?”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "39",
+      "sol": "“Enough. Too much humility can be its own poison. If you’re a humble junior, are all the other juniors in the world dead?”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무인",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial artist"
+        }
+      ]
+    },
+    {
+      "baseline": "The Thunderbolt Saber King smiled at me with satisfaction, then turned his gaze to Jeok Cheongang.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "41",
+      "sol": "The Thunderbolt Saber King smiled at me with satisfaction, then turned to Jeok Cheongang.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Now that I see him, you were whining for nothing. You kept complaining that he ran wild like a reckless brat, with no respect for his elders, more and more as the days went by.”",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "43",
+      "sol": "“Now that I’ve seen him, I’d say you were complaining for nothing. You kept telling me he ran wilder every day, like a brat with no respect for his elders.”",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang managed to answer in his usual gruff tone, but the weight in his eyes was impossible to hide.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "47",
+      "sol": "Jeok Cheongang tried to sound as gruff as ever, but he couldn’t hide the heaviness in his eyes.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whether he noticed Jeok Cheongang’s state or not, the Thunderbolt Saber King laughed even louder.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "49",
+      "sol": "Whether the Thunderbolt Saber King noticed or not, he laughed even louder.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        }
+      ]
+    },
+    {
+      "baseline": "“If knowing that meant someone else would feed me, maybe. Or would it make my martial arts stronger?”",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "55",
+      "sol": "“Would knowing them get someone to feed me? Or make my martial arts stronger?”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Forget it. I’m the fool for having this conversation with an ignorant Peng.”",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "57",
+      "sol": "“Forget it. I’m the fool for trying to discuss this with an ignorant Peng.”",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Admitting your own shortcomings. I like it. I was just getting tired of talking to a stinky old man, so this works out nicely. Don’t you agree?”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "59",
+      "sol": "“Admitting your own shortcomings. I like it. I was getting tired of talking to a musty old man anyway. Don’t you agree?”",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the Thunderbolt Saber King’s tossed-off question, I nodded.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "61",
+      "sol": "At the Thunderbolt Saber King’s offhand question, I nodded.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, my Master is a little old.”",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "63",
+      "sol": "“Well, my Master *is* a little old.”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His laugh burst out, loud enough to shake the room.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "67",
+      "sol": "A booming laugh rang out.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It didn’t suit the Thunderbolt Saber King’s pallid complexion at all. It sounded so loud, it was almost as if he’d forced it out.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "69",
+      "sol": "It didn’t suit the Thunderbolt Saber King’s pallid face. It was so loud it sounded forced.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*No. That’s probably exactly what he did.*",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "71",
+      "sol": "*No. It probably was forced.*",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I murmured silently to myself.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "73",
+      "sol": "",
+      "sol_paragraphs": "after P33",
+      "sol_range": [
+        33,
+        33
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What you could see with your eyes wasn’t everything. I could feel it.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "75",
+      "sol": "I said nothing. What I could see wasn’t everything. I could feel it.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even now, the energy within the Thunderbolt Saber King was wavering precariously, like a glass vessel cracked all over.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "77",
+      "sol": "Even now, the qi within the Thunderbolt Saber King wavered precariously, like a glass vessel cracked all over.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At my heavy-voiced remark, the Thunderbolt Saber King seemed to realize I’d noticed his condition. He spoke, still smiling.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "83",
+      "sol": "At my somber words, the Thunderbolt Saber King seemed to realize I’d noticed his condition. He spoke with a smile still on his face.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re a perceptive one. You’re worlds apart from the last time I saw you. The Fire King may not be good at much else, but he’s certainly raised his Disciple well.”",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "85",
+      "sol": "“Perceptive, aren’t you? You’re worlds apart from the last time I saw you. The Fire King may not be good at much else, but he’s raised his Disciple well.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There’s no need to look so miserable. For martial artists like us, life and death are just part of the deal.”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "89",
+      "sol": "“No need to look so miserable. For martial artists like us, life and death come with the territory.”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the Thunderbolt Saber King had spent his life making his way through a mountain of sabers and a forest of swords, beset by countless threats and schemes. He accepted the reality of his situation with calm composure.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "95",
+      "sol": "The Thunderbolt Saber King had spent his life making his way through a mountain of sabers and a forest of swords, past countless threats and schemes. Now he accepted what lay ahead with calm composure.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I had a very long dream. I was able to look back on my whole life in it. I even got to see my friend Murong Baek as a young man again, for the first time in ages.”",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "97",
+      "sol": "“I had a very long dream. In it, I looked back on my whole life. I even saw my friend Murong Baek as a young man again, for the first time in ages.”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "At Jeok Cheongang’s casual remark, the Thunderbolt Saber King let out a quiet laugh and continued.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "101",
+      "sol": "The Thunderbolt Saber King let out a quiet laugh at Jeok Cheongang’s remark and continued.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s all in the past. It couldn’t be helped. You can’t put spilled water back where it was. But in the end, we stopped Dark Heaven’s plot and saved more people. That’s enough for me.”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "103",
+      "sol": "“That’s all in the past. Nothing to be done about it now. No use trying to gather up spilled water. In the end, we stopped Dark Heaven’s plot and saved more people. That’s enough for me.”",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was famous for having a temper as fiery as Jeok Cheongang’s. But he looked at me with eyes as still as a pond.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "105",
+      "sol": "He was famous for a temper as fiery as Jeok Cheongang’s, yet he looked at me with eyes as still as a pond.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When I first saw you at the Star-Array Grand Banquet, I had a feeling you’d accomplish great things before long. Everyone could tell you’d become a pillar capable of protecting the world, together with the Sword Saint’s Disciple.”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "107",
+      "sol": "“When I first saw you at the Star-Array Grand Banquet, I had a feeling you’d accomplish great things before long. We could all tell you’d become a pillar of the world, protecting it alongside the Sword Saint’s Disciple.”",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I hadn’t stood shoulder to shoulder with all those powerful masters like I did now, and I’d been brutally defeated by a monster called the Blood Lord.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "111",
+      "sol": "I couldn’t stand shoulder to shoulder with so many powerful masters the way I could now. The monster known as the Blood Lord had crushed me.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But nobody could have guessed you’d grow this much, this quickly.”",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "113",
+      "sol": "“But no one expected you to grow so much, so quickly.”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The threats to my life had come one after another, each one growing more dangerous, and I’d grown at a staggering pace as a result.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "115",
+      "sol": "The threats to my life had come one after another, each greater than the last, and I’d grown at a staggering pace because of them.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Enough to make even those who’d watched me from the closest distance question their own eyes.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "117",
+      "sol": "Fast enough to make even those who’d watched me most closely doubt their eyes.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "퀘스트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Quest"
+        }
+      ]
+    },
+    {
+      "baseline": "“That’s why I asked for you right away. It’s also my last chance to make the best use of the time and energy I have left.”",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "119",
+      "sol": "“That’s why I asked for you right away. This is my last chance to put the little time and energy I have left to the best possible use.”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They say an ordinary tiger leaves its hide behind when it dies. But the great tiger of Hebei will leave something else.”",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "123",
+      "sol": "“They say an ordinary tiger leaves its hide behind when it dies. The great tiger of Hebei will be different.”",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the Thunderbolt Saber King’s faint smile, I finally understood why he’d sought me out first, rather than his own flesh and blood, after barely regaining consciousness—and with death right before him.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "125",
+      "sol": "At the Thunderbolt Saber King’s faint smile, I finally understood why he’d asked to see me before his own flesh and blood. He had barely regained consciousness, and death was already at his door.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the very moment the Thunderbolt Saber King’s calm voice rang through the room—",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "129",
+      "sol": "The moment his calm voice rang out—",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "벽력도왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Thunderbolt Saber King"
+        }
+      ]
+    },
+    {
+      "baseline": "> **System**\n>\n> An emergency Quest, **Transmitting Internal Energy Across the Body**, has been created.\n>\n> **!!Warning, warning!!**\n>\n> The process of completing this Quest carries an extreme risk.\n>\n> Do you accept the emergency Quest?\n>\n> Y / N",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "133",
+      "sol": "> **System**\n>\n> An emergency Quest, **Transmitting Internal Energy Across the Body**, has been created.\n>\n> **!!Warning, warning!!**\n>\n> This Quest carries extreme risk.\n>\n> Do you accept the emergency Quest?\n>\n> Y / N",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I stared silently at the Thunderbolt Saber King’s smiling face through the holographic window that had appeared with a clear chime.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "137",
+      "sol": "Through the holographic window that had appeared with the clear chime, I stared silently at the Thunderbolt Saber King’s smiling face.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, all at once, I spoke.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "139",
+      "sol": "Then I found myself speaking.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The answer came without the slightest hesitation.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "143",
+      "sol": "His answer came without the slightest hesitation.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That belief isn’t mine alone. The Dharma King believes in you. Your Master believes in you. Now, the whole world believes in you.”",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "151",
+      "sol": "“And I’m not the only one. The Dharma King believes in you. Your Master believes in you. Now the whole world believes in you.”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My chest tightened, and it felt as if my blood were surging through my veins.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "155",
+      "sol": "My heart tightened, and my blood seemed to surge through my veins.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid it all, the Thunderbolt Saber King’s voice rang clearly in my ears.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "157",
+      "sol": "Through it all, the Thunderbolt Saber King’s voice reached me clearly.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This is all for the world, not for you. Do you need any other reason?”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "159",
+      "sol": "“This is for the world, not for you. Do you need any other reason?”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I took a small, steadying breath and continued.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "163",
+      "sol": "I took a small breath and continued.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those who practiced martial arts accumulated it within their bodies, strengthening their bodies and minds. They repeated grueling training in hopes of stepping beyond human limits and into the realm of the superhuman.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "179",
+      "sol": "Those who practiced martial arts accumulated it within their bodies. Through grueling training, they strengthened body and mind, hoping to step beyond human limits into the realm of the superhuman.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The greater the energy accumulated within the body, the greater the backlash it could unleash.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "185",
+      "sol": "The more energy they accumulated, the greater the backlash it could bring.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If someone tried to circulate their internal energy recklessly by following an incorrect formula, they were likely to end up crippled. And without enlightenment, many fell into a heart demon and became half-mad.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "189",
+      "sol": "Circulate internal energy recklessly according to an incorrect formula, and you were likely to end up crippled. Many who failed to attain enlightenment fell prey to heart demons and went half-mad.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even so, the desire of martial artists to reach ever greater realms rarely faded.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "193",
+      "sol": "Even so, martial artists’ desire to reach ever higher realms rarely faded.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A world ruled by the law of the jungle.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "195",
+      "sol": "Theirs was a world ruled by the law of the jungle.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They came up with all kinds of ideas to grow stronger, faster and more safely. In the process, they discovered one astonishing method.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "197",
+      "sol": "They devised all kinds of ways to grow stronger more safely and quickly. In the process, they discovered one astonishing method.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What if, instead of spending years accumulating internal energy, you inherited it all from someone else?*",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "199",
+      "sol": "*What if, instead of spending years accumulating internal energy, you received someone else’s in its entirety?*",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the distant past, Transmitting Internal Energy Across the Body was born that way.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "203",
+      "sol": "That was how Transmitting Internal Energy Across the Body came into being in the distant past.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And from the moment it was born, it became a taboo that must never be put into practice.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "205",
+      "sol": "And from the moment it did, it became a taboo—something never to be attempted.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It only looked sweet on the surface. In truth, it was a double-edged sword.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "209",
+      "sol": "It looked sweet on the surface, but in reality, it was a double-edged sword.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—it was so much worse that calling it a double-edged sword was laughable. The failures far outnumbered the successes.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "211",
+      "sol": "No, even calling it that was laughable. Failures overwhelmingly outnumbered successes.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Master!”",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "213",
+      "sol": "*“M-Master!”*",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No!”",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "215",
+      "sol": "*“No!”*",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They died, and died, and died again.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "217",
+      "sol": "People died. And died. And died again.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even those who survived through sheer luck would end up crippled, their qi and blood snarled together, or lose their original martial prowess forever. In the process, they lost Supreme Peak masters who had dominated their era and gifted young prodigies.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "219",
+      "sol": "Even those lucky enough to survive often ended up crippled, their qi and blood tangled within them, or could never regain their former martial prowess. The attempts cost the world Supreme Peak masters who had dominated their eras, along with gifted young prodigies.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "So when the Thunderbolt Saber King told Jin Taekyung he intended to transmit his internal energy to him, Jeok Cheongang could only ask in disbelief:",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "221",
+      "sol": "So when the Thunderbolt Saber King told Jeok Cheongang he intended to transmit his internal energy to Jin Taekyung, Jeok Cheongang could only ask on reflex:",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“I may have been awake for only half a shichen, but my mind has never been clearer. I can’t remember ever being this sharp in my life.”*",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "229",
+      "sol": "*“I’ve only been awake for half a shichen, but my mind is unbelievably clear. I can’t remember ever being this sharp in my life.”*",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Well, that’s a hell of a thing to celebrate. So does that mean you can finally finish the Thousand Character Classic?”*",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "231",
+      "sol": "*“Well, that’s a hell of a thing to celebrate. Does that mean you can finally finish the Thousand Character Classic?”*",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Cut the nonsense. You know this isn’t just a mad idea.”*",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "235",
+      "sol": "*“Cut the nonsense. You know this isn’t simply madness.”*",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang had only answered that way on reflex at first. In his heart, he was already weighing the chances of this insane undertaking.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "239",
+      "sol": "Jeok Cheongang had answered that way only on reflex. In his heart, he was already weighing the chances that this insane undertaking could succeed.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“I hate to admit it, but your precious Disciple could withstand Transmitting Internal Energy Across the Body. Isn’t he blessed with the Heavenly Martial Physique, along with that child Cheongpung?”*",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "241",
+      "sol": "*“I hate to admit it, but that precious Disciple of yours could withstand Transmitting Internal Energy Across the Body. He and that child Cheongpung were both born with the good fortune of a Heavenly Martial Physique, weren’t they?”*",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“If that were all, I wouldn’t be having this conversation with you. He has the Muscles and Bones Heaven granted him, as well as enough potential and insight as a martial artist.”*",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "245",
+      "sol": "*“If that were all, I wouldn’t be suggesting this. He has Heaven-given bones and sinews, and more than enough ability and insight as a martial artist.”*",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "근골",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Muscles and Bones"
+        }
+      ]
+    },
+    {
+      "baseline": "If this had happened a few months ago, Jeok Cheongang would never have accepted a proposal that put his Disciple’s life at risk, no matter how strongly anyone urged him.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "249",
+      "sol": "A few months earlier, Jeok Cheongang would never have accepted a proposal that put his Disciple’s life at risk, no matter how strongly anyone pressed him.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Not even if it came from the Thunderbolt Saber King, a man he’d spent decades trading barbs with and grown fond of despite himself—and who was now on the verge of death.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "251",
+      "sol": "Not even from the Thunderbolt Saber King, who now stood at death’s door after decades in which their rivalry had grown into a grudging affection.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But Jeok Cheongang was different after Jin Taekyung had told him the truth himself.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "255",
+      "sol": "But Jeok Cheongang had since heard the truth from Jin Taekyung himself.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*There’s a chance. No—it’s more than enough.*",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "257",
+      "sol": "*There’s a chance. No, he has what it takes.*",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A transfer of internal energy between two Supreme Peak masters who had reached their realms—a feat with no precedent in the long history of Murim.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "259",
+      "sol": "A transfer of internal energy between two Supreme Peak masters who had reached their realms. There was no precedent for it in the long history of Murim.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And Jin Taekyung, with a superhuman body that could only be called the Heavenly Martial Physique, possessed yet another strange power.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "263",
+      "sol": "And Jin Taekyung, whose superhuman body could only be described as a Heavenly Martial Physique, possessed one more strange power.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A divine strength that could purify the body and even heal injuries.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "267",
+      "sol": "A divine strength that could purify his body and even heal injuries.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As long as he remained alive, that power gave him a chance.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "269",
+      "sol": "With that power, he had a chance as long as he remained alive.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And besides…",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "271",
+      "sol": "Besides…",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang had only heard the story much later.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "275",
+      "sol": "",
+      "sol_paragraphs": "after P124",
+      "sol_range": [
+        124,
+        124
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        }
+      ]
+    },
+    {
+      "baseline": "Jin Taekyung had received the internal energy of the Heavenly Power Demon, a great fiend of the Demonic Cult imprisoned in the Sichuan Tang Clan’s underground prison, then defeated the Western Heaven Demon Lord.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "277",
+      "sol": "Jeok Cheongang had heard about it only later: Jin Taekyung had received the internal energy of the Heavenly Power Demon, a great fiend of the Demonic Cult imprisoned in the Sichuan Tang Clan’s underground prison, and gone on to defeat the Western Heaven Demon Lord.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When he first heard it, the shock of learning his Disciple had nearly died had made his heart feel ready to burst. But the difference between that time and now was clear.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "279",
+      "sol": "When Jeok Cheongang first heard, the knowledge that his Disciple had nearly died had almost made his heart burst. But the differences between then and now were clear.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The circumstances were different. So was the martial prowess Jin Taekyung had achieved since then.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "281",
+      "sol": "The desperate circumstances were different. So was the martial prowess Jin Taekyung had since achieved.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang steadied his wavering heart with firm resolve, then watched the two men, joined at the Great Palace acupoint, with a deeply troubled gaze.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "289",
+      "sol": "Jeok Cheongang steadied his wavering heart with firm resolve and watched the two men, joined through the Great Palace acupoint, his gaze deep and subdued.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unprecedented internal energy surged out in every direction.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "293",
+      "sol": "Internal energy beyond anything ever seen surged out in every direction.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 133,
+  "sol_sha256": "67e36a58bb2433422b6d3471e6cc93662982c166fcc39de8884ba4273bf98556",
+  "version": 1
+}

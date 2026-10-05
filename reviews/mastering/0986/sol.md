@@ -50,7 +50,7 @@ Whether the Thunderbolt Saber King noticed or not, he laughed even louder.
 
 “Forget it. I’m the fool for trying to discuss this with an ignorant Peng.”
 
-“Admitting your own shortcomings. I like it. I was just getting tired of talking to a stinky old man, so this works out nicely. Don’t you agree?”
+“Admitting your own shortcomings. I like it. I was getting tired of talking to a musty old man anyway. Don’t you agree?”
 
 At the Thunderbolt Saber King’s offhand question, I nodded.
 
@@ -64,7 +64,7 @@ It didn’t suit the Thunderbolt Saber King’s pallid face. It was so loud it s
 
 *No. It probably was forced.*
 
-What you could see with your eyes wasn’t everything. I could feel it.
+I said nothing. What I could see wasn’t everything. I could feel it.
 
 Even now, the qi within the Thunderbolt Saber King wavered precariously, like a glass vessel cracked all over.
 
@@ -136,7 +136,7 @@ The moment his calm voice rang out—
 
 Through the holographic window that had appeared with the clear chime, I stared silently at the Thunderbolt Saber King’s smiling face.
 
-Then, all at once, I spoke.
+Then I found myself speaking.
 
 “Why… Why did you choose me?”
 
@@ -154,11 +154,11 @@ My heart tightened, and my blood seemed to surge through my veins.
 
 Through it all, the Thunderbolt Saber King’s voice reached me clearly.
 
-“This is all for the world, not for you. Do you need any other reason?”
+“This is for the world, not for you. Do you need any other reason?”
 
 “No.”
 
-I took a small, steadying breath and continued.
+I took a small breath and continued.
 
 “That’s reason enough.”
 
@@ -182,7 +182,7 @@ But not everyone wanted that kind of power.
 
 The more energy they accumulated, the greater the backlash it could bring.
 
-If someone tried to circulate their internal energy recklessly by following an incorrect formula, they were likely to end up crippled. And without enlightenment, many fell into a heart demon and became half-mad.
+Circulate internal energy recklessly according to an incorrect formula, and you were likely to end up crippled. Many who failed to attain enlightenment fell prey to heart demons and went half-mad.
 
 Even so, martial artists’ desire to reach ever higher realms rarely faded.
 
@@ -212,7 +212,7 @@ People died. And died. And died again.
 
 Even those lucky enough to survive often ended up crippled, their qi and blood tangled within them, or could never regain their former martial prowess. The attempts cost the world Supreme Peak masters who had dominated their eras, along with gifted young prodigies.
 
-So when the Thunderbolt Saber King told Jin Taekyung he intended to transmit his internal energy to him, Jeok Cheongang could only ask in disbelief:
+So when the Thunderbolt Saber King told Jeok Cheongang he intended to transmit his internal energy to Jin Taekyung, Jeok Cheongang could only ask on reflex:
 
 *“Have you gone mad?”*
 
@@ -234,7 +234,7 @@ Jeok Cheongang had answered that way only on reflex. In his heart, he was alread
 
 *“…The Heavenly Martial Physique.”*
 
-*“If that were all, I wouldn’t be having this conversation with you. He has the Muscles and Bones Heaven granted him, as well as enough potential and insight as a martial artist.”*
+*“If that were all, I wouldn’t be suggesting this. He has Heaven-given bones and sinews, and more than enough ability and insight as a martial artist.”*
 
 A few months earlier, Jeok Cheongang would never have accepted a proposal that put his Disciple’s life at risk, no matter how strongly anyone pressed him.
 

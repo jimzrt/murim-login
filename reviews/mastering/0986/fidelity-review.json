@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I watched the Thunderbolt Saber King laugh heartily at his own joke.",
+      "defect": "The narration omits that Jin watched him silently. The Korean explicitly says 말없이 바라보던 나는, and the accepted baseline preserves this detail.",
+      "id": "F01",
+      "rationale": "말없이 means without speaking or silently; this is an explicit detail of Jin’s reaction before he returns the salute.",
+      "replacement": "I silently watched the Thunderbolt Saber King laugh heartily at his own joke.",
+      "severity": "minor",
+      "source": "Lines 33–35"
+    }
+  ],
+  "summary": "The assembled English is faithful overall, with one small omitted action detail.",
+  "version": 1
+}
