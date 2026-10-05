@@ -68,7 +68,7 @@ It all happened at almost the same instant: Jin Mukyung, at the head of the line
 
 *Shhk!*
 
-The red Force barely missed them and swept away the unlucky men standing near its target.
+—the red Force barely missed them, sweeping away the unlucky people near its targets.
 
 *Fwoooosh!*
 
@@ -88,11 +88,11 @@ A chill ran down Wipeng’s and Cheol Mubaek’s spines.
 
 Peak and Supreme Peak. Only one character separated the names, but the wall between those realms was vast beyond measure.
 
-If another Supreme Peak master hadn’t unexpectedly become a retainer of the Jin Family of Taiyuan, they might have lost the will to fight just from seeing that attack.
+If another Supreme Peak master had not unexpectedly become a guest of the Jin Family of Taiyuan about half a year ago, that single attack might have robbed them of the will to fight.
 
 *But even that Senior, as powerful as he was, fell to that monster.*
 
-That was true even considering that the Dongting Fisherman had only recently recovered enough to leave his sickbed.
+It made little difference that the Dongting Fisherman had only recently risen from his sickbed.
 
 Wipeng and Cheol Mubaek had studied under him for months. They knew better than anyone how strong he was—and what a fortuitous encounter it had been to hear even a few words from a master of his caliber, much less spar with him so often.
 
@@ -120,7 +120,7 @@ They had dodged the attack by a handspan, yet its pressure split the skin at the
 
 The sudden sting cleared their muddled thoughts.
 
-*This is…*
+*That was…*
 
 Their eyes had widened for a moment. Now their gazes steadied.
 
@@ -138,7 +138,7 @@ They shot off to either side. They vaulted over friend and foe swinging blades a
 
 *Shhk! KABOOM!*
 
-The solid cliff face, formed over what must have been hundreds of years, split like tofu. The tremendous energy that seeped into it tore everything around it to shreds, but Wipeng and Cheol Mubaek didn’t stop.
+Cliff stone that must have taken centuries to form split like tofu. The tremendous energy that drove into it tore through everything around it, but Wipeng and Cheol Mubaek did not stop.
 
 They couldn’t.
 
@@ -176,7 +176,7 @@ For someone at its center, it brought joy and astonishment as well.
 
 “Ha! Hahahahaha!”
 
-Beyond the fragments of rock scattering in every direction and the cloud of dust rising thick in the air, the Demon Bird laughed like a madman and thrust out his hand like a thunderbolt.
+Beyond the flying fragments of rock and the rising cloud of dust, the Demon Bird laughed like a madman and thrust out his hand.
 
 *Boom!*
 
@@ -184,7 +184,7 @@ Compressed air burst outward, clearing his view. Jin Mukyung stood at the far en
 
 “Well, well! What a brazen little brat!”
 
-Powerful killing intent mingled with delight. The two swords in his hands trembled—but not just because of what he was feeling.
+Killing intent mingled with delight. The two swords in his hands trembled, and not merely from what he was feeling.
 
 *Tap.*
 
@@ -192,7 +192,7 @@ He already knew what had touched his heel.
 
 A rock.
 
-A fragment of stone that had been three steps behind him just moments ago, but now touched his heel.
+A fragment that had been three steps behind him moments ago now pressed against his foot. Its hardness and chill, felt through his blood-soaked leather shoe, were the chief reason he was smiling.
 
 “I can’t remember the last time someone made me step back.”
 
@@ -202,17 +202,13 @@ No—he had been forced back.
 
 A brat not yet thirty had forced back an old monster whose life had been steeped in blood since the Great Faction War.
 
-Though the distance of three steps and a *jang* was considerable, it meant nothing to the Demon Bird. He had seen it clearly.
-
-Just before the two different streams of Sword Energy and Force met, the beautiful path traced by the brat’s fingertips.
-
-That light, as blue as the sea.
+Three steps was far less than a *jang*, but that difference meant nothing to the Demon Bird. He had seen it clearly: the beautiful path traced by the brat’s hand just before blue Sword Energy met red Force. That light, as blue as the sea.
 
 “Ah. So that was it.”
 
 *Squelch.*
 
-The Demon Bird stepped forward slowly, his foot sinking into a pool of blood.
+The Demon Bird stepped forward into a pool of blood. Blood spilled over its edge beneath a footfall heavy enough to match his immense frame.
 
 “I thought it strange. Even while I fought that old Dongting Fisherman, why did your face keep coming to mind when I’d never seen it?”
 
@@ -262,7 +258,7 @@ The Demon Bird’s admiration was genuine. As he looked at Jin Mukyung, regret a
 
 Jin Mukyung spat out dark red, bloody phlegm and answered evenly.
 
-“Even if I’d met you much earlier, there’s no way I’d have called a mangy pig like you my Master.”
+“Even if we’d met years ago, I’d never have called a mangy pig like you my Master.”
 
 Wipeng and Cheol Mubaek closed in alongside him, moving to surround the Demon Bird. The old man sighed regretfully.
 
@@ -272,9 +268,9 @@ If they had met a year—no, three years—later, their match might have made hi
 
 Only a half-collapsed wall stood before Jin Mukyung now.
 
-That moment of joy would never come again.
+But that moment of joy would never come.
 
-Jin Mukyung wouldn’t survive this place today.
+Jin Mukyung would not survive today.
 
 “What a shame. Truly.”
 
