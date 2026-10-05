@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is largely faithful. One line omits the source’s explicit reference to chivalry.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 31–31: “협의를 위해 싸우다”",
+      "current": "They died honorably, fighting for what was right.",
+      "defect": "“What was right” conveys righteousness but drops the explicit chivalry in 협의, which the accepted baseline preserved.",
+      "replacement": "They died honorably, fighting for justice and chivalry. Avenge them—that duty falls to us now.",
+      "rationale": "The source says they died honorably fighting for 협의, and that revenge for it is now the survivors’ responsibility.",
+      "confidence": 0.94
+    }
+  ]
+}

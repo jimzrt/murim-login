@@ -6,15 +6,15 @@ News that the Grand Family Head of the Hebei Peng Family—yet another giant bor
 
 “I thought he, at least, would hold firm… And yet it’s come to this.”
 
-“Even so, who could’ve imagined the Saber King would meet such a pointless end?”
+“Even so, who could’ve imagined the Saber King would leave us so suddenly?”
 
-“Pointless? Don’t ever say that in front of me again. Great Hero Peng held fast to his chivalrous spirit until the very end.”
+“Suddenly? Don’t ever say that in front of me again. Great Hero Peng held fast to his principles until the very end.”
 
-“Enough. You think he said that because he didn’t know? He’s just heartbroken.”
+“Enough. You think he doesn’t know that? He’s just heartbroken.”
 
 “I know. Damn it, I know.”
 
-The martial artists who received the unexpected and tragic news could not hide their grief.
+The martial artists who received the unexpected news could not hide their grief.
 
 To them, the title of one of the Ten Kings carried a meaning unlike any other.
 
@@ -30,19 +30,19 @@ None of them had died of old age or illness.
 
 The old masters who had symbolized the orthodox Murim and stood for chivalry were dying one after another.
 
-The martial artists of Murim layered anger over their grief.
+The martial artists painted their grief with anger.
 
 To avenge those they had lost.
 
-To defeat the new enemy, which had emerged for the first time since the Demonic Cult and revealed a power more threatening than ever.
+To defeat the new enemy that had appeared in the wake of the Demonic Cult, wielding a power more threatening than anything they had faced before.
 
-“Who will stand against Dark Heaven!”
+“Who will stand against Dark Heaven?”
 
 “Take up your swords! For the Nine Provinces, for justice and chivalry—rise up and fight those fiends!”
 
 Rousing shouts rang out on streets everywhere. They had become an everyday occurrence.
 
-Learning from the Murong Family’s example, Sect Leaders and Family Heads of various factions met often and put old grudges behind them. Young people, their blood burning with fervor, swung weapons they had never so much as bloodied until their palms split.
+Taking the Murong Family’s fate as a warning, Sect Leaders and Family Heads met often and put old grudges behind them. Young people, their blood running hot, swung weapons that had never drawn a drop of blood until their palms split.
 
 Even a stone leaves a mark when it moves. How much greater the mark left by a mountain?
 
@@ -70,7 +70,7 @@ And the repercussions had long since spread far beyond Murim’s borders.
 
 “My father’s from somewhere else.”
 
-“Somewhere else, huh? So he married into the family and settled in Jeong Family Village.”
+“Somewhere else, huh? So he married into a family there and settled in Jeong Family Village.”
 
 “Yes, yes. That’s right.”
 
@@ -84,7 +84,7 @@ The low-ranking official assigned to recruit soldiers looked the applicant up an
 
 “Yes, sir!”
 
-“I see. Then what is your mother’s full name?”
+“I see. Then what’s your mother’s name?”
 
 “What?”
 
@@ -100,13 +100,13 @@ The boy hesitated, but not for long.
 
 He might not have his family’s permission, but his sense of chivalry and his dreams of making his mark on the world had never burned brighter.
 
-If his parents were acquainted with the official in front of him, this was the perfect chance to be posted to a good battlefield, earn brilliant merit, and become a young general.
+If his parents knew the official, this could be his chance to be sent to a promising battlefield, earn brilliant merit, and become a young general.
 
 *Me too. I’ll be like him one day.*
 
 He had already made up his mind.
 
-Thinking of the idol he had never once seen in person, the boy found his courage. He gripped the bamboo spear he had clumsily whittled himself and opened his mouth.
+Thinking of the idol he had never met, the boy found his courage. He gripped the bamboo spear he had clumsily whittled himself and opened his mouth.
 
 “Th-the second daughter of the Oh family from the house by the persimmon tree. She said people nearby would know her…”
 
@@ -126,7 +126,7 @@ The official glared at him as though he already knew everything. The boy stiffen
 
 “What are you waiting for? Drag this brat out!”
 
-“Gah, sir! No! You can’t! You’ll really regret turning me away!”
+“Sir! No! You can’t! You’ll really regret turning me away!”
 
 The boy’s eyes widened with fierce determination. Deeply moved by the sight, the official gave an order to the guards holding him by both arms.
 
@@ -146,7 +146,7 @@ The official was in danger of dying from overwork before Dark Heaven ever got to
 
 “Yes!”
 
-In the end, the guards gave the boy a sound kick to the rear and drove him out. The applicants, whose line stretched all the way outside the government office, watched him go and murmured among themselves.
+In the end, the guards gave the boy a sound kicking on the rear and drove him out. The other applicants, whose line stretched all the way outside the government office, watched and murmured among themselves.
 
 “He looks younger than my little brother.”
 
@@ -164,7 +164,7 @@ In the end, the guards gave the boy a sound kick to the rear and drove him out. 
 
 “…”
 
-“I can’t have the place name overlapping by accident. They’ll catch me, and I’ll end up like him.”
+“I can’t have us naming the same village by accident. They’ll catch me, and I’ll end up like him.”
 
 “…How old are you, by the way?”
 
@@ -180,7 +180,7 @@ While everyone else was still reeling, the applicant with the weathered face cal
 
 “How old are you?”
 
-The boy, staring blankly at the government office, answered.
+The boy stared blankly at the government office.
 
 “Sixteen.”
 
@@ -208,7 +208,7 @@ The boy’s face twisted at once.
 
 “Oh.”
 
-“Seeing you get worked up over weapons tells me one thing. You came here because you want to be like ‘that person,’ didn’t you?”
+“Seeing you get worked up over weapons tells me one thing. You came here because you want to be like ‘that man,’ didn’t you?”
 
 The boy hesitated, then answered in a much softer voice.
 
@@ -216,11 +216,11 @@ The boy hesitated, then answered in a much softer voice.
 
 “What?”
 
-“Don’t call him ‘that person.’ Speak of him with respect.”
+“Don’t call him ‘that man.’”
 
 His dejected look had vanished.
 
-As if nothing had happened, he seemed to have forgotten he’d just been thrown out of the government office. His eyes brightened as he continued.
+As though he’d forgotten he had just been thrown out of the government office, the boy went on, eyes bright.
 
 “Blazing Flame Divine Dragon Jin Taekyung. I’m going to be like him. I will!”
 
@@ -238,9 +238,9 @@ Reality, of course, had kicked him in the rear and thrown him out.
 
 “Damn it.”
 
-The boy lowered his head gloomily.
+The boy lowered his head.
 
-Then a strange voice suddenly rang out from somewhere.
+Then an unfamiliar voice called out from somewhere nearby.
 
 “Wow! That’s so cool!”
 
@@ -260,7 +260,7 @@ They exchanged bewildered glances. But before anyone could make sense of it, the
 
 “Y-yes?”
 
-The boy stared at the young man, bewildered.
+The boy stared at him.
 
 Perhaps it was the long robe caked in dust. The young man looked more than ordinary—he looked downright shabby.
 
@@ -276,7 +276,7 @@ For once, everyone was thinking the same thing. How could they not?
 
 Just look at that spotless, pure-white smile.
 
-There wasn’t a speck of malice in his eyes. They were clearer than a stream, and then he grabbed the boy’s hand and shook it over and over—the way a little kid might.
+There wasn’t a speck of malice in his eyes. They were clearer than a stream. Then he grabbed the boy’s hands and shook them over and over, like an excited child.
 
 “That’s so cool! You’re determined to become like the Blazing Flame Divine Dragon. That’s amazing!”
 
@@ -296,9 +296,9 @@ He puffed out his chest and declared it proudly. The boy and everyone else reach
 
 *Yep. Definitely slow.*
 
-And, proving their suspicions, the young man kept babbling about whatever came to mind, oblivious to the strange atmosphere.
+As if to prove them right, the young man kept saying whatever came to mind, oblivious to the change in the air.
 
-“But, Young Hero, if you want to become like the Blazing Flame Divine Dragon, why come to the government office? Wouldn’t it be better to go straight to the Jin Family of Taiyuan?”
+“But, Young Hero, if you want to become like the Blazing Flame Divine Dragon, why come to the government office? You could go straight to the Jin Family of Taiyuan.”
 
 “Oh, it’s just so far away. I’ve never been more than a hundred li from home in my life. How could I…?”
 
@@ -306,19 +306,19 @@ And, proving their suspicions, the young man kept babbling about whatever came t
 
 “Not that far? From here in Qinghai to Shanxi?”
 
-“It goes by faster than you’d think. As long as you keep running hard and don’t give up.”
+“You’d get there sooner than you think. Just keep running and don’t give up.”
 
 Snickers broke out around them.
 
-From Qinghai Province to Shanxi Province was nearly ten thousand li, give or take a little exaggeration.
+From Qinghai to Shanxi was nearly ten thousand li, with only a little exaggeration.
 
-Even old peddlers who roamed the land with a few packs on their backs, and even the major Escort Bureaus, avoided taking on journeys that long whenever possible.
+Even old peddlers who roamed the land with packs on their backs, and even sizable Escort Bureaus, avoided journeys that long whenever they could.
 
 The trip would be grueling and mind-numbingly dull.
 
 If even people who made their living on the road felt that way, what about those who lived in Qinghai, on the far western edge of the realm?
 
-It was the sort of nonsense only a fool would say.
+Only a fool would say otherwise.
 
 But to a boy whose own impossible dream had drawn laughter, the young man’s words sounded different.
 
@@ -330,7 +330,7 @@ But to a boy whose own impossible dream had drawn laughter, the young man’s wo
 
 “Oh, you know about it?”
 
-“Yes. I’m from around here, of course I do. And I know I’m too old to join the Kunlun Sect.”
+“Yes. I’m from here. Of course I do. I also know I’m too old to join.”
 
 The boy sighed deeply before going on.
 
@@ -378,7 +378,7 @@ As he listened to the Slaughter Saint’s deep sigh, Cheongpung watched the boy�
 
 Then he thought of someone and smiled to himself.
 
-—Hehe. Did I ever tell you? When my Benefactor first saw me, the candied hawthorn skewers—
+—Hehe. Did I ever tell you? When my Benefactor first met me, the candied hawthorn skewers…
 
 —Shut up. Please.
 
