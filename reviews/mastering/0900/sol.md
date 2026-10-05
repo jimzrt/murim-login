@@ -30,9 +30,9 @@ From the enormous procession that had come to a halt, someone slowly rode forwar
 
 *Whoosh!*
 
-Not even the golden armor encasing his body or the helmet pulled low over his head could hide his truly overwhelming presence.
+Not even the golden armor encasing his body or the helmet pulled low over his head could hide his overwhelming presence.
 
-At the shout, infused with internal energy, from Baek Yeon—the Emperor’s right hand in name and deed, and Commander of the Embroidered Uniform Guard—everyone in the Grand Banquet Hall rose and knelt.
+At the shout, infused with internal energy, from Baek Yeon—the Emperor’s right hand and Commander of the Embroidered Uniform Guard—everyone in the Grand Banquet Hall rose and knelt.
 
 *Clatter.*
 
@@ -48,7 +48,7 @@ At Ma Sanbao’s quiet murmur, everyone joined in.
 
 “Long live His Majesty the Emperor! Long live! Long, long live!”
 
-At the very end of that resounding cheer, the Emperor stepped down from his sedan chair and walked slowly through the human curtain of guards.
+It was then, as that resounding cheer faded, that the Emperor stepped down from his sedan chair and walked slowly through the curtain of people.
 
 *Step. Step.*
 
@@ -56,11 +56,11 @@ His footsteps rang out with unusual clarity.
 
 But with their heads bowed, they couldn’t see the Emperor as he passed. Only after he had taken his place on the throne atop the lofty stairs could they straighten up and face him.
 
-The ruler of all under Heaven, who had shut himself away in Qianqing Palace for years on end while attending to the affairs of state.
+The ruler of all under Heaven, who had shut himself away in Qianqing Palace for years while attending to affairs of state.
 
 The Great Nation’s fourth prince turned rebel, then rebel turned Emperor: a notorious unfilial wretch and butcher who had finally seized the throne.
 
-And a man of tempestuous fortune, standing at the highest place beneath Heaven.
+And a man who had risen through turbulent times to stand at the highest place beneath Heaven.
 
 They were stunned.
 
@@ -76,7 +76,7 @@ But the Emperor paid it no mind.
 
 He looked down haughtily at the countless gazes fixed on him.
 
-Though he had aged beyond recognition, his eyes shone brighter than anyone else’s in the hall as he surveyed the gathered officials, great and small, one by one.
+Aged beyond recognition, but with eyes sharper than anyone else’s in the hall, he surveyed the gathered officials one by one.
 
 The pillars that held up this vast empire. Its very heart.
 
@@ -96,7 +96,7 @@ They stared at each other for a while without saying a word. At last, the Empero
 
 “Begin.”
 
-Perhaps it wasn’t just a few people who imagined it.
+Surely more than a few people heard it that way.
 
 *Boom. Boom. Bwoom!*
 
@@ -104,7 +104,7 @@ The drums heralding the start of the grand banquet sounded like war drums announ
 
 * * *
 
-The atmosphere, frozen like a glacier, began to thaw little by little when musicians and dancers entered with an astonishing spread of delicacies and began to perform.
+The atmosphere, frozen like a glacier, began to thaw when musicians and dancers entered alongside an astonishing spread of delicacies and began to perform.
 
 The melody stirred the heart, and sleeves fluttered in time with the music.
 
@@ -126,9 +126,9 @@ The middle-aged man reprimanded the young official beside him in a carefully low
 
 He seemed worried someone might have overheard.
 
-I casually picked up a bite of food from the appetizer in front of me.
+I casually picked up a bite of food from the plate in front of me.
 
-The next moment, I felt the middle-aged man across from me fixing me with an unusually persistent stare.
+The next moment, I felt the middle-aged man across from me fix me with an unusually persistent stare.
 
 The young official’s voice reached my ears, too.
 
@@ -142,7 +142,7 @@ And though every Embroidered Uniform Guard was an exceptional master, only a few
 
 The rest were far away, holding their assigned positions.
 
-But even after hearing the young official, the middle-aged man kept watching me closely for a while before asking,
+Even so, the middle-aged man watched me closely for a while before asking,
 
 “Do you know anything about that man?”
 
@@ -156,7 +156,7 @@ But even after hearing the young official, the middle-aged man kept watching me 
 
 The middle-aged man clicked his tongue and continued in the same low whisper.
 
-“How could some ruffian attend a banquet like this? He’s Prince Shangshan’s bodyguard and guest, brought here by His Highness. He’s also the third son of the Jin Family of Taiyuan, whose influence has recently spread all the way south of the Yangtze.”
+“How could some ruffian attend a banquet like this? He’s Prince Shangshan’s bodyguard and guest, brought here by His Highness. He’s also the third son of the Jin Family of Taiyuan, whose influence has recently spread south of the Yangtze.”
 
 “The Jin Family of Taiyuan. The Jin Family of Taiyuan… Do you mean the family that runs the Jin Family Trading Company and the Jin Family Escort Bureau?”
 
@@ -176,7 +176,7 @@ The young official let out a faint exclamation.
 
 “Then…”
 
-“Blazing Flame Divine Dragon. That’s his sobriquet. A tremendous master, barely in his twenties, who’s already accomplished countless feats of arms. There’s no one in the martial world who hasn’t heard of him.”
+“Blazing Flame Divine Dragon. That’s his sobriquet. He’s a tremendous master, barely twenty, who’s already accomplished countless feats of arms. There’s no one in the martial world who hasn’t heard of him.”
 
 “You’ve done your homework.”
 
@@ -214,11 +214,11 @@ Perhaps he seemed all the more likely to do just that because Baek Yeon stood ta
 
 “Y-Your Majesty. Please…”
 
-*Flap.*
+*Flick.*
 
 The Emperor made a small gesture, and the man’s voice cut off.
 
-That was right. This arrogant and cruel absolute ruler still hadn’t spoken.
+That was right. This arrogant, cruel ruler still hadn’t spoken.
 
 And he would allow no one to speak before him.
 
@@ -268,7 +268,7 @@ No, *trembled* might not be quite the word.
 
 If the earlier disturbance had been a ripple from a stone dropped into a lake, this was a triangular wave—a disaster.
 
-Everyone in the Grand Banquet Hall gaped as that wave swept over them in an instant. I looked at the Emperor, who gave a small nod, and spoke.
+Everyone in the Grand Banquet Hall gaped as it swept over them. I looked at the Emperor, who gave a small nod, and spoke.
 
 “Then I’ll take that as permission.”
 
@@ -284,7 +284,7 @@ The wave that hadn’t seemed real even when they’d seen and heard it for them
 
 “How can there be such a lawless man in this world?”
 
-“Commander of the Embroidered Uniform Guard, what are you doing? Why haven’t you cut down that high traitor yet?”
+“Commander of the Embroidered Uniform Guard, what are you doing? Why haven’t you cut down that traitor yet?”
 
 “Your Majesty! Punish that outrageous ruffian at once for insulting Your Majesty and the imperial household!”
 
@@ -294,7 +294,7 @@ Listen to that decibel level.
 
 They say the more people curse you, the longer you live. If this raucous enthusiasm had lasted another fifteen minutes, my sobriquet might’ve become Three Thousand Jiazi instead of Blazing Flame Divine Dragon.
 
-Beheading was the basic option, and they kept piling on extras: cut off my balls, torture me slowly, then tear me limb from limb by quartering.
+Beheading was the basic option. They kept piling on extras: cut off my balls, torture me slowly, then tear me limb from limb.
 
 *…No, I mean, the balls are a bit much.*
 

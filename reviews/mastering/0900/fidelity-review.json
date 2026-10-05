@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "the appetizer in front of me",
+      "defect": "“Appetizer” adds a course category not established by 안주, which refers to food eaten with a drink.",
+      "id": "F01",
+      "rationale": "The source says the narrator casually picks up a piece of drinking food; it does not identify the dish as an appetizer course.",
+      "replacement": "the food in front of me",
+      "severity": "minor",
+      "source": "Korean line 137"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one minor added food-course implication.",
+  "version": 1
+}
