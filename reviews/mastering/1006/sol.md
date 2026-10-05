@@ -2,9 +2,9 @@
 
 *Rustle.*
 
-A thick animal hide unfurled across the large table. Its surface, tanned by human hands, was covered edge to edge with drawings and writing that detailed the terrain.
+A thick animal hide unfurled across the large table. Its tanned surface was covered edge to edge with drawings and writing that detailed the terrain.
 
-“As you can see, this map was made by our sect. We’ve spent many years documenting every feature of Gansu in detail, revising each change as it occurred, until it was complete.”
+“As you can see, this map was made by our sect. Over many years, we recorded every feature of Gansu and revised it whenever something changed.”
 
 Sima Gong’s voice was calm, but every leader gathered around the table understood what the map meant.
 
@@ -34,7 +34,7 @@ Even after I’d pointed that out, Sima Gong’s smile didn’t waver.
 
 Sima Gong nodded at the Wind-and-Cloud Sword Lord, who’d cut in.
 
-“Just as the Sect Leader guessed. We’ve established three lines of defense stretching across Dunhuang, the Great Snow Mountain, and the Qilian Mountains in Gansu Province.”
+“Just as you guessed, Sect Leader. We’ve established three lines of defense across Dunhuang, the Great Snow Mountain, and the Qilian Mountains.”
 
 “Three lines? Aren’t your forces spread too thin?”
 
@@ -48,7 +48,7 @@ If Dark Heaven’s vast army marched into Gansu, a single great battle could dec
 
 Being outnumbered was our greatest obstacle.
 
-The enemy had an army of a hundred thousand. Even if they split their forces to attack three strongholds at once, that still left more than thirty thousand pouring into each one like a pack of dogs.
+The enemy had an army of a hundred thousand. Even if they split their forces to attack three provinces at once, that still left more than thirty thousand pouring into each one like a pack of dogs.
 
 *To face that many, we need to gather in one place. And we’ll only stand a chance if we make the most of the terrain.*
 
@@ -96,21 +96,21 @@ Sima Gong smiled and nodded.
 
 “Even so, thirty thousand would be nearly impossible for the Nine Sects and One Gang of the Central Plains.”
 
-“That’s also true. Would the Great Nation have stood idly by if this many ruffians, liable to turn the swords at their waists against the state at any moment, had gathered?”
+“That’s true as well. If there were this many ruffians who might turn the swords at their waists on others at any moment, would the Great Nation have stood idly by?”
 
 The phrase *the government and Murim shall not interfere in one another’s affairs* had been rendered nearly meaningless since the Son of Heaven declared Dark Heaven traitors. But the principle had arisen for a reason.
 
-It was an unspoken rule that had arisen naturally alongside Murim itself.
+It was an unspoken rule that had existed since Murim’s beginnings.
 
 A stone that stuck out was bound to get hammered down. The countless martial factions scattered across the land had long checked one another and made agreements to avoid conflict. In turn, the Great Nation tolerated them so long as they posed no threat to its foundations.
 
 People even said that dynasties changed, but Murim remained.
 
-They’d gathered thirty thousand martial artists in the frontier, not even the Central Plains. That was an army they couldn’t have raised even if they’d turned every martial faction in Gansu Province upside down and shaken them out.
+Now Gansu Murim had crossed that unspoken line. It had gathered thirty thousand martial artists on the frontier, far from the Central Plains—a force they couldn’t have raised by turning every martial faction in Gansu upside down and shaking out its last Disciple.
 
 *Which means…*
 
-The majority had no affiliation with any particular sect. They were the sort of people who followed only their own needs and interests.
+There was only one answer left: people with no allegiance to any particular sect, who moved wherever need and profit led them.
 
 “You even scraped together the dark-path figures. You must’ve been desperate.”
 
@@ -142,21 +142,21 @@ All but one.
 
 Jeok Cheongang.
 
-Sima Gong’s reflection appeared in his reddish, fever-bright eyes, befitting the title of Fire King.
+Sima Gong was reflected in his eyes, which glowed faintly red, befitting the Fire King.
 
-“Unorthodox, dark-path figures, or nobodies who crawled in from God knows where—I don’t give a damn. If the weapons in their hands are pointed at Dark Heaven, that’s all that matters.”
+“Unorthodox factions, dark-path figures, mongrels from God knows where—I don’t care what they are. Not if the weapons in their hands are pointed at Dark Heaven.”
 
 Sima Gong nodded, his face set.
 
-“As it was in the past, so it will be this time.”
+“As they were in the past, so they will be this time.”
 
 “I’m not doubting you. But dark-path figures who’ve drifted all the way out to this frontier must be a rotten lot. If something goes wrong…”
 
-“I’ll stake my head on it.”
+“I’ll stake my life on it.”
 
 Jeok Cheongang stared at him in silence. Then he turned and swept his gaze around the room.
 
-“What do you all think?”
+“What do you think?”
 
 Respected elders of Gansu Murim had come to greet us alongside Sima Gong, but Jeok Cheongang wasn’t asking them. His question was for the senior members of the Zhongnan Sect who’d traveled with us.
 
@@ -164,7 +164,7 @@ The Wind-and-Cloud Sword Lord stood at their center, hesitating. His Senior Brot
 
 “Someone once said it doesn’t matter whether a cat is white or black, so long as it catches mice.”
 
-“The Sima Gong I know is a comrade-in-arms and a hero, someone who weathered the war alongside us, before he is an unorthodox martial artist. That a man like him should have to stake his life on this—isn’t that a crying shame?”
+“The Sima Gong I know is a comrade who came through the war with us, and a man of honor, before he is an unorthodox martial artist. That such a man should have to stake his life on this is a crying shame.”
 
 I watched the two old Daoists pour out their answers as smoothly as if they’d been waiting for their turn. Then Jeok Cheongang looked my way.
 
@@ -182,7 +182,7 @@ He meant I’d been sitting there with my mouth full, acting like I couldn’t s
 
 I gave a short laugh and looked around.
 
-There were senior members of the Black Dragon Demon Gate and leaders of Gansu Murim, each of them heading a martial faction large or small.
+Most of the faces were unfamiliar. I didn’t know their names or epithets. Senior members of the Black Dragon Demon Gate sat alongside the leaders of Gansu’s martial factions, large and small.
 
 Sima Gong was at their center.
 
@@ -204,7 +204,7 @@ Sima Gong was at their center.
 
 “What signs?”
 
-“It’s too early to say. I’ve already selected people I can trust and sent them to scout beyond the desert. We’ll know for certain when they return. So…”
+“Nothing certain enough to speak of yet. I’ve sent people I trust to scout beyond the desert. We’ll know when they return. So…”
 
 Sima Gong’s gaze moved from me to Jeok Cheongang.
 
