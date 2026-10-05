@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "dwindled to a single cup",
+      "defect": "The source specifies 한 홉, a traditional measure of rice, not a cup. Replacing the named measure with a modern cup changes the amount.",
+      "id": "F01",
+      "rationale": "The source’s quantity is explicitly one 홉; it does not specify a cup.",
+      "replacement": "dwindled to a single hop’s worth",
+      "severity": "minor",
+      "source": "Korean line 15"
+    }
+  ],
+  "summary": "The translation is largely faithful, with one minor quantity-unit discrepancy.",
+  "version": 1
+}

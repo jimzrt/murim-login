@@ -18,9 +18,9 @@ There they stripped bark from trees to eat, or took up rusted farm tools and bec
 
 But even that wouldn’t last long.
 
-What could people who had spent their whole lives dutifully working the fields possibly do? All that awaited these clumsy bandits was death.
+What could people who had spent their whole lives faithfully working the fields do? All that awaited these inexperienced bandits was death.
 
-Whether by government troops or martial artists, they would eventually be hunted down. And only when cold blades cut through their bodies would a question suddenly occur to them:
+Government troops or martial artists would eventually hunt them down. Only when a cold blade cut into them would a question suddenly occur to them:
 
 *How did I end up like this?*
 
@@ -86,7 +86,7 @@ The Imperial Court’s proclamation declaring Dark Heaven a foreign enemy and an
 
 Now even the Imperial Court had stepped in.
 
-The Great Nation, which had sat back and watched even during the Great Faction War, possessed more troops and supplies than anyone could count. If it joined the fight, Dark Heaven would be little more than a candle in the wind.
+The Great Nation had stood by even during the Great Faction War. If a power with more soldiers and supplies than anyone could count joined the fight, Dark Heaven would be no more than a candle in the wind.
 
 Or rather, that was what everyone expected.
 
@@ -100,7 +100,7 @@ As his eyes moved over the minuscule writing, the sword scar on his face twisted
 
 “So that’s how it is.”
 
-The quiet mutter slipped between his dry lips.
+The quiet words slipped between his dry lips.
 
 He stood there for a while, deep in thought, then tossed the paper into a brazier in one corner.
 
@@ -110,7 +110,7 @@ Thud. Tap.
 
 A dull sound echoed with each limping step.
 
-Whenever the old man passed, those who looked like Confucian scholars lowered their heads slightly.
+Men who looked like Confucian scholars bowed their heads slightly whenever they saw him.
 
 “Welcome, Chief of the Hidden Shadow Pavilion.”
 
@@ -146,7 +146,7 @@ At the old man’s first words as he entered the exceedingly plain room, the man
 
 “Don’t worry about it. I’m sure you had good reason.”
 
-The man smiled gently. He was young.
+The man smiled. He was young.
 
 He looked barely thirty, and the compact muscles of his bare upper body were perfectly balanced.
 
@@ -162,7 +162,7 @@ Sword Saint Mae Jonghak was one of the greatest pillars supporting the Murim.
 
 “I’ve come because there’s something I must report to the Alliance Leader at once.”
 
-“Something you must report immediately.”
+“Something urgent.”
 
 The smile faded from Mae Jonghak’s lips. He took his seat and tilted a teapot as he went on.
 
@@ -170,7 +170,7 @@ The smile faded from Mae Jonghak’s lips. He took his seat and tilted a teapot 
 
 Trickle.
 
-Before the cold tea had even filled the cup, steam rose from it. The old man sat down across from Mae Jonghak and ran a hand over the teacup, heated by Samadhi True Fire.
+Steam rose from the cold tea before it had even filled the cup. The old man sat down across from Mae Jonghak and touched the teacup, warmed by Samadhi True Fire.
 
 “Yes.”
 
@@ -198,13 +198,13 @@ This was an all-out war. Not just Shanxi Murim, but all of Shanxi Province would
 
 “What forces does Shanxi have?”
 
-“First, more than five thousand martial artists are standing by, led by the Jin Family of Taiyuan. In addition, the government has ten thousand troops, including a thousand cavalry.”
+“About five thousand martial artists are standing by, led by the Jin Family of Taiyuan. The government has another ten thousand troops, including a thousand cavalry.”
 
 Fifteen thousand in all.
 
 They had scraped together every last man.
 
-They wouldn’t even have managed to gather five thousand martial artists if the Jin Family of Taiyuan hadn’t accomplished an extraordinary resurgence over the past two years.
+Even that would not have included five thousand martial artists if the Jin Family of Taiyuan had not made such an extraordinary resurgence over the past two years.
 
 But the greatest problem was…
 
@@ -214,7 +214,7 @@ At Mae Jonghak’s mutter, the Thousand-Faced Fox nodded grimly.
 
 According to the Hidden Shadow Pavilion’s intelligence, the grassland army marching south would swell to at least thirty thousand, perhaps as many as forty thousand.
 
-Because it bordered the grasslands, The government troops stationed in Shanxi Province were highly capable. But the wave of cavalry, more than twice their total strength, was a nightmare in itself.
+Shanxi Province bordered the grasslands, so the government troops stationed there were seasoned soldiers. But a wave of cavalry more than twice the size of their entire force was a nightmare in itself.
 
 “They seem to intend to evacuate the north first and fight in the central region to minimize casualties.”
 
@@ -238,13 +238,13 @@ Eight Spring Gorge lay on the boundary between central and northern Shanxi Provi
 
 The path was steep and the entrance narrow, making it an ideal battlefield for a small force facing a larger one.
 
-And considering that most of the enemy forces were cavalry, it would be hard to find a better location.
+Considering that most of the enemy were cavalry, they could hardly find a better place.
 
 The problem was that those cavalry numbered in the tens of thousands—and the true enemy had yet to show its face.
 
 “If the decisive battle is fought at Eight Spring Gorge, what chance do you give the Jin Family of Taiyuan?”
 
-“Even at the most generous estimate, twenty percent. No matter how much the battle turns in the Jin Family of Taiyuan’s favor, anything higher than that would be difficult.”
+“Twenty percent at best. Even if the battle goes in their favor, I can’t put it any higher.”
 
 The Thousand-Faced Fox’s answer was firm, his gaze darkening.
 
@@ -260,7 +260,7 @@ Pitch-black clouds had swallowed even the blue skies over the grasslands. Their 
 
 The Thousand-Faced Fox’s face was dark as he said it.
 
-As the Murim Alliance Leader’s right hand and the head of the Hidden Shadow Pavilion, he was one of the people who understood the current state of the world better than anyone.
+As the Murim Alliance Leader’s right hand and head of the Hidden Shadow Pavilion, he understood the state of the world better than most.
 
 “Everyone knows what could happen if we move rashly. We could be caught in their dark arts and suffer a terrible blow.”
 
@@ -268,7 +268,7 @@ It defied common sense, but Dark Heaven had already used the dark art known as t
 
 Shaolin, the Mount Tai and Northern Dipper of the Murim, had suffered devastating losses because of it. The Nine Sects and One Gang and the Five Great Families were no less vulnerable.
 
-Not even here in Henan, where the Murim Alliance’s headquarters was located.
+Not even here in Henan, where the Murim Alliance headquarters stood, was safe.
 
 “Then the forces we can mobilize right now…”
 
@@ -284,7 +284,7 @@ Mae Jonghak gazed steadily at the Thousand-Faced Fox, who had answered without a
 
 “When you say we have no troops to send to Shanxi, is that the absolute truth?”
 
-“…”
+“…!”
 
 The Thousand-Faced Fox chose silence.
 
@@ -294,7 +294,7 @@ Hiding his identity and telling brazen lies as though they were the truth came a
 
 But even he could not bring himself to lie under the clear gaze of Sword Saint Mae Jonghak.
 
-“You know as well, Alliance Leader…”
+“You already know, Alliance Leader…”
 
 The Thousand-Faced Fox spoke at last, his voice heavy.
 
@@ -304,7 +304,7 @@ The Thousand-Faced Fox spoke at last, his voice heavy.
 
 “It isn’t. Time is short, but if we pull the front line back to Henan without delay, we can preserve our remaining forces and plan for what comes next.”
 
-“No. It’s definitely too late.”
+“No. It’s too late.”
 
 Mae Jonghak shook his head slightly.
 
@@ -314,7 +314,7 @@ Mae Jonghak shook his head slightly.
 
 “The Lesser Family Head of the Jin Family of Taiyuan is an astute man. He takes a broad view of every situation and is exceedingly careful before making a decision. Isn’t that why you recommended him to the Murim Alliance’s strategy division?”
 
-The Thousand-Faced Fox let out a quiet hum before he could stop himself.
+The Thousand-Faced Fox let out a low groan before he could stop himself.
 
 If a man that cautious had staked his family’s fate on a decision, he would never take it back.
 
@@ -322,11 +322,11 @@ Not even on the Murim Alliance Leader’s orders.
 
 “But if this continues, we could lose Shanxi. We could lose them all.”
 
-“I know. If they retreat now, the innocent commoners who haven’t managed to flee will be massacred by the enemy.”
+“I know. And I know that if they retreat now, the innocent people who haven’t managed to flee will be massacred.”
 
 “…!”
 
-“Don’t turn your eyes away. They aren’t fighting only to protect the homes where they grew up.”
+“Don’t look away from it. They aren’t fighting only to protect the place they call home.”
 
 At a loss for words, the Thousand-Faced Fox closed his eyes, unable to meet Mae Jonghak’s gaze.
 
@@ -336,7 +336,7 @@ He knew. He had only pretended not to.
 
 This was not a battle. It was a war.
 
-To win it, a few thousand martial artists mattered more than a hundred thousand people.
+To win this war, a few thousand martial artists mattered more than over a hundred thousand commoners.
 
 “Was my judgment…wrong?”
 
@@ -356,13 +356,13 @@ At that very moment—
 
 Srrk.
 
-With a motion of Mae Jonghak’s hand, a surge of qi reached out and flung open the firmly shut door.
+With a motion of Mae Jonghak’s hand, qi reached out and flung open the firmly shut door.
 
-Then, with the faint stir of a hidden presence, a figure swept in like the wind.
+A faint, stealthy presence followed, and a figure swept into the room like the wind.
 
-“What news have you brought?”
+“Well? What news have you brought?”
 
-At Mae Jonghak’s question, as if he had been expecting the arrival, a messenger from the Alliance Leader’s Office bowed low and answered.
+Mae Jonghak sounded as though he had been waiting for him. The messenger from the Alliance Leader’s Office prostrated himself and answered.
 
 “Urgent news! The Hebei Peng Family, the Murong Family, Huashan, and the Zhongnan Sect are each sending two thousand reinforcements to save Shanxi Province—”
 
@@ -378,7 +378,7 @@ But…
 
 The Thousand-Faced Fox smiled bitterly.
 
-Only after the messenger, bearing news he could hardly believe, had left did he break the long silence.
+Only after the messenger had left did he break the long silence.
 
 “I understand now. I know the name of the branch I failed to see.”
 
@@ -388,7 +388,7 @@ Only after the messenger, bearing news he could hardly believe, had left did he 
 
 Mae Jonghak smiled gently.
 
-He remembered his younger self, who had sworn to build chivalry through martial arts.
+He remembered his younger self, who had sworn to cultivate martial skill in the service of chivalry.
 
 “Never forget again. We’re all martial artists.”
 
