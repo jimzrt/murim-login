@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled copy has two omissions: the Emperor’s military record and the narrator’s explicit reluctance to deny Hong Jin’s account outright.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 39–41",
+      "current": "Still, I hadn’t expected it.",
+      "defect": "The assembled copy omits that the Emperor had distinguished himself in many military campaigns through his exceptional martial talent. This source detail also connects his known background to the narrator’s reaction.",
+      "replacement": "Back when he was known as the fourth prince, he’d earned many military merits thanks to his exceptional martial talent. Still, I hadn’t expected it.",
+      "rationale": "The source says he achieved numerous military feats on the strength of his outstanding martial talent before noting that this fact still exceeded expectations. The accepted baseline preserves this information.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 127",
+      "current": "Hong Jin was a loyal retainer the late Emperor had cherished enough to entrust with Prince Shangshan’s care.",
+      "defect": "The narrator’s explicit thought that he could not simply deny everything is omitted. The following explanation gives the reason, but loses this stated hesitation.",
+      "replacement": "Still, I couldn’t deny everything outright. Hong Jin was a loyal retainer the late Emperor had cherished enough to entrust with Prince Shangshan’s care.",
+      "rationale": "The source explicitly says it would be difficult to flatly deny the rest, then explains that Hong Jin was a trusted retainer whose feelings toward the Emperor would be known. The accepted baseline preserves the hesitation.",
+      "confidence": 0.98
+    }
+  ]
+}

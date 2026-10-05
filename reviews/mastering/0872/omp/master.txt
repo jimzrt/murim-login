@@ -6,9 +6,7 @@ A shiver ran down my spine. At last, I knew who the middle-aged man was—the an
 
 *The Son of Heaven…!*
 
-The ruler of the continent, who governed all under heaven.
-
-The man who’d seized the throne in a coup after bathing the imperial capital in blood a little over ten years ago.
+The ruler of the continent, who governed all under heaven. The man who had bathed the Imperial Capital in blood to seize the throne a little over ten years ago.
 
 I stared wide-eyed at the middle-aged man before me—no, at the Emperor.
 
@@ -18,9 +16,7 @@ Everything that had happened proved who he was. The question came from what I al
 
 *He should still be around forty.*
 
-When the young, ambitious fourth prince of the Great Nation launched his coup, he’d been no older than his late twenties.
-
-A little over ten years had passed since then. At most, he should have just turned forty.
+The ambitious young fourth prince had been in his late twenties when he launched his coup. A little over ten years had passed since then. At most, he should have just turned forty.
 
 And yet…
 
@@ -28,21 +24,21 @@ And yet…
 
 I couldn’t write it off as a face that had aged prematurely. He was the Emperor, a man above all others, not some country bumpkin who had spent his life farming under the blazing sun. More than that, he was a Supreme Peak master. How could he look so old?
 
-By comparison, the fact that the Emperor of the Great Nation was a Supreme Peak master wasn’t all that shocking.
+By comparison, learning that the Emperor was a Supreme Peak master wasn’t nearly as shocking. Back when he was the fourth prince, his exceptional martial talent had earned him distinction in battle time and again.
 
 Still, I hadn’t expected it.
 
-Ma Sanbao. The East Depot’s second-in-command, who’d spent the past decade and more serving as the Emperor’s right hand while hiding his own rebellious ambitions.
+Suddenly, I thought of Ma Sanbao. The East Depot’s second-in-command had served as the Emperor’s right hand for more than a decade while hiding his disloyalty.
 
-*Did he know about this?*
+*Did he know?*
 
-If Ma Sanbao had known, he would have told me long ago.
+The answer came at once. If Ma Sanbao had known, he would have told me.
 
 That left only one conclusion.
 
-*Even Ma Sanbao didn’t know. No—that’s not quite right. The Emperor must have deliberately kept it hidden.*
+*Even Ma Sanbao didn’t know. No—the Emperor deliberately kept it hidden.*
 
-A chill ran down my spine. Part of my conversation with Ma Sanbao the night before flashed through my mind.
+A chill ran down my spine as part of our conversation from the night before flashed through my mind.
 
 “The Emperor is a sinister man who keeps his schemes close. You can see it in how he still uses the Embroidered Uniform Guard to keep the East Depot in check, even after all these years.”
 
@@ -62,7 +58,7 @@ The Emperor had hidden the truth even from Ma Sanbao, who was the East Depot’s
 
 So why? Why show *me* this side of himself?
 
-I couldn’t be certain of anything just yet, but at least some of what Ma Sanbao had told me that day was right.
+I couldn’t be sure of anything yet. But at least part of what Ma Sanbao had told me was right.
 
 The Emperor was sinister, and he kept his schemes close. The look in his eyes now, as though he could see straight into my heart, told me that much.
 
@@ -76,7 +72,7 @@ After laughing at the sight of me standing there frozen, the Emperor spoke again
 
 “……!”
 
-For a moment, I couldn’t breathe. Through the air that had suddenly grown heavy around us, I could sense the Emperor’s intentions all too clearly.
+My breath caught. The air around us had grown heavy, and his meaning came through it all too clearly.
 
 *He suspects me…*
 
@@ -86,7 +82,7 @@ All the more reason to stay calm. I tried not to show what I was thinking.
 
 “What?”
 
-“I’ve already heard a few things from Hong Jin—or rather, the Deputy Military Commissioner of Shanxi Province.”
+“I’ve heard a few things from Hong Jin—or rather, the Deputy Military Commissioner of Shanxi Province.”
 
 “Hong Jin, Hong Jin. It’s been a long time since I heard that name.”
 
@@ -100,13 +96,13 @@ The Emperor gazed into the distance for a moment, as though recalling an old mem
 
 “That was all.”
 
-“That can’t be all.”
+“I doubt that.”
 
 Of course it wasn’t all.
 
 But how was I supposed to tell a man who had killed his own blood relatives to take the throne, “He said you were a fucking bastard”?
 
-Hong Jin was a loyal retainer the late Emperor had cherished enough to entrust with Prince Shangshan’s care. The Emperor must have known long ago that someone like him wouldn’t have warm feelings toward him.
+I couldn’t deny everything outright, either. The late Emperor had trusted Hong Jin enough to place Prince Shangshan in his care. The current Emperor must have known that a man like that had no reason to think well of him.
 
 I needed an answer that would allay the Emperor’s suspicions without getting Hong Jin dragged off by the Embroidered Uniform Guard.
 
@@ -144,13 +140,11 @@ The men left no gap in the circle around me. They had the blank indifference of 
 
 At the same time, a hand gripped my sleeve tightly.
 
-Squeeze.
-
 Prince Shangshan Zhu Bao.
 
 The young prince had been frozen since the moment he learned the middle-aged man was the Emperor. I gave him a smile, hoping to reassure him.
 
-The Emperor had been watching us in silence. Suddenly, he shook out his voluminous sleeve.
+The Emperor watched us in silence, then abruptly flicked his voluminous sleeve.
 
 *Flap.*
 
@@ -158,7 +152,7 @@ As the fabric billowed, the black-clad men withdrew their weapons and sprang int
 
 “Your Majesty’s men are certainly loyal.”
 
-This time, I wasn’t being sarcastic.
+For once, I wasn’t being sarcastic.
 
 At my genuine admiration, the Emperor answered dryly.
 
@@ -170,7 +164,7 @@ At my genuine admiration, the Emperor answered dryly.
 
 I fell silent. This time, I really was surprised.
 
-Everyone under heaven knew the title Slaughter Saint, but only a tiny handful knew that he’d reappeared after vanishing long ago.
+Everyone under heaven knew the name Slaughter Saint. Only a tiny handful knew that he had reappeared after vanishing long ago.
 
 Yet the Emperor knew not only that he was back, but that he and I were connected. He must have learned it through the vast intelligence network he had spread across the continent.
 
@@ -196,7 +190,7 @@ He kept staring at me after he finished speaking. I tried again.
 
 “I stand in fear and awe, Your Majesty.”
 
-“Better. You’re a lawless thug from the martial world, so I can’t expect much. But from now on, you can learn one thing at a time.”
+“Better. You’re a lawless thug from the martial world, so I can’t expect much. But you can learn, one thing at a time.”
 
 A faint smile spread across his wrinkled lips. My stomach twisted.
 
@@ -222,7 +216,7 @@ Prince Shangshan hadn’t regained his composure. He had gone rigid as a statue.
 
 Prince Shangshan looked at him with trembling eyes, then raised his head to look up at me. He drew a ragged breath, released my sleeve, and stepped toward the Emperor.
 
-No—he threw himself down in a full prostration and bowed.
+No—he threw himself down in a full prostration.
 
 “I-I, your subject, Prince Shangshan Zhu Bao, pay my respects to Your Majesty, my imperial brother.”
 
@@ -230,7 +224,7 @@ A heavy silence settled over the room. It lasted a moment, or perhaps much longe
 
 The Emperor looked down at Prince Shangshan, his eyes too deep to read. His face was so cold that it was hard to believe he was looking at his much younger brother.
 
-Then he spoke.
+At last, he spoke.
 
 “How old are you this year?”
 
@@ -248,7 +242,7 @@ Especially when that brother was the Emperor of the Great Nation—a man he coul
 
 “I… see.”
 
-“Taizu, our grandfather, founded the Great Nation through martial force, too. It’s part of the imperial family’s tradition. Looking at you, it seems blood really does tell.”
+“Our grandfather Taizu founded the Great Nation through martial force. It is an imperial tradition. Looking at you, I suppose blood does tell.”
 
 The Emperor added in a dry voice, “Whether that proves a poison or a boon, I cannot say.”
 
@@ -264,7 +258,7 @@ Even before we reached the Imperial Capital, I’d guessed that the Emperor’s 
 
 Power was ruthless.
 
-People fought like beasts over the little wealth they had, even with their own parents and siblings. What would it be like over a vast continent, an entire empire?
+People fought like beasts over what little property they owned, even with their parents and siblings. What would they do for a vast continent—for an empire?
 
 Even so, the Emperor’s suspicion of his youngest brother, a boy of twelve, was terrifyingly thorough.
 
