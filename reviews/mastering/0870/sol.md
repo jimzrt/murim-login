@@ -22,7 +22,7 @@ And yet the Emperor, born of the dragon’s blood and having seized the realm th
 
 I swallowed hard, then checked that I was still in working order.
 
-I picked at my ear with my pinky, slapped my cheek two or three times with my palm, and steadied my breathing before I finally spoke again.
+I picked at my ear with my pinky, slapped my cheek two or three times with my palm, and steadied my breathing before I spoke again.
 
 “Say that again.”
 
@@ -66,9 +66,9 @@ Of course, that was easy for the Embroidered Uniform Guard to say. They were gov
 
 I had a bad feeling about this. No—I could already feel a chill at the back of my neck.
 
-Why was I thinking of Jeong Hogun’s manner, which suggested he had some idea what had happened last night, and Ma Sanbao’s face as he spoke of rebellion?
+Why else would I keep thinking of Jeong Hogun’s manner, which suggested he had some idea what had happened last night, and Ma Sanbao’s face as he spoke of rebellion?
 
-I felt a chill run down my spine and parted my lips.
+I felt a chill run down my spine and opened my mouth.
 
 “What if…I refused the invitation?”
 
@@ -160,7 +160,7 @@ But it lasted only an instant. I sent another Sound Transmission to the young pr
 
 Prince Shangshan was just about to give a small nod when I noticed Jeong Hogun, running at the head of the procession with his eyes fixed ahead, starting to turn his upper body.
 
-I spoke a beat before he could.
+I spoke first.
 
 “What are those people?”
 
@@ -200,7 +200,7 @@ That seemed far too brutal to write off as the way things were in this era.
 
 Once I started looking at things differently, I noticed more.
 
-Even as I hurried along behind the Embroidered Uniform Guard, I studied the expressions of the palace attendants, whose faces I hadn’t paid much attention to before.
+Even as I hurried along behind the Embroidered Uniform Guard, I studied the palace attendants I’d barely noticed before.
 
 Their faces and movements were stiff as wooden dolls. Whenever their eyes flicked toward the soldiers stationed all around them, I could see a tremor they hadn’t managed to hide.
 
@@ -244,7 +244,7 @@ With the System down, I couldn’t gain EXP, let alone recover by leveling up.
 
 On top of that, my Inventory—which had served me so well whenever I caught enemies off guard with an unexpected attack—was firmly shut.
 
-*If I’d known this would happen, I should’ve taken White Flame out of my Inventory the last time I logged out in Murim. Or at least the Fire Dragon Armor.*
+*If I’d known this would happen, I should’ve taken White Flame out the last time I logged out in Murim. Or at least the Fire Dragon Armor.*
 
 I’d only been able to fight as recklessly as I had because I could level up. And I’d beaten masters in higher realms than mine thanks in large part to my Inventory and divine weapons.
 
@@ -260,7 +260,7 @@ A young prince and a eunuch I had to protect. And some damn idiot with a bad sno
 
 *Perfect.*
 
-At this point, I was almost tempted to ask Prince Shangshan to assassinate the Son of Heaven. I called out to Jeong Hogun, who was walking silently ahead of us, just in case.
+At this point, I was almost tempted to ask Prince Shangshan to assassinate the Son of Heaven. Just in case, I called out to Jeong Hogun, who was running silently ahead.
 
 “Hey, can I ask you something? Ever heard of *chokbeop sonyeon*[^2]?”
 
@@ -284,15 +284,15 @@ The Emperor, collapsed in a pool of blood. Embroidered Uniform Guards rushing in
 
 —Your Highness Prince Shangshan! What have you done?
 
-—The Embroidered Uniform Guard can’t do a thing, can you? Now I’m the Emperor, right?
+—You guards can’t do a thing, can you? Now I’m the Emperor, right?
 
 —His Majesty has been assassinated! Apprehend the traitor Zhu Bao at once!
 
-—Yep. I’m still too young to be prosecuted!
+—Nope. Still too young to prosecute~
 
 “……”
 
-It was a sweet fantasy, but now that I thought about it, it seemed pretty serious in its own way.
+It was a sweet fantasy, though now that I thought about it, it had problems of its own.
 
 Becoming Emperor because he was too young to be prosecuted.
 

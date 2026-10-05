@@ -1,0 +1,15 @@
+{
+  "summary": "One source-fidelity defect: the translation specifies how the prisoners were injured when the Korean leaves the mechanism unstated.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 199–203",
+      "current": "They’d beaten men half to death just because they hadn’t predicted the weather.",
+      "defect": "“They’d beaten” adds a specific method of injury. The Korean says the men were made to look half-dead for failing to predict the weather, without stating that they were beaten.",
+      "replacement": "They’d left men looking half-dead just because they hadn’t predicted the weather.",
+      "rationale": "The source describes the prisoners’ condition and the reason for their punishment, but does not identify the physical mechanism.",
+      "confidence": 0.97
+    }
+  ]
+}

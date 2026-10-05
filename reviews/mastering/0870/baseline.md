@@ -8,13 +8,13 @@ To be honest, even after arriving at the imperial palace, I hadn’t really thou
 
 It was only natural.
 
-He ruled this vast continent, a man above all others.
+He was the exalted ruler of this vast continent, above all others.
 
-Compared to him, I was a lawless thug from the martial world without so much as an identification plaque, and merely a son of the unimpressive Jin Family of Taiyuan.
+Compared to him, I was a lawless thug from the martial world without so much as an identification plaque, and no more than a son of the unimpressive Jin Family of Taiyuan.
 
-Whatever standing I held in Murim, however much the Jin Family of Taiyuan had grown, none of it meant anything before those two words: Son of Heaven.
+Whatever standing I held in Murim, however much the Jin Family of Taiyuan had grown, none of it meant anything in the face of those two words: Son of Heaven.
 
-This was the imperial palace, and he was the Emperor, with civil and military officials and countless subjects under him.
+This was the imperial palace, and he was the Emperor, with civil and military officials and countless subjects under his command.
 
 And yet the Emperor, born of the dragon’s blood and having seized the realm through rebellion, had summoned me to an audience even Hong Jin wasn’t allowed to attend.
 
@@ -34,7 +34,7 @@ Jeong Hogun looked at me in silence, then answered without complaint.
 
 “I said that only His Highness Prince Shangshan and Jin Taekyung of the Jin Family of Taiyuan had been summoned by His Majesty the Emperor.”
 
-Judging by his stony expression, this definitely wasn’t a hidden-camera prank. I fell silent for a moment, faced with this unexpected reality, then asked again.
+Judging by his unflappable expression, this definitely wasn’t a hidden-camera prank. I fell silent for a moment, faced with this unexpected reality, then asked again.
 
 “Is this a dream or something?”
 
@@ -48,7 +48,7 @@ Jeong Hogun replied calmly.
 
 “It did.”
 
-“Then it isn’t a dream.”
+“Then it wasn’t a dream.”
 
 “I see.”
 
@@ -58,13 +58,13 @@ The second silence lasted a little longer. The first to break it wasn’t me, bu
 
 “I don’t know.”
 
-Jeong Hogun gave a brief answer, then added, “We of the Embroidered Uniform Guard merely follow His Majesty the Emperor’s orders. We need no reasons, and we ask no questions.”
+Jeong Hogun gave a brief answer, then added, “We, the Embroidered Uniform Guard, merely follow His Majesty the Emperor’s orders. We need no reason or explanation.”
 
-Of course, that was easy for the Embroidered Uniform Guard to say. They were government officials. My situation was a lot more complicated.
+Of course, that was the perspective of the Embroidered Uniform Guard, as government officials. My own situation was far more complicated than that.
 
 *Why is he summoning me all of a sudden?*
 
-I had a bad feeling about this. No—I could already feel a chill at the back of my neck.
+I had a bad feeling about this. No—I already felt the back of my neck prickling.
 
 Why was I thinking of Jeong Hogun’s manner, which suggested he had some idea what had happened last night, and Ma Sanbao’s face as he spoke of rebellion?
 
@@ -72,7 +72,7 @@ I felt a chill run down my spine and parted my lips.
 
 “What if…I refused the invitation?”
 
-Contrary to what I expected, Jeong Hogun answered as though it were no great matter.
+Contrary to what I expected, Jeong Hogun answered in a casual tone.
 
 “Do you have a reason to?”
 
@@ -82,7 +82,7 @@ Contrary to what I expected, Jeong Hogun answered as though it were no great mat
 
 “Oh. Really?”
 
-“Of course. We’d best move you to a different residence while we’re at it.”
+“Of course. It would be best to move you to a different residence while we’re at it.”
 
 “No, I appreciate the thought, but I’m fine. There’s no need to go that far…”
 
@@ -94,21 +94,21 @@ I blinked at Jeong Hogun.
 
 Then I thought about it for a moment.
 
-Was that *hyeongbu* the kind of brother-in-law a younger sister called her older sister’s husband?[^1] If so, was Jeong Hogun the continent’s first transgender Imperial Guard? If not…
+Was this the same “brother-in-law” as the one who’d married your wife’s older sister? If so, was Jeong Hogun the continent’s first transgender Imperial Guard? Or was it…
 
 “Um. That Ministry of Punishments…”
 
-“It’s nothing to worry about. Merely an institution for carrying out punishments, administered by the Embroidered Uniform Guard.”
+“It’s nothing to worry about. It’s simply the institution that administers punishments under the Embroidered Uniform Guard.”
 
 “……”
 
-That’s a pretty fucking big thing to worry about. Shit.
+So it was a big deal. Shit.
 
 I glared at Jeong Hogun, who didn’t so much as twitch an eyebrow, then held out my hand toward Prince Shangshan Zhu Bao.
 
 “Shall we go, Your Highness? I’ll escort you.”
 
-As I followed the Embroidered Uniform Guard out of the pavilion, I heard Hyuk Mujin mutter with relief.
+Then, as I followed the Embroidered Uniform Guard out of the pavilion, I heard Hyuk Mujin mutter with relief.
 
 “Phew. Glad it wasn’t me. I really thought I was getting hauled off.”
 
@@ -118,7 +118,7 @@ You little shit.
 
 The imperial palace was far bigger than I’d imagined.
 
-Several times larger than the Forbidden City I’d toured with a VR headset on a school field trip.
+Several times larger than the Forbidden City I’d toured on a school field trip with a VR headset.
 
 The one saving grace was that the Embroidered Uniform Guard had the decency to prepare a palanquin.
 
@@ -152,13 +152,13 @@ Especially if I had someone else with me.
 
 —Your Highness.
 
-At the Sound Transmission I sent discreetly, Prince Shangshan gave a small jerk.
+At the Sound Transmission I sent discreetly, Prince Shangshan’s body gave a small jerk.
 
 But it lasted only an instant. I sent another Sound Transmission to the young prince, who had quickly regained his composure.
 
 —It’s unlikely, but…if the worst should happen, you must leave everything to me. Do you understand?
 
-Prince Shangshan was just about to give a small nod when I noticed Jeong Hogun, running at the head of the procession with his eyes fixed ahead, starting to turn his upper body.
+Prince Shangshan was just about to give a small nod when I noticed Jeong Hogun, riding at the head of the procession with his eyes fixed ahead, starting to turn his upper body.
 
 I spoke a beat before he could.
 
@@ -170,9 +170,9 @@ Half a beat later, Jeong Hogun glanced toward Prince Shangshan, then followed th
 
 *Splash. Splash.*
 
-With every step, blood mixed with rainwater that had yet to dry.
+With every step, still-wet rainwater mixed with blood.
 
-Surrounded by another group of Embroidered Uniform Guards, dozens of bloodied men were being dragged somewhere. Jeong Hogun saw them and answered.
+Surrounded by another group of Embroidered Uniform Guards, dozens of men were being dragged somewhere, covered in blood. Jeong Hogun saw them and answered.
 
 “You can see for yourself. Prisoners.”
 
@@ -182,9 +182,9 @@ Surrounded by another group of Embroidered Uniform Guards, dozens of bloodied me
 
 “The Imperial Astronomical Bureau?”
 
-“It’s the institution that observes and analyzes the heavens. They’ll be punished for failing to predict last night’s lightning and torrential rain.”
+“It’s the institution that observes and analyzes the heavens. And they’ll be punished for failing to predict last night’s lightning and torrential rain.”
 
-“…!”
+“……”
 
 “Don’t waste any more time on something so irrelevant. His Majesty is waiting.”
 
@@ -194,11 +194,11 @@ I answered with a silent nod, but the sight of the prisoners’ backs, already r
 
 They’d beaten men half to death just because they hadn’t predicted the weather.
 
-That seemed far too brutal to write off as the way things were in this era.
+It felt far more brutal than something you could write off as the way things were in this era.
 
 *No. Even for this era, that’s not normal.*
 
-Once I started looking at things differently, I noticed more.
+A change in perspective often revealed more.
 
 Even as I hurried along behind the Embroidered Uniform Guard, I studied the expressions of the palace attendants, whose faces I hadn’t paid much attention to before.
 
@@ -206,35 +206,35 @@ Their faces and movements were stiff as wooden dolls. Whenever their eyes flicke
 
 *Everyone is afraid.*
 
-By the Emperor’s will—or even by a single word from him—someone could be tortured or killed.
+By the Emperor’s will—or even by a single careless word—someone could be tortured or killed.
 
-No matter how brave they were, they wouldn’t dare refuse or show their displeasure.
+No matter how brave you were, you couldn’t refuse or voice your displeasure.
 
-This was the imperial palace, where not even the smallest mistake could be tolerated. The Emperor had taken the throne by killing countless high officials and even his own blood relatives. His power must be absolute.
+This was the imperial palace, where not even the smallest mistake was tolerated. The Emperor’s power must have been absolute, given that he’d climbed onto the throne after killing countless high officials and even his own blood relatives.
 
-The cold, oppressive atmosphere I could feel against my skin wasn’t something I could explain away as merely the product of an age ruled by absolute monarchs.
+The cold, oppressive atmosphere pressing against my skin even now was something more than the mere nature of an era ruled by an absolute monarch.
 
-*Rule by terror.*
+*Terror rule.*
 
 A wise and benevolent ruler embraced people with kindness as vast as the sea.
 
-A tyrant drove them with spears and fear into a thorny enclosure of his own making.
+A tyrant, on the other hand, drove them into a thorny enclosure of his own making with spears and fear.
 
-I’d heard plenty of stories about such rulers, though I’d never encountered one myself. Even so, I had a good idea what kind of person the current Son of Heaven was.
+I’d heard plenty of stories, but never experienced it for myself. Even so, I could guess what kind of person the current Son of Heaven was.
 
 And the biggest problem was…
 
-*I’m going to meet that tyrant of my own free will.*
+*I’m walking right into his presence of my own accord.*
 
-Out of habit, I felt inside my clothes and found the small bundle of pills made by the Divine Physician.
+Out of habit, I reached into my chest. My hand met a small bundle containing pills made by the Divine Physician.
 
-Oddly enough, remembering their unbelievably foul stench made me feel a little better.
+Remembering the unbelievably foul stench coming from them somehow made me feel a little better.
 
-*If—if I had to fight here, what would happen?*
+*If—I mean, if—I got into a fight here, what would happen?*
 
 Whether I should call it reassuring or not, based on what I’d seen so far, the Embroidered Uniform Guard stationed in the imperial palace numbered in the thousands, perhaps as many as ten thousand.
 
-That alone was enough to make a great army. Still, compared to the combined forces in the Imperial Capital and its surrounding areas, they might as well have been fairies.
+That alone was enough to make a great army. Still, compared to the combined forces in the imperial capital and its surrounding areas, they were as lovely as fairies.
 
 *The real issue is the Supreme Peak masters loyal to the Emperor. And the System is unavailable because of the update.*
 
@@ -242,27 +242,27 @@ Not being able to use the System was an enormous penalty.
 
 With the System down, I couldn’t gain EXP, let alone recover by leveling up.
 
-On top of that, my Inventory—which had served me so well whenever I caught enemies off guard with an unexpected attack—was firmly shut.
+On top of that, my Inventory—the handy trick that had gotten me out of trouble with attacks my enemies never saw coming—was firmly shut.
 
 *If I’d known this would happen, I should’ve taken White Flame out of my Inventory the last time I logged out in Murim. Or at least the Fire Dragon Armor.*
 
-I’d only been able to fight as recklessly as I had because I could level up. And I’d beaten masters in higher realms than mine thanks in large part to my Inventory and divine weapons.
+The reckless way I’d fought until now had been possible because I could level up. And I’d been able to beat masters in higher realms than mine thanks in large part to my Inventory and divine weapons.
 
 But…right now, I had nothing.
 
 No System to save my life in a dangerous moment. No divine weapons.
 
-All I had was a bundle of pills that even the neighborhood mongrel would spit out, and a body that would get worse unless I forced those rotten-smelling things down.
+All I had was a bundle of pills that even the neighborhood mongrel would spit out, and a body that would get worse unless I forced myself to swallow the rotten-smelling things.
 
 Oh, and I had a few other things, too.
 
-A young prince and a eunuch I had to protect. And some damn idiot with a bad snoring problem.
+A young prince and an eunuch I had to protect. And some damn idiot with a bad snoring problem.
 
 *Perfect.*
 
 At this point, I was almost tempted to ask Prince Shangshan to assassinate the Son of Heaven. I called out to Jeong Hogun, who was walking silently ahead of us, just in case.
 
-“Hey, can I ask you something? Ever heard of *chokbeop sonyeon*[^2]?”
+“Hey, can I ask you something? Ever heard of *chokbeop sonyeon*[^1]?”
 
 “Chokbeop what?”
 
@@ -272,7 +272,9 @@ At this point, I was almost tempted to ask Prince Shangshan to assassinate the S
 
 “…Never mind.”
 
-Now that I thought about it, people were being implicated by association and killed one after another. What good would being too young for criminal prosecution do here?
+[^1]: A Korean legal term for a child too young to be criminally prosecuted.
+
+Now that I thought about it, people were being strung up and killed through collective punishment. What good was the age of criminal responsibility here?
 
 I pictured a sweet little fantasy that could never come true.
 
@@ -280,9 +282,9 @@ The Emperor, collapsed in a pool of blood. Embroidered Uniform Guards rushing in
 
 —Your Majesty! Your Majesty!
 
-—Yep. Killed my imperial brother, didn’t I?
+—Yeah. I killed my imperial brother, didn’t I?
 
-—Your Highness Prince Shangshan! What have you done?
+—His Highness Prince Shangshan! What are you doing?
 
 —The Embroidered Uniform Guard can’t do a thing, can you? Now I’m the Emperor, right?
 
@@ -302,7 +304,7 @@ If this were a Western fantasy setting, wouldn’t they call him Brat the First?
 
 “Ah, it’s nothing.”
 
-I couldn’t exactly tell Prince Shangshan what I’d been thinking. I was trying to dodge his question when it happened.
+I was trying to dodge Prince Shangshan’s question without revealing what I’d been thinking when it happened.
 
 *Vrrrrmm.*
 
@@ -319,6 +321,3 @@ The twins, identical in face and build, spoke in unison. It looked a little ridi
 *Supreme Peak masters.*
 
 No doubt about it. This place was a demon-slaying battleground.
-
-[^1]: *Hyeongbu* means both “Ministry of Punishments” and a term a woman uses for her older sister’s husband.
-[^2]: A Korean legal term for a child too young to be criminally prosecuted.
