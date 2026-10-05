@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The powerful commander who had held military authority for so many years had died just like that.",
+      "defect": "The source explicitly states that the commander’s death was beyond doubt before noting his years of military power. The translation omits that emphatic confirmation.",
+      "id": "F01",
+      "rationale": "The source says “볼 것도 없는 절명” (“unmistakably dead”) as a distinct beat before describing the commander’s death.",
+      "replacement": "There was no question—he was dead. The powerful commander who had held military authority for so many years had died just like that.",
+      "severity": "minor",
+      "source": "Lines 111–113"
+    },
+    {
+      "confidence": 0.86,
+      "current": "They were powerful figures whose families had pledged loyalty to Dark Heaven and the Eastern Heaven Demon Lord for generations.",
+      "defect": "The English makes their families the ones who pledged loyalty. The Korean identifies the powerful figures themselves as having pledged it; the reference to generations does not change that subject.",
+      "id": "F02",
+      "rationale": "The Korean clause’s subject is the powerful figures (“거물들이었고”), and it describes them as having sworn loyalty. “Their families” is not the subject of that act.",
+      "replacement": "They were powerful figures who had pledged loyalty to Dark Heaven and the Eastern Heaven Demon Lord so completely that it would carry on into the next generation.",
+      "severity": "minor",
+      "source": "Line 193"
+    },
+    {
+      "confidence": 0.94,
+      "current": "the commander flew from his saddle and landed in a pool of blood.",
+      "defect": "“Landed” softens the violent impact of the body crashing into the pool of blood.",
+      "id": "F03",
+      "rationale": "The source says the commander’s body “처박혔다,” conveying a forceful crash, not simply landing.",
+      "replacement": "the commander flew from his saddle and slammed into a pool of blood.",
+      "severity": "minor",
+      "source": "Line 101"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with a few lost or altered source details.",
+  "version": 1
+}

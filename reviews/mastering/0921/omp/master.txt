@@ -10,7 +10,7 @@ Unavoidable death awaited them on the only path they had thought could save them
 
 *KABOOOM!*
 
-Someone’s scream was swallowed by the deafening roar. Amid the dust cloud that billowed up with the explosion, headless corpses and men and horses torn limb from limb shot into the air, spraying fountains of blood.
+Someone’s scream vanished beneath the roar. Headless corpses and men and horses with their limbs torn away sprayed blood amid the dust billowing up from the explosion.
 
 “GRAAAH!”
 
@@ -104,7 +104,7 @@ In the blink of an eye, the commander flew from his saddle and landed in a pool 
 
 “G-General of the Swift Cavalry!”
 
-No one heard the rest of what he said, but looking at the General of the Swift Cavalry lying motionless in the blood, no one could help thinking of death.
+No one heard the rest, but no one looking at the General of the Swift Cavalry lying motionless in the blood could doubt that he was dead.
 
 The powerful commander who had held military authority for so many years had died just like that.
 
@@ -154,7 +154,7 @@ Then why were their minds growing hazy? There had been two people standing above
 
 “You fucking…”
 
-A voice squeezed out between someone’s lips.
+Someone forced the words past his lips.
 
 *Shhk.*
 
@@ -176,9 +176,9 @@ The young man standing beneath that red rain in the dark was Jin Taekyung. He fi
 
 “……!”
 
-Those who had witnessed the horrific, unbelievable sight before their eyes were struck with shock—and despair, as they realized it was all over.
+Those who witnessed the horrific sight were struck first by shock, then by despair as they realized it was over.
 
-Every one of them wore splendid clothes. They were powerful figures whose families had pledged loyalty to Dark Heaven and the Eastern Heaven Demon Lord for generations. They had crossed a river they could never return from.
+Every one of them wore splendid clothes. They were powerful figures who had pledged enough loyalty to Dark Heaven and the Eastern Heaven Demon Lord to secure their descendants’ futures. They had crossed a river they could never cross back.
 
 *It’s over. Completely.*
 
@@ -192,7 +192,7 @@ Their only consolation was that, instead of enduring brutal torture before being
 
 Or so they thought.
 
-Until Jeok Cheongang spoke.
+Then Jeok Cheongang spoke.
 
 “Leave the ones who look like the top dogs alive. I don’t know if they’re gold mines or spent ones, but we won’t know what’s in there unless we dig. Might as well take a few swings with the pickaxe.”
 
@@ -204,7 +204,7 @@ Their shock and resignation turned to fear in an instant. Before that instant wa
 
 *Fwish-fwish-fwish!*
 
-They weren’t given time to take out the poison pills they had kept hidden, just in case—or even a moment to draw the daggers at their waists and slash their own throats.
+They had no time to reach for the poison pills they kept hidden in case of disaster, or even to draw the daggers at their waists and slit their own throats.
 
 *Thud-thud-thud!*
 
@@ -222,7 +222,7 @@ A thousand repeating crossbowmen poured steel over the remaining rebels.
 
 *Thud-thud-thud!*
 
-The sounds of flesh being pierced announced the end of the blood-soaked banquet. Screams of pain joined them, mingling with the powerful, unceasing beat of drums.
+The sounds of arrows piercing flesh announced the end of the blood-soaked banquet. Screams of pain mingled with the strong, unceasing beat of drums.
 
 Thick and sticky as blood.
 
@@ -232,7 +232,7 @@ Thick and sticky as blood.
 
 Fifteen minutes.
 
-That was how long it took for all three thousand rebels to be wiped out.
+That was how long it took to crush all three thousand rebels.
 
 The Imperial Army swept into the grand banquet hall beneath a rain of arrows, bringing more than enough force to put an end to the long, horrific feast.
 
@@ -252,7 +252,7 @@ The twin officers urging them to surrender sounded so alike in voice and tone th
 
 *Clang.*
 
-They loosened the joints of their bloodstained armor and dropped their cracked and broken weapons as if throwing them away.
+They unfastened their bloodstained armor and let their cracked and broken weapons fall.
 
 No one knew who surrendered first, but the wave soon became a tide sweeping through the grand banquet hall.
 
@@ -274,7 +274,7 @@ The nameless rebel crumpled. His face held the despair of knowing it was over, a
 
 “It’s over.”
 
-At the faint words Jeok Cheongang murmured as if to himself, I forced myself to nod calmly.
+At Jeok Cheongang’s faint murmur, I forced myself to nod calmly.
 
 Yeah. It was over.
 
@@ -282,7 +282,7 @@ The vast battle that had swallowed countless lives, both in plain sight and out 
 
 But not everything was over.
 
-The dead had gone somewhere far away, never to return. But the monster who was neither dead nor alive still remained here.
+The dead had gone somewhere far away, never to return. The monster who was neither dead nor alive remained here.
 
 And we still had to deal with the living.
 
@@ -306,13 +306,13 @@ With catlike steps that suited the name So Gyo, she crossed ground strewn with c
 
 *Fwoooosh.*
 
-Blade-sharp qi rose from every part of my body. The Bow Saint stopped a few steps away and looked at me in silence, then suddenly spoke.
+Blade-sharp qi rose throughout my body. The Bow Saint stopped a few steps away and studied me in silence. Then she spoke.
 
 “So it was you.”
 
 What did she mean?
 
-I hesitated, unable to understand the meaning behind her words. A low voice sounded in my ear.
+I hesitated, unable to make sense of her words. Her low voice sounded in my ear.
 
 *—The one the Martial God spoke of. The chosen one.*
 
