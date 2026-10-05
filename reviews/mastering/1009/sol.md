@@ -1,6 +1,6 @@
 # Chapter 1009
 
-If Ma Junggeol had given even the slightest suspicious or flimsy reason, he would’ve been thrown straight back out the gate—or stuffed into the underground prison somewhere inside the city to have a long chat with the torture specialists.
+If Ma Junggeol had offered even a slightly suspicious or flimsy reason, we would’ve thrown him straight back out the gate—or stuffed him into an underground prison somewhere in the city for a long chat with the torture specialists.
 
 But when he lowered his voice, the reason he gave was more important than I’d expected.
 
@@ -12,11 +12,11 @@ The moment he said it, everyone among the leadership, myself included, realized 
 
 “Well, we’ve kept our distinguished guests standing outside for far too long. Why don’t you come in for a cup of tea?”
 
-At Sima Gong’s subtle invitation, Ma Junggeol, who’d straightened his shoulders as though nothing had happened, nodded.
+At Sima Gong’s pointed invitation, Ma Junggeol straightened his shoulders as though nothing had happened and nodded.
 
 “Sounds good. Just so you know, of all the teas, my brothers and I favor grain tea most.”
 
-“I heard the Seven Masters of Baekma Bang were renowned drinkers. You’re every bit as forthright as they say. Come on in, then.”
+“I heard the seven sworn brothers of Baekma Bang were renowned drinkers. You’re every bit as forthright as they say. Come on in, then.”
 
 Important conversations were best held with as few people watching as possible.
 
@@ -24,7 +24,7 @@ A few moments later, Ma Junggeol and his six men—no, the Seven Masters of Baek
 
 “Ahhh. That’s good.”
 
-Starting with Ma Junggeol, his six sworn brothers drained a small wine jar in one go, then smacked their lips.
+Starting with Ma Junggeol, the sworn brothers drained a small wine jar between them and smacked their lips.
 
 “Whew, that’s really something.”
 
@@ -60,7 +60,7 @@ Ma Junggeol flinched at the menacing aura rolling off Jeok Cheongang, then stamm
 
 “Still look like a bunch of mounted bandits to this old man, but go on.”
 
-“There’ve been a few minor disputes over the years, but it’s become a fairly livable place. Anyone who’d done something they might feel guilty about left long ago. The ones who remain have completely turned over a new leaf and live ordinary lives, like me and my brothers. Sect Leader Sima here knows this well, too.”
+“There’ve been a few minor disputes over the years, but it’s become a fairly livable place. Anyone with something to hide left long ago. The ones who remain have completely turned over a new leaf and live ordinary lives, like me and my brothers. Sect Leader Sima here knows this well, too.”
 
 Everyone’s eyes turned to Sima Gong. He nodded calmly.
 
@@ -68,7 +68,7 @@ Everyone’s eyes turned to Sima Gong. He nodded calmly.
 
 With Sima Gong backing him up, Ma Junggeol quickly picked up the thread.
 
-“I don’t know exactly what you heard, Sect Leader Sima, but Baekma Bang is by far the largest group in Ningxia Province. Recently, we’ve even been opening a new trade route to help Ningxia Province prosper.”
+“I don’t know exactly what you heard, Sect Leader Sima, but Baekma Bang is by far the largest horse caravan in Ningxia Province. Recently, we’ve even been opening a new trade route to help the province prosper.”
 
 “Wait. This new trade route you mentioned—is it perhaps…?”
 
@@ -80,15 +80,15 @@ Surprise spread across Sima Gong’s face. Watching him, I had a sudden thought.
 
 “…!”
 
-My sudden words sent an invisible ripple through the room.
+My words sent an invisible ripple through the room.
 
 Naturally. The west I meant wasn’t Gansu or Qinghai.
 
 “Xinjiang…”
 
-The word slipped through the Wind-and-Cloud Sword Lord’s lips like a groan.
+The word escaped the Wind-and-Cloud Sword Lord like a groan.
 
-The Taeeul Merciless Sword and the Roaring Fury Swordsman had been watching Ma Junggeol with obvious disapproval for a while now, as though something about him rubbed them the wrong way. They frowned and spoke up, too.
+The Taeeul Merciless Sword and the Roaring Fury Swordsman had been watching Ma Junggeol with obvious disapproval for a while now. They frowned and spoke up, too.
 
 “So that’s what this is about. Xinjiang, huh. Hah.”
 
@@ -98,11 +98,11 @@ Much as I hated to admit it, theirs was the reasonable reaction.
 
 What kind of place was Xinjiang?
 
-It was even called the Land of Ruin.
+It was called the Land of Ruin.
 
 A cursed land of endless deserts, teeming with Fiends who proclaimed the world belonged to the Demonic Path.
 
-And a mere horse-caravan group—not one of the Nine Sects and One Gang or the Five Great Families—was supposed to open a trade route to Xinjiang?
+And a mere horse caravan—not one of the Nine Sects and One Gang or the Five Great Families—was supposed to open a trade route into it?
 
 *What a joke.*
 
@@ -124,7 +124,7 @@ Jeok Cheongang’s low question left no doubt what he meant. Ma Junggeol drew a 
 
 “That was the idea, but it was nothing more than a dream. Even an uneducated fool like me knew people like us had no business dreaming of something so far beyond our reach. But…”
 
-Ma Junggeol’s gaze suddenly shifted toward me.
+Ma Junggeol’s gaze shifted toward me.
 
 “Not long ago, an opportunity came out of nowhere. The many nomads occupying the western Great Steppe suddenly began a mass migration.”
 
@@ -138,7 +138,7 @@ Jamukha’s massive army had controlled the western steppe. They’d taken almos
 
 “Then were you trying to reach Xinjiang through the steppe?”
 
-At my question, gasps came from around the room.
+Gasps came from around the room.
 
 Of course. There was another route, one so obvious now that everyone had forgotten it.
 
@@ -150,33 +150,33 @@ Under everyone’s gaze, Ma Junggeol nodded, his face tense.
 
 “…!”
 
-“I picked out the men under me who were good riders, and we kept driving our horses without stopping. After riding like mad for ten whole days, we finally saw a vast yellow stretch of land in the distance. We’d reached the desert.”
+“I picked out the best riders among my men, and we drove our horses without rest. After ten whole days of riding like mad, we saw yellow land in the distance. We’d finally reached the desert.”
 
-Just then, his six sworn brothers, who’d been keeping an eye on everyone’s reaction behind him, nodded and chimed in.
+Behind him, his six sworn brothers glanced around, nodded, and chimed in.
 
-“Man, it was a real shitshow. Honestly, I wanted to say to hell with the Chief and the whole damn venture and turn back.”
+“Man, it was a real mess. Honestly, I wanted to say to hell with Big Brother, scrap the whole thing, and turn back.”
 
 “But what could we do? We’d already come that far. We figured we might as well set foot on the sand before going home.”
 
 “Then we traveled another ten days or so, right?”
 
-“Don’t remind me. Even now, just thinking about that goddamn desert makes my knees buckle.”
+“Don’t remind me. Even now, just thinking about that goddamn desert makes my knees weak.”
 
 “Enough! What a bunch of weaklings. Even through all that hardship, I trusted Big Brother and followed him.”
 
-The diminutive middle-aged man, who looked rather old, delivered a stern rebuke. The man with the bulbous nose snorted.
+At the stern rebuke from the diminutive, middle-aged man, the bulbous-nosed man snorted.
 
 “They say even if a horse’s hooves go crooked, you should keep the reins straight. So at least get your story straight. What did you do the moment those black bastards showed up on the tenth day, Second Hyung? You didn’t even look back. You got ready to run.”
 
 “Enough…!”
 
-The dwarf’s face turned as red as a ripe persimmon. He lunged at the bulbous-nosed man, but I was much faster.
+The little man’s face turned as red as a ripe persimmon. He lunged at the bulbous-nosed man, but I was faster.
 
 *Snatch.*
 
 His small fist landed squarely in my grasp.
 
-I’d caught the dwarf’s punch with ridiculous ease. I fixed the bulbous-nosed man with a cold stare.
+I’d caught his punch with ridiculous ease. I fixed the bulbous-nosed man with a cold stare.
 
 “Say that again.”
 
@@ -190,7 +190,7 @@ And the moment we heard it, our suspicion turned to certainty.
 
 “It was Dark Heaven.”
 
-Ma Junggeol spoke up in place of the bulbous-nosed man and continued.
+Ma Junggeol answered in place of the bulbous-nosed man.
 
 “There were only a few dozen of them, but I’m certain. I’ll stake my life on it.”
 
@@ -212,7 +212,7 @@ A cold silence filled the meeting hall instead of an answer.
 
 A thousand. Not a thousand people—a thousand *tents*.
 
-What’s more, Ma Junggeol’s route across the desert was clearly closer to Gansu than Qinghai.
+What’s more, Ma Junggeol’s route across the desert had clearly brought him closer to Gansu than Qinghai.
 
 Even by the lowest estimate, that meant thousands, perhaps tens of thousands, of enemies were targeting Gansu Province.
 
@@ -252,6 +252,6 @@ They’d managed it because there were few enough of them to avoid notice, and b
 
 Their reason was clear, too.
 
-After a moment’s thought, I turned to Jeok Cheongang and spoke.
+After a moment’s thought, I turned to Jeok Cheongang.
 
 “Now we know for sure which battlefield we need to be on.”
