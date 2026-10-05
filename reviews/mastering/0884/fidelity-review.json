@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "“Quit showing off and stay here.”",
+      "defect": "깝치지 말고 means not to act up or get carried away; “showing off” narrows it to displaying oneself and changes the instruction’s tone.",
+      "id": "F01",
+      "rationale": "The source tells Mujin not to 깝치다 before telling him to remain there. It does not specifically refer to showing off.",
+      "replacement": "“Don’t go acting up. Stay here.”",
+      "severity": "minor",
+      "source": "Korean source line 37"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor shift in Mujin’s instruction to stay behind.",
+  "version": 1
+}

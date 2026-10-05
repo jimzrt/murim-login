@@ -2,7 +2,7 @@
 
 The moment I saw what was happening, I thought:
 
-*I knew this would happen.*
+*I knew it.*
 
 It wasn’t as if I were some gifted shaman who’d come rushing over because a divine spirit told me to. I’d decided I should see for myself as soon as Hong Jin gave me the news.
 
@@ -14,7 +14,7 @@ It wasn’t as if I were some gifted shaman who’d come rushing over because a 
 
 “Ah, fuck. I told them not to do that.”
 
-“…I haven’t even said anything yet.”
+“…I haven’t even said what happened.”
 
 “What’s the point? I know what they’re usually like. I’d better go take a look.”
 
@@ -56,7 +56,7 @@ Pretending to sweep my gaze over the crowd, I spotted my companions huddled in o
 
 “There’s an old saying that you can’t spit in a smiling face, but looking at you, Hogun, I guess that isn’t always true. Could you at least answer when someone speaks to you?”
 
-Jeong Hogun opened his mouth, his expression subdued.
+Jeong Hogun’s expression darkened.
 
 “Who are you calling ‘our Hogun’?”
 
@@ -64,13 +64,13 @@ Jeong Hogun opened his mouth, his expression subdued.
 
 “As always, it’s impossible to have a sensible conversation with you.”
 
-“What’s the point of a bunch of smelly, black balls understanding each other? Are you interested in me, by any chance?”
+“What would a couple of guys with smelly, black balls gain from understanding each other? Unless you’re interested in me?”
 
 “Not at all. But I am interested in why you’ve suddenly appeared here.”
 
 That was the Embroidered Uniform Guard for you.
 
-His tone was blunt, but the meaning behind it was sharp as a needle. Still, I hadn’t spent all my time stumbling around Murim training only my martial skills.
+His tone was blunt, but the meaning behind it was sharp as a needle. Still, I hadn’t spent all my time getting knocked around Murim training only my martial skills.
 
 And the half hour I’d spent getting here had given me plenty of time to think about how to avoid the enemy’s suspicion—and what to do if I drew it anyway.
 
@@ -84,9 +84,9 @@ I pointed to the blood splattered across the ground. It had to have come from so
 
 “On my way here, I saw about fifteen people being dragged off in a line. What did they do, commit treason?”
 
-Jeong Hogun stared at me for a long while without answering, then abruptly spoke.
+Jeong Hogun stared at me for a long while before answering.
 
-“They were trying to attend the banquet disguised as courtesans.”
+“One of them tried to attend the banquet disguised as a courtesan.”
 
 I wasn’t lying about seeing people dragged away.
 
@@ -100,13 +100,13 @@ There were plenty of possibilities. The problem was that the incident had put Je
 
 *This can’t be how things go from the start.*
 
-I spoke as naturally as I could, with the same hint of contempt in my eyes and voice I’d used until now.
+I spoke as naturally as I could, with the same hint of contempt I’d shown him until now.
 
 “You brought down a traitor who dared raise a blade against His Majesty the Emperor. You’re definitely getting promoted this time, Thousand Captain Jeong.”
 
 “I didn’t kill her. She took her own life.”
 
-“It’s basically the same thing. Why do you think she killed herself? Because being dragged off and tortured to death would’ve been worse. She’d failed anyway, so dying cleanly was a hundred, a thousand times better. You know that too, don’t you?”
+“It’s practically the same thing. Why do you think she did it? It was easier than being dragged away and tortured to death. She’d failed anyway, so a clean death was a hundred, a thousand times better. You know that too.”
 
 Jeong Hogun was silent for a moment, then answered evenly.
 
@@ -114,7 +114,7 @@ Jeong Hogun was silent for a moment, then answered evenly.
 
 *What?*
 
-He’d always been like that, but there was something strange about how little my sharp words seemed to affect him. I wondered to myself,
+He’d always been hard to read, but the way my barbed words barely affected him was strange.
 
 *Has he noticed something?*
 
@@ -126,7 +126,7 @@ I smiled broadly and stepped forward.
 
 “You want to help?”
 
-“It’s easy enough. Who knows? If I catch a traitor even the Embroidered Uniform Guard couldn’t weed out, maybe His Majesty the Emperor will grant me a wish.”
+“Why not? If I catch a traitor even the Embroidered Uniform Guard missed, maybe His Majesty the Emperor will grant me a wish.”
 
 “What are you up to?”
 
@@ -134,15 +134,15 @@ I smiled broadly and stepped forward.
 
 Thank goodness every eye was on me.
 
-I pretended not to notice the Divine Physician flinching on reflex among the crowd, then shrugged at Jeong Hogun.
+I pretended not to notice the Divine Physician flinch among the crowd and shrugged at Jeong Hogun.
 
 “Anyway, say the word if you don’t want my help. Otherwise, I’ll take a quick look around. I’m better at that sort of thing than you are. You know that.”
 
-I wasn’t just saying that.
+I wasn’t bluffing.
 
 Jeong Hogun was far better at surveillance and interrogation, but when it came to judging someone’s martial skill, I was a step ahead of him. I’d crossed the threshold of Supreme Peak, after all.
 
-No—if I could use Qi Sense, which I couldn’t right now, to get precise information, I’d be the perfect person for the Embroidered Uniform Guard.
+If I could use Qi Sense to get precise information—which I couldn’t right now—I’d be the perfect man for the Embroidered Uniform Guard.
 
 Of course, my offer probably sounded strange to everyone else.
 
@@ -162,7 +162,7 @@ I gave a quiet laugh and replied in kind, addressing only the man staring at me 
 
 I looked Jeong Hogun straight in the eye and moved my lips.
 
-—What if some lunatic starts swinging a sword at the banquet? And what if that stern Emperor you love so much gets hurt? Who do you think’s going to take the blame for it all?
+—What if some lunatic starts swinging a sword at the banquet? What if that august Emperor you love so much gets hurt? Who do you think will take the blame?
 
 —……!
 
@@ -176,13 +176,13 @@ The muscles in Jeong Hogun’s rigid face relaxed, if only a little.
 
 But I wasn’t finished.
 
-I swallowed the sigh of relief that was about to escape me, clicked my tongue, and turned away.
+I swallowed a sigh of relief, clicked my tongue, and turned away, sending one last Sound Transmission to drive the point home.
 
 —From what I can see, there’s no one particularly suspicious right now. Just do your job properly from here on out. Both of us have someone to protect, don’t we?
 
 That was it.
 
-I walked back the way I’d come, at an easy pace, crossing through the now-quiet crowd. I didn’t forget to pause and react when I reached Taishan, whose face had changed but whose massive build hadn’t.
+I walked back the way I’d come at an easy pace, crossing through the now-quiet crowd. I made sure to pause at Taishan, whose face had changed but whose enormous build hadn’t.
 
 “Whoa, damn. Look at the size of you. What on earth do you eat to get that big?”
 
@@ -206,21 +206,21 @@ Circus troupes traveled the land putting on shows. You could find one in just ab
 
 *What’s strange is how huge he is to begin with.*
 
-I thought to myself, then ran my hands over Taishan’s arms and legs, which were packed with muscle.
+I felt Taishan’s heavily muscled arms and legs.
 
 “With a build like this, you could beat most First Rate masters with your fists… Where are you from?”
 
-Namho, an old man with dark skin standing beside us, promptly bowed and answered.
+The dark-skinned old man beside him, Namho, promptly bowed.
 
 “We’re based north of the Yangtze, sir. We mostly perform in Hebei and Liaoning Province.”
 
-“Oh, that’s close. If you’re interested, stop by the Jin Family of Taiyuan in Shanxi Province sometime. He may have missed his chance, but if he has enough internal energy to back it up, he could still become a great martial artist.”
+“Oh, that’s close. If you’re interested, stop by the Jin Family of Taiyuan in Shanxi Province sometime. He may have started a little late, but with enough internal energy to back him up, he could still make a fine martial artist.”
 
 “We’re grateful for the offer, but we’d rather not. As you can see, he’s not as bright as most, but he’s the treasure of our circus troupe…”
 
 His time in the Hidden Shadow Pavilion had certainly made Namho a hell of an improviser.
 
-Namho was showing the kind of acting that could kick one of Chungmuro’s rising stars in the shins. After exchanging a few more words with him, I left with an exaggeratedly disappointed look.
+He was acting well enough to kick one of Chungmuro’s rising stars in the shins. After exchanging a few more words with him, I left wearing a thoroughly disappointed expression.
 
 Inside, I was certain.
 
@@ -236,7 +236,7 @@ Hong Jin’s words flashed through my mind.
 
 *Wait. Eunuch Ma must have made arrangements. Let’s give it a little longer.*
 
-Those words hadn’t been a lie.
+He hadn’t been wrong.
 
 Rather than draw attention by mobilizing the East Depot, Ma Sanbao must have planted an ally where no one would notice.
 
@@ -252,6 +252,6 @@ I cheered inwardly, then found myself at a loss for words when a Sound Transmiss
 
 —……
 
-No, Old Master.
+Come on, Old Master.
 
 A moment ago, you called me a madman.
