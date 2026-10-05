@@ -4,7 +4,7 @@ Blood Soul Gu.
 
 A cursed venomous creature created by the Five Poisons Sect, which had once drenched Nanman in blood.
 
-When I realized what had driven the City Lord of Sichuan Province to his death, everyone—including me—had been certain it was Dark Heaven’s doing, and that it had deep ties to the Emperor.
+When we learned what had driven the City Lord of Sichuan Province to his death, everyone—including me—had been certain Dark Heaven was behind it, and that the Emperor was deeply involved.
 
 But now I wasn’t so sure.
 
@@ -14,17 +14,15 @@ And was the woman standing before me, watching me with a bitter smile, really on
 
 And…
 
-*If the Imperial Palace was the one that planted the Blood Soul Gu, then what kind of being is the Martial God behind her—the one who foresaw my appearance?*
+*If the Bow Saint planted the Blood Soul Gu, then what kind of being is the Martial God behind her—the man who foresaw my appearance?*
 
 The Martial God was shrouded in mystery, and my questions about him seemed endless.
-
-*Grind.*
 
 I ground my teeth and glared at the Bow Saint.
 
 “I asked you who planted the Blood Soul Gu in the City Lord of Sichuan Province.”
 
-The Bow Saint watched me in silence, then abruptly spoke.
+She studied me for a moment, then spoke without warning.
 
 “What would you do if I said it was me?”
 
@@ -34,7 +32,7 @@ A jolt ran down my spine. I forced myself to keep my voice steady.
 
 “You’d have to explain yourself. Well enough to convince all of us, including me.”
 
-“And if it still doesn’t convince you?”
+“And if I couldn’t?”
 
 “Then…”
 
@@ -42,13 +40,11 @@ I swallowed. Almost by instinct, I lowered my stance a fraction, ready to strike
 
 There was no absolute good or evil in this world. But Dark Heaven—and the Lord of Heaven—came close enough to absolute evil.
 
-If the Bow Saint had used the Blood Soul Gu, which was deeply connected to Dark Heaven, and it had close ties to Dark Heaven, there was only one thing I could do.
+If the Bow Saint had used the Blood Soul Gu, and she was connected to Dark Heaven, there was only one thing I could do.
 
 “I wouldn’t keep speaking to you this politely.”
 
 At that moment, a fierce wind swirled around us.
-
-*Whoosh.*
 
 No. It wasn’t swirling. The winds were colliding.
 
@@ -70,25 +66,25 @@ The thought flashed through my mind, and the tension gripping my whole body snap
 
 The Bow Saint frowned in mock disapproval.
 
-“Hm. Still wet behind the ears, and you talk to your elders like that?”
+“Still wet behind the ears, and you say that in front of an elder?”
 
 “If you were really an elder, you wouldn’t mess with someone who’s still wet behind the ears.”
 
 “I’ve spent decades looking for you. What’s a little teasing after all that?”
 
-The Bow Saint smiled faintly. As she looked at me, there was a hint of approval in her eyes.
+She smiled faintly, a hint of approval in her eyes.
 
 “So you had nothing to do with the City Lord’s death or the Blood Soul Gu after all?”
 
 “I had something to do with it.”
 
-The Bow Saint tossed out the bombshell as if it were nothing. She stroked a flower and continued.
+She dropped the words as if they were nothing, then brushed a hand over a flower.
 
 “I sent him back into danger, knowing full well he would die soon. I thought that if he died in Sichuan, someone close to you there would notice what had happened.”
 
 “You knew he was going to die?”
 
-“The City Lord of Sichuan Province was already infected with the Blood Soul Gu while he was staying in the Imperial Capital. Naturally, it was Dark Heaven’s doing—or, more precisely, the doing of the City Lord’s favorite concubine.”
+“The City Lord was already poisoned by the Blood Soul Gu while he was staying in the Imperial Capital. It was Dark Heaven’s doing—or, more precisely, his favorite concubine’s.”
 
 “Wait. Aehyang?”
 
@@ -96,15 +92,15 @@ The Bow Saint tossed out the bombshell as if it were nothing. She stroked a flow
 
 My eyes widened. The Bow Saint went on in the same even tone.
 
-“Don’t be surprised. If you need to control someone and that someone is a man, there’s no surer method than using a beautiful woman.”
+“Don’t look so surprised. If the person you need to control is a man, a beautiful woman is a reliable way to do it.”
 
-“But how did you know she was working for Dark Heaven just from that?”
+“But how did you know she was working for Dark Heaven?”
 
 “I investigated her discreetly myself and found that she was highly skilled in Soul Bewitchment. I’d heard he was neglecting his duties because he was besotted with women. I was keeping an eye on him when I had him summoned to the Imperial Capital.”
 
 A memory from not so long ago came back to me: the first time I’d met the City Lord, before the incident that came to be known as the Sichuan Blood Tragedy. He’d been half naked even then.
 
-*So even back then…?*
+*So it had already happened by that point?*
 
 A chill ran down my spine.
 
@@ -128,7 +124,7 @@ A province might sound like a simple administrative division, but the land and p
 
 Why else had dozens of warlords proclaimed themselves kings and fought for supremacy in the chaotic age of the past? Just to claim legitimacy by calling themselves kings?
 
-If you conquered a region and absorbed all the strength of its land, you could build enough power to claim the title of king of an entire nation.
+That was only half the answer. If you conquered a region and took its resources for yourself, you could amass enough power to call yourself the king of a nation.
 
 These days, the City Lords were officials who answered to a powerful central government. But if they set their minds on rebellion, they could do tremendous damage to the Great Nation.
 
@@ -136,7 +132,7 @@ These days, the City Lords were officials who answered to a powerful central gov
 
 Before the Eastern Heaven Demon Lord had accepted everything and let go, he’d poured out a curse in his rage.
 
-*This is only the beginning. Even if you protected the Imperial Capital, the flames will sweep across the land.*
+This was only the beginning, he’d said. Even if we saved the Imperial Capital, the flames would sweep across the land.
 
 But they hadn’t been empty words spat out in anger. There was truth in them. A time bomb that might go off before long.
 
@@ -160,7 +156,7 @@ I was asking him.
 
 I wanted another prophecy from his letter to the Bow Saint. One ray of light to show me the way down this pitch-black road.
 
-“What am I—fuck—what am I supposed to do?!”
+“What am I—fuck—what am I supposed to do?”
 
 I was practically shouting. The Bow Saint’s answer held no light at all.
 
@@ -170,23 +166,23 @@ I was practically shouting. The Bow Saint’s answer held no light at all.
 
 All the strength went out of me. My vision blurred, and my head sank.
 
-I’d been sure there was something more. Something more to it.
+I’d been so sure there was something more.
 
-I thought he would be different, if anyone could. He was the one who had been certain that a person like me would appear someday.
+If anyone would know, it would be the Martial God. He’d been certain someone like me would appear someday.
 
 I’d even found myself thinking something impossible.
 
-*What if the Martial God—the greatest of all time, with his dazzling achievements and divine authority—*
+*What if the Martial God—the greatest of all time, with his dazzling achievements and godlike power—*
 
-*Maybe…*
+*What if…*
 
-I clenched my teeth and was about to follow that unbelievable thought to its conclusion when a quiet voice reached my lowered head.
+I clenched my teeth, about to follow the unbelievable thought through. Then her quiet voice reached me.
 
 “But there is one thing.”
 
 I slowly raised my head as if under a spell.
 
-The Bow Saint was there, gazing at me with eyes sunk deep.
+The Bow Saint was watching me, her gaze deep and solemn.
 
 “He left a message for the chosen one.”
 
@@ -216,7 +212,7 @@ I didn’t. I stared at her, frozen as if I were trapped in ice.
 
 What had I heard?
 
-My mind felt as though it had emptied completely. A few words floated there, bright against the blankness.
+My mind had gone blank. The words she’d spoken floated through that white emptiness, then struck me like a bolt of lightning.
 
 *Just as you yourself did.*
 
@@ -230,13 +226,13 @@ No. More precisely…
 
 *A System user.*
 
-*Player.*
+A *player*.
 
 The word rushed in to fill my empty mind, swelling until it felt ready to burst. A clear chime rang out.
 
 *Ding.*
 
-And at that moment—
+And then—
 
 *Slip.*
 
@@ -246,13 +242,13 @@ I felt the sky and ground slowly turn over as I fell into pitch-black darkness.
 
 Everything happened at once.
 
-Jin Taekyung’s trembling form crumpled like a puppet with its strings cut. The Bow Saint’s hand shot out and seized his collar. And finally, the cold dawn air that had drifted through the abandoned garden suddenly grew hot.
+Jin Taekyung’s trembling body crumpled like a puppet with its strings cut. The Bow Saint’s hand shot out and caught him by the collar. And the cool dawn air drifting through the abandoned garden suddenly grew hot.
 
 *Grab. Fwoosh!*
 
-The Bow Saint steadied Jin Taekyung, then spoke to the uninvited guest who had suddenly appeared.
+The Bow Saint steadied Taekyung and spoke to the uninvited guest who had appeared.
 
-“How strange. I don’t remember inviting you, too.”
+“How strange. I don’t remember inviting you.”
 
 The guest answered in a low voice.
 
@@ -262,13 +258,13 @@ The Fire King, Jeok Cheongang.
 
 His voice was calm, but flames flickered in his eyes.
 
-“Fine. Let’s hear what kind of nonsense you’ve been up to.”
+“Now tell me what the hell you did.”
 
 The Bow Saint gave a short laugh and shook her head.
 
 “All these years, and you haven’t changed. Still charging in without thinking.”
 
-“Do I have to say it twice?”
+“Do I have to ask twice?”
 
 “You were hiding like a rat and listening. You already know. That was all I said. The boy was simply exhausted beyond his limits.”
 
@@ -276,10 +272,10 @@ She looked down at the unconscious Taekyung. Dried blood marked his face in seve
 
 They were traces of how brilliantly—and nobly—he had fought.
 
-“Take him with you. Let him get a little more rest.”
+“Take him. Let him get some proper rest.”
 
-Jeok Cheongang didn’t hesitate for long. He carried Jin Taekyung on his back as if he’d been waiting for the chance, then used his movement technique to hurry away. The Bow Saint watched him until he was gone.
+Jeok Cheongang hesitated only a moment. Then, as if he’d been waiting to do just that, he hoisted Taekyung onto his back and hurried away, using his movement technique. The Bow Saint watched until he was gone.
 
-Then, suddenly, she saw a flower bud slowly opening in the light.
+Then she noticed a flower bud slowly opening in the light.
 
 It was the first light of dawn.
