@@ -22,7 +22,7 @@ As they did now.
 
 The nomads surged toward the cliffs like a swarm of ants, their cries somewhere between screams and battle shouts.
 
-At that very moment, the officers, their sharp eyes fixed on the scene in the darkness below, spoke as one.
+At that moment, the officers watching the darkness below gave their orders in unison.
 
 “Everyone!”
 
@@ -68,7 +68,7 @@ The old man caught the arrow without looking, untied the missive fastened to its
 
 “Well? What does it say?”
 
-“He says that, judging by how sharply their casualties have fallen, the enemy must have sent in their elite troops.”
+“He says the enemy must have sent in their elite troops. Their casualties have fallen sharply.”
 
 “That’s a headache, but… it might actually work in our favor.”
 
@@ -82,15 +82,15 @@ The enemy elites sent to scale them were about to see a hellscape.
 
 “He asks our left wing to deal with the men climbing the cliffs. The right wing will keep the enemy trying to break through the gorge in check.”
 
-“Asked? I may be the senior one by age, but on a battlefield like this, I follow the general’s orders. Don’t I?”
+“Asks? I may be the presiding chair by age, but on a battlefield, we follow the general’s orders. Don’t we?”
 
 The officer answered with an uncertain smile.
 
-As far as he knew, the old man before him was an astonishing master with a great reputation in Murim, while the man on the opposite cliff was his superior by far.
+The old man before him was a renowned master in Murim. The man on the opposite cliff was the officer’s superior by far. As a middling commander caught between them, he could hardly give an answer.
 
-All he could do was follow orders and offer a cautious suggestion.
+All he could do was cautiously relay the request.
 
-“The Assistant Military Commissioner did ask…”
+“The Assistant Military Commissioner asks…”
 
 “Enough, enough. It means this old man has to step in, doesn’t it?”
 
@@ -106,7 +106,7 @@ Leaving the officer’s unspoken question behind, the old man walked in front of
 
 He recalled his conversation with Jin Wikyung before the battle.
 
-*“Senior, I’ll need you to take charge of the cliffs.”*
+*“Senior, I’ll need you to take the cliffs.”*
 
 *“I owe you a debt, so of course I’ll do as you ask… but this doesn’t sound like you. Wouldn’t I be far more useful down below?”*
 
@@ -128,7 +128,7 @@ But Jin Wikyung had answered without hesitation.
 
 *“And you want this old man to stop them?”*
 
-*“If we can stop them from scaling the cliffs, we can deal them a major blow. If we hold that position to the end, we can level the scales, even though they’re tipped so heavily against us.”*
+*“If we stop them from scaling the cliffs, we can deal them a major blow. Hold that position to the end, and we can level the scales, even though they’re tipped heavily against us.”*
 
 Only then had the old man remembered something.
 
@@ -152,17 +152,17 @@ He’d meant to lay his bones in the place where he was born and raised.
 
 Until the day he met a woman of extraordinary beauty and, soon afterward, lost his mind.
 
-“At last… the time has come to repay my debt.”
+“At last… the time has come to repay my debts.”
 
-The old man murmured in a low voice.
+The old man’s voice was low.
 
-The Jin Family of Taiyuan was not the only one to whom he owed a debt. They had restored the mind that had been taken from him against his will and spent months treating his grievous injuries.
+He owed more than gratitude to the Jin Family of Taiyuan, who had restored the mind taken from him against his will and spent months treating his grievous injuries.
 
 There was Dark Heaven, too.
 
-He owed them a debt of vengeance, too.
+He owed them a grudge.
 
-No—he had to take revenge.
+No—he owed them revenge.
 
 “Come on, then.”
 
@@ -170,7 +170,7 @@ The small-framed old man smiled faintly and gripped his beloved weapon. With a m
 
 *Whoom.*
 
-His weapon—an impressive three *jang* long—whipped and bent as it scattered a dark, dull flash.
+His weapon, now a full three *jang* long, flexed as it swept out in a dark flash.
 
 A silver-white line and hook extended from its tip, shooting toward the enemies climbing the cliff to escape the rain of arrows.
 
@@ -204,7 +204,7 @@ There was no doubt about it. Only power of the same kind could sever Heavenly Si
 
 The old man roared, and his hand blurred.
 
-His beloved weapon, imbued with strength and speed, thrashed like an imugi. The archers, sensing something was wrong, gritted their teeth and drew their bows.
+His weapon thrashed like an imugi, driven by even greater strength and speed. Sensing something was wrong, the archers gritted their teeth and drew their bows.
 
 “Concentrate your fire!”
 
@@ -220,7 +220,7 @@ His beloved weapon, imbued with strength and speed, thrashed like an imugi. The 
 
 Arrows whistled and men screamed without pause.
 
-But nothing could stop the figure that had slipped through the mighty web of arrows covering the cliff.
+But nothing could stop the figure that had slipped through the barrage covering the cliff.
 
 *Clang!*
 
@@ -246,7 +246,7 @@ And finally—
 
 *Tap.*
 
-The figure reached the edge of the distant cliff and faced the old man waiting for him.
+The figure reached the top of the towering cliff and came face-to-face with the old man waiting for him.
 
 Or, more precisely, with the silver flash whipping around at the old man’s fingertips.
 
@@ -268,7 +268,7 @@ A section of the cliff crumbled under the tremendous force.
 
 But there was no sign that anyone had died.
 
-As the archers on the cliff wavered, the old man clicked his tongue and suddenly spoke to the man standing upright on empty air.
+As the archers atop the cliff grew uneasy, the old man clicked his tongue and spoke to the man standing on empty air.
 
 “Who are you?”
 
@@ -278,7 +278,7 @@ The man answered.
 
 “Then you’ve come to the wrong place.”
 
-“That’s what I thought at first, too. But I changed my mind.”
+“That’s what I thought at first, too. But I’ve changed my mind.”
 
 The man—Chinggen—looked at the old man and licked his lips.
 
@@ -286,17 +286,15 @@ The man—Chinggen—looked at the old man and licked his lips.
 
 The old man snorted.
 
-“Third Rate hunter. You don’t even know that the older you get, the tougher you are.”
+“A third-rate hunter. Don’t you know old meat is tough?”
 
 “That’s fine. I’ve got strong teeth.”
 
-Chinggen bared his teeth in a grin, then asked,
+Chinggen bared them in a grin.
 
 “So who are you?”
 
 “A fisherman.”
-
-The old man answered calmly, then added,
 
 The old man answered calmly, then added, “I thought there were only minnows here. Catching an unexpected whopper has put me in a fine mood.”
 
@@ -306,11 +304,11 @@ The old man answered calmly, then added, “I thought there were only minnows he
 
 “Oh, yeah?”
 
-A previous-generation master who had reached great heights, yet never left the riverbank—and wielded a strange weapon.
+The hunter smiled at the fisherman. A sobriquet came to mind—one belonging to an old master much like the man before him. A master of formidable skill who had never left the riverbank and wielded a strange weapon.
 
 “We’ll soon see who succeeds in the hunt. Won’t we, Dongting Fisherman?”
 
-The old man, Dongting Fisherman, raised his beloved black-wood fishing rod and answered,
+The old man, Dongting Fisherman, raised his beloved black-wood fishing rod.
 
 “Indeed. What a catch.”
 

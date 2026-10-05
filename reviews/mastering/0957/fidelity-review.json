@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A previous-generation master who had reached great heights, yet never left the riverbank—and wielded a strange weapon.",
+      "defect": "The translation omits the hunter looking at the fisherman and smiling, and the thought that a sobriquet for someone resembling the old man was coming to mind.",
+      "id": "F02",
+      "rationale": "The source explicitly gives the hunter’s smile and the thought that leads into his naming Dongting Fisherman. The description that follows is retained, but the thought’s framing and the smile are missing.",
+      "replacement": "The hunter looked at the fisherman and smiled. At that moment, the sobriquet of someone who resembled the old fisherman came to mind.\n\nA previous-generation master who had reached great heights, yet never left the riverbank—and wielded a strange weapon.",
+      "severity": "minor",
+      "source": "Line 343"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it contains one duplicated line and omits a brief thought and action before the final identification.",
+  "version": 1
+}
