@@ -116,7 +116,7 @@ Unlike Ma Junggeol, who’d had to hurry back the way he came, Dark Heaven had a
 
 They could advance.
 
-Instead of detouring across the grasslands, they could break through the front by sheer force.
+Instead of going by way of the grasslands, they could use their overwhelming strength to smash through whatever lay ahead.
 
 And if they chose a direct assault, there would be precious little time left before the fighting began.
 
@@ -197,19 +197,19 @@ I adjusted my grip on the reins of my galloping horse and gave the command in my
 
 It was more or less what I’d anticipated.
 
-Actually, I knew full well that if we failed, it wouldn’t end there.
+Though I knew full well that if we failed, it wouldn’t end there.
 
 *If the Gansu front collapses, the entire west will be in danger.*
 
 War was like a line of dominoes.
 
-No matter how carefully and thoroughly you prepared from beginning to end, one mistake could bring everything you’d built crashing down in an instant.
+No matter how carefully you prepared from beginning to end, one mistake could bring everything you’d built crashing down in an instant.
 
 *We have to stop them before it’s too late.*
 
 At least Gansu Murim had prepared thoroughly.
 
-Three successive defensive lines, with thirty thousand troops deployed according to each line’s importance.
+Three defensive lines, with some thirty thousand martial artists deployed among them according to each line’s importance.
 
 Dunhuang, the foremost of those three lines, was close enough to reach within three days if we pushed ourselves to the limit.
 
@@ -237,7 +237,7 @@ Dunhuang would be the first domino to fall, and tens of thousands of enemies wou
 
 “Checking the shape of the clouds or something?”
 
-I wasn’t exaggerating when I said I nearly jumped out of my skin.
+I’m not exaggerating: I nearly jumped out of my skin.
 
 It wasn’t the sudden voice that startled me. It was the menacing face that filled my vision the moment I turned my head.
 
@@ -279,6 +279,6 @@ I silently shrugged. Looking at Ma Junggeol, I had another thought.
 
 *Still, he really is nothing like he looks.*
 
-Judging by his face alone, he looked like some evil spirit who could plunge the world into ruin. But from the way he acted, and the bits of his personality that showed through now and then, he seemed surprisingly stupid.
+With that face, he could pass for an evil spirit capable of plunging the world into ruin. But judging by how he acted and the bits of his personality that showed through now and then, he had a surprisingly dim side.
 
-Even now, at the strong insistence of a few leaders who still suspected Ma Junggeol and the other horse-caravan men, he was practically being held hostage. Yet he seemed utterly carefree.
+Even now, with a few leaders still suspicious of Ma Junggeol and the other horse-caravan men—and insisting strongly enough that he was practically a hostage—he seemed utterly carefree.
