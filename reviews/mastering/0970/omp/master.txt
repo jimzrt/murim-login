@@ -12,7 +12,7 @@ Even Jin Mukyung was surprised by how calmly he accepted it.
 
 He’d already done everything he could.
 
-He’d fought with all his strength, enough to look up at the heavens without a shred of shame. At last, that strength had run out.
+He’d fought with all his strength, hard enough to look up at the heavens without a shred of shame. Now that strength was gone.
 
 Body and soul.
 
@@ -36,13 +36,13 @@ Everything he’d wanted to protect, everything he had ultimately failed to save
 
 *…No. Anything but that.*
 
-In that instant, Jin Mukyung clenched his teeth.
+Jin Mukyung clenched his teeth.
 
 He forced his fading consciousness awake and screamed silently.
 
 *Everything I could?*
 
-How could he accept death so weakly?
+What did that even mean? How could he accept death so easily?
 
 If he was still alive, it wasn’t over. Not until his last breath.
 
@@ -50,13 +50,13 @@ He had to get up. He had to fight until his pounding heart stopped.
 
 *I—I…!*
 
-His fingertips trembled. The smell of blood rose between his clenched teeth.
+His fingertips trembled. The metallic taste of blood filled his mouth.
 
 But even biting his own tongue couldn’t rouse a body that had long since passed its limit. The cruel reality didn’t change.
 
 *Whoosh.*
 
-The sound of something cutting through the air rang clearly in his ears. In his blurred vision, the slanting flash seemed unusually slow.
+The sound of the spear cutting through the air rang clear in his ears. In his blurred vision, the flash slanting toward him seemed unusually slow.
 
 Slow enough to look back on his entire life.
 
@@ -82,7 +82,7 @@ But there was another reason—his greatest reason—for spending the past two y
 
 He wanted to be an older brother who could hold his head high.
 
-He wanted to become strong enough to surpass the wall that was Cheongpung, so his younger brother, who’d become the Divine Dragon and soared freely through the sky, wouldn’t be ashamed of him.
+He wanted to grow strong enough to surpass Cheongpung, so his younger brother, soaring through the sky as the Divine Dragon, would have no reason to be ashamed of him.
 
 But…
 
@@ -90,7 +90,7 @@ But…
 
 Jin Mukyung, the Heaven Shaking Sword.
 
-The time of opportunity granted to a young genius, overshadowed by other monsters, was over.
+His time was up: a young genius overshadowed by other monsters.
 
 The sword he’d honed in the dark had shone brightly enough to light this gorge today. But that fleeting light would be swallowed by the long, deep night.
 
@@ -124,7 +124,7 @@ Two currents of qi met. In that instant, they enveloped everything within dozens
 
 *KRAAAAAASH!*
 
-A tremendous shock wave tore across the gorge, its roar deafening.
+A deafening shock wave tore across the gorge.
 
 Lying in the deep pit, Jin Mukyung reached out on instinct. He held the unconscious Cheol Mubaek and Wipeng with all his strength and watched the corpses of people and horses, along with countless fragments of rock, fly in every direction as if caught in a storm.
 
@@ -140,21 +140,19 @@ But…
 
 Everything he saw, heard, and felt was too vivid to belong to the dead.
 
-The stinging pain in his skin where the rock fragments had scraped past. The muscles screaming throughout his body. The blood surging from his insides, twisted by severe Internal Injury.
+The sting where rock fragments had scraped his skin. The muscles screaming throughout his body. The blood rising from his insides, twisted by severe Internal Injury.
 
 And, finally, the familiar voice that reached his ears.
 
 “What are you throwing up for? Did you drink too much last night?”
 
-Jin Mukyung’s body went rigid.
-
-His eyes flew wide, a storm raging in their depths.
+Jin Mukyung went rigid. His eyes flew wide.
 
 There was no mistaking it. This wasn’t a hallucination. He wasn’t hearing things.
 
 This was…
 
-“I’d pat you on the back, but, well, the situation’s a little tricky.”
+“I’d give your back a pat, but the timing’s not great.”
 
 The voice came through clearly as the roar died away.
 
@@ -166,7 +164,7 @@ That infuriating voice alone was enough to make Jin Mukyung want to raise a fist
 
 Where had the strength come from?
 
-Jin Mukyung squeezed out a voice rough as scraping metal and raised his hand.
+Jin Mukyung forced the word through a voice rough as scraping metal and raised his hand. His fingertips shook like an aspen leaf as he reached for his only younger brother’s robe.
 
 *Rustle.*
 
@@ -180,7 +178,7 @@ What he wanted to convey was more than a touch. It was a desperate wish for his 
 
 *Thud.*
 
-His hand fell limply. His whole body went slack.
+His hand fell. His whole body went slack.
 
 At last, the pathetic older brother, having spent every last bit of his strength, lost consciousness.
 
@@ -194,7 +192,7 @@ His eyes blazed with flame. His voice, by contrast, was cold as ice.
 
 The wastrel had returned.
 
-As a dragon whose roar shook the heavens.
+A dragon that shook heaven and earth.
 
 Beyond his low voice rose the tearful cheers of the people of Shanxi.
 
@@ -239,7 +237,7 @@ The blue-white flames coiling around its blade lit the pitch-black darkness and 
 
 A graying, middle-aged man stood before me, gripping a dark spear much like the charging spears the nomads used.
 
-I’d be lying if I said the System window I read with my razor-sharp Qi Sense hadn’t caught me off guard. But the reality before my eyes was the truth.
+I’d be lying if I said the System window I’d picked up with my sharpened Qi Sense hadn’t caught me off guard. But there he was.
 
 I looked at the Family Head of the Murong Family, a man I’d heard of but never met.
 
@@ -251,13 +249,13 @@ The North Heaven Demon Lord.
 
 The North Heaven Demon Lord was silent for a moment.
 
-“Well, this is a problem.”
+“Well, now.”
 
 His gaze swept over me, and he gave a small sigh at the arrival of an uninvited guest.
 
 “This complicates things. In more ways than one.”
 
-I bet it was. In more ways than one.
+I bet it did.
 
 I lifted my spearhead, ready to strike at any moment.
 
@@ -265,9 +263,9 @@ I lifted my spearhead, ready to strike at any moment.
 
 Why the Family Head of the Murong Family had become Dark Heaven’s lackey, or when, didn’t matter to me right now.
 
-I had only one thing to do: take down Murong Baek, without a doubt the North Heaven Demon Lord, and the nomad behind him, standing there with a thoroughly stiff expression.
+I had one thing to do: take down Murong Baek, who had to be the North Heaven Demon Lord, and the nomad standing stiff-faced behind him.
 
-“So why not just crack your skull while we’re at it? Then it won’t hurt anymore.”
+“So how about I crack your skull while I’m at it? Then you won’t have to worry about it hurting anymore.”
 
 *Step.*
 
@@ -277,9 +275,9 @@ The North Heaven Demon Lord took a step forward and answered calmly.
 
 “I know more about medicine than you’d think. I picked up a thing or two watching the Divine Physician.”
 
-“Maybe. Even so, I suspect that method would be a problem.”
+“Perhaps. I suspect that particular treatment would still be difficult.”
 
-The North Heaven Demon Lord looked at me with a clear gaze that seemed to see through everything, then added:
+He looked at me with clear eyes that seemed to see right through me.
 
 “Especially in your current condition.”
 
@@ -293,7 +291,7 @@ So I answered without hesitation.
 
 *Step.*
 
-The footsteps that had been steadily closing the distance suddenly stopped. The North Heaven Demon Lord furrowed his brow as he looked at me.
+His steadily approaching footsteps stopped. He frowned at me.
 
 “What did you say?”
 
@@ -301,7 +299,7 @@ The footsteps that had been steadily closing the distance suddenly stopped. The 
 
 “What are you—”
 
-His voice trailed off. I shrugged at the North Heaven Demon Lord, who was staring at me as if I were crazy.
+His voice trailed off. He was looking at me like I was a madman. I shrugged.
 
 “So I brought someone I know along while I was at it.”
 

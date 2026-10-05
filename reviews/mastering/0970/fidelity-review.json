@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "And still, somewhere deep in his heart, one thread of regret remained. It was for the people he would leave behind.",
+      "defect": "The Korean frames this regret conditionally: if a thread of regret remains, it would be for those left in this world. The translation states the regret as certain, losing that qualification.",
+      "id": "F01",
+      "rationale": "The source says “if” (있다면) and gives the regret as what it would be (것이리라), rather than asserting that regret definitely remained.",
+      "replacement": "And yet, if a thread of regret still remained somewhere deep in his heart, it would be for those he would leave behind in this world.",
+      "severity": "minor",
+      "source": "Lines 25–25"
+    },
+    {
+      "confidence": 0.95,
+      "current": "the gathering of countless stars that lit up the world.",
+      "defect": "The Korean’s image is a banquet of countless stars embroidering the world. The translation replaces the banquet with a generic gathering and changes the image of stars adorning the world to one of illumination.",
+      "id": "F02",
+      "rationale": "The source uses 연회 (“banquet”) and 수놓은 (“embroidered/adorned”), preserving both the event and its specific image in the accepted baseline.",
+      "replacement": "the banquet of countless stars that adorned the world.",
+      "severity": "minor",
+      "source": "Lines 87–89"
+    }
+  ],
+  "summary": "The assembled English is broadly faithful, but it removes a source hedge and weakens a specific image from the Korean.",
+  "version": 1
+}
