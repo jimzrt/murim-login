@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it weakens one identity beat and duplicates a speech attribution.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 163–165",
+      "current": "The young man reflected in those eyes was no longer simply Jin Mukyung.",
+      "defect": "“No longer simply” softens the source’s emphatic statement that the young man reflected in their eyes was not Jin Mukyung; the following lines recast him as hope and revenge.",
+      "replacement": "The young man reflected in their eyes now was not Jin Mukyung.",
+      "rationale": "The Korean says his name was not Jin Mukyung, then identifies him as the hope they must save and the revenge they will return upon their enemies.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 311–313",
+      "current": "He murmured, “I’ll keep that promise.”",
+      "defect": "This repeats the narration that he murmured immediately before the dialogue.",
+      "replacement": "“I’ll keep that promise.”",
+      "rationale": "The Korean has one speech attribution before the quoted line; the assembled English adds a second.",
+      "confidence": 1.0
+    }
+  ]
+}

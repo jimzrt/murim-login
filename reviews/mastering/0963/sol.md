@@ -8,7 +8,7 @@ As the horn’s unintelligible call rang through the night, Jin Mukyung found hi
 
 A flash cut through the air. Another enemy fell beneath his gleaming sword.
 
-The movements carved into his whole body through countless repetitions still traced their paths with precision, even as he staggered and bled.
+Countless repetitions had carved these movements into his body. Even as he staggered and bled, his sword still traced a precise path.
 
 *Shhk, thud!*
 
@@ -64,7 +64,7 @@ Beyond the ceaseless shouts and screams, he heard a faint voice.
 
 “Hurry. Go on.”
 
-Jin Mukyung already knew who owned that hoarse, elderly voice.
+He already knew who it belonged to.
 
 “I’m not going. No—I can’t go.”
 
@@ -106,9 +106,7 @@ Mukyung clenched his teeth.
 
 “It’s not too late. We can still go back.”
 
-“Yes. We can go back.”
-
-“If you go alone.”
+“Yes,” Wipeng said gently. “You can go back.”
 
 “What are you—!”
 
@@ -122,15 +120,15 @@ The old tiger who had once commanded Mount Heng was no more. Neither was the Pea
 
 The tiger’s claws were broken. The Ghost Sword’s swordplay was gone with his shattered arm.
 
-That was the price they had accepted to tie down, for just one moment, the hand of a fiend who had once shaken an entire age.
+That was the price they had been prepared to pay to hold back, for a single moment, a fiend who had once terrorized an age.
 
 But…
 
-“You, Mukyung—you, of all people, have to live.”
+“You, Mukyung. You have to live.”
 
 “Not because you’re the Second Young Master of the Jin Family of Taiyuan.”
 
-Wipeng and Cheol Mubaek looked at Jin Mukyung through eyes that seemed ready to go dark at any moment.
+Wipeng and Cheol Mubaek raised eyes that seemed ready to close forever and looked at him.
 
 The young man reflected in those eyes was no longer simply Jin Mukyung. He was the hope they had to save, even at the cost of their lives. He was the revenge that would one day return upon their enemies tens, hundreds of times over.
 
@@ -156,7 +154,7 @@ Wipeng gave Mukyung a faint smile. He remembered the young man as a boy, coming 
 
 Mukyung was struck speechless. He squeezed his eyes shut.
 
-What the best choice was. What he had to do to save more people.
+He knew what was best. He knew what choice would save the most people.
 
 But his feet would not move.
 
@@ -166,13 +164,13 @@ He still remembered the lesson he had learned alongside martial arts when he fir
 
 Stand against the strong and help the weak. Never turn away from injustice. Keep faith as dearly as life itself.
 
-That was what it meant to be a chivalrous hero. It was the way of life a martial artist of the orthodox faction, one who stood for what was right, was supposed to follow.
+That was what it meant to be a chivalrous hero. That was how a martial artist of the orthodox faction, one who claimed to stand for what was right, was taught to live.
 
-He had learned martial arts because he loved the sword, because he wanted to grow stronger. But he had never forgotten the weight and meaning behind those two words.
+He had learned martial arts because he loved the sword and wanted to grow stronger. But he had never forgotten the weight of those two words.
 
 *What’s best?*
 
-Wipeng and Cheol Mubaek had said it, and Jin Mukyung had endlessly repeated it in his heart even as he cut down his enemies.
+Wipeng and Cheol Mubaek had asked it. Mukyung had asked himself the same thing over and over, even as he cut down his enemies.
 
 And suddenly, he understood.
 
@@ -202,7 +200,7 @@ A thick mist of blood bloomed. Mukyung cut down three Keshik with a single strok
 
 *Whoosh! Thud!*
 
-A single streak of light cut through the air. At its end, death came without even a scream.
+A streak of light crossed the air. The death at its end came too quickly for a scream.
 
 A man stringing his composite bow fell. At that signal, the enemies packed around Mukyung gave vent to their pent-up fear and rage and charged as one.
 
@@ -212,13 +210,13 @@ A man stringing his composite bow fell. At that signal, the enemies packed aroun
 
 Flashes gleamed in the darkness.
 
-Jin Mukyung knocked away the throwing blades, but a dozen thrusting spears and crescent sabers came down on him.
+Mukyung knocked aside a flying blade. More than a dozen spears and crescent sabers bore down on him.
 
 *Pit, pit!*
 
 Heat. Drops of blood mingled with the wind whipping past.
 
-He knew he could avoid them, but his body refused. The places all over his body where blades had grazed him burned with pain.
+He knew how to avoid the blades, but his body would not obey. Fiery pain flared wherever they grazed him.
 
 Or perhaps what burned was his disappointment and anger at himself. For even a moment, he had thought about what was best instead of what was right.
 
@@ -228,7 +226,7 @@ The turmoil in his head cleared. Mukyung clenched his teeth with all his strengt
 
 *Crack.*
 
-The stench of blood filled his mouth.
+The taste of blood filled his mouth.
 
 One pain drowned out another. His fading awareness returned.
 
@@ -242,7 +240,7 @@ An arc so perfect that the dead old fiend would have laughed aloud to see it.
 
 *Shwaaaash.*
 
-The wind disappeared. A chill cleaved through the darkness.
+The wind vanished. A cold edge cleaved through the darkness.
 
 The ten Keshik squad leaders charging at Mukyung widened their eyes as one.
 
@@ -258,9 +256,9 @@ As the energy around each weapon faded, the ten Peak masters watched their prize
 
 *Fwoosh!*
 
-A dense fountain of blood stained the air.
+A dark fountain of blood stained the air.
 
-Beneath the sticky blood pouring down like a shower, Jin Mukyung had felled ten birds with a single strike, like a blue wave. He murmured softly.
+Sticky blood poured down like rain. Beneath it, Mukyung stood after felling ten birds with a single blue wave of a strike.
 
 He murmured, “I’ll keep that promise.”
 
@@ -288,7 +286,7 @@ One shout—no, the same cry erupted from every direction, drowning out Mukyung�
 
 The voice was unfamiliar. The name was not.
 
-The words spoken by the strongest nomad warrior as he died—the day Jin Mukyung annihilated the thousand-man vanguard that had invaded Shanxi Province ahead of the main force—were still vivid in his mind.
+He still remembered the words of the strongest nomad warrior in the thousand-man vanguard he had destroyed after it invaded Shanxi Province ahead of the main force. The man had spoken them as he died.
 
 *He will punish you. Jamukha Khan will. He’ll take everything from you and burn it—your family, your friends, your home.*
 
