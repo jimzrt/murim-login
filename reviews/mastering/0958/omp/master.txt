@@ -18,13 +18,13 @@ No matter who he encountered up there, he would carry out his assigned task. And
 
 Flashes flickered without pause through the dust cloud, followed by more deafening crashes.
 
-Below, the nomads had shed their armor and taken up hooks and daggers. As the archers’ fire slackened, they seized the opportunity and rapidly climbed the cliffs.
+Below, nomads who had shed their armor and taken up hooks and daggers were climbing the cliffs as the archers’ fire slackened.
 
 “Loose!”
 
 *Fwish-fwish-fwish!*
 
-Arrows continued to fly, accompanied by occasional shouts, but that was all.
+Arrows still flew at the occasional shout, but that was all.
 
 The archers’ composure and accuracy had faltered. So had the dense crossfire pouring down from either side. None of it compared to what it had been moments before.
 
@@ -68,7 +68,7 @@ Three this time.
 
 Jamukha pointed toward the gorge, where screams rang out without end.
 
-“Your sworn brother’s killer is there.”
+“The man who killed your brother is there.”
 
 “…!”
 
@@ -82,7 +82,7 @@ It wasn’t simply that they remembered their sworn brother, who had left days a
 
 It was their pride.
 
-Their lord was telling them to join forces and avenge the sworn brother who had died before them.
+Their lord was telling all three of them to join forces to avenge him.
 
 “Khan. I’m more than enough for him on my own.”
 
@@ -96,7 +96,7 @@ Their bulging temples and sharp, shining eyes showed that these masters had reac
 
 But Jamukha was both their lord and their teacher. He knew them better than anyone.
 
-A few days ago, his subordinate’s severed head had returned instead of news of victory. Jamukha had seen the wound on its neck, leaving him no choice but to make this decision.
+A few days ago, his subordinate’s head had returned instead of news of victory. Jamukha had seen the wound on its neck, leaving him no choice but to make this decision.
 
 *He’s no pushover.*
 
@@ -150,7 +150,7 @@ Temur’s voice shook as if the ground beneath him were quaking.
 
 But the voice and gaze that answered him were drier than the steppe’s bitter wind.
 
-“They disobeyed the Khan’s orders and ordered a retreat on their own. We simply carried out the summary execution.”
+“They disobeyed the Khan’s orders and ordered a retreat on their own. They were executed on the spot.”
 
 “B-but they’re under my command—”
 
@@ -174,7 +174,7 @@ Cross it even slightly, and he would not escape death either.
 
 “I can’t hear you very well. I must be getting old.”
 
-“N-no problem.”
+“There… isn’t.”
 
 Only when Temur had forced out those words through his fear and humiliation did Jamukha nod.
 
@@ -228,7 +228,7 @@ More precisely, it darkened at the weapons in the man’s hands.
 
 A lance, a scimitar, and a bow.
 
-Even at a glance, the three weapons gave off a cutting edge far beyond that of anything the other nomads carried. They were familiar to Jamukha.
+Even at a glance, the three weapons had edges and points far keener than anything the other nomads carried. Jamukha knew them well.
 
 They had been specially made as gifts for the ten commanders of a hundred who had excelled above all others among the Keshik, his personal guard.
 
@@ -260,11 +260,11 @@ Jamukha cared only about the losses among his personal guard.
 
 Three commanders had died, but their troops had suffered few losses. That could mean only one thing.
 
-Remembering the commanders’ confidence that each of them was enough on his own, Jamukha let out a quiet laugh.
+Remembering how each commander had insisted he was enough on his own, Jamukha let out a quiet, incredulous laugh.
 
 “They disobeyed my order.”
 
-There was no doubt those three had fought a life-and-death duel.
+There was no doubt the three of them had fought life-and-death duels.
 
 One at a time.
 
@@ -274,13 +274,13 @@ And one by one, they must have lost their lives to the young Sword Demon of the 
 
 “Those pathetic fools.”
 
-Jamukha silently looked down at the Keshik, who could only bow his head even lower rather than agree. Then, abruptly, he spoke.
+The Keshik could not bring himself to agree. Jamukha watched him bow his head still lower, then spoke.
 
 “Order the Keshik still in the gorge to charge.”
 
 “Khan. You mean—”
 
-“The senior ten-man commanders will temporarily take the vacant posts of commanders of a hundred. Minimize our losses as much as possible and wear them down.”
+“The senior ten-man commanders will temporarily fill the vacant posts. Keep losses to a minimum and wear the enemy down.”
 
 There would be no more reinforcements.
 
@@ -310,7 +310,7 @@ Like a reed swaying in the wind, he twisted his body smoothly.
 
 Five lances grazed his arms, legs, and waist as they passed.
 
-Jin Mukyung reached out, and a gleaming white-silver blade slid along the steel shaft of a lance.
+Jin Mukyung reached out, and his gleaming white-silver blade slid along a steel lance shaft.
 
 *Shhk!*
 
@@ -318,7 +318,7 @@ A cold slicing sound announced another death.
 
 At the same moment, the strength and weight behind the shaft vanished.
 
-Jin Mukyung seized the shafts that had crossed past him, grazing his body, and spun rapidly.
+Jin Mukyung seized the lances that had crossed past him, grazing his body, and spun rapidly.
 
 *Krrrunch!*
 
@@ -338,12 +338,10 @@ Rocks large and small came pouring down amid a roar that seemed to split the sky
 
 A tremendous blow struck his sword.
 
-As Jin Mukyung retreated, a dull ache running up to his wrist, an exuberant voice reached his ears.
+Jin Mukyung retreated, a sharp ache reaching his wrist, as an exuberant voice rang in his ears.
 
-“Now that’s a shame. If I’d gotten a little more used to it, I could’ve landed a whopper.”
+“Ah, what a shame. If I’d had a little more time to get used to it, I might’ve landed myself a whopper.”
 
 Chinggen.
 
-He tossed aside his black-wood fishing rod, soaked in dark red blood, and raised two swords, one long and one short. He smiled.
-
-At his new prey.
+Soaked in dark red blood, the black-wood fishing rod flew from his hand. He brought up two swords, one long and one short, and smiled at his new prey.

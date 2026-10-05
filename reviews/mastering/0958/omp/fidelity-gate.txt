@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is faithful overall, with two minor shifts in register and meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 163–165",
+      "current": "And you, the man who commands them, are standing right beside me.",
+      "defect": "The source uses the contemptuous address 네놈 for Temur. “The man who commands them” preserves the reference but loses the sneer in Jamukha’s private threat.",
+      "replacement": "And you, the bastard who commands them, are standing right beside me.",
+      "rationale": "네놈 is a scornful way to address someone, not a neutral pronoun. The line is intentionally humiliating and threatening.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 301–303",
+      "current": "He wanted a surer hand.",
+      "defect": "“A surer hand” suggests dependable control or a trustworthy person. The source’s 확실한 패 means a sure card or reliable asset.",
+      "replacement": "He wanted a sure bet instead.",
+      "rationale": "The following description presents the fierce dog as a dependable asset Jamukha can rely on, rather than a “hand” exercising control.",
+      "confidence": 0.81
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 A faint tremor followed the explosion.
 
-Jamukha stroked his beard as he watched a pale cloud of dust rise from the distant cliff, visible even in the darkness.
+Jamukha stroked his beard as he watched a pale cloud of dust rise atop the distant cliffs, visible even in the darkness.
 
 *Looks like they’ve started.*
 
@@ -12,11 +12,11 @@ Jamukha knew Chinggen—or, more precisely, the person wearing Chinggen’s face
 
 Cruel, savage, and strong.
 
-No matter who he encountered up there, he would carry out his assigned task. And he would do it exceedingly well.
+No matter who he ran into up there, he would carry out his assigned task. And he would do it exceedingly well.
 
 *Clang! Krrrunch!*
 
-Flashes flickered without pause through the dust cloud, followed by more deafening crashes.
+Flashes of light flickered without pause through the dust cloud, followed by more deafening crashes.
 
 Below, the nomads had shed their armor and taken up hooks and daggers. As the archers’ fire slackened, they seized the opportunity and rapidly climbed the cliffs.
 
@@ -26,11 +26,11 @@ Below, the nomads had shed their armor and taken up hooks and daggers. As the ar
 
 Arrows continued to fly, accompanied by occasional shouts, but that was all.
 
-The archers’ composure and accuracy had faltered. So had the dense crossfire pouring down from either side. None of it compared to what it had been moments before.
+The archers’ composure and accuracy—and the dense crossfire pouring down from both sides—had faltered beyond comparison with what they’d been moments before.
 
-Of the thousand archers holding the two cliffs facing each other, half were already tied up by Chinggen. The other half had to keep the ground forces in check as they surged into the gorge once more.
+Of the thousand archers holding the two cliffs facing each other, half had already been tied up by Chinggen. The other half also had to keep the ground forces in check as they surged into the gorge once more.
 
-A loosened net would eventually tear.
+A net stretched thin would eventually tear.
 
 Jamukha intended to bring that moment a little closer.
 
@@ -48,7 +48,7 @@ Following the example of the great conqueror who had once crossed the steppe and
 
 Five fine steeds and five loyal hounds.
 
-The ten commanders of a hundred were outstanding leaders and fearsome warriors alike. For decades, they had served Jamukha faithfully.
+The ten commanders of a hundred were outstanding leaders and fearsome warriors alike. For decades, they had been Jamukha’s most loyal servants.
 
 Though only days ago, he had lost one of them in vain.
 
@@ -60,7 +60,7 @@ Though only days ago, he had lost one of them in vain.
 
 The two commanders struck their studded armor with clenched fists, then turned away.
 
-Jamukha watched them lead a hundred Keshik apiece up the cliffs, deflecting arrows as they climbed. Then he spoke again.
+Jamukha watched them lead a hundred Keshik apiece, deflecting the arrows as they quickly began climbing the cliffs. Then he spoke again.
 
 “Tiraun. Boorchu. Ongge.”
 
@@ -70,17 +70,17 @@ Jamukha pointed toward the gorge, where screams rang out without end.
 
 “Your sworn brother’s killer is there.”
 
-“…!”
+“……!”
 
-“…!”
+“……!”
 
-“…!”
+“……!”
 
 The corners of the three men’s eyes twitched.
 
-It wasn’t simply that they remembered their sworn brother, who had left days ago at the head of the vanguard with a hundred Keshik under his command, only for his head to return without him.
+It wasn’t just because they remembered their sworn brother, who had left days ago at the head of the vanguard with a hundred Keshik under his command, only for his head to return without him.
 
-It was their pride.
+It was pride.
 
 Their lord was telling them to join forces and avenge the sworn brother who had died before them.
 
@@ -90,19 +90,21 @@ Their lord was telling them to join forces and avenge the sworn brother who had 
 
 “Please send me, Ongge!”
 
-Jamukha watched the three commanders vie to step forward.
+Jamukha watched the three commanders step forward, one after the other.
 
-Their bulging temples and sharp, shining eyes showed that these masters had reached the far edge of the Peak realm.
+Their bulging temples and sharp, shining eyes showed that these masters had reached the upper reaches of the Peak realm.
 
-But Jamukha was both their lord and their teacher. He knew them better than anyone.
+But Jamukha was both their lord and their teacher.
+
+He knew them better than anyone.
 
 A few days ago, his subordinate’s severed head had returned instead of news of victory. Jamukha had seen the wound on its neck, leaving him no choice but to make this decision.
 
 *He’s no pushover.*
 
-Send one man, and he would never return. Send two, and only one would make it back. Send three, and they would surely return with the man’s head.
+Send one man, and he wouldn’t return. Send two, and only one would make it back. Send three, and they would surely return with the man’s head.
 
-That was why their eagerness to fight could not sway him.
+That was why Jamukha’s resolve did not waver, despite the three commanders’ fighting spirit.
 
 “Go.”
 
@@ -114,9 +116,9 @@ Realizing there was no way to defy Jamukha, the three commanders bit their lips 
 
 Then, like their comrades who had set off for the cliffs ahead of them, they led their Keshik forward at a run.
 
-Hundreds of figures shot across the gorge, leaving their horses behind and vaulting over rocks and the bodies of fallen men and mounts.
+Hundreds of figures shot across the gorge at speed, having left their horses behind. They clambered over the bodies of men and mounts, and over rocks.
 
-Their first victims were not the Shanxi defenders, who continued to resist fiercely, but their own allies, backing away in fear.
+Their first victims were not the Shanxi defenders, who continued to resist fiercely, but their own allies, stumbling backward in fear.
 
 “T-this isn’t right! This isn’t right!”
 
@@ -126,7 +128,7 @@ Their first victims were not the Shanxi defenders, who continued to resist fierc
 
 The old chieftain’s head flew into the air.
 
-Several hundred members of his small tribe had joined the battle at the Great Steppe’s call to arms. Now, reduced to half their original number, the survivors stared wide-eyed.
+Hundreds had joined the battle after the Great Steppe’s call to arms, but now the survivors of the small clan—reduced to half their original number—stared wide-eyed.
 
 “C-Chieftain!”
 
@@ -140,35 +142,35 @@ But dozens of spears and swords were already closing in from every direction.
 
 With every flash of a blade, heads and limbs rolled across the ground.
 
-The Keshik slaughtered a hundred or so tribespeople in moments with their lances and scimitars. The entire gorge froze at the sight.
+The Keshik slaughtered a hundred or so clansmen in moments with their lances and scimitars. The entire gorge froze at the sight.
 
 So did someone watching from far away.
 
 “W-what are you doing?!”
 
-Temur’s voice shook as if the ground beneath him were quaking.
+Temur’s voice shook as if he were caught in an earthquake.
 
-But the voice and gaze that answered him were drier than the steppe’s bitter wind.
+But the answer that came back, in both voice and gaze, was drier than the steppe’s bitter wind.
 
 “They disobeyed the Khan’s orders and ordered a retreat on their own. We simply carried out the summary execution.”
 
 “B-but they’re under my command—”
 
-“That’s right. They’re under your command, Khan Temur.”
+“That’s right. They’re your people, Khan Temur.”
 
-Jamukha’s next words were too quiet for anyone else to hear.
+A voice slipped between Jamukha’s lips, too quiet for anyone else to hear.
 
-“And you, the man who commands them, are standing right beside me.”
+“And the man who commands them is standing right beside me.”
 
-“…!”
+“……!”
 
 “Is there a problem? If you have any complaints, speak now.”
 
-Under a pressure that seemed to grip his heart, Temur suddenly understood.
+Temur suddenly understood, under the pressure that felt like it was gripping his heart.
 
-This was the limit the man before him had set for him.
+The other man had drawn a line, and that was as far as Temur was allowed to go.
 
-Cross it even slightly, and he would not escape death either.
+If he crossed it even slightly, he would meet the same fate.
 
 “N-no problem.”
 
@@ -176,13 +178,13 @@ Cross it even slightly, and he would not escape death either.
 
 “N-no problem.”
 
-Only when Temur had forced out those words through his fear and humiliation did Jamukha nod.
+At last, Jamukha nodded at the words Temur forced out through his fear and humiliation.
 
 “A wise choice. Military discipline must always be strict. Don’t you agree?”
 
 Temur trembled instead of answering.
 
-He had foreseen this when he begged for his life in front of Chinggen’s corpse, but he had tried to look away. Now that terrible future was unfolding before his eyes.
+He had expected it when he begged for his life in front of Chinggen’s corpse, but had tried to look away. Now the terrible future he had feared was laid out before his eyes.
 
 *Clang-clang-clang!*
 
@@ -190,9 +192,9 @@ He had foreseen this when he begged for his life in front of Chinggen’s corpse
 
 From the cliffs. From the gorge.
 
-Most of the ceaseless clashes of weapons and screams belonged to the tribespeople who had followed him into battle.
+The constant clashes of weapons and screams still ringing through the air mostly belonged to the clansmen who had followed him into battle.
 
-Yet as they died, those who had pledged loyalty and vengeance on the strength of a fabricated lie would never know that the two young Great Chieftains who had brought them a brief peace and prosperity had already betrayed them.
+But as they died, those men would never know that the two young Great Chieftains who had brought them a brief peace and prosperity had already betrayed them.
 
 *No. I’m the only traitor. I’m the one who led them to their deaths.*
 
@@ -204,7 +206,7 @@ He had fallen for the promise that if he cooperated fully, they would spare his 
 
 No—that was just an excuse.
 
-He had simply…
+He had simply—
 
 *Wanted to survive. No matter what it took.*
 
@@ -212,7 +214,7 @@ Yes. That was the only truth.
 
 And this was the result.
 
-Sending twenty thousand tribespeople who followed him and Chinggen ahead as arrow fodder, as human shields, to get through that dreadful gorge.
+Leading twenty thousand clansmen who followed him and Chinggen into that dreadful gorge as arrow fodder, as human shields.
 
 “Damn it.”
 
@@ -220,11 +222,9 @@ Jamukha’s brow furrowed at the mutter that slipped through Temur’s clenched 
 
 “Khan!”
 
-A figure approached at a run, calling out urgently.
+A figure approached at a run, accompanied by an urgent shout.
 
-Jamukha recognized him as one of the Keshik who had headed into the gorge with the three commanders moments earlier. His gaze darkened.
-
-More precisely, it darkened at the weapons in the man’s hands.
+Jamukha recognized him as one of the Keshik who had headed into the gorge with the three commanders moments earlier. His gaze darkened at the sight of the weapons in the man’s hands.
 
 A lance, a scimitar, and a bow.
 
@@ -232,13 +232,13 @@ Even at a glance, the three weapons gave off a cutting edge far beyond that of a
 
 They had been specially made as gifts for the ten commanders of a hundred who had excelled above all others among the Keshik, his personal guard.
 
-He didn’t need to ask what fate had befallen their owners.
+Jamukha didn’t need to ask what fate had befallen their owners.
 
-“Did those boys go peacefully?”
+“Did those boys pass in peace?”
 
-The Keshik set down the weapons, now keepsakes, and bowed his head.
+The Keshik lowered the weapons that had become keepsakes and bowed his head.
 
-“They fought bravely as warriors. Surely they’ll be welcomed into Tengri’s embrace.”
+“They fought bravely as warriors. Surely they’re now in Tengri’s embrace.”
 
 “Yes. I see.”
 
@@ -246,19 +246,21 @@ Jamukha murmured softly.
 
 Kill someone, and be killed by someone.
 
-That was the inescapable fate of a warrior of the Great Steppe. The same fate awaited everyone else.
+That was the inescapable fate of a warrior of the Great Steppe.
+
+And it was the same for everyone else.
 
 “What of the other losses?”
 
-Everyone present understood what he meant.
+Everyone present already understood what he meant.
 
-Even now, dozens of nomads were bleeding and falling somewhere in the gorge, but their lives counted for nothing in his calculations.
+Even now, dozens of nomads were bleeding and falling somewhere in the gorge, but their lives were not part of any calculation.
 
 Jamukha cared only about the losses among his personal guard.
 
 “Though three commanders of a hundred have fallen, our overall casualties are small. Only around twenty are dead or wounded. The rest have withdrawn to the rear and await new orders.”
 
-Three commanders had died, but their troops had suffered few losses. That could mean only one thing.
+Three commanders had died, but their troops had suffered few losses. That could only mean one thing.
 
 Remembering the commanders’ confidence that each of them was enough on his own, Jamukha let out a quiet laugh.
 
@@ -266,7 +268,7 @@ Remembering the commanders’ confidence that each of them was enough on his own
 
 There was no doubt those three had fought a life-and-death duel.
 
-One at a time.
+One after another.
 
 Foolish as commanders, brave as warriors.
 
@@ -286,25 +288,27 @@ There would be no more reinforcements.
 
 Several other commanders of a hundred remained at Jamukha’s side, but Eight Spring Gorge was only the first hill they had to cross.
 
-He had no intention of wasting more of his forces in this narrow gorge, or of trusting commanders who might do something foolish again.
+He had no intention of wasting more strength in this narrow gorge—or of trusting the commanders who might do something foolish again at any moment.
 
-He wanted a surer hand.
+He wanted a sure bet instead.
 
-Not one of the fine steeds or loyal hounds that raced like the wind at the turn of his reins, but a vicious dog that served the same master he did.
+Not a fine steed or loyal hound that raced like the wind according to the direction of Jamukha’s reins, but a vicious dog that served the same master as he did.
 
 *Ka-boom!*
 
-Jamukha watched calmly as a tremendous roar shook heaven and earth. A streak of red light came hurtling toward the ground along with a section of the cliff.
+Jamukha watched calmly.
+
+Amid the tremendous roar that shook heaven and earth, a streak of red light came hurtling down toward the ground along with a section of the cliff.
 
 * * *
 
 *Fwoosh.*
 
-The breeze felt cool as it brushed Jin Mukyung’s hair.
+The breeze felt cool as it brushed his hair.
 
-It was a freshness he could never have felt in the training hall deep inside the cave.
+It was a refreshing sensation he could never have experienced in the training hall deep inside the cave.
 
-Like a reed swaying in the wind, he twisted his body smoothly.
+Like a reed swaying in the wind, Jin Mukyung twisted his body with ease.
 
 *Shwaack!*
 
@@ -324,19 +328,19 @@ Jin Mukyung seized the shafts that had crossed past him, grazing his body, and s
 
 There were no screams. Only a thick mist of blood.
 
-With the five lances as teeth and his own body as the turning axle, Jin Mukyung ground everything within a three-*jang* radius to pieces. When he stopped, there were no enemies left around him.
+Using the five spears as the teeth of a gear and his own body as its axis, Jin Mukyung ground everything within a three-*jang* radius to pieces. He realized there were no enemies left around him.
 
-And he knew his martial prowess was not the only reason.
+And he realized that it wasn’t solely because of his own skill.
 
 *Ka-boom! Rrrumble!*
 
 The gorge shook.
 
-Rocks large and small came pouring down amid a roar that seemed to split the sky. Among them, Jin Mukyung caught sight of a streak of red light bending like a living creature.
+Amid a deafening roar that seemed to split the sky, enormous and small rocks came pouring down. A streak of red light, bending like a living creature, flashed across Jin Mukyung’s eyes.
 
 *Clang!*
 
-A tremendous blow struck his sword.
+A powerful impact struck his sword.
 
 As Jin Mukyung retreated, a dull ache running up to his wrist, an exuberant voice reached his ears.
 
