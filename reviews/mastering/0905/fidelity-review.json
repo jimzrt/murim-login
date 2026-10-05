@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Frost had settled early on the head of the young man burdened with more than he could bear. The infant who had once been swaddled in blankets had grown into a boy, now sharing this very moment with him.",
+      "defect": "The translation omits the explicit statement that more than a decade had passed since that day. The surrounding details suggest time has passed, but do not preserve this stated duration.",
+      "id": "F01",
+      "rationale": "The source states, “그렇게 어언 십여 년이 흘렀다” (“More than a decade had passed since then”) before describing the young man and the child. The accepted baseline retains that sentence.",
+      "replacement": "More than a decade had passed since then. Frost had settled early on the head of the young man burdened with more than he could bear. The infant who had once been swaddled in blankets had grown into a boy, now sharing this very moment with him.",
+      "severity": "minor",
+      "source": "Lines 227–233"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it drops an explicit time passage that the accepted baseline preserved.",
+  "version": 1
+}

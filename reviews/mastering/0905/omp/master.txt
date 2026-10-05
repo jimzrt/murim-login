@@ -4,7 +4,7 @@ The torches wavered. Blood dark enough to see even in the gloom burst out on eve
 
 *Clang-clang-clang!*
 
-*Thrust!*
+*Thuk! Thuk!*
 
 Well-honed blades met in flashes of swordlight. Cries of pain followed.
 
@@ -12,7 +12,7 @@ Well-honed blades met in flashes of swordlight. Cries of pain followed.
 
 “Ghk, gah!”
 
-With a dying cry that announced the end, someone nameless met their death, and someone else stepped into the empty space they left behind.
+A nameless fighter died with a final scream, and another stepped into the space he left behind.
 
 Again and again.
 
@@ -38,15 +38,15 @@ At the Emperor’s sudden murmur, Baek Yeon, Commander of the Embroidered Unifor
 
 A full third of the Embroidered Uniform Guard, whose duty was to protect the imperial family, had turned their blades against it. The Imperial Guards responsible for the Outer Palace were raining arrows down without pause.
 
-The Emperor had not been entirely unprepared for the existence of traitors, but Cang Gong’s shadow had fallen far darker than he’d expected.
+The Emperor had not been entirely unprepared for traitors, but Cang Gong’s shadow stretched farther than he had expected.
 
 Across the imperial family. No—across the entire Great Nation.
 
 *Shhh-shhh-shh—clang!*
 
-Hundreds of arrows fired straight at the Emperor bounced off harmlessly.
+Hundreds of arrows fired straight at the Emperor bounced away.
 
-The Emperor moved his lips toward the Embroidered Uniform Guard who had blocked the attack by forming a wall with their massive iron shields.
+The Emperor moved his lips toward the guards who had formed a wall with their massive iron shields.
 
 “Advance.”
 
@@ -70,7 +70,7 @@ A hundred spears and swords swung together, flashing as they bore down on the tr
 
 Screams and blood erupted without pause.
 
-The martial prowess of warriors at the very brink of the Peak realm—overwhelming, and horribly powerful.
+The martial prowess of men at the very brink of Peak—overwhelming, horribly powerful.
 
 But even that could not turn the tide of battle. At its center, true monsters beyond human limits were running wild.
 
@@ -78,7 +78,7 @@ But even that could not turn the tide of battle. At its center, true monsters be
 
 *Rrrumble!*
 
-A tremendous roar and tremor shook the area. Beyond a pillar of fire that surged high into the air, piercing the darkness, a painfully white light blazed.
+A tremendous roar shook the hall. Beyond a pillar of fire that pierced the darkness, an icy-white light blazed.
 
 *Shhk!*
 
@@ -120,7 +120,7 @@ No—it was just about to.
 
 *Fwoosh.*
 
-Somewhere, flames flickered.
+Flames flickered somewhere nearby.
 
 In an instant, the air, cold as ice a moment ago, boiled like lava. Fire swallowed even the darkness.
 
@@ -138,19 +138,19 @@ Cang Gong’s gray eyes filled with terrible heat.
 
 Impact. An explosion.
 
-The dreadful shock wave that followed hurled friend and foe alike through the air. Cang Gong was no exception.
+The shock wave hurled friend and foe alike through the air. Cang Gong was no exception.
 
 *Shhhhh. Thud.*
 
 Driven back by the immense force, he barely managed to stop himself. He straightened his bent back and fixed his gaze on one man.
 
-“When the situation demands you fight with everything you have, you waste your strength showing off against children. You must’ve eaten your age through your ass.”
+“When you ought to be fighting with everything you have, you’re showing off against children instead. Did you spend all those years getting old through your ass?”
 
 Fire King Jeok Cheongang.
 
 As Jeok approached through the heat haze rising around him, Cang Gong’s lips twisted.
 
-“And you’re no different. In the end, didn’t you earn the title of Fire King by killing countless weaklings?”
+“And you’re no different. Didn’t you earn the name Fire King by killing countless weaklings?”
 
 “Even without balls, you should get your facts straight. The Demonic Cultists I killed weren’t mere weaklings. They were arsonists. Burning them alive wouldn’t have been punishment enough.”
 
@@ -166,7 +166,7 @@ Jeok Cheongang did not wait for an answer.
 
 “That’s right. I didn’t much like what those bastards were doing anyway.”
 
-Jeok Cheongang raised a fist wreathed in rolling flames and added,
+Jeok raised a fist wreathed in flames.
 
 “Just like you.”
 
@@ -206,7 +206,7 @@ The Emperor’s eyes trembled.
 
 How could he forget that day? The voice he had heard for the last time?
 
-Frost had settled early on the head of the young man burdened with more than he could bear. The infant who had once been swaddled in blankets had grown into a boy, now sharing this very moment with him.
+More than a decade had passed. Gray had come early to the young man bearing a burden greater than he could carry. The infant once wrapped in swaddling clothes had grown into a boy who was here with him now.
 
 “What on earth—”
 
@@ -220,7 +220,7 @@ His eyes blazed with confusion and anger as he glared at the Emperor.
 
 *BOOOOM!*
 
-The rest of his words were swallowed by the roar that burst out with the flames.
+A roar of flame drowned out the rest.
 
 The next moment, Prince Shangshan saw a familiar face amid another fierce battle across the hall. The man was rising to his feet, using a spear shaft broken in half as a cane.
 
@@ -228,9 +228,9 @@ Shangshan let out a quiet groan.
 
 “Jin Taekyung.”
 
-He could recognize him at a glance, even from far away.
+He knew him at a glance, even from so far away.
 
-No. How could he fail to recognize him?
+Of course he did.
 
 It was Jin Taekyung.
 
@@ -284,15 +284,15 @@ As the Emperor watched Shangshan prostrate himself and cry out, an indescribable
 
 Relief. Pride. Perhaps even sorrow. Amid that swirl of feelings was something he could not bring himself to say.
 
-*Not ‘Your Majesty’… Wouldn’t you call me ‘older brother’?*
+*Not ‘Your Majesty’… Couldn’t you call me ‘older brother’?*
 
 His lips parted, but no words came out. Nor did he nod at Shangshan’s plea.
 
-No—he could not.
+He could not.
 
 Everything that happened on this battlefield today had been entrusted to one person more than a decade ago.
 
-*No matter how I think about it, I can’t understand why you’re doing nothing, even in a situation like this.*
+*No matter how I think about it, I cannot understand why you’re standing by, even now.*
 
 So Gyo answered the Emperor’s quiet Sound Transmission in her ear.
 
