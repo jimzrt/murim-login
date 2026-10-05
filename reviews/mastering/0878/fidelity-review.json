@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "The moment he heard the Sound Transmission, Jeok Cheongang moved with remarkable speed—and made it look perfectly natural.",
+      "defect": "The source describes the Sound Transmission as piercing into the listener’s ear. The assembled version reduces that image to simply hearing it, losing a physical detail preserved in the accepted baseline.",
+      "id": "F01",
+      "rationale": "귓가를 파고든전음 explicitly gives the transmission a penetrating action at the ear; the baseline preserves that image.",
+      "replacement": "The moment the Sound Transmission pierced his ear, Jeok Cheongang moved with remarkable speed—and made it look perfectly natural.",
+      "severity": "minor",
+      "source": "Korean lines 5; English P2"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Your severed tongue has finally grown back in the right place.",
+      "defect": "“Grown back” changes the image from a tongue being reattached to one regrowing. The source says the cut tongue is finally attached back in its proper place.",
+      "id": "F02",
+      "rationale": "제자리에 붙었군 describes the tongue being attached back in place, not growing back.",
+      "replacement": "Your severed tongue has finally been put back in its proper place.",
+      "severity": "minor",
+      "source": "Korean lines 177; English P83"
+    }
+  ],
+  "summary": "The translation is faithful overall, with two minor losses or shifts in source detail.",
+  "version": 1
+}

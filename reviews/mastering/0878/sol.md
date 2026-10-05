@@ -54,7 +54,7 @@ Jeok Cheongang gave the brief reply, then added, “But he used Sound Transmissi
 
 Song Ilseom replied at once. “I’ll close up for today.”
 
-“Make sure the shop is secured. Oh, first, circle the area. If you see anyone suspicious, grab the bastard and bring him here too.”
+“Lock up properly. First, take a look around the shop. If you spot anyone suspicious, grab the bastard and bring him here too.”
 
 “Yes. But if I have no choice…?”
 
@@ -70,7 +70,7 @@ Song Ilseom bowed politely and left at once. The man who’d heard their convers
 
 *Is this a textile shop or a slaughterhouse?*
 
-*Could they be… an assassin organization?*
+*Could they be… assassins?*
 
 Nothing in his orders had mentioned anything like this.
 
@@ -82,11 +82,11 @@ As his mouth went dry, the other young man spoke up.
 
 “It’ll be difficult to bring everyone right away. One of them is out.”
 
-“Damn it, what kind of goddamn idiot can’t sit still for a minute?”
+“Damn it, which little shit couldn’t stand staying put for five minutes?”
 
 “Well, it’s Young Lady Ju.”
 
-“She’s allowed to go out for a while. Right. Of course. She must’ve gone to check on the situation nearby. How thoughtful of her.”
+“She’s allowed to go out for a while. Of course she is. She must’ve gone to check the situation nearby. How thoughtful of her.”
 
 “……”
 
@@ -130,13 +130,13 @@ A possibility occurred to him, and he spoke cautiously.
 
 “Could your sobriquet be the Fire King?”
 
-Instead of answering, Jeok Cheongang blinked at him as if he were some curious creature. Then he kicked the man in the shin as fast as a flash.
+Instead of answering, Jeok Cheongang blinked at him as if he were some curious creature. Then he kicked the man in the shin like a flash of lightning.
 
 Crack!
 
 “Gah!”
 
-“You little shit! You’re still wet behind the ears, and half your tongue seems to be missing. What was that—‘you’?”
+“You little shit. You’re still wet behind the ears, and half your tongue seems to be missing. What was that—‘your’?”
 
 “W-wait! Wait! Hear me out! I…”
 
@@ -166,7 +166,7 @@ Jeok Cheongang had perched on the chest he’d drawn over with Seizing an Object
 
 “This humble servant…”
 
-“I don’t need to know a nobody like you’s name. Just tell me who you work for. I can tell at a glance you’re an eunuch, anyway.”
+“I don’t need your name. Just tell me who you work for. I can tell you’re a eunuch.”
 
 “……!”
 
@@ -178,7 +178,7 @@ The man—or rather, the eunuch—was momentarily speechless. Jeok Cheongang gav
 
 “Then how did you…?”
 
-“I felt your pulse earlier. You didn’t have nearly enough yang qi for a man. Now, tell me—which is more likely in the imperial palace courtyard: running into a eunuch, or running into a martial artist without balls? I don’t need to spell it out, do I?”
+“When I took your pulse earlier, I found you had nowhere near the yang qi a man ought to have. Now, which is more likely near the imperial palace: meeting a martial artist without balls, or meeting a eunuch? I don’t need to spell it out, do I?”
 
 The eunuch swallowed hard. Jeok Cheongang’s judgment was sharp, but what unsettled him more was that knowing he was a eunuch hadn’t changed the man’s attitude at all.
 
@@ -188,7 +188,7 @@ The eunuch swallowed hard. Jeok Cheongang’s judgment was sharp, but what unset
 
 “……”
 
-“Stop rambling and answer what I asked. Exactly where in the imperial palace do you serve? Are you under that eunuch who’s Prince Shangshan’s right hand? The East Depot? Or are you one of the ones licking the Emperor’s…”
+“Stop rambling and answer my question. Which part of the palace do you serve? Are you under that eunuch who’s Prince Shangshan’s right hand? The East Depot? Or do you lick the Emperor’s…”
 
 “The East Depot.”
 
@@ -214,7 +214,7 @@ The eunuch waited in dread. Fortunately, Jeok Cheongang knew exactly what the cl
 
 *Monster.*
 
-The monsters from the other world that had stained the realm of immortals with blood.
+The creatures from another world that had stained the realm of immortals with blood.
 
 And only two people under heaven knew about them: Jin Taekyung and himself.
 
@@ -272,7 +272,7 @@ Fwoosh.
 
 Flames from Samadhi True Fire swallowed both missives, writhing in the darkness.
 
-As Jeok Cheongang silently watched the missives turn to ash and vanish with a soft rustle in the blink of an eye—
+Jeok Cheongang silently watched the papers turn to ash and crumble away in the blink of an eye.
 
 “I brought everyone.”
 
@@ -284,7 +284,7 @@ Sama Pyo, who’d left only moments ago, approached with some familiar faces, th
 
 “Did you find out who he was?”
 
-“An eunuch. One Jin Taekyung sent.”
+“A eunuch. Taekyung sent him.”
 
 “……What?”
 
@@ -294,7 +294,7 @@ Jeok Cheongang ignored Sama Pyo’s confusion at that painfully brief explanatio
 
 *Yaaawn.*
 
-Sama Pyo nudged Taishan in the side as he yawned, his eyes still sleepy, then hesitated.
+Sama Pyo poked Taishan in the side as the giant yawned through sleepy eyes, then hesitated.
 
 “Well, you see…”
 
@@ -308,7 +308,7 @@ Sama Pyo nudged Taishan in the side as he yawned, his eyes still sleepy, then he
 
 “What about Namho?”
 
-Sama Pyo glanced at the old man, Namho, who was panting in rumpled clothes, and answered.
+Sama Pyo glanced at Namho, who was panting in rumpled clothes.
 
 “He was choking Taishan.”
 
@@ -320,7 +320,7 @@ For a brief, tempting moment, Jeok Cheongang imagined choking Taishan and Namho 
 
 “Quit screwing around and get ready, all of you.”
 
-“Pardon me, but what should we…”
+“Pardon me, but for what…?”
 
 “We’re going to the imperial palace soon.”
 
