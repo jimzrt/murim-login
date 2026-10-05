@@ -4,17 +4,17 @@ Murim martial artists were like weeds.
 
 You found them in dark back alleys and on bright main streets. They survived in the depths of the mountains and even out on the vast Yangtze.
 
-Perhaps that was why the world they lived in came to be called Murim—the forest of martial arts.
+Perhaps that was why the world they lived in was called Murim—the forest of martial arts.
 
 Ruffians who ignored common sense and the law.
 
-But even among the Murim martial artists who had carved out a forest of their own with sharply honed spears and blades, not all of them could grow into towering trees.
+But even if Murim martial artists had carved out a forest of their own with honed spears and blades, they couldn’t all grow into towering trees.
 
 In the vast forest of Murim, only the Nine Sects and One Gang, the Five Great Families, and a few other forces that had established themselves as rulers of a province could claim that distinction. And those few hadn’t yet reached the heights of the great sects and families.
 
 *The Jin Family of Taiyuan is one of them, too.*
 
-I thought to myself as I looked out the window.
+I looked out the window.
 
 Merchants hawking their wares. A woodcutter passing by, sweating buckets under a full load of firewood. Ordinary commoners and dignitaries dressed in silk.
 
@@ -38,13 +38,13 @@ Hong Jin glanced at Hyuk Mujin and me, then added, “Just so you don’t misund
 
 It sounded like he was saying that to keep me from taking offense, but he didn’t need to. I could see the reasoning.
 
-Well, to be precise, there were plenty of Murim martial artists who went too far.
+Well, it wasn’t as though Murim lacked its share of people who did whatever the hell they wanted.
 
 But proximity to the imperial capital couldn’t explain everything. Hyuk Mujin’s next question was along the same lines.
 
 “Then what about the Nangong Family, sitting right there in Anhui? They’re not all that far from the imperial capital, either.”
 
-“Before I answer that, let me ask you the reverse. What’s left among the provinces next to the imperial capital, apart from the Nangong Family in Anhui?”
+“Before I answer, let me ask you something. Apart from the Nangong Family in Anhui, what’s left in the provinces bordering the imperial capital?”
 
 “Apart from the Nangong Family… Well, there’s…”
 
@@ -68,7 +68,7 @@ Hyuk Mujin frowned in thought.
 
 “No. Of course not.”
 
-Just then, I smacked Hyuk Mujin on the back of the head, the idiot who’d answered so confidently.
+I smacked Hyuk Mujin on the back of the head.
 
 *Whack!*
 
@@ -76,7 +76,7 @@ Just then, I smacked Hyuk Mujin on the back of the head, the idiot who’d answe
 
 “Ugh! Ow!”
 
-“Mount Jiuhua in Anhui Province! Three hundred years of history! You saying the Fire Gate Clan’s worth less than a horse’s balls? You think the Fire Gate Clan’s a bunch of fucking pushovers?”
+“Mount Jiuhua in Anhui Province! Three hundred years of history! You saying the Fire Gate Clan’s worth less than a horse’s balls? You think we’re a bunch of fucking pushovers?”
 
 For the record, I was in my second year with the Fire Gate Clan and diligently working my way through the heir-apparent training program.
 
@@ -130,17 +130,15 @@ Hong Jin snapped his fingers cheerfully.
 
 “So what happened?”
 
-“With a new unified dynasty on the rise, could they really let the ruffians of the martial world run wild? Once the imperial edict went out, everything moved at lightning speed. Most of the sects in Jiangsu Province moved elsewhere. You’re starting to see where this is going, aren’t you?”
+“With a new unified dynasty in place, was he going to let ruffians from the martial world run wild? The imperial edict went out, and everything happened quickly. Most of the sects in Jiangsu moved elsewhere. You’re starting to see where this is going, aren’t you?”
 
 Most of the sects, not all of them.
 
-Guessing what came next, I murmured,
-
 “The Maoshan Sect didn’t,” I murmured.
 
-“Right. A small number of Murim sects, including the Maoshan Sect, refused the imperial order to leave Jiangsu and held on to their headquarters. They say the Maoshan Sect was big enough to rival the Nine Sects and One Gang back then, so it could afford to be stubborn. But…”
+“Right. A small number of Murim sects, including the Maoshan Sect, refused the order to leave Jiangsu and held on to their headquarters. They say the Maoshan Sect was large enough to rival the Nine Sects and One Gang back then. I suppose they thought they could afford to be stubborn. But…”
 
-The Great Nation’s first emperor had risen from the dirt and opened a new era—but he hadn’t been as magnanimous as the Maoshan Sect had thought.
+The Great Nation’s first emperor had risen from the dirt and opened a new era. He was not as merciful as the Maoshan Sect had expected.
 
 “According to the surviving records, a hundred thousand Imperial Guards were dispatched. They killed and burned everything. They didn’t leave behind a single blade of grass or even an ant.”
 
@@ -152,7 +150,7 @@ The Great Nation’s first emperor had risen from the dirt and opened a new era�
 
 Jiangsu wasn’t merely the site of the old imperial capital.
 
-It was a Murim-free zone the Imperial Guards had already swept clean, the imperial family’s front yard, still steeped in the first emperor’s legacy.
+It was a Murim-free zone the Imperial Guards had already swept clean, the imperial family’s front yard, still marked by the first emperor.
 
 And what that meant for us was clear.
 
@@ -196,13 +194,13 @@ Just picturing a crowd in colorful matching uniforms rushing to our aid made me 
 
 I could only hope they weren’t from the kids’ class.
 
-It was bad enough to fall for that bait-and-switch pitch: sign up for the martial arts school and get three million mesos—no, three taels in iron coins. If those kids wound up facing the Imperial Guards too, how could I ever look their parents in the eye?
+It would be bad enough if they’d been lured in by some bait-and-switch pitch promising three million mesos—no, three taels in iron coins—for signing up. If they ended up facing the Imperial Guards too, how would I ever look their parents in the eye?
 
 “At least let it be the adult class. The afternoon adult class…”
 
 “Young Master Jin. Young Master Jin?”
 
-I’d been muttering in a daze, but Hong Jin’s call snapped me back to my senses.
+Hong Jin’s voice snapped me out of my daze.
 
 “Ah.”
 

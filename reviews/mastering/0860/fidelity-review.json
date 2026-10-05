@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "They survived in the depths of the mountains and even out on the vast Yangtze.",
+      "defect": "The source says they survive 끈질기게—persistently or stubbornly. The translation omits that emphasis.",
+      "id": "F01",
+      "rationale": "The source emphasizes their tenacity as they endure in widely varied places, reinforcing the weeds image.",
+      "replacement": "They survived stubbornly in the depths of the mountains and even out on the vast Yangtze.",
+      "severity": "minor",
+      "source": "Korean source line 7"
+    },
+    {
+      "confidence": 0.94,
+      "current": "I could see the reasoning.",
+      "defect": "This drops the narrator’s qualification that he understood the reasoning only to some extent.",
+      "id": "F02",
+      "rationale": "어느 정도는 limits the narrator’s understanding; the assembled English states it without that qualification.",
+      "replacement": "I could see the reasoning to a point.",
+      "severity": "minor",
+      "source": "Korean source line 43"
+    },
+    {
+      "confidence": 0.89,
+      "current": "that bait-and-switch pitch",
+      "defect": "“Bait-and-switch” implies a specific sales mechanism—advertising one offer and substituting another—that the source does not establish.",
+      "id": "F03",
+      "rationale": "The source describes a 조삼모사식 sales ploy, but does not say the offer was switched after the customer was lured in.",
+      "replacement": "that deceptive sales pitch",
+      "severity": "minor",
+      "source": "Korean source line 211"
+    }
+  ],
+  "summary": "The translation is largely faithful, with a few minor omissions and one added sales-pitch implication.",
+  "version": 1
+}
