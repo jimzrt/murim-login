@@ -140,7 +140,7 @@ A little help wouldn’t hurt.
 
 *Swish.*
 
-I murmured inwardly and, with all due insolence, brushed a hand against Prince Shangshan’s back.
+With all due insolence, I rested a hand lightly against Prince Shangshan’s back.
 
 The young prince looked up at me, eyes wide at the sudden warmth flowing into him. Then he gave a faint smile and continued.
 
@@ -200,7 +200,7 @@ No. I hoped it would.
 
 If the surgeon had already declared us terminal, we’d have to fight for our lives with everything we had.
 
-And Baek Yeon—the head nurse who served closest to the surgeon—had come bearing new information about that.
+And Baek Yeon—the head nurse who served closest to the surgeon—had come bearing new information.
 
 “By His Majesty the Emperor’s command, Your Highness’s audience has been postponed until tomorrow.”
 
@@ -222,7 +222,7 @@ They appeared to have met before. Baek Yeon cut Hong Jin off firmly and continue
 
 “I said it was His Majesty’s command. Do you need another reason?”
 
-Hong Jin had been about to say something, but closed his mouth.
+Hong Jin opened his mouth to speak, then closed it.
 
 It was the Emperor’s command. There was no questioning or arguing with that. I turned the sudden postponement over in my mind.
 
@@ -244,7 +244,7 @@ The moment Baek Yeon’s gray eyes, marked by many years despite his appearance,
 
 I felt his aura tighten around my whole body.
 
-That immense force had been aimed at me alone.
+That immense force was aimed at me alone.
 
 As soon as I realized it, I roused the internal energy sleeping deep in my lower dantian.
 

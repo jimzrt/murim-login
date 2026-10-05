@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is faithful overall, with one minor shift in how the prince reacts to the narrator’s remark.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 49–50",
+      "current": "seemed taken aback by just how far I’d gone.",
+      "defect": "This frames the prince’s reaction as being to how far the narrator crossed a line. The Korean says the forcefulness or intensity of the narrator’s remark landed strongly; it does not specifically characterize it as having gone too far.",
+      "replacement": "seemed strongly affected by the force of my words.",
+      "rationale": "The source describes the level of the remark as having made a strong impression on the young prince.",
+      "confidence": 0.82
+    }
+  ]
+}
