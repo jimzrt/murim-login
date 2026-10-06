@@ -4,15 +4,15 @@ For a brief moment, it was as if the world had stopped.
 
 Eyes wide with shock. Lips hanging open in a daze.
 
-At the end of countless gazes, a wave of calamity poured over the distant, winding hills of the plateau, blackening them beneath its tide.
+Beyond countless stunned gazes, a wave of calamity poured over the winding hills of the distant plateau, blackening them as it came.
 
 *Graaah!*
 
 A rumble seemed to rise from the depths of an abyss.
 
-The vast shadow everyone had believed to be a mountain roared—the countless monsters crouched within it.
+The vast shadow everyone had believed to be a mountain roared—the countless monsters crouched within it roaring as one.
 
-The earth shook. Torrential rain burst from the sky. They planted a chill in their enemies even deeper than the cold air of the plateau that touched the heavens.
+They shook the earth and scattered the driving rain, sending a chill through their enemies deeper than the cold air of the plateau that touched the heavens.
 
 And the name of that chill was fear.
 
@@ -32,7 +32,7 @@ The dazed mutter that slipped from one Daoist’s lips spoke for everyone.
 
 Anyone who’d glimpsed the enemy in that flash of lightning couldn’t help but think of a god.
 
-They didn’t know the exact name or form of that mighty being who must exist somewhere among the clouds and stars. What did such a trivial detail matter?
+They might not know the name or form of that mighty being somewhere among the clouds and stars, but what did such trivial details matter?
 
 You long for light most desperately when you’re trapped in pitch darkness.
 
@@ -44,19 +44,19 @@ Jin Wikyung gritted his teeth.
 
 The ruined city. The absence of any trace of life.
 
-The answers to every question he’d asked came rushing toward them, hundreds of zhang away, so clear and horrifying that they became reality.
+The answers to all his questions were rushing toward him from hundreds of zhang away, horrifyingly clear.
 
 Straight toward the Murim allied forces’ vanguard. Straight toward where they stood.
 
 “Great Hero Song.”
 
-The meaning in the quiet call was clear. Song Ho, the Thousand-Faced Fox, nodded and hurled a small cylinder with all his might. No one knew when he’d taken it from inside his robes.
+The meaning in the quiet call was clear. Song Ho, the Thousand-Faced Fox, nodded and hurled a small cylinder with all his might. Jin Wikyung hadn’t even seen him take it from his robes.
 
 *Boom!*
 
 A signal firework made by the artisans of the Sichuan Tang Clan burst in a dazzling explosion.
 
-Through the sparks drifting slowly down and painting the sky, the hideous monsters appeared once more.
+Through the sparks drifting slowly down across the sky, the hideous monsters appeared once more.
 
 Yet the light was bright enough to be seen from the rear of the army, more than ten li away, and the fierce blast briefly washed away the people’s fear.
 
@@ -98,7 +98,7 @@ That was why they’d stood beneath one banner and prepared to face death.
 
 “Neither I nor any of you came here as martial artists!”
 
-The ground trembled harder. Jin Wikyung’s voice rang out with rising force.
+The ground trembled harder. Jin Wikyung’s voice rose above it.
 
 “We stand here as human beings! As someone’s children, as someone’s parents, here to protect what’s ours!”
 
@@ -114,7 +114,7 @@ Even so—
 
 As if breaking chains around their wrists, they drew their weapons.
 
-Together, they pointed them toward the wave of monsters, now less than a hundred zhang away.
+Together, they aimed them at the wave of monsters, now only a hundred zhang away.
 
 Their breathing quickened, white puffs spilling from their mouths.
 
@@ -122,7 +122,7 @@ Their mouths felt gritty, as though they’d chewed a handful of sand. Their hea
 
 But no one retreated now.
 
-Even as the horses that couldn’t overcome their fear broke free of their masters and bolted in every direction.
+Not when horses broke free of their masters and bolted in every direction.
 
 Not when the hundred zhang between them shrank by half, then half again.
 
@@ -200,19 +200,19 @@ Jin Mukyung thought of one person.
 
 His younger brother, whose whole life had changed overnight—and who had then changed everything around him.
 
-He wasn’t here, but that was a good thing.
+He wasn’t here, and that was a relief.
 
-The more monsters filled the view before them, the smaller the threat to Jin Taekyung would be.
+The more monsters they faced here, the fewer would threaten Jin Taekyung.
 
 *That guy, at least, has to survive to the end.*
 
-Jin Mukyung took a deep breath, stepped out of the tightly formed defensive formation, and walked forward.
+Jin Mukyung took a deep breath and stepped out of the tightly formed defensive formation.
 
 That single step closed the last distance between humans and monsters.
 
 *Whoooosh!*
 
-A monster’s enormous fist plunged down with a fierce burst of air. Its horrible stench seeped deep into his nose, but he didn’t care.
+A monster’s enormous fist plunged down with a fierce rush of air. Its horrible stench filled Jin Mukyung’s nose, but he didn’t care.
 
 Whatever the outcome of this battle, by the time it was over, the stench of blood would blanket the entire plateau—worse than anything he smelled now.
 
@@ -222,7 +222,7 @@ Blue Wave.
 
 True to its name, a blue wave of Force surged up once again.
 
-It silently carved apart the fist bearing down on them, swallowing the monsters at the front whole.
+It silently carved apart the fist bearing down on him and swallowed the monsters at the front whole.
 
 *Crunch!*
 
@@ -232,7 +232,7 @@ The monsters, no longer human or beast, collapsed with mournful final cries.
 
 But why?
 
-The stench rising from their rotting bodies wasn’t as foul as the one Jin Mukyung had smelled before. And a new light was layered over the blue Sword Force that blazed through the surroundings, illuminating and tearing through everything in its path.
+The stench rising from their rotting bodies wasn’t as foul as the one Jin Mukyung had smelled before. And a new light was settling over the blue Sword Force that lit up the surroundings as it slashed through everything in its path.
 
 Like the sunset gently coloring the world as the sun slowly sank.
 
@@ -252,13 +252,13 @@ No one had noticed exactly when he appeared or how he’d moved.
 
 Not even Jin Mukyung.
 
-All that remained was the rich scent of plum blossoms, lingering at the tip of his nose and erasing even the monsters’ stench.
+Only the rich scent of plum blossoms lingered, erasing even the monsters’ stench.
 
 “Good. I’m not too late.”
 
 Having reached the pinnacle of the sword long ago, he was the Number One Sword Under Heaven. With no one beneath this vast sky who could compare to him, he was the brightest star above the clouds.
 
-The Sword Saint, Mae Jonghak, spoke, his eyes sinking deep.
+The Sword Saint, Mae Jonghak, spoke, his gaze deep and still.
 
 “Then let’s begin.”
 

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "Sharp enough to cut through raindrops, wind, and air—and even a thousand-geun boulder that had lain there for centuries—in a single silent stroke.",
+      "defect": "The Korean says the boulder held centuries of time; it does not establish that it had lain in that location for centuries.",
+      "id": "F01",
+      "rationale": "“수백 년의 세월을 간직한” describes the centuries the boulder contains or embodies, not how long it has occupied a particular place.",
+      "replacement": "Sharp enough to cut through raindrops, wind, and air—and even a thousand-geun boulder steeped in centuries of time—in a single silent stroke.",
+      "severity": "minor",
+      "source": "Line 153"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one minor added physical detail about the boulder’s age and location.",
+  "version": 1
+}
