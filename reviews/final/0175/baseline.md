@@ -54,7 +54,7 @@ His features were badly contorted, as though he were trapped in a nightmare.
 
 At that moment, Jin Taekyung muttered something like a groan.
 
-“Mmm… kimochiii.[^1]”
+“Mmm… kimochiii.”
 
 “…”
 
@@ -66,7 +66,7 @@ He watched Jin Taekyung twitch over and over, murmuring “kimochi” all the wh
 
 *What a strange fellow.*
 
-He left only after “kimochi” turned into “yamete.”[^2]
+He stayed until “kimochi” turned into “yamete.”
 
 Unable to endure any more, Jeok Cheongang fled the room with goose bumps prickling across his forearms.
 
@@ -178,7 +178,7 @@ There was no need to explain who I meant. Hyuk Mujin lowered his voice.
 
 “He is? For how long?”
 
-“I’m not sure. I only woke up a little while ago myself, but I asked the server, and he said they’d already been at it for more than three shichen.[^3]”
+“I’m not sure. I only woke up a little while ago myself, but I asked the server, and he said they’d already been at it for more than three shichen.”
 
 I did not even need to focus my internal energy.
 
@@ -290,7 +290,7 @@ I snorted hard enough to nearly launch a booger out of my nose.
 
 The Fire King had killed a thousand Demonic Cultists because they set fire near his home.
 
-Jopil might have been crazy, but unless he had gotten Botox injected into his liver,[^4] he could not even have dreamed of doing such a thing.
+Jopil might have been crazy, but unless he had gotten Botox injected into his liver, he could not even have dreamed of doing such a thing.
 
 After a moment’s hesitation, Hyuk Mujin nodded.
 
@@ -331,6 +331,8 @@ Under normal circumstances, he would have made a disgusted face and complained a
 I held up three fingers and began folding them down one by one.
 
 “One, the Flame Divine Palm. Two, the Ten-Thousand-Year Cold Iron sword. And finally, three…”
+
+I folded down the last finger.
 
 “The Blazing Flame Divine Pill.”
 
@@ -380,7 +382,7 @@ In that moment, I saw a bird.
 
 How dare he try to escape before me?
 
-And he had even taken the satchel containing our silver nyang[^5] and food!
+And he had even taken the satchel containing our silver nyang and food!
 
 “Hey, Hyuk Mujin!”
 
@@ -416,7 +418,7 @@ A wrinkled face suddenly appeared. It looked up at me, my body draped over the w
 
 “Where were you going?”
 
-After witnessing 14,000,605 possible futures,[^6] I arrived at the most appropriate answer.
+After witnessing 14,000,605 possible futures, I arrived at the most appropriate answer.
 
 “To the privy.”
 
@@ -425,10 +427,3 @@ After witnessing 14,000,605 possible futures,[^6] I arrived at the most appropri
 “No.”
 
 Yeah. I knew that would not work.
-
-[^1]: *Kimochi* is Japanese for “feeling”; in this context, it means “that feels good.”
-[^2]: *Yamete* is Japanese for “stop it.”
-[^3]: A *shichen* is a traditional Chinese time unit of about two hours; three shichen is about six hours.
-[^4]: In Korean, the liver is associated figuratively with courage. Botox injected into it is an absurd image of someone gaining enough nerve to attempt the theft.
-[^5]: A *nyang* is a traditional unit of currency; here it refers to silver money.
-[^6]: The number alludes to Doctor Strange viewing 14,000,605 possible futures in *Avengers: Infinity War*.
