@@ -20,7 +20,7 @@ Beep.
 
 “Here, it says the daily increase was 5.0 points. What’s the problem, you ask? This graph shows how magical power distribution changed at the beginning of the Great Cataclysm.”
 
-“In other words, we’ve caught up to more than half of the magical power levels from the Great Cataclysm. In the Middle East, where Monster Waves and Gate mutations have been occurring in particularly high numbers, it’s no exaggeration to say that a second Great Cataclysm has begun.”
+“In other words, today’s increase is already more than half the daily increase we saw then. In the Middle East, where Monster Waves and Gate mutations have been especially frequent, it’s no exaggeration to say that a second Great Cataclysm has begun.”
 
 “And on top of that, the situation around Moscow is already… I’m sure you all know. There’s only one thing I can say.”
 
@@ -48,7 +48,7 @@ Beep.
 
 “I won’t deny the odds are low. But understand this: compared with when the Great Cataclysm first began, that figure is dramatically higher.”
 
-“I know. According to that excellent paper that even won you a Nobel Prize, the figure was 0.2 percent.”
+“I know. According to that excellent paper that won you a Nobel Prize, the figure was 0.2 percent.”
 
 “Congratulations. Unlike your ears, your eyes seem to be in the right place.”
 
@@ -70,11 +70,11 @@ Beep.
 
 “I know exactly what people want. Peace. A chance to protect the lives of the people they love.”
 
-“Bullshit. Listen, young man, cut the nonsense. You’re nothing but a despicable coward. You’re hypnotizing yourself into thinking you speak for all of humanity while arguing that we should offer up a living sacrifice. And not just anyone—two heroes who’ve done more for us than anyone else.”
+“Bullshit. Listen, young man, cut the nonsense. You’re nothing but a despicable coward. You’ve convinced yourself you speak for all humanity while arguing that we should offer up living sacrifices. And not just anyone—two heroes who’ve done more for us than anyone else.”
 
 “Sky and Jin are heroes who’ll be remembered throughout human history. I’m grateful for their sacrifices, too.”
 
-“If that’s true, then shut your damn mouth and go home right now. Hug your family, one by one. Then go to your study and take out the pistol you’ve hidden there. No need to bother writing a will. Everyone watching this broadcast, myself included, knows why you need to die.”
+“If that’s true, shut your damn mouth and go home. Hug your family, one by one. Then go to your study and take out the pistol you’ve hidden there. No need to bother writing a will. Everyone watching this broadcast, myself included, knows why you need to die.”
 
 “My, how rude. I’m simply saying I expect those two to choose a noble sacrifice of their own accord, as great heroes would, for the sake of billions of people—”
 
@@ -98,17 +98,17 @@ BEEEEEP!
 
 Beep.
 
-At last, silence settled over the room. The Skeleton King stared without a word at the holographic TV, now giving off only a dim glow. Then he spoke.
+At last, silence settled over the room. The Skeleton King stared at the holographic TV, now giving off only a dim glow. Then he spoke.
 
 “Humans.”
 
 His voice was thick with unconcealed disgust. Chuck Hagel, who had been staring at the whiskey bottle on the table, answered him.
 
-“As a human, I have to say, that’s a weird thing to listen to.”
+“As a human, that’s a strange thing to hear.”
 
-“Why don’t you try arguing against it, then?”
+“Then why don’t you argue?”
 
-“I’m not going to. He wasn’t wrong. Especially that last guy. He deserved to get shot.”
+“I won’t. You’re not wrong. Especially about that last guy. He deserved to get shot.”
 
 The Skeleton King nodded.
 
@@ -122,7 +122,7 @@ The man looked to be in his nineties and, far from being Awakened, seemed to nee
 
 “Pity.”
 
-“I agree completely. But it’s better for that guy to stay alive. If he died there, it could actually hurt public opinion.”
+“I couldn’t agree more, but it’s better if he lives. If he dies, it could actually sway public opinion the wrong way.”
 
 “……Fair enough.”
 
@@ -130,7 +130,7 @@ In the silence that followed, the Skeleton King replayed the scenes he’d seen 
 
 Anxiety and fear boiling over everywhere.
 
-The magical power distribution soaring toward the levels of the Great Cataclysm—and the nonsense now being broadcast openly across the world.
+The magical power distribution soaring toward the rate seen during the Great Cataclysm. And now, nonsense was being broadcast openly across the world.
 
 Things were happening everywhere that the Skeleton King simply couldn’t understand.
 
@@ -154,7 +154,7 @@ Chuck Hagel glared at the Skeleton King, then shrugged.
 
 “Yeah. Everything you’ve seen and felt while you’ve been with us. That’s what I think, anyway.”
 
-“Humans are stupid enough to make me want to crack open their skulls and examine their brains, and so greedy and cowardly it’s hard to believe. That’s their essence?”
+“Being so stupid I want to crack open your skulls and examine your brains? Being unbelievably greedy and cowardly? That’s the essence of humanity?”
 
 “I wish I could deny it, but that’s part of it, too. It isn’t all you’ve seen, though, is it?”
 
@@ -172,7 +172,7 @@ But…
 
 “Listen, my bony friend. There’s no such thing as impossible.”
 
-Chuck Hagel ran his fingers over the whiskey bottle, still unopened after several hours, as if testing the limits of his own patience. Then he added:
+Chuck Hagel ran his fingers over the whiskey bottle, still unopened after several hours, as though testing his own patience.
 
 “Things that should never happen are happening anyway.”
 
@@ -190,9 +190,9 @@ Chuck Hagel ran his fingers over the whiskey bottle, still unopened after severa
 
 “……!”
 
-“The biggest problem is that Jin is exactly the kind of person who’d do it.”
+“The biggest problem is that Jin is exactly the kind of person who might.”
 
-For a moment, the Skeleton King bit down on his lip without realizing it.
+The Skeleton King bit his lip without realizing it.
 
 Chuck was right.
 
@@ -202,7 +202,7 @@ He was always scolding and teasing the Skeleton King, but he carried a heavier b
 
 And that made the Skeleton King more anxious than ever.
 
-If the world wanted him dead, Jin Taekyung was exactly the sort of person who would sacrifice himself.
+If the world wanted him dead, Jin Taekyung was someone who might well sacrifice himself.
 
 “That’s ridiculous. Even if that treacherous human… even if Jin Taekyung sacrificed himself alongside Sky, how could we be sure Morgoth would keep his promise?”
 
@@ -210,7 +210,7 @@ If the world wanted him dead, Jin Taekyung was exactly the sort of person who wo
 
 It was true.
 
-As the news had just reported, Morgoth had kept his promise.
+As the news had reported, Morgoth had kept his promise.
 
 He’d left the governments of the twenty-odd countries that had declared their surrender in place, Russia among them, and completely stopped his monsters from killing people.
 
@@ -220,11 +220,11 @@ Hope that Morgoth was different from the Demon King Asmodeus.
 
 Hope that, even if they could no longer enjoy the freedom they’d had before, countless lives could be saved.
 
-“But the chance that Morgoth will kill those two and break his promise…”
+“But Morgoth might kill those two and break his promise…”
 
-“Is overwhelmingly high. There’s no question about it. At least, we know that with absolute certainty. But do you think people, half-crazed with fear, are going to think that way?”
+“The odds are overwhelmingly high. We know that better than anyone. But do you think people half-crazed with fear are going to consider it?”
 
-Chuck Hagel continued, his voice growing rougher.
+Chuck Hagel’s voice grew rough.
 
 “By the time those bastards realize their mistake, it’ll be too late. The only Hunter who can fight Morgoth right now will be inside that bastard’s stomach.”
 

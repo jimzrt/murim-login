@@ -1,58 +1,58 @@
 # Chapter 1155
 
-“Russia has officially declared its surrender. General Vasily Gerasimov, current Chief of the General Staff of the Russian Armed Forces and acting president since the Moscow catastrophe, has…”
+“Russia has officially declared its surrender. General Vasily Gerasimov, current Chief of the General Staff of the Russian Armed Forces and acting president appointed in the immediate aftermath of the Moscow catastrophe, has…”
 
 Beep.
 
-“Eastern European countries, particularly Ukraine and Belarus, which suffered severe damage from yesterday’s catastrophe in Moscow, are mobilizing all available forces along their borders…”
+“Eastern European countries, particularly Ukraine and Belarus, which suffered severe damage in the aftermath of yesterday’s Moscow catastrophe, are mobilizing all available forces and deploying them along their borders…”
 
 Beep.
 
-“We now bring you an update on the current disaster. Over the past eleven days, the world has seen an average of more than four Monster Waves and around fifty Gate mutations every day.”
+“We now bring you an update on the current disaster. Over the past eleven days, the world has seen an average of more than four Monster Waves and around fifty cases of Gate mutations every day.”
 
 “That’s truly horrifying news. Amy, what about the magical power distribution?”
 
-“I’m afraid I have bad news, Steve. Today’s magical power distribution rose by 2.8 points.”
+“I’m afraid it’s bad news, Steve. Today’s magical power distribution rose by 2.8 points.”
 
 “What?”
 
-“Yes. A full 2.8 points. If you’re having trouble judging what that means, take a close look at this graphic.”
+“Yes. A full 2.8 points. If you’re having trouble judging what that figure means, please take a close look at this graphic.”
 
-“Here, it says the daily increase was 5.0 points. What’s the problem, you ask? This graph shows how magical power distribution changed at the beginning of the Great Cataclysm.”
+“Here, it says the increase was 5.0 points per day. So what’s the problem, you ask? For reference, this graph shows the changes in magical power distribution at the beginning of the Great Cataclysm.”
 
 “In other words, we’ve caught up to more than half of the magical power levels from the Great Cataclysm. In the Middle East, where Monster Waves and Gate mutations have been occurring in particularly high numbers, it’s no exaggeration to say that a second Great Cataclysm has begun.”
 
-“And on top of that, the situation around Moscow is already… I’m sure you all know. There’s only one thing I can say.”
+“And on top of that, the situation around Moscow is already… I’m sure everyone knows. There’s only one thing I can say.”
 
 “May God be with you.”
 
 Beep.
 
-“Breaking news. Morgoth has accepted Russia’s surrender. As of 16:30 South Standard Time, the Russian Federation will disarm completely and, like the twenty-odd countries that surrendered before it, retain its current system of government.”
+“Breaking news. Morgoth has accepted Russia’s surrender. Starting at 16:30 South Standard Time, the Russian Federation will disarm completely and, like the more than twenty countries that surrendered before it, retain its current system of government.”
 
-“Meanwhile, a large number of Hunter groups opposed to the decision have reportedly engaged monsters in battles throughout Russia…”
+“Meanwhile, a large number of Hunter groups opposed to this decision have reportedly engaged monsters in battles throughout Russia…”
 
 Beep.
 
 “…I agree with part of what you’re saying. Our situation is extremely difficult right now.”
 
-“Should we take that to mean humanity ought to surrender?”
+“Should we understand that to mean humanity ought to surrender?”
 
 “Not at all. I’m simply speaking on the basis of statistical evidence.”
 
-“But according to what you said earlier, Doctor, humanity has no chance of defeating Morgoth, does it?”
+“But according to what you said earlier, Doctor, there’s no chance of humanity defeating Morgoth, is there?”
 
-“I’m beginning to wonder if your ears are attached to your anus. As I’ve told you several times, the chance is exactly 5.2 percent.”
+“At this point, I’m beginning to wonder if your ears are attached to your anus. As I’ve said several times now, it’s exactly 5.2 percent.”
 
 “That’s an embarrassingly low probability. I’m sure our viewers are thinking the same thing.”
 
-“I won’t deny the odds are low. But understand this: compared with when the Great Cataclysm first began, that figure is dramatically higher.”
+“Yes, I won’t deny the odds are low. But remember this clearly: compared with when the Great Cataclysm first began, that figure is dramatically higher.”
 
 “I know. According to that excellent paper that even won you a Nobel Prize, the figure was 0.2 percent.”
 
 “Congratulations. Unlike your ears, your eyes seem to be in the right place.”
 
-“Thank you. But I can’t overlook the fact that the 0.2 percent in your paper applied only to the period before Sky appeared.”
+“Thank you. But I can’t help pointing out that the 0.2 percent in your paper applied only to the period before Sky appeared.”
 
 “True. But even Sky—”
 
@@ -60,11 +60,11 @@ Beep.
 
 “You!”
 
-“It’s a reality too appalling to say aloud, but we can’t ignore it forever. Before it’s too late, we need to face the problem in front of us. Don’t you agree?”
+“It’s a reality too appalling to say aloud, but that doesn’t mean we can keep ignoring it forever. Before it’s too late, we need to face the problem right in front of us. Don’t you agree?”
 
 “……”
 
-“Thirty years ago, we had no choice. We could only resist with everything we had. But Morgoth is offering peace, and the countries that surrendered to him have kept their governments and are calming their people.”
+“Thirty years ago, we had no options. We could only resist with everything we had. But Morgoth is offering peace now, and the countries that surrendered to him really are keeping their governments and calming their people.”
 
 “……Morgoth is a monster. A fucking monster. Do you really not understand what that cunning bastard wants?”
 
@@ -76,7 +76,7 @@ Beep.
 
 “If that’s true, then shut your damn mouth and go home right now. Hug your family, one by one. Then go to your study and take out the pistol you’ve hidden there. No need to bother writing a will. Everyone watching this broadcast, myself included, knows why you need to die.”
 
-“My, how rude. I’m simply saying I expect those two to choose a noble sacrifice of their own accord, as great heroes would, for the sake of billions of people—”
+“My, how rude. I’m simply saying that I expect those two to make a noble sacrifice of their own accord, as great heroes would, for the sake of billions of people—”
 
 “Fine. Then I have no choice.”
 
@@ -102,7 +102,7 @@ At last, silence settled over the room. The Skeleton King stared without a word 
 
 “Humans.”
 
-His voice was thick with unconcealed disgust. Chuck Hagel, who had been staring at the whiskey bottle on the table, answered him.
+The word dripped with unconcealed disgust. Chuck Hagel, who had been staring at the whiskey bottle on the table, answered him.
 
 “As a human, I have to say, that’s a weird thing to listen to.”
 
@@ -112,7 +112,7 @@ His voice was thick with unconcealed disgust. Chuck Hagel, who had been staring 
 
 The Skeleton King nodded.
 
-Even he thought the old doctor, the foremost scholar on the Great Cataclysm and magical power, had handled the situation admirably.
+Even he had to admit that the old doctor—one of the foremost scholars on the Great Cataclysm and magical power—had handled the situation remarkably well.
 
 The man looked to be in his nineties and, far from being Awakened, seemed to need a shot of stimulants just to move. But America’s venerable martial art of gun-fu had no age limit.
 
@@ -140,13 +140,13 @@ Things were happening everywhere that the Skeleton King simply couldn’t unders
 
 “What is the essence of humanity?”
 
-“That’s a difficult question. Philosophy isn’t really my field.”
+“That’s a difficult question to answer. Philosophy isn’t really my field.”
 
 “I already know you’re not particularly intelligent, so don’t worry.”
 
 “……Fine.”
 
-Chuck Hagel glared at the Skeleton King, then shrugged.
+Chuck Hagel, who’d been glaring at the Skeleton King, shrugged.
 
 “All of it.”
 
@@ -156,7 +156,7 @@ Chuck Hagel glared at the Skeleton King, then shrugged.
 
 “Humans are stupid enough to make me want to crack open their skulls and examine their brains, and so greedy and cowardly it’s hard to believe. That’s their essence?”
 
-“I wish I could deny it, but that’s part of it, too. It isn’t all you’ve seen, though, is it?”
+“I wish I could deny it, but that’s part of it, too. But that’s not all you’ve seen, is it?”
 
 Of course it wasn’t.
 
@@ -164,29 +164,29 @@ If all the Skeleton King had ever seen were those ugly sides of humanity, he nev
 
 He liked humans.
 
-He’d always felt different from ordinary monsters. Ever since he’d met a human in the dark forest inside a Gate, he’d stayed with them.
+He’d always felt that he was different from ordinary monsters. And ever since he’d met a human in the dark forest inside a Gate, he’d stayed with them.
 
 But…
 
-“Even so, this… This shouldn’t be possible.”
+“Still, this… This shouldn’t be possible.”
 
-“Listen, my bony friend. There’s no such thing as impossible.”
+“Listen, my bony friend. There’s nothing in this world that’s impossible.”
 
 Chuck Hagel ran his fingers over the whiskey bottle, still unopened after several hours, as if testing the limits of his own patience. Then he added:
 
-“Things that should never happen are happening anyway.”
+“Things that should never happen are just happening anyway.”
 
 “Then…”
 
-“Right. More people will start agreeing with that damn ‘noble sacrifice’ the guy who just got shot was talking about. Humanity’s running out of time, but it has a choice.”
+“Right. More people will start agreeing with that damn ‘noble sacrifice’ the guy who just got shot was talking about. Humanity’s running out of time, but we still have a choice.”
 
-“Even if humans have an evil side, they’d offer up the heroes who risked their lives fighting for them?”
+“Even if humans have evil in them, they’d offer up the heroes who risked their lives fighting for them as sacrifices?”
 
 “Offer them up? What are you talking about?”
 
 “……?”
 
-“I said ‘sacrifice.’ That’s what they really want. To look away without getting their hands dirty or taking the blame. To leave the people they’d sacrifice with no choice but to decide for themselves.”
+“I said ‘sacrifice.’ That’s what they really want. To look away without getting their hands dirty or having to hear anyone blame them. To make the people being sacrificed feel like they have no choice but to choose it themselves.”
 
 “……!”
 
@@ -194,31 +194,31 @@ Chuck Hagel ran his fingers over the whiskey bottle, still unopened after severa
 
 For a moment, the Skeleton King bit down on his lip without realizing it.
 
-Chuck was right.
+That was right.
 
-That was the kind of human Jin Taekyung was.
+Jin Taekyung was that kind of person.
 
-He was always scolding and teasing the Skeleton King, but he carried a heavier burden than anyone else in the world.
+He was always scolding and teasing him, but he carried a heavier burden than anyone else in the world.
 
-And that made the Skeleton King more anxious than ever.
+And that was why an even greater unease came over him.
 
 If the world wanted him dead, Jin Taekyung was exactly the sort of person who would sacrifice himself.
 
-“That’s ridiculous. Even if that treacherous human… even if Jin Taekyung sacrificed himself alongside Sky, how could we be sure Morgoth would keep his promise?”
+“That’s ridiculous. Even if that treacherous human, Jin Taekyung, sacrificed himself alongside Sky, how could we be sure Morgoth would keep his promise?”
 
-“Humans see what they want to see and believe what they want to believe. Morgoth knows that all too well.”
+“Humans see what they want to see and believe what they want to believe. Morgoth knows that better than anyone.”
 
 It was true.
 
 As the news had just reported, Morgoth had kept his promise.
 
-He’d left the governments of the twenty-odd countries that had declared their surrender in place, Russia among them, and completely stopped his monsters from killing people.
+He’d maintained the governments of the more than twenty countries that had already declared their surrender, Russia among them, and completely restrained the monsters from killing anyone.
 
 And that had given people hope.
 
 Hope that Morgoth was different from the Demon King Asmodeus.
 
-Hope that, even if they could no longer enjoy the freedom they’d had before, countless lives could be saved.
+Hope that, even if they couldn’t enjoy the freedom they’d had before, they could still save countless lives.
 
 “But the chance that Morgoth will kill those two and break his promise…”
 
@@ -226,6 +226,6 @@ Hope that, even if they could no longer enjoy the freedom they’d had before, c
 
 Chuck Hagel continued, his voice growing rougher.
 
-“By the time those bastards realize their mistake, it’ll be too late. The only Hunter who can fight Morgoth right now will be inside that bastard’s stomach.”
+“By the time those bastards realize what they’ve done, it’ll be too late. The only Hunter who can fight Morgoth right now will be inside that bastard’s stomach.”
 
-As Chuck’s voice rang with pent-up anger, a thought suddenly flashed through the Skeleton King’s mind.
+The instant those words of tightly coiled anger rang out, a thought suddenly flashed through the Skeleton King’s mind.

@@ -1,0 +1,1067 @@
+{
+  "baseline_blocks": 116,
+  "baseline_sha256": "ebcfffc00c4029b94ff1236a5c9e9482cb37bfdbb5c42c4f6c075c74b5512b70",
+  "global_terminology_alerts": [],
+  "hunk_count": 58,
+  "hunks": [
+    {
+      "baseline": "“Russia has officially declared its surrender. General Vasily Gerasimov, current Chief of the General Staff of the Russian Armed Forces and acting president appointed in the immediate aftermath of the Moscow catastrophe, has…”",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "“Russia has officially declared its surrender. General Vasily Gerasimov, current Chief of the General Staff of the Russian Armed Forces and acting president since the Moscow catastrophe, has…”",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Eastern European countries, particularly Ukraine and Belarus, which suffered severe damage in the aftermath of yesterday’s Moscow catastrophe, are mobilizing all available forces and deploying them along their borders…”",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "“Eastern European countries, particularly Ukraine and Belarus, which suffered severe damage from yesterday’s catastrophe in Moscow, are mobilizing all available forces along their borders…”",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We now bring you an update on the current disaster. Over the past eleven days, the world has seen an average of more than four Monster Waves and around fifty cases of Gate mutations every day.”",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "13",
+      "sol": "“We now bring you an update on the current disaster. Over the past eleven days, the world has seen an average of more than four Monster Waves and around fifty Gate mutations every day.”",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m afraid it’s bad news, Steve. Today’s magical power distribution rose by 2.8 points.”",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "17",
+      "sol": "“I’m afraid I have bad news, Steve. Today’s magical power distribution rose by 2.8 points.”",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. A full 2.8 points. If you’re having trouble judging what that figure means, please take a close look at this graphic.”",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "21",
+      "sol": "“Yes. A full 2.8 points. If you’re having trouble judging what that means, take a close look at this graphic.”",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Here, it says the increase was 5.0 points per day. So what’s the problem, you ask? For reference, this graph shows the changes in magical power distribution at the beginning of the Great Cataclysm.”",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "23",
+      "sol": "“Here, it says the daily increase was 5.0 points. What’s the problem, you ask? This graph shows how magical power distribution changed at the beginning of the Great Cataclysm.”",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“In other words, we’ve caught up to more than half of the magical power levels from the Great Cataclysm. In the Middle East, where Monster Waves and Gate mutations have been occurring in particularly high numbers, it’s no exaggeration to say that a second Great Cataclysm has begun.”",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "25",
+      "sol": "“In other words, today’s increase is already more than half the daily increase we saw then. In the Middle East, where Monster Waves and Gate mutations have been especially frequent, it’s no exaggeration to say that a second Great Cataclysm has begun.”",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "magical power"
+        }
+      ]
+    },
+    {
+      "baseline": "“And on top of that, the situation around Moscow is already… I’m sure everyone knows. There’s only one thing I can say.”",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "27",
+      "sol": "“And on top of that, the situation around Moscow is already… I’m sure you all know. There’s only one thing I can say.”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Breaking news. Morgoth has accepted Russia’s surrender. Starting at 16:30 South Standard Time, the Russian Federation will disarm completely and, like the more than twenty countries that surrendered before it, retain its current system of government.”",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "33",
+      "sol": "“Breaking news. Morgoth has accepted Russia’s surrender. As of 16:30 South Standard Time, the Russian Federation will disarm completely and, like the twenty-odd countries that surrendered before it, retain its current system of government.”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Meanwhile, a large number of Hunter groups opposed to this decision have reportedly engaged monsters in battles throughout Russia…”",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "35",
+      "sol": "“Meanwhile, a large number of Hunter groups opposed to the decision have reportedly engaged monsters in battles throughout Russia…”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Should we understand that to mean humanity ought to surrender?”",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "41",
+      "sol": "“Should we take that to mean humanity ought to surrender?”",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But according to what you said earlier, Doctor, there’s no chance of humanity defeating Morgoth, is there?”",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "45",
+      "sol": "“But according to what you said earlier, Doctor, humanity has no chance of defeating Morgoth, does it?”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“At this point, I’m beginning to wonder if your ears are attached to your anus. As I’ve said several times now, it’s exactly 5.2 percent.”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "47",
+      "sol": "“I’m beginning to wonder if your ears are attached to your anus. As I’ve told you several times, the chance is exactly 5.2 percent.”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes, I won’t deny the odds are low. But remember this clearly: compared with when the Great Cataclysm first began, that figure is dramatically higher.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "51",
+      "sol": "“I won’t deny the odds are low. But understand this: compared with when the Great Cataclysm first began, that figure is dramatically higher.”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I know. According to that excellent paper that even won you a Nobel Prize, the figure was 0.2 percent.”",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "53",
+      "sol": "“I know. According to that excellent paper that won you a Nobel Prize, the figure was 0.2 percent.”",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Thank you. But I can’t help pointing out that the 0.2 percent in your paper applied only to the period before Sky appeared.”",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "57",
+      "sol": "“Thank you. But I can’t overlook the fact that the 0.2 percent in your paper applied only to the period before Sky appeared.”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s a reality too appalling to say aloud, but that doesn’t mean we can keep ignoring it forever. Before it’s too late, we need to face the problem right in front of us. Don’t you agree?”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "65",
+      "sol": "“It’s a reality too appalling to say aloud, but we can’t ignore it forever. Before it’s too late, we need to face the problem in front of us. Don’t you agree?”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Thirty years ago, we had no options. We could only resist with everything we had. But Morgoth is offering peace now, and the countries that surrendered to him really are keeping their governments and calming their people.”",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "69",
+      "sol": "“Thirty years ago, we had no choice. We could only resist with everything we had. But Morgoth is offering peace, and the countries that surrendered to him have kept their governments and are calming their people.”",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Bullshit. Listen, young man, cut the nonsense. You’re nothing but a despicable coward. You’re hypnotizing yourself into thinking you speak for all of humanity while arguing that we should offer up a living sacrifice. And not just anyone—two heroes who’ve done more for us than anyone else.”",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "75",
+      "sol": "“Bullshit. Listen, young man, cut the nonsense. You’re nothing but a despicable coward. You’ve convinced yourself you speak for all humanity while arguing that we should offer up living sacrifices. And not just anyone—two heroes who’ve done more for us than anyone else.”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If that’s true, then shut your damn mouth and go home right now. Hug your family, one by one. Then go to your study and take out the pistol you’ve hidden there. No need to bother writing a will. Everyone watching this broadcast, myself included, knows why you need to die.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "79",
+      "sol": "“If that’s true, shut your damn mouth and go home. Hug your family, one by one. Then go to your study and take out the pistol you’ve hidden there. No need to bother writing a will. Everyone watching this broadcast, myself included, knows why you need to die.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“My, how rude. I’m simply saying that I expect those two to make a noble sacrifice of their own accord, as great heroes would, for the sake of billions of people—”",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "81",
+      "sol": "“My, how rude. I’m simply saying I expect those two to choose a noble sacrifice of their own accord, as great heroes would, for the sake of billions of people—”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At last, silence settled over the room. The Skeleton King stared without a word at the holographic TV, now giving off only a dim glow. Then he spoke.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "103",
+      "sol": "At last, silence settled over the room. The Skeleton King stared at the holographic TV, now giving off only a dim glow. Then he spoke.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The word dripped with unconcealed disgust. Chuck Hagel, who had been staring at the whiskey bottle on the table, answered him.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "107",
+      "sol": "His voice was thick with unconcealed disgust. Chuck Hagel, who had been staring at the whiskey bottle on the table, answered him.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“As a human, I have to say, that’s a weird thing to listen to.”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "109",
+      "sol": "“As a human, that’s a strange thing to hear.”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why don’t you try arguing against it, then?”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "111",
+      "sol": "“Then why don’t you argue?”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m not going to. He wasn’t wrong. Especially that last guy. He deserved to get shot.”",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "113",
+      "sol": "“I won’t. You’re not wrong. Especially about that last guy. He deserved to get shot.”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Even he had to admit that the old doctor—one of the foremost scholars on the Great Cataclysm and magical power—had handled the situation remarkably well.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "117",
+      "sol": "Even he thought the old doctor, the foremost scholar on the Great Cataclysm and magical power, had handled the situation admirably.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I agree completely. But it’s better for that guy to stay alive. If he died there, it could actually hurt public opinion.”",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "127",
+      "sol": "“I couldn’t agree more, but it’s better if he lives. If he dies, it could actually sway public opinion the wrong way.”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The magical power distribution soaring toward the levels of the Great Cataclysm—and the nonsense now being broadcast openly across the world.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "135",
+      "sol": "The magical power distribution soaring toward the rate seen during the Great Cataclysm. And now, nonsense was being broadcast openly across the world.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s a difficult question to answer. Philosophy isn’t really my field.”",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "145",
+      "sol": "“That’s a difficult question. Philosophy isn’t really my field.”",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Chuck Hagel, who’d been glaring at the Skeleton King, shrugged.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "151",
+      "sol": "Chuck Hagel glared at the Skeleton King, then shrugged.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Humans are stupid enough to make me want to crack open their skulls and examine their brains, and so greedy and cowardly it’s hard to believe. That’s their essence?”",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "159",
+      "sol": "“Being so stupid I want to crack open your skulls and examine your brains? Being unbelievably greedy and cowardly? That’s the essence of humanity?”",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I wish I could deny it, but that’s part of it, too. But that’s not all you’ve seen, is it?”",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "161",
+      "sol": "“I wish I could deny it, but that’s part of it, too. It isn’t all you’ve seen, though, is it?”",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He’d always felt that he was different from ordinary monsters. And ever since he’d met a human in the dark forest inside a Gate, he’d stayed with them.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "169",
+      "sol": "He’d always felt different from ordinary monsters. Ever since he’d met a human in the dark forest inside a Gate, he’d stayed with them.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Still, this… This shouldn’t be possible.”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "173",
+      "sol": "“Even so, this… This shouldn’t be possible.”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Listen, my bony friend. There’s nothing in this world that’s impossible.”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "175",
+      "sol": "“Listen, my bony friend. There’s no such thing as impossible.”",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Chuck Hagel ran his fingers over the whiskey bottle, still unopened after several hours, as if testing the limits of his own patience. Then he added:",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "177",
+      "sol": "Chuck Hagel ran his fingers over the whiskey bottle, still unopened after several hours, as though testing his own patience.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Things that should never happen are just happening anyway.”",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "179",
+      "sol": "“Things that should never happen are happening anyway.”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Right. More people will start agreeing with that damn ‘noble sacrifice’ the guy who just got shot was talking about. Humanity’s running out of time, but we still have a choice.”",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "183",
+      "sol": "“Right. More people will start agreeing with that damn ‘noble sacrifice’ the guy who just got shot was talking about. Humanity’s running out of time, but it has a choice.”",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Even if humans have evil in them, they’d offer up the heroes who risked their lives fighting for them as sacrifices?”",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "185",
+      "sol": "“Even if humans have an evil side, they’d offer up the heroes who risked their lives fighting for them?”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I said ‘sacrifice.’ That’s what they really want. To look away without getting their hands dirty or having to hear anyone blame them. To make the people being sacrificed feel like they have no choice but to choose it themselves.”",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "191",
+      "sol": "“I said ‘sacrifice.’ That’s what they really want. To look away without getting their hands dirty or taking the blame. To leave the people they’d sacrifice with no choice but to decide for themselves.”",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The biggest problem is that Jin is exactly the kind of person who’d do it.”",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "195",
+      "sol": "“The biggest problem is that Jin is exactly the kind of person who might.”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For a moment, the Skeleton King bit down on his lip without realizing it.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "197",
+      "sol": "The Skeleton King bit his lip without realizing it.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was right.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "199",
+      "sol": "Chuck was right.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung was that kind of person.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "201",
+      "sol": "That was the kind of human Jin Taekyung was.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was always scolding and teasing him, but he carried a heavier burden than anyone else in the world.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "203",
+      "sol": "He was always scolding and teasing the Skeleton King, but he carried a heavier burden than anyone else in the world.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And that was why an even greater unease came over him.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "205",
+      "sol": "And that made the Skeleton King more anxious than ever.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If the world wanted him dead, Jin Taekyung was exactly the sort of person who would sacrifice himself.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "207",
+      "sol": "If the world wanted him dead, Jin Taekyung was someone who might well sacrifice himself.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s ridiculous. Even if that treacherous human, Jin Taekyung, sacrificed himself alongside Sky, how could we be sure Morgoth would keep his promise?”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "209",
+      "sol": "“That’s ridiculous. Even if that treacherous human… even if Jin Taekyung sacrificed himself alongside Sky, how could we be sure Morgoth would keep his promise?”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Humans see what they want to see and believe what they want to believe. Morgoth knows that better than anyone.”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "211",
+      "sol": "“Humans see what they want to see and believe what they want to believe. Morgoth knows that all too well.”",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the news had just reported, Morgoth had kept his promise.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "215",
+      "sol": "As the news had reported, Morgoth had kept his promise.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He’d maintained the governments of the more than twenty countries that had already declared their surrender, Russia among them, and completely restrained the monsters from killing anyone.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "217",
+      "sol": "He’d left the governments of the twenty-odd countries that had declared their surrender in place, Russia among them, and completely stopped his monsters from killing people.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hope that, even if they couldn’t enjoy the freedom they’d had before, they could still save countless lives.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "223",
+      "sol": "Hope that, even if they could no longer enjoy the freedom they’d had before, countless lives could be saved.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But the chance that Morgoth will kill those two and break his promise…”",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "225",
+      "sol": "“But Morgoth might kill those two and break his promise…”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Is overwhelmingly high. There’s no question about it. At least, we know that with absolute certainty. But do you think people, half-crazed with fear, are going to think that way?”",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "227",
+      "sol": "“The odds are overwhelmingly high. We know that better than anyone. But do you think people half-crazed with fear are going to consider it?”",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Chuck Hagel continued, his voice growing rougher.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "229",
+      "sol": "Chuck Hagel’s voice grew rough.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“By the time those bastards realize what they’ve done, it’ll be too late. The only Hunter who can fight Morgoth right now will be inside that bastard’s stomach.”",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "231",
+      "sol": "“By the time those bastards realize their mistake, it’ll be too late. The only Hunter who can fight Morgoth right now will be inside that bastard’s stomach.”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The instant those words of tightly coiled anger rang out, a thought suddenly flashed through the Skeleton King’s mind.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "233",
+      "sol": "As Chuck’s voice rang with pent-up anger, a thought suddenly flashed through the Skeleton King’s mind.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 116,
+  "sol_sha256": "6fb0270b3f90b362b7b48d62075e2ec3200a6e1d4fa524dfca12491254d40da5",
+  "version": 1
+}

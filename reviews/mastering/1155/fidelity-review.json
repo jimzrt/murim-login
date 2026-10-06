@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "completely stopped his monsters from killing people",
+      "defect": "The Korean says Morgoth completely controlled the monsters’ killing of people; it does not explicitly say he stopped all killings. The English turns control into a categorical claim that no one was killed.",
+      "id": "F01",
+      "rationale": "완벽하게 통제했으니 describes completely controlling the monsters’ killing, not necessarily preventing every instance of it.",
+      "replacement": "kept his monsters’ killing of people completely under control",
+      "severity": "minor",
+      "source": "Korean line 217"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one overstatement about Morgoth’s control of the monsters.",
+  "version": 1
+}
