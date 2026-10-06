@@ -1,6 +1,6 @@
 # Chapter 1063
 
-People say that a rumor without feet can travel a thousand *li*, while information with wings can reach tens of thousands of *li* away.
+People say a rumor without feet can travel a thousand *li*, but information with wings can fly tens of thousands.
 
 The information merchants of Murim held that saying up as a proverb, and it was no exaggeration.
 
@@ -14,7 +14,7 @@ The red-stained snowfield shrank to a tiny drop of blood. The Great Snow Mountai
 
 The sun and moon traded places several times. Day gave way to night and night to day, until the ocher plateau that seemed to stretch to the ends of the world vanished beyond the horizon.
 
-And at last, when the dozens of messenger eagles had each completed their journeys, the realm of the Central Plains seethed like lava in a crater.
+At last, when every eagle had completed its journey, the Central Plains seethed like lava in a crater.
 
 “Waaaaah!”
 
@@ -26,9 +26,9 @@ The news reached different places at different times, but wherever people heard 
 
 Even those roused from a sound sleep before dawn came out of their houses more bewildered than angry.
 
-“Which goddamn fools are making a racket at this hour, when even the hens are fast asleep… Hey, you lot! What the hell are you doing carrying on in front of someone else’s house?”
+“Which goddamn fools are making a racket at this hour, when even the hens are flat on their backs asleep… Hey, you lot! What the hell are you carrying on about in front of my house?”
 
-On an ordinary day, sharp words like those would probably have led to people grabbing each other by the collars first and asking questions later.
+On an ordinary day, words that sharp would probably have had people grabbing each other by the collars before anyone thought to answer.
 
 But the crowd was too excited. Cheering loud enough to chase away the predawn darkness, they shouted back again and again.
 
@@ -36,9 +36,9 @@ But the crowd was too excited. Cheering loud enough to chase away the predawn da
 
 “What nonsense is that? I asked what you’re doing—wait. A great victory?”
 
-“Good heavens, look at you. You haven’t heard the news yet, have you?”
+“Good heavens, look at you. You haven’t heard the news?”
 
-“You haven’t heard? The rebels from Xinjiang invaded Gansu without knowing their place, and got wiped out to the last man!”
+“You haven’t heard? The rebels from Xinjiang invaded Gansu without knowing their place, and got themselves wiped out!”
 
 “What? They went after Gansu?”
 
@@ -52,13 +52,13 @@ The rebels of Xinjiang. Fiends from beyond the desert.
 
 Even the Demonic Cult, which had unleashed the bloodshed known as the Great Faction War half a century ago, could not match Dark Heaven’s infamy today.
 
-The Demonic Cult of old had sought to conquer the Murim of the Central Plains. Dark Heaven sought to claim the world itself.
+The Demonic Cult of old had sought to conquer the Murim of the Central Plains. Dark Heaven sought the world itself.
 
 Defying heaven.
 
 Those two characters said it all. Dark Heaven would overturn heaven, defy the natural order, and destroy the unified dynasty and the peace won after countless ages of turmoil.
 
-That was Dark Heaven. And so the people of the Great Nation were still roaming the streets, cheering at that very moment.
+That was why the people of the Great Nation were out in the streets cheering.
 
 “Good heavens, what wonderful news. But just how great a victory was it to get everyone worked up like this?”
 
@@ -66,9 +66,9 @@ At the question, which came from someone now thoroughly awake, a proud voice ros
 
 “Don’t be shocked. From what I hear, tens of thousands of rebels were killed or captured in a single battle.”
 
-“Gasp! Tens of thousands!”
+“Tens of thousands!”
 
-The numbers were staggering—far beyond those of a mere cult—and so was the victory they represented. They had barely caught their breath when voices elsewhere in the crowd rose to contradict the claim.
+That was a staggering number, far beyond the ranks of a mere cult, and the victory was staggering too. But before anyone could finish catching their breath, other voices spoke up to dispute it.
 
 “What nonsense! A martial artist I know told me they wiped out a hundred thousand in half a day.”
 
@@ -90,7 +90,7 @@ The numbers were staggering—far beyond those of a mere cult—and so was the v
 
 “…Is that up to me?”
 
-“Ah, three hundred thousand! Just so you know, I’m not budging any further!”
+“Three hundred thousand! And I won’t budge another inch!”
 
 “A-all right. I’ll remember it as three hundred thousand. Just calm down.”
 
@@ -112,7 +112,7 @@ A few people were less than enthusiastic, but most common folk cheered the Murim
 
 It was a remarkable change in public opinion, even compared with only a few years ago.
 
-The orthodox faction, led by the Nine Sects and One Gang and the Five Great Families, had ruled the Murim of the Central Plains. But a long peace had brought corruption, and power had bred injustice.
+The orthodox faction, led by the Nine Sects and One Gang and the Five Great Families, had ruled the Murim of the Central Plains. But a long peace had bred corruption, and power had harbored injustice.
 
 Did wearing spotless white make the heart beneath it white too?
 
@@ -128,7 +128,7 @@ It was hard not to marvel at how much had changed because of one man.
 
 Jin Taekyung.
 
-His path, which had begun about two years ago, was as deep and immense as the footsteps of a giant.
+In the roughly two years since he had begun making his mark, his footsteps had fallen deep and vast as a giant’s.
 
 The Jin Family of Taiyuan, once slowly crumbling, had become a power that ruled beyond Shanxi Province and across the northern grasslands. It had even joined the Five Great Families. And that was only a fraction of what he had achieved.
 
@@ -144,9 +144,7 @@ Jin Taekyung had proven himself, and countless people had seen it happen.
 
 Nor was his standing confined within Murim’s iron fence.
 
-“To all the people under heaven, hear this!”
-
-The Son of Heaven.
+“To all the people under heaven!”
 
 The Son of Heaven, the great ruler who governed the land on heaven’s behalf, had proclaimed his mandate to the world.
 
@@ -154,9 +152,9 @@ The Emperor revealed every scheme Dark Heaven had carried out. He named his only
 
 His battering ram was none other than Jin Taekyung, the Marquis of Shangshan.
 
-“By the command of the Son of Heaven, I order you: unite and fight! Protect your land from the rebels who dare defy the natural order and seek to wield supernatural powers!”
+“By the authority of the Son of Heaven, I command you: unite and fight! Defend your land from the rebels who wield supernatural powers and dare defy the natural order!”
 
-And so the name Jin Taekyung resounded beyond Murim, echoing across the Nine Provinces and Eight Wastes, the Four Seas and Five Lakes.
+And so the name Jin Taekyung resounded beyond Murim, shaking the Nine Provinces and Eight Wastes, the Four Seas and Five Lakes.
 
 To martial artists, he was the young giant who would lead a new era. To countless common folk, he was the guardian of the imperial court, the Great General of the realm who obeyed the Emperor’s solemn command and put down traitors.
 
@@ -170,7 +168,7 @@ Now he had won again.
 
 “The Great Nation and Murim have finally united to drive out the rebels! Isn’t it all thanks to His Majesty’s reign and the Marquis of Shangshan’s efforts?”
 
-“On a day like this, there’s no way I’m not getting drunk. Bring me a jar of wine! No—three jars!”
+“A day like this calls for a drink. Bring me a jar of wine! No—three!”
 
 The story swelled as it passed from mouth to mouth. Even without the embellishments, the victory was beyond dispute.
 
@@ -180,9 +178,9 @@ They praised the Emperor, thanked Jin Taekyung and the Murim Alliance for riskin
 
 They let themselves hope, however vaguely, that the war might soon end without much harm to anyone.
 
-“Come on, drink! Hurry!”
+“Come on, drink!”
 
-“Down the hatch! That’s it!”
+“Down it! All of it! That’s it!”
 
 Laughter rang out everywhere. Amid the great feasts, there was not a trace of fear on anyone’s face.
 
@@ -194,7 +192,7 @@ Until a peregrine falcon from the distant western frontier of Qinghai completed 
 
 * * *
 
-When I was a kid, I used to be really disappointed if I couldn’t remember a dream from the night before.
+When I was little, I hated waking up unable to remember a dream.
 
 *It must’ve been an exciting story, too.*
 
@@ -206,7 +204,7 @@ Of course, it didn’t mean I hadn’t had the nightmare.
 
 I opened my eyes on a swaying saddle to find Hyuk Mujin’s face in front of me. He was holding out a piece of cloth.
 
-“…What’s this?”
+“…What’s that for?”
 
 “What do you think? Take it. I can’t wipe you down myself.”
 
@@ -214,7 +212,7 @@ I opened my eyes on a swaying saddle to find Hyuk Mujin’s face in front of me.
 
 Only then did I feel my clothes clinging to me from head to toe. What the hell had I dreamed about to break out in this much cold sweat?
 
-*I know.*
+*I know what it was.*
 
 Since becoming a Hunter, my nightmares had usually featured one of two kinds of people.
 
@@ -222,11 +220,9 @@ People who’d died because I couldn’t save them.
 
 Or people who’d died by my hand.
 
-*Actually, there is one more, recently.*
+*Though one more kind has shown up again recently, after a long time.*
 
-I remembered it suddenly.
-
-A strange, unidentifiable dream.
+I remembered those strange dreams I couldn’t explain.
 
 Memories that could never have belonged to me, Jin Taekyung of Korea. Memories of a past lived by Jin Taekyung of the Jin Family of Taiyuan.
 
@@ -242,13 +238,13 @@ As if telling me to focus on the present instead of a dream that might as well h
 
 I gave my head a small shake and drew up the Scorching Yang Qi within me.
 
-*Whoosh. Crackle.*
+*Whoosh. Drip.*
 
-Steam billowed out, and my damp clothes dried in an instant. Hyuk Mujin’s face flushed from the gentle warmth, and he muttered in a dazed voice:
+Steam billowed out. My damp clothes dried in an instant, a few drops falling away as they did. Hyuk Mujin’s face reddened in the warm air, and he muttered blankly.
 
 “…Oh. Right. There’s that way too.”
 
-“Sure. Unlike you.”
+“Sure is. For me, anyway.”
 
 “…Are you showing off?”
 
@@ -256,11 +252,11 @@ Steam billowed out, and my damp clothes dried in an instant. Hyuk Mujin’s face
 
 “Well, when you admit it like that, there’s not much I can say…”
 
-Hyuk Mujin let his words trail off, still not quite satisfied. At that moment—
+Mujin trailed off, plainly unsatisfied. Then—
 
 *Screee!*
 
-The cry rang out again. I looked up at the sky without thinking.
+At the cry again, I looked up.
 
 My eyes widened.
 
