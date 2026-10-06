@@ -8,7 +8,7 @@ Jin Taekyung, the Sleeping Dragon of Shanxi. He was the driving force behind a w
 
 Gong Ilhyuk mulled over what Jin Taekyung had said.
 
-*The Reign…[^1] What was it?*
+*“The Reign…” What was it?*
 
 It definitely seemed as though he had been about to say something before stopping himself.
 
@@ -202,7 +202,7 @@ Then the pretty middle-aged man looked at me and winked, giving me goose bumps a
 
 “Yes.”
 
-*I’d heard of Comrade Chairman, but Comrade Deputy Military Commissioner[^2] was a new one.*
+*I’d heard of Comrade Chairman, but Comrade Deputy Military Commissioner was a new one.*
 
 Hong Jin giggled as he looked at me blinking.
 
@@ -396,7 +396,7 @@ Li Feng immediately objected.
 
 No sooner had Hong Jin finished speaking than the other two members of the Three Hands of Zhongnan quietly stepped in front of Li Feng.
 
-True to the Zhongnan Sect’s reputation, both were at least Supreme First Rate masters.
+True to the Zhongnan Sect’s reputation, both were at least advanced First Rate masters.
 
 Li Feng bit down hard on his lip, then looked at me and muttered,
 
@@ -501,6 +501,3 @@ I was shocked that Cheongpung had vomited in the very place where the king was a
 He trembled as though he had been struck by lightning, then squeezed out a single word.
 
 “The Sword Saint…!”
-
-[^1]: “The Reign” is the opening fragment of a wuxia novel title Taekyung remembers.
-[^2]: The Korean title *dojihwi dongji* ends in *dongji*, which sounds like the word for “comrade.” Taekyung is joking about that similarity.
