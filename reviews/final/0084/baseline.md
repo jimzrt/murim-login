@@ -10,7 +10,7 @@ And there wasn’t just one. There were eight. To Im Kkeokjeong, this went beyon
 
 *What the hell does money matter?*
 
-Four billion won[^1] was certainly enough to change a person’s life, but it wasn’t worth dying for. Im Changsoo had blinded Jin Taekyung with money, and Taekyung had lost his ability to think clearly.
+Four billion won was certainly enough to change a person’s life, but it wasn’t worth dying for. Im Changsoo had blinded Jin Taekyung with money, and Taekyung had lost his ability to think clearly.
 
 *I have to stop him. I have to.*
 
@@ -38,11 +38,11 @@ A black bolt of lightning shot across the cavern.
 
 One step. Two steps. Three steps.
 
-The distance of several dozen meters[^2] vanished in an instant, and the spearhead flashed.
+The distance of several dozen meters vanished in an instant, and the spearhead flashed.
 
 Swoooosh! Slice!
 
-The Minotaur’s enormous, over-three-meter-tall[^3] body tilted to one side.
+The Minotaur’s enormous, over-three-meter-tall body tilted to one side.
 
 The thick neck that should have risen above its shoulders was already gone.
 
@@ -68,7 +68,7 @@ That one remark delivered the final blow.
 
 Im Kkeokjeong’s legs gave out, and Im Changsoo muttered without realizing it.
 
-“Fuck… my four billion.[^1]”
+“Fuck… my four billion.”
 
 * * *
 
@@ -106,9 +106,9 @@ Looking into those calf-like eyes almost made me feel sorry for it…
 
 *Like hell.*
 
-All I could see was a stack of five hundred million won.[^4]
+All I could see was a stack of five hundred million won.
 
-“In your next life, please be born in Hoengseong, Gangwon Province.”[^5]
+“In your next life, please be born in Hoengseong, Gangwon Province.”
 
 —Mooooo!
 
@@ -136,11 +136,11 @@ Among the people engulfed in shock and silence, one person stood out in particul
 
 I began settling the accounts loudly enough for the half-frozen Im Changsoo to hear.
 
-“Let’s see. Five hundred million[^4] per head to start with…”
+“Let’s see. Five hundred million per head to start with…”
 
 He flinched.
 
-“One, two, three, four… Eight of them. Four billion[^1] in total. Wow, a few of them even dropped Magic Gems. You said all the byproducts were mine, too, right?”
+“One, two, three, four… Eight of them. Four billion in total. Wow, a few of them even dropped Magic Gems. You said all the byproducts were mine, too, right?”
 
 He flinched again. And again.
 
@@ -170,7 +170,7 @@ Im Changsoo forced an awkward smile.
 
 As I kept going, Im Changsoo’s face flushed bright red with anger.
 
-“Keep that expression under control. Turn into a Hongik Ingan one more time, and I’ll make you genuinely red.”[^6]
+“Keep that expression under control. Turn into a Hongik Ingan one more time, and I’ll make you genuinely red.”[^1]
 
 “I’m… sorry.”
 
@@ -212,11 +212,11 @@ This guy’s reactions were kind of fun.
 
 “Pardon?”
 
-“Don’t ‘pardon’ me. You have to pay me. Four billion.[^1]”
+“Don’t ‘pardon’ me. You have to pay me. Four billion.”
 
 To be honest, I was a little worried that he might tell me to go to hell.
 
-Four billion won[^1] wasn’t pocket change. It was a huge sum of money that ordinary people could hardly hope to lay their hands on even after working their entire lives.
+Four billion won wasn’t pocket change. It was a huge sum of money that ordinary people could hardly hope to lay their hands on even after working their entire lives.
 
 But Im Changsoo was different.
 
@@ -228,7 +228,7 @@ But Im Changsoo was different.
 
 His answer was so straightforward that it was almost suspicious.
 
-No matter how much money a B-rank Hunter made, there was such a thing as an average income. Yet Im Changsoo talked about several billion won[^7] as casually as if it were a thousand-won bill[^8] in his pocket.
+No matter how much money a B-rank Hunter made, there was such a thing as an average income. Yet Im Changsoo talked about billions of won as casually as if it were a thousand-won bill in his pocket.
 
 “You’re not going to disappear after saying that, are you? If you pretend none of this happened because we didn’t sign a contract, I’ll be very disappointed.”
 
@@ -294,13 +294,13 @@ Im Changsoo answered by hanging his head.
 
 It was an embarrassing nickname to hear in front of other people, to be sure.
 
-But since I had to collect four billion won,[^1] I comforted him in a warm voice.
+But since I had to collect four billion won, I comforted him in a warm voice.
 
 “It’s okay, man. Guys can be like that sometimes. I used to dream of living like you, too.”
 
 But reality was cruel, and that dream had seeped into a hundred-terabyte USB drive.
 
-Jin-ho hyung,[^9] a renowned authority in the world of porn, once borrowed my USB. When he showed up again, he had a hollow-eyed expression and left me with a one-line review.
+Jinho hyung, a renowned authority in the world of porn, once borrowed my USB. When he showed up again, he had a hollow-eyed expression and left me with a one-line review.
 
 *This should be designated a UNESCO World Heritage Site.*
 
@@ -310,9 +310,13 @@ Im Changsoo lifted his head at my warm consolation.
 
 “Really?”
 
-*Of course not. Did I look like the kind of guy who hit on just any woman? I was the sunflower of this era, gazing at only one person in the entire world—Miss Song-i…*
+*Of course not.*
 
-*Wait a second. This bastard had hit on Miss Song-i earlier.*
+Did I look like the kind of guy who hit on just any woman? I was the sunflower of this era, gazing at only one person in the entire world—Miss Song-i…
+
+*Wait a second.*
+
+This bastard had hit on Miss Song-i earlier.
 
 “You little shit.”
 
@@ -344,7 +348,7 @@ In the past, I wouldn’t have been able to subdue a B-rank Hunter with such a s
 
 I wanted to beat him senseless, but since it had only been an attempt, I decided to let him off.
 
-*It absolutely wasn’t because I hadn’t received the four billion[^1] yet.*
+*It absolutely wasn’t because I hadn’t received the four billion yet.*
 
 “Damages.”
 
@@ -390,7 +394,7 @@ I happily helped him back to his feet.
 
 “Would you rather die here?”
 
-“You don’t want the four billion?[^1]”
+“You don’t want the four billion?”
 
 “You’ve got some nerve.”
 
@@ -398,7 +402,7 @@ Im Changsoo let out another deep sigh before speaking.
 
 “May I ask one question?”
 
-“One hundred million[^10] per question.”
+“One hundred million per question.”
 
 “…”
 
@@ -416,13 +420,4 @@ A Hunter and a Murim martial artist.
 
 The only two-job combination in the world.
 
-[^1]: Four billion won is about $2.9 million or €2.6 million.
-[^2]: Several dozen meters is roughly 100–300 ft.
-[^3]: Over three meters is over 9.8 ft.
-[^4]: Five hundred million won is about $360,000 or €320,000.
-[^5]: Hoengseong is known for its Korean beef cattle.
-[^6]: *Hongik Ingan*, meaning “to broadly benefit humanity,” is Korea’s national founding ideal. Taekyung plays on *hong*, which can also mean “red,” to joke about Im Changsoo’s face.
-[^7]: Several billion won—roughly two to nine billion—is about $1.4–6.4 million or €1.3–5.8 million.
-[^8]: One thousand won is about $0.71 or €0.65.
-[^9]: *Hyung* is a Korean term a man uses to address an older brother or an older male friend.
-[^10]: One hundred million won is about $71,000 or €65,000.
+[^1]: *Hongik Ingan*, meaning “to broadly benefit humanity,” is Korea’s national founding ideal. Taekyung twists the opening sound *hong* into a joke about Im Changsoo’s reddening face.
