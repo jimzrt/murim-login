@@ -156,7 +156,7 @@ The official spent a while looking back and forth between us and the equipment b
 
 Im Kkeokjeong had regained consciousness at some point. I was supporting him, and he’d suffered severe injuries, including at least five broken bones.
 
-“Call a healer. A pretty unnie.[^1]”
+“Call a healer. A pretty unnie.”
 
 The E-rank trio dropped onto the ground as well.
 
@@ -257,7 +257,7 @@ I stared blankly at the Status Window for a moment before noticing something str
 
 *The Status Window… changed?*
 
-Two things jumped out first: my Fame had been reset to zero, and a Title was missing. The final line gave me a rough idea why.
+The first things that jumped out were my Fame, which had been reset to zero, and the two missing Titles. The final line gave me a rough idea why.
 
 *Because this isn’t Murim?*
 
@@ -369,7 +369,7 @@ Team Leader Choi held out his wrist. A gleaming Magic Gem digital watch showed t
 
 The man was impossible to read.
 
-“Let’s get some meat. Do you like Hanwoo?[^2]”
+“Let’s get some meat. Do you like Hanwoo?[^1]”
 
 “Hanwoo?”
 
@@ -383,5 +383,4 @@ This wasn’t just any beef. It was Hanwoo. Top-grade Hanwoo, at that.
 
 System or whatever—first, I needed to fill my empty stomach.
 
-[^1]: *Unnie* is a Korean term for an older sister or an older woman addressed familiarly by a woman. It can also be used playfully, as Kkeokjeong uses it here.
-[^2]: Hanwoo is beef from Korean native cattle, prized as premium meat.
+[^1]: Hanwoo is beef from Korean native cattle, prized as premium meat.
