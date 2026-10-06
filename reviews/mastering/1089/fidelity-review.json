@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Man Chong didn’t answer.\n\nAt that moment, his instincts were sounding a red alarm in his head.",
+      "defect": "The source clarifies that Man Chong could not answer, not merely that he did not answer. The distinction makes his instinctive alarm the reason he is unable to respond.",
+      "id": "F01",
+      "rationale": "The source explicitly corrects the apparent nonresponse with “정확히는 대답할 수 없었다” (“more precisely, he couldn’t answer”).",
+      "replacement": "Man Chong didn’t answer.\n\nMore precisely, he couldn’t. At that moment, his instincts were sounding a red alarm in his head.",
+      "severity": "minor",
+      "source": "Korean lines 110–114"
+    },
+    {
+      "confidence": 0.98,
+      "current": "It lasted only a moment, but felt longer than ever—like an eternity.",
+      "defect": "The source first establishes that a silence passed, then describes how long it felt. The English duration sentence lacks that explicit beat, which the accepted baseline preserved.",
+      "id": "F02",
+      "rationale": "The Korean explicitly says “잠시 정적이 흘렀다” before describing the silence as feeling eternal.",
+      "replacement": "A brief silence followed.\n\nIt lasted only a moment, but felt longer than ever—like an eternity.",
+      "severity": "minor",
+      "source": "Korean lines 202–204"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Dark arts.\n\nNor had he ever felt as if his head could be severed at any moment by someone standing a hundred zhang away.",
+      "defect": "The translation drops the source’s explicit reaction to the term itself: the two words had never felt so chilling. The accepted baseline retained this beat.",
+      "id": "F03",
+      "rationale": "After naming 사술, the source says those two characters had never felt so ominous before; this is a distinct emotional beat, not just the following sense of imminent danger.",
+      "replacement": "Dark arts.\n\nThose two words had never seemed so chilling.\n\nNor had he ever felt as if his head could be severed at any moment by someone standing a hundred zhang away.",
+      "severity": "minor",
+      "source": "Korean lines 272–276"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it omits a few source details about Man Chong’s inability to answer, the silence before the reply, and the chill evoked by the words “dark arts.”",
+  "version": 1
+}

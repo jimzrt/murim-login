@@ -4,11 +4,11 @@ As the hour of the Rooster began, an old beggar watched the sun inch toward the 
 
 “How strange. It’s not time for the sun to set yet.”
 
-The other beggars huddled around a nearby campfire reacted to his words.
+The other beggars huddled around a nearby campfire looked up.
 
-“Then what about weather like this at this time of year? Does that make sense?”
+“Does weather like this make sense at this time of year?”
 
-“Right. It’s not like this just started yesterday or the day before.”
+“Right. And it’s not as if it just started.”
 
 “Branch Master, don’t stand out there in the cold wind. Come warm yourself by the fire. Have a bowl of hot soup, too.”
 
@@ -16,7 +16,7 @@ They had a point. The world hadn’t gone haywire just yesterday.
 
 The old beggar—Man Chong, Branch Master of the Beggars’ Sect’s Xining branch in Qinghai—sighed and walked toward the fire.
 
-Gung Gibang, the Successor Beggar, had returned to Xining several days ago. Man Chong, however, had stayed behind with around thirty Beggars’ Sect disciples under his command to gather information.
+Gung Gibang, the Successor Beggar, had returned to Xining several days ago. Man Chong had stayed behind with around thirty Beggars’ Sect disciples to gather information.
 
 “Got anything to eat?”
 
@@ -26,7 +26,7 @@ Gung Gibang, the Successor Beggar, had returned to Xining several days ago. Man 
 
 “Come now. Do you take us for beggars with no decency? Don’t worry. There’s enough for them to come back and eat till they burst.”
 
-One of the beggars grinned, yellow teeth showing, and offered him a steaming bowl. Man Chong found himself smacking his lips.
+One of the beggars grinned, showing his yellow teeth, and held out a steaming bowl. Man Chong found his mouth watering.
 
 “That smells incredible.”
 
@@ -54,7 +54,7 @@ The situation had hardly improved since Jin Taekyung and the reinforcements pass
 
 No—it was getting worse by the day, as if to crush that brief glimmer of hope.
 
-*At this rate, we’ll be surrounded from both sides for sure… Damn it. We’re caught in a hell of a mess.*
+*At this rate, we’ll be surrounded from both sides… Damn it. We’re caught in a hell of a mess.*
 
 The mere thought of Dark Heaven’s massive army occupying Kunlun Mountain sent a chill down his spine. And from the rear, bandits who’d dealt the Central Plains Murim a vicious blow were said to be swarming in like ants.
 
@@ -102,7 +102,7 @@ Only moments ago, the waters of Qinghai Lake had glowed with the sunset. Now the
 
 Man Chong didn’t answer.
 
-At that moment, his instincts were sounding a red alarm in his head.
+He couldn’t. Every instinct he had was sounding an alarm.
 
 *Something’s… wrong.*
 
@@ -132,9 +132,9 @@ On a low hill about two hundred zhang away, a group of men and horses had just a
 
 “Look at those lazy bastards. They’re already late, and now they’re taking their sweet time?”
 
-“Branch Master, stay put. I’ll give them a proper scolding this time.”
+“Branch Master, you can settle down. I’ll give them a proper scolding.”
 
-As everyone tossed out remarks while watching Man Chong’s expression, he stared at the patrol with sunken eyes and muttered,
+As the others offered excuses while watching his expression, Man Chong stared at the patrol and murmured, almost like a groan.
 
 “Twelve.”
 
@@ -150,7 +150,7 @@ The patrol that had left to survey the area about two shichen ago had numbered t
 
 “Th-that means…”
 
-“Could be one of two things. Either they found survivors who made it through by sheer luck…”
+“One of two things. Either they found survivors who escaped by sheer luck…”
 
 Man Chong drew the iron staff, worn smooth from years of handling, from his waist and added quietly,
 
@@ -158,39 +158,39 @@ Man Chong drew the iron staff, worn smooth from years of handling, from his wais
 
 “…!”
 
-“Get to the boat now. We’ll raise anchor, put some distance between us, then see what happens.”
+“Get to the boat. Raise anchor, put some distance between us, and then we’ll see what they do.”
 
 “Y-yes, Branch Master!”
 
 At last grasping the danger, the disciples moved as one.
 
-By the time they’d boarded the boat moored by the shore and rowed far enough away, the mysterious group—friend or foe, they couldn’t tell—had reached the campfire they’d left behind.
+By the time they’d boarded the boat moored by the shore and rowed a safe distance away, the unidentified group had reached the campfire they’d left behind.
 
 “Seok Sam! Seok Sam, are you there?”
 
-Man Chong’s sudden shout was answered from beyond the darkness, which had grown noticeably deeper.
+An answer came from beyond the darkness, which had grown noticeably deeper.
 
 “I’m here! What is it?”
 
-In that instant, Man Chong’s face went rigid.
+Man Chong’s face went rigid.
 
-So did every other Beggars’ Sect disciple’s. Not one of those staying at Qinghai Lake could have spoken down to Man Chong, their Branch Master and the oldest among them.
+So did every other Beggars’ Sect disciple’s. Not one of those staying at Qinghai Lake would have addressed Man Chong—their Branch Master and the oldest among them—as an equal.
 
 Worse, the voice from the darkness sounded exactly like Seok Sam’s.
 
 “B-Branch Master…”
 
-Leaving the Beggars’ Sect disciples behind, their faces pale as if they’d seen a ghost, Man Chong gritted his teeth and shouted again.
+Leaving the pale-faced disciples behind him, Man Chong gritted his teeth and shouted again.
 
 “Who are you bastards?”
 
-It lasted only a moment, but felt longer than ever—like an eternity.
+Silence followed. It lasted only a moment, yet felt longer than any silence he’d ever known.
 
-Then an unfamiliar voice suddenly rang out, shattering the silence that seemed ready to suffocate them.
+Then an unfamiliar voice shattered it.
 
 “Well, I guess beggar bastards are quick on the uptake.”
 
-With a buoyant voice that even carried a hint of laughter, the figure that had only been a silhouette emerged into view, heading for the still-burning campfire.
+There was even a hint of laughter in the man’s buoyant voice. A shape that had been nothing but a silhouette emerged into the light of the still-burning campfire.
 
 *Tap-tap.*
 
@@ -228,9 +228,9 @@ The man waved a hand as though calming him down, then smacked his lips.
 
 “W-what did you say?”
 
-Man Chong froze, his mind settling on a suspicion too horrible to put into words. The man frowned.
+Man Chong froze at a thought too horrible to put into words. The man frowned.
 
-“Hey, don’t get the wrong idea. Maybe it’s because they were mangy beggar bastards, but their bodies weren’t much to write home about either. I only drank a little blood, just to have some fun.”
+“Hey, don’t get the wrong idea. They were mangy beggar bastards, and their bodies weren’t much good either. I only drank a little blood to have some fun.”
 
 “…!”
 
@@ -238,13 +238,13 @@ Man Chong froze, his mind settling on a suspicion too horrible to put into words
 
 *Grit.*
 
-The pungent scent of blood filled Man Chong’s mouth. Even so, he clenched his teeth with all his strength.
+The taste of blood filled Man Chong’s mouth. Still, he clenched his teeth harder.
 
 It wasn’t only rage at losing a subordinate who had been like a brother to him. He had to do this—had to hold on somehow—to bear the fear tightening its grip on him with every passing moment.
 
 Dark arts.
 
-Nor had he ever felt as if his head could be severed at any moment by someone standing a hundred zhang away.
+Never had those words felt so chilling. Never had someone a hundred zhang away made him feel as though his head might come off at any moment.
 
 “So you’re the one. The leader we’ve heard about.”
 
@@ -266,7 +266,7 @@ Then he slowly swept his gaze over the twenty Beggars’ Sect disciples, frozen 
 
 The Blood Lord grinned at their rigid faces a hundred zhang away, then turned to look behind him.
 
-“Time to get moving, isn’t it? It’s something we have to do anyway.”
+“Time to get moving, don’t you think? You have to do it anyway.”
 
 At his words, one of the figures waiting in the darkness stepped forward.
 
@@ -280,13 +280,13 @@ Long robes brushed the gravel. As if the Blood Lord weren’t worth answering, t
 
 The air trembled. A vast chill swept across Qinghai Lake.
 
-And then, they saw it.
+And then Man Chong saw it.
 
 “Freeze.”
 
 *Crack-crack-crack!*
 
-With a crack of ice, Qinghai Lake froze white.
+Ice spread across Qinghai Lake, turning it white.
 
 “…!”
 
@@ -298,13 +298,13 @@ A miracle that should not—and could not—exist.
 
 Faced with that impossible sight, they could do nothing.
 
-Not even when the foul stench of monsters began to drift toward them from beyond the thick darkness in the distance.
+Not when the foul stench of monsters began to drift toward them from beyond the thick darkness.
 
 Not when the Blood Lord crossed the frozen lake as casually as if out for a stroll, climbed onto the bow of their boat, and looked down at them.
 
 “Whoever survives, go tell them. I—the Blood Lord—am coming.”
 
-At that moment, Man Chong forced out his voice with everything he had.
+Man Chong forced out his voice with all the strength he had left.
 
 “You’ll never win—”
 
