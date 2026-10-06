@@ -90,7 +90,7 @@ We each had things to ask and answers to give. And I wasn’t the one holding th
 
 Jeok Cheongang, the one holding the sword hilt, silently ran his fingers over his empty wineglass.
 
-The silence seemed as though it might never end. Fifteen minutes? Half an hour? Half a shichen[^1]? I had no idea how much time passed.
+The silence seemed as though it might never end. Fifteen minutes? The time it took to eat a meal? Half a shichen? I had no idea how much time passed.
 
 A cold wind howled outside, but whether from tension or something else, my entire body was drenched in sweat.
 
@@ -365,5 +365,3 @@ After a brief silence, a profound realization struck us.
 *Ah. The Jin Family of Taiyuan.*
 
 At that moment, Wipeng’s threat from before I left the family rang vividly in my ears.
-
-[^1]: A *shichen* is a traditional time unit of approximately two hours; half a shichen is about one hour.
