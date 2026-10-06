@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful, but it repeatedly renders 사문 as “martial family,” changing the sense from a martial school or affiliation.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 299–300",
+      "current": "That’s what a martial family is.",
+      "defect": "사문 refers here to a martial school or affiliation, not a “martial family.” The following contrast with blood reinforces that the bond is formed through the school rather than kinship.",
+      "replacement": "That’s what a martial school is.",
+      "rationale": "The source says 사문 and explains that its bonds can be deeper than blood despite members not sharing blood.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 305–307",
+      "current": "Their martial families, their other homes—and the names of two enormous stones weighing down their hearts.",
+      "defect": "The source calls the Jin Family of Taiyuan and the Beggars’ Sect their 사문, meaning their martial affiliations or schools. “Martial families” misclassifies the Beggars’ Sect and repeats the same sense shift as the earlier line.",
+      "replacement": "Their respective martial affiliations, their other homes—and the names of two enormous stones weighing down their hearts.",
+      "rationale": "The two named groups are a family and a sect, while the Korean groups them under the shared term 사문.",
+      "confidence": 0.87
+    }
+  ]
+}

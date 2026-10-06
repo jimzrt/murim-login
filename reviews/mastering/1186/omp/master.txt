@@ -74,13 +74,13 @@ Unlike Jeok Cheongang, who had spent most of his life on Mount Jiuhua, the Slaug
 
 In his youth, he had traveled a thousand li to take someone’s life. In his old age, he had searched for herbs ten thousand li away to save one.
 
-Even a young woodcutter who lived day to day cutting trees would have his own experiences and his own life. For someone who had made his mark at opposite ends of life and death, calling his experience “a fair bit” was an understatement born of extraordinary modesty.
+Even a young woodcutter who lived day to day cutting trees would have experiences all his own. For a man who had mastered professions at opposite ends of life and death, calling what he had seen “a fair bit” was an extraordinary understatement.
 
-Of course, to Jeok Cheongang, who shared the same reality, it sounded entirely sincere.
+Of course, to Jeok Cheongang, who was seeing the same thing he was, it sounded entirely sincere.
 
 “I expected as much, but it seems even you don’t have an answer.”
 
-“There’s no way forward, nothing we can do. We can’t even tell day from night. What can we possibly do?”
+“There’s no way around it and nothing we can do. We can’t even tell day from night. What can we possibly do?”
 
 The Slaughter Saint was right.
 
@@ -136,7 +136,7 @@ The younger members of the group were racing over the rugged terrain, breathing 
 
 His gaze rested on them for only a moment. Then he spoke as if nothing had happened.
 
-This time, in his own voice rather than through Sound Transmission.
+This time, he used his own voice.
 
 “We should take a short break.”
 
@@ -162,7 +162,7 @@ Ju Hwaran eventually helped Hyuk Mujin stop retching. Gung Gibang answered his a
 
 “Don’t glare at me. Just eat. You’ll need your strength. Or you could sit down and circulate your qi like that fellow.”
 
-Hyuk Mujin glanced between Song Ilseom, who was already sitting cross-legged, and Gung Gibang, who was still tearing into his jerky. Then his expression hardened as he made up his mind.
+Hyuk Mujin looked from Song Ilseom, who was already sitting cross-legged, to Gung Gibang, who was still tearing into his jerky. His expression hardened.
 
 “Give me a piece. I want to see what’s so good about it that you’re eating like a beggar who hasn’t had a meal in three days.”
 
@@ -174,11 +174,11 @@ Gung Gibang grinned, showing his yellow teeth.
 
 “No, thank you. I think I’d better circulate my qi for a while.”
 
-Replenishing one’s strength and refining one’s internal energy were both good choices.
+Restoring their strength and settling their internal energy were both good choices.
 
 Climbing mountains—especially rugged ones at this altitude—was exhausting in a way that running across flat ground wasn’t.
 
-Besides, even they, whose martial arts were far less advanced than those of the masters traveling with them, could feel the heavy air hanging over all of Tianshan and the strange phenomena that defied explanation.
+Besides, their martial arts might be far less advanced than those of the old masters traveling with them, but they, too, could feel the heavy air surrounding Tianshan and the utterly strange things happening there.
 
 “Damn it. I can’t even remember the last time I felt warm sunlight.”
 
@@ -196,7 +196,7 @@ What kind of desert had no cacti or bugs, yet got alternating hailstorms and dow
 
 But that was the world now.
 
-And to survive in a changed world, they had to change, too.
+And to survive in a changed world, they would have to change, too.
 
 “I’m dying here. How many peaks have we climbed already?”
 
@@ -250,7 +250,7 @@ Hyuk Mujin answered firmly.
 
 “Because the Captain still hasn’t woken up.”
 
-“Oh, right. The Slaughter Saint said he’d wake up within two days at the latest.”
+“Oh, right. He’s supposed to wake up within two days at the latest.”
 
 “Exactly. So it definitely hasn’t been two days yet.”
 
@@ -262,7 +262,7 @@ Gung Gibang studied him for a moment, then gave a quiet laugh.
 
 “What do you mean?”
 
-“Almost everything seems to revolve around Jin Taekyung.”
+“It feels like almost everything in your life revolves around Jin Taekyung.”
 
 “I don’t know. It’s just so natural to me.”
 
@@ -282,7 +282,7 @@ Their martial families, their other homes—and the names of two enormous stones
 
 What had happened to the people who had marched west with their banners held high?
 
-If they were still alive, would they ever meet again?
+If they were alive, would they ever see them again?
 
 They could trade silly remarks and force smiles, but reality was cold enough to make them shudder.
 
@@ -290,6 +290,6 @@ And it moved so quickly that they had no time to fight off the chill before it s
 
 *Shhhhhhhh.*
 
-A sudden sense of wrongness.
+Something was wrong.
 
 Hyuk Mujin’s eyes widened. In them, the mist writhed as though it were alive.
