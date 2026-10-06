@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.82,
+      "current": "To the place where you belong.",
+      "defect": "The Korean says this is the place where he must stay; “where you belong” adds a sense of belonging that the source does not establish.",
+      "id": "F01",
+      "rationale": "머물러야 할 곳 expresses an obligation to remain somewhere, not necessarily that the person belongs there.",
+      "replacement": "To the place where you need to stay.",
+      "severity": "minor",
+      "source": "Korean lines 77–78"
+    },
+    {
+      "confidence": 0.94,
+      "current": "I took a small breath",
+      "defect": "The source specifies a deep breath, while the translation describes only a small breath.",
+      "id": "F02",
+      "rationale": "심호흡 means taking a deep breath; 작게 modifies the manner or scale, not the depth of the breath.",
+      "replacement": "I took a small, deep breath",
+      "severity": "minor",
+      "source": "Korean line 103"
+    }
+  ],
+  "summary": "The assembled translation is faithful overall, with two minor shifts in physical detail and obligation.",
+  "version": 1
+}

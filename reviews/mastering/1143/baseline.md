@@ -40,7 +40,7 @@ My tongue had gone stiff. I couldn’t get the words out, like the mute Samryong
 
 Smack!
 
-Ah, the boundless grace of a master. My eardrum was ringing with it.
+Ah, the eardrum-rattling grace of a Master’s boundless kindness.
 
 “……I said wait.”
 
@@ -64,7 +64,7 @@ Even as I asked, I felt uneasy.
 
 If that unexpected object hanging around Jeok Cheongang’s neck really was the one I knew, how was I supposed to make sense of it?
 
-His answer only made my heart sink further.
+The answer came right back, and it was enough to make my heart feel even heavier.
 
 “Where did I get it? How would this old man know? You’re the owner. You’d know best.”
 
@@ -82,9 +82,9 @@ There was one surefire way to find out.
 
 It was simple.
 
-I just had to picture it in my mind and put my will behind the command.
+I just had to picture it in my mind and issue a command with enough intent behind it.
 
-But the process I’d gone through hundreds, even thousands, of times suddenly felt unfamiliar.
+But this sequence of actions, one I’d repeated hundreds—no, thousands—of times, suddenly felt unfamiliar.
 
 So did the small System window that appeared in the air.
 
@@ -116,7 +116,7 @@ I licked my lips, which had gone dry.
 
 “Ah, right. One of those foreign devices used by the barbarians across the sea. It has such an odd shape that it stuck in my mind.”
 
-The part about barbarians across the sea was something I’d made up because too many people had been listening when I explained it.
+The thing about barbarians across the sea was just an excuse. There were too many people around to tell him the truth.
 
 As far as I could tell, this world wasn’t even made up of five oceans and six continents. How would I know if there were blond, tanned punks or tyrannosaurs living across the sea?
 
@@ -142,7 +142,7 @@ But that thing—more precisely, the item called **[Pocket Watch of Unknown Make
 
 Without me even realizing it.
 
-“I’d been meaning to give it back these past few days, but I kept forgetting, so I started wearing it around my neck. Good timing.”
+“I meant to give it back these past few days, but kept forgetting, so I started wearing it around my neck. Good timing, eh?”
 
 I took the pocket watch Jeok Cheongang handed me as if I were under a spell.
 
@@ -158,7 +158,7 @@ That fleeting voice, gentle against my ear, as my vision was swept away and pull
 
 *“Take it. It’s the last gift this old man can give you.”*
 
-The hard feel of something I’d instinctively clutched as my consciousness faded, and the glimmer it held.
+The hard feel of something I’d instinctively clutched beyond the haze of my fading consciousness, and the glimmer it held inside.
 
 *The Helper.*
 
@@ -166,11 +166,11 @@ There was no doubt. At last, I remembered clearly.
 
 The endless, empty space.
 
-What he’d given me in our final moments there.
+What he’d given me in that place, in our final moments together.
 
 Squeeze.
 
-I tightened my grip on the pocket watch without thinking.
+It happened as I gripped the pocket watch without thinking.
 
 *Ding!*
 
@@ -184,9 +184,9 @@ I tightened my grip on the pocket watch without thinking.
 
 * * *
 
-After checking the System window, I fell into a heavy silence.
+After checking the System window, I was weighed down by a heavy silence.
 
-I kept my mouth shut on the way back to our quarters with Jeok Cheongang, while we climbed the stairs, and even when he prodded me, unable to stand it any longer.
+I kept my mouth shut on the way back to our quarters with Jeok Cheongang, as we climbed the stairs, and even when he prodded me, unable to stand the silence.
 
 No—I hadn’t heard him.
 
@@ -194,11 +194,11 @@ The thread of thought holding my senses captive was that long and that tough.
 
 *What is it?*
 
-Memories that stay vivid long after the years have passed fall into two broad categories.
+Memories that remain vivid in the mind long after the years have passed fall into two broad categories.
 
 The unbelievably good kind, or the goddamn awful kind.
 
-And the pocket watch in my hand clearly belonged in the latter.
+And in that regard, the pocket watch in my hand clearly belonged in the latter.
 
 Even after more than two months, I remembered it so clearly that I could recall every last word.
 
@@ -213,13 +213,13 @@ Even after more than two months, I remembered it so clearly that I could recall 
 
 The memory came back as fresh as yesterday.
 
-The anger that had surged from deep in my chest like lava the moment I checked the item information.
+The moment I checked the item information, the anger that had surged from deep in my chest like lava.
 
 *How could I forget? It was such a goddamn awful memory.*
 
 Of course it was. Back then, I’d been bursting with anticipation.
 
-This wasn’t some run-of-the-mill Quest. The item had been given to me as a Reward for a **[System Update]**.
+This wasn’t some ordinary run-of-the-mill Quest. The item had been given to me as a Reward for a **[System Update]**.
 
 *I’d gone through all that shit because of an update I didn’t even know existed.*
 
@@ -233,7 +233,7 @@ And after going through all that bullshit, how do you think I felt when I got th
 
 More accurately, it wasn’t that I didn’t throw it away. I couldn’t.
 
-It was an update reward, after all. I’d held onto a sliver of hope that it might have something hidden up its sleeve.
+It was an update reward, after all. I’d held onto a sliver of hope that it might have some hidden use.
 
 But it didn’t take long for that last flicker of hope to burn out completely.
 
@@ -249,7 +249,7 @@ Twice a day, my ass.
 
 After a week of watching the second hand stay exactly where it was, I shoved this sturdy piece of trash deep into my Inventory.
 
-Whoever made it, I was sure I’d beat the shit out of him if he ever showed his face.
+I was sure that whoever made it would get the shit beaten out of him if he ever showed his face.
 
 *But…… why is it showing up here again? And like this, out of nowhere?*
 
@@ -262,7 +262,7 @@ I narrowed my eyes at the holographic window floating in the air.
 **Type:** Special Item  
 **Grade:** None  
 **Restrictions:** None  
-**Description:** A pocket watch made by someone unknown. Extremely sturdy. At a glance, it looks like an old, broken watch. On closer inspection, it holds a secret that has yet to be uncovered.
+**Description:** A pocket watch made by someone unknown. Extremely sturdy. At a glance, it looks like an old, broken watch. On closer inspection, it seems to hold a secret I have yet to uncover.
 
 The newly updated item information.
 
@@ -278,7 +278,7 @@ It had gone from a Common Item to a Special Item, and the sentence “Even on cl
 
 But the meaning behind that change didn’t feel small at all.
 
-Especially when I thought about how this useless piece of junk had come back into my hands.
+Especially when I thought about how I’d gotten this useless piece of junk back.
 
 *The Helper. The endless, infinite space. And finally, the pocket watch.*
 
@@ -286,7 +286,7 @@ I kept repeating those three keywords in my head, which was already crowded with
 
 Tap, scuff, tap.
 
-Irregular footsteps drew closer through the slightly open door, and an uninvited guest arrived.
+A set of irregular footsteps drew closer through the slightly open door, and an uninvited guest arrived.
 
 “Buuuurp. Whew. I’m drunk.”
 
@@ -296,7 +296,7 @@ A near-mummy—no, Hyuk Mujin—appeared with a burp like a lion’s roar and lo
 
 Before I could say anything, Jeok Cheongang spoke in a dignified tone.
 
-“If you’re drunk, go sleep it off. Unless you want the shit beaten out of you.”
+“If you’re drunk, go sleep it off. Unless you want a sound beating.”
 
 Hyuk Mujin answered.
 
@@ -320,23 +320,23 @@ But Hyuk Mujin, who’d just accomplished what no great fiend had ever managed, 
 
 What the hell was wrong with this guy?
 
-Jeok Cheongang recoiled in alarm as vomit poured out like Niagara Falls. I sighed and patted Mujin on the back.
+Jeok Cheongang recoiled in alarm before the torrent of vomit, pouring down like Niagara Falls. I sighed and patted Mujin on the back.
 
-When he’d finished making a whole scene, he lifted his head.
+Then, after he’d finished making a whole scene, he lifted his head.
 
 “Huh? Isn’t this that watch? Are ya finally givin’ it to me?”
 
-He’d spotted the pocket watch around my neck. Then he said something I never would’ve expected.
+He spotted the pocket watch around my neck and came out with something I never would’ve expected.
 
 “But did ya finally get it up and running?”
 
 “You crazy bastard, why are you talking about getting it up all of a sudden—wait, what did you say?”
 
-“You repaired it, didn’t ya?”
+“You fixed it, didn’t ya?”
 
 With his tongue thoroughly twisted, Hyuk Mujin mumbled and grinned as he grabbed the pocket watch swaying before him.
 
-“Ya did. It’s showing a different time than the last time I saw it.”
+“’Course ya did. It’s showing a different time than the last time I saw it.”
 
 “……!”
 

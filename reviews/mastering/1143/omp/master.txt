@@ -20,9 +20,9 @@ As my dulled senses returned, the breath I’d unknowingly been holding burst ou
 
 “……A-are you back with us?”
 
-I could barely answer. All I managed was a blink.
+I couldn’t answer. All I managed was a blink.
 
-Jeok Cheongang had come right up to me, staring with a look that mingled confusion and concern.
+Jeok Cheongang had come right up to me, staring with a look that mingled alarm and concern.
 
 And peeking out from the gap in his robe, as if it were a third eye, was an object glaring right back at me.
 
@@ -34,7 +34,7 @@ And peeking out from the gap in his robe, as if it were a third eye, was an obje
 
 So much for my brain being back up and running.
 
-My tongue had gone stiff. I couldn’t get the words out, like the mute Samryong. It wasn’t until I saw my Master raising his hand again—for his Disciple’s sake, naturally—that I finally came to my senses.
+My tongue had gone stiff. I couldn’t get the words out, like the mute Samryong. It wasn’t until I saw my master raising his hand again—for his disciple’s sake, naturally—that I finally came to my senses.
 
 “W-wait!”
 
@@ -130,7 +130,7 @@ A simple mistake in my memory?
 
 Absolutely not.
 
-I’d half forgotten the thing even existed. How could I have taken it out?
+I’d half forgotten the thing even existed.
 
 *This makes no sense.*
 
@@ -168,8 +168,6 @@ The endless, empty space.
 
 What he’d given me in our final moments there.
 
-Squeeze.
-
 I tightened my grip on the pocket watch without thinking.
 
 *Ding!*
@@ -200,7 +198,7 @@ The unbelievably good kind, or the goddamn awful kind.
 
 And the pocket watch in my hand clearly belonged in the latter.
 
-Even after more than two months, I remembered it so clearly that I could recall every last word.
+Even after more than two months, I remembered every last word.
 
 **Item Window**
 
@@ -268,7 +266,7 @@ The newly updated item information.
 
 Actually, calling this an update seemed a little generous.
 
-Only a few characters had been added or changed.
+Only a few words had been added or changed.
 
 *The item type, and the last line of the description.*
 
@@ -282,7 +280,7 @@ Especially when I thought about how this useless piece of junk had come back int
 
 *The Helper. The endless, infinite space. And finally, the pocket watch.*
 
-I kept repeating those three keywords in my head, which was already crowded with thoughts, when—
+I kept repeating those three things in my head when—
 
 Tap, scuff, tap.
 
@@ -328,16 +326,16 @@ When he’d finished making a whole scene, he lifted his head.
 
 He’d spotted the pocket watch around my neck. Then he said something I never would’ve expected.
 
-“But did ya finally get it up and running?”
+“But did ya finally get it peppaired?”
 
-“You crazy bastard, why are you talking about getting it up all of a sudden—wait, what did you say?”
+“You crazy bastard, why are you talking about peppers all of a sudden—wait, what did you say?”
 
 “You repaired it, didn’t ya?”
 
-With his tongue thoroughly twisted, Hyuk Mujin mumbled and grinned as he grabbed the pocket watch swaying before him.
+His tongue thoroughly tangled, Hyuk Mujin grabbed the pocket watch swaying before him and grinned.
 
 “Ya did. It’s showing a different time than the last time I saw it.”
 
 “……!”
 
-What did he just say?
+Wait. What did he just say?
