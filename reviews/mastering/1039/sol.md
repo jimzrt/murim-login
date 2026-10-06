@@ -18,25 +18,25 @@ But something else startled the Blood-Sword Demon Lord even more.
 
 There was no doubt. Jin Taekyung veered around his flank and shot forward again, heading straight for the twenty or so white-robed figures surveying the battlefield from the foot of a high hill.
 
-*Why in the world would he—no, how could he…?*
+*Why would he—no, how does he know?*
 
-But now that he’d been caught off guard, there was no time to hesitate. He pushed aside every question, twisted with all his might, and thrust out a hand.
+Questions tangled in his mind, but Jin Taekyung had caught him off guard. There was no time to puzzle it out. The Blood-Sword Demon Lord twisted with all his might and thrust out his sword.
 
 SHWAAK!
 
 The strike tore through the air at a terrifying speed. In that instant, as time seemed to slow, the blood-red Force coiling around his blade was about to shoot toward Jin Taekyung’s back.
 
-No—in the very instant it was about to shoot forward—
+Then—
 
 FWOOSH!
 
-That dreadful heat suddenly rushed in. In the disarray of his composure, the Blood-Sword Demon Lord remembered someone he’d momentarily forgotten.
+Dreadful heat rushed at him. The Blood-Sword Demon Lord remembered the man he’d forgotten in his moment of panic.
 
 The Fire King, Jeok Cheongang.
 
 *That son of a bitch…!*
 
-He didn’t even have time to shout. The horrified Blood-Sword Demon Lord barely managed to turn his sword and block the flames that had rushed right up to him.
+He had no time to shout. He barely managed to turn his sword and block the flames bearing down on him.
 
 KWA-BOOM! GRRRR!
 
@@ -48,7 +48,7 @@ He saw the man behind it, too, steadily driving back his sword despite the blood
 
 “You dare take your eyes off me?”
 
-Beyond the trembling blade, barely holding back the Flame-Extinguishing Divine Fist, the Blood-Sword Demon Lord stared at Jeok Cheongang’s faint smile. His gaze sank low.
+Beyond the trembling blade that had only just stopped the Flame-Extinguishing Divine Fist, Jeok Cheongang wore a faint smile. The Blood-Sword Demon Lord’s gaze hardened.
 
 It was too late. One moment of surprise, one moment of carelessness, and Jin Taekyung had slipped away.
 
@@ -76,9 +76,9 @@ And…
 
 “Even if you died and came back a hundred times, you’d never understand why I’m here.”
 
-It was the spirit only shown by those who fought with their lives on the line—not to kill someone, but to protect something precious.
+The resolve of a man fighting with his life on the line not to kill someone, but to protect what was precious to him.
 
-“So when you die this time, don’t be reborn as a human again.”
+“So when you die this time, don’t be reborn as a human.”
 
 Ghostly blue fire, like the flames of hell, flickered in Jeok Cheongang’s eyes.
 
@@ -96,13 +96,13 @@ Jeok Cheongang’s smile broadened. His opponent was losing his composure.
 
 CRUNCH!
 
-The fearsome power bestowed on him by the mages—or sorcerers, as the Blood-Sword Demon Lord called them—poured into his sword. A pressure as vast as Mount Taishan bore down on Jeok Cheongang.
+The balance of power reversed in an instant. The fearsome strength bestowed on the Blood-Sword Demon Lord by the mages—or sorcerers, as he called them—flowed into his sword. Pressure like a mountain bore down on Jeok Cheongang.
 
 *Hup.*
 
 Jeok Cheongang caught his breath. A vein stood out on his forehead, and he felt his feet digging deep into the ground. Still, he did not retreat.
 
-No—he couldn’t.
+He couldn’t.
 
 *What? Hold him off for just half a quarter-hour?*
 
@@ -126,9 +126,9 @@ Not anymore.
 
 There was someone who trusted him more than anyone else in the world. He had something worth protecting with his life.
 
-*If you want, I’ll hold out for half a year, not half a quarter-hour. I’ll wait for you as long as it takes.*
+*If you want, I’ll hold out for half a year, not half a quarter-hour. I’ll wait as long as it takes.*
 
-That was why the Fire King Jeok Cheongang would not break.
+The Fire King Jeok Cheongang would not break.
 
 He could not.
 
@@ -148,7 +148,7 @@ All of it happened far behind a man cutting through the enemy lines like the poi
 
 * * *
 
-From some point on, I could clearly feel the constant roars and the shock waves from the immense power.
+For some time now, I’d been able to feel the constant roars behind me and the shock waves rolling out from them.
 
 *Old Master.*
 
@@ -166,7 +166,7 @@ It was one of the reasons I’d changed direction and left Jeok Cheongang behind
 
 But cut off the Magic that had made him so powerful, and we could turn the tide.
 
-Of course, as I’d expected, things weren’t going smoothly.
+Of course, things weren’t going smoothly.
 
 SHWISH-SHWISH-SHWISH!
 
@@ -174,9 +174,9 @@ Weapons whistled past my ears without pause. Flashes of light skimmed dangerousl
 
 Sabers, swords, spears, and the occasional weapon of a shape I didn’t recognize. They came in all kinds, but had two things in common.
 
-First, every one of them had been swung at me.
+Every one was aimed at me.
 
-Second, bright light flowed over the countless blades.
+And every blade shone with a brilliant light.
 
 *Peak masters…!*
 
@@ -196,7 +196,7 @@ Naturally, I didn’t know his title. Even if I’d known who he used to be, it 
 
 My heart sank, and not just because another formidable obstacle had appeared.
 
-The last Black Ghost, who hadn’t shown up on the battlefield, was still here. That made me think of one possibility I hadn’t wanted to believe.
+The last Black Ghost—the one who hadn’t appeared on the battlefield—had been left here. His presence brought to mind a possibility I hadn’t wanted to believe.
 
 WHOOOM!
 
@@ -214,7 +214,7 @@ But the feel of the strike traveled up the shaft to my fingertips. It hadn’t g
 
 *He dodged?*
 
-That was why I’d put everything into that first strike. The spear’s trajectory and timing had both been exact.
+I hadn’t let my guard down. Every second counted, so I’d put everything into that first strike. My aim and timing had both been exact.
 
 What I hadn’t accounted for was just how many variables Magic could introduce.
 
@@ -230,7 +230,7 @@ WHOOOM—KWA-BOOM!
 
 His next strike was faster and stronger than the last.
 
-No—a strike getting faster and stronger even now.
+No—it was growing faster and stronger even as it fell.
 
 > **System**
 > **Level:** 175
@@ -242,7 +242,7 @@ The heavy rush of air sharpened to a shriek. His massive, blunt saber came crash
 
 KWA-KWA-KWA-BOOM!
 
-The ground sank beneath the tremendous force. As I backed away to escape its shock wave, the sound of more than ten streaks of wind rang past my ears.
+The ground caved in beneath its force. I backed away from the shock wave, only to hear more than ten weapons whistle toward me.
 
 SLICE! SPURT!
 
@@ -250,13 +250,13 @@ Blood sprang from cuts across my body. I’d twisted aside the moment I sensed t
 
 No. They’d been too fast.
 
-*They’d grown stronger. Stronger than they were a moment ago.*
+*They got stronger. Just now.*
 
 I’d seen it clearly. At the last instant, the blades had gained speed and force, shooting toward me like flashes of light.
 
 I’d felt it, too: the Black Ghost and the hundred or so Peak masters closing in from every side—and, beyond their shoulders, a distinct pulse of energy spilling down from the hilltop.
 
-*They’re trying to stop me somehow. Before I can get any closer.*
+*They’re going to stop me however they can. Before I get any closer.*
 
 I wasn’t the only one who sensed danger.
 
@@ -266,13 +266,13 @@ The twenty white-robed figures standing in a circle—the mages—must have felt
 
 Everyone fears death. Me. Them.
 
-But what makes the difference in the face of that fear is the strength of one’s Will and desperation.
+What makes the difference in the face of that fear is the strength of your Will and how desperately you want to live.
 
 *Inventory open.*
 
 I spoke the command in my mind and threw myself forward with all my strength.
 
-Toward the more than a hundred Peak masters, who had grown even stronger.
+Toward the hundred or so Peak masters, stronger now than before.
 
 Toward the last Black Ghost, whom I had to get past.
 
@@ -280,15 +280,15 @@ PAPAT!
 
 One step.
 
-Every distance vanished, and time slowed.
+The distance vanished, and time slowed.
 
-At the same time, dozens of streaks of light blazed destructively, coloring the world around me. And a single bolt of lightning, more enormous than all of them combined, came crashing down toward me.
+Dozens of streaks of light blazed around me. A single bolt, larger than all of them combined, came crashing down toward me.
 
 SHWAAAK!
 
 Yeah. I knew it. I was one man against many, and the difference in our strength was plain to see.
 
-But what the eye could see wasn’t everything.
+But what I could see wasn’t everything.
 
 *I have to get through. No matter what it takes.*
 
@@ -298,7 +298,7 @@ Those fighting to protect something, and those who had forgotten what they were 
 
 They had no Will. They had forgotten desperation. They couldn’t even remember the word *duty*.
 
-But I wasn’t like them.
+I hadn’t.
 
 I knew what all of those things meant. That was why I could risk my life to keep going. Why I could throw myself into the oncoming attacks and strike with everything I had, down to my soul.
 
