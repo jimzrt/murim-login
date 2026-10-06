@@ -308,7 +308,7 @@ And me.
 
 Thud.
 
-Lee Seogeun flew more than ten meters[^2] before landing. Whether he had passed out or not, he did not move.
+Lee Seogeun flew more than ten meters before landing. Whether he had passed out or not, he did not move.
 
 I released the breath I had been holding and stood tall beneath the dozens of gazes that shifted from Lee Seogeun to me.
 
@@ -438,17 +438,17 @@ Lee Seogeun shouted harshly,
 
 At that moment, his brow prickled.
 
-“We should get moving, yes. But going to the Mount Heng Sword Sect would be a little troublesome.”
+- We should get moving, yes. But going to the Mount Heng Sword Sect would be a little troublesome.
 
 *Sound Transmission?*
 
-*Who are you?*
+“Who are you?”
 
 Lee Seogeun shouted, but no sound escaped his throat.
 
 His chest felt tight, and his throat hurt as if it were on fire. The carriage began moving again.
 
-“Let’s do this. Mount Beimang first. We can go to the Mount Heng Sword Sect afterward.”[^3]
+- Let’s do this. Mount Beimang first. We can go to the Mount Heng Sword Sect afterward.[^2]
 
 *What does that mean—*
 
@@ -476,8 +476,6 @@ The next moment, he plunged headfirst into darkness.
 
 The masked man smiled as he pulled the large blue-black needle from the dead man’s brow.
 
-[^1]: *Ssaksuga norata*—“the sprouts are yellow”—means someone shows no promise. Wipeng exaggerates the yellow to gold.
+[^1]: *Ssaksumyeon norata*—“the sprouts are yellow”—means someone is a hopeless case. The line pushes yellow all the way to gold to make the insult even stronger, not to suggest that Taekyung was born rich.
 
-[^2]: More than ten meters is more than about 33 ft.
-
-[^3]: Mount Beimang is traditionally associated with burial grounds; “going to Beimang” means dying.
+[^2]: Mount Beimang is traditionally associated with burial grounds; “going to Beimang” means dying.
