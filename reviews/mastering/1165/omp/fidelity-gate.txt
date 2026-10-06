@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, with three minor source details lost or added.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 87",
+      "current": "The deflected flames struck the empty ground.",
+      "defect": "“Empty” adds a detail the Korean does not establish. 애꿎은 대지 indicates the flames struck the ground undeservedly or by mistake, not necessarily an unoccupied area.",
+      "replacement": "The deflected flames struck the ground instead.",
+      "rationale": "The source says the flames hit 애꿎은 대지; it does not describe the ground as empty.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 215",
+      "current": "His voice carried them all. Then it gradually quieted, leaving only one.",
+      "defect": "The translation omits the image of the voice mingling with the wind as it fades.",
+      "replacement": "His voice, tangled with bitterness, anger, and grief, mingled with the wind and gradually faded, leaving only one.",
+      "rationale": "The Korean explicitly says the voice, mixed with several emotions, mingles with the wind before gradually settling.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 231",
+      "current": "If we survived this goddamn war, we’d live happier than anyone else in the world until the day we died.",
+      "defect": "The promise omits the specific intention to live until they died of old age.",
+      "replacement": "If we survived this goddamn war, we’d live happier than anyone else in the world until we died of old age.",
+      "rationale": "늙어 죽는 그 날까지 means “until the day we died of old age,” not simply until death.",
+      "confidence": 0.95
+    }
+  ]
+}

@@ -12,7 +12,7 @@ If he didn’t act now, he might never get another chance to unleash everything 
 
 His low voice reverberated far and deep.
 
-Language had power.
+Words had power.
 
 And the ancient Dragon’s words, imbued with immense magical power, reached a realm no other race had ever entered.
 
@@ -20,7 +20,7 @@ And the ancient Dragon’s words, imbued with immense magical power, reached a r
 
 The empty air split open.
 
-At the same time, countless eyes gleamed ominously from within the dark rift in space.
+Countless eyes gleamed ominously from within the dark rift.
 
 “Gwoooar!”
 
@@ -32,7 +32,7 @@ With a single Warp spell, Morgoth had gathered his remaining forces from the cit
 
 That one command was the signal.
 
-Monsters charged at humans, humans charged at monsters, and soon light and darkness blurred together.
+Monsters charged at humans, humans charged at monsters, and light and darkness blurred together.
 
 *Clang-clang-clang!*
 
@@ -42,9 +42,9 @@ The shriek of steel and the sickening sound of torn flesh swallowed the battle c
 
 His shock had lasted only an instant.
 
-Morgoth had already regained his composure. His mind was colder than ever.
+Morgoth had regained his composure. His mind was colder than ever.
 
-Even if his elite monster legion, the force that had guarded his stronghold, had suffered heavy losses, he still had the reinforcements he’d just summoned. That alone was enough.
+His elite monster legion, the force that had guarded his stronghold, had suffered heavy losses. But he still had the reinforcements he’d just summoned, and they were enough.
 
 No—even if every one of those monsters were wiped out, it wouldn’t matter.
 
@@ -56,7 +56,7 @@ There he was.
 
 A blue-black flame slowly cutting through the thousand Dragon-tooth soldiers surrounding him like a dense forest.
 
-At the same time, the short vow that small, insignificant human had spoken earlier echoed in Morgoth’s ears—and chilled a corner of his heart.
+And the short vow that small, insignificant human had made earlier echoed in Morgoth’s ears—the vow that had chilled him to the core.
 
 *Me? Morgoth? Becoming just like them?*
 
@@ -64,11 +64,11 @@ The Black Dragon bared his gleaming teeth and let out a low growl.
 
 Wrong. He was nothing like anyone else.
 
-With the Demon King Asmodeus gone, Morgoth alone was the true ruler destined to reign over every world—and that was exactly what he would become.
+With the Demon King Asmodeus gone, Morgoth alone was the true ruler of every world. He would make it so.
 
 “Fire Lance.”
 
-*Fwoosh—KABOOM!*
+*Fwoosh!*
 
 A dozen or so spears of flame appeared out of nowhere, about to rain down on Jin Taekyung.
 
@@ -82,7 +82,7 @@ Space shook.
 
 The deflected flames struck the empty ground. Steam billowed up, thick enough to obscure everything within a hundred-meter radius.
 
-But the Black Dragon’s gleaming eyes saw clearly through it all.
+But the Black Dragon’s eyes saw clearly through it.
 
 A group of people covered head to toe in blood and dust, their eyes still blazing.
 
@@ -118,13 +118,13 @@ And through the chaos, a voice I’d been waiting for reached my ears.
 
 Magic Johnson. There he was.
 
-At the same time, the blades of wind that rushed in passed close by the two Dragon-tooth soldiers charging at my flank.
+Blades of wind swept past the two Dragon-tooth soldiers charging at my flank.
 
 *Shwaa!*
 
 Two heads floated into the air.
 
-If he’d aimed anywhere but their necks, even the Grand Mage’s Magic wouldn’t have been enough to kill them in one blow. But Magic Johnson had fought them before, in the Middle East. He knew their weakness exactly.
+If he’d aimed anywhere but their necks, even the Grand Mage’s Magic wouldn’t have killed them in one blow. But Magic Johnson had fought them before, in the Middle East. He knew their weakness.
 
 He also knew this wasn’t the time for a long, friendly greeting.
 
@@ -132,7 +132,7 @@ He also knew this wasn’t the time for a long, friendly greeting.
 
 To the man who’d greeted me with a single syllable, I sent a dagger I’d just summoned from my Inventory.
 
-More precisely, I threw it at the Dragon-tooth soldier lunging over his shoulder.
+More precisely, I threw it at the Dragon-tooth soldier lunging at him from behind.
 
 *Thwack!*
 
@@ -146,11 +146,11 @@ The dagger flashed forward and shattered the helmet made of some unknown metal�
 
 “Everyone here knows that. We knew, and we came anyway.”
 
-That was true.
+Of course they had.
 
 They’d known their lives would be in danger, yet they’d answered my call willingly.
 
-There were only twenty S-rank Hunters left in the entire world—or rather, now only a dozen or so—and they’d chosen only the very best before racing here from all over the globe.
+There had been only twenty S-rank Hunters in the entire world. Now there were barely a dozen left. They’d selected only the very best to bring with them and raced here from all over the globe.
 
 Across continents and oceans.
 
@@ -162,7 +162,7 @@ Anyone who’d ever faced a Dragon-tooth soldier would react the same way.
 
 They had more magical power than even the strongest Death Knights, which ranked at the top of A-rank. Their bodies were horribly tough, and they were stubbornly hard to kill.
 
-Calling each one as formidable as a named monster would be no exaggeration.
+Each one was as troublesome as a named monster. That was no exaggeration.
 
 But even Magic Johnson, who knew all this well, didn’t know one thing yet.
 
@@ -210,7 +210,7 @@ Anger.
 
 And Magic Johnson wasn’t the only one feeling it.
 
-“Near the end of the Great Cataclysm, we talked about it when we were all together.”
+“Near the end of the Great Cataclysm, when we were all together, we talked about what we’d do.”
 
 *Boom!*
 
@@ -224,7 +224,7 @@ The fists he kept throwing carried more than the mysterious power called aura.
 
 They carried memories.
 
-The memories of those days, so painful they could have killed him, yet filled with hope that things would soon get better, poured forth with his aura.
+Memories of days so painful he’d thought they might kill him, yet filled with hope that things would soon get better. They poured out with his aura.
 
 “Then why?!”
 
@@ -242,9 +242,9 @@ Why had it come to this?
 
 Why couldn’t they keep even that simple promise to live happily for a long time? Why did they have to suffer this humiliation even after death?
 
-But no voice answered his questions.
+But no voice answered him.
 
-The only answer was the Black Dragon’s Magic once again filling the sky, and the footsteps of his old comrades as they advanced.
+All that came in reply was the Black Dragon’s Magic filling the sky once more—and the footsteps of his old comrades advancing beneath it.
 
 *Fwoosh, crackle!*
 
@@ -272,7 +272,7 @@ Magic Johnson stood at their head. Behind him were the world’s greatest mages,
 
 The sky darkened, then flashed.
 
-A ceiling of rock suddenly appeared over our allies’ heads. When it met the lightning, a tremendous explosion shook the battlefield.
+A ceiling of rock appeared over our allies’ heads. It met the lightning with a tremendous explosion.
 
 No—the two spells canceled each other out.
 
@@ -292,7 +292,7 @@ This time, people were following me.
 
 *Whoooooosh!*
 
-Another group of familiar faces finally broke through the chaotic battlefield.
+More familiar faces finally broke through the chaos.
 
 The brown-haired foreigner at the front tipped his head toward me.
 
@@ -304,7 +304,7 @@ The brown-haired foreigner at the front tipped his head toward me.
 
 That irritating way of speaking was exactly as I remembered it.
 
-Prince Felix had joined us with four S-rank Hunters. He added, “Go. Now. We’ll handle things here.”
+Prince Felix had arrived with four S-rank Hunters. He added, “Go. Quickly. We’ll handle things here.”
 
 I didn’t answer.
 
@@ -320,11 +320,9 @@ I cut one down, then another.
 
 Kept going. Didn’t stop.
 
-And then—
+Toward the monster who was the beginning and end of it all.
 
 *Crack!*
-
-Toward the monster who was the beginning and end of it all.
 
 *BOOM!*
 
@@ -332,4 +330,4 @@ I shot forward like a streak of flame.
 
 “Morgoth!”
 
-In the Black Dragon’s vast, gleaming eyes, a human leaping upward, stomping on thin air, was reflected.
+In the Black Dragon’s vast, gleaming eyes, a human rose into the air, treading on empty space.
