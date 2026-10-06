@@ -38,7 +38,7 @@ Frost coated every clipped syllable. The atmosphere was so chilling that even I 
 
 “Why, obviously the Third Young Master, the chief culprit behind this—ah.”
 
-That bastard was bald, and he couldn’t read the room either. The White Tiger Hall Master let his words trail off, but it was already too late.
+That bastard was bald, and he couldn’t read the room either. The White Tiger Hall Leader let his words trail off, but it was already too late.
 
 “So you intend to offer the Third Young Master’s head to the Mount Heng Sword Sect over something that hasn’t even been confirmed? Is that something a hall master of this family should say?”
 
@@ -128,7 +128,7 @@ The biggest problem was that he led the opposing faction, the Council of Elders.
 
 *Fuck. I’m screwed.*
 
-I began turning toward the door in preparation for the worst when the Head Elder’s first words reached my ears.
+I began inching toward the door in preparation for the worst when the Head Elder’s first words reached my ears.
 
 “You’re rotten to the core.”
 
@@ -142,7 +142,7 @@ But I hadn’t.
 
 “Even beasts join forces and fight when an enemy enters their den. And yet men who are supposedly senior members of this family offer up the head of a direct-line member as a solution to stop a war. Heh. So men like this sit in our family council.”
 
-“N-no, Old Master. You misunderstand. It was merely…”
+“N-no, Head Elder. You misunderstand. It was merely…”
 
 “White Tiger Hall Master.”
 
@@ -150,7 +150,7 @@ At the Head Elder’s icy call, the White Tiger Hall Master stiffened.
 
 “Was I away for too long? Or is this what happened because the Family Head was absent?”
 
-“N-no, Old Master.”
+“N-no, Head Elder.”
 
 Judging by his expression alone, he looked like some ripped old man at the gym asking if you’d eaten. But his words were downright vicious.
 
@@ -186,13 +186,13 @@ The Head Elder laughed heartily.
 
 When the Head Elder bowed, the others frantically waved their hands and bent at the waist in return.
 
-“Oh, Old Master, please. We were the ones who failed to think matters through.”
+“Oh, Head Elder, please. We were the ones who failed to think matters through.”
 
 “Please don’t do this.”
 
 “You’re only making us more ashamed. Please…”
 
-“Old Master…!”
+“Head Elder…!”
 
 Jin Wikyung was the one who had spared them, yet they were making a huge fuss over the Head Elder.
 
@@ -300,7 +300,7 @@ I could scour every mountain I came across and rack up EXP and Fame—
 
 A martial artist had rushed into the hall and shouted.
 
-Someone took the rolled sheet of paper and unfurled it. Red characters, as though written in blood, came into view.
+Someone took the tightly rolled sheet of paper and unfurled it. Red characters, as though written in blood, came into view.
 
 Even without the System translating them, I could read them.
 
