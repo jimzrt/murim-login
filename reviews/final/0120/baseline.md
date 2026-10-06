@@ -231,7 +231,7 @@ Both were loot I had obtained after defeating Jopil several months ago.
 
 I’d thought it was merely a little sharper and harder than other swords. Never in my wildest dreams had I imagined it was actually Ten-Thousand-Year Cold Iron—or that it had such an ability.
 
-In that sense, *seven parts luck and three parts skill* didn’t suit me today. *Nine parts luck and one part qi* was much more appropriate.
+In that sense, *seven parts luck and three parts skill* didn’t suit me today. *Nine parts luck and one part qi* was much more appropriate.[^1]
 
 *Though I’m not sure this really counts as good luck.*
 
@@ -261,7 +261,7 @@ Right. Good to see you, Mukyung.
 
 * * *
 
-By the time the two-shichen[^1] search was over, Lee Seowol was soaked in blood.
+By the time the two-shichen search was over, Lee Seowol was soaked in blood.
 
 “How many survivors?”
 
@@ -353,7 +353,7 @@ Of course, Jin Mukyung was no exception.
 
 More precisely, if not for the Quest rewards, half of them might have needed funerals.
 
-The thirty **Superior Wound Medicines** and thirty **Ten-Year He Shouwu**[^2] I’d received as rewards were remarkably effective at treating external wounds and Internal Injuries.
+The thirty **Superior Wound Medicines** and thirty **Ten-Year He Shouwu** I’d received as rewards were remarkably effective at treating external wounds and Internal Injuries.
 
 *I did consider saving them for an emergency…*
 
@@ -373,11 +373,11 @@ I was about to walk past Lee Seowol, who was standing there in a daze, when I su
 
 “Ah, here it is.”
 
-I pretended to rummage through my robes and pulled a bamboo slip[^3] from my Inventory.
+I pretended to rummage through my robes and pulled a bamboo slip from my Inventory.
 
-“Here. It’s from my hyung[^4]… no, from the Lesser Family Head.”
+“Here. It’s from my hyung… no, from the Lesser Family Head.”
 
-Lee Seowol accepted the bamboo slip[^3] with a bewildered expression.
+Lee Seowol accepted the bamboo slip with a bewildered expression.
 
 The instant she took it, a System notification rang out.
 
@@ -391,7 +391,4 @@ Invitation delivery.
 
 If I had to do that twice, someone was going to die.
 
-[^1]: A *shichen* is a traditional time unit of approximately two hours; two shichen are about four hours.
-[^2]: *He Shouwu* is the root of Chinese knotweed, used in traditional Chinese medicine.
-[^3]: A bamboo slip is a strip of bamboo used as a writing surface.
-[^4]: *Hyung* is a Korean term a younger man uses for an older brother or a close older male.
+[^1]: A playful variation on the Korean saying *seven parts luck, three parts skill*, replacing skill with *qi* and shifting the balance even further toward luck.
