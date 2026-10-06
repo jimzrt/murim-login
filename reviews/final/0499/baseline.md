@@ -42,8 +42,6 @@ Jin Wikyung looked at Wipeng as though he wanted to purge him on the spot, then 
 
 “Ahem. It seems you’ve had a great deal bottled up.”
 
-In an ordinary relationship between lord and retainer, Wipeng would have denied it. But he was one of the few people who could openly give Jin Wikyung a hard time.
-
 “Yes, my lord. Did you not know?”
 
 “I knew, but I didn’t expect you to come all this way to tell me.”
@@ -76,23 +74,23 @@ It was around the time Jeok Cheongang and I left the Jin Family of Taiyuan for M
 
 I could still remember our parting clearly.
 
-“Excuse me, Sect Leader Lee.”
+*“Excuse me, Sect Leader Lee.”*
 
-“Young Lady.”
+*“Young Lady.”*
 
-“Pardon?”
+*“Pardon?”*
 
-“Please call me Young Lady.”
+*“Please call me Young Lady.”*
 
-“Ah, yes. Young Lady Lee, then.”
+*“Ah, yes. Young Lady Lee, then.”*
 
-“Go ahead, Young Master Jin.”
+*“Go ahead, Young Master Jin.”*
 
-“May peace prevail throughout your household.”
+*“May peace prevail throughout your household.”*
 
-“……”
+*“……”*
 
-“And may your sect prosper too. Whatever you do, I hope it all goes well.”
+*“And may your sect prosper too. Whatever you do, I hope it all goes well.”*
 
 Hmm. I thought we’d parted on a fairly warm note.
 
@@ -152,7 +150,7 @@ Even the direct disciples of the Nine Sects and One Gang, with their generous su
 
 *And then he met Cheongpung.*
 
-For Jin Mukyung, Cheongpung’s existence must have been an enormous shock and an equally enormous stimulus. The fact that he was still training in seclusion more than a year later was proof of it.
+For Jin Mukyung, Cheongpung’s existence must have been an enormous shock and an equally enormous stimulus.
 
 *He’ll accomplish something. I’m sure of it.*
 
@@ -164,7 +162,7 @@ He hadn’t had the Sword Saint to teach him, or exceptional elixirs and martial
 
 He wasn’t going to emerge when he was nearly sixty, was he?
 
-If he survived on nothing but fasting pills until then, I’d genuinely respect him and treat him as my hyung.[^2] Frankly, a full year of eating those tasteless things was impressive enough.
+If he survived on nothing but fasting pills until then, I’d genuinely respect him and treat him as my hyung. Frankly, a full year of eating those tasteless things was impressive enough.
 
 Even Wudang Daoists brought jerky instead of fasting pills when they practiced wall-facing meditation. What did that tell you?
 
@@ -200,7 +198,7 @@ Jang Taebo sighed.
 
 Jin Wikyung stared meaningfully at Jang Taebo’s threatening muscles, then moved his lips.
 
-“Youngest.”
+—Youngest.
 
 By now, I knew exactly why he’d summoned Jang Taebo. I tapped White Flame, strapped across my back, and let it fall.
 
@@ -226,7 +224,7 @@ Jang Taebo glared at me as though he wanted to tear me apart.
 
 Jang Taebo sighed as though the ground itself had collapsed, then looked at Jin Wikyung.
 
-“Was this why you gave me all sorts of help?”
+“Was this why you gave me all sorts of help over the past few months?”
 
 “Of course not. It was a simple kindness to the artisan who made a divine weapon for my beloved youngest brother.”
 
@@ -264,7 +262,7 @@ A smug smile appeared on Jang Taebo’s face.
 
 “The conditions from back then? You can’t mean…”
 
-“The Herb of Eternal Youth, gongcheong seokyu,[^3] a dragon’s claw, or a dragon pearl. Bring me any one of those.”
+“The Herb of Eternal Youth, gongcheong seokyu, a dragon’s claw, or a dragon pearl. Bring me any one of those.”
 
 Beep.
 
@@ -278,9 +276,9 @@ Clang! Crash!
 
 I sprang to my feet and shouted.
 
-“Come on! Where am I supposed to find any of that? You’re asking for a dragon, not even an imugi!”[^4]
+“Come on! Where am I supposed to find any of that? You’re asking for a dragon, not even an imugi!”
 
-“Imugi[^4] or dragon, bring me one first. Then I’ll bury my bones in the Jin Family of Taiyuan. If you can’t, keep quiet.”
+“Imugi or dragon, bring me one first. Then I’ll bury my bones in the Jin Family of Taiyuan. If you can’t, keep quiet.”
 
 Beep.
 
@@ -288,7 +286,7 @@ Beep.
 >
 > - Quest details have been changed.
 >
-> - Quest Objective: Obtain an imugi’s[^4] claw.
+> - Quest Objective: Obtain an imugi’s claw.
 
 I checked the changed System window and nodded.
 
@@ -296,11 +294,11 @@ I checked the changed System window and nodded.
 
 “My mind hasn’t changed, so don’t waste your effort—what are you suddenly giving me?”
 
-“An imugi’s[^4] claw.”
+“An imugi’s claw.”
 
 “Huh?”
 
-“An imugi’s[^4] claw. You told me to bring you one.”
+“An imugi’s claw. You told me to bring you one.”
 
 “…What?”
 
@@ -308,7 +306,7 @@ Jang Taebo’s pupils shook as though an earthquake had struck.
 
 He was a Master Artisan ranked among the three greatest in the world, and he had once served as the Guild Leader of the Ironcraft Guild, the finest blacksmith organization under Heaven.
 
-“An… an imugi’s[^4] claw? Is it real?”
+“An… an imugi’s claw? Is it real?”
 
 “Look at the length. It’s obviously not one of mine.”
 
@@ -340,10 +338,6 @@ Along with the cheerful System notification, Jin Wikyung warmly put an arm aroun
 
 “……!”
 
-Jang Taebo’s eyes were utterly vacant. The Jin Family of Taiyuan had acquired its very own Dobby[^5]—no, slave.
+Jang Taebo’s eyes were utterly vacant. The Jin Family of Taiyuan had acquired its very own Dobby—no, slave.
 
 [^1]: Zhang Liang, Han Xin, and Xiao He were three founding ministers of the Han dynasty. Han Xin was a military commander; Zhang Liang and Xiao He were civil officials.
-[^2]: *Hyung* is a Korean term a man uses for an older brother or an older man he is close to.
-[^3]: *Gongcheong seokyu* is a rare elixir in martial-arts fiction. *Seokyu* also sounds like the Korean word for petroleum.
-[^4]: An *imugi* is a serpent-like creature in Korean folklore associated with becoming a dragon.
-[^5]: Dobby is an enslaved house-elf in the *Harry Potter* series.
