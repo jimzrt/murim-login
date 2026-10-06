@@ -10,13 +10,13 @@ It was the first and last treasured blade his father had given him. He had been 
 
 *Shhk!*
 
-Blood sprayed with a cold slicing sound. The pair of eyes that had watched it all sank deeply.
+Blood sprayed with a cold slicing sound. The eyes that had watched it all grew dark.
 
-“What have you done?”
+“What are you doing?”
 
 The question held a great deal, but the answer was simple.
 
-“Because this isn’t the path I want.”
+“Choosing a different path.”
 
 Sama Pyo let go of the hilt, cold beneath his hand.
 
@@ -34,13 +34,13 @@ Sama Pyo calmly met Sima Gong’s gaze as his father shouted, his voice thick wi
 
 “What?”
 
-“Because it isn’t what comes first—or what’s best.”
+“Because what comes first isn’t necessarily what’s best.”
 
 For Sama Pyo, this wasn’t a question of what came first.
 
 It was a question of what was right—of what was better.
 
-“I’d forgotten for my whole life. No—I’d grown so used to it that I kept pretending not to know. But not anymore.”
+“I forgot that for most of my life. No, I’d grown so used to things as they were that I kept pretending not to know. But not anymore.”
 
 His life in Gansu had been one long struggle.
 
@@ -86,13 +86,13 @@ Despite its grand name, it had fewer than ten members. Among them, Sama Pyo had 
 
 There were no shackles or labels there.
 
-They always trusted one another and fought together, and that was how they overcame each crisis.
+They trusted one another, fought together, and saw each other through every crisis.
 
 Perhaps that was why Sama Pyo had begun looking back on his life again and again.
 
 Why, at some point, he had begun to feel something unfamiliar toward his merciless father.
 
-“It occurred to me that, when you look at it, you’re rather pitiable yourself.”
+“It occurred to me that you might be rather pitiable yourself.”
 
 “…!”
 
@@ -110,7 +110,7 @@ Now Sama Pyo looked at his dying father with calm, sorrowful eyes.
 
 *Splash.*
 
-“Do you know?”
+“Do you know something?”
 
 Sama Pyo sat in the pool of blood and met his father’s eyes. Watching them tremble, he continued slowly.
 
@@ -122,7 +122,7 @@ Sama Pyo sat in the pool of blood and met his father’s eyes. Watching them tre
 
 “You…”
 
-“I’m not asking to be forgiven. I’m choosing to bear it.”
+“I’m not asking to be forgiven. I’m going to bear the consequences.”
 
 There was such peace in his answer, such acceptance, that Sima Gong could say nothing.
 
@@ -130,7 +130,7 @@ He could only struggle to hold back a feeling he’d long forgotten—a feeling 
 
 His vision slowly darkened. His breathing grew short.
 
-“You asked why I did it. Why I, who’d spent my whole life chasing survival and practical gain, made such a foolish choice…”
+“You asked me why I did it. Why I, who spent my whole life chasing survival and gain, made such a foolish choice…”
 
 To save the heir who would inherit everything he had?
 
@@ -148,7 +148,7 @@ He didn’t even realize he had drawn his final breath.
 
 *Slump.*
 
-His head suddenly drooped.
+His head fell to one side.
 
 To his father, who had died so wretchedly, as if burdened by the deeds of his life, the son whispered, “I heard you. Clearly.”
 
@@ -168,7 +168,7 @@ Just like now.
 
 *Shwaa!*
 
-A fierce, piercing whistle and a flash of light came from the side.
+A piercing whistle came from my side, accompanied by a flash of light.
 
 But speed was always relative.
 
@@ -184,17 +184,17 @@ The Sword Energy, snuffed out like a candle in the wind.
 
 The blade that had carried that mighty energy.
 
-And finally, the body of the person who had launched this futile attack.
+And finally, the body of the man who had made the futile attack.
 
 *Fwoosh!*
 
 A tremendous fountain of blood burst from his cleanly severed body. I didn’t blink at the sight.
 
-Neither did the other hunting dogs charging from every direction, even now.
+Neither did the other hunting dogs charging me from every direction.
 
 *Thud, crunch! Whump!*
 
-I drove my spearhead into the chest of the first enemy charging straight at me, then crushed the face of another who came at me from the blind spot with one punch. At the same time, I yanked out the embedded spearhead and swung it.
+I drove my spearhead into the chest of the first one coming straight at me. With my other hand, I crushed the face of an enemy lunging from my blind spot. Then I yanked the embedded spearhead free and swung it.
 
 “Ghk—kgh.”
 
@@ -224,7 +224,7 @@ I could only fight. Keep knocking them down.
 
 Those soulless wooden puppets.
 
-Those hunting dogs, those moths to the flame blindly carrying out their final order even though the master who held their leashes was gone.
+Those hunting dogs, those moths blindly carrying out their final order even though the master who held their leashes was gone.
 
 Of course, I knew what this was.
 
@@ -232,23 +232,23 @@ A one-sided massacre. Slaughter.
 
 But I had to do it.
 
-It was the only way to end this blood-soaked battle, and the only way to save as many allies as possible.
+It was the only way to end this bloody battle and save as many of our people as I could.
 
-So I had no choice but to cling with all my strength to the thread of consciousness that felt ready to snap at any moment.
+So I clung with all my strength to the thread of consciousness that felt ready to snap at any moment.
 
 *Come on.*
 
-I muttered the words to myself and charged toward the enemy.
+I called to them in my head and charged.
 
 Or tried to.
 
-That was when my vision began to fade.
+That was when my vision faded.
 
 “…!”
 
-A red alarm bell rang in my head.
+An alarm blared in my head.
 
-My mental strength had reached its limit long ago. Now, unable to endure any longer, it was sending me a warning.
+My mind had reached its limit long ago. Now it was sending me a warning it could no longer hold back.
 
 But by the time I gritted my teeth and forced my eyes wide, it was already too late.
 
@@ -270,7 +270,7 @@ They fell far short.
 
 Under normal circumstances, I would’ve scoffed at the difference between us.
 
-Even so, I had a gut feeling I wouldn’t be able to dodge all their attacks.
+Even so, I knew I couldn’t dodge every blade.
 
 And while my body refused to move, one ridiculous thought crossed my mind.
 
@@ -302,11 +302,11 @@ Just like now.
 
 Starting with Namho, perched on the shoulder of Taishan—who had just delivered a line to make Julius Caesar weep—familiar faces burst onto the scene like streaks of light.
 
-“Young Master! No, Benefactor! No, Captain!”
+“Young Master! No, Benefactor! No, Pavilion Master!”
 
 *Shhk!*
 
-Ju Hwaran split an enemy’s skull while blurting out a three-step change of address that even Transformers would’ve had trouble keeping up with.
+Ju Hwaran split an enemy’s skull while changing how she addressed me three times in a breath. Even a Transformer would’ve struggled to keep up.
 
 “Fools! You dare try to harm the Captain? Your courage is admirable, but first you’ll have to get past me—the Captain’s right arm and heart! I, Hyuk Mu—whoa, shit!”
 
@@ -318,19 +318,19 @@ Hyuk Mujin had charged in with a grand entrance, only to scramble backward when 
 
 “You should try shutting yours first.”
 
-*Thrust!*
+*Stab, stab!*
 
-Song Ilseom saved Hyuk Mujin and cut down the remaining enemies in a flash. And… wait, who was that black, shaggy old guy?
+Song Ilseom and… wait, who was that black, shaggy old guy? Together, they saved Hyuk Mujin and cut down the remaining enemies in a flash.
 
 “The Seven Masters of the Black Horse?”
 
 The name slipped out before I knew it. The middle-aged man, a former mounted bandit, twisted his already fearsome face.
 
-“Not Black Horse—White Horse! I’m Ma Junggeol, eldest of the Seven Masters of Baekma Bang! Who do you think I went through all this shit for? And you forgot me…!”
+“Not Black Horse—White Horse! I’m Ma Junggeol, eldest of the Seven Masters of Baekma Bang! Who do you think went through all this shit for you? And you forgot me…!”
 
 “Lower your voice. While I’m asking nicely.”
 
-At Ju Hwaran’s chilling warning, Ma Junggeol clamped his mouth shut. A laugh escaped me before I knew it.
+Ma Junggeol clamped his mouth shut at Ju Hwaran’s chilling warning. A laugh escaped me.
 
 It was just good to see them.
 
@@ -338,7 +338,7 @@ To know we hadn’t lost anyone.
 
 And…
 
-Because I could see the one last person I’d thought I’d never meet again.
+To see the last person, the one I’d thought I might never see again.
 
 “You made it?”
 
