@@ -6,7 +6,7 @@ It was a strange sensation—one even he, a fiend who had made his mark on an en
 
 Beneath a sky buried in storm clouds, countless enemies and allies were locked in a desperate battle. And yet it seemed as though those two alone filled his field of vision.
 
-That was how much weight and meaning their titles carried: Fire King and Bow Saint.
+That was how much weight their titles carried: Fire King and Bow Saint.
 
 All the more so when two living legends appeared in one place.
 
@@ -24,7 +24,7 @@ Step.
 
 For an instant, three footsteps sounded together.
 
-Jeok Cheongang and the Bow Saint slowly closed in from either side. The Blood-Sword Demon Lord instinctively stepped back, then belatedly realized what he’d done and flushed.
+Jeok Cheongang and the Bow Saint slowly closed in from either side. The Blood-Sword Demon Lord instinctively stepped back, then realized what he’d done and flushed.
 
 He’d been pushed back.
 
@@ -54,11 +54,11 @@ The Blood-Sword Demon Lord’s eyelids quivered.
 
 It was an obvious taunt, but he could feel that Jeok Cheongang wasn’t just putting on a show.
 
-No matter how far he’d surpassed his former limits, it was hard to imagine him gaining the upper hand against both the Fire King and the Bow Saint at once.
+No matter how far he’d surpassed his former limits, it was hard to imagine gaining the upper hand against both the Fire King and the Bow Saint at once.
 
 Shwaak!
 
-And then, at that very moment, a streak of light cut through the air. For all its dazzling brilliance, it was more than enough to deepen the Blood-Sword Demon Lord’s unease.
+At that moment, a streak of light cut through the air. Despite its dazzling brilliance, it only deepened the Blood-Sword Demon Lord’s unease.
 
 Rrrr, KWA-BOOM!
 
@@ -126,7 +126,7 @@ They had written their own legends then, and carried those legends into the pres
 
 That was how legends lasted. How giants were remembered forever.
 
-And perhaps, here today, a new verse would be written in that legend.
+And perhaps, here today, a new verse would be written in their legend.
 
 Two great martial artists had felled the fiend known as the Blood-Sword Demon Lord on the open plain of the Great Snow Mountain, amid blood and snow.
 
@@ -144,7 +144,7 @@ A sudden, burning pain ran along his arm and the side of his neck.
 
 The Bow Saint.
 
-She had separated her beloved weapon, which had been shaped like a bow, into two curved swords. She had already passed him by.
+She had split her bow-shaped weapon into two curved blades. She had already passed him by.
 
 With two flashes of those blades, swung stealthily yet swiftly as lightning, she had torn away part of his nape and the shoulder of his left arm.
 
@@ -202,7 +202,7 @@ At Jeok Cheongang’s cold voice, the Blood-Sword Demon Lord’s vision flipped 
 
 The dark sky. The ground covered in blood and snow. The countless people fighting and killing one another across it.
 
-Everything turned blindingly white, then red.
+Everything turned white, then red.
 
 Flame Divine Palm.
 
@@ -222,7 +222,7 @@ As the Blood-Sword Demon Lord spat blood mixed with bits of his innards, a voice
 
 Was he hearing things?
 
-The Blood-Sword Demon Lord blinked weakly as he wondered. Then he realized the slope beneath his battered body was a hillside, and that the voice he’d just heard sounded uncannily familiar.
+The Blood-Sword Demon Lord blinked weakly. Then he realized he’d landed on a sloping hillside, and that the voice he’d just heard was clear and familiar.
 
 “Guh, hahahaha!”
 
@@ -244,7 +244,7 @@ The savior, the Grand Mage, gazed silently at the Blood-Sword Demon Lord. She sl
 
 Shwaak!
 
-A streak of light whistled through the air. The Blood-Sword Demon Lord’s eyes flew wide.
+A sharp whistle cut through the air. The Blood-Sword Demon Lord’s eyes flew wide.
 
 Beyond the Grand Mage’s shoulder, he saw a young man hauling himself up from where he had fallen. His eyes blazing, the young man brought his spearhead down.
 
@@ -292,7 +292,7 @@ The Blood-Sword Demon Lord bared his bloodied teeth in a grin.
 
 If he were his former self—or even just a flesh-and-blood human—those injuries would have killed him several times over.
 
-But his body, strengthened to an extreme degree, had granted him a brief handful of moments. Those moments would change everyone’s fate.
+But his body, strengthened to an extreme degree, had granted him a few moments. Those moments would change everyone’s fate.
 
 The Fire King and the Bow Saint, both rushing here with all their strength even now.
 

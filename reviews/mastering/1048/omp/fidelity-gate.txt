@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is faithful overall, with one minor physical detail softened.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 189–191",
+      "current": "A fierce, unexpected pain shot through him.",
+      "defect": "The source describes the pain as fire-like; “fierce” conveys intensity but loses the burning quality.",
+      "replacement": "A sudden, searing pain shot through him.",
+      "rationale": "불같은 통증 means pain like fire, adding a specific burning sensation to the unexpected pain.",
+      "confidence": 0.91
+    }
+  ]
+}
