@@ -26,7 +26,7 @@ Of the more than four hundred books, only about a hundred remained after I took 
 
 *What an incredible bastard.*
 
-If he’d been born in Korea, he would’ve run an illegal adult website. If he’d been born in the United States, he would’ve ended up in prison.
+If he’d been born in Korea, he would’ve run an illegal adult website. If he’d been born in America, he would’ve ended up in prison.
 
 At any rate, once I finished sorting them, there were only about thirty martial arts manuals.
 
@@ -58,7 +58,7 @@ Ding.
 
 The description of the Jin Family’s Spear Technique wasn’t much different. Except…
 
-*Few variations and monotonous, my ass.*
+*“Few variations and monotonous,” my ass.*
 
 The hereditary martial art created by some fellow called the founder—or was it Archaeopteryx?—was insanely complicated. Just thinking about last night made me grind my teeth.
 
@@ -82,7 +82,7 @@ I had to follow the entire sequence perfectly for it to count as one completion.
 
 *What a fucking garbage game.*
 
-There was a major difference between my real-world physique and this character’s. I was nearly half a handspan[^1] shorter now, and my reach was shorter too. I couldn’t make the fine adjustments I needed, so one mistake followed another.
+There was a major difference between my real-world physique and this character’s. I was nearly half a handspan shorter now, and my reach was shorter too. I couldn’t make the fine adjustments I needed, so one mistake followed another.
 
 *It’s a miracle I succeeded at all.*
 
@@ -176,7 +176,7 @@ I answered sternly.
 
 I couldn’t exactly talk down to a man who clearly looked over forty and call him “you bastard” or “you punk.”
 
-Damn game. The graphics were so good I couldn’t even speak informally.
+*Damn game. The graphics are so good I can’t even speak informally.*
 
 *At this rate, I’ll end up becoming buddies with an NPC.*
 
@@ -244,7 +244,11 @@ Wipeng sighed.
 
 “Now, now.”
 
-“Since we’re on the subject, grab anyone in the family and ask them. To you, he’s your beloved little brother. To everyone else… Honestly, I can’t even say it.”
+“Since we’re on the subject, grab anyone in the family and ask them. To you, he’s your beloved little brother. To everyone else…”
+
+Wipeng shook his head.
+
+“Honestly, I can’t even say it.”
 
 “Do you have something against my youngest brother? Why are you talking like that?”
 
@@ -394,17 +398,17 @@ That brother-obsessed idiot had given this order?
 
 At that moment, Wipeng’s lips moved. A voice reached my ears at the same time, carrying a strange sensation unlike ordinary speech.
 
-“This is Sound Transmission. Don’t be alarmed. Just listen.”
+> “This is Sound Transmission. Don’t be alarmed. Just listen.”
 
 Sound Transmission. I remembered reading about it in martial arts novels. A kind of telepathy that only masters could use.
 
-“You may not know this because you’ve lost your memory, but the Third Young Master is considered a serious troublemaker. A harsher punishment may be handed down soon, so the Lesser Family Head is taking action before that happens.”
+> “You may not know this because you’ve lost your memory, but the Third Young Master is considered a serious troublemaker. A harsher punishment may be handed down soon, so the Lesser Family Head is taking action before that happens.”
 
 I’d worked hard all twenty-seven years of my life. How had I ended up facing an even harsher punishment?
 
 As I lamented my fate, Wipeng’s Sound Transmission continued in my ear.
 
-“It may be called indefinite confinement, but do you really think the Lesser Family Head intends to bury you in the training hall for the rest of your life?”
+> “It may be called indefinite confinement, but do you really think the Lesser Family Head intends to bury you in the training hall for the rest of your life?”
 
 I shook my head.
 
@@ -412,7 +416,7 @@ I shook my head.
 
 Not unless he wanted the two of us locked up together in the training hall.
 
-“I’ll get you out within seven days and nights at the latest. How does that sound?”
+> “I’ll get you out within seven days and nights at the latest. How does that sound?”
 
 There was fierce determination in Wipeng’s eyes. If I refused this too, he looked ready to beat me and drag me there if he had to.
 
@@ -436,11 +440,11 @@ He was probably every bit the human butcher Jin Wikyung was.
 
 Wipeng’s eyes widened as he asked,
 
-“What will you do?”
+> “What will you do?”
 
 Even as I trembled with fear, I held up three fingers.
 
-“…You want me to get you out in three days?”
+> “…You want me to get you out in three days?”
 
 *What kind of bastard is this?*
 
@@ -449,5 +453,3 @@ Wipeng glared at me with that exact look, then finally sighed.
 “Escort him.”
 
 #TrainingHall #ClosedDoorTraining #Negotiation #Successful.
-
-[^1]: A Korean handspan (*ppyeom*) is the distance between the tips of an outstretched thumb and little finger, roughly 20 cm (8 in). Half a handspan is about 10 cm (4 in).
