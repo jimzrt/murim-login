@@ -24,7 +24,7 @@ The voice that slipped between his bloodless lips was more than a sound. It was 
 
 A voice he had never forgotten. A face that had grown a little unfamiliar.
 
-The name of the man he was seeing again after well over ten years spilled from Jeok Cheongang’s lips with a cold breath.
+Jeok Cheongang breathed out the name of the man he was seeing for the first time in more than ten years.
 
 “Cheon-ah, how are you—?”
 
@@ -60,11 +60,11 @@ Somewhere on an unnamed mountainside near Jeongyang in Shanxi Province, Jangcheo
 
 But then—
 
-How could—
+How could he be here?
 
 “Dead? Me?”
 
-His eyes widened for a moment, then curved with a laugh.
+Jangcheon’s eyes widened for a moment, then curved as he let out a disbelieving laugh.
 
 “Ha. Did you think I was the kind of bastard who’d die that easily?”
 
@@ -78,11 +78,11 @@ It was true.
 
 By the time he had asked around and found the place, only a few traces of the fierce battle remained. Jangcheon’s body was nowhere to be found. No one knew exactly why, and Jeok Cheongang hadn’t wanted to know.
 
-Jeok Cheongang had only thought that the heavy snow said to have continued for nearly seven days and nights, along with the mountain beasts, might have erased Jangcheon’s last traces from the earth.
+He had simply assumed that the heavy snow, said to have continued for nearly seven days and nights, and the mountain beasts had erased the last traces of him.
 
 That was all.
 
-He had left a bottle of liquor and a few drops of tears there, then returned to his own life.
+Jeok Cheongang had left a bottle of liquor and a few tears there, then returned to his life.
 
 That was what had happened.
 
@@ -116,11 +116,11 @@ His lips split, and blood filled his mouth.
 
 But the sight before him—which had to be an illusion—didn’t change. Neither the shadowed face of his former Disciple nor the voice that kept reaching his ears.
 
-“But Master, look. I’m still alive, aren’t I?”
+“But Master, look at me. I’m still alive.”
 
 “Don’t call me that!”
 
-Even at Jeok Cheongang’s thunderous shout, Jangcheon kept coming. He looked at him with eyes full of regret.
+Jangcheon did not stop at his thunderous shout. He looked at Jeok Cheongang with eyes full of regret.
 
 “I knew what you must think of me, Master.”
 
@@ -130,7 +130,7 @@ Even at Jeok Cheongang’s thunderous shout, Jangcheon kept coming. He looked at
 
 *Squish.*
 
-The pool of blood rippled beneath his advancing steps.
+The pool of blood rippled beneath his next step.
 
 Behind him, the monsters stood still as though they had agreed not to move. As Jangcheon drew closer, Jeok Cheongang could sense no danger or killing intent from him.
 
@@ -148,7 +148,7 @@ Then Jangcheon said something he had never expected to hear.
 
 Jeok Cheongang’s eyes trembled. Unlike his body, which had regained its youth, they still held the weight of all his years.
 
-“Please forgive me. No—Master, punish this wretched man yourself.”
+“Please forgive me. No, Master—punish me yourself.”
 
 No. That couldn’t be.
 
@@ -160,7 +160,7 @@ The Extreme Yang energy gathering in his clenched fists wavered like a candle in
 
 Just as it had on the day when, despite possessing martial arts powerful enough to look down on the world, he could do nothing but watch his Disciple walk away.
 
-“I won’t make excuses. Whatever punishment you give me, I’ll bear it all.”
+“I won’t make excuses. Whatever punishment you give me, I’ll bear it.”
 
 The words he had wanted so badly to hear.
 
@@ -172,13 +172,13 @@ The scene he had imagined countless times.
 
 “……Enough.”
 
-“Kill me. With the very hands that took me in more than twenty years ago.”
+“Kill me with the hands that took me in more than twenty years ago.”
 
 “Enough. Stop.”
 
 Jeok Cheongang couldn’t breathe. His heart ached as though an unseen hand were squeezing it.
 
-Everything he was seeing and hearing had to be nothing but an illusion.
+Everything he saw and heard had to be an illusion.
 
 It had to be.
 
@@ -188,7 +188,7 @@ Yet the wound deep inside him, the one he had thought long since closed, was tea
 
 Jeok Cheongang did not answer.
 
-He only stared blankly at his old Disciple as his vision grew hazy.
+He only stared at his approaching Disciple through a haze creeping across his vision. Worn, tattered memories settled over the sight.
 
 *“If I can’t take you as my Master…… I’ll kill myself.”*
 
@@ -206,7 +206,7 @@ The murderer’s smile he could never forget.
 
 And the feeble old man who, in the end, had failed to stop him.
 
-Even after he had gone out into the world to correct that mistake, he had lingered for a long time at the very spot where wild beasts and snow-laden winds had passed.
+He remembered going out into the world to correct that mistake, only to linger for hours where beasts and snow-laden winds had passed over the mountainside.
 
 *“Old man, has something happened?”*
 
@@ -214,9 +214,7 @@ It was the place where the man who had lived as Jangcheon had fallen under the n
 
 A traveler, finding it strange that Jeok Cheongang still stood there late into the night, motionless as a stone monument, had asked him what was wrong.
 
-His only blood relative had died here.
-
-The man had been foolish and useless beyond words, but he had come hoping to at least recover the body.
+Jeok Cheongang had said his only family had died there. The man had been more foolish and wretched than anyone, but Jeok Cheongang had come hoping to recover at least his body.
 
 And in that moment, he had realized that even after nearly ten years, he still wasn’t ready.
 
@@ -236,7 +234,7 @@ One step.
 
 *Squish.*
 
-Another step.
+Another.
 
 *Squish.*
 
@@ -256,15 +254,15 @@ Blood burst forth at the same instant, as though to prove this was real.
 
 Fresh blood spattered the ground. Across a handspan of empty space, their gazes met.
 
-One deeply sunken. The other wide with disbelief.
+One pair of eyes had sunk deep with sorrow. The other was wide with disbelief.
 
 In the brief silence, Jangcheon’s lips parted.
 
 “……How?”
 
-At Jangcheon’s question, his agitation impossible to hide, Jeok Cheongang smiled sadly.
+Hearing the agitation he could not hide, Jeok Cheongang smiled sadly.
 
-“I wanted to be fooled for a moment. I wasn’t fooled.”
+“For a moment, I wanted to believe you. That doesn’t mean I did.”
 
 He tightened his grip on the blade he had caught at the last instant.
 
@@ -272,19 +270,19 @@ He tightened his grip on the blade he had caught at the last instant.
 
 It hurt.
 
-Every time the dagger embedded in his palm twisted, a dizzying pain spread through his body.
+Each twist of the dagger buried in his palm sent a searing pain through his body.
 
 But it didn’t matter. This was nothing compared to the mind demon that had tormented him moments before.
 
 *“What’s your name?”*
 
-He had met a boy who endured kicks raining down on his whole body and still managed to shove a dirt-covered bun into his mouth.
+More than twenty years ago, he had met a boy who endured kicks raining down on him and still managed to shove a dirt-covered bun into his mouth.
 
 *“……I don’t know.”*
 
 Jeok Cheongang had seen his younger self in the boy: a fierce little child who had once wandered the world begging for food, without even knowing his own name.
 
-Perhaps that was why the old man’s heart had acted on a whim.
+Perhaps that was why the old man had taken a whim.
 
 *“Jangcheon. From now on, your name is Jangcheon.”*
 

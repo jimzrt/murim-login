@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is faithful overall, with one minor source-image mismatch.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 101–105",
+      "current": "At the hands of that brat you’re looking after like a sacred ancestral tablet.",
+      "defect": "The Korean compares Jeok Cheongang’s care to tending a household deity’s shrine vessel, not an ancestral tablet. The metaphor communicates cherishing or carefully tending someone, but the English introduces a different religious object.",
+      "replacement": "At the hands of that brat you’re looking after like a shrine.",
+      "rationale": "신줏단지 refers to a vessel for a household deity. The accepted baseline’s “like a shrine” avoids incorrectly specifying an ancestral tablet while preserving the metaphor’s sense.",
+      "confidence": 0.91
+    }
+  ]
+}
