@@ -4,7 +4,7 @@ Partings always brought sadness and regret.
 
 All the more so when death made the parting with someone close permanent.
 
-But this was never the kind of reunion he wanted.
+But no one could have wanted a reunion like this.
 
 “…Pai Chen?”
 
@@ -54,7 +54,7 @@ And he had continued this fascinating collection in the unfamiliar world called 
 
 “What do you think of my new Guardians?”
 
-Jin Taekyung didn’t answer the question, which was brimming with satisfaction.
+Jin Taekyung didn’t answer the question, so plainly asked with satisfaction.
 
 He couldn’t. All he could do was look at the bloodless faces now standing at the head of the Dragon-tooth soldiers and recite their names to himself.
 
@@ -200,7 +200,7 @@ The humans of this unfamiliar world were strong.
 
 They grew stronger through a mysterious power even Morgoth couldn’t fathom. And a tiny chosen few surpassed their given limits by so much that they became superhumans.
 
-Like Cheon Taemin, who was as good as dead now.
+Like Cheon Taemin, who was said to be as good as dead now.
 
 Or that recklessly brave young human hero.
 
@@ -214,7 +214,7 @@ Even if it meant setting aside his pride.
 
 “Ice Wall.”
 
-A short Spell, yet one imbued with powerful Magic no other race could match, rang across the battlefield.
+The short spell rang across the battlefield, charged with magical power no other race could match.
 
 *Fwoooosh.*
 
@@ -228,7 +228,7 @@ Suddenly, an enormous shadow fell across the ground.
 
 Ice walls several meters thick and ten times as tall erupted around Jin Taekyung, enclosing him on every side. They were less a barrier than a prison.
 
-A prison built solely to hold Jin Taekyung—and a coffin prepared for his death.
+A prison built solely to hold him—and a coffin prepared for his death.
 
 “Hell Fire.”
 
@@ -242,15 +242,15 @@ A sphere of flame emerged from between the dark clouds, enormous beyond anything
 
 The flash was fierce enough to blind anyone who faced it.
 
-The flames, worthy of being called the fires of Hell itself, melted the ice wall and burned everything trapped inside.
+The flames, worthy of being called the fires of Hell itself, melted the ice and burned everything trapped inside.
 
-The thousand monsters thrown away as bait—and one human who hadn’t managed to escape the spell’s range in time.
+The thousand monsters thrown in as bait—and the human they had kept from escaping the spell’s range in time.
 
 That was what should have happened.
 
 *Tap. Tap-tap.*
 
-A tiny tremor began among the monsters’ corpses, now reduced to piles of charcoal.
+A faint movement stirred among the monsters’ charred corpses.
 
 A familiar face emerged from between them. Morgoth licked his lips.
 
@@ -260,7 +260,7 @@ It hadn’t been ordinary Hell Fire.
 
 He had used his own knowledge to push its power and limits to the utmost, then put his full strength behind it.
 
-A direct hit would have left even another Dragon with a potentially fatal wound.
+A direct hit would have left even a fellow Dragon gravely wounded.
 
 Yet Jin Taekyung had endured all that heat with no way to dodge.
 
@@ -268,19 +268,19 @@ Morgoth muttered, his voice low.
 
 “This is… a little troublesome.”
 
-No, perhaps more than that.
+Perhaps more than a little.
 
 Whenever events exceeded his expectations, some unknown danger lurked behind them.
 
-And this danger was bigger and faster than Morgoth had thought.
+And this danger was greater—and faster—than he had thought.
 
 *Crack—BOOM!*
 
-An explosion burst from Jin Taekyung’s toes with a thunderous roar.
+An explosion burst from beneath Jin Taekyung’s feet with a thunderous roar.
 
 True to the meaning of Flamefire Path’s name, he surged forward, carving a path of blue-black flames.
 
-*Slice, rumble!*
+*Slice—CRUNCH!*
 
 Everything in his way split and shattered.
 
@@ -338,9 +338,9 @@ Jin Taekyung answered in a weary voice.
 
 “Who knows? Maybe, if you clear away the guys in front of you.”
 
-“Perhaps. If I were a little more foolish, I might have.”
+“Perhaps. If I were a little more foolish, I might.”
 
-Morgoth fixed his gaze on Jin Taekyung, his eyes sunk deep, and continued.
+Morgoth studied Jin Taekyung with a grave expression.
 
 “But I’m afraid I’ve already made up my mind. Today, just this once, I’ll set aside my pride.”
 

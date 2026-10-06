@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "they had been reported killed in battle, their bodies never found.",
+      "defect": "The source says they were reported to have perished gloriously, but the translation drops that characterization.",
+      "id": "F01",
+      "rationale": "장렬히 산화했다는 conveys a noble or glorious death, not merely being killed in battle.",
+      "replacement": "they had been reported to have perished gloriously, their bodies never found.",
+      "severity": "minor",
+      "source": "Lines 75–76"
+    },
+    {
+      "confidence": 0.95,
+      "current": "His eyes narrowed to half-lidded slits.",
+      "defect": "The source says he half-opened his eyes; the translation instead describes narrowing them.",
+      "id": "F02",
+      "rationale": "두 눈을 반개했다 describes opening both eyes halfway, not narrowing them.",
+      "replacement": "He half-opened his eyes.",
+      "severity": "minor",
+      "source": "Line 103"
+    },
+    {
+      "confidence": 0.87,
+      "current": "A sphere of flame emerged from between the dark clouds, enormous beyond anything a Grand Mage of any world could have imagined. Its terrible heat crashed down upon the ice walls.",
+      "defect": "The translation assigns the unimaginable enormity to the sphere of flame, while the source assigns it to the heat.",
+      "id": "F03",
+      "rationale": "The source’s subject is 열기 (heat): it is described as immense and terrible beyond what any world's Grand Mage could imagine.",
+      "replacement": "A sphere of flame emerged from between the dark clouds. Its heat, more immense and terrible than any Grand Mage in any world could have imagined, crashed down upon the ice walls.",
+      "severity": "minor",
+      "source": "Line 253"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with a few small source details altered or omitted.",
+  "version": 1
+}
