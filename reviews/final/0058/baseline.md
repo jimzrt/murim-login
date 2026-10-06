@@ -68,7 +68,7 @@ A twenty-first-century office worker would have spat in your face and walked awa
 
 “Yes.”
 
-Hyuk’s answer was as sharp as a blade, and quiet laughter spread through the reconnaissance squad. The tension in my body, frozen by my first large-scale battle, eased a little.
+Hyuk’s answer was as sharp as a blade, and quiet laughter spread through the reconnaissance squad. They’d been frozen stiff by the first large-scale battle of their lives, but now they seemed to loosen up a little.
 
 I grinned and tightened my grip on my spear.
 
@@ -158,7 +158,7 @@ Hyuk Mujin’s were practically undergoing an earthquake.
 
 “I feel like I’m going to throw up.”
 
-As if we’d agreed on it, we slowed down. We’d gone from the hundred-meter dash[^1] to race walking, but it still felt like we were walking into a lion’s jaws.
+As if we’d agreed on it, we slowed down. We’d gone from the hundred-meter dash to race walking, but it still felt like we were walking into a lion’s jaws.
 
 “Uh, Captain.”
 
@@ -264,7 +264,7 @@ No. I *was* a master.
 
 *If I keep as much distance between us as possible…*
 
-In a fight where a few centimeters[^2] could decide life or death, a spear’s reach was a massive advantage.
+In a fight where a few centimeters could decide life or death, a spear’s reach was a massive advantage.
 
 I watched the Head Elder’s face and steadied my breathing.
 
@@ -470,6 +470,3 @@ One of the oldest Hunter sayings went like this:
 *There are strong monsters, but no monster that can’t be taken down.*
 
 What made that possible was a raid.
-
-[^1]: 100 meters is about 328 ft.
-[^2]: A few centimeters is roughly 1–2 in.
