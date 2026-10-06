@@ -92,7 +92,7 @@ With more than a thousand people gathered around the Grand Training Ground watch
 
 At Baek Museong’s words, Jin Wikyung shook his head.
 
-“My younger brother has already accepted the Defeated Flower Fist’s challenge. The duel will end after that.”
+“My younger brother has already accepted the Defeated Flower Fist's challenge. The duel will end after that.”
 
 “Great Hero Jin.”
 
@@ -108,7 +108,7 @@ From what Baek Museong could see, Chulwoo was absolutely furious. He looked read
 
 They had to stop this now. Baek Museong had heard more than enough rumors about the Sleeping Dragon of Shanxi on the journey here, but in his eyes, Jin Taekyung was no match for his Second Junior Brother.
 
-The names Defeated Flower Fist and Three Plum Blossom Elites had not been earned through his Master’s reputation alone.
+The names Defeated Flower Fist and Three Plum Blossom Elites had not been earned through his Master's reputation alone.
 
 “He could be seriously injured. Shouldn’t we intervene before something happens?”
 
@@ -138,7 +138,7 @@ Baek Museong had watched Chulwoo since childhood. He could say that with absolut
 
 *The Lesser Family Head is wrong. The Sleeping Dragon of Shanxi can’t stand against my Second Junior Brother.*
 
-Baek Museong shook his head, but the water had already been spilled. If they backed down now, the prestige of both sects would be dragged through the dirt.
+Baek Museong shook his head, but the water had already been spilled. If they backed down now, the prestige of both sides would be dragged through the dirt.
 
 *I’ll have to intervene at the right moment.*
 
@@ -184,13 +184,13 @@ Chulwoo shouted, his face flushed.
 
 “…Isn’t that a little too fast?”
 
-There were limits to how much you could speed things up. They hadn’t even known each other for half a shichen.[^1] How were they supposed to get married and have three children already?
+There were limits to how much you could speed things up. They hadn’t even known each other for half a shichen. How were they supposed to get married and have three children already?
 
-*What is he, a Command Center?[^2] He’ll hit a population of two hundred in no time.*
+*What is he, a Command Center? He’ll hit a population of two hundred in no time.*
 
-As Cheongpung had said, even if a goose brought them by rocket delivery,[^3] it would take half a day. And since there were three children, they’d have to come as a bundle.
+As Cheongpung had said, even if a goose brought them by rocket delivery, it would take half a day. And since there were three children, they’d have to come as a bundle.
 
-“It’s fine to spread your imagination’s wings, but leave me out of it. I don’t have anything to do with this Young Lady, so this is unfair.”
+“It's fine to spread your imagination's wings, but leave me out of it. I don't have anything to do with this Young Lady, so this is unfair.”
 
 “Nonsense! I saw the way she looked at you!”
 
@@ -232,7 +232,7 @@ I held my breath and swung my spear. The paths of the gauntlets and spearhead in
 
 *Clang-clang-clang!*
 
-I pressured him with the spear’s advantage in reach, while Chulwoo pressured me with his natural reflexes and strength.
+I pressured him with the spear's advantage in reach, while Chulwoo pressured me with his natural reflexes and strength.
 
 *Whoosh!*
 
@@ -294,7 +294,7 @@ He hurriedly wiped the bridge of his nose with the back of his hand, and his fac
 
 “It’s fine. You’re so ugly, no one will notice.”
 
-“That makes it worse! Won’t I become even uglier now?”
+“That makes it worse! Won't I become even uglier now?”
 
 “…”
 
@@ -306,7 +306,7 @@ Chulwoo let out a furious roar, his eyes flashing.
 
 “For my Senior Brother’s sake, I was going to end this without going too far… But not anymore.”
 
-“Do it properly. That’s why I came out here.”
+“Do it properly. That's why I came out here.”
 
 “Fine. I’ll fight you seriously.”
 
@@ -324,7 +324,7 @@ Sparks flew as the spearhead was cleanly severed. Chulwoo drew upon every bit of
 
 *Swish! Swish-swish-swish!*
 
-A razor-sharp gale raged around me. Each time I swung my spear against the wind raised by his fists, another handspan[^4] was sliced away.
+A razor-sharp gale raged around me. Each time I swung my spear against the wind raised by his fists, another handspan was sliced away.
 
 Though incomplete, the cutting power of his materialized qi was tremendous.
 
@@ -492,8 +492,3 @@ I jabbed the pointed steel flute into the back of Chulwoo’s neck.
 By then, I was already perched on his shoulder.
 
 “Looks like I’ve gotten a lot stronger.”
-
-[^1]: A *shichen* is a traditional time unit of about two hours; half a shichen is about one hour.
-[^2]: A Command Center is a base building in the strategy game *StarCraft*, where the population limit is 200.
-[^3]: Rocket Delivery is the name of a rapid-delivery service offered by the South Korean retailer Coupang.
-[^4]: A handspan is the distance between the tips of an outstretched thumb and little finger. It varies by person but is roughly 20 cm (8 in).
