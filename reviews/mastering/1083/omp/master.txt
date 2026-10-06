@@ -1,6 +1,6 @@
 # Chapter 1083
 
-From the moment good and evil first split apart, things that would never disappear from the world were born.
+From the moment good and evil first parted ways, certain things had existed in the world that would never disappear.
 
 Bandits were among them.
 
@@ -44,9 +44,9 @@ In the county towns near the mountains and rivers, people could feel that someth
 
 To these middle-aged men, now well along in years, the Great Faction War was an unforgettable childhood memory.
 
-Ordinary people had suffered little harm, but the news that bloodthirsty murderers who believed in an evil doctrine had invaded the Central Plains had thrown the whole land into turmoil.
+Ordinary people had suffered little harm, but news that murderers devoted to an evil doctrine had invaded the Central Plains had thrown the whole land into turmoil.
 
-So even with these ominous rumors about the Green Forest Alliance, people couldn’t help but remain skeptical. The Green Forest Alliance they remembered was a group formed by bandits who were at least willing to talk. They had long since become a part of everyday life.
+So even amid the troubling rumors about the Green Forest Alliance, people couldn’t quite believe them. The alliance they remembered had been formed by bandits who could at least be reasoned with. It had long since become a part of everyday life.
 
 But there were other rumors, too.
 
@@ -66,9 +66,7 @@ At the others’ puzzled looks, the middle-aged man who had brought it up lowere
 
 “See for yourself. Herb Gatherer Hong pulled this out of the landslide early this morning.”
 
-The next moment, the middle-aged man pulled a bundled piece of cloth from his robe and unfolded it. Everyone who saw it widened their eyes.
-
-More precisely, they stared at the two characters revealed as the dried mud and grains of sand fell away.
+He took a bundle of cloth from inside his robe and unfolded it. The others’ eyes widened as dried earth and grains of sand fell away, revealing two characters.
 
 Blue Flower.
 
@@ -102,7 +100,7 @@ Their fears were taking shape, and every detail seemed to fit. The thought left 
 
 “…!”
 
-“It’s obvious. Even we farmers get greedy. What about men who make their living taking what belongs to others?”
+“Even we farmers get greedy. Imagine men who make their living taking what belongs to others.”
 
 Their circumstances were different, but the comparison held.
 
@@ -110,7 +108,7 @@ The middle-aged tenant farmer was speaking only from his own experience and his 
 
 The Demonic Cult had wanted only the Central Plains Murim. Dark Heaven wanted the world itself.
 
-Anyone who won this gamble could become a true king of a nation, instead of merely being called one of the Ten Kings.
+Anyone who won that gamble might become a king of a nation in truth, rather than merely bear a title among the Ten Kings.
 
 A new world.
 
@@ -120,7 +118,7 @@ And among the news that had reached this little village was a story far more sho
 
 “Even the Murong Family of the orthodox faction—the one supposedly full of Great Heroes of Benevolence and Righteousness—joined forces with those vicious enemies. Why wouldn’t a bunch of thieves?”
 
-At the mention of the Murong Family, one of the Five Great Families, which had unleashed a bloodbath across the northern lands, the others shut their mouths as if on cue.
+At the mention of the Murong Family, one of the Five Great Families, said to have unleashed a bloodbath across the northern lands, the others fell silent as if on cue.
 
 Of course. Those men were bandits by nature. Taking from others was their way of life. Why would betrayal trouble them?
 
@@ -138,7 +136,7 @@ Two days after the two giants of the dark-path Murim faced one another.
 
 * * *
 
-If you asked whose the vast, boundless Yangtze was, those in the Murim would answer without hesitation.
+Ask anyone in Murim who owned the vast Yangtze, and they would answer without hesitation.
 
 Not the Five Great Families or the Nine Sects and One Gang. The Yangtze River Channel League.
 
@@ -152,11 +150,9 @@ Seafaring King Pa Ryun had never liked that one bit.
 
 His voice was low but carried force, and his profound internal energy made the space around him tremble.
 
-“He had a bad temper, but he was a decent enough old man. When I was orphaned by one bad harvest after another, he took me in for a while.”
+“He had a foul temper, but he was decent enough. After one famine after another took my parents, he took me in for a while.”
 
 Pa Ryun’s gaze grew distant as he looked back on his past.
-
-He had gone over it hundreds, thousands of times already, but it was full of nothing but bad memories.
 
 He had gone over those memories hundreds, thousands of times. Almost none were good. He had lost both parents before he was old enough to grow a beard, and being taken in by that old man—working hard as a servant just to get enough to eat—had been among the better times.
 
@@ -168,15 +164,15 @@ Pa Ryun stroked his sparse beard.
 
 It was a familiar story. The old man had died then.
 
-Not at the hands of a defeated army or bandits, but the imperial troops marching forward with sharp spears and tall banners.
+Not at the hands of routed soldiers or bandits, but at the hands of imperial troops marching under tall banners with sharpened spears and swords.
 
-The twelve-year-old boy, grateful to the old man, killed the soldier who had driven a spear into the old man’s frail body, then ran.
+The twelve-year-old boy, grateful to the old man, had killed the soldier who drove a spear into his frail body. Then he ran.
 
 “I ran for three days and nights without stopping. I finally shook off my pursuers, reached the riverbank, and collapsed. And a thought came to me.”
 
 Pa Ryun pointed at the sky.
 
-“There were so many people claiming the world belonged to them. If the so-called children of Heaven were like that, who was I supposed to serve?”
+“So many men claimed the world was theirs. If those who called themselves children of Heaven behaved like that, who was I supposed to serve?”
 
 The long age of chaos eventually ended.
 

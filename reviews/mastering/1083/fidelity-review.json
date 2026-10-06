@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He had gone over those memories hundreds, thousands of times. Almost none were good. He had lost both parents before he was old enough to grow a beard, and being taken in by that old man—working hard as a servant just to get enough to eat—had been among the better times.",
+      "defect": "The first sentence repeats the preceding paragraph’s statement that Pa Ryun had reviewed his past hundreds or thousands of times. The Korean mentions that recollection only once, then moves directly to his childhood hardships.",
+      "id": "F01",
+      "rationale": "Korean line 182 says he had revisited his past hundreds or thousands of times, and lines 184–186 describe the comparatively better period and its end. There is no second repetition of the recollection.",
+      "replacement": "He had lost both parents before he was old enough to grow a beard, and being taken in by that old man—working hard as a servant just to get enough to eat—had been among the better times.",
+      "severity": "minor",
+      "source": "Korean lines 182–184"
+    }
+  ],
+  "summary": "The assembled copy adds a duplicated recollection that is not present in the Korean source.",
+  "version": 1
+}
