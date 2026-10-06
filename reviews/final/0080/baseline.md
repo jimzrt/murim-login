@@ -122,7 +122,7 @@ While I tilted my head, Butler Kim greeted him.
 
 “Hello. I’m Kim Hwajong of Peace Guild.”
 
-We called him Butler Kim, Uncle, Kim Hyung,[^2] and plenty of other things, and we knew he was only a figurehead Guild Master. But to an outsider, he obviously looked like the man in charge.
+We called him Butler Kim, Uncle, Kim Hyung, and plenty of other things, and we knew he was only a figurehead Guild Master. But to an outsider, he obviously looked like the man in charge.
 
 Im Changsoo answered with a bright smile.
 
@@ -174,7 +174,7 @@ Oh. Right. It did look expensive.
 
 Hunters were the envy of society. Partly because they were the guardians who had protected humanity from the Great Cataclysm… but mainly because they made a lot of money.
 
-Even I made over 100 million won[^3] a year as a lowest-rank Hunter by working my ass off, so that said it all.
+Even I made over 100 million won a year as a lowest-rank Hunter by working my ass off, so that said it all.
 
 *The problem was that we spent a lot, too.*
 
@@ -324,7 +324,7 @@ The necklace was set with a Magic Gem, while the bracelets were engraved with st
 
 Butler Kim answered modestly, but it was rare to see a mage dressed so lightly. Most wore at least some light armor or carried a staff for self-defense to improve their chances of survival.
 
-*Well, he’s probably no ordinary mage.*
+*Well, he's probably no ordinary mage.*
 
 Anyone from Ares Guild commanded respect.
 
@@ -372,6 +372,4 @@ And yet… why was he bothering me so much? Was it because that punk seemed inte
 
 My thoughts were cut short. At Im Kkeokjeong’s urging, I hurried out of the changing room.
 
-[^1]: Go-stop is a Korean card game played with flower cards.
-[^2]: *Hyung* is a familiar term a younger man uses for an older man, often an older brother or close acquaintance.
-[^3]: 100 million won is about $71,000 or €65,000.
+[^1]: Go-stop is a Korean card game traditionally played with a deck of flower cards.
