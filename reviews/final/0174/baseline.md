@@ -190,17 +190,17 @@ He had spent a long lifetime in the Murim—long enough for the mountains and ri
 
 He was merely a blacksmith who had never learned martial arts, but that was precisely why he had been able to meet so many people.
 
-“I beg you. If that’s what you want, I’ll even give you my head!”
+*“I beg you. If that’s what you want, I’ll even give you my head!”*
 
-“Make me the finest sword under heaven.”
+*“Make me the finest sword under heaven.”*
 
-“Are you the Guild Leader of the Ironcraft Guild? I was sent by the Imperial Son-in-Law.”
+*“Are you the Guild Leader of the Ironcraft Guild? I was sent by the Imperial Son-in-Law.”*
 
 From clueless martial artists to the leaders of renowned sects and great factions, even powerful figures from the imperial court had sought him out.
 
 They came from every walk of life, but Jang Taebo’s answer was always the same.
 
-“If you are worthy, I will make one for you.”
+*“If you are worthy, I will make one for you.”*
 
 Jang Taebo believed that every blade had a soul.
 
@@ -228,7 +228,7 @@ They were masters capable of becoming the overlords of entire regions.
 
 Strong enough to protect treasures coveted by all and use them as they saw fit.
 
-Some had possessed martial arts that could be compared to those of the leaders of the Nine Sects and One Gang[^1] and the Five Great Families[^2].
+Some had possessed martial arts that could be compared to those of the leaders of the Nine Sects and One Gang and the Five Great Families.
 
 But…
 
@@ -391,6 +391,3 @@ Jang Taebo stared blankly at the ash drifting all around him, then let out a dee
 “Fuck. This place is done for too.”
 
 That was the moment his sweet retirement came to an end.
-
-[^1]: A collective name for nine major martial sects and one gang in Murim.
-[^2]: A grouping of five major martial families in Murim.
