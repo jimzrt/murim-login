@@ -1,0 +1,25 @@
+{
+  "summary": "The English is largely faithful, but it drops a familiarity detail and slightly narrows the reason for burning the letter.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 6",
+      "current": "the sort of young man you might forget soon after meeting him.",
+      "defect": "This does not preserve the contrast that he could be forgotten even by someone who had already met him. The Korean explicitly says “even if you had an acquaintance with him.”",
+      "replacement": "the sort of young man you might soon forget, even if you’d met him before.",
+      "rationale": "The source establishes that his impression was so ordinary that prior acquaintance would not prevent someone from quickly forgetting him. The accepted baseline preserved that detail.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 196",
+      "current": "Mae Jonghak had burned the letter against any chance of it being found.",
+      "defect": "The source says he burned the letter to prepare for any unforeseen situation; it does not specify that discovery was the particular risk.",
+      "replacement": "Mae Jonghak had burned the letter to prepare for any eventuality.",
+      "rationale": "“혹시 모를 상황을 대비하여” is open-ended. The current wording narrows that precaution to the possibility of the letter being found, while the accepted baseline kept the reason general.",
+      "confidence": 0.94
+    }
+  ]
+}

@@ -12,7 +12,7 @@ Mae Jonghak finally turned around and smiled at Zhuge Feng.
 
 His eyes were deep yet clear, and his smile seemed to put anyone who saw it at ease.
 
-While the world was gripped by turmoil and anxiety, the Murim Alliance Leader—who ought to have borne a heavier burden than anyone else—continued in an almost childlike tone.
+While the world was gripped by turmoil and anxiety, the Alliance Leader—who ought to have borne a heavier burden than anyone else—continued in an almost childlike tone.
 
 “I wandered around for a while and got bored. Then I started walking wherever I felt drawn, and somehow I ended up here.”
 
@@ -36,7 +36,7 @@ The Heaven-Stealing Thief, who was said to be capable of stealing from heaven it
 
 At the time, he was the greatest thief in the world. In the end, the Zhuge Clan’s martial artists rescued him on the merciful order of the previous Family Head. Released with nothing but skin and bones left, he had this to say:
 
-> “Break into the imperial palace, and you’ll be tortured to death. Break into the Sichuan Tang Clan, and you’ll be poisoned to death. But break into the Zhuge Clan, and they’ll rob you down to your soul and let you starve to death.”
+> “Break into the imperial palace, and they’ll torture you to death. Break into the Sichuan Tang Clan, and you’ll die of poison. But break into the Zhuge Clan, and they’ll strip you down to your soul and let you slowly starve to death.”
 
 And so the Three Forbidden Places were born, leaving a painful lesson for the thieves who came after him.
 
@@ -122,9 +122,9 @@ Mae Jonghak nodded quietly.
 
 Zhuge Feng managed to steady himself. He took a deep breath, then replied, “No. It’s thanks to everyone’s sacrifices, great and small.”
 
-He looked down at his hand, still trembling.
+He looked down at his hands, which had yet to stop trembling.
 
-Like the hand of a martial artist who had spent their whole life training.
+They were rough and calloused, like the hands of a martial artist who had spent a lifetime training.
 
 Gone were the slender, delicate hands of a man who had learned only the minimum martial arts required of a Family Head, hands whose calluses had slowly faded away.
 
@@ -212,9 +212,9 @@ With one last faint smile, Zhuge Feng turned and walked away without hesitation.
 
 A few moments later, he came upon the people tearing through the Inner Hall, worried their Family Head might have been assassinated in the privy. Without warning, he said, “All right, start packing.”
 
-“What? Packing what now?”
+“What? You have to go again?”
 
-“Wait, you haven’t finished packing yet?”
+“Wait, you still haven’t finished?”
 
 Before the bewildered group could make sense of what he meant, he hit them with another thunderbolt.
 
