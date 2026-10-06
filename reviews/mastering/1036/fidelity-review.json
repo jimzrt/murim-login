@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "the last shred of faith I’d held on to crumble, along with everything I’d thought I knew about this world.",
+      "defect": "The Korean says a handful of belief crumbles along with the common sense of this place. “Last” adds an unsupported implication that this was the narrator’s final remaining faith, and “everything I’d thought I knew” broadens the second image beyond common sense.",
+      "id": "F01",
+      "rationale": "한 줌의 믿음 means a handful of faith; 이곳에서의 상식 is the common sense of this place.",
+      "replacement": "I felt the handful of faith I’d held in my heart crumble, along with the common sense of this world.",
+      "severity": "minor",
+      "source": "Lines 7, 15"
+    },
+    {
+      "confidence": 0.94,
+      "current": "an immense, invisible force descended on me.",
+      "defect": "“Descended” adds a downward trajectory. The source says a powerful invisible force came rushing toward the narrator, without specifying that it came from above.",
+      "id": "F02",
+      "rationale": "나를 향해 들이닥치다 describes a force surging toward the narrator; the following gravity spell is introduced separately.",
+      "replacement": "an immense, invisible force came rushing at me.",
+      "severity": "minor",
+      "source": "Line 125"
+    },
+    {
+      "confidence": 0.89,
+      "current": "broken bodies floating in it.",
+      "defect": "The source specifically describes fragmented corpses floating in the blood. “Broken bodies” loses that physical detail.",
+      "id": "F03",
+      "rationale": "조각난 시체들 means corpses broken into pieces, not merely injured or broken bodies.",
+      "replacement": "mangled corpses floating in it.",
+      "severity": "minor",
+      "source": "Line 59"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, with a few small shifts in physical detail and imagery.",
+  "version": 1
+}

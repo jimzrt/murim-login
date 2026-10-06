@@ -4,7 +4,7 @@ Had I failed to guess it from the start? Or had I tried to deny it because the t
 
 This time, I could answer that question myself.
 
-*I think it was the latter.*
+I think it was the latter.
 
 *It was true. All of it.*
 
@@ -12,13 +12,13 @@ The realization struck my mind, leaving it blank as a sheet of paper.
 
 At the same time, I felt the last shred of faith I’d held on to crumble, along with everything I’d thought I knew about this world.
 
-The strange Moving Formation, whose existence had already been revealed long ago in Henan and Sichuan.
+The strange Moving Formation, which had first appeared in Henan and Sichuan.
 
 The Water God Dragon and countless Blood Fish, corrupted by something in Hubei and driven into a frenzy.
 
 An utterly ordinary fisherman who’d eaten those Blood Fish and gained a monster’s appearance and strength.
 
-The cause of all those phenomena—and not just that, but the rift that had appeared once more in the jungles of Nanman.
+The rift that had caused all of it—and then appeared again in the jungles of Nanman.
 
 Even the familiar beings called Black Ghosts, whom I’d faced right here today.
 
@@ -34,21 +34,19 @@ All the warnings that had come before—call them signs, omens, whatever you wan
 
 They had finally broken through a great dam and come crashing down on me, turning the suspicion I’d only entertained in private into certainty.
 
-In two characters:
-
 Magic.
 
 Shaaah.
 
 The wind blew. A shadow moving with speed and power far beyond human limits glided toward me, trailing a long afterimage.
 
-But I couldn’t even twitch a finger.
+But I couldn’t move a finger.
 
-In a world gone slow, with my whole body feeling as if the blood in it had turned cold, all I could do was stare, dumbfounded.
+The world had slowed. My blood felt cold, and all I could do was stare.
 
-*What is this…?*
+*What the hell is this…?*
 
-Where a massive bomb had exploded, nothing remained but ruins and the shock wave.
+When a massive bomb goes off, all it leaves behind is wreckage and a shock wave.
 
 My mind was wreckage now. Words and questions scattered through it, caught in the blast.
 
@@ -70,9 +68,9 @@ Grab.
 
 A hard, rough hand—one I knew—closed around my shoulder.
 
-No. The instant I felt it, a powerful force had already dragged me backward, sending me stumbling without strength.
+No. By the time I felt it, its powerful grip was already hauling me backward, and I gave way without resistance.
 
-Only then did time begin to move again. A streak of light was swung through the gap like lightning.
+Only then did time begin to move again. A streak of light tore through the gap like lightning.
 
 Whoooom—KABOOM!
 
@@ -100,7 +98,7 @@ It reached my ears and jolted my half-dazed mind awake. At last, I let out the b
 
 I still couldn’t understand how any of this could be happening. But with death right in front of me, what did understanding matter?
 
-There was no use in understanding when the water had already spilled.
+The water was spilled. There was no use dwelling on how.
 
 All I could do on this battlefield was accept what was happening and find a way through it.
 
@@ -162,9 +160,9 @@ Gravity acted on an area, not a single person.
 
 While I was airborne, I’d been the first to feel the spell’s effects. Once I landed, that was no longer true.
 
-The white-robed figures were clearly mages. If they wanted to bind me even a little, their gravity magic would have to target the Dark Heaven followers who were their allies, too.
+Those white-robed figures were clearly mages. To keep me pinned down now, they’d have to catch their own allies—the followers of Dark Heaven—in the spell as well.
 
-So they meant to delay me from joining Jeok Cheongang, even if only this way…
+So even if they couldn’t stop me, they meant to delay me from joining Jeok Cheongang.
 
 *Fine by me.*
 
@@ -172,7 +170,7 @@ The followers staggered like soulless wooden puppets. I turned in place and swep
 
 KWA-AAAH!
 
-The spear’s passage through the air sounded more than fierce—outright destructive.
+The spear’s passage through the air sounded less fierce than outright destructive.
 
 Anyone could swing a spear sideways. But none of the enemies surrounding me could stop the wave of Force that burst from White Flame’s translucent spearhead.
 
@@ -180,13 +178,13 @@ Not one.
 
 SHHK! KRRRACK!
 
-Everything was cut apart and crushed.
+Everything was cut apart or crushed.
 
 Weapons. People.
 
-In the blink of an eye, the ground within a three-*jang* radius had become a field of death. Yet the fear had been stripped from them. They stared at me with dark, unseeing eyes and kept charging.
+Within a blink, a three-*jang* radius had become a field of death. Yet the followers, stripped of fear, stared straight at me with their dark eyes and kept coming.
 
-They murmured the eight-character creed as if entranced.
+They murmured the eight words of their creed as if entranced.
 
 “Heaven above, earth below.”
 
@@ -204,7 +202,7 @@ Weapons imbued with Sword Energy and bodies hardened by the external arts alike 
 
 I drove through the scattering fragments of steel and flesh without hesitation.
 
-I streaked like lightning between the enemies blocking my way like a wall, thinking and commanding without pause.
+As I streaked between the enemies blocking my path like a wall, I kept issuing commands in my head.
 
 *Open Inventory. Summon. Summon. Summon.*
 
@@ -214,11 +212,11 @@ I cut, stabbed, and crushed my way forward.
 
 Weapons stayed in my hands only briefly. Each took one life, or two or three, before it left me. Countless more blades still lay hidden in that vast subspace whose limits I couldn’t begin to guess.
 
-For a moment, the thought crossed my mind that perhaps I could make some ridiculous idea real.
+Enough that a ridiculous thought suddenly occurred to me.
 
 *No. There’s no way.*
 
-But why?
+So why did I feel otherwise?
 
 CLANG!
 
@@ -232,7 +230,7 @@ SHWEEESH—SHHK!
 
 And the more enemies I cut down, the stronger that inexplicable certainty grew.
 
-*Could this really be nothing more than a fantasy?*
+*Is it really just something I’m imagining?*
 
 SHWAAASH!
 
@@ -244,7 +242,7 @@ As enemies surged in from every direction to fill the gap left by the dead, I to
 
 Thinking back, it had always been like this.
 
-Every time I needed to break through a wall, I had to go beyond it. I had to make the impossible possible, turn imagination into reality.
+Every time I faced a wall, I’d had to do more than I thought I could. Make the impossible possible. Turn imagination into reality.
 
 Just as I would now.
 
@@ -274,7 +272,7 @@ Chimes layered over one another. Their faint ripples grew into a wave that swall
 
 Ding-ding-ding-ding-ding!
 
-My ears grew muffled. This was the first step toward making imagination real.
+My ears rang. Imagination had taken its first step into reality.
 
 I opened my eyes to a chime vaster and more majestic than any I’d ever heard.
 
@@ -316,7 +314,7 @@ The beat wasn’t coming from my heart alone.
 
 The Jade Hall Acupoint.
 
-What the people called martial artists had newly named the Middle Dantian.
+What martial artists had come to call the Middle Dantian.
 
 Every nerve, every sense I possessed was fixed there.
 
@@ -342,9 +340,9 @@ And at last…
 
 I opened my eyes.
 
-In that time that had felt like eternity, yet lasted no more than an instant.
+An eternity had passed. No more than an instant had passed.
 
-Beneath a mountain of sabers and a forest of swords—a hundred blades aimed at countless enemies as if held by an invisible hand.
+Above me hung a mountain of sabers and a forest of swords: one hundred blades aimed at the countless enemies as though held by invisible hands.
 
 I parted my tightly closed lips.
 
