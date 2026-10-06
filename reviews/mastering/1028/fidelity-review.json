@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "He twisted aside on instinct, but blood and terrible pain spread along the path of the strike.",
+      "defect": "The Korean says the blood and pain spread along his body as he twisted aside on instinct. “Along the path of the strike” adds a trajectory the source does not establish.",
+      "id": "F01",
+      "rationale": "몸뚱어리를 따라 refers to the twisted body, not the path of the strike.",
+      "replacement": "He twisted aside on instinct, but blood and terrible pain spread through him.",
+      "severity": "minor",
+      "source": "Line 171"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall, with one minor physical-detail shift.",
+  "version": 1
+}

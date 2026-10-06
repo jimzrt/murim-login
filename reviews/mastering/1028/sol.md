@@ -144,7 +144,7 @@ Jeok Cheongang spoke.
 
 “Do as you’ve decided.”
 
-They didn’t know those few, cryptic words were the trust and encouragement of a master to his Disciple, who was willing to risk his life.
+The Three Elders of Tianshan did not know that those cryptic words were a master’s trust and encouragement, offered to a disciple about to risk his life.
 
 Nor did they know that the brief exchange had sealed their fate.
 
@@ -232,7 +232,7 @@ But why?
 
 *Why can’t I feel anything?*
 
-Even with his vision blurred, his senses as a Supreme Peak master remained. Yet as the Third Elder staggered and steadied himself, his Qi Sense told him everything was just as it had been.
+His vision was blurred, but his senses as a Supreme Peak master remained. Yet as the Third Elder staggered and steadied himself, he sensed no change at all.
 
 Even while his two sworn brothers fought Jin Taekyung with all their might, the Blood-Sword Demon Lord’s presence remained where it had been, more than ten jang away.
 
@@ -312,9 +312,9 @@ The last thing he heard was Jeok Cheongang, who had watched it all, speaking.
 
 “That’s one. No, two.”
 
-The Third Elder, whose breath had already stopped, didn’t see it.
+The Third Elder never saw what happened as he breathed his last.
 
-At the very moment his final breath left his body, the spearhead of White Flame, cloaked in dark-blue Force, sliced through the Second Elder’s throat.
+White Flame’s spearhead, cloaked in dark-blue Force, sliced through the Second Elder’s throat.
 
 Slash!
 
