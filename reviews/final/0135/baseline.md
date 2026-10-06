@@ -88,6 +88,8 @@ Just as I was about to continue, Woo Jintae slammed the back of his head into th
 
 What a shame. I could have kept chewing him out for at least another shichen.[^1]
 
+[^1]: A shichen is a traditional time unit equal to approximately two hours.
+
 As I turned away from the unconscious Woo Jintae, countless gazes came flying toward me and stuck fast.
 
 “The Young Bureau Head of the Seongun Escort Bureau went down that easily…”
@@ -98,7 +100,7 @@ As I turned away from the unconscious Woo Jintae, countless gazes came flying to
 
 Murmurs of shock and fear rippled through the room.
 
-There were around a hundred guests on the first floor alone. It was hardly surprising that some of them recognized me.
+There were more than a hundred guests on the first floor alone. It was hardly surprising that some of them recognized me.
 
 “I-it’s the Sleeping Dragon of Shanxi!”
 
@@ -312,7 +314,9 @@ The whispers of the people surrounding us cut into my ears.
 
 “Were all those rumors true?”
 
-“What about the Jin Family of Taiyuan? When famine struck ten years ago, they released relief grain. Long before that, they even held off the Demonic Cult. Those bastards were vicious murderous fiends who went around killing ordinary people like us. If not for the Jin Family of Taiyuan… Ugh. I don’t even want to think about it.”
+“What about the Jin Family of Taiyuan? When famine struck ten years ago, they released relief grain. Long before that, they even held off the Demonic Cult. Those bastards were vicious murderous fiends who went around killing ordinary people like us. If not for the Jin Family of Taiyuan…”
+
+“Ugh. I don’t even want to think about it.”
 
 “That’s right. I also heard it was the Jin Family of Taiyuan that drove off the mounted bandits who crossed over from Gaoyuan this time.”
 
@@ -378,6 +382,8 @@ I was about to swing the sword case when Cheongpung spoke again.
 
 “We’re out of candied hawthorn skewers[^2] now.”
 
+[^2]: Candied hawthorn skewers are a traditional snack of fruit skewers coated in hardened sugar.
+
 “That’s not it. I, uh…”
 
 Cheongpung hesitated, then quietly pointed at the sword case.
@@ -391,6 +397,3 @@ Cheongpung hesitated, then quietly pointed at the sword case.
 “…”
 
 I had seen every kind of nutcase in my life, but this was my first time seeing a first-experience villain.
-
-[^1]: A shichen is a traditional time unit of approximately two hours.
-[^2]: Candied hawthorn skewers are a traditional snack of fruit skewers coated in hardened sugar.
