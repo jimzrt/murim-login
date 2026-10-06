@@ -194,7 +194,7 @@ He forced himself to shake his head.
 
 “I have never done that.”
 
-“Hyung!”[^1]
+“Hyung!”
 
 Jin Wikyung struggled to suppress the laughter bubbling up inside him. It pained him to see his beloved youngest brother hurt, but this was something Taekyung would have to experience sooner or later.
 
@@ -304,7 +304,7 @@ A man without blood or tears. A bastard who deserved to be beaten to death.
 
 I addressed him in an innocent voice.
 
-“Oh? Hyung-nim.[^1] When did you get here?”
+“Oh? Hyung-nim. When did you get here?”
 
 “…Just now.”
 
@@ -340,7 +340,7 @@ Now I even had to watch how I looked at him if I wanted one less beating.
 
 “You… Hah. Watch yourself.”
 
-“Yes, Hyung-nim.”[^1]
+“Yes, Hyung-nim.”
 
 Jin Mukyung looked displeased by my sudden politeness. But he could hardly hit me just for having good manners.
 
@@ -382,7 +382,7 @@ The man who had beaten me senseless every time he saw me was suddenly offering t
 
 Perhaps he noticed the suspicion in my eyes, because Jin Mukyung let out a deep sigh.
 
-“Hyung[^1] came by yesterday.”
+“Hyung came by yesterday.”
 
 “Ah.”
 
@@ -454,7 +454,7 @@ Jin Mukyung was a swordsman, so I had naturally assumed he would focus on teachi
 
 Jin Mukyung smiled brightly and added:
 
-“I even got Hyung’s[^1] permission. He said he doesn’t mind if we have to call an undertaker.”
+“I even got Hyung’s permission. He said he doesn’t mind if we have to call an undertaker.”
 
 I stared blankly at his back as he walked away with light, cheerful steps. At last, I managed to open my mouth.
 
@@ -467,5 +467,3 @@ Beep.
 > Logout is restricted during this Quest.
 
 *What the fuck.*
-
-[^1]: *Hyung* is a Korean term a man uses to address an older brother or an older man close to him. *Hyung-nim* is a more respectful form.
