@@ -42,7 +42,7 @@ It felt good to hear him say that. And I felt the same way about him.
 
 Gung Gibang and the Beggars’ Sect disciples led us over to the campfires.
 
-A winter-cold blizzard was howling all around us, but the warmth of the fires springing up here and there was enough to make us forget the cold. They’d also laid out dry rations to replenish our exhausted allies’ hunger and strength.
+A blizzard as cold as midwinter raged around us, but more fires were being lit throughout the camp, and their warmth was enough to make us forget the cold. Dry rations had been laid out for our exhausted, hungry allies, too.
 
 Plenty of them.
 
@@ -90,9 +90,9 @@ Gung Gibang glanced toward the Slaughter Saint, who’d been chewing his jerky i
 
 “I was truly shocked at first. I never imagined you’d be in Qinghai with Young Hero Cheongpung…”
 
-“The more people who know about you, the harder it is to accomplish your goal. And I’m no Great Hero.”
+“The more people who know where I am, the harder it is to accomplish what I came to do. And I’m no Great Hero.”
 
-In other words, he’d kept his existence hidden even from his own allies.
+In other words, he’d kept his presence hidden even from his own allies.
 
 “Then had you been here the whole time since we left for the Nanman Beast Palace?” I asked.
 
@@ -118,7 +118,7 @@ The Slaughter Saint clearly didn’t want to tell me, either. Before I could ask
 
 “Tough. I’ll be resting nearby for a bit. Don’t look for me.”
 
-He hadn’t said anything directly, but his actions made his meaning clearer than words.
+He hadn’t said anything outright, but his meaning was clearer than words.
 
 “Always keeping secrets,” Jeok Cheongang muttered, clicking his tongue as he watched the Slaughter Saint walk away. “No wonder people say he’s got a foul temper.”
 
@@ -134,7 +134,7 @@ Then he saw my expression and frowned.
 
 “What’s that supposed to mean?”
 
-Cheongpung, sitting near the campfire with a drowsy expression, spoke up on my behalf.
+Cheongpung, sitting near the campfire looking pleasantly drowsy, spoke up in my place.
 
 “Obviously, it means Grandpa Jeok’s temper is just as foul, doesn’t it, Benefactor?”
 
@@ -148,7 +148,7 @@ But some uncomfortable truths couldn’t be said out loud. Especially when doing
 
 *Cheongpung, you little shit…*
 
-I stared at him with a dead-eyed look. He’d been gone a while, but apparently he’d learned a new assassination technique from the Slaughter Saint. I did my best to ignore Jeok Cheongang’s scorching gaze beside me and changed the subject.
+I gave him a flat stare. Apparently, while he’d been away, the Slaughter Saint had taught him a new way to assassinate people. I did my best to ignore Jeok Cheongang’s piercing gaze beside me and changed the subject.
 
 “So, Young Master Cheongpung, where have you been and what have you been doing for the past few months?”
 
@@ -158,7 +158,7 @@ I stared at him with a dead-eyed look. He’d been gone a while, but apparently 
 
 “He knew you’d say that. He told me not to say anything even if it was you, Benefactor.”
 
-“I’m telling you, it’s fine. If you’re worried, just whisper it to me with Sound Transmission…”
+“I’m telling you, it’s fine. If you’re worried, just tell me quietly by Sound Transmission…”
 
 “Wow, that’s amazing. He even told me to keep quiet if you tried to talk me into telling you by Sound Transmission.”
 
@@ -168,13 +168,13 @@ I stared at him with a dead-eyed look. He’d been gone a while, but apparently 
 
 “……Then I won’t ask.”
 
-Of course, the Slaughter Saint wouldn’t try to silence the witnesses just because Cheongpung told me everything that had happened so far.
+Of course, the Slaughter Saint probably wouldn’t try to kill us to silence us just because Cheongpung told me what they’d been doing. But at this point, it was only polite not to press him.
 
 Well.
 
-To be honest, I was also a little scared he really might try to silence the witnesses.
+If I was honest, I was also a little scared he really might try.
 
-“What about what happened in Qinghai? Is that a secret, too?”
+“What about Qinghai? Is that a secret, too?”
 
 “No. He didn’t say anything about that, so I think it’s fine.”
 
@@ -228,9 +228,9 @@ And so was the other person who’d spent the past several months learning from 
 
 “I held my breath and hid my presence, just like Little Grandpa taught me. No one noticed. Like this.”
 
-As soon as he finished speaking, Cheongpung stopped breathing with a sharp *hup*. Instead of answering, I let out a hollow laugh.
+Cheongpung stopped breathing with a sharp *hup*. Instead of answering, I let out a hollow laugh.
 
-Not because of how ridiculous he looked, but because his presence had faded to a ghostly blur, even though he was right in front of me.
+The sight was ridiculous. His presence, though, had faded until it was ghostly faint, even with him right in front of me.
 
 *Can he really do that? After only a few months?*
 
@@ -248,7 +248,7 @@ Together, they’d managed to infiltrate the enemy.
 
 Of course, even they had their limits.
 
-“I did my best, but unfortunately, I couldn’t get as far as Taiqing Hall.”
+“We did our best, but we couldn’t get as far as Taiqing Hall.”
 
 “Taiqing Hall…?”
 
@@ -262,12 +262,12 @@ Cheongpung shuddered, as if remembering how it had felt.
 
 “Yes. Enough to make me shudder. Little Grandpa must have felt it too, because he decided we should blend in with the monsters coming down the mountain just then and turn back. A few days later, we met you, Benefactor.”
 
-Even after he finished, Cheongpung’s expression didn’t improve. I watched him with a deep, steady gaze and quietly turned over the two words that had come to mind the moment I heard his story.
+Cheongpung still looked unsettled. I watched him closely, silently turning over the word that had come to mind the moment I heard his story.
 
 *Magical power.*
 
 And at that very moment—
 
-*Splash!*
+*Shhh.*
 
 A gentle ripple spread across the broad blue river beyond the thick veil of fog.

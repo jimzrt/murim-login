@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Of course, the Slaughter Saint wouldn’t try to silence the witnesses just because Cheongpung told me everything that had happened so far.\n\nWell.",
+      "defect": "The translation drops the narrator’s explicit thought that, given the situation, it would be polite not to ask any further. The accepted baseline preserves this beat.",
+      "id": "F01",
+      "rationale": "The Korean says, “이 정도면 더 묻지 않는 게 예의다” (“at this point, it’s polite not to ask any further”). This is a distinct pragmatic beat before the narrator admits he is also afraid the Slaughter Saint might really try to silence the witnesses.",
+      "replacement": "Of course, the Slaughter Saint wouldn’t try to silence the witnesses just because Cheongpung told me everything that had happened so far.\n\nAt this point, it was polite not to ask any further.\n\nWell.",
+      "severity": "minor",
+      "source": "Lines 188–190"
+    }
+  ],
+  "summary": "The assembled English is broadly faithful, but it omits a line establishing that asking no further questions is a matter of courtesy.",
+  "version": 1
+}
