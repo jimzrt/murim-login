@@ -34,7 +34,7 @@ Because that bastard found everything new and exciting.
 
 *Point a gun at a baby who doesn’t even know what a gun is, and it’ll just smile because the thing looks interesting.*
 
-I’d stake Hyuk Mujin’s balls on it: even if you turned the entire world upside down and shook it out, Cheongpung would be the only martial artist in all of Murim[^1] capable of reacting this way to such an enormous monster.
+I’d stake Hyuk Mujin’s balls on it: even if you turned the entire world upside down and shook it out, Cheongpung would be the only martial artist in all of Murim capable of reacting this way to such an enormous monster.
 
 *…Yeah. This is much better.*
 
@@ -42,7 +42,7 @@ Gung Gibang and Hyuk Mujin were still half out of their minds.
 
 When we needed every hand we could get, having Cheongpung unaffected by Fear was a tremendous help.
 
-I grabbed Cheongpung by the shoulder as he stared with glittering eyes, looking back and forth between the cowering Mimi-chan[^2] and the Mutated Water God Dragon.
+I grabbed Cheongpung by the shoulder as he stared with glittering eyes, looking back and forth between the cowering Mimi-chan[^1] and the Mutated Water God Dragon.
 
 “Staring at it like that won’t make it evolve, so snap out of it. Protect the boatman and the Dongting Fisherman first.”
 
@@ -90,11 +90,11 @@ At the same instant, something enormous slammed into the spot where we’d been 
 
 Sand and mud erupted with a deafening boom.
 
-The object that had missed us by only a few steps was a jagged boulder nearly one *jang*[^3] tall.
+The object that had missed us by only a few steps was a jagged boulder nearly one *jang*[^2] tall.
 
 *…It threw that all the way here?*
 
-The boulder must have weighed several thousand *geun*[^4] at least, yet it had been hurled from far away.
+The boulder must have weighed several thousand *geun*[^3] at least, yet it had been hurled from far away.
 
 Its strength was terrifying, but its aim was accurate, too. If I hadn’t moved quickly, I would have been crushed to death on the spot.
 
@@ -244,7 +244,7 @@ And in the next instant—
 
 *Kwaaaaaaah!*
 
-A wall of water more than ten *jang*[^3] high surged into the air, and a body far darker and larger than the jagged boulders blotted out the blackened sky.
+A wall of water more than ten *jang*[^2] high surged into the air, and a body far darker and larger than the jagged boulders blotted out the blackened sky.
 
 A familiar face—mine—was reflected in its long, vertical, blood-red pupils.
 
@@ -262,7 +262,7 @@ Countless streaks of light rained down from every direction.
 
 The whiskers surrounding the bridge of its nose, which was covered in hard scales, split into hundreds of strands and plunged toward me.
 
-Each was several *jang*[^3] long. Some shot forward in straight lines, while others curved like living creatures to attack from my blind spots.
+Each was several *jang*[^2] long. Some shot forward in straight lines, while others curved like living creatures to attack from my blind spots.
 
 “……!”
 
@@ -308,7 +308,7 @@ No. That wasn’t right.
 
 I was the only thing flipping and shaking.
 
-By the time my thoughts untangled from the impact, I had already flown more than ten *jang*[^3] and was hurtling toward the cliff.
+By the time my thoughts untangled from the impact, I had already flown more than ten *jang*[^2] and was hurtling toward the cliff.
 
 *Damn it. I need to dodge, even now…*
 
@@ -336,7 +336,6 @@ I released the breath I’d been holding and got my feet under me. Then I realiz
 
 At the sound of that familiar voice, I let out a quiet laugh.
 
-[^1]: *Murim* is the martial-arts world and its community of martial artists.
-[^2]: *-chan* is a Japanese suffix expressing affection or familiarity.
-[^3]: One *jang* is ten *ja*, approximately 3.03 m (9.94 ft).
-[^4]: One Korean *geun* is approximately 600 g (1.32 lb).
+[^1]: *-chan* is a Japanese suffix expressing affection or familiarity.
+[^2]: One *jang* is ten *ja*, approximately 3.03 m (9.94 ft).
+[^3]: One Korean *geun* is approximately 600 g (1.32 lb).

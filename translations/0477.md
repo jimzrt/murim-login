@@ -240,7 +240,7 @@ The illegal resident of Mount Jiuhua.
 
 The firebug of the Great Faction War.
 
-A national-level thug who had dominated the Murim[^3] with seniority as insane as Bodhidharma’s skull water[^4] and martial arts even more explosive.
+A national-level thug who had dominated the Murim with seniority as insane as Bodhidharma’s skull water[^3] and martial arts even more explosive.
 
 Just looking at him made my heart race and my eyes burn.
 
@@ -316,7 +316,7 @@ The three people who had grown accustomed to waiting for my orders sprang into a
 
 Jeok Cheongang, Mungyeong, Cheongpung—and me.
 
-The first and strongest raid team in the history of the Murim[^3] shot toward the enormous body of the monster writhing in agony.
+The first and strongest raid team in the history of the Murim shot toward the enormous body of the monster writhing in agony.
 
 *Shweeeeeek!*
 
@@ -400,5 +400,4 @@ The next moment, the Mutated Water God Dragon heard a low, steady voice.
 
 [^1]: South Korean high school grades used a nine-band scale, with 1 the highest and 9 the lowest.
 [^2]: A Korean back scratcher whose name literally means “filial son’s hand.”
-[^3]: *Murim* is the world of martial artists and their factions in Korean martial-arts fiction.
-[^4]: An allusion to a Korean Buddhist tale usually told about the monk Wonhyo, who drank water in the dark and later discovered it had come from a skull.
+[^3]: An allusion to a Korean Buddhist tale usually told about the monk Wonhyo, who drank water in the dark and later discovered it had come from a skull.

@@ -50,7 +50,7 @@ The swift ships gradually slowed, lined up along the pier, and dropped anchor. A
 
 “How should I know? Damn river bandits. Things have been tense enough lately as it is…”
 
-“Shh. Keep your voice down. Some young man is looking this way. Nothing good comes from getting tangled up with Murim[^1].”
+“Shh. Keep your voice down. Some young man is looking this way. Nothing good comes from getting tangled up with Murim.”
 
 The group of merchants who met my eyes hurried away.
 
@@ -72,11 +72,11 @@ I’d heard they didn’t simply pounce whenever they spotted an opportunity, ki
 
 Give and take made the world go round.
 
-During the upheaval that decided the future of Murim[^1], the Yangtze River Channel League had backed the orthodox faction and slipped the government enough bribes to keep it satisfied.
+During the upheaval that decided the future of Murim, the Yangtze River Channel League had backed the orthodox faction and slipped the government enough bribes to keep it satisfied.
 
 In other words, they were hired thugs in a cloak of legality, tolerated by both sides and allowed to carry on.
 
-They couldn’t exactly be called good people, but this was Murim[^1], where every kind of lunatic imaginable ran wild. They might not be gentlemen, but by Murim[^1] standards, they were at least run-of-the-mill scoundrels.
+They couldn’t exactly be called good people, but this was Murim, where every kind of lunatic imaginable ran wild. They might not be gentlemen, but by Murim standards, they were at least run-of-the-mill scoundrels.
 
 *That’s why ordinary people in Sichuan barely reacted to them.*
 
@@ -112,7 +112,7 @@ Jeok Cheongang, finally leaving the Yangtze behind, led the way. I followed, the
 
 Mungyeong came too, blending so quietly into the crowd that one could almost forget he was there.
 
-At last, Jeok Cheongang—the Fire Pokémon[^2] finally free of his type disadvantage—wore a radiant smile.
+At last, Jeok Cheongang—the Fire Pokémon[^1] finally free of his type disadvantage—wore a radiant smile.
 
 “Whew. I can finally breathe again. This is why people are meant to live with their feet on solid ground.”
 
@@ -194,7 +194,7 @@ Before I could say another word, hundreds of government troops with military dis
 
 “You’re rather quick-tempered.”
 
-Jin Wikyung was tall even by modern standards. In Murim[^1], he was considered a giant.
+Jin Wikyung was tall even by modern standards. In Murim, he was considered a giant.
 
 The official swallowed hard as he took in Jin Wikyung’s Ural Mountain shoulders and the muscles bulging beneath his clothes.
 
@@ -260,7 +260,7 @@ Jin Wikyung benevolently patted the official on the shoulder.
 
 “This man Son is deeply moved by your generosity, as vast as the sea!”
 
-“Don’t apologize to me. Apologize to these men directly. Especially the gentleman you addressed first. He is a highly respected elder of Murim[^1].”
+“Don’t apologize to me. Apologize to these men directly. Especially the gentleman you addressed first. He is a highly respected elder of Murim.”
 
 “I-I had no idea. Then might I ask his sobriquet…?”
 
@@ -312,5 +312,4 @@ Written in cloud-like calligraphy across their pure-white silk martial robes wer
 
 **Zhuge Clan.**
 
-[^1]: Murim is the martial world: the society of martial artists, sects, and families that operates alongside ordinary society.
-[^2]: Pokémon are creatures from a Japanese game franchise. In its battles, elemental types have strengths and weaknesses; water has an advantage over fire.
+[^1]: Pokémon are creatures from a Japanese game franchise. In its battles, elemental types have strengths and weaknesses; water has an advantage over fire.

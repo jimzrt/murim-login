@@ -2,7 +2,7 @@
 
 Like the majestic waters of the Yangtze, time flowed slowly but steadily onward.
 
-It was late afternoon on the fourth day since we had left Sichuan by Murim[^1] reckoning. As I sat on the deck, a familiar presence approached.
+It was late afternoon on the fourth day since we had left Sichuan by Murim reckoning. As I sat on the deck, a familiar presence approached.
 
 “What are you doing?”
 
@@ -48,7 +48,7 @@ Hyuk Mujin nodded frantically, practically having a seizure.
 
 “Please, anything but that…!”
 
-A few days earlier, I had sentenced him to a Yangtze dunking and immediately logged out, leaving him to spend an entire shichen[^2] sightseeing at the Yangtze Aquarium.
+A few days earlier, I had sentenced him to a Yangtze dunking and immediately logged out, leaving him to spend an entire shichen[^1] sightseeing at the Yangtze Aquarium.
 
 The moment Mungyeong’s superb medical skills had restored him to reasonable health, he had even cast a fishing line, declaring that he would catch every last bastard that had bitten his nose and slice them into sashimi.
 
@@ -124,7 +124,7 @@ That was why I was busily traveling between the two worlds, preparing for the st
 
 I stared at the paper in my hand.
 
-The not particularly high-quality xuan paper[^3] was covered with strange patterns and symbols I had drawn myself.
+The not particularly high-quality xuan paper[^2] was covered with strange patterns and symbols I had drawn myself.
 
 There were all kinds of them, each subtly different in shape. They looked like some mysterious script out of a detective novel.
 
@@ -188,7 +188,7 @@ Gung Gibang, who had subtly pressed his butt against the spot beside me, nodded.
 
 Hyuk Mujin opened his mouth with a queasy expression.
 
-“Young Hero Gung, are you some kind of poison man? The moment you came within three jang,[^4] my head started spinning and I began dry-heaving.”
+“Young Hero Gung, are you some kind of poison man? The moment you came within three jang,[^3] my head started spinning and I began dry-heaving.”
 
 “A Beggars’ Sect disciple washes only three times in his life: when he is born, when he joins the Beggars’ Sect, and when he dies.”
 
@@ -228,7 +228,7 @@ Having found something to tease Hyuk Mujin about, Gung Gibang snickered.
 
 I opened my mouth, but I couldn’t exactly reveal Mungyeong’s identity, so I closed it again.
 
-It wasn’t only because Mungyeong was watching us from several jang[^4] away while pointedly stroking a large acupuncture needle.
+It wasn’t only because Mungyeong was watching us from several jang[^3] away while pointedly stroking a large acupuncture needle.
 
 *Seriously.*
 
@@ -286,7 +286,7 @@ But for ordinary people, the bigger story was still me—the individual named Ji
 
 > A senior Hunter Association official, wounded in his pride, issues a threat: “Then we cannot issue you an S-rank Hunter license.”
 
-> Urgent Breaking News: Brief social-media post reads, “Then don’t. Who the hell do you think you are, threatening me? Fucking hell.” Account confirmed to be Jin Taekyung’s official social-media account… Public reaction? “That was unbelievably satisfying.” “More refreshing than the soda we drank during the Thousand-Ri March.”[^5]
+> Urgent Breaking News: Brief social-media post reads, “Then don’t. Who the hell do you think you are, threatening me? Fucking hell.” Account confirmed to be Jin Taekyung’s official social-media account… Public reaction? “That was unbelievably satisfying.” “More refreshing than the soda we drank during the Thousand-Ri March.”[^4]
 
 > World Hunter Association: “The official’s statement was a personal slip and does not represent the organization’s position. We apologize.” Final decision made to dispatch a testing team to Korea for Jin Taekyung.
 
@@ -300,8 +300,7 @@ And then…
 
 With Jeok Cheongang’s refreshing remark ringing out, the bow of the swift ship finally entered Hubei Province after nearly ten days of sailing.
 
-[^1]: Murim is the martial-arts world and its society in Korean martial-arts fiction.
-[^2]: A shichen is a traditional time period of approximately two hours.
-[^3]: Xuan paper is a traditional paper used for Chinese calligraphy and painting.
-[^4]: A jang is a traditional Korean length of approximately 3.03 m (9.94 ft); three jang is approximately 9.09 m (29.8 ft).
-[^5]: The Thousand-Ri March refers to a long-distance Korean military march. A thousand Korean ri is approximately 393 km (244 mi).
+[^1]: A shichen is a traditional time period of approximately two hours.
+[^2]: Xuan paper is a traditional paper used for Chinese calligraphy and painting.
+[^3]: A jang is a traditional Korean length of approximately 3.03 m (9.94 ft); three jang is approximately 9.09 m (29.8 ft).
+[^4]: The Thousand-Ri March refers to a long-distance Korean military march. A thousand Korean ri is approximately 393 km (244 mi).

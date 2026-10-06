@@ -20,7 +20,7 @@ An age when corpses formed mountains and blood flowed in rivers.
 
 Amid the maelstrom of that war, Jeok Cheongang had glimpsed a vast world of demonic, heterodox arts unlike anything he had ever known.
 
-The Demonic Path martial arts of the Heavenly Demon Divine Cult rivaled those of Shaolin Temple—the Mount Tai and Northern Dipper[^3] of the Murim’s[^4] orthodox faction—in depth and breadth. They were sinister and bizarre.
+The Demonic Path martial arts of the Heavenly Demon Divine Cult rivaled those of Shaolin Temple—the Mount Tai and Northern Dipper[^3] of the Murim’s orthodox faction—in depth and breadth. They were sinister and bizarre.
 
 But now, Jeok Cheongang understood.
 
@@ -52,7 +52,7 @@ And Jeok Cheongang was not alone in his shock.
 
 “Ah, ahhh!”
 
-The greatest assassin of all time, known as the Slaughter Saint, could not suppress his astonished sigh. Crouching Dragon Guest Zhuge Feng, whose knowledge and genius were said to rival those of Zhuge Wuhou,[^5] was struck speechless.
+The greatest assassin of all time, known as the Slaughter Saint, could not suppress his astonished sigh. Crouching Dragon Guest Zhuge Feng, whose knowledge and genius were said to rival those of Zhuge Wuhou,[^4] was struck speechless.
 
 But that was not the end of their shock.
 
@@ -60,7 +60,7 @@ But that was not the end of their shock.
 
 The enormous monster’s roar drove back the rain and blasted apart the wind.
 
-At the same time, a chilling aura spread outward from the monster and swept over all three men standing more than a hundred *jang*[^6] away.
+At the same time, a chilling aura spread outward from the monster and swept over all three men standing more than a hundred *jang*[^5] away.
 
 *Whooooooosh!*
 
@@ -116,7 +116,7 @@ The moment he remembered that fact, lava-like energy erupted from the body Fear 
 
 *Whoom!*
 
-Several jiazi’s[^7] worth of Scorching Yang Qi surged through his Twelve Regular Meridians and Eight Extraordinary Meridians, driving back the aura pouring from the unknown being.
+Several jiazi’s[^6] worth of Scorching Yang Qi surged through his Twelve Regular Meridians and Eight Extraordinary Meridians, driving back the aura pouring from the unknown being.
 
 Scorching heat flooded his immobilized body, if only for an instant. Then he unleashed a battle cry like a thunderclap.
 
@@ -168,7 +168,7 @@ And then there were two beings who needed no embellishment whatsoever.
 
 The Fire King and the Slaughter Saint. The Slaughter Saint and the Fire King.
 
-Even by the standards of the modern world, where average life expectancy had risen dramatically, those two were old enough to be playing gateball[^8] in a retirement community.
+Even by the standards of the modern world, where average life expectancy had risen dramatically, those two were old enough to be playing gateball[^7] in a retirement community.
 
 Yet they were monsters capable of knocking a Peak master’s head clean off with a single finger.
 
@@ -214,7 +214,7 @@ Those whiskers were the absolute worst.
 
 The power carried in each one did not quite equal the Force of a Supreme Peak master, but their destructive power and sharpness surpassed ordinary Sword Energy. They could not be ignored.
 
-On top of that, each strand was roughly three *jang*[^6] long, and their trajectories were bizarre and impossible to predict, much like the Dongting Fisherman’s martial arts when he wielded his black-wood fishing rod.
+On top of that, each strand was roughly three *jang*[^5] long, and their trajectories were bizarre and impossible to predict, much like the Dongting Fisherman’s martial arts when he wielded his black-wood fishing rod.
 
 The only reason the first attack had landed was that I hadn’t known the bastard could control hundreds of whiskers like that.
 
@@ -302,16 +302,15 @@ Its maw was falling directly toward me as I charged forward with all my strength
 
 My reflection appeared in its enormous blood-red pupil, split vertically down the middle—White Flame thrust forward, wreathed in blue fire.
 
-“I told you not to open those eyes like that, you sibu-leol[^9] bastard.”
+“I told you not to open those eyes like that, you sibu-leol[^8] bastard.”
 
 *Shnk!*
 
 [^1]: Son of Heaven is a traditional Chinese title for the Emperor.
 [^2]: The Red Turbans were rebel groups associated with the upheaval at the end of China’s Yuan dynasty, named for their red headwear.
 [^3]: Mount Tai and the Northern Dipper are enduring landmarks invoked together as a metaphor for a preeminent authority.
-[^4]: Murim is the world of martial artists and their factions.
-[^5]: Zhuge Wuhou is an honorific for Zhuge Liang, the statesman and strategist of China’s Three Kingdoms period.
-[^6]: A *jang* is a traditional unit of length equal to ten *ja*, about 3.03 m or 9.94 ft.
-[^7]: A *jiazi* is a traditional sixty-year cycle.
-[^8]: Gateball is a mallet-and-ball game related to croquet and played especially by older adults in East Asia.
-[^9]: *Sibu-leol* renders a coarse Korean expletive used here to intensify the insult.
+[^4]: Zhuge Wuhou is an honorific for Zhuge Liang, the statesman and strategist of China’s Three Kingdoms period.
+[^5]: A *jang* is a traditional unit of length equal to ten *ja*, about 3.03 m or 9.94 ft.
+[^6]: A *jiazi* is a traditional sixty-year cycle.
+[^7]: Gateball is a mallet-and-ball game related to croquet and played especially by older adults in East Asia.
+[^8]: *Sibu-leol* renders a coarse Korean expletive used here to intensify the insult.

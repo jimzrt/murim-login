@@ -60,7 +60,7 @@ Gung Gibang clicked his tongue and cut in.
 
 The old boatman sounded deeply aggrieved.
 
-He had spent his entire life as a boatman in the Murim,[^1] where all sorts of legends and superstitions were treated as fact.
+He had spent his entire life as a boatman in the Murim, where all sorts of legends and superstitions were treated as fact.
 
 Perhaps that was why he seemed firmly convinced that the recent string of gruesome incidents was the work of the evil spirit known as the Hidden Shadow Ghost.
 
@@ -246,7 +246,7 @@ Honglan’s red lips slowly parted.
 
 “I may be insignificant compared to you and the others, but I too have reached the First Rate realm…”
 
-“I know. And I also know that this First Rate master spent several shichen[^2] submerged in the river while holding on to a strong man, and has only been conscious for half a shichen.”
+“I know. And I also know that this First Rate master spent several shichen[^1] submerged in the river while holding on to a strong man, and has only been conscious for half a shichen.”
 
 “…!”
 
@@ -296,5 +296,4 @@ Her quiet voice slowly faded from my ears.
 
 Leaving Honglan behind, the boatman drove his oar powerfully through the water.
 
-[^1]: *Murim* refers to the world and community of martial artists.
-[^2]: A *shichen* is a traditional time unit of approximately two hours; half a shichen is approximately one hour.
+[^1]: A *shichen* is a traditional time unit of approximately two hours; half a shichen is approximately one hour.

@@ -6,7 +6,7 @@ It was a famous family bound to appear at least once in every modern wuxia[^1] n
 
 Not a single character with the surname Zhuge was ever stupid, and none of them were conspicuously strong, either.
 
-They were supposedly one of Murim’s[^2] great families, yet martial arts seemed more like their minor than their major.
+They were supposedly one of Murim’s great families, yet martial arts seemed more like their minor than their major.
 
 That made sense. The Zhuge Clan’s true strength came not from their bodies, but from their minds.
 
@@ -92,7 +92,7 @@ Now that was imposing.
 
 Since Jeok Cheongang was a man from two generations ago who had lived well past a hundred, even the elders of most prestigious clans and sects couldn’t dare object when he called them, “Hey,” “you,” or “bastard.”
 
-He chewed people up with martial arts and digested them with seniority. He was Murim’s very own Bodhidharma skull water.[^3]
+He chewed people up with martial arts and digested them with seniority. He was Murim’s very own Bodhidharma skull water.[^2]
 
 As the atmosphere grew increasingly awkward, I gave Jeok Cheongang a light poke in the side.
 
@@ -130,7 +130,7 @@ While I tried to restrain Jeok Cheongang, who had suddenly flown off the handle,
 
 “I know this is rude, but let’s put the pointless conversation aside and hurry. Please, let’s hurry.”
 
-“A wise decision. Zhuge Wuhou,[^4] who laid the foundations of our family, would have slapped his feather fan down and agreed.”
+“A wise decision. Zhuge Wuhou,[^3] who laid the foundations of our family, would have slapped his feather fan down and agreed.”
 
 The government troops and Zhuge Clan martial artists were the first to clear a path at the dramatic show of unity between the two Lesser Family Heads. The river bandits from the Water Dragon Stronghold who had joined our party followed behind them.
 
@@ -184,7 +184,7 @@ Zhuge Gyun, who sat across from me, answered my mutter.
 
 “The Yangtze is Hubei’s lifeline. It makes the vast surrounding lands fertile, so people naturally gather here. And since every year brings a plentiful harvest, smiles never leave their faces.”
 
-“Really? The people I saw at the ferry about one shichen[^5] ago looked like their smiles had left forever.”
+“Really? The people I saw at the ferry about one shichen[^4] ago looked like their smiles had left forever.”
 
 “That…”
 
@@ -200,7 +200,7 @@ Given the mood, I didn’t press him and turned toward the window.
 
 And the more time passed, the more that suspicion deepened.
 
-The government troops, who were usually so lax, had their eyes wide open as they checked people’s hopae[^6] at various points, while martial artists in ordinary clothes hid among the commoners.
+The government troops, who were usually so lax, had their eyes wide open as they checked people’s hopae[^5] at various points, while martial artists in ordinary clothes hid among the commoners.
 
 The martial prowess I briefly sensed from them as we passed was far from low. Dark Heaven immediately came to mind, but Jeok Cheongang’s Sound Transmission cleared up the matter a moment later.
 
@@ -254,7 +254,7 @@ And spread across a vast stretch of land, the Zhuge Clan finally came into view.
 
 *They said this was the wealthiest family in Hubei Province.*
 
-Their ancestor, Zhuge Kongming,[^4] had been renowned for his frugality. But his descendants had not devoted their naturally sharp minds solely to scholarship and mechanisms and formations.
+Their ancestor, Zhuge Kongming,[^3] had been renowned for his frugality. But his descendants had not devoted their naturally sharp minds solely to scholarship and mechanisms and formations.
 
 They had taken full advantage of the fertile land that yielded plentiful harvests every year and the Yangtze’s waterways, which crossed the entirety of Hubei Province, to amass enormous wealth.
 
@@ -304,9 +304,8 @@ That young grandson was Zhuge Feng, the Crouching Dragon Guest—the current Fam
 
 At Zhuge Gyun’s grave voice, now completely devoid of humor, the firmly closed doors slowly opened.
 
-[^1]: *Wuxia* is a genre of Chinese martial-arts adventure fiction.
-[^2]: *Murim* is the martial-arts world and its community of fighters in Korean genre fiction.
-[^3]: Taekyung mixes up two Buddhist figures: the Korean monk Wonhyo is associated with an anecdote about drinking water from a skull in the dark, not Bodhidharma.
-[^4]: Zhuge Wuhou and Zhuge Kongming are names for Zhuge Liang, the historical Chinese strategist commonly depicted holding a feather fan.
-[^5]: A *shichen* is a traditional time unit of about two hours.
-[^6]: A *hopae* was a personal identification tablet carried in premodern Korea.
+[^1]: Wuxia is a genre of Chinese fiction and film about martial artists and their adventures.
+[^2]: Taekyung mixes up two Buddhist figures: the Korean monk Wonhyo is associated with an anecdote about drinking water from a skull in the dark, not Bodhidharma.
+[^3]: Zhuge Wuhou and Zhuge Kongming are names for Zhuge Liang, the historical Chinese strategist commonly depicted holding a feather fan.
+[^4]: A *shichen* is a traditional time unit of about two hours.
+[^5]: A *hopae* was a personal identification tablet carried in premodern Korea.

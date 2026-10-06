@@ -106,7 +106,7 @@ The world seemed to brighten before my eyes. If Qi Sense was a single ray of lig
 >
 > **Logout**
 >
-> Now you must make your way through this harsh Murim.[^3]
+> Now you must make your way through this harsh Murim.
 >
 > Grow stronger and become famous.
 >
@@ -166,7 +166,7 @@ I’d start by beating the shit out of the game’s developers. Fucking bastards
 
 Matching uniforms. Disciplined postures. Clipped voices.
 
-The moment I saw the martial artists guarding the Jin Family of Taiyuan’s main gate, the word *Murim*[^3] flashed through my mind.
+The moment I saw the martial artists guarding the Jin Family of Taiyuan’s main gate, the word *Murim* flashed through my mind.
 
 *So this is what a prestigious family is like.*
 
@@ -194,7 +194,7 @@ Through the window, I saw the NPC’s face—or rather, Hyuk Mujin’s—twist i
 
 “Ah, well…”
 
-No matter where you went, there were always people like that—the kind who worked for a conglomerate and thought that made them a chaebol,[^4] when the actual chaebol was someone else entirely.
+No matter where you went, there were always people like that—the kind who worked for a conglomerate and thought that made them a chaebol,[^3] when the actual chaebol was someone else entirely.
 
 I quietly opened the window and coughed.
 
@@ -410,5 +410,4 @@ Wipeng, Jin Wikyung’s escort, let out an inscrutable sigh as he watched his ma
 
 [^1]: The device alludes to the scouter in *Dragon Ball*, which displays a fighter’s power level.
 [^2]: A jang is about 3.03 m (9.94 ft). Ten jang is about 30 m (99 ft).
-[^3]: Murim is the world or community of martial artists in Korean martial-arts fiction.
-[^4]: A chaebol is a large, family-controlled South Korean business conglomerate; the word can also refer to its wealthy owners.
+[^3]: A chaebol is a large, family-controlled South Korean business conglomerate; the word can also refer to its wealthy owners.

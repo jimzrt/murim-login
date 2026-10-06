@@ -172,7 +172,7 @@ Every death left traces. This was especially true of deaths caused by battles be
 
 I had heard that a widely experienced master with a deep understanding of various martial arts could identify the weapon used—and even determine which form had killed the victim—simply by examining the wounds on a corpse.
 
-And the young medical apprentice before me possessed both the discernment and martial prowess to make him one of the finest examiners of the dead in Murim.[^1]
+And the young medical apprentice before me possessed both the discernment and martial prowess to make him one of the finest examiners of the dead in Murim.
 
 “I have never seen wounds like these before. They seem to follow the principles of the very basic Three Calamities Sword Technique, yet they undulate like waves. They are exceedingly strange.”
 
@@ -230,7 +230,7 @@ Unlike the corpses of the river bandits, the bodies of the children, women, and 
 
 And there was one more thing.
 
-“The houses and the surrounding ground had caved in everywhere. That would have been impossible without a force of ten thousand geun,[^2] and it is not a method an internal-arts master with profound internal energy would choose.”
+“The houses and the surrounding ground had caved in everywhere. That would have been impossible without a force of ten thousand geun,[^1] and it is not a method an internal-arts master with profound internal energy would choose.”
 
 “So, an external-arts master?”
 
@@ -328,5 +328,4 @@ Mungyeong turned away, his voice cold.
 
 “Always be suspicious, and stay alert. May martial fortune be with you.”
 
-[^1]: *Murim* refers to the martial-arts world and its community of martial artists.
-[^2]: A *geun* is a Korean unit of weight equal to 600 g (1.32 lb). Ten thousand geun is about 6,000 kg (13,200 lb).
+[^1]: A *geun* is a Korean unit of weight equal to 600 g (1.32 lb). Ten thousand geun is about 6,000 kg (13,200 lb).

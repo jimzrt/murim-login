@@ -272,7 +272,7 @@ Jin Wikyung spoke, his expression stiff.
 
 No one needed to ask what he meant.
 
-If Donghu Stronghold really was responsible for the two incidents that had occurred over the past fifteen days, just as the circumstances revealed so far suggested… then a clash of martial force might take place, in accordance with the laws of Murim.[^4]
+If Donghu Stronghold really was responsible for the two incidents that had occurred over the past fifteen days, just as the circumstances revealed so far suggested… then a clash of martial force might take place, in accordance with the laws of Murim.
 
 “Stronghold Lord. We did not come here to spill blood. I trust you understand what I mean.”
 
@@ -290,7 +290,7 @@ Perhaps Mu Song was the person here most desperate to prevent bloodshed.
 
 No matter how skilled the river bandits of Donghu Stronghold might be, and no matter how powerful their leader, Yangtze One Saber Hwang Chung, was as a Supreme Peak master, they could not withstand our current force.
 
-Even if some utterly incomprehensible disaster—a genuine one-in-ten-thousand chance—sent everyone here to the bottom of the Yangtze, the Yangtze River Channel League would then have to face the whole of Murim.[^4] If the Nine Sects and One Gang joined forces with the Five Great Families, the League would vanish without a trace.
+Even if some utterly incomprehensible disaster—a genuine one-in-ten-thousand chance—sent everyone here to the bottom of the Yangtze, the Yangtze River Channel League would then have to face the whole of Murim. If the Nine Sects and One Gang joined forces with the Five Great Families, the League would vanish without a trace.
 
 “Raise the flag high and let them know we are here.”
 
@@ -335,4 +335,3 @@ It was someone’s corpse.
 [^1]: A zhang is ten traditional length units of approximately 30.3 cm each, or about 3.03 m (9.94 ft).
 [^2]: Wolmido Disco Pang Pang is a Korean amusement-park ride in which riders sit on a rotating platform while the operator jolts and spins it.
 [^3]: A jiazi is a traditional sixty-year cycle; here it measures accumulated internal energy.
-[^4]: Murim is the martial-arts world and its community of martial artists.

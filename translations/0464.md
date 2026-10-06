@@ -190,7 +190,7 @@ One step. Then another.
 
 I focused every nerve in my toes as they touched the damp cave floor.
 
-It was a blessing that I had used my Scorching Yang Qi[^4] beforehand to dry the water that had soaked me through. If water dripping from my body had struck the floor and made a sound, the Dongting Fisherman would have discovered me.
+It was a blessing that I had used my Scorching Yang Qi beforehand to dry the water that had soaked me through. If water dripping from my body had struck the floor and made a sound, the Dongting Fisherman would have discovered me.
 
 *I have to finish this inside the cave. Fighting underwater would make things much harder.*
 
@@ -216,11 +216,11 @@ If the Dongting Fisherman proved too formidable, I would use everything I had to
 
 *I’ll finish it in a single stroke, like a bolt of lightning.*
 
-With a short breath, I awakened the fire dragon sleeping deep within my dantian[^5].
+With a short breath, I awakened the fire dragon sleeping deep within my dantian.
 
-The three *jiazi*[^6] of Scorching Yang Qi[^4] I had continually replenished through circulation surged into every limb and bone.
+The three *jiazi*[^4] of Scorching Yang Qi I had continually replenished through circulation surged into every limb and bone.
 
-Searing heat flooded hundreds of acupoints and the Eight Extraordinary Meridians[^7], driving every physical ability to its limit.
+Searing heat flooded hundreds of acupoints and the Eight Extraordinary Meridians[^5], driving every physical ability to its limit.
 
 And then…
 
@@ -252,7 +252,7 @@ The Fire Dragon Armor.
 
 Then a cluster of light visible only to me brushed my finger and transformed into the divine artifact known as the Myriad-Poison Ring. At the same time, a spear with a transparent blade appeared in my grasp.
 
-The next moment, three *jiazi*[^6] of Scorching Yang Qi[^4] flooded into them all.
+The next moment, three *jiazi*[^4] of Scorching Yang Qi flooded into them all.
 
 *Whoooooosh!*
 
@@ -291,7 +291,5 @@ A snow-white streak of light flew in from somewhere and slammed into White Flame
 [^1]: In this Chinese setting, one *li* is approximately 500 meters (0.311 miles); a thousand *li* is about 500 kilometers (311 miles).
 [^2]: One *zhang* is approximately 3.03 meters (9.94 feet).
 [^3]: A *shichen* is a traditional time unit of approximately two hours.
-[^4]: *Qi* is the vital energy cultivated and used in Chinese martial traditions. Scorching Yang Qi is fire-aligned.
-[^5]: The *dantian* is an energy center in the lower abdomen in Chinese martial traditions.
-[^6]: A *jiazi* is a traditional sixty-year cycle; three *jiazi* represent 180 years.
-[^7]: The Eight Extraordinary Meridians are channels through which qi flows in traditional Chinese physiology.
+[^4]: A *jiazi* is a traditional sixty-year cycle; three *jiazi* represent 180 years.
+[^5]: The Eight Extraordinary Meridians are channels through which qi flows in traditional Chinese physiology.

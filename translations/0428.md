@@ -8,7 +8,7 @@ Pretending to be unconscious for four days took a considerable amount of patienc
 
 Especially while hooked up to a whole array of state-of-the-art medical equipment.
 
-*Besides, it wasn’t exactly a good time to return to Murim[^1].*
+*Besides, it wasn’t exactly a good time to return to Murim.*
 
 Even if I went back, I’d just be stuck aboard the swift ship, staring stupidly at the Yangtze.
 
@@ -40,9 +40,9 @@ I shrugged.
 
 “Yeah. I made it malfunction. A little adjustment like that wasn’t difficult.”
 
-After opening my Middle Dantian[^2] this time, my control over my internal energy had improved tremendously.
+After opening my Middle Dantian this time, my control over my internal energy had improved tremendously.
 
-If I couldn’t even fool a few medical devices, I would’ve been so frustrated that I’d have gone to check the temperature of the Han River[^3].
+If I couldn’t even fool a few medical devices, I would’ve been so frustrated that I’d have gone to check the temperature of the Han River[^1].
 
 “Anyway, what do you think will happen with the Wu Heixing situation? From what Grandpa Jongseok said, it sounds like he’s made preparations.”
 
@@ -258,7 +258,7 @@ Flashes several times brighter erupted, along with a burst of murmuring. A Chine
 
 “What exactly did he…?”
 
-“He called me a peninsula bangzi[^4] and cursed me out. So I called him a chink bastard, and he tried to attack me after the meeting ended.”
+“He called me a peninsula bangzi[^2] and cursed me out. So I called him a chink bastard, and he tried to attack me after the meeting ended.”
 
 The smile vanished from the Chinese reporter’s face.
 
@@ -278,7 +278,7 @@ Right then, someone among the mass of reporters raised a hand and asked a questi
 
 “Then did you continue to clash with Wu Heixing afterward?”
 
-“I wouldn’t call it a clash. I beat him to a jajinmori rhythm[^5] with the spirit of Korea behind every blow, and he quieted down. We got along well enough after that.”
+“I wouldn’t call it a clash. I beat him to a jajinmori rhythm[^3] with the spirit of Korea behind every blow, and he quieted down. We got along well enough after that.”
 
 “Then…”
 
@@ -312,8 +312,6 @@ Considering the gravity of the matter, the press conference was absurdly brief, 
 
 Before I could even begin to feel the impact, I went to find someone.
 
-[^1]: Murim is the martial-arts world of the novel’s historical setting.
-[^2]: Dantian is a martial-arts term for a center where internal energy is gathered and cultivated.
-[^3]: “Checking the temperature of the Han River” is a dark allusion to jumping into the river to die.
-[^4]: *Bangzi* is a derogatory Chinese term for Koreans.
-[^5]: Jajinmori is a fast rhythmic pattern used in traditional Korean music.
+[^1]: “Checking the temperature of the Han River” is a dark allusion to jumping into the river to die.
+[^2]: *Bangzi* is a derogatory Chinese term for Koreans.
+[^3]: Jajinmori is a fast rhythmic pattern used in traditional Korean music.

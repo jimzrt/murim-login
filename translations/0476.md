@@ -6,7 +6,7 @@ I once saw a line like that in an old wuxia[^1] film whose title I no longer rem
 
 “Martial arts are only vertical and horizontal. In the end, one of us falls and the other remains standing.”
 
-It was true. The countless battles I had fought in Murim[^2] had always ended in one of two ways.
+It was true. The countless battles I had fought in Murim had always ended in one of two ways.
 
 *Either I knocked them down, or they knocked me down.*
 
@@ -34,7 +34,7 @@ I had lived as a Hunter for seven solid years, yet without realizing it, I had b
 
 Hunter and martial artist. Martial artist and Hunter.
 
-Both were part of my identity. I was the one and only modern martial artist—and Murim’s[^2] Hunter.
+Both were part of my identity. I was the one and only modern martial artist—and Murim’s Hunter.
 
 Standing once more on the blurred boundary between them, a line that had nearly faded away, I reminded myself of that fact.
 
@@ -80,7 +80,7 @@ A roar more savage than any before shook heaven and earth.
 
 Overwhelming qi exploded from its body, as large as a small mountain, and bore down on everything around it. The air trembled beneath the Fear it released.
 
-At the center of it all, dozens of *jang*[^3] above us in the distant sky, was a pitch-black pupil looking down at us.
+At the center of it all, dozens of *jang*[^2] above us in the distant sky, was a pitch-black pupil looking down at us.
 
 When that single eye, formed from darkness without even a speck of light, gleamed, a groan escaped someone’s lips.
 
@@ -162,7 +162,7 @@ Mungyeong’s dry voice pierced my ears.
 
 The Slaughter Saint.
 
-The greatest assassin, past or present, in Murim’s[^2] long history.
+The greatest assassin, past or present, in Murim’s long history.
 
 To an assassin who eliminated a target by any means necessary, the process did not matter. Only the result did.
 
@@ -178,7 +178,7 @@ It was a nightmare of a party composition: nothing but DPS, without a healer or 
 
 *Four Supreme Peak masters.*
 
-A lineup impressive enough to make even a five-star Jangsu stone bed weep.[^4]
+A lineup impressive enough to make even a five-star Jangsu stone bed weep.[^3]
 
 Compared to the enormous body of the Mutated Water God Dragon, we were no more than ants. But inside each of us crouched a giant carrying an unprecedented power.
 
@@ -286,7 +286,7 @@ Until recently, he had been worried that his infirmities of old age might progre
 
 The shout that followed jolted Jeok Cheongang out of his shock.
 
-“Old Master, now! Fall back thirty *jang*[^3]! Cheongpung, move behind the bastard! Mungyeong, take the flank!”
+“Old Master, now! Fall back thirty *jang*[^2]! Cheongpung, move behind the bastard! Mungyeong, take the flank!”
 
 “Yes, Benefactor!”
 
@@ -334,7 +334,6 @@ The corner of Jeok Cheongang’s eye twitched. But before he could unleash his a
 
 The four giants shot forward at the same time toward the Water God Dragon, which had finally left the waters of Dongting Lake and climbed onto land.
 
-[^1]: Wuxia is a genre of Chinese fiction and film centered on martial heroes.
-[^2]: Murim is the martial world of fighters and sects in Korean martial-arts fiction.
-[^3]: A *jang* is a traditional length unit equal to ten *ja*, about 3.03 m or 9.94 ft. Thirty *jang* is about 90.9 m or 298 ft.
-[^4]: Jangsu is a Korean stone-bed brand whose advertising is associated with the phrase “five stars.”
+[^1]: Wuxia is a genre of Chinese fiction and film about martial artists and their adventures.
+[^2]: A *jang* is a traditional length unit equal to ten *ja*, about 3.03 m or 9.94 ft. Thirty *jang* is about 90.9 m or 298 ft.
+[^3]: Jangsu is a Korean stone-bed brand whose advertising is associated with the phrase “five stars.”

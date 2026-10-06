@@ -186,7 +186,7 @@ What in the world had happened while Mungyeong was away?
 
 Mungyeong looked back and forth between Jin Taekyung and Cheongpung with an awkward expression.
 
-*These are the ones destined to illuminate the future of Murim?*[^2]
+*These are the ones destined to illuminate the future of Murim?*
 
 Even in Mungyeong’s eyes, the pair had already gone far beyond the level of mere young prodigies.
 
@@ -290,7 +290,7 @@ Despite his size, he rubbed his palms together ingratiatingly.
 
 “No. But my qi has felt weak lately. It would be nice to have something to chew on…”
 
-“We recently acquired a few fine specimens of He Shou Wu.[^3] It seems they’ve finally found their rightful owner.”
+“We recently acquired a few fine specimens of He Shou Wu.[^2] It seems they’ve finally found their rightful owner.”
 
 “The owner is you. This old man is merely a guest. Ha ha. Still, if you insist on giving them to me, I’ll gratefully accept.”
 
@@ -351,5 +351,4 @@ Anyway, it sure was a spectacle immediately after coming back.
 I shook my head as I gazed out over the Yangtze stretching endlessly into the distance.
 
 [^1]: Mooncakes are filled Chinese pastries traditionally eaten during the Mid-Autumn Festival.
-[^2]: Murim is the martial world: the society of martial artists, clans, and sects.
-[^3]: He Shou Wu is a root used in traditional Chinese medicine.
+[^2]: He Shou Wu is a root used in traditional Chinese medicine.

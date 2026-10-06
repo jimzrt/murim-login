@@ -28,7 +28,7 @@ Having finally regained his senses, he stared in bewilderment at the scene befor
 
 Zhuge Feng possessed extensive knowledge of creatures known as spiritual creatures or evil creatures, but this dragon-like monster defied everything he knew.
 
-If word of what had happened here today reached the outside world, not only Murim[^3] but the entire realm would be thrown into an uproar.
+If word of what had happened here today reached the outside world, not only Murim but the entire realm would be thrown into an uproar.
 
 *How could something like this happen…?*
 
@@ -68,7 +68,7 @@ Cheongpung thought for a moment, then nodded.
 
 “…?”
 
-“Don’t look at me like that. It’s simply that this isn’t a battle I need to fight today. It’s the same reason Zhuge Wuhou[^4], our family’s ancestor, did not stand at the vanguard and cut down the enemy.”
+“Don’t look at me like that. It’s simply that this isn’t a battle I need to fight today. It’s the same reason Zhuge Wuhou[^3], our family’s ancestor, did not stand at the vanguard and cut down the enemy.”
 
 Zhuge Feng knew exactly where he stood and what he needed to do.
 
@@ -86,7 +86,7 @@ The peace that had lasted for more than fifty years was over. Dark clouds filled
 
 Cheongpung, racing toward the distant battlefield, was one of those winds.
 
-*Wuhou[^4]. At least for today, it seems there is no place for this unworthy descendant to step forward.*
+*Wuhou[^3]. At least for today, it seems there is no place for this unworthy descendant to step forward.*
 
 Just as Zhuge Feng murmured those words to himself, a dazed conversation behind him drifted into his ears.
 
@@ -186,7 +186,7 @@ His small, slender figure was flung backward through the air.
 
 Mungyeong twisted in midair and landed with a rough movement wholly unsuited to the name Ghost Illusory Slaughter Step. Beside him, Jeok Cheongang melted an incoming boulder with a single palm strike and spoke in a mocking tone.
 
-“Did your martial arts become childish too after you Returned to Youth[^5]?”
+“Did your martial arts become childish too after you Returned to Youth[^4]?”
 
 “Its strength and speed both far exceeded my expectations. Even with the principle of Four Ounces Deflecting a Thousand Catties, I couldn’t redirect it completely.”
 
@@ -300,6 +300,5 @@ The Water God Dragon’s mournful wail rang out through the wind and rain.
 
 [^1]: A *jang* is a traditional Korean length of ten *ja*, about 3.03 m (9.94 ft). Thirty *jang* is about 91 m (298 ft), and two *jang* is about 6.06 m (19.9 ft).
 [^2]: “Crouching Dragon” alludes to Zhuge Liang, the Chinese strategist associated with that epithet.
-[^3]: *Murim* is the world or community of martial artists in Korean martial-arts fiction.
-[^4]: Zhuge Wuhou is an honorific title for Zhuge Liang, a Chinese statesman and military strategist; “Wuhou” is its shortened form here.
-[^5]: Returned to Youth refers to a martial-arts-fiction phenomenon in which advanced attainment restores a person’s youthful appearance.
+[^3]: Zhuge Wuhou is an honorific title for Zhuge Liang, a Chinese statesman and military strategist; “Wuhou” is its shortened form here.
+[^4]: Returned to Youth refers to a martial-arts-fiction phenomenon in which advanced attainment restores a person’s youthful appearance.

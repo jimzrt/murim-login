@@ -264,7 +264,7 @@ I had to dodge the finger flicks our boisterous Old Master, Fire King Jeok Cheon
 
 “Well, look at you. Dodging, are we?”
 
-“…Isn’t dodging them the whole point of this training? You said I needed to maintain a mind like a clear mirror and still water while heightening my senses so I could get used to my Middle Dantian.[^4]”
+“…Isn’t dodging them the whole point of this training? You said I needed to maintain a mind like a clear mirror and still water while heightening my senses so I could get used to my Middle Dantian.”
 
 Jeok Cheongang answered without a shred of shame.
 
@@ -337,4 +337,3 @@ The Yangtze was peaceful today, too.
 [^1]: Tens of billions of won is roughly ₩20–90 billion: about $14–64 million or €13–58 million.
 [^2]: Fifty trillion won is about $36 billion or €32 billion.
 [^3]: PT means personal training, a common abbreviation in Korean gym usage.
-[^4]: A dantian is an internal center for cultivating qi in Chinese martial arts. The Middle Dantian is traditionally associated with the chest.

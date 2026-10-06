@@ -182,7 +182,7 @@ When I first saw the thing, only one thought flashed through my mind.
 
 *Am I seeing things?*
 
-I could hardly have thought otherwise. A monster I had seen somewhere before had appeared right in front of me—not in the modern world, but in Murim.[^4]
+I could hardly have thought otherwise. A monster I had seen somewhere before had appeared right in front of me—not in the modern world, but in Murim.
 
 If it had merely been an illustration in some fantasy novel, that would have been one thing. Unfortunately, I recognized it from the *Monster Encyclopedia*, compiled over the past several decades by countless leading scholars and Hunters who had fought in the Great Cataclysm.
 
@@ -202,7 +202,7 @@ No, let me correct that.
 
 At least, that had been true until a moment ago.
 
-*A Sea Serpent in Murim?[^4] What the hell is going on…?*
+*A Sea Serpent in Murim? What the hell is going on…?*
 
 I had frozen in shock, but I soon noticed something strange.
 
@@ -290,7 +290,7 @@ But if I could not finish it in One Strike, that would be a foolish move.
 
 It was more urgent to act before the enormous monster recovered from its confusion.
 
-I turned and drew a deep breath as I pulled internal energy up from my dantian.[^5]
+I turned and drew a deep breath as I pulled internal energy up from my dantian.
 
 “Cheongpung! Hyuk Mujin! Gung Gibang!”
 
@@ -314,7 +314,7 @@ Unlike Gung Gibang and Hyuk Mujin, whose eyes looked as though half their souls 
 
 Anyone would freeze after seeing a monster like that. I was the exception because I had grown up in the modern world, surrounded by monsters until I was sick of them.
 
-But Cheongpung had been born and raised in Murim.[^4] The fact that he could overcome Fear so easily was astonishing.
+But Cheongpung had been born and raised in Murim. The fact that he could overcome Fear so easily was astonishing.
 
 “Young Hero Cheongpung. Are you really all right?”
 
@@ -337,5 +337,3 @@ Cheongpung threw both arms wide and exclaimed emphatically.
 [^1]: A *jang* is a traditional Korean unit of length equal to about 3.03 meters (9.94 ft). Several *jang* means several times that distance.
 [^2]: Thirty *jang* is about 91 meters (298 ft).
 [^3]: A hundred *jang* is about 303 meters (994 ft).
-[^4]: *Murim* is the martial world of fighters, sects, and clans.
-[^5]: The *dantian* is a center of internal energy in the lower abdomen.

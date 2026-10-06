@@ -54,7 +54,7 @@ Each sheet bore a different set of patterns and symbols. By the time I had exami
 
 *This is…*
 
-There was no mistake. The strange patterns and symbols were identical to the ones I had seen in Murim,[^1] only arranged and oriented differently.
+There was no mistake. The strange patterns and symbols were identical to the ones I had seen in Murim, only arranged and oriented differently.
 
 And if I assembled all these sheets like pieces of a puzzle, they would form one enormous magic circle.
 
@@ -156,7 +156,7 @@ His answer wasn’t what I had hoped for, and I could feel the strength draining
 
 “Then how did you guess that it was a life-force absorption magic circle? Can only monsters recognize patterns and symbols like these?”
 
-If the Skeleton King understood these strange patterns and symbols—if he could teach me what they meant—I might finally be able to identify the formation I had seen in Murim.[^1]
+If the Skeleton King understood these strange patterns and symbols—if he could teach me what they meant—I might finally be able to identify the formation I had seen in Murim.
 
 I looked at him expectantly, only for his answer to dash my hopes a moment later.
 
@@ -274,7 +274,7 @@ And… that was all I could sense.
 
 The patterns and symbols, arranged in an incomprehensible order, remained impossible to decipher.
 
-Just as it had in Murim,[^1] the System remained silent. After wandering around the site for hours without learning anything, I had no choice but to turn back.
+Just as it had in Murim, the System remained silent. After wandering around the site for hours without learning anything, I had no choice but to turn back.
 
 “Mr. Johnson, Jin. We’ve prepared an escort to ensure you encounter no inconvenience on your way back…”
 
@@ -306,7 +306,7 @@ The same work was probably underway in every city caught up in the war.
 
 *It must be the same in Sichuan.*
 
-China’s Sichuan and Murim’s Sichuan[^1] belonged to entirely different worlds. Murim was not the modern world’s past, nor was the modern world Murim’s future.
+China’s Sichuan and Murim’s Sichuan belonged to entirely different worlds. Murim was not the modern world’s past, nor was the modern world Murim’s future.
 
 But now a connection had appeared between those utterly different worlds—and it was not the first.
 
@@ -351,5 +351,3 @@ Without realizing it, I must have ventured deep into the ruins. Beyond the relat
 “Hell is where your old man went. If I die, I’m going to heaven.”
 
 The eyes of Go Jun—Lee Jungryong’s Disciple and Head of Security—turned ice-cold.
-
-[^1]: *Murim* refers to the martial-arts world and its community of martial artists.

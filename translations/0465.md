@@ -200,7 +200,7 @@ No human being should kill another like that.
 
 In the slowed world, my voice vanished beneath the raging wind.
 
-Power flooded the hand gripping the spear shaft. As the mighty Scorching Yang Qi[^5] boiled throughout my body, I brought the spearhead down at an angle.
+Power flooded the hand gripping the spear shaft. As the mighty Scorching Yang Qi boiled throughout my body, I brought the spearhead down at an angle.
 
 *Fwoosh. Shhk!*
 
@@ -228,11 +228,11 @@ I could tell where that strange fishing-rod weapon would move and how the Heaven
 
 My half-lidded eyes took in every detail, and my wide-open senses read each attack before it came.
 
-*If this had been me before my Middle Dantian[^6] opened, I would’ve struggled.*
+*If this had been me before my Middle Dantian opened, I would’ve struggled.*
 
 When the place where you stand changes, the scenery you see changes as well.
 
-Opening my Middle Dantian[^6] had expanded my senses and granted me a new field of vision I hadn’t even known existed. The results were unfolding before my eyes.
+Opening my Middle Dantian had expanded my senses and granted me a new field of vision I hadn’t even known existed. The results were unfolding before my eyes.
 
 *Here it comes.*
 
@@ -290,7 +290,7 @@ The pain was severe enough to make an ordinary person scream, but I accepted it 
 
 *This is nothing.*
 
-I’d endured countless injuries and unimaginable pain while traveling between the modern world and Murim.[^7]
+I’d endured countless injuries and unimaginable pain while traveling between the modern world and Murim.
 
 There had been times when I writhed in agony as though every bundle of nerves in my body were being severed, times when I had genuinely wanted to die.
 
@@ -328,6 +328,3 @@ As his scream of pain filled the cave, I raised my fist toward him.
 [^2]: A reference to Gollum and the One Ring in *The Lord of the Rings*.
 [^3]: A *jiazi* is a traditional sixty-year cycle.
 [^4]: A *junzi* is the Confucian ideal of a morally upright person.
-[^5]: *Qi* is vital energy in Chinese martial-arts tradition; Scorching Yang Qi is fire-aligned.
-[^6]: The Middle Dantian is one of the body’s energy centers in martial-arts tradition.
-[^7]: *Murim* is the world of martial artists and their sects in Korean martial-arts fiction.
