@@ -268,23 +268,23 @@ No one knew when the boy had arrived, where he’d come from, or how he’d been
 
 But even the boy’s astonishing accomplishments were soon overshadowed by the Sword Saint’s even more astonishing words.
 
-“You want me to initiate him?”
+*You want me to initiate him?*
 
-“Yes, Master. I intend to conduct the initiation ceremony and accept him as a main-sect Disciple. The order may be backward, but we cannot ignore a once-in-a-millennium genius like him—”
+*Yes, Master. I intend to conduct the initiation ceremony and accept him as a main-sect Disciple. The order may be backward, but we cannot ignore a once-in-a-millennium genius like him—*
 
-“Ignore him.”
+*Ignore him.*
 
-“Pardon?”
+*Pardon?*
 
-“I said to continue ignoring him. When the time comes, I’ll send him over myself.”
+*I said to continue ignoring him. When the time comes, I’ll send him over myself.*
 
-“M-Master!”
+*M-Master!*
 
-“And don’t come looking for him again. Not unless you want me to burn this whole place down.”
+*And don’t come looking for him again. Not unless you want me to burn this whole place down.*
 
-“Set fire to Huashan? Are you saying we should all die together?”
+*Set fire to Huashan? Are you saying we should all die together?*
 
-“Oh. Now that you mention it, I suppose we would. Anyway, that’s how it is. I’ll take care of Cheongpung.”
+*Oh. Now that you mention it, I suppose we would. Anyway, that’s how it is. I’ll take care of Cheongpung.*
 
 Chulwoo and Eunhyang both gaped at him.
 
@@ -318,7 +318,7 @@ Baek Museong hesitated before letting out a deep sigh.
 
 All three of them remembered Cheongpung’s final words at the same time.
 
-“I’m staying with my Benefactor!”
+*I’m staying with my Benefactor!*
 
 The Sleeping Dragon of Shanxi, Jin Taekyung.
 
