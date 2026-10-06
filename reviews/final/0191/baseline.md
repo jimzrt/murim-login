@@ -362,7 +362,9 @@ Baek Museong bit down hard on his lip at the unfair treatment, and the next targ
 
 “The Jin Family of Taiyuan will seal its gates until our sect sends someone.”
 
-“…What did you just say?”
+“…”
+
+“What did you just say?”
 
 Jin Wikyung said what I wanted to say for me. No—everyone nearby who had heard the Roaring Fury Swordsman must have been thinking the same thing.
 
@@ -446,7 +448,7 @@ But…
 
 I couldn’t take it anymore.
 
-They could call me thoughtless or a young fool who knew nothing about the world.
+They could call me thoughtless or a young fool who knew nothing about the world. I didn’t care.
 
 I had no desire to replay all the things I had been sick of experiencing in reality here in Murim.
 
