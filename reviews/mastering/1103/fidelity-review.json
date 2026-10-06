@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "staining my vision a thick red",
+      "defect": "The source describes the flash staining his vision in a sticky, viscous way. “A thick red” weakens that tactile image and is less precise than the accepted baseline.",
+      "id": "F01",
+      "rationale": "찐득하게 conveys a sticky or viscous quality, not merely thickness.",
+      "replacement": "staining my vision with a sticky red",
+      "severity": "minor",
+      "source": "Line 88"
+    },
+    {
+      "confidence": 0.99,
+      "current": "An alarm blared in my head",
+      "defect": "The source specifically identifies the alarm as red; the translation omits that detail.",
+      "id": "F02",
+      "rationale": "적색 경종 means a red alarm, and the accepted baseline also preserves this color detail.",
+      "replacement": "A red alarm blared in my head",
+      "severity": "minor",
+      "source": "Line 184"
+    },
+    {
+      "confidence": 0.9,
+      "current": "their spirits high as they charged",
+      "defect": "This gives the charging enemies high morale, while the Korean describes their momentum or force as they charge.",
+      "id": "F03",
+      "rationale": "기세를 올리며 describes building momentum or force in the charge; it does not establish the enemies’ emotional spirits.",
+      "replacement": "Dozens of enemies charging with full force fell like rotten logs.",
+      "severity": "minor",
+      "source": "Line 278"
+    }
+  ],
+  "summary": "The translation is largely faithful, with a few small physical-detail and action nuances lost or shifted.",
+  "version": 1
+}
