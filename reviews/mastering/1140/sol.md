@@ -162,7 +162,7 @@ As if they’d planned it, they gathered around Jin Taekyung. He greeted the tow
 
 “How could I forget Master Unnamed? But you’ve gotten even more muscular since I last saw you… Wow.”
 
-Unnamed, the sole Disciple of Dharma King Hong Dao, and the man who had sworn not to take the seat of Abbot of Shaolin until Dark Heaven was rooted out.
+Unnamed, the sole Disciple left behind by Dharma King Hong Dao, who had sworn not to take the seat of Abbot of Shaolin until Dark Heaven was rooted out.
 
 “Heavenly Sword True Person, you came, too. Oh, Cheongpung? He was over there, but now he’s gone. By the way, did your Disciples come with you?”
 
@@ -176,7 +176,7 @@ And—
 
 “That reminds me of what happened in Hubei.”
 
-Other Sect Leaders, Family Heads, and heads of sects.
+Other sect and family heads.
 
 Even an Elder of a great sect could barely get a foot in. Anyone below that rank couldn’t get close enough to greet Jin Taekyung.
 
@@ -190,7 +190,7 @@ The arrival of the Sichuan Tang Clan’s Family Head, whose foul temper everyone
 
 Tang Sadok, the Myriad-Poison Asura, was said to prefer a drop of poison to a word of conversation. Yet he clasped his hands in a deeply respectful salute.
 
-“Damn it. I thought they’d come to Sichuan, too… But I was held up by those bastards. Even feeding them to that tiger wouldn’t have satisfied me. I have no excuse.”
+“Damn it. I thought they’d come to Sichuan, too… But I was held up by those bastards. Throwing them to that tiger wouldn’t be enough. I have no excuse.”
 
 Yayul Cheok, the burly man wrapped in tiger hide, even lowered his head and watched Jin Taekyung’s face for a reaction.
 
@@ -258,7 +258,7 @@ Leaving behind the cries of Great Ming’s subjects, all fired up with loyalty, 
 
 I kept going until all the noise had faded away.
 
-Past the East Gate, as far as the river beyond the reach of Xining City’s lights, which filled every street.
+Past the East Gate, to the river beyond the reach of Xining City’s lights, which filled every street.
 
 And there, I came face-to-face with someone I hadn’t seen in the past three days.
 
@@ -268,6 +268,6 @@ No—someone I’d deliberately avoided seeking out while I sorted through the t
 
 Wet sand gave softly beneath my slow step.
 
-Standing beside the Bow Saint, I watched the rippling river in silence.
+Standing beside the Bow Saint, I watched the rolling river in silence.
 
 For a long, long time afterward.

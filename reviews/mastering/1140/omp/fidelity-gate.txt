@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled chapter is faithful overall, with one minor unsupported implication about Jin Wikyung’s level of intoxication.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 267",
+      "current": "Jin Wikyung had dropped his stern-and-serious act and started crying as soon as he got drunk.",
+      "defect": "The English says he was drunk, but the Korean only says that once he started drinking, he dropped the act and began to cry. It does not establish that he had become intoxicated.",
+      "replacement": "Jin Wikyung had dropped his stern-and-serious act and started crying as soon as he started drinking.",
+      "rationale": "술이 들어가자 indicates that he began drinking; it does not specify that he got drunk.",
+      "confidence": 0.96
+    }
+  ]
+}
