@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "The people who’d been frozen in a daze since the monsters’ bizarre collapse blinked.",
+      "defect": "“Collapse” specifies that the monsters fell or collapsed. The source only refers to a strange event that happened to them; it does not name a collapse.",
+      "id": "F01",
+      "rationale": "The source says 이변, a strange or unusual occurrence, without specifying what happened physically.",
+      "replacement": "The people who’d been frozen in a daze since the strange thing that had happened to the monsters blinked.",
+      "severity": "minor",
+      "source": "Line 32"
+    }
+  ],
+  "summary": "One specific physical event is stated more definitively than the Korean source establishes.",
+  "version": 1
+}

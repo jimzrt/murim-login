@@ -50,7 +50,7 @@ Hyuk Mujin had barely begun speaking in an uncharacteristically cautious tone wh
 
 At this point, that voice was practically a fingerprint.
 
-Hyuk Mujin and I confirmed it, and then Jeok Cheongang put the matter to rest.
+Mujin and I had confirmed it, and Jeok Cheongang put the matter to rest.
 
 “Benefactor! I’m here!”
 
@@ -100,11 +100,11 @@ But none of us was stupid enough to sit around a campfire chatting in a situatio
 
 “We’d best get out of here quickly. Follow me.”
 
-Before the warmth of our reunion had even faded, the Slaughter Saint wiped the smile from his face and got moving as if nothing had happened.
+Before the warmth of our reunion had faded, the Slaughter Saint wiped the smile from his face and got moving.
 
 “Throw away anything that might slow us down. Especially that idiot over there.”
 
-Jeong Hogun, the idiot the Slaughter Saint had pointed out, replied.
+Jeong Hogun, the idiot he’d pointed out, replied.
 
 “I don’t know what sort of elder you are, but you should at least show some courtesy. I am a Thousand Captain of the Embroidered Uniform Guard, serving under His Majesty the Emperor’s solemn command…”
 
@@ -124,7 +124,7 @@ The Emperor was somewhere far away. The dagger was right against Jeong Hogun’s
 
 “As I said, I am a Thousand Captain of the Embroidered Uniform Guard, serving under His Majesty the Emperor’s solemn command…but you appear to have a close relationship with the Marquis of Shangshan, so I’ll let this pass.”
 
-The Slaughter Saint replied dryly to that thoroughly undignified excuse for an Embroidered Uniform Guard.
+It was an embarrassingly poor excuse for an Embroidered Uniform Guard. The Slaughter Saint replied dryly.
 
 “We’re not that close.”
 
@@ -156,7 +156,7 @@ Perfected Being Hyeoncheon was a seasoned Supreme Peak master, skilled enough to
 
 “It’s been a long time. I never thought I’d see you again like this.”
 
-The Slaughter Saint had seen through her identity, just as she had his. He answered with a bitter smile.
+The Slaughter Saint had recognized her, just as she had recognized him. He answered with a bitter smile.
 
 “I feel the same. After that day, I thought we’d never meet again.”
 
@@ -200,7 +200,7 @@ I followed his gaze and immediately understood what he meant.
 
 I also understood why he’d called a human being with all his limbs intact a *thing*.
 
-“Well, how should I put it… That gentleman’s a little out of his mind.”
+“Well, how should I put it… That gentleman’s mind wanders a bit.”
 
 “…I’ve gathered that much.”
 
@@ -218,7 +218,7 @@ Jeong Hogun stopped Great Sir just as he was about to remove his underwear. Grea
 
 “Hello! I’m Cheongpung!”
 
-“You’re a spirited young man. I like that. I’m Soonja.”
+“You’re a spirited young man. Good to see. I’m Soonja.”
 
 “Nice to meet you, Auntie!”
 
@@ -226,7 +226,7 @@ No.
 
 Are these guys seriously insane?
 
-Just as everyone stood aghast at the meeting of two natural disasters that shouldn’t occur even once in a hundred years, the Slaughter Saint shook his head and spoke.
+Everyone stood aghast at the meeting of two natural disasters that shouldn’t occur even once in a hundred years. The Slaughter Saint shook his head.
 
 “Right. Let’s get going.”
 
@@ -240,17 +240,17 @@ In his hand was a rope that stretched far off into the distance.
 
 To get straight to the point, the enemies didn’t pursue us after that.
 
-Or maybe it would be more accurate to say that they did, and they didn’t.
+Or maybe it would be more accurate to say they did, but their pursuit never reached us.
 
 “Go on ahead. I’ll catch up soon.”
 
-The Slaughter Saint said that and left us several times. Each time he returned just when we needed him, his body reeking of blood.
+The Slaughter Saint left us several times with those words. Each time, he returned just when he needed to, reeking of blood.
 
 After nearly two full days, he said, “They should be less of a nuisance from here on.”
 
 Not one of our three thousand allies, myself included, failed to understand what he meant. He’d shaken off Dark Heaven’s relentless pursuit.
 
-And we all knew how he’d dealt with the pursuers so quickly—and that it was he and Cheongpung, not the Great Sir, who had taken down the ten thousand monsters.
+We understood, too, that he’d made quick work of the pursuers—and that he and Cheongpung, not Great Sir, were the reason ten thousand monsters had fallen.
 
 “Mmph, mmph.”
 
