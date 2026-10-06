@@ -14,15 +14,15 @@ I couldn’t have said that without knowing who he was. Hak Eui replied calmly, 
 
 “My one and only Junior Brother is rather talkative for a Daoist. So I assumed you’d already heard a thing or two about me.”
 
-I scratched my chin as I looked at Kunlun Cloud Dragon Hak Unui’s eldest Senior Brother, Hak Su’s Junior Brother, and Cheongheoja’s second Disciple.
+I scratched my chin as I looked at the man who was the eldest Senior Brother of Kunlun Cloud Dragon Hak Unui, Hak Su’s Junior Brother, and Cheongheoja’s second Disciple.
 
-“Even if he’s not here, that seems a bit harsh on your one and only Junior Brother.”
+“Even if he’s not here, that seems a bit harsh for a judgment of your one and only Junior Brother.”
 
 “It’s all right. I would’ve said the same thing if he were here.”
 
 So that was why people said not to judge by appearances.
 
-Despite his refined looks, Hak Eui had a way of stating the facts coldly. Without hesitation, he continued.
+Despite his refined looks, Hak Eui had a way of coldly stating the facts. Without hesitation, he continued.
 
 “Earlier, Great Hero Jin, you said we should have a proper discussion. Before that, there’s something I’d like to ask.”
 
@@ -34,17 +34,17 @@ The question felt a little out of the blue, but I answered readily.
 
 “Of course I intend to behead them. At daybreak, in front of everyone.”
 
-That outcome had been decided long ago.
+The outcome had been decided long ago.
 
-The City Lord of Qinghai had managed to survive as a corrupt official for so long because of the conflict between the Son of Heaven and the Eastern Heaven Demon Lord. His illicit fortune had drawn the Embroidered Uniform Guard’s attention a long time ago.
+The City Lord of Qinghai had been able to live so comfortably as a corrupt official because of the conflict between the Son of Heaven and the Eastern Heaven Demon Lord. His embezzlement had drawn the Embroidered Uniform Guard’s attention a long time ago.
 
-In the end, it was only a question of who would take up the sword. The neck it would sever had already been chosen.
+In the end, it was only a question of who would take up the sword. The owner of the neck to be cut had already been decided.
 
 *And in a situation like this, it’d be ridiculous to let a man like him live.*
 
 Peace had lasted a long time in the Great Nation, too.
 
-The City Lord of Qinghai had spent those years secretly selling off military provisions and lining his pockets with gold. There was no way the army could have functioned properly under a man like him.
+The City Lord of Qinghai had spent years lining his pockets with gold by selling off military provisions behind everyone’s backs. There was no way the army could have been functioning properly under a man like him.
 
 There was hardly any answer but beheading.
 
@@ -52,9 +52,9 @@ But Hak Eui’s next words went well beyond anything I’d expected.
 
 “No.”
 
-“…!”
+“...!”
 
-“…!”
+“...!”
 
 “I ask you to reconsider that decision.”
 
@@ -66,13 +66,13 @@ Even if the Son of Heaven’s decree had weakened the principle that officials a
 
 A line that someone of Hak Eui’s standing—the Kunlun Sect Leader’s second Disciple—couldn’t cross.
 
-And the first person to react when Hak Eui crossed that unseen line was—
+And the first person to react to Hak Eui stepping over that unseen line was—
 
 “Perhaps you pursued the Dao and never learned the law. Mind your words, Daoist of the Kunlun Sect.”
 
 Jeong Hogun’s voice was as blunt as ever, but I noticed a faint anger in his eyes as he looked at Hak Eui.
 
-Some people tensed beneath Jeong Hogun’s aura. Cheongheoja, meanwhile, watched his Disciple in silence.
+While some people tensed beneath Jeong Hogun’s aura, Cheongheoja watched his Disciple in silence.
 
 *I don’t know him well, but he doesn’t seem like the sort to sit back and do nothing in a situation like this.*
 
@@ -86,19 +86,19 @@ Of course, he’d take my side without a second thought first.
 
 *But Cheongheoja is different.*
 
-Watching Cheongheoja deal with the hopeless trio by the shore of Qinghai Lake had convinced me that the old Daoist was practically a saint.
+Watching Cheongheoja deal with the hopeless trio by the shores of Qinghai Lake had convinced me that the old Daoist’s character was practically saintly.
 
 If a man like him was simply watching the situation unfold, there had to be a good reason.
 
 “Then why?”
 
-“…Marquis of Shangshan.”
+“...Marquis of Shangshan.”
 
-Jeong Hogun frowned when I suddenly spoke to Hak Eui, but I ignored him and asked again.
+Jeong Hogun frowned when I suddenly spoke to Hak Eui, but I ignored him and asked Hak Eui again.
 
 “Tell me. Why should those bastards be kept alive?”
 
-Was this the mercy of a Daoist who followed the Way of Heaven and wanted to avoid taking lives whenever possible? Or was there another reason?
+Was this the mercy of a Daoist who followed the Way of Heaven and wanted to avoid taking lives as much as possible? Or was there another reason?
 
 By now, I was genuinely curious.
 
@@ -112,27 +112,27 @@ Everyone’s attention fixed on him. At last, Hak Eui’s tightly closed lips pa
 
 “No, I mean, isn’t that—”
 
-I was about to ask what the difference was when Hak Eui added firmly:
+I was about to ask what the difference was when Hak Eui added, his tone firm:
 
 “Beheading is far too lenient. Have them executed by slow slicing in front of the people.”
 
-“…What?”
+“...What?”
 
 “At times like this, one punishment should serve as a warning to a hundred. Based on the close investigation I’ve conducted into the city’s affairs over the past few days, even slow slicing seems a little too lenient.”
 
-“…!”
+“...!”
 
-“…!”
+“...!”
 
 Silence fell over the pavilion. Jeok Cheongang, who’d been watching with interest, muttered under his breath.
 
 “What a masterpiece.”
 
-The Slaughter Saint and the Bow Saint, seated beside him, spoke with uneasy expressions.
+The Slaughter Saint and the Bow Saint, seated beside him, spoke with dubious expressions.
 
-“Is he… sure he’s a Daoist?”
+“Is he... sure he’s a Daoist?”
 
-“How did the Kunlun Sect end up like this…”
+“How did the Kunlun Sect end up like this...”
 
 As the elders sighed, the hopeless trio tilted their heads at the sight of everyone staring blankly at Hak Eui, then whispered among themselves.
 
@@ -160,13 +160,13 @@ Cheongpung and Taishan gasped at the same time. Their eyes went wide, and they e
 
 “What do you think? He fell to this lord’s hand.”
 
-No, that couldn’t be right, either.
+No, that couldn’t be right.
 
-“Gasp! Then what Taishan ate back then was…”
+“Gasp! Then what Taishan ate back then was...”
 
 “This is driving me insane. No, it wasn’t.”
 
-I agreed completely, but why was *that guy* the one saying it?
+I agreed completely, but why was that guy the one saying it?
 
 “Taishan really didn’t know. Who knew a great fiend could be so tasty?”
 
@@ -176,7 +176,7 @@ He’d said it exactly twice so far—and it hadn’t even been a great fiend.
 
 “No. Taishan really ate it.”
 
-“…Really?”
+“...Really?”
 
 Don’t let him convince you now. Please.
 
@@ -190,11 +190,11 @@ At last, the Kunlun Sect Leader, Cheongheoja, broke his silence. Hak Eui bowed h
 
 “I’m sorry, Master.”
 
-He didn’t look sorry at all.
+His expression didn’t look sorry at all.
 
 But whatever he was thinking right now didn’t matter to me. I was only interested in what his unexpected answer had revealed—the fact that had just shocked everyone.
 
-“No, let him continue. Your Disciple still seems to have plenty to say.”
+“No need. Go on, then. Your Disciple still seems to have plenty to say.”
 
 Hak Eui slowly raised his bowed head. A glint passed through his eyes as he looked straight at me.
 
@@ -202,21 +202,21 @@ Hak Eui slowly raised his bowed head. A glint passed through his eyes as he look
 
 “You said it yourself. You’ve spent the past few days investigating, and doing so very thoroughly. Wasn’t that what you wanted to talk about from the start?”
 
-“…!”
+“...!”
 
 “Oh, was it not just the past few days? Have you been at it all along?”
 
-Across the enormous table, where dozens of people were seated, Hak Eui’s eyes widened slightly. I could tell I’d hit the mark, and I laughed quietly to myself.
+Across the enormous table, where dozens of people were seated, Hak Eui’s eyes widened slightly. I could tell I’d hit the mark, and I let out a quiet laugh to myself.
 
 He and I were both young.
 
-No—we were *very* young compared to the Sect Leaders who held sway over Qinghai’s affairs and the Kunlun elders seated here.
+No—we were young compared to the Sect Leaders who held sway over Qinghai’s affairs and the Kunlun elders seated here.
 
-But despite that common ground, our positions were worlds apart.
+But even with that in common, our positions were worlds apart.
 
-I could claim one of the few seats at the head of the table. He sat at the far end.
+I could claim one of the few seats at the head of the table. He had to sit at the far end.
 
-All the more reason he needed a chance to speak.
+That was all the more reason he’d need a chance to speak.
 
 Like this moment, with everyone’s attention fixed on him.
 
@@ -224,17 +224,17 @@ Like this moment, with everyone’s attention fixed on him.
 
 “Of course not.”
 
-Jeok Cheongang answered, adding with a genial smile,
+Jeok Cheongang answered for me, adding a genial smile.
 
 “If anyone has a problem, raise your hand now. This old man will personally persuade you.”
 
 Naturally, no one raised a hand. The meeting continued through the night.
 
-When that long night ended, a dozen or so criminals—including the City Lord of Qinghai—were dragged into the streets amid the curses of countless people.
+And when the long night ended, a dozen or so criminals—including the City Lord of Qinghai—were dragged into the streets amid the curses of a vast crowd.
 
 A shrill cry rang out.
 
-A bird streaked across the high sky and arrived as if heralding their end.
+A bird of prey streaked across the high sky and arrived as if heralding their end.
 
 No.
 
@@ -250,12 +250,12 @@ And the next moment—
 
 *Rustle.*
 
-As soon as I unfolded the missive and read its contents, every hair on my body seemed to stand on end.
+As soon as I unfolded the message and read its contents, a shiver ran through me, raising the hairs all over my body.
 
-“…Damn it.”
+“...Damn it.”
 
-The curse slipped out as I looked up at the dark sky. Beneath it, the executioners’ blades flashed cruelly.
+The sky above me was dark as I looked up, the curse slipping out before I could stop it. Beneath it, the executioners’ blades flashed cruelly.
 
 *Shhk!*
 
-A tremendous roar erupted as a severed head fell.
+As a severed head fell, a tremendous roar erupted.

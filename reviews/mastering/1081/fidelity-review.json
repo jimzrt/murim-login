@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "the executioners’ blades flashed cruelly.",
+      "defect": "The Korean says the executioners’ blades were swung, then describes them flashing. “Flashed” preserves the visual effect but drops the action.",
+      "id": "F01",
+      "rationale": "휘둘려진 describes the blades being swung; 번뜩였다 describes their cruel flash.",
+      "replacement": "the executioners’ blades swung, flashing cruelly.",
+      "severity": "minor",
+      "source": "Line 264"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall, with one minor omission of a physical action.",
+  "version": 1
+}

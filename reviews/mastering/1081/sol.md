@@ -4,13 +4,13 @@
 
 Slender build. Refined features.
 
-And a natural manner—not too much, not too little.
+A natural manner, too—neither too stiff nor too familiar.
 
 He looked somewhere between a young man and a middle-aged one, the very picture of a Daoist. I’d guessed who he was the moment our eyes met, so I bowed in return.
 
 “This is the first time we’ve met like this.”
 
-I couldn’t have said that without knowing who he was. Hak Eui replied calmly, without the slightest change in expression.
+I couldn’t have said that without knowing who he was. Hak Eui replied calmly, without the slightest flinch.
 
 “My one and only Junior Brother is rather talkative for a Daoist. So I assumed you’d already heard a thing or two about me.”
 
@@ -32,7 +32,7 @@ I shrugged in assent, and Hak Eui went on.
 
 The question felt a little out of the blue, but I answered readily.
 
-“Of course I intend to behead them. At daybreak, in front of everyone.”
+“Behead them, of course. At daybreak, in front of everyone.”
 
 That outcome had been decided long ago.
 
@@ -118,7 +118,7 @@ I was about to ask what the difference was when Hak Eui added firmly:
 
 “…What?”
 
-“At times like this, one punishment should serve as a warning to a hundred. Based on the close investigation I’ve conducted into the city’s affairs over the past few days, even slow slicing seems a little too lenient.”
+“At times like this, one punishment should serve as a warning to a hundred. From what I’ve found in my close investigation of the city over the past few days, even slow slicing seems a little too lenient.”
 
 “…!”
 
@@ -126,7 +126,7 @@ I was about to ask what the difference was when Hak Eui added firmly:
 
 Silence fell over the pavilion. Jeok Cheongang, who’d been watching with interest, muttered under his breath.
 
-“What a masterpiece.”
+“What a piece of work.”
 
 The Slaughter Saint and the Bow Saint, seated beside him, spoke with uneasy expressions.
 
@@ -146,15 +146,15 @@ Taishan answered confidently, swallowing as he continued.
 
 No, that couldn’t be right.
 
-“Oh! So it’s a kind of dish. I’ve never tried it. Great Sir, have you?”
+“Oh! So it’s a kind of dish. I’ve never tried it. Uncle Great Sir, have you?”
 
 “What sort of dish could that possibly be? Honestly, young people these days.”
 
-For once, Great Sir looked at Taishan and Cheongpung with an expression of pure contempt, as if a normal person had possessed him. Then he added:
+For once, Great Sir looked at Taishan and Cheongpung as if a normal person had possessed him. Then he added:
 
-“‘Slow slicing’ isn’t a dish. It’s a sobriquet. The name of a great fiend who once terrorized the whole world.”
+“‘Slow Slicing’ isn’t a dish. It’s a sobriquet. It belonged to a great fiend who once terrorized the whole world.”
 
-Cheongpung and Taishan gasped at the same time. Their eyes went wide, and they eagerly asked:
+Cheongpung and Taishan gasped at the same time. Their eyes went wide, and they rushed to ask:
 
 “What happened to that great fiend?”
 
@@ -182,7 +182,7 @@ Don’t let him convince you now. Please.
 
 *Are these guys actually insane?*
 
-Their intelligence had suffered a thousand cuts, and my head was spinning from listening to them. Just then, an old man’s voice rang out.
+The sheer stupidity of this conversation about slow slicing had left me dizzy. Just then, an old man’s voice rang out.
 
 “I urged you to follow the Dao, yet it seems this unworthy Master failed to teach his Disciple well enough.”
 
@@ -192,7 +192,7 @@ At last, the Kunlun Sect Leader, Cheongheoja, broke his silence. Hak Eui bowed h
 
 He didn’t look sorry at all.
 
-But whatever he was thinking right now didn’t matter to me. I was only interested in what his unexpected answer had revealed—the fact that had just shocked everyone.
+But whatever he was thinking right now didn’t matter to me. I was interested in what his unexpected answer had revealed—the fact that had just shocked everyone.
 
 “No, let him continue. Your Disciple still seems to have plenty to say.”
 
@@ -244,7 +244,7 @@ A messenger eagle.
 
 **Henan, Murim Alliance.**
 
-I stared silently at the five characters written on the missive, then drew in a deep breath.
+I stared silently at the five characters written on the folded missive, then drew a deep breath.
 
 And the next moment—
 
