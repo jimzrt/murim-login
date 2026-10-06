@@ -34,7 +34,7 @@ As if none had ever existed in the first place.
 
 *What on earth happened here?*
 
-The man in the bamboo hat thought again of the question that had long gone unanswered. But he already knew that no matter how deeply he pondered it, he’d only be wasting his mental strength.
+The question had troubled him all this time. But he already knew that thinking about it any harder would only be a waste of mental effort.
 
 If it were something he could figure out on his own, the white-haired old man approaching now with a nod of greeting would surely have figured it out too.
 
@@ -104,11 +104,11 @@ Worried that there might be something wrong with Jin Wikyung’s mind.
 
 Who was Jin Mukyung, the Heaven Shaking Sword?
 
-Since childhood, he’d been counted among the finest rising martial artists in Murim on the strength of his extraordinary talent alone. And after One-Ride Heavenly Dragon Murong Yeonghwi vanished with the downfall of his family, no one had denied Mukyung his place at the head of the Ten Dragons and Phoenixes.
+Since childhood, his extraordinary talent alone had placed him among Murim’s finest young prodigies. After One-Ride Heavenly Dragon Murong Yeonghwi vanished along with his family’s fortunes, no one had disputed Mukyung’s place at the head of the Ten Dragons and Phoenixes.
 
 To be precise, he had long since surpassed the level of a young prodigy.
 
-In the recent Battle of Eight Spring Gorge, which decided the fate of the entire northern region, that young Sword Demon of the Jin Family of Taiyuan had defeated the Blood Soul Fat Demon, a great fiend of the previous generation, announcing the birth of a new Supreme Peak master to the world.
+At the recent Battle of Eight Spring Gorge, which decided the fate of the entire northern region, that young Sword Demon of the Jin Family of Taiyuan had defeated the Blood Soul Fat Demon, a great fiend of the previous generation. The whole world had witnessed the birth of a new Supreme Peak master.
 
 And Jin Wikyung was worried he’d catch a cold.
 
@@ -126,7 +126,7 @@ Jin Wikyung, who doted on both his younger brothers—and especially his younges
 
 The group sent across the desert was small, given the terrain and the need for speed. But it included no fewer than six Supreme Peak masters: an elite force by any measure.
 
-Three of them were hardly inferior to Mae Jonghak, the current Sword Saint and Alliance Leader of Murim. Even if a major threat arose, they should each be capable of protecting themselves.
+Three of them were hardly inferior to Mae Jonghak, the current Alliance Leader of Murim. Even if a major threat arose, they should each be capable of protecting themselves.
 
 If Jin Wikyung had one concern, it was a single person.
 
@@ -142,15 +142,13 @@ A mysterious master appearing in such troubled times, with wild hair and half hi
 
 A chivalrous hero who’d crushed the mounted bandits running rampant in Gansu more than a decade ago, all in one stroke?
 
-That was all it took.
-
-The martial world’s gossips were all shouting, “I can’t resist this!” as they talked about Great Sir until their mouths were dry, and word of him spread across the land. They talked about Great Sir until their mouths were dry, and word of him spread across the land.
+The martial world’s gossips couldn’t resist. They talked about Great Sir until their mouths were dry, and word of him spread across the land.
 
 *But rumors aren’t worth much in the end.*
 
 As the man leading a family, Jin Wikyung was cautious in all things. When it came to his younger brothers’ safety, he left nothing to chance.
 
-So of course he’d decided to meet the suspicious eccentric who’d joined his youngest brother’s group himself.
+Of course he’d wanted to meet the suspicious eccentric who’d joined his youngest brother’s group.
 
 Though, in the end, he hadn’t managed it.
 
@@ -164,11 +162,11 @@ If Great Sir’s whereabouts had ever remained a mystery for long, Jin Wikyung m
 
 Great Sir announced his presence to the world with booming nonsense and a foul stench.
 
-Just before the army set out, Jin Wikyung had been so busy he could barely find a moment to visit his quarters. The Big Man had been elsewhere, drinking with the Beggars’ Sect Leader and being invited to join the sect. When even that hadn’t worked out, he’d sent Jin Mukyung and other family members in his place, only to find the Big Man hiding with Cheongpung in the military supply warehouse, looking for snacks.
+Before the army set out, Jin Wikyung had barely found time in his hectic schedule to visit Great Sir’s quarters, only to discover he was elsewhere, drinking with the leader of the Beggars’ Sect and being invited to join. When Jin Wikyung sent Jin Mukyung and other family members in his place, they found Great Sir hiding with Cheongpung in the military provisions warehouse, looking for snacks.
 
 And most people liked Great Sir.
 
-Even his youngest brother did—who, despite caring for Jin Wikyung as family, thought Great Sir was every bit as finicky as his master.
+Even his youngest brother did—and Jin Wikyung thought Taekyung had a temperament as finicky as his master’s, for all that he loved him.
 
 “Great Sir? I don’t know him that well, but from what I’ve seen, he seems like a good person.”
 
@@ -186,7 +184,7 @@ Even his youngest brother did—who, despite caring for Jin Wikyung as family, t
 
 “Hm? Sure!”
 
-That was the last time.
+That was as far as they’d gotten.
 
 Time was pressing; fifteen minutes felt like three autumns. Jin Wikyung grew busier still, while Great Sir continued darting about like the wind.
 
@@ -204,7 +202,7 @@ At that remarkably shameless answer, Song Ho fell silent for a moment.
 
 He was old and missing a leg, but he still had both ears, and his hearing was as sharp as ever.
 
-He wanted to ask what candy Jin Wikyung had been enjoying so much, but the Thousand-Faced Fox once again put his years of experience to work and answered as calmly as he could.
+He wanted to ask what candy had been so delicious, but the Thousand-Faced Fox once again drew on his years of experience and answered as calmly as he could.
 
 “If all has gone according to plan, they crossed Lop Nur fifteen days ago and should be at Hejing by now.”
 
@@ -220,13 +218,13 @@ The moment he heard the name, Jin Wikyung felt his grip tighten on the reins.
 
 Tianshan, a giant of earth reaching closer to the heavens than any other.
 
-The lair of darkness, an unfathomable demon-slaying battleground that had poured forth countless evils over a thousand years, yet whose depths remained impossible to gauge.
+A demon-slaying battleground that had poured forth countless evils over a thousand years, yet still harbored a darkness whose depths no one could fathom.
 
 *But at last.*
 
 They had come. At the end of this long journey, *he* was waiting.
 
-But before Jin Wikyung could calm the shiver of awe and fear that thought sent through him, a familiar voice rang out in the distance.
+Before Jin Wikyung could still the shiver of awe and fear that thought sent through him, a familiar voice rang out in the distance.
 
 “Hyung!”
 
@@ -254,4 +252,4 @@ Or rather, a single enormous bolt of lightning, slashing down through the distan
 
 *Rumble!*
 
-As the thunder boomed and a flash of light flared for an instant, the roars of countless monsters rang out.
+Thunder boomed. In the instant of light that followed, the roars of countless monsters rang out.

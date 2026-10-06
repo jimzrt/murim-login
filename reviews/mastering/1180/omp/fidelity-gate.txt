@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is mostly faithful, but it contains an added repeated sentence, a changed physical detail, and a mistranslated image.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 153; assembled English P74",
+      "current": "They talked about Great Sir until their mouths were dry, and word of him spread across the land. They talked about Great Sir until their mouths were dry, and word of him spread across the land.",
+      "defect": "The sentence is repeated in English. The Korean states this once, adding an unsupported repetition.",
+      "replacement": "The martial world’s gossips were all shouting, “I can’t resist this!” as they talked about Great Sir until their mouths were dry, and word of him spread across the land.",
+      "rationale": "The source has one clause about the gossips talking about Great Sir until their mouths were dry and the rumors spreading; it does not repeat that clause.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 13; assembled English P6",
+      "current": "people pulled their collars tight and their straw rain capes close against the fierce wind and rain.",
+      "defect": "The source says the people pulled their rain capes down over their heads. The English instead says they drew them close against the weather, changing the physical action.",
+      "replacement": "people pulled their collars tight and drew their straw rain capes down over their heads against the fierce wind and rain.",
+      "rationale": "도롱이를 깊게 눌러썼고 describes pulling the rain capes down firmly over their heads.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 233; assembled English P112",
+      "current": "The lair of darkness, an unfathomable demon-slaying battleground",
+      "defect": "“Demon-slaying battleground” suggests a place where demons are fought or killed. Here 복마전 describes a den or haunt of evil, consistent with the surrounding image of darkness brooding there.",
+      "replacement": "The lair of darkness, an unfathomable den of evil",
+      "rationale": "The line describes Tianshan as a dark place from which countless evils have poured forth, not a battleground where demons are slain.",
+      "confidence": 0.91
+    }
+  ]
+}
