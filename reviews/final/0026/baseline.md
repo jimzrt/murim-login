@@ -196,9 +196,9 @@ They had lost the fugitives. But traces remained, faint signs that would serve a
 
 Jopil nodded at his subordinate’s report. The man’s martial arts were only Third Rate, but his tracking skills had reached the Peak. Jopil had countless hunting dogs like him under his command.
 
-*Two shichen.*[^1]
+*Two shichen.*
 
-The gap had already narrowed to two shichen.[^1] How much longer would it take them to catch the fugitives?
+The gap had already narrowed to two shichen. How much longer would it take them to catch the fugitives?
 
 Half a day at most.
 
@@ -288,13 +288,13 @@ Hyuk Mujin’s head shot up.
 
 I gave him a warm smile.
 
-“Of course. But don’t even think about deceiving me from now on. I’ll be watching you with mind-reading.”[^2]
+“Of course. But don’t even think about deceiving me from now on. I’ll be watching you with mind-reading.”
 
 Hyuk Mujin stared at me with eyes full of demonic rage, then darted back to his place. If only we’d had more time, I could have smashed his head in with a mace.
 
 Swallowing my regret, I kept walking.
 
-“What’s mind-reading?”[^2]
+“What’s mind-reading?”
 
 The chirping voice tickled my ear. It belonged to Soyul, Socheon’s little sister. Had they said she was five?
 
@@ -304,11 +304,11 @@ She was small enough to fit right inside my backpack.
 
 “Something like that.”
 
-“Is mind-reading strong?”[^2]
+“Is mind-reading strong?”
 
 “Very strong.”
 
-“Wow! Soyul wants to learn mind-reading too!”[^2]
+“Wow! Soyul wants to learn mind-reading too!”
 
 “But you have to be one-eyed.”
 
@@ -340,7 +340,7 @@ Having her around felt exactly like piggybacking Hayeon at that age.
 
 Soyul chattered excitedly for a long while before sticking out her lower lip.
 
-“Soyul wants to see Dad. But I guess Dad doesn’t want to see us. Oppa[^3] says he went out to play with Mom, leaving me and Oppa[^3] behind.”
+“Soyul wants to see Dad. But I guess Dad doesn’t want to see us. Oppa says he went out to play with Mom, leaving me and Oppa behind.”
 
 My heart dropped with a thud.
 
@@ -354,7 +354,7 @@ It was the only thing I could say.
 
 What else could I say?
 
-I looked at Socheon, who was following in the middle of the formation. He was breathing hard, drenched in sweat.
+I looked at Socheon, who was following in the middle of the formation. He was breathing hard, his clothes drenched in sweat.
 
 *He must be exhausted.*
 
@@ -401,5 +401,3 @@ For hours afterward, I failed to find the answer.
 And then night fell.
 
 [^1]: A shichen is a traditional Chinese unit of time equal to roughly two hours.
-[^2]: Gwansimbeop, rendered here as “mind-reading,” evokes a supposed ability associated with the one-eyed Gung Ye in a Korean historical television drama.
-[^3]: Oppa is a Korean term a girl or woman uses for an older brother or an older man close to her.
