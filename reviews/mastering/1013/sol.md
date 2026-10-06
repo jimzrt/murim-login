@@ -4,13 +4,13 @@
 
 Ma Junggeol and his sworn brothers stared at me, eyes wide. It took them a moment to recover.
 
-“No, why the Lord all of a sudden…?”
+“Why bring up Great Sir all of a sudden…?”
 
-“It’s not all of a sudden. He’s connected to this situation to some extent. And I’m sure you know why I’m asking, so I don’t need to spell it out, do I?”
+“It’s not all of a sudden. He’s connected to this to some extent. And I’m sure you know why I’m asking.”
 
 “You suspect me… no, *us* of being Dark Heaven’s spies?”
 
-“Not exactly. At least, not the people here.”
+“Not the people here, at least.”
 
 “Then you suspect Great Sir?”
 
@@ -20,11 +20,11 @@ I shrugged. Ma Junggeol and the rest of the Seven Masters of Baekma Bang went ri
 
 “Damn it, how many times do we have to tell you he isn’t?”
 
-“As our Chief already told you, the Lord is absolutely not that kind of person. You heard it all for yourself, didn’t you?”
+“As our Chief said, Great Sir would never do such a thing. You heard us for yourself, didn’t you?”
 
 Of course I had.
 
-I’d learned only that he was a highly unusual person—the kind you rarely came across.
+All I’d learned was that Great Sir was a remarkably strange man.
 
 But this wasn’t the time to think, *Huh. People like that exist,* and let it go.
 
@@ -44,21 +44,21 @@ Apparently he hadn’t expected me to take him up on it. He flinched and worked 
 
 “Hey, you crazy bastard!”
 
-While the shorty flailed at the bulbous-nosed man’s sudden offer to wager on his behalf, I spoke in a low, measured voice.
+The short man flailed at the bulbous-nosed man’s offer to wager *his* head. I cut in, my voice low.
 
 “Wrist or neck, the math doesn’t work out either way.”
 
 “What do you mean…?”
 
-“I’m asking because I’m curious. Do you think all these people are taking a casual trip to the next town over just because they’re bored?”
+“Do you think all these people are riding to the next town because they’re bored?”
 
 “……!”
 
-The mood turned heavy in an instant. Their wavering eyes were fixed on the backs of the countless people riding far ahead.
+The mood turned heavy. Their eyes shifted to the backs of the countless people riding far ahead.
 
 The Black Dragon Demon Gate. The Zhongnan Sect.
 
-Martial artists from large and small sects throughout Gansu Murim.
+Martial artists from sects large and small across Gansu.
 
 And finally, me and the members of the Fire Dragon Pavilion.
 
@@ -78,7 +78,7 @@ The Great War that would decide the fate of the world was still underway. War wa
 
 Besides…
 
-*There’s good reason to be suspicious. This isn’t paranoia.*
+*I have good reason to be suspicious.*
 
 I looked Ma Junggeol straight in the eye, recalling the Sound Transmissions the Seven Masters had exchanged the day before.
 
@@ -88,17 +88,17 @@ I looked Ma Junggeol straight in the eye, recalling the Sound Transmissions the 
 
 “I heard you say Great Sir had told you a thing or two about which way to go. Quite recently, too.”
 
-I put particular emphasis on the last part. Ma Junggeol’s eyes, already lowered with worry, visibly wavered.
+I put particular emphasis on those last words. Ma Junggeol’s already troubled eyes wavered.
 
 “T-that…”
 
-“Now I’m curious. Exactly how recently was it? And what did he tell you? Don’t you think?”
+“Now I’m curious. Exactly how recently? And what did he tell you?”
 
 I turned to Jeok Cheongang, who had been watching. He nodded.
 
-“Hearing you say that, this old man is curious too. Why did you keep something so important to yourselves until now?”
+“Now that you mention it, this old man is curious too. Especially about why you kept something so important to yourselves.”
 
-Looking back, it was more than enough to make anyone suspicious.
+Looking back, anyone might have wondered about it.
 
 How had the Seven Masters of Baekma Bang—former mounted bandits, unremarkable wanderers who had never distinguished themselves—come up with the audacious idea of crossing the Land of Ruin?
 
@@ -110,15 +110,15 @@ I’d only watched them up close for a short time, but I remembered every word o
 
 “……!”
 
-If I hadn’t followed Namho’s advice the day before and moved back early, quite a few people might have been startled by what I’d just said.
+If we hadn’t moved to the rear on Namho’s advice the day before, quite a few people might have heard that and been startled.
 
 But for thirty-odd yards around us, there was no one else. Ma Junggeol had only one choice left.
 
-“…There’s nothing more to hide.”
+“…There’s no point hiding it anymore.”
 
-The words slipped out after a heavy silence. They were as good as an admission.
+The words came after a heavy silence. They were as good as an admission.
 
-Before his sworn brothers could hurriedly shout something, I raised a hand to silence them and calmly continued my questions.
+His sworn brothers were about to speak, but I raised a hand to stop them.
 
 “Why did you hide it?”
 
@@ -126,7 +126,7 @@ Before his sworn brothers could hurriedly shout something, I raised a hand to si
 
 “Tell me more.”
 
-“This wasn’t the first time. From more than ten years ago right up until today, the Lord has given my younger brothers and me all kinds of advice. When we first met him, we were so overwhelmed by his divine might that we asked to become his subordinates. He refused us outright and said…”
+“This wasn’t the first time. For more than ten years, Great Sir has given my younger brothers and me advice whenever we needed it. When we first met him, his divine might overwhelmed us, and we begged to become his subordinates. He refused us outright. He said…”
 
 Ma Junggeol slowly looked over his sworn brothers and their complicated expressions before continuing.
 
@@ -136,11 +136,11 @@ Ma Junggeol slowly looked over his sworn brothers and their complicated expressi
 
 “That’s right. That was how Baekma Bang began. Whenever we ran into trouble after that, Great Sir showed us the right way forward. The new trade route was no different.”
 
-“Then when you said you’d been considering a western trade route for years, was that…”
+“Then when you said you’d been considering a western trade route for years…”
 
 Ma Junggeol understood what I was asking and hurriedly waved his hands.
 
-“I don’t know if you’ll believe me in a situation like this, but that part is absolutely true. The Lord simply advised us to do it. Afterward, we started searching for a new route west and realized the grasslands were our only option. Of course, we hadn’t dared attempt it all that time.”
+“I don’t know if you’ll believe me now, but that much is true. Great Sir advised us to pursue it. Afterward, we began looking for a new route west and realized the grasslands were our only option. Of course, we didn’t dare attempt it all those years.”
 
 “And that’s how you noticed the opening in the western grasslands so quickly,” Jeok Cheongang muttered.
 
@@ -162,13 +162,13 @@ A new trade route beyond the desert?
 
 It was a bold idea, not one an ordinary person would come up with easily. But from what I’d heard of his martial prowess and his past, Great Sir was far from ordinary.
 
-It was also the kind of wish the heads of the great groups bordering the desert or ambitious merchant-house leaders might have entertained at least once.
+It was also a wish the leaders of powerful groups near the desert, or ambitious merchants, might have entertained at least once.
 
-But what was this strange feeling I couldn’t explain?
+So what was this strange feeling I couldn’t shake?
 
-*What the hell?*
+*What is it?*
 
-I shook my head to clear away my stray thoughts, then parted my lips, which had been closed for a while, toward Ma Junggeol, who was swallowing nervously.
+I shook my head to clear it, then turned back to Ma Junggeol. He swallowed.
 
 “One last question. Whose idea was it to come find us?”
 
@@ -180,7 +180,7 @@ I shook my head to clear away my stray thoughts, then parted my lips, which had 
 
 “Go on.”
 
-“We told him what happened on the grasslands and in the desert. He knocked back several bowls of liquor as though he were listening to a dog bark, then said, ‘You idiots should’ve gone to Gansu ages ago. Why are you still sitting on your asses here?’”
+“We told him what had happened on the grasslands and in the desert. He drank several bowls of liquor as if all he could hear was a dog barking. Then he asked why we were still sitting on our asses there when we should have gone to Gansu long ago.”
 
 “……!”
 
@@ -188,7 +188,7 @@ I shook my head to clear away my stray thoughts, then parted my lips, which had 
 
 Ma Junggeol fell silent, looking half resigned. For a while, the only sounds were the horses’ rough breathing and the thunder of hooves.
 
-Then, just as only the horses’ ragged breathing and the clatter of their hooves thundering along could be heard, the bulbous-nosed man glanced around and cautiously spoke up.
+Then the bulbous-nosed man, who had been watching our faces, spoke cautiously.
 
 “Seven days and nights. I think that should be enough.”
 
@@ -198,31 +198,31 @@ The man panicked and pointed at me.
 
 “Y-your Disciple asked us earlier how long it would take to bring Great Sir back. I was answering him.”
 
-The first time is hard. After that, it gets easier.
+The first time was hard. After that, it got easier.
 
 Ma Junggeol’s sworn brothers, who had been moving their lips without speaking, finally chimed in.
 
 “Third Brother’s right for once. Seven days and nights will be plenty.”
 
-“Just leave it to us. We’ll bring him back, even if we have to give it everything we’ve got.”
+“Leave it to us. We’ll bring him back if it kills us.”
 
-“W-well, it’d take seven days and nights if we’re going to the Qilian Mountains. It might take longer if it’s the Great Snow Mountain or Dunhuang.”
+“W-well, seven days and nights if you’re at the Qilian Mountains. It might take longer if you’re at the Great Snow Mountain or Dunhuang.”
 
 “It’s not as if Great Sir is some vicious fiend. Rather than stay shut away in that remote backwater, he could take this chance to serve the Murim Alliance. Don’t you think?”
 
-“Hah! ‘Not a bad idea,’ you say? He’s already done a great service by sending the seven of us to warn you about Dark Heaven. It’s bound to be an excellent choice for the Lord too, since…”
+“Hah! What do you mean, ‘he could’? He’s already done a great service by sending the seven of us to warn you about Dark Heaven. Surely it would be an excellent choice for him—”
 
 *Whoosh! Smack!*
 
 “Gah!”
 
-“You little shit! I told you to stop shouting ‘Hah!’ Did my words go in one ear and out the other?”
+“You little shit! I told you to stop barking ‘Hah!’ Were you even listening?”
 
-Jeok Cheongang moved like a ghost, kicked off the saddle, soared through the air, and smacked the shorty on the back of the head. Then he returned and turned to me.
+Jeok Cheongang had kicked off his saddle, flown over like a ghost, smacked the short man on the back of the head, and returned. He turned to me.
 
 “So? What will you do?”
 
-I slowly swept my gaze across the Seven Masters of Baekma Bang and answered.
+I looked over the Seven Masters.
 
 “Six days. No—five.”
 
@@ -236,7 +236,7 @@ I slowly swept my gaze across the Seven Masters of Baekma Bang and answered.
 
 “W-wait. You mean our Chief…!”
 
-The Seven Masters of Baekma Bang began to object all at once, having realized what my words meant. Then Ma Junggeol suddenly spoke.
+The Seven Masters started to object all at once, but Ma Junggeol spoke first.
 
 “Fine.”
 
@@ -250,7 +250,7 @@ Perhaps they sensed something in his firm manner. They worked their lips as thou
 
 Ma Junggeol watched the six grassland horses disappear into the darkness, a deep look in his eyes.
 
-And though his face was resolute, his barely moving lips held the words he couldn’t bring himself to say aloud.
+His face was resolute. His barely moving lips told another story.
 
 “Fuck. I’m so fucking screwed…”
 
