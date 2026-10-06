@@ -97,7 +97,7 @@ If only I had some kind of recovery item…
 
 “Oh, right. The fasting pills.”
 
-I took a fasting pill from my Inventory. It gave off a strange smell, but a professional Hunter couldn’t afford to be picky about whether his rice was hot or cold.
+I took one of the grain-repelling pills from my inventory. It gave off a strange smell, but a professional Hunter couldn’t afford to be picky about whether his rice was hot or cold.
 
 I opened my mouth wide and took a huge bite.
 
@@ -329,7 +329,7 @@ I staggered.
 
 *Huh?*
 
-I needed to shout at the top of my lungs and take a picture as proof. I needed to wipe the smirk off Jin-ho hyung’s[^1] face for calling me Rice Weevil.
+I needed to shout at the top of my lungs and take a picture as proof. I needed to wipe the smirk off Jinho’s face for calling me Rice Weevil.
 
 *Oh, right. I’m in a game.*
 
@@ -431,6 +431,4 @@ Now all that remained was to check the reward I’d received for completing the 
 >
 > - You have 1 new Item. Would you like to check it?
 
-*Yeah. Hand it over.*
-
-[^1]: *Hyung* is a Korean term a man uses to address an older brother or an older male friend.
+Yeah. Hand it over.
