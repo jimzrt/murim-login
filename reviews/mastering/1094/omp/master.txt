@@ -158,7 +158,7 @@ Footsteps reached the Blood Lord’s ears a moment late. The master who had retu
 
 “Hong Dao. He told me to burn the bastard who killed that damned monk until there wasn’t a hair left of him.”
 
-“I figured it had to be nonsense, coming from you. But I’ll believe you this once. I had a similar idea myself, though not quite the same.”
+“Coming from you, that’s obviously nonsense. But I’ll believe you this once. I have a similar idea, though I’d go about it a little differently.”
 
 “It’s true.”
 
@@ -178,7 +178,7 @@ A bone shifted between their locked hands.
 
 The Blood Lord’s hand had charred so badly it seemed ready to melt, yet it forced back the flames through sheer, unbelievable recovery.
 
-Sizzle. Slither.
+Sizzle. Sss.
 
 He tightened his grip as the flesh burned and healed, burned and healed. A growling laugh escaped him.
 
@@ -262,10 +262,10 @@ KWA-ANG!
 
 The boom drove Taekyung back ten steps. The Blood Lord spat out each word.
 
-“There won’t be a next time. I’ll kill you. No matter what.”
+“There won’t be a next time. I’ll kill you. I swear it.”
 
 At that moment—
 
 Bwoooooo!
 
-A deep, resonant horn sounded in the distance, cutting straight through the taut tension.
+A deep horn sounded in the distance, cutting through the taut silence.

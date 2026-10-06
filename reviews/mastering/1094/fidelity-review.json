@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "a young beast with even more ferocity in him",
+      "defect": "This drops the poisonous or venomous quality in 독기. The source describes the young beast as carrying an even greater 독기, not merely as more ferocious.",
+      "id": "F01",
+      "rationale": "독기 adds a poisonous, sinister edge to the beast's character; the assembled wording retains ferocity but loses that source-specific image, which the accepted baseline preserved.",
+      "replacement": "a young beast with an even more venomous ferocity",
+      "severity": "minor",
+      "source": "Korean lines 38; assembled paragraph P17"
+    },
+    {
+      "confidence": 0.98,
+      "current": "You mean *wretches*. Plural.",
+      "defect": "The correction is about addressing multiple people: 네놈들 means “you lot,” contrasted with singular 네놈. Making “wretches” plural shifts the joke from the addressee to the insult noun.",
+      "id": "F02",
+      "rationale": "The Korean explicitly contrasts plural and singular forms of “you”; it does not correct the number of the word for wretch.",
+      "replacement": "You mean “you lot,” not “you.”",
+      "severity": "minor",
+      "source": "Korean lines 134; assembled paragraph P60"
+    },
+    {
+      "confidence": 0.86,
+      "current": "Two of them were among the Three Saints; another stood foremost among the Ten Kings and was fully their equal.",
+      "defect": "This recasts the source's description of three people as two members of the Three Saints plus a separate person foremost among the Ten Kings. The Korean says the three are each described as an element of the Three Saints and a leading seat among the Ten Kings, comparable to them.",
+      "id": "F03",
+      "rationale": "The Korean subject is 셋 (three), modified by 제각각 (each); the assembled sentence instead divides those people into groups of two and one.",
+      "replacement": "Three of them were each one of the Three Saints and a leading figure among the Ten Kings, fully comparable to the Saints.",
+      "severity": "minor",
+      "source": "Korean lines 186–188; assembled paragraph P85"
+    },
+    {
+      "confidence": 0.97,
+      "current": "More than ten stood like an iron wall",
+      "defect": "십여 기 indicates around ten or ten-odd, not definitively more than ten.",
+      "id": "F04",
+      "rationale": "The assembled wording turns an approximate quantity into a strict lower bound.",
+      "replacement": "Around ten stood like an iron wall",
+      "severity": "minor",
+      "source": "Korean line 226; assembled paragraph P102"
+    },
+    {
+      "confidence": 0.95,
+      "current": "there was no telling what those two might do",
+      "defect": "This specifies that the Blood Lord and the Grand Mage might take some action. The source says it is unknown what variables might arise, without assigning them to those two as agents.",
+      "id": "F05",
+      "rationale": "어떤 변수가 일어날지는 미지수 leaves the possible complications unspecified; the current wording adds a specific cause and agency.",
+      "replacement": "there was no telling what might happen",
+      "severity": "minor",
+      "source": "Korean line 240; assembled paragraph P109"
+    }
+  ],
+  "summary": "The translation is largely faithful, but a few changes alter the plural joke, character description, quantity, and tactical assessment.",
+  "version": 1
+}
