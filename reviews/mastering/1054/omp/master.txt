@@ -24,7 +24,7 @@ First she dropped to both knees, then placed both arms on the ground. Finally, s
 
 Thud. Thud. Thud.
 
-Blood drops fell onto the cold stone floor as pain throbbed through her forehead, but the Grand Mage paid them no mind.
+Blood dripped onto the cold stone floor as pain throbbed through her forehead, but she paid it no mind.
 
 She could prostrate herself like this—and had recovered the arm and leg torn away when she was swept into unstable space—only through the grace of one being.
 
@@ -96,7 +96,7 @@ The separate order she had received from the Lord of Heaven concerned only Jin T
 
 That was why some of the Kongtong Sect had been allowed to survive.
 
-When she heard that their survivors, including the Sect Leader, had shaken off the relentless pursuit and escaped the encirclement, the Grand Mage had smothered a laugh to keep the Blood-Sword Demon Lord from noticing. She had already been thinking of what would come next.
+When she heard that they had shaken off the relentless pursuit and escaped the encirclement, Sect Leader included, she had smothered a laugh out of the Blood-Sword Demon Lord’s sight. She was already thinking ahead.
 
 The survivors would return and reveal the truth. Jin Taekyung would execute the handful of traitors, become a new rallying point for Dark Heaven’s enemies, and lead them to a sweeping victory.
 
@@ -108,11 +108,11 @@ But…
 
 The darkness rippled sharply.
 
-“Vanished without a trace?”
+“Vanished?”
 
 “Yes. Forgive me, but even with the power of the sorcery you granted this servant, I could not find them. At some point, they disappeared to a place I cannot even guess.”
 
-The first unexpected crack had appeared, but even the Grand Mage could not follow their trail.
+The first unexpected crack had appeared, and even the Grand Mage could not follow their trail.
 
 Time passed. The real battle began. More cracks appeared, one after another.
 
@@ -128,7 +128,7 @@ She had achieved her immediate objective, but only that.
 
 The Grand Mage lowered her head further and waited for her master’s fury to shake heaven and earth.
 
-But contrary to her fears, the mind-voice that echoed from deep within her a moment later, as if resonating, was as emotionless as ever.
+Instead, the mind-voice that resonated deep within her a moment later was as emotionless as ever.
 
 “Raise your head.”
 
@@ -142,13 +142,13 @@ The Grand Mage didn’t answer.
 
 No—she couldn’t.
 
-Her pupils, which had rolled back until their whites showed at the sight of the darkness, were already turning black.
+Her pupils had turned white when she faced the darkness. Now they were turning black.
 
 “I can see it. I can feel it. Everything hidden inside you. Clearly.”
 
 *Whoosh.*
 
-The darkness that had completely consumed her retinas didn’t stop there. It continued to spread.
+The darkness consumed her vision, then kept spreading.
 
 Faster. Deeper.
 
@@ -170,9 +170,9 @@ She knew instinctively what had happened.
 
 The Lord of Heaven had just looked through every one of her thoughts and memories.
 
-At the same time, an awe so intense it raised goose bumps drove out her fleeting fear and enveloped her whole body.
+Then awe so profound it raised goose bumps drove out that fleeting fear and swept over her.
 
-*That power…*
+*That was…*
 
 Remembering the power that had seeped into her body and seized her soul, the Grand Mage shuddered.
 
@@ -184,27 +184,27 @@ Even a thousand-year-old tree could never touch the clouds.
 
 But the Lord of Heaven was different.
 
-From the moment she had first met him, he had been the absolute ruler, beyond compare. And day by day, he had grown stronger to a degree that made the very word *limit* meaningless.
+He had seemed an absolute being from the moment she first met him. Yet day by day, he grew stronger, making the very word *limit* seem meaningless.
 
 The change astonished even the Grand Mage, one of his closest confidants.
 
-And she already had an idea where this unbelievable change had begun.
+And she had an idea when it had begun.
 
 *Jin Taekyung. No—the Chosen One.*
 
 She was certain of it.
 
-A little more than two years ago, when bloodshed swept through Shanxi Province and the epithet Hidden Dragon became known throughout the land, her master had begun to change as well.
+A little over two years ago, around the time bloodshed swept through Shanxi Province and the name Hidden Dragon became known throughout the land, her master had begun to change.
 
 He started waking more often from deep slumbers that had lasted nearly a year at their shortest and as long as ten years. Each time, the Grand Mage could feel that the Lord of Heaven had grown stronger.
 
-Even here, today.
+Even today.
 
 *But what could that possibly have to do with—?*
 
 It was a natural question.
 
-But the next moment, a thunderous echo shook her mind, turning her thoughts blank.
+The next moment, a thunderous voice shook her mind, wiping her thoughts blank.
 
 “It is not your place to question anything.”
 
@@ -212,9 +212,9 @@ But the next moment, a thunderous echo shook her mind, turning her thoughts blan
 
 “Do not forget what your master wants. Do not forget what you must do.”
 
-The Lord of Heaven’s voice seemed to pierce her soul. The Grand Mage realized she had momentarily forgotten something.
+His voice seemed to pierce her soul. The Grand Mage realized what she had momentarily forgotten.
 
-That the being before her was an absolute ruler, transcending everything.
+The being before her transcended everything.
 
 To serve and worship him as her master, she could permit herself no questions or doubts.
 
@@ -226,7 +226,7 @@ Pressed so close to the cold stone floor she seemed ready to become part of it, 
 
 She went on until her voice, once as clear and calm as a silver bell, grew hoarse and cracked.
 
-Until her master finally issued his command to the lowly servant who had dared, even for an instant, to harbor a question.
+Until her master finally spoke to the lowly servant who had dared harbor a question, if only for an instant.
 
 “That is enough.”
 

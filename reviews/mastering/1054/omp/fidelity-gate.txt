@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is faithful overall, with one minor terminology-sense shift: “absolute ruler” suggests political sovereignty where the Korean says “absolute being.”",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 195",
+      "current": "he had been the absolute ruler, beyond compare",
+      "defect": "“Absolute ruler” frames 천주 as a political sovereign. Here 절대자 describes an absolute being, consistent with the surrounding language of transcending everything.",
+      "replacement": "he had been an absolute being, beyond compare",
+      "rationale": "The source calls him 절대자, not a ruler or monarch.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Paragraph 225",
+      "current": "an absolute ruler, transcending everything",
+      "defect": "“Absolute ruler” again suggests political sovereignty rather than the source’s sense of an absolute being.",
+      "replacement": "an absolute being, transcending everything",
+      "rationale": "The source calls the being 절대자, a designation of absolute status rather than political office.",
+      "confidence": 0.88
+    }
+  ]
+}
