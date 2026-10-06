@@ -34,7 +34,7 @@ Finally, they shuddered at the sight before their eyes: a young hero awakening a
 
 His Master watched his Disciple with an expression of disbelief, then parted his trembling lips and spoke.
 
-“Yeah. I believed in you.”
+“Yes. I believed you would.”
 
 Despite his answer, his eyes were soaked with tears.
 
@@ -80,7 +80,7 @@ Not even the peerless giant known as the Sword Saint.
 
 “You make a lot of noise in your sleep. More than I ever imagined.”
 
-At Mae Jonghak’s joking remark as he came over, Jin Taekyung let out a quiet snort of laughter.
+At Mae Jonghak’s joking remark as he came over, Jin Taekyung let out a quiet laugh.
 
 “I almost woke up halfway through. It was so noisy around me.”
 
@@ -92,9 +92,9 @@ Jin Taekyung glanced at his allies, who were still cheering, and added:
 
 “But… it sounds good.”
 
-It sounds good.
+*It sounds good.*
 
-At Jin Taekyung’s brief comment, Mae Jonghak watched him in silence, then gave a small nod.
+Mae Jonghak watched him in silence for a moment, then gave a small nod.
 
 “Yes. I think so too.”
 
@@ -154,7 +154,7 @@ Like messengers rushing to deliver urgent news to someone.
 
 The shout burst from him on instinct.
 
-But before he could do anything, the birds, already far away, shot west at a speed far beyond anything they’d managed while alive.
+But before he could do anything, the birds had already risen far away and were speeding west, faster than they ever could have flown while alive.
 
 They left one name flashing through Jin Taekyung’s mind like a bolt of lightning.
 
@@ -164,7 +164,7 @@ He’d forgotten about him for a moment.
 
 No—that wasn’t quite right. He hadn’t had even a moment to think about him.
 
-The powerful jiangshi sorcerer who carried on the Maoshan Sect’s legacy had been hidden from sight by the shadows of the two monsters, the Blood Lord and the Grand Mage.
+The powerful corpse sorcerer who carried on the Maoshan Sect’s legacy had been hidden from sight by the shadows of the two monsters, the Blood Lord and the Grand Mage.
 
 At the same time, the Blood Lord’s final words before he met his end rang through Jin Taekyung’s mind like an auditory hallucination.
 
@@ -182,7 +182,7 @@ The tangled threads of information in his mind began to unravel one by one.
 
 Ma Sanbao had never appeared on the battlefield, despite being an undeniably powerful asset—even if he was no match for the Blood Lord or the Grand Mage.
 
-The Sword Saint and the Murim Alliance’s elite had traveled thousands of *li* to Qinghai without even telling their own allies the truth.
+The Sword Saint and the Murim Alliance’s elite had traveled thousands of *li* to Qinghai without even telling their own allies.
 
 And then there were the strange birds that had watched everything unfold before flying west.
 
@@ -204,7 +204,7 @@ Had the Blood Lord really made all these moves just to catch him and every other
 
 Perhaps it was because his mind was already exhausted beyond its limits.
 
-Or perhaps because he’d finally grasped the shape of the foreboding he’d felt.
+Or perhaps because he’d finally grasped what had been troubling him.
 
 His face had turned as pale as paper as he looked at the people surrounding him. Without realizing it, Jin Taekyung let out the breath he’d been holding.
 
@@ -218,7 +218,7 @@ It was one of the main reasons Dark Heaven’s powerful army had hunkered down o
 
 And Ma Sanbao, the hidden blade, would move as soon as he heard this news.
 
-Through the Moving Formation newly inscribed somewhere on Mount Kunlun, he would pierce the allies’ most vital point.
+Through the Moving Formation newly inscribed somewhere on Mount Kunlun, he would strike the allies at their most vital point.
 
 The very place called the Central Plains.
 
@@ -250,13 +250,13 @@ Jin Taekyung answered.
 
 Or tried to.
 
-No. Absolutely not. He couldn’t rest now.
+*No. Absolutely not. I can’t.*
 
 But despite his desperate resolve, his lips wouldn’t move. Exhaustion and sleep washed over him, pressing down on his eyelids with the weight of ten thousand *geun*.
 
 *Ah.*
 
-As his vision went dark in an instant, Jin Taekyung let go of consciousness, a voice ringing in his ears like an auditory hallucination.
+As his vision went dark, Jin Taekyung lost consciousness, a voice ringing in his ears like an auditory hallucination.
 
 “You’ve done well, my friend.”
 
@@ -264,17 +264,17 @@ As his vision went dark in an instant, Jin Taekyung let go of consciousness, a v
 
 Qinghai is vast.
 
-But the wings of the strange birds, granted boundless vigor by death, were swift enough to make the distance between Xining and Mount Kunlun—more than several hundred *li*—seem insignificant.
+But the wings of the strange birds, granted boundless vigor by death, were swift enough to make the hundreds of *li* between Xining and Mount Kunlun seem insignificant.
 
 And the shocking news brought by these exceptional messengers, unlike any seen before or since, reached Mount Kunlun’s highest peak in less than a *shichen*.
 
 No—
 
-It reached a certain jiangshi sorcerer who carried on the Maoshan Sect’s legacy.
+It reached a certain corpse sorcerer who carried on the Maoshan Sect’s legacy.
 
 “…So that’s what happened.”
 
-Ma Sanbao muttered to himself as he stared east, his gaze sinking deep.
+Ma Sanbao muttered to himself as he stared somewhere to the east, his gaze dark.
 
 The news was impossible to believe, but he had no choice.
 
@@ -284,9 +284,9 @@ The outcome of a bloody battle that had raged without a break for half a day—a
 
 *I owe the Blood Lord an apology. I thought he was just a man crazed by blood.*
 
-Ma Sanbao let out a quiet snort of laughter.
+Ma Sanbao let out a quiet laugh.
 
-More than anyone, the Blood Lord had obsessed over Jin Taekyung. Yet by keeping one last move in reserve, he hadn’t forgotten his most basic loyalty to the master who held his leash.
+More than anyone, the Blood Lord had obsessed over Jin Taekyung. Yet by keeping one last move in reserve, he hadn’t forgotten even the minimum loyalty owed to the master who held his leash.
 
 A final sword stroke that would lay waste to the Central Plains, now all but undefended.
 
