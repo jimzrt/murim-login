@@ -30,7 +30,7 @@ B-rank Hunters. Mountain ridges I couldn’t reach even with my hand outstretche
 
 But the scenery wasn’t as beautiful as I had imagined.
 
-*They’re around Supreme First Rate? No, maybe First Rate martial artists.*
+*They’re around Top-tier? No, maybe First Rate martial artists.*
 
 Both the Levels I’d checked with Qi Sense and the amount of mana I felt from them put them at about that level. Needless to say, I was a cut above them, armed with the System’s cheat-like advantages. Even compared to martial artists of the same Level, they would probably be a step below.
 
@@ -179,7 +179,7 @@ Several people had already noticed it and begun watching the area ahead. Im Chan
 
 “Prepare for battle!”
 
-His short shout was quick and composed. With half his team being B-rank Hunters and excellent gear at their disposal, he had no reason to panic.
+His short shout was quick and composed. With half his team being B-rank Hunters and all of them equipped with excellent gear, he had no reason to panic.
 
 There was just one problem.
 
@@ -203,7 +203,7 @@ It was difficult to determine exactly where the monsters were coming from based 
 
 I could hardly believe the sight even as I watched it.
 
-I clicked my tongue and gripped my spear. The Masterwork Black Thorn Spear—a vicious weapon with a high chance of putting an enemy into the Bleeding state.
+I clicked my tongue and gripped my spear. The Masterwork Black Thorn Spear—a vicious weapon with a high chance of putting an enemy into the Bleeding Status.
 
 “Doesn’t the grip feel great? I applied the finishing coat very carefully—”
 
@@ -341,7 +341,7 @@ I had toned it down for the benefit of the ears around us.
 
 Minotaurs were B-rank monsters, and their Levels were in the mid-to-late fifties.
 
-For a martial artist, that would be close to Supreme First Rate. But if I fought them, I would have to account for all sorts of variables.
+For a martial artist, that would be close to Top-tier. But if I fought them, I would have to account for all sorts of variables.
 
 Simply put, I would have to fight them to know.
 
