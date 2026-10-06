@@ -186,7 +186,7 @@ Jin Wikyung grinned and left the office.
 
 Fifty martial artists radiating sharp auras stood in formation before the pavilion. Every one of them was at least a First Rate master, and they stared at their lord with unwavering composure.
 
-An eight-cheok[^1]-tall giant, Jin Wikyung was the Lesser Family Head of the Jin Family of Taiyuan. In place of the absent Family Head, he had led the family for the past two years and finally set it upon a firm foundation.
+An eight-cheok-tall giant, Jin Wikyung was the Lesser Family Head of the Jin Family of Taiyuan. In place of the absent Family Head, he had led the family for the past two years and finally set it upon a firm foundation.
 
 His tightly closed lips parted.
 
@@ -254,17 +254,17 @@ He had come to clean up the mess caused by his son, Woo Jintae.
 
 But the carefully prepared letters and gifts he sent had been turned away without ever crossing the Jin Family of Taiyuan’s threshold. His pride had taken a beating, but in the end, he had resorted to coming in person.
 
-“I am Woo of the Seongun Escort Bureau.”
+*I am Woo of the Seongun Escort Bureau.*
 
 The Seongun Escort Bureau had endured for three generations, and everyone in Shanxi Province knew its name. After all, it had flaunted the enormous fortune it had amassed through any means necessary.
 
 Yet the gate guard’s response had been indifferent.
 
-“You can’t meet him right now.”
+*You can’t meet him right now.*
 
 “Come now, man. What do you mean? I’m telling you, I’m the chief of the Seongun Escort Bureau!”
 
-“Whether you’re a bureau chief or a sect leader, I don’t know or care. I follow orders.”
+*Whether you’re a bureau chief or a sect leader, I don’t know or care. I follow orders.*
 
 *…!*
 
@@ -381,5 +381,3 @@ Just as Woo Hwangtae was about to strike, a clear voice came from behind him.
 The speaker was a clean-cut young man.
 
 Huashan’s Lone Crane, Baek Museong, had stopped his Junior Brother just before he exploded. He smiled at Woo Hwangtae.
-
-[^1]: A cheok is a traditional Korean unit of length equal to 30.3 cm (11.9 in). Eight cheok is about 2.42 m (7 ft 11 in).
