@@ -353,12 +353,10 @@ What was I supposed to do?
 
 “Shall we get going soon?”
 
-“The horses are tired. They need to rest for half a shichen.[^1]”
+“The horses are tired. They need to rest for half a shichen.”
 
 “Horses, you’re fine, aren’t you? You heard that, right? They said they’re fine.”
 
 “……”
 
 Yeah. I knew you’d look at me like that.
-
-[^1]: A *shichen* is a traditional time unit of approximately two hours; half a shichen is about one hour.
