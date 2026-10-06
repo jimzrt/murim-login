@@ -6,7 +6,7 @@ In that brief moment, split into smaller and smaller moments, the Skeleton King 
 
 Yes. He must have heard wrong.
 
-They said that humans—strictly speaking, he wasn’t human, and certainly not an animal—sometimes heard things that weren’t there when their bodies and minds were weak.
+They said humans—strictly speaking, he wasn’t human, and certainly not an animal—sometimes heard things when their bodies and minds were weak.
 
 Besides, they were about to fight enemies who outnumbered them by more than ten to one. With the odds so bad he’d borrow a cat’s paw if he could, hearing things was hardly strange.
 
@@ -20,7 +20,7 @@ But…
 
 It was all wishful thinking.
 
-They’d faced countless dangers on the way to this old, musty underground bomb shelter, but every time, Jin Taekyung’s eyelids had stayed firmly shut without so much as a twitch.
+They’d faced countless dangers on the way to this old, musty underground shelter, but through every one of them, Jin Taekyung’s eyelids had stayed firmly shut without so much as a twitch.
 
 The Skeleton King had even begun to worry that he might never wake up at all.
 
@@ -74,7 +74,7 @@ And third—
 
 They were sure of it. The voice sounded unfamiliar, yet somehow caught the ear at once. Though low and hoarse, there was something about it they couldn’t mistake.
 
-Perhaps that was why the veteran Hunters, all of them battle-hardened, couldn’t hide their dismay.
+Perhaps that was why even these battle-hardened Hunters couldn’t hide their surprise.
 
 And why they left a fatal opening for the enemies right in front of them.
 
@@ -102,7 +102,7 @@ Why that low, hoarse voice had felt so familiar.
 
 Over the shoulder of the Skeleton King, who stood rigid as a statue, a young man poked his head out of the backpack he’d been carrying.
 
-“You were pretending not to hear me on purpose, weren’t you?”
+“You were pretending not to hear me, weren’t you?”
 
 “…!”
 
@@ -134,7 +134,7 @@ I snapped the ogre tendons binding me from head to toe like strands of thread, t
 
 I had questions lined up on the tip of my tongue. But I knew this wasn’t the time to ask.
 
-From the moment I regained consciousness until now, the stench boiling all around me and the thick magical power had been enough to make me nauseous.
+From the moment I regained consciousness, the stench and the dense magical power all around me had been enough to make me nauseous.
 
 “Team Leader.”
 
@@ -160,7 +160,7 @@ That was all I said.
 
 Nothing more, nothing less.
 
-The thought became a sound, the sound slipped past my lips—and in that instant, I was already charging at the enemies.
+The thought became a sound, the sound slipped past my lips—and I was already charging at the enemy.
 
 Whoosh.
 
@@ -204,19 +204,17 @@ A hallmark of A-rank Hunters in the modern world and the exclusive domain of Pea
 
 Not just ten or twenty of them. Every one of the two hundred or so Hunters.
 
-*Why are there this many A-rank Hunters gathered here? The last place I remember being was more than a thousand kilometers from even the nearest ally.*
+*Why are there this many A-rank Hunters here? The last place I remember being was more than a thousand kilometers from even the nearest ally.*
 
 What on earth had happened while I was gone?
 
-I tried to recall what I knew of the modern world, but it was hard to make sense of the situation.
+I tried to recall my last memories of the modern world, but I couldn’t make sense of the situation.
 
 No.
 
-Before I could even begin to understand the reality in front of me, another unexpected factor got in the way.
+Before I could even begin to understand what was in front of me, something else got in the way.
 
 Ssssh.
-
-A chillingly low whistle suddenly reached my ears.
 
 A chillingly low whistle reached my ears. My body moved before my brain could react, bringing down White Flame’s spearhead, which had paused for only an instant.
 
@@ -272,6 +270,6 @@ And he had the wrong idea about who needed to be careful.
 
 Slash.
 
-I moved in an instant no one there could see or sense, feeling the sensation travel up the spearhead as I thought to myself:
+I moved in an instant no one there could see or sense. As the feel of the strike traveled up the spearhead, I thought:
 
 *Six left.*

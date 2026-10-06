@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A chillingly low whistle reached my ears. My body moved before my brain could react, bringing down White Flame’s spearhead, which had paused for only an instant.",
+      "defect": "The first sentence repeats the preceding paragraph’s translation of the whistle reaching the narrator’s ears. The Korean describes that sound only once, before the narrator’s body reacts.",
+      "id": "F01",
+      "rationale": "The sound is introduced in line 255, followed by the body’s reaction in line 257. The assembled English states the sound twice.",
+      "replacement": "My body moved before my brain could react, bringing down White Flame’s spearhead, which had paused for only an instant.",
+      "severity": "minor",
+      "source": "Lines 255–257"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one duplicated sentence that repeats the source’s description of the whistle.",
+  "version": 1
+}
