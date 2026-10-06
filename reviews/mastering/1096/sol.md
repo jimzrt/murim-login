@@ -2,7 +2,7 @@
 
 Rumble, rumble, rumble.
 
-The enormous, heavy iron gates of Xining slowly opened their mouths.
+Xining’s enormous iron gates slowly opened.
 
 The Grand Mage watched the backs of their enemies as they passed through the encirclement, parted at the Blood Lord’s signal, and headed for the gates. Then she spoke.
 
@@ -10,7 +10,7 @@ The Grand Mage watched the backs of their enemies as they passed through the enc
 
 “Perhaps. But…”
 
-The Blood Lord replied in a low voice, then nodded toward the towering city walls.
+The Blood Lord nodded toward the towering walls.
 
 “If we’d fought them then and there, our losses would’ve been considerable, too.”
 
@@ -32,11 +32,11 @@ Then there were the Qinghai martial artists and imperial troops who had gathered
 
 Of course, the Grand Mage thought there was another, more decisive reason for his choice.
 
-*He wasn’t certain. He wasn’t certain he could capture Jin Taekyung as that person wished—or, for that matter, that they could win outright.*
+*He wasn’t sure he could capture Jin Taekyung as that person wished. Perhaps he wasn’t even certain we could win.*
 
 But she kept the thought to herself. She could hardly stand the Blood Lord, yet they served the same master and pursued the same goal. There was no need to touch a nerve now.
 
-At the same time, she could partly understand why he’d let Jin Taekyung and the other Supreme Peak masters leave without resistance.
+Besides, she did partly understand why he’d let Jin Taekyung and the other Supreme Peak masters go.
 
 “Well, it’s a shame, but there’s nothing to be done. I wasn’t the one that person first entrusted with Qinghai.”
 
@@ -52,9 +52,9 @@ Perfected Being Hyeoncheon and Cheongheoja, leaders of the venerable Daoist line
 
 The Bow Saint and the Slaughter Saint, who needed no introduction, and the Fire King Jeok Cheongang, their equal.
 
-And finally, the Blazing Flame Divine Dragon Jin Taekyung, who had proven through his every action that his very existence was a variable.
+Finally, the Blazing Flame Divine Dragon Jin Taekyung, whose actions had proved that his very existence was a variable no one could account for.
 
-Looking at that overwhelming, dazzling lineup, even the Black Ghosts—nearly immortal as they were—seemed to fade into the background.
+Faced with such an overwhelming lineup, even the nearly immortal Black Ghosts seemed to fade into the background.
 
 “If we’d fought, those things would have been wiped out, whether we survived or not.”
 
@@ -64,13 +64,13 @@ The Grand Mage gestured toward the silent Black Ghosts.
 
 Jeok Cheongang’s full-strength strike had been that powerful. It had even broken through part of the defensive magic she’d cast.
 
-“And there’d be no question of it if the Bow Saint and Slaughter Saint joined in. Besides, there’s something about Jin Taekyung that even I can’t quite understand.”
+“And if the Slaughter Saint and Bow Saint joined in, there’d be no question of it. Besides, there’s something about Jin Taekyung that even I can’t understand.”
 
 In Murim, where strength ruled above all, the logic of power was simple. The strong devoured the weak; the weak were trampled. That was how the world worked.
 
 But from what the Grand Mage had seen, Jin Taekyung stood further outside that logic than anyone.
 
-Even if he’d received help from those around him whenever he faced a life-or-death crisis, defeating four Demon Lords and a Demon Empress hadn’t been mere luck.
+He’d had help from those around him in each life-or-death crisis, but his defeats of four Demon Lords and Demon Empresses couldn’t be dismissed as luck.
 
 She could understand why he was called the Chosen One.
 
@@ -80,7 +80,7 @@ A faint note of wonder entered her voice. The Blood Lord’s lips twisted.
 
 *Obsessed. Is that what it is?*
 
-More precisely, he watched Jin Taekyung’s back disappear between them.
+He watched the gates slowly closing. More precisely, he watched Jin Taekyung disappear between them.
 
 And he remembered what he’d said moments before.
 
@@ -88,7 +88,7 @@ And he remembered what he’d said moments before.
 
 He hadn’t said it only to Jin Taekyung. It was a self-mocking question directed at himself—and a plaintive complaint to the Lord of Heaven, who wasn’t there to hear it.
 
-*Why is that brat special to you? Why, exactly?*
+*Why is that brat special to you? Why?*
 
 At that moment, the person the Blood Lord most wanted to kill wasn’t Mae Jonghak, who had once taken his arm, or Jeok Cheongang.
 
@@ -102,9 +102,7 @@ A fishing rod.
 
 Even if it broke against the strength of a great fish that had taken the bait, its owner could simply replace it.
 
-The three words he’d spoken of his own accord, and the meaning they carried, weighed unusually heavily on the Blood Lord’s heart.
-
-That was when it happened.
+The word he’d spoken of his own accord, and all it implied, weighed heavily on the Blood Lord’s heart.
 
 Bwooooo!
 
@@ -114,7 +112,7 @@ Of the hundreds of elephants standing like iron towers, thirteen of the largest 
 
 Thud. Thud.
 
-The elephants reached him, their heavy footfalls rumbling. A voice came down from atop their heads.
+The Blood Lord slowly lifted his head as a vast shadow fell across his face. The elephants approached with heavy, rumbling steps, and a voice came down from atop them.
 
 “It has been a long time, donor.”
 
@@ -122,11 +120,13 @@ Anyone from the Central Plains might have snorted at the halting Han speech. But
 
 “And yet…”
 
+Thwip!
+
 Thirteen figures dropped to the ground with a rush of displaced air.
 
 At their center stood an old monk, slender and bony as a withered tree.
 
-“If this humble monk has not mistaken what he sees, then I believe a convincing explanation is in order.”
+“Unless this humble monk’s eyes deceive him, I believe an explanation is in order.”
 
 The old monk ruled Tibet like a kingdom. He was the Palace Lord of the Potala Palace—or, as his people had called him by ancient custom, the Dalai Lama. He fixed his piercing gaze on the Blood Lord.
 
@@ -148,7 +148,7 @@ When he continued, his voice was so cold that no trace of his halting speech rem
 
 At that moment, the Grand Mage’s lips moved behind her tightly woven silver-white veil.
 
-*I’m only saying this in case, but… don’t forget. Until we achieve our goal, the Potala Palace is a rather useful card to have.*
+*Just in case you need reminding… don’t forget. Until we achieve our goal, the Potala Palace is a useful card to have.*
 
 Her warning reached the Blood Lord before he could answer. His lips twisted despite himself.
 
@@ -188,7 +188,7 @@ He extended a finger toward the ground at the Dalai Lama’s feet.
 
 The air around them shook with the aura pouring from the Dalai Lama and the Twelve Secret Monks, the Potala Palace’s finest fighters.
 
-“You let them go so easily? Even knowing how much I—how much we—hate the Fire Gate Clan?”
+“You let them go? Knowing how much I—how much *we*—hate the Fire Gate Clan?”
 
 His voice was as dry as a desert of burning sand. The ruler of Tibet’s vast martial world was furious.
 
@@ -222,7 +222,7 @@ The Dalai Lama bit his lip, unable to finish. The Blood Lord clicked his tongue.
 
 “As I said, I’ll keep my promise. If you play a substantial part in capturing Jin Taekyung, I’ll put the Fire King in your custody and give you a generous reward besides.”
 
-The Dalai Lama was silent for a moment before speaking heavily.
+After a moment’s silence, the Dalai Lama spoke.
 
 “How can I believe you?”
 
@@ -238,19 +238,17 @@ But…
 
 *That’s as far as you go.*
 
-It wasn’t a question of martial skill.
-
-It was a question of the size of one’s inner self. Of the person one was.
+This wasn’t about martial skill. It was about the man himself—what he was capable of seeing.
 
 The Grand Mage had already understood what the Blood Lord intended when he let their enemies go, and had said nothing. The Dalai Lama could only lament the great fish he’d watched slip away.
 
 “Do you still not understand?”
 
-“What is it I’m supposed to understand…?”
+“What is it I’m supposed to understand?”
 
 “I wanted to make certain of everything. To leave them no opening to escape, however small.”
 
-The Dalai Lama was about to say something when he suddenly realized something and opened his eyes wide.
+The Dalai Lama started to reply, then stopped. His eyes widened.
 
 “Could it be…?”
 
@@ -258,7 +256,7 @@ The Blood Lord nodded without a word.
 
 If his guess was right, it would happen today: the Yangtze River Channel League’s hundreds of ships would finally enter the Yellow River tributary leading to Qinghai, where the Green Forest Alliance would meet them alongside the ten thousand followers who had joined them in advance.
 
-“Another day, two at most. This battle will be over within that time.”
+“One more day. Two at most. This battle will be over.”
 
 Thirty thousand additional troops would cut through the swift current to reach Qinghai and close even the smallest gap.
 
@@ -274,14 +272,14 @@ Because only then—only if Jin Taekyung resolved to fight to the death—would 
 
 *Lord of Heaven, forgive me. Even if this is not what you wish, I act only out of loyalty.*
 
-As if confessing his sins, the Blood Lord murmured to himself, then slowly parted his lips.
+The Blood Lord murmured the words deep in his heart as though confessing a sin. Then he turned to the Dalai Lama, whose expression had brightened considerably.
 
 “So…”
 
-“Shut your mouth. Speak down to me again, and I’ll rip that mouth apart.”
+“Shut your mouth. Speak down to me again, and I’ll tear it open.”
 
 “…!”
 
-Watching the Dalai Lama freeze in place, the Blood Lord laughed wildly.
+The Dalai Lama froze. The Blood Lord laughed savagely.
 
 Once was enough to be treated like someone else’s fishing rod.

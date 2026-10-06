@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The Blood Lord’s judgment wasn’t wrong.",
+      "defect": "The English removes the source’s qualification: his judgment was not entirely wrong, rather than simply not wrong.",
+      "id": "F01",
+      "rationale": "그리 틀린 것만은 아니었다 is qualified; the Grand Mage acknowledges that his judgment was not wholly mistaken.",
+      "replacement": "The Blood Lord’s judgment wasn’t entirely wrong.",
+      "severity": "minor",
+      "source": "Lines 36"
+    },
+    {
+      "confidence": 0.91,
+      "current": "the close bond behind our promise",
+      "defect": "This makes the closeness describe a bond supporting the promise, while the source describes the promise exchanged between them as close or binding.",
+      "id": "F02",
+      "rationale": "서로 간에 오간 그 끈끈한 약속 refers to the mutually exchanged, strongly binding promise itself.",
+      "replacement": "the binding promise we made to each other",
+      "severity": "minor",
+      "source": "Lines 248"
+    },
+    {
+      "confidence": 0.88,
+      "current": "sever his own Sinews and Meridians",
+      "defect": "The translation omits that he would sever the sinews and meridians in his limbs.",
+      "id": "F03",
+      "rationale": "사지근맥 explicitly locates the Sinews and Meridians in the limbs; the English retains the glossary term but drops that physical detail.",
+      "replacement": "sever the Sinews and Meridians in his own limbs",
+      "severity": "minor",
+      "source": "Lines 318"
+    }
+  ],
+  "summary": "The translation is largely faithful, with a few minor losses of qualification or physical detail.",
+  "version": 1
+}

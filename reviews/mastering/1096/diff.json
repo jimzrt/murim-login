@@ -1,0 +1,2539 @@
+{
+  "baseline_blocks": 165,
+  "baseline_sha256": "2579c7d9c22a6065ee31d48dbdaf0c56ff6c027366721d1a76e815a9a7ba3bee",
+  "global_terminology_alerts": [],
+  "hunk_count": 133,
+  "hunks": [
+    {
+      "baseline": "The enormous, heavy iron gates of Xining slowly opened their mouths.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "8",
+      "sol": "Xining’s enormous iron gates slowly opened.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Grand Mage watched the enemy’s backs as they passed through the encirclement, which had parted to either side at the Blood Lord’s signal, and headed for the gates. Then she spoke.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "10",
+      "sol": "The Grand Mage watched the backs of their enemies as they passed through the encirclement, parted at the Blood Lord’s signal, and headed for the gates. Then she spoke.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Maybe I did. But…”",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "14",
+      "sol": "“Perhaps. But…”",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Lord replied in a low voice, then nodded toward the towering city walls.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "16",
+      "sol": "The Blood Lord nodded toward the towering walls.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If we’d fought them head-on right then, our losses would’ve been considerable, too.”",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "18",
+      "sol": "“If we’d fought them then and there, our losses would’ve been considerable, too.”",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Grand Mage had to admit he was right, at least to a point.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "20",
+      "sol": "The Grand Mage agreed, at least to a point.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Qinghai was a frontier among frontiers, a province prepared since ancient times to stand against any foreign invasion.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "22",
+      "sol": "",
+      "sol_paragraphs": "after P9",
+      "sol_range": [
+        9,
+        9
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "청해",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Qinghai"
+        },
+        {
+          "korean": "청해성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Qinghai"
+        }
+      ]
+    },
+    {
+      "baseline": "Perhaps that was why its stone walls, built from enormous blocks of dressed rock, were sturdier than anything in the Central Plains. Silver arrowheads already glinted atop them.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "24",
+      "sol": "Qinghai was a frontier among frontiers, a province that had stood prepared against foreign invasion since ancient times. Its walls, built from enormous blocks of dressed stone, were sturdier than anything in the Central Plains. Silver arrowheads already glinted along their tops.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And beyond Xining’s slowly opening gates, a forest of spears and blades stretched as far as the eye could see.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "26",
+      "sol": "And beyond Xining’s slowly opening gates stood a forest of spears and blades.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Cornered prey fights all the harder. They still have teeth to bite with.”",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "28",
+      "sol": "“Cornered, they would’ve fought all the harder. They still have teeth to bite with.”",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even a lowly rat would charge a cat if it thought the situation was desperate. How much more would those people?",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "30",
+      "sol": "Even a lowly rat would charge a cat if it thought its life was at stake. How much more fiercely would those people fight?",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And there were no fewer than seven Supreme Peak masters among them.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "32",
+      "sol": "They had no fewer than seven Supreme Peak masters among them.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—eight, if they counted the mysterious Great Sir who had never come down from the walls.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "34",
+      "sol": "No—eight, counting the mysterious Great Sir who had never come down from the walls.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then there were the Qinghai martial artists and imperial troops who had gathered in Xining early, with barely any losses. The Blood Lord’s judgment hadn’t been far off.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "36",
+      "sol": "Then there were the Qinghai martial artists and imperial troops who had gathered in Xining early, with barely any losses. The Blood Lord’s judgment wasn’t wrong.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, the Grand Mage thought there was another, far more decisive reason he’d made that choice.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "38",
+      "sol": "Of course, the Grand Mage thought there was another, more decisive reason for his choice.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*He wasn’t certain. He wasn’t certain he could capture Jin Taekyung as that person wished—or, for that matter, that they could win outright.*",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "40",
+      "sol": "*He wasn’t sure he could capture Jin Taekyung as that person wished. Perhaps he wasn’t even certain we could win.*",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the Grand Mage didn’t say the thought circling in her mind aloud.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "42",
+      "sol": "",
+      "sol_paragraphs": "after P18",
+      "sol_range": [
+        18,
+        18
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "대술사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grand Mage"
+        }
+      ]
+    },
+    {
+      "baseline": "She could hardly stand the Blood Lord, but there was no need to touch a nerve when they shared the same master and goal.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "44",
+      "sol": "But she kept the thought to herself. She could hardly stand the Blood Lord, yet they served the same master and pursued the same goal. There was no need to touch a nerve now.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, she could partly understand why he’d let Jin Taekyung and the other Supreme Peak masters leave without resistance.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "46",
+      "sol": "Besides, she did partly understand why he’d let Jin Taekyung and the other Supreme Peak masters go.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, it’s a shame, but there’s nothing to be done. I wasn’t the first to be entrusted with Qinghai’s affairs by that person.”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "48",
+      "sol": "“Well, it’s a shame, but there’s nothing to be done. I wasn’t the one that person first entrusted with Qinghai.”",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I can separate business from personal matters. I could feel it, too. That would’ve been a difficult battle.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "52",
+      "sol": "“I can separate business from personal feelings. I knew it would be a difficult battle, too.”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were levels even among those who had reached Supreme Peak.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "54",
+      "sol": "",
+      "sol_paragraphs": "after P23",
+      "sol_range": [
+        23,
+        23
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        },
+        {
+          "korean": "초절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Supreme Peak"
+        }
+      ]
+    },
+    {
+      "baseline": "And in that regard, the seven Supreme Peak masters they’d just surrounded were far beyond ordinary.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "56",
+      "sol": "There were levels even among Supreme Peak masters, and the seven they’d just surrounded were far from ordinary.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Though Jin Taekyung’s exploits had somewhat overshadowed him, Cheongpung, the Huashan Divine Dragon, had martial talent so extraordinary that it wouldn’t have been strange to call him the greatest in history.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "58",
+      "sol": "Cheongpung, the Huashan Divine Dragon, whose exploits had been somewhat overshadowed by Jin Taekyung’s. Judging by innate martial talent alone, it wouldn’t have been strange to call him the greatest of all time.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perfected Being Hyeoncheon and Cheongheoja, who led the venerable Daoist lineages of Kongtong and Kunlun.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "60",
+      "sol": "Perfected Being Hyeoncheon and Cheongheoja, leaders of the venerable Daoist lineages of Kongtong and Kunlun.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Bow Saint and Slaughter Saint, who needed no embellishment—and the Fire King Jeok Cheongang, their equal.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "62",
+      "sol": "The Bow Saint and the Slaughter Saint, who needed no introduction, and the Fire King Jeok Cheongang, their equal.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And finally, the Blazing Flame Divine Dragon Jin Taekyung, who had proven through his every action that his very existence was a variable.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "64",
+      "sol": "Finally, the Blazing Flame Divine Dragon Jin Taekyung, whose actions had proved that his very existence was a variable no one could account for.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Looking at that overwhelming, dazzling lineup, even the Black Ghosts—nearly immortal as they were—seemed to fade into the background.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "66",
+      "sol": "Faced with such an overwhelming lineup, even the nearly immortal Black Ghosts seemed to fade into the background.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If a battle had broken out, those things would’ve been wiped out, regardless of whether we survived.”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "68",
+      "sol": "“If we’d fought, those things would have been wiped out, whether we survived or not.”",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Grand Mage gestured toward the silent Black Ghosts, then added:",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "70",
+      "sol": "The Grand Mage gestured toward the silent Black Ghosts.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Though one of them has already melted away without even leaving a shape behind.”",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "72",
+      "sol": "“Though one has already melted away without leaving so much as its shape behind.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And there’d be no question of it if the Bow Saint and Slaughter Saint joined in. Besides, there’s something about Jin Taekyung that even I can’t quite understand.”",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "76",
+      "sol": "“And if the Slaughter Saint and Bow Saint joined in, there’d be no question of it. Besides, there’s something about Jin Taekyung that even I can’t understand.”",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the Murim world, where the strong ruled above all, power followed an honest logic.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "78",
+      "sol": "",
+      "sol_paragraphs": "after P34",
+      "sol_range": [
+        34,
+        34
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "무림",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murim"
+        }
+      ]
+    },
+    {
+      "baseline": "The strong devoured the weak; the weak were trampled by the strong. That was only natural.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "80",
+      "sol": "In Murim, where strength ruled above all, the logic of power was simple. The strong devoured the weak; the weak were trampled. That was how the world worked.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But from what the Grand Mage had seen, there was one person—Jin Taekyung—who stood farther outside that logic than anyone.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "82",
+      "sol": "But from what the Grand Mage had seen, Jin Taekyung stood further outside that logic than anyone.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if he’d received help from those around him whenever he faced a life-or-death crisis, defeating four Demon Lords and a Demon Empress hadn’t been mere luck.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "84",
+      "sol": "He’d had help from those around him in each life-or-death crisis, but his defeats of four Demon Lords and Demon Empresses couldn’t be dismissed as luck.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was enough to make her understand why people called him the Chosen One.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "86",
+      "sol": "She could understand why he was called the Chosen One.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That must be why. His special nature is what makes that person so obsessed with him.”",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "88",
+      "sol": "“That must be it. There’s something special about him, and that’s why that person is so obsessed with him.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the faint note of wonder in the Grand Mage’s voice, the Blood Lord’s lips twisted.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "90",
+      "sol": "A faint note of wonder entered her voice. The Blood Lord’s lips twisted.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대술사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grand Mage"
+        }
+      ]
+    },
+    {
+      "baseline": "As the thought turned over in his mind, he watched the gates slowly closing.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "94",
+      "sol": "",
+      "sol_paragraphs": "after P41",
+      "sol_range": [
+        41,
+        41
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "More precisely, he watched Jin Taekyung’s back disappear between them.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "96",
+      "sol": "He watched the gates slowly closing. More precisely, he watched Jin Taekyung disappear between them.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And suddenly, he remembered what he’d said moments before.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "98",
+      "sol": "And he remembered what he’d said moments before.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those words hadn’t been meant for Jin Taekyung alone.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "106",
+      "sol": "",
+      "sol_paragraphs": "after P44",
+      "sol_range": [
+        44,
+        44
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "They were a self-mocking question he’d asked himself—and a plaintive complaint addressed to the Lord of Heaven, who wasn’t here.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "108",
+      "sol": "He hadn’t said it only to Jin Taekyung. It was a self-mocking question directed at himself—and a plaintive complaint to the Lord of Heaven, who wasn’t there to hear it.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Why is that brat special to you? Why, exactly?*",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "110",
+      "sol": "*Why is that brat special to you? Why?*",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, the person the Blood Lord most wanted to kill wasn’t Mae Jonghak, who had taken his arm from him once, nor Jeok Cheongang.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "112",
+      "sol": "At that moment, the person the Blood Lord most wanted to kill wasn’t Mae Jonghak, who had once taken his arm, or Jeok Cheongang.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A greenhorn who’d grown into a towering tree in barely two years.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "116",
+      "sol": "",
+      "sol_paragraphs": "after P48",
+      "sol_range": [
+        48,
+        48
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But even though he was no longer a bright yellow sprout the Blood Lord could crush with one step, and now had deep roots and thick branches, his master still hadn’t allowed his servants to cut him down.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "118",
+      "sol": "A greenhorn who had grown into a towering tree in barely two years. He was no longer a bright-yellow sprout the Blood Lord could crush underfoot. He had deep roots and thick branches now, yet his master still would not let his servants cut him down.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if it broke under the strength of the great fish that had taken its bait, it could simply be replaced.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "124",
+      "sol": "Even if it broke against the strength of a great fish that had taken the bait, its owner could simply replace it.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The three words he’d spoken of his own accord, and the meaning they carried, weighed unusually heavily on the Blood Lord’s heart.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "126",
+      "sol": "The word he’d spoken of his own accord, and all it implied, weighed heavily on the Blood Lord’s heart.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was when it happened.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "128",
+      "sol": "",
+      "sol_paragraphs": "after P53",
+      "sol_range": [
+        53,
+        53
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A long blast of a horn rang out. The Potala Palace’s army slowed and came to a halt some sixty meters away.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "132",
+      "sol": "A horn sounded, long and deep. The Potala Palace’s army slowed to a halt some twenty-odd zhang away.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Among the hundreds of elephants standing like iron towers, thirteen—each the largest and most lavishly adorned—moved forward.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "134",
+      "sol": "Of the hundreds of elephants standing like iron towers, thirteen of the largest and most lavishly adorned moved forward.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A massive shadow fell across the Blood Lord’s face as he slowly lifted his head.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "138",
+      "sol": "",
+      "sol_paragraphs": "after P57",
+      "sol_range": [
+        57,
+        57
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "혈주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blood Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "The elephants reached him, their heavy footfalls rumbling. A voice came down from atop their heads.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "140",
+      "sol": "The Blood Lord slowly lifted his head as a vast shadow fell across his face. The elephants approached with heavy, rumbling steps, and a voice came down from atop them.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The clumsy Han speech would have drawn a snort from anyone in the Central Plains.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "144",
+      "sol": "",
+      "sol_paragraphs": "after P59",
+      "sol_range": [
+        59,
+        59
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "중원",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Central Plains"
+        }
+      ]
+    },
+    {
+      "baseline": "But the mighty internal energy and imposing authority in that voice belonged only to the grand master of a sect—and it carried unmistakable anger.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "146",
+      "sol": "Anyone from the Central Plains might have snorted at the halting Han speech. But the immense internal energy and authority behind the voice belonged to the grand master of a sect. It carried unmistakable anger, too.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P71",
+      "baseline_range": [
+        71,
+        71
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "148",
+      "sol": "Thwip!",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a sharp rush of air, thirteen figures dropped to the ground.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "150",
+      "sol": "Thirteen figures dropped to the ground with a rush of displaced air.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At their center stood an old monk, slender and bony, as thin as a withered tree.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "152",
+      "sol": "At their center stood an old monk, slender and bony as a withered tree.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If this humble monk has not mistaken what he sees, then I believe a convincing explanation is in order.”",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "154",
+      "sol": "“Unless this humble monk’s eyes deceive him, I believe an explanation is in order.”",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old monk who ruled Xizang like a kingdom—the Potala Palace’s Palace Lord, known by their ancient custom as the Dalai Lama—fixed his piercing gaze on the Blood Lord.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "156",
+      "sol": "The old monk ruled Tibet like a kingdom. He was the Palace Lord of the Potala Palace—or, as his people had called him by ancient custom, the Dalai Lama. He fixed his piercing gaze on the Blood Lord.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why did you let them go? I may be old, and my eyes may be failing, but even from a distance it was clear they were no ordinary people.”",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "158",
+      "sol": "“Why did you let them go? I may be old, and my eyes may be failing, but even from a distance I could tell they were no ordinary people.”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Waking from his thoughts, the Blood Lord turned to look at the gates, now firmly shut.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "160",
+      "sol": "",
+      "sol_paragraphs": "after P67",
+      "sol_range": [
+        67,
+        67
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "혈주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blood Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "Then he smiled warmly at the Dalai Lama, who had brought a substantial force to join them.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "162",
+      "sol": "Roused from his thoughts, the Blood Lord glanced at the gates, now firmly shut. Then he gave the Dalai Lama, who had brought a substantial force to join them, a warm smile.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But even at the Blood Lord’s unusually friendly manner, the Dalai Lama didn’t smile.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "166",
+      "sol": "The Dalai Lama did not smile back, despite the Blood Lord’s unusually friendly manner.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One of the decisive reasons the head of that deeply insular religious sect had accepted Dark Heaven’s proposal decades ago and formed an alliance with them…",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "168",
+      "sol": "What he’d just seen touched on one of the chief reasons the head of his fiercely insular sect had accepted Dark Heaven’s proposal decades ago and formed an alliance. It was also one of the main reasons he’d gathered the Potala Palace’s forces from across Tibet and brought them all the way to Qinghai.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And one of the main reasons he’d gathered every last force in Xizang and brought them all the way to Qinghai…",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "170",
+      "sol": "",
+      "sol_paragraphs": "after P71",
+      "sol_range": [
+        71,
+        71
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "청해",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Qinghai"
+        },
+        {
+          "korean": "청해성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Qinghai"
+        }
+      ]
+    },
+    {
+      "baseline": "…was here.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "172",
+      "sol": "",
+      "sol_paragraphs": "after P71",
+      "sol_range": [
+        71,
+        71
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Dalai Lama continued, his tone so cold there wasn’t a trace of clumsiness in it.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "176",
+      "sol": "When he continued, his voice was so cold that no trace of his halting speech remained.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "달뢰라마",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Dalai Lama"
+        }
+      ]
+    },
+    {
+      "baseline": "“Among the enemies you just sent back, were the people I’ve been searching for?”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "178",
+      "sol": "“Were any of the enemies you just let go among those I’ve been searching for?”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that very moment, the Grand Mage’s lips moved behind her tightly woven silver-white veil.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "180",
+      "sol": "At that moment, the Grand Mage’s lips moved behind her tightly woven silver-white veil.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’m only saying this in case, but… don’t forget. Until we achieve our goal, the Potala Palace is a rather useful card to have.*",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "182",
+      "sol": "*Just in case you need reminding… don’t forget. Until we achieve our goal, the Potala Palace is a useful card to have.*",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before he could answer, the Grand Mage’s warning reached his ear first. The Blood Lord twisted his lips without meaning to.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "184",
+      "sol": "Her warning reached the Blood Lord before he could answer. His lips twisted despite himself.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대술사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grand Mage"
+        }
+      ]
+    },
+    {
+      "baseline": "Ordinarily, he would’ve let the words pass without a second thought. For some reason, right now they struck him as absurd.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "188",
+      "sol": "Ordinarily, he would have let the phrase pass. Now, for some reason, it struck him as absurd.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She, too. And he, too.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "190",
+      "sol": "",
+      "sol_paragraphs": "after P79",
+      "sol_range": [
+        79,
+        79
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were only fishing rods, after all—things someone could replace whenever they pleased.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "192",
+      "sol": "She and he were both fishing rods, after all. Someone could replace them whenever they pleased.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*My goal has been the same from the beginning. To serve that person with body and heart, and help him rule as the master and father of all under heaven.*",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "194",
+      "sol": "*I’ve had only one goal from the beginning: to serve that person with body and soul, and help him rule as the master and father of all under heaven.*",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Why on earth was he suddenly thinking that his master, the great Lord of Heaven, wanted not the vast world, but one young man?",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "198",
+      "sol": "Why did he find himself thinking that his master, the great Lord of Heaven, wanted not the vast world, but one young man?",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the sight of the Blood Lord, the Dalai Lama’s eyes sank further.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "204",
+      "sol": "The Dalai Lama’s gaze grew darker.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "혈주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blood Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "The Blood Lord replied, amusement in his voice.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "208",
+      "sol": "",
+      "sol_paragraphs": "after P87",
+      "sol_range": [
+        87,
+        87
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "혈주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blood Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "“Surely you’ve already guessed.”",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "210",
+      "sol": "Amusement in his voice, the Blood Lord replied, “Surely you’ve already guessed.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. The Fire King Jeok Cheongang. And the Blazing Flame Divine Dragon Jin Taekyung. The Fire Gate Clan’s scions you’ve been searching for so desperately were among them. Ah, come to think of it…”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "214",
+      "sol": "“That’s right. The Fire King Jeok Cheongang. And the Blazing Flame Divine Dragon Jin Taekyung. The Fire Gate Clan’s scions you’ve searched for so desperately were among them. Ah, come to think of it…”",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He pointed with a straightened finger at the spot where the Dalai Lama stood, then added:",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "216",
+      "sol": "He extended a finger toward the ground at the Dalai Lama’s feet.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I believe they were standing right where you are now. Though, of course, that was only moments ago.”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "218",
+      "sol": "“I believe they were standing right where you are now. Only moments ago, of course.”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "220",
+      "sol": "“…!”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "222",
+      "sol": "“…!”",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The air around them shifted violently.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "224",
+      "sol": "",
+      "sol_paragraphs": "after P94",
+      "sol_range": [
+        94,
+        94
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the aura emanating from the Dalai Lama—and from the Twelve Secret Monks, the Potala Palace’s finest fighters.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "226",
+      "sol": "The air around them shook with the aura pouring from the Dalai Lama and the Twelve Secret Monks, the Potala Palace’s finest fighters.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You let them go so easily? Even knowing how much I—how much we—hate the Fire Gate Clan?”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "228",
+      "sol": "“You let them go? Knowing how much I—how much *we*—hate the Fire Gate Clan?”",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Dalai Lama’s voice suddenly spilled from his lips, as dry as a desert of burning sand.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "230",
+      "sol": "",
+      "sol_paragraphs": "after P96",
+      "sol_range": [
+        96,
+        96
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "달뢰라마",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Dalai Lama"
+        }
+      ]
+    },
+    {
+      "baseline": "At that moment, the ruler of Xizang’s vast martial world was truly furious.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "232",
+      "sol": "His voice was as dry as a desert of burning sand. The ruler of Tibet’s vast martial world was furious.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A cursed name impossible to forget, known to every Secret Monk of the Potala Palace.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "236",
+      "sol": "A cursed name every Secret Monk of the Potala Palace knew and none could forget.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were the ones who had transformed the Potala Palace from a Buddhist sect—known for being more belligerent than necessary—into a theocratic state with formidable martial power.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "238",
+      "sol": "They were the ones who had driven the Potala Palace’s transformation from a Buddhist sect known for its excessive belligerence into a theocratic state with formidable martial power.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How dare you break your promise? What in the world is this?”",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "240",
+      "sol": "“How dare you break your promise? What do you think you’re doing?”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Dalai Lama glared at him with a frostbitten aura, and his familiar use of casual speech was now entirely natural. The Blood Lord gave a short laugh.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "244",
+      "sol": "The Dalai Lama glared at him with a frost-sharp aura, speaking down to him as though it were the most natural thing in the world. The Blood Lord gave a short laugh.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t worry. I remember it clearly: that heartrending story from two hundred years ago, and the unbreakable promise we made to each other.”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "246",
+      "sol": "“Don’t worry. I remember perfectly well. That heartrending story from two hundred years ago, and the close bond behind our promise.”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Dalai Lama’s eyes widened at the casual reply. The Blood Lord continued in a low voice.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "250",
+      "sol": "The Dalai Lama’s eyes widened at the offhand reply. The Blood Lord continued quietly.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But it seems you’ve forgotten all about it.”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "252",
+      "sol": "“But unlike me, Palace Lord, you seem to have forgotten something.”",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You know better than anyone how much help you received from that person in building the Potala Palace you have today.”",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "256",
+      "sol": "“You know better than anyone how much help that person gave you in making the Potala Palace what it is today.”",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Dalai Lama bit down on his lip, unable to continue. The Blood Lord clicked his tongue softly.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "260",
+      "sol": "The Dalai Lama bit his lip, unable to finish. The Blood Lord clicked his tongue.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“As I said, I always keep my promises. If you help capture Jin Taekyung in a meaningful way, I’ll hand that old man, the Fire King, over to you—and give you a generous reward besides.”",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "262",
+      "sol": "“As I said, I’ll keep my promise. If you play a substantial part in capturing Jin Taekyung, I’ll put the Fire King in your custody and give you a generous reward besides.”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Dalai Lama was silent for a moment before speaking heavily.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "264",
+      "sol": "After a moment’s silence, the Dalai Lama spoke.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        }
+      ]
+    },
+    {
+      "baseline": "“How can I believe that?”",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "266",
+      "sol": "“How can I believe you?”",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I trust that person. But you let them go right before my eyes, despite the perfect opportunity.”",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "270",
+      "sol": "“I trust that person. But you let them go right before my eyes, when we had the perfect opportunity.”",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A sneer touched the Blood Lord’s lips.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "272",
+      "sol": "",
+      "sol_paragraphs": "after P116",
+      "sol_range": [
+        116,
+        116
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "혈주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blood Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "The Dalai Lama’s distrust didn’t offend him. He simply found it laughable that the man genuinely believed that.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "274",
+      "sol": "A sneer touched the Blood Lord’s lips. It wasn’t the Dalai Lama’s distrust that offended him. He found it laughable that the man truly believed what he’d said.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dark Heaven had given the Potala Palace its full support, but even so, the strength the palace had built up was undeniable.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "276",
+      "sol": "",
+      "sol_paragraphs": "after P117",
+      "sol_range": [
+        117,
+        117
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "암천",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Dark Heaven"
+        },
+        {
+          "korean": "포달랍궁",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Potala Palace"
+        }
+      ]
+    },
+    {
+      "baseline": "The Dalai Lama’s own martial prowess, the best of them all, went without saying. Even against one of the Ten Kings other than Jeok Cheongang, he wouldn’t be outmatched.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "278",
+      "sol": "Even accounting for Dark Heaven’s full support, the strength the Potala Palace had amassed was undeniable. The Dalai Lama was its greatest master; he could stand against any one of the Ten Kings besides Jeok Cheongang without being outmatched.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*That’s all you are.*",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "282",
+      "sol": "*That’s as far as you go.*",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It wasn’t a question of martial skill.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "284",
+      "sol": "This wasn’t about martial skill. It was about the man himself—what he was capable of seeing.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a question of the size of one’s inner self. Of the person one was.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "286",
+      "sol": "",
+      "sol_paragraphs": "after P121",
+      "sol_range": [
+        121,
+        121
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was why, unlike the Grand Mage—who already understood what the Blood Lord had expected when he let them go and said nothing—the Dalai Lama regretted losing the great fish right before his eyes.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "288",
+      "sol": "The Grand Mage had already understood what the Blood Lord intended when he let their enemies go, and had said nothing. The Dalai Lama could only lament the great fish he’d watched slip away.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What is it I’m supposed to understand…?”",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "292",
+      "sol": "“What is it I’m supposed to understand?”",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I only wanted to make sure of everything. To leave not even the smallest opening for them to slip through.”",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "294",
+      "sol": "“I wanted to make certain of everything. To leave them no opening to escape, however small.”",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Dalai Lama was about to say something when he suddenly realized something and opened his eyes wide.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "296",
+      "sol": "The Dalai Lama started to reply, then stopped. His eyes widened.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If his guess was right, it would be today.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "302",
+      "sol": "",
+      "sol_paragraphs": "after P128",
+      "sol_range": [
+        128,
+        128
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Yangtze River Channel League’s hundreds of ships would finally enter the Yellow River tributary leading to Qinghai, and the Green Forest Alliance would meet them with ten thousand followers who had joined in advance.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "304",
+      "sol": "If his guess was right, it would happen today: the Yangtze River Channel League’s hundreds of ships would finally enter the Yellow River tributary leading to Qinghai, where the Green Forest Alliance would meet them alongside the ten thousand followers who had joined them in advance.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Another day, two at most. This battle will be over within that time.”",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "306",
+      "sol": "“One more day. Two at most. This battle will be over.”",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A total of thirty thousand reinforcements would cut through the swift current and reach Qinghai, sealing even the tiniest gap.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "308",
+      "sol": "Thirty thousand additional troops would cut through the swift current to reach Qinghai and close even the smallest gap.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were the final key to ensuring victory in this battle.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "310",
+      "sol": "They were the final key to a certain victory.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was why he’d given Jin Taekyung a day to think, too.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "312",
+      "sol": "They were also why he’d given Jin Taekyung a day to think.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A promise?",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "314",
+      "sol": "His promise?",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He’d never intended to keep it in the first place. But deep down, he hoped Jin Taekyung wouldn’t do something foolish and sever the sinews and meridians in his own arms and legs.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "316",
+      "sol": "He had never intended to keep it. In fact, he hoped Jin Taekyung would not be foolish enough to sever his own Sinews and Meridians.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only then…",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "318",
+      "sol": "",
+      "sol_paragraphs": "after P135",
+      "sol_range": [
+        135,
+        135
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only if Jin Taekyung resolved to fight to the death would the Blood Lord have a reason to kill him.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "320",
+      "sol": "Because only then—only if Jin Taekyung resolved to fight to the death—would the Blood Lord have grounds to kill him.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Lord of Heaven, forgive me. Even if you do not wish it, my actions are born only of loyalty.*",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "322",
+      "sol": "*Lord of Heaven, forgive me. Even if this is not what you wish, I act only out of loyalty.*",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if confessing his sins, the Blood Lord murmured to himself, then slowly parted his lips.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "324",
+      "sol": "The Blood Lord murmured the words deep in his heart as though confessing a sin. Then he turned to the Dalai Lama, whose expression had brightened considerably.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He spoke to the Dalai Lama, who was looking back at him with a far brighter expression than before.",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "328",
+      "sol": "",
+      "sol_paragraphs": "after P139",
+      "sol_range": [
+        139,
+        139
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "달뢰라마",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Dalai Lama"
+        }
+      ]
+    },
+    {
+      "baseline": "“Shut your mouth. If you speak down to me again, I’ll tear it off your face.”",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "330",
+      "sol": "“Shut your mouth. Speak down to me again, and I’ll tear it open.”",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "332",
+      "sol": "“…!”",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Watching the Dalai Lama freeze in place, the Blood Lord laughed wildly.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "334",
+      "sol": "The Dalai Lama froze. The Blood Lord laughed savagely.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Being treated like a fishing rod by someone else was enough to bear once.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H133",
+      "korean_lines": "336",
+      "sol": "Once was enough to be treated like someone else’s fishing rod.",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 143,
+  "sol_sha256": "1d869dad8586637855918aed4225e8cf73677c40876ae5fd1ccc2472d14282b5",
+  "version": 1
+}
