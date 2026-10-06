@@ -84,7 +84,7 @@ I answered without another thought.
 
 “Wow, aren’t you being a little too decisive? You cut me off without even hearing the terms.”
 
-“As his younger brother, I can’t go around splashing filth on my hyung’s[^1] path.”
+“As his younger brother, I can’t go around splashing filth on my hyung’s path.”
 
 We might not have shared a drop of blood, but I had long since accepted his existence—and this Murim—as my own.
 
@@ -206,7 +206,7 @@ She drew repeatedly on her pipe in frustration, then released a long breath.
 
 “That’s right.”
 
-Jin Taekyung had gone from Third Rate to a Supreme First Rate master in a little over two months. Wolhwa was dumbfounded by the conclusion she had reached herself, but there was nothing she could do about it.
+Jin Taekyung had gone from Third Rate to a master beyond First Rate in a little over two months. Wolhwa was dumbfounded by the conclusion she had reached herself, but there was nothing she could do about it.
 
 “Forget the order I gave earlier. Don’t ask about him anymore, and don’t try to learn anything else. Issue a gag order and make sure no one even mentions this.”
 
@@ -240,11 +240,11 @@ The next morning.
 
 I began to feel that something had gone wrong after meeting the person in charge of the private residence.
 
-“The lodging fee is twenty-five nyang,[^2] the food comes to five nyang,[^2] and the property damage fee is fifty nyang.[^2] The total is eighty silver nyang.[^2]”
+“The lodging fee is twenty-five nyang, the food comes to five nyang, and the property damage fee is fifty nyang. The total is eighty silver nyang.”
 
 Hyuk Mujin, who had been celebrating yesterday after emptying those mounted bandits’ pockets, gaped.
 
-“Property damage? Fifty silver nyang?[^2]”
+“Property damage? Fifty silver nyang?”
 
 “When I went to the rear courtyard, I found that five old pine trees had fallen.”
 
@@ -264,7 +264,7 @@ One look told me the bill exceeded the money we had left. If it had only been a 
 
 “Mujin, how much do you have right now?”
 
-“Forty nyang.[^2]”
+“Forty nyang.”
 
 *Middle ground, my ass. We’re nowhere close.*
 
@@ -284,7 +284,7 @@ I felt bad about turning down her proposal so decisively the night before, but t
 
 When I explained the situation, Wolhwa’s eyes grew round.
 
-“Eighty nyang?[^2] That can’t be right.”
+“Eighty nyang? That can’t be right.”
 
 “Exactly. I knew something was wrong.”
 
@@ -326,7 +326,7 @@ Hyuk Mujin accepted the apology with an arrogant air.
 
 “Don’t do that again. You have to know who you’re dealing with before pulling a prank. So how much is it?”
 
-“One hundred and five silver nyang[^2] and twenty-three nyang[^2] in iron coins.”
+“One hundred and five silver nyang and twenty-three iron coins.”
 
 “……?”
 
@@ -387,6 +387,3 @@ While Hyuk Mujin was the sort of person who simply accepted reality, someone els
 Jin Mukyung didn’t raise his hand. Wolhwa slightly lifted the hem of her skirt and greeted him.
 
 “Please take good care of me, Young Hero Jin.”
-
-[^1]: *Hyung* is a Korean term a man uses for an older brother or a close older man.
-[^2]: A *nyang* is a traditional unit of money. Here, the bill distinguishes silver nyang from the amount owed in lower-value iron coins.
