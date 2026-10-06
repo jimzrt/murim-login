@@ -6,7 +6,7 @@ Especially when it happens in the middle of a chase.
 
 “Hh…!”
 
-At Great Sir’s sudden groan, the silence shattered—and the air around us froze.
+Great Sir’s sudden groan broke the silence, and the air around us seemed to freeze.
 
 It hadn’t even been fifteen minutes since we’d shaken off the third group of pursuers.
 
@@ -16,7 +16,7 @@ We’d been moving quickly and quietly, keeping low among the shallow hills and 
 
 At his low question, everyone—including me—turned toward Great Sir.
 
-His face had gone rigid without anyone noticing. His pupils, usually a little unfocused, had suddenly dilated, as if reflecting his state of mind. A bead of cold sweat rolled down his forehead.
+His face had gone rigid. His pupils, usually a little unfocused, had dilated, and a bead of cold sweat rolled down his forehead.
 
 “I have a bad feeling. A really bad one.”
 
@@ -32,11 +32,11 @@ Great Sir nodded at Jeok Cheongang’s grave question.
 
 “That’s right.”
 
-“Explain in more detail. And be polite if you don’t want to get beaten to death.”
+“Explain. And speak respectfully if you don’t want to get beaten to death.”
 
 “Understood.”
 
-Jeok Cheongang chuckled at Great Sir’s answer, then turned to me.
+Jeok Cheongang gave a dry chuckle at Great Sir’s answer, then turned to me.
 
 “Would it be all right if this old man taught that lunatic a lesson?”
 
@@ -110,7 +110,7 @@ But with superhuman self-control, I resisted the urge and shook my head.
 
 *Sixth sense, my ass.*
 
-If he could just refrain from acting like a complete idiot for once, that’d be a miracle. What had I expected from someone who didn’t even know his own name?
+I’d be grateful if he could just stop acting like an idiot. What had I expected from someone who didn’t even know his own name?
 
 *Still, he more than pulls his weight.*
 
@@ -134,11 +134,11 @@ I swallowed a sigh. Great Shit—no, Great Sir—emerged from the reeds after fi
 
 I must’ve lost my grip on reason for a moment.
 
-My vision blurred, and when it cleared, a fierce-looking face was blocking my view.
+My vision blurred, and the next thing I knew, a fierce-looking face was blocking my way.
 
 “Whoa! Calm down, calm down!”
 
-“Let go! Let go! That ugly face of yours is already bad enough. Want me to make it even worse?”
+“Let go! You’re ugly enough already. Want me to make your face even worse?”
 
 Ma Junggeol—the chief of the mounted bandits who’d somehow ended up following us this far, though he was in the horse-caravan business now—looked at me sadly.
 
@@ -168,7 +168,7 @@ Every moment mattered, and we’d already wasted nearly fifteen minutes for noth
 
 The first attack had come before we’d even made it all the way down from the mountain range. By now, the enemy had caught up with us three times.
 
-Each time, the Supreme Peak masters, including me, had led the charge and wiped out the pursuers. But the important thing was how quickly and relentlessly the enemy caught up to us.
+Each time, the Supreme Peak masters, including me, had led the charge and wiped out the pursuers. The problem was how quickly and relentlessly more of them caught up.
 
 *They have eyes to watch us—and monsters that can chase us without resting for a moment.*
 
@@ -186,7 +186,7 @@ Anyone who thought about defeat from the start was bound to lose in the end.
 
 Thousands, or tens of thousands.
 
-Even if a hundred thousand undead came to close their hands around our throats, I had to lead everyone through this dense net and keep moving.
+Even if a hundred thousand undead closed in around us, I had to lead everyone through that dense net and keep moving.
 
 Toward our destination far to the east, where our allies in Qinghai—including the Kunlun Sect—should be waiting.
 
@@ -194,7 +194,7 @@ As if she’d sensed what I was thinking, Ju Hwaran broke away from the others a
 
 “If we can make it to Qinghai Lake in the east, they won’t be able to pursue us so easily.”
 
-Song Ilseom, who—as always—stayed close beside Ju Hwaran like a shadow, spoke up unexpectedly.
+Song Ilseom, who stayed close beside Ju Hwaran like a shadow, spoke up.
 
 “You’re not wrong. But only if all of Qinghai’s forces have gathered there, and those monsters aren’t pursuing us with everything they have.”
 
@@ -246,7 +246,7 @@ Jeong Hogun, moving hunched over at the rear of the Embroidered Uniform Guard, r
 
 “I said take it off. Now.”
 
-At the sight of Jeong Hogun’s eyes practically shaking, I added an explanation to head off any misunderstanding.
+His eyes widened. I added an explanation before he could get the wrong idea.
 
 “Don’t get any dirty ideas. I’m talking about that damn armor.”
 
@@ -272,7 +272,7 @@ After a brief silence, Jeong Hogun answered.
 
 “Damn it.”
 
-“I’ll take that as agreement. Don’t waste time—give the order to your men right now…”
+“I’ll take that as a yes. Don’t dawdle—order your men to take theirs off right now…”
 
 I trailed off and stared into the hazy darkness that had settled around us.
 
@@ -284,4 +284,4 @@ At that moment—
 
 *Rrrrrumble.*
 
-A tremor unlike anything the previous pursuers had caused began to churn in the distance.
+A tremor unlike anything the previous pursuers had caused began to surge in the distance.
