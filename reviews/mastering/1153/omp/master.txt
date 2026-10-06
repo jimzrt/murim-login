@@ -12,7 +12,7 @@ The reality before us was too horrific to let ourselves be swept away by emotion
 
 “…That concludes the meeting.”
 
-The lights came on with the presenter’s exhausted voice, but the heavy silence pressing down on the room didn’t disperse so easily.
+The lights came on as the presenter finished speaking, exhaustion in his voice. But the heavy silence pressing down on the room didn’t lift.
 
 Not until someone who had kept silent throughout the meeting finally spoke.
 
@@ -52,9 +52,9 @@ He downed a cup of coffee heavily laced with potion and continued.
 
 But it was real. The figures in the reports hadn’t leveled off; they’d climbed higher every day.
 
-Property damage in the tens of quadrillions. Tens of millions dead or injured, and even more refugees. The whole world was in a panic.
+Property damage measured in the tens of quadrillions. Tens of millions dead or injured, and even more people displaced. The whole world was in a panic.
 
-“That’s why I had to announce as soon as possible that you’d returned.”
+“That’s why we had to announce your return as quickly as possible.”
 
 As he said, the international community had moved quickly.
 
@@ -70,7 +70,7 @@ Because it was too late to take the announcement back?
 
 That was part of it, of course.
 
-But if the news of my return hadn’t gotten out, people would have been swept into an even more uncontrollable maelstrom.
+But if word of my return hadn’t gotten out, people would have been swept into an even worse spiral.
 
 Disaster, after all, takes root in fear and confusion.
 
@@ -80,7 +80,7 @@ And the seed of that disaster had already blossomed, thanks to an unprecedented 
 
 I knew the answer before he could continue.
 
-Ever since Demon King Asmodeus descended upon this world, every country had been facing the same problem.
+Ever since Demon King Asmodeus descended upon this world, every country had faced the same problem.
 
 “The war against monsters.”
 
@@ -154,7 +154,7 @@ And that had caused greater division than ever.
 
 Disaster breeds fear, and fear leads to fractures.
 
-Faced with the most powerful desire of all—survival—people were crumbling one after another.
+Faced with the most powerful desire of all—the will to survive—people were crumbling one after another.
 
 “Something similar happened early in the Great Cataclysm, but this is different. Everyone’s shaken.”
 
@@ -168,7 +168,7 @@ He truly lived up to the title of Demon King.
 
 He killed those who resisted and those who surrendered.
 
-He burned down cities and overturned mountains and seas.
+He burned cities and overturned mountains and seas.
 
 Compromise? Promises?
 
@@ -182,7 +182,7 @@ Fortunately, they’d had a savior in Cheon Taemin. They’d had no other choice
 
 He took human form and followed human ways.
 
-For those who resisted, he offered devastating destruction and death. For those who surrendered, he guaranteed survival.
+Those who resisted faced devastating destruction and death. Those who surrendered were guaranteed survival.
 
 Like a cruel conqueror from the Middle Ages.
 
@@ -200,15 +200,15 @@ If I’d woken up even a day earlier—or tried to log out just a few hours soon
 
 *Drip.*
 
-Blood drops fell, one after another. It was running from between my fingers where I’d clenched my fist without realizing it. After a brief silence, President Doramp spoke.
+Drops of blood struck the floor. I’d clenched my fist without realizing it, and blood was running between my fingers. After a brief silence, President Doramp spoke.
 
 “Jin, it’s already happened. And nobody blames you. While you were gone, the rest of us were at our posts, and we still couldn’t stop Morgoth.”
 
 I knew.
 
-Ever since I’d gained powers unlike anyone else’s, I’d struggled at every turn. And as a result, I’d saved countless lives.
+Ever since I’d gained powers unlike anyone else’s, I’d struggled at every turn. I’d saved countless lives because of it.
 
-But the sudden surges of anger and self-blame still refused to fade.
+But that didn’t make the sudden surges of anger and self-blame any easier to shake.
 
 *They probably won’t go away even after this is over.*
 
@@ -222,12 +222,12 @@ And that danger was closer than I thought.
 
 An aide rushed into the conference room. Behind him, I saw familiar faces.
 
-Every one of them wore a tight expression, their eyes downcast.
+Every mouth was set, every gaze somber.
 
-The air froze in an instant. At the aide’s touch, a holographic video sprang into the air.
+The air seemed to freeze. At the aide’s touch, a holographic video sprang into the air.
 
-*Pop.*
+*Flash.*
 
 Through the constant crackle of static, a scene from tens of thousands of kilometers away filled the vast conference room.
 
-A Dragon Lair rose over the blackened earth once known as Moscow, blocking everyone’s view.
+A Dragon Lair towered over the blackened earth once known as Moscow, filling everyone’s field of view.
