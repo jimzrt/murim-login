@@ -1,0 +1,1635 @@
+{
+  "baseline_blocks": 163,
+  "baseline_sha256": "ef5836a74e1d13f098a17de770c8efa96840d82766fe35f5fac984446bdaac76",
+  "global_terminology_alerts": [
+    {
+      "korean": "점혈",
+      "preferred": "Pressure-Point Strike"
+    }
+  ],
+  "hunk_count": 87,
+  "hunks": [
+    {
+      "baseline": "If someone asked me whether a person could survive being dunked in a river hundreds of times over the course of a full day and night—and half a day on top of that—I’d answer without hesitation:",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "6",
+      "sol": "If someone asked me whether a person could survive being dunked in a river hundreds of times over a full day and night, plus another half day, I’d answer without hesitation.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And they might even gain a level of honesty that put their previous self to shame.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "10",
+      "sol": "They might even come out of it far more honest than they’d been before.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Naturally, there might be a few minor complications along the way.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "12",
+      "sol": "There could be a few minor complications along the way, though.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If they’ve gone slack, we’ll just have to tighten them up again.”",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "18",
+      "sol": "“If they’ve gone slack, we’ll just have to tighten them up.”",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Give him a good slap across the face. Nice and hard.”",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "22",
+      "sol": "“Slap him across the face. Nice and hard.”",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Hyuk Mujin nodded as if he’d just reached a great insight, then promptly raised his palm.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "26",
+      "sol": "Hyuk Mujin nodded as though he’d gained a great insight and promptly raised his palm.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Not a genius. Just exceptionally gifted.”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "40",
+      "sol": "“Not a genius. Just gifted.”",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Figures.”",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "42",
+      "sol": "“Of course.”",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, I’m serious. His body’s completely ice-cold, too.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "52",
+      "sol": "“No, I’m serious. His body’s ice-cold, too.”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Now is not the time for nonsense. What if he dies?”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "60",
+      "sol": "“Now isn’t the time for nonsense. What if he dies?”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment Mujin looked at me as if to say, *What kind of bullshit is this idiot talking about now?* I reached out without hesitation.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "66",
+      "sol": "Mujin looked at me as if to say, *What kind of bullshit is this idiot talking about now?* I reached out without hesitation.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When my palm, warmed by Scorching Yang Qi, struck his chest, the black-robed man’s body—which had been turning pale and rigid—shuddered. Then warmth returned to him, more than before.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "70",
+      "sol": "My palm struck the black-robed man’s chest, delivering a burst of Scorching Yang Qi. His body, pale and growing rigid, shuddered. Then warmth flooded back into him—far more than he’d had before.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Good grief. What a mess.”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "90",
+      "sol": "“Oh, for fuck’s sake.”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“I told you not to release his Mute Acupoint! Even with his internal energy sealed, he could die in a situation like this!”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "92",
+      "sol": "“I told you not to release his Mute Acupoint! Even with his internal energy sealed, he could die like this!”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If I’d sealed his Mute Acupoint, he might’ve drowned without getting a word out. Anyway, quit making a fuss and go fetch him.”",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "94",
+      "sol": "“If I’d sealed that too, he might’ve drowned without getting a word out. Anyway, quit making a fuss and hurry up and fetch him.”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "아혈",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mute Acupoint"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "A moment later, a professional two-jobber who had reached the peak of his craft in two completely opposite professions—assassin and physician—revived the emergency patient in the blink of an eye.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "102",
+      "sol": "A moment later, a man who’d mastered two utterly different trades—assassination and medicine—revived our emergency patient in the blink of an eye.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I stitched him up perfectly, so he’ll have no trouble speaking once he recovers.”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "104",
+      "sol": "“I’ve stitched him up perfectly. He’ll have no trouble speaking once he recovers.”",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But this man—is he the one I’m thinking of?”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "108",
+      "sol": "“But is this the man I’m thinking of?”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He was so bloated I nearly didn’t recognize him. His wrist wound hasn’t healed yet, either, so don’t overdo it. If the wound gets infected and turns necrotic, you’ll be in trouble.”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "112",
+      "sol": "“He’s so swollen I nearly didn’t recognize him. His wrist wound hasn’t healed yet, either, so don’t overdo it. If it gets infected and the flesh dies, that’ll be serious.”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“True enough. But if you keep handling him so roughly, he’s liable to lose his life. In a situation like this, you’re better off stabbing him deeply three vertebrae below the cervical vertebrae, then slowly…”",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "116",
+      "sol": "“True enough. But keep treating him so roughly and he’s liable to die. At a time like this, you’d be better off stabbing deep, three vertebrae below the cervical spine, then slowly…”",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh, that’s a handy tip. But wouldn’t that kill him?”",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "118",
+      "sol": "“Oh, I hadn’t thought of that. But wouldn’t it kill him?”",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He wouldn’t die. He’d just wish he had.”",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "120",
+      "sol": "“He wouldn’t die. He’d wish he had.”",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The expert, second to none in the world when it came to taking apart and treating the human body, passed on his useful tip and left. The black-robed man, who had watched the whole thing unfold right before his eyes, began to thrash.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "122",
+      "sol": "The expert in both taking apart and repairing human bodies passed on his invaluable tip and left. The black-robed man, who had watched the whole exchange, began to thrash.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hey, why are you acting up again? Just stay still.”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "126",
+      "sol": "“Hey, why are you acting up again? Hold still.”",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Can’t be helped. Mujin.”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "130",
+      "sol": "“This isn’t working. Mujin.”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hold him down for a bit. I’m trying to practice, but it’s hard when he keeps shaking. I used a Pressure-Point Strike, and he’s still struggling this much. How badly is he thrashing around?”",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "134",
+      "sol": "“Hold him down. I’m trying to practice, but he keeps shaking. He’s struggling this much even with his acupoints sealed?”",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "점혈",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Pressure-Point Strike"
+        }
+      ]
+    },
+    {
+      "baseline": "“This insolent bastard. The Captain’s trying to practice here. Heave-ho. Is this good?”",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "136",
+      "sol": "“This insolent bastard. The Captain’s trying to practice. Heave-ho. Is that good?”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Isn’t it? I thought I heard it started two vertebrae below the cervical vertebrae.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "142",
+      "sol": "“Isn’t it? I thought he said to start two vertebrae below the cervical spine.”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Huh? Wasn’t it two vertebrae above?”",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "144",
+      "sol": "“Huh? Wasn’t it two above?”",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m confused. Shouldn’t you go ask him again, Captain?”",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "148",
+      "sol": "“Now I’m confused. Why don’t you go ask him again, Captain?”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I could die if I go. And he hates having to repeat himself.”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "152",
+      "sol": "“I could die if I go. He hates having to repeat himself.”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s not a bad idea. Shall we?”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "158",
+      "sol": "“That could work. Shall I?”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The deck shook as if an earthquake had hit—though that might be a slight exaggeration.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "166",
+      "sol": "All right, the deck wasn’t actually shaking like there’d been an earthquake, but it came close.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The black-robed man thrashed with all his might despite the Pressure-Point Strike. I let out a quiet laugh to myself, then released his Mute Acupoint.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "168",
+      "sol": "The black-robed man thrashed with all his might despite his sealed acupoints. I laughed quietly to myself and released his Mute Acupoint.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "점혈",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Pressure-Point Strike"
+        }
+      ]
+    },
+    {
+      "baseline": "“Cervical vertebrae! Three down from the cervical vertebrae! Stop it, you madmen!”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "178",
+      "sol": "“The cervical spine! Three vertebrae *below* it! Stop it, you madmen!”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There are only two reasons someone might call you a madman when you could take their life with the slightest movement of your hand.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "180",
+      "sol": "There were only two reasons to call someone a madman when he could kill you with a flick of his hand.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "First, they’ve resigned themselves to death.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "182",
+      "sol": "First, you’d made peace with dying.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Second, they’re no longer capable of rational thought, to the point where they don’t care about something like that.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "184",
+      "sol": "Second, you were too terrified to think straight, let alone worry about offending him.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*It’s over.*",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "188",
+      "sol": "*That’s done.*",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The terror in his eyes and voice told me he had been reborn as a far more honest man. I stood up.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "190",
+      "sol": "One look at the terror in his eyes, one listen to his voice, and I knew he’d been reborn a far more honest man. I stood up.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why would I stab him? Get something to cover him with, then sit right beside him and have a chat.”",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "194",
+      "sol": "“Why would I? Get him something to cover himself with, then stay right beside him and have a chat.”",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m about to get busy with something else. Isn’t that right?”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "198",
+      "sol": "“I think I’m about to be busy with something else. Isn’t that right?”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At my sudden question, Hak Su—who had been watching the whole scene with the face of a man who’d seen a ghost—swallowed hard.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "200",
+      "sol": "At my sudden question, Hak Su swallowed hard. He’d watched the whole scene with the expression of a man who’d seen a ghost.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as I raised my hand and pointed beyond the bow—",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "206",
+      "sol": "I raised a hand and pointed beyond the bow.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The thick fog lifted, revealing the lush green land hidden behind it.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "210",
+      "sol": "The thick mist parted, revealing the green land it had hidden.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A group of people had gathered at the pier to welcome us. Over their shoulders, far in the distance, the gray walls of a city were faintly visible.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "212",
+      "sol": "A group had gathered at the pier to wait for us. Beyond them, faint gray city walls rose in the distance.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Xining, the capital of Qinghai Province and the last stronghold against Dark Heaven.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "214",
+      "sol": "The capital of Qinghai and our last stronghold against Dark Heaven.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "서녕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Xining"
+        }
+      ]
+    },
+    {
+      "baseline": "*That’s Xining.*",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "216",
+      "sol": "*So that’s Xining.*",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A clear chime rang out above the rushing river.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "222",
+      "sol": "A clear chime rang out above the waters parting before our boat.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The welcoming crowd was enormous.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "230",
+      "sol": "The crowd waiting to welcome us was enormous.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No, it wouldn’t have been the least bit strange to call it massive.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "232",
+      "sol": "No. *Massive* wouldn’t have been an exaggeration.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The reinforcements are here! The Murim Alliance reinforcements have arrived!”",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "236",
+      "sol": "“Reinforcements! The Murim Alliance reinforcements are here!”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Was this what the triumphal processions of the Roman Empire looked like in the textbooks?",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "238",
+      "sol": "Was this what those Roman triumphs I’d seen in textbooks had been like?",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The cheers swelled as we drew closer to the walls, then shook the whole city the moment we entered. Everywhere I looked, the streets were packed with dark masses of people.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "240",
+      "sol": "The cheers grew louder as we approached the walls. The moment we entered the city, they shook everything around us. Everywhere I looked, crowds filled my view.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They filled the broad avenues and narrow alleys, as well as the rooftops of countless buildings—including rows of pavilions—and stretched both arms toward us as they cheered.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "242",
+      "sol": "They packed the broad avenues and narrow alleys, even the rooftops of the buildings lining the streets, and reached both arms toward us as they cheered.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The crowd was so enormous that even Cheongpung, who usually loved attention, swallowed nervously and whispered:",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "244",
+      "sol": "Even Cheongpung, who usually loved attention, swallowed nervously and whispered, “If this goes on much longer, my ears might burst, Benefactor.”",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If we stay here much longer, I think my ears might burst, Benefactor.”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "246",
+      "sol": "",
+      "sol_paragraphs": "after P119",
+      "sol_range": [
+        119,
+        119
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "은인",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Benefactor"
+        }
+      ]
+    },
+    {
+      "baseline": "“Yes. I’m not joking. I’ve never heard anything this loud.”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "250",
+      "sol": "“I’m serious. I’ve never heard anything this loud.”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s… never mind. Even if I explained it, Young Hero Cheong wouldn’t change.”",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "256",
+      "sol": "“It’s… never mind. Even if I told you, Young Hero Cheong wouldn’t change.”",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Normally, Cheongpung would have been armed with pure, unbridled curiosity and pressed me to explain what mirror therapy meant. This time, though, he simply continued in a quiet voice.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "258",
+      "sol": "Normally, Cheongpung would have kept after me until I explained it. This time, he went on whispering.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There are so many people. Seriously, so many. I stayed in Xining for a while once, but it wasn’t anything like this.”",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "260",
+      "sol": "“There are so many people. Seriously, so many. I stayed in Xining for a while, but it wasn’t anything like this.”",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheongpung had spent about a month in Qinghai Province before I had, so the change must have seemed even more striking to him.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "262",
+      "sol": "Cheongpung had spent about a month in Qinghai before I arrived, so the change must have struck him all the harder.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, I already had a good idea where this enormous crowd had come from.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "264",
+      "sol": "I had a good idea where the crowd had come from.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Everyone scattered across Qinghai Province must have gathered in Xining.*",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "266",
+      "sol": "*Everyone scattered across Qinghai must have gathered in Xining.*",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was only natural.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "268",
+      "sol": "",
+      "sol_paragraphs": "after P129",
+      "sol_range": [
+        129,
+        129
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The same thing had happened earlier in Shanxi, and then in Gansu.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "270",
+      "sol": "It was only natural. The same thing had happened earlier in Shanxi, then in Gansu.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Great Nation’s imperial court had already declared Dark Heaven rebels and foreign invaders. That was essential to alert the common people, many of whom still thought there was nothing to worry about.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "272",
+      "sol": "The Great Nation’s imperial court had already declared Dark Heaven rebels and foreign invaders. A warning like that was essential if the common people, many of whom still thought there was nothing to fear, were going to take the threat seriously.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unlike the Great Faction War, which had barely affected the common folk, Dark Heaven’s actions had long since gone far beyond the bounds of the Murim.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "274",
+      "sol": "The Great Faction War had done little harm to ordinary people. Dark Heaven, on the other hand, had long since carried its war far beyond the bounds of the Murim.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "If the Heavenly Demon of the past had set his sights on the Murim, the Lord of Heaven now wanted the whole world.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "276",
+      "sol": "The Heavenly Demon of the past had set his sights on the Murim. The Lord of Heaven wanted the whole world.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "278",
+      "sol": "No.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I forced down the unease that grew sharper with every passing moment and curled my lips into a smile.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "282",
+      "sol": "I pushed down the unease growing clearer by the moment and pulled my lips into a smile.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "So that the countless people surrounding us, covering every direction, might feel a little more at ease when they saw me smile.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "284",
+      "sol": "Perhaps, if the countless people around us saw me smiling, they’d feel a little safer.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Marquis of Shangshan has arrived!”",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "288",
+      "sol": "“The Marquis of Shangshan is here!”",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There might have been a great many people, but most of them knew little about the affairs of the Murim.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "292",
+      "sol": "For all their numbers, most of these people knew little about the Murim.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In their eyes, I wasn’t just a young martial artist. I was a divine general, carrying out the Son of Heaven’s solemn imperial command to punish foreign invaders and save them.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "294",
+      "sol": "To them, I wasn’t merely a young martial artist. I might as well have been a divine general sent under the Son of Heaven’s solemn command to defeat the invaders and save them.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the cheers growing louder by the moment, Cheongpung’s eyes widened.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "296",
+      "sol": "As the cheers swelled, Cheongpung’s eyes widened.",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I swallowed a bitter smile and replied in a low voice.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "300",
+      "sol": "I swallowed a bitter smile and answered quietly.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It looks that way. At least for now.”",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "302",
+      "sol": "“Looks that way. For now, at least.”",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They’ll keep liking you in the future, too. You’re that good a person!”",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "304",
+      "sol": "“They’ll like you from now on, too. You’re such a good person!”",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I let my voice trail off and looked at the welcoming crowd filling the city.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "308",
+      "sol": "My voice trailed off as I looked at the crowd filling the city.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At a glance, there were hundreds of thousands.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "310",
+      "sol": "Hundreds of thousands, at a glance. Maybe more.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Or perhaps it wouldn’t have been an exaggeration to say there were even more.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "312",
+      "sol": "",
+      "sol_paragraphs": "after P150",
+      "sol_range": [
+        150,
+        150
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At this very moment, all those people were smiling brightly and cheering for me. But I had no way of knowing how long those smiles would stay on their faces.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "314",
+      "sol": "They were smiling and cheering for me now. I had no way of knowing how long those smiles would last.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Or, if the worst really did come to pass, how many of them would survive.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "316",
+      "sol": "Or, if the worst really did happen, how many of them would survive.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Let’s do this. As much as we can.”",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "324",
+      "sol": "“Let’s try. As far as we can go.”",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I quietly added, still looking at the crowd:",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "326",
+      "sol": "Still watching the crowd, I added quietly, “Even if it costs us our lives.”",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“With our lives on the line.”",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "328",
+      "sol": "",
+      "sol_paragraphs": "after P157",
+      "sol_range": [
+        157,
+        157
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 159,
+  "sol_sha256": "dbcac91417d202458d0924db0a2b3a32b5cc2944e57e2db54e21f1bb852d0a55",
+  "version": 1
+}

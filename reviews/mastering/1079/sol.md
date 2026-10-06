@@ -6,7 +6,7 @@ Of course they could.
 
 They might even come out of it far more honest than they’d been before.
 
-Naturally, there might be a few minor complications along the way.
+There could be a few minor complications along the way, though.
 
 “Ugh… ugh…”
 
@@ -34,7 +34,7 @@ Hyuk Mujin nodded as though he’d gained a great insight and promptly raised hi
 
 “Oh. Are you a genius?”
 
-“Not a genius. Just exceptionally gifted.”
+“Not a genius. Just gifted.”
 
 “Of course.”
 
@@ -46,7 +46,7 @@ Mujin gasped in admiration and raised both hands this time.
 
 “He’s exaggerating.”
 
-“No, I’m serious. His body’s completely ice-cold, too.”
+“No, I’m serious. His body’s ice-cold, too.”
 
 “Huh. So it is.”
 
@@ -60,7 +60,7 @@ Mujin gasped in admiration and raised both hands this time.
 
 “What?”
 
-The moment Mujin looked at me as if to say, *What kind of bullshit is this idiot talking about now?* I reached out without hesitation.
+Mujin looked at me as if to say, *What kind of bullshit is this idiot talking about now?* I reached out without hesitation.
 
 *Boom!*
 
@@ -88,7 +88,7 @@ My palm struck the black-robed man’s chest, delivering a burst of Scorching Ya
 
 “I told you not to release his Mute Acupoint! Even with his internal energy sealed, he could die like this!”
 
-“If I’d sealed his Mute Acupoint, he might’ve drowned without getting a word out. Anyway, quit making a fuss and go fetch him.”
+“If I’d sealed that too, he might’ve drowned without getting a word out. Anyway, quit making a fuss and hurry up and fetch him.”
 
 “Fetch who?”
 
@@ -112,11 +112,11 @@ A moment later, a man who’d mastered two utterly different trades—assassinat
 
 “True enough. But keep treating him so roughly and he’s liable to die. At a time like this, you’d be better off stabbing deep, three vertebrae below the cervical spine, then slowly…”
 
-“Oh, that’s a handy tip. But wouldn’t that kill him?”
+“Oh, I hadn’t thought of that. But wouldn’t it kill him?”
 
 “He wouldn’t die. He’d wish he had.”
 
-The expert, second to none in the world when it came to taking apart and treating the human body, passed on his useful tip and left. The black-robed man, who had watched the whole thing unfold right before his eyes, began to thrash.
+The expert in both taking apart and repairing human bodies passed on his invaluable tip and left. The black-robed man, who had watched the whole exchange, began to thrash.
 
 “Mmph! Mmmph…”
 
@@ -128,7 +128,7 @@ The expert, second to none in the world when it came to taking apart and treatin
 
 “Yes, sir.”
 
-“Hold him down for a bit. I’m trying to practice, but it’s hard when he keeps shaking. I used a Pressure-Point Strike, and he’s still struggling this much. How badly is he thrashing around?”
+“Hold him down. I’m trying to practice, but he keeps shaking. He’s struggling this much even with his acupoints sealed?”
 
 “This insolent bastard. The Captain’s trying to practice. Heave-ho. Is that good?”
 
@@ -152,7 +152,7 @@ The expert, second to none in the world when it came to taking apart and treatin
 
 “Fair point. How about stabbing both spots?”
 
-“That’s not a bad idea. Shall we?”
+“That could work. Shall I?”
 
 “Yes, sir. Go ahead.”
 
@@ -160,9 +160,9 @@ The expert, second to none in the world when it came to taking apart and treatin
 
 *Rrrrrumble!*
 
-The deck shook as if an earthquake had hit—though that might be a slight exaggeration.
+All right, the deck wasn’t actually shaking like there’d been an earthquake, but it came close.
 
-The black-robed man thrashed with all his might despite the Pressure-Point Strike. I let out a quiet laugh to myself, then released his Mute Acupoint.
+The black-robed man thrashed with all his might despite his sealed acupoints. I laughed quietly to myself and released his Mute Acupoint.
 
 “Gah! Cough, cough!”
 
@@ -192,7 +192,7 @@ One look at the terror in his eyes, one listen to his voice, and I knew he’d b
 
 “What about you, Captain?”
 
-“I’m about to get busy with something else. Isn’t that right?”
+“I think I’m about to be busy with something else. Isn’t that right?”
 
 At my sudden question, Hak Su swallowed hard. He’d watched the whole scene with the expression of a man who’d seen a ghost.
 
@@ -200,7 +200,7 @@ At my sudden question, Hak Su swallowed hard. He’d watched the whole scene wit
 
 “Oh, right. You can’t see it yet. Over there.”
 
-Just as I raised my hand and pointed beyond the bow—
+I raised a hand and pointed beyond the bow.
 
 *Whoosh.*
 
@@ -208,7 +208,7 @@ The thick mist parted, revealing the green land it had hidden.
 
 A group had gathered at the pier to wait for us. Beyond them, faint gray city walls rose in the distance.
 
-Xining, the capital of Qinghai Province and the last stronghold against Dark Heaven.
+The capital of Qinghai and our last stronghold against Dark Heaven.
 
 *So that’s Xining.*
 
@@ -230,15 +230,15 @@ No. *Massive* wouldn’t have been an exaggeration.
 
 Was this what those Roman triumphs I’d seen in textbooks had been like?
 
-The cheers swelled as we drew closer to the walls, then shook the whole city the moment we entered. Everywhere I looked, the streets were packed with dark masses of people.
+The cheers grew louder as we approached the walls. The moment we entered the city, they shook everything around us. Everywhere I looked, crowds filled my view.
 
-They filled the broad avenues and narrow alleys, as well as the rooftops of countless buildings—including rows of pavilions—and stretched both arms toward us as they cheered.
+They packed the broad avenues and narrow alleys, even the rooftops of the buildings lining the streets, and reached both arms toward us as they cheered.
 
 Even Cheongpung, who usually loved attention, swallowed nervously and whispered, “If this goes on much longer, my ears might burst, Benefactor.”
 
 “Yeah?”
 
-“Yes. I’m not joking. I’ve never heard anything this loud.”
+“I’m serious. I’ve never heard anything this loud.”
 
 “Mirror therapy works, all right.”
 
@@ -246,13 +246,13 @@ Even Cheongpung, who usually loved attention, swallowed nervously and whispered,
 
 “It’s… never mind. Even if I told you, Young Hero Cheong wouldn’t change.”
 
-Normally, Cheongpung would have been armed with pure, unbridled curiosity and pressed me to explain what mirror therapy meant. This time, though, he simply continued in a quiet voice.
+Normally, Cheongpung would have kept after me until I explained it. This time, he went on whispering.
 
 “There are so many people. Seriously, so many. I stayed in Xining for a while, but it wasn’t anything like this.”
 
 Cheongpung had spent about a month in Qinghai before I arrived, so the change must have struck him all the harder.
 
-Of course, I already had a good idea where this enormous crowd had come from.
+I had a good idea where the crowd had come from.
 
 *Everyone scattered across Qinghai must have gathered in Xining.*
 
@@ -260,17 +260,17 @@ It was only natural. The same thing had happened earlier in Shanxi, then in Gans
 
 The Great Nation’s imperial court had already declared Dark Heaven rebels and foreign invaders. A warning like that was essential if the common people, many of whom still thought there was nothing to fear, were going to take the threat seriously.
 
-Unlike the Great Faction War, which had barely affected the common folk, Dark Heaven’s actions had long since gone far beyond the bounds of the Murim.
+The Great Faction War had done little harm to ordinary people. Dark Heaven, on the other hand, had long since carried its war far beyond the bounds of the Murim.
 
-If the Heavenly Demon of the past had set his sights on the Murim, the Lord of Heaven now wanted the whole world.
+The Heavenly Demon of the past had set his sights on the Murim. The Lord of Heaven wanted the whole world.
 
-No—
+No.
 
 *Maybe even more than that.*
 
-I forced down the unease that grew sharper with every passing moment and curled my lips into a smile.
+I pushed down the unease growing clearer by the moment and pulled my lips into a smile.
 
-So that the countless people surrounding us, covering every direction, might feel a little more at ease when they saw me smile.
+Perhaps, if the countless people around us saw me smiling, they’d feel a little safer.
 
 “It’s Blazing Flame Divine Dragon Jin Taekyung!”
 
@@ -280,7 +280,7 @@ So that the countless people surrounding us, covering every direction, might fee
 
 For all their numbers, most of these people knew little about the Murim.
 
-In their eyes, I wasn’t just a young martial artist. I was a divine general, carrying out the Son of Heaven’s solemn imperial command to punish foreign invaders and save them.
+To them, I wasn’t merely a young martial artist. I might as well have been a divine general sent under the Son of Heaven’s solemn command to defeat the invaders and save them.
 
 As the cheers swelled, Cheongpung’s eyes widened.
 
@@ -298,7 +298,7 @@ My voice trailed off as I looked at the crowd filling the city.
 
 Hundreds of thousands, at a glance. Maybe more.
 
-At this very moment, all those people were smiling brightly and cheering for me. But I had no way of knowing how long those smiles would stay on their faces.
+They were smiling and cheering for me now. I had no way of knowing how long those smiles would last.
 
 Or, if the worst really did happen, how many of them would survive.
 

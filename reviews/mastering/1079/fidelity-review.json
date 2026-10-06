@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "you were too terrified to think straight, let alone worry about offending him.",
+      "defect": "The Korean says the person is incapable of rational judgment to the point that such concerns no longer matter to them. “Too terrified” adds a specific cause, and “let alone worry about offending him” narrows the source’s broader point.",
+      "id": "F01",
+      "rationale": "The source describes the loss of rational judgment and concern; it does not explicitly attribute that state to terror.",
+      "replacement": "you were no longer capable of rational thought, to the point where something like that didn’t even matter.",
+      "severity": "minor",
+      "source": "Korean source line 184"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even if it costs us our lives.",
+      "defect": "This suggests their effort may cost them their lives, while the Korean says they will stake their lives on doing all they can.",
+      "id": "F02",
+      "rationale": "목숨을 걸고 means putting their lives at stake, not necessarily losing them.",
+      "replacement": "With our lives on the line.",
+      "severity": "minor",
+      "source": "Korean source line 328"
+    }
+  ],
+  "summary": "The translation is largely faithful, but two lines shift the source’s meaning.",
+  "version": 1
+}
