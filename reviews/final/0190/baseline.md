@@ -12,7 +12,7 @@ The chair he had been sitting in moments ago clattered loudly across the ground,
 
 “W-What just happened?”
 
-They had thought it was over. Jin Taekyung had displayed far greater skill than expected, but in the end, he had lost his weapon to Chulwoo's Fist Energy.
+They had thought it was over. Jin Taekyung had displayed far greater skill than expected, but in the end, he had lost his weapon to Chulwoo's Fist Qi.
 
 A spearman without a spear against a Peak fist fighter. The outcome was obvious.
 
@@ -172,7 +172,7 @@ Though I couldn't see his face, Chulwoo was probably wearing a similar expressio
 
 “C-Could that have been Shifting Form and Position?”
 
-“Your hyung’s[^1] pretty fast, you know. Surprised?”
+“Your hyung’s pretty fast, you know. Surprised?”
 
 “You dodged Crouching Tiger Fist that easily…”
 
@@ -250,11 +250,13 @@ Ah, a man blinded by love.
 
 I let out a heavy sigh.
 
-“Chul-thetic, Pawoo.”[^2]
+“Chul-thetic, Pawoo.”[^1]
 
 “Are those your last words?”
 
 “No. Words of wisdom.”
+
+[^1]: Taekyung mangles “Pathetic, Chulwoo” by swapping the opening sounds.
 
 “You spout nonsense whenever you get the chance. Give up on Young Lady Lee, and I’ll let you off here.”
 
@@ -294,9 +296,9 @@ Not even Chulwoo, with his enormous frame and innate divine strength, could over
 
 My grinning face was reflected in his horrified eyes.
 
-“Your hyung’s[^1] Strength alone is over 300. I was stronger than you even before I allocated those points.”
+“Your hyung’s Strength alone is over 300. I was stronger than you even before I allocated those points.”
 
-Fist Energy? It meant nothing if it couldn’t hit me. Strength, speed—I surpassed him in every respect. Even if we had kept fighting as we were, I would have won in the end.
+Fist Qi? It meant nothing if it couldn’t hit me. Strength, speed—I surpassed him in every respect. Even if we had kept fighting as we were, I would have won in the end.
 
 Even so, there was a simple reason I had bothered allocating the points.
 
@@ -332,7 +334,7 @@ After a brief silence, thunderous cheers engulfed the Grand Training Ground.
 
 * * *
 
-At the main gate of the Jin Family of Taiyuan, some six hundred meters[^3] from the Grand Training Ground, a low-ranking martial artist who had been listening with perked ears to the resounding cheers made a fuss.
+At the main gate of the Jin Family of Taiyuan, some six hundred meters from the Grand Training Ground, a low-ranking martial artist who had been listening with perked ears to the resounding cheers made a fuss.
 
 “Did you hear that?”
 
@@ -352,7 +354,7 @@ Someone leaning crookedly against the gate answered.
 
 “No. It doesn't surprise me anymore.”
 
-Hyuk Mujin, Captain of the Gatekeepers of the Jin Family of Taiyuan, yawned widely and continued.
+Hyuk Mujin yawned widely and continued.
 
 “I’ve followed that fellow around and seen all kinds of things. Defeating the Defeated Flower Fist is the least he’d have to do before I could call him my lord.”
 
@@ -431,7 +433,3 @@ He slowly raised his head and saw a gaunt old man accompanied by three middle-ag
 The old man at the front stared at Hyuk Mujin with blazing eyes.
 
 “Jin Taekyung and Cheongpung. Take me to those two bastards at once.”
-
-[^1]: *Hyung* is a Korean term a man uses for an older brother or an older male acquaintance. Taekyung uses it to refer to himself when addressing Chulwoo.
-[^2]: Taekyung mangles “Pathetic, Chulwoo” by swapping the opening sounds.
-[^3]: Six hundred meters is about 0.37 mi.
