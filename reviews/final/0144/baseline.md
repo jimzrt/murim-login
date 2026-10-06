@@ -88,7 +88,7 @@ Jopil was the only one I could honestly claim to have defeated entirely through 
 
 *The Inventory is fucking amazing. And nobody can withstand a group beating.*
 
-*Whenever things look hopeless, try digging through your Inventory. You might find an elixir worth half a jiazi[^1] or a weapon made of Ten-Thousand-Year Cold Iron.*
+*Whenever things look hopeless, try digging through your Inventory. You might find an elixir worth half a jiazi or a weapon made of Ten-Thousand-Year Cold Iron.*
 
 *…I can’t exactly answer that way.*
 
@@ -158,7 +158,7 @@ I looked at Zhu Bao, who was gazing fondly at the wooden tablet, and thought,
 
 *He’s going to hang that on the signboard of the Shanxi Provincial Office?*
 
-Dreams☆come true.[^2]
+*Dreams☆come true.*
 
 —Sleeping Dragon of Shanxi, Jin Taekyung—
 
@@ -292,7 +292,9 @@ Li Feng replied calmly, then turned to me.
 
 “I’ll get straight to the point. We need an Escort Bureau capable of expanding into the Central Plains, starting with Shaanxi.”
 
-Ah, I had a rough idea of what was going on.
+*Ah.*
+
+I had a rough idea of what was going on.
 
 They were asking the Jin Family of Taiyuan to provide material or human resources.
 
@@ -338,7 +340,7 @@ I drained my cup of liquor with an embarrassed look, only to meet the eyes of th
 
 Oh, right. I’d almost forgotten something.
 
-“Excuse me. Comrade Chairman[^3]—no, Deputy Military Commissioner.”
+“Excuse me. Comrade Chairman—no, Deputy Military Commissioner.”
 
 “Yes?”
 
@@ -355,7 +357,3 @@ Unlike the bewildered Li Feng, Hong Jin grinned.
 “That’s why we have to chew thoroughly.”
 
 One look at their Young Bureau Head had told me exactly what we were dealing with. With Hong Jin and Li Feng backing the Jin Family of Taiyuan as it now stood, we could chew them up bones and all—and still digest them.
-
-[^1]: A *jiazi* is a traditional sixty-year cycle; half a jiazi is thirty years.
-[^2]: “Dreams come true” is a slogan associated with South Korea’s run at the 2002 FIFA World Cup.
-[^3]: “Comrade Chairman” imitates a North Korean style of addressing a leader.
