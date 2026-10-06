@@ -106,7 +106,7 @@ Baek Museong gave his shoulder an approving pat.
 
 “Every time I look at you, I get confused. Am I a disciple of Huashan or a monk from Shaolin Temple?”
 
-“Could someone with your personality possibly become a monk? I already pity all the wooden fish[^1] you’d smash.”
+“Could someone with your personality possibly become a monk? I already pity all the wooden fish you’d smash.”
 
 Baek Museong let out a quiet laugh, and Chulwoo sighed.
 
@@ -234,8 +234,6 @@ Baek Museong put a hand to his head.
 
 Just then—
 
-Whoosh.
-
 Hundreds of people began murmuring as they parted like a field of reeds before the wind.
 
 At the end of the open path stood a man like an iron tower. Chulwoo muttered without realizing it,
@@ -278,7 +276,7 @@ Damn it. This is disgusting. I’ll stop there.
 
 “How far are we?”
 
-“We just passed the ninth village, so… We should arrive in half a shichen[^2] at the earliest, or one full shichen[^2] at the latest.”
+“We just passed the ninth village, so… We should arrive in half a shichen at the earliest, or one full shichen at the latest.”
 
 The sunlight pouring down made my eyes sting. I looked up at the sun as it slowly climbed toward the middle of the sky.
 
@@ -312,11 +310,11 @@ If I were alone, it might be different. But with other people watching, it would
 
 It wasn’t that I resented being saddled with a troublesome object. I simply hated the thought of having to meet Fire King Jeok Cheongang—that terrifying old man—again.
 
-“Let’s meet again soon.”
+*Let’s meet again soon.*
 
 *Meet again, my ass.*
 
-Every time I remembered what he had said a few shichen[^2] ago, my stomach churned.
+Every time I remembered what he had said a few shichen ago, my stomach churned.
 
 Hyuk Mujin, who had been sneaking glances at me from time to time, asked,
 
@@ -417,6 +415,3 @@ People were walking down a well-kept road. Farther ahead lay a broad expanse of 
 *The Jin Family of Taiyuan.*
 
 I was back after three days away.
-
-[^1]: A wooden fish is a hollow wooden percussion instrument struck to keep rhythm during Buddhist chanting.
-[^2]: A *shichen* is a traditional Chinese time unit of approximately two hours; half a shichen is approximately one hour.
