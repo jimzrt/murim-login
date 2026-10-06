@@ -4,7 +4,7 @@ It was like watching two enormous waves swallow each other.
 
 There were a few differences. This was a vast snowy plain, not the sea. The waves were made of countless people and flashing blades, not water. And the spray thrown up by their collision was red as blood.
 
-No—it was blood itself.
+No. It was blood.
 
 KRRRUNCH!
 
@@ -24,7 +24,7 @@ And through the snowy plain, already awash with blood and screams, spearheads dr
 
 Whoooosh.
 
-The hem of a Daoist robe whipped violently, as if caught in a storm, under the force of an overwhelming aura.
+The hem of a Daoist robe whipped as though caught in a storm, driven by a tremendous surge of qi.
 
 The Wind-and-Cloud Sword Lord had split five enemies apart with a single stroke. Now he brought his sword down at an angle, its blade enlarged by milky-white Force.
 
@@ -36,7 +36,7 @@ KWA-BOOOOM!
 
 The ground heaved with a deafening crash, and flesh and bone scattered in every direction.
 
-Yet even after witnessing the grisly sight from point-blank range, the followers who had begun worshiping a new god called the Lord of Heaven didn’t so much as blink.
+Yet the followers who had begun worshiping a new god called the Lord of Heaven didn’t so much as blink at the grisly sight before them.
 
 No—more precisely, they kept advancing, gazing at the Wind-and-Cloud Sword Lord with hazy eyes as though entranced.
 
@@ -48,7 +48,7 @@ All the while, they murmured their eight-character creed without pause.
 
 CRUNCH!
 
-Their hollow, almost chilling voices ended only when they died.
+Their hollow, chilling voices seemed to stop only when they died.
 
 At least, that was what the Wind-and-Cloud Sword Lord believed in that moment.
 
@@ -58,7 +58,7 @@ Blood bubbled in a follower’s slashed throat.
 
 His neck had been cut by the Wind-and-Cloud Sword Lord’s sword, yet he went on muttering as the light slowly faded from his eyes.
 
-“Heaven above… gurgle… hea…”
+“Heaven… gurgle… hea…”
 
 THUNK!
 
@@ -78,7 +78,7 @@ Then he understood what had felt so familiar.
 
 Fear.
 
-They had no fear.
+These people had none.
 
 Though they clearly knew he was a stronger opponent they could never defeat, the followers of Dark Heaven kept surging toward him as though they had been born for this very moment.
 
@@ -86,7 +86,7 @@ Spraying red blood instead of white sea foam.
 
 Screeeee!
 
-The tip of his sword swept toward the enemies closing in from every direction.
+His sword swept toward the enemies closing in from every direction.
 
 The Heavenly River Thirty-Six Swords.
 
@@ -96,7 +96,7 @@ SHING! THUD-THUD!
 
 Corpses collapsed amid the sickening sounds of torn flesh.
 
-Yet one enemy, his chest deeply cut along with one arm, didn’t crumple with a groan of pain. He reached out with his one remaining hand.
+Yet one enemy, whose chest had been split open along with one arm, did not fall with a groan of pain. He reached out with his remaining hand.
 
 BOOM!
 
@@ -126,7 +126,7 @@ The Wind-and-Cloud Sword Lord bit his lip, feeling a fear he hadn’t known sinc
 
 Swoooosh!
 
-Along with a rush of overlapping whistles, an immense force tore into one side of the battlefield.
+Overlapping whistles cut through the air as an immense surge of qi tore into one side of the battlefield.
 
 KWA-BOOOOM!
 
@@ -144,7 +144,7 @@ Stunned by the loss of fellow disciples they had known since childhood, they sta
 
 Two men covered in pitch black from head to toe.
 
-No—the Blood-Sword Demon Lord had called them Black Ghosts, and the name suited these unknown beings all too well.
+No—unknown beings for whom the Blood-Sword Demon Lord’s name, Black Ghosts, was all too fitting.
 
 Sssaaaaa.
 
@@ -156,9 +156,9 @@ The Zhongnan Sect disciples began to tremble without realizing it. The energy gr
 
 Strained breaths escaped all around.
 
-Everyone was crushed beneath their chilling aura—an overwhelming force known as *Fear* somewhere far away.
+Almost everyone was crushed beneath that chilling aura—an overwhelming force known somewhere far away as *Fear*.
 
-No—almost everyone.
+Almost everyone.
 
 SHWOOF!
 
@@ -180,19 +180,19 @@ Whoooosh! CLANG!
 
 The moment those immense forces collided, the Wind-and-Cloud Sword Lord’s eyes widened.
 
-His beloved sword, which had cut through the wind, was being knocked aside by an axe blade swinging with the wind, erasing his sword images as it swept through them.
+His beloved sword, which had cut through the wind, was being forced aside by an axe blade that swept along with it, wiping away his sword images.
 
 “What is this…!”
 
 GRRRK. KWAANG!
 
-Before the Wind-and-Cloud Sword Lord could finish his cry of shock, the blade finally gave way to the immense force and was sent flying. It trembled violently.
+Before he could finish his cry, his sword blade gave way to the tremendous force and was knocked aside, trembling violently.
 
 KRRUNCH!
 
-The Wind-and-Cloud Sword Lord slid back, his foot carving a deep furrow in the ground. He barely steadied himself, pain stabbing through his wrist.
+His feet slid back, carving deep furrows in the ground. He barely steadied himself, pain stabbing through his wrist.
 
-Far worse than the pain was the shock.
+The shock went far deeper.
 
 “Y-You…”
 
@@ -220,7 +220,7 @@ And…
 
 “He should have died.”
 
-One of the twenty-four great fiends under the Heavenly Demon, who had met his end right there on that day.
+One of the twenty-four great fiends under the Heavenly Demon, who had met his end on that very battlefield.
 
 “Then… how?”
 
@@ -292,11 +292,11 @@ A wave of magical power, darker than storm clouds and thick as blood, swept in e
 
 Rumble…
 
-At some point, a distant crash rang out from somewhere behind me. I forced my head to stay facing forward, even as instinct urged me to turn.
+A distant crash sounded from somewhere behind me. I fought the instinct to turn my head.
 
 Swoosh—thunk!
 
-An arrow passed my side by a finger’s breadth and buried itself in an enemy approaching from my blind spot.
+An arrow grazed my side by a finger’s breadth and buried itself in an enemy approaching from my blind spot.
 
 The arrow had clearly carried internal energy, but the bastard charged at me as if he hadn’t felt a speck of pain. Crimson Saber Force gathered along his crescent saber as he swung it.
 
@@ -308,7 +308,7 @@ My foot snapped out a beat ahead of him. I felt his shin bones shatter beneath t
 
 He was plainly out of the fight.
 
-But I didn’t stop there. I flung out one hand at the bastard, slumped to the ground with his shin crushed.
+But I didn’t stop. As he slumped to the ground with his shin crushed, I flicked a hand toward him.
 
 *Inventory open. Summon.*
 
@@ -316,7 +316,7 @@ A dagger appeared in my empty hand and flew the instant my fingers closed around
 
 Thud. Thump!
 
-By the time I heard him fall, I’d already moved another three *jang* ahead.
+By the time I heard him fall, I had already covered another three *jang*.
 
 Beside me was the Fire King, Jeok Cheongang.
 

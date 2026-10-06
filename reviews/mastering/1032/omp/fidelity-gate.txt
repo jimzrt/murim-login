@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it changes a source-specific image and loses a physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 23",
+      "current": "spearheads drove fiercely toward the heart of the battle",
+      "defect": "The Korean describes awls cutting through the battle’s center. “Spearheads” changes that image to actual spear points or a vanguard.",
+      "replacement": "awls cut fiercely through the heart of the battle",
+      "rationale": "송곳들 means awls, and 가로지르는 describes them cutting across the center. The accepted baseline preserved the awl image.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Paragraph 291",
+      "current": "thick as blood",
+      "defect": "The Korean describes the magical power as sticky or viscous like blood, not merely thick.",
+      "replacement": "sticky as blood",
+      "rationale": "끈적한 conveys stickiness or viscosity; “thick” loses that physical quality.",
+      "confidence": 0.9
+    }
+  ]
+}
