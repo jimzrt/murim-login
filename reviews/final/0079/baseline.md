@@ -8,7 +8,7 @@ Only then did the memories of last night gradually come back to me.
 
 Good God. A champagne party at a hotel.
 
-Put that way, I felt like I’d become the third-generation heir to some chaebol[^1] family. Then again, Team Leader Choi might actually be one.
+Put that way, I felt like I’d become the third-generation heir to some chaebol family. Then again, Team Leader Choi might actually be one.
 
 “Khrrr-heeeurk. Khrrp!”
 
@@ -16,7 +16,7 @@ Put that way, I felt like I’d become the third-generation heir to some chaebol
 
 That man really was a bandit.
 
-What kind of snoring sounded like someone shouting? Jin-ho hyung[^2] was a champion snorer himself, but next to this guy, he might as well have been on mute.
+What kind of snoring sounded like someone shouting? Jinho hyung was a champion snorer himself, but next to this guy, he might as well have been on mute.
 
 *If I were the hotel manager, I would’ve kicked him out long ago—*
 
@@ -68,7 +68,7 @@ I wouldn’t have minded eating combat rations for breakfast as long as I was ea
 
 “Then could you wake Uncle Kkeokjeong first?”
 
-“……Why Kkeokjeong Hyung-nim?[^2]”
+“……Why Kkeokjeong Hyung-nim?”
 
 “Didn’t you check the chat?”
 
@@ -77,12 +77,24 @@ Miss Song held out her smartphone.
 The Guild group chat we had created last night was open on the screen.
 
 > **Peace Guild**
-> └ **Team Leader Choi:** Is everyone awake?
-> └ **Butler Kim:** I’m up.
-> └ **Song Song:** I’m up too.
-> └ **Team Leader Choi:** What about the other two?
-> └ **Song Song:** They’re snoring.
-> └ **Team Leader Choi:** ……Wake them up and come to the restaurant on the first floor.
+>
+> **Team Leader Choi**  
+> Is everyone awake?
+>
+> **Butler Kim**  
+> I’m up.
+>
+> **Song Song**  
+> I’m up too.
+>
+> **Team Leader Choi**  
+> What about the other two?
+>
+> **Song Song**  
+> They’re snoring.
+>
+> **Team Leader Choi**  
+> ……Wake them up and come to the restaurant on the first floor.
 
 “……”
 
@@ -110,13 +122,13 @@ Team Leader Choi was sitting by the window. He waved when he saw us.
 
 “I ordered ahead. Eat before it gets cold.”
 
-Since it was a hotel breakfast, I had expected something like an absurdly tiny serving of pasta. Instead, a steaming bowl of haejangguk sat on the table.[^3]
+Since it was a hotel breakfast, I had expected something like an absurdly tiny serving of pasta. Instead, a steaming bowl of haejangguk sat on the table.[^1]
 
 “Ah, now that’s Team Leader Choi!”
 
 “You really know your stuff, Team Leader.”
 
-I still had some of last night’s hangover left, but one bowl of haejangguk[^3] seemed like it would make circulating my qi unnecessary.
+I still had some of last night’s hangover left, but one bowl of haejangguk seemed like it would make circulating my qi unnecessary.
 
 Team Leader Choi shook his head at our reactions.
 
@@ -134,7 +146,7 @@ Slurp.
 
 “Ah, that hits the spot. What are you all doing? You should eat while the broth’s still hot.”
 
-Watching Miss Song dig into her haejangguk[^3] warmed a corner of my heart. Even the way she ate was delightful.
+Watching Miss Song dig into her haejangguk warmed a corner of my heart. Even the way she ate was delightful.
 
 *So this is what it means when simply looking at someone fills you up.*
 
@@ -148,9 +160,9 @@ What? Wasn’t this supposed to be the part where we went home and rested?
 
 Im Kkeokjeong cut in, patting his bulging belly.
 
-“Where else? We’ve got to keep the party going from yesterday. How about makgeolli[^4] today? I know a good place.”
+“Where else? We’ve got to keep the party going from yesterday. How about makgeolli today?[^2] I know a good place.”
 
-“Oh, I really like makgeolli[^4] too.”
+“Oh, I really like makgeolli too.”
 
 Butler Kim, who had been quietly listening to us, smiled and continued.
 
@@ -384,7 +396,6 @@ I answered as casually as I could and turned away, but my thoughts were anything
 
 *This raid is dangerous.*
 
-[^1]: A chaebol is a large, family-controlled South Korean business conglomerate.
-[^2]: Hyung is a term a man uses for an older brother or older male friend. Hyung-nim is a more deferential form.
-[^3]: Haejangguk, literally “hangover soup,” is a Korean soup traditionally eaten after drinking to help ease a hangover.
-[^4]: Makgeolli is a traditional Korean rice wine with a milky appearance and a mildly sweet, tangy flavor.
+[^1]: Haejangguk, literally “hangover soup,” is a Korean soup traditionally eaten after drinking to help ease a hangover.
+
+[^2]: Makgeolli is a traditional Korean rice wine with a milky appearance and a mildly sweet, tangy flavor.

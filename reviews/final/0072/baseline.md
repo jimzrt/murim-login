@@ -28,7 +28,7 @@ Half-finished.
 
 That might have been the most accurate description of my current state. I was both a Hunter and a martial artist.
 
-“Sleeping Dragon of Shanxi? Supreme First Rate master? Even a passing dog would laugh. You’re nothing but a brawler. You’re sloppy for a martial artist, and you don’t even fight as pragmatically as a wandering martial artist. Don’t mistake surviving through good luck for skill.”
+“Sleeping Dragon of Shanxi? First Rate master? Even a passing dog would laugh. You’re nothing but a brawler. You’re sloppy for a martial artist, and you don’t even fight as pragmatically as a wandering martial artist. Don’t mistake surviving through good luck for skill.”
 
 I barely managed to open my mouth.
 
@@ -46,7 +46,7 @@ Jin Mukyung clicked his tongue.
 
 *What is this bastard, a stalker?*
 
-I felt like Sun Wukong trapped in the Buddha’s palm.[^1] His guess was that accurate.
+I felt like Sun Wukong trapped in the Buddha’s palm. His guess was that accurate.
 
 “Let me make this clear.”
 
@@ -78,7 +78,7 @@ A fully realized Peak martial artist and a genius of martial arts.
 
 And—
 
-“…Hyung.”[^2]
+“…Hyung.”
 
 My older brother.
 
@@ -90,9 +90,9 @@ Ding.
 
 * * *
 
-Murim people were a proud lot. Even a Third Rate wandering martial artist who wore a rusty sword at his waist and drank cheap baijiu[^3] was like that, so the arrogance of scions from prestigious sects reached the heavens.
+Murim people were a proud lot. Even a Third Rate wandering martial artist who wore a rusty sword at his waist and drank cheap baijiu was like that, so the arrogance of scions from prestigious sects reached the heavens.
 
-“Help me, hyung.”[^2]
+“Help me, hyung.”
 
 In that sense, this guy had become a decent human being. Three years ago, he would have run to his eldest brother with tears in his eyes… but he had grown. Far more than expected.
 
@@ -112,7 +112,7 @@ He had the eye to grasp martial arts at a glance, excellent instincts in real co
 
 Given time, his weaknesses would be filled in and his excesses smoothed out. When that happened, Jin Taekyung’s martial arts would be complete.
 
-Like taiji[^4] achieving harmony.
+Like taiji achieving harmony.
 
 *Taiji? Is that a little too grandiose?*
 
@@ -126,7 +126,7 @@ He had to leave and return to Heaven’s Gate Temple within fifteen days at the 
 
 “What are you doing? Pick up your spear.”
 
-“Hyung!”[^2]
+“Hyung!”
 
 Seeing Jin Taekyung’s face light up, Jin Mukyung suddenly had a thought.
 
@@ -174,9 +174,9 @@ Once the two of them were alone, Jin Wikyung began speaking in a solemn voice.
 
 “Oh, goodness. Of course not.”
 
-The servant, Childeuk, did nothing but nod repeatedly. He was illiterate and could not even get through the Thousand Character Classic,[^5] but he still had ears to hear and eyes to see.
+The servant, Childeuk, did nothing but nod repeatedly. He was illiterate and could not even get through the Thousand Character Classic, but he still had ears to hear and eyes to see.
 
-After its victory in the recent war, the Jin Family of Taiyuan had risen to become the foremost family in Shanxi. Its Lesser Family Head, Jin Wikyung, had begun to be called the Junzi Sword[^6] for his swift recovery efforts and fair handling of the aftermath.
+After its victory in the recent war, the Jin Family of Taiyuan had risen to become the foremost family in Shanxi. Its Lesser Family Head, Jin Wikyung, had begun to be called the Junzi Sword[^1] for his swift recovery efforts and fair handling of the aftermath.
 
 *Why would such a great man want me?*
 
@@ -266,7 +266,7 @@ No matter how open-minded he was, this was too much.
 
 Personal sexual preferences were one thing, but he had no desire to become their object. Jin Wikyung swallowed hard.
 
-“Then… are you really into men?”[^7]
+“Then… are you really into men?”[^2]
 
 Childeuk’s eyes flashed. His heart pounded at the thought of wearing the navy-blue uniform of the Jin Family’s martial artists.
 
@@ -316,7 +316,7 @@ The most important duty given to Childeuk, an exceptional servant possessing all
 
 * * *
 
-**Training Day 1**
+### Training Day 1
 
 I decided to start keeping a diary today.
 
@@ -326,7 +326,7 @@ Under Jin Mukyung’s guidance, I did nothing but swing a spear all day. Every d
 
 This is my first time grinding ink, and it’s surprisingly fun.
 
-**Training Day 2**
+### Training Day 2
 
 I swung my spear to the point of death again today. Maybe that’s why my Strength and Stamina stats increased, and the Jin Family’s Spear Technique reached the ninth stage.
 
@@ -336,13 +336,13 @@ Still, Jin Mukyung must have his reasons.
 
 Grinding ink is getting a little annoying. I’m tired.
 
-**Training Day 3**
+### Training Day 3
 
 The Jin Family’s Spear Technique again. I asked him to teach me another martial art and got beaten half to death. He said my mind was rotten.
 
 While desperately dodging his attacks, the Jin Family’s Manoeuvre Technique rose to the eighth stage. Damn it. This is surprisingly effective.
 
-**Training Day 4**
+### Training Day 4
 
 I haven’t slept more than two hours a day since training began.
 
@@ -350,7 +350,7 @@ Most of my time is spent repeating the same cycle with Jin Mukyung: training, sp
 
 Even with the System, I’m starting to reach my physical limit.
 
-**Training Day 5**
+### Training Day 5
 
 My arms hurt, so I only ground a little ink.
 
@@ -358,13 +358,13 @@ The sky is yellow.
 
 Going to sleep.
 
-**Training Day 6**
+### Training Day 6
 
 I don’t understand why the System doesn’t have a notepad function.
 
 I got pissed off while grinding ink and broke the inkstone. Jin Mukyung beat me.
 
-**Training Day 7**
+### Training Day 7
 
 The Jin Family’s Manoeuvre Technique reached the ninth stage. My Level also increased by one.
 
@@ -372,7 +372,7 @@ I’ve practiced it so relentlessly that these days, I even use the footwork whe
 
 I got goose bumps.
 
-**Training Day 8**
+### Training Day 8
 
 My hands and feet keep getting tangled today. It feels like these aren’t the martial arts I know anymore.
 
@@ -382,7 +382,7 @@ The martial arts I’ve performed thousands—even tens of thousands—of times 
 
 I got beaten because my expression was disrespectful.
 
-**Training Day 9**
+### Training Day 9
 
 I think I get it.
 
@@ -424,16 +424,6 @@ Ding. Ding. Ding.
 
 A wave of System notifications swept over me.
 
-[^1]: Sun Wukong, the Monkey King of *Journey to the West*, could not escape the Buddha’s palm despite his extraordinary powers.
+[^1]: *Junzi* is a Confucian ideal referring to a morally upright and cultivated gentleman.
 
-[^2]: *Hyung* is a Korean term a man uses to address an older brother or an older man with whom he is close.
-
-[^3]: *Baijiu* is a Chinese distilled liquor.
-
-[^4]: *Taiji* is a Chinese philosophical concept in which complementary forces form a balanced whole.
-
-[^5]: The *Thousand Character Classic* is a classical Chinese text used to teach literacy.
-
-[^6]: *Junzi* is a Confucian ideal referring to a morally upright and cultivated gentleman.
-
-[^7]: In Korean, *nam-saek* can refer both to male homosexuality and to the color navy blue, creating the misunderstanding between Jin Wikyung and Childeuk.
+[^2]: In Korean, *nam-saek* can refer both to male homosexuality and to the color navy blue, creating the misunderstanding between Jin Wikyung and Childeuk.

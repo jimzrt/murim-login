@@ -12,9 +12,7 @@ As my gaze passed from one unfamiliar face to the next, Level displays popped in
 
 Most of them were around the same level. Then I reached the ninth man.
 
-> **System**
->
-> Lv. 22 Hyuk Mujin
+> **Lv. 22 Hyuk Mujin**
 
 The number jumped sharply. His face was familiar, too.
 
@@ -34,9 +32,7 @@ Ignoring Hyuk Mujin’s piercing stare, I turned to the tenth member of the reco
 
 “Young Master—no, Squad Leader! I look forward to serving under you.”
 
-> **System**
->
-> Lv. 13 Han Yeop
+> **Lv. 13 Han Yeop**
 
 It seemed the war had forced some people into new assignments. The White Tiger Hall clerk I’d met earlier had said the reconnaissance squads were made up of martial artists drawn from several different posts.
 
@@ -90,9 +86,7 @@ But the most important question remained.
 
 Four hands dropped weakly. I looked at the only member of the reconnaissance squad who still had his hand raised.
 
-> **System**
->
-> Lv. 22 Hyuk Mujin
+> **Lv. 22 Hyuk Mujin**
 
 “How many?”
 
@@ -230,7 +224,7 @@ Ding. Ding. Ding.
 
 A large bell tolled three times.
 
-Since individuals here had no way to tell the exact time, bells rang at set hours. The three tolls marked Mi-si, roughly one to three in the afternoon.
+Since individuals here had no way to tell the exact time, bells rang at set hours. The three tolls marked Mi-si, roughly one to three in the afternoon.[^1]
 
 And—
 
@@ -294,7 +288,7 @@ Jin Wikyung sprang to his feet and opened the tube fastened to the eagle’s leg
 
 “Jeongyang…!”
 
-Beyond Jeongyang lay Honju. Beyond Honju lay Taiyuan. Special detachment or not, he hadn’t expected them to cover hundreds of li[^1] in only a few days.
+Beyond Jeongyang lay Honju. Beyond Honju lay Taiyuan. Special detachment or not, he hadn’t expected them to cover hundreds of li in only a few days.
 
 And that wasn’t all.
 
@@ -324,4 +318,4 @@ His voice came out strained.
 
 “…Jeongyang.”
 
-[^1]: A Chinese li is 500 m (0.311 mi).
+[^1]: Mi-si is one of the traditional two-hour divisions of the day, corresponding roughly to 1–3 p.m.

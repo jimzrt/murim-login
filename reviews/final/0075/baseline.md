@@ -10,7 +10,7 @@ Once I took off the helmet and climbed out of the capsule, I finally felt like I
 
 *How much time has passed?*
 
-I checked the watch on my wrist. The cheap twelve-thousand-won[^1] digital watch I’d bought from a street stall in front of the Hunter training center about seven years ago had the advantage of an alarm and a stopwatch.
+I checked the watch on my wrist. The cheap twelve-thousand-won digital watch I’d bought from a street stall in front of the Hunter training center about seven years ago had the advantage of an alarm and a stopwatch.
 
 Beep.
 
@@ -22,7 +22,7 @@ I had spent around twenty days in Murim, so the timing roughly matched what had 
 
 *Now that I’m back in the modern world, the time ratio must have reversed.*
 
-With Logout complete, ten days in the modern world amounted to one hour in Murim. I washed up in the goshiwon’s[^2] communal shower and returned to my room.
+With Logout complete, ten days in the modern world amounted to one hour in Murim. I washed up in the goshiwon’s[^1] communal shower and returned to my room.
 
 Just as I was about to close the door, a black shadow sprang up.
 
@@ -40,7 +40,7 @@ My five senses had grown sharper with each passing day. I could pick up the soun
 
 He seemed to have been keeping his breathing quiet as he waited, but to my ears, every tiny movement and breath he made sounded like thunder.
 
-“Try breathing a little more quietly. You’re supposed to be the goshiwon[^2] manager. It’d be a problem if people started filing noise complaints about you.”
+“Try breathing a little more quietly. You’re supposed to be the goshiwon manager. It’d be a problem if people started filing noise complaints about you.”
 
 “Damn it. How did you know? You’re just an F-rank Hunter… Oh, right. You became C-rank a while ago.”
 
@@ -52,7 +52,7 @@ He seemed to have been keeping his breathing quiet as he waited, but to my ears,
 
 Was that really all the time that had passed?
 
-To me, it had been well over a month. To Jinho-hyung,[^3] it had happened just last week. I felt a subtle sense of disconnect.
+To me, it had been well over a month. To Jinho-hyung, it had happened just last week. I felt a subtle sense of disconnect.
 
 “Hey. What’s with that look? Is something wrong?”
 
@@ -62,7 +62,7 @@ To me, it had been well over a month. To Jinho-hyung,[^3] it had happened just l
 
 “Just get to the point. Keep it short.”
 
-Jinho-hyung’s[^3] face hardened. Had I taken the teasing too far?
+Jinho-hyung’s face hardened. Had I taken the teasing too far?
 
 Come to think of it, I had been too indifferent lately. Even before returning to Murim, I hadn’t been able to see him often because of all sorts of problems…
 
@@ -70,7 +70,7 @@ Come to think of it, I had been too indifferent lately. Even before returning to
 
 “…”
 
-“Grilled pork belly. Teppanyaki.[^4] Fried chicken and beer.”
+“Grilled pork belly. Teppanyaki. Fried chicken and beer.”
 
 Shit. Of course.
 
@@ -82,13 +82,13 @@ And he even had the nerve to choose the menu himself.
 
 “Pronounce that properly. Unless you want a taste of a C-rank Hunter’s fist.”
 
-Jinho-hyung[^3] flinched and rubbed his palms together.
+Jinho-hyung flinched and rubbed his palms together.
 
 “Please, sir. Use your money to grease my parched stomach.”
 
 “…”
 
-That stance switch would make Udyr[^5] weep.
+That stance switch would make Udyr weep.
 
 It was ridiculous, but a quiet laugh escaped me. My stomach had also been screaming after nearly a month without a proper meal.
 
@@ -100,15 +100,15 @@ I spoke in a solemn voice.
 
 “Where would you like to go, sir?”
 
-“I’m tired of grilled pork belly and teppanyaki.[^4] Let’s have something a little more expensive today.”
+“I’m tired of grilled pork belly and teppanyaki. Let’s have something a little more expensive today.”
 
 “Th-then, sir!”
 
-Jinho-hyung’s[^3] eyes widened.
+Jinho-hyung’s eyes widened.
 
-“Hanwoo![^6] That pasture-raised beef with the incredible marbling?”
+“Hanwoo![^2] That pasture-raised beef with the incredible marbling?”
 
-“What the hell are you talking about? We’re going out for gopchang.[^7]”
+“What the hell are you talking about? We’re going out for gopchang.[^3]”
 
 “…”
 
@@ -116,9 +116,9 @@ Jinho-hyung’s[^3] eyes widened.
 
 Thump.
 
-Jinho-hyung[^3] grabbed my shoulder and declared with a solemn expression, “I’ve always wanted to try it.”
+Jinho-hyung grabbed my shoulder and declared with a solemn expression, “I’ve always wanted to try it.”
 
-Our early dinner began at five that afternoon and ended at a makgeolli[^8] bar on our third round. By then, Jinho-hyung[^3] was completely plastered.
+Our early dinner began at five that afternoon and ended at a makgeolli bar on our third round. By then, Jinho-hyung was completely plastered.
 
 “Krroooorr.”
 
@@ -126,9 +126,13 @@ Our early dinner began at five that afternoon and ended at a makgeolli[^8] bar o
 
 I had seen this scene somewhere before.
 
-As a strange sense of déjà vu came over me and I hoisted Jinho-hyung[^3] onto my back, my phone rang.
+As a strange sense of déjà vu came over me and I hoisted Jinho-hyung onto my back, my phone rang.
 
-> └ **Designer-Brand Junkie:** See you tomorrow at the same time, same place.
+〈Designer-Brand Junkie
+
+> **Designer-Brand Junkie**
+>
+> See you tomorrow at the same time, same place.
 
 A single short text. The sender was Team Leader Choi.
 
@@ -153,13 +157,14 @@ Ding.
 > **System**
 >
 > - You have finished circulating your qi.
+>
 > - Your internal energy has increased very slightly.
 
 When the System notification sounded and I opened my eyes, more than two hours had passed. If I were in Murim, I would have gone straight to the training ground to warm up, but the real world came with all sorts of restrictions.
 
-Especially in a goshiwon,[^2] where the rooms were packed together like a chicken farm.
+Especially in a goshiwon, where the rooms were packed together like a chicken farm.
 
-*Damn goshiwon.[^2] I need to get out of here soon.*
+*Damn goshiwon. I need to get out of here soon.*
 
 Even training cost money these days. People who earned enough had several spacious private training rooms, while broke people like me had no choice but to make do with lousy conditions.
 
@@ -167,7 +172,7 @@ Even training cost money these days. People who earned enough had several spacio
 
 I spent the entire morning running through the neighborhood. When I returned, I moved straight into basic bodyweight exercises without taking a break. Maybe it was because my Stats had increased, but instead of getting tired, I felt more energized by the minute.
 
-Jinho-hyung[^3] watched me with an appalled expression.
+Jinho-hyung watched me with an appalled expression.
 
 “Don’t you ever get tired?”
 
@@ -185,7 +190,7 @@ Jinho-hyung[^3] watched me with an appalled expression.
 
 “Why are you here?”
 
-Jinho-hyung[^3] had shown up about ten minutes earlier looking haggard, and he still hadn’t left my room.
+Jinho-hyung had shown up about ten minutes earlier looking haggard, and he still hadn’t left my room.
 
 “Can’t you tell? I came to eat ramen.”
 
@@ -213,7 +218,7 @@ He rattled it all off without hesitation, and my blood started boiling.
 
 “Ah, that.”
 
-Jinho-hyung[^3] scratched his matted hair.
+Jinho-hyung scratched his matted hair.
 
 “It just worked out that way. The date isn’t set yet, but I’m planning to move out soon. I can’t stay holed up here forever.”
 
@@ -225,7 +230,7 @@ Jinho-hyung[^3] scratched his matted hair.
 
 I awkwardly looked away.
 
-Who lived in a goshiwon[^2] without a story of their own? I had mine, and Jinho-hyung[^3] had his. It would be rude to pry.
+Who lived in a goshiwon without a story of their own? I had mine, and Jinho-hyung had his. It would be rude to pry.
 
 *Still, it’s a shame.*
 
@@ -233,17 +238,17 @@ He was someone I’d spent years with, like a friend and a brother. And now he w
 
 Caught up in complicated feelings, I cautiously opened my mouth.
 
-“Hyung,[^3] by any chance…”
+“Hyung, by any chance…”
 
 “I know how you feel, but I respectfully decline.”
 
-Had he realized what I was going to say? Jinho-hyung[^3] cut me off decisively and continued.
+Had he realized what I was going to say? Jinho-hyung cut me off decisively and continued.
 
 “Kid, I’m thirty years old. I can take care of my own bowl.”
 
 “Then there’s nothing I can do.”
 
-I’d thought I could probably live with Jinho-hyung,[^3] but sticking my nose in too soon seemed to have pricked his pride.
+I’d thought I could probably live with Jinho-hyung, but sticking my nose in too soon seemed to have pricked his pride.
 
 His face scrunched up as he lifted the lid off the pot.
 
@@ -261,13 +266,13 @@ After several seconds of silence, I finally asked, “What are you talking about
 
 “Obviously, ramen.”
 
-Jinho-hyung[^3] glared at me menacingly.
+Jinho-hyung glared at me menacingly.
 
 “There’s always someone who says he isn’t eating, then asks for a chopstickful when you cook it well. How many times have I fallen for that one with you?”
 
 “…”
 
-“So a C-rank Hunter reaches into his poor hyung’s[^3] bowl? Are you even human?”
+“So a C-rank Hunter reaches into his poor hyung’s bowl? Are you even human?”
 
 “…”
 
@@ -321,7 +326,7 @@ Team Leader Choi tilted his head.
 
 Damn it. This bastard had a bloodhound’s nose.
 
-It was too embarrassing to explain the whole story about what had happened at the goshiwon,[^2] so I hurriedly changed the subject.
+It was too embarrassing to explain the whole story about what had happened at the goshiwon, so I hurriedly changed the subject.
 
 “It’s lunchtime, but no one’s here.”
 
@@ -373,11 +378,8 @@ An hour later, just as I finished adding my final signature, the System alert ra
 
 Ding.
 
-[^1]: Twelve thousand Korean won is about $8.60 or €7.70 at the project conversion rates.
-[^2]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement, often with shared facilities.
-[^3]: *Hyung* is a Korean form of address a man uses for an older man with whom he is close.
-[^4]: Teppanyaki is food cooked on an iron griddle.
-[^5]: Udyr is a *League of Legends* character known for switching between combat stances.
-[^6]: Hanwoo is a Korean breed of native cattle whose beef is prized for its marbling.
-[^7]: Gopchang is a Korean dish made from grilled intestines, usually beef intestines.
-[^8]: Makgeolli is a Korean alcoholic drink made from fermented rice.
+[^1]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement, often with shared facilities.
+
+[^2]: Hanwoo is a Korean breed of native cattle whose beef is prized for its marbling.
+
+[^3]: Gopchang is a Korean dish made from grilled intestines, usually beef intestines.
