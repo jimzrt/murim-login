@@ -205,7 +205,7 @@ Without turning around, Wipeng replied,
 
 “Yes.”
 
-*No, fuck.*
+No, fuck.
 
 He answered without even taking a breath.
 
@@ -217,7 +217,7 @@ He answered without even taking a breath.
 
 “Just go where you are.”
 
-*Son of a bitch.* I gave up and immediately spun around and ran, drawing up all my internal energy and concentrating it in my feet.
+Son of a bitch. I gave up and immediately spun around and ran, drawing up all my internal energy and concentrating it in my feet.
 
 A hand clamped around the back of my neck.
 
@@ -269,7 +269,7 @@ Ding.
 >
 > - **Killing intent** detected!
 
-*…At least use your blinker before cutting in.*
+…At least use your blinker before cutting in.
 
 * * *
 
@@ -321,11 +321,11 @@ This was beyond grim. Lee Seogeun studied my expression for a moment before spea
 
 “Then where were you before you went to Honghwaru?”
 
-*I was at a goshiwon[^1], you bastard.*
+*I was at a goshiwon, you bastard.*
 
 I wanted to tell him everything honestly.
 
-*I got fired from my Guild that day, had some soju[^2] with the hyung[^3] from my goshiwon[^1], then climbed into the capsule and fell asleep. When I woke up, I was at Honghwaru, and now I’m working hard so I can Logout. Something like that.*
+*I got fired from my Guild that day, had some soju with the hyung from my goshiwon, then climbed into the capsule and fell asleep. When I woke up, I was at Honghwaru, and now I’m working hard so I can Logout. Something like that.*
 
 *It’d be a miracle if he didn’t draw his sword.*
 
@@ -383,8 +383,4 @@ Ding.
 >
 > - The **Duel** Quest has been generated.
 
-*What’s this now?*
-
-[^1]: A *goshiwon* is a Korean building of small, inexpensive rented rooms, originally intended for people studying for exams.
-[^2]: *Soju* is a Korean distilled alcoholic drink.
-[^3]: *Hyung* is a term a man uses for an older brother or an older male friend.
+What’s this now?
