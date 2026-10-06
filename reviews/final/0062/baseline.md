@@ -75,11 +75,11 @@ Kraaaack!
 
 * * *
 
-A narrow escape.[^1]
+A narrow escape.
 
 Never in my life had those four syllables hit so close to home.
 
-I had really died and come back. I’d even seen a vision of going through immigration into hell, sharing a passionate hug with Yama,[^2] and snapping a commemorative photo together.
+I had really died and come back. I’d even seen a vision of going through immigration into hell, sharing a passionate hug with Yama, and snapping a commemorative photo together.
 
 If it hadn’t been for Lee Cheonbaek, that vision would have become reality.
 
@@ -240,13 +240,13 @@ I rather liked my new name.
 
 Wipeng gave a quiet laugh.
 
-He was the wastrel Third Young Master who had never even been called an earth dragon.[^3]
+He was the wastrel Third Young Master who had never even been called an earth dragon.
 
 But now, there was no denying it.
 
 He was a Hidden Dragon.
 
-If he obtained the dragon pearl,[^4] he could roam the azure heaven.
+If he obtained the dragon pearl, he could roam the azure heaven.
 
 “What do you make of it?”
 
@@ -298,7 +298,7 @@ Just as he had said, he had met a painful death. His face was twisted grotesquel
 
 There was no way to know yet.
 
-Wipeng carved the single word that had become the First Elder’s last deep into his mind.
+Wipeng carved the single word that had become the First Elder's last deep into his mind.
 
 *Dark Heaven. He definitely said Dark Heaven.*
 
@@ -322,7 +322,7 @@ The war was over.
 
 Where there were the dead, there were also survivors.
 
-Jin Chung, Sect Leader of the Gunggui Sect,[^5] was one of them. He had climbed to the top of the cliff before the battle began.
+Jin Chung, Sect Leader of the Gunggui Sect,[^1] was one of them. He had climbed to the top of the cliff before the battle began.
 
 “How futile.”
 
@@ -478,7 +478,7 @@ Dark Heaven had annihilated the Demonic Cult’s army, then proposed a deal.
 
 They had accepted.
 
-It meant having a gu[^6] planted in their heads, but they would have done anything for revenge.
+It meant having a gu planted in their heads, but they would have done anything for revenge.[^2]
 
 But…
 
@@ -556,9 +556,5 @@ The martial artist turned away.
 
 Some fifty corpses lay like a carpet in his wake.
 
-[^1]: *Gusa ilsaeng* is a four-syllable Korean idiom meaning a narrow escape from death.
-[^2]: Yama is the ruler of the underworld in Buddhist tradition.
-[^3]: The Korean term for “earth dragon” also refers to an earthworm, making it a lowly contrast to “Hidden Dragon.”
-[^4]: The dragon pearl is a legendary jewel associated with dragons in East Asian tradition.
-[^5]: The characters in *Gunggui* (弓鬼) mean “bow” and “ghost.”
-[^6]: A *gu* is a traditional poison associated with venomous creatures; in Murim fiction, it may be implanted in a person’s body.
+[^1]: 弓鬼門, lit. Bow Ghost Gate.
+[^2]: A *gu* is a traditional poison associated with venomous creatures; in Murim fiction, it may be implanted in a person’s body.
