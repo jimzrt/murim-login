@@ -62,11 +62,11 @@ Since internal energy was based on pure natural qi, that was possible. Compared 
 
 *Or maybe it’s the location.*
 
-A single room in a decades-old goshiwon[^1] was hardly a nature-friendly place. It stank, and the facilities were run-down.
+A single room in a decades-old goshiwon was hardly a nature-friendly place. It stank, and the facilities were run-down.
 
-Despite being the goshiwon[^1] manager, Jin-ho hyung[^2] was always questioning what this place had originally been.
+Despite being the goshiwon manager, Jinho was always questioning what this place had originally been.
 
-“Maybe it used to be a torture chamber. During the Great Cataclysm, they probably dragged monsters in, tapped them on the balls with a knife, and asked where the Demon King was. They would’ve given up the location of the Demon King’s parents, too.”
+*Maybe it used to be a torture chamber. During the Great Cataclysm, they probably dragged monsters in, tapped them on the balls with a knife, and asked where the Demon King was. They would’ve given up the location of the Demon King’s parents, too.*
 
 …You had to give him credit for his imagination.
 
@@ -78,9 +78,11 @@ Bzzzt.
 
 A text arrived on my phone.
 
-> └ 〈 Designer-Brand Junkie
-> └ Designer-Brand Junkie
-> └ Do you have some time?
+〈 Designer-Brand Junkie
+
+Designer-Brand Junkie
+
+Do you have some time?
 
 The sender was Designer-Brand Junkie—or rather, Team Leader Choi.
 
@@ -266,7 +268,7 @@ I stared into the trunk with my mouth hanging open.
 
 *Holy crap.*
 
-Equipment worth at least several million won[^3] was neatly stacked and sorted inside. Armor and weapons were only the beginning. There were all kinds of potions and even disposable magic scrolls that most people considered too expensive to use. He had everything.
+Equipment worth at least several million won was neatly stacked and sorted inside. Armor and weapons were only the beginning. There were all kinds of potions and even disposable magic scrolls that most people considered too expensive to use. He had everything.
 
 “…Is all of this yours, Team Leader?”
 
@@ -372,6 +374,8 @@ He bowed at a perfect ninety-degree angle. Even more surprising was how naturall
 
 “Not at all, Young Master.”
 
+*Young Master?*
+
 That term could be used by a woman to address her husband’s unmarried younger brother, but there was no way this man was Team Leader Choi’s sister-in-law…
 
 *So Team Leader Choi was the young master of some rich family.*
@@ -420,7 +424,7 @@ Team Leader Choi’s answer left me dumbfounded.
 
 “We’re not bringing so much as a dog.”
 
-Look at how decisive he was. Who was he, Judge Bao?[^4]
+Look at how decisive he was. Who was he, Pocheongcheon?[^2]
 
 “So the two of us are clearing the Gate alone?”
 
@@ -458,7 +462,7 @@ If that was true, the situation changed. Just the two of us also meant a bigger 
 
 “If you want to go back, I won’t stop you. I can go in alone. It wouldn’t be the first or second time.”
 
-*He walked in and out of D-rank Gates alone on the regular?*
+He walked in and out of D-rank Gates alone on the regular?
 
 “Then take care. Starting tomorrow, we’ll look for E-rank Gates.”
 
@@ -476,7 +480,4 @@ Team Leader Choi smiled warmly.
 
 “Let’s do our best.”
 
-[^1]: A goshiwon is a Korean building of small, inexpensive rented rooms, often with shared facilities.
-[^2]: *Hyung* is a familiar Korean term a man uses for an older brother or older male friend.
-[^3]: Several million won is roughly 2–9 million won, or about $1,400–$6,400 and €1,300–€5,800.
-[^4]: Judge Bao, or Bao Zheng, was a Chinese magistrate celebrated in popular stories for impartial and uncompromising judgments.
+[^2]: Pocheongcheon is a famously incorruptible judge in Chinese legend and popular storytelling.
