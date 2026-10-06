@@ -58,7 +58,7 @@ And lastly…
 
 Hyuk Mujin glared at the brothers in turn.
 
-One had taken all the fur for himself to keep warm, without caring whether his subordinate froze to death on the driver’s bench. The other had given him hell for a full shichen[^2] because he couldn’t drive a carriage properly, and now he was comfortably circulating his qi.
+One had taken all the fur for himself to keep warm, without caring whether his subordinate froze to death on the driver’s bench. The other had given him hell for a full shichen because he couldn’t drive a carriage properly, and now he was comfortably circulating his qi.
 
 *They really are perfectly matched.*
 
@@ -160,7 +160,7 @@ Snnn. Snnn.
 
 His forehead had gone beyond red. A lump had risen and looked ready to burst, yet he didn’t so much as twitch.
 
-Jin Mukyung was overwhelmed by shock. Even a commoner without a shred of internal energy should have screamed awake from this. Yet this guy, supposedly a Supreme First Rate martial artist and the Sleeping Dragon of Shanxi, did not move an inch.
+Jin Mukyung was overwhelmed by shock. Even a commoner without a shred of internal energy should have screamed awake from this. Yet this guy, supposedly a top-tier First Rate martial artist and the Sleeping Dragon of Shanxi, did not move an inch.
 
 Jin Mukyung had never seen anyone so defenseless in all his life.
 
@@ -298,7 +298,7 @@ The current Mount Heng Sword Sect had been reduced to its bare bones. Once Lee S
 
 *The battle at Eight Spring Gorge was the fatal blow.*
 
-They say words without feet can travel a thousand li.[^3]
+They say words without feet can travel a thousand li.
 
 That day’s battle, watched by countless eyes and ears, spread rapidly through messenger pigeons and word of mouth. With nearly all its main forces gone, the Mount Heng Sword Sect became easy prey for someone.
 
@@ -355,5 +355,3 @@ Just as I closed the Quest window, sunlight streamed in and the sound of a boist
 The distance between her and me had narrowed to two days.
 
 [^1]: The Jade Emperor and Primordial Heavenly Venerable are major figures in Daoist cosmology.
-[^2]: A shichen is a traditional Chinese time unit of approximately two hours.
-[^3]: A Chinese li is approximately 500 m (0.311 mi); a thousand li is about 500 km (311 mi).
