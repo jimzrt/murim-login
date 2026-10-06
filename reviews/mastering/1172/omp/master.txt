@@ -4,7 +4,7 @@
 
 If anything, it fell woefully short.
 
-From the moment the last breath of the evil Dragon that had terrorized the whole world for thousands of years dispersed, an unstoppable catastrophe had been racing along its predetermined course.
+From the moment the last breath of the evil Dragon that had terrorized the world for thousands of years faded, an unstoppable catastrophe had been racing along its predetermined course.
 
 An eruption—or an explosion.
 
@@ -12,7 +12,7 @@ It didn’t matter what you called it.
 
 As if this were all it had left to do, the Dragon Heart slipped beyond its master’s control for the first time and vomited everything it had accumulated over untold ages into the world.
 
-Using the body of the Dragon that had finally met its end as kindling, it raged more fiercely than a newly awakened active volcano.
+With the dead Dragon’s body for fuel, it raged more fiercely than an active volcano newly awakened.
 
 *Roooar!*
 
@@ -50,7 +50,7 @@ But two beings recognized what was happening before anyone else, and more clearl
 
 “…We have to stop it.”
 
-The Lord of the Dead spoke to the Grand Mage, who was muttering as though possessed by something unseen, his voice vacant.
+The Lord of the Dead spoke to the Grand Mage, who was muttering in a daze as though possessed by something unseen.
 
 “We can’t stop it.”
 
@@ -74,7 +74,7 @@ And protecting that ember was the best they could do now.
 
 “We’re leaving. Right now.”
 
-Before something happened that couldn’t be undone.
+*Before something happens that can’t be undone.*
 
 Unable to force out the words that had risen to his throat, the Undead King turned away with Magic Johnson.
 
@@ -84,7 +84,7 @@ The Great Cataclysm.
 
 The ominous name humanity had forgotten over the past few decades was branded into everyone’s minds once more.
 
-And even after the Grand Mage’s large-scale Warp Magic Formation appeared and vanished in a dazzling flash, a hard mechanical beep—one that hadn’t reached its owner—continued to ring out somewhere in the world.
+And even after the Grand Mage’s large-scale Warp Magic Formation appeared and vanished in a dazzling flash, a hard mechanical beep—one that had never reached its owner—continued to ring out somewhere in the world.
 
 *Beep.*
 
@@ -128,7 +128,7 @@ The System never lied.
 
 And even people who didn’t know it existed had no need for its warning messages. The changes were dramatic enough on their own.
 
-Or like a marauder who barged in without warning.
+They came like marauders, without warning.
 
 “The magical power levels…! They’re skyrocketing!”
 
@@ -138,7 +138,7 @@ Like waves crashing into one another, panicked shouts from all directions swallo
 
 Eyes webbed with red veins. Veins bulging along people’s necks.
 
-The pit of this dreadful chaos wasn’t confined to any one place.
+This dreadful chaos wasn’t confined to any one place.
 
 It was unfolding in underground bunkers around the world, where the people who ran entire nations had gathered; in cabinet meeting rooms; and, on a smaller scale, anywhere with an internet connection.
 
@@ -192,7 +192,7 @@ But the shout that came next was so clear and shocking that it wiped his jumbled
 
 “What?”
 
-“At least twenty percent of them have reached levels high enough to progress into Monster Waves…”
+“Roughly twenty percent or more have reached levels high enough to become Monster Waves…”
 
 He didn’t hear the rest.
 
@@ -236,7 +236,7 @@ He was also the person who best understood the wishes of someone unable to atten
 
 “It’s begun, but it isn’t over.”
 
-His face was still healing, his hair matted with blood.
+His face was still wounded, his hair matted with blood.
 
 But no one criticized him for appearing before them like that without showing proper respect.
 
@@ -244,7 +244,7 @@ No—they wouldn’t dare.
 
 The young man before them was a hero who had bled and fought for the world in their place.
 
-Just as his grandfather, recorded in humanity’s history, had—and just as those who had fallen in Moscow today had.
+Just as his grandfather, whose name was recorded in humanity’s history, had—and just as those who had fallen in Moscow today had.
 
 Standing alone, as if his place here belonged to someone else, Choi Minwoo continued, his eyes and voice burning like torches.
 

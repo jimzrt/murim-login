@@ -10,17 +10,17 @@ An eruption—or an explosion.
 
 It didn’t matter what you called it.
 
-As if this were all it had left to do, the Dragon Heart slipped beyond its master’s control for the first time and vomited everything it had accumulated over untold ages into the world.
+As if this were all it had left to do, the Dragon Heart had, for the first time, slipped beyond its master’s control and vomited everything it had accumulated over an unfathomably long time out into the world.
 
 Using the body of the Dragon that had finally met its end as kindling, it raged more fiercely than a newly awakened active volcano.
 
 *Roooar!*
 
-Before the deafening roar that shook heaven and earth even reached their ears, everyone on the battlefield felt its terrifying shock wave.
+Before the deafening roar that shook heaven and earth even reached their ears, everyone on the battlefield felt the terrifying shock wave.
 
-The S-rank Hunters gathering the bodies of the seven Guardians who had found peace with Morgoth’s death—no, their former comrades.
+The S-rank Hunters were gathering the bodies of the seven Guardians who had found peace with Morgoth’s death—their former comrades.
 
-The thousands of Hunters pursuing monsters that had lost the will to fight and scattered in every direction.
+Thousands of Hunters were chasing monsters that had lost the will to fight and scattered in every direction.
 
 At that enormous, instinct-stirring rumble, they all turned their heads in the same direction as if on cue. Then they froze like statues.
 
@@ -32,9 +32,9 @@ And beyond it, a towering pillar of pitch-black darkness, vast beyond comprehens
 
 “What is that…?”
 
-The groan that slipped from someone’s lips spoke for everyone staring at the scene in stunned disbelief.
+The solitary groan that slipped from someone’s lips spoke for everyone staring at the scene before them in stunned disbelief.
 
-The evil Dragon—Morgoth—was dead. Of that there was no doubt.
+The evil Dragon—Morgoth—was definitely dead.
 
 They had won here today. The immediate danger was gone.
 
@@ -44,9 +44,9 @@ Why did that deep, pitch-black darkness feel more frightening than the unprecede
 
 They already knew the answer.
 
-Their senses and minds, frozen by the icy magical power, simply hadn’t responded quickly enough to the memory of *that day*—the day that had arrived without a word of warning just a few decades ago.
+Their senses and minds, frozen by the icy magical power, simply hadn’t reacted in time to the memory of *that day*—the day that had arrived without a word of warning just a few decades ago.
 
-But two beings recognized what was happening before anyone else, and more clearly.
+But two beings realized what was happening first—and more clearly than anyone else.
 
 “…We have to stop it.”
 
@@ -58,13 +58,13 @@ Unlike Magic Johnson’s, the Undead King’s tone was calm.
 
 As if he’d already given up on everything.
 
-But he hadn’t.
+But that wasn’t true.
 
 There was still hope in his words, however faint—a tiny ember that had yet to lose its light.
 
 “At least, not right now.”
 
-Holding his unconscious friend in his arms, the Undead King felt warmth against his fingertips.
+With those quiet words, the Undead King held his unconscious friend in his arms and felt warmth pass into his fingertips.
 
 That was right.
 
@@ -76,13 +76,13 @@ And protecting that ember was the best they could do now.
 
 Before something happened that couldn’t be undone.
 
-Unable to force out the words that had risen to his throat, the Undead King turned away with Magic Johnson.
+Unable to force out the words that had risen to the back of his throat, the Undead King and Magic Johnson turned away.
 
 The sky above them was no longer filled with mere storm clouds. It was turning to pure darkness, casting a cold shadow over them.
 
 The Great Cataclysm.
 
-The ominous name humanity had forgotten over the past few decades was branded into everyone’s minds once more.
+The three ominous syllables humanity had forgotten over the past few decades were branded into everyone’s minds once more.
 
 And even after the Grand Mage’s large-scale Warp Magic Formation appeared and vanished in a dazzling flash, a hard mechanical beep—one that hadn’t reached its owner—continued to ring out somewhere in the world.
 
@@ -126,7 +126,7 @@ And even after the Grand Mage’s large-scale Warp Magic Formation appeared and 
 
 The System never lied.
 
-And even people who didn’t know it existed had no need for its warning messages. The changes were dramatic enough on their own.
+And even people who didn’t know it existed had no need for its warning messages. Every change came dramatically.
 
 Or like a marauder who barged in without warning.
 
@@ -140,7 +140,7 @@ Eyes webbed with red veins. Veins bulging along people’s necks.
 
 The pit of this dreadful chaos wasn’t confined to any one place.
 
-It was unfolding in underground bunkers around the world, where the people who ran entire nations had gathered; in cabinet meeting rooms; and, on a smaller scale, anywhere with an internet connection.
+It was happening in underground bunkers around the world, where the people who ran entire nations had gathered; in cabinet meeting rooms; and, on a smaller scale, anywhere with an internet connection.
 
 The Hunters still on the battlefield weren’t the only ones who witnessed the unbelievable phenomenon.
 
@@ -154,17 +154,17 @@ But humanity didn’t know that the single ray of light shining on them in their
 
 Those watching the unstable, grainy feed transmitted from a satellite suddenly realized something was wrong.
 
-A gigantic pillar spewed darkness so vivid it looked unnatural, like a black hole sucking everything in.
+A gigantic pillar, spewing darkness so vivid it looked unnatural—like a black hole sucking everything in.
 
 That was all they saw.
 
-A blinding, oppressive beam of light—though light seemed impossible to associate with that darkness—closed the sky. This time, it never opened again.
+Dazzling. That oppressive beam, so bright it seemed impossible to call it darkness, closed the sky. This time, it never opened again.
 
 And the darkness that had swallowed Moscow began to multiply.
 
 *Roooar.*
 
-Like a horse galloping across the wilderness, the darkness raced silently through a world gone quiet.
+Like a horse galloping across the wilderness, the darkness raced silently through a world steeped in quiet.
 
 East, west, south, north.
 
@@ -174,17 +174,17 @@ Just as it had blotted out the sunset over Moscow, the darkness devoured every l
 
 Even the blazing sun couldn’t pierce the darkness. No—the pure, profound magical power. The stars in the sky vanished, too.
 
-By the time the Dragon Heart had poured out all its strength and crumbled to dust, the catastrophe now in full bloom had already scattered its spores across the world.
+By the time the Dragon Heart, having poured out all its strength, crumbled to dust, the catastrophe that had finally blossomed had already scattered its spores across the world.
 
 Just like now.
 
 “Code Red! Code Red! Mutation Gate detected!”
 
-“Mutation Gate? Shit, you’re calling that Code Red? Report only Monster Waves!”
+“Mutation Gate? Shit, we’re calling that Code Red now? Report only Monster Waves!”
 
 The superior’s bark was understandable.
 
-A few years ago, a Mutation Gate would have covered the front page of morning papers and dominated every breaking-news broadcast. Now the situation was so urgent that even that had become something to dismiss.
+A few years ago, the appearance of a Mutation Gate would have covered the front page of morning papers and dominated every breaking-news broadcast. Now the situation was so urgent that even that had become something to dismiss.
 
 But the shout that came next was so clear and shocking that it wiped his jumbled thoughts clean in an instant.
 
@@ -196,7 +196,7 @@ But the shout that came next was so clear and shocking that it wiped his jumbled
 
 He didn’t hear the rest.
 
-Seized by a sudden ringing in his ears, the superior fell silent. He squeezed out every last bit of strength and managed to say one thing.
+Seized by the sudden ringing in his ears, the superior fell silent. He squeezed out every last bit of strength and managed to say one thing.
 
 “Tell the higher-ups immediately.”
 
@@ -208,9 +208,9 @@ There were more than a thousand Gates scattered across Europe and Asia.
 
 Shoving aside his hesitant subordinate, the superior picked up a special communications device he hadn’t touched once in the more than ten years since he’d been appointed head of this place.
 
-A direct line to one place and one place only.
+A direct line that connected to only one place.
 
-After a signal that seemed to ring on forever, someone answered. A tremor crept into the recipient’s voice as they summed up the situation.
+After a signal that seemed to ring on forever, someone answered. The tremor in the recipient’s voice was impossible to hide as they summed up the situation.
 
 “Activate Code Black.”
 
@@ -218,19 +218,19 @@ That was the end of the call.
 
 But both of them knew that this brief conversation, lasting less than a minute, would go down in history.
 
-As would anyone who understood what *Code Black* meant.
+Or rather, anyone who understood what the words *Code Black* meant knew.
 
 And those facing the recipient on-screen—the person who had just set down the receiver, the President of the United States—belonged to the tiny fraction of humanity privy to that top-secret information.
 
-“It’s begun.”
+“It's begun.”
 
 “…Yes. In the end.”
 
-Though they differed in race and gender, these two hundred or so people shared one thing: they all led a nation. For a while, they looked at one another in silence.
+Though they differed in race and gender, these two hundred people shared one thing: they all led a nation. For a while, they looked at one another in silence.
 
 There was only one exception among them: a distinctly young East Asian man.
 
-He wasn’t a national leader, nor did he have the seasoned political instincts they did. But he had every right to attend this gathering.
+He wasn’t a national leader, nor did he have the seasoned, battle-hardened political instincts they did. But he had every right to attend this gathering.
 
 He was also the person who best understood the wishes of someone unable to attend today.
 
@@ -246,7 +246,7 @@ The young man before them was a hero who had bled and fought for the world in th
 
 Just as his grandfather, recorded in humanity’s history, had—and just as those who had fallen in Moscow today had.
 
-Standing alone, as if his place here belonged to someone else, Choi Minwoo continued, his eyes and voice burning like torches.
+As if this place didn’t belong to him, Choi Minwoo stood alone and continued, his voice and eyes burning like torches.
 
 “We will end this war.”
 

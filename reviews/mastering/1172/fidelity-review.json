@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The ominous name humanity had forgotten over the past few decades was branded into everyone’s minds once more.",
+      "defect": "The source specifies that the name consists of three characters (세 글자); the assembled English omits that detail, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "대격변 is explicitly described as 세 글자, a three-character name.",
+      "replacement": "The three ominous characters humanity had forgotten over the past few decades were branded into everyone’s minds once more.",
+      "severity": "minor",
+      "source": "Korean line 91"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The groan that slipped from someone’s lips spoke for everyone staring at the scene in stunned disbelief.",
+      "defect": "The source calls it 외마디 신음, a single, brief groan; the English no longer conveys that it was a solitary utterance, unlike the accepted baseline.",
+      "id": "F02",
+      "rationale": "외마디 specifies a single utterance, a small but explicit detail of the reaction.",
+      "replacement": "The single groan that slipped from someone’s lips spoke for everyone staring at the scene in stunned disbelief.",
+      "severity": "minor",
+      "source": "Korean line 37"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it drops the source’s explicit three-character detail and the fact that the groan was a single utterance.",
+  "version": 1
+}
