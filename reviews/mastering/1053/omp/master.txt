@@ -2,7 +2,7 @@
 
 The shock was so great that the world seemed to stop. For an instant, Jin Taekyung forgot to breathe.
 
-At the sight of this guess flashing through his mind—a guess he didn’t want to believe—a corner of his chest throbbed as if he’d been stabbed.
+A realization flashed through his mind, one he couldn’t bear to believe. A spot in his chest throbbed as if a knife had pierced it.
 
 “What happened…?”
 
@@ -26,11 +26,11 @@ They were the last traces of someone who had been there. Taekyung reached out wi
 
 A woman’s arm and leg, slender and so pale that the veins showed through her skin.
 
-Even now, dark red blood was gushing from their cross sections. They were cut with unbelievable precision, smooth and sharp.
+Dark red blood was still welling from the severed ends. The edges were impossibly straight and clean.
 
 As if the limbs hadn’t been cut off, but *separated*.
 
-*This… definitely wasn’t a wound caused by Force.*
+*This… wasn’t caused by Force.*
 
 At last, faced with the truth, Taekyung let out the breath he’d been holding.
 
@@ -52,9 +52,9 @@ Yes. Magic. That damn Magic.
 
 Overcome by a helplessness he couldn’t put into words, Taekyung nodded. Jeok Cheongang’s eyes flashed.
 
-He was already worn down by injuries, both large and small, and by exhaustion. Yet there wasn’t a trace of resignation in those eyes, where flames seemed to pour forth.
+Injuries large and small had worn him down, along with exhaustion. But the fire in his eyes held no trace of resignation.
 
-“This isn’t the time. Before it’s too late, we need to—”
+“We can’t stand here. Before it’s too late, we have to—”
 
 “It’s already too late.”
 
@@ -64,7 +64,7 @@ Taekyung clenched his teeth.
 
 Teleport.
 
-Unlike Blink, which was limited to short distances, Teleport could cover dozens or even hundreds of kilometers at once, depending on the mage’s Grade and how much mana they possessed.
+Of all the countless kinds of Magic, this spell for moving through space was notorious for its difficulty. Unlike Blink, which could only cover short distances, Teleport could cross dozens or even hundreds of kilometers at once, depending on a mage’s rank and how much mana they had.
 
 Not hundreds of *jang*. Hundreds of kilometers.
 
@@ -72,13 +72,13 @@ Then how far could Grand Mages, who had reached the limits of Magic, go?
 
 *If… every condition were perfect, maybe they could cross half the continent.*
 
-What mattered was that the Grand Mage—a big catch—had already torn through the net and fled far away.
+Taekyung didn’t know the exact distance. What mattered was that the Grand Mage had already torn through the net and escaped.
 
 Exhaustion pressed even more heavily on him as he spoke.
 
-“She’s beyond our range. By now, she must be at least dozens of *ri* away.”
+“She’s beyond our reach. By now, she must be at least dozens of *ri* away.”
 
-“What do you mean…!”
+“What are you—!”
 
 Jeok Cheongang’s eyes widened, but he swallowed the rest.
 
@@ -106,9 +106,9 @@ Taekyung shook his head weakly.
 
 “Then…”
 
-“Yes. She returned to her allies. We can’t guess where that is, but the Grand Mage would have known exactly.”
+“Yes. She went back to her allies. We have no idea where they are, but the Grand Mage knew exactly.”
 
-Jin Taekyung added, staring at the arm and leg submerged in the pool of blood,
+Taekyung stared at the arm and leg lying in the pool of blood.
 
 “She must have believed she could survive. Otherwise, she wouldn’t have taken a gamble like this.”
 
@@ -116,7 +116,7 @@ Teleport was a difficult spell for long-distance travel. The coordinates of both
 
 Even the high-ranking mages who specialized in Teleport and made their living from it were no exception. If anything, knowing the danger made them more careful.
 
-If even the slightest figure went wrong as the spell took effect, they could die instantly, fused with a rock or a tree.
+The slightest error in the calculations as the spell took effect could leave them fused with a rock or a tree, dead on arrival.
 
 Or…
 
@@ -132,9 +132,9 @@ He hadn’t expected her to attempt Teleport in the middle of that frantic strug
 
 But regret always arrived a step too late. Taekyung still had to walk the path before him.
 
-The narrow, treacherous path that now seemed clearer and closer—and yet, for some reason, more distant and beyond reach.
+It looked clearer now, and closer. Yet somehow the narrow, treacherous path felt longer than ever.
 
-Toward the being waiting at its end.
+At its end, someone was waiting.
 
 *Lord of Heaven.*
 
@@ -150,7 +150,7 @@ And what connection did he have to the other being who had haunted Taekyung’s 
 
 Ruler of the Demon Realm. Lord of demons.
 
-An invader who’d torn through the boundaries between dimensions with his overwhelming power, shattered every convention and civilization, and driven billions of people to terror and death.
+An invader who had torn through the boundaries between dimensions with his immense power, brought all order and civilization crashing down, and driven billions of people into terror and death.
 
 Yet in the end, he had fallen at the hands of one human. Now he would be remembered forever as part of history.
 
@@ -176,7 +176,7 @@ The Demon King and the Lord of Heaven.
 
 The Lord of Heaven and the Demon King.
 
-He didn’t know whether they’d originally been one being or two entirely different people. The greatest enemy of his life was somewhere beyond the western horizon.
+Whether they had been one being all along or were two entirely different individuals, the greatest enemy of his life was somewhere beyond that western horizon.
 
 Beckoning to the Chosen One.
 
@@ -220,9 +220,9 @@ Neither the blood spattered across its white cloth nor the pieces torn from it c
 
 It was their pride.
 
-Long ago, it had also been a line of verse written by an old man called the Poet Sage, praising the Daoists who lived in the remote mountain valleys.
+Long ago, an old man known as the Poet Sage had written a line praising the Daoists who lived deep in the mountains.
 
-“*With one long sword to guard the body, one would seek support from Kongtong.*”
+“*Hosin iljanggeom, jangyok gigongdong.*”
 
 Jeok Cheongang’s voice scattered on the wind. Then the Bow Saint parted her tightly closed lips.
 
@@ -236,6 +236,6 @@ In less than two shichen, this brutal battle had swallowed more than ten thousan
 
 Now the scales that would decide its outcome tipped completely.
 
-No—they broke.
+No. They broke.
 
 Just as some unknown person, somewhere thousands of *ri* away, had intended when they prepared the stage for this day.

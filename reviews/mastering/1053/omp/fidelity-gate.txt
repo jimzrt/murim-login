@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it changes one physical action and mistranslates a key concept.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 5",
+      "current": "For an instant, Jin Taekyung forgot to breathe.",
+      "defect": "The Korean says he 순간arily drew in or caught his breath (숨을 삼켰다), not that he forgot to breathe. The translation changes the physical reaction.",
+      "replacement": "For an instant, Jin Taekyung caught his breath.",
+      "rationale": "숨을 삼키다 describes catching or swallowing a breath, rather than forgetting to breathe.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 191",
+      "current": "shattered every convention and civilization",
+      "defect": "The Korean says the invader overturned all common sense and civilization. “Convention” changes 상식 from common sense or accepted reason to social custom.",
+      "replacement": "shattered all common sense and civilization",
+      "rationale": "The source describes overturning what people consider reasonable, not breaking social conventions.",
+      "confidence": 0.96
+    }
+  ]
+}
