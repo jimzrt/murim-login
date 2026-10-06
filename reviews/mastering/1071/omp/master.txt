@@ -10,7 +10,7 @@ Things weren’t looking good.
 
 Even a rough count put them at more than three times our numbers. And the enemies closing in by the second were monsters that neither tired nor died easily.
 
-*There might even be another mutant like that one among them.*
+*There could be more mutants like that one among them, too.*
 
 I turned toward the giant’s corpse. Its head was split in half, and it was dead for good.
 
@@ -20,7 +20,7 @@ As I’d thought earlier, *mutant* was the only word that fit. The same went for
 
 *Right. It’s the same pattern as before.*
 
-Similar things had happened in Hubei and at the Nanman Beast Palace.
+This wasn’t the first mutant I’d seen. Similar things had happened in Hubei and at the Nanman Beast Palace.
 
 And I remembered clearly what had been at the center of those incidents every time: followers of the Lord of Heaven and the *rifts* they had brought about.
 
@@ -32,7 +32,7 @@ Even if it was true, dealing with the enemies in front of us came first.
 
 “Sama Pyo. Jeong Hogun.”
 
-I spoke abruptly, looking the two of them straight in the eye.
+I looked them both in the eye.
 
 “You’ll take the left and right flanks.”
 
@@ -60,7 +60,7 @@ I answered Perfected Being Hyeoncheon, the Sect Leader of the Kongtong Sect, at 
 
 “Please take the rear with the Kongtong Disciples, Sect Leader.”
 
-“It’s unfortunate that the Zhongnan Sect has taken the vanguard from us, but in this situation, our sect must play the most important role. I understand your intentions, Daoist Friend.”
+“It’s a shame Zhongnan has taken the vanguard from us, but in a situation like this, our sect must take on the most important role. I understand your intent, Daoist Friend.”
 
 With the enemy’s encirclement nearly complete, the rear mattered more than the vanguard.
 
@@ -68,13 +68,13 @@ Hyeoncheon understood tactics better than most martial artists. He was a veteran
 
 But even he hadn’t seen the whole picture.
 
-“The Zhongnan Sect won’t take the vanguard.”
+“Zhongnan won’t take the vanguard.”
 
 “What do you mean?”
 
 Leaving Hyeoncheon looking puzzled, I called to a man who stood gripping his sword, his face tense.
 
-“Hyuk Sopyung. You and the Zhongnan Sect will help the Kongtong Sect take the rear.”
+“Hyuk Sopyung. You and the Zhongnan Sect will help Kongtong hold the rear.”
 
 Hyuk Sopyung—the Zhongnan One Dragon—stared at me, wide-eyed.
 
@@ -112,7 +112,7 @@ I, too, had earned the right to stand with them. I had become a symbol in my own
 
 I might be a little smaller than they were, and weaker still.
 
-I, Jin Taekyung—the Blazing Flame Divine Dragon—was another giant who’d risen in this goddamn war.
+But I, Jin Taekyung—the Blazing Flame Divine Dragon—was another giant this goddamn war had raised.
 
 *Rrrrrumble!*
 
@@ -136,23 +136,23 @@ I meant it.
 
 Everyone had family, something they had to protect. There was no cowardice in trying to survive.
 
-If anyone wanted to fall back so they could make it home alive, I’d gladly protect them.
+If anyone needed to fall back to make it home alive, I would gladly protect them.
 
 Just as someone had protected me years ago in that dark, reeking cave.
 
 And now, beside me, were people worth risking my life to protect.
 
-“Fuck it, what’s life anyway? I’ve spent all this time following your ass around, Captain. Now I wouldn’t even flinch if the Heavenly Demon’s granddad showed up.”
+“Fuck it, what’s life anyway? I’ve spent so long chasing after you, Captain, I wouldn’t even flinch if the Heavenly Demon’s granddad showed up.”
 
-Hyuk Mujin’s sudden remark drew quiet laughter from around us. Then he added, softly:
+Hyuk Mujin’s outburst drew quiet laughter from around us. Then he added, his voice low:
 
-“I’ll follow you. Even to the edge of hell.”
-
-“…!”
+“I’ll follow you. Even to the ends of hell.”
 
 “…!”
 
-For an instant, the air around us rang like a struck string.
+“…!”
+
+For an instant, the air seemed to hum.
 
 The tremendous rumbling around us and the monsters’ roars beyond it might as well have vanished. In their place rose a wave of steel.
 
@@ -166,7 +166,7 @@ They remembered why they had to be here. They remembered the faces of those they
 
 And at their head stood me.
 
-“Remember only two things.”
+“Remember two things.”
 
 I walked toward the vanguard as I spoke.
 
@@ -176,7 +176,7 @@ I walked toward the vanguard as I spoke.
 
 A tide of people parted before me, revealing the empty space beyond.
 
-Unlike the other sections, where a thousand men had gathered in each, this vacant spot looked like a massive hole that could collapse at any moment. But it wasn’t one anymore.
+A thousand fighters had gathered in each of the other sections. By comparison, this gap looked like a massive hole the enemy could break through at any moment.
 
 It wasn’t one anymore.
 
@@ -222,7 +222,7 @@ No. At least for now, perhaps they *were* the darkness.
 
 They weren’t merely hiding in it. They wore it like a curtain, concealing their bodies behind it. Even if they hadn’t been covered head to toe in black, precious few people could have seen through that curtain.
 
-The people capable of seeing through their concealment were hundreds of yards away, fighting countless monsters.
+And those who posed any such threat were hundreds of yards away, fighting countless monsters.
 
 Monsters that, to be precise, were moving under the black-clad figures’ control.
 
@@ -268,7 +268,7 @@ The curse at the Blood Lord slipped out before he could stop it. He sucked in a 
 
 But, as always, there were only monsters standing vacantly nearby, reeking horribly.
 
-“…This is bullshit.”
+“…Fuck this.”
 
 He glared at his subordinates. He hated the sight of himself trembling at the thought of the Blood Lord, who was far away. Today, the mindless monsters that did nothing but stink seemed especially loathsome too.
 
@@ -276,9 +276,9 @@ He glared at his subordinates. He hated the sight of himself trembling at the th
 
 *Jingle.*
 
-The black-robed man shook the evil bell with a shooing motion. The hundred monsters surrounding their master to guard him immediately took a step back without hesitation.
+He shook the bell as if shooing away flies. The hundred monsters gathered around him as guards immediately began to back away.
 
-At least, that was what the black-robed man knew was supposed to happen.
+Or so he understood they were supposed to.
 
 *Step.*
 
@@ -288,14 +288,14 @@ He blinked.
 
 Ninety-nine monsters had backed away. The remaining one had taken a step forward.
 
-“What the hell is this?”
+“What in the—”
 
-Before the black-robed man could find the words, the monster finally seemed to realize its situation. Its backside twitched as it fidgeted, then it said:
+Before he could find the words, the monster seemed to realize what it had done. Its backside twitched as it floundered for a moment, then it spoke.
 
 “W-Wow. Amazing. Never seen a monster like this before, have you?”
 
 “…!”
 
-“I-I haven’t either. Damn it.”
+“I-I haven’t either. Ah, shit.”
 
-The monster—or, clearly, someone who was a person—continued in a trembling voice, then wore a miserable expression and sighed.
+The trembling monster—or rather, the person it clearly was—made a miserable face and sighed.

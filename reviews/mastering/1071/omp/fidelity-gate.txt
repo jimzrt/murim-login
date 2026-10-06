@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is mostly faithful, but one line changes the stated uncertainty about the monsters’ origins, and a later sentence is repeated without support from the source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 144–146",
+      "current": "No—not dust clouds. Monsters we knew nothing about, from places we couldn’t name.",
+      "defect": "The Korean says they do not know where the monsters came from or what they are. “From places we couldn’t name” instead suggests they know the monsters came from particular places but cannot name those places.",
+      "replacement": "No—not dust clouds. We were surrounded by monsters whose origins and identities we didn’t even know.",
+      "rationale": "The source’s two points of uncertainty are their origin and their identity; it does not say the places themselves cannot be named.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 208",
+      "current": "this vacant spot looked like a massive hole that could collapse at any moment. But it wasn’t one anymore.\n\nIt wasn’t one anymore.",
+      "defect": "The assembled English repeats “It wasn’t one anymore,” while the source states this only once.",
+      "replacement": "this vacant spot looked like a massive hole that could collapse at any moment, but it wasn’t one anymore.",
+      "rationale": "The Korean’s contrast between the apparent gap and the now-filled formation is expressed in a single clause; the extra repetition adds emphasis absent from the source.",
+      "confidence": 1.0
+    }
+  ]
+}
