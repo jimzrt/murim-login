@@ -18,13 +18,13 @@ The Slaughter Saint’s gaze shifted to Hyuk Mujin. Huddled in a corner of the c
 
 “To be precise, you kidnapped me in the dead of night while I was sound asleep and buried me in the desert. With only my head sticking out.”
 
-“That’s right. But he turned out to be surprisingly tight-lipped. He insisted he’d rather die than tell me anything that might put you in danger.”
+“That’s true. But he turned out to be surprisingly tight-lipped. Said he’d rather die than tell me anything that might put you in danger.”
 
 Perhaps buoyed by the Slaughter Saint’s testimony, Hyuk Mujin straightened his hunched shoulders.
 
 “You heard him, right? That’s how loyal I am.”
 
-“So, I had no choice but to tell him a rough version of what I’d heard. Then the very next day, some random weirdo came asking about you.”
+“So I had no choice but to tell him roughly what I’d heard. Then, the very next day, some random fool came asking me about it.”
 
 Right on cue, that “random fool” poked his head in.
 
@@ -46,9 +46,9 @@ Because he was Cheongpung.
 
 “Benefactor, me too! I only told Young Lady Ju!”
 
-Maybe an innocence-proving contest had started without my noticing. Cheongpung shouted with tremendous enthusiasm, and Jeok Cheongang nodded.
+Had an innocence-proving contest started without my noticing? Cheongpung was making his case with tremendous enthusiasm, and Jeok Cheongang nodded.
 
-“He’s not wrong. The problem was that he said it at just about that volume, at a meal where most of us were gathered.”
+“He’s not wrong. The problem is that he said it at about that volume, over a meal with most of us gathered around.”
 
 “…”
 
@@ -62,13 +62,13 @@ Unlike the others, she’d been silent this whole time, without so much as a rea
 
 I greeted her with an awkward smile, but she didn’t answer.
 
-She only stared at me, her gaze pricking my face like a thin needle.
+She just looked at me, her gaze pricking my face like a thin needle.
 
 No, she wasn’t the only one looking at me.
 
 A hush had fallen over the carriage. Everyone was watching.
 
-Well. I didn’t know.
+Well. I had no idea what to do.
 
 I felt like I should say something, but what? And how?
 
@@ -78,7 +78,7 @@ My thoughts were tangling like a ball of yarn when her tightly closed red lips p
 
 “You’re not, are you?”
 
-“Huh? What do you mean, all of a sudden?”
+“Huh? What do you mean?”
 
 “You’re not actually an immortal or something instead of a human, are you?”
 
@@ -122,13 +122,13 @@ I answered, still a little bewildered.
 
 “No, that’s right. Going back and forth a few times has messed up my sense of time, so I got confused for a second…”
 
-I’d started rambling out excuses without meaning to when Ju Hwaran cut me off in a voice as sharp as a blade.
+I was starting to ramble out excuses without meaning to when Ju Hwaran cut me off sharply.
 
 “So you haven’t even turned thirty yet.”
 
 “That’s right.”
 
-“And you’re not an immortal or a celestial who’s lived for five hundred years since ascending to immortality.”
+“And you’re not some immortal who ascended five hundred years ago.”
 
 “…I told you, I’m human.”
 
@@ -158,7 +158,7 @@ I didn’t know what it was, but it was settled.
 
 *No, honestly, I think I do know.*
 
-For some reason, my chest felt tight. Somewhere close to my heart.
+For some reason, my chest felt tight. The part near my heart.
 
 At the same time, another part of it grew heavy.
 
@@ -182,7 +182,7 @@ Jeok Cheongang, who’d been looking back and forth between Ju Hwaran and me, cl
 
 “Well, they’re searching different areas, so they’ll all be back before long. But there’s no need to gather them for that. Some of them still don’t know anything about you.”
 
-“What? But earlier, that human Cheongpung clearly—”
+“What? But earlier, Cheongpung clearly—”
 
 “Yes, that careless mouth of his said it loud enough for everyone to hear. At a meal where *most* of us were gathered.”
 
@@ -210,7 +210,7 @@ Jeok Cheongang snorted, then continued.
 
 Jeok Cheongang trailed off and scratched his bushy beard.
 
-“There’s someone else I’m more concerned about than him.”
+“There’s someone else I’m more concerned about.”
 
 “Someone else?”
 
@@ -220,7 +220,7 @@ Just as I’d thought of Great Sir, I remembered another person who wasn’t her
 
 *Bow Saint.*
 
-I muttered the words to myself and looked out the window.
+I looked out the window.
 
 Perhaps because clouds were passing across the pitch-black sky, the stars looked especially dim tonight.
 
@@ -238,7 +238,7 @@ But that wasn’t the only reason.
 
 “The realm of immortals… The realm of immortals.”
 
-Bow Saint gazed into the dark desert, her eyes clouded with thought.
+The Bow Saint gazed into the dark desert, her eyes grave.
 
 The boundless sea of sand before her seemed to mirror her heart.
 
@@ -254,7 +254,7 @@ It asked no questions. It only let the wind pass through in silence, from wherev
 
 But it was no good for conversation.
 
-No, even if the desert could speak, that wouldn’t change.
+Even if the desert could speak, that would not change.
 
 The person the Bow Saint wanted to speak to was someone else.
 
@@ -270,7 +270,7 @@ The Bow Saint could not understand.
 
 She had trusted and followed the letter’s instructions only because the Martial God had left it. From the beginning until now, she had never been able to make sense of what it said.
 
-And after hearing Jin Taekyung’s secret just a few days ago, she found it even harder to understand.
+And since hearing Jin Taekyung’s secret a few days ago, she understood it even less.
 
 “Is this truly… right?”
 

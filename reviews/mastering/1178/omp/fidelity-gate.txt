@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is faithful overall, with one minor shift in how an intruding character is described.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 33, 37",
+      "current": "random fool",
+      "defect": "“Fool” characterizes him as stupid, while 엉뚱한 놈 describes an odd or unexpected guy. The wording shifts the joke’s characterization.",
+      "replacement": "random weirdo",
+      "rationale": "The source labels him as an unexpected oddball, not a fool; “random weirdo” also matches the earlier description in the assembled translation.",
+      "confidence": 0.94
+    }
+  ]
+}
