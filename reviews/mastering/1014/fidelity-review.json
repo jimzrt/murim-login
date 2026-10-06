@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "from more than thirty yards away",
+      "defect": "The source says the watchers were more than ten jang away. Rendering that as thirty yards understates the distance: ten jang is roughly thirty meters, not thirty yards.",
+      "id": "F01",
+      "rationale": "The English unit conversion should preserve the source’s approximate distance rather than reduce it by about ten percent.",
+      "replacement": "from more than thirty meters away",
+      "severity": "minor",
+      "source": "Line 145"
+    }
+  ],
+  "summary": "One minor distance-conversion discrepancy; otherwise, no clear source-fidelity defects.",
+  "version": 1
+}

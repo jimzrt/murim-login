@@ -6,15 +6,15 @@ Thousands of men and horses raced across the vast plain. At their head, the mart
 
 Some, though, were busier stealing curious glances at someone riding far off to the side.
 
-“I’d only heard about him, but he’s much younger than I expected. He doesn’t look much older than me.”
+“I’d only heard about him, but he’s younger than I expected. He can’t be much older than me.”
 
-“They said he was around thirty, so that makes sense. Still, you can’t mistake the family resemblance. He’s the spitting image of the Sect Leader.”
+“They said he was thirty at most, so that makes sense. Still, you can’t mistake the family resemblance. He’s the spitting image of the Sect Leader.”
 
 “The Black Dragon Saber… What a killer sobriquet. So, is that rumor true?”
 
-Was he barely twenty? The young man still had the down on his cheeks, and the middle-aged man frowned at his out-of-the-blue question.
+The young man who asked looked barely twenty, with the down still on his cheeks. The middle-aged man frowned at the question.
 
-“What rumor are you talking about? You know I’m just as clueless about the inner workings as you are, so you’re not asking because you think I’d know.”
+“What rumor? You know I’m just as clueless about the inner workings as you are.”
 
 At the older man’s open displeasure, the young one hurriedly waved his hands.
 
@@ -28,7 +28,7 @@ At the older man’s open displeasure, the young one hurriedly waved his hands.
 
 “I didn’t mean you’d necessarily met the Young Sect Leader, Uncle.”
 
-The middle-aged man glared at the young one as he slyly looked away, then shook his head.
+The middle-aged man glared at him as he looked away, then shook his head.
 
 “I don’t know which idiot’s been running his mouth, but don’t believe it. It’s all ridiculous bullshit.”
 
@@ -66,29 +66,29 @@ A body without a head was bound to fall. Especially in Gansu, which the Black Dr
 
 Danhyeol Bang, once three hundred members strong, had collapsed. Five years later, it had faded from people’s minds.
 
-No. No one had bothered to remember.
+No. No one had dared to remember.
 
 Not the minor dispute between Danhyeol Bang and the Black Dragon Demon Gate shortly before the massacre.
 
-Not that, on the day the mysterious killer came, the Captain of the Guards—who should have been protecting the pleasure house where the chief and leaders of Danhyeol Bang had gathered to drink—had left with his men.
+Not why the Captain of the Guards, who should have been protecting the pleasure house where Danhyeol Bang’s chief and leaders were drinking that day, had taken his men and left just before the mysterious killer arrived.
 
 And not how that same Captain of the Guards had become the Black Dragon Demon Gate’s Outer Hall Master less than a month later.
 
 It had all been forgotten. It had to be.
 
-The identity of the killer skilled enough to slay one of Gansu’s ten greatest saber masters, the background of whoever had ordered the killing, and even where all of Danhyeol Bang’s property and farmland had gone.
+The identity of the killer skilled enough to slay one of Gansu’s ten greatest saber masters. The power behind whoever had ordered it. Even where all of Danhyeol Bang’s property and farmland had gone.
 
 But the forgetting was only on the surface. The unorthodox martial artists who knew what had happened were certain.
 
 And they were in awe.
 
-Just like the young man who, as an unorthodox martial artist himself, now looked at Sama Pyo with admiration.
+Just like the young man now gazing at Sama Pyo.
 
 “That’s really, really incredible. Don’t you think? No wonder he became the heir over his older half-brothers—”
 
 The young man caught his breath.
 
-Reflected in his trembling eyes was the middle-aged man, face twisted as he gripped his sword hilt.
+The middle-aged man’s face had twisted, and his hand was gripping his sword hilt.
 
 “You really do have a death wish, don’t you?”
 
@@ -200,7 +200,7 @@ Sima Gong studied his son’s profile as though searching for the tiniest crack.
 
 “Unlike at the Imperial Palace, you suffered no injuries of note in Shanxi, as I understand it. Am I mistaken?”
 
-“You’re right. That’s when I was finally able to receive the missive from our sect.”
+“No. That’s when I was finally able to receive the missive from our sect.”
 
 “Then you saw the order.”
 
@@ -216,7 +216,7 @@ At the answer, given without a hint of hesitation, Sima Gong’s gaze grew darke
 
 “Exactly.”
 
-“Then, lastly—do you have a proper reason or justification for seeing my seal and still not carrying out the order?”
+“Then tell me one last thing. Do you have any justification for seeing my seal and still failing to carry out the order?”
 
 Sama Pyo turned and looked his father straight in the eye.
 
@@ -224,7 +224,7 @@ Sama Pyo turned and looked his father straight in the eye.
 
 “…!”
 
-“I won’t make excuses. I won’t give you any reason. I failed to carry out the order properly, so I’ll accept whatever punishment I deserve. Please forgive me.”
+“I won’t make excuses or offer a reason. I failed to carry out the order, and I’ll accept the punishment I deserve. Please forgive me.”
 
 Sima Gong fell silent, taken aback by his son’s response. Then a low laugh broke the brief silence between them.
 
@@ -240,7 +240,7 @@ He watched his father calmly until the laughter stopped and a voice took its pla
 
 The voice was soft as silk. His eyes were sharp as blades.
 
-“If you dared to lie to my face—if you did…”
+“If you had dared to lie to my face, if you had…”
 
 His words faded unfinished, and his eyes curved into crescents.
 
@@ -258,7 +258,7 @@ He turned his horse and rode away. Sama Pyo watched him go in silence.
 
 With a single sentence, Sima Gong had decided the fate of two nameless martial artists for a careless remark spoken only briefly. Sama Pyo kept watching until his father disappeared from view.
 
-Then Taishan came over—an old friend who had been as steady as the mountain he was named for since childhood—and asked in a trembling voice,
+Then Taishan approached. The friend whose name suited him had been a steady support since childhood.
 
 “M-my lord. Are you all right?” he asked, his voice trembling.
 
