@@ -32,7 +32,7 @@ My Fame had been creeping upward little by little, only to stop dead half a day 
 
 *No, I did get a notification.*
 
-Beep!
+*Beep!*
 
 > **System**
 >
@@ -308,7 +308,7 @@ Jin Wikyung wiped the damp corners of his eyes with his sleeve and continued.
 
 “But no.”
 
-“Then give me a reconnaissance mission—what?”
+“Then a reconnaissance mission for me, please?”
 
 “I appreciate the thought. Continue guarding the rear.”
 
