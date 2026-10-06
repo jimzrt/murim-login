@@ -62,7 +62,7 @@ With a pleased smile, Jeok Cheongang spoke to Cheongpung.
 
 “What?”
 
-Cheongpung tilted his head and asked again.
+Cheongpung tilted his head.
 
 “Why?”
 
@@ -92,7 +92,7 @@ Cheongpung thought hard for a moment, then slapped his forehead.
 
 “A boomer. They say ‘boomer-brain’ means something similar.”
 
-*What? A boomer? Boomer-brain?* Neither the sound nor the feel of the words was particularly pleasant.
+A boomer? Boomer-brain? Neither the sound nor the feel of the words was particularly pleasant.
 
 Jeok Cheongang did not know exactly what they meant, but he understood the context well enough.
 
@@ -130,7 +130,7 @@ Just in case, I even added a groan.
 
 “Hey, I said come here.”
 
-*Stay calm.*
+Stay calm.
 
 He was just making a wild guess. If I fell for it immediately, I would be Third Rate.
 
@@ -164,7 +164,7 @@ He truly looked worthy of the title Fire King.
 
 *Fuck. The Fire King.*
 
-*What are you doing here, hyung[^1]…?*
+*What are you doing here, hyung…?*
 
 No matter how many times I thought it over, the situation was utterly unbelievable.
 
@@ -184,7 +184,7 @@ Ding.
 > - It is assimilating the internal energy that has entered your body.
 > - Your internal energy has risen slightly.
 
-It had happened in the blink of an eye. At first, I thought I was about to be roasted alive. But soon my stomach grew warm, as if I had just eaten a bowl of gukbap,[^2] and my internal energy even increased.
+It had happened in the blink of an eye. At first, I thought I was about to be roasted alive. But soon my stomach grew warm, as if I had just eaten a bowl of gukbap,[^1] and my internal energy even increased.
 
 *What the hell is this?*
 
@@ -416,5 +416,4 @@ Then, in the next moment, I realized something.
 
 I had forgotten about that bastard.
 
-[^1]: *Hyung* is a familiar Korean term a man uses for an older brother or an older man.
-[^2]: *Gukbap* is a Korean dish of rice served in hot soup.
+[^1]: *Gukbap* is a Korean dish of rice served in hot soup.
