@@ -72,7 +72,7 @@ As I recalled, he had been about a head shorter than me. Now our eye levels were
 
 “Damn, you really made it big.”
 
-An unrecognizably changed face, a solid build, a pretty girlfriend, and a foreign car that looked like it would easily cost well over a hundred million won.[^1]
+An unrecognizably changed face, a solid build, a pretty girlfriend, and a foreign car that looked like it would easily cost well over a hundred million won.
 
 Jihwang—or rather, Jihoon—had changed a great deal in the ten years since I’d last seen him, and I knew why.
 
@@ -118,7 +118,7 @@ We kept talking and laughing. Most of our conversation was about memories from m
 
 A considerable amount of time passed before Jihoon’s girlfriend subtly hinted that her legs were hurting.
 
-“Oppa,[^2] my legs hurt.”
+“Oppa, my legs hurt.”
 
 “Hm? Then do you want to wait in the car? I’ll talk a little longer and be right there.”
 
@@ -167,7 +167,7 @@ Jihoon checked his smartphone and grinned.
 
 “Everyone in the class knew. Why were you the only one who didn’t?”
 
-*Damn. They should’ve told me sooner… No, wait.*
+*Damn. They should’ve told me sooner…*
 
 Not that it mattered now that I had Ms. Songi. I was a one-woman man. Now that I’d met my destined partner, none of that mattered.
 
@@ -201,7 +201,7 @@ As I watched the car disappear with the roar of its large engine, a thought sudd
 
 “What’s with that tone? You didn’t like him?”
 
-“Yeah. I didn’t want to say it because he’s your friend, Oppa,[^2] but honestly, he was kind of off.”
+“Yeah. I didn’t want to say it because he’s your friend, Oppa, but honestly, he was kind of off.”
 
 “That’s strange. He was really popular when he was young.”
 
@@ -249,7 +249,7 @@ It looked like something straight out of a fairy tale. I toured the house while 
 
 “So what’s the market price?”
 
-“Exactly what you saw online. 3.38 billion won.[^3]”
+“Exactly what you saw online. 3.38 billion won.”
 
 It was still an amount that made me want to swear, but the house was worth every bit of it.
 
@@ -335,11 +335,13 @@ Beep.
 
 If the System said there was nothing, then there was nothing. I must have been especially tired lately.
 
-“Ah, now I suddenly have a craving for samgyetang.[^4]”
+“Ah, now I suddenly have a craving for samgyetang.[^1]”
 
 Since I had thought of it, maybe I should go out to eat with the whole family.
 
 The thought of tender chicken and piping-hot broth put a spring in my step.
+
+[^1]: Samgyetang is a Korean ginseng chicken soup traditionally served piping hot.
 
 * * *
 
@@ -374,8 +376,3 @@ He was a master of tracking and surveillance magic. He couldn’t cast flashy of
 “That’s right. There’s no way. It was just a coincidence. A coincidence.”
 
 Hong Woojin muttered the words like a mantra. Anxiety lingered in his voice.
-
-[^1]: Well over a hundred million won means more than about $71,000 or €65,000; the phrase gives no upper limit.
-[^2]: *Oppa* is a Korean term a woman uses to address an older man, including her boyfriend.
-[^3]: 3.38 billion won is about $2.4 million or €2.2 million.
-[^4]: *Samgyetang* is a Korean chicken soup made with ginseng.
