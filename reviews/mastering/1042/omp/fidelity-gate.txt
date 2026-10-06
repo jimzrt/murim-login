@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, with two minor physical-detail losses.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 169–171",
+      "current": "Only after sliding back several feet did they finally stop.",
+      "defect": "The source specifies that they were pushed back one jang, roughly three meters. “Several feet” understates that distance.",
+      "replacement": "Only after being pushed back about three meters did they finally stop.",
+      "rationale": "일장 밀려나고서야 gives a specific distance, not merely a short slide backward.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 313",
+      "current": "poured every last bit of his energy into the remains of his beloved sword",
+      "defect": "The translation drops the explicit detail that the sword’s battered shape could no longer be called a sword.",
+      "replacement": "poured every last bit of his energy into his beloved sword, now reduced to a shape no longer recognizable as a sword",
+      "rationale": "이제는 검이라 부를 수 없는 형태 describes the sword’s physical condition, not just that only its remains were left.",
+      "confidence": 0.87
+    }
+  ]
+}

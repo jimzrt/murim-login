@@ -24,9 +24,7 @@ He didn’t want to die yet.
 
 He wanted to live somehow, even if he had to struggle pathetically for it.
 
-But there was no way.
-
-No—there was only one way.
+But there was no other way.
 
 To break through the powerful barrier surrounding the Grand Mage and take her life with a single strike, he would have to burn up his own life.
 
@@ -68,7 +66,7 @@ Dark as the deep sea, flashing like lightning, burning like flame.
 
 At last, those forces merged and swelled larger than ever before. Powerful enough to devour its wielder’s life, the energy surged along the spearhead he held drawn back like a bowstring.
 
-In that moment, it blazed with such dazzling light that it seemed to color the Grand Mage’s eyes, hidden behind her finely woven veil.
+It blazed so brightly that its light colored the Grand Mage’s eyes behind her finely woven veil.
 
 *This is…*
 
@@ -96,7 +94,7 @@ That sliver of time—no more than an instant—changed both their fates.
 
 Fwoosh!
 
-An immense energy exploded around the Grand Mage.
+Immense energy exploded outward from the Grand Mage.
 
 It began spreading far faster than Jin Taekyung had expected. He had only one choice left.
 
@@ -104,15 +102,15 @@ Shwoosh!
 
 The spearhead tore through space.
 
-At the same time, a One Annihilation larger than ever before, and therefore not even half-formed,finally met the barrier between them.
+One Annihilation, larger than ever before and not yet half condensed, finally struck the barrier between them.
 
 Gooooom.
 
-A deafening roar made his ears ring, and white light washed over the hill.
+A deafening roar swallowed all sound, and white light washed over the hill.
 
 * * *
 
-Amid the faint pain coming from all over his body, the old Daoist steadied his ragged breathing.
+Pain throbbed throughout the old Daoist’s body as he steadied his ragged breathing.
 
 Hoo.
 
@@ -140,7 +138,7 @@ Two blades he hadn’t quite avoided slashed his side and shoulder, and the trem
 
 *Hng…!*
 
-His vision blurred.
+His vision dimmed.
 
 The Wind-and-Cloud Sword Lord steadied himself and swept his treasured sword out. Brilliant Sword Force flared along the blade, now only half its former length.
 
@@ -156,7 +154,7 @@ At that moment, two figures appeared from nowhere and caught the Wind-and-Cloud 
 
 Grind.
 
-Only after sliding back several feet did they finally stop.
+Their feet slid back a full *jang* before they stopped.
 
 The Wind-and-Cloud Sword Lord coughed up dark blood. He moved his lips, looking toward the two men whose faces he could barely make out.
 
@@ -166,9 +164,9 @@ The Wind-and-Cloud Sword Lord coughed up dark blood. He moved his lips, looking 
 
 His eldest Senior Brother, the Roaring Fury Swordsman, snapped at him. Then his second Senior Brother, the Taeeul Merciless Sword, spoke with a grave expression.
 
-“This is enough. Junior Brother, Sect Leader.”
+“This is enough, Junior Brother.”
 
-This is enough.
+*This is enough.*
 
 It was a short sentence, but the Wind-and-Cloud Sword Lord understood at once what it meant.
 
@@ -234,7 +232,7 @@ But…
 
 He let out a quiet sigh.
 
-He shrugged off the support of his two Senior Brothers, who stared at him with wide eyes, and gripped the hilt—all that remained of his beloved sword—so tightly it seemed ready to break.
+Shaking off his Senior Brothers’ support, he gripped the hilt—all that remained of his beloved sword—so tightly it seemed it might crumble.
 
 “Do you remember? When Master gave me this sword, he said, ‘You need not strive to become a Daoist. Just live rightly. If you uphold your duty as a human being, that makes you a Daoist.’”
 
@@ -242,13 +240,13 @@ He shrugged off the support of his two Senior Brothers, who stared at him with w
 
 “…!”
 
-“If you want so badly to live, then go, Senior Brothers. I’ll stay. That is the only way not to disgrace the name of the Great Zhongnan Sect we inherited from our Master.”
+“If you want so badly to live, then go, Senior Brothers. I’ll stay. I won’t disgrace the name of the Great Zhongnan Sect we inherited from our Master.”
 
 The Wind-and-Cloud Sword Lord knew. So did the Roaring Fury Swordsman and the Taeeul Merciless Sword.
 
 Everyone on the battlefield knew.
 
-If the Zhongnan Sect, one of the forces holding the battlefront together at this point, withdrew, this battle would be a certain defeat.
+If the Zhongnan Sect, now holding one part of the battlefront, withdrew, this battle would end in certain defeat.
 
 The Wind-and-Cloud Sword Lord could not retreat.
 
@@ -276,7 +274,7 @@ That was the duty his Master had taught him to uphold as a human being.
 
 He had always envied Huashan for forging ahead and pursued only the Zhongnan Sect’s interests.
 
-He’d grown the sect’s influence through wealth exchanged in collusion with those in power, and accepted Disciples for their talent rather than their character.
+He had allied himself with those in power, using the wealth that passed between them to expand the sect’s influence. He had accepted Disciples for their talent rather than their character.
 
 He had believed it was the right way to serve the Zhongnan Sect.
 
@@ -292,7 +290,7 @@ That was why he couldn’t retreat.
 
 “Come. No—this time, I’ll come to you.”
 
-The Wind-and-Cloud Sword Lord’s voice was thick with blood.
+Blood thickened the Wind-and-Cloud Sword Lord’s voice.
 
 With eyes clearer than ever, he watched the two monsters approach and poured every last bit of his energy into the remains of his beloved sword.
 
@@ -308,7 +306,7 @@ The words barely left his lips before he hurled himself forward with all his str
 
 “No!”
 
-“Junior Brother, Sect Leader!”
+“Junior Brother!”
 
 He left his Senior Brothers’ cries behind and flew toward the Black Ghosts like a moth to a flame. Two streaks of light waited for him.
 
@@ -334,7 +332,7 @@ He didn’t know what to call it, but one thing was clear.
 
 Grind!
 
-The unexpected shock wave threw the two Black Ghosts off balance where they stood, while the Wind-and-Cloud Sword Lord’s strike, already hurtling through the air, slipped between their two streaks of light.
+The shock wave threw the two Black Ghosts off balance where they stood. The Wind-and-Cloud Sword Lord, already hurtling through the air, drove his strike between their two streaks of light.
 
 Shhk!
 
