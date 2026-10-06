@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "her black eyes remained fixed on the hill below.",
+      "defect": "The Korean says her eyes had been fixed on the hill below all along (줄곧 그래왔듯이). The assembled version drops that continuity detail, which the accepted baseline preserves.",
+      "id": "F01",
+      "rationale": "줄곧 그래왔듯이 explicitly marks the ongoing, established direction of her gaze.",
+      "replacement": "her black eyes remained fixed on the hill below, as they always had.",
+      "severity": "minor",
+      "source": "Line 32"
+    },
+    {
+      "confidence": 0.91,
+      "current": "one of the absolute one’s closest confidantes",
+      "defect": "“Confidantes” specifies a female confidant, but the Korean only identifies this woman as one of the absolute one’s closest associates; it does not specify the associate’s gender.",
+      "id": "F02",
+      "rationale": "최측근 중 하나 establishes closeness and status, not the associate’s gender.",
+      "replacement": "one of the absolute one’s closest confidants",
+      "severity": "minor",
+      "source": "Line 28"
+    },
+    {
+      "confidence": 0.88,
+      "current": "No sooner had it reached his hand than it shot out in a flash.",
+      "defect": "This states as fact that the spear reached his hand before shooting out. The Korean immediately qualifies the apparent retrieval: the instant it seemed to happen, the spear shot away. The accepted baseline preserves that momentary perception.",
+      "id": "F03",
+      "rationale": "그랬다고 느낀 순간 makes the retrieval a perception at the moment of the spear’s sudden launch, not an unequivocal completed pause before it.",
+      "replacement": "No—the instant it seemed to reach his hand, it shot out in a flash.",
+      "severity": "minor",
+      "source": "Line 83"
+    }
+  ],
+  "summary": "The assembled English is faithful overall, with a few minor omissions or added implications compared with the Korean and accepted baseline.",
+  "version": 1
+}

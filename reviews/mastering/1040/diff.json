@@ -1,0 +1,1845 @@
+{
+  "baseline_blocks": 179,
+  "baseline_sha256": "e17011f117203106b578310738fe9cdde729cca5e61c6eaea8298a76ff333573",
+  "global_terminology_alerts": [],
+  "hunk_count": 100,
+  "hunks": [
+    {
+      "baseline": "A terrifying explosion shook the very earth.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "A deafening explosion shook the earth.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The immense shock wave erupted without warning, rattling everything around it. It was powerful enough to reach beyond a radius of several dozen *jang* and all the way up to the steep hill.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "The shock wave burst out without warning, rattling everything around it. It reached beyond a radius of several dozen *jang*, all the way up the steep hill.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“May I speak, my Lady?”",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "13",
+      "sol": "“May I speak, Grand Mage?”",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the old man’s voice, which cut through the rumbling ground and pierced her ears, red lips stirred beneath a silver-white veil.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "15",
+      "sol": "The old man’s voice cut through the rumbling. Beneath a silver-white veil, red lips stirred.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was no trace left of the woman who’d been rattled by the Blood-Sword Demon Lord’s fury just fifteen minutes ago.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "19",
+      "sol": "There was no trace of the woman who’d been rattled by the Blood-Sword Demon Lord’s fury just fifteen minutes ago.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At her superior’s cool, almost icy reply, the old mage’s frame twitched.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "21",
+      "sol": "At his superior’s calm, almost icy reply, the old mage flinched.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His voice was filled with concern.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "25",
+      "sol": "His voice was full of concern.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the woman called the Grand Mage, standing at the center of the white-robed figures, paid him no mind as she spoke.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "27",
+      "sol": "But the woman at the center of the white-robed figures paid him no mind.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마법사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "mage"
+        },
+        {
+          "korean": "대술사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grand Mage"
+        }
+      ]
+    },
+    {
+      "baseline": "“Put your pointless worries aside. What you’re afraid of won’t happen.”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "29",
+      "sol": "“Put your worries aside. What you’re afraid of won’t happen.”",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Under normal circumstances, the old mage, her subordinate, would have fallen silent by now.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "35",
+      "sol": "Ordinarily, the old mage would have fallen silent by now.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The hierarchy within Dark Heaven was mercilessly strict, and the woman before him had enough power to crush him like an ant with a mere flick of her hand.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "37",
+      "sol": "Dark Heaven’s hierarchy was mercilessly strict, and the woman before him could crush him like an ant with a flick of her hand.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the old mage had seen it clearly.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "39",
+      "sol": "But he had seen it clearly.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마법사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "mage"
+        }
+      ]
+    },
+    {
+      "baseline": "At the last moment, one man’s figure had been swallowed by countless flashes of light.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "41",
+      "sol": "At the last moment, countless flashes of light had swallowed one man.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A young man who’d thrown himself in front of what should have been certain death—not merely recklessly, but as if he’d already given up on living.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "43",
+      "sol": "A young man who’d thrown himself toward certain death, so far beyond recklessness that it was as if he’d already given up on living.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old mage knew his own role well. Swallowing hard, he had no choice but to force the words out.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "45",
+      "sol": "The old mage knew his role. Swallowing hard, he forced himself to continue.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But if things continue like this, he may be in danger. As you know, if ‘he’ dies here, how are we to bear that person’s wrath?”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "47",
+      "sol": "“But if this goes on, he may be in danger. As you know, if ‘he’ dies here, how are we to bear that person’s wrath?”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If the absolute one’s keenly watched favorite met such a futile end, they too would die for failing their mission.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "53",
+      "sol": "If a man who had drawn such keen interest from the absolute one met such a futile end, they too would die for failing their mission.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—they would die. Without a doubt.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "55",
+      "sol": "No—they *would* die. Without a doubt.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old mage believed there would be no exception, not even for the woman before him, his superior and one of the absolute one’s closest confidantes.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "57",
+      "sol": "The old mage believed there would be no exception, not even for the woman before him: his superior, and one of the absolute one’s closest confidantes.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The woman repeated his words, then let out a quiet laugh.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "63",
+      "sol": "The woman repeated his words, then gave a quiet laugh.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beyond the finely woven veil, her black eyes remained fixed on the hill below, as they always had.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "65",
+      "sol": "Beyond the finely woven veil, her black eyes remained fixed on the hill below.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old mage had just begun to answer when—",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "71",
+      "sol": "The old mage was about to answer when—",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The hazy dust cloud covering the foot of the hill split apart.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "75",
+      "sol": "The hazy cloud of dust at the foot of the hill split apart.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And, as if an invisible, razor-sharp blade had passed through it, the veil parted cleanly to reveal the scene hidden within.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "77",
+      "sol": "As if an invisible blade had passed through it, the curtain parted cleanly to reveal what lay beyond.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old mage—and everyone on the hill—stared wide-eyed.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "83",
+      "sol": "The old mage—and everyone else on the hill—stared wide-eyed.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What their stunned eyes saw in that moment was a figure standing tall amid ground devastated as if by a falling meteor.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "85",
+      "sol": "Amid ground devastated as if a meteor had struck it stood a towering figure.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One mage raised a hand and pointed before he even realized what he was doing. The gesture was pointless; every eye nearby had already turned that way.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "89",
+      "sol": "One mage pointed before he knew what he was doing. The gesture was pointless. Everyone was already looking.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A familiar figure, towering nine feet tall, with arms and legs as thick as pillars.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "91",
+      "sol": "No one could miss that nine-foot frame, with arms and legs as thick as pillars. Or the familiar black armor enclosing it from head to toe.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His entire body was covered in black armor.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "93",
+      "sol": "",
+      "sol_paragraphs": "after P45",
+      "sol_range": [
+        45,
+        45
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A trembling groan escaped the old mage’s lips.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "97",
+      "sol": "A trembling groan escaped the old mage.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The brief shock vanished, replaced by deep despair. His eyes fixed on the man lying bloodied at the Black Ghost’s feet.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "99",
+      "sol": "His brief shock gave way to despair as his gaze fell on the bloodied man lying at the Black Ghost’s feet.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The one who must not die here.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "101",
+      "sol": "The man who must not die here.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He’d held on to a sliver of hope after seeing the Grand Mage’s confidence just moments ago. That only made the shock worse.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "109",
+      "sol": "He’d taken a sliver of hope from the Grand Mage’s composure a moment ago. That only made the shock worse.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Half of the hundred elite guards they’d kept behind in case of trouble had vanished. But compared to the fact that Jin Taekyung was dead, that meant nothing.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "111",
+      "sol": "Half the hundred elite fighters they’d kept back as guards had vanished, but that meant nothing beside Jin Taekyung’s death.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The twenty mages all thought the same.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "113",
+      "sol": "All twenty mages thought the same.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At least, until the Grand Mage’s quiet voice rang out the very next moment.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "115",
+      "sol": "At least until the Grand Mage spoke softly.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mages widened their eyes at the incomprehensible murmur—and at the admiration in it.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "119",
+      "sol": "The mages’ eyes widened at the murmur, its meaning beyond them but its note of admiration unmistakable.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, all at once, they saw.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "121",
+      "sol": "Then they saw.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only now could they see what had been hidden behind his enormous body: a silver spearhead embedded between his brows.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "127",
+      "sol": "Only now, with his enormous body falling away, could they see the silver spearhead lodged between his brows.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But though they saw it, they could not hear—",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "129",
+      "sol": "They could see it. But they could not hear—",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The voice of recovery sounded by the ear of a man everyone believed was dead, but who still lived.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "137",
+      "sol": "It rang in the ears of the man everyone believed dead, but who still lived: the sound of his return to life.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A warm radiance welled up from deep within his body, which had been growing cold.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "143",
+      "sol": "Warm light welled up from deep within his cooling body.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It stopped the blood seeping through gaps in his red armor, torn apart by countless blades of Sword Energy and Force. It mended his torn flesh and broken bones, and rekindled the flame of life once more.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "145",
+      "sol": "It stopped the blood seeping through the gaps in his red armor, shattered by countless strikes of Sword Energy and Force. It mended torn flesh and broken bones, rekindling the flame of life once more.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if waking from a long dream, Jin Taekyung slowly opened his eyes. He looked up at the dark sky he’d seen once before and muttered,",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "151",
+      "sol": "As if waking from a long dream, Jin Taekyung slowly opened his eyes. He looked up at the dark sky before him once again and muttered,",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment the old mage saw that unbelievable sight, he understood.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "155",
+      "sol": "The moment the old mage saw it, he understood.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He understood what the words he’d heard a moment ago meant.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "161",
+      "sol": "He understood what the Grand Mage had meant.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Grand Mage had been right.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "169",
+      "sol": "She had been right.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마법사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "mage"
+        },
+        {
+          "korean": "대술사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grand Mage"
+        }
+      ]
+    },
+    {
+      "baseline": "It wasn’t Jin Taekyung who now had to face the danger of death. It was them.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "173",
+      "sol": "Jin Taekyung wasn’t the one who now had to risk dying.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P80",
+      "baseline_range": [
+        80,
+        80
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "173",
+      "sol": "They were.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The spear embedded deep between the Black Ghost’s brows flew into its owner’s grasp, as if drawn by an invisible force.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "177",
+      "sol": "The spear lodged deep between the Black Ghost’s brows flew into its owner’s grasp as if drawn by an invisible force.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—at the very instant it seemed to, it shot out in a flash.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "179",
+      "sol": "No sooner had it reached his hand than it shot out in a flash.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A blue-black flame, swinging savagely like a giant dragon’s tail, tore through the surviving enemies.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "183",
+      "sol": "Blue-black flames swept through the surviving enemies in a savage arc like a giant dragon’s tail.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Urgent shouts rang out from all directions, starting with the old mage.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "189",
+      "sol": "Urgent shouts rose all around her, beginning with the old mage.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the Grand Mage silently watched the horrifying, wondrous sight, her eyes flashing with an inscrutable light.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "191",
+      "sol": "But the Grand Mage watched the horrifying, wondrous sight in silence, an inscrutable light in her eyes.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A quiet exclamation hovered on her tongue.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "195",
+      "sol": "The quiet exclamation hovered on her tongue.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even as the mages clenched their teeth and stepped forward, unable to wait for her command, she alone stood there, smiling quietly.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "197",
+      "sol": "Even when the mages could wait no longer for her command and stepped forward with clenched teeth, she alone stood there, smiling quietly.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "From the moment I first opened my eyes in Murim, I’d run into the same reality over and over. Put simply:",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "203",
+      "sol": "From the moment I first opened my eyes in Murim, I’d faced the same reality again and again. Put simply:",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An adventure with no set ending always came with enormous danger. But the greater the risk, the more certain the reward.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "211",
+      "sol": "An adventure with no guaranteed ending came with enormous danger. But the payoff was worth the risk.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A message confirming I’d defeated the Black Ghost, the last obstacle. A Level Up. And a holographic window telling me I’d recovered as a result.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "219",
+      "sol": "A message confirming I’d defeated the Black Ghost, the last obstacle. A Level Up. A holographic window telling me I’d recovered as a result.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the final warning beep was…",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "221",
+      "sol": "And that final warning beep…",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The message told me my divine weapon had taken the hit. It was the biggest reason I’d been able to take this risk—and the thing that had kept death at bay, if only for a little while, despite the crazy stunt I’d pulled.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "227",
+      "sol": "It told me the divine weapon that had made this gamble possible had taken the hit. Despite the crazy stunt I’d pulled, it had kept death at bay, if only for a little while.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Maybe it was because I’d just barely come back from the brink of death.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "231",
+      "sol": "Maybe it was because I’d come so close to death, but it still didn’t feel real.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It still didn’t feel real.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "235",
+      "sol": "",
+      "sol_paragraphs": "after P106",
+      "sol_range": [
+        106,
+        106
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, I’d taken the gamble hoping I’d survive.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "237",
+      "sol": "I’d made the gamble hoping I would survive, of course.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If that damned Black Ghost had taken even a little longer to die, we probably would’ve ended up killing each other at best.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "241",
+      "sol": "If that damned Black Ghost had taken even a little longer to die, the best I could’ve hoped for was taking him down with me.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as I had all along, from the very beginning, I remained here, relentlessly cutting down my enemies.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "249",
+      "sol": "And just as I had from the beginning, I was still here, cutting down enemies without stopping.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My body was brimming with life—the reward I’d won for risking my life.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "251",
+      "sol": "The life I’d risked mine to win surged through my body.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I drove my spear through three enemies in one powerful thrust, then swept out a palm at those rushing in from my blind spot.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "255",
+      "sol": "I drove my spear through three enemies in a single powerful thrust, then swept out a palm strike at those rushing in from my blind spot.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of the fifty or so enemies left alive after my clash with the Black Ghost, their numbers kept visibly dwindling.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "261",
+      "sol": "Of the fifty or so enemies who’d survived my clash with the Black Ghost, fewer remained by the moment.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But I gritted my teeth and pushed myself harder.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "265",
+      "sol": "I gritted my teeth and pushed harder.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My mental strength, already stretched to the limit, was running dry.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "269",
+      "sol": "My mental strength had already been pushed to its limit. I was running on empty.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If I hadn’t gotten my body back through the Level Up—if I hadn’t been thinking of everyone still behind me—I might have collapsed already.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "271",
+      "sol": "If the Level Up hadn’t restored my body—if I hadn’t been thinking of everyone still behind me—I might have collapsed already.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*They won’t go down until I take them down.*",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "273",
+      "sol": "*They won’t fall until I bring them down.*",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if possessed, I swung White Flame.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "275",
+      "sol": "I swung White Flame as if possessed.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My hands and feet, their movements etched into them through endless training and instinct, swept through my enemies faster than my mind could keep up. My brain had slowed sharply from pushing the Middle Dantian’s ability to its limit.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "277",
+      "sol": "I’d pushed the Middle Dantian’s ability to its limit, and my mind had slowed noticeably. My hands and feet, guided by instinct and movements ingrained through endless training, swept through the enemy faster than I could think.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was relying on instinct rather than reason.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "279",
+      "sol": "I was relying on instinct more than reason.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even so, there was one last thread of reason I clung to: the reason I couldn’t fall, and the greatest variable my enemies had.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "281",
+      "sol": "Even so, I held on to one last thread of reason: why I couldn’t fall, and the greatest threat these enemies posed.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was probably why.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "285",
+      "sol": "",
+      "sol_paragraphs": "after P130",
+      "sol_range": [
+        130,
+        130
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My instincts, sharper than ever and racing ahead of my reason, sensed another anomaly. I’d been keeping those two words in the back of my mind all along.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "287",
+      "sol": "Maybe that was why my instincts, keener than ever as they raced ahead of my thoughts, picked up another change. I’d been wary of Magic all along.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Space and air trembled.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "291",
+      "sol": "Space trembled. The air trembled.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, a desperate shout rang out in the distance.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "293",
+      "sol": "At the same time, desperate voices rang out in the distance.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Energy boiled up from the hilltop and hurtled toward me.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "301",
+      "sol": "Energy surged from the hilltop and hurtled toward us.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But I knew.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "305",
+      "sol": "But I knew one thing about this kind of body-strengthening Magic.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Magic that strengthened the body like this required its target to still be alive.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "307",
+      "sol": "Its targets had to be alive for it to work.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Magic"
+        }
+      ]
+    },
+    {
+      "baseline": "White Flame, wreathed in blue-black fire, tore through the air.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "311",
+      "sol": "White Flame’s spearhead, wreathed in blue-black fire, tore through the air.",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The terrifying ring of fire swept through a dozen or so enemies within the spell’s range.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "313",
+      "sol": "The terrible ring of flame swept toward the dozen or so enemies within the spell’s range.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that very instant, pain flared along my side.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "319",
+      "sol": "At that very instant, pain shot through my side.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But I’d been ready for it. I turned without a second thought and swung my elbow.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "321",
+      "sol": "I’d been ready for it. Without slowing down, I turned and drove my elbow back.",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The enemy’s face caved in, and he went flying. I pulled the dagger from my side and swept out my arm in a flash.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "325",
+      "sol": "The enemy’s face caved in, and he went flying. I pulled the dagger lodged deep in my side free and whipped my arm out in a flash.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a dull thud, another enemy’s head snapped back. There were only about twenty left now.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "329",
+      "sol": "With a dull thud, another enemy’s head snapped back. Only about twenty remained.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Listening to the shouts of the white-robed figures—or rather, the mages—now tinged with fear, I could roughly guess what was happening.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "335",
+      "sol": "The white-robed figures—the mages—were shouting with fear in their voices now. I was beginning to see it.",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And in the next moment, the confidence that certainty gave me burst out through my feet.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "341",
+      "sol": "And in the next moment, that realization lent force to my feet.",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The earth’s crust heaved, then melted away.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "345",
+      "sol": "The ground buckled, then melted.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a single explosive burst, my body shot forward. There was no one left nearby who could stop me.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "349",
+      "sol": "I shot forward in a single explosive burst. No one nearby could stop me now.",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter how fiercely a hunting dog was raised, it couldn’t stand against a wolf. And even a thousand-year-old *imugi* couldn’t ascend to the heavens without a dragon pearl.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "351",
+      "sol": "No matter how strong you made a hunting dog, it couldn’t stand against a wolf. Even a thousand-year-old *imugi* couldn’t ascend to the heavens without a dragon pearl.",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if the thing trying to stop me wasn’t human.",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "353",
+      "sol": "Not even something inhuman could stop me.",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with a voice I remembered, an immense pressure bore down on me as I shot forward like a streak of flame.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "361",
+      "sol": "A voice I remembered rang out, and immense pressure descended on me as I shot forward like a streak of flame.",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The flow of qi. A single line hidden beneath that immense power.",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "369",
+      "sol": "The flow of qi. A single line hidden within that immense power.",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My spearhead cut through space without a sound.",
+      "baseline_paragraphs": "P178",
+      "baseline_range": [
+        177,
+        178
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "377",
+      "sol": "My spearhead crossed the space without a sound.",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It cut through the great mountain.",
+      "baseline_paragraphs": "P179",
+      "baseline_range": [
+        178,
+        179
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "379",
+      "sol": "It cut through the mountain.",
+      "sol_paragraphs": "P177",
+      "sol_range": [
+        176,
+        177
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 177,
+  "sol_sha256": "a98fbe4866fae97e1f454233aefb8e1c585f02f394d15faa4290990b7d8202ef",
+  "version": 1
+}

@@ -8,7 +8,7 @@ The shock wave burst out without warning, rattling everything around it. It reac
 
 Rumble.
 
-“May I say something?”
+“May I speak, Grand Mage?”
 
 The old man’s voice cut through the rumbling. Beneath a silver-white veil, red lips stirred.
 
@@ -22,7 +22,7 @@ At his superior’s calm, almost icy reply, the old mage flinched.
 
 His voice was full of concern.
 
-But the woman called the Grand Mage, standing at the center of the white-robed figures, paid him no mind as she spoke.
+But the woman at the center of the white-robed figures paid him no mind.
 
 “Put your worries aside. What you’re afraid of won’t happen.”
 
@@ -72,7 +72,7 @@ FWOOSH.
 
 The hazy cloud of dust at the foot of the hill split apart.
 
-And, as if an invisible, razor-sharp blade had passed through it, the veil parted cleanly to reveal the scene hidden within.
+As if an invisible blade had passed through it, the curtain parted cleanly to reveal what lay beyond.
 
 “……!”
 
@@ -108,13 +108,13 @@ Half the hundred elite fighters they’d kept back as guards had vanished, but t
 
 All twenty mages thought the same.
 
-At least, until the Grand Mage’s quiet voice rang out the very next moment.
+At least until the Grand Mage spoke softly.
 
 “As expected…”
 
 The mages’ eyes widened at the murmur, its meaning beyond them but its note of admiration unmistakable.
 
-Then, all at once, they saw.
+Then they saw.
 
 Rustle. THUD.
 
@@ -154,7 +154,7 @@ He understood what the Grand Mage had meant.
 
 *Who, exactly?*
 
-The Grand Mage had been right.
+She had been right.
 
 Jin Taekyung wasn’t the one who now had to risk dying.
 
@@ -192,7 +192,7 @@ High risk, high return.
 
 It had always been that way.
 
-An adventure with no set ending always came with enormous danger. But the greater the risk, the more certain the reward.
+An adventure with no guaranteed ending came with enormous danger. But the payoff was worth the risk.
 
 Just like now.
 
@@ -229,7 +229,7 @@ I was alive. I’d survived.
 
 And just as I had from the beginning, I was still here, cutting down enemies without stopping.
 
-My body was brimming with life—the reward I’d won for risking my life.
+The life I’d risked mine to win surged through my body.
 
 PUK! BOOM!
 
@@ -259,7 +259,7 @@ I’d pushed the Middle Dantian’s ability to its limit, and my mind had slowed
 
 I was relying on instinct more than reason.
 
-Even so, there was one last thread of reason I clung to: the reason I couldn’t fall, and the greatest variable my enemies had.
+Even so, I held on to one last thread of reason: why I couldn’t fall, and the greatest threat these enemies posed.
 
 *Magic.*
 
@@ -277,19 +277,19 @@ At the same time, desperate voices rang out in the distance.
 
 FWOOSH!
 
-Energy boiled up from the hilltop and hurtled toward me.
+Energy surged from the hilltop and hurtled toward us.
 
 An invocation, followed by its manifestation.
 
 But I knew one thing about this kind of body-strengthening Magic.
 
-Magic that strengthened the body like this required its target to still be alive.
+Its targets had to be alive for it to work.
 
 SHWAK!
 
 White Flame’s spearhead, wreathed in blue-black fire, tore through the air.
 
-The terrifying ring of fire swept through a dozen or so enemies within the spell’s range.
+The terrible ring of flame swept toward the dozen or so enemies within the spell’s range.
 
 SHK! PUK!
 
@@ -311,7 +311,7 @@ With a dull thud, another enemy’s head snapped back. Only about twenty remaine
 
 “No! Stop him!”
 
-Listening to the shouts of the white-robed figures—or rather, the mages—now tinged with fear, I could roughly guess what was happening.
+The white-robed figures—the mages—were shouting with fear in their voices now. I was beginning to see it.
 
 There was a limit to the Magic they could use.
 
@@ -345,7 +345,7 @@ But unlike last time, I was ready.
 
 I could feel it, too.
 
-The flow of qi. A single line hidden beneath that immense power.
+The flow of qi. A single line hidden within that immense power.
 
 And…
 
@@ -355,4 +355,4 @@ SHK!
 
 My spearhead crossed the space without a sound.
 
-It cut through Taishan.
+It cut through the mountain.
