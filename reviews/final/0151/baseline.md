@@ -56,7 +56,7 @@ Crack!
 
 “…”
 
-*You little bastard. Who told you to put internal energy into your foot?*
+You little bastard. Who told you to put internal energy into your foot?
 
 I stared sadly at the training-ground floor, which had been smashed before I had even gotten to use it properly, then turned toward Hyuk Mujin.
 
@@ -70,7 +70,7 @@ I stared sadly at the training-ground floor, which had been smashed before I had
 
 “…No, thank you. I’ll be going, then. I just remembered something important.”
 
-*Look at him trying to casually edge away.*
+Look at him trying to casually edge away.
 
 I grabbed him by the back of the neck as he tried to sneak off.
 
@@ -110,7 +110,7 @@ Meanwhile, Hyuk Mujin, still kicking his feet in my grip, let out a deep sigh.
 
 “Yes.”
 
-“Some people repay a thousand-nyang[^1] debt with a single word, but you earn a thousand blows with your mouth.”
+“Some people repay a thousand-nyang debt with a single word, but you earn a thousand blows with your mouth.”
 
 Smack!
 
@@ -148,9 +148,9 @@ He stared back and forth between Cheongpung and me in bewilderment before stamme
 
 Cheongpung, who had been proudly examining the pieces of bluestone he had somehow managed to fit back together, nodded.
 
-“I don’t mind. But you have to buy me lots of candied hawthorn skewers[^2] later.”
+“I don’t mind. But you have to buy me lots of candied hawthorn skewers[^1] later.”
 
-“…Are you possessed by a ghost who died because they couldn’t get any candied hawthorn skewers[^2]?”
+“…Are you possessed by a ghost who died because they couldn’t get any candied hawthorn skewers?”
 
 “A ghost? Benefactor, is there a ghost attached to me right now?”
 
@@ -226,7 +226,7 @@ Five years. That was how long it had taken the son of a textile-shop owner to be
 
 I remembered something he had told me a few days ago.
 
-“I started learning martial arts a little late. What else could I do if I wanted to catch up? I had no choice but to work ten or twenty times harder than everyone else.”
+*“I started learning martial arts a little late. What else could I do if I wanted to catch up? I had no choice but to work ten or twenty times harder than everyone else.”*
 
 Easy to say, but not something an ordinary person could do.
 
@@ -260,7 +260,7 @@ I nodded. After a brief silence, Hyuk Mujin parted his lips.
 
 “…”
 
-*Just how much of a piece of trash did this bastard think I was?*
+Just how much of a piece of trash did this bastard think I was?
 
 When I glared at him, Hyuk Mujin hurriedly pretended nothing had happened.
 
@@ -306,7 +306,7 @@ Hyuk Mujin and I sat on the floor of the training ground and looked at Cheongpun
 
 Every time Cheongpung took a heavy breath, white steam puffed from his nose into the cold winter air.
 
-*What was wrong with him all of a sudden?*
+What was wrong with him all of a sudden?
 
 “Are you all right?”
 
@@ -324,7 +324,7 @@ Cheongpung hesitated, then spoke with a face flushed bright red.
 
 “…”
 
-*I knew this would happen.*
+I knew this would happen.
 
 Perhaps he was still nervous, because Cheongpung spoke in a trembling voice.
 
@@ -366,7 +366,7 @@ Hyuk Mujin spoke first, and I finished the thought.
 
 “The training hall.”
 
-It stood roughly two hundred jang[^3] from the training ground. I had a pretty good idea what kind of training he meant, and a quiet laugh escaped me.
+It stood roughly two hundred jang from the training ground. I had a pretty good idea what kind of training he meant, and a quiet laugh escaped me.
 
 It was the classic touch-and-go method: repeatedly running like hell to touch the destination and come back.
 
@@ -388,7 +388,7 @@ Cheongpung tilted his head.
 
 Cheongpung smiled brightly and pointed to me, then Hyuk Mujin.
 
-“Then I’ll give you half a shichen[^4] and one shichen[^4], respectively.”
+“Then I’ll give you half a shichen and one shichen, respectively.”
 
 “…?”
 
@@ -398,11 +398,11 @@ Cheongpung smiled brightly and pointed to me, then Hyuk Mujin.
 
 I asked in confusion.
 
-“Half a shichen[^4]? What do you mean?”
+“Half a shichen? What do you mean?”
 
 “Didn’t you say you’d done it until you were sick of it? That should be plenty of time for you.”
 
-“That’s true, but... Ah, I get it. Do we have to make nonstop round trips for half a shichen[^4]?”
+“That’s true, but... Ah, I get it. Do we have to make nonstop round trips for half a shichen?”
 
 “No. Once will be enough for now. I’ll wait for you at the summit.”
 
@@ -416,7 +416,7 @@ Hyuk Mujin and I dropped our jaws at the same time.
 
 *Holy shit. What the hell is that?*
 
-The height was impossibly vast. Even judging by eye, it was a steep cliff hundreds of jang[^3] high. My vision went dark, and my hands and feet began to tremble.
+The height was impossibly vast. Even judging by eye, it was a steep cliff hundreds of jang high. My vision went dark, and my hands and feet began to tremble.
 
 If it affected me this badly, Hyuk Mujin had to be even worse.
 
@@ -434,9 +434,6 @@ If it affected me this badly, Hyuk Mujin had to be even worse.
 
 “…!”
 
-*He was insane. The Sword Saint was insane, and this bastard was insane too.*
+He was insane. The Sword Saint was insane, and this bastard was insane too.
 
-[^1]: Nyang is a historical Korean unit of money, not a denomination of modern won.
-[^2]: Candied hawthorn skewers are a traditional snack made by coating hawthorn fruit on skewers in hardened sugar.
-[^3]: A jang is ten cheok, about 3.03 meters (9.94 feet). Two hundred jang is about 606 meters (1,990 feet).
-[^4]: A shichen is a traditional time unit of about two hours; half a shichen is about one hour.
+[^1]: Candied hawthorn skewers are a traditional snack made by coating fruit on skewers in hardened sugar.
