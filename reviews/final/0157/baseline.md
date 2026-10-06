@@ -1,6 +1,6 @@
 # Chapter 157
 
-Since ancient times, it had been said that the masters of famous mountains were spirit creatures. Huashan, one of the Five Sacred Mountains of the Central Plains, was no exception.
+Since ancient times, it had been said that the masters of famous mountains were spirit creatures. Huashan, one of the Five Great Mountains of the Central Plains, was no exception.
 
 Before humans ever set foot there, tigers had ruled its lofty, sprawling forests.
 
@@ -10,7 +10,7 @@ These spirit creatures possessed the majesty of kings and the ferocity of beasts
 
 “When the loss of human life became severe, the Huashan Sect had no choice but to step in. That was how the Crouching Tiger Fist was born.”
 
-A fist technique that subdues tigers. The Crouching Tiger Fist.
+*A fist technique that subdues tigers. The Crouching Tiger Fist.*
 
 Cheongpung clearly remembered what his grandfather had told him when he learned the Crouching Tiger Fist long ago.
 
@@ -130,7 +130,7 @@ Cheongpung stared at me with an oddly complicated expression before hesitantly o
 
 “Yes. He used to call me a thief.”
 
-“It’s all right. When I was young, I secretly took a thousand won[^1] from my mother’s wallet and got beaten half to death.”
+“It’s all right. When I was young, I secretly took a thousand won from my mother’s wallet and got beaten half to death.”
 
 “That’s not what I mean…”
 
@@ -182,7 +182,9 @@ When my expression changed, Cheongpung nodded as if to say, *See?*
 
 Back in elementary school, I’d been lured into enrolling at a taekwondo academy with the promise of a portable game console.
 
-The older high school students had put on a taekwondo demonstration, and after watching it exactly twice, I could follow all eight Taegeuk forms.[^2]
+The older high school students had put on a taekwondo demonstration, and after watching it exactly twice, I could follow all eight Taegeuk forms.[^1]
+
+[^1]: The Taegeuk forms are a standardized sequence of eight color-belt patterns in taekwondo.
 
 Of course, less than a week later, I beat up a middle schooler two years older than me and got kicked out.
 
@@ -212,7 +214,7 @@ And this guy had needed a month to learn it, while I’d managed a rough imitati
 
 *That’s insane.*
 
-As I grinned so broadly that the corners of my mouth nearly split, Cheongpung added, “It took me a whole month to achieve Great Completion, so my grandfather scolded me terribly.”
+As I grinned so broadly that the corners of my mouth nearly split, Cheongpung added, “It took me a whole month to achieve Great Attainment, so my grandfather scolded me terribly.”
 
 “…”
 
@@ -260,7 +262,7 @@ The forms were heavy and concise, but once power and speed were added, they tran
 
 Hyuk Mujin shook his head from side to side.
 
-It was embarrassing, but he wasn’t confident he could last even the time it took to drink a cup of tea. No, perhaps even that thought was merely a consolation meant to preserve his pride.
+It was embarrassing, but he wasn’t confident he could last even a quarter of an hour. No, perhaps even that thought was merely a consolation meant to preserve his pride.
 
 But Cheongpung was different.
 
@@ -388,11 +390,11 @@ Hyuk Mujin had personally watched them exchange well over three hundred moves. E
 
 *He’s a monster. A monster.*
 
-Everyone around them was around the same age, and they were all Peak or Supreme First Rate. Wasn’t that taking things too far? It seemed as though nothing but monsters surrounded him.
+Everyone around them was around the same age, and they were all Peak or advanced First Rate. Wasn’t that taking things too far? It seemed as though nothing but monsters surrounded him.
 
 Hyuk Mujin let out a deep sigh and recalled what Jin Taekyung had told him a few days earlier during their Wall Lizard Technique training.
 
-“If you don’t want to lose something precious, then risk your life and do it now. Working yourself to death while you’re still breathing is better than dying, isn’t it?”
+*If you don’t want to lose something precious, then risk your life and do it now. Working yourself to death while you’re still breathing is better than dying, isn’t it?*
 
 Those words were true.
 
@@ -409,6 +411,3 @@ And…
 *Strong enough for everyone to remember the name Hyuk Mujin.*
 
 He gripped his sword case tightly.
-
-[^1]: A thousand Korean won is about $0.71 or €0.65.
-[^2]: The Taegeuk forms are a standardized sequence of eight color-belt patterns in taekwondo.
