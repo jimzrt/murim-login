@@ -256,7 +256,7 @@ I asked Jin Mukyung, who reluctantly nodded.
 
 “Should I report you to the authorities for insulting the Emperor?”
 
-“Treason gets at least three clans[^1] punished. Congratulations, little brother.”
+“Treason gets at least three clans punished. Congratulations, little brother.”
 
 *This bastard Jin Mukyung has gotten pretty good with words.*
 
@@ -292,7 +292,7 @@ He really was on a different level. Not just an ordinary City Lord, but the Empe
 
 Born the son of the Son of Heaven and then becoming the younger brother of the Son of Heaven, he hadn’t merely been born with a silver spoon in his mouth. His spoon was made of vibranium.
 
-He was the modern North Korean nuclear spoon[^2]—and then some.
+He was the modern North Korean nuclear spoon—and then some.
 
 “Then how can someone who’s practically a king be so incompetent? One letter to his brother should get him all the support he needs from above. Are they on bad terms?”
 
@@ -322,7 +322,7 @@ Jin Mukyung gave another short laugh.
 
 The System message I’d seen earlier suddenly came to mind.
 
-> ※ If you reject the Quest, the City Lord may sulk.
+> If you reject the Quest, the City Lord may sulk.
 
 I had thought it was ridiculous for a middle-aged man to act so childish, but now that I knew he was a ten-year-old boy, it finally made sense.
 
@@ -357,6 +357,3 @@ Jin Mukyung looked at me with a strange glint in his eyes.
 Then, wearing an ominous expression that mixed laughter with irritation, he spoke.
 
 “It was fucking awful.”
-
-[^1]: “Three clans” refers to a form of collective punishment that could extend a person’s sentence to their relatives.
-[^2]: Korean “spoon” slang describes the social standing someone inherits at birth. A “nuclear spoon” suggests a status beyond even a gold spoon; the comparison invokes North Korea’s ruling family.
