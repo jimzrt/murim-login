@@ -62,7 +62,7 @@ Jin Taekyung straightened his spear. “Go ahead.”
 
 “That’s water vapor, not clouds.”
 
-“Damn, you’re right. Then if it’s not heaven, is this a dream?”
+“Damn. You’re right. Then is this a dream?”
 
 “I hope not.”
 
@@ -170,13 +170,13 @@ Neither man could miss what that meant. Choi Minwoo bit his lip, and Johnson let
 
 “Nothing you say will change my mind. I’m going to Morgoth. Right now. Alone.”
 
-“……Are you sure that’s the best option? You’re really going to bet your life on a crazy gamble with less than a one-percent chance of winning?”
+“……Are you sure that’s the best option? You’re betting your life on a crazy gamble with less than a one-percent chance of winning.”
 
 “Yes.”
 
-There wasn’t a trace of hesitation or doubt in his voice or eyes.
+There wasn’t a trace of hesitation in Jin Taekyung’s voice or eyes.
 
-But then, suddenly, he remembered someone from decades ago. When everyone had been thrown into utter confusion, that person alone had stepped forward and led the way.
+For a moment, Johnson was at a loss for words. Then he remembered someone from decades ago, when the whole world had been thrown into chaos. One person had stepped forward to lead the way.
 
 A hero who’d made himself a beacon and lit up the world.
 
@@ -186,7 +186,7 @@ Yes. Him.
 
 And now another Cheon Taemin stood before Johnson.
 
-No—Jin Taekyung.
+No. Jin Taekyung stood before him.
 
 “……Ha.”
 
@@ -212,7 +212,7 @@ A siren, as jarring as what they’d just heard, shook the depths beneath the Pe
 
 “Code Red?”
 
-“It’s an emergency. The highest alert level. What happened all of a sudden?”
+“An emergency. The highest alert level. What happened?”
 
 “Unauthorized use of magic detected!”
 
@@ -222,11 +222,11 @@ A siren, as jarring as what they’d just heard, shook the depths beneath the Pe
 
 “You mean the Warp magic?”
 
-“Yeah. But access to the entire Pentagon has been forbidden for a week now. Is an inside collaborator we don’t know about trying to escape because they think they’re about to be found out?”
+“Yeah. But access to the entire Pentagon has been restricted for a week. Is an inside collaborator we don’t know about trying to escape before they’re found out?”
 
 It wasn’t an unreasonable guess. Most of those who had surrendered to Morgoth had bowed to him to survive, but some were actively cooperating with him.
 
-In Africa, rebel holdouts that hadn’t been completely rooted out in the previous incident were rampaging. In South America, drug cartels were running wild, more ferocious than the monsters.
+In Africa, rebel holdouts who hadn’t been completely rooted out after the last incident were on the rampage. In South America, drug cartels were running wilder than the monsters.
 
 By ordinary standards, Johnson’s guess made sense.
 
@@ -248,7 +248,7 @@ Choi Minwoo blinked. “Uh, well. Of course you wouldn’t know, Mr. Jin Taekyun
 
 “Because it’s a secret from you.”
 
-Magic Johnson looked back and forth between Jin Taekyung, who had no idea what was going on, and the magical equipment installed in a corner of the underground corridor.
+Johnson glanced between Jin Taekyung and the magical equipment in the corner of the underground corridor.
 
 “It’s you, Jin.”
 
@@ -266,10 +266,10 @@ Jin Taekyung needed a moment to make sense of that.
 
 Someone who would do such a thing had already come to Johnson’s mind.
 
-“Someone who looks like you.”
+“Someone who looks like you did.”
 
 They hurried to the surface. The first person they ran into was—
 
-“Goddamn it. Where the hell were all of you, leaving me on my own in a situation like this?”
+“Goddamn it. Where the hell have you all been, leaving me alone at a time like this?”
 
 Chuck Hagel, who had somehow ended up on his own.

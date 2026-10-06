@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled English is faithful overall, with a small emotional-state shift and one omitted reaction.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 11",
+      "current": "with a heavy heart",
+      "defect": "The source describes Johnson watching with a conflicted expression. “With a heavy heart” narrows that mixed expression to sadness or regret.",
+      "replacement": "with a conflicted expression",
+      "rationale": "착잡한 눈빛 describes a conflicted look, not specifically a heavy or sad heart.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 209",
+      "current": "But then, suddenly, he remembered someone from decades ago.",
+      "defect": "The English omits Johnson’s momentary speechlessness before the memory comes to him.",
+      "replacement": "For a moment, Magic Johnson was at a loss for words. But then, suddenly, he remembered someone from decades ago.",
+      "rationale": "The source explicitly says the sight of Jin leaves Johnson briefly at a loss for words before he suddenly remembers someone from decades ago.",
+      "confidence": 0.97
+    }
+  ]
+}
