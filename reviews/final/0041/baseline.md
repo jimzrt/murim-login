@@ -62,11 +62,11 @@ He looked so much like a bandit that everyone called him Im Kkeokjeong.[^1]
 
 Im Kkeokjeong gave me an easy smile.
 
-“Call me hyung.[^2] We’re not even that far apart in age.”
+“Call me hyung. We’re not even that far apart in age.”
 
 How many years apart were we again? I couldn’t quite remember.
 
-“Hyung,[^2] how old are you?”
+“Hyung, how old are you?”
 
 “Forty-five.”
 
@@ -76,7 +76,7 @@ How many years apart were we again? I couldn’t quite remember.
 
 But the social skills I’d honed over the years came through for me. I somehow managed to force a smile.
 
-“You’re right. I’ll just call you hyung.[^2]”
+“You’re right. I’ll just call you hyung.”
 
 “That’s it, little brother. Hahahaha!”
 
@@ -92,9 +92,9 @@ Sometimes it was embarrassing to be around him.
 
 Like now.
 
-“The yulmu tea[^3] here is incredible. The chairs in the hall are nice and soft too.”
+“The yulmu tea here is incredible. The chairs in the hall are nice and soft too.”
 
-Im Kkeokjeong tossed back his yulmu tea[^3] in one gulp and leaned his chair as far back as it would go.
+Im Kkeokjeong tossed back his yulmu tea[^2] in one gulp and leaned his chair as far back as it would go.
 
 Judging by how comfortable he looked, this clearly wasn’t his first or second visit.
 
@@ -144,13 +144,13 @@ The conversation that followed was surprisingly useful. Im Kkeokjeong was a regu
 
 Before I could ask anything else, a voice came through the speakers in the hall.
 
-“E-rank Hunter Im Hyeokjun. Im Hyeokjun, please come to the lobby.”
+—E-rank Hunter Im Hyeokjun. Im Hyeokjun, please come to the lobby.
 
 Six thirty in the morning.
 
 At last, the first batter was up. My turn would come only after all the E-rank Hunters had gone.
 
-“E-ranks first, as expected… Hyung,[^2] where are you going?”
+“E-ranks first, as expected… Hyung, where are you going?”
 
 “I’ll go on ahead.”
 
@@ -174,7 +174,7 @@ E-rank so-and-so, E-rank somebody else, E-rank…
 
 Just as I was starting to get anxious—
 
-“F-rank Hunter Jin Taekyung. Jin Taekyung, please come to the lobby.”
+—F-rank Hunter Jin Taekyung. Jin Taekyung, please come to the lobby.
 
 *There it is!*
 
@@ -228,7 +228,7 @@ The man in the linen shirt glared down his nose at me.
 
 “…”
 
-After a brief silence, I took the pen he handed me and scrawled my signature. The base pay was 300,000 won,[^4] and the settlement split was generous too.
+After a brief silence, I took the pen he handed me and scrawled my signature. The base pay was 300,000 won, and the settlement split was generous too.
 
 I’d flinched when I heard it was an E-rank Gate, but I was only going as a porter, so it didn’t matter. I’d skin a few monsters, haul a pack around, then part ways with everyone in a good mood.
 
@@ -248,7 +248,7 @@ I’d been itching to sign so badly my fingers had almost cramped.
 
 “…”
 
-“Guess I was the last one. There are already a few people here… Huh? Kkeokjeong hyung![^2]”
+“Guess I was the last one. There are already a few people here… Huh? Kkeokjeong hyung!”
 
 “Huh? Taekyung!”
 
@@ -256,7 +256,7 @@ Im Kkeokjeong was waiting to load his bags into the bus’s trunk. He grinned wi
 
 “You’re coming too. That’s great!”
 
-“Looks like you and I really do have a connection, hyung.[^2]”
+“Looks like you and I really do have a connection, hyung.”
 
 “Hahahaha!”
 
@@ -320,7 +320,7 @@ The three men stared blankly at me.
 
 “Drop it. If he’s been knocking around for seven years, he knows enough.”
 
-“If Kkeokjeong hyung[^2] recommended him, that’s good enough. Team Leader Choi must’ve thought he was all right too, or he wouldn’t have agreed.”
+“If Kkeokjeong hyung recommended him, that’s good enough. Team Leader Choi must’ve thought he was all right too, or he wouldn’t have agreed.”
 
 *Recommended? Team Leader Choi?*
 
@@ -334,7 +334,7 @@ Im Kkeokjeong waved his hands, his face turning bright red.
 
 The three men snickered.
 
-“It’s written all over your face. How did this hyung[^2] ever manage to get married?”
+“It’s written all over your face. How did this hyung ever manage to get married?”
 
 “Good deeds are supposed to come to light. Why hide them?”
 
@@ -366,14 +366,11 @@ The man in the linen shirt had opened his eyes at some point. No—Team Leader C
 
 “We’re here.”
 
-I turned my head. A four-meter-high[^5] Gate loomed closer. At its center, a vortex of magical power churned, ready to suck us in.
+I turned my head. A four-meter-high Gate loomed closer. At its center, a vortex of mana churned, ready to suck us in.
 
 *An E-rank Gate.*
 
 My first raid since coming back.
 
 [^1]: Im Kkeokjeong was a famous Joseon-era bandit and folk hero; the nickname comes from the man’s bandit-like appearance.
-[^2]: *Hyung* is a familiar form of address used by a man for an older brother or an older man close to him.
-[^3]: Yulmu tea is a Korean grain drink made from Job’s tears.
-[^4]: 300,000 Korean won is about $210 or €190 at the project rates.
-[^5]: Four meters is about 13 ft.
+[^2]: Yulmu tea is a sweet Korean grain drink commonly served hot or cold.
