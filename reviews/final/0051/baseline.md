@@ -34,7 +34,7 @@ But that lasted only a moment.
 >
 > - Boss Monster **Lv. 52 Lizardman Great Chieftain** has appeared!
 >
-> - The Skill **Battle Cry** is being used!
+> - **Lv. 52 Lizardman Great Chieftain** uses the Skill **Battle Cry**!
 
 It was at least twice the size of the others, with a gigantic mace in its hand. The Lizardman Chieftain’s roar exploded through the air. At the appearance of their leader, the retreating Lizardmen came to their senses and formed ranks.
 
@@ -160,7 +160,7 @@ Choi Minwoo suddenly felt cheated.
 
 * * *
 
-Burning Friday. *Bulgeum*, for short.
+Burning Friday. *Bulgeum*, for short.[^1]
 
 Other people in their twenties would be drinking in groups and drifting in and out of clubs. I spent it running Gates with Team Leader Choi.
 
@@ -174,27 +174,27 @@ The face was familiar now. Team Leader Choi addressed the rugged-looking man in 
 
 “Thank you for your hard work too, Butler Kim.”
 
-Butler Kim. Not a secretary—a *butler*.[^1]
+Butler Kim. Not a secretary—a *butler*.[^2]
 
 The word was so detached from reality that I thought I’d misheard it at first.
 
 *I’ve only ever met church deacons.*
 
-Back when I was a snot-nosed kid getting a thousand won[^2] a week in allowance, one of them had been the bastard who forced me to hand over a hundred won[^3] as a tithe.
+Back when I was a snot-nosed kid getting a thousand won a week in allowance, one of them had been the bastard who forced me to hand over a hundred won as a tithe.
 
 Of course, he hadn’t called me Young Master. When I dug in and refused to pay, he’d even muttered that I was the child of Satan.
 
 And at seven years old, I was the kind of kid who always asked when something made me curious.
 
-“Mom. Are you Satan?”
+*Mom. Are you Satan?*
 
-“Huh? Satan?”
+*Huh? Satan?*
 
-“Yeah. The church deacon said I was Satan’s child. I’m your kid, so that makes you Satan, right? Right?”
+*Yeah. The church deacon said I was Satan’s child. I’m your kid, so that makes you Satan, right? Right?*
 
 Those words turned my mother into Satan.
 
-I never got to eat the church tteokbokki[^4] again, and the church deacon nearly went to be with the Lord.
+I never got to eat the church tteokbokki again,[^3] and the church deacon nearly went to be with the Lord.
 
 Thinking back on it, my life really had been one hell of a variety show.
 
@@ -400,7 +400,7 @@ The count stopped at six.
 
 Six bundles of a hundred bills.
 
-In other words, six million won.[^5]
+In other words, six million won.
 
 “What is this?”
 
@@ -418,9 +418,9 @@ I focused internal energy into my eyes, and my vision brightened.
 
 Then I saw her.
 
-A kindly smiling woman in a hanbok,[^6] right there on the bill.
+A kindly smiling woman in a hanbok, right there on the bill.
 
-“Shin Saimdang![^7] Wise mother and virtuous wife! Her son is Yulgok Yi I! Her husband is Yi Wonsu!”
+“Shin Saimdang! Wise mother and virtuous wife! Her son is Yulgok Yi I! Her husband is Yi Wonsu!”
 
 I started speaking in tongues before I knew it.
 
@@ -428,7 +428,7 @@ This was insane. Completely insane.
 
 One bundle held a hundred Shin Saimdang bills. Six of those meant…
 
-“Th-three hundred million!”[^8]
+“Th-three hundred million!”
 
 This time I couldn’t catch myself as my legs gave out. I dropped to my knees with a thud and stared blankly into the drink box.
 
@@ -442,7 +442,7 @@ It contained a complete record of the past four days’ earnings.
 
 Right down to the final amount being paid to me.
 
-*The settlement says thirty million won?*[^9]
+*The settlement says thirty million won?*
 
 What? Had I imagined it?
 
@@ -450,7 +450,7 @@ I was confused. Completely confused.
 
 My shaking gaze froze on the final line.
 
-**Bonus: 270,000,000**[^10]
+**Bonus: 270,000,000**
 
 Then I remembered Team Leader Choi’s last words before leaving.
 
@@ -468,13 +468,6 @@ Team Leader Choi.
 
 No—he was the Light.
 
-[^1]: The Korean word *jipsa* can mean both butler and church deacon.
-[^2]: A thousand won is about $0.71 or €0.65.
-[^3]: A hundred won is about $0.07 or €0.06.
-[^4]: *Tteokbokki* is a Korean dish of chewy rice cakes, usually served in a spicy sauce.
-[^5]: Six million won is about $4,300 or €3,900.
-[^6]: A *hanbok* is traditional Korean clothing.
-[^7]: Shin Saimdang (1504–1551), a Korean artist remembered as a model mother and wife, appears on South Korea’s 50,000-won banknote (about $36 or €32).
-[^8]: Three hundred million won is about $210,000 or €190,000.
-[^9]: Thirty million won is about $21,000 or €19,000.
-[^10]: The bonus is 270 million won, about $190,000 or €170,000.
+[^1]: Korean slang for Friday night, from “burning Friday.”
+[^2]: In Korean, the same word, *jipsa*, means both butler and church deacon.
+[^3]: Tteokbokki is a Korean dish of chewy rice cakes in a spicy sauce. Korean churches often sell it as a snack.
