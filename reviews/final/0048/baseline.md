@@ -52,7 +52,7 @@ That was how I would step onto a new path faster than any other Hunter.
 
 “You mean it, right? We’ll be waiting!”
 
-*No. Don’t wait. I’m not going to call.*
+No. Don’t wait. I’m not going to call.
 
 “All right, everyone, calm down.”
 
@@ -132,7 +132,7 @@ The rank reassessment. Running into old bad blood. An indescribable rush, and at
 
 “Where would you like to go?”
 
-“Huimang Goshiwon[^1] at Songnae Station.”
+“Huimang Goshiwon at Songnae Station.”
 
 The taxi driver looked at me and chuckled.
 
@@ -146,7 +146,7 @@ The taxi driver looked at me and chuckled.
 
 “What’s gotten into you? You actually bought beef.”
 
-We spread out a mat and set up a grill on the goshiwon[^1] roof. Jin-ho hyung[^2] gazed contentedly at the meat as it cooked.
+We spread out a mat and set up a grill on the goshiwon roof. Jinho gazed contentedly at the meat as it cooked.
 
 “All right. In recognition of your sincerity, I’ll forget about the finder’s fee.”
 
@@ -156,7 +156,7 @@ We spread out a mat and set up a grill on the goshiwon[^1] roof. Jin-ho hyung[^2
 
 “Right back at you.”
 
-We sat across from each other, sipping soju.[^3]
+We sat across from each other, sipping soju.
 
 “But where did you get the money? Just this month, you were whining about how hard up you were.”
 
@@ -170,33 +170,33 @@ I couldn’t help letting out a little laugh.
 
 “Oh, now you’re laughing?”
 
-“Of course I am. You’re treating ten million won[^4] like pocket change.”
+“Of course I am. You’re treating ten million won like pocket change.”
 
-Jin-ho froze.
+Jinho froze.
 
 “How much?”
 
-“Ten million won.”[^4]
+“Ten million won.”
 
-“You made ten million won[^4] from one day’s work?”
+“You made ten million won from one day’s work?”
 
 “A little more came in, but that’s for now.”
 
 “You didn’t…”
 
-Jin-ho swallowed hard. He caught on fast. I gave him a meaningful smile.
+Jinho swallowed hard. He caught on fast. I gave him a meaningful smile.
 
 “That’s right. Today, I—”
 
 “Did you sell an organ?”
 
-*Should I kill him?*
+Should I kill him?
 
 I let out a long sigh, then downed my drink.
 
-“Tell me the truth. As the goshiwon[^1] manager, I have a duty to know.”
+“Tell me the truth. As the goshiwon manager, I have a duty to know.”
 
-If you only heard that, you’d think he was the prime minister, not a goshiwon[^1] manager.
+If you only heard that, you’d think he was the prime minister, not a goshiwon manager.[^2]
 
 “I earned it at a Gate.”
 
@@ -216,13 +216,13 @@ The sender was…
 
 This guy and I really did think alike.
 
-A moment later, Jin-ho’s eyes widened as he read the message.
+A moment later, Jinho’s eyes widened as he read the message.
 
-“Ten million three hundred thousand won?[^5] Am I reading this right?”
+“Ten million three hundred thousand won? Am I reading this right?”
 
 “Probably.”
 
-According to the contract, I was supposed to receive three hundred thousand won.[^6] Team Leader Choi had added another ten million.[^4]
+According to the contract, I was supposed to receive three hundred thousand won. Team Leader Choi had added another ten million.
 
 *And there’s still a balance left.*
 
@@ -234,13 +234,13 @@ The next thing I knew, I was at a nearby supermarket, sweeping up every piece of
 
 “You…”
 
-Jin-ho stared blankly between me and the phone in his hand.
+Jinho stared blankly between me and the phone in his hand.
 
 “Where the hell have you been, and what did you do?”
 
 “It’s a long story.”
 
-Jin-ho hyung[^2] chuckled and gripped the scissors.
+Jinho hyung chuckled and gripped the scissors.
 
 “The story’s long, but your life’s about to be short?”
 
@@ -254,7 +254,7 @@ It seemed better to let him keep believing it was an absurd lie.
 
 At a life-or-death moment, the luck of a reawakening had come, and I’d been able to take them down. Then I told him about the Association.
 
-It was a hastily stitched-together story, but Jin-ho bought it.
+It was a hastily stitched-together story, but Jinho bought it.
 
 “So you’re a C-rank Hunter now?”
 
@@ -264,7 +264,7 @@ It was a hastily stitched-together story, but Jin-ho bought it.
 
 His face was dazed and his voice hoarse.
 
-Jin-ho hyung[^2] stared at me for a long moment. Moisture gathered in his eyes.
+Jinho hyung stared at me for a long moment. Moisture gathered in his eyes.
 
 *What’s gotten into this guy?*
 
@@ -274,7 +274,7 @@ Jin-ho hyung[^2] stared at me for a long moment. Moisture gathered in his eyes.
 
 He turned away with an unnecessary curse, but he couldn’t hide the single tear that slipped down. I watched him out of the corner of my eye as he roughly rubbed his face with his sleeve.
 
-“Hyung?”[^2]
+“Hyung?”
 
 “Turn the meat over. It’s burning.”
 
@@ -288,15 +288,15 @@ Sizzle.
 
 As I turned the meat, I felt flustered, yet something tickled deep in my chest.
 
-*Come to think of it, I’ve known Jin-ho for a long time.*
+*Come to think of it, I’ve known Jinho for a long time.*
 
-Six years? Seven? I wasn’t sure. I’d never counted. Whenever I came back to the goshiwon[^1] after a hard day, he was always there.
+Six years? Seven? I wasn’t sure. I’d never counted. Whenever I came back to the goshiwon after a hard day, he was always there.
 
 Sometimes I wondered if this was what it would have felt like to have a real older brother. We had lived like brothers, like friends.
 
 “Hey.”
 
-Jin-ho broke the awkward silence. For no reason, I flipped the meat again.
+Jinho broke the awkward silence. For no reason, I flipped the meat again.
 
 “Yeah? What?”
 
@@ -316,31 +316,31 @@ Something surged up from deep inside me. All the emotions and memories that had 
 
 “Congratulations on becoming a C-rank Hunter. I guess I can’t make fun of you anymore.”
 
-“Hyung…”[^2]
+“Hyung…”
 
 “Taekyung…”
 
-“Hyung!”[^2]
+“Hyung!”
 
 “Taekyung!”
 
-We hugged each other tightly across the grill. Jin-ho hyung[^2] whispered in my ear, his voice shaking.
+We hugged each other tightly across the grill. Jinho hyung whispered in my ear, his voice shaking.
 
 “Do you remember what I said earlier?”
 
-“I know how you feel, hyung. Thank you.”[^2]
+“I know how you feel, hyung. Thank you.”
 
 “Not that. The finder’s fee.”
 
 “…What?”
 
-“Make sure you pay me. Hyung’s having a hard time these days.”[^2]
+“Make sure you pay me. Hyung’s having a hard time these days.”
 
 “…”
 
 “You make a lot of money now.”
 
-*Should I really kill him?*
+Should I really kill him?
 
 * * *
 
@@ -350,7 +350,7 @@ I let out a little laugh, thinking of the one person who was probably cleaning u
 
 *You really can’t let your guard down around him.*
 
-That was so like Jin-ho. The way he congratulated me, and the joke at the end.
+That was so like Jinho. The way he congratulated me, and the joke at the end.
 
 I knew it was all just his way of expressing himself.
 
@@ -393,7 +393,7 @@ That was the world I knew. Everything came with a price tag. Whether you could s
 
 *How much does the System cost?*
 
-*A hundred billion won?[^7] A quadrillion won?[^8] Maybe even more?*
+A hundred billion? A quadrillion? Maybe even more?
 
 I laughed weakly as my eyelids grew heavy.
 
@@ -427,11 +427,4 @@ As my consciousness drifted farther away, I heard a quiet but distinct voice.
 
 But when I woke the next day, I couldn’t remember any of it.
 
-[^1]: A *goshiwon* is a Korean building of small, inexpensive rooms, often rented by students or people on tight budgets.
-[^2]: *Hyung* is a Korean form of address a man uses for an older brother or an older male friend.
-[^3]: *Soju* is a Korean distilled alcoholic drink.
-[^4]: Ten million won is about $7,100 or €6,500.
-[^5]: Ten million three hundred thousand won is about $7,400 or €6,600.
-[^6]: Three hundred thousand won is about $210 or €190.
-[^7]: A hundred billion won is about $71 million or €65 million.
-[^8]: A quadrillion won is about $710 billion or €650 billion.
+[^2]: A pun: the Korean word for a goshiwon manager sounds like “prime minister.”
