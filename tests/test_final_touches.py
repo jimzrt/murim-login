@@ -103,6 +103,27 @@ class FinalQaTest(unittest.TestCase):
         qa = self.assess(normalized, baseline)
         self.assertFalse(any(item["code"] in {"heading", "panel_heading"} for item in qa["errors"]), qa["errors"])
 
+    def test_dropped_system_panel_is_restored(self):
+        from tools.final_qa import normalize_reading_copy
+
+        tail = "The hall was quiet. " * 8
+        baseline = chapter(
+            "I could almost hear a System notification ringing in my ears.\n\n"
+            "> **System**\n>\n> - You have acquired **Meat Shield**!\n\n"
+            + tail
+        )
+        candidate = chapter(
+            "I could almost hear a System notification ringing in my ears.\n\n"
+            "*Ding. You have acquired Meat Shield!*\n\n"
+            + tail
+        )
+        normalized = normalize_reading_copy(baseline, candidate)
+        self.assertIn("> **System**", normalized)
+        self.assertIn("Meat Shield", normalized)
+        self.assertNotIn("*Ding.", normalized)
+        qa = self.assess(normalized, baseline)
+        self.assertFalse(any(item["code"] == "panel_heading" for item in qa["errors"]), qa["errors"])
+
     def test_warning_heading_must_stay(self):
         baseline = chapter(
             "> **Warning**\n>\n> - The player cannot log out at will.\n\n"

@@ -89,6 +89,84 @@ def _chat_titles(baseline: str) -> list[str]:
     return titles
 
 
+def _system_panels(text: str) -> list[tuple[str, list[str]]]:
+    """Each System panel with the prose line that introduces it."""
+    lines = text.splitlines()
+    panels: list[tuple[str, list[str]]] = []
+    previous = ""
+    index = 0
+    while index < len(lines):
+        if lines[index].strip() == SYSTEM_HEADING:
+            block = [lines[index]]
+            index += 1
+            while index < len(lines):
+                if lines[index].lstrip().startswith(">"):
+                    block.append(lines[index])
+                    index += 1
+                    continue
+                if (
+                    lines[index].strip() == ""
+                    and index + 1 < len(lines)
+                    and lines[index + 1].lstrip().startswith(">")
+                ):
+                    block.append(lines[index])
+                    index += 1
+                    continue
+                break
+            panels.append((previous, block))
+            continue
+        if lines[index].strip() and not lines[index].lstrip().startswith(">"):
+            previous = lines[index]
+        index += 1
+    return panels
+
+
+def _panel_words(block: list[str]) -> set[str]:
+    text = re.sub(r"[>*_#\[\]`]", " ", " ".join(block))
+    return {word.lower() for word in re.findall(r"[A-Za-z]{4,}", text) if word.lower() != "system"}
+
+
+def _panel_body(panel: list[str]) -> tuple[str, ...]:
+    body: list[str] = []
+    for line in panel:
+        stripped = line.strip()
+        if stripped in {SYSTEM_HEADING, ">", ""}:
+            continue
+        body.append(stripped)
+    return tuple(body)
+
+
+def _body_present(lines: list[str], body: tuple[str, ...]) -> bool:
+    if not body:
+        return False
+    stripped = [line.strip() for line in lines]
+    width = len(body)
+    return any(tuple(stripped[index : index + width]) == body for index in range(len(stripped)))
+
+
+def _restore_system_panels(baseline: str, lines: list[str]) -> list[str]:
+    for previous, panel in _system_panels(baseline):
+        if not previous or _body_present(lines, _panel_body(panel)):
+            continue
+        words = _panel_words(panel)
+        try:
+            anchor = lines.index(previous)
+        except ValueError:
+            continue
+        insert_at = anchor + 1
+        if insert_at < len(lines) and lines[insert_at].strip() == "":
+            insert_at += 1
+        if insert_at < len(lines):
+            nxt = lines[insert_at].strip()
+            shared = words & _panel_words([nxt])
+            if nxt.startswith("*") and nxt.endswith("*") and len(shared) >= 2:
+                del lines[insert_at]
+                if insert_at < len(lines) and lines[insert_at].strip() == "":
+                    del lines[insert_at]
+        lines[insert_at:insert_at] = ["", *panel, ""]
+    return lines
+
+
 def normalize_reading_copy(baseline: str, candidate: str) -> str:
     """Keep the chapter heading as the only ATX heading and restore panel labels."""
     lines: list[str] = []
@@ -98,6 +176,7 @@ def normalize_reading_copy(baseline: str, candidate: str) -> str:
             lines.append(f"**{match.group(1).strip()}**")
             continue
         lines.append(line)
+    lines = _restore_system_panels(baseline, lines)
     missing_titles = [
         title
         for title in _chat_titles(baseline)
