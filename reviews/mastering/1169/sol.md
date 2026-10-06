@@ -1,6 +1,6 @@
 # Chapter 1169
 
-The Dragon’s roar, which had pierced the clouds and shaken the sky, was gone. So were the two wings that had cast an immense shadow over the earth.
+The Dragon’s roar that had pierced the clouds and shaken the sky was gone. So were the wings that had cast an immense shadow over the earth.
 
 Yet there wasn’t the slightest emptiness in the endless sky.
 
@@ -18,7 +18,7 @@ The Grand Mage’s shout, amplified by Magic, swept across the battlefield. A mo
 
 “Jin! Jin! Jin!”
 
-As if they’d made a promise, they cried out with all their might.
+As if they’d agreed to it, they cried out with all their might.
 
 They staunched the bleeding from severed arms and hauled their blood-soaked bodies upright.
 
@@ -30,11 +30,11 @@ Countless spears and swords swayed like a forest in the wind, then surged toward
 
 *Shhk! Krrrrrrunch!*
 
-The two waves that had surged toward each other, roiling with thick killing intent, were gone.
+The two waves that had charged toward each other, roiling with killing intent, no longer existed.
 
 There were only humans advancing and monsters being swept away.
 
-And amid that enormous scream and roar that shook heaven and earth, the clear sound of a bell rang in one man’s ear.
+And amid the screams and cheers that shook heaven and earth, a clear bell sounded in one man’s ear.
 
 *Ding. Ding. Ding.*
 
@@ -82,7 +82,7 @@ The moment the last holographic window appeared in his blurry vision—
 
 *Squish.*
 
-Jin Taekyung’s foot came down on the ground, soaked in someone’s blood, as he stumbled forward as if about to collapse.
+Jin Taekyung stumbled forward, his foot landing on ground soaked in someone’s blood.
 
 *Sssssss.*
 
@@ -126,7 +126,7 @@ His clothes hung in tatters, leaving him nearly half-naked, and blood and dust c
 
 But that was only his outward appearance. The skin visible through the rags was as smooth as a newborn’s.
 
-Though Morgoth couldn’t sense even the slightest trace of healing magic.
+And Morgoth couldn’t sense the slightest trace of healing Magic.
 
 “I don’t think luck alone explains it.”
 
@@ -138,7 +138,7 @@ Though Morgoth couldn’t sense even the slightest trace of healing magic.
 
 “That doesn’t quite sound right. Perhaps…”
 
-With his gaze turned toward the sky steeped in sunset, Morgoth continued.
+Morgoth turned his gaze to the sunset sky.
 
 “Divine favor. That might be the most accurate way to put it.”
 
@@ -154,17 +154,17 @@ Ever since that blisteringly hot summer several years ago, when he’d obtained 
 
 That one word, surfacing so suddenly in a conversation he’d never expected, disturbed his thoughts like a rock thrown into a still lake.
 
-Before he could steady himself from the confusion that had seized him for just an instant, Morgoth continued.
+Before he could steady himself, Morgoth continued.
 
 “Do you believe in God?”
 
-Morgoth asked the rigid Jin Taekyung without warning, then went on without waiting for an answer.
+He asked the motionless Jin Taekyung without warning, then went on without waiting for an answer.
 
 “I do. I always have.”
 
 Of course he did.
 
-Morgoth had always thought that he himself was practically a blessing from God.
+Morgoth had always thought he himself was nothing less than a blessing from God.
 
 A lifespan approaching immortality. Immense power granted at birth.
 
@@ -188,9 +188,9 @@ But God never appeared.
 
 Not even when the greatest of God’s creations, pursuing the faintest clue, reached into the realm of an unforgivable taboo.
 
-“That was how I left for the Demon Realm. No—I suppose it would be more accurate to say I met him. As it happened, he was on his way to my homeland, too.”
+“And so I left for the Demon Realm. No—I suppose it would be more accurate to say we met. As it happened, *he* was on his way to my homeland.”
 
-“If you mean him—”
+“By *he*, you mean…”
 
 “Asmodeus. The most cursed demon since the heavens opened and the earth awoke. The most terrible nightmare, and the ruler of the Demon Realm.”
 
@@ -204,27 +204,27 @@ But even in the humiliation he felt for the first time in his life, Morgoth foun
 
 Morgoth had been wrong.
 
-Demon King Asmodeus was unquestionably a powerful being beyond Morgoth’s reach, but he could never be called a god.
+Demon King Asmodeus was unquestionably a power beyond his reach, but he could never be called a god.
 
 “In the end, I had to continue my long journey. Even if it meant burning my homeland and striking down my own kind under Asmodeus, of all beings.”
 
 Jin Taekyung’s eyes trembled as he listened to the story drift by like the wind. The old Dragon didn’t miss it.
 
-“You won’t understand. Perhaps no one would. But I had a goal I absolutely had to achieve. I believed I’d been born for it.”
+“You can’t understand. Perhaps no one could. But I had a goal I had to achieve. I believed I’d been born for it.”
 
 And so Morgoth survived.
 
 Though he had been the Dragon Lord, he killed dozens of his own kind and took their hearts. With the power he gained, he became the Archduke of the Demon Realm, second only to Asmodeus.
 
-A long time passed again. Then he heard news that was hard to believe.
+A long time passed before he heard news that was hard to believe.
 
-“A mere human defeated Asmodeus? At first, I didn’t even find it funny.”
+“A mere human had defeated Asmodeus? At first, it wasn’t even funny.”
 
 But it was true.
 
-Some of the monsters who had returned to the Demon Realm through the Gates relayed everything they had seen and heard. The Demon Realm soon plunged into utter chaos.
+Some of the monsters who had returned to the Demon Realm through the Gates told everything they had seen and heard, and the Demon Realm was soon plunged into chaos.
 
-Everyone was thrown into turmoil.
+Everyone was shaken.
 
 Everyone except Morgoth.
 
@@ -236,7 +236,7 @@ The astonishing news was enough to revive his interest, slowly worn down beneath
 
 And today, at last, the Ancient Dragon’s long-held wish had been answered.
 
-Right here, today.
+Here.
 
 “It was the first time. In all the thousands of years I’d watched the order of things remain unchanged, you were the first being I’d seen defy it.”
 

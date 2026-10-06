@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is largely faithful. One line attributes the acidity to the blood rather than to the surrounding acidic substance.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 101",
+      "current": "even blood this fiercely acidic",
+      "defect": "The English makes the silver blood itself acidic. The Korean says that even this intense acidity can no longer harm him; it does not identify the blood as the source of the acidity.",
+      "replacement": "even acidity this intense could no longer harm a single hair on his head",
+      "rationale": "The Korean phrase is “이토록 지독한 산성조차도” (“even acidity this intense”), not “this acidic blood.”",
+      "confidence": 0.96
+    }
+  ]
+}
