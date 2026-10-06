@@ -2,7 +2,7 @@
 
 “See you again?”
 
-At the sound of his low voice, Jin Taekyung was suddenly right in front of her. The Grand Mage felt the blood in her body turn cold.
+At the sound of Jin Taekyung’s low voice, the Grand Mage looked up to find him right in front of her. Her blood ran cold.
 
 *How?*
 
@@ -20,11 +20,11 @@ Space warped around the Force coiling along the spearhead. Faced with that terri
 
 *Vwoom.*
 
-In the slowed world, the energy gathered around her heart began to boil.
+In a world that seemed to slow, the energy gathered around her heart surged.
 
 Layer upon layer of translucent shields rose around her, blocking the spearhead.
 
-*Boom! Crash!*
+*Boom! Crack!*
 
 The ground shook as if an earthquake had struck.
 
@@ -36,11 +36,11 @@ The spearhead smashed through most of the dozens of layered shields before final
 
 A shiver ran up her spine. Only then did she release the breath she’d been holding.
 
-Before relief could settle in, she saw Jin Taekyung smiling faintly, though the attack she’d staked everything on had failed. Suddenly, she realized what she’d forgotten.
+Before relief could settle in, she saw Jin Taekyung smiling faintly, even though his attack had failed. Suddenly, she realized what she’d forgotten.
 
 Not something. Someone.
 
-Or rather, some very important—and very dangerous—people.
+Several people, each of them dangerous.
 
 But on a battlefield, realizations always came a moment too late.
 
@@ -60,29 +60,29 @@ An enormous blast rang out, and the swelling light swallowed the entire hill.
 
 At the last moment, it all happened almost at once.
 
-I’d backed away, anticipating the shock of the tremendous collision.
+I backed away, anticipating the shock of the collision.
 
-Far away, the Force arrow had left the bowstring and come hurtling toward us. At last, it struck the shield.
+Far off, a Force arrow flew from the bowstring and hurtled toward us. It struck the shield.
 
 And then—
 
 *Fwoom!*
 
-The distant flash of light swelled, blocking everyone’s view and swallowing the Grand Mage’s figure, which had been hidden behind the crumbling shield.
+Light swelled until it filled everyone’s vision, swallowing the Grand Mage behind her crumbling shield.
 
 *Rumble…!*
 
-The earth shook. Light burst forth in an instant, tearing through the darkness and devouring everything.
+The earth shook. Light burst through the darkness and engulfed everything.
 
 A wave of power beyond words.
 
 *Hngh…!*
 
-I sucked in a breath and curled up as tightly as I could. A gale whipped past me like a blade, slashing through the air.
+I sucked in a breath and curled up as tightly as I could. A gale swept over me like a blade, slashing through the air.
 
 The moment lasted only an instant, but it felt like an eternity. When it passed, I could finally hear again.
 
-A familiar voice reached my muffled ears.
+A familiar voice reached me through the ringing in my ears.
 
 “Are you all right?”
 
@@ -90,7 +90,7 @@ I let out the breath I’d been holding and raised my head.
 
 Beyond the fading light, I saw a white robe torn to shreds, blood scattered everywhere, and limbs severed from a body.
 
-They were slender and white—the limbs clearly belonged to a woman.
+Slender, pale limbs that clearly belonged to a woman.
 
 “It’s over. All of it.”
 
@@ -100,9 +100,7 @@ The Grand Mage was dead.
 
 The moment that sank in, all the strength drained from my body.
 
-My mental strength had been at its limit for a long time. Exhaustion washed over me, and my vision blurred.
-
-*Grab.*
+I’d reached the limit of my endurance long ago. Exhaustion rushed over me, blurring my vision.
 
 A strong hand caught me as I swayed.
 
@@ -116,19 +114,19 @@ Jeok Cheongang hauled me upright, and a laugh escaped me.
 
 Jeok Cheongang laughed with me.
 
-“Still a hundred years too soon. Can’t you tell, seeing that damned bastard run all the way over here?”
+“You’re still a hundred years too early. Can’t you tell? That damned bastard had to run all the way over here.”
 
 He was covered in blood, whatever he said. With a perfectly straight face, he pointed to an old fiend who had survived like a cockroach.
 
 Of course, there was another reason the Blood-Sword Demon Lord had survived the blast.
 
-“You went a long way while I was gone. Recklessly far, too.”
+“You went a long way while I was gone. Recklessly far.”
 
-So Gyo—or rather, the Bow Saint—looked at me with her usual calm gaze and spoke.
+So Gyo—or rather, the Bow Saint—regarded me with her usual calm gaze.
 
 She must have crossed half the land without a moment’s rest, yet her aura was still as sharp as a blade.
 
-I knew better than anyone why the Bow Saint, despite the crushing fatigue she must have felt, was keeping up this front.
+I knew better than anyone why she kept that edge despite the exhaustion she must have felt. And why she had protected the Blood-Sword Demon Lord.
 
 “But the rest will have to wait. There’s still a problem to deal with.”
 
@@ -158,7 +156,7 @@ The fiend who had radiated such terrifying power was nowhere to be seen.
 
 The Blood-Sword Demon Lord sprawled before me now was little more than a beggar, ruined at the end of a lifetime steeped in brutality.
 
-Abandoned by his master. Betrayed by his allies. Now begging for his life by selling information to the very enemy he’d tried to kill.
+Abandoned by his master. Betrayed by his allies. Now trying to buy his life with information sold to the very enemy he’d tried to kill.
 
 “Are you afraid?”
 
@@ -166,13 +164,13 @@ Abandoned by his master. Betrayed by his allies. Now begging for his life by sel
 
 “Can things like you feel fear?”
 
-I looked down at his wide, bloodshot eyes and spoke softly.
+I looked down into his wide, bloodshot eyes.
 
 “There’s no deal.”
 
 The Blood-Sword Demon Lord was already a discarded dog.
 
-Perhaps his fate had been sealed long ago: to be discarded once he’d outlived his usefulness.
+Perhaps he’d been destined to be thrown away once he outlived his usefulness from the start.
 
 I didn’t know the exact reason, but this was the outcome the Lord of Heaven had intended. No master would lavish care on a hunting dog he planned to cast aside without mercy.
 
@@ -196,7 +194,7 @@ I nodded at his dazed face.
 
 “B-But then why?”
 
-“If you’re asking why… I don’t know.”
+“Why? Well…”
 
 I raised the spearhead, exhaustion bearing down on me.
 
@@ -208,7 +206,7 @@ Maybe it was because…
 
 “…!”
 
-“You can’t win without believing in them. That’s why I came all this way like a fucking idiot.”
+“Because we couldn’t win unless I believed in them. So I came all this way like a fucking idiot.”
 
 Yeah.
 
@@ -228,13 +226,13 @@ A comrade who had never been the first to step back, no matter how desperate thi
 
 No. A friend.
 
-*If it weren’t for him, I wouldn’t have been able to place even this little faith in them.*
+*Without him, I couldn’t have held on to even this little bit of faith.*
 
 Not long ago, Jeok Cheongang had asked what I would do if Sama Pyo and Taishan turned out to have betrayed us.
 
 I hadn’t answered.
 
-Even as I walked down the Great Snow Mountain with Sama Pyo, I’d asked myself the same question. But I couldn’t bring myself to answer it.
+Even as I walked down the Great Snow Mountain with Sama Pyo, the question had stayed with me. I still couldn’t answer it.
 
 I wouldn’t be able to kill them.
 
@@ -252,19 +250,19 @@ I’d seen it myself.
 
 The Taeeul Merciless Sword and the Roaring Fury Swordsman throwing themselves toward the Hell Fire. Sima Gong facing the Blood-Sword Demon Lord in Jeok Cheongang’s place.
 
-Of course, they wouldn’t be forgiven for their crimes.
+That didn’t mean their crimes could be forgiven.
 
 At least, I had no right to forgive them. Neither did Jeok Cheongang or the Bow Saint.
 
 But I would remember that, when it mattered most, the traitors had upheld at least the smallest measure of honor.
 
-Unlike the discarded hunting dog, who would soon be forgotten by its master.
+Unlike a discarded hunting dog who would soon be forgotten by his master.
 
 “That’s why we’re different. You and us.”
 
 My voice was quiet, but clear. The Blood-Sword Demon Lord stared at me, the tiny blood vessels in his eyes burst.
 
-“Jin Taekyung!”
+“Jin Taekyung—!”
 
 His cry came out as though he were coughing up blood.
 
@@ -284,9 +282,9 @@ Unlike the man who had died with a silver-white spearhead through his chest.
 
 And just as the woman who had died moments before, too horribly to leave her body in one piece, had wanted.
 
-*I mustn’t fall here? I have to get stronger than I am now?*
+*Don’t fall here? Get stronger than I am now?*
 
-Feeling the crushing mental exhaustion weighing on my body, I turned to look toward the last trace of the Grand Mage, left behind where the Force arrow had swept through.
+Still crushed by exhaustion, I turned toward the Grand Mage’s last remains, left where the Force arrow had swept through. In my mind, I told her something she could no longer hear.
 
 *Don’t worry. I’ll make sure of it.*
 
@@ -298,11 +296,11 @@ I had to keep going. To keep moving forward, I had to grow stronger.
 
 Strong enough to far exceed the Lord of Heaven’s expectations. Strong enough to make him regret this choice someday.
 
-*Whatever gets in my way, I’ll just smash it to pieces.*
+*Whatever stands in my way, I’ll break it down.*
 
 That was how I’d lived until now, and how I’d live from here on.
 
-With that thought, I turned my unsteady body around.
+With that thought, I started to turn my unsteady body away.
 
 Or I tried to.
 
@@ -312,4 +310,4 @@ No.
 
 “…!”
 
-Not until I spotted the traces of Teleport.
+Then I saw the traces of Teleport.

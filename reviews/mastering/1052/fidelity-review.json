@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "the attack she’d staked everything on had failed",
+      "defect": "“Staked everything on” adds an all-or-nothing commitment. The source calls it her decisive or hoped-for attack, without saying she risked everything on it.",
+      "id": "F01",
+      "rationale": "회심의 공격 describes an attack expected or intended to succeed; it does not establish that she staked everything on it.",
+      "replacement": "her decisive attack had failed",
+      "severity": "minor",
+      "source": "Lines 41–43"
+    },
+    {
+      "confidence": 0.91,
+      "current": "was keeping up this front",
+      "defect": "“This front” suggests she is putting on a false appearance. The source says she is maintaining this attitude.",
+      "id": "F02",
+      "rationale": "이와 같은 태도를 유지하고 있는 describes maintaining an attitude, not concealing her true state behind a front.",
+      "replacement": "was maintaining this attitude",
+      "severity": "minor",
+      "source": "Line 141"
+    },
+    {
+      "confidence": 0.84,
+      "current": "He was covered in blood, whatever he said.",
+      "defect": "“Whatever he said” weakens the contrast: the source juxtaposes his bloodied appearance with his nonchalant words.",
+      "id": "F03",
+      "rationale": "말과는 달리 contrasts his blood-covered state with what he has just said; it does not mean his appearance is true regardless of his words.",
+      "replacement": "His appearance was bloodied, despite his casual words.",
+      "severity": "minor",
+      "source": "Lines 129–131"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with a few minor shifts that add implications or blur the source’s contrast.",
+  "version": 1
+}
