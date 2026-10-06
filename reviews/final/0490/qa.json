@@ -1,34 +1,17 @@
 {
   "chapter": 490,
-  "errors": [
-    {
-      "code": "panel_heading",
-      "details": {
-        "headings": [
-          "> **Fake Murim Martial Artist**"
-        ]
-      },
-      "message": "a document or panel heading from the mastered chapter was removed"
-    }
-  ],
+  "errors": [],
   "metrics": {
-    "baseline_preserved": 0.999,
-    "length_ratio": 2.269,
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.247,
     "source_characters": 5647,
     "source_paragraphs": 179,
-    "translation_characters": 12812,
+    "translation_characters": 12690,
     "translation_paragraphs": 163
   },
-  "passed": false,
+  "passed": true,
   "version": 1,
   "warnings": [
-    {
-      "code": "system_brackets",
-      "details": {
-        "line": 69
-      },
-      "message": "System window contains square brackets"
-    },
     {
       "code": "terminology",
       "details": {

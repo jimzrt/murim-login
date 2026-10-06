@@ -66,7 +66,7 @@ There was a simple reason I was so curious. The Quest I had accepted by accident
 >
 > **Quest**
 >
-> **Fake Murim[^2] Martial Artist**
+> **Fake Murim Martial Artist**
 >
 > Sensing the war clouds that will soon gather over the world, Mungyeong has decided after careful consideration to teach you personally.
 >
@@ -132,7 +132,7 @@ We were the kind of people who understood each other without speaking. Jeok Cheo
 
 “…”
 
-*Or maybe not. I’m suddenly not so sure.*
+Or maybe not. I’m suddenly not so sure.
 
 Jeok Cheongang might think differently, but that was how I saw it.
 
@@ -180,11 +180,11 @@ I searched everywhere for the missing Jeok Cheongang, but no matter whom I stopp
 
 “Damn it. I have a reputation to maintain too. No matter how much of a Supreme Peak master you are, if you treat me, the Successor Beggar, like some stray dog you’re calling over from the street, what will the Sect’s disciples think?”
 
-“Two silver nyang.[^3]”
+“Two silver nyang.[^2]”
 
 “Are you seriously treating me like a beggar…”
 
-“Ten nyang.[^3]”
+“Ten nyang.[^2]”
 
 *Fwoosh!*
 
@@ -208,11 +208,11 @@ I searched everywhere for the missing Jeok Cheongang, but no matter whom I stopp
 
 “I’ll pay you later. But if you find my Master’s location, I’ll give you double.”
 
-“T-Twenty nyang![^3] Beggerrr!”
+“T-Twenty nyang![^2] Beggerrr!”
 
 But even Gung Gibang, who had become a slave to capitalism and run off enthusiastically, ultimately failed to find Jeok Cheongang.
 
-I tossed him five silver nyang,[^3] then continued making the rounds. The answers I received were always more or less the same.
+I tossed him five silver nyang,[^2] then continued making the rounds. The answers I received were always more or less the same.
 
 “Sir Zhuge, have you perhaps seen my Master?”
 
@@ -224,7 +224,7 @@ I tossed him five silver nyang,[^3] then continued making the rounds. The answer
 
 “Really? Where?”
 
-“About two shichen[^4] ago, he was over by the water, beating someone senseless.”
+“About two shichen[^3] ago, he was over by the water, beating someone senseless.”
 
 “The person getting beaten was me.”
 
@@ -266,11 +266,11 @@ He must have been even more troubled than I had imagined.
 
 I let out a small sigh, picked up the water pitcher from the wooden table in the corner of the tent, and gulped down the water.
 
-I had been walking around and talking all day, so my throat was parched. *But why did the water taste like this?*
+I had been walking around and talking all day, so my throat was parched. But why did the water taste like this?
 
 *Did they scoop it straight from the river? It’s a little salty.*
 
-Even if Murim[^2] hadn’t suffered from environmental pollution yet, I couldn’t help feeling uneasy.
+Even if Murim hadn’t suffered from environmental pollution yet, I couldn’t help feeling uneasy.
 
 That was when it happened.
 
@@ -290,19 +290,19 @@ That was when it happened.
 
 …?
 
-*No, fuck. What the hell was this?*
+No, fuck. What the hell was this?
 
 Forgetting that my body was slowly becoming paralyzed, I stared blankly at the System window. Then a brief memory flashed through my mind like lightning.
 
-“You’ll naturally find out tomorrow.”
+*You’ll naturally find out tomorrow.*
 
-“It’s already the hour of the Pig.[^1] It’ll be midnight soon. Can’t you just tell me and get it over with?”
+*It’s already the hour of the Pig.[^1] It’ll be midnight soon. Can’t you just tell me and get it over with?*
 
-“It’s late. Don’t forget. We begin tomorrow.”
+*It’s late. Don’t forget. We begin tomorrow.*
 
 “…!”
 
-*Mungyeong, you son of a bitch!*
+Mungyeong, you son of a bitch!
 
 My blood seemed to surge backward with rage.
 
@@ -354,7 +354,7 @@ He had set a trap like this the moment midnight passed. I never imagined that �
 
 At first, I had thought it was an ambush by Dark Heaven.
 
-Was this what he meant by turning me into a true Murim[^2] martial artist? I was already exhausted, and the sudden attack had sent my heart pounding and made my legs go weak. With a deep sigh, I collapsed onto the bed.
+Was this what he meant by turning me into a true Murim martial artist? I was already exhausted, and the sudden attack had sent my heart pounding and made my legs go weak. With a deep sigh, I collapsed onto the bed.
 
 *Phut-phut!*
 
@@ -366,9 +366,8 @@ Was this what he meant by turning me into a true Murim[^2] martial artist? I was
 >
 > - You have been poisoned by **Potent Soul-Bewitching Powder**!
 
-*Slaughter Saint, you fucking bastard.*
+Slaughter Saint, you fucking bastard.
 
 [^1]: The hour of the Pig corresponds roughly to 9–11 p.m. in traditional East Asian timekeeping.
-[^2]: *Murim* is the martial world and its community of martial artists.
-[^3]: A *nyang* is a traditional unit of currency. Here it refers to silver money.
-[^4]: A *shichen* is a traditional East Asian time unit of approximately two hours; two shichen are approximately four hours.
+[^2]: A nyang was a historical unit of currency; these amounts are in silver nyang, not modern won.
+[^3]: A shichen is a traditional East Asian time unit of approximately two hours.
