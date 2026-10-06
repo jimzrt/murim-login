@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Blades flashed, and heads flew across the battlefield.",
+      "defect": "The source depicts heads springing upward in scattered places as blades flash; “flew across the battlefield” adds a different direction and trajectory.",
+      "id": "F01",
+      "rationale": "곳곳에서 솟구치는 목 describes heads surging or springing up here and there, matching the accepted baseline’s image rather than heads flying across the battlefield.",
+      "replacement": "Blades flashed, and heads sprang up all over the battlefield.",
+      "severity": "minor",
+      "source": "Chapter 1104, line 46"
+    },
+    {
+      "confidence": 0.99,
+      "current": "But Jin Taekyung wasn’t afraid.",
+      "defect": "The next source beat—that he had already been sufficiently afraid earlier—is omitted, removing the stated reason he can now face the Blood Lord without fear.",
+      "id": "F02",
+      "rationale": "그보다 앞서 이미 충분히 두려워했기에 explicitly says he had already experienced enough fear beforehand; the accepted baseline preserves this beat.",
+      "replacement": "But Jin Taekyung wasn’t afraid. He had already been afraid enough before now.",
+      "severity": "minor",
+      "source": "Chapter 1104, lines 180–184"
+    }
+  ],
+  "summary": "The assembled copy is largely faithful, but it changes one physical image and omits a brief emotional beat preserved in the source and accepted baseline.",
+  "version": 1
+}

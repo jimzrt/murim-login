@@ -6,13 +6,13 @@ Footsteps crossed ground covered in blood, rainwater, and countless corpses. Eac
 
 Tens of thousands.
 
-No—even on this vast battlefield, where friend and foe together numbered well over a hundred thousand, his presence was utterly overwhelming.
+No—even on this vast battlefield, where friend and foe together numbered well over a hundred thousand, his presence was overwhelming.
 
 *Vooooom.*
 
 Qi spread through the space around him with every step.
 
-Even now, rain and arrows poured unceasingly from the sky, only to bounce off an invisible barrier of energy. The Dark Heaven followers charging toward the collapsed western wall split to either side and prostrated themselves.
+Rain and arrows poured unceasingly from the sky, only to bounce off an invisible barrier of energy. The Dark Heaven followers charging toward the collapsed western wall parted to either side and prostrated themselves.
 
 As if bewitched, they murmured their eight-character creed.
 
@@ -24,7 +24,7 @@ It was reverence.
 
 Reverence offered to the true ruler of this world, their god—and permitted only to the six Apostles he had personally favored.
 
-The creed, begun with a few quiet murmurs, soon became a tremendous roar that swallowed the battlefield.
+What began as a few quiet murmurs soon became a roar that swallowed the battlefield.
 
 ……!
 
@@ -32,7 +32,7 @@ The creed, begun with a few quiet murmurs, soon became a tremendous roar that sw
 
 A ripple became a current, then a wave sweeping in every direction.
 
-The pounding rain, the thunder flashing between the dark clouds, even the arrows raining down to fill the sky—nothing could stop the creed pouring from their lips.
+The pounding rain, the thunder flashing between dark clouds, even the arrows filling the sky—nothing could drown out the creed pouring from their lips.
 
 “Now! Attack!”
 
@@ -48,7 +48,7 @@ Severed arms and legs plunged into the mud. Arrows streaked in like flashes of l
 
 But that was all.
 
-Even when their limbs were cut off, even when arrowheads pierced their backs and poked out through their chests, they stubbornly continued reciting the creed.
+Even with limbs cut off, even with arrowheads driven through their backs and jutting from their chests, the followers kept reciting the creed.
 
 Right up to the moment death fell over them.
 
@@ -60,7 +60,7 @@ Only after forcing out the last words, blood pouring from him, did the Dark Heav
 
 “P-Primordial Heavenly Venerable.”
 
-A wave of fanaticism beyond words.
+Fanaticism beyond words.
 
 And fanatics who didn’t even fear death were everywhere.
 
@@ -72,9 +72,9 @@ The words someone managed to squeeze out spoke for them all. They carried the ut
 
 *Splash. Clatter.*
 
-Weapons slipped from suddenly slack hands and sank into the mud.
+Weapons slipped from suddenly slack hands and fell into the mud.
 
-For an instant, some of the Murim warriors and imperial troops lost their will to fight without even realizing it. Their trembling eyes stared blankly at the enemy.
+Some of the Murim warriors and imperial troops had lost their will to fight without even realizing it. They stared blankly at the enemy, eyes shaking.
 
 They were afraid. So afraid they shuddered.
 
@@ -86,9 +86,9 @@ And at their center, at the head of their ranks, walked a man wreathed in rippli
 
 “What a bunch of worthless bastards.”
 
-His soft sneer revealed a row of white teeth.
+A low, mocking laugh bared his white teeth.
 
-At the same time, as the Blood Lord gently extended his fingertips, countless weapons that had been rolling across the ground rose upright.
+As the Blood Lord gently extended his hand, countless weapons lying on the ground rose upright.
 
 No—they shot forward at their new master’s command.
 
@@ -132,13 +132,13 @@ Would a storm like this sweep across the land if an ancient giant exhaled with a
 
 No one could say.
 
-No one, that is, except the two people standing tall as iron towers in the fierce light and shock wave that heated and drove back everything within dozens of yards.
+No one except the two people standing tall as iron towers amid the fierce light and shock wave that heated and drove back everything for several dozen jang around them.
 
 “Good. You, at least, deserve to live.”
 
 The Blood Lord brought the edge of his hand down as he murmured. The dust cloud coiling around the western wall split apart, revealing what it had concealed.
 
-A young man, drenched from head to toe in blood and rain, stood perfectly steady, aiming a pure silver-white spear at him.
+A young man drenched from head to toe in blood and rain stood without the slightest tremor, aiming a silver-white spear at him.
 
 “Which is precisely why I can’t let you live.”
 
@@ -152,21 +152,21 @@ At that moment, Jin Taekyung’s tightly closed lips parted.
 
 *Squelch.*
 
-He pulled out the shards of blades that had somehow pierced his body in several places as they flew through the wall of fire, then continued:
+Without hesitation, he pulled the fragments of sharp metal from where they had lodged in his body after piercing the wall of fire.
 
 “No matter how I look at it, you don’t deserve to live, you son of a bitch. That’s why you have to die.”
 
 His voice was calm. Flames streamed from his eyes.
 
-The Blood Lord gave a quiet laugh as he looked at him.
+The Blood Lord let out a quiet laugh.
 
 “Do you think you can do that? In your current condition?”
 
-The Blood Lord wasn’t exaggerating.
+He wasn’t exaggerating.
 
-Jin Taekyung’s appearance alone made him look like a man drenched in blood.
+Jin Taekyung looked like a man made of blood.
 
-Given how many enemies he had cut down, that was only natural. But that didn’t mean he’d come away unscathed.
+Given how many enemies he had cut down, that was only natural. But it wasn’t all their blood.
 
 He was exhausted and injured, too.
 
@@ -174,19 +174,19 @@ So were the others now rising one by one behind his back, which stood as imposin
 
 But Jin Taekyung wasn’t afraid.
 
-He had acknowledged and accepted every negative feeling that had weighed down his body and mind.
+He’d already been afraid enough. He had acknowledged and accepted every fear and doubt that had weighed down his body and mind.
 
 And so he managed a faint smile even as the Blood Lord approached.
 
 “Sure, you could think that. But you know something?”
 
-“What are you talking about?”
+“What?”
 
 “Your precious friends all pulled that same shit on me before they died.”
 
 “……!”
 
-“That’s what you call a death flag, you moron. Ah, would you even understand if I explained it?”
+“It’s a death flag, you moron. Ah, no point explaining that to you, is there?”
 
 Jin Taekyung laughed. Whatever his words meant, the sneer vanished from the Blood Lord’s face.
 
@@ -208,7 +208,7 @@ His red-glinting eyes reflected only Jin Taekyung.
 
 “What?”
 
-The Blood Lord stopped walking for an instant. Jin Taekyung’s voice slid into his ear.
+The Blood Lord stopped. Jin Taekyung’s voice reached him clearly.
 
 “You don’t think he’ll understand. You think you’re screwed if he finds out, so you’re going ahead and doing it anyway. You even sent the Grand Mage far away, just in case.”
 
@@ -220,7 +220,7 @@ The Blood Lord stopped walking for an instant. Jin Taekyung’s voice slid into 
 
 The Blood Lord clenched his teeth without realizing it.
 
-It wasn’t Jin Taekyung’s relentless taunts that made him do it. It was the truth he’d tried to ignore, stabbing into his heart like an awl.
+Not because of Jin Taekyung’s relentless taunts, but because the truth he’d tried to ignore was driving into him like an awl.
 
 “You know perfectly well what your master—that damned Lord of Heaven—wants most.”
 
@@ -246,11 +246,11 @@ Jin Taekyung’s voice burrowed into his ears. The truth in it shook him to the 
 
 “……!”
 
-“So go on, try to kill me. If I can screw the Lord of Heaven over by using you, I don’t care how it happens.”
+“So go on. Try to kill me. If I can use you to screw over the Lord of Heaven, I don’t care what happens to me.”
 
 At that instant, the Blood Lord’s slowly reddening eyes turned completely bloodred, their white pupils swallowed up.
 
-And countless corpses scattered across the ground within a dozen yards convulsed and spewed blood.
+Countless corpses scattered across the ground within a dozen jang disgorged blood.
 
 *Swoosh.*
 
