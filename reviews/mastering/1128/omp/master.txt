@@ -44,7 +44,7 @@ Seeing them safe, I felt my stiff smile soften.
 
 The smile on my lips wasn’t an act anymore.
 
-Even the face of that wild-haired weirdo who gave me a headache every time I saw him made my heart swell with relief.
+Gung Gibang and Cheongheoja appeared after the Fire Dragon Pavilion members. Even the face of that wild-haired weirdo who gave me a headache every time I saw him made my chest tighten with relief.
 
 No—maybe it wasn’t Great Sir himself I was so glad to see, but the person on his back.
 
@@ -118,9 +118,9 @@ Warm qi flowed from the fingers resting on my shoulder and seeped into me.
 
 Like the sunset, it roused my fading consciousness. I saw the fanatics crumbling even now and heard our allies’ shouts sweeping over them like a wave.
 
-A roar that swallowed the fierce wind, the rain, and even the eight-character maxim.
+A roar that swallowed the fierce wind, the rain, and even the eight-character invocation.
 
-—Fight back! For the Blazing Flame Divine Dragon, Jin Taekyung!
+—Fight back! For the Blazing Flame Divine Dragon! For Jin Taekyung!
 
 Banners soared so high they seemed to pierce the sky, whipping wildly in the wind.
 
@@ -168,13 +168,13 @@ I didn’t know that distant past.
 
 And yet I could guess what light had shone through the darkness of the Great Faction War.
 
-That was probably why my eyes widened without my meaning to.
+That must have been why my eyes widened.
 
 The brilliant light that had illuminated that age of war had vanished long ago.
 
 “…No way.”
 
-I looked at Mae Jonghak, smiling faintly, and asked as if groaning.
+I looked at Mae Jonghak’s faint smile and forced out the question.
 
 “Has the Martial God returned?”
 
@@ -184,7 +184,7 @@ His answer sent something hot surging up from deep in my chest.
 
 “…!”
 
-“One who goes ahead of everyone else to light the way. Someone who can bring everyone together because he isn’t bound by status or formality. That’s why you are the Blazing Flame Divine Dragon and Prince Shangshan—but before either of those, you’re a human being.”
+“One who goes ahead of everyone else to light the way. Someone who can bring everyone together because he isn’t bound by status or formality. The Blazing Flame Divine Dragon and Prince Shangshan—but before either of those, a human being.”
 
 His voice carried across the battlefield as though he were reciting a poem.
 
@@ -196,7 +196,7 @@ But the shouting didn’t stop.
 
 Everyone in Xining was still calling my name at the top of their lungs.
 
-As if mourning my death, just around the corner.
+As if mourning my death before it had even come.
 
 “Thank you. And I’m sorry. For coming too late. For failing to protect you.”
 
@@ -267,7 +267,7 @@ The translucent hologram window stayed in the corner of my vision, no matter whi
 
 “Hong Dao said so. The great Abbot of Shaolin Temple said it, so you’d better believe him without arguing.”
 
-“Come on. You always write him off as some damn monk.”
+“Come on. You’re always calling him a damn monk and dismissing everything he says.”
 
 “This time, I intend to believe him.”
 
@@ -296,7 +296,7 @@ The translucent hologram window stayed in the corner of my vision, no matter whi
 
 “Wow. Are you a genius?”
 
-“I suppose I was close to a natural disaster.”
+“More of a natural disaster, I’d say.”
 
 > **System**
 > **Time Limit:** 15 seconds
@@ -318,7 +318,7 @@ The translucent hologram window stayed in the corner of my vision, no matter whi
 > **System**
 > **Time Limit:** 10 seconds
 
-“If you happen to meet them someday—though I know that probably won’t happen—could you tell them how I’m doing?”
+“If you ever meet them—though you probably won’t—could you tell them what happened to me?”
 
 “What must this old man do to reach the realm of immortals where you stayed?”
 

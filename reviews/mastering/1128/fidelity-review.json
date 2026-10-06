@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "tears clouded Taishan’s eyes, each as big as a calf’s.",
+      "defect": "The Korean describes Taishan as being as large as a calf; the current wording instead makes his eyes calf-sized.",
+      "id": "F01",
+      "rationale": "송아지처럼 커다란 modifies 태산, not his eyes.",
+      "replacement": "and tears clouded the eyes of Taishan, who was as big as a calf.",
+      "severity": "minor",
+      "source": "Lines 27–28"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Even the face of that wild-haired weirdo who gave me a headache every time I saw him made my heart swell with relief.",
+      "defect": "The assembled English omits the arrival of Gung Gibang and Cheongheoja after the Fire Dragon Pavilion members.",
+      "id": "F02",
+      "rationale": "The source explicitly says 궁기방과 청허자 appeared after the Fire Dragon Pavilion members before describing the narrator’s reaction to the wild-haired man.",
+      "replacement": "Gung Gibang and Cheongheoja appeared after the Fire Dragon Pavilion members. Even the face of that wild-haired weirdo who gave me a headache every time I saw him made my heart swell with relief.",
+      "severity": "minor",
+      "source": "Line 49"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Three forces that mixed about as well as water and oil had come together as one, driving through the invaders.",
+      "defect": "The source calls the three incompatible groups “colors,” preserving a color-mixing image; “forces” removes that image.",
+      "id": "F03",
+      "rationale": "The Korean says 세 가지 색이 하나로 뒤섞인 채: three colors blended together as one.",
+      "replacement": "Three colors that mixed about as well as water and oil had come together as one, driving through the invaders.",
+      "severity": "minor",
+      "source": "Lines 135–137"
+    }
+  ],
+  "summary": "The assembled English is largely faithful, but it omits two characters’ arrival and shifts the source’s image of three colors into one of three forces.",
+  "version": 1
+}
