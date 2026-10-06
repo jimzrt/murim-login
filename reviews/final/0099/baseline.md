@@ -392,6 +392,6 @@ The blade, brimming with internal energy, shattered the enemy’s dagger. Shards
 
 Ssshhhhh!
 
-[^1]: *Pyeong* is a traditional Korean unit of floor area. Five pyeong is about 16.5 m², or 178 ft².
+[^1]: *Pyeong* is a traditional Korean unit of floor area; five pyeong is roughly 16.5 square meters.
 
-[^2]: *Yeokmasal* is a traditional Korean notion of a fate that compels someone to wander. The answer also plays on *sal*, the Korean word used when asking someone’s age.
+[^2]: *Yeokmasal* is a traditional Korean notion of a fate that compels someone to wander. Here it also puns on *sal*, the Korean word used when asking someone’s age.
