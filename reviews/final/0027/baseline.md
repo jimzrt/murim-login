@@ -108,7 +108,7 @@ But still…
 
 “Young Master.”
 
-“Everyone’s exhausted. If we rest for one shichen[^1]—no, just half a shichen[^1]—and try the method, that should be enough.”
+“Everyone’s exhausted. If we rest for one shichen[^1]—no, just half a shichen—and try the method, that should be enough.”
 
 “Hahaha.”
 
@@ -228,11 +228,11 @@ I hadn’t expected the boy who had declared himself my ardent follower from the
 
 “We can’t leave him behind like this.”
 
-“And if we can’t leave him behind?”
+“And if we can’t?”
 
 A wave of exhaustion suddenly washed over me. I rubbed my gritty eyes.
 
-“If we can’t leave him behind, will you carry him?”
+“Will you carry him?”
 
 “Yes. I’ll carry him.”
 
@@ -272,7 +272,7 @@ Socheon was in the middle of the formation, so the reconnaissance squad members 
 
 *How long has it been since we set out?*
 
-A sikyeong[^2]? Half a shichen[^1]?
+A sikyeong? Half a shichen?
 
 I didn’t know. In the dead of night, with darkness swallowing everything around us, I couldn’t even feel the passage of time.
 
@@ -444,5 +444,4 @@ The shadow reached toward the moon. Faint moonlight slipped between his fingers,
 
 The Head Elder smiled with delight.
 
-[^1]: A shichen is a traditional Chinese unit of time equal to roughly two hours.
-[^2]: A sikyeong is the time it takes to eat a meal, roughly thirty minutes.
+[^1]: A shichen is a traditional Chinese unit of time equal to roughly two hours. A sikyeong is the time it takes to eat a meal, roughly thirty minutes.
