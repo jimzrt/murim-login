@@ -2,7 +2,7 @@
 
 No further surprises came in the great battle that day across the vast snowfield.
 
-Just a few hours earlier, the forces of Dark Heaven had flaunted their overwhelming might. Now they were no more than candles before the wind, while the allied forces—led by Supreme Peak masters and wave after wave of reinforcements—were like a tremendous storm.
+Just a few shichen earlier, Dark Heaven’s forces had seemed overwhelmingly powerful. Now they were candles before the wind, while the allied forces—led by Supreme Peak masters and reinforced again and again—were a tremendous storm.
 
 A storm of steel and killing intent, tearing through everything in its path.
 
@@ -72,11 +72,11 @@ The ground shook as if an earthquake had struck.
 
 Deafening shouts echoed without end. A forest of steel filled the land, engulfing the invaders and blooming with countless flowers and branches.
 
-Red flowers made of blood and bone, white branches made of bone.
+Red flowers of blood and white branches of bone.
 
 That was how the long, brutal battle ended.
 
-Another half day passed. Of the fully thirty thousand Dark Heaven cultists, not one still stood on the battlefield of his own will.
+Another half day passed. Of the nearly thirty thousand Dark Heaven cultists, not one remained on the battlefield of their own will.
 
 Not one.
 
@@ -132,7 +132,7 @@ Taekyung raised a hand to stop them before they could finish.
 
 He knew what they wanted to say.
 
-This wasn’t murder. It was slaughter, like butchering livestock.
+This wasn’t killing. It was slaughter, like butchering livestock.
 
 Yet he also understood the feelings of those giving such a cruel end to enemies who no longer had the strength to resist.
 
@@ -204,7 +204,7 @@ Taekyung watched him go, then suddenly spoke.
 
 Of course Sama Pyo did.
 
-It had been recent—not years or months ago, but barely more than a month.
+It had been barely more than a month—not years or even months ago.
 
 And he could guess why Taekyung had brought it up.
 
@@ -254,7 +254,7 @@ At Taekyung’s quiet question from behind him, Sama Pyo resumed walking.
 
 He had wanted to believe in him until the very end, whatever it took.
 
-But when that trust was betrayed, he didn’t want the people beside him put in danger.
+But if that trust was betrayed, he didn’t want the people beside him put in danger.
 
 So he had deliberately left a clue as a warning. Before he could bring himself to report his father’s suspicious actions, he wanted them to become suspicious on their own.
 
@@ -262,9 +262,9 @@ Even if they suspected Sama Pyo too, he didn’t care, as long as it kept everyo
 
 He was used to being suspected and hated.
 
-That was what it meant to live as the blood relative of Sima Gong, the Black Night King, and the Young Sect Leader of the Black Dragon Demon Gate.
+That was what it meant to live as the son of Sima Gong, the Black Night King, and the Young Sect Leader of the Black Dragon Demon Gate.
 
-And yet it was strange.
+Yet something about it had been strange.
 
 Even after Namho’s gaze toward him had grown sharper and more searching, Taekyung hadn’t said a word.
 
@@ -298,7 +298,7 @@ Or, to be exact, toward the old man at their center.
 
 At last, he stopped, sending ripples through a pool of blood.
 
-Sama Pyo took a deep breath. The stench and reek of blood were foul enough to make him gag, but his heart was strangely calm and still.
+Sama Pyo took a deep breath. The stench of blood and death filled his nose, foul enough to make him gag, but his mind was calm and still.
 
 As calm and still as the expression of the old man before him, who gazed at his enemy’s son with eyes too deep to read.
 
