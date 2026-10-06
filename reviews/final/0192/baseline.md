@@ -108,7 +108,7 @@ Song Il shouted as if having a fit.
 
 Thunderous laughter rang out from every direction, backed by internal energy so vast that no one dared guess at its limits.
 
-The commoners who had never learned martial arts fell flat on their faces, crying out to the Jade Emperor,[^1] while the martial artists trembled in awe.
+The commoners who had never learned martial arts fell flat on their faces, crying out to the Jade Emperor, while the martial artists trembled in awe.
 
 “Can you not hear me!”
 
@@ -164,7 +164,7 @@ Song Il’s strength left him all at once.
 
 His gamble had worked. The unidentified Supreme Peak master wanted Jin Taekyung alive. And he was farther away than Song Il had expected.
 
-“Fifty jang.[^2] Stay at least fifty jang away. If you come any closer, this bastard is as good as dead—”
+“Fifty jang. Stay at least fifty jang away. If you come any closer, this bastard is as good as dead—”
 
 At that exact moment—
 
@@ -172,7 +172,7 @@ At that exact moment—
 
 Song Il doubted his own eyes and ears.
 
-Barely three jang[^2] away, Jin Taekyung calmly spoke again.
+Barely three jang away, Jin Taekyung calmly spoke again.
 
 “I said three. You fucking old bastard. Are you deaf?”
 
@@ -356,7 +356,7 @@ I was starting to like the old man more and more.
 
 Jin Wikyung and Hyuk Mujin were already gazing at Jeok Cheongang with love in their eyes.
 
-“You call yourself an Elder of the Nine Sects and One Gang,[^3] yet you threaten commoners and use your power to arbitrarily order a sect to seal its gates? If your Master saw this, he would be wailing in the afterlife.”
+“You call yourself an Elder of the Nine Sects and One Gang, yet you threaten commoners and use your power to arbitrarily order a sect to seal its gates? If your Master saw this, he would be wailing in the afterlife.”
 
 “…”
 
@@ -398,7 +398,7 @@ Wave after wave of exhilarating refreshment swept through my entire body.
 
 Of course, that was from the perspective of someone watching.
 
-The Roaring Fury Swordsman had been publicly humiliated in front of countless commoners and martial artists alike. His body shook. Perhaps that was why the humiliation and anger he felt in that instant overcame his fear of the Fire King.
+The Roaring Fury Swordsman had been publicly humiliated in front of countless commoners and martial artists alike. Perhaps that was why the humiliation and anger he felt in that instant overcame his fear of the Fire King.
 
 “T-this is a matter between our sect and the Jin Family of Taiyuan.”
 
@@ -435,7 +435,3 @@ Just as confusion spread across every face, mine included, the Fire King continu
 Silence descended upon the Grand Training Ground.
 
 Wordless shock spread endlessly through the crowd.
-
-[^1]: The Jade Emperor is the heavenly ruler in Daoist tradition.
-[^2]: A Korean *jang* is ten *ja*, approximately 3.03 m (9.94 ft). Fifty *jang* is about 151.5 m (497 ft); three *jang* is about 9.09 m (29.8 ft).
-[^3]: The Nine Sects and One Gang are a major grouping of martial-arts factions in Murim fiction.
