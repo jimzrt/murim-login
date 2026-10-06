@@ -120,7 +120,7 @@ At my current level, I could barely protect my own life, let alone the people wh
 
 *I don’t know how long it’ll take, but I’ll catch up soon enough.*
 
-It had taken me only two months to rise from Third Rate to Supreme First Rate, and from F-rank to C-rank. My current resolve was no idle boast.
+It had taken me only two months to rise from Third Rate to the upper reaches of First Rate, and from F-rank to C-rank. My current resolve was no idle boast.
 
 The war was over, and I had plenty of time now. I intended to raise my abilities as much as possible before logging out.
 
@@ -208,9 +208,9 @@ And he rejoiced.
 
 He had first picked up a sword at the age of five. It had been a wooden sword Jin Wikyung carved with clumsy hands. He had liked the rough texture, and he had liked the sound of wind scattering every time he swung it. From that day onward, he had never taken even a single day off from training.
 
-“He’s a genius. A true genius.”
+*He’s a genius. A true genius.*
 
-“That boy was simply born with it. Otherwise…”
+*That boy was simply born with it. Otherwise…*
 
 Some people had admired him. Others had envied him. Their intentions had been different, but they all said the same thing.
 
@@ -228,9 +228,9 @@ From this point on, he had to focus solely on circulating his qi.
 
 It was time to face the enemy he had fought every day for the past three years.
 
-The enemy known as the Conception and Governor Vessels.[^1]
+The enemy known as the Conception and Governor Vessels.
 
-He had been forced to retreat every time until now, but Jin Mukyung had not yet given up. If he won just once, he could open the Conception and Governor Vessels[^1] and set foot in a new realm.
+He had been forced to retreat every time until now, but Jin Mukyung had not yet given up. If he won just once, he could open the Conception and Governor Vessels and set foot in a new realm.
 
 *Let’s give it a try.*
 
@@ -238,7 +238,7 @@ Just as Jin Mukyung resolutely drew up his internal energy with all his might—
 
 “Hoooooowuuuuuuuu!”
 
-*What was that? A Heart Demon?*[^2]
+What was that? A Heart Demon?
 
 The howl was chilling enough to raise goose bumps just by hearing it. It sounded like a demon laughing in delight. Jin Mukyung hurriedly tried to calm his internal energy when the demon shouted again.
 
@@ -312,7 +312,7 @@ The gate guards, who had been whimpering like puppies desperate to poop, brighte
 
 But the Sect Leader could not share their joy.
 
-His face stiff, he politely clasped his hands[^3] toward the uninvited guests.
+His face stiff, he politely clasped his hands toward the uninvited guests.
 
 “I am Huang, the leader of Song Sword Sect.”
 
@@ -360,7 +360,7 @@ After a brief silence, the Sect Leader spoke.
 
 “It is an honor that you are willing to visit.”
 
-Wipeng politely clasped his hands.[^3] The abrupt change in his attitude made the Sect Leader bite his lip.
+Wipeng politely clasped his hands. The abrupt change in his attitude made the Sect Leader bite his lip.
 
 “You must be tired from your journey. Rather than standing out here, why don’t you come inside and rest?”
 
@@ -397,7 +397,3 @@ The Sect Leader’s heart dropped. He was about to start making hurried excuses 
 Wipeng and his subordinates disappeared into the darkness.
 
 The Sect Leader of Song Sword Sect remained standing there for a long time.
-
-[^1]: The Conception and Governor Vessels are two principal channels in traditional Chinese medicine’s system of meridians.
-[^2]: A Heart Demon is an inner fear or obsession that can disrupt a martial artist’s concentration during cultivation.
-[^3]: Clasping one fist in the other hand is a traditional greeting or salute that can convey respect.
