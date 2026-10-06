@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it drops a source-specific shadow image and the narrator’s silent stare before he speaks.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 57–59",
+      "current": "Like a ghost with no substance, the Slaughter Saint passed through the window as if it weren’t there and entered the carriage.",
+      "defect": "The translation omits the shadow falling by the window as the Slaughter Saint answers. This physical image appears in both the Korean and the accepted baseline.",
+      "replacement": "A shadow fell by the window as he answered flatly. Like a ghost with no substance, the Slaughter Saint passed through the window as if it weren’t there and entered the carriage.",
+      "rationale": "The source explicitly describes a shadow falling by the window before the Slaughter Saint enters the carriage.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 27",
+      "current": "I stared out the window. Not a bird called. Not an insect chirped.",
+      "defect": "The translation drops that the narrator stared silently, then suddenly opened his mouth to speak.",
+      "replacement": "I stared silently out the window. Not a bird called. Not an insect chirped. Then I suddenly spoke.",
+      "rationale": "The Korean says he silently stared at the window, then 문득 입을 열었다—suddenly opened his mouth to speak. The accepted baseline also preserves both beats.",
+      "confidence": 0.95
+    }
+  ]
+}

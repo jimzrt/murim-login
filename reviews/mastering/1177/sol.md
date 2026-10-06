@@ -12,7 +12,7 @@ I swallowed the question almost as soon as it sprang to mind.
 
 It was a foolish question.
 
-If the Lord of Heaven—no, the Demon King Asmodeus—stood at the beginning and end of all this, then it was even less surprising.
+Especially if the one behind all this was the Lord of Heaven—no, the Demon King Asmodeus.
 
 He’d dragged an apocalypse that had existed only in people’s imaginations into reality. From the moment I learned what he was, *common sense* had lost all meaning.
 
@@ -26,7 +26,7 @@ It was far too late to ask *how*.
 
 What mattered to me now—to us—was why.
 
-And it seemed the person hiding in the sandstorm that had blown in from far away, whose presence had settled on the carriage roof a moment earlier, knew that too.
+And it seemed the person who’d arrived with the sandstorm from afar and settled on the carriage roof a moment ago knew that too.
 
 “One of two things.”
 
@@ -48,7 +48,7 @@ Jeok Cheongang cut in gruffly.
 
 “That mouth of yours never gets any better. What the hell have you done with all the years you’ve lived?”
 
-Like a ghost with no substance, the Slaughter Saint passed through the window as if it weren’t there and entered the carriage. He stared at me as though he could see straight through whatever I was hiding.
+A shadow fell across the window. The Slaughter Saint passed through it as though he had no substance, like a ghost, and entered the carriage. He stared at me as if he could see straight through what I was hiding.
 
 “Anyway, you slept a long time.”
 
@@ -96,7 +96,7 @@ His reaction was a little odd, but the most important thing when lying was to so
 
 “I see.”
 
-The Slaughter Saint nodded as if he understood, then muttered to himself.
+The Slaughter Saint nodded, then muttered as if to himself.
 
 “Strange. You woke up several times, and nobody noticed.”
 
@@ -104,7 +104,7 @@ The Slaughter Saint nodded as if he understood, then muttered to himself.
 
 “Something even stranger happened. Would you like to hear it?”
 
-Was it just my imagination, or had the air gone a little stale?
+Was it my imagination, or had the air turned a little murky?
 
 Uneasy for some reason, I shook my head.
 
@@ -136,7 +136,7 @@ I forced a smile.
 
 “What a close Master and Disciple you are. From the first day of our journey, a certain ill-tempered old man raised hell unless I checked on you morning and evening. Not a single day went by in peace.”
 
-The Slaughter Saint’s eyes sank as he glared at Jeok Cheongang, as though just remembering it exhausted him.
+The Slaughter Saint glared at Jeok Cheongang, looking exhausted just from remembering it.
 
 “Lately, his fits reached new heights. You’d been asleep for nearly a month, so he decided something must be wrong. He shouted at me, demanding to know why I couldn’t find the problem.”
 
@@ -164,7 +164,7 @@ Under the Slaughter Saint’s stare—and mine—Jeok Cheongang looked out the w
 
 “Hmm. I suppose I went too far there. My pride won’t let me apologize, so I’ll offer my regrets instead.”
 
-The answer was steeped in the essence of the Fire Gate Clan—a clan that had been making Murim’s people furious on a regular basis for more than three hundred years. A sound almost escaped me.
+It was an answer steeped in the essence of the Fire Gate Clan, which had spent over three hundred years regularly infuriating the martial artists of Murim. A sound of admiration nearly escaped me.
 
 Then I saw the Slaughter Saint’s expression and held it in with everything I had.
 
@@ -172,13 +172,13 @@ Then I saw the Slaughter Saint’s expression and held it in with everything I h
 
 I was very relieved Cheongpung wasn’t here.
 
-If he’d seen this, he would’ve spouted some nonsense like, *Wow! I’ve never seen the greatest assassin of all time swear before!* Then I would’ve had to watch the greatest assassin of all time lose his temper and go on a rampage.
+If he’d seen this, he would’ve blurted out something like, *Wow! I’ve never heard the greatest assassin of all time swear before!* Then we’d have had to watch the greatest assassin of all time lose his mind.
 
-Fortunately, the man with another identity as the Divine Physician knew how to keep to a minimum standard of decency—unlike my dear Master—and, as a former assassin, had a near-supernatural skill for recovering his composure.
+Fortunately, unlike my dear Master, the man who was also the Divine Physician knew where to draw the line. And as a former assassin, he had an almost supernatural talent for regaining his composure.
 
 “Fine. Yes… It happens. People close to a patient sometimes can’t think clearly. It happens. I understand.”
 
-After muttering as if trying to hypnotize himself, the Slaughter Saint took a steadying breath and turned to me.
+Muttering to himself as if under hypnosis, the Slaughter Saint steadied his breathing and turned to me.
 
 Then he asked something I could never have anticipated.
 
@@ -194,11 +194,11 @@ For a moment, the world seemed to stop.
 
 If not for the carriage’s constant rattling, the sand slipping through the window, and Jeok Cheongang’s conspicuously deliberate clearing of his throat, I might have believed it had.
 
-“Ahem. Well, that’s how it happened.”
+“Ahem. Well, that happened.”
 
 *That happened. That happened. That happened…*
 
-His words seemed to echo, though we weren’t in some deep mountain valley. I closed my eyes for a moment, then opened them and looked at Jeok Cheongang.
+His words echoed in my head, though we weren’t standing in some deep mountain valley. I closed my eyes for a moment, then opened them and looked at Jeok Cheongang.
 
 He was trying very hard to look stern.
 
@@ -230,7 +230,7 @@ To be honest, part of me was relieved it was out.
 
 Besides, the decision had been made by my Master. Jeok Cheongang must have had his reasons. If he’d slept for a whole month like a bear hibernating through winter, even I would have started to suspect something.
 
-Anyway…
+Come to think of it…
 
 “How much did you tell him about me?”
 
