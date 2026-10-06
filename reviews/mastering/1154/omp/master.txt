@@ -60,11 +60,11 @@ As I watched the sky turn pitch-black, I suddenly understood Morgoth’s true pu
 
 Rrrrrumble.
 
-With a deafening roar, countless dark clouds surged in, covering the moon and stars. Then, like ink spreading through water, they took over the skies above Moscow for thousands of kilometers.
+With a roar like the sky splitting apart, countless dark clouds surged in and covered the moon and stars. Then, like paint spreading across a canvas, they claimed thousands of kilometers of sky above Moscow.
 
 Like a single line dividing the world.
 
-And the place where the abyss had settled resembled another world beyond our dimension, one humanity had only ever imagined.
+And where the abyss had settled, the sky resembled another world beyond our dimension, one humanity had only ever imagined.
 
 The source and beginning of this entire calamity.
 
@@ -88,7 +88,7 @@ The cry of the black dragon standing atop the highest spire, calling out to the 
 
 The roar seemed to ring out not in my ears, but inside my head.
 
-It was more than a sound; it reached the level of will. No one here—or anywhere in the world—could understand the mysterious language.
+It was more than a sound; it reached directly into the mind. No one here—or anywhere else in the world—could understand the mysterious language.
 
 Except me.
 
@@ -154,7 +154,7 @@ I hadn’t seen everything coming.
 
 Just how cunning Morgoth was.
 
-—Just two humans—a paltry price next to the lives of billions of your kind.
+—A mere two humans, worth nothing beside the lives of billions of your kind.
 
 What his true purpose was.
 
@@ -172,9 +172,9 @@ A System notification pierced my ears with a chill, and a holographic window onl
 
 * * *
 
-Humanity was already recovering its stability faster than the various international organizations had predicted—or perhaps even faster than that.
+Humanity was already regaining its composure far faster than the international organizations had predicted—perhaps faster than even they could have imagined.
 
-The footage of Moscow’s destruction was enough to plunge everyone into an abyss of shock and fear. Yet a single fact announced less than a few hours later was like a ladder of salvation to them.
+The footage of Moscow being wiped out had plunged everyone into shock and fear. Yet a single fact announced only hours later offered them a way out of despair.
 
 *He’s* back.
 
@@ -254,6 +254,6 @@ But another half day passed.
 
 Rrrrrumble!
 
-At last, people saw footage of the monster army that had seized all of Russia and was advancing in every direction. They had no choice but to fall silent.
+People saw footage of the monster army that had seized all of Russia and was advancing in every direction. At last, they all fell silent.
 
-All thinking the same thing, though they couldn’t bring themselves to say it to anyone.
+Each of them thinking the same thing, though none could bring themselves to say it aloud.
