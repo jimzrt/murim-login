@@ -8,7 +8,7 @@ A thousand monsters rampaged without distinguishing friend from foe. Three thous
 
 The battle around the East Gate began in greater chaos and brutality than ever before.
 
-Even the man who had designed and set this whole situation in motion could barely suppress his fear, despite putting all his strength into it.
+Even the man who had set it all in motion could barely keep his fear in check.
 
 —Kyaaaaa!
 
@@ -44,25 +44,25 @@ They were also words the reckless Third Young Master—who now existed only in M
 
 So Hyuk Mujin did not retreat.
 
-He suppressed the fear surging up from the depths of his chest, steadied his trembling sword tip, and charged at the monsters with all his might, roaring at the top of his lungs.
+He pushed down the fear rising in his chest, steadied his trembling sword, and charged the monsters with a roar, giving it everything he had.
 
 Just as Jin Taekyung had. Just as the other companions who had always believed in him did.
 
 SHWEEEE!
 
-A fierce wind whirled around him, wrapping his entire body.
+A fierce wind swept around his body.
 
 * * *
 
-Anyone who has experienced war agrees on one thing.
+Those who had experienced war all said the same thing.
 
 Battle was another word for madness, and war was all that madness gathered in one place. Keep cutting down the enemy before you and dodging the attacks that never stopped coming, and soon you would forget everything you knew.
 
-He also remembered what the old man had told him when Mujin declared he would become a martial artist.
+Hyuk Mujin clearly remembered hearing that from an old man when he was a child. He remembered what the man had said when Mujin told him he intended to become a martial artist, too.
 
 *Hope is dazzling, but reality is cruel.*
 
-Yes. That was probably how he’d put it.
+Yes. That was how he had put it.
 
 Now Mujin felt the truth of those words down to his bones.
 
@@ -74,11 +74,11 @@ He had no time to react. Even if he had, he could not have dodged it completely.
 
 KRRRUNCH!
 
-How many times had the sky and ground turned over in his vision, bleached white? The first thing Hyuk Mujin felt after he was flung a long way was pain, great and small, sweeping through his body.
+How many times had sky and ground traded places in his whitewashed vision? When Hyuk Mujin finally stopped tumbling, the first thing he felt was pain, great and small, sweeping through his body.
 
-Blood came up with his cough and ran from the corner of his mouth.
+He coughed. Blood spilled from his mouth and ran down his chin.
 
-His aching joints and twisted innards told him the truth: he was in terrible shape.
+His aching bones and twisted innards told him plainly that he was in no shape to fight.
 
 *Damn… it.*
 
@@ -146,11 +146,11 @@ Mujin could not hear the words. But he could see the black-robed man’s lips mo
 
 The man’s companion had been killed by the monsters under his command as soon as the battle began. This sorcerer had managed to retain some control. Dozens of monsters still shielded him, and he was alive to enjoy a victory that, after one brief scare, seemed all but certain.
 
-*Yeah, maybe it really is over. But…*
+*Maybe it is over. But…*
 
 If Mujin ran away here, where would he ever win?
 
-Hyuk Mujin muttered to himself as he staggered forward.
+He staggered onward.
 
 Forward, not back.
 
@@ -170,7 +170,7 @@ That face. That voice.
 
 But Hyuk Mujin did not stop for Song Ilseom’s warning.
 
-At that moment, only one person’s voice echoed in his ears like a hallucination.
+He did not hear it. At that moment, only one voice rang in his ears, as clear as if its owner were standing before him.
 
 —Mujin.
 
@@ -204,9 +204,9 @@ Taekyung had been different then. There had been no laughter in his face, no tra
 
 —At least die where I can see you.
 
-And then, facing his subordinate, who had gone rigid, he’d forced a strained smile.
+Then, seeing his subordinate go rigid, Taekyung had forced a smile.
 
-—Of course, that won’t happen. But if it did, I’d be able to avenge you, wouldn’t I?
+—Of course that won’t happen. But if it does, I’ll be able to avenge you. Right?
 
 It was the first time Taekyung had said anything like that.
 
@@ -222,7 +222,7 @@ To protect a subordinate, a companion, his master—or someone he had never even
 
 Mujin could not help respecting him. And he could not help giving him the answer he wanted.
 
-—Of course we’ll win this time, too. But yes. If it comes to that, I promise I will.
+—Of course we’ll win this time, too. But yes. I promise.
 
 Perhaps that was when Mujin had first begun quietly turning the word *death* over in his mind. When he had truly prepared himself to die.
 
@@ -236,7 +236,7 @@ Slice!
 
 The two fanatics blocking his path fell at the same time, as though they had planned it. So easily that it looked like a scene from a play.
 
-Then, at the fanatics who had stopped short, eyes wide at this unexpected turn, a fierce torrent of saber energy swept in.
+The other fanatics stopped short, eyes wide. A torrent of savage saber energy swept through them.
 
 KRRRUNCH!
 
@@ -260,7 +260,7 @@ But Taekyung would have said that even if they died, the trade would be worth it
 
 It took nearly all Mujin’s strength to get the word out.
 
-And with one short sentence, he used all his strength to send Mujin flying far away.
+Taishan looked at him in silence, then tightened his grip. With a short sentence, he hurled Mujin toward the sorcerer with all his strength.
 
 “Let’s go eat something good later, Vice Captain.”
 
@@ -296,11 +296,11 @@ For one stretched-thin instant, silence fell.
 
 Some stared wide-eyed. Some smiled faintly.
 
-And someone else, who had made all of this possible, felt a shiver run down his spine as he silently looked at the head at his feet.
+And the man who had made it happen felt a shiver run down his spine as he looked at the head by his feet.
 
 No—not at the head. At the clean cut across the corpse sorcerer’s neck.
 
-At the trace of what people under heaven called Sword Energy.
+At the trace of what martial artists called Sword Energy.
 
 *It wasn’t the sword…*
 
@@ -308,9 +308,9 @@ It had happened for only an instant. Perhaps, with his mind already half gone, h
 
 That did not matter. He had finally done it with his own strength.
 
-He had proved, at least a little, why he’d been able to defeat twenty monsters, and why he deserved to stand alongside companions who were far more than he could ever hope to deserve.
+He had proved, if only a little, that defeating those twenty monsters had been his own achievement—and that he deserved to stand beside companions far beyond what he could have hoped for.
 
-And just as a feeble smile formed on Hyuk Mujin’s lips—
+A faint smile touched Hyuk Mujin’s lips.
 
 BOOOOM!
 
@@ -320,7 +320,7 @@ Wooooooong.
 
 The air trembled.
 
-Through the faint darkness, a shadow wreathed in an aura as immense as Mount Taishan leaned toward Hyuk Mujin, standing alone before the gate.
+Out of the dim darkness, a shadow wreathed in mountain-like qi bent its gaze toward Mujin, who stood alone before the gate.
 
 “What is your name?”
 

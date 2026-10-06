@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is largely faithful, but it adds an implication about how Mujin learned from his companions and omits a childhood memory detail and a physical beat before Taishan throws him.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 51–53",
+      "current": "The people who had gladly taken him along despite his lack of talent and skill had taught him too much.",
+      "defect": "The Korean says Mujin had seen and learned a great deal from these people; it does not establish that they actively taught him. “Had taught him” adds an implication about their actions.",
+      "replacement": "He had seen and learned so much from the people who had gladly taken him along despite his lack of talent and skill.",
+      "rationale": "보고 배웠으니까 means he saw and learned from them, not necessarily that they directly taught him. The accepted baseline preserves that distinction.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 79–87",
+      "current": "He also remembered what the old man had told him when Mujin declared he would become a martial artist.",
+      "defect": "The assembled passage omits that Mujin had heard the preceding words about war as a child from an old man, and that he remembered them clearly.",
+      "replacement": "Hyuk Mujin clearly remembered those words, which he had heard as a child from an old man. He also remembered what the old man had told him when he declared he would become a martial artist.",
+      "rationale": "The Korean explicitly identifies the first recollection as words heard in childhood and says Mujin remembered them clearly; the accepted baseline includes this detail.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 339–341",
+      "current": "And with one short sentence, he used all his strength to send Mujin flying far away.",
+      "defect": "The translation omits that Taishan watched Mujin silently and then gripped him firmly before throwing him.",
+      "replacement": "Taishan watched him in silence, then gripped him tightly. With one short sentence, he used all his strength to send Mujin flying far away.",
+      "rationale": "The Korean explicitly gives Taishan’s silent gaze and firm grip as actions preceding the throw; the assembled version skips both.",
+      "confidence": 0.98
+    }
+  ]
+}
