@@ -54,7 +54,7 @@ Whether the rumor was true didn’t matter. All that mattered was spreading the 
 
 “Besides, the Jin Family of Taiyuan will make its move within a few days. Unless they’re complete idiots, they’ll return to Gaoyuan if they want to live.”
 
-Word would soon spread far and wide that the great tiger known as the Jin Family of Taiyuan stood behind the Mount Heng Sword Sect. Wouldn’t one roar from the mountain lord[^1] be enough to send those bandits running?
+Word would soon spread far and wide that the great tiger known as the Jin Family of Taiyuan stood behind the Mount Heng Sword Sect. Wouldn’t one roar from the mountain king be enough to send those bandits running?
 
 “Five days at most. Let’s hold out until then.”
 
@@ -122,15 +122,15 @@ A tiny voice slipped from her barely moving lips along with the smoke.
 
 She suddenly remembered a conversation she had once shared with her Master.
 
-“There are people like that. People who always defy prediction. People who cannot be judged through information.”
+*There are people like that. People who always defy prediction. People who cannot be judged through information.*
 
-“Then what should I do?”
+*Then what should I do?*
 
-“Do not judge them. Simply watch until you can reach your own conclusion about them.”
+*Do not judge them. Simply watch until you can reach your own conclusion about them.*
 
-“What if I still can’t reach a conclusion after all that?”
+*What if I still can’t reach a conclusion after all that?*
 
-“Unpredictable. If such a person exists, wouldn’t they possess the makings of someone who might one day move the world?”
+*Unpredictable. If such a person exists, wouldn’t they possess the makings of someone who might one day move the world?*
 
 *The makings of someone who could move the world…*
 
@@ -160,7 +160,7 @@ Hyuk Mujin let out a deep sigh before continuing.
 
 “Things that make no sense?”
 
-“Yes. Do you happen to know what ‘school lunch’ means?”[^2]
+“Yes. Do you happen to know what ‘school lunch’ means?”[^1]
 
 “School lunch?”
 
@@ -172,7 +172,7 @@ Wolhwa tilted her head. She had read plenty of books, but she had never heard th
 
 “And then?”
 
-“You know what our Captain is like. He kept saying ‘school lunch, school lunch,’ so I asked him what it meant. Then he threw me out.”
+“You know what our Squad Leader is like. He kept saying ‘school lunch, school lunch,’ so I asked him what it meant. Then he threw me out.”
 
 Judging by the miserable look on his face as he rubbed his forehead, he hadn’t been shown the door gently.
 
@@ -202,7 +202,7 @@ Two days flew by in the blink of an eye. Lee Seowol did not come back after that
 
 Even as I spent most of my time learning to control my newly acquired Scorching Yang Qi, her final words kept returning to me.
 
-“Marriage is one of life’s great human obligations, so take your time thinking it over.”
+*Marriage is one of life’s great human obligations, so take your time thinking it over.*
 
 I had been so flustered at the time that I could only open and close my mouth.
 
@@ -264,7 +264,7 @@ Jin Mukyung seemed flustered for a moment, then answered readily.
 
 Lecherous, my ass. I had spent all twenty-seven years of my life single.
 
-If dating was a luxury, then I was the very definition of a miser. The only slight difference was that while Jaringobi[^3] ate rice while staring at a strip of dried fish, I had a USB drive.
+If dating was a luxury, then I was the very definition of a miser. The only slight difference was that while Jaringobi ate rice while staring at a strip of dried fish, I had a USB drive.[^2]
 
 “What’s with that expression? You look incredibly sad.”
 
@@ -336,6 +336,5 @@ This time, I didn’t even have time to wipe my face. Jin Mukyung grabbed me by 
 
 “Marry her right now!”
 
-[^1]: “Mountain lord” is a traditional epithet for a tiger.
-[^2]: “School lunch” is Korean slang for a school-age child. The later “clank, clank” evokes handcuffs or prison bars.
-[^3]: Jaringobi is a figure in a Korean story about miserliness who stares at dried fish while eating rice instead of eating the fish.
+[^1]: “School lunch” is Korean slang for a school-age kid, while “clank, clank” evokes handcuffs or prison bars—the joke is that sexual interest in a high schooler could land someone in jail.
+[^2]: Jaringobi is a traditional Korean image of a miser who stares at dried fish while eating rice rather than eat the fish.
