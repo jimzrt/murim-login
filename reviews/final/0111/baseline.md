@@ -26,7 +26,7 @@ I was just about to suggest to Wolhwa and Jin Mukyung that we rest, even if only
 
 “Young Master Jin! Ahead!”
 
-Even without Wolhwa’s shout, I had already seen them. Several dozen *jang*[^1] ahead, a group of dark figures blocked the main road.
+Even without Wolhwa’s shout, I had already seen them. Several dozen *jang* ahead, a group of dark figures blocked the main road.
 
 Every one of them wore filthy clothes, with a single curved saber sticking out from his belt. There was no need to say anything more.
 
@@ -200,37 +200,37 @@ A memory from two months ago suddenly resurfaced and blurred her vision.
 
 It had been a conversation between father and daughter, held late one night with no one else present.
 
-“I’ll have to tie you to the third son of the Jin Family of Taiyuan.”
+*“I’ll have to tie you to the third son of the Jin Family of Taiyuan.”*
 
-“The third son? Surely you’re not thinking of marrying me to that good-for-nothing?”
+*“The third son? Surely you’re not thinking of marrying me to that good-for-nothing?”*
 
-“No. But it will become an unbearable scandal for you.”
+*“No. But it will become an unbearable scandal for you.”*
 
-“I see.”
+*“I see.”*
 
-“Is that all you have to say?”
+*“Is that all you have to say?”*
 
-“What can I do? It’s my fault for having a heartless father.”
+*“What can I do? It’s my fault for having a heartless father.”*
 
-“You’re a child I can never understand. Are you really all right with this?”
+*“You’re a child I can never understand. Are you really all right with this?”*
 
-“If I say I don’t like it, will you change your mind?”
+*“If I say I don’t like it, will you change your mind?”*
 
-“At the very least, I’ll look for another way.”
+*“At the very least, I’ll look for another way.”*
 
-“So the war with the Jin Family of Taiyuan is a foregone conclusion.”
+*“So the war with the Jin Family of Taiyuan is a foregone conclusion.”*
 
-“Now that the Strange Hero of Shanxi and the Heaven Shaking Sword are absent, this is the perfect time. This opportunity will never come again.”
+*“Now that the Strange Hero of Shanxi and the Heaven Shaking Sword are absent, this is the perfect time. This opportunity will never come again.”*
 
-“The Jin Family of Taiyuan is strong even without the Family Head and the Second Young Master. Please reconsider.”
+*“The Jin Family of Taiyuan is strong even without the Family Head and the Second Young Master. Please reconsider.”*
 
-“No. My decision has already been made.”
+*“No. My decision has already been made.”*
 
-“Then make sure you win. Become strong enough that no one in Shanxi can even open their mouth about a scandal involving me.”
+*“Then make sure you win. Become strong enough that no one in Shanxi can even open their mouth about a scandal involving me.”*
 
-“…If you had been a man, I would have made you the Young Sect Leader.”
+*“…If you had been a man, I would have made you the Young Sect Leader.”*
 
-“I’m glad I was born a woman. I have no interest in being this sect’s Young Sect Leader.”
+*“I’m glad I was born a woman. I have no interest in being this sect’s Young Sect Leader.”*
 
 Her fears soon became reality.
 
@@ -357,5 +357,3 @@ Watching Lee Seowol smile faintly, Cheol Mubaek could only continue to sigh deep
 Lee Seowol let out a wry laugh, reminded of her ill-fated connection with him.
 
 “The Sleeping Dragon of Shanxi, Jin Taekyung.”
-
-[^1]: A *jang* is a traditional Korean unit of length, approximately 3.03 meters (9.94 ft).
