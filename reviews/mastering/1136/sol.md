@@ -6,7 +6,7 @@ That simple truth held even for someone who had mastered the White Illusion Jian
 
 Thud.
 
-His body crumpled like a rotten old tree.
+Ma Sanbao’s body crumpled like a rotten old tree.
 
 The Son of Heaven looked down in silence at the traitor who had finally met his end. Then he pulled his hand from deep inside the man’s chest and spoke.
 
@@ -68,7 +68,7 @@ The result was a horrific death.
 
 The fog turned red.
 
-Everything inside was pierced, cut, and smashed to pieces.
+Everything inside it was pierced, cut, or smashed to pieces.
 
 From between rocks, beneath the earth, and even the knots in trees, traps sprang from gaps no one would have thought to watch. In moments, the fanatics were driven to their deaths.
 
@@ -116,7 +116,7 @@ They had gathered each province’s elite at every Moving Formation they had fou
 
 That was especially true of Shanxi, which Zhuge Feng had judged, alongside Henan, to be the enemy’s most likely target.
 
-A giant called the Azure Sky Sword King was leading the forces there.
+The Azure Sky Sword King himself was commanding the forces there.
 
 “It is all thanks to Your Majesty’s help.”
 
@@ -144,7 +144,7 @@ Baek Yeon frowned.
 
 “Your Majesty’s wisdom grows deeper by the day. As your servant, I could not be happier. Though after all the trouble I go through, it’s a shame my salary hasn’t budged in years.”
 
-“My, my. Is that any way for the Commander of the Embroidered Uniform Guard to speak? We’ve recovered the traitors’ wealth, so I’ll double your salary.”
+“My, my. The Commander of the Embroidered Uniform Guard shouldn’t have to say such things. We’ve recovered the traitors’ wealth, so I’ll double your salary.”
 
 “Perhaps I’m getting old. My armor feels heavy today.”
 
@@ -200,7 +200,7 @@ Darkness scattered. Light blazed.
 
 The Son of Heaven fervently hoped the countless days ahead would be the same.
 
-And that Jin Taekyung’s fate, which would surely once again leave him standing at the edge of life and death, casting everything he had aside, would be bright as well.
+He hoped the same for Jin Taekyung, who had surely once again thrown everything he had into a fight for his life.
 
 “Great Ming.”
 
@@ -244,10 +244,10 @@ But victory was not all the Son of Heaven wished to announce.
 
 He would lead an expedition himself.
 
-Back when he was known as the Fourth Prince, the Son of Heaven had already been judged to have the makings of a conqueror. Now, under the new name of Great Ming, he ordered the Imperial Guards to assemble, and his destination was exactly what everyone had expected.
+Even when he had been known as the Fourth Prince, the Son of Heaven had been considered a conqueror in the making. Now, under the new name of Great Ming, he ordered the Imperial Guards to assemble. Their destination was exactly where everyone expected.
 
 Xinjiang.
 
 The former stronghold of the Demonic Cult, beyond the scorching desert.
 
-The spearheads of the whole realm were aimed at the leader of the traitors, who dared to call himself the Lord of Heaven.
+The spearpoints of the whole realm were turning toward the leader of the traitors, who arrogantly called himself the Lord of Heaven.
