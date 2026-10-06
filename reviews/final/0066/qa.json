@@ -1,0 +1,106 @@
+{
+  "chapter": 66,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.994,
+    "length_ratio": 2.287,
+    "source_characters": 5585,
+    "source_paragraphs": 191,
+    "translation_characters": 12772,
+    "translation_paragraphs": 190
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "1180",
+          "2"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "원단",
+        "preferred": "New Year's Day"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "잠룡",
+        "preferred": "Hidden Dragon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "꼬리",
+        "preferred": "the “tail”"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소하",
+        "preferred": "Xiao He"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "장성",
+        "preferred": "Great Wall"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전서",
+        "preferred": "missive"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "가기",
+        "preferred": "singing courtesan"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "적도",
+        "preferred": "Red Blade"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

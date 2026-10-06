@@ -196,55 +196,55 @@ There had never been an assassin in the first place. Naturally, there were no tr
 
 *I have to put on an act I was never meant to perform.*
 
-The conversation he had shared with Jin Wikyung a shichen earlier flashed through his mind.[^1]
+The conversation he had shared with Jin Wikyung a shichen earlier flashed through his mind.
 
-“An assassin? Haven’t you made this affair too big?”
+*An assassin? Haven’t you made this affair too big?*
 
-“An opportunity has presented itself. We have to use it.”
+*An opportunity has presented itself. We have to use it.*
 
-“You don’t mean the opportunity to rebuild the Third Young Master’s pavilion even more lavishly, do you?”
+*You don’t mean the opportunity to rebuild the Third Young Master’s pavilion even more lavishly, do you?*
 
-“Oh, that’s a good idea. Make it happen.”
+*Oh, that’s a good idea. Make it happen.*
 
-“My lord!”
+*My lord!*
 
-“I’m joking. Just joking.”
+*I’m joking. Just joking.*
 
-“Then what opportunity are you talking about?”
+*Then what opportunity are you talking about?*
 
 That was when the smile disappeared from his lord’s face.
 
-“An opportunity for our family to encompass all of Shanxi Province.”
+*An opportunity for our family to encompass all of Shanxi Province.*
 
-“……!”
+*……!*
 
-“I spent the past five days searching through every record in the family. There was a name I needed to find. You know what it is, don’t you?”
+*I spent the past five days searching through every record in the family. There was a name I needed to find. You know what it is, don’t you?*
 
-“Dark Heaven.”
+*Dark Heaven.*
 
-“Aren’t you curious about the result?”
+*Aren’t you curious about the result?*
 
-“You didn’t find it.”
+*You didn’t find it.*
 
-“Clouds are gathering. Clouds that have never shown themselves before. We need to prepare before they appear.”
+*Clouds are gathering. Clouds that have never shown themselves before. We need to prepare before they appear.*
 
-“Give me your orders.”
+*Give me your orders.*
 
-“I’ll assign thirty elites to you. Head south immediately. The official objective is to capture or kill the assassin, but your true mission is something else.”
+*I’ll assign thirty elites to you. Head south immediately. The official objective is to capture or kill the assassin, but your true mission is something else.*
 
 Wipeng unconsciously touched his chest. His fingers brushed against the thick bundle of papers Jin Wikyung had handed him.
 
-“What is this?”
+*What is this?*
 
-“On the coming New Year’s Day, I intend to summon every sect in Shanxi Province to our family.”
+*On the coming New Year’s Day, I intend to summon every sect in Shanxi Province to our family.*
 
 This was no invitation. It was a summons.
 
 Wipeng was not foolish enough to misunderstand what that meant.
 
-“Are you trying to become the Alliance Leader?”
+*Are you trying to become the Alliance Leader?*
 
-“If necessary.”
+*If necessary.*
 
 Until recently, Shanxi Murim had appeared to the outside world to be divided between two towering peaks: the Jin Family of Taiyuan and the Mount Heng Sword Sect.
 
@@ -256,15 +256,15 @@ The Jin Family of Taiyuan held the central region, while the Mount Heng Sword Se
 
 The Five Gates of Shanxi, which had vanished in the recent war, was merely the name given to the five especially powerful sects among them.
 
-“Their alliance is strong. They may refuse to comply.”
+*Their alliance is strong. They may refuse to comply.*
 
-“They might have, before the war.”
+*They might have, before the war.*
 
 The three-legged cauldron had begun to tip.
 
 And the Jin Family of Taiyuan had both the strength and the justification to support Shanxi Murim’s cauldron alone.
 
-“Can you do it?”
+*Can you do it?*
 
 The answer had already been decided.
 
