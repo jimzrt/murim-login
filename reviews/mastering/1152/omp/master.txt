@@ -58,7 +58,7 @@ At those first words from the flushed fifty-seventh President of the United Stat
 
 * * *
 
-The modern world meant something special to me.
+The modern world had always meant something special to me.
 
 It was where I’d been born and raised. A home I could never forget.
 
@@ -76,7 +76,7 @@ And it happened faster, with consequences more terrible, than I could ever have 
 
 What the hell was I supposed to say?
 
-I kept trying to think, muttering words that meant nothing, but my mind had gone completely blank. Nothing came to me.
+I tried to keep thinking, muttering a word that meant nothing, but my mind was blank. Nothing came to me.
 
 The hour-long video had just ended.
 
@@ -100,7 +100,7 @@ Magic Johnson let out a quiet sigh.
 
 “Shit.”
 
-“Moscow, and the surrounding cities in the metropolitan area, were swept away. We’ve thrown every resource we have at investigating, but…”
+“Moscow was hit, along with the smaller cities in the surrounding metropolitan area. We’ve used every means available to investigate, but…”
 
 He trailed off and bit his lip.
 
@@ -132,7 +132,7 @@ Until three hours ago, when a giant mushroom cloud filled the sky above Moscow.
 
 “Russia is finished.”
 
-That was true.
+He was right.
 
 For every other country, though, this was a beginning of another kind. A crossroads.
 
@@ -144,11 +144,11 @@ Or surrender now and stay alive?
 
 I repeated the name in my mind as I stared at the holographic screen.
 
-On the land, blackened by magical power, a gigantic castle towered behind him. I took in his smiling face and burned it into my heart.
+Behind him, a gigantic castle rose from earth blackened by magical power. I fixed his smiling face in my eyes and burned it into my heart.
 
 *Can I defeat him?*
 
-The question came to me naturally. I realized my hand had clenched into a fist.
+The question came naturally. Without realizing it, I clenched my fist tighter.
 
 Dragon.
 
@@ -176,7 +176,7 @@ She kept drawing until the Dragon’s claws came at her faster than an arrow and
 
 Crunch!
 
-Blood spurted along with the severed flesh.
+Blood spurted from the torn flesh.
 
 A deep shadow fell across her face, twisted with unbearable pain.
 
@@ -236,7 +236,7 @@ Rough and gravelly, it was different from Magic Johnson’s deep voice.
 
 “And a great Hunter.”
 
-I didn’t ask who the unwelcome guest was.
+I didn’t need to ask who had joined us.
 
 The acrid smell of cigar smoke had slipped in before the monitor room door even opened, telling me who it was.
 
@@ -254,7 +254,7 @@ With his right arm—the only one he had left.
 
 “I know. It’s meaningless bullshit. And I’ve repeated it hundreds—no, thousands of times by now.”
 
-He looked at the familiar faces and the deaths playing over and over on the dozens of holographic screens.
+Chuck Hagel exhaled cigar smoke and smiled bitterly as he watched familiar faces die over and over on the dozens of holographic screens.
 
 “I swore I’d never let anything like that happen again… Yet here we are.”
 

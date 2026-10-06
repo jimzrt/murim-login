@@ -1,0 +1,297 @@
+# Chapter 1152
+
+There are no secrets in modern society.
+
+There are cameras and the internet everywhere, and countless pieces of information spread across the world through them.
+
+And sometimes, there are truths that are better left unknown.
+
+Like a Pandora’s box that should never have been opened.
+
+—KABOOOOOM!
+
+The screen went black after one last deafening roar, too terrible to be captured in its entirety even by the speakers.
+
+The viewers watching a famous influencer’s livestream from near the Kremlin instinctively realized that the video, which had just passed one hundred million simultaneous viewers, had made internet-broadcasting history—and that they would never see the influencer who had set this incredible record again.
+
+“Oh, God.”
+
+A single line suddenly appeared in the chat window, which had been frozen for several seconds. It was enough to explain everything they had seen and felt over the past thirty-odd minutes.
+
+The dragon’s wings as it crossed the skies above Moscow, and Red Square vanishing without a trace.
+
+Ironically, the creature had transformed into a human like them, slaughtered the Hunters and soldiers who blocked its way, and strode confidently into the Kremlin.
+
+And then…
+
+The disaster that engulfed Moscow.
+
+Rrrrrumble!
+
+The reverberation carried hundreds, even thousands of kilometers, shaking the world beyond the rectangular screen.
+
+Countless eyes and ears—and even more cameras—captured the distant flash of light and the enormous mushroom cloud. The footage was immediately compiled into a single video and uploaded to the internet.
+
+Its title conveyed the overwhelming despair and shock felt by humanity as the news from Moscow reached them.
+
+—Where is God?
+
+Where was God?
+
+No one could answer that question.
+
+No one.
+
+They could only pray with all their hearts.
+
+If God had truly abandoned them, then may someone appear who could save them.
+
+No.
+
+May he wake from his deep slumber as soon as possible.
+
+Unlike God, who was so far away that their voices could not reach him, the savior of the new age answered their desperate pleas before long.
+
+“He has returned.”
+
+The whole world erupted once more at the first words spoken by the flushed-faced fifty-seventh President of the United States on the holographic TV.
+
+* * *
+
+The modern world meant something special to me.
+
+It was the home where I’d been born and raised all my life—a place I could never forget.
+
+That was why I’d always loved it.
+
+Compared to Murim, where danger and trouble lurked around every corner, the modern world let me rest in relative peace.
+
+But when had it started?
+
+Everything began to go wrong, like a broken gear.
+
+And the speed and fallout of that unraveling were worse and more horrifying than I could have imagined.
+
+“So…”
+
+What the hell was I supposed to say?
+
+I kept trying to think, muttering words that meant nothing, but my mind had gone completely blank. Nothing came to me.
+
+The hour-long video had just ended.
+
+In the holographic footage, already paused, a black-haired man smiled faintly at the camera. I stared at him in silence.
+
+Hoping someone would break the heavy quiet.
+
+“I hear it happened three hours ago.”
+
+At Magic Johnson’s low, subdued voice, the words I’d been holding back slipped past my dry lips.
+
+“How many casualties?”
+
+“……”
+
+“Tell me. I’m prepared for it.”
+
+Magic Johnson let out a quiet sigh before answering.
+
+“At least twenty million, by the most conservative estimate.”
+
+“Shit.”
+
+“Moscow, and the surrounding cities in the metropolitan area, were swept away. We’ve thrown every resource we have at investigating, but…”
+
+Magic Johnson trailed off and bit his lip.
+
+“There are no signs of life. They’re probably all dead.”
+
+Erasure.
+
+The word flashed through my mind. It was also the most accurate way to describe what had happened.
+
+“Vladimir. That fucking old man hid a hydrogen bomb in the Kremlin.”
+
+At the start of the Great Cataclysm, humanity learned two very important things.
+
+First:
+
+No matter how airtight the security, modern science couldn’t stop spatial teleportation magic.
+
+Second:
+
+Spatial teleportation magic could move things, not just people.
+
+Things like tactical nuclear weapons or hydrogen bombs.
+
+That was why every nuclear-armed country in the world, led by the United States and Russia, had signed an international treaty and disposed of all weapons above a certain yield.
+
+Or, to be precise, that was what we’d been told.
+
+Until three hours ago, when a giant mushroom cloud swallowed the sky above Moscow.
+
+“Russia is finished.”
+
+That was true.
+
+And for every other country, a different kind of beginning—and a crossroads—still lay ahead.
+
+Would they resist to the bitter end?
+
+Or surrender now and save their lives?
+
+*Black Dragon Duke Morgoth.*
+
+I murmured the name in my mind as I stared at the holographic screen.
+
+On the land, blackened by magical power, a gigantic castle towered behind him. I took in his smiling face and burned it into my heart.
+
+*Can I defeat him?*
+
+The question came to me naturally. I realized my hand had clenched into a fist.
+
+Dragon.
+
+A monster without precedent, whose single appearance in the past had sent shock waves around the world.
+
+But as his special title, Black Dragon Duke, suggested, Morgoth was no ordinary dragon.
+
+*He’s strong. Horrifyingly strong.*
+
+I turned my head and looked at the dozens of holographic screens filling the spacious monitor room, one after another.
+
+They showed a predator that could bring down a forest of skyscrapers with a single flap of its wings, effortlessly deflect a barrage of magic, and trample Hunters underfoot.
+
+Among those dying with one last scream were faces I knew.
+
+“Die! Just die!”
+
+On a crackling screen, a bloodied woman screamed.
+
+Her lower body had already been crushed beyond recognition, and her stomach was split open, her entrails spilling out.
+
+But, dazed, she kept drawing her bow at the rear of the retreating allies.
+
+Until the dragon’s claws rushed in faster than an arrow and took both her arms too.
+
+Crunch!
+
+Blood spurted along with the severed flesh.
+
+A deep shadow fell across the woman’s face, twisted with unbearable pain.
+
+“You foolish human. Didn’t you know this would happen?”
+
+The Black Dragon’s question rang down from high above. The woman spat blood and answered.
+
+“I did.”
+
+“Then why?”
+
+“Because we were taught this is courage. Not foolishness.”
+
+“Good. Then, brave human, will you still follow me?”
+
+“Fuck off, you monster. And…”
+
+The woman grinned, baring her blood-soaked teeth.
+
+“My name is Pie Chen. I’m not just some human. I’m Pie Chen.”
+
+“I’ll remember that, human.”
+
+“You’d better. Soon, some amazing guy’s gonna come looking for you and ask about that name. Ask about my name, my—”
+
+Her voice faded, and her panting stopped.
+
+Her unfocused eyes stared into empty space.
+
+The woman—no, Pie Chen—died just like that.
+
+She was an S-rank Hunter Hong Kong was proud of, a hero of the last Great Cataclysm, and my friend.
+
+She’d died a week ago.
+
+*How about we all grab a drink?*
+
+The memory surfaced without warning.
+
+The day we first met in Sichuan to hunt the Arch Lich. She’d suggested we get together for drinks.
+
+I’d asked her, “Why today of all days?” Her answer came back to me.
+
+“Today’s the kind of day you drink.”
+
+“Huh?”
+
+“It might be our last chance.”
+
+That day, we drank until we could barely stand.
+
+Never once thinking it really might be our last drink together.
+
+“She was a good person.”
+
+A voice suddenly broke into my thoughts.
+
+It was rough and gravelly, a little different from Magic Johnson’s deep voice.
+
+“And a great Hunter.”
+
+I didn’t ask who the unexpected visitor was.
+
+The acrid smell of cigar smoke had seeped in a step ahead of him, before the door to the monitor room even opened. I knew who the voice belonged to.
+
+“Thanks to her sacrifice, a lot of people survived. Even one bastard who came back alive in disgrace was among them.”
+
+Chuck Hagel.
+
+Also known as Uncle Chuck, he approached slowly and put a hand on my shoulder.
+
+With his right arm—the only one he had left.
+
+“The moment I woke up, I thought I should’ve died in Pie Chen’s place.”
+
+“...Hagel.”
+
+“I know. It’s all meaningless bullshit. And I’ve repeated that bullshit hundreds—no, thousands of times by now.”
+
+Chuck Hagel blew out a cloud of cigar smoke and gave a bitter smile.
+
+He looked at the familiar faces and the deaths playing over and over on the dozens of holographic screens.
+
+“I swore I’d never let something like that happen again… And now look.”
+
+What was I supposed to say?
+
+No. What right did I have to say anything?
+
+Whenever I needed them, they came running without hesitation. But when they needed me, I hadn’t been there.
+
+I hadn’t stopped Morgoth from being summoned, and I hadn’t realized soon enough that the axis of time had shifted.
+
+And this was the result.
+
+The destruction and deaths carried out indiscriminately over the past ten days.
+
+All of it weighed on my heart, heavier than I could bear.
+
+Along with the anger roiling deep in my gut like lava.
+
+“You know what?”
+
+I let out the breath I’d been holding.
+
+Reason and emotion tangled together, and then my mind turned cold.
+
+At the same time, Pie Chen died again before my eyes.
+
+“From now on, I won’t let anyone else be sacrificed.”
+
+I stared at her on the screen, my eyes burning.
+
+At her, using what little breath she had left to warn Morgoth that someone was coming for him.
+
+Yes.
+
+That’s exactly what would happen.

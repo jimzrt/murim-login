@@ -1,0 +1,55 @@
+{
+  "summary": "The chapter is largely faithful, but a few lines shift the source’s stated meaning or omit concrete details.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 9",
+      "current": "Perhaps he would wake from his deep sleep as soon as possible.",
+      "defect": "The source’s “No” rejects the preceding hope that someone else will appear and save them, replacing it with the wish that God wake from his deep sleep as soon as possible. “Perhaps” weakens that wish and obscures the contrast.",
+      "replacement": "They could only hope he would wake from his deep sleep as soon as possible.",
+      "rationale": "The source says “아니” and then continues the same desperate hope with “깊은 잠에서 깨어나기를.”",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Paragraph 12",
+      "current": "The creature taking human form, just like them, then slaughtering the Hunters and soldiers who stood in its way as it strode into the Kremlin.",
+      "defect": "The source explicitly frames the transformation into human form as ironic; the assembled line drops that cue.",
+      "replacement": "Ironically, the creature took human form, just like them, then slaughtered the Hunters and soldiers who stood in its way as it strode into the Kremlin.",
+      "rationale": "“아이러니하게도” directly marks the human transformation as ironic.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Paragraph 82",
+      "current": "A predator brought down a forest of skyscrapers with one flap of its wings, shrugged off a barrage of magic, and trampled Hunters underfoot.",
+      "defect": "“Shrugged off” suggests enduring or ignoring the magic, whereas the source says the Dragon batted or deflected the incoming magic away.",
+      "replacement": "A predator brought down a forest of skyscrapers with one flap of its wings, effortlessly deflected a barrage of magic, and trampled Hunters underfoot.",
+      "rationale": "The source’s “튕겨 내며” describes deflecting the magic, not merely withstanding it.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Paragraphs 128–129",
+      "current": "He looked at the familiar faces and the deaths playing over and over on the dozens of holographic screens.",
+      "defect": "The assembled copy omits Chuck Hagel blowing out cigar smoke and smiling bitterly before looking at the screens.",
+      "replacement": "Chuck Hagel blew out a cloud of cigar smoke and gave a bitter smile. He looked at the familiar faces and the deaths playing over and over on the dozens of holographic screens.",
+      "rationale": "The Korean explicitly includes both physical actions: “시가 연기를 내뿜으며 씁쓸하게 웃었다.”",
+      "confidence": 0.98
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Paragraph 145",
+      "current": "At her warning Morgoth, with what little breath she had left, that someone was coming for him.",
+      "defect": "“Coming for him” adds the implication that the person is specifically seeking or threatening Morgoth. The source only says she warns him of someone’s appearance.",
+      "replacement": "At her warning Morgoth, with what little breath she had left, that someone would appear.",
+      "rationale": "“누군가의 등장” means someone’s arrival or appearance; it does not itself establish that the person is coming for Morgoth.",
+      "confidence": 0.83
+    }
+  ]
+}
