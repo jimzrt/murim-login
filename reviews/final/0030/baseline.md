@@ -6,7 +6,7 @@ The instant Jopil’s red-hot palm struck my chest, lava-hot qi swept through me
 
 *What is this?*
 
-The question crossed my mind as I went flying. I bounced and rolled for more than ten zhang[^1] before finally coming to a stop.
+The question crossed my mind as I went flying. I bounced and rolled for more than ten zhang before finally coming to a stop.
 
 “Cough.”
 
@@ -74,7 +74,7 @@ This pointlessly?
 
 I reached out, but that was as far as I got.
 
-“Captain!”
+—Squad Leader!
 
 A shout crackling with static was the last thing I heard before all light vanished.
 
@@ -166,7 +166,7 @@ The next instant, I opened my eyes on the cold snowfield.
 
 * * *
 
-“Captain!”
+“Squad Leader!”
 
 The last shout I’d heard now rang clear. So did the sharp pain from my mangled body.
 
@@ -262,7 +262,7 @@ I heard the bones in my neck grind out of place under Jopil’s grip. His chilli
 
 “…Cough.”
 
-“If King Yama[^2] asks, tell him I sent you.”
+“If King Yama asks, tell him I sent you.”
 
 As I hung limp as a corpse, Jopil declared with rapture written across his face,
 
@@ -423,6 +423,3 @@ The next instant, heaven and earth flipped.
 Beyond my blurring vision, Jopil’s already lifeless head shot high into the sky.
 
 Socheon was crying out loud, holding a sword as tall as he was.
-
-[^1]: A zhang is a traditional Chinese unit of length, approximately 3.33 meters (10.9 ft).
-[^2]: King Yama is a judge of the dead in East Asian Buddhist tradition.
