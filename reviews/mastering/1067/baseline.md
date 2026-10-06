@@ -1,0 +1,313 @@
+# Chapter 1067
+
+Half a shichen.
+
+That was how long the first battle in Qinghai had taken—from its beginning to its end.
+
+“So this is where you were.”
+
+The forest now reeked of blood.
+
+I sat on the body of an enemy I didn’t recognize, catching my breath. Then I turned toward the voice.
+
+*Squish.*
+
+Footsteps squelched through blood and mud as someone strode closer.
+
+A familiar face came into view, clad in armor stained red and stripped of its original golden luster.
+
+“Shouldn’t you say, ‘So this is where you were, sir’?”
+
+Jeong Hogun, the Embroidered Uniform Guard Thousand Captain, let out a small sigh before answering.
+
+“So this is where you were, sir. Happy now?”
+
+“Not even close. You suddenly dropped half your tongue for the second part.”
+
+“...Cut it out. We’ve both been through enough.”
+
+“I was about to. How are our casualties?”
+
+“Calling them casualties feels like an insult. We have only around thirty wounded, and not a single one of them died.”
+
+Jeong Hogun glanced around at the heaps of bodies and added,
+
+“A miraculous result, considering we wiped out more than a thousand enemies.”
+
+Three thousand against one thousand.
+
+Even though we’d started with the advantage in numbers, winning without a single fatality was an absurdly decisive victory.
+
+Even more so when you considered we’d achieved all this in the space of half a shichen.
+
+But my answer to Jeong Hogun was matter-of-fact.
+
+“It wasn’t a miracle. It was only natural.”
+
+“I can’t argue with that. The difference in strength was simply overwhelming.”
+
+Our troops had all been chosen for their skill, each faction bringing its own elite. But more than anything, the Supreme Peak masters had made an enormous difference.
+
+Bow Saint. Jeok Cheongang. Perfected Being Hyeoncheon. Me.
+
+And last of all, even the Great Sir—though he hadn’t been much help.
+
+With a difference in strength like that, losing would have been harder than winning.
+
+There was only one problem…
+
+“How’s everyone doing?”
+
+“What do they look like?”
+
+At Jeong Hogun’s immediate question in return, I clicked my tongue.
+
+Honestly, there was no need to ask.
+
+I could look around and see nothing but rigid faces.
+
+Despite our overwhelming victory and almost nonexistent losses, every one of our allies looked deathly pale. A faint fear lingered in their eyes.
+
+As if they’d witnessed something horrible they were never meant to see.
+
+And that was exactly what had happened.
+
+The unknown enemy writhing beneath my ass right now was undeniably a monster.
+
+*Grrk. Grrrk.*
+
+A hoarse cry seeped through its torn throat.
+
+Only then did Jeong Hogun notice the monster and furrow his brow.
+
+“It’s still alive?”
+
+“Maybe. If you can call this being alive.”
+
+I gazed down at the cursed monster.
+
+Its limbs had been brutally severed, and its body was rotting.
+
+It had clearly died days ago, yet it hadn’t crossed the Sanzu River[^1] and passed on to the next world. It remained here, writhing stubbornly.
+
+It couldn’t even remember who it had been in life.
+
+But two characters embroidered with thread on its torn and ragged robe still remembered their owner.
+
+“Kunlun…”
+
+At Jeong Hogun’s low murmur, I quietly nodded.
+
+That was right.
+
+This monster was none other than a Disciple of the Kunlun Sect.
+
+No—it *had been* one.
+
+“I heard there were casualties during the retreat from Kunlun Mountain. I suppose this was one of them.”
+
+“Probably.”
+
+“Did you know him?”
+
+I shook my head at Jeong Hogun’s cautious question.
+
+“No. Not at all.”
+
+I’d crossed paths with Hak Woo—the Kunlun Cloud Dragon, the Kunlun Sect’s greatest young prodigy and a member of the Ten Dragons and Phoenixes—during the Star-Array Grand Banquet. But I didn’t recognize the face of this Daoist, now turned into a monster.
+
+Still, I had a rough idea who might have made him this way.
+
+“What do you think? Look familiar?”
+
+“Yes.”
+
+Jeong Hogun’s eyes darkened.
+
+“Cang Gong. This is astonishingly similar to the dark arts he used.”
+
+Wei Zhong.
+
+The East Depot’s Seal-Holding Eunuch, known as Cang Gong, had two deep secrets.
+
+The first was that he was the Eastern Heaven Demon Lord, one of the Lord of Heaven’s most loyal servants.
+
+The second was that he was a descendant of the Maoshan Sect, which had been wiped out by the imperial family long ago.
+
+But even after Wei Zhong met his end at my hands, the Maoshan Sect’s legacy hadn’t been completely extinguished.
+
+“Ma Sanbao. It has to be him.”
+
+The Disciple who’d inherited everything from Wei Zhong.
+
+Like his Master, he’d worn a mask while working in secret as an East Depot eunuch. His body had never been found, and that could only mean one thing.
+
+“So that’s where he went. He must’ve clung to life and joined Dark Heaven after all.”
+
+Of course, it might not be Ma Sanbao.
+
+According to Jeok Cheongang, the Corpse Art Wei Zhong had shown him had far surpassed its former limits. That meant it had been improved with the Lord of Heaven’s help.
+
+But even if Dark Heaven had trained others to use the Corpse Art, none could match Ma Sanbao, who’d learned directly from Wei Zhong himself.
+
+Besides…
+
+*Qinghai is an important battlefield for them and for us. They’ll be committing more troops than ever.*
+
+Dark Heaven’s army of a hundred thousand had already swallowed half of Qinghai Province.
+
+I couldn’t begin to guess why the Lord of Heaven had intended for them to lose in Gansu, but this time, he’d surely commit everything he had.
+
+Even Dark Heaven, with strength that far surpassed the Demonic Cult of the past, wouldn’t throw a hundred thousand troops away as mere bait.
+
+*Ma Sanbao is another piece they need to win. They wouldn’t leave him out.*
+
+A thought flashed through my mind, and I swallowed the groan that threatened to escape.
+
+If all a hundred thousand enemies had been turned into jiangshi, it would be an unstoppable disaster.
+
+And on top of that…
+
+*The Lord of Heaven could show up on the battlefield himself.*
+
+I’d never even faced him properly, but the thought of those two words made my heart sink.
+
+How could I forget?
+
+The Lord of Heaven had appeared only once, and I remembered every moment of it clearly.
+
+*“Interesting. Very interesting.”*
+
+That day, the one who’d watched Jeok Cheongang and me with a smile hadn’t been the Western Heaven Demon Lord.
+
+He’d been a demon borrowing a human body. The darkness of the abyss itself. An absolute being who seemed beyond the reach of anyone.
+
+*“Until next time.”*
+
+But after that day, the Lord of Heaven never appeared before me again.
+
+He simply crouched in the deepest darkness, watching everything.
+
+Even as his loyal servants, including the Western Heaven Demon Lord, met their ends one by one. Even as the plans he’d spent considerable effort and years preparing were systematically dismantled.
+
+The Lord of Heaven never appeared.
+
+But he was watching everything all the same.
+
+Waiting for a moment that no one in the world could guess—the moment only he knew.
+
+And deep in my heart, I sensed that the moment he wanted wasn’t far off.
+
+I also sensed that it was connected to me, deeply and unmistakably.
+
+*What is he trying to get from me?*
+
+The moment I repeated that unanswerable question in my head—
+
+*Whoosh! Thwack!*
+
+A sharp whistle cut through the air. Snapping out of my thoughts, I heard a shout from not far away.
+
+“Oh, I got it! I got it!”
+
+“Wow! Sir! That was amazing! Taishan is truly impressed!”
+
+“*Ahem.* Did you see that? When I put my mind to it, something like this is easy.”
+
+Curious, I looked over. The Great Sir was proudly holding a bird in his hands.
+
+Its head was smashed to a pulp. It looked like it had died from being hit by a stone.
+
+And Taishan was staring at the Great Sir—or, more precisely, at the bird—with drool in his mouth.
+
+“Tasty—no, impressive! Taishan will start a fire, so let’s hurry and cook it!”
+
+Starting a campfire in the middle of enemy territory was bullshit that set everyone’s blood boiling, mine included. But one lunatic didn’t seem to mind.
+
+“Young friend, you do know how to show proper courtesy. As a reward for your hard work, I’ll let you have some of my meat. Which part do you prefer?”
+
+“The legs! Definitely the legs!”
+
+“You know your way around a chicken. Fine, I’ll give you one.”
+
+“Both! All of them!”
+
+“...Don’t push your luck.”
+
+The Great Sir suddenly sobered up. Taishan drooped his head in disappointment, and that was when—
+
+“You’re all acting like a bunch of damn fools. It reeks like something crawled out of who knows where, and you want to eat it? Like hell.”
+
+At Namho’s words, delivered from his comfortable perch on Taishan’s shoulder, a thought suddenly struck me.
+
+*Wait. Could it be?*
+
+The suspicion became certainty the moment Jeong Hogun examined the bird.
+
+“It’s rotting. The bone’s showing.”
+
+“Which means…”
+
+“Looks like the monsters aren’t only on the ground.”
+
+It had been strange enough that any birds were still around after a group of strangers invaded their territory.
+
+When the others finally realized what was happening and turned to look, the Great Sir blinked in confusion.
+
+“Is something wrong? That fellow was staring right at me from a branch, so…”
+
+“It was staring at you?”
+
+The Great Sir nodded.
+
+“Definitely. Its eyes were bloodred, too. It creeped me out, so I just went ahead and threw a stone at it.”
+
+“...A Familiar?”
+
+“Hm? What was that?”
+
+“Nothing. Just talking to myself.”
+
+I waved the Great Sir off and stared silently into the air.
+
+The light of dawn was beginning to spread from the east. Between the lofty branches, I could make out shapes here and there.
+
+Monsters that had hidden in the dark—and been brought back to life by its power.
+
+*They’ve been watching us this whole time.*
+
+I felt my mind turn cold as I slowly rose to my feet.
+
+Then I spoke to the Great Sir, who still looked confused.
+
+“If you see any more birds like that, kill every last one.”
+
+“Every one?”
+
+“Yes. Every one.”
+
+“I don’t know about that. Even so, isn’t life precious?”
+
+I thought about how to answer for a moment, then said,
+
+“They’re dangerous birds.”
+
+“Oh. Then I’ll kill them.”
+
+“Please do.”
+
+I patted the Great Sir’s shoulder and started to leave, but then remembered something and stopped.
+
+Quietly murmuring, I reached out.
+
+“Infinite Life Buddha.”
+
+*Stab.*
+
+The monster had stopped moving completely. I left it—and the Kunlun Sect Disciple—behind and walked away.
+
+Every second counted now.
+
+Eyes were already watching us, and pursuers would soon be on our heels.
+
+[^1]: The Sanzu River is a Buddhist river associated with the boundary between life and death.

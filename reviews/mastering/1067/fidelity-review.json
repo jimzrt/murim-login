@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "His words brought a thought to mind.",
+      "defect": "The source identifies the speaker as Namho and says he is perched comfortably on Taishan’s shoulder. The assembled copy omits both details, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "The Korean explicitly names Namho and describes his position on Taishan’s shoulder before the narrator’s thought occurs.",
+      "replacement": "At Namho’s words, delivered from his comfortable perch on Taishan’s shoulder, a thought suddenly struck me.",
+      "severity": "minor",
+      "source": "Lines 250–252"
+    }
+  ],
+  "summary": "The assembled copy is largely faithful, but it drops Namho’s identification and his position on Taishan’s shoulder at his entrance.",
+  "version": 1
+}

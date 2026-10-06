@@ -72,7 +72,7 @@ Only then did Jeong Hogun notice it. His brow furrowed.
 
 “Maybe. If you can call this alive.”
 
-I gazed down at the cursed monster.
+I gazed down at the cursed creature.
 
 Its limbs had been horribly severed, and its body was rotting. It had clearly died days ago, yet it had never crossed the Sanzu River[^1]. It remained in this world, struggling stubbornly, unable even to remember who it had been in life.
 
@@ -88,7 +88,7 @@ This monster was a Disciple of the Kunlun Sect.
 
 No—it *had been* one.
 
-“I heard there were casualties during the retreat from Kunlun Mountain. I suppose this was one of them.”
+“I heard there were casualties during the retreat from Kunlun Mountain. He must have been among them.”
 
 “Probably.”
 
@@ -100,7 +100,7 @@ I shook my head at Jeong Hogun’s cautious question.
 
 I’d met Hak Woo—the Kunlun Cloud Dragon, the Kunlun Sect’s greatest young prodigy and a member of the Ten Dragons and Phoenixes—at the Star-Array Grand Banquet. But I didn’t recognize the face of this Daoist who’d become a monster.
 
-Still, I had a rough idea who might have made him this way.
+I did, however, have a rough idea who had made him one.
 
 “Looks familiar, doesn’t it?”
 
@@ -120,7 +120,7 @@ Second, he was a descendant of the Maoshan Sect, which the imperial family had w
 
 But even after Wei Zhong met his end at my hands, the Maoshan Sect’s line hadn’t died out.
 
-“Ma Sanbao. It has to be him.”
+“Ma Sanbao. That bastard.”
 
 The Disciple who’d inherited everything from Wei Zhong.
 
@@ -128,7 +128,7 @@ Like his Master, he’d worn a mask while operating in secret as an East Depot e
 
 “I wondered where he’d gone. Looks like he survived and joined Dark Heaven after all.”
 
-Of course, it might not be Ma Sanbao.
+Of course, it might not have been Ma Sanbao.
 
 According to Jeok Cheongang, the Corpse Art Wei Zhong had demonstrated had gone far beyond its old limits. That meant it had been improved with the Lord of Heaven’s help.
 
@@ -184,17 +184,17 @@ Just as I turned that unanswerable question over in my head—
 
 *Whoosh! Thwack!*
 
-A sharp whistle cut through the air. Snapping out of my thoughts, I heard a shout from not far away.
+Something whistled through the air. I snapped out of my thoughts and heard a shout from nearby.
 
 “Oh, I got it! I got it!”
 
 “Wow! Sir! Amazing! Taishan is truly impressed!”
 
-“*Ahem.* Did you see that? When I put my mind to it, something like this is easy.”
+“*Ahem.* See that? When I put my mind to it, something like this is easy.”
 
 I looked over to find the Great Sir holding a bird and looking rather pleased with himself.
 
-Its head was smashed to a pulp. It looked like it had died from being hit by a stone.
+Its head was smashed to a pulp. He must have killed it with a stone.
 
 Taishan was staring at the Great Sir—or, more precisely, at the bird—and drooling.
 
@@ -212,7 +212,7 @@ A campfire in the middle of enemy territory. It was the kind of bullshit that ma
 
 “…Don’t push your luck.”
 
-The Great Sir suddenly sobered up. Taishan drooped his head in disappointment, and that was when—
+The Great Sir’s face abruptly turned stern. Taishan’s head drooped in disappointment, and that was when Namho spoke from his perch on Taishan’s shoulder, where he now sat as comfortably as if it were his own seat.
 
 “You’re all making damn fools of yourselves. That thing stinks like hell, wherever it came from. Eat it? Bullshit.”
 
@@ -268,7 +268,7 @@ I considered my answer for a moment.
 
 “They’re harmful birds.”
 
-“Oh. Then I’ll kill them.”
+“Oh. Then they have to die.”
 
 “Please.”
 
@@ -282,6 +282,6 @@ The monster stopped moving completely. I left it—the Kunlun Sect Disciple—be
 
 There was no time to spare now.
 
-Eyes were already watching us, and pursuers would soon be on our heels.
+The watching eyes and the pursuers would be on our heels.
 
 [^1]: The Sanzu River is a Buddhist river associated with the boundary between life and death.
