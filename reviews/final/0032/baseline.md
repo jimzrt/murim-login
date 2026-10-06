@@ -192,7 +192,7 @@ When he put it that way, I had nothing to say. For some reason, I felt embarrass
 
 “Ahem. Well, I nearly died, but all I really did was take down Jopil and a few wandering martial artists. Ahem.”
 
-“How many Peak masters do you think there are in a single city? Even across all of Shanxi, where our family is based, there are fewer than twenty.”
+“How many Peak masters do you think there are in a single province? Even across all of Shanxi, where our family is based, there are fewer than twenty.”
 
 Twenty. Far fewer than I’d expected.
 
@@ -316,7 +316,7 @@ I struggled with all my strength, but there was no fighting him off. One step. O
 
 *He’s going to drop me!*
 
-More than fifty people had gathered below. They called it a two-story building, but the pavilion was so large that we had to be a good ten meters[^2] up. The wind gusting through the hole made me dizzy.
+More than fifty people had gathered below. They called it a two-story building, but the pavilion was so large that we had to be a good ten meters up. The wind gusting through the hole made me dizzy.
 
 *If I fall, that’s a fracture at the very least.*
 
@@ -379,4 +379,3 @@ And then…
 The theme music from an old cartoon began playing in my head.
 
 [^1]: In Korean, “crossing the River Jordan” is a euphemism for dying; Taekyung twists it into taking a half-bath.
-[^2]: Ten meters is about 33 ft.
