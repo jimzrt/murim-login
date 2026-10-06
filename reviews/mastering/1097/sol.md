@@ -12,7 +12,7 @@ A darkness as deep as an abyss, enough to make even the ruler of vast Xizang shu
 
 *A predator.*
 
-He looked at the Dark Heaven followers who had surrounded him and the Twelve Secret Monks as if to enclose them.
+The word flashed through his mind. The Dalai Lama parted his trembling lips as he looked at the Dark Heaven followers who had surrounded him and the Twelve Secret Monks.
 
 “This humble monk… has been discourteous.”
 
@@ -24,9 +24,9 @@ Who was weak, and who was strong.
 
 If a conflict broke out now that neither side could take back, which of them would be devoured?
 
-That was why the king of the theocratic state that ruled Xizang had no choice but to bow his head slowly.
+The king of the theocratic state that ruled Xizang had no choice but to bow his head.
 
-“I swear, I had no intention of insulting someone the Lord of Heaven favors. It’s only that I was troubled, and made a mistake…”
+“I swear, I had no intention of insulting someone the Lord of Heaven favors. My feelings got the better of me, and I made a mistake…”
 
 “A mistake.”
 
@@ -34,9 +34,9 @@ The Blood Lord cut him off and ran his red tongue over his lips, like a beast sa
 
 Then he smiled at the Dalai Lama.
 
-“I understand. Anyone can make a mistake now and then. Once.”
+“I understand. Everyone makes mistakes now and then. Once.”
 
-The meaning in the Blood Lord’s quiet final words was unmistakable.
+The meaning of that last, quiet word was unmistakable.
 
 Once. Just once.
 
@@ -76,7 +76,7 @@ The Blood Lord studied him as though he could see right through him, then clicke
 
 “Escape? Did you just say *escape*? The Fire King and Jin Taekyung, of all people?”
 
-Before the Dalai Lama could answer, the Blood Lord laughed aloud and continued.
+Before the Dalai Lama could answer, the Blood Lord laughed aloud.
 
 “Palace Lord, you hate the Fire Gate Clan more than anyone, yet you know nothing about them.”
 
@@ -84,7 +84,7 @@ Before the Dalai Lama could answer, the Blood Lord laughed aloud and continued.
 
 He was right.
 
-They weren’t talking about the tens of thousands of troops huddled in Xining, or its hundreds of thousands of people. They were talking about a tiny handful.
+They weren’t talking about the tens of thousands of troops huddled in Xining, or its hundreds of thousands of civilians. A tiny handful of people could escape.
 
 And if those people were the Fire King Jeok Cheongang and the Blazing Flame Divine Dragon Jin Taekyung, they could break out through the rear right now and tear a hole in the encirclement.
 
@@ -98,7 +98,7 @@ But the Dalai Lama’s concern only made the Blood Lord laugh harder.
 
 “What do you—”
 
-The Dalai Lama’s question was cut short. The Blood Lord suddenly stopped laughing and spoke in a hoarse voice.
+The Blood Lord’s laughter stopped. He spoke in a hoarse voice.
 
 “Fucking idiots who can’t tell up from down. That’s the Fire Gate Clan.”
 
@@ -132,23 +132,23 @@ Even if he had to defy the Lord of Heaven’s command, he would kill Jin Taekyun
 
 Farmers worried about their crops being washed away watched the sky closely. Everyone else noticed the storm clouds only when raindrops landed on their heads.
 
-The peace that had lasted more than fifty years was long. And the storm clouds that had crept slowly toward them were now overhead.
+The peace that had lasted more than fifty years had been long. The storm clouds had approached slowly, and now they hung overhead.
 
 Even as Dark Heaven’s concealed blade, planted deep within their ranks long ago, pierced their flesh, they had yet to notice it.
 
-*The moment I get the signal from inside, I’ll strike and finish this in one go.*
+*The moment the signal comes from inside, I’ll strike and finish it in one blow.*
 
 The Blood Lord smiled faintly and looked up.
 
 One by one, raindrops fell from the dark sky, heralding a downpour unlike any before it.
 
-An omen of the storm that would sweep away everything in Qinghai.
+The first sign of a storm that would sweep away everything in Qinghai.
 
 * * *
 
 Tap. Plip.
 
-As I felt the sudden raindrops wet the top of my head, I thought:
+Raindrops began to wet the top of my head, and I thought:
 
 *For a victory celebration, this is pretty damn soggy.*
 
@@ -162,15 +162,15 @@ I kept that thought to myself and stared past the wall at the army blackening th
 
 Hundreds fewer enemies. Thousands more.
 
-For a moment, the balance of power had edged the tiniest bit closer to even. With the Potala Palace’s arrival, it had tipped further against us than before. The weight of it pressed down on one corner of everyone’s heart, mine included.
+The balance of power had edged the tiniest bit closer to even. With the Potala Palace’s arrival, it had tipped further against us than before. That weight pressed down on all of us.
 
 “Maybe… we’ve already missed our chance.”
 
-Watching the enemy build an ever tighter, more impregnable encirclement, Bow Saint continued in a heavy voice:
+The Bow Saint watched the enemy tighten their encirclement, closing every gap.
 
 “Since we were already committed, we should’ve finished things before the Potala Palace arrived. We might’ve had a chance then.”
 
-At that one sentence, which put into words what everyone already felt, someone who’d been standing with his arms crossed in silence spoke up.
+She’d put into words what everyone could feel. Someone who had been standing silently with his arms crossed spoke up.
 
 “Even so, if we use the cover of night to eliminate their entire leadership, we’ll have a good chance.”
 
@@ -182,9 +182,7 @@ The others looked at him hopefully, waiting for him to go on. I shook my head wi
 
 “Absolutely not.”
 
-The Slaughter Saint asked:
-
-“Why do you object?”
+The Slaughter Saint turned to me. “Why?”
 
 “Can I be honest?”
 
@@ -206,7 +204,7 @@ The mood sank at once. The Slaughter Saint gave me a long, searching look.
 
 “One in ten.”
 
-The Slaughter Saint answered as if the slim odds were no big deal, then looked at the rain, growing heavier by the moment.
+He gave the slim odds as if they were nothing, then looked at the rain growing heavier by the moment.
 
 “One in five, if the heavens lend a hand.”
 
@@ -230,18 +228,18 @@ Even so, I could only smile bitterly.
 
 Naturally, I wasn’t the one who answered.
 
-Jeok Cheongang had been silent all along. Now he spoke up and continued as everyone turned to look at him.
+Jeok Cheongang, silent until now, spoke as everyone turned toward him.
 
 “Dark arts—no, magic. When it comes to that damned stuff, even the greatest assassin of all time is as good as deaf and blind. Am I wrong?”
 
 I nodded.
 
-No—more precisely, before I could even nod, Jeok Cheongang grabbed my shoulder and made me move.
+No—before I could nod, Jeok Cheongang caught me by the shoulder and steered me away.
 
-Before I could ask why, his low Sound Transmission slipped into my ear, and I had no choice but to fall silent.
+Before I could ask why, his low Sound Transmission reached my ear and stopped me cold.
 
-—So, are you really not going to tell me until the very end?
+*So you mean to keep it from me to the very end?*
 
-Jeok Cheongang stared at me, his gaze sunk deep.
+Jeok Cheongang stared at me, his gaze dark.
 
-—What nonsense that bastard the Blood Lord was spouting at the last moment.
+*What nonsense that bastard the Blood Lord was spouting at the last moment.*

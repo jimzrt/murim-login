@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A predator.",
+      "defect": "The Korean says the word “predator” flashes through the Dalai Lama’s mind, then describes him opening his trembling lips. The translation gives the image but omits both the explicit mental beat and the physical detail.",
+      "id": "F01",
+      "rationale": "The source explicitly links the predator image to the Dalai Lama’s trembling lips parting before he speaks.",
+      "replacement": "A predator. The word flashed through his mind, and the Dalai Lama parted his trembling lips.",
+      "severity": "minor",
+      "source": "Lines 16–18"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it omits a source-grounded beat connecting the predator image to the Dalai Lama’s response.",
+  "version": 1
+}
