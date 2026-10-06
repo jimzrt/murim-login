@@ -6,7 +6,7 @@ The hour-long negotiation was finally drawing to a close.
 
 “Correct. And your sect?”
 
-“From this moment onward, we will sell no information to any sect in Shanxi Province other than the Jin Family of Taiyuan. We will also devote all our resources to gathering and delivering information about the war.”
+“From this moment onward, we will sell no information to any sect in Shanxi other than the Jin Family of Taiyuan. We will also devote all our resources to gathering and delivering information about the war.”
 
 These were the terms they had settled on after dozens of rounds of back-and-forth.
 
@@ -34,7 +34,7 @@ Then again, something similar had appeared when the war with the Mount Heng Swor
 
 The Lower District Sect specialized in information.
 
-Wolhwa had confidently claimed that all information in Shanxi Province passed through her hands. If that was true, they would be an enormous help.
+Wolhwa had confidently claimed that all information in Shanxi passed through her hands. If that was true, they would be an enormous help.
 
 *Nothing is more important than information.*
 
@@ -66,7 +66,7 @@ Wolhwa’s eyes curved into crescents as she looked at me.
 
 “Because we spent such a hot night together?”
 
-The blunt hit left me stunned for a moment. I’d told this woman to bring us information, so why was the first thing she spread X-rated information?
+No, seriously. I’d told this woman to bring us information, so why was the first thing she spread X-rated information?
 
 And in front of everyone, too.
 
@@ -82,7 +82,7 @@ After a long silence, I answered.
 
 “I’ll see her out.”
 
-I grabbed Wolhwa by the wrist and dashed out. Behind me, Jin Wikyung’s mournful voice echoed.
+I grabbed Wolhwa by the wrist and dashed out. Behind me, Jin Wikyung’s mournful voice echoed through the hall.
 
 “My little brother!”
 
@@ -114,7 +114,7 @@ I answered sullenly.
 
 “Oh, you mean the unpaid tab?”
 
-*Yeah. That.*
+Yeah. That.
 
 “That rumor isn’t false.”
 
@@ -164,7 +164,7 @@ But Wolhwa’s next words shattered that hope.
 
 “No. I don’t.”
 
-*What?*
+What?
 
 “Then why did you form an alliance with us?”
 
@@ -226,7 +226,7 @@ A four-horse carriage, apparently the one Wolhwa had arrived in, came into view.
 
 I channeled internal energy into my eyes and ears. My enhanced senses soon picked up the gate guards’ tense voices.
 
-“He’s a master. No doubt about it. At least Supreme First Rate, perhaps even Peak. See the whip at his waist? He must wield it like a ghost.”
+“He’s a master. No doubt about it. At least Super First Rate, perhaps even Peak. See the whip at his waist? He must wield it like a ghost.”
 
 “A master of that caliber volunteering to serve as a coachman? I suppose a peerless beauty really is something else.”
 
@@ -286,13 +286,13 @@ As I stood there blankly, the coachman suddenly pulled me into a hug.
 
 “If not for you, Young Master, I would have been in serious trouble.”
 
-This man had a strange way of putting things. Without me, he would’ve been drinking a cup of makgeolli[^1] at the summit of Mount Beimang[^2] by now.
+This man had a strange way of putting things. Without me, he would’ve been drinking a cup of makgeolli at the summit of Mount Beimang by now.[^1]
 
 “Could you let go of me first? Then we can talk…”
 
 I was just about to pry him off when someone muttered:
 
-“Yama Whip.[^3] The master of the whip arts who vanished without a trace more than ten years ago. It’s him. It has to be.”
+“Yama Whip. The master of the whip arts who vanished without a trace more than ten years ago. It’s him. It has to be.”
 
 A ripple passed through the gate guards.
 
@@ -386,6 +386,4 @@ Lee Cheonbaek nodded to his eldest son.
 
 That night, around two hundred martial artists departed the Mount Heng Sword Sect.
 
-[^1]: Makgeolli is a cloudy Korean rice wine.
-[^2]: Mount Beimang is traditionally associated with burial grounds and is commonly invoked as a destination for the dead.
-[^3]: Yama is a Buddhist lord of the underworld associated with judgment of the dead.
+[^1]: Mount Beimang is traditionally associated with burial grounds and is commonly invoked as a destination for the dead.
