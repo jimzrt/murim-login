@@ -1,10 +1,10 @@
 # Chapter 184
 
-There could be a thousand people, not merely hundreds. Escorted by martial artists from the Jin Family of Taiyuan, we pushed our way through the enormous crowd.
+There had to be close to a thousand people, not merely hundreds. Escorted by martial artists from the Jin Family of Taiyuan, we pushed our way through the enormous crowd.
 
 *This feels amazing.*
 
-I felt like a star in the Chinese-speaking world. The Korean Wave[^1] and all that.
+I felt like a star in the Chinese-speaking world. The Korean Wave and all that.
 
 Then again, I really was Korean, so maybe that wasn’t entirely wrong.
 
@@ -34,11 +34,11 @@ As I beamed and waved, Chulwoo whispered to me.
 
 Just as sparks were about to fly again, a thread of Sound Transmission pierced my ear.
 
-*Third Young Master!*
+—Third Young Master!
 
 Wipeng was glaring at me with a fierce expression. He looked like he wanted to slap me right then and there.
 
-He must have sent a similar Sound Transmission to Chulwoo, because the man added a curt remark with a dissatisfied expression.
+He must have sent a similar Sound Transmission to Chulwoo, because the man added a single word with a dissatisfied expression.
 
 “I let you off.”
 
@@ -60,7 +60,7 @@ Cheongpung was a strange guy no matter how many times I saw him, but there was n
 
 Thanks to him, I was confident I could counter whatever martial arts Chulwoo used. The only thing Chulwoo had over me was Huashan’s backing.
 
-*……*
+“……”
 
 Ah, no. I take that back.
 
@@ -196,7 +196,7 @@ What the hell was going on?
 
 Requests for handshakes—or rather, a barrage of fist-and-palm salutes—poured in from every direction. I was on the verge of losing my mind.
 
-If Wipeng hadn’t stepped forward at just the right moment, I would have ended up accepting every favor and marriage proposal wrapped in flowery language.
+If Wipeng hadn’t stepped forward at just the right moment, I would have ended up accepting every request and marriage proposal wrapped in flowery language.
 
 “Everyone, restrain yourselves!”
 
@@ -240,7 +240,7 @@ Veins bulging in my neck, I shouted,
 
 Wipeng looked me up and down as if I were an insect.
 
-“Is that something a man who’s been frequenting pleasure houses since he was sixteen should say? Did you scatter your conscience along with your silver nyang[^2]?”
+“Is that something a man who’s been frequenting pleasure houses since he was sixteen should say? Did you scatter your conscience along with your silver nyang?”
 
 “……”
 
@@ -399,6 +399,3 @@ Anger flared in the Roaring Fury Swordsman’s eyes.
 “I obey, Elder.”
 
 A smug smile spread across Gong Ilhyuk’s lips.
-
-[^1]: The Korean Wave is the spread of South Korean popular culture, including music, television, and film, beyond Korea.
-[^2]: A *nyang* is a historical Korean unit of currency. Here, “silver nyang” refers to silver money, not modern Korean won.
