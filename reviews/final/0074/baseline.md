@@ -12,7 +12,7 @@ But despite the warm words, Jin Mukyung answered with a sullen expression.
 
 “You really know how to say beautiful things.”
 
-“You—whew. I’m letting that slide because Hyung-nim[^1] is here.”
+“You—whew. I’m letting that slide because Hyung-nim is here.”
 
 “Thank you for that too.”
 
@@ -44,7 +44,7 @@ Some of that might have been because the Head Elder had installed puppets, but e
 
 Jin Wikyung had been born into a prestigious martial family, yet he was both a skilled administrator and an outstanding martial artist. In other words, he was the oddity.
 
-“Just one day. I want to rest for just one day. I want to rest. I want to rest.”
+“I want to rest for just one day. Just one day. I want to rest. I want to rest.”
 
 As Jin Wikyung muttered the same words over and over like a man with obsessive-compulsive disorder, Jin Mukyung clicked his tongue.
 
@@ -58,19 +58,19 @@ Taking care of my family in the real world was already backbreaking. If I had en
 
 It would have been nothing short of bleak.
 
-The Jin Family of Taiyuan even had hundreds of retainers under its command. The only advantage was that, as the homeowner, I wouldn’t have to worry about my jeonse deposit[^2] going up.
+The Jin Family of Taiyuan even had hundreds of retainers under its command. The only advantage was that, as the homeowner, I wouldn’t have to worry about my jeonse deposit going up.[^1]
 
 “The eldest son is supposed to carry a heavy burden.”
 
 Jin Mukyung snorted at my words.
 
-“You have no right to say that, so shut up. Isn’t that right, Hyung-nim[^1]?”
+“You have no right to say that, so shut up. Isn’t that right, Hyung-nim?”
 
 Jin Wikyung stared at me with moist eyes.
 
 “How does he always manage to pick such touching things to say?”
 
-“No, Hyung-nim[^1].”
+“No, Hyung-nim.”
 
 “You’ve grown up. You really have.”
 
@@ -80,7 +80,7 @@ Despite Jin Mukyung’s icy words, Jin Wikyung seemed not to hear a thing. Still
 
 “Let me hug our youngest just once.”
 
-“Yes, hyung[^1].”
+“Yes, hyung.”
 
 “My youngest!”
 
@@ -104,7 +104,7 @@ The instant the words left his mouth, a hand as large as a pot lid dragged him i
 
 Buried against Jin Wikyung’s chest alongside me, Jin Mukyung silently mouthed:
 
-“You. Are. Dead.”
+*You. Are. Dead.*
 
 *Hmm. I’d better stay out of sight for a while.*
 
@@ -130,7 +130,7 @@ The tears of a human weapon made me solemn in spite of myself. I patted Jin Wiky
 
 Jin Mukyung, who had looked like death until moments ago, also gave Jin Wikyung a sympathetic look.
 
-“Hyung-nim[^1]. If it’s really that difficult, take this guy and put him to work.”
+“Hyung-nim. If it’s really that difficult, take this guy and put him to work.”
 
 “…?”
 
@@ -150,7 +150,7 @@ Jin Mukyung answered confidently.
 
 “I have even less. I need to train. Besides, I’m hopeless with paperwork.”
 
-“I was in the seventh tier at school![^3]”
+“I was in the seventh tier at school!”
 
 “What nonsense is that?”
 
@@ -158,7 +158,7 @@ Jin Mukyung answered confidently.
 
 Jin Mukyung thought for a moment, then frowned.
 
-“A completely useless bastard. Hyung-nim[^1], he does have good strength, so he would make an excellent laborer. I’ll be going now.”
+“A completely useless bastard. Hyung-nim, he does have good strength, so he would make an excellent laborer. I’ll be going now.”
 
 “Wait.”
 
@@ -288,7 +288,7 @@ The new Sect Leader of the Mount Heng Sword Sect—the person who had requested 
 
 “Lee Seowol? Lee Seowol…”
 
-I had never heard the name before. Judging by the surname, there seemed to be some connection to Lee Cheonbaek.
+I had never heard the name before. Judging by her surname, she seemed to have some connection to Lee Cheonbaek.
 
 “You don’t remember the name?”
 
@@ -300,7 +300,7 @@ I had never heard the name before. Judging by the surname, there seemed to be so
 
 What did he mean, I didn’t remember?
 
-*Is that someone I know?*
+*Is she someone I know?*
 
 As I tilted my head, Jin Wikyung gave me an odd look.
 
@@ -310,7 +310,7 @@ At that moment, a fragment of memory flashed through my mind.
 
 The stage in my memory was the main arena. The actor was Lee Seogeun. His face was flushed bright red as he shouted at me:
 
-“You shameless bastard! You tore my sister’s clothes and tried to violate her!”
+*You shameless bastard! You tore my sister’s clothes and tried to violate her!*
 
 Ah!
 
@@ -330,7 +330,7 @@ Only Jin Mukyung, who had no idea what we were talking about, blinked in confusi
 
 “Hmm.”
 
-*An ex-girlfriend whose face I’ve never even seen? Or a flower snake?[^4]*
+*An ex-girlfriend whose face I’ve never even seen? Or a honey-trap scammer?*
 
 *One thing is certain.*
 
@@ -342,19 +342,19 @@ I let out a deep sigh.
 
 Long story short, Jin Mukyung agreed to go to the Mount Heng Sword Sect too. Jin Wikyung had used the masterstroke he had been saving.
 
-“I heard the Mount Heng Sword Sect has a lot of martial arts manuals…”
+*I heard the Mount Heng Sword Sect has a lot of martial arts manuals…*
 
-“Even if they do, what good is that? It’s not like I can read them.”
+*Even if they do, what good is that? It’s not like I can read them.*
 
-“It does matter.”
+*It does matter.*
 
-“Pardon?”
+*Pardon?*
 
-“The new Sect Leader has you figured out. She said she’d be willing to show you some of their Peak martial arts if you came.”
+*The new Sect Leader has you figured out. She said she’d be willing to show you some of their Peak martial arts if you came.*
 
-“…When are we leaving?”
+*…When are we leaving?*
 
-“Right now.”
+*Right now.*
 
 Everything moved at lightning speed. It had been only two hours since Jin Wikyung saw us off and we climbed into the four-horse carriage.
 
@@ -432,7 +432,7 @@ Hyuk Mujin looked back and forth between us with a wounded expression.
 
 Jin Mukyung bristled and spoke in a sharp voice, but I merely let out a long yawn.
 
-Hyuk Mujin clowning around was nothing new; when it came to dealing with that, I already had a full jiazi[^5] of internal energy.
+Hyuk Mujin clowning around was nothing new; when it came to dealing with that, I already had a full sixty-year cycle of internal energy.
 
 “It’s not Hyung Mujin. It’s Hyuk Mujin. I’ll try jabbing the horses in the rear with this thing, whether it’s a whip or an icicle.”
 
@@ -482,8 +482,4 @@ Ding.
 
 There was only one possible answer.
 
-[^1]: *Hyung* is a Korean term a man uses for an older brother or older male he is close to. *Hyung-nim* is a more respectful form.
-[^2]: A *jeonse* lease is a Korean rental arrangement in which the tenant pays a large lump-sum deposit instead of monthly rent.
-[^3]: Korean school grades use a nine-tier scale, with the first tier highest and the ninth lowest.
-[^4]: *Flower snake* is Korean slang for a woman who seduces men to exploit them.
-[^5]: A *jiazi* is a traditional sixty-year cycle.
+[^1]: A *jeonse* lease is a Korean rental arrangement in which the tenant pays a large lump-sum deposit instead of monthly rent.
