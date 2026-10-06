@@ -80,7 +80,7 @@ Or tried to.
 
 Hyuk Mujin’s eyes flew wide.
 
-“They’re the Samdo Sect! They’re nothing but Second Rate sect husks! Let us smash them right now and—”
+“They’re the Three Paths Sect! They’re nothing but Second Rate sect husks! Let us smash them right now and—”
 
 “No.”
 
@@ -114,7 +114,7 @@ They were outside the range of Qi Sense, so I couldn’t confirm it, but my inst
 
 “Where is the real Samdo Sect?”
 
-The Samdo Sect was only a small or mid-sized sect. As Hyuk Mujin had said, they were Second Rate husks. People like these couldn’t have been whipped up overnight.
+The Three Paths Sect was only a small or mid-sized sect. As Hyuk Mujin had said, they were Second Rate husks. People like these couldn’t have been whipped up overnight.
 
 *Don’t tell me.*
 
@@ -218,7 +218,9 @@ Gwak Jun thought,
 
 *This isn’t how it was supposed to go.*
 
-His gaze was locked on one man. Jin Taekyung, the Third Young Master of the Jin Family of Taiyuan, known as a Supreme First Rate martial artist.
+His gaze was fixed on one man.
+
+His gaze was locked on one man. Jin Taekyung, the third Young Master of the Jin Family of Taiyuan, known as a Super First Rate.
 
 Every time his spear moved, blood spurted and Gwak Jun’s men fell.
 
@@ -428,7 +430,7 @@ Gwak Jun’s head slowly drooped.
 
 Hyuk Mujin spoke with a sickened look on his face.
 
-“He severed his own heart meridian.[^2]”
+“He severed his own heart meridian.”
 
 Gwak Jun’s death meant one thing.
 
@@ -477,4 +479,3 @@ And then—
 Darkness crashed in.
 
 [^1]: Golden Sore Medicine is a salve for blade wounds.
-[^2]: In traditional East Asian medicine, the heart meridian is a pathway associated with the heart.
