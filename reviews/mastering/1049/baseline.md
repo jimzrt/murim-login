@@ -12,7 +12,7 @@ The woman before him, the Grand Mage, was his ally.
 
 They served the same master and shared the same goal.
 
-That was why the Blood-Sword Demon Lord could hardly believe what he was seeing.
+That was why the Blood-Sword Demon Lord could hardly accept the unbelievable sight before his eyes as reality.
 
 Not until the next moment, when the Grand Mage—who had been silently looking down at him—parted her tightly closed lips.
 
@@ -24,17 +24,17 @@ Not until the next moment, when the Grand Mage—who had been silently looking d
 
 The Blood-Sword Demon Lord stared blankly at the Grand Mage, thinking about what her voice had just whispered into his ear.
 
-Why was this happening?
+About why this was happening.
 
-As if to confirm that it was all real, agony throbbed through every inch of his body. He barely managed to force out the words.
+And then, as if to prove her words—that all of this was real—the agony spreading through every inch of his body hit him. He barely managed to squeeze out a voice.
 
 “Your joke… has gone too far.”
 
 “A joke? I’m afraid I don’t know what you mean.”
 
-The woman tilted her head as if she truly had no idea. The Blood-Sword Demon Lord clenched his teeth.
+The woman tilted her head with an innocent air. The Blood-Sword Demon Lord clenched his teeth.
 
-Rage surged from deep in his chest, and blood came welling up with it.
+Rage surged from deep in his chest, and blood welled up with it.
 
 “Hurry. Cough. Hurry and heal me.”
 
@@ -42,71 +42,71 @@ Rage surged from deep in his chest, and blood came welling up with it.
 
 Beneath her veil, her red lips curved softly.
 
-The Grand Mage smiled at the Blood-Sword Demon Lord as he struggled for breath. Then she turned her head and added,
+The Grand Mage smiled at the Blood-Sword Demon Lord, who was panting hard, then turned her head and added,
 
-“The healing is already done.”
+“I’ve already finished healing you.”
 
 She was telling the truth.
 
-It was healing in the literal sense.
+It was healing in the truest sense of the word.
 
-Not enough to restore someone completely, but enough to hold on to a consciousness slowly sinking into darkness.
+Not complete healing, but enough to hold on to someone’s consciousness as it slowly sank into darkness.
 
 Hoooo.
 
-Taekyung’s labored, wheezing breaths steadied. His deathly pale face and lips gradually regained their color.
+His ragged, wheezing breaths steadied. His deathly pale face and lips gradually regained their color.
 
-As the warm radiance surrounding him faded away completely, the Grand Mage’s slender fingers swept through the air.
+As the warm radiance surrounding the young man faded away completely, the Grand Mage’s slender fingers swept through the air.
 
 Crack! Shhhhk!
 
 The earth split open like a sealed box being forced apart.
 
-At the same time, plant stems hidden deep beneath it surged up, coiling around the young man—Jin Taekyung—and lifting him into the air.
+At the same time, plant stems hidden deep beneath the earth surged up, coiling around the young man—Jin Taekyung—and lifting him into the air.
 
 As if to show him to the intruders who were still rushing toward the hill at full speed.
 
-When Jeok Cheongang and the Bow Saint saw Jin Taekyung bound like a hostage in the distance, they had no choice but to stop, though neither knew exactly what had happened.
+And when Jeok Cheongang and the Bow Saint saw Jin Taekyung bound like a hostage in the distance, they had no choice but to stop. They couldn’t tell exactly what had happened.
 
-“It’s a little sad that my sincerity didn’t get through, but what can you do? This is the only way.”
+“I’m a little sad my sincerity didn’t get through, but what can you do? This is the only way.”
 
 The Blood-Sword Demon Lord stared blankly at the Grand Mage as she clicked her tongue softly. Only then did he finally understand.
 
-This was no dream. No cruel prank.
+This was no mere dream or cruel prank.
 
 “Why?”
 
 The question held a multitude of meanings.
 
-But the answer was brief and clear.
+But the answer that came back was brief and clear.
 
 “Because that person wants it.”
 
 Her silver-white veil swayed.
 
-The Grand Mage’s eyes, faintly visible behind it, were devoid of emotion. She no longer looked at him as a subordinate would look at a superior.
+The Grand Mage’s eyes, faintly visible behind it, were devoid of emotion. They no longer looked at him as a subordinate might look at a superior.
 
 Her calm voice, addressed to the Blood-Sword Demon Lord, who had gone rigid as a statue, was no different.
 
-“You’ve spent your whole life running wild. It’s about time you got some rest, don’t you think?”
+“You’ve had a good long life to run wild. It’s about time you got some rest, don’t you think?”
 
 Maybe it was because his senses were slowly growing dull even now.
 
 Or maybe it was the shock of something he’d never expected.
 
-The Blood-Sword Demon Lord listened blankly to her voice echoing in his ears. Then a word slipped out.
+The Blood-Sword Demon Lord had been listening blankly to her voice echoing in his ears like a distant call when a word suddenly slipped out.
 
 “Bullshit.”
 
-His voice carried unmistakable exhaustion, but beneath it lay unshakable certainty.
+His voice carried unmistakable exhaustion, but within it lay unshakable certainty.
 
-He couldn’t possibly be abandoned like this.
+The certainty that he couldn’t possibly be abandoned like this.
 
-Even if his master had always thought of him as nothing more than a hunting dog, he couldn’t throw him into the cauldron so pointlessly.
+Even if his master had always thought of him as nothing more than a hunting dog, he wouldn’t throw him into the cauldron so pointlessly.
 
 The old saying about cooking the hound after the hare is dead?
 
-That only happened when the hunt was over.
+That only happened after the hunt was over.
 
 But what was the state of the Lord of Heaven—of Dark Heaven—now?
 
@@ -124,15 +124,15 @@ He only had to reach out a little farther—just a little—and sweet victory wo
 
 If only this damned body could recover.
 
-With Jin Taekyung as a hostage, he could handle even the Fire King and the Bow Saint.
+If he took Jin Taekyung hostage, he could handle even the Fire King and the Bow Saint.
 
-Dominion over Gansu lay before him—a bridgehead to victory across the realm.
+Dominion over Gansu lay before him—a bridgehead for victory across the realm.
 
-*And that person would abandon me now?*
+*And he thinks he can abandon me now?*
 
 The Blood-Sword Demon Lord gave a hollow laugh.
 
-Then he fixed his dark-red glare on the insolent woman trying to drive a wedge between him and his master with such absurd lies.
+Then he glared with crimson-black eyes at the insolent woman trying to drive a wedge between him and his master with such absurd lies.
 
 “Enough of your nonsense, woman. Do you think he doesn’t know you betrayed him?”
 
@@ -140,17 +140,17 @@ There was no doubt about it.
 
 The Grand Mage. That filthy traitor had ruined everything.
 
-He was in this situation only because he hadn’t recognized the tumor within his own ranks.
+The only reason he was in this situation was that he hadn’t recognized the tumor growing inside his own ranks.
 
-“Tell me, what did those deceitful bastards promise you? A grand estate? Mountains of gold and treasure? Or a peerlessly handsome man to satisfy those filthy desires of yours?”
+“Tell me, what did those deceitful bastards promise you? A grand estate? Mountains of gold and treasure? Or a stunningly handsome man to satisfy those filthy desires of yours?”
 
 The Blood-Sword Demon Lord spat out the words, his voice boiling over.
 
-He had never been angrier.
+He was angrier now than he’d ever been.
 
-Looking back, things had been suspicious from the beginning.
+Looking back, things had seemed suspicious from the beginning.
 
-The Grand Mage had stopped him when he tried to enter the battle without hesitation. Because of that, the Black Ghosts, a core part of their fighting force, had been wiped out.
+The Grand Mage had stopped him when he tried to step into the battle without hesitation. Because of that, the Black Ghosts, their core fighting force, had been wiped out.
 
 And even though she could use powerful spells the Blood-Sword Demon Lord himself hadn’t known about, she had refused to help to the very end.
 
@@ -158,7 +158,7 @@ He’d been deceived.
 
 Thoroughly toyed with.
 
-The unbearable truth made him thrash about.
+That unbearable truth made the Blood-Sword Demon Lord thrash about.
 
 “You dare! Do you think a mere woman like you can kill me? Do you think you can ruin his grand plan with this little stunt?”
 
@@ -168,15 +168,15 @@ From the crater left by their earlier collision, the Blood-Sword Demon Lord used
 
 He had lost an arm. The tendons in his leg had been severed, and his joints shattered. Even so, he still had the endurance and vitality that an ordinary person couldn’t even imagine.
 
-But consumed by fury, he had forgotten the most important fact.
+But consumed by his fury, the Blood-Sword Demon Lord had forgotten the most important fact.
 
-He had survived injuries that should have killed him several times over because the Grand Mage’s Magic still dwelled in his body.
+The reason he’d survived injuries that should have killed him outright several times over was that the Grand Mage’s Magic had been imbued in his body.
 
 “Can I kill you? Of course I can.”
 
 The Grand Mage watched impassively as the Blood-Sword Demon Lord crawled out of the crater toward her, then added,
 
-“It would be very easy.”
+“And it would be very easy.”
 
 She was telling the truth.
 
@@ -186,7 +186,9 @@ All she had to do was dispel the body-enhancement Magic she’d placed on him.
 
 If the Grand Mage decided to kill him right now, the fiend who had once made his mark on an entire age would meet a miserable death in moments.
 
-But—
+“But…”
+
+The Grand Mage continued.
 
 “You’re right about one thing. Someone like me can’t kill you.”
 
@@ -194,9 +196,9 @@ But—
 
 Step.
 
-Instead of answering his reflexive question, the Grand Mage took a light step backward.
+In response to the Blood-Sword Demon Lord’s reflexive question, the Grand Mage took a light step backward instead of answering.
 
-Then, leaving him to struggle with what she meant, she spread both arms wide in an almost exaggerated gesture.
+Then, leaving the Blood-Sword Demon Lord behind as he struggled to understand what she meant, she spread both arms wide in a movement that was almost exaggerated.
 
 “Because there’s only one person here who can kill you today.”
 
@@ -204,25 +206,25 @@ At that very moment—
 
 Shhhhk.
 
-The plant stems, now thicker and stronger than iron chains, responded to their mistress’s will.
+The plant stems, now thicker and sturdier than chains, responded to their mistress’s will.
 
-Moving as if they had minds of their own, they carried the young man before her. His eyes were closed, and he appeared to be deep asleep.
+They moved as if they were living creatures with minds of their own, carrying the young man before their mistress. His eyes were closed, and he looked to be in a deep sleep.
 
-Or rather, he *appeared* to be.
+Or rather, he looked as if he were in a deep sleep.
 
-“Enough with the act. Why don’t you say something? Staying like that will only make me more wary of you.”
+“Enough with the pointless act. How about you say something? If you keep lying there, you’re only going to make me more suspicious.”
 
 The next moment—
 
 “Fuck. If you knew, you should’ve said so sooner.”
 
-A curse burst from Jin Taekyung’s drool-slick lips. He opened his eyes a crack and fixed her with a sharp gaze.
+A curse burst from Jin Taekyung’s lips, which still had drool on them. He slowly opened his eyes and fixed the Grand Mage with a sharp gaze.
 
 * * *
 
 I’d nearly lost consciousness.
 
-No—maybe I really had, for a moment.
+No—maybe I really had, for a little while.
 
 If someone hadn’t helped me when I least expected it, I’d probably be floundering in another long, endless nightmare by now.
 
@@ -230,7 +232,7 @@ Of course, even this situation felt like a dream.
 
 *…Hah.*
 
-I swallowed the laugh that threatened to escape me.
+I swallowed the laugh that was about to escape me.
 
 Right. This really wasn’t a dream.
 
@@ -238,27 +240,27 @@ The wind was still fierce, and the sky was dark.
 
 The unceasing cries of battle were growing louder in my ears. Beneath the blades they swung, life and death crossed paths.
 
-Aside from Jeok Cheongang and the Bow Saint, staring this way with their faces frozen, the scene below the hill was exactly as I’d last seen it.
+Aside from Jeok Cheongang and the Bow Saint, staring at me with faces frozen in place, the scene below the hill was exactly as I’d last seen it.
 
 Nothing had changed.
 
 Nothing at all.
 
-But things were different up here.
+But the situation on this hill was different.
 
 In this narrow space, everything had turned upside down.
 
-Common sense. Expectations. Even friend and foe.
+Common sense, expectations, even friend and foe.
 
-I’d listened to it all with my eyes closed, looking for all the world like I was dead. Now I had no choice but to ask the woman before me—the Grand Mage—
+And I, who’d been listening to everything with my eyes closed as if I were dead, had no choice but to ask the woman before me—the Grand Mage—
 
 “You… No. What exactly are you thinking?”
 
 I still couldn’t understand.
 
-Why had she healed me?
+Why she’d healed me.
 
-Why was she trying to finish off the Blood-Sword Demon Lord when she had the power to restore him to full health right now?
+Why she was trying to finish off the Blood-Sword Demon Lord when she had the power to restore him to full health right now.
 
 “Answer me. Come on.”
 
@@ -270,7 +272,7 @@ All I could do was barely cling to my fading consciousness and move my limbs a l
 
 That was all the healing power inside me was meant to do.
 
-The Grand Mage spoke in a calm voice.
+The Grand Mage spoke to me in a calm voice.
 
 “That’s a shame. If I were you, I wouldn’t waste what little strength I had on questions like that.”
 
@@ -278,29 +280,29 @@ The Grand Mage spoke in a calm voice.
 
 “Your question is wrong. This situation isn’t happening because I chose it.”
 
-“…!”
+“……!”
 
-The meaning of her words hit me, and my eyes widened.
+As soon as I grasped the meaning of her words, my eyes widened.
 
 “…You mean?”
 
-“Exactly what you’re thinking. A hunting dog does its job. It follows its master’s orders.”
+“You’re thinking along the right lines. A hunting dog only ever does its job. It follows its master’s orders.”
 
 The Grand Mage calmly answered, then pointed at the Blood-Sword Demon Lord and continued,
 
-“And once its job is done, it’s no longer needed.”
+“And when its job is done, it’s no longer needed.”
 
 Her words were so cold they sent a shiver down my spine.
 
-The Blood-Sword Demon Lord had tried desperately to deny it. Anyone would have. But now, faced with a truth so shocking that anyone would be forced to deny it, he stared at her as though his soul had left his body.
+The Blood-Sword Demon Lord had done his best to deny it. Anyone would have. But now he was facing a truth so shocking that it seemed impossible to deny, his eyes staring at her as if his soul had left his body.
 
 “Why…?”
 
-I wanted to ask the same thing.
+That was the question I wanted to ask, too.
 
 Why? For what reason was the Lord of Heaven abandoning the Blood-Sword Demon Lord?
 
-How could he throw away this crucial battle, one that might decide the course of this enormous war, without a second thought?
+How could he so casually throw away this crucial battle, one that could determine the outcome of this enormous war?
 
 But the Grand Mage didn’t answer.
 
@@ -312,6 +314,6 @@ Instead, she gazed at me with an inscrutable look and slowly parted her lips.
 
 “Kill him. And then…”
 
-Her blood-red lips moved beneath the veil.
+Her lips, red as blood, moved beneath the veil.
 
 “Get stronger.”
