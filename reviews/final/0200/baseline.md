@@ -24,7 +24,9 @@ Jeok Cheongang frowned at my reaction.
 
 “I’ve never heard of it in my life.”
 
-“…Heaven truly is heartless. How could it give such a thing to someone like you?”
+“…”
+
+*Heaven truly is heartless. How could it give such a thing to someone like this?*
 
 He looked like he genuinely wanted to hit me.
 
