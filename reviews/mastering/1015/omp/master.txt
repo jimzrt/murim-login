@@ -1,6 +1,6 @@
 # Chapter 1015
 
-Our force numbered a staggering three thousand, but every last one of them was a martial artist, so we moved far faster than common sense would suggest.
+Our force numbered nearly three thousand, but every one of them was a martial artist. We moved far faster than common sense would suggest.
 
 Only two days after leaving Tianshui, on Gansu’s eastern edge, we had already passed Lanzhou, the provincial capital, and were pressing on without slowing down.
 
@@ -32,13 +32,13 @@ Being born into a martial family didn’t mean you had to learn martial arts. Li
 
 Both families had left their former glory behind and begun to fall into ruin.
 
-One small difference was that, unlike the Jin Family of Taiyuan, which had three sons and a whole lot of testosterone, Ju Hwaran was an only child—and had to bear that much heavier burden alone.
+One difference was that the Jin Family of Taiyuan had three sons—a whole party of men—while Ju Hwaran was an only child. She’d had to shoulder that much heavier burden alone.
 
-*Though her father, the Head of the Escort Bureau, was still there, unlike mine, even if he was bedridden.*
+*Though unlike us, she still had her father, the Bureau Head, even if he was bedridden.*
 
 But that was all in the past.
 
-The Head of the Yongbong Escort Bureau had recovered his vitality and returned to the front lines. And the huge sum of gold I’d beaten out of the Taeeul Merciless Sword in return had been more than enough to pull the crumbling family back onto its feet.
+The Head of the Yongbong Escort Bureau had recovered his strength and returned to work. The enormous sum of gold I’d beaten out of the Taeeul Merciless Sword had been more than enough to put the crumbling family back on its feet.
 
 And the Jin Family of Taiyuan had risen into the ranks of the Five Great Families, filling the void left by the Murong Family—or rather, the Murong household.
 
@@ -46,9 +46,9 @@ And the Jin Family of Taiyuan had risen into the ranks of the Five Great Familie
 
 But reality wasn’t something you could ignore. You had to face it, and opportunity always came in the midst of crisis.
 
-That was how Ju Hwaran and the Yongbong Escort Bureau, and I and the Jin Family of Taiyuan, had overcome their crises and grown stronger.
+That was how Ju Hwaran and the Yongbong Escort Bureau, and I and the Jin Family of Taiyuan, had overcome our troubles and grown stronger.
 
-It was only the many sacrifices we’d made along the way—and the fact that more would inevitably come—that weighed heavily on my heart.
+The many sacrifices we’d made along the way—and the fact that there would be more—were what weighed on my heart.
 
 And besides…
 
@@ -58,7 +58,7 @@ I pushed away the memory of Namho coming to me just yesterday, his face unusuall
 
 Ju Hwaran was watching me with concern. I forced a smile as if nothing were wrong.
 
-“Ah, sorry. I was just… just thinking about something.”
+“Ah, sorry. I was just… thinking about something.”
 
 “It’s all right. I understand. The coming battle must be weighing on you.”
 
@@ -74,7 +74,7 @@ I watched her profile as she rode beside me, then spoke almost on impulse.
 
 I looked toward the narrow pass between the distant rocky hills, where thousands of our allies were pouring through like a flood.
 
-“Nothing’s easy, I suppose, but I find this especially hard. The connections and feelings between people.”
+“Nothing’s easy, but I find that especially hard. Understanding what goes on between people. How they feel.”
 
 “How they feel…”
 
@@ -84,15 +84,15 @@ Ju Hwaran murmured the words to herself, then added quietly, “I think I unders
 
 She’d been through it herself. How could she not?
 
-I still remembered it clearly: during the conflict with the Zhongnan Sect, Ju Hwaran had personally cut down Chief Escort Heo Jun, who had betrayed her from the shadows.
+I still remembered her cutting down Chief Escort Heo Jun with her own hands during the conflict with the Zhongnan Sect. He’d been a traitor all along.
 
-*She once followed him like a real uncle. The wound from that must still be with her.*
+*She used to look up to him like a real uncle. That wound must still be with her.*
 
 That was why relationships were so difficult.
 
 You could readily give someone something, but no one knew whether they’d give as much in return, more—or nothing at all.
 
-*That’s why I’m hesitating so much, too.*
+*That’s why I’m hesitating, too.*
 
 Then Ju Hwaran blurted out something that swept the doubts creeping back into my mind clean away.
 
@@ -104,7 +104,7 @@ I’d almost agreed without thinking. I blinked at her.
 
 What? Had I heard her wrong?
 
-“Um, sorry, what did you just say?”
+“Sorry, what did you just say?”
 
 Without turning her head, Ju Hwaran answered, “The woman named Wolhwa. The Lower District Sect’s Branch Leader in Shaanxi. Isn’t she?”
 
@@ -142,7 +142,7 @@ Hmm.
 
 Was this… what I thought it was?
 
-*This isn’t exactly the best time for something like this.*
+*Not exactly the best timing.*
 
 Still, I had to clear up a needless misunderstanding.
 
@@ -156,15 +156,15 @@ She kept her eyes fixed straight ahead, as if she’d spotted her family’s swo
 
 I scratched my chin, though it didn’t itch.
 
-“Well, this isn’t something you’re particularly curious about, but I thought I’d mention it.”
+“Well, you probably aren’t curious, but I thought I’d mention it.”
 
-“That’s right. I’m not particularly curious, but I’ll hear you out.”
+“That’s right. I’m not curious, but I’ll listen.”
 
 “I’m not very close with Wolhwa.”
 
 “……”
 
-“We did have some dealings, sure. Just a year or two ago, she was the Branch Leader in Shanxi, not Shaanxi. The Lower District Sect and I had various mutual dealings, so we got to know each other a little.”
+“We’ve had some dealings, sure. Just a year or two ago, she was the Branch Leader in Shanxi, not Shaanxi. The Lower District Sect and I had business with each other, so we got to know each other a little.”
 
 After a brief silence, Ju Hwaran spoke.
 
@@ -172,7 +172,7 @@ After a brief silence, Ju Hwaran spoke.
 
 “You’ve got the wrong idea. I only call her that because she isn’t here. Face-to-face, I’d address her properly every time.”
 
-“I see. So you sometimes exchange heartfelt missives like this one, too?”
+“I see. And sometimes you exchange heartfelt missives like this one?”
 
 “Missives?”
 
@@ -214,7 +214,7 @@ I didn’t need an answer. Her beaming smile was enough.
 
 *Inventory open. Summon.*
 
-As I slipped my hand inside my robe and spoke the command, I felt something solid between my fingers.
+I slipped a hand inside my robe and gave the command. Something solid appeared between my fingers.
 
 I pulled out the bamboo tube the Lower District Sect member had given me a few days earlier, removed the rolled-up missive, and unfolded it in front of Ju Hwaran.
 
@@ -222,7 +222,7 @@ Hesitation? The slightest worry?
 
 Not a trace. Not even a pinch.
 
-*Why would I have anything like that? Wolhwa only teases me with wordplay when we meet in person. When it comes to business, she’s meticulous.*
+*Why would I worry? Wolhwa only teases me when we meet in person. When it comes to business, she’s meticulous.*
 
 I had reason to be certain. This wasn’t the first time she’d sent me news.
 
@@ -254,7 +254,7 @@ Ju Hwaran had brought her horse close to mine to read along. She spoke in a voic
 
 “Yes. Go ahead. I’m listening.”
 
-I hurriedly opened my mouth, feeling like I had to say something. But her soft reply—and the steady gaze she fixed on me—sent a chill down my spine.
+I’d opened my mouth because I felt I had to say something. But her soft reply, and the steady gaze she fixed on me, sent a chill down my spine.
 
 It was as if my body had forgotten I’d gained the power of Unaffected by Cold and Heat long ago.
 
@@ -266,7 +266,7 @@ I felt as though I’d stepped into a deep swamp with no way out. While I strugg
 
 “Y-yes?”
 
-“Don’t mind me. Go ahead and finish reading. It sounds like a very deep and important conversation. Well, I’ll leave you to it.”
+“Don’t mind me. Finish reading it. It sounds like something deeply important. I’ll leave you to it.”
 
 “Wait, Young Lady Ju—!”
 
@@ -276,7 +276,7 @@ Before I could finish shouting, she urged her horse forward and sped ahead.
 
 I stared after her, then silently unfolded the missive again.
 
-Unlike usual, it was full of trivial personal chatter. And at the very end, it had one line that put the finishing touch on the whole thing.
+Unlike the others, it was full of trivial personal chatter. At the very end was one line that topped it all off.
 
 > Hoping for the day the Yellow River runs clear and we can meet again,[^1]
 >
