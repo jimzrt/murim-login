@@ -30,13 +30,13 @@ Beyond Sama Pyo’s staggering back, a fountain of blood shot high into the air,
 
 The Kongtong Disciples nearby. The Fire Dragon Pavilion members and me.
 
-And someone else, too, who had been doing everything in their power to hold back the urge to rush over.
+And someone else who had been holding back, with all his might, the urge to rush over.
 
 “No!”
 
 Taishan had watched everything unfold around Sama Pyo with mounting anxiety. That was as long as his patience could last.
 
-With a thunderous shout that rang out on every side, the nine-foot-tall giantset down the poor old man riding on his shoulders as if tossing him aside. Then he shot forward faster than I’d ever seen him move.
+With a thunderous shout that rang out on every side, the giant—nearly nine feet tall—set down the poor old man riding on his shoulders as if tossing him aside. Then he shot forward faster than I’d ever seen him move.
 
 *Whoosh!*
 
@@ -44,7 +44,7 @@ The wind roared around him, but his path was perfectly straight.
 
 Before anyone could stop him, Taishan hurtled like a cannonball toward Sama Pyo’s back as Sama Pyo staggered backward.
 
-He didn’t seem to care one bit about the Kongtong Disciples who had surrounded Sama Pyo, as if to box him in.
+He paid no attention to the Kongtong Disciples surrounding Sama Pyo.
 
 “You bastard!”
 
@@ -92,7 +92,7 @@ That was enough.
 
 Several yards vanished, and the scene around me changed.
 
-I had already slipped between Taishan and the Kongtong Disciples. Without hesitation, I thrust out both palms.
+I was between Taishan and the Kongtong Disciples. Without hesitation, I thrust out both palms.
 
 *Bang!*
 
@@ -116,7 +116,7 @@ Before anyone could answer, I turned to Perfected Being Hyeoncheon, who had watc
 
 “Apologies for the late greeting. We met once before in Henan.”
 
-Perfected Being Hyeoncheon had briefly met me at the Mount Song Resolution, where the new Murim Alliance was first formed. He gave a slight nod.
+We had spoken briefly at the Mount Song Resolution, where the new Murim Alliance was first formed. He gave a slight nod.
 
 “It’s been a while, my friend Jin.”
 
@@ -156,7 +156,7 @@ I brought the edge of my hand down on the back of his neck without hesitation.
 
 His skin and bones were so thick that even a Pressure-Point Strike looked unlikely to work. But overwhelming force was another matter.
 
-The sound of him falling was like a bear hitting the ground. Silence followed.
+He hit the ground like a falling bear. Silence followed.
 
 The Fire Dragon Pavilion members who arrived a moment later, and the Kongtong Disciples who had been about to charge Taishan again, stared at me in bewilderment.
 
@@ -176,7 +176,7 @@ I added bitterly, “The friend you showed mercy to is a much better man than yo
 
 “……!”
 
-The air around us gave a sharp, electric shiver.
+The air around us seemed to shiver.
 
 Those who understood what I meant widened their eyes at once, as if on cue. Hyeoncheon closed his eyes without a word.
 
@@ -190,7 +190,7 @@ From the moment he had drawn his sword and swung it, I’d known instinctively.
 
 There had been conflict in that perfect draw, but not the slightest trace of killing intent.
 
-That the old Daoist’s sword would never take someone’s life.
+The old Daoist’s sword would not take Sama Pyo’s life.
 
 That was why I hadn’t stepped in.
 
@@ -200,9 +200,9 @@ His wavering sword tip had cut shallowly into Sama Pyo’s flesh, but I could te
 
 “Then why?”
 
-“His eyes. I saw those eyes.”
+“His eyes. I saw his eyes.”
 
-Perfected Being Hyeoncheon suddenly opened his eyes. He looked up at the Kongtong Sect flag fluttering above his head and continued.
+Hyeoncheon opened his eyes and looked up at the Kongtong Sect flag fluttering above him.
 
 “They were like my Disciples’ eyes when I last saw them in Dunhuang. Deep and upright. Unbowed even before death. Those were their eyes.”
 
@@ -240,7 +240,9 @@ The tower they had painstakingly built had fallen. They would build it again on 
 
 And no innocent blood would stain the bedrock beneath that stronger tower.
 
-Then he looked at his Disciples with tear-filled eyes and said, “Cry your hearts out. These may be your last tears today.”
+Then he looked at his Disciples with tear-filled eyes.
+
+“Cry all you want. Today may be your last chance.”
 
 I quietly closed my eyes and shut out the sound.
 
@@ -250,11 +252,11 @@ The anguished wails and sobs filled the air. There was no way not to hear them, 
 
 But it didn’t matter.
 
-No one on this battlefield, covered in countless corpses and pools of blood, would hear or remember their crying.
+On a battlefield covered in bodies and blood, no one would hear or remember them crying.
 
 Or perhaps…
 
-Maybe everyone was already crying together.
+Everyone was already crying with them.
 
 *Tap.*
 
@@ -278,13 +280,15 @@ The strange man suddenly held out a hand to me.
 
 *What the hell?*
 
-I blinked, my tears already gone, when the oddball grabbed my hand, yanked me close, and wrapped me in a tight embrace. Then he began to sob miserably.
+I blinked, my tears drying up at once. He grabbed my hand, pulled me in, and wrapped his arms around me. Then he began to wail.
 
 “Waaah! Ooohhh!”
 
 No, seriously. What was going on?
 
-After my brain stalled for a moment, and whatever tears had been about to come out disappeared completely, I asked, “……Um, who exactly are you?”
+After my brain stalled for a moment, whatever tears I’d had left disappeared too.
+
+“…Um, who exactly are you?”
 
 Jeok Cheongang answered without hesitation.
 

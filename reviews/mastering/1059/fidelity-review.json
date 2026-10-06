@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Perhaps that was why the old Daoist, who had come here seeking revenge, could not bring himself to kill his enemy’s son, even when the young man had come to him seeking death.",
+      "defect": "The Korean says Sama Pyo was the enemy’s blood relative (원수의 혈육), not specifically his son. “Son” adds a relationship the source does not establish.",
+      "id": "F01",
+      "rationale": "혈육 refers to a blood relative or kin; it does not specify a son.",
+      "replacement": "Perhaps that was why the old Daoist, who had come here seeking revenge, could not bring himself to kill his enemy’s blood relative, even when the young man had come to him seeking death.",
+      "severity": "minor",
+      "source": "Lines 220–222"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one unsupported narrowing of a family relationship.",
+  "version": 1
+}
