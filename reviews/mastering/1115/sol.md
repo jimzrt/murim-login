@@ -40,11 +40,11 @@ A small shadow pulled the dagger from the back of his head as the body crumpled 
 
 The figure vanished like a ghost.
 
-The Sword Energy that came flying a beat too late shot toward the space where the shadow had stood, but a cool breeze from somewhere had already swept past them.
+Sword Energy shot toward the spot where the shadow had stood, a beat too late. A cool breeze had already swept past them.
 
 *Slice—SPLAT!*
 
-A fountain of blood arced into the pitch-black night sky.
+Blood spurted into the pitch-black night sky.
 
 The speed was blinding, every movement precise and free of waste. Yet after cutting down dozens of enemies in the blink of an eye, the shadow—the Slaughter Saint—looked grim.
 
@@ -58,7 +58,7 @@ The South Gate had been an impregnable fortress with the Slaughter Saint and the
 
 Perhaps the fight had been impossible from the start.
 
-Their side had even needed to call up commoners, while the enemy were all trained in a certain level of martial arts and had used Temporary Strength Pills as well.
+Their side had needed to bring in commoners, while every enemy possessed a certain level of martial skill—and had Temporary Strength Pills besides.
 
 Outmatched in both numbers and quality, they had held on only by making the most of their defensive position and deploying their handful of elite troops wherever they were needed.
 
@@ -142,7 +142,7 @@ He was a man of flesh and blood, not an all-knowing, all-powerful god.
 
 Was it the wounds scattered across his body? Or the internal energy draining away even now?
 
-Caught in the exhaustion and emptiness he’d forgotten, the Slaughter Saint suddenly thought of someone who, long ago, had always brought him confidence and certain victory—even when facing a Demonic Cult army more than ten times their size.
+Caught by an exhaustion and emptiness he had managed to forget, the Slaughter Saint thought of someone from long ago. Someone who had always given them confidence and the certainty of victory, even against a Demonic Cult army more than ten times their size.
 
 *Martial God, what would you have done?*
 
@@ -156,7 +156,7 @@ And yet, at that moment, another name came to the Slaughter Saint.
 
 *Jin Taekyung.*
 
-The master of the Morning Star, the new star Dharma King Hong Dao had once spoken of—and now the young man who had drawn the Lord of Heaven’s inexplicable obsession.
+The master of the Morning Star, the new star Dharma King Hong Dao had once spoken of. A young man who had somehow become the object of the Lord of Heaven’s inexplicable obsession.
 
 And—
 
@@ -182,11 +182,11 @@ Amid severed limbs and spilling blood, the Slaughter Saint drew on what little i
 
 The defenders, barely managing to resist, stared at him wide-eyed. But he had made up his mind. His voice did not waver.
 
-“Messenger, take word to the South and North Gates immediately. The elites stationed at each gate will cover the rear and buy us some time. The rest of the troops are to retreat as quickly and orderly as possible.”
+“Messengers, take word to the South and North Gates immediately. The elites stationed at each gate will cover the rear and buy us time. The remaining troops are to retreat as quickly and orderly as possible.”
 
 Silence pressed down on them. It lasted only an instant, but felt like an eternity.
 
-To them, abandoning the wall meant that the word they’d been trying so hard to ignore—defeat—was finally becoming real.
+Abandoning the wall meant facing the word they had struggled to ignore: defeat.
 
 Only one person present could oppose the Slaughter Saint’s decision. The Bow Saint watched him, her gaze still calm.
 
@@ -216,7 +216,7 @@ Surely they all felt the same.
 
 At his quiet call, he looked steadily at her.
 
-*I don’t know exactly what you have in mind. But there’s one thing I do know. No—anyone who’s been even a little close to Jin Taekyung knows it.*
+*I don’t know exactly what you have in mind. But I know one thing. Anyone who’s spent even a little time with Jin Taekyung knows it.*
 
 *……*
 
@@ -226,7 +226,7 @@ At his quiet call, he looked steadily at her.
 
 *I want to believe in him. And in you, too.*
 
-Her pupils wavered for an instant.
+Her eyes wavered for an instant.
 
 But neither her agitation nor her silence lasted long.
 
