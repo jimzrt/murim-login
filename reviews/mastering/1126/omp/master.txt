@@ -64,7 +64,7 @@ Just like that day a year ago, burned into the Blood Lord’s mind like a brand.
 
 *This is…*
 
-In a moment so brief it seemed time had been cut into slivers, the Blood Lord froze, eyes wide. Someone’s presence flashed through his mind.
+In a moment cut into the smallest sliver of time, someone flashed through his mind.
 
 A name that could not—and must not—appear here today.
 
@@ -112,7 +112,7 @@ But that is only one side of it.
 
 For someone who has watched death draw close and accepted it deep in their heart, the absence of pain might be one last blessing instead.
 
-No—it must be.
+No—it surely was.
 
 At least right now, Jin Taekyung was more grateful than ever that he couldn’t feel pain.
 
@@ -156,7 +156,7 @@ But now it was all right.
 
 Mae Jonghak had come.
 
-With the Martial God—the heavens—gone, the Sword Saint Mae Jonghak was the highest star in the sky and the greatest under heaven in this era.
+With the Martial God—that heaven—gone, Sword Saint Mae Jonghak was the highest star in the sky, the greatest under heaven in this era.
 
 Taekyung had an inkling of how Mae Jonghak could have appeared here when he should have been protecting the Central Plains as Alliance Leader. He let the thought go.
 
@@ -202,7 +202,7 @@ And he understood. Anger wasn’t the only thing behind that tremor.
 
 “…You.”
 
-“Yeah. Even a bastard like you has to be scared. That’s why you’re pulling this cheap hostage stunt.”
+“Yeah. Even a bastard like you would be scared. That’s why you’re pulling this cheap hostage stunt.”
 
 *Grind.*
 
