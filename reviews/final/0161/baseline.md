@@ -224,7 +224,9 @@ After the two men exchanged a tense battle of wills and sheathed their weapons a
 
 “What if we strike before they gather? And target only their heads?”
 
-“…What?”
+“…”
+
+“What?”
 
 “In three days, on the coming New Year’s Day, the heads of every sect in Shanxi Province will gather at the Jin Family of Taiyuan. We’ll enter through Hequ instead of Datong, then charge straight toward Taiyuan.”
 
@@ -334,4 +336,4 @@ They were raising their bowls amid an atmosphere as heated as the mare’s-milk 
 
 Amid the uproar, the inn’s door opened, and someone stepped inside.
 
-[^1]: In this Chinese setting, one *li* is 500 m (0.311 mi); five hundred *li* is 250 km (about 155 mi).
+[^1]: A *li* is a traditional Chinese unit of distance.
