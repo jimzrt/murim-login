@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "where no grass grew.",
+      "defect": "The Korean describes a place where grassy undergrowth does not form, not necessarily a place where no grass grows at all.",
+      "id": "F01",
+      "rationale": "풀숲이 형성되지 않는 곳 refers to the absence of grass or undergrowth forming in that area; the current wording makes the condition more absolute.",
+      "replacement": "where no grassy undergrowth formed.",
+      "severity": "minor",
+      "source": "Line 127"
+    },
+    {
+      "confidence": 0.75,
+      "current": "Freed from the chains and restraints that bound them, they accepted spears and blades with trembling hands and boarded the Great Nation’s ships.",
+      "defect": "The Korean specifically says they removed chains and swords; replacing swords with generic restraints drops that physical detail.",
+      "id": "F02",
+      "rationale": "The source names 사슬과 칼 (chains and swords), while the assembled English generalizes 칼 to “restraints.”",
+      "replacement": "They removed the chains and swords binding them, accepted spears and blades with trembling hands, and boarded the Great Nation’s ships.",
+      "severity": "minor",
+      "source": "Line 215"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Before the countless arrows that couldn’t keep up with his lightning speed had even finished sweeping across the ground, a low whistle of air split through the space above Ma Sanbao’s head.",
+      "defect": "The source says the arrows had not yet covered the ground; “sweeping across the ground” changes that image and can suggest the arrows move along the ground.",
+      "id": "F03",
+      "rationale": "지면을 뒤덮기도 전 describes arrows covering the ground, not sweeping across it.",
+      "replacement": "Before the countless arrows that couldn’t keep up with his lightning speed had even covered the ground, a low whistle of air split through the space above Ma Sanbao’s head.",
+      "severity": "minor",
+      "source": "Line 263"
+    }
+  ],
+  "summary": "The assembled English is broadly faithful, but three physical details shift from the Korean source.",
+  "version": 1
+}

@@ -32,7 +32,7 @@ Ma Sanbao stifled a groan at the Son of Heaven’s unexpected appearance, then s
 
 “A mere traitor like you needn’t worry about the capital’s safety. Not while the Twelve Palaces of the Zodiac are guarding it.”
 
-The Son of Heaven fixed his deep, sunken gaze on Ma Sanbao, who had fallen silent.
+The Son of Heaven fixed his deep, steady gaze on the silent Ma Sanbao.
 
 The Twelve Palaces of the Zodiac.
 
@@ -174,7 +174,7 @@ At last, Ma Sanbao understood everything. A hollow laugh escaped him.
 
 He had forgotten for a moment.
 
-Beneath the Son of Heaven’s pale skin, instead of hot, red blood, ran cold iron and blood.
+Beneath the Son of Heaven’s pale skin ran cold iron blood, not hot red blood.
 
 “The palace’s underground prison must be empty by now. Zhu Di, was this your doing?”
 
@@ -208,7 +208,7 @@ A hollow laugh, as though he had given up, was the only way to conceal his last 
 
 His mouth smiled. His eyes did not.
 
-Ma Sanbao quickly swept his sunken gaze around.
+Ma Sanbao swept his gaze around.
 
 On the hills encircling them, countless arrowheads poked quietly through the thick grass. He sensed his subordinates holding their breath, waiting for his command.
 
@@ -220,7 +220,7 @@ If he could capture just one of the enemies who had prepared so thoroughly, he c
 
 No—he might do more than that. He might seize everything.
 
-That was what the Son of Heaven represented.
+That was what the Son of Heaven was worth.
 
 Besides, Ma Sanbao and his men had no other choice.
 
@@ -228,7 +228,7 @@ Besides, Ma Sanbao and his men had no other choice.
 
 It all happened in an instant.
 
-Ma Sanbao’s mighty shout as he kicked off the ground and shot upward.
+Ma Sanbao shouted and sprang from the ground.
 
 The taut bowstrings released their arrows all at once.
 
@@ -236,7 +236,7 @@ And—
 
 *Whoosh!*
 
-Before the countless arrows that couldn’t keep up with his lightning speed had even finished sweeping across the ground, a low whistle of air split through the space above Ma Sanbao’s head.
+Before the countless arrows, unable to match his speed, had even covered the ground behind him, a low whistle sounded above Ma Sanbao’s head.
 
 *No Shadow…!*
 
@@ -316,7 +316,7 @@ And why, now that they were face-to-face, was the Son of Heaven’s skin so much
 
 *Crack.*
 
-The Son of Heaven slowly twisted the hand that had pierced the center of Ma Sanbao’s chest and spoke.
+The Son of Heaven slowly twisted the hand he had driven through the center of Ma Sanbao’s chest.
 
 “A few months ago, someone gave me a great gift. Something you know well.”
 
@@ -326,17 +326,17 @@ The Son of Heaven slowly twisted the hand that had pierced the center of Ma Sanb
 
 The Son of Heaven’s deliberation had not lasted long, though. His only remaining blood relative, the sole heir who would inherit the realm, had made him a request.
 
-“He told me to live a thousand years. Not as the Son of Heaven, but as family—as someone he wanted to stay with for a long time.”
+“He told me to live a thousand years. He wanted us to stay together for a long time—not as Son of Heaven and heir, but as family.”
 
-Moved by Prince Shangshan Zhu Bao’s sincerity—no, Imperial Younger Brother Zhu Bao’s—the Son of Heaven made his choice.
+For the sake of Prince Shangshan Zhu Bao—no, Imperial Younger Brother Zhu Bao—and his heartfelt wish, the Son of Heaven made his choice.
 
-Even if it meant breaking a taboo. Even if he might one day regret it, he would stay with his younger brother for as long as he was allowed.
+Even if it meant breaking a taboo, even if he might regret it one day, he would stay with his younger brother for as long as he could.
 
 And that choice had brought them to this moment.
 
 “Now I understand why Jin Taekyung gave me the White Illusion Jiangshi Art. It wasn’t just for me… It was for my brother, who would otherwise be left alone again.”
 
-At that moment—
+Then—
 
 “By the law of the Great Nation, I punish this traitor.”
 
