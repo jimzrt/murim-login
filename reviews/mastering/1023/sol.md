@@ -2,7 +2,7 @@
 
 Huff, huff.
 
-Footsteps climbed the steep mountain slope without a word, while clouds of white breath billowed here and there.
+We’d left the horses behind and were climbing the steep slope on foot. Clouds of white breath billowed all around me.
 
 The Great Snow Mountain was as cold as midwinter all year round, and the air was thin. It spared no one—not even those who had come to defend this land.
 
@@ -24,13 +24,13 @@ A hand pressed his Mingmen acupoint as a calm voice spoke. Faint qi stirred arou
 
 Whoosh.
 
-The pallor creeping across his face eased, and his complexion regained some color. With the internal energy sent through the Mingmen acupoint, Namho looked as if nothing had happened and went back to grumbling as usual.
+The pallor creeping over his face eased. His color returned as internal energy flowed through the acupoint, and he went back to grumbling as though nothing had happened.
 
 “Damn it. Getting old’s a crime. Anyway, thanks for the help…”
 
 His words trailed off.
 
-Namho had just turned to thank him when his voice faltered despite himself. Standing behind him, Sama Pyo asked with an impassive face,
+Namho had turned to thank the person behind him, only to falter when he saw who it was. Sama Pyo looked at him impassively.
 
 “What is it? Is something wrong?”
 
@@ -40,13 +40,13 @@ Namho’s surprise lasted only an instant. The old Hidden Shadow Pavilion agent 
 
 “Over there?”
 
-As Sama Pyo turned to look where Namho was pointing, a small shadow sprang out from behind a dry tree and darted across the snow.
+Sama Pyo turned in the direction Namho pointed. Just then, a small shape sprang out from behind a dead tree and darted across the snow.
 
 “A mountain hare. No need to worry.”
 
 “Is that so? Well, it’s not like they could’ve snuck all the way up here. Getting old just gives you more to worry about.”
 
-Namho replied nonchalantly, then looked at me and smacked his lips.
+Namho gave me a look and smacked his lips.
 
 “Getting this winded from a little climb? I must be getting old. If I were just ten years younger—no more, no less—I’d be leading the charge. Wouldn’t you say?”
 
@@ -66,7 +66,7 @@ In the vast sea of Murim, they were small fry. Prey for the other predators.
 
 I didn’t look down on them. I had neither the right nor the inclination. I’d been weak once myself. Even now, there were people who would consider me weak.
 
-What worried me was that we had to face Dark Heaven’s forces with an army whose numbers had been inflated without adding much strength.
+What worried me was that we had to face Dark Heaven’s forces with an army whose strength lay mostly in its numbers.
 
 And besides…
 
@@ -74,7 +74,7 @@ And besides…
 
 Someone once said it didn’t matter whether a cat was white or black, as long as it caught mice. I agreed. History had already proved the point.
 
-The Great Faction War had been the decisive turning point that united Murim under one banner. And during the Great Cataclysm in the modern era, even the infamous Mexican drug cartels had joined the government forces to fight the monsters.
+The Great Faction War had brought the whole of Murim together. During the Great Cataclysm in the modern world, even the infamous Mexican drug cartels had joined government forces to fight monsters.
 
 An outside enemy could turn yesterday’s foe into today’s ally.
 
@@ -88,11 +88,11 @@ If he already had other plans, the crushing defeat at Dunhuang and the fall of t
 
 *I have to stop that. No matter what it takes.*
 
-I muttered the words inwardly and glanced behind me.
+I glanced behind me.
 
-Sama Pyo, walking along in silence, caught my brief look and gave me a small nod.
+Sama Pyo was walking in silence. He caught my fleeting glance and greeted me with his eyes, looking no different from usual.
 
-He looked no different from usual. Yet just then, it felt as if a huge boulder were pressing down on one corner of my chest.
+It felt as though a huge boulder were pressing down on my chest.
 
 Rustle.
 
@@ -108,37 +108,33 @@ Not everyone relaxed.
 
 The voice boomed. Its owner wore a rough suit of armor and had pulled his helmet low over his face. He was armed for battle.
 
-The sight of a heavily armed man, his helmet pulled down low, brought two words to mind.
+One thought came to me.
 
 *The military.*
 
-Step, step.
+Crunch, crunch.
 
 Despite his heavy armor, he moved with easy grace. He covered the dozen or so *jang* between us at a measured pace. Sima Gong, who was leading our group, opened his mouth.
 
 Or rather, he tried to.
 
-The man passed Sima Gong as smoothly as water flowing downstream, fixed his gaze on me, and asked,
+The man walked straight past him, fixed his gaze on me, and asked, “May I have your name, sir?”
 
-“May I ask your name, sir?”
-
-“Have you no manners? Do you even know who this man is, to demand an answer from him?”
+“How dare you! Do you have any idea who this man is, to demand an answer from him?”
 
 Naturally, I wasn’t the one who said that.
 
 Before I could speak, Hyuk Mujin stepped forward, putting on airs as he raised the silver tablet in his hand—wait. When had he taken that?
 
-Before I could speak, Hyuk Mujin stepped forward, putting on airs as he raised the silver tablet in his hand—wait. When had he taken that?
-
-“If I may introduce him, he is the Third Young Master of the great Jin Family of Taiyuan, the hegemon of Shanxi Province; a Commander of the Embroidered Uniform Guard who protects the Great Nation’s imperial family; and one personally appointed by His August Majesty the Emperor…”
+“This man is the Third Young Master of the great Jin Family of Taiyuan, the ruling power of Shanxi Province; a Thousand Captain of the Embroidered Uniform Guard, which protects the Great Nation’s imperial family; and a man personally appointed by His Majesty the Emperor—”
 
 “Hong Pyo, Deputy Thousand Captain of the Gansu Regional Military Commission!”
 
-A roar swallowed Hyuk Mujin’s voice. The knees of the man, who had stood like an iron tower, bent.
+His roar swallowed Mujin’s voice. The man who had stood like an iron tower bent one knee.
 
 Thud.
 
-With a heavy sound, the man—Hong Pyo—knelt on one knee and gave me a crisp military salute.
+Hong Pyo knelt in the snow and gave me a crisp military salute.
 
 “I pay my respects to the Marquis of Shangshan!”
 
@@ -186,13 +182,13 @@ In a word…
 
 *An unlucky Jeong Hogun, maybe.*
 
-Thinking of Thousand Captain Jeong Hogun, whom we’d had no choice but to leave behind because we were in such a hurry, Hong Pyo reminded me of him, yet was unmistakably different.
+We’d had no choice but to leave Thousand Captain Jeong Hogun of the Embroidered Uniform Guard behind in our haste. Hong Pyo reminded me of him, though they were clearly different men.
 
-And the biggest reason I could make such a firm judgment about Hong Pyo’s character, whom I’d only met today, was probably his attitude toward Sima Gong.
+The main reason I felt I could judge Hong Pyo’s character after meeting him only today was the way he treated Sima Gong.
 
-“So you’re the Deputy Thousand Captain everyone’s been talking about. They say no one in the world is more meticulous than you when it comes to carrying out official business.”
+“So you’re the Deputy Thousand Captain everyone’s been talking about. They say no one is more thorough when it comes to carrying out his duties.”
 
-Sima Gong had already been ignored once, but he addressed Hong Pyo with a gentle smile. Hong Pyo stared at him blankly for a moment, then spoke.
+Sima Gong smiled as he addressed the man who had already ignored him once. Hong Pyo stared at him for a moment.
 
 “Identity tablet.”
 
@@ -238,11 +234,11 @@ He drew the iron baton from his waist. Sima Gong and everyone around him fell si
 
 “Ha! Hahahaha! Yes! That’s exactly right!”
 
-Jeok Cheongang’s laughter rang out. Holding his stomach, he guffawed as he looked at Hong Pyo.
+Jeok Cheongang’s laughter rang out. Holding his stomach, he looked at Hong Pyo with unmistakable approval.
 
 “A man ought to carry out the duty he’s been given. Now, what was your name?”
 
-Hong Pyo answered Jeok Cheongang’s friendly question.
+Hong Pyo answered.
 
 “Identity tablet.”
 
@@ -258,10 +254,10 @@ Silence threatened to suffocate us all. Hyuk Mujin trembled and whispered so qui
 
 “Captain. I really think I’m gonna burst.”
 
-But before I could answer, a sound echoed like a distant call from beyond the white ridge stretching far away.
+Before I could answer, a sound rolled across the white ridge in the distance.
 
 Boom. Ba-boom. Booooom!
 
 An urgent drumbeat.
 
-The sound of the war drums shook the snow-covered mountain range.
+The war drums shook the snow-covered mountains.
