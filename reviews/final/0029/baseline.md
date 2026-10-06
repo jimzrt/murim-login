@@ -18,7 +18,7 @@ The impact hurled me backward with a thunderous crash. I flew toward the reconna
 
 “Argh!”
 
-“Captain! Are you all right?”
+“Squad Leader! Are you all right?”
 
 …Would I be all right?
 
@@ -82,7 +82,7 @@ But I couldn’t stop them all.
 
 One of the reconnaissance squad clutched his throat. Blood fountained between his fingers, and I saw a throwing knife buried there.
 
-“Grrk. Cap… Captain. Grrk.”
+“Grrk. Squ… Squad Leader. Grrk.”
 
 He dropped to his knees, gurgling on blood. His still-boyish face was twisted with the terror of dying.
 
@@ -174,7 +174,7 @@ Fast and powerful. His fundamentals were solid, and he had a keen sense for comb
 
 He was beyond the likes of that brat from the Mount Heng Sword Sect or a rootless wandering martial artist like Black Mountain Blade.
 
-*The Jin Family of Taiyuan… Even rotten, a Chinese herring is still a Chinese herring, is that it?*
+*The Jin Family of Taiyuan… Even rotten, a Chinese herring is still a Chinese herring, is that it?*[^4]
 
 Jopil leisurely slipped past the spearhead as he considered the young man before him.
 
@@ -200,7 +200,7 @@ The spearhead flashed toward Jopil’s face and pierced empty air. The explosive
 
 Every motion from gripping the spear to thrusting it was compact and flowed seamlessly into the next. More striking still was the way Jin Taekyung smoothly twisted his entire body before releasing an explosive burst of force.
 
-Silk-reeling force.[^4]
+Silk-reeling force.[^5]
 
 It was still clumsy, but there was no mistaking it.
 
@@ -278,7 +278,7 @@ He had completely lost his mind and was laying waste to everything around him. D
 
 Step into range and I would be shredded. That much was obvious.
 
-“Captain!”
+“Squad Leader!”
 
 “We’re coming!”
 
@@ -304,7 +304,7 @@ I shouted and hurled myself sideways. Right on cue, Jopil’s sword smashed the 
 
 *Crunch!*
 
-“Captain!”
+“Squad Leader!”
 
 Hyuk Mujin’s shout came a beat too late. Despite my warning, he was already charging in. Behind him, I saw Han Yeop’s grim, determined face.
 
@@ -312,7 +312,7 @@ Hyuk Mujin’s shout came a beat too late. Despite my warning, he was already ch
 
 “Jopil, you vicious bastard!”
 
-“Get away from the Captain!”
+“Get away from the Squad Leader!”
 
 But they were already too late. Hyuk Mujin and Han Yeop, who had sprinted over with everything they had, thrust their weapons at Jopil while his attention was still on me.
 
@@ -440,7 +440,12 @@ Jopil added,
 
 The next instant, his hand slammed into my chest.
 
-[^1]: A zhang is a traditional Chinese unit of length, approximately 3.03 meters (9.94 ft). More than ten zhang is more than about 30 meters (99 ft).
+[^1]: A zhang is a traditional Chinese unit of distance, roughly 3.3 meters.
+
 [^2]: Mount Beimang is traditionally associated with burial grounds; hiking up it means being dead.
-[^3]: A goshiwon is a small, inexpensive rented room, typically in a building of similar rooms.
-[^4]: Silk-reeling force is a method of twisting the body in a continuous, coiling motion to release power.
+
+[^3]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement.
+
+[^4]: “Even rotten, a Chinese herring is still a Chinese herring” is a Korean proverb meaning that former greatness retains some of its quality even in decline.
+
+[^5]: Silk-reeling force is a method of twisting the entire body in a continuous, coiling motion to release power.
