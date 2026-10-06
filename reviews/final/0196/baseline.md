@@ -132,7 +132,7 @@ The middle-aged man lowered his voice to a conspiratorial whisper.
 
 The merchant’s eyes flashed. He had realized this would not end in a day or two.
 
-His earlier confusion and despair had already vanished. Now mountains of silver nyang[^1] danced before his eyes.
+His earlier confusion and despair had already vanished. Now mountains of silver nyang danced before his eyes.
 
 *This is an opportunity.*
 
@@ -160,7 +160,7 @@ The middle-aged man savored the merchant’s bewildered expression. At last, he 
 
 “What? Is that true?”
 
-“I told you it was. Two days ago, an Elder of the Zhongnan Sect who didn’t know about it caused a scene, then went back after getting thoroughly beaten. He even entrusted the Sleeping Dragon with his sect’s divine artifact.”
+“I told you it was. Two days ago, an Elder of the Zhongnan Sect who didn’t know about it caused a scene, then went back after getting thoroughly beaten. The Fire King has already entrusted the Sleeping Dragon with the sect’s sacred treasure.”
 
 “Th-Then…”
 
@@ -194,9 +194,9 @@ Having finally made up his mind, the merchant spoke.
 
 “Why?”
 
-“I don’t know. According to the Jin Family of Taiyuan, he suddenly entered closed-door cultivation[^2].”
+“I don’t know. According to the Jin Family of Taiyuan, he suddenly entered closed-door cultivation.”
 
-“Closed-door cultivation[^2]? That thing martial artists do? Why now, of all times?”
+“Closed-door cultivation? That thing martial artists do? Why now, of all times?”
 
 The middle-aged man let out a deep sigh.
 
@@ -294,7 +294,7 @@ Hyuk Mujin sucked in a sharp breath.
 
 “Let him. What are people outside saying?”
 
-“Officially, we’ve settled on calling it closed-door cultivation[^2]. It would be rather bad if rumors spread that the Fire King beat up the Sleeping Dragon of Shanxi.”
+“Officially, we’ve settled on calling it closed-door cultivation. It would be rather bad if rumors spread that the Fire King beat up the Sleeping Dragon of Shanxi.”
 
 “What about my eldest brother?”
 
@@ -324,7 +324,7 @@ Hyuk Mujin’s foresight was remarkable. Barely a moment after he finished speak
 
 “N-Nothing.”
 
-The small, elderly man, Jeok Cheongang, narrowed his eyes and looked at us. Then he snorted.
+The small, elderly man narrowed his eyes and looked at us. Then he snorted.
 
 “Fine. Since this old man didn’t hear anything, I’ll let it slide this once.”
 
@@ -370,12 +370,8 @@ I was screwed. There was no way out.
 
 As I froze in place, Jeok Cheongang shouted:
 
-“Ah, I’m going to cleanse your sinews and wash your marrow[^3], so take off your clothes and lie down already!”
+“Ah, I’m going to cleanse your sinews and wash your marrow, so take off your clothes and lie down already!”
 
 “…”
 
 *You should’ve said so from the start.*
-
-[^1]: A nyang is a traditional unit of currency. A silver nyang denotes its value in silver.
-[^2]: Closed-door cultivation is secluded martial training undertaken without visitors or other distractions.
-[^3]: Cleansing the sinews and washing the marrow is a martial-arts concept of improving a person’s physical constitution.
