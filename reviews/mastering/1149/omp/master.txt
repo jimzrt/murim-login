@@ -32,7 +32,7 @@ Actually, there was one.
 
 “Thankfully, we didn’t suffer any casualties… What’s that insolent look for, human?”
 
-The Skeleton King had started toward me, then hesitated and stopped. I glanced over at him.
+The Skeleton King started toward me, then hesitated. I turned my head away.
 
 “Hmm. It’s nothing.”
 
@@ -120,23 +120,23 @@ It was finally time to face reality.
 
 Magic Johnson trailed off. Then, as if something had just occurred to him, he turned to the Skeleton King beside him.
 
-“Could it be…?”
+“Don’t tell me…?”
 
 The Skeleton King muttered as though making an excuse.
 
-“Damn it. I didn’t have time to tell you.”
+“Damn it. There wasn’t time to tell him.”
 
 “…Shit.”
 
-“I couldn’t have told you, either.”
+“I couldn’t tell him.”
 
 More precisely, I hadn’t been able to bring myself to ask.
 
 I’d been that afraid. That scared.
 
-*How long?*
+*What the hell…*
 
-What had happened while I was gone? How much time had passed?
+What had happened? How much time had passed?
 
 I let out a quiet, trembling breath. Magic Johnson looked at me and sighed deeply.
 
@@ -148,7 +148,7 @@ But putting it off would only make it worse.
 
 “Tell me. Right now.”
 
-And the very next moment, the answer I’d been waiting for came from over Magic Johnson’s shoulder.
+The answer came the next moment, from over Magic Johnson’s shoulder.
 
 “The last contact was a day ago. Twenty-one hours ago, to be exact.”
 
@@ -195,20 +195,20 @@ A war drum sounded, low and ominous. Before my eyes appeared a new kind of Syste
 >
 > A rift is in progress. Its progress will change when certain conditions are met and can be checked through the System.
 
-The words were the same ones that had been etched clearly in my last memory of the modern world.
+I remembered those words clearly from my final moments in the modern world.
 
 But a new holographic window appeared over them, bearing the name of a being I’d never seen or heard of.
 
 > **System**
 > An unknown being willingly answers the summoning.
 >
-> The immense shadow of Black Dragon Duke Morgoth[^1] has fallen over this world.
+> The immense shadow of Black Dragon Duke Morgoth has fallen over this world.
 >
 > Would you like to view the new Main Quest, Rift and Collapse?
 
-The enormous wings I’d seen in that meaningless nightmare on my last night in Murim.
+I stood frozen like a statue. Then I remembered the enormous wings I’d seen in that incomprehensible nightmare on my last night in Murim.
 
-The dragon’s roar, shaking the sky swallowed by darkness.
+The dragon’s roar that had shaken the darkened sky.
 
 * * *
 
@@ -253,5 +253,3 @@ He had seen with his own eyes what the man before him had done barely ten minute
 “So, Morgoth. What brings you here?”
 
 Vladimir Furin, Russia’s dictator, gritted his teeth as he clasped the hand of the monster wearing a human face.
-
-[^1]: “Duke” renders the noble title 公 in the name 黑龍公.

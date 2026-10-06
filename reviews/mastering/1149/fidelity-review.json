@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "a huge shadow fell across me like a lifeline from heaven.",
+      "defect": "The source specifies that the person casting the shadow had the sun at their back. The assembled copy drops that physical detail, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "태양을 등진 누군가의 커다란 그림자 specifies the sun-backed silhouette, not just a large shadow.",
+      "replacement": "a huge shadow, cast by someone with the sun at their back, fell across me like a lifeline from heaven.",
+      "severity": "minor",
+      "source": "Lines 57–58"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The enormous wings I’d seen in that meaningless nightmare on my last night in Murim.",
+      "defect": "The assembled copy omits that the narrator had been frozen like a statue before suddenly remembering the wings. This action beat is present in the source and accepted baseline.",
+      "id": "F02",
+      "rationale": "석상처럼 굳어 있던 나는, 불현듯 떠올렸다 establishes both his statue-like stillness and the sudden act of remembering.",
+      "replacement": "I stood frozen like a statue, then suddenly remembered the enormous wings I’d seen in that meaningless nightmare on my last night in Murim.",
+      "severity": "minor",
+      "source": "Lines 241–245"
+    },
+    {
+      "confidence": 0.91,
+      "current": "even *global community* seemed too small a phrase for it.",
+      "defect": "The source image is 지구촌, literally “global village,” not “global community.” Replacing the village image with a community changes the metaphor.",
+      "id": "F03",
+      "rationale": "The source says the term 지구촌 itself is no longer enough to describe humanity’s prosperity.",
+      "replacement": "even *global village* seemed too small a phrase for it.",
+      "severity": "minor",
+      "source": "Lines 107–109"
+    }
+  ],
+  "summary": "The assembled copy is mostly faithful, but it omits a physical detail and a brief action beat, and changes a source image.",
+  "version": 1
+}
