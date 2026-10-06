@@ -94,29 +94,29 @@ Becoming a mounted bandit had been easier and simpler than he had expected. Ther
 
 When he was young, he had committed a crime and was being taken to the local authorities when a mounted-bandit group attacked. That had been the turning point of his life.
 
-“Boss, there’s a kid here too.”
+*“Boss, there’s a kid here too.”*
 
-“Hm? He’s so scrawny we wouldn’t get more than a few coins for him even if we sold him. Kid, did you get caught pickpocketing?”
+*“Hm? He’s so scrawny we wouldn’t get more than a few coins for him even if we sold him. Kid, did you get caught pickpocketing?”*
 
-“No. I killed someone.”
+*“No. I killed someone.”*
 
-“You killed someone? How old are you?”
+*“You killed someone? How old are you?”*
 
-“Thirteen.”
+*“Thirteen.”*
 
-“Why did you kill him?”
+*“Why did you kill him?”*
 
-“I hadn’t eaten for three days, and the boss had dumplings…”
+*“I hadn’t eaten for three days, and the boss had dumplings…”*
 
-“Dumplings? Did he take away what you begged for? That would be enough to make anyone snap.”
+*“Dumplings? Did he take away what you begged for? That would be enough to make anyone snap.”*
 
-“No. I was hungry, and I didn’t have the strength to beg. He was eating dumplings right in front of me.”
+*“No. I was hungry, and I didn’t have the strength to beg. He was eating dumplings right in front of me.”*
 
-“…So you killed him?”
+*“…So you killed him?”*
 
-“I thought it would be faster to take them and eat them.”
+*“I thought it would be faster to take them and eat them.”*
 
-“Hey, let this kid go and feed him something. He’s one of us from today.”
+*“Hey, let this kid go and feed him something. He’s one of us from today.”*
 
 Pung Yang became a mounted bandit that day.
 
@@ -128,33 +128,33 @@ Robbery? Murder?
 
 To Pung Yang, who had committed murder at the age of thirteen simply because he wanted to eat dumplings, such things were nothing more than what had to be done.
 
-“Good grief. I’ve been a mounted bandit for more than ten years, but I’ve never seen anyone like you. It’s like you don’t have a conscience.”
+*“Good grief. I’ve been a mounted bandit for more than ten years, but I’ve never seen anyone like you. It’s like you don’t have a conscience.”*
 
-“Why? I’m a mounted bandit.”
+*“Why? I’m a mounted bandit.”*
 
-“Kid, that’s not how it usually works. You get used to it little by little. No one is skilled from the very beginning.”
+*“Kid, that’s not how it usually works. You get used to it little by little. No one is skilled from the very beginning.”*
 
-“Were you like that too, Boss? It was easy for me.”
+*“Were you like that too, Boss? It was easy for me.”*
 
-“Easy, easy… I’m starting to wonder if I’m raising a tiger cub. How about learning a thing or two about martial arts from me?”
+*“Easy, easy… I’m starting to wonder if I’m raising a tiger cub. How about learning a thing or two about martial arts from me?”*
 
-“Martial arts?”
+*“Martial arts?”*
 
-“Yes, martial arts. You’re still young, so if your bones and martial talent are up to the task, you could become a master.”
+*“Yes, martial arts. You’re still young, so if your bones and martial talent are up to the task, you could become a master.”*
 
-“Then I’ll call you Master from today onward.”
+*“Then I’ll call you Master from today onward.”*
 
-“Master and disciple, my ass. Forget it. Just keep doing what you’re doing now.”
+*“Master and disciple, my ass. Forget it. Just keep doing what you’re doing now.”*
 
 Not forming a master-disciple relationship had been the right decision.
 
 A year later, his boss was beheaded by a First Rate master, and Pung Yang found a new nest in another mounted-bandit group.
 
-“You were under Gwangchil?”
+*“You were under Gwangchil?”*
 
-“Yes. As long as you feed me well, I’ll swear my loyalty to you.”
+*“Yes. As long as you feed me well, I’ll swear my loyalty to you.”*
 
-“You seem reasonably sharp. I won’t go easy on you just because you’re young, so keep up on your own.”
+*“You seem reasonably sharp. I won’t go easy on you just because you’re young, so keep up on your own.”*
 
 Gaoyuan was brutal.
 
@@ -274,7 +274,7 @@ Now, a Murim sect that had once commanded northern Shanxi had to focus all its s
 
 *I will never forget what happened today.*
 
-Just as she bit down hard on her lip, the doors to the main hall opened, and a martial artist from the Gate Guard Pavilion came running in, shouting.
+Just as she bit down hard on her lip, the doors to the main hall opened, and a martial artist from the Gatekeeper Pavilion came running in, shouting.
 
 “Sect Leader, the enemy has sent an envoy!”
 
@@ -284,11 +284,11 @@ Just as she bit down hard on her lip, the doors to the main hall opened, and a m
 
 Lee Seowol nodded without hesitation.
 
-If they could delay the battle by even fifteen minutes, they had to do everything they could.
+If they could delay the battle by even a single moment, they had to do everything they could.
 
 “Bring him in.”
 
-Not long after the Gate Guard Pavilion martial artist withdrew, the Red Wind Band’s envoy was escorted into the main hall.
+Not long after the Gatekeeper Pavilion martial artist withdrew, the Red Wind Band’s envoy was escorted into the main hall.
 
 Flashing his rotten teeth in a crooked grin, he bowed deeply in an exaggerated manner.
 
@@ -340,9 +340,9 @@ They were all furious, but the first to act was the Tiger of Mount Heng, Cheol M
 
 *Thud!*
 
-In the literal blink of an eye, Cheol Mubaek crossed more than ten *jang*[^1] and drove his fist into the envoy’s chest.
+In the literal blink of an eye, Cheol Mubaek crossed more than ten *jang* and drove his fist into the envoy’s chest.
 
-The red Fist Energy carrying horrifying heat shattered his chest bones and burned his blood and flesh.
+The red fist aura carrying horrifying heat shattered his chest bones and burned his blood and flesh.
 
 “Ghuuuh…”
 
@@ -359,5 +359,3 @@ Lee Seowol slowly rose from her seat and continued.
 “Now there’s no avoiding the fight.”
 
 One hour later, everyone in the Mount Heng Sword Sect heard the sound of horn calls ringing out from all directions.
-
-[^1]: *Jang* is a traditional Korean unit of length equal to ten *ja*, approximately 3.03 m (9.94 ft).
