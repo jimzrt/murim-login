@@ -14,7 +14,7 @@ At least for the brief time Jeok Cheongang needed to accomplish his goal.
 
 *I was worried sick… Maybe I didn’t need to be.*
 
-In Jeok Cheongang’s judgment, Jin Taekyung still wasn’t a match for the Blood Lord. That was why he hadn’t been able to hide his unease, even after hearing the Sound Transmission that had reached his ear moments ago.
+In Jeok Cheongang’s judgment, Jin Taekyung still wasn’t a match for the Blood Lord. That was why the Sound Transmission he’d heard moments ago had done little to ease his unease.
 
 *“I’ll draw out the Blood Lord and buy us time. You two should target their main force.”*
 
@@ -26,7 +26,7 @@ Of course he did.
 
 However thick or thin his life might be, Taekyung meant to survive and make it last.
 
-But if everything in the world went according to one’s wishes, every martial artist in the land would be a Supreme Peak master, and the common people would live long, healthy lives.
+But if everything went the way people wanted, every martial artist in the land would reach Supreme Peak, and the common people would live long, healthy lives.
 
 So Jeok Cheongang had firmly opposed the idea.
 
@@ -84,7 +84,7 @@ As if he’d only been stung by a bee.
 
 The Slaughter Saint blinked in silence. Jeok Cheongang shook his head again, remembering the first time he’d seen one of those loathsome monsters.
 
-“Didn’t that brat Taekyung tell you? There are damned things that openly defy the natural order set by Heaven.”
+“Didn’t Taekyung tell you? There are damned things that defy the natural order set by Heaven.”
 
 Only then did the Slaughter Saint realize who stood before them. He let out a low groan.
 
@@ -164,7 +164,7 @@ He had poured out all his strength, but the joy of accomplishing what he’d set
 
 Sizzle. Szzzz.
 
-The green ground was gone. All that remained was a hellscape spread between the scorched earth, black as a volcanic region, and a pale haze of steam.
+The green ground was gone. In its place lay blackened earth like a volcanic field, pale steam rising over a hellscape.
 
 Fsssh.
 
@@ -172,7 +172,7 @@ A hot wind blew from somewhere, and the bodies that had barely held their shape 
 
 Monsters and humans alike. Even one unlucky Black Ghost who had stood directly in Jeok Cheongang’s path.
 
-With a single strike, hundreds of enemies had turned to ash and scattered. The same had happened beyond the thick veil of steam, which now spread dozens of yards in every direction.
+With a single strike, hundreds of enemies had turned to ash and scattered. Surely the same was true beyond the thick veil of steam now spreading dozens of yards in every direction.
 
 At least, that was what Jeok Cheongang thought.
 
@@ -186,19 +186,19 @@ An unseen current of qi crept through the ground and air. The moment he felt it,
 
 Perhaps pouring out all his strength had left him too exhausted to notice at first.
 
-And why had the enemies beyond it shown no reaction at all?
+Looking back, something had been strange from the start. How had such a vast, dense cloud of steam formed? And why had the enemies beyond it shown no reaction?
 
 *Cold qi.*
 
-As the two words pierced his mind, Jeok Cheongang stamped down on the ground, which was slowly freezing over. He had already forgotten the horrifying heat from moments ago.
+The words flashed through his mind. Already forgetting the terrible heat of moments ago, Jeok Cheongang stepped onto ground that was slowly freezing over.
 
 Crack.
 
-At the same time, someone’s face came to mind.
+A chill met his foot. At the same time, someone came to mind.
 
-Jeok Cheongang looked at the steam with a sunken gaze and parted his lips.
+Jeok Cheongang fixed his gaze on the steam and spoke.
 
-“Anyone with the slightest bit of manners would greet an elder properly. You’ve got less respect than an eyelash, you little brat.”
+“When you meet an elder, you ought to greet him properly. You haven’t a shred of manners, have you?”
 
 At that moment—
 
@@ -244,7 +244,7 @@ The ice wall was still melting, little by little, unable to withstand the heat o
 
 *…Jeok Cheongang, the Fire King. So his reputation isn’t empty.*
 
-Just as the Grand Mage thought this to herself and cautiously gathered her energy, Jeok Cheongang, who had been watching her and the three Black Ghosts guarding her with a sunken gaze, suddenly spoke.
+The Grand Mage cautiously gathered her energy. Jeok Cheongang watched her and the three Black Ghosts guarding her, then spoke again.
 
 “But today isn’t our only chance.”
 
@@ -256,12 +256,12 @@ Their agreed time was up. Though Jeok Cheongang had hoped for more, they had acc
 
 “Clear the way. Before I burn you all to ashes.”
 
-Across the distance of dozens of yards, Jeok Cheongang’s reddish-hot gaze met the Grand Mage’s ice-cold one.
+Dozens of yards apart, Jeok Cheongang’s reddish gaze met the Grand Mage’s ice-cold one.
 
-After a brief but long silence, the Grand Mage’s quiet voice rang out.
+After a silence that was brief yet seemed to stretch on, her quiet voice rang out.
 
 “For that person’s sake, I’ll kill you. Even if it isn’t today.”
 
 “Got any more bullshit to say?”
 
-Jeok Cheongang gave a quiet laugh at the Grand Mage’s silence, then swiftly turned around.
+When the Grand Mage gave no answer, Jeok Cheongang let out a short laugh and swiftly turned away.

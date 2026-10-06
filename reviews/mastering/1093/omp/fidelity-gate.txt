@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is broadly faithful, but it omits part of Jeok Cheongang’s reasoning as he recognizes the cold qi.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 216–220",
+      "current": "Perhaps pouring out all his strength had left him too exhausted to notice at first.",
+      "defect": "The English omits Jeok Cheongang’s retrospective observation that things had seemed strange from the start and his question about how such a thick, vast cloud of steam could have formed. Those details are part of the clues leading him to identify the cold qi.",
+      "replacement": "Perhaps pouring out all his strength had left him too exhausted to notice at first. Looking back, things had been strange from the start. How had such a thick, vast cloud of steam formed?",
+      "rationale": "The source explicitly includes both the retrospective observation and the question about the steam’s formation before asking why the enemies beyond it showed no reaction.",
+      "confidence": 0.99
+    }
+  ]
+}
