@@ -12,7 +12,7 @@ The infiltration had been natural and successful. Inside the kitten’s body, Ho
 
 “Miaowww.”
 
-“Ahh, so cute! Oppa[^1], did you hear that just now? You heard it, right?”
+“Ahh, so cute! Oppa, did you hear that just now? You heard it, right?”
 
 “Yeah. I heard it.”
 
@@ -102,7 +102,7 @@ He rubbed his entire body against her arm and gave her a pitiful look. Her eyes 
 
 “That’s just your imagination.”
 
-“I’m telling you, Yeoreum doesn’t like you, Oppa[^1].”
+“I’m telling you, Yeoreum doesn’t like you, Oppa.”
 
 The trick was to let out a whimper at exactly the right moment.
 
@@ -130,7 +130,7 @@ But there was one fact Hong Woojin had never imagined.
 
 “…Are you trying to bribe me so you can have your way with our Yeoreum?”
 
-“Yeah. A hundred thousand won[^2].”
+“Yeah. A hundred thousand won.”
 
 “Deal. But be gentle so she doesn’t hate you too much, okay?”
 
@@ -146,7 +146,7 @@ Jin Hayeon disappeared like a bullet. Hong Woojin let out a cry filled with disb
 
 *What a shameless little brat.*
 
-One minute she had acted ready to give Yeoreum her liver and gallbladder, and now she was abandoning “our Yeoreum” for a mere hundred thousand won[^2]?
+One minute she had acted ready to give Yeoreum her liver and gallbladder, and now she was abandoning “our Yeoreum” for a mere hundred thousand won?
 
 But he was given no time to lament the realities of capitalist society.
 
@@ -164,9 +164,9 @@ Hong Woojin screamed desperately.
 
 The kitten’s fur stood on end as he hissed, catching the attention of his only hope as she rummaged through Jin Taekyung’s wallet.
 
-“Oppa[^1]!”
+“Oppa!”
 
-“Yeah, take another hundred thousand won[^2].”
+“Yeah, take another hundred thousand won.”
 
 “Thanks!”
 
@@ -190,7 +190,7 @@ Then Hong Woojin opened his eyes somewhere dark and let out a breath.
 
 “Puhack!”
 
-Since starting work as a Hunter, he had handled around a hundred assignments, large and small, but this was the first time he had ever felt his life was in danger.
+Since starting work as a Hunter, he had handled more than a hundred assignments, large and small, but this was the first time he had ever felt his life was in danger.
 
 He looked down at his forearms, which were covered in goose bumps, and began to gag.
 
@@ -220,7 +220,7 @@ Hayeon was leaving my room when she spotted what had happened.
 
 “You didn’t do anything mean to our Yeoreum, did you?”
 
-“And you’re the one who sold Yeoreum for 200,000 won[^3]?”
+“And you’re the one who sold Yeoreum for 200,000 won?”
 
 “…Ahem. Ahem.”
 
@@ -248,7 +248,7 @@ What mattered was that I already knew what the Familiar was and could swat it aw
 
 *They’re definitely somewhere around here.*
 
-Within 500 meters[^4] of the house. Somewhere inside that radius was a mage controlling the Familiar. If I shook him down, I was sure I’d find the connection.
+Within 500 meters of the house. Somewhere inside that radius was a mage controlling the Familiar. If I shook him down, I was sure I’d find the connection.
 
 *First I’ll punch him in the mouth. Then I’ll ask questions.*
 
@@ -256,11 +256,11 @@ He had illegally surveilled a civilian, so there was no way he could report me e
 
 *How dare they snoop around my house?*
 
-They had interrupted my first vacation in a long time, and thanks to these bastards, I had already spent well over 300 million won[^5]. In every respect, this was a losing proposition.
+They had interrupted my first vacation in a long time, and thanks to these bastards, I had already spent well over 300 million won. In every respect, this was a losing proposition.
 
 I was watching TV with my face twisted into a scowl when Hayeon cautiously studied my expression and spoke.
 
-“Oppa[^1], are you mad?”
+“Oppa, are you mad?”
 
 “No. What would I be mad about?”
 
@@ -292,15 +292,15 @@ It wasn’t mine. Mom had stepped out to run an errand.
 
 “Really?”
 
-“Yeah. Up to a hundred thousand won[^2].”
+“Yeah. Up to a hundred thousand won.”
 
-“Wow, now that you’re making money, you’ve gotten generous. Our Oppa[^1].”
+“Wow, now that you’re making money, you’ve gotten generous. Our Oppa.”
 
-I never thought I’d live to hear her call me “our Oppa[^1].” It was the first time I’d heard it since Hayeon had been in middle school, and it gave me goose bumps.
+I never thought I’d live to hear her call me “our Oppa.” It was the first time I’d heard it since Hayeon had been in middle school, and it gave me goose bumps.
 
 “You’re the Familiar, you little bastard!”
 
-“What are you talking about? Anyway, I can order whatever I want as long as it’s under a hundred thousand won[^2]?”
+“What are you talking about? Anyway, I can order whatever I want as long as it’s under a hundred thousand won?”
 
 “Yeah. No, wait. Fine. Order everything you want.”
 
@@ -318,7 +318,7 @@ She had never once asked me for spending money. Judging by the clothes she wore 
 
 Come to think of it, Hayeon had been like that since she was little. She rarely cried, and she didn’t often express her feelings honestly. Her current personality had only developed after she entered high school.
 
-She ought to be allowed to act spoiled once in a while… She grew up too soon.
+*She ought to be allowed to act spoiled once in a while… She grew up too soon.*
 
 *Maybe even far sooner than I did.*
 
@@ -336,13 +336,13 @@ Hayeon beamed at my words.
 
 “What’s there to feel bad about?”
 
-“I took three hundred thousand won[^6] from your wallet earlier.”
+“I took three hundred thousand won from your wallet earlier.”
 
 “…Huh?”
 
-“But when you said I could have whatever was left after eating within the 100,000-won[^2] limit, I felt better.”
+“But when you said I could have whatever was left after eating within the 100,000-won limit, I felt better.”
 
-“Hold on. Didn’t I tell you to take two hundred thousand won[^3]?”
+“Hold on. Didn’t I tell you to take two hundred thousand won?”
 
 “It was an impulsive accident.”
 
@@ -360,7 +360,7 @@ The head of Sangdong Guild’s Security Team frowned.
 
 “Yes, I’m certain.”
 
-The person who answered in a firm voice was a member of the Security Team and the Guild’s only Familiar mage. He was only a C-grade Hunter, but as a rare mental mage, he was also a core member of the Security Team.
+The person who answered in a firm voice was a member of the Security Team and the Guild’s only Familiar mage. He was only a C-rank Hunter, but as a rare mental mage, he was also a core member of the Security Team.
 
 “The target’s younger sister is a cat fanatic. Hong Woojin took advantage of that opening perfectly.”
 
@@ -374,9 +374,9 @@ The person who answered in a firm voice was a member of the Security Team and th
 
 “Come to think of it, that bastard is technically on our side, too. But can we afford to be outdone by a freelancer? Don’t you know the Guild Master is taking a special interest in this?”
 
-Six people had been assigned to the operation, including the Security Team Leader. One was the Familiar mage. Four were close-combat Hunters specializing in tracking and stealth. The last was the Security Team Leader himself, a B-grade Hunter.
+Six people had been assigned to the operation, including the Security Team Leader. One was the Familiar mage. Four were close-combat Hunters specializing in tracking and stealth. The last was the Security Team Leader himself, a B-rank Hunter.
 
-“You seem to be misunderstanding something… We didn’t come here just to dig up dirt on one C-grade Hunter.”
+“You seem to be misunderstanding something… We didn’t come here just to dig up dirt on one C-rank Hunter.”
 
 The Security Team Leader glared menacingly at his team.
 
@@ -411,10 +411,3 @@ Tap. Tap. Tap.
 > **Cats for Adoption in Ilsan**
 
 “…Will they let me expense this?”
-
-[^1]: *Oppa* is a Korean term a girl or woman uses for an older brother or a close older man. Hayeon uses it for her brother, Taekyung.
-[^2]: 100,000 Korean won is about $71 or €65.
-[^3]: 200,000 Korean won is about $140 or €130.
-[^4]: 500 meters is about 1,640 ft, or 0.31 mi.
-[^5]: 300 million Korean won is about $210,000 or €190,000.
-[^6]: 300,000 Korean won is about $210 or €190.
