@@ -2,10 +2,10 @@
   "chapter": 1025,
   "errors": [],
   "metrics": {
-    "length_ratio": 2.025,
+    "length_ratio": 2.095,
     "source_characters": 5668,
     "source_paragraphs": 165,
-    "translation_characters": 11480,
+    "translation_characters": 11872,
     "translation_paragraphs": 162
   },
   "passed": true,
@@ -152,6 +152,14 @@
       "details": {
         "korean": "화신",
         "preferred": "Fire God"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "호법원주",
+        "preferred": "Guardian Court Chief"
       },
       "message": "matched preferred term is absent"
     }
