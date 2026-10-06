@@ -2,13 +2,13 @@
 
 “No!”
 
-*What a set of lungs.*
+What a set of lungs.
 
 The shout rang out so loudly that it belied the speaker’s eighty years, and Cheongpung gulped down whatever was in his mouth.
 
 “Benefactor, he really doesn’t want to do it, does he?”
 
-*I heard him, you idiot.*
+I heard him, you idiot.
 
 I’d heard he was pretty cantankerous, but I hadn’t expected this.
 
@@ -82,7 +82,7 @@ I was about to leave when another thought occurred to me, something that might m
 
 But Jang Taebo answered without even looking back.
 
-“Go west for one shichen[^1] and you’ll find a large village with a smithy. The owner there is fairly skilled.”
+“Go west for one shichen and you’ll find a large village with a smithy. The owner there is fairly skilled.”
 
 “Is he skilled enough to forge Ten-Thousand-Year Cold Iron?”
 
@@ -134,7 +134,7 @@ We spent the night at a half-collapsed inn. As the only inn in the small village
 
 The innkeeper was a local who had lived in the Jang clan village for forty years.
 
-He had been wary of the three of us, dressed as martial artists, but the moment I pressed a silver nyang[^2] into his hand, his grin stretched from ear to ear.
+He had been wary of the three of us, dressed as martial artists, but the moment I pressed a silver nyang into his hand, his grin stretched from ear to ear.
 
 “Old Man Jang?”
 
@@ -190,7 +190,7 @@ But the innkeeper gave me a strange look.
 
 “…”
 
-*Escort Bureau rocket delivery, huh?*
+Escort Bureau rocket delivery, huh?
 
 A homebody with a severe case of laziness. There wasn’t a single opening to exploit.
 
@@ -212,7 +212,7 @@ The state of the owner’s hands alone raised serious questions about the place�
 
 “Ah, fasting pills.”
 
-That, I could understand. I’d rather make pancakes out of Jin-ho hyung’s[^3] vomit than eat those.
+That, I could understand. I’d rather make pancakes out of Jinho’s vomit than eat those.
 
 “…”
 
@@ -238,7 +238,7 @@ The innkeeper quickly cut in.
 
 “There. Happy?”
 
-I handed the innkeeper another silver nyang[^2]. He stood in front of the inn and waved until we disappeared from view.
+I handed the innkeeper another silver nyang. He stood in front of the inn and waved until we disappeared from view.
 
 * * *
 
@@ -258,7 +258,7 @@ Back when I was a lowest-level Hunter, people had hurled obscenities right to my
 
 “Hmm?”
 
-“The innkeeper was quite talkative. Apparently, an acquaintance of his dug up a thirty-year-old He Shou Wu[^4] not long ago.”
+“The innkeeper was quite talkative. Apparently, an acquaintance of his dug up a thirty-year-old He Shou Wu[^1] not long ago.”
 
 He Shou Wu was still used as a medicinal herb in the modern world.
 
@@ -270,17 +270,17 @@ In other words, it was hard to find in this area even if you had money.
 
 “I was worried you might be feeling weak lately. It made me think of you, so I brought it along.”
 
-Jin-ho hyung[^3] was always saying that the body started breaking down once a person passed thirty.
+Jinho was always saying that the body started breaking down once a person passed thirty.
 
 Your eyes got dry, your stomach started burning, and the day after you lent someone a USB, you could barely stand on your own legs.
 
-If that was what happened to Jin-ho hyung[^3] in the prime of his life, how much worse must it be for the elderly? A thirty-year-old He Shou Wu was perfect for looking after one’s health.
+If that was what happened to Jinho in the prime of his life, how much worse must it be for the elderly? A thirty-year-old He Shou Wu was perfect for looking after one’s health.
 
 “Hmm. Why don’t you eat it?”
 
 “Oh, goodness, me? No, no. I brought it for you, elder.”
 
-*The bait had caught his interest.*
+The bait had caught his interest.
 
 Feeling a tug on the line, I held out the He Shou Wu.
 
@@ -290,7 +290,7 @@ Properly consumed, it could provide about a year’s worth of internal energy, b
 
 “Hmm. Should I?”
 
-*Yes, hurry up and eat it, then spit out a Ten-Thousand-Year Cold Iron spear.*
+Yes, hurry up and eat it, then spit out a Ten-Thousand-Year Cold Iron spear.
 
 At my bright smile, Jang Taebo popped the He Shou Wu into his mouth and began chewing noisily. The atmosphere was completely different from last night.
 
@@ -310,7 +310,7 @@ But the next moment, I heard the sound of my hopeful future being abruptly cut o
 
 Hyuk Mujin, Cheongpung, and I stared at the half-chewed He Shou Wu lying on the ground.
 
-*He spat it out? A thirty-year-old He Shou Wu? Why?*
+He spat it out? A thirty-year-old He Shou Wu? Why?
 
 When we stared at him in confusion, Jang Taebo asked as though nothing had happened.
 
@@ -326,7 +326,7 @@ When we stared at him in confusion, Jang Taebo asked as though nothing had happe
 
 His unabashed answer left me speechless.
 
-*What kind of bullshit was that?*
+What kind of bullshit was that?
 
 “Of course it’s bitter. It’s good for you.”
 
@@ -350,7 +350,7 @@ I opened the wooden box with an inexplicable sense of tension.
 
 “A fake! …Wait, no, it’s He Shou Wu?”
 
-*He Shou Wu?*
+He Shou Wu?
 
 And not just any He Shou Wu.
 
@@ -386,7 +386,7 @@ I was too dumbfounded to speak. Jang Taebo gave me a triumphant smile.
 
 “…I see.”
 
-*So it was a regular delivery from the Nine-Room Escort Bureau. No wonder the old man looked healthier than most young men.*
+So it was a regular delivery from the Nine-Room Escort Bureau. No wonder the old man looked healthier than most young men.
 
 “Enough with these transparent tricks. I’m a man who no longer needs anything.”
 
@@ -422,7 +422,4 @@ This time, I shouted,
 
 “No!”
 
-[^1]: A shichen is a traditional Chinese time unit of approximately two hours.
-[^2]: A nyang is a traditional unit of weight and currency; here, it denotes an amount of silver used as payment.
-[^3]: *Hyung* is a Korean term a man uses to address an older brother or an older male friend.
-[^4]: He Shou Wu is a traditional medicinal herb made from the tuberous root of *Polygonum multiflorum*.
+[^1]: He Shou Wu is a traditional medicinal herb made from the tuberous root of *Polygonum multiflorum*.
