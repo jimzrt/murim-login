@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "the vast reed beds stretching for more than ten li in every direction",
+      "defect": "The Korean describes a radius of about ten li (십여 리), not a distance exceeding ten li in every direction. The current wording also blurs the stated radius into a directional span.",
+      "id": "F01",
+      "rationale": "반경 means radius, and 십여 리 means around ten li. The accepted baseline also preserves the approximate quantity with “a little over ten li.”",
+      "replacement": "the vast reed beds extending in a radius of about ten li",
+      "severity": "minor",
+      "source": "Korean line 20"
+    },
+    {
+      "confidence": 0.87,
+      "current": "had been knocking his birds out of the sky wherever he found them",
+      "defect": "This changes the action into knocking birds out of the sky, which can imply merely bringing them down. The Korean says he was indiscriminately beating down the flying beasts under his command; the accepted baseline preserves that action.",
+      "id": "F02",
+      "rationale": "닥치는 대로 means indiscriminately, and 때려잡기 indicates beating them down, not specifically knocking them out of the sky.",
+      "replacement": "had been indiscriminately beating down the flying beasts under his command",
+      "severity": "minor",
+      "source": "Korean line 108"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with two minor fidelity issues in quantity and action wording.",
+  "version": 1
+}

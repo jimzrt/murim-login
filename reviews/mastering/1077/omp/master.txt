@@ -20,7 +20,7 @@ Of course, that was all in the past now.
 
 *Whoooosh.*
 
-A wind carrying a biting chill suddenly swept through the reeds. The migratory birds, busy filling their empty stomachs, shivered.
+A bitterly cold wind swept through the reeds. The birds, busy filling their empty stomachs, shivered.
 
 The cold was far too severe to be explained by the high elevation alone. At noon, when the sun should have been at its highest, black clouds covered the sky. Untimely frost had frozen the reed beds solid.
 
@@ -48,7 +48,7 @@ And why had he shared a portion of that unbelievable power with Ma Sanbao, who h
 
 Ma Sanbao repeated the words to himself. The Eastern Heaven Demon Lord, whom he had served as Master all his life, had met a weak end. Ma Sanbao would not.
 
-He would contribute greatly to the Lord of Heaven’s grand design, and rule over a part of this world as his new servant.
+He would contribute to the Lord of Heaven’s grand design and rule part of this world as his new servant.
 
 *Caw.*
 
@@ -100,7 +100,7 @@ Bent knees straightened. Rigid backs unbent. Finally, tightly shut eyes opened h
 
 “More of them survived than I expected.”
 
-As Ma Sanbao murmured, watching the monsters rise to their full height throughout the broad reed beds, the black-clad men who had gone off earlier returned to report.
+Ma Sanbao watched the monsters rise throughout the broad reed beds. Just then, the black-clad men returned to report.
 
 “We’ve checked everything.”
 
@@ -150,7 +150,7 @@ Why not a single human corpse remained in these vast reed beds, where a fierce b
 
 Muttering to himself, Ma Sanbao flung his subordinate’s head far away.
 
-The power bestowed on him by the Lord of Heaven allowed him to raise the dead, but not without limit.
+The Lord of Heaven had granted him the power to raise the dead, but he couldn’t raise everyone without limit.
 
 “We’re leaving. By now, they must have left Qinghai Lake. We’ll hurry back and carry out the next order.”
 
@@ -202,9 +202,9 @@ Seeing his subordinates defend their captured comrade, Ma Sanbao let out an invo
 
 “Pardon?”
 
-“He will betray us. No—Jin Taekyung will make sure he does.”
+“He’ll betray us. No—they’ll make sure he does.”
 
-“If that son of a bitch I know is involved, he will.”
+Ma Sanbao added quietly, “If that son of a bitch I know has anything to do with it, they will.”
 
 The face of that *son of a bitch* flashed before his eyes, and he reflexively reached inside his robe.
 
@@ -216,4 +216,4 @@ Still unable to make sense of them, Ma Sanbao ground his teeth.
 
 *Just wait. I’ll pay you back soon.*
 
-His gaze, fixed on the east, seemed to be directed at someone crossing Qinghai Lake.
+He glared east, as though he could see someone crossing Qinghai Lake.
