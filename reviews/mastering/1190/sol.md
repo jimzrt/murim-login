@@ -46,9 +46,9 @@ Jeok Cheongang’s fists began to itch, as though he’d been reunited with his 
 
 “So it really is you!”
 
-“Yes, it’s me. So could you lower your voice a little? I’ve been listening to you this whole time, and I think my eardrums are a little busted.”
+“Yes, it’s me. So could you lower your voice a little? I’ve been listening for a while, and I think my eardrums are a little busted.”
 
-“I should’ve known better than to believe a word that quack said—wait. What do you mean, you’ve been listening this whole time?”
+“I should’ve known better than to believe a word that quack said—wait. What do you mean, you’ve been listening for a while?”
 
 “Exactly what it sounds like.”
 
@@ -134,7 +134,7 @@ His tone and expression were calm. But White Flame, the spear now in his hand, g
 
 Jeok Cheongang faltered at the unexpected response, then swallowed a bitter smile.
 
-Perhaps it was only natural that Jin Taekyung didn’t recognize those faces. To him, they were just one among countless villains he’d glimpsed for a fleeting instant.
+Perhaps it was only natural that Jin Taekyung didn’t recognize those faces. To him, they were just a few of the countless villains who had crossed his path for a fleeting instant.
 
 *It’s probably better if he doesn’t remember.*
 
@@ -193,13 +193,13 @@ Higher. Fiercer.
 
 Until their dark blue light filled his Master’s wide eyes.
 
-Jeok Cheongang drew a sharp breath.
+Jeok Cheongang caught his breath.
 
 The flames before him were that vast, that hot—
 
 And that bright.
 
-They shone with a different light from his Master’s, yet carried an even warmer power.
+They shone with a light different from his own, yet carried a power that somehow felt warmer.
 
 “……!”
 
@@ -259,7 +259,7 @@ No—more times than I could count.
 
 As I repeated that familiar movement, an unnervingly low whistle ran along the spearhead slicing through the air.
 
-The strike was precise and swift. The result it would bring was just as clear.
+The strike was precise and swift. The result would be just as clear.
 
 *Shhk.*
 
@@ -312,7 +312,7 @@ Or at least I wanted to.
 
 For his sake.
 
-I hoped the tremor in the voice that had said *I can finally let you go now* would ease, if only a little. The painful shudder I’d felt through my back, too.
+I hoped the tremor in the voice that had said *I think I can let you go now* would ease, if only a little. The painful shudder I’d felt through his back, too.
 
 *This is enough.*
 

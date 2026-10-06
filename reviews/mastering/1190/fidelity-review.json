@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "You could imitate the outside, but what was inside never changed.",
+      "defect": "The source explicitly contrasts an imitable shell with the unchanging essence inside it. “The outside” conveys the contrast but drops the shell image that the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "껍데기 means “shell” here, set against 본질, the essence within.",
+      "replacement": "You could imitate the shell, but the essence within never changed.",
+      "severity": "minor",
+      "source": "Korean line 47"
+    }
+  ],
+  "summary": "The assembled English is faithful overall, with one minor loss of a source image preserved in the accepted baseline.",
+  "version": 1
+}
