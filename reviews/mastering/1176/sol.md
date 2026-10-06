@@ -98,7 +98,7 @@ And for that very reason, he must have noticed right away that something was wro
 
 Only then did I realize I was drenched in cold sweat.
 
-It had soaked through my clothes and even the bedding beneath me. So much for having reached the realm of Unaffected by Cold and Heat a long time ago.
+Even the bedding beneath me was damp. So much for having reached the realm of Unaffected by Cold and Heat long ago.
 
 “When did this start?”
 
@@ -128,7 +128,7 @@ My heart dropped with a thud. That was exactly how it felt.
 
 “So they were here, but—”
 
-“Ah, they’re gone! Right now!”
+“They’re gone! Right now!”
 
 Jeok Cheongang snapped, then continued.
 
@@ -142,7 +142,7 @@ I stared at him in silence. My heart had long since returned to its proper place
 
 “Look at this disrespectful brat. You’re the one who didn’t listen to the end. How’s that my fault?”
 
-As Jeok Cheongang glared at me, I turned my head slightly to the side.
+As Jeok Cheongang glared at me, I turned my head toward the window.
 
 Outside the large, beautiful eight-horse carriage the emperor of the Great Nation—no, the Great Ming Empire—had bestowed on me alone, darkness covered the world.
 
@@ -184,7 +184,7 @@ But foreboding was one thing when it stayed in my head. Seeing it become reality
 
 Tick. Tick.
 
-The cold ticking of the [Broken Pocket Watch] I’d tucked deep in my Inventory just before logging in seemed to ring in my ears like a phantom sound.
+The cold ticking of the [Broken Pocket Watch] I’d tucked deep in my Inventory just before logging in seemed to echo in my ears.
 
 *But… maybe it’s a good thing this much time has passed. It means we’re that much closer to our destination.*
 
@@ -192,7 +192,7 @@ A month was no short stretch of time.
 
 Especially given the situation the world faced now.
 
-But unlike the modern world, which had suffered terrible damage in just ten days since Morgoth’s arrival, there hadn’t been any significant damage here yet.
+Yet unlike the modern world, which had suffered terrible damage in just ten days since Morgoth’s arrival, this world hadn’t suffered any significant damage.
 
 Or at least, that was how it felt at the moment.
 
@@ -216,11 +216,11 @@ Besides, this was Xinjiang, where the Lord of Heaven had holed up. If anything, 
 
 What caught my attention was the last thing Jeok Cheongang had said.
 
-“Nothing at all?”
+“Nothing?”
 
 “That’s right. None of us thought much of it on the first day. But it didn’t take long for everyone, this old man included, to notice.”
 
-And when Jeok Cheongang went on to explain, I realized there wasn’t the slightest exaggeration or lie in what he’d said.
+As he went on, I realized he hadn’t exaggerated in the slightest.
 
 “At first, nobody paid it any mind. We were busy taking turns scouting the area every half shichen and standing watch through the night.”
 
@@ -248,7 +248,7 @@ Even with me unconscious, those three alone were more than enough to be called a
 
 “But the very next day, I realized I’d been wrong from the start.”
 
-Jeok Cheongang muttered in a low voice, then suddenly jerked his chin toward the window.
+Jeok Cheongang spoke quietly, then jerked his chin toward the window.
 
 “Do you see?”
 
@@ -260,12 +260,12 @@ In that instant, I understood.
 
 Beyond the window, the vast desert stretched into the darkness, filled with nothing but sand.
 
-At the same time, not a sound could be heard.
+And from that desert, not a sound.
 
 “Could it be…?”
 
 “That’s right.”
 
-Jeok Cheongang continued, his voice heavy and subdued.
+Jeok Cheongang’s voice was heavy.
 
 “There isn’t a single living thing in this land.”
