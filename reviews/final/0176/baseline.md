@@ -2,7 +2,7 @@
 
 I feel like I’ve gone back to high school.
 
-Like I got caught by the school disciplinarian while trying to sneak out of evening self-study.[^1] Of course, the despair I felt back then was nothing compared to this.
+Like I got caught by the school disciplinarian while trying to sneak out of evening self-study. Of course, the despair I felt back then was nothing compared to this.
 
 The person holding my ear right now wasn’t a school disciplinarian.
 
@@ -216,7 +216,7 @@ Seeing Jangcheon ready to throw away his own life for them, Jeok Cheongang felt 
 
 But at the same time, another thought occurred to him.
 
-“His martial talent and physical aptitude may have been lacking, but with tenacity like that, I thought he was bound to achieve Great Completion[^2] one day.”
+“His martial talent and physical aptitude may have been lacking, but with tenacity like that, I thought he was bound to achieve Great Completion one day.”
 
 Jin Taekyung, who had been listening quietly, asked with an uneasy expression,
 
@@ -254,7 +254,7 @@ The old man remained old, but the boy grew into a young man.
 
 Yet his martial arts failed to develop along with his body. Jangcheon grew furious with himself after spending years making no progress, and eventually, something happened.
 
-“I still remember it clearly. I had more trouble sleeping than usual that night, so I was sitting on a rock when he came up from below. He’d been out of sight for several days, claiming he was in closed-door cultivation.[^3]”
+“I still remember it clearly. I had more trouble sleeping than usual that night, so I was sitting on a rock when he came up from below. He’d been out of sight for several days, claiming he was in closed-door cultivation.”
 
 Jin Taekyung tilted his head.
 
@@ -315,7 +315,3 @@ If even their power had proven insufficient, to the point that the Azure Sky Swo
 Not long after the Azure Sky Sword King left, Jeok Cheongang stood absentmindedly on the rock and caught a scent carried on the wind.
 
 It was the smell of blood.
-
-[^1]: Evening self-study is a supervised after-school study period common in South Korean high schools.
-[^2]: Great Completion is a stage of mastery in martial arts training.
-[^3]: Closed-door cultivation is a period of secluded martial arts training.
