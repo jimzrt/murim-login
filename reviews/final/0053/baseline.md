@@ -6,11 +6,11 @@ Ding.
 >
 > - Sleep Mode has ended.
 
-“…O-oppa!”[^1]
+“…O-oppa!”
 
 I gasped and opened my eyes.
 
-The first thing I saw wasn’t the ceiling of my goshiwon[^2], but Hayeon’s face.
+The first thing I saw wasn’t the ceiling of my goshiwon[^1], but Hayeon’s face.
 
 *Oh, right. I came home yesterday.*
 
@@ -40,7 +40,7 @@ Hayeon asked worriedly, “Has something bad happened lately?”
 
 “If there is, tell me. Don’t suffer by yourself.”
 
-“Yes, nuna.”[^3]
+“Yes, nuna.”
 
 “I’m not joking.”
 
@@ -116,7 +116,7 @@ My thoughts were a mess. Was it some aftereffect of Murim? The term PTSD came to
 
 My expression must have hardened without my noticing. Mom asked gently, “Have you lost your appetite? I made all your favorites.”
 
-“Oh, no. When did you make the kimchi? And this doenjang-jjigae[^4] is perfect.”
+“Oh, no. When did you make the kimchi? And this doenjang-jjigae is perfect.”
 
 I hurriedly made excuses and picked up my spoon. For the first time in ages, the three of us were together at one table. I couldn’t ruin this precious moment.
 
@@ -124,7 +124,7 @@ I hurriedly made excuses and picked up my spoon. For the first time in ages, the
 
 Slurp.
 
-Even so, the savory doenjang-jjigae[^4] tasted faintly bitter.
+Even so, the savory doenjang-jjigae tasted faintly bitter.
 
 * * *
 
@@ -148,7 +148,7 @@ The shopping bags Mom had prepared by the front door were packed with side dishe
 
 *I don’t have anywhere to put them.*
 
-If I put a fridge in my three-pyeong[^5] goshiwon[^2] room, there really wouldn’t be anywhere left to stand. No—there wasn’t even room for a fridge.
+If I put a fridge in my three-pyeong goshiwon room, there really wouldn’t be anywhere left to stand. No—there wasn’t even room for a fridge.
 
 I already had a capsule the size of one.
 
@@ -190,7 +190,7 @@ Their faces answered for them. I sighed.
 
 I mixed fact and fiction fifty-fifty.
 
-The average annual salary of a C-rank Hunter was five hundred million won.[^6] I’d met a generous employer in Team Leader Choi and received a bonus beyond anything I could have imagined, but if the System disappeared, all of it would go up in smoke.
+The average annual salary of a C-rank Hunter was five hundred million won. I’d met a generous employer in Team Leader Choi and received a bonus beyond anything I could have imagined, but if the System disappeared, all of it would go up in smoke.
 
 That was why I’d wanted to give even more to my family, but…
 
@@ -212,7 +212,7 @@ With shopping bags full of side dishes and a backpack stuffed with bundles of ca
 
 Vroom.
 
-Throughout the taxi ride back to the goshiwon[^2], I thought about Mom’s final words and the warmth in them.
+Throughout the taxi ride back to the goshiwon, I thought about Mom’s final words and the warmth in them.
 
 And about a voice from a memory that was growing fainter and fainter.
 
@@ -272,11 +272,11 @@ Time passed, but things didn’t improve. On the fourth day, I ended up injured 
 
 “Not in your current condition. Go home.”
 
-Leaving Team Leader Choi’s words behind, I headed for the goshiwon[^2], my head a mess.
+Leaving Team Leader Choi’s words behind, I headed for the goshiwon, my head a mess.
 
 *What’s the problem?*
 
-Everything had been going well. The System hadn’t disappeared, and I had roughly three hundred million won[^7] deposited in the bank. All that remained was to keep riding high as a C-rank Hunter, but…
+Everything had been going well. The System hadn’t disappeared, and I had roughly three hundred million won deposited in the bank. All that remained was to keep riding high as a C-rank Hunter, but…
 
 *Those damn dreams.*
 
@@ -286,7 +286,7 @@ The scenes in them grew clearer by the night, and every time a dream ended, I wo
 
 *This is going to be a problem.*
 
-My body was in reality, but my mind was still trapped in Murim. I was wondering whether I should see a psychiatrist when I reached my goshiwon[^2] room.
+My body was in reality, but my mind was still trapped in Murim. I was wondering whether I should see a psychiatrist when I reached my goshiwon room.
 
 Click.
 
@@ -374,15 +374,15 @@ This guy was thirty. It was tragic.
 
 It wasn’t exactly wrong.
 
-“This bastard hits C-rank and he’s already gone global. Anyway, introduce me to a girl. I like China. Nǐ hǎo ma?[^8] Wǒ ài nǐ.[^9] What else was there?”
+“This bastard hits C-rank and he’s already gone global. Anyway, introduce me to a girl. I like China. Nǐ hǎo ma? Wǒ ài nǐ. What else was there?”
 
 “You fucking bastard.”
 
-“Idiot. You got the tones and pronunciation all wrong. You think you’ll even make it to a hundred days[^10] like that? Repeat after me. Nǐ chī fàn le ma?”[^11]
+“Idiot. You got the tones and pronunciation all wrong. You think you’ll even make it to a hundred days like that? Repeat after me. Nǐ chī fàn le ma?”[^2]
 
 “You fucking bastard.”
 
-“Again. Nǐ chī fàn le ma?”[^11]
+“Again. Nǐ chī fàn le ma?”
 
 “You fucking bastard.”
 
@@ -424,7 +424,7 @@ The invasion of the Demon King Asmodeus and the Gates were proof.
 
 We only passed through Gates to leave and return to our world, but decades ago, an army of monsters had crossed through one from another dimension to Earth.
 
-*The Demon Realm.*
+*The Demon World.*
 
 A land of evil. The home of monsters. The Demon King’s domain.
 
@@ -444,14 +444,6 @@ I stared at my vacant face reflected on the capsule’s faded surface.
 
 For a long while after that.
 
-[^1]: *Oppa* is a Korean term a girl or woman uses for an older brother or a close older man.
-[^2]: A *goshiwon* is a small, inexpensive rented room, typically in a building with shared facilities.
-[^3]: *Nuna* is a Korean term a boy or man uses for an older sister or a close older woman. Taekyung uses it jokingly for his younger sister.
-[^4]: *Doenjang-jjigae* is a Korean stew made with fermented soybean paste.
-[^5]: One *pyeong* is about 3.31 m² (35.6 ft²); three pyeong is about 9.93 m² (107 ft²).
-[^6]: Five hundred million won is about $360,000 or €320,000.
-[^7]: Three hundred million won is about $210,000 or €190,000.
-[^8]: *Nǐ hǎo ma?* is Mandarin Chinese for “How are you?”
-[^9]: *Wǒ ài nǐ* is Mandarin Chinese for “I love you.”
-[^10]: In Korea, couples commonly mark their hundredth day together as a relationship milestone.
-[^11]: *Nǐ chī fàn le ma?* is Mandarin Chinese for “Have you eaten?” Its pronunciation resembles a Korean profanity, which Taekyung keeps saying instead.
+[^1]: A *goshiwon* is a tiny, inexpensive room-for-rent housing arrangement; three pyeong is roughly ten square meters.
+
+[^2]: *Nǐ chī fàn le ma?* means “Have you eaten?” In Korean, its pronunciation resembles a profanity, which is why Taekyung keeps answering with “You fucking bastard.”
