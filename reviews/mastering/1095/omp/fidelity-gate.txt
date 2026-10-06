@@ -1,0 +1,15 @@
+{
+  "summary": "One subject-attribution error remains in the shout reaction.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 142",
+      "current": "Even Namho startled himself with its volume.",
+      "defect": "The source says the Hidden Shadow Pavilion agent shouted so loudly that he himself was startled by it. This line instead says Namho startled himself.",
+      "replacement": "The shout was so loud it startled even him.",
+      "rationale": "The Korean makes the agent the speaker and the person startled; Namho is not the subject of this reaction.",
+      "confidence": 0.99
+    }
+  ]
+}
