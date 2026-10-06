@@ -30,7 +30,7 @@ The uninvited guest—the Slaughter Saint—plopped down beside him without perm
 
 “You worry too much. Especially for a Master with the finest Disciple under Heaven.”
 
-At that, Jeok Cheongang’s brows, which had been wriggling like a caterpillar, arched gently.
+At that, Jeok Cheongang’s brows, which had been wriggling like caterpillars, relaxed into a gentle arch.
 
 “Hm. The boy is pretty good.”
 
@@ -50,7 +50,7 @@ Jeok Cheongang’s mouth twitched as if he were having a spasm. The Slaughter Sa
 
 It was true.
 
-Of course, Jeok Cheongang had been waiting for more than two shichen, ever since Jin Taekyung had quietly slipped away. But anyway, he had no idea.
+Of course, Jeok Cheongang had been waiting for more than two shichen, ever since Jin Taekyung had quietly slipped away. But still.
 
 “Would you stop pretending? Not even a toddler would believe your lies.”
 
@@ -66,7 +66,7 @@ Even with his thoughts completely exposed, Jeok Cheongang held on to his usual c
 
 “If I give up bone and take flesh, I still come out ahead. My bones are strong.”
 
-“Now you’re talking nonsense like Jin Taekyung. When it comes to things like this, Master and Disciple really are……”
+“Now you’re talking nonsense like Jin Taekyung. Master and Disciple really are……”
 
 The Slaughter Saint sighed softly and turned away.
 
@@ -146,7 +146,7 @@ Yeah. That was what I’d thought.
 
 Until, a few months ago, I heard something unbelievable from one person.
 
-*“So it was you. You’re the ‘chosen one.’”*
+*So it was you. You’re the “chosen one.”*
 
 The Bow Saint.
 
@@ -154,7 +154,7 @@ She’d been hiding in the imperial court under a false identity, searching for 
 
 No—for the Player hidden behind the title of “chosen one.”
 
-*“Blazing Flame Divine Dragon Jin Taekyung. The moment I saw you rise again after suffering what should have been a mortal wound, I finally knew who the chosen one he spoke of was.”*
+*Blazing Flame Divine Dragon Jin Taekyung. The moment I saw you rise again after what should have been a mortal wound, I finally knew who the chosen one he spoke of was.*
 
 It was as vivid as if it had happened yesterday. The shock of that day had felt like a bolt of lightning striking the top of my head.
 
@@ -186,7 +186,7 @@ After all, I was one of the few people who’d seen Cheon Taemin alive with my o
 
 If Cheon Taemin really had been a Player who owned the capsule before me, and if he was the Martial God, how could I have gained ownership of it?
 
-But now it was time to reach some kind of conclusion to this old question.
+But it was time to reach some kind of conclusion. I decided to untangle my thinking in the simplest way I could.
 
 *Which is more likely: that they’re the same person, or that they’re two different people?*
 
@@ -208,9 +208,9 @@ The difference in time between the Great Cataclysm in the modern world and the G
 
 The System was meticulous. It could seem impossibly capricious at times, but it operated by set rules, and there was a reason for everything it did.
 
-So it wouldn’t be strange if there were specific conditions or secrets it didn’t reveal unless a Player figured them out for himself.
+It wouldn’t be strange for it to have conditions or secrets it kept hidden until a Player discovered them for himself. That was how the System had always worked, and it would probably keep working that way.
 
-And among all the thoughts tangled in my head like a skein of thread, only one presence remained.
+And now, of all the thoughts that had been tangled together in my head, only one remained.
 
 “……Who in the world is that old man?”
 
@@ -234,7 +234,7 @@ My mutter echoed through the dark alley.
 
 The voice sounded gruff at first, but there was an unmistakable warmth beneath it.
 
-When Jeok Cheongang suddenly appeared, I started to smile.
+Jeok Cheongang appeared out of nowhere, and I almost laughed.
 
 I would have, if I hadn’t seen what hung around his neck.
 
