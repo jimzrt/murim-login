@@ -8,7 +8,7 @@ I stood frozen by the last thing I’d expected to hear. Then I grabbed Hyuk Muj
 
 Whoosh.
 
-As I spoke in a low voice, I sent a thread of internal energy into him. Focus returned to the eyes of the man who’d been swimming in drink.
+As I spoke, I sent a thread of internal energy into him. Focus returned to his drink-clouded eyes.
 
 “Y-yes?”
 
@@ -16,7 +16,7 @@ As I spoke in a low voice, I sent a thread of internal energy into him. Focus re
 
 The alcohol had already fled.
 
-Facing my completely serious expression, Hyuk Mujin swallowed hard.
+Hyuk Mujin swallowed hard when he saw my face.
 
 “What I just said? Which part… Ah, the time?”
 
@@ -24,15 +24,13 @@ Facing my completely serious expression, Hyuk Mujin swallowed hard.
 
 I took the pocket watch from around my neck and held it close to his face. He nodded hastily.
 
-“Of course. That was probably when we were staying at the Imperial Palace…? I begged you for it like crazy because I wanted it so badly, but you said you’d think about it, Captain. Then you never brought it out again.”
+“Of course. That was probably when we were staying at the Imperial Palace…? I begged you for it like crazy, but you said you’d think about it, Captain. Then you never brought it out again.”
 
 Of course he remembered.
 
 I’d made up some story about it being a valuable item from the Western Regions, and he’d pestered me for it practically every day after that.
 
-“I’d pretty much given up when I heard you were giving it to Young Lady Ju. I didn’t know you still had it.”
-
-That was when it happened.
+“I’d pretty much given up when you said you were going to give it to Young Lady Ju. I didn’t know you still had it.”
 
 Then, as he turned the pocket watch this way and that, still apparently fascinated by it, he finally said what I’d been waiting to hear.
 
@@ -46,7 +44,7 @@ I followed his finger to the hour hand and felt my face stiffen.
 
 “Captain? Did I do something wrong?”
 
-“No. More importantly…”
+“No. It’s just…”
 
 “I’m sure of it. Why would I lie about something like this?”
 
@@ -54,7 +52,7 @@ I followed his finger to the hour hand and felt my face stiffen.
 
 That was the end of the conversation.
 
-I muttered to myself and waved him away without another word. Hyuk Mujin understood the gesture and withdrew. Watching him go, I fell into thought.
+I waved him away without another word. He understood and withdrew, leaving me to watch his back as I thought.
 
 *Yeah. He’s right.*
 
@@ -66,7 +64,7 @@ There was no minute hand, as any ordinary watch would have, or even any numbers.
 
 Not forward. Backward.
 
-*Unless it was designed from the start to move counterclockwise…*
+*Unless it was designed to move counterclockwise…*
 
 Had it gone around once—or several times—before stopping here?
 
@@ -76,19 +74,17 @@ And if so, what did that mean?
 
 The updated item information said the pocket watch held a secret, and The Helper had clearly known what it was. That must have been why he’d handed it to me as a gift.
 
-But…
-
 But how had he known something even I didn’t?
 
 And how had a pocket watch buried deep in my Inventory for months found its way back to me like this?
 
 “…No way.”
 
-My heart suddenly began to pound, and my lips went dry.
+My heart started pounding. My lips went dry.
 
 Jeok Cheongang responded to the words that had escaped me, but my mind had gone blank except for the tangled thoughts I was struggling to unravel.
 
-And finally—
+And then—
 
 “…!”
 
@@ -124,7 +120,7 @@ Then I’d already met Cheon Taemin. The Martial God.
 
 In that infinite space where he’d been staying.
 
-No—in the Inventory.
+No. In the Inventory.
 
 *“Good call.”*
 
@@ -144,7 +140,7 @@ And I knew the only way to answer all these questions.
 
 “I have something to tell you.”
 
-After a long silence, my one sentence made Jeok Cheongang’s gaze sink deep.
+After the long silence, Jeok Cheongang’s gaze grew solemn.
 
 * * *
 
@@ -180,13 +176,11 @@ The Imperial Capital, Hebei, and even Gansu had been invaded.
 
 “And at last, the will of the entire realm has gathered here in Qinghai.”
 
-His voice, carried endlessly outward by his powerful internal energy, brought tears to the eyes of everyone listening.
-
-They knew.
+His voice carried across the fields on a surge of internal energy. By now, the eyes of everyone listening had reddened.
 
 They knew how much blood it had cost to bring them here.
 
-And they knew how precious and meaningful the blood they would shed from now on would be.
+And they knew how precious the blood they would shed from here on would be.
 
 “We will hesitate no longer. We will not retreat.”
 
@@ -204,19 +198,19 @@ Unless they brought down the Lord of Heaven and the dark clouds that threatened 
 
 This was a war to protect. A holy war to exterminate fiends without equal in all history—and a mandate from Heaven.
 
-“So I ask you…”
+“So I ask you.”
 
 Shing.
 
 A snow-white blade emerged from its sword case.
 
-A purple glow surrounded Mae Jonghak as a vast wave of aura burst from him.
+Purple light enveloped Mae Jonghak, and a vast wave of qi burst from him.
 
-No—at his side, everyone standing tall upon the wall unleashed the countless feelings and surging auras they’d held back.
+No—everyone standing beside him atop the wall let loose the emotions and aura they’d held back.
 
-Along with the Alliance Leader’s Azure Dragon’s Roar, which swept across the dry skies of Qinghai.
+The Alliance Leader’s azure dragon’s roar swept across Qinghai’s dry sky.
 
-“Who among you will retreat in the face of injustice?!”
+“Who among you will retreat in the face of injustice!”
 
 At that instant—
 
@@ -266,7 +260,7 @@ At Taekyung’s quiet Sound Transmission, Jeok Cheongang gave a small nod.
 
 That was all, and it was enough.
 
-Before dawn, Master and Disciple had shared a long, deep conversation. They had no secrets from each other.
+Before dawn, Master and Disciple had talked long and deeply. There were no secrets between them.
 
 “Go on.”
 
@@ -276,6 +270,6 @@ His Disciple answered with a smile just like his Master’s.
 
 “I’ll be back.”
 
-And soon, the Disciple fell asleep.
+And soon, he fell asleep.
 
 A sleep so deep and vivid that he wouldn’t know it even if someone shook him awake.
