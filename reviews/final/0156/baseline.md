@@ -88,7 +88,7 @@ I had seen more than a dozen different martial arts over the past two days alone
 
 Just when I thought I might be getting used to the Taeeul Miri Palm, he would bring out the Falling Flower Chasing Shadow Palm. Just as that technique began to look familiar, the Crouching Tiger Fist would come flying out.
 
-On top of that, countless supreme techniques that had helped turn Huashan into one of the Nine Sects and One Gang[^1] had seeped into every part of Cheongpung’s body.
+On top of that, countless supreme techniques that had helped turn Huashan into one of the Nine Sects and One Gang had seeped into every part of Cheongpung’s body.
 
 *His martial arts are rooted in Huashan. His teacher was the Sword Saint.*
 
@@ -262,7 +262,9 @@ He beamed as he watched the young man pressing him relentlessly.
 
 Jin Taekyung. They hadn’t known each other long, but he was the Benefactor who had helped Cheongpung in many ways.
 
-When Jin Taekyung had given him every last candied hawthorn skewer[^2] at their first meeting, Cheongpung had nearly cried.
+When Jin Taekyung had given him every last candied hawthorn skewer[^1] at their first meeting, Cheongpung had nearly cried.
+
+[^1]: Traditional fruit skewers coated in hardened sugar.
 
 *He’s a good person. He gave me something so precious.*
 
@@ -330,7 +332,9 @@ But Jin Taekyung wasn’t listening to him. With a short shout, he lifted the sp
 
 “Hah!”
 
-“Benefactor, it’s no use. This is the Thousand-Catty Drop[^3]—”
+“Benefactor, it’s no use. This is the Thousand-Catty Drop[^2]—”
+
+[^2]: A catty is a traditional East Asian unit of weight; the technique’s name evokes immense downward force.
 
 *Whoosh!*
 
@@ -377,7 +381,3 @@ At the sight of the man striding toward him, Cheongpung finally thought of a wor
 A beast hell-bent on biting through its prey’s throat.
 
 Jin Taekyung’s claws had not yet been honed, and that was precisely why they seemed even larger.
-
-[^1]: A conventional grouping of major orthodox martial factions in martial-arts fiction.
-[^2]: Traditional fruit skewers coated in hardened sugar.
-[^3]: A catty, or Chinese *jin*, is 500 g (1.10 lb). The technique’s name evokes immense downward weight.
