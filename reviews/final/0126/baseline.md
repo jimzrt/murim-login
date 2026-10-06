@@ -14,7 +14,7 @@ But it was already too late. Jin Wikyung had received a messenger eagle from the
 
 “…I’ll assemble the guards.”
 
-Now that every obstacle had been swept aside, Jin Wikyung’s authority was absolute. Before even half a shichen[^1] had passed, the two left the family grounds with fifty elite guards and raced onward without rest.
+Now that every obstacle had been swept aside, Jin Wikyung’s authority was absolute. Before even half a shichen had passed, the two left the family grounds with fifty elite guards and raced onward without rest.
 
 Two days later, they stopped at a Lower District Sect branch to change horses and received new information.
 
@@ -52,7 +52,7 @@ First Jin Wikyung turned a considerable injury into hovering between life and de
 
 “Lesser Family Head, I think there’s been a terrible misunderstanding…”
 
-“I’ll tear your limbs to shreds and scatter them across the Nine Provinces!”[^2]
+“I’ll tear your limbs to shreds and scatter them across the Nine Provinces!”
 
 “…”
 
@@ -124,7 +124,7 @@ A groan escaped me before I knew it.
 
 I had never seen anything like it in my life.
 
-The banner’s width alone was more than twenty jang—over sixty meters.[^3] Strung between the tops of two pavilions facing each other across a broad avenue, it looked as though it might even be visible from the Mount Heng Sword Sect.
+The banner’s width alone was more than twenty jang—over sixty meters.[^1] Strung between the tops of two pavilions facing each other across a broad avenue, it looked as though it might even be visible from the Mount Heng Sword Sect.
 
 *Look at that unnecessarily flamboyant calligraphy.*
 
@@ -156,7 +156,7 @@ That was as far as our conversation got. The overbearing parent—no, Jin Wikyun
 
 Was he a man or a brown bear?
 
-The giant, well over two meters[^4] tall, pulled Jin Mukyung and me close with hands the size of pot lids. His brute strength was so tremendous that it would not have been strange if he had crushed us to pieces.
+The giant, well over two meters tall, pulled Jin Mukyung and me close with hands the size of pot lids. His brute strength was so tremendous that it would not have been strange if he had crushed us to pieces.
 
 “I’m so glad you’re safe. Really, so glad!”
 
@@ -320,7 +320,7 @@ I had been listening with my ears perked up when I suddenly froze.
 
 *Wait. The Demonic Cult?*
 
-The Demonic Cult was a regular fixture you could never leave out of a Murim novel, the licorice in every medicine shop, and Geum Jandi’s honorary firefighter.[^5]
+The Demonic Cult was a regular fixture you could never leave out of a Murim novel, the licorice in every medicine shop, and Geum Jandi’s honorary firefighter.[^2]
 
 Of course, it wasn’t a religious organization devoted to world peace and helping the poor. It was more like IS—the Islamic terrorist group.
 
@@ -338,7 +338,7 @@ But nothing could be gained without suffering. The side effects should be someth
 
 “The best-known pill used by the Demonic Cult at the time was the Blood-Exploding Pill, if memory serves.”
 
-“I’ve only heard stories about it. Don’t all the blood vessels in the user’s body burst after two shichen,[^1] killing them?”
+“I’ve only heard stories about it. Don’t all the blood vessels in the user’s body burst after two shichen, killing them?”
 
 “That was the price of trying to gain power through dark arts.”
 
@@ -362,7 +362,7 @@ Jin Wikyung looked at me with concern. I rubbed my forehead and found it covered
 
 “What are you talking about? It’s snowing outside.”
 
-“What would a Soeumin[^6] know? I’m a Taeyangin.[^7] That’s why…”
+“What would a Soeumin know? I’m a Taeyangin. That’s why…”[^3]
 
 Damn it. I didn’t even know what I was saying anymore.
 
@@ -384,10 +384,8 @@ I gave the three of them an awkward smile.
 
 “…!”
 
-[^1]: A shichen is a traditional time unit of about two hours; half a shichen is about one hour.
-[^2]: The Nine Provinces is a traditional expression for the lands of China.
-[^3]: A jang is a traditional Korean unit of length of about 3.03 m, or 9.94 ft. Twenty jang is about 60.6 m, or 199 ft.
-[^4]: Two meters is about 6 ft 7 in.
-[^5]: Geum Jandi is the heroine of the Korean drama *Boys Over Flowers*.
-[^6]: Soeumin, or “lesser yin person,” is one of the four constitutional types in traditional Korean Sasang medicine.
-[^7]: Taeyangin, or “greater yang person,” is another of the four constitutional types in Sasang medicine.
+[^1]: A jang is a traditional Korean unit of length measuring roughly three meters.
+
+[^2]: Geum Jandi is the heroine of the Korean drama *Boys Over Flowers*.
+
+[^3]: Soeumin and Taeyangin are two of the four constitutional types in traditional Korean Sasang medicine.
