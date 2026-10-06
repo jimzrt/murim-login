@@ -108,6 +108,19 @@ def in_lock_family(holder_pid: int, env_key: str = LOCK_ENV) -> bool:
     return token == str(holder_pid) and pid_is_alive(holder_pid)
 
 
+def parent_delegated(name: str) -> bool:
+    """True when this process was spawned by the live holder of `name`.
+
+    Parallel workers must not take or rewrite that lock. The parent sets the
+    matching env var to its own pid before spawning them.
+    """
+    token = os.environ.get(lock_env_name(name))
+    if not token or not token.isdigit():
+        return False
+    pid = int(token)
+    return pid_is_alive(pid) and pid in ancestor_pids()
+
+
 def read_payload(path: Path) -> dict:
     try:
         value = json.loads(path.read_text(encoding="utf-8"))

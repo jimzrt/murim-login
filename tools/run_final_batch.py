@@ -8,6 +8,7 @@ commits one finished chapter at a time. A failed chapter stays uncommitted.
 from __future__ import annotations
 
 import argparse
+import os
 import subprocess
 import sys
 import threading
@@ -17,7 +18,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 
-from run_lock import hold_final_lock
+from run_lock import FINAL_LOCK_ENV, hold_final_lock
 from run_next_final import commit_final, final_done, mastering_done, translation_blocked
 
 try:
@@ -57,7 +58,9 @@ def select_batch(start: int, end: int, dirty: list[str] | None = None) -> tuple[
 
 def run_chapter(number: int) -> int:
     command = [sys.executable, str(ROOT / "tools" / "final_touches.py"), "run", str(number)]
-    return subprocess.run(command, cwd=ROOT).returncode
+    env = os.environ.copy()
+    env[FINAL_LOCK_ENV] = str(os.getpid())
+    return subprocess.run(command, cwd=ROOT, env=env).returncode
 
 
 def main() -> int:
