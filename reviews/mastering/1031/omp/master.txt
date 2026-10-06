@@ -10,7 +10,7 @@ That was why I was moving forward now.
 
 Whoosh.
 
-I lowered the First Elder, still in my grip, and planted my foot on the ground. In the same instant, I shot forward.
+I let go of the First Elder, still in my grip, and planted my foot on the ground. In the same instant, I shot forward.
 
 Ghost Illusory Slaughter Step.
 
@@ -32,7 +32,7 @@ A crash that seemed to split the sky rang out, and time, paused for an instant, 
 
 KRRRUNCH!
 
-The ground flipped over from the force of the collision. My feet, light as air only moments ago, were driven back under a pressure of tens of thousands of pounds.
+The ground tore open from the force of the collision. My feet, light as air a moment ago, were driven back beneath an enormous weight.
 
 *Damn it.*
 
@@ -44,21 +44,21 @@ Seven.
 
 Not one, not two, not three—but seven Death Knights.
 
-No, the men in black were far too powerful. They hadn’t merely kept all their former strength; they’d grown stronger still.
+No, the men in black were more than that. They hadn’t merely kept all their former strength; they’d grown stronger still.
 
 Even with Jeok Cheongang at my side, their power was too much to withstand.
 
 “Hngh…!”
 
-A muffled breath came from right beside me.
+A strained breath came from right beside me.
 
-Jeok Cheongang was holding off four enemies alone, proving his title as the Fire King. But this momentary standoff was like a glass bottle on the verge of shattering.
+Jeok Cheongang was holding off four enemies alone, proving his title as the Fire King. But this standoff was a glass bottle on the verge of shattering.
 
-Just as it was now.
+And then it did.
 
 SHWING! KRAANG!
 
-The three spears and swords, shrouded in pitch-black Force, met the White Flame’s blade once more. The impact left me gasping, and I felt my knees bend on their own.
+Three spears and swords, shrouded in pitch-black Force, struck White Flame’s spearhead once more. The impact knocked the breath from me, and my knees bent on their own.
 
 *They’re strong. The Three Elders of Tianshan don’t even compare.*
 
@@ -68,11 +68,11 @@ Sometimes a pack of wolves was more frightening than a single tiger.
 
 The Three Elders had built their infamy as a pack, much like the Qilian Three Fiends, who had followed the Western Heaven Demon Lord and drenched Sichuan in blood.
 
-But the men in black, closing in on me with tremendous strength and momentum even now, were different.
+But the men in black pressing in on me with tremendous strength and momentum were different.
 
 They were tigers.
 
-Unlike the Three Elders of Tianshan, each one could command an entire mountain range—or, at least, they must have been able to in the past.
+Unlike the Three Elders, each of them could command an entire mountain range—or must have been able to in the past.
 
 The worst part was that these tigers had lost their souls, grown even stronger, and now moved as a pack at one man’s command.
 
@@ -84,7 +84,7 @@ So did his aura, growing more intense with each slow step.
 
 “Don’t struggle too hard. It’s a shame about Senior Jeok, but that can’t be helped. You, on the other hand, are a very important prize.”
 
-I couldn’t see his face behind the Black Ghosts, but I could picture it, if only faintly.
+The Black Ghosts hid his face, but I could picture it well enough.
 
 The Blood-Sword Demon Lord smiling. His eyes bright with excitement at the sea of corpses and blood to come.
 
@@ -92,13 +92,13 @@ The Blood-Sword Demon Lord smiling. His eyes bright with excitement at the sea o
 
 Grrk. Grrrk!
 
-Under the crushing pressure, I barely managed to force out my voice.
+Under the crushing pressure, I barely managed to force out an answer.
 
 “Fuck… off!”
 
 KWAANG!
 
-I thrust the spear shaft upward. All three of their spears and swords flew into the air at once.
+I thrust the spear shaft upward, sending all three spears and swords into the air.
 
 Four jiazi of internal energy and a body far beyond human limits let me throw off the Black Ghosts’ combined attack, strengthened though they were at the cost of their souls. Only for a moment.
 
@@ -112,7 +112,7 @@ More precisely, I cut three huge black horses in half—ghost horses, powerful m
 
 FWOOOSH!
 
-Instead of the blood any living creature should have had, a dark mist burst out. Jeok Cheongang, who’d been barely holding on, gaped at the unbelievable sight.
+Instead of the blood any living creature should have had, dark mist burst from them. Jeok Cheongang, who’d barely been holding on, gaped at the sight.
 
 “What kind of fucked-up—!”
 
@@ -132,7 +132,7 @@ Whoosh—BOOM!
 
 The Flame Divine Palm shot forward without even a sound of rushing air and struck one of the Black Ghosts square in the chest.
 
-The man took the blow square in the chest and flew back like a cannonball. Jeok Cheongang bared his teeth in a grin.
+The man flew back like a cannonball. Jeok Cheongang bared his teeth in a grin.
 
 Or tried to.
 
@@ -144,7 +144,7 @@ The Black Ghost should have died, his whole body scorched black. Instead, he let
 
 “…No, it isn’t.”
 
-Perhaps the Flame Divine Palm’s force still lingered. Jeok Cheongang stared blankly as the Black Ghost staggered to his feet, then blinked at me.
+The blow seemed to have left its mark, at least. Jeok Cheongang stared blankly as the Black Ghost staggered to his feet, then blinked at me.
 
 “What the hell are those things?”
 
@@ -156,7 +156,7 @@ I parried a Black Ghost’s sword and let out a breath before answering.
 
 “Great Hand, Great Hand, Shift-Head? What the hell are you talking about?”
 
-Unfortunately, I couldn’t clear up Jeok Cheongang’s confusion.
+Unfortunately, I couldn’t clear up his confusion.
 
 Before I could say another word, all the Black Ghosts charged at once, including the one Jeok Cheongang had knocked away.
 
@@ -166,7 +166,7 @@ My ears rang. Pain shot through my wrist, and both my legs sank deep into the gr
 
 The pressure was terrifying, as if Taishan itself were bearing down on me.
 
-And just as Jeok Cheongang and I were trapped in a forest of steel, a fierce rush of air sounded from somewhere.
+Then, just as Jeok Cheongang and I were trapped in a forest of steel, something cut fiercely through the air.
 
 Whoosh—CLANG-CLANG!
 
@@ -206,19 +206,19 @@ The Black Ghost pulled out the knife as though it were nothing. I took advantage
 
 “……”
 
-“They’re bastards like that.”
+“That’s what they are.”
 
 “……Shit. This is a fine mess.”
 
 Jeok Cheongang sighed. Sama Pyo came up beside us, his face calm.
 
-“What monsters.”
+“They’re monsters.”
 
 “Idiot. You should’ve fallen back earlier. What, did you come all this way for a good view?”
 
 “I already regret it. But what exactly are they? Some kind of jiangshi?”
 
-“Similar, but let’s say they’re a bit worse.”
+“Similar, but let’s say they’re worse.”
 
 Jiangshi would be a thousand times better.
 
@@ -246,7 +246,7 @@ The ground trembled. The shouts that had shaken everything around us were now at
 
 “Infinite Life Buddha.”
 
-The one approaching with a low invocation was the Wind-and-Cloud Sword Lord.
+The low invocation came from the Wind-and-Cloud Sword Lord.
 
 Beside him stood the Roaring Fury Swordsman and the Taeeul Merciless Sword, who had studied under the same master, along with nearly a thousand disciples of the Zhongnan Sect.
 
@@ -268,11 +268,11 @@ The Black Ghosts advancing silently toward us stopped as one. The Blood-Sword De
 
 Thud.
 
-“Good. This is how you should meet me.”
+“Yes. This is how you should come at me.”
 
 Vrrrrm.
 
-The gray-white blade trembled. Its color hardly suited the Blood-Sword Demon Lord’s title, though it had reaped carnage that ranked among the worst of the Great Faction War.
+His gray-white sword trembled. Its color hardly suited his title, but during the Great Faction War, its blade had brought bloodshed to rival that of the worst fiends.
 
 Dark-red Force welled from it, the surges joining and binding together without pause as he leveled the sword at the people in his way.
 
@@ -296,7 +296,7 @@ I quickened my steps to match its harsh, rapid rhythm.
 
 Whoosh. SHWAAAAA!
 
-The wind blew. The mild breeze became a raging gale, and I summoned that gale.
+Wind blew. A mild breeze became a raging gale, and I summoned a gale of my own.
 
 No—the whole battlefield did.
 
@@ -306,7 +306,7 @@ Shouts, clouds, wind.
 
 Beyond them, countless blades flashed.
 
-And two vast armies raced across the dazzling white snowfield, colliding at last in its center.
+Two vast armies raced across the dazzling white snowfield and collided at its center.
 
 KRRRUNCH!
 
