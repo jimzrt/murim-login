@@ -30,13 +30,13 @@ Had Taekyung been fifteen? Mukyung still remembered the day he brought a chair t
 
 “A chair.”
 
-“You left off the last syllable.”[^1]
+“You left off the last syllable.”
 
 “A chair, sir…”
 
 “Why did you bring it?”
 
-“To use during horse-stance training.”[^2]
+“To use during horse-stance training.”
 
 “Ah. Because horse stance is too hard?”
 
@@ -76,7 +76,7 @@ His bones and muscles had grown larger and harder. Deep within eyes that still l
 
 The hand they clasped afterward was rough and strong.
 
-*Peak? No. Not yet. He’s still Supreme First Rate.*
+*Peak? No. Not yet. He’s at the upper reaches of First Rate.*
 
 Mukyung knew because he had already walked that path himself. Jin Taekyung was still unrefined. He merely stood before the wall of the Peak realm.
 
@@ -90,7 +90,7 @@ Jin Taekyung had been born with a decent physique, as befitted the bloodline of 
 
 And yet that same man had grown this much in only three years.
 
-*Unless he’s undergone Bone Transformation…*[^3]
+*Unless he’s undergone a complete transformation…*
 
 Whoosh!
 
@@ -114,7 +114,7 @@ Jin Mukyung raised an arm to block the attack, and his feelings were nothing but
 
 “I told you. I’m catching up.”
 
-“What happened to you? Did you drink *gongcheong seokyu*[^4] or something?”
+“What happened to you? Did you drink *gongcheong seokyu*[^1] or something?”
 
 “Why would I drink oil? You’re completely insane.”
 
@@ -134,7 +134,7 @@ Jin Taekyung had flinched for a moment at the ominous aura, but then he let out 
 
 “What?”
 
-“Didn’t you say that if I lasted a quarter of an hour, I’d be your hyung[^5]? It’s been a quarter of an hour. Right, Mujin?”
+“Didn’t you say that if I lasted a quarter of an hour, I’d be your hyung? It’s been a quarter of an hour. Right, Mujin?”
 
 Hyuk Mujin, crumpled in a corner and barely able to breathe, cautiously answered.
 
@@ -154,7 +154,7 @@ Gr-r-rk.
 
 The smile vanished from Jin Taekyung’s face.
 
-“Hyung-nim[^5]. I don’t think that’s quite fair.”
+“Hyung-nim. I don’t think that’s quite fair.”
 
 In contrast, a broad smile filled Jin Mukyung’s face.
 
@@ -384,7 +384,7 @@ I had a younger sister too, so I knew how it was. Sometimes I wished Hayeon had 
 
 Socheon’s eyes trembled violently.
 
-“Benefactor… You are truly a *junzi*.[^6] I, Socheon, am sincerely moved.”
+“Benefactor… You are truly a *junzi*.[^2] I, Socheon, am sincerely moved.”
 
 Thump.
 
@@ -456,9 +456,6 @@ Hyuk Mujin flinched for a moment, then continued in a resolute voice.
 
 What a bumper crop of bullshit.
 
-[^1]: In Korean, adding *yo* to an answer makes it polite. Mukyung is demanding that Taekyung address his older brother respectfully.
-[^2]: Horse stance is a martial-arts training posture held with the legs spread and knees bent.
-[^3]: Bone Transformation is an advanced bodily transformation in martial-arts fiction.
-[^4]: *Gongcheong seokyu* is a rare martial-arts elixir; *seokyu* is also the Korean word for petroleum.
-[^5]: *Hyung* is a man’s term of address for an older brother or an older male he is close to. *Hyung-nim* is a more respectful form.
-[^6]: A *junzi* is the Confucian ideal of a morally upright gentleman.
+[^1]: *Gongcheong seokyu* is a rare martial-arts elixir; *seokyu* is also the Korean word for petroleum.
+
+[^2]: A *junzi* is the Confucian ideal of a morally upright and virtuous gentleman.
