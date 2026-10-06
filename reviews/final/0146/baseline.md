@@ -108,7 +108,7 @@ Having obtained the royal guard gear set he had longed for so desperately, he de
 
 Li Feng dipped his head toward me.
 
-“I entrust Martial Uncle[^1] to you.”
+“I entrust Martial Uncle to you.”
 
 “Of course.”
 
@@ -120,7 +120,7 @@ If I used him as a bridge to strengthen the Jin Family of Taiyuan’s relationsh
 
 Cheongpung waved with a sunny smile.
 
-“Martial Nephew[^2] Li Feng, don’t worry about me! Interesting things keep happening whenever I’m with Young Master Jin!”
+“Martial Nephew Li Feng, don’t worry about me! Interesting things keep happening whenever I’m with Young Master Jin!”
 
 “Just in case, let me say this now. Don’t cause any trouble.”
 
@@ -232,9 +232,9 @@ If a beautiful woman had said that, I would have laughed along with her. But Hon
 
 *He said he used to be a palace attendant.*
 
-*Didn’t that make him a palace eunuch?*
+Didn’t that make him a eunuch?
 
-I’d once heard that not every palace eunuch had necessarily been castrated. But there was no way to tell whether Hong Jin was equipped or not.
+I’d once heard that not every palace attendant was necessarily a eunuch. But there was no way to tell whether Hong Jin was equipped or not.
 
 “Young Master Jin.”
 
@@ -252,7 +252,7 @@ He wasn’t a Murim martial artist, but his ability to read the situation was on
 
 “Assistant Military Commissioner Li? He passed the military examination, of course. After that, it was smooth sailing all the way.”
 
-“As expected of a Huashan lay disciple[^3].”
+“As expected of a Huashan lay disciple.”
 
 “I can’t say that had no influence, but that wasn’t the only reason. Becoming a Third-Rank Assistant Military Commissioner in only ten years is extremely difficult.”
 
@@ -272,7 +272,7 @@ Hong Jin counted them off on his fingers.
 
 “The Military Commissioner?”
 
-“He’ll be retiring soon. He was born the son of a Great General, accomplished a little, and has a tremendous fondness for bribes.”
+“He’ll be retiring soon. He was born the son of a Grand General, accomplished a little, and has a tremendous fondness for bribes.”
 
 *A corrupt military official. The kind whose petty corruption had become a way of life.*
 
@@ -396,12 +396,8 @@ Hong Jin nodded and continued.
 
 Despite his words, an unmistakable light shone in his eyes.
 
-*Ambition? Hope?*
+Ambition? Hope?
 
 Before I could understand what that light meant, it disappeared, and the coachman’s quiet voice reached my ears.
 
 “The Jin Family of Taiyuan is in sight.”
-
-[^1]: *Martial Uncle* is a sect seniority title for someone of one’s teacher’s generation, not necessarily a relative.
-[^2]: *Martial Nephew* is a sect seniority title for a disciple of a junior generation, not necessarily a relative.
-[^3]: A lay disciple trains under a martial sect without joining its resident religious community.
