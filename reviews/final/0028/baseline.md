@@ -128,7 +128,7 @@ I crooked a finger at the wolf leading the pack in the distance. Judging by its 
 
 - Grrrraaaah!
 
-Since when did a wolf roar like a lion? Don’t tell me it was some kind of spiritual creature? Was I seriously going to lose to an animal?
+Since when did a wolf roar like a lion? Don’t tell me it was some kind of spirit beast? Was I seriously going to lose to an animal?
 
 *Not happening.*
 
@@ -350,7 +350,7 @@ I’d spent seven years as a Hunter without ever escaping F-rank, yet here in th
 
 I nodded readily.
 
-“Supreme First Rate at twenty. You wouldn’t be that famous Heaven Shaking Sword, so… your name?”
+“Super First Rate at twenty. You wouldn’t be that famous Heaven Shaking Sword, so… your name?”
 
 “Jin Taekyung.”
 
@@ -456,5 +456,5 @@ I stared blankly at Jopil, the reconnaissance squad, the young siblings, and the
 
 Jopil laughed savagely.
 
-[^1]: A zhang is a traditional Chinese unit of length, approximately 3.03 m or 9.94 ft. Twenty zhang is about 60.6 m or 199 ft.
-[^2]: A shichen is a traditional time period of approximately two hours; half a shichen is about one hour.
+[^1]: A zhang is a traditional Chinese unit of distance, roughly 3.3 meters.
+[^2]: A shichen is a traditional time period of roughly two hours.
