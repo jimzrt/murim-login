@@ -82,7 +82,7 @@ I had been so absorbed in the sword that I had momentarily forgotten what it mea
 
 At the same time, Cheongpung’s words from barely half a day ago flashed through my mind.
 
-*Aren’t you trying to take Benefactor as your Disciple?*
+*“Aren’t you trying to take Benefactor as your Disciple?”*
 
 At the time, I had dismissed it as ridiculous nonsense and laughed it off.
 
@@ -368,7 +368,7 @@ At the same time, Sword Energy erupted from the Roaring Fury Swordsman’s waist
 
 *Sh-sh-sh-sh-shk!*
 
-A dense net of Sword Energy spread across a three-jang[^1] radius, slicing through bone and flesh the instant it touched them.
+A dense net of Sword Energy spread across a three-jang radius, slicing through bone and flesh the instant it touched them.
 
 But the big fish had already swum against the current and escaped the net.
 
@@ -453,5 +453,3 @@ A very long time passed before the Roaring Fury Swordsman finally spoke.
 “We’re going back. To Zhongnan.”
 
 His voice was steeped in terror, and the Three Hands of Zhongnan could say nothing.
-
-[^1]: *Jang* is a traditional unit of length, approximately 3.03 meters (9.94 ft). Three jang is about 9.09 meters (29.8 ft).
