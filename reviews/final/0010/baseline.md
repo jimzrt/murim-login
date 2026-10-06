@@ -10,7 +10,7 @@ Jin Wikyung.
 
 I bowed awkwardly.
 
-“Hello, hyung[^1]… sir.”
+“Hello, hyung… sir.”
 
 Jin Wikyung made me uncomfortable. As if suddenly acquiring an NPC family wasn’t enough, he paid an absurd amount of attention to me.
 
@@ -18,7 +18,7 @@ Just look at him. He was trying desperately not to show it with everyone watchin
 
 *Is this guy seriously that sentimental?*
 
-He looked like he could make even a triad[^2] boss back down, yet somehow every character in this game was completely bizarre.
+He looked like he could make even a triad boss back down, yet somehow every character in this game was completely bizarre.
 
 “I can no longer overlook your conduct. As the Lesser Family Head and acting Family Head, I have ordered you into closed-door confinement. Do you have anything to say?”
 
@@ -28,7 +28,7 @@ But this was all a staged performance. On the way to the training hall, Wipeng h
 
 In other words, this forced confinement was all for show.
 
-“The Young Master needed a place to train anyway, didn’t he? Just endure it for three days.”
+*The Young Master needed a place to train anyway, didn’t he? Just endure it for three days.*
 
 Remembering Wipeng’s final words, I bowed my head and pretended to repent.
 
@@ -110,9 +110,9 @@ It was something that happened all the time in the real world, too. High-ranking
 
 My circumstances were a little different, but the arrangement was much the same. Deeply moved, I surveyed my private suite in the training hall.
 
-“So this is the life of a gold spoon.”[^3]
+“So this is the life of a gold spoon.”[^1]
 
-It wasn’t only the graphics and artificial intelligence that were realistic. The game also carried the social message that, no matter how high you flew or how low you crawled, gold spoons[^3] had it best.
+It wasn’t only the graphics and artificial intelligence that were realistic. The game also carried the social message that, no matter how high you flew or how low you crawled, gold spoons had it best.
 
 Seriously, what would I have done without this character? His father was the Family Head, his eldest brother was the Lesser Family Head, and his second brother was a martial arts prodigy. No wonder he could spend every day loafing around pleasure houses without a care in the world.
 
@@ -120,7 +120,7 @@ Seriously, what would I have done without this character? His father was the Fam
 
 Now that I thought about it, wasn’t he actually some great sage who had grasped the ways of the world at a young age?
 
-Shuddering at the realistic God-Spoon[^3] System, I walked around the training hall, which covered a little over a hundred pyeong.[^4] Before long, I found the “necessities” the warrior had mentioned.
+Shuddering at the realistic God-Spoon System, I walked around the training hall, which covered well over three thousand square feet. Before long, I found the “necessities” the warrior had mentioned.
 
 *Food first.*
 
@@ -218,7 +218,7 @@ Beep!
 >
 > - The movement failed.
 >
-> - Remaining successful attempts (2 / 100)
+> - Successful attempts (2 / 100)
 
 The failure message. The System window that appeared without fail whenever I botched a movement.
 
@@ -242,7 +242,7 @@ Beep.
 >
 > - The movement failed.
 >
-> - Remaining successful attempts (5 / 100)
+> - Successful attempts (5 / 100)
 
 “Ah, fuck.”
 
@@ -252,7 +252,7 @@ So why hadn’t I taken it out from the start?
 
 “It’s fucking heavy. Seriously.”
 
-The entire thing was solid steel, so its weight was no joke. By feel alone, the monster had to weigh nearly fifty kilograms.[^5]
+The entire thing was solid steel, so its weight was no joke. By feel alone, the monster had to weigh nearly fifty kilograms.
 
 My Stamina wouldn’t hold out if I swung something like this for hours.
 
@@ -296,11 +296,11 @@ The ten years of internal energy coiled in my dantian spread throughout my body.
 
 *This is…*
 
-Strength overflowed through my entire body. My vastly improved physical abilities and senses once again filled me with exhilaration after my life as an F-rank Hunter.
+Strength overflowed through my entire body. My vastly improved physical abilities and senses once again filled me with exhilaration after a lifetime as an F-rank Hunter.
 
 *I can change this much?*
 
-I gripped the spear and performed the *Jin Family’s Spear Technique*. The fifty-kilogram[^5] iron spear no longer felt heavy. Following my will, it thrust and slashed through the air.
+I gripped the spear and performed the *Jin Family’s Spear Technique*. The fifty-kilogram iron spear no longer felt heavy. Following my will, it thrust and slashed through the air.
 
 Before long—
 
@@ -308,7 +308,7 @@ Ding.
 
 > **System**
 >
-> - Remaining successful attempts (6 / 100)
+> - Successful attempts (6 / 100)
 
 At last, the notification I had been waiting for began to ring.
 
@@ -384,8 +384,4 @@ This was Murim.
 
 Only those who were prepared would survive to see tomorrow.
 
-[^1]: *Hyung* is a Korean term a man uses for his older brother or an older man he is close to.
-[^2]: A triad is a Chinese organized-crime group.
-[^3]: In Korean, “gold spoon” refers to someone born into wealth; “God-Spoon” plays on the expression to suggest an even more fortunate birth.
-[^4]: A *pyeong* is a unit of area equal to 3.31 m² (35.6 ft²). A little over a hundred pyeong is roughly 330 m² (3,600 ft²).
-[^5]: Fifty kilograms is about 110 lb.
+[^1]: In Korean, “gold spoon” is shorthand for someone born into wealth; “God-Spoon” is a pun that escalates the expression.
