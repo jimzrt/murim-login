@@ -140,7 +140,7 @@ His palms had split open and healed dozens of times, and with every cycle, his s
 
 *The same goes for everything else.*
 
-Horse-stance[^1] training would have been nothing but a waste of time.
+Horse-stance training would have been nothing but a waste of time.
 
 Strength, Stamina, Agility—every one of his physical abilities far surpassed those of martial artists at the same level, and all of them had developed with remarkable balance.
 
@@ -404,9 +404,9 @@ If we had walked with him for another fifteen minutes, Jin Mukyung might have ki
 
 The sight of Jin Wikyung waiting in front of the pavilion nearly brought tears to my eyes. We cried out in voices thick with emotion.
 
-“Hyuung![^2]”
+“Hyuung!”
 
-“Hyung-nim![^2]”
+“Hyung-nim!”
 
 Childeuk awkwardly clasped his hands in a formal salute.
 
@@ -429,6 +429,3 @@ Then a voice reached my ear through Sound Transmission.
 “…”
 
 Somehow, I had a feeling I knew who was backing Childeuk.
-
-[^1]: Horse stance is a martial-arts training posture with the feet set wide and the knees bent.
-[^2]: *Hyung* is a Korean term a younger man uses for an older brother or older male acquaintance. *Hyung-nim* adds a respectful suffix.
