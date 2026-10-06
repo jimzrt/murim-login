@@ -120,9 +120,9 @@ Ding.
 >
 > **Fame** rises by 31!
 >
-> .
+> …
 >
-> ..
+> …
 >
 > **Fame** rises significantly!
 >
@@ -341,7 +341,7 @@ I stared at him in disbelief.
 
 Hyuk Mujin, who had lived a truthful life without a single shameful moment before the heavens, used dazzling verbal footwork to completely win over the county magistrate.
 
-The mounted bandits, most of whom had been Second Rate or Third Rate, became First Rate masters to a man—each a Lü Bu[^1] astride Red Hare.[^2] Pung Yang became an invincible master who could cleave mountains and seas with a single sword strike.
+The mounted bandits, most of whom had been Second Rate or Third Rate, became First Rate masters to a man—each a Lü Bu astride Red Hare. Pung Yang became an invincible master who could cleave mountains and seas with a single sword strike.
 
 *From now on, I’m filtering anything that comes out of this bastard’s mouth.*
 
@@ -367,7 +367,7 @@ What a bumper crop of bullshit.
 
 Suppressing the urge to smack Hyuk Mujin in the back of the head, I stepped forward.
 
-I had already milked the Fame for all it was worth, and it wasn’t rising anymore. There was no reason to keep talking to a potbellied middle-aged man.
+I had already milked the Fame for all it was worth, and there was no reason to keep talking to a potbellied middle-aged man.
 
 “Sorry to interrupt, but we’re in a hurry.”
 
@@ -402,6 +402,3 @@ Ding.
 > **System**
 >
 > A **Quest** has been created.
-
-[^1]: Lü Bu was a warrior and military commander of China’s Three Kingdoms era, famed for his fighting ability.
-[^2]: Red Hare was a celebrated horse associated with Lü Bu in the Three Kingdoms tradition.
