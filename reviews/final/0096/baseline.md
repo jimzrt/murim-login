@@ -6,7 +6,7 @@ He didn’t have an ounce of talent for elemental magic, but fortunately, he had
 
 *Except I can never go home.*
 
-What good was owning a house of more than 330 square meters?[^1] As Sangdong Guild’s only Familiar mage, he never ran out of work.
+What good was owning a house of more than 330 square meters? As Sangdong Guild’s only Familiar mage, he never ran out of work.
 
 Raid teams at least got to go home after running a Gate. The Security Team had no such luxury. They had to stay up all night in a different hideout each time.
 
@@ -66,7 +66,7 @@ The doctor was a civilian who couldn’t even use the simple Light magic, but if
 
 Kim Junsu was cautiously reaching up to feel the crown of his head when—
 
-“Target confirmed. Target confirmed. Moving!”
+—Target confirmed. Target confirmed. Moving!
 
 A low but urgent voice came through the radio.
 
@@ -136,13 +136,13 @@ A man approached, dragging his slippers. He looked to be in his early forties, w
 
 “No. I think it’s a stray, but it suddenly started acting affectionate.”
 
-“Wow, this is totally one of those. A dog-cat.”[^2]
+“Wow, this is totally one of those. A dog-cat.”[^1]
 
 “Exactly. Just like yesterday. I guess the cats in this neighborhood are pretty affectionate.”
 
 “Yesterday?”
 
-“Yeah. I picked one up yesterday too. Another dog-cat.”[^2]
+“Yeah. I picked one up yesterday too. Another dog-cat.”
 
 “Well, that’s something.”
 
@@ -164,7 +164,7 @@ I only smiled without saying anything, so the man asked, “So, are you going to
 
 “I’m not sure. I have something urgent to take care of. If it’s still here when I get back, maybe I’ll look after it for a few days.”
 
-“Who knows if it’ll still be here by then. Right, Nabi?”[^3]
+“Who knows if it’ll still be here by then. Right, Nabi?”
 
 “Mrow.”
 
@@ -232,7 +232,7 @@ Once he had confirmed that no one was nearby, he pulled out something other than
 
 “How was my acting? Maybe I should’ve become an actor instead of a Hunter. Seems like I’m better at acting than fighting.”
 
-“It’s me, the Team Leader.”
+—It’s me, the Team Leader.
 
 Plop.
 
@@ -244,11 +244,11 @@ Kim Gwondong, a C-rank Hunter in the Security Team, hurriedly collected himself 
 
 “Ah, yes, Team Leader.”
 
-“Kim Gwondong’s pretty good at acting, huh? You could quit the Guild and go to Hollywood.”
+—Kim Gwondong’s pretty good at acting, huh? You could quit the Guild and go to Hollywood.
 
 “I-I’m sorry.”
 
-“Don’t get scared. That was a compliment. Anyway, how’s the target? He didn’t catch on, did he?”
+—Don’t get scared. That was a compliment. Anyway, how’s the target? He didn’t catch on, did he?
 
 “I don’t think so.”
 
@@ -256,11 +256,11 @@ The Team Leader had already heard the conversation through Kim Junsu, but there 
 
 A cat’s eyes could not capture everything about the target clearly.
 
-“Are you sure? One hundred percent?”
+—Are you sure? One hundred percent?
 
 “Ninety percent.”
 
-“You little shit, is ninety percent certain? At times like this, you’re supposed to say it confidently and go for it.”
+—You little shit, is ninety percent certain? At times like this, you’re supposed to say it confidently and go for it.
 
 “It’s dangerous to jump to conclusions.”
 
@@ -270,7 +270,7 @@ Kim Gwondong cursed the Team Leader inwardly.
 
 He had to leave himself an escape route. Kim Gwondong’s ninety percent would only be complete once the Team Leader supplied the remaining ten.
 
-“That’s exactly the attitude I like to see. You know what to do next, right?”
+—That’s exactly the attitude I like to see. You know what to do next, right?
 
 The pleasure in the Team Leader’s voice signaled that they had finally reached one hundred percent.
 
@@ -278,11 +278,11 @@ Kim Gwondong subtly changed direction to avoid a resident approaching in the dis
 
 “Yes. I’ll circle the area naturally and keep watch.”
 
-“Right. Report immediately if anything unusual happens.”
+—Right. Report immediately if anything unusual happens.
 
 “Yes.”
 
-“Keep up the good work, then.”
+—Keep up the good work, then.
 
 No one overheard the conversation, which lasted just over a minute.
 
@@ -296,23 +296,23 @@ The Security Team Leader got busy. There were three external surveillance person
 
 “Number One.”
 
-“Number One here.”
+—Number One here.
 
 “You were listening on the all-team channel, right? What’s the situation with the real-estate office the target is heading to?”
 
-“There are two in the nearby shopping district. We’ve installed magical eavesdropping Equipment in both.”
+—There are two in the nearby shopping district. We’ve installed magical eavesdropping Equipment in both.
 
 “Good. Where’s the target?”
 
-“We haven’t seen him yet… Ah, there he is. He’s approaching from about 300 meters away.”[^4]
+—We haven’t seen him yet… Ah, there he is. He’s approaching from about 300 meters away.
 
 “Leave your position. We already installed the Equipment, so there’s no need to make contact for no reason.”
 
-“Yes. I’ll report immediately if anything unusual happens.”
+—Yes. I’ll report immediately if anything unusual happens.
 
 “Okay. Number Two?”
 
-“Standing by at my current position.”
+—Standing by at my current position.
 
 A deep voice came over the radio.
 
@@ -320,7 +320,7 @@ The Security Team Leader nodded at the reply from another team member concealed 
 
 “That bastard might veer off and take another route, so keep a close eye on him.”
 
-“Yes.”
+—Yes.
 
 Four C-rank Hunters specializing in stealth and tracking, plus a Familiar mage.
 
@@ -342,13 +342,10 @@ In his eyes, that was all Jin Taekyung was.
 
 Beep.
 
-“Target entering the real-estate office.”
+—Target entering the real-estate office.
 
 A report came over the radio from the team member keeping watch.
 
 Sangdong Guild’s Security Team went on full alert.
 
-[^1]: 330 square meters is about 3,550 square feet.
-[^2]: A Korean term for a cat that acts like a dog—friendly and affectionate.
-[^3]: *Nabi* means “butterfly” in Korean and is also a common name for a cat.
-[^4]: 300 meters is about 980 feet.
+[^1]: A Korean term for a cat that acts like a dog—friendly and affectionate.
