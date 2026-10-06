@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "An uncertain instinct, closer to a wild guess—one even Jin Taekyung could hardly make sense of.",
+      "defect": "The source describes an intuition close to an awkward fantasy or delusion, not a guess. “Wild guess” shifts the kind of intuition being described.",
+      "id": "F01",
+      "rationale": "The Korean says 어설픈 공상에 가까운 직감: an intuition close to an awkward or poorly formed fantasy.",
+      "replacement": "An uncertain instinct, closer to a half-baked fantasy—one even Jin Taekyung could hardly make sense of.",
+      "severity": "minor",
+      "source": "Lines 31–33"
+    },
+    {
+      "confidence": 0.88,
+      "current": "That was precisely why they couldn’t let him sacrifice himself in vain.",
+      "defect": "“Sacrifice himself” makes Jin Taekyung the agent of the sacrifice. The source says they could not let him be sacrificed in vain, without specifying that he would sacrifice himself.",
+      "id": "F02",
+      "rationale": "The source uses 덧없이 희생시킬 수 없었고, describing the group not letting him be sacrificed pointlessly.",
+      "replacement": "That was precisely why they couldn’t let him be sacrificed in vain.",
+      "severity": "minor",
+      "source": "Lines 317–323"
+    },
+    {
+      "confidence": 0.94,
+      "current": "At least, Choi Minwoo didn’t waver until he heard Jin Taekyung’s answer.",
+      "defect": "This makes Choi Minwoo’s composure the thing that held until the reply. The source’s “At least” qualifies the preceding claim about the barrier’s backlash; Minwoo’s eyes widening is narrated afterward.",
+      "id": "F03",
+      "rationale": "The source says 적어도, 뒤이어 들려온 진태경의 대답을 듣기 전까지는 그랬다: at least, that was the case until he heard the answer.",
+      "replacement": "At least, that was what Choi Minwoo thought—until he heard Jin Taekyung’s answer.",
+      "severity": "minor",
+      "source": "Lines 345–347"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but a few lines shift or omit specific meaning from the source.",
+  "version": 1
+}

@@ -60,7 +60,7 @@ Through the translucent membrane fogged by his warm breath, he stared at Cheon T
 
 Hiss. Crackle!
 
-His voice had grown louder without him noticing, echoing through the space. His hand, tensing on its own, struck the countless protective spells surrounding the capsule. But Jin Taekyung paid no mind to the pain in his skin.
+His voice rose without him noticing and echoed through the chamber. His hand pressed against the countless protective spells surrounding the capsule. Pain shot through his skin, but Jin Taekyung paid it no mind.
 
 He needed an answer to the conviction he’d only recently arrived at, incomplete though it was.
 
@@ -92,7 +92,7 @@ His surging emotions weren’t the only reason he’d stopped speaking. A second
 
 “For the record, I only just got here.”
 
-“They say a guilty conscience needs no accuser. Who said anything?”
+“Guilty conscience? I didn’t accuse you of anything.”
 
 Jin Taekyung’s expression and tone were as playful as ever, at odds with how he’d been only moments before.
 
@@ -116,7 +116,7 @@ After a moment’s silence, Jin Taekyung gave a short laugh.
 
 In a situation like this, there was only one thing to worry about: Jin Taekyung taking Cheon Taemin to the Dragon Lair, just the two of them.
 
-Of course, Cheon Taemin had been unconscious for a long time, and nobody in the Pentagon wanted that to happen. If it did, it would effectively be Jin Taekyung acting on his own.
+Cheon Taemin had been unconscious for years, and no one in the Pentagon wanted that to happen. If it did, Jin Taekyung would effectively have acted on his own.
 
 But while Jin Taekyung’s question had sounded like a joke, Choi Minwoo’s answer came in a low, steady voice.
 
@@ -126,7 +126,7 @@ But while Jin Taekyung’s question had sounded like a joke, Choi Minwoo’s ans
 
 “To be honest, I’m very worried.”
 
-Before Jin Taekyung could answer, eyes widening, Choi Minwoo added calmly, “I’m worried that you, Mr. Jin Taekyung, might make the stupid choice of fighting Morgoth alone.”
+Before Jin Taekyung could respond, Choi Minwoo added calmly, “I’m worried you’ll make the stupid choice to fight Morgoth alone.”
 
 “…”
 
@@ -148,11 +148,11 @@ Jin Taekyung stared at him in silence, then spoke.
 
 “…!”
 
-“Anyone who knows you well would feel the same. Spend enough time around you, and it becomes obvious how recklessly and foolishly you choose to act.”
+“Anyone who knows you well would feel the same. Spend enough time around you, and you see how often you make reckless, foolish choices.”
 
 Choi Minwoo stepped closer and looked at his grandfather sleeping inside the recovery capsule.
 
-“My maternal grandfather must have been the same. The two of you are so alike.”
+“My grandfather must have been the same way. The two of you are so alike.”
 
 “Alike?”
 
@@ -160,7 +160,7 @@ Choi Minwoo stepped closer and looked at his grandfather sleeping inside the rec
 
 “What do you mean…?”
 
-“Even after you came back from the Middle East, you haven’t gone to see your family. Even though you’re staying right here in the Pentagon.”
+“Even after you returned from the Middle East, you haven’t gone to see your family. Though they’re right here in the Pentagon, where you’ve been staying.”
 
 *Family.*
 
@@ -198,7 +198,7 @@ He’d fled everyone around him and come here, wanting to face Cheon Taemin once
 
 Then Choi Minwoo’s next words reached him, and Jin Taekyung realized something.
 
-“Watching you, Mr. Jin Taekyung, finally made me understand how my grandfather felt when he never came to see his only grandson.”
+“Watching you, Mr. Jin, I think I finally understand why my grandfather never came to see his only grandson.”
 
 Something he’d failed to notice until now.
 
@@ -218,7 +218,7 @@ He kept everyone at a distance.
 
 No one was an exception.
 
-Not even his closest companions, practically sworn brothers, or the daughter he’d cherished above all else.
+Not his closest companions, who were practically sworn brothers. Not even the daughter he was said to have cherished more than anything.
 
 When that daughter and her husband died in an accident, he left his young grandson in Butler Kim’s care rather than look after the boy himself.
 
@@ -228,7 +228,7 @@ And remained unconscious for more than a decade.
 
 *…Were you that afraid, too?*
 
-With those words swallowed on the tip of his tongue, Jin Taekyung gazed at Cheon Taemin, his eyes sinking into darkness.
+Jin Taekyung swallowed the words and gazed at Cheon Taemin, his eyes dark.
 
 He’d been right.
 
@@ -236,7 +236,7 @@ He still had no definite proof or testimony, but Choi Minwoo’s words had made 
 
 The shadow of that old hero, sleeping as if dead, stretched across two worlds.
 
-*He knew. He knew it wasn’t over yet. That Asmodeus hadn’t been completely erased.*
+*He knew it wasn’t over. He knew Asmodeus hadn’t been completely destroyed.*
 
 There was still so much Jin Taekyung hadn’t uncovered, so much he wanted to ask.
 
@@ -266,23 +266,23 @@ The brief, calm apology told Jin Taekyung everything.
 
 “Was this your plan from the beginning?”
 
-“As I said earlier, we know exactly what kind of person you are, Mr. Jin Taekyung.”
+“As I said, we know what kind of person you are, Mr. Jin.”
 
 “We?”
 
-“Of course, this wasn’t a decision I made on my own. Most of them, including Mr. Johnson and me, have already agreed to the plan.”
+“Of course, I didn’t make this decision alone. Most of the others, including Mr. Johnson, have already agreed to the plan.”
 
 “Most? Then someone must have opposed this ridiculous plan.”
 
-“No. No one did. We didn’t tell the people who might have caused trouble from the start, in case they became an unexpected variable. We’ve also made every other preparation we can.”
+“No. We didn’t tell anyone who might cause trouble. We couldn’t risk an unexpected complication. We’ve made every other preparation we could, too.”
 
 Thinking of Chuck Hagel and the Skeleton King, who still knew nothing about it, Choi Minwoo continued in a composed voice.
 
-“So… for the time we have left, you’ll stay here with me, Mr. Jin Taekyung.”
+“So… you’ll stay here with me for the time we have left, Mr. Jin.”
 
 The many people involved in the plan had a single goal: use every means at their disposal to keep Jin Taekyung—their only hope—here until the three days Morgoth had declared to the world were over.
 
-Fortunately, the secret space Jin Taekyung had found was perfectly suited to carry out the plan.
+Fortunately, the secret chamber Jin Taekyung had chosen was perfectly suited to the plan. Countless barrier spells had been installed to protect Cheon Taemin.
 
 Even so, one unpredictable element remained: Jin Taekyung himself.
 
@@ -292,7 +292,7 @@ The greatest and strongest Hunter in the world, successor to Cheon Taemin—a ma
 
 That was precisely why they couldn’t let him sacrifice himself in vain. And Choi Minwoo hadn’t forgotten one final precaution.
 
-“No matter how strong you are, Mr. Jin Taekyung, you won’t be able to get out of here.”
+“No matter how strong you are, Mr. Jin, you won’t be able to get out of here.”
 
 “Is that so?”
 
@@ -316,7 +316,7 @@ At least, Choi Minwoo didn’t waver until he heard Jin Taekyung’s answer.
 
 Grgrgrk.
 
-As the space warped beneath the unbearable heat, Jin Taekyung’s quiet voice echoed through it like a distant refrain.
+The space around them warped in the terrible heat, and Jin Taekyung’s quiet voice echoed through it.
 
 “I think otherwise.”
 
