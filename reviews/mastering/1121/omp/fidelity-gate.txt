@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled translation is largely faithful. One minor physical-detail nuance is blurred in the closing passage.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 307",
+      "current": "Maybe it was because of who had saved me.",
+      "defect": "The Korean attributes the warmth to the 모습—the sight or figure—of the person who saved the narrator. This wording shifts the cause toward the rescuer’s identity.",
+      "replacement": "Maybe it was because of the sight of the person who had saved me.",
+      "rationale": "The source explicitly refers to the rescuer’s 모습, a visual or physical detail, rather than simply who the rescuer was.",
+      "confidence": 0.83
+    }
+  ]
+}

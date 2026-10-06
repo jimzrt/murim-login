@@ -6,7 +6,7 @@ Even the shabbiest wall was still a wall.
 
 Xining’s Inner City had been built with street fighting against outside invaders in mind. Its walls might not compare to those of the Outer City, but they still offered a considerable advantage.
 
-It should have, anyway.
+Or they should have.
 
 KWA-BOOOOM!
 
@@ -18,7 +18,7 @@ No—one monster.
 
 Rumble.
 
-The Inner City wall crumbled with a roar like a scream, raising a thick cloud of dust. Watching it fall, the Blood Lord laughed wildly.
+The Inner City wall crumbled into a thick cloud of dust with a roar like a scream. Watching it fall, the Blood Lord laughed wildly.
 
 He prided himself on having gained power beyond human limits. To him, the sight was laughable.
 
@@ -58,7 +58,7 @@ As the crash and tremor shook heaven and earth, the Blood Lord smiled. Then he t
 
 The Blood Lord sounded almost casual. The Grand Mage’s gaze turned cold.
 
-“What have you done?”
+“What are you doing?”
 
 “What does it look like?”
 
@@ -106,11 +106,11 @@ The Blood Lord let out an exaggerated sigh.
 
 “Then let me correct that to *definitely*. There’s no way those old monsters in there couldn’t protect one little brat.”
 
-Even to the Grand Mage, it didn’t sound like an unreasonable guess.
+Even to the Grand Mage, it was a reasonable guess.
 
 Just fifteen minutes earlier, the defenders had retreated from the walls on all three sides except the East Gate and gathered in the Inner City. Among them were the Bow Saint, the Slaughter Saint, and the Fire King, Jeok Cheongang.
 
-They’d all suffered serious injuries while withdrawing to the Inner City, but even so, their wounds shouldn’t have been severe enough to prevent them from keeping Jin Taekyung safe.
+They had all suffered serious injuries on the way, but surely not enough to keep them from protecting Jin Taekyung.
 
 As if to prove the Blood Lord right, familiar faces appeared beyond the thinning dust cloud.
 
@@ -134,7 +134,7 @@ He could barely stand, using a white-glowing spear as a cane while Cheongpung su
 
 She had Magic—the mysterious power the Lord of Heaven had given her.
 
-Still, Jin Taekyung’s condition looked so grave she could sense his precarious state even from this far away.
+Still, Jin Taekyung’s condition looked grave even from this distance.
 
 *I have to take him to that person. As soon as possible.*
 
@@ -142,7 +142,7 @@ His injuries might be beyond even Magic’s power to heal completely.
 
 The anxious Grand Mage was about to recite a teleportation spell silently when—
 
-“What’s the rush?”
+“Why? Is there somewhere you need to be?”
 
 “……!”
 
@@ -168,13 +168,13 @@ The Blood Lord gave a short laugh and licked his lips with his red tongue.
 
 Realizing what he meant, the Grand Mage gritted her teeth.
 
-“Blood Lord, you’ve finally gone mad.”
+“Blood Lord. You really have gone mad.”
 
 “That’s strange. I could’ve sworn you always called me a madman.”
 
 “You dare go against that person’s will…?”
 
-After a brief silence, the Blood Lord answered with a bright smile.
+After a brief silence, the Blood Lord answered with a broad smile.
 
 At last, he had cast off his mask and shackles. He was freer—and stronger—than ever.
 
@@ -184,7 +184,7 @@ At that moment—
 
 Slice!
 
-A streak of red flashed. The Grand Mage’s hazy figure appeared three jang away.
+A blood-red flash cut through the air. The Grand Mage’s blurred figure reappeared three jang away.
 
 Then—
 
@@ -208,7 +208,7 @@ This time, even they could not hide their agitation.
 
 The Blood Lord addressed them calmly, choosing the shortest and surest method—one possible only in Dark Heaven.
 
-“By the command of the great Lord of Heaven, I have executed the apostate. From now on, I will command the entire army.”
+“By command of the great Lord of Heaven, I have executed an apostate. I now command the entire army.”
 
 “……!”
 
@@ -222,7 +222,7 @@ Rumble!
 
 With a roar that shook heaven and earth, tens of thousands of fanatics charged toward the Inner City.
 
-To punish the wicked heretics who dared oppose the Lord of Heaven—the living god and sole absolute ruler.
+They would punish the wicked heretics who dared oppose the Lord of Heaven—the living god, the one absolute ruler.
 
 The fanatics surged forward like a giant wave. The Blood Lord laughed aloud and began to walk.
 
@@ -230,7 +230,7 @@ He was going to take the life of the one man he had longed to kill.
 
 “Jin Taekyung—!”
 
-The monster’s roar, imbued with an unprecedented aura, rang across the battlefield and swallowed it whole.
+The monster’s roar, charged with unprecedented power, swept across the battlefield.
 
 * * *
 
@@ -240,7 +240,7 @@ The monster’s roar, imbued with an unprecedented aura, rang across the battlef
 
 The air trembled. Sound was muffled in my ears.
 
-Shouts and screams burst without pause from every direction. The bone-chilling clang of steel engulfed the battlefield.
+Shouts and screams rose without pause from every direction. The chilling clang of steel filled the battlefield.
 
 But through the chaos and my fading senses, I could still feel it:
 
@@ -256,7 +256,7 @@ The name I had been given at birth.
 
 In two different worlds, I existed as both one person and two.
 
-And maybe today was the last moment I’d been given.
+And perhaps today was the last day I had been given.
 
 *I have to go.*
 
@@ -270,7 +270,7 @@ Slice!
 
 A stray blade grazed my shoulder.
 
-Blood flowed—blood I hadn’t even known was still there—but I felt no pain as I reached out.
+Blood flowed—blood I hadn’t even known I had left. I felt no pain as I reached out.
 
 CRACK.
 
@@ -280,12 +280,12 @@ He instinctively tried to wrench his wrist from my grasp with all his strength, 
 
 BOOM!
 
-To someone else, it might have felt like flames hot enough to burn them alive. To me, it felt like the warmest thing in the world.
+To someone else, those flames would have felt hot enough to burn them alive. To me, they felt like warmth.
 
 Maybe it was because of who had saved me.
 
 “El…der.”
 
-Squeezing out every last bit of my voice, I grabbed Jeok Cheongang’s shoulder and whispered.
+I squeezed the word out, gripped Jeok Cheongang’s shoulder, and whispered.
 
 “A path. Please open a path for me.”
