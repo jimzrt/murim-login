@@ -2,7 +2,7 @@
 
 With the collapsed walls at their backs, the defenders fought more fiercely and more valiantly than ever.
 
-After surviving against impossible odds and retreating to the Inner City, they numbered a little over five thousand.
+After surviving against impossible odds and retreating to the Inner City, they numbered around five thousand.
 
 Compared to the tens of thousands of fanatics blackening the land on every side, they were a mere handful. Yet the last-ditch defenders didn’t give an inch.
 
@@ -14,13 +14,13 @@ But having nowhere left to retreat didn’t mean they could advance.
 
 KRRRUNCH!
 
-Flesh split, revealing white bone. Amid the red mist that swirled over the battlefield at the moment of impact, anguished screams and shouts rang out, muffled and dull.
+Flesh split, revealing white bone. In the red mist that engulfed the battlefield as the two sides collided, screams of pain and shouted orders rang out, strangely muffled.
 
 “Graaaagh!”
 
 “Hold the line! We have to hold—!”
 
-Stab!
+THUNK!
 
 An axe blade cleaved through the crown of his head, cutting off the shout.
 
@@ -28,9 +28,7 @@ The man who crumpled had been a Peak master renowned as a hero throughout Qingha
 
 And he wasn’t the only one.
 
-The Sect Leader of a school. The Family Head of a household surrounded by relatives.
-
-A young man whose downy cheeks hadn’t even lost their softness.
+The Sect Leader of a school. A Family Head with a household to look after. A young man who had barely grown out of childhood.
 
 The moment the fanatics’ blind blades swept them up, they fell as nothing more than lumps of meat.
 
@@ -46,7 +44,7 @@ The energy they had left. Their numbers.
 
 They lacked everything. Desperately.
 
-The dead rolled limply across the ground. Those still alive could only tremble on instinct as they watched the advancing enemy trample over the bodies of their fallen comrades.
+The dead rolled limply across the ground. Those still alive could only tremble as they watched the advancing enemy trample the bodies of their fallen comrades.
 
 Fear and anger gripped them, along with the helplessness of being unable to do anything.
 
@@ -72,7 +70,7 @@ He wasn’t walking alone anymore.
 
 Now, they walked together.
 
-Along the perilous, steep path to the brink of death that Jeok Cheongang had always been forced to walk alone, there was now someone at his side—a man who had become both a part of him and his whole world.
+On the perilous, steep path toward death that Jeok Cheongang had always been forced to walk alone, there was now someone at his side—someone who had become both a part of him and his whole world.
 
 “Don’t retreat! Don’t be afraid!”
 
@@ -86,7 +84,7 @@ It was a request from Jin Taekyung, his one and only Disciple.
 
 A reckless request. One that might truly be his last.
 
-But the old Master couldn’t refuse his Disciple, already standing at death’s door.
+But the old Master couldn’t refuse a Disciple already standing at death’s door.
 
 And Jeok Cheongang wasn’t the only one willing to grant it.
 
@@ -154,9 +152,9 @@ Then it struck with enough destructive power to wipe away that fleeting impressi
 
 Slice—SPLAAASH!
 
-A fountain of blood burst into the air.
+Fountains of blood burst into the air.
 
-Among the enemies crumpling to the ground, the Bow Saint appeared. Following the movement of her fingers, the broken bowstaff—split in two amid the fierce battle at the West Gate—moved with blinding speed.
+The Bow Saint appeared among the crumpling enemies. At the movement of her fingers, the bow that had been split in two during the fierce battle at the West Gate moved with blinding speed.
 
 KRRRUNCH!
 
@@ -172,11 +170,11 @@ SHSHSHK!
 
 A handful of purple Force, the color of sunset, sketched out flowers.
 
-The dozens of plum blossoms seemed beautiful—until they touched the fanatics. Then they turned an even deeper red and bloomed in a glorious spray.
+Dozens of beautiful plum blossoms touched the fanatics, turned a deeper red, and burst into full bloom.
 
 “Why’d you have to come along too…?”
 
-Before the Slaughter Saint could stop Cheongpung from plunging deep into enemy lines to join this perilous undertaking, a roar from far away swallowed the battlefield.
+Before the Slaughter Saint could stop Cheongpung from plunging deep into enemy lines for this perilous journey, a roar from far away swallowed the battlefield.
 
 “……!”
 
@@ -184,13 +182,13 @@ Before the Slaughter Saint could stop Cheongpung from plunging deep into enemy l
 
 If a sound could take the shape of a giant, would it look like this?
 
-The roar was so immense it shook even the eardrums of someone whose hearing had already burst. And there was a desperate, almost spiteful edge to it.
+The roar was so immense it shook even eardrums that had already burst. It sounded desperate, almost fierce with defiance.
 
 Everyone who turned toward its source stared wide-eyed.
 
 Jeok Cheongang and Cheongpung, injured themselves, supporting Jin Taekyung as they fought off their enemies.
 
-The Slaughter Saint and Bow Saint, realizing that the enemy reinforcements who had finally taken the East Gate had arrived.
+The Slaughter Saint and the Bow Saint, who sensed that reinforcements from the enemy-held East Gate had finally arrived.
 
 And one man walking slowly toward them, an overwhelming aura pouring from him.
 
@@ -218,7 +216,7 @@ The Blood Lord meant it. He could think of no other explanation for the absurd s
 
 But no matter how he questioned it or thought it over, he couldn’t find an answer.
 
-No—even if the Blood Lord gained the power of true immortality, he could never understand it.
+Even if the Blood Lord gained the power of true immortality, he would never understand.
 
 The old, the powerless, the very young—people born to spend their lives being trampled and trembling in fear—were risking their lives to protect someone else. He couldn’t even imagine it.
 
@@ -234,12 +232,12 @@ They were here.
 
 Today. Right here.
 
-“How—dare you!”
+“How dare you!”
 
 The monster’s roar, charged with power beyond anything before it, crushed the civilians’ seemingly endless shouts.
 
 “…up.”
 
-With a faint voice only a handful of people could hear, Jin Taekyung forced his eyelids open in his Master’s arms and struggled to speak.
+Only a handful of people could hear the faint voice. In his Master’s arms, Jin Taekyung forced his eyelids open and struggled to finish.
 
 “Shut up already…you fucking bastard.”
