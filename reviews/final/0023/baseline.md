@@ -222,6 +222,8 @@ His head snapped back. Thick droplets of blood sprayed through the air in slow m
 
 Yet somehow, he didn’t fall. He couldn’t—not unless I let go of his fist.
 
+Of course, that was only because I still had hold of his fist.
+
 “Five.”
 
 Smack!
@@ -306,9 +308,9 @@ Blood poured from the gaping wound running from his shoulder to his chest. It wa
 
 His fading voice cut off abruptly. A middle-aged man clicked his tongue as he stared into the martial artist’s wide-open eyes.
 
-“Good grief, you poor fool.”
+“Good grief, you poor fool. You can’t just come charging in like that.”
 
-How could he charge in like that without warning? The words that followed never reached the dead man. The fifty-odd wandering martial artists surrounding them snickered.
+The rest of his words never reached the dead man. The fifty-odd wandering martial artists surrounding them snickered.
 
 “Of all people, he had to run into the boss. Rotten luck.”
 
