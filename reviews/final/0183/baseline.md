@@ -22,7 +22,7 @@ If a guy like that were a thug, forget the police—the people’s cane. Even th
 
 For a moment, the epithets I’d just heard—Huashan’s Lone Crane and the Three Plum Blossom Elites—flashed through my mind, but that was as far as it went.
 
-No matter how I looked at him, he seemed more like the Majang-dong[^1] Knifeman or Seocho-dong Twin Axes than a crane or a plum blossom. Those sorts of nicknames suited him much better.
+No matter how I looked at him, he seemed more like the Majang-dong Knifeman or Seocho-dong Twin Axes than a crane or a plum blossom. Those sorts of nicknames suited him much better.
 
 When I merely stared without answering, the hulking man—Chulwoo—frowned.
 
@@ -78,7 +78,7 @@ Above the terrified middle-aged man’s head floated the Level window I had dete
 >
 > **Level:** 60 — **Woo Hwangtae**
 
-That was a name that made me crave hangover soup.[^2]
+That was a name that made me crave hangover soup.
 
 It also sounded vaguely familiar.
 
@@ -162,7 +162,7 @@ Once by the boomer attitude of a twenty-five-year-old, and again by the fact tha
 
 Even if he had been fed protein supplements instead of breast milk as a baby, he shouldn’t have ended up like this. I asked with considerable astonishment,
 
-“Twenty-five? Is your name Benjamin[^3] or something? You’re living your life backward all by yourself.”
+“Twenty-five? Is your name Benjamin or something? You’re living your life backward all by yourself.”
 
 Benjamin Chulwoo glared at me.
 
@@ -186,7 +186,7 @@ Chulwoo released Woo Hwangtae’s collar. Trembling as he looked back and forth 
 
 “You… Hoo. Hoooo.”
 
-“Are you angry, Benjamin[^3]?”
+“Are you angry, Benjamin?”
 
 “Shut that damn mouth!”
 
@@ -224,7 +224,7 @@ Chulwoo ground his teeth and glared at me.
 
 “Make one more wordplay joke, and I’ll put you in bed for three years.”
 
-“Watch your mouth—unless you want your family observing three years of mourning.[^4]”
+“Watch your mouth—unless you want your family observing three years of mourning.”
 
 Chulwoo smiled thinly. It wasn’t a smile born of amusement. It was the kind of smile that appeared on its own when someone’s anger had reached the top of his head.
 
@@ -234,7 +234,7 @@ Boom!
 
 Before he could finish speaking, an enormous roar rang out, and the ground shattered.
 
-The two-meter-tall[^5] giant launched himself like a cannonball. The time it took him to reach the tip of my nose was no more than an instant.
+The two-meter-tall giant launched himself like a cannonball. The time it took him to reach the tip of my nose was no more than an instant.
 
 “It’s going to hurt.”
 
@@ -244,7 +244,7 @@ With a chilling voice, the air scattered.
 
 No—it was crushed.
 
-It was nothing more than a simple punch, with no form or martial principle added to it. The force contained in that fist exploded with enough momentum to shatter a thousand-geun[^6] boulder.
+It was nothing more than a simple punch, with no form or martial principle added to it. The force contained in that fist exploded with enough momentum to shatter a thousand-jin boulder.
 
 But…
 
@@ -252,7 +252,7 @@ But…
 
 Bang! B-bang!
 
-I bent backward as if lying down. The fist tore through the air a handspan above me, compressed air exploding from its tip. A tree about ten feet away went flying as if caught in a typhoon.
+I bent backward as if lying down. The fist tore through the air a handspan above me, compressed air exploding from its tip. A tree more than ten feet away went flying as if caught in a typhoon.
 
 *Wow. This guy was serious.*
 
@@ -270,7 +270,7 @@ One punch, two punches, three. Each time I easily dodged another blow, my suspic
 
 *I think I can win.*
 
-Even a thousand-geun[^6] boulder had to be hit before it could be shattered.
+Even a thousand-jin boulder had to be hit before it could be shattered.
 
 No matter how powerful an attack was, it meant nothing if it failed to connect.
 
@@ -316,7 +316,7 @@ He might not have known what *bingo* meant, but he understood that it meant yes 
 
 “Try hitting me at least once before saying that. You said it would hurt, but this just feels refreshing.”
 
-“I’ll admit it. You may not be a dragon, but you could at least qualify as an imugi.[^7]”
+“I’ll admit it. You may not be a dragon, but you could at least qualify as an imugi.[^1]”
 
 “Good grief, that’s a harsh assessment.”
 
@@ -452,10 +452,4 @@ While everyone watched them with warm smiles, the beaming Jin Taekyung and Chulw
 
 Amid the thunderous cheers, a fierce exchange unfolded—one only Peak masters could hear.
 
-[^1]: Majang-dong is a Seoul neighborhood known for its livestock and meat markets.
-[^2]: *Hwangtae* is dried pollock, an ingredient in soup commonly eaten as a hangover remedy.
-[^3]: Benjamin refers to Benjamin Button, a fictional character who ages backward.
-[^4]: Three years of mourning was a traditional period of mourning for a parent in Korean and Chinese custom.
-[^5]: Two meters is about 6 ft 7 in.
-[^6]: A *geun* is a Korean unit of weight equal to 600 g (1.32 lb); a thousand geun is about 600 kg (1,320 lb).
-[^7]: An *imugi* is a legendary serpent said to have the potential to become a dragon.
+[^1]: An *imugi* is a legendary serpent said to have the potential to become a dragon.
