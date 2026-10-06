@@ -12,11 +12,11 @@ Unlike his comrades, who had become cold corpses one after another, he wouldn’
 
 But it was too soon to feel safe.
 
-This hour wasn’t over yet.
+This wasn’t over yet.
 
 “So they’re all just watching and waiting to see what happens?”
 
-At the Blood Lord’s question, the messenger lowered himself further, prostrating himself before he answered.
+At the Blood Lord’s question, the messenger bowed even lower before answering.
 
 “That is correct. The Nine Sects and One Gang and the Five Great Families are watching the situation and strengthening their defenses, but they have made no further moves.”
 
@@ -40,11 +40,11 @@ The Grand Mage smiled coldly at the reminder of her failure in Gansu.
 
 For an instant, the smile on the Blood Lord’s lips faded.
 
-Ever since Sword Saint Mae Jonghak’s strike had taken one of his arms during the incident the Central Plains Murim called the Shaolin Bloodshed, it had become a sore point he could not bear to have touched.
+Ever since Sword Saint Mae Jonghak’s strike had taken one of his arms during the incident the Central Plains Murim called the Shaolin Bloodshed, it had become a sore point no one dared touch.
 
 *That damned woman.*
 
-Of course, he had accomplished his mission well enough.
+Of course, he had accomplished his mission.
 
 He had stolen the Green Jade Buddha Staff, the most important prize, and killed numerous Shaolin Temple martial monks, including the Abbot, Hong Dao, dealing the temple a devastating blow.
 
@@ -154,13 +154,13 @@ Qi surged with her cold voice.
 
 At that moment, the Grand Mage was truly furious.
 
-Furious that the Blood Lord had moved so many troops without so much as a word of discussion with her.
+The Blood Lord had moved so many troops without so much as a word of discussion with her.
 
 In doing so, he had wasted the dozens of magic formations Dark Heaven had spent so long planting throughout the world—and missed a golden opportunity to take it.
 
 Yet even as she seethed, the smile on the Blood Lord’s lips did not disappear.
 
-If anything, it grew even broader.
+If anything, it grew broader.
 
 *What?*
 
@@ -216,7 +216,7 @@ The Grand Mage fixed the Blood Lord with a piercing gaze.
 
 “What?”
 
-“When bandits start rampaging all around them, wouldn’t it be stranger if we did nothing to help or intervene?”
+“When bandits start rampaging on all sides, wouldn’t it be stranger if we did nothing to help them?”
 
 “…!”
 
@@ -238,7 +238,7 @@ The Blood Lord rose to his feet and continued,
 
 *Step. Step.*
 
-His voice scattered as his footsteps rang out slowly.
+His voice carried over the slow sound of his footsteps.
 
 “And if they stay where they are, we’ll pass through Qinghai and head into the Central Plains.”
 

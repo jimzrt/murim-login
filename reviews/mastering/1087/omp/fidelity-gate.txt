@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is largely faithful, but it omits the messenger’s explicit subordinate relationship to the Blood Lord.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 12–14",
+      "current": "the violent man before him",
+      "defect": "The Korean calls the Blood Lord the messenger’s superior (상관); “man” omits that relationship.",
+      "replacement": "the violent superior before him",
+      "rationale": "The source explicitly identifies the person who might kill the messenger as his superior, preserving the hierarchy between them.",
+      "confidence": 0.98
+    }
+  ]
+}
