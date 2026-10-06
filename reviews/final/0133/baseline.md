@@ -18,7 +18,7 @@ Woo Jintae let out a hearty laugh.
 
 “Ha-ha! Loosen your belts and eat to your hearts’ content. I’m paying for everything again today.”
 
-“Wow, as expected of you, hyung[^1]! At this rate, aren’t you going to pull up one of the foundation pillars of the Seongun Escort Bureau?”
+“Wow, as expected of you, hyung! At this rate, aren’t you going to pull up one of the foundation pillars of the Seongun Escort Bureau?”
 
 “Oh my, can you afford all this?”
 
@@ -112,13 +112,13 @@ At Woo Jintae’s charming smile, the only daughter of a martial sect with more 
 
 *Once I make her indebted to me, there will be a day when I can put that debt to use.*
 
-“Hyung[^1], now I’m hurt. How can you only look after the young ladies?”
+“Hyung, now I’m hurt. How can you only look after the young ladies?”
 
-This time, he winked at the scion of a martial family who had become close enough with him to call each other hyung[^1] and little brother.
+This time, he winked at the scion of a martial family who had become close enough with him to call each other hyung and little brother.
 
 “As if I could forget you, Little Brother Hyuk. Just wait. I’ve prepared an absolutely incredible gift for you.”
 
-“Damn, as expected of you, hyung[^1].”
+“Damn, as expected of you, hyung.”
 
 “Ha-ha, Young Hero Woo, you haven’t forgotten me, have you?”
 
@@ -343,5 +343,3 @@ Five pairs of astonished eyes turned toward me. No, seven, counting Hyuk Mujin a
 The next moment, my palm met his cheek.
 
 *Smack!*
-
-[^1]: *Hyung* is a Korean term a man uses to address an older brother or an older man with whom he is close.
