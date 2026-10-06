@@ -18,7 +18,7 @@ A brief silence passed between them. After savoring his tea, Im Chunsoo suddenly
 
 “Ah, yes. I suppose it must be good tea.”
 
-“This is Longjing tea.[^1] I received it as a gift, but to be honest, I don’t really know what it is. It’s just filthy expensive.”
+“This is Longjing tea. I received it as a gift, but to be honest, I don’t really know what it is. It’s just filthy expensive.”
 
 “What?”
 
@@ -126,7 +126,7 @@ By the time he raised his head, the high-quality wooden table had frozen solid.
 
 “…Team Leader 1. Did I hear that wrong? An exam candidate, not a Hunter?”
 
-“I checked again myself, but there’s no mistake. He’s the manager of the goshiwon[^2] where Jin Taekyung lives. They’re supposedly like sworn brothers.”
+“I checked again myself, but there’s no mistake. He’s the manager of the goshiwon where Jin Taekyung lives. They’re supposedly like sworn brothers.”
 
 “Hah. Today keeps surprising me.”
 
@@ -170,7 +170,7 @@ With both ankles broken, Choi Byungil kept talking to me, his face white as a sh
 
 “Then who was the person you called?”
 
-“How many times do I have to tell you? He’s my goshiwon[^2] manager hyung.[^3] Would you know him if I said his name was Seong Jinho?”
+“How many times do I have to tell you? He’s my goshiwon manager hyung. Would you know him if I said his name was Seong Jinho?”
 
 “This can’t be. This can’t be happening.”
 
@@ -238,7 +238,7 @@ His tone was full of both resentment and sincerity. The final words in particula
 
 The mastermind behind it was, as expected, the Sangdong Guild—or, more precisely, Im Chunsoo.
 
-After seeing that his spendthrift son had been shaken down for a hundred million won[^4] in income, he had immediately started digging into our Guild.
+After seeing that his spendthrift son had been shaken down for a hundred million won in income, he had immediately started digging into our Guild.
 
 Well, in the end, I turned the tables and robbed him instead.
 
@@ -290,7 +290,7 @@ The Guild Master of a mid-sized Guild had come all the way here himself to meet 
 
 “Come down. We can clear up any misunderstandings over a meal.”
 
-There was no misunderstanding to clear up, but I had no idea what would happen if I said, “No.”
+There was no misunderstanding to clear up, but I had no idea what would happen if I said, *No.*
 
 Hadn’t the man already found out my location?
 
@@ -447,8 +447,3 @@ A man standing behind him at the entrance to the hiking trail greeted us in a ge
 Kim Hwajong.
 
 Kim Butler had arrived.
-
-[^1]: Longjing, also called Dragon Well, is a Chinese green tea.
-[^2]: A *goshiwon* is a residence of small, inexpensive rooms, originally associated with people studying for competitive exams.
-[^3]: *Hyung* is a term a man uses for an older brother or an older male friend.
-[^4]: One hundred million Korean won is about $71,000 or €65,000 at the project rates.
