@@ -12,13 +12,13 @@ At the same time, instinct and reason whispered in unison.
 
 His senses sharpened until every hair on his body stood on end. Jin Taekyung shot upward on the explosive force of Flamefire Path and brought his spear down with all his strength.
 
-Toward the Black Dragon’s eye—larger than Jin’s entire body, and blacker than anything else.
+Toward the Black Dragon’s eye—larger than Jin’s entire body, and darker than anything else in existence.
 
 *Fwoosh—KABOOM!*
 
 A line of fire split the air.
 
-No—the countless seams hidden within it.
+No—the countless threads hidden within that space.
 
 *Shhhhk.*
 
@@ -30,9 +30,9 @@ Nothing else could be seen or heard.
 
 Even if someone else had been standing right there, watching it all unfold, they would never have understood what had happened.
 
-But the two beings who had finally come face-to-face knew.
+But at last, the two beings facing each other knew.
 
-That single strike had cut through dozens of layers of the highest-grade defensive magic at once.
+That single strike had instantly shattered the highest-grade defensive magic, layered dozens of times over.
 
 *I cut it.*
 
@@ -40,13 +40,13 @@ A shiver ran up Jin Taekyung’s spine.
 
 It worked.
 
-As his insight deepened and his martial prowess grew, he had begun to sense the flow of qi more and more clearly. Now he could sense it in the monster before him, too.
+The flow of qi, which had become clearer to him as his insight deepened and his martial prowess grew, was there in the monster before him, too.
 
 But the spearhead that had torn through the defensive magic never reached its target.
 
 *Rrrumble—!*
 
-An immense force suddenly fell on him from above.
+An immense force suddenly dropped from above.
 
 And the force humanity called gravity was faster and heavier than Jin Taekyung had expected.
 
@@ -56,7 +56,7 @@ A cloud of dust rose in the wake of his body as it slammed down at tremendous sp
 
 Just as Jin Taekyung had cut through the defensive magic with a single attack, Morgoth had sent him crashing to the ground with overwhelming gravity. The Black Dragon muttered in a low voice.
 
-“Did you think I wouldn’t anticipate even this?”
+“Did you think I wouldn’t see even this coming?”
 
 The words slipping between the Black Dragon’s teeth were more than mere sound.
 
@@ -66,19 +66,19 @@ The magic within the Dragon’s words stirred. Countless blades of wind formed, 
 
 *BOOM!*
 
-The thick dust cloud burst apart. Jin Taekyung raced over ground sliced through like tofu, dodging as Morgoth unleashed one spell after another.
+The thick dust cloud burst apart. Jin Taekyung raced over the ground, sliced through like tofu, dodging the onslaught as Morgoth unleashed one spell after another.
 
-Morgoth’s voice continued, almost as if he were talking to himself.
+His voice continued, almost as if he were talking to himself.
 
 “Thank you. Thanks to you, I’ve finally realized something important.”
 
-Until now, fear had seemed to a great being like Morgoth nothing more than a weak emotion.
+Until now, fear had seemed to the great being Morgoth nothing more than a weakness.
 
 So he had tried to forget it.
 
 He simply hadn’t been able to.
 
-But today, watching one human, he had glimpsed a great truth he had been refusing to face.
+But today, by watching a certain human, he had glimpsed a great truth he had been ignoring.
 
 “If you fully acknowledge and accept the fear lurking in your heart, you can no longer call it fear.”
 
@@ -96,7 +96,7 @@ Like the person fighting his way through a curtain of magic that now surrounded 
 
 “And so, I too will grow stronger.”
 
-Morgoth dropped the barest courtesy he had maintained for the sake of his own dignity, not his opponent’s. He let go of the last sliver of arrogance that remained. Then he added quietly:
+Morgoth let go of the barest courtesy he had used not for his opponent, but to maintain his own dignity. He let go of the last sliver of arrogance that remained. Then he added quietly:
 
 “Because I’m… afraid of you, you bastard.”
 
@@ -104,7 +104,7 @@ At that moment—
 
 *CRACK—KABOOM!*
 
-The ground caved in within a radius of a hundred meters around Jin Taekyung. Countless thorny vines burst through the cracks and surged toward him.
+The ground caved in within a hundred meters of Jin Taekyung. Countless thorny vines burst through the cracks and surged toward their target.
 
 *Shwaaa!*
 
@@ -112,9 +112,9 @@ A sharp whistle rang out from every direction.
 
 This was no ordinary binding spell, nor were these common thorny vines.
 
-Their stems were as thick as the trunks of mature trees, covered from end to end in enormous thorns.
+Their trunks were as thick as mature trees, covered without a gap by enormous thorns.
 
-They had drunk their fill of the Black Dragon’s magical power instead of sunlight. Each one was strong enough to crush a human body in an instant, and Jin Taekyung could feel the power within them.
+Instead of sunlight, they had drunk their fill of the Black Dragon’s magical power. Each one was strong enough to crush a human body in an instant, and Jin Taekyung could feel the power within them.
 
 He also knew there was only one way to escape this tenacious magical prison closing in from every direction.
 
@@ -134,15 +134,17 @@ A storm that swept everything away, and hellfire capable of burning anything.
 
 Fire Dragon’s Single Tail.
 
-In the midst of a life-or-death struggle, the first form of the Blazing Flame Divine Spear, at last reaching the edge of its realm, flowed along the spearhead.
+In the life-or-death crisis, the first form of the Blazing Flame Divine Spear, at last approaching the pinnacle of its realm, flowed along the spearhead.
 
-The fiery storm spread beyond a single line into a vast circle, hungrily devouring everything in its path.
+The fiery storm crossed a single line, then spread into a vast circle, hungrily devouring everything in its path.
 
 The ice and lightning that had ceaselessly blanketed the sky and rained down.
 
 The thorny vines that surged from every direction, seeming to swim through the ground.
 
 *KABOOOOOM!*
+
+Ash-white powder and still-glowing embers drifted like snow.
 
 They swept past Jin Taekyung, standing alone and upright in the heat haze rising from the ground.
 
@@ -172,9 +174,9 @@ And this time, nothing unexpected happened.
 
 *BOOM! Shrrrk!*
 
-His knees buckled first under a weight of dozens of tons. Thick thorny vines slithered over him like living snakes and bound his whole body.
+First, his knees buckled under the weight of dozens of tons of gravity. Thick thorny vines, slithering like living snakes, bound his whole body.
 
-At the same time, dozens of spells converged in the air, shining down on one human like a small sun.
+At the same time, dozens of spells converged in the air, shining on one human like a small sun.
 
 *Jin Taekyung.*
 
@@ -190,17 +192,17 @@ But…
 
 It was the difference in what they had been born with.
 
-The size of the vessel that could contain their power, the total amount of strength they possessed—those were different.
+The size of the vessel that could contain their power, the total amount of strength they possessed—it was different.
 
 Morgoth and Jin Taekyung.
 
 Jin Taekyung and Morgoth.
 
-The two beings were different in every way, and each had fought the other with everything they had. But Morgoth’s vessel of power was deeper and larger than Jin Taekyung’s.
+The two beings were different in every way, and each had fought the other with everything they had. But the vessel of power within Morgoth was deeper and larger than Jin Taekyung’s.
 
 That was all.
 
-That was the sole reason this battle—and, beyond it, the fate of the world—had been decided.
+That was the sole reason that decided the battle today—and, beyond that, the fate of this world.
 
 *Meeting you was the greatest amusement I have ever experienced.*
 
@@ -216,13 +218,13 @@ Dragon Breath.
 
 A supreme power granted only to dragonkin.
 
-Because he feared harming the Dragon-tooth soldiers, and because he had so little time to release it, its range and destructive power fell far short of their usual level.
+The range and destructive power were far below their usual level, partly because he feared harming the Dragon-tooth soldiers, and partly because he had so little time left to use it.
 
 But it was more than enough.
 
 His only purpose was to erase a single human from this world without leaving a trace.
 
-*Jin Taekyung. The weakest of humans, and yet a hero more resilient than anyone.*
+*Jin Taekyung. The weakest of humans, and yet a hero stronger than anyone.*
 
 *Gooooong.*
 
@@ -246,7 +248,7 @@ The world stopped.
 
 Or at least, that was how it seemed to Jin Taekyung.
 
-But his eyes, dimmer than usual, weren’t fixed on the countless spells coloring the air, or the Dragon’s breath, which held more power than all of them combined.
+But his dimming eyes weren’t fixed on the countless spells coloring the air, or the Dragon’s breath, which held more power than all of them combined.
 
 *So this is what it was.*
 
@@ -272,7 +274,7 @@ Back then, Jin Taekyung hadn’t answered.
 
 No—he couldn’t.
 
-He had been caught in a sensation that ruled his body and flesh.
+He had been captured by a sensation that ruled his body and flesh.
 
 Just like now.
 
@@ -296,7 +298,7 @@ He saw it, but didn’t see it.
 
 No-self.
 
-True to the meaning of those two characters, Jin Taekyung forgot everything.
+True to the meaning contained in those two characters, Jin Taekyung forgot everything.
 
 His memories up to that point. The many emotions lurking like thorns in his mind and heart.
 
@@ -306,4 +308,4 @@ And yet his pupils, now tinged with a deep blue-black light, were reading everyt
 
 *Mind’s Eye.*
 
-Feeling something he hadn’t experienced since that day, Jin Taekyung lifted his spear as if entranced.
+In a sensation he hadn’t experienced once since that day, Jin Taekyung lifted his spear as if entranced.

@@ -92,13 +92,13 @@ Humans were undeniably weak. They had neither the long lives of elves, nor the d
 
 But because they knew their own weakness and fear, they spent their lives struggling to grow stronger, each in their own way.
 
-Like the person fighting his way through a curtain of magic that now surrounded him on all sides, closing in without a gap, relying on nothing but a single spear.
+Like the person fighting his way through a curtain of magic that surrounded him on all sides, closing in without a gap, relying on nothing but a single spear.
 
 “And so, I too will grow stronger.”
 
 Morgoth dropped the barest courtesy he had maintained for the sake of his own dignity, not his opponent’s. He let go of the last sliver of arrogance that remained. Then he added quietly:
 
-“Because I’m… afraid of you, you bastard.”
+“Because I’m… afraid of you.”
 
 At that moment—
 
@@ -108,7 +108,7 @@ The ground caved in within a radius of a hundred meters around Jin Taekyung. Cou
 
 *Shwaaa!*
 
-A sharp whistle rang out from every direction.
+Sharp whistles rang out from every direction.
 
 This was no ordinary binding spell, nor were these common thorny vines.
 
@@ -118,11 +118,9 @@ They had drunk their fill of the Black Dragon’s magical power instead of sunli
 
 He also knew there was only one way to escape this tenacious magical prison closing in from every direction.
 
-*Grit.*
-
 He steadied his breathing. Clenched his teeth.
 
-He planted a step with the weight of a thousand pounds, using that foot as his pivot, he gathered the internal energy he had left—not even half of what he’d started with—and poured it into the tip of White Flame.
+He stepped forward, planting a foot with the weight of a thousand pounds. Using it as his pivot, he gathered the internal energy he had left—not even half of what he’d started with—and poured it into the tip of White Flame.
 
 Then—
 
@@ -144,7 +142,7 @@ The thorny vines that surged from every direction, seeming to swim through the g
 
 *KABOOOOOM!*
 
-They swept past Jin Taekyung, standing alone and upright in the heat haze rising from the ground.
+White ash and still-glowing embers drifted like snow past Jin Taekyung, who stood alone in the heat haze rising from the ground.
 
 At the same time, Morgoth instinctively knew.
 
@@ -164,9 +162,9 @@ And that wasn’t all.
 
 “Gravity.”
 
-A force far beyond the bounds of ordinary gravity magic shook the sky. Magic spells of devastating power filled the gaps, each one as powerful as the dazzling flashes they produced.
+A force far beyond ordinary gravity magic shook the sky. Powerful attack spells filled the gaps, their flashes dazzling.
 
-All in one direction, for one purpose.
+All directed toward one place, for one purpose.
 
 And this time, nothing unexpected happened.
 
@@ -182,7 +180,7 @@ As Morgoth watched him, bound like a criminal and waiting for death to come, a t
 
 If he hadn’t been a Dragon.
 
-Or if Jin Taekyung had possessed a Dragonheart, brimming with power almost without limit like his own, perhaps Jin Taekyung would be the one standing there now instead of him.
+Or if Jin Taekyung had possessed a Dragonheart, brimming with power almost without limit like his own, perhaps Jin Taekyung would have been the one left standing instead.
 
 But…
 
@@ -210,7 +208,7 @@ With the highest praise he could offer, the Black Dragon opened his enormous jaw
 
 The Dragon’s heart, deep within his body, shuddered.
 
-No matter how much he emptied and poured out, pure magical power continued to fill him without end. Its chillingly low rumble swirled between the Dragon’s teeth, dark as a cave.
+No matter how much power he poured out, pure magical power continued to fill him without end. It swirled between the Dragon’s teeth, dark as a cave, with a chillingly low rumble.
 
 Dragon Breath.
 
@@ -228,7 +226,7 @@ His only purpose was to erase a single human from this world without leaving a t
 
 His chest suddenly swelled.
 
-At the same time, the immense magical power flowing from the Dragonheart—the purest, deepest darkness—finally became a single flash and shot forward.
+At the same time, the immense magical power flowing from the Dragonheart—the purest, deepest darkness—became a single flash and shot forward.
 
 Carrying heartfelt respect, and a murderous intent heavier still.
 
