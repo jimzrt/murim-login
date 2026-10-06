@@ -100,19 +100,19 @@ The official’s eyes darted back and forth as he cautiously lowered himself tow
 
 A truly clueless man might have eased himself into the chair. This official could only stare at me, his eyes trembling, unable to sit or stand.
 
-Then again, he must have been good at reading the room to have landed such an important post as City Lord at a relatively young age.
+Then again, he must have known how to read people to land a post as important as City Lord while still relatively young.
 
 *That same instinct must’ve helped him siphon off plenty over the years.*
 
-Leaving the City Lord of Qinghai sweating through an imaginary squat, I glanced to my side. Jeong Hogun was smiling with a crooked twist to his lips.
+Leaving the City Lord of Qinghai sweating in a half-squat, I glanced aside. Jeong Hogun was smiling crookedly.
 
 I didn’t make a habit of bullying my elders, but what Jeong Hogun had told me on the way to Xining had washed away any guilt I might have felt.
 
 *A textbook corrupt official.*
 
-The Embroidered Uniform Guard—the imperial family’s foremost military force, with intelligence capabilities comparable to the East Depot—had obtained the information long ago. There was no room for doubt.
+The Embroidered Uniform Guard was the imperial family’s foremost military force, with intelligence capabilities to rival the East Depot. It had gathered the evidence long ago. There was no reason to doubt it.
 
-More important, though, was the state of affairs his negligence had brought about.
+More important, though, was what the City Lord’s negligence had done to us now.
 
 “I heard the city’s food stores are running low. What do you have to say about that, City Lord?”
 
@@ -120,7 +120,7 @@ More important, though, was the state of affairs his negligence had brought abou
 
 “Just the number. No lies.”
 
-“W-We had far too many commoners flood the city in a short time…”
+“W-We’ve had so many people flood into the city in such a short time…”
 
 “You’ve got a long tongue. Want me to shorten it?”
 
@@ -144,7 +144,7 @@ Men with plenty to lose didn’t gamble with their lives. That made his answer c
 
 A huge number of refugees had arrived in a short time, but Xining had only been like this for about seven days.
 
-Qinghai was a border province. It was only natural that it would have more military provisions stored away than the Central Plains, in case of an invasion.
+Qinghai was a border province. It should have had more military provisions stockpiled than the Central Plains as a matter of course, in case of an invasion.
 
 And yet there was only enough food for fifteen more days.
 
@@ -204,11 +204,11 @@ Beheaded as corrupt officials in league with the City Lord, or branded traitors 
 
 Accept reality.
 
-And despair without end.
+And despair.
 
 Unlike the men dragged out wailing as though everything was over, the people would rejoice and draw closer together once this tumor was removed.
 
-And along with that—
+And there was something else.
 
 “Looks like we’re finally ready to have a proper discussion.”
 

@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The countless people still in the streets",
+      "defect": "This omits that the people in the streets are a welcoming crowd. The source identifies them as 환영 인파, not simply people who remain outside.",
+      "id": "F01",
+      "rationale": "환영 인파 describes the crowd gathered to welcome others; the current wording removes that purpose.",
+      "replacement": "The countless welcoming crowds still filling the streets",
+      "severity": "minor",
+      "source": "Korean lines 8; assembled paragraph P3"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Backs that had once been relaxed",
+      "defect": "The English adds that their backs had previously been relaxed. The source only describes their backs as now straightened.",
+      "id": "F02",
+      "rationale": "꼿꼿하게 펴진 허리 describes the present posture, without establishing an earlier relaxed posture.",
+      "replacement": "Their backs were now rigidly straight",
+      "severity": "minor",
+      "source": "Korean line 246; assembled paragraph P116"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with two details that shift or omit meaning from the Korean source.",
+  "version": 1
+}
