@@ -6,9 +6,9 @@ Winter in the borderlands was harsh. A middle-aged man shivered violently as the
 
 The man, Seokchil, was a porter for the Seongun Escort Bureau in southern Shanxi Province.
 
-He had spent more than a day and a half hauling a cart loaded with over a hundred geun[^1] of cargo, soaking his entire body in sweat. Whenever he took a brief rest, as he was now, he had to fight against the brutal cold.
+He had spent more than a day and a half hauling a cart loaded with over a hundred geun of cargo, soaking his entire body in sweat. Whenever he took a brief rest, as he was now, he had to fight against the brutal cold.
 
-“Hyung,[^2] leave the cart and hurry over. Come warm yourself by the fire before you freeze to death.”
+“Hyung, leave the cart and hurry over. Come warm yourself by the fire before you freeze to death.”
 
 A fellow porter, already crouched in front of the campfire, called out. Seokchil answered gruffly as he walked over.
 
@@ -28,7 +28,7 @@ They used horse manure for firewood, so a foul smell spread in every direction. 
 
 “Ah, now I feel alive again.”
 
-“But Hyung,[^2] aren’t you being a little stingy?”
+“But Hyung, aren’t you being a little stingy?”
 
 “Huh? What nonsense are you talking about now?”
 
@@ -132,7 +132,7 @@ The porter turned to Seokchil.
 
 Cheongpung answered with a serious expression.
 
-“Four days and three shichen.[^3]”
+“Four days and three shichen.”
 
 “…”
 
@@ -270,15 +270,15 @@ It was a contract stating that he would work as a porter for the Seongun Escort 
 
 “You can read, right?”
 
-“I finished the Four Books and Three Classics when I was four.[^4]”
+“I finished the Four Books and Three Classics when I was four.[^1]”
 
 “Don’t say stupid things like that. Read this part. Yes, that section. Read it aloud, and make sure I can hear you.”
 
 Cheongpung read the section Seokchil indicated in a crisp voice.
 
-“Once signed, this contract cannot be revoked. In the event of unauthorized departure, the signer shall pay a penalty of fifty silver nyang[^5] or provide compensation of equivalent value.”
+“Once signed, this contract cannot be revoked. In the event of unauthorized departure, the signer shall pay a penalty of fifty silver nyang or provide compensation of equivalent value.”
 
-“You know how much fifty silver nyang[^5] is, right? Do you know what ‘compensation of equivalent value’ means?”
+“You know how much fifty silver nyang is, right? Do you know what ‘compensation of equivalent value’ means?”
 
 Cheongpung thought deeply for a moment, then slapped his forehead.
 
@@ -308,7 +308,7 @@ Seokchil spoke, determined to keep the boy from throwing his life away.
 
 “You little bastard!”
 
-“Hyung,[^2] Hyung,[^2] calm down! If Escort Chief Song happens to see this, we’ll all be in trouble.”
+“Hyung, Hyung, calm down! If Escort Chief Song happens to see this, we’ll all be in trouble.”
 
 “Let go! I said let go!”
 
@@ -322,13 +322,13 @@ The two men’s eyes widened at what Cheongpung held out.
 
 The object was shaped like a horse’s hoof and gleamed with a silver light whiter than the snow.
 
-“S-silver yuanbao?[^6]”
+“S-silver yuanbao?”
 
 “And there are two of them!”
 
-Two silver yuanbao,[^6] each worth fifty silver nyang.[^5]
+Two silver yuanbao, each worth fifty silver nyang.
 
-A hundred silver nyang[^7] was an enormous sum that an ordinary porter would struggle to earn even after working himself to the bone for ten years.
+A hundred silver nyang was an enormous sum that an ordinary porter would struggle to earn even after working himself to the bone for ten years.
 
 And yet such a fortune had come from the clothes of a young man from a slash-and-burn farming community.
 
@@ -338,7 +338,7 @@ And yet such a fortune had come from the clothes of a young man from a slash-and
 
 Both men’s mouths fell open at Cheongpung’s innocent reply.
 
-What kind of family gave their son a hundred silver nyang[^7] as traveling money? And judging from the money pouch hanging limp like a bull’s testicles, this didn’t seem to be all he had.
+What kind of family gave their son a hundred silver nyang as traveling money? And judging from the money pouch hanging limp like a bull’s testicles, this didn’t seem to be all he had.
 
 “At least it looks like this should cover the penalty…”
 
@@ -354,7 +354,7 @@ The two men nodded frantically.
 
 “Oh. If that’s what you prefer.”
 
-Cheongpung looked at the two men as if they were strange and handed over the two silver yuanbao.[^6]
+Cheongpung looked at the two men as if they were strange and handed over the two silver yuanbao.
 
 “I’ll be going, then. Please tell them this is the penalty.”
 
@@ -382,10 +382,4 @@ He smiled brightly as he thought about it. He hoped the plum blossoms would bloo
 
 Then, without warning, he thought of Lotus Peak on Huashan, from which he had secretly run away not long ago.
 
-[^1]: A Korean *geun* is 600 g, or about 1.32 lb. A hundred geun is 60 kg, or about 132 lb.
-[^2]: *Hyung* is a familiar Korean form of address used by a man for an older brother or older man.
-[^3]: A *shichen* is a traditional time unit of approximately two hours; three shichen are about six hours.
-[^4]: The Four Books and Three Classics are foundational Confucian texts.
-[^5]: A *nyang* is a historical unit of silver currency, not modern Korean won. Fifty silver nyang is the contract’s stated penalty.
-[^6]: A *yuanbao* is an ingot of precious metal used as currency. Each of these silver ingots is worth fifty silver nyang.
-[^7]: A hundred silver nyang is twice the contract’s stated penalty.
+[^1]: The Four Books and Three Classics are foundational Confucian texts.
