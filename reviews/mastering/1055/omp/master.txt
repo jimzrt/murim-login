@@ -24,11 +24,11 @@ His words trailed off.
 
 His surprise lasted only a moment. He studied the son who had returned, then spoke in the same calm voice as always.
 
-“I thought you’d gone far away. Why have you come back here?”
+“I thought you’d gone far away. Why have you come back?”
 
 “It was too far for me. As I am now.”
 
-The young man, Sama Pyo, answered, then abruptly turned his head to look somewhere.
+Sama Pyo turned his head as he answered.
 
 Amid the unending roar of battle, powerful fighters swept through the remaining enemies, scattering destructive flashes of light. At their center stood Jin Taekyung, the Blazing Flame Divine Dragon.
 
@@ -90,9 +90,9 @@ Only after hearing all this did Sima Gong, whose fading consciousness had kept h
 
 “Don’t pretend you don’t know. You’ve guessed already, haven’t you? The crushing defeat at Dunhuang was no accident.”
 
-Despite the unforgivable crime of betrayal, Sima Gong confessed with pride and composure.
+Despite the unforgivable crime of betrayal, Sima Gong confessed without shame or agitation to the child who resembled him most.
 
-“Yes. It’s just as you suspect. I goaded the Gansu sects that opposed me into banding together with the Kongtong Sect to defend Dunhuang, then passed information to the Blood-Sword Demon Lord. I knew what was happening beyond the desert, but I didn’t tell them. If it weren’t for those mounted bandits who came from Ningxia, things wouldn’t have gone the way they did.”
+“Yes. Just as you suspect. I goaded the Gansu sects that opposed me into joining the Kongtong Sect in defending Dunhuang, and I passed information to the Blood-Sword Demon Lord. I knew what was happening beyond the desert and kept it from them. If not for those mounted bandits from Ningxia, things wouldn’t have turned out as they did.”
 
 “…!”
 
@@ -106,7 +106,7 @@ Yes. That was all. It always had been.
 
 He had lived his entire life as a member of the unorthodox faction. To build up a force weaker than the Demonic Path or the orthodox faction—even weaker than the dark-path figures—he had always had to take dangerous gambles.
 
-Just as, after careful calculation amid the great upheaval of the Great Faction War, he had chosen the orthodox faction and claimed the rights of the victors.
+During the great upheaval of the Great Faction War, careful calculation had led him to side with the orthodox faction and claim a victor’s share.
 
 His son stood looking down at him in silence. Then he spoke.
 
@@ -134,13 +134,13 @@ A brief silence stretched between them, long as an eternity. When Sima Gong spok
 
 “Everything will soon be yours. The household and the sect, vast lands and untold wealth… and, most importantly, the grudges you’ll have to settle. Yet you’re curious about the past?”
 
-Sima Gong let out a mocking laugh at his heir.
+Sima Gong gave his heir a mocking smile.
 
 “I judged you wrongly. You’ll soon gain half of Gansu, only to lose it all. Wolves and vultures will catch the scent of blood and descend from every direction to tear the Black Dragon Demon Gate apart.”
 
 Thousands had died in Dunhuang alone because of his betrayal. The Kongtong Sect had suffered losses comparable to, perhaps even greater than, those it had suffered in the Great Faction War. The same was true of the many sects that formed the roots of Gansu’s martial world.
 
-If Dark Heaven, betrayed for the second time, let even a little information slip, the name of the Black Dragon Demon Gate would disappear from the world.
+Sima Gong knew what would happen if the truth came out. Dark Heaven, betrayed a second time, would need to let only a little information slip for the Black Dragon Demon Gate’s name to vanish from the world.
 
 Even the Zhongnan Sect, one of the Nine Sects and One Gang, might not escape. The crimes of the Roaring Fury Swordsman and the Taeeul Merciless Sword—whether either man was alive or dead—might force the sect to close its gates.
 
@@ -148,7 +148,7 @@ But…
 
 *Even when the sky falls, there’s a way out. There always is.*
 
-Just as Sima Gong murmured to himself, Sama Pyo, who had been watching him with an indescribable expression, finally opened his firmly closed lips.
+As Sima Gong thought this, Sama Pyo, who had been watching him with an expression he couldn’t read, opened his tightly closed lips.
 
 “There’s another way.”
 
@@ -156,7 +156,7 @@ Just as Sima Gong murmured to himself, Sama Pyo, who had been watching him with 
 
 “A way to save the Black Dragon Demon Gate. A way past the wolves and vultures gathering on every side.”
 
-For an instant, a strange glint flashed in Sima Gong’s eyes.
+Something flickered in Sima Gong’s eyes.
 
 “Blood is repaid with blood. That is the law of the martial world. They will never forget what the Black Dragon Demon Gate has done.”
 
@@ -172,7 +172,7 @@ Screams and shouts still rang out, yet for a moment it seemed every sound around
 
 At last, Sima Gong spoke, his voice low.
 
-“Yes, you’re right. The body itself is innocent. It only did what the head told it to. Isn’t that so?”
+“No, you’re right. The body itself is innocent. It merely did as the head commanded. Isn’t that so?”
 
 Sama Pyo answered calmly.
 
@@ -198,7 +198,7 @@ Then Sima Gong smiled as though his face had never stiffened.
 
 “Truly excellent.”
 
-Forgetting for a moment even the terrible agony that wracked his whole body, the giant who had ruled the unorthodox faction for decades burst into a hearty laugh.
+For a moment, the terrible pain wracking his body fell away. The giant who had ruled the unorthodox faction for decades burst into a hearty laugh.
 
 “Yes. This is what I wanted to see from you. This is why I chose you as my heir.”
 
@@ -212,7 +212,7 @@ The youngest and most talented of them all had been his true heir. Now, at last,
 
 At the end of his long, hard-fought life, Sima Gong was ready to accept death with a smile of relief.
 
-At the same time, he parted his bloodied lips to speak to Sama Pyo, who was lifting his treasured weapon, the Black Dragon Saber, out of the pool of blood.
+Sama Pyo drew his father’s treasured Black Dragon Saber from the pool of blood and raised it. Sima Gong parted his bloodied lips to address him—not as an immature son, but as the new ruler of the Black Dragon Demon Gate.
 
 “Go ahead and cut me down, Sect Leader.”
 

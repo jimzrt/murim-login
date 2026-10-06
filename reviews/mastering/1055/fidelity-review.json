@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "a monster who has forsaken filial duty",
+      "defect": "“Monster” intensifies 패륜아, which condemns the son as unfilial but does not itself call him a monster.",
+      "id": "F01",
+      "rationale": "The source says someone may call a son who kills his father 패륜아. “An unfilial son” preserves that accusation without adding the stronger image of a monster.",
+      "replacement": "an unfilial son",
+      "severity": "minor",
+      "source": "Line 225"
+    }
+  ],
+  "summary": "The chapter is broadly faithful. One minor wording choice makes the condemnation stronger than the Korean source states.",
+  "version": 1
+}
