@@ -10,7 +10,7 @@ Even I had never met anyone as purely insane as the oddball they called Great Si
 
 *…At this rate, should I start an encyclopedia of madmen?*
 
-I muttered to myself as I watched Great Sir’s back slowly recede into the distance.
+I watched Great Sir slowly recede into the distance.
 
 Unable to find his true identity as Gaettong, he’d moved on to Cow Poop and Horse Poop, completing a trilogy of poop names. Then he’d tried switching genders and becoming Jeomsuni. Jeok Cheongang had threatened to kill him, and now the horse-caravan riders were dragging him away to keep him apart from everyone else.
 
@@ -24,7 +24,7 @@ Anyone who knew the circumstances would have nodded without thinking. I answered
 
 “I doubt he’s a spy.”
 
-“It’s true that he led the horse caravans of Ningxia Province to help our side. But we mustn’t trust him completely. You know that as well as I do, don’t you?”
+“It’s true he led the horse caravans of Ningxia Province here to help us. But you mustn’t trust him completely. You know that as well as I do.”
 
 Of course I did. I’d been stabbed in the back often enough to be sick of it.
 
@@ -64,7 +64,7 @@ Jeok Cheongang frowned slightly and smacked his lips.
 
 I hesitated, then nodded.
 
-Even I, who thought I had a pretty good grasp of most of the System, had never encountered anything like this. I couldn’t be a hundred percent sure, but otherwise, there was no explaining why Great Sir’s name kept changing from one moment to the next.
+I’d thought I understood most of the System, but this was a first even for me. I couldn’t be a hundred percent sure. Otherwise, though, I had no way to explain why Great Sir’s name kept changing.
 
 *At least he isn’t lying. Fooling the System is practically impossible, no matter what you try.*
 
@@ -138,7 +138,7 @@ Why, after defeating more enemies than I could count, saving so many lives, and 
 
 Why, when I was still alive and breathing—
 
-It didn’t feel like we’d won.
+Didn’t it feel like we’d won?
 
 I wasn’t happy at all.
 
@@ -161,7 +161,7 @@ Not even when a clear chime rang in my ears.
 >
 > Y / N
 
-I suddenly lifted my head.
+I lifted my head.
 
 Beyond the translucent holographic window, pitch-black clouds still hid the sky. I took a deep breath, and the air that sank deep into my body reeked of blood.
 
@@ -181,7 +181,7 @@ It had been a cruel fucking day.
 
 Beyond the faintly flickering candlelight, a pair of eyes watched a writhing shadow in silence as the gruesome sounds of tearing flesh filled the room.
 
-At first glance, the eyes seemed so deeply sunk that it was impossible to guess what lay behind them. Even so, they held a trace of contempt and disgust—and that look remained even after the tearing sounds stopped.
+The eyes were so still and deep that it was hard to tell what their owner was thinking. Yet they held a trace of contempt and disgust, and that look remained even after the tearing stopped.
 
 The shadow’s convulsions gradually subsided. At last, it rose and immediately voiced its displeasure.
 
@@ -193,7 +193,7 @@ She had always prided herself on being rational. She knew better than to expect 
 
 That didn’t mean she had anything kind to say to it.
 
-“Wipe yourself off. And stop stinking up the place.”
+“Wipe yourself off. You stink.”
 
 “What? I stink?”
 
@@ -203,7 +203,7 @@ At the woman’s sharp words, the shadow started to reply, then gave a quiet lau
 
 “…What nonsense are you talking about now?”
 
-“Don’t pretend you don’t know when it doesn’t suit you. Don’t. It makes you look pathetic.”
+“Don’t pretend you don’t know. It doesn’t suit you. You only make yourself look worse.”
 
 *Swish.*
 
@@ -215,17 +215,17 @@ In the darkness beyond the candlelight, the shadow wiped the blood from its body
 
 “……!”
 
-“I heard you nearly failed… So, how was it, you miserable bitch? You mocked me last time, but it wasn’t so easy when you had to face him yourself, was it?”
+“I heard you came close to failing… Well, you damned bitch? You laughed at me last time. Not so easy when you have to face him yourself, is it?”
 
-The Grand Mage silently bit her lip.
+The Grand Mage bit her lip.
 
-She had little room to argue. It was the truth.
+She had no real answer. It was true.
 
 When her silence dragged on, the shadow laughed aloud and continued.
 
-“You should’ve been much more careful. I don’t care if you die, but you nearly caused a serious setback to the grand plan.”
+“You should’ve been much more careful. I don’t care if you die, but you nearly jeopardized the grand plan.”
 
-The Grand Mage frowned at the continuing taunts and shot back.
+The Grand Mage frowned at the relentless mockery.
 
 “The same goes for you.”
 
@@ -233,7 +233,7 @@ The Grand Mage frowned at the continuing taunts and shot back.
 
 *Step.*
 
-The shadow—no, the Blood Lord—chuckled as if to mock her, then stepped into the faint light.
+The shadow—no, the Blood Lord—chuckled at her as he stepped into the faint light.
 
 “And I had an important item to secure on top of that.”
 
@@ -247,11 +247,11 @@ As if he were the ruler of a kingdom.
 
 This time, the Grand Mage gave a quiet laugh.
 
-She shook her head and stared at the Blood Lord sitting in the grand chair.
+She shook her head and stared at him in the chair.
 
 “Stop talking as if you’re someone important. You’re a stupid beast. No—a monster.”
 
-“A monster, huh? To the people of the Central Plains, aren’t we as bad as each other?”
+“A monster? To the people of the Central Plains, aren’t we all the same?”
 
 “No. Serving that person is the only thing we have in common. None of us is like you.”
 
@@ -261,14 +261,14 @@ Despite the contempt in her voice, the Blood Lord merely shrugged.
 
 “…What?”
 
-The Grand Mage was taken aback by the response, which was nothing like what she’d expected. A smile, deep as blood, spread across the Blood Lord’s lips.
+The Grand Mage stared at him, caught off guard by his response. A smile as dark as blood spread across his lips.
 
 “Of course none of you is like me. No one—not even you—has ever achieved as much as I have.”
 
-He laughed gleefully and stroked the grand chair.
+Laughing, he ran a hand over the grand chair.
 
-More precisely, he stroked the two characters carved into part of it in a bold, vigorous hand.
+More precisely, over the two characters carved into it in bold, flowing strokes.
 
 **Kunlun.**
 
-A whirling snowstorm swept past the jagged mountain peaks and crept into the Taiqing Hall, where the two of them faced each other.
+Snow-laden wind swept past the winding mountain peaks and seeped into Taiqing Hall, where the two of them faced each other.

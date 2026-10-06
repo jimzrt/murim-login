@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "my life had been objectively rough—extremely rough",
+      "defect": "This drops 굴곡진, which describes a life of twists and turns. The repeated “rough” does not preserve that distinct image, which the accepted baseline rendered as “rough and tumultuous.”",
+      "id": "F01",
+      "rationale": "The Korean describes the life as both arduous and full of ups and downs; the current version retains only the former.",
+      "replacement": "my life had been objectively rough—no, extremely rough and tumultuous",
+      "severity": "minor",
+      "source": "Lines 8, 2nd paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Great Sir firmly believed it was his, and the System reflected that belief.",
+      "defect": "The Korean says Great Sir firmly believed that he himself was those kinds of beings. “Believed it was his” instead makes the belief about ownership of a name.",
+      "id": "F02",
+      "rationale": "The source’s point is that the System reflects his belief about his identity, explaining why his name changes.",
+      "replacement": "Great Sir firmly believed he was each of them, and the System reflected that belief.",
+      "severity": "minor",
+      "source": "Lines 78–80, paragraph 37"
+    },
+    {
+      "confidence": 0.97,
+      "current": "a grand chair that bore the marks of centuries and gave off an inexplicable air of authority",
+      "defect": "The chair is described as carrying an inexplicable sense of intimidation or oppressive presence, not authority.",
+      "id": "F03",
+      "rationale": "위압감 denotes an intimidating, overwhelming presence; “authority” changes that physical impression into a quality of status or command.",
+      "replacement": "a grand chair that bore the marks of centuries and gave off an inexplicable air of intimidation",
+      "severity": "minor",
+      "source": "Lines 263–264, paragraph 115"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it loses a source image and misstates the identity belief that explains the System’s changing names.",
+  "version": 1
+}
