@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "the tiny wound etched into the Dragon’s foreleg",
+      "defect": "The source locates the wound on the Dragon’s 앞발 (forepaw/front foot), but “foreleg” broadens the physical location.",
+      "id": "F01",
+      "rationale": "The source specifies a wound on the front paw, a more precise location than the foreleg.",
+      "replacement": "the tiny wound etched into the Dragon’s forepaw",
+      "severity": "minor",
+      "source": "Lines 25–26"
+    },
+    {
+      "confidence": 0.97,
+      "current": "the others remembered one important thing they had forgotten.",
+      "defect": "“Remembered” changes the characters’ realization into recollection.",
+      "id": "F02",
+      "rationale": "깨달았다 means they realized or became aware of the important fact, not simply remembered it.",
+      "replacement": "the others realized one important thing they had forgotten.",
+      "severity": "minor",
+      "source": "Line 295"
+    }
+  ],
+  "summary": "The translation is faithful overall, with two minor source-fidelity defects.",
+  "version": 1
+}

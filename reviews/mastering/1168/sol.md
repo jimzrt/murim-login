@@ -44,7 +44,7 @@ Planting a foot on the Dragon’s foreleg beneath him like a stepping-stone, he 
 
 *BAM!*
 
-Compressed air exploded from the fist he drove forward like lightning.
+Compressed air exploded before the fist he shot out like lightning.
 
 The fierce heat in his knuckles swallowed the spray of blood, opening a new path beyond it.
 
@@ -86,7 +86,7 @@ They heard without hearing.
 
 And without speaking, they felt.
 
-And he could feel the emotions in the enemy’s eyes as they drew closer like the wind, as though defying the slowing of time.
+Even as they drew together like the wind against the slowing of time, each could feel the emotion in the other’s eyes.
 
 What Jin Taekyung saw now was a Dragon’s eyes filled with terrible pain and fear.
 
@@ -128,7 +128,7 @@ The rolling flames rose at an angle.
 
 One line, chillingly swift and savage.
 
-In the arc of blue-black fire that suddenly appeared in the air were the Dragon’s two wings, which had ruled the vast sky and blanketed the earth for thousands of years.
+Caught in that sudden arc of blue-black fire were the two wings that had ruled the vast sky and blanketed the earth for thousands of years.
 
 *Shhk!*
 
@@ -144,7 +144,7 @@ Propelled upward by an explosion worthy of its name, his figure appeared in Morg
 
 No—that wasn’t right.
 
-He soared into the sky like a fire dragon that had finally reached the time of its ascension. His form wasn’t merely reflected in those eyes; it overflowed from them.
+Jin Taekyung soared like a fire dragon whose time to ascend had finally come. The sight of him did more than fill Morgoth’s eyes. It overflowed them.
 
 —…!
 
@@ -198,13 +198,13 @@ Following the path he had read through the Mind’s Eye, Jin Taekyung poured all
 
 As time began to move again, the flame on the spearhead wavered.
 
-But it wasn’t a sign of danger. It was a change—and an evolution—that took place in an instant.
+But it wasn’t faltering. In that instant, it was changing—evolving.
 
 *Shhhh.*
 
-The wavering flame gathered into one.
+The wavering flames gathered into one.
 
-It came together and connected, no longer a flame but a single line, as though it had become the spearhead itself. Then, at last, it settled.
+They joined in a single line, no longer flickering like fire, as though they had become part of the spearhead itself. At last, they settled.
 
 One step beyond fire’s innate savagery lay hellfire refined to the utmost degree.
 
@@ -256,7 +256,7 @@ Yes. It was a fall.
 
 And with it came the downfall of an Ancient Dragon who had lived for thousands of years.
 
-What falls has wings. But his wings would never take flight again.
+What fell had wings. But his wings would never carry him into the sky again.
 
 *KABOOOOOM!*
 
@@ -270,9 +270,9 @@ More precisely, on the one figure moving through the terrible stillness weighing
 
 He walked slowly through the air as though climbing down an invisible staircase.
 
-Even from a distance, he looked utterly exhausted. But no one there dared entertain the thought, or feel anything of the sort.
+Even from a distance, he looked utterly exhausted. But no one there dared dwell on it.
 
-With the sky—its clouds torn away without a trace—at his back, he descended toward the ground against the falling sun. His very presence inspired an overwhelming awe.
+The storm clouds had been torn away without a trace. With the sunset at his back, he descended toward the ground, a sight that inspired overwhelming awe.
 
 As if he were something beyond human.
 
