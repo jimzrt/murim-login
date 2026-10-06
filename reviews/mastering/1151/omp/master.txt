@@ -28,7 +28,7 @@ The old dictator, who had dreamed of immortality, smiled faintly.
 
 Or rather, he tried to.
 
-Time slowed, stretching out like a passing life flashing before his eyes. Then he saw the looter wearing a vivid smile.
+In the slow passage of time, like a life flashing before his eyes, he caught sight of the plunderer’s unmistakable smile.
 
 “You really are an interesting human.”
 
@@ -66,7 +66,7 @@ The most powerful weapon in human history.
 
 The mother and emperor of all bombs.
 
-Only a handful of people involved knew that the most powerful hydrogen bomb of the Cold War—the one that had frozen the five oceans and six continents with fear—lay sleeping deep beneath the Kremlin.
+Only a handful of people knew that the most powerful hydrogen bomb of the Cold War—the one that had frozen the five oceans and six continents with fear—lay sleeping deep beneath the Kremlin.
 
 They also knew that decades of secret experiments, carried out on the dictator’s orders, had given it a new name and destructive power far beyond what it had possessed before.
 
@@ -114,7 +114,7 @@ Mother Russia.
 
 Russia—or rather, he—had to become greater still.
 
-Even if a second Demon King descended, he and Russia alone had to survive and rewrite the world order.
+Even if a second Demon King descended, he and Russia had to survive and rewrite the world order.
 
 *Or die together.*
 
@@ -182,11 +182,11 @@ But no one had expected it.
 
 No one had expected this monster from a bygone era, born of the Cold War’s displays of power, to awaken again more than eighty years later.
 
-And no one had expected the monster’s first cry after its long sleep to ring out from the Kremlin.
+And no one had expected its first cry after that long sleep to ring out from the Kremlin.
 
 Gooooom.
 
-The air trembled in an instant.
+The air trembled.
 
 Everyone in the Kremlin—or rather, everyone in Moscow—felt that deep, ominous rumble.
 
@@ -204,7 +204,7 @@ Whoooosh.
 
 There was light.
 
-A terrible heat beyond human perception, atomic power mingled with potent energy drawn from countless Magic Gems—it all spread out, devouring everything in its path.
+Terrible heat beyond human perception spread in every direction, along with atomic energy mingled with potent energy drawn from countless Magic Gems. It swallowed everything in its path.
 
 Endlessly. Greedily.
 
@@ -246,7 +246,7 @@ A city with a long history and a population of over ten million had become a lan
 
 “But birth awakens from within death.”
 
-The moment Morgoth spread both hands with those quiet words—
+With those quiet words, Morgoth spread both hands.
 
 Pop.
 
@@ -270,13 +270,13 @@ And at last—
 
 Rrrrrumble.
 
-It was built.
+There it stood.
 
 A gigantic castle unlike anything ever seen in this world.
 
 His own kingdom.
 
-In place of concrete and marble, it stood upon pitch-black earth amid air saturated with dense magical power. It was overwhelming, yet beautiful. Morgoth smiled as he gazed at its spire piercing the clouds.
+Built not of concrete and marble, but of air saturated with dense magical power and pitch-black earth, it was overwhelming yet beautiful. Morgoth smiled as he gazed at its spire piercing the clouds.
 
 Or, more precisely, at the camera lens of the drone hidden in the thick black clouds, watching him.
 
