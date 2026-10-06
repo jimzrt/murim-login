@@ -1,0 +1,56 @@
+{
+  "chapter": 109,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.982,
+    "length_ratio": 2.294,
+    "source_characters": 5665,
+    "source_paragraphs": 178,
+    "translation_characters": 12995,
+    "translation_paragraphs": 180
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "무림",
+        "preferred": "Murim"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "돌파",
+        "preferred": "break through / breakthrough"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전서",
+        "preferred": "missive"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "파리",
+        "preferred": "Paris"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "당주",
+        "preferred": "Hall Master"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

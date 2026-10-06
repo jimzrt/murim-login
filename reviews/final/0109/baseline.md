@@ -6,7 +6,7 @@ I’d heard that even the Jin Family of Taiyuan had only two of these birds. The
 
 *Who sent it?*
 
-Just as I was about to approach the messenger eagle, Wolhwa’s voice stopped me.
+Just as I was about to approach the messenger eagle, Wolhwa's voice stopped me.
 
 “You’d better keep your distance. It’s extremely wary. If you try to catch it, Young Master Jin, it’ll fly away.”
 
@@ -148,7 +148,7 @@ Driven to the edge of a cliff, they had no choice but to pour out information de
 
 “I’m saying this in case Young Master Jin gets the wrong idea, but I don’t enjoy killing people. They weren’t innocent commoners, either… Ah, this bastard’s blood just won’t stop, even when I wipe it.”
 
-The blood streaming down her belonged to the second mounted bandit.
+The blood streaming down her belonged to the second mounted bandit she had killed.
 
 As she wrinkled her nose, someone held out a piece of cloth.
 
@@ -178,7 +178,7 @@ There was always at least one guy like that wherever you went. Even the Heaven S
 
 After wiping away the blood, Wolhwa pulled a rolled-up piece of leather from her robes and spread it out.
 
-“This is a rough map covering all of Shanxi Province. We’re here. The Red Wind Band has probably… If they’ve been moving without rest, they may already have broken through Datong.”
+This is a rough map covering all of Shanxi Province. We're here. The Red Wind Band has probably… If they've been moving without rest, they may already have broken through Datong.
 
 “They’re faster than us.”
 
@@ -190,7 +190,7 @@ I followed the others and vaulted into the saddle.
 
 *Why does trouble always break out the moment I arrive?*
 
-I sighed inwardly, but what could I do? This wasn’t my first hardship—or my second. By now I just had to accept it.
+I sighed inwardly, but what could I do? This wasn't my first hardship—or my second. By now I just had to accept it.
 
 *Wasn’t this supposed to be a really simple Quest?*
 
@@ -220,7 +220,7 @@ Pung Yang, the Red Wind Band Leader, sat astride his horse atop a hill and watch
 
 “Is it over?”
 
-A mounted bandit who had just come up the hill to report answered him.
+A mounted bandit who had just ridden up the hill to report answered him.
 
 “We killed all the men and gathered the women and children together.”
 
@@ -240,9 +240,9 @@ The mounted bandit approached hesitantly and asked carefully,
 
 “Who were you with before?”
 
-“Until recently, I was the deputy captain of the Earth Tiger Band.”
+“Until recently, I was the deputy leader of the Earth Tiger Band.”
 
-“The Earth Tiger Band? Ah, I remember. You were their deputy captain.”
+“The Earth Tiger Band? Ah, I remember. You were their deputy leader.”
 
 “Y-yes! I was so impressed by your formidable martial arts and noble character that I swore to become your loyal subordinate!”
 
@@ -278,7 +278,7 @@ Pung Yang watched him ride away, then suddenly flicked his sleeve.
 
 *Whoosh!*
 
-A streak of light split the air and pierced its target ten jang[^1]—about thirty meters—away.
+A streak of light split the air and pierced its target ten jang—about thirty meters—away.
 
 *Thnk! Thud.*
 
@@ -326,7 +326,7 @@ The messenger’s report left the people arguing in the spacious main hall breat
 
 The muttered words were not much different from what most of the people gathered there were thinking.
 
-There were around ten of them, all senior figures holding important positions in the Mount Heng Sword Sect. Yet every one of them was already turning the word *defeat* over in their minds.
+There were a little over ten of them, all senior figures holding important positions in the Mount Heng Sword Sect. Yet every one of them was already turning the word *defeat* over in their minds.
 
 “Iron Sword Squad Leader, are you confident in this fight?”
 
@@ -336,7 +336,7 @@ They were squad leaders, hall leaders, and pavilion leaders of the great Mount H
 
 There had been a time when he had desperately wanted to rise to that position. Once upon a time, that was.
 
-*To hell with the great Mount Heng Sword Sect. What good is a promotion now, with the sect in this state?*
+To hell with the great Mount Heng Sword Sect. What good is a promotion now, with the sect in this state?
 
 *We were already on the verge of collapse, and now a mounted-bandit group has come to raise hell. Let’s see… If we scrape together everyone we have left, we might reach a hundred.*
 
@@ -357,5 +357,3 @@ The moment someone spat out those words in anger—
 *Boom!*
 
 The tightly closed doors of the main hall exploded.
-
-[^1]: Jang is a traditional unit of length. Ten jang is approximately 30.3 meters, or 99 ft.
