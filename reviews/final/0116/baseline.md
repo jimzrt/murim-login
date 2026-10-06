@@ -188,7 +188,7 @@ Jin Mukyung’s Sword Energy-wreathed blade collided with Pung Yang’s curved s
 
 “It’s disgusting hearing that from someone who got stronger through dark arts.”
 
-“What matters is that I got stronger. How many seconds do you think that supposedly incredible Tiger of Mount Heng lasted against me?”
+“What matters is that I got stronger. How many moves do you think that supposedly incredible Tiger of Mount Heng lasted against me?”
 
 “Don’t know.”
 
@@ -212,15 +212,15 @@ Jin Mukyung spoke calmly despite the killing intent in Pung Yang’s voice.
 
 “What?”
 
-“So how many seconds did Sir Cheol last against you?”
+“So how many moves did Sir Cheol last against you?”
 
 Pung Yang glared at Jin Mukyung before answering.
 
-“A hundred seconds.”
+“A hundred moves.”
 
 “What about me?”
 
-“Two hundred seconds. I’ll finish you before then.”
+“Two hundred moves. I’ll finish you before then.”
 
 “Are you even capable of that?”
 
@@ -266,7 +266,7 @@ Tsssss.
 
 Sword Energy rose from Jin Mukyung’s sword as well. Pung Yang spoke with open contempt.
 
-“Last two hundred seconds, and I’ll let you live.”
+“Last two hundred moves, and I’ll let you live.”
 
 “Yeah, go fuck yourself.”
 
@@ -284,7 +284,7 @@ Rumble, rumble, rumble.
 
 The ground shook as though an earthquake had struck.
 
-I had no idea what kind of battle was taking place thirty jang[^1] away, but I knew one thing.
+I had no idea what kind of battle was taking place thirty jang away, but I knew one thing.
 
 *I can’t go over there.*
 
@@ -387,5 +387,3 @@ It was time to deal with that cheating, pill-popping bastard.
 “…”
 
 *I can do this, right? I should be able to. Probably…*
-
-[^1]: A Korean jang is ten cheok, about 3.03 m (9.94 ft). Thirty jang is about 90.9 m (298 ft).
