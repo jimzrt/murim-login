@@ -50,7 +50,7 @@ Tough enough that even he, after bringing down countless enemies, could hardly b
 
 *White Flame can’t even cut all the way through?*
 
-What kind of weapon was White Flame?
+And White Flame was no ordinary weapon.
 
 It was a ridiculously overpowered item he’d never have laid eyes on if the System hadn’t showered him with rewards early on. In Murim, no amount of money could buy a treasure like it.
 
@@ -60,7 +60,7 @@ Yet its Force-wreathed spearhead couldn’t slice through these monsters like to
 
 The monster had suffered a horrific wound, of course. But it was still standing when it should have been split cleanly from collarbone to pelvis. That alone shocked Jin Taekyung.
 
-Its incredible regenerative ability, already restoring the wound in an instant, was just a bonus.
+Its incredible regenerative ability was already closing the wound.
 
 “How is this even possible?”
 
@@ -78,7 +78,7 @@ The question escaped his lips. The Skeleton King, who had joined him by now, ans
 
 “Off your food? You’ve really become Korean. Weren’t you supposed to be playing a foreigner?”
 
-The question had been based on reasonable evidence, but Mr. Stone King, from Atlanta, Georgia, had just learned a lot from a marvel of civilization called a smartphone.
+It was a fair question, but Mr. Stone King of Atlanta, Georgia, had recently learned a great deal from that marvel of civilization, the smartphone.
 
 “I’m Korean American.”
 
@@ -172,7 +172,7 @@ An opening that lasted only an instant, but could decide who lived and who died.
 
 Whoosh!
 
-The sequence of movements didn’t need so much as a preparatory motion.
+The next movement needed no preparation.
 
 With physical abilities that made even *superhuman* sound inadequate, Jin Taekyung threw his spear.
 
@@ -236,7 +236,7 @@ Another powerful being like the mysterious named monsters I’d brought down, an
 
 Maybe that was why everyone on the ground froze as the tremendous rumbling shook the sky.
 
-But why?
+But something was wrong with that thought.
 
 A terrible possibility had flashed through my mind like lightning, yet the red warning light my instincts always set off remained quiet, even as the flash swallowed the sky.
 
@@ -248,7 +248,7 @@ The Skeleton King, who had just taken down his second named monster and was lock
 
 His pupils were shaking like an earthquake measuring 8.0, tsunami included.
 
-He glanced up at the sky with a look that said, *What the hell is that?* Then he shouted at me, standing stock-still.
+He glanced up at the sky with a look that said, *What the hell is that?* Then he shouted at me as I stood there watching.
 
 “What are you doing? Quit gawking and do something!”
 
@@ -270,7 +270,7 @@ My helpful explanation didn’t seem to clear things up. I grinned at him.
 
 “What the hell are you—!”
 
-The Skeleton King could hold it in no longer. He burst out in anger—
+The Skeleton King finally lost his patience.
 
 At that very moment—
 

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "skull masks covering their faces",
+      "defect": "The Korean says the skull masks covered their entire faces; the assembled English omits that extent.",
+      "id": "F01",
+      "rationale": "안면 전체를 뒤덮은 explicitly describes masks covering the whole face. The accepted baseline preserves this detail.",
+      "replacement": "skull masks covering their entire faces",
+      "severity": "minor",
+      "source": "Line 111"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one omitted physical detail.",
+  "version": 1
+}
