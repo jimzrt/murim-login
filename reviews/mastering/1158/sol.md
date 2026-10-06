@@ -4,7 +4,7 @@ It was a ruin.
 
 A complete ruin. No other words were needed.
 
-But the man who had appeared in a sudden flash of light barely ten seconds ago saw it a little differently.
+But the man who had appeared in a sudden flash of light barely ten seconds ago saw it differently.
 
 *A grave.*
 
@@ -12,7 +12,7 @@ That was the first thought that came to him.
 
 He could feel it the moment he looked around—no, even before he opened his eyes. Death saturated the air like thick fog at dawn. From every corner of this enormous grave, where the clouds overhead shut out every ray of light, rose the screams of countless vengeful spirits.
 
-“……I suppose so.”
+“…Of course.”
 
 The man muttered bitterly, then kicked off the ground and shot forward.
 
@@ -68,15 +68,15 @@ The man continued forward, talking with the spirits as he went.
 
 A young man who had only just taken his first steps into adulthood. An old man who had accepted his death and wanted to know about the afterlife. Parents who had lost a child, and a child who had lost their parents.
 
-The scenery changed in an instant, but the spirits never stopped whispering. They were indignant and furious at the death that had struck without warning, grieving even as they trembled with fear.
+The scenery flew past, and the spirits never stopped whispering. They were angry at the death that had struck without warning, grieving and afraid.
 
 And the man never once turned away from their voices.
 
-Because he was their king.
+Because he was a king.
 
 He alone had the right and the duty to guide those who had lost everything in an instant and now wandered the Nine Springs—those who had become his people.
 
-But perhaps the spirits weren’t the only ones finding comfort and peace in this strange conversation.
+But perhaps the spirits weren’t the only ones finding comfort in this strange conversation.
 
 “Why did I come here? Hmm, excellent question. This is an epic tale that begins with the most handsome and admirable hero in the world.”
 
@@ -88,19 +88,19 @@ But the hero knew the surest way to help the fool. It was something only he coul
 
 Because he was a hero.
 
-“While the hero was deep in thought, some ignorant bastard who was crazy about booze and cigarettes told him that people see what they want to see and believe what they want to believe. So the hero decided to borrow the fool’s appearance for a while.”
+“While the hero was deep in thought, an ignorant bastard who loved booze and cigarettes told him that people see what they want to see and believe what they want to believe. So the hero decided to borrow the fool’s appearance for a while.”
 
 It hadn’t been all that difficult. As he’d said, the hero was unbelievably talented, and his greatest ability was “absorption.”
 
 “Actually, I didn’t know I could do that. No, the hero didn’t. But when he tried it, it worked. It wasn’t nearly as good as the Doppelganger’s own ability, though.”
 
-Was it because of his innate ability to grow stronger by absorbing the magical power of monsters that had been destroyed? Or was it because his magical power levels had already reached the point of going berserk?
+Was it thanks to the ability that had let him grow stronger by absorbing the magical power of destroyed monsters? Or was it because his magical power had already reached the point of going berserk?
 
-Amazingly, the hero, who wasn’t human, had gained a new power he’d never discovered before. After traveling thousands of kilometers by way of several Warp Gates, he had made it here.
+Amazingly, the hero, who wasn’t human, had discovered a new power. After changing Warp Gates several times and traveling thousands of kilometers, he had made it here.
 
-Of course, there had been some trouble along the way.
+Of course, there had been a little trouble along the way.
 
-He’d threatened the mages who refused to activate the Warp Gate. Or he’d taken a selfie in his current appearance, posted it on social media, and deliberately spread the word far and wide.
+He’d threatened mages who refused to activate a Warp Gate. He’d also posted a selfie of his current appearance on social media and deliberately spread the word far and wide.
 
 But none of those little things mattered to the man.
 
@@ -112,15 +112,15 @@ The crowning touch of his story was still to come.
 
 Silence fell. The man blinked, his solemn declaration still hanging in the air.
 
-“Why is everyone so quiet? You’d think you were dead. Oh, right. You are dead.”
+“Why is everyone so quiet? You’d think someone had died. No, wait. You’re already dead.”
 
-“What? You didn’t see it coming? That’s impossible. The foreshadowing was perfect from the start. I said I was the most handsome and excellent man in the world—damn it. Forget it. You stupid humans.”
+“What? You didn’t see it coming? Impossible. I planted the clues perfectly from the start. I said he was the most handsome and admirable—damn it. Forget it. Stupid humans.”
 
-That was when the grumbling man suddenly stopped walking.
+That was when he stopped walking.
 
 “…I’m here already?”
 
-He murmured and looked at the scenery, now completely transformed.
+He murmured and looked at the changed scenery.
 
 As if someone had drawn a line across the world, pitch-black earth lay only a few steps ahead, starkly different from the ground behind him.
 
@@ -128,9 +128,9 @@ As if someone had drawn a line across the world, pitch-black earth lay only a fe
 
 At the same time, the countless spirits surrounding him began to scream.
 
-Screams filled with a terror unlike anything they had shown before.
+Their cries were filled with a terror unlike anything he’d heard from them before.
 
-“Don’t be so afraid. Weak spirits like you would have a hard time entering that place anyway. Not that I was planning to take you with me in the first place.”
+“Don’t be so afraid. Weak spirits like you would have a hard time entering that place anyway. Not that I was planning to take you with me.”
 
 But the man was different.
 
@@ -142,15 +142,15 @@ The thought faded hollowly in his mind as he drew the sword tucked at his waist.
 
 *Shing.*
 
-Its blade was clear as untainted ice.
+Its blade was clear as ice without a trace of impurity.
 
 The man silently gazed at his reflection.
 
-Or rather, at the face of the person who was probably chasing him as fast as he could somewhere out there.
+Or rather, at the face of someone who must be somewhere out there right now, doing his best to catch up.
 
 “You’re a step too late this time, you wily human bastard.”
 
-The man—the Skeleton King—snickered. Someone reflected in the blade snickered along with him.
+The man—the Skeleton King—snickered. The person reflected in the blade smiled along with him.
 
 “Yeah, keep smiling like that. Don’t scowl with that ugly face of yours.”
 
@@ -158,11 +158,11 @@ He meant it.
 
 That fool—Jin Taekyung—deserved to smile.
 
-“Then, here I go.”
+“Well, here I go.”
 
-With a final farewell that would never reach him, the Skeleton King took a firm step forward.
+With a final farewell that would never reach him, the Skeleton King stepped forward.
 
-Using the light spilling from his sword as a torch, he headed for the land of death, where magical power churned, and thought:
+Using the light spilling from his sword as a torch, he headed into the land of death, where magical power churned.
 
 *Sacrifice, huh? This isn’t so bad.*
 
@@ -172,7 +172,7 @@ Once he met a glorious end in the form of Jin Taekyung—not the Skeleton King o
 
 They would see how foolish they had been to believe the monster’s promise to stop the destruction and slaughter if they handed over Jin Taekyung.
 
-And they would understand the only way to escape this catastrophe.
+And they would see the only way out of this catastrophe.
 
 *Fwoooosh.*
 
@@ -180,7 +180,7 @@ The dense fog drifting over the pitch-black earth swallowed his retreating figur
 
 * * *
 
-Morgoth recalled an old saying he’d heard long ago: Sometimes, a certain kind of curiosity can shorten a person’s life.
+Morgoth recalled a saying he’d heard long ago: Certain kinds of curiosity could shorten a person’s life.
 
 He’d first heard it while living among humans, and it had fascinated him.
 
@@ -204,7 +204,7 @@ The pride of his race and the king of the world.
 
 He was more complete and absolute than anyone.
 
-At least, he would have been, if not for the one curiosity he had never been able to satisfy.
+Or he would have been, if not for the one question he had never answered.
 
 *The Demon Realm.*
 
@@ -234,7 +234,7 @@ But Morgoth did not pursue these questions further.
 
 No. More precisely, he had to set them aside for now.
 
-The guest he had truly wanted to meet had just arrived at his palace.
+The guest he had so wanted to meet had just arrived at his palace.
 
 “Come in, hero.”
 

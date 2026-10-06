@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "His curiosity would not rest until he had reached the highest level of whatever caught his interest.",
+      "defect": "This makes Morgoth’s own attainment of the highest level the condition for his curiosity to rest. The Korean instead says his curiosity would not stop unless the subject met the highest standard.",
+      "id": "F01",
+      "rationale": "The Korean phrase “최고의 수준을 충족하지 않는 한” makes meeting the highest level the condition; it does not say Morgoth himself must reach that level.",
+      "replacement": "His curiosity would not rest unless whatever he pursued met the highest standard.",
+      "severity": "minor",
+      "source": "Korean source, line 201"
+    }
+  ],
+  "summary": "One minor shift in what must reach the highest level; otherwise, the assembled English preserves the source’s meaning.",
+  "version": 1
+}
