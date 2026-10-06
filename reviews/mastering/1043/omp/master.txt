@@ -4,13 +4,13 @@ For one instant, everyone on the battlefield stared at the sky, their eyes vacan
 
 Not a single person was an exception.
 
-Not even the Wind-and-Cloud Sword Lord, who had brought down two Black Ghosts thanks to what could only be called a stroke of heaven-sent luck.
+Not the Wind-and-Cloud Sword Lord, who had brought down two Black Ghosts thanks to what could only be called a stroke of heaven-sent luck.
 
-Not even his two pathetic Senior Brothers, who had somehow gone somber and were now rushing to support their Junior Brother as he staggered, utterly spent.
+Not his two pathetic Senior Brothers, who had somehow gone somber and were rushing to support their Junior Brother as he staggered, utterly spent.
 
-Not even the Disciples of the Zhongnan Sect and the Gansu Murim Alliance, still fighting their separate battles on the blood-soaked snow.
+Not the Disciples of the Zhongnan Sect or the Gansu Murim Alliance fighters, still fighting their separate battles on the blood-soaked snow.
 
-Not even a father standing like a stone monument where his son had disappeared, or the Fire Dragon Pavilion members pouring every last bit of strength into chasing after their friend and leader, who had already raced far ahead.
+Not the father standing like a stone monument where his son had disappeared, or the Fire Dragon Pavilion members pouring every last bit of strength into chasing their friend and leader, who had already raced far ahead.
 
 Not even the Dark Heaven cultists, whose eyes were empty as they continued their mindless fighting.
 
@@ -30,7 +30,7 @@ As the sphere fell from a dizzying height like a meteor, its terrible heat scorc
 
 “A-aah…”
 
-Groans rose from here and there.
+Groans rose across the battlefield.
 
 Everyone froze where they stood. It was all they could do.
 
@@ -60,7 +60,7 @@ If he could bring someone down in exchange—if he could stop the calamity—he 
 
 But in the end, he hadn’t stopped it.
 
-Right now, all Jin Taekyung could do was feel the weakness constricting his entire body and stare blankly as the calamity unfolded.
+Now all Jin Taekyung could do was feel the strength draining from his entire body and stare blankly as the calamity unfolded.
 
 *Even now… I have to do something. Somehow.*
 
@@ -76,7 +76,7 @@ That had been both misfortune and good luck.
 
 Because it was incomplete, it hadn’t shattered every defensive barrier. Because of that, Jin Taekyung had survived.
 
-But for someone who had been prepared to give up everything, this was misfortune.
+But to someone who had been prepared to give up everything, surviving this way was misfortune.
 
 *Shit.*
 
@@ -96,7 +96,7 @@ Gripping the spear shaft before it could slip from his hand, he used it as a can
 
 He heard the screams of those who had finally realized that the calamity falling from the sky, painting it red, was real.
 
-He heard, too, the terrible confusion and fear covering the battlefield below the hill—and, somehow out of place amid it all, a calm voice.
+He heard the panic sweeping the battlefield below the hill—and, utterly out of place amid it all, a calm voice.
 
 “Why don’t you just lie down? If you push yourself any harder, you really will be in trouble.”
 
@@ -126,7 +126,7 @@ She knew Jin Taekyung could barely get to his feet under his own power, let alon
 
 Jin Taekyung answered between ragged breaths.
 
-But unlike his voice, his eyes weren’t on the Grand Mage.
+But his eyes weren’t on the Grand Mage.
 
 He watched the hellfire cross the blackened sky, moving slowly for all its enormous size, and continued.
 
@@ -136,7 +136,7 @@ He knew that better than anyone. Without hesitation, Jin Taekyung turned and gri
 
 He hadn’t risked his life just to kill the Grand Mage.
 
-He’d fought to protect one ally rather than bring down one formidable enemy—to protect tens of thousands of lives.
+He’d fought to protect an ally rather than bring down a formidable enemy. To protect tens of thousands of lives.
 
 *Please. Just once. One last time.*
 
@@ -174,7 +174,7 @@ The question surfaced in his mind.
 
 But Jin Taekyung already knew the answer.
 
-No—or rather, anyone who saw this situation would give the same answer.
+Anyone who saw him now would give the same answer.
 
 He couldn’t.
 
@@ -200,7 +200,7 @@ The reason he could never give up, even if he was a moth flying toward a blazing
 
 Step. Scrape.
 
-His trembling legs finally steadied and planted themselves in the ground like iron pillars.
+His legs had stopped trembling. They planted themselves on the ground like iron towers.
 
 His shoulder drew all the way back. Then, with a powerful step forward, he sent the spearhead aimed at the distant sky flying.
 
@@ -218,7 +218,7 @@ White Flame’s spearhead tore through the wind. It split open space.
 
 A streak of light crossed the sky, dyed in ominous darkness, and shot toward a sphere whose size and power dwarfed it.
 
-It covered more than a hundred *jang* of distance, shrinking until it became a single point. Jin Taekyung watched it with eyes growing dim.
+As it closed the distance of some hundred *jang* and shrank to a single point, Jin Taekyung watched it with eyes growing dim.
 
 The spearhead hadn’t reached its target yet.
 
@@ -240,7 +240,7 @@ Now that he’d poured out everything, Jin Taekyung had nothing left.
 
 If anything remained, it was exhaustion weighing even more heavily on his body, and a helplessness greater than that.
 
-And the enemy’s sneer—the one who’d brought all of this upon him.
+And the mockery of the enemy who had brought all of this upon him.
 
 “Oh, don’t be too disappointed. From where I was standing, it was a very impressive attempt.”
 
@@ -294,16 +294,16 @@ She saw the faint smile on his face, and his lips, caked with dried blood, movin
 
 His voice came out with difficulty, but it rang clearly in her ears.
 
-“Me, too. And them.”
+“Not me. Not them.”
 
 “…!”
 
 Just a few words.
 
-But the Grand Mage felt something and whipped her head around. At the same time, she found the answer to the question she’d asked herself moments earlier.
+But something in them made the Grand Mage whip her head around. At the same time, she found the answer to the question she’d asked herself moments earlier.
 
 Shwoooosh—KWA-BOOM!
 
-Dazzling streaks of light shot up from the ground and rained down on the sphere of fire covering everyone’s heads.
+Dazzling streaks of light rose from the ground and poured into the sphere of fire looming over everyone’s heads.
 
 There were others who shared that young man’s dream.
