@@ -7,7 +7,17 @@ import time
 import unittest
 from pathlib import Path
 
-from tools.run_lock import LOCK_ENV, MASTER_LOCK_ENV, COMMIT_LOCK_ENV, hold_master_lock, hold_run_lock, lock_path, read_payload
+from tools.run_lock import (
+    COMMIT_LOCK_ENV,
+    FINAL_LOCK_ENV,
+    LOCK_ENV,
+    MASTER_LOCK_ENV,
+    hold_final_lock,
+    hold_master_lock,
+    hold_run_lock,
+    lock_path,
+    read_payload,
+)
 
 
 REPO = Path(__file__).resolve().parents[1]
@@ -20,9 +30,10 @@ class RunLockTest(unittest.TestCase):
         self.saved_env = os.environ.pop(LOCK_ENV, None)
         self.saved_master = os.environ.pop(MASTER_LOCK_ENV, None)
         self.saved_commit = os.environ.pop(COMMIT_LOCK_ENV, None)
+        self.saved_final = os.environ.pop(FINAL_LOCK_ENV, None)
 
     def tearDown(self):
-        for key in (LOCK_ENV, MASTER_LOCK_ENV, COMMIT_LOCK_ENV):
+        for key in (LOCK_ENV, MASTER_LOCK_ENV, COMMIT_LOCK_ENV, FINAL_LOCK_ENV):
             os.environ.pop(key, None)
         if self.saved_env is not None:
             os.environ[LOCK_ENV] = self.saved_env
@@ -30,6 +41,8 @@ class RunLockTest(unittest.TestCase):
             os.environ[MASTER_LOCK_ENV] = self.saved_master
         if self.saved_commit is not None:
             os.environ[COMMIT_LOCK_ENV] = self.saved_commit
+        if self.saved_final is not None:
+            os.environ[FINAL_LOCK_ENV] = self.saved_final
         self.temporary.cleanup()
 
     def test_records_holder_chapter_and_stage(self):
@@ -148,6 +161,33 @@ class RunLockTest(unittest.TestCase):
             self.assertEqual(payload["holder"], "run_until")
             self.assertEqual(payload["stage"], "workflow")
             self.assertEqual(payload["until"], 100)
+
+    def test_parallel_children_delegate_the_final_lock(self):
+        script = (
+            "import sys\n"
+            "from pathlib import Path\n"
+            "sys.path.insert(0, sys.argv[1])\n"
+            "from tools.run_lock import FINAL_LOCK_NAME, parent_delegated\n"
+            "if not parent_delegated(FINAL_LOCK_NAME):\n"
+            "    raise SystemExit('expected the batch parent to own the final lock')\n"
+        )
+        with hold_final_lock(self.root, holder="run_final_batch", chapter=11, stage="batch:2"):
+            env = os.environ.copy()
+            env[FINAL_LOCK_ENV] = str(os.getpid())
+            children = [
+                subprocess.Popen(
+                    [sys.executable, "-c", script, str(REPO)],
+                    cwd=REPO,
+                    env=env,
+                    text=True,
+                    stdout=subprocess.PIPE,
+                    stderr=subprocess.PIPE,
+                )
+                for _ in range(2)
+            ]
+            for child in children:
+                stdout, stderr = child.communicate(timeout=10)
+                self.assertEqual(child.returncode, 0, stderr or stdout)
 
     def test_translation_and_mastering_locks_do_not_conflict(self):
         with hold_run_lock(self.root, holder="run_next", chapter=66, stage="draft"):

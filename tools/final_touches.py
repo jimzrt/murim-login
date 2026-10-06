@@ -344,9 +344,12 @@ def main() -> int:
         command_status(args.chapter)
         return 0
     try:
-        from tools.run_lock import hold_final_lock
+        from tools.run_lock import FINAL_LOCK_NAME, hold_final_lock, parent_delegated
     except ModuleNotFoundError:
-        from run_lock import hold_final_lock
+        from run_lock import FINAL_LOCK_NAME, hold_final_lock, parent_delegated
+    if parent_delegated(FINAL_LOCK_NAME):
+        command_run(args.chapter)
+        return 0
     with hold_final_lock(ROOT, holder="final_touches", chapter=args.chapter, stage="run"):
         command_run(args.chapter)
     return 0
