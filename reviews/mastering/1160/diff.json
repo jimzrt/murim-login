@@ -1,0 +1,1105 @@
+{
+  "baseline_blocks": 160,
+  "baseline_sha256": "1b56b0e1a7eab0fcbc9134ce12ef1aca9bb0cead62ed5ae038e0b4cd3f505e66",
+  "global_terminology_alerts": [],
+  "hunk_count": 57,
+  "hunks": [
+    {
+      "baseline": "As time slowed, the Skeleton King gazed at the countless black flashes covering every direction and murmured to himself.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "15",
+      "sol": "As time slowed, the Skeleton King watched countless black flashes fill the space around him and murmured to himself.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, he knew.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "23",
+      "sol": "",
+      "sol_paragraphs": "after P10",
+      "sol_range": [
+        10,
+        10
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If he moved now, he could still avoid Erasure.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "25",
+      "sol": "",
+      "sol_paragraphs": "after P10",
+      "sol_range": [
+        10,
+        10
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "소멸",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Erasure"
+        }
+      ]
+    },
+    {
+      "baseline": "If he struggled with every ounce of his strength, until the last fragment of his soul crumbled into ash, he might even leave a tiny sword wound on that terrifyingly powerful Ancient Dragon’s body.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "27",
+      "sol": "Of course, he knew. If he moved now, he could still avoid Erasure. If he struggled with every ounce of his strength, until the last fragment of his soul crumbled into ash, he might even leave a tiny sword wound on that terrifyingly powerful Ancient Dragon’s body.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But in the end, it would be pointless.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "29",
+      "sol": "",
+      "sol_paragraphs": "after P11",
+      "sol_range": [
+        11,
+        11
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The gap in their power—the difference in their very being—was too vast for him to hope for anything more.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "31",
+      "sol": "But it would be pointless. The gap in their power—the difference in their very being—was too vast for him to hope for anything more.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*There’s no turning this around. This body—or rather, Jin Taekyung—will fall here today. At the hands of a monster bent on destroying the world.*",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "33",
+      "sol": "*There’s no turning this around. This body—no, Jin Taekyung—will fall here today. At the hands of a monster bent on destroying the world.*",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And word would spread soon.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "35",
+      "sol": "",
+      "sol_paragraphs": "after P13",
+      "sol_range": [
+        13,
+        13
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everything moved fast in this world.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "37",
+      "sol": "And word would spread soon. Everything moved fast in this world.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the sight of a hero, driven by an unseen hand to willingly meet his end, they would finally realize their mistake. Then they would unite and fight.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "45",
+      "sol": "At the sight of a hero driven by an unseen hand to willingly meet his end, they would finally realize their mistake. Then they would unite and fight.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sound of space being crushed left his ears ringing. His eyes were firmly shut behind their lids, yet he could still see those faces and hear those voices. What were they?",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "55",
+      "sol": "The sound of space being crushed left his ears ringing. His eyes were shut tight, yet he could still see those faces and hear those voices. What were they?",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "—hadn’t a single one of those terrible black flashes touched him, though the tremendous magical power seemed capable of devouring not only his body, but the soul within it, without a trace?",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "61",
+      "sol": "—hadn’t a single one of those terrible black flashes touched him? That tremendous magical power had seemed capable of devouring both his body and the soul within it without a trace.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Far away, a Black Dragon sat leaning at an angle against his throne, staring at him with eyes that gleamed strangely.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "69",
+      "sol": "Far away, the Black Dragon leaned back at an angle against his throne, staring at him with eyes that gleamed strangely.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After slowly wearing away over thousands of years, the Ancient Dragon’s heart was now pounding fiercely.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "79",
+      "sol": "The Ancient Dragon’s heart, worn down little by little over thousands of years, was pounding fiercely now.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Skeleton King gritted his teeth at the question. Morgoth had already seen through not only his appearance, but the whole situation.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "83",
+      "sol": "The Skeleton King gritted his teeth. Morgoth’s question made it clear he had seen through not only the Skeleton King’s appearance, but the whole situation.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But it was not an outburst of anger at the Skeleton King for trying to deceive him.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "93",
+      "sol": "But Morgoth was not angry at the Skeleton King for trying to deceive him.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Morgoth was trembling.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "95",
+      "sol": "",
+      "sol_paragraphs": "after P42",
+      "sol_range": [
+        42,
+        42
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "모르고스",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Morgoth"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "With rising excitement and joy.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "97",
+      "sol": "He was trembling with rising excitement and joy.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*The Adversary who defeated the Demon King in a mere human body. And the one who would lead the world after him.*",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "107",
+      "sol": "*The Adversary who defeated the Demon King in a mere human body. And the one who leads the world after him.*",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the sight the Skeleton King had just shown him was enough to shake him to the core.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "113",
+      "sol": "But what the Skeleton King had just shown him was enough to shake him to the core.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*A cursed undead monster, and it has a soul like this.*",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "115",
+      "sol": "*A cursed undead monster, with a soul like this.*",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Morgoth had spent vast stretches of time among many races in the name of amusement. Yet even among the Elves of the forest, supposedly the most noble of them all, he had never felt so astonished.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "121",
+      "sol": "Morgoth had spent vast stretches of time among many races in the name of amusement. Yet even the Elves of the forest, supposedly the noblest of them all, had never astonished him like this.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the Skeleton King was unmistakably an undead monster.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "127",
+      "sol": "But the Skeleton King was unmistakably an undead monster. A being corrupted by an inescapable curse.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A being corrupted by an inescapable curse.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "129",
+      "sol": "",
+      "sol_paragraphs": "after P58",
+      "sol_range": [
+        58,
+        58
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And yet he had tried to sacrifice himself—the very undead monster who should have been made of nothing but rage and fear.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "131",
+      "sol": "And yet he had tried to sacrifice himself—an undead monster who should have been made of nothing but rage and fear.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Though he felt afraid of Erasure, and had the power to delay his end, even for a little while, he still refused to retreat.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "133",
+      "sol": "Though he feared Erasure and had the power to delay his end, if only for a little while, he had refused to retreat.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Morgoth, who had chosen to become an evil dragon, abandoning everything he had built over the ages in pursuit of curiosity alone, felt the strongest urge of his life.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "139",
+      "sol": "Morgoth had chosen to become an evil Dragon, abandoning everything he had built over the ages in pursuit of curiosity alone. Now he felt the strongest urge of his life.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To be precise, he felt a greed his lofty intellect could not possibly suppress.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "141",
+      "sol": "More precisely, a greed that even his lofty intellect could not suppress.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If he could make this strange being, whom he had never seen before, completely his own, then perhaps he could reach not only that extraordinary essence, but the realm of the unknown he had longed for over thousands of years.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "149",
+      "sol": "If he could make this strange being, unlike any he had ever seen, completely his own, he felt he might grasp not only its extraordinary nature but also the unknown realm he had longed to reach for thousands of years.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Morgoth’s figure vanished without a trace, though he had been dozens of meters away.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "161",
+      "sol": "",
+      "sol_paragraphs": "after P73",
+      "sol_range": [
+        73,
+        73
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "모르고스",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Morgoth"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "The Skeleton King, every nerve on edge, felt a sudden chill rush over him.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "163",
+      "sol": "Morgoth vanished without a trace, though he had been dozens of meters away. The Skeleton King, every nerve on edge, felt a sudden chill rush over him.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His opponent was a Dragon, born blessed by mana in a way no other race could approach.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "169",
+      "sol": "His opponent was a Dragon, born with a blessing of mana no other race could approach.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Morgoth cast a wordless spell as naturally as breathing, pushed Blink magic past its limits, and appeared to strike the Skeleton King in the back.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "171",
+      "sol": "Morgoth cast a wordless spell as naturally as breathing, surpassed the limits of Blink magic, and struck the Skeleton King in the back.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His body flew like a cannonball with a dreadful cracking sound.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "177",
+      "sol": "With a dreadful cracking sound, his body flew like a cannonball.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, the Skeleton King put everything he had into widening the distance—and realized his left arm had just been severed from his body.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "185",
+      "sol": "The Skeleton King put everything he had into widening the distance—and realized his left arm had just been severed from his body.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He also knew that if he hadn’t twisted instinctively at the last moment, he would have lost something other than his arm.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "187",
+      "sol": "If he hadn’t twisted instinctively at the last moment, he would have lost something other than his arm.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Morgoth’s voice followed. The Skeleton King knew his guess had been right.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "191",
+      "sol": "Morgoth’s voice followed, confirming his suspicion.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "스켈레톤",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Skeleton"
+        }
+      ]
+    },
+    {
+      "baseline": "“Stop resisting. It’s only a waste of time.”",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "193",
+      "sol": "“Stop resisting. You’re only wasting time.”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was true.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "195",
+      "sol": "",
+      "sol_paragraphs": "after P89",
+      "sol_range": [
+        89,
+        89
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was nothing to add or take away from that.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "197",
+      "sol": "It was true. There was nothing to add to it or take away.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ve changed my mind. I want you.”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "201",
+      "sol": "“I’ve changed my mind. I have to have you.”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I understand. I am pretty damn handsome, after all. In fact, it feels like a crime to be stuck with a face this ugly.”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "209",
+      "sol": "“I understand. I am pretty damn handsome, after all. In fact, it feels unfair to be stuck with a face this ugly.”",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His enormous but murky magical power welled up.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "219",
+      "sol": "",
+      "sol_paragraphs": "after P100",
+      "sol_range": [
+        100,
+        100
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "마법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Magic"
+        },
+        {
+          "korean": "마력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "magical power"
+        }
+      ]
+    },
+    {
+      "baseline": "It wrapped around the Skeleton King’s body, swirling around the silver blade—so utterly at odds with its nature.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "221",
+      "sol": "His enormous but murky magical power welled up, wrapping around his body and the silver blade—so utterly at odds with its nature.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "스켈레톤",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Skeleton"
+        }
+      ]
+    },
+    {
+      "baseline": "Yet even that mighty force, rippling like living mist as it swallowed up the space around them, could not compare to Morgoth’s power.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "223",
+      "sol": "Yet even that mighty power, rippling like living mist as it filled the space around them, could not compare to Morgoth’s.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "오크",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Orc"
+        }
+      ]
+    },
+    {
+      "baseline": "His pure yet impossibly powerful magical power, worthy of his title as a Demon Realm archduke, pressed down on everything.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "229",
+      "sol": "His impossibly pure and powerful magical power, worthy of his title as an Archduke of the Demon Realm, pressed down on everything.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But unlike Morgoth, who came hurtling toward him faster than sound, his wings of magical power spread wide, the Skeleton King’s two legs remained firmly planted where they were.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "241",
+      "sol": "But unlike Morgoth, who came hurtling toward him faster than sound with wings of magical power spread wide, the Skeleton King kept both feet planted firmly where he stood.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "All that remained was the final strike he would unleash with his one remaining hand.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "243",
+      "sol": "All he had was the final strike he would make with his one remaining hand.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With confidence, yet calm.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "251",
+      "sol": "Boldly, yet calmly.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Carrying a force greater than anything it had ever borne, it flew in the single direction its wielder intended.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "253",
+      "sol": "Carrying a force greater than it had ever borne, it flew in the single direction its wielder intended.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not at Morgoth, but at the Skeleton King’s own neck.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "255",
+      "sol": "Toward the Skeleton King’s own neck.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "모르고스",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Morgoth"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "In the instant, divided into countless fractions of a second, Morgoth witnessed the unbelievable sight. His eyes flew wide and he reached out.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "261",
+      "sol": "In an instant divided into countless fractions, Morgoth witnessed the unbelievable sight. His eyes flew wide, and he reached out.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A flash, deeper and more vast than any darkness, erupted and swallowed everything around them.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "267",
+      "sol": "A flash deeper and more vast than any darkness erupted, swallowing everything around them.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If someone living in Moscow had survived to see it, they would surely have thought of one word:",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "275",
+      "sol": "If someone who had lived in Moscow had survived to see it, they would surely have thought of one word:",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The vast wave struck something beyond instinct, stirring the soul. Across the area, countless monsters raised their heads in unison.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "289",
+      "sol": "The vast wave stirred something beyond instinct, reaching into the soul. Across the area, countless monsters raised their heads in unison.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even the dragonkin circling the tall spires and the black clouds overhead.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "295",
+      "sol": "Even the dragonkin circling the tall spires and beneath the black clouds.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The monsters, watching the strange sight with vacant stares, realized at the same time how precious the brief moment they had just been given was.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "321",
+      "sol": "The monsters watched the strange sight with vacant stares. At the same moment, they realized how precious the brief time they had just been given was.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 151,
+  "sol_sha256": "03521dbab299f97a57acb28a6fde8557bc30877723f084e5ba5e9e438f3b6b24",
+  "version": 1
+}

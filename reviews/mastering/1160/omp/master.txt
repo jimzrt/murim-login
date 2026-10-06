@@ -166,7 +166,7 @@ Before the Skeleton King could regain his balance in midair, Morgoth leapt acros
 
 A chillingly low whistle cut through the air by his ear.
 
-At the same time, the Skeleton King put everything he had into widening the distance—and realized his left arm had just been severed from his body.
+The Skeleton King put everything he had into widening the distance—and realized his left arm had just been severed from his body.
 
 If he hadn’t twisted instinctively at the last moment, he would have lost something other than his arm.
 
@@ -248,7 +248,7 @@ A flash deeper and more vast than any darkness erupted, swallowing everything ar
 
 * * *
 
-If someone living in Moscow had survived to see it, they would surely have thought of one word:
+If someone who had lived in Moscow had survived to see it, they would surely have thought of one word:
 
 Apocalypse.
 
