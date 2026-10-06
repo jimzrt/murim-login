@@ -26,7 +26,7 @@ I knew how wide the gap was between my opponent and me. I knew the best I could 
 
 *And the worst, too.*
 
-Watching the Blood Lord cross a dozen or so jang through the slowed world, I muttered to myself.
+I watched the Blood Lord cross a dozen or so jang through the slowed world, and the thought came to me.
 
 Did I regret this choice? Was I afraid of dying?
 
@@ -34,7 +34,7 @@ I didn’t know.
 
 More precisely, I didn’t have enough time to answer.
 
-Even in the sluggish flow of time, the Blood Lord moved like a flash of light—and I was definitely slower.
+Even in the sluggish flow of time, the Blood Lord moved like a flash of light—and I was slower.
 
 Half a step.
 
@@ -42,7 +42,7 @@ No. At least a full step stood between us now, a gap I could never close. It was
 
 So there was nothing else I could do.
 
-I could only charge at him like a moth.
+I could only charge like a moth.
 
 Before that torch, reeking of blood, swallowed everyone, I had to put it out with one last beat of my wings, giving it everything I had.
 
@@ -132,7 +132,7 @@ And at last, the moment reason and instinct met inside me—
 
 ……!!
 
-Time, held back until now, and everything around me—the noise and the surroundings—came crashing down all at once, like a massive wave breaking through a dam.
+Time, held back until now, came crashing down. Every sound and sight around me followed, like a massive wave breaking through a dam.
 
 Through it all, a blurred afterimage flashed between the Blood Lord and me as we shot toward each other.
 
@@ -164,7 +164,7 @@ The other side could learn from past mistakes, too.
 
 Despite his inhuman regenerative ability and overwhelming martial prowess, the Blood Lord had waited for One Annihilation until the very last moment, then put the Black Ghost he’d kept hidden in front of him as a shield.
 
-As if he wouldn’t allow even the smallest variable.
+He meant to leave no room for even the smallest variable.
 
 And the price of my carelessness was shoving me hard in the back, right at the edge of a cliff.
 
@@ -188,7 +188,7 @@ At the last moment, as that dreadful heat was about to devour everything in its 
 
 A faint sound of air being cut—so faint I wouldn’t have heard it if my senses hadn’t been sharper than ever.
 
-And it wasn’t an apparition or a hallucination.
+Neither the sight nor the sound was an illusion.
 
 * * *
 
@@ -212,13 +212,13 @@ The plan was perfect. It was as good as done.
 
 There was no mistaking it: Jin Taekyung had grown beyond recognition.
 
-And so, the Blood Lord had no doubt that the strike he couldn’t begin to understand had grown terrifyingly powerful, too.
+And with him, that incomprehensible strike had surely grown terrifyingly powerful, too.
 
-It had become so powerful that even the Blood Lord, who now considered himself all but immortal, had thought of death when he felt the unprecedented energy wrapped around the spearhead.
+Even the Blood Lord, who now considered himself all but immortal, had thought of death when he felt the unprecedented energy wrapped around the spearhead.
 
 But this was as far as it went.
 
-*The lion uses all its strength, even when hunting a rabbit.*
+*The lion hunting a rabbit.*
 
 Even a predator gives everything it has to catch a single rabbit.
 
@@ -235,6 +235,8 @@ So he would believe the Blood Lord was his only enemy.
 And the Blood Lord’s plan had worked.
 
 No—more accurately, he thought it had worked.
+
+Massive flames erupted from the spearhead and swallowed the space around it.
 
 Then a streak of light flew in from somewhere and swept past the Black Ghost that had moved between Jin Taekyung and the Blood Lord at his command.
 
