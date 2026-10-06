@@ -35,8 +35,6 @@ Sama Pyo pulled the dagger from between the dead Third Elder’s brows. When our
 
 “Did I do something I shouldn’t have?”
 
-I answered.
-
 “Yeah.”
 
 “If he was yours to deal with, I’m sorry. I thought leaving him alive might cause trouble…”
@@ -201,7 +199,7 @@ The Blood-Sword Demon Lord blinked at me, then spread his arms and turned in a s
 
 “……!”
 
-“Ah, don’t misunderstand. I’m certainly not saying you look unpleasant. If anything, I find this rather familiar… It’s a good sight, in more ways than one.”
+“Ah, don’t misunderstand. I’m certainly not saying you’re ugly to look at. Quite the opposite. It’s a rather familiar sight to me… Pleasing in all sorts of ways.”
 
 At his satisfied smile, I suddenly felt short of breath.
 
@@ -243,11 +241,11 @@ The Blood-Sword Demon Lord shook his head. Jeok Cheongang spat onto the ground.
 
 “I know. But I’ve admired you for so long that I can’t help myself. I’ll have to settle for loving you from afar.”
 
-“Do I have to turn you into charcoal while you’re still alive to shut that mouth of yours?”
+“Will you shut that mouth only after I burn you to charcoal alive?”
 
 “Probably. To be honest, I was a little disappointed about that. I thought at least one of those three would end up that way.”
 
-The Blood-Sword Demon Lord gave a showy sigh, then continued.
+The Blood-Sword Demon Lord gave a theatrical sigh.
 
 “You have no idea how excited I was when I heard what happened at Mount Jiuhua all those years ago. A descendant of the Fire Gate Clan I’d only ever heard about! And when I heard those fools who dared lay a hand on you had all been reduced to ash—how satisfying that was.”
 
@@ -301,7 +299,7 @@ Behind each side, the aura of countless troops made the air tremble.
 
 *Now it begins.*
 
-I could feel it.
+I knew it.
 
 The bloody battle for the Great Snow Mountain—the great battle we could no longer avoid—had finally begun.
 
@@ -315,7 +313,7 @@ Now that the Three Elders of Tianshan, a core part of the enemy’s strength, we
 
 Surely.
 
-Surely that was how it would go.
+Surely it had.
 
 *Then why…*
 
@@ -337,4 +335,4 @@ Sssaaaaa.
 
 Not even a pounding of hooves accompanied their ghostlike charge. Watching them, I thought of the otherworldly beings who should never have appeared here, in Murim.
 
-“Death Knights…?”
+“A Death Knight…?”

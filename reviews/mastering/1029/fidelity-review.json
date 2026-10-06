@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.92,
+      "current": "I’ll have to settle for loving you from afar.",
+      "defect": "The Korean explicitly says he must be content even with one-sided love. “Loving you from afar” can suggest physical or emotional distance without preserving that unrequited-love joke.",
+      "id": "F01",
+      "rationale": "짝사랑 means unrequited love; the line continues the Demon Lord’s flirtatious claim that he has long admired Jeok Cheongang.",
+      "replacement": "I’ll have to settle for unrequited love.",
+      "severity": "minor",
+      "source": "Line 249"
+    }
+  ],
+  "summary": "The assembled English is faithful overall, with one minor loss of nuance in the Blood-Sword Demon Lord’s joke.",
+  "version": 1
+}
