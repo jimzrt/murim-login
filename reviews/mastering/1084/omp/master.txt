@@ -6,9 +6,9 @@ The line came from a poet of long ago, celebrated in his day as the Poet Sage.
 
 He had revered the distant history held in the Yangtze’s waters, and the beauty of the river itself. The man sitting at the bow with his eyes closed felt the same.
 
-No. Naturally, he felt it even more deeply.
+No. He felt it even more deeply.
 
-He had loved the Yangtze since childhood, become a river pirate, and in time made Ship-Fire Boy a name that symbolized him.
+He had loved the Yangtze since childhood. That love had led him to become a river pirate, and in time, Ship-Fire Boy had become a name synonymous with him.
 
 *Boom. Boom. Booooom!*
 
@@ -28,19 +28,19 @@ Now the Sea Dragon Ship, which no one dared challenge, was cutting through the c
 
 It was headed toward the Great Nation’s military vessels—the ships of the Yangtze’s other master.
 
-No—the Yangtze’s master in all but name.
+No, its master in all but name.
 
 *But today will be different.*
 
-Today, we’ll show them that we—the Yangtze River Channel League—are the Yangtze’s true rulers.
+Today, they would show the Great Nation that the Yangtze River Channel League was the Yangtze’s true ruler.
 
-Mu Song muttered the words to himself and thrust his fist into the air. His subordinates roared, and the wind filled the sails.
+Mu Song thrust his fist into the air. His subordinates roared, and the wind filled the sails.
 
 *Whoooosh!*
 
 The bow cut through the water.
 
-Just as they charged toward the Great Nation’s vessels like horses across an open plain, something dark and grayish emerged between the vessels that had turned obliquely to face them.
+As the ship charged toward the Great Nation’s vessels like a horse galloping across an open plain, the military vessels turned at an angle. Something dark poked out between them.
 
 “Fire!”
 
@@ -100,7 +100,7 @@ The river pirates had been tense, knowing full well what cannons could do. Now s
 
 “Stronghold Lord, they look flustered.”
 
-“Shit. I nearly pissed myself, and now I just feel embarrassed.”
+“Shit. I nearly pissed myself, and now I feel stupid.”
 
 Mu Song nodded at his subordinates’ relieved remarks. “Just as my Master said.”
 
@@ -108,7 +108,7 @@ Mu Song nodded at his subordinates’ relieved remarks. “Just as my Master sai
 
 “That’s right. He said they’d be caught unprepared after so many years of peace.”
 
-Mu Song thought the same as his Master.
+Mu Song had thought the same.
 
 A predator grew lazy once the hunt was over.
 
@@ -120,13 +120,13 @@ Ever since the Great Nation unified the continent, the only enemies it had neede
 
 *We’ll win this battle.*
 
-Just as Mu Song quietly repeated the words to himself, sure of victory, one of the chuckling subordinates suddenly spoke up.
+As Mu Song quietly repeated those words to himself, sure of victory, one of the chuckling subordinates spoke up.
 
-“Still, there’s something that feels a little off.”
+“Still, there’s something a bit… Well, how do I put it?”
 
 “What do you mean?”
 
-“It’s not that I’m complaining, exactly, but…”
+“It’s not that I’m complaining, exactly.”
 
 The subordinate scratched the back of his head, then added hesitantly, “Are we really supposed to be doing this?”
 
@@ -142,7 +142,7 @@ He trailed off, looking uneasy. The others exchanged glances and began to chime 
 
 “Orders are orders. Underlings like us have to follow them. But it doesn’t sit right.”
 
-The subordinates had been murmuring among themselves, but when they saw their leader’s expression stiffen, they fell silent. The truth was, Mu Song wasn’t at ease either.
+The subordinates fell silent when they saw their leader’s expression stiffen. The truth was, Mu Song wasn’t at ease either.
 
 *Are we really supposed to be doing this?*
 
@@ -152,7 +152,7 @@ Perhaps it tasted all the more bitter because, deep down, he knew better than an
 
 *Even if it’s my Master’s order… I can’t bring myself to like this.*
 
-Mu Song had never once thought of himself as a *junzi*.
+Mu Song had never thought of himself as a *junzi*.
 
 A river pirate.
 
@@ -166,11 +166,11 @@ He never took from anyone who looked poor, and if one of his subordinates commit
 
 Mu Song looked out over the river, filled with thunder and chaos, and swallowed the words rising in his throat.
 
-At the same time, a face suddenly came to mind.
+Then a face came to mind.
 
 *Blazing Flame Divine Dragon Jin Taekyung.*
 
-He’d borrowed their swift ships so many times it was practically theft, then bossed them around like servants. He was a thief worse than they were, if anything. But Jin Taekyung was still a chivalrous hero.
+The man had “borrowed” their swift ships so many times it was practically theft, then worked them like servants. He was as bad a thief as any of them. But Jin Taekyung was still a chivalrous hero.
 
 So was the fearsome Fire King. Even the Slaughter Saint.
 
@@ -178,7 +178,7 @@ They had fought Dark Heaven, which had plunged the world into misery, and stood 
 
 *Come to think of it, did helping them make me a chivalrous hero for a little while too?*
 
-At the absurd thought that flashed through his mind, Mu Song bit his lip without realizing it.
+Mu Song bit his lip without realizing it. The thought was absurd.
 
 And pointless.
 
@@ -186,7 +186,7 @@ Now that they had come this far, he couldn’t undo anything on his own.
 
 He and his Junior Brother, the Iron-Water Divine Dragon, had already voted against this. But the First Disciple and several key Elders had persuaded their Master, and his resolve had held firm.
 
-*At last, the time has come. This is our one chance to become the Yangtze’s true rulers.*
+*At last, the time has come. Our chance to become the Yangtze’s true rulers.*
 
 That had settled everything.
 
@@ -198,15 +198,15 @@ He was a river pirate, and he would remain one.
 
 “…We’ll finish this quickly. Everyone, get ready.”
 
-Leaving his subordinates to watch him anxiously, Mu Song gripped the great saber in his hand with all his might.
+Leaving his subordinates to watch him anxiously, Mu Song tightened his grip on his great saber.
 
-The Yangtze, shrouded in thick cannon smoke rising even now, looked strange and unsettling, as if he were seeing it for the first time.
+Shrouded in thick cannon smoke, the Yangtze looked strange and unsettling, as though he were seeing it for the first time.
 
 *Damn it.*
 
 Swallowing the curse on the tip of his tongue, Mu Song recalled a line from an old poet’s verse. He had recited it until he was hoarse, despite never even finishing the Thousand Character Classic.
 
-Why were the waters of the Yangtze, which should have flowed so steadily as always, churning so violently and red?
+Why were the waters of the Yangtze, which should have rolled on as majestically as ever, churning so red?
 
 His brief reverie ended as the shadow of a military vessel drew close.
 
@@ -214,13 +214,13 @@ His brief reverie ended as the shadow of a military vessel drew close.
 
 A tremendous impact.
 
-The moment the swift ship’s sharp ram slammed into the side of the military vessel—
+The swift ship’s sharp ram slammed into the military vessel’s side.
 
 *Whoosh!*
 
 Mu Song kicked off the bow and leaped up, bringing his great saber down with all his strength toward a group of government troops preparing to fight on deck.
 
-At the same time, he saw them clearly.
+Then he saw them clearly.
 
 The fear and tension in their eyes. Their trembling spears and blades. Their bodies frozen in place.
 
@@ -232,7 +232,7 @@ The blade energy gathered along it vanished like smoke, and the keen edge turned
 
 *Thud! Thump!*
 
-The soldiers crumpled limply with dull blows instead of sharp cuts.
+The soldiers crumpled under dull blows instead of sharp cuts.
 
 “Huh?”
 
@@ -242,7 +242,7 @@ The river pirates looked at one another blankly, then grinned.
 
 “You all hear that? The Stronghold Lord says to leave them alive.”
 
-“Of course. Who’d dare disobey an order like that?”
+“Of course. Who’d dare disobey him?”
 
 They all knew how flimsy the excuse was.
 
@@ -256,8 +256,8 @@ Military vessels sank one after another in flames. Cries of agony rang out from 
 
 That day, in just two *shichen*, the Yangtze River Channel League sent more than a hundred military vessels carrying thousands of government troops to the bottom of the river. Then its ships turned west.
 
-Somewhere far to the west.
+Toward somewhere far beyond.
 
-And the astonishing news was enough to turn the world upside down.
+The news was enough to turn the world upside down.
 
 [^1]: Hongyi cannons were large, European-style cannons adopted by China.

@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled chapter is faithful overall. One minor intensity shift adds a degree of exertion not stated at that moment in the source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 240–250",
+      "current": "bringing his great saber down with all his strength",
+      "defect": "The source says Mu Song brought the saber down forcefully here; it reserves “with all his strength” for the later moment when he twists the saber. The current wording adds maximal exertion to the first action.",
+      "replacement": "bringing his great saber down in a forceful slash",
+      "rationale": "The source uses 힘차게 for the downward slash and 온 힘을 다해 for the later twist. Keeping those distinct preserves the difference in intensity.",
+      "confidence": 0.91
+    }
+  ]
+}
