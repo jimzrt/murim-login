@@ -298,7 +298,7 @@ Pung Yang glared at Jin Taekyung with murder in his eyes.
 
 Jin Taekyung opened his mouth with a bored expression.
 
-“You really like cutting off limbs and pulling out tongues. Do you have a limb fetish?”
+“You really like cutting off and pulling out people’s limbs. Do you have a limb fetish?”
 
 “You little bastard…”
 
