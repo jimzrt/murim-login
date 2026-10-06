@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "the bridge between the two worlds would remain broken",
+      "defect": "“Remain broken” implies the bridge had already been broken. The source says the bridge connecting the two worlds will not be connected until the Quest is cleared.",
+      "id": "F01",
+      "rationale": "The Korean describes whether the bridge is connected before the Quest is cleared, not a prior breakage.",
+      "replacement": "the bridge between the two worlds would not be connected",
+      "severity": "minor",
+      "source": "Korean line 107"
+    }
+  ],
+  "summary": "Mostly faithful. Two minor wording choices introduce implications not established by the Korean.",
+  "version": 1
+}

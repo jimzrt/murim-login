@@ -38,7 +38,7 @@ That dagger was Jin Taekyung.
 
 Not the sharpest in the world, nor the most precious—but against Dark Heaven, more lethal than any other weapon.
 
-No. Perhaps the Lord of Heaven’s only Adversary, chosen by Heaven itself.
+No. Perhaps the only Adversary to the Lord of Heaven, who had been chosen by Heaven itself.
 
 “That’s why everyone agreed. The Sword Saint, the Emperor. And…”
 
@@ -224,7 +224,7 @@ He left the startled Slaughter Saint behind and charged through the dust cloud t
 
 Two streaks of light flashed.
 
-At their tips lay enough force and momentum to cleave through a boulder of solid iron in a single stroke, but Jin Taekyung twisted his upper body without a moment’s hesitation.
+They carried enough force to cleave a boulder of solid iron in a single stroke, but Taekyung twisted his upper body without the slightest hesitation.
 
 As if he’d seen it coming.
 
@@ -238,7 +238,7 @@ In the same instant, he struck.
 
 His two palms met the Bow Saint’s twin sabers.
 
-With a boom like an exploding cannonball, the Bow Saint’s sunken eyes appeared reflected on the trembling blade of her curved saber.
+The impact boomed like an exploding cannonball. In the trembling steel of her curved blades, her eyes reflected back at him, dark and steady.
 
 “Stop.”
 
@@ -252,7 +252,7 @@ Pain shot through his jaw, jolting his fading mind awake. It lit a fire in the b
 
 His palms drove forward against the blades.
 
-At the same time, the Bow Saint began to slide backward with her treasured weapon as Jin Taekyung’s perfect, massive muscles flexed—too large to hide even beneath his thick robe.
+His enormous, perfectly formed muscles flexed, their shape visible even beneath his thick robe. Slowly, the Bow Saint and her treasured weapons began to slide backward.
 
 It was the strength of some ancient giant. A will that refused to give out.
 
@@ -262,7 +262,7 @@ As far as his heart and body could endure.
 
 “I’m sorry. Truly.”
 
-The moment Jeok Cheongang’s tearful voice came from behind him, Jin Taekyung felt every bit of the strength boiling inside him like lava turn cold.
+At the sound of Jeok Cheongang’s thick voice behind him, Taekyung felt the strength that had been boiling through him like lava go cold.
 
 Faces blurred before him, as indistinct as his vision. Memories of the time he’d spent with them rose one after another, clouding his sight more densely than any fog or dust.
 

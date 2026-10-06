@@ -1,0 +1,25 @@
+{
+  "summary": "Mostly faithful. Two minor wording choices introduce implications not established by the Korean.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 107",
+      "current": "the bridge between the two worlds would remain broken",
+      "defect": "“Remain broken” implies the bridge had already been broken. The source says the bridge connecting the two worlds will not be connected until the Quest is cleared.",
+      "replacement": "the bridge between the two worlds would not be connected",
+      "rationale": "The Korean describes whether the bridge is connected before the Quest is cleared, not a prior breakage.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 125",
+      "current": "he could kill with One Strike now",
+      "defect": "Capitalizing “One Strike” makes the ordinary phrase “in a single strike” read like the named technique. The Korean uses 일격 here to mean one blow, not the technique.",
+      "replacement": "he could kill with a single strike now",
+      "rationale": "The source describes how quickly he could kill the Black Wyvern; it does not name a technique.",
+      "confidence": 0.88
+    }
+  ]
+}
