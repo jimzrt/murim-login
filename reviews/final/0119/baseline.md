@@ -86,7 +86,7 @@ Pung Yang was flustered. He immediately recognized the abnormal signs appearing 
 
 *Already?*
 
-The Temporary Strength Pill’s effect lasted a little over one shichen.[^1] Yet now, after barely half a shichen[^1] had passed, the power that had been surging through his entire body was gradually fading.
+The Temporary Strength Pill’s effect lasted a little over one shichen. Yet now, after barely half a shichen had passed, the power that had been surging through his entire body was gradually fading.
 
 Fatigue he hadn’t felt before pressed heavily down on his shoulders, and pain that had seemed distant began to prick at his nerves.
 
@@ -106,13 +106,13 @@ In exchange for temporarily granting tremendous power, it weakened the body’s 
 
 First the Tiger of Mount Heng, Cheol Mubaek, and then these young brats from the Jin Family of Taiyuan. Without the pills, Pung Yang would have died long ago, but he knew their price and feared the backlash.
 
-*At this rate, the effects will last no more than one meal’s time…*[^2]
+*At this rate, the effects will last no more than one meal’s time…*
 
 He had to settle the battle within that time.
 
 He must not use the last Temporary Strength Pill. Taking three in succession could put his life at risk.
 
-“One meal’s time…”[^2]
+“One meal’s time…”
 
 Pung Yang muttered under his breath and glared at the remaining prey.
 
@@ -170,7 +170,7 @@ I shook my head.
 
 “Take your brother and run.”
 
-Pung Yang stood only a little over ten zhang[^3]—about thirty meters[^4]—away. No matter how quietly she spoke, there was no way a Peak master like him hadn’t heard her.
+Pung Yang stood only a little over ten zhang—about thirty meters—away. No matter how quietly she spoke, there was no way a Peak master like him hadn’t heard her.
 
 “What, run? Hahahaha!”
 
@@ -178,7 +178,7 @@ Lee Seowol ignored his booming laughter and continued.
 
 “It may only be for a fleeting moment, but we’ll buy you time. Run as far away as you can.”
 
-I looked toward the fortress gate. It was about one hundred zhang[^3]—three hundred meters[^5]—from here. Just beyond it were Wolhwa, Hyuk Mujin, and the horses waiting to carry us away.
+I looked toward the fortress gate. It was about one hundred zhang—three hundred meters—from here. Just beyond it were Wolhwa, Hyuk Mujin, and the horses waiting to carry us away.
 
 *It’s worth a try.*
 
@@ -210,7 +210,7 @@ I asked her,
 
 Lee Seowol stared coldly at Pung Yang.
 
-“Kill that bastard. As cruelly as possible.”
+Kill that bastard. As cruelly as possible.
 
 Ten people were throwing away their lives for one person’s death.
 
@@ -238,7 +238,7 @@ Lee Seowol bit her lip.
 
 I took a deep breath. I had already mapped out every step in my head.
 
-Jin Mukyung lay only about twenty zhang[^3]—sixty meters[^6]—away. If I drew up as much internal energy as possible and ran with him on my back, enduring the internal injuries, I could reach the fortress gate in no time.
+Jin Mukyung lay only about twenty zhang—sixty meters—away. If I drew up as much internal energy as possible and ran with him on my back, enduring the internal injuries, I could reach the fortress gate in no time.
 
 Pung Yang might catch up by then, but if they bought me just a little more time, I could survive.
 
@@ -367,7 +367,7 @@ Pung Yang laughed heartily and released my tongue. Only then could I speak. I sw
 
 “What?”
 
-“Damn salty.”
+Damn salty.
 
 “What kind of bullshit is that?”
 
@@ -409,11 +409,4 @@ It was at that moment, as my head slowly drooped—
 > - The **Unnamed Sword** has satisfied a specific condition.
 > - **Ten-Thousand-Year Cold Iron** has destroyed **Body-Protecting Qi**.
 
-*…Huh?*
-
-[^1]: A shichen is a traditional time unit of approximately two hours; half a shichen is about one hour.
-[^2]: “One meal’s time” renders *sikgyeong*, a traditional expression for approximately half an hour.
-[^3]: A zhang is a traditional Chinese length of approximately 3 meters, or 9.8 ft.
-[^4]: Thirty meters is about 98 ft.
-[^5]: Three hundred meters is about 980 ft.
-[^6]: Sixty meters is about 200 ft.
+…Huh?
