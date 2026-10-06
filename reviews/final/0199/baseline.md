@@ -40,7 +40,7 @@ Even under Jeok Cheongang’s fierce glare, Ak Bulgun continued without wavering
 
 Jeok Cheongang glared at Ak Bulgun, his face stiff.
 
-“This old man entrusted that boy with our sect’s divine artifact.”
+“This old man entrusted that boy with our sect’s sacred treasure.”
 
 “I am well aware. I have heard all about it.”
 
@@ -100,7 +100,7 @@ Having made up my mind, I turned to Ak Bulgun.
 
 “Actually, I…”
 
-*I have no relationship with Great Hero Jeok. We just happen to share a slight connection. I desperately want to enter Heaven’s Gate Temple, so would someone like me qualify for a scholarship? Or perhaps the Shanxi Province rural special-admissions track?*[^1]
+I have no relationship with Great Hero Jeok. We just happen to share a slight connection. I desperately want to enter Heaven’s Gate Temple, so would someone like me qualify for a scholarship? Or perhaps the Shanxi Province rural special-admissions track?
 
 All the words poised to pour out of me like a waterfall were dammed by a single sentence from Jeok Cheongang.
 
@@ -108,7 +108,7 @@ All the words poised to pour out of me like a waterfall were dammed by a single 
 
 “Great Hero Jeok and I have no relationship at all… Pardon?”
 
-*What the hell was he talking about?*
+What the hell was he talking about?
 
 I whipped around to stare at Jeok Cheongang.
 
@@ -180,7 +180,7 @@ My feet began moving toward him against my will.
 
 *…Seizing an Object Through Empty Space?*
 
-*Was this really happening?*
+Was this really happening?
 
 The tiny old man finally pulled me into a tight embrace and moved his lips.
 
@@ -274,7 +274,7 @@ Then Jeok Cheongang, who had been staring at me, abruptly spoke.
 
 “…”
 
-*What the hell was he talking about when he had no intention of making me his Disciple?*
+What the hell was he talking about when he had no intention of making me his Disciple?
 
 I had plenty to say, but keeping my mouth shut was clearly the better way to extend my lifespan.
 
@@ -382,7 +382,7 @@ Contrary to my expectations, the liquor bottle didn’t come flying. Jeok Cheong
 
 “…”
 
-*Did he think I didn’t know that?*
+Did he think I didn’t know that?
 
 I stared at him in disbelief. Then a thought suddenly flashed through my mind.
 
@@ -400,7 +400,7 @@ Jeok Cheongang replied curtly.
 
 “Say it if you don’t want to die.”
 
-*Oh. Then I had to say it. If I didn’t want to die, I absolutely had to say it.*
+Oh. Then I had to say it. If I didn’t want to die, I absolutely had to say it.
 
 I gave a dry laugh.
 
@@ -425,5 +425,3 @@ Jeok Cheongang remained silent for a long while despite my calling him, then tos
 “…Pardon?”
 
 *What the hell was with this atmosphere?*
-
-[^1]: This refers to a Korean special-admissions category for applicants from rural areas.
