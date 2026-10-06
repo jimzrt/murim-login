@@ -361,7 +361,7 @@ The sound of something burning filled the air, followed by a thin trail of smoke
 
 Realizing where the sound had come from, his eyes flew open.
 
-“Th-the manual!”
+“The manual!”
 
 The cover of the Flame Divine Palm manual was already half-burned.
 
