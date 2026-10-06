@@ -50,7 +50,7 @@ And in his experience, a premonition like this had never been wrong.
 
 *Kunlun fallen.*
 
-The moment Jin Taekyung read the first line of the missive, scrawled in a rough hand, he bit down on his lip without realizing it.
+The moment Jin Taekyung read the first line, scrawled in a rough hand, he bit his lip without realizing it.
 
 * * *
 
@@ -80,7 +80,7 @@ The Bow Saint frowned at Jeok Cheongang’s sudden question.
 
 “So how was it at the start of the Great Faction War? When those Demonic Cult bastards crossed Kunlun.”
 
-“It was an unexpected attack. The Demonic Cult’s last invasion before the Great Faction War had been hundreds of years earlier, and even then they’d been soundly defeated before they could cross the Kunlun Mountains. So of course we never expected it.”
+“It was an unexpected attack. The Demonic Cult’s last invasion before the Great Faction War had been hundreds of years earlier, and even then they’d been soundly defeated before they could cross the Kunlun Mountains. We had every reason to think it would happen again.”
 
 But people always fixated on what they couldn’t have.
 
@@ -110,11 +110,11 @@ The difference was that this time, unlike in the last Great Faction War, when th
 
 At Jeok Cheongang’s sudden question, I nodded. I’d been lost in thought.
 
-“Even I think that was the best choice. Facing them head-on would’ve been insane.”
+“I think so too. Facing them head-on would’ve been insane.”
 
 The Demonic Cult and Dark Heaven were different in kind.
 
-I wasn’t talking about the quality or number of their troops. The darkness within Dark Heaven was far deeper and more boundless than anyone could imagine.
+I wasn’t talking about the quality or number of their troops. The darkness within Dark Heaven ran far deeper than anyone imagined.
 
 Even I couldn’t begin to guess its true size or depth.
 
@@ -138,9 +138,9 @@ Perfected Being Hyeoncheon, Sect Leader of the Kongtong Sect, had spoken up. I i
 
 “They have magic—no, dark arts with power that’s hard to believe. And the Dark Heaven forces occupying the Kunlun Mountains are too numerous to count.”
 
-That wasn’t a figure of speech or an exaggeration.
+That wasn’t a figure of speech.
 
-I was only repeating what was written in the missive carried by the messenger eagle I’d just caught.
+I was repeating what the Elder of the Kunlun Sect had written in the missive he’d sent as they made their swift retreat.
 
 Enemies too numerous to count were filling the mountains and advancing toward them.
 
@@ -148,15 +148,11 @@ At the sight of that overwhelming, terrifying force, he had found himself thinki
 
 “…The Hundred Thousand Demonic Disciples.”
 
-The groan slipped from someone’s lips, and the air grew heavy. It was only natural.
+The words slipped from someone’s lips, and the air grew heavy. Of course it did.
 
-Most of those present had already seen it with their own eyes.
+Most of us here had already seen it with our own eyes. Felt it on our skin, throughout our bodies.
 
-They’d felt it on their skin, in every part of their bodies.
-
-Most of the people here had seen and experienced Dark Heaven wield supernatural powers.
-
-They must have felt despair and defeat as they watched a sight that tore down every assumption they’d ever held.
+We had seen and experienced Dark Heaven wield supernatural powers. We’d watched a sight that overturned everything we thought we knew, and felt the despair that came with it.
 
 And now there were a hundred thousand.
 
@@ -184,7 +180,7 @@ A headache came on.
 
 But once again, time wasn’t on my side.
 
-Or rather, not time. The System.
+Or rather, the System wasn’t.
 
 *Logout.*
 
@@ -200,13 +196,13 @@ The System’s answer was calm and cold.
 
 “…Damn it.”
 
-Everyone’s attention snapped to me at the curse that escaped on instinct, but I didn’t care.
+Everyone looked at me when the curse escaped, but I didn’t care.
 
 No. The situation was so fucked I couldn’t spare a thought for their stares.
 
 *Why?*
 
-I’d already spent months in Murim and faced death several times over.
+I’d already spent months in Murim and come close to death time and again.
 
 But at some point, the System had shut the door tight and refused to open it.
 
@@ -224,7 +220,7 @@ Just as it was doing now.
 
 I stared at the holographic window floating before me and swallowed the curse that sprang to my lips.
 
-And, in a stroke of good luck amid all this misfortune, I cursed the System for tossing me a clue like alms in the form of a new Quest title. Then I spoke to a certain lunatic, who was the only one there nodding off like a sick chicken in the middle of this dire situation.
+Then, cursing the System for tossing me a clue in the new Quest’s title like it was handing out alms, I spoke to the one lunatic who had been nodding off like a sick chicken through all of this.
 
 “You said you’d guide us, right?”
 

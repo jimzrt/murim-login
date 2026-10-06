@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.84,
+      "current": "a combined force of some twenty thousand",
+      "defect": "“Some” makes the number sound approximate, while 물경 이만에 달하는 emphasizes a full twenty thousand joining the force.",
+      "id": "F02",
+      "rationale": "The source presents the scale as a striking twenty thousand, not an estimate softened by “some.”",
+      "replacement": "a combined force of a full twenty thousand",
+      "severity": "minor",
+      "source": "Korean line 142"
+    }
+  ],
+  "summary": "The chapter is largely faithful. Two minor wording choices blur a source distinction or weaken its quantity.",
+  "version": 1
+}
