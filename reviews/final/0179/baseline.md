@@ -44,9 +44,9 @@ Two men stood out among the crowd.
 
 “Tsk, tsk. Young fellows shouldn’t sleep so much.”
 
-“Exactly. When I was young, there were plenty of days when I couldn’t even get one shichen[^1] of sleep.”
+“Exactly. When I was young, there were plenty of days when I couldn’t even get one shichen of sleep.”
 
-“One whole shichen[^1]? Why, back in my day…”
+“One whole shichen? Why, back in my day…”
 
 The two old men raised their hands in greeting, then went right back to passing wine cups between themselves.
 
@@ -172,7 +172,7 @@ I nodded readily. It wasn’t my money, anyway.
 
 Of course it mattered.
 
-How much would a million nyang be worth in the real world? Hundreds of billions of won[^2]? Trillions[^3]?
+How much would a million nyang be worth in the real world? Hundreds of billions of won? Trillions?
 
 Jang Taebo let out a quiet laugh at my expression.
 
@@ -378,7 +378,7 @@ I took a deep breath and opened my mouth.
 
 “This time, I’m serious.”
 
-Once again, the space beneath the table grew scorching hot. It was Flame Divine Palm, of course.
+Once again, the space beneath the table grew scorching hot. There was no need to guess which technique it was.
 
 *What the fuck?*
 
@@ -413,7 +413,3 @@ After exchanging a silent glance of farewell with Jang Taebo, Jeok Cheongang tur
 I didn’t want to see him.
 
 Ever.
-
-[^1]: A *shichen* is a traditional time unit of approximately two hours.
-[^2]: Hundreds of billions of won—roughly 100 billion to under one trillion won—would be about $71 million–$710 million, or €65 million–€650 million.
-[^3]: Trillions of won—roughly one trillion to under ten trillion won—would be about $710 million–$7.1 billion, or €650 million–€6.5 billion.
