@@ -169,7 +169,7 @@ The door blew apart with a deafening crash. Someone rushed in like lightning, ch
 
 “Youngest!”
 
-*Yep. I knew it would be you.*
+Yep. I knew it would be you.
 
 I let out a deep sigh and asked Jin Wikyung, “What’s going on?”
 
@@ -183,11 +183,11 @@ As I stared at him in bewilderment, I spotted Hyuk Mujin standing in front of th
 
 “…”
 
-*Not a Familiar. A Hyuk-miliar.*
+Not a Familiar. A Hyuk-miliar.
 
 That bastard had definitely used my name to score points with Jin Wikyung.
 
-“Waaah! Our youngest broke through the wall! He reached the Peak realm!”
+“Our youngest broke through the wall! He reached the Peak realm!”
 
 Sure enough, Hyuk Mujin quickly cut in.
 
@@ -203,7 +203,7 @@ Sure enough, Hyuk Mujin quickly cut in.
 
 “…”
 
-*Of course it wasn’t, you dumbass.*
+Of course it wasn’t, you dumbass.
 
 Did it make any sense to appoint someone Family Head just because he had stood guard? Besides, all that bastard had actually done was snore.
 
@@ -245,19 +245,19 @@ Whenever Jin Wikyung acted like this, I was grateful that this world had no soci
 
 Complete with a teary-eyed selfie and hashtags.
 
-> \#JinFamilyofTaiyuan #UselessOlderBrother #OurYoungestIsAPeakMaster #KeepYourChinUpToday
->
-> └ **Wolhwa:** Oh my! Young Master Jin? Congratulations!
->
-> └ **Cheongpung:** Wow, I’ve never clicked Like before!
->
-> └ **Wipeng:** Don’t lie.
->
-> └ **Hyuk Mujin:** I stood guard over him.
->
-> └ **Jin Mukyung:** Is this what you call a country?[^1]
->
-> └ **Zhu Bao:** An autograph, please.
+#JinFamilyofTaiyuan #UselessOlderBrother #OurYoungestIsAPeakMaster #KeepYourChinUpToday
+
+Wolhwa: Oh my! Young Master Jin? Congratulations!
+
+Cheongpung: Wow, I’ve never clicked Like before!
+
+Wipeng: Don’t lie.
+
+Hyuk Mujin: I stood guard over him.
+
+Jin Mukyung: Is this what you call a country?
+
+Zhu Bao: An autograph, please.
 
 Imagining the reactions from countless Shanxi Province celebrities made my vision swim.
 
@@ -440,5 +440,3 @@ Hyuk Mujin sank into thought, and his mouth slowly fell open.
 “Whew. Good thing I didn’t give it to you back then.”
 
 Hyuk Mujin’s face twisted miserably.
-
-[^1]: “Is this what you call a country?” is a Korean expression of exasperation at a perceived injustice or absurdity, often used sarcastically.
