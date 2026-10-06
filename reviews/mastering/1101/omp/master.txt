@@ -6,7 +6,7 @@ The birthplace of the earliest civilization. Fertile land, abundant resources, a
 
 With advantages like those, people were bound to flock there from every direction.
 
-The problem was that among them were foreign peoples from distant borderlands, who often wanted to “borrow” the Central Plains’ gold and silver treasures.
+The trouble was that some came from distant borderlands and often wanted to “borrow” the Central Plains’ gold and silver.
 
 By their own methods: plunder or occupation.
 
@@ -34,7 +34,7 @@ It doused the defenders’ fighting spirit just as it had begun to blaze.
 
 Choked breaths escaped here and there amid a storm of shouted commands.
 
-And this wasn’t happening only at the West Gate, where I was stationed.
+And it wasn’t only happening at the West Gate, where I stood.
 
 The North Gate and South Gate were the same. So was the East Gate, though the assault there was comparatively light.
 
@@ -56,11 +56,11 @@ One of the commanders answered my quiet question. Sweat had already soaked the i
 
 “Everything’s prepared, just as the Marquis of Shangshan ordered.”
 
-Then there was no need to hesitate any longer.
+Then there was no reason to wait.
 
 I turned to the tense commander and the imperial troops standing by.
 
-“Pour it all out. Give them the works.”
+“Pour it all out. Give them plenty.”
 
 The moment I gave the order—
 
@@ -88,7 +88,7 @@ It had left its longtime home in my Lower Dantian. Now the enormous flame had ma
 
 Endlessly. Fiercely.
 
-And at the same time, as swiftly as a ray of light.
+And as swiftly as a ray of light.
 
 *Whoosh.*
 
@@ -96,11 +96,11 @@ The moment I stepped forward, a spine-chilling sensation of weightlessness swept
 
 Before I knew it, everything lay beneath my feet.
 
-The city wall, rising a dozen or so jang like a barrier at the edge of the world. The monsters and fanatics blackening the ground below.
+The city wall, rising more than ten jang like a barrier at the edge of the world. The monsters and fanatics blackening the ground below it.
 
 Only one thing was level with my eyes.
 
-A spear, wreathed in the flames of dark blue Force.
+A spear wreathed in dark blue Force.
 
 *Grind.*
 
@@ -134,7 +134,7 @@ Hundreds of them, at a rough count.
 
 Maybe more.
 
-But before the enormous roar that had shaken heaven and earth could even fade, my body was already dropping over their heads.
+But before the roar that had shaken heaven and earth could fade, I was already dropping toward their heads.
 
 *Bang! Bang! Ba-bang!*
 
@@ -156,9 +156,9 @@ One stroke, two halves.
 
 The enemies proved those four words with their lives as their bodies split left and right.
 
-A fountain of blood, vivid red even beneath the dark sky, spurted up. Madness glinted in the eyes of the enemies, already losing their focus.
+Fountains of blood, vivid red even beneath the dark sky, shot upward. Madness still glinted in eyes already going unfocused.
 
-“Heaven above and earth below, all demons bow!”
+“Heaven above and earth below, all demons bow.”
 
 “Attack!”
 
@@ -166,7 +166,7 @@ A fountain of blood, vivid red even beneath the dark sky, spurted up. Madness gl
 
 A wind of blades swept in, colder than the rain.
 
-The enemies had me surrounded on all sides, from every direction, and rushed in without regard for their lives.
+The enemies had taken every direction around me—all thirty-six of them—and charged without regard for their lives.
 
 Like moths drawn helplessly toward a flame.
 
@@ -192,7 +192,7 @@ To conserve my strength, I hadn’t put so much as a trace of internal energy in
 
 It was enough.
 
-My body had already surpassed human limits by several steps. My senses, honed in the face of death, made it possible.
+My body had surpassed human limits by several steps, and my senses had been honed in the face of death.
 
 *Grrk.*
 
@@ -212,7 +212,7 @@ No—it smashed through them.
 
 At the same time, a command rang out in my mind, and new blades appeared in both hands.
 
-A straight sword in my left. A narrow-bladed sword in my right.
+A straight saber in my left. A narrow-bladed sword in my right.
 
 They were unfamiliar. Yet somehow, impossibly familiar.
 
@@ -224,11 +224,11 @@ I fell into a Trance and swept through the enemies beneath the wall. Each swing 
 
 *Come.*
 
-I spared even the single breath I might have let out without thinking.
+I spared even the breath it would have taken to say it aloud.
 
 With that single thought, I cut down the enemies surging at me from every direction. I cut and kept cutting.
 
-I dodged a thrusting sword and pierced its wielder’s heart with the narrow-bladed sword. With nothing but a straight sword gone red with rust, I controlled the blades of five swords imbued with Sword Energy.
+I dodged a sword thrust and pierced its wielder’s heart with my narrow-bladed sword. With only the straight saber, now stained red, I controlled five swords imbued with Sword Energy.
 
 *Clang-clang-clang!*
 
@@ -236,7 +236,7 @@ I pressed against the flats of their blades and twisted. That was enough to knoc
 
 Strength when strength was needed. Softness when softness was needed.
 
-When the narrow-bladed sword broke, I summoned an axe from the nearly infinite storeroom of my Inventory. With the broken straight sword, I wielded a blade technique infused with the principles of the Flame Divine Palm.
+When the narrow-bladed sword broke, I summoned an axe from the nearly limitless depths of my Inventory. With the broken straight saber, I performed a saber technique drawn from the principles of the Flame Divine Palm.
 
 Even I couldn’t understand it. In that moment, I was free of every restriction and limit.
 
@@ -252,7 +252,7 @@ Of course, I hadn’t reached that realm. But at last, I felt I could faintly gr
 
 *Shhk!*
 
-With the sensation of death running through my fingertips, I started to turn toward another enemy—then blinked.
+I felt another death through my fingertips and turned toward the next enemy—then blinked.
 
 There was no one. Everything was quiet.
 

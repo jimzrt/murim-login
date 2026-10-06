@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "Each stood well over a jang tall. Their corpses had already piled halfway up the wall.",
+      "defect": "The source describes the corpses as each well over a jang tall; the current wording instead says the giants stood that tall, shifting the detail from their bodies as they lie piled up to the giants themselves.",
+      "id": "F01",
+      "rationale": "The Korean makes “their corpses” the subject of the sentence and specifies each corpse’s height before describing the pile reaching halfway up the wall.",
+      "replacement": "Their corpses, each well over a jang tall, had already piled halfway up the wall.",
+      "severity": "minor",
+      "source": "Korean lines 304–308"
+    }
+  ],
+  "summary": "The assembled translation is faithful overall, with one minor physical-detail shift in the final description of the giants.",
+  "version": 1
+}
