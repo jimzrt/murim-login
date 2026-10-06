@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is largely faithful, but the assembled copy narrows one explicit comparison and omits a narrative emphasis.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 39",
+      "current": "And Dark Heaven’s army had them beaten on both counts.",
+      "defect": "The source says Dark Heaven’s forces overwhelmed the allies in every respect. “On both counts” limits that claim to the two factors just named.",
+      "replacement": "In that regard, Dark Heaven’s army outclassed their own in every respect.",
+      "rationale": "The source says 현재 암천의 군세는 모든 면에서 아군을 압도하고 있었다 (“Dark Heaven’s forces were overwhelming their allies in every respect”). The accepted baseline also preserved “in every way.”",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 303–307",
+      "current": "But the Black Night King, Sima Gong, had not known.\n\nThat a young man whom a cold-hearted father had sent to his death would save his son.",
+      "defect": "The source adds that no one else could have known either. That emphasis is missing.",
+      "replacement": "But the Black Night King, Sima Gong, had not known.\n\nNo—no one could have known.\n\nThat a young man whom a cold-hearted father had sent to his death would save his son.",
+      "rationale": "The source explicitly follows “Sima Gong had not known” with “No, no one would have known” (아니, 그 누구도 몰랐을 것이다). The accepted baseline preserved this emphasis.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 249",
+      "current": "Why hadn’t the enemy targeted it?",
+      "defect": "The source asks why the Black Ghosts had not targeted this place, while “it” can refer to Sima Gong’s army in the preceding sentence.",
+      "replacement": "Why hadn’t they targeted this place?",
+      "rationale": "The source’s 이곳 (“this place”) refers to the location under discussion, and the preceding question identifies the Black Ghosts as the subject.",
+      "confidence": 0.88
+    }
+  ]
+}

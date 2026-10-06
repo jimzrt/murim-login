@@ -6,7 +6,7 @@ Thwack!
 
 Even as the thought crossed his mind, his saber moved on instinct and cut through an enemy’s neck. But Sama Pyo already knew: even if he cut down dozens, hundreds, tens of thousands more would remain.
 
-His strength was far too meager to turn the tide of this disadvantageous battle.
+He was far too weak to turn the tide of this battle.
 
 Clang! Krrr-crack!
 
@@ -34,7 +34,7 @@ Jin Taekyung had plunged so deep into the enemy ranks that Sama Pyo could no lon
 
 Slice!
 
-One clean strike cleaved the enemy’s upper body in two.
+He cleaved an enemy’s upper body in two.
 
 Beneath the shower of blood, a young martial artist who had been trembling in the certainty of his own death lit up with relief.
 
@@ -46,7 +46,7 @@ He looked barely twenty. Just as he recognized Sama Pyo, Sama Pyo recognized the
 
 *Where have I seen him before?*
 
-But the question only flickered through his mind. A moment later, Sama Pyo hurriedly twisted around and swung his saber.
+The question flickered through his mind. Then Sama Pyo twisted around and swung his saber.
 
 Whish—Kkakak!
 
@@ -78,7 +78,7 @@ An alarm blared in his mind at the sight of that devastating flash. Instinct spo
 
 But…
 
-*Where am I supposed to dodge?*
+*Where am I supposed to go?*
 
 Time seemed to slow, as though his life were flashing before his eyes. Sama Pyo was acutely aware of everything around him.
 
@@ -90,11 +90,11 @@ The ceaseless clash of blades. Blood scattering through the air. Dying screams.
 
 And his allies, still facing the enemy in a line so tightly packed their shoulders brushed.
 
-Sama Pyo could clearly sense the tremor in their breathing. And at the same time, he knew:
+He could hear the tremor in their breathing. He knew, then, that there was nowhere to go.
 
 No. That wasn’t true.
 
-He could dart to either side right now, or duck and roll to avoid as much of the enemy’s Sword Energy as possible.
+He could dodge in any number of ways. He could throw himself to either side, or duck and roll beneath the Sword Energy.
 
 Narye tagon?[^1]
 
@@ -102,7 +102,7 @@ Who cared? Dignity was a luxury in the face of death.
 
 Covered in filth instead of blood, or with an ally used as his shield—it made no difference. Surviving by any means necessary was the way of the unorthodox faction.
 
-That was what his father, the Black Night King Sima Gong, had taught him—the man who’d passed his blood down to him.
+It was what his father, the Black Night King Sima Gong, had taught him.
 
 *Yes. That’s what he taught me.*
 
@@ -118,29 +118,29 @@ He could dodge. He couldn’t dodge.
 
 If he avoided the Sword Energy creeping toward him through that seemingly frozen moment, one of his allies would surely die.
 
-*What a damn mess.*
+*Damn it.*
 
 The curse rested soundlessly on the tip of his tongue.
 
 Sama Pyo didn’t notice the faint smile forming on his lips. Nor did he notice how strangely relieved he felt, even with death right before his eyes.
 
-He launched the dagger he’d hidden under his sleeve, thinking that if the person who’d suddenly come to mind were watching, they might even praise him for this.
+He launched the dagger hidden beneath his sleeve and thought of someone who might have praised him, had he been watching.
 
 *Not a bad end for an unorthodox bastard, don’t you think, Pavilion Master?*
 
-Sama Pyo smiled brightly.
+Sama Pyo smiled.
 
-At the same time, he felt the enemy’s Sword Energy grow even fiercer. It swallowed the dagger flying toward it and surged toward his chest.
+The enemy’s Sword Energy surged more fiercely, swallowed his dagger, and rushed toward his chest.
 
 Then he heard two sharp, unexpected whistles through the air.
 
 Slice! Thud!
 
-Sama Pyo stared with wide eyes.
+Sama Pyo stared.
 
 At the last moment, someone had leaped in front of him. Blood sprayed from the man’s chest as he staggered. Over his shoulder, a blackish-blue saber blade drove through the enemy’s throat.
 
-*This is…*
+*That’s…*
 
 Sama Pyo recognized the blade at once. It was the Black Dragon Saber, his treasured weapon, which he had left behind before the meeting with the Blood-Sword Demon Lord.
 
@@ -186,7 +186,7 @@ His father followed his gaze to the body. His reply was cold.
 
 “He died because you were weak.”
 
-“That’s right. If I’d been stronger, he would’ve lived.”
+“Yes. If I’d been stronger, he would have lived.”
 
 Sama Pyo nodded calmly, then spoke without restraint.
 
@@ -212,9 +212,9 @@ At the sudden Sound Transmission in his ear, Sama Pyo gave a quiet laugh.
 
 *I’d already suspected you had other plans. But I kept telling myself it couldn’t be true. I wanted to believe in you.*
 
-His son—no, Sama Pyo—drew a deep breath.
+Sama Pyo drew a deep breath.
 
-*You’re still my father, after all.*
+*You’re my father, after all.*
 
 *……!*
 
@@ -230,9 +230,9 @@ For the first time, the son chose a path different from his father’s. He turne
 
 The son left those cryptic words behind. The father remained.
 
-When Sima Gong’s gaze, still frozen like a statue, finally settled on the fallen body, he suddenly remembered a middle-aged man and a young man from several days earlier, as they crossed the desert. They’d dared to speak of the Black Dragon Demon Gate’s and Sama Pyo’s hidden history.
+When Sima Gong’s gaze finally moved to the fallen body, a memory came to him: a middle-aged man and a young man he had encountered while crossing the desert several days earlier. They had dared to speak of the hidden history of the Black Dragon Demon Gate and Sama Pyo.
 
-And the command he’d given that had decided their fate in an instant.
+He remembered the order with which he had decided their fates.
 
 *See to it as you see fit.*
 
@@ -240,11 +240,11 @@ The order had been carried out. Both men had been placed in the most dangerous p
 
 But the Black Night King, Sima Gong, had not known.
 
-That a young man whom a cold-hearted father had sent to his death would save his son.
+No one could have known that a young man he had sent to his death would save his son.
 
-“……What a cruel twist of fate.”
+“…What a damned cruel twist of fate.”
 
-Sima Gong murmured quietly, then looked down at the Black Dragon Saber in his hand.
+Sima Gong looked down at the Black Dragon Saber in his hand.
 
 The treasured blade he had given his son as his first and last gift now reflected an old man with a troubled look in his eyes.
 
@@ -264,7 +264,7 @@ Fwoosh!
 
 Dozens of brilliant streaks tore through the darkness beneath the heavy clouds.
 
-They moved freely through the air, like living things, sweeping over beings that could no longer be called alive because they felt nothing.
+They crossed the air freely, like living things, and swept through beings that could no longer be called alive, for they felt nothing.
 
 KRRR-CRACK!
 
@@ -274,13 +274,13 @@ Weapons forged through hundreds of rounds of tempering in lands beyond the deser
 
 Splash. Thud-thud-thud!
 
-Blood surged up like a wave.
+Blood surged like a wave.
 
-Beneath that red rain, bursting from the bodies of dozens and soaking the ground, one man slowly walked forward.
+Beneath the red rain bursting from dozens of bodies, one man walked slowly forward.
 
 Squish.
 
-Sticky. Blood pooled up to his ankles and sloshed with each step. Its foul stench seeped into his nose.
+Sticky. Blood pooled around his ankles, sloshing with every step. Its foul smell filled his nose.
 
 Jin Taekyung was covered in blood from head to toe, but he kept walking.
 
@@ -312,7 +312,7 @@ Thud-thud-thud!
 
 More than twenty people died in the time it took him to exhale: the one who had fired the crossbow, those who stood in the sabers’ path, and the enemies beside them.
 
-But the five sabers didn’t return, either.
+But the five sabers did not return.
 
 Even Jin Taekyung had limits when it came to hurling steel weighing dozens of *geun* apiece like bolts of lightning.
 
@@ -338,7 +338,7 @@ The weapons shot forward again at his command, piercing flesh and bone. But over
 
 Since the battle began, he had cut down hundreds of enemies on his own.
 
-No—perhaps more than a thousand.
+Perhaps even more than a thousand.
 
 It was a feat worthy of the name One Against a Thousand.
 
@@ -352,7 +352,7 @@ To bring down every enemy still surging toward him, Jin Taekyung would have to u
 
 *Just one. One strike is enough.*
 
-The instant the thought arose in his mind and took shape as Will—
+The thought became Will.
 
 Slip. Clang-clang-clang!
 
