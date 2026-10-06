@@ -105,7 +105,7 @@ This damn System kept saying that my internal energy had risen, but the amount d
 
 *Do I need to take a spirit pill, an elixir, or something?*
 
-I thought of Jin Wikyung. If I screwed up my courage and said, *Hyung, give me one spirit pill,*[^1] I didn’t think he would refuse me outright.
+I thought of Jin Wikyung. If I screwed up my courage and said, *Hyung, give me one spirit pill,* I didn’t think he would refuse me outright.
 
 I’d ask him the next time I saw him. I would also ask about the unidentified energy inside my dantian.
 
@@ -143,7 +143,7 @@ This wasn’t what I had imagined a family council would be like. I had pictured
 
 “You think all Hall Masters are equal? You’re nothing but a mere physician!”
 
-“Listen to this young bastard. I ought to shove a large needle straight into your Huiyin Acupoint!”[^2]
+“Listen to this young bastard. I ought to shove a large needle straight into your Huiyin Acupoint!”
 
 Two men in their forties or fifties, both with receding, M-shaped hairlines, were grabbing each other by the collars and shaking one another. Just watching them made my head hurt.
 
@@ -209,7 +209,7 @@ Jin Wikyung’s Sound Transmission continued in the meantime.
 
 I hadn’t even seen my father’s face, and now I had a great-uncle.
 
-Maybe this place had relatives by marriage, distant cousins, and every kind of obscure uncle, too.
+*Maybe this place has relatives by marriage, distant cousins, and every kind of obscure uncle, too.*
 
 I gave Jin Wikyung a small nod.
 
@@ -289,7 +289,7 @@ White Tiger Hall Master, was it? The man whose name I didn’t even know stared 
 
 “You’re free to suspect me, but shouldn’t you be the ones looking for evidence? Am I wrong?”
 
-I’d been letting it slide, and now these bastards thought I was some kind of wrapping cloth?[^3]
+I’d been letting it slide, and now these bastards thought I was some kind of wrapping cloth?[^1]
 
 Fuming, I glared at the White Tiger Hall Master as he sat down, then noticed something strange.
 
@@ -335,6 +335,4 @@ The same answer came from several places around the room.
 
 *Just kill me already, you bastards.*
 
-[^1]: *Hyung* is a term a man uses to address an older brother or an older man with whom he is close.
-[^2]: The Huiyin Acupoint is located on the perineum, between the genitals and the anus.
-[^3]: The Korean line plays on *boja* (“let’s see”) and *bojagi*, a traditional wrapping cloth.
+[^1]: The Korean line plays on *boja* (“let’s see”) and *bojagi*, a traditional wrapping cloth.
