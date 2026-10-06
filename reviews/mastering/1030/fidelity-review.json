@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "A world where Magic tore open the earth",
+      "defect": "The Korean describes Magic turning the earth’s surface over, not tearing it open. The translation changes the physical image.",
+      "id": "F01",
+      "rationale": "The source says 땅거죽을 뒤집고, an image of overturning the earth’s surface; the accepted baseline also preserves “overturned the earth.”",
+      "replacement": "A world where Magic turned the earth upside down",
+      "severity": "minor",
+      "source": "Lines 23–24"
+    },
+    {
+      "confidence": 0.87,
+      "current": "“That’s the stupidest thing I’ve heard. Are you an idiot?”",
+      "defect": "The first sentence turns the speaker’s incredulous reaction into a superlative judgment about what he has heard. The source says he is dumbfounded by the claim, then asks whether Sama Pyo is an idiot.",
+      "id": "F03",
+      "rationale": "듣자 하니 어이가 없네 expresses disbelief or exasperation at what he has just heard; it does not say this is the stupidest thing he has heard.",
+      "replacement": "“I can’t believe what I’m hearing. Are you an idiot?”",
+      "severity": "minor",
+      "source": "Lines 283–284"
+    }
+  ],
+  "summary": "The translation is largely faithful, but a few lines alter the source’s physical image, category, or dialogue beat.",
+  "version": 1
+}

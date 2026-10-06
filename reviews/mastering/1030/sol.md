@@ -8,7 +8,7 @@ At least, that was the world one young man had been born and raised in.
 
 Monsters. Hunters.
 
-Monsters and humans killing one another inside the boundaries between dimensions known as Gates.
+Creatures and humans killing one another within the boundaries between dimensions known as Gates.
 
 Mana and magical power.
 
@@ -24,7 +24,7 @@ Where Hunters shone with dazzling auras as they faced monsters of grotesque appe
 
 Humans were adaptable creatures.
 
-By the time the little child born on the day humanity won its great victory was approaching thirty, the absurdity that had overturned the world in the Great Cataclysm had become the new common sense.
+By the time the little boy born on the day humanity won its great victory was nearing thirty, the absurdity that had overturned the world in the Great Cataclysm had become the new common sense.
 
 Until another absurdity changed everything.
 
@@ -62,7 +62,7 @@ Sssaaaaa.
 
 Beneath the dark clouds hanging over the snow-covered mountains, a murky haze spread.
 
-At its center, seven ghost horses soundlessly charged forward, stepping on empty air. On their backs sat seven men dressed not in armor that covered them from head to toe, but in black clothes as dark as pitch.
+At its center, seven ghost horses charged soundlessly through empty air. On their backs rode seven men dressed not in armor that covered them from head to toe, but in black clothes as dark as pitch.
 
 No. What he sensed was the unmistakably familiar presence of death.
 
@@ -92,7 +92,7 @@ As he shouted to his allies, Jin Taekyung felt every hair on his body stand on e
 
 He’d made that movement a thousand times—no, more than ten thousand.
 
-Urgent, yet perfectly practiced, it followed the turn of his waist and arms. Dark-blue Force rose like a tidal wave.
+Urgent but perfectly practiced, he turned his waist and drove his arm through the motion. Dark-blue Force rose like a tidal wave.
 
 KWAANG!
 
@@ -142,7 +142,7 @@ Of course, that was only how things stood for now.
 
 “I should ask your understanding in advance for what’s about to happen, Senior. Yours too, my friend. I’m not entirely fond of doing things this way myself…”
 
-The Blood-Sword Demon Lord had furrowed his brow as if he were troubled, but soon he burst into hearty laughter and continued.
+He frowned as if troubled, then broke into a hearty laugh.
 
 “But what can I do? This, too, is part of proving that person’s greatness.”
 
@@ -150,7 +150,7 @@ At that moment—
 
 Rumble, rumble, rumble!
 
-The vast army of Dark Heaven had already charged to within roughly three hundred thirty yards. More precisely, the seven pairs of riders at the head of the countless fanatics rose into the air, stepping on empty space.
+The vast army of Dark Heaven had already charged to within roughly three hundred thirty yards. At the head of its countless fanatics, seven pairs of horses and riders rose into the air, their feet finding purchase in empty space.
 
 No—they ran.
 
@@ -218,11 +218,9 @@ His allies’ morale had soared as they watched him defeat the Three Elders of T
 
 Jin Taekyung understood at last.
 
-The Three Elders of Tianshan had been used as bait from the very beginning, for this exact moment.
+The Three Elders had been bait from the beginning, saved for precisely this moment.
 
-And the Blood-Sword Demon Lord’s plan had worked perfectly.
-
-Even if their allies retreated now, the enemy would reach them all the faster.
+And the Blood-Sword Demon Lord’s plan had worked. Even if their army retreated now, those riders would reach them first.
 
 Jin Taekyung had only two choices left.
 
@@ -250,13 +248,13 @@ Jin Taekyung gave a quiet laugh at Jeok Cheongang’s calm answer.
 
 “Have you no shame?”
 
-“Want to open me up and check?”
+“Want to cut me open and check?”
 
 The Fire Gate Clan’s master and disciple stood like iron towers at the heart of the battlefield, waiting for the enemy.
 
 About a hundred sixty-five yards away, the Blood-Sword Demon Lord watched them, his face flushed with excitement. The vast army behind him surged past its commander and poured toward them.
 
-“They’re swarming like a pack of dogs. Even the unorthodox faction would have to give them that.”
+“They’re swarming like a pack of dogs. Even the unorthodox would have to admit defeat.”
 
 At Jeok Cheongang’s mutter, Sama Pyo let out a dry laugh.
 
@@ -272,11 +270,11 @@ At Jeok Cheongang’s mutter, Sama Pyo let out a dry laugh.
 
 About a hundred yards.
 
-The enemy’s shouts shook the air from every direction, making their ears ring. Sama Pyo tightened his grip on the sword and saber that had once belonged to the Three Elders of Tianshan, one in each hand.
+The enemy’s shouts shook the air on every side, making Sama Pyo’s ears ring. He tightened his grip on the sword and saber that had once belonged to the Three Elders of Tianshan.
 
 “That’s the stupidest thing I’ve heard. Are you an idiot?”
 
-At the quiet voice in his ear, Sama Pyo’s body stiffened.
+Sama Pyo froze at the quiet voice beside him.
 
 “What… did you say?”
 
@@ -290,15 +288,13 @@ As the aura of tens of thousands of enemies made the air tremble, Jin Taekyung w
 
 “That’s…”
 
-“Just live however the hell you want. Protect what needs protecting. Do something good now and then. What does it matter whether you’re part of the orthodox faction, the unorthodox faction, or the dark-path figures?”
+“Just live however the hell you want. Protect what needs protecting. Do something good now and then. Orthodox, unorthodox, dark-path—what does any of that matter?”
 
 Sama Pyo’s face went rigid.
 
 Those words came so freely to Jin Taekyung.
 
-His words came so freely. That made them hurt all the more—and made Sama Pyo envy him.
-
-Unlike Sama Pyo, Jin Taekyung had been born into the orthodox faction.
+That made them hurt all the more—and made Sama Pyo envy him. Unlike Sama Pyo, Jin Taekyung had been born to a set path.
 
 “What do you know about me to say something like that?”
 
@@ -306,15 +302,15 @@ Unlike Sama Pyo, Jin Taekyung had been born into the orthodox faction.
 
 “What?”
 
-“But I know what kind of person you are.”
+“But I do know a little about what kind of person you are.”
 
 About thirty yards.
 
 Clouds gathered overhead. Darkness fell.
 
-Watching the shadows descend through the empty air, Jin Taekyung tossed out one short sentence.
+Watching the shadows descend through empty air, Jin Taekyung said simply,
 
-“We’re here together now.”
+“Because you’re here with us now.”
 
 “……!”
 
