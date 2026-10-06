@@ -38,7 +38,7 @@ Because he had been away for nearly ten days, hundreds of bamboo slips were scat
 
 They couldn’t accept just anyone simply because he had studied.
 
-The Jin Family of Taiyuan was, after all, a Murim sect. How much of the Four Books and Three Classics[^1] someone had memorized, or what they had learned from which great scholar, wasn’t important.
+The Jin Family of Taiyuan was, after all, a Murim sect. How much of the Four Books and Three Classics someone had memorized, or what they had learned from which great scholar, wasn’t important.
 
 Jin Wikyung wanted practical thinkers with flexible minds, not rigid scholars who spent their lives quoting Confucius and Mencius.
 
@@ -130,7 +130,7 @@ Jin Wikyung nodded.
 
 “Together?”
 
-“Yes. They should arrive in half a shichen.[^2]”
+“Yes. They should arrive in half a shichen.”
 
 Jin Wikyung silently stroked his chin as he listened.
 
@@ -154,7 +154,7 @@ He had received some minor training in military martial arts. Faced with the gaz
 
 “I-I was only ordered to deliver his message…”
 
-“He acts as though he owns the place.”
+He acts as though he owns the place.
 
 The messenger, who had become so nervous he could hardly sit still, was rescued by Jin Wikyung.
 
@@ -210,7 +210,7 @@ Jin Wikyung quietly handed him the paper.
 
 Wipeng’s voice gradually grew quieter before cutting off completely. His eyes trembled as they darted back and forth.
 
-He stared intently at the paper. A moment later, his lips parted.
+A moment later, his lips parted.
 
 “An honored guest is coming.”
 
@@ -274,7 +274,7 @@ I was too embarrassed to lift my head when Hong Jin climbed down behind me and b
 
 “Wow. This is even more than I expected.”
 
-“Are you and my eldest brother old ball buddies[^3] or something? How else did you get such an enthusiastic welcome…?”
+“Are you and my eldest brother old ball buddies or something? How else did you get such an enthusiastic welcome…?”
 
 “Young Master Jin, I don’t have balls.”
 
@@ -284,7 +284,7 @@ That was a tremendous blunder. Without a stick, there was no way any fertilized 
 
 As I writhed under the weight of my guilt, Cheongpung approached and comforted me.
 
-“Benefactor, my grandfather used to say that people who don’t know how to read the room have no friends around them. But don’t worry. I’ll be your ball buddy.[^3]”
+“Benefactor, my grandfather used to say that people who don’t know how to read the room have no friends around them. But don’t worry. I’ll be your ball buddy.”
 
 “……”
 
@@ -324,9 +324,9 @@ By now, I had a rough grasp of Murim prices and currency.
 
 The private suite at the Phoenix Inn, which could be considered a luxury hotel, cost fifty silver nyang per night. That was said to be close to twice the annual living expenses of a family of four commoners.
 
-*In modern money, that would be tens of millions of won.[^4]*
+*In modern money, that would be tens of millions of won.*
 
-A thousand silver nyang was twenty times that. In other words, Hong Jin had casually tossed several hundred million won[^5] at them in one go.
+A thousand silver nyang was twenty times that. In other words, Hong Jin had casually tossed several hundred million won at them in one go.
 
 “That’s… a lot, isn’t it?”
 
@@ -366,7 +366,7 @@ I calmed my pounding heart and answered.
 
 “Th-thank you.”
 
-“Sure. Go buy some candied hawthorn skewers.[^6]”
+“Sure. Go buy some candied hawthorn skewers.[^1]”
 
 “Benefactor, could you take me with you when you buy them?”
 
@@ -376,9 +376,9 @@ Just then, a familiar voice rang out from behind us.
 
 “Heh heh. I’ll tell the cooks separately, so ask for as many as you like. Isn’t that right, Wipeng?”
 
-“We’ll build a mountain of candied hawthorn skewers.[^6]”
+“We’ll build a mountain of candied hawthorn skewers.”
 
-“Who is that fellow? Candied hawthorn skewers?[^6] He isn’t even a child, so what’s this about?”
+“Who is that fellow? Candied hawthorn skewers? He isn’t even a child, so what’s this about?”
 
 I didn’t need to look to know who it was.
 
@@ -406,9 +406,4 @@ In the hands of all three men, tiny scraps of cloth fluttered in the wind. I had
 
 At this point, he was burned—burned to a crisp.
 
-[^1]: The Four Books and Three Classics are canonical Confucian texts studied as part of a classical education.
-[^2]: A shichen is a traditional Chinese time unit of about two hours; half a shichen is about one hour.
-[^3]: “Ball buddy” renders a Korean colloquial term for a close childhood friend. Its literal wording makes the exchange awkward for Taekyung.
-[^4]: Tens of millions of won means roughly 10–99 million won, or about $7,100–$71,000 and €6,500–€64,000.
-[^5]: Several hundred million won means roughly 200–900 million won, or about $140,000–$640,000 and €130,000–€580,000.
-[^6]: Candied hawthorn skewers are a traditional snack made by coating fruit in hardened sugar.
+[^1]: Candied hawthorn skewers are a traditional snack made by coating fruit in hardened sugar.
