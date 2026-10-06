@@ -38,7 +38,7 @@ Ding.
 
 Seriously? I hadn’t even dated anyone since high school, and now I had to be called a sex fiend?
 
-I spent half my day running raids and the other half passed out in my goshiwon[^1]. Now I had to clean up a mess I hadn’t even made, inside a game.
+I spent half my day running raids and the other half passed out in my goshiwon. Now I had to clean up a mess I hadn’t even made, inside a game.
 
 *At least give me a decent Quest.*
 
@@ -170,13 +170,13 @@ The Jin Family people looked like they were wondering what the hell I had eaten,
 
 Ah. Someone was sending me a Sound Transmission, too.
 
-“Youngest. Take deep breaths. Deep breaths. In. Out. In. Out…”
+- Youngest. Take deep breaths. Deep breaths. In. Out. In. Out…
 
 *I’m already doing that, man.*
 
 Jin Wikyung had a solemn expression, but he kept shifting his hips like a puppy that needed to poop. If Wipeng hadn’t been holding him down by the shoulder, he looked ready to charge into the training ground at any moment.
 
-“Don’t worry. If it looks dangerous, this eldest brother of yours will jump in. What? If that bastard so much as lays a hand on our youngest brother, I’ll—fuck! Got it? Don’t get worked up. Take it slow and stay safe. You can do it, Jin Taekyung!”
+- Don’t worry. If it looks dangerous, this eldest brother of yours will jump in. What? If that bastard so much as lays a hand on our youngest brother, I’ll—fuck! Got it? Don’t get worked up. Take it slow and stay safe. You can do it, Jin Taekyung!
 
 *……I get it, so calm down.*
 
@@ -203,6 +203,8 @@ Lee Seogeun abruptly whipped off his shirt, and my breath caught at the sight of
 My hands and feet began to tingle at the sight of the blood-red Level window.
 
 A gap of sixteen Levels. It was overwhelming. As if to drive that fact home, the System chimed.
+
+Ding.
 
 > **System**
 >
@@ -300,13 +302,13 @@ Up close, his aura was even more suffocating. Was this what a monster’s Fear f
 
 “Kneel and beg forgiveness now! Then I’ll let you off with just one arm!”
 
-“Youngest!”
+- Youngest!
 
 Over Lee Seogeun’s shoulder, I saw Jin Wikyung shoot to his feet. The Mount Heng Sword Sect’s people watched with snickers, while the Jin Family people turned their heads away as if they couldn’t bear to look.
 
 *I have to hold out.*
 
-*At least until Jin Wikyung gets here!*
+At least until Jin Wikyung gets here!
 
 “Graaah!”
 
@@ -401,5 +403,3 @@ Because from now on, I was going to beat the absolute shit out of him.
 > **System**
 >
 > - The Status Effect **Intimidation** has been removed!
-
-[^1]: A goshiwon is a low-cost residence in Korea made up of very small private rooms, originally associated with students preparing for exams.
