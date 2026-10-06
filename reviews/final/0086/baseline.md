@@ -70,7 +70,7 @@ Im Changsoo answered with a rigid expression.
 
 “I’ll send it by tomorrow.”
 
-Four billion won[^1] by tomorrow? The son of a rich family certainly didn’t mess around. I smiled broadly and handed him a slip of paper.
+Four billion won by tomorrow? The son of a rich family certainly didn’t mess around. I smiled broadly and handed him a slip of paper.
 
 “Well, that works for me. Here’s my account number. Treasure it like a family heirloom, then send the money tomorrow. It won’t be funny if you claim you lost it later. Got it?”
 
@@ -200,7 +200,7 @@ The more I heard, the colder my spine felt. I had the distinct feeling that some
 
 *Damn it. I shouldn’t have made that bet.*
 
-My excitement at the thought of receiving several billion won[^2] had lasted only a moment. Now I felt uneasy, like I’d taken a huge dump and forgotten to wipe.
+My excitement at the thought of receiving several billion won had lasted only a moment. Now I felt uneasy, like I’d taken a huge dump and forgotten to wipe.
 
 I could deal with whatever happened to me, but I absolutely refused to let the other Guild members get hurt.
 
@@ -212,15 +212,15 @@ I could deal with whatever happened to me, but I absolutely refused to let the o
 
 “Oh, right.”
 
-“Exactly. And look at the way Im Changsoo acted. If I were his father, I would’ve beaten him half to death. I’d be too embarrassed to tell anyone what happened.”
+“Exactly. And look at the way Im Changsoo acted. If I were his father, I would’ve beaten him half to death. He’ll be too embarrassed to tell anyone what happened.”
 
 He had a point. What could possibly happen?
 
 Hearing that made me feel considerably lighter. I even found myself smiling.
 
-“Thanks, Kkeokjeong ajusshi[^3]. No, hyungnim[^4].”
+“Thanks, Kkeokjeong ajusshi. No, hyungnim.”
 
-“Then buy me some beef to celebrate becoming a rich man. Wait, no. You should eat it with Miss Song, not me.”
+“Then buy us some beef to celebrate becoming a rich man. Wait, no. You should eat it with Miss Song, not me.”
 
 “…Ah.”
 
@@ -264,13 +264,13 @@ At the mention of his son, Sangdong Guild Master Im Chunsoo’s eyebrow twitched
 
 Im Chunsoo nodded as if he understood where this was going.
 
-“What is it this time? Did he steal my seal[^5]? Or take out a secured loan?”
+“What is it this time? Did he steal my seal? Or take out a secured loan?”
 
 “He transferred a considerable amount of money all at once.”
 
 “He must be fooling around with women again. Obviously. How much?”
 
-“Four billion won[^1] to each of two accounts. Eight billion won[^6] in total.”
+“Four billion won to each of two accounts. Eight billion won in total.”
 
 “How much?”
 
@@ -298,11 +298,11 @@ After the branch manager fled the room, Im Chunsoo picked up the receiver. The p
 
 Beep, beep. Click.
 
-“—Yes, Guild Master. Team One’s Leader speaking.”
+—Yes, Guild Master. Team One’s Leader speaking.
 
 “Bring that bastard here immediately.”
 
-“—…Do you mean Team Leader Im Changsoo?”
+—…Do you mean Team Leader Im Changsoo?
 
 “Team Leader, my ass. He’s fired as of today. Bring that bastard here now!”
 
@@ -316,11 +316,11 @@ Im Chunsoo glared coldly at the wrecked office, then his gaze stopped on one spo
 
 The stack of papers left behind by the K Bank branch manager.
 
-There was no doubt that the documents contained the whereabouts of eight billion won[^6].
+There was no doubt that the documents contained the whereabouts of eight billion won.
 
 *You stupid bastard. Which bitch did you get taken in by this time?*
 
-He read through the papers, turning them one page at a time, for a little over ten minutes.
+He read through the papers, turning them one page at a time, for more than ten minutes.
 
 When Im Chunsoo closed the final page, the door flew open with the sound of someone being dragged along.
 
@@ -351,10 +351,3 @@ Cold surged from Im Chunsoo’s grasp. It changed from gas to liquid, then from 
 The middle-aged man who had brought Im Changsoo—the Team Leader of Sangdong Guild’s Team One—quietly closed the door.
 
 The room would be off-limits for the next half day.
-
-[^1]: Four billion won is about $2.9 million or €2.6 million.
-[^2]: Several billion won is roughly $1.4–6.4 million or €1.3–5.8 million.
-[^3]: *Ajusshi* is a familiar way to address a middle-aged man.
-[^4]: *Hyungnim* is a respectful form of “older brother” used by a man addressing an older man.
-[^5]: A personal seal can be used in Korea to authenticate official documents and financial transactions.
-[^6]: Eight billion won is about $5.7 million or €5.2 million.
