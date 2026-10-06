@@ -20,7 +20,7 @@ Ten points was a pretty sweet reward on its own, but after hearing what Team Lea
 
 “The signing bonus will be processed by the end of today. As for your housing and other matters…”
 
-A 500 million won[^1] signing bonus, a fixed monthly salary of 50 million won,[^2] and a seventy-percent settlement share.
+A 500 million won signing bonus, a fixed monthly salary of 50 million won, and a seventy-percent settlement share.
 
 A house and a car provided by the Guild, along with dozens of other benefits.
 
@@ -30,7 +30,7 @@ I had already gone over everything in the contract several times, but hearing it
 
 Barely three months ago, I couldn’t have imagined my life turning out like this.
 
-The Sleeping Dragon of Shanxi in Murim, and a Hunter in the real world who casually earned hundreds of millions of won[^3] a year.
+The Sleeping Dragon of Shanxi in Murim, and a Hunter in the real world who casually earned hundreds of millions of won a year.
 
 “Team Leader.”
 
@@ -288,9 +288,9 @@ Team Leader Choi answered with an awkward expression.
 
 “It’s already fairly magnificent. Butler Kim, how much did it cost to purchase that lot?”
 
-Butler Kim answered, “A little over two billion won[^4] per pyeong.[^5]”
+Butler Kim answered, “A little over two billion won per pyeong.[^1]”
 
-“……Two billion won[^4] per pyeong?[^5]”
+“……Two billion won per pyeong?”
 
 “Yes.”
 
@@ -308,7 +308,7 @@ Screeeech. Crash!
 
 **Sooni’s Super**
 
-The sign, whose decades-old lettering had been neatly written in Hancom Batang,[^6] slammed into the ground.
+The sign, whose decades-old lettering had been neatly written in Hancom Batang, slammed into the ground.
 
 “……It’ll look fine once we remodel.”
 
@@ -386,9 +386,4 @@ The final Guild member of the ultra-tiny Guild, and one of its founding members.
 
 *She* was there.
 
-[^1]: 500 million won is about $360,000 or €320,000.
-[^2]: 50 million won is about $36,000 or €32,000.
-[^3]: Hundreds of millions of won means roughly 100–900 million won, or about $71,000–$640,000 or €65,000–€580,000.
-[^4]: Two billion won is about $1.4 million or €1.3 million.
-[^5]: A pyeong is a Korean unit of area equal to 3.31 m², or 35.6 ft².
-[^6]: Hancom Batang is a Korean serif typeface distributed with Hancom’s word-processing software.
+[^1]: A pyeong is a traditional Korean unit of area equal to approximately 3.3 square meters.
