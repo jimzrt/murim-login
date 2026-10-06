@@ -6,7 +6,7 @@ Even as his father and the people of the Sakju Branch—people who had been like
 
 Run.
 
-“Oppa,[^1] I’m cold.”
+“Oppa, I’m cold.”
 
 His little sister whimpered in his arms. The boy, Socheon, blew warm breath over her hands, stiff with cold.
 
@@ -26,7 +26,7 @@ Socheon swallowed the rest of the sentence.
 
 His mother had appeared in his dream the night before, exactly as she had three days earlier. She had spent a long time stroking and gazing at Soyul, who had fallen asleep from exhaustion, before speaking.
 
-“Survive. You must survive.”
+*Survive. You must survive.*
 
 Her voice still rang in his ears, and the sight of her back as she led the others away still hovered before his eyes.
 
@@ -54,7 +54,7 @@ The dagger slowly lowered when a face suddenly appeared from the darkness.
 
 Uncle Gong was a weary-looking middle-aged man. An old friend of Socheon’s father, the Branch Leader of the Sakju Branch, he was now the young siblings’ guide and protector.
 
-“I was worried. You were gone for more than half a shichen.[^2]”
+“I was worried. You were gone for more than half a shichen.[^1]”
 
 “I should have been more careful. We have a tail.”
 
@@ -188,7 +188,7 @@ The squad members had been standing ready with their weapons, but now they stare
 
 “Captain. There’s a kid over there.”
 
-*Damn it. There really was one.*
+Damn it. There really was one.
 
 A little boy carrying an even smaller child on his back was staring blankly at us.
 
@@ -206,7 +206,7 @@ As someone had pointed out, the boy was crying. Sobbing his heart out as he ran.
 
 The problem was the direction he was running in.
 
-“Uh, he’s coming this way… Captain, where are you going?”
+“Uh, he’s coming this way… Squad Leader, where are you going?”
 
 Suspicious gazes turned toward me. I had already backed well away from them.
 
@@ -283,7 +283,7 @@ I heaved a deep sigh and shouted.
 
 Clack-clack-clack.
 
-Caught off guard, the squad members nevertheless moved as they had been taught. By the time they had formed up, the enemy had realized who we were and started shouting.
+Clack-clack-clack. Caught off guard, the squad members nevertheless moved as they had been taught. By the time they had formed up, the enemy had realized who we were and started shouting.
 
 “They’re brats from the Jin Family of Taiyuan!”
 
@@ -293,7 +293,7 @@ Caught off guard, the squad members nevertheless moved as they had been taught. 
 
 Those two facts hit me right in the chest.
 
-*I hadn’t even finished teaching these guys. Their martial arts were weak, they had no real combat experience, and they were complete rookies…*
+I hadn’t even finished teaching these guys. Their martial arts were weak, they had no real combat experience, and they were complete rookies…
 
 *If this goes bad, should I run for it by myself?*
 
@@ -315,9 +315,9 @@ The reconnaissance squad members shouted, their faces deathly pale.
 
 “They’re coming! They’re coming!”
 
-“Captaaaain!”
+“Squad Leadeeeer!”
 
-Thirty meters[^3]. Twenty…[^4]
+Thirty meters. Twenty…
 
 I watched the enemy close in at terrifying speed and opened my mouth.
 
@@ -335,17 +335,17 @@ I watched the enemy close in at terrifying speed and opened my mouth.
 
 “Defensive formation! Form up!”
 
-*Yep. All the EXP was mine.*
+Yep. All the EXP was mine.
 
 * * *
 
-“Captain!”
+“Squad Leader!”
 
-“No! Captaaaain!”
+“No! Squad Leadeeeer!”
 
-“The Captain’s trying to kill himself!”
+“The Squad Leader’s trying to kill himself!”
 
-*That wasn’t what I was doing, you lunatics.*
+That wasn’t what I was doing, you lunatics.
 
 Leaving the reconnaissance squad members’ screams behind, I charged straight at the enemy.
 
@@ -395,6 +395,8 @@ Ding. Ding. Ding.
 > **System**
 >
 > - You gained EXP.
+> - You gained 50 Merit!
+> - You gained EXP…
 > - You gained 50 Merit…
 > - You gained EXP…
 > - You gained 50 Merit…
@@ -431,11 +433,11 @@ At some point, I surrendered myself to the flow.
 
 The ripples became waves, and the enemies were swept away by them. Every nerve in my body stood on end.
 
-*More. More. More…*
+More. More. More…
 
 “You fucking bastard!”
 
-Stab. Stab-stab.
+Stab. Stab.
 
 Throat. Chest. Abdomen.
 
@@ -455,7 +457,7 @@ And the final wave erupted from the tip of my spear.
 
 The last form of the Jin Family’s Spear Technique.
 
-Sky-Piercing Strike.
+*Sky-Piercing Strike.*
 
 Splurt!
 
@@ -480,9 +482,6 @@ As the System alerts continued without pause, I rubbed my stomach.
 
 “Buuurp.”
 
-*Ah, I’m stuffed.*
+Ah, I’m stuffed.
 
-[^1]: *Oppa* is a Korean term a girl or woman uses to address an older brother or an older man close to her.
-[^2]: A *shichen* is a traditional Chinese unit of time equal to roughly two hours; half a shichen is about one hour.
-[^3]: Thirty meters is about 98 ft.
-[^4]: Twenty meters is about 66 ft.
+[^1]: A shichen is a traditional Chinese unit of time equal to roughly two hours.
