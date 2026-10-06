@@ -30,7 +30,7 @@ A figure staggered back through the cloud of dust kicked up by the thunderous im
 
 *What the hell kind of internal energy…*
 
-He had trained in exceptional martial arts and taken elixirs since he was a child, but this was a bad matchup. The First Elder was a vile old monster who had lived for more than one jiazi[^1] while concealing his black heart.
+He had trained in exceptional martial arts and taken elixirs since he was a child, but this was a bad matchup. The First Elder was a vile old monster who had lived for more than one jiazi while concealing his black heart.
 
 Together with the Head Elder, he was a living witness who had fought his way through the Great Faction War.
 
@@ -52,7 +52,7 @@ Or perhaps an old man’s pride had led him to overestimate himself.
 
 *How cruel. Truly cruel.*
 
-One jiazi[^1]. He had accumulated profound internal energy over those sixty years, but even that could not halt the aging of his body.
+One jiazi. He had accumulated profound internal energy over those sixty years, but even that could not halt the aging of his body.
 
 *If only I were ten years younger.*
 
@@ -349,5 +349,3 @@ Tank? Healer?
 Fuck…
 
 I was a fucking moron for thinking ten melee damage dealers counted as a raid.
-
-[^1]: A *jiazi* is a sixty-year cycle in the traditional East Asian calendar.
