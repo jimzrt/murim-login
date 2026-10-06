@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "So, you don’t plan to change your decision?",
+      "defect": "The Korean explicitly asks about changing the current judgment (현재의 판단); the assembled English omits “current,” a detail preserved in the accepted baseline.",
+      "id": "F01",
+      "rationale": "현재의 modifies 판단 and establishes that the question concerns the judgment as it stands now.",
+      "replacement": "So, you don’t plan to change your current judgment?",
+      "severity": "minor",
+      "source": "Korean lines 147–151"
+    }
+  ],
+  "summary": "The assembled English is faithful overall, with one minor omission of an explicit time qualifier.",
+  "version": 1
+}

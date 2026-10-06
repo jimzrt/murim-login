@@ -6,9 +6,9 @@ Sima Gong and the leaders of Gansu Murim had made their position perfectly clear
 
 Honestly, there wasn’t much room to argue with that.
 
-Every one of them was an old fixture who’d ruled Gansu Murim for decades at the very least, and some for more than a century. Besides, ever since the Great Faction War, interfering too much in another sect’s affairs had been taboo.
+Each of them had ruled a part of Gansu Murim for decades at the very least, and some for more than a century. Besides, ever since the Great Faction War, excessive interference in another sect’s affairs had been taboo.
 
-And then there was the Black Dragon Demon Gate, standing at the center of it all. What kind of place was it?
+And then there was the Black Dragon Demon Gate at the center of it all.
 
 Despite its relatively short history of only a few decades, it wielded tremendous influence throughout Gansu. It was, without question, a pillar of the unorthodox faction.
 
@@ -24,7 +24,7 @@ There was only one person here who could compare the Black Night King himself to
 
 The Fire King, Jeok Cheongang.
 
-At last, the giant who’d left his mark on the distant history of Murim parted his lips. The icy gleam in Sima Gong’s eyes settled.
+At last, the giant who’d left his mark on Murim’s long history spoke. The icy gleam in Sima Gong’s eyes faded.
 
 “I suppose I should growl. I’ll do it as much as I must to protect my food bowl.”
 
@@ -88,7 +88,7 @@ Then, at a moment nobody expected, I clapped my hands together hard.
 
 *Clap!*
 
-The sharp sound broke the silence, short and yet seemingly endless. Everyone turned toward me, startled as if they’d just woken from a dream. I blinked at them with perfect composure.
+The sound broke the silence, brief though it had been, yet seemingly endless. Everyone turned toward me as if startled awake from a dream. I blinked at them innocently.
 
 “Oh, sorry. A damn mosquito was buzzing around.”
 
@@ -118,7 +118,7 @@ Sima Gong put particular emphasis on *alongside us*, then lifted his head and lo
 
 “I don’t know about perceptive. He’s good at reading a room.”
 
-“Remarkable martial prowess, and a mind that sees several moves ahead. He’s a blessing to all Murim. My son ought to have spent more time watching and learning from you while he had the chance… What do you think of him?”
+“With his remarkable martial prowess and shrewd mind, he’s a blessing to all Murim. My son ought to have watched and learned more from you while he had the chance… What did you think of him?”
 
 At Sima Gong’s sudden question, I answered without hesitation.
 
@@ -154,9 +154,9 @@ Or…
 
 I swallowed the words hovering on the tip of my tongue and thought for a moment.
 
-*Inventory.*
+The Inventory.
 
-I mentally felt for an item stowed somewhere in that bottomless, pitch-black subspace.
+Somewhere in that bottomless, pitch-black subspace was an item I found myself turning over in my mind.
 
 But then I shook my head.
 
@@ -164,17 +164,17 @@ No matter how I looked at it, the timing wasn’t right yet.
 
 Not now, at least.
 
-“Then let’s do that.”
+“Then let’s do it your way.”
 
 “What?”
 
 The startled question came from neither Jeok Cheongang, who was frowning, nor Sima Gong.
 
-It was the Wind-and-Cloud Sword Lord. He stared at me with wide eyes.
+It was the Wind-and-Cloud Sword Lord. The Sect Leader of the Zhongnan Sect stared at me with wide eyes.
 
 “You’re willing to accept this as it stands? Are you serious?”
 
-Right then, before I could answer, two other voices cut the Wind-and-Cloud Sword Lord off.
+Before I could answer, two other voices cut him off.
 
 “Everywhere you go, people have their own rules. Our Zhongnan is no different.”
 
@@ -186,15 +186,15 @@ Those were the two who had spoken.
 
 After hearing his Senior Brothers speak in turn, the Wind-and-Cloud Sword Lord muttered as though groaning.
 
-“Senior Brothers. But how can we let this happen?”
+“Senior Brothers. But how can we…”
 
 “We understand how you feel, Sect Leader. But further discord could jeopardize what we’re trying to accomplish.”
 
-Sima Gong calmly but firmly cut off the Wind-and-Cloud Sword Lord before he could continue. Then he surveyed the room and went on.
+Sima Gong calmly but firmly cut him off. Then he surveyed the room and went on.
 
-“I hope everyone will remember this. We are allies united beneath the Murim Alliance’s banner, and we must not create discord over a decision that has already been made. Much less…”
+“I hope everyone will remember this. We are allies united beneath the Murim Alliance’s banner. There should be no discord over a decision that has already been made. And…”
 
-Sima Gong’s deeply lowered gaze suddenly came to rest on me.
+His gaze came to rest on me.
 
 “Acting alone without seeking everyone’s agreement is even less acceptable. Wouldn’t you say?”
 
@@ -282,6 +282,6 @@ And there, the old agent of the Hidden Shadow Pavilion had caught a smell that w
 
 *“There wasn’t a trace left, but I’m certain Sama Pyo was burning a missive.”*
 
-No—once Sama Pyo had tried to hide that fact, it was no ordinary missive.
+No—once Sama Pyo had tried to hide it, it was no ordinary missive.
 
 It was a secret letter.
