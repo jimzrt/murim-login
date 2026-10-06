@@ -1,6 +1,6 @@
 # Chapter 113
 
-Half a shichen[^1] after sending an envoy to the Mount Heng Sword Sect, Pung Yang gave the order without hesitation.
+Half a shichen after sending an envoy to the Mount Heng Sword Sect, Pung Yang gave the order without hesitation.
 
 “Attack.”
 
@@ -33,9 +33,9 @@ The horn calls continued without pause, strong and carrying far into the distanc
 Ding!
 
 > **System**
->
+> 
 > **Circulate Qi** was successfully completed.
->
+> 
 > A small amount of Fatigue and Stamina has been restored.
 
 The moment I heard the System notification and opened my eyes, I looked around.
@@ -46,7 +46,7 @@ Wolhwa and Hyuk Mujin, who had been feeding hay to the horses, looked at me in c
 
 “Young Master Jin, what sound?”
 
-“There’s always sound. Listen—the horses chewing hay, the wind…”
+“There's always sound. Listen—the horses chewing hay, the wind…”
 
 “Not that crap, you idiot.”
 
@@ -114,7 +114,7 @@ Even if Jin Wikyung had asked him to, he couldn’t have done all that if he tru
 
 *Maybe he’s actually a soft-hearted guy.*
 
-*Was this what people called a tsundere?*[^2]
+Was this what people called a tsundere?
 
 I gazed at Jin Mukyung sentimentally, almost feeling a little moved.
 
@@ -149,7 +149,7 @@ The Mount Heng Sword Sect was still three shichen away.
 From here on, we had to ride hard without taking a single break.
 
 > **System**
->
+> 
 > **Time Limit:** 6:25:19
 
 * * *
@@ -178,7 +178,7 @@ That was when it happened.
 
 Fwoosh—crack!
 
-Something hurtled through the air with ferocious momentum, pierced the horse’s neck, and buried itself in the captain’s chest.
+Something hurtled through the air with ferocious momentum, pierced the horse’s neck, and buried itself in the Captain’s chest.
 
 Having only just entered the early stages of First Rate, he stared at the arrow protruding from his chest as though he couldn’t believe it, then toppled over together with his prized horse.
 
@@ -200,7 +200,7 @@ Thwack! Thwack! Thwack!
 
 “Hide behind your shields! Don’t stick your heads out!”
 
-Taking advantage of the opening, the mounted bandits spurred their horses forward and set grappling hooks and makeshift ladders against the walls, which stood more than ten *jang*[^3] high. They began attempting to breach the fortress.
+Taking advantage of the opening, the mounted bandits spurred their horses forward and set grappling hooks and makeshift ladders against the walls, which stood more than ten *jang* high. They began attempting to breach the fortress.
 
 A melee erupted atop the walls.
 
@@ -270,11 +270,11 @@ The next moment, the fire arrows soared into the darkening winter sky and shone 
 
 * * *
 
-The fire arrows falling like meteors were clearly visible even to Pung Yang, more than a hundred *jang*[^3] away.
+The fire arrows falling like meteors were clearly visible even to Pung Yang, more than a hundred *jang* away.
 
 He muttered to himself.
 
-“So they had a move hidden up their sleeve.”
+*So they had a move hidden up their sleeve.*
 
 It didn’t take long for his guess to become certainty.
 
@@ -346,7 +346,7 @@ The subordinate who served as Pung Yang’s right hand was accustomed to such si
 
 Pung Yang let out a derisive laugh. He didn’t know whose strategy it had been, but they had played it quite cleverly.
 
-If he had been less experienced, Pung Yang too would have suspected another trap and pulled his forces back.
+*If I had been less experienced, I would have suspected another trap and pulled our forces back.*
 
 *They’re struggling to buy time. Are they waiting for someone’s support?*
 
@@ -367,7 +367,3 @@ Pung Yang burst into a hearty laugh and felt inside his robes out of habit.
 A hard wooden case rested there.
 
 Inside was something that could bring down a tiger in one go.
-
-[^1]: A *shichen* is a traditional time unit of approximately two hours.
-[^2]: *Tsundere* is a Japanese term for someone who acts cold or hostile while concealing affection.
-[^3]: A Korean *jang* is ten *ja*, approximately 3.03 m (9.94 ft). Ten *jang* is about 30 m (99 ft); a hundred *jang* is about 303 m (994 ft).
