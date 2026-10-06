@@ -68,11 +68,11 @@ He was not asking because he genuinely did not know. He only wanted to confirm o
 
 “First, the report may be wrong.”
 
-“Who wrote this report? Hong… What was it? Definitely not Hong Gil-dong[^2].”
+“Who wrote this report? Hong… What was it? Definitely not Hong Gil-dong.”
 
 “Hong Woojin. He’s still young and relatively inexperienced, but his skills are well regarded.”
 
-“Right, that Hong Woojin—or Hong Gil-dong[^2], or whatever the hell his name is. Check with that bastard again. Put some pressure on him, too. Anyway, what’s the second?”
+“Right, that Hong Woojin—or Hong Gil-dong, or whatever the hell his name is. Check with that bastard again. Put some pressure on him, too. Anyway, what’s the second?”
 
 “Second, Hunter Im Changsoo and the others may have coordinated their stories and lied.”
 
@@ -204,7 +204,7 @@ I swatted a fly with lightning speed. Not with an ordinary palm, either, but one
 
 Hayeon, who had briefly come out into the living room to get a drink of water, let out a deep sigh.
 
-“It’s summer, you idiot, Oppa[^3].”
+“It’s summer, you idiot, Oppa.”
 
 “I’m telling you, this is more than that.”
 
@@ -258,9 +258,9 @@ I carefully searched for some tiny gap I had failed to notice, but I could not f
 
 “Say something that makes sense.”
 
-“I’m serious. Want to bet a hundred thousand won[^4]?”
+“I’m serious. Want to bet a hundred thousand won?”
 
-“You even have a hundred thousand won[^4]? You’re supposed to be studying for exams.”
+“You even have a hundred thousand won? You’re supposed to be studying for exams.”
 
 “Of course I do. It’s the money you gave me last time.”
 
@@ -274,7 +274,7 @@ Shit. So this was how money went around in circles.
 
 We went straight to Hayeon’s room. She pointed at a fly sitting quietly on her desk and grinned triumphantly.
 
-“See? I was right, wasn’t I? Hurry up and hand over the hundred thousand won[^4].”
+“See? I was right, wasn’t I? Hurry up and hand over the hundred thousand won.”
 
 “Hand over what? We need to run an experiment first.”
 
@@ -292,7 +292,7 @@ I was dumbfounded. Hayeon looked just as baffled.
 
 “Are all flies these days like that?”
 
-“M-Maybe they do? Anyway, give me the hundred thousand won[^4].”
+“M-Maybe they do? Anyway, give me the hundred thousand won.”
 
 “I’ll give it to you. I will. But isn’t that fly strange?”
 
@@ -322,7 +322,7 @@ That strange sense of déjà vu, as though someone were watching me.
 
 *Am I really just being oversensitive?*
 
-I glared at the fly and raised my Qi Sense. Its activation range now extended to a radius of seventy meters[^5], spreading into every corner of the house.
+I glared at the fly and raised my Qi Sense. Its activation range now extended to a radius of seventy meters, spreading into every corner of the house.
 
 And then something no one could have expected happened.
 
@@ -340,8 +340,4 @@ Ding. Ding. Ding.
 
 *What the hell is this?*
 
-[^1]: A goshiwon is a small, inexpensive room-for-rent lodging arrangement, originally associated with students preparing for exams.
-[^2]: Hong Gil-dong is a legendary Korean outlaw and folk hero.
-[^3]: *Oppa* is how a younger sister addresses an older brother in Korean.
-[^4]: 100,000 Korean won is about $71 or €65.
-[^5]: Seventy meters is about 230 ft.
+[^1]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement.
