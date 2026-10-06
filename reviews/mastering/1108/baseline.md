@@ -4,17 +4,17 @@ He was dead.
 
 No—he’d thought he was dead.
 
-Fifteen minutes earlier, the young man who had rushed in front of Jin Taekyung, lost in a Trance and unable to sense the danger, had been certain he was about to die.
+A quarter of an hour ago, the young man who had hurriedly thrown himself in front of Jin Taekyung, lost in a Trance and unable to sense the danger, had been certain he was about to die.
 
 But he hadn’t.
 
-A blood-red flash charged with an unprecedented force had struck him, followed by a tremendous impact that battered his entire body.
+After a blood-red flash charged with an unprecedented force came a tremendous impact that battered his entire body.
 
 When he finally opened his eyes, clinging to the thread of consciousness that had briefly been severed, the young man buried beneath a pile of stones—or rather, Cheongpung—muttered to himself:
 
 *This is the most dangerous thing I’ve ever been through… No, it isn’t.*
 
-If this had happened before—more precisely, if he hadn’t gone through what happened on Mount Song—he might have trembled with fear.
+If this had happened before—or, more precisely, if he hadn’t gone through what happened on Mount Song—he might have trembled with fear.
 
 Overwhelmed by the terror of death, something he’d never experienced before, and frozen by the killing intent and madness he’d never felt amid the clear streams and plum blossoms of Lotus Peak, he might have been unable to move.
 
@@ -26,17 +26,17 @@ Things were different now.
 
 The child who had wandered through Huashan’s beautiful scenery had entered the martial world and learned how to run.
 
-He’d faced the world’s ugliness and learned what anger felt like. He’d spent time with good people and come to understand what it meant to do right by others.
+He’d faced the world’s ugliness and learned what anger felt like. He’d spent time with good people and come to understand what human decency meant.
 
-So even knowing that countless threats and hardships awaited him, he could rise again.
+So even knowing that countless threats and hardships still lay ahead, he could rise again.
 
-That was the right path his grandfather had raised him to follow. It was the chivalry he had learned from watching Jin Taekyung.
+That was the right path his grandfather, who had raised him, had taught him. It was the chivalry he had learned from watching Jin Taekyung.
 
 *Go. To my Benefactor. To them.*
 
 Cheongpung pushed himself to his feet, unsteady.
 
-He shoved aside the stones weighing down his body and endured the pain of bones broken here and there, moving slowly.
+He shoved aside the stones weighing down his body and endured the pain from bones broken here and there, moving slowly.
 
 And more stealthily than ever before.
 
@@ -58,7 +58,7 @@ Back then, the Slaughter Saint had shaken his head with a bitter smile.
 
 At least, until he heard Cheongpung’s reply.
 
-*“Huh. I don’t think so.”*
+*“Huh. I don’t think that’s true.”*
 
 *“What?”*
 
@@ -66,7 +66,7 @@ At least, until he heard Cheongpung’s reply.
 
 *“……!”*
 
-*“Oh, and he said everyone I cross paths with in this world could become my teacher and Benefactor.”*
+*“Oh, and he said everyone we cross paths with in this world could become our teacher and Benefactor.”*
 
 *“……You.”*
 
@@ -76,7 +76,7 @@ Remembering how the Slaughter Saint had silently watched him, then spoken with a
 
 *Hoo.*
 
-His heart, pounding from pain and blood loss, grew calm. The blood flowing from his wounds gradually stopped, and he erased all trace of his presence.
+His heart, pounding from pain and blood loss, grew calm. The blood flowing from wounds across his body gradually stopped, and his presence faded.
 
 *“It won’t be easy to master even one technique. You don’t have the time, and the situation won’t allow for it.”*
 
@@ -98,21 +98,21 @@ His heart, pounding from pain and blood loss, grew calm. The blood flowing from 
 
 The Slaughter Saint probably hadn’t known.
 
-Before even a month of their journey had passed, he would ask that question again—but mean something entirely different by it.
+Before even a month had passed since their journey began, he’d find himself asking that question again—but with a very different meaning.
 
 *“……Where in the world did the Sword Saint pick up a lunatic like this?”*
 
-*“Grandpa said a stork brought me. My Benefactor said it was ovulation, fertilization, and implantation, but I couldn’t make heads or tails of it.”*
+*“Grandpa said a stork brought me. My Benefactor said it was something about ovulation, fertilization, and implantation, but I couldn’t make heads or tails of it.”*
 
 *“……I really can’t understand.”*
 
 *“Right? I’d never heard such bizarre words in my life.”*
 
-*“……It’s my first time, too. Seeing anything this bizarre.”*
+*“……It’s my first time, too. Seeing a case this bizarre.”*
 
 The Slaughter Saint’s bewildered face rose before Cheongpung’s eyes.
 
-At the same moment, Cheongpung’s feet, now as light as feathers, touched a pool of blood.
+At the same time, his feet, now as light as feathers, touched a pool of blood.
 
 No—they barely brushed it.
 
@@ -130,7 +130,7 @@ It was the unique technique of none other than the Slaughter Saint, known as the
 
 And yet Cheongpung had mastered Ghost Illusory Slaughter Step at a dazzling speed.
 
-For someone else, a month might have been *only* a month. For him, it was a *whole* month.
+For someone else, a month might have been *only* a month. For him, it was an entire month.
 
 *“I like martial arts. A whole, whole lot.”*
 
@@ -142,17 +142,17 @@ To Cheongpung, all of it came as naturally as breathing.
 
 He watched with his eyes and moved with his body, and before he knew it, the technique became his.
 
-Not merely copied: it was reborn with Cheongpung’s own character woven into it, a new martial art that belonged to him alone.
+Just as the words implied, it was reborn with Cheongpung’s own character woven into it—a new martial art that belonged to him alone.
 
 *Whoosh.*
 
 Cheongpung moved forward.
 
-His steps were neither fast nor slow. With each one, it seemed that the fragrance of plum blossoms, perceptible only to him, spread through the air.
+With each step, neither fast nor slow, it seemed that only he could smell the fragrance of plum blossoms spreading through the air.
 
 Dark Fragrance Drift.
 
-The fragrance of Huashan’s plum blossoms spread through the pouring rain. Joined with Ghost Illusory Slaughter Step, which Cheongpung had brought to nine-tenths mastery over the past six months with the Slaughter Saint, it had grown quieter and more elusive still.
+The fragrance of Huashan’s plum blossoms spread through the pouring rain. It had merged with Ghost Illusory Slaughter Step, which Cheongpung had brought to nine-tenths mastery over the past six months with the Slaughter Saint, becoming quieter and more elusive still.
 
 So much so that even with both eyes open, no one could clearly make out his presence.
 
@@ -160,15 +160,15 @@ So much so that even with both eyes open, no one could clearly make out his pres
 
 “Graaagh!”
 
-*Stab! Slice!*
+*Thrust! Slice!*
 
 “Heaven above and earth below; all demons—Guh!”
 
-The fighting all around had spun beyond anyone’s control, yet no one properly noticed Cheongpung slipping past them.
+The battle raging all around had already spun beyond anyone’s control, and yet no one noticed Cheongpung slipping past them.
 
 As he crossed the heart of the battlefield, he blended naturally into everything around him.
 
-He was the rain falling ceaselessly over everyone’s heads. He was a Dark Heaven fanatic, drunk on madness and the effects of a Temporary Strength Pill—and he was one of the martial artists and soldiers trying to stop them.
+He was the rain falling ceaselessly over everyone’s heads. He was one of Dark Heaven’s fanatics, drunk on madness and the effects of the Temporary Strength Pill—and one of the martial artists and soldiers trying to stop them.
 
 He was a part of this chaotic battlefield, and the battlefield itself.
 
@@ -180,13 +180,13 @@ Cheongpung saw him.
 
 *Gooooom.*
 
-Space warped as if gripped by an invisible hand. Jin Taekyung was about to unleash an appallingly immense force all at once.
+The space warped as if gripped by an invisible hand. Jin Taekyung was about to unleash, all at once, an appallingly immense force.
 
-The Blood Lord was charging toward him, while a pitch-black figure lunged from his blind spot as though it had been waiting for this very moment.
+And charging at him was the Blood Lord, while a pitch-black figure lunged from his blind spot, as though it had been waiting for this very moment.
 
-*Too late.*
+*I’m too late.*
 
-His instincts whispered it to him.
+His instincts whispered.
 
 It was a shame, but this wasn’t enough.
 
@@ -198,25 +198,25 @@ But—
 
 That wasn’t a guess. It was certainty.
 
-His faith in Jin Taekyung didn’t waver in the slightest.
+An unwavering faith in Jin Taekyung.
 
 So Cheongpung shot forward without hesitation.
 
-Toward the enormous flames erupting in a blinding flash.
+Straight toward the enormous flames erupting in a distant flash of light.
 
-Toward the Black Ghost, which had thrown its own body in the way as a shield to counter that unprecedented force.
+Straight toward the Black Ghost, which had thrown its own body in the way as a shield to counter that unprecedented force.
 
 *Fwoosh.*
 
 Time slowed. Space disappeared.
 
-Just before One Annihilation was unleashed, a flash slipped between his tightly shut eyelids and pierced his retinas like a needle.
+Just before One Annihilation was unleashed, a flash of light slipped between his tightly shut eyelids and pierced his retinas like a needle.
 
 But Cheongpung could feel it clearly.
 
-The Black Ghost at the end of his path.
+The Black Ghost standing at the end of his path.
 
-The single line his strike was drawing toward that pitiful being.
+The strike he was making now, drawing a single line toward that pitiful figure.
 
 And then—
 
@@ -228,9 +228,9 @@ A shiver that wouldn’t fade, not even in the dreadful heat swallowing the spac
 
 *I did it.*
 
-At the same moment, a colossal fire dragon swallowed the Black Ghost’s body as it tilted helplessly.
+At the same time, a colossal fire dragon swallowed the Black Ghost’s body as it tilted helplessly.
 
-No—more precisely, it swallowed the blood-red monster charging from behind it.
+No—or rather, it swallowed the blood-red monster charging from behind it.
 
 *KWA-AAAAA!*
 
@@ -246,25 +246,25 @@ Jin Taekyung’s face had gone colder than ever.
 
 *Cough.*
 
-His skin had gone deathly pale, his eyes growing cloudy.
+His skin was deathly pale, his eyes growing cloudy.
 
-Yet even as he coughed up a bowlful of blood, Jin Taekyung forced his heavy eyelids open and watched the wave of fire he had unleashed.
+Still, though he coughed up a whole bowlful of blood, Jin Taekyung forced his heavy eyelids open to watch the wave of fire he had unleashed.
 
-He took in the surest information he could get—something only he could hear.
+He took in the clearest information in the world—the only information he could hear.
 
 *Beep! Be-be-beep!*
 
-He’d poured everything he had into that strike.
+He’d poured everything he had into it.
 
 With a body emptied of strength and senses gone dry, he tried to understand what was happening.
 
 But he couldn’t see or hear.
 
-It wasn’t in any of the countless holographic windows floating before him. It wasn’t among the System warnings sounding without pause in his ears.
+Not among the countless holographic windows floating in the air. Not amid the System warnings ringing without pause in his ears.
 
 The clear chime announcing the enemy’s death never came.
 
-Not even as his legs gave way beneath him, the spear shaft the only thing keeping him upright.
+Not even as his legs gave way, the spear shaft the only thing keeping him upright.
 
 *Splash.*
 
@@ -272,7 +272,7 @@ And as Jin Taekyung’s knees plunged into a pool of blood—
 
 *Drip. Drip.*
 
-From within the wave of fire that had engulfed a radius of dozens of jang, the monster’s charred body rose to its feet.
+From within the wave of fire that had engulfed a radius of dozens of jang, the charred body of the monster stood up.
 
 * * *
 
@@ -288,13 +288,13 @@ He remembered nothing.
 
 He couldn’t even recall who he was or what kind of life he’d lived.
 
-Only the instinct to quench this terrible thirst remained, controlling his body.
+Only the instinct to quench this terrible thirst remained, taking control of his body.
 
 *Scuff.*
 
-His unsteady footsteps sounded as dry as if he were walking through a desert.
+The sound of his unsteady footsteps was as dry as if he were walking through a desert.
 
-Why?
+Why was that?
 
 The Blood Lord wondered blankly.
 
@@ -304,7 +304,7 @@ He’d been sure of it.
 
 *Why?*
 
-He turned his head and looked around, but he couldn’t see anything. His senses had failed, his retinas burned away, trapping him in pitch-black darkness.
+He turned his head and looked around. But he couldn’t see anything. His senses had failed, his retinas burned away, trapping him in pitch-black darkness.
 
 All he could make out was a faint sound.
 
@@ -314,7 +314,7 @@ All he could make out was a faint sound.
 
 A strange noise.
 
-Yes, he remembered. Screams and the sound of steel scraping against steel.
+Yes, he remembered. The sound of screams and steel clashing.
 
 And then, from the unknown thing that touched his skin, came a feeling that was familiar—and strangely dear.
 
@@ -334,7 +334,7 @@ Something inside the human body. The source of his strength—and the only liqui
 
 Strange. Just thinking it was enough for him to feel the blood splattered across his body seeping into him.
 
-As it did, his senses gradually sharpened.
+And with it, his senses gradually grew more vivid.
 
 But—
 
@@ -346,13 +346,13 @@ He needed far, far more blood.
 
 “More!”
 
-With the cry already escaping his lips, the Blood Lord swept his hand out with all his strength.
+With the cry escaping his lips, the Blood Lord flung his hand out with all his strength.
 
 *Grab.*
 
 At last, his fingertips touched someone’s shoulder. At the same time, a voice rang more clearly in his ears, echoing like a distant sound.
 
-“Blood Lord! Your subordinates will protect you—!”
+“Blood Lord! We’ll protect you—!”
 
 But before the desperate voice could finish, the Blood Lord’s teeth, already grown, sank into the man’s throat.
 

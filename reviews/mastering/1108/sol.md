@@ -10,13 +10,13 @@ But he hadn’t.
 
 A blood-red flash charged with an unprecedented force had struck him, followed by a tremendous impact that battered his entire body.
 
-When he finally opened his eyes, clinging to the thread of consciousness that had briefly been severed, the young man buried beneath a pile of stones—or rather, Cheongpung—muttered to himself:
+When he finally caught hold of the thread of consciousness he’d briefly lost and opened his eyes, the young man buried beneath a pile of stones—or rather, Cheongpung—thought:
 
 *This is the most dangerous thing I’ve ever been through… No, it isn’t.*
 
 If this had happened before—more precisely, if he hadn’t gone through what happened on Mount Song—he might have trembled with fear.
 
-Overwhelmed by the terror of death, something he’d never experienced before, and frozen by the killing intent and madness he’d never felt amid the clear streams and plum blossoms of Lotus Peak, he might have been unable to move.
+Death would have terrified him, and the killing intent and madness he’d never felt amid the clear streams and plum blossoms of Lotus Peak would have left him frozen.
 
 But—
 
@@ -42,7 +42,7 @@ And more stealthily than ever before.
 
 *“You want me to teach you martial arts?”*
 
-Perhaps it was the blood trickling from the large and small wounds etched across his body. In his wavering vision, a conversation he’d once had with the Slaughter Saint seemed to echo in his ears.
+Perhaps it was the blood flowing from the wounds all over his body. As his vision wavered, a conversation he’d once had with the Slaughter Saint seemed to echo in his ears.
 
 *“Do you even know what you’re asking?”*
 
@@ -62,7 +62,7 @@ At least, until he heard Cheongpung’s reply.
 
 *“What?”*
 
-*“My grandfather told me it’s not the tool that matters, but the person holding it. And there was an assassin I saw a long time ago who didn’t seem like the kind of person who’d hurt someone for no reason.”*
+*“My grandfather told me it’s not the tool that matters, but the person holding it. He said an assassin he met a long time ago wasn’t the sort of person who’d hurt someone for no reason.”*
 
 *“……!”*
 
@@ -72,7 +72,7 @@ At least, until he heard Cheongpung’s reply.
 
 *“Please take care of me, Granduncle!”*
 
-Remembering how the Slaughter Saint had silently watched him, then spoken with an expression that grew complicated, Cheongpung let out a quiet breath.
+Remembering how the Slaughter Saint had watched him in silence before speaking with a complicated expression, Cheongpung let out a slow, quiet breath.
 
 *Hoo.*
 
@@ -128,7 +128,7 @@ The unique footwork technique created by the greatest assassin of all time—so 
 
 It was the unique technique of none other than the Slaughter Saint, known as the greatest assassin of all time.
 
-And yet Cheongpung had mastered Ghost Illusory Slaughter Step at a dazzling speed.
+And yet Cheongpung had learned Ghost Illusory Slaughter Step at a dazzling speed.
 
 For someone else, a month might have been *only* a month. For him, it was a *whole* month.
 
@@ -140,7 +140,7 @@ It was possible.
 
 To Cheongpung, all of it came as naturally as breathing.
 
-He watched with his eyes and moved with his body, and before he knew it, the technique became his.
+He watched, then moved, and before he knew it, the technique became his.
 
 Not merely copied: it was reborn with Cheongpung’s own character woven into it, a new martial art that belonged to him alone.
 
@@ -154,7 +154,7 @@ Dark Fragrance Drift.
 
 The fragrance of Huashan’s plum blossoms spread through the pouring rain. Joined with Ghost Illusory Slaughter Step, which Cheongpung had brought to nine-tenths mastery over the past six months with the Slaughter Saint, it had grown quieter and more elusive still.
 
-So much so that even with both eyes open, no one could clearly make out his presence.
+Even looking straight at him, no one could clearly make out where he was.
 
 *Shh-shh-shh-shhk!*
 
@@ -166,7 +166,7 @@ So much so that even with both eyes open, no one could clearly make out his pres
 
 The fighting all around had spun beyond anyone’s control, yet no one properly noticed Cheongpung slipping past them.
 
-As he crossed the heart of the battlefield, he blended naturally into everything around him.
+As he crossed the heart of the battlefield, he blended into everything around him.
 
 He was the rain falling ceaselessly over everyone’s heads. He was a Dark Heaven fanatic, drunk on madness and the effects of a Temporary Strength Pill—and he was one of the martial artists and soldiers trying to stop them.
 
@@ -188,9 +188,7 @@ The Blood Lord was charging toward him, while a pitch-black figure lunged from h
 
 His instincts whispered it to him.
 
-It was a shame, but this wasn’t enough.
-
-Cheongpung had neither the strength to bring down the Blood Lord nor the time.
+He hated to admit it, but this wasn’t enough. Cheongpung had neither the strength to bring down the Blood Lord nor the time.
 
 But—
 
@@ -222,9 +220,9 @@ And then—
 
 *Shhk.*
 
-The moment he passed the Black Ghost with a cut almost too quiet to hear, a lightning-like shiver surged up his spine.
+As he passed the Black Ghost with a cut almost too quiet to hear, a lightning-like shiver surged up his spine.
 
-A shiver that wouldn’t fade, not even in the dreadful heat swallowing the space he had just crossed.
+It stayed with him even as the space he had just crossed vanished into dreadful heat.
 
 *I did it.*
 
@@ -240,9 +238,9 @@ He watched the Red Blade shatter beneath the pillar of fire that had finally bur
 
 But he didn’t know.
 
-At that very moment, one person was watching the blue-black flames dye everything around them.
+At that very moment, one person was watching the blue-black flames spread in every direction.
 
-Jin Taekyung’s face had gone colder than ever.
+Jin Taekyung’s face was set more coldly than ever.
 
 *Cough.*
 
@@ -256,9 +254,9 @@ He took in the surest information he could get—something only he could hear.
 
 He’d poured everything he had into that strike.
 
-With a body emptied of strength and senses gone dry, he tried to understand what was happening.
+With his body emptied of strength and his senses drained, he tried to grasp what had happened.
 
-But he couldn’t see or hear.
+But he could neither see nor hear it.
 
 It wasn’t in any of the countless holographic windows floating before him. It wasn’t among the System warnings sounding without pause in his ears.
 
@@ -270,7 +268,7 @@ Not even as his legs gave way beneath him, the spear shaft the only thing keepin
 
 And as Jin Taekyung’s knees plunged into a pool of blood—
 
-*Drip. Drip.*
+*Crackle. Crackle.*
 
 From within the wave of fire that had engulfed a radius of dozens of jang, the monster’s charred body rose to its feet.
 
@@ -306,7 +304,7 @@ He’d been sure of it.
 
 He turned his head and looked around, but he couldn’t see anything. His senses had failed, his retinas burned away, trapping him in pitch-black darkness.
 
-All he could make out was a faint sound.
+Only the faintest sounds reached him.
 
 ……!
 
@@ -316,7 +314,7 @@ A strange noise.
 
 Yes, he remembered. Screams and the sound of steel scraping against steel.
 
-And then, from the unknown thing that touched his skin, came a feeling that was familiar—and strangely dear.
+Then something unknown touched his skin. It felt familiar—something he’d missed.
 
 *Splash.*
 
@@ -324,7 +322,7 @@ At that moment, forgotten sensations and memories awoke.
 
 Something hot, wet, and sticky.
 
-The Blood Lord remembered what this utterly familiar thing was.
+The Blood Lord remembered what it was.
 
 *Blood.*
 
@@ -350,11 +348,11 @@ With the cry already escaping his lips, the Blood Lord swept his hand out with a
 
 *Grab.*
 
-At last, his fingertips touched someone’s shoulder. At the same time, a voice rang more clearly in his ears, echoing like a distant sound.
+His hand closed on someone’s shoulder. At the same time, a voice rang more clearly in his ears, echoing around him.
 
 “Blood Lord! Your subordinates will protect you—!”
 
-But before the desperate voice could finish, the Blood Lord’s teeth, already grown, sank into the man’s throat.
+But before the desperate voice could finish, the Blood Lord’s newly grown teeth sank into the man’s throat.
 
 *Crunch!*
 

@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled translation is faithful overall. One minor addition makes the description more explicit than the Korean source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 173–175",
+      "current": "Not merely copied: it was reborn with Cheongpung’s own character woven into it—a new martial art that belonged to him alone.",
+      "defect": "“Not merely copied” adds an explicit contrast that the source does not state. The Korean says the technique naturally became his, reborn as a new martial art infused with his own character.",
+      "replacement": "Just as the words implied, it was reborn with Cheongpung’s own character woven into it—a new martial art that belonged to him alone.",
+      "rationale": "The source describes the result of Cheongpung absorbing and personalizing the technique, but does not explicitly contrast that process with copying.",
+      "confidence": 0.87
+    }
+  ]
+}
