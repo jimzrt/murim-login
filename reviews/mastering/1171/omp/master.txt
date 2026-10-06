@@ -136,7 +136,7 @@ Morgoth was dead. His vast monster army had been shattered and reduced to prey.
 
 Even if Jin slammed into something and broke a few bones, he would be fine.
 
-No—he might not even feel pain.
+No—he might not even feel it.
 
 If he closed his eyes now, he would fall straight into a sleep deep enough to ignore any physical pain.
 
@@ -154,7 +154,7 @@ Or perhaps the rushing wind had made him hear things.
 
 But neither was true.
 
-He wasn’t asleep yet, and the voice that followed was so clear it proved all of this was real.
+He was still awake, and the voice that followed was unmistakably real.
 
 “Of all places to wake up, it had to be in the arms of a man reeking of sweat.”
 
@@ -182,7 +182,7 @@ As rain awakens life, the sun lends it strength, and the soil nourishes its grow
 
 *Fwoosh.*
 
-The more darkness seeped in, the clearer the golden energy became.
+The more darkness seeped into him, the brighter the golden energy became.
 
 Beyond those two contrasting streams of color, a shadow steadily grew.
 
@@ -192,9 +192,7 @@ Regeneration. Resurrection.
 
 Perhaps even a new birth.
 
-But the thing that grew by devouring all the darkness around it was no ominous presence.
-
-Even if someone else might point at him and curse him, Jin Taekyung would never see him that way.
+Yet the being who grew by devouring the darkness around him was not ominous to Jin Taekyung. Others might point at him and curse, but Jin never would.
 
 He shone as brightly as the radiant golden crown above him.
 
@@ -204,7 +202,7 @@ Jin Taekyung blinked.
 
 His view had stopped spinning. The wind that had whipped past like blades was gone.
 
-Through his dreamlike, hazy consciousness, he could make out only the familiar touch of someone carefully laying him on the ground, and a single line of text hovering above that person’s head.
+Through his dreamlike haze, he could only dimly feel a familiar pair of hands carefully laying him on the ground and make out a line of text hovering above the figure’s head.
 
 Lv. 180 “Lord of the Dead” Undead King
 
@@ -212,7 +210,7 @@ The friend he had met again after a brief farewell had changed a little. Jin Tae
 
 “You’ve grown a lot, Bones.”
 
-The Skeleton—or rather, the Undead King—replied as casually as ever to words that still stood clear in his memory.
+The Skeleton—or rather, the Undead King—remembered those words, too. He answered as casually as ever.
 
 “Well, I was always a little taller.”
 
@@ -242,13 +240,13 @@ Ordinarily, Jin Taekyung would have grumbled, *What, is someone dying?* But he h
 
 *Rest easy.*
 
-That short, tempting offer was more powerful than Morgoth’s magic, and his exhausted mind was already poised to defy his will.
+That short, tempting invitation was more powerful than Morgoth’s magic. His exhausted mind was already ready to defy him.
 
 *Thump.*
 
-His head drooped, and his eyelids shut tight. The Undead King watched as his friend sank into a deep sleep, as if he’d passed out the instant the words were spoken.
+His head drooped, and his eyelids closed tight. The Undead King watched his friend fall into a deep sleep almost before the words were out of his mouth.
 
-Then he murmured, as if to himself, the words he hadn’t quite been able to add.
+Then he murmured what he had been unable to say.
 
 “…Though it’ll be far too short a rest to rest easy.”
 
@@ -286,7 +284,7 @@ Humanity’s last Grand Mage trembled before he knew it. He understood the cause
 
 The Undead King had absorbed a vast amount of magical power, yet beside this nearly infinite source, that amount was nothing.
 
-But the thought that had suddenly occurred to Magic Johnson was darker and more ominous than the magical power the Dragon Heart continued to pour out.
+But the thought that suddenly came to Johnson was darker and more ominous than the power still pouring from the Dragon Heart.
 
 “Surely…?”
 

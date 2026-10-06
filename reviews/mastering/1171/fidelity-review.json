@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "the radiant golden crown above him",
+      "defect": "The English adds that the crown is above him. The Korean refers to “that radiant golden crown” without specifying its position; the earlier mention of golden energy tracing the skull’s brow does not establish a crown above him.",
+      "id": "F01",
+      "rationale": "The Korean comparison is to a radiant golden crown, but it does not state that the crown is above him. The accepted baseline also does not add this spatial detail.",
+      "replacement": "that radiant golden crown",
+      "severity": "minor",
+      "source": "Korean line 211"
+    },
+    {
+      "confidence": 0.91,
+      "current": "one of the most extraordinary people alive",
+      "defect": "The source specifically says he ranks among the few when considering all of humanity. The English omits that human-population scope.",
+      "id": "F02",
+      "rationale": "“현존하는 모든 인류를 통틀어도 손에 꼽히는 존재” limits the comparison to all humanity and emphasizes that he is one of the few. The current wording broadens the comparison to people alive generally.",
+      "replacement": "one of the most extraordinary people among all of humanity",
+      "severity": "minor",
+      "source": "Korean line 279"
+    }
+  ],
+  "summary": "The translation is largely faithful, with two small additions or losses of specificity.",
+  "version": 1
+}
