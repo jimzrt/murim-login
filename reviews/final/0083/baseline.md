@@ -124,8 +124,6 @@ I gave him an equally breezy answer.
 
 “Everyone on Earth is already spinning. Haven’t you heard of geocentrism, you ignorant bastard?”
 
-That was when Team Leader Choi cut in.
-
 “That’s heliocentrism. Geocentrism is the cosmological view that the Earth is fixed and unmoving at the center of the universe, while the Moon, Sun, and planets orbit around it, each traveling along its own celestial sphere…”
 
 *Smack.*
@@ -146,7 +144,7 @@ Im Changsoo stared at Team Leader Choi and me in baffled disbelief.
 
 “How did airheaded bastards like you even become Hunters?”
 
-“What, do they recruit based on school grades? Get a TOEIC[^1] score of 900 and you’re B-rank, and if you can speak Chinese, you’re A-rank?”
+“What, do they recruit based on school grades? Get a TOEIC score of 900 and you’re B-rank, and if you can speak Chinese, you’re A-rank?”
 
 “You’d better shut that mouth if you want to live a long time.”
 
@@ -180,7 +178,7 @@ Watching his team members come racing back at full speed, Im Changsoo spat out a
 
 “I tend to be pretty lucky.”
 
-Thanks to the System, it wouldn’t be an exaggeration to say I was living a second life. I’d been through hardships that could have killed me, but when it came to luck, mine was incredible.
+Thanks to the System, it wouldn't be an exaggeration to say I was living a second life. I'd been through hardships that could have killed me, but when it came to luck, mine was incredible.
 
 “We’ll settle this after I deal with those bastards.”
 
@@ -204,7 +202,7 @@ Of course, he still wasn’t as good as me.
 
 *Well, character and ability aren’t proportional.*
 
-Hunters weren’t selected based on TOEIC[^1] scores, school grades, or personality-and-aptitude tests.
+Hunters weren’t selected based on TOEIC scores, school grades, or personality-and-aptitude tests.
 
 I shook my head and turned away.
 
@@ -246,7 +244,7 @@ Im Changsoo spread all five fingers wide.
 
 *That wasn’t five stars… it was five bills.*
 
-“Is that what I think it is?”
+Was he talking about what I thought he was?
 
 “The Minotaur herd over there. Take them down by yourself, and I’ll give you five big bills per head.”
 
@@ -254,7 +252,7 @@ Im Changsoo spread all five fingers wide.
 
 “Yeah. Big bills.”
 
-That meant fifty million won[^2] per Minotaur, or four hundred million won[^3] for all eight.
+That meant fifty million won per Minotaur, or four hundred million for all eight.
 
 Even for me, now that I was a C-rank Hunter, that was a considerable sum.
 
@@ -282,7 +280,7 @@ Im Changsoo’s eyebrow twitched.
 
 My answer was as firm as a juvenile court judge’s. Im Changsoo bit his lip.
 
-“What a pointlessly proud bastard. I’m offering four billion won[^4] and all rights to the byproducts, and you’re refusing?”
+“What a pointlessly proud bastard. I’m offering four billion won and all rights to the byproducts, and you’re refusing?”
 
 “Get lost… Wait. What did you just say?”
 
@@ -290,17 +288,17 @@ Had I heard him wrong?
 
 For several seconds, all kinds of thoughts raced through my mind. Only after sorting them out did I finally manage to part my lips.
 
-“How much? Four billion won[^4]?”
+“How much? Four billion won?”
 
 “Didn’t I say? Five big bills.”
 
 “…”
 
-“Then… five hundred million won[^5] per Minotaur?”
+“Then… five hundred million per Minotaur?”
 
 *You should’ve said five fucking huge bills.*
 
-Four billion won[^4].
+Four billion won.
 
 The mind-boggling sum left not only me, but Miss Song and Im Kkeokjeong gaping.
 
@@ -308,9 +306,9 @@ The mind-boggling sum left not only me, but Miss Song and Im Kkeokjeong gaping.
 
 He was the team leader of a mid-sized Guild and a B-rank Hunter, so he probably earned a lot.
 
-But casually offering billions of won[^6] like this was absurd.
+But casually offering billions of won like this was absurd.
 
-“You’re giving me four billion won[^4] just like that?”
+“You’re giving me four billion just like that?”
 
 “Just? That won’t do. This is a bet.”
 
@@ -350,9 +348,9 @@ She shuddered as if she really had gotten goose bumps, then folded her arms.
 
 “Okay. I’ll be blunt. You’re not my type.”
 
-Her blunt declaration came in like a 160-kilometer-per-hour[^7] fastball, tight and inside. Im Changsoo’s gaze wavered.
+Her blunt declaration came in like a 160-kilometer-per-hour fastball, tight and inside. Im Changsoo’s gaze wavered.
 
-“You’re tall and handsome, but you look exactly like the cheating type. And I hate wind, you see.[^8] I finally got my hair looking nice, and if the wind musses it up… Ah, no, that’s not what I meant, was it?”
+“You’re tall and handsome, but you look exactly like the cheating type. And I hate wind, you see.[^1] I finally got my hair looking nice, and if the wind musses it up… Ah, no, that’s not what I meant, was it?”
 
 “Y-yes? Yes?”
 
@@ -438,7 +436,7 @@ A smile spread across Team Leader Choi’s lips.
 
 “Wow, look at you. A real gambler. How much?”
 
-“Four billion won.[^4] Of course, I’m betting that Jin Taekyung will take down all eight.”
+“Four billion won. Of course, I’m betting that Jin Taekyung will take down all eight.”
 
 “What?”
 
@@ -476,7 +474,7 @@ I would simply do my best to achieve my goal.
 
 —Moooooo!
 
-Twenty meters[^9] ahead, I could see every one of them clearly.
+Twenty meters ahead, I could see every one of them clearly.
 
 Hot breath steaming from their nostrils. Heat. Muscles. Weapons held high.
 
@@ -486,12 +484,4 @@ It should be an interesting experience.
 
 I gripped my spear and charged at the herd like a bullfighter.
 
-[^1]: TOEIC is a standardized English-language test widely used in South Korea for employment qualifications.
-[^2]: Fifty million won is about $36,000 or €32,000.
-[^3]: Four hundred million won is about $290,000 or €260,000.
-[^4]: Four billion won is about $2.9 million or €2.6 million.
-[^5]: Five hundred million won is about $360,000 or €320,000.
-[^6]: “Billions of won” here means roughly two to nine billion won: about $1.4–6.4 million or €1.3–5.8 million.
-[^7]: 160 kilometers per hour is about 99 miles per hour.
-[^8]: The Korean word *baram* can mean either “wind” or an affair, making her next line a deliberate pun.
-[^9]: Twenty meters is about 66 ft.
+[^1]: The Korean word *baram* can mean either “wind” or an affair, making her next line a deliberate pun.
