@@ -224,7 +224,7 @@ On that day, before all the sects of Shanxi Murim, the Jin Family of Taiyuan wou
 
 Jin Wikyung had no doubt that the first day of the coming year would become the Jin Family of Taiyuan’s first stepping-stone—and the harbinger of its rise—as a great family.
 
-And it was at the very moment he secretly clenched his fist that—
+And it was at the very moment he secretly clenched his fists that—
 
 “Um… May I come in?”
 
@@ -248,7 +248,7 @@ Under Jin Wikyung and Wipeng’s puzzled gazes, the scholar continued cautiously
 
 Wipeng chimed in.
 
-“My lord is right. You aren’t a jiangshi.[^1] You need to get enough rest so you can have the strength to work again tomorrow…”
+“My lord is right. You aren’t a jiangshi. You need to get enough rest so you can have the strength to work again tomorrow…”
 
 “Huashan has sent the Three Plum Blossom Elites.”
 
@@ -306,7 +306,7 @@ The scholar bowed with a bewildered expression and left. Only then did the words
 
 “Shh! Lower your voice. We don’t even know for certain yet.”
 
-Despite his words, Wipeng’s face had also flushed bright red. To a swordsman like him, Sword Saint Mae Jonghak was greater than even the Jade Emperor.[^2]
+Despite his words, Wipeng’s face had also flushed bright red. To a swordsman like him, Sword Saint Mae Jonghak was greater than even the Jade Emperor.
 
 To think they might be able to meet such a person in the flesh! No, perhaps he might even receive instruction from him.
 
@@ -326,16 +326,12 @@ Jin Wikyung grinned broadly.
 
 Whatever the reason, the Sword Saint’s visit was something to welcome with open arms—not only as a martial artist, but also as the Lesser Family Head of the Jin Family of Taiyuan.
 
-“You said his name was Cheongpung, right? Where is he now? I seem to remember hearing a while ago that he was training my youngest brother in the Wall Lizard Technique.[^3]”
+“You said his name was Cheongpung, right? Where is he now? I seem to remember hearing a while ago that he was training my youngest brother in the Wall Lizard Technique.”
 
-“The Wall Lizard Technique[^3] training ended two days ago, and now he’s…”
+“The Wall Lizard Technique training ended two days ago, and now he’s…”
 
 “And now?”
 
 “He’s beating the crap out of the Third Young Master.”
 
 “Whaaat!”
-
-[^1]: A *jiangshi* is a reanimated corpse in Chinese folklore.
-[^2]: The Jade Emperor is a ruler of the heavens in Daoist tradition.
-[^3]: The Wall Lizard Technique is a martial art used to climb walls and cliffs.
