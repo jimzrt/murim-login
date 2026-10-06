@@ -48,7 +48,7 @@ Then, as always, he left her dumbfounded.
 
 “Reveal your mask and take off your identity! How dare you ambush this lady! Do you not fear the Lord of Heaven?”
 
-Bow Saint couldn’t hold back any longer. She spoke up, stunned from beginning to end.
+Bow Saint could no longer keep quiet. She didn’t know which part of that to address first.
 
 “You’ve got it backward.”
 
@@ -110,17 +110,17 @@ Great Sir stared blankly at her for a moment, then suddenly clapped his hands.
 
 “About half an hour ago, I finished scouting the area like I was told and went back to the carriage. I hadn’t even sat down before I got kicked out again.”
 
-His voice had been half tearful. Now he lowered it.
+His voice had grown almost tearful. Now he lowered it.
 
 “You know the fellow with the bright red beard and the temper to match? What was his name?”
 
-“…Great Hero Jeok Cheongang?”
+“…Sir Jeok Cheongang?”
 
-“Great Hero, my foot. If that man’s a Great Hero, then this lady’s a fairy. Anyway, he was furious and told me to hurry up and find you. Sounded like something important had happened.”
+“Sir, my foot. If that man’s a Great Hero, then this lady’s a fairy. Anyway, he got furious and told me to hurry up and find you. Sounded like something important had happened.”
 
 Bow Saint felt the tension go out of her.
 
-“What’s this important thing?”
+“What happened?”
 
 “How should I know? I told you, I didn’t even get to sit down. And after coming all this way, I got hit by your palm without a shred of mercy!”
 
@@ -144,7 +144,7 @@ Caught off guard yet again by his bizarre words, Bow Saint let out a quiet laugh
 
 “You seemed to be muttering something, but I couldn’t make it out. Your voice was too quiet.”
 
-That was a relief. It hadn’t been anything too serious, but it wasn’t something she wanted anyone else to hear.
+That was a relief. What she’d said wasn’t dangerous in itself, but she didn’t want anyone else to hear it.
 
 It was her secret. No one could know it. And yet, someday, she would have to make a choice.
 
@@ -160,11 +160,11 @@ Bow Saint tried to keep her voice steady. Great Sir studied her.
 
 His mind might be as clouded as an overcast sky, but his eyes were as clear and bright as a midsummer day.
 
-“I don’t know, either. But… you were definitely missing someone. And you were suffering at the same time.”
+“I’m not sure myself. But… you were missing someone. And it was hurting you.”
 
 “…!”
 
-For an instant, Bow Saint’s eyes trembled.
+Bow Saint’s eyes trembled.
 
 His voice seemed to cut through her thoughts like a blade. Yet it wasn’t simply painful. It felt like cold water washing a wound left to fester far too long.
 
@@ -172,7 +172,7 @@ Perhaps that was why her lips, which had seemed sealed forever, suddenly parted.
 
 Perhaps it was because the only person with her in this lonely desert beneath the dim moon was an eccentric who had forgotten his own name and would remember nothing by tomorrow.
 
-Or perhaps that was all just an excuse.
+Or perhaps those were only excuses.
 
 “That’s right.”
 
@@ -228,7 +228,7 @@ For a moment, Bow Saint couldn’t make sense of what he’d said. Then she mana
 
 “…”
 
-“There’s no need to be embarrassed. Just go for it. It’ll be a relief! Sure, that fellow’s good at martial arts and comes from a good family, but you’ve got nothing to envy there. I hear your family’s Escort Bureau is doing well, too.”
+“No need to be embarrassed. Just go for it. You’ll feel better! Sure, the fellow’s strong and comes from a good family, but you’re no less a catch. I hear your family’s Escort Bureau is doing well, too.”
 
 That explained everything. Even why a man old enough to be her son had been calling her Young Lady.
 
@@ -236,7 +236,7 @@ Bow Saint squeezed her eyes shut. She forced down a great many thoughts and feel
 
 “That isn’t me.”
 
-“Don’t be ridiculous. I heard it from someone and everything… Hm?”
+“What do you mean it isn’t you? This lady heard all about… Hm?”
 
 Great Sir stopped. He rubbed his eyes with his sleeve, then regarded her with sudden gravity.
 
@@ -244,13 +244,13 @@ Great Sir stopped. He rubbed his eyes with his sleeve, then regarded her with su
 
 “…!”
 
-“Oh, right. That ill-tempered man—no, Great Hero Jeok told me to bring you over.”
+“Ah, right. That ill-tempered man—no, Sir Jeok asked me to bring you back.”
 
 With the composure of a Bodhisattva on the verge of enlightenment, Bow Saint replied, “Let’s go. Now, please. I won’t even ask what’s so important.”
 
 “I’m curious myself.”
 
-At Great Sir’s next words, she felt the thread of her reason snap.
+But Bow Saint did not attain enlightenment. At Great Sir’s next words, she felt the last thread of her composure snap.
 
 “I wonder if something’s happened. Jin Taekyung was looking for you, too. He seemed full of energy after sleeping for a whole month.”
 
