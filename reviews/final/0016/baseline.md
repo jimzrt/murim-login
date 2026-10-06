@@ -46,7 +46,7 @@ Wipeng’s eyes lit up.
 
 All kinds of legends from across Murim flashed through his mind.
 
-A Daoist[^1] who ascended after gazing upon a single painting. An absolute master who attained enlightenment from a mural in an ancient cave!
+A Daoist who ascended after gazing upon a single painting. An absolute master who attained enlightenment from a mural in an ancient cave!
 
 Wipeng’s gaze roamed across the rice paper for a long while. Then it suddenly began to tremble as if struck by lightning.
 
@@ -82,7 +82,7 @@ Of course, he also had the courage to reprimand a lord whose sanity was in serio
 
 “You know that, and yet—”
 
-“Did you think I spent three shichen[^2] working on only one?”
+“Did you think I spent three shichen working on only one?”
 
 “What?”
 
@@ -346,6 +346,8 @@ The hour was late and the summons sudden, leaving several senior members wearing
 
 “Careful. Watch your tongue…”
 
+Every voice abruptly fell silent.
+
 At that moment, every sound abruptly stopped. The doors to the meeting room opened from both sides, and Jin Wikyung entered.
 
 The senior members held widely differing opinions of their Lesser Family Head, but the silence that descended the instant he appeared proved that he possessed the qualities of a leader.
@@ -379,6 +381,3 @@ Five old men glided into the room. The moment everyone recognized the man at the
 “We pay our respects, Old Master!”
 
 The Head Elder. He had appeared after keeping himself shut away from the world for years.
-
-[^1]: A Daoist is a practitioner of Daoism, a Chinese religious and philosophical tradition.
-[^2]: A shichen is a traditional time unit of about two hours; three shichen are about six hours.
