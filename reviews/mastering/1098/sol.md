@@ -16,7 +16,7 @@ I hadn’t managed to hide my momentary agitation, and the flicker in my eyes wa
 
 —What nonsense did that bastard the Blood Lord spout at the last moment?
 
-As Jeok Cheongang’s deep gaze seemed to see through everything, his Sound Transmission coming as if he were spitting out the words, I suddenly realized something.
+The words came through clenched teeth. Under Jeok Cheongang’s gaze, which seemed to see straight through me, I suddenly realized something.
 
 Even if he hadn’t been one of the world’s foremost Supreme Peak masters, even if I hadn’t let my agitation show, nothing would have changed.
 
@@ -82,7 +82,7 @@ The Slaughter Saint frowned when I met his eyes and threw his own words back at 
 
 “Trust. Whether you can trust the person you’re making a deal with.”
 
-The Slaughter Saint answered without hesitation, then continued:
+He answered without hesitation, then went on.
 
 “They’ll never keep their promise. When I spoke of taking a gamble earlier, I was betting on my own skill. You’re trying to strike a deal with someone who can’t be trusted in the first place.”
 
@@ -98,11 +98,11 @@ But there was another reason I couldn’t dismiss this absurd deal.
 
 “Right now, the Lord of Heaven wants only one thing. Me.”
 
-Looking back, the Lord of Heaven had always wanted me.
+Looking back, he had always wanted me.
 
 For a very long time.
 
-Otherwise, he wouldn’t have left me alone all this time as I grew stronger by the day—so quickly that the saying “treat someone with new eyes” couldn’t keep up—even though I kept standing in the way of his path to ruling the world.
+Otherwise, why would he have left me alive while I grew stronger by the day—so quickly that “seeing someone in a new light” hardly covered it? Why leave the greatest obstacle in his path to ruling the world standing?
 
 Why did the Lord of Heaven want me?
 
@@ -148,9 +148,9 @@ The birds and insects and even the fish are asleep, and only the moon shines bri
 
 The fishermen of the Yangtze liked nights like those.
 
-Whether they cast their nets or not, whether they were fishermen or not, on those nights everyone went down to the river. They’d swim and set out in boats, filling their cups with cheap strong liquor and drinking their fill.
+Even if they had no nets to cast—or weren’t fishermen at all—everyone would go down to the river. They’d swim, take out their boats, and fill their cups with cheap strong liquor.
 
-Grateful for the vast river that had given them so much, they’d row across the moon’s reflection on the water, singing and enjoying a little time for themselves.
+Grateful for all the vast river had given them, they’d sing as they stirred the moon’s reflection on its surface and enjoy their time together.
 
 There had been a time like that.
 
@@ -166,7 +166,7 @@ Fiercely. Endlessly.
 
 It was like watching a city move. Like a wave that nothing could stop.
 
-A mighty current that defied the order of heaven and dreamed of defying Heaven itself, one not even the Son of Heaven—the father and ruler of all under it—could stop.
+A vast tide bent on defying heaven’s order, beyond the power of even the Son of Heaven—the father and ruler of all under heaven—to halt.
 
 And the countless flags streaming from the swollen sails had long since become objects of fear in their own right.
 
@@ -192,7 +192,7 @@ The visitor shook his head.
 
 “No.”
 
-“Then?”
+“Then why are you here?”
 
 *Thud.*
 
@@ -200,7 +200,7 @@ With a heavy step, Ship-Fire Boy Mu Song emerged from the shadows.
 
 “I came to watch the moon with you, Master.”
 
-Watch the moon.
+Watch the moon?
 
 Pa Ryun found himself looking up at the cloud-filled sky. His voice stayed gruff.
 
@@ -208,7 +208,7 @@ Pa Ryun found himself looking up at the cloud-filled sky. His voice stayed gruff
 
 Mu Song faltered, then promptly asked, “Wasn’t it twenty?”
 
-“You disobeyed an order and spouted nonsense on top of it. You knew what you were getting into. Thirty.”
+“You disobeyed an order and spouted nonsense on top of it. Thirty.”
 
 “But—”
 
@@ -218,7 +218,7 @@ Mu Song fell silent. Pa Ryun turned to the subordinate, who was still standing t
 
 “You neglected your duty as well. Ten strokes.”
 
-“B-But, Alliance Leader—”
+“A-Alliance Leader—”
 
 “Leave us. I’ll let this matter go.”
 
@@ -230,7 +230,7 @@ He didn’t use internal energy, but ten strokes were enough to leave a man’s 
 
 Yet Seafaring King Pa Ryun’s strictness made no exceptions—not for his own disciple, nor for a subordinate who’d followed him for over thirty years.
 
-In the end, the subordinate left without another word. By the time his presence had completely faded, Pa Ryun, still watching the river split around the ships, spoke abruptly.
+The subordinate withdrew without another word. Once his presence had faded completely, Pa Ryun spoke, still watching the river part around the ships.
 
 “Perhaps I should make it fifty.”
 
@@ -256,21 +256,21 @@ Before the sound had faded, he pressed his forehead to the deck.
 
 “No matter how I look at it… this isn’t right.”
 
-But even as his Disciple suddenly prostrated himself, the Master kept his eyes on the Yangtze.
+But even as his disciple prostrated himself, Pa Ryun kept his eyes on the river.
 
 “Not right, you say.”
 
-“I know it sounds absurd. I’ve been a bandit since I was a snot-nosed kid, too.”
+“I know I have no business saying it. I’ve been a river bandit since I was a snot-nosed kid.”
 
 Pillaging had been Mu Song’s trade.
 
-Ever since he’d taken charge of Water Dragon Stronghold at thirty, he’d led a large family of followers, taking what belonged to others and sharing it with them.
+Ever since he’d taken charge of Water Dragon Stronghold at thirty, he’d had many followers to provide for. He’d taken what belonged to others and shared the spoils with them.
 
 But… he had never wanted this. Not once.
 
 “The Yangtze is being stained with blood. And it’ll keep happening. That wide, blue river we all love.”
 
-Mu Song’s voice had begun to tremble. Pa Ryun suddenly spoke.
+Mu Song’s voice had begun to tremble. Pa Ryun spoke.
 
 “Is that why you led the way in taking so many imperial troops prisoner in the last battle?”
 
@@ -288,7 +288,7 @@ Mu Song’s voice had begun to tremble. Pa Ryun suddenly spoke.
 
 Pa Ryun turned and looked down at Mu Song, his gaze dark and steady.
 
-“This old man ordered them killed, and you should have killed them. They were people it was all right to kill.”
+“I ordered you to kill them. You should have killed them. They were men you could kill.”
 
 “No. There was no need to kill them.”
 
@@ -298,7 +298,7 @@ But the imperial troops he’d faced that day had been so weak that spilling the
 
 “That—that wasn’t a battle. It was a massacre.”
 
-“Yes. That’s what this old man wanted.”
+“Yes. That’s what I wanted.”
 
 “……!”
 
@@ -336,7 +336,7 @@ That was as far as he got.
 
 As far as he could endure the aura of Pa Ryun, one of the Ten Kings.
 
-His Disciple had lost consciousness before he could finish speaking. Pa Ryun looked down at him with a deep gaze, then turned back to the river and muttered.
+Pa Ryun looked down at his unconscious disciple, his gaze unreadable. Then he turned back to the water and murmured.
 
 To the tributary of the Yellow River, to be precise, its waters already beginning to turn the color of yellow earth.
 
@@ -348,8 +348,6 @@ At the same time, figures began gathering among the grasses not far from the riv
 
 Thousands of shadows. No, tens of thousands.
 
-A voice, its laugh as faint as moonlight, spoke.
-
 “It does seem a fine night for watching the moon after all.”
 
-Hundreds of ships bearing the Yangtze River Channel League’s flags began preparing to welcome their new allies.
+There was a faint smile in Pa Ryun’s voice. Under the moonlight, hundreds of ships flying the Yangtze River Channel League’s flags began preparing to welcome their new allies.

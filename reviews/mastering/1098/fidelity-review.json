@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.86,
+      "current": "so quickly that the saying “treat someone with new eyes” couldn’t keep up",
+      "defect": "괄목상대 means regarding someone with fresh eyes after a remarkable improvement. The source says the narrator’s growth makes even that expression seem inadequate; “couldn’t keep up” instead turns the idiom into a measure of speed.",
+      "id": "F01",
+      "rationale": "The source’s point is how remarkable the narrator’s growth is, not that a saying cannot keep pace with it.",
+      "replacement": "so much that even the phrase “see someone in a new light” seemed inadequate",
+      "severity": "minor",
+      "source": "Lines 110–110"
+    },
+    {
+      "confidence": 0.91,
+      "current": "so you can take his ten strokes for him",
+      "defect": "This specifies that Mu Song is taking the subordinate’s ten strokes, although Pa Ryun has just changed the punishment to fifty strokes. The source says Mu Song should take the punishment in the subordinate’s place without specifying that it is only those ten strokes.",
+      "id": "F02",
+      "rationale": "The source says the younger, fitter Mu Song should be struck in the subordinate’s place; the stated punishment immediately beforehand is fifty strokes.",
+      "replacement": "so you can take the beating instead",
+      "severity": "minor",
+      "source": "Lines 254–254"
+    }
+  ],
+  "summary": "The translation is faithful overall, with two minor meaning shifts.",
+  "version": 1
+}
