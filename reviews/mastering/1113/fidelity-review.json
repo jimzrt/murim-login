@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.9,
+      "current": "So were the fury and self-reproach he had been struggling to hold back since regaining consciousness. No matter how hard he suppressed them, they kept surging up from deep in his chest.",
+      "defect": "The source says Taekyung clenched his teeth both because of the pain and because he was suppressing the fury and self-reproach rising in him. “So were” breaks the connection to the clenching and leaves the sentence fragment unclear.",
+      "id": "F01",
+      "rationale": "The Korean links the emotional struggle to the same involuntary jaw-clenching caused by his physical pain; the accepted baseline preserves that link with “And against the fury and self-reproach…”.",
+      "replacement": "And he was also clenching his teeth against the fury and self-reproach he had been doing everything he could to hold back since regaining consciousness, though they kept surging up from deep in his chest.",
+      "severity": "minor",
+      "source": "Lines 81–85"
+    }
+  ],
+  "summary": "One minor fidelity issue: the translation obscures the emotional cause of Taekyung clenching his teeth.",
+  "version": 1
+}

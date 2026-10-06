@@ -2,7 +2,7 @@
 
 Nothing can be gained without sacrifice.
 
-That was even more true for those seeking victory through war—the most terrible form of violence—in an age of savagery that had thrown law and benevolence to the dogs.
+That was especially true of those who sought victory through war—the most terrible form of violence—in a savage age that had thrown law and humanity to the dogs.
 
 But even knowing that cruel reality, there were some things one could never get used to.
 
@@ -10,13 +10,13 @@ Like realizing that someone who had been laughing and talking with you not long 
 
 “……So, that’s how it ended.”
 
-After hearing what had happened immediately after he lost consciousness, Jin Taekyung quietly closed his eyes, muttering to himself.
+After hearing what had happened while he was unconscious, Jin Taekyung muttered to himself and quietly closed his eyes.
 
 Faces came to mind. So many people who, though he had known them only a short time, had looked at him with trust.
 
-Along with them came the stony face and voice of someone whose presence had gradually become familiar.
+And among them, the stern face and voice of someone who had become familiar before he knew it.
 
-*“It doesn’t matter who you are. The Embroidered Uniform Guard obeys only His Majesty the Emperor’s command. If you stand in our way in defiance of his imperial decree, I’ll kill you.”*
+*“It doesn’t matter who you are. The Embroidered Uniform Guard obeys only His Majesty the Emperor’s commands. If you stand in our way in defiance of an imperial decree, I’ll kill you.”*
 
 *“Perhaps it’s because you’re a martial artist without even an identity tag, but your manners are atrocious.”*
 
@@ -24,13 +24,13 @@ Along with them came the stony face and voice of someone whose presence had grad
 
 Fleeting moments brushed faintly past his eyes and ears.
 
-And at the end of those memories was always the figure of someone who had pressed forward without wavering.
+At the end of those memories was always the figure of a man who had pressed forward without wavering.
 
 *“Jeong Hogun, Thousand Captain of the Embroidered Uniform Guard, answers the command of the Marquis of Shangshan!”*
 
 Remembering the voice he would never hear again, Taekyung opened his eyes without a word and forced down something rising from deep in his chest.
 
-The officer had been so stubbornly steadfast it was almost foolish. He had always been calm, and always stood tall.
+The officer had been steadfast to a foolish degree, always calm and unafraid to stand tall.
 
 Taekyung had lost consciousness before witnessing Jeong Hogun’s final moments, but he was certain the man had faced them the same way.
 
@@ -48,7 +48,7 @@ Neither would the person beside him, head bowed and shedding tears.
 
 Cheongpung’s eyes glistened, and his voice trembled.
 
-Looking at Cheongpung as he blamed himself, Jin Taekyung spoke in a calm voice.
+Taekyung looked at him blaming himself and spoke calmly.
 
 “You’re right. We weren’t good enough. Neither you nor I.”
 
@@ -66,7 +66,9 @@ Looking at Cheongpung as he blamed himself, Jin Taekyung spoke in a calm voice.
 
 *Grit.*
 
-Jin Taekyung slowly shifted his body, which had been propped against the Inner City wall. He clenched his jaw without meaning to, against the terrible pain that seemed to reach every cell in his body.
+Taekyung began to shift away from the Inner City wall he had been leaning against. Without realizing it, he clenched his teeth.
+
+The pain was terrible, as if it reached every cell in his body.
 
 So were the fury and self-reproach he had been struggling to hold back since regaining consciousness. No matter how hard he suppressed them, they kept surging up from deep in his chest.
 
@@ -86,11 +88,11 @@ But what showed on the outside was not the whole story.
 
 Cheongpung had poured his own internal energy into Taekyung to lend him strength. He knew better than anyone that the damage inside his body was even worse than it looked.
 
-Some of the tears he had shed earlier had come from a terrible premonition: that he would be unable to stop Jin Taekyung from dying.
+Some of the tears Cheongpung had shed earlier had come from the terrible feeling that he would not be able to keep Taekyung from dying.
 
 But—
 
-Thump.
+*Clack.*
 
 Taekyung did not stop. He did not give up.
 
@@ -114,9 +116,9 @@ The sacrifice of others who might be dying even now.
 
 He wasn’t speaking only to Cheongpung.
 
-Jin Taekyung kept speaking resolutely to everyone around him. Their heads hung low, their faces marked by desperation or defeat. Exhausted in body and mind, they had briefly forgotten their duty.
+Taekyung addressed everyone around him, those who stood with their heads bowed and their faces marked by desperation or defeat. He reminded them of the duty they had briefly forgotten in their exhaustion.
 
-“That’s the only way…… we can show them the respect they deserve. It’s our duty.”
+“Only then…… will we have shown them the respect they deserve and fulfilled our duty.”
 
 *Step.*
 
@@ -146,13 +148,13 @@ Outside the Inner City, the war drums beat faster and faster, announcing the app
 
 Not now. Not while they stood with him—a martial artist who had made his way through a mountain of sabers and a forest of swords, a marquis of the Great Nation, and, beyond that, a fellow subject living in this vast realm.
 
-For a moment, they could forget.
+For a little while, they could forget their fear.
 
 And remember what they had forgotten.
 
 *KABOOM!*
 
-Even when a thunderous crash sounded in the distance and the war drums that had seemed destined to ring forever fell silent.
+A thunderous crash sounded in the distance. The war drums, which had seemed as if they would beat forever, fell silent.
 
 *Rumble-rumble-rumble!*
 
@@ -182,13 +184,13 @@ He spat out the words, and the spearhead gave off a frost-sharp aura.
 
 *Whoosh.*
 
-Behind him, standing tall as an iron tower, strands of violet light rose and blazed brighter than torches, illuminating the darkness.
+Behind Taekyung, who stood tall as an iron tower, strands of violet light rose one by one, shining brighter than torches against the darkness.
 
-And beneath the energy of the Zaha Divine Technique spreading like the sunset at dusk, the corner of one person’s eye was no longer wet.
+The energy of the Zaha Divine Technique spread like the glow of sunset. The eyes of the man wreathed in it were no longer wet.
 
-His voice, sunk deeper than ever, was the same.
+His voice was steadier than ever.
 
-“I’ll do it. I promise.”
+“I’ll do it. No matter what.”
 
 The battle was not over yet.
 
@@ -212,7 +214,7 @@ The man who had drawn its first stroke—and would put the final mark on it—wa
 
 *What fools.*
 
-He couldn’t understand it.
+He could not understand them.
 
 What were they fighting for?
 
@@ -228,7 +230,7 @@ But the Lord of Heaven was different. He alone was different.
 
 His power and overwhelming presence made the Blood Lord tremble simply by being near him.
 
-In a world where might made right, what ruler could be more fitting?
+In a world where might made right, what master could be more fitting?
 
 *This loyal servant will fulfill your wish.*
 
@@ -256,13 +258,13 @@ The Blood Lord smiled and reached out.
 
 A flash of blood-red light swelled and exploded. The blast swallowed the screams, scattering torn flesh and bone.
 
-“But after he takes the world, who will call me a monster?”
+“But once he has taken the world, who will dare call me a monster?”
 
-It was a world where might made right.
+In that world, might would make right.
 
 The day was not far off when a blood-mad monster would be hailed as a divine general sent by Heaven.
 
-Though he had failed to take the life of one man whose death was necessary for that great undertaking—
+Though he had failed to take the life of the one man who had to die for that great undertaking—
 
 “Open the way, you worthless moths.”
 
@@ -272,7 +274,7 @@ To the Blood Lord, it was all only a matter of time.
 
 The Inner City was close enough to see now. As long as fierce fighting continued at the other three walls, no one could stand in his way.
 
-*Grand Mage, you bitch, stay out of this. Even I don’t want to kill a servant girl the Lord of Heaven favors with my own hands.*
+*Grand Mage, you bitch, stay out of this. Even I don’t want to kill one of the Lord of Heaven’s favored servant girls with my own hands.*
 
 The Blood Lord was about to resume the slaughter when—
 
