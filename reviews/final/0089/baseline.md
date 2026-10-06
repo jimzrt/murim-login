@@ -2,11 +2,11 @@
 
 “Son, slow down. You’re going to make yourself sick.”
 
-“You could quit being a Hunter and become a mukbang[^1] streamer.”
+“You could quit being a Hunter and become a mukbang streamer.”
 
 I finished my meal amid Mom’s concern and Hayeon’s admiration.
 
-By then, I had polished off five heaping bowls of rice, an entire pot of cheonggukjang,[^2] and dozens of kimchi pancakes.
+By then, I had polished off five heaping bowls of rice, an entire pot of cheonggukjang, and dozens of kimchi pancakes.
 
 “Whew. I’m finally starting to feel full.”
 
@@ -18,7 +18,7 @@ I had always eaten a lot, but never this much.
 
 Maybe it was because my metabolism and internal organs had improved beyond comparison. These days, I could put even professional food fighters to shame.
 
-“Maybe I really should become a mukbang[^1] streamer.”
+“Maybe I really should become a mukbang streamer.”
 
 “No. Those people need to make a living too. Let the humans compete among themselves.”
 
@@ -181,15 +181,15 @@ Just as the System said, Circulate Qi for Healing had ended successfully.
 
 The Jin Family’s Cultivation Technique accumulated internal energy slowly, but its stability was exceptional. The process had taken a while because so much waste had built up inside Hayeon, but I completed it without any serious trouble.
 
-“Oppa,[^3] what was that?”
+“Oppa, what was that?”
 
-The fact that she called me Oppa[^3] so naturally showed how surprised she was. I wiped away the sweat brought on by the tension and answered.
+The fact that she called me Oppa so naturally showed how surprised she was. I wiped away the sweat brought on by the tension and answered.
 
 “I told you. It’s a stable traditional medicine treatment.”
 
 “That worked just from holding my hand?”
 
-*Would it? It only worked because your brother is amazing.*
+*Of course not. It only worked because your brother is amazing.*
 
 I smoothly changed the subject.
 
@@ -281,7 +281,7 @@ Mom was middle-aged, and the amount of waste she had accumulated matched the yea
 
 Hayeon stared at me in wonder. As soon as she had emerged from the bathroom, she had polished off two bowls of rice as though she had never complained about having no appetite.
 
-“Where did you learn something like this? Were you a healer, Oppa[^3]?”
+“Where did you learn something like this? Were you a healer, Oppa?”
 
 “A healer? No. I just happened to learn it.”
 
@@ -334,7 +334,7 @@ They had been issued as raid supplies yesterday. Since I had no particular use f
 
 *Technically, I’m supposed to return them.*
 
-Even lesser potions cost more than 200,000 won[^4] apiece. Employers generous enough to hand them out as freely as Team Leader Choi were hard to find.
+Even lesser potions cost more than 200,000 won apiece. Employers generous enough to hand them out as freely as Team Leader Choi were hard to find.
 
 “Take one each.”
 
@@ -366,21 +366,21 @@ Hayeon downed hers in one shot and tilted her head.
 
 “Fifty, if you buy the large one?”
 
-“They’re about 200,000 won[^4] each, so fifty would be… ten million won[^5]? Oppa,[^3] are you insane?”
+“They’re about 200,000 won each, so fifty would be… ten million won? Oppa, are you insane?”
 
 Hayeon smacked my forearm.
 
-“Just because you made some money this time, are you really going to spend it so recklessly? If you keep overspending like that, that 300 million won[^6] will disappear in no time.”
+“Just because you made some money this time, are you really going to spend it so recklessly? If you keep overspending like that, that 300 million won will disappear in no time.”
 
 “It’s fine. I’ve been making good money lately.”
 
-“I looked it up online. Once you become a C-rank Hunter, you have to replace your equipment and everything, right? They said you can blow through hundreds of millions[^7] like it’s nothing.”
+“I looked it up online. Once you become a C-rank Hunter, you have to replace your equipment and everything, right? They said you can blow through hundreds of millions like it’s nothing.”
 
-“I told you, it’s fine. I made four billion won[^8] yesterday, too.”
+“I told you, it’s fine. I made four billion won yesterday, too.”
 
-“If you have four billion won,[^8] then spending like this… Wait. How much did you say?”
+“If you have four billion won, then spending like this… Wait. How much did you say?”
 
-“Four billion won.[^8]”
+“Four billion won.”
 
 “…….”
 
@@ -388,7 +388,7 @@ Hayeon went completely rigid.
 
 She stared blankly at me, then turned toward Mom.
 
-“Mom, Oppa[^3] says he made four billion won.[^8]”
+“Mom, Oppa says he made four billion won.”
 
 Mom gave an awkward smile and nodded.
 
@@ -398,23 +398,14 @@ Only then did Hayeon ask in a trembling voice,
 
 “Yeah.”
 
-“Four billion won?[^8]”
+“Four billion won?”
 
 “I told you.”
 
 Determination filled Hayeon’s eyes.
 
-“Oppa.[^3] Can I drop out of school?”
+“Oppa. Can I drop out of school?”
 
 “…….”
 
 *Didn’t you say there was no end to learning?*
-
-[^1]: *Mukbang* is a broadcast in which the host eats while interacting with viewers.
-[^2]: *Cheonggukjang* is a Korean stew made with fermented soybeans.
-[^3]: *Oppa* is a Korean term a woman uses for an older brother or an older man she is close to.
-[^4]: 200,000 won is about $140 or €130; the potion costs more than that.
-[^5]: Ten million won is about $7,100 or €6,500.
-[^6]: 300 million won is about $210,000 or €190,000.
-[^7]: Hundreds of millions of won refers to roughly 100–999 million won, or about $71,000–$710,000 and €65,000–€640,000.
-[^8]: Four billion won is about $2.9 million or €2.6 million.
