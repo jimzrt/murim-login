@@ -1,6 +1,6 @@
 # Chapter 139
 
-Less than a shichen[^1] after the six-horse carriage carrying Jin Taekyung and his group departed, the streets of Taiyuan heated up once again.
+Less than a shichen after the six-horse carriage carrying Jin Taekyung and his group departed, the streets of Taiyuan heated up once again.
 
 This time, it was because of the fifty mounted soldiers surrounding the four-horse carriage, as well as the martial artists radiating sharp, piercing gazes.
 
@@ -56,7 +56,7 @@ Wipeng’s eyes went round as though he were asking what the hell that was suppo
 
 “Shut your mouth.”
 
-“Yes. I won’t say another word. If you’re really that worried, ask the Second Young Master over there.”
+“Yes, my lord. I won’t say another word. If you’re really that worried, ask the Second Young Master over there.”
 
 At Wipeng’s indifferent reply, Jin Wikyung’s gaze shifted slightly to the side.
 
@@ -108,7 +108,7 @@ The official pointed to several enormous warehouses one after another. He added 
 
 “Of course.”
 
-The official continued with a proud smile, like a resident of a Gangnam[^2] apartment showing off his building.
+The official continued with a proud smile, like a resident of a Gangnam apartment showing off his building.
 
 “Provincial offices are generally built large and sturdy in preparation for wartime, but they aren’t normally this large.”
 
@@ -118,7 +118,7 @@ The official continued with a proud smile, like a resident of a Gangnam[^2] apar
 
 “Oh.”
 
-Right. He wasn’t merely the City Lord. He was a member of the imperial family. On top of that, he held an official royal title—he was a king in his own right.
+Right. He wasn’t merely the City Lord. He was a member of the imperial family. On top of that, he possessed an official royal title—a proper prince in his own right.
 
 “Then is this the royal palace?”
 
@@ -336,7 +336,7 @@ From the moment I first saw him, he had radiated tough-guy energy. His name was 
 
 I couldn’t judge everything from a first meeting, but that was the impression he gave. A proud and upright soldier. That was my first impression of him.
 
-*Li Feng, Li Feng… At Level 68, he’s probably Supreme First Rate?*
+*Li Feng, Li Feng… At Level 68, he’s probably an advanced First Rate?*
 
 Just as I was engraving his name and Level into my mind, the other three men reacted.
 
@@ -385,6 +385,3 @@ I shouted, suddenly brimming with excitement.
 I stopped halfway through my answer.
 
 *Ah. This wasn’t a novel.*
-
-[^1]: A *shichen* is a traditional Chinese time period of approximately two hours.
-[^2]: Gangnam is an affluent district of Seoul associated with expensive real estate.
