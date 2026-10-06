@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "And half of them had vanished—in barely half an hour after the battle began in earnest.",
+      "defect": "The source establishes that the West Gate had roughly ten thousand or more defenders before saying half were lost. The assembled copy omits that garrison size, removing the scale of the losses; the accepted baseline preserved it.",
+      "id": "F01",
+      "rationale": "서문에 배치되어 있던 수비군은 대략 일만 이상 states that the West Gate’s garrison numbered roughly ten thousand or more. This is a concrete scale-setting detail, not an optional stylistic difference.",
+      "replacement": "The West Gate’s garrison had numbered more than ten thousand. And half of them had vanished—in barely half an hour after the battle began in earnest.",
+      "severity": "minor",
+      "source": "Lines 71–73"
+    }
+  ],
+  "summary": "The translation is faithful overall, but it omits the West Gate garrison’s size, a concrete number preserved in the accepted baseline.",
+  "version": 1
+}

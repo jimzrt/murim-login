@@ -10,9 +10,9 @@ But its beat had never sounded so urgent, so perilous. Something in it gripped t
 
 *Slice!*
 
-A streak of light shot across the foot of the wall like a bolt of lightning.
+A streak of light flashed across the foot of the wall.
 
-Dozens of fanatics charging in while scattering Sword Energy were cut to pieces and sent flying. Yet the man responsible for this display of divine might wore a rigid expression.
+Dozens of fanatics charging in and scattering Sword Energy were cut to pieces. Yet the man responsible for that display of divine might wore a rigid expression.
 
 “This is……”
 
@@ -20,7 +20,7 @@ His words trailed off. The Slaughter Saint, who had been fighting enemies right 
 
 Even he didn’t know exactly why.
 
-All he knew was that his instincts, honed by countless experiences, and the immense surge of power that had boiled over from the west moments ago were stirring every one of his senses.
+His instincts, honed by countless battles, and the immense surge of power that had risen from the west moments ago were stirring every one of his senses.
 
 For an instant, even the streaks of light plunging down from above slipped from his mind.
 
@@ -34,13 +34,13 @@ Someone he could trust stood behind him.
 
 *Whoosh!*
 
-The wall lit up. A beam of light shot from someone’s fingertips and swallowed hundreds of ice spikes whole.
+The wall lit up. A beam of light shot from a pair of fingertips and swallowed hundreds of ice spikes.
 
 *KABOOOOOM!*
 
 A blinding flash erupted with a thunderous crash.
 
-Before the shockwaves of the collision had fully faded, the Bow Saint’s clear Sound Transmission rang in the Slaughter Saint’s ears.
+Before the shock of the collision had faded, the Bow Saint’s clear Sound Transmission reached the Slaughter Saint’s ears.
 
 —The West Gate has fallen.
 
@@ -48,33 +48,33 @@ Before the shockwaves of the collision had fully faded, the Bow Saint’s clear 
 
 The Slaughter Saint swallowed the groan rising in his throat.
 
-The ominous premonition he’d feared had come true. But that left him even less time to lament. With one of the pillars holding their already fragile balance now completely broken, everything was in danger.
+The ominous fear he’d harbored had come true. That left him even less time to lament. One side of the balance they had barely managed to maintain had collapsed, putting everything in danger.
 
 —Then the allies defending the West Gate……
 
-—More than half are casualties, according to the numbers confirmed so far. They say the Embroidered Uniform Guards bought us at least a little time by fighting to the death.
+—At least half are casualties, from what’s been confirmed so far. The Embroidered Uniform Guards fought to the bitter end and bought us a little time.
 
 Half.
 
-It was no wonder the Slaughter Saint bit his lip at that staggering number.
+The Slaughter Saint bit his lip.
 
-And half of them had vanished—in barely half an hour after the battle began in earnest.
+More than ten thousand defenders had been stationed at the West Gate. Now half of them were casualties, barely half an hour after the fighting had begun in earnest.
 
 —What happened to the survivors?
 
-—Some retreated to the Inner City. Others seem to still be holding off the enemy from the rear.
+—Some retreated to the Inner City. Others seem to be holding off the enemy from the rear.
 
 —Then, could it be……
 
 A grim thought crossed his mind, and he fell silent. The Bow Saint’s quiet Sound Transmission continued.
 
-—Cheongpung and Jin Taekyung. The two of them retreated to the Inner City.
+—Cheongpung and Jin Taekyung. Both made it back to the Inner City.
 
 —……They were lucky.
 
 The Slaughter Saint held back a sigh of relief.
 
-After so many had already been lost, it wouldn’t be right to focus only on the survival of those two just because he had ties to them.
+So many had already been lost. It would be wrong to dwell only on those two surviving because he knew them.
 
 But the Bow Saint had more to tell him.
 
@@ -96,7 +96,7 @@ He stopped moving without realizing it. A blade swung at his shoulder.
 
 The strike was fast and powerful. He twisted aside at the last moment, but the Sword Energy carried by the blade grazed him and cut his skin.
 
-Of course, even the man lucky enough to land that remarkable hit couldn’t escape death.
+The man fortunate enough to land that blow did not live to celebrate it.
 
 *Thud!*
 
@@ -112,13 +112,13 @@ The Bow Saint kept firing arrows of Force at the enemy as she answered.
 
 —They can’t say whether he’ll live.
 
-—……Blood Lord. We underestimated that bastard.
+—……The Blood Lord. We underestimated him.
 
 A low groan escaped the Slaughter Saint.
 
-He hadn’t been comfortable leaving the West Gate to Jin Taekyung from the start. He’d only been persuaded by the same argument they had used with Jeok Cheongang.
+He had never liked leaving Jin Taekyung at the West Gate. He’d only been persuaded by the same reasoning that had convinced Jeok Cheongang.
 
-—We shouldn’t have left him there after all.
+—We shouldn’t have left him there.
 
 —It wouldn’t have changed anything, as long as the Blood Lord’s intentions stayed the same.
 
@@ -132,8 +132,6 @@ With a heavy heart, he turned to leave.
 
 Or tried to.
 
-Until a clear voice reached his ears.
-
 “Is that really the best choice?”
 
 “……What do you mean?”
@@ -142,7 +140,7 @@ Until a clear voice reached his ears.
 
 The Slaughter Saint had no answer.
 
-Of course he knew how dangerous their position was here, at the South Gate.
+Of course he knew how desperate things were here at the South Gate.
 
 Even apart from the Grand Mage, they faced four Black Ghosts. The mages supporting them were still hurling spells at the wall while granting the fanatics greater strength and speed.
 
@@ -150,7 +148,7 @@ That was why he’d been forced to leave his assigned post at the East Gate and 
 
 But……
 
-“Are you saying we should just let him—Jin Taekyung—die?”
+“Are you telling me to stand here and let him—let Jin Taekyung die?”
 
 The Bow Saint met his disbelieving gaze. When she spoke, her voice was graver than he had ever heard it.
 
@@ -176,7 +174,7 @@ He knew why the Bow Saint had reappeared after vanishing for so long. He’d hea
 
 That made her words and actions now all the harder to understand.
 
-Why wasn’t she trying to save the chosen one—or rather, Jin Taekyung?
+Why wasn’t she trying to save the chosen one—Jin Taekyung?
 
 There was something in her eyes and voice that he couldn’t begin to fathom. It was more than simple faith that Taekyung would survive.
 
@@ -194,25 +192,25 @@ It hurtled toward them with terrifying force. The Slaughter Saint leaped from th
 
 *Whoosh!*
 
-A streak of light cut through the air along the path traced by his fingertips. A rift opened, followed by an explosion.
+A streak of light followed the path of his fingertips across the sky. The sphere split, then exploded.
 
 *KABOOOOOM!*
 
-The ball of fire shattered into hundreds of pieces and scattered in every direction. The Slaughter Saint landed where he had started and fixed a profound gaze on the Bow Saint.
+Hundreds of flaming fragments scattered in every direction. The Slaughter Saint landed where he had started and fixed his gaze on the Bow Saint.
 
-“Is that answer enough?”
+“Does that answer your question?”
 
 Perhaps she saw the change in his eyes. A bitter smile crossed her lips.
 
 “It does.”
 
-Leaving her behind, the Slaughter Saint silently turned to face the enemies, who had dyed the land outside the wall pitch-black.
+Leaving her behind, the Slaughter Saint turned without a word to face the enemies who had turned the ground beyond the wall black.
 
-More precisely, he looked toward the one who had just displayed magic of a power beyond anything they’d seen so far.
+More precisely, he looked at the one who had just unleashed a spell far more powerful than any they had seen from her before.
 
 *The Grand Mage.*
 
-The face of another ringleader, who had finally stepped forward, burned itself onto the Slaughter Saint’s eyes.
+The face of that other leader, finally come to the front, burned itself into his memory. Four Black Ghosts stood guard around her like bodyguards.
 
 Then—
 
@@ -222,9 +220,9 @@ A chilling vibration rose from deep beneath the earth. The Slaughter Saint turne
 
 He thought of the one person who cherished Jin Taekyung more than anyone in the world—the one person who would rush into any danger for him.
 
-*You’re the only one left now. I’m counting on you, Fire King.*
+*You’re the only one left. I’m counting on you, Fire King.*
 
-Just as the Slaughter Saint murmured those words in his heart—
+As the Slaughter Saint spoke those words in his heart—
 
 *Rrrrrumble!*
 
@@ -250,13 +248,13 @@ Some thought of a disaster no human strength could stop and were seized by fear.
 
 “Don’t falter! What is there left to fear?”
 
-Others, already prepared to die, fought the enemy without giving an inch.
+Others, already prepared to die, fought on without giving an inch.
 
 “Damn bitch. She hasn’t noticed already, has she?”
 
 And one man, recognizing the power, fired blood-red flashes at the moths foolish enough to block his path to the Inner City.
 
-He needed to take one man’s life quickly—and for good—before anything else could get in his way.
+He had to take one man’s life as quickly and surely as possible, before that woman could interfere.
 
 But that man—the Blood Lord—didn’t know what was happening several hundred jang away at the North Gate.
 
@@ -286,7 +284,7 @@ The old monk standing rigid as a statue was the only obstacle still in his way.
 
 “……!”
 
-The Dalai Lama’s eyes were wide open, his pupils trembling.
+The Dalai Lama’s eyes were wide, his pupils trembling at the sight before him.
 
 Jeok Cheongang, the Fire King, took a weary step toward him.
 
@@ -298,4 +296,4 @@ He reminded himself of his resolve.
 
 *Fwoosh.*
 
-A white flame spread across his fatigue-dimmed pupils.
+White flames spread across his fatigue-dimmed pupils.
