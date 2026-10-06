@@ -106,7 +106,7 @@ One woman had fainted, while the other had wept until tears and snot streamed do
 
 After having their buttocks thoroughly beaten by a man outside their families in front of so many people, it was only a matter of time before their marriage prospects were ruined.
 
-“What in the world does ‘improve teacher authority’ mean? Is it something from Mencius[^1]?”
+“What in the world does ‘improve teacher authority’ mean? Is it something from Mencius?”
 
 “I don’t know, either. He even hit them one extra time.”
 
@@ -206,7 +206,9 @@ I hurriedly waved him off.
 
 Hyuk Mujin muttered beside me.
 
-“That’s true. My candied hawthorn skewers[^2]…”
+“That’s true. My candied hawthorn skewers[^1]…”
+
+[^1]: Traditional fruit skewers coated in hardened sugar.
 
 “You be quiet. So, are you really leaving?”
 
@@ -321,6 +323,3 @@ But the order had come from Prince Shangshan, the City Lord and a man of royal b
 After the messenger departed, the man raised his sword once more.
 
 As he resumed the Seven Plum Sword, the plum blossoms of Huashan, which he had left long ago, seemed to bloom from his blade.
-
-[^1]: Mencius was an ancient Chinese philosopher whose teachings became part of the Confucian tradition.
-[^2]: A sweet made by coating skewered hawthorn fruit in hardened sugar.
