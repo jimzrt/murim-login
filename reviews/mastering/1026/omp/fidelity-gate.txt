@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is broadly faithful. Two minor wording shifts slightly alter the source’s imagery and characterization.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 141–143",
+      "current": "After all the damage we’d done, they must have wanted nothing more than to tear us apart.",
+      "defect": "The source describes the two as enemies so hated that the enemy would want to chew them to death and still not be satisfied. “Tear us apart” generalizes that vivid image and shifts the line toward what the enemy wants to do.",
+      "replacement": "After all the damage we’d done, we were the kind of enemies they’d want to chew to death and still not be satisfied.",
+      "rationale": "The Korean idiom 씹어 죽여도 시원치 않을 conveys extreme hatred through the image of chewing someone to death; the accepted baseline also retained a chewing image.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 279",
+      "current": "Not even the Sect Leader of one of the Nine Sects and One Gang, however highly he values honor.",
+      "defect": "The source describes the Sect Leader as renowned for his righteous, chivalrous spirit, not as someone who personally values honor. The English shifts the description from his character to his priorities.",
+      "replacement": "Not even the Sect Leader of one of the Nine Sects and One Gang, however renowned for his righteous spirit.",
+      "rationale": "의기로 드높은 describes someone elevated or renowned for 의기—righteous, chivalrous spirit—rather than someone who values honor.",
+      "confidence": 0.85
+    }
+  ]
+}

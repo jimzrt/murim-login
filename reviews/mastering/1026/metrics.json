@@ -1,0 +1,131 @@
+{
+  "chapter": 1026,
+  "stages": {
+    "adjudicator": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 30208,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.00659678,
+      "cost_usd": 0.00659678,
+      "elapsed_seconds": 129.469,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/1026/omp/adjudicator.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 28107,
+      "model": "gpt-6-luna",
+      "models": {
+        "openai-codex/gpt-6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 30208,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.00659678,
+          "input_tokens": 28107,
+          "model": "gpt-6-luna",
+          "output_tokens": 6968,
+          "provider": "openai-codex",
+          "reasoning_tokens": 2892,
+          "requests": 1,
+          "total_tokens": 65283
+        }
+      },
+      "output_bytes": 17316,
+      "output_tokens": 6968,
+      "packet_bytes": 103895,
+      "packet_token_estimate": 25974,
+      "provider": "openai-codex",
+      "reasoning_tokens": 2892,
+      "requested_model": "openai-codex/gpt-6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 65283,
+      "usage_source": "omp_provider_reported"
+    },
+    "fidelity_gate": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.0060673,
+      "cost_usd": 0.0060673,
+      "elapsed_seconds": 48.497,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/1026/omp/fidelity-gate.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "finding_count": 2,
+      "input_tokens": 48298,
+      "major_or_critical_count": 0,
+      "model": "gpt-6-luna",
+      "models": {
+        "openai-codex/gpt-6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.0060673,
+          "input_tokens": 48298,
+          "model": "gpt-6-luna",
+          "output_tokens": 2475,
+          "provider": "openai-codex",
+          "reasoning_tokens": 2070,
+          "requests": 1,
+          "total_tokens": 50773
+        }
+      },
+      "output_bytes": 1740,
+      "output_tokens": 2475,
+      "packet_bytes": 64375,
+      "packet_token_estimate": 16094,
+      "provider": "openai-codex",
+      "reasoning_tokens": 2070,
+      "requested_model": "openai-codex/gpt-6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 50773,
+      "usage_source": "omp_provider_reported"
+    },
+    "master": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 30336,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.0761012,
+      "cost_usd": 0.0761012,
+      "elapsed_seconds": 64.764,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/1026/omp/master.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 18032,
+      "model": "gpt-6-sol",
+      "models": {
+        "openai-codex/gpt-6-sol": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 30336,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.0761012,
+          "input_tokens": 18032,
+          "model": "gpt-6-sol",
+          "output_tokens": 3397,
+          "provider": "openai-codex",
+          "reasoning_tokens": 438,
+          "requests": 1,
+          "total_tokens": 51765
+        }
+      },
+      "output_bytes": 13050,
+      "output_tokens": 3397,
+      "packet_bytes": 71088,
+      "packet_token_estimate": 17772,
+      "provider": "openai-codex",
+      "reasoning_tokens": 438,
+      "requested_model": "openai-codex/gpt-6-sol:medium",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 51765,
+      "usage_source": "omp_provider_reported"
+    }
+  },
+  "version": 1
+}

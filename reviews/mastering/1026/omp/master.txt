@@ -14,7 +14,7 @@ I was watching the Three Elders of Tianshan ride away, going over the terms I’
 
 “You’re staying behind.”
 
-His voice was firm. He looked at me, his face set, and continued.
+He looked at me, his face set.
 
 “Not this time.”
 
@@ -34,7 +34,7 @@ A thousand people.
 
 The bastards had wagered a thousand lives without hesitation. This wasn’t some empty bluff to lure us down from the Great Snow Mountain.
 
-Even now, a long line of prisoners, looking battered and miserable, was appearing on the distant hillside, bound together.
+Even now, a long line of prisoners was appearing on the distant hillside. They were bound together, their clothes and faces showing the ordeal they’d been through.
 
 They had to be people captured at Dunhuang, or people who’d fled only to be hunted down.
 
@@ -120,7 +120,7 @@ The Black Night King, Sima Gong.
 
 “Have you made up your mind?”
 
-For a moment, I stared at Sima Gong as he got straight to the point.
+I studied him for a moment. He’d gone straight to the point.
 
 Then I answered.
 
@@ -130,7 +130,7 @@ Then I answered.
 
 “Of course.”
 
-“Be careful. If they can draw in a major piece with just a thousand prisoners, it will be the best possible outcome for them.”
+“Be careful. If a mere thousand prisoners are enough to draw in two major pieces, they couldn’t ask for a better outcome.”
 
 He was right about that.
 
@@ -138,15 +138,13 @@ As much as I hated to say it, Jeok Cheongang and I had to be Dark Heaven’s hig
 
 But…
 
-*Just a thousand, huh.*
+*“A mere thousand.”*
 
-No matter how you looked at it…
+How could he speak so lightly of so many lives?
 
-How could you talk so lightly about the immense weight of so many lives?
+And how closely did the outcome Dark Heaven wanted match the one he had in mind? How sincere was his warning?
 
-And how much did the outcome Dark Heaven wanted resemble the picture you were trying to paint? How sincere was that warning to be careful?
-
-I swallowed the words circling the tip of my tongue. Then four characters suddenly came to mind, and I blurted them out.
+I swallowed the questions on the tip of my tongue. Instead, four characters I remembered from long ago came to mind, and I said them aloud.
 
 “A large group doesn’t die easily.”[^1]
 
@@ -216,7 +214,7 @@ Step.
 
 “……!”
 
-As his son stepped forward, his footsteps ringing unusually loud, his father’s eyes sank into a deep, dark gaze.
+I saw it clearly: as the son stepped forward, his footsteps ringing strangely loud, his father’s eyes darkened.
 
 “Please give me the last place.”
 
@@ -228,11 +226,11 @@ Sama Pyo repeated himself, his voice clear enough for everyone to hear.
 
 Why?
 
-Why had it turned out this way?
+Why had he done it?
 
 I didn’t know. For the moment, all that mattered was that I was walking between Jeok Cheongang and Sama Pyo.
 
-But my patience was just a little too thin to keep the questions building inside me to myself.
+But I didn’t have quite enough patience to keep the question to myself.
 
 “Why’d you do it?”
 
@@ -256,19 +254,17 @@ Sama Pyo continued evenly.
 
 I couldn’t argue. He wasn’t speculating. He was describing what had happened moments ago.
 
-When Sama Pyo stepped forward at just the right time, the Zhongnan disciples had looked relieved and done everything they could to dissuade their Sect Leader. The leaders of the Gansu Murim forces had taken their chance, too, grabbing at Sima Gong’s sleeves.
+As soon as Sama Pyo stepped forward, the Zhongnan disciples had looked relieved and urged their Sect Leader not to go. The leaders of the Gansu forces had seized their chance too, catching hold of Sima Gong’s sleeves.
 
-If everyone left, who would be in command if something happened?
-
-What would happen to all these people?
+If they all left, who would give orders in an emergency? What would happen to the rest of us if something went wrong?
 
 Sama Pyo was both the Young Sect Leader of the Black Dragon Demon Gate and a member of the Fire Dragon Pavilion. There were grounds to object to his going, but he was qualified to volunteer. Perhaps that was why everyone had accepted the young man’s sudden offer without much fuss.
 
-While everyone had been trying to read each other’s faces, waiting to see which leader would be left holding the bag, Sama Pyo had scratched exactly the itch they all had.
+Put simply, things had fallen neatly into place. Everyone had been watching to see which side’s leader would stay behind and shoulder the burden. Sama Pyo’s offer had solved that problem for them.
 
 *Our people already knew trying to stop us wouldn’t do a damn thing.*
 
-The other Fire Dragon Pavilion members who were staying behind hadn’t tried to dissuade us either. They’d simply told us to come back safely.
+The other Fire Dragon Pavilion members hadn’t even tried to dissuade us. They’d only told us to come back safely.
 
 Anyway, everyone had gotten what they wanted.
 
@@ -298,7 +294,7 @@ Was he changing the subject, or trying to tell me something? I couldn’t tell.
 
 “My dad liked Go.”
 
-“I see. I’ve heard a little about the Strange Hero of Shanxi, your Family Head.”
+“I see. I’ve heard a little about your father, the Strange Hero of Shanxi.”
 
 “I haven’t seen him in a long time, but I still remember him clearly.”
 
@@ -340,13 +336,13 @@ That was Dad.
 
 A quiet laugh escaped me.
 
-I knew I shouldn’t laugh at a time like this, but I couldn’t hide the smile creeping onto my lips.
+Sama Pyo’s eyes widened. I knew this was no time to laugh, but I couldn’t hide the smile spreading across my face.
 
 “It’s nothing. I just… remembered something nice from a long time ago.”
 
 “A nice memory with your father.”
 
-Sama Pyo murmured as if to himself, then smiled along with me.
+Sama Pyo repeated the words to himself, then smiled too.
 
 “I see.”
 
@@ -360,7 +356,7 @@ At that moment, hoofbeats sounded.
 
 Clip-clop. Clip-clop.
 
-With the slow sound of approaching hooves, they finally appeared.
+The horse approached at a slow pace, and at last they came into view.
 
 No—not *they*.
 
