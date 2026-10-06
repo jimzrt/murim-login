@@ -362,6 +362,8 @@ His sudden seriousness caught me even more off guard.
 
 “……In any case, how dare a mere courtesan treat the Young Master—agh!”
 
+Smack!
+
 I gave him a satisfying whack on the back of the head.
 
 “She’s the Shanxi Branch Leader of the Lower District Sect.”
