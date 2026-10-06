@@ -1,41 +1,17 @@
 {
   "chapter": 489,
-  "errors": [
-    {
-      "code": "panel_heading",
-      "details": {
-        "headings": [
-          "> **Will you accept Fake Murim Martial Artist?**"
-        ]
-      },
-      "message": "a document or panel heading from the mastered chapter was removed"
-    }
-  ],
+  "errors": [],
   "metrics": {
-    "baseline_preserved": 1.0,
-    "length_ratio": 2.172,
+    "baseline_preserved": 0.995,
+    "length_ratio": 2.157,
     "source_characters": 5540,
     "source_paragraphs": 157,
-    "translation_characters": 12034,
+    "translation_characters": 11951,
     "translation_paragraphs": 160
   },
-  "passed": false,
+  "passed": true,
   "version": 1,
   "warnings": [
-    {
-      "code": "system_brackets",
-      "details": {
-        "line": 303
-      },
-      "message": "System window contains square brackets"
-    },
-    {
-      "code": "system_brackets",
-      "details": {
-        "line": 305
-      },
-      "message": "System window contains square brackets"
-    },
     {
       "code": "terminology",
       "details": {

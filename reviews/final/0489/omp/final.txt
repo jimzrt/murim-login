@@ -12,7 +12,7 @@ To a martial artist, secret martial arts were as important as life itself—no, 
 
 Even in martial arts novels, people willing to throw themselves into danger like moths to a flame just to obtain a single martial arts manual were everywhere.
 
-And after experiencing the Murim[^1] firsthand, I’d learned that reality was no different. If anything, it was worse.
+And after experiencing the Murim firsthand, I’d learned that reality was no different. If anything, it was worse.
 
 *But he’s offering to teach me his secret martial arts? An incredible master like the Slaughter Saint?*
 
@@ -60,7 +60,7 @@ A warm glow passed over Mungyeong’s face, which had previously been surrounded
 
 “Second, the person he asked is just as foul-tempered and prideful as our Old Master, so he would never willingly teach anyone his secret martial arts.”
 
-“…!”
+“…”
 
 “So, for those two reasons, I wouldn’t believe this even with a knife to my throat.”
 
@@ -100,7 +100,7 @@ Mungyeong toyed with the short sword for a moment, conflict in his eyes, then ab
 
 “Of course, even after hearing that, he would stubbornly insist that you aren’t his formal Disciple. Regardless, the Fire King cares about you. Very much.”
 
-Hmm.
+*Hmm.*
 
 I didn’t know what to say. Something tickled deep in my chest, and my throat felt tight.
 
@@ -132,7 +132,7 @@ He spoke as though it were nothing, but it couldn’t have been an easy decision
 
 Receiving what belonged to someone else was easy. Giving away what was yours was hard.
 
-If everyone who had fought in the Great Faction War had thought and acted as Mungyeong did now, half the martial artists in the world would have learned the martial arts of the Nine Sects and One Gang[^2] by now.
+If everyone who had fought in the Great Faction War had thought and acted as Mungyeong did now, half the martial artists in the world would have learned the martial arts of the Nine Sects and One Gang[^1] by now.
 
 Seeing him in that light made Mungyeong seem like a different person.
 
@@ -268,7 +268,7 @@ Mungyeong sighed and shook his head.
 
 “Ah. Right.”
 
-Come on. Even so, *someone like you*?
+*Come on. Even so, someone like you?*
 
 It stung a little, but Mungyeong’s firm declaration still put me much more at ease.
 
@@ -288,27 +288,27 @@ Thinking of Jeok Cheongang, who had disappeared without a word, I smacked my lip
 
 “From that point on, you will move solely according to my judgment. But if you complete this training, you will emerge a different martial artist than you were before.”
 
-What was this?
+*What was this?*
 
 I’d expected something along those lines, considering who I would be learning from, but a chill still crept down my spine.
 
 I swallowed dryly. Then, alongside Mungyeong’s rigid voice, a familiar chime rang in my ears.
 
-“You may have reached a considerable realm as a martial artist, but being a martial artist and being a martial artist of the Murim[^1] are not the same. You’re still only half-formed. I will make you a true Murim[^1] martial artist.”
+“You may have reached a considerable realm as a martial artist, but being a martial artist and being a martial artist of the Murim are not the same. You’re still only half-formed. I will make you a true Murim martial artist.”
 
 *Ding.*
 
 > **System**
 >
-> - Sudden Quest, **Fake Murim[^1] Martial Artist**, has been generated!
+> - Sudden Quest, **Fake Murim Martial Artist**, has been generated!
 >
-> **Will you accept Fake Murim[^1] Martial Artist?**
+> **Will you accept Fake Murim Martial Artist?**
 >
 > **Agh** / **N**
 
 “…”
 
-Why was there an *Agh* instead of a *Y* among the choices?
+*Why was there an Agh instead of a Y among the choices?*
 
 I stared incredulously at the Quest window, then muttered before I could stop myself.
 
@@ -322,7 +322,6 @@ I stared incredulously at the Quest window, then muttered before I could stop my
 
 “…Ah.”
 
-This was driving me crazy.
+*This was driving me crazy.*
 
-[^1]: *Murim* is the martial world: the society of martial artists, sects, and their rivalries.
-[^2]: The Nine Sects and One Gang are a major grouping of established martial factions in Murim.
+[^1]: The Nine Sects and One Gang are a traditional grouping of major martial-arts factions: nine sects and the Beggars’ Gang.
