@@ -2,31 +2,31 @@
 
 When two men sit around drinking, all kinds of topics are bound to come spilling out. Money, people, the future…
 
-Of all those topics, Jinho hyung’s[^1] favorite was women.
+Of all those topics, Jinho hyung’s favorite was women.
 
 Whenever he got drunk, he became the saddest man in the world and reminisced about his first love.
 
-“I first met her when I was a high school sophomore.”
+*I first met her when I was a high school sophomore.*
 
-“This guy’s drunk again.”
+*This guy’s drunk again.*
 
-“It was March, the start of a new school year, and the flowers were in full bloom. She opened the classroom door and walked in, and then…”
+*It was March, the start of a new school year, and the flowers were in full bloom. She opened the classroom door and walked in, and then…*
 
-“You must’ve been dazzled. The bells of heaven must’ve started ringing in your ears—ding, ding, ding?”
+*You must’ve been dazzled. The bells of heaven must’ve started ringing in your ears—ding, ding, ding?*
 
-“Huh? How did you know?”
+*Huh? How did you know?*
 
-“Because I’ve heard this story more than a hundred times. The bells of heaven, my ass. Go write a novel.”
+*Because I’ve heard this story more than a hundred times. The bells of heaven, my ass. Go write a novel.*
 
-“That’s because you don’t understand love, you punk. Then again, what would a lifelong single know?”
+*That’s because you don’t understand love, you punk. Then again, what would a lifelong single know?*
 
-“It’s not that I couldn’t date. I chose not to.”
+*It’s not that I couldn’t date. I chose not to.*
 
-“You lifelong-single bastards always say that. Is there some kind of guidebook? You’ve never even liked anyone, have you?”
+*You lifelong-single bastards always say that. Is there some kind of guidebook? You’ve never even liked anyone, have you?*
 
-“…I-I think I have.”
+*…I-I think I have.*
 
-“Oh, forget it. What good is telling you a hundred or a thousand times? You have to experience it yourself to understand. Pour me another drink.”
+*Oh, forget it. What good is telling you a hundred or a thousand times? You have to experience it yourself to understand. Pour me another drink.*
 
 The reason I suddenly remembered that drinking session from a few months ago was simple.
 
@@ -114,7 +114,7 @@ Miss Song—or rather, Song-i—answered calmly before slipping inside the store
 
 “Song Song…”
 
-*My God, even her name is beautiful. Charming. Dazzling.*
+My God, even her name was beautiful. Charming. Dazzling.
 
 She was my type from head to toe. I was half out of my mind at the thought that I had met my destined partner when Team Leader Choi’s voice snapped me out of it.
 
@@ -154,13 +154,15 @@ Had I really done something wrong? Just as my heart sank, Im Kkeokjeong continue
 
 “R-Really?”
 
-“Congratulations, Taekyung! Let’s eat noodles!”[^2]
+“Congratulations, Taekyung! Let's eat noodles!”[^1]
 
 “Hyung-nim!”
 
 I couldn’t contain my emotion and threw myself into Im Kkeokjeong’s arms. He laughed heartily and patted me on the back.
 
 “How many kids are you going to have? What? Two? Don’t stop there—make it three! Hahahaha!”
+
+[^1]: In Korean, “eating noodles” is a traditional expression associated with celebrating someone's wedding.
 
 * * *
 
@@ -170,7 +172,7 @@ Team Leader Choi and Butler Kim, who had been pressed right up against the door,
 
 “What do you think, Butler Kim?”
 
-“I can only admire the Young Master’s wise decision to block out the sound with a magic Item.”
+“I can only admire the Young Master's wise decision to block out the sound with a magic Item.”
 
 “Right?”
 
@@ -246,17 +248,17 @@ Song Song stopped just as she picked up the tongs and scissors.
 
 I nudged Im Kkeokjeong’s foot under the table, and he immediately provided backup.
 
-“You wouldn’t know this, Miss Song, but this guy can grill meat like nobody’s business. One time, he was working five grills at once, just—huh? And when you bite into it, the juices flood your mouth. Fireworks start going off in your head!”
+“You wouldn't know this, Miss Song, but this guy can grill meat like nobody's business. One time, he was working five grills at once, just—huh? And when you bite into it, the juices flood your mouth. Fireworks start going off in your head!”
 
 I added one more point in a dignified tone.
 
-“I’m a Taurus.”
+“I'm a Taurus.”
 
 “That’s right! A Taurus man grills meat well, and he’s pure-hearted, honest, and so steadfast…”
 
 Crack.
 
-Team Leader Choi set down the broken wooden chopsticks and muttered, “I’m sorry. I couldn’t control my strength.”
+Team Leader Choi set down the broken wooden chopsticks and muttered, “I'm sorry. I couldn't control my strength.”
 
 “Here.”
 
@@ -306,11 +308,13 @@ I hurriedly flipped the meat, but it was already too late.
 
 “No. I will.”
 
-“Come to think of it, since you’re here for the first time today, it’s only right that I grill the meat and serve you.”
+“Come to think of it, since you're here for the first time today, it's only right that I grill the meat and serve you.”
 
 My God. She wasn’t just an angel on the outside.
 
-*Oh, Miss Song. You’re an ethics textbook.*[^3]
+*Oh, Miss Song. You’re an ethics textbook.*[^2]
+
+[^2]: Taekyung substitutes “ethics textbook” into a Korean phrase meaning “what on earth are you?”
 
 I fell for her nature, gentle as silk, all over again.
 
@@ -364,7 +368,7 @@ Her answers seemed strangely short, but that had to be my imagination. I kept sh
 
 Jinho hyung had said that if you wanted someone to like you, you had to start by finding common ground. I launched into my story with enthusiasm.
 
-“We’re pretty similar. I used to work two or even three shifts in a day. One day, after I finished work and came home…”
+“We're pretty similar. I used to work two or even three shifts in a day. One day, after I finished work and came home…”
 
 “Oh, yes. But, um…”
 
@@ -374,7 +378,7 @@ Jinho hyung had said that if you wanted someone to like you, you had to start by
 
 Without realizing it, I had leaned my entire body toward Song Song.
 
-“It’s fine. I’ll just get a little burned. Hahaha!”
+“It's fine. I'll just get a little burned. Hahaha!”
 
 “You should still be careful.”
 
@@ -394,23 +398,23 @@ And then I knew for certain. She was interested in me, too.
 
 Jinho hyung’s voice reached me from somewhere, like an auditory hallucination.
 
-“Do you know what the most important virtue is when it comes to becoming a couple? Courage.”
+*Do you know what the most important virtue is when it comes to becoming a couple? Courage.*
 
-“Taekyung, remember this. A man with courage wins the beauty.”
+*Taekyung, remember this. A man with courage wins the beauty.*
 
 *Hyung, I think I finally understand. And thank you.*
 
-*That’s right. Let’s be brave.*
+*That's right. Let's be brave.*
 
 I stared at her, my heart trembling. What I was about to say was something I had never once said in all twenty-seven years of my life.
 
-“Miss Song. Starting today, you and I are on day one…”[^4]
+“Miss Song. Starting today, you and I are on day one…”
 
 At that moment, Team Leader Choi shot to his feet and shouted.
 
 “Day one! Today is Hunter Jin Taekyung’s first day as a member of our Guild family! Butler Kim?”
 
-“Yes, Young Master! The soju[^5] is ready!”
+“Yes, Young Master! The soju is ready!”
 
 The usually unhurried Butler Kim filled the shot glasses at lightning speed.
 
@@ -434,10 +438,4 @@ Song Song answered.
 
 “……”
 
-*She didn’t hear me, right? Yeah. She couldn’t have heard me.*
-
-[^1]: *Hyung* is a Korean term a man uses for an older brother or older male friend. *Hyung-nim* is a more respectful form.
-[^2]: In Korea, “eating noodles” can refer to celebrating someone’s wedding.
-[^3]: “Ethics textbook” is a Korean wordplay on a phrase meaning “what on earth are you?”
-[^4]: “Day one” refers to the first day of a romantic relationship.
-[^5]: *Soju* is a Korean distilled alcoholic drink.
+She didn’t hear me, right? Yeah. She couldn’t have heard me.
