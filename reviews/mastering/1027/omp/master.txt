@@ -90,7 +90,7 @@ Of course, by the world’s standards, the Three Elders were great fiends too. T
 
 But as Jeok Cheongang had told them to their faces half an hour ago, they were stray dogs by birth.
 
-Still, there was no comparing them to the one mad dog who stood out even among that insane cult of fanatics, a group that had stood shoulder to shoulder with the Murim world for more than a thousand years.
+Stray dogs far more vicious than the rest, with sharper, stronger teeth—but still no match for the rabid dog who had stood out even among the fanatics of the Demonic Cult. For over a thousand years, that mad cult had stood shoulder to shoulder with the rest of the martial world.
 
 Of course, its rabid dog seemed to have a new master now.
 
@@ -122,7 +122,7 @@ The Blood-Sword Demon Lord stared at him for a moment, then roared with laughter
 
 “That must have made things hard for you. Weren’t you the Heavenly Demon’s favorite guard dog, the one he kept closest?”
 
-“Sorry to disappoint you, but I didn’t have much trouble. I just killed as many as were dying.”
+“Sorry to disappoint you, but it wasn’t much trouble. I only had to kill as many of theirs as you killed of ours.”
 
 The Blood-Sword Demon Lord went on, laughter still in his voice.
 
@@ -140,7 +140,7 @@ Then one day, the Heaven-Poison Demon Lord encountered disciples of Huashan on a
 
 Someone had unleashed a brilliant purple Sword Force, radiant enough to overwhelm the sunset.
 
-“The Sword Saint—though I suppose I should call him the Alliance Leader now? In any case, I was secretly grateful to Mae Jonghak. That old Heaven-Poison always looked at me strangely. Luckily, he died before it was too late, and things worked out well.”
+“The Sword Saint—or should I call him the Alliance Leader now? In any case, I was grateful to Mae Jonghak. The way old Heaven-Poison looked at me had never sat right. Fortunately, he died before it was too late, and things worked out well.”
 
 I watched the Blood-Sword Demon Lord chatter away, plainly delighted with himself. His last remark made me frown.
 
@@ -158,9 +158,9 @@ The Blood-Sword Demon Lord’s brow furrowed.
 
 I already knew Dark Heaven had appeared before the Great Faction War ended.
 
-The Head Elder of the Jin Family of Taiyuan, Baeksang of the Nanman Beast Palace, and even the Eastern Heaven Demon Lord, who’d been the Emperor’s closest confidant…
+The Head Elder of the Jin Family of Taiyuan. Baeksang of the Nanman Beast Palace. Even the Eastern Heaven Demon Lord, who had been the Emperor’s closest confidant.
 
-If you traced things back far enough, Dark Heaven had been taking shape from the very beginning of the Great Faction War.
+Trace things back far enough, and Dark Heaven had been taking shape since the early days of the Great Faction War.
 
 No. Perhaps…
 
@@ -184,7 +184,7 @@ The snow and frost covering the ground, and the dirt and sand hidden beneath the
 
 Rustle.
 
-As the debris of nature drifted back down, the Blood-Sword Demon Lord stared at me with a cold, sunken gaze.
+As the last of it drifted down, the Blood-Sword Demon Lord stared at me with a cold, steady gaze.
 
 “You really have no manners.”
 
@@ -192,11 +192,11 @@ The smile had vanished from his lips. His voice was low.
 
 He sounded calm at first, but cold lava flowed beneath the words.
 
-“How strange. I can understand you to a point, and yet I simply can’t understand you at all. Why would that person go out of their way to…”
+“How strange. I can understand it to a point, yet I can’t make sense of it at all. Why would that person go out of his way to…”
 
 He broke off. Then his face opened into a good-natured smile.
 
-“Well, there must be a reason for everything that person does. As always. I only wanted to confirm one thing.”
+“Well, that person has a reason for everything he does. He always has. There’s only one thing I wanted to confirm.”
 
 I didn’t need to ask what.
 
@@ -222,13 +222,13 @@ The faint killing intent hidden beneath it.
 
 It happened in an instant.
 
-The order and timing of our push off the ground and our charge differed, but the desperation driving us was probably the same.
+Jeok Cheongang and I sprang forward, followed by Sama Pyo, who had stood quietly beside us until now. We pushed off the ground at different moments, but I was sure the desperation driving us was the same.
 
-Crack.
+Rrrip.
 
-Our toes gouged the earth. Sand crumbled.
+Earth tore beneath our feet. Sand crumbled.
 
-Internal energy surged from my dantian into the muscles of my tensed lower body, then exploded.
+Internal energy surged from my dantian into the muscles of my tightly coiled legs, then exploded.
 
 Boom!
 
@@ -246,19 +246,19 @@ Three voices. One shout.
 
 The Three Elders of Tianshan.
 
-The three fiends of Tianshan unleashed their pent-up fury and energy, wielding a power too great for anyone to dismiss them as mere stray dogs.
+The three fiends unleashed the fury and qi they’d been holding back—a display of power far too great to dismiss as that of mere stray dogs.
 
-A coordinated technique, honed over ages of working together, merged the three walls into one enormous barrier.
+Their coordinated technique, honed through ages of fighting together, joined the three walls into one enormous barrier.
 
 Boom!
 
 A single clash shook heaven and earth.
 
-Amid that tremendous roar and the rippling waves of power that filled a time already split into fragments, the Blood-Sword Demon Lord’s hand, raised toward the sky, finally came down.
+Amid the tremendous roar and waves of power filling that sliver of time, the Blood-Sword Demon Lord’s hand finally came down from the sky.
 
 Like countless blades waiting on a hillside for a single command.
 
-“Slash!”
+“Cut them down!”
 
 Shhk! Thk-thk-thk!
 

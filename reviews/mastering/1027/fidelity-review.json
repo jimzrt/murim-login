@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But as Jeok Cheongang had told them to their faces half an hour ago, they were stray dogs by birth.",
+      "defect": "The next source sentence, describing the Three Elders as more vicious than other dogs and having sharper, stronger teeth, is omitted. This drops the specific image that distinguishes them from ordinary strays.",
+      "id": "F01",
+      "rationale": "The Korean explicitly adds this comparison before contrasting the Three Elders with the mad dog.",
+      "replacement": "But as Jeok Cheongang had told them to their faces half an hour ago, they were stray dogs by birth—just far more vicious than other dogs, with sharper, stronger teeth.",
+      "severity": "minor",
+      "source": "Lines 101–103"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The order and timing of our push off the ground and our charge differed, but the desperation driving us was probably the same.",
+      "defect": "The assembled English omits the preceding identification of the chargers: the narrator, Jeok Cheongang, and finally Sama Pyo, who had been standing quietly. Sama Pyo appears later, but this sentence’s timing and description are lost.",
+      "id": "F02",
+      "rationale": "The source names all three as they launch and specifically notes Sama Pyo’s quiet position before the charge.",
+      "replacement": "Jeok Cheongang and I—and finally Sama Pyo, who had been standing quietly in place—",
+      "severity": "minor",
+      "source": "Line 243"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it omits a physical-detail comparison and a beat identifying Sama Pyo among those who charged. One phrase also blurs the meaning of 고수 in context.",
+  "version": 1
+}

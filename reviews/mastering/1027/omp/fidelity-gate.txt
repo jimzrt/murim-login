@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, but it omits a physical-detail comparison and a beat identifying Sama Pyo among those who charged. One phrase also blurs the meaning of 고수 in context.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 101–103",
+      "current": "But as Jeok Cheongang had told them to their faces half an hour ago, they were stray dogs by birth.",
+      "defect": "The next source sentence, describing the Three Elders as more vicious than other dogs and having sharper, stronger teeth, is omitted. This drops the specific image that distinguishes them from ordinary strays.",
+      "replacement": "But as Jeok Cheongang had told them to their faces half an hour ago, they were stray dogs by birth—just far more vicious than other dogs, with sharper, stronger teeth.",
+      "rationale": "The Korean explicitly adds this comparison before contrasting the Three Elders with the mad dog.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 243",
+      "current": "The order and timing of our push off the ground and our charge differed, but the desperation driving us was probably the same.",
+      "defect": "The assembled English omits the preceding identification of the chargers: the narrator, Jeok Cheongang, and finally Sama Pyo, who had been standing quietly. Sama Pyo appears later, but this sentence’s timing and description are lost.",
+      "replacement": "Jeok Cheongang and I—and finally Sama Pyo, who had been standing quietly in place—",
+      "rationale": "The source names all three as they launch and specifically notes Sama Pyo’s quiet position before the charge.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 161",
+      "current": "Losing a master meant losing a vital part of your fighting strength.",
+      "defect": "Here 고수 means a highly skilled martial artist, not a mentor or master in a hierarchy. “Losing a master” can suggest the wrong relationship.",
+      "replacement": "Losing a top martial artist meant losing a vital part of your fighting strength.",
+      "rationale": "The following sentence concerns the Heaven-Poison Demon Lord’s death as a loss of the Demonic Cult’s combat strength.",
+      "confidence": 0.95
+    }
+  ]
+}
