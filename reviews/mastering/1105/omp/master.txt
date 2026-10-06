@@ -18,7 +18,7 @@ Would it look like this if dozens—hundreds—of sunsets overlapped?
 
 In the slowing world, countless eyes widened at a sight none of them could describe.
 
-The soldiers on a dozen or more watchtowers, beating their assigned war drums and waving their flags with all their strength.
+The soldiers atop a dozen or more watchtowers, beating their assigned drums and waving their flags with all their strength.
 
 The people hiding in Xining’s Inner City, clutching their families and peering through cracks in the doors.
 
@@ -38,13 +38,13 @@ A roar left their ears ringing.
 
 The ground shook. The entire stone wall trembled.
 
-Then a colossal shock wave surged over the western wall and crashed down on the people frozen like statues.
+Then a tremendous blast swept over the western wall and bore down on the people standing frozen like statues.
 
 “Watch out—!”
 
 *KA-BOOOOM!*
 
-The rushing wind swallowed someone’s single shout and swept across everything.
+The wind swallowed the shout and tore across the city.
 
 The North Gate was no different.
 
@@ -102,7 +102,7 @@ His Disciple was a reckless brat who’d long since thrown manners out the windo
 
 He’d become more precious to Jeok Cheongang than anything else in the world. Jeok couldn’t leave him alone in the most dangerous place.
 
-Of course, Taekyung knew his Master far too well for Jeok Cheongang to hide that bashful concern behind roundabout words.
+Of course, Taekyung knew his Master far too well for him to hide that concern behind roundabout words.
 
 *“There you go worrying again. You don’t have to do that anymore.”*
 
@@ -124,7 +124,7 @@ Seeing his Master waver, Jin Taekyung drove in the final nail.
 
 *“No matter which gate I take, they’ll follow me. I’m their most important target. So I might as well take the West Gate—it’s the best-defended. Right?”*
 
-Every word he’d said had been right from beginning to end. In the end, Jeok Cheongang had no choice but to give in and head reluctantly to the North Gate.
+Every word he’d said made sense. In the end, Jeok Cheongang had given in and headed reluctantly to the North Gate.
 
 But—
 
@@ -140,11 +140,11 @@ The Blood Lord’s martial prowess far exceeded anything he’d imagined, and Ji
 
 The attack they had all just witnessed could only have come from someone intent on killing.
 
-So, though his body had grown young again, his heart was still that of an old man. Feeling himself grow impatient, Jeok Cheongang turned toward the west.
+Though his body had grown young again, he still had an old man’s heart. Jeok Cheongang felt panic rising as he turned toward the west.
 
 No—he was about to turn.
 
-Until the next instant, when he sensed a sharp thread of killing intent shooting like a needle from beyond the wall.
+Then a sharp thread of killing intent shot toward him like a needle from beyond the wall.
 
 “Where are you rushing off to, donor?”
 
@@ -160,7 +160,7 @@ His frame was tiny, his skin deeply wrinkled with age.
 
 But his presence was like that of a giant, and Jeok Cheongang already knew who he was.
 
-He also knew what it meant that this old monk—the Dalai Lama, Palace Lord of the Potala Palace—had appeared at the North Gate leading all those troops.
+He knew, too, what it meant that the old monk—the Dalai Lama, Palace Lord of the Potala Palace—had appeared at the North Gate with so many troops.
 
 “…You planned this. From the beginning.”
 
@@ -204,7 +204,7 @@ Eyes full of fear, resolve, or faith seemed to seize his hands and close around 
 
 Jeok Cheongang put the question to himself and squeezed his eyes shut.
 
-In that brief, profound darkness, he recalled the conversation he’d had with his Disciple the day before.
+In that brief darkness, he recalled the conversation he’d had with his Disciple the day before.
 
 *“I never wanted to be a hero.”*
 
@@ -224,7 +224,7 @@ The bright smile Taekyung had given him when he was left speechless. His playful
 
 Perhaps that was what Jeok Cheongang feared more than anything else.
 
-Perhaps the thought that he might never see that face again had come first.
+Perhaps all he could think about was the possibility that he might never see that face again.
 
 But when Jeok Cheongang had asked whether he was still afraid of the enemy, his Disciple had nodded without hesitation and added:
 
@@ -232,17 +232,17 @@ But when Jeok Cheongang had asked whether he was still afraid of the enemy, his 
 
 Calm. Resolute.
 
-And everything that had happened that day was the answer to the question Jeok Cheongang had just asked himself.
+Everything about that day gave Jeok Cheongang the answer to the question he had just asked himself.
 
 *Fwoooosh.*
 
-In an instant, tremendous heat swallowed the space.
+In an instant, tremendous heat swallowed the space around him.
 
 His eyelids rose slowly. His eyes glowed red with heat, blazing like flames.
 
 He faced the Dalai Lama and the Twelve Secret Monks flying through the air toward him.
 
-Toward the two Black Ghosts who had appeared, and the vast enemy army surging in behind them.
+The two Black Ghosts that had appeared, and the vast enemy army surging in behind them.
 
 *Grnnnnk.*
 
