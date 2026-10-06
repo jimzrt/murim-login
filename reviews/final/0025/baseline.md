@@ -24,7 +24,7 @@ Socheon explained through his sobs that he had met us on the hill and that I had
 
 *I helped you, you old man.*
 
-“I was sure I’d fallen down the mountain… I thought that was the end of me.”
+“I was sure I’d fallen to the bottom of the mountain… I thought that was the end of me.”
 
 “You nearly did. You were lucky.”
 
@@ -90,7 +90,7 @@ Whatever conspiracy lay behind it, the person who had lit the fuse on this war w
 
 “Hong Gil-dong. My name is Hong Gil-dong.”[^1]
 
-“Hong Gil-dong…[^1] I’ve never heard the name before, but it has the air of a hero.”
+“Hong Gil-dong… I’ve never heard the name before, but it has the air of a hero.”
 
 Socheon chimed in from beside him.
 
@@ -234,7 +234,7 @@ This time, he turned to the reconnaissance squad. They hadn’t even swung their
 
 “…Great Hero.”
 
-I gently pulled Socheon away and shouted, “We’re returning to the main family. Everyone, prepare to leave!”
+“We’re returning to the main family. Everyone, prepare to leave!”
 
 I hurried back toward the squad, but Socheon’s hand clutched my collar tightly and refused to let go. Tears glimmered in his round eyes.
 
@@ -270,7 +270,7 @@ Hyuk Mujin stood there panting, his furious eyes fixed squarely on me. Gong Yach
 
 “Great Hero Hong?”
 
-“Great Hero Hong Gil-dong?”[^1]
+“Great Hero Hong Gil-dong?”
 
 “Ah. Well, you see…”
 
@@ -300,7 +300,7 @@ His expression and tone were no different from usual, but they could feel in the
 
 The killing intent radiating from the Peak master left them struggling for breath, cold sweat trickling down their backs.
 
-*And no wonder.*
+And no wonder.
 
 More than twenty men had been wiped out while carrying out a simple mission to dispose of the remnants of the Sakju Branch.
 
@@ -372,7 +372,9 @@ This time, no one said a word. As his subordinates hurried to prepare as though 
 
 He was a Peak master. From the wounds on the corpses and the footprints left behind, he could reconstruct his opponent.
 
-Only one man. A highly skilled spearman had been here. He was the one who had slaughtered the other twenty-odd men.
+*Only one man.*
+
+A highly skilled spearman had been here. He was the one who had slaughtered the other twenty-odd men.
 
 *If he killed Black Mountain Blade in one strike, he must be something else.*
 
