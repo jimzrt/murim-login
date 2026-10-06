@@ -1,0 +1,291 @@
+# Chapter 1099
+
+That night was unusually long.
+
+Maybe it was because the torrential rain showed no sign of letting up. Maybe it was because the dark clouds still hadn’t budged, even after several shichen had passed.
+
+And the meeting, which had dragged on in that suffocating atmosphere, didn’t wrap up until the hour of the Rabbit.
+
+“Now, all that remains is one final battle. I ask each Great Hero here to get plenty of rest and fulfill the duties entrusted to you.”
+
+My tone was much more formal than usual.
+
+Yet among the leaders gathered here, not a single person seemed uncomfortable with my unfamiliar formality or with such a distant junior presiding over them.
+
+Anyone liable to cause even the slightest trouble had already been removed from the picture.
+
+The eminent masters and generals of Qinghai Murim treated me with respectful, resolute courtesy, then left to fulfill their respective duties.
+
+There was one exception: an old Daoist still tilting a teacup that had gone cold quite some time ago.
+
+“Nothing tastes worse than cold tea. What do you say? Want this old man to warm it up for you?”
+
+Jeok Cheongang had been on his way out, but stopped and tossed out the question. The old Daoist shook his head.
+
+“Cold things have their own flavor, just as hot things do. Besides…”
+
+The old Daoist answered in a voice as airy as drifting clouds, then smiled at me.
+
+“Must I trouble Senior for help when I could simply ask this young Fellow Daoist here?”
+
+Anyone else might have thought he was just playing with words.
+
+For Cheongheoja—the old Daoist, or rather the Sect Leader of the Kunlun Sect—warming tea with Samadhi True Fire would have been child’s play.
+
+But Cheongheoja’s answer had been a roundabout way of refusing the offer.
+
+He still had something to discuss with me alone.
+
+And Jeok Cheongang wasn’t the sort to miss that.
+
+“You’re talking like a Daoist who grabs at clouds. Do as you please.”
+
+Jeok Cheongang gave a quiet snort and finally left. Only then did Cheongheoja pick up the teapot in front of him.
+
+“Would you care for a cup, Fellow Daoist?”
+
+I didn’t know what he still wanted to say, but I had no reason—or excuse—to refuse.
+
+“I’d be grateful.”
+
+“No need to be grateful.”
+
+Cheongheoja smiled faintly as he poured. I took a polite sip, and a hard-to-describe taste and bitter aroma filled my mouth.
+
+“How is it? The tea?”
+
+“Uh, it’s cold.”
+
+“And?”
+
+“Bitter. Really bitter.”
+
+“I often drink it cold like this. I should have warmed it to suit your taste.”
+
+“Mm. It’s fine. Even warm tea doesn’t really suit my palate.”
+
+“Is that so? I put quite a bit of effort into growing these tea leaves.”
+
+“……?”
+
+Why on earth would you wait until now to tell me something that important?
+
+At my momentary dismay, Cheongheoja burst into hearty laughter.
+
+“I’m joking. It’s true that I tend my own tea garden, but why would I have brought tea leaves along in a situation this urgent?”
+
+“Oh.”
+
+Only then did I realize I’d fallen for his trick. I shook my head.
+
+Well, it made no sense to bring tea leaves along when a hundred thousand enemies were bearing down on Mount Kunlun.
+
+It wasn’t as if he were Geum Jandi, honorary Sect Leader, or anything.[^1]
+
+“You got me. I didn’t know you were like this.”
+
+“Likewise.”
+
+“Pardon?”
+
+Before I could ask what he meant, Cheongheoja smiled and continued.
+
+“You have so many sides to you, Fellow Daoist. When you uprooted the Qinghai City Lord and his faction in one stroke, you seemed like a Great General who could command the world. At times, you seem like an immature hero who leaves everything to his emotions. And yet, in the end, you have the bearing of a grand master whom everyone cannot help but follow.”
+
+Hmm.
+
+What was I supposed to say to that?
+
+Flustered by Cheongheoja’s sudden praise, I scratched my chin for no reason.
+
+“You’re too kind.”
+
+“No one would think so. At least, no one who’s ever met ‘that person.’”
+
+That person.
+
+As I realized who those two words, filled with the deepest reverence, referred to, Cheongheoja slowly parted his lips.
+
+“The Martial God. The greatest grand master in all of history. Though his whereabouts have long been unknown…”
+
+He paused.
+
+“I sensed his presence in you, Fellow Daoist.”
+
+A thought suddenly occurred to me.
+
+Maybe Cheongheoja’s words came close to a certain truth that was growing clearer in my mind.
+
+A boundary-crosser who had traveled between the modern world and Murim before me.
+
+A Player who’d roamed this world—which truly existed somewhere in the endless dimensions—as if it were a game.
+
+Maybe that was why, in that moment, a tiny murmur slipped from my lips before I could stop it.
+
+“…Maybe.”
+
+“Hmm?”
+
+“No, nothing. I just meant I wanted to become like him.”
+
+It was a pretty flimsy excuse, even to me, but Cheongheoja didn’t seem to give my earlier words much thought.
+
+That was understandable. My voice had been very quiet, and unlike the Martial God, whose very existence was a mystery, my origins were clear.
+
+“I see. I believe you could.”
+
+Cheongheoja nodded without a hint of suspicion, took another sip of tea, then added:
+
+“Unlike a certain Daoist who never even reached his feet, despite devoting his whole life to it.”
+
+As the Kunlun Sect Leader, and as a Daoist in his own right, he had lived a life of great renown. Yet his self-deprecating voice carried an unfathomable regret.
+
+“The Martial God was a truly great man. Everyone under heaven trusted and followed him, even though he always concealed his appearance with the disguise technique and never properly revealed his true identity.”
+
+Cheongheoja wasn’t putting himself down by comparing his skill or great achievements to the Martial God’s.
+
+He was talking about character, tolerance, and leadership.
+
+And this whole conversation was drawing nearer to the real reason he’d wanted to speak with me.
+
+“Of course, he wasn’t flawless. Dark Heaven’s schemes had already taken root out of sight, long ago.”
+
+“If he’d still been around, do you think this situation would never have happened?”
+
+“Of course. Though I lack the gift for reading the heavens that Master Hong Dao possessed before he entered Nirvana, I’m certain that if the Martial God had still been around and strong, they would have made a different choice.”
+
+Cheongheoja answered firmly, then sighed.
+
+“But I could never become like him. Even after the age of turmoil that drenched the world in blood had ended and peace had arrived, I couldn’t properly lead even my own sect, let alone all under heaven.”
+
+Without meaning to, I furrowed my brow.
+
+*Don’t tell me…*
+
+My instincts whispered that what came next wasn’t going to be trivial.
+
+Maybe this story would turn out to be a crucial part of the battle ahead.
+
+Cheongheoja noticed my expression change. He stroked his teacup with a bitter look.
+
+“Until now… I didn’t mind that the tea was as cold as ice. I thought that as long as I could swallow it, as long as I could embrace it that way, that was enough.”
+
+Until now, he’d said.
+
+Definitely.
+
+“I take it you mean that’s no longer the case.”
+
+“That’s right. It wouldn’t matter if this old man alone suffered from cold illness. But surely I can’t let hundreds of thousands of people get stomachaches?”
+
+“Hundreds of thousands…?”
+
+At those words, I finally understood for certain.
+
+There was a traitor right here inside Xining.
+
+And deep, deep inside our ranks—close at hand—lurked Dark Heaven’s hidden sword.
+
+Along with that realization, Cheongheoja’s low voice pierced my ears.
+
+Now I understood why he’d wanted to be alone with me.
+
+Why he’d looked so pained and self-deprecating.
+
+“It’s my fault. I didn’t teach that child properly.”
+
+“……!”
+
+Leaving me staring wide-eyed, the old Daoist with a hopeless Disciple silently lifted his teacup to his lips.
+
+By then, it had been heated until hot with Samadhi True Fire.
+
+*Fwoosh.*
+
+Warmth spread, steam curled from the tea, and Cheongheoja drank it slowly. Then he spoke in a voice heavier than ever.
+
+“I have a favor to ask.”
+
+At that moment—
+
+*Ding.*
+
+A System alert rang in my ears, and a translucent holographic window appeared before my eyes.
+
+And then… a day passed.
+
+* * *
+
+The air in Xining was heavier and colder than ever.
+
+Just a few days ago, the townspeople had welcomed the newly arrived reinforcements with smiles. Now their faces were as dark as the sky overhead, as though they vaguely sensed the future awaiting them.
+
+Destruction and death.
+
+The erasure of every living thing that would come at the end.
+
+But who was it that said it?
+
+That humans were creatures of hope.
+
+That they were at their strongest when something was being taken from them—stronger than when they were trying to take something from someone else.
+
+And so, they had not fallen into the depths of complete despair.
+
+Here and now.
+
+With the last sliver of hope and yearning in their hearts, they looked toward the saviors who would light up the darkness settling all around them.
+
+*Splash. Splash.*
+
+Each time the steps of dozens of people fell together, the rainwater—which had risen to their calves in the downpour—splashed beneath their feet.
+
+Even now, rain fell in thick sheets, enough to obscure their vision. But the countless townspeople filling the main road made way, scarcely daring to breathe.
+
+*Whoooosh.*
+
+The human tide slowly parted amid the clamor of the rain.
+
+At its head, cutting through the countless people gathered around him, strode a man without hesitation.
+
+A young giant who had already carved his name into the memories of all the people under heaven and the martial artists of Murim.
+
+*Jin Taekyung.*
+
+By now, everyone knew him.
+
+Some might remember that young man as the Marquis of Shangshan; others, by his sobriquet, the Blazing Flame Divine Dragon.
+
+But no matter how anyone chose to regard him, one fact would never change.
+
+Today’s battle—
+
+And the name Jin Taekyung—
+
+Would become part of the long sweep of history.
+
+Even if it ended in a hollow, miserable death.
+
+“Fuck, did a hole open up in the sky or something?”
+
+The young giant muttered a thick curse in a voice barely loud enough to hear, one that would have shocked anyone who’d overheard it. He lifted his head, and the sky at the end of his gaze was dark.
+
+*Dark as fucking hell.*
+
+“Exactly the kind of weather that makes you not want to die.”
+
+With a snort of laughter, Jin Taekyung watched the shapes slowly approaching through the distant curtain of rain.
+
+An enemy force, horrifyingly vast.
+
+And at that moment—
+
+*Wooooong.*
+
+The opening shot of the battle—one that would decide the fate of Qinghai, or perhaps all under heaven—cut through the air.
+
+*Shhheeeek!*
+
+In the form of hundreds of ice spikes.
+
+[^1]: Geum Jandi is the heroine of *Boys Over Flowers*. The joke refers to her namesake, the Golden Grass.

@@ -168,9 +168,7 @@ There was a traitor inside Xining.
 
 Dark Heaven had hidden a sword deep within our ranks—close to us.
 
-Along with that realization, Cheongheoja’s low voice pierced my ears.
-
-Now I understood why he’d wanted to be alone with me.
+Then Cheongheoja spoke softly, and I understood why he’d wanted to be alone with me. Why he’d looked so pained and spoken of himself with such regret.
 
 “It’s my fault. I failed to teach that child properly.”
 
@@ -202,13 +200,13 @@ Only a few days ago, the townspeople had smiled as they welcomed the newly arriv
 
 Destruction and death.
 
-The erasure of every living thing that would come at the end.
+And beyond that, the erasure of every living thing.
 
 But who was it that said humans were creatures of hope? That they found their greatest strength when something was being taken from them, not when they sought to take from others?
 
 And so they had not fallen into utter despair.
 
-With the last sliver of hope and yearning in their hearts, they looked toward the saviors who would light up the darkness settling all around them.
+Here and now, with their last thread of hope and longing, they watched the saviors who might light the darkness settling all around them.
 
 *Splash. Splash.*
 
@@ -216,7 +214,7 @@ Dozens of people marched in step, sending up splashes from rainwater that had ri
 
 The rain was still falling so hard it obscured their vision. Yet the countless townspeople filling the main road made way for them, scarcely daring to breathe.
 
-*Whoooosh.*
+*Shhhhh.*
 
 Amid the clamor of the rain, the human tide slowly parted.
 
@@ -242,7 +240,7 @@ The young giant muttered the coarse curse almost too quietly to hear. Anyone who
 
 The sky was dark.
 
-*Dark as fucking hell.*
+Dark as hell.
 
 “Just the kind of weather I don’t want to die in.”
 
@@ -260,4 +258,4 @@ The opening shot of a battle that would decide the fate of Qinghai—perhaps of 
 
 Hundreds of ice spikes.
 
-[^1]: Geum Jandi is the heroine of *Boys Over Flowers*. The joke refers to her namesake, the Golden Grass.
+[^1]: Geum Jandi is the heroine of *Boys Over Flowers*. Her name literally means “golden grass.”
