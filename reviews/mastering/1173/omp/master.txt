@@ -18,13 +18,13 @@ A blaring siren swept over the city—no, over the entire world.
 
 It spread faster than the magical power rising from the frozen lands of the Far East could stain the sky, with an urgency beyond comparison.
 
-Naturally, every available person and resource was thrown into action without restraint.
+Every available person and resource was mobilized.
 
-Governments declared martial law and deployed the military to evacuate their citizens to safe zones. The whole process moved swiftly and efficiently.
+Governments declared martial law and deployed their militaries to evacuate citizens to safe zones. The process was swift and orderly.
 
 For better or worse, the fear that had gripped people since Morgoth’s appearance meant they had either evacuated already or were ready to leave at a moment’s notice.
 
-But even those still beneath the blue sky faced no less danger.
+But those still beneath the blue sky faced no less danger.
 
 —Monster Wave detected 3.2 kilometers away to the east and west!
 
@@ -110,7 +110,7 @@ The young man blinked, then answered in a voice much calmer than before, though 
 
 “Well, I’d understand if you did. Everyone’s nervous at first. You can’t help being on edge.”
 
-The middle-aged man patted the young man’s shoulder encouragingly and laughed out loud.
+The middle-aged man gave his shoulder an encouraging pat and laughed.
 
 It was such a warm laugh that it was hard to believe it came from a man whose face could make even a hardened criminal back down.
 
@@ -156,9 +156,9 @@ Two days ago, when they’d first met, hundreds of rookies fresh out of the regi
 
 They wanted a team with a better chance of survival.
 
-Not to earn more money like before, but to protect the one thing they couldn’t trade for anything: their lives.
+Not to earn more money, as they once might have, but to protect the one thing they couldn’t trade for anything: their lives.
 
-And of all those rookies, the young man had been the only one who wasn’t there.
+And of all those rookies, the young man had been the only one who’d left the room.
 
 “Where were you then?”
 
@@ -274,13 +274,13 @@ Two days was hardly any time at all, but it had been more than enough to see tha
 
 “Yes. You have character, skill, and you work hard. I even saw a news article about you once. I remember the headline: *From F-rank to B-rank: One Hunter’s Extraordinary Ups and Downs.*”
 
-The young man had dredged up an embarrassing chapter of his life that the middle-aged man would rather forget. Laughter broke out around them, and the middle-aged man scratched his bushy beard, his face turning red.
+The young man had dredged up an embarrassing chapter of his life that the middle-aged man would rather forget. Laughter broke out around them, and he scratched his bushy beard, his face turning red.
 
 He was just about to stammer out a reply when his expression hardened.
 
 *Rrrrrumble.*
 
-The vibrations were stronger than they’d been ten minutes ago. Now they weren’t just coming up through the soles of their feet; they were shaking their whole bodies.
+The vibrations were stronger than they’d been ten minutes ago. Now he felt them not just through the soles of his feet, but through his entire body.
 
 *It’s coming.*
 

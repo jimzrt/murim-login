@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "They learned to use fire and shape stone",
+      "defect": "The source specifically describes carving or chipping stone (돌을 깎으며); “shape stone” generalizes away that physical image.",
+      "id": "F01",
+      "rationale": "The Korean verb 깎다 describes cutting or carving material, not merely shaping it. Restoring the specific action also matches the accepted baseline.",
+      "replacement": "They learned to use fire and chip away at stone",
+      "severity": "minor",
+      "source": "Line 13; P6"
+    },
+    {
+      "confidence": 0.88,
+      "current": "*From F-rank to B-rank: One Hunter’s Extraordinary Ups and Downs.*",
+      "defect": "The headline drops the comparison in 누구보다 가팔랐던: this Hunter’s life had steeper ups and downs than anyone else’s.",
+      "id": "F02",
+      "rationale": "The Korean headline explicitly compares the steepness of this Hunter’s life trajectory with everyone else’s; “One Hunter’s Extraordinary Ups and Downs” does not preserve that comparison.",
+      "replacement": "*From F-rank to B-rank: The Steepest Ups and Downs of Any Hunter.*",
+      "severity": "minor",
+      "source": "Line 287; P138"
+    }
+  ],
+  "summary": "The translation is faithful overall, with two minor losses of source-specific detail: the stone-working image and the headline’s comparison to other Hunters.",
+  "version": 1
+}
