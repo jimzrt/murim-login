@@ -8,7 +8,7 @@ Just like the beam flying toward Jin Taekyung now, filling his vision with white
 
 Whoooooosh!
 
-As the flash swelled, Jin Taekyung’s gaze sank low.
+As the flash swelled, Jin Taekyung’s gaze grew intent.
 
 He cleared every stray thought and question from his mind.
 
@@ -18,7 +18,7 @@ The beam had split into dozens, and each one writhed as if alive, aiming for a v
 
 *It’s no feint.*
 
-Every one of those solid beams held terrifying destructive power unlike anything he’d ever experienced.
+He could feel it instinctively. Every one of those solid beams held destructive power unlike anything he’d ever encountered.
 
 But Jin Taekyung chose to advance, not retreat.
 
@@ -44,13 +44,13 @@ KWA-BOOM!
 
 If a hell of boiling sulfurous fire existed, would it look like this?
 
-Nor did his hands as he brought them together to meet the spearhead amid that life-or-death crisis.
+Yet the old man’s calm eyes didn’t waver before the terrible, lava-like heat. Neither did his hands as he brought them together to meet the spearhead.
 
 Crack!
 
-For an instant, Jin Taekyung’s eyes flew wide.
+Jin Taekyung’s eyes flew wide.
 
-The trembling spearhead was reflected in Jin Taekyung’s eyes between the old man’s palms, pressed together as if in prayer.
+The spearhead trembled between the old man’s palms, pressed together as if in prayer.
 
 “…How?”
 
@@ -62,11 +62,11 @@ The old man, who had blown away every flame coming at him simply by bringing his
 
 “…!”
 
-“Anyway, try something hotter this time. This is making me pleasantly drowsy. Not bad.”
+“Anyway, try something hotter this time. I haven’t felt this pleasantly drowsy in a while. It’s quite nice.”
 
 Jin Taekyung felt his vision swim.
 
-The old man was already a madman for stopping his full-power strike with Empty-Hand Seizes the Blade. And now he was treating several jiazi of Scorching Yang Qi—hot enough to melt steel—as if it were hot spring water.
+Stopping his full-power strike with Empty-Hand Seizes the Blade was mad enough. Now the old man was treating several jiazi of Scorching Yang Qi—hot enough to melt steel—like hot spring water.
 
 *What kind of old man is this?*
 
@@ -108,13 +108,13 @@ More precisely, the old man didn’t give him any.
 
 Whoosh!
 
-The energy wave was so terrifying it made him forget even the pain. Jin Taekyung rolled to the side without time to think.
+An immense force descended toward the top of his head with a heavy rush of air. Its pressure made him forget the pain. Jin Taekyung rolled to the side without a moment to think.
 
 KWA-BOOM!
 
 A roar like the sky splitting apart shook the space, followed by a shock wave that swept in every direction.
 
-Jin Taekyung felt himself thrown far away, as if weightless. Behind him, the old man appeared, having crossed more than ten jang in an instant.
+The impact flung Jin Taekyung far away. Behind him, the old man appeared, having crossed more than ten jang in an instant.
 
 “Good judgment. If you hadn’t used Narye tagon, it would’ve ended there.”
 
@@ -172,7 +172,7 @@ He was moving faster than sound, slipping into Jin Taekyung’s blind spot.
 
 BOOM!
 
-Jin Taekyung twisted like lightning. A powerful palm strike slammed through the air where his head had been a moment earlier.
+Jin Taekyung twisted aside like lightning. A fierce blast of Palm Force struck the empty air where his head had been a moment earlier.
 
 “Much better.”
 
@@ -192,7 +192,7 @@ He hadn’t been strong enough to protect everyone. The guilt and anxiety had br
 
 He had wavered like a candle in the wind, then guttered out.
 
-“But that is greed. Humans cannot become perfect.”
+“But wanting more is only natural. No human being can be perfect.”
 
 Jin Taekyung knew that, too.
 
@@ -210,7 +210,7 @@ A foot that snapped like a whip, a hand slicing diagonally downward, a palm exte
 
 There was no fierce killing intent in any of those moves, yet each brimmed with enough qi to seemingly obliterate not just his body, but his soul.
 
-“Who knows? Perhaps entering perfect rest just like this would be a good thing for you.”
+“Who knows? Perhaps it would be better for you to enter perfect rest right here.”
 
 At those words, Jin Taekyung’s retreating steps stopped as though nailed to the ground.
 
@@ -230,7 +230,7 @@ The question came through clenched teeth. The old man answered calmly.
 
 “Good. You seem to know already. There’s no time left, so let’s settle this now.”
 
-Just as Jin Taekyung was about to ask what he meant, the old man’s fist gathered more force and shoved him away.
+Jin Taekyung was about to demand an explanation when the old man put more force behind his fist and drove him away.
 
 KWA-BOOM!
 
@@ -250,37 +250,37 @@ Jin Taekyung could no longer ask what that meant.
 
 He couldn’t even bring himself to open his eyes. If he lost his tenuous hold on this new sensation for even an instant, or let the slightest stray thought intrude, he felt certain his body would be cut to pieces.
 
-And that judgment was right.
+He was right.
 
 Gooooong.
 
 The gray-white space trembled as the old man slowly raised both hands.
 
-At the same time, a faint beam of light flowed into some corner of Jin Taekyung’s pitch-black vision.
+At the same time, a faint beam of light entered the blackness of Jin Taekyung’s vision.
 
 *What is this?*
 
 A sensation he had never felt before.
 
-Or rather, it had come to him only very rarely after he combined three forms of internal energy, lingering briefly before fading.
+No. It had come to him on rare occasions after he combined three forms of internal energy, lingered briefly, then faded.
 
 Reason had no place in it. It belonged to instinct.
 
 It was a realm where the body moved before the mind gave an order—no, somewhere beyond even that.
 
-It was taking hold of Jin Taekyung’s mind, touching on the sixth sense.
+This sensation, brushing against a sixth sense, filled Jin Taekyung’s mind.
 
-At last, he stared straight at the invisible sword slashing down from the old man’s fingertips.
+He looked straight at the formless sword as it swept down from the old man’s fingertips.
 
 Sssshing!
 
-At the instant a sound like the whole world splitting apart rang out—
+A cutting sound rang out, as though the whole world were splitting apart.
 
 Whoooosh.
 
 Jin Taekyung saw it.
 
-A single beam of light, brightening his vision as dark as the deep night.
+A single beam of light illuminating his vision, dark as the depths of night.
 
 And, as if entranced, he stepped forward.
 

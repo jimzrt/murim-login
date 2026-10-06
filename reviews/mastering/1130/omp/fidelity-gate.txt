@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled translation is broadly faithful, but it drops several source-established sensory and physical details preserved in the accepted baseline.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 23–25",
+      "current": "Every one of those solid beams held terrifying destructive power unlike anything he’d ever experienced.",
+      "defect": "The source explicitly says Taekyung instinctively sensed the beams’ destructive power. That perception is omitted.",
+      "replacement": "He sensed instinctively that every one of those solid beams held terrifying destructive power unlike anything he’d ever experienced.",
+      "rationale": "The Korean states that he could feel this instinctively before describing the destructive power; the accepted baseline also preserves that beat.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 55",
+      "current": "Nor did his hands as he brought them together to meet the spearhead amid that life-or-death crisis.",
+      "defect": "The old man’s calm, unwavering eyes in the face of the lava-like heat are omitted.",
+      "replacement": "Yet even before that awful, lava-like heat, the old man’s calm eyes didn’t waver in the slightest. Nor did his hands as he brought them together to meet the spearhead amid that life-or-death crisis.",
+      "rationale": "The source explicitly contrasts the terrible heat with the old man’s completely steady gaze, then says his hands are equally unshaken. The accepted baseline retains both details.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 125–127",
+      "current": "The energy wave was so terrifying it made him forget even the pain. Jin Taekyung rolled to the side without time to think.",
+      "defect": "The description omits the heavy rush of air and the force descending toward the crown of his head.",
+      "replacement": "A massive force descended toward his crown with a heavy rush of air. The energy wave was so terrifying it made him forget even the pain. Jin Taekyung rolled to the side without time to think.",
+      "rationale": "The source describes the attack’s direction and accompanying sound before explaining that its force leaves him no time to think. Those physical details are present in the accepted baseline but absent here.",
+      "confidence": 0.99
+    }
+  ]
+}
