@@ -4,7 +4,7 @@ Looking back over the whole of human history, sieges had always overwhelmingly f
 
 If you wanted to take what belonged to someone else, you had to pay a fitting price.
 
-An attacking force needed at least three times as many soldiers to capture an ordinary castle or fortress. And even with more than that, the chances of losing a siege were still considerable.
+An attacking force needed at least three times as many soldiers to capture an ordinary castle or fortress. Even then, it could still lose.
 
 To some people, though, that was nothing but old, rusted history.
 
@@ -20,7 +20,7 @@ They would use the corpses of humans and monsters as footholds to scale that tow
 
 They would write a new history of their own.
 
-*The vanguard was annihilated faster than I expected…but it doesn’t matter. As long as we take Xining and cut that bastard’s throat.*
+*The vanguard fell faster than I expected…but it doesn’t matter. As long as we take Xining and cut that bastard’s throat.*
 
 Jin Taekyung, defending the West Gate, hadn’t been the only one to stop the vanguard.
 
@@ -36,7 +36,7 @@ They would have been powerful assets in a battle on open ground, but the best us
 
 Though he had lost nearly half the monsters, the Blood Lord was certain he’d made the right choice.
 
-If he had sent ordinary followers—mere humans—out in front, they would have lost not thousands but tens of thousands before they could begin a proper siege like this.
+If he had sent ordinary followers—mere humans—out in front, he would have lost not thousands but tens of thousands before he could begin a proper assault on the walls.
 
 “What about the mages? Are they all in their assigned positions?”
 
@@ -56,11 +56,11 @@ No fewer than eight Supreme Peak masters.
 
 One of them, the fool they called Great Sir, seemed so far gone that it was hard to imagine he could even function. But so many powerful fighters had rarely gathered in one place, even during the countless battles of the Great Faction War.
 
-No—for that matter, the total number of troops assembled on this battlefield might be unprecedented in the history of Murim.
+No—considering the total number of troops assembled here, this battle might be unprecedented in the history of Murim.
 
 That was why the Blood Lord couldn’t allow even the slightest variable.
 
-Especially not the one person who had created more variables than anyone else, time and again.
+Least of all the one man who had caused more upheaval than anyone else, time and again.
 
 *Jin Taekyung.*
 
@@ -74,7 +74,7 @@ He saw the fountains of blood erupting ceaselessly around him, too.
 
 With every flash, another life flickered out.
 
-His movements had reached an astonishing realm: simple, swift, and utterly overwhelming.
+Having already reached such a lofty realm, Taekyung’s movements were simple, swift, and overwhelming.
 
 And yet—
 
@@ -88,7 +88,7 @@ But everything had its limits.
 
 *In the end, he’ll grow tired. Jin Taekyung, the Fire King, and all the other old men.*
 
-Unless the Blood Lord gave the order, the wheels of this enormous war of attrition, turning on the back of overwhelming numbers and strength, would never stop.
+Unless the Blood Lord gave the order, this vast wheel of rotating attacks, driven by overwhelming numbers and strength, would never stop.
 
 Not until the eight Supreme Peak masters—the defenders’ heads and hearts—were exhausted.
 
@@ -182,11 +182,11 @@ The moment of revenge he had waited so long for had finally arrived. Slowly, he 
 
 “I have waited my whole life for this moment alone.”
 
-The Dalai Lama pressed his palms together with heartfelt sincerity, then leaped atop a massive elephant.
+The Dalai Lama pressed his palms together in heartfelt prayer, then leaped atop a massive elephant.
 
 “Come. The time has come to avenge our ancestors.”
 
-His quiet voice, infused with internal energy, carried on without end.
+His quiet voice, infused with internal energy, carried far and wide.
 
 The Twelve Secret Monks, including two Supreme Peak masters, and the Potala Palace’s ten thousand monks answered with a roar loud enough to make their ears ring.
 
@@ -198,17 +198,17 @@ The great army of Xizang’s Murim, now a single religious state, charged throug
 
 To trample the descendants of the Fire Gate Clan, sworn enemies with whom they could never share the same sky.
 
-To offer the head of Jeok Cheongang, the current Sect Leader of the Fire Gate Clan and heir to that accursed lineage, before the spirits of their ancestors.
+To offer the head of the Fire King Jeok Cheongang, the current Sect Leader who carried on that accursed lineage, before the spirits of their ancestors.
 
 As the Dalai Lama’s forces receded into the distance, the Grand Mage’s voice reached the Blood Lord.
 
 “Does that leave only the East Gate?”
 
-“I’ll send two Black Ghosts to the East Gate.”
+“I’ll send two Black Ghosts there.”
 
 “Two? An awkward number. The Slaughter Saint might even take them down.”
 
-“But that won’t happen. I’ll order them to avoid a direct fight with the Slaughter Saint as much as possible and stick to a cautious attack.”
+“But he won’t. I’ll order them to avoid a direct fight with him as much as possible and keep their attacks cautious.”
 
 “I take back what I said about the number being awkward.”
 
@@ -218,7 +218,7 @@ The Grand Mage’s lips curved softly beneath her veil.
 
 The Blood Lord gave a faint smile to match hers.
 
-“And that will keep them from suspecting us.”
+“And it will keep them from suspecting anything.”
 
 If Dark Heaven sent no significant force to the East Gate, that alone would arouse suspicion.
 

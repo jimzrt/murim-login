@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "could recover from almost any wound",
+      "defect": "The source describes the Black Ghosts as having recovery so powerful it is nearly immortal. It does not specify that they can recover from almost any wound; that wording adds a claim about the range of injuries they can recover from.",
+      "id": "F01",
+      "rationale": "The Korean says 불사에 가까운 회복력, meaning recovery close to immortality, without specifying particular wounds.",
+      "replacement": "had near-immortal recovery",
+      "severity": "minor",
+      "source": "Korean lines 152–156; assembled English [P76]"
+    }
+  ],
+  "summary": "The chapter is largely faithful; one phrase adds a more specific recovery claim than the Korean establishes.",
+  "version": 1
+}
