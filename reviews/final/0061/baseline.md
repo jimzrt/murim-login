@@ -16,11 +16,11 @@ A true life-or-death moment.
 
 Fwoooosh.
 
-The one jiazi[^1] of internal energy coiled in the Head Elder’s dantian spread through every limb and bone. It poured vitality into his aging muscles and woke his blood vessels. The change did not stop there.
+The one jiazi of internal energy coiled in the Head Elder’s dantian spread through every limb and bone. It poured vitality into his aging muscles and woke his blood vessels. The change did not stop there.
 
 Tssssss.
 
-The Sword Energy that had extended nearly a foot[^2] compressed to half its length.
+The Sword Energy that had extended nearly a foot compressed to half its length.
 
 But this was not a loss of power. It was a concentration of it.
 
@@ -166,7 +166,7 @@ The Head Elder gave a dry little laugh.
 
 “The Great Faction War.”
 
-“Have you heard of the Hundred Thousand Demonic Disciples? They came in endless waves. The Murim Alliance was formed, but it was little more than a coalition of the Nine Sects and One Gang, each too busy defending its own territory.”
+“Have you heard of the Hundred Thousand of the Demonic Path? They came in endless waves. The Murim Alliance was formed, but it was little more than a coalition of the Nine Sects and One Gang, each too busy defending its own territory.”
 
 That was also when the Head Elder had begun making a real name for himself.
 
@@ -264,9 +264,9 @@ I picked at my ear and continued.
 
 This had happened a full forty years ago. Even counting the Head Elder’s age, he had waited half his life.
 
-“How many of the people who stabbed you in the back are even still alive? There’s being late, and then there’s this. And please, I’m begging you—don’t give me that bullshit about a junzi[^3] waiting ten years to take revenge.”
+“How many of the people who stabbed you in the back are even still alive? There’s being late, and then there’s this. And please, I’m begging you—don’t give me that bullshit about a junzi waiting ten years to take revenge.”
 
-If waiting ten years made you a junzi[^3], did waiting forty make the Head Elder Jesus?
+If waiting ten years made you a junzi, did waiting forty make the Head Elder Jesus?
 
 This was nothing more than a crazy old man trying to justify himself.
 
@@ -422,7 +422,7 @@ Jin Wikyung lunged to stop the Head Elder.
 
 But the Head Elder had already vanished from where he stood.
 
-In a single step he compressed fifty feet[^4] and brought his sword down on me.
+In a single step he compressed fifty feet and brought his sword down on me.
 
 Whoooong.
 
@@ -445,8 +445,3 @@ It was a final struggle, and a show of respect for the life I had lived so fierc
 Shiiiiiiing!
 
 My final strike, carrying every last bit of strength I had, shot forward.
-
-[^1]: A *jiazi* is a traditional sixty-year cycle.
-[^2]: The source measures this length as nearly one *ja*, a Korean unit equal to about 30.3 cm (11.9 in).
-[^3]: A *junzi* is the Confucian ideal of a morally upright gentleman.
-[^4]: The source measures this distance as five *jang*, about 15.15 m (49.7 ft).
