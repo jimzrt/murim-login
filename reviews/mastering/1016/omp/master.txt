@@ -16,17 +16,17 @@ Wasn’t that the sort of thing you’d say only to someone you were at least fl
 
 Of course, I wasn’t delusional enough to get the wrong idea over a single missive.
 
-I’d known for a long time that Wolhwa’s interest in me was limited to her being a member of the Lower District Sect. It had absolutely nothing to do with romantic feelings.
+I’d known for a long time that Wolhwa’s interest in me went no further than her duties as a Lower District Sect member. It had absolutely nothing to do with romance.
 
 But…
 
-*The problem is that Young Lady Ju might misunderstand—not me.*
+*The problem is that Young Lady Ju might get the wrong idea.*
 
 I muttered to myself and put the crumpled missive back in my Inventory.
 
 It bothered me a little, but there was nothing I could do about it for now. Time would sort it out eventually, and far more important problems stood in my way.
 
-And at this very moment—
+And at that very moment—
 
 *Whoosh.*
 
@@ -42,9 +42,9 @@ That was my first impression of the Qilian Mountains.
 
 “I’d only heard about them. But seeing them for real… wow.”
 
-Hyuk Mujin murmured, sounding dazed.
+Hyuk Mujin sounded dazed.
 
-But he wasn’t the only one. Everyone was staring in wonder, myself included.
+And he wasn’t the only one. Everyone was staring, myself included.
 
 Sheer cliffs lined a mountain range that stretched on without end like the body of a dragon. Between them, peaks pierced the clouds, rising so high they seemed to hold up the sky.
 
@@ -70,7 +70,7 @@ The range stretched for thousands of *li*, beginning in southwestern Gansu and r
 
 Especially if the big fish we were trying to catch was Dark Heaven.
 
-So, as soon as we entered the Qilian Mountains—which were already surrounded by the Gansu martial artists’ tight defenses—the leaders gathered in one place to discuss this problem first.
+So, as soon as we entered the Qilian Mountains, where Gansu’s martial artists were already keeping a tight watch, the leaders gathered to discuss the problem.
 
 Or, more precisely, Jeok Cheongang and I did.
 
@@ -92,7 +92,7 @@ The Black Night King, Sima Gong, answered with a gentle smile.
 
 Jeok Cheongang repeated Sima Gong’s words softly, as if turning them over, then spoke in an even voice.
 
-“That sounds like you’re telling me to shut up if I don’t know enough.”
+“Sounds like you’re telling me to shut up if I don’t know the place.”
 
 “How could we dare show such disrespect to you, Senior Jeok, of all people? Please take back your words.”
 
@@ -104,7 +104,7 @@ After Sima Gong’s smooth apology, the Sect Leaders and Family Heads of Gansu M
 
 Like lackeys following their boss.
 
-And that was when, as I silently watched the scene before me, I noticed the only one among them sitting with his back straight.
+And that was when I noticed someone among them who alone remained sitting straight-backed as I watched the scene in silence.
 
 *Sama Pyo.*
 
@@ -142,9 +142,9 @@ Well, we were all in the same boat now. He’d understand.
 
 Or not.
 
-“You—no, you…”
+“You—no, young man…”
 
-Maybe the cheek of a young punk talking back had made his blood boil. The Roaring Fury Swordsman glanced at Jeok Cheongang, and seemed to be starting to hyperventilate. Someone else stepped in for him.
+The cheek of a young punk talking back seemed to have made his blood boil. As the Roaring Fury Swordsman glanced at Jeok Cheongang and began to hyperventilate, someone else stepped in.
 
 “Stick together and live, scatter and die. True enough. But not in a situation like this.”
 
@@ -160,7 +160,7 @@ The Taeeul Merciless Sword frowned.
 
 “You seem to have forgotten what monstrous dark arts they wield.”
 
-Nobody here failed to understand what the Taeeul Merciless Sword meant. I certainly hadn’t.
+Everyone there knew what he meant. So did I.
 
 “The Moving Formation. Right. They have that.”
 
@@ -180,13 +180,13 @@ But I’d expected that reaction. Otherwise, I wouldn’t have brought it up.
 
 I let the words trail off and slowly looked around the gathering.
 
-“If you’re so wary of the Moving Formation, why did you station an army of over thirty thousand in the front in the first place?”
+“If you’re so wary of the Moving Formation, why did you station more than thirty thousand troops at the front?”
 
 “……!”
 
 Silence pressed down on us.
 
-It didn’t lift until someone, who’d been watching the situation with calm eyes, suddenly spoke.
+It held until someone who’d been watching with calm eyes spoke.
 
 “For the greater good.”
 
@@ -194,23 +194,23 @@ The Black Night King, Sima Gong. Him again.
 
 Speaking on everyone’s behalf, Sima Gong continued in a low, steady voice.
 
-“What you said earlier was right. If we spread ourselves out carelessly, we’ll accomplish nothing. So we put our heads together and considered it carefully, and this is the conclusion we reached: divide our forces among three fronts, so they can return to the rear at any time.”
+“What you said earlier was right. If we spread ourselves out carelessly, we’ll accomplish nothing. So we put our heads together and reached the decision you see before you: divide our forces among three fronts, with each able to return to the rear whenever necessary.”
 
-At first glance, it sounded reasonable.
+At first, it sounded reasonable.
 
 It was the same argument they’d made when the leaders first gathered.
 
 But…
 
-That was only true, as I’d just said, *at first glance*.
+It only sounded reasonable *at first*.
 
-“It seems like a long way to go back. If Dark Heaven appears in the rear through the Moving Formation, how are we supposed to catch up with them?”
+“That’s a long way to go back. If Dark Heaven appears in the rear through the Moving Formation, how are we supposed to catch them?”
 
 If tens of thousands of locusts descended on a field, it wouldn’t take even half a day for everything to disappear.
 
 Dark Heaven was that swarm of locusts.
 
-And their fangs and wings were too savage and fast for us to make up a delay of several days and catch them.
+Their fangs were too savage and their wings too fast for us to make up a delay of several days.
 
 *By the time our allies arrived, Gansu would already be laid waste, and Dark Heaven would be heading for the Central Plains.*
 
@@ -228,7 +228,7 @@ Sima Gong’s next words turned my suspicion into certainty.
 
 “……!”
 
-At that brief reply, Jeok Cheongang and I understood what he meant, and our gazes grew intent. But not everyone understood. The Wind-and-Cloud Sword Lord, for one, was looking at Sima Gong with a puzzled expression.
+Jeok Cheongang and I understood what he meant, and our gazes darkened. But not everyone did. The Wind-and-Cloud Sword Lord, for one, looked at Sima Gong in confusion.
 
 “Sect Leader Sima. What exactly do you mean by…?”
 
@@ -250,7 +250,7 @@ Sima Gong answered evenly.
 
 *Crash!*
 
-But even as the Wind-and-Cloud Sword Lord shouted and sprang to his feet, Sima Gong’s voice didn’t waver in the slightest.
+The chair shattered as the Wind-and-Cloud Sword Lord sprang to his feet. Sima Gong’s voice didn’t waver.
 
 “If Dark Heaven crosses the desert and attacks us head-on, we’ll immediately concentrate every force there. They might use the Moving Formation to take the rear instead… but that would be the worst move they could make.”
 
@@ -270,6 +270,6 @@ Was that all there was to it?
 
 “Whether we defend this place or burn it to the ground is our choice. Neither the Zhongnan Sect nor the Jin Family of Taiyuan owns it.”
 
-Sima Gong’s icy gaze silenced the Wind-and-Cloud Sword Lord. I watched him, my own gaze sinking deep.
+Sima Gong’s icy gaze silenced the Wind-and-Cloud Sword Lord. I watched him, my own gaze darkening.
 
 [^1]: The Yellow River running clear is an exceptionally rare, auspicious event; here, the phrase conveys the hope of meeting again.
