@@ -220,11 +220,11 @@ Zhuge Liang—or rather, Jin Taekyung.
 
 * * *
 
-A signing bonus of 500 million won.[^2]
+A signing bonus of 500 million won.
 
-A fixed monthly salary of 50 million won[^3] and a seventy-percent settlement share.
+A fixed monthly salary of 50 million won and a seventy-percent settlement share.
 
-An officetel of roughly 132 square meters[^4] and a sedan came as extras, while coverage under all four national insurance programs was a given. After reading through the contract, I had exactly one thought.
+An officetel of roughly 132 square meters[^2] and a sedan came as extras, while coverage under all four national insurance programs was a given. After reading through the contract, I had exactly one thought.
 
 *This is insane.*
 
@@ -232,11 +232,11 @@ What kind of outrageous terms were these?
 
 They were giving me a home, a car, and more money than I knew what to do with.
 
-The average annual income of a C-rank Hunter was 200 million won,[^5] including fixed pay and raid earnings.
+The average annual income of a C-rank Hunter was 200 million won, including fixed pay and raid earnings.
 
 And me?
 
-*The signing bonus alone is 500 million.[^2]*
+*The signing bonus alone is 500 million.*
 
 These terms were normally reserved for B-rank Hunters or higher.
 
@@ -390,7 +390,7 @@ I had brought along two young siblings who were nothing but baggage, and instead
 
 That was when the three letters *NPC*, lodged in my mind, began to fade.
 
-That was when I saw the two-character word for family in Jin Wikyung’s back as he told me to survive and turned away.[^6]
+That was when I saw the two-character word for family in Jin Wikyung’s back as he told me to survive and turned away.[^3]
 
 “Fuck. My life really is a variety show.”
 
@@ -411,8 +411,5 @@ My consciousness faded. My vision went dark.
 I logged in.
 
 [^1]: “Paying three personal visits” alludes to Liu Bei’s repeated visits to Zhuge Liang in *Romance of the Three Kingdoms* to recruit him as an adviser.
-[^2]: 500 million won is about $360,000 or €320,000.
-[^3]: 50 million won is about $36,000 or €32,000.
-[^4]: An officetel is a Korean mixed-use unit designed for both office and residential use. 132 square meters is about 1,420 square feet.
-[^5]: 200 million won is about $140,000 or €130,000.
-[^6]: In Korean writing, each syllable is written as a single character block; the word for “family” consists of two such blocks, contrasting with the three Roman letters in “NPC.”
+[^2]: An officetel is a Korean mixed-use unit designed for both office and residential use.
+[^3]: In Korean writing, each syllable is written as a single character block; the word for “family” consists of two such blocks, contrasting with the three Roman letters in “NPC.”
