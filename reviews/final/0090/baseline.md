@@ -22,7 +22,7 @@ It was a relief to hear that nothing had happened. But did people really stop ra
 
 *Still, a whole week off sounds nice.*
 
-For the past seven years, I had lived with my eyes fixed straight ahead, running without rest. Lately, I had been going back and forth between Murim and reality, spending my days without a moment to breathe.
+For the past seven years, I had lived with my eyes fixed straight ahead, running without rest. Lately, I had been going back and forth between the Murim and reality, spending my days without a moment to breathe.
 
 Honestly, I wanted to re—no. Times like this called for working even harder. My voice rang with determination.
 
@@ -40,7 +40,7 @@ Honestly, I wanted to re—no. Times like this called for working even harder. M
 
 As soon as I ended the call, Hayeon hurried over and bowed politely.
 
-“Oppa.[^1] The evening meal has been prepared.”
+“Oppa. The evening meal has been prepared.”
 
 “……Could you stop talking like that? It’s giving me goose bumps.”
 
@@ -48,19 +48,19 @@ As soon as I ended the call, Hayeon hurried over and bowed politely.
 
 “You sure found a complicated way to ask for allowance.”
 
-I held out two fifty-thousand-won[^2] bills, and Hayeon grinned.
+I held out two fifty-thousand-won bills, and Hayeon grinned.
 
 “Mom says dinner’s ready.”
 
 “Oh, what’s on the menu?”
 
-“Beef bulgogi.[^3] And bean sprout soup that I made.”
+“Beef bulgogi. And bean sprout soup that I made.”
 
-“Beef bulgogi[^3] sounds good.”
+“Beef bulgogi sounds good.”
 
 “Mom says my bean sprout soup is good. She praised me.”
 
-“Mom’s homemade beef bulgogi[^3] never lets you down. It’s always fresh, the best, thrilling.”
+“Mom’s homemade beef bulgogi never lets you down. It’s always fresh, the best, thrilling.”
 
 “……”
 
@@ -186,7 +186,7 @@ I answered the real estate agent, a man whose forehead shone brightly.
 
 “I’d like to look at a house.”
 
-“Are you looking for a monthly rental? A jeonse lease?[^4] Or perhaps…”
+“Are you looking for a monthly rental? A jeonse lease? Or perhaps…”
 
 “I’m buying.”
 
@@ -212,7 +212,7 @@ I lamented inwardly and leaned back against the sofa. On the television, which h
 >
 > “This is an emergency bulletin. Unidentified phenomena are currently occurring across the country. In response, the government has declared martial law effective immediately…”
 
-People scattered, screaming. Buildings collapsed, flames soared, and news reports announcing the beginning of the Great Cataclysm flashed by one after another. Then the haggard face of the President of the United States filled the screen.
+People scattered, screaming. Buildings collapsed, flames soared, and news reports announcing the beginning of the Great Cataclysm flashed by one after another. Then the haggard face of the president of the United States filled the screen.
 
 > “We have yet to determine their identity, but one thing is certain: they are our enemies. Not only the enemies of the United States, but of the entire world and all humanity. Even now, countless monsters are passing through Gates and invading Earth.”
 
@@ -258,7 +258,7 @@ It had the address written on it.
 
 When I nodded, the man’s eyes traveled subtly up and down.
 
-Jeans and a white T-shirt. Twenty-thousand-won[^5] sneakers bought at a market or online. No matter how you looked at me, I wasn’t dressed like a man with money.
+Jeans and a white T-shirt. Twenty-thousand-won sneakers bought at a market or online. No matter how you looked at me, I wasn’t dressed like a man with money.
 
 “What do you do for a living?”
 
@@ -306,7 +306,7 @@ I had been in my third year of middle school—sixteen years old—so it had bee
 
 “I see.”
 
-I already knew. Housing prices had skyrocketed as soon as news of the redevelopment broke. The jeonse[^4] deposit had risen by hundreds of millions of won,[^6] far more than we could afford, so we decided to move.
+I already knew. Housing prices had skyrocketed as soon as news of the redevelopment broke. The jeonse deposit had risen by hundreds of millions of won, far more than we could afford, so we decided to move.
 
 *It wasn’t long after Dad died.*
 
@@ -332,7 +332,7 @@ Some traces of the old scenery remained even after the redevelopment. The real e
 
 “Is that okay?”
 
-“You’re going to sign the contract. Aren’t you?”
+“You’re going to sign the contract, aren’t you?”
 
 “No. I mean, yes.”
 
@@ -348,17 +348,10 @@ After offering him a brief word of thanks, I began walking slowly.
 
 I passed through an alley and spotted the supermarket I’d often visited as a child.
 
-“When Oppa[^1] was a kid, this place was his hangout. Back when he smoked like crazy in middle school, the old lady here was so old that…”
+“When Oppa was a kid, this place was his hangout. Back when he smoked like crazy in middle school, the old lady here was so old that…”
 
 A gleaming foreign car was parked in front of the supermarket. A man and woman who had been talking together stopped when they saw me.
 
 No—the man was the one who stopped.
 
 He tilted his head, approached me, and asked, “Do you know me?”
-
-[^1]: *Oppa* is a form of address a woman uses for an older brother or an older man close to her. Hayeon uses an unusually formal version of it when she bows.
-[^2]: Each 50,000-won bill is about $36 or €32; the two bills total about $71 or €65.
-[^3]: *Bulgogi* is thinly sliced meat marinated and then grilled or pan-cooked.
-[^4]: *Jeonse* is a Korean housing lease in which the tenant pays a large lump-sum deposit instead of monthly rent. The deposit is generally returned at the end of the lease.
-[^5]: 20,000 won is about $14 or €13.
-[^6]: “Hundreds of millions of won” is roughly 200 million to 900 million won: about $140,000–$640,000 or €130,000–€580,000.
