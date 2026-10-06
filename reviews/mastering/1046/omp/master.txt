@@ -32,7 +32,7 @@ No—their shock was so great that, for a moment, they forgot the pain altogethe
 
 The old Daoist, the Taeeul Merciless Sword, coughed up a mouthful of blood. He couldn’t finish his sentence; the corners of his eyes trembled.
 
-At the last moment, he had given up everything and closed his eyes. He couldn’t believe he was still among the living.
+At the last moment, he had given up and closed his eyes. He couldn’t believe he was still among the living.
 
 Beside him, though, someone who had watched death bear down on them reacted differently.
 
@@ -110,7 +110,7 @@ They were jumbled together as chaotically as the battle itself. They still could
 
 If they didn’t seize this chance now, they’d never get another.
 
-And at the front of the group charging at the enemy again with screams that sounded like cries of anguish was a band of fighters who hadn’t retreated for even an instant—not from the beginning, not now.
+And leading their charge back at the enemy, shouting themselves hoarse, was a band of fighters who hadn’t retreated for even an instant since the battle began.
 
 “Uoooooh!”
 
@@ -140,7 +140,7 @@ Amid the spray of blood, Soul-Chasing Guest Song Ilseom shook the sticky blood f
 
 “Is everyone all right?”
 
-Namho had had his mouth open and swallowed a mouthful of blood. He answered, “No. My stomach’s churning.”
+Namho, who had been caught with his mouth open and swallowed a mouthful of blood, answered, “No. My stomach’s churning.”
 
 Thwack!
 
@@ -176,7 +176,7 @@ Hyuk Mujin immediately shut his mouth. Ma Junggeol, the leader of the Seven Mast
 
 “…Right. Let’s say that.”
 
-At the sight of Ju Hwaran, whose eyes had begun to gleam, Ma Junggeol lowered his head gloomily.
+At the sight of Ju Hwaran’s eyes, now blazing, Ma Junggeol lowered his head gloomily.
 
 They were crazy.
 
@@ -252,15 +252,15 @@ And their commander’s voice rang clearly in their ears.
 
 “Do you see them?”
 
-No one answered the question from Jeong Hogun, Thousand Captain of the Embroidered Uniform Guard.
+No one answered Jeong Hogun, Thousand Captain of the Embroidered Uniform Guard.
 
-Only their aura, simmering like water in a cauldron, steadily grew stronger.
+Their aura alone answered, slowly rising like water coming to a boil in a cauldron.
 
 “Our enemies are there. Evil men who defy the natural order and seek to plunge the world into misery.”
 
 More than a hundred years had passed since the age of warring heroes ended and a new dynasty took its place.
 
-The hero of the Zhu clan ascended the throne and at last became the father of all his people. His descendants, the dragon-blooded heirs, called themselves the Sons of Heaven and firmly established their authority.
+A hero of the Zhu clan ascended the throne and became the father of all his people. His descendants, heirs to the dragon’s blood, called themselves Sons of Heaven and firmly established their authority.
 
 From among the countless people, those with the greatest martial skill and loyalty were selected and dressed in golden robes and armor. Thus was the Embroidered Uniform Guard born.
 
@@ -300,7 +300,7 @@ In their own way.
 
 Clang, clang, clang!
 
-Countless weapons finally emerged into the open, glinting in the light. Beneath their helmets, their eyes shone toward the enemies drawing rapidly closer.
+Countless weapons flashed as they were drawn at last. Through the gaps in their helmets, their eyes gleamed at the enemies drawing rapidly closer.
 
 A thousand weapons shimmering with tangible qi.
 

@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is broadly faithful, with two small quantity and title-sense discrepancies.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 259",
+      "current": "one word echoed in their minds: victory.",
+      "defect": "The source explicitly describes “victory” as two characters/words (두 글자), but the translation calls it one word.",
+      "replacement": "two words echoed in their minds: victory.",
+      "rationale": "The source emphasizes the two-character phrase 승리, so “one word” changes the stated quantity.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 273",
+      "current": "His descendants, the dragon-blooded heirs, called themselves the Sons of Heaven",
+      "defect": "The source says the descendants claimed to be 천자, the title “Son of Heaven.” “Sons of Heaven” turns that singular imperial title into a plural designation.",
+      "replacement": "His descendants, the dragon-blooded heirs, claimed the title of Son of Heaven",
+      "rationale": "천자를 자처하며 means they styled themselves as Son of Heaven; the glossary also specifies “Son of Heaven” for 천자.",
+      "confidence": 0.9
+    }
+  ]
+}
