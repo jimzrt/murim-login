@@ -114,7 +114,7 @@ Freed from the chains that had bound them to this world, they returned to the or
 
 *Ding.*
 
-At the last chime, I confirmed that nothing else was moving and lifted my head.
+After the last chime, I saw that nothing else was moving and lifted my head.
 
 Beneath a cloud that half-obscured the sun, a black-winged crow drifted through the air.
 
@@ -154,7 +154,7 @@ It was a stupid question.
 
 The time to wonder whether it was possible had passed long ago.
 
-What mattered was that Jin Taekyung had made it real—and that was precisely what made that young man, not even thirty yet, so exceptional.
+What mattered was that Jin Taekyung had done it—and that was precisely what made a young man not even thirty yet so exceptional.
 
 Ma Sanbao already knew something else, too.
 
@@ -174,7 +174,7 @@ Ma Sanbao went to the superior he’d only recently begun serving and reported e
 
 A blast of palm force struck before he could finish.
 
-Even an ordinary Peak master would have died on the spot if struck by that blow. Ma Sanbao was swept away by the force, yet despite the tremendous impact, he immediately prostrated himself.
+Even a Peak master would have died on the spot from a direct hit. Ma Sanbao was swept away by the force, yet despite the tremendous impact, he immediately prostrated himself.
 
 “Huh. Look at how sturdy this body of yours is.”
 
@@ -192,11 +192,11 @@ Unlike his master, the Eastern Heaven Demon Lord, Ma hadn’t achieved Great Com
 
 “Please show mercy…”
 
-“Shut your mouth. If you want to live even fifteen minutes longer.”
+“Shut your mouth if you want to live another fifteen minutes.”
 
-The Blood Lord glared down at Ma Sanbao with irritation, but that was the extent of the punishment he could give.
+The Blood Lord glared down at Ma Sanbao with irritation, but that was as far as he would go.
 
-Ma Sanbao was a useful expendable in many ways, and the Blood Lord had never intended to kill one of the few subordinates worth keeping.
+Ma Sanbao was a useful expendable in many ways, and the Blood Lord had never intended to kill one of his few capable subordinates.
 
 He’d threatened Ma so harshly because he wanted to show off his authority and control in front of someone he disliked.
 
@@ -204,7 +204,7 @@ Of course, that someone paid no attention to his display and remained focused on
 
 “They found out? This soon?”
 
-The Blood Lord answered the Grand Mage’s question, which sounded almost like she’d asked herself.
+The Blood Lord answered the Grand Mage’s almost rhetorical question.
 
 “No need to make a fuss. It’s sooner than expected, but not all that surprising.”
 
