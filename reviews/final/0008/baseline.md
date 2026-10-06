@@ -112,9 +112,9 @@ It was unbelievably spacious too. The moment the servant opened the door, my jaw
 
 “Your bedroom is on the second floor. Bells have been installed throughout the building, so please ring one if you need anything.”
 
-Once the servant left, I collected myself and began exploring the pavilion. The first floor alone looked to be well over three hundred square meters.[^1]
+Once the servant left, I collected myself and began exploring the pavilion. The first floor alone looked to be well over three hundred square meters.
 
-To someone who had lived in a goshiwon[^2] room barely seven square meters[^3] in size, it might as well have been an Olympic stadium.
+To someone who had lived in a goshiwon room barely seven square meters in size,[^1] it might as well have been an Olympic stadium.
 
 *This is the first time I’ve ever envied an NPC.*
 
@@ -146,7 +146,7 @@ The door flew open.
 
 “…You fucking shopaholic.”
 
-Seriously, what the hell was wrong with this guy? Seeing three whole rooms crammed with clothes left me feeling like I had a sweet potato lodged in my throat.[^4]
+Seriously, what the hell was wrong with this guy? Seeing three whole rooms crammed with clothes left me feeling like I had a sweet potato lodged in my throat.
 
 *Could it be…*
 
@@ -348,7 +348,4 @@ Jin Wikyung gazed into the room with dazed eyes. Jin Taekyung had fallen over an
 
 “As promised, you won’t be getting paid this month.”
 
-[^1]: Three hundred square meters is about 3,200 square feet.
-[^2]: A goshiwon is a small, inexpensive rented room, traditionally associated with students preparing for exams.
-[^3]: Seven square meters is about 75 square feet.
-[^4]: In Korean, the feeling of having eaten sweet potatoes can describe frustration or a sense of being stifled.
+[^1]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement.
