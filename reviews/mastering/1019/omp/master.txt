@@ -22,9 +22,9 @@ Hyuk Mujin had just woken up and was stretching as he spoke.
 
 “Ah, you should’ve slept, even for a bit. Sleep’s the best medicine at a time like this.”
 
-“……Are you not hearing me?”
+“……Can you hear me?”
 
-Did this bastard have himself on mute or something?
+Did this bastard have me on mute or something?
 
 At my incredulous stare, Hyuk Mujin shrugged.
 
@@ -32,7 +32,7 @@ At my incredulous stare, Hyuk Mujin shrugged.
 
 Sharp instincts.
 
-But no matter how he asked, my current position meant I couldn’t just come out and tell him the truth.
+But I couldn’t tell him the truth just because he’d asked.
 
 Think about it. How would the Fire Dragon Pavilion members react if they learned the truth about Sama Pyo right now?
 
@@ -58,7 +58,7 @@ Unable to argue with that, Hyuk Mujin scratched the back of his head. Then he sp
 
 “What?”
 
-“You said it just now, didn’t you? If you have nothing to worry about in a situation like this, are you even human?”
+“You said it yourself just now. How could anyone not be worried in a situation like this?”
 
 “And?”
 
@@ -76,7 +76,7 @@ Maybe things had gotten too awkward. Maybe his thoughts were tangled. Either way
 
 I watched him for a moment, then supplied the words in my usual, deliberately curt voice.
 
-“Don’t get caught up in pointless worries. I’ve always trusted you. That’s basically what you’re trying to say, right?”
+“Don’t get caught up in pointless worries. I trust you’ll be there. That’s what you’re trying to say, right?”
 
 “That’s… right.”
 
@@ -100,7 +100,7 @@ Hyuk Mujin looked indignant at the sudden jab about his age.
 
 He ran off with his lips stuck out. I couldn’t help letting out a quiet laugh.
 
-“You can speak casually when you say you’re going, huh?”
+“‘I’m going’? That’s not how you talk to your captain, you brat.”
 
 But my mutter reached no one. The words scattered into the air, and my pale breath briefly obscured something falling from above.
 
@@ -144,15 +144,15 @@ He offered no preamble, but neither he nor the person beside him thought anythin
 
 His father answered without turning his head. Sama Pyo studied his profile.
 
-“That you agreed to their demands.”
+“That you granted their request.”
 
-“Their demands?”
+“Their request?”
 
-“At the meeting, you even argued with them to get your way. Yet in the end, you reinforced our troops with part of the force stationed in the Qilian Mountains. Three thousand of them, no less.”
+“You argued with them at the meeting to get your way. Yet in the end, you added men from the force stationed in the Qilian Mountains. Three thousand of them, no less.”
 
 Sama Pyo was right.
 
-When the drums announcing the end of the brief rest stopped, nearly half the Black Dragon Demon Gate’s martial artists stationed in the Qilian Mountains had already assembled ahead of them.
+By the time the drums announcing the end of their brief rest fell silent, a force amounting to nearly half the Black Dragon Demon Gate’s martial artists stationed in the Qilian Mountains had already assembled.
 
 “Is that a problem?”
 
@@ -162,7 +162,7 @@ When the drums announcing the end of the brief rest stopped, nearly half the Bla
 
 Only then did his father turn to look him in the eye. Sama Pyo lowered his head slightly.
 
-“It was only a small question that occurred to me.”
+“It was merely a question.”
 
 “Then tell me what you’re thinking.”
 
@@ -174,7 +174,7 @@ Only then did his father turn to look him in the eye. Sama Pyo lowered his head 
 
 “Raise your head.”
 
-Sama Pyo obediently did as his father’s dry voice commanded. His father’s eyes, black as obsidian, were already gleaming at him.
+Sama Pyo obeyed his father’s flat command. Eyes black as obsidian were gleaming at him.
 
 “Have you forgotten what I taught you already? Never be certain about any situation—or any person.”
 
@@ -210,17 +210,17 @@ It was like a shackle he couldn’t put so much as a scratch on, no matter how h
 
 “I’ll take those words to heart as though they were worth gold and jade.”
 
-It wasn’t a mere empty platitude or a ruse. The words came from deep within his heart, and his father sensed his son’s feelings just as clearly.
+It was neither flattery nor a pretense. He meant it from the bottom of his heart, and his father sensed it.
 
-*Pyo, it seems that boy is finally coming to his senses.*
+*Pyo. It seems the boy is finally coming to his senses.*
 
-Sima Gong murmured inwardly and felt his spirits lift.
+Sima Gong felt a weight lift.
 
 After all, who was Sama Pyo? The heir he’d finally had in his old age, the son who would someday inherit everything.
 
 His innate martial talent was at least the equal of the Ten Dragons and Phoenixes, the finest young prodigies in the Central Plains. It might even surpass theirs. He had a shrewd mind as well. He was a born leader.
 
-*But something started to change in him after he joined the Fire Dragon Pavilion.*
+*Then something started to change after he joined the Fire Dragon Pavilion.*
 
 His first act of defiance.
 
@@ -238,17 +238,17 @@ Every step he took left a deep, enormous mark. His path was strewn with the corp
 
 Sima Gong could only watch, hoping that his son’s sudden defiance might give the Black Dragon Demon Gate another chance to soar.
 
-But the secret correspondence he should have received never came, and Sama Pyo’s attitude, when they met for the first time in a year, had seemed somehow different.
+But the secret letter that should have arrived never did. And when he saw Sama Pyo again after a year, something about his son’s attitude had changed.
 
 At least, until just now.
 
 *I’ll still have to keep watching him… But for now, I can breathe a little easier.*
 
-And it was just as Sima Gong let out a quiet laugh to himself at the sight of his son gradually returning to his old self that it happened.
+Sima Gong was quietly amused to see his son returning, little by little, to his old self.
 
 That was when it happened.
 
-Shhhwick—BOOM!
+Shhhwick—boom!
 
 Several hundred *jang* away, a red flame shot up above a barren hill and exploded, bathing his eyes in its brilliant light.
 

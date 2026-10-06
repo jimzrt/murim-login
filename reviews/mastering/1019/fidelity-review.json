@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Maybe everything we’ve been through has made me too gutsy for my own good",
+      "defect": "This replaces the Korean’s hyperbolic image of his guts swelling up until they burst with the generic description “too gutsy.” The image was also preserved in the accepted baseline.",
+      "id": "F01",
+      "rationale": "간덩이가 퉁퉁 불어 터지다 uses a comic bodily image to express growing audacity or fearlessness; the current line keeps the general sense but drops that image.",
+      "replacement": "Maybe it’s because everything we’ve been through has made my guts swell up till they burst, but…",
+      "severity": "minor",
+      "source": "Lines 71–73"
+    },
+    {
+      "confidence": 0.95,
+      "current": "though Sima Gong was right beside him",
+      "defect": "“Right beside him” changes the stated position. The Korean says Sima Gong’s voice came from right in front of Sama Pyo.",
+      "id": "F02",
+      "rationale": "코앞에서 indicates something directly in front and very close; the accepted baseline also renders this as “right in front of him.”",
+      "replacement": "though Sima Gong was right in front of him",
+      "severity": "minor",
+      "source": "Line 205"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Countless eyes were watching the actions of the two pavilions.",
+      "defect": "The English omits that the two pavilions’ actions were known as the “Two Pavilions” (이각). The accepted baseline preserved this naming detail.",
+      "id": "F03",
+      "rationale": "이른바 이각이라 명명된 그들의 행보 explicitly names the pair as the Two Pavilions; the current wording refers to the pair but drops its designation.",
+      "replacement": "Countless eyes were watching the actions of the so-called Two Pavilions.",
+      "severity": "minor",
+      "source": "Lines 257–259"
+    }
+  ],
+  "summary": "Mostly faithful. The assembled version loses a vivid source image and slightly shifts a spatial detail and a named collective reference.",
+  "version": 1
+}
