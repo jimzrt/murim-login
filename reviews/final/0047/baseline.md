@@ -120,7 +120,7 @@ Team Leader Kim’s smile cracked.
 
 “What’s that supposed to mean?”
 
-*What did it mean?*
+What did it mean?
 
 “You know exactly what I mean.”
 
@@ -246,7 +246,7 @@ The usual attitude toward an F-rank Hunter.
 
 I was used to it. That didn’t make it any less insulting. When I glared at him, the examiner gave a short laugh.
 
-“I’m only mentioning it in case you weren’t aware, but the fee is two million won.[^1]”
+“I’m only mentioning it in case you weren’t aware, but the fee is two million won.”
 
 “…The price went up?”
 
@@ -264,7 +264,7 @@ And the next moment—
 
 Bzzzzzt.
 
-A wave of magical power rolled out of the measuring device and swept through my whole body.
+A wave of mana rolled out of the measuring device and swept through my whole body.
 
 My fifteen years of internal energy responded with a shudder.
 
@@ -368,7 +368,7 @@ This was a jackpot.
 
 Kim Sangshik’s mind snapped into focus. He cast every thought of Jin Taekyung aside and pulled out his phone.
 
-“Hey, Team Leader Kim. Did that business go well?”
+—Hey, Team Leader Kim. Did that business go well?
 
 The deep voice on the other end belonged to Sopung Guild’s Guild Master.
 
@@ -376,25 +376,25 @@ Kim Sangshik spoke urgently.
 
 “Guild Master, it’s chaos here. A C-rank just appeared, and they say his mana control is on the level of a high-ranking Hunter.”
 
-“What? Where did a guy like that come from?”
+—What? Where did a guy like that come from?
 
 “Exactly. The major Guilds always snatch them out from under us, but it looks like they were a step late this time.”
 
-“Good. So that’s how it is…”
+—Good. So that’s how it is…
 
 Huff. Huff.
 
 Rough breathing came through the phone, as though the Guild Master were excited. Even the way he addressed Kim Sangshik changed.
 
-“Sangshik. You hold on to that guy no matter what. Tell him we’ll meet any conditions he wants.”
+—Sangshik. You hold on to that guy no matter what. Tell him we’ll meet any conditions he wants.
 
 “How high can we go?”
 
-“Don’t worry about the money. Add plenty on top of whatever the others offer. The major Guilds will back off if they decide he isn’t profitable enough. It’s not like they’re desperate for him.”
+—Don’t worry about the money. Add plenty on top of whatever the others offer. The major Guilds will back off if they decide he isn’t profitable enough. It’s not like they’re desperate for him.
 
 “Yes, yes.”
 
-“I’m on my way. Keep him there until I arrive. If you pull this off… you know what that means, right?”
+—I’m on my way. Keep him there until I arrive. If you pull this off… you know what that means, right?
 
 After ending the call, Kim Sangshik clenched his fist.
 
@@ -437,5 +437,3 @@ At the same time, Kim Sangshik’s buttonhole-sized eyes went wide.
 Jin Taekyung grinned.
 
 “We meet again, Mr. Kim Sangshik.”
-
-[^1]: Two million Korean won is about $1,400 or €1,300.
