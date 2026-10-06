@@ -188,7 +188,7 @@ Judging by the killing intent prickling my skin, Hyuk Mujin’s heart wouldn’t
 
 Winter days were short-tempered.
 
-How long had we traveled along the mountain road? The sun quickly set, and darkness descended. The carriage stopped two shichen[^1] later, around midnight.
+How long had we traveled along the mountain road? The sun quickly set, and darkness descended. The carriage stopped two shichen later, around midnight.
 
 “We’ve arrived.”
 
@@ -202,7 +202,7 @@ A chill greeted me the moment I entered. A statue in human form gazed solemnly d
 
 I had heard they were places where the spirit tablets of the dead were enshrined and memorial rites performed.
 
-The Guandi Temples[^2] that appeared at the drop of a hat in martial arts novels came to mind. I examined the statue, but I couldn’t tell who it depicted.
+The Guandi Temples that appeared at the drop of a hat in martial arts novels came to mind. I examined the statue, but I couldn’t tell who it depicted.
 
 “This shrine was abandoned after a famine several years ago, but it seems the local commoners still visit from time to time.”
 
@@ -258,7 +258,7 @@ But there was another word that caught my attention more than that.
 
 “The Red Wind Band?”
 
-“They’re a rising power from Gaoyuan. They’re fairly large, and more than anything, the Red Wind Band Leader is said to possess formidable martial arts.”
+They’re a rising power from Gaoyuan. They’re fairly large, and more than anything, the Red Wind Band Leader is said to possess formidable martial arts.
 
 Northern Gaoyuan.
 
@@ -278,7 +278,7 @@ Wolhwa shook her head.
 
 “Then what happened?”
 
-“He watched the situation until the very end. He kept a close eye on Eight Spring Gorge from only two shichen[^1] away, then turned his horse around the moment he heard how the battle had ended—along with the two hundred men under his command.”
+“He watched the situation until the very end. He kept a close eye on Eight Spring Gorge from only two shichen away, then turned his horse around the moment he heard how the battle had ended—along with the two hundred men under his command.”
 
 Two hundred people.
 
@@ -337,6 +337,3 @@ Wolhwa gave me a prim smile.
 I pointed toward the mountain path.
 
 Through the light snowstorm that had begun to swirl, I could see torches climbing toward us.
-
-[^1]: A *shichen* is a traditional Chinese time unit of approximately two hours; two shichen are about four hours.
-[^2]: Guandi Temples are shrines dedicated to Guan Yu, a historical Chinese general later revered as a deity.
