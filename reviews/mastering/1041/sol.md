@@ -49,7 +49,7 @@ Dozens of massive fireballs filled the air. Ahead of me, the ground turned over 
 
 FWOOSH! GRRRR!
 
-If anyone else had seen it—or even a seasoned master of the martial world—they would have stared in awe, calling it the work of supernatural powers.
+Anyone else—even a seasoned veteran of the martial world—would have stared in awe and called it the work of supernatural powers.
 
 But in all the vast world, I was the one exception.
 
@@ -137,7 +137,7 @@ One person stood out because none of that applied to her.
 
 The Grand Mage.
 
-A great mage who had reached the very edge of truth—and an enemy I absolutely had to defeat.
+A great mage who had reached the very edge of truth, and an enemy I had to defeat. She was a woman.
 
 Her voluminous robes couldn’t entirely hide her slender figure. Red lips showed beneath her silver-white veil.
 
@@ -253,7 +253,7 @@ What that meant was clear.
 
 One person remained.
 
-While the mages under her command kept collapsing from the backlash of their energy, the Grand Mage stood alone on the hill without the slightest sign of being shaken.
+While the mages under her command collapsed one after another from the backlash of their energy, the Grand Mage stood alone on the hill without the slightest sign of distress.
 
 No—more precisely, it was just her and me, now almost face-to-face.
 
@@ -265,7 +265,7 @@ Her voice was calm, with what sounded almost like a hint of excitement.
 
 “Crazy bitch.”
 
-At my heartfelt insult, a breeze accompanied by a low laugh stirred her veil.
+I meant every word. She gave a low laugh, and her breath stirred the veil.
 
 “What an ill-mannered man. Cursing a woman whose face and name you don’t even know.”
 
@@ -273,7 +273,7 @@ She was right.
 
 I didn’t know this woman’s name or face.
 
-I already knew that even the supernatural ability granted to me by the System couldn’t reveal any information about her.
+I already knew that even the power granted to me by the System couldn’t reveal anything about her.
 
 Otherwise, she wouldn’t dare speak to me like that with less than a *jang* between us.
 
@@ -303,11 +303,11 @@ She was right.
 
 I had one attempt.
 
-If I failed to break the barrier and take her life with that one strike, the Grand Mage would escape the narrow distance I’d managed to close.
+If I failed to break the barrier and take her life with that One Strike, the Grand Mage would escape the distance I’d fought so hard to close.
 
 That was why I couldn’t act rashly, even with every second counting.
 
-But the quiet voice that slipped into my ears next was enough to shake me far more than anything she’d said before.
+But what she said next shook me far more than anything before it.
 
 “Still, I’m a little disappointed. This isn’t all I prepared.”
 
@@ -319,4 +319,4 @@ At that very moment—
 
 GROOOOOM.
 
-In stark contrast to her bright, laughter-filled voice, an utterly dreadful amount of energy surged up around her slender body.
+In stark contrast to her clear, laughter-filled voice, an appallingly vast surge of energy rose from her slender body.
