@@ -254,7 +254,7 @@ But the rewards did not end there.
 >
 > - The realm of *Qi Sense* has risen to the seventh stage.
 >
-> - You can detect targets at Level 90 or below within 70 jang.[^2]
+> - You can detect targets at Level 90 or below within 70 meters.
 >
 > - You have acquired EXP due to the dramatic advancement of your martial arts.
 >
@@ -262,7 +262,7 @@ But the rewards did not end there.
 >
 > - Level up!
 
-I was already satisfied that the realms of Jin Family’s Cultivation Technique and Qi Sense, which had stagnated for so long, had risen. Gaining two more Levels on top of that was a double blessing.
+I was already satisfied that the realms of Jin Family's Cultivation Technique and Qi Sense, which had stagnated for so long, had risen. Gaining two more Levels on top of that was a double blessing.
 
 Just from the messages I had seen so far, I had already leveled up seven times.
 
@@ -324,7 +324,7 @@ Northern Gaoyuan.
 
 This land had once been home to the nomadic empire founded by a great ruler. But it had changed with the passage of time.
 
-The vast pastures covered in green grass were gradually disappearing, and wooden buildings from the Central Plains were beginning to replace the gers, the nomads’ homes.[^3]
+The vast pastures covered in green grass were gradually disappearing, and wooden buildings from the Central Plains were beginning to replace the gers, the nomads’ homes.[^2]
 
 The customs of the nomads still remained, but the clothing and culture of the Central Plains were slowly infiltrating the plateau.
 
@@ -338,7 +338,7 @@ The man draped in sheepskin did not like it.
 
 “I haven’t forgotten. I’m simply telling you not to forget what kind of gathering this is.”
 
-“Damn it. An inn instead of a perfectly good ger.[^3]”
+“Damn it. An inn instead of a perfectly good ger.”
 
 Temur and Chinggen, two chieftains who each commanded a hundred tribespeople, entered the inn.
 
@@ -346,7 +346,7 @@ Built by Han Chinese who called themselves mounted bandits, it was the only esta
 
 The moment the two men stepped inside, they saw mounted bandits packed all the way to the upper floor, along with two men seated at the center of the crowd.
 
-“Ha-ha-ha! The chieftains of the Great Steppe have arrived! Come, sit. I’ve warmed some mare’s-milk wine for you.”[^4]
+“Ha-ha-ha! The chieftains of the Great Steppe have arrived! Come, sit. I’ve warmed some mare’s-milk wine for you.”[^3]
 
 Unlike the middle-aged man who welcomed them with both arms spread wide, the other man did not so much as nod. He merely gestured.
 
@@ -366,7 +366,7 @@ It had happened centuries ago, but their pride had never died.
 
 Temur was hot-tempered and reckless by nature. Before Chinggen could stop him, his hand seized his curved saber.
 
-“I’ll offer your head to the god Tengger—”[^5]
+“I’ll offer your head to the god Tengger—”[^4]
 
 And that was when it happened.
 
@@ -400,10 +400,8 @@ In other words, he was a butcher of men.
 
 [^1]: Candied hawthorn skewers are traditional fruit skewers coated in hardened sugar.
 
-[^2]: A *jang* is ten *ja*, a traditional length unit. Seventy jang is about 212 m (696 ft).
+[^2]: A *ger* is a traditional round felt dwelling used by nomadic peoples of the Central Asian steppe.
 
-[^3]: A *ger* is a traditional round felt dwelling used by nomadic peoples of the Central Asian steppe.
+[^3]: Mare’s-milk wine is a traditional alcoholic drink made by fermenting mare’s milk.
 
-[^4]: Mare’s-milk wine is a traditional alcoholic drink made by fermenting mare’s milk.
-
-[^5]: Tengger is a sky deity in traditional steppe belief.
+[^4]: Tengger is a sky deity in traditional steppe belief.
