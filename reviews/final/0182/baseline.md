@@ -182,7 +182,7 @@ As Chulwoo watched the group recede into the distance, a martial artist from the
 
 The people surrounding them burst into loud laughter.
 
-There was a common prejudice that members of the Nine Sects and One Gang[^1] would be arrogant and rude. But Chulwoo’s refreshing banter made everyone feel as if a weight had been lifted from their chests.
+There was a common prejudice that members of the Nine Sects and One Gang would be arrogant and rude. But Chulwoo’s refreshing banter made everyone feel as if a weight had been lifted from their chests.
 
 “Of course. That’s right.”
 
@@ -250,7 +250,7 @@ At that moment, Cheongpung, who had been lying facedown across his horse’s nec
 
 “Yes. I heard them clearly.”
 
-*He could hear that from this distance?*
+He could hear that from this distance?
 
 Cheongpung was the strongest martial artist among us, so he was probably right.
 
@@ -280,7 +280,7 @@ I casually pointed behind me. Cheongpung was staring wide-eyed and clapping.
 
 “Shaolin Temple, maybe?”
 
-*Was he insane?*
+Was he insane?
 
 This was coming from the youngest Junior Brother of Huashan’s Sect Leader himself.
 
@@ -298,7 +298,7 @@ Style was temporary, but class was forever.
 
 Was Huashan filed away in his head as Dad and plum blossoms as Mom?
 
-While I pondered the workings of Cheongpung’s mind, Hyuk Mujin finally collected himself and reached a conclusion.
+As Hyuk Mujin thought it over, his expression suddenly fell.
 
 “Anyway, they’re insanely famous.”
 
@@ -410,9 +410,9 @@ I was wrestling with the urge to split open the crown of Cheongpung’s head whe
 
 “Hah, listen to this old coot calling me Young Hero Chul. Didn’t you call me a cow’s head earlier?”
 
-“N-No, Great Hero Chul! I committed a grave discourtesy, *-so*!”[^2]
+“N-No, Great Hero Chul! I committed a grave discourtesy, *-so*!”[^1]
 
-“Committed-*so*? *-so*? Cow? You just called me a cow again, didn’t you?”[^2]
+“Committed-*so*? *-so*? Cow? You just called me a cow again, didn’t you?”[^1]
 
 “Eeeeeek! Isn’t that taking it too far? Do you even know how old I am?”
 
@@ -426,5 +426,4 @@ Just as they were about to enter the mountainside beside the hill, the young man
 
 *He means me, right?*
 
-[^1]: The Nine Sects and One Gang is a grouping of major martial-arts organizations in Murim.
-[^2]: The formal Korean sentence ending *-so* is pronounced the same as the Korean word for “cow.”
+[^1]: The formal Korean sentence ending *-so* is pronounced the same as the Korean word for “cow.”
