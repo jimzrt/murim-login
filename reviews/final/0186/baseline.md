@@ -92,7 +92,7 @@ If Jin Wikyung called me Taekyung instead of *my youngest*, it meant he was abou
 
 “Do you know what these objects are?”
 
-“Precious treasures, aren’t they? The kind that would be difficult to obtain even for a thousand pieces of gold.”
+“A precious treasure, aren’t they? The kind that would be difficult to obtain even if you spent a thousand nyang of gold.”
 
 A Supreme Peak martial art with the power to dominate the world and a peerless sword forged from Ten-Thousand-Year Cold Iron.
 
@@ -258,7 +258,7 @@ He could only hope he had overestimated them.
 
 “You’ve been away from your seat for too long. The guests are waiting.”
 
-“…Is that so?”
+“……Is that so?”
 
 At Wipeng’s prompting, Jin Wikyung drained his teacup in one gulp and rose.
 
@@ -270,7 +270,7 @@ For now, they could allow themselves to savor the joy of victory.
 
 * * *
 
-Winter days were short. I had only just returned to the Jin Family of Taiyuan, but the sun was already beginning to set.
+I had only just returned to the Jin Family of Taiyuan, but the sun was already beginning to set.
 
 *Come to think of it, I haven’t trained properly in days. Not unless circulating my qi counts.*
 
@@ -338,7 +338,7 @@ He still looked somewhat gaunt, but there was color in his face. He was clearly 
 
 *The kids seem to be doing well too.*
 
-Socheon was at the age when children shot up, and he had grown another half a handspan[^1] since I’d last seen him. Soyul’s cheeks were nice and plump.
+Socheon was at the age when children shot up, and he had grown another half a handspan since I’d last seen him. Soyul’s cheeks were nice and plump.
 
 And Cheongpung’s stomach had swollen into a round little belly from all the food he’d eaten.
 
@@ -551,5 +551,3 @@ And then…
 *BOOM!*
 
 With the loudest thunderclap yet, the human curtain split apart.
-
-[^1]: A handspan, or *ppyeom*, is measured between an outstretched thumb and little finger. Its length varies by person; half a handspan is roughly 10 cm (4 in).
