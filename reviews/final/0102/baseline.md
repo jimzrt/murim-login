@@ -8,7 +8,7 @@ I knew Gate formations, how to respond in a crisis, and the weaknesses of variou
 
 “You too.”
 
-The man in the angular horn-rimmed glasses was the judicial scrivener[^1] I had hired to handle the purchase of the house. Across from me, the homeowner and the realtor were exchanging farewells and getting to their feet.
+The man in the angular horn-rimmed glasses was the judicial scrivener I had hired to handle the purchase of the house[^3]. Across from me, the homeowner and the realtor were exchanging farewells and getting to their feet.
 
 “Congratulations on the contract. You’ve done well for yourself at such a young age.”
 
@@ -56,11 +56,11 @@ He was someone I couldn’t leave out of my seven years.
 
 A brief silence followed. We were comfortable enough not to need conversation, the kind of people who could read each other’s thoughts from a look alone. But right now, neither of us seemed to know what to say.
 
-“Hyung[^2].”
+“Hyung.”
 
 “Hey, hey. That’s enough. Don’t make this all sentimental.”
 
-Jinho hyung[^2] slapped me hard on the back.
+Jinho hyung slapped me hard on the back.
 
 “You’re not some elementary school kid transferring schools. Just because you’re moving, you’re not going to stop seeing me, are you?”
 
@@ -74,7 +74,7 @@ Jinho hyung[^2] slapped me hard on the back.
 
 “Oh, right. You did.”
 
-I had felt bad about leaving Jinho hyung[^2] alone in the goshiwon[^3] after all the years we had spent living together. Now I finally felt a little more at ease.
+I had felt bad about leaving Jinho hyung alone in the goshiwon after all the years we had spent living together. Now I finally felt a little more at ease.
 
 “Where are you moving?”
 
@@ -84,7 +84,7 @@ I had felt bad about leaving Jinho hyung[^2] alone in the goshiwon[^3] after all
 
 “Goyang?”
 
-Jinho hyung’s[^2] eyes widened.
+Jinho hyung’s eyes widened.
 
 “I’m in that area too, you punk!”
 
@@ -92,17 +92,17 @@ Jinho hyung’s[^2] eyes widened.
 
 The unexpected news secretly pleased me. By now, I missed his face if I went even a day without seeing it. If we lived close by, we could still meet often.
 
-“Hyung[^2], then what’s the exact address—”
+“Hyung, then what’s the exact address—”
 
 Just as I was about to ask, the smartphone in my pocket rang. When I answered, a gravelly voice came through the receiver.
 
-“Hello, is this Mr. Jin Taekyung? I’m in front of the goshiwon[^3] right now.”
+—Hello, is this Mr. Jin Taekyung? I’m in front of the goshiwon right now.
 
 “Ah, yes. Driver.”
 
-It was the private moving-truck driver I had called in advance. I glanced out the window and saw a blue light truck waiting in front of the goshiwon[^3].
+It was the private moving-truck driver I had called in advance. I glanced out the window and saw a blue light truck waiting in front of the goshiwon.
 
-“Do you have a lot of stuff? If anything’s heavy, I can help you carry it.”
+—Do you have a lot of stuff? If anything’s heavy, I can help you carry it.
 
 “No, it’s fine. I’ll carry it myself.”
 
@@ -124,13 +124,13 @@ This one old capsule had completely changed my life.
 
 *Oh, right. Someone else played a big part in that too.*
 
-“Jinho hyung[^2].”
+“Jinho hyung.”
 
 “Yeah?”
 
 A laugh escaped me at his puzzled expression.
 
-If Jinho hyung[^2] hadn’t gotten plastered that day, I never would have entered the capsule in the first place.
+If Jinho hyung hadn’t gotten plastered that day, I never would have entered the capsule in the first place.
 
 “Never mind. It’s nothing.”
 
@@ -148,7 +148,7 @@ If Jinho hyung[^2] hadn’t gotten plastered that day, I never would have entere
 
 Look at him slithering away like a loach.
 
-I watched Jinho hyung’s[^2] back inch into the distance, then finally picked up the box myself.
+I watched Jinho hyung’s back inch into the distance, then finally picked up the box myself.
 
 The moving driver, tired of waiting, honked the truck’s horn. The sound struck my ears.
 
@@ -188,13 +188,13 @@ He tried to sound calm, but he couldn’t hide the slight tremor in his voice.
 
 I understood how he felt.
 
-I had experienced something similar. If I hadn’t felt responsible for my family, and if Jinho hyung[^2] hadn’t been there to comfort me, I might have retired two years ago.
+I had experienced something similar. If I hadn’t felt responsible for my family, and if Jinho hyung hadn’t been there to comfort me, I might have retired two years ago.
 
 *Then my life would have turned out completely differently.*
 
 Being a Hunter was a brutal profession. The media praised them as humanity’s guardians and shields, but they lived with death always at their side.
 
-“Turn right in fifty meters[^4].”
+—Turn right in fifty meters.
 
 The driver paused at the navigation’s voice, then muttered, “Oh, come to think of it, this is a safe zone.”
 
@@ -294,7 +294,7 @@ Until Hayeon finished her college entrance exam, I planned to eat and sleep here
 
 There was a mountain of other things to do. But instead of feeling tired, I felt energized. These were all things I hadn’t been able to do before, no matter how much I wanted to.
 
-It had only been a few months since I had done nothing but suffer while going back and forth between Gates and the goshiwon[^3], yet so much had changed.
+It had only been a few months since I had done nothing but suffer while going back and forth between Gates and the goshiwon, yet so much had changed.
 
 *You’ve come a long way, Jin Taekyung.*
 
@@ -348,7 +348,7 @@ The first thing to emerge was a pair of feet.
 
 Red letters were printed across a pair of long athletic socks that reached up to the calves.
 
-**Hope Goshiwon[^3] Early-Morning Soccer Club**
+**Hope Goshiwon Early-Morning Soccer Club**
 
 Next came sweatpants rolled up halfway, followed by a pair of pale, skinny hands. The cover of the book he clutched tightly, as though it were scripture, gleamed in the sunset pouring through the window.
 
@@ -356,7 +356,7 @@ Next came sweatpants rolled up halfway, followed by a pair of pale, skinny hands
 
 And finally, his face emerged.
 
-After enduring several long hours of agony, he looked as haggard as Crown Prince Sado[^5] yet as relieved as Park Hyeokgeose[^6] emerging from an egg.
+After enduring several long hours of agony, he looked as haggard as Crown Prince Sado[^1] yet as relieved as Park Hyeokgeose emerging from an egg.[^2]
 
 A parched voice slipped between his bone-dry lips.
 
@@ -364,9 +364,8 @@ A parched voice slipped between his bone-dry lips.
 
 As Seong Jinho gazed around the spacious room, a satisfied smile spread across his lips.
 
-[^1]: In South Korea, a judicial scrivener handles legal and registration work for matters such as real-estate transactions.
-[^2]: *Hyung* is a term a younger man uses to address an older brother or an older male friend.
-[^3]: A *goshiwon* is a building of small, inexpensive rented rooms, originally intended for students preparing for exams.
-[^4]: Fifty meters is about 164 ft.
-[^5]: Crown Prince Sado was an eighteenth-century Joseon royal who died after being confined in a wooden rice chest.
-[^6]: Park Hyeokgeose is the legendary founder of the ancient Korean kingdom of Silla, said to have been born from an egg.
+[^1]: Crown Prince Sado was an eighteenth-century Joseon royal who died after being confined in a wooden rice chest.
+
+[^2]: Park Hyeokgeose is the legendary founder of the ancient Korean kingdom of Silla, said to have been born from an egg.
+
+[^3]: In South Korea, a judicial scrivener handles legal and registration work for matters such as real-estate transactions.
