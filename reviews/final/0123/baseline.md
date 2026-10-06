@@ -2,7 +2,7 @@
 
 A middle-aged man lay in bed, his entire body wrapped in bandages.
 
-His brow was deeply furrowed, as if something was bothering him, and his body kept fidgeting without a moment’s rest.
+His brow was deeply furrowed, as if something was bothering him, and his body kept fidgeting without a moment's rest.
 
 “Ugh.”
 
@@ -20,9 +20,9 @@ Here we go again. Cheol Mubaek, the Tiger of Mount Heng, stared blankly at the c
 
 “I’ve already slept enough.”
 
-“You only slept for one shichen[^1].”
+“You only slept for one shichen.”
 
-“Only? One shichen[^1] is plenty.”
+“Only? One shichen is plenty.”
 
 “You’ll only make your injuries worse.”
 
@@ -34,7 +34,7 @@ Here we go again. Cheol Mubaek, the Tiger of Mount Heng, stared blankly at the c
 
 Cheol Mubaek fell silent at Seowol’s pointed remark.
 
-She was right. He had never suffered injuries this severe since learning the Shura Annihilating Fist. Broken limbs and serious internal injuries. According to the physician, his injuries were severe enough to require at least four months of recuperation.
+She was right. He had never suffered injuries this severe since learning the Shura Annihilating Fist. Broken limbs and serious internal injuries. According to the physician, he would need at least four months of recuperation.
 
 “I wasn’t this badly hurt even when I met your father.”
 
@@ -240,7 +240,7 @@ I scrubbed my face with the less-soaked sleeve.
 
 “It did?”
 
-“Two hundred years ago. Even in the library of Heaven’s Gate Temple, which holds thousands, even tens of thousands of books, that martial art survives only in written records. And to think that the Great Hero Tiger of Mount Heng was the current successor to the Shura Annihilating Fist!”
+“Two hundred years ago. Even in the library of Heaven’s Gate Temple, which holds tens of thousands of books, that martial art survives only in written records. And to think that the Great Hero Tiger of Mount Heng was the current successor to the Shura Annihilating Fist!”
 
 His cheeks flushed red from excitement at the mere thought.
 
@@ -346,7 +346,4 @@ Today was probably the most astonishing day of Jin Mukyung’s entire life.
 
 I grinned as his eyes bulged and darted between me and the martial arts manual.
 
-“From now on, call me hyung[^2].”
-
-[^1]: A *shichen* is a traditional time unit of approximately two hours.
-[^2]: *Hyung* is a Korean term a man uses to address an older brother or an older man with whom he is close.
+“From now on, call me hyung.”
