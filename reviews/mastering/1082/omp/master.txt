@@ -22,7 +22,7 @@ But the young man looking down at them wore a conflicted expression.
 
 “…Hmm.”
 
-A low groan slipped from his lips. Then someone’s voice suddenly pierced his ears.
+A low murmur escaped his lips. Then a voice sounded suddenly beside him.
 
 “Oh, there you are.”
 
@@ -106,7 +106,7 @@ Perhaps that was why Great Sir’s next words left him speechless.
 
 “…!”
 
-“The strong-willed ones simply don’t show it. They haven’t gotten used to it. They’re closer to being worn out and utterly exhausted. Someone I knew was like that, too.”
+“The strong-willed ones simply don’t show it. They haven’t gotten used to it. They’re worn out—utterly exhausted. Someone I knew was like that, too.”
 
 “Do you know someone like that, Uncle?”
 
@@ -114,7 +114,7 @@ Perhaps that was why Great Sir’s next words left him speechless.
 
 Great Sir let out an enormous yawn, then continued.
 
-“But he chose to accept the reality and fate he was dealt. The person you want to be like probably feels the same way.”
+“But he chose the reality and fate before him, and accepted them. The person you want to be like probably feels the same way.”
 
 “…Uncle Great Sir, is this really who you are?”
 
@@ -136,7 +136,7 @@ Great Sir pointed toward the endless sky, gloomy and overcast even at midday.
 
 “I don’t know if the Supreme Deity or whatever is up there, but I’ll bet my balls he’s not all that impressive.”
 
-Cheongpung, who had been listening to Great Sir with a serious expression, tilted his head.
+Cheongpung, who had been listening intently, tilted his head.
 
 “Um, only men like me have those…”
 
@@ -210,7 +210,7 @@ Great Sir snapped, then added hesitantly, “Truthfully, it’s a little hazy. B
 
 “I’m sure. I think someone may have asked me to come get you, but if it had been terribly important, I’d remember.”
 
-Just as Great Sir answered firmly, as if to allow no further argument, someone’s presence came rushing toward them from far away.
+He sounded determined to allow no further argument. Just then, Cheongpung sensed someone approaching rapidly from a distance.
 
 “Young Hero Cheongpung! Where are you? Damn it, Young Hero Cheongpung!”
 
@@ -234,7 +234,7 @@ Great Sir had been standing beside him a moment ago. Now he was crouched close b
 
 Cheongpung had no chance to answer.
 
-Before he could even feel exasperated at Great Sir’s simple yet flawless concealment technique, Hyuk Mujin hurried over, panting, and said something that struck Cheongpung like a bolt of lightning.
+Before he could even feel exasperated by Great Sir’s simple yet flawless concealment technique, Mujin hurried up, panting. His next words struck Cheongpung like lightning.
 
 “This is no time to stand around! The Potala Palace in Tibet has joined forces with Dark Heaven!”
 
@@ -242,9 +242,9 @@ Before he could even feel exasperated at Great Sir’s simple yet flawless conce
 
 Cheongpung’s eyes widened.
 
-But Hyuk Mujin wasn’t finished.
+But Mujin wasn’t finished. What came next was an even greater shock.
 
-“And that’s not all! Seafaring King Pa Ryun and Green Forest Battle King Tae Gunak…”
+“And that’s not all! Seafaring King Pa Ryun and Green Forest Battle King Tae Gunak…!”
 
 Ever since the conflict with Dark Heaven had begun in earnest, the Murim Alliance had feared the Murim forces of Tibet might join them.
 
@@ -260,11 +260,11 @@ And, as always, his ominous suspicion soon became certainty.
 
 The first to break the silence was a massive old man.
 
-His blazing eyes were more intense than the sharp edge of the crescent-bladed guandao in his hand, and the aura pouring from his entire body was as vast as a surging wave.
+The glare from his fierce eyes was more intense than the edge of the crescent-bladed guandao in his hand. The aura pouring from his body was as vast as a wave.
 
 As vast as his title: the Seafaring King.
 
-“Better than the smell of fish. You’ve spent your whole life eating it raw. Your belly must be crawling with worms by now. How about you quit your life at sea and come work under this old man?”
+“Better than the stink of fish. You’ve spent your whole life eating it raw, so your belly must be crawling with roundworms by now. How about you quit working the river and come work under this old man?”
 
 But the other old man, standing more than three hundred yards away, was no pushover either.
 
@@ -272,11 +272,11 @@ He was remarkably small, his bones as thin as twigs. Though he looked too old to
 
 If Seafaring King Pa Ryun was the king of the Yangtze, this man ruled the mountains.
 
-The man who had built the Green Forest Alliance of today—the Green Forest Battle King, Tae Gunak.
+He was the founder of the Green Forest Alliance as it stood today: Green Forest Battle King Tae Gunak.
 
 “‘This old man,’ my ass. You’re a squirt, yet you run your mouth like that. Did you swallow some rotten sewage?”
 
-“Funny, calling me a squirt over a mere one-year age difference. And even if we’re only counting our experience in Murim, I’m clearly your Senior.”
+“Funny, calling me a squirt when you’re only a year older. If we’re talking experience in Murim, I’m clearly your Senior.”
 
 “Is that why you started calling yourself a king? Because no one would count you among the Ten Kings?”
 
@@ -286,7 +286,7 @@ Pa Ryun fired back as if he’d been waiting for the chance. Tae Gunak’s gaze 
 
 “Funny. I was about to say the same thing.”
 
-The two old men stared at each other in silence. Their auras had taken on visible form, billowing above their shoulders.
+The two old men stared at each other in silence. Their qi had taken on visible form, billowing above their shoulders.
 
 As if they might fight to the death at any moment.
 
@@ -294,15 +294,15 @@ But the next instant—
 
 *Whoosh.*
 
-The two giants of the dark-path Murim swiftly suppressed their auras and quietly clicked their tongues.
+The two giants of the dark-path Murim let their auras subside at once and quietly clicked their tongues.
 
 Both had spent their lives using any means necessary to get what they wanted. Neither knew when their long rivalry would end, but both knew it wouldn’t be today.
 
-“How’s the plan?”
+“The plan?”
 
 “Going smoothly. Just as we were told.”
 
-Tae Gunak looked toward the dense forest behind him, his gaze darkening, then added to Pa Ryun:
+Tae Gunak looked back at the dense forest behind him, his gaze heavy, then spoke to Pa Ryun.
 
 “Don’t forget. Two days. Two days from now.”
 

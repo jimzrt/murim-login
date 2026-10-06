@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled chapter is faithful overall, with one minor omission in the description of what Cheongpung admires about Jin Taekyung.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 104–106",
+      "current": "Not because of strength or talent in martial arts. He admired the way Taekyung lived.",
+      "defect": "The Korean explicitly includes both strength and weakness as things that are not the basis of Cheongpung’s admiration. The assembled English omits weakness.",
+      "replacement": "Not because of strength or weakness, or talent in martial arts. He admired the way Taekyung lived.",
+      "rationale": "The source says his admiration is not based on “strength or weakness” (강함과 약함) or martial arts talent, but on the way Jin Taekyung lives.",
+      "confidence": 0.97
+    }
+  ]
+}
