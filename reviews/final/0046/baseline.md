@@ -34,7 +34,7 @@ Team Leader Choi watched me with that peculiar look of his.
 
 “I’ve only eaten three.”
 
-“Oh, can we order some yukhoe?[^1]”
+“Oh, can we order some yukhoe?[^2]”
 
 “…Yes.”
 
@@ -132,7 +132,7 @@ If I followed my heart, I’d sign the contract right away—signature, seal, th
 
 I’d be dead broke.
 
-Overnight, I’d go from being called talent to being called a human disaster.[^2]
+Overnight, I’d go from being called talent to being called a human disaster.[^3]
 
 “Is it a money problem?”
 
@@ -142,7 +142,7 @@ But this was more important. I couldn’t let the wad of cash dangling in front 
 
 “It’s difficult to explain. I’m sorry, but this isn’t something I can decide right now…”
 
-“One hundred million won.[^3]”
+“One hundred million won.”
 
 “A hundred million?”
 
@@ -240,7 +240,7 @@ Choi Minwoo shook his head. He felt as if he’d been bewitched by a ghost.
 
 As he rose from his seat, the restaurant owner approached and held out the bill.
 
-“That will be 1,937,000 won.[^4]”
+“That will be 1,937,000 won.”
 
 “…”
 
@@ -262,7 +262,7 @@ And an answer came back.
 
 “Me, you son of a bitch.”
 
-Jinho was smoking on the roof of the goshiwon[^5] building, in the same spot where I’d seen him that morning. He exhaled a wistful stream of smoke and continued.
+Jinho was smoking on the roof of the goshiwon building,[^4] in the same spot where I’d seen him that morning. He exhaled a wistful stream of smoke and continued.
 
 “I spent ten years crying, regretting it, and making vows…”
 
@@ -286,7 +286,7 @@ My voice drained of strength as I went on.
 
 “Cough! Cough-cough!”
 
-Maybe he’d inhaled the cigarette smoke wrong. Jinho hyung[^6] coughed like a maniac before he finally managed to speak.
+Maybe he’d inhaled the cigarette smoke wrong. Jinho hyung coughed like a maniac before he finally managed to speak.
 
 “D-didn’t you throw it away because you didn’t need it?”
 
@@ -300,7 +300,7 @@ I hadn’t expected the situation to change this much in just a few hours.
 
 Where was I even supposed to start looking? I let out a deep sigh.
 
-“Hyung,[^6] you didn’t happen to see who took it, did you?”
+“Hyung, you didn’t happen to see who took it, did you?”
 
 “Uh… well.”
 
@@ -326,7 +326,7 @@ Anyway, that wasn’t the point. I shot to my feet and asked,
 
 “I’m not asking for a finder’s fee, but roughly how much were you thinking?”
 
-“…One hundred thousand won?[^7]”
+“…One hundred thousand won?”
 
 “Oh, dear. Maybe I’m getting old. My memory’s a little hazy.”
 
@@ -334,7 +334,7 @@ Anyway, that wasn’t the point. I shot to my feet and asked,
 
 “Right, then. Good luck in this heat.”
 
-“The finder’s fee is one hundred and eighty thousand won.[^8]”
+“The finder’s fee is one hundred and eighty thousand won.”[^5]
 
 Apparently satisfied with the amount, Jinho beamed.
 
@@ -454,7 +454,7 @@ At the same time, the past seven years flashed through my mind. The name F-rank,
 
 “Fuck…”
 
-I couldn’t take it anymore. I shot to my feet, raced out of the goshiwon[^5], and flagged down a passing taxi.
+I couldn’t take it anymore. I shot to my feet, raced out of the goshiwon, and flagged down a passing taxi.
 
 “Where would you like to go?”
 
@@ -474,11 +474,10 @@ As I clenched my fist, the taxi driver said,
 
 “Oh.”
 
-[^1]: Yukhoe is seasoned Korean raw beef.
-[^2]: In Korean, *injae* can mean “talent” (人才) or “human disaster” (人災), depending on the characters.
-[^3]: One hundred million won is about $71,000 or €65,000.
-[^4]: 1,937,000 won is about $1,400 or €1,200.
-[^5]: A goshiwon is a building of small, inexpensive rooms for rent.
-[^6]: Hyung is a term a man uses to address an older brother or an older male friend.
-[^7]: One hundred thousand won is about $71 or €65.
-[^8]: One hundred and eighty thousand won is about $130 or €120. The Korean for “eighteen,” *sip-pal*, echoes the swear Taekyung just used; he also switches abruptly to polite speech.
+[^2]: Yukhoe is seasoned Korean raw beef.
+
+[^3]: The Korean words for “talent” and “human disaster” share the same pronunciation, though they use different characters.
+
+[^4]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement.
+
+[^5]: In Korean, *sip-pal* (“eighteen”) echoes the swear he just used, and he switches abruptly to stiff politeness.
