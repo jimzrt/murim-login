@@ -408,6 +408,4 @@ Jeok Cheongang blinked. The ceiling had looked blurry for some time, and now som
 
 “The inn is old. Rain must be leaking through.”
 
-It was a winter night, one day before New Year’s Day.[^1]
-
-[^1]: Here, New Year’s Day is the first day of the traditional lunar calendar.
+It was a winter night, one day before New Year’s Day.
