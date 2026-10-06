@@ -18,7 +18,7 @@ No—right now.
 
 *Whoosh.*
 
-With one powerful flap of his wings, the clouds that had filled the air around Jin Taekyung like bars vanished.
+With a powerful beat of his wings, the clouds that had surrounded him like prison bars vanished.
 
 A night sky so dark it looked cold opened before him.
 
@@ -36,7 +36,7 @@ Countless fighter jets tore through the sky, bursting through the compressed air
 
 And—
 
-*Shriek!*
+*Whoosh!*
 
 Gigantic monsters flew straight through that dense web of fire.
 
@@ -68,7 +68,7 @@ A wing so enormous that anyone who saw it would forget to breathe. It belonged t
 
 The moment he faced that overwhelming presence, Jin Taekyung felt his senses sharpen with astonishing clarity.
 
-Perhaps that was why he thought he met the gaze of two eyes like black obsidian, looking down imperiously on everyone below, blotting out even the moonlight.
+Perhaps that was why he felt he had met the gaze of two obsidian eyes, looking down imperiously on everyone below from behind the wing that had blotted out the moon.
 
 *Fwoooosh!*
 
@@ -122,11 +122,11 @@ As I realized it, a gentle smile spread across my lips. The nightmare that had c
 
 “…!”
 
-Jeok Cheongang paused at the effortless way I’d addressed him without a moment’s hesitation. Then he answered in a choked voice.
+Jeok Cheongang paused at the effortless way I’d addressed him. Then he tried to answer, his voice choked with emotion.
 
 Tried to.
 
-Until a crowd of uninvited guests came rushing in with a clamor of heavy footsteps.
+A crowd of uninvited guests came rushing in, their heavy footsteps drowning him out.
 
 “Yes, my—”
 
@@ -156,7 +156,7 @@ That was how long the people staring at me with wide eyes, as if they couldn’t
 
 “…”
 
-Yeah. It was nice.
+Well. It was nice, obviously.
 
 But maybe I should’ve slept a little longer.
 
@@ -220,7 +220,7 @@ I looked at him, moved.
 
 “Yes. It’s me. Your right arm. Your heart. Hyuk Mujin.”
 
-“Right. You’re still alive, my little toe.”
+“Right. You’re alive, my little toe.”
 
 “…”
 
@@ -234,7 +234,7 @@ Above the bandages, Hyuk Mujin’s eyes, which had looked ready to overflow with
 
 I frowned at the hurt in his voice.
 
-“Too much? You’re the one who was about to throw our promise away like it was worthless.”
+“Too much? You’re the one who was about to throw our promise away.”
 
 “What?”
 
@@ -250,7 +250,7 @@ He’d fought recklessly, foolishly, even putting his own life on the line.
 
 So there was only one thing I could say to him now.
 
-“You’ve been through a lot.”
+“You fought hard.”
 
 Hyuk Mujin had been about to reply, but his eyes widened.
 
@@ -264,7 +264,7 @@ I forced a smile and went on.
 
 “…!”
 
-The air in the room quivered.
+For an instant, the air in the sickroom seemed to tremble.
 
 Everyone who’d been chattering a moment earlier fell silent as if on cue and looked at me.
 
@@ -302,7 +302,7 @@ That was why they were giving us some space, if only for a little while.
 
 So we could feel everything this moment held, knowing it might be our last. So we could accept both the joy of surviving and meeting again and the grief for those who had left us, then continue on our way.
 
-“Get some rest. I’ll be back.”
+*Get some rest. I’ll be back.*
 
 I nodded quietly.
 
