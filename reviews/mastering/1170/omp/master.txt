@@ -58,7 +58,7 @@ When Jin Taekyung first heard those strange words from the Doppelganger, he had 
 
 *So it was you.*
 
-In the imperial palace’s grand banquet hall, covered in the rebels’ blood and corpses, the Bow Saint finally revealed her identity and spoke.
+In the imperial palace’s grand banquet hall, covered in the rebels’ blood and corpses, the Bow Saint had finally revealed her identity.
 
 *The chosen one the Martial God spoke of.*
 
@@ -132,9 +132,9 @@ With that calm reply, Morgoth looked out at the world sinking into the colors of
 
 “This place is certainly different. It’s nothing like the world where I was born and raised.”
 
-Of course it was.
+Of course it wasn’t.
 
-This strange world called Earth had neither three moons and a sun, nor twelve continents and nine seas.
+This strange world called Earth had no three moons and sun, no twelve continents and nine seas.
 
 Nor did it have great cities built and sustained entirely by magic, or vividly colored wilderness teeming with spirits.
 
@@ -156,7 +156,7 @@ Looking straight at Jin Taekyung, Morgoth added,
 
 “…!”
 
-“At first, I couldn’t understand it. Your lifespans and wisdom couldn’t match the elves. You weren’t physically gifted like the dwarves, and you didn’t even have the reproductive capacity of monsters.”
+“At first, I couldn’t understand it. Your lifespans and wisdom couldn’t match the elves’. You weren’t physically gifted like the dwarves, and you didn’t even reproduce as quickly as monsters.”
 
 And yet, humans had thrived in Morgoth’s homeland.
 
@@ -188,7 +188,7 @@ They didn’t fight to survive. They bled and died to gain something more.
 
 Desire had turned to greed.
 
-“But not all humans were like that. If some were ruled by instincts uglier than a monster’s, there were others at the opposite extreme.”
+“But not all humans were like that. For every person ruled by instincts uglier than a monster’s, there was someone at the opposite extreme.”
 
 The eyes that had once glinted like obsidian had long since lost their light.
 
@@ -220,7 +220,7 @@ This time, too, the answer was close at hand.
 
 *I changed, too. Enough to bear the responsibility as it kept getting heavier. I kept changing.*
 
-And the world called that something else. Not change.
+And the world had another name for that change.
 
 Growth.
 
@@ -228,11 +228,11 @@ He had grown, and he was still growing.
 
 A child had become a boy, a boy had become a young man—and before he knew it, a torch lighting the way for all humanity. A new savior.
 
-That was why what Jin Taekyung held deep in his heart was the purest of desires, and at the same time, something beyond the word desire.
+What Jin Taekyung held deep in his heart was the purest of desires, yet also something beyond desire.
 
 “Hope.”
 
-In that moment, Morgoth could feel it.
+In that moment, Morgoth felt it.
 
 The power and bright vitality in the word that had passed through those parched lips.
 
@@ -266,11 +266,11 @@ That he would survive to the end alongside those who were fighting even now, sho
 
 And that this goddamn story would, please, have a happy ending.
 
-“Honestly, I don’t care who chose me. Even if it was all a delusion or a misunderstanding.”
+“Honestly, I don’t care who chose me. Even if it was all a delusion or a mistake.”
 
 Using his spear as a cane, Jin Taekyung pushed his exhausted body to its feet.
 
-“I’ve made it this far, and I’ll see it through.”
+“I’ve done it before, and I’ll do it again.”
 
 *Shing.*
 
@@ -314,7 +314,7 @@ He could sense it just as clearly.
 
 A mysterious energy, neither mana nor magical power, enveloped it completely.
 
-*How fortunate. At least I could confirm a trace of that person.*
+*How fortunate. At least I could confirm a trace of Him.*
 
 As those words faded into emptiness within him, Morgoth gathered the last of his strength and opened his mouth.
 
