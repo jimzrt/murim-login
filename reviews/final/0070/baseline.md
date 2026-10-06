@@ -114,7 +114,7 @@ Anger suddenly surged within Jin Mukyung, and he kicked his younger brother in t
 
 Jin Taekyung rolled away several times before shuddering all over.
 
-“W-Wolhwa noona[^1]. Not there.”
+“W-Wolhwa noona. Not there.”
 
 “…!”
 
@@ -417,5 +417,3 @@ I wanted to stand at its center.
 “What will you do?”
 
 My answer had been decided a long time ago.
-
-[^1]: *Noona* is a Korean term a younger man uses to address an older sister or a familiar older woman.
