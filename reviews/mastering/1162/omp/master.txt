@@ -36,7 +36,7 @@ But I was certain of one thing.
 
 The Skeleton King had done everything he could, and he’d done it for me—for all of us.
 
-That was why I couldn’t ask the most important question. His obsidian eyes watched me closely, taking in every part of me.
+That was why I couldn’t bring myself to ask the question that mattered most. Morgoth’s obsidian eyes took in every bit of my hesitation.
 
 “Are you afraid?”
 
@@ -54,7 +54,7 @@ Maybe it was how readily I’d answered. After a brief silence, Morgoth gave a q
 
 “So? Your answer?”
 
-“Didn’t I already tell you? A valuable trophy. He was so violent in his rampage that he’s a little damaged, but I have no desire to see him shattered to pieces.”
+“Didn’t I already tell you? He’s a valuable trophy. He fought so violently that he’s a little damaged, but I have no desire to see him shattered to pieces.”
 
 The meaning was clear.
 
@@ -66,7 +66,7 @@ It was the answer I’d been desperately waiting for since the moment I set foot
 
 “Thanks, you son of a bitch.”
 
-“Don’t mention it. I couldn’t pass up such a precious opportunity after all this time.”
+“Don’t mention it. I couldn’t let such a precious opportunity pass me by.”
 
 “You don’t make a habit of taking hostages, do you?”
 
@@ -94,7 +94,7 @@ And murderous intent so vivid I could almost touch it.
 
 “Was this your plan from the start?”
 
-“No. But the moment we first met, I realized I might make the same mistake Asmodeus once did. And, more than anything…”
+“No. But the moment I first saw you, I realized I might make the same mistake Asmodeus once did. And more than anything…”
 
 His gaze swept over me, unpleasant in its mixture of interest and regret, as though it could see through my entire body.
 
@@ -118,7 +118,7 @@ If Morgoth had truly been someone I could trust, I would have gladly done whatev
 
 My life?
 
-If the deaths of Cheon Taemin and me could bring peace to billions of people, I would have given them up without a second thought.
+If Cheon Taemin and I could bring peace to billions by dying, I would have given it up without a second thought.
 
 That was my duty.
 
@@ -184,7 +184,7 @@ I couldn’t say exactly when it had happened—when I’d begun to see him as m
 >
 > “What kind of being was I, in the past?”
 
-That day, I’d told him as he brooded that I didn’t really know, but he’d probably been a pretty decent guy.
+That day, I’d told him I didn’t really know, but he’d probably been a pretty decent guy. I’d let the words slip almost to myself, embarrassed for no good reason.
 
 He hadn’t forgotten them.
 
@@ -194,7 +194,7 @@ Even now, I could see it all clearly.
 
 The spearhead of White Flame, which the Arch Lich had sent flying at me when I was too exhausted and injured to move.
 
-The Skeleton King forcing his way out of my Inventory by his own power and shielding me with his entire body.
+The sight of him forcing his way out of my Inventory by his own power and shielding me with his entire body.
 
 > “Why…?”
 >
@@ -214,7 +214,7 @@ The Skeleton Warlord I’d first met in the Black Forest fell.
 
 > “You asked me why.”
 
-Then, on human land, a new being who’d sacrificed himself to protect humans rose once more with a shining crown.
+Then, on human soil, a new being who’d sacrificed himself to protect a human rose again with a shining crown.
 
 He gave back the words I’d once said to him—words he would never forget.
 
@@ -232,7 +232,7 @@ Hot.
 
 My eyes, fixed solely on Morgoth. My two dantians, pouring out Scorching Yang Qi without pause like a volcano erupting after a long wait.
 
-And the step I took, carrying every memory that had just passed through me.
+Even the step I took, carrying every memory that had just passed through me.
 
 *Crack.*
 
@@ -256,7 +256,7 @@ With a sudden flare of blue-black flames, the hundred or so meters between the t
 
 No—*vaporized* might have been more accurate.
 
-The heat Morgoth felt was that horrifyingly intense, and the speed surpassed even sound.
+The heat Morgoth felt was that intense, and the speed surpassed even sound.
 
 But—
 
@@ -272,7 +272,7 @@ Morgoth’s eyes flew wide. A silver spearhead slashed down at an angle, reflect
 
 Where had it come from? How?
 
-He hadn’t sensed the power of any magic.
+He hadn’t sensed any magic.
 
 Before he could find an answer, the flames carried on the spearhead drove into his chest.
 
@@ -282,7 +282,7 @@ For the briefest moment.
 
 *Flash—slice!*
 
-In a moment split into smaller moments, Morgoth crossed the distance in an instant. He silently raised a hand to touch the area around his chest.
+In an instant split into countless smaller moments, Morgoth crossed the distance in a single leap. Silently, he raised a hand to his chest.
 
 More precisely, to the patch of skin that had been scorched black by the slightest graze.
 
@@ -294,7 +294,7 @@ But unlike the undead monster who’d caused him pain the second time, the human
 
 Enough to make Morgoth ask with genuine curiosity, “Are you, by any chance, one of my kind?”
 
-Slowly but carefully closing the distance, Jin Taekyung answered calmly.
+Jin Taekyung closed the distance slowly, cautiously.
 
 “Yeah. Long time no see, son.”
 

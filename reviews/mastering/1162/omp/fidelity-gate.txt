@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it drops one remembered detail and the sincerity attached to Taekyung’s thanks.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 223–225",
+      "current": "He hadn’t forgotten them.",
+      "defect": "The source says the Skeleton King remembered one specific remark—an offhand comment Taekyung let slip as if talking to himself, out of embarrassment. “Them” changes the singular reference and the translation omits the remark’s manner and emotional context.",
+      "replacement": "He hadn’t forgotten that offhand remark I’d let slip, embarrassed for no good reason.",
+      "rationale": "The Korean specifies “that one remark” and says Taekyung let it slip as if talking to himself because he felt awkward.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 79",
+      "current": "Only then did I let out the breath I’d been holding.",
+      "defect": "The source says Taekyung spoke with genuine feeling after letting out his held breath. The current line preserves the breath but drops the sincerity cue before his thanks.",
+      "replacement": "Only then did I let out the breath I’d been holding and speak from the heart.",
+      "rationale": "The Korean explicitly says he put sincerity into what he said.",
+      "confidence": 0.98
+    }
+  ]
+}
