@@ -20,7 +20,7 @@ Only after the owner filled it to overflowing with bamboo-leaf wine did the old 
 
 “My word, thirty thousand!”
 
-“Does that make any sense? Mount Heng Sword Sect isn’t one of the Nine Sects and One Gang[^1]…”
+“Does that make any sense? Mount Heng Sword Sect isn’t one of the Nine Sects and One Gang…”
 
 The storyteller stopped mid-sip and spat the wine back out.
 
@@ -42,7 +42,7 @@ Ting.
 
 “Huh?”
 
-The storyteller’s narrowed eyes flew open. A gleaming silver nyang[^2] had come flying from somewhere.
+The storyteller’s narrowed eyes flew open. A gleaming silver nyang had come flying from somewhere.
 
 “Well. Whoever that is, they’re a big spender.”
 
@@ -102,7 +102,7 @@ Judging by his voice, he was clearly a young bastard—but a young bastard who h
 
 “They’re the same person.”
 
-After a long silence, the man snapped his fingers. A second silver nyang[^2] landed perfectly in the storyteller’s bowl.
+After a long silence, the man snapped his fingers. A second silver nyang landed perfectly in the storyteller’s bowl.
 
 “I believe I asked you to keep it simple and stick to the facts.”
 
@@ -122,7 +122,7 @@ At the storyteller’s resolute answer, the man sighed.
 
 “A horse’s mess, more like. They’re mounted bandits, aren’t they?”
 
-The inn went dead quiet. Everyone expected the big-spending martial artist to drive a third silver nyang[^2] into the storyteller’s forehead.
+The inn went dead quiet. Everyone expected the big-spending martial artist to drive a third silver nyang into the storyteller’s forehead.
 
 Instead, the man rose from his seat without a word.
 
@@ -364,8 +364,6 @@ And when you enter someone else’s room, you knock.
 
 I especially believe that anyone who barges into a room occupied by a man alone without knocking deserves life in prison.
 
-“Here you are.”
-
 By that standard, the bastard in front of me got the death penalty.
 
 Smashing the door got him life. Talking to me like we were equals on our first meeting earned him an additional sentence.
@@ -374,7 +372,7 @@ I answered him politely.
 
 “Yeah. I’m here.”
 
-The bastard’s eyes went round. His face was black with grime, as if he had spent twenty years in the Aoji Coal Mine.[^3]
+The bastard’s eyes went round. His face was black with grime, as if he had spent twenty years in the Aoji Coal Mine.[^1]
 
 Young, in shabby clothes. The story practically wrote itself.
 
@@ -422,9 +420,6 @@ Heh.
 
 I gave an awkward laugh. Wandering Martial Artist #1 was glaring at me, his eyes like ice.
 
-“Long time no see, hyung.[^4]”
+“Long time no see, hyung.”
 
-[^1]: The Nine Sects and One Gang is a conventional grouping of major martial sects and the Beggars’ Gang in martial-arts fiction.
-[^2]: A silver nyang is a unit of silver currency used in the story’s historical setting.
-[^3]: Aoji Coal Mine was a coal mine in North Korea notorious for harsh working conditions.
-[^4]: *Hyung* is a Korean term a man uses to address an older brother or an older man with whom he is close.
+[^1]: Aoji Coal Mine was a notorious coal mine in North Korea, associated with harsh working conditions.
