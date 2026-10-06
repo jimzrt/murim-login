@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is mostly faithful, but it reveals the woman’s identity too early, drops a momentary reaction, and introduces ambiguity in a count that refers to four people total.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 47–49; English P19",
+      "current": "She led the white-robed figures and had served the Lord of Heaven even more closely than he had.",
+      "defect": "The English identifies the figure as a woman before the source does. The Korean at this point describes the figure without establishing gender; the later reveal, “아니, ‘그녀’가,” is a deliberate beat.",
+      "replacement": "The figure led all the white-robed people and had served the Lord of Heaven even more closely than he had.",
+      "rationale": "The source withholds the figure’s gender until line 69, preserving the surprise of the correction from “he” to “she.”",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 105–109; English P44",
+      "current": "It was an unbearably humiliating thing to hear—as a martial artist, and as a subordinate who had devoted himself wholeheartedly to serving someone.",
+      "defect": "The English omits his immediate reaction that, for a moment, he wondered if he had misheard.",
+      "replacement": "For a moment, the Blood-Sword Demon Lord thought he’d misheard. It was an unbearably humiliating thing to hear—as a martial artist, and as a subordinate who had devoted himself wholeheartedly to serving someone.",
+      "rationale": "The Korean explicitly gives this brief disbelief before describing the humiliation.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 149–150; English P57",
+      "current": "four Demon Lords and Demon Empresses have already met their ends.",
+      "defect": "The phrasing can be read as four Demon Lords plus an unspecified number of Demon Empresses. The Korean’s counter indicates four people total across those titles.",
+      "replacement": "four among the Demon Lords and Demon Empresses have already met their ends.",
+      "rationale": "The Korean says 네 분의 마군, 마후—four people belonging to the Demon Lord and Demon Empress categories—not four Demon Lords plus additional Demon Empresses.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 287; English P114",
+      "current": "The distant flash swept through a radius of dozens of *jang*, bathing everything in light and shaking the ground. In its wake, nothing remained.",
+      "defect": "“Distant flash” makes 아득한 sound like a statement about distance. Here it describes the overwhelming, immense flash and destructive power.",
+      "replacement": "That overwhelming flash and destructive force swept through a radius of dozens of *jang*, bathing everything in light and shaking the ground. In its wake, nothing remained.",
+      "rationale": "The source describes the flash and its power as vast or overwhelming; it does not say the flash was distant.",
+      "confidence": 0.85
+    }
+  ]
+}
