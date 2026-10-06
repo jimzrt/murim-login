@@ -20,7 +20,7 @@ I looked at Miss Song-i with concern.
 
 *She must’ve drunk too fast.*
 
-The moment the drinking party had begun in earnest, she had chugged an entire bottle of soju[^1] straight from the bottle and had been like this ever since. Every now and then, she slurred incomprehensible things about someone having no damn tact and rotten luck clinging like a curse.
+The moment the drinking party had begun in earnest, she had chugged an entire bottle of soju straight from the bottle and had been like this ever since. Every now and then, she slurred incomprehensible things about someone having no damn tact and rotten luck clinging like a curse.
 
 *Is something bad going on?*
 
@@ -62,7 +62,7 @@ Crack.
 
 “Drink! Today, we drink ourselves to death!”
 
-Miss Song had opened her third bottle of soju[^1] and was going wild.
+Miss Song had opened her third bottle of soju and was going wild.
 
 “Ha-ha-ha! This is why I like Miss Song so much!”
 
@@ -120,15 +120,15 @@ Hundreds of Guilds existed in Korea, but only one stood at the top: the Ares Gui
 
 They appeared in educational comics, educational animations, movies, novels, and all kinds of other media. They had even made it into textbooks.
 
-The Ares Guild held a position in Korea comparable to a living King Sejong[^2] or an active Admiral Yi Sun-sin.[^3] No, perhaps even higher.
+The Ares Guild held a position in Korea comparable to a living King Sejong or an active General Yi Sun-sin. No, perhaps even higher.
 
 *They’re famous all over the world, after all.*
 
-If you asked most foreigners, “Do you know King Sejong? King-God-General Yi Sun-sin?” they’d probably think, *What the hell is this Asian bastard talking about?* But the Ares Guild was different.
+If you asked most foreigners, *Do you know King Sejong? King-God-General Yi Sun-sin?* they’d probably think, *What the hell is this Asian bastard talking about?* But the Ares Guild was different.
 
-“Do you know Ares?”
+*Do you know Ares?*
 
-“Oh, yes!”
+*Oh, yes!*
 
 Even a tough-as-nails Texas grandpa would slap his twin pistols and know what you meant. That was the accepted academic consensus.
 
@@ -252,7 +252,7 @@ On top of that, he was an incredibly senior one.
 
 I asked cautiously, “Um, which Hunter training center did you graduate from?”
 
-“Nonsan.[^4] What about you, Mr. Taekyung?”
+“Nonsan.[^1] What about you, Mr. Taekyung?”
 
 “Gasp. Me too. The 28th Regiment, 1st Battalion.”
 
@@ -266,7 +266,9 @@ There was nothing more to discuss. I rose from my seat and bowed deeply at the w
 
 “Nice to meet you, Senior.”
 
-There’s a saying in Korea about school ties, regional ties, and blood ties.[^5] Hunters were no different.
+[^1]: Nonsan is home to Korea’s main Army recruit training center.
+
+There’s a saying in Korea about school ties, regional ties, and blood ties.[^2] Hunters were no different.
 
 The chance of awakening was 0.1 percent—one in a thousand. With odds that slim, it was rare for anyone you knew from ordinary life to awaken. The Hunter training center might not seem like much, but it was where a Hunter’s network began.
 
@@ -288,7 +290,7 @@ Come to think of it, Team Leader Choi was the bigger shot. He employed a former 
 
 *What kind of family does he come from?*
 
-Was his grandfather the President and his father the prime minister?
+Was his grandfather the president and his father the prime minister?
 
 As my curiosity continued to grow, Team Leader Choi went on.
 
@@ -304,7 +306,7 @@ Team Leader Choi nodded and swept a stern gaze over everyone present.
 
 Im Kkeokjeong and Miss Song answered.
 
-“Man, this meat is incredible. Is it because it was grilled with Magic?”
+“Man, this meat is incredible. Is it because it was grilled with magic?”
 
 “The booze is going in. Booze! Down it goes, down it goes!”
 
@@ -358,8 +360,4 @@ At Team Leader Choi’s question, Im Kkeokjeong and Miss Song answered.
 
 *Hey, are you crying?*
 
-[^1]: Soju is a Korean distilled alcoholic drink commonly served with meals.
-[^2]: King Sejong was a fifteenth-century Korean ruler best known for overseeing the creation of the Korean alphabet.
-[^3]: Admiral Yi Sun-sin was a Korean naval commander celebrated for defending Korea during the Japanese invasions of the late sixteenth century.
-[^4]: Nonsan is home to Korea’s main Army recruit training center.
-[^5]: School ties, regional ties, and blood ties are traditionally regarded in Korea as major sources of social connections and influence.
+[^2]: School ties, regional ties, and blood ties are traditionally regarded in Korea as major sources of social connections and influence.
