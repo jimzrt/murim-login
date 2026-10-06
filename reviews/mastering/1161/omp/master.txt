@@ -14,11 +14,11 @@ Then came a force they could never have imagined.
 
 Eyes wide. Mouths agape. Legs frozen by primal fear.
 
-The monsters could not even let out a death cry.
+The monsters could not even cry out before they died.
 
-No—in their final moments, the pitiful screams they managed were swallowed and erased by the deafening roar.
+No—their pitiful screams were swallowed by the deafening roar.
 
-The impact was so horrific that “unprecedented” hardly did it justice. They were swept away helplessly, crushed into ruin.
+The collision was so horrific that “unprecedented” hardly did it justice. They were swept away helplessly and crushed.
 
 RUMBLE, RUMBLE—!
 
@@ -48,13 +48,13 @@ However brave a fighting dog might be, a tiger would still devour it. Strength y
 
 CRUNCH! CRACK!
 
-An ogre with both legs crushed let out a shriek. A troll, half its body torn away by a fragment that had flashed past in an instant, shuddered and fell.
+An ogre with both legs crushed let out a shriek. A troll, half its body torn away by a fragment that had struck in an instant, shuddered and fell.
 
 Even the Wyverns, descendants of Dragons who claimed the open sky as their domain, would never fly again.
 
-Those closest to the explosion’s center had either died the moment the shock wave reached them or were now falling helplessly, their proud wings gone.
+Those closest to the explosion’s center had either died the moment its force reached them or were falling helplessly, their proud wings gone.
 
-The explosion of power spread in every direction beyond the vast Dragon Lair. Its unprecedented magical power engulfed the monster army that had been in the area.
+The explosion had spread in every direction beyond the vast Dragon Lair, its unprecedented magical power engulfing the monster army stationed nearby.
 
 Relentlessly. Greedily.
 
@@ -70,7 +70,7 @@ Morgoth rose from the ashes of the Dragon Lair—no, even calling it a ruin woul
 
 The earth had been overturned as if by a massive earthquake. Monster corpses lay piled like mountains. Green blood flowed in rivers, while a single shaft of sunlight peered through a break in the dark clouds at the dreadful scene.
 
-Yet in this moment, not a hint of anger shone in the Black Dragon’s obsidian eyes.
+Yet not a hint of anger shone in the Black Dragon’s obsidian eyes.
 
 “What a sight.”
 
@@ -92,19 +92,19 @@ From right at his feet.
 
 “Shut… up.”
 
-At the faint voice, as hazy as a broken radio, Morgoth breathed a sigh of relief.
+At the faint, crackling voice, Morgoth breathed a sigh of relief.
 
 “I’m glad you still have some strength left. I was worried you might be erased.”
 
 He wasn’t exaggerating.
 
-The shock wave from the collision of two immense, utterly different forces had been truly terrifying.
+The force unleashed when those two immense, utterly different energies collided had been terrifying.
 
 If Morgoth hadn’t used all his power to protect himself, his entire body might now have been covered not in dust, but in his own blood.
 
-“Still, there was some unintended damage… What can you do? This, too, must be the order of things, determined by someone.”
+“It did cause some unintended damage… But what can you do? This, too, must be part of an order someone has ordained.”
 
-Morgoth smiled and brushed the dust from his shoulder. Like the dust drifting away in a pale cloud, the deaths of inferior monsters meant nothing to him.
+Morgoth smiled and brushed the dust from his shoulder. The dust drifted away in a pale cloud, and the deaths of inferior monsters meant just as little to him.
 
 Only one being mattered now: the one before him, his greatest interest and his sole objective.
 
@@ -168,7 +168,7 @@ And—
 
 “……!”
 
-“He’s the one who pulled me out of that godforsaken darkness. He’s the one who showed me a new world I’d never known.”
+“He’s the one who pulled me out of that godforsaken darkness. He showed me a new world I’d never known.”
 
 He had seen so much.
 
@@ -180,7 +180,7 @@ There had been happy days and sad days, but every moment had been dazzling.
 
 Because he wasn’t alone anymore.
 
-Because he was with them.
+Because they were together.
 
 That was enough.
 
@@ -188,7 +188,7 @@ That was enough.
 
 The Skeleton King smiled.
 
-Brighter and more radiant than ever.
+More brightly than ever.
 
 “My friends will be here soon.”
 
@@ -196,13 +196,13 @@ At that moment—
 
 *Flick.*
 
-Like a lamp going out, the ghostly flames flickering in his empty eye sockets suddenly vanished.
+Like a lamp going out, the ghostly flames in his empty eye sockets vanished.
 
-“…Your friends, you say?”
+“…Friends, you say?”
 
 Morgoth turned the Skeleton King’s final words over in his mind. The Skeleton King had finally lost his grip on consciousness, leaving Morgoth to ponder them alone.
 
-Friend.
+*Friends.*
 
 A familiar word, yet strange, as though he were hearing it for the first time.
 
@@ -210,7 +210,7 @@ Though he had once spent many years among humans in another world, he had never 
 
 Why did people who shared not a drop of blood care so deeply for one another? Why did they sometimes make the foolish choice to give their lives for each other?
 
-Morgoth knew all too well that they did such things. Why they did so remained a source of fascination and astonishment to him.
+Morgoth knew all too well that they did. Still, he found it fascinating.
 
 First, that the Skeleton King—nothing more than a cursed undead monster—could show such humanity.
 
@@ -218,7 +218,7 @@ And second—
 
 *Jin Taekyung.*
 
-A human who might have changed the Skeleton King into this extraordinary being.
+The human who might have changed the Skeleton King into someone so extraordinary.
 
 *There’s more I need to find out.*
 
@@ -252,9 +252,9 @@ The air trembled uneasily. The wind fell still. Morgoth’s tightly closed lips 
 
 “My apologies. I didn’t realize a guest had arrived.”
 
-Dark mist drifted away as he spoke in a low voice.
+Dark mist drifted apart at his quiet words.
 
-Beyond it, someone answered.
+From beyond it came an answer.
 
 “I’m asking because I’m curious.”
 
