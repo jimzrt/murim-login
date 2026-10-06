@@ -62,7 +62,7 @@ Four voices rang out as one.
 
 There was Jangcheon as a dirt-covered child, just as he’d looked the day they first met. Jangcheon as a boy, pleading to be accepted as a Disciple. Jangcheon as a young man, and Jangcheon as he’d looked on the day he left.
 
-All frozen in forms from a day that could never be taken back.
+Each wore the face Jeok Cheongang remembered from a day he could never return to.
 
 “Master. I’ve come. Cheon-ah is here.”
 
@@ -114,7 +114,7 @@ No. It was a flame burning as bright as light—a giant of fire, finally risen t
 
 The heat of the Flamefire Path distorted the space.
 
-One step. Nearly a hundred yards vanished, and the monsters’ wide eyes rushed closer.
+One step. The distance of over a hundred yards vanished, and the monsters’ wide eyes rushed closer.
 
 *Crunch!*
 
@@ -150,19 +150,19 @@ Even as their consciousness faded, the monsters didn’t know when or how they h
 
 They didn’t know Jeok Cheongang had launched himself off the ground, extended his Palm Force, and slashed downward with it. Nor did they know that the horrific heat within it had burned not only their hearts, but every organ in their bodies.
 
-But the four pairs of eyes watching Jeok Cheongang did know.
+But the four pairs of eyes watching Jeok Cheongang had seen it all.
 
 They had been waiting for this moment from the start. As if on cue, they moved together without a hair’s breadth of error.
 
 *ShhhhK!*
 
-A low, faint whistle slipped into his senses, keen as a blade and chilling enough to raise goose bumps.
+A faint, chilling sound of something cutting through the air reached his sharpened senses.
 
 Jeok Cheongang, who had just melted dozens of monsters in an instant, immediately sensed the ominous energy closing in on him.
 
-He sensed that there was more than one.
+He sensed that it was coming from more than one direction.
 
-But their speed—and the power they carried—exceeded anything he’d expected.
+But its speed—and the power behind it—exceeded anything he had expected.
 
 “……!”
 
@@ -174,7 +174,7 @@ He twisted with all his might, moving by instinct more than reason.
 
 Blood sprayed with a cool slicing sound.
 
-Not the monsters’ green blood, with its foul stench and poisonous fumes, but the red blood of a living human.
+Not the monsters’ green blood, reeking of poison, but the red blood of a living human.
 
 Even through the sting of pain, Jeok Cheongang regained his balance at the last possible moment and landed with a satisfied smile.
 
