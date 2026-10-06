@@ -10,7 +10,7 @@ At the middle-aged Daoist’s admiring murmur, Cheongheoja, Sect Leader of the K
 
 “Without it, this fight would be twice as hard. The gate would have fallen long ago.”
 
-Even now, the moat—which was more than ten jang wide and quite deep—was forcing the enemy to pay a terrible price.
+He was right. More than ten jang wide and deep besides, the moat was exacting a terrible price from the enemy even now.
 
 And crossing it was only the beginning. Beyond it waited a gate made of immensely thick black iron. No matter how skilled Dark Heaven’s fanatics were in martial arts, they had little choice but to suffer the losses and scale the walls instead.
 
@@ -34,7 +34,7 @@ Cheongheoja was silent for a moment, then shook his head.
 
 “Then…”
 
-“I was thinking about the shortcomings of a foolish master who failed to guide his Disciple down the right path.”
+“I was thinking about a foolish master who failed to guide his Disciple down the right path.”
 
 “……!”
 
@@ -70,15 +70,15 @@ His gaze shifted to the empty space beside him, as though his second Junior Brot
 
 But that would never happen.
 
-No. It was impossible.
+It was impossible.
 
-Hak Eui was already dead.
+Hak Eui was dead.
 
 Before dawn, he had resisted those who came under cover of night to capture the spy. In the end, he had lost his life.
 
-Hak Su had arrived at the scene too late. He’d seen his master holding his Junior Brother’s severed head and a sword dripping with blood.
+Hak Su had arrived too late. He had seen his master holding his Junior Brother’s severed head and a bloodied sword.
 
-He’d seen his master with eyes sadder than ever—just like now.
+He had seen that same unbearable sadness in his master’s eyes.
 
 “Master…”
 
@@ -90,9 +90,9 @@ A sharp whistle cut through the air. A messenger came racing toward them, using 
 
 “Sect Leader!”
 
-He was covered in blood, and his face was as white as a sheet.
+He was almost covered in blood, his face white as a sheet.
 
-Cheongheoja swallowed the groan that almost escaped him and spoke in a heavy voice.
+Cheongheoja swallowed the groan rising in his throat.
 
 “Where have you come from?”
 
@@ -124,9 +124,7 @@ Hearing the concern in his master’s voice, Hak Su gave a faint smile.
 
 It was a reasonable prediction.
 
-The dire news that the West Gate had fallen to the Blood Lord had reached the East Gate just before the war drums were about to be destroyed.
-
-Unlike the East Gate, where the enemy forces were comparatively weaker than at the other three gates, a retreat without a plan might lead them straight into the Blood Lord and his fanatics, who could be rampaging unchecked through the fortress from the West Gate.
+Word that the Blood Lord had broken through the West Gate had reached them just before the war drums fell silent. The enemy facing the East Gate was comparatively weaker than at the other three gates. If they retreated without a plan, they might run straight into the Blood Lord and his fanatics, who could already be sweeping through the fortress unchecked.
 
 Even so, Cheongheoja would not yield.
 
@@ -136,9 +134,9 @@ Even so, Cheongheoja would not yield.
 
 Hak Su could no longer contain his urgency. But then—
 
-“Who are you speaking to?”
+“Who is?”
 
-Cheongheoja’s voice sank strangely low, piercing Hak Su’s ear.
+Cheongheoja’s voice had gone strangely low.
 
 “Master…?”
 
@@ -146,7 +144,7 @@ Cheongheoja’s voice sank strangely low, piercing Hak Su’s ear.
 
 Hak Su blinked at him, bewildered.
 
-The old Daoist’s presence had changed so suddenly that the Kunlun Disciples who knew him well—and all the soldiers nearby—were staring at Cheongheoja.
+He was not alone. The old Daoist’s aura had changed so suddenly that the Kunlun Disciples who knew him—and the defenders around them—had all turned to stare.
 
 Then an unexpected voice rang through the rain.
 
@@ -154,9 +152,7 @@ Then an unexpected voice rang through the rain.
 
 *Splash.*
 
-A foot came down in a puddle, accompanied by a hard-edged voice.
-
-At the same time, a man who looked to be around thirty took off his low-pulled straw hat. He stared at Hak Su with cold eyes and continued:
+A foot stepped into a puddle. A man of about thirty removed the straw hat pulled low over his face and fixed Hak Su with a cold stare.
 
 “Answer him, Senior Brother.”
 
@@ -178,7 +174,7 @@ While most stood frozen, Hak Su studied his Junior Brother in silence. Then he s
 
 Hak Eui’s face was set as he rubbed the neck that had supposedly been severed the night before.
 
-“The fool who truly cared about you is already dead. And before dawn, I was born anew.”
+“The fool who truly cared about you is dead. Someone new was born before dawn.”
 
 “Then the head I saw…”
 
@@ -212,7 +208,7 @@ Hak Su slowly opened his mouth.
 
 It was an answer, and a memory: words a child born in a land beyond the distant desert had heard countless times before he turned thirteen.
 
-A duty and a mission etched into his bones, impossible to defy even after decades.
+A duty etched into his bones, one he could not defy even decades later.
 
 “Heaven above and earth below, let ten thousand demons bow in homage.”
 
@@ -236,7 +232,7 @@ Just as Hak Su had been raised to be a spy, Cheongheoja had always been that kin
 
 “It was all thanks to you, Cheongheoja.”
 
-The instant a clear smile came to Hak Su’s lips—
+A smile spread across Hak Su’s face.
 
 “Hak Su, how dare you—!”
 
@@ -276,7 +272,7 @@ At that moment—
 
 The Kunlun Five Guests—the five remaining members, spies raised by Dark Heaven—took the Temporary Strength Pills hidden in their robes and chewed them.
 
-Sssssss!
+*Whoooom!*
 
 A vast wave of energy rose like wildfire. Through it, Cheongheoja’s low voice rang out.
 

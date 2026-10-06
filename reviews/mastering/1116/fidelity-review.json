@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "was well suited to withstanding a siege.",
+      "defect": "The source says the fortress had a very significant advantage in siege warfare, not merely that it was well suited to withstand a siege. The translation also omits the source’s “as is widely known” framing.",
+      "id": "F01",
+      "rationale": "The Korean explicitly describes a very favorable advantage in siege defense and presents it as widely known.",
+      "replacement": "As is widely known, Xining Fortress, Qinghai’s last line of defense, had a great advantage in siege warfare.",
+      "severity": "minor",
+      "source": "Korean lines 5; English [P2]"
+    },
+    {
+      "confidence": 0.87,
+      "current": "the war drums were about to be destroyed.",
+      "defect": "“Destroyed” changes the physical event: the Korean says the war drum was about to collapse or fall, without specifying that someone was destroying it.",
+      "id": "F02",
+      "rationale": "The source uses 무너지다, meaning to collapse or fall, rather than a verb for being destroyed.",
+      "replacement": "the war drum was about to fall.",
+      "severity": "minor",
+      "source": "Korean line 141; English [P64]"
+    }
+  ],
+  "summary": "The translation is largely faithful, with two small fidelity defects: it weakens the fortress’s stated advantage and changes the war drum’s collapse into destruction.",
+  "version": 1
+}
