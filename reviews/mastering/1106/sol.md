@@ -32,11 +32,11 @@ I muttered it weakly to myself, remembering a familiar voice that had rung out s
 
 But I must have imagined it.
 
-One of those hallucinations that came to me every now and then when I was exhausted and hurting.
+One of those voices I heard now and then when I was exhausted and hurting.
 
 “…Damn it.”
 
-Blood kept welling up. My torn-up hands tingled.
+Blood kept rising in my throat. My torn grip tingled.
 
 Even so, I forced my aching body upright with a quiet curse.
 
@@ -74,7 +74,7 @@ His low voice reached me clearly.
 
 The monster of blood had absorbed every drop within a radius of more than a hundred feet, devouring the life and strength it held. He gazed at me, eyes bright with delight.
 
-“You can never be my equal. No one on this battlefield can.”
+“You can never stand against me. No one on this battlefield can.”
 
 Veterans who’d survived for years in Murim, a mountain of sabers and a forest of swords, had a saying.
 
@@ -110,7 +110,7 @@ They had only irritated him.
 
 The hundred or so arrows that had stopped above the Blood Lord’s head as though caught by an invisible hand trembled. Then their points turned.
 
-Toward the insects who deserved to die for daring to bar the path of a monster who had drawn close to the absolute ruler.
+Toward the insects who deserved to die for daring to bar the path of a monster drawing ever closer to absolute power.
 
 “Get out of the way!”
 
@@ -154,7 +154,7 @@ Someone whose name I didn’t know rolled down from the wall and landed in a poo
 
 “Heaven above and earth below.”
 
-In the suffocating silence that settled over everything, Dark Heaven’s followers had entered past the broken ranks and wall ruins that had crumbled with the Blood Lord’s arrival. As if bewitched, they began reciting their creed.
+In the suffocating silence, Dark Heaven’s followers poured past the broken ranks and the rubble of the wall. As if entranced, they began reciting their creed.
 
 “All demons bow!”
 
@@ -224,7 +224,7 @@ Plenty of people tried to bridge the distance between their religions and sects 
 
 In the world I’d seen, they were all fanatics.
 
-Madmen who’d lost their minds by attaching themselves blindly to their own goals. They saw and felt only what they wanted, swaying as they got drunk on it.
+Madmen who’d lost their minds by placing blind faith in their own goals. They saw and felt only what they wanted, stumbling around drunk on it.
 
 Of course, the most extreme had been the fanatics who followed the Doppelganger. But now I could say this with certainty.
 
@@ -240,7 +240,7 @@ The Blood Lord was at ease, but he hadn’t let his guard down.
 
 His red eyes were fixed solely on me, as though he had no interest in the battles raging around us. They brimmed with certainty and killing intent.
 
-“I have. Countless times, before the Tianshan Mountains fell under that person’s control. I saw those foolish things fly toward torches and burn to death.”
+“I have. Countless times, before the Tianshan Mountains fell under that person’s control. I watched those foolish things fly into torches and burn to death.”
 
 I didn’t answer.
 
@@ -250,9 +250,9 @@ Instead, I drove the shaft of White Flame, still in my grip, deep into the groun
 
 *Krrrunch!*
 
-The blades, wreathed in Force, cut through the air one after another. Then an immense shock wave slammed into the space around them with a deafening roar.
+The blades, imbued with Force, cut through the air one after another. Deafening impacts sent shock waves through the air.
 
-Not where I’d aimed—the Blood Lord—but somewhere in the air and ground.
+Not where I’d aimed—at the Blood Lord—but somewhere above him and across the ground.
 
 “But one day, while watching the moths, a question occurred to me.”
 
@@ -272,7 +272,7 @@ At that moment—
 
 *Whoooooom!*
 
-The Blood Lord lifted his Red Blade high. A massive, crimson Force surged along its scarlet edge.
+The Blood Lord lifted his Red Blade high. Massive crimson Force rose from its scarlet blade.
 
 An energy unlike anything I’d ever seen—or imagined could exist.
 
@@ -292,17 +292,17 @@ I’d prepared the best strike I could manage. Perhaps my last.
 
 I took a deep breath and said what had been on the tip of my tongue.
 
-“I’m not one of them.”
+“I’m neither.”
 
 “What?”
 
-“I’m the kind of bastard who doesn’t burn to death even if he flies into the flames. Who flies in first whether he knows what’ll happen or not. That’s me.”
+“I’m the bastard who flies into the flames and doesn’t burn to death. The bastard who dives in first whether he knows or not. That’s me.”
 
 “…!”
 
 The silence felt like an eternity, though it lasted only an instant.
 
-At its very end, the Blood Lord answered.
+At its end, the Blood Lord answered.
 
 No—he moved.
 

@@ -1,0 +1,25 @@
+{
+  "summary": "Mostly faithful. Two lines shift the meaning or image of the Korean source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 79",
+      "current": "You can never be my equal.",
+      "defect": "The Korean says he can never be the Blood Lord’s match or opponent, not that he can never be his equal. That changes a claim about fighting ability into one about status.",
+      "replacement": "You can never be a match for me.",
+      "rationale": "네놈은 결코 내 상대가 될 수 없어 means the addressee cannot contend with him; it does not establish inequality in rank or standing.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 235",
+      "current": "with the momentum of Taishan.",
+      "defect": "“Taishan” without “Mount” can read as the established character name, rather than the mountain image in the Korean simile.",
+      "replacement": "with the momentum of Mount Taishan.",
+      "rationale": "태산과도 같은 기세 compares the monster’s force or momentum to a great mountain. The accepted baseline preserved that image as “Mount Taishan.”",
+      "confidence": 0.88
+    }
+  ]
+}
