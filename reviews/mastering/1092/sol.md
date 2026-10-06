@@ -40,9 +40,9 @@ Taekyung had climbed from the very bottom of the Murim to the heights of Supreme
 
 “You’re stronger than me. No question.”
 
-But even if the gap was only one move—or half a move, Jin Taekyung accepted that the Blood Lord was the stronger one.
+He didn’t know the exact size of the gap. Even if it amounted to only half a move, he accepted that the Blood Lord was stronger.
 
-His not-so-distant past, when he’d been no better than an ant, helpless beneath a power so immense it felt absolute.
+And with that came a memory of his not-so-distant past: a time when he’d been no better than an ant beneath power so immense it seemed absolute. A time when the Blood Lord had seemed as far beyond his reach as someone above the clouds.
 
 “But you know what?”
 
@@ -64,7 +64,7 @@ The Blood Lord’s eyes widened. A dozen or so zhang away, Taekyung’s figure w
 
 Fshh.
 
-His shape remained, but his body was gone. There wasn’t even a trace of his presence, yet the killing intent within it was unmistakable.
+His outline remained, but there was nothing inside it. Not even a trace of his presence—only the unmistakable killing intent behind it.
 
 Whooosh!
 
@@ -80,7 +80,7 @@ And then—
 
 KWA-A-A!
 
-The Blood Lord’s furious shout and the muffled boom of a sonic blast rang out as a blood-red flash clashed with a dark-blue wave, swallowing the world around them.
+The Blood Lord’s furious shout and the muffled boom of displaced air rang out together. A blood-red flash met a dark-blue wave, and their collision engulfed everything around them.
 
 * * *
 
@@ -118,7 +118,7 @@ Grnnnk.
 
 My spearhead began to give way. Slowly—no, faster than that.
 
-Beyond it was a red blade that flashed without any blood-red Force, and a muscular arm, bulging with veins as he squeezed out every ounce of strength.
+Beyond it gleamed the red blade, with no blood-red Force coating it. Veins stood out across the muscular arm driving it toward me.
 
 *That’s… not human strength.*
 
@@ -134,7 +134,7 @@ One look at the skin exposed by the rips in his clothes told me enough to guess 
 
 I put everything I had into holding back the force pressing against my spear and studied him. More precisely, I studied the arm swollen to an unnatural size and the marks that looked like seams.
 
-The Blood Lord bared his teeth and growled at me.
+The Blood Lord bared his teeth.
 
 “Everything is thanks to that person’s grace.”
 
@@ -176,11 +176,11 @@ His blade pursued me as my feet kept moving, the blood-red Force at its edge ben
 
 Whish—slice!
 
-Every hair on my body stood on end. The Force skimmed past, slicing off a few strands of hair before slamming into the ground.
+Every hair on my body stood on end. The Force skimmed past, clipping my hair before it slammed into the ground.
 
 KWAANG! Rrrumble!
 
-The earth shook like an earthquake, unable to withstand the tremendous force carried by the Force.
+The earth shook as if an earthquake had struck, unable to withstand the power carried by the blow.
 
 Dust billowed across dozens of zhang in every direction, but even that couldn’t block the Blood Lord’s view.
 
@@ -188,7 +188,7 @@ Dust billowed across dozens of zhang in every direction, but even that couldn’
 
 Whoosh!
 
-The dust cloud split beneath a fierce sonic boom. I threw myself to the side on instinct, dodging the blood-red Force plunging down like an axe swung by some ancient giant.
+The dust cloud split beneath a fierce rush of air. I threw myself sideways on instinct, dodging the blood-red Force plunging down like an axe swung by a giant of old.
 
 Slice!
 
@@ -204,7 +204,7 @@ I didn’t care.
 
 In low-level dungeons, I’d flattened myself against damp cave floors to avoid poison darts fired by kobolds. When an enemy got too close for my spear, I’d gone for the eyes or head-butted them without hesitation.
 
-A character in a pirate manga that still hasn’t ended once said a wound on the back was a swordsman’s shame. I’ve never agreed with that.
+A character in a pirate manga that still hasn’t ended once said a wound on the back was a swordsman’s shame. I’ve never agreed with him.
 
 “A wound on your back just fucking hurts. You have to be alive to feel ashamed.”
 
@@ -212,7 +212,7 @@ A character in a pirate manga that still hasn’t ended once said a wound on the
 
 I stopped moving.
 
-The Blood Lord’s face seemed to ask what the hell I was going on about. I stood up, my body aching, and continued.
+The Blood Lord looked at me as if to ask what the hell I was talking about. I pushed myself up, my body aching.
 
 “I know it’s nonsense, so stop staring at me like that. You’re so cute I want to bite you to death.”
 
@@ -222,7 +222,7 @@ The Blood Lord’s face seemed to ask what the hell I was going on about. I stoo
 
 “…!”
 
-A heavy Patriot missile of a fact was what hurt the most.
+Nothing hurt quite like a heavy Patriot missile loaded with facts.
 
 Grind.
 

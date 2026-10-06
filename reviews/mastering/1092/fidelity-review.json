@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "His not-so-distant past, when he’d been no better than an ant, helpless beneath a power so immense it felt absolute.",
+      "defect": "The source says he suddenly recalled this past and also describes the Blood Lord as seeming impossibly distant, like someone above the clouds. The assembled version omits both the act of remembering and that image.",
+      "id": "F01",
+      "rationale": "The Korean explicitly says he suddenly remembered his past and then recalls the Blood Lord’s former, cloud-high distance. The accepted baseline preserved the latter image.",
+      "replacement": "With that, another memory suddenly surfaced: his not-so-distant past, when he’d been no better than an ant, helpless beneath a power so immense it felt absolute. The Blood Lord, who had seemed impossibly far away, like someone living above the clouds.",
+      "severity": "minor",
+      "source": "Chapter 1092, lines 56–60"
+    }
+  ],
+  "summary": "One source image and its memory transition are missing from the assembled English.",
+  "version": 1
+}

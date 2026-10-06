@@ -1,0 +1,2030 @@
+{
+  "baseline_blocks": 143,
+  "baseline_sha256": "8495d9a24b419ee07420405718851c2a3ca42a719e58d8cb6f8a4aac44eb0559",
+  "global_terminology_alerts": [],
+  "hunk_count": 103,
+  "hunks": [
+    {
+      "baseline": "To a martial artist, a wave of qi was the outward release of power.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "6",
+      "sol": "To a martial artist, a wave of qi was power made manifest.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was why Jin Taekyung could feel it more clearly than ever.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "8",
+      "sol": "Jin Taekyung could feel that more clearly than ever now. He could feel just how terrifyingly powerful the enemy before him was.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just how terrifyingly skilled the Blood Lord—his enemy standing right before him—was.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "10",
+      "sol": "",
+      "sol_paragraphs": "after P3",
+      "sol_range": [
+        3,
+        3
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "혈주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blood Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "The air refused to settle under the influence of that powerful wave of qi.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "14",
+      "sol": "",
+      "sol_paragraphs": "after P4",
+      "sol_range": [
+        4,
+        4
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But unlike the faint tremors reaching him from every direction, Jin Taekyung’s heart sank into an even calmer stillness.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "16",
+      "sol": "The air refused to settle beneath the force of the Blood Lord’s qi. Faint tremors came from every direction, but Taekyung’s mind grew calm enough for him to answer evenly, despite the cold fire in the Blood Lord’s voice and gaze.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "Calm enough to answer evenly, even beneath the Blood Lord’s cold, burning voice and gaze.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "18",
+      "sol": "",
+      "sol_paragraphs": "after P5",
+      "sol_range": [
+        5,
+        5
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "혈주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blood Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "Jin Taekyung’s smile faded. At the same time, he raised his beloved spear, which he had named White Flame, and pointed it at the Blood Lord.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "22",
+      "sol": "Taekyung let his smile fade. He raised his beloved spear, White Flame, and pointed it at the Blood Lord.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "“Different? Puhaha.”",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "26",
+      "sol": "“Different? Ha!”",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This time, it was the Blood Lord’s turn to laugh. He stared at Jin Taekyung with a mocking gaze.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "28",
+      "sol": "Now it was the Blood Lord’s turn to laugh. He eyed Taekyung with open contempt.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "“I heard you went from Hidden Dragon to Divine Dragon, but now you act like you’ve gotten your hands on a dragon pearl, too. No matter how hard you struggle, you’re still no match for me. You know that yourself, don’t you?”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "30",
+      "sol": "“I heard the Hidden Dragon had become a Divine Dragon, but you’re acting like you’ve gotten your hands on a dragon pearl, too. Struggle all you want. You’re still no match for me. You know that yourself, don’t you?”",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Contrary to the Blood Lord’s expectations, Jin Taekyung answered with an easy nod.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "32",
+      "sol": "To the Blood Lord’s surprise, Taekyung nodded readily.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "“……You.”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "40",
+      "sol": "“…You.”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Lord’s voice was sinking into a low growl when Jin Taekyung spoke first.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "42",
+      "sol": "The Blood Lord’s voice dropped, but Taekyung spoke before he could continue.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "“I knew as soon as I saw you. I couldn’t get an exact measure of your strength.”",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "44",
+      "sol": "“I knew as soon as I saw you. I couldn’t tell exactly how strong you were.”",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "근력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Strength"
+        }
+      ]
+    },
+    {
+      "baseline": "Even stones rolling along the roadside came in all shapes and sizes. So why should a towering mountain reaching the clouds have no difference in height?",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "46",
+      "sol": "Even stones scattered along a roadside varied in size and shape. Why wouldn’t mountains tall enough to touch the clouds vary in height?",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And because Jin Taekyung had climbed from the very bottom of the Murim to the peak of Supreme Peak, he’d understood the instant he stood face-to-face with the Blood Lord.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "48",
+      "sol": "Taekyung had climbed from the very bottom of the Murim to the heights of Supreme Peak. The moment he came face-to-face with the Blood Lord, he understood.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "He didn’t know exactly how wide the gap between them was.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "52",
+      "sol": "",
+      "sol_paragraphs": "after P21",
+      "sol_range": [
+        21,
+        21
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But even if the gap was only one move—or half a move, Jin Taekyung accepted that the Blood Lord was the stronger one.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "54",
+      "sol": "He didn’t know the exact size of the gap. Even if it amounted to only half a move, he accepted that the Blood Lord was stronger.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "And with that, something suddenly came back to him.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "56",
+      "sol": "",
+      "sol_paragraphs": "after P22",
+      "sol_range": [
+        22,
+        22
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His not-so-distant past, when he’d been no better than an ant, helpless beneath a power so immense it felt absolute.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "58",
+      "sol": "And with that came a memory of his not-so-distant past: a time when he’d been no better than an ant beneath power so immense it seemed absolute. A time when the Blood Lord had seemed as far beyond his reach as someone above the clouds.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Lord, who had seemed impossibly far away, like someone living above the clouds.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "60",
+      "sol": "",
+      "sol_paragraphs": "after P23",
+      "sol_range": [
+        23,
+        23
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "혈주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blood Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "Jin Taekyung gazed at the Blood Lord as he asked quietly.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "64",
+      "sol": "Taekyung held the Blood Lord’s gaze as he asked the question quietly.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "The past and present overlapped before his eyes. Along with the knowledge that the Blood Lord was stronger than him, another realization coursed down his spine like an electric current.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "66",
+      "sol": "Past and present overlapped before his eyes. Alongside the knowledge that the Blood Lord was stronger came another realization, running down his spine like an electric current.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Back then, no matter how hard I fought, I thought I wouldn’t even be able to touch a hair on your head…”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "68",
+      "sol": "“Back then, I thought I could fight with everything I had and still never touch a hair on your head…”",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His voice trailed off, and Jin Taekyung smiled.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "70",
+      "sol": "His voice trailed off, and he smiled.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "Only today had he finally realized it.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "72",
+      "sol": "",
+      "sol_paragraphs": "after P28",
+      "sol_range": [
+        28,
+        28
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Lord in his memory, whose mere presence had left him short of breath, was no longer someone who lived above the clouds.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "74",
+      "sol": "Only today had he understood. The Blood Lord whose mere presence had once left him struggling to breathe was no longer beyond the clouds.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Now it feels like I could reach you just by stretching out my hand.”",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "76",
+      "sol": "“Now I feel like I could reach you just by stretching out my hand.”",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "78",
+      "sol": "“…!”",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The instant the Blood Lord’s eyes widened, Jin Taekyung’s figure, standing tall over thirty meters away, wavered like a mirage.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "80",
+      "sol": "The Blood Lord’s eyes widened. A dozen or so zhang away, Taekyung’s figure wavered like a mirage.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "His shape remained, but his body was gone. There wasn’t even a trace of his presence, yet the killing intent within it was unmistakable.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "84",
+      "sol": "His outline remained, but there was nothing inside it. Not even a trace of his presence—only the unmistakable killing intent behind it.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "The Blood Lord heard the eerie sound as clearly as if the wind itself were howling.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "88",
+      "sol": "The Blood Lord heard the eerie sound clearly, as though the wind itself were howling.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And at the same time, he saw it.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "90",
+      "sol": "At the same instant, he saw it.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the space warped by immense pressure, a spearhead that had outpaced its own sound tore through the compressed air, propelled by Shifting Form and Position at its pinnacle.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "92",
+      "sol": "Space warped under immense pressure. With Shifting Form and Position brought to its pinnacle, a spearhead outran sound and tore through the compressed air.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Lord’s furious shout and the muffled boom of a sonic blast rang out as a blood-red flash clashed with a dark-blue wave, swallowing the world around them.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "100",
+      "sol": "The Blood Lord’s furious shout and the muffled boom of displaced air rang out together. A blood-red flash met a dark-blue wave, and their collision engulfed everything around them.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A single exchange was enough.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "110",
+      "sol": "",
+      "sol_paragraphs": "after P44",
+      "sol_range": [
+        44,
+        44
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Enough to realize the gap between the Blood Lord and me at that very moment.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "112",
+      "sol": "A single exchange was enough to show me the gap between the Blood Lord and me.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Lord’s red saber swung like lightning and locked against White Flame’s spearhead. The resulting boom wasn’t the kind of sound weapons could make.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "116",
+      "sol": "The Blood Lord swung his Red Blade like lightning, and it locked against White Flame’s spearhead. The resulting boom was nothing a pair of weapons should have been able to make.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The hard ground cracked like a spiderweb. Everything crumbled to dust beneath my feet as they slid backward, unable to withstand the force.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "122",
+      "sol": "The hard ground cracked like a spiderweb. My feet slid backward under the force, and everything in their path crumbled to dust.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Dare to wag that tongue at me when this is all you’ve got?”",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "124",
+      "sol": "“You dared wag that tongue at me when this is all you’ve got?”",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beyond our crossed weapons, blood-red light flashed in his eyes as his voice seethed with fury.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "126",
+      "sol": "Beyond our crossed weapons, his eyes flashed blood-red. His voice seethed with fury.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Killing intent I could almost touch. A terrifyingly vast force.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "128",
+      "sol": "Killing intent I could almost touch. A terrifyingly vast surge of qi.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "It was astonishing. At the same time, I realized something else.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "132",
+      "sol": "",
+      "sol_paragraphs": "after P54",
+      "sol_range": [
+        54,
+        54
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Lord had grown stronger, too, over the past year—which could feel long or short, depending on how you looked at it.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "134",
+      "sol": "I was surprised all over again. The Blood Lord had grown stronger, too, over the past year—long or short as that might seem.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*At least half a move above me. No—a full move.*",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "136",
+      "sol": "*At least half a move above me. No, a full move.*",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the Supreme Peak level, a single move made an enormous difference.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "138",
+      "sol": "At Supreme Peak, a single move made an enormous difference.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the reason I couldn’t help being surprised was that the Blood Lord’s strength couldn’t be measured by his martial enlightenment and internal energy alone.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "140",
+      "sol": "But it wasn’t only his insight into the martial arts or the depth of his internal energy that surprised me.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "혈주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blood Lord"
+        },
+        {
+          "korean": "근력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Strength"
+        }
+      ]
+    },
+    {
+      "baseline": "The spearhead began to give way. Slowly—no, faster than that.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "144",
+      "sol": "My spearhead began to give way. Slowly—no, faster than that.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beyond it was a red blade that flashed without any blood-red Force, and a muscular arm, bulging with veins as he squeezed out every ounce of strength.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "146",
+      "sol": "Beyond it gleamed the red blade, with no blood-red Force coating it. Veins stood out across the muscular arm driving it toward me.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "근력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Strength"
+        }
+      ]
+    },
+    {
+      "baseline": "*This is… not human strength.*",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "148",
+      "sol": "*That’s… not human strength.*",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I could feel it by instinct.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "150",
+      "sol": "",
+      "sol_paragraphs": "after P62",
+      "sol_range": [
+        62,
+        62
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I’d spent the past few years fighting monsters rather than humans. How could I not?",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "152",
+      "sol": "I could tell by instinct. After spending years fighting monsters instead of humans, how could I not?",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, the physical ability the Blood Lord was unleashing had gone far beyond human limits.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "154",
+      "sol": "The physical power the Blood Lord was unleashing went far beyond human limits.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "No—beyond even that.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "156",
+      "sol": "No. It was more than that.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just looking at the skin exposed through the rips in his clothes was enough to guess what he’d been up to over the past year.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "158",
+      "sol": "One look at the skin exposed by the rips in his clothes told me enough to guess what he’d done over the past year.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Unusual, for a prosthetic arm.”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "160",
+      "sol": "“Unusual for a prosthetic arm.”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I put everything I had into holding back the immense force pressing in on me, and stared steadily at the Blood Lord.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "162",
+      "sol": "I put everything I had into holding back the force pressing against my spear and studied him. More precisely, I studied the arm swollen to an unnatural size and the marks that looked like seams.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "혈주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blood Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "More precisely, at his arm, swollen to an abnormal size, and the marks on it that looked as if it had been sewn together.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "164",
+      "sol": "",
+      "sol_paragraphs": "after P68",
+      "sol_range": [
+        68,
+        68
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Lord bared his teeth and growled at me.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "166",
+      "sol": "The Blood Lord bared his teeth.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Everything is thanks to his grace.”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "168",
+      "sol": "“Everything is thanks to that person’s grace.”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "During the Shaolin Bloodshed, the Blood Lord had lost an arm to the Sword Saint, Mae Jonghak, and fled.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "170",
+      "sol": "The Sword Saint, Mae Jonghak, had taken one of the Blood Lord’s arms during the Shaolin Bloodshed. The Blood Lord had fled.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fact that he’d shown up in one piece with both arms, when he should have spent the rest of his life one-armed—and that he could wield this kind of strength—meant only one thing.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "172",
+      "sol": "He should have spent the rest of his life with one arm. Yet here he was with two, wielding this kind of strength. That could mean only one thing.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "176",
+      "sol": "“…!”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, forget about me. To get revenge on the Sword Saint, you’d have had to tear something off and stick it on. Right?”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "178",
+      "sol": "“Then again, forget about me. If you wanted revenge on the Sword Saint, you’d have had to tear something off and stick it on. Right?”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……You.”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "180",
+      "sol": "“…You.”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Had I hit a nerve with a single remark? Or had I just figured out what he was so easily?",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "182",
+      "sol": "Had I struck a nerve? Or had I figured out the truth too easily?",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Lord glared at me, eyes wide, then clenched his teeth.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "184",
+      "sol": "The Blood Lord glared at me, eyes wide, and clenched his teeth.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I look forward to seeing whether that mouth of yours can still run after you’re dead.”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "186",
+      "sol": "“I look forward to seeing whether you can still run that mouth after you’re dead.”",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His arm swelled even larger, like the trunk of an old tree. With an immense force that could only belong to a monster, it knocked the spearhead skyward.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "192",
+      "sol": "His arm swelled larger still, as thick as an old tree trunk. With a force that could only have come from a monster, he knocked my spearhead upward.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even my Strength stat, which had been in triple digits for a long time, couldn’t handle that force and internal energy. They sent the shaft spinning into the air.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "196",
+      "sol": "Even my Strength stat, which had been in triple digits for a long time, couldn’t withstand that combination of raw power and internal energy. The shaft flew into the air.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "My palm split open. In an instant, I was left empty-handed—and the Blood Lord’s red saber drew a dazzling arc toward me.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "198",
+      "sol": "My grip tore open. In an instant, I was empty-handed, and the Blood Lord’s Red Blade traced a dazzling arc toward me.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Crude and brutal, but capable of breaking and shattering anything, the strike tore through the air like lightning, followed by another.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "202",
+      "sol": "Crude and brutal, the strike could have smashed anything in its path. Another followed it, cutting through the air like lightning.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His saber swung after my feet as they moved without pause, the blood-red Force at its edge bending like a whip.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "204",
+      "sol": "His blade pursued me as my feet kept moving, the blood-red Force at its edge bending like a whip.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every hair on my body stood on end. The Force skimmed past, slicing off a few strands of hair before slamming into the ground.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "208",
+      "sol": "Every hair on my body stood on end. The Force skimmed past, clipping my hair before it slammed into the ground.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The earth shook like an earthquake, unable to withstand the tremendous force carried by the Force.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "212",
+      "sol": "The earth shook as if an earthquake had struck, unable to withstand the power carried by the blow.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "But even a thick cloud of dust spreading across a radius of hundreds of feet couldn’t block the Blood Lord’s view.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "214",
+      "sol": "Dust billowed across dozens of zhang in every direction, but even that couldn’t block the Blood Lord’s view.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s all! That’s all you’ve got!”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "216",
+      "sol": "“This! This is all you’ve got!”",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The dust cloud split beneath a fierce sonic boom. I threw myself to the side on instinct, dodging the blood-red Force plunging down like an axe swung by some ancient giant.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "220",
+      "sol": "The dust cloud split beneath a fierce rush of air. I threw myself sideways on instinct, dodging the blood-red Force plunging down like an axe swung by a giant of old.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The ground split cleanly in two and opened a pitch-black maw.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "224",
+      "sol": "The ground split in two and opened a pitch-black maw.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I’d dodged the strike just in time, but even its backwash had left me covered in blood. The Blood Lord smirked when he saw me.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "226",
+      "sol": "I’d gotten out of the way in time, but the wind from the strike alone left me covered in blood. The Blood Lord smirked.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Narye tagon.[^1] I’d heard you’d become the Divine Dragon while I was away, so I expected more. Instead, here’s a lazy donkey rolling around on the ground.”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "228",
+      "sol": "“Narye tagon.[^1] I heard you’d become the Divine Dragon while I was away, so I expected more. Instead, I find a lazy donkey rolling around on the ground.”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Among martial artists—especially masters with pride to spare—Narye tagon was the height of humiliation.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "230",
+      "sol": "",
+      "sol_paragraphs": "after P100",
+      "sol_range": [
+        100,
+        100
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "고수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "master"
+        },
+        {
+          "korean": "나려타곤",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Narye tagon"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "After all, nobody who thought they were somebody in the martial world wanted to be seen rolling around covered in dirt.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "232",
+      "sol": "To martial artists—especially proud masters—Narye tagon was humiliation itself. Nobody who was anybody in the Murim wanted to be seen rolling through the dirt.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But I didn’t care about any of that.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "234",
+      "sol": "I didn’t care.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In low-level dungeons, I’d pressed myself against the damp cave floor because I was afraid of the poison darts fired by kobolds. When an enemy got too close for me to use my spear, I hadn’t hesitated to go for the eyes or head-butt them.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "236",
+      "sol": "In low-level dungeons, I’d flattened myself against damp cave floors to avoid poison darts fired by kobolds. When an enemy got too close for my spear, I’d gone for the eyes or head-butted them without hesitation.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A character in some pirate manga that still hasn’t reached its ending once said that a scar on your back was a swordsman’s shame. I’ve never agreed with that for even a second.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "238",
+      "sol": "A character in a pirate manga that still hasn’t ended once said a wound on the back was a swordsman’s shame. I’ve never agreed with him.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A wound on your back just fucking hurts. Shame’s something you can only feel while you’re alive.”",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "240",
+      "sol": "“A wound on your back just fucking hurts. You have to be alive to feel ashamed.”",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My feet came to an abrupt stop.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "244",
+      "sol": "I stopped moving.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Lord’s face seemed to ask what the hell I was going on about. I stood up, my body aching, and continued.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "246",
+      "sol": "The Blood Lord looked at me as if to ask what the hell I was talking about. I pushed myself up, my body aching.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“I am talking nonsense, so stop staring at me like that. You’re so cute I want to bite you to death.”",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "248",
+      "sol": "“I know it’s nonsense, so stop staring at me like that. You’re so cute I want to bite you to death.”",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And what the fuck does it matter whether I’m a dragon or a donkey? You’re the one who ripped off some monster’s limbs and stuck them onto yourself.”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "252",
+      "sol": "“And what the fuck does it matter whether I’m a dragon or a donkey? You’re the one who tore the limbs off some monster nobody’s ever heard of and stuck them onto yourself.”",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "254",
+      "sol": "“…!”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A heavy Patriot missile of a fact was what hurt the most.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "256",
+      "sol": "Nothing hurt quite like a heavy Patriot missile loaded with facts.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Blood Lord clenched his teeth so hard they seemed about to break and started forward again.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "260",
+      "sol": "The Blood Lord clenched his teeth so hard they seemed ready to break and started forward again.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The killing intent thickened, and the blood-red Force stirred around his saber. Then a tremendous explosion rang out, jolting his long-paralyzed reason back to life.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "264",
+      "sol": "The killing intent around him thickened. Blood-red Force stirred around his blade. Then a tremendous explosion jolted his long-paralyzed reason back to life.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The source of the deafening boom that shook the world around us was behind him.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "268",
+      "sol": "The boom shook everything around us. It had come from behind him.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the ones who filled the opening left by the Blood Lord, who had chased me for over three hundred meters while unleashing attack after attack, were none other than the two giants—the Fire King and the Slaughter Saint.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "270",
+      "sol": "The Blood Lord had chased me for over a hundred zhang, raining attacks down on me. The two giants who’d filled the opening he left behind were none other than the Fire King and the Slaughter Saint.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Crack—pboom!",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "272",
+      "sol": "Crack—boom!",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Flames shot up all around us, and blood sprayed without pause.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "274",
+      "sol": "Flames erupted everywhere, and fountains of blood sprayed without pause.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only then did the Blood Lord grasp what was happening. He shot me a blood-red glare, but I only shrugged.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "276",
+      "sol": "Only then did the Blood Lord realize what was happening. He shot me a blood-red glare, but I just shrugged.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A goading strategy. Obvious as can be.”",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "278",
+      "sol": "“Baiting you. Obvious as can be.”",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“Oh, I’m not taking all the credit. Someone said something pretty similar a little while ago.”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "282",
+      "sol": "“Oh, I can’t take all the credit. Someone said something pretty similar a little while ago.”",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "From the city wall, now much closer, a streak of lightning plunged through the hazy cloud of dust.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "288",
+      "sol": "From the city wall, now much closer, a streak of light like a bolt of lightning pierced the pale dust cloud and plunged down.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 131,
+  "sol_sha256": "10aebfae0ef7c2ea1783d6dd62527bfcc5d3af9d7c260b53f32ef0827b21fcce",
+  "version": 1
+}
