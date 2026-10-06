@@ -66,7 +66,9 @@ Hong Jin must have gotten a similar impression, because he fell silent for a mom
 
 “Are you sure we can entrust this matter to Huashan?”
 
-“……Yes.”
+“……”
+
+“Yes.”
 
 Li Feng’s answer came half a beat late. Hong Jin shook his head in disbelief.
 
@@ -104,7 +106,7 @@ The soldiers snapped off energetic military salutes to Li Feng, and their boundl
 
 *Understandable.*
 
-Li Feng, a lay disciple of Huashan, was a Supreme First Rate master. Respecting strength was a male instinct, and even at a glance he radiated an unmistakably masculine presence. From what little I’d seen, he was steadfast and taciturn.
+Li Feng, a lay disciple of Huashan, was an advanced First Rate master. Respecting strength was a male instinct, and even at a glance he radiated an unmistakably masculine presence. From what little I’d seen, he was steadfast and taciturn.
 
 *But he isn’t completely inflexible, either.*
 
@@ -238,7 +240,11 @@ Oblivious to the sudden chill in the air, Cheongpung grinned.
 
 “I’m not Great Hero Li. I’m your Martial Nephew, Martial Uncle Cheongpung.”
 
-“Martial Uncle, Martial Nephew. Those words feel awkward… Can’t we just call each other whatever feels comfortable?”
+“Martial Uncle, Martial Nephew. Those words feel awkward…”
+
+Cheongpung tilted his head.
+
+“Can’t we just call each other whatever feels comfortable?”
 
 “No. Our sect’s hierarchy is strict. Call me Martial Nephew from now on. Then I’ll give you the armor.”
 
@@ -272,7 +278,7 @@ While even the royal guards were distracted by this unexpected farce, Hong Jin l
 
 * * *
 
-The young prince barely came up to my chest, if that. Prince Shangshan, Zhu Bao, was much smaller than I had expected—and much stronger.
+The young prince barely came up to my chest, if that. Prince Shangshan, Zhu Bao,[^1] was much smaller than I had expected—and much stronger.
 
 *Ssshhk, ssshhk, ssshhk!*
 
@@ -399,3 +405,5 @@ As I stood there in bewilderment, Zhu Bao delivered a single dignified word.
 “……”
 
 *Oh. He wants an autograph?*
+
+[^1]: Zhu Bao (朱豹) is Prince Shangshan’s personal name.
