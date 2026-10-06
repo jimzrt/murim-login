@@ -172,7 +172,7 @@ My stomach knotted with panic as I turned back around. Fine. Since I was stuck h
 
 “Were they, by any chance, in the same line of work as…?”
 
-“They were assassins. They belonged to Salcheonmun[^2] with me.”
+“They were assassins. They belonged to Salcheonmun with me.”[^2]
 
 Even the name smelled of blood.
 
@@ -198,7 +198,7 @@ There was only one way for a sect to vanish. Watching his expression, I carefull
 
 “They chose the wrong path and paid the price. That’s all I’ll say.”
 
-Mungyeong finished speaking and rose to his feet. A short sword in his hand already gleamed with a keen blue edge.
+Mungyeong finished speaking and rose to his feet. A short sword in his hand was already radiating vivid blue sword energy.
 
 “Now it’s time for you to pay.”
 
@@ -304,7 +304,7 @@ The Zhuge martial artist standing guard let out a short laugh at the young medic
 
 As though he knew nothing, Mungyeong tilted his head and answered.
 
-“No. He said no one should come near him for the next two shichen[^3].”
+“No. He said no one should come near him for the next two shichen.”
 
 “Understood. This is Great Hero Jin we’re talking about—we can’t interrupt his training. I’ll pass that along to the next guards.”
 
@@ -363,5 +363,5 @@ The skin had been cut by something sharp, and beads of blood had formed along th
 But Mungyeong did not realize that a faint smile had formed at the corner of his mouth.
 
 [^1]: Teacher’s Day is a Korean holiday observed on May 15 to honor teachers.
+
 [^2]: *Salcheonmun* is the name of the now-vanished assassin sect; it literally means “Slaughter Heaven Sect.”
-[^3]: A *shichen* is a traditional Chinese time unit of about two hours; two shichen are about four hours.
