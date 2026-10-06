@@ -28,7 +28,7 @@ He hadn’t experienced the Great Cataclysm firsthand, but he’d been born on i
 
 Growing up, he’d been taught about it until he was sick of hearing it: what had happened during the Great Cataclysm, and how humanity had survived.
 
-And how the ruler of the Demon Realm who had caused the Great Cataclysm met his end at the hands of a great hero born of humanity, without leaving so much as a trace.
+He’d also learned that the ruler of the Demon Realm who caused it had met his end at the hands of a great hero born of humanity, without leaving so much as a trace.
 
 But…
 
@@ -80,7 +80,7 @@ Jin Taekyung asked in all sincerity, “Are you insane?”
 
 “Don’t worry. I’m not planning to do that anymore. Good grief, you said it was a System? My poor imagination never got that far.”
 
-“I don’t think anyone would’ve imagined that.”
+“I don’t think anyone’s would have.”
 
 Song Song, sitting alone among the mountain-sized men, gestured with her eyes toward the seat beside her.
 
@@ -122,7 +122,7 @@ Or his family, who couldn’t accept a situation like this, and Seong Jinho, his
 
 “…I was wrong.”
 
-Starting with that shameful memory, words came pouring in from every direction.
+That embarrassing memory opened the floodgates. Stories came at him from every direction.
 
 Some were about little things they could barely remember. Others were as vivid as if they’d happened yesterday.
 
@@ -136,7 +136,7 @@ Maybe that was why Jin Taekyung couldn’t bring himself to speak when the time 
 
 Tick. Tick.
 
-At some point, the sound of a second hand reached him through his keen senses. Jin Taekyung closed his eyes.
+The sound of a second hand reached his keen ears. Jin Taekyung closed his eyes.
 
 The broken pocket watch.
 
@@ -160,9 +160,9 @@ Unless someone stopped him, he always would.
 
 *That’s why I have to go.*
 
-It was the one thing he had to do.
+It was something he had to do.
 
-The one thing only he could do.
+Something only he could do.
 
 Jin Taekyung reminded himself of that unchanging truth and opened his eyes. Everyone was looking at him.
 
@@ -190,7 +190,7 @@ But this time was different.
 
 The air around him. The qi. All of it.
 
-His breath, always ragged and labored, like that of someone on the verge of death, was calm. And a strength and vitality he hadn’t felt in decades welled up in his body, which had been as good as dead.
+His breathing, once as ragged and labored as a dying man’s, was calm. Strength and vitality he hadn’t felt in decades welled up in his body, which had been as good as dead.
 
 Slowly, but without stopping.
 
@@ -204,7 +204,7 @@ Moments earlier, she had recognized the source of a sudden feeling of déjà vu.
 
 “This lowly servant dared to wait for her master without permission. Please punish me.”
 
-The next moment, an answer rang out—one she’d thought she would never hear.
+Then an answer rang out—one she’d thought she might never hear again.
 
 It came not as a sound, but from deep within the Grand Mage’s mind.
 
@@ -224,7 +224,7 @@ And all of this could mean only one thing.
 
 “Ah…!”
 
-The Grand Mage let out a regretful groan before she could stop herself. Then another reverberation filled her mind, and she caught her breath.
+The Grand Mage let out a disappointed cry before she could stop herself. Then another reverberation filled her mind, and she caught her breath.
 
 —But it will be completed.
 
@@ -234,7 +234,7 @@ The Grand Mage let out a regretful groan before she could stop herself. Then ano
 
 “…!”
 
-At that pronouncement, like an oracle, the Grand Mage—prostrated with all five limbs on the ground, unable to dare face her master—bowed even lower.
+At those words, like a divine pronouncement, the Grand Mage bowed even lower. She was already prostrate with all five limbs to the ground, unable to dare look upon her master’s face.
 
 Cold seeped up from the damp stone floor, but she didn’t care. The fierce emotion rising deep within her warmed her body like a ball of fire.
 
@@ -244,4 +244,4 @@ Her joy was plain in the question. Her master answered in a voice that none coul
 
 Not the eternal snows of the Tianshan Mountains. Not the sky touching their peaks, nor the moon and stars beyond.
 
-Nor the countless armies crossing the vast continent, finally nearing the Land of Ruin beyond the desert, could hear the voice.
+Not even the countless armies crossing the vast continent, now drawing close to the Land of Ruin beyond the desert.
