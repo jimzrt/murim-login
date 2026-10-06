@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Blood burst from a terrible scream",
+      "defect": "This wording makes the scream sound like the source of the blood. The Korean says blood burst out amid terrible screams.",
+      "id": "F01",
+      "rationale": "The Korean phrase “끔찍한 비명과 함께 터져 나온 핏물” describes blood bursting out together with terrible screams, not blood bursting from a scream.",
+      "replacement": "Blood burst out amid terrible screams and splashed across his face.",
+      "severity": "minor",
+      "source": "Korean line 55"
+    }
+  ],
+  "summary": "One minor physical-causality defect: the English makes it sound as though blood came from a scream.",
+  "version": 1
+}

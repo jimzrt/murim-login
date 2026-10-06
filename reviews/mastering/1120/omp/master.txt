@@ -10,7 +10,7 @@ And then—
 
 Splatter.
 
-As Hyuk Mujin’s body crumpled, scattering dark-red blood, the world that had stopped began to move again.
+Mujin crumpled, scattering dark-red blood, and the world began to move again.
 
 “No!”
 
@@ -24,7 +24,7 @@ Like an enraged bull, Taishan swung his two-section staff with all his strength 
 
 Whoooosh! Wham!
 
-Each time the furious wind rose, brains flew and bones shattered like powder.
+Each swing sent brains flying and crushed bones to powder.
 
 Fanatics had taken the place of the monsters, frozen like statues at the death of the jiangshi sorcerer. They tried to block his path, but none could easily stop Taishan in his rage.
 
@@ -36,7 +36,7 @@ A fierce rush of saber energy tore through the space, and severed limbs flew in 
 
 Amid the swirling spray of blood, Sama Pyo’s eyes—usually so composed—blazed with blue fire.
 
-And someone else plunged into the dozens of fanatics closing in around Sama Pyo, heedless of their fallen comrades.
+Dozens of fanatics closed in around him, heedless of their fallen comrades. Someone else plunged into their midst.
 
 SHWEEEE!
 
@@ -50,7 +50,7 @@ Song Ilseom stabbed and twisted at every opening.
 
 With the most efficient movements, he dealt his enemies certain pain and death.
 
-Blood burst from a terrible scream and splashed across his face. Blades rained down indiscriminately from every direction, leaving cuts large and small across his body. But his tightly pressed lips didn’t tremble.
+Blood spurted with terrible screams and covered his face. Blades rained down from every direction, leaving cuts large and small across his body. But his tightly pressed lips didn’t tremble.
 
 The blood flowing through Song Ilseom’s veins came from an illustrious family. But what had made him the Soul-Chasing Guest was blood shed on the battlefield.
 
@@ -76,9 +76,7 @@ The monsters had stopped moving, but fanatics remained—several times as many. 
 
 But hope wasn’t the only thing that could move people.
 
-In that dark, bottomless despair, they had seen it clearly:
-
-Hyuk Mujin, refusing to lose his dignity until the very last moment before he fell.
+In that dark, bottomless despair, they had seen Mujin clearly. Even as he fell, he had held his head high.
 
 *Fire Dragon Pavilion… No.*
 
@@ -112,7 +110,7 @@ An old Daoist murmured the four characters they had once shouted until they were
 
 Slice.
 
-A body split into dozens of pieces along a streak of white light and scattered.
+White light crossed the space. A body split into dozens of pieces and scattered.
 
 The Black Ghost had finally met its true end. The old Daoist turned away, and Cheongheoja’s voice rang out, carrying the force of his internal energy.
 
@@ -126,7 +124,7 @@ The next moment—
 
 “You haven’t changed, Cheongheoja.”
 
-With a heavy voice that brushed over Hyuk Mujin’s fallen head, the master of the long, vast Yangtze strode out beneath the faint moonlight.
+The deep voice passed over Mujin where he lay. Then the master of the long, vast Yangtze strode into the faint moonlight.
 
 Two more unwelcome guests emerged from behind his imposing frame.
 
@@ -136,9 +134,9 @@ One was a mysterious figure dressed in black from head to toe. The other, a slig
 
 At the greeting, Cheongheoja’s gaze turned cold.
 
-“Right. You were there too. Green Forest Battle King Tae Gunak.”
+“Right. You’re here too. Green Forest Battle King Tae Gunak.”
 
-“Such a sharp edge to your words. Last time we met, I believe you called me a fellow Daoist, not ‘you.’”
+“Such a sharp edge to your words. Last time we met, I believe you called me a fellow Daoist.”
 
 “Those days will never return. Not after the irrevocable choices some people made.”
 
@@ -154,7 +152,7 @@ Hummm.
 
 As if sensing that his master’s end was near, the treasured sword that had been with him all his life trembled.
 
-Not far away, Great Sir was still struggling against Black Ghost. But Cheongheoja’s senses and energy had already focused entirely on the unwelcome guests guarding the gate.
+Not far away, Great Sir was still struggling against a Black Ghost. But Cheongheoja’s senses and qi had already focused entirely on the unwelcome guests at the gate.
 
 He had to bring down more than the two giants who divided the world’s dark-path forces between them.
 
@@ -164,9 +162,9 @@ There was also the mysterious man in black. Instinct told Cheongheoja he was no 
 
 The question crossed his mind, but Cheongheoja could only smile bitterly.
 
-Worry was ultimately a luxury for those who survived.
+Questions like that were for those who lived long enough to seek answers.
 
-For an old Daoist who had to face three Supreme Peak masters alone, there was no point in worrying any further.
+An old Daoist facing three Supreme Peak masters alone had no use for them now.
 
 All he could do was resolve to meet his end without shame before those remarkable young people, still advancing as they cut down their enemies.
 
@@ -196,15 +194,15 @@ A single line—impossible to block, impossible even to see clearly—cut across
 
 Why had his body suddenly gone rigid?
 
-Where had this enormous rock come from, pressing down on his chest?
+What was this enormous weight pressing against his chest?
 
-Jin Taekyung couldn’t tell what had caused it or why.
+Jin Taekyung didn’t know where it had come from or what it meant.
 
 No—he didn’t want to know.
 
-The moment he found out what this sudden feeling of dread meant, he felt the last thread barely holding him together might snap.
+He felt that the moment he understood this sudden dread, the last thread barely holding him together would snap.
 
-But despite that, Jin Taekyung’s gaze toward somewhere in the east, hidden behind enemies and buildings, had begun to tremble.
+Yet his gaze had turned east, toward somewhere he couldn’t see past the enemies and buildings. His eyes had begun to tremble.
 
 *This is…*
 
@@ -220,7 +218,7 @@ It pointed to only one thing.
 
 He wanted to deny it, to tell himself it couldn’t possibly be true. But it was no use.
 
-Unlike the fire raging in his chest, his mind had gone cold. It faced the reality coming toward him head-on.
+His chest burned, but his mind had gone cold. It saw the reality he was about to face.
 
 *It’s them. It has to be.*
 
