@@ -62,7 +62,7 @@ They had no idea that the disciple’s next words would be the last spark of his
 
 “…!”
 
-For an instant, the scouts trembled, their eyes wide with shock.
+The scouts trembled, their eyes wide with shock.
 
 Because of the terrifying killing intent in those words?
 
@@ -76,7 +76,7 @@ As though grieving for the comrades who were already dead.
 
 Then, in the suffocating silence that pressed down on them all, his body tilted. His difficult journey had come to an end.
 
-“Just wait. I, the Blood Lord, have returned—”
+“Wait for me. I, the Blood Lord, have returned…”
 
 Thud.
 
@@ -124,13 +124,13 @@ Gung Gibang swore in a hollow voice and gave a bitter smile.
 
 “What can you do? He and the others were just unlucky.”
 
-Nearly thirty Beggars’ Sect disciples had been left on the other side of Qinghai Lake. Only one young, nameless disciple had made it back to Xining.
+Nearly thirty Beggars’ Sect disciples had stayed on the far side of Qinghai Lake. Only one young disciple whose name I didn’t know had made it back toward Xining.
 
 And even he had died along the way.
 
 He’d been in such a terrible state that the scouts who found him could barely speak.
 
-But his final words, which might as well have been a will, contained information more valuable than this entire goddamn lavish office.
+But his final words, almost a dying message, contained information more valuable than everything in this goddamn luxurious office.
 
 “The Blood Lord. If it’s the Blood Lord…”
 
@@ -188,7 +188,7 @@ Gung Gibang, who had been staring at the corpse in silence, suddenly scowled.
 
 Hak Eui answered his anger evenly.
 
-“I was only expressing my thoughts. I regret that we didn’t receive more information.”
+“I was only expressing my regret.”
 
 “So what? Are you blaming a man who risked his life for everyone and died? Asking why he didn’t try harder?”
 
@@ -228,11 +228,11 @@ At last, Gung Gibang gave a bitter smile and shook his head.
 
 That brought the brief commotion to an end. Hak Eui spoke again, without the slightest sign of having been cowed.
 
-“Fortunately, we still have time before the enemy reaches Xining. We should come up with adequate defenses before then.”
+“Fortunately, we still have time before the enemy reaches Xining. We need to make adequate preparations before then.”
 
 There was something odd about his tone.
 
-I’d been watching him all along with a somber gaze. Now I couldn’t help asking,
+I’d been watching him closely. Now I couldn’t help asking.
 
 “What preparations?”
 

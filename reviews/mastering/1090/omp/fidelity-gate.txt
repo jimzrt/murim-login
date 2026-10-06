@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, with two minor omissions of source details.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 34–36",
+      "current": "Perhaps that was why the scouts stood frozen for a moment before they noticed the two knots tied at the beggar’s waist.",
+      "defect": "The Korean says the scouts noticed the knots belatedly after freezing like statues. “Before they noticed” gives the sequence but omits that they realized it late.",
+      "replacement": "Perhaps that was why the scouts, frozen like statues for an instant, only belatedly noticed the two knots tied at the beggar’s waist.",
+      "rationale": "The source explicitly uses 뒤늦게 (belatedly) for their discovery.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 84",
+      "current": "Then, in the suffocating silence that pressed down on them all, his body tilted. His difficult journey had come to an end.",
+      "defect": "The source says his body tilted accompanied by a faint voice. The assembled English omits that detail.",
+      "replacement": "Then, in the suffocating silence that pressed down on them all, his body tilted with a faint voice. His difficult journey had come to an end.",
+      "rationale": "흐릿한 목소리와 함께 directly links the faint voice to the disciple’s body tilting.",
+      "confidence": 0.82
+    }
+  ]
+}
