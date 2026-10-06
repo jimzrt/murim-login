@@ -14,7 +14,7 @@ But a moment later, I realized it was real.
 
 I recognized it.
 
-Or rather, maybe not familiar exactly, but I’d definitely been here before.
+Or maybe I didn’t, exactly. But I’d definitely been somewhere like it before.
 
 I vividly remembered staying in a similar place, both in that dreamlike realm of my thoughts and in reality.
 
@@ -28,7 +28,7 @@ I turned toward it, saw a familiar face, and parted my dry lips.
 
 “Yeah. I do tend to sleep a lot.”
 
-A faint smile appeared on Team Leader Choi’s usually stern face.
+I saw a faint smile appear on Team Leader Choi’s drawn, tense face.
 
 From the way he looked at me, I was probably smiling, too.
 
@@ -50,7 +50,7 @@ Jin Taekyung didn’t beat around the bush, and Choi Minwoo saw no reason to hid
 
 It wasn’t a long time.
 
-For someone living an ordinary life, it was just the blink of an eye.
+For someone living an ordinary life, it could pass in the blink of an eye.
 
 But Jin Taekyung knew better.
 
@@ -66,7 +66,7 @@ Choi Minwoo paused to catch his breath, then added, almost to himself,
 
 For a while, only Choi Minwoo’s voice echoed through the vast, empty white space. When his story ended, the silence that followed lasted even longer.
 
-Unlike Jin Taekyung’s mind, where countless scenes and voices were still swirling together.
+Inside Jin Taekyung’s head, countless scenes and voices were still swirling together.
 
 *Let me ask you one thing.*
 
@@ -78,7 +78,7 @@ Unlike Jin Taekyung’s mind, where countless scenes and voices were still swirl
 
 Jin Taekyung remembered the end of the wicked Dragon who had made the world tremble.
 
-He remembered the vivid emotion that even the shadow of death looming right in front of him couldn’t hide.
+He remembered the emotion so plain on Morgoth’s face that even the shadow of death looming over him couldn’t hide it.
 
 —Fight with every last bit of strength you have. Keep surpassing yourself. Keep struggling.
 
@@ -102,7 +102,7 @@ The Dragon Heart—Pandora’s box, filled with every kind of calamity—had ope
 
 Not in myth, but in reality.
 
-The power contained in the wicked Dragon’s heart, which had pulsed for thousands of years, was incomparably greater than that of the Hatchling Michael Silbert had defeated in Paris.
+And the power held within the wicked Dragon’s heart, which had beaten for thousands of years, was incomparably greater than that of the Hatchling Michael Silbert had supposedly defeated in Paris.
 
 It was without precedent.
 
@@ -118,7 +118,7 @@ Even if Choi Minwoo hadn’t told him what had happened, Jin Taekyung’s own se
 >
 > —Current progress of the rift…
 
-Jin Taekyung wasn’t the only one who’d woken up after three days.
+Jin Taekyung wasn’t the only one waking after three days.
 
 Dozens of holographic windows he hadn’t been able to check while unconscious flooded his vision like a wave, sweeping him along with them.
 
@@ -140,7 +140,7 @@ He had no other choice.
 
 *…View Quest.*
 
-And a little while later, Jin Taekyung finally broke the long silence.
+A little while later, he finally broke the long silence.
 
 “Team Leader Choi.”
 
@@ -154,7 +154,7 @@ He knew the request included one being who was more human than most humans, too.
 
 * * *
 
-Team Leader Choi’s absence—he’d left without asking a single question—felt like a big one.
+Maybe it was because the space was so vast, but the place Team Leader Choi had left behind felt enormous. He’d gone without asking a single question.
 
 Still, I wasn’t lonely.
 
@@ -200,7 +200,7 @@ Ironically, that incomprehensible error was what had given me the reckless coura
 
 I swallowed the words before they could leave my throat.
 
-At the same time, I remembered something Morgoth had said.
+And I remembered something Morgoth had said.
 
 *The one chosen by God.*
 
@@ -208,7 +208,7 @@ I didn’t doubt it anymore.
 
 I had been chosen.
 
-Whether I’d wanted it or not.
+Whether I wanted it or not.
 
 Some great being existed—a being humanity had never encountered, even after reaching beyond the clouds and into space. Another dimension existed, too.
 
@@ -296,7 +296,7 @@ The first to break the unspoken standoff was the huge Grand Mage, who’d looked
 
 “I agree, but I’m not a woman.”
 
-“By the time they tied you to the stake, you would’ve been. They’d just have to cut off what’s dangling down there.”
+“By the time they tied you to the stake, you would be. They’d just have to cut off what’s dangling down there.”
 
 “Fair enough.”
 
@@ -306,7 +306,7 @@ The first to break the unspoken standoff was the huge Grand Mage, who’d looked
 
 “But now… Yeah. This is after that damn Great Cataclysm. And I’m the Grand Mage.”
 
-That was right.
+She was right.
 
 These were the times we lived in.
 
@@ -318,7 +318,7 @@ None of them doubted a word I’d said.
 
 Even if the world were a little different, I was sure they would have believed me.
 
-Just as Jeok Cheongang had believed in me.
+Just as Jeok Cheongang had believed me.
 
 And I’d had only one reason to reveal the secret I’d kept deep in my heart.
 

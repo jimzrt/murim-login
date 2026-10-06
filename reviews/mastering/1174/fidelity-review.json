@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Team Leader Choi’s absence—he’d left without asking a single question—felt like a big one.",
+      "defect": "The source first wonders whether the vastness of the space is why Choi’s absence feels so significant. The English drops that tentative explanation.",
+      "id": "F01",
+      "rationale": "The Korean explicitly frames the space’s vastness as a possible reason: “너무나도 광활한 공간 때문일까.”",
+      "replacement": "Maybe because the space was so vast, Team Leader Choi’s absence—he’d left without asking a single question—felt like a big one.",
+      "severity": "minor",
+      "source": "Lines 183–185"
+    },
+    {
+      "confidence": 0.9,
+      "current": "But Jin Taekyung knew better.\n\nHe’d known from the moment he saw Choi Minwoo, exhausted from head to toe.",
+      "defect": "The source says Taekyung intuited it, not that he knew better or knew it as a fact.",
+      "id": "F02",
+      "rationale": "The source uses “직감했다,” meaning he sensed or intuited what the three days had meant from Choi’s exhausted appearance.",
+      "replacement": "But Jin Taekyung sensed it.\n\nHe’d sensed it from the moment he saw Choi Minwoo, exhausted from head to toe.",
+      "severity": "minor",
+      "source": "Lines 63–65"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but it loses one stated uncertainty and makes Taekyung’s intuition sound more certain than the source.",
+  "version": 1
+}
