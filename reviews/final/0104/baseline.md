@@ -88,7 +88,7 @@ Hyuk Mujin deliberately hardened his expression and pulled a heavy money pouch f
 
 “Fine. How much?”
 
-“Fifty nyang[^1] for one night, sir.”
+“Fifty nyang for one night, sir.”
 
 *How much was fifty nyang?*
 
@@ -174,7 +174,7 @@ Of course, Hyuk Mujin, who had been born into a family of tenant farmers, had ne
 
 *When else would someone like me ever get the chance?*
 
-Half a shichen[^2] ago, Hyuk Mujin’s mood had reached its peak. A fine room, delicious food, and even the beauty of the proprietress, whom people said could only be seen on lucky days.
+Half a shichen ago, Hyuk Mujin’s mood had reached its peak. A fine room, delicious food, and even the beauty of the proprietress, whom people said could only be seen on lucky days.
 
 *And I get to enjoy all of this with someone else’s money!*
 
@@ -222,7 +222,7 @@ Slurp. Gulp. Munch, munch.
 
 “……”
 
-Beggar’s Chicken,[^3] Fish-Fragrant Shredded Pork,[^4] Maechae Guyuk,[^5] scallion tofu, Kung Pao chicken[^6]… Every time one of those dishes—or any of the dozen others—arrived at the table, Jin Taekyung’s hand moved like lightning.
+Beggar’s Chicken, Fish-Fragrant Shredded Pork, Maechae Guyuk,[^1] scallion tofu, Kung Pao chicken… Every time one of those dishes—or any of the dozen others—arrived at the table, Jin Taekyung’s hand moved like lightning.
 
 “Wow, this is really good. So juicy.”
 
@@ -244,7 +244,7 @@ His last hope was gone. Judging by the way things were going, that pig looked re
 
 Hyuk Mujin wanted to smash a plate over the pig-like bastard’s head, but he restrained himself. He didn’t want to lose his life on top of his entire fortune.
 
-*Jade Emperor,[^7] Primordial Heavenly Venerable.[^8] Please, stop that bastard.*
+*Jade Emperor, Primordial Heavenly Venerable. Please, stop that bastard.*
 
 Just as he cursed the heavens—
 
@@ -326,7 +326,7 @@ I spoke calmly.
 
 He grinned, revealing teeth rotted black.
 
-The horrific stench of his breath wiped away my appetite as if it had been washed clean. I supposed I would have to eat the chicken-and-corn soup later.
+The horrific stench of his breath wiped away my appetite as if it had been washed clean. I supposed I would have to eat the thoup later.
 
 “Open your mouth. My fist is going in.”
 
@@ -368,11 +368,4 @@ The proprietress laughed soundlessly.
 
 She rose from where she had been reclining. Moonlight filtering through the window gleamed upon her slender, long-stemmed tobacco pipe.
 
-[^1]: A *nyang* is a historical unit of currency. Here the payment is in silver nyang, contrasted with lower-value iron coins.
-[^2]: A *shichen* is a traditional time unit of about two hours; half a shichen is about one hour.
-[^3]: Beggar’s Chicken is a Chinese dish traditionally made by wrapping and baking a whole chicken.
-[^4]: “Fish-fragrant” names a Chinese seasoning style; the shredded pork dish does not necessarily contain fish.
-[^5]: *Maechae Guyuk* is an abbreviated name for pork belly steamed with preserved mustard greens.
-[^6]: Kung Pao chicken is a Chinese stir-fry of diced chicken, commonly made with peanuts and dried chilies.
-[^7]: The Jade Emperor is a ruler of heaven in Daoist tradition.
-[^8]: The Primordial Heavenly Venerable is a high deity in Daoist tradition.
+[^1]: *Maechae Guyuk* is an abbreviated name for pork belly steamed with preserved mustard greens.

@@ -1,0 +1,120 @@
+{
+  "chapter": 104,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.4,
+    "source_characters": 5551,
+    "source_paragraphs": 184,
+    "translation_characters": 13325,
+    "translation_paragraphs": 186
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "기세",
+        "preferred": "aura / momentum"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "본가",
+        "preferred": "our family / this family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "규화계",
+        "preferred": "Beggar's Chicken"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "수문각",
+        "preferred": "Gate Guard Pavilion"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "잠룡",
+        "preferred": "Hidden Dragon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마도",
+        "preferred": "Demonic Path"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "준이",
+        "preferred": "Jun"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소하",
+        "preferred": "Xiao He"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "가기",
+        "preferred": "singing courtesan"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "미친놈",
+        "preferred": "Madman"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "적도",
+        "preferred": "Red Blade"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "냥이",
+        "romanization": "nyangi"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
