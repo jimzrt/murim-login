@@ -100,7 +100,7 @@ His cold voice snapped me back to my senses.
 
 “Ah, yes.”
 
-“Your hyung[^1] went to the trouble of giving you a demonstration, and you dare let your mind wander?”
+“Your hyung went to the trouble of giving you a demonstration, and you dare let your mind wander?”
 
 Flick!
 
@@ -172,7 +172,7 @@ The next moment, Jin Mukyung’s palm struck my chest. With a bang like a bursti
 
 My organs did not spill out along with a mouthful of blood. When I lifted my head, I saw Jin Mukyung slowly walking toward me.
 
-“You scared little brat. Did you really think your hyung[^1] would use internal energy against his younger brother?”
+“You scared little brat. Did you really think your hyung would use internal energy against his younger brother?”
 
 I answered gruffly.
 
@@ -354,7 +354,7 @@ Thud. Thud. Thud.
 
 He struck my left arm, then both legs. Only then did his hand stop.
 
-“You just had all four limbs cut off. By a vicious Peak master of the dark path[^2] who is several times stronger than you.”
+“You just had all four limbs cut off. By a vicious Peak master of the dark path who is several times stronger than you.”
 
 “…”
 
@@ -453,6 +453,3 @@ I hurriedly felt the back of my neck. The cut stung, and blood came away on my f
 His cold voice continued—the same voice that had pronounced my death only seconds earlier.
 
 “You died once today.”
-
-[^1]: *Hyung* is a Korean term a man uses for an older brother or an older male he is close to.
-[^2]: The *dark path* refers to underworld martial groups, as opposed to those considered orthodox.
