@@ -60,7 +60,7 @@ I shrugged at the Blood-Sword Demon Lord.
 
 Thump.
 
-I kicked the remains of what had been called Black Ghosts—now scattered into dozens of large and small fragments.
+And kicked aside a piece of what had once been called a Black Ghost. The four of them were scattered around us now in dozens of fragments, large and small.
 
 “If you’re sorry, go kill yourself.”
 
@@ -102,7 +102,7 @@ The names came out without a moment’s hesitation. The Blood-Sword Demon Lord l
 
 The Blood-Sword Demon Lord glanced between Jeok Cheongang and me.
 
-The Blood-Sword Demon Lord looked between Jeok Cheongang and me before adding, “A martial artist is known by their martial arts and sobriquet, not their name. Even back then, very few knew those men’s real names. Even with someone who’s spent many years gaining experience at your side, you couldn’t have learned those names.”
+“A martial artist makes his name through his martial arts and sobriquet, not the name he was born with. Very few people knew theirs even back then. That isn’t something you could learn simply by having an elder with decades of experience beside you.”
 
 He sounded certain.
 
@@ -122,13 +122,13 @@ And as long as the gap between our strength and abilities wasn’t too great.
 
 Shaaah!
 
-At that moment, a blue circle I couldn’t see swallowed up the space around us in a flash of light, responding to my will.
+At my will, an invisible blue circle spread through the space around me like a flash of light.
 
 Qi Sense, now nine-tenths mastered, reached out from me and washed an area more than fifty *jang* in radius in blue.
 
 Ding. Ding-ding-ding.
 
-Countless System windows appeared over the heads of the hundreds—no, thousands—of enemies within Qi Sense’s range.
+Countless System windows appeared over the heads of the hundreds—no, thousands—of enemies within its range.
 
 But my gaze stayed fixed on one person.
 
@@ -172,7 +172,7 @@ Jeok Cheongang studied the Blood-Sword Demon Lord’s rigid face before answerin
 
 “Maybe he’s embarrassed. Even from what little I’ve heard, it’s not a very good name. Banghyeol? That’s supposed to be a person’s name? Sounds like a fart.”
 
-“Come on. Even if you’re old enough to have shoved your years up your ass, you can’t make fun of him for that. That man’s probably almost a hundred himself.”
+“Come on. Even if you’ve spent all those years with your head up your ass, you can’t make fun of him for that. He’s almost a hundred himself.”
 
 “You wait till you’re old. Sometimes you feel strange for no reason. Who knows? Maybe he sits under the moon every night with tears in his eyes.”
 
@@ -184,7 +184,7 @@ The idea that a notorious great fiend had finally entered menopause was pretty i
 
 “What?”
 
-“Didn’t you just say it yourself? That dark arts ought to be familiar to him.”
+“You said it yourself just now. Shouldn’t dark arts feel familiar to me?”
 
 He gazed down at his hands, as though trying to recall the sensation my Qi Sense had left behind.
 
@@ -204,11 +204,11 @@ Step. Step. Splash.
 
 The Blood-Sword Demon Lord crossed the dry, frozen ground and stepped into a pool of blood.
 
-Plip.
+Spatter.
 
-Blood splashed with his roughened stride.
+Blood sprayed with his next, harsher step.
 
-A powerful energy covered the slowly rising blade, thicker and more viscous than the blood itself.
+The immense qi gathering around his slowly rising sword was thicker and more viscous than the blood.
 
 “But this time, that person was wrong. I should have handled this myself from the start. There was never any need to stop me or worry about me.”
 
@@ -238,7 +238,7 @@ I knew instinctively.
 
 The Blood-Sword Demon Lord hadn’t simply been concealing his strength through Returning to Simplicity.
 
-*He definitely, definitely wasn’t this strong before.*
+*He definitely wasn’t this strong before.*
 
 We had clashed once before the battle began in earnest. Jeok Cheongang and I had fought at full strength, and so had the Blood-Sword Demon Lord. The result had been clear: he was at a disadvantage.
 
@@ -262,13 +262,13 @@ How was the Blood-Sword Demon Lord growing stronger even now, as he slowly appro
 
 “What in the world… What dark art are you using?”
 
-There was no way a master wouldn’t feel what his Disciple felt.
+There was no way the master couldn’t sense what his disciple could.
 
 Jeok Cheongang’s question cast light on the unease that had been swelling inside me.
 
 *Dark arts.*
 
-A dark, devious technique, just as the words themselves meant.
+Sinister, devious techniques—just as the words implied.
 
 Those who used them had strayed from the straight and righteous path into demonic, heterodox arts. And those who dwelled deepest in that abyss belonged to what people called—
 
@@ -276,7 +276,7 @@ The Demonic Path.
 
 People who rejected life as humans and chose the path of demons.
 
-How had those beings known as Black Ghosts come into existence, and appeared here?
+But what should we call the inexplicable powers they wielded? How had beings like the Black Ghosts come into existence and appeared here?
 
 “…No.”
 
@@ -286,9 +286,9 @@ How had those beings known as Black Ghosts come into existence, and appeared her
 
 The words slipped from my lips in a dazed murmur.
 
-Jeok Cheongang’s repeated questions grew distant, like echoes. For a moment, I even forgot the Blood-Sword Demon Lord’s presence, growing stronger with every step he took toward us.
+Jeok Cheongang kept asking me what I meant, but his voice sounded as distant as an echo. For a moment, I even forgot the Blood-Sword Demon Lord, who grew stronger with every step toward us.
 
-As if entranced, I looked at the white-robed figures.
+As if entranced, I looked past him at the white-robed figures.
 
 Until now, his presence had obscured them. They were only a tiny part of this vast battlefield, where the fighting still raged.
 

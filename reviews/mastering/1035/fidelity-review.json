@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "How had those beings known as Black Ghosts come into existence, and appeared here?",
+      "defect": "The translation drops the preceding rhetorical question about what to call the beings’ inexplicable arts. That question is part of the narrator’s reasoning before he identifies them as Magic.",
+      "id": "F02",
+      "rationale": "The source explicitly asks both questions; the English preserves only the question about the Black Ghosts’ origin.",
+      "replacement": "Then what should the dark arts they wielded, filled with such inexplicable mysteries, be called? How had those beings known as Black Ghosts come into existence, and appeared here?",
+      "severity": "minor",
+      "source": "Lines 297–299: the narrator asks what the dark arts of such beings should be called, then asks how the Black Ghosts came to exist."
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it omits a rhetorical question that supports the reveal and repeats an action not present in the source.",
+  "version": 1
+}

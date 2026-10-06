@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is broadly faithful, but it omits a rhetorical question that supports the reveal and repeats an action not present in the source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 113–115: the Blood-Sword Demon Lord glances between Jeok Cheongang and the narrator once before adding his explanation.",
+      "current": "The Blood-Sword Demon Lord looked between Jeok Cheongang and me before adding, “A martial artist is known by their martial arts and sobriquet, not their name. Even back then, very few knew those men’s real names. Even with someone who’s spent many years gaining experience at your side, you couldn’t have learned those names.”",
+      "defect": "The preceding sentence already describes him glancing between the two. This repeats the same action, whereas the source has only one glance.",
+      "replacement": "“A martial artist is known by their martial arts and sobriquet, not their name. Even back then, very few knew those men’s real names. Even with someone who’s spent many years gaining experience at your side, you couldn’t have learned those names.”",
+      "rationale": "The source describes the glance once, then says he adds his explanation; the assembled English adds a second glance.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 297–299: the narrator asks what the dark arts of such beings should be called, then asks how the Black Ghosts came to exist.",
+      "current": "How had those beings known as Black Ghosts come into existence, and appeared here?",
+      "defect": "The translation drops the preceding rhetorical question about what to call the beings’ inexplicable arts. That question is part of the narrator’s reasoning before he identifies them as Magic.",
+      "replacement": "Then what should the dark arts they wielded, filled with such inexplicable mysteries, be called? How had those beings known as Black Ghosts come into existence, and appeared here?",
+      "rationale": "The source explicitly asks both questions; the English preserves only the question about the Black Ghosts’ origin.",
+      "confidence": 0.98
+    }
+  ]
+}
