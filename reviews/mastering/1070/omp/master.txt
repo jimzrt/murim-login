@@ -16,7 +16,7 @@ But as martial arts improved, so did the senses. The several jiazi of internal e
 
 “……!”
 
-One short sentence was all it took.
+That was all I had to say.
 
 Jeong Hogun’s eyes widened, answering for him.
 
@@ -44,13 +44,13 @@ I strained my senses further and finally caught a new clue.
 
 *Boom. Boom.*
 
-Amid the constant, faint tremors came the occasional, heavier impact.
+Amid the constant faint tremors came an occasional heavier sound.
 
 No.
 
 *A thunderous boom.*
 
-The moment I realized, a chill ran down my spine.
+A chill ran down my spine.
 
 That sound wasn’t something a mere human could make. It belonged to the cursed monsters that should never have existed in this world, yet had become real all the same.
 
@@ -78,7 +78,7 @@ Even the Disciples of the Zhongnan and Kongtong Sects, who’d spent long years 
 
 In that moment, neither the level of their martial arts nor their experience in the martial world meant anything. Skill, age, experience—none of it could shield them from the shock.
 
-It couldn’t have been otherwise. It was only natural.
+It couldn’t have been otherwise.
 
 *What the hell… is that?*
 
@@ -136,23 +136,23 @@ Frozen where they stood, the people stared through distant, clouded eyes at the 
 
 If Pangu, the primordial giant said to have opened the world with a single swing of his axe, had existed in some unimaginably distant past, perhaps he’d looked like that.
 
-Of course, unlike Pangu’s majestic myth, passed down through rumor alone, this monster looked as though it had been dragged straight out of someone’s nightmare.
+Of course, unlike the majestic Pangu of the old tales, this monster looked as though it had been dragged out of someone’s nightmare.
 
 *Boom. Rumble!*
 
 One step.
 
-But no one who saw the low hill crumble in a single step could call it “just” a step. The monster’s heavy footfall trapped them in endless terror.
+But no one who saw that heavy footfall bring down the low hill could call it *just* a step. Endless terror gripped them.
 
 It was fear of something they’d never seen or heard of before. Just looking at it felt enough to stop their breath, as if that fear had become an invisible hand squeezing their hearts until they burst.
 
-That was what would have happened—if a dazzling flash hadn’t erupted from somewhere at that very moment.
+It might have—if a dazzling flash hadn’t erupted from somewhere at that very moment.
 
 *Whoosh!*
 
-In an instant, the pitch-black darkness split apart.
+The pitch-black darkness split apart.
 
-Space warped along a deep blue flame, dark yet bright, bright yet dark.
+Space warped around a deep-blue energy, dark yet bright, bright yet dark.
 
 Something that was neither light nor darkness.
 
@@ -160,7 +160,7 @@ Fire.
 
 Hellfire that held both darkness and light, powerful enough to burn and purify everything.
 
-At the very tip of that fire, warping space as it surged forward, stood the enormous monster that had just stepped over the hill.
+At the far end of that fire, as it surged forward and warped the space around it, stood the enormous monster that had just stepped over the hill.
 
 “Grrrraah!”
 
@@ -172,9 +172,9 @@ It swung toward the small, unimpressive human flying at it as though he and his 
 
 *Whoooosh!*
 
-A horrifyingly violent rush of air.
+The fist tore through the air with terrifying force.
 
-But even as the monster’s fist, packed with tremendous force, bore down on him, Jin Taekyung’s gaze didn’t waver. He rushed toward the monster, stepping on invisible stairs in midair.
+But Jin Taekyung’s gaze didn’t waver as he rushed toward the monster, his feet finding invisible steps in midair.
 
 Neither did his stride, his body hurtling forward—or the silver-white spearhead wreathed in deep-blue flame.
 
@@ -198,7 +198,7 @@ The monster saw it too.
 
 Puzzled, it looked at its huge fist—or rather, where its fist had been.
 
-Only now did blood begin to bead along the cleanly severed edge.
+Only now was blood beginning to bead on the cleanly severed surface.
 
 *Splaaash!*
 
@@ -210,9 +210,9 @@ It never noticed the spearhead still streaking toward a single point.
 
 The monster felt something so hot its vision turned white, yet so cold it shuddered.
 
-The spearhead had driven straight into its throat. It cut off the roar the monster had been about to unleash and poured out a fire it couldn’t possibly resist.
+Driven straight into its throat, the spearhead cut off the cry it had been about to release and poured out fire it could not resist.
 
-Just like the eyes of the man filling its vision.
+The man’s eyes, filling its vision, were just as unyielding.
 
 “This isn’t a Troll or an ogre… What the hell are you?”
 
@@ -236,7 +236,7 @@ It was a question for himself—and for the other enemies appearing beyond the g
 
 Large and small shadows, cloaked in darkness, surged forward like a wave.
 
-The ground, which had trembled faintly, now shook violently, as though an earthquake had begun. And it wasn’t happening in just one direction.
+The ground, which had trembled faintly before, now shook as though an earthquake had begun. And the tremors weren’t coming from just one direction.
 
 *Rumble.*
 

@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Senses were a source of information.",
+      "defect": "The source equates sensation with information; the translation instead says the senses are a source that provides information.",
+      "id": "F01",
+      "rationale": "곧 signals that sensation means, or is, information—not merely that senses provide it.",
+      "replacement": "Sensation itself is information.",
+      "severity": "minor",
+      "source": "Lines 6–8: 감각이란 곧 정보를 의미한다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "they forgot measurements altogether.",
+      "defect": "The translation generalizes away the specific image of the unit 尺 disappearing from their minds.",
+      "id": "F02",
+      "rationale": "The Korean names a particular traditional unit, 尺, rather than measurements in general. The following line already conveys that the monster's size overwhelms them.",
+      "replacement": "the very unit of measurement called a chi had vanished from their minds.",
+      "severity": "minor",
+      "source": "Line 102: 척(尺)이라는 단위는 이미 머릿속에서 지워졌다."
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, with two minor meaning shifts.",
+  "version": 1
+}
