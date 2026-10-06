@@ -28,7 +28,7 @@ An accomplished Peak master himself, he recognized the change in me at a glance.
 
 “Uh…”
 
-*What was I supposed to say to that?*
+What was I supposed to say to that?
 
 Most people believed the ridiculous rumors about me without question, but Wipeng was different.
 
@@ -106,9 +106,9 @@ Unable to endure my nagging any longer, Hyuk Mujin grumbled his way out of the r
 
 “…”
 
-*Well, from where I was standing, he wasn’t exactly one to talk.*
+Well, from where I was standing, he wasn’t exactly one to talk.
 
-The way you constantly hounded people to work whenever you had the chance was enough to make even a mother-in-law slap someone across the face with a bundle of kimchi.[^1]
+The way you constantly hounded people to work whenever you had the chance was enough to make even a mother-in-law slap someone across the face with a bundle of kimchi.
 
 *Look at this hypocrite.*
 
@@ -154,11 +154,11 @@ But I was a full-fledged Peak master now. I was far too grown-up to be treated l
 
 “I trust you were not about to say, ‘I’m a Peak master now, so stop treating me like a child by the water.’”
 
-*Was he a ghost or something?* I hurriedly swallowed the rest of my words.
+Was he a ghost or something? I hurriedly swallowed the rest of my words.
 
 “Of course not.”
 
-“In Murim, no one knows what awaits them even a single step ahead. And be respectful toward Jang Taebo—Guild Leader Jang. The Ironcraft Guild has close ties with the Nine Sects and One Gang,[^2] and its current Guild Leader is Jang Taebo’s Disciple. It would be unwise to offend him.”
+“In Murim, no one knows what awaits them even a single step ahead. And be respectful toward Jang Taebo—Guild Leader Jang. The Ironcraft Guild has close ties with the Nine Sects and One Gang, and its current Guild Leader is Jang Taebo’s Disciple. It would be unwise to offend him.”
 
 “My hobby is filial piety, and my specialty is respecting the elderly.”
 
@@ -168,7 +168,7 @@ But I was a full-fledged Peak master now. I was far too grown-up to be treated l
 
 “Of course. I was merely pointing it out. Why are you getting so angry? Do you think I’m a pushover now that you’re a Peak master?”
 
-*Look at those eyes.* He looked ready to challenge me to a duel.
+Look at those eyes. He looked ready to challenge me to a duel.
 
 Of course, if we actually fought, I would still be the one getting beaten. I casually changed the subject.
 
@@ -202,7 +202,7 @@ Looking utterly bewildered, Wipeng pointed at the badly mangled door.
 
 “Who do you think did it?”
 
-*The same person you, I, and everyone else would suspect, of course.*
+The same person you, I, and everyone else would suspect, of course.
 
 Wipeng appeared to realize who the culprit was. He let out a long sigh and left the room. Judging by the murderous set of his shoulders, he was clearly going to lay into Jin Wikyung.
 
@@ -222,7 +222,7 @@ In front of the stables, Hyuk Mujin was inspecting the saddles. He answered curt
 
 “Yes.”
 
-*What was taking him so long?*
+What was taking him so long?
 
 When I approached, I saw the horse’s flanks were covered in bundles. One sniff told me they were all filled with food. They were still warm, as though they had only recently been cooked.
 
@@ -248,7 +248,7 @@ The moment Cheongpung spotted me, his face lit up.
 
 “Ah… hello.”
 
-*Sure, hello. But why are you here?*
+Sure, hello. But why are you here?
 
 I turned a demanding look on Hyuk Mujin, and he began to explain.
 
@@ -262,7 +262,7 @@ Cheongpung shouted enthusiastically.
 
 “Oh, really? I heard we were leaving today and coming back tomorrow…”
 
-*Did going somewhere today and returning tomorrow automatically make it a trip?*
+Did going somewhere today and returning tomorrow automatically make it a trip?
 
 When I explained that I was going to meet a blacksmith in Jeongyang, Cheongpung’s eyes lit up.
 
@@ -280,7 +280,7 @@ Hyuk Mujin and I spoke at the same time.
 
 “…”
 
-*It was more surprising that he didn’t know.*
+It was more surprising that he didn’t know.
 
 Anyone who had spent even a single day with Cheongpung would understand exactly how I felt.
 
@@ -306,7 +306,7 @@ One dropped to the ground with a thud, and Cheongpung screamed.
 
 “…Fuck.”
 
-*It wasn’t even mine.*
+It wasn’t even mine.
 
 Cheongpung insisted on gathering every last bundle, then grinned.
 
@@ -330,7 +330,7 @@ No sooner had he finished speaking than hundreds of silhouettes stirred in the d
 
 Draped in the hides of all manner of beasts, they mounted their horses, armed with curved sabers, sandalwood bows, and lances.
 
-Within moments, a cavalry force of some four hundred riders had formed before the huge man. His parched voice rang out once more.
+Within moments, a cavalry force of more than four hundred riders had formed before the huge man. His parched voice rang out once more.
 
 “Our task is simple.”
 
@@ -340,7 +340,7 @@ His eyes gleamed dangerously. The veins bulging along his forearms and the breat
 
 Low laughter rose here and there.
 
-Their leader had given them permission to run wild. The roughly four hundred mounted bandits of the Heavenly Wind Band trembled with excitement.
+Their leader had given them permission to run wild. The more than four hundred mounted bandits of the Heavenly Wind Band trembled with excitement.
 
 The sight brought a satisfied smile to the huge man’s face.
 
@@ -368,13 +368,10 @@ A thunderous roar erupted from the Heavenly Wind Band Leader’s mouth.
 
 “Let’s go!”
 
-The roughly four hundred mounted bandits, wild with excitement, had just turned their horses south when—
+The more than four hundred mounted bandits, wild with excitement, had just turned their horses south when—
 
 “You goddamn sons of bitches. What the hell do you think you’re burning?”
 
 A diminutive figure emerged with a sharp, ringing voice.
 
 The unidentified old man’s hand shone a blinding white.
-
-[^1]: A kimchi slap is a melodramatic Korean television trope in which someone strikes another person with kimchi.
-[^2]: The Nine Sects and One Gang is a grouping of major martial-arts organizations in the story.
