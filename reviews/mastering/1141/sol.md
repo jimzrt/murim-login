@@ -6,7 +6,7 @@ The Bow Saint’s lips, long pressed shut, finally parted as even the music drif
 
 I wasn’t sure what she meant—the river flowing past us, or the laughter carried on the breeze.
 
-I could only answer with a quiet nod.
+I answered with a quiet nod.
 
 “After a hard-fought battle ended in victory, there was always a feast like that. People would laugh and chatter until dawn, passing cups of wine back and forth without pause.”
 
@@ -16,23 +16,23 @@ And in the scene slowly taking shape before my eyes, she must have been just as 
 
 “They must have wanted to laugh, even if only for a little while. They needed days like that to take even one more step forward.”
 
-Enough time had passed for the mountains and rivers to change hands several times over, but the human heart remained the same.
+Enough time had passed for the mountains and rivers to change several times over, but the human heart remained the same.
 
 Then and now, those who survived gathered together and raised their cups.
 
 One for the joy of victory. One to honor their fallen comrades.
 
-And one more for the time they had left, which might be their last.
+And one more for this time they had together, which might be their last.
 
 That was why this was both a feast and a memorial rite.
 
 “But I could never join them.”
 
-I’d been staring silently at the river. Only then did I part my lips.
+I’d been staring silently at the river. Only then did I speak.
 
 “Why not?”
 
-“The weight pressing down on my body and mind was too much to bear. I was so worried about what lay ahead that I couldn’t even let myself feel those fleeting emotions.”
+“The weight on my body and mind was too much to bear. I worried so much about what lay ahead that I couldn’t let myself feel even those fleeting moments.”
 
 For the first time, she took her gaze off the river and looked at me, her eyes as composed as ever.
 
@@ -46,7 +46,7 @@ I knew.
 
 I knew who the Bow Saint was talking about.
 
-What I hadn’t guessed was that she’d also figured out why I’d come to see her.
+What I hadn’t guessed was that she’d figured out why I’d come to see her.
 
 “So, what do you want to hear?”
 
@@ -70,7 +70,7 @@ But the first time he appeared in history, everyone under Heaven learned of his 
 
 “He was like… a divine man who had descended from the heavens.”
 
-In the early days of the Great Faction War, the Demonic Cult drenched Kunlun Mountain in blood and fired the first shot of the war. As the Hundred Thousand Demonic Disciples bore down like a giant wave, the Central Plains Murim fell into utter chaos.
+In the early days of the Great Faction War, the Demonic Cult drenched Kunlun Mountain in blood, signaling the start of the war. As the Hundred Thousand Demonic Disciples bore down like a giant wave, the Central Plains Murim fell into utter chaos.
 
 Until *he* appeared.
 
@@ -82,7 +82,7 @@ An unknown man stood in the pursuers’ path, and a new sky opened.
 
 “Before even half a day had passed, every enemy had been killed or captured. It was hard to believe one person had done it all.”
 
-But the Huashan reinforcements, arriving late, saw everything with their own eyes.
+But the Huashan reinforcements, arriving late, saw the proof with their own eyes.
 
 Amid a battlefield that looked as though a storm had swept through it, a man stood alone among countless corpses.
 
@@ -132,9 +132,9 @@ The Bow Saint raised her head and looked up at the sky.
 
 In the pitch-black night, stars glittered, echoing her title. But beside the vast heavens above, they were no more than tiny lights.
 
-“Those who lived in the same era as me know. The Martial God was truly a miraculous being. No one under Heaven could ever accomplish what he did.”
+“Those who lived in my time know. The Martial God was truly a miracle, and no one under Heaven could ever accomplish what he did.”
 
-When her long story ended, silence settled. I’d been looking at her without a word when I suddenly parted my lips.
+When her long story ended, silence settled. I watched her for a moment, then spoke.
 
 “Is that all?”
 
@@ -148,7 +148,7 @@ The Bow Saint’s gaze slid slowly down from the sky to me.
 
 Her answer came a fraction too late.
 
-For an instant, I thought her eyes had wavered ever so slightly. Was that just my imagination, or had I mistaken the river reflected in them for a flicker in her gaze?
+For an instant, I thought her eyes had wavered. Was that just my imagination, or had I mistaken the river reflected in them for a flicker in her gaze?
 
 I kept the question to myself and spoke again.
 
@@ -164,7 +164,7 @@ That was true. I knew it, too.
 
 The Bow Saint had spent decades wandering the realm. Her own life bore out her words.
 
-And I knew that the woman before me had walked a difficult path as a chivalrous warrior—one I wasn’t qualified to judge.
+And I knew the woman before me was a chivalrous warrior who had walked a harder path than I could presume to judge.
 
 But to my mind, her answer was both entirely true and incomplete.
 
@@ -192,11 +192,11 @@ I’d already turned the question over in my mind several times. It didn’t eve
 
 I would have done everything I could to save the Bow Saint.
 
-Whether I’d moved on instinct or reason.
+Whether I acted on instinct or reason.
 
 But she hadn’t.
 
-On the day of the great battle surrounding Xining, she’d told the Slaughter Saint, who wanted to save me, that if Jin Taekyung died that day, then it was fate.
+On the day of the great battle around Xining, she’d told the Slaughter Saint, who wanted to save me, that if Jin Taekyung died that day, then it was fate.
 
 Of course, she wasn’t wrong.
 
@@ -214,11 +214,11 @@ As I swallowed a breath—
 
 *Splash!*
 
-A surge of river water rushed up and touched my toes.
+River water surged up and touched my toes.
 
 Cold seeped into my leather shoes. Snapped out of my thoughts, I instinctively stepped back.
 
-Then I met a pair of eyes watching me intently.
+Then I met the Bow Saint’s watchful eyes.
 
 “There’s one last thing I’d like to ask.”
 
@@ -226,7 +226,7 @@ She gave a small nod, and I continued, my voice trembling now.
 
 “Why… did the Martial God want to find me?”
 
-The Bow Saint answered at once.
+The Bow Saint answered.
 
 “For the sake of the realm. That’s all.”
 
