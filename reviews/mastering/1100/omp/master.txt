@@ -18,7 +18,7 @@ He’d expected it.
 
 “Defend!”
 
-The instant his shout, infused with deep reserves of internal energy, burst from between his lips—
+His shout rang out, charged with deep reserves of internal energy.
 
 *Shhk! Fwssh!*
 
@@ -50,11 +50,11 @@ So did the Grand Mage and the Blood Lord, watching from beyond the wall.
 
 “Loose!”
 
-At the forceful shout, the signalers on the wall waved their flags to pass along the command. Arrows that had gleamed from between the shields finally left their taut bowstrings.
+At the shouted command, the signalers on the wall waved their flags. Arrowheads that had gleamed between the shields finally sprang from taut bowstrings.
 
 *Whooosh!*
 
-They were meant to pierce the throats of the enemies advancing below—the merciless invaders.
+Thousands of arrows darkened a swath of sky as they rained down, aimed at the throats of the enemies advancing below. The merciless invaders.
 
 But the defenders’ desperate hopes came to nothing the moment the red lips hidden behind a veil in the distance moved.
 
@@ -84,7 +84,7 @@ At the Grand Mage’s murmur, the Blood Lord spoke quietly.
 
 “Don’t you think we gave them more time than we needed to?”
 
-“That’s a pointless thing to say. You know better than anyone this is the surest way. And besides…”
+“You know better than anyone this is the surest way. Why bring it up? Besides…”
 
 The Blood Lord looked calmly at the Grand Mage.
 
@@ -102,13 +102,13 @@ There were dozens of them: Magic Formations she had prepared over the past two d
 
 “So, what do you want?” she asked.
 
-The Blood Lord briefly considered the question.
+The Blood Lord considered the question.
 
 *What do I want?*
 
 *Jin Taekyung’s death, of course.*
 
-But he had to swallow the words welling up in his throat.
+But he swallowed the words rising in his throat.
 
 That stupid bitch would never defy *that person’s* will, and even he had no idea how she would react if she learned what he was thinking.
 
@@ -118,9 +118,9 @@ So he forced himself to answer calmly.
 
 The Dalai Lama, who had listened to their exchange in silence like a docile lamb, suddenly spoke.
 
-“If the wall falls before the rear is completely sealed off, won’t the enemies give up resisting and flee?”
+“If the wall falls before we’ve sealed off their rear, won’t the enemy abandon the fight and flee?”
 
-His suggestion sounded reasonable at first, but neither the Blood Lord nor the Grand Mage paid it the slightest mind.
+It sounded reasonable at first, but neither the Blood Lord nor the Grand Mage paid him any mind.
 
 Bringing the wall down wasn’t their only reason for targeting it first.
 
@@ -158,9 +158,9 @@ Spheres that had looked capable of flattening a mountain, let alone the city wal
 
 “……!”
 
-Those who’d instinctively sensed their imminent deaths opened their eyes wide in unison.
+Those who had instinctively sensed their deaths a moment before stared wide-eyed. All at once, they remembered what they had forgotten.
 
-Those terrifying dark arts called magic weren’t the only thing beyond human power.
+Magic, those terrifying dark arts, wasn’t the only power beyond human limits.
 
 “They’re coming in hard from the start.”
 
@@ -172,11 +172,11 @@ He spat out some phlegm and grinned.
 
 His voice rumbled like a beast’s growl, and warmth rose in the people’s chests.
 
-The tiny spark of hope, beginning to stir again, blazed brighter still when the giants who appeared next came into view.
+The little spark of hope stirring within them burned brighter still when the giants who followed him came into view.
 
 “They’re trying to wear down our key fighters.”
 
-That boy, who still looked as if he hadn’t even lost all his baby fuzz, was the Slaughter Saint, once revered by all.
+He looked more like a boy than a young man. But everyone knew now that the boy, who seemed barely old enough to have lost his baby fuzz, was the Slaughter Saint, once revered by all.
 
 They knew, too, that another man whose legend could rival his stood among them.
 
@@ -208,7 +208,7 @@ The name Bow Saint was no empty boast.
 
 A glimmer of hope flashed through the minds of the people on the wall, and they trembled with emotion.
 
-They saw the other Supreme Peak masters stepping forward to block the magic that kept crashing toward the wall, and Jin Taekyung, who remained completely unfazed even in this dire situation.
+They saw the radiance of those who had not lost their light even in a world this dark. They saw the other Supreme Peak masters stepping forward to block the spells that kept hurtling toward the wall, and Jin Taekyung, unshaken even now.
 
 They were moved. They shuddered.
 
@@ -216,7 +216,7 @@ They stood shoulder to shoulder with living legends, and those legends were givi
 
 *Thud. Thud-thud. Thud-thud-thud!*
 
-A massive rumble rippled outward like a wave.
+A great rhythm spread outward like a wave.
 
 As if they had all agreed to it, they stamped their feet. They slammed down their shields, beat their spear shafts, and struck their swords and sabers together.
 
@@ -230,7 +230,7 @@ And as the little sparks in their hearts grew into a great torch—
 
 *Rumble!*
 
-The hulking monsters, who’d steadily advanced despite the relentless rain of arrows and other attacks, charged toward the wall with a roar like an earthquake.
+The hulking monsters, still advancing despite the relentless rain of arrows and other attacks, charged toward the wall with a roar like an earthquake.
 
 —*GRAAAAH!*
 

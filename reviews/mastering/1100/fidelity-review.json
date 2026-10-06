@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "They were meant to pierce the throats of the enemies advancing below—the merciless invaders.",
+      "defect": "The translation omits the image and quantity of thousands of arrows darkening part of the sky as they rain down. The accepted baseline preserved this detail.",
+      "id": "F01",
+      "rationale": "The source explicitly describes thousands of arrows pouring down and darkening part of the sky before stating their purpose.",
+      "replacement": "Thousands of arrows darkened part of the sky as they rained down. They were meant to pierce the throats of the enemies advancing below—the merciless invaders.",
+      "severity": "minor",
+      "source": "Lines 60–66"
+    },
+    {
+      "confidence": 0.99,
+      "current": "That boy, who still looked as if he hadn’t even lost all his baby fuzz, was the Slaughter Saint, once revered by all.",
+      "defect": "The assembled English drops the description that the figure looked closer to a boy than a young man, which the accepted baseline preserved.",
+      "id": "F02",
+      "rationale": "The Korean explicitly contrasts the figure with a young man before describing his baby fuzz and identifying him as the Slaughter Saint.",
+      "replacement": "The figure looked closer to a boy than a young man. That boy, who still looked as if he hadn’t even lost all his baby fuzz, was the Slaughter Saint, once revered by all.",
+      "severity": "minor",
+      "source": "Lines 202–206"
+    },
+    {
+      "confidence": 0.98,
+      "current": "They saw the other Supreme Peak masters stepping forward to block the magic that kept crashing toward the wall, and Jin Taekyung, who remained completely unfazed even in this dire situation.",
+      "defect": "The assembled English omits the image of the figures’ radiance remaining undimmed in a dark world, preserved in the accepted baseline.",
+      "id": "F03",
+      "rationale": "The Korean explicitly presents their undiminished light as an image that moves the people on the wall before describing the other masters and Jin Taekyung.",
+      "replacement": "They saw the radiance of those people, who hadn’t lost their light even in a world this dark. They saw the other Supreme Peak masters stepping forward to block the magic that kept crashing toward the wall, and Jin Taekyung, who remained completely unfazed even in this dire situation.",
+      "severity": "minor",
+      "source": "Lines 236–240"
+    }
+  ],
+  "summary": "The assembled English is broadly faithful, but it drops several source details preserved in the accepted baseline.",
+  "version": 1
+}
