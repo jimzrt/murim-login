@@ -6,7 +6,7 @@ But in a time of war, suspicion was another word for caution.
 
 The longer and more closely you looked, the clearer the truth became—and the closer you came to victory.
 
-That was the main reason Ma Junggeol and the other six members of the Seven Masters of Baekma Bang had joined our party.
+That was the main reason Ma Junggeol and the Seven Masters of Baekma Bang had joined our party.
 
 Or, to be precise, the Fire Dragon Pavilion I led.
 
@@ -18,7 +18,7 @@ They would be assigned to the Fire Dragon Pavilion.
 
 Time was so short that no one raised any further objections. Still, I saw it clearly.
 
-The moment the decision about the Seven Masters of Baekma Bang was made, Sima Gong’s eyes sank deeper than before.
+The moment the decision was made, Sima Gong’s gaze darkened.
 
 *Am I imagining it? Or…*
 
@@ -92,7 +92,7 @@ Ma Junggeol answered his younger brothers’ grumbling Sound Transmissions stern
 
 “Now, now. Why are you all complaining? We expected this from the start.”
 
-The second brother, who fled faster than anyone in an emergency but worshipped the Chief like the heavens the rest of the time, nodded.
+The second brother, who would flee faster than anyone in an emergency but otherwise revered his eldest brother like the heavens, nodded.
 
 “Enough! The Chief is a hundred, a thousand times right, so all of you shut up. If he hadn’t foreseen this from the beginning, would he have dragged us into such a deathtrap?”
 
@@ -116,13 +116,13 @@ The third brother, who always had to stick his foot in, broke in. The second bli
 
 Ma Junggeol remembered what had happened half a shichen earlier and hurried to cut him off. But the third brother’s Sound Transmission was already riding the wind.
 
-“We’re fucked. What do we do now?”
+“He said, ‘We’re fucked. What do we do now?’”
 
-“……”
+“……!”
 
-“……”
+“……!”
 
-A wind colder than the bitter north wind swept through the group.
+A wind colder than the bitter northern winter swept through the group.
 
 In the heavy silence, six pairs of eyes bored mercilessly into the back of Ma Junggeol’s head. His gaze darkened.
 
@@ -166,7 +166,7 @@ His six quick-witted brothers groaned at once.
 
 Unlike the others, who had descended into confusion, the third brother was at least facing reality. Ma Junggeol gave the faintest shake of his head.
 
-“Don’t worry. Things are going a little—just a little—worse than I expected, but they won’t use us to catch swords like you said.”
+“Don’t worry. Things are going a little—just a little—worse than I expected, but they won’t use us to catch swords.”
 
 “If it’s not swords, it’ll be arrows. Thanks, Chief. You’ve ruined all our lives.”
 
@@ -180,15 +180,15 @@ Unlike the others, who had descended into confusion, the third brother was at le
 
 The third brother’s Sound Transmission poured out with pent-up anger. His sworn brothers joined in.
 
-“There are those Zhongnan Sect Daoist punks treating us like outright bandits, the Black Night King himself, the Fire King, and that young Disciple of his who looks half-mad.”
+“There are those Zhongnan Sect Daoists treating us like common bandits, the Black Night King himself, the Fire King, and that young disciple of his who seems half-mad.”
 
 “Especially that Jin Taekyung right in front of the Chief. He’s not right in the head. Have you forgotten how we nearly crossed the Sanzu River[^1] before we’d even made it through the gate?”
 
-“Damn it, is this why we quit being mounted bandits? I’ll admit our past wasn’t exactly something to brag about, but we quit before we’d even gotten to rob anyone! We spent all day, every day sharpening our swords and never even got to draw them.”
+“Damn it, is this why we quit being mounted bandits? I’ll admit our past wasn’t exactly something to brag about, but we quit before we’d robbed anyone! We spent all day, every day sharpening our swords and never even got to draw them.”
 
 “Enough! Now that I think about it, this is downright unfair. Have we robbed anyone? Killed any innocent civilians? We’d only just made up our minds to pull off one good score when we met Great Sir and turned over a new leaf. We’re trying to live decent lives, and this is what we get?”
 
-“Second Brother’s right. Sure, we look like this, but if we’d gone around doing only the most vicious things like everyone else, do you think the Lord would’ve left us alone? Isn’t that right?”
+“Second Brother’s right. Sure, we look like this, but if we’d gone around committing every vicious crime we could, like the other bastards, do you think Great Sir would’ve left us alone? Well?”
 
 Their Sound Transmissions were full of wounded indignation. Listening to them, Ma Junggeol felt a pang in his own heart.
 
@@ -208,7 +208,7 @@ And that wasn’t all.
 
 They might have looked like fiends, but Ma Junggeol and his six sworn brothers were timid by nature.
 
-Robbing or killing civilians had been impossible for them from the start. And even when they occasionally came across a gutsy merchant caravan traveling to Ningxia Province, they just collected a toll and let it pass.
+Robbing or killing civilians had been beyond them from the start. Even when they occasionally encountered a merchant caravan bold enough to travel through Ningxia Province, they only collected a toll and let it pass.
 
 Why?
 
@@ -218,7 +218,7 @@ Simple.
 
 Who would travel through a lawless place like Ningxia Province without a proper escort?
 
-It was only natural for an Escort Bureau or merchant caravan to bring at least several dozen armed men. In that tense standoff, Ma Junggeol just had to put on his vicious face and say:
+Any Escort Bureau or merchant caravan would naturally bring at least several dozen armed men. In the tense standoff that followed, Ma Junggeol only had to show them his fearsome face and ask:
 
 *“So, you mean to shed blood after all?”*
 
@@ -230,7 +230,7 @@ That was how Ma Junggeol and his six sworn brothers had survived as mounted band
 
 Until the man they called Great Sir appeared.
 
-Even now, Ma Junggeol firmly believed in Great Sir, who had led them onto the right path.
+Even now, Ma Junggeol firmly believed in the man who had led them onto the right path.
 
 “Enough, all of you!”
 
@@ -248,11 +248,11 @@ Ma Junggeol seized the brief opening.
 
 “Right. We can’t trust the Chief, but we can trust Great Sir.”
 
-“Now that you mention it, that makes sense.”
+“Now that you mention it…”
 
 “For once, you’re saying something right.”
 
-The answers only made him feel stranger the longer he thought about them, but Ma Junggeol continued his Sound Transmission with a vague sense of unease.
+The more Ma Junggeol thought about their answers, the stranger they felt. He continued his Sound Transmission anyway.
 
 “I sent a few men back on the pretext of relaying news to Ningxia, so Great Sir will hear about this. Until then, don’t do anything rash. Understood?”
 
@@ -262,7 +262,7 @@ The third brother, the one with the bulbous nose, cut in.
 
 “What?”
 
-“Well, isn’t it? You know as well as anyone how he can be a little… all over the place.”
+“Well, you know as well as anyone how he can be a little… all over the place.”
 
 Ma Junggeol blinked a few times, then stammered out a reply.
 
@@ -282,11 +282,11 @@ Even without his uncertain answer, his sworn brothers knew no one could be sure 
 
 As his sworn brothers’ worry deepened, Ma Junggeol scrunched up his already ugly face and thought hard. At last, he spoke.
 
-“We have no choice. One of us should go in person. Maybe seeing some familiar faces he sees often will help him come to his senses sooner.”
+“We have no choice. One of us should go in person. Seeing a face he knows well might help him come to his senses sooner.”
 
 “One of us? Who?”
 
-“Hard to say. We’ll have to decide now.”
+“I don’t know. We’ll have to decide.”
 
 “And once we do, how are you going to send him? That’ll be difficult right now.”
 
@@ -302,17 +302,17 @@ At that very moment, an actual voice he hadn’t expected reached his ears.
 
 “…?”
 
-“It’s me.”
+“I said it’s me.”
 
 *No. Impossible. Surely not.*
 
-Muttering to himself, Ma Junggeol slowly raised his head. He’d been keeping it slightly lowered to hide his moving lips.
+Ma Junggeol slowly raised his head. He’d been keeping it slightly lowered to hide the movement of his lips.
 
 There, facing him, was that insolent bastard, smiling menacingly.
 
 “Uh, uhh.”
 
-Ma Junggeol shuddered as if possessed by a ghost. Jin Taekyung smiled warmly at him.
+Ma Junggeol trembled as if he’d seen a ghost. Jin Taekyung gave him a gentle smile.
 
 “Looks like there’s a lot you need to tell me. Isn’t that right?”
 

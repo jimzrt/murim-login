@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Buried beneath the pounding hooves and rushing wind, that faint ripple carried a voice I had never heard before.",
+      "defect": "The source says the ripple came through many noises, both large and small. This limits the surrounding noise to the hoofbeats and wind, dropping the explicit range of sounds.",
+      "id": "F01",
+      "rationale": "The Korean specifies 크고 작은 여러 소음, meaning various noises large and small; the current line names only the hoofbeats and wind.",
+      "replacement": "Buried beneath the many noises, loud and soft, that faint ripple carried a voice I had never heard before.",
+      "severity": "minor",
+      "source": "Lines 47–49"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall. One minor sound-detail omission remains.",
+  "version": 1
+}
