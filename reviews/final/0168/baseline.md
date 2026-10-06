@@ -42,9 +42,9 @@ At my incredulous stare, Jang Taebo stroked his beard.
 
 “…How exactly am I supposed to do that?”
 
-“Then forget it. Give me back the He Shou Wu.[^1]”
+“Then forget it. Give me back the He Shou Wu.”
 
-Jang Taebo snatched the He Shou Wu[^1] from my hand and began chewing it with a crisp crunch.
+Jang Taebo snatched the He Shou Wu from my hand and began chewing it with a crisp crunch.
 
 “Oh, it’s sweet. Just what you’d expect from a fifty-year-old specimen.”
 
@@ -58,7 +58,7 @@ Jang Taebo snatched the He Shou Wu[^1] from my hand and began chewing it with a 
 
 “Does asking someone to bring you the Herb of Eternal Youth sound remotely reasonable?”
 
-“It’s been a long time since I met someone who cared about common sense in the Murim. There’s Thousand-Year Snow Ginseng, so why wouldn’t there be an Herb of Eternal Youth?”
+“It’s been a long time since I met someone who cared about common sense in the Murim. There’s Hundred-Year Snow Ginseng, so why wouldn’t there be an Herb of Eternal Youth?”
 
 “…”
 
@@ -76,11 +76,11 @@ I almost let myself be persuaded, but quickly came to my senses. Somehow, I had 
 
 Jang Taebo nodded and opened his mouth.
 
-“Then I’m thirsty. Bring me a bottle of gongcheong seokyu.[^2]”
+“Then I’m thirsty. Bring me a bottle of gongcheong seokyu.[^1]”
 
 “Pardon?”
 
-Gongcheong seokyu[^2]? The stuff said to grant a jiazi[^3] of internal energy with a single drop?
+Gongcheong seokyu? The stuff said to grant a jiazi of internal energy with a single drop?
 
 I barely stopped myself from letting loose a stream of profanity. Jang Taebo continued with a sly grin.
 
@@ -110,7 +110,7 @@ Just as Jang Taebo began waving a fist the size of a pot lid, Cheongpung thrust 
 
 “What?”
 
-“The Herb of Eternal Youth! Gongcheong seokyu[^2]! A dragon!”
+“The Herb of Eternal Youth! Gongcheong seokyu! A dragon!”
 
 At last, the neighborhood’s resident lunatic had stepped forward.
 
@@ -154,7 +154,7 @@ Jang Taebo stared at Cheongpung in evident surprise, then opened his mouth.
 
 “Ah…”
 
-“I have nothing to do with Huashan. Well, I did make a sword at the request of the current Sect Leader of Huashan, Heavenly Sword True Person,[^4] about thirty years ago. But that’s all.”
+“I have nothing to do with Huashan. Well, I did make a sword at the request of the current Sect Leader of Huashan, Heavenly Sword True Person,[^2] about thirty years ago. But that’s all.”
 
 His firm voice continued.
 
@@ -188,7 +188,7 @@ Jang Taebo harshly shook off my hand.
 
 “Oh, please.”
 
-“Bring me the gongcheong seokyu[^2] and dragon pearl while you’re at it. I hear that when fighting a dragon, you should avoid its tail, circle around behind it, and choke its neck. I’m telling you so you don’t get hurt.”
+“Bring me the gongcheong seokyu and dragon pearl while you’re at it. I hear that when fighting a dragon, you should avoid its tail, circle around behind it, and choke its neck. I’m telling you so you don’t get hurt.”
 
 “…A dragon isn’t a person. How am I supposed to kill it by choking it?”
 
@@ -226,7 +226,7 @@ This wasn’t how it was supposed to go. As I was thinking that, Jang Taebo aske
 
 “…How would I know?”
 
-“I’ll devote the rest of my life to making ten weapons. Then I’ll distribute those weapons, each made with all my heart and soul, to the leaders of the Nine Sects and One Gang,[^5] while having in-depth conversations with them about the Jin Family of Taiyuan. Your name will come up quite a lot, especially.”
+“I’ll devote the rest of my life to making ten weapons. Then I’ll distribute those weapons, each made with all my heart and soul, to the leaders of the Nine Sects and One Gang, while having in-depth conversations with them about the Jin Family of Taiyuan. Your name will come up quite a lot, especially.”
 
 “W-What are you planning to tell them?”
 
@@ -234,7 +234,7 @@ This wasn’t how it was supposed to go. As I was thinking that, Jang Taebo aske
 
 “…”
 
-It might be a small request to the leaders of the Nine Sects and One Gang,[^5] but it would be anything but small to me or the Jin Family of Taiyuan.
+It might be a small request to the leaders of the Nine Sects and One Gang, but it would be anything but small to me or the Jin Family of Taiyuan.
 
 If he bad-mouthed us with even a few words in front of them, a hit to our reputation would be the least of it. We might even face real pressure from them.
 
@@ -274,7 +274,7 @@ I had defeated enemies stronger than me time and again, but I couldn’t break t
 
 I’d finally thought I was about to have my first cherished weapon…
 
-I was staring dejectedly at the half-chewed, discarded He Shou Wu[^1] when Jang Taebo spoke.
+I was staring dejectedly at the half-chewed, discarded He Shou Wu when Jang Taebo spoke.
 
 “You said you were making a spear?”
 
@@ -398,12 +398,6 @@ Ding.
 >
 > A linked Quest has been created.
 
-[^1]: He Shou Wu is a plant used in traditional Chinese medicine.
+[^1]: Gongcheong seokyu is a rare martial-arts elixir said to grant a jiazi of internal energy with a single drop; its name also carries a petroleum-related pun in Korean.
 
-[^2]: Gongcheong seokyu is a rare martial-arts elixir. Its Korean name also carries a petroleum-related pun.
-
-[^3]: A jiazi is a traditional sixty-year cycle.
-
-[^4]: “Heavenly Sword True Person” is a Taoist-style title; “True Person” is an honorific for someone regarded as spiritually accomplished.
-
-[^5]: The Nine Sects and One Gang are a major grouping of martial-arts organizations in the Murim.
+[^2]: “Heavenly Sword True Person” is a Taoist-style title meaning a true person of the heavenly sword.
