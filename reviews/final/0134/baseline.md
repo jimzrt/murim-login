@@ -14,7 +14,7 @@ Yet some kid who barely looked twenty had subjected him to such humiliation.
 
 “Eek! Young Hero Woo!”
 
-“H-Hyung[^1], are you all right?”
+“H-Hyung, are you all right?”
 
 “Isn’t that the Young Bureau Head of the Seongun Escort Bureau?”
 
@@ -42,7 +42,7 @@ He hadn’t even seen when or how the bastard approached. The humiliation of bei
 
 Only then did Woo Jintae study his opponent with eyes full of caution.
 
-“Look at those eyes darting around. What, do you want me to tell you my three measurements[^2]?”
+“Look at those eyes darting around. What, do you want me to tell you my three measurements?”
 
 “Who are you, and what sect are you from?”
 
@@ -170,7 +170,7 @@ As he was beaten helplessly, a crazed shout rang in his ears.
 
 *Smack-smack!*
 
-“One chi[^3], two chi[^3], three chi[^3], four chi[^3]—Ppukku cheek! Ppukku cheek!”
+“One chi, two chi, three chi, four chi—Ppukku cheek! Ppukku cheek!”
 
 *Smack-smack-smack!*
 
@@ -357,7 +357,3 @@ Then he solemnly declared to the four men and women looking at him,
 “…!”
 
 “…!”
-
-[^1]: *Hyung* is a Korean form of address used by a younger man for an older brother or an older man with whom he is familiar.
-[^2]: The “three measurements” are bust, waist, and hip measurements.
-[^3]: A Korean *chi* is a traditional unit of length equal to 3.03 cm (1.19 in). The line plays on a Korean counting chant.
