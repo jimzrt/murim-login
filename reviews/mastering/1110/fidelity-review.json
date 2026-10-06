@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "A desperate longing to rest somewhere without pain or worry was the only thing ruling my body.",
+      "defect": "The Korean explicitly says the narrator could think of nothing else before describing the longing for rest. The assembled English omits that separate thought, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "“그 외의 다른 생각은 아무것도 들지 않았다” means no other thoughts came to mind; it is distinct from the following statement about what ruled the body.",
+      "replacement": "I couldn’t think of anything else. A desperate longing to rest somewhere without pain or worry was the only thing ruling my body.",
+      "severity": "minor",
+      "source": "Lines 237–243"
+    },
+    {
+      "confidence": 0.96,
+      "current": "the blood-red beams that had swallowed hundreds of lives rose in strands from the Blood Lord’s entire body.",
+      "defect": "The Korean describes one blood-red flash rising strand by strand over the Blood Lord’s body. “Beams” makes it plural and changes the image.",
+      "id": "F02",
+      "rationale": "The source uses singular “핏빛 섬광” and describes it as rising “올올이,” strand by strand.",
+      "replacement": "the blood-red flash that had swallowed hundreds of lives rose in strands over the Blood Lord’s entire body.",
+      "severity": "minor",
+      "source": "Line 125"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Their bodies would perish, but what they did at the end would remain.",
+      "defect": "The source says their final stand would remain immortal, not merely remain. The English weakens the explicit contrast between mortal bodies and an immortal end.",
+      "id": "F03",
+      "rationale": "“육신은 필멸이나, 끝내는 불멸로 남을 최후” explicitly contrasts mortal flesh with a final act that becomes immortal.",
+      "replacement": "Though their bodies were mortal, their final stand would live on forever.",
+      "severity": "minor",
+      "source": "Line 205"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it loses an explicit no-other-thoughts beat and weakens two source images: the flash’s singular, strand-like motion and the immortality of the final stand.",
+  "version": 1
+}

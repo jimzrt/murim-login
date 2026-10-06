@@ -8,7 +8,7 @@ The low voice of the monster that had absorbed the life force of countless fiend
 
 “And the debt I owe that bastard Mae Jonghak, the Sword Saint.”
 
-At last, the monster—the Blood Lord—had awakened with all his strength and memories restored. His red eyes flashed.
+The monster—the Blood Lord—had awakened with all his strength and memories restored. His red eyes flashed.
 
 Then a blood-red flash, brighter even than the light in his eyes, shot through the air.
 
@@ -42,7 +42,7 @@ The man swallowed the blood that surged up whenever he opened his mouth and spok
 
 “B-but—”
 
-Cheongpung’s mind had gone blank at this unexpected turn. He was just starting to stammer out a reply when—
+Cheongpung’s mind had gone blank. He was about to ask what the man meant when—
 
 “You fool!”
 
@@ -68,7 +68,7 @@ Cheongpung stared at the horrific hellscape of slaughter. At last, he gritted hi
 
 *Grind.*
 
-A dull pain, and the taste of blood filled his mouth.
+Pain flared, and the taste of blood filled his mouth.
 
 But that was nothing compared to what those people were suffering as they were torn apart and broken, even now.
 
@@ -90,19 +90,19 @@ His footstep felt unusually heavy as he turned. He fixed a calm gaze on the mons
 
 The Blood Lord’s mouth twisted into a smile. It held mockery—and the anger of a predator whose prey had slipped away before his eyes.
 
-“There are a lot of you idiots who’ve got a death wish.”
+“So many of you have a death wish.”
 
 *Shhhhh.*
 
-In a matter of moments, the blood-red beams that had swallowed hundreds of lives rose in strands from the Blood Lord’s entire body.
+Blood-red light rose in strands all over his body. In less than a few moments, it had swallowed hundreds of lives.
 
 “You should have run. It would only have bought you a little time, but at least you might have had a chance to look back on your life.”
 
-The man gripped the great sword in the one hand he had left and answered.
+The man gripped the great sword in his one remaining hand.
 
 “I don’t need that chance. I’m not like you.”
 
-And he truly wasn’t.
+And he wasn’t.
 
 Not everything he had done in his life had been perfectly just. But he had lived it with true loyalty. He had never blindly submitted to orders, nor had he wavered when powerful men dangled tempting offers before him.
 
@@ -116,9 +116,7 @@ At the sudden question from their commander, the roughly three hundred surviving
 
 Some voices were young, others old.
 
-The familiar faces of friends and comrades who had shared their lives with them—less than half remained.
-
-Each remembered the oath they had etched into their hearts the day they first received shining golden armor.
+Fewer than half the familiar faces of friends and comrades who had shared their hardships remained. But not one of them had forgotten the oath they’d etched into their hearts on the day they first received their shining golden armor.
 
 “Then what is our obligation?”
 
@@ -164,7 +162,7 @@ They were magnificent.
 
 *Whoosh.*
 
-And it was glorious.
+And they were brave, even to the last moment.
 
 *CRUNCH!*
 
@@ -186,7 +184,7 @@ It was strange. I could’ve sworn I remembered everything just a moment ago.
 
 *I just want to sleep. Peacefully.*
 
-A desperate longing to rest somewhere without pain or worry was the only thing ruling my body.
+I couldn’t think of anything else. If I fell asleep now, I felt as though I could finally rest. The longing to be somewhere without pain or worry had taken over my body.
 
 —Rest, huh? That doesn’t sound so bad.
 
@@ -194,13 +192,13 @@ An unfamiliar voice echoed in my mind, but I wasn’t even curious who it belong
 
 What did it matter, as long as I could fall asleep in peace?
 
-*Right? There’s nothing wrong with taking a little rest.*
+*Right? There’s nothing wrong with getting some rest.*
 
 The voice answered my question.
 
-—If you put it that way…… I’d have to say there are plenty of reasons it could be a problem.
+—If you put it that way… I’d have to say there’s plenty wrong with it.
 
-*A problem?*
+*What do you mean?*
 
 —You know why better than I do.
 
@@ -212,7 +210,7 @@ The voice spoke again.
 
 —You can’t feel it, can you? Even now, you’re struggling with everything you have to wake up.
 
-That couldn’t be right. That was nonsense from some clueless idiot.
+That couldn’t be right. The clueless bastard was talking nonsense.
 
 My vision was blurred and spinning, and pain was gnawing at every part of me. Who wouldn’t want to rest like this? I wanted so badly to fall asleep.
 
@@ -258,19 +256,19 @@ As my mind awoke, the pain returned with it.
 
 Was this what it felt like to fall into a pit of fire? To have my body torn into thousands of pieces?
 
-I didn’t know. I couldn’t know.
+I didn’t know.
 
 But I knew one thing: I still had so much left to protect.
 
 —As always, a good decision.
 
-At the moment the unknown voice whispered its last words in my mind—
+The unfamiliar voice whispered those last words in my mind.
 
 *Whoooosh.*
 
 The wind sweeping through my body became a wave of qi carrying the fragrance of flowers. It washed over me.
 
-No—it lifted my dying body and mind back to their feet.
+No—it raised my dying body and mind.
 
 And at last, I heard a familiar voice.
 
