@@ -12,7 +12,7 @@ But—
 
 The pain in the lip he’d bitten without realizing it, the stench of blood in his nostrils, and the acrid smoke all around him whispered the same truth.
 
-That this utterly horrific, unbelievable scene was real.
+This horrific, unbelievable scene was real.
 
 “Truly…… a fiend if ever there was one.”
 
@@ -70,7 +70,7 @@ Yet the Dalai Lama dodged by a hair once more and thrust both palms forward with
 
 Their hands met. The immense qi within them tangled and collided without pause.
 
-But unlike a moment ago, the fear was gradually fading from the Dalai Lama’s eyes as he clashed head-on with Jeok Cheongang.
+But as he clashed head-on with Jeok Cheongang, the fear gradually faded from the Dalai Lama’s eyes.
 
 *He’s strong, but that’s all.*
 
@@ -88,17 +88,17 @@ Even Jeok Cheongang could not have come through it unscathed. Realizing this at 
 
 “What?”
 
-“People don’t know of you because of Fire King Jeok Cheongang. They learned of you from your ancestor—the one who should have fallen into the Eight Hot Hells long ago.”
+“It isn’t because of you, Fire King Jeok Cheongang, that we know. We learned of your line from your predecessor—the one who should have fallen into the Eight Hot Hells long ago.”
 
 The Dalai Lama bit off each syllable.
 
-“Our Potala Palace never forgot. No—we came to a point where we could never forget.”
+“Our Potala Palace never forgot. No—we were never allowed to forget.”
 
 It had all begun more than two hundred years ago, on the day a wild-haired stranger in blood-red rags set foot in Tibet.
 
-For the Potala Palace, it was the deepest, most devastating wound—and a history of humiliation that could never be washed away.
+For the Potala Palace, that day had become its deepest wound, its most devastating defeat—a history of humiliation that could never be washed away.
 
-*Bring in that suspicious foreigner staying at an inn in Chamdo immediately. I will personally interrogate him to find out who he is, where he came from, and why he’s here.*
+*Bring me that suspicious foreigner staying at an inn in Chamdo. I will personally question him about who he is, where he came from, and why he’s here.*
 
 The Dalai Lama who gave that order could never have guessed what would follow.
 
@@ -130,7 +130,7 @@ The stranger’s answer was firm.
 
 *Good grief. You’re making this difficult.*
 
-*You bald monks made this what it is. This old man hasn’t done a damn thing wrong. At least, not yet.*
+*You bald monks made it difficult. This old man hasn’t done a damn thing wrong. Not yet, anyway.*
 
 *……Not yet?*
 
@@ -138,7 +138,7 @@ The stranger’s answer was firm.
 
 *……This time, at least?*
 
-*I didn’t like it when bald monks I’d never seen before came barging in out of nowhere. But if you’d waited quietly in a corner until I finished eating, I would’ve gone along with it. Hell, if you hadn’t tried to force me down, none of this would’ve happened.*
+*I wasn’t pleased when a pack of bald monks I’d never seen came barging in. But if they’d sat quietly in a corner until I finished eating, I would’ve gone along with them. Hell, if they hadn’t tried to subdue me by force, none of this would’ve happened.*
 
 *I can’t say you’re entirely wrong. Still, even allowing for my Disciples’ slight discourtesy, your response was excessive.*
 
@@ -156,13 +156,13 @@ The stranger’s next words sealed everyone’s fate.
 
 *I should’ve crippled them completely instead of leaving them half-crippled.*
 
-*……You’re a fiend to the bone. What can be done now? It’s come to this. Please, don’t hold it against us. May you find peace in your next life.*
+*……You’re a fiend to the bone. Well, what’s done is done. Do not bear us a grudge. May you find peace in your next life.*
 
 And so, the killing began.
 
 A storm of blood swept through, driven by one side alone.
 
-A dreadful storm of blood that would be remembered for more than two hundred years, and would still be remembered a thousand years later, as long as the Potala Palace endured.
+It would be remembered more than two hundred years later. As long as the Potala Palace endured, it would be remembered a thousand years hence.
 
 “One hundred died there that day. Another hundred were crippled.”
 
@@ -170,7 +170,7 @@ Recalling his sect’s humiliation, the Dalai Lama spoke in a harsh, grating voi
 
 “The Dalai Lama of that time died too.”
 
-The four Twelve Secret Monks who had been there with him barely survived, but like the martial monks who lived through it, they were never able to use martial arts again.
+The four Secret Monks with him had barely survived, but like the surviving martial monks, they could never use martial arts again.
 
 “It was a terrible humiliation. Something that should never have happened—something we had thought impossible.”
 
@@ -230,7 +230,7 @@ Its members began spending more time with martial arts manuals than with scriptu
 
 “We swore that even if Ghost Flame Fist died and turned to dust before we could avenge that day, we would end the line of those fiends with our own hands.”
 
-By the time the land had changed nearly ten times over, the Potala Palace had grown into a fighting force far stronger than it had ever been. Even its members believed the time for revenge had come.
+By the time nearly ten generations had passed, the Potala Palace had grown into a fighting force far stronger than it had ever been. Even its members believed the time for revenge had come.
 
 But the man who had been chosen as the new Dalai Lama in childhood, according to Potala Palace tradition, was not satisfied. That had been about a hundred years ago.
 
@@ -238,7 +238,7 @@ But the man who had been chosen as the new Dalai Lama in childhood, according to
 
 Just as Songhak had been shunned as a foreigner the moment he set foot in Tibet, the Potala Palace would be nothing but an outsider in the Central Plains. A dangerous outsider, at that—one with enough power to unleash a storm of bloodshed.
 
-The Fire Gate Clan might have spent years stirring up trouble and accumulating gratitude and grudges, but the martial artists of the Central Plains would never seek out the Potala Palace and hand it over to dangerous outsiders from the west for revenge.
+The Fire Gate Clan might have spent years stirring up trouble and accumulating gratitude and grudges, but the martial artists of the Central Plains would never hunt down one of their own and hand them over to dangerous outsiders from the west for revenge.
 
 “In the end, we needed greater strength. Or…… an ally who would join us against the Central Plains.”
 
@@ -248,13 +248,13 @@ The force in the Dalai Lama’s hands suddenly surged, pushing Jeok Cheongang’
 
 The balance between them was finally breaking.
 
-“The Demonic Cult was truly foolish. The arrogant Heavenly Demon mocked us for being weak. That was his greatest mistake.”
+“The Demonic Cult were fools. The arrogant Heavenly Demon mocked us for our weakness, and that was his greatest mistake.”
 
 “The Great Faction War…… Hah. I thought you were just a bald monk consumed by an old grudge with no claim to justice. Now I can’t even call you a monk.”
 
 Jeok Cheongang forced down the blood rising in his throat and gave the Dalai Lama a scornful look.
 
-“How ridiculous. Don’t you think?”
+“What a joke. Don’t you think?”
 
 “What?”
 
@@ -284,7 +284,7 @@ He had needed to grow stronger. Somehow, he had needed more and more power.
 
 The countless pills and martial arts Dark Heaven offered had made that possible.
 
-No—more precisely, that new power, infused with demonic energy, had made it possible.
+No—more precisely, it was the new power tainted with demonic energy.
 
 Jeok Cheongang gave a quiet laugh. The Dalai Lama had been confronted with a contradiction he had forgotten—or had tried desperately to ignore.
 
@@ -296,7 +296,7 @@ Jeok Cheongang gave a quiet laugh. The Dalai Lama had been confronted with a con
 
 A vast wave of energy surged in every direction.
 
-Using his blazing rage as kindling, the Dalai Lama finally wrung every last bit of power and potential from deep within himself and drove his full strength against the enemy before him.
+Fueling himself with his fury, the Dalai Lama wrung every last bit of power and potential from deep within himself and drove forward with all his strength.
 
 *Crack!*
 
