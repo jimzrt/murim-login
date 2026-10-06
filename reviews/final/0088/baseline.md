@@ -212,11 +212,11 @@ I answered indifferently.
 
 “Pfft, a goshiwon? I suppose that’s the level you’d expect from an F-rank Hunter. Is your income really that bad?”
 
-“It’s kind of you to worry, but I make a decent living. I made four billion won[^3] just yesterday.”
+“It’s kind of you to worry, but I make a decent living. I made four billion won just yesterday.”
 
 “How much?”
 
-“Four billion won.[^3]”
+“Four billion won.”
 
 I hadn’t wanted to boast about money like a child, but she just had to tug on a sleeping lion’s nose hairs.
 
@@ -224,9 +224,9 @@ There was one thing I had forgotten, though.
 
 People always judged everything according to their own common sense.
 
-“Four billion won?[^3] An F-rank Hunter made that much?”
+“Four billion won? An F-rank Hunter made that much?”
 
-“Obviously, he’s bluffing. A Hunter I know said an F-rank Hunter has to work like hell to make even a hundred million won.[^4] And didn’t you hear him? He said he made four billion won[^3] in a single day, not in a year. It’s not like he won the lottery. Does that make any sense?”
+“Obviously, he’s bluffing. A Hunter I know said an F-rank Hunter has to work like hell to make even a hundred million won. And didn’t you hear him? He said he made four billion won in a single day, not in a year. It’s not like he won the lottery. Does that make any sense?”
 
 “Geez, I almost thought he was telling the truth.”
 
@@ -252,7 +252,7 @@ The owner snorted.
 
 “No, well… I’ll admit I’m a little surprised.”
 
-She had sounded so confident that I thought her son was at least Monkey D. Minsu.[^5]
+She had sounded so confident that I thought her son was at least Monkey D. Minsu.
 
 *Where is there a famous D-rank Hunter in Bucheon?*
 
@@ -320,7 +320,7 @@ I gestured toward the customers filling the dining area.
 
 Dozens of office workers from small and midsize companies were glaring at the owner without bothering to hide their displeasure.
 
-“What’s with that ajumma?[^1]”
+“What’s with that ajumma?”
 
 “My appetite’s completely gone.”
 
@@ -374,13 +374,13 @@ Beep. Beep. Beep. Click.
 
 “What do you mean, what is it? Are we only supposed to call each other when we have business?”
 
-“…I sent you the promised four billion won,[^3] though.”
+“…I sent you the promised four billion won, though.”
 
 “Ah, I checked that. It came through fine.”
 
 The conversation continued over speakerphone, loud enough for everyone to hear.
 
-Four billion won.[^3]
+Four billion won.
 
 The moment it became clear that what I had said earlier was true, everyone’s eyes nearly popped out of their heads. I ignored all the stares and got to the point.
 
@@ -422,26 +422,18 @@ My mother, Kim Jeonghee, flashed a broad smile and shoved her work clothes into 
 
 Of course, she didn’t forget to leave the owner with one final remark.
 
-“If you’re a parent, act like one and live right, you ajumma.[^1] Where do you get off casually running your mouth about someone else’s precious child?”
+“If you’re a parent, act like one and live right, you ajumma. Where do you get off casually running your mouth about someone else’s precious child?”
 
 The final blow.
 
 The owner lowered her head without answering, and we left the restaurant with light steps.
 
-“Son, have you eaten? There’s cheonggukjang[^6] and kimchi pancakes at home.”
+“Son, have you eaten? There’s cheonggukjang and kimchi pancakes at home.”
 
 “Wow. What a feast.”
 
 The weather was beautiful.
 
-[^1]: *Ajumma* is a familiar Korean term for a married or middle-aged woman.
+[^1]: *Ajumma* is a familiar Korean term for a married or middle-aged woman, commonly used by customers or employers to address service workers.
 
-[^2]: A *goshiwon* is a small, inexpensive room for rent, often with shared facilities.
-
-[^3]: Four billion won is about $2.9 million or €2.6 million.
-
-[^4]: One hundred million won is about $71,000 or €65,000.
-
-[^5]: Monkey D. Luffy is the protagonist of the Japanese manga *One Piece*. Taekyung substitutes Minsu’s name for Luffy’s.
-
-[^6]: *Cheonggukjang* is a Korean stew made with fermented soybeans.
+[^2]: A *goshiwon* is a tiny, inexpensive room-for-rent housing arrangement, often with shared facilities.
