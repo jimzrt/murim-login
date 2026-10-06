@@ -1,0 +1,45 @@
+{
+  "summary": "The translation contains a dropped characterization detail and duplicated narration that changes the scene’s events.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "Lines 82–86",
+      "current": "So I proposed a day’s rest in the mountains where we’d stopped. No one objected.\n\n[P34]\n\nIf anything, he went out of his way to show me more respect than necessary, which only left me flustered.",
+      "defect": "The translation omits that even Perfected Being Hyeoncheon, described as one of the narrator’s most difficult opponents, did not object to the proposed rest. This removes both the explicit exception and the narrator’s characterization of their relationship.",
+      "replacement": "So I proposed a day’s rest in the mountains where we’d stopped. No one objected—not even Perfected Being Hyeoncheon, who was probably my toughest opponent.\n\nIf anything, he went out of his way to show me more respect than necessary, which only left me flustered.",
+      "rationale": "The source says that even Hyeoncheon, “who could be considered my toughest opponent,” was no exception to the lack of objections.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 138–142",
+      "current": "But the old Daoist, whose wisdom matched his long life, didn’t demand a reply. He simply patted my shoulder a few times and walked away.\n\n[P59]\n\n*Pat, pat.*\n\n[P60]\n\nHe gave my shoulder a couple of silent pats and walked away. Everyone else’s attention remained on me.",
+      "defect": "The shoulder pats and the Daoist walking away are narrated twice, although the source describes those actions only once.",
+      "replacement": "But the old Daoist, whose wisdom matched his long life, didn’t demand a reply. He simply patted my shoulder a few times and walked away. Everyone else’s attention remained on me.",
+      "rationale": "The source has one sequence: he pats the narrator’s shoulder, leaves without a word, and the remaining people’s attention stays on the narrator.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 24–26",
+      "current": "The System was always accurate. It never lied.\n\n[P10]\n\nThe System was always accurate. It never lied.\n\n[P11]\n\nGreat Sir had somehow fulfilled the task he’d been given. Now he looked as puzzled as the question marks that had floated above his head.",
+      "defect": "The System’s accuracy and honesty are stated twice in succession; the source states this only once.",
+      "replacement": "Great Sir had somehow fulfilled the task he’d been given. Now he looked as puzzled as the question marks that had floated above his head.",
+      "rationale": "The source gives a single sentence establishing that the System is always accurate and does not lie, before moving on to Great Sir.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 240–242",
+      "current": "The glib answer was nothing like the man she remembered.",
+      "defect": "The source contrasts his glib reply with the way he appeared in her last memory of him. The translation instead contrasts the reply with the man she remembered, changing the object of comparison and dropping the specific “last memory” reference.",
+      "replacement": "His glib reply was unlike the way he looked in her last memory of him.",
+      "rationale": "The source says his slick response differed from the 모습 remaining in her last memory, referring to his remembered appearance or demeanor rather than the man as a whole.",
+      "confidence": 0.91
+    }
+  ]
+}

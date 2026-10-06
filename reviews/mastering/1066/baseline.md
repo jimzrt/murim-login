@@ -1,0 +1,293 @@
+# Chapter 1066
+
+*Ding!*
+
+> **System**
+>
+> Entered **Qinghai Province**.
+
+At the timely chime of the System notification, I stopped in my tracks. I’d been clenching my fist and walking toward the Great Sir.
+
+“You made the right call. There’s nothing to gain by hitting someone who’s already in rough shape… Are you listening to me?”
+
+“Shh.”
+
+Hyuk Mujin had let out a sigh of relief, thinking I’d changed my mind. I gestured for him to be quiet and looked around.
+
+Dense forest lay under the cover of darkness, and insects chirped here and there.
+
+The landscape around us hadn’t changed in the slightest, but there was no doubt that all of us—including me—had just crossed an invisible boundary.
+
+The System was always accurate. It never lied.
+
+And the Great Sir, who had somehow managed to fulfill the task assigned to him, wore the same baffled expression as the question marks that had floated above his head. He asked me,
+
+“What is it, Jang Sam?”
+
+“…I’m Jin Taekyung, not Jang Sam.”
+
+To be honest, I’d doubted him right up to the end.
+
+Following someone who couldn’t even remember his own name was, by anyone’s standards, a terrible idea.
+
+What’s more, he kept changing direction along the way. Even people like Sama Pyo, who’d been born and raised in Gansu Province, had questioned him several times.
+
+Still.
+
+*The results speak for themselves.*
+
+We’d cut at least two days off our journey compared to what I’d expected. And though we’d traveled through rough mountain country, we’d gained time to rest and recover our Stamina.
+
+*The question is, how does this guy know a route like this?*
+
+The obvious question surfaced again. But when I saw the Great Sir yawn so wide his jaw might split, my head shook before I knew it.
+
+What good would it do to keep wondering?
+
+He’d been out of his mind for ages, and now the System had officially certified him a Madman. There was no room left for doubt.
+
+What mattered was that the Great Sir was, at the very least, on our side—and thanks to his help, we’d all reached Qinghai Province.
+
+More precisely, the area near Qinghai Province’s northwest border.
+
+*And this place is…*
+
+Right.
+
+Enemy territory, now under Dark Heaven’s control and filled with countless dangers.
+
+* * *
+
+Three thousand men.
+
+Not a small number by any means.
+
+In the modern world, a force of that many Hunters would be considered a major Guild. Even the other Nine Sects and One Gang, with the exception of the Beggars’ Sect, would have to call in even their lay Disciples outside the main sect to reach those numbers.
+
+But everything was relative.
+
+Considering that the Dark Heaven forces invading Qinghai were a great army comparable to the Hundred Thousand Demonic Disciples of old, three thousand men were no more than fireflies before the sun.
+
+*This is urgent, but if we rush straight in with everyone this exhausted, we’ll be the ones getting slaughtered.*
+
+So I proposed a day of rest in the mountain range where we’d paused our march. No one objected.
+
+Not even Perfected Being Hyeoncheon, who could be considered my toughest opponent.
+
+If anything, he went out of his way to show me more respect than necessary, which only left me flustered.
+
+“A truly sound decision. Very well. What are your orders after we rest?”
+
+“Sorry? My orders?”
+
+“Is something wrong? I don’t mind if you call them commands instead.”
+
+“…Just curse me out instead. Why are you doing this to me?”
+
+Was this how a family heir felt when his grandfather’s generation bowed deeply to him during a holiday gathering?
+
+At my thoroughly disconcerted reaction, Perfected Being Hyeoncheon gave a quiet laugh and said something I hadn’t expected.
+
+“Why not take a look around you now and then?”
+
+“What do you mean…?”
+
+“Look at how many people are around you, and how they look at you. That is where you stand now.”
+
+“……!”
+
+Only then did I finally understand.
+
+All those eyes fixed on me in that moment.
+
+The deep admiration and goodwill in their gazes were so vivid I could almost reach out and touch them. Their faint smiles held a gratitude they couldn’t hide.
+
+Then Perfected Being Hyeoncheon’s warm voice drifted into my ears.
+
+“Whether it’s a request, an order, or a command, it makes no difference. We all owe you a great debt.”
+
+“A debt…”
+
+“Gratitude and grudges must always be repaid. That is the way of Murim. I forgave my grudge, and now I intend to repay the kindness. I imagine they feel the same.”
+
+I thought for a moment about how they must feel.
+
+They’d lost comrades they’d shared years of hardship with, family, Senior and Junior Brothers. Before they’d even begun to recover from the fear and sorrow they’d felt on the battlefield, they’d chosen of their own accord to follow me into another deadly place.
+
+They had come to repay a debt, but they were also driven by a desire for revenge that would bring darkness to this land.
+
+And that desire was, in itself, a light that would illuminate the darkness.
+
+“Ah.”
+
+It was a strange feeling, one I could never get used to.
+
+I didn’t even know what to say.
+
+But the old Daoist, whose wisdom matched his long life, didn’t demand a reply. He simply patted my shoulder a few times and walked away.
+
+The attention of those who remained was fixed on me.
+
+The Disciples of the Kongtong and Zhongnan Sects.
+
+The martial artists of the Embroidered Uniform Guard and the Black Dragon Demon Gate.
+
+Even Jeok Cheongang and Bow Saint, who stood among the Fire Dragon Pavilion members, silently nodded at me.
+
+As though they’d follow me to the end, even if I were headed straight for hell.
+
+“I… No, I…”
+
+Under the gaze of all three thousand men, I slowly parted my lips.
+
+And at the very moment the suffocating silence broke, a thought suddenly struck me.
+
+*How can it possibly be this quiet?*
+
+Only then did I realize that the loud chirping of insects hidden throughout the thick forest had stopped at some point.
+
+The birds that had perched on the high branches were gone, too.
+
+“……!”
+
+A chill ran down my spine.
+
+*Rumble. Rumble.*
+
+A faint tremor finally reached us from far away. With it came the eerie cry of something unknown, carried to my ears on the desolate wind.
+
+*Grrrk.*
+
+“…Shit.”
+
+The curse slipped out on reflex.
+
+I tightened my grip on the shaft of White Flame.
+
+I stared into the darkness at the enemies who had come out early to greet their unexpected visitors, then gave my first command in Qinghai.
+
+“Prepare for battle.”
+
+*Shing! Shing! Shing!*
+
+Countless waves of steel rose all at once, their cold gleam lighting up the darkness.
+
+And the enemies who had been approaching under its cover.
+
+“……A-ah…”
+
+At the low groan that slipped from someone’s lips, the enemy crawling up the ridge at the very front tilted his head.
+
+*Plop. Plop.*
+
+The drops falling from the head that had already lost nearly half its mass were as pale as his skin.
+
+Brain matter.
+
+* * *
+
+From time immemorial, long before anything had been committed to the written record, people had called a vast mountain range at the far western edge of the world:
+
+“The land closest to the heavens, the highest peaks touching the clouds…”
+
+The Blood Lord murmured as if to himself, then looked around and nodded.
+
+The mountain range stretched on in endless, overlapping ridges, its many peaks rising here and there. It was majestic and beautiful enough to make anyone gasp.
+
+“Quite a sight. I can see why people of the Central Plains consider this place sacred. And why those worthless Daoists of the Kunlun Sect fought so stubbornly to protect it. Don’t you agree?”
+
+At the Blood Lord’s sudden question, the Grand Mage, seated on a large rock and making strange gestures with her hands, answered,
+
+“Seems like you’re quite taken with the scenery.”
+
+“Well, whatever else you can say about Tianshan, it’s bleak.”
+
+“Then why not formally apply to join the Kunlun Sect? Who knows? You might become its Sect Leader someday.”
+
+Her words were openly mocking, but the Blood Lord showed little reaction to her intent.
+
+He only stared at her with a strange, inscrutable look, then shrugged.
+
+“That offer doesn’t tempt me much. Got anything better?”
+
+The Blood Lord’s casual retort made the Grand Mage furrow her brow before she knew it.
+
+“What’s gotten into you?”
+
+“What do you mean?”
+
+“You weren’t like this before.”
+
+“Wasn’t I?”
+
+His smooth reply was nothing like the man in her last memory of him.
+
+As she watched the Blood Lord, a strong sense of displeasure gradually welled up inside her.
+
+*Putting on airs, like he’s got all the time in the world. And he’s a deranged monster.*
+
+The Blood-Sword Demon Lord had been a bloodthirsty killer, but the Blood Lord was even more unbearable.
+
+Stupid, vicious, and without the slightest sense of shame.
+
+Those three failings alone were more than enough reason to dislike him, but there was something else more important.
+
+*Why does that person keep someone like this so close?*
+
+She couldn’t understand it.
+
+The Blood Lord she’d known wasn’t particularly skilled in martial arts, nor was he a deep thinker—unlike the four Demon Lords and the Demon Empress who had died before him.
+
+But there was no denying that, unlike the Blood-Sword Demon Lord, a mere piece on the board, the Blood Lord had his master’s trust. And the fact that he stood on equal footing with her only made her more uncomfortable.
+
+There was also the person sitting just a few *jang* away, who gave off a horrific stench without pause.
+
+*Jingle. Jangle.*
+
+The Grand Mage frowned as she looked at the man in black, sitting cross-legged and muttering something incessantly.
+
+The foul odor drifting over on the wind was bad enough, but the dull, grating jingling of his bells every time he moved was even worse. The more she heard it, the more it grated on her.
+
+As if an awl were scraping at her ears and stirring up her mind.
+
+“Who’s that?”
+
+At the Grand Mage’s question, the Blood Lord answered readily.
+
+“My subordinate.”
+
+“Did you have someone like him working for you? There’s something about him that feels oddly familiar, and unpleasant.”
+
+“Probably because he’s a sorcerer.”
+
+“What?”
+
+“Oh, don’t get the wrong idea. He’s a different kind of sorcerer from a certain sharp-tongued bitch. He only joined my ranks recently, actually.”
+
+For a moment, the Grand Mage’s eyes widened as she guessed what he meant.
+
+“Then…”
+
+“That’s right. Until a few months ago, he served another Demon Lord. Well, more precisely…”
+
+The Blood Lord curled his lips into a smile and added,
+
+“I should say he was his Disciple, rather than his subordinate.”
+
+At that very moment—
+
+*Clatter.*
+
+Along with another dull bell sound, deeper and louder than before, the man in black raised his head.
+
+Pale skin. Eyes tinged blue.
+
+And a dry voice, without a hint of emotion.
+
+“I found it.”
+
+Not long ago.
+
+At Ma Sanbao’s report—once the East Depot’s Brush-Holding Eunuch, and a man who’d held the imperial court in his grasp—the Blood Lord smiled with satisfaction.
+
+“That’s very good news.”
