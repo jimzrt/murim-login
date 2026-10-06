@@ -1,0 +1,25 @@
+{
+  "summary": "The scene is largely faithful, but the battle cry shifts the target from demons to a path, and one line omits the emphasis on the monster’s effort.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 69–71",
+      "current": "Destroy the Demonic Path and restore Heaven!",
+      "defect": "The Korean battle cry names demons as the thing to destroy. “The Demonic Path” instead suggests a path or organization; the following explanatory line correctly says “Destroy demons.”",
+      "replacement": "Destroy demons and restore Heaven!",
+      "rationale": "The source immediately explains the cry as 마를 멸하고, “destroy demons.” Translating 마 as “the Demonic Path” changes the object of the vow.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 227",
+      "current": "and forced out a few last words.",
+      "defect": "This omits that the Blood Lord summoned all his strength to speak.",
+      "replacement": "and forced out a few last words with all his strength.",
+      "rationale": "온 힘을 다해 explicitly says he used all his strength; the current wording conveys difficulty but not that degree of effort.",
+      "confidence": 0.94
+    }
+  ]
+}

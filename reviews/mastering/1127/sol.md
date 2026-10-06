@@ -20,7 +20,7 @@ Why hadn’t the palm strike he’d thrown on instinct brought his opponent down
 
 Why was the Murim Alliance’s banner flying above those damn bandits?
 
-And as he felt his body, no longer under his control, being pushed helplessly backward, he muttered to himself:
+As he felt his body slip beyond his control and fall helplessly backward, he thought:
 
 *Well, it doesn’t matter anymore.*
 
@@ -36,7 +36,7 @@ In truth, he already knew the answer.
 
 The world was unchanged. Only he had changed.
 
-The monster’s pupils were still as red as blood, but even now, his fading gaze could no longer make out light from shadow.
+The monster’s eyes were still as red as blood, but his fading sight could no longer distinguish light from shadow.
 
 A world gone entirely black.
 
@@ -64,7 +64,7 @@ He could only swallow the bloody phlegm rising in his throat and listen to the r
 
 Destroy demons and set Heaven right.
 
-It was the old Murim Alliance’s banner, the vow it had upheld to the very end—and the hoof that had trampled its invaders.
+It was the old Murim Alliance’s rallying cry, the oath it had upheld to the very end—and the hoof that trampled the invaders.
 
 Just as it was doing now.
 
@@ -76,7 +76,7 @@ But he could picture it from the sound alone.
 
 The fanatics wavering at this unexpected turn. The forest of countless spears and blades closing over them.
 
-The undying will and desperate sense of duty carried by every one of those weapons.
+The unyielding will and desperate sense of duty behind every blade.
 
 “…Why?”
 
@@ -196,7 +196,7 @@ He remembered the monster’s joyful cry just moments ago.
 
 “See them?”
 
-He spoke emphatically to the monster, its blood-red eyes wide open.
+He spoke with all the strength he could muster to the monster staring at him with wide, blood-red eyes.
 
 “Those faces you’re looking at? That’s the paltry heaven I believed in.”
 
@@ -234,7 +234,7 @@ The familiar clear chime rang nonstop in my ears.
 
 If everyone could hear it instead of just me, I bet it would’ve carried for hundreds of miles.
 
-*That bastard sure knew how to make an exit.*
+*That bastard sure made an exit.*
 
 The Blood Lord’s end was miserable and shabby, but the System’s payouts were lavish.
 
@@ -264,7 +264,7 @@ He said he was sorry. And thanked me again.
 
 But my farewell to Cheongpung—surely our last—was brief.
 
-Unlike him, I still had so many last faces left to see.
+I still had so many other faces to say goodbye to.
 
 And once I’d seen them all, my own final moment would be waiting.
 
@@ -276,9 +276,9 @@ Truthfully, I’d already guessed. Ever since I’d launched One Annihilation at
 
 There was a limit to how much a Level Up could heal, and the injuries I’d suffered from One Annihilation’s backlash went beyond it.
 
-Now that what was called innate qi—or original true qi—had been damaged, my fate was like a boat that had crossed a river with no way back.
+With what they called innate qi—or original true qi—damaged, I had crossed a river I could never cross back.
 
-*The System warned me, and I accepted it.*
+*The System warned me, and I knew what I was doing.*
 
 That was all.
 
@@ -288,7 +288,7 @@ I had been prepared for this. If anything, I was grateful for the way things had
 
 Without the healing from those Level Ups, without the extra time it had given me in Final Rally, I wouldn’t even have been able to say goodbye.
 
-*If that’s what happened, then it was enough.*
+*That’s enough.*
 
 The Blood Lord was dead. Dark Heaven’s army had crumbled. And I’d been given a few precious extra minutes.
 
@@ -296,7 +296,7 @@ Now I was smiling at faces I’d thought I’d never see again.
 
 As if this were an ordinary, peaceful day, with no enemy to defeat and no one dear to me in need of protection.
 
-Just like this moment.
+As if it were just this moment.
 
 Yeah.
 
