@@ -64,7 +64,7 @@ I cautiously asked, “What kind of person is the Head Elder?”
 
 Jin Wikyung nodded gravely.
 
-“Even the other Elders are little more than the Head Elder’s hands and feet. He rarely reveals himself, yet he has used the Council of Elders to win over influential members and bring them under his command. He has been doing so for decades.”
+“Even the other Elders are little more than the Head Elder’s hands and feet. He rarely reveals himself, yet he has used the Elder Council to win over influential members and bring them under his command. He has been doing so for decades.”
 
 “Then his supporting us at the family council…”
 
@@ -198,7 +198,7 @@ A face I could never forget. And one that had no business being here.
 
 The first NPC I had met in this game. A courtesan at Honghwaru and my—Jin Taekyung’s—pinky.[^1] That thing.
 
-*Why is noona[^2] coming out of there…?*
+*Why is noona coming out of there…?*
 
 “So you do remember me. Our Young Master Jin.”
 
@@ -286,7 +286,7 @@ She was different from how she had acted until now. Every movement carried the g
 
 “I’m Wipeng.”
 
-I kept my mouth shut like mute Samryong,[^3] and Wolhwa flashed me a grin.
+I kept my mouth shut like mute Samryong,[^2] and Wolhwa flashed me a grin.
 
 It was an ominous grin.
 
@@ -389,5 +389,5 @@ Wolhwa answered with her usual radiant smile.
 *How much of that was sincere, and how much was a joke?*
 
 [^1]: In Korea, a raised pinky can refer to someone’s girlfriend or mistress.
-[^2]: *Noona* is a familiar Korean term a man uses for an older woman.
-[^3]: Samryong is the mute protagonist of a well-known Korean short story; his name literally means “Three Dragons.”
+
+[^2]: Samryong is the mute protagonist of a well-known Korean short story; his name literally means “Three Dragons.”
