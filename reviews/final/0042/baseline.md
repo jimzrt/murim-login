@@ -58,13 +58,13 @@ Im Kkeokjeong looked me up and down, then clicked his tongue.
 
 Back when I was a rookie, I’d taken the plunge and bought it from an underground shop in Dongdaemun.[^1] I still remembered the exact price.
 
-1.98 million won.[^2]
+1.98 million won.
 
 *I could barely sleep for days after buying it.*
 
-Hunters earned a lot, but they spent a lot too, and most of those expenses went toward equipment. It was all because of the unique nature of Gates.
+Being a Hunter cost about as much as it paid, and most of those expenses went toward equipment. It was all because of the unique nature of Gates.
 
-*Equipment that isn’t imbued with mana or magical power breaks down in no time.*
+*Equipment that isn’t imbued with mana or magic breaks down in no time.*
 
 So the most common method was to craft equipment from Magic Gems taken from Gate monsters.
 
@@ -144,7 +144,7 @@ Since this was an E-rank Gate, we needed at least five more Hunters of the same 
 
 *Huh? What did he just say?*
 
-*Adding personnel?*
+Adding personnel?
 
 “I’m sorry.”
 
@@ -158,7 +158,7 @@ At Team Leader Choi’s curt apology, the official picked up his pen and drew se
 
 I poked Im Kkeokjeong in the ribs.
 
-“Hyung.[^3] When are the others getting here?”
+“Hyung. When are the others getting here?”
 
 “What others?”
 
@@ -170,9 +170,9 @@ I poked Im Kkeokjeong in the ribs.
 
 “Oh, did I forget to tell you? The Peace Guild is new, so it doesn’t have many people. There are only three of us, including the Guild Master. Hahaha!”
 
-*…You’re laughing?*
+…You’re laughing?
 
-“Come on, hyung.[^3]”
+“Come on, hyung.”
 
 “I know, punk. But you don’t need to worry.”
 
@@ -226,7 +226,7 @@ I stepped toward the Gate.
 
 Whoosh—
 
-A familiar sensation enveloped me. The cool, viscous energy unique to magical power.
+A familiar sensation enveloped me. The cool, viscous energy unique to mana.
 
 Then the scenery changed.
 
@@ -256,7 +256,7 @@ Whoosh. A ball of light the size of a soccer ball shot from the flashlight and p
 
 “It has a built-in spell that activates as soon as the incantation is spoken. It lasts quite a while, so it should be good for another three or four hours. It’s a limited-edition item I purchased from Company M…”
 
-Im Kkeokjeong summed it up.
+Im Kkeokjeong summed it up in three words.
 
 “It’s crazy expensive.”
 
@@ -318,7 +318,7 @@ Team Leader Choi issued his next command.
 
 “Tanks, advance.”
 
-The tanks moved forward in thick full-body armor, tower shields raised. Im Kkeokjeong and the other man were both hulking giants over 190 centimeters[^4] tall. The sight of them alone was intimidating.
+The tanks moved forward in thick full-body armor, tower shields raised. Im Kkeokjeong and the other man were both hulking giants over 190 centimeters tall. The sight of them alone was intimidating.
 
 “Kiiiieet!”
 
@@ -330,11 +330,11 @@ But—
 
 Bam!
 
-The big, beautiful tower shields sent them flying back as bloody pulp. Seizing the momentum, Im Kkeokjeong swung his mace like a flyswatter, shattering limbs and crushing skulls with every blow.
+They smashed into the big, beautiful tower shields and flew back as bloody pulp. Seizing the momentum, Im Kkeokjeong swung his mace like a flyswatter, shattering limbs and crushing skulls with every blow.
 
 “You punk! You punk!”
 
-*…What was this, whack-a-mole?*
+…What was this, whack-a-mole?
 
 *Veterans, all right.*
 
@@ -419,6 +419,3 @@ But in the end, I couldn’t. Because this was my reality.
 I *used to be* stronger than you.
 
 [^1]: Dongdaemun is Seoul’s major wholesale-market district.
-[^2]: 1.98 million won is about $1,400 or €1,300.
-[^3]: *Hyung* is a Korean term a man uses to address an older brother or an older man he is close to.
-[^4]: 190 centimeters is about 6 ft 3 in.
