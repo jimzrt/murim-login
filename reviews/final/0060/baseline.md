@@ -74,7 +74,7 @@ At the same moment—
 
 Tssssss.
 
-Sword Energy surged from his blade, laden with one jiazi[^1] of internal energy.
+Sword Energy surged from his blade, laden with one jiazi of internal energy.
 
 “Are you prepared?”
 
@@ -398,7 +398,7 @@ An unnamed ally paid the price with his life.
 
 I felt rotten.
 
-“Narye tagon? You truly are a donkey.”[^2]
+“Narye tagon? You truly are a donkey.”[^1]
 
 I spat out the dirt in my mouth.
 
@@ -444,6 +444,8 @@ I gritted my teeth.
 
 I was not apologizing because I lacked the power to stop it. I was apologizing because I had used their deaths.
 
+I was apologizing because I had used their deaths.
+
 Shhk!
 
 Another man fell to the Head Elder’s finger-flicking technique like a puppet with its strings cut. But just as the corpse seemed about to topple backward, it sprang upright like a roly-poly toy.
@@ -470,5 +472,4 @@ Goooooong.
 
 A deafening roar left my ears numb.
 
-[^1]: *Jiazi* is a traditional sixty-year cycle; here, it describes the amount of internal energy accumulated over that span.
-[^2]: *Narye tagon* is a humiliating evasive roll likened to a lazy donkey rolling on the ground.
+[^1]: *Narye tagon* is a humiliating evasive roll likened to a lazy donkey rolling on the ground.
