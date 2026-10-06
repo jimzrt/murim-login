@@ -46,7 +46,7 @@ He would have fallen behind even if he had only been trying to keep up. With the
 
 Now he was even hallucinating his parents—who were alive and well—beckoning to him. The woman standing beside them had a face he often saw in the temple hall.
 
-*Guanyin Bodhisattva?*[^1]
+*Guanyin Bodhisattva?*
 
 “Child. You have suffered enough. You may rest now.”
 
@@ -66,7 +66,7 @@ Warm breath slipped into his ear. He knew who it was without turning around. Tea
 
 Jin Taekyung grinned and whispered,
 
-“Candy in your ear.”[^2]
+“Candy in your ear.”[^1]
 
 * * *
 
@@ -188,11 +188,11 @@ He had waited far too many years. He resented Heaven’s mandate for arriving on
 
 * * *
 
-“Candy in your ear.”[^2]
+“Candy in your ear.”
 
 “Captain!”
 
-“Was it sweet as a dream?”[^2]
+“Was it sweet as a dream?”
 
 “…Are you insane?”
 
@@ -414,5 +414,4 @@ As Lee Cheonbaek stepped forward, the Mount Heng Sword Sect’s core forces foll
 
 Three Peak masters and dozens of First Rate masters surged toward the front.
 
-[^1]: Guanyin, known as Gwaneum in Korea, is the bodhisattva of compassion in East Asian Buddhism.
-[^2]: “Candy in your ear” and “Was it sweet as a dream?” reference lyrics from the Korean pop song “My Ear’s Candy.”
+[^1]: “Candy in your ear” and “Was it sweet as a dream?” reference lyrics from the Korean pop song “My Ear’s Candy.”
