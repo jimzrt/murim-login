@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "his beloved Disciple on his back",
+      "defect": "The source says he cherishes his Disciple like his own flesh and blood. “Beloved” preserves affection but drops the explicit family-like comparison.",
+      "id": "F01",
+      "rationale": "The comparison conveys the depth and nature of the old master's attachment; it is more specific than simply calling the Disciple beloved.",
+      "replacement": "his Disciple, whom he cherished like family, on his back",
+      "severity": "minor",
+      "source": "Lines 238–239"
+    },
+    {
+      "confidence": 0.91,
+      "current": "had already considered every possibility and accepted the reality before them",
+      "defect": "“Accepted the reality” adds a sense of resignation or acceptance. The source says the others had kept every possibility and the reality in mind.",
+      "id": "F02",
+      "rationale": "염두에 두고 있었기에 means they had kept those possibilities and that reality in mind, not necessarily accepted them.",
+      "replacement": "had already taken every possibility and the reality of their situation into account",
+      "severity": "minor",
+      "source": "Line 181"
+    }
+  ],
+  "summary": "The translation is largely faithful. Two small shifts add or lose meaning.",
+  "version": 1
+}

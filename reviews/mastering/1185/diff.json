@@ -1,0 +1,1804 @@
+{
+  "baseline_blocks": 115,
+  "baseline_sha256": "3806eb6f2b85fed137d17673ed162e9c96dcbcf68cdbdaf24b577c558d556f79",
+  "global_terminology_alerts": [
+    {
+      "korean": "마비",
+      "preferred": "Paralyzed"
+    }
+  ],
+  "hunk_count": 94,
+  "hunks": [
+    {
+      "baseline": "“Good. There’s nothing wrong.”",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "“Good. Nothing’s wrong with him.”",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the Slaughter Saint’s first words after examining Jin Taekyung, Jeok Cheongang spoke with a grim expression.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "At the Slaughter Saint’s first words after examining Jin Taekyung, Jeok Cheongang spoke, his face grim.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why not try having a little faith? The medicine just took a bit longer to spread through his system.”",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "15",
+      "sol": "“Have a little faith. The medicine just took longer than expected to spread through his system.”",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s hard to trust you. Things nearly went wrong because of some quack’s careless guarantee.”",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "17",
+      "sol": "“Faith is hard to come by when some quack’s careless guarantee nearly ruined everything.”",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For an instant, their eyes met in midair.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "19",
+      "sol": "Their eyes met. The air seemed to tighten between them.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The tension tightened. After a brief silence, Jeok Cheongang let out a quiet sigh.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "21",
+      "sol": "After a brief silence, Jeok Cheongang let out a quiet sigh.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, there’s no need to apologize. I understand how you feel.”",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "25",
+      "sol": "“No need. I understand how you feel.”",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had spent half his life as an assassin and the other half as a physician.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "29",
+      "sol": "He had spent half his life as an assassin and the other half as a physician. Treating more patients than he could count had taught him more than medicine.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Tending to more patients than he could count had taught him more than medicine.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "31",
+      "sol": "",
+      "sol_paragraphs": "after P14",
+      "sol_range": [
+        14,
+        14
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had taught him about the heart.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "33",
+      "sol": "",
+      "sol_paragraphs": "after P14",
+      "sol_range": [
+        14,
+        14
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had learned to feel the hearts of the sick, and of those who suffered alongside them, watching from closer than anyone else.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "35",
+      "sol": "He had come to understand the hearts of the sick, and of those closest to them who watched and shared their suffering.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was why he knew better than anyone that the man before him wasn’t the great martial artist known as the Fire King. He was Jeok Cheongang—a man, and the family of a patient.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "That was why he knew better than anyone that the man before him was not the great martial artist known as the Fire King. He was Jeok Cheongang—a man whose Disciple lay unconscious before them, a member of the patient’s family.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Besides, I’m at fault for not giving him enough reason to trust me as a physician.*",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "39",
+      "sol": "*Besides, I failed to give him enough reason to trust me as a physician.*",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With that thought, the Slaughter Saint quietly studied Jin Taekyung’s face. He had already lost consciousness.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "41",
+      "sol": "",
+      "sol_paragraphs": "after P17",
+      "sol_range": [
+        17,
+        17
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "살성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Slaughter Saint"
+        }
+      ]
+    },
+    {
+      "baseline": "And at the same time, he remembered the terrifying strength and speed Taekyung had displayed moments ago.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "43",
+      "sol": "The Slaughter Saint looked down at Taekyung’s face. He thought back to the terrifying strength and speed the young man had shown moments ago.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Everything had been perfect. The medicine I’d prepared in advance, even the time it would take for the effects to kick in.*",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "45",
+      "sol": "*Everything was perfect. The medicine I prepared, the time it would take to work.*",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fasting pill Taekyung had taken was the Slaughter Saint’s masterpiece, painstakingly crafted with the Myriad-Poison Ring in mind.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "47",
+      "sol": "The fasting pill Taekyung had taken was the Slaughter Saint’s masterpiece, painstakingly made with the Myriad-Poison Ring in mind.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At first, it was no different from an ordinary fasting pill. But after more than three shichen, its effects would slowly begin to spread, and everything changed.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "49",
+      "sol": "At first, it was nothing more than an ordinary fasting pill. But once its effects began to spread, slowly, over more than three shichen, that changed.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His limbs would be paralyzed, his mind and Qi Sense would grow hazy, and the medicine would even disperse his internal energy. The Slaughter Saint had been certain that no Supreme Peak master could easily endure all that.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "51",
+      "sol": "It would paralyze the limbs, cloud the mind and Qi Sense, and even disperse internal energy. The Slaughter Saint had been certain that no Supreme Peak master could easily withstand it.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마비",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Paralyzed"
+        }
+      ]
+    },
+    {
+      "baseline": "He had even thought that if he himself were caught unaware after taking a dose, he would be in trouble.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "53",
+      "sol": "He had thought even he would be in trouble if he took it without knowing what it was.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*So how did this brat…?*",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "55",
+      "sol": "*Then how did this brat…?*",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Slaughter Saint’s gaze deepened as he looked at Taekyung.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "57",
+      "sol": "His gaze lingered on Taekyung.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "살성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Slaughter Saint"
+        }
+      ]
+    },
+    {
+      "baseline": "Was it just his imagination? His back still seemed to tingle where the fierce wind from Taekyung’s fist had swept past moments ago.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "59",
+      "sol": "Was it his imagination, or did his back still tingle where the fierce wind from Taekyung’s fist had swept past? A faint doubt came with the sensation.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "A faint doubt crept in, too. Had that really been Taekyung’s full strength?",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "61",
+      "sol": "Had that truly been a blow delivered with all his strength?",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……Maybe.”",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "63",
+      "sol": "“…Perhaps.”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The words slipped from his lips before he realized it.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "65",
+      "sol": "The word slipped out before he realized it.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When Jeok Cheongang turned to him with a questioning look, the Slaughter Saint immediately realized his mistake and shook his head.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "67",
+      "sol": "Jeok Cheongang gave him a questioning look. Realizing his mistake, the Slaughter Saint shook his head at once.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s nothing. Something just crossed my mind.”",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "69",
+      "sol": "“It’s nothing. I was thinking about something.”",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Could it be…?”",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "71",
+      "sol": "“Is there—”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Rest easy. I’ve told you more than once: there’s nothing wrong with your Disciple. At the latest, he’ll come around in two days.”",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "73",
+      "sol": "“Rest easy. I’ve told you more than once: there’s nothing wrong with your Disciple. He’ll wake within two days at the latest.”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Slaughter Saint watched as Ju Hwaran and Hyuk Mujin helped carry Jin Taekyung away, then added,",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "75",
+      "sol": "",
+      "sol_paragraphs": "after P33",
+      "sol_range": [
+        33,
+        33
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "혁무진",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hyuk Mujin"
+        },
+        {
+          "korean": "주화란",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ju Hwaran"
+        },
+        {
+          "korean": "살성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Slaughter Saint"
+        },
+        {
+          "korean": "화란",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hwaran"
+        }
+      ]
+    },
+    {
+      "baseline": "“And by the time he wakes up, we’ll be somewhere out there.”",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "77",
+      "sol": "He watched Ju Hwaran and Hyuk Mujin support Taekyung as they moved him away, then added, “And by the time he wakes, we’ll be somewhere out there.”",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that, Jeok Cheongang turned toward the window.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "79",
+      "sol": "Jeok Cheongang turned toward the window.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beyond the world where even the stars had disappeared, the immense Tianshan Mountains stood tall, impossible to erase completely with darkness, like monsters from myth.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "81",
+      "sol": "Beyond a world where even the stars had vanished, the immense Tianshan Mountains rose through the darkness like a monster from myth. They had stood there a thousand years ago and looked as though they would stand for another thousand.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if they had stood there a thousand years ago and would still stand a thousand years from now.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "83",
+      "sol": "",
+      "sol_paragraphs": "after P36",
+      "sol_range": [
+        36,
+        36
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "But the Lord of Heaven, crouched somewhere in those mountains, was the true monster—a being worthy of being called an abyss.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "85",
+      "sol": "But the Lord of Heaven, crouched somewhere among those mountains, was the true monster—an abyss in human form. Defeating him would mean wagering the fate of the world.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They would have to wager the fate of the world to defeat him.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "87",
+      "sol": "",
+      "sol_paragraphs": "after P37",
+      "sol_range": [
+        37,
+        37
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I can’t tell if this was truly the right choice.”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "89",
+      "sol": "“I can’t tell if this was truly the right choice,” Jeok Cheongang murmured.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Jeok Cheongang’s question, spoken almost to himself, the Slaughter Saint replied,",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "91",
+      "sol": "",
+      "sol_paragraphs": "after P38",
+      "sol_range": [
+        38,
+        38
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        },
+        {
+          "korean": "살성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Slaughter Saint"
+        }
+      ]
+    },
+    {
+      "baseline": "“You know as well as I do. This isn’t the best choice, or even the second-best. It’s only the lesser evil that barely lets us avoid the worst—and the only choice left to us now.”",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "93",
+      "sol": "“You know it wasn’t the best choice,” the Slaughter Saint replied. “Or even the second-best. It’s the lesser evil that barely lets us avoid the worst. And right now, it’s the only choice we have.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was right. They had come too far to talk about the best choice.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "95",
+      "sol": "He was right. They had come too far to speak of the best choice.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With neither the Imperial Army nor the Murim Alliance arriving by the agreed date, there was only one path ahead of them.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "97",
+      "sol": "Neither the Imperial Army nor the Murim Alliance had arrived by the agreed date. Only one path remained before them.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And it was one of several possibilities they had considered even before leaving Qinghai.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "99",
+      "sol": "It was also a possibility they had considered before leaving Qinghai.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang suddenly remembered the Sword Saint, Mae Jonghak, whispering in a low voice during their secret meeting at dawn.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "103",
+      "sol": "Jeok Cheongang remembered the Sword Saint, Mae Jonghak, speaking quietly at their secret meeting in the dim light before dawn.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“If things went wrong despite following a plan devised by the strongest martial artists and wisest strategists under Heaven, what more is there to say? The Son of Heaven has already agreed.”*",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "111",
+      "sol": "*“If things go wrong despite the plan laid by the strongest martial artists and wisest minds under Heaven, what more is there to say? The Son of Heaven has already agreed.”*",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“This isn’t a sacrifice. It’s simply a choice made for everyone’s sake. No matter what calamity befalls us, we can still avoid the worst. We should have one move left.”*",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "115",
+      "sol": "*“This isn’t a sacrifice. It’s a choice for the sake of everyone. Whatever misfortune befalls us, we can still avoid the worst. We’ll have one move left.”*",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Having done all they could, they would wait for Heaven’s decree.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "119",
+      "sol": "They had done all they could. Now they would wait for Heaven’s decree.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mae Jonghak had spoken aloud the six characters everyone had engraved in their hearts. He had clearly been smiling.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "123",
+      "sol": "Mae Jonghak had spoken aloud those six characters etched in all their hearts. Jeok Cheongang distinctly remembered him smiling.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When morning came, they parted.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "127",
+      "sol": "At daybreak, they had parted.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Murim Alliance headed west. The Imperial Army headed east. And a single carriage, carrying the hope of them all, went into the desert.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "129",
+      "sol": "The Murim Alliance went west. The Imperial Army went east. And a single carriage carrying all their hopes went into the desert.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To guard against any possible spies, the entire operation was carried out in utmost secrecy.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "131",
+      "sol": "Every step of the operation had been kept secret against the possibility of spies.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "By the time everyone realized Jin Taekyung’s group was missing, Mae Jonghak announced that they had already joined the Imperial Army and were on the move. The Imperial Army did the same.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "133",
+      "sol": "By the time the others noticed Taekyung’s group was missing, Mae Jonghak had announced that they had already joined the Imperial Army and were traveling with it. The Imperial Army had given the same account.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "They pressed forward with all their might, constantly feeding the enemy false information.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "135",
+      "sol": "Both forces pushed forward with all their might, constantly spreading false information to keep Dark Heaven’s eyes—wherever they might be hidden—away from the desert.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had to keep Dark Heaven’s eyes and ears—who knew where they might be hidden—from turning toward the desert.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "137",
+      "sol": "",
+      "sol_paragraphs": "after P58",
+      "sol_range": [
+        58,
+        58
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "암천",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Dark Heaven"
+        }
+      ]
+    },
+    {
+      "baseline": "So that, if the worst came to pass, they could serve as bait.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "139",
+      "sol": "And so that, if the worst came to pass, they could serve as bait.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And their fears had become reality.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "141",
+      "sol": "Now what they had feared had become reality.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang forced down the question that lingered on the tip of his tongue.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "145",
+      "sol": "Jeok Cheongang swallowed the question poised on his tongue.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And it wasn’t only his question. Everyone there knew something had happened to their allies. But no one said it aloud.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "147",
+      "sol": "He was not alone. Everyone there knew something had happened to their allies, but no one said it aloud.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What they needed now was courage and hope that wouldn’t die—not anxiety, deep and sticky as a swamp.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "149",
+      "sol": "What they needed was courage that would not fail and hope that would not die—not dread as deep and clinging as a swamp.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*We have no choice but to keep going.*",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "151",
+      "sol": "*All we can do is keep going.*",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Though things had gone wrong, they would continue toward Tianshan without wavering, and their allies, once they arrived, would follow and join them.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "155",
+      "sol": "Though events had gone awry, they would press on toward Tianshan. Their allies would arrive late, follow their trail, and join them.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was only a faint hope, but for now, believing it was the best they could do.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "157",
+      "sol": "It was a faint hope. For now, believing in it was the best they could do.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Fwoosh.*",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "163",
+      "sol": "*Puff.*",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The candle, flickering precariously and lighting the room, finally went out.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "165",
+      "sol": "The candle that had flickered precariously as it lit the room finally went out.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Once the decision was made, everyone moved in perfect order.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "169",
+      "sol": "Once the decision was made, everyone moved without hesitation.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only Jin Taekyung had been kept in the dark. The rest of the group had already considered every possibility and accepted the reality before them, so not one of them hesitated.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "171",
+      "sol": "Taekyung alone had been kept in the dark. The rest of the group had already considered every possibility and the reality they now faced.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "In that sense, the two days they had spent in this abandoned small town had been invaluable.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "175",
+      "sol": "",
+      "sol_paragraphs": "after P75",
+      "sol_range": [
+        75,
+        75
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had recovered from their accumulated fatigue. And the horses, worn out by their relentless forced march and no longer able to travel, could now become fresh provisions.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "179",
+      "sol": "In that respect, the two days they had spent in the abandoned town had been invaluable. They had recovered from their accumulated fatigue, and the horses, worn down by the relentless forced march and unable to go farther, could be turned into provisions.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Drain their blood and store it in gourds. Make jerky from the meat. The terrain will be too rough for a carriage from here on, and if we set them free, they’ll starve to death anyway.”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "181",
+      "sol": "“Drain their blood and store it separately in gourds. Make jerky from the meat. The terrain ahead is too rough for a carriage, and even if we let them go, they’d starve.”",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“D-do we really have to go this far?”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "183",
+      "sol": "“D-do we really have to go that far?”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What, have you grown attached?”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "185",
+      "sol": "“Why? Have you grown attached to them?”",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’d be lying if I said I hadn’t. They may be beasts, but we’ve been together for a while. Look at their eyes. Can’t you see they’re already filling with tears? It’s almost like they understand what we’re saying.”",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "187",
+      "sol": "“I’d be lying if I said I hadn’t. They may be beasts, but we’ve been together all this time. Look at their eyes. Don’t you see the tears welling up? It’s like they understand us.”",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Fine. Then you can go hungry starting tomorrow, Hyuk.”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "189",
+      "sol": "“I see. Then starting tomorrow, you can go hungry, Hyuk.”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Now that I think about it, my mouth’s watering.”",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "191",
+      "sol": "“On second thought, my mouth’s watering.”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……”",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "193",
+      "sol": "“…”",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What can they do about it? It’s their fault for being born beasts.”",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "195",
+      "sol": "“What can they do about it? Their crime was being born beasts.”",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a miserable fate for the eight sweat-blood horses that had done their best for them until now. But apart from the moral question, it was a perfectly reasonable decision.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "197",
+      "sol": "It was a sorry end for the eight sweat-blood horses that had given them everything they could. Set aside the moral question, though, and it was a perfectly reasonable decision.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just after midnight, the moment they set foot in Tianshan for the first time, they all sensed it.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "199",
+      "sol": "They all sensed why the moment they took their first steps into Tianshan, just after midnight.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The atmosphere had changed, as though this were another world cut off from their own, and a chill suddenly ran up everyone’s spine.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "207",
+      "sol": "The atmosphere had changed as though they had entered a world cut off from their own. A chill ran up their spines, along with the unsettling sense that they were trapped in a prison built like a maze, with no way out.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They even felt as if they had been trapped in a prison shaped like a maze with no way out.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "209",
+      "sol": "",
+      "sol_paragraphs": "after P90",
+      "sol_range": [
+        90,
+        90
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What a vicious aura.*",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "211",
+      "sol": "*What a foul aura.*",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang thought as his senses prickled.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "213",
+      "sol": "",
+      "sol_paragraphs": "after P91",
+      "sol_range": [
+        91,
+        91
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        }
+      ]
+    },
+    {
+      "baseline": "Even a pool filled with corpses and poison wouldn’t feel this bad.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "215",
+      "sol": "Jeok Cheongang’s senses prickled. Even a pool full of corpses and poison would not feel this oppressive.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—perhaps this was only natural.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "217",
+      "sol": "Then again, perhaps that was only natural.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This very Tianshan was the Land of Ruin, which had harbored the poison called demonic evil for the past thousand years.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "219",
+      "sol": "Tianshan was the Land of Ruin that had harbored the poison called the Demonic for a thousand years.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And yet, it was also the final hill they had to cross.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "221",
+      "sol": "And it was the last hill they had to cross.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had rested, and they had secured plenty of food.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "223",
+      "sol": "",
+      "sol_paragraphs": "after P95",
+      "sol_range": [
+        95,
+        95
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If they stayed alert for dangers lurking somewhere in the thorny undergrowth, they would soon reach their destination.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "225",
+      "sol": "They had rested. They had secured plenty of food. If they watched for dangers lurking somewhere in the thorny undergrowth, they would reach their destination before long.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*The fact that we made it this far without a single interruption proves that, at least for now, we haven’t drawn their attention.*",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "227",
+      "sol": "*We made it this far without being stopped. At least for now, that means we haven’t caught their attention.*",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With that thought, Jeok Cheongang gazed into the dark forest.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "229",
+      "sol": "Jeok Cheongang gazed into the dark forest.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The situation might be going badly, but that alone was reason enough to hope.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "231",
+      "sol": "Things were going badly, but that fact alone gave them reason to hope.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the old master, with his beloved Disciple on his back, would break before he bent.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "233",
+      "sol": "With the Disciple he cherished like family on his back, the old master might break, but he would never yield.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang took his first step, putting his weight behind it.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "237",
+      "sol": "Jeok Cheongang planted his foot firmly on the ground.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A strong wind blew from somewhere. The dense gray branches all around them swayed, waving at the uninvited guests who had come without permission.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "239",
+      "sol": "A strong wind blew from somewhere. All around them, dense gray branches swayed, waving at the unwelcome intruders.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 103,
+  "sol_sha256": "830ce335b410323d9bbe4a8f3e873661a71b670e33e0f8e70b76b8eab97f77b3",
+  "version": 1
+}

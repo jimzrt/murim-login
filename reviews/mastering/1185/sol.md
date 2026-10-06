@@ -12,7 +12,7 @@ At the Slaughter Saint’s first words after examining Jin Taekyung, Jeok Cheong
 
 “Have a little faith. The medicine just took longer than expected to spread through his system.”
 
-“It’s hard to trust you. Things nearly went wrong because of some quack’s careless guarantee.”
+“Faith is hard to come by when some quack’s careless guarantee nearly ruined everything.”
 
 Their eyes met. The air seemed to tighten between them.
 
@@ -26,17 +26,13 @@ The Slaughter Saint truly didn’t mind.
 
 He had spent half his life as an assassin and the other half as a physician. Treating more patients than he could count had taught him more than medicine.
 
-It had taught him about the heart.
-
 He had come to understand the hearts of the sick, and of those closest to them who watched and shared their suffering.
 
 That was why he knew better than anyone that the man before him was not the great martial artist known as the Fire King. He was Jeok Cheongang—a man whose Disciple lay unconscious before them, a member of the patient’s family.
 
 *Besides, I failed to give him enough reason to trust me as a physician.*
 
-With that thought, the Slaughter Saint quietly studied Jin Taekyung’s face. He had already lost consciousness.
-
-And at the same time, he remembered the terrifying strength and speed Taekyung had displayed moments ago.
+The Slaughter Saint looked down at Taekyung’s face. He thought back to the terrifying strength and speed the young man had shown moments ago.
 
 *Everything was perfect. The medicine I prepared, the time it would take to work.*
 
@@ -64,7 +60,7 @@ Jeok Cheongang gave him a questioning look. Realizing his mistake, the Slaughter
 
 “It’s nothing. I was thinking about something.”
 
-“Could it be…?”
+“Is there—”
 
 “Rest easy. I’ve told you more than once: there’s nothing wrong with your Disciple. He’ll wake within two days at the latest.”
 
@@ -74,17 +70,17 @@ Jeok Cheongang turned toward the window.
 
 Beyond a world where even the stars had vanished, the immense Tianshan Mountains rose through the darkness like a monster from myth. They had stood there a thousand years ago and looked as though they would stand for another thousand.
 
-But the Lord of Heaven, crouched somewhere in those mountains, was the true monster—a being worthy of being called an abyss.
+But the Lord of Heaven, crouched somewhere among those mountains, was the true monster—an abyss in human form. Defeating him would mean wagering the fate of the world.
 
 “I can’t tell if this was truly the right choice,” Jeok Cheongang murmured.
 
-“You know as well as I do. This isn’t the best choice, or even the second-best. It’s only the lesser evil that barely lets us avoid the worst—and the only choice left to us now.”
+“You know it wasn’t the best choice,” the Slaughter Saint replied. “Or even the second-best. It’s the lesser evil that barely lets us avoid the worst. And right now, it’s the only choice we have.”
 
 He was right. They had come too far to speak of the best choice.
 
 Neither the Imperial Army nor the Murim Alliance had arrived by the agreed date. Only one path remained before them.
 
-And it was one of several possibilities they had considered even before leaving Qinghai.
+It was also a possibility they had considered before leaving Qinghai.
 
 *If no one arrives by the appointed date—if, by some chance, that happens…*
 
@@ -94,7 +90,7 @@ Jeok Cheongang remembered the Sword Saint, Mae Jonghak, speaking quietly at thei
 
 *“Leave? Are you serious?”*
 
-*“If things went wrong despite following a plan devised by the strongest martial artists and wisest strategists under Heaven, what more is there to say? The Son of Heaven has already agreed.”*
+*“If things go wrong despite the plan laid by the strongest martial artists and wisest minds under Heaven, what more is there to say? The Son of Heaven has already agreed.”*
 
 *“But—”*
 
@@ -108,13 +104,13 @@ Mae Jonghak had spoken aloud those six characters etched in all their hearts. Je
 
 *“Then I’ll see you in Tianshan.”*
 
-When morning came, they parted.
+At daybreak, they had parted.
 
 The Murim Alliance went west. The Imperial Army went east. And a single carriage carrying all their hopes went into the desert.
 
 Every step of the operation had been kept secret against the possibility of spies.
 
-By the time everyone realized Jin Taekyung’s group was missing, Mae Jonghak announced that they had already joined the Imperial Army and were on the move. The Imperial Army did the same.
+By the time the others noticed Taekyung’s group was missing, Mae Jonghak had announced that they had already joined the Imperial Army and were traveling with it. The Imperial Army had given the same account.
 
 Both forces pushed forward with all their might, constantly spreading false information to keep Dark Heaven’s eyes—wherever they might be hidden—away from the desert.
 
@@ -128,7 +124,7 @@ Jeok Cheongang swallowed the question poised on his tongue.
 
 He was not alone. Everyone there knew something had happened to their allies, but no one said it aloud.
 
-What they needed now was courage and hope that wouldn’t die—not anxiety, deep and sticky as a swamp.
+What they needed was courage that would not fail and hope that would not die—not dread as deep and clinging as a swamp.
 
 *All we can do is keep going.*
 
@@ -142,21 +138,21 @@ It was a faint hope. For now, believing in it was the best they could do.
 
 At the sound of Jeok Cheongang’s heavy voice—
 
-*Fwoosh.*
+*Puff.*
 
 The candle that had flickered precariously as it lit the room finally went out.
 
 * * *
 
-Once the decision was made, everyone moved in perfect order.
+Once the decision was made, everyone moved without hesitation.
 
-Only Jin Taekyung had been kept in the dark. The rest of the group had already considered every possibility and accepted the reality before them, so not one of them hesitated.
+Taekyung alone had been kept in the dark. The rest of the group had already considered every possibility and the reality they now faced.
 
 In that respect, the two days they had spent in the abandoned town had been invaluable. They had recovered from their accumulated fatigue, and the horses, worn down by the relentless forced march and unable to go farther, could be turned into provisions.
 
-“Drain their blood and store it in gourds. Make jerky from the meat. The terrain will be too rough for a carriage from here on, and if we set them free, they’ll starve to death anyway.”
+“Drain their blood and store it separately in gourds. Make jerky from the meat. The terrain ahead is too rough for a carriage, and even if we let them go, they’d starve.”
 
-“D-do we really have to go this far?”
+“D-do we really have to go that far?”
 
 “Why? Have you grown attached to them?”
 
@@ -172,7 +168,7 @@ In that respect, the two days they had spent in the abandoned town had been inva
 
 It was a sorry end for the eight sweat-blood horses that had given them everything they could. Set aside the moral question, though, and it was a perfectly reasonable decision.
 
-Just after midnight, the moment they set foot in Tianshan for the first time, they all sensed it.
+They all sensed why the moment they took their first steps into Tianshan, just after midnight.
 
 *What is this place…?*
 
@@ -182,7 +178,7 @@ The weight of the air. The way the wind moved. Everything.
 
 The atmosphere had changed as though they had entered a world cut off from their own. A chill ran up their spines, along with the unsettling sense that they were trapped in a prison built like a maze, with no way out.
 
-*What a vicious aura.*
+*What a foul aura.*
 
 Jeok Cheongang’s senses prickled. Even a pool full of corpses and poison would not feel this oppressive.
 
@@ -190,7 +186,7 @@ Then again, perhaps that was only natural.
 
 Tianshan was the Land of Ruin that had harbored the poison called the Demonic for a thousand years.
 
-And yet, it was also the final hill they had to cross.
+And it was the last hill they had to cross.
 
 They had rested. They had secured plenty of food. If they watched for dangers lurking somewhere in the thorny undergrowth, they would reach their destination before long.
 
@@ -200,10 +196,10 @@ Jeok Cheongang gazed into the dark forest.
 
 Things were going badly, but that fact alone gave them reason to hope.
 
-And the old master, with his beloved Disciple on his back, would break before he bent.
+With the Disciple he cherished like family on his back, the old master might break, but he would never yield.
 
 *Step.*
 
-Jeok Cheongang took his first step, putting his weight behind it.
+Jeok Cheongang planted his foot firmly on the ground.
 
 A strong wind blew from somewhere. All around them, dense gray branches swayed, waving at the unwelcome intruders.
