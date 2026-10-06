@@ -54,13 +54,13 @@ Cheongpung’s mind was cold as ice.
 
 His instincts were screaming at him. If he didn’t stop that terrible monster now, he might never get another chance.
 
-He had to bring the creature down by any means necessary, before it recovered its original strength.
+He had to bring it down by any means necessary before it recovered its full strength.
 
 But another group of monsters awaited his descending sword. They went by a different name: fanatics.
 
 “Stop him!”
 
-“Heaven above and earth below; all demons—!”
+“Heaven above and earth below; All demons—!”
 
 *Sh-sh-sh-shhk! Slice!*
 
@@ -74,7 +74,7 @@ Beautiful, and sorrowful.
 
 And more than anything, desperate.
 
-*Thud! Fwoosh!*
+*Crack! Fwoosh!*
 
 He cut, and cut, and cut again.
 
@@ -88,7 +88,7 @@ Cheongpung’s face turned pale.
 
 Everything around him was stained red. Blood poured out without pause, washing away the fragrance of his sword technique and obscuring the purple Force.
 
-The defenders who had joined the fight were swinging their weapons with the resolve to die, but even so, the wall of fanatics held firm.
+The defenders who had joined the fight swung their weapons with the resolve to die, but even so, the wall of fanatics held firm.
 
 To them, death—the thing every living person feared—was sacred martyrdom.
 
@@ -104,7 +104,7 @@ To others, his survival was a strange and terrible calamity. To the fanatics, it
 
 And amid that whirlpool of madness and death, Cheongpung could see the monster clearly.
 
-A monster slowly retreating from the jaws of death, absorbing the blood of friend and foe pouring in from every direction.
+It absorbed the blood of friend and foe spilling around it, slowly pulling away from the death that had been so close.
 
 *Rustle.*
 
@@ -122,15 +122,15 @@ A long, blood-red tongue flicked out between them, driven by an unbearable thirs
 
 “……More. Give me more.”
 
-The moment a voice like scraping metal slipped from the monster’s parched lips, Cheongpung felt the blood in his whole body turn cold.
+The moment that scraping voice slipped from the monster’s parched lips, Cheongpung felt his blood turn cold.
 
 *Already?*
 
-It was well beyond what he and the other allies had expected.
+The sight was too bizarre for words. And the recovery was far too fast—well beyond anything he or the other defenders had expected.
 
 For a moment, he wondered whether they would be better off falling back, if that could delay the monster’s recovery even a little.
 
-But even in that fleeting moment, the mindless monster was regaining its original strength at an astonishing rate.
+But even while that thought crossed his mind, the mindless monster was regaining its strength at an astonishing rate.
 
 “More!”
 
@@ -140,7 +140,7 @@ Because his voice was so much clearer now?
 
 No.
 
-It was the majestic internal energy carried in that cry—something Cheongpung hadn’t been able to feel just moments ago.
+Because of the powerful internal energy in that cry. Just moments ago, Cheongpung hadn’t been able to sense any.
 
 *No!*
 
@@ -150,9 +150,9 @@ With that silent scream, Cheongpung thrust his sword forward with all his streng
 
 Force brighter than ever slashed through the air.
 
-The fanatics blocking his way, endlessly chanting their eight-character incantation, were cut to pieces and scattered.
+The fanatics blocking his way, endlessly chanting their eight-character invocation, were cut to pieces.
 
-A breakthrough aimed at a single point.
+He drove straight toward a single point.
 
 Jeong Hogun and the Embroidered Uniform Guards under his command, now among the defenders, charged in behind him.
 
@@ -168,25 +168,25 @@ Toward the Blood Lord.
 
 *Fwoooosh! Boom!*
 
-A deafening crash sent a thick spray of blood surging through the air.
+A deafening impact sent a thick spray of blood through the air.
 
 A narrow gap began to open among the countless fanatics, whose ranks had seemed like an unbreakable iron wall.
 
 *Slice! Thud-thud-thud!*
 
-Even with Temporary Strength Pills, they could not close the gap in martial enlightenment.
+Temporary Strength Pills could not close the gap in martial enlightenment.
 
 Dozens of Huashan’s finest techniques poured from Cheongpung’s blade, while the Embroidered Uniform Guards, led by Jeong Hogun, drove into the fanatics’ formation like an awl.
 
 Before another enemy could fill the gap.
 
-So they could get one step closer, one moment sooner, to the Blood Lord.
+So they could reach the Blood Lord one step sooner.
 
 *At this rate, we can do it.*
 
-No—they had to do it.
+No—they had to.
 
-They all thought so, and they were all prepared to die.
+Cheongpung wasn’t alone in thinking so. Every one of them understood, and every one of them was prepared to die.
 
 The Kunlun Sect Daoist who, even with a sword buried in his chest, used his last strength to wrap his arms around a fanatic.
 
@@ -200,11 +200,11 @@ If they let the chance Jin Taekyung had given them slip away, they might never b
 
 If the West Gate fell, they would be slaughtered—and so would the hundreds of thousands of people sheltering in the Inner City.
 
-Their unshakable, desperate resolve shot toward the wall of fanaticism like the spear of someone kneeling behind them.
+Their desperate resolve drove them toward the wall of fanaticism, like the spear held by the man kneeling behind them.
 
 “Now!”
 
-At Cheongpung’s shout, every ally who had pushed deep into enemy lines squeezed out their remaining strength and lunged forward.
+At Cheongpung’s shout, the defenders who had pushed deep into the enemy ranks wrung out the last of their strength and lunged forward.
 
 It might be their final charge. None of them would regret it.
 
@@ -212,7 +212,7 @@ It might be their final charge. None of them would regret it.
 
 Fountains of blood burst into the air.
 
-Cries of pain spilled from every direction, and the bodies of allies and enemies alike tangled together as they crumpled.
+Cries of pain rose from every direction, and the bodies of allies and enemies tangled together as they fell.
 
 But it was enough.
 
@@ -260,11 +260,11 @@ And with them came anger.
 
 He reached out as though in a trance.
 
-But before he could recover his memories, Cheongpung was already moving without hesitation.
+But before he could recover his memories, Cheongpung was already moving.
 
 *Slice, slice, slice!*
 
-They moved at a speed like streaks of light, their bodies tangling and crossing. Each time they did, blood sprayed into the air.
+He moved like a streak of light. Each time their bodies crossed, blood sprayed into the air.
 
 The Blood Lord’s blood.
 
@@ -292,7 +292,7 @@ But Cheongpung was pouring his last strength into the attack, giving him no time
 
 Blood flowed everywhere as the battle went on, but it wasn’t nearly enough. It could only close the wounds appearing across his body, one after another.
 
-But he had remembered something else he’d briefly forgotten.
+Then he remembered something else he had forgotten. Something vital to him.
 
 Other beings that could quench his thirst.
 
@@ -308,7 +308,7 @@ At that instant—
 
 *Whoosh!*
 
-The purple Force Cheongpung had sent flying grazed the Blood Lord’s arm, frozen for a moment.
+The purple Force Cheongpung had unleashed grazed his arms as he stopped for a moment.
 
 No—it cut through them.
 
@@ -324,13 +324,13 @@ They would quench his thirst.
 
 *Kiiieeet!*
 
-At the bloodcurdling sound that suddenly rang out from the air, Cheongpung instinctively looked up.
+At the bloodcurdling sound from above, Cheongpung instinctively looked up.
 
 He saw them.
 
-No. Everyone saw it clearly.
+Everyone did.
 
-Countless flying beasts—too many to count—plunged toward the battlefield, their blood-red eyes flashing.
+Countless flying beasts plunged toward the battlefield, their blood-red eyes flashing.
 
 And at the center of them all, at the very end, was one being.
 
@@ -338,7 +338,7 @@ And at the center of them all, at the very end, was one being.
 
 A wave of monstrous creatures no one could block or evade.
 
-Beyond the thunder of countless wings beating as they poured down and covered the space, the voice of the monster who had finally regained all his strength and memories pierced Cheongpung’s ears.
+As their wings filled the air with thunder, the voice of the monster who had finally regained all his strength and memories reached Cheongpung’s ears.
 
 “I remember your name.”
 

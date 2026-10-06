@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "everyone—ally and enemy alike—thought the Blood Lord was dead.",
+      "defect": "The Korean says everyone thought of the Blood Lord’s death, not that everyone believed he was already dead. The translation makes their reaction more certain.",
+      "id": "F01",
+      "rationale": "“혈주의 죽음을 떠올리지 않았던 이는 없었다” means no one failed to think of his death; it does not state that they concluded he was dead.",
+      "replacement": "there wasn’t a single person—ally or enemy—who hadn’t thought of the Blood Lord’s death.",
+      "severity": "minor",
+      "source": "Lines 5–7"
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was well beyond what he and the other allies had expected.",
+      "defect": "This retains the comparison to their expectations but omits the source’s separate observation that the scene was indescribably bizarre and the recovery astonishingly fast.",
+      "id": "F02",
+      "rationale": "The Korean explicitly describes both the strangeness of the scene and the speed of the recovery before saying it exceeded what the allies had expected.",
+      "replacement": "It was a sight too bizarre to describe—and a recovery far too fast, well beyond what he and the other allies had expected.",
+      "severity": "minor",
+      "source": "Lines 137–139"
+    }
+  ],
+  "summary": "Two minor fidelity defects: the opening turns thoughts of the Blood Lord’s death into certainty that he was dead, and a description of the recovery as bizarre and too fast is omitted.",
+  "version": 1
+}
