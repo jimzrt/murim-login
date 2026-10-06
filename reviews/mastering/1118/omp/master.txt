@@ -10,7 +10,7 @@ But the truth was cruel and unmistakable.
 
 The groan that slipped from someone’s lips spoke for every defender there.
 
-Not the west. Not the south. Not the north.
+They couldn’t see who had blown the horn, but they knew where the sound came from. Not the west. Not the south. Not the north.
 
 It came from beyond the East Gate wall where they stood. That could mean only one thing.
 
@@ -30,7 +30,7 @@ As the defenders fell silent before that reality, the two corpse sorcerers twist
 
 “You fools.”
 
-“Do you understand now how shallow your little scheme was?”
+“Do you understand now how pathetic your little scheme was?”
 
 The black-robed man and his companion made no effort to hide their delight.
 
@@ -44,7 +44,7 @@ The black-robed man smiled faintly at the thought of the new heaven he served. T
 
 A group moved forward. They ought to have retreated at once, but instead, they came closer.
 
-*Of course. I knew the Kunlun fools would come out like this.*
+*Of course. I knew those Kunlun Daoists would come out to face us.*
 
 He spotted Cheongheoja and the Kunlun Disciples at the front and nodded to himself. Then several others popped out beside them, and he sighed.
 
@@ -84,7 +84,7 @@ This time, his companions’ eyes widened.
 
 “Oh, so your Master’s a beggar too. No wonder. The moment I saw you, I thought you looked like you’d be good at begging for a living.”
 
-Greed and distrust they couldn’t hide even now. Disappointment with the orthodox faction’s rigged playing field. Endless appetite. And last of all, disrespect toward their Master and a steady stream of rudeness, as natural as breathing.
+Greed and disbelief they couldn’t hide even now. Resentment over the orthodox faction’s tilted training ground. Endless appetite. And finally, disrespect for a master and rudeness that came as naturally as breathing.
 
 The black-robed man and his companion felt dizzy, as though they were staring into a true abyss. If not for Hyuk Mujin’s answer, they might not have dared open their mouths.
 
@@ -108,7 +108,7 @@ His duties hadn’t required him to know minor details like Swift Wind Sword or 
 
 He didn’t know why the one who looked most like a nobody was its Vice Captain. Still, he could see how this strange assortment had ended up together—and why they dared step forward in a situation like this.
 
-“Birds of a feather flock together. You’ve gathered all the crazy men and women who don’t value their lives, just like your Pavilion Master.”
+“Birds of a feather. Your Pavilion Master has gathered nothing but lunatics who don’t value their lives.”
 
 The black-robed man let out a short laugh.
 
@@ -146,7 +146,7 @@ At the cold command, the two corpse sorcerers swept their ritual bells through t
 
 Tss-tss-tss-tss-tss.
 
-The cursed sound waves, branded deep in the souls of the Black Ghosts and monsters, swept across the East Gate.
+The cursed sound, etched deep into the souls of the Black Ghosts and the monsters, swept across the East Gate.
 
 From beyond it came a quiet voice.
 
@@ -158,13 +158,13 @@ From beyond it came a quiet voice.
 
 The black-robed man and his companion stopped without realizing it and blinked.
 
-Was it because they couldn’t understand the words of that nobody—Hyuk Mujin, who’d butted in out of habit and now claimed to be the Fire Dragon Pavilion’s Vice Captain?
+Was it because they couldn’t make sense of Hyuk Mujin, who had butted in again out of habit?
 
 No.
 
 The Black Ghosts were charging toward the defenders. The thousand monsters were not. Their limbs trembled as though something invisible held them in place.
 
-*I gave the command… So why?*
+*We gave the order… So why?*
 
 Just as the question struck the two corpse sorcerers—
 
@@ -172,7 +172,7 @@ Just as the question struck the two corpse sorcerers—
 
 Hyuk Mujin turned, and someone appeared behind him. Someone the two sorcerers had never expected to see here.
 
-“I tried to focus as hard as I could. Hngh. But there’s no way I can manage the Black Ghosts…”
+“I-I’m concentrating as hard as I can. Hngh. But the Black Ghosts are impossible…”
 
 “……!”
 
@@ -180,23 +180,23 @@ Hyuk Mujin turned, and someone appeared behind him. Someone the two sorcerers ha
 
 His voice trailed off as their eyes met.
 
-The two jiangshi sorcerers stared wide-eyed at their missing companion. They’d thought he would be dead by now. Ever since the Slaughter Saint had captured him at Qinghai Lake, he’d vanished without a trace.
+It was their missing companion. They’d assumed he was dead by now. Since the Slaughter Saint had captured him at Qinghai Lake, there had been no trace of him.
 
 Then they saw the dozen or so ritual bells in his hands. The bells had clearly belonged to the other corpse sorcerers who had died near Qinghai Lake. A sad smile spread across his bruised face.
 
-“Sorry. That’s how it went.”
+“S-sorry. It’s come to this.”
 
 At that moment—
 
 SHWEEEE!
 
-A dazzling streak of light cut through the darkness and blocked the two Black Ghosts, who were racing forward like the wind alongside their ghost horse.
+A dazzling streak of light cut through the darkness and blocked the two Black Ghosts racing forward with the ghost horse.
 
 KWA-BOOM!
 
 A deafening crash sent wind sweeping in every direction.
 
-At the same time, through the thick cloud of dust, Cheongheoja and a wild-haired eccentric—no, a Great Sir—appeared and spoke to the Black Ghosts.
+Through the billowing dust appeared Cheongheoja and a wild-haired eccentric—no, Great Sir. They faced the Black Ghosts.
 
 “Where do you think you’re going?”
 
@@ -206,7 +206,7 @@ The two corpse sorcerers gritted their teeth. Amid the frantic fighting at the f
 
 Perhaps what angered them most, though, was the insolent smile on that nobody’s face.
 
-“If Captain—no, if the Pavilion Master were here, he’d say this.”
+“If the Squad Leader—no, the Pavilion Master were here, this is what he’d say.”
 
 At Hyuk Mujin’s gesture, the captured corpse sorcerer shook the bells in both hands like mad.
 
@@ -214,7 +214,7 @@ Not one bell. More than ten.
 
 Tss-tss-tss-tss!
 
-The desperate jingle, driven by a stronger instinct to survive than at any other point in his life, pushed him one step beyond the limit of his usual ability.
+Driven by a stronger will to survive than he had ever felt, he shook them with desperate force, pushing beyond the limits of his usual ability.
 
 In other words—
 
@@ -238,4 +238,4 @@ Freed from whatever had held them still, the monsters rampaged without distingui
 
 Boooooo!
 
-Over the horn sounding ever closer by the moment, the monsters’ ferocious roars mingled with the defenders’ shouts.
+Over the horn drawing closer by the moment, the monsters’ roars mingled with the defenders’ shouts.

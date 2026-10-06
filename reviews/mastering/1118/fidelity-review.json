@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "An enemy army estimated at thirty thousand had finally arrived,",
+      "defect": "The Korean’s 물경 emphasizes a strikingly large count—roughly “no fewer than thirty thousand.” “Estimated at thirty thousand” presents the number as an unqualified estimate.",
+      "id": "F01",
+      "rationale": "물경 삼만에 달할 것이라 짐작되는 emphasizes that the estimated force reaches at least thirty thousand; the current wording drops that emphasis.",
+      "replacement": "An enemy army estimated at no fewer than thirty thousand had finally arrived,",
+      "severity": "minor",
+      "source": "Korean source lines 33–33"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one minor loss of emphasis in the estimated enemy count.",
+  "version": 1
+}
