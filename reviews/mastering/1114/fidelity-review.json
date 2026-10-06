@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A flash burst from the dust and hurtled toward him.",
+      "defect": "The source says the flash split the cloud of dust as it rushed toward the Blood Lord. The assembled English drops that physical action, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "The Korean explicitly says 섬광이 먼지구름을 쪼개며 쇄도했다: the flash split the dust cloud while surging toward him.",
+      "replacement": "A flash burst from the dust, splitting the cloud as it hurtled toward him.",
+      "severity": "minor",
+      "source": "Lines 43–45"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Blood Lord had no answer to the question that sprang to mind.",
+      "defect": "The translation omits the follow-up that he might never learn the answer, a narrative beat present in both the Korean and accepted baseline.",
+      "id": "F02",
+      "rationale": "The source adds 아니, 어쩌면 앞으로도 영영 알 수 없을 것이다 after saying he could not find an answer.",
+      "replacement": "The Blood Lord had no answer to the question that sprang to mind. No—perhaps he would never learn the answer.",
+      "severity": "minor",
+      "source": "Lines 91–97"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The force of the blade was enough to wound him without touching him.",
+      "defect": "This generalizes the specific sword-pressure phenomenon into ordinary force, losing the source's named mechanism and the accepted baseline's “Sword Pressure.”",
+      "id": "F03",
+      "rationale": "The Korean names 검압 and says its powerful pressure causes damage merely by grazing past.",
+      "replacement": "The overwhelming Sword Pressure wounded him with nothing more than a near miss.",
+      "severity": "minor",
+      "source": "Lines 133–135"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Leaving those low words behind, the monster continued toward the Inner City.",
+      "defect": "The ending drops the image of sticky blood accompanying the monster's departure, which the Korean and accepted baseline both retain.",
+      "id": "F04",
+      "rationale": "The final line says 끈적한 핏물과 함께, preserving the sticky blood as part of the closing image.",
+      "replacement": "Leaving those low words behind, the monster continued toward the Inner City, with sticky blood at his feet.",
+      "severity": "minor",
+      "source": "Line 432"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it omits a narrative beat and loses several source details preserved in the accepted baseline.",
+  "version": 1
+}

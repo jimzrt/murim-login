@@ -6,7 +6,7 @@ Even barehanded, the Blood Lord had been slaughtering the defenders without merc
 
 *BOOM!*
 
-A deafening crash—and blood sprayed in every direction.
+Blood sprayed in every direction.
 
 But this time, it wasn’t the defenders’ blood. It belonged to the fanatics who followed him.
 
@@ -84,7 +84,7 @@ Two Black Ghosts had been sent as well, in case anything unexpected happened. Th
 
 The Blood Lord had no answer to the question that sprang to mind.
 
-The battle between those fighting to protect something and those consumed entirely by revenge could often defy expectations by a wide margin.
+Perhaps he would never know. A fight between someone determined to protect another and someone blinded by revenge did not always end as expected.
 
 And Fire King Jeok Cheongang had someone he would protect even at the cost of everything he had.
 
@@ -192,7 +192,7 @@ The Blood Lord roared his name and brought the Red Blade down.
 
 A sharp crash rang out.
 
-The Blood Lord was forced back, eyes wide with disbelief, after deflecting five streaks of light fired from an unexpected angle.
+Five streaks of light had come from an unexpected angle. The Blood Lord deflected them and stumbled back, his eyes wide with disbelief.
 
 *Whoooom.*
 
@@ -206,7 +206,7 @@ He slowly turned his head as he growled.
 
 His blood-red gaze fell on the five old men standing between him and Jeok Cheongang.
 
-“If you don’t want to be torn limb from limb and die.”
+“Unless you want your limbs torn off.”
 
 Despite the killing intent bearing down on them, the slender old Daoist at their center quietly helped Jeok to his feet.
 
@@ -222,7 +222,7 @@ Internal energy flowed into Jeok, and a little color returned to his deathly pal
 
 “……!”
 
-“Go. Quickly. It’s for everyone’s sake, too.”
+“Go. Quickly. It’s for everyone’s sake.”
 
 Of course, the old Daoist’s “everyone” left out one person.
 
@@ -234,7 +234,7 @@ Sneering, the Blood Lord angled the Red Blade downward.
 
 *Whoosh!*
 
-A crescent of blood-red Force shot along the Red Blade.
+A crescent of blood-red Force shot from the blade. The Force alone measured a full jang, and the power within it was terrifying.
 
 The next instant—
 
@@ -284,7 +284,7 @@ To the Blood Lord, they were merely five more troublesome old moths.
 
 “Get out of my sight. I’d tear you apart right now, but even that would waste time.”
 
-The slender old Daoist, the eldest of the Kunlun Five Immortals, Perfected One Taecheong, shook his head.
+The slender old Daoist, the eldest of the Kunlun Five Immortals, shook his head.
 
 “I cannot accept that offer. So I’d like to suggest an alternative.”
 
@@ -296,7 +296,7 @@ First Jin Taekyung. Now Jeok Cheongang. Twice he had lost prey he’d nearly cau
 
 Their auras felt far stronger than their reputations suggested. That was puzzling, but even a combined technique capable of facing a Supreme Peak master would be a tower built on sand before him. It would fall in moments.
 
-Or so he’d thought.
+He was certain of it.
 
 “You’re mistaken,” the old Daoist said. “We still have a chance.”
 
@@ -310,7 +310,7 @@ Only then did the Blood Lord notice the calm smile on Perfected One Taecheong’
 
 Power surged from Perfected One Taecheong—no, from all five of the Kunlun Five Immortals—and shook the air around them.
 
-Their fierce aura was hard to believe in men whose skill was said to have stopped at the very edge of Peak. It was so rough, it made the immortal meaning of their title seem absurd.
+No one would have believed these men had stopped at the edge of Peak. Their aura was so fierce it made the *Immortals* in their name seem absurd.
 
 It took the Blood Lord little time to recognize what felt so familiar about it.
 
@@ -340,11 +340,11 @@ An unstable, hazy Force gathered around the sword in Perfected One Taecheong’s
 
 And it wasn’t his sword alone. Force rose from the blades of all five Kunlun Five Immortals.
 
-“If that’s what it takes, then we’ll gladly become monsters, too.”
+“We’ll gladly become monsters ourselves.”
 
 *Whoosh!*
 
-Space split, and six figures clashed in a tangle.
+Space split, and six figures clashed.
 
 * * *
 
@@ -370,20 +370,20 @@ And when the shadow of death finally fell over him, the old Daoist held fast to 
 
 *Crack!*
 
-His brain matter burst out with a horrible pop.
+Brain matter sprayed with a horrible sound.
 
 The Blood Lord lifted his foot from Perfected One Taecheong’s shattered head.
 
-“No. This is a meaningless death.”
+“No,” he whispered coldly. “You died for nothing.”
 
 As he slowly raised his head, cries sounded from every direction, louder and closer than before.
 
-No. It was a creed of exactly eight characters.
+No. They were a creed of exactly eight characters.
 
-Above heaven and below heaven, ten thousand demons bow in homage.
+*Heaven above and earth below; All demons bow!*
 
-Above heaven and below heaven, let all things kneel.
+Above the heavens, beneath the heavens—let all things kneel.
 
-“……So it shall be.”
+“……And so they shall.”
 
-Leaving those low words behind, the monster continued toward the Inner City.
+The monster walked on toward the Inner City, sticky blood trailing with him.
