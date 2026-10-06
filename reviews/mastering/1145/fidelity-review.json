@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Rot had eaten through it, leaving white bone exposed: a grisly reminder that the body had already died. But the Grand Mage shuddered with joy and awe.",
+      "defect": "“It” refers to the hand, making the hand alone seem rotten. The Korean describes the body as a whole as rotten and decayed, with white bone exposed.",
+      "id": "F01",
+      "rationale": "The Korean first has the Grand Mage’s gaze fall to their hand, then describes the already-dead body as entirely rotten and decayed. The rot is not limited to the hand.",
+      "replacement": "Their whole body was rotten and decayed, with white bone showing through—a grisly reminder that the body had already died. But the Grand Mage shuddered with joy and awe.",
+      "severity": "minor",
+      "source": "Korean lines 271–273"
+    }
+  ],
+  "summary": "One physical-detail defect: the English narrows the decay to the hand, while the Korean describes the body as entirely rotten and decayed.",
+  "version": 1
+}

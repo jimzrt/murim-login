@@ -14,7 +14,7 @@ Jeok Cheongang clearly remembered the shock of first hearing the truth from his 
 
 No—he could never forget it.
 
-A world where skyscrapers hundreds of *jang* tall stood together like a forest; where the footsteps of humanity reached beyond the sky and into the universe; where supernatural powers that defied all reason ruled the land.
+A world where skyscrapers hundreds of *jang* tall stood together like a forest, where humanity’s footsteps had reached beyond the sky and into the universe, where the principles of supernatural powers far beyond common sense held sway.
 
 It was a world Jeok Cheongang could scarcely imagine.
 
@@ -36,7 +36,7 @@ Even his Master had never seen him like that.
 
 Jin Taekyung had brushed it off as *only a hunch*, but Jeok Cheongang, who knew him better than anyone, understood.
 
-His Disciple never lied.
+His Disciple never spoke idly.
 
 Behind his usual lighthearted manner, which sometimes bordered on frivolous, lurked a beast alert to even the smallest change around him.
 
@@ -76,17 +76,17 @@ Tianshan—the place regarded as cursed for the past thousand years.
 
 *Whatever danger waits there, it doesn’t matter. This old man will protect you.*
 
-Those who know what they must do have no fear.
+A man who knows what he must do has no reason to fear.
 
 A Master belonged beside his Disciple, and Jeok Cheongang would not leave this spot until Jin Taekyung woke.
 
-Nor would the others, who had arrived and taken up their positions without a word.
+Nor, it seemed, would the others who had come without a word and naturally taken up their places.
 
 “What are you staring at?”
 
 Jeok Cheongang answered the Slaughter Saint, who sat in one corner of the carriage with his eyes half-closed.
 
-“There’s an uninvited guest planted right there. I was wondering who the hell he was.”
+“There’s an uninvited guest planted right there. I was wondering what he was doing here.”
 
 “Uninvited? Why would I be uninvited?”
 
@@ -94,7 +94,7 @@ Jeok Cheongang answered the Slaughter Saint, who sat in one corner of the carria
 
 The Slaughter Saint snorted and nodded toward Jin Taekyung.
 
-“You’re mistaken. The owner of the carriage isn’t you. It’s that fellow lying over there. And this carriage was a gift from the Emperor and the Zhuge Clan, not you.”
+“You’re confused. The owner isn’t you. It’s that fellow lying over there. And this carriage was a gift from the Emperor and the Zhuge Clan, not from you.”
 
 “But I’m his Master.”
 
@@ -110,7 +110,7 @@ It was a bewildering exchange for two old masters whose combined ages exceeded t
 
 *Do you see? Your efforts and pain weren’t in vain.*
 
-Not even one shichen had passed since the army began its full-scale march, yet the eight-horse carriage at the very back of the long, seemingly endless column had already received plenty of visitors.
+Less than one shichen had passed since the army began its march, but the eight-horse carriage at the very back of that long, seemingly endless column had already received plenty of visitors.
 
 Members of the Embroidered Uniform Guard who protected the Emperor’s closest confidants. Masters of Murim, including the Nine Sects and One Gang.
 
@@ -118,9 +118,9 @@ Every one of them ranked among the most skilled in the vast army, and each had c
 
 To repay a debt.
 
-To show even a little respect for the great devotion and effort the owner of the carriage had shown until now.
+To show some measure of respect for all the devotion and effort its owner had given.
 
-If Jeok Cheongang hadn’t sent them away with threats, there might have been more than a thousand of the finest guards surrounding the carriage by now.
+If Jeok Cheongang had not threatened them into leaving, the carriage might now have been surrounded by at least a thousand elite guards.
 
 A handful, of course, had stood their ground without so much as twitching an eyebrow at his threats.
 
@@ -144,7 +144,7 @@ Jeok Cheongang had long ago turned his back on the world and kept his distance f
 
 No. This boy had to be different.
 
-He had to pursue righteousness, practice chivalry, and win people’s hearts.
+He had to pursue righteousness, act with chivalry, and win people to his side.
 
 Now and in the years to come.
 
@@ -156,7 +156,7 @@ Even if hell waited beyond those scorching sands.
 
 *Without fail.*
 
-By now, Jeok Cheongang’s eyes had sunk deep as he watched the vast desert outside the window.
+His eyes had grown solemn as he gazed out at the vast desert when—
 
 Rumble.
 
@@ -168,7 +168,7 @@ Everything that happens in the world has two sides, like a coin.
 
 Where there is light, there is darkness. When the sun sets, the moon rises.
 
-Not long after someone closed their eyes in comforting warmth, the same was true of someone who awoke in a sealed chamber tens of thousands of *ri* away.
+Not long after one person closed his eyes amid comforting warmth, another opened theirs in a sealed chamber tens of thousands of *ri* away.
 
 Though perhaps *opened their eyes* was the better way to put it.
 
@@ -196,7 +196,7 @@ Instead of an answer, formless energy crept over him, binding his entire body an
 
 The subordinate gasped and struggled to protest. Only when his body went limp did the energy pressing down on the chamber vanish as though washed away.
 
-Leaving behind the realization that the dead man had told the truth—and one question that remained unanswered.
+The realization remained that the dead man had told the truth, along with a question no one had answered.
 
 *Lost consciousness? Why?*
 
@@ -206,13 +206,13 @@ An inexplicable shock had struck in an instant, followed by a break in conscious
 
 Even with all its vast knowledge, the shadow could not explain it.
 
-The shadow rose as if floating, climbing thousands of steps. It stopped only when it reached the one being who could answer its question.
+It rose as though floating up the thousands of steps and stopped only before the one being who could answer its question.
 
 Rumble.
 
 The enormous iron doors opened before the shadow could ask to enter.
 
-In the perfectly complete darkness, where not a single glimmer of light could be seen, *he* was there.
+Within the absolute darkness beyond them, where not a glimmer of light could be seen, *he* waited.
 
 “Your humble servant comes before the great Lord of Heaven.”
 
