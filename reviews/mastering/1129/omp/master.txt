@@ -38,7 +38,7 @@ Of course they couldn’t.
 
 The departed don’t speak.
 
-So I wanted to find the answer from someone who had died, but wasn’t dead anymore.
+So I tried asking someone who had died but wasn’t dead anymore.
 
 “Hey, Golgoli.”
 
@@ -60,7 +60,7 @@ But faith has a way of being betrayed.
 
 It was ironic.
 
-Even an undead being who had already crossed death’s threshold and been reborn didn’t know what lay beyond it.
+Even an undead being who had risen from death knew nothing about what lay beyond it.
 
 In the end, I gave up looking for an answer.
 
@@ -86,7 +86,7 @@ All of it.
 
 *Ah.*
 
-With no voice left to escape my lips, I sank weakly.
+No sound came from my lips as I sank helplessly.
 
 Into pitch-black darkness.
 
@@ -100,13 +100,13 @@ At that moment—
 
 *Whoosh!*
 
-A beam of light appeared from nowhere, somehow, tearing through the darkness and illuminating the world.
+A beam of light appeared from nowhere, tearing through the darkness and illuminating the world.
 
 A new world, where everything had changed.
 
 * * *
 
-I blinked blankly.
+I blinked, dazed.
 
 Then I took in the sight before me and wondered:
 
@@ -126,13 +126,13 @@ Yes.
 
 The answer to the question I’d carried for so long was here.
 
-Though it looked nothing like I’d imagined.
+Even if this looked nothing like I’d imagined.
 
 “Hmm. I suppose so.”
 
 “…!”
 
-A voice came from behind me without any hint of someone’s presence. I instinctively twisted away and retreated, fixing my gaze on the uninvited guest standing only a few steps away.
+A voice came from behind me without any warning. I twisted away on instinct and backed off, keeping my eyes on the uninvited guest standing only a few steps away.
 
 “…You’re—”
 
@@ -178,7 +178,7 @@ That was when he spoke.
 
 “You’re worrying over nothing. It’s not so easy to end up in hell.”
 
-The old man’s sunken gaze settled on me.
+The old man’s somber gaze rested on me.
 
 As if he could see right through my thoughts.
 
@@ -190,9 +190,9 @@ As if he could see right through my thoughts.
 
 For a moment, I couldn’t speak. I stared at him, frozen like a statue, then barely managed to force out the words.
 
-“Wait. Is this, by any chance—”
+“Wait. Are you—”
 
-“Ah, forgive me. I didn’t mean to let that slip.”
+“Ah, forgive me. I let that slip.”
 
 His answer all but confirmed my guess.
 
@@ -200,13 +200,13 @@ As I struggled to find the words, the old man shrugged.
 
 “Well, there it is.”
 
-“I knew something was off. So it really was true.”
+“I knew something was off. So it really is true.”
 
-“It happens more often than you’d think. When the thing you thought couldn’t happen does. It’s easier if you think of it as just one of those cases.”
+“It happens often enough. Sometimes what seems impossible turns out to be real. Think of it as one of those times.”
 
 There was nothing simple or comforting about that. Yet, for some reason, I found it surprisingly easy to accept.
 
-Even who owned that voice, the one that had sounded like a hallucination just before I opened my eyes in this strange place.
+I even knew who had spoken to me just before I opened my eyes in this strange place.
 
 “You’re quick on the uptake. Good.”
 
@@ -218,7 +218,7 @@ And something about him that felt oddly familiar.
 
 “Have we… met before?”
 
-The old man seemed to ponder the question for a while before answering.
+The old man thought for a moment before answering.
 
 “We may have. Or we may not.”
 
@@ -228,7 +228,7 @@ The old man seemed to ponder the question for a while before answering.
 
 “You helped me? How?”
 
-“Find the answer to that question yourself. You don’t have as much time as you think, so…… let’s get started.”
+“Find the answer to that yourself. We have less time than you might think, so… let’s begin.”
 
 I wanted to ask what on earth he was talking about, and what he meant by *begin*.
 
@@ -244,9 +244,9 @@ By the time I turned, he had crossed the few steps between us and taken position
 
 *Thud!*
 
-My vision swam, and strength left my legs.
+My head swam, and my legs went weak.
 
-I’d never seen an attack so fast and precise.
+I’d never faced an attack so fast or so precise.
 
 I had no reason to fight anymore. Even so, I forced my buckling legs to hold and reached out on instinct.
 
@@ -266,7 +266,7 @@ Before I could even think about why I had internal energy here, the old man’s 
 
 The flames parted as he answered.
 
-Without even forming Palm Force, the old man waved a hand and blew away the heat of the Flame Divine Palm as if snuffing out a candle. Then he signaled to me with his eyes.
+Without even forming Palm Force, the old man swept the heat of the Flame Divine Palm away with a gesture, as though blowing out a candle. Then he glanced at me.
 
 “Go on. Struggle all you like. Try the Flame-Extinguishing Divine Fist—or better yet, the Blazing Flame Divine Spear.”
 
@@ -276,7 +276,7 @@ Without even forming Palm Force, the old man waved a hand and blew away the heat
 
 Was this what it felt like to be haunted by a ghost?
 
-I could only stare at the ghost—or rather, the old man—in a daze, unable to speak.
+I could only stare at the ghost—or rather, the old man—without a word.
 
 Of course, he didn’t even allow me that moment.
 
@@ -286,11 +286,11 @@ When had he moved? How?
 
 He’d been standing amid the dying flames, but now he was in my blind spot. Invisible qi carried on the edge of his hand swept smoothly across my chest.
 
-So sharp that a beat later, the flesh it sliced through—like tofu—let out a scream.
+It cut through flesh like tofu, so sharply that the pain came a beat later.
 
 *Splurt!*
 
-Blood sprayed into the air. At the same time, a distant pain I’d thought I’d never feel again came surging back.
+Blood sprayed into the air. At the same time, a dizzying pain I’d thought I would never feel again surged through me.
 
 So did the fear I’d briefly forgotten.
 
@@ -320,9 +320,9 @@ The old man smiled faintly for the first time. While I stood speechless at the u
 
 No—he held something out.
 
-A spear that had suddenly appeared in midair.
+A spear that had appeared from nowhere.
 
-“Take it. Even if you’re going to die, you should at least get to fight back properly once, shouldn’t you?”
+“Take it. If you’re going to die, you might as well put up a proper fight first.”
 
 I gritted my teeth.
 
