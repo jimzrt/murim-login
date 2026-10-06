@@ -106,7 +106,7 @@ Mujin glanced around for no reason, then mouthed a few words before finally lowe
 
 He was the only Supreme Peak master involved in this incident who had remained at Donghu Stronghold.
 
-He was also the Wudang Sect Leader’s Junior Brother and a respected elder of the Murim[^2]. He was more than qualified to attend as Wudang’s representative. However closely we guarded the Water God Dragon’s existence, we couldn’t keep it secret from Wudang.
+He was also the Wudang Sect Leader’s Junior Brother and a respected elder of the Murim. He was more than qualified to attend as Wudang’s representative. However closely we guarded the Water God Dragon’s existence, we couldn’t keep it secret from Wudang.
 
 *Though for something this important, wouldn’t the Sect Leader himself come? Why Hyeongong?*
 
@@ -128,7 +128,7 @@ The presence outside receded as soon as the words ended. Mujin tilted his head a
 
 “Why is *he* going?”
 
-“Who? Oh, Mungyeong? He is the Divine Physician’s disciple, after all. He should be able to help with the imugi’s[^1] anatomy and such. But why?”
+“Who? Oh, Mungyeong? He is the Divine Physician’s disciple, after all. He should be able to help with the imugi’s anatomy and such. But why?”
 
 Why? Because I had no idea what that lunatic might do.
 
@@ -144,7 +144,10 @@ I swallowed the words rising in my throat and started toward the exit. Then I st
 
 I could almost hear a System notification ringing in my ears.
 
-*Ding. You have acquired **Meat Shield**!*
+
+> **System**
+>
+> - You have acquired **Meat Shield**!
 
 * * *
 
@@ -272,7 +275,7 @@ While I was settling that with myself, Cheongpung came over with a bright smile 
 
 There were only two possibilities.
 
-Either Cheongpung was a System user with ten metric tons[^3] of candy in his Inventory, or there was a tree nearby that grew the stuff.
+Either Cheongpung was a System user with ten metric tons[^2] of candy in his Inventory, or there was a tree nearby that grew the stuff.
 
 “Either way, thanks.”
 
@@ -328,13 +331,15 @@ I answered as politely as I could.
 
 “What?”
 
-“Of the ten silver nyang you promised me yesterday, I still haven’t received five. I knew you were shameless, but I never thought you’d go so far as to prey on a beggar.”
+“Of the ten silver nyang[^3] you promised me yesterday, I still haven’t received five. I knew you were shameless, but I never thought you’d go so far as to prey on a beggar.”
 
 “I’ll pay you. Just keep it short. I’m starting to see things.”
 
 I could hardly tell whether that was his mouth or a sewer.
 
-After extracting the remaining five silver nyang from me, Gung Gibang grumbled, “Stop exaggerating. And if you mean hallucinations, I’ve had more than enough of those myself. I’ve been having strange dreams for the past few days.”
+Gung Gibang finally got the other five silver nyang[^3] out of me, then grumbled.
+
+“Stop exaggerating. And if you mean hallucinations, I’ve had more than enough of those myself. I’ve been having strange dreams for the past few days.”
 
 “Dreams?”
 
@@ -342,7 +347,7 @@ After extracting the remaining five silver nyang from me, Gung Gibang grumbled, 
 
 Gung Gibang gave a quiet laugh and pointed at Mungyeong.
 
-“I dreamed Mungyeong was fighting that imugi[^1]. Sword Force was flying everywhere, and he kept vanishing and reappearing like a ghost… If someone had told me he was the Slaughter Saint, the greatest assassin of all time, I’d have believed them.”
+“I dreamed Mungyeong was fighting that imugi. Sword Force was flying everywhere, and he kept vanishing and reappearing like a ghost… If someone had told me he was the Slaughter Saint, the greatest assassin of all time, I’d have believed them.”
 
 “……”
 
@@ -350,9 +355,7 @@ Gung Gibang gave a quiet laugh and pointed at Mungyeong.
 
 I continued staring at the Water God Dragon’s body, doing my best to ignore Gung Gibang’s endless chatter.
 
-From head to tail, its immense body stretched over a hundred jang[^4].
-
-Its scales, once stained black, now scattered dazzling silver light, while countless wounds were carved across its body.
+From head to tail, its enormous body stretched for more than a hundred ja[^4]. Its scales, once stained black, now scattered dazzling silver light, while countless wounds were carved across its body.
 
 I ran my hand over one of the gaping wounds and apologized silently.
 
@@ -366,7 +369,7 @@ But I was apologizing because I couldn’t bury its body as it was.
 
 The raid was over. It was time to dispose of the corpse.
 
-[^1]: An *imugi* is a legendary Korean serpent associated with dragons.
-[^2]: *Murim* refers to the world of martial artists and their sects.
-[^3]: Ten metric tons is 10,000 kg, or about 22,000 lb.
-[^4]: A *jang* is a traditional Korean length of ten *ja*, about 3.03 m (9.94 ft). A hundred *jang* is about 303 m (994 ft).
+[^1]: An *imugi* is a serpent-like creature in Korean folklore, often said to be capable of becoming a dragon.
+[^2]: Ten metric tons is 10,000 kg, or about 22,000 lb.
+[^3]: A silver *nyang* is a traditional unit of silver currency.
+[^4]: *Ja* is a Korean unit of length equal to about 30.3 cm (11.9 in). A hundred ja is about 30 m (99 ft).
