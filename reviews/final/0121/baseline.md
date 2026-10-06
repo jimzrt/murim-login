@@ -52,7 +52,7 @@ Hyuk Mujin grumbled, but he put more strength into his hands and kneaded my shou
 
 In truth, it wasn’t the physicians I trusted. It was the efficacy of the Items.
 
-If not for the **Superior Wound Medicine**, which could heal most wounds within a few days, and the **Ten-Year He Shouwu**[^1], which was exceptionally effective at treating Internal Injuries, some of them would already have crossed the River Jordan[^2].
+If not for the **Superior Wound Medicine**, which could heal most wounds within a few days, and the **Ten-Year He Shouwu**, which was exceptionally effective at treating Internal Injuries, some of them would already have crossed the River Jordan.
 
 *I’ve given them the minimum emergency treatment. The physicians can take care of the rest.*
 
@@ -84,7 +84,7 @@ Fortunately, that wouldn’t be too difficult. Wolhwa had shown me inexplicable 
 
 Whether those were genuine feelings or simply the curiosity of a veteran information merchant was something I would have to watch a little longer to determine.
 
-“Mujin-ah.”[^3]
+“Mujin-ah.”
 
 “Should I massage harder?”
 
@@ -144,7 +144,11 @@ After agonizing over it, I finally opened my mouth.
 
 “……”
 
-“I know you’ve been through something difficult, but it’s even more important to keep your strength up at times like this, so…… Sorry.”
+“I know you’ve been through something difficult, but it’s even more important to keep your strength up at times like this, so……”
+
+I stopped myself.
+
+“Sorry.”
 
 *Damn it. I should’ve just kept my mouth shut.*
 
@@ -170,7 +174,7 @@ If not for Jin Mukyung and me, the Mount Heng Sword Sect would have shut its doo
 
 Maybe they could designate today as the Day the Sleeping Dragon of Shanxi Came and make it an annual Mount Heng Sword Sect holiday—
 
-*That might be taking things too far. Anyway.*
+*That might be taking things too far.*
 
 “Now, calm down and sit.”
 
@@ -332,7 +336,7 @@ Only after Hyuk Mujin grabbed him by the shoulders and shook him did his unfocus
 
 Hyuk Mujin asked with a worried expression, “Did something happen? Why are you suddenly acting like this?”
 
-Gulp.
+*Gulp.*
 
 Jin Taekyung swallowed hard and barely managed to open his mouth.
 
@@ -363,7 +367,3 @@ He suddenly slapped his forehead.
 Jin Taekyung’s mouth fell open.
 
 “Fuck, she was still a high schooler?”
-
-[^1]: He shouwu is a plant used in traditional Chinese herbal medicine.
-[^2]: In Korean speech, crossing the Jordan River is a way of saying someone has died.
-[^3]: The Korean suffix *-ah* is an informal way to address someone by name, typically someone familiar or younger.
