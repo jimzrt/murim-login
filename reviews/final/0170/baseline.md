@@ -22,7 +22,7 @@ Perhaps it was because he had only just realized that he was suffering from the 
 
 He had stared at the owner of that desperately outstretched hand and, before he knew it, spoken a single sentence.
 
-“Will you come with me?”
+*Will you come with me?*
 
 “Elder, we’re here.”
 
@@ -82,7 +82,7 @@ The word that had slipped from his mouth felt foreign.
 
 He had lived his entire life without restraint. Everyone had feared and revered him. Even the most renowned masters of Murim had tucked their tails between their legs in his presence.
 
-And yet such words came easily before this country bumpkin he had known for less than half a shichen.[^1]
+And yet such words came easily before this country bumpkin he had known for less than half a shichen.
 
 *I’m old. I really have grown old.*
 
@@ -128,7 +128,7 @@ When they entered the room, Jang-pal’s wife soon brought out a meal.
 
 “I’m afraid the side dishes aren’t much.”
 
-As she had said, the food was simple: a few kinds of namul[^2] and mixed-grain rice. Even the meat soup they had served for his sake was pale and bland.
+As she had said, the food was simple: a few kinds of namul and mixed-grain rice. Even the meat soup they had served for his sake was pale and bland.
 
 But everything had been prepared with care. They were clearly not well-off, yet they treated the shabby old man seated at their table as a guest rather than an unwelcome intruder.
 
@@ -290,15 +290,15 @@ Each time the old man’s yellow teeth moved—teeth that looked incapable of ch
 
 A conversation from earlier flashed through Jang-pal’s horrified mind.
 
-“Why are there so many clan villages around here? Less than half a shichen ago, there was something called Hong Family Village or whatever.”
+*Why are there so many clan villages around here? Less than half a shichen ago, there was something called Hong Family Village or whatever.*
 
-“Hong Family Village? Hong Family Village should be at least three hundred li[^3] from here. Are you perhaps confusing it with somewhere else?”
+*Hong Family Village? Hong Family Village should be at least three hundred li from here. Are you perhaps confusing it with somewhere else?*
 
-“Do I look like some idiot who can’t even remember something that happened less than half a shichen ago?”
+*Do I look like some idiot who can’t even remember something that happened less than half a shichen ago?*
 
 Only then did Jang-pal realize that none of the old man’s words had been lies.
 
-He was not an ordinary old man. Someone who could walk three hundred li[^3] in half a shichen and chew iron could not possibly be ordinary.
+He was not an ordinary old man. Someone who could walk three hundred li in half a shichen and chew iron could not possibly be ordinary.
 
 Only one kind of person could perform such extraordinary feats.
 
@@ -391,7 +391,3 @@ Just as I hurriedly pried Jang Taebo’s hands away—
 “Is this the house of Grandpa Jang, who lives three houses over…? Damn it. It’s rubbing off on me already. Anyway, is this Old Man Jang’s house?”
 
 A sharp voice pierced my eardrums.
-
-[^1]: A shichen is a traditional time unit of about two hours; half a shichen is about one hour.
-[^2]: Namul are Korean side dishes made from seasoned vegetables or wild greens.
-[^3]: Here, *li* is the Chinese distance unit of 500 m (0.311 mi). Three hundred li is about 150 km (93 mi).
