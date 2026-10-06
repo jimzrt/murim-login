@@ -190,7 +190,7 @@ She had been helping us constantly from places we couldn’t see. Of course, Jin
 
 *That’s fucking cool.*
 
-A body like a human meat grinder and a brilliant mind to go with it. Suddenly I wanted to call him hyung.[^1]
+A body like a human meat grinder and a brilliant mind to go with it. Suddenly I wanted to call him hyung.
 
 “Oh!”
 
@@ -202,13 +202,13 @@ Jin Wikyung swept his solemn gaze over everyone assembled.
 
 “Let’s settle this.”
 
-No one objected. The Head Elder was the first to rise and give Jin Wikyung a fist-in-palm salute.[^2]
+No one objected. The Head Elder was the first to rise and give Jin Wikyung a fist-in-palm salute.
 
 “By your command.”
 
 That brought the meeting to an end. As I left the tent, a familiar voice pierced my ear.
 
-“Do not forget what I told you yesterday.”
+—Do not forget what I told you yesterday.
 
 I stiffened for a moment, then gave a small nod.
 
@@ -260,7 +260,7 @@ I pointed in turn at the old book and the small box resting on the rock.
 
 I listlessly explained to the guy whose eyes were halfway out of their sockets.
 
-“The manual contains a Supreme Peak martial art, and if you absorb the elixir properly, it’ll give you half a jiazi.[^3]”
+“The manual contains a Supreme Peak martial art, and if you absorb the elixir properly, it’ll give you half a jiazi.”
 
 “What?”
 
@@ -282,7 +282,7 @@ Judging by his unimpressed face and the way his lips were sticking out a mile, h
 
 Normally, I would have smacked him in the back of the head. Right now, I didn’t feel much of anything.
 
-*Is this how a short-timer sergeant feels?[^4]*
+*Is this how a short-timer sergeant feels?[^1]*
 
 At the same time, I felt strangely wistful. Maybe it was an aftereffect of everything I’d been through. I had only been here for a little over a month, yet it felt as though a whole year had passed.
 
@@ -328,9 +328,9 @@ The tension and fear they had been suppressing with forced smiles rose to the su
 
 There was only one thing I could say.
 
-“I trust my hyung.[^1]”
+“I trust my hyung.”
 
-*Hyung.[^1]*
+*Hyung.*
 
 This time, I put my heart into the word.
 
@@ -382,7 +382,4 @@ Gwak Jun smiled in satisfaction, then turned to me.
 
 *What the fuck is this bastard talking about right now?*
 
-[^1]: *Hyung* is a Korean term a man uses for an older brother or a close older man.
-[^2]: A fist-in-palm salute is a traditional martial greeting used to show respect.
-[^3]: A *jiazi* is a traditional sixty-year cycle; half a jiazi is thirty years.
-[^4]: A conscript sergeant in the last stretch of mandatory service, coasting toward discharge.
+[^1]: A conscript sergeant in the last stretch of mandatory service, coasting toward discharge.
