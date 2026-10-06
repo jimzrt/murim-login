@@ -1,0 +1,80 @@
+{
+  "chapter": 64,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.997,
+    "length_ratio": 2.168,
+    "source_characters": 5572,
+    "source_paragraphs": 222,
+    "translation_characters": 12082,
+    "translation_paragraphs": 224
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "천무학관",
+        "preferred": "Heaven's Gate Temple"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일각",
+        "preferred": "fifteen minutes"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "심해",
+        "preferred": "deep sea"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "황도",
+        "preferred": "Imperial Capital"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "녕하",
+        "preferred": "Ningxia"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "미친놈",
+        "preferred": "Madman"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

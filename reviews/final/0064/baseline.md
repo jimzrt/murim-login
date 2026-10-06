@@ -28,7 +28,7 @@ A trembling voice escaped Jin Wikyung’s lips.
 
 “What?”
 
-“I poured my heart and soul into it for two shichen.[^1] All for this one moment.”
+“I poured my heart and soul into it for two hours. All for this one moment.”
 
 “I don’t know what you’re talking about, but that’s not important right—”
 
@@ -166,29 +166,29 @@ A martial arts genius who had reached the Peak realm at barely twenty.
 
 But more important than that was the fact that he was this body’s—Jin Taekyung's—second older brother. So, naturally, I was curious.
 
-“I can’t remember what Jin Mukyung—or rather, my second brother—was like.”
+*I can’t remember what Jin Mukyung—or rather, my second brother—was like.*
 
 Amnesia was an excellent excuse. When I asked Jin Wikyung that question, he told me everything about him.
 
-“You won’t be able to see him right away. He’s very far away.”
+*You won’t be able to see him right away. He’s very far away.*
 
-“Where is he?”
+*Where is he?*
 
-“At Heaven’s Gate Temple in Henan. That heartless brat hasn’t shown his face once in three years.”
+*At Heaven’s Gate Temple in Henan. That heartless brat hasn’t shown his face once in three years.*
 
 Despite his words, Jin Wikyung had looked proud.
 
 Like a parent whose child had gotten into Harvard.
 
-“What’s his personality like?”
+*What’s his personality like?*
 
-“Hmm. He’s kind. People often misunderstand him, but he’s definitely a good kid.”
+*Hmm. He’s kind. People often misunderstand him, but he’s definitely a good kid.*
 
-“Were we close?”
+*Were we close?*
 
-“…You were. I think you were? Yes, you were close.”
+*…You were. I think you were? Yes, you were close.*
 
-“Ah. Right.”
+*Ah. Right.*
 
 I hadn’t thought much of it at the time. Once I learned how far Henan was from the Jin Family of Taiyuan, I lost interest altogether.
 
@@ -204,9 +204,9 @@ His appearance had caught me completely off guard.
 
 I gave him an awkward smile and held out my hand.
 
-“Long time no see, hyung.[^2]”
+“Long time no see, hyung.”
 
-The “hyung”[^2] who had been gazing at me steadily took my hand.
+The “hyung” who had been gazing at me steadily took my hand.
 
 “Yes. It’s been a long time.”
 
@@ -443,6 +443,3 @@ Without hesitation, I turned my head.
 Whump!
 
 *…Damn it. I should’ve used ten more points.*
-
-[^1]: A *shichen* is a traditional time unit of approximately two hours; two shichen are approximately four hours.
-[^2]: *Hyung* is a Korean term a younger man uses for an older brother or a close older male.
