@@ -1,6 +1,6 @@
 # Chapter 142
 
-“Li Feng, lay disciple[^1] of Huashan, pays his respects to Martial Uncle Cheongpung.”
+“Li Feng, lay disciple of Huashan, pays his respects to Martial Uncle Cheongpung.”
 
 Zaha Divine Technique. Plum Blossom Sword Technique. And finally, the last word to come from Li Feng’s mouth:
 
@@ -130,7 +130,7 @@ If the venture succeeded, he would receive a commensurate reward. If it failed, 
 
 “If this venture succeeds, wouldn’t it benefit you as well, Deputy Military Commissioner? The Zhongnan Sect never forgets gratitude or grudges.”
 
-Adding *grudges* to *gratitude* was a veiled threat—a warning that Hong Jin might make an enemy of one of the Nine Sects and One Gang.[^2]
+Adding *grudges* to *gratitude* was a veiled threat—a warning that Hong Jin might make an enemy of one of the Nine Sects and One Gang.
 
 Hong Jin had served as a palace attendant since childhood and witnessed all manner of political intrigue. There was no chance he had missed the hidden meaning behind Gong Ilhyuk’s words.
 
@@ -250,7 +250,7 @@ Hong Jin burst out laughing.
 
 “Thanks to you.”
 
-The two men had exchanged almost exactly the same words only half an hour earlier, but the atmosphere was now the exact opposite.
+The two men had exchanged almost exactly the same words only a quarter of an hour earlier, but the atmosphere was now the exact opposite.
 
 They continued their conversation in a warm and friendly atmosphere.
 
@@ -278,7 +278,7 @@ Things had already gone too far to turn back. He swept a gaze filled with fury a
 
 The voice belonged to Jin Taekyung, who had suddenly cut into the conversation. He gave a short laugh and continued.
 
-“We’re not looking down on the Zhongnan Sect. We’re looking down on you. You might not know this, but I’m a huge fan of the Zhongnan Sect. *The Reign…*[^3] Anyway, I faithfully kept up with it through volume thirty-four.”
+“We’re not looking down on the Zhongnan Sect. We’re looking down on you. You might not know this, but I’m a huge fan of the Zhongnan Sect. *The Reign…* Anyway, I faithfully kept up with it through volume thirty-four.”
 
 “What kind of bullshit are you spouting? A family without even a proper pedigree like the Jin Family of Taiyuan has no place butting in!”
 
@@ -288,7 +288,7 @@ Taekyung put on a wounded expression and poked Cheongpung in the side.
 
 “What? He said that to my Benefactor?”
 
-“Yeah. I know he’s a Senior, but isn’t that going too far? I’m too scared of the Nine Sects and One Gang[^2] to answer him myself, so could you say something for me?”
+“Yeah. I know he’s a Senior, but isn’t that going too far? I’m too scared of the Nine Sects and One Gang to answer him myself, so could you say something for me?”
 
 “M-me? I’m not very good at things like that.”
 
@@ -343,7 +343,3 @@ Behind him came the voices of Jin Taekyung and Cheongpung.
 “For a first attempt, you’ve got some real talent. You should learn a lot from me from now on. As you go through life, there are plenty of times you’ll need to use them even if you don’t want to.”
 
 “Yes!”
-
-[^1]: A lay disciple belongs to a sect without being a monk or entering monastic life.
-[^2]: The Nine Sects and One Gang are a grouping of major Murim factions.
-[^3]: *The Reign…* is the opening fragment of a wuxia novel title.
