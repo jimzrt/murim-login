@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "their heads poking around the corner",
+      "defect": "Adds a corner that the source does not specify. The Hunters poke their heads out from the far end of the corridor.",
+      "id": "F01",
+      "rationale": "The Korean places the Hunters at the end of the corridor and says they poke their heads out; it does not mention a corner.",
+      "replacement": "their heads poking out at the far end of the corridor",
+      "severity": "minor",
+      "source": "Korean source lines 253–257"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall, with one added physical detail not established by the source.",
+  "version": 1
+}

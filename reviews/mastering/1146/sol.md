@@ -44,7 +44,7 @@ But even that brief thought was a luxury for the man. For Choi Minwoo.
 
 Crack.
 
-A faint tremor traveled down from the ceiling, and hairline fractures spread across the full-length mirror like a spiderweb.
+A faint tremor came from the ceiling, and hairline fractures spread across the mirror like a spiderweb.
 
 Sensing that the time had finally come, Choi Minwoo turned his back on his distorted reflection and flung open the rusted iron door that had briefly kept the harsh reality outside at bay.
 
@@ -58,11 +58,11 @@ In the middle of a corridor barely wide enough for two grown men to stand should
 
 “No need to apologize. You’re in charge here. Though…”
 
-The figure glanced at the dust drifting slowly down from the ceiling, stirred by a tremor that had grown slightly stronger.
+The figure glanced at the dust drifting down from the ceiling as the tremor grew slightly stronger.
 
 “Any later and we’d have been in trouble. Let’s go.”
 
-As if they’d planned it, they quickly set off, trading words as they made their way through the winding, ant-nest-like corridors.
+They set off at a brisk pace, as if by agreement, talking as they followed the twisting corridors through the shelter.
 
 “What happened?”
 
@@ -86,21 +86,21 @@ Several thousand.
 
 It sounded like an absurdly broad estimate, but communications and every radar network had been down for some time. Choi Minwoo accepted the figure without question.
 
-The hulking figure’s abilities were unlike anyone else’s in this old, worn-out underground bomb shelter. He was also someone Choi Minwoo trusted enough to entrust with his own life.
+The hulking figure had abilities unlike anyone else in this old underground bomb shelter. More than that, Choi Minwoo trusted him with his life.
 
 “…Several thousand?”
 
-If there were already several thousand as far as they could tell, the number could exceed ten thousand, depending on the situation.
+If there were already several thousand by their best estimate, the number could exceed ten thousand.
 
-At Choi Minwoo’s darkening gaze, the hulking figure made an effort to shake his head.
+Seeing Choi Minwoo’s expression darken, the hulking figure shook his head.
 
-“They might just be a scouting party. Those guys always move around in swarms like ants.”
+“They could just be a scouting party. Those bastards move around in swarms like ants even at the best of times.”
 
 It was a reasonable guess.
 
 The enemy had already swallowed up a vast stretch of desert. Their numbers were terrifying, and growing by the day.
 
-*Even if they aren’t here to attack, they could simply be passing through on their way to another city. Our routes might have crossed by chance.*
+*Even if they aren’t here to attack, they could be on their way to another city. They might just happen to pass over us.*
 
 Choi Minwoo walked on in silence, lost in thought.
 
@@ -136,7 +136,7 @@ That was the best choice.
 
 *…Then why?*
 
-The hulking figure’s eyes widened when Choi Minwoo suddenly stopped walking.
+The hulking figure’s eyes widened when Choi Minwoo stopped walking.
 
 “What’s wrong? Is there a problem?”
 
@@ -150,7 +150,7 @@ Shaking his head, the hulking figure started down the final corridor to the cent
 
 That was when Choi Minwoo noticed how his back bulged beneath the poncho, as though he were a hunchback.
 
-And at the same moment, his tightly shut lips parted.
+Choi Minwoo opened his mouth.
 
 “What do you think the best choice is?”
 
@@ -160,9 +160,9 @@ The hulking figure turned at the unexpected question. Beneath the hood pulled al
 
 “What’s brought this on all of a sudden…?”
 
-“I can’t tell what’s right or wrong. What’s the difference between the best choice and the worst?”
+“I can’t tell anymore. What’s right and what’s wrong. What separates the best choice from the worst.”
 
-Choi Minwoo continued in a hoarse voice. His eyes had begun to tremble, just like the ones he’d seen in the mirror.
+Choi Minwoo’s voice was hoarse. His eyes had begun to tremble again, just as they had in the mirror.
 
 “Even now, more than ten times our number are coming this way. But if we keep quiet and wait, there won’t be any unnecessary casualties. They don’t know we’re here.”
 
@@ -194,7 +194,7 @@ He was smiling.
 
 “…!”
 
-“Come on, say it and get it off your chest. Like that guy we know so well.”
+“Go on. Say it and get it off your chest. Like that guy we both know.”
 
 With the rumbling growing louder by the second, the hulking figure dropped onto the shaking floor, as if he wouldn’t move another step until Choi Minwoo answered.
 
@@ -210,13 +210,13 @@ And that was a gap Choi Minwoo could never close.
 
 “How?”
 
-“I’m weak. I can’t compare to him. And I have a mission I absolutely have to succeed at, as the commander here.”
+“I’m weak. I can’t begin to compare to him. And as the commander here, I have a mission I absolutely must complete.”
 
 “Responsibility matters. But that’s got nothing to do with it.”
 
 Before Choi Minwoo could respond to the cryptic remark, the hulking figure added quietly:
 
-“The others still here are already planning to rush out and fight. Every last one of them.”
+“Everyone still here is ready to rush out and fight. Every last one of them.”
 
 “…!”
 
@@ -250,9 +250,9 @@ At that moment—
 
 Hiss. Slash!
 
-The aura surging fiercely along the blade split the shelter’s concrete wall like tofu.
+Aura surged along the blade and cut through the shelter’s concrete wall like tofu.
 
-KABOOM!
+BOOM!
 
 The explosion sent debris flying.
 
@@ -264,11 +264,11 @@ The hulking figure—the Skeleton King—laughed aloud and patted the large back
 
 “Don’t worry. I’ll keep you safe, you human who sleeps too much for no reason.”
 
-And he shot toward the enemies.
+Then he shot toward the enemy.
 
 Or he was about to.
 
-If not for the answer no one had expected.
+Until an answer no one had expected stopped him.
 
 “Dad’s not sleeping.”
 
