@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is largely faithful, with a few small shifts in certainty, characterization, and emphasis.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 6",
+      "current": "the lingering heat of the battlefield seemed to freeze",
+      "defect": "The source states that the lingering heat froze; “seemed to” adds uncertainty that is not present.",
+      "replacement": "the lingering heat of the battlefield froze in an instant",
+      "rationale": "The Korean says the battlefield’s remaining heat 얼어붙었고—froze—without a hedge.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Paragraph 73",
+      "current": "The three old fiends from Tianshan",
+      "defect": "“Fiends” adds a judgment of wickedness not established by the source’s “three old men.”",
+      "replacement": "The three old men from Tianshan",
+      "rationale": "The Korean calls them 천산의 세 늙은이, literally the three old men of Tianshan; the source does not call them fiends.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Paragraph 46",
+      "current": "a man Hyeoncheon would gladly tear to pieces",
+      "defect": "This loses the source’s emphasis that tearing the enemy’s bloodline apart and killing him would still not satisfy Hyeoncheon.",
+      "replacement": "the bloodline of an enemy he could tear apart and kill in an instant and still not feel satisfied",
+      "rationale": "단숨에 찢어 죽여도 시원치 않을 conveys that even tearing and killing the enemy at once would not be enough to satisfy him.",
+      "confidence": 0.91
+    }
+  ]
+}

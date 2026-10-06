@@ -62,7 +62,7 @@ He was right.
 
 I’d told Taishan clearly.
 
-*Not yet… Don’t go yet.*
+Not yet.
 
 *That’s right. Not yet.*
 
@@ -86,9 +86,9 @@ Another man bent on revenge, betrayed by those he’d trusted as allies and forc
 
 His sleeves swelled with the force of his formidable internal energy.
 
-At that moment, the emotionless, ink-black eyes—so deep their depths were impossible to discern—didn’t reflect Sama Pyo.
+In that moment, the old man’s emotionless, ink-black eyes no longer saw Sama Pyo.
 
-They reflected the bloodline of his enemy: a man Hyeoncheon would gladly tear to pieces.
+They saw the blood of an enemy he could tear apart and still not be satisfied.
 
 * * *
 
@@ -96,7 +96,7 @@ They reflected the bloodline of his enemy: a man Hyeoncheon would gladly tear to
 
 The air trembled for yards around them. It was hard to breathe.
 
-In the moment the overwhelming qi began slowly tightening around him from every direction, like the hand of an invisible giant, Sama Pyo froze. Then Perfected Being Hyeoncheon suddenly spoke.
+An overwhelming force closed in on Sama Pyo from every direction, slowly tightening like the hand of an invisible giant. He froze. Then Perfected Being Hyeoncheon spoke.
 
 “Lately, I keep remembering the first time I met your esteemed father, my friend. It was in the middle of the Great Faction War.”
 
@@ -106,7 +106,7 @@ He had never joined the ranks of the Ten Kings, but even as Sect Leader of the r
 
 Yet even the largest vessel has its limits.
 
-“At the same time, I regretted it. I wondered if I should have killed him then and there.”
+“And every time, I regret it. I wonder if I should have killed him then and there.”
 
 Sama Pyo said nothing to the deep sigh in Hyeoncheon’s voice.
 
@@ -116,7 +116,7 @@ He hadn’t told the old Daoist the truth, but Hyeoncheon had already glimpsed p
 
 He had first heard of it from a woman.
 
-“At first, I didn’t want to believe it. I tried to convince myself it was a ploy to stir up internal strife among the survivors from Dunhuang—that we were being used as stepping-stones for an even greater scheme.”
+“At first, I didn’t want to believe it. I tried to convince myself it was a ploy to turn the survivors of Dunhuang against one another—that she meant to use us for some greater scheme.”
 
 Hyeoncheon had tried to forget what he’d heard while hiding silently in the undergrowth. But his suspicions had only deepened with each passing day.
 
@@ -134,7 +134,7 @@ So the Kongtong Sect and the many sects that followed it had acted on informatio
 
 At the slight tremor in Hyeoncheon’s voice, the hundred Disciples surrounding Sama Pyo clenched their teeth.
 
-How could they forget that horrific battle, which had begun like a bolt of lightning?
+How could they forget the horror of that battle, which had begun like a bolt from the blue?
 
 No. It had been a one-sided slaughter.
 
@@ -150,7 +150,7 @@ That immense human tide, black as night, had brought down the high walls in an i
 
 It swallowed the lives of fellow Disciples, friends, and family who had stood beside them for years.
 
-“I would rather have fought there with them and died. Heroically, with my last breath.”
+“I would rather have fought and died there with them. Fought to my last breath.”
 
 Hyeoncheon wasn’t alone in that wish. A hundred pairs of eyes, reddened and now glistening with tears, showed it.
 
@@ -184,7 +184,7 @@ They belonged to the allies he’d trusted to guard their backs.
 
 His voice was low.
 
-After three days at death’s door, Hyeoncheon had barely recovered from his injuries. He’d thought then:
+After three days at death’s door, Hyeoncheon had finally begun to recover. And he’d wondered:
 
 *Why?*
 
@@ -204,9 +204,9 @@ And now, before he could begin his revenge, a young man had come to him of his o
 
 “Boy of the Sama family.”
 
-His way of speaking had changed.
+His manner of address had changed.
 
-His voice was steady, edged with iron, but cold flames burned in the old Daoist’s eyes.
+His voice was steady, with a harsh edge to it. Cold flames burned in the old Daoist’s eyes.
 
 “Bring me your father. There’s something I must confirm before I draw my sword.”
 
@@ -220,15 +220,15 @@ Sama Pyo looked down in silence at the ripples spreading across a pool of blood.
 
 “…!”
 
-Perfected Being Hyeoncheon’s eyes flew open.
+Hyeoncheon’s eyes widened.
 
 So did the eyes of the Kongtong Sect Disciples surrounding Sama Pyo, their suffocating killing intent still bearing down on him.
 
 They understood at once what he meant.
 
-*He was dead.*
+Dead.
 
-*The Black Night King, Sima Gong.*
+The Black Night King, Sima Gong.
 
 The enemy they should have put to death with their own hands. The traitor whose crimes cried out to heaven.
 
@@ -238,7 +238,7 @@ And Sima Gong wasn’t the only traitor to meet that fate.
 
 A grief-stricken cry rang out from somewhere.
 
-A Kongtong Sect Disciple closed a distance of well over a hundred yards in an instant, moving like an arrow. His face was streaked with grief and fury as he threw himself down before Hyeoncheon.
+A Kongtong Sect Disciple crossed the distance in an instant, swift as an arrow, and threw himself down before Hyeoncheon. Grief and fury filled his face.
 
 “They… those men…!”
 
@@ -250,9 +250,9 @@ Or rather, the two pieces of white cloth tied to its pole, fluttering weakly.
 
 “A mourning flag…!”
 
-At the anguished whisper that slipped through someone’s clenched teeth, the qi surrounding them surged violently.
+The words escaped through someone’s clenched teeth. Around them, the force pressing in from every direction surged violently.
 
-The white cloth signaled someone’s death. Then there was the reaction of the Disciple who had just returned.
+White cloth signaled a death. And the Disciple who had just returned was overcome with grief.
 
 The meaning was clear.
 
@@ -268,13 +268,13 @@ Gone somewhere no movement technique could reach: the afterlife.
 
 Hyeoncheon bit his lip.
 
-The flesh split and blood flew, but that pain was nothing beside the agony in his chest, which felt ready to burst.
+The flesh split and blood spattered, but the pain was nothing beside the pressure in his chest, which felt ready to burst.
 
 “How… how dare they…!”
 
 Hyeoncheon flew into a rage.
 
-Despite his still-healing body, his immense qi pressed down all around him. Even the Kongtong Sect Disciples nearby had to hold their breath.
+Though his body had yet to heal, immense qi poured from him and pressed down on everyone around him. Even the Kongtong Sect Disciples had to catch their breath.
 
 Only Sama Pyo stood his ground.
 
@@ -294,7 +294,7 @@ He was right.
 
 A person’s heart couldn’t simply be filled whenever it was emptied.
 
-Nothing could fill a hole once it had been torn open.
+Nothing could mend a hole once it had been torn open.
 
 You could keep putting things into it, trying to forget. Or you could look at the hole that remained no matter how much you put in and remember.
 
@@ -312,4 +312,4 @@ And at that moment—
 
 *Shing.*
 
-A dazzling flash burst from the sword at Perfected Being Hyeoncheon’s waist.
+A dazzling flash burst from Hyeoncheon’s waist.
