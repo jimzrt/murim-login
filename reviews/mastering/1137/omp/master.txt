@@ -4,13 +4,13 @@ Many people call the Central Plains the center of the world, but the phrase has 
 
 The true center of the world is the Imperial Capital.
 
-Because that is where the Son of Heaven resides—the father of all his people, wielding absolute authority.
+That is where the Son of Heaven resides—the father of all his people, wielding absolute authority.
 
-And in that same sense, Henan, which had shared in Murim’s earliest beginnings and history, could no longer be called the Murim Alliance’s headquarters.
+By the same measure, Henan, where Murim had first taken shape, could no longer be called the Murim Alliance’s headquarters.
 
 What mattered was not the place, but the people.
 
-The symbolism attached to a place was created by people.
+A place gained its significance from the people who occupied it.
 
 Sword Saint Mae Jonghak felt that keenly through the letters arriving each day from every corner of the realm.
 
@@ -18,7 +18,7 @@ He had also discovered that the higher the piles of paperwork grew, the more des
 
 “Come in.”
 
-Beyond the firmly shut door, the owner of a faint presence hesitated briefly before entering the study.
+The faint presence beyond the closed door hesitated, then entered his study.
 
 “Pardon me for a moment…”
 
@@ -46,7 +46,7 @@ He spoke with desperate longing in his eyes and voice.
 
 He looked ready to grab the man by the collar if the sleeve wasn’t enough.
 
-The visitor sensed a disturbing madness in Mae Jonghak’s glittering eyes and swallowed nervously.
+The visitor saw an unsettling madness in Mae Jonghak’s glittering eyes and swallowed hard.
 
 “All right, all right. Let go and we’ll talk.”
 
@@ -60,15 +60,15 @@ The visitor sensed a disturbing madness in Mae Jonghak’s glittering eyes and s
 
 “It’s the only kind I have. Just drink that.”
 
-Worried the man might change his mind, Mae Jonghak hurriedly let go of his sleeve. As he watched him prepare the teapot, the visitor thought to himself:
+Lest the man change his mind, Mae Jonghak hurriedly released his sleeve. Watching him prepare the teapot, the visitor thought:
 
 *Then why did you even ask…?*
 
-Of course, he already knew. With some people, the more you tried to understand them, the more you only hurt yourself.
+Of course, he already knew that trying to understand certain people only made life harder for him.
 
 It was a lesson he’d learned over the past few months with a certain madman.
 
-“……You’re the spitting image of him. I could’ve sworn I heard he wasn’t your biological grandson.”
+“…You’re exactly alike. I could’ve sworn he said you weren’t his biological grandson.”
 
 “Hm? What did you say?”
 
@@ -96,19 +96,19 @@ Just as the Slaughter Saint felt his energy rapidly draining away, Mae Jonghak f
 
 Mae Jonghak was right.
 
-Perhaps because it was the tea enjoyed by a man who had been a City Lord, both its aroma and quality were excellent.
+The tea had belonged to a City Lord, and its aroma and quality were excellent.
 
-The man, who had committed countless acts of corruption, had vanished like dew on the execution grounds. But his tea leaves—and his lavish study—remained.
+The man himself had committed so many acts of corruption that he had ended up on the execution grounds. His tea leaves and lavish study, however, remained.
 
 The study now served as the Murim Alliance’s temporary Alliance Leader’s Hall.
 
-“I hope I’m not taking up too much of your precious time.”
+“I hope I’m not taking up too much of your time.”
 
-The Slaughter Saint glanced at the towering piles of papers, which looked ready to collapse at any moment. Mae Jonghak tilted his hot teacup and answered.
+The Slaughter Saint glanced at the towering piles of papers, which looked ready to collapse at any moment. Mae Jonghak raised the hot cup to his lips and answered.
 
 “Time is always precious. If we’d lost the battle seven days ago, I wouldn’t be enjoying this luxury.”
 
-Watching the wisps of steam rise like heat haze, the Slaughter Saint murmured as if to himself.
+Watching the steam rise in wavering wisps, the Slaughter Saint murmured as if to himself.
 
 “Seven days. Has it really been that long?”
 
@@ -138,11 +138,11 @@ Mae Jonghak’s eyes turned grave.
 
 The Slaughter Saint’s voice was heavy.
 
-“That’s right.”
+“No.”
 
 “You couldn’t find it after all?”
 
-“Based on what we know so far.”
+“Not from what we know so far.”
 
 That left a faint possibility, but Mae Jonghak looked doubtful. So did the Slaughter Saint, who had said it.
 
@@ -174,7 +174,7 @@ From the Nine Provinces and Eight Wastes to the Four Seas and Five Lakes, they h
 
 “Exterminate the Demons and Set Heaven Right.”
 
-Exterminate the demons and set heaven right.
+Destroy the demons. Set heaven right.
 
 It was the banner the old Murim Alliance had raised, and now those four words united the realm.
 
@@ -182,9 +182,9 @@ Even the empire, newly reborn under the name Great Ming, had embraced them.
 
 “They’re coming. For the same single purpose as us.”
 
-Seven days had passed since their decisive victory after a fierce battle.
+Seven days had passed since their decisive victory.
 
-But those who had spent the time since living each day as if it were a mere moment were not only the people in Xining.
+But the people in Xining weren’t the only ones who had spent those days working without rest.
 
 On the day rivers of blood had flowed through Xining, enemy corpses had piled up like mountains in Henan Province and Shanxi Province.
 
@@ -208,7 +208,7 @@ Even common people with no power of their own organized volunteer militias to st
 
 “Xinjiang. We can end everything in that accursed land beyond the desert.”
 
-Mae Jonghak spoke in a low but powerful voice.
+Mae Jonghak’s voice was low but firm.
 
 “The only way to stop this wheel from turning is to defeat the Lord of Heaven.”
 
@@ -218,13 +218,13 @@ That was the Lord of Heaven.
 
 An absolute being who had never once shown his true form, yet whose immense shadow covered the realm.
 
-But now that the realm had joined forces and pointed its blades at the Lord of Heaven, heaven’s will was already on their side.
+Now that all under heaven had joined forces and aimed their blades at him, heaven’s will was surely on their side.
 
 Or so they believed.
 
 *…But why?*
 
-For some reason, the words “Son of Heaven” filled him with an inexplicable sense of foreboding.
+The mere thought of the Son of Heaven brought the Slaughter Saint an inexplicable sense of foreboding.
 
 He raised his teacup, though the tea had gone cold.
 
@@ -236,7 +236,7 @@ As he drank, he turned over the other reason he had come to see Mae Jonghak.
 
 More precisely, he doubted anyone could have.
 
-That was why the Slaughter Saint found it even harder to shake from his mind.
+That made it all the harder to put her out of his mind.
 
 She had stood by, almost indifferent, even when Jin Taekyung was in mortal danger. Her words and actions had been impossible to read, as though she had some purpose no one else knew about.
 
@@ -251,8 +251,6 @@ The Bow Saint had seldom shown herself since the battle, and Jin Taekyung had ye
 Still deep in thought, the Slaughter Saint drained his tea.
 
 He was about to speak to Mae Jonghak, who was watching him in silence as though he had sensed something.
-
-Or tried to.
 
 *Thud-thud-thud-thud!*
 

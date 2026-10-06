@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "The dozen or so remaining Moving Formations",
+      "defect": "“십여 개” indicates about ten (or slightly more), not specifically about a dozen.",
+      "id": "F01",
+      "rationale": "The source says that the remaining 이동진 numbered 십여 개; “a dozen or so” shifts that quantity upward.",
+      "replacement": "The ten or so remaining Moving Formations",
+      "severity": "minor",
+      "source": "Line 201"
+    }
+  ],
+  "summary": "One minor quantity shift: the English makes the remaining Moving Formations sound closer to twelve than the source’s roughly ten.",
+  "version": 1
+}
