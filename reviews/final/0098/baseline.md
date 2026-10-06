@@ -340,7 +340,7 @@ First, I drew every curtain in the house. Though it was the middle of the day, t
 
 At the same time, my hand closed around a lump of metal half the size of my palm.
 
-As its name suggested, it was Equipment that could detect mana. I had paid twenty million won[^1] for it at the Store.
+As its name suggested, it was Equipment that could detect mana. I had paid twenty million won for it at the Store.
 
 *Next step: search.*
 
@@ -350,7 +350,7 @@ Beep. Beep. Click.
 
 The call connected, and the other person answered.
 
-“Hello?”
+—Hello?
 
 I replied, “It’s me, Jin Taekyung.”
 
@@ -402,7 +402,7 @@ Kim Junsu furrowed his brow.
 
 Ahem. After clearing his throat, he lowered his voice.
 
-“The plan is proceeding without a hitch. Yes, yes. The Sangdong Guild hasn’t noticed anything yet. I have the item with me.”
+“‘The plan is proceeding without a hitch. Yes, yes. The Sangdong Guild hasn’t noticed anything yet. I have the item with me.’”
 
 The team members listening slapped their knees.
 
@@ -421,5 +421,3 @@ At that moment, Kim Gwondong, who had been listening quietly, suddenly spoke.
 Kim Junsu smiled meaningfully.
 
 “That guy has a USB.”
-
-[^1]: Twenty million Korean won is about $14,000 or €13,000 at the project conversion rates.
