@@ -84,7 +84,7 @@ The four men, including Black Sand, fell into thought.
 
 *A martial artist? That old man?*
 
-*He bothers me. I should kill him.*
+*He bothers me. We should kill him.*
 
 To the Human Butcher, murder was hardly different from breathing. He reached for his scabbard without hesitation, but Black Sand shot him a glare.
 
@@ -178,6 +178,8 @@ The old man answered.
 
 “Who told a little bastard like you he could use *hao*-style speech with me? Are you from the Lower District Sect or something?”[^1]
 
+[^1]: *Hao*-style speech is a semi-formal Korean speech level; its name sets up the pun on the Lower District Sect’s Korean name, *Haomun*.
+
 “…”
 
 “And why are you holding my wrist? You trying to get fresh with me?”
@@ -222,7 +224,7 @@ They commanded respect and fear in equal measure, yet the old man had carved the
 
 “One’s a sodomite from the Lower District Sect. One grew up without parents and has only half a tongue. And as for the other two…”
 
-The old man glanced at Temur and Chinggen, both of whom wore their hair in queues,[^2] then sighed.
+The old man glanced at Temur and Chinggen, both of whom wore their hair in queues, then sighed.
 
 “You’re still young, but your foreheads are already bare. How pitiful.”
 
@@ -270,7 +272,7 @@ The sight sent chills down the onlookers’ spines. Judging by the madness pouri
 
 *Boom! Boom! Boom!*
 
-A relentless storm of Sword Energy continued to pour forth. The Human Butcher finally withdrew his horse-chopping sword after the time it takes to drink a cup of tea.
+A relentless storm of Sword Energy continued to pour forth. The Human Butcher finally withdrew his horse-chopping sword after roughly a quarter of an hour.
 
 “Huff… huff…”
 
@@ -300,7 +302,7 @@ At first, they were simply dumbfounded.
 
 What kind of clueless bastard would be eating and drinking at a time like this?
 
-But it took only an instant for their disbelief to turn to shock.
+But it took only an instant for confusion to turn to astonishment, and astonishment to horror.
 
 “T-The old man! The old man’s alive!”
 
@@ -352,9 +354,11 @@ The old man saw him barreling forward and frowned.
 
 *Whoooosh!*
 
-*Mount Tai Presses Down on the Crown.*[^3]
+*Mount Tai Presses Down on the Crown.*
 
-The horse-chopping blade, its crimson Sword Energy blazing, was about to split the crown of the old man’s head. The old man swung something.
+At that moment, the horse-chopping blade, its crimson Sword Energy blazing, was about to split the crown of the old man’s head.
+
+At that moment, the old man swung something.
 
 *Slice! Thud!*
 
@@ -420,7 +424,7 @@ That was the end.
 
 “…Huh?”
 
-The world turned upside down along with his faint question. Blood poured from the seven orifices[^4] of his fallen body and soaked the floor.
+The world turned upside down along with his faint question. Blood poured from the seven orifices of his fallen body and soaked the floor.
 
 *He said he’d spare me. Why?*
 
@@ -443,8 +447,3 @@ A Peak master whose evil reputation had spread all the way to the Central Plains
 The old man addressed the people who had frozen in place.
 
 “Where is this place?”
-
-[^1]: *Hao*-style speech is a semi-formal Korean speech level; its name sets up the pun on the Lower District Sect’s Korean name, *Haomun*.
-[^2]: A queue is a hairstyle with the front of the head shaved and the remaining hair worn in a long braid.
-[^3]: Mount Tai is a mountain in China’s Shandong Province and one of the Five Sacred Mountains of China.
-[^4]: The seven bodily openings are the eyes, ears, nostrils, and mouth.
