@@ -2,7 +2,7 @@
 
 In front of the Gate, ten men and women dressed as Hunters were chatting in a friendly atmosphere.
 
-“Oppas[^1], we’re going to be okay, right?”
+“Oppas, we’re going to be okay, right?”
 
 At the female Hunter’s question, a B-rank Hunter from Sangdong Guild thumped his breastplate.
 
@@ -10,7 +10,7 @@ At the female Hunter’s question, a B-rank Hunter from Sangdong Guild thumped h
 
 “Of course I do. But I heard people died here last week.”
 
-“Forget those idiots. They got themselves killed playing tough when they didn’t have the skills to back it up. Who else can they blame? Right, Changsoo hyung[^2]?”
+“Forget those idiots. They got themselves killed playing tough when they didn’t have the skills to back it up. Who else can they blame? Right, Changsoo hyung?”
 
 Im Changsoo, who had been listening quietly, blew a cloud of cigarette smoke into the air.
 
@@ -18,7 +18,7 @@ Im Changsoo, who had been listening quietly, blew a cloud of cigarette smoke int
 
 The atmosphere instantly turned cold. The female Hunter who had spoken first forced the corners of her mouth upward.
 
-“No, oppa[^1], I was just—”
+“No, oppa, I was just—”
 
 “Shut up. What are you going to do?”
 
@@ -36,7 +36,7 @@ Gates were geese that laid golden eggs called Magic Gems, and Hunters were the l
 
 “If you’re not going to a hotel right now, quit hanging all over each other. It’ll be a pain in the ass if another shitty rumor starts spreading.”
 
-“Hyung[^2], you can trust these girls.”
+“Hyung, you can trust these girls.”
 
 “I don’t, asshole. Didn’t you say the same thing about the last ones?”
 
@@ -74,7 +74,7 @@ Just thinking about her made his lower abdomen feel heavy.
 
 She was a flower far too precious for some pathetic new Guild. He intended to pull her out without damaging a single root and plant her in his own flowerpot.
 
-“Oppa[^1], did something good happen? Why are you smiling like that?”
+“Oppa, did something good happen? Why are you smiling like that?”
 
 Im Changsoo didn’t answer. Instead, he waved toward the five people who had appeared in the distance.
 
@@ -82,7 +82,7 @@ Im Changsoo didn’t answer. Instead, he waved toward the five people who had ap
 
 Of course, he didn’t forget to add a quiet remark to his ex-girlfriend.
 
-“Who the hell are you calling oppa[^1], you fucking bitch?”
+“Who the hell are you calling oppa, you fucking bitch?”
 
 * * *
 
@@ -148,9 +148,9 @@ A tank was exactly what the name suggested: a human shield who stood on the fron
 
 “You can make a lot of money in one go. Who knows? If the Magic Gems come pouring out, you’ve hit the jackpot.”
 
-“Oppa[^1], we’re really going to be okay today, right?”
+“Oppa, we’re really going to be okay today, right?”
 
-“Don’t worry, Hye-rin. This oppa[^1] will protect you.”
+“Don’t worry, Hye-rin. This oppa will protect you.”
 
 Murmurs spread among Im Changsoo’s team members. The official who had to let us enter was no exception.
 
@@ -308,7 +308,7 @@ The question was answered almost immediately.
 
 Im Changsoo looked my equipment up and down, exclaiming in admiration.
 
-“Wow, I’ve only ever seen this in pictures. Where did you buy it? Did you order it from overseas? Or get it in Cheongdam-dong[^3]?”
+“Wow, I’ve only ever seen this in pictures. Where did you buy it? Did you order it from overseas? Or get it in Cheongdam-dong?”
 
 “I rented it.”
 
@@ -394,7 +394,7 @@ As I watched him walk away, Team Leader Choi approached without my noticing and 
 
 “Not at all. I think he only came over because he’s a gear nerd. He walked up out of nowhere and asked where I bought my equipment.”
 
-“I bought it in Cheongdam-dong[^3].”
+“I bought it in Cheongdam-dong.”
 
 “……”
 
@@ -402,7 +402,7 @@ As I watched him walk away, Team Leader Choi approached without my noticing and 
 
 * * *
 
-“Changsoo hyung[^2], why did you suddenly go talk to that bastard?”
+“Changsoo hyung, why did you suddenly go talk to that bastard?”
 
 “No reason. His equipment looked decent, so I sounded him out.”
 
@@ -429,7 +429,3 @@ Money and ability. With only those two things, he believed he could do anything.
 “Let’s get moving. Pass it on.”
 
 “Yes, sir!”
-
-[^1]: *Oppa* is a term a woman uses for an older brother or an older man she is close to. *Oppas* is its English plural.
-[^2]: *Hyung* is a term a man uses for an older brother or an older man he is close to.
-[^3]: Cheongdam-dong is a Seoul district known for luxury shopping.
