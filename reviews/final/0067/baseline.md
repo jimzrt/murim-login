@@ -18,7 +18,7 @@ He untied the bundle he had brought with him, revealing acupuncture needles as t
 
 The Medicine King Hall Master answered readily and took out two large needles.
 
-“I’ll put one in the Baihui Acupoint at the crown of your head and one in the Huiyin Acupoint at your perineum. If you die, you won’t have to worry about pain anymore.”
+“I’ll put one in the crown of your head and one in your perineum. If you die, you won’t have to worry about pain anymore.”
 
 “……”
 
@@ -64,7 +64,7 @@ It seemed that simply sleeping now let me recover quickly from most ordinary bru
 
 “No. I just circulated my qi all day and got a good night’s sleep.”
 
-“Is it the effect of the Hundred-Year-Old Snow Ginseng? No, that’s too much…”
+“Is it the effect of the hundred-year snow ginseng? No, that’s too much…”
 
 The Medicine King Hall Master glared at me suspiciously, as if wondering whether I had raided the medicine storeroom again, then shook his head.
 
@@ -74,7 +74,7 @@ Hyuk Mujin, who had been groaning, brightened.
 
 “What about me? What about me?”
 
-“I swear, if you run off again without permission, I’ll ram one of these needles into your Huiyin Acupoint.”
+“I swear, if you run off again without permission, I’ll ram one of these needles into your perineum.”
 
 The gaunt old man muttered in a sinister voice, jabbing a large needle through the air. He looked like something straight out of a horror movie.
 
@@ -96,7 +96,7 @@ The pavilion had collapsed, leaving me with nowhere to return to. I had become h
 
 A familiar voice came from beyond the door. Wondering if it could really be him, I opened it and found exactly the face I had expected.
 
-“Hyung?”[^1]
+“Hyung?”
 
 Jin Wikyung jumped a beat too late.
 
@@ -128,17 +128,17 @@ Anyone who paid attention already knew: Jin Wikyung was a complete fool for his 
 
 He was still like this in his mid-thirties. I could only imagine how bad he had been when he was younger. Right after the battle, he had even been so overcome with joy that he carried me around on his shoulders.
 
-“My youngest! My little brother!”
+*My youngest! My little brother!*
 
 After making such a spectacle in front of hundreds of people, there was no way anyone could have missed it.
 
 As I sighed inwardly, a thread of Sound Transmission slipped into my ear.
 
-“How was that? Hyung[^1] can act too, huh?”
+—How was that? Hyung can act too, huh?
 
 I nodded. If there were an Academy Award for terrible acting, he might have had a shot at Best Actor.
 
-“Are you all right? Mukyung didn’t do it out of malice, so I hope you’ll understand.”
+—Are you all right? Mukyung didn’t do it out of malice, so I hope you’ll understand.
 
 “……”
 
@@ -166,7 +166,7 @@ The sheer size of the Jin Family of Taiyuan’s estate spoke to its former glory
 
 By now, the people had disappeared completely, leaving the road deserted. The occasional pavilion and other buildings whose purposes I couldn’t identify were old and gloomy.
 
-It had the kind of atmosphere where rats held sports festivals during the day and ghosts played go-stop at night.[^2]
+It had the kind of atmosphere where rats held sports festivals during the day and ghosts played go-stop at night.[^1]
 
 When I looked around, Jin Wikyung hurriedly began to explain.
 
@@ -180,7 +180,7 @@ When I looked around, Jin Wikyung hurriedly began to explain.
 
 I meant it.
 
-I had lasted five whole years in a cramped, three-pyeong[^3] goshiwon[^4] studio. Rats could be caught, and as for ghosts… Well, it wasn’t as if real ghosts would actually show up.
+I had lasted five whole years in a cramped, three-pyeong goshiwon studio.[^2] Rats could be caught, and as for ghosts… Well, it wasn’t as if real ghosts would actually show up.
 
 “As long as it’s spacious, I don’t mind.”
 
@@ -212,11 +212,11 @@ Jin Wikyung smiled brightly, looking pleased by my reaction.
 
 “That’s right. I had the training ground built large.”
 
-“A training ground!”
+“A training hall!”
 
 “I had another one built underground in case the weather was bad.”
 
-“Oh. Two training grounds!”
+“Oh. Two training halls!”
 
 “If we divide them up, there shouldn’t be any problem.”
 
@@ -274,8 +274,6 @@ Jin Mukyung gave me a long, meaningful look.
 
 “……”
 
-*Of course.*
-
 The scenery I had seen on the way here suddenly rose before my eyes.
 
 An empty street with no people around. An underground training ground where not even a scream could escape. The perfect conditions for committing a crime.
@@ -302,7 +300,7 @@ Jin Wikyung caught me by the nape and hauled me back. Jin Mukyung let out a shor
 
 This time I fired back without backing down.
 
-“If something’s faster than me, is it really a dog? It’s Red Hare, isn’t it?”[^5]
+“If something’s faster than me, is it really a dog? It’s Red Hare, isn’t it?”[^3]
 
 “Even after taking that beating, you still haven’t come to your senses.”
 
@@ -366,8 +364,8 @@ After a heavy silence, Jin Wikyung finally managed to speak.
 
 *Why ask when he’d already decided on the answer?*
 
-[^1]: Hyung is a Korean term a man uses for an older brother or an older man he is close to.
-[^2]: Go-stop is a Korean card game commonly played with hwatu cards.
-[^3]: One pyeong is 3.31 m² (35.6 ft²); three pyeong is about 9.93 m² (107 ft²).
-[^4]: A goshiwon is a small, inexpensive rented room, often with shared facilities.
-[^5]: Red Hare is the legendary swift horse associated with the historical warlord Lü Bu.
+[^1]: Go-stop is a Korean card game commonly played with hwatu cards.
+
+[^2]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement; three pyeong is roughly ten square meters.
+
+[^3]: Red Hare is the legendary swift horse associated with the historical warlord Lü Bu.

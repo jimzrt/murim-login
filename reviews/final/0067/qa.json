@@ -1,0 +1,40 @@
+{
+  "chapter": 67,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.995,
+    "length_ratio": 2.418,
+    "source_characters": 5162,
+    "source_paragraphs": 185,
+    "translation_characters": 12481,
+    "translation_paragraphs": 185
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "운기조식",
+        "preferred": "circulate one's qi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사숙",
+        "preferred": "Martial Uncle"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "잠룡",
+        "preferred": "Hidden Dragon"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
