@@ -50,7 +50,7 @@ Still, I nodded solemnly.
 
 “I remember it clearly. It was my one and only dream.”
 
-Chivalrous hero, governor of Gyeonggi Province[^1]—whatever. As of this moment, that was my career aspiration at age six.
+Chivalrous hero, governor of Gyeonggi Province—whatever. As of this moment, that was my career aspiration at age six.
 
 “Ha-ha. To think that little boy would grow into such a fine man.”
 
@@ -202,8 +202,6 @@ The two words *Dark Heaven* had been deeply etched into my mind.
 
 Then something unexpected happened.
 
-Ding.
-
 > **System**
 >
 > You have obtained a small amount of information about **Dark Heaven**.
@@ -231,7 +229,7 @@ The change was easy to spot.
 > **Type:** Elixir  
 > **Grade:** ???  
 > **Restriction:** Peak martial artist or higher  
-> **Description:** A pill manufactured by **Dark Heaven**. For approximately one shichen[^2], it dramatically raises the user’s latent power, but a price follows. Do not take it except in the worst-case scenario.  
+> **Description:** A pill manufactured by **Dark Heaven**. For approximately one shichen, it dramatically raises the user’s latent power, but a price follows. Do not take it except in the worst-case scenario.  
 > **Effect:** Combat-related stats +100  
 > **Internal energy:** +15 years  
 > **Body-Protecting Qi:** Available
@@ -308,7 +306,7 @@ The notoriously potent fire liquor burned down my throat in a rush of heat.
 
 Wow. This was no joke.
 
-I knew it was strong, but drinking it myself, it was far more potent than I’d expected. At this strength, soju[^3] and beer couldn’t even hold a candle to it.
+I knew it was strong, but drinking it myself, it was far more potent than I’d expected. At this strength, soju and beer couldn’t even hold a candle to it.
 
 Unlike me, who shuddered from head to toe, the other three immediately filled their empty glasses to the brim.
 
@@ -400,7 +398,7 @@ The smell of liquor radiating from my entire body was strong enough to send chil
 
 “The Third Young Master beat the Commander? That God of Drinking?”
 
-A buzz spread through the crowd.
+The courtyard buzzed with excitement.
 
 Hyuk Mujin’s look of admiration had gone beyond admiration and become outright reverence.
 
@@ -433,8 +431,6 @@ I cleared my throat and glanced around. And what do you know? The eyes of all th
 “How would I know? I’ve never seen it.”
 
 “Turns out he’s a true man among men.”
-
-Ding.
 
 > **System**
 >
@@ -469,7 +465,3 @@ He answered so matter-of-factly that I was almost thrown off. Hyuk Mujin held ou
 In return for his forearm, I offered him my fist.
 
 Thwack!
-
-[^1]: In Korean, the phrases for “chivalrous hero” (*hyeopui jisa*) and “governor of Gyeonggi Province” (*Gyeonggi-do jisa*) share the sound *jisa*.
-[^2]: A *shichen* is a traditional Chinese time unit of approximately two hours.
-[^3]: *Soju* is a Korean distilled spirit commonly made from grains or starches.
