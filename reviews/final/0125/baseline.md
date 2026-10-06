@@ -42,7 +42,7 @@ A faint dimple appeared at the corner of Lee Seowol’s mouth.
 
 “…Oh. I see.”
 
-At my helpful fact-check, her smile turned awkward. Just then, a rough voice came from behind her.
+Her smile had just turned awkward when a rough voice came from behind her.
 
 “He’s a Benefactor to me.”
 
@@ -250,7 +250,7 @@ Jin Mukyung had just finished circulating his qi when he suddenly muttered, “N
 
 He had joined us after Jin Wikyung lured him in with the promise that he could see Peak martial arts at Mount Heng. I answered him calmly.
 
-“It’s fine. Thanks to Pung Yang, you got to see Mount Beimang.[^2]”
+“It’s fine. Thanks to Pung Yang, you got to see Mount Beimang.”
 
 “You call that consolation?”
 
@@ -315,7 +315,7 @@ No—the only thing I had taken from him.
 > **Type:** Elixir  
 > **Grade:** ???  
 > **Restriction:** Peak martial artist or higher  
-> **Description:** A pill manufactured by an unknown person. It greatly raises the user’s latent power for about one shichen,[^3] but a price must be paid in return. Do not take it except in the worst-case scenario.  
+> **Description:** A pill manufactured by an unknown person. It greatly raises the user’s latent power for about one shichen, but a price must be paid in return. Do not take it except in the worst-case scenario.  
 > **Effect:** Combat-related stats +100  
 >
 > **Internal energy:** +15 years  
@@ -328,7 +328,7 @@ I had no idea how severe the aftereffects were, but if my life were in danger, I
 
 But something else bothered me.
 
-*A pill manufactured by an unknown person.*
+*An elixir manufactured by an unknown person.*
 
 The Item’s Grade was marked with question marks, its exact aftereffects weren’t listed, and even its maker was shrouded in mystery.
 
@@ -347,5 +347,3 @@ Jin Mukyung froze in the middle of enthusiastically hammering Hyuk Mujin’s for
 Yeah, no.
 
 [^1]: A jiazi is a traditional sixty-year cycle.
-[^2]: Mount Beimang is traditionally associated with burial grounds and death.
-[^3]: A shichen is a traditional Chinese time unit of about two hours.
