@@ -1,0 +1,76 @@
+{
+  "chapter": 1159,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 1.805,
+    "source_characters": 5040,
+    "source_paragraphs": 139,
+    "translation_characters": 9099,
+    "translation_paragraphs": 128
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "semantic_probe",
+      "details": {},
+      "message": "생도 should use the established term 'cadet'"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "생도",
+        "preferred": "cadet"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "평화",
+        "preferred": "Peace Guild"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "검신",
+        "preferred": "Sword God"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "고든",
+        "preferred": "Gordon"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

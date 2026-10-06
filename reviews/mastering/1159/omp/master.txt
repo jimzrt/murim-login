@@ -6,7 +6,7 @@ As the iron doors opened with a heavy roar, the Skeleton King had a sudden thoug
 
 If he’d really been human, he might have mistaken the sound for his own heartbeat.
 
-But even without a heart, he could feel it clearly.
+But even without a heart, he could feel something else clearly.
 
 With every step he took, the distance narrowed. With every iron door that opened in turn, the immense magical power ahead of him swelled.
 
@@ -48,7 +48,7 @@ The name escaped the Skeleton King like a groan. Morgoth smiled and nodded.
 
 “So you do know me. Still, it wouldn’t hurt to formally exchange names, as is the custom in this world.”
 
-The Skeleton King understood what he meant and replied, thinking once more of the one person who wasn’t here—and shouldn’t be.
+The Skeleton King understood what he meant. Thinking once more of the one person who wasn’t here—and must not be—he replied.
 
 “Jin Taekyung. Jin Taekyung.”
 
@@ -68,7 +68,7 @@ Morgoth stared at him, momentarily dumbfounded, then burst out laughing.
 
 “Well, you got me. That’s rather funny.”
 
-“Get all your laughing out now. After you’ve taken a few hits in a minute, you won’t find it so funny.”
+“Get all your laughing out now. After you’ve taken a few hits, you won’t find it so funny.”
 
 The Skeleton King made no effort to hide his hostility.
 
@@ -80,13 +80,13 @@ He’d never felt so overwhelmed just by standing before someone.
 
 Strictly speaking, he’d felt something similar once, back when he was called the Skeleton Warlord and fought Jin Taekyung. But there was no comparing the two.
 
-Just as the Jin Taekyung of then couldn’t be compared to the Jin Taekyung of now, the Skeleton King had grown at a terrifying pace, too.
+Just as the Jin Taekyung of then couldn’t be compared to the Jin Taekyung of now, the Skeleton King had grown at a terrifying pace.
 
 If anything, his rate of growth might even have surpassed Jin Taekyung’s.
 
-Since joining Jin Taekyung, he’d defeated one named monster after another, starting with the Arch Lich, and absorbed their vast magical power like nourishment.
+Since joining him, the Skeleton King had defeated one named monster after another, starting with the Arch Lich, and absorbed their vast magical power like nourishment.
 
-He’d become so powerful that the title of king no longer seemed inadequate.
+He’d become powerful enough that the title of king no longer seemed beyond him.
 
 But…
 
@@ -114,7 +114,7 @@ Even with Morgoth watching his every move, it felt as natural as folding his arm
 
 Morgoth tilted his head.
 
-“I’ve lived for a very long time, and yet you’re a fascinating being. I’ve always had a weakness for exceptional talent.”
+“I’ve lived a very long time, yet even to me, you’re fascinating. And I’ve always valued exceptional talent.”
 
 “So you’re telling me to surrender?”
 
@@ -148,8 +148,6 @@ Morgoth watched him and murmured, almost to himself, “How strange. I simply do
 
 “I won’t deny that your foolish choice disappoints me. But that isn’t what I find so hard to understand.”
 
-*Rustle.*
-
 Morgoth’s obsidian eyes moved slowly over his opponent. More precisely, over the Skeleton King and the [Hero’s Sword] in his hand.
 
 His next words sent a shiver through the Skeleton King.
@@ -168,7 +166,7 @@ He couldn’t. It took everything he had just to steady himself against the shoc
 
 Since when?
 
-When he gave his name? Or when he drew a sword instead of the spear Jin Taekyung always used?
+When he gave his name? When he drew a sword instead of the spear Jin Taekyung always used?
 
 Or… had Morgoth known from the moment he first set foot on the pitch-black ground of his territory, leaving the spirits’ pleas behind?
 
@@ -206,7 +204,7 @@ The strike he’d poured all his strength into hadn’t harmed so much as a hair
 
 Rumble, rumble…
 
-Beyond the enormous tremor shaking the space, Morgoth had already moved to the towering throne in the distance. He brought his hands together in a heartfelt round of applause.
+Beyond the tremendous reverberation shaking the chamber, Morgoth stood once more by the towering throne in the distance. He clapped with genuine appreciation.
 
 “Impressive. Truly impressive. Such immense magical power—and of so many different kinds.”
 
@@ -218,7 +216,7 @@ For an instant, the Skeleton King felt his mind go cold.
 
 Morgoth had seen through him.
 
-Too quickly, and with such chilling accuracy.
+Far too quickly, and so completely it made his skin crawl.
 
 Seeing the Skeleton King’s face go rigid, Morgoth broke into a broad smile.
 
@@ -236,7 +234,7 @@ The Skeleton King spat the words out as he approached. Morgoth nodded.
 
 He looked the Skeleton King straight in the eye.
 
-“Just as you learned a lesson through Jin Taekyung, I also realized the most important thing when I heard the news.”
+“Just as you learned a lesson from Jin Taekyung, I realized something important when I heard that news.”
 
 *Whoooom.*
 
@@ -250,7 +248,7 @@ Incredibly powerful, pure magical power filled the chamber, taking the form of i
 
 “I do not underestimate you.”
 
-At the moment the Skeleton King’s eyes widened—
+The Skeleton King’s eyes widened.
 
 *Fwoooosh!*
 
