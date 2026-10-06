@@ -100,7 +100,7 @@ Ignoring the sighs that escaped at the name Little Tide Demon, Jin Taekyung star
 
 Jin Taekyung’s expression hardened. So did the faces of everyone who understood what this meant.
 
-The death of even an ordinary river bandit would have been ominous enough. But this was the Deputy Stronghold Lord of Donghu Stronghold, a Supreme Peak master of the Yangtze River Channel League whose name was renowned throughout Hubei Murim.[^2]
+The death of even an ordinary river bandit would have been ominous enough. But this was the Deputy Stronghold Lord of Donghu Stronghold, a Supreme Peak master of the Yangtze River Channel League whose name was renowned throughout Hubei Murim.
 
 What this sequence of events meant was obvious.
 
@@ -248,7 +248,7 @@ One look around was enough to understand why.
 
 Everything had been shattered and destroyed, but this one water stronghold had once maintained a fleet of some fifty ships and built a settlement filled with houses that would not have looked out of place in a bustling city.
 
-It might not have compared to prestigious great factions such as the Nine Sects and One Gang[^3] or the Five Great Families,[^4] but the river bandits under the Yangtze One Saber must have been formidable elites in their own right.
+It might not have compared to prestigious great factions such as the Nine Sects and One Gang[^2] or the Five Great Families,[^3] but the river bandits under the Yangtze One Saber must have been formidable elites in their own right.
 
 And very few groups could deploy twice that much force against Donghu Stronghold.
 
@@ -264,21 +264,21 @@ No—only a handful.
 
 “The government is the same.”
 
-“Of course. Even a child knows that Murim[^2] and the authorities maintain a relationship of mutual noninterference. Even if the Son of Heaven[^5] had issued an imperial edict to subjugate the stronghold, it could never have been carried out this secretly, hidden from the eyes of the entire realm.”
+“Of course. Even a child knows that Murim and the authorities maintain a relationship of mutual noninterference. Even if the Son of Heaven[^4] had issued an imperial edict to subjugate the stronghold, it could never have been carried out this secretly, hidden from the eyes of the entire realm.”
 
-Murim[^2] was a tree rooted deep within the forest of the world.
+Murim was a tree rooted deep within the forest of the world.
 
 It had grown too tall to prune, and anyone who tried to chop it down carelessly risked damaging the blade of their own ax instead.
 
-That was one of the reasons Murim[^2] had endured even though the owner of the forest had changed many times.
+That was one of the reasons Murim had endured even though the owner of the forest had changed many times.
 
-A towering tree that even the Son of Heaven,[^5] the woodcutter, could not easily raise his ax against.
+A towering tree that even the Son of Heaven,[^4] the woodcutter, could not easily raise his ax against.
 
-That was Murim.[^2] The countless branches and leaves that had sprung from this great tree had grown by joining forces—and, at times, by breaking one another.
+That was Murim. The countless branches and leaves that had sprung from this great tree had grown by joining forces—and, at times, by breaking one another.
 
 The Yangtze River Channel League was one of the thicker branches.
 
-If all the water strongholds scattered across the realm were gathered in one place, they would be a major force in their own right, and the number of masters among them would not fall far behind the Nine Sects and One Gang[^3] or the Five Great Families.[^4]
+If all the water strongholds scattered across the realm were gathered in one place, they would be a major force in their own right, and the number of masters among them would not fall far behind the Nine Sects and One Gang[^2] or the Five Great Families.[^3]
 
 And now that very branch of the Yangtze River Channel League had been broken.
 
@@ -317,7 +317,6 @@ I continued as I watched the familiar faces slowly approaching from the distance
 “That’s what we need to find out now.”
 
 [^1]: A zhang is a traditional Chinese unit of length equal to about 3.03 meters (9.94 ft).
-[^2]: Murim is the world of martial artists and their factions, distinct from ordinary society and government.
-[^3]: The Nine Sects and One Gang is a grouping of major martial-arts organizations.
-[^4]: The Five Great Families is a grouping of prominent martial-arts clans.
-[^5]: Son of Heaven is a traditional title for the Emperor.
+[^2]: The Nine Sects and One Gang is a grouping of major martial-arts organizations.
+[^3]: The Five Great Families is a grouping of prominent martial-arts clans.
+[^4]: Son of Heaven is a traditional title for the Emperor.

@@ -158,7 +158,7 @@ Most were Second or Third Rate swordsmen who fell short of First Rate. Perhaps t
 
 At this point, weren’t they idols rather than martial artists?
 
-It almost made me wonder if the K-pop craze that had begun in Korea had crossed worlds and spread all the way to Murim.[^2]
+It almost made me wonder if the K-pop craze that had begun in Korea had crossed worlds and spread all the way to Murim.
 
 Qingxia Bulletproof Martial Artist Corps. Maybe they had come to play a gig under a name like that.
 
@@ -270,7 +270,7 @@ No. Not one person.
 
 One fucking beggar.
 
-*The Myriad-Li[^3] Chasing Wind Movement Technique?*
+*The Myriad-Li[^2] Chasing Wind Movement Technique?*
 
 That lunatic was actually using a secret technique of the Beggars’ Sect for this?
 
@@ -304,7 +304,7 @@ Unlike Gung Gibang and Hyuk Mujin, who were scooping up silver nyang with all th
 
 But I knew the habits of the creature called Cheongpung inside and out, so it didn’t take me long to find him.
 
-“First, ten sweets, please. Oh, and some jeonbyeong[^4] too. Not the ones you just picked up—the big ones over there, and give me plenty. Wow, thank you! By any chance, where’s the dumpling shop?”
+“First, ten sweets, please. Oh, and some jeonbyeong[^3] too. Not the ones you just picked up—the big ones over there, and give me plenty. Wow, thank you! By any chance, where’s the dumpling shop?”
 
 Snap.
 
@@ -313,6 +313,5 @@ Something inside my head broke. My eyes rolled back until only the whites showed
 “You fucking bastards!”
 
 [^1]: A shichen is a traditional time unit of approximately two hours; three shichen is about six hours.
-[^2]: Murim is the martial world of martial artists and sects.
-[^3]: Li is a traditional Chinese distance unit of approximately 500 m (0.311 mi). Here it is part of the technique’s name.
-[^4]: Jeonbyeong is a Korean thin pancake or crepe.
+[^2]: Li is a traditional Chinese distance unit of approximately 500 m (0.311 mi). Here it is part of the technique’s name.
+[^3]: Jeonbyeong is a Korean thin pancake or crepe.

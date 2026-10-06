@@ -59,7 +59,7 @@ Damn it. Less than an hour.
 
 There wasn’t even time to wonder how such a catastrophe had happened. Someone’s life might depend on every minute—maybe even every second.
 
-I drew as much internal energy as possible from my dantian[^1] and opened my mouth.
+I drew as much internal energy as possible from my dantian and opened my mouth.
 
 “From this moment on, run to Dongting Lake as if your lives depend on it. We save the people first.”
 
@@ -97,7 +97,7 @@ Even I, with martial arts that more than qualified me as a superhuman, felt my b
 
 I had heard plenty about the vastness of Dongting Lake, but seeing it for myself, I realized it was far larger than I had imagined.
 
-There was no way the vessels would be packed close together on such a vast lake. Judging from the distances between them, every ship must have been out enjoying itself at least several hundred zhang[^2] from the others.
+There was no way the vessels would be packed close together on such a vast lake. Judging from the distances between them, every ship must have been out enjoying itself at least several hundred zhang[^1] from the others.
 
 And this was only what I could see immediately. How many more boats and people were submerged beyond my sight?
 
@@ -258,7 +258,7 @@ On the vessel, most of whose hull was already submerged, Gung Gibang and Cheongp
 
 “…Benefactor.”
 
-Their voices sounded faint, as if they were coming from hundreds of zhang[^2] away.
+Their voices sounded faint, as if they were coming from hundreds of zhang[^1] away.
 
 In that suffocating silence, I stared blankly around me.
 
@@ -289,7 +289,7 @@ But…
 > **System**
 >
 > - **Qi Sense** has failed.
-> - The qi[^3] of the desired target could not be detected within range.
+> - The qi of the desired target could not be detected within range.
 
 The System was more merciless than ever.
 
@@ -339,7 +339,7 @@ Cheongpung spoke in a voice more serious than usual.
 
 Gung Gibang stared at me for a moment, then nodded.
 
-“We’ll have to split up. If we tear apart the sunken boats around here and use the pieces, we might be able to keep going for another half a shichen.[^4]”
+“We’ll have to split up. If we tear apart the sunken boats around here and use the pieces, we might be able to keep going for another half a shichen.[^2]”
 
 “You have fifteen minutes. Search as far as you can before then. If you don’t find any survivors, come back.”
 
@@ -371,7 +371,5 @@ And just as I was about to give up on everything—
 
 A tiny, faint voice reached my ears.
 
-[^1]: The **dantian** is an energy center in the abdomen in Chinese martial traditions.
-[^2]: A **zhang** is a traditional Chinese unit of length, approximately 3.3 meters (10.8 ft).
-[^3]: **Qi** is vital energy in Chinese martial traditions.
-[^4]: A **shichen** is a traditional time unit of approximately two hours; half a shichen is about one hour.
+[^1]: A **zhang** is a traditional Chinese unit of length, approximately 3.3 meters (10.8 ft).
+[^2]: A **shichen** is a traditional time unit of approximately two hours; half a shichen is about one hour.

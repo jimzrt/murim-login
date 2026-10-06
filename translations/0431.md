@@ -166,7 +166,7 @@ Thud-thud-thud!
 
 Three unconscious figures in black dropped out of thin air in the distance.
 
-They were all high-level Hunters trained in stealth and concealed by various kinds of magic, but none of them could escape my Qi Sense, which had grown even sharper after the opening of my Middle Dantian.[^1]
+They were all high-level Hunters trained in stealth and concealed by various kinds of magic, but none of them could escape my Qi Sense, which had grown even sharper after the opening of my Middle Dantian.
 
 “What, were you filming me on the sly? You fucking hidden-camera creep.”
 
@@ -242,7 +242,7 @@ I shoved my fingers into the ragged stumps of his arms. The Scorching Yang Qi in
 
 Crack!
 
-My Strength could reduce even a thousand-geun[^2] boulder to powder. The bones in both his legs shattered at once, breaking into hundreds of fragments.
+My Strength could reduce even a thousand-geun[^1] boulder to powder. The bones in both his legs shattered at once, breaking into hundreds of fragments.
 
 “……!”
 
@@ -352,5 +352,4 @@ As we spoke, the Skeleton King muttered quietly.
 
 *That’s a gay bar, dumbass.*
 
-[^1]: The dantian is an energy center in traditional Chinese thought and martial arts. The Middle Dantian is located in the chest.
-[^2]: A thousand Korean geun is about 600 kg (1,320 lb).
+[^1]: A thousand Korean geun is about 600 kg (1,320 lb).

@@ -57,9 +57,19 @@ Also footnote metric quantities already in the English (kilometers, meters, cent
 
 ### Cultural references
 
-Footnote a Korean, Chinese, or other Asian word, custom, institution, food, joke, or allusion when the English does not already carry it: `goshiwon`, `hyung`, `doenjang`, `jeonse`, `murim`. Explain it in one or two sentences. One note per term in the chapter, reused by every later occurrence.
+Footnote a Korean, Chinese, or other Asian word, custom, institution, food, joke, or allusion when the English does not already carry it: `goshiwon`, `hyung`, `doenjang`, `jeonse`. Explain it in one or two sentences. One note per term in the chapter, reused by every later occurrence.
 
 Leave it unnoted when the English is already clear. Do not explain a proverb the translation has already stated, a pun the scene completes, or ordinary vocabulary.
+
+Do not footnote standing series vocabulary. Never add a note whose job is to define any of these, including ordinary variants and compounds:
+
+- Murim
+- qi, including demonic qi, innate qi, and qi deviation
+- dantian, including the Upper, Middle, and Lower Dantian
+- internal energy
+- mana
+
+A note about something else may mention these words. Do not attach a marker to them.
 
 ## Formatting
 

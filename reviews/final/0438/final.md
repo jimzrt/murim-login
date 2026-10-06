@@ -36,17 +36,17 @@ At my tattling, Mungyeong shamelessly added,
 
 “Would you look at this damned old man! You think you’ll get away with pulling something like this?”
 
-“Calm yourself. I merely had something to ask him about his Middle Dantian.”[^1]
+“Calm yourself. I merely had something to ask him about his Middle Dantian.”
 
 Jeok Cheongang had leaned forward as though he were about to charge, but he stopped dead.
 
-“Middle Dantian?”[^1]
+“Middle Dantian?”
 
 “Yes. Surely you didn’t fail to notice.”
 
 “…”
 
-“Opening one’s Middle Dantian[^1] in such a short time is impossible. Even heavenly fortune cannot explain it.”
+“Opening one’s Middle Dantian in such a short time is impossible. Even heavenly fortune cannot explain it.”
 
 Jeok Cheongang looked back and forth between Mungyeong and me, then let out a short laugh.
 
@@ -72,7 +72,7 @@ Mungyeong was left speechless by Jeok Cheongang’s calm, utterly confident resp
 
 The situation moved on so smoothly that even I was caught off guard. As though he had read my thoughts, Jeok Cheongang asked,
 
-“I am curious, though. How exactly did you open your Middle Dantian?”[^1]
+“I am curious, though. How exactly did you open your Middle Dantian?”
 
 “Uh, well. I had a dream, and there was this old man with a sword…”
 
@@ -120,7 +120,7 @@ Jeok Cheongang answered gruffly without turning around.
 
 “About what?”
 
-“No, I mean… the Middle Dantian…”[^1]
+“No, I mean… the Middle Dantian…”
 
 “Stop talking nonsense and follow me. From now on, don’t go anywhere near that old man.”
 
@@ -210,7 +210,7 @@ Mungyeong stared intently at the jar of Jiannan Chun, then shook his head.
 
 Jeok Cheongang’s visit the previous day had been unexpected. Today was different.
 
-Several shichen[^2] earlier, Jeok Cheongang had used Sound Transmission to tell Mungyeong that he would come. Mungyeong had been waiting for him.
+Several shichen[^1] earlier, Jeok Cheongang had used Sound Transmission to tell Mungyeong that he would come. Mungyeong had been waiting for him.
 
 “You’re impatient. That isn’t very assassin-like, either.”
 
@@ -240,9 +240,9 @@ Sometimes covertly and sometimes through direct confrontation, he had accumulate
 
 Even Mungyeong, hailed as the greatest assassin in history and known as the Slaughter Saint, had not reached the Supreme Peak realm until after turning thirty.
 
-He had opened his Middle Dantian[^1] several years later, when he was nearing forty.
+He had opened his Middle Dantian several years later, when he was nearing forty.
 
-Yet Jin Taekyung had left his mark on Murim’s[^3] long history when he was barely past twenty.
+Yet Jin Taekyung had left his mark on Murim’s long history when he was barely past twenty.
 
 In Mungyeong’s estimation, this could only be the work of demonic, heterodox arts—and an unparalleled demonic martial art at that.
 
@@ -270,7 +270,7 @@ But the anger that flashed across Mungyeong’s face vanished without a trace at
 
 “…What did you say?”
 
-“It took that brat only two years to break through the wall of the Supreme Peak realm and open his Middle Dantian.[^1] If this old man were Lü Dongbin, I would have come to him in person instead of appearing in a dream, saying, ‘What an incredible fellow there is in the lower world.’”
+“It took that brat only two years to break through the wall of the Supreme Peak realm and open his Middle Dantian. If this old man were Lü Dongbin, I would have come to him in person instead of appearing in a dream, saying, ‘What an incredible fellow there is in the lower world.’”
 
 Mungyeong first questioned his own ears, then Jeok Cheongang’s state of mind.
 
@@ -316,7 +316,7 @@ Jeok Cheongang turned his head and laughed heartily beneath the moonlight.
 
 If training at Fire Gate Cavern had been a marathon, this was a sprint relay.
 
-During the little over a week it would take to reach Hubei, I had decided to travel back and forth between the modern world and Murim,[^3] juggling two lives.
+During the little over a week it would take to reach Hubei, I had decided to travel back and forth between the modern world and Murim, juggling two lives.
 
 *Ding.*
 
@@ -342,6 +342,4 @@ The Skeleton King answered.
 
 This bastard really went out of his way to get hit.
 
-[^1]: The Middle Dantian is an energy center in the chest associated with the cultivation of internal energy.
-[^2]: A *shichen* is a traditional time unit of approximately two hours.
-[^3]: *Murim* is the world or society of martial artists.
+[^1]: A *shichen* is a traditional time unit of approximately two hours.

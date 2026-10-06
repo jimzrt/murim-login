@@ -86,7 +86,7 @@ Magic Johnson let out a low groan and stared at me, countless emotions mingling 
 
 For some time now, I had felt everything around me beginning to change.
 
-In Murim,[^1] Dark Heaven had begun to stir. In the modern world, the Arch Lich—a Named Monster unlike any that had come before it—had slaughtered millions and brought catastrophe in its wake.
+In Murim, Dark Heaven had begun to stir. In the modern world, the Arch Lich—a Named Monster unlike any that had come before it—had slaughtered millions and brought catastrophe in its wake.
 
 Then there were the mysterious patterns and symbols that had appeared in both worlds.
 
@@ -162,7 +162,7 @@ A minimum of one hundred years without parole?
 
 If I got caught, I’d rot in prison without a chance. Even if I escaped, I’d spend the rest of my life as an internationally wanted fugitive.
 
-I might even end up with a ten-billion-beri[^2] bounty on my head, living as a pirate on Somalia’s Grand Line like some manga character.
+I might even end up with a ten-billion-beri[^1] bounty on my head, living as a pirate on Somalia’s Grand Line like some manga character.
 
 The thought alone was horrifying…
 
@@ -170,11 +170,11 @@ The thought alone was horrifying…
 
 “Korea? Why?”
 
-“If you spread enough money around and hired a former chief prosecutor who could benefit from *jeongwan yewu*,[^3] you probably wouldn’t get much of a sentence.”
+“If you spread enough money around and hired a former chief prosecutor who could benefit from *jeongwan yewu*,[^2] you probably wouldn’t get much of a sentence.”
 
-“Jeongwan yewu?[^3] What’s that?”
+“Jeongwan yewu?[^2] What’s that?”
 
-“It’s a thing. Ah, if you said you’d done it while drunk after downing about five bottles of soju,[^4] you might even get a suspended sentence.”
+“It’s a thing. Ah, if you said you’d done it while drunk after downing about five bottles of soju,[^3] you might even get a suspended sentence.”
 
 Magic Johnson laughed loudly as if he had heard an incredible joke.
 
@@ -272,7 +272,7 @@ Magic Gems were now the essential power source of cutting-edge civilization. Nat
 
 *I’ve put the bait out with what I know… If I wait, someone will bite.*
 
-Just as a sect’s standing in Murim[^1] was determined by the martial artists it possessed, a modern Guild’s standing was determined by the caliber of its Hunters.
+Just as a sect’s standing in Murim was determined by the martial artists it possessed, a modern Guild’s standing was determined by the caliber of its Hunters.
 
 And Go Jun could never fill the void Lee Jungryong had left behind.
 
@@ -334,12 +334,8 @@ Then, as I gazed up at the faint moonlight, a thought suddenly occurred to me.
 
 The time was approaching.
 
-The time to return to another world—to Murim.[^1]
+The time to return to another world—to Murim.
 
-[^1]: *Murim* refers to the world of martial artists and their sects, separate from the modern world.
-
-[^2]: Beri is the fictional currency in the manga *One Piece*. Its Grand Line is a sea route sailed by pirates.
-
-[^3]: *Jeongwan yewu* is the unofficial preferential treatment often afforded to lawyers who formerly served as judges or prosecutors, particularly through their old professional connections.
-
-[^4]: Soju is a clear Korean distilled liquor, commonly served in small glasses.
+[^1]: Beri is the fictional currency in the manga *One Piece*. Its Grand Line is a sea route sailed by pirates.
+[^2]: *Jeongwan yewu* is the unofficial preferential treatment often afforded to lawyers who formerly served as judges or prosecutors, particularly through their old professional connections.
+[^3]: Soju is a clear Korean distilled liquor, commonly served in small glasses.

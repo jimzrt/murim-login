@@ -278,7 +278,7 @@ Someone’s voice pierced my ears, but I didn’t care anymore. I slipped gently
 >
 > Player Jin Taekyung registered to the device.
 >
-> Proceeding to selection. Would you like to log in to Murim?[^7]
+> Proceeding to selection. Would you like to log in to Murim?
 >
 > No response for an extended period. Proceeding automatically.
 >
@@ -290,4 +290,3 @@ Someone’s voice pierced my ears, but I didn’t care anymore. I slipped gently
 [^4]: A pyeong is a Korean unit of area, about 3.31 square meters (35.6 square feet).
 [^5]: Fifty kilograms is about 110 pounds.
 [^6]: A jeonse lease is a Korean rental secured by a large refundable deposit instead of monthly rent.
-[^7]: *Murim* is the martial-arts world of Korean and Chinese martial-arts fiction.

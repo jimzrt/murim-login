@@ -26,7 +26,7 @@ That was not merely an enormous quantity of water gathered together and fired al
 
 With the Mutated Water God Dragon’s immense qi infused into the sphere, it was only right to call it Water Breath from now on.
 
-*Water Breath in the Murim.*[^4]
+*Water Breath in the Murim.*
 
 It would have been more natural if some insane undead monster had insisted it was from Atlanta, Georgia, in the United States.
 
@@ -34,7 +34,7 @@ I stared in horror as the Water Breath vomited by the Water God Dragon pulverize
 
 At the same moment, three figures shot away from the ground being reduced to a wasteland.
 
-“Mimi,[^5] blow up the water orb!”
+“Mimi,[^4] blow up the water orb!”
 
 “…You’re completely insane. I felt murderous intent for a moment there without even realizing it.”
 
@@ -274,7 +274,7 @@ Just as Jeok Cheongang and Mungyeong exchanged determined looks, Cheongpung sudd
 
 “……?”
 
-“It’s true. On the way here, Benefactor… Uh, what was it again? Oh, right. He asked me to call him Aguaman.”[^6]
+“It’s true. On the way here, Benefactor… Uh, what was it again? Oh, right. He asked me to call him Aguaman.”[^5]
 
 What the hell was that supposed to mean?
 
@@ -311,6 +311,5 @@ It was the look of a seasoned Hunter.
 [^1]: An *imugi* is a serpent-like creature in Korean folklore associated with dragons.
 [^2]: A dragon pearl is a legendary orb associated with dragons in East Asian folklore.
 [^3]: One *jang* is about 3.03 meters (9.94 ft). Fifty *jang* is about 150 meters (500 ft).
-[^4]: *Murim* refers to the world and community of martial artists.
-[^5]: Mimi works at Honghwaru. Taekyung’s command imitates the way a Pokémon trainer calls out a creature’s move.
-[^6]: Aguaman is Cheongpung’s mistaken version of Aquaman, a superhero associated with the sea.
+[^4]: Mimi works at Honghwaru. Taekyung’s command imitates the way a Pokémon trainer calls out a creature’s move.
+[^5]: Aguaman is Cheongpung’s mistaken version of Aquaman, a superhero associated with the sea.

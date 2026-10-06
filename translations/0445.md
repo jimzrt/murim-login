@@ -12,7 +12,7 @@ Even to someone who had spent his entire modern life passing through automatic d
 
 *Some kind of machine?*
 
-*No, this was Murim.[^1] Should I call it a mechanism?*
+*No, this was Murim. Should I call it a mechanism?*
 
 The doors contained an intricate arrangement of iron and wooden components, all precisely interlocked.
 
@@ -78,7 +78,7 @@ Jeok Cheongang laughed heartily, then added,
 
 In the next instant, Jeok Cheongang shot upward like a streak of light.
 
-At the same time, a palm strike carrying the tremendous force of ten thousand geun[^2] slammed into the nearest bookshelf.
+At the same time, a palm strike carrying the tremendous force of ten thousand geun[^1] slammed into the nearest bookshelf.
 
 Boom!
 
@@ -88,7 +88,7 @@ It happened before anyone could stop him. I stared at the scene unfolding before
 
 Rumble…
 
-The bookshelf, which looked to be at least three zhang[^3] tall, began to tilt.
+The bookshelf, which looked to be at least three zhang[^2] tall, began to tilt.
 
 And there were hundreds of them.
 
@@ -138,7 +138,7 @@ Compressed air burst outward, scattering the dust cloud. At last, the man came f
 
 A clear voice answered.
 
-“Of course. It was the fifth Mid-Autumn Festival[^4] after my birth. Senior ate two plates of roast duck and drank five jars of Yeoahong,[^5] then fought a duel with Great Hero Peng as the gathering drew to a close and ended up with a bloody nose.”
+“Of course. It was the fifth Mid-Autumn Festival[^3] after my birth. Senior ate two plates of roast duck and drank five jars of Yeoahong,[^4] then fought a duel with Great Hero Peng as the gathering drew to a close and ended up with a bloody nose.”
 
 “What? That Thunderbolt Saber King bastard was there too? We even fought?”
 
@@ -186,7 +186,7 @@ Then again, with everyone else remaining, leaving alone might have drawn even mo
 
 The Zhuge Clan’s intelligence network had already informed Zhuge Feng that this young medical apprentice was the Divine Physician’s Disciple. He gave Mungyeong a curious look, but soon turned away and began to speak.
 
-“It was exactly one month ago. I was in the library, reading the *Records of the Grand Historian*[^6] for the eighty-fifth time, when I heard the news.”
+“It was exactly one month ago. I was in the library, reading the *Records of the Grand Historian*[^5] for the eighty-fifth time, when I heard the news.”
 
 The Nine Sects and One Gang and the Five Great Families were the leading powers of their respective provinces.
 
@@ -284,9 +284,8 @@ At that moment, unrest spread through the group, and a familiar notification ran
 
 Ding.
 
-[^1]: Murim is the world of martial artists and their sects.
-[^2]: A geun is a traditional weight unit equal to 600 g (1.32 lb). Ten thousand geun is 6,000 kg (about 13,200 lb).
-[^3]: A zhang is a traditional length unit equal to ten chi. Three zhang is about 9.09 m (29.8 ft).
-[^4]: The Mid-Autumn Festival is celebrated on the fifteenth day of the eighth lunar month.
-[^5]: Yeoahong is a traditional Chinese rice wine, also known as Daughter’s Red.
-[^6]: The *Records of the Grand Historian* is a history of ancient China compiled by Sima Qian.
+[^1]: A geun is a traditional weight unit equal to 600 g (1.32 lb). Ten thousand geun is 6,000 kg (about 13,200 lb).
+[^2]: A zhang is a traditional length unit equal to ten chi. Three zhang is about 9.09 m (29.8 ft).
+[^3]: The Mid-Autumn Festival is celebrated on the fifteenth day of the eighth lunar month.
+[^4]: Yeoahong is a traditional Chinese rice wine, also known as Daughter’s Red.
+[^5]: The *Records of the Grand Historian* is a history of ancient China compiled by Sima Qian.

@@ -98,7 +98,7 @@ Ding.
 >
 > No response for an extended period. Randomly selecting a character.
 >
-> Searching Murim[^5]… Beginning play as character Jin Taekyung!
+> Searching Murim… Beginning play as character Jin Taekyung!
 >
 > Logged in to Murim.
 >
@@ -483,4 +483,3 @@ At that moment, a single thought filled my head.
 [^2]: A room salon is a Korean private-room entertainment venue where customers are served food, alcohol, and conversation by hostesses.
 [^3]: *Hyung* is a Korean term a man uses to address an older brother or an older male friend.
 [^4]: A *goshiwon* is a Korean building of small, inexpensive single rooms, often rented by students or people living alone.
-[^5]: *Murim* is the martial arts world of Korean and Chinese martial arts fiction: a society of fighters, sects, and clans.

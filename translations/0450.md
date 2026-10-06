@@ -268,7 +268,7 @@ As if pilgrims being massacred right in Wudang’s own front yard weren’t enou
 
 For a moment, the words *Dark Heaven* crossed my mind, but I soon shook my head.
 
-This was Murim.[^2] It was full of lunatics who made modern serial killers look like amateurs.
+This was Murim. It was full of lunatics who made modern serial killers look like amateurs.
 
 Even if someone were murdered in broad daylight on a main road, it would not be all that surprising.
 
@@ -293,4 +293,3 @@ But one bastard—or rather, one gentleman—seemed to have other ideas.
 *Please stay.*
 
 [^1]: A jang is ten traditional Korean ja, about 3.03 m (9.94 ft).
-[^2]: Murim is the martial world of sects, clans, and martial artists.

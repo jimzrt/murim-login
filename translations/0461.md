@@ -18,7 +18,7 @@ I rolled my neck from side to side and stepped forward.
 
 “Shall we begin?”
 
-At those words, three people opened their eyes. They had been circulating their qi[^1] without moving an inch despite the rocking hull.
+At those words, three people opened their eyes. They had been circulating their qi without moving an inch despite the rocking hull.
 
 “I’m ready, Benefactor.”
 
@@ -26,7 +26,7 @@ At those words, three people opened their eyes. They had been circulating their 
 
 “Captain, what should I do?”
 
-Cheongpung, Gung Gibang, and Hyuk Mujin had replenished their qi[^1]. I quickly gave them their orders.
+Cheongpung, Gung Gibang, and Hyuk Mujin had replenished their qi. I quickly gave them their orders.
 
 “Young Hero Cheongpung, follow me to the stern. Gung Gibang, take the bow. Mujin, protect the boatman. I’ll call when I need you, so move the instant I do.”
 
@@ -52,7 +52,7 @@ Using that scream as my signal, I stepped forward.
 
 *Whoooosh!*
 
-Just as the airborne ferryboat was about to drop back onto the water, I drew up the internal energy filling my dantian[^2] and sent it surging into my palms.
+Just as the airborne ferryboat was about to drop back onto the water, I drew up the internal energy filling my dantian and sent it surging into my palms.
 
 *Boom! Booooom!*
 
@@ -270,7 +270,7 @@ And the difference between fighting on land and fighting underwater was as vast 
 
 *The martial arts I’ve learned are particularly vulnerable underwater too.*
 
-Most of the Fire Gate Clan’s martial arts were based on Scorching Yang Qi[^1]—in other words, fire qi[^1].
+Most of the Fire Gate Clan’s martial arts were based on Scorching Yang Qi—in other words, fire qi.
 
 By their very nature, they could not display the same power underwater as they could on land.
 
@@ -339,6 +339,3 @@ I had never imagined the **Water Rescue Worker** Title I’d earned by completin
 Grinning, I began to swim smoothly.
 
 My transparent webbing sliced through the fierce current, propelling me into the distance faster than a fish.
-
-[^1]: Qi is vital energy cultivated and directed through martial arts.
-[^2]: The dantian is an energy center in the lower abdomen where internal energy is gathered.

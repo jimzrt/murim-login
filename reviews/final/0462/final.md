@@ -22,7 +22,7 @@ Most of the martial artists who used his ferryboat were wandering martial artist
 
 He had seen it clearly: Officer Gwak, who was in charge of Dongting Lake, had been visibly flustered as he addressed these people with honorifics.
 
-Considering how arrogant the man usually was, there was no doubt that today’s passengers were important figures who carried considerable weight even in the Murim.[^1]
+Considering how arrogant the man usually was, there was no doubt that today’s passengers were important figures who carried considerable weight even in the Murim.
 
 *If this goes well, I might make a tidy sum.*
 
@@ -54,7 +54,7 @@ Even the young man who seemed to be their leader was cutting through the rough w
 
 *No, that’s not right. This is already the fourth location. He isn’t like a fish—he is a fish.*
 
-What kind of human being had webbed feet and gills? Whenever that young man entered the water, he stayed under for at least a full shichen.[^2]
+What kind of human being had webbed feet and gills? Whenever that young man entered the water, he stayed under for at least a full shichen.[^1]
 
 He had already repeated that impossible feat three times. If anyone deserved to be called a martial master, it was him.
 
@@ -298,5 +298,4 @@ Mungyeong quietly threw himself into the air.
 
 His figure slipped deep into the river as though melting into the water, then glided smoothly toward the depths.
 
-[^1]: Murim is the world of martial artists and their sects, distinct from ordinary society.
-[^2]: A shichen is a traditional time unit of approximately two hours.
+[^1]: A shichen is a traditional time unit of approximately two hours.

@@ -24,7 +24,7 @@ Hyuk Mujin hastily lowered his thumb and muttered, “He’s always picking on m
 
 “Mujin, what did you say?”
 
-“I was saying that the Captain has risen rapidly to become a Morning Star of the Murim![^2]”
+“I was saying that the Captain has risen rapidly to become a Morning Star of the Murim!”
 
 “…”
 
@@ -68,7 +68,7 @@ I gazed at Hyuk Mujin with pity, let out a deep sigh, and said, “No. I told yo
 
 “I stake both your balls on it.”
 
-“Oh. I guess it must be true, then. At last, the fame of the Jin Family’s prodigy, the Swift Wind Sword Hyuk Mujin, has spread throughout the Murim[^2]—”
+“Oh. I guess it must be true, then. At last, the fame of the Jin Family’s prodigy, the Swift Wind Sword Hyuk Mujin, has spread throughout the Murim—”
 
 Hyuk Mujin, who had been grinning from ear to ear, suddenly stopped.
 
@@ -148,7 +148,7 @@ Cheongpung, who had been lingering nearby, rushed over and seized Hyuk Mujin.
 
 How could Hyuk Mujin possibly resist the grappling technique of Huashan’s Morning Star, a Supreme Peak master who had inherited the Sword Saint’s legacy?
 
-I looked down at the helplessly subdued Hyuk Mujin and solemnly declared, “Even if the Murim[^2] perishes tomorrow, I shall plant a single testicle tree.”
+I looked down at the helplessly subdued Hyuk Mujin and solemnly declared, “Even if the Murim perishes tomorrow, I shall plant a single testicle tree.”
 
 “Wait. Wait!”
 
@@ -280,7 +280,7 @@ This transformation had undoubtedly been caused by the magical power leaking fro
 
 The Water God Dragon had sacrificed itself to absorb most of the Gate’s magical power, but it couldn’t have done anything about the residue.
 
-And from what I had personally confirmed just one or two shichen[^3] ago, the Gate was still leaking a faint trace of magical power despite having ceased to function.
+And from what I had personally confirmed just one or two shichen[^2] ago, the Gate was still leaking a faint trace of magical power despite having ceased to function.
 
 *What happens if things like these spread throughout the world? What if it’s contagious?*
 
@@ -371,5 +371,4 @@ A murderous Sound Transmission bored into my ear.
 Then I had better go.
 
 [^1]: “Thumb Princess” is the Korean title for *Thumbelina*, the fairy tale about a tiny girl.
-[^2]: *Murim* is the martial-arts world and its community of martial artists.
-[^3]: A *shichen* is a traditional time unit of approximately two hours.
+[^2]: A *shichen* is a traditional time unit of approximately two hours.

@@ -230,7 +230,7 @@ Though it was performing better than I’d expected.
 
 *No. It’s performing unbelievably well.*
 
-I hadn’t played a game in years, but I wasn’t so clueless that I couldn’t recognize that much. *Murim*[^3] was clearly a high-spec game, yet this old capsule was running it without any trouble.
+I hadn’t played a game in years, but I wasn’t so clueless that I couldn’t recognize that much. *Murim* was clearly a high-spec game, yet this old capsule was running it without any trouble.
 
 That alone was astonishing. So—
 
@@ -360,7 +360,7 @@ That was when—
 >
 > Main Quest unlocked
 >
-> **Failure:** Status Effect Qi Deviation[^4] or Death
+> **Failure:** Status Effect Qi Deviation or Death
 >
 > Would you like to accept the Quest?
 >
@@ -524,7 +524,7 @@ I didn’t notice the old man disappear. I didn’t even hear the System’s voi
 
 My consciousness stirred awake in my head and slid downward. I didn’t know the points shining like stars were acupoints. Everything simply felt familiar, as though it had always been this way.
 
-At last, I reached my dantian.[^5]
+At last, I reached my dantian.
 
 A small but pure energy.
 
@@ -532,7 +532,7 @@ Ten years of internal energy.
 
 *But what’s that?*
 
-In one corner of my dantian[^5] was something else, as large and hard as a boulder.
+In one corner of my dantian was something else, as large and hard as a boulder.
 
 I understood instinctively.
 
@@ -584,6 +584,3 @@ As the System’s final announcement sounded, the coachman spoke.
 
 [^1]: Yama is the lord of the underworld in Buddhist tradition.
 [^2]: *Hyung* is how a Korean man addresses an older brother or an older male friend.
-[^3]: *Murim* refers to the martial-arts world and its community of martial artists.
-[^4]: Qi deviation is a dangerous disruption of the flow of qi during martial-arts training.
-[^5]: The *dantian* is a center in the lower abdomen where internal energy gathers.

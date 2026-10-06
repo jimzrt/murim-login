@@ -8,7 +8,7 @@ Whenever he moved, the chill rising from the underground prison’s cold stone f
 
 Yet no illness could take root in his body.
 
-The several jiazi[^1] of internal energy accumulated in his dantian[^2] over the long years no longer obeyed his control, but they were more than enough to protect his aged body.
+The several jiazi[^1] of internal energy accumulated in his dantian over the long years no longer obeyed his control, but they were more than enough to protect his aged body.
 
 And that only enraged him further.
 
@@ -80,7 +80,7 @@ The smile on the young man’s lips—Jin Taekyung’s lips—vanished as if wip
 
 In the modern world, torturing prisoners was classified as an illegal act. If such a fact became known, even a Great Nation would be condemned by the international community.
 
-But this was Murim.[^3] The authority of the law was hazy, and the line between man and beast even hazier.
+But this was Murim. The authority of the law was hazy, and the line between man and beast even hazier.
 
 And as far as I was concerned, the Three Fiends was closer to a beast wearing human skin.
 
@@ -124,7 +124,7 @@ But this wasn’t enough. I stared at the Three Fiends as he trembled, nearly se
 
 It wasn’t as though he had known nothing.
 
-For the first few shichen,[^4] he had held out through sheer spite. But as the torture neared its final stages, he had grown talkative enough to fill five bamboo slips with densely packed writing.
+For the first few shichen,[^2] he had held out through sheer spite. But as the torture neared its final stages, he had grown talkative enough to fill five bamboo slips with densely packed writing.
 
 Yet most of it was useless or concerned events from the past, and the information I needed most had never come out.
 
@@ -276,7 +276,7 @@ I shoved the bamboo slips into my robe and immediately went in search of one man
 
 Zhuge Gyun, the Divine Marvel Dragon and Lesser Family Head of the Zhuge Clan, had been issuing orders in place of the Family Head, Zhuge Feng. His eyes widened at my noisy arrival.
 
-“What brings you here in such haste? My ancestor Zhuge Wuhou said that a junzi[^5] should always conduct himself properly and remain tranquil…”
+“What brings you here in such haste? My ancestor Zhuge Wuhou said that a junzi[^3] should always conduct himself properly and remain tranquil…”
 
 “Shut up. Are the people ready?”
 
@@ -289,7 +289,5 @@ Zhuge Gyun, the Divine Marvel Dragon and Lesser Family Head of the Zhuge Clan, h
 “Dongting Lake.”
 
 [^1]: A **jiazi** is a traditional sixty-year cycle.
-[^2]: The **dantian** is a bodily center where internal energy is gathered, traditionally located in the lower abdomen.
-[^3]: **Murim** is the martial world: the community of martial artists and their factions.
-[^4]: A **shichen** is a traditional time unit of roughly two hours.
-[^5]: A **junzi** is the Confucian ideal of a morally upright gentleman.
+[^2]: A **shichen** is a traditional time unit of roughly two hours.
+[^3]: A **junzi** is the Confucian ideal of a morally upright gentleman.

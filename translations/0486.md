@@ -204,7 +204,7 @@ Jeok Cheongang stared at Mungyeong’s furrowed brow and continued slowly.
 
 Dharma King Hong Dao’s prediction had become reality.
 
-Only a year later, Shaolin—the Mount Tai and Northern Dipper[^2] of the Murim[^3]—had been covered in blood and corpses, and the wise high monk who loved alcohol and meat had met his death.
+Only a year later, Shaolin—the Mount Tai and Northern Dipper[^2] of the Murim—had been covered in blood and corpses, and the wise high monk who loved alcohol and meat had met his death.
 
 By then, the dark cloud called Dark Heaven had spread over Henan, Sichuan, and Hubei.
 
@@ -216,7 +216,7 @@ Deep regret filled Jeok Cheongang’s eyes as he looked at Mungyeong.
 
 “Things we cannot understand are happening. Everything we knew is collapsing.”
 
-People often compared the Murim[^3] to the Yangtze.
+People often compared the Murim to the Yangtze.
 
 *The waves behind on the Yangtze push the waves ahead.* That was why the saying existed.
 
@@ -234,7 +234,7 @@ More precisely, that was what Jeok Cheongang wanted to believe.
 
 His body and heart had already grown old and worn. He was not yet ready to accept such a shocking story.
 
-“Anyway, I’m only asking to put my mind at ease. Anything can happen in this goddamn Murim.[^3] It would hardly be surprising if one old man growing weaker by the day were to die.”
+“Anyway, I’m only asking to put my mind at ease. Anything can happen in this goddamn Murim. It would hardly be surprising if one old man growing weaker by the day were to die.”
 
 Mungyeong stared at Jeok Cheongang with a strange look in his eyes.
 
@@ -314,4 +314,3 @@ Mungyeong was too dumbfounded to speak. Meanwhile, having said everything he wan
 
 [^1]: The Korean word *sal* can mean both “years of age” and “flesh,” allowing Jeok Cheongang to twist Mungyeong’s question about his age into “thigh meat.”
 [^2]: “Mount Tai and Northern Dipper” is an honorific for a preeminent authority, likening that standing to a prominent mountain and the guiding stars.
-[^3]: *Murim* is the world of martial artists and their sects.
