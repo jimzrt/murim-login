@@ -78,7 +78,8 @@ Enforce these four patterns. Repair System, speech, thought, and chat formatting
 - **System.** Each real game System panel is one Markdown blockquote headed exactly `> **System**`. Keep the panel’s lines inside that blockquote. Start a new panel only when prose intervenes. Do not wrap System text in square brackets or label a manual, sign, or ordinary quotation as System. A manual or remembered notice keeps its own label, such as `> **Warning**` or `> **Product User Manual**`. That label is not a System panel, and it is not drift.
 - **Speech.** Spoken dialogue uses curly double quotes (`“` `”`). Not straight quotes, not italics.
 - **Thoughts.** Direct thoughts are italics with no quotation marks.
-- **Chat and comments.** Public comment threads and private chat logs shown as threads are one unheaded blockquote. Each message line begins with `└`, as in `> └ message`. Do not add a `**Chat**` heading. Ordinary spoken dialogue stays in curly quotes.
+- **Chat and comments.** Public comment threads and private chat logs shown as threads are one blockquote. Each message line begins with `└`, as in `> └ **Name:** message`. Keep a thread title that is not itself a message, such as `> **Peace Guild**`, on its own line above the messages. Do not add a `**Chat**` heading. A status line that is only a name or level, such as `> **Lv. 22 Hyuk Mujin**`, is not a chat message. Leave that line unchanged, including the bold. Ordinary spoken dialogue stays in curly quotes.
+- **Headings.** The only Markdown heading is `# Chapter N`. Do not add `##` or `###`. A diary title or similar label stays a bold line, `**Training Day 1**`, even when the mastered copy used a smaller heading.
 
 Leave narration as narration. Scene breaks stay `* * *`, with the same count as the source.
 

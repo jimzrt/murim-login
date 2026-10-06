@@ -68,6 +68,41 @@ class FinalQaTest(unittest.TestCase):
         qa = self.assess(bad_thought, bad_thought)
         self.assertTrue(any(item["code"] == "thought_format" for item in qa["errors"]))
 
+    def test_diary_headings_and_chat_labels_are_kept(self):
+        from tools.final_qa import normalize_reading_copy
+
+        baseline = "\n".join([
+            "# Chapter 1",
+            "",
+            "### Training Day 1",
+            "",
+            "> **Lv. 22 Hyuk Mujin**",
+            "",
+            "> **Peace Guild**",
+            ">",
+            "> **Team Leader Choi**",
+            "> Is everyone awake?",
+            "",
+            "The hall was quiet. " * 8,
+        ])
+        candidate = "\n".join([
+            "# Chapter 1",
+            "",
+            "### Training Day 1",
+            "",
+            "> Lv. 22 Hyuk Mujin",
+            "",
+            "> └ **Team Leader Choi:** Is everyone awake?",
+            "",
+            "The hall was quiet. " * 8,
+        ])
+        normalized = normalize_reading_copy(baseline, candidate)
+        self.assertNotIn("###", normalized)
+        self.assertIn("**Training Day 1**", normalized)
+        self.assertIn("> **Peace Guild**", normalized)
+        qa = self.assess(normalized, baseline)
+        self.assertFalse(any(item["code"] in {"heading", "panel_heading"} for item in qa["errors"]), qa["errors"])
+
     def test_warning_heading_must_stay(self):
         baseline = chapter(
             "> **Warning**\n>\n> - The player cannot log out at will.\n\n"

@@ -39,15 +39,79 @@ def _panel_heading_counts(text: str) -> dict[str, int]:
     return counts
 
 
+def _panel_label(line: str) -> str | None:
+    match = PANEL_HEADING.match(line.strip())
+    if not match:
+        return None
+    return match.group(0)[len("> **") : -len("**")].strip()
+
+
+def _blockquote_has_label(line: str, label: str) -> bool:
+    stripped = line.strip()
+    if not stripped.startswith(">"):
+        return False
+    if stripped in {f"> **{label}**", f"> {label}"}:
+        return True
+    return re.search(r"\*\*" + re.escape(label) + r"(?:\*\*|:)", stripped) is not None
+
+
 def missing_panel_headings(baseline: str, candidate: str) -> list[str]:
-    """Bold blockquote labels in the mastered copy, such as `> **Warning**`."""
+    """Bold blockquote labels in the mastered copy, such as `> **Warning**`.
+
+    A chat rewrite keeps the label when the same bold name remains on a
+    blockquote line, including `> └ **Name:** message`.
+    """
     base = _panel_heading_counts(baseline)
-    cand = _panel_heading_counts(candidate)
     missing: list[str] = []
     for heading, count in base.items():
-        if cand.get(heading, 0) < count:
+        label = _panel_label(heading)
+        if label is None:
+            continue
+        found = sum(1 for line in candidate.splitlines() if _blockquote_has_label(line, label))
+        if found < count:
             missing.append(heading)
     return missing
+
+
+def _chat_titles(baseline: str) -> list[str]:
+    """Panel lines that name a thread above later speaker labels."""
+    lines = [line.strip() for line in baseline.splitlines()]
+    titles: list[str] = []
+    for index, line in enumerate(lines):
+        if _panel_label(line) is None:
+            continue
+        for nxt in lines[index + 1 : index + 6]:
+            if not nxt or nxt == ">":
+                continue
+            if _panel_label(nxt) is not None:
+                titles.append(line)
+            break
+    return titles
+
+
+def normalize_reading_copy(baseline: str, candidate: str) -> str:
+    """Keep the chapter heading as the only ATX heading and restore panel labels."""
+    lines: list[str] = []
+    for line in candidate.splitlines():
+        match = re.match(r"^#{2,6}\s+(.+?)\s*$", line.strip())
+        if match:
+            lines.append(f"**{match.group(1).strip()}**")
+            continue
+        lines.append(line)
+    missing_titles = [
+        title
+        for title in _chat_titles(baseline)
+        if not any(_blockquote_has_label(line, _panel_label(title) or "") for line in lines)
+    ]
+    if missing_titles:
+        for index, line in enumerate(lines):
+            if line.strip().startswith("> └"):
+                lines[index:index] = missing_titles
+                break
+    text = "\n".join(lines)
+    if candidate.endswith("\n"):
+        text += "\n"
+    return text
 
 
 def baseline_preserved(baseline: str, candidate: str) -> float:

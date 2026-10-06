@@ -18,7 +18,7 @@ BRIEF_PATH = ROOT / "FINAL.md"
 IN_FLIGHT = {"RUNNING", "QA_FAILED", "READY_TO_COMMIT"}
 
 try:
-    from tools.final_qa import assess
+    from tools.final_qa import assess, normalize_reading_copy
     from tools.mastering import (
         atomic_json,
         atomic_text,
@@ -33,7 +33,7 @@ try:
     )
 except ModuleNotFoundError:
     sys.path.insert(0, str(ROOT / "tools"))
-    from final_qa import assess
+    from final_qa import assess, normalize_reading_copy
     from mastering import (
         atomic_json,
         atomic_text,
@@ -272,7 +272,9 @@ def command_run(number: int) -> None:
         except RuntimeError as exc:
             raise SystemExit(str(exc)) from None
         try:
-            candidate = normalize_chapter(slice_chapter(output, number))
+            candidate = normalize_reading_copy(
+                baseline, normalize_chapter(slice_chapter(output, number))
+            )
             validate_chapter(candidate, number, "final")
         except ValueError as exc:
             last_qa = {
