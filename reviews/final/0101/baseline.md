@@ -24,15 +24,15 @@ When Im Chunsoo first received the report on the Peace Guild, he had doubted his
 
 There, in the photograph, was a face from his hazy memories—a face he had been certain he would never see again.
 
-“Wh-who did you say this man was?”
+*Wh-who did you say this man was?*
 
-“Peace Guild Master Kim Hwajong. He’s fifty-five years old and a B-rank Hunter.”
+*Peace Guild Master Kim Hwajong. He’s fifty-five years old and a B-rank Hunter.*
 
-“Kim Hwajong? A B-rank Hunter?”
+*Kim Hwajong? A B-rank Hunter?*
 
-“Yes. Is something wrong?”
+*Yes. Is something wrong?*
 
-“No, no. He looks like someone I used to know. I mistook him for that person.”
+*No, no. He looks like someone I used to know. I mistook him for that person.*
 
 *That figures.*
 
@@ -44,7 +44,7 @@ No matter how bizarre the world had become, the dead could not come back to life
 
 *Even if that bastard had come back to life, he wouldn’t be rotting away in a place like this. I simply mistook him for some washed-up old B-rank Hunter.*
 
-That day, Im Chunsoo drank a glass of soju[^1] for the first time in a long while and tried to shake off his uneasy feelings. It was an attempt to cast off the terrible memories that had clung to his ankles even after he turned fifty.
+That day, Im Chunsoo drank a glass of soju for the first time in a long while and tried to shake off his uneasy feelings. It was an attempt to cast off the terrible memories that had clung to his ankles even after he turned fifty.
 
 *Damn. I’m this old, and I’m still like this.*
 
@@ -58,7 +58,7 @@ But then… why did ominous premonitions never turn out to be wrong?
 
 A quiet voice chanting a spell rang out, and a wall of fire surged upward.
 
-Fwoosh! Fwoosh!
+*Fwoosh! Fwoosh!*
 
 Blue flames burning at an extreme temperature vaporized the ice spikes, which were harder than steel, without leaving a trace.
 
@@ -78,7 +78,7 @@ As he stood frozen like a stone, Jin Taekyung asked him,
 
 “Are you two close?”
 
-*What? Close?*
+What? *Close?*
 
 Im Chunsoo swallowed the torrent of curses rising from deep in his lungs and turned around.
 
@@ -260,7 +260,7 @@ While he reflected deeply on his mistake, Im Chunsoo laid into the Security Team
 
 “Well, look at that. You certainly know how to answer. After causing this mess, are you still a Team Leader just because you’re technically still a Team Leader?”
 
-“I’m sorry!”
+“I’m sorry, Guild Master!”
 
 “Are the others keeping their mouths shut because they did such a good job? Do you want me to make my sword dance today?”
 
@@ -298,49 +298,49 @@ Until now, I had thought of him as nothing more than a Senior Hunter from a dist
 
 *He worked an A-rank mage like a dog—and Im Chunsoo, no less.*
 
-He had made a former war hero do a hundred sets of PT Exercise No. 8[^2], then later kicked him in the shin with his dress shoe. Even now, the way he had calmly berated Im Chunsoo in that gentle voice sent chills down my spine.
+He had made a former war hero do a hundred sets of PT Exercise No. 8, then later kicked him in the shin with his dress shoe. Even now, the way he had calmly berated Im Chunsoo in that gentle voice sent chills down my spine.
 
-“Trainee, who uses mana during PT exercises?”
+*Trainee, who uses mana during PT exercises?*
 
-Whack!
+*Whack!*
 
-“Trainee Number One Im Chunsoo. S-sorry, sir.”
+*Trainee Number One Im Chunsoo. S-sorry, sir.*
 
-“Does it hurt? Now that you’ve gotten older, has your voice gotten quieter, too?”
+*Does it hurt? Now that you’ve gotten older, has your voice gotten quieter, too?*
 
-“No, sirrrrr!”
+*No, sirrrrr!*
 
-“Attention. At ease. Attention. At ease.”
+*Attention. At ease. Attention. At ease.*
 
-Snap-snap-snap-snap!
+*Snap-snap-snap-snap!*
 
-“On your backs. On your fronts. On your backs. On your backs.”
+*On your backs. On your fronts. On your backs. On your backs.*
 
-Gasp.
+*Gasp.*
 
-“Trainee, didn’t you hear this Instructor say on your backs? Get your head straight.”
+*Trainee, didn’t you hear this Instructor say on your backs? Get your head straight.*
 
-“I’ll correct it, sirrrr!”
+*I’ll correct it, sirrrr!*
 
-“And why are you bullying an innocent junior? Hasn’t this Instructor told you time and again that Seniors and juniors should help each other?”
+*And why are you bullying an innocent junior? Hasn’t this Instructor told you time and again that Seniors and juniors should help each other?*
 
-“S-sorry, sir.”
+*S-sorry, sir.*
 
-“Repeat after me. Cherish your junior on the way down. Cherish your junior on the way up. One. Two.”
+*Repeat after me. Cherish your junior on the way down. Cherish your junior on the way up. One. Two.*
 
-“Cherish my junior!”
+*Cherish my junior!*
 
-“Trainee, I remember you’re Class 25. Am I right?”
+*Trainee, I remember you’re Class 25. Am I right?*
 
-“Trainee Number One Im Chunsoo. Yes, sir.”
+*Trainee Number One Im Chunsoo. Yes, sir.*
 
-“This Instructor is Class 3. If what happened today gets out or happens again, Classes 4 through 24 will assemble without exception.”
+*This Instructor is Class 3. If what happened today gets out or happens again, Classes 4 through 24 will assemble without exception.*
 
-“……”
+*…*
 
-“Why aren’t you answering? Prepare for squat jumps.”
+*Why aren’t you answering? Prepare for squat jumps.*
 
-“P-prepare, sir…”
+*P-prepare, sir…*
 
 He worked him over, and over, and over again.
 
@@ -383,6 +383,3 @@ Seeing my thoughts written plainly across my face, Butler Kim curled up the corn
 “Now that I think about it, it’s already dinnertime. Tomorrow is the last day of my vacation, so I have to sign a real-estate contract, too. Hahaha.”
 
 “……”
-
-[^1]: Soju is a Korean distilled alcoholic drink, commonly made from rice or other starches.
-[^2]: PT Exercise No. 8 is a numbered physical-training drill in Korean military-style calisthenics.
