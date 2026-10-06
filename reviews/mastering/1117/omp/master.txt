@@ -6,13 +6,13 @@ Not to the east, west, south, or north. Not even in the sky.
 
 Rain and blood drenched everything, while screams and crashes rang out without pause.
 
-And yet there was one exception: a hill rising tall several hundred jang from the East Gate.
+There was only one exception: a hill rising several hundred jang from the East Gate.
 
 *It’s really coming down out there.*
 
 Hardly the sort of thought someone in a life-or-death crisis could afford to have.
 
-As he watched the sky pour down thick sheets of rain, as though a giant hole had opened overhead, the black-robed man suddenly turned east.
+The black-robed man watched the sky pour down thick sheets of rain, as though a giant hole had opened overhead. Then he turned east.
 
 Whoooosh.
 
@@ -120,7 +120,7 @@ The black-robed man bit his lip.
 
 It was a real pain in the ass.
 
-The combined forces of the Yangtze River Channel League and the Green Forest Alliance, who should have arrived at the battlefield by now, were still nowhere to be seen. Meanwhile, the spies who were supposed to open the East Gate were caught up in an unexpected fight.
+The combined forces of the Yangtze River Channel League and the Green Forest Alliance should have reached the battlefield by now, but there was still no sign of them. Meanwhile, the spies who were supposed to open the East Gate when they arrived were caught up in an unexpected fight.
 
 To make matters worse, Ma Sanbao—effectively their direct superior—wasn’t there today. The black-robed man would have to make the call himself.
 
@@ -132,7 +132,7 @@ CLANK. GRRRRNNG!
 
 The iron bridge began to move with a heavy grinding sound.
 
-The massive bridge connected to the moat in front of the gate. It was coming down like a ray of light.
+The massive bridge was lowering toward the moat in front of the gate, like a ray of light cutting through the darkness.
 
 *The bridge is connected to the gate. It can only be operated from inside.*
 
@@ -164,7 +164,7 @@ At that instant—
 
 —KROOOAAAR!
 
-With a roar as immense as their bodies, a thousand monsters surged toward the battlefield like a wave.
+With roars to match their immense bodies, a thousand monsters surged toward the battlefield like a wave.
 
 THUDDUDDUDDUD!
 
@@ -198,7 +198,7 @@ He had an army at his back. And beyond the iron bridge, which had descended near
 
 There was no doubt. He wasn’t seeing things.
 
-As the iron bridge lowered on its chains, the enormous iron gate began to open. The sight was clear in the black-robed man’s eyes, brimming with delight.
+As the bridge lowered on its chains, the enormous iron gate began to open. He could see it clearly.
 
 Tss-tss-tss-tss!
 
@@ -208,13 +208,13 @@ The two corpse sorcerers shook their ritual bells with confident sweeps of their
 
 Time seemed to slow. The black-robed man held his breath and watched the battlefield.
 
-Flashes of light flickered without pause atop the wall, which was shrouded in crashes and dust. The bridge, more than halfway down, now covered the moat.
+Flashes burst without pause atop the wall amid crashes and dust. The bridge, now more than halfway down, was stretching over the moat.
 
 Only a little over a hundred jang remained.
 
 *Faster. Faster…!*
 
-The monsters leading the charge thundered forward, their footsteps like thunderclaps. Beside them, the ghost horse carrying the two Black Ghosts galloped as if it were a specter.
+The leading monsters’ footsteps thundered across the ground. Beside them, the ghost horse carrying the two Black Ghosts galloped with uncanny speed.
 
 Whoooosh!
 
@@ -268,9 +268,7 @@ Then the middle-aged man’s face emerged, his eyes glowing red as if to prove h
 
 “……You.”
 
-The black-robed man slowly parted his lips.
-
-At that moment—
+The black-robed man had barely spoken when—
 
 Slice!
 
@@ -278,7 +276,7 @@ A streak of light cut through the dust and across the middle-aged man’s—no, 
 
 A voice rang out, thick with sorrow and anger.
 
-“By the solemn rules of the Great Kunlun Sect, I execute the criminals of our sect.”
+“By the solemn rules of the Great Kunlun Sect, I execute those who have sinned against our sect.”
 
 THUD. FWOOSH.
 
@@ -296,7 +294,7 @@ But the shock lasted only a moment. There were fewer than three thousand defende
 
 “You dare try such a shoddy trick?”
 
-It was a trap—but at the same time, it wasn’t.
+It was a trap, but it was hardly enough.
 
 The gate had shut out the fanatics following them, but their strongest forces—the Black Ghosts and the monsters—were already inside.
 
@@ -310,7 +308,7 @@ The black-robed man frowned at him. There was something about the young man’s 
 
 Just then, a young beggar with grime streaming down his face spoke up.
 
-“Quit calling me a beggar. It hurts the feelings of the beggar listening.”
+“Quit saying ‘beggar’ every other word. You’ll hurt the beggar’s feelings.”
 
 “Who the hell are you…?”
 
@@ -328,7 +326,7 @@ A cold-faced young man cut him off. Then a clear voice, utterly at odds with the
 
 “Oh. Got mixed up. My lord is smart, as expected.”
 
-“Not bad. Still, not as good as me.”
+“Not bad. Still, not as smart as me.”
 
 Young men and women the corpse sorcerers had never seen before. A hulking man who looked none too bright. A wild-haired eccentric.
 
@@ -338,7 +336,7 @@ More precisely, they didn’t think it was worth asking.
 
 “Wipe them all out.”
 
-The ritual bell began to move with his quiet mutter.
+The ritual bell began to move with his quiet command.
 
 Boooooo!
 

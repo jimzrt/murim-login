@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Even with nearly ten thousand of our people watching those bandits?”",
+      "defect": "The source says as many as ten thousand allied troops are watching the bandits, not nearly ten thousand. “Nearly” implies a number below ten thousand.",
+      "id": "F01",
+      "rationale": "무려 일만에 달하는 emphasizes the scale of ten thousand; it does not describe a near-but-lower count.",
+      "replacement": "“Even with as many as ten thousand of our people watching those bandits?”",
+      "severity": "minor",
+      "source": "Korean line 51"
+    },
+    {
+      "confidence": 0.88,
+      "current": "*If you want to live, row with every last bit of strength you’ve got. It’ll save us both a headache.*",
+      "defect": "The source says that rowing hard means neither side will be tired or worn out. “Save us both a headache” changes that physical consequence into avoiding trouble.",
+      "id": "F02",
+      "rationale": "그래야 피차 피곤하지 않을 테니 explicitly refers to both sides not becoming tired.",
+      "replacement": "*If you want to live, row with every last bit of strength you’ve got. That way, neither of us will wear ourselves out.*",
+      "severity": "minor",
+      "source": "Korean line 71"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with two minor shifts in quantity and meaning.",
+  "version": 1
+}
