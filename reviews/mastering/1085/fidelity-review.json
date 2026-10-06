@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "who had lived off the Yangtze with the world’s tacit consent",
+      "defect": "“Lived off” conveys dependence on the river but loses the source’s explicit image of the pirates living parasitically on it. The accepted baseline preserved that image.",
+      "id": "F01",
+      "rationale": "The source says 기생하여 살아가던, explicitly describing them as living parasitically off the Yangtze.",
+      "replacement": "who had lived parasitically off the Yangtze with the world’s tacit consent",
+      "severity": "minor",
+      "source": "Lines 26–28"
+    }
+  ],
+  "summary": "One minor fidelity regression: the assembled copy drops the source’s parasitic image.",
+  "version": 1
+}

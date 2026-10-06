@@ -6,9 +6,9 @@ From mouth to mouth.
 
 On the beating wings of messenger pigeons.
 
-Along with the hooves of horses racing across mountains and fields under the crack of whips, and the smoke of beacon fires staining the sky gray.
+On the hooves of horses racing across mountains and fields under the crack of whips, and in the smoke of beacon fires staining the sky gray.
 
-Before the people shaken by the astonishing news could even determine whether it was true, they saw it with their own eyes.
+Before the people shaken by the news could even determine whether it was true, they saw it with their own eyes.
 
 Countless ships cutting swiftly through the river, their flags billowing proudly in the favorable wind.
 
@@ -54,11 +54,11 @@ And people belatedly realized that storm clouds were gathering beyond the distan
 
 Potala Palace.
 
-The news that the esoteric monks—counted among the Three Outer Powers alongside the North Sea Ice Palace and Nanman Beast Palace—had finally broken their long silence and stirred to action surprised no one in the Murim.
+The news that its esoteric monks—counted among the Three Outer Powers alongside the North Sea Ice Palace and Nanman Beast Palace—had finally broken their long silence surprised no one in the Murim.
 
-In their eyes, as people of the Central Plains, Potala Palace had been nothing more than a pseudo-religion following evil doctrines since the distant past.
+To those firmly rooted in the Central Plains, Potala Palace had long been nothing more than a false sect following evil doctrines.
 
-The New Murim Alliance had sent envoys to seek an alliance several times since its founding, but Potala Palace had always answered with silence. For them to act now, in a situation like this, could only mean one thing.
+Since its founding, the new Murim Alliance had sent envoys several times to seek an alliance, but Potala Palace had never answered. For it to act now could mean only one thing.
 
 “…Dark Heaven. It’s them again.”
 
@@ -76,7 +76,7 @@ It wasn’t entirely wrong.
 
 The Yangtze River Channel League and the Green Forest Alliance together had nearly twenty thousand men, but if numbers alone were enough to take everything, the Murim world would belong to the Beggars’ Sect.
 
-Everyone was confident that the orthodox factions, now completely united around the Murim Alliance, wouldn’t be shaken by a force this small.
+Everyone was confident that the orthodox factions, now united around the Murim Alliance, wouldn’t be shaken by a force of this size.
 
 “Shaanxi has Huashan and Zhongnan, and Hubei has Wudang and the Zhuge Clan. If the Son of Heaven’s Imperial Army moves out too, those bastards will regret joining hands with Dark Heaven.”
 
@@ -96,7 +96,7 @@ Like a snowball growing as it rolled down a snowy slope.
 
 “Weren’t there only around three thousand half a day ago?”
 
-“W-Well, it seems the forces scattered among the various strongholds have joined them.”
+“W-Well, it seems men from the other strongholds have joined them.”
 
 “That’s absurd!”
 
@@ -114,13 +114,13 @@ The existence of the Moving Formation had once been guarded with the strictest s
 
 As long as people had eyes and ears, secrets would eventually get out.
 
-The Murim Alliance leadership and the Hidden Shadow Pavilion, led by the Thousand-Faced Fox Song Ho, had stepped forward, but for some reason, the secret of the Moving Formation had still gotten out. Now that the Sect Leaders and Family Heads had confirmed it was real, a chill ran through them.
+The Murim Alliance leadership and the Hidden Shadow Pavilion, led by the Thousand-Faced Fox Song Ho, had taken the lead. Yet somehow, word of the Moving Formation had still spread. Now that the Sect Leaders and Family Heads had confirmation it was real, a chill ran through them.
 
 *We have to strike. Right now.*
 
 The Yangtze River Channel League and the Green Forest Alliance were, after all, coalitions of separate groups.
 
-Their Stronghold Lords commanded anywhere from a few dozen to several hundred, or even a thousand, men each. They pledged loyalty to their respective alliance leaders and repeatedly gathered and dispersed at their command.
+Their Stronghold Lords commanded anywhere from a few dozen to several hundred—even a thousand—men each. They pledged loyalty to their respective alliance leaders, gathering and dispersing at their command.
 
 Now was the best time to strike.
 
@@ -138,17 +138,17 @@ The Moving Formations alone posed an enormous threat, and there was no guarantee
 
 Shaolin, the Mount Tai and Northern Dipper of the Murim, had suffered terrible losses. So had the Sichuan Tang Clan, which held its place among the Five Great Families with deadly poisons and hidden weapons. Even Nanman Beast Palace and the Hebei Peng Family had been badly hit.
 
-That wasn’t all. According to reports, the Kongtong and Zhongnan Sects had also been hit hard in Gansu.
+And that wasn’t all. According to reports, Kongtong and Zhongnan had also suffered devastating losses in Gansu.
 
-The damage was no less severe than during the Great Faction War, a time no one wanted to remember. If anything, it was worse.
+The damage rivaled that of the Great Faction War, a time no one wanted to remember. It might even be worse.
 
 The Nine Sects and One Gang. The Five Great Families.
 
-With even the fifteen great trees supporting the Murim world trembling at their roots in the typhoon stirred up by Dark Heaven’s storm clouds, it was no easy thing to summon the courage to risk everything and face the danger.
+Even those fifteen great trees supporting the Murim world were trembling at their roots in the storm stirred up by the dark clouds of Dark Heaven. Risking everything to face that danger took courage few could easily summon.
 
 Least of all Sect Leaders and Family Heads, who were responsible for their dependents’ lives as well as their own.
 
-“I… I give up.”
+“I… I’m withdrawing.”
 
 “Sir Seok! What are you saying?”
 
@@ -204,7 +204,7 @@ It was just like him. That didn’t make it any less ridiculous.
 
 “Pardon?”
 
-As the others stared at him in bewilderment, the middle-aged man clutched the front of his trousers, looking grave.
+As the others stared at him, the middle-aged man gripped the waistband of his trousers, looking grave.
 
 “My bladder’s about to burst.”
 
@@ -222,13 +222,13 @@ He rambled on until he noticed their expressions, then smacked his lips.
 
 “Please go. We’re begging you.”
 
-“Oh? Then it’s all right if I do?”
+“Oh? Then you don’t mind?”
 
 “Yes. For our sake, please.”
 
 “You’ve begged me so earnestly three times. I suppose I’ll have to follow the story of the Three Visits to the Thatched Cottage.”
 
-The middle-aged man smiled at the half-resigned group—Zhuge Feng, Family Head of the Zhuge Clan, or rather, the Crouching Dragon Guest—and hurried out.
+Smiling at the half-resigned group, the middle-aged man—Zhuge Feng, the Crouching Dragon Guest and Family Head of the Zhuge Clan—hurried out.
 
 He didn’t head for the privy. Instead, he wound through maze-like paths for some time before reaching the garden in the Inner Hall, where only the Family Head was permitted to enter. There he finally stopped.
 
