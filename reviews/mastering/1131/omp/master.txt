@@ -12,7 +12,7 @@ But the low voice that reached my ears a moment later reminded me that this was 
 
 I looked up at the old man, dazed.
 
-Then, recalling the formless qi that had flown across the space moments ago, cleaving it in two and missing me by no more than a thread, I parted my lips.
+I thought of the formless qi that had flown toward me, cleaving the space in two and missing me by no more than a thread’s width.
 
 “Yes. I saw it.”
 
@@ -24,7 +24,7 @@ Everything felt natural. The respect that had crept into my voice, and the way t
 
 The old man stroked his snow-white beard, which hung down to his knees.
 
-“How could that be? It must have been formless.”
+“How could that be? It was formless.”
 
 “It had a form. For that moment, at least.”
 
@@ -32,7 +32,7 @@ The old man stroked his snow-white beard, which hung down to his knees.
 
 “I didn’t see it with my eyes.”
 
-“You saw it, but didn’t see it. Then what was it?”
+“You saw it without seeing it? Then how did you see it?”
 
 “That…”
 
@@ -122,17 +122,17 @@ Why was this happening? How was it possible?
 
 The vast, endless gray-white space was shaking.
 
-Cracks spread in every direction like a pane of glass about to shatter, and the figure of the man standing beyond it twisted along with the shifting space.
+Cracks ran through it like glass about to shatter. Beyond them, the figure of the old man twisted along with the space.
 
 “Don’t be alarmed. The time we were granted is simply coming to an end.”
 
 His voice was calm, at odds with the impossible sight before me.
 
-Then, recalling a fragment of a memory I’d long forgotten, I finally spoke.
+I stared at him. Then a piece of a memory I’d long forgotten came back to me.
 
 “I’ve met you before. I’m sure of it.”
 
-The old man smiled faintly.
+The old man smiled.
 
 “Is that what you think?”
 
@@ -162,7 +162,7 @@ Faced at last with a truth this immense, I trembled as the shock washed over me 
 
 At the same time, I knew it instinctively. The old man would never answer, and even this brief meeting was drawing to a close.
 
-“No need to answer. You already know.”
+“No need for me to answer. You already know that.”
 
 Grgrgrk.
 
@@ -176,7 +176,7 @@ The space contorted. I could no longer make out the old man’s face, but I shou
 
 “Jin Taekyung.”
 
-Then, cutting me off, he spoke.
+His voice dropped, cutting off the rest of my question.
 
 “Do your best. Only then can you save everyone—and yourself.”
 
@@ -192,7 +192,7 @@ The world in my sight rushed past as I was drawn away. Something glimmering touc
 
 —Take it. This is the last gift this old man can give you.
 
-I instinctively clenched my hand around it.
+I grabbed it on instinct.
 
 As my consciousness faded, I heard a sound from somewhere. A clear bell chime I’d been certain I would never hear again.
 
@@ -224,21 +224,21 @@ The emptiness that thought brought lasted only a moment. His gaze soon grew calm
 
 After all, no one had forced him to become a prisoner here. He had chosen it himself.
 
-“Yes. So that’s enough.”
+“Yes. That’s enough.”
 
 He murmured the words as though renewing a promise to himself, then started walking.
 
-Then, suddenly, he stopped and turned to look back along the way he’d come.
+A moment later, he stopped and turned to look back along the path he had taken.
 
-Or, more precisely, at the place where the guest who had visited after so long had stayed.
+No—at the place where his first visitor in so long had stood.
 
 “Jin Taekyung.”
 
 The name left his lips, and he wondered if Taekyung could do it. If the choice he had made had truly been the right one.
 
-And if he’d made the wrong choice, how terrible and cruel would the future ahead be?
+And if he was wrong, what terrible, cruel future awaited them?
 
-The old man had already made his choice, and thanks to his help, Jin Taekyung had been given another chance.
+But there was no point dwelling on it. He had already made his choice, and with his help, Jin Taekyung had been given another chance.
 
 “I suppose I’ll have to put my faith in you.”
 
@@ -266,7 +266,7 @@ Despite his Master’s plea for him to live, he had gone somewhere far away.
 
 *I’m sorry, Master.*
 
-That final voice wouldn’t leave his ears.
+Those last words would not leave Jeok Cheongang’s ears.
 
 The corners of Taekyung’s mouth, raised with effort into a smile for his grieving Master. His half-closed, empty eyes. Even now, the sight seared into Jeok Cheongang’s heart like a brand.
 
@@ -278,4 +278,4 @@ A tear rolled down the Master’s cheek and fell onto his dead Disciple’s hand
 
 Sss.
 
-The surface of the blood rippled with a sudden tremor, and the finger submerged in it moved.
+The surface of the blood trembled. A finger submerged in it moved.

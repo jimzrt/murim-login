@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is faithful overall, with one omitted physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 339",
+      "current": "onto his dead Disciple’s hand.",
+      "defect": "The Korean specifies that the tear landed on the back of the Disciple’s hand (손등), not merely on the hand.",
+      "replacement": "onto the back of his dead Disciple’s hand.",
+      "rationale": "손등 specifically means the back of the hand; the current wording drops that physical detail.",
+      "confidence": 0.99
+    }
+  ]
+}
