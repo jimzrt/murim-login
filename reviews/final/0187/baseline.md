@@ -214,7 +214,7 @@ After some hesitation, I asked uneasily,
 
 “What?”
 
-“You know, that sort of thing. *I covet that man’s muscles. I want to do bench presses with him while we strip off each other’s Under Armour*[^1]. Something like that…”
+“You know, that sort of thing. *I covet that man’s muscles. I want to do bench presses with him while we strip off each other’s Under Armour.* Something like that…”
 
 “What the hell are you talking about?”
 
@@ -224,7 +224,7 @@ Chulwoo frowned. Judging by his expression, that wasn’t what he meant.
 
 “Gay? What’s that?”
 
-“Well, to put it metaphorically, I suppose it’s the process by which a pair of Diglett[^2] meet and become Dugtrio[^3].”
+“Well, to put it metaphorically, I suppose it’s the process by which a pair of Diglett meet and become Dugtrio.”
 
 “I can’t understand a word you’re saying. Explain it simply.”
 
@@ -365,7 +365,3 @@ No. A girl.
 *Lee Seowol.*
 
 It was her.
-
-[^1]: Under Armour is an American sportswear brand.
-[^2]: Diglett is a small, single-headed Pokémon that emerges from the ground.
-[^3]: Dugtrio is a Pokémon depicted as three Diglett-like heads together.
