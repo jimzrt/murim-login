@@ -116,7 +116,7 @@ Mujin blinked.
 
 “…What?”
 
-“The Shanxi Provincial Office, where the City Lord resides, is half a shichen[^1] west of here, and the Jin Family of Taiyuan is one shichen[^1] east. Starting a sword fight for no reason would only make your life miserable. Even the lowest wandering martial artists pretend to be Great Heroes of Benevolence and Righteousness in Taiyuan. You didn’t know that?”
+“The Shanxi Provincial Office, where the City Lord resides, is half a shichen west of here, and the Jin Family of Taiyuan is one shichen east. Starting a sword fight for no reason would only make your life miserable. Even the lowest wandering martial artists pretend to be Great Heroes of honor and justice in Taiyuan. You didn’t know that?”
 
 What the hell was this guy talking about?
 
@@ -132,11 +132,11 @@ After a brief silence, I spoke.
 
 “…Books?”
 
-“Yes. There was a bookstore run by an old man in front of my house. For one nyang[^2] in iron coins, you could read for half a shichen[^1]. That’s where I nurtured my dreams.”
+“Yes. There was a bookstore run by an old man in front of my house. For one nyang in iron coins, you could read for half a shichen. That’s where I nurtured my dreams.”
 
 Mujin gazed out the window with a nostalgic look in his eyes.
 
-“*The Shop Assistant Becomes a Sword God, You Must Hurt to Become a Martial Artist, The Son of Murim Walks Three and a Half Times Around the Nine Provinces and Eight Wastes*[^3], and so on… They were really interesting.”
+“*The Shop Assistant Becomes a Sword God, You Must Hurt to Become a Martial Artist, The Son of Murim Walks Three and a Half Times Around the Nine Provinces and Eight Wastes,* and so on… They were really interesting.”
 
 “Oh, so you decided to become a martial artist after reading those books.”
 
@@ -150,13 +150,13 @@ Mujin gazed out the window with a nostalgic look in his eyes.
 
 I was an idiot for being impressed.
 
-This wuxia-novel[^4] otaku[^5] bastard was confusing fiction with reality. I grabbed Mujin by the lapels.
+This wuxia-novel otaku bastard was confusing fiction with reality. I grabbed Mujin by the lapels.
 
 “Do you think novels and reality are the same? Huh? Didn’t any of the novels you read have someone getting beaten to death for running his mouth?”
 
 “W-wait! Wait! I’ve never personally witnessed anything like that, but the Murim is more than capable of—”
 
-“Right. Next otaku.[^5]”
+“Right. Next otaku.”
 
 *Smack!*
 
@@ -234,7 +234,7 @@ At the official’s pointed cough, the fallen man’s face turned bright red.
 
 The young prodigy who had fallen flat on his face got back up on legs trembling like a newborn calf. The official unfurled a red silk scroll.
 
-“Ahem. Young prodigies of Murim, receive this royal command! I, the younger brother of the sacred Son of Heaven[^6]…”
+“Ahem. Young prodigies of Murim, receive this royal command! I, the younger brother of the sacred Son of Heaven…”
 
 “Eek!”
 
@@ -387,10 +387,3 @@ With a triumphant smile, I waved at Cheongpung.
 He was a young prodigy who was no less than a Peak master.
 
 “Have you ever seen a member of the imperial family?”
-
-[^1]: A shichen is a traditional Chinese time unit of about two hours; half a shichen is about one hour.
-[^2]: Nyang is a traditional unit of currency. Here it denotes an amount in iron coins, not modern won.
-[^3]: “Nine Provinces and Eight Wastes” is a literary expression for the whole world.
-[^4]: Wuxia is a genre of Chinese martial-arts adventure fiction.
-[^5]: Otaku is a Japanese term for a person with an intense interest in a hobby or fandom.
-[^6]: Son of Heaven is a traditional title for the Emperor.
