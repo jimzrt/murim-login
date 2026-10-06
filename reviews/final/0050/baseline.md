@@ -94,7 +94,7 @@ They lived in several colonies under a single tribe, and this seemed to be one o
 
 “This is the small colony closest to the entrance. There should be about twenty, so let’s take them out quickly and move on.”
 
-Team Leader Choi hacked through the vines as he advanced. He was usually a pretty-faced young master, but once actual combat began, he was no joke. Watching him barrel forward like an eight-ton[^1] truck with a broken steering wheel, I could practically smell the machismo.
+Team Leader Choi hacked through the vines as he advanced. He was usually a pretty-faced young master, but once actual combat began, he was no joke. Watching him barrel forward like an eight-ton truck with a broken steering wheel, I could practically smell the machismo.
 
 *He’s fucking cool.*
 
@@ -112,7 +112,7 @@ Mostly, I was fascinated to see monsters I’d only ever encountered in photos a
 
 Even the smallest of the twenty stood a head taller than me.
 
-They were at least two meters[^2] tall, with lean muscles and thick tails that made them look even larger.
+They were at least two meters tall, with lean muscles and thick tails that made them look even larger.
 
 *Still not as big as the Hobgoblin Great Warrior I fought yesterday, though.*
 
@@ -134,7 +134,7 @@ As expected of a lizard expert. He even stood there with his arms casually folde
 
 “Keiik!”
 
-They had closed to within twenty meters.[^3] I grinned at Team Leader Choi.
+They had closed to within twenty meters. I grinned at Team Leader Choi.
 
 “These guys have no fear.”
 
@@ -142,7 +142,7 @@ They had closed to within twenty meters.[^3] I grinned at Team Leader Choi.
 
 “Aha.”
 
-In the meantime, the distance shrank to ten meters.[^4] Team Leader Choi’s folded arms were starting to bother me.
+In the meantime, the distance shrank to ten meters. Team Leader Choi’s folded arms were starting to bother me.
 
 “I think it’s about time we started fighting.”
 
@@ -258,7 +258,7 @@ Ding.
 >
 > - All **Lizardmen** in this Gate are hostile toward you. They will never stop until they have avenged this grudge!
 
-At the same time, the Lizardman Slayer’s Harpoon traced a heavy arc. The forms of the Jin Family’s Spear Technique, now at Seven Stars,[^5] poured toward them.
+At the same time, the Lizardman Slayer’s Harpoon traced a heavy arc. The forms of the Jin Family’s Spear Technique, now at Seven Stars, poured toward them.
 
 Crunch!
 
@@ -456,7 +456,7 @@ Kim Sangshik answered uneasily.
 
 “That’s not what I meant.”
 
-“…Yes, hyung.”[^6]
+“…Yes, hyung.”
 
 “Good. That sounds much better. Keep calling me that from now on.”
 
@@ -464,7 +464,7 @@ Kim Sangshik answered uneasily.
 
 “I’ve carried you for twenty-one years. I’ve done more than enough. I’ll speak to the rest of Team Three separately, so you’re leaving the Guild as of today.”
 
-“H-hyung.”[^6]
+“H-hyung!”
 
 “Shut your mouth, leave quietly, and I won’t block your path. Once you’re out, do whatever you want.”
 
@@ -505,10 +505,3 @@ Along with that, the latest news about the bottom-tier Hunter who had recently l
 Half envy and half jealousy, the conversations always ended with the same question.
 
 “Where is Mr. Taekyung now, and what’s he doing?”
-
-[^1]: Eight metric tons is about 8,000 kg, or 17,600 lb.
-[^2]: Two meters is about 6 ft 7 in.
-[^3]: Twenty meters is about 66 ft.
-[^4]: Ten meters is about 33 ft.
-[^5]: “Seven Stars” renders *chil seong*, a Korean expression indicating seven-tenths mastery here.
-[^6]: *Hyung* is how a man addresses an older brother or an older man with whom he has a close relationship.
