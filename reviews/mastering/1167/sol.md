@@ -8,9 +8,9 @@ More precisely, it was something beyond attack or defense.
 
 The question surfaced through Jin Taekyung’s hazy consciousness. He tilted the White Flame’s spearhead, wreathed in blue-black fire, upward.
 
-Toward the Dragon’s Breath pouring down to blanket the sky.
+Toward the Dragon’s Breath pouring down across the sky.
 
-Like a fool trying to stop a waterfall with an umbrella that had no fabric.
+Like a fool trying to stop a waterfall with an umbrella that had no ribs.
 
 *Shh.*
 
@@ -28,17 +28,17 @@ As time resumed its rapid flow, his eyes flew wide before he even realized it.
 
 It was splitting apart.
 
-A massive pillar of magical power, several meters in diameter, was splitting into dozens of streams the moment it touched the spearhead.
+The massive pillar of magical power, several meters across, split into dozens of streams the moment it touched the spearhead.
 
 Even now, it continued to split.
 
-*How is that possible?*
+*How?*
 
 Morgoth had lived for thousands of years.
 
 Sometimes as a human, an elf, or a dwarf. Sometimes wearing the hide of a monster. He had enjoyed the pleasures only the strong could afford and amassed countless experiences and knowledge.
 
-That was precisely why Morgoth found this all the harder to understand.
+That only made this harder to understand.
 
 How was such a thing possible?
 
@@ -46,7 +46,7 @@ How could a human smaller than his claw read the flow of energy within Dragon Br
 
 But Morgoth’s questions were no more than empty echoes.
 
-Even Jin Taekyung, lost in Trance, couldn’t properly answer them.
+Even Jin Taekyung, lost in Trance, couldn’t have answered them.
 
 No—his consciousness had retreated somewhere so deep and distant that he didn’t even know what he was doing.
 
@@ -76,7 +76,7 @@ Some were red, others blue.
 
 Some shone a dazzling white. Others held a darkness so pure he couldn’t fathom its depth.
 
-The dozens of kinds of Magic that arrived a step behind the Breath were just like that.
+The dozens of spells arriving a step behind the Breath were among them.
 
 Water, fire, ice, gusts of wind, lightning.
 
@@ -102,13 +102,13 @@ Wreathed in flame, the iron spear streaked through space like a bolt of lightnin
 
 Sky and earth shook.
 
-The spells, which had exploded before reaching their target, painted the sky in a dazzling display. Witnessing the unbelievable sight, the Black Dragon opened his enormous jaws wide.
+The spells exploded before reaching their target, painting the air with bursts of color. At the unbelievable sight, the Black Dragon opened his enormous jaws wide.
 
-He drew even more power from the vast magical force dormant within his Dragonheart.
+He drew still more of the vast magical power lying within his Dragonheart.
 
 *Rrrrrumble!*
 
-An immense pressure came through the spearhead.
+Immense pressure bore down through the spearhead.
 
 And then, beneath the Dragon’s Breath pouring down harder and harder without pause, Jin Taekyung raised the knee buried deep in the ground.
 
@@ -150,7 +150,7 @@ Slowly, without hesitation, Jin Taekyung advanced.
 
 Toward the enormous shadow in his dream-blurred vision, with the spearhead shining alone at the center of the pitch-black Breath to light his way like a torch.
 
-And behind him stood a comrade willing to brave any danger for his sake.
+And behind him stood a comrade willing to risk danger for his sake.
 
 “May the flames of hell consume our enemies—”
 
@@ -164,13 +164,13 @@ The sky flushed red. A dozen or so fireballs emerged from between the storm clou
 
 *Rrrrrumble!*
 
-The spell was complete. A fierce heat rushed in, scorching the sky.
+The completed spell rushed toward him, its fierce heat scorching the sky.
 
-But Morgoth wasn’t even slightly startled by this sudden attack.
+But Morgoth wasn’t the least bit startled.
 
 No—when he saw that it was Magic, not a blade, coming for him, he sneered in anger.
 
-He was no one but a Dragon.
+He was a Dragon.
 
 Born of wonder, one of the species that ruled Magic—and once the Dragon Lord who had led all his kind from the highest place.
 
@@ -194,7 +194,7 @@ The deadliest injury a mage could suffer.
 
 Yet a gentle smile had formed on the Grand Mage’s blood-soaked lips.
 
-Because the brief opening he had created gave someone else a chance, even if only for a moment, to escape the gravity.
+The instant of distraction he had created had freed someone else from the gravity, if only for a moment.
 
 “Go, Jin.”
 
@@ -202,9 +202,9 @@ His lips barely moved around the faint words.
 
 *Fwoosh.*
 
-Flames surged from the tip of Jin Taekyung’s foot as it touched down.
+Flames surged up around Jin Taekyung’s foot as he stepped forward.
 
-Heat strong enough to overcome the momentarily weakened gravity and carry him beyond the range of the Magic surrounding a radius of dozens of meters.
+Their heat gave him enough power to overcome the briefly weakened gravity and escape the spell’s range, which covered dozens of meters around him.
 
 *KABOOM!*
 
@@ -220,9 +220,9 @@ Jin Taekyung raced forward, cutting through the Dragon Breath that stretched ahe
 
 The closer he came—and the more danger Morgoth sensed—the fiercer the Breath pouring toward the ground became. It didn’t matter.
 
-If anything, the rougher it grew, the more clearly he could follow the flow of its power.
+The rougher it grew, the more clearly he could follow the flow of its power.
 
-Leaving behind the countless roars and screams blanketing the battlefield.
+He left the countless roars and screams behind him.
 
 Without a moment’s hesitation, he pressed on. Forward, and farther forward.
 
@@ -268,7 +268,7 @@ Master of the lofty Silver Mountain. Archduke of the Demon Realm.
 
 The ancient Black Dragon muttered to himself, alone in the slowed world, and spread his enormous wings.
 
-Then he dove toward the small figure shooting skyward once more, cutting through the heavens.
+Then he dove toward the small figure rising into the sky once more.
 
 *PAAAM!*
 
@@ -286,11 +286,11 @@ As if they had lived for this moment alone.
 
 “I—I…!”
 
-Beyond the howling wind, Morgoth let out a fierce cry and put everything he had into a slash of his massive claw.
+Beyond the howling wind, Morgoth cried out and brought his massive claw down with everything he had.
 
 At that same instant, he realized something.
 
-The foreleg he had just swung had already been cut by someone else.
+Someone else had already cut the foreleg he was swinging.
 
 And the wound remained even now, after he had returned to his true form.
 
@@ -298,15 +298,15 @@ And the wound remained even now, after he had returned to his true form.
 
 A shallow wound, but one that had never healed.
 
-To some, he had been no more than a trophy. To someone else, he had been a friend. Perhaps it was Morgoth’s instinct that made him remember, at that very moment, the final trace of the Skeleton King’s stubborn resolve.
+To Morgoth, the Skeleton King had been nothing more than a trophy. To someone else, he had been a friend. Perhaps it was instinct that made Morgoth remember that final trace of his resolve now.
 
 Perhaps.
 
 Just perhaps.
 
-The long game he had played for thousands of years might finally be coming to an end.
+The long game he had played for thousands of years was finally coming to an end.
 
-And ominous instincts were never wrong.
+And ominous premonitions never missed their mark.
 
 *Shhk.*
 
