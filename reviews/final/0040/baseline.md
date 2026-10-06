@@ -20,9 +20,9 @@ He drew his sword and roared.
 
 Hundreds of weapons were drawn in unison. The man strode forward and took the lead. The cloud of dust crossing the gorge scattered, revealing countless people.
 
-“Waaaaah!”
+— Waaaaah!
 
-“Wipe out those Jin Family bastards!”
+— Wipe out those Jin Family bastards!
 
 The man suddenly looked up. When he spotted me, he grinned.
 
@@ -38,15 +38,17 @@ I desperately flapped my wings—or rather, my arms—before realizing what had 
 
 *It was a dream.*
 
+Thank god. I thought I was a goner.
+
 Thank god. I thought I was a goner. Only after catching my breath did the situation in the room come into focus.
 
-“This is a breaking news report. A new Gate has appeared at Exit 3 of Hapjeong Station. Magical power measurements have confirmed it as a Grade C Gate, and…”
+— This is a breaking news report. A new Gate has appeared at Exit 3 of Hapjeong Station. Mana measurements have confirmed it as a C-rank Gate, and…
 
 A small TV sat on the desk, showing an announcer. And then there was—
 
 “What the hell was that?”
 
-Jinho hyung[^1] stood there with a pot lid in one hand and chopsticks in the other, staring at me like I was out of my mind.
+Jinho stood there with a pot lid in one hand and chopsticks in the other, staring at me like I was out of my mind.
 
 “Some kind of performance art?”
 
@@ -110,7 +112,9 @@ He looked thoroughly fed up. This time, though, I had something to back up my st
 
 “What do you think? A product user manual.”
 
-“…Don’t tell me.”
+“…”
+
+“Don’t tell me…”
 
 “Yeah. It was inside that capsule. Read it.”
 
@@ -188,7 +192,9 @@ He pulled out his smartphone and started tapping the screen. He seemed to be sea
 
 “Read the rest too.”
 
-By the time he reached the last page, he’d really feel like he’d been haunted. Jinho turned the pages with a serious expression.
+By the time he reached the last page, he’d really feel like he’d been haunted. Jinho hyung turned the pages with a serious expression.
+
+Jinho turned the pages with a serious expression.
 
 Once.
 
@@ -258,11 +264,11 @@ The graphics were good. I could give it that.
 
 But that was as far as it went.
 
-The NPCs’ faces and movements. Their dialogue patterns. All five senses as I experienced them through my character. All of it felt unnatural.
+The NPCs’ faces and movements. Their dialogue patterns. The sensory feedback from my character. All of it felt unnatural.
 
 It was a *game*. It never felt like *reality*.
 
-“Do you have any wuxia[^2] games?”
+“Do you have any wuxia games?”
 
 “Ah, so that’s what you’re into? There are quite a few. What’s the title you’re looking for?”
 
@@ -286,7 +292,7 @@ Not ever again.
 
 * * *
 
-Hope Goshiwon.[^3]
+Hope Goshiwon.[^1]
 
 I sat beneath the old, rusted sign and pulled out my smartphone. The other end picked up almost before it could ring.
 
@@ -342,7 +348,7 @@ Her tone was sharper than usual. Exam stress must have been getting to her.
 
 “Two.”
 
-“That’s still Grade 1.[^4] What about the other subjects?”
+“That’s still Grade 1.[^2] What about the other subjects?”
 
 “Two across all subjects.”
 
@@ -364,7 +370,7 @@ I knew she was good at studying, but I hadn’t realized she was this good. Thin
 
 “W-what kind of nonsense is that? I was pretty good at studying too, you know. You just don’t remember because you were in elementary school…”
 
-“Last week during a deep clean, I found your report card. There were so many Grade 7s[^4] I thought it was a slot machine that had hit the jackpot.”
+“Last week during a deep clean, I found your report card. There were so many Grade 7s I thought it was a slot machine that had hit the jackpot.”
 
 “You need some allowance, right? How much does makeup cost these days?”
 
@@ -474,7 +480,6 @@ Seong Jinho stubbed out his cigarette in a flowerpot and was about to leave when
 
 It was probably just some half-assed prank, but there was no harm in looking into it.
 
-[^1]: *Hyung* is a Korean term a man uses for an older brother or an older male friend.
-[^2]: *Wuxia* is a Chinese genre of stories about martial heroes.
-[^3]: A *goshiwon* is a low-cost Korean boarding house consisting of extremely small private rooms with shared facilities.
-[^4]: Korean exam grades use a 1–9 scale, with Grade 1 the highest.
+[^1]: A goshiwon is a low-cost Korean boarding house consisting of extremely small private rooms with shared facilities.
+
+[^2]: Korean mock exams use a 1–9 scale; Grade 1 is the highest.
