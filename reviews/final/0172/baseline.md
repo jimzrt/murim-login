@@ -276,7 +276,7 @@ Jeok Cheongang laughed with evident delight.
 
 It had been more than forty years earlier.
 
-The Demonic Cult’s Hundred Thousand Demonic Disciples had devoured half the world. As the tide of war turned against the orthodox faction, the orthodox Murim sought out even the reclusive eccentrics hidden deep within remote mountains and valleys.
+The Demonic Cult’s hundred thousand followers had devoured half the world. As the tide of war turned against the orthodox faction, the orthodox Murim sought out even the reclusive eccentrics hidden deep within remote mountains and valleys.
 
 That was when the Sword Saint Mae Jonghak visited Mount Jiuhua.
 
