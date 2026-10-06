@@ -202,7 +202,7 @@ Jin Wikyung’s body trembled. The anger and sorrow drained from his face, leavi
 
 “The war has only just begun. Isn’t that so, Lesser Family Head?”
 
-The Head Elder offered a fist-and-palm salute.[^1] I bit down hard on my lip.
+The Head Elder offered a fist-and-palm salute. I bit down hard on my lip.
 
 *What an impossible old man to figure out.*
 
@@ -236,7 +236,7 @@ I did my best to hide my surprise, but the Head Elder regarded me with a strange
 
 I never expected to hear that ridiculous nickname from the Head Elder.
 
-“I’ve also heard that you are acquainted with Yama Whip.[^2] They say you joined forces with him to defeat the Heavenly Axe.”
+“I’ve also heard that you are acquainted with Yama Whip. They say you joined forces with him to defeat the Heavenly Axe.”
 
 “Cough. Cough.”
 
@@ -310,9 +310,9 @@ But things were different from here on out.
 
 *It’s communal living, right?*
 
-We would eat together and sleep together. I couldn’t exactly perform the magic trick of making a two-meter[^3] iron spear pop out of thin air whenever I needed it.
+We would eat together and sleep together. I couldn’t exactly perform the magic trick of making a two-meter iron spear pop out of thin air whenever I needed it.
 
-Once I hung the wooden plaque engraved with *Captain* at my waist, I felt like I’d become Ordinary Martial Artist #1 of the Jin Family of Taiyuan.
+Once I hung the wooden plaque engraved with *Squad Leader* at my waist, I felt like I’d become Ordinary Martial Artist #1 of the Jin Family of Taiyuan.
 
 *Not just an ordinary martial artist. I’m a reconnaissance squad captain.*
 
@@ -324,7 +324,7 @@ Of course, there had been some fierce disagreement over it. The Head Elder wante
 
 *In the end, they compromised.*
 
-I would serve as a reconnaissance captain, a position whose duties were not especially difficult—but under the command of the White Tiger Hall Master, who belonged to the Council of Elders’ faction.
+I would serve as a reconnaissance captain, a position whose duties were not especially difficult—but under the command of the Leader of White Tiger Hall, who belonged to the Council of Elders’ faction.
 
 Before I knew what was happening, the position was mine.
 
@@ -364,7 +364,7 @@ Good lord, there was even a beehive under the eaves. I had never seen one that b
 
 Look at those benefits.
 
-Or maybe this was a mean-spirited prank by the White Tiger Hall Master, who disliked me. Perhaps he couldn’t openly give me grief yet, so this was his way of telling me to eat shit.
+Or maybe this was a mean-spirited prank by the Leader of White Tiger Hall, who disliked me. Perhaps he couldn’t openly give me grief yet, so this was his way of telling me to eat shit.
 
 *All right. Let’s give it a shot.*
 
@@ -373,7 +373,3 @@ I took a deep breath, opened the door, and stepped inside.
 Creeeak.
 
 The old floor wailed beneath my foot, the sound especially ominous.
-
-[^1]: A fist-and-palm salute is a traditional martial greeting made by bringing a closed fist and an open palm together.
-[^2]: Yama is the lord of the underworld in Buddhist tradition.
-[^3]: Two meters is about 6.6 ft.
