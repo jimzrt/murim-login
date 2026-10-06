@@ -10,7 +10,7 @@ They couldn’t choose between them. They couldn’t refuse them.
 
 The victors were different.
 
-So, three days ago, just after the bloody battle around the Great Snow Mountain ended in a crushing victory for our side, we were given a new choice.
+So, three days ago, just after the bloody battle around the Great Snow Mountain ended in a crushing victory for our side, we were given a choice.
 
 Would we deal with the aftermath and stay to protect Gansu Province? Or would we move to stop the Dark Heaven forces advancing somewhere else?
 
@@ -22,7 +22,7 @@ No—more accurately, everyone respected my wishes.
 
 The snowfield was covered in flames and smoke that day.
 
-The fire, consuming tens of thousands of corpses, burned as if it would never go out. And my sudden announcement must have felt unbearably cruel to those watching the scene, their tears falling without end.
+The fire consuming tens of thousands of corpses burned as if it would never go out. My sudden announcement must have seemed unbearably cruel to the people watching it through endless tears.
 
 Yet even though I’d denied them the time to grieve, they didn’t blame me.
 
@@ -32,9 +32,9 @@ Only Perfected Being Hyeoncheon, the Sect Leader of the Kongtong Sect, stepped f
 
 “Where do you intend to go?”
 
-The System had already pointed the way to our next destination with a Quest as clear as a compass.
+I’d known my answer from the start. The System had already pointed to our next destination with a Quest for a compass.
 
-“Qinghai. Qinghai.”
+“Qinghai. I’m going to Qinghai.”
 
 “Which means…”
 
@@ -54,7 +54,7 @@ I spoke with a certainty I couldn’t explain, but Perfected Being Hyeoncheon di
 
 “I believe so.”
 
-“Then the Kongtong Sect will stand with you.”
+“Then the Kongtong Sect will come with you.”
 
 “…!”
 
@@ -72,7 +72,7 @@ And so Perfected Being Hyeoncheon and about a hundred Kongtong Disciples joined 
 
 Hyuk Sopyung, the Zhongnan One Dragon.
 
-Along with him, more than three hundred Zhongnan Sect Disciples who had barely survived the bloody battle set down their weapons and knelt.
+With him, some three hundred Zhongnan Sect Disciples who had barely survived the battle set down their weapons and knelt.
 
 The Roaring Fury Swordsman, Song Il, and the Taeeul Merciless Sword, Hwangbo Eom.
 
@@ -94,7 +94,7 @@ At the old Daoist’s wise and compassionate words, Hyuk Sopyung and the Zhongna
 
 It was the first time I’d come face-to-face with Hyuk Sopyung since the incident at the Yongbong Escort Bureau.
 
-He had once been the Zhongnan Sect’s most promising young prodigy, one of the Ten Dragons and Phoenixes. The gap between us had grown even wider than before.
+Back then, he’d been Zhongnan’s foremost young prodigy, one of the Ten Dragons and Phoenixes. The gap between us had grown wider still since our last meeting.
 
 Even after spending several days alongside the Zhongnan Sect in Gansu, I’d only ever passed him at a distance. Maybe that was why I’d only just noticed how much more serious his bearing had become, how much deeper his gaze.
 
@@ -144,11 +144,11 @@ Even Jeong Hogun, Thousand Captain of the Embroidered Uniform Guard, whose expre
 
 “Something funnier?”
 
-“Yeah. It’s about a certain Thousand Captain of the Embroidered Uniform Guard who kept talking back to a Marquis like he was his equal and is now on the verge of being forcibly discharged. The funny thing is, he has the same surname as you. What a coincidence, huh?”
+“Yeah. It’s about a certain Thousand Captain of the Embroidered Uniform Guard who keeps speaking casually to a lofty marquis and is now in danger of being forced out of the service. Amazingly, he has the same surname as you. What a coincidence, huh?”
 
 “…Is that how you’re going to play this?”
 
-“Then do your best. So I don’t have to.”
+“Then watch yourself, so I don’t have to.”
 
 Jeong Hogun shook his head as though there was no winning with me. Then he stood as straight as an iron tower and saluted.
 
@@ -156,7 +156,7 @@ Jeong Hogun shook his head as though there was no winning with me. Then he stood
 
 “Qinghai. We’re going to Qinghai Province. At full speed.”
 
-“I, Jeong Hogun, Thousand Captain of the Embroidered Uniform Guard, accept the solemn order of the Most Honorable Marquis of Shangshan.”
+“I, Jeong Hogun, Thousand Captain of the Embroidered Uniform Guard, accept the solemn command of the Marquis of Shangshan.”
 
 And so, two days ago, the Embroidered Uniform Guard joined us as the final piece of our force. Now nearly two thousand strong, we took a brief rest and headed straight for Qinghai Province.
 
@@ -166,7 +166,7 @@ A few people raised the cautious possibility that Dark Heaven might target Gansu
 
 Naturally, he didn’t mean northern Gansu.
 
-He meant the North of the entire world, divided by the Great Wall—and the two powers that ruled that vast land.
+He meant the North of the realm beyond the Great Wall, and the two powers that ruled those vast lands.
 
 The fierce tiger of Hebei: the Hebei Peng Family.
 
@@ -180,21 +180,21 @@ It was a metaphor worthy of the Bow Saint. No one argued after that.
 
 Not merely because he was the Bow Saint. Everyone knew that with the Azure Dragon and the fierce tiger of the North spreading their wings and baring their claws, Gansu was reasonably safe.
 
-And the brief purge just before we left Gansu was enough to wipe out any possible future threat.
+And the brief purge just before we left Gansu was enough to remove any threat that might remain.
 
 “Anything you want to say before you die? Spare me the excuses. I’ll hear your last words.”
 
-“I—I never colluded with Dark Heaven. There must have been some misunderstanding!”
+“I—I never colluded with Dark Heaven. There must be some misunderstanding!”
 
 “Young Sect Leader—no, Sect Leader! Why are you doing this? You know your late father and I were practically sworn brothers!”
 
-“Yeah, I know. Close enough to betray us together. You were so close that my father wrote it all down in detail… Did you know that?”
+“I know. Close enough to betray us together. You were so close that my father wrote it all down in detail… Did you know that?”
 
 “…!”
 
 The meeting meant to decide the future of Gansu’s Murim had become a trial of its traitors. The room froze.
 
-Wide eyes. Trembling lips.
+Eyes wide. Mouths trembling.
 
 Sama Pyo gave a quiet sigh at the sight of them, took a battered old book from inside his robe, and set it on the table.
 
@@ -208,7 +208,7 @@ Sama Pyo went on. There was a trace of bitterness toward his father in his voice
 
 That did it.
 
-“You—you little brat, with the blood barely dry on your head! You dare kill me, your uncle in all but name?!”
+“You—you little brat still wet behind the ears! You dare kill me, your uncle in all but name?!”
 
 “Heh. Heh heh. So this is how it ends.”
 
@@ -218,7 +218,7 @@ Charge with its adorable little front teeth as its only weapon, or give up and a
 
 And waiting for the fools who chose to charge was—
 
-“Story’s over, Taishan.”
+“Conversation’s over, Taishan.”
 
 “Yaaawn. Taishan nearly fell asleep listening.”
 
@@ -230,7 +230,7 @@ I was there in case anything went wrong, but I never had to step in.
 
 Taishan’s two-section staff was gleefully spitting fire—no, blood.
 
-One of the Black Dragon Demon Gate’s senior members had shouted that Sama Pyo was a little brat with the blood barely dry on his head, then charged at him. His head was gone before he could spill any blood into it. Several Sect Leaders and Family Heads tried to flee with all their might, but they were surrounded the moment they left the pavilion.
+The Black Dragon Demon Gate elder who had called Sama Pyo a wet-behind-the-ears brat and charged at him no longer had a head to hold any blood. Several Sect Leaders and Family Heads fled with all their might, only to be surrounded as soon as they left the pavilion.
 
 By Black Dragon Demon Gate warriors who had sworn loyalty to their new lord.
 
@@ -246,11 +246,11 @@ And by their own followers and Disciples.
 
 “What?”
 
-“Because of you, my Master, my Junior Sister, and my Martial Nephew died! That makes you guilty of deceiving your master and betraying your ancestors. Disciples of the Gorang Sword Sect, execute the Sect Leader on the spot, as the sect rules demand!”
+“Because of you, my Master, my Junior Sister, and my Martial Nephew died! You deceived your master and betrayed your ancestors. Disciples of the Gorang Sword Sect, execute the Sect Leader here and now, as our sect rules demand!”
 
 “What are the members of the Lanzhou Hyuk Family doing?!”
 
-“Please don’t hold it against us, Family Head. You were the one who betrayed us first.”
+“Please don’t hold it against us, Family Head. You betrayed us first.”
 
 “Y-you dare…!”
 
@@ -260,7 +260,7 @@ Spears and blades came at them from every direction. Around a dozen Sect Leaders
 
 A miserable end for men who had led Gansu’s Murim, each the head of a faction with a substantial following.
 
-But the young Sect Leader of the Black Dragon Demon Gate didn’t so much as blink as he killed or captured twenty renowned masters in all.
+The young Sect Leader of the Black Dragon Demon Gate didn’t so much as blink as twenty renowned masters in all were killed or captured.
 
 He watched it all with calm, cold eyes. Then, touching his teacup, which had long since gone cold, he spoke out of the blue.
 
@@ -296,9 +296,9 @@ No. Not a book.
 
 Just a bundle of yellowed pages without a single character written on them. It had plainly spent years gathering dust somewhere, never once put to use.
 
-“Guess blood really does tell. In a good way.”
+“Blood really does tell. In a good way.”
 
-Muttering under my breath, I walked on, breathing in the stench of blood flowing from the traitors’ bodies.
+I muttered the words and walked on through the smell of blood from the traitors’ bodies.
 
 Two days passed after that. Then another three went by as we made our way over mountain slopes so rough they made me want to curse.
 
@@ -316,7 +316,7 @@ Two days passed after that. Then another three went by as we made our way over m
 
 “It’s just that I can’t for the life of me tell where we are.”
 
-“Pardon? What?”
+“…What?”
 
 “I asked where we are.”
 

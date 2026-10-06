@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is largely faithful, with a few small omissions and one idiom rendered as an unclear English calque.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 42–44",
+      "current": "The System had already pointed the way to our next destination with a Quest as clear as a compass.",
+      "defect": "The translation omits the narrator’s explicit statement that he had known his answer from the start.",
+      "replacement": "I’d known my answer from the start. The System had already pointed the way to our next destination with a Quest as clear as a compass.",
+      "rationale": "The source says, “내 대답은 처음부터 정해져 있었다,” before explaining that the System’s Quest pointed to the next destination.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 112–114",
+      "current": "Maybe that was why I’d only just noticed how much more serious his bearing had become, how much deeper his gaze.",
+      "defect": "The source specifically says Hyuk Sopyung’s aura and gaze had grown more serious and deep. “Bearing” softens or obscures the established aura detail.",
+      "replacement": "Maybe that was why I’d only just noticed how much more serious his aura had become, how much deeper his gaze.",
+      "rationale": "The Korean names 기세 and 눈빛 separately; the glossary allows “aura” for 기세 in this context, and the accepted baseline preserved both details.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 232–233",
+      "current": "You—you little brat, with the blood barely dry on your head! You dare kill me, your uncle in all but name?!",
+      "defect": "“With the blood barely dry on your head” is a literal calque of an insult meaning the brat is too young or inexperienced; in English it suggests a physical injury and obscures the insult.",
+      "replacement": "You—you little brat, still wet behind the ears! You dare kill me, your uncle in all but name?!",
+      "rationale": "대가리에 피도 안 마른 애새끼 is a contemptuous age-based insult, not a claim about a wound.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 310–310",
+      "current": "I clicked my tongue, turned the first page without thinking, and understood what Sama Pyo had really meant.",
+      "defect": "The translation drops the narrator’s bitter reaction while turning the page.",
+      "replacement": "I clicked my tongue bitterly, turned the first page without thinking, and understood what Sama Pyo had really meant.",
+      "rationale": "The source says 씁쓸하게 입맛을 다시며, explicitly coloring the action with bitterness.",
+      "confidence": 0.86
+    }
+  ]
+}
