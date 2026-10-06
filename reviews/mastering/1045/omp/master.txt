@@ -8,7 +8,7 @@ Second, a Magic Formation that could gather and release that mana as efficiently
 
 The magic wielded by the woman known as the Grand Mage had both. It could hardly have been more perfect.
 
-Just as a masterwork sword was born after countless rounds of hammering and quenching, magic, too, could reach its greatest power when enough time and effort were devoted to it.
+Just as a masterwork sword was forged through countless rounds of hammering and quenching, a spell could reach its greatest power when given enough time and care.
 
 The Magic Formation had been completed while the hillside below turned red with blood. Once it activated, no one could stop it. And Jin Taekyung wasn’t the only one who had some idea how powerful that enormous sphere of flame would be.
 
@@ -42,7 +42,7 @@ Shwoooosh! Slice!
 
 The back of his head suddenly grew hot.
 
-Like a skilled butcher slicing meat, a streak of dark-red Force skimmed past Jeok Cheongang’s head, slicing off a thin layer of hair and skin before cutting through the air.
+A streak of dark-red Force skimmed his head, shaving away a thin layer of hair and skin as neatly as a skilled butcher slicing meat, then cut through the air beyond him.
 
 “Where are you in such a hurry to go?”
 
@@ -114,7 +114,7 @@ Jeok Cheongang murmured the words to himself and twisted his body. Slipping thro
 
 The Scorching Yang Qi he had accumulated over countless years—several *jiazi*’ worth.
 
-And at last, he awoke the innate qi sleeping deep inside his body, a forbidden realm for martial artists.
+And at last, he awakened the innate qi sleeping deep inside him, a source of power martial artists dared not touch.
 
 No—more precisely, he tried to awaken it.
 
@@ -128,7 +128,7 @@ A thunderous crash shook the surrounding air.
 
 The Blood-Sword Demon Lord emerged through the dust before it could billow up, recognized the intruder, and frowned.
 
-“…Why are you here?”
+“…What are you doing here?”
 
 “Go, Fire King.”
 
@@ -140,7 +140,7 @@ The intruder—no, Black Night King Sima Gong—kept his eyes on the Blood-Sword
 
 “…!”
 
-Jeok Cheongang’s eyes widened at this unexpected appearance.
+Jeok Cheongang’s eyes widened.
 
 Sima Gong was the man he’d thought a traitor.
 
@@ -162,7 +162,7 @@ KWA-BOOOOM!
 
 The air shook. That was all.
 
-Jeok Cheongang realized that Sima Gong had barely blocked the Blood-Sword Demon Lord’s Force from behind him. Gritting his teeth, he pushed himself to go faster.
+Jeok Cheongang knew Sima Gong had barely intercepted the Blood-Sword Demon Lord’s Force as it came at him from behind. Gritting his teeth, he drove himself faster.
 
 Moments.
 
@@ -174,7 +174,7 @@ But…
 
 *That’s enough.*
 
-A single finger’s breadth could decide life and death, and a gap of a split second—divided and divided again—could change one’s fate.
+A finger’s breadth could decide life and death. A gap measured in fractions of an instant could change a person’s fate.
 
 That was Murim. The world of superhumans.
 
@@ -186,9 +186,9 @@ BANG!
 
 No flame could move faster than light.
 
-But in that instant, Jeok Cheongang crossed dozens of *jang* in a single bound. Nothing could hold him back.
+But in that instant, Jeok Cheongang crossed dozens of *jang* in a single bound. He felt no limit holding him back.
 
-If one chain bound him, it was time alone.
+Only time.
 
 *Damn it!*
 
@@ -208,7 +208,7 @@ Hot.
 
 Even from more than twenty *jang* away, he could barely breathe.
 
-Watching the flames swell at last before they touched the ground, Jeok Cheongang suddenly thought:
+As the flames swelled just before touching the ground, Jeok Cheongang found himself thinking:
 
 If only he’d had a few more seconds.
 
@@ -230,7 +230,7 @@ But he had to keep going.
 
 He belonged to neither the righteous path, the unorthodox faction, nor the Demonic Path. This was the path he had chosen.
 
-If he didn’t at least try, he felt he’d never be able to look that reckless brat of a Disciple in the face again.
+If he didn’t do at least this much, he would never be able to look that reckless Disciple of his in the face again.
 
 “Come on!”
 
@@ -242,7 +242,7 @@ He heard it, too.
 
 Shwoooooosh!
 
-Just as the white light-flames of the Flame-Extinguishing Divine Fist shot out in an explosion, a dazzling streak of light shone across the dark sky ahead of it, cutting through space.
+Just as the white light-flames of the Flame-Extinguishing Divine Fist shot out, dazzling streaks of light raced ahead of them across the dark sky.
 
 Brilliant bolts plunged into the enormous, swelling sphere of flame.
 
@@ -258,11 +258,11 @@ The world everyone knew gave way to a new world made of light.
 
 At least in that moment, everyone on the battlefield—not just Jin Taekyung—must have felt that way.
 
-*Could this be…?*
+*Could that have been…?*
 
 Fwoosh.
 
-Before Jin Taekyung could fully recall the unbelievable sight he’d seen at the last moment, he felt his vision, which had been washed in blinding light, slowly return.
+Before Jin Taekyung could fully recall the unbelievable sight he’d seen at the last moment, he felt his vision slowly return.
 
 The white flash that had blinded everyone faded. In its place came a tremendous roar, arriving late, and flames surging up across the battlefield.
 
@@ -296,7 +296,7 @@ Only bewilderment.
 
 Why had the fireball that should have exploded in the midst of the enemy broken apart and swept through her own forces instead?
 
-Among the roughly thousands of casualties, why did the enemy number fewer than a hundred?
+Of the thousands of casualties, why did fewer than a hundred appear to be enemies?
 
 Those questions filled her mind. She had watched only Jeok Cheongang in the final moments, but someone else had seen it all—and already knew the answer.
 
@@ -312,12 +312,12 @@ He was looking somewhere far beyond her shoulder. Something golden glimmered fai
 
 “…!”
 
-At that instant, the Grand Mage understood something and spun around in a hurry.
+The Grand Mage realized what he meant and spun around.
 
-At the same time, she saw the answer to her question with her own eyes.
+There, with her own eyes, she saw the answer to her questions.
 
 Shwoooosh!
 
-The streak of light that had torn the fireball apart—the Force arrows.
+The streaks of light that had torn the fireball apart—arrows of Force.
 
 “Bow Saint…!”

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The stronger the spark within him, the greater the power of the blaze. And to sustain that growing fire, he would have to feed it more of his own life.",
+      "defect": "The source says the blaze’s power doubles as the spark grows stronger, and that he must spend more life force to withstand the fiercer flames. “Greater” drops the explicit doubling, while “sustain” shifts the mechanism from enduring the flames to sustaining the fire.",
+      "id": "F01",
+      "rationale": "The Korean explicitly says 위력은 배가 되고 (the power doubles) and 거세진 불길을 감당하기 위해서는 (to bear the intensified flames).",
+      "replacement": "The stronger the spark within him, the more the blaze’s power would double. And to bear that fiercer fire, he would have to feed it even more of his own life.",
+      "severity": "minor",
+      "source": "Line 97"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one source-grounded change to the fire’s power and the cost of enduring it.",
+  "version": 1
+}
