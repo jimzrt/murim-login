@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "A million people were killed or injured in the battle against it.",
+      "defect": "The English states exactly one million casualties, while the Korean describes a figure approaching a million.",
+      "id": "F01",
+      "rationale": "“백만에 달하는” indicates nearly or close to a million, not an exact million.",
+      "replacement": "Nearly a million people were killed or injured in the battle against it.",
+      "severity": "minor",
+      "source": "Line 247: “백만에 달하는 인명 피해” means casualties approaching a million."
+    }
+  ],
+  "summary": "The translation is faithful overall, with one small quantity shift in the reported casualties from the earlier battle.",
+  "version": 1
+}

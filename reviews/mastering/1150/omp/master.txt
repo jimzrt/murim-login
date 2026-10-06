@@ -14,7 +14,7 @@ Steel?
 
 No.
 
-The man—no, Morgoth’s hand closed around his as if it were made of a substance that had never existed in this world. Then it began to move slowly up and down.
+The man’s—no, Morgoth’s—hand closed around his like a substance that had never existed in this world. Then it moved slowly up and down.
 
 Carefully, as though handling an ant in his palm.
 
@@ -24,7 +24,7 @@ When the brief handshake ended, a satisfied smile touched the monster’s lips.
 
 A short remark, but there was a great deal in it.
 
-Furin wondered if he’d heard correctly, then opened his mouth.
+Furin could hardly believe what he’d heard.
 
 “What… do you mean?”
 
@@ -32,7 +32,7 @@ Furin wondered if he’d heard correctly, then opened his mouth.
 
 Morgoth settled into the seat across from him and looked over the objects on the table with curious eyes.
 
-“An astonishing civilization, no matter how many times I see it. The humans in the world where I once stayed could never have dreamed of anything like this.”
+“What an astonishing civilization. It amazes me every time I look at it. The humans of the world where I once lived could never have dreamed of anything like this.”
 
 “…!”
 
@@ -52,7 +52,7 @@ And he’d told Furin where he came from.
 
 Furin wondered if the monster before him might be more than a creature mad with bloodlust.
 
-If that were true, there was a very real chance they might still be able to contain the nightmare that had been unfolding for the past ten days, even at this late hour.
+If so, there might still be a chance to contain the nightmare that had unfolded over the past ten days, even at this late hour.
 
 “Then you—no, sir. Did you come from the other world you mentioned?”
 
@@ -62,7 +62,7 @@ Morgoth answered readily.
 
 “What does that mean?”
 
-“I told you. I said I once stayed there.”
+“I told you. I said I *once* lived there.”
 
 “Then…”
 
@@ -74,7 +74,7 @@ Furin’s eyes widened as he grasped what Morgoth meant. Morgoth smiled gently a
 
 “…!”
 
-“Entering someone else’s service wasn’t especially pleasant, but in the end, it was an excellent choice. I’ve had the chance to experience such an interesting game, after all. Don’t you agree?”
+“Serving under someone else wasn’t especially pleasant, but it proved an excellent choice. It even brought me here for such an interesting game. Don’t you agree?”
 
 At that moment, the hope burning in Furin like a tiny campfire went out without a trace.
 
@@ -82,7 +82,7 @@ At that moment, the hope burning in Furin like a tiny campfire went out without 
 
 “Yes. A game.”
 
-“Then everything you’ve done up to now was this grand game of yours?”
+“Then everything you’ve done so far was part of this precious game of yours?”
 
 Morgoth sighed softly at the unmistakable tremor in Furin’s voice.
 
@@ -108,11 +108,11 @@ There had been several major incidents since the Arch Lich appeared about a year
 
 The estimated number of dead and injured had already reached fifty million.
 
-The Middle East—more precisely, North Africa and West Asia—had already become a land of death with the Black Dragon’s arrival.
+The Middle East—more precisely, North Africa and West Asia—had become a land of death with the Black Dragon’s arrival.
 
 Those who resisted were slowly rotting or had become undead. Those who survived had sworn absolute obedience and become slaves.
 
-Not Hunters chosen by God. Not even heavily armed armies.
+Hunters chosen by God. Heavily armed armies.
 
 None of them could break the Black Dragon’s massive wings.
 
@@ -120,7 +120,7 @@ This world already belonged to him.
 
 “You’re insane. Completely insane,” Vladimir Furin muttered weakly.
 
-Then Morgoth’s smile deepened.
+Morgoth’s smile deepened.
 
 “Insane? Me?”
 
@@ -134,7 +134,7 @@ The Black Dragon’s abyssal eyes fixed on the dictator as though they could pie
 
 “…!”
 
-“Of course, I understand to some extent. I know from experience how shallow humans can be—and how wealth and power corrupt you. But…”
+“Of course, I understand to a degree. I’ve seen how shallow humans can be, and how wealth and power corrupt you. But…”
 
 Ting.
 
@@ -144,15 +144,15 @@ A long, pale finger tapped the teapot. Inside, the black tea once regarded as pr
 
 “You—you…”
 
-“Yes, I already know a great deal. Though it would be more accurate to say I learned it through you.”
+“Yes, I already know a great deal. Though it would be more accurate to say I learned it from you humans.”
 
 Morgoth had lived for an immensely long time. Longer than anyone could imagine.
 
 Yet even to him, the modern world of the twenty-first century was fascinating.
 
-Human history. The fusion of Magic and technology. The structures and ideologies of governments.
+Human history. The fusion of Magic and science. Systems of government and political thought.
 
-And the countless conflicts, large and small, that had taken root all over the world as a result.
+And the conflicts, large and small, that had taken root around the world as a result.
 
 This civilization was unlike anything he had seen before, and it stirred his thirst for knowledge. His mind, which knew neither forgetfulness nor limits, absorbed everything he saw and heard in an instant.
 
@@ -198,7 +198,7 @@ It was a shameful thing for a dictator to say after spending more than fifty yea
 
 His shrewd eyes gleamed as he continued.
 
-“I trust that’s answer enough. So let me ask again. Why did you really come here?”
+“I trust that answers you. Now I’ll ask again: why did you really come to see me?”
 
 “What?”
 
@@ -208,7 +208,7 @@ Furin picked up a cigar laid neatly on the table and lit it. He stared straight 
 
 “Talking to you has only made it harder to understand. You regard humans as livestock or ants, yet you’re trying your hand at diplomacy and negotiation? Whatever your true intentions, I don’t believe it.”
 
-Different species could still follow the same path.
+Different species could still operate the same way.
 
 In that respect, Vladimir Furin thought he and Morgoth were rather alike.
 
@@ -218,7 +218,7 @@ The gulf between them might be as wide as heaven and earth, but Morgoth, too, mu
 
 And as far as Furin knew, someone with overwhelming power had no need for conversation.
 
-Shamelessness became a natural virtue, while shame turned into something as old and musty as a grandfather’s letter forgotten in a drawer.
+Shamelessness became a virtue. Shame became something as old and musty as a grandfather’s letter forgotten in a drawer.
 
 If that was true of a mere human like him, how much more so of a Dragon whose very understanding of the world was different?
 
@@ -234,7 +234,7 @@ Morgoth replied calmly.
 
 Another monster, Michael Silbert, had been born where that Dragon fell—but that had only come to light recently.
 
-“So why would you, with power far greater than that young Dragon had, go to such lengths?”
+Furin drew on the cigar, its tip now evenly lit, and added, “So why would you, with power far greater than that young Dragon’s, go to these lengths?”
 
 Silence settled over them, but not for long.
 
@@ -250,4 +250,4 @@ At that moment—
 
 Click. Rrrrrumble.
 
-As the small button that had been concealed in Furin’s wrinkled hand was pressed, a tremendous rumble rose from deep beneath the Kremlin.
+The small button Furin had kept hidden in his wrinkled hand depressed, and a tremendous rumble rose from deep beneath the Kremlin.
