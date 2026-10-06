@@ -22,7 +22,7 @@ But when a vibration traveled through the Disciple he held so tightly, Jeok Cheo
 
 It couldn’t be. It was impossible.
 
-Yet contrary to what Jeok Cheongang’s instincts told him, the vibration, once begun, did not stop.
+Yet despite what his instincts told him, the sound did not stop.
 
 It grew louder and clearer.
 
@@ -32,7 +32,7 @@ Thump. Thump-thump.
 
 “…!”
 
-In an instant, Jeok Cheongang hurriedly pressed his ear to his Disciple’s chest. His eyes flew wide.
+Jeok Cheongang pressed his ear to his Disciple’s chest. His eyes flew wide.
 
 There was no mistaking it. He wasn’t hearing things.
 
@@ -106,7 +106,7 @@ Kwoooosh!
 
 A wave of fire overflowed in every direction. The terrible heat seemed ready to melt even his already-healed body in an instant.
 
-Yet for some reason, Jin Taekyung felt not a trace of fear.
+Yet Jin Taekyung felt not a trace of fear.
 
 Of course he didn’t.
 
@@ -114,7 +114,7 @@ He understood it instinctively.
 
 That immense heat wasn’t only sweeping through his body, melting every limb and bone. It was also peeling back a layer to reveal the unknown power hidden within him.
 
-But that wasn’t the only reason Jin Taekyung could calmly accept his transformation.
+But that wasn’t the only reason he could calmly accept what was happening.
 
 Ding. Ding. Ding.
 
@@ -150,7 +150,7 @@ He had claimed the peak that touched the clouds, but no matter how far he reache
 
 That realm hadn’t been open to him then.
 
-He hadn’t yet earned the right—the enlightenment—to glimpse it, even for a moment.
+He hadn’t possessed the enlightenment that would let him glimpse it, even for a moment.
 
 Yes. That was how it *had* been.
 
@@ -188,7 +188,7 @@ Now he understood.
 
 The person who had believed in Jin Taekyung least wasn’t anyone else. It was Jin Taekyung himself.
 
-Even after he’d far surpassed Jin Wikyung’s martial prowess, even after he’d earned the right—he had always been that way.
+Even after he’d far surpassed the brother who taught him. Even after he’d become worthy, that had never changed.
 
 *But not anymore.*
 
@@ -218,7 +218,7 @@ The clouds scattered as if by magic. Light flooded his vision, turning it white,
 
 Was this what it felt like to be thrown into a vast pit of fire?
 
-Or would dozens, hundreds of bolts of lightning striking down at once hurt like this?
+Or to have dozens, hundreds of bolts of lightning strike all at once?
 
 But Jin Taekyung held on to the thread of his fading consciousness with all his might.
 
@@ -234,7 +234,7 @@ Yet he did not forget the one thing that mattered: why he was enduring this terr
 
 *I have to go back. No matter what.*
 
-He had left something precious behind.
+He had left precious things behind.
 
 He had failed to protect what he needed to protect, and there was still something he had to do.
 
@@ -268,7 +268,7 @@ His endurance had not been in vain.
 
 The old man’s words—that it was time for each of them to return to their own places—could finally come true.
 
-And his hunch was right.
+And he was right.
 
 Ding.
 
@@ -284,13 +284,13 @@ This time, I didn’t need anyone’s help.
 
 As the dark blue radiance that had blazed for half a day slowly faded, a suffocating silence fell over everything.
 
-The allies who had finally won this horrific bloodbath, and the fanatics who had survived by sheer luck and been captured—
+The allies who had finally won this terrible battle and the fanatics who had survived by sheer luck only to be captured—
 
 No one dared speak.
 
 It was as if even the dead were watching the figure slowly descend through the fading heat.
 
-But unlike those frozen in place, forgetting even how to breathe, the old Master reached out with a trembling hand to catch his Disciple.
+But while everyone else stood frozen, forgetting even to breathe, the old Master reached out with trembling hands to catch his Disciple.
 
 His body was warm now, like a campfire.
 
@@ -298,7 +298,7 @@ A thought struck Jeok Cheongang.
 
 What if none of this were real?
 
-If it were a spring dream unfolding in the mind of an old man who had already gone mad, what would he do?
+If it were only a fleeting dream in the mind of an old man who had already gone mad, what would he do?
 
 He couldn’t bring himself to speak.
 
@@ -306,7 +306,7 @@ If this truly was a dream, he would rather never wake.
 
 But someone knew what Jeok Cheongang did not.
 
-That all of this was undeniably real.
+This was real.
 
 “I kept my promise.”
 
