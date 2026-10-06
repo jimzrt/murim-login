@@ -1,6 +1,6 @@
 # Chapter 1018
 
-“He was burning a secret letter alone, without anyone knowing.”
+“He was burning a secret letter alone, where no one could see him.”
 
 The words slipped from my lips in a low murmur.
 
@@ -28,7 +28,7 @@ Growing old meant your senses grew dull. Namho had said he’d gone over it agai
 
 Was the smell that had lingered in Sama Pyo’s room the same kind he’d encountered so many times as an agent of the Hidden Shadow Pavilion? Or were his dulled senses leading him to suspect them for no reason?
 
-And after more than seven days and nights of worry, this old Hidden Shadow Pavilion agent had reached only one conclusion.
+After more than seven days and nights of wrestling with those questions, the old agent had reached one conclusion.
 
 *“It was definitely the smell of oiled paper burning. I’m certain now.”*
 
@@ -38,7 +38,7 @@ It was customary to oil the paper used for missives so it wouldn’t get wet or 
 
 *“Another reason to oil paper is that it burns easily. The less you want a letter discovered, the faster you need to destroy the evidence.”*
 
-Though he’d found no trace of anything beyond the faint smell of something burning in the room, from that moment on he never let go of his suspicions about Sama Pyo and Taishan.
+Namho had spent a lifetime as an intelligence agent. Though he’d found no trace of anything beyond the faint smell of burning in the room, from that moment on he’d kept a close eye on Sama Pyo and Taishan.
 
 *“I watched them from the day we left Shanxi Province. But until just a few days ago, I still couldn’t be sure whether it really was oiled paper I’d smelled—or, if it was, who had sent it and from where.”*
 
@@ -84,9 +84,9 @@ Qinghai was only a possibility Namho had raised alongside Gansu. There was just 
 
 “The Black Night King, Sima Gong…”
 
-At my murmur, which sounded almost like I was talking to myself, Jeok Cheongang spat roughly.
+At my murmured words, Jeok Cheongang spat on the ground.
 
-“You’ve gotten bold. You really have.”
+“He’s grown bold. He really has.”
 
 “What do you think the letter said?”
 
@@ -112,7 +112,7 @@ Of course, “picked at his food” was a slight—no, a considerable—stretch.
 
 But considering how much Taishan usually ate, five meals a day was practically intermittent fasting.
 
-And the closer we got to Gansu, the more miserable he looked. There was no shortage of things that seemed strange.
+And he’d looked more miserable the closer we got to Gansu. There was definitely more than one thing strange about that.
 
 *Knowing Sama Pyo, he might’ve kept it from Taishan, too.*
 
@@ -138,7 +138,7 @@ I shook my head, trying to force the thought away. Jeok Cheongang had been watch
 
 I stopped without realizing it.
 
-I’d been walking almost mechanically, but now I stood stock-still, staring silently at Jeok Cheongang.
+I’d been walking almost mechanically. Now I stood stock-still, staring at Jeok Cheongang.
 
 “You look like you have a lot to say.”
 
@@ -154,7 +154,7 @@ We started walking again. My voice came out troubled.
 
 “That’s quite a title.”
 
-“Like hell it is. At first, I didn’t care for it much. The title was so embarrassingly grand it made my fingers curl up—and nearly break. But after spending some time with him, cutting down Demonic Cult bastards, I found he was a pretty useful fellow.”
+“Like hell it is. At first, I couldn’t stand it. Just hearing a title that grand made my fingers curl so hard they nearly broke. But after we’d spent some time cutting down Demonic Cult bastards together, I found he was a pretty useful fellow.”
 
 “Useful how?”
 
@@ -176,11 +176,11 @@ A bitter smile crossed Jeok Cheongang’s lips.
 
 “Was he a traitor?”
 
-“Yes. He was a Demonic Cult lackey. But he hadn’t been one from the beginning.”
+“Yes. He served the Demonic Cult. But he hadn’t from the beginning.”
 
 “You mean…”
 
-“Do you remember what I told you about the Junzi Saber’s origins?”
+“Remember what I told you about the Junzi Saber’s family?”
 
 “Yes. He was from a distinguished martial family in Qinghai.”
 
@@ -190,7 +190,7 @@ The only family he *knew*.
 
 Suddenly, I thought I understood why a chivalrous hero whose name and face I’d never known had gone over to the Demonic Cult.
 
-“There was a surviving relative.”
+“There was another survivor.”
 
 “His eldest brother, apparently. He’d been the Lesser Family Head, yet somehow survived the destruction of their family. An extraordinary stroke of luck. With that luck, and an even greater thirst for revenge, he crossed the desert and sought refuge with the Demonic Cult… You’re sharp enough to guess what happened next.”
 
@@ -208,7 +208,7 @@ Jeok Cheongang answered quietly.
 
 “Do you regret it?”
 
-“Regret it? What do you think you’d do in my place?”
+“Regret it? What do you think you’d feel in my place?”
 
 “……!”
 
@@ -216,7 +216,7 @@ Jeok Cheongang answered quietly.
 
 I fell silent.
 
-It wasn’t long enough to form a deep bond. We’d lived in different circumstances, and we had different personalities.
+Only a year. It wasn’t long enough to form a deep bond. We’d grown up in different circumstances, and our personalities were nothing alike.
 
 So why couldn’t I answer?
 
@@ -224,11 +224,11 @@ My lips stayed pressed together, though this was a question I should have answer
 
 *What would you do?*
 
-Jeok Cheongang’s question echoed in my ears, colliding again and again without end.
+Jeok Cheongang’s question echoed in my ears, over and over.
 
 * * *
 
-Around the time the three thousand troops, after several days of nonstop marching, reached the Qilian Mountains and were taking a brief but sweet rest—
+After several days of nonstop marching, our force of three thousand had reached the Qilian Mountains and was enjoying a short but welcome rest.
 
 Elsewhere, in a pitch-black secret chamber where not a ray of light entered, three people faced one another.
 
@@ -240,7 +240,7 @@ The two voices came at the man in the seat of honor the moment he sat down. He a
 
 “What’s done is done. The situation has changed, so I asked you both here to work out a new plan.”
 
-“Things have gone badly from the start, yet you’re brimming with confidence without offering a single excuse.”
+“Your plan went wrong from the start, yet you’re full of confidence and haven’t offered a word of explanation.”
 
 “This time, Sect Leader Sima, you’ll have to convince us.”
 
@@ -248,6 +248,6 @@ The two voices came at the man in the seat of honor the moment he sat down. He a
 
 The eyes of the man in the seat of honor—the Black Night King, Sima Gong—suddenly gleamed.
 
-He stared into the darkness at the two old Daoists facing him.
+In the darkness, two old Daoists were watching him.
 
 [^1]: *Taegukgi* (“Korean flag”) is the Korean title of a film about brothers caught up in the Korean War.

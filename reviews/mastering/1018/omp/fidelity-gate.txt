@@ -1,0 +1,45 @@
+{
+  "summary": "The assembled copy has a few omissions and one meaningful shift in the description of the Junzi Saber.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 57–59",
+      "current": "Though he’d found no trace of anything beyond the faint smell of something burning in the room, from that moment on he never let go of his suspicions about Sama Pyo and Taishan.",
+      "defect": "The translation omits that Namho had spent a long time as an intelligence agent, a detail the source uses to establish his experience.",
+      "replacement": "Namho had spent decades as an intelligence agent. Though he’d found no trace of anything beyond the faint smell of something burning in the room, from that moment on he never let go of his suspicions about Sama Pyo and Taishan.",
+      "rationale": "The source explicitly describes Namho as someone who had lived for ages as an intelligence agent; the accepted baseline preserved this fact.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 137–138",
+      "current": "Elder Nam said he was acting strange.",
+      "defect": "The line drops that Namho had observed Taishan over several days and judged him definitely strange.",
+      "replacement": "From what Elder Nam had observed over several days, Taishan was definitely acting strange.",
+      "rationale": "The source explicitly includes both the several-day observation period and the narrator’s certainty that Taishan was acting strangely.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 197–199",
+      "current": "He was an exceptional fighter with a strong sense of justice.",
+      "defect": "“A strong sense of justice” shifts 의기 from spirit or moral courage toward a specific belief in justice.",
+      "replacement": "He was an exceptional fighter with a strong chivalrous spirit.",
+      "rationale": "The source praises his martial ability and 의기, then identifies him as the model of a chivalrous hero; it does not specifically say he had a strong sense of justice.",
+      "confidence": 0.84
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 257–259",
+      "current": "It wasn’t long enough to form a deep bond.",
+      "defect": "The translation omits the emphatic standalone point that it had been only one year.",
+      "replacement": "A mere year. It wasn’t long enough to form a deep bond.",
+      "rationale": "The source opens this reflection with 고작 일 년 (“a mere year”), a distinct emphasis preserved in the accepted baseline.",
+      "confidence": 1.0
+    }
+  ]
+}
