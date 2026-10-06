@@ -42,7 +42,7 @@ It had only seemed unrealistic because I’d never tried it before. It was no ex
 
 The middle-aged guy fussed over me, brushing the dust from my clothes.
 
-Only three minutes ago, he had treated me like a jiangshi[^1] from Taecho Village.[^2] Now he was handling me as carefully as though I were his family’s precious only son, three generations in the making.
+Only three minutes ago, he had treated me like a jiangshi from Taecho Village. Now he was handling me as carefully as though I were his family’s precious only son, three generations in the making.
 
 “Come now. I think you should stop training for now and return to your quarters.”
 
@@ -134,7 +134,7 @@ He was grinning from ear to ear.
 
 “…”
 
-*Look at that bastard having the time of his life.*
+Look at that bastard having the time of his life.
 
 His personality might have been a little unhinged, but his ability was in a league of its own. I could only marvel at what happened next.
 
@@ -166,7 +166,7 @@ Hyuk Mujin, already unconscious, groaned.
 
 “…”
 
-*What part of that made him look like he’d enjoyed himself?*
+What part of that made him look like he’d enjoyed himself?
 
 Cheongpung cheerfully set Hyuk Mujin down, then acknowledged my presence.
 
@@ -188,17 +188,17 @@ In fact, I had already had several chances to reach the summit. The problem was 
 
 Think about it.
 
-Climbing a cliff well over a hundred jang[^3] high with your bare hands was hard enough. But every time I thought I’d made decent progress, rocks the size of children came tumbling down from above.
+Climbing a cliff well over a hundred jang high with your bare hands was hard enough. But every time I thought I’d made decent progress, rocks the size of children came tumbling down from above.
 
 Cheongpung’s innocent cries were an added bonus.
 
 *Benefactor, rocks are rolling!*
 
-Only someone who had experienced it could understand. Even if Shakyamuni[^4] himself had been in my position, he would have strangled that bastard to death with his prayer beads.
+Only someone who had experienced it could understand. Even if Shakyamuni himself had been in my position, he would have strangled that bastard to death with his prayer beads.
 
 *Now that I think about it, I’m getting pissed off again.*
 
-*Should I just charge him?*
+Should I just charge him?
 
 The moment I clenched my fist, Hyuk Mujin—who had been lying on the ground with only his fingers twitching—sprang upright with a scream.
 
@@ -240,7 +240,7 @@ Cheongpung scampered away from Hyuk Mujin and kicked off the ground.
 
 *Boom!*
 
-He shot more than ten meters[^5] into the air in a single bound, slapped onto the cliff, and began climbing with the Wall Lizard Technique.
+He shot more than ten meters into the air in a single bound, slapped onto the cliff, and began climbing with the Wall Lizard Technique.
 
 *Papapapapak!*
 
@@ -292,7 +292,7 @@ Nothing was better for staving off hunger and replenishing energy. They were als
 
 “You’re the one who’ll die in one stroke.”
 
-Apparently, he wanted to use his newly learned Wall Lizard Technique to climb straight up Mount Beimang.[^6] I smacked him on the back of the head.
+Apparently, he wanted to use his newly learned Wall Lizard Technique to climb straight up Mount Beimang. I smacked him on the back of the head.
 
 “Ow!”
 
@@ -328,13 +328,13 @@ I could easily guess what they were going to say next. I knew the perspective of
 
 “After your shift ends. How much longer do you have?”
 
-“About three shichen.”[^7]
+“About three shichen.”
 
 “That’s enough.”
 
 I’d already spent half a day climbing the cliff.
 
-I intended to conquer the damned thing within the remaining three shichen.[^7]
+I intended to conquer the damned thing within the remaining three shichen.
 
 * * *
 
@@ -414,11 +414,11 @@ I launched myself forward with a shout, simultaneously jamming my smallest finge
 
 My prediction had been only half right. I could break through the unfrozen snowball, but the crack was much shallower than I had expected.
 
-It was barely one finger joint deep. And I had to support a body weighing 0.1 tons[^8] with my little finger.
+It was barely one finger joint deep. And I had to support a body weighing 0.1 tons with my little finger.
 
 “Ungh.”
 
-*Even for me, this was asking a bit much.*
+Even for me, this was asking a bit much.
 
 To make matters worse, my finger was slowly slipping because of the moisture pooled inside the crack.
 
@@ -486,7 +486,7 @@ Just as I lay there, unable to move even a hand and cheering inwardly, a bluish,
 
 “You succeeded in only one day! You’re both incredible!”
 
-*If it weren’t for you, I would’ve made it in one shichen, you idiot.*
+If it weren’t for you, I would’ve made it in one shichen, you idiot.
 
 I wanted to lay into him, but I was too exhausted to speak. As Hyuk Mujin and I panted with exhaustion and accomplishment, Cheongpung bowed deeply.
 
@@ -500,9 +500,9 @@ The words were so shocking that Hyuk Mujin and I forgot even to pant as we stare
 
 *What is he talking about?*
 
-*Could he possibly mean what I thought he meant?*
+Could he possibly mean what I thought he meant?
 
-*No, surely not.*
+No, surely not.
 
 As an intellectual of modern society, I spoke with a calm demeanor.
 
@@ -510,7 +510,7 @@ As an intellectual of modern society, I spoke with a calm demeanor.
 
 “My grandfather…”
 
-*Was this bastard a wild man or a boy detective?*
+Was this bastard a wild man or a boy detective?
 
 At that moment, Sword Saint or whatever be damned—I couldn’t help seeing red.
 
@@ -562,7 +562,7 @@ Ice, dirt, rock—Cheongpung cut through all of it without distinction, then con
 
 *Rumble, rumble, rumble.*
 
-The edge of the cliff ledge where Hyuk Mujin and I were lying—barely ten square meters[^9] in size—began to shake.
+The edge of the cliff ledge where Hyuk Mujin and I were lying—barely ten square meters in size—began to shake.
 
 *Is this for real?*
 
@@ -573,13 +573,3 @@ As we lay there in a daze, Cheongpung waved at us.
 > **System**
 >
 > - The Quest **Sword Saint Training: A Secondhand Experience** has been generated.
-
-[^1]: A jiangshi is a reanimated corpse in Chinese folklore.
-[^2]: Taecho Village evokes the starting village of a game, where beginners first appear.
-[^3]: A jang is ten ja, about 3.03 m (9.94 ft). A hundred jang is about 303 m (994 ft).
-[^4]: Shakyamuni is a name for the historical Buddha.
-[^5]: Ten meters is about 33 ft.
-[^6]: Mount Beimang is traditionally associated with burial grounds. Here, climbing it means going to one’s death.
-[^7]: A shichen is a traditional period of approximately two hours; three shichen is about six hours.
-[^8]: A tenth of a metric ton is 100 kg, about 220 lb.
-[^9]: Ten square meters is about 108 ft².
