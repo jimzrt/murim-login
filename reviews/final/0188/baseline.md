@@ -252,7 +252,7 @@ His answer carried both the composure of a powerful man and impeccable courtesy.
 
 But Jin Wikyung didn’t stop there.
 
-“Furthermore, anyone who wishes to participate in the duels may step forward! The final victor will receive one hundred silver nyang[^1] and a fine weapon worthy of the prize!”
+“Furthermore, anyone who wishes to participate in the duels may step forward! The final victor will receive one hundred silver nyang and a fine weapon worthy of the prize!”
 
 “Waaaaah!”
 
@@ -350,8 +350,6 @@ Just then, a man wearing a heroic headband suddenly stepped forward and shouted,
 
 *Ah, shit. I should’ve kept my mouth shut.*
 
-*Crack! Thud!*
-
 As I wallowed in regret, Hwang Jinsu of Hwang Family Manor collapsed, scattering teeth everywhere.
 
 A Level 25 had stepped forward. Of course that was the result.
@@ -372,7 +370,7 @@ A wandering martial artist in a bamboo hat stepped forward.
 
 *Did that bastard smear honey on his fists or something? Why do the challengers keep coming?*
 
-After knocking down fifteen or so people in about half an hour, Chulwoo roared,
+After knocking down fifteen or so people in about the time it took to eat a meal, Chulwoo roared,
 
 “Is there no one who can stand against me?”
 
@@ -425,13 +423,10 @@ At the same time, a System alert rang out.
 > **System**
 >
 > - **Level 95 Chulwoo** has chosen you as his duel opponent!
-> - **Quest:** **There Is a Man Who Loved You So Much**[^2] has been created.
+> - **Quest:** **There Is a Man Who Loved You So Much** has been created.
 > - Would you like to accept the **Quest**?
 > - Refusing will incur a massive penalty!
 
 “…”
 
 I could say this with absolute certainty: that was the most fucked-up quest title I had ever received.
-
-[^1]: A nyang was a traditional Korean unit of currency; the prize here is stated in silver.
-[^2]: The title echoes the opening line of “One Man,” a Korean ballad by Kim Jong-kook.
