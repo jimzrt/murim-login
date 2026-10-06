@@ -2,7 +2,7 @@
 
 Jin Taekyung had two kinds of Qi Sense.
 
-One was the Qi Sense he had honed as a martial artist, a means of survival.
+One was the sense he’d honed as a martial artist to survive.
 
 The other was Qi Sense granted by the System as a separate Skill.
 
@@ -10,7 +10,7 @@ The first worked as naturally as breathing, even in everyday life. The second re
 
 *Back when I was weak, I had no choice but to rely on the Qi Sense Skill.*
 
-Though he’d used it far less often since his martial arts had reached a certain level, the Qi Sense Skill remained incredibly useful.
+He’d used it far less often since his martial arts reached a certain level, but the Skill still had enormous advantages.
 
 Especially when he wanted a closer look at someone whose identity he didn’t know.
 
@@ -22,7 +22,7 @@ The moment Jin Taekyung gave the command in his mind, the blue circle of [Qi Sen
 
 The ability made no sound and had no visible form. Only a faint ripple betrayed it, one that a tiny handful of masters at the highest realms could sense.
 
-And it offered another way to determine the identity of the strange man called Great Sir.
+That ripple would also help him judge the strange man called Great Sir.
 
 *If the Skill succeeds, I’ll find out exactly who he is. If it fails, I won’t lose anything.*
 
@@ -102,7 +102,7 @@ He’d seen plenty of Levels displayed as question marks, but never a name.
 
 Everyone had a name, whether it was an alias used to hide their identity or the real one someone had given them at birth.
 
-But Great Sir—the oddball before him—didn’t.
+But the man before him didn’t.
 
 The sheer strangeness of it left Jin Taekyung with no choice but to ask.
 
@@ -138,7 +138,7 @@ His voice trailed off again after he cleared his throat. Everyone was about to g
 
 Who could he be?
 
-A reclusive master whose name of three syllables had yet to become known?
+A reclusive eccentric whose three-character name no one had heard?
 
 A master of the previous generation, long forgotten by the world?
 
@@ -148,7 +148,7 @@ As their guesses multiplied, Great Sir continued in a grave voice.
 
 “Uh. So, I’m…”
 
-“You bastard, you’re the biggest piece of shit under heaven!”
+“What a fucking bastard!”
 
 Jeok Cheongang, halfway out of his mind after hearing “I’m” for the third time, rolled his eyes and started forward. At that very moment, Great Sir let out a cry as though he’d attained some great enlightenment.
 
@@ -170,7 +170,7 @@ Every last person stared at Great Sir, then at one another. Their eyes exchanged
 
 *What the hell?*
 
-*Did I hear that wrong?*
+*Did I hear that right?*
 
 *Madman? That’s someone’s name?*
 
@@ -182,7 +182,7 @@ His one and only Disciple.
 
 “So… what sort of nonsense did that damned fool just spout?”
 
-But, like his Master, his Disciple was just as incapable of fully understanding or accepting what was happening.
+But his Disciple was no more capable of understanding what had happened than his Master.
 
 If anything, he was even more bewildered.
 
@@ -199,7 +199,7 @@ It had changed. It definitely had.
 
 But…
 
-*So what the hell does that mean?*
+*How the hell did that happen?*
 
 Could he even call that a proper change? Or had the System developed an error?
 

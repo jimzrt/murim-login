@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled English preserves the chapter’s events, character reactions, and joke progression. One phrase turns a conventional expression for a person’s full name into a specific syllable count.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 152–154",
+      "current": "A reclusive master whose name of three syllables had yet to become known?",
+      "defect": "“이름 석 자” is a conventional way to refer to a person’s full name, not a claim that the name has exactly three syllables. The English introduces an unnecessary, potentially misleading quantity.",
+      "replacement": "A reclusive master whose full name had yet to become known?",
+      "rationale": "The source speculates about an unnamed reclusive master; it does not specify the number of syllables in his name.",
+      "confidence": 0.96
+    }
+  ]
+}
