@@ -24,7 +24,7 @@ No—he felt even that was insufficient.
 
 *After the life I’ve lived.*
 
-He had spent an entire jiazi[^1] before vats of boiling molten iron.
+He had spent an entire jiazi before vats of boiling molten iron.
 
 Once he started something, he had to see it through to the end. He had forgotten people and love alike. The anvil and hammer had been his friends and lovers.
 
@@ -136,7 +136,7 @@ Old Man Jang let out a quiet laugh as the boy puffed out his cheeks.
 
 “Whew. I guess it can’t be helped.”
 
-*What was that supposed to mean?*
+What was that supposed to mean?
 
 As Old Man Jang wondered, the boy heaved a sigh like an old man and sprang to his feet.
 
@@ -232,7 +232,7 @@ The young man, Jin Taekyung, broke into a wide grin.
 
 Damn it. We had arrived before sunset, only to run into trouble immediately.
 
-I had wondered why such a tiny village had so many old men named Jang. It turned out to be a clan village.[^2] Half the people we passed on the road had the family name Jang.
+I had wondered why such a tiny village had so many old men named Jang. It turned out to be a clan village.[^1] Half the people we passed on the road had the family name Jang.
 
 “Do you know where he lives?”
 
@@ -350,7 +350,7 @@ The boy happily tore into the meat, then looked at us with naked longing in his 
 
 I immediately understood what he meant. When you were desperate, you would borrow even a cat’s paw. Why not a child’s?
 
-“Then could you ask Grandpa Jang his name? Meet us back here in half a shichen.[^3]”
+“Then could you ask Grandpa Jang his name? Meet us back here in half a shichen.”
 
 “Hmm. I think I’ll be even hungrier by then.”
 
@@ -374,7 +374,7 @@ Introducing myself as the Sleeping Dragon of Shanxi from the Jin Family of Taiyu
 
 “…”
 
-*Should I just smack him on the head and send him away?*
+Should I just smack him on the head and send him away?
 
 Hyuk Mujin stepped in on my behalf.
 
@@ -390,9 +390,9 @@ Hyuk Mujin shrugged.
 
 “Search everything from the nearest entrance onward.”
 
-“That’ll take half a shichen.[^3]”
+“That’ll take half a shichen.”
 
-Hyuk Mujin was wrong. It took us more than half a shichen[^3] to search half the village.
+Hyuk Mujin was wrong. It took us more than half a shichen to search half the village.
 
 Then the boy returned with an extremely valuable clue.
 
@@ -428,6 +428,4 @@ Jang Taebo was over eighty, but he still had a sturdy build. He fixed me with a 
 
 Well, that was decisive.
 
-[^1]: A jiazi is a traditional sixty-year cycle.
-[^2]: A clan village is a settlement where many households share the same family name and ancestral lineage.
-[^3]: A shichen is a traditional time unit of approximately two hours; half a shichen is about one hour.
+[^1]: A clan village is a settlement where many households share the same family name and ancestral lineage.
