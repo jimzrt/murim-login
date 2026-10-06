@@ -85,7 +85,7 @@ Ding!
 > **System**
 >
 > - You have used the Skill *Qi Sense*.
-> - You can detect targets up to Level 90 within a range of 70 jang[^1].
+> - You can detect targets up to Level 90 within a range of 70 meters.
 > - Internal energy is consumed in proportion to range.
 
 Whoosh.
@@ -140,7 +140,7 @@ Frankly, they impressed him.
 
 The one noisily chewing dumplings in front of an elder, in particular, had already reached full maturity in the Peak realm.
 
-*Would only the Elders of the Nine Sects and One Gang[^2] whom I crossed paths with briefly in the past be able to compare?*
+*Would only the Elders of the Nine Sects and One Gang whom I crossed paths with briefly in the past be able to compare?*
 
 As for the other one, the tall, broad fellow…
 
@@ -158,7 +158,7 @@ Large enough to swallow the entire Yangtze.
 
 *I suspected as much when they started making a fuss about Ten-Thousand-Year Cold Iron and all that… but they’re even more interesting than I expected.*
 
-Jeok Cheongang could detect presences from dozens of jang away. He had been listening to their conversation from the moment he left Jang’s house.
+Jeok Cheongang could detect presences from dozens of jang away. He had been listening to their conversation from the moment he left Jang-pal’s house.
 
 He also knew that the matter Jang had been worried about had not happened.
 
@@ -401,6 +401,3 @@ And then…
 Fwoosh!
 
 An overwhelming wave of heat swept through my body.
-
-[^1]: A *jang* is a traditional Korean length of about 3.03 meters (9.94 ft). Seventy jang is about 212 meters (696 ft).
-[^2]: The Nine Sects and One Gang is a grouping of major martial-arts organizations in Murim.
