@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Then, as the danger sank in, weapons came free of their sheaths.",
+      "defect": "The source says they drew their weapons without hesitation. The translation omits that explicit cue, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "The Korean states 망설임 없이 (without hesitation); this is a concrete reaction detail, not merely a stylistic nuance.",
+      "replacement": "Then, as the danger sank in, they drew their weapons without hesitation.",
+      "severity": "minor",
+      "source": "Lines 21, 31"
+    },
+    {
+      "confidence": 1.0,
+      "current": "He only lowered his head in exhaustion.",
+      "defect": "This repeats the immediately preceding sentence’s statement that the messenger only lowered his head. The source states this action once.",
+      "id": "F02",
+      "rationale": "The preceding paragraph already says, “He only lowered his head.” The added repetition is not in the Korean.",
+      "replacement": "Seeing him, everyone was finally forced to accept the reality they’d put off for as long as they could.",
+      "severity": "minor",
+      "source": "Line 203"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Dark Heaven’s great army would already be sweeping the area around Dunhuang like a net as it advanced toward the Great Snow Mountain—hunting down the survivors and moving to break the second defensive line in its path.",
+      "defect": "The source repeats the phrase about pursuing the surviving forces before stating the purpose of breaking the second line. The assembled English removes that repetition, which the accepted baseline preserved.",
+      "id": "F03",
+      "rationale": "The Korean repeats 살아남은 아군을 쫓음과 동시에, 살아남은 아군을 쫓음과 동시에 before giving the purpose. Although the repetition is awkward, the audit rules require preserving source repetitions.",
+      "replacement": "Dark Heaven’s great army would already be sweeping the area around Dunhuang like a net as it advanced toward the Great Snow Mountain—chasing down the survivors and, at the same time, chasing down the survivors to break the second defensive line in its path.",
+      "severity": "minor",
+      "source": "Line 291"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it drops an explicit action detail and a source repetition, and duplicates one sentence.",
+  "version": 1
+}

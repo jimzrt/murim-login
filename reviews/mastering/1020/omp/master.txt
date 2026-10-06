@@ -16,7 +16,7 @@ Everyone froze for a moment. Then, as the danger sank in, weapons came free of t
 
 “Prepare for battle!”
 
-“Disciples of the Martial Might Sword Sect, prepare for an enemy ambush!”
+“Disciples of the Martial Might Sword Sect, watch for an enemy ambush!”
 
 “Zhongnan Sect Disciples, form the Moon-Shattering Sword Formation!”
 
@@ -28,7 +28,7 @@ All around me flashed a mountain of sabers and a forest of swords. As our allies
 
 “W-wait a—!”
 
-A fierce gust swallowed Hyuk Mujin’s voice, and the distance of a dozen *jang* disappeared in an instant.
+I didn’t hear the rest. A fierce gust swallowed Mujin’s voice, and I covered a dozen *jang* in an instant.
 
 Buoyancy swept through my body. I stepped lightly on empty air, on the wind, soaring upward even as I raced forward.
 
@@ -38,7 +38,7 @@ Buoyancy swept through my body. I stepped lightly on empty air, on the wind, soa
 
 “You idiots, lower your bows! He’s one of ours!”
 
-My movements were so free that a few people below, still caught up in the confusion, mistook me for an enemy.
+Far below, a few people still caught up in the confusion had mistaken me for an enemy.
 
 Someone was following close behind me.
 
@@ -56,7 +56,7 @@ I fixed my gaze on the dust cloud rising over the distant, winding sand dunes.
 
 “Whatever’s happening, it can’t be good news.”
 
-A quarter of an hour later, I realized once again that bad premonitions, as always, never missed.
+Fifteen minutes later, I was reminded that a bad feeling never seemed to be wrong.
 
 “Cough. D-Dunhuang. Dunhuang has…!”
 
@@ -120,7 +120,7 @@ By now, they were probably all dead.
 
 Low groans rose from the leadership. I spoke up.
 
-“Wait. I heard you came from the Great Snow Mountain, not Dunhuang. Who told you this?”
+“Wait. You came from the Great Snow Mountain, not Dunhuang. Who told you this?”
 
 “I never learned his Daoist name, but he was a Kongtong Sect Daoist who had been defending Dunhuang.”
 
@@ -130,7 +130,7 @@ Low groans rose from the leadership. I spoke up.
 
 I frowned.
 
-The Kongtong Sect was a Daoist sect, and to its members, a Daoist name was as good as their own. Just as the monks of Shaolin Temple had abandoned their worldly names and introduced themselves by their Dharma names, Daoist names were basic introductions among martial artists.
+The Kongtong Sect was a Daoist sect. To its members, a Daoist name was as good as a name. Just as the monks of Shaolin Temple abandoned their worldly names and introduced themselves by their Dharma names, a Daoist would give his Daoist name when introducing himself. And among martial artists, introductions were basic courtesy.
 
 That he hadn’t even done that suggested two possibilities.
 
@@ -138,7 +138,7 @@ First, the messenger standing before us had brought false information.
 
 Or…
 
-*He died in such a desperate situation that he didn’t even have time to give his Daoist name.*
+*He died before he had time to give his Daoist name.*
 
 The messenger’s next words supported my second guess.
 
@@ -168,7 +168,7 @@ The others remained silent, looking as though they still couldn’t believe it. 
 
 The messenger didn’t answer. He only lowered his head.
 
-He only lowered his head in exhaustion. Seeing him, everyone was finally forced to accept the reality they’d put off for as long as they could.
+At last, the others had to accept the reality they’d been putting off.
 
 “H-how can this make any sense…?”
 
@@ -198,7 +198,7 @@ And Kongtong had been broken. Its forces had retreated, leaving behind two Elder
 
 “Then… the Sect Leader? What happened to the Sect Leader?”
 
-At the Wind-and-Cloud Sword Lord’s urgent question, everyone held their breath and waited for the messenger’s answer.
+At the Wind-and-Cloud Sword Lord’s urgent question, everyone held their breath and waited.
 
 By modern standards, thirty percent casualties would be catastrophic enough to call a force annihilated. Murim judged things differently.
 
@@ -214,7 +214,7 @@ Dozens of pairs of eyes fixed on the messenger. He swallowed hard before giving 
 
 “Thank goodness. Heaven was watching over him.”
 
-Sighs of relief escaped all around them. At that moment, someone suddenly spoke.
+Sighs of relief escaped around us. Then someone spoke.
 
 “And?”
 
@@ -224,7 +224,7 @@ Sighs of relief escaped all around them. At that moment, someone suddenly spoke.
 
 Most of the leadership had risen and fallen with every word of the report. This voice remained calm.
 
-Sima Gong stared at the messenger with a deeply sunken gaze and spoke again.
+Sima Gong watched the messenger with a dark, steady gaze.
 
 “If the Sect Leader withdrew with the surviving troops, he must have headed for the Great Snow Mountain. Yet from what you’ve said, there’s been no word of him since. Why is that?”
 
@@ -234,13 +234,13 @@ Silence fell again. The messenger looked helpless.
 
 “No way of knowing?”
 
-“Yes. The tide of battle turned in an instant, so the surviving allies split into two groups and retreated. The Sect Leader led many of them away and ordered a Disciple of the sect to deliver this news.”
+“Yes. The tide of battle turned so quickly that the survivors split into two groups to retreat. The Sect Leader led a considerable number of them and ordered one of his disciples to carry the news.”
 
 The dead could tell us nothing.
 
-The Disciple, sent by the Sect Leader to the Great Snow Mountain, had pushed himself to the limit and died before he could provide any more information. The ten thousand troops defending Dunhuang had been scattered to the four winds, and no word had come from them since.
+The Disciple had made it to the Great Snow Mountain on the Sect Leader’s orders, only to die before he could provide any more details. The ten thousand troops who’d defended Dunhuang had scattered, and no word had come from them since.
 
-“However, I left the Great Snow Mountain half a day ago, so it’s possible that the troops from Dunhuang have joined up by now.”
+“Still, I left the Great Snow Mountain half a day ago. It’s possible the troops from Dunhuang have reached it by now.”
 
 A few members of the leadership nodded hopefully. But I wasn’t so sure.
 
@@ -252,7 +252,7 @@ Dark Heaven’s great army would already be sweeping the area around Dunhuang li
 
 At that moment, I realized we had no choice left.
 
-“We’re not too late yet. Send a messenger at once and mobilize every force in the Qilian Mountains.”
+“We’re not too late. Send messengers at once and mobilize every force in the Qilian Mountains.”
 
 “What?”
 
@@ -272,10 +272,10 @@ I shrugged at his dark gaze.
 
 “Ah, just so there’s no misunderstanding.”
 
-The next moment, I pulled something from inside my clothes and added in a low voice,
+I pulled something from inside my clothes and added quietly,
 
 “This isn’t a suggestion. It’s an order.”
 
-Marquis of Shangshan, Jin Taekyung.
+*Marquis of Shangshan, Jin Taekyung.*
 
 Sima Gong’s eyes widened as he stared at the identity tablet, its characters engraved in elegant script.
