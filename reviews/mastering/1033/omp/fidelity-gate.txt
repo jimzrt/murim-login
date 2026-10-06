@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it adds a specific role for the Zhongnan Sect’s troops and softens a battlefield image.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 53–55",
+      "current": "every one of them was an elite disciple of the main sect, not a lay affiliate.",
+      "defect": "The source describes all of the Zhongnan Sect’s forces as elite members of the main sect rather than lay affiliates; it does not specify that they are disciples.",
+      "replacement": "every one of them was an elite of the main sect, not a lay affiliate.",
+      "rationale": "The Korean says 본산의 정예, describing their status as main-sect elites without identifying them specifically as disciples.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 267",
+      "current": "a mountain of sabers and a forest of swords danced across hundreds of *jang*.",
+      "defect": "The source says the mountain of sabers and forest of swords densely covered an area hundreds of *jang* wide. The English keeps the dancing image but loses the dense coverage.",
+      "replacement": "a mountain of sabers and a forest of swords, densely covering hundreds of *jang*, danced.",
+      "rationale": "The Korean phrase 수백여 장을 빽빽하게 뒤덮은 establishes dense coverage across that area, not merely that the blades danced across it.",
+      "confidence": 0.91
+    }
+  ]
+}

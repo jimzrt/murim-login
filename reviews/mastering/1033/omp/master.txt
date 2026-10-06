@@ -118,7 +118,7 @@ Bodies charred in an instant by the Flame Divine Palm’s terrible heat crumpled
 
 They had been stripped of pain and emotion, but death came equally to the hundred or so enemies who lost their lives in that moment.
 
-And through the gap in the battlefield, blanketed in death in an instant—
+And into the gap their deaths had opened—
 
 Ssshh…
 
@@ -142,7 +142,7 @@ Fear of death chilled my spine, but I held fast to my conviction.
 
 “What are you doing—!”
 
-And just as Jeok Cheongang’s urgent shout rang out—
+Jeok Cheongang’s urgent shout rang out.
 
 Pshk!
 
@@ -152,7 +152,7 @@ The two weapons grazed either side of my neck, leaving the faintest cuts. Forget
 
 I hadn’t dodged their attacks.
 
-In the life-or-death moment just now, the two Black Ghosts had forced their weapons to twist and change course.
+At the last possible instant, the two Black Ghosts had forced their weapons off course.
 
 Why?
 
@@ -176,7 +176,7 @@ Just like now.
 
 SHWOOOSH!
 
-I didn’t miss the opening that had been invisible until they exposed it themselves.
+I didn’t miss the opening they had exposed themselves.
 
 THUD!
 
@@ -204,7 +204,7 @@ With my free hand, I seized the wrist encased in jet-black armor and twisted it 
 
 CRACK. KRRUNCH.
 
-Flesh and bone crushed with a sickening, wet sound.
+Flesh and bone crushed with a sickening sound.
 
 The Black Ghosts had grown stronger through death and rebirth. I had surpassed human limits by surviving countless brushes with death.
 
@@ -216,7 +216,7 @@ I ripped off its wrist, the weapon still gripped in its hand, and drove my fist 
 
 KWAANG!
 
-The body went flying, trailing a foul, burnt stench as its black armor shattered.
+Its black armor shattered. Its body flew back, trailing the foul stench of burning flesh.
 
 But I knew.
 
@@ -258,7 +258,7 @@ Amid the shouts and screams pouring in from every direction, crimson blood spray
 
 Dozens of lives vanished with one breath in. With one breath out, their places were filled.
 
-Even now, death followed death without end across the horrific battlefield. It was enough to stir the nostalgia of someone who’d spent so many years confined to the lands beyond the desert.
+Death followed death without end across the horrific battlefield. For someone who had spent so many years confined to the lands beyond the desert, it was enough to stir a fierce nostalgia.
 
 “This is it. This is what I wanted…”
 
@@ -268,7 +268,7 @@ How he’d missed it.
 
 How he’d longed for it.
 
-In the distant past, he’d led a hundred thousand followers of the Demonic Path across the land at the side of the one called the Heavenly Demon. But those memories weren’t especially pleasant for the Blood-Sword Demon Lord.
+Long ago, he had led a hundred thousand followers of the Demonic Path across the land at the side of the one called the Heavenly Demon. But those memories weren’t especially pleasant for him.
 
 Even then, he’d been nothing more than a hunting dog mad for blood, and the Heavenly Demon had given him little authority to command.
 
@@ -276,7 +276,7 @@ Now things were different.
 
 His new master had given the Blood-Sword Demon Lord power over the lives and deaths of tens of thousands.
 
-All he’d been given was one simple condition: under no circumstances was he to kill Jin Taekyung.
+With just one simple condition: under no circumstances was he to kill Jin Taekyung.
 
 *To show me such absolute trust…*
 
