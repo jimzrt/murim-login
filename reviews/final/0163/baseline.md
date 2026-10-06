@@ -30,7 +30,7 @@ He was already nearing a hundred. He did not fear death, but he had no desire to
 
 *Even after all that effort…*
 
-He had reached his limit. The curse of time could not be held back even by two jiazi[^1] of internal energy or the Force of a Supreme Peak master.
+He had reached his limit. The curse of time could not be held back even by two jiazi of internal energy or the Force of a Supreme Peak master.
 
 He had managed to stave off the infirmities of old age for twenty years. He should be satisfied with that alone. The old man forced himself to cast aside his bitterness.
 
@@ -54,7 +54,7 @@ The enormous jar, tall enough to reach a man’s chest, sloshed with half-cooled
 
 “Then why are they struggling so much? Good grief. I can’t stand watching this.”
 
-The old man sprang to his feet and snatched the jar away. Weighing several hundred geun[^2] at the very least, it rose effortlessly in one hand.
+The old man sprang to his feet and snatched the jar away. Weighing several hundred catties at the very least, it rose effortlessly in one hand.
 
 It was almost impossible to believe such strength could come from a body reduced to little more than skin and bones. Black Sand wanted to gouge out his own eyes.
 
@@ -62,7 +62,7 @@ It was almost impossible to believe such strength could come from a body reduced
 
 At least he had watched his words. The Human Butcher had swung his sword around while calling the man an old geezer, and look how horribly he had died.
 
-Black Sand had no desire to meet the same end, bleeding from all seven orifices.[^3]
+Black Sand had no desire to meet the same end, bleeding from all seven orifices.
 
 “Elder! I’ll do it!”
 
@@ -250,7 +250,7 @@ Quick to read the situation, Chinggen realized the old man wanted information an
 
 “Wait here.”
 
-The old man pulled a crumpled sheet of xuan paper[^4] from his robes. A fairly skilled artist appeared to have drawn it, and the face of the person he sought was clearly depicted.
+The old man pulled a crumpled sheet of xuan paper from his robes. A fairly skilled artist appeared to have drawn it, and the face of the person he sought was clearly depicted.
 
 “Will this do?”
 
@@ -310,7 +310,7 @@ Despite the sudden Sound Transmission, Chinggen showed no reaction. As expected,
 
 —Are you listening? Answer me.
 
-—Accept the old man’s offer. Quickly!
+— Accept the old man’s offer. Quickly!
 
 —Impossible. I can’t find the person he wants. If we succeed, we may earn a tremendous favor, but if we raise his hopes for nothing and fail, all we’ll earn is his resentment. I have no intention of taking that risk. Nor do I want to become any more entangled with that old man.
 
@@ -330,7 +330,7 @@ He intended to blackmail a Supreme Peak master. Chinggen’s lips trembled sligh
 
 —No, it’s entirely possible. You’re too frightened of that old man to think clearly.
 
-—Don’t be ridiculous. Do you think he’ll fall for a threat like that? He’ll tear us apart before that happens!
+— Don’t be ridiculous. Do you think he’ll fall for a threat like that? He’ll tear us apart before that happens!
 
 —He’s already an old man whose mind comes and goes because of his infirmities. First, we scour the surrounding area and find the bastard. Then we drag things out until the old man loses his mind again.
 
@@ -380,7 +380,9 @@ No matter who lived or died, someone always filled the empty space they left beh
 
 “Speaking of which, the Northern Gaoyuan…”
 
-“I certainly came a long way,” the old man muttered as he looked around.
+*I certainly came a long way.*
+
+Muttering to himself, the old man looked around.
 
 The horizon stretched to the ends of the world. Here, where green grasslands and parched earth existed side by side, there was only one place for him to go.
 
@@ -391,8 +393,3 @@ The old man began to walk. With every step, the landscape flashed past and the g
 His stride was leisurely, yet he moved as swiftly as a loosed arrow.
 
 The arrow was bound for Datong, on the border between Shanxi and the Gaoyuan.
-
-[^1]: A jiazi is one sixty-year cycle in the traditional Chinese calendar; two jiazi are 120 years.
-[^2]: A geun is a Korean unit of weight equal to 600 g (1.32 lb). Several hundred geun would weigh at least about 120 kg (264 lb).
-[^3]: The seven orifices are the two eyes, two ears, two nostrils, and mouth.
-[^4]: Xuan paper is a traditional Chinese paper used for painting and calligraphy.
