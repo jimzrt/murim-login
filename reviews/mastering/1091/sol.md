@@ -34,7 +34,7 @@ It was dark everywhere.
 
 Clouds hid the sun, and a chill that swallowed its light filled the space it left behind.
 
-At the center of it all, they stood.
+And at the center of it all stood *them*.
 
 Dark Heaven’s vast army of monsters and humans.
 
@@ -54,7 +54,7 @@ But even if I could fool the whole world, there was one person I couldn’t fool
 
 At Jeok Cheongang’s Sound Transmission in my ear, I quietly bit my lip.
 
-*Yes. I am.*
+Yes. I was.
 
 At this moment, I was terrified enough to shudder.
 
@@ -96,7 +96,7 @@ Like the Sect Leaders of the Fire Gate Clan before him, he belonged to none of t
 
 *—But you deserve to be called one.*
 
-*—No. That’s wrong.*
+*—No. You’re wrong.*
 
 Jeok Cheongang answered firmly and fixed me with a deep, searching gaze.
 
@@ -112,7 +112,7 @@ Then Jeok Cheongang added quietly,
 
 A hero. A hero, huh.
 
-I mouthed those two words in my mind. They had always felt so far away. Then I gave a bitter smile.
+I turned that word over in my mind. It had always felt so far away. I gave a bitter smile.
 
 *—I never wanted to be one.*
 
@@ -132,7 +132,7 @@ Jeok Cheongang stared at me, eyes wide. Then he licked his lips.
 
 *—Let’s call it even.*
 
-*—You haven’t lost your knack for running that mouth. Now you’re finally starting to feel like the little hellion I knew.*
+*—You haven’t lost your knack for running that mouth. Now you’re finally starting to sound like the little hellion I knew.*
 
 Jeok Cheongang let out a quiet laugh and gestured with his chin beyond the wall.
 
@@ -158,11 +158,11 @@ I felt the powerful vibrations travel up the tall, sturdy wall and through my wh
 
 At the same time, I saw him.
 
-At the head of the enemy forces, so numerous I couldn’t begin to count them, one man was grinning as he looked straight at us.
+At the head of an enemy force too vast to count by sight, one man was grinning straight at me.
 
 *The Blood Lord.*
 
-He looked quite different from the last time I’d seen him, but the moment I saw that crooked smile, I knew by instinct.
+He looked quite different from the last time I’d seen him, but the moment I saw that crooked smile, I knew.
 
 The thick killing intent and madness about him seemed as though they’d rub off if I touched him. Even the Blood-Sword Demon Lord I’d defeated in Gansu couldn’t compare.
 
@@ -180,7 +180,7 @@ The Bow Saint immediately sensed what was coming and tried to stop him.
 
 At her look for support, the Slaughter Saint, who had appeared out of nowhere and taken up a place on the wall, calmly nodded.
 
-“Yeah, it’s crazy.”
+“It would be crazy.”
 
 Jeok Cheongang furrowed his brow. The Slaughter Saint added,
 
@@ -222,15 +222,15 @@ The Blood Lord trailed off, more than a little taken aback. By then, the three m
 
 “You’re lower than a dog. You goddamned bastard. Burning you alive wouldn’t be enough, you miserable—”
 
-“So you’re the Blood Lord I’ve heard about. I know this is a strange request for a first meeting, but would you mind calmly offering your neck and stepping aside?”
+“So you’re the Blood Lord I’ve heard about. An odd request when we’ve only just met, I know, but would you consider quietly handing over your head and stepping aside?”
 
-First came Jin Taekyung, whose curses had an oddly satisfying ring to them. Then Jeok Cheongang, hurling every obscenity he knew. And finally the Slaughter Saint, whom the Blood Lord was meeting for the first time.
+Jin Taekyung’s curses had an oddly satisfying ring to them. Jeok Cheongang hurled every obscenity he knew. Even the Slaughter Saint, whom the Blood Lord was meeting for the first time, joined in.
 
-For a moment, surprise had covered the Blood Lord’s anger. Now he felt it surge back to the surface.
+The anger that his surprise had briefly obscured surged to the surface.
 
 “Are you done talking?”
 
-At the Blood Lord’s low voice, Jin Taekyung hesitated briefly and glanced at the Slaughter Saint.
+At the Blood Lord’s low voice, Jin Taekyung paused and glanced at the Slaughter Saint.
 
 “Anything else you’d like to say?”
 
@@ -240,13 +240,13 @@ The Slaughter Saint had already been remarkably rude for someone meeting him for
 
 “This one says he’s done.”
 
-Crack.
+*Grit.*
 
 The Blood Lord clenched his teeth at that nonchalant response and opened his mouth.
 
 Or tried to.
 
-Before he could, another wave of obscenities swept over him.
+Before he could, another wave of abuse swept over him.
 
 “I’ll grind down every last bone in your body. I’ll toss your flesh to the Nanman Beast Palace for feed, then scatter your remains in the Shaolin Temple latrines, and—”
 
@@ -264,7 +264,7 @@ The immense internal energy packed into that single shout made Dark Heaven’s s
 
 But the three men closest to him, who felt the full force of it, were the exception.
 
-Whoosh!
+*Whoosh!*
 
 A single sharp gust cut through the billowing dust.
 
@@ -282,4 +282,4 @@ The Blood Lord had gathered his anger and unleashed it all at once. Now he stare
 
 The smile vanished from Jin Taekyung’s lips.
 
-“This time will be different. Everything else will be.”
+“Everything else will be different this time.”

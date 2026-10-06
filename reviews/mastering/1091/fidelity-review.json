@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "the title of Great Hero, which stuck to me before I knew it",
+      "defect": "The Korean compares the title attaching to him to a label. The English keeps the idea of sticking but drops that explicit image, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "꼬리표처럼 붙어버린 means it stuck to him like a label.",
+      "replacement": "the title of Great Hero, which stuck to me like a label before I knew it",
+      "severity": "minor",
+      "source": "Lines 104–105"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I was itching for a fight anyway. How kind of him to offer.",
+      "defect": "The Korean completes the itching image by saying the Blood Lord is scratching it for him. The English changes that punchline into a generic offer of a fight.",
+      "id": "F02",
+      "rationale": "몸이 근질거렸는데 and 알아서 긁어 주는군 form a linked itch-and-scratch joke.",
+      "replacement": "I was itching for a fight anyway. He’s scratching it for me himself.",
+      "severity": "minor",
+      "source": "Lines 184–184"
+    },
+    {
+      "confidence": 0.97,
+      "current": "three figures hurtling across the distant sky toward him",
+      "defect": "The English omits that the figures are descending through the sky, a physical detail present in the source and preserved in the accepted baseline.",
+      "id": "F03",
+      "rationale": "떨어져 내리는 specifies that the figures are falling or descending.",
+      "replacement": "three figures plummeting through the distant sky toward him",
+      "severity": "minor",
+      "source": "Lines 224–224"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but a few details lose source-specific imagery, action, or terminology.",
+  "version": 1
+}
