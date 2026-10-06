@@ -2,23 +2,23 @@
 
 For martial artists who lived on the edge of death, hearing was an invaluable sense.
 
-When you were facing an enemy, the whisper of a sleeve brushing past could only mean they were launching a sneak attack. And you could read someone’s state of mind from the pitch and tremor of their voice.
+Sound carried information. The rustle of a sleeve while facing an enemy could mean a sneak attack. The pitch and tremor of a voice could reveal what someone was feeling.
 
 To a martial artist, sound was information.
 
-And the drumbeats rolling in from far away at that very moment were no exception.
+And the drumbeats rolling in from far away were no exception.
 
 Thump. Thump-thump. Thuuump!
 
 There was no proper rhythm, and each beat rang out at a different volume.
 
-An image came to the middle-aged man’s mind: somewhere in the snow-covered mountains, a drummer was pounding away with all his might, looking as if half his soul had already left his body. He scratched the back of his neck.
+The middle-aged man pictured a drummer somewhere in the snow-covered mountains, pounding away with all his might, looking as if half his soul had left his body. He scratched the back of his neck.
 
 “Did we come on a little too strong with the greeting?”
 
-Low laughter rippled through the group at his words.
+Low laughter rippled through the group.
 
-By now, they weren’t the only ones who knew that the hundred scouts from the Great Snow Mountain they had encountered nearby two hours earlier were dead.
+By now, they weren’t the only ones who knew that the hundred scouts from the Great Snow Mountain they had encountered two hours earlier were dead.
 
 “Can you blame them? The people they shared meals with came back as corpses overnight.”
 
@@ -28,7 +28,7 @@ By now, they weren’t the only ones who knew that the hundred scouts from the G
 
 *Boom!*
 
-A deafening whoosh swallowed the rest of the old man’s words.
+A tremendous rush of air swallowed the rest of the old man’s words.
 
 Before he could finish speaking, an immense force slammed into his chest. He shot backward like a cannonball, righted himself in midair, and tried to land.
 
@@ -64,7 +64,7 @@ Could there be a greater insult to martial artists, who were said to be made of 
 
 Yet the three old men—the Three Elders of Tianshan—could only tremble in silence.
 
-Were they trying to suppress the rage welling up inside them?
+Were they struggling to suppress their anger?
 
 No.
 
@@ -72,19 +72,19 @@ How could they suppress something that wasn’t there?
 
 There was no anger toward the middle-aged man in their aging bodies or hearts. What bound them like chains was fear.
 
-He’d lashed out with a killing blow without hesitation over a single word that displeased him. His expression and tone made it seem as though he were looking at ants he could crush underfoot at any moment.
+One displeasing remark, and he had struck without hesitation. He looked and spoke to them as if they were ants he could crush underfoot at any moment.
 
-The middle-aged man before them had both the strength and the right to act that way.
+The middle-aged man before them had the power to do it.
 
 “Please forgive us!”
 
-“I-It’s because we’re lacking.”
+“W-We have failed you.”
 
 “This foolish old man misspoke. How could the Fire King possibly be a match for the Demon Lord?”
 
 The three fiends of Tianshan, who had once drenched the Central Plains in blood beneath the Demonic Cult’s banner, scrambled to prostrate themselves.
 
-If they didn’t, they felt the middle-aged man—the Blood-Sword Demon Lord—might kill them on the spot.
+If they didn’t, they felt certain the middle-aged man—the Blood-Sword Demon Lord—would kill them on the spot.
 
 He looked down at them with an unmistakable sneer.
 
@@ -96,9 +96,9 @@ His scorn wasn’t limited to the Three Elders of Tianshan. It was directed at t
 
 The Heavenly Demon.
 
-Remembering the man who had inherited that title through the generations and ruled as the king and Heaven of the Hundred Thousand Demonic Disciples, the Blood-Sword Demon Lord let out a hollow laugh.
+Remembering the man who had inherited that title, who had ruled as the Heaven and king of the Hundred Thousand Demonic Disciples, the Blood-Sword Demon Lord let out a wry laugh.
 
-That he had dreamed of a Demonic Path ruling the world—a feat no Heavenly Demon had achieved in a thousand years.
+Looking back, it was ridiculous. He had placed his faith and loyalty in a man of such limited caliber. He had dreamed of a world ruled by the Demonic Path, though no Heavenly Demon had achieved it in nearly a thousand years.
 
 But things were different now.
 
@@ -110,19 +110,19 @@ His true master.
 
 The Blood-Sword Demon Lord firmly believed that the enemies drawing nearer on the Great Snow Mountain would soon serve the Lord of Heaven alongside him. Even if they refused, resisted with all their might, and chose death in the end, the outcome would be the same.
 
-*In the end, they’ll seek shelter in that person’s shadow.*
+*In the end, they’ll take shelter in his shadow.*
 
 Laughing softly, the Blood-Sword Demon Lord turned to look behind him.
 
 *Crunch. Crunch.*
 
-Tens of thousands of troops were marching toward the Great Snow Mountain, crushing the frost-covered plants underfoot.
+Tens of thousands of troops marched toward the Great Snow Mountain, crushing frost-covered plants underfoot.
 
 At their head were seven strange figures dressed in black as pitch, and, in stark contrast, several dozen people dressed in white.
 
 “You seem worried, so I’ll tell you one thing.”
 
-The Blood-Sword Demon Lord spoke without warning, then continued slowly, addressing the Three Elders of Tianshan.
+The Blood-Sword Demon Lord turned back to the Three Elders and continued slowly.
 
 “Someone like the Fire King could never stop us.”
 
@@ -136,7 +136,7 @@ But…
 
 *What exactly are they?*
 
-*He hasn’t told us their names or titles. How can he be so certain?*
+*He hasn’t even told us their names or sobriquets. How can he be so certain?*
 
 *There’s nothing we can do. We just have to follow him.*
 
@@ -152,7 +152,7 @@ The Blood-Sword Demon Lord clicked his tongue at their bowed heads, then gave hi
 
 The Three Elders waited, but he left the sentence unfinished. A faint smile crossed his face.
 
-*There’s someone I’d very much like to see, too.*
+*There’s someone I want to see.*
 
 He didn’t mean the Fire King, Jeok Cheongang—an old enemy who had fought on a different battlefield for a different goal.
 
@@ -160,7 +160,7 @@ Before the fighting truly began, the Blood-Sword Demon Lord wanted to meet not t
 
 The Blazing Flame Divine Dragon, Jin Taekyung.
 
-For some reason, the young colossus of the orthodox Murim had drawn the attention of his master—the Lord of Heaven—in a way the Demon Lord couldn’t understand.
+For some reason the Blood-Sword Demon Lord couldn’t fathom, that young giant of the orthodox faction had caught his master’s attention.
 
 From the moment he received the excessive order not to kill Taekyung even if they met, his thoughts had been fixed on him.
 
@@ -182,7 +182,7 @@ They had set out four hours earlier to check the enemy’s movements. Now they h
 
 Cries like screams rose all around us.
 
-Those who had lost people close to them in the scouting party poured out their grief and rage. Even the Fire Dragon Pavilion members, who were used to gruesome sights, clenched their teeth.
+Those who had lost loved ones among the scouts gave voice to their grief and rage. Even the Fire Dragon Pavilion members, used as they were to gruesome sights, clenched their teeth.
 
 “This…”
 
@@ -200,7 +200,7 @@ But in a situation like this, someone had to keep a cool head. I examined the se
 
 Death left its mark. The cuts that had severed the scouts’ heads were so uniform and sharp they looked as though they’d been measured with a ruler.
 
-If even Jeok Cheongang judged it that way, then it had to be a master at least comparable to one of the Ten Kings—or someone even stronger—who had slaughtered them all.
+If even Jeok Cheongang judged them that way, whoever had slaughtered the scouts had to be at least comparable to one of the Ten Kings, if not stronger.
 
 “And this…”
 
@@ -214,7 +214,7 @@ The enemy’s identity wasn’t what mattered right now.
 
 What mattered was the horrifying number of enemies approaching in the distance, raising a vast cloud of dust.
 
-I couldn’t make out their exact numbers yet, but even just counting those pouring down the hill toward us, there were a staggering twenty thousand.
+I couldn’t make out their exact numbers yet, but there were a staggering twenty thousand pouring down the hill toward us.
 
 They were still several hundred *jang* away. Even so, the aura and killing intent pouring from that enormous army sent the birds of the harsh Great Snow Mountain beating their wings in frantic flight.
 

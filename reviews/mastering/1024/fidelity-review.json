@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "When you were facing an enemy, the whisper of a sleeve brushing past could only mean they were launching a sneak attack. And you could read someone’s state of mind from the pitch and tremor of their voice.",
+      "defect": "The source first says that sound carries a great deal of meaning, then gives examples, and concludes that sound is information. The assembled English omits that explicit opening statement.",
+      "id": "F01",
+      "rationale": "Korean line 7 explicitly states that sound contains many meanings; the examples in line 9 and conclusion in line 11 do not fully preserve that stated beat.",
+      "replacement": "Sound carried a great deal of meaning.\n\nWhen you were facing an enemy, the whisper of a sleeve brushing past could only mean they were launching a sneak attack. And you could read someone’s state of mind from the pitch and tremor of their voice.",
+      "severity": "minor",
+      "source": "Korean lines 7–11"
+    },
+    {
+      "confidence": 0.91,
+      "current": "I glanced at Sima Gong, directing the martial artists of the Black Dragon Demon Gate in the distance.",
+      "defect": "The source says Sima Gong was commanding the martial artists from the front; the English only says he was directing them in the distance.",
+      "id": "F03",
+      "rationale": "진두지휘하는 describes leading and commanding from the front, a positioning detail not conveyed by “directing … in the distance.”",
+      "replacement": "I glanced at Sima Gong, leading the martial artists of the Black Dragon Demon Gate from the front in the distance.",
+      "severity": "minor",
+      "source": "Korean line 285"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it omits two explicit source details: the opening statement about how much meaning sound carries and the Demon Lord’s reflection that pledging loyalty to the Cult Leader was ridiculous. It also drops a detail about Sima Gong’s position while commanding the troops.",
+  "version": 1
+}
