@@ -280,7 +280,7 @@ Yeah. If I was being honest…
 
 The real-world me was pitiful.
 
-I ate and slept in a goshiwon[^1] room barely ten square meters in size,[^2] the breadwinner responsible for supporting my family. I couldn’t become a hero, and I didn’t want to.
+I ate and slept in a goshiwon room barely ten square meters in size,[^1] the breadwinner responsible for supporting my family. I couldn’t become a hero, and I didn’t want to.
 
 I was just Jin Taekyung, a bottom-rung Hunter who fought every day while praying he would survive.
 
@@ -356,5 +356,4 @@ Right. When you don’t know something, the best thing to do is ask.
 
 And in that respect, Peak master Jin Wikyung was the best private tutor I could ask for.
 
-[^1]: A goshiwon is a building that rents out small, inexpensive rooms, often with shared facilities.
-[^2]: Ten square meters is about 108 square feet.
+[^1]: A goshiwon is a tiny, inexpensive room-for-rent housing arrangement.
