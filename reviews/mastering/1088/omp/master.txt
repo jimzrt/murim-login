@@ -166,7 +166,7 @@ I added quietly, remembering a past that still lingered like a scar.
 
 “You must feel it in your bones, but even judging by what we know so far, their strength is beyond anything we imagined. If Xining is surrounded, we’ll be in for a very difficult fight.”
 
-As if agreeing, Bow Saint nodded quietly. Both had reached heights martial artists could scarcely dream of, and yet even they had to consider the possibility of defeat. That was how dire things were.
+Bow Saint, who had been watching in silence, nodded as if she agreed. Both had reached heights most martial artists wouldn’t dare dream of, yet even they had to consider the possibility of defeat. That was how dire things were.
 
 “I told you before: anyone can become a coward in a crisis.”
 
@@ -204,7 +204,7 @@ At my calm reply, Jeok Cheongang’s brow furrowed.
 
 He wasn’t being arrogant. He wasn’t exaggerating.
 
-The Three Saints and Ten Kings were symbols of the Murim world, and its strongest forces.
+The Three Saints and Ten Kings were symbols of the Murim world, and its strongest fighters.
 
 It was embarrassing to admit, but I, too, had become something of a symbol.
 
@@ -216,11 +216,11 @@ As I fell silent, Jeok Cheongang went on with something like a sigh.
 
 That was when I finally parted my tightly closed lips.
 
-“Even so, we have to.”
+“Even so, I have to.”
 
 “What?”
 
-“No. Because everyone has turned away and abandoned us, we have to do it even more.”
+“No. Because everyone has looked away and turned their backs, I have to do it all the more.”
 
 Jade is beautiful even as it shatters.
 
@@ -230,7 +230,7 @@ That is jade shattering.
 
 That is why it is called jade shattering.
 
-It is so brilliant, you forget the word *destruction*.
+Because it shines so brightly that you forget it is being destroyed.
 
 Because it breaks rather than be defiled.
 
@@ -280,11 +280,11 @@ The greatest, strongest wall casting its shadow over the world was still standin
 
 *The Lord of Heaven.*
 
-Just then, as the meaning of those two words rang through my heart and drew nearer than ever, Jeok Cheongang—head bowed, lost in thought amid the heavy silence—suddenly spoke.
+The meaning of that name, now so much closer, echoed in my mind. Then, amid the heavy silence, Jeok Cheongang lifted his head from his thoughts and spoke.
 
 “You asked whether I’d ever seen jade covered in filth and dust?”
 
-He muttered as if speaking to himself, then raised his head.
+He muttered as if speaking to himself, then raised his head fully.
 
 Though his body had grown young again, a familiar face was reflected in eyes that held the weight of his years.
 
@@ -302,7 +302,7 @@ His gaze, drawn back to that day in the not-so-distant past, began to shine.
 
 The furrows between his brows deepened.
 
-With a clear smile on his face, he slowly reached out and rested a hand on my shoulder.
+Now wearing a broad smile, he slowly reached out and rested a hand on my shoulder.
 
 “If you’d made the same choice as them, I never would have forgiven you.”
 
@@ -322,6 +322,6 @@ First, he’d go find everyone who insulted his one and only Disciple and beat t
 
 Jeok Cheongang laughed out loud at that.
 
-“That’s the plan. I’ll squeeze out every last drop of strength I’ve got.”
+“That’s the plan. I’ll squeeze out every last bit, even if it takes all the strength I had as a babe.”
 
 And before half a day had passed, his words became reality.
