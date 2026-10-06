@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "settling into a life of idleness",
+      "defect": "This softens 날백수, which describes him as a complete unemployed layabout, and loses the comic career-change framing of 전직했다.",
+      "id": "F01",
+      "rationale": "The source says he switched careers to become a 날백수, not merely that he retired into an idle life.",
+      "replacement": "becoming a full-time bum",
+      "severity": "minor",
+      "source": "Lines 10–10"
+    },
+    {
+      "confidence": 0.88,
+      "current": "An utter pauper.",
+      "defect": "This changes 상거지 from an emphatic description of a beggar into a description of poverty.",
+      "id": "F02",
+      "rationale": "The source intensifies the beggar comparison; the following 왕초 거지 likewise means a beggar kingpin.",
+      "replacement": "A beggar of the worst sort.",
+      "severity": "minor",
+      "source": "Line 22"
+    },
+    {
+      "confidence": 0.85,
+      "current": "You really do everything, don’t you?",
+      "defect": "This reads as a comment on how many things he does, rather than the narrator’s exasperated sarcasm at his latest absurd behavior.",
+      "id": "F03",
+      "rationale": "진짜 가지가지 하네 is a sarcastic rebuke here, immediately followed by the Great Sir asking what the narrator said.",
+      "replacement": "You really are something else.",
+      "severity": "minor",
+      "source": "Line 82"
+    }
+  ],
+  "summary": "The assembled translation is largely faithful, but it softens the source’s characterization of the Great Sir and blunts one sarcastic reaction.",
+  "version": 1
+}

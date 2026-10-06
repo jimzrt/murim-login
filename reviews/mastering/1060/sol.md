@@ -62,7 +62,7 @@ It was like finding out that Kim, the homeless guy who ruled the second exit at 
 
 *But seriously, why are you crying so hard?*
 
-As I stood there, unsure what to do and darting my eyes around, the strange man—no, the Great Sir—who’d been wailing in my arms finally spoke in a congested voice.
+As I stood there, unsure what to do and darting my eyes around, the strange man—no, the Great Sir—who’d been wailing in my arms finally spoke in a stuffy voice.
 
 “Ahem. Ahem. Forgive me. It was such a moving moment that I couldn’t help crying.”
 
@@ -72,13 +72,13 @@ I looked down at the front of my chest, soaked and sticky, and corrected him.
 
 “My nose was running, too.”
 
-I could understand tears and a runny nose, but why he had to let them both out while clinging to me was beyond me. Still, I nodded, summoning the bare minimum of patience and respect for my elder.
+Tears and snot, fine, but why did he have to get them all over me? Still, I nodded, summoning the bare minimum of patience and respect for my elder.
 
 “Uh, sure. So you’re feeling better now?”
 
 “Thanks to you, I’ve calmed down a little. Do you mind if I blow my nose?”
 
-“You really do everything, don’t you?”
+“You’ve got to be kidding me.”
 
 “Hmm? What was that?”
 
@@ -86,7 +86,7 @@ I could understand tears and a runny nose, but why he had to let them both out w
 
 “Thank you.”
 
-The Great Sir thanked me in a guileless voice, then blew his nose with a sound that seemed to clear out his entire head.
+The Great Sir thanked me in a guileless voice, then blew his nose with a sound that suggested he’d cleared out everything inside him.
 
 *Phaaaang!*
 
@@ -102,7 +102,7 @@ I was really about to snap.
 
 * * *
 
-To sum it up, even with half my sanity gone, I somehow managed not to punch the Great Sir in the head.
+To sum it up, even with half my self-control gone, I somehow managed not to punch the Great Sir in the face.
 
 Starting a fight in the middle of a battlefield that hadn’t been fully secured yet would have been unwise. More than that, Perfected Being Hyeoncheon had quickly grasped what was happening and stepped in.
 
@@ -114,7 +114,7 @@ Who was Perfected Being Hyeoncheon?
 
 The Sect Leader of the Kongtong Sect, one of the Nine Sects and One Gang; a hero of the Great Faction War; and a Supreme Peak master representing Gansu.
 
-If we were talking about the Marine Corps, he’d be a legendary first-wave veteran who’d taken part in the Incheon Landing Operation. He had the seniority to stand in the middle of the world and shout, “Everyone below me and above you, fall in!”
+In Marine Corps terms, he was a legendary first-class veteran who’d even fought in the Incheon Landing Operation. He had the seniority to stand in the middle of the world and shout, “Everyone below me and above you, fall in!”
 
 And yet this man, whose standing in Murim and martial prowess both ranked among the highest in the world, was the first to offer a fist-and-palm salute with the utmost respect.
 
@@ -136,7 +136,7 @@ The story went like this.
 
 After their defeat at Dunhuang, Perfected Being Hyeoncheon and the Kongtong Sect survivors had no idea where to go.
 
-They had to flee east to avoid Dark Heaven’s forces gathering like clouds in the west. But now that they felt betrayed by their allies, heading east would have been like walking straight into a tiger’s jaws.
+They needed to flee east, away from Dark Heaven’s forces gathering like clouds in the west. But with suspicion of their allies already taking root, heading east felt like walking straight into a tiger’s jaws.
 
 So they chose to go north, toward the grasslands.
 
@@ -156,7 +156,7 @@ Even Perfected Being Hyeoncheon, who had to lead them all, had reached his limit
 
 The nights on the grasslands were deep and silent.
 
-For the fugitives crossing that endless expanse, any light in the dark was something to be wary of.
+For the fugitives crossing that endless expanse, any light in the dark was cause for alarm.
 
 “We crept closer, keeping as quiet as we could. A strange man was roasting camel meat. It was the first food we’d seen in four days, and we were all half out of our minds.”
 
@@ -204,7 +204,7 @@ At first, Perfected Being Hyeoncheon had been wary of the unidentified Supreme P
 
 “The Seven Masters of Baekma Bang,” Ma Junggeol interjected through gritted teeth.
 
-“Oh, I must have mixed that up. The Black-Horse Seven?”
+“Oh, I must have mixed that up. The Seven Masters of Black Horse?”
 
 “I said the Seven Masters of Baekma Bang! Honestly, this is driving me insa—”
 
@@ -226,7 +226,7 @@ Ma Junggeol, grimacing as he rubbed the back of his head, spoke in a tiny voice.
 
 He clamped his mouth shut when our eyes met. But this time, instead of hitting him, I patted him on the shoulder.
 
-The Seven Masters of Baekma Bang had promised a few days ago that they would bring the Great Sir back. They’d returned with the horse caravans under their command, and thanks to them, we’d been able to deal a decisive, fatal blow to the enemies who were on the verge of collapse.
+The Seven Masters of Baekma Bang had promised a few days ago that they would bring the Great Sir back. They’d returned with the horse caravans under their command, and thanks to them, we’d been able to deal a decisive blow to the collapsing enemy forces.
 
 *So that’s how this worked out.*
 
@@ -244,7 +244,7 @@ Still, one question remained.
 
 I looked at the man they called the Great Sir, my eyes full of questions.
 
-A moment ago, he’d clung to me and sobbed as if we were reuniting with a long-lost family. Now he was yawning widely just because the story had gotten a little long. As expected, he seemed far from sane.
+A moment ago, he’d clung to me and sobbed as if we were long-lost family reunited. Now he was yawning openly just because the story had gotten a little long. He certainly didn’t seem quite sane.
 
 Just as Ma Junggeol and his sworn brothers had told me.
 
@@ -252,7 +252,7 @@ Quietly, secretly, I reached out toward the Great Sir.
 
 With a hand of detection, invisible and granted to me alone.
 
-*Skill: Activate Qi Sense.*
+*Skill, activate Qi Sense.*
 
 *Whooooosh.*
 
