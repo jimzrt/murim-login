@@ -172,7 +172,7 @@ I activated Qi Sense to check Hyuk Mujin’s Level.
 
 > **System**
 >
-> - You used **Qi Sense**. At its current six-star realm, you can search for targets at Level 80 or below within 60 jang.[^1]
+> - You used **Qi Sense**. At its current six-star realm, you can search for targets at Level 80 or below within 60 jang.
 > - **Qi Sense** has identified the target.
 >
 > **Lv. 50 Hyuk Mujin**
@@ -314,7 +314,7 @@ It was a force only I could feel in this world.
 
 The moment an unprecedented power, whose origin I could not identify, flowed through my entire body like a wave—
 
-“Let’s start with mild Neoguri.”[^2]
+“Let’s start with mild Neoguri.”[^1]
 
 *Whoooosh!*
 
@@ -336,7 +336,7 @@ More than ten spear images charged in from every direction. Cheongpung stepped f
 
 The few remaining bluestones shattered, and dirt erupted into the air.
 
-Jin Taekyung looked at Cheongpung, who had retreated three jang[^1] in an instant, and asked,
+Jin Taekyung looked at Cheongpung, who had retreated three jang in an instant, and asked,
 
 “Knew it. Dark Fragrance Drift?”
 
@@ -354,7 +354,7 @@ Jin Taekyung looked at Cheongpung, who had retreated three jang[^1] in an instan
 
 After finishing his sentence, Jin Taekyung suddenly shuddered from head to toe and grinned.
 
-“Next up: spicy Jin Ramen.”[^3]
+“Next up: spicy Jin Ramen.”
 
 The incomprehensible words had barely left his mouth when he charged.
 
@@ -406,14 +406,12 @@ A Spear Cry.
 
 As Cheongpung stared openmouthed, Jin Taekyung grinned.
 
-“All right. Now for spicy Puramyeon.”[^4]
+“All right. Now for spicy Puramyeon.”
 
 *Krrrnnng.*
 
-With the force of a thousand geun,[^5] the spear’s cry rang out even louder.
+With the force of a thousand catties, the spear’s cry rang out even louder.[^2]
 
-[^1]: A jang is ten Korean ja, or about 3.03 m (9.94 ft). Sixty jang is about 182 m (597 ft); three jang is about 9.09 m (29.8 ft).
-[^2]: Neoguri is an instant-noodle brand. Taekyung is using its mild flavor label to describe his attack.
-[^3]: Jin Ramen is an instant-noodle brand with a spicy flavor variety.
-[^4]: Puramyeon is an instant-noodle brand used as the last step in Taekyung’s flavor joke.
-[^5]: A Korean geun is a traditional unit of weight equal to 600 g (1.32 lb). A thousand geun is 600 kg (about 1,320 lb); here, the weight describes the spear’s immense force.
+[^1]: Neoguri, Jin Ramen, and Puramyeon are instant-noodle brands; Taekyung uses their flavor labels as a joke.
+
+[^2]: A catty is a traditional East Asian unit of weight. “A thousand catties” is an expression for tremendous force.
