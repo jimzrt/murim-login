@@ -148,7 +148,7 @@ He came back during the break after that, too.
 
 “You punk. That’s still impressive. I graduated dead last.”
 
-“You’re impressive too, hyung.[^1] But I need to get back to work.”
+“You’re impressive too, hyung. But I need to get back to work.”
 
 “Oh, right.”
 
@@ -156,7 +156,7 @@ Then he came back during the next break, and the next, and the one after that.
 
 “Taekyung. Taekyung. Taekyung.”
 
-“Hyung,[^1] I think my cochlea just ruptured.”
+“Hyung, I think my cochlea just ruptured.”
 
 “How many years did you say you worked at your old Guild?”
 
@@ -186,7 +186,7 @@ I stood and shouldered the bag, now noticeably heavier than before. Hobgoblins w
 
 Team Leader Choi had contributed the most, so he’d probably take about half. But with so few people, it was still a profitable deal for the other team members.
 
-Not me, of course. According to the contract, the 300,000-won[^2] base pay was all I would get.
+Not me, of course. According to the contract, the 300,000-won base pay was all I would get.
 
 *If he’s in a good mood, maybe he’ll throw in a little extra.*
 
@@ -204,7 +204,7 @@ If we opened the stone gate in front of us, the Gate’s boss monster and the ma
 
 “Man, all that work made me hungry.”
 
-“Let’s finish this quick and go get some gukbap.[^3] Taekyung, you’re coming too, right? You too, Team Leader Choi.”
+“Let’s finish this quick and go get some gukbap.[^1] Taekyung, you’re coming too, right? You too, Team Leader Choi.”
 
 “No, thank you. I’ll order sushi separately.”
 
@@ -320,7 +320,7 @@ Team Leader Choi was already rushing toward the creature, as if he’d known fro
 
 “The wind takes hold. Haste.”
 
-His body slid forward. More than a hundred meters[^4] vanished in an instant. With five paces left, the sword came free from Team Leader Choi’s waist.
+His body slid forward. More than a hundred meters vanished in an instant. With five paces left, the sword came free from Team Leader Choi’s waist.
 
 Whoosh!
 
@@ -350,7 +350,7 @@ It was already too late.
 
 Only a few seconds ago, it had been nothing more than energy given form. Now it was rapidly taking shape.
 
-A hulking body nearly three meters[^5] tall. Muscles swollen to the point of bursting. A monster wielding an enormous greatsword.
+A hulking body nearly three meters tall. Muscles swollen to the point of bursting. A monster wielding an enormous greatsword.
 
 “What the hell is that…?”
 
@@ -414,8 +414,4 @@ Team Leader Choi turned with a resolute look I’d never seen on him before.
 
 *Hey, you bastard.*
 
-[^1]: *Hyung* is a Korean form of address a man uses for an older brother or an older man he is close to.
-[^2]: 300,000 Korean won is about $210 or €190.
-[^3]: Gukbap is a Korean dish of rice served in hot soup.
-[^4]: 100 meters is about 328 ft.
-[^5]: 3 meters is about 9.8 ft.
+[^1]: Gukbap is a Korean dish of rice served in hot soup.
