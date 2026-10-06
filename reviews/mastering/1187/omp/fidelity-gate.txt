@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is largely faithful, with a few minor losses or shifts in imagery and nuance.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 133–135",
+      "current": "This is something else entirely.",
+      "defect": "The Korean follows the statement that this is a different order of dark art with 말 그대로였다 (“that was literally the case”). The assembled English omits that explicit confirmation, which the accepted baseline preserved.",
+      "replacement": "This was a different order of dark art. He meant that literally.",
+      "rationale": "The source explicitly reinforces the preceding assessment before describing how the previous generation’s fiends compare.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 185",
+      "current": "Come in a whole pack, have you?",
+      "defect": "The source compares them to a pack of dogs (개떼처럼), adding a dismissive, animalizing image that “a whole pack” omits.",
+      "replacement": "You came like a pack of dogs.",
+      "rationale": "The comparison is explicit in the Korean and contributes to Jeok Cheongang’s contemptuous tone.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 235",
+      "current": "He was stronger and colder now than he had been then—beyond comparison.",
+      "defect": "“Colder” can imply emotional detachment or callousness. Here 냉정한 describes his state as more composed or clear-headed.",
+      "replacement": "He was stronger and far more clear-headed now than he had been then.",
+      "rationale": "The Korean contrasts his current strength and 냉정한 state with the past; it does not establish that he has become more callous.",
+      "confidence": 0.84
+    }
+  ]
+}

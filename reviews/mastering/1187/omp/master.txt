@@ -8,7 +8,7 @@ Gloomy and dark, it crept closer like a huge predator that had spotted its prey.
 
 Something beyond what they could see was stirring a primal fear in them.
 
-And the Fire King, Jeok Cheongang, was one of the few people who could recognize the true nature of the power within that mist before anyone else—and understand it clearly.
+And the Fire King, Jeok Cheongang, was among the very few who could recognize the power within that mist for what it was.
 
 *This is…!*
 
@@ -106,7 +106,7 @@ No one was there. No one.
 
 Even the Bow Saint and the Slaughter Saint, who had stood scarcely thirty feet away, were nowhere to be seen. He could sense neither their presence nor a trace of their qi.
 
-*An illusion technique? Or a Mystic Gate Formation?*
+*An illusion? Or a Mystic Gate Formation?*
 
 Dark arts he had heard of in rumors, and others he had faced himself on the battlefields of the Great Faction War, flashed through his mind. None gave him an answer.
 
@@ -116,9 +116,9 @@ Even Jeok Cheongang, who had lived for more than a century and dominated an era,
 
 Even the great fiends of the previous generation, notorious under names like the Illusion Fiend and Guiguzi, had never managed anything like it.
 
-More precisely, Jeok Cheongang’s formidable martial prowess had never allowed them to.
+More precisely, Jeok Cheongang’s martial prowess had never allowed them to.
 
-The Illusion Fiend, the Demonic Cult’s greatest master of illusion, had had both eyes gouged out. Guiguzi, who had slaughtered hundreds of orthodox Murim warriors with his intricate Mystic Gate Formation, had melted into a pool of blood.
+However powerful the dark arts, they had limits. The Illusion Fiend, the Demonic Cult’s foremost master of illusion, had lost both his eyes. Guiguzi, who had slaughtered hundreds of orthodox-faction martial artists with his intricate Mystic Gate Formation, had dissolved into a handful of blood.
 
 Both at the hands of one man: the Fire King, Jeok Cheongang.
 
@@ -130,7 +130,7 @@ Jeok Cheongang stretched his senses farther than ever before. The longer he sear
 
 No matter how bizarre the dark arts, there should be a flow of energy and a core at its center. In this strange space, he could find neither.
 
-Only the dark mist approaching with the uniquely sticky, unpleasant energy of demonic qi—and someone’s steady breathing against his back.
+All he could sense was the dark mist approaching with the sticky, unpleasant qi peculiar to demons—and the steady breathing of someone on his back.
 
 “Sleeping through all this. You’ve got it easy, you know.”
 
@@ -190,7 +190,7 @@ He smashed, burst, and crushed without pause.
 
 Hands, feet, legs, knees, elbows—sometimes even his forehead. Every part of him was a weapon, and every blow meant something’s death.
 
-Neither the five-foot-tall monsters nor the three-headed, six-armed ones could break through the blazing wall of fire.
+Neither the short, five-foot monsters nor the three-headed, six-armed ones could break through the raging wall of fire.
 
 Claws sharper than scythes and rusty blades in place of arms struck relentlessly at his limbs. Jeok Cheongang’s body and mind never faltered.
 
@@ -228,7 +228,7 @@ The Heavenly Demon, who had swallowed half the world, and the great fiends who f
 
 But that wasn’t all his Master had said.
 
-*“But you could become one of the strongest among them.”*
+*“You could become one of the strongest among them.”*
 
 As always, his Master had been right.
 
@@ -246,7 +246,7 @@ Jeok Cheongang started toward them.
 
 Or rather, he meant to.
 
-Until a voice he could never forget pierced his ear.
+Then a voice he could never forget reached his ears.
 
 “You haven’t changed.”
 
@@ -254,4 +254,4 @@ Jeok Cheongang froze.
 
 The fierce light in his eyes faded like a lamp caught by the wind. Reflected in them was someone who could not be here—who should not be here.
 
-The face of someone who could not be here—and should not be.
+A face he knew.
