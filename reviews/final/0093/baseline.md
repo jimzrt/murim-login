@@ -38,7 +38,7 @@ No matter how well you handled a job, there were times when a single loach relea
 
 “Are all flies like that these days?”
 
-“Th-They could be, couldn’t they? Anyway, give me the hundred thousand won[^1].”
+“Th-They could be, couldn’t they? Anyway, give me the hundred thousand won.”
 
 “I will. I’ll give it to you, but… don’t you think that fly’s a little strange?”
 
@@ -168,7 +168,7 @@ I was thinking about it when Hayeon’s bedroom door flew open.
 
 Her face was stiff. Had they used a Familiar to pull something behind my back? My thoughts grew frantic.
 
-“Oppa[^2].”
+“Oppa.”
 
 “What is it? What happened? Is there something strange in your room?”
 
@@ -176,7 +176,7 @@ Her face was stiff. Had they used a Familiar to pull something behind my back? M
 
 “Then what is it?”
 
-“Why haven’t you given me the hundred thousand won[^1]?”
+“Why haven’t you given me the hundred thousand won?”
 
 “…”
 
@@ -282,7 +282,7 @@ That was right. The Store was a kind of luxury department store where people cou
 
 There might not have been many customers, but their purchasing power was unmatched.
 
-I was staring blankly at people buying goods that cost at least several million won[^3] when a pretty female employee approached and bowed.
+I was staring blankly at people buying goods that cost at least several million won when a pretty female employee approached and bowed.
 
 “Hello. I’m Assistant Manager Kim Seonhee from the Ilsan Store. I’ll be assisting you today.”
 
@@ -298,7 +298,7 @@ Now that I was a C-rank Hunter, the customer service was considerably more atten
 
 The employee’s expression brightened. The Store carried countless magical goods, but Hunter equipment was among the most expensive of them all.
 
-And I was a C-rank Hunter. Even a mid-level Hunter could spend hundreds of millions of won[^4] on a single piece of equipment.
+And I was a C-rank Hunter. Even a mid-level Hunter could spend hundreds of millions of won on a single piece of equipment.
 
 Naturally, a sales employee would be delighted at the thought of adding that kind of sale to her record.
 
@@ -340,13 +340,13 @@ Compared to the other weapons, it was nothing special. It did not even have magi
 
 “How much is it?”
 
-“It’s currently on sale as part of our summer promotion, so we’re offering it at the low price of 520,000 won[^5].”
+“It’s currently on sale as part of our summer promotion, so we’re offering it at the low price of 520,000 won.”
 
 “Hmm. That’s expensive.”
 
 “…”
 
-How much did a C-rank Hunter make a year again? Didn’t their basic allowances alone amount to several hundred million won[^6]? Kim Seonhee found it ridiculous, but silently waited for the customer to make his choice.
+How much did a C-rank Hunter make a year again? Didn’t their basic allowances alone amount to several hundred million won? Kim Seonhee found it ridiculous, but silently waited for the customer to make his choice.
 
 “Ah, well, I guess it can’t be helped. I’ll buy it. Give me one.”
 
@@ -371,10 +371,3 @@ Her gaze shifted to the side. One hundred daggers were neatly arranged inside a 
 “Yes. Give me one box of those. And one box of that, too. And that one…”
 
 That was the moment Assistant Manager Kim Seonhee’s worries about her sales numbers disappeared.
-
-[^1]: 100,000 won is about $71 or €65.
-[^2]: *Oppa* is a Korean term a woman uses to address an older brother or an older man close to her.
-[^3]: Several million won is roughly 2–9 million won, or about $1,400–$6,400 or €1,300–€5,800.
-[^4]: Hundreds of millions of won is roughly 100–900 million won, or about $71,000–$640,000 or €65,000–€580,000.
-[^5]: 520,000 won is about $370 or €340.
-[^6]: Several hundred million won is roughly 200–900 million won, or about $140,000–$640,000 or €130,000–€580,000.
