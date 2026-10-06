@@ -158,13 +158,21 @@ def commit_final(number: int) -> None:
     ours = [path for path in dirty if path in allowed]
     if not ours:
         existing = git("log", "--all", "-1", "--format=%H", "--grep", f"^Final Chapter {number}$")
-        if existing:
-            if state.get("stage") != "PROMOTED":
-                save_state(number, stage="PROMOTED", qa_passed=True)
+        already_in_head = bool(git(
+            "ls-tree", "-r", "--name-only", "HEAD", "--",
+            f"translations/{number:04d}.md",
+            f"reviews/final/{number:04d}/final.md",
+        ))
+        if not existing and not already_in_head:
+            raise SystemExit("final touches produced no checkpointable changes")
+        if state.get("stage") != "PROMOTED":
+            save_state(number, stage="PROMOTED", qa_passed=True)
+            dirty = changed_paths()
+            ours = [path for path in dirty if path in allowed_paths(number, dirty)]
+        if not ours:
             print("  ✓ commit     already recorded", flush=True)
             print(f"Chapter {number}  final", flush=True)
             return
-        raise SystemExit("final touches produced no checkpointable changes")
     if state.get("stage") != "PROMOTED":
         save_state(number, stage="PROMOTED", qa_passed=True)
         dirty = changed_paths()
