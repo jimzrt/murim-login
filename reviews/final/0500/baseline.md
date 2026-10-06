@@ -78,7 +78,7 @@ Jang Taebo studied the mountain of remains before continuing.
 
 “And the hide and scales?”
 
-“I made enough armor in my younger days to get sick of it. None of it was made from an imugi[^1], of course… but I’ll try.”
+“I made enough armor in my younger days to get sick of it. None of it was made from an imugi, of course… but I’ll try.”
 
 “Oh!”
 
@@ -104,7 +104,7 @@ Jin Wikyung’s face lit up at the high-quality slave’s calm, well-founded con
 
 The war had already begun.
 
-From the small and mid-sized sects scattered throughout Murim to the Nine Sects and One Gang,[^2] everyone wanted weapons and armor to prepare for the war that had drawn so close. The fires of the forges would not go out until the war ended.
+From the small and mid-sized sects scattered throughout Murim to the Nine Sects and One Gang, everyone wanted weapons and armor to prepare for the war that had drawn so close. The fires of the forges would not go out until the war ended.
 
 In the current state of Murim, it was not only the flames of war that had begun to blaze fiercely.
 
@@ -122,7 +122,7 @@ Jin Wikyung looked up at the sky in silence. Then he spoke.
 
 “Send messenger pigeons to everyone who comes to mind. I don’t care if it costs a fortune.”
 
-“Everyone has something they value more than money. To an artisan like me, the body of an imugi[^1] is worth more than any fortune.”
+“Everyone has something they value more than money. To an artisan like me, the body of an imugi is worth more than any fortune.”
 
 Jang Taebo stepped back and gave Jin Wikyung a respectful martial salute.
 
@@ -150,7 +150,7 @@ The dogs, pigs, fish, and other animals apparently left there for testing showed
 
 A broad smile spread across Zhuge Feng’s exhausted face.
 
-“Of course I did. Even my ancestor Zhuge Wuhou[^3] couldn’t have managed this. Come to think of it, he knew a thing or two about mechanisms and formations himself, but Wei still kicked his ass in the end…”
+“Of course I did. Even my ancestor Zhuge Wuhou couldn’t have managed this. Come to think of it, he knew a thing or two about mechanisms and formations himself, but Wei still kicked his ass in the end…”
 
 “F-Family Head!”
 
@@ -178,11 +178,9 @@ Not that the name mattered if the formation worked.
 
 As I carefully examined the Demon-Sealing Formation, Jin Wikyung whispered to me.
 
-“What do you think?”
-
 “Of what?”
 
-“……?”
+“……”
 
 “I’m just looking at it. How would I know?”
 
@@ -242,7 +240,7 @@ For the benefit of the Zhuge Clan members who had stopped in their tracks, I sai
 
 The air around us instantly turned cold.
 
-Zhuge Feng, who had been held by the collar by an old man, straightened his clothes. When he looked at me again, his eyes were steady and his voice had gone quiet.
+Zhuge Feng, still held by the collar by an old man, straightened his clothes. When he looked at me again, his eyes were steady and his voice had gone quiet.
 
 “Now I’m curious what the Divine Dragon has in mind.”
 
@@ -307,7 +305,3 @@ Zhuge Feng studied Jin Wikyung. Then he murmured, “Henan.”
 Jin Wikyung looked into the distance.
 
 “The New Murim Alliance.”
-
-[^1]: An imugi is a serpent-like creature in Korean folklore, often depicted as a dragon that has yet to attain its full form.
-[^2]: The Nine Sects and One Gang are a grouping of major orthodox martial-arts organizations in Murim.
-[^3]: Zhuge Wuhou is an honorific for Zhuge Liang, chancellor of Shu Han during China’s Three Kingdoms period. He fought Wei and wrote a memorial to his emperor before a military campaign.
