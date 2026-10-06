@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is faithful overall, with one minor shift in how the characters’ first meeting is characterized.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 381–383",
+      "current": "We’d met as enemies who couldn’t seem to shake each other.",
+      "defect": "The Korean describes their first meeting as an ill-fated connection, not specifically as meeting enemies who could not get away from each other. The current wording adds an adversarial relationship and shifts the emphasis away from 악연.",
+      "replacement": "Our first meeting was an ill-fated one, but.",
+      "rationale": "악연 describes a bad or ill-fated relationship; the following passage contrasts that beginning with how their bond later developed.",
+      "confidence": 0.86
+    }
+  ]
+}

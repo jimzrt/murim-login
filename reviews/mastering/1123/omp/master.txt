@@ -2,17 +2,17 @@
 
 “You…!”
 
-Hearing that familiar voice tremble with agitation, I let out the breath I’d been holding.
+Hearing that familiar voice tremble with emotion, I let out the breath I’d been holding.
 
 I blinked slowly and swallowed the blood pooled in my mouth.
 
 It was a strange feeling, unlike anything I’d ever experienced.
 
-I felt hazy, as if I were trapped in a dream I could never escape. And yet, at the same time, everything around me came through with perfect clarity.
+I felt hazy, as though I were trapped in a dream I could never escape. Yet everything around me came through with startling clarity.
 
 As for what this unfamiliar sensation was, the System gave me a clear answer, as it always did.
 
-In its uniquely kind and cruel way.
+In its own unfailingly kind and cruel way.
 
 *Beep.*
 
@@ -26,11 +26,9 @@ Like sunlight blazing just before sunset, it was the last flame to burn at the d
 
 *So this is what it feels like.*
 
-The thought came to me suddenly.
-
 I thought of the final moments of those I’d brought down with my own two hands—and those I’d desperately tried to hold on to, only to lose them anyway.
 
-All the countless emotions I’d glimpsed in them.
+Of all the emotions I’d glimpsed in them.
 
 At last, I felt as though I could understand them all.
 
@@ -108,7 +106,7 @@ No—toward a reality worse than any nightmare.
 
 If this had been my fight alone, I might have given up already.
 
-I might have leaned my exhausted body against a pile of corpses, looked back on the time I’d left behind, and waited for death to slowly descend.
+I might have leaned my exhausted body against a pile of corpses, looked back on my life, and waited for death to descend.
 
 But—
 
@@ -120,7 +118,7 @@ KWA-BOOOOM!
 
 Dazzling light-flames swallowed the enemies whole.
 
-Amid the reddish, overheated earth and the shimmering haze that warped the air, a giant of fire roared.
+Amid the reddish glow of the earth and the heat haze warping the air, a giant of fire roared.
 
 At the same time, the Slaughter Saint, the Bow Saint, Cheongpung, and the last of the devoted defenders advanced.
 
@@ -158,7 +156,7 @@ At the same time, more than ten pairs of eyes flew wide open.
 
 The fanatics stared at me in disbelief, clutching their slit throats as they crumpled to the ground.
 
-White Flame’s spearhead, trailing a faint heat, was slower and weaker than it had ever been. But for some reason, the enemies waiting in its path couldn’t react in time.
+White Flame’s spearhead, trailing faint heat, was far slower and weaker than usual. Yet for some reason, the enemies in its path couldn’t react.
 
 Neither could those surging forward to fill the gaps left by their dead comrades.
 
@@ -184,7 +182,7 @@ He’d left behind the path he’d walked his whole life to protect someone. I w
 
 There was more to a person than what you saw.
 
-That was true of a wandering martial artist others might have seen as nothing but rough and uncouth. It was true, too, of the two unorthodox faction members I’d unexpectedly formed ties with.
+That was true of a wandering martial artist others might have seen as nothing but rough and uncouth. It was true, too, of the two members of the unorthodox faction I’d unexpectedly come to know.
 
 *Am I too late?*
 
@@ -248,7 +246,7 @@ How I’d made a pointless fuss about the brightness of the moon, then fallen si
 
 Even the moment I’d looked into her tear-filled eyes and spoken.
 
-*“It’s all right if you can’t do it well. You don’t have to force yourself.”*
+*“It’s all right if you don’t do it well. You don’t have to try so hard.”*
 
 That night, I hadn’t been looking at the moon.
 
@@ -264,7 +262,7 @@ WHOOOOOSH!
 
 When had I gotten this far?
 
-Jeok Cheongang’s urgent shout rang out behind me, deep in enemy lines, and a terrible whooshing sound swallowed the noise around us.
+Jeok Cheongang’s urgent shout rang out behind me, deep in enemy lines, and a terrible rushing sound swallowed it.
 
 But I didn’t flinch.
 
@@ -300,13 +298,13 @@ The only word for what had just happened was *shattering*.
 
 It was so inexplicable that even I, the one who’d done it, couldn’t understand it.
 
-So perfectly shattered that it enraged even the dead who had just fired Force at me.
+So complete that it enraged even the dead who had fired that Force at me.
 
 —JIN. TAE. KYUNG!
 
 The last two Black Ghosts cried out in unison and charged.
 
-A ghostly horse leaped across the dozen or so jang of open air in an instant, casting its shadow over me. With its blood-red eyes flashing, the now-enlarged Force came crashing down.
+A ghostly horse crossed a dozen or so jang of open air in an instant, casting its shadow over me. Blood-red eyes flashed, and a still larger mass of Force slashed down.
 
 KWA-BOOOOOOM!
 
@@ -336,11 +334,11 @@ The air trembled.
 
 Countless overlapping spells bolstered the Black Ghosts’ ability to heal and gave them still greater strength and speed.
 
-Enough to face two of the Three Saints, who had fought more fiercely than anyone and were now pushed to their absolute limits.
+Enough to face two of the Three Saints, who had fought more fiercely than anyone and were now closer to their limits than anyone else.
 
 “Go! Hurry!”
 
-The Slaughter Saint’s urgent shout pierced my ears. The Bow Saint’s tired, lowered gaze touched my cheek, as if telling me to prove I was the one who’d been chosen.
+The Slaughter Saint’s urgent shout pierced my ears. The Bow Saint’s tired, downcast gaze fell on my cheek, as though telling me to prove that I was the one who had been chosen.
 
 Or that this wasn’t where I was supposed to die.
 
@@ -376,7 +374,7 @@ Then we’d become inseparable.
 
 So close that, at some point, being apart no longer felt right.
 
-When I couldn’t see him, I missed him. When he was away, I worried about him.
+I missed him when I couldn’t see him, and worried when I sent him away.
 
 My most trusted friend and subordinate.
 
@@ -390,7 +388,7 @@ The last promise I’d made to him would never be fulfilled.
 
 I would die before it could be.
 
-Because I’d have to leave behind the people I’d wanted to protect—or the people waiting somewhere for me, desperate for my return—and set off down a long road from which there was no coming back.
+I would have to leave behind the people I’d wanted to protect—and those who might be waiting desperately for me somewhere—and set off down a long road from which there was no return.
 
 *But…!*
 
@@ -398,7 +396,7 @@ I gritted my teeth and let out the breath I’d been holding.
 
 I swung my spear, rekindling the dying flame without pause.
 
-Trampling the corpses piling up with each step and the blood spurting into the air, I moved as one with the people protecting me.
+Trampling the corpses piling up with every step and the blood spurting beneath my feet, I moved as one with the people protecting me.
 
 Toward the last, the only path left for the living and the dead alike.
 
