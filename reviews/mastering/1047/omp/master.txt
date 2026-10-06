@@ -1,12 +1,12 @@
 # Chapter 1047
 
-If you asked what mattered most in deciding the outcome of a battle, every single person would give the same answer.
+If you asked what mattered most in deciding the outcome of a battle, almost everyone would give the same answer.
 
 The quality of the troops—or their numbers.
 
 But ask a general commanding an army, and he would answer differently.
 
-He would name the two words that flashed through the Blood-Sword Demon Lord’s mind at that very moment.
+He would give the answer that flashed through the Blood-Sword Demon Lord’s mind at that very moment.
 
 *Momentum.*
 
@@ -20,7 +20,7 @@ Their fighting spirit, which had been fading little by little like a campfire so
 
 An emotion close to desperation. A resolve to face death.
 
-Weapons swung with their final spark of life, as if their wielders had never once considered giving up.
+Weapons swung with their last spark of strength, as though their wielders had never considered giving up.
 
 And then—
 
@@ -35,8 +35,6 @@ A flash packed with terrible destructive force swallowed dozens of Dark Heaven c
 The explosions of fireballs, large and small, had already opened gaps in the cultists’ ranks. Now another powerful streak of light shook their once-solid formation.
 
 All the enemy needed was a spear to slip through that opening and pierce their heart.
-
-Something like…
 
 A golden spear called the Embroidered Uniform Guard.
 
@@ -54,7 +52,7 @@ A flashing blade severed a neck in one stroke. A sharp spearhead pierced a chest
 
 Each guard had reached at least Supreme First Rate, and some had attained the Peak realm. That was how they had earned the honor of protecting the Imperial Family. The Great Nation’s most powerful fighting force cut and stabbed through everything in its path.
 
-Their fierce shouts proclaimed why they had come to this battlefield.
+Their fierce shouts proclaimed why they had come.
 
 “Long live His Majesty the Emperor! May His Highness the Imperial Younger Brother live a thousand years!”
 
@@ -68,13 +66,13 @@ With the fanatically loyal guards at their head, more than twenty thousand survi
 
 Some sought revenge for their comrades. Others fought for a greater cause.
 
-Their reasons and aims differed, but they all wanted the same thing.
+Their reasons differed, but they all wanted the same thing.
 
 Victory.
 
 And the Blood-Sword Demon Lord, who felt the scales of battle tipping rapidly in the face of this unexpected turn, wanted a glorious victory here today just as much as they did.
 
-“You’ve got to be fucking kidding me…!”
+“Fucking hell…!”
 
 A groan escaped through his clenched lips.
 
@@ -86,7 +84,7 @@ The Bow Saint was one of the Three Saints; nothing more needed to be said about 
 
 His side still held the advantage in numbers, but he could no longer be sure they were stronger overall.
 
-And now that this powerful reinforcement had restored the momentum of the more than twenty thousand enemy soldiers, they were charging wildly. Unease began to take root in one corner of the Blood-Sword Demon Lord’s mind.
+Worse, the arrival of these powerful reinforcements had revived the fighting spirit of the more than twenty thousand enemy soldiers. As they began fighting with renewed fury, unease took root in a corner of his mind.
 
 *No… No, that can’t be.*
 
@@ -124,15 +122,15 @@ At the words that passed between his bloodied lips, the Blood-Sword Demon Lord�
 
 “I understand. Sometimes things turn out that way.”
 
-He looked at his arm—or rather, the shoulder where the Blood-Sword Demon Lord had brutally torn it away.
+Sima Gong continued in a calm, weary voice as he looked at his arm—or rather, the shoulder where the Blood-Sword Demon Lord had torn it away.
 
 “Half an hour ago, I never imagined I’d end up like this either.”
 
 He wasn’t saying that merely because he had lost an arm.
 
-Sima Gong was half-submerged in a pool of blood. Thick blood that belonged to him alone.
+Sima Gong lay in a pool of blood. Thick blood that belonged to him alone.
 
-Yet the Blood-Sword Demon Lord, who had struck down the traitor in his path in moments, trembled with rage, not the joy of punishment.
+Yet the Blood-Sword Demon Lord, who had struck down the traitor blocking his path in mere moments, trembled with rage rather than satisfaction.
 
 “If it weren’t for you—if it weren’t for you…!”
 
@@ -152,7 +150,7 @@ Not here at the Great Snow Mountain, but in Dunhuang, at the western edge of Gan
 
 “Was this your plan from the beginning? Did you use the Kongtong Sect—of all people—as a mere decoy, just to win today and convince us you were still our spy?”
 
-Questions poured out of him in a rush.
+The questions poured out of him.
 
 There was no time to waste. He ought to have killed this traitor, whom he could have torn apart without feeling satisfied, and begun salvaging the situation at once.
 
@@ -202,7 +200,7 @@ That was enough for Sima Gong.
 
 Even if he died, the Black Dragon Demon Gate would have at least some measure of absolution, enough to survive.
 
-His heir, who wasn’t here, would live and make everything Sima Gong had passed down even stronger.
+His heir, safely away from this place, would live to make everything Sima Gong had passed down to him stronger still.
 
 “I’m tired. Time to rest.”
 
@@ -218,7 +216,7 @@ Grind.
 
 A chilling scrape came from between the Blood-Sword Demon Lord’s clenched teeth.
 
-The Blood-Sword Demon Lord clenched his molars as if to crush them, then raised his sword, pouring his rage into its tip.
+He ground his molars as though he might crush them and raised his sword, pouring every last bit of his rage into its tip.
 
 He aimed it at the traitor who had ruined a plan that should have succeeded—who had dared to throw filth across the path of the mighty Lord of Heaven.
 
@@ -236,7 +234,7 @@ The sword veered off at the last moment and split the ground instead, as easily 
 
 “Bow Saint…!”
 
-As if answering his call, another Force arrow came flying through the crumbling ranks of Dark Heaven’s cultists.
+As if answering his call, more Force arrows flew through the crumbling ranks of Dark Heaven cultists.
 
 Shwish-shwish-shwing!
 
@@ -248,13 +246,13 @@ Explosions and thunderous booms followed his sword as it moved faster than sound
 
 Considerable force traveled through the trembling blade into his hand, but that was all.
 
-The Blood-Sword Demon Lord easily cut or deflected every Force arrow the Bow Saint fired. He bared his teeth in a grin.
+He cut down or deflected every arrow the Bow Saint had fired without much difficulty, then bared his teeth in a grin.
 
 “So this is all you’ve got?”
 
 The Blood-Sword Demon Lord remembered something his moment of doubt had made him forget.
 
-That’s right.
+That was right.
 
 With the sorcerers’ help, he was stronger now than he had ever been.
 
@@ -268,7 +266,7 @@ Beyond the blazing Force, a sinister blood-red light glinted.
 
 “Come on. I’ll take you all on.”
 
-And in the very next moment, the Blood-Sword Demon Lord realized—
+And in the very next moment, the Blood-Sword Demon Lord remembered something else he had forgotten.
 
 “Now that’s good to hear.”
 

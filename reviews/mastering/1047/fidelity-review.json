@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Their fighting spirit, which had been fading little by little like a campfire soaked by drizzle, was flaring up again.",
+      "defect": "The source says the enemies’ fighting spirit was gradually dying out, while their shouts were growing more intense. It does not say their fighting spirit flared up again; the English shifts the contrast between those two details.",
+      "id": "F01",
+      "rationale": "The Korean describes the fighting spirit as going out and separately says the shouts are becoming more intense.",
+      "replacement": "Their fighting spirit, which had been fading little by little like a campfire soaked by drizzle, was dying down. The shouts they raised with all their strength grew more and more intense.",
+      "severity": "minor",
+      "source": "Lines 19–21"
+    },
+    {
+      "confidence": 0.98,
+      "current": "A dazzling streak of light cut through the air ahead of them.",
+      "defect": "The translation omits that the streak crossed the air one step ahead of the charging enemies, a specific positional detail preserved in the accepted baseline.",
+      "id": "F02",
+      "rationale": "그들보다 한발 앞서 specifies that the light streak precedes them by one step.",
+      "replacement": "A dazzling streak of light cut through the air one step ahead of them.",
+      "severity": "minor",
+      "source": "Line 31"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The old unorthodox sect leader spoke calmly",
+      "defect": "The source calls Sima Gong an old man of the unorthodox faction; it does not identify him here as a sect leader. The translation adds a specific role.",
+      "id": "F03",
+      "rationale": "늙은 사파인 describes an old unorthodox-faction member, not a sect leader.",
+      "replacement": "The old unorthodox man spoke calmly",
+      "severity": "minor",
+      "source": "Line 219"
+    }
+  ],
+  "summary": "The assembled copy is largely faithful, but it adds a role and a resurgence of fighting spirit that the source does not state, and it drops a positional detail preserved in the accepted baseline.",
+  "version": 1
+}
