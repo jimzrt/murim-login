@@ -16,9 +16,11 @@ Unlike his enthusiastic friend, the other scholar shook his head with a thorough
 
 “Can’t we just rest for today? We’ve been walking around for days. My legs feel like they’re about to break.”
 
-“Don’t be such a baby. We walked a thousand ri[^1] to get here—how can we just turn around and go home? At our age, do you really think we’ll ever have another chance to visit Xi’an?”
+“Don’t be such a baby. We walked a thousand li to get here—how can we just turn around and go home? At our age, do you really think we’ll ever have another chance to visit Xi’an?”
 
-“Good grief. I came to sightsee in Xi’an, and now it looks like I’m going to end up sightseeing Mount Beimang.[^2] Leave me alone.”
+“Good grief. I came to sightsee in Xi’an, and now it looks like I’m going to end up sightseeing Mount Beimang.[^1] Leave me alone.”
+
+[^1]: Mount Beimang is traditionally associated with burial grounds and death.
 
 “Come now. I don’t know about the other places, but we absolutely have to visit Western Peak. You’ll regret it until the day you die if you miss such a magnificent sight.”
 
@@ -80,7 +82,7 @@ Having narrowly escaped disaster, the scholar looked at the young man with curio
 
 *He looks ordinary.*
 
-He was of middling height and had a slender build. Yet he had supported the scholar, who outweighed him by several dozen geun,[^3] with one hand.
+He was of middling height and had a slender build. Yet he had supported the scholar, who outweighed him by several dozen pounds, with one hand.
 
 Wondering whether he might be a martial artist, the scholar glanced at his waist. It was bare, so apparently not.
 
@@ -104,11 +106,11 @@ The young man smiled and waved him off.
 
 “I’m really fine. I’m waiting for my companions.”
 
-“Companions? I’ve been watching you, and you’ve been sitting here alone for more than a shichen.[^4]”
+“Companions? I’ve been watching you, and you’ve been sitting here alone for more than a shichen.”
 
 “Ha-ha. It seems something came up and they’re running late. I have no choice but to wait.”
 
-He had already been there for more than a shichen,[^4] and he still intended to keep waiting? He was as good-natured on the inside as he looked.
+He had already been there for more than a shichen, and he still intended to keep waiting? He was as good-natured on the inside as he looked.
 
 Still, with the young man saying he had companions, the scholar could hardly insist that he join them. He smacked his lips regretfully.
 
@@ -148,7 +150,7 @@ The man, who stood several heads taller than everyone else, scratched his head v
 
 “I’m sorry. We got caught up in a little dispute on the way.”
 
-“What happened that made you more than a shichen[^4] late?”
+“What happened that made you more than a shichen late?”
 
 “Well, the thing is…”
 
@@ -210,7 +212,9 @@ Eunhyang was finally released. She scrunched up her face and spat repeatedly.
 
 “Yesterday.”
 
-“What? I could swear I’ve seen you visit the privy at least five times between yesterday and today. Then… Ahh!”
+“What? I could swear I’ve seen you visit the privy at least five times between yesterday and today. Then…”
+
+“Ahh!”
 
 “It’s all right. I smell wonderful even if I only bathe once every fifteen days.”
 
@@ -429,8 +433,3 @@ A disciple whom Sword Saint Mae Jonghak had raised like a son—like a grandson.
 Baek Museong had been there that day ten years ago as well. The eyes of Huashan’s Lone Crane, Baek Museong, gleamed.
 
 “I’m looking forward to it. I wonder how much he’s grown.”
-
-[^1]: A Korean ri is about 393 m (0.244 mi); a thousand ri is about 393 km (244 mi).
-[^2]: Mount Beimang is traditionally associated with burial grounds and death.
-[^3]: A Korean geun is 600 g (1.32 lb).
-[^4]: A shichen is a traditional time unit of approximately two hours.
