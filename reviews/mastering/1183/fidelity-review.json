@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "wearing a bamboo hat of snow that never melted, no matter the season.",
+      "defect": "The source explicitly describes the snow as brilliantly white; that visual detail is omitted.",
+      "id": "F01",
+      "rationale": "The Korean says 새하얀 만년설, specifying snow that is brilliantly white and never melts.",
+      "replacement": "wearing a bamboo hat of brilliantly white snow that never melted, no matter the season.",
+      "severity": "minor",
+      "source": "Korean line 11"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Taishan, that A-Gwi of a bastard—",
+      "defect": "This phrasing turns the comparison to an A-Gwi into an unclear compound insult, changing the joke's logic.",
+      "id": "F02",
+      "rationale": "The Korean 아귀 같은 놈 compares Taishan to an A-Gwi; it does not call him an “A-Gwi of a bastard.”",
+      "replacement": "Taishan, that A-Gwi-like bastard—",
+      "severity": "minor",
+      "source": "Korean line 113"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“He should be.”",
+      "defect": "The narration that he answers in a low voice is omitted.",
+      "id": "F03",
+      "rationale": "The source explicitly says 나는 낮은 목소리로 대답했다; the accepted baseline also preserves this delivery detail.",
+      "replacement": "I answered in a low voice. “He should be.”",
+      "severity": "minor",
+      "source": "Korean line 127"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with a few minor losses or shifts in specific details.",
+  "version": 1
+}

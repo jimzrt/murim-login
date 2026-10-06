@@ -10,7 +10,7 @@ The Tianshan Mountains: a giant of nature wearing a bamboo hat of snow that neve
 
 *The mountains of heaven, huh.*
 
-Muttering to myself, I gazed through the window at the vast landscape.
+I gazed through the window at the distant peaks.
 
 Overwhelming. Almost awe-inspiring.
 
@@ -20,11 +20,11 @@ No, that wasn’t such an absurd fantasy.
 
 Replace *immortals* with *Demon King*, and fantasy became reality.
 
-A very horrifying reality, at that.
+A horrifying reality.
 
 “Captain?”
 
-A voice suddenly pierced my ear.
+A voice suddenly broke into my thoughts.
 
 Plenty of people called me their benefactor. Only one called me Captain.
 
@@ -36,7 +36,7 @@ Maybe it was because my thoughts were tangled like a ball of string. My voice ca
 
 “Sort of. Why?”
 
-“Slau—no, Great Hero Mungyeong told me to stop by if I had a chance. He wanted to make sure you weren’t skipping meals.”
+“Slau—no, Great Hero Mungyeong told me to stop by when I had a chance. He wanted to make sure you weren’t skipping meals.”
 
 “He did? That’s unusual.”
 
@@ -46,7 +46,7 @@ It surprised me a little. We’d grown close during our time together, but I had
 
 “…Yeah, that sounds more like him.”
 
-I shook my head and took the fasting pill I’d tucked away in my clothes. Hyuk Mujin’s eyes turned cold.
+I shook my head and took out the fasting pill I’d tucked inside my clothes. Hyuk Mujin’s expression went flat.
 
 “You said you ate.”
 
@@ -74,9 +74,9 @@ It tasted like shit, but it certainly worked.
 
 Though for something made by the Divine Physician, its effects were a little disappointing.
 
-I grimaced and smacked my lips. Then I met Hyuk Mujin’s gaze as he stared at me with an almost uncomfortable intensity.
+I grimaced at the lingering taste, then caught Hyuk Mujin staring at me so intently it was uncomfortable.
 
-“What are you doing?”
+“What?”
 
 “Y-yes?”
 
@@ -84,7 +84,7 @@ I grimaced and smacked my lips. Then I met Hyuk Mujin’s gaze as he stared at m
 
 “Uh, no. You just look really… handsome today. Hehe.”
 
-I couldn’t help a bitter smile at his ingratiating flattery.
+His ingratiating flattery almost made me smile despite myself.
 
 It was obvious what he was doing. My mood had been low lately, and he was trying to cheer me up.
 
@@ -100,7 +100,7 @@ I didn’t let on. I clicked my tongue instead.
 
 His words trailed off.
 
-Hyuk Mujin only moved his lips for a while, as though he’d said something he shouldn’t have. I turned my gaze back out the window, too.
+For a while, Hyuk Mujin merely moved his lips, as though he’d said something he shouldn’t have. I turned back to the window.
 
 After a brief silence, his voice sounded through the dusty room, quieter than before.
 
@@ -130,7 +130,7 @@ After a brief silence, his voice sounded through the dusty room, quieter than be
 
 Silence returned, longer and much heavier than before.
 
-And this time, too, it was Hyuk Mujin—not me—who broke it first.
+Once again, Hyuk Mujin was the first to break it.
 
 “Captain.”
 
@@ -148,15 +148,15 @@ No.
 
 I thought about the people.
 
-Jin Wikyung, who would run toward me without a care for who was watching, shouting, “Youngest!” at the top of his lungs.
+Jin Wikyung, who would run toward me shouting “Youngest!” without caring who saw him.
 
 Jin Mukyung, watching his eldest brother rush ahead with a sullen expression.
 
 Sama Pyo, now leading hundreds of subordinates like a proper Sect Leader, and Namho and Taishan, who had somehow become inseparable.
 
-A Thousand Captain of the Embroidered Uniform Guard who’d thanked me with a face stiff as a block of wood—and the ruler of the continent, whose body was dead yet who seemed more full of life than before.
+The Thousand Captain of the Embroidered Uniform Guard who’d thanked me with a face as stiff as wood. The ruler of the continent, whose body was dead, yet who seemed more full of life than ever.
 
-I thought of all of them, everyone we’d parted from with a smile in Qinghai.
+I thought of everyone we’d parted from with smiles in Qinghai.
 
 I thought of the past, already gone, and the future soon to come.
 
@@ -166,7 +166,7 @@ We’d left the desert behind. Two days had passed, and now the sun was sinking.
 
 No Murim Alliance banners rising like mountains in the west. No golden armor surging like a tide from the east.
 
-That was right.
+That was it.
 
 I hadn’t been looking at the landscape. I’d been looking for the people coming from somewhere far away.
 
@@ -176,7 +176,7 @@ Yet as the last day we’d agreed upon drew to a close, I still couldn’t find 
 
 I forced down the three syllables that had surfaced unbidden.
 
-Then, as though a wave could erase the disordered sand on a beach, I repeated to myself:
+Then, as though a wave could smooth away sand scattered across a beach, I told myself:
 
 *No. That can’t be.*
 
@@ -186,7 +186,7 @@ Their blades and spears were sharp, and their resolve burned bright.
 
 They were Murim. They were the Nine Provinces and all under Heaven.
 
-So I held tight to the belief clenched in my fist.
+So I held on tight to my belief.
 
 This wait would be rewarded. However exhausted and dust-covered they were after their endless forced march, we would see each other again soon, smiling.
 
@@ -196,13 +196,13 @@ Believing was all I could do.
 
 “Let’s do it.”
 
-Hyuk Mujin had come up beside me without a word and was looking out the window with me. He glanced over.
+Hyuk Mujin had come to stand beside me without a word. Now he looked over from the window.
 
 “Do what?”
 
 “That bet from earlier. Let’s do it after all.”
 
-I watched the world slowly turn red and went on.
+I watched the world slowly turn red.
 
 “They’ll come before midnight. I’m sure of it.”
 
@@ -234,9 +234,9 @@ A darkness so still it was suffocating.
 
 “We leave in fifteen minutes.”
 
-A draft blew in from somewhere, making the candle flicker precariously. Jeok Cheongang’s voice and tone, however, were calm and composed.
+A draft slipped in from somewhere, making the candle flicker precariously. Jeok Cheongang’s voice remained calm.
 
-“If we wait another day for these fools who forgot the agreed date—whether they’re from the Murim Alliance or the Imperial Guards—I’ll start producing relics inside my own body. It’d be a hundred times better for us to move ahead as scouts and vanguard.”
+“Murim Alliance or Imperial Guards, those fools have forgotten the date we agreed on. Wait another day for them and I’ll start growing relics inside my own body. We’d be a hundred times better off going ahead as scouts and vanguard.”
 
 On the surface, it made sense.
 
@@ -250,7 +250,7 @@ But Jin Taekyung was different.
 
 “Is there another way?”
 
-“It’s not that there’s another way. We can’t take that one.”
+“It’s not that I have another way. It’s that we can’t take this one.”
 
 “Go on.”
 
@@ -260,11 +260,11 @@ But Jin Taekyung was different.
 
 “But…”
 
-“Fool!”
+“Enough!”
 
 *Whoosh!*
 
-The air abruptly heated. His master’s sharp rebuke rang out, and he fixed his Disciple with a level gaze.
+The air flared hot. His master fixed his Disciple with a level gaze after that sharp rebuke.
 
 “I know what you fear, but moving armies of that size brings countless difficulties. We’re only going one step ahead according to the plan already made. No more arguing.”
 
@@ -282,13 +282,13 @@ Something was wrong. No, it was more than that.
 
 Xinjiang had long been treated as a deathtrap under the Demonic Cult’s rule, but it wasn’t unknown territory.
 
-Where had the cult’s immense power, fit to be called a theocratic kingdom, and the strength to fight the Murim of the Central Plains come from?
+Where else could the cult have drawn the immense resources to become practically a kingdom of its own, or the strength to wage war against the Murim of the Central Plains?
 
 Xinjiang’s vast lands held substantial manpower and resources. It had once been one of the most important trade routes under Heaven.
 
 The Hidden Shadow Pavilion had long since obtained information about the region, including its geography. Only a few months ago, it had sent in dozens of spies, though just one had returned alive.
 
-But the Tianshan Mountains were different.
+But Tianshan was different.
 
 If Xinjiang lay beneath the Demonic Cult’s shadow, Tianshan was its Sacred Land: the place where the cult had first risen and put down roots.
 
@@ -302,7 +302,7 @@ A plan Taekyung had never heard of.
 
 *That can’t be. Once we enter Tianshan, joining up with our allies will be next to impossible.*
 
-Jin Taekyung felt his heart pounding hard and heat rising inside him.
+His thoughts whirled. He felt his heart pounding and heat rising through him.
 
 And all at once, he realized a truth he could hardly believe.
 
@@ -316,4 +316,4 @@ His master’s heavy voice struck him like a war hammer.
 
 “We… No. *You* are the main assault.”
 
-His master’s heavy voice came crashing down over his Disciple’s head like a war hammer.
+His master’s heavy voice came down upon his Disciple like a war hammer.
