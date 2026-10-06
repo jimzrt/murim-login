@@ -1,0 +1,45 @@
+{
+  "summary": "The translation is largely faithful, but it drops a source-specific dragon/earthworm image and an emphasis on unprecedented growth, adds an unsupported implication about the Lord of Heaven being beyond their reach, and repeats an action in the narration.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 155–156",
+      "current": "at best, an earthworm in muddy water.",
+      "defect": "The Korean calls Jin a 토룡(土龍)—literally an earth dragon—and then clarifies that this means an earthworm. The translation keeps the earthworm but drops the dragon image, weakening the contrast with the imugi becoming a dragon.",
+      "replacement": "at best, a dirt dragon—in other words, an earthworm—in muddy water.",
+      "rationale": "The source explicitly gives both the 土龍 image and its clarification as an earthworm.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 153",
+      "current": "And to see how fast you grew.",
+      "defect": "This omits the source’s emphasis that his growth rate was unprecedented.",
+      "replacement": "And to see you grow at an unprecedented pace.",
+      "rationale": "유례없는 성장 속도 means an unprecedented rate of growth; the accepted baseline also preserves that emphasis.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 171",
+      "current": "someone outside their reach—at least, the Lord of Heaven—had been the exception.",
+      "defect": "“Outside their reach” adds that they were unable to reach or influence the Lord of Heaven. The Korean only contrasts him with the others; it does not establish that he was beyond their reach.",
+      "replacement": "someone besides them—the Lord of Heaven, at least—was the exception.",
+      "rationale": "그들 이외의 누군가는 means someone other than them; it does not imply inaccessibility or lack of influence.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 249–251",
+      "current": "I fixed my gaze on the Grand Mage. Through her tightly woven white veil, I could make out the gleam of eyes burning with loyalty to their master.",
+      "defect": "The first sentence repeats the immediately preceding statement that he stared at the Grand Mage. The Korean describes the gaze once, then identifies the eyes he sees through the veil.",
+      "replacement": "Through her tightly woven white veil, I could make out the gleam of eyes burning with loyalty to their master.",
+      "rationale": "The assembled English adds a second act of fixing his gaze that is absent from the source.",
+      "confidence": 0.99
+    }
+  ]
+}

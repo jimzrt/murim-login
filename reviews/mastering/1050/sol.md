@@ -14,7 +14,7 @@ Confronted with the crushing reality that the master he’d worshiped like a god
 
 *You can’t fall here. You have to get stronger than you are now.*
 
-No matter how many times the Blood-Sword Demon Lord turned over the Grand Mage’s words about Jin Taekyung in his mind, he couldn’t understand them.
+No matter how many times the Blood-Sword Demon Lord turned over her words to Jin Taekyung, he couldn’t make sense of them.
 
 Used up and thrown away?
 
@@ -28,7 +28,7 @@ He still didn’t know why he was being discarded after devoting himself to the 
 
 That was one thing. This was another.
 
-Why? How? For what reason?
+Why? For what reason?
 
 Why would the master he served pay such a high price to put the execution of his loyal hunting dog in an enemy’s hands?
 
@@ -78,8 +78,6 @@ Was this what it felt like when all the blood in your body turned cold?
 
 For a moment, it seemed as though the whole world had stopped.
 
-No—maybe I really had mistaken it for that.
-
 Maybe I really would have believed it had, if not for my head burning like someone was pressing a hot iron to it while the rest of me stood frozen.
 
 *This… can’t be real.*
@@ -112,7 +110,7 @@ She had gained power that didn’t belong to this world. Now she stared straight
 
 I repeated that damned name like a man under a spell.
 
-Ever since the day I’d taken my first steps in Murim, I’d heard it from countless people. And yet I’d never once encountered its true form.
+Ever since I’d taken my first steps in Murim, I’d heard it countless times from countless people. Yet I had never once come face-to-face with the one behind it.
 
 The leader of Dark Heaven—or rather, their king and god. The absolute being who sought to defy heaven.
 
@@ -136,7 +134,7 @@ Beneath her white veil, her red lips curved gently.
 
 “Then…”
 
-“It’s simple. We were looking down upon the world, and you shone on your own within it. Bright enough to see clearly, even from far away.”
+“It’s simple. We were watching the whole world, and you began to shine within it. Bright enough to spot even from far away.”
 
 “…!”
 
@@ -160,7 +158,7 @@ No—they *couldn’t* have.
 
 Even in this world, for all its primitive savagery, there were limits to what people considered possible.
 
-But the Grand Mage was telling me now that someone outside their reach—at least, the Lord of Heaven—had been the exception.
+But the Grand Mage was telling me that the Lord of Heaven had been an exception.
 
 And she had revealed something else I hadn’t expected.
 
@@ -182,15 +180,15 @@ There was only one reason I’d asked her to repeat herself.
 
 This wasn’t the first time someone had called me that.
 
-The first to call me the Chosen One was, even now, far off in the distance with his bowstring taut, aimed in this direction.
+The first person to call me the Chosen One was, even now, far away with her bowstring drawn taut and aimed this way.
 
 *The Bow Saint.*
 
 A hero of the Great Faction War, who had protected the Nine Provinces from a hundred thousand members of the Demonic Cult.
 
-A great martial artist who had always shone brilliantly, wherever he went, and was therefore called one of the Three Saints.
+A great martial artist who had always shone brilliantly wherever she went, earning her a place among the Three Saints.
 
-And the reason the Bow Saint had spent decades wandering the land, concealing his identity, was a letter left behind by one person.
+And the reason the Bow Saint had spent decades wandering the world with her identity hidden was a letter left by one person.
 
 *…The Martial God.*
 
@@ -202,9 +200,9 @@ The greatest hero and martial artist of all time, with no equal before or since.
 
 The Martial God had left the Bow Saint a letter.
 
-He’d told him to find someone who might appear at any time, in any place.
+It told her to find someone who might appear anywhere, at any time.
 
-The Chosen One—that is…
+The Chosen One.
 
 Me.
 
@@ -212,15 +210,15 @@ That made it even harder to understand.
 
 I could accept that the Martial God had foreseen my arrival and left the Bow Saint a letter.
 
-But why? How?
+But why?
 
 “Why are you—why is the Lord of Heaven—keeping me alive?”
 
 I had stood in Dark Heaven’s way more than anyone else.
 
-I’d been directly involved in the deaths of four Demon Lords and the Demon Empress, his closest subordinates and limbs. I’d caused him countless other losses, too.
+I’d been directly involved in the deaths of four Demon Lords and the Demon Empress, among his closest subordinates. I’d caused countless other losses, too.
 
-From the Lord of Heaven’s perspective, I was someone he could kill a hundred times and still not be satisfied.
+As far as the Lord of Heaven was concerned, he could kill me a hundred times and still not be satisfied.
 
 Yet the Grand Mage had said it plainly.
 
@@ -237,8 +235,6 @@ If the Lord of Heaven wanted me alive, then my very existence would someday beco
 The shock and trembling had passed.
 
 All that remained was the reality before me and the cold resolve to face it.
-
-I stared at the Grand Mage with icy eyes.
 
 I fixed my gaze on the Grand Mage. Through her tightly woven white veil, I could make out the gleam of eyes burning with loyalty to their master.
 
@@ -264,9 +260,9 @@ Crack.
 
 Her eyes flashed behind the veil. A thick vine crept up my body and tightened around my neck.
 
-Slowly. And powerfully.
+Slowly. Relentlessly.
 
-“If you want to die, I can kill you. But you have to survive, according to His will. You want to live, too. Don’t you?”
+“If you want to die, I can kill you. But you have to survive, just as He wills it. Besides, you want to live, don’t you?”
 
 I couldn’t breathe.
 
@@ -282,7 +278,7 @@ My whole body was already bound. As the vine gradually squeezed my throat, I for
 
 The Grand Mage’s gaze wavered.
 
-She’d heard the sincerity in my breathless voice and seen it in my eyes, which were steady despite my labored breathing.
+She had heard the conviction in my breathless voice and seen it in my eyes, steady despite my ragged breathing.
 
 “You…”
 
@@ -292,17 +288,17 @@ Her words trailed off, and the pressure on my neck eased. I looked at her and ga
 
 Crack!
 
-The vine tightened again, as hard as before.
+The vine tightened again.
 
 Even so, I laughed aloud between gasps.
 
 Yeah, right now I was unquestionably the weaker one.
 
-But in this tug-of-war with our lives on the line, I was going to win.
+But I was going to win this tug-of-war with my life on the line.
 
 If the Grand Mage was a crazy bitch, then I was a different kind of crazy bastard.
 
-*Now that it’s come to this, I can do it.*
+*Now that it’s come to this, why not?*
 
 I smiled brightly at the Grand Mage, whose eyes had gone wide.
 
