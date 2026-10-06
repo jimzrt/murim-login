@@ -1,6 +1,6 @@
 # Chapter 131
 
-“Fresh-killed pork, twenty coins per geun[^1]! Cheap, cheap!”
+“Fresh-killed pork, twenty coins per geun! Cheap, cheap!”
 
 “Oh my, that ring looks perfect on you. It’s normally one silver nyang, but since your fingers are so pretty, I’ll let you have it for half a nyang. What do you say?”
 
@@ -107,7 +107,7 @@ His voice was happy, yet wistful.
 
 He pointed to a gray-streaked middle-aged woman selling all kinds of snacks from a small stall.
 
-“Do you like candied hawthorn skewers[^2]?”
+“Do you like candied hawthorn skewers?”[^1]
 
 Normally, I would have told him to stop talking nonsense and keep moving, but the mood was unusual. I answered as kindly as I could.
 
@@ -117,7 +117,7 @@ Normally, I would have told him to stop talking nonsense and keep moving, but th
 
 Hyuk Mujin continued with a bitter smile.
 
-“You have no idea how jealous I was of the other children. They’d come holding their parents’ hands, buy candied hawthorn[^2] and sweets, and wander around the market… I can still picture it.”
+“You have no idea how jealous I was of the other children. They’d come holding their parents’ hands, buy candied hawthorn and sweets, and wander around the market… I can still picture it.”
 
 What was I supposed to do with this mood?
 
@@ -129,7 +129,7 @@ There were an unusually large number of orphans in the Murim. Even looking aroun
 
 *He must have been in a similar situation.*
 
-With no family, he had no reason to return. Coming back would only stir up painful memories of lingering outside the stall as a child, longing for candied hawthorn[^2].
+With no family, he had no reason to return. Coming back would only stir up painful memories of lingering outside the stall as a child, longing for candied hawthorn.
 
 Maybe that was why he had tried to forget his pain through training.
 
@@ -147,7 +147,7 @@ Hyuk Mujin immediately noticed the change in me.
 
 “Fine dust?”
 
-“Never mind that. Why don’t we get a candied hawthorn skewer[^2] each?”
+“Never mind that. Why don’t we get a candied hawthorn skewer each?”
 
 “Wouldn’t it be better to find an inn first? If we don’t get a room before the sun goes down, there may not be any left.”
 
@@ -215,13 +215,13 @@ Whether he would actually be promoted remained to be seen, but their conversatio
 
 *This sounds like a radio call-in story.*
 
-A kindhearted auntie who used to give candied hawthorn[^2] to an orphan boy who lingered around her stall. After a childhood of hardship and years of grueling effort, the boy finally found success and returned as a strapping young man.
+A kindhearted auntie who used to give candied hawthorn to an orphan boy who lingered around her stall. After a childhood of hardship and years of grueling effort, the boy finally found success and returned as a strapping young man.
 
 It was a story I had heard somewhere before, but that didn’t make it any less moving.
 
 “Ahem. What is this? Did something get in my eye?”
 
-Was it yellow dust[^3] or fine dust? They couldn’t have built any factories yet, so it must have been yellow dust[^3].
+Was it yellow dust or fine dust? They couldn’t have built any factories yet, so it must have been yellow dust.
 
 That was when the rims of my eyes reddened slightly despite myself.
 
@@ -237,13 +237,13 @@ That was when the rims of my eyes reddened slightly despite myself.
 
 “Oh, really?”
 
-*…?*
+“…?”
 
 Parents? Moving? A huge estate with koi?
 
 Wait. Something wasn’t right.
 
-I stared dumbfoundedly at Hyuk Mujin as he returned carrying the candied hawthorn skewers[^2].
+I stared dumbfoundedly at Hyuk Mujin as he returned carrying the candied hawthorn skewers.
 
 “What was that about?”
 
@@ -259,11 +259,11 @@ Hyuk Mujin stared at me as though I were insane.
 
 “What stuff?”
 
-“The candied hawthorn[^2]. You said you couldn’t have any and spent every day sucking on your fingers.”
+“The candied hawthorn. You said you couldn’t have any and spent every day sucking on your fingers.”
 
 “I couldn’t have any. My parents wouldn’t let me eat it because they said it would rot my teeth. Every merchant around here knew how overbearing my parents were, so they made a point of refusing to sell any to me. That lady was the only one who secretly slipped me some.”
 
-*…*
+“…”
 
 “And what about being jealous of the children holding their parents’ hands?”
 
@@ -273,7 +273,7 @@ Hyuk Mujin stared at me as though I were insane.
 
 “I left home. I didn’t want to inherit the family business, so I left a single letter behind and ran away. The Master of the Gatekeeper Pavilion in our family is my father’s childhood best friend, so he probably knew everything about how I was doing.”
 
-*…*
+“…”
 
 “For about two years, they gave me hell over it. Then my youngest sibling was suddenly born, so I no longer needed to inherit the family business. After that, they stopped saying much.”
 
@@ -297,19 +297,19 @@ You had to be pretty damn wealthy to open chain stores in a place this rough.
 
 *What the hell have I been doing?*
 
-A young boy who used to suck on his fingers because he wanted to eat candied hawthorn[^2] so badly?
+A young boy who used to suck on his fingers because he wanted to eat candied hawthorn so badly?
 
 The truth was that his successful business-owner parents had forbidden him from eating it because they were worried about his teeth.
 
 *What the fuck is this?*
 
-As I stood there with my mouth hanging open, Hyuk Mujin held out one of the candied hawthorn skewers[^2].
+As I stood there with my mouth hanging open, Hyuk Mujin held out one of the candied hawthorn skewers.
 
 “Here, have one. I specially chose the biggest and shiniest one. The ones that lady sells are the best in this area.”
 
 “You son of a…”
 
-I swallowed the curse that had surged up to my throat and bit down on the candied hawthorn[^2] with a loud crunch.
+I swallowed the curse that had surged up to my throat and bit down on the candied hawthorn with a loud crunch.
 
 “Let’s hurry up and find a room.”
 
@@ -321,7 +321,7 @@ I swallowed the curse that had surged up to my throat and bit down on the candie
 
 “We’ve had enough fun. You said the rooms would fill up after sunset. If we get a bad night’s sleep and end up late to tomorrow’s luncheon, are you going to take responsibility?”
 
-*…*
+“…”
 
 * * *
 
@@ -356,12 +356,10 @@ Another Peak master had appeared.
 
 Amid the tension, the young man named Cheongpung opened his lips.
 
-“If you don’t mind, may I eat just one candied hawthorn skewer[^2]?”
+“If you don’t mind, may I eat just one candied hawthorn skewer?”
 
-*…?*
+“…?”
 
 *What the hell is this guy?*
 
-[^1]: A geun is a Korean unit of weight equal to 600 g, or about 1.32 lb.
-[^2]: Candied hawthorn skewers are a traditional snack made by coating skewered fruit in hardened sugar.
-[^3]: Yellow dust is windborne dust from arid regions of East Asia that can affect air quality in Korea.
+[^1]: Candied hawthorn skewers are a traditional snack made by coating skewered fruit in hardened sugar.
