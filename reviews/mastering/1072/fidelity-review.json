@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "No. Looking would do him no good.",
+      "defect": "The source clarifies that he listened rather than merely looking; it does not say that looking would be useless. That added inference changes the thought’s emphasis.",
+      "id": "F01",
+      "rationale": "The Korean says, “아니, 정확히는 온 신경을 집중하여 귀를 기울였다,” a correction from looking around to concentrating on listening, not a judgment that looking would do no good.",
+      "replacement": "No—more precisely, he focused all his attention on listening.",
+      "severity": "minor",
+      "source": "Lines 174–178"
+    },
+    {
+      "confidence": 0.93,
+      "current": "All that practice for two days straight paid off.",
+      "defect": "The narration omits that the intruder showed unmistakable delight and spoke triumphantly as he added this.",
+      "id": "F02",
+      "rationale": "The source explicitly describes 숨길 수 없는 기쁨 and 의기양양한 어조 before the intruder’s line. The current version preserves the spoken content but drops both the visible delight and the triumphant delivery.",
+      "replacement": "The intruder, unable to hide his delight, added triumphantly, “All that practice for two days straight paid off.”",
+      "severity": "minor",
+      "source": "Line 66"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it adds an inference during the black-robed man’s search for a reply and omits a narrated emotional beat.",
+  "version": 1
+}

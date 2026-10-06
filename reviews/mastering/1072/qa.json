@@ -1,0 +1,47 @@
+{
+  "chapter": 1072,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 1.766,
+    "source_characters": 4943,
+    "source_paragraphs": 144,
+    "translation_characters": 8730,
+    "translation_paragraphs": 131
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "꼬리",
+        "preferred": "the “tail”"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "답보",
+        "preferred": "stagnation"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마비",
+        "preferred": "Paralyzed"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
