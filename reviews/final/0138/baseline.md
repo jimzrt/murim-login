@@ -4,7 +4,7 @@ The luxurious six-horse carriage raced onward without slowing.
 
 Elite-looking soldiers cleared the road ahead, while the crowds swarming like ants parted to either side and watched the carriage fly past like the wind.
 
-“So this is how Moses[^1] felt.”
+“So this is how Moses felt.”
 
 Cheongpung reacted to my mutter.
 
@@ -46,9 +46,9 @@ Then again, he had said he had lived his entire life in the mountains. Maybe thi
 
 I still couldn’t forget the expression he had just made. His eyes had lit up like high beams at the mere mention of the imperial family.
 
-“Have you ever seen a member of the imperial family?”
+*“Have you ever seen a member of the imperial family?”*
 
-“I want to! I’ll see one! Please let me see one!”
+*“I want to! I’ll see one! Please let me see one!”*
 
 What filled his eyes wasn’t the sort of admiration ordinary commoners felt toward the imperial family. If I had to compare it to something, it was more like the excitement of going to see an elephant at the zoo.
 
@@ -148,7 +148,7 @@ After passing through a corridor lined with endless pillars, how long had he bee
 
 “Yes, sir.”
 
-A commander of the guard saluted him and called out in a powerful voice.
+A commander of the palace guard saluted him and called out in a powerful voice.
 
 “His Excellency Li Feng, Assistant Military Commissioner of Shanxi Province, entering!”
 
@@ -334,13 +334,13 @@ Li Feng shuddered. The moment he saw that man’s face, the humiliating memory f
 
 The sharp-eyed man answered casually.
 
-“How else? When the Deputy Military Commissioner of Shanxi Province invites you, you have to come running even if it’s a thousand li[^2] away. Isn’t that right?”
+“How else? When the Deputy Military Commissioner of Shanxi Province invites you, you have to come running even if it’s a thousand li away. Isn’t that right?”
 
 “You’re too kind. I’m the one grateful that you accepted the invitation.”
 
 Li Feng ground his teeth. Gong Ilhyuk, the third of the Three Hands of Zhongnan, grinned at him.
 
-“Anyway, you’ve done well for yourself. Assistant Military Commissioner, someone like you… Huashan must have spread around quite a few silver nyang[^3] for you. Hmm?”
+“Anyway, you’ve done well for yourself. Assistant Military Commissioner, someone like you… Huashan must have spread around quite a few silver nyang for you. Hmm?”
 
 “How dare you insult Huashan?”
 
@@ -353,7 +353,3 @@ A thunderous shout burst from Li Feng’s mouth.
 At the moment he glared at Gong Ilhyuk with eyes that seemed to pour out streams of flame, a third shout rang out from beyond the iron gate.
 
 “The young prodigies of Shanxi Murim request an audience!”
-
-[^1]: In the biblical account, Moses parted the Red Sea to lead his people through it.
-[^2]: The Chinese li is a unit of distance equal to about 500 m (0.311 mi). A thousand li is about 500 km (311 mi).
-[^3]: A silver nyang is a historical unit of silver currency.
