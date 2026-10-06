@@ -78,15 +78,15 @@ There was not a trace of hesitation in his answer. Jin Wikyung smiled faintly an
 
 It was the only thing left behind by the father who had vanished one day without a trace.
 
-> I’m going to travel around the Central Plains for a while.
->
-> Use this in the meantime.
+*I’m going to travel around the Central Plains for a while.*
+
+*Use this in the meantime.*
 
 Remembering the letter stuffed carelessly into the scabbard made Jin Wikyung’s blood boil all over again.
 
 *Travel around the Central Plains, my ass. You spent your whole life having fun.*
 
-He had no idea where that so-called Family Head was or what he was doing, and his second brother, thousands of li[^1] away, had probably only just received the letter.
+He had no idea where that so-called Family Head was or what he was doing, and his second brother, thousands of li away, had probably only just received the letter.
 
 *I have to protect them.*
 
@@ -120,11 +120,11 @@ Blessed with an innate talent for martial arts and the instincts of a beast, he 
 
 He had founded the Mount Heng Sword Sect, then strengthened it by absorbing the surrounding factions one by one. His aim was to lay the foundation for a great family that would one day be recognized even in the Central Plains.
 
-“Sect Leader! The Young Master…”
+*Sect Leader! The Young Master…*
 
 Then, one day, his second son came home a corpse.
 
-He had not died in a fair duel. Deadly poison had killed him, blood pouring from all seven orifices.[^2]
+He had not died in a fair duel. Deadly poison had killed him, blood pouring from all seven orifices.
 
 Lee Cheonbaek swore an oath.
 
@@ -136,7 +136,7 @@ Flames blazed in Lee Cheonbaek’s eyes.
 
 “You bastard—!”
 
-He charged like a beast. His sword, imbued with one jiazi[^3] of internal energy, shone milky white.
+He charged like a beast. His sword, imbued with one jiazi of internal energy, shone milky white.
 
 With this much power, it could cut through any armor or divine weapon.
 
@@ -182,7 +182,7 @@ It was true that the sight of Jin Wikyung had driven him into a frenzy. It was a
 
 But Lee Cheonbaek was a Peak master.
 
-A Peak master who had reached the level of injuring others with Sword Energy.
+A Peak master who had reached the realm of Sword Energy Frost Blade.
 
 There could only be one answer.
 
@@ -284,13 +284,13 @@ It looked like an ordinary blue-steel sword, but the moment it entered his hand,
 
 Lee Cheonbaek did not refuse.
 
-His blade drew in one jiazi[^3] of internal energy, raising a shimmering haze of light.
+His blade drew in one jiazi of internal energy, raising a shimmering haze of light.
 
-The level of injuring others with Sword Energy—a realm countless martial artists dreamed of reaching.
+The realm of Sword Energy Frost Blade—a realm countless martial artists dreamed of reaching.
 
 Tssss.
 
-The instant the Sword Energy rose three chi[^4]—about ten centimeters—Lee Cheonbaek shot forward.
+The instant the Sword Energy rose three inches—about ten centimeters—Lee Cheonbaek shot forward.
 
 A unique martial art, perfected through countless real battles, unfolded from his fingertips.
 
@@ -438,7 +438,7 @@ Even the master of the Mount Heng Sword Sect, one of the two powers that divided
 
 Even now, with death staring him in the face.
 
-*When you meet Yama,[^5] ask him who killed Lee Seogeun.*
+—When you meet Yama, ask him who killed Lee Seogeun.
 
 The Sound Transmission burrowed into Lee Cheonbaek’s ear, and his eyes flared wide.
 
@@ -450,7 +450,7 @@ Perhaps pity for Lee Cheonbaek, who was about to die knowing nothing.
 
 Or perhaps it was nothing more than an old man’s whim.
 
-*Consider it fare for the road to the afterlife. Think it over on your long journey.*
+—Consider it fare for the road to the afterlife. Think it over on your long journey.
 
 The Head Elder raised his sword.
 
@@ -495,9 +495,3 @@ The answer came an instant later.
 The Head Elder saw the face of a young man standing tall on a low hill, and groaned.
 
 “Jin Taekyung?”
-
-[^1]: In this Chinese setting, one li is about 500 meters (0.311 miles).
-[^2]: The seven orifices are the two eyes, two ears, two nostrils, and mouth.
-[^3]: A jiazi is a traditional sixty-year cycle.
-[^4]: One chi is about 3.03 centimeters (1.19 inches); three chi are about 9.1 centimeters (3.6 inches), rounded to ten centimeters in the source.
-[^5]: Yama is the Buddhist lord of the underworld.
