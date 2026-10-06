@@ -132,7 +132,7 @@ How had this happened?
 
 He’d been sure he had blocked the attack.
 
-None of their strikes could have broken the Palm Force gathered in his hands.
+None of their strikes should have been able to break the Palm Force gathered in his hands.
 
 And yet—
 
@@ -152,7 +152,7 @@ He had simply been certain.
 
 Certain that he could hunt the prey before him, whether it was a powerless rabbit or a beast hiding its fangs.
 
-Though it had been only a single exchange, the Blood Lord had realized once again just how immense the power within him was at this moment.
+It had been only a single exchange, but the Blood Lord had realized once again just how immense the power within him was.
 
 And how boundless.
 
@@ -196,7 +196,7 @@ Why was the Blood Lord’s movement, seemingly faster than wind, sound, even lig
 
 WHOOOOSH!
 
-Missing him by a hair every time, every single moment?
+Missing him by a hair every time?
 
 Why couldn’t it touch him?
 
@@ -232,7 +232,7 @@ The Red Blade was descending toward the crown of his head when it abruptly chang
 
 KWAANG!
 
-With a single deafening crash, Cheongpung, who had rushed in to attack from the blind spot, dropped to one knee and spat up blood.
+Cheongpung, rushing in from the Blood Lord’s blind spot, dropped to one knee and spat up blood.
 
 Above him, the Red Blade had wiped away the path of the Thirty-Six Plum Blossom Swords in an instant. It crashed down like lightning and bore upon his sword with the weight of ten thousand geun.
 
@@ -302,23 +302,23 @@ Jin Taekyung was no different.
 
 *Now.*
 
-It was as if someone else, someone he didn’t know, were whispering in his ear.
+It was as if someone he didn’t know were whispering in his ear.
 
 His vision was clouded white, and he couldn’t see a thing.
 
-Time was running out. A horrible weariness—and an even stronger feeling of death—was seeping into his body.
+As the time dwindled, terrible weariness—and the chill of death, stronger still—seeped into his body.
 
 *Shhk.*
 
 Jin Taekyung thrust out his spear smoothly.
 
-The shouts and screams of friend and foe, ringing out without pause even now. The cold clang of steel. The sound of a trumpet, now drawing close.
+The shouts and screams of friend and foe, ringing out without pause. The cold clang of steel. The sound of a trumpet, now drawing close.
 
 Even the palm the Blood Lord thrust out on instinct.
 
 Nothing could stop him.
 
-Leaving it all behind, as if it had been decided from the beginning, Jin Taekyung let the flames deep inside his body flow toward a single point.
+Leaving it all behind, as if this had been decided from the beginning, Jin Taekyung sent the flames deep inside his body toward a single point.
 
 *Pshk.*
 
@@ -328,4 +328,4 @@ Past that very hand, whose wound, for some reason, still hadn’t healed.
 
 KRRRCH!
 
-The monster’s eyes flew wide, bulging as they filled with shock.
+The monster’s eyes bulged wide with shock.

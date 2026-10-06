@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "within a radius of over ten jang",
+      "defect": "“십여 장” means approximately ten jang, not a radius necessarily greater than ten jang. “Over” adds a quantity the source does not establish.",
+      "id": "F01",
+      "rationale": "The source describes the radius as 十여 장 (십여 장), an approximate quantity of ten jang.",
+      "replacement": "within a radius of ten or so jang",
+      "severity": "minor",
+      "source": "Line 95"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor quantity discrepancy.",
+  "version": 1
+}
