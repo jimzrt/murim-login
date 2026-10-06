@@ -66,7 +66,7 @@ At that generous response, befitting a Daoist of the Kunlun Sect, I swallowed ba
 
 Hak Su laughed heartily, but I’d still been rude. All the more so because the man standing before me was Cheongheoja’s Senior Disciple and might one day succeed him as Sect Leader of Kunlun.
 
-“I’ve often heard about you, so I know what sort of person you are. Just as the third one said, you’re a very amusing man.”
+“I’ve heard a great deal about you. Just as the third one said, you’re a very amusing man.”
 
 “By the third one, you mean…”
 
@@ -82,7 +82,7 @@ Caught off guard by Hak Su’s praise, I scratched my head. I’d heard thanks l
 
 Of course, the allies about to gather in one place were stronger than any force I’d ever seen. Two of the Three Saints had joined us, and the Fire King Jeok Cheongang—a master who could hold his own against them—was with us too.
 
-If several other Supreme Peak masters, myself included, and our handpicked three thousand elites joined the main force, we might even have the upper hand against Dark Heaven’s massive army invading Qinghai.
+If several other Supreme Peak masters, myself included, and our handpicked three thousand elites joined the main force, we might even gain the upper hand against Dark Heaven’s massive army in Qinghai.
 
 But…
 
@@ -96,11 +96,11 @@ That alone was a serious complication. But something else had been weighing on m
 
 An absolute being lurking beyond an abyss whose depths I couldn’t fathom, swallowing the world—heaven and earth alike.
 
-I couldn’t even imagine what would happen if that bastard appeared before us soon.
+I couldn’t even imagine what would happen if he appeared before us soon.
 
 *There’s a good chance the Lord of Heaven will enter this battle. Dark Heaven can’t afford to back down.*
 
-Four Demon Lords and a Demon Empress, who’d been like his own limbs, had already fallen to my hand, and we’d inflicted heavy losses on his forces along the way.
+Four Demon Lords and a Demon Empress, who’d been like his own limbs, had already fallen to my hand. Dark Heaven had lost countless troops in the process.
 
 If the Lord of Heaven lost an army of a hundred thousand in Qinghai as well, the blow would be enormous, even for him.
 
@@ -142,7 +142,7 @@ A feeble excuse from a Supreme Peak master. Hak Su studied me for a moment befor
 
 “I can’t claim to know everything that troubles you, but if you ever wish to talk, you’re welcome to come to me.”
 
-“Of course, I wasn’t being entirely serious, so don’t worry about it. But I can at least tell you some good news that might lighten your heart a little.”
+He gave his characteristic hearty laugh and added, “Of course, I wasn’t being entirely serious, so please don’t feel obliged. But I can at least offer some good news that might ease your mind.”
 
 “What good news?”
 
@@ -176,7 +176,7 @@ He’d learn the harsh truth soon enough, even if it wasn’t today.
 
 “Half a day. Two or three shichen at most, then.”
 
-I nodded, thinking about what lay ahead, then muttered as I remembered something I’d almost forgotten.
+Crossing Qinghai Lake directly by ship had saved us a considerable amount of time. I nodded, thinking about what lay ahead, then remembered something I’d nearly forgotten.
 
 “Oh, right.”
 
@@ -192,7 +192,7 @@ Leaving Hak Su to puzzle over that, I shouted to the house elf who had to be som
 
 A moment later, the rude house elf’s indignant voice rang out.
 
-“This is driving me crazy! Why now?!”
+“Are you kidding me? Why now?!”
 
 “Just felt like calling you. Wanted to check where you were.”
 
@@ -200,7 +200,7 @@ The house elf—Hyuk Mujin—came running. At my casual answer, he looked like h
 
 “What am I, some stray dog?”
 
-“Absolutely not. What sin did a good dog commit in a past life to deserve being compared to you?”
+“Absolutely not. What did a good dog do in a past life to deserve being compared to you?”
 
 “……One of these days, I’m going to get sick of this shit and quit.”
 
@@ -220,7 +220,7 @@ I laughed quietly at his grumbling and started walking.
 
 “What can I say? I learned it all from you, Captain.”
 
-As I walked along, chatting with Hyuk Mujin, Hak Su followed behind us, caught up in the situation. He blinked.
+Hak Su had fallen in behind us as Mujin and I talked. He blinked.
 
 “Forgive me, but what in the world are you talking about?”
 
@@ -244,13 +244,13 @@ Hyuk Mujin stepped forward briskly and pulled on a chain extending over the side
 
 “Of course—cough—of course!”
 
-He’d spent a full day and night as one with the blue waters of Qinghai Lake. It was hardly surprising that he might be ready to cooperate now.
+After spending a full day and night in the blue waters of Qinghai Lake, it wouldn’t have been surprising if he’d finally grown cooperative. Still, I studied the gasping man closely.
 
 “If there’s even the slightest lie in what you tell us, your parents will live long, sick lives.”
 
 “……”
 
-“Devoted son, aren’t you? Right, Mujin?”
+“Such a devoted son. Right, Mujin?”
 
 “Yes, sir!”
 
@@ -260,4 +260,4 @@ He’d spent a full day and night as one with the blue waters of Qinghai Lake. I
 
 Hyuk Mujin answered with gusto and released the chain. The blue water swallowed the man’s desperate scream.
 
-The ancient tradition of dipping someone in the Yangtze lived on at Qinghai Lake.
+The age-old tradition of giving someone a quick dip in the Yangtze lived on at Qinghai Lake.

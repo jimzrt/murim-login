@@ -1,0 +1,45 @@
+{
+  "summary": "The translation is broadly faithful, but it loses a few source-specific physical and emotional details.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 70",
+      "current": "I stared at the dark sky, knowing I’d screwed up, and Hak Su let out a quiet laugh.",
+      "defect": "The source describes Taekyung staring at the dark sky with a clouded, unfocused look. The current line conveys his realization but drops that physical detail, which the accepted baseline preserved.",
+      "replacement": "I stared at the dark sky with a clouded look, realizing I’d screwed up, and Hak Su let out a quiet laugh.",
+      "rationale": "흐린 눈빛으로 describes the look in his eyes, not just his awareness that he made a mistake.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 80–82",
+      "current": "Hak Su laughed heartily, but I’d still been rude. All the more so because the man standing before me was Cheongheoja’s Senior Disciple and might one day succeed him as Sect Leader of Kunlun.",
+      "defect": "The source explicitly calls Taekyung’s discourtesy a serious breach of etiquette. The current wording reduces it to being rude.",
+      "replacement": "Hak Su laughed heartily, but I’d still committed a serious breach of etiquette. All the more so because the man standing before me was Cheongheoja’s Senior Disciple and might one day succeed him as Sect Leader of Kunlun.",
+      "rationale": "큰 결례 means a serious discourtesy, matching the stronger wording in the accepted baseline.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 256–260",
+      "current": "So I made him heavier. Chained a water jug to his ankle. He loved it.",
+      "defect": "The source says Mujin attached both an iron chain and a water jug to the captive’s ankle to make him heavier. The current wording mentions chaining the jug but omits the chain as a separate weight.",
+      "replacement": "So I made him heavier. Chained an iron chain and a water jug to his ankle. He loved it.",
+      "rationale": "쇠사슬이랑 물통 names two items attached to the ankle; the accepted baseline preserved both.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 292",
+      "current": "He’d spent a full day and night as one with the blue waters of Qinghai Lake. It was hardly surprising that he might be ready to cooperate now.",
+      "defect": "The assembled English omits Taekyung’s grave, intent stare at the gasping man in black before the threat. This physical beat was present in the accepted baseline.",
+      "replacement": "He’d spent a full day and night as one with the blue waters of Qinghai Lake. It was hardly surprising that he might be ready to cooperate now. But I stared at the gasping man in black with a grave expression.",
+      "rationale": "The source adds a deliberate shift with 하지만 and describes Taekyung watching the man with a 심유한 눈빛, a grave, penetrating gaze.",
+      "confidence": 0.96
+    }
+  ]
+}
