@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled translation is largely faithful, with two minor omissions or shifts in the scene description.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 9–11",
+      "current": "everything else seemed to vanish",
+      "defect": "The Korean states that the dead and the living—all of it—evaporated. “Else” shifts the scope beyond them, and “seemed” adds uncertainty absent from the source.",
+      "replacement": "all of it evaporated",
+      "rationale": "그 모든 것이 증발하고 refers to everything just named—the dead and the living—evaporating, not merely seeming to vanish.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 149–151",
+      "current": "As one of the enemies, unable to wait any longer, charged us, I kicked him in the chest and caved it in.",
+      "defect": "The translation omits that the enemy forces had already been greatly reduced by the earlier strike, though many still remained in the rear.",
+      "replacement": "Though the earlier strike had greatly thinned their ranks, plenty of the enemy’s forces still remained in the rear. As one of them charged before he could hold back, I kicked him in the chest and caved it in.",
+      "rationale": "The source explicitly establishes both the reduced numbers and the substantial force still in the rear before describing the charging enemy.",
+      "confidence": 0.98
+    }
+  ]
+}

@@ -124,7 +124,7 @@ Honestly, I wanted to let it go. But when someone’s life was on the line, it m
 
 THWACK!
 
-As one of the enemies, unable to wait any longer, charged us, I kicked him in the chest and caved it in.
+My last strike had thinned the enemy ranks, but plenty remained in the rear. One charged us, and I kicked his chest in.
 
 “You do know you’re covered head to toe in blood, right?”
 
@@ -162,7 +162,7 @@ Jeok Cheongang sprang upright, turning three enemies to charcoal as he rose. The
 
 Grab!
 
-The instant I started to turn away, Jeok Cheongang snatched my wrist like lightning and replied in a stern voice.
+The moment I started to turn away, Jeok Cheongang snatched my wrist like lightning.
 
 “The wise men of old said even a sheet of paper is easier to lift when two people carry it.”
 
@@ -188,9 +188,9 @@ Jeok Cheongang was silent for a moment. Then he answered exactly as I’d asked.
 
 “Perfectly put.”
 
-“And those pure-white things way over there are helping him with some bizarre dark arts. Every time that strange energy of theirs surges, he gets stronger. I tried to take them out before things got even worse, even if I had to overextend myself, but…”
+“And those white things way in the back are helping him with some bizarre dark arts. Every time that strange energy of theirs surges, he gets stronger. I tried to take them out before things got worse, even if it meant pushing myself, but…”
 
-“You failed. You got hit by those dark arts, too.”
+“You failed. They caught you with those dark arts, too.”
 
 “That’s right. What I felt then was like…”
 
@@ -200,9 +200,9 @@ Gravity magic. No doubt about it.
 
 Jeok Cheongang stared at me, momentarily stunned that I’d described it so precisely. I continued calmly.
 
-“More precisely, that’s not ordinary dark arts. It’s an ability called Magic.”
+“More precisely, those aren’t ordinary dark arts. It’s an ability called Magic.”
 
-“Wait. If you mean Magic…”
+“Wait. Magic?”
 
 “Yes. The Magic you know about. The kind you’d only see in my homeland.”
 
@@ -216,7 +216,7 @@ But that mattered less than defeating the enemy in front of us.
 
 *We have to target them first. Not the Blood-Sword Demon Lord—those people in white. The mages.*
 
-Even as I sent him the message through Sound Transmission, a chill ran down my spine at how unfamiliar the idea felt.
+Even as I sent the Sound Transmission, a chill ran down my spine.
 
 *Mages.* Here, of all places. Not in the modern world, but in Murim.
 
@@ -246,7 +246,7 @@ But just as I was about to conclude that one of them had to be a Grand Mage, a q
 
 I didn’t mean we were winning. Everyone, myself included, was giving it their all, and the battle was still going badly for our side.
 
-*But if the Grand Mage had stepped in, we wouldn’t even have been able to keep things at this disadvantage.*
+*But if a Grand Mage had joined the fight, we couldn’t even have held on against these odds.*
 
 I knew better than anyone what a Grand Mage could do on a battlefield. It took no thought at all to picture a wide-area attack spell unlike anything anyone in this world had ever seen.
 
@@ -272,9 +272,9 @@ I’d blurted the question out before I could stop myself. Three *jang* away, th
 
 “I don’t know what you’re talking about, but… it doesn’t matter.”
 
-The Blood-Sword Demon Lord shrugged with an expression that could have been sincere or an act, then raised the sword he’d been holding loosely and continued.
+He shrugged. Whether his confusion was genuine or an act, I couldn’t tell. Then he raised the sword he’d been holding loosely at his side.
 
-“Let’s finish this. Of course, I’d prefer an ending where one of you dies and the other is taken prisoner.”
+“Let’s finish this. I’d prefer an ending where one of you dies and the other is taken prisoner.”
 
 Jeok Cheongang and I answered in one voice.
 
@@ -290,6 +290,6 @@ No. Only Jeok Cheongang shot toward him.
 
 *Hold him off for half a quarter-hour. Just half a quarter-hour.*
 
-With that Sound Transmission sent through the wind, I twisted my body and charged toward the hill.
+I sent the Sound Transmission through the wind, twisted away, and charged toward the hill.
 
 SHWEEEE!
