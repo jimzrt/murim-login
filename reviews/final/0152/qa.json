@@ -1,0 +1,80 @@
+{
+  "chapter": 152,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.31,
+    "source_characters": 5583,
+    "source_paragraphs": 185,
+    "translation_characters": 12899,
+    "translation_paragraphs": 190
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인도",
+        "preferred": "Human Butcher"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "비처",
+        "preferred": "secret refuge"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "영물",
+        "preferred": "spiritual creature"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "가기",
+        "preferred": "singing courtesan"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "칠득",
+        "romanization": "childeuk"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "태초",
+        "romanization": "taecho"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

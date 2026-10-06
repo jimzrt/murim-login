@@ -14,7 +14,7 @@ Judging by his size alone, anyone might have suspected he hailed from the Hebei 
 
 *Come to think of it, I don’t even know his name yet.*
 
-The weather was cold, and there were still three shichen[^1] left in his shift.
+The weather was cold, and there were still more than three shichen left in his shift.
 
 On days like this, you had to flap your gums to make the time pass faster and keep warm. The middle-aged martial artist quietly opened his mouth.
 
@@ -52,9 +52,9 @@ Of course, that was utter nonsense. But despite his appearance, the new martial 
 
 “Compared to you in your youth, Senior, I’m nothing.”
 
-“Come now, none of this ‘Senior’ business. Call me hyung[^2] from now on. Ah, my surname is Hong.”
+“Come now, none of this ‘Senior’ business. Call me hyung from now on. Ah, my surname is Hong.”
 
-“Yes, hyung[^2]!”
+“Yes, hyung!”
 
 “Heh heh. Looks like I’ve gained a good little brother. So, Little Brother Jang, when did you join our family?”
 
@@ -136,7 +136,7 @@ Hong answered indifferently.
 
 “Pardon?”
 
-“Other than the people who come to change shifts every four shichen[^1], nobody comes here. Ah, there is a servant who delivers meals.”
+“Other than the people who come to change shifts every four shichen, nobody comes here. Ah, there is a servant who delivers meals.”
 
 “But… this is the training hall, isn’t it?”
 
@@ -168,7 +168,7 @@ But how could such a thing be possible with a human body?
 
 “…Yes?”
 
-“If you sit around in front of this training hall for a few shichen[^1] every day, your monthly pay arrives like clockwork. That’s what matters. The only downside is that time passes damnably slowly.”
+“If you sit around in front of this training hall for a few shichen every day, your monthly pay arrives like clockwork. That’s what matters. The only downside is that time passes damnably slowly.”
 
 Hong grinned and patted Childeuk on the shoulder.
 
@@ -218,9 +218,9 @@ Without even looking where Childeuk was pointing, Hong pulled a small porcelain 
 
 “Wow. It really is as big as a person.”
 
-“They’re even called spirit creatures. I heard their wingspan alone is more than a jang[^3]. I’ve only seen one from a distance, myself.”
+“They’re even called spirit creatures. I heard their wingspan alone is more than a jang. I’ve only seen one from a distance, myself.”
 
-“But, hyung[^2].”
+“But, hyung.”
 
 “What? Why do you keep calling me?”
 
@@ -252,7 +252,7 @@ Rocks and dust burst in every direction. The two men swallowed at the same time.
 
 “D-do you think he’s dead?”
 
-“Try falling from that height. Even the Jade Emperor[^4] would die.”
+“Try falling from that height. Even the Jade Emperor would die.”
 
 How had such a horrific calamity intruded upon their peaceful routine?
 
@@ -302,21 +302,21 @@ Hong’s legs gave out, and he collapsed.
 
 “The corpse—the corpse is alive!”
 
-“Ugh! It’s a jiangshi[^5]! A jiangshi[^5] has appeared!”
+“Ugh! It’s a jiangshi! A jiangshi[^1] has appeared!”
 
 The dirt-covered stranger who had suddenly been written off as dead staggered to his feet.
 
 His hair was wild, and blood vessels had burst in his eyes. He looked around, then ground his teeth.
 
-“Fuck, Taecho Village[^6] again?”
+“Fuck, Taecho Village[^2] again?”
 
 * * *
 
-*Damn, that hurts.*
+Damn, that hurts.
 
 Head, shoulders, knees, feet, knees, feet… There wasn’t a single part of me that didn’t ache. Luckily, I’d driven a dagger into the cliff and slowed my fall. Otherwise, I might have kicked the bucket.
 
-Of course, the Muscles and Bones and Toughness stats I had steadily raised had helped, too.
+Of course, the physique and toughness stats I had steadily raised had helped, too.
 
 “Ow, the back of my head is throbbing.”
 
@@ -338,27 +338,27 @@ Mr. Jang Childeuk, who had been working hard to manipulate public opinion at Hon
 
 “Gasp! How do you know my name?!”
 
-“The jiangshi[^5] is talking! It’s bewitching people with its words!”
+“The jiangshi is talking! It’s bewitching people with its words!”
 
-“…Who are you calling a jiangshi[^5]? Can’t you see I’m breathing just fine?”
+“…Who are you calling a jiangshi? Can’t you see I’m breathing just fine?”
 
 The middle-aged man with the patchy beard glared at me and shouted.
 
 “You evil creature! You can’t fool my eyes. If you were human, you couldn’t possibly be fine after falling from that height. Who sent you? The Demonic Cult? The Blood Cult? Or perhaps…”
 
-“Taecho Village[^6]! Hyung[^2], that jiangshi[^5] definitely said ‘Taecho Village[^6].’”
+“Taecho Village! Hyung, that jiangshi definitely said ‘Taecho Village.’”
 
-“That’s right! You’re a jiangshi[^5] sent by Taecho Village[^6]!”
+“That’s right! You’re a jiangshi sent by Taecho Village!”
 
 The middle-aged man shouted as if he had finally figured it out, then suddenly stopped and asked Childeuk,
 
-“But where is Taecho Village[^6]?”
+“But where is Taecho Village?”
 
 “I don’t know either.”
 
 “…”
 
-*It would have been strange if he did.*
+It would have been strange if he did.
 
 I gave up on the conversation and wiped the dirt from my face with my sleeve.
 
@@ -370,15 +370,12 @@ The middle-aged man might not know me, but Childeuk knew my face well. This woul
 
 “Little brother, the Third Young Master? What in the world are you talking about?”
 
-“The Third Young Master has become a jiangshi[^5]!”
+“The Third Young Master has become a jiangshi!”
 
 “…”
 
-*How the hell did he reach that conclusion?*
+How the hell did he reach that conclusion?
 
-[^1]: A *shichen* is a traditional time unit of approximately two hours.
-[^2]: *Hyung* is a Korean term a man uses for an older brother or an older man with whom he is close.
-[^3]: A *jang* is a traditional length of ten *ja*, approximately 3.03 m (9.94 ft).
-[^4]: The Jade Emperor is a deity in Daoist tradition who rules over heaven.
-[^5]: A *jiangshi* is a reanimated corpse from Chinese folklore, often depicted as a hopping vampire.
-[^6]: *Taecho* means “primordial” or “the beginning.”
+[^1]: A jiangshi is a reanimated corpse from Chinese folklore, often depicted as a hopping vampire.
+
+[^2]: *Taecho* means “primordial” or “the beginning.”
