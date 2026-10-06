@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At the deaths of fully two thousand of their comrades, felled before they could take their first step in Henan.",
+      "defect": "The source explicitly says that all they could do was stare blankly at the deaths. The assembled English omits that reaction.",
+      "id": "F01",
+      "rationale": "The Korean states, “그들이 할 수 있는 일이라곤, 그저 멍하니 바라보는 것뿐이었다”—that all they could do was simply stare blankly.",
+      "replacement": "All they could do was stare, dumbfounded, at the deaths of fully two thousand of their comrades, felled before they could take their first step in Henan.",
+      "severity": "minor",
+      "source": "Lines 195–197"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it omits the survivors’ explicit reaction of staring dumbfounded at their fallen comrades.",
+  "version": 1
+}

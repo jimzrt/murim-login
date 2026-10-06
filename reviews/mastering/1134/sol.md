@@ -4,7 +4,7 @@ The air on Mount Kunlun was heavy and cold that day.
 
 Mist lay thick over the towering peaks. The creatures large and small that had once shared this beautiful wilderness with humans had long since vanished.
 
-Only blood-red eyes glimmered through the dense mist, accompanied by eerie cries.
+Only red eyes gleamed through the mist, accompanied by eerie cries.
 
 “Grrr.”
 
@@ -24,7 +24,7 @@ A smile touched Ma Sanbao’s lips.
 
 “Then Mount Kunlun’s spiritual creatures must be extinct.”
 
-Anyone familiar with the state of Murim who heard their purpose and conversation might have scoffed at such an absurd claim.
+Anyone familiar with the state of Murim might have scoffed if they’d heard what this force intended to do.
 
 Five thousand was no small number, but even the Hundred Thousand Demonic Disciples, who had once blanketed the world in darkness, had failed to take the Central Plains.
 
@@ -32,9 +32,9 @@ Ma Sanbao had good reason to smile, though.
 
 *It’s enough. More than enough.*
 
-Ma Sanbao swept his sunken gaze over the subordinates packed in all around him.
+He swept his gaze over the subordinates packed around him.
 
-The monsters’ blood-red eyes flashed without pause. The fanatics moved only at his command, little more than soulless puppets.
+The monsters’ blood-red eyes flashed without pause. The fanatics, little more than people who had lost their souls, moved only at their masters’ command.
 
 Fully prepared and waiting for Ma Sanbao’s orders, they deserved to be called a Demon Army. Comparing them to the mere Demonic Cult, now a ghost of the past, would be an insult.
 
@@ -58,9 +58,9 @@ Sword Saint Mae Jonghak had appeared in Qinghai with no fewer than ten thousand 
 
 Ma Sanbao had stayed behind in case something like this happened. Even so, Mae Jonghak’s arrival had surprised him as much as the Green Forest Alliance and the Yangtze River Channel League’s betrayal.
 
-But the fact that Alliance Leader Mae Jonghak had left the Murim Alliance meant he must have left at least a minimal defense in Henan.
+But if Mae Jonghak had left the Murim Alliance, he must have left at least a minimal defense in Henan.
 
-*Of course, with its main force gone, it’ll be nowhere near enough. Still, to prepare for any eventuality, we’d be wise not to spread ourselves too thin.*
+*With its main force gone, that won’t be nearly enough. Still, we’d be wise not to spread ourselves too thin.*
 
 This was an opportunity Ma Sanbao had won with great difficulty—perhaps even a stroke of heavenly fortune. Given what the corpse sorcerers could do, his caution might be excessive. But he wanted the safest, surest course.
 
@@ -70,7 +70,7 @@ After careful thought, he had narrowed his targets to two places.
 
 “Henan and Shanxi.”
 
-At his superior’s voice, which broke the brief silence, the black-clad man bowed deeply.
+The black-clad man bowed deeply.
 
 “As you command. An excellent decision.”
 
@@ -90,7 +90,7 @@ The black-clad man answered without hesitation. His force might number a *mere* 
 
 “And if I include Hebei?”
 
-“Give me ten days. I’ll return leading an army of a hundred thousand.”
+“Give me ten days. I’ll return with an army of a hundred thousand.”
 
 Ma Sanbao’s smile deepened at the ready answer.
 
@@ -134,7 +134,7 @@ Fwoosh!
 
 A brilliant flash washed his vision white. Smiling, Ma Sanbao closed his eyes and yielded to the mysterious force pulling his spirit and body toward a distant place.
 
-He imagined the great strides he would take, one after another, and the mighty trail they would carve across the world.
+He pictured the steps he would take from here, one after another, and the great footprints they would leave upon the world.
 
 Paht.
 
@@ -150,7 +150,7 @@ Or rather, he tried to.
 
 Crunch—splat!
 
-A gruesome sound of flesh being torn rang out, and something hot and sticky covered his face before he could open them.
+Before he could, a sickening sound of torn flesh rang out, and something hot and sticky splashed across his face.
 
 “…!”
 
@@ -162,23 +162,23 @@ Then he saw clearly what else he had failed to realize.
 
 Thump. Splatter.
 
-In some nameless, remote mountain valley where even the moonlight didn’t reach, large and small figures crumpled like bundles of straw without so much as a dying cry.
+In a nameless mountain valley beyond even the reach of moonlight, figures large and small crumpled like bundles of straw without so much as a dying cry.
 
 Ma Sanbao could neither move nor stop it. The survivors around him were no different.
 
-At the deaths of fully two thousand of their comrades, felled before they could take their first step in Henan.
+All they could do was stare at the deaths of some two thousand allies, felled before they had taken a single step in Henan.
 
 Their bodies had become one with rocks and trees rather than falling to blades or spears. They lay dead in hideous, unnatural shapes.
 
 “What… What in the world…”
 
-Just then, an unexpected answer reached Ma Sanbao’s ears as he muttered in a dazed voice, as if under a spell.
+As Ma Sanbao muttered in a daze, an unexpected answer reached him.
 
 “What do you think? Exactly what you’re looking at.”
 
 A calm voice sounded from the darkness.
 
-Ma Sanbao whipped his head toward it like lightning and stared.
+Ma Sanbao whipped his head toward it and stared.
 
 How long had that man been there?
 
@@ -200,7 +200,7 @@ He couldn’t. Right then, it was all he could do to grasp the word filling his 
 
 Yes. This was a trap, and a meticulously prepared one.
 
-And the refined-looking middle-aged man smiling on the hill was unmistakably the one who had laid a trap in the Moving Formation the Grand Mage had carved deep into a remote valley in Henan that no one ever visited.
+The refined-looking man smiling on the hill had to be the one who had laid it in the transportation Magic Formation the Grand Mage had inscribed deep in this deserted Henan valley.
 
 A hunter who had set the simplest, surest, most horrific trap of all.
 
@@ -220,7 +220,7 @@ Zhuge Feng, the current Family Head of the Zhuge Clan, widened his eyes.
 
 “Oh? You know me?”
 
-“I do. I remembered you. After today, though, I’ll forget you.”
+“I do. I remembered you. After today, I won’t have to.”
 
 Ma Sanbao drew up the qi within him.
 
@@ -246,7 +246,7 @@ Scuff.
 
 A slender figure stepped out from behind the burly veteran.
 
-He looked down at his former servant with the haughty gaze only someone born to noble blood could possess.
+He looked down at his former servant with the imperious gaze of one born to royal blood.
 
 No—at the criminal for the ages who had dared to overthrow the imperial household.
 

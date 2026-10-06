@@ -1,0 +1,2111 @@
+{
+  "baseline_blocks": 142,
+  "baseline_sha256": "5777f7781d6e7a33d2e04d4e8f3999039f0bd7003027fa63f2a0aa172b8634b0",
+  "global_terminology_alerts": [],
+  "hunk_count": 112,
+  "hunks": [
+    {
+      "baseline": "The air on Mount Kunlun felt heavy and cold that day.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "The air on Mount Kunlun was heavy and cold that day.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mist flowing over its towering peaks was unusually thick, and it had been a long time since any sign remained of the large and small creatures that once lived alongside humans amid the beautiful landscape stretching in every direction.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "Mist lay thick over the towering peaks. The creatures large and small that had once shared this beautiful wilderness with humans had long since vanished.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only blood-red eyes glimmered through the dense mist, accompanied by eerie cries.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "Only red eyes gleamed through the mist, accompanied by eerie cries.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A vicious growl spilled between yellowed teeth.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "A savage growl came from between yellowed teeth.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mountain lord[^1] who had ruled Mount Kunlun only a month ago bent his body, now larger than it had been in life, to greet his master.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "The mountain lord[^1] that had ruled Mount Kunlun only a month ago lowered its body, now larger than it had been in life, to greet its master.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with thousands of human demons who now surrounded Taiqing Hall—the very symbol of the Kunlun Sect—without leaving a single gap.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "17",
+      "sol": "Around it, thousands of human demons surrounded Taiqing Hall—the very symbol of the Kunlun Sect—without leaving a single gap.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The report came from one of the hundred or so men wrapped head to toe in jet-black robes. Ma Sanbao’s voice grew eager.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "The report came from one of the hundred or so figures wrapped head to toe in jet-black robes. Ma Sanbao asked eagerly, “How many in all?”",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How many in all?”",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "23",
+      "sol": "",
+      "sol_paragraphs": "after P10",
+      "sol_range": [
+        10,
+        10
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The corners of Ma Sanbao’s mouth lifted in a gentle smile.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "27",
+      "sol": "A smile touched Ma Sanbao’s lips.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then Mount Kunlun’s spiritual creatures must be nearly extinct.”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "29",
+      "sol": "“Then Mount Kunlun’s spiritual creatures must be extinct.”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Anyone familiar with the state of Murim who heard their purpose and conversation might have scoffed at such an absurd claim.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "31",
+      "sol": "Anyone familiar with the state of Murim might have scoffed if they’d heard what this force intended to do.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Five thousand troops was no small force. But even the Hundred Thousand Demonic Disciples, who had once blanketed the world in darkness, had failed to bring the Central Plains under their control.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "33",
+      "sol": "Five thousand was no small number, but even the Hundred Thousand Demonic Disciples, who had once blanketed the world in darkness, had failed to take the Central Plains.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But there was good reason for the smile on Ma Sanbao’s face.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "35",
+      "sol": "Ma Sanbao had good reason to smile, though.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao swept his sunken gaze over the subordinates packed in all around him.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "39",
+      "sol": "He swept his gaze over the subordinates packed around him.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "The monsters’ blood-red eyes flashed without pause. The fanatics moved only at his command, little more than soulless puppets.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "41",
+      "sol": "The monsters’ blood-red eyes flashed without pause. The fanatics, little more than people who had lost their souls, moved only at their masters’ command.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Now that they had completed their preparations and waited only for his orders, they truly deserved to be called a Demon Army.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "43",
+      "sol": "",
+      "sol_paragraphs": "after P19",
+      "sol_range": [
+        19,
+        19
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Comparing them with the mere Demonic Cult of the past, now only a ghost of history, would be an insult to them.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "45",
+      "sol": "Fully prepared and waiting for Ma Sanbao’s orders, they deserved to be called a Demon Army. Comparing them to the mere Demonic Cult, now a ghost of the past, would be an insult.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the greatest source of Ma Sanbao’s confidence was the hundred or so corpse sorcerers standing before him, including the man in black.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "47",
+      "sol": "But the greatest source of his confidence was the hundred or so corpse sorcerers before him, including the man in black.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "They might not measure up to Ma Sanbao himself, but each was a true monster capable of leading an army, as long as there were corpses to work with.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "49",
+      "sol": "None could compare to Ma Sanbao himself, but each was a true monster capable of leading an army so long as there were corpses to use.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao regarded them with satisfaction, then spoke.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "51",
+      "sol": "He regarded them with satisfaction, then spoke.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "At the black-clad man’s cautious question, Ma Sanbao nodded.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "57",
+      "sol": "Ma Sanbao nodded at the black-clad man’s cautious question.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Under the original plan, they would have split into seven groups and stirred up chaos across the land. But circumstances had changed.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "59",
+      "sol": "Under the original plan, they would have split into seven groups and spread chaos across the land. But circumstances had changed.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sword Saint Mae Jonghak had appeared in Qinghai, leading no less than ten thousand elite troops from the Murim Alliance.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "61",
+      "sol": "Sword Saint Mae Jonghak had appeared in Qinghai with no fewer than ten thousand elite troops from the Murim Alliance.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao had stayed behind in case of a situation like this. Even so, Mae Jonghak’s arrival was as surprising as the Green Forest Alliance and the Yangtze River Channel League betraying them.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "65",
+      "sol": "Ma Sanbao had stayed behind in case something like this happened. Even so, Mae Jonghak’s arrival had surprised him as much as the Green Forest Alliance and the Yangtze River Channel League’s betrayal.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the fact that Alliance Leader Mae Jonghak had left the Murim Alliance meant he must have left at least a minimal defense in Henan.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "67",
+      "sol": "But if Mae Jonghak had left the Murim Alliance, he must have left at least a minimal defense in Henan.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "맹주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Alliance Leader"
+        }
+      ]
+    },
+    {
+      "baseline": "*Of course, with its main force gone, it’ll be nowhere near enough. Still, to prepare for any eventuality, we’d be wise not to spread ourselves too thin.*",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "69",
+      "sol": "*With its main force gone, that won’t be nearly enough. Still, we’d be wise not to spread ourselves too thin.*",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao was cautious.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "71",
+      "sol": "",
+      "sol_paragraphs": "after P32",
+      "sol_range": [
+        32,
+        32
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "This was an opportunity he had fought hard to seize—perhaps one granted by Heaven itself.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "73",
+      "sol": "",
+      "sol_paragraphs": "after P32",
+      "sol_range": [
+        32,
+        32
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The corpse sorcerers’ abilities might make such caution excessive, but he wanted to choose the safest and surest method possible.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "75",
+      "sol": "This was an opportunity Ma Sanbao had won with great difficulty—perhaps even a stroke of heavenly fortune. Given what the corpse sorcerers could do, his caution might be excessive. But he wanted the safest, surest course.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao wanted to enjoy a position second only to one and above ten thousand in a world reshaped under the Lord of Heaven’s rule—not meet a miserable end like the Blood Lord.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "77",
+      "sol": "He meant to hold a place second only to one and above ten thousand in the world remade under the Lord of Heaven’s rule. He had no intention of meeting a miserable end like the Blood Lord.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "After carefully weighing the matter, he had finally narrowed his targets down to just two places.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "79",
+      "sol": "After careful thought, he had narrowed his targets to two places.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At his superior’s voice, which broke the brief silence, the black-clad man bowed deeply.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "83",
+      "sol": "The black-clad man bowed deeply.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Understood. A most excellent decision.”",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "85",
+      "sol": "“As you command. An excellent decision.”",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With the Jin Family of Taiyuan gone, Shanxi Province was all but an ownerless mountain. Henan, meanwhile, had to be taken for its symbolic importance and strategic location in Murim.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "87",
+      "sol": "With the Jin Family of Taiyuan away, Shanxi Province was all but an ownerless mountain. Henan, meanwhile, had to be taken for both its symbolic importance to Murim and its strategic location.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "In fact, with Mae Jonghak absent, this was the perfect opportunity to seize Henan with ease.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "89",
+      "sol": "With Mae Jonghak gone, this was the perfect chance to seize it.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "하남",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Henan"
+        }
+      ]
+    },
+    {
+      "baseline": "And Henan and Shanxi shared a border. One of the greatest advantages was that they could support each other at any time, should anything go wrong.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "91",
+      "sol": "Henan and Shanxi also shared a border. Should anything go wrong, the two forces could support each other.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ever since the Jin Family of Taiyuan united Shanxi Province, it had continued to grow stronger by the day.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "95",
+      "sol": "Shanxi Province had grown stronger by the day since the Jin Family of Taiyuan united it.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the black-clad man answered without so much as a pause.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "97",
+      "sol": "The black-clad man answered without hesitation. His force might number a *mere* two thousand now, but with *dozens* of corpse sorcerers, it would multiply without end.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mere two thousand troops would multiply endlessly, thanks to the several dozen sorcerers he would have at his disposal.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "99",
+      "sol": "",
+      "sol_paragraphs": "after P44",
+      "sol_range": [
+        44,
+        44
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Give me ten days. I’ll return leading an army of a hundred thousand.”",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "105",
+      "sol": "“Give me ten days. I’ll return with an army of a hundred thousand.”",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The black-clad man’s prompt answer deepened Ma Sanbao’s smile.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "107",
+      "sol": "Ma Sanbao’s smile deepened at the ready answer.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Faint light began to rise in strands from the ground.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "115",
+      "sol": "Faint strands of light began to rise from the ground.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Moving Formation the Grand Mage had set up during her stay on Mount Kunlun—no, the Magic Formation—began to activate, stirred into motion by the few sorcerers who had remained behind with Ma Sanbao.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "117",
+      "sol": "The Moving Formation the Grand Mage had installed during her stay on Mount Kunlun—no, the Magic Formation—was activating under the hands of the sorcerers who had remained with Ma Sanbao.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Two enormous circles spread outward, growing larger by the second and enveloping everyone in light.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "121",
+      "sol": "Two enormous circles of light spread outward, growing by the second until they enveloped everyone.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Feeling the mysterious energy surge from every direction, Ma Sanbao trembled with rising elation.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "123",
+      "sol": "Ma Sanbao felt a mysterious surge of energy from every direction and trembled with elation.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His confidence was more than justified. No one who knew Ma Sanbao could deny it.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "127",
+      "sol": "No one who knew him could deny that his confidence was justified.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "He was the most powerful corpse sorcerer to carry on the Maoshan Sect’s legacy, and even as a martial artist, he was a Supreme Peak master who could stand shoulder to shoulder with the Ten Kings.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "129",
+      "sol": "He was the most powerful corpse sorcerer to carry on the Maoshan Sect’s legacy. As a martial artist, he was also a Supreme Peak master who could stand shoulder to shoulder with the Ten Kings.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With the Three Saints, Jin Taekyung, and Jeok Cheongang all absent, the current Murim of the Central Plains held not the slightest fear for him.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "131",
+      "sol": "With the Three Saints, Jin Taekyung, and Jeok Cheongang all absent, nothing in the Central Plains’ Murim frightened him.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "피어",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Fear"
+        }
+      ]
+    },
+    {
+      "baseline": "*Sword Saint, if nothing else, you shouldn’t have left.*",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "133",
+      "sol": "*Sword Saint, you of all people shouldn’t have left.*",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter what defenses they had prepared, with this much power, he could cut through the heart of the Central Plains in an instant.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "135",
+      "sol": "Whatever defenses they had prepared, this force could cut through the heart of the Central Plains in an instant.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "By the time word of their arrival reached the enemy, their force would number not thousands but tens of thousands.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "137",
+      "sol": "By the time word of its arrival reached the enemy, the army would number tens of thousands rather than thousands.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An immortal army that would replenish itself no matter how many times it was killed.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "139",
+      "sol": "An immortal army whose ranks would fill again no matter how many times its soldiers were killed.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Today, the course of history will change.*",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "141",
+      "sol": "*Today, the course of history changes.*",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the world would remember forever that Ma Sanbao himself had been there at the first step of this grand history, destined to last a thousand years.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "143",
+      "sol": "The world would remember forever that Ma Sanbao had been there for the first step of a grand new history that would endure a thousand years.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As a brilliant flash of light washed his vision white, Ma Sanbao smiled and closed his eyes.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "147",
+      "sol": "",
+      "sol_paragraphs": "after P67",
+      "sol_range": [
+        67,
+        67
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "He let himself be carried by the mysterious force pulling his spirit and flesh toward some distant place.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "149",
+      "sol": "A brilliant flash washed his vision white. Smiling, Ma Sanbao closed his eyes and yielded to the mysterious force pulling his spirit and body toward a distant place.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He imagined the great strides he would take, one after another, and the mighty trail they would carve across the world.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "151",
+      "sol": "He pictured the steps he would take from here, one after another, and the great footprints they would leave upon the world.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The change happened in an instant.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "155",
+      "sol": "The change was instantaneous.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the next moment, Ma Sanbao felt the air and wind around him had changed completely. Instinctively, he realized that the Magic Formation prepared by the Grand Mage had transported him and some three thousand of his subordinates to their promised destination.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "157",
+      "sol": "The air and wind around him were different now. Instinctively, Ma Sanbao knew the Grand Mage’s Magic Formation had carried him and some three thousand of his subordinates to the promised place.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With the thrill reserved for the one taking the first great step, Ma Sanbao opened his eyes.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "161",
+      "sol": "Thrilled to be taking that great first step, Ma Sanbao opened his eyes.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Or, more precisely, he tried to.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "163",
+      "sol": "Or rather, he tried to.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A gruesome sound of flesh being torn rang out, and something hot and sticky covered his face before he could open them.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "167",
+      "sol": "Before he could, a sickening sound of torn flesh rang out, and something hot and sticky splashed across his face.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "169",
+      "sol": "“…!”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The scent of blood seeped deep into his nostrils, sickeningly familiar.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "171",
+      "sol": "The smell of blood seeped deep into his nostrils, all too familiar.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As though the whole world had stopped, Ma Sanbao struggled to lift his trembling eyelids.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "173",
+      "sol": "It felt as though the world had stopped. Ma Sanbao struggled to lift his trembling eyelids.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then he saw it clearly with his own two eyes.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "175",
+      "sol": "Then he saw clearly what else he had failed to realize.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The other thing he hadn’t realized.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "177",
+      "sol": "",
+      "sol_paragraphs": "after P81",
+      "sol_range": [
+        81,
+        81
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In some nameless, remote mountain valley where even the moonlight didn’t reach, large and small figures crumpled like bundles of straw without so much as a dying cry.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "181",
+      "sol": "In a nameless mountain valley beyond even the reach of moonlight, figures large and small crumpled like bundles of straw without so much as a dying cry.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao couldn’t stop it. He couldn’t move.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "183",
+      "sol": "Ma Sanbao could neither move nor stop it. The survivors around him were no different.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Neither could the few who had survived alongside him.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "185",
+      "sol": "",
+      "sol_paragraphs": "after P84",
+      "sol_range": [
+        84,
+        84
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "All they could do was stare, dumbfounded.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "187",
+      "sol": "",
+      "sol_paragraphs": "after P84",
+      "sol_range": [
+        84,
+        84
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the deaths of fully two thousand of their comrades, felled before they could take their first step in Henan.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "189",
+      "sol": "All they could do was stare at the deaths of some two thousand allies, felled before they had taken a single step in Henan.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They had died in horrific, bizarre shapes, their bodies fused not with blades or spears, but with rocks and trees.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "191",
+      "sol": "Their bodies had become one with rocks and trees rather than falling to blades or spears. They lay dead in hideous, unnatural shapes.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What—what in the world is this?”",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "193",
+      "sol": "“What… What in the world…”",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just then, an unexpected answer reached Ma Sanbao’s ears as he muttered in a dazed voice, as if under a spell.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "195",
+      "sol": "As Ma Sanbao muttered in a daze, an unexpected answer reached him.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What does it look like? It’s exactly what you’re seeing.”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "197",
+      "sol": "“What do you think? Exactly what you’re looking at.”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A calm voice rang out from beyond the thick darkness.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "199",
+      "sol": "A calm voice sounded from the darkness.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao whipped his head toward it like lightning and stared.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "201",
+      "sol": "Ma Sanbao whipped his head toward it and stared.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "How long had he been there?",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "203",
+      "sol": "How long had that man been there?",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Several dozen *jang* away, an unfamiliar middle-aged man stood on a hill that walled in the area, looking down at the basin—now gripped by fear and confusion.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "205",
+      "sol": "Several dozen *jang* away, a middle-aged man stood atop a hill that ringed the basin like a wall. He looked down over the fear and confusion below.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No. He was looking at Ma Sanbao.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "207",
+      "sol": "No—he was looking at Ma Sanbao.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Good to meet you. I mean that. I was so worried you might not show up that I was beside myself.”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "209",
+      "sol": "“Good to meet you. I mean that. I was so worried you wouldn’t come that I could hardly stand it.”",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The middle-aged man slowly looked over Ma Sanbao, frozen stiff as a statue, and the subordinates who had survived. He smacked his lips, then added:",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "211",
+      "sol": "The man slowly surveyed Ma Sanbao, frozen stiff as a statue, and the subordinates who had survived. He smacked his lips.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Of course, I can’t say I’m not a little disappointed…but this should be enough of a welcome, don’t you think?”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "213",
+      "sol": "“I can’t say I’m not a little disappointed…but I suppose that was enough of a welcome. Don’t you think?”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao didn’t answer.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "215",
+      "sol": "Ma Sanbao did not answer.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "More accurately, he couldn’t.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "217",
+      "sol": "",
+      "sol_paragraphs": "after P98",
+      "sol_range": [
+        98,
+        98
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For now, he could barely process the word filling his blank mind.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "219",
+      "sol": "He couldn’t. Right then, it was all he could do to grasp the word filling his blank mind.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yes, it was a trap.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "223",
+      "sol": "Yes. This was a trap, and a meticulously prepared one.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One laid with extraordinary care.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "225",
+      "sol": "",
+      "sol_paragraphs": "after P101",
+      "sol_range": [
+        101,
+        101
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the refined-looking middle-aged man smiling on the hill was unmistakably the one who had laid a trap in the Moving Formation the Grand Mage had carved deep into a remote valley in Henan that no one ever visited.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "227",
+      "sol": "The refined-looking man smiling on the hill had to be the one who had laid it in the transportation Magic Formation the Grand Mage had inscribed deep in this deserted Henan valley.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "이동진",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Moving Formation"
+        }
+      ]
+    },
+    {
+      "baseline": "A hunter who’d set the simplest, surest—and most horrific—trap of all.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "229",
+      "sol": "A hunter who had set the simplest, surest, most horrific trap of all.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t look at me with such murderous eyes. I’m the one who should be disappointed. If I’d only figured out the exact range of the Moving Formation, I could’ve finished it in one stroke.”",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "231",
+      "sol": "“Don’t glare at me like that. I’m the disappointed one. If I’d known the Moving Formation’s exact range, I could have finished you all in one stroke.”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the middle-aged man’s feigned sigh, Ma Sanbao felt his blood boil with fury.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "233",
+      "sol": "The man even let out a theatrical sigh. Ma Sanbao felt his blood boil.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’ll regret failing to do so. I’ll tear you and every last one of your family to pieces.”",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "235",
+      "sol": "“You’ll regret that you didn’t. I’ll tear you and every last member of your household to pieces.”",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The middle-aged man hadn’t yet revealed his identity, but Ma Sanbao already knew who he was.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "237",
+      "sol": "The man had not introduced himself, but Ma Sanbao already knew who he was.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The portrait he’d seen during his time in the East Depot, and the pure-white fan in the middle-aged man’s hand, were enough to bring one man to mind.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "239",
+      "sol": "The portrait Ma Sanbao had seen during his years in the East Depot and the pure-white fan in the man’s hand left little doubt.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Ma Sanbao’s confident declaration, Zhuge Feng, the current Family Head of the Zhuge Clan, raised his eyebrows.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "243",
+      "sol": "Zhuge Feng, the current Family Head of the Zhuge Clan, widened his eyes.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "“I do. I remembered you. After today, though, I’ll forget you.”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "247",
+      "sol": "“I do. I remembered you. After today, I won’t have to.”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao answered in a dry voice and drew up the energy inside his body.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "249",
+      "sol": "Ma Sanbao drew up the qi within him.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Though he had lost more than half his subordinates to an unexpected ambush, the most important force—the corpse sorcerers—had suffered little damage.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "251",
+      "sol": "The trap had cost him more than half his subordinates, but the corpse sorcerers—his most important force—had suffered little damage.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As soon as the battle began, the number of corpses would naturally increase.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "253",
+      "sol": "Once the fighting began, there would be more corpses.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whatever Zhuge Feng had prepared, Ma Sanbao was certain that he would be the one to leave this place alive at sunrise.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "255",
+      "sol": "Whatever Zhuge Feng had prepared, Ma Sanbao was certain he would be the one to leave this valley alive at sunrise.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At least, he was—until he saw a familiar face appear behind Zhuge Feng.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "257",
+      "sol": "At least, he was until a familiar face appeared behind Zhuge Feng.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then I suppose you remember me, too. Don’t you, Eunuch Ma?”",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "259",
+      "sol": "“Then you remember me, too. Don’t you, Eunuch Ma?”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ma Sanbao felt a chill in his chest for an instant.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "261",
+      "sol": "",
+      "sol_paragraphs": "after P118",
+      "sol_range": [
+        118,
+        118
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "마삼보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ma Sanbao"
+        }
+      ]
+    },
+    {
+      "baseline": "How could he forget?",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "263",
+      "sol": "",
+      "sol_paragraphs": "after P118",
+      "sol_range": [
+        118,
+        118
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had seen that face for decades.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "265",
+      "sol": "A chill passed through Ma Sanbao’s chest.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He knew the resonant voice of the veteran general who had protected the imperial household through every peril.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "267",
+      "sol": "How could he forget a face he had seen for decades? Or the resonant voice of the veteran general who had protected the imperial household through every peril?",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But it wasn’t only Baek Yeon, the greatest master in the imperial household, who had shaken Ma Sanbao.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "269",
+      "sol": "But Baek Yeon, the imperial household’s greatest master, was not the only reason Ma Sanbao was shaken.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The presence of the man who was the imperial household’s sword and shield meant something else, too.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "271",
+      "sol": "If the man who served as the imperial household’s sword and shield was here, it meant something else.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He looked down at his former servant with the haughty gaze only someone born to noble blood could possess.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "277",
+      "sol": "He looked down at his former servant with the imperious gaze of one born to royal blood.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So, how did you like being a traitor?”",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "281",
+      "sol": "“So, was playing traitor worth it?”",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 129,
+  "sol_sha256": "59b3eaf4ad979a7393f6259677c1f99339597ef0eb45ce914e38c2b0a4656e7a",
+  "version": 1
+}
