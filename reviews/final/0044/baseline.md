@@ -22,11 +22,11 @@ The team snapped into formation. I gripped my spear and moved as ordered. Betwee
 
 Even if my life was going to go sideways, did it have to go this sideways?
 
-They say an unlucky bastard can fall over backward and still break his nose. For 300,000 won,[^1] I’d run into two mid-grade Rare Monsters. This wasn’t just a broken nose. This was a broken nose and a cracked skull.
+They say an unlucky bastard can fall over backward and still break his nose. For 300,000 won, I’d run into two mid-grade Rare Monsters. This wasn’t just a broken nose. This was a broken nose and a cracked skull.
 
 —Kuwaaaaah!
 
-The Hobgoblin Great Warrior charged with a roar. Nearly three meters[^2] of muscle and green hide—overwhelming all by itself.
+The Hobgoblin Great Warrior charged with a roar. Nearly three meters of muscle and green hide—overwhelming all by itself.
 
 *Why is that greatsword so damn huge?*
 
@@ -50,7 +50,7 @@ The Hobgoblin Great Warrior gave its greatsword a casual swing and chopped every
 
 “Aim for the vitals! Keep shooting and slow it down!”
 
-Then the Great Warrior’s eyes burned red. Once it drew up its magical power, its strength and speed were on a whole different level.
+Then the Great Warrior’s eyes burned red. Once it drew up its mana, its strength and speed were on a whole different level.
 
 “Kuwooooooh!”
 
@@ -106,7 +106,7 @@ What was this now? I carefully probed the unpleasantly squishy thing.
 
 Maybe it was the head of someone who’d passed out. I held my breath and whispered,
 
-“Kkeokjeong hyung?[^3]”
+“Kkeokjeong hyung?”
 
 No answer.
 
@@ -202,7 +202,7 @@ Crunch. Thud.
 
 Something broke, and he shot backward at a vicious speed.
 
-He flew a good ten meters,[^4] slammed into the wall, and vomited a gush of blood.
+He flew a good ten meters, slammed into the wall, and vomited a gush of blood.
 
 “Gweeehk.”
 
@@ -212,9 +212,9 @@ Was this for real?
 
 I was stunned. The rest of the team, on the other hand, looked grimly determined.
 
-“No! Kkeokjeong hyung![^3]”
+“No! Kkeokjeong hyung!”
 
-“We’ll buy time! Take hyung[^3] and get out!”
+“We’ll buy time! Take hyung and get out!”
 
 Then the greatsword sent another tank flying, tower shield and all.
 
@@ -224,7 +224,7 @@ Boom!
 
 “Jongmin!”
 
-“We’ll buy time! Take Jongmin and hyung[^3] and get out!”
+“We’ll buy time! Take Jongmin and hyung and get out!”
 
 Thud!
 
@@ -372,7 +372,7 @@ Boom!
 
 My body slid back.
 
-Maybe thirty centimeters?[^5]
+Maybe thirty centimeters?
 
 “…Huh.”
 
@@ -463,9 +463,3 @@ The F-rank Hunter who’d been hauling a backpack and skinning hides!
 Team Leader Choi’s mouth slowly fell open.
 
 “What’s going on?”
-
-[^1]: 300,000 Korean won is about $210 or €190 at the project rates.
-[^2]: Nearly three meters is nearly 9.8 ft.
-[^3]: *Hyung* is a Korean form of address a man uses for an older brother or an older man he is close to.
-[^4]: Ten meters is about 33 ft.
-[^5]: Thirty centimeters is about 12 in.
