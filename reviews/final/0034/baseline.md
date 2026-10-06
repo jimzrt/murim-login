@@ -1,6 +1,6 @@
 # Chapter 34
 
-Once, while Jin-ho hyung[^1] and I were watching TV, we had a conversation like this.
+Once, while Jinho and I were watching TV, we had a conversation like this.
 
 “That’s him, right? Han Seongjin.”
 
@@ -28,7 +28,7 @@ No matter the profession, some people made good money and others didn’t. And n
 
 “Try waiting another hundred years. It’ll be possible in your next life.”
 
-I wished I could show Jin-ho hyung[^1], who had cackled as he mocked me back then, what I looked like now.
+I wished I could show Jinho, who had cackled as he mocked me back then, what I looked like now.
 
 *I wonder what kind of face he’d make if he saw this.*
 
@@ -200,7 +200,7 @@ Jin Wikyung thought for a moment before speaking.
 
 “But I’m Second Rate.”
 
-“I’m telling you, you’re First Rate. More than that, you’re a Supreme First Rate martial artist standing at the wall of the Peak realm.”
+“I’m telling you, you’re First Rate. More than that, you’re a Super First Rate martial artist standing at the wall of the Peak realm.”
 
 “No, I really am Second Rate…”
 
@@ -254,7 +254,9 @@ Jin Wikyung took one look at my face and let out a short laugh.
 
 “Because martial arts begin with belief.”
 
-Martial arts begin with belief? It sounded like airy nonsense. Yet the moment I heard those words, my heart began to pound.
+*They begin with belief…*
+
+It sounded like airy nonsense. Yet the moment I heard those words, my heart began to pound.
 
 *They begin with belief…*
 
@@ -291,6 +293,8 @@ This time, Jin Wikyung was right. I slumped against the back of my chair, stunne
 *What a dumbass.*
 
 If I couldn’t even believe in myself, I was Second Rate. No. I *had been* Second Rate.
+
+No. I *had been* Second Rate.
 
 *Ding.*
 
@@ -350,7 +354,7 @@ As I walked, people gathered around me like clouds. Among them were plenty of NP
 
 I made eye contact with one of them. The young man looked to be in his early twenties. He flinched in surprise, then hurried over and gave me a fist-and-palm salute.
 
-“Gwak of the Samdo Sect presents his respects.”
+“Gwak of the Samdo Sect presents his respects.”[^1]
 
 “Ah, yes.”
 
@@ -382,7 +386,7 @@ A total stranger had come all this way to fight for us, and he was even making m
 
 “Pardon?”
 
-“It means I hope the Jade Emperor’s[^2] blessing will be with you.”
+“It means I hope the Jade Emperor’s blessing will be with you.”
 
 “Ahh. Thank you. God bleshyoo.”
 
@@ -414,5 +418,4 @@ Beneath the signboard hung a small wooden plaque.
 
 The people surrounding me let out pitying sighs.
 
-[^1]: *Hyung* is a Korean form of address a man uses for an older brother or an older male friend.
-[^2]: The Jade Emperor is a deity in Daoist tradition.
+[^1]: The given characters are 三道問, with 問 (“question”), not the usual 門 (“gate”/“sect”).
