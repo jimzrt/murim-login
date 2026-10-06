@@ -90,7 +90,7 @@ Meanwhile, I wasn’t even directly involved, and I had gained an unexpected gol
 
 *Listen here, I gave the Sword Saint’s grandson candied hawthorn skewers[^1], took him to the hot springs, and did it all, okay? You bastard.*
 
-So this was how candied-hawthorn[^1] stock went through the roof.
+So this was how candied-hawthorn stock went through the roof.
 
 I was smiling inwardly when Gong Ilhyuk finished stopping the bleeding and sneered.
 
@@ -246,17 +246,17 @@ Silent shock spread through the crowd. Gong Ilhyuk stammered.
 
 Li Feng gave a self-deprecating laugh.
 
-“After more than a month of facing the wall in training[^2], I came to a realization. I had no reason to remain there. That was why I left Huashan. What do you think? Isn’t it amusing?”
+“After more than a month of facing the wall in training, I came to a realization. I had no reason to remain there. That was why I left Huashan. What do you think? Isn’t it amusing?”
 
 Li Feng’s story hit hard. Everyone, myself included, stared silently at Cheongpung.
 
 Suddenly, I remembered the conversation I’d had with him at Honghwa Inn the night before.
 
-“I was ten years old. One day, dozens of people came barging in and made a scene. I remember my grandfather shouting at them to get the hell out before he set fire to the mountain.”
+*“I was ten years old. One day, dozens of people came barging in and made a scene. I remember my grandfather shouting at them to get the hell out before he set fire to the mountain.”*
 
-“Ah. So that’s why he keeps changing where he lives…?”
+*“Ah. So that’s why he keeps changing where he lives…?”*
 
-“Yes. Fortunately, the mountain is so large that he’s managed to avoid them for ten years.”
+*“Yes. Fortunately, the mountain is so large that he’s managed to avoid them for ten years.”*
 
 Until then, I hadn’t known that the people who had come to cause trouble ten years ago were the leaders of Huashan, or that the Sword Saint Mae Jonghak was Cheongpung’s grandfather.
 
@@ -332,7 +332,7 @@ From Cheongpung’s head to his toes, tangible strands of purple qi flowed from 
 
 It was Extreme Yang internal energy so potent that merely being near it scorched the breath in one’s lungs.
 
-“The Zaha Divine Technique[^3]…!”
+“The Zaha Divine Technique[^2]…!”
 
 Li Feng let out a cry of delight.
 
@@ -359,5 +359,5 @@ As the table split in two and collapsed, Li Feng clasped his fist and palm in an
 “Li Feng, lay disciple of Huashan, pays his respects to Martial Uncle Cheongpung.”
 
 [^1]: Candied hawthorn skewers are fruit skewers coated in hardened sugar.
-[^2]: Wall-facing training is a meditative practice of sitting facing a wall to cultivate concentration.
-[^3]: A Huashan internal-energy technique.
+
+[^2]: A Huashan internal-energy technique.
