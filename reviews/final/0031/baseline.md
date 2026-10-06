@@ -38,7 +38,7 @@ His voice dropped. I looked past his shoulder at the team members resting nearby
 
 “Well, well. This bastard gets a little experience under his belt and starts lining his pockets on the side. And you call yourself the vice team leader.”
 
-“Raids have been scarce lately, and I’m strapped. Really strapped. You’ve done it yourself, hyung[^1], so don’t give me that.”
+“Raids have been scarce lately, and I’m strapped. Really strapped. You’ve done it yourself, hyung, so don’t give me that.”
 
 Hunters with professional licenses were legally barred from taking second jobs. A D-rank Hunter probably wouldn’t have to live like this, but F-ranks like us had no choice. The Guild knew how things were, so they looked the other way even when they found out.
 
@@ -50,7 +50,7 @@ Hunters with professional licenses were legally barred from taking second jobs. 
 
 Judging by his expression, he was tempted.
 
-“Do you need money too, hyung[^1]?”
+“Do you need money too, hyung?”
 
 “I’ve got three kids. I need an oil well to spring up in my yard.”
 
@@ -126,6 +126,8 @@ He gave the next order at exactly the right moment.
 
 The tanks dropped their tower shields and burst forward at the same time. I was faster.
 
+I was faster.
+
 “Hah!”
 
 I swept the iron spear through a wide arc. Green blood burst into the air, and the front rank collapsed. I plunged into the gap, stabbing and slashing at everything within reach, and their formation crumbled.
@@ -194,9 +196,9 @@ His face was flushed with excitement too as he muttered, “What the hell is all
 
 Twenty Magic Gems of various sizes lay neatly arranged on the ground.
 
-Magic Gems. They looked like red pebbles, but they were known as the flower of the Gate. These concentrations of magical power found inside monsters were a form of higher-dimensional energy—and the most valuable of all monster byproducts.
+Magic Gems. They looked like red pebbles, but they were known as the flower of the Gate. These concentrations of mana found inside monsters were a form of higher-dimensional energy—and the most valuable of all monster byproducts.
 
-“At this rate, each one’s got to be worth over a million won.[^2]”
+“At this rate, each one’s got to be worth over a million won.”
 
 That came from the Team Leader, an E-rank Hunter who had survived ten years in this business. Everyone’s eyes went glassy at the intoxicating sight.
 
@@ -210,7 +212,7 @@ An F-rank Gate yielded one or two on average. Even with incredible luck, you wou
 
 I was busy doing the math.
 
-*Twenty million won[^3] from the Magic Gems alone, another five million won[^4] for the byproducts and Equipment. Add all the various allowances and…*
+*Twenty million from the Magic Gems alone, another five million for the byproducts and Equipment. Add all the various allowances and…*
 
 *Fuck. How much is all this?*
 
@@ -270,7 +272,7 @@ I grabbed someone’s pant leg and clung to it.
 
 It was him. The man who had looked after me like a brother—and like a father—for the past five years.
 
-*Hyung.[^1] Please save me.*
+*Hyung. Please save me.*
 
 He looked down at me without emotion.
 
@@ -306,9 +308,9 @@ People running for their lives.
 
 But even the Skill I poured everything into wasn’t enough to kill it. As I waited for death, he hauled me to my feet.
 
-“Taekyung!”
+*Taekyung!*
 
-“Hyung,[^1] I’m sorry. It was all my fault.”
+*Hyung, I’m sorry. It was all my fault.*
 
 If it hadn’t been for me—if I hadn’t gotten greedy—everyone could have survived.
 
@@ -316,13 +318,15 @@ They could have gone home to their families.
 
 As I sobbed like a child, he forced himself to smile.
 
-“How is that your fault? Look at this kid. Now you’re even trying to play Team Leader.”
+*How is that your fault? Look at this kid. Now you’re even trying to play Team Leader.*
 
 The massive body drifted through the cave. Stalactites rained down, and the last member of the team let out a death cry. In the darkness, its red eyes turned toward us.
 
-“That arrogant bastard. Taekyung, go on ahead.”
+In the darkness, the monster’s red eyes turned toward us.
 
-“Hyung.[^1] Cheonsu hyung!”
+*That arrogant bastard. Taekyung, go on ahead.*
+
+*Hyung. Cheonsu hyung!*
 
 My chest hurt.
 
@@ -334,7 +338,7 @@ The ringing in my ears became a monster’s roar.
 
 * * *
 
-“Hyung[^1]—!”
+“Hyung—!”
 
 I woke with a scream.
 
@@ -509,8 +513,3 @@ Ah. Right.
 Good news and even better news.
 
 I waited eagerly to hear what he would say next.
-
-[^1]: *Hyung* is a Korean term a man uses to address an older brother or an older man with whom he is close.
-[^2]: One million won is about $710 or €650.
-[^3]: Twenty million won is about $14,000 or €13,000.
-[^4]: Five million won is about $3,600 or €3,200.
