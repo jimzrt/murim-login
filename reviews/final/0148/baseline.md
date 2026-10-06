@@ -1,6 +1,6 @@
 # Chapter 148
 
-In the atmosphere warmed by the enormous sum of a hundred thousand nyang[^1], Jin Wikyung and Hong Jin exchanged greetings.
+In the atmosphere warmed by the enormous sum of a hundred thousand nyang, Jin Wikyung and Hong Jin exchanged greetings.
 
 “I am Jin Wikyung of the Jin Family of Taiyuan. It is an immense pleasure to meet the Deputy Military Commissioner I’ve heard so much about.”
 
@@ -338,7 +338,7 @@ A guy who seemed like he could somehow survive no matter where he was thrown in 
 
 “I turned twenty this year.”
 
-“We’re even the same age. Coincidence? Or fate?”
+“We’re even the same age. Coincidence? Or fate?”[^1]
 
 “What?”
 
@@ -368,4 +368,4 @@ The next moment—
 
 With a tremendous boom, violet light-flames and silver Sword Energy collided.
 
-[^1]: A nyang was a traditional Korean unit of money, distinct from the modern won.
+[^1]: The Korean says this outright: Cheongpung is twenty this year, and Jin Mukyung says they are the same age. That cannot be. Mukyung is the older brother of Jin Taekyung, who is already twenty, and earlier chapters give Mukyung’s age as twenty-three and as twenty-five. In this same chapter he has also trained with the sword for more than twenty years.
