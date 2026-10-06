@@ -16,7 +16,7 @@ Under the command of none other than the Son of Heaven.
 
 *Looks like that old man managed to stay alive after all.*
 
-I suddenly remembered the last time I’d seen the Son of Heaven.
+I remembered the last time I’d seen him.
 
 His aged face belied his youth, and his complexion had been as pale as a sheet. The ruler of a vast continent had been on the brink of death. Before long, he surely would have died.
 
@@ -26,7 +26,7 @@ If not for the worn-out old book I’d given him as a parting gift.
 
 A secret art of the Maoshan Sect—and demonic martial arts that defied all common sense.
 
-The more one practiced it, the more one became a jiangshi. It was no better than a poisoned Holy Grail, but the Son of Heaven seemed to have drunk from it willingly.
+The more one practiced it, the more one became a jiangshi. It was a poisoned Holy Grail, but the Son of Heaven seemed to have drunk from it willingly.
 
 A Holy Grail was still a Holy Grail, after all.
 
@@ -42,7 +42,7 @@ Mae Jonghak hadn’t exaggerated when he said “everyone.”
 
 The hundred thousand Imperial Guards led by the Son of Heaven were only part of the enormous force gathering.
 
-From the great Murim sects to reclusive masters hidden deep in the mountains, all the way down to Third Rate swordsmen.
+Great Murim sects, reclusive masters hidden deep in the mountains, even third-rate swordsmen.
 
 Once the blade at their throats—the Moving Formation—had been broken, they all smashed through the fence and poured out.
 
@@ -90,7 +90,7 @@ I met Mae Jonghak’s wavering gaze and added quietly,
 
 “……!”
 
-“They chose their path. They’d already accepted that they might die, and they fought with courage to match. More bravely than anyone.”
+“They chose their path. They’d already accepted that they might die, and they fought with all the resolve that took. More bravely than anyone.”
 
 Mae Jonghak had no reason to apologize.
 
@@ -154,7 +154,7 @@ Wherever you go, there’s always some lunatic who can’t read the room.
 
 “Do you not hear me? Prepare for battle at once!”
 
-Jeok Cheongang watched the Great Sir hopping up and down, then turned to me.
+Jeok Cheongang watched Great Sir hopping up and down, then turned to me.
 
 “Er, would you happen to…”
 
@@ -182,7 +182,7 @@ They said he’d darted all over the battlefield like Hong Gil-dong, saving a gr
 
 A pile of shit planted in the middle of the road, with everyone edging around it.
 
-The one saving grace was that even ordinary people now knew the Great Sir wasn’t just any lunatic.
+The one saving grace was that even ordinary people now knew Great Sir wasn’t just any lunatic.
 
 “That old man’s at it again…”
 
@@ -200,7 +200,7 @@ I was listening to these commoners, who knew a suspicious amount about martial-a
 
 Thud-thud-thud-thud!
 
-The pounding of hooves shook the earth, and an enormous cheer erupted, swallowing up the scattered murmurs in an instant.
+The pounding of hooves shook the earth, and an enormous cheer swallowed the scattered murmurs.
 
 “Waaah!”
 
@@ -234,7 +234,7 @@ Jeok Cheongang was right. The whole place had gone wild.
 
 Some slammed their heads against the wall until they bled. Others wailed as though they were about to faint.
 
-They weren’t even close enough to see his face yet, and this was how they were acting.
+The procession was only just drawing close enough to make out. They hadn’t even seen his face, and this was how they were acting.
 
 At this rate, you could call him North Korea’s three ruling Kims—or an unlucky Lord of Heaven—and no one could argue.
 
@@ -258,9 +258,9 @@ Jeok Cheongang heard me mutter and spoke in a slightly uneasy voice.
 
 “What?”
 
-Jeok Cheongang silently twitched his nose for a moment, then turned away.
+Jeok Cheongang’s nose twitched silently for a moment. Then he turned away and watched the procession draw nearer.
 
-Watching the procession rapidly draw nearer, he muttered as though to himself.
+He muttered as though to himself.
 
 To himself, mind you.
 
@@ -290,7 +290,7 @@ With a heavy rumble, the bridge lowered across the moat.
 
 At the same time, a dazzlingly white horse stepped forward.
 
-Beneath the people’s cheers, joy and tears mingled together.
+The people cheered, joy and tears mingling in their voices.
 
 “Long live the Emperor! Long live Great Ming!”
 

@@ -1,0 +1,982 @@
+{
+  "baseline_blocks": 158,
+  "baseline_sha256": "4851f9d5b12ea6747ffd98ce789c02490015f22a76853f714057a613faa53e83",
+  "global_terminology_alerts": [
+    {
+      "korean": "삼류",
+      "preferred": "Third Rate"
+    }
+  ],
+  "hunk_count": 53,
+  "hunks": [
+    {
+      "baseline": "As I listened to the unending account, I had to hold my breath again and again.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "As I listened to the account unfold, I found myself holding my breath again and again.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had been all but inevitable, but hearing the news from the current Alliance Leader himself gave it a weight unlike any other.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "I’d known it was all but inevitable. Still, hearing it from the current Alliance Leader himself gave the news a different weight.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, the sheer numbers were part of what made it so weighty.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "The sheer numbers had something to do with that, too.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I suddenly remembered the last time I’d seen the Son of Heaven.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "21",
+      "sol": "I remembered the last time I’d seen him.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "천자",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Son of Heaven"
+        }
+      ]
+    },
+    {
+      "baseline": "His aged appearance belied his youth, and his face was as pale as a sheet. The ruler of a vast continent had been on the brink of death. He surely would have died before long.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "23",
+      "sol": "His aged face belied his youth, and his complexion had been as pale as a sheet. The ruler of a vast continent had been on the brink of death. Before long, he surely would have died.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A secret art of the Maoshan Sect—and, at the same time, demonic martial arts that defied all common sense.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "29",
+      "sol": "A secret art of the Maoshan Sect—and demonic martial arts that defied all common sense.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The more one practiced it, the more one became a jiangshi. It was no better than a poisoned Holy Grail, but the Son of Heaven seemed to have drunk from it willingly.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "31",
+      "sol": "The more one practiced it, the more one became a jiangshi. It was a poisoned Holy Grail, but the Son of Heaven seemed to have drunk from it willingly.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even in an age when the Three Bonds and Five Relationships were held sacred, they meant nothing if you couldn’t breathe.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "35",
+      "sol": "Even in an age when the Three Bonds and Five Relationships were alive and well, they meant nothing if you couldn’t breathe.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not when he had only one blood relative who could take on all the burdens he carried.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "37",
+      "sol": "Especially when he had one blood relative who would have to shoulder all his burdens.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the Son of Heaven wasn’t the only one who had someone to protect.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "39",
+      "sol": "And the Son of Heaven wasn’t the only one with someone to protect.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "From the great Murim sects to reclusive masters hidden deep in the mountains, all the way down to Third Rate swordsmen.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "47",
+      "sol": "Great Murim sects, reclusive masters hidden deep in the mountains, even third-rate swordsmen.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "삼류",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Third Rate"
+        }
+      ]
+    },
+    {
+      "baseline": "Countless ships covered the rivers, while the thunder of galloping hooves shook the earth.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "51",
+      "sol": "Countless ships covered the rivers, while galloping hooves shook the earth.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some of those who had cowered in fear must have felt ashamed. Others must have blamed themselves for not being there to fight alongside us.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "59",
+      "sol": "Some who had cowered in fear must have felt ashamed. Others must have blamed themselves for not being there to fight alongside us.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the reason didn’t matter.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "63",
+      "sol": "But their reasons didn’t matter.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At my sudden words, Mae Jonghak—whose face had been stern the entire time—bit his lip.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "71",
+      "sol": "At my sudden words, Mae Jonghak, whose face had been stern the entire time, bit his lip.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I met Mae Jonghak’s wavering gaze and added quietly:",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "89",
+      "sol": "I met Mae Jonghak’s wavering gaze and added quietly,",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They chose their path. They’d already accepted that they might die, and they fought as though they meant it. More bravely than anyone.”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "95",
+      "sol": "“They chose their path. They’d already accepted that they might die, and they fought with all the resolve that took. More bravely than anyone.”",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And so had those who, like Mae Jonghak before me, had struggled behind the scenes for this great victory.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "105",
+      "sol": "So had those who, like Mae Jonghak before me, had struggled behind the scenes for this great victory.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And someone else, bound up with him.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "123",
+      "sol": "And with it, the name of someone else bound to him.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One day, thick snow fell like it was the middle of winter. The next, a storm of wind and rain swept through as if it meant to swallow the whole world.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "139",
+      "sol": "One day, thick snow fell as though it were the middle of winter. On another, wind and rain raged as if they meant to swallow the whole world.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, three days after I regained consciousness, a sight I’d never seen before came into view beyond the shimmering heat haze raised by the blazing sun.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "141",
+      "sol": "Then, three days after I regained consciousness, a sight I’d never seen before appeared beyond the heat haze rising in the blazing sun.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The war drums of Xining City, silent for ten days, began to toll with a deep resonance. But not a trace of fear showed on the faces of the people crowding the walls.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "145",
+      "sol": "The war drums of Xining City, silent for ten days, sounded their deep call. But not a trace of fear showed on the faces of the people crowding the walls.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "North, south, east, and west.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "149",
+      "sol": "East, west, south, and north.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Across the winding hills, the vast plains, and along the Yellow River—a wave of countless banners surged toward us.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "151",
+      "sol": "Across winding hills and vast plains, and along the Yellow River, a wave of countless banners surged toward us.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There’s always some lunatic who can’t read the room, wherever you go.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "159",
+      "sol": "Wherever you go, there’s always some lunatic who can’t read the room.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Are you not listening to me? Prepare for battle at once!”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "161",
+      "sol": "“Do you not hear me? Prepare for battle at once!”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang watched the Great Sir hopping up and down, then turned to me.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "163",
+      "sol": "Jeok Cheongang watched Great Sir hopping up and down, then turned to me.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So what if he’s useful in battle? Every time that man opens his mouth, I feel like I’m about to suffer qi deviation.”",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "183",
+      "sol": "“What good is he in battle if every time he opens his mouth, I feel like I’m about to suffer qi deviation?”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They said he’d been darting all over the battlefield like Hong Gil-dong, saving a whole lot of our people. But after the battle, he’d become plain old Gil-dung.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "187",
+      "sol": "They said he’d darted all over the battlefield like Hong Gil-dong, saving a great many of our people. But after the battle, he’d become plain old Gil-dung.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Like a pile of shit right in the middle of the road, he was someone everyone edged around.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "189",
+      "sol": "A pile of shit planted in the middle of the road, with everyone edging around it.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The one saving grace was that even ordinary people now knew the Great Sir wasn’t just any lunatic.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "191",
+      "sol": "The one saving grace was that even ordinary people now knew Great Sir wasn’t just any lunatic.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was listening to a conversation between commoners who knew a suspicious amount about martial-arts clichés when—",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "205",
+      "sol": "I was listening to these commoners, who knew a suspicious amount about martial-arts clichés, when—",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The pounding of hooves shook the earth, and an enormous cheer erupted, swallowing up the scattered murmurs in an instant.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "209",
+      "sol": "The pounding of hooves shook the earth, and an enormous cheer swallowed the scattered murmurs.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The flags swelled as the wind that had just blown in from far away caught them, carrying that feverish roar with it.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "213",
+      "sol": "At that moment, a wind blew in from far away. The banners caught it and billowed above the feverish crowd.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The overlords of the various provinces, the large and small Murim sects that followed them—and five words unfamiliar to some: Nanman Beast Palace.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "219",
+      "sol": "The overlords of the various provinces, the large and small Murim sects that followed them—and a name unfamiliar to some: Nanman Beast Palace.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And among all those names fluttering fiercely toward the sky, two banners rose higher and larger than the rest.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "221",
+      "sol": "Among all those names fluttering fiercely toward the sky, two banners rose higher and larger than the rest.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The martial artists of Xining were moved at the sight of the banner that represented them. The government troops and commoners, meanwhile, stared wide-eyed at the sight of a man they’d thought they would never meet in their lives.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "225",
+      "sol": "The martial artists of Xining were moved at the sight of the banner that represented them. The government troops and commoners, meanwhile, stared wide-eyed at the presence of a man they’d thought they would never meet in their lives.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The people who spotted the brilliant golden dragon embroidered on a banner, impossible to hide even behind the thick heat haze, all dropped to their knees and bowed.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "231",
+      "sol": "The brilliant golden dragon embroidered on his banner shone through even the thick heat haze. At the sight of it, people dropped to their knees and bowed low.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This is a sight. What a sight.”",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "237",
+      "sol": "“What an uproar. A real uproar.”",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if to prove Jeok Cheongang’s muttering right, the whole place was in an uproar.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "239",
+      "sol": "Jeok Cheongang was right. The whole place had gone wild.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some people slammed their heads against the wall until blood ran down. Others wailed as though they were about to faint.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "241",
+      "sol": "Some slammed their heads against the wall until they bled. Others wailed as though they were about to faint.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They weren’t even close enough to see his face yet, and this was how they were acting.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "243",
+      "sol": "The procession was only just drawing close enough to make out. They hadn’t even seen his face, and this was how they were acting.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At this rate, you could call him the three-generation ruling family of North Korea—or an unlucky Lord of Heaven—and no one could argue.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "245",
+      "sol": "At this rate, you could call him North Korea’s three ruling Kims—or an unlucky Lord of Heaven—and no one could argue.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, you’re not wrong, but you should still watch it…”",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "259",
+      "sol": "“No, you’re not wrong, but still, look around…”",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang silently twitched his nose for a moment, then turned away.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "267",
+      "sol": "Jeok Cheongang’s nose twitched silently for a moment. Then he turned away and watched the procession draw nearer.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Watching the procession rapidly draw nearer, he muttered as though to himself.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "269",
+      "sol": "He muttered as though to himself.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“God, what a nice day. It’s a beautiful day, but my one and only Disciple is so damn clueless…”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "281",
+      "sol": "“Ah, what a nice day. A beautiful day, and my one and only disciple is so damn clueless…”",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was just about to let out the snicker I’d been holding back at the sight of his nostrils flaring now too, when—",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "291",
+      "sol": "His nostrils were flaring now too, and I was just about to let out the snicker I’d been holding back when—",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Grrrummmble.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "293",
+      "sol": "Grrrrumble.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beneath the people’s cheers, joy and tears mingled together.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "299",
+      "sol": "The people cheered, joy and tears mingling in their voices.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The ruler of the continent, who could drive both fans and haters—or rather, the common people—mad just by showing up.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "307",
+      "sol": "The ruler of the continent, who could drive fans and haters—or rather, the common people—mad just by showing up.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But unlike some miserable bastard lurking beyond that desert, this ersatz Lord of Heaven was on our side. That was what mattered.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "309",
+      "sol": "But unlike some miserable bastard lurking beyond the desert, this ersatz Lord of Heaven was on our side. That was what mattered.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At last, he crossed the city gates and stepped into Xining. He smiled gently at me as I stood there with my back impudently straight.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "315",
+      "sol": "He crossed the city gates and entered Xining at last. I stood there with my back impudently straight, and he smiled gently at me.",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 158,
+  "sol_sha256": "adf05003b3a39c22ebd828f590842adacbe9d31592b0271d5fb6e9e336ee9582",
+  "version": 1
+}

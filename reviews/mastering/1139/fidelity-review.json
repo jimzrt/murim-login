@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Especially when he had one blood relative who would have to shoulder all his burdens.",
+      "defect": "The source frames this as being for the sake of his sole blood relative, who would take over the burdens the Son of Heaven carried. The current line instead says the Son of Heaven had one relative and makes that fact the reason for the preceding statement; it also omits the explicit sense of “only.”",
+      "id": "F01",
+      "rationale": "The Korean says “for the sake of his one and only blood relative” who would inherit the burdens he bore.",
+      "replacement": "If only for the sake of the one blood relative who would take over all the burdens the Son of Heaven carried.",
+      "severity": "minor",
+      "source": "Korean lines 37; English P18"
+    },
+    {
+      "confidence": 0.96,
+      "current": "a name unfamiliar to some: Nanman Beast Palace.",
+      "defect": "The source specifically calls attention to the unfamiliar five-character name. The English drops that detail, losing a source-specific observation preserved in the accepted baseline.",
+      "id": "F02",
+      "rationale": "The Korean explicitly says “the five characters” of the name are unfamiliar to some.",
+      "replacement": "the five-character name Nanman Beast Palace, unfamiliar to some.",
+      "severity": "minor",
+      "source": "Korean line 219; English P107"
+    },
+    {
+      "confidence": 0.84,
+      "current": "Every one of them had been a hero.",
+      "defect": "The source calls them both 협객 and 영웅: chivalrous figures and heroes. The translation retains only “hero,” dropping the separate chivalrous quality.",
+      "id": "F03",
+      "rationale": "The source uses two terms, 협객 and 영웅, rather than only 영웅.",
+      "replacement": "Every one of them had been a chivalrous hero.",
+      "severity": "minor",
+      "source": "Korean line 103; English P51"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with a few omissions or shifts in emphasis that remain.",
+  "version": 1
+}

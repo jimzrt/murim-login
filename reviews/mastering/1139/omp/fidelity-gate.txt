@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, with a few omissions or shifts in emphasis that remain.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 37; English P18",
+      "current": "Especially when he had one blood relative who would have to shoulder all his burdens.",
+      "defect": "The source frames this as being for the sake of his sole blood relative, who would take over the burdens the Son of Heaven carried. The current line instead says the Son of Heaven had one relative and makes that fact the reason for the preceding statement; it also omits the explicit sense of “only.”",
+      "replacement": "If only for the sake of the one blood relative who would take over all the burdens the Son of Heaven carried.",
+      "rationale": "The Korean says “for the sake of his one and only blood relative” who would inherit the burdens he bore.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 219; English P107",
+      "current": "a name unfamiliar to some: Nanman Beast Palace.",
+      "defect": "The source specifically calls attention to the unfamiliar five-character name. The English drops that detail, losing a source-specific observation preserved in the accepted baseline.",
+      "replacement": "the five-character name Nanman Beast Palace, unfamiliar to some.",
+      "rationale": "The Korean explicitly says “the five characters” of the name are unfamiliar to some.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 103; English P51",
+      "current": "Every one of them had been a hero.",
+      "defect": "The source calls them both 협객 and 영웅: chivalrous figures and heroes. The translation retains only “hero,” dropping the separate chivalrous quality.",
+      "replacement": "Every one of them had been a chivalrous hero.",
+      "rationale": "The source uses two terms, 협객 and 영웅, rather than only 영웅.",
+      "confidence": 0.84
+    }
+  ]
+}
