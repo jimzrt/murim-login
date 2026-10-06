@@ -2,11 +2,9 @@
 
 “You…”
 
-The moment the Grand Mage saw a smile spread across Jin Taekyung’s face, which had been turning deathly pale, she instinctively realized how foolish a mistake she’d made.
+The moment the Grand Mage saw the smile spread across Jin Taekyung’s face, pale as it was turning, she knew instinctively how foolish a mistake she’d made.
 
 *Shit.*
-
-It was an irreparable blunder.
 
 She couldn’t take it back. She had loosened the binding spell without thinking because he’d meant it when he said, *Go ahead. Kill me if you can.*
 
@@ -20,17 +18,17 @@ The Grand Mage bit her lip. He’d hit the mark.
 
 A hunting dog could only tear out its target’s throat when its master gave permission. She didn’t yet have that authority, and her earlier bluster about the natural order had been exposed.
 
-Of course, even so—
+Even so—
 
 *Nothing changes. Nothing at all.*
 
-The Grand Mage thought to herself, then poured her strength back into the Magic that had briefly faltered.
+She poured her strength back into the Magic that had briefly faltered.
 
 Crack!
 
 The thick, sturdy vines squeezed Jin Taekyung’s neck even tighter, as if they’d never loosened at all.
 
-Unlike him, with barely a trace of internal energy left, a tremendous force still lay coiled deep within the Grand Mage’s body.
+The difference in power between them was plain now, and nothing could bridge it. He had barely a scrap of strength left, while tremendous power still lay coiled deep within the Grand Mage’s body.
 
 And that wasn’t all.
 
@@ -54,9 +52,9 @@ There was.
 
 That lunatic was right here, before her eyes.
 
-*Splatter!*
+Splatter!
 
-In that instant, the Grand Mage’s eyes opened wide without her meaning to.
+The Grand Mage’s eyes widened.
 
 Everything was red.
 
@@ -68,13 +66,13 @@ A stunned gasp escaped her lips.
 
 There was no doubt. He’d severed his own heart meridians.
 
-Even a massive old tree, one that wouldn’t easily fall to a lumberjack’s axe, couldn’t withstand a colony of ants boring through its bark and into its core.
+Even a massive old tree that could withstand a lumberjack’s axe would fall to a colony of ants burrowing through its bark and into its core.
 
 For a Murim martial artist, severing the heart meridians meant death. Agonizing, but swift.
 
 *Why would he go this far?*
 
-Frozen for an instant, the Grand Mage stared at Jin Taekyung in utter shock.
+The Grand Mage stared at Jin Taekyung in shock.
 
 She’d told him only half the truth. It was nowhere near enough to make him certain of anything—just enough to give him a vague suspicion.
 
@@ -86,7 +84,7 @@ The strongest desire humans had was the desire to live. Even someone who made su
 
 But Jin Taekyung had done it without the slightest hesitation or fear.
 
-Even smiling brightly as he did.
+He’d even smiled.
 
 His eyes were already dimming, yet there was no wavering in them. He was certain he’d chosen the right path.
 
@@ -100,7 +98,7 @@ Jin Taekyung was that kind of person.
 
 He could curse and still know humanity and justice. He could spit and still pursue the chivalrous path. He might walk along the edge of the road, but he would never stray from the right one.
 
-A chivalrous hero who led the way before everyone—and a lunatic beyond anyone’s imagination.
+A hero who led the way for everyone, and a lunatic beyond anyone’s imagination.
 
 That was why he was the Chosen One.
 
@@ -114,7 +112,7 @@ Her master had already waited far too long. If Jin Taekyung died here today, he 
 
 *I have to save him. Whatever it takes!*
 
-As time seemed to slow, the Grand Mage reached out, more desperate and frantic than ever.
+As time seemed to slow, the Grand Mage reached out, more desperate than ever.
 
 Swoooooosh!
 
@@ -122,25 +120,25 @@ Immense power surged around her slender frame.
 
 Driven not by the will to kill, but by the will to keep him alive, the energy surrounding her heart pulsed fiercely. The energy dormant in the air answered it, then burst into light and swallowed everything around them.
 
-*Fwoom!*
+Fwoom!
 
 The swelling radiance swept over the hill.
 
 No—it spread until it covered the entire hill.
 
-Its dazzling brilliance bleached the eyes of the Bow Saint and Jeok Cheongang as they raced toward them, having realized something had happened to Jin Taekyung, who was being held hostage. It forced the eyes shut of the fiend, still writhing like an insect as he clung to life.
+It filled the eyes of the Bow Saint and Jeok Cheongang with white as they raced toward Jin Taekyung, having realized something had happened to their hostage. It made the fiend, still writhing like an insect and refusing to die, squeeze his eyes shut.
 
-Even the Grand Mage herself, who had summoned that radiance.
+Even the Grand Mage herself had to close hers.
 
 *What happened?*
 
 Her vision lost in the glare, she bit her lip.
 
-When a pile of rocks collapses, it kicks up dust. But when Taishan crumbles, it causes an earthquake.
+When a pile of rocks collapses, it kicks up dust. When Mount Tai crumbles, it causes an earthquake.
 
 A Supreme Peak master who had severed his own heart meridians had suffered an injury not even a Great Firmament Immortal could heal.
 
-She’d unleashed the greatest healing power she could, but there was nothing she could guarantee. And the radiance that had erupted more fiercely than ever showed no sign of fading.
+She’d unleashed the greatest healing power she could, but she couldn’t be certain it would save him. The radiance it had produced showed no sign of fading.
 
 No—at that moment, it seemed to flash even brighter.
 
@@ -148,9 +146,9 @@ Like a blade shining all the more beneath the sun.
 
 “…!”
 
-Just as the Grand Mage’s eyes widened when she realized something—
+The Grand Mage’s eyes flew open as she realized something.
 
-*Shwaaak!*
+Shwaaak!
 
 A chillingly low, razor-sharp whistle tore through the air. A silver-white spearhead, more than worthy of the name White Flame, ripped through space.
 
@@ -158,7 +156,7 @@ From beyond the dazzling light came someone’s quiet voice.
 
 “Got you.”
 
-*Thud!*
+Crunch!
 
 * * *
 
@@ -208,13 +206,13 @@ I’ve won again at this insane gambling table, where I put up the money I got f
 
 Translucent holographic windows appear one after another in midair.
 
-Along with them, my blurry vision cleared as if it had never been blurred. My breathing steadied, and my senses sharpened, letting me feel and take in everything within a dozen or so *jang*.
+My blurry vision clears as if it had never faltered. My breathing steadies, and my sharpened senses take in everything within a dozen or so *jang*.
 
 Light. Air. Wind. Even formless things, like the thick stench of blood.
 
 And the living beings breathing amid it all, with the same vitality as me.
 
-Now it was time to collect my winnings from the other side of the bet.
+Now it’s time to collect on my bet.
 
 *Come.*
 
@@ -222,7 +220,7 @@ I whisper the command inwardly and put my will behind it.
 
 I send it toward a cold blade with no life of its own, though it has extinguished countless lives. Toward my beloved weapon, lying alone on the ground far from my hand.
 
-*Shwaaak!*
+Shwaaak!
 
 It all happens almost at once, and I murmur,
 
@@ -230,7 +228,7 @@ It all happens almost at once, and I murmur,
 
 At that moment—
 
-*Thud!*
+Crunch!
 
 With the sound of bone and flesh bursting, the thick vines binding my entire body loosen.
 
@@ -238,7 +236,7 @@ With the sound of bone and flesh bursting, the thick vines binding my entire bod
 
 I don’t even need to draw on my internal energy. I pour into my limbs a strength beyond anything the word *superhuman* can describe, and let it loose.
 
-*Crack!*
+Crack!
 
 The vines split, then burst apart. They snap into pieces under that monstrous force, and I’m free.
 
@@ -256,15 +254,15 @@ On a battlefield where I can’t see, what could give me a better bearing than a
 
 Following the sharp cry through the lingering radiance, I take one long step.
 
-*Bang!*
+Bang!
 
 Compressed air explodes beneath my driving foot. The layers of light before me break apart, and the three *jang* between us vanish in an instant.
 
-And then…
+And then—
 
-*Shaaak!*
+Shaaak!
 
-At the end of the spear’s slashing arc, there was someone who owed me my stake.
+At the end of my spear’s slashing arc is the person who owes me for that bet. I can feel exactly where she is, even if I can’t see her.
 
 Swish. Slice!
 
@@ -278,23 +276,23 @@ No. *Fast* doesn’t begin to describe it.
 
 Any Murim martial artist who saw that movement would call it Shifting Form and Position, a technique only a Supreme Peak master could use.
 
-But no matter what anyone else in this world thought, I was the one exception.
+But no matter what everyone else in this world might think, I know better.
 
 *Blink…!*
 
-A Magic spell that made you disappear in an instant, like the literal blink of an eye—a short-range teleport.
+A teleportation spell that makes its user disappear in the blink of an eye.
 
 In a Grand Mage’s hands, it works even faster than Shifting Form and Position. It’s an incredible way to evade an attack—but that’s all it is.
 
-*Three steps from my left. Five *jang*.*
+*Three steps to my left. Five jang away.*
 
 I know Blink’s limits better than anyone under heaven.
 
-*Crack.*
+Crack.
 
 And I’m a superhuman with the strength and senses to catch up with it, despite its limited range.
 
-*Boom!*
+Boom!
 
 One step.
 
@@ -302,4 +300,4 @@ I cross that distance in an instant and smile brightly at the Grand Mage, frozen
 
 “See you again?”
 
-*Shing!*
+Shing!

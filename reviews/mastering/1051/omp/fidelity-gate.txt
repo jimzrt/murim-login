@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it drops an explicit statement about the unbridgeable power gap and makes the five-syllable clue harder to follow in English.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 41–43",
+      "current": "Unlike him, with barely a trace of internal energy left, a tremendous force still lay coiled deep within the Grand Mage’s body.",
+      "defect": "The translation omits the source’s explicit conclusion that the plainly revealed gap in power could not be bridged by anything. The following contrast in remaining energy preserves part of the idea, but not that emphatic conclusion.",
+      "replacement": "The gap in power, now laid bare, was impossible to bridge. Unlike him, with barely a trace of internal energy left, a tremendous force still lay coiled deep within the Grand Mage’s body.",
+      "rationale": "The source states both that their difference in power is unmistakable and that nothing can make up for it, before contrasting their remaining energy.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 123–129",
+      "current": "She should have understood what those five characters meant.",
+      "defect": "“Five characters” points to the Korean lettering, but the English rendering “The Chosen One” does not visibly contain five characters. The clue is the five syllables in 선택받은 자, so the current wording obscures the source’s reference for English readers.",
+      "replacement": "She should have understood what those five syllables meant.",
+      "rationale": "The Korean phrase 선택받은 자 has five syllable blocks, and the accepted baseline preserves the clue as “five syllables.”",
+      "confidence": 0.88
+    }
+  ]
+}
