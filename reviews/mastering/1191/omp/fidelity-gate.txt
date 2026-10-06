@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor fidelity issues: the translation turns an absence of visibility into disappearance and weakens a joke by recasting its odd insult.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 11; Korean line 23",
+      "current": "were gone",
+      "defect": "The source says the mountains of corpses and rivers of blood were no longer visible, not that they had physically disappeared.",
+      "replacement": "were no longer visible",
+      "rationale": "더는 보이지 않는다 describes what can be seen; it does not establish that the things themselves are gone.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Paragraph 153; Korean line 371",
+      "current": "talk like a filthy footwrap",
+      "defect": "This makes the insult compare the person speaking to a footwrap. The Korean instead derides what he says as beggar-footwrap-like nonsense.",
+      "replacement": "Leave it to the Successor Beggar to come out with beggar-rag nonsense.",
+      "rationale": "뭔 거지발싸개 같은 소리 means something like “beggar-footwrap-like nonsense”; the insult targets the utterance, not the speaker.",
+      "confidence": 0.91
+    }
+  ]
+}

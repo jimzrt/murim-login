@@ -2,7 +2,7 @@
 
 The only path connecting reality and a Gate.
 
-The sensation of passing through a magical field was more than familiar to a veteran Hunter like me. Even so, it was often unpleasant enough to make me shudder.
+As a veteran Hunter, I knew the sensation of passing through a magical field all too well. Even so, it was unpleasant enough to make me shudder every time.
 
 Like now.
 
@@ -16,9 +16,7 @@ The moment I opened my eyes in the new space, I realized something I hadn’t kn
 
 *It’s different.*
 
-Branches packed so tightly they covered the sky. Steep hills.
-
-The mountains of corpses and rivers of blood that had filled every direction were gone.
+The branches that had packed the sky were gone. So were the steep hills, the mountains of corpses, and the rivers of blood that had filled the landscape.
 
 But the scenery wasn’t the only thing that had changed.
 
@@ -32,13 +30,13 @@ No. It filled this entire space.
 
 The words came out like a groan.
 
-Jeok Cheongang, who had been shuddering at the magical field’s repulsive sensation, reacted at once when I fell silent.
+Jeok Cheongang, who had been shuddering at the magical field’s repulsive sensation, reacted when I fell silent.
 
 “What is it?”
 
 Normally, I’d have laughed it off and said it was nothing.
 
-But the intense sense of déjà vu pressing in on all five senses since the moment I opened my eyes brought back memories from less than a few weeks ago. And Jeok Cheongang already knew most of the truth about me.
+But the déjà vu pressing in on all five senses brought back memories from only a few weeks ago. Besides, Jeok Cheongang already knew most of the truth about me.
 
 “I’ve been somewhere like this before. Very recently, in fact.”
 
@@ -56,7 +54,7 @@ That was it.
 
 This place carried an energy remarkably like the Dragon Lair the Black Dragon Duke Morgoth had built atop the ruins of Moscow.
 
-An energy intense enough that you could call it the Demon Realm.
+Enough to make me think of the Demon Realm.
 
 *No. It’s even stronger.*
 
@@ -82,7 +80,7 @@ Not its master. Not the other uninvited guests besides Jeok Cheongang and me.
 
 “I suspected as much when that strange thing—whatever it was called—caught us. Seems I was right.”
 
-Jeok Cheongang narrowed his eyes at the mist drifting around us, but that didn’t make the missing people suddenly appear.
+Jeok Cheongang glared at the mist drifting around us, but that didn’t make the missing people appear.
 
 Even a superhuman who could make out an ant over three hundred yards away couldn’t peer through the space between reality and a Gate with human eyes.
 
@@ -94,7 +92,7 @@ Then a thought crossed my mind.
 
 I couldn’t be sure this idea would work. Frankly, the odds favored me wasting my strength and making things worse.
 
-But when there’s only one path ahead—and you’ve already traveled it once—then no matter how huge an obstacle stands in the way, you have to smash through it and keep going.
+But when there’s only one path ahead, and you’ve already traveled it once, you have to smash through whatever stands in the way and keep going.
 
 *Bzzzzzz.*
 
@@ -154,7 +152,7 @@ The signal flare announcing a wave of System notifications.
 > **System**
 > - Special ability **Mind’s Eye** has been activated because its activation conditions have been met!
 > - Your insight into **Mind’s Eye** has deepened.
-> - Always exercise caution. This ability can cause severe harm to the user’s mind and body, and in the worst case, can lead to death!
+> - Always exercise caution. This ability can cause severe harm to the user’s mind and body, and in the worst case, death!
 > - Status effect **Exhaustion** has been applied!
 > - Status effect **Extreme Fatigue** has been applied!
 > - Status effect **Internal Injury** has…
@@ -186,7 +184,7 @@ High risk, high reward.
 
 The attempt had been dangerous, but the payoff was worth it.
 
-He’d gained all at once the EXP it would take to defeat several Black Ghosts—and, more importantly, achieved his main goal.
+He’d gained in one stroke the EXP it would have taken several Black Ghosts to earn. More importantly, he’d achieved his goal.
 
 “What on earth…!”
 
@@ -210,11 +208,11 @@ They spilled out the darkness that had filled them, along with what they’d hid
 
 More precisely—
 
-“Arrrgh! You sons of bitches—you’re worse than beggars!”
+“Arrrgh! You sons of bitches aren’t even as good as beggars!”
 
-“Come forth! I am Hyuk Mu—best hero the great Jin Family of Taiyuan has to offer!”
+“Come forth! I am Hyuk Mu—greatest hero the mighty Jin Family of Taiyuan has to offer!”
 
-One beggar who didn’t hesitate to criticize himself, and one martial artist whose fierce loyalty to his family was matched only by his willingness to trade self-awareness for a piece of candy.
+A beggar who didn’t hesitate to insult his own kind, and a martial artist whose fierce devotion to his family had cost him every shred of self-awareness.
 
 “……”
 
@@ -248,7 +246,7 @@ Before they could seriously consider how, a second rift opened.
 
 *Whoooosh.*
 
-Beyond the darkness fading away, a man appeared in a rush. His eyes were as cold as his expression as he surveyed the area, then asked Jin Taekyung,
+A man came surging out of the fading darkness. He surveyed the area with eyes as cold as his expression, then turned to Jin Taekyung.
 
 “Dark arts?”
 
@@ -268,11 +266,9 @@ Song Ilseom hesitated, then added, “The employer’s safety comes first.”
 
 “Benefactor! Great Hero Jin! Young Master Jin!”
 
-Unlike the three before her, Ju Hwaran ran toward Jin Taekyung without the slightest hesitation.
+Unlike the three before her, Ju Hwaran moved to run toward Jin Taekyung without the slightest hesitation.
 
-More precisely, she would have—
-
-If the third and fourth rifts hadn’t opened at the same time.
+She would have, too, if the third and fourth rifts hadn’t opened at the same time.
 
 “Wow! I’ve never felt anything this gross before!”
 
@@ -290,11 +286,11 @@ Jin Taekyung knocked aside the dagger flying at him with terrifying speed and sh
 
 “So, are you satisfied now?”
 
-“I think I’m less suspicious of the reality I’m seeing, at least.”
+“At least I no longer doubt what I’m seeing is real.”
 
 The Slaughter Saint looked at Jin Taekyung with a curious glint in his eyes.
 
-“I’m more suspicious of myself now, though. How did you wake up already?”
+“I’m beginning to doubt myself, though. How did you wake up already?”
 
 “Because you’re a quack.”
 
@@ -306,7 +302,7 @@ The Slaughter Saint squeezed his eyes shut at the Master and Disciple’s mockin
 
 Unlike the others, she neither hurried nor moved stealthily. Not a drop of blood stained her clothes or skin.
 
-But Bow Saint’s eyes were different from usual.
+But the Bow Saint’s eyes were different.
 
 A tempest.
 
@@ -314,17 +310,17 @@ It lasted only a moment, but a few people saw it clearly: the traces of fierce e
 
 Just as a wave striking a reef can’t hide its white foam, that emotion had left its mark somewhere in her eyes, black as the night sky.
 
-Before anyone could form a clear suspicion about what they’d just seen, the low-voiced conversation between a beggar and a hero reached everyone’s ears.
+Before anyone could make sense of what they’d seen, a low-voiced exchange between the beggar and the hero reached everyone’s ears.
 
 “What? Is it real?”
 
 “I told you it isn’t. Leave it to the Successor Beggar to talk like a filthy footwrap.”
 
-“No, it looks real to me, no matter how I look at it.”
+“No, it looks real to me.”
 
 “I said it’s *real dark arts*.”
 
-“Ha, shit. Is that so?”
+“Ah, shit. Is it?”
 
 Hyuk Mujin delivered the final blow to the frowning Gung Gibang.
 
