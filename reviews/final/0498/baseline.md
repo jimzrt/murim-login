@@ -54,7 +54,9 @@ Beep.
 >
 > - Agh!
 
-“Agh,” my ass. As someone who had nearly crossed the Jordan River[^1] instead of Dongting Lake, I was furious.
+“……”
+
+As someone who had nearly crossed the Jordan River instead of Dongting Lake, I was furious.
 
 *A Follow-up Quest.*
 
@@ -92,11 +94,11 @@ Gung Gibang had once told me that quite a few martial artists even took opium, h
 
 When I asked why they’d do something so stupid, his answer was simple.
 
-“They know they’ll get addicted to opium if they keep it up.”
+*They know they’ll get addicted to opium if they keep it up.*
 
-“Then why do it?”
+*Then why do it?*
 
-“Because they’re martial artists.”
+*Because they’re martial artists.*
 
 A short answer, but it explained everything.
 
@@ -144,9 +146,7 @@ The Beggars’ Sect disciple shrugged. His patched clothes and the two knots han
 
 “Visitors?”
 
-*What is this place, a tourist attraction?*
-
-Since the place was being treated as highly classified, I couldn’t immediately think of anyone who might come here. At most, there were the three sects gathered here and the authorities. And if they were sending reinforcements, the guards wouldn’t call them visitors.
+Since the place was being treated as highly classified, I couldn’t immediately think of anyone who might come here. At most, there were the three sects gathered here and the authorities.
 
 “Where from? The Zhuge Clan? Wudang? Oh, did Wudang’s Sect Leader finally arrive?”
 
@@ -200,7 +200,7 @@ Ghost Sword Wipeng—Jin Wikyung’s right-hand man and the person once charged 
 
 “Greetings, Third Young Master!”
 
-The shout rang out through the stillness of the deep night. Powerful energy radiated from the bodies of the martial artists standing in lines like iron towers on either side. They were just like the two characters embroidered across every one of their chests: Jin Dragon.
+Powerful energy radiated from the bodies of the martial artists standing in lines like iron towers on either side. They were just like the two characters embroidered across every one of their chests: Jin Dragon.
 
 *Wow. When did the Jin Family of Taiyuan get this big?*
 
@@ -222,7 +222,7 @@ That seemed unlikely.
 
 I studied the man’s muscles—hard to believe they belonged to an old man—and finally dredged up the memory.
 
-“Always do Taebo?”[^2]
+“Always do Taebo?”[^1]
 
 Jang Taebo, former Guild Leader of the Ironcraft Guild, scowled.
 
@@ -236,7 +236,7 @@ The answer came from someone other than Jang Taebo.
 
 “I asked him to come.”
 
-The people who had hurried over after hearing that the Jin Family of Taiyuan had arrived murmured among themselves and parted to either side. Jin Wikyung came through the crowd, and a shout even louder than before rang out.
+The people who had hurried over after hearing that the Jin Family of Taiyuan had arrived murmured among themselves and parted to either side.
 
 “Wipeng, Commander of the Jin Dragon Squad of the great Jin Family of Taiyuan, pays his respects to his lord.”
 
@@ -244,7 +244,7 @@ The people who had hurried over after hearing that the Jin Family of Taiyuan had
 
 “That’s enough.”
 
-Under different circumstances, Jin Wikyung would have grabbed Wipeng’s hand and danced a waltz with him, but countless eyes were watching us. Wearing a solemn, dignified expression, he waved a hand and continued in his deep voice.
+Under different circumstances, I would have grabbed Wipeng’s hand and danced a waltz with him, but countless eyes were watching us.
 
 “Commander of the Jin Dragon Squad. And Old Master Jang. You’ve both had a difficult journey.”
 
@@ -252,9 +252,9 @@ Under different circumstances, Jin Wikyung would have grabbed Wipeng’s hand an
 
 “Don’t concern yourself with this old man, Lesser Family Head.”
 
-Wipeng was obviously a trusted retainer, but even Jang Taebo, who called me this brat and that bastard, was unfailingly respectful toward Jin Wikyung. I’d heard he had retired ages ago. Had he started taking work from the Jin Family of Taiyuan while I was away?
+Wipeng was obviously a trusted retainer, but even Jang Taebo, who called me this brat and that bastard, was unfailingly respectful toward Jin Wikyung.
 
-Leaving my question unanswered, Jin Wikyung spoke again.
+Ignoring my question, Jin Wikyung spoke again.
 
 “The journey must have been tiring. Let’s all move somewhere else first.”
 
@@ -264,9 +264,8 @@ I could tell I was included in that “all.” I could also tell the man running
 
 “……”
 
-*Some guard duty.*
+Some guard duty.
 
-*If you’re going to lie, wipe the sleep from your eyes first, you bastard.*
+If you’re going to lie, wipe the sleep from your eyes first, you bastard.
 
-[^1]: “Crossing the Jordan River” is used here to mean dying, in contrast to crossing Dongting Lake.
-[^2]: A Korean catchphrase urging people to “always do Tae Bo,” used here as a pun on Jang Taebo’s name.
+[^1]: A Korean catchphrase urging people to “always do Tae Bo,” used here as a pun on Jang Taebo’s name.
