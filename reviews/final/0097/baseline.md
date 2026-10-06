@@ -2,11 +2,11 @@
 
 “Oh my, welcome!”
 
-An ajumma[^1] who looked to be in her forties greeted me in a nasal singsong.
+An ajumma who looked to be in her forties greeted me in a nasal singsong.
 
 Maybe it was because the real-estate office was so close to home, but she looked vaguely familiar, like someone I’d passed once or twice on my way home.
 
-“A young man! What would you like to drink? Coffee? Yulmu tea?[^2] Cola?”
+“A young man! What would you like to drink? Coffee? Yulmu tea?[^1] Cola?”
 
 “Coffee, please.”
 
@@ -16,7 +16,7 @@ Maybe it was because the real-estate office was so close to home, but she looked
 
 “Well, look at you. A young bachelor who knows how to drink his coffee.”
 
-I let her rapid-fire chatter go in one ear and out the other as I took a seat. There was something else I needed to pay more attention to than the talkative real-estate ajumma.[^1]
+I let her rapid-fire chatter go in one ear and out the other as I took a seat. There was something else I needed to pay more attention to than the talkative real-estate ajumma.
 
 *This is…*
 
@@ -48,9 +48,9 @@ After all, she was about to tell me where their base was.
 
 * * *
 
-“So, what brings our handsome boss here?”
+—So, what brings our handsome boss here?
 
-“I’m looking for a place.”
+—I’m looking for a place.
 
 The eavesdropping magic transmitted their voices with perfect clarity. Kim Junsu, who had briefly deactivated his Familiar magic, exchanged looks with another team member and the Security Team Leader.
 
@@ -66,7 +66,7 @@ The Security Team already knew Jin Taekyung’s account balance inside and out.
 
 At the Security Team Leader’s question, a team member quickly pulled out a tablet and brought up the report.
 
-“About 3.7 billion won.[^3] Three billion won[^4] of that will go toward buying the new house.”
+“About 3.7 billion won. Three billion of that will go toward buying the new house.”
 
 “Are you sure he’s going to buy it?”
 
@@ -88,21 +88,21 @@ Whatever he was thinking, the whole thing left him feeling uneasy.
 
 The conversation continued to flow into the three men’s ears.
 
-“What kind of conditions are you looking for?”
+—What kind of conditions are you looking for?
 
-“Either monthly rent or a jeonse lease.[^5]”
+—Either monthly rent or a jeonse lease.
 
-“I do have a few, but… as you know, this neighborhood straddles a safety zone, so it’s a little expensive.”
+—I do have a few, but… as you know, this neighborhood straddles a safety zone, so it’s a little expensive.
 
-“That’s fine. I’m a Hunter.”
+—That’s fine. I’m a Hunter.
 
-“Oh my, you’re a Hunter? No wonder you’re so fit. What rank are you? Ah, am I being nosy asking something like that?”
+—Oh my, you’re a Hunter? No wonder you’re so fit. What rank are you? Ah, am I being nosy asking something like that?
 
-“Nothing special. It’s not very high. C-rank.”
+—Nothing special. It’s not very high. C-rank.
 
-“Oh my, oh my. You must make good money. Can I feel your arm? Oh-ho-ho!”
+—Oh my, oh my. You must make good money. Can I feel your arm? Oh-ho-ho!
 
-“Ha-ha. Show me some good listings and I’ll think about it. Actually, show me everything you’ve got. Jeonse,[^5] places for sale, all of it. If I find something I like, I’ll just buy it.”
+—Ha-ha. Show me some good listings and I’ll think about it. Actually, show me everything you’ve got. Jeonse, places for sale, all of it. If I find something I like, I’ll just buy it.
 
 The three men listening were dumbfounded.
 
@@ -118,7 +118,7 @@ Luxury goods that had once been too expensive even to look at suddenly seemed la
 
 “That bastard’s right in the middle of it.”
 
-“‘If I find something I like, I’ll buy it,’ my ass. Once you pay the balance on the house you already contracted for, your account will barely cover a jeonse deposit,[^5] you idiot.”
+“‘If I find something I like, I’ll buy it,’ my ass. Once you pay the balance on the house you already contracted for, your account will barely cover a jeonse deposit, you idiot.”
 
 “Still, I’m jealous. What does he eat to have hair that thick?”
 
@@ -126,23 +126,23 @@ Watching Jin Taekyung’s childish, cocky behavior was pathetic, but a quiet lau
 
 Before they knew it, the three men had relaxed. Their ears were still open, but they felt as if they were listening to a radio broadcast.
 
-“How about this place? Around five hundred million won[^6] for a jeonse lease?[^5] Considering it’s in a safety zone, it’s listed well below market price.”
+—How about this place? Around five hundred million won for a jeonse lease? Considering it’s in a safety zone, it’s listed well below market price.
 
-“Not bad. Are there any others?”
+—Not bad. Are there any others?
 
-“Of course there are. There’s another listing two buildings over from the one I just showed you… Oh, this one was taken recently. It was monthly rent, but the terms were exceptionally good.”
+—Of course there are. There’s another listing two buildings over from the one I just showed you… Oh, this one was taken recently. It was monthly rent, but the terms were exceptionally good.
 
-“Oh, really?”
+—Oh, really?
 
-“Yeah. If you’d come a few days earlier, young man, you could’ve snagged it. The place wasn’t well maintained, but the rent was cheap. Of course, if you have money, remodeling can solve that problem.”
+—Yeah. If you’d come a few days earlier, young man, you could’ve snagged it. The place wasn’t well maintained, but the rent was cheap. Of course, if you have money, remodeling can solve that problem.
 
-“That’s a shame.”
+—That’s a shame.
 
-“I’m disappointed too. Some scary-looking man came by and spoke to me in this commanding tone. Did he think he’d left a house in my care or something? I’d much rather hand it over to a young, handsome bachelor, you know. Right?”
+—I’m disappointed too. Some scary-looking man came by and spoke to me in this commanding tone. Did he think he’d left a house in my care or something? I’d much rather hand it over to a young, handsome bachelor, you know. Right?
 
-“Ugh, sounds like a total boomer.”
+—Ugh, sounds like a total boomer.
 
-“I thought he might be a gangster, so I couldn’t so much as squeak. The smell of an old bachelor was practically pouring off him. I thought I was going to die. Ho-ho-ho.”
+—I thought he might be a gangster, so I couldn’t so much as squeak. The smell of an old bachelor was practically pouring off him. I thought I was going to die. Ho-ho-ho.
 
 Grrrind.
 
@@ -156,7 +156,7 @@ A gangster-like impression and the smell of an old bachelor. Just hearing that m
 
 His expression was so frightening that there was even a rumor that when he first joined Sangdong Guild, the interviewer had been too scared to look any further and hired him on the spot.
 
-“Has that ajumma[^1] lost her mind…?”
+“Has that ajumma lost her mind…?”
 
 The Team Leader ground his teeth and whipped around. The other two men, red-faced from holding back their laughter, hurriedly lowered their heads.
 
@@ -176,7 +176,7 @@ For a single man in his mid-forties, the words *old bachelor* touched on a subje
 
 Kim Junsu and the other team member were dumbfounded.
 
-A C-rank Hunter showing off at a real-estate office and a scatterbrained ajumma.[^1] Why would anyone write up a transcript of their completely unremarkable conversation?
+A C-rank Hunter showing off at a real-estate office and a scatterbrained ajumma. Why would anyone write up a transcript of their completely unremarkable conversation?
 
 “Team Leader, it’s all being saved automatically…”
 
@@ -210,7 +210,7 @@ The apartment’s front door slammed shut. The two men left behind immediately s
 
 “Why is he taking it out on us because he has an ugly face and can’t get married?”
 
-“Is his face the only problem? That ajumma[^1] said he spoke in a commanding tone. His personality’s rotten, too.”
+“Is his face the only problem? That ajumma said he spoke in a commanding tone. His personality’s rotten, too.”
 
 “I’m so damn sick of this. I can’t keep doing this.”
 
@@ -230,25 +230,25 @@ After heaving deep sighs, the two men began cursing the Team Leader in earnest.
 
 All the while, the conversation continued through the transmitter.
 
-“It’s nice. It faces south, so it gets plenty of sunlight. What about the building next to it? Don’t tell me that one’s gone, too?”
+—It’s nice. It faces south, so it gets plenty of sunlight. What about the building next to it? Don’t tell me that one’s gone, too?
 
-“Huh? No, it’s still available. Business has been slow lately, so the places that went recently were… Wait, young man.”
+—Huh? No, it’s still available. Business has been slow lately, so the places that went recently were… Wait, young man.
 
-“Yes?”
+—Yes?
 
-“Your arm is really firm. Goodness, just look at those muscles and veins.”
+—Your arm is really firm. Goodness, just look at those muscles and veins.
 
-“…”
+—…
 
 * * *
 
 “Young man, come again! Come twice!”
 
-I left the real-estate office with the ajumma’s[^1] regretful farewell behind me.
+I left the real-estate office with the ajumma’s regretful farewell behind me.
 
 Goose bumps had risen all over the arm her hand had just brushed.
 
-*Whether it’s an ajumma[^1] or an ajusshi,[^7] people who grow old without growing up are all alike when it comes to hitting on younger people.*
+*Whether it’s an ajumma or an ajusshi, people who grow old without growing up are all alike when it comes to hitting on younger people.*
 
 I left as if fleeing her sticky gaze, but I had already accomplished what I’d gone there to do, so I had no regrets about leaving.
 
@@ -264,13 +264,13 @@ Knowing that eavesdropping magic was in place, every word and action had been de
 
 *Whether they fell for it or not was another matter.*
 
-My conversation with the real-estate ajumma[^1] had given me an important clue. I silently muttered the addresses I had memorized in advance.
+My conversation with the real-estate ajumma had given me an important clue. I silently muttered the addresses I had memorized in advance.
 
 *Building 5, Unit 901. Building 4, Unit 302. Building 3, Unit 202.*
 
 These were the three listings that had changed hands in the past five days.
 
-I had used our house as the center point and set the range at a maximum of five hundred meters[^8]—the distance Familiar magic could reach.
+I had used our house as the center point and set the range at a maximum of five hundred meters—the distance Familiar magic could reach.
 
 The watchers were definitely somewhere within that range.
 
@@ -308,7 +308,7 @@ I greeted Kim Gwondong when he called out to me.
 
 “Doing well? Ha-ha.”
 
-*If he knew what real ability looked like, he’d faint.*
+If he knew what real ability looked like, he’d faint.
 
 Kim Gwondong laughed along, unaware of my thoughts, then spoke.
 
@@ -338,7 +338,7 @@ I said goodbye to Kim Gwondong.
 
 “Maybe you will, maybe you won’t. Ha-ha.”
 
-*Well, I definitely wanted to see him.*
+Well, I definitely wanted to see him.
 
 Of course, when that happened, I wouldn’t be parting from him with a smile and a laugh like I was now. I wanted to knock him flat right then and there, but it wasn’t time yet.
 
@@ -352,14 +352,6 @@ And just as he said, the cat was waiting for me in the same spot as before.
 
 “Meow.”
 
-*Right. Hyung’s[^9] here, you punk.*
+Right. Hyung’s here, you punk.
 
-[^1]: *Ajumma* is a familiar Korean term for a middle-aged or married woman.
-[^2]: Yulmu tea is a sweet Korean grain beverage made from roasted Job’s tears.
-[^3]: 3.7 billion won is about $2.6 million or €2.4 million.
-[^4]: Three billion won is about $2.1 million or €1.9 million.
-[^5]: *Jeonse* is a Korean lease arrangement in which the tenant pays a large lump-sum deposit instead of monthly rent.
-[^6]: Five hundred million won is about $360,000 or €320,000.
-[^7]: *Ajusshi* is a familiar Korean term for a middle-aged man.
-[^8]: Five hundred meters is about 1,640 ft.
-[^9]: *Hyung* is what a man calls an older brother or an older man he is close to.
+[^1]: Yulmu tea is a sweet Korean grain beverage made from roasted Job’s tears.
