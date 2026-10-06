@@ -34,17 +34,17 @@ And another person’s sacrifice and death must never become something I took fo
 
 *Crraaaack!*
 
-Just once.
+One swing.
 
 The spearhead swept through, wreathed in Force. Flesh tore with a sickening sound, and a thick mist of blood spread through the air.
 
 If the enemy had been human, the sight would have struck them with shock and fear.
 
-But even as dozens of monsters were minced into chunks and scattered, they didn’t so much as flinch. They surged in from every direction, a relentless tide.
+But even as dozens of monsters were chopped into pieces, the rest didn’t so much as flinch. They surged in from every direction, a relentless tide.
 
 Their tightly packed front line didn’t match the savage force of their charge.
 
-*Their Intelligence isn’t high enough for this. Someone’s definitely directing them.*
+*They aren’t intelligent enough to manage that. Someone’s directing them.*
 
 Before the battle had begun in earnest, the eerie sound of bells had carried on the wind from every direction. I hadn’t imagined it.
 
@@ -102,7 +102,7 @@ I swallowed the curse rising in my throat and looked around.
 
 The battle against ten thousand monsters had begun only moments ago.
 
-For now, thanks to the efforts of several Supreme Peak masters, myself included, we hadn’t suffered any notable casualties. But that was only a matter of time.
+For now, thanks to the efforts of the Supreme Peak masters, myself included, we hadn’t suffered any notable casualties. But that was only a matter of time.
 
 *They were already exhausted. They’ll crumble soon.*
 
@@ -140,7 +140,7 @@ Of course they were afraid. They were surrounded by monsters they’d never seen
 
 And right now, I had the power to break fear’s hold on them.
 
-There was one move—our best chance to turn the situation around, even if it took a tremendous amount of strength.
+One move that would cost me an enormous amount of strength, but offered our best chance of turning this around.
 
 *One chance. Just one. I’ll find an opening and tear through their line in a single strike.*
 
@@ -160,7 +160,7 @@ I reached out, sensing everything around me.
 
 Or tried to.
 
-Right then, someone appeared, letting out a roar loud enough to shatter my intensely focused senses.
+At that moment, someone appeared with a shout loud enough to break my concentration.
 
 “Gaaaaal!”
 
@@ -186,11 +186,11 @@ But the man who’d worked the miracle of bringing humans and monsters together 
 
 “Hey! What are you waiting for? Can’t you hear Chunja’s command?”
 
-At the Great Sir’s pronouncement, having changed not only his name but his gender, Jeok Cheongang muttered like a man sighing, “We should’ve grabbed that guy and killed him first.”
+At Great Sir’s shout—having changed both his name and his gender in an instant—Jeok Cheongang muttered with a sigh, “We should’ve killed that one first.”
 
 A perfectly reasonable suggestion. I almost nodded, but that wasn’t what mattered right now.
 
-The Great Sir showing up at the vanguard meant there was a gap in the left wing, led by Sama Pyo. And that meant our entire formation might soon collapse.
+Great Sir’s appearance at the vanguard meant he’d left a gap in the left wing led by Sama Pyo. Soon, our entire formation could collapse.
 
 *That lunatic…!*
 
@@ -202,9 +202,9 @@ I held back the stream of curses rising from deep in my chest and was about to s
 
 *BOOM!*
 
-The ground shook with a tremendous rumble. The nearest monster suddenly dropped to one knee.
+The ground shook. The nearest monster suddenly dropped to one knee.
 
-“What… What is this?”
+“What…?”
 
 The sound that escaped someone’s lips gave voice to the question on all our minds, mine included.
 
@@ -272,7 +272,7 @@ As if I knew. I was just as dumbfounded.
 
 “That’s a very realistic reaction. Definitely not a dream, then.”
 
-I swiftly shifted my stance to avoid the misfortune of getting hit by Jeok Cheongang, and a voice reached my ears from far away.
+I’d changed my tune just in time to avoid getting hit by Jeok Cheongang. That was when a voice reached my ears from far away.
 
 “Those two never change. They really don’t.”
 
