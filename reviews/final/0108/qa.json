@@ -1,0 +1,56 @@
+{
+  "chapter": 108,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 2.159,
+    "source_characters": 5908,
+    "source_paragraphs": 182,
+    "translation_characters": 12753,
+    "translation_paragraphs": 188
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "비처",
+        "preferred": "secret refuge"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전서",
+        "preferred": "missive"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "파리",
+        "preferred": "Paris"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

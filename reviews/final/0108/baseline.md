@@ -20,7 +20,7 @@ There were ten of them in all, every one of them rough-faced and armed. Ahead of
 
 “Hey, don’t hit them too hard. If something breaks, their price drops. They’re already so small we probably won’t get full value for them.”
 
-“We should get a decent price if we sell them to a circus troupe. Let’s hurry inside and have some strong liquor.”
+“We should get a decent price if we sell them to a circus troupe. Let’s hurry inside and have a drink.”
 
 “Ah, my mouth’s watering just thinking about it… But what’s that?”
 
@@ -120,7 +120,7 @@ A distant memory suddenly surfaced. No, it wasn’t even that distant. It had ha
 
 “Don’t tell me… You were with the Heavenly Axe?”
 
-The prisoners—or rather, the Five-Colored Ghosts, former subordinates of Jang Sam the Heavenly Axe—nodded frantically.
+The prisoners—or rather, the Five-Colored Ghosts[^1], former subordinates of Jang Sam the Heavenly Axe—nodded frantically.
 
 “That’s us!”
 
@@ -314,7 +314,7 @@ Sensing something off in their hesitation, I grabbed the nearest human trafficke
 
 “…”
 
-What the hell, these Ten-Colored Ghosts.[^1] I thought they had quit being bandits and might have taken up farming, but they had only changed occupations?
+What the hell, these Ten-Colored Ghosts. I thought they had quit being bandits and might have taken up farming, but they had only changed occupations?
 
 “Explain yourselves.”
 
@@ -342,7 +342,7 @@ As I wondered what to do with these men, a familiar word made me pause.
 
 “Yeah. That.”
 
-“We only found out after they caught us. Some ruffians were throwing silver nyang[^2] around at a pleasure house, so we followed them… Turns out they were from the Red Wind Band, infamous for their viciousness even among mounted bandits.”
+“We only found out after they caught us. Some ruffians were throwing silver around at a pleasure house, so we followed them… Turns out they were from the Red Wind Band, infamous for their viciousness even among mounted bandits.”
 
 “The Red Wind Band? Are you sure?”
 
@@ -374,5 +374,4 @@ A hawk landed in front of the shrine with a sharp cry. A small cylinder tied to 
 
 Things were taking a strange turn.
 
-[^1]: *Sip-saek-gwi* (“Ten-Colored Ghosts”) plays on the group’s Five-Colored Ghosts nickname and sounds like a Korean insult.
-[^2]: A silver nyang is a historical silver currency unit, not modern Korean won.
+[^1]: A nickname meaning “Five-Colored Ghosts.”
