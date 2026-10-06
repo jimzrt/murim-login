@@ -70,9 +70,9 @@ Anyone watching would’ve thought a monster was chasing it. What if he got in a
 
 I clicked my tongue and headed into the apartment complex, still cradling yesterday’s drink box against my chest.
 
-*Three hundred million won*[^1].
+*Three hundred million won.*
 
-That was about as much as I’d saved over three full years as an F-rank Hunter. Of course, I didn’t have a single won[^2] of it left now.
+That was about as much as I’d saved over three full years as an F-rank Hunter. Of course, I didn’t have a single won of it left now.
 
 *I spent it all paying off debts.*
 
@@ -104,7 +104,7 @@ I’d expected Hayeon to still be asleep this early, but her voice was perfectly
 
 “I study better when I wake up early.”
 
-My little sister never failed to impress me. Jin-ho hyung[^3], who considered waking up in the morning one of the seven deadly sins, should’ve heard that.
+My little sister never failed to impress me. Jinho, who considered waking up in the morning one of the seven deadly sins, should’ve heard that.
 
 “Why’d you call?”
 
@@ -130,7 +130,7 @@ Even from a distance, she radiated the aura of a total bum. The look on her face
 
 “Do I have to announce it before coming to my own house?”
 
-“You show up so rarely. The women’s association president probably visits more often than you do.”
+“You show up so rarely. The residents’ association president probably visits more often than you do.”
 
 “That bad?”
 
@@ -208,11 +208,11 @@ I wanted to smack the back of her irritating head right then and there, but if I
 
 “You’re lucky you’re a girl. If you had balls, I would’ve—”
 
-“Mom! Oppa[^4]’s sexually harassing me!”
+“Mom! Oppa’s sexually harassing me!”
 
 “Hey, hey!”
 
-“He said b—mmph!”
+“He said my b—mmph!”
 
 I clamped a hand over Hayeon’s mouth. She thrashed, hitting and pinching me, but she was still just a nineteen-year-old girl. It didn’t hurt.
 
@@ -298,7 +298,7 @@ It was the C-rank Hunter license the Association had issued me two days ago.
 
 Despite what she said, she seemed to believe me now.
 
-A silver C-rank Hunter license. Three hundred million won[^1] in neatly stacked bundles.
+A silver C-rank Hunter license. Three hundred million won in neatly stacked bundles.
 
 Every bit of it looked completely out of place in this old, cramped living room.
 
@@ -348,7 +348,7 @@ As if she’d been waiting for the order, Hayeon swept up the bundles of cash.
 
 “I’m sorry, but our restaurant has a dress code…”
 
-The manager of the upscale restaurant—where a course meal cost several hundred thousand won[^5] per person—gave us an awkward smile.
+The manager of the upscale restaurant—where a course meal cost several hundred thousand won per person—gave us an awkward smile.
 
 “A dress code?”
 
@@ -360,7 +360,7 @@ He was right. Men and women alike wore suits and dresses. Some were even in even
 
 What was this, eighteenth-century France?
 
-For someone like me, who’d only ever gone to gukbap[^6] places, it was a massive culture shock.
+For someone like me, who’d only ever gone to gukbap[^1] places, it was a massive culture shock.
 
 “Let’s just go somewhere else.”
 
@@ -414,7 +414,7 @@ It was supposedly the biggest and most expensive department store in the area. I
 
 Meanwhile, the corners of Hayeon’s mouth curled up slyly.
 
-“Nice. My rich oppa[^4] can buy me clothes too.”
+“Nice. My rich oppa can buy me clothes too.”
 
 Sharp as ever. She caught on immediately.
 
@@ -462,7 +462,7 @@ For reasons I couldn’t explain, I was suffering from extreme shortness of brea
 
 A sense of helplessness comparable to what I’d felt facing Jopil in Murim engulfed my entire body.
 
-“Oppa[^4], how do I look?”
+“Oppa, how do I look?”
 
 “Ugly. Get lost.”
 
@@ -484,17 +484,12 @@ The manager of the restaurant with the strict dress code didn’t even recognize
 
 Mom and Hayeon whispered to each other, their cheeks flushed.
 
-We’d spent dozens of times more than the several-hundred-thousand-won[^5] course meal just so we could eat it, but not a single won[^2] felt wasted that day.
+We’d spent dozens of times more than the several-hundred-thousand-won course meal just so we could eat it, but not a single won felt wasted that day.
 
 “But I want rice. This is too rich.”
 
 “Why are the portions so small?”
 
-……I pretended not a single won[^2] felt wasted.
+……I pretended not a single won felt wasted.
 
-[^1]: About $210,000 or €190,000.
-[^2]: One won is about $0.00071 or €0.00065.
-[^3]: *Hyung* is how a younger man addresses an older brother or an older male friend.
-[^4]: *Oppa* is how a younger woman addresses an older brother or an older male friend.
-[^5]: Several hundred thousand won—roughly 300,000–900,000 won—is about $210–$640 or €190–€580.
-[^6]: *Gukbap* is a Korean dish of rice served in hot soup.
+[^1]: A cheap Korean rice-and-soup meal, typically eaten at modest diners.
