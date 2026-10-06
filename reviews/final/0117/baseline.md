@@ -44,7 +44,7 @@ Jin Mukyung adjusted his stance and replied flatly.
 
 A sneer appeared at the corner of Pung Yang’s mouth.
 
-“Of course, a young master of the mighty Jin Family of Taiyuan must have been truly desperate to flee by rolling across the ground like a lazy donkey.”
+“Of course, a young master of the mighty Jin Family of Taiyuan must have been truly desperate to flee by rolling across the ground like a lazy donkey.”[^1]
 
 Narye tagon. It was a phrase comparing someone to a lazy donkey rolling on the ground. To martial artists from prestigious orthodox factions who valued their dignity, it was practically the ultimate humiliation.
 
@@ -200,7 +200,7 @@ The proof was the distinct palm print stamped across his chest—something that 
 
 Pung Yang wiped the blood from the corner of his mouth and staggered to his feet.
 
-“Striking the Ox Across the Mountain.[^1] Even so, I never expected my Body-Protecting Qi to break so easily… Was my enlightenment lacking?”
+“Striking the Ox Across the Mountain.[^2] Even so, I never expected my Body-Protecting Qi to break so easily… Was my enlightenment lacking?”
 
 When Jin Mukyung gave him no answer, Pung Yang clicked his tongue.
 
@@ -228,13 +228,13 @@ I hadn’t checked, but everyone probably wore the same expression I did.
 
 The battle had already clearly decided its winner, and yet—what?
 
-“Forget training in some remote mountain valley. I’ll send you on a filial-piety tour of Mount Beimang. You can train there.”[^2]
+“Forget training in some remote mountain valley. I’ll send you on a filial-piety tour of Mount Beimang. You can train there.”[^3]
 
 “Mount Beimang? You think you can send me there?”
 
 “Even if it isn’t me personally, there are plenty of people behind you who can send you to Mount Beimang.”
 
-As Pung Yang laughed incredulously, I jerked my chin toward the people behind him.
+I jerked my chin toward the people behind him.
 
 The martial artists of the Mount Heng Sword Sect were already creeping closer with their weapons drawn.
 
@@ -340,7 +340,7 @@ There had been something nasty among Jopil’s possessions. What was it again?
 
 *The Blazing Flame Divine Pill.*
 
-A peerless divine elixir that granted half a jiazi of internal energy when consumed—but also a double-edged sword that could kill its user with the fire qi it contained.[^3]
+A peerless divine elixir that granted half a jiazi of internal energy when consumed—but also a double-edged sword that could kill its user with the fire qi it contained.[^4]
 
 *The Blazing Flame Divine Pill. The Blazing Flame Divine Pill…*
 
@@ -370,6 +370,10 @@ Now I was going to pop a pill and fight, too.
 
 You bastard.
 
-[^1]: A martial-arts term describing force that passes through an intervening defense to strike what lies behind it.
-[^2]: Mount Beimang is traditionally associated with burial grounds and the dead; sending someone there is a euphemism for killing them.
-[^3]: A *jiazi* is a sixty-year cycle; half a jiazi is thirty years.
+[^1]: *Narye tagon* literally compares someone to a lazy donkey rolling on the ground. For martial artists from prestigious orthodox factions, it implies humiliatingly abandoning dignity to survive.
+
+[^2]: A martial-arts term describing force that passes through one object to strike another behind it.
+
+[^3]: Mount Beimang is traditionally associated with burial grounds and the dead; sending someone there is a euphemism for killing them.
+
+[^4]: A *jiazi* is a sixty-year cycle; half a jiazi is thirty years.
