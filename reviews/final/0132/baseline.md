@@ -6,7 +6,7 @@ The unexpected comment caused my brain to freeze for a moment.
 
 *What the hell is he talking about?*
 
-It wasn’t one of those *Do you know the Way?*[^2] pitches. He was asking if he could have just one candied hawthorn skewer.
+It wasn’t one of those *Do you know the Way?* pitches. He was asking if he could have just one candied hawthorn skewer.
 
 I hadn’t planned for a Peak master I’d just met to beg for candied hawthorn in the most polite tone in the world.
 
@@ -186,7 +186,7 @@ Dish after dish continued filling the table. Just as there was barely any room l
 
 I’d heard of Megumi from the island country next door, but Maegu was a new one to me. Catching my look, the waiter answered as if explaining it was a chore.
 
-“Maechae Guyuk.”[^3]
+“Maechae Guyuk.”[^2]
 
 “…”
 
@@ -198,7 +198,7 @@ While I stared at him in disbelief, Cheongpung rapidly emptied the plates.
 
 “Slow down. Eat slowly.”
 
-“Ah hih he ho. Ha hu i heup hi ha.”
+“Mmph, mmph. Ah hih he ho. Ha hu i heup hi ha.”
 
 “Don’t answer. Just keep eating.”
 
@@ -398,6 +398,4 @@ On the second floor, five men and women dressed in silk were looking down at us,
 
 [^1]: Candied hawthorn skewers are a traditional Chinese snack made by coating skewered fruit in hardened sugar.
 
-[^2]: “Do you know the Way?” evokes an opening used by street proselytizers in South Korea.
-
-[^3]: *Maechae Guyuk* is pork belly with preserved mustard greens. The waiter shortens its Korean name to *Maegu*, which sounds like the beginning of the Japanese name Megumi.
+[^2]: *Maechae Guyuk* is pork belly with preserved mustard greens. The waiter shortens its Korean name to *Maegu*, which sounds like the beginning of the Japanese name Megumi.
