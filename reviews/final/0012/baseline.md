@@ -94,7 +94,7 @@ It was the Item I had received as a Reward for completing the **Unity of Self an
 >
 > **Description:** An extremely hard ring made from an unidentified material. It calms the wearer’s mind and aids concentration.
 
-The Clear-Heart Pill.[^1] It looked different from the one I knew, but its effects were similar. Ever since I put it on, it had taken me less time to settle into circulating qi, and the Mastery I gained had increased.
+The Clear-Heart Pill. It looked different from the one I knew, but its effects were similar. Ever since I put it on, it had taken me less time to settle into circulating qi, and the Mastery I gained had increased.
 
 *It’s good, but…*
 
@@ -104,7 +104,7 @@ I couldn’t shake the uneasy feeling. I could chalk Logout up to some technical
 
 They might help me survive, but that didn’t make it a pleasant experience. This game was a piece of shit in more ways than one.
 
-“What the hell is Seong Jinho doing? Some goshiwon[^2] manager he is.”
+“What the hell is Seong Jinho doing? Some goshiwon manager[^1] he is.”
 
 If he’d gotten up, he should have woken me so we could at least have a bowl of hangover soup. And yet, the fact that nothing had changed even now meant…
 
@@ -278,7 +278,7 @@ Hyuk Mujin was Level 20 and a martial artist who had trained in martial arts for
 
 I stood with the spear in my hand and closed my eyes, picturing a new Hyuk Mujin.
 
-One hundred eighty centimeters[^3] tall. Lean muscles and insolent eyes. I gave him the movements I had seen back then.
+One hundred eighty centimeters tall. Lean muscles and insolent eyes. I gave him the movements I had seen back then.
 
 When I opened my eyes, an illusion stood before me exactly as I had imagined.
 
@@ -370,6 +370,4 @@ Yeah. Fair point.
 
 If I could find this fun in a situation like mine, I had to be pretty damn crazy too.
 
-[^1]: A cheongsimhwan is a traditional Korean herbal pill used to calm the nerves.
-[^2]: A goshiwon is an inexpensive boarding house made up of tiny private rooms, often rented by students preparing for exams.
-[^3]: One hundred eighty centimeters is about 5 ft 11 in.
+[^1]: A goshiwon is an inexpensive boarding house made up of tiny private rooms, often rented by students preparing for exams.
