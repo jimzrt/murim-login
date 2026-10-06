@@ -130,7 +130,7 @@ A rag doll in one hand. Snacks in the other.
 
 A little girl with her hair tied in a cute ribbon stared at me with round eyes and shouted,
 
-“It’s the mind-reading mister!”[^1]
+“It’s the mind-reading mister!”
 
 “…”
 
@@ -194,7 +194,7 @@ Gong Yacheong’s voice pulled me back.
 
 If Gong Yacheong, who never left his hospital room, knew about it, then everyone in the Jin Family of Taiyuan with eyes and ears must know.
 
-If there was even one spy among us, we might as well have installed a loudspeaker aimed at North Korea.[^2]
+If there was even one spy among us, we might as well have installed a loudspeaker aimed at North Korea.
 
 *Is this war really going to be all right like this?*
 
@@ -210,7 +210,7 @@ Ding.
 >
 > — Fame increases by 1.
 
-As the saying went, words without feet could travel a thousand li.[^3] Ever since I’d taken Jopil down, my name seemed to have started spreading in earnest.
+As the saying went, words without feet could travel a thousand li. Ever since I’d taken Jopil down, my name seemed to have started spreading in earnest.
 
 I opened the Quest Window for a quick look. I had only about fifty Fame left to go.
 
@@ -413,9 +413,3 @@ It was an ambition he had harbored for half his life. The Head Elder was prepare
 On the day the two great sects that divided Shanxi between them clashed…
 
 Everything would end, and everything would begin anew.
-
-[^1]: *Gwansimbeop*, the “mind-reading” Soyul refers to, is associated in Korean popular culture with Gung Ye, a ruler portrayed in the television drama *Taejo Wang Geon*.
-
-[^2]: South Korea has used loudspeakers along its border to broadcast messages into North Korea. Taekyung is joking that news of the battle is spreading just as openly.
-
-[^3]: A thousand Korean *ri* is about 393 km (244 mi). The distance is figurative here.
