@@ -254,7 +254,7 @@ With my crushed, broken hand, I gripped a clod of dark red earth mixed with bloo
 
 I had to. There was no other choice.
 
-For the people even now collapsing, their blood scattering around them.
+Not while people were still falling all around me, spilling their blood.
 
 They were the paltry heaven the Blood Lord had mocked.
 
@@ -294,19 +294,19 @@ But he wasn’t the only one who could predict his opponent.
 
 *Slip. Tap.*
 
-Ignoring the pain erased by my final rally, I kicked the dagger’s hilt with my toe as it fell from my grasp.
+With Final Rally keeping the pain at bay, I struck the hilt of the dagger falling from my hand with the tip of my foot.
 
 *Thud.*
 
 “……!”
 
-With a cool, tearing sound, the dagger sank deep into flesh.
+The dagger sank deep into flesh.
 
 The Blood Lord’s eyes flew wide. He looked down at the blade buried in his shin and licked his lips.
 
 “Impressive. Truly impressive. But that is why…”
 
-Without a moment’s hesitation, he whipped his remaining leg like a lash.
+Without a moment’s hesitation, he whipped his other leg around.
 
 “I can never let you live.”
 
@@ -322,7 +322,7 @@ Bones shifted, and my vision darkened.
 
 As I gasped for breath, his low voice reached my ears.
 
-“We’ve been bound by a long, ill-fated connection, Blazing Flame Divine Dragon Jin Taekyung.”
+“It has been a long enmity, Blazing Flame Divine Dragon Jin Taekyung.”
 
 At that moment—
 

@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is faithful overall. One physical action is more explicit than the Korean supports.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 181–183",
+      "current": "Then it tore free of Jin Taekyung’s grasp, leaving his hand covered in blood.",
+      "defect": "The Korean says the spear tore through the cloth and bloodied its owner’s grasp; it does not state here that the spear tore free of his grasp.",
+      "replacement": "Then it tore through the cloth its owner had tied tightly around it so he would not lose his beloved weapon, leaving his grasp covered in blood.",
+      "rationale": "The source describes the owner’s hand becoming bloodied, not the spear leaving his grasp. The current wording adds a distinct physical action.",
+      "confidence": 0.91
+    }
+  ]
+}
