@@ -68,7 +68,7 @@ Horses snorting. And not just one or two.
 
 The two men raised clenched fists. At once, dozens of sword blades smeared black with ash emerged from their sheaths.
 
-Beyond the dense fog, which limited their vision to less than a zhang,[^1] it felt as though hundreds of mounted bandits armed with bows and lances might come charging out at any moment.
+Beyond the dense fog, which limited their vision to less than a zhang, it felt as though hundreds of mounted bandits armed with bows and lances might come charging out at any moment.
 
 Gulp.
 
@@ -122,7 +122,7 @@ The Jin Family Branch Leader, the strongest martial artist among them, continued
 
 “Not at all. He didn’t use any distinctive martial art. This was… nothing but overwhelming power crushing everything in its path.”
 
-One person had slaughtered four hundred mounted bandits as easily as crushing ants.
+One person had slaughtered more than four hundred mounted bandits as easily as crushing ants.
 
 The bodies strewn in every direction showed that they had tried to flee. Their horribly contorted faces showed the terror they had felt.
 
@@ -318,7 +318,7 @@ The old man scowled.
 
 The old man clicked his tongue.
 
-“Why are there so many clan villages around here? Half a shichen[^2] ago, I passed one called Hong Family Village or something.”
+“Why are there so many clan villages around here? Half a shichen ago, I passed one called Hong Family Village or something.”
 
 “Hong Family Village?”
 
@@ -328,13 +328,13 @@ The old man clicked his tongue.
 
 Jang-pal tilted his head.
 
-“Hong Family Village should be at least three hundred li[^3] from here. Are you perhaps confusing it with somewhere else?”
+“Hong Family Village should be at least three hundred li from here. Are you perhaps confusing it with somewhere else?”
 
-“Do I look like an idiot who can’t remember what happened half a shichen[^2] ago?”
+“Do I look like an idiot who can’t remember what happened half a shichen ago?”
 
-Three hundred li[^3] was far enough that even Jang-pal, who had sturdy legs, would need two full days to cover it.
+Three hundred li was far enough that even Jang-pal, who had sturdy legs, would need two full days to cover it.
 
-But three hundred li[^3] in half a shichen[^2]?
+But three hundred li in half a shichen?
 
 Jang-pal, a simple country bumpkin, clicked his tongue inwardly in pity.
 
@@ -407,7 +407,3 @@ He was so light that Jang-pal could lift him with one hand.
 Jang-pal suddenly became much less talkative.
 
 Ahead of him, Jang Family Village began to come into view.
-
-[^1]: A zhang is a traditional Chinese length unit of approximately 3.33 meters (10.9 ft).
-[^2]: A shichen is a traditional time unit of approximately two hours; half a shichen is about one hour.
-[^3]: In this Chinese setting, one li is approximately 500 meters (0.311 mi). Three hundred li is about 150 kilometers (93 mi).
