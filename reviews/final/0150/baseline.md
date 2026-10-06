@@ -84,7 +84,7 @@ The Jin Family’s Cultivation Technique had already reached the eighth stage. F
 
 *Hot.*
 
-The Scorching Yang Qi I had gained from taking the Blazing Flame Divine Pill amounted to a full half-jiazi.[^1]
+The Scorching Yang Qi I had gained from taking the Blazing Flame Divine Pill amounted to a full half-jiazi.
 
 That tremendous energy, boiling like lava, swept through the blood vessels throughout my body. Its unstoppable momentum filled me with anticipation.
 
@@ -92,19 +92,19 @@ That tremendous energy, boiling like lava, swept through the blood vessels throu
 
 Whenever I circulated my qi, there was one place where I always got stuck.
 
-Two acupoints, sealed tight as iron gates, refused to let my internal energy pass. I had only recently learned that they were called the Conception and Governor Vessels.[^2]
+Two acupoints, sealed tight as iron gates, refused to let my internal energy pass. I had only recently learned that they were called the Conception and Governor Vessels.
 
-*The Conception and Governor Vessels.[^2] I’ve seen those plenty of times in novels.*
+*The Conception and Governor Vessels. I’ve seen those plenty of times in novels.*
 
 Wasn’t this a stage every protagonist in a martial arts novel passed through at least once?
 
-In martial arts novels, opening the Conception and Governor Vessels[^2] was standard, and Bone Transformation[^3] was an optional extra. Of course, I wasn’t a protagonist or even a supporting character, so I had been forced to retreat every time.
+In martial arts novels, opening the Conception and Governor Vessels was standard, and Bone Transformation was an optional extra. Of course, I wasn’t a protagonist or even a supporting character, so I had been forced to retreat every time.
 
 *That was then. Until now.*
 
 Fifteen years of internal energy hadn’t been enough. It was like ramming a compact car whose airbags didn’t even work straight into a boulder.
 
-But things were different now. Add half a jiazi[^1] of Scorching Yang Qi, and that compact car turned into a military tank.
+But things were different now. Add half a jiazi of Scorching Yang Qi, and that compact car turned into a military tank.
 
 *This is worth a shot.*
 
@@ -112,7 +112,7 @@ No. I had to succeed.
 
 It was a mountain I absolutely had to overcome if I wanted to advance to a higher realm.
 
-I drew up my internal energy as its momentum reached its peak, split it into two streams, and launched them toward the Conception and Governor Vessels.[^2]
+I drew up my internal energy as its momentum reached its peak, split it into two streams, and launched them toward the Conception and Governor Vessels.
 
 Boom!
 
@@ -132,7 +132,7 @@ But this was a completely different kind of pain.
 
 A part of a man as important as his life throbbed painfully. It felt as if someone were repeatedly squeezing it with all their strength, then letting go.
 
-Opening the Conception and Governor Vessels[^2] felt like it would earn me an incredible reward. Like enduring this would make me a Peak master…
+Opening the Conception and Governor Vessels felt like it would earn me an incredible reward. Like enduring this would make me a Peak master…
 
 But the more I battered the acupoints with my internal energy, the yellower my vision became.
 
@@ -160,7 +160,7 @@ I stayed facedown for a long while as though praying, and the pain gradually sub
 
 “Huff, huff.”
 
-I’d almost ended up like Hong Jin.[^4]
+I’d almost ended up like Hong Jin.
 
 I had just sprawled out on the bed, drenched in sweat, when hurried footsteps approached and uninvited guests burst in.
 
@@ -282,7 +282,7 @@ By the time I finished my explanation, packed to the brim with facts, Hyuk Mujin
 
 Hyuk Mujin winced and shook his head.
 
-“But why did you suddenly try to open the Conception and Governor Vessels?[^2] You’re not a Peak internal-energy master, and you don’t have the guts to risk something like that.”
+“But why did you suddenly try to open the Conception and Governor Vessels? You’re not a Peak internal-energy master, and you don’t have the guts to risk something like that.”
 
 “…I just tried it once.”
 
@@ -312,7 +312,7 @@ Sword Saint Mae Jonghak was one of the greatest masters under heaven. When it ca
 
 “What did he say?”
 
-“He said that if I mishandled the Conception Vessel,[^2] I might not be able to perform as a man, and that the same was true of the Governor Vessel.[^2] What else did he say? Oh, right!”
+“He said that if I mishandled the Conception Vessel, I might not be able to perform as a man, and that the same was true of the Governor Vessel. What else did he say? Oh, right!”
 
 Cheongpung, who had been thinking hard, smacked his forehead.
 
@@ -326,7 +326,7 @@ Cheongpung, who had been thinking hard, smacked his forehead.
 
 Hyuk Mujin and I exchanged glances almost simultaneously.
 
-“Do the Conception and Governor Vessels[^2] normally open with time?”
+“Do the Conception and Governor Vessels normally open with time?”
 
 “I don’t know. That’s the first I’ve heard of it, too.”
 
@@ -338,7 +338,7 @@ Hyuk Mujin and I exchanged glances almost simultaneously.
 
 “How would I know? My father is almost sixty. Should I ask him?”
 
-“Oh, ask him whether his Conception and Governor Vessels[^2] have opened?”
+“Oh, ask him whether his Conception and Governor Vessels have opened?”
 
 “Yes.”
 
@@ -366,13 +366,13 @@ That was true. Cheongpung wasn’t sly enough to lie.
 
 Whether it was his nature or the environment in which he’d grown up, he was so honest and guileless that, to put it unkindly, he seemed stupid.
 
-Cheongpung added with an aggrieved expression, “And my grandfather isn’t a liar either. I waited, too, and mine opened. Not both of them—only the Governor Vessel.[^2]”
+Cheongpung added with an aggrieved expression, “And my grandfather isn’t a liar either. I waited, too, and mine opened. Not both of them—only the Governor Vessel.”
 
 “I’m not saying the Sword Saint lied… Wait. What did you just say?”
 
-“Young Hero Cheongpung, what was that? You opened the Conception and Governor Vessels?[^2]”
+“Young Hero Cheongpung, what was that? You opened the Conception and Governor Vessels?”
 
-“Oh, only the Governor Vessel[^2] for now. Maybe it’s because I’m still young.”
+“Oh, only the Governor Vessel for now. Maybe it’s because I’m still young.”
 
 I stammered, “H-How did you open it?”
 
@@ -390,7 +390,7 @@ I stammered, “H-How did you open it?”
 
 This was hopeless. We were far too different.
 
-The Sword Saint had been right that the Conception and Governor Vessels[^2] would open naturally with time.
+The Sword Saint had been right that the Conception and Governor Vessels would open naturally with time.
 
 The problem was that it only applied to Cheongpung.
 
@@ -444,15 +444,7 @@ Competitive pride that made me unwilling to accept help from this guy, of all pe
 
 Not because I disliked him, but because he was an opponent I wanted to defeat solely through my own strength.
 
-“…Aren’t you agreeing a little too easily?”
-
-“I owe you a lot, Benefactor. I’ll teach you plenty of good things. Oh, except for the martial arts my grandfather warned me not to teach!”
-
-*Teach me?*
-
-A corner of my petty heart grew uncomfortable. And that made it clear.
-
-I wanted to defeat this guy. I wanted to stand on equal footing with him.
+I wanted to stand on equal footing with him.
 
 But to do that…
 
@@ -461,8 +453,3 @@ But to do that…
 I had to learn. What else could I do?
 
 Turns out I had a thicker hide than I thought.
-
-[^1]: A *jiazi* is a traditional sixty-year cycle. Half a jiazi is thirty years.
-[^2]: In traditional East Asian medicine, the Conception and Governor Vessels are paired pathways running along the front and back of the torso.
-[^3]: Bone Transformation is a martial-arts-fiction transformation that refines and renews the body.
-[^4]: Hong Jin is a delicate-looking, high-voiced man Taekyung met earlier.
