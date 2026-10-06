@@ -1,6 +1,6 @@
 # Chapter 85
 
-“Changsoo hyung[^1], are you okay?”
+“Changsoo hyung, are you okay?”
 
 “Are you hurt?”
 
@@ -20,7 +20,7 @@ He had received their loyalty in exchange…but being abandoned at the most impo
 
 *Fuck, what kind of bullshit is this?*
 
-Several billion won[^2]? It was certainly a lot of money, but not more than Im Changsoo could afford. Selling one or two of the buildings in his name would be enough to cover it.
+Several billion won? It was certainly a lot of money, but not more than Im Changsoo could afford. Selling one or two of the buildings in his name would be enough to cover it.
 
 But he could never tolerate having his pride trampled.
 
@@ -116,9 +116,9 @@ Getting hit on the forehead must have broken his brain.
 
 As Im Changsoo let out a deep sigh, his team members approached him hesitantly.
 
-“Changsoo hyung[^1]…”
+“Changsoo hyung…”
 
-“Oppa[^3], are you okay? Oh no, you’ve got a bump on your forehead.”
+“Oppa, are you okay? Oh no, you’ve got a bump on your forehead.”
 
 “I’m in a bad mood, so get lost. The moment you leave, you’re all fired. Got it?”
 
@@ -138,11 +138,11 @@ They had been able to live so comfortably thanks to Im Changsoo’s support. The
 
 Their expressions changed completely at the threat that he would not only drive them out but ruin their futures as well.
 
-“Changsoo hyung[^1], that’s going too far.”
+“Changsoo hyung, that’s going too far.”
 
-“Hyung[^1]? I’m only your hyung[^1] when it suits you?”
+“Hyung? I’m only your hyung when it suits you?”
 
-“Oppa[^3], do you really have to take it that far?”
+“Oppa, do you really have to take it that far?”
 
 “That’s why you bastards should’ve picked the right person to hitch your wagon to.”
 
@@ -158,9 +158,9 @@ Im Changsoo spat on the floor and turned away.
 
 That was when someone grabbed him.
 
-“Changsoo hyung[^1]. No, Team Leader Im, you can’t do this.”
+“Changsoo hyung. No, Team Leader Im, you can’t do this.”
 
-“Please think it over one more time, oppa[^3]. Okay?”
+“Please think it over one more time, oppa. Okay?”
 
 “Let go. I don’t want to say it twice.”
 
@@ -202,7 +202,7 @@ The only person who bothered Im Changsoo a little was Choi Minwoo. That guy…
 
 “Just trust us.”
 
-“Oppa[^3], why don’t you trust people at all? Are we really only this close?”
+“Oppa, why don’t you trust people at all? Are we really only this close?”
 
 Im Changsoo had a raid team made up of four B-rank Hunters and five C-rank Hunters who would obey his commands. He had trained every one of them to eat only from his hand.
 
@@ -214,7 +214,7 @@ After a short and simple explanation, the team members couldn’t hide their ner
 
 “It does seem possible.”
 
-“Oppa[^3], you’re not suggesting what I think you are, right? If you mean killing someone, I don’t know if I can do that.”
+“Oppa, you’re not suggesting what I think you are, right? If you mean killing someone, I don’t know if I can do that.”
 
 “Didn’t you just say you’d do anything I told you?”
 
@@ -222,13 +222,13 @@ After a short and simple explanation, the team members couldn’t hide their ner
 
 “Forget it. I’d like to, but I’m not reckless enough to go that far. First, we take the camera. Then we put that son of a bitch through a humiliation he’ll never live down.”
 
-“Whew. That’s a relief. Then I’m definitely on your side, oppa[^3].”
+“Whew. That’s a relief. Then I’m definitely on your side, oppa.”
 
 “Do it right. You know what happens if anyone hesitates this time or holds back even a little, right?”
 
 “Of course.”
 
-“Just trust us, Team Leader. No, hyungnim[^4]. Hehe.”
+“Just trust us, Team Leader. No, hyungnim. Hehe.”
 
 A sinister smile spread across Im Changsoo’s lips.
 
@@ -318,7 +318,7 @@ His eyes demanded some kind of explanation for how I had finished off a B-rank b
 
 It really was because I had been lucky.
 
-Lucky that I had lived in a goshiwon.[^5] Lucky that a capsule had been discarded in front of it.
+Lucky that I had lived in a goshiwon.[^1] Lucky that a capsule had been discarded in front of it.
 
 All of it.
 
@@ -396,8 +396,4 @@ Song Song smiled back at me.
 
 *I got rejected, right?*
 
-[^1]: *Hyung* is a term a man uses for an older brother or an older man with whom he is close.
-[^2]: Several billion won is approximately $1.4–6.4 million or €1.3–5.8 million.
-[^3]: *Oppa* is a term a woman uses for an older brother or an older man with whom she is close.
-[^4]: *Hyungnim* is a more respectful form of *hyung*.
-[^5]: A *goshiwon* is a building of very small, inexpensive rooms, often used by students and people on tight budgets.
+[^1]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement, often used by students and people on tight budgets.
