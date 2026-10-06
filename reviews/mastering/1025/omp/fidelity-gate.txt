@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled translation is faithful overall, with one minor title-and-tense distinction to correct.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 281–283",
+      "current": "“T-the two Perfected Ones who served as Elders are here, too.”",
+      "defect": "“Served as Elders” makes their role sound former, but the Korean identifies them as Elders now.",
+      "replacement": "“T-the two Perfected Ones, the Elders, are here, too.”",
+      "rationale": "장로이신 두 진인 identifies the two Perfected Ones as Elders; it does not say they formerly served in that role.",
+      "confidence": 0.96
+    }
+  ]
+}

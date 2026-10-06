@@ -1,10 +1,10 @@
 # Chapter 1025
 
-There were only a dozen or so of them, yet three things made them stand out even among tens of thousands of enemies.
+There were only a dozen or so of them, yet three things made them stand out among tens of thousands of enemies.
 
 First, the white banner held high enough to pierce the sky.
 
-Second, a massive black horse charging fiercely, its jet-black mane flying in stark contrast to that banner.
+Second, the massive black horse charging beneath it, its jet-black mane flying in stark contrast to the banner.
 
 And third, the three old men at the front of the group.
 
@@ -20,11 +20,11 @@ Backed by profound internal energy, the voice carried across the mountain range.
 
 The old man who’d shouted had blood-soaked clothes, though I couldn’t tell why. Jeok Cheongang looked at me and blinked.
 
-“Goodness, how strange. I think this old man just heard a bizarre hallucination.”
+“Well, that’s strange. This old man seems to have heard something peculiar.”
 
-“I doubt it.”
+“I don’t think you misheard.”
 
-“What? Then that madman really did tell us to prostrate ourselves? And to no one else but this old man?”
+“What? Then that madman really did tell us to prostrate ourselves? Even me?”
 
 “He didn’t single you out quite like that, but you do belong to the Murim Alliance at the moment.”
 
@@ -40,7 +40,7 @@ Jeok Cheongang thought for a moment, then went on.
 
 “…”
 
-If you’re a Disciple, you’re a Disciple. What was this “more or less like one” business?
+If I was his Disciple, I was his Disciple. What was this “more or less like one” business?
 
 He was still stubbornly keeping up the act. I clicked my tongue and answered with action rather than words.
 
@@ -48,7 +48,7 @@ Whoosh. Clack.
 
 “H-Huh?”
 
-Leaving the martial artist who’d suddenly been left empty-handed staring in confusion, I drew back the spear I’d borrowed from him as far as I could.
+Leaving the suddenly empty-handed martial artist staring in confusion, I drew back the spear I’d taken from him as far as I could.
 
 “Borrowed” wouldn’t be the right word.
 
@@ -56,7 +56,7 @@ I wouldn’t be able to give it back.
 
 My waist bent like a bow. My muscles contracted, my joints relaxed, and the movements flowed together as one.
 
-At the far end of the direction the spearhead pointed, the group carrying the white banner continued shouting.
+Far beyond the spearhead, the group with the white banner continued shouting.
 
 “If you throw down your weapons and surrender at once—!”
 
@@ -70,7 +70,7 @@ Boom!
 
 Bright red blood burst into the air.
 
-The black horse, its body blown apart before it could even whinny, crumpled like a rotten tree trunk. The old man who’d been loudly spouting the most ridiculous nonsense dropped lightly to the ground.
+The black horse’s body blew apart before it could make a sound, then crumpled like a rotten tree. The old man who’d been loudly spouting nonsense sprang nimbly to the ground.
 
 *A Supreme Peak master.*
 
@@ -82,7 +82,7 @@ And he wasn’t the only one in the group with that level of skill.
 
 “That’s quite a rough welcome, child.”
 
-“Launching a preemptive attack on someone carrying a white banner? Has the code of the martial world you’ve been going on about fallen to the ground?”
+“Attacking someone carrying a white banner? Has the code of the martial world you’ve been going on about fallen by the wayside?”
 
 The voices were low but clear.
 
@@ -116,7 +116,7 @@ Second, whatever that brat had been eating, he’d clearly had plenty of it. The
 
 I had no intention of explaining to those senile old men how much EXP I’d eaten by now.
 
-I was simply curious why, after using their overwhelming forces to crush even Dunhuang, they were urging us to surrender.
+I just wanted to know why they were urging us to surrender after bringing enough force to crush even Dunhuang.
 
 First, though, I needed to know who these mutts were.
 
@@ -124,7 +124,7 @@ First, though, I needed to know who these mutts were.
 
 The old man in the middle, his face covered in pockmarks, answered readily.
 
-“You’ve got no manners for a brat still wet behind the ears. Fine. We’re called the Three Elders of Tianshan.”
+“You’ve got a short tongue for a brat barely out of the cradle. Fine. We’re the Three Elders of Tianshan.”
 
 My eyes widened.
 
@@ -136,7 +136,7 @@ The second old man, fat and potbellied, nodded as if he’d expected that reacti
 
 “Good heavens. You’re *the* Three Elders of Tianshan?”
 
-At my exclamation, the third old man—clearly the lowest-ranking of the three, with a crown like a heaping bowl of rice—gave a short laugh.
+At my exclamation, the third old man—clearly the youngest of the three, with the top of his head mounded like a heaping bowl of rice—gave a short laugh.
 
 “You must have heard the tales about us that have been passed down since before the Great Faction War. Are you finally ready to talk properly?”
 
@@ -146,7 +146,7 @@ I kept my surprised expression.
 
 “Don’t do something you’ll regret. Even now, you can—what?”
 
-“I said no. I’ve never even heard that title before today. And cut the ‘Elder’ stuff.”
+“I said no. I’d never even heard that title before today. And calling yourselves ‘Elders’ is a bit much.”
 
 “What?”
 
@@ -184,15 +184,15 @@ With enough internal energy behind it for everyone to hear, of course.
 
 The air around us trembled.
 
-But unlike the enemy at the foot of the mountain, whose rage was boiling hot despite being invisible, the allies lined up along the ridge reacted differently.
+But while the enemy at the foot of the mountain seethed with barely contained rage, the allies lined up along the ridge reacted differently.
 
 Who were the Three Elders of Tianshan?
 
 Fiends from a bygone era. Supreme Peak masters who’d made their mark during the Great Faction War and struck fear into everyone.
 
-And yet Jeok Cheongang and I looked down at them and called them nothing but a bunch of dogs. Weaklings.
+Yet Jeok Cheongang and I had looked down at them and called them nothing but dogs. Weaklings.
 
-Those outrageous insults and absurd antics were enough to fill our allies with both astonishment and relief.
+The outrageous insults and absurd antics gave our allies something besides astonishment: relief.
 
 *Exactly what I was going for.*
 
@@ -208,7 +208,7 @@ The new Heaven of the Hundred Thousand Demonic Disciples.
 
 Evil itself, possessed of power so immense I couldn’t begin to guess its limits.
 
-The corner of my mouth had curled up for all to see, but the thought of that absolute being—someone I’d never once met—left a heaviness in my chest.
+I kept the corner of my mouth raised for everyone to see. But the thought of that absolute being, whom I’d never once met, weighed on my chest.
 
 *If someone can send the Three Elders of Tianshan as mere messengers, who the hell is leading them?*
 
@@ -228,7 +228,7 @@ The three Demon Lords of the East, West, and North, and even the Southern Heaven
 
 *But there’s another Demon Lord left?*
 
-Had these bastards come up with something tacky and ridiculous, like the East-West Demon Lord or the Northwest Demon Empress?
+Had these bastards come up with something tacky like the East-West Demon Lord or the Northwest Demon Empress?
 
 Then someone came to mind.
 
@@ -238,11 +238,11 @@ Had he filled the vacancy left by a coworker who’d been marked dead on the job
 
 Before the leaders could begin whispering about the enemy commander’s identity, another shout rang out from the foot of the mountain.
 
-“The Demon Lord says your safety will be guaranteed if you accept this offer!”
+“The Demon Lord says your safety is guaranteed if you accept this offer!”
 
 Dark Heaven was guaranteeing our safety?
 
-That was obviously complete bullshit.
+Bullshit.
 
 The leaders laughed at the ridiculous claim, and so did I.
 
@@ -258,7 +258,7 @@ Thump. Thump-thump.
 
 “Ugh…!”
 
-Dozens of severed heads rolled down with heavy thuds. Groans rose from all around us. Among them, Sima Gong recognized a familiar face and murmured,
+Dozens of severed heads rolled out with heavy thuds, drawing groans from all around us. Then Sima Gong spotted a face he recognized and murmured,
 
 “The Kongtong Sword Dragon.”
 
@@ -298,7 +298,7 @@ Jeok Cheongang spoke in a low voice.
 
 “What the hell are you talking about?”
 
-Perhaps some old fear had surfaced. The Three Elders of Tianshan flinched at Jeok Cheongang’s presence, but soon answered, putting even more force into their voices.
+Perhaps an old fear had resurfaced. The Three Elders flinched at his presence, then answered with renewed force.
 
 “A thousand. We still have another thousand prisoners.”
 
