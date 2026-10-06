@@ -30,7 +30,7 @@ I kept running, leaving the reconnaissance squad’s voices fading behind me. Th
 
 There!
 
-Below a low hill, less than two hundred meters[^2] away, countless martial artists were locked in a bloody struggle, killing and being killed.
+Below a low hill, less than two hundred meters away, countless martial artists were locked in a bloody struggle, killing and being killed.
 
 “Die!”
 
@@ -70,7 +70,7 @@ The spear I pulled out was one of them, with a wooden shaft and a steel head.
 
 Spear in hand, I took several steps back.
 
-Two hundred meters.[^2] An impossibly long distance—especially if I was trying to hit someone with a thrown spear.
+Two hundred meters. An impossibly long distance—especially if I was trying to hit someone with a thrown spear.
 
 But I had to do it.
 
@@ -389,4 +389,3 @@ The Head Elder did not panic. He swept his sword upward from below. Beyond the s
 And with him came a dozen or so riffraff who had appeared from who knew where.
 
 [^1]: Red Hare is the legendary warhorse of Lü Bu in *Romance of the Three Kingdoms*.
-[^2]: Two hundred meters is about 656 ft.
