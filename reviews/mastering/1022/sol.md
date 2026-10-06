@@ -28,9 +28,9 @@ The immense natural barrier lay quiet, still partly shrouded in darkness. Among 
 
 It was only natural.
 
-By now, everyone had heard the news that the front line at Dunhuang, built around the Kongtong Sect, had been utterly crushed half a day ago.
+By now, everyone had heard that the front line at Dunhuang, built around the Kongtong Sect, had been crushed half a day ago.
 
-*Of course, given the distance and the time, it’s unlikely the Great Snow Mountain has already fallen to Dark Heaven…*
+*Given the distance and the time, it’s unlikely the Great Snow Mountain has already fallen to Dark Heaven, but…*
 
 War was a monster too unpredictable to reduce to probabilities.
 
@@ -44,7 +44,7 @@ Even so, it had three Supreme Peak masters, including its Sect Leader. By all ac
 
 Yet they hadn’t held out for days. They hadn’t even lasted half a day. Even I, after clashing with Dark Heaven several times, had trouble gauging the enemy’s strength.
 
-*The Kongtong Sect must have had enough time to prepare, and enough strength to defend itself.*
+*They must have had ample defenses and fighting strength.*
 
 Three Supreme Peak masters at the heart of the Kongtong Sect. A thousand disciples. And a force of no fewer than ten thousand rallied around them.
 
@@ -84,13 +84,13 @@ Or…
 
 *The Lord of Heaven?*
 
-Just as those two words slipped from my lips without my realizing it, a chill ran down my spine by instinct.
+The two words slipped from my lips before I knew it. A chill ran down my spine.
 
 Whoosh!
 
 A sharp whistle suddenly cut through the air. I turned toward it and saw flames rising one after another from deep in the Great Snow Mountain.
 
-Boom. Boom. Boom!
+Boom. Boom. Boom, boom, boom!
 
 Once, twice. Then three times at the end.
 
@@ -100,7 +100,7 @@ Fireworks burst across the sky in quick succession, and a red line appeared alon
 
 A signal.
 
-The forces who had taken the Great Snow Mountain were signaling with fireworks and torches.
+The allied forces holding the Great Snow Mountain were signaling with fireworks and torches.
 
 Sighs of relief passed through the people who’d been on edge.
 
@@ -118,21 +118,21 @@ How could he stay so composed, as if he’d known what to expect, while everyone
 
 But I didn’t ask. I couldn’t.
 
-I watched Sama Pyo riding alongside the still-dejected Taishan, my gaze tangled with conflicting thoughts, then quietly turned away.
+I watched him ride beside the still-dejected Taishan, then turned away without a word, Jeok Cheongang’s recent question running through my mind again.
 
 *“If Sama Pyo and Taishan are up to something on Sima Gong’s secret orders, and those orders are connected to Dark Heaven… what would you do?”*
 
 *Hell if I know. What should I do?*
 
-With that question still unanswered in my heart, I silently tightened my grip on the reins.
+Still unable to answer, I tightened my grip on the reins.
 
-Unlike the reality before me, the dawn spreading from the east was bathing the Great Snow Mountain in light.
+Whatever lay ahead of us, the dawn spreading from the east was bathing the Great Snow Mountain in light.
 
 * * *
 
 “Guh… ack.”
 
-The man’s lips trembled as he vomited a mouthful of dark red blood.
+Dark red blood spilled from the man’s mouth, and his lips trembled.
 
 His Daoist robe, once as white as snow, had long since been stained with blood and dust. His unfocused eyes could barely make out what was in front of him.
 
@@ -200,13 +200,13 @@ Only moments ago, the monster had moved too fast for his eyes to follow. Now it 
 
 The man was certain.
 
-This enlightenment had made his martial might advance by leaps and bounds.
+This enlightenment had brought his martial skill forward in a dazzling leap.
 
 He had broken through the wall that had held him back for so long. His Demon-Subduing Sword had finally reached eight-tenths mastery, and it would cut the monster down.
 
 Then, in the next instant—
 
-*Whoosh! Clack.*
+Whoosh! Clack.
 
 The monster shot out a hand like a streak of light and seized the blade.
 
@@ -226,7 +226,7 @@ The man stared blankly at the enemy before him.
 
 Up close, the monster looked like an utterly ordinary middle-aged man—apart from the blood covering him from head to toe.
 
-Maybe that was why, even after feeling the truth of what he was down to his bones, even knowing that he was beyond reason, the man forced his voice out.
+Maybe that was why he forced the words out. Even though he knew in his bones what this man was, and knew there was no reasoning with him.
 
 “Why… why are you doing this?”
 
@@ -238,7 +238,7 @@ The monster—no, the middle-aged man—furrowed his brow.
 
 “……!”
 
-“And this is all your own fault. I told you I’d spare you for now if you surrendered quietly, but you had to… Honestly, those damned Daoist bastards don’t listen until they see blood.”
+“And you brought this on yourselves. I told you I’d spare you for now if you surrendered quietly, but you just had to… Honestly, you damned Daoists never listen until you see blood.”
 
 The middle-aged man sighed deeply and gave him a pitying look.
 
@@ -256,7 +256,7 @@ Crack!
 
 His back arched as bone and flesh were crushed. Through his darkening vision, he saw a few wisps of cloud drifting across the sky as if nothing had happened.
 
-Then a voice pierced his ears for the last time.
+One last voice reached his ears.
 
 “Can you see it? The new Heaven.”
 

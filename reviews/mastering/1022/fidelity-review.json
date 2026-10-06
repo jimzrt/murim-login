@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "The Kongtong Sect must have had enough time to prepare, and enough strength to defend itself.",
+      "defect": "The Korean says the sect’s prior defenses/preparations and its strength must have been sufficient. It does not say the sect had enough time to prepare.",
+      "id": "F01",
+      "rationale": "사전의 방비도, 전력도 충분했을 텐데 refers to the adequacy of prior defenses and military strength, not to having sufficient time.",
+      "replacement": "The Kongtong Sect must have had sufficient defenses in place beforehand, and enough strength.",
+      "severity": "minor",
+      "source": "Paragraph 49"
+    },
+    {
+      "confidence": 0.9,
+      "current": "even knowing that he was beyond reason",
+      "defect": "This characterizes the man as irrational. The Korean instead says the speaker knew he was someone with whom words would not work.",
+      "id": "F02",
+      "rationale": "말이 통하지 않을 상대 describes someone one cannot communicate with or persuade; “beyond reason” shifts the emphasis to the person’s rationality.",
+      "replacement": "even knowing there was no getting through to him",
+      "severity": "minor",
+      "source": "Paragraph 115"
+    }
+  ],
+  "summary": "Two minor fidelity issues: an added implication about preparation time and a shifted sense of the attacker’s unreasonableness.",
+  "version": 1
+}
