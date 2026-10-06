@@ -4,7 +4,7 @@ The middle-aged martial artist and Jang Childeuk were staring at the sky again t
 
 “Say, Brother Jang. Have you ever trained in the Wall Lizard Technique?”
 
-“The Wall Lizard Technique? Good heavens, a coward like me would never dare. What about you, hyung[^1]?”
+“The Wall Lizard Technique? Good heavens, a coward like me would never dare. What about you, hyung?”
 
 “Once, about five years ago.”
 
@@ -14,7 +14,7 @@ The middle-aged martial artist and Jang Childeuk were staring at the sky again t
 
 “Oof. You must have fallen from pretty high up.”
 
-“Barely five jang[^2] or so. I trained for three months without missing a single day, only to break my ankle.”
+“Barely five jang or so. I trained for three months without missing a single day, only to break my ankle.”
 
 “That’s a shame.”
 
@@ -58,7 +58,7 @@ Both the middle-aged martial artist and Jang Childeuk knew the answer.
 
 After a brief silence, Childeuk spoke.
 
-“Hyung[^1].”
+“Hyung.”
 
 “Hmm?”
 
@@ -326,7 +326,7 @@ Hyuk Mujin’s face turned deathly pale as he tried to cover his ears, but my wo
 
 “…?”
 
-“People can talk to each other even when they’re ten thousand li[^3] apart, and monsters with horns or wings roam everywhere. If you put it in Murim terms, I suppose you’d call them Fiends.”
+“People can talk to each other even when they’re ten thousand li apart, and monsters with horns or wings roam everywhere. If you put it in Murim terms, I suppose you’d call them evil spirits.”
 
 “…What?”
 
@@ -428,7 +428,7 @@ Cheongpung smiled brightly as he reminisced about those days.
 
 “Falling Goose Peak?”
 
-“It’s a peak on Huashan. It’s easily more than five hundred jang[^4] high. Oh, of course, I couldn’t make it all the way to the top until I was eighteen.”
+“It’s a peak on Huashan. It’s easily more than five hundred jang high. Oh, of course, I couldn’t make it all the way to the top until I was eighteen.”
 
 “…”
 
@@ -487,8 +487,3 @@ Leaving Hyuk Mujin’s squawking behind me, I looked up at the sky.
 The vast sky was a brilliant blue. The air was cool, and several hawks drifted overhead with their enormous wings spread wide.
 
 New Year’s Day was ten days away.
-
-[^1]: *Hyung* is a Korean term a man uses to address an older man with whom he is familiar.
-[^2]: Five *jang* is about 15.2 m, or 49.7 ft. A *jang* is a traditional Korean unit of length equal to about 3.03 m.
-[^3]: Ten thousand Chinese *li* is about 5,000 km, or 3,110 mi. One Chinese *li* is about 500 m.
-[^4]: Five hundred *jang* is about 1,515 m, or 4,970 ft.
