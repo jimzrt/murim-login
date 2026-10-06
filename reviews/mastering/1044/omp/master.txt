@@ -8,7 +8,7 @@ Shwoooosh!
 
 Streams of Force raced along his blade and tore through the air.
 
-The dazzling streak of light, aimed neither ahead nor behind but into empty space, crossed a distance of more than twenty *jang* and struck the enormous ball of fire in the blink of an eye.
+The dazzling streak flew neither forward nor back, but up into the empty sky. In an instant, it crossed more than twenty *jang* and struck the enormous ball of fire.
 
 KWA-BOOM!
 
@@ -18,7 +18,7 @@ But it faltered for only a moment. Then the calamity resumed its descent as thou
 
 *It’s no use. I can’t stop it.*
 
-He knew by instinct. He’d already given it everything he had several times.
+He knew it instinctively. He’d already given it everything he had several times over.
 
 He was worthy of being called a superhuman, yet his strength was nowhere near enough to stop that enormous fireball—a thing that might as well have been wrought by supernatural powers.
 
@@ -40,7 +40,7 @@ Fwoosh!
 
 His eyes widened.
 
-Dazzling light spread. Even from more than twenty *jang* away, the heat that had warmed his skin vanished in an instant.
+Brilliant light spread through the sky. The heat that had been burning his skin from more than twenty *jang* away vanished in an instant.
 
 Dozens of streams of Force shot forward, woven as tightly as a net. He knew them at once.
 
@@ -52,9 +52,9 @@ His reflexive shout mingled with another deafening roar. Beneath the fiery fragm
 
 “We meet again so soon, Senior Brother.”
 
-The Roaring Fury Swordsman murmured, almost groaning, at the sight of his Junior Brother, known to the world by that very demeanor as the Taeeul Merciless Sword.
+Someone else might have found his expression and voice cold. To the Roaring Fury Swordsman, they were unmistakably those of his Junior Brother, known to the world as the Taeeul Merciless Sword.
 
-“How did you get here…!”
+“How did you get here…?”
 
 His surprise held more confusion than joy, and even a trace of worry and anger. The Taeeul Merciless Sword answered calmly.
 
@@ -70,9 +70,9 @@ Hwangbo Eom should have been leading them in a swift retreat. Instead, he was he
 
 For a moment, the Roaring Fury Swordsman forgot everything around him and shouted at the top of his lungs.
 
-“You idiot! If you’re gone too, who in the world is going to lead our sect…!”
+“You idiot! If you’re gone too, who’s going to look after our sect…?”
 
-“They say old habits die hard. You certainly live up to your sobriquet. Come to think of it, you’ve always been like that, Senior Brother—even as a child.”
+“They say old habits die hard. You certainly live up to your name, Senior Brother. Come to think of it, you’ve been like this since we were children.”
 
 “What?”
 
@@ -88,7 +88,7 @@ The fireball faltered again. Fragments broke away and fell toward the ground ami
 
 “As I thought, this won’t be enough. Not on my own.”
 
-“……”
+“…!”
 
 “Are you ready for the Moon-Shattering Sword Formation?”
 
@@ -116,9 +116,9 @@ They slashed, struck upward, and thrust.
 
 Amid the ceaseless explosions, the two old Daoists could still hear each other speak.
 
-“Don’t worry about Junior Brother, the Sect Leader, and the other Disciples. So Pyeong will do his duty well.”
+“Don’t worry about Junior Brother, the Sect Leader, or the other Disciples. Sopyung will carry out the duty I gave him.”
 
-“So Pyeong… I see. So that’s how it ended up.”
+“Sopyung… I see. So that’s how it ended up.”
 
 It was too late to change anything now.
 
@@ -138,7 +138,7 @@ Even so, the Roaring Fury Swordsman could not set aside his concern.
 
 “He’s still too young. You should have stayed behind.”
 
-“By that reasoning, you’re the problem, Senior Brother, and we could go on forever. Besides, I was even younger than him during the Great Faction War. Junior Brother, the Sect Leader, was younger still.”
+“By that reasoning, you should have stayed too, Senior Brother. We could go on like this forever. Besides, I was younger than him during the Great Faction War. So was Junior Brother, the Sect Leader.”
 
 “That was different.”
 
@@ -154,7 +154,7 @@ KWA-BOOOOM!
 
 A roar like the sky splitting open. Heat fierce enough to burn them at any moment.
 
-At the center of it all was a fireball much larger than it had been only moments ago.
+At the center of it all was the fireball, much larger to their eyes than it had been only moments ago.
 
 It might shudder, and pieces might break away, but the calamity kept falling, as inexorable as a mountain.
 
@@ -168,17 +168,17 @@ The Roaring Fury Swordsman was breathing hard. The Taeeul Merciless Sword, just 
 
 A silence passed, brief and yet seemingly endless.
 
-But the Roaring Fury Swordsman had a good idea what his Junior Brother meant.
+But Song Il knew what his Junior Brother meant.
 
-Right. They couldn’t stop it.
+They couldn’t stop it.
 
-They were only human, and that was a power beyond their understanding, a force of supernatural powers.
+They were only human. The power before them defied understanding.
 
 If anyone could hold this mad calamity back even a little, it would be true superhumans—those who, in human bodies, had reached a realm comparable to monsters or gods.
 
 “I must be going senile. I never thought I’d want to see that mad old monster, the Fire King.”
 
-“For once, I had a similar thought. A moment ago, I saw some reckless brat flash before my eyes. It made me wonder if I’d really lost my mind.”
+“For once, we’re of the same mind. Some reckless young brat flashed through my thoughts just now. I wondered if I’d lost my mind too.”
 
 The Fire King, Jeok Cheongang.
 
@@ -192,11 +192,11 @@ Not for any good reason, of course.
 
 “Why ask when you already know?”
 
-The two men, reading the events unfolding across the battlefield, already suspected that neither the old monster nor the young one from the Fire Gate Clan could come to their aid.
+A Supreme Peak master’s senses surpassed anything an ordinary person could imagine. Aware of what was happening across the battlefield, both men knew that the Fire Gate Clan’s old and young monsters could not come to their aid.
 
-And at the same time, they held the contradictory wish that they didn’t want help from either of them, whatever the circumstances.
+Yet they also shared the contradictory wish that neither would help them, no matter what happened.
 
-Even now, they hadn’t been able to let go of their grudge against the Fire Gate Clan’s Master and Disciple.
+Even now, they could not entirely let go of their grudge against that Master and Disciple.
 
 And that grudge had led them to commit an irreversible wrong.
 
@@ -210,7 +210,7 @@ Grrrrrrr.
 
 It was hot.
 
-A crimson-black shadow, unlike anything they’d ever seen and something they’d never experience again, covered part of the battlefield.
+A crimson-black shadow unlike anything they had ever seen—and would never see again—spread over part of the battlefield.
 
 “Do you… regret it?”
 
@@ -220,8 +220,6 @@ Staring hollow-eyed at the sky, the Roaring Fury Swordsman answered.
 
 “Yes.”
 
-Seeing his Senior Brother like that, the Junior Brother didn’t ask anything more.
-
 His Junior Brother did not ask what he regretted.
 
 Nor did Song Il ask whether Hwangbo Eom regretted it too.
@@ -230,7 +228,7 @@ They had exchanged only a few words, but everything had been said. Each was left
 
 *We should never have done it.*
 
-The two men had temperaments as different as their sobriquets, but they’d lived similar lives. In this moment, the same thoughts came to them.
+Different as their temperaments were, the two men had lived much the same life. Now, the same memories came to them.
 
 Their peaceful childhood, spent honing their martial arts rather than learning to act with humanity and righteousness.
 
@@ -240,11 +238,11 @@ The years of regained peace, when their black hair turned white and they swiftly
 
 And then—
 
-> *I hear you two went through quite an ordeal.*
+> *I hear you two have been through quite an ordeal.*
 
 One day, after paying the price for their greed, they had been left with severe Internal Injuries and inner demons. Consumed by hatred, they had received a tempting offer.
 
-> *This is a rare elixir I managed to acquire. Its effects rival Shaolin’s Great Restoration Pill. It will be more than enough to heal your Internal Injuries.*
+> *This is an elixir I went to great trouble to obtain. Its effects rival Shaolin’s Great Restoration Pill. It will more than heal your Internal Injuries.*
 
 They had said they would not meet him, but the uninvited guest had managed to see them anyway. When the two martial brothers doubted such unbelievable generosity, he offered them something they could not refuse.
 
@@ -252,7 +250,7 @@ They had said they would not meet him, but the uninvited guest had managed to se
 
 They had hesitated. In the end, they accepted.
 
-They’d spent their lives as the direct disciples of the Zhongnan Sect Leader, heroes of the Great Faction War and respected masters of the martial world. They couldn’t go on living with this indelible humiliation weighing on them.
+They had spent their lives as direct Disciples of the Zhongnan Sect Leader, heroes of the Great Faction War and respected elders of the martial world. They could not live on carrying a humiliation they would never wash away.
 
 They had to take revenge.
 
@@ -278,9 +276,9 @@ What they had to do.
 
 “Run. There’s still time.”
 
-“I refuse. You go, Senior Brother.”
+“No. You go, Senior Brother.”
 
-“I refuse, too.”
+“No.”
 
 Three *jang*.
 
@@ -292,11 +290,11 @@ The enormous sphere of fire filled their vision. The two martial brothers stared
 
 “Then why did you come?”
 
-“For the same reason you did, Senior Brother. I felt I had to do something. Even if it was only this. And…”
+“For the same reason you stayed, Senior Brother. I felt I had to do something. Even if this was all I could do. And…”
 
 Two *jang*.
 
-The heat and light pouring from the flames were so blinding that the Taeeul Merciless Sword closed his eyes.
+The heat and light pouring from the flames were so intense that the Taeeul Merciless Sword closed his eyes.
 
 Or perhaps he was too ashamed to face the world openly as he died.
 
@@ -308,7 +306,7 @@ To their youngest Junior Brother and the sect’s Disciples, who had treated the
 
 To everyone else.
 
-And to a certain Master and Disciple who, unlike them—who’d strayed from the path long ago—still walked the righteous path.
+And to a certain Master and Disciple who, unlike them, still walked the righteous path.
 
 “What a damned mess.”
 
@@ -316,4 +314,4 @@ Whether the words slipped from the Taeeul Merciless Sword’s lips or the Roarin
 
 Fwoooooosh!
 
-The heat and light pouring from the enormous fireball, stretching across hundreds of *jang*, were more magnificent than ever.
+The heat and light pouring from the enormous fireball, its shadow stretching across hundreds of *jang*, were more dazzling than ever.

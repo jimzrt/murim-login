@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "The Roaring Fury Swordsman murmured, almost groaning, at the sight of his Junior Brother, known to the world by that very demeanor as the Taeeul Merciless Sword.",
+      "defect": "The source explicitly describes the Junior Brother’s expression and voice as cold enough that someone else might perceive them as cold. The current sentence omits that physical and vocal detail, and instead makes the title seem to derive from his demeanor.",
+      "id": "F01",
+      "rationale": "The source first describes the expression and voice, then identifies the Junior Brother by the title he bears as he appears to the world.",
+      "replacement": "His expression and voice were cold enough that someone else might have taken him for an indifferent man. At the sight of his Junior Brother, known to the world by that very appearance as the Taeeul Merciless Sword, the Roaring Fury Swordsman murmured, almost groaning.",
+      "severity": "minor",
+      "source": "Lines 63–65"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it drops a specific description of the Junior Brother’s expression and voice.",
+  "version": 1
+}
