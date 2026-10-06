@@ -284,7 +284,7 @@ Northern Shanxi, which the Mount Heng Sword Sect had kept under tight control un
 
 Her words said one thing, but her bright, carefree smile was answer enough.
 
-She was the sort of woman who could have nine tails[^2] and no one would find it strange, so she had probably obtained a more than satisfactory result.
+She was the sort of woman who could have nine tails and no one would find it strange, so she had probably obtained a more than satisfactory result.
 
 “I suppose we’ll meet at the Jin Family of Taiyuan next time.”
 
@@ -344,5 +344,4 @@ I slowly turned around.
 
 Lee Seowol stood there in a snow-white palace robe.
 
-[^1]: Samsung is a Korean company. Its name is pronounced *Samseong*, like the Korean title rendered here as “Three Saints.”
-[^2]: A *gumiho* is a nine-tailed fox in Korean folklore, often depicted as a cunning shapeshifter.
+[^1]: The Korean name “Samsung” is pronounced *Samseong*, the same as the Korean term rendered here as “Three Saints.”
