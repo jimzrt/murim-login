@@ -376,9 +376,11 @@ Meanwhile, Cheongpung approached Zhu Bao with anticipation written all over his 
 
 “I-I could give you an autograph too?”
 
-“…You’ve never given anyone an autograph before, have you?”
+“……”
 
-“Gasp. How did you know? I’ve left my hand mark as a caravan porter on the way here, but this is my first autograph.”
+“You’ve never given anyone an autograph before, have you?”
+
+“Gasp. How did you know? I’ve left my hand mark as a porter on the way here, but this is my first autograph.”
 
 “Wouldn’t it be strange if I didn’t know?”
 
