@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "—……What is this?",
+      "defect": "A direct utterance is rendered as an unquoted dash line. The accepted baseline and binding translation rules use quotation marks for speech.",
+      "id": "F01",
+      "rationale": "The Korean line is formatted as dialogue, and the baseline preserves it as quoted speech. The assembled English changes that formatting without a source-based reason.",
+      "replacement": "“……What is this?”",
+      "severity": "minor",
+      "source": "Korean line 255"
+    }
+  ],
+  "summary": "The assembled English preserves the chapter’s source meaning. One dialogue-formatting regression remains.",
+  "version": 1
+}

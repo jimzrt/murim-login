@@ -114,7 +114,7 @@ Why?
 
 Simple.
 
-“The weird thing is, not one of those bastards ever followed through on what they said.”
+“The funny thing is, not one of those bastards ever followed through.”
 
 It was true. He’d fought every one of them, and he’d beaten every one of them.
 
@@ -168,7 +168,7 @@ But at last, Morgoth had no choice but to admit that what he felt toward Jin Tae
 
 The strength of their fear might differ, but its nature was the same.
 
-Muttering in a low voice, Morgoth looked at the tiny human who had dared to make him feel afraid.
+Morgoth looked at the tiny human who had dared make him feel it. Then he understood what he had to do.
 
 “But I swear one thing to you.”
 
@@ -184,7 +184,7 @@ At that moment—
 
 Darkness erupted around Morgoth, engulfed his body, and swelled. It rose as high as the spire that now lay in ruins and spread as wide as a fortress wall.
 
-Jin Taekyung instinctively understood what the phenomenon before him meant.
+Jin Taekyung instinctively understood what he was seeing.
 
 *Polymorph.*
 
@@ -202,7 +202,7 @@ He knew that just as darkness existed wherever there was light, a new light awai
 
 And his faith was rewarded.
 
-Just as someone had answered the voice with which Jin Taekyung had once cried out for salvation.
+Just as he had once answered someone’s cries for salvation.
 
 *Flash!*
 
@@ -226,4 +226,4 @@ His low voice carried on the wind. He stepped forward and leveled his spear at t
 
 *Fwoosh—slice!*
 
-As fierce flames rose like dawn and lit the battlefield, a mighty roar raced along the horizon and shook the field of battle.
+Fierce flames became the dawn that lit the battlefield. A mighty battle cry raced along the horizon and shook it.
