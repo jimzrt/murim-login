@@ -118,7 +118,7 @@ Fwoooooosh!
 
 Cheol Mubaek lunged forward with the movements of a tiger.
 
-The ferocious forms of the Shura[^1] Annihilating Fist, a martial art thought to have been lost long ago, poured down upon Pung Yang.
+The ferocious forms of the Shura Annihilating Fist, a martial art thought to have been lost long ago, poured down upon Pung Yang.
 
 Kwa-gwa-gwang!
 
@@ -188,7 +188,7 @@ A martial artist of the Mount Heng Sword Sect swung his sword frantically, only 
 
 Slash! Thud-thud-thud!
 
-Neck, chest, abdomen… Martial artists were cut and pierced all over, dying without even having time to scream.
+Neck, chest, abdomen… Martial artists were cut and pierced all over, dying without even having time to scream. Their bodies fell in growing numbers.
 
 The mounted bandits of the Red Wind Band, their momentum rising, continued pressing the attack without pause. Before anyone realized it, half the fortress wall was packed with enemies.
 
@@ -206,7 +206,7 @@ After firing arrows without rest, her position was discovered before long. When 
 
 “You must get away! They’re coming!”
 
-Three shichen[^2] had passed since the siege began. Lee Seowol had only practiced archery as a hobby. She was no martial artist, and her Stamina had reached its limit long ago.
+Three shichen had passed since the siege began. Lee Seowol had only practiced archery as a hobby. She was no martial artist, and her Stamina had reached its limit long ago.
 
 But she did not stop. She forced strength into her thin, trembling arms and searched for her next target.
 
@@ -274,7 +274,7 @@ After no less than three years, he climbed the cliff with his bare hands and ret
 
 What awaited him was his home in ruins—and the deaths of his wife and child.
 
-“Had it been two months or so since we last heard from you? That bastard Hwang, who’d always had his eye on your wife…”
+*Had it been two months or so since we last heard from you? That bastard Hwang, who’d always had his eye on your wife…*
 
 By the time Cheol Mubaek came to his senses, he had already beaten the village’s great landowner and all his servants to death.
 
@@ -310,11 +310,11 @@ Cheol Mubaek’s eyes trembled as he recalled Pung Yang’s movements.
 
 The gap between them was so vast that it seemed impossible to win, even if they fought ten or a hundred more times. Pung Yang had overturned the battle in an instant, broken all four of Cheol Mubaek’s limbs, inflicted massive internal injuries, and then left.
 
-“I’ll let you live for now. I’ve decided I want the formula for your martial art as a wedding gift.”
+*I’ll let you live for now. I’ve decided I want the formula for your martial art as a wedding gift.*
 
 Cheol Mubaek’s eyes reddened as he recalled Pung Yang’s parting words.
 
-The Shura[^1] Annihilating Fist was a martial art passed down to a single successor and never taught to outsiders.
+The Shura Annihilating Fist was a martial art passed down to a single successor and never taught to outsiders.
 
 He would choose suicide rather than hand it over to Pung Yang, but Lee Seowol—whom he cherished like a daughter and a granddaughter—troubled him.
 
@@ -344,14 +344,10 @@ Instead of answering, Cheol Mubaek stared intently at the young man’s chest.
 
 A single character was embroidered on his navy martial robe.
 
-進.[^3]
+進.
 
 “Taiyuan… the Jin Family?”
 
 “Oh, you recognize it?”
 
 The young man, Jin Taekyung, grinned.
-
-[^1]: Shura derives from *asura*, a class of combative beings in Buddhist and Hindu traditions.
-[^2]: A shichen is a traditional time unit of approximately two hours; three shichen are approximately six hours.
-[^3]: 進 is pronounced *Jin* in Korean and means “advance.”
