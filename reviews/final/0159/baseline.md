@@ -120,7 +120,7 @@ As the cheerful System notification rang out, I pulled up the corners of my mout
 
 My thoughts had been long, but only a short time had passed. I whispered to Cheongpung, who was looking up at me with bewildered eyes.
 
-“Now, it’s Puramyeon spicy flavor.”[^1]
+“Now, it’s Puramyeon spicy flavor.”[^3]
 
 I’ll show you what Korean spice tastes like.
 
@@ -134,7 +134,7 @@ It was the difference between heaven and earth. Cheongpung was visibly flustered
 
 “B-Benefactor. Where did this sudden strength come from?”
 
-“It’s Korean rice power. Especially gukbap.”[^2]
+“It’s Korean rice power. Especially gukbap.”[^1]
 
 “Pardon?”
 
@@ -176,7 +176,7 @@ Thank goodness I had improved my bones and muscles as well as my Sinews and Meri
 
 Cheongpung stared at me with the wide, startled eyes of a rabbit.
 
-“A Seven-Star Taeeul Miri Palm…”[^3]
+“A Seven-Star Taeeul Miri Palm…”[^2]
 
 “Don’t say that. You’ll make me crave cider.”
 
@@ -228,7 +228,7 @@ But I didn’t have time to complain. Cheongpung had closed the distance to righ
 
 The tip of his sword bloomed with flowers.
 
-The movement was so fluid it was beautiful. But if I let myself be mesmerized, I would soon find myself standing before a sign for Mount Beimang.[^4]
+The movement was so fluid it was beautiful. But if I let myself be mesmerized, I would soon find myself standing before a sign for Mount Beimang.
 
 The Plum Blossom Sword Technique I had watched until now was a frightening martial art composed of extremely intricate, complex forms.
 
@@ -334,7 +334,7 @@ Cheongpung nodded as though he understood.
 
 “Me? Not to that extent.”
 
-“You look happy for someone who doesn’t.”
+“You look happy for someone who doesn't.”
 
 Only then did I realize that the corners of my mouth had been raised the entire time.
 
@@ -388,7 +388,7 @@ As if he had decided to stop holding back, he began pressing the attack in earne
 
 *Whoosh! Bam-bam!*
 
-*Sword techniques, fist techniques, palm techniques, water arts, even claw techniques.*
+*Sword techniques, fist techniques, palm techniques, hand techniques, even claw techniques.*
 
 He really was a genius of martial arts. He chained together roughly ten different martial arts, yet every movement fit perfectly into the next, like interlocking gears.
 
@@ -470,7 +470,7 @@ However, to fight someone who already knew the Jin Family’s Spear Technique in
 
 The Jin Family’s Spear Technique grew more powerful the farther it advanced. Its footwork was designed to match.
 
-The essence of both arts was to pressure an opponent with simple forms tailored for actual combat.
+Its essence was to pressure an opponent with simple forms tailored for actual combat.
 
 *If I can’t do it with my teeth, I’ll do it with my gums.*
 
@@ -524,7 +524,7 @@ As he watched me hesitate, Cheongpung spoke.
 
 Cheongpung continued with an aggrieved expression.
 
-“He said it wasn’t martial arts, but empty space[^5]. Since it’s empty to begin with, you just accept it as it is and fill it in.”
+“He said it wasn’t martial arts, but empty space[^4]. Since it’s empty to begin with, you just accept it as it is and fill it in.”
 
 “Accept it as it is and fill it in.”
 
@@ -581,12 +581,10 @@ Still…
 
 Now I knew one thing.
 
-[^1]: Puramyeon is an instant-noodle brand. Taekyung uses its spicy flavor as the next step in his escalating flavor joke.
+[^1]: *Gukbap* is soup served with rice; *bone haejangguk* is a hearty pork-bone soup traditionally eaten as hangover food.
 
-[^2]: *Gukbap* is soup served with rice; *bone haejangguk* is a hearty pork-bone soup traditionally eaten as hangover food.
+[^2]: The Korean word for “seven-star” also appears in *Chilsung Cider*, a Korean lemon-lime soft drink, setting up Taekyung’s next line.
 
-[^3]: The Korean word for “seven-star” also appears in *Chilsung Cider*, a Korean lemon-lime soft drink, setting up Taekyung’s next line.
+[^3]: Puramyeon is an instant-noodle brand. Taekyung uses its spicy flavor as the next step in his escalating flavor joke.
 
-[^4]: Mount Beimang is traditionally associated with burial grounds. Taekyung means that losing focus could get him killed.
-
-[^5]: Mae’s line is wordplay on two Korean terms pronounced *mugong*: “martial arts” and “empty space.”
+[^4]: Mae’s line is wordplay on two Korean terms pronounced *mugong*: “martial arts” and “empty space.”
