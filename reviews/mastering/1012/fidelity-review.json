@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "whose eyes had filled with tears again",
+      "defect": "“Again” adds a recurrence that the Korean does not state; the source says his eyes were glistening with tears.",
+      "id": "F01",
+      "rationale": "눈물까지 글썽이는 describes his tear-filled eyes here, without saying this happened again.",
+      "replacement": "whose eyes were glistening with tears",
+      "severity": "minor",
+      "source": "Korean line 107"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one minor added implication of recurrence.",
+  "version": 1
+}

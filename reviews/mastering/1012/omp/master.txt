@@ -36,7 +36,7 @@ Ma Junggeol gave me a pleading look. I shook my head and spoke up.
 
 “Fine. One hit. That’s this old man’s final offer.”
 
-“……You might as well tell him to make his last will. At this point, it seems like you just want to kill him.”
+“…You might as well ask for his last words. At this point, it sounds like you just want him dead.”
 
 Jeok Cheongang frowned at my quiet objection.
 
@@ -86,19 +86,19 @@ Hyuk Mujin understood what I meant and clicked his tongue. The other members rea
 
 “I see it differently—damn it, this miserable saddle!”
 
-Unlike Taishan’s shoulders, which were as comfortable as a cushioned seat, Namho was perched on a saddle that bounced violently beneath him. Grimacing at the pain in his backside, he continued:
+Namho had been comfortably riding on Taishan’s shoulders before. Now he was on a saddle that bounced beneath him, and his backside was paying for it. He grimaced and went on.
 
 “We should follow the Pavilion Master’s orders. That’s the right call. Besides, do you think those men would dare try anything, tied up or not?”
 
 “I suppose not.”
 
-Hyuk Mujin nodded in agreement. Ju Hwaran and Song Ilseom then let go of the reins they’d each been holding.
+Hyuk Mujin nodded. He, Ju Hwaran, and Song Ilseom let go of the reins they’d each been holding.
 
 Not their own reins, of course. They belonged to the Seven Masters of Baekma Bang, who had been riding close beside them, hemmed in on all sides.
 
 “Thank you for trusting us.”
 
-“I’m not completely trusting you yet, so there’s no need to thank me.”
+“I don’t trust you completely, so you don’t need to thank me.”
 
 That was what I told Ma Junggeol, whose eyes had filled with tears again. Privately, though, I thought otherwise.
 
@@ -138,13 +138,13 @@ The Seven Masters of Baekma Bang had served him for more than ten years. Yet non
 
 *“My brothers are right. Chilbok, Gaettong… Was it three years ago? He thought he was a seventeen-year-old girl named Sohyang. That’s when we gave up trying to make sense of it.”*
 
-*“We don’t know when he started living in Ningxia Province, either. He just suddenly appeared, subdued the whole area with his absurd divine might, then shut himself away in his residence and wouldn’t budge. He’s been like that for nearly ten years. I know it’s hard to believe, but it’s true.”*
+*“We don’t know when he came to Ningxia Province, either. He just appeared, subdued the whole area with power you’d have to see to believe, then shut himself away and barely moved for nearly ten years. I know it’s hard to believe, but it’s true.”*
 
 The absurd stories kept coming, like sweet potato vines that refused to end no matter how many you pulled up. Listening to them, I couldn’t help wondering:
 
 *What the hell is that guy?*
 
-Everyone had their own ambitions.
+Everyone wanted something.
 
 Right or wrong, everyone had some goal they’d held in their heart at least once.
 
@@ -152,7 +152,7 @@ But Great Sir, as they described him, fit none of the possibilities.
 
 He hadn’t taken over Ningxia and ruled it as a mighty conqueror. Nor did he sound like a notorious fiend hiding his identity on the frontier, or a hermit master wandering where no one would find him as his life drew to a close.
 
-*If he wanted to rule as a conqueror, there’d be no reason to hole up in a cave. If he were a fiend, he’d have tried his damnedest to keep his identity hidden—or from the start, he’d have put the mounted bandits under his command.*
+*If he wanted to rule, why hole up in a cave? If he were a fiend, he’d be desperate to keep his identity hidden before anyone recognized him. Or he’d have taken the mounted bandits as his followers from the start.*
 
 As for a hermit master, I hardly needed to think about it.
 
@@ -214,7 +214,7 @@ But even if we concluded that the Seven Masters and Great Sir posed no danger to
 
 Jeok Cheongang’s Sound Transmission reached me again. After a moment’s thought, I made my decision. I gradually eased up on the reins and drew level with the Seven Masters of Baekma Bang.
 
-“W-why now? What is it this time…?”
+“W-what is it this time…?”
 
 Ma Junggeol and his sworn brothers were frightened before I’d said a word.
 
