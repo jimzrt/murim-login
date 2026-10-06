@@ -44,7 +44,7 @@ He raised two wrinkled fingers.
 
 “Because you need elixirs for the recipient to absorb. The practitioner must guide and circulate the qi filling the recipient’s body. Every sect has its own method, but it is no exaggeration to say the process costs a thousand gold.”
 
-“It would be difficult for anyone outside the Nine Sects and One Gang[^1] or the Five Great Families.[^2]”
+“It would be difficult for anyone outside the Nine Sects and One Gang or the Five Great Families.”
 
 “Not merely difficult. Extremely difficult. Was it Baek Museong? That Huashan-something fellow seems to have undergone it.”
 
@@ -58,7 +58,7 @@ If Baek Museong was a blue-chip stock, Huashan would certainly have considered h
 
 *Damn it. I’m the only one who missed out.*
 
-I had thought the Jin Family of Taiyuan was at least a silver spoon by Murim standards. But compared to the diamond-spoon babies who underwent the procedure as casually as double-eyelid surgery,[^3] we were nothing.
+I had thought the Jin Family of Taiyuan was at least a silver spoon by Murim standards. But compared to the diamond-spoon babies who underwent the procedure as casually as double-eyelid surgery, we were nothing.
 
 “What’s the third and final requirement?”
 
@@ -80,7 +80,7 @@ Jeok Cheongang answered without hesitation.
 
 “Gasp.”
 
-“In the Sichuan Tang Clan, they fill a jar with more than a thousand different venomous creatures, and then…”
+“In the Sichuan Tang Clan, they fill a jar with more than a thousand different poisons, and then…”
 
 The longer Jeok Cheongang talked, the more my stomach seemed to shrivel. I swallowed hard.
 
@@ -377,7 +377,3 @@ After a brief silence, Jeok Cheongang cleared his throat.
 “Ahem. Give me liquor instead of tea.”
 
 Whatever his mind might have said, Jeok Cheongang’s feet had been honest.
-
-[^1]: The Nine Sects and One Gang are a traditional grouping of major martial-arts organizations in Murim fiction.
-[^2]: The Five Great Families are a grouping of prominent martial-arts families in Murim fiction.
-[^3]: Double-eyelid surgery creates or accentuates a crease in the upper eyelid. It is a familiar cosmetic procedure in South Korea.
