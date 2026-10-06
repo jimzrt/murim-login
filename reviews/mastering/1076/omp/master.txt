@@ -1,12 +1,12 @@
 # Chapter 1076
 
-The river there was blue, and as wide as the sea.
+The water there was blue, and the lake as wide as the sea.
 
 Perhaps that was why.
 
 Over a span of time stretching back beyond anyone’s memory, an unnamed freshwater lake had grown ever larger. Then, one day, people began calling it Qinghai Lake.
 
-At this very moment, a shadow was crossing the blue waters of Qinghai Lake.
+Now a shadow was crossing its blue waters.
 
 *Splash.*
 
@@ -40,13 +40,13 @@ The middle-aged man continued steadily.
 
 “Ha ha. I know. I’m teasing.”
 
-The old man, who had just called himself all talk and no substance, smiled at his flustered Disciple and went on.
+The old man smiled at his flustered Disciple and went on.
 
 “So the days ahead will carry us along like a tailwind… I could ask for nothing more, if only that were possible. But the headwind we’ve faced has been so fierce. What are we to do?”
 
 The middle-aged man shook his head at his Master’s teasing, then answered firmly.
 
-“No matter how fierce the wind is, it can’t overturn a mountain instead of a ship.”
+“No matter how fierce the wind, it can overturn a ship, not a mountain.”
 
 “You’re right. But what if that fierce wind carries an ember?”
 
@@ -62,13 +62,13 @@ A line of Sound Transmission slipped between his trembling lips.
 
 But before he could hear the answer, the old man slowly rose and murmured:
 
-“Even so, there should be a chance to fight fire with fire.”
+“Even so, we may have a chance to set a fire against it.”
 
 At that moment—
 
 *Whoosh.*
 
-Beyond the mist as it scattered in all directions, hundreds of campfires lined the banks of Qinghai Lake, reflected in the old man’s gray-white eyes.
+The mist scattered, and hundreds of campfires along the shore of Qinghai Lake came into view. Their light filled the old man’s gray-white eyes.
 
 The sparks drifting on the wind were sparks of hope against the coming disaster.
 
@@ -90,7 +90,7 @@ He soared like a bird, crossed dozens of jang through the air, and began to desc
 
 Stepping on Empty Air was a supreme lightness skill that required several jiazi of internal energy and deep enlightenment.
 
-These people had fought a desperate battle against monsters they’d never seen or heard of until two days ago. But that hadn’t made them any less awed by the highest martial arts.
+These people had fought a desperate battle against monsters they’d never even heard of until two days ago. That didn’t make a display of high-level martial arts any less astonishing.
 
 I, however, saw it a little differently.
 
@@ -106,7 +106,7 @@ At Jeok Cheongang’s probing question, I clicked my tongue.
 
 “……Hm. So you’re not completely blind, after all.”
 
-I couldn’t tell whether he was displeased that I hadn’t played along or pleased by the progress I’d made. Jeok Cheongang murmured and gazed into the air.
+I couldn’t tell whether he was annoyed that I hadn’t played along or pleased by the progress I’d made. Jeok Cheongang looked back up at the old man.
 
 “Still, when it comes to lightness skills, he’s pretty good.”
 
@@ -128,7 +128,7 @@ Jeok Cheongang had told me about them while I was training on Mount Jiuhua.
 
 One had eventually come to be called a god. The other had returned to where he belonged.
 
-To a land far to the west, to the vast slopes of a mountain that touched the sky.
+To a land far to the west, beneath the vast slopes of a mountain that touched the sky.
 
 *Swish.*
 
@@ -136,13 +136,13 @@ At last, his toes touched the ground without a sound, and his robes settled arou
 
 The kindly-looking old man clasped his hands in greeting to everyone.
 
-“I am Cheongheoja of the Kunlun Sect. My greetings to all my fellow Daoists.”
+“I am Cheongheoja of Kunlun. My greetings to all my fellow Daoists.”
 
 “……!”
 
 “……!”
 
-An invisible wave of emotion swept through the crowd.
+A wave of shock swept through the crowd.
 
 The old man who had appeared so suddenly with such astonishing skill was none other than the Sect Leader of the Kunlun Sect.
 
@@ -158,7 +158,7 @@ That curt greeting from Murim’s veteran drill sergeant and the bane of every p
 
 “It’s been a long time, Cheongheo. You’ve got a lot more gray hair now. The last time I saw you, you still looked fairly young.”
 
-Over the shoulder of the bow-wielding lady, who was at least from a respectable family and had bothered to use polite speech, a human butcher appeared—the man who’d become the greatest of all time through his skill at cutting people down.
+Over the shoulder of the bow-wielding lady, who at least came from a respectable family and had bothered to speak politely, appeared a human butcher—the man whose skill at cutting people down had made him the greatest assassin of all time.
 
 “I thought you looked familiar. So you ended up becoming Sect Leader?”
 
@@ -172,7 +172,7 @@ The Slaughter Saint, the Bow Saint, and the Fire King Jeok Cheongang.
 
 What an insane lineup. Just looking at them was enough to take your breath away.
 
-They might look middle-aged, mature, and boyish, respectively, but with the amount of time they’d spent in Murim, they could perform the miracle of feeding five thousand with five loaves and two fish.
+They might look like a boy, a middle-aged man, and an older woman, but between them, they’d spent enough years in Murim to perform the miracle of feeding five thousand with five loaves and two fish.
 
 And Cheongheoja’s ordeal wasn’t over.
 
@@ -192,7 +192,7 @@ Pure, unfiltered madness.
 
 The arrival of that hopeless trio, every bit as disastrous as the Three Saints, made my vision dim. Yet, to my surprise, Cheongheoja chuckled.
 
-“Some respected Seniors, and some juniors I’m meeting for the first time. It’s a pleasure to meet you all again.”
+“Some respected Seniors, and some juniors I’m meeting for the first time. It’s a pleasure to meet you all.”
 
 At that moment, I had a thought.
 
@@ -200,7 +200,7 @@ Maybe the greatest sect under heaven was the Kunlun Sect.
 
 “……Wow. He actually put up with that.”
 
-The exclamation slipped from my lips before I could stop it, and Cheongheoja turned his gaze toward me.
+The words slipped out before I could stop them, and Cheongheoja turned toward me.
 
 “This is the first time I’ve seen you up close. It’s good to meet you, Fellow Daoist Jin.”
 
@@ -212,7 +212,7 @@ And our connection went a little deeper than simply having crossed paths. During
 
 I belatedly clasped my hands in a formal bow. Cheongheoja nodded with a warm smile.
 
-“It’s been a long time. I’ve heard a great deal about you since then. That boy Hak Woo was especially fond of you.”
+“It’s been a long time. I’ve heard a great deal about you since then. Hak Woo, in particular, was quite fond of you.”
 
 “Um, by any chance…”
 
@@ -234,7 +234,7 @@ So I was genuinely glad to hear what Cheongheoja said next.
 
 I already knew Qinghai Lake wasn’t our home base. Gung Gibang and the Beggars’ Sect disciples had simply come ahead to meet us; the threat from Dark Heaven hadn’t disappeared completely.
 
-But Cheongheoja’s words did raise one question…
+But Cheongheoja’s words did raise one question.
 
 “Even so, the boat seems a little, well… pretty small.”
 
@@ -248,7 +248,7 @@ It looked like it could hold a hundred people at most—nowhere near enough to c
 
 “Ha ha.”
 
-Cheongheoja laughed aloud at my honest answer, then spoke again.
+Cheongheoja laughed at my honest answer.
 
 “I suppose it might. From what you can see now.”
 
@@ -260,4 +260,4 @@ I followed Cheongheoja’s gaze. So did everyone else.
 
 *Splash.*
 
-Only then did we see dozens of ships emerge through the thick mist.
+Dozens of ships emerged through the thick mist.

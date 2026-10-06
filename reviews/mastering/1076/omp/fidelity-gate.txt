@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is largely faithful, but it shifts one description of who considers Stepping on Empty Air the pinnacle and loses a brief self-correction in the final reveal.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 58–59",
+      "current": "It’s a single ember hidden somewhere deep in the mountains, where no one knows to look.",
+      "defect": "The source places the ember somewhere at the foothills of a deep mountain, in a location no one knows about. The translation omits the foothills and changes not knowing the location into not knowing to search there.",
+      "replacement": "It’s a single ember hidden somewhere along the foothills of a deep mountain, in a place no one knows about.",
+      "rationale": "깊은 산기슭 어딘가에 숨어 describes an ember hidden somewhere at the foothills of a deep mountain, while 누구도 모르는 describes the location as unknown. “No one knows to look” shifts that detail toward people’s search behavior.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 126–132",
+      "current": "Those whose knowledge of martial arts was shallow, or who had no place in Murim, considered Stepping on Empty Air the pinnacle.",
+      "defect": "“Had no place in Murim” suggests not belonging there, rather than simply not being involved in Murim as the source says.",
+      "replacement": "Those with shallow martial arts knowledge, or who weren’t involved in Murim, considered Stepping on Empty Air the pinnacle.",
+      "rationale": "무림에 몸담지 않은 means people who were not part of or involved in Murim; it does not say they had no place in it.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 272–276",
+      "current": "I followed Cheongheoja’s gaze. So did everyone else.",
+      "defect": "The translation drops the narrator’s quick self-correction from “I” to “everyone,” which is a small comic beat in the source.",
+      "replacement": "I followed Cheongheoja’s gaze and turned my head—no, everyone could see them.",
+      "rationale": "나는, 아니 모두는 explicitly interrupts the narrator’s first-person framing to correct it to everyone, preserving the scene’s reaction and the narrator’s self-correction.",
+      "confidence": 0.94
+    }
+  ]
+}
