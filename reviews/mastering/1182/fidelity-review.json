@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "The words held not a trace of decorum, and that made the freedom in them all the clearer. The Son of Heaven raced across the blood-soaked earth.",
+      "defect": "The Korean says the Son of Heaven feels freedom as he races forward because there is no trace of decorum. The current version instead locates that freedom in the words themselves.",
+      "id": "F01",
+      "rationale": "The subject of 느끼며 (“feeling”) is the Son of Heaven; the absence of decorum sharpens his felt freedom.",
+      "replacement": "Feeling a freedom all the clearer for its utter lack of decorum, the Son of Heaven raced across the blood-soaked earth.",
+      "severity": "minor",
+      "source": "Chapter 1182, paragraph 301"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall, with one minor shift in who experiences the freedom in the final charge.",
+  "version": 1
+}

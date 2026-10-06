@@ -12,7 +12,7 @@ The battle was fierce.
 
 And desperate.
 
-Through the torrential rain, heavy enough to obscure the field, blood and chunks of flesh flew—no one could tell whose. Long, razor-sharp claws like scythes and finely honed spears and blades rushed at one another.
+Through rain heavy enough to obscure the field, blood and chunks of flesh flew—no one could tell whose. Long, scythe-sharp claws met finely honed spears and blades.
 
 *Clang!*
 
@@ -52,7 +52,7 @@ Many of the monsters didn’t suffer so much as a scratch from the sharpened spe
 
 Clods of earth burst into the air.
 
-Bodies that had been full of strength a moment ago were flung away as mere chunks of flesh. Those who witnessed the unreal sight remembered the fear they’d briefly forgotten.
+Men who had been full of strength moments ago were flung away like chunks of meat. Those who saw it happen remembered the fear they’d briefly forgotten.
 
 And right then—
 
@@ -62,7 +62,7 @@ Dozens of streaks of light plunged down from above, blocking the monsters’ rel
 
 No.
 
-They cut them down.
+Cutting it down.
 
 *Slice! Splatter!*
 
@@ -148,7 +148,7 @@ A middle-aged man who had appeared out of nowhere spoke up.
 
 “Wouldn’t it be a hundred times better for its laws to fall into disarray than for the imperial house itself to fall?”
 
-It was a disrespectful answer that could have seen him branded a traitor on the spot. Yet the Son of Heaven didn’t so much as raise an eyebrow.
+It was an answer that could have seen him branded a traitor on the spot. Yet the Son of Heaven didn’t so much as raise an eyebrow.
 
 The middle-aged man holding a silver crescent-bladed halberd had done more than anyone under heaven to protect the imperial house.
 
@@ -172,9 +172,9 @@ Yes. It had been a foolish question.
 
 Just as Baek Yeon had come to protect the Son of Heaven, the Son of Heaven had come to protect the people who followed him.
 
-Not for some grand cause, but out of compassion for his people.
+Not for some grand cause, but out of humanity.
 
-*Compassion. Compassion…*
+*Humanity. Humanity…*
 
 It was a word he hadn’t thought of in a long time.
 
@@ -194,7 +194,7 @@ Simply because he was brave?
 
 No.
 
-He felt fear and pain just like everyone else—perhaps even more than they did. But he pressed on because he believed it was the compassionate thing to do.
+He felt fear and pain like everyone else—perhaps more than anyone. But he pressed on because he believed it was the human thing to do.
 
 The path Jin Taekyung walked was narrow, but straight.
 
@@ -206,13 +206,13 @@ That mutter would have thrown the court into an uproar had the civil and militar
 
 Then he turned to the young Embroidered Uniform Guard officer who had tried to stop him.
 
-“Has your resolve still not changed?”
+“Have you changed your mind?”
 
 The officer replied in a steady voice.
 
 “With all due respect, no.”
 
-“Very well. I will withdraw in accordance with your wishes, at once. In return, you are not to leave my side for even a moment.”
+“Very well. I will withdraw as you wish, at once. You are not to leave my side for even a moment.”
 
 The officer faltered at the unexpected words. The Son of Heaven added, his voice strong,
 
@@ -224,7 +224,7 @@ The officer faltered at the unexpected words. The Son of Heaven added, his voice
 
 “……!”
 
-“I ask you again. Has your resolve still not changed?”
+“I ask you again. Have you changed your mind?”
 
 After a moment’s silence, the young officer knelt.
 
@@ -238,7 +238,9 @@ Jeong Hogun wasn’t the only one to answer.
 
 The thousand Embroidered Uniform Guards who had closed ranks around the Son of Heaven roared as one, shaking the battlefield.
 
-Their cry swept over the heads of the Imperial Guards, whose lines were rapidly collapsing under the overwhelming odds, and reached even the true enemy lying in wait beyond them.
+Their cry swept over the heads of the Imperial Guards, whose lines were rapidly collapsing under the overwhelming odds, and reached the true enemy lying in wait beyond them.
+
+*Thud. Thud.*
 
 Pitch-black armor reflected no light. Each movement brought a dull, heavy sound.
 
@@ -270,7 +272,7 @@ The Son of Heaven took a deep breath.
 
 When this battle was over, how many of them would still be alive?
 
-No—could anyone even dare to predict victory against enemies so terrifyingly powerful?
+No—could he even dare to hope for victory against enemies so terrifyingly powerful?
 
 *What would the old me have done?*
 
@@ -280,7 +282,7 @@ He would have retreated without hesitation.
 
 Even if it meant sending tens of thousands of Imperial Guards to their deaths.
 
-But the actions of one man had changed more than just this world.
+But one man’s actions had changed more than the world around him.
 
 The Son of Heaven had been reborn, too.
 
@@ -288,7 +290,7 @@ Though accepting the Maoshan Sect’s martial arts had left his body little diff
 
 Like everyone else here.
 
-Just like the man who’d awakened him once again: Jin Taekyung.
+Like the man who had awakened him: Jin Taekyung.
 
 And if Jin Taekyung were here, he would surely say this:
 
@@ -312,11 +314,11 @@ It wasn’t exactly common, but it wasn’t all that rare, either.
 
 So why?
 
-Jin Taekyung pressed down on his throbbing chest.
+Jin Taekyung pressed a hand to his throbbing chest.
 
-For a long time, he couldn’t manage a proper night’s sleep.
+For a long time afterward, he couldn’t sleep properly.
 
-Not after night gave way to dawn and the first light appeared. Not after he and his companions finally left that damned desert behind.
+Not when night gave way to dawn. Not when he and his companions finally left that damned desert behind.
 
 Not even after they passed through mountains and fields blanketed in perennial snow and reached the place where all the allied forces were supposed to rendezvous.
 
