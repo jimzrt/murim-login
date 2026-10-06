@@ -202,7 +202,7 @@ I answered without a moment’s thought.
 
 Sitting around taking up space would only make me restless.
 
-People would gawk at me like I was a monkey in a zoo, and my biggest fan, Prince Shangshan, would probably ask for an autograph.
+People would gawk at me like I was a monkey in a zoo, and my biggest fan, Prince Shangshan, would probably ask for another autograph.
 
 I would much rather hole up in my pavilion, circulate my qi, and think about martial arts. That sounded a hundred times better.
 
@@ -338,7 +338,7 @@ In the end, I emptied an entire jar by myself in less than fifteen minutes. Only
 
 Why did this remind me of a story I had once seen online about a university freshman welcome party?
 
-The difference was that the person forcing me to drink wasn’t some senior from a fossilized class year.[^1]
+The difference was that the person forcing me to drink wasn’t some senior from a fossilized class year.
 
 It was the Fire King.
 
@@ -453,5 +453,3 @@ A wave of scorching heat burst over us, carrying alcohol fumes so overpowering t
 Yet there was not a trace of drunkenness in Jeok Cheongang’s voice.
 
 “I said take your hand off what’s mine.”
-
-[^1]: In Korean university slang, a “fossil” is a student from a much older entering class who is still around campus.
