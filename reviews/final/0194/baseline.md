@@ -34,7 +34,7 @@ Considering all the help he had given me today, I could bow to him a hundred tim
 
 I pushed aside the thought that had suddenly occurred to me.
 
-The Fire Gate Clan’s divine artifact. The Fire King’s Disciple.
+The Fire Gate Clan’s sacred treasure. The Fire King’s Disciple.
 
 I also pretended not to hear the voices that had been whispering nonstop ever since.
 
@@ -88,7 +88,7 @@ Jeok Cheongang muttered in disbelief.
 
 Admittedly, his face was somewhat—quite a lot, actually—more weathered than his age suggested. Even I had mistaken him for my father at first.
 
-At least his hair was still thick, but there was no cure for a face that had taken a 160-kilometer-per-hour[^1] fastball from time itself.
+At least his hair was still thick, but there was no cure for a face that had taken a 160-kilometer-per-hour fastball from time itself.
 
 Seeing the sadness on Jin Wikyung’s face, Jeok Cheongang tried to comfort him.
 
@@ -110,7 +110,7 @@ This silence ran a little long. The Fire King furrowed his brow, relaxed it, the
 
 “Damn it. I could really use a drink.”
 
-I let out a quiet laugh. It was a feast day, after all. What kind of feast would it be without alcohol? There was alcohol everywhere.
+I let out a quiet laugh. It was a feast day, after all. What kind of feast would it be without alcohol? There was enough of it lying around to drown in.
 
 “Would you like a drink?”
 
@@ -136,7 +136,7 @@ No—in the presence of the Fire King, it blazed even more fiercely.
 
 “I never thought I’d live to see the Fire King in person!”
 
-“When the Fire King gets flustered, he goes Left Fire King, Right Fire King![^2]”
+“When the Fire King gets flustered, he goes Right Fire King, Left Fire King![^1]”
 
 “…”
 
@@ -186,7 +186,7 @@ People kept asking him to accept them as Disciples, while Sect Leaders and merch
 
 One heavily pregnant woman had even asked if she could touch his nose. She wanted to receive the Fire King’s qi so she could give birth to a great person, or something like that.
 
-*Was he a dol hareubang or something?[^3]*
+*Was he a dol hareubang or something?[^2]*
 
 It was enough to make even the onlookers snicker. How much worse must it have been for the man at the center of it all?
 
@@ -232,9 +232,9 @@ The merchant took a small wooden box from inside his robe and opened the lid. In
 
 The merchant waved his hands dramatically.
 
-“Having the honor of seeing your noble face, how could price possibly matter? It only cost a thousand silver nyang.[^4] Heh heh.”
+“Having the honor of seeing your noble face, how could price possibly matter? It only cost a thousand silver nyang. Heh heh.”
 
-A thousand silver nyang[^4] for a single ring. It ranked among the most expensive gifts the Jin Family of Taiyuan had received so far.
+A thousand silver nyang for a single ring. It ranked among the most expensive gifts the Jin Family of Taiyuan had received so far.
 
 Jeok Cheongang, however, merely nodded without much interest.
 
@@ -422,7 +422,6 @@ I watched Jeok Cheongang stagger away, then turned my gaze back to the wine croc
 
 The moon was reflected in the crock, which he had not even emptied a quarter of.
 
-[^1]: 160 kilometers per hour is about 99 miles per hour.
-[^2]: This plays on *jwa-wang-u-wang*, a Korean expression for being flustered or acting in confusion. The joke inserts *hwa* (“fire”) before each *wang* (“king”).
-[^3]: A *dol hareubang* is a stone guardian statue from Jeju Island. Folk beliefs associate touching its nose with fertility.
-[^4]: A *nyang* was a historical Korean currency unit; the amount here is a thousand silver nyang.
+[^1]: This puns on *jwa-wang-u-wang*, a Korean expression for being flustered or running around in confusion; *jwa* and *u* mean “left” and “right,” while *wang* means “king.”
+
+[^2]: A dol hareubang is a stone guardian statue from Jeju Island. Folk beliefs associate touching its nose with fertility.
