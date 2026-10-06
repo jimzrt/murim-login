@@ -44,13 +44,13 @@ Who would’ve thought those bizarre snores could sound so welcome?
 
 Everything was exactly as I remembered it. The last thirty days felt like a dream.
 
-After staring blankly around the room for a while, I walked over to Jin-ho hyung.[^1] Then I slammed the edge of my hand into his uvula.
+After staring blankly around the room for a while, I walked over to Jinho hyung. Then I slammed the edge of my hand into his uvula.
 
 Whack!
 
 “Khrrr… gack!”
 
-If it hadn’t been for this guy’s snoring, I never would have crawled into that capsule. I grabbed Jin-ho tight as he thrashed around.
+If it hadn’t been for this guy’s snoring, I never would have crawled into that capsule. I grabbed Jinho tight as he thrashed around.
 
 “Take one more. No, two.”
 
@@ -60,7 +60,7 @@ Whack! Whack!
 
 * * *
 
-“You’re both old enough to know better. Especially you, when you’re supposed to be the goshiwon[^2] manager.”
+“You’re both old enough to know better. Especially you, when you’re supposed to be the goshiwon manager.”
 
 “…Sorry.”
 
@@ -68,7 +68,7 @@ Whack! Whack!
 
 Bang.
 
-The door closed. Jin-ho turned around with a sigh.
+The door closed. Jinho turned around with a sigh.
 
 “Are you insane?”
 
@@ -86,7 +86,7 @@ Thump, thump, thump.
 
 The man next door pounded on the wall. Judging by the rhythm and force, the message was clear: *I want to kill you.*
 
-Jin-ho lowered his voice.
+Jinho lowered his voice.
 
 “Why the hell did you pull that shit? In the middle of the night, too.”
 
@@ -94,7 +94,7 @@ Jin-ho lowered his voice.
 
 “Yeah, you lunatic. It’s only three in the morning.”
 
-Jin-ho held out his phone, looking utterly dumbfounded.
+Jinho held out his phone, looking utterly dumbfounded.
 
 July 25. 3:02 a.m.
 
@@ -104,19 +104,19 @@ I checked the date and time, and my mouth fell open.
 
 I’d spent a whole month in Murim. Exactly thirty days. Yet only three hours had passed in reality.
 
-“…Hyung.[^1]”
+“…Hyung.”
 
 “Don’t talk to me. My throat hurts.”
 
 “What’s the usual time ratio for a game capsule?”
 
-“You’re like Hong Gil-dong, you bastard—popping up in the east one moment and the west the next.[^3] Even your conversation topics are all over the place.”
+“You’re like Hong Gil-dong, you bastard—popping up in the east one moment and the west the next.[^1] Even your conversation topics are all over the place.”
 
 “What’s the ratio?”
 
 “Huh?”
 
-When I asked with a stiff face, Jin-ho hyung[^1] looked briefly flustered, then answered.
+When I asked with a stiff face, Jinho hyung looked briefly flustered, then answered.
 
 “The latest capsule that came out last month can do five to one, I think.”
 
@@ -142,13 +142,13 @@ Thirty days in only three hours. What kind of time ratio was that? My head was t
 
 “What is?”
 
-There was no way I could understand this on my own. Maybe Jin-ho could come up with some kind of answer.
+There was no way I could understand this on my own. Maybe Jinho could come up with some kind of answer.
 
 After a moment’s hesitation, I spoke.
 
 “A month ago—no, three hours ago—I went into that capsule…”
 
-I’d been through so much that there was a lot to tell. Even after hearing the whole story, Jin-ho remained silent for a long time.
+I’d been through so much that there was a lot to tell. Even after hearing the whole story, Jinho remained silent for a long time.
 
 Then he said one thing.
 
@@ -160,7 +160,7 @@ Then he said one thing.
 
 “Huh?”
 
-Jin-ho hyung[^1] spoke with a serious face.
+Jinho hyung spoke with a serious face.
 
 “Just own it and apologize. Say, ‘I’m sorry. Your snoring was so loud I hit you.’ Be cool about it, you bastard.”
 
@@ -176,7 +176,7 @@ I sighed.
 
 “Come on, Taekyung. Let’s think about this rationally.”
 
-Jin-ho put on a solemn tone.
+Jinho put on a solemn tone.
 
 “Some guy smacks a sleeping person in the uvula to wake him up, then says he was trapped in a game for a month. But he checks the clock, and only three hours have passed? And the capsule is an antique that belongs in a museum?”
 
@@ -198,7 +198,7 @@ Before the man next door could smash through the wall, I lowered my voice.
 
 Nothing was faster than experiencing it firsthand. If I pulled him out after about ten minutes, he’d have no choice but to believe me.
 
-Jin-ho stared hard at me before answering.
+Jinho stared hard at me before answering.
 
 “Fine. Let’s try it, then.”
 
@@ -226,7 +226,7 @@ The door opened.
 
 *What? Why is he already out? No, how did he get out?*
 
-Jin-ho sighed at my bewildered expression.
+Jinho sighed at my bewildered expression.
 
 “What are you doing?”
 
@@ -240,7 +240,7 @@ What was that supposed to mean?
 
 “Move.”
 
-While I was still stammering, Jin-ho climbed out of the capsule, bent down, and picked something up from underneath it.
+While I was still stammering, Jinho climbed out of the capsule, bent down, and picked something up from underneath it.
 
 “What does this look like to you?”
 
@@ -256,7 +256,7 @@ I scrubbed furiously at my eyes, but nothing changed.
 
 “Taekyung. Jin Taekyung. You poor, pathetic soul.”
 
-Jin-ho gazed at me with sorrowful eyes.
+Jinho gazed at me with sorrowful eyes.
 
 “Go to a mental hospital as soon as the sun comes up. I’m going back to my room.”
 
@@ -276,7 +276,7 @@ I lay on the bed and thought.
 
 I’d played a game for thirty days in a capsule that hadn’t even been plugged in.
 
-I could understand Jin-ho’s reaction. But everything that had happened there…
+I could understand Jinho’s reaction. But everything that had happened there…
 
 *It was all real.*
 
@@ -387,6 +387,4 @@ I searched the internet for H Soft, but aside from a porn studio with the same n
 
 First, I needed to lock the door and think.
 
-[^1]: *Hyung* is how a Korean man addresses an older man he is close to.
-[^2]: A *goshiwon* is a building of small, inexpensive rented rooms, usually with shared facilities.
-[^3]: Hong Gil-dong is a legendary Korean outlaw known for appearing in different places to punish corrupt officials.
+[^1]: Hong Gil-dong is a legendary Korean outlaw famous for appearing all over the country to punish corrupt officials.
