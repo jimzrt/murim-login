@@ -4,7 +4,7 @@ Cheol Mubaek, the Tiger of Mount Heng.
 
 I had heard that name several times already. Wolhwa had said that without him, the Mount Heng Sword Sect would have been wiped out by the Red Wind Band long ago.
 
-“He’s considered a Peak master comparable to or even stronger than the Blood Wolf Sword, Lee Cheonbaek.”
+*“He’s considered a Peak master comparable to or even stronger than the Blood Wolf Sword, Lee Cheonbaek.”*
 
 She had definitely said that.
 
@@ -226,7 +226,7 @@ He hid his hands, trembling like aspen leaves, beneath his sleeves and said,
 
 “Bring everyone who’s still breathing.”
 
-“Yes.”
+“Yes, Leader.”
 
 Not long after the order was given, martial artists from the Mount Heng Sword Sect were dragged over, bound hand and foot. Darkness settled over Lee Seowol’s face.
 
@@ -344,8 +344,6 @@ Jin Taekyung, who had already felled the nearby mounted bandits, muttered, “I�
 
 “You fucking bast—”
 
-Shiiiiing! Slice!
-
 Before Pung Yang could finish speaking, another streak of Sword Energy flew in and grazed his back.
 
 Pain seared through him like fire. He barely evaded the attacks that followed and revised his assessment of Jin Mukyung.
@@ -366,4 +364,4 @@ Jin Mukyung’s blue Sword Energy was reflected in Pung Yang’s eyes, which had
 
 Slice!
 
-[^1]: A *jang* is a traditional length of 10 *ja*, or 3.03 m (9.94 ft). Fifty *jang* is about 150 m (500 ft).
+[^1]: A *jang* is a traditional unit of distance, roughly three meters.
