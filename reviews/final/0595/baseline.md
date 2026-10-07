@@ -126,7 +126,7 @@ That was enough. I gave him a small nod and walked past him and the two hundred 
 
 *Step. Step.*
 
-I dragged my exhausted body onward, walking and walking. I had to meet someone before sunset.
+I dragged my exhausted body onward. I had to meet someone before sunset.
 
 * * *
 
@@ -160,7 +160,7 @@ Song Song pressed her lips together before she could finish. She rubbed at her r
 
 “Are you insane?”
 
-“I sent Guild members to bring them somewhere safe,” she continued, her voice hoarse. “Luckily, your mother was in the middle of cooking and didn’t know anything. Hayeon, who’s with her…… is pretending she doesn’t know.”
+“I sent Guild members to bring them somewhere safe. Luckily, your mother was in the middle of cooking and didn’t know anything. Hayeon, who’s with her…… is pretending she doesn’t know.”
 
 Relief washed over me. I couldn’t imagine how badly the news about me would have shaken my mother.
 
@@ -210,7 +210,7 @@ And through the gap in the open door…… I saw the body of a person covered in
 
 At those words, I left Song Song and Im Kkeokjeong behind and forced my unmoving feet forward.
 
-The door closed quietly behind me. In the chill of the morgue, it was only him and me. Just the two of us.
+The door closed quietly behind me. In the chill of the morgue, it was just the two of us.
 
 *Swish.*
 
@@ -254,7 +254,7 @@ I gazed at its beauty through blurred eyes and felt the strength leave my body.
 
 I had reached my limit, body and heart alike.
 
-I leaned my back against the wall and sank down as if collapsing. Accepting the sleep pressing down on me with a weight greater than Taishan[^1], I thought:
+I leaned my back against the wall and sank down as if collapsing. Accepting the sleep pressing down on me with a weight greater than Taishan, I thought:
 
 *Today was a long day.*
 
@@ -288,6 +288,4 @@ They would protect him, no matter what.
 
 Warm sunset light spread through the morgue.
 
-One person’s long day had ended, but the day of the other three had not. No—in fact, they were about to become even busier.
-
-[^1]: Taishan, or Mount Tai, is a mountain in China. Its name is used here to evoke an immense weight.
+One person’s long day had ended, but the days of the other three had not. No—in fact, they were about to become even busier.
