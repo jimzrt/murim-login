@@ -52,7 +52,7 @@ Every passing martial artist would rush out and start swinging their weapons. He
 
 *Then I’ll have to ask someone for help. An inn attendant, maybe.*
 
-That was better. If he called an attendant over and slipped him a few silver nyang,[^1] the man would bring him a cloth to wipe himself down and some clothes.
+That was better. If he called an attendant over and slipped him a few silver nyang, the man would bring him a cloth to wipe himself down and some clothes.
 
 If the attendant knew who he was, it might cost extra, but that was still cheaper than a funeral.
 
@@ -64,29 +64,29 @@ Unfortunately, his traveling companions were more persistent than venomous snake
 
 No, they would probably keep going until the very moment Hyuk Mujin was on his deathbed.
 
-“Mujin…”
+*“Mujin…”*
 
-“Oh, you Hyuk bastard!”
+*“Oh, you Hyuk bastard!”*
 
-“Heh heh. You arrived right on time, Captain. And Great Hero Gung.”
+*“Heh heh. You arrived right on time, Captain. And Great Hero Gung.”*
 
-“Sob. Of course I had to arrive on time! You were late that day and shit your pants, but I’m not going to be late!”
+*“Sob. Of course I had to arrive on time! You were late that day and shit your pants, but I’m not going to be late!”*
 
-“Rest easy, Hyuk. You can stink up the place behind the folding screen all you want now.”
+*“Rest easy, Hyuk. You can stink up the place behind the folding screen all you want now.”*
 
-“…Please stop.”
+*“…Please stop.”*
 
 A miserable end, even to imagine.
 
 For a moment, he considered asking an attendant to fetch Cheongpung from their lodgings. But that would be digging his own grave.
 
-“Wow! This is the first time I’ve seen someone who shit his pants! At first, I thought you were a snake! You’re a Thousand-Year Dung-Horned Snake that looks just like Mimi!”
+*“Wow! This is the first time I’ve seen someone who shit his pants! At first, I thought you were a snake! You’re a Thousand-Year Dung-Horned Snake that looks just like Mimi!”*
 
-“Wait. Young Hero Cheongpung! Wait!”
+*“Wait. Young Hero Cheongpung! Wait!”*
 
-“Stay here. I’ll go get the others! Excuse me! Daoist from Wudang! Someone I know shit his pants over here…”
+*“Stay here. I’ll go get the others! Excuse me! Daoist from Wudang! Someone I know shit his pants over here…”*
 
-“You fucking bastard!”
+*“You fucking bastard!”*
 
 He’d be a hundred times better off walking around with a sign around his neck that read *I Shit My Pants*.
 
@@ -136,7 +136,7 @@ Hyuk Mujin’s heart dropped.
 
 “If it’s small, you can take care of it yourself.”
 
-“Wait! Hyung![^2] Father! Benefactor!”
+“Wait! Hyung! Father! Benefactor!”
 
 After a short silence, the voice returned.
 
@@ -234,15 +234,13 @@ I cut him off.
 
 “The repairs.”
 
-“…About two hundred silver nyang.[^1]”
+“…About two hundred silver nyang.”
 
-“Then let’s make it three hundred,[^1] including compensation for everything else.”
+“Then let’s make it three hundred, including compensation for everything else.”
 
 “What?”
 
-At most, part of the third-floor railing and wall had collapsed.
-
-The owner had gone out on a limb and asked for two hundred nyang,[^1] only for me to counter with three hundred. From his perspective, he probably had no idea what kind of person I was.
+The owner had gone out on a limb and asked for two hundred nyang, only for me to counter with three hundred. From his perspective, he probably had no idea what kind of person I was.
 
 But I had no qualms about offering an enormous sum.
 
@@ -348,7 +346,7 @@ For some reason, he’d since developed a round bald patch. He flinched when I l
 
 *—Be honest. You’re busy right now, aren’t you?*
 
-*—Infinite Life Buddha.[^3] I’m not busy.*
+*—Infinite Life Buddha. I’m not busy.*
 
 *—I don’t think so. I think you’ve just remembered something urgent and need to leave right away.*
 
@@ -356,7 +354,7 @@ For some reason, he’d since developed a round bald patch. He flinched when I l
 
 *—Hey, Hak.*
 
-*—Infinite Life Buddha?[^3]*
+*—Infinite Life Buddha?*
 
 *—Go. Unless you want me to pluck out every last hair on your head.*
 
@@ -441,7 +439,3 @@ For some reason, he sounded terribly anxious.
 But I wasn’t looking at Hyuk Mujin, who had finally reappeared. I was looking at the unfamiliar man behind him.
 
 He was smiling at me. Our eyes met, and I muttered, “Now who might that be…?”
-
-[^1]: A nyang is a traditional unit of currency; silver nyang refers to silver-denominated money. It has no fixed modern won exchange rate.
-[^2]: *Hyung* is a Korean term a man uses for an older brother or, familiarly, an older man.
-[^3]: “Infinite Life Buddha” is an invocation referring to Amitabha, the Buddha of Infinite Life.
