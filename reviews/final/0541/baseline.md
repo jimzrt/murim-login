@@ -160,7 +160,7 @@ Hyuk Mujin pulled a bamboo slip bearing the man’s personal details from the pu
 
 “It’s right here. That kind of rule.”
 
-“I waited an entire shichen[^1]!”
+“I waited an entire shichen!”
 
 “Oh dear. That’s unfortunate.”
 
@@ -176,7 +176,7 @@ Hyuk Mujin pulled a bamboo slip bearing the man’s personal details from the pu
 
 The Black Blood Saber and everyone watching stood with their mouths open.
 
-The Black Blood Saber was a formidable fighter, renowned even among the rough-and-tumble wandering martial artists. People said that if not for his foul temper, he could become the Sect Leader of a school that very day and build it into a mid-level sect.
+People said that if not for his foul temper, he could become the Sect Leader of a school that very day and build it into a mid-level sect.
 
 Yet Hyuk Mujin did not so much as blink before the aura he released.
 
@@ -310,9 +310,9 @@ As if to show off his regained youth, he drove qi-packed punches into every part
 
 *Wow. I’m seeing the pit of fire right here.*
 
-*Was this audition genre hip-hop?*
+Was this audition genre hip-hop?
 
-One Sun[^2]—no, Old Man Ilyang, who had not even received a necklace, lost consciousness without managing a single proper counterattack.
+One Sun—no, Old Man Ilyang, who had not even received a necklace, lost consciousness without managing a single proper counterattack.
 
 Thud.
 
@@ -328,7 +328,7 @@ I glanced through the window. Terrified applicants were fleeing, even using thei
 
 “……Oh, for fuck’s sake.”
 
-*Do they have any idea what it took to arrange this? The audition was completely fucked. Seriously.*
+Do they have any idea what it took to arrange this? The audition was completely fucked. Seriously.
 
 Jeok Cheongang caught my resentful look and answered bluntly.
 
@@ -342,7 +342,7 @@ Jeok Cheongang caught my resentful look and answered bluntly.
 
 “You can leave weeds alone. A spark can burn down a mountain.”
 
-*I mean, what was he, the chairman of a forest conservation society?*
+I mean, what was he, the chairman of a forest conservation society?
 
 I was muttering inwardly in disbelief when Jeok Cheongang continued.
 
@@ -355,6 +355,3 @@ He jerked his chin toward the window.
 “When someone leaves, someone else comes.”
 
 “Huh?”
-
-[^1]: A *shichen* is a traditional time unit of approximately two hours.
-[^2]: One Sun is a Korean rapper associated with hip-hop audition shows, where contestants who pass an initial round receive a necklace.
