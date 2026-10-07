@@ -1,0 +1,128 @@
+{
+  "chapter": 294,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.996,
+    "length_ratio": 2.152,
+    "source_characters": 5820,
+    "source_paragraphs": 185,
+    "translation_characters": 12523,
+    "translation_paragraphs": 193
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "제자",
+        "preferred": "Disciple"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "도사",
+        "preferred": "Daoist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "본단",
+        "preferred": "League headquarters"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마법",
+        "preferred": "Magic"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진수",
+        "preferred": "Jinsu"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "테스",
+        "preferred": "Tess"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "성하",
+        "preferred": "Seongha"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "제시",
+        "preferred": "Jesse"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신인",
+        "preferred": "divine man"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마력",
+        "preferred": "magical power"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "명동",
+        "romanization": "myeongdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "태릉",
+        "romanization": "taereung"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
