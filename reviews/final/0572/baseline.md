@@ -142,7 +142,7 @@ Screams and death swept across the sandy beach. Humans with special abilities ca
 
 *Whoom—crack!*
 
-One Strike.
+One strike.
 
 A single powerful sweep of its leg crushed a dozen or so humans to powder. What insignificant, feeble creatures humans were.
 
@@ -160,7 +160,7 @@ Humans were weak, and it was strong. It would make those worthless things unders
 
 *Whooooooosh!*
 
-A wave dozens of meters[^1] high rose and hurtled forward.
+A wave dozens of meters high rose and hurtled forward.
 
 Nothing could stop a wave carrying that much magic power. Everything human hands had built broke apart and sank.
 
@@ -196,7 +196,7 @@ The question had barely formed when the human descended gently and landed.
 
 *Splash.*
 
-The human stepped into a pool of green blood and stared straight at it. Sunlight shattered against the spearhead he held at an angle.
+The human stepped into a pool of green blood and stared straight at it.
 
 —Guh…!
 
@@ -252,8 +252,6 @@ An arc of White Flame slashed down like a flash of lightning.
 
 Three or four tentacles as thick as logs were cleanly severed.
 
-They were only the relatively thin tips, but anyone would feel that pain.
-
 The Kraken’s tentacle, which had been about to strike the section of Gwangan Bridge where I had stood only moments earlier, twitched and trembled before slapping against the surface of the water.
 
 *Splash!*
@@ -262,7 +260,7 @@ I had avoided the attack, but it was not over.
 
 *This is a bad place to fight.*
 
-Gwangan Bridge had already collapsed, almost split in two, but survivors were still scattered everywhere nearby. The screams coming from behind me were proof enough.
+Gwangan Bridge had already collapsed, almost split in two, but survivors were still scattered everywhere nearby.
 
 If I fought the Kraken here, there was a high chance of causing many unexpected casualties.
 
@@ -304,10 +302,8 @@ I didn’t miss the moment it faltered.
 
 *Bang!*
 
-Compressed air burst beneath my toes. The spearhead held upright plunged down, slicing through the fierce wind.
+The spearhead held upright plunged down, slicing through the fierce wind.
 
 At its tip was the face of a gigantic octopus.
 
 *Shhhhhhhk!*
-
-[^1]: Dozens of meters is roughly 20–90 m, or about 66–300 ft.
