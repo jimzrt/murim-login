@@ -64,7 +64,7 @@ But a little while later, when the swift ships picked up speed and disappeared, 
 
 Once the two swift ships had vanished without incident, lively music rose from the pleasure boat again. The fishermen smacked their lips, then turned back to their work.
 
-Half a shichen[^1] later, a strange cry rang out from somewhere.
+Half a shichen later, a strange cry rang out from somewhere.
 
 “Kkyat-meu!”
 
@@ -124,7 +124,7 @@ Everyone stared wide-eyed at the uninvited guest.
 
 It was astonishing enough to see a young man crossing the Yangtze in the middle of the night, bare from the waist up. But when they recognized the enormous creature swimming ahead of him, bound by some strange rope, they could hardly believe their eyes.
 
-“A s-sa-eo! It’s a sa-eo! A man’s riding a sa-eo!”[^2]
+“A s-sa-eo! It’s a sa-eo! A man’s riding a sa-eo!”[^1]
 
 The shout shattered the silence that had settled over the river.
 
@@ -294,7 +294,7 @@ If an environmental group had seen me, they’d have called me a destroyer of na
 
 I hadn’t cared from the start.
 
-*It’s not like I’m Shanks.*[^3]
+*It’s not like I’m Shanks.*
 
 A bighearted guy who gives up an arm because a shark looks hungry only exists in old comic books.
 
@@ -316,6 +316,4 @@ I turned my head.
 
 Beyond the deep darkness, someone was walking toward me across the surface of the water.
 
-[^1]: A *shichen* is a traditional time unit of approximately two hours; half a shichen is approximately one hour.
-[^2]: *Sa-eo* (鯊魚) is a Sino-Korean word for “shark,” distinct from the ordinary Korean word *sang-eo*.
-[^3]: Shanks is a character in the Japanese manga *One Piece* who loses an arm saving a boy from a sea creature.
+[^1]: *Sa-eo* (鯊魚) is a Sino-Korean word for “shark,” distinct from the ordinary Korean word *sang-eo*.
