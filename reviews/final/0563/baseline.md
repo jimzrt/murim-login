@@ -50,7 +50,7 @@ He had a pleasant voice and a kind face, though there was nothing weak about him
 
 Baek Hanseong, Korea’s twenty-seventh President and the youngest ever elected at forty, continued in a gentle tone.
 
-> “As those of you who saw the Blue House’s[^1] official announcement yesterday afternoon will know, these successive Mutated Gates…”
+> “As those of you who saw the Blue House’s official announcement yesterday afternoon will know, these successive Mutated Gates…”
 
 His calm, unflustered manner inspired trust. Baek Hanseong was known for speeches that held an audience with his voice and slipped in humor so subtly it was hard to tell whether he was joking. Of course people listened.
 
@@ -84,7 +84,7 @@ He was a hero who had accomplished extraordinary deeds at Cheon Taemin’s side.
 
 *Another Vatican.*
 
-The people of Korea called this 150-story skyscraper a second Blue House.[^1] In truth, it had been closer to the Vatican, where the pope lived.
+The people of Korea called this 150-story skyscraper a second Blue House. In truth, it had been closer to the Vatican, where the pope lived.
 
 Even people who freely cursed the incompetent government and lawmakers had been reluctant to speak against Ares Guild. Its name had been practically sacrosanct.
 
@@ -133,8 +133,6 @@ The young man who had been sleeping with his chin propped at an angle suddenly o
 The sight of the sweating President in his forties and the young hero in his twenties was broadcast in its entirety.
 
 It was a broadcasting accident that would go down in the history of Korean television, but no one would scold or curse Jin Taekyung for it.
-
-Even now, the people caught on camera were not frowning. They were smiling as they chanted his name.
 
 *Jin Taekyung.*
 
@@ -198,7 +196,7 @@ On the holographic TV, exactly what he had feared was happening.
 
 The great Guilds’ monopoly on Gates was an open secret. Everyone knew; no one said it aloud.
 
-Jin Taekyung had just exposed it without hesitation at a live, official Blue House[^1] press conference. And he wasn’t stopping there.
+Jin Taekyung had just exposed it without hesitation at a live, official Blue House press conference. And he wasn’t stopping there.
 
 > “What exactly happened? The magical power readings kept climbing, and no rescue team came.”
 
@@ -208,7 +206,7 @@ The reporters lunged at their prey. Quite a few had once taken Ares Guild’s di
 
 Jin Taekyung nodded.
 
-> “Yes. They still hadn’t come fifteen minutes after the initial situation began. In the meantime, the magical power readings kept rising until the Gate became a Mutated Gate.”
+> “Yes. They still hadn’t come fifteen minutes after the initial situation began. In the meantime, the mana levels kept rising until the Gate became a Mutated Gate.”
 
 > “Does that mean it could have been dealt with before the Gate fully mutated if the rescue team had arrived on time?”
 
@@ -279,5 +277,3 @@ They would believe that Jin Taekyung was the new hero—and the only person who 
 Go Jun screamed the name as though coughing up blood, all reason gone.
 
 Go Se-won watched him, his gaze sinking deep.
-
-[^1]: The Blue House was the presidential office of Korea.
