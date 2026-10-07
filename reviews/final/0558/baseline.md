@@ -154,6 +154,8 @@ Song Song gave a quiet laugh.
 
 “Oh, I and the others get paid, of course.”
 
+He opened his eyes wide and looked over Song Song’s shoulder.
+
 He stared past Song Song’s shoulder. Hunters were hurrying in every direction, each with the Peace Guild emblem on their chest.
 
 *Volunteer work? With this many people?*
@@ -202,9 +204,9 @@ When she’d first met him, she’d wondered what kind of lunatic he was. Watchi
 
 <br>
 
-“You. Let’s do a job together.”
+*You. Let’s do a job together.*
 
-“…That sounds like a line I’ve heard somewhere. First, you should know I’m not overseas Chinese.”
+*…That sounds like a line I’ve heard somewhere. First, you should know I’m not ethnic Chinese.*
 
 <br>
 
@@ -214,7 +216,7 @@ What he’d said next had been nothing like she expected.
 
 <br>
 
-“You’re better than I expected, Taurus.”
+*You’re better than I expected, Taurus.*
 
 <br>
 
@@ -256,13 +258,15 @@ Before I could finish, he strode forward and pointed at a Hunter who looked like
 
 “You there. You’re bending only eighty degrees at the waist. Make it ninety. Or you could try a grandjeol.[^1]”
 
+[^1]: A comically exaggerated Korean bow performed with the body inverted.
+
 “Y-Yes! Understood!”
 
 “…”
 
 *Don’t go adjusting their angles. And what exactly does he understand?*
 
-Just watching was enough to leave me speechless. I stopped the Guild member from attempting a grandjeol[^1], kindly advised him not to listen to this idiot, and finally made it to my destination.
+Just watching was enough to leave me speechless. I stopped the Guild member from attempting a grandjeol, kindly advised him not to listen to this idiot, and finally made it to my destination.
 
 Familiar faces were waiting there.
 
@@ -272,7 +276,7 @@ Familiar faces were waiting there.
 
 Im Kkeokjeong spread both arms to greet me. Beside him, Team Leader Choi was busy dealing with something.
 
-“Take it easy. Take it easy. What if you reopen your wounds?”
+“Take it easy, Kkeokjeong hyung. Take it easy. What if you reopen your wounds?”
 
 “I’m just happy to see you, punk.”
 
@@ -353,5 +357,3 @@ The voice had a hip-hop soul and groove to it. I gave a quiet laugh as a name ca
 *Magic Johnson.*
 
 The American Grand Mage had come to visit the Peace Guild.
-
-[^1]: A comically exaggerated Korean bow performed with the body inverted.
