@@ -72,7 +72,7 @@ He was red, and he was blue.
 
 Every time he moved, red and blue blood soaked into the sidewalk beneath him. He was covered in the blood of humans and monsters.
 
-At 190 centimeters[^1] tall, with a perfectly balanced build, he moved slowly forward, stepping through the blood.
+At 190 centimeters tall, with a perfectly balanced build, he moved slowly forward, stepping through the blood.
 
 “…Jin Taekyung?”
 
@@ -230,10 +230,6 @@ I met hundreds of eyes and said, “Bring me Go Jun.”
 
 An invisible resonance swept through the lobby and the hundreds of Hunters.
 
-As the air tingled with it, I continued slowly.
-
-“Right now.”
-
 The Security Team Leader’s face stiffened. “I don’t think that will be possible.”
 
 “Why not?”
@@ -276,15 +272,13 @@ But they would have realized one thing for certain.
 
 Standing in my way would end badly for them.
 
-The Security Team Leader looked at me with a complicated expression and muttered, “Fuck. What rotten luck.”
+The Security Team Leader looked at me with a complicated expression and muttered, “Fuck. We got caught red-handed.”
 
 “I like your honesty. So, what’s your answer?”
 
 The question wasn’t for him alone.
 
 A conflicted light appeared in the eyes of the Security Team Leader and the roughly two hundred people surrounding me from every direction.
-
-Their hands trembled around their weapons.
 
 Then a voice boomed from the large speakers installed throughout the skyscraper.
 
@@ -307,5 +301,3 @@ Red, blue, and white.
 I swung the dazzlingly white blade of my spear toward the enormous flash.
 
 Whoooooosh!
-
-[^1]: 190 centimeters is about 6 ft 3 in.
