@@ -148,6 +148,8 @@ The man’s brow furrowed.
 
 “What do you mean, what? Sima Yi. The one from *Romance of the Three Kingdoms*.”
 
+[^1]: “Sama” and “Sima” are Korean and Mandarin readings of the same surname, 司馬.
+
 Sama Pyo looked taken aback.
 
 “We share a surname. That’s all.”
@@ -168,7 +170,7 @@ Sama Pyo studied me with a strange gaze before speaking.
 
 No one at the table had to ask who he meant. Every gaze, mine included, turned toward the giant.
 
-Despite standing eight cheok[^2] tall, he was hunched in on himself, watching Sama Pyo nervously.
+Despite his enormous size, he was hunched in on himself, watching Sama Pyo nervously.
 
 “Taishan. Get up.”
 
@@ -226,7 +228,7 @@ Sama Pyo frowned.
 
 “Taishan, it’s short for ‘hey, you fucking bastards.’”
 
-Having kindly explained it to a child from the Sunshine Class,[^3] I pointed at the stairs.
+Having kindly explained it to a child from the Sunshine Class, I pointed at the stairs.
 
 “So please leave now, you fucking bastards.”
 
@@ -240,7 +242,7 @@ Their sudden wariness had one target.
 
 *Sama Pyo.*
 
-But he didn’t move. His eyes widened slightly, and he merely stared at me with an unreadable look.
+His eyes widened slightly, and he merely stared at me with an unreadable look.
 
 Then his tightly closed lips parted, and a gentle voice flowed out.
 
@@ -363,7 +365,3 @@ No. It was a bomb.
 “Aaaaaah!”
 
 “Uaaaaah!”
-
-[^1]: “Sama” and “Sima” are Korean and Mandarin readings of the same surname, 司馬. In *Romance of the Three Kingdoms*, Sima Yi is a rival of Zhuge Liang.
-[^2]: A cheok is a Korean unit of length, about 30.3 cm (11.9 in). Eight cheok is about 2.42 m (7 ft 11 in).
-[^3]: Sunshine Class is the sort of name given to a kindergarten class; the comparison casts Taishan as a young child.
