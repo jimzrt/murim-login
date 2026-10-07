@@ -1,16 +1,5 @@
 # Chapter 552
 
-
-> **System**
->
-> **Synchronization** begins. 10, 9, 8, 7… 1, 0.
->
-> **Synchronization** completed successfully. Increased stats have been applied to the body, and use is restricted for certain **Titles**.
->
-> **Logout** complete.
-
-*Ding.*
-
 > **System**
 >
 > **Synchronization** begins. 10, 9, 8, 7… 1, 0.
@@ -37,7 +26,7 @@ Strength flowed into my body, which had already surpassed human limits, and I fe
 
 “Phew.”
 
-The first thing I saw was a ceiling without a speck of dust on it. Several meters[^1] above me, it was covered by an old-fashioned painting.
+The first thing I saw was a ceiling without a speck of dust on it. Several meters above me, it was covered by an old-fashioned painting.
 
 *Is it because I haven’t seen it in a while? Or am I still not used to it?*
 
@@ -55,7 +44,7 @@ A quiet answer came from nearby.
 
 “You’ve heard of him?”
 
-“He’s famous. Are you looking down on me because my school grades were Level 7?”[^2]
+“He’s famous. Are you looking down on me because my school grades were Level 7?”
 
 “What do your school grades have to do with it? You’re much more famous than that painting now, Mr. Jin Taekyung.”
 
@@ -85,7 +74,7 @@ I’d spent more than two months in Murim, so it wasn’t a lie. Considering eve
 
 “Not really. I had to fight a dragon right at the start.”
 
-“A Dragon?”
+“A Western dragon?”
 
 “Something a little different, but close.”
 
@@ -185,7 +174,7 @@ It was also my twenty-eighth birthday.
 
 The number thirty loomed so close that my vision went dark. Then two people burst in from across the room, making a racket.
 
-“Hey, Twenty-Eight! Mom says to come eat seaweed soup!”[^3]
+“Hey, Twenty-Eight! Mom says to come eat seaweed soup!”[^1]
 
 “I hereby congratulate you on the day of your birth!”
 
@@ -335,7 +324,7 @@ I nodded silently.
 
 I took out my smartphone and whispered, “Siri, tell me today’s weather.”
 
-“Today’s weather is clear.”
+—Today’s weather is clear.
 
 “You asshole. You think I’m in the mood for wordplay? Your one and only little sister just got called that by someone else!”
 
@@ -345,7 +334,7 @@ I hurriedly straightened my clothes and bowed politely.
 
 “You really are a lunatic.”
 
-“That’s rather harsh for a first meeting. I’ll sue you for defamation by stating facts.”[^4]
+“That’s rather harsh for a first meeting. I’ll sue you for defamation by stating facts.”
 
 Hayeon’s eyes turned cold.
 
@@ -403,12 +392,8 @@ Dear Lady Kim Jeonghee.
 
 My mother.
 
-“…What are you doing, all of you?”
+“...What are you doing, all of you?”
 
-From her tiny body—not even 160 centimeters[^5] tall—I felt an aura to rival at least one of the Ten Kings.
+From her tiny body—not even 160 centimeters tall—I felt an aura to rival at least one of the Ten Kings.
 
-[^1]: One meter is about 3.28 ft; several meters is roughly 10–20 ft.
-[^2]: Korean school-record grades use a nine-level scale, with Level 1 the highest and Level 9 the lowest.
-[^3]: Seaweed soup is traditionally eaten in Korea on birthdays.
-[^4]: In South Korea, a true statement can still be grounds for a defamation claim if it harms someone’s reputation, subject to exceptions such as public interest.
-[^5]: 160 centimeters is about 5 ft 3 in.
+[^1]: Seaweed soup is traditionally eaten in Korea on birthdays.
