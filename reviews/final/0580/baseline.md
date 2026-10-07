@@ -20,11 +20,11 @@ He strode past them and muttered, “Security Team. Respond.”
 
 A faint tone sounded in his earpiece, followed at once by replies.
 
-“Team Three. Transmission complete.”
+—Team Three. Transmission complete.
 
-“Team Two. Transmission complete.”
+—Team Two. Transmission complete.
 
-“Team One. Transmission complete.”
+—Team One. Transmission complete.
 
 “I’m going to see a VIP. Open Area A and report your current locations and personnel.”
 
@@ -34,15 +34,15 @@ It would help rescue people, and it would also help repair Ares Guild’s recent
 
 But as the team leaders reported in one after another, he frowned.
 
-“All of Team Three are monitoring the target’s family in London.”
+—All of Team Three are monitoring the target’s family in London.
 
-“All of Team Two have returned from London and are standing by in headquarters’ Area A.”
+—All of Team Two have returned from London and are standing by in headquarters’ Area A.
 
-“Team One has nine members present. We’ve returned from London and are standing by on the hundredth floor of headquarters.”
+—Team One has nine members present. We’ve returned from London and are standing by on the hundredth floor of headquarters.
 
 “Team Leader of Team One. Say that again. What did you say?”
 
-“Team One has nine members present. We’re standing by on the hundredth floor—”
+—Team One has nine members present. We’re standing by on the hundredth floor—
 
 “Forget the rest.”
 
@@ -54,25 +54,25 @@ White light flared as the Teleport spell activated, taking him to Area A.
 
 “Why nine instead of ten?”
 
-“An urgent matter came up.”
+—An urgent matter came up.
 
 “An urgent matter. Who’s missing?”
 
-“Kim Ho-jung.”
+—Kim Ho-jung.
 
 “Kim Ho-jung?”
 
-“Yes.”
+—Yes.
 
 Listening to the Team Leader’s dry voice, Go Se-won crossed the hallway in Area A. His mood soured with each sharp click of his dress shoes.
 
 “That’s strange. I don’t recall receiving a report.”
 
-“My apologies.”
+—My apologies.
 
 “I’m asking for a reason, not an apology. Did he leave without permission?”
 
-“Of course not.”
+—Of course not.
 
 *Of course he didn’t.*
 
@@ -264,7 +264,7 @@ And Choi Minwoo’s killer would be one of two: an old man whose family had been
 
 “One thing is certain. Song Cheonwoo has no choice.”
 
-Go Jun murmured the words quietly, then smiled with satisfaction.
+Go Jun smiled with satisfaction.
 
 He reached up out of habit to stroke the old necklace around his neck. Darkness flickered in his eyes.
 
@@ -298,7 +298,7 @@ But the last time he had faced Go Jun, the man had become… a monster.
 
 Song had seen madness in his eyes. If Song left this place alive, Go Jun would kill his family without a moment’s hesitation.
 
-Neither the Peace Guild, nor even Jin Taekyung or “that person,” could resolve that problem.
+Neither the Peace Guild, nor even Jin Taekyung or *that person*, could resolve that problem.
 
 *So this is how it ends.*
 
@@ -318,13 +318,13 @@ A cold, fierce wind battered him.
 
 Through its howl, he seemed to hear a conversation from a few days ago.
 
-“This.”
+*“This.”*
 
-“Keep it with you. You know how dangerous it is, Director. Expensive, too.”
+*“Keep it with you. You know how dangerous it is, Director. Expensive, too.”*
 
-“…You bastard. You’re insane.”
+*“…You bastard. You’re insane.”*
 
-“Then you’ll have to go insane as well. If you want to save your family.”
+*“Then you’ll have to go insane as well. If you want to save your family.”*
 
 The man had been insane, and it had been an insane conversation.
 
@@ -340,7 +340,7 @@ His long fall ended.
 
 His neck broke first. Then the bones throughout his body shattered.
 
-Then, through his fading consciousness, Song heard something growl.
+Through his fading consciousness, Song heard something growl.
 
 —Grrrr.
 
