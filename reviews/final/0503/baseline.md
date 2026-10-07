@@ -44,13 +44,13 @@ Jeok Cheongang gave a bitter smile at Mungyeong’s hard tone.
 
 “It’s the only choice. I’m doing it for the boy.”
 
-“There are other choices. The imugi’s[^1] inner core you obtained, for one.”
+“There are other choices. The imugi’s inner core you obtained, for one.”
 
 “You know as well as I do that acquired qi from elixirs can’t cure this. Besides…”
 
 Jeok Cheongang looked down at his wrinkled hands and muttered,
 
-“This old man has grown too old. Even if the imugi’s[^1] inner core could help, I can’t use it on an old man like me on the slim chance that it might work.”
+“This old man has grown too old. Even if the imugi’s inner core could help, I can’t use it on an old man like me on the slim chance that it might work.”
 
 “…!”
 
@@ -68,7 +68,7 @@ Mungyeong stared at him for a moment, then said, “Take a boat east from Zhejia
 
 “An island country?”
 
-“You must have heard the name. The Wa Kingdom.[^2]”
+“You must have heard the name. The Wa Kingdom.[^1]”
 
 “…?”
 
@@ -94,15 +94,13 @@ Jeok Cheongang had heard of ninjas. They were much like the assassins of the Cen
 
 “I didn’t kill him. My objective was to capture him alive.”
 
-A captured target had two choices: speak after a little pain, or speak after terrible pain.
-
 No matter which one he chose, death waited at the end. In the end, the difference was only how painfully he died.
 
 “He chose the latter.”
 
 As befitted the Wa Kingdom’s finest ninja, he held out for quite some time. Unfortunately for him, Salcheonmun—the sect Mungyeong belonged to then—was unquestionably the finest assassin sect in the Central Plains.
 
-They used every torture method they knew. Amid pain worse than death, the ninja was forced to spit out every piece of information he possessed. Not just information, but every memory buried in his mind.
+And so, amid pain worse than death, the ninja was forced to spit out every piece of information he possessed.
 
 “That was when I heard about a custom in the Wa Kingdom.”
 
@@ -262,7 +260,7 @@ For the first time in a very long while, he felt at peace. A cool breeze brushed
 
 *Ahem. This is the finest auspicious site on Mount Jiuhua, personally selected by this old man.*
 
-“This rock is practically a Jangsu stone bed.[^4] Five stars.”
+*This rock is practically a long-life stone bed. Five stars.*
 
 *Ahem!*
 
@@ -284,13 +282,12 @@ A faint smile touched Jeok Cheongang’s wrinkled lips.
 
 *Yes.*
 
-His snow-white hair stirred in a breeze that had blown from somewhere. It was neither an illusion nor a mistake.
+His snow-white hair stirred in a breeze that had blown from somewhere.
 
 Fwoooosh!
 
 At last, the giant had broken his chains and risen to his feet. Wind poured from the Fire King Jeok Cheongang and swept out in every direction.
 
-[^1]: An **imugi** is a legendary Korean serpent often associated with dragons.
-[^2]: **Wa** (倭) was a historical name used in China and Korea for Japan.
-[^3]: A Korean **geun** is 600 g (about 1.32 lb).
-[^4]: **Jangsu** is a Korean stone-bed brand; Taekyung compares the rock to one of its beds and gives it a five-star rating.
+[^1]: **Wa** (倭) was a historical name used in China and Korea for Japan.
+
+[^2]: A **geun** is a traditional East Asian unit of weight; its exact value varied by time and place.
