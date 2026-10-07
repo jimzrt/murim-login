@@ -70,7 +70,7 @@ Tiger Giant Child Taishan, whose name and epithet fit him perfectly, bent at the
 
 That was a new one.
 
-I stole a glance at Jeok Cheongang. He looked ready to introduce Taishan to Yama[^1] instead of the Fire King.
+I stole a glance at Jeok Cheongang. He looked ready to introduce Taishan to Yama instead of the Fire King.
 
 Sama Pyo seemed to notice and quickly explained.
 
@@ -222,11 +222,9 @@ Tap.
 
 Sama Pyo’s long finger came down on one part of the sheet: the recruitment requirements Hyuk Mujin had scrawled in his terrible handwriting. Of all the lines beneath them, he pointed to one in particular.
 
-> \# Gender and sect affiliation don’t matter
+> \# Gender and sect affiliation don’t matter \#
 
-His soft voice continued.
-
-“I especially like this part.”
+“I especially like this part,” he said.
 
 “So?”
 
@@ -314,8 +312,6 @@ Tap. Tap.
 
 The only sound echoing through the silence was the tapping of fingers against the table.
 
-I gathered my thoughts in that brief silence and looked Sama Pyo straight in the eye.
-
 “Let’s make one thing clear first.”
 
 “By all means.”
@@ -343,5 +339,3 @@ I watched Sama Pyo and Taishan prepare to leave, my curiosity only growing. Then
 “You’re paying for that guy’s food.”
 
 “……!”
-
-[^1]: Yama is the ruler of the underworld in Buddhist tradition.
