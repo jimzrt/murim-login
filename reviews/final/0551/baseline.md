@@ -90,15 +90,15 @@ Mae Jonghak smiled at Jeok Cheongang’s outburst.
 
 Jeok Cheongang’s voice softened. “Have you made preparations in case things go wrong?”
 
-“The Hidden Shadow Pavilion has eyes and ears throughout the realm. Nanman[^2] is no exception.”
+“The Hidden Shadow Pavilion has eyes and ears throughout the realm. Nanman is no exception.”
 
 “…!”
 
-“Sending the Fire Dragon Pavilion to Nanman[^2] is the fastest and most reliable option. We don’t have enough time to raise an army right now.”
+“Sending the Fire Dragon Pavilion to Nanman is the fastest and most reliable option. We don’t have enough time to raise an army right now.”
 
-The Murim Alliance was by no means smaller than it had been during the Great Faction War. If anything, it was larger. Shaolin Temple, the Sichuan Sect, and several other sects had suffered heavy losses, but not a single province in the Nine Provinces[^3], still the territory of the orthodox faction, had fallen.
+The Murim Alliance was by no means smaller than it had been during the Great Faction War. If anything, it was larger. Shaolin Temple, the Sichuan Sect, and several other sects had suffered heavy losses, but not a single city in the Nine Provinces, still the territory of the orthodox faction, had fallen.
 
-The problem was the time and supplies it would take to gather troops and send them to Nanman[^2]. The Fire Dragon Pavilion, led by Jin Taekyung, was one of the few cards the Murim Alliance could play with confidence.
+The problem was the time and supplies it would take to gather troops and send them to Nanman. The Fire Dragon Pavilion, led by Jin Taekyung, was one of the few cards the Murim Alliance could play with confidence.
 
 “Hmm.”
 
@@ -258,7 +258,7 @@ Hyuk Mujin poked his head out of the straw. “Are we going straight to Mount Da
 
 “Of course. We’ll change horses once along the way, but nothing will happen before then.”
 
-Ju Hwaran continued without pause. “If we keep moving, two shichen[^4]. With thorough inspections, it could take three shichen[^4]. Once we meet the other two at Mount Daebyeol…”
+Ju Hwaran continued without pause. “If we keep moving, two shichen. With thorough inspections, it could take three. Once we meet the other two at Mount Daebyeol…”
 
 “We leave Henan immediately. Correct?”
 
@@ -290,7 +290,7 @@ How could I put it? I thought for a moment before going on.
 
 Ju Hwaran looked puzzled. Song Ilseom frowned as if I were talking nonsense. Leaving them to it, I burrowed deep into the straw piled in the carriage.
 
-*Two shichen[^4] to Mount Daebyeol if we’re quick. That’s plenty of time.*
+*Two shichen to Mount Daebyeol if we’re quick. That’s plenty of time.*
 
 It was time to have the dream I’d put off for so long.
 
@@ -301,6 +301,3 @@ It was time to have the dream I’d put off for so long.
 With the clear chime of a bell, my alert consciousness slowly began to sink.
 
 [^1]: Yeoahong is a traditional Chinese rice wine whose name literally means “Daughter’s Red.”
-[^2]: Nanman is a historical Chinese term for lands and peoples to the south, outside the central regions of China.
-[^3]: The Nine Provinces is a traditional name for the lands of China, not a reference to nine modern administrative provinces.
-[^4]: A shichen is a traditional time unit of approximately two hours.
