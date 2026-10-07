@@ -50,7 +50,7 @@ His eyes went round, as if this wasn’t how the scene was supposed to go. I sta
 
 He cleared his throat and gave me a solemn look.
 
-“My name is King Fury. Director of Barrier…”[^1]
+“My name is King Fury. Director of Barrier…”
 
 *Wham!*
 
@@ -78,7 +78,7 @@ The Skeleton King, who’d been getting pummeled nonstop, suddenly set his face 
 
 “…”
 
-“I hate them three thousand.”[^2]
+“I hate them three thousand.”
 
 “What the hell is wrong with you?”
 
@@ -154,7 +154,7 @@ A monster who’d adapted to capitalism. Maybe that was the real monster.
 
 And since he’d bought it himself, I couldn’t argue. It wasn’t even some undisclosed sponsorship. He’d paid for it with the money he’d recently received from the Peace Guild.
 
-“I’m quite a high earner among humans now. I hear the people of this world sort themselves into classes by annual income. Mine is a full six hundred million won![^3] Heh heh. And I’ll be making that much for the next ten years!”
+“I’m quite a high earner among humans now. I hear the people of this world sort themselves into classes by annual income. Mine is a full six hundred million won! Heh heh. And I’ll be making that much for the next ten years!”
 
 “…”
 
@@ -226,17 +226,17 @@ In that respect, none of the S-rank Hunters alive today could match him. Though 
 
 *And there’s me, too.*
 
-The Skeleton King was an undead Lü Bu[^4] who could sweep a Gate by himself. There was only one reason I’d kept someone that powerful at my side.
+The Skeleton King was an undead Lü Bu who could sweep a Gate by himself. There was only one reason I’d kept someone that powerful at my side.
 
 *His complete and utter lack of social skills.*
 
 He’d never come right out and announced what he was, but he went around advertising that he was born to be a monster.
 
-If I had taken him to the official Blue House[^5] press conference last time, he would have referred to President Baek Hanseong as a “human male.” Then the Liberation Army,[^6] led by the Lady of the House,[^7] would surely have risen up, waving Korean flags and demanding that they investigate the identity of that long-nosed bastard.
+If I had taken him to the official Blue House press conference last time, he would have referred to President Baek Hanseong as a “human male.” Then the Liberation Army, led by the Lady of the House, would surely have risen up, waving Korean flags and demanding that they investigate the identity of that long-nosed bastard.
 
 But now…
 
-“This hyung[^8] can finally relax. You even went to church, you little punk. Go on, live a little more freely from now on.”
+“This hyung can finally relax. You even went to church, you little punk. Go on, live a little more freely from now on.”
 
 *Pat, pat.*
 
@@ -332,7 +332,7 @@ I gave a quiet laugh and raised a hand instead of answering. He caught the hint 
 
 *Bang!*
 
-The door slammed shut and did not open again from sunset until the following morning.
+It did not open again from sunset until the following morning.
 
 And then…
 
@@ -377,12 +377,3 @@ Juice from the rare beef ran down his angular jaw. His next words, added almost 
 “…!”
 
 Go Jun smiled with pleasure at the frozen face of the old man, Song Cheonwoo.
-
-[^1]: This parodies Nick Fury, director of S.H.I.E.L.D. in Marvel superhero films.
-[^2]: “I love you three thousand” is a line from the superhero film *Avengers: Endgame*.
-[^3]: Six hundred million won is about $430,000 or €390,000.
-[^4]: Lü Bu was a Chinese military commander famed for his prowess in battle.
-[^5]: The Blue House was the office and residence of South Korea’s president.
-[^6]: The Korean Liberation Army was a force organized to fight Japanese colonial rule.
-[^7]: “Lady of the House” refers to a wife or woman who presides over a household.
-[^8]: *Hyung* is a Korean term a man uses for an older brother or an older male he is close to.
