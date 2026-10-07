@@ -128,7 +128,7 @@ The Skeleton King fell silent for a moment at my answer, then narrowed his eyes.
 
 “…Black?”
 
-“Mix.”[^1]
+“Mix.”
 
 “You don’t even know what good coffee tastes like. I’ll make it for you this once. Just this once.”
 
@@ -146,7 +146,7 @@ But the fact that they had entered this mansion at all meant they were no ordina
 
 Instead of answering, I looked at them. More precisely, at their tie pins.
 
-Each black-and-gold badge bore a rose of Sharon[^2] and tiny engraved letters.
+Each black-and-gold badge bore a rose of Sharon and tiny engraved letters.
 
 **President’s Security Service**
 
@@ -194,7 +194,7 @@ As my voice trailed off, all three bowed politely.
 
 *Booked without detention.* Like *surveillance detail*, it didn’t have a pleasant ring to it.
 
-I’d heard the phrase since I was a kid. Whenever a high-ranking politician or chaebol[^3] chairman got into trouble, it seemed to turn up on the news.
+I’d heard the phrase since I was a kid. Whenever a high-ranking politician or chaebol chairman got into trouble, it seemed to turn up on the news.
 
 *At least I haven’t been detained.*
 
@@ -244,7 +244,7 @@ While I stood there thinking, the Skeleton King came swaggering down the hall.
 
 “I brought your coffee. Drink it.”
 
-I looked at the steaming cup of instant coffee mix. Then I made up my mind.
+I looked at the steaming cup of instant coffee. Then I made up my mind.
 
 “Don’t want it.”
 
@@ -259,7 +259,3 @@ Leaving him growling behind me, I turned to the officers.
 “Go Se-won. He’s being held in a special detention center, right?”
 
 The officers looked bewildered for a moment, then nodded.
-
-[^1]: Korean coffee mix is instant coffee packaged with sugar and powdered creamer.
-[^2]: The rose of Sharon is South Korea’s national flower and appears on government insignia.
-[^3]: A *chaebol* is a large, usually family-controlled South Korean business conglomerate.
