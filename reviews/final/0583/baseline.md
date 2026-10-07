@@ -8,9 +8,9 @@ But the footage filling the electronic billboard gave me no time to think.
 
 —Kwooooom!
 
-“Aaaahhh!”
+—Aaaahhh!
 
-“An avalanche!”
+—An avalanche!
 
 People fled, screaming.
 
@@ -36,7 +36,7 @@ And Team Leader Choi, Butler Kim, and the Peace Guild Hunters were risking their
 
 An announcer’s voice came through the static.
 
-“The government has declared the Pyeongchang area of Gyeonggi Province a disaster zone and dispatched emergency support forces. Meanwhile, the Monster Wave in Busan…”
+—The government has declared the Pyeongchang area of Gyeonggi Province a disaster zone and dispatched emergency support forces. Meanwhile, the Monster Wave in Busan…
 
 I had no reason to listen any longer. No time, either.
 
@@ -72,7 +72,7 @@ He was barely holding back his anger, but the menacing aura leaking from him mad
 
 “B-But we can’t help it. It’s too dangerous.”
 
-“We can’t do it. Even if we somehow succeeded, it’s over 250 kilometers[^1] from Busan to Pyeongchang. We can’t cover that distance in a single jump.”
+“We can’t do it. Even if we somehow succeeded, it’s over 250 kilometers from Busan to Pyeongchang. We can’t cover that distance in a single jump.”
 
 “Try! Just find some way to try!”
 
@@ -116,7 +116,7 @@ Through it flashed the faces of those fighting in a darkness deeper still.
 
 *Please… survive.*
 
-*Until I get there.*
+Until I get there.
 
 Whoooosh.
 
@@ -220,11 +220,11 @@ He wanted to dodge the blood, but he couldn’t. His body shook from the strengt
 
 He murmured through a vision stained entirely green.
 
-Fifteen Hunters. Far too high a price compared with his own life.
+Fifteen Hunters.
 
 Still, Behemoth’s scream of pain was not unpleasant to hear.
 
-—GRAAAAAAAH! “Hu. Man!”
+—GRAAAAAAAH! Hu. Man!
 
 “…I hear you. No idea what you’re saying, though.”
 
@@ -290,7 +290,7 @@ A snort of laughter escaped the Hunters at someone’s mutter.
 
 But no one moved. Not even the Hunter who had spoken first.
 
-He looked down at his trembling legs and said bluntly, “How are we supposed to leave? I’d rather die fighting.”
+“How are we supposed to leave? I’d rather die fighting.”
 
 They all felt the same. Thousands of people were still evacuating behind them.
 
@@ -302,7 +302,7 @@ The comrades who had fallen, and Choi Minwoo, who had charged Behemoth to the en
 
 “Why’d that elephant bastard suddenly stop moving?”
 
-The few who remained steeled themselves to charge Behemoth. Just as they were about to rush forward, a quiet voice spoke.
+The few who remained steeled themselves to charge Behemoth.
 
 “You needn’t die.”
 
@@ -342,7 +342,7 @@ Kim Hwajong’s smile disappeared.
 
 “Go!”
 
-“…!”
+“...!”
 
 The force of his shout left the Hunters no room to argue. They clenched their teeth, took Choi Minwoo’s limp body, and gave a brief bow before launching themselves down the steep slope.
 
@@ -367,5 +367,3 @@ The old butler had sent everyone away and stood alone at the edge of the cliff. 
 **Hell Fire.**
 
 Ruuuuumble!
-
-[^1]: 250 kilometers is about 155 miles.
