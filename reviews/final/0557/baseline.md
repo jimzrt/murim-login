@@ -34,7 +34,7 @@ I didn’t know which word to use for monsters called Ents, but I knew one thing
 
 That wasn’t a guess. I was certain. Even the Cyclops watching from behind the Ents as though it were their king was no exception.
 
-The three jiazi[^1] of Scorching Yang Qi coursing through me were my proof. I’d defeated countless powerful enemies to get here; I was my own witness. And the blue-white Force rising around White Flame’s spearhead was the judge.
+The three jiazi of Scorching Yang Qi coursing through me were my proof. I’d defeated countless powerful enemies to get here; I was my own witness. And the blue-white Force rising around White Flame’s spearhead was the judge.
 
 The verdict came swiftly, and it was destructive.
 
@@ -46,7 +46,7 @@ Blue flames evaporated the moisture around me. In less than an instant, White Fl
 
 *Shwaak!*
 
-There was no explosive sound. No scream.
+There was no explosive sound.
 
 Only a gust of wind, and a faint line drawn through the air by the Extreme Yang energy on my spearhead.
 
@@ -71,29 +71,6 @@ Blue-white light burst outward, illuminating the forest.
 In its wake, the ground lay blackened and melted. Hundreds of Ents stood frozen in place. Then a clear bell rang from somewhere.
 
 *Ding. Ding. Ding.*
-
-
-> **System**
->
-> - Critical Strike!
->
-> - You defeated **Level 95 Corrupted Ent Great Warrior**!
->
-> - You defeated **Level 90 Corrupted Ent Vanguard**!
->
-> - You defeated **Level 89 Corrupted Ent Vanguard**!
->
-> - …
->
-> - …
->
-> - …
->
-> - Since the level difference between you and the defeated targets is 20 or more, the EXP gained is reduced.
->
-> - Since you defeated 20 or more **Corrupted Ents** with a single strike, bonus EXP has been awarded!
->
-> - You obtained a large amount of EXP and Fame!
 
 > **System**
 >
@@ -121,28 +98,6 @@ But the System notifications didn’t end there.
 
 *Ding.*
 
-
-> **System**
->
-> - **Giant’s Roar** has activated!
->
-> - The effect of **Intimidation** has been slightly neutralized!
->
-> - Some enemies have escaped the pressure of **Intimidation**!
-
-
-> **System**
->
-> - You have been surrounded by a great many enemies. But do not be afraid. It is not you who must retreat, but the enemy.
->
-> - The effect of the Title **One Against a Thousand** has activated!
->
-> - Number of identified enemies: 281
->
-> - Since you are facing a large number of enemies, all your attributes will temporarily increase according to the number of enemies.
->
-> - When fighting a large number of enemies, your Stamina consumption during battle is greatly reduced, and you will not easily feel fatigue!
-
 > **System**
 >
 > - You have been surrounded by a great many enemies. But do not be afraid. It is not you who must retreat, but the enemy.
@@ -163,7 +118,7 @@ Two months ago, I’d earned the Title by single-handedly sweeping away the unde
 
 The bells rang in quick succession, and all my attributes—including **Strength** and **Stamina**—rose slightly.
 
-But that wasn’t all. One of the greatest effects of **One Against a Thousand** was its ability to maximize a single attribute.
+One of the greatest effects of **One Against a Thousand** was its ability to maximize a single attribute.
 
 > **System**
 >
@@ -177,7 +132,7 @@ But that wasn’t all. One of the greatest effects of **One Against a Thousand**
 
 *Intimidation.*
 
-The power to suppress enemies and encourage allies. An ability that could change the flow of an entire battlefield instead of affecting only me. The System’s information hadn’t been wrong in the slightest.
+The power to suppress enemies and encourage allies. An ability that could change the flow of an entire battlefield instead of affecting only me.
 
 The encirclement closing around me faltered. Thick branches that had been thrashing violently stopped in place.
 
@@ -279,7 +234,7 @@ I swept past like the wind, slashing in every direction. Flames crossed the air,
 
 *Ding. Ding. Ding.*
 
-Hearing the bells ring noisily in my ears, I twisted aside. A tree trunk shot toward me with tremendous force, grazed my side, and pierced the ground.
+A tree trunk shot toward me with tremendous force, grazed my side, and pierced the ground.
 
 *Boom!*
 
@@ -297,7 +252,7 @@ Its level wasn’t the only thing that was high. The Ent Elder had enough intell
 
 I brought my spearhead down diagonally without hesitation.
 
-“Welcome, Chikorita.[^2]”
+“Welcome, Chikorita.”
 
 —……!
 
@@ -305,7 +260,7 @@ I brought my spearhead down diagonally without hesitation.
 
 The hundreds of branches it hastily gathered to defend itself were useless. So were the thorns it fired at me.
 
-Along the path of my spearhead, the tree—several meters[^3] around—slowly split apart.
+Along the path of my spearhead, the tree—several meters around—slowly split apart.
 
 *Crash! Fwoosh!*
 
@@ -325,7 +280,7 @@ The thought weighed on me, but I had to put it aside. A gigantic shadow was plun
 
 *Whoom!*
 
-A rock over ten meters[^4] in diameter—no, something closer to a meteorite—crushed the air beneath it as it fell.
+A rock over ten meters in diameter—no, something closer to a meteorite—crushed the air beneath it as it fell.
 
 I chose to break through it head-on.
 
@@ -396,8 +351,3 @@ The second and final form of the Blazing Flame Divine Spear, which concentrated 
 Blue flames fell toward the giant’s head.
 
 *Shwoooooosh. Slash!*
-
-[^1]: A *jiazi* is a sixty-year cycle in the traditional Chinese calendar; three jiazi are 180 years.
-[^2]: Chikorita is a Grass-type Pokémon.
-[^3]: Several meters of circumference is roughly 10–20 ft.
-[^4]: Ten meters is about 33 ft.
