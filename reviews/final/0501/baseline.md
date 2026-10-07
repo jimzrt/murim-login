@@ -8,7 +8,7 @@ On the way back after parting with Zhuge Feng, I asked the question out of the b
 
 “Mount Song…”
 
-The very place where Shaolin Temple—the Mount Tai and Northern Dipper[^1] of the Murim—stood.
+The very place where Shaolin Temple—the Mount Tai and Northern Dipper of the Murim—stood.
 
 Only three months ago, the Star-Array Grand Banquet, a grand gathering of the Murim under Heaven, had begun there. Dark Heaven had unleashed a storm of blood on that same ground. Now the New Murim Alliance would be born there.
 
@@ -26,7 +26,7 @@ Contrary to my expectations, Jin Wikyung gave a small shake of his head.
 
 “Then Great Hero Wipeng came because…”
 
-“The Jin Dragon Squad is our family’s finest fighting force. As the Lesser Family Head, I would never summon half its members merely to serve as porters, even if they were carrying the Son of Heaven’s jade seal.[^2]”
+“The Jin Dragon Squad is our family’s finest fighting force. As the Lesser Family Head, I would never summon half its members merely to serve as porters, even if they were carrying the Son of Heaven’s jade seal.”
 
 “So the date was moved up.”
 
@@ -280,13 +280,13 @@ Jin Wikyung’s voice went dry.
 
 A memory of when we had first arrived in Hubei suddenly flashed through my mind.
 
-The hostile looks from the people. And Jin Wikyung questioning the official who had surrounded the ferry landing with government soldiers.
+And Jin Wikyung questioning the official who had surrounded the ferry landing with government soldiers.
 
-“By the way, do you know a man surnamed Yi whose given name is Hongcheon?”
+*“By the way, do you know a man surnamed Yi whose given name is Hongcheon?”*
 
-“H-he was recently appointed Provincial Administration Commissioner. May I ask what your relationship with him is…?”
+*“H-he was recently appointed Provincial Administration Commissioner. May I ask what your relationship with him is…?”*
 
-“I have met him a few times and shared a drink or two. I helped him when he needed it.”
+*“I have met him a few times and shared a drink or two. I helped him when he needed it.”*
 
 Jin Wikyung looked straight at me. His gaze was gentle, but a cold blade lay behind it.
 
@@ -322,7 +322,7 @@ Jin Wikyung’s fist trembled, as if he were remembering the paperwork hell of t
 
 I shrugged and turned away.
 
-Jin Wikyung asked where I thought I was going when hyung[^3] was talking to me, and whether my affection for him had cooled. Without turning around, I answered,
+Jin Wikyung asked where I thought I was going when hyung was talking to me, and whether my affection for him had cooled. Without turning around, I answered,
 
 “You said it’s in a month. I’m going to get ready to leave.”
 
@@ -335,7 +335,3 @@ With the people who were by my side, and whom I wanted beside me in the days to 
 The mutter that slipped between my lips vanished without a trace beneath the noise around us.
 
 I scratched my chin and looked up at the dizzyingly high cliff.
-
-[^1]: Mount Tai and the Northern Dipper are symbols of eminence; together, they describe someone or something held in the highest regard in a field.
-[^2]: The emperor’s jade seal symbolized imperial authority.
-[^3]: *Hyung* is a Korean term a man uses for an older brother or an older man with whom he is close.
