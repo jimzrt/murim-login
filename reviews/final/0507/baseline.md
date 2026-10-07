@@ -16,11 +16,11 @@ The Murim beyond the Central Plains. The Murim outside the Murim.
 
 Some people called the barbarians beyond the Great Wall built by an ancient emperor the Outer Lands, but Jeok Cheongang had always dismissed such talk with a snort.
 
-*Does the Great Wall surround the whole world? The world beneath the heavens is exactly that—the world beneath the heavens. The lands beneath the sky are boundlessly vast, and each has its own Murim.*
+*“Does the Great Wall surround the whole world? The world beneath the heavens is exactly that—the world beneath the heavens. The lands beneath the sky are boundlessly vast, and each has its own Murim.”*
 
-Maybe it was just his nature, but Jeok Cheongang’s outlook was nothing like the stale Zhonghua[^1] chauvinism you’d expect from an old man of his era.
+Maybe it was just his nature, but Jeok Cheongang’s outlook was nothing like the stale Zhonghua chauvinism you’d expect from an old man of his era.
 
-The records left by earlier Sect Leaders had probably helped. Unlike Jeok Cheongang, who’d been a Lü Bu[^2] stuck at the foot of a mountain whenever he wasn’t fighting in the Great Faction War, his predecessors had gone out and indulged their social-butterfly tendencies to the fullest.
+The records left by earlier Sect Leaders had probably helped. Unlike Jeok Cheongang, who’d been a Lü Bu stuck at the foot of a mountain whenever he wasn’t fighting in the Great Faction War, his predecessors had gone out and indulged their social-butterfly tendencies to the fullest.
 
 Though their records read less like documents written for future generations and more like diaries written for their own satisfaction.
 
@@ -28,7 +28,9 @@ Though their records read less like documents written for future generations and
 
 I recalled a few I’d read in Fire Gate Cavern.
 
-**Year xx, Month x, Day x. Cheonbong, Third Sect Leader of the Fire Gate Clan.**
+---
+
+Year xx, Month x, Day x. Cheonbong, Third Sect Leader of the Fire Gate Clan.
 
 I had grown sick of the Central Plains. War raged on all sides, and Murim was a complete mess. So I went to India to broaden my horizons.
 
@@ -46,7 +48,9 @@ When more monks came with an even larger mob, I crippled every last one and burn
 
 It was a fine sight.
 
-**Year xx, Month x, Day x. Songhak, Fifth Sect Leader of the Fire Gate Clan.**
+---
+
+Year xx, Month x, Day x. Songhak, Fifth Sect Leader of the Fire Gate Clan.
 
 I have always held my Grandmaster, the Third Sect Leader, in the deepest respect. Following in his footsteps, I traveled the world and explored the Outer Murim.
 
@@ -66,9 +70,11 @@ Of course, if you are stronger than I am, just fight them.
 
 Ah, and if you go to that Gan-whatever river in India, jump in and wash yourself immediately. Wash yourself twice.
 
-**Year xx, Month x, Day x. Gu Jincheon, Ninth Sect Leader of the Fire Gate Clan.**
+---
 
-I went to Nanman.[^3] I destroyed the Five Poisons Sect.
+Year xx, Month x, Day x. Gu Jincheon, Ninth Sect Leader of the Fire Gate Clan.
+
+I went to Nanman. I destroyed the Five Poisons Sect.
 
 I went to Persia. I met people who wore things called turbans instead of hero headbands.
 
@@ -84,7 +90,9 @@ To the future Disciple reading this: you go.
 
 Ah, and I learned the name of that Gan-whatever river. The Ganges River. If you go to India, make sure you wash yourself there first. Be sure to wash.
 
-**Year xx, Month x, Day x. Han Xin, Twelfth Sect Leader of the Fire Gate Clan.**
+---
+
+Year xx, Month x, Day x. Han Xin, Twelfth Sect Leader of the Fire Gate Clan.
 
 This unworthy Disciple followed the records of his ancestors to India and went straight into the Ganges River.
 
@@ -95,6 +103,8 @@ I moved to another spot to wash my body and saw a turd float past.
 When I went upstream, I found several hundred people throwing corpses into the river and taking shits.
 
 For fuck’s sake, how could you pull this kind of bullshit on me?
+
+---
 
 “……”
 
@@ -236,7 +246,7 @@ I couldn’t help marveling at how the thuggish behavior of a Sect Leader from g
 
 More importantly, the Beast Miao King was well disposed toward the Fire Gate Clan, and that was part of why he’d sided with orthodox Murim in the Great Faction War……
 
-“Then there’s a good chance the Nanman Beast Palace will join this Murim Alliance.”
+“Then there’s a good chance the Nanman Beast Palace will join the New Murim Alliance.”
 
 “I can’t say for sure. Even this old man cannot make an easy judgment about that. But if the Beast Miao King I remember is still the same, he will help orthodox Murim.”
 
@@ -259,7 +269,3 @@ Mungyeong watched Mu Song’s trembling eyes in silence, then clicked his tongue
 “You know who I am, don’t you?”
 
 “……!”
-
-[^1]: *Zhonghua* is a historical term for Chinese civilization. Here it refers to the belief that it stands at the center of the world.
-[^2]: Lü Bu was a warrior of China’s Three Kingdoms era renowned for his fighting prowess.
-[^3]: *Nanman* is a historical Chinese term for peoples and lands to the south of the Central Plains; it does not name a single country.
