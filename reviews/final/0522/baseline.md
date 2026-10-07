@@ -34,7 +34,7 @@ He was right. This was exactly what that saying meant.
 
 But in this case, we couldn’t have noticed. The lamp had been so bright we could barely open our eyes.
 
-With hundreds of people dying across Hubei Province, it would have been strange to pay much attention to a Killing Ghost Wudang was already pursuing. Especially when the culprit we’d finally uncovered was an imugi[^1] driven mad by magical power.
+With hundreds of people dying across Hubei Province, it would have been strange to pay much attention to a Killing Ghost Wudang was already pursuing. Especially when the culprit we’d finally uncovered was an imugi driven mad by magical power.
 
 *We didn’t have time to worry about anything else.*
 
@@ -96,7 +96,7 @@ Not that I had much to add myself. From what the letter said, Thousand-Faced Fox
 
 I pointed to the first line of the letter. “Jang Sam. In his fifties, with a family.”
 
-Wudang hadn’t assumed a monster like this had simply dropped out of the sky. They’d examined its corpse closely, found several distinguishing features, and investigated. That had led them to a fisherman from a village less than a hundred li[^2] from Mount Wudang.
+Wudang hadn’t assumed a monster like this had simply dropped out of the sky. They’d examined its corpse closely, found several distinguishing features, and investigated. That had led them to a fisherman from a village less than a hundred li from Mount Wudang.
 
 “They say he went out alone to fish more than a month ago and vanished without a trace. When he failed to return after several days, his children petitioned the local authorities.”
 
@@ -128,7 +128,7 @@ Mae Jonghak, who’d been listening quietly, murmured, “He might have eaten a 
 
 “Either way, that seems likeliest for now. It would explain his appearance and how he grew strong enough to evade Wudang for days.”
 
-Thousand-Faced Fox’s expression hardened. “What about the possibility that the same thing happened somewhere else, as it did with the imugi[^1] you defeated? What you call a ‘rift.’”
+Thousand-Faced Fox’s expression hardened. “What about the possibility that the same thing happened somewhere else, as it did with the imugi you defeated? What you call a ‘rift.’”
 
 “…”
 
@@ -161,8 +161,6 @@ Put simply:
 A powder keg was safe as long as no fire touched it. But that also meant it became more dangerous than anything else the moment someone set it alight.
 
 You’d wonder what kind of lunatic would do that, except the lunatics of Dark Heaven had already set Hubei Province’s powder keg alight once.
-
-Murim as it stood was like a vast powder keg on the verge of exploding.
 
 And the second and third Gates would be the enormous sparks that set it off.
 
@@ -261,6 +259,3 @@ Mae Jonghak took Jeok Cheongang’s hand and held it tight.
 “…”
 
 *Be honest. You and Cheongpung are blood relatives, aren’t you?*
-
-[^1]: An imugi is a serpent-like creature in Korean folklore, often associated with dragons.
-[^2]: This uses the Chinese li, about 500 m (0.311 mi). A hundred li is about 50 km (31 mi).
