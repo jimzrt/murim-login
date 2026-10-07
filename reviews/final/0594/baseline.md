@@ -138,7 +138,7 @@ I stood there for a moment. Then I realized what was wrong.
 
 Why hadn’t the System window announcing the kill appeared?
 
-I had driven a spearhead into the center of his chest and burned his organs. I had watched his face fall into the pool of blood and felt him stop breathing.
+I had driven a spearhead into the center of his chest and burned his organs. I had watched and felt him stop breathing with my own eyes.
 
 “Don’t tell me.”
 
@@ -184,7 +184,7 @@ Before long, I found the answer.
 
 Blood.
 
-Not the bright red of human blood. Drops of monster blood tinged blue.
+Not the bright red of human blood. Blue drops of monster blood, faintly gleaming.
 
 There was no mistaking what that meant. I stared at the monster blood on my hand, then shot forward.
 
@@ -204,7 +204,7 @@ My quiet voice echoed down the corridor. Go Jun—or rather, the *monster*—tur
 
 Whatever he was trying to say came out as a metallic rasp. Compared with the rest of him, that was nothing.
 
-He stood four meters[^1] tall. His arms and legs were grotesquely swollen, as if they might burst. His body looked like creatures of different species had been thrown together, each part bearing its own shape and features.
+He stood four meters tall. His arms and legs were grotesquely swollen, as if they might burst. His body looked like creatures of different species had been thrown together, each part bearing its own shape and features.
 
 Only his face had kept anything like its original form: a human face half-covered in scales, with blood-red eyes shining between them.
 
@@ -217,8 +217,6 @@ Fear and hatred mingled in his eyes as he looked at me. I took in the sight of h
 “Shut…… up. This…… this wasn’t what I wanted either—”
 
 *Crack! KRAK!*
-
-It happened in an instant.
 
 Before he could finish, his right arm suddenly bent as if an invisible hand had twisted it. Blue blood burst from the break.
 
@@ -343,5 +341,3 @@ That was the end of the monster who had become neither a hero like Cheon Taemin 
 The familiar chime rang in my ears. I picked up Go Jun’s head from the pool of blood and crossed the space where I alone remained, my steps slow and unsteady.
 
 I was tired.
-
-[^1]: Four meters is about 13 ft.
