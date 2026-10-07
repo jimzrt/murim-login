@@ -46,9 +46,9 @@ Hyuk Mujin went downstairs at a leisurely pace, then came racing back.
 
 “Bring him in at once! Bring him innnn!”
 
-*Wait, why is hyung[^1] here?*
+*Wait, why is hyung here?*
 
-Starting with the Sect Leader of the Kongtong Sect, one of the Nine Sects and One Gang, a steady stream of renowned figures of Murim came to visit.
+Starting with the Sect Leader of the Kongtong Sect, one of the Nine Sects and One Gang, a steady stream of renowned masters of Murim came to visit.
 
 The Family Head of the Nangong Family, whom I already knew, came in person. People from sects and families I’d formed connections with while traveling across the Murim world arrived one after another.
 
@@ -170,7 +170,7 @@ It had moved me, but I hadn’t thought much more of it. To everyone else who’
 
 The platform had been packed with people from prestigious sects and families, including the Nine Sects and One Gang and the Five Great Families.
 
-Murim had reached such an extreme level of population aging that the platform could have passed for a senior center. Even the men in their forties who’d managed to get up there were little more than pu’er tea[^2] runners. Yet Cheongpung and I, barely past twenty, had the audacity to take part in that glorious, historic moment.
+Murim had reached such an extreme level of population aging that the platform could have passed for a senior center. Even the men in their forties who’d managed to get up there were little more than pu’er tea runners. Yet Cheongpung and I, barely past twenty, had the audacity to take part in that glorious, historic moment.
 
 The sight had clearly startled everyone. Some nodded, acknowledging the ability and qualifications of those two young punks. Others seemed to find it deeply irritating.
 
@@ -204,7 +204,7 @@ Still, Zhongnan was a venerable orthodox sect and one of the Nine Sects and One 
 
 *Hang on. This isn’t fair. Why is everyone swarming me?*
 
-At the thought, I looked toward the rice weevil—or rather, the dumpling grub—fidgeting in a corner with Mimi-chan.[^3]
+At the thought, I looked toward the rice weevil—or rather, the dumpling grub—fidgeting in a corner with Mimi-chan.
 
 “Why, Benefactor?”
 
@@ -230,7 +230,7 @@ Even on the day of the Mount Song Resolution, he’d bounced around in delight b
 
 *Is he a genius or a lunatic?*
 
-*Probably both. Hmm.*
+Probably both. Hmm.
 
 As I was thinking that, Cheongpung yawned and spoke.
 
@@ -250,7 +250,7 @@ Cheongpung took Mimi, the Thousand-Year Poison Horned Snake, off his shoulder an
 
 “Yes. I made it after watching Mimi move.”
 
-*Then why did it look nothing like martial arts?* I asked with complete sincerity.
+Then why did it look nothing like martial arts? I asked with complete sincerity.
 
 “Please tell me this martial art isn’t called Squirming. Or Toughening Up. Something like that.”
 
@@ -288,7 +288,7 @@ Cheongpung hadn’t walked. He’d slid, so fast that even I could barely follow
 
 “Yes! It’s called Mimi Step! Would you like to learn it, Benefactor?”
 
-*He really is insane. In more ways than one.*
+*He really is insane.* In more ways than one.
 
 I stared at Cheongpung with my mouth hanging open, then shook my head.
 
@@ -301,7 +301,3 @@ Just as Cheongpung’s shoulders drooped, Hyuk Mujin’s voice came from outside
 “Captain. There’s a visitor here.”
 
 *A visitor? Was there anyone else left who could come see me?*
-
-[^1]: *Hyung* is a Korean form of address a man uses for an older brother or an older male acquaintance.
-[^2]: Pu’er is a fermented tea from Yunnan, China.
-[^3]: The Japanese suffix *-chan* is an affectionate form of address.
