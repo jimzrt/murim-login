@@ -258,7 +258,7 @@ She had a point. Ju Hwaran had been heir to the Yongbong Escort Bureau, once amo
 
 Escort bureaus traveled far and wide. To complete their assignments on time, they used whatever means they could, learning the roads and gathering information wherever they went.
 
-And during the Great Faction War, Ju Hwaran’s grandfather, the Escort King, had completed his legendary Ten-Thousand-Li Journey[^2] while evading the Demonic Cult’s countless watchers.
+And during the Great Faction War, Ju Hwaran’s grandfather, the Escort King, had completed his legendary Ten-Thousand-Li Journey while evading the Demonic Cult’s countless watchers.
 
 “Great Hero Jin.”
 
@@ -337,4 +337,3 @@ But right now, at least, I knew what I had to say.
 A bright smile spread across Ju Hwaran’s face.
 
 [^1]: Young Chang is a Korean piano manufacturer.
-[^2]: This uses the Chinese *li*, approximately 500 m (0.311 mi). Ten thousand *li* is approximately 5,000 km (3,100 mi).
