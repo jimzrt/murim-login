@@ -20,7 +20,7 @@ Silence fell. Unnamed stared at me, his gaze shaking as though an earthquake had
 
 *That’s what I want to ask.*
 
-*Amitabha[^1]. Could you be Dark Heaven?*
+*Amitabha. Could you be Dark Heaven?*
 
 *What kind of crazy question is that?*
 
@@ -64,7 +64,7 @@ All of this happened in the blink of an eye. Faced with the collective madness o
 
 “No! That’s not it!”
 
-“Amitabha[^1]! Everyone, stop! That man is my master, Master Hong Dao’s…”
+“Amitabha! Everyone, stop! That man is not a fiend! He is the late Master Hong Dao’s…”
 
 At Unnamed’s shout, the martial artists nearest us widened their eyes.
 
@@ -106,7 +106,7 @@ Fair enough. For Jeok Cheongang, he’d held back a long time.
 
 Whoosh. Fwoom!
 
-*Bye-bye, Moon Beauty Saber. Enjoy the Disco Pang Pang.[^2]*
+*Bye-bye, Moon Beauty Saber. Enjoy the Disco Pang Pang.*
 
 Moon Beauty Saber rushed forward like a streak of light, then shot backward like a cannonball and slammed deep into the wreckage.
 
@@ -184,6 +184,8 @@ With everyone watching, the Thunderbolt Saber King continued in a solemn voice.
 
 “I see.”
 
+I nodded, then asked,
+
 I nodded, then asked, “So why did you start swinging your saber?”
 
 “That was…”
@@ -206,21 +208,21 @@ I asked seriously,
 
 “…”
 
-That shut him up. If he had a conscience, it had to: twenty people had been carried to the medical clinic. Most were Third Rate martial artists caught in the aftermath of blows exchanged between two of the Ten Kings—the Fire King and the Thunderbolt Saber King.
+That shut him up. If he had a conscience, it had to: nearly twenty people had been carried to the medical clinic. Most were Third Rate martial artists caught in the aftermath of blows exchanged between two of the Ten Kings—the Fire King and the Thunderbolt Saber King.
 
 *We’re lucky it stopped there.*
 
-If the poet Yun Dong-ju[^3] suffered at even the wind stirring a leaf, they suffered like hell in the howling blade wind.
+If the poet Yun Dong-ju suffered at even the wind stirring a leaf, they suffered like hell in the howling blade wind.[^1]
 
 “Still… I heard they’re all safe.”
 
-“They are. They’ll be safe for at least the next fifteen days, since they’ll spend them lying in the medical clinic.”
+“They are. They’ll be safe for at least the next two weeks, since they’ll spend them lying in the medical clinic.”
 
 Their taste of the afterlife had left its mark.
 
 Martial artists might live on the edge of a blade, but PTSD was no joke. I’d visited the victims. Their faces were pale, and they couldn’t even speak.
 
-The worst of all was the wandering martial artist called Moon Beauty Saber. He was trembling so violently that I almost mistook Henan for Antarctica’s King Sejong Station.[^4]
+The worst of all was the wandering martial artist called Moon Beauty Saber. He was trembling so violently that I almost mistook Henan for Antarctica’s King Sejong Station.
 
 “None of this would have happened if you hadn’t ordered that all-out attack, Great Hero Peng.”
 
@@ -236,11 +238,11 @@ The Thunderbolt Saber King’s round eyes widened at my continued criticism.
 
 At my question, Unnamed, my accomplice in the corner, ran his fingers over his prayer beads.
 
-“Benefactor Jin is correct. Even if Shakyamuni[^5] had been in my position, he would have rushed forward crying out for the destruction of demons.”
+“Benefactor Jin is correct. Even if Shakyamuni had been in my position, he would have rushed forward crying out for the destruction of demons.”
 
-“Could you uproot a bodhi tree[^6] and crush a fiend’s skull with it?”
+“Could you uproot a bodhi tree and crush a fiend’s skull with it?”
 
-“Amitabha[^1]. I could.”
+“Amitabha. I could.”
 
 “…”
 
@@ -276,7 +278,7 @@ The Thunderbolt Saber King’s face flushed red. He was about to leap to his fee
 
 “Quiet. All of you, shut your mouths.”
 
-The voices and moods could hardly have been more different. Perhaps the only thing connecting the two men was the two characters in their title: Ten Kings.
+Perhaps the only thing connecting the two men was the two characters in their title: Ten Kings.
 
 “I was rash,” the Azure Sky Sword King said plainly. “It had been so long since I last felt my blood stir. I let it get the better of me.”
 
@@ -330,8 +332,6 @@ Perhaps he felt a bit guilty himself. Jeok Cheongang cleared his throat, then op
 
 It was utter nonsense, yet somehow it had a logic of its own.
 
-Momentarily at a loss for words, the Thunderbolt Saber King muttered,
-
 “Returned to Youth only changed the skin you’re wearing. The contents are still the same. Your personality is still completely fucked.”
 
 “You ought to do something about the skin on your face, Peng. All you’ve done is get old without Returning to Youth.”
@@ -358,9 +358,4 @@ Ahead of us stood a long stretch of city wall and a vast crowd. Above the iron g
 
 **Murim Alliance.**
 
-[^1]: *Amitabha* is the name of a Buddha, spoken here as a Buddhist invocation.
-[^2]: Disco Pang Pang is a Korean amusement ride that spins and jolts its riders.
-[^3]: Yun Dong-ju was a Korean poet of the Japanese colonial period, known for poetry marked by intense sensitivity and introspection.
-[^4]: King Sejong Station is a South Korean research station in Antarctica.
-[^5]: Shakyamuni is the historical Buddha.
-[^6]: The bodhi tree is the tree under which the Buddha is said to have attained enlightenment.
+[^1]: Yun Dong-ju was a Korean poet of the Japanese colonial period, known for poetry marked by intense sensitivity and introspection.
