@@ -56,7 +56,7 @@ I tightened my grip on the spear shaft and sent internal energy surging through 
 
 A small explosion sounded somewhere deep beneath its wet, glistening skin.
 
-“Gaaaaaah! Hu. Maaaan!”
+—Gaaaaaah! Hu. Maaaan!
 
 I had aimed for its head to end things quickly. But perhaps because of its enormous size, even a devastating blow couldn’t kill it instantly.
 
@@ -68,7 +68,7 @@ That much wasn’t going to change.
 
 I felt the Kraken stiffen at my flat response. It must have been startled to hear a human speaking the Demon Realm language, which only highly intelligent monsters could use.
 
-“You. Are. Clearly. Human.”
+—You. Are. Clearly. Human.
 
 “Of course I’m human, you fucking bastard. Do I look like an octopus to you?”
 
@@ -96,7 +96,7 @@ Blue blood surged upward, and the Kraken’s body trembled.
 
 It had thrashed so violently that every yacht and fishing boat moored nearby was smashed to pieces. Now, instead of a thunderous roar, it let out a faint groan.
 
-“……You. Human.”
+—……You. Human.
 
 “Shut your mouth.”
 
@@ -106,7 +106,7 @@ Sensing victory, I yanked White Flame from its eye at lightning speed and brough
 
 Or I was about to.
 
-“Did you. Humans. Not give me. Power?”
+—Did you. Humans. Not give me. Power?
 
 “……!”
 
@@ -120,21 +120,21 @@ Its limp body stirred at my question.
 
 The Kraken was laughing. I was sure of it.
 
-“Interesting.”
+—Interesting.
 
 “Answer my question. Before it stops being interesting.”
 
-“Did I not. Tell you? You were the ones. Who gave me power.”
+—Did I not. Tell you? You were the ones. Who gave me power.
 
 “What do you mean by—”
 
 Something felt wrong. As I tried to ask again, the Kraken drew a ragged breath and spoke.
 
-“It must be cramped. Isn’t it?”
+—It must be cramped. Isn’t it?
 
 “……!”
 
-“Go outside. There’s a wider sea.”
+—Go outside. There’s a wider sea.
 
 I froze.
 
@@ -150,13 +150,13 @@ The Kraken was imitating someone I didn’t know. No—it was closer to replayin
 
 The unfamiliar voice that followed confirmed it.
 
-“The one who gave me power. The one who led me outside.”
+—The one who gave me power. The one who led me outside.
 
 Blue blood ran like a tear from its charred eye.
 
 The Kraken looked at me with that eye—already dead, yet still full of hatred and despair—and continued.
 
-“They were all human.”
+—They were all human.
 
 “……!”
 
@@ -180,9 +180,7 @@ But…
 
 *Damn it. It is possible.*
 
-The total amount of magical power determined whether a Gate mutated or a Monster Wave occurred.
-
-If the magical power exceeded the amount a Gate could contain, the two phenomena described above would occur.
+If the magic power exceeded the amount a Gate could contain, the two phenomena described above would occur.
 
 And there was a way to raise that amount artificially.
 
@@ -190,7 +188,7 @@ And there was a way to raise that amount artificially.
 
 The scattered pieces fell into place.
 
-If it absorbed a Magic Gem containing a monster’s magical power—an unpurified Magic Gem that had not undergone the purification process at human hands—it could be the only answer to this mystery.
+If it absorbed a Magic Gem containing a monster’s magic power—an unpurified Magic Gem that had not undergone the purification process at human hands—it could be the only answer to this mystery.
 
 *But who? Why?*
 
@@ -208,21 +206,21 @@ Ironically, only one creature could answer them.
 
 I spat out the words. The Kraken gave a low, rumbling laugh.
 
-“Why. Should I?”
+—Why. Should I?
 
 “Because if you don’t tell me right now, I’ll kill you.”
 
-“How frightening. Truly frightening.”
+—How frightening. Truly frightening.
 
 The mockery was obvious.
 
 I pressed the spearhead farther in, but it only laughed through the pain and refused to yield.
 
-“Ask. Your own kind.”
+—Ask. Your own kind.
 
 “You fucking octopus.”
 
-“Kill. Me. Human.”
+—Kill. Me. Human.
 
 “……!”
 
@@ -294,35 +292,15 @@ Then I realized what the Kraken had really intended.
 
 *Fwoooooosh!*
 
-Black liquid spread through the air for dozens of meters[^2] in every direction.
+Black liquid spread through the air for dozens of meters in every direction.
 
 It had planned this from beginning to end. With my guard down, I had no room to dodge all of it.
 
 *Splash!*
 
-Even moving as fast as I could, I couldn’t avoid all of it as it spread across such a wide area.
-
 And the instant the black liquid—perhaps roughly the amount in a cup of milk—touched my entire body, an unexpected System alert rang out.
 
 *Beep.*
-
-
-> **System**
-> You have come into contact with **Kraken’s Ink**!
->
-> **Kraken’s Ink** is a deadly poison with tremendous toxicity!
->
-> Status Abnormality: **Poisoned** has been applied!
->
-> Status Abnormality: **Paralyzed** has been applied!
->
-> **Strength** temporarily decreases significantly!
->
-> **Agility** temporarily decreases drastically!
->
-> **Unaffected by a Hundred Poisons** begins resisting!
->
-> Using **internal energy** can rapidly drive out the poison!
 
 > **System**
 > You have come into contact with **Kraken’s Ink**!
@@ -369,7 +347,7 @@ Gwangan Bridge lay ahead. Survivors were still there, waiting to be rescued.
 
 “You…!”
 
-“Human! Try. To. Kill. Me!”
+—Human! Try. To. Kill. Me!
 
 There was scarcely time to think. Countless thoughts flashed through my mind, but the answer had been decided from the start.
 
@@ -403,5 +381,4 @@ At the end of its path was the Kraken’s enormous body, bearing down on the sur
 
 Blue blood fell like rain.
 
-[^1]: A jiazi is a traditional sixty-year cycle; three jiazi equal 180 years.
-[^2]: A meter is about 3.28 ft.
+[^1]: A jiazi is a traditional sixty-year cycle.
