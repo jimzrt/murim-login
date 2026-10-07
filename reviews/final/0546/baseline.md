@@ -24,7 +24,7 @@ Cheongpung swallowed and stood up before answering.
 
 “……”
 
-*You bastard, Cheongpung. You Guan Yu[^1] bastard. You know when dumplings are getting cold, but you haven’t noticed everyone’s stares turning cold…*
+*You bastard, Cheongpung. You Guan Yu bastard. You know when dumplings are getting cold, but you haven’t noticed everyone’s stares turning cold…*
 
 *Well, he’s always been like this.*
 
@@ -36,27 +36,27 @@ At the words *Azure Dragon Pavilion Master*, Cheongpung pouted and nodded. His r
 
 The name Two Dragons Pavilion remained unchanged, but it had been divided internally into my Fire Dragon Pavilion and Cheongpung’s Azure Dragon Pavilion. On our way to the conference, Cheongpung had told me he’d wanted a different name. Mungyeong had fiercely opposed it.
 
-“I don’t like that name.”
+*I don’t like that name.*
 
-“Why? I think Azure Dragon Pavilion sounds pretty cool. Still, it’s a little unfair. You’re the Pavilion Master. Shouldn’t you at least get to choose the name?”
+*Why? I think Azure Dragon Pavilion sounds pretty cool. Still, it’s a little unfair. You’re the Pavilion Master. Shouldn’t you at least get to choose the name?*
 
-“I thought so too, but Grandpa Mun hated my idea. He threatened to quit if I used a name like that.”
+*I thought so too, but Grandpa Mun hated my idea. He threatened to quit if I used a name like that.*
 
-“It was that bad? What name did you want?”
+*It was that bad? What name did you want?*
 
-“Dumpling Pavilion.”
+*Dumpling Pavilion.*
 
-“……”
+*……*
 
-“Or Sweetmeat Pavilion.”
+*Or Sweetmeat Pavilion.*
 
-“……Oh. Right.”
+*……Oh. Right.*
 
-“Hoo. I hate Grandpa Mun. What’s so great about Azure Dragon Pavilion, anyway?”
+*Hoo. I hate Grandpa Mun. What’s so great about Azure Dragon Pavilion, anyway?*
 
 It was ridiculous even now. *You should be grateful, you lunatic.*
 
-*Why not just call it Gim Bugak?*[^2] The words reached my throat, but I swallowed them. Not because the matter was already settled.
+*Why not just call it Gim Bugak?* The words reached my throat, but I swallowed them.[^1] Not because the matter was already settled.
 
 The highest authority in orthodox Murim had finally entered the conference hall.
 
@@ -102,7 +102,7 @@ Mae Jonghak smiled at the grumbling Jeok Cheongang.
 
 It was hard to imagine anyone busier than Mae Jonghak, but he wasn’t wrong. Every person gathered here was a vital cog in the vast Murim Alliance.
 
-*The Two Halls, Three Divisions, Five Pavilions, Five Gardens, and Ten Squads.*[^3]
+*The Two Halls, Three Divisions, Five Pavilions, Five Gardens, and Ten Squads.*[^2]
 
 The only organization standing shoulder to shoulder with the Alliance Leader’s Hall, led by Murim Alliance Leader Mae Jonghak, was the Five Kings Hall, now headed by Jeok Cheongang. Beneath them were the Three Divisions and Five Pavilions belonging to the Inner Hall, followed by the Five Gardens and Ten Squads, which were occupied by people from the Five Great Families and the Nine Sects and One Gang.
 
@@ -166,7 +166,7 @@ The next moment, the cloth stained dark red with blood was pulled away, and ever
 
 “Alliance Leader, what is that thing?”
 
-Voices filled with shock burst out from every corner. Those who already knew about it and those who did not were all forced to feel the same shock at that moment. What the cloth had concealed was that horrifying.
+Voices filled with shock burst out from every corner. Those who already knew about it and those who did not were all forced to feel the same shock at that moment.
 
 *A monster.*
 
@@ -186,7 +186,7 @@ A black horn rose from the center of its forehead, and four arms protruded from 
 
 As the murmurs of dismay continued, someone spoke up.
 
-“Infinite Life Buddha.[^4] It is hard to believe. I felt the same way at first.”
+“Infinite Life Buddha. It is hard to believe. I felt the same way at first.”
 
 The speaker was an old Daoist with deep-set eyes and a snow-white beard that reached his chest: the Sect Leader of Wudang. The people who turned toward him looked puzzled.
 
@@ -198,7 +198,7 @@ The Sect Leader of Wudang nodded.
 
 “That’s right. Some of you may already have heard, but that man—no, that thing—was once a fisherman named Jang Sam.”
 
-The old Daoist was relating what I had heard earlier at the Hidden Shadow Pavilion. A fisherman with an ordinary name, no different from anyone else, had disappeared. One month later, he had reappeared as a monster and a Killing Ghost that had thrown Hubei Province into an uproar.
+A fisherman with an ordinary name, no different from anyone else, had disappeared. One month later, he had reappeared as a monster and a Killing Ghost that had thrown Hubei Province into an uproar.
 
 “When it was first found, its martial arts were only Third Rate. But its strength and movements were said to be inhuman. Each time it reappeared, it looked more grotesque and had grown stronger. As though…”
 
@@ -214,7 +214,7 @@ The shock swept through the hall. Suffocating silence followed, until Jeok Cheon
 
 The Sect Leader of Wudang shook his head.
 
-“Infinite Life Buddha.[^4] I can’t be certain of that either. But if that thing is what Dark Heaven intended to create, and it truly can use the Essence-Siphoning Great Technique…”
+“Infinite Life Buddha. I can’t be certain of that either. But if that thing is what Dark Heaven intended to create, and it truly can use the Essence-Siphoning Great Technique…”
 
 His voice trailed off. His face was rigid, and so were most of the faces around him.
 
@@ -280,7 +280,5 @@ I stared into dozens of pairs of burning eyes before answering.
 
 “……!”
 
-[^1]: In *Romance of the Three Kingdoms*, the general Guan Yu defeats an enemy commander before his wine has time to cool. Taekyung likens Cheongpung’s concern for his cooling dumplings to that episode.
-[^2]: Gim bugak is a fried Korean seaweed snack. Its final syllable, *gak*, sounds like the word rendered “Pavilion” in the names above.
-[^3]: The Korean names this group the “Ten Squads,” but the parenthetical characters give “Nine Squads.”
-[^4]: “Infinite Life Buddha” is a religious invocation referring to Amitabha Buddha, who is associated with boundless life.
+[^1]: Gim bugak is a fried Korean seaweed snack. Its final syllable, *gak*, sounds like the word rendered “Pavilion” in the names above.
+[^2]: The Korean names this group the “Ten Squads,” but the parenthetical characters give “Nine Squads.”
