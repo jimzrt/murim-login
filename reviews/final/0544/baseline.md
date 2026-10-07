@@ -132,11 +132,11 @@ Jeok Cheongang had been at death’s door when the two of them were here, so he 
 
 “……That’s a little gross, but I agree.”
 
-Jeok Cheongang was a Supreme Peak master who had reached the Returned to Youth[^1] realm. If he considered Song Ilseom’s skill considerable, then no one could dispute the man’s martial prowess.
+Jeok Cheongang was a Supreme Peak master who had reached the Returned to Youth realm. If he considered Song Ilseom’s skill considerable, then no one could dispute the man’s martial prowess.
 
 *Another genius the world never knew about.*
 
-Song Ilseom had lost his family young and been left alone in the world. He had wandered battlefields as a sword boy[^2] for wandering martial artists until, at last, he drew a sword of his own.
+Song Ilseom had lost his family young and been left alone in the world. He had wandered battlefields as a sword boy for wandering martial artists until, at last, he drew a sword of his own.
 
 He wasn’t a flower raised in a greenhouse. He was a weed that had weathered the worst the world could throw at him.
 
@@ -344,6 +344,3 @@ But no matter how much I thought about it, nothing could possibly be better than
 *Ding. Ding. Ding.*
 
 Clear bell tones burst out like celebratory fireworks, and resounding System alerts rang in my ears.
-
-[^1]: Returned to Youth is a martial-fiction concept in which attaining an advanced realm restores a person’s youthful appearance.
-[^2]: A sword boy was a young attendant hired by wandering martial artists to carry swords and perform errands, including dangerous ones.
