@@ -20,7 +20,7 @@ No martial artist could have missed the events of the past three months. If Unna
 
 “You were in closed-door training.”
 
-“Amitabha.[^1] I was staying in Repentance Cave.”
+“Amitabha. I was staying in Repentance Cave.”
 
 “Repentance Cave? Does that mean…”
 
@@ -48,7 +48,7 @@ But pain changes people, for better or worse. In Unnamed’s case, it had change
 
 “This is just my opinion, but I doubt you spent all your time in Repentance Cave thinking.”
 
-“Amitabha.[^1] I owe it all to the grace of the Buddha and Shaolin.”
+“Amitabha. I owe it all to the grace of the Buddha and Shaolin.”
 
 Unnamed pressed his palms together toward the sunlit window, then looked at me with calm eyes. There was a pure power in his gaze. A year ago, his body had been packed with solid muscle. Now he was as lean as an old tree. But the quiet aura flowing from him was on another level from before.
 
@@ -92,7 +92,7 @@ I hadn’t heard who had succeeded Dharma King Hong Dao. Gung Gibang had said it
 
 The Shaolin Bloodshed during the Star-Array Grand Banquet had been unprecedented, but I’d had to leave Henan for Sichuan within a day or two. Jeok Cheongang was in critical condition, and finding the Divine Physician couldn’t wait.
 
-“Amitabha.[^1] I was truly glad when I finally heard that Benefactor Jeok had made a full recovery. My Master must be watching over me from somewhere. I’m sure he was relieved to see his friend well again.”
+“Amitabha. I was truly glad when I finally heard that Benefactor Jeok had made a full recovery. My Master must be watching over me from somewhere. I’m sure he was relieved to see his friend well again.”
 
 “Ah, speaking of which, you must have met the Old— No, my Master already.”
 
@@ -108,7 +108,7 @@ What was I supposed to say to that?
 
 While I hesitated over his sudden self-deprecating joke, Unnamed politely pressed his palms together.
 
-“Amitabha.[^1] That was a joke.”
+“Amitabha. That was a joke.”
 
 “Oh. Ah. Right.”
 
@@ -120,13 +120,13 @@ A joke like that was funny coming from someone who hadn’t suffered quite so mu
 
 “…No, it was funny.”
 
-“Amitabha.[^1] Then I’ll continue.”
+“Amitabha. Then I’ll continue.”
 
 “…”
 
 “That was the joke.”
 
-*Should I just crack his head open with a wooden fish?*[^2]
+*Should I just crack his head open with a wooden fish?*
 
 I stared at him, dumbfounded, then let out a quiet laugh. If he could make clumsy jokes like these, he’d come through it better than I’d feared.
 
@@ -156,13 +156,13 @@ All sorts of people, sure. But something was off.
 
 Unnamed gave a low laugh as I watched the martial artists everywhere I looked.
 
-“Amitabha.[^1] They’ve come from all across the land after hearing the news.”
+“Amitabha. They’ve come from all across the land after hearing the news.”
 
 “Even at a glance, there seem to be more of them than there were at the Star-Array Grand Banquet.”
 
 “The Star-Array Grand Banquet was a festival for young prodigies. The founding of the Murim Alliance concerns everyone. People from both the orthodox and unorthodox factions are here, and quite a few little-known eccentrics have come out of seclusion as well.”
 
-That made sense. The stakes were entirely different, so of course more people had come. If the Star-Array Grand Banquet was the Han River fireworks festival, the founding of the Murim Alliance was Jindotgae One.[^3] Unlike at the banquet, there were hardly any commoners in sight.
+That made sense. The stakes were entirely different, so of course more people had come. If the Star-Array Grand Banquet was the Han River fireworks festival, the founding of the Murim Alliance was Jindotgae One.[^1] Unlike at the banquet, there were hardly any commoners in sight.
 
 *They can feel it too. They know what’s happening here.*
 
@@ -176,7 +176,7 @@ I didn’t need to ask Unnamed. Wrapped in furs despite the warm spring day and 
 
 “That’s right. The Murong Family.”
 
-“My word. It’s well over a thousand li[^4] from Liaoning to Henan. They got here quickly.”
+“My word. It’s well over a thousand li from Liaoning to Henan. They got here quickly.”
 
 “They’re said to have the blood of horse-riding nomads for a reason. What luck. I never thought I’d see members of the Murong Family in my lifetime.”
 
@@ -202,7 +202,4 @@ Boom!
 
 A tremendous roar sounded from somewhere.
 
-[^1]: Amitabha is the name of a Buddha, used here as a Buddhist invocation.
-[^2]: A wooden fish is a carved wooden percussion instrument struck to keep rhythm during Buddhist chanting.
-[^3]: Jindotgae One is South Korea’s highest military alert level, used when an enemy attack is considered imminent.
-[^4]: A Chinese li is about 500 m (0.311 mi); a thousand li is about 500 km (311 mi).
+[^1]: Jindotgae One is South Korea’s highest military alert level, used when an enemy attack is considered imminent.
