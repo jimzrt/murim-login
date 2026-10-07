@@ -6,35 +6,6 @@ After everyone left, Hyuk Mujin hurried off to gather what we needed, leaving me
 
 *Ding.*
 
-
-> **System**
->
-> **Quest**
->
-> **Journey to Nanman**
->
-> Murim Alliance Leader Mae Jonghak has given the Fire Dragon Pavilion its first mission.
->
-> You must now head to Nanman and respond proactively to whatever circumstances may arise.
->
-> What lies ahead for you and the Fire Dragon Pavilion is unknown.
->
-> Always remain alert and act with a flexible mindset.
->
-> **Grade:** Peak
->
-> **Restriction:** Jin Taekyung and Fire Dragon Pavilion members
->
-> **Mission:** Enter Nanman (Incomplete)
->
-> **Reward:** Linked Quest
->
-> ???
->
-> **Failure:** Gain the Title **Can't Go to Nanman**
->
-> **Fame** and **Trust** drop significantly.
-
 > **System**
 >
 > **Quest**
@@ -111,7 +82,7 @@ Mungyeong strolled into the annex and glanced at the cups on the table and the c
 
 “I can tell by looking.”
 
-Cheongpung added innocently, “I saw the others leaving. I thought I should come when no one else was here.”
+“I saw the others leaving. I thought I should come when no one else was here.”
 
 “…”
 
@@ -293,7 +264,7 @@ That would have been an ordinary sight anywhere, not just in Henan—if the man 
 
 Finally.
 
-Ju Hwaran must have finished all the preparations within half a shichen[^1], just as she had boasted, and sent a carriage that could leave Henan discreetly.
+Ju Hwaran must have finished all the preparations within half a shichen, just as she had boasted, and sent a carriage that could leave Henan discreetly.
 
 I could already sense Hyuk Mujin coming up the stairs.
 
@@ -336,5 +307,3 @@ I stood there and gave a small nod before immediately setting off.
 *Step.*
 
 It was a powerful stride that echoed unusually loudly.
-
-[^1]: A shichen is a traditional Chinese time unit of approximately two hours; half a shichen is about one hour.
