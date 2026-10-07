@@ -36,7 +36,7 @@ Go Jun had grown far more violent lately, but surely he wouldn’t order every m
 
 Of course he had.
 
-Go Se-won was an A-rank Hunter who could hear a mosquito’s wings flutter from ten meters[^1] away.
+Go Se-won was an A-rank Hunter who could hear a mosquito’s wings flutter from ten meters away.
 
 He asked again because he’d heard something he would rather not have heard at all.
 
@@ -204,11 +204,11 @@ The communicator he’d switched off for a while gave a faint chirp and lit up.
 
 As soon as the brief command ended, a sharp voice came through the communicator.
 
-“Team One, all members standing by. Nothing to report.”
+—Team One, all members standing by. Nothing to report.
 
-“Team Two, all members standing by. Nothing to report.”
+—Team Two, all members standing by. Nothing to report.
 
-“Team Three, all members standing by. Nothing to report.”
+—Team Three, all members standing by. Nothing to report.
 
 The three teams had thirty members in total. Even within Ares Guild, where only the best were gathered, they had been chosen from among the best of the best.
 
@@ -284,7 +284,7 @@ Go Se-won waited for the words he’d been hoping to hear. Instead, Go Jun’s n
 
 Go Jun set a spotless white envelope on the table.
 
-Considering the nature of the matter, it obviously contained a check for a substantial sum. Judging from his experience, it was probably at least ten billion won.[^2]
+Considering the nature of the matter, it obviously contained a check for a substantial sum. Judging from his experience, it was probably at least ten billion won.
 
 But an envelope of bonus money wasn’t what he’d wanted.
 
@@ -341,6 +341,3 @@ I let out a quiet breath.
 *Clap, clap, clap.*
 
 A vigorous round of applause rang out from behind me.
-
-[^1]: Ten meters is about 33 ft.
-[^2]: Ten billion won is about $7.1 million or €6.5 million.
