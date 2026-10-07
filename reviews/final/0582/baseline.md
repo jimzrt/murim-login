@@ -18,7 +18,7 @@ It was too enormous, too powerful, to be called a beast.
 
 A single step—and the impact was tremendous.
 
-Its huge foreleg crushed the Gate control station beneath a shadow that stretched more than ten meters[^1] in every direction. The ground shook as if an earthquake had struck. The cable running down the mountain snapped, and a gondola fell.
+Its huge foreleg crushed the Gate control station beneath a shadow that stretched more than ten meters in every direction. The ground shook as if an earthquake had struck. The cable running down the mountain snapped, and a gondola fell.
 
 Then, from a memory long buried, Kim Hwajong recalled a monster’s name.
 
@@ -82,7 +82,7 @@ And one person watching the scene trembled with emotion.
 
 The feeling was deeply familiar and achingly distant. Kim Hwajong remembered a face whose features had grown faint with time and murmured, “So you were here.”
 
-Past and present overlapped. What Kim Hwajong saw reflected in his eyes was Cheon Taemin and Choi Minwoo at the same time—and Choi Minwoo and Cheon Taemin at the same time.
+What Kim Hwajong saw reflected in his eyes was Cheon Taemin and Choi Minwoo at the same time—and Choi Minwoo and Cheon Taemin at the same time.
 
 Song Cheonwoo had seen the same thing and felt despair. But even in this perilous moment, joy welled up from deep within the old butler’s chest.
 
@@ -236,7 +236,7 @@ Limbs flew amid sprays of blood. Everything in my spear’s path was severed. Fr
 
 It was hot.
 
-The asphalt melting under the extreme heat was hot. So were the tires of the car spinning uselessly after slamming into the side of a bus.
+So were the tires of the car spinning uselessly after slamming into the side of a bus.
 
 And my heart, as I looked at the driver dead behind the wheel, his foot still on the accelerator.
 
@@ -270,7 +270,7 @@ Maybe the father and son had looked toward nearby Gwangan Bridge and made a prom
 
 My fist punched through hard scales and crushed bone and flesh.
 
-I watched the Merman silently as it let out a short groan. Then I grabbed the warm, pulpy thing my hand had touched and tore it out.
+Then I grabbed the warm, pulpy thing my hand had touched and tore it out.
 
 *SPURT! Thud!*
 
@@ -300,7 +300,7 @@ For a moment, I wondered what I looked like to it. I didn’t ask. The eyes of t
 
 “We’re done here.”
 
-At the dry voice that sounded strangely unfamiliar even to me, a Hunter who appeared to be a superior jolted and answered, “Huh? Ah, yes. Yes.”
+At the dry voice that sounded strangely unfamiliar even to me, a Hunter who appeared to be a superior jolted and answered,
 
 “How are things elsewhere?”
 
@@ -341,5 +341,3 @@ A small inset image appeared beside him, along with a caption.
 > **Peace Guild Hunter Choi Minwoo. Caught up in the Monster Wave in Pyeongchang…**
 
 God fucking damn it.
-
-[^1]: Ten meters is about 33 ft.
