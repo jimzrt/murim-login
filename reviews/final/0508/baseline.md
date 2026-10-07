@@ -80,7 +80,7 @@ They traded remarks like a pair of prim old men in a nursing home, then turned t
 
 I wanted to know that most of all. I watched Mu Song’s mouth, waiting for his answer, but it came from Mungyeong instead.
 
-“It was them. The boatmen who came along when we went after the imugi.[^1] Or should I say the river bandits of Water Dragon Stronghold? Am I right?”
+“It was them. The boatmen who came along when we went after the imugi. Or should I say the river bandits of Water Dragon Stronghold? Am I right?”
 
 Mu Song swallowed.
 
@@ -124,7 +124,7 @@ Mu Song, Jeok Cheongang, and I all stared at him wide-eyed.
 
 “What? Y-you won’t?”
 
-“You’re not going to kill him?”
+“You’re not going to kill me?”
 
 “That old man’s gone mad—wait. Can infirmities of old age spread to other people?”
 
@@ -202,7 +202,7 @@ Panicking would only make this worse. I answered calmly.
 
 “No, it isn’t.”
 
-“It is. Why are you playing Gung Ye?[^2]”
+“It is. Why are you playing Gung Ye?[^1]”
 
 Mungyeong didn’t know who Gung Ye was, but he could tell it wasn’t a compliment. I did my best to ignore his chilling gaze and changed the subject.
 
@@ -286,7 +286,7 @@ What did I care if Jeok Cheongang gave me hell or rang a bell? I’d rather jump
 
 “What?”
 
-What the hell? Could he read minds? Was he really Gung Ye?[^2]
+What the hell? Could he read minds? Was he really Gung Ye?
 
 A suspicion flashed through my head, and I found myself looking around for a palace guard with a mace.
 
@@ -324,11 +324,8 @@ Before I could say another word, Mungyeong clicked his tongue and went on.
 
 “Then… it’s time to begin.”
 
-Ding!
-
 > **System**
 >
 > - Linked Quest **Fake Murim Martial Artist—Stage 2** has begun!
 
-[^1]: An *imugi* is a legendary Korean serpent often associated with dragons.
-[^2]: Gung Ye was a Korean ruler traditionally portrayed as claiming to read people’s minds.
+[^1]: Gung Ye was a Korean ruler traditionally portrayed as claiming to read people’s minds.
