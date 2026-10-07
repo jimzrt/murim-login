@@ -124,6 +124,25 @@ class FinalQaTest(unittest.TestCase):
         qa = self.assess(normalized, baseline)
         self.assertFalse(any(item["code"] == "panel_heading" for item in qa["errors"]), qa["errors"])
 
+    def test_thoughts_stay_italic_and_footnote_keeps_a_heading(self):
+        from tools.final_qa import normalize_reading_copy
+
+        baseline = chapter(
+            "*I’m Iron Man.*\n\n"
+            "> **Lee Kanghee: Why did he criticize Jin Taekyung?**\n\n"
+            + ("The hall was quiet. " * 8)
+        )
+        candidate = chapter(
+            "“I’m Iron Man.”\n\n"
+            "> **Lee Kanghee: Why did he criticize Jin Taekyung?[^1]**\n\n"
+            "[^1]: About $1.\n\n"
+            + ("The hall was quiet. " * 8)
+        )
+        normalized = normalize_reading_copy(baseline, candidate)
+        self.assertIn("*I’m Iron Man.*", normalized)
+        self.assertNotIn("“I’m Iron Man.”", normalized)
+        self.assertEqual(final_qa.missing_panel_headings(baseline, normalized), [])
+
     def test_warning_heading_must_stay(self):
         baseline = chapter(
             "> **Warning**\n>\n> - The player cannot log out at will.\n\n"

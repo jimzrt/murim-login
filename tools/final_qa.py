@@ -50,7 +50,10 @@ def _blockquote_has_label(line: str, label: str) -> bool:
     stripped = line.strip()
     if not stripped.startswith(">"):
         return False
-    if stripped in {f"> **{label}**", f"> {label}"}:
+    plain = FOOTNOTE_REF.sub("", stripped).replace("*", "")
+    if plain.strip() in {f"> {label}", f"> {label}:"}:
+        return True
+    if label in plain:
         return True
     return re.search(r"\*\*" + re.escape(label) + r"(?:\*\*|:)", stripped) is not None
 
@@ -167,6 +170,34 @@ def _restore_system_panels(baseline: str, lines: list[str]) -> list[str]:
     return lines
 
 
+def _thought_key(line: str) -> str:
+    text = FOOTNOTE_REF.sub("", line.strip())
+    if text.startswith("“") and text.endswith("”"):
+        text = text[1:-1]
+    text = text.strip("*").strip()
+    return re.sub(r"\s+", " ", text)
+
+
+def _restore_thoughts(baseline: str, lines: list[str]) -> list[str]:
+    """A thought the mastered copy set in italics stays a thought, not speech."""
+    thoughts: dict[str, str] = {}
+    for line in baseline.splitlines():
+        stripped = line.strip()
+        if stripped.startswith("*") and stripped.endswith("*") and not stripped.startswith("**"):
+            if stripped == "* * *":
+                continue
+            thoughts[_thought_key(stripped)] = stripped
+    restored: list[str] = []
+    for line in lines:
+        stripped = line.strip()
+        key = _thought_key(stripped)
+        if stripped.startswith("“") and stripped.endswith("”") and key in thoughts:
+            restored.append(thoughts[key])
+        else:
+            restored.append(line)
+    return restored
+
+
 def normalize_reading_copy(baseline: str, candidate: str) -> str:
     """Keep the chapter heading as the only ATX heading and restore panel labels."""
     lines: list[str] = []
@@ -176,6 +207,7 @@ def normalize_reading_copy(baseline: str, candidate: str) -> str:
             lines.append(f"**{match.group(1).strip()}**")
             continue
         lines.append(line)
+    lines = _restore_thoughts(baseline, lines)
     lines = _restore_system_panels(baseline, lines)
     missing_titles = [
         title
