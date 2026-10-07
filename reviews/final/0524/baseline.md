@@ -72,7 +72,7 @@ Well, what happened after that was none of my concern. I could only hope the Mur
 
 “He moved? When?”
 
-“About one or two shichen[^1] ago. You were busy circulating your qi, so I took the message for you.”
+“About one or two shichen ago. You were busy circulating your qi, so I took the message for you.”
 
 “…You weren’t asleep then?”
 
@@ -126,7 +126,7 @@ At my mutter, Hyuk Mujin looked me up and down as though I were some strange cre
 
 “They went to the marketplace to buy sweetmeats and dumplings.”
 
-“…!”
+“…”
 
 *Shit. Give me back my sentimentality.*
 
@@ -174,7 +174,7 @@ I immediately shook my head.
 
 “That’s too harsh. Really.”
 
-“I told you to stand guard for a moment, and you went to sleep! You slept long enough to dream the entire *Dream of the Nine Clouds*.[^2] You bastard.”
+“I told you to stand guard for a moment, and you went to sleep! You slept long enough to dream the entire *Dream of the Nine Clouds*.[^1] You bastard.”
 
 “Why do you only hate me, Captain?! I hate you too!”
 
@@ -202,7 +202,7 @@ I was letting out a heartfelt sigh when the door opened again and Hyuk Mujin pok
 
 “…”
 
-“Well, I’ll be going now. Good work, sir. Loyalty.”[^3]
+“Well, I’ll be going now. Good work, sir. Loyalty.”
 
 Should I really kill him?
 
@@ -211,32 +211,6 @@ He was acting exactly like an elementary school kid who’d just been scolded by
 I turned back to the empty space I’d been looking at before Hyuk Mujin woke up.
 
 **Item Window**
-
-
-> **System**
->
-> **Mungyeong’s Specially Crafted Custom Pill for Jin Taekyung**
->
-> **Type:** Elixir  
-> **Grade:** Peak  
-> **Restriction:** None (effect increases if taken by **Jin Taekyung**)  
->
-> **Description:** A pill focused on stability and recovery rather than increasing internal energy. If taken when internal energy is unstable, it steadies the user’s qi and greatly increases their recovery.
->
-> **Special Note:** Made with **Jin Taekyung** in mind. He will receive an even greater effect if he takes it.
-
-
-> **System**
->
-> **Mungyeong’s Specially Crafted Custom Pill for Jin Taekyung**
->
-> **Type:** Elixir  
-> **Grade:** Peak  
-> **Restriction:** None (effect increases if taken by **Jin Taekyung**)  
->
-> **Description:** A pill focused on stability and recovery rather than increasing internal energy. If taken when internal energy is unstable, it steadies the user’s qi and greatly increases their recovery.
->
-> **Special Note:** Made with **Jin Taekyung** in mind. He will receive an even greater effect if he takes it.
 
 > **System**
 >
@@ -386,6 +360,4 @@ I suddenly realized what day it was.
 
 Today, all of Murim would stand beneath a single banner.
 
-[^1]: A *shichen* is a traditional time unit of approximately two hours; one or two shichen is about two to four hours.
-[^2]: *The Dream of the Nine Clouds* is a classic Korean novel in which a man experiences an entire lifetime within a dream.
-[^3]: “Loyalty” translates *chungseong*, a word used as a military salute in Korea.
+[^1]: *The Dream of the Nine Clouds* is a classic Korean novel in which a man experiences an entire lifetime within a dream.
