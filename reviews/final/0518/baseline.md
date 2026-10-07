@@ -6,7 +6,7 @@ A middle-aged man, thoroughly drunk, suddenly raised one hand.
 
 “Roast duck, too!”
 
-“Would you look at these petty-minded fools. We’re on the verge of a momentous event—the founding of the Murim Alliance—and you want strong liquor and roast duck? We’ve come to Henan, so we should at least drink Dukang wine[^1]!”
+“Would you look at these petty-minded fools. We’re on the verge of a momentous event—the founding of the Murim Alliance—and you want strong liquor and roast duck? We’ve come to Henan, so we should at least drink Dukang wine!”
 
 “Oh, we’d love that, but aren’t you pushing yourself too far?”
 
@@ -17,8 +17,6 @@ A middle-aged man, thoroughly drunk, suddenly raised one hand.
 The inn on the main road near Mount Song was packed. Most of the people inside were Murim practitioners, of course.
 
 From wandering martial artists who still looked like greenhorns to old veterans who had roamed the martial world for ten years—or even several decades.
-
-The people gathered there differed in purpose, age, and gender.
 
 Wherever people gathered, conflict was bound to follow. Especially when the people in question were drunk Murim practitioners.
 
@@ -40,9 +38,9 @@ Sharp weapons swung, and blood sprayed through the air. The fierce exchange sent
 
 “It’s a fight!”
 
-“One silver nyang[^2] on the Senior Disciple of the Xiao He Gate!”
+“One silver nyang on the Senior Disciple of the Xiao He Gate!”
 
-“Then I’ll bet two nyang[^2] on the Long Serpent Saber!”
+“Then I’ll bet two nyang on the Long Serpent Saber!”
 
 They said nothing was more entertaining than watching someone else’s house burn or watching someone else fight.
 
@@ -54,7 +52,7 @@ Clang! Bang!
 
 Waaah!
 
-The fight was raging in the middle of the inn, but he did not spare it a glance. He flicked a silver nyang[^2] toward the innkeeper.
+The fight was raging in the middle of the inn, but he did not spare it a glance. He flicked a silver nyang toward the innkeeper.
 
 “Two bottles of strong liquor and one roast duck. Bring them to a seat with a good view outside. Oh, and roast the duck until it’s crisp.”
 
@@ -146,7 +144,7 @@ He was on an entirely different level from wandering martial artists like Blood 
 
 “…?”
 
-*What was this man talking about?*
+What was this man talking about?
 
 Moon Beauty Saber stared at him blankly, then frowned.
 
@@ -184,7 +182,7 @@ Moon Beauty Saber wanted to teach the middle-aged man a lesson right then and th
 
 Whether he knew what Moon Beauty Saber was thinking or not, the middle-aged man dropped into the seat across from the old man and immediately tilted back a bottle.
 
-“Ah, that’s good. Is this Yeoahong[^3]?”
+“Ah, that’s good. Is this Yeoahong?”
 
 The old man nodded.
 
@@ -212,7 +210,7 @@ For a while, he watched the people passing through the street and listened to th
 
 Clack.
 
-The middle-aged man set down the bottle. Liquor had spilled from the corner of his mouth, dampening his beard. Perhaps because of the soft light, the beard looked unusually red.
+Liquor had spilled from the corner of his mouth, dampening his beard. Perhaps because of the soft light, the beard looked unusually red.
 
 “Damn it. I knew it. But that brat kept insisting to the very end that he’d never met you.”
 
@@ -284,11 +282,11 @@ Unnamed, who realized it a moment after I did, spoke with a hardened expression.
 
 I gave a small nod.
 
-Even at this distance, I could feel waves of qi reaching us. *This is a clash between at least Supreme Peak masters.*
+*This is a clash between at least Supreme Peak masters.*
 
 “If something like this has happened, then it must be…”
 
-“Amitabha[^4]. Yes. It appears Dark Heaven is attacking.”
+“Amitabha. Yes. It appears Dark Heaven is attacking.”
 
 “Those Dark Heaven sons of bitches!”
 
@@ -358,7 +356,7 @@ With this many Murim practitioners at my side, I was sure we could beat the hell
 
 “Kill those demons!”
 
-“Amitabhaaa[^4]!”
+“Amitabhaaa!”
 
 *You Dark Heaven bastards! Stay right there! I’m bringing the Murim Crusade to you, and I’m going to bash your heads in. Your heads…*
 
@@ -373,8 +371,3 @@ A single person was walking out from inside a building burning horribly.
 “…”
 
 *The fiend was on our side.*
-
-[^1]: Dukang is a traditional Chinese liquor named for Du Kang, a legendary figure associated with winemaking. It is particularly associated with Henan.
-[^2]: A nyang is a traditional unit used for silver currency; it is not Korean won.
-[^3]: Yeoahong is a traditional Chinese rice wine. Its name means “Daughter’s Red.”
-[^4]: Amitabha is the Buddha of Infinite Light. Saying his name is a Buddhist invocation.
