@@ -6,33 +6,35 @@ Before and after the Great Cataclysm, it had been one of the three most populous
 
 A very long time ago, a handsome, clever elementary school student on a family trip to Busan spent his nights practically glued to the window.
 
-“Taekyung, what are you looking at?”
+*“Taekyung, what are you looking at?”*
 
-“That leg! It’s sparkling! It’s pretty!”[^1]
+*“That leg! It’s sparkling! It’s pretty!”*[^1]
 
-“Whoa, you’re right. Is she a fit model?”
+*“Whoa, you’re right. Is she a fit model?”*
 
-“…Not that kind of leg, Dad.”
+*“…Not that kind of leg, Dad.”*
 
-“Oh.”
+*“Oh.”*
 
-“That bridge over there! The long, sparkly one!”
+*“That bridge over there! The long, sparkly one!”*
 
-“Aha. Gwangan Bridge?”
+*“Aha. Gwangan Bridge?”*
 
-“Gwangan Bridge? What’s that?”
+*“Gwangan Bridge? What’s that?”*
 
-“It’s the name of that bridge. You saw it earlier, but it’s even prettier at night, isn’t it?”
+*“It’s the name of that bridge. You saw it earlier, but it’s even prettier at night, isn’t it?”*
 
-“Yeah! I want to go! Take me to Gwangan Bridge right now!”
+*“Yeah! I want to go! Take me to Gwangan Bridge right now!”*
 
 My father looked at his demanding young son as though he couldn’t have loved him more.
 
-“Oh, my boy. Your dad’s exhausted from driving all day, and look at you thinking only of yourself. Who did you get that from?”
+*“Oh, my boy. Your dad’s exhausted from driving all day, and look at you thinking only of yourself. Who did you get that from?”*
 
-“Then can I ask Mom what a fit model is?”
+*“Then can I ask Mom what a fit model is?”*
 
-“…You really are my son. Pack your bag.”
+*“…You really are my son. Pack your bag.”*
+
+[^1]: The Korean word *dari* can mean either “leg” or “bridge.”
 
 It was one of the moments I would never forget. Walking hand in hand with my dejected father to Gwangan Bridge left a vivid impression on my young mind.
 
@@ -40,27 +42,27 @@ The bridge was impossibly huge and glittering. Beside me was my father, who was 
 
 I even got him to carry me on his shoulders by threatening him, despite his complaints about a bad disc in his neck. What more could I have wanted?
 
-“Dad, let’s come back next week! And the week after that! And next month too! You have to carry me on your shoulders again!”
+*“Dad, let’s come back next week! And the week after that! And next month too! You have to carry me on your shoulders again!”*
 
-“Haha. What am I going to do? If we do what you want, I don’t think I’ll make it here next month.”
+*“Haha. What am I going to do? If we do what you want, I don’t think I’ll make it here next month.”*
 
-“Why?”
+*“Why?”*
 
-“Because at this rate, my neck will break the week after next. How many bowls of rice have you been eating a day lately, Taekyung?”
+*“Because at this rate, my neck will break the week after next. How many bowls of rice have you been eating a day lately, Taekyung?”*
 
-“I haven’t had much of an appetite, so only five!”
+*“I haven’t had much of an appetite, so only five!”*
 
-“……That’s my good boy. No wonder the night sky looked yellow.”
+*“……That’s my good boy. No wonder the night sky looked yellow.”*
 
 It was a happy memory. We talked about all sorts of things that day, and when we got back to the hotel, I excitedly told my little sister Hayeon and Mom all about it.
 
 Watching me, my father rubbed his neck, gave a quiet laugh, and made a promise.
 
-“When Hayeon’s a little older and you’re in middle school, let’s come back to see the ocean. All right?”
+*“When Hayeon’s a little older and you’re in middle school, let’s come back to see the ocean. All right?”*
 
-“Really?”
+*“Really?”*
 
-“Of course. Here—promise.”
+*“Of course. Here—promise.”*
 
 He never got to keep that promise.
 
@@ -88,7 +90,7 @@ My mind screamed at me to get over there with everything I had, but my body woul
 
 I wasn’t the only one thinking it.
 
-The Skeleton King, who had come with me, and the mage who had brought us here watched with exhausted eyes as the disaster unfolded several kilometers[^2] away.
+The Skeleton King, who had come with me, and the mage who had brought us here watched with exhausted eyes as the disaster unfolded several kilometers away.
 
 “N-no!”
 
@@ -98,11 +100,11 @@ The cry of the mage whose name I did not know was hollow, and the scene spread o
 
 A wave.
 
-A wave dozens of meters[^3] high had struck the place where my father’s promise could never be kept, the bridge crossed by thousands—tens of thousands—of vehicles every day.
+A wave dozens of meters high had struck the place where my father’s promise could never be kept, the bridge crossed by thousands—tens of thousands—of vehicles every day.
 
 *Whoooosh!*
 
-Carrying tremendous weight and force, the wave slammed into the middle of Gwangan Bridge, a suspension bridge thirty-five meters[^4] high and 7,420 meters[^5] long.
+Carrying tremendous weight and force, the wave slammed into the middle of Gwangan Bridge, a suspension bridge thirty-five meters high and 7,420 meters long.
 
 Spray burst in every direction, and screams were swallowed by blinding white foam. Hundreds of cars cruising along at the speed limit were flung away like toys.
 
@@ -122,11 +124,11 @@ Red blood flowed where they had stood, unable even to leave a final scream behin
 
 *Honk! Hooooonk!*
 
-“Back up! Back the fuck up, you bastard!”
+—Back up! Back the fuck up, you bastard!
 
-“Aaaaaaah!”
+—Aaaaaaah!
 
-“Please! Please get my child out! There’s a kid here……!”
+—Please! Please get my child out! There’s a kid here……!
 
 I felt dazed, as though I were dreaming.
 
@@ -134,9 +136,9 @@ An advanced civilization built on magic and science was crumbling like a sandcas
 
 Gwangan Bridge, which held my childhood memories, collapsed beneath the weight of destruction and death. Those who survived abandoned their cars and ran for their lives, crying desperately for someone to help them.
 
-“Save me! Please save me!”
+—Save me! Please save me!
 
-“Mommy!”
+—Mommy!
 
 Their screams woke me from where I stood frozen like a statue.
 
@@ -180,7 +182,7 @@ Nothing mattered more than what was happening in front of me.
 
 *Boom!*
 
-The force of my leap made the high-rise building where the Teleport Magic Formation had been installed tremble.
+The force of my leap made the high-rise building where the Teleport magic circle had been installed tremble.
 
 As I shot through the sky, an angry shout reached me.
 
@@ -198,7 +200,7 @@ Or he would have been, if I hadn’t blocked his path.
 
 A Monster Wave—and in Busan, of all places, with its dense population.
 
-It might have been different in a desert or a sparsely populated military zone like the ones I’d seen in Magic Johnson’s footage. Here, thousands of people were packed into a radius of just a few kilometers.[^6]
+It might have been different in a desert or a sparsely populated military zone like the ones I’d seen in Magic Johnson’s footage. Here, thousands of people were packed into a radius of just a few kilometers.
 
 I had to keep the disaster from spreading, no matter what it took.
 
@@ -216,7 +218,7 @@ His gaze swept over the road swallowed by screams and chaos and the people runni
 
 “What do you think?”
 
-I answered shortly, pulled a spare spear from my Inventory, and aimed it at the ground.
+I answered shortly, pulled a spare spear from my inventory, and aimed it at the ground.
 
 Through my greatly enhanced eyesight, it looked as grotesque as any other monster. The scales covering its entire body and the fins extending down to its jaw were repulsive.
 
@@ -228,9 +230,9 @@ It had the form of a male merperson, but it was neither beautiful nor kind like 
 
 The hundreds of Mermen surging out of the sea and descending on the people below made that clear enough.
 
-“Ssssss!”
+—Ssssss!
 
-“Karruk!”
+—Karruk!
 
 They charged with unintelligible cries, barnacle-covered tridents flashing in their hands.
 
@@ -288,7 +290,7 @@ Scales harder than steel shattered, and fins tore apart.
 
 One Merman, lucky enough to lose only half its body, let out a mournful death cry.
 
-“Krruk, krruruk!”
+—Krruk, krruruk!
 
 So noisy.
 
@@ -316,9 +318,9 @@ They split apart. They burst.
 
 Those who tried to block the spears died along with their tridents. Those who tried to run died before they could take a step.
 
-When the girl who had been crouched and crying just three meters[^7] away began to hiccup, there was nothing left around her.
+When the girl who had been crouched and crying just three meters away began to hiccup, there was nothing left around her.
 
-“Hic. Sob.”
+“ hic. Sob.”
 
 She looked about nine years old. Sobbing hiccups escaped through the little hands clamped over her mouth.
 
@@ -342,12 +344,4 @@ But that family’s ordeal wasn’t over.
 
 The sea had turned black beneath the sun.
 
-I stared at the *thing* hidden inside another wave rising dozens of meters[^3] high and lowered the spearhead of White Flame.
-
-[^1]: The Korean word *dari* can mean either “leg” or “bridge.”
-[^2]: Several kilometers is roughly a few miles.
-[^3]: Dozens of meters is roughly tens to hundreds of feet.
-[^4]: Thirty-five meters is about 115 ft.
-[^5]: 7,420 meters is about 4.6 mi.
-[^6]: A few kilometers is roughly 1–3 mi.
-[^7]: Three meters is about 9.8 ft.
+I stared at the *thing* hidden inside another wave rising dozens of meters high and lowered the spearhead of White Flame.
