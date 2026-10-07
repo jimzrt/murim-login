@@ -114,7 +114,7 @@ He glanced at me. “What’s gotten into him?”
 
 I smiled to myself.
 
-I didn’t usually show it, but I had a soft spot for Hyuk Mujin. Since coming to Murim, I’d spent more time with him than anyone else, and we’d been through all kinds of trouble together. Of course I cared about—
+Hyuk Mujin didn’t usually show it, but I had a soft spot for him. Since coming to Murim, I’d spent more time with him than anyone else, and we’d been through all kinds of trouble together. Of course I cared about—
 
 “This is driving me crazy. What are you two talking about?”
 
@@ -130,7 +130,7 @@ Hyuk Mujin looked at Gung Gibang and me, his face pale.
 
 “…!”
 
-*Touching, my ass.*
+Touching, my ass.
 
 When he said something bad was going to happen, he’d meant *that*.
 
@@ -150,11 +150,11 @@ Look at that determination. I’d never seen him look so desperate, even in a fi
 
 Was that last cry sheer determination to hold it in? Or a booster powered by the last of his sphincter’s strength?
 
-Hyuk Mujin staggered as he wove through the crowd at incredible speed. Gung Gibang muttered, “Drunken Eight-Immortals Step[^1]…?”
+Hyuk Mujin staggered as he wove through the crowd at incredible speed. Gung Gibang muttered, “Drunken Eight-Immortals Step…?”
 
 “…Please don’t talk bullshit. He just needs to shit.”
 
-*God. Buddha. Why am I surrounded by nothing but idiots?*
+God. Buddha. Why am I surrounded by nothing but idiots?
 
 Lamenting my fate, I looked toward the three-story inn Hyuk Mujin was heading for.
 
@@ -188,9 +188,9 @@ Gung Gibang narrowed his eyes at my unguarded mutter.
 
 “…No, it’s not— Ah, forget it.”
 
-Normally, Gung Gibang would have changed the subject by now, if only to avoid getting hit. Today was different.
+Normally, Gung Gibang would have changed the subject by now, if only to avoid getting hit. Today he kept snickering and glancing at me.
 
-His laughter sounded like air leaking out as he kept glancing at me. My fist clenched, but strangely enough, I didn’t feel like hitting him.
+His laughter sounded like air leaking from a punctured sack as he kept glancing at me. My fist clenched, but strangely enough, I didn’t feel like hitting him.
 
 “Pfft, pfft, pfft.”
 
@@ -276,7 +276,7 @@ His martial uniform was torn to shreds, and his leather shoes had come off. His 
 
 “How dare you… You bastard! I’ll tear you apart……!”
 
-Just then, Gung Gibang gaped at the man, who was speaking through clenched teeth.
+Gung Gibang gaped at the man, who was speaking through clenched teeth.
 
 “H-Hwangbo Ak!”
 
@@ -304,7 +304,7 @@ Judging by the way Hwangbo Ak’s face twisted, probably not.
 
 “What?”
 
-His confusion lasted only a moment. Hwangbo Ak seemed to have forgotten something, but urgency and horror rose across his face.
+Hwangbo Ak seemed to have momentarily forgotten something. Then urgency and horror rose across his face.
 
 *Whoooosh—boom!*
 
@@ -329,5 +329,3 @@ An enormous man blocked out the sun, casting a vast shadow over me. He looked do
 I answered calmly.
 
 “Me. Don’t want to.”
-
-[^1]: The Eight Immortals are figures in Chinese Daoist folklore. The name evokes drunken-style martial arts, whose movements can appear unsteady.
