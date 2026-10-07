@@ -44,8 +44,6 @@ I kept my voice gentle and glanced at Gung Gibang.
 
 Quick to catch on, Gung Gibang understood what I meant and began evacuating the civilians who had been unable to escape and were still sitting on the ground.
 
-The giant watched them go, his large eyes darting from side to side.
-
 “That guy. Insulted me.”
 
 A finger as thick as a stick pointed toward Hwangbo Ak, who was bent over and coughing weakly.
@@ -60,15 +58,13 @@ A finger as thick as a stick pointed toward Hwangbo Ak, who was bent over and co
 
 That gave me a fair idea of what had happened. His words were short and disjointed, but they were enough.
 
-Hwangbo Ak was the Lesser Family Head of the Hwangbo Family, which held sway over Shandong. It wasn’t hard to imagine a Murim golden spoon[^1] talented enough to join the Ten Dragons and Phoenixes picking a fight with a martial artist he considered demonic and heterodox. Gung Gibang had called Hwangbo Ak a pain in the ass before, too.
+Hwangbo Ak was the Lesser Family Head of the Hwangbo Family, which held sway over Shandong. It wasn’t hard to imagine a Murim golden spoon talented enough to join the Ten Dragons and Phoenixes picking a fight with a martial artist he considered demonic and heterodox. Gung Gibang had called Hwangbo Ak a pain in the ass before, too.
 
 *So this guy’s from the unorthodox faction.*
 
 No wonder the aura coming off him had felt unusual.
 
 Aside from some Third Rate dark-path figures, I had never met a proper martial artist who practiced demonic, heterodox arts. I had to forcibly suppress the curiosity that suddenly rose inside me.
-
-A thought had just crossed my mind.
 
 “Did you lay a hand on anyone else?”
 
@@ -128,7 +124,7 @@ I calmly gestured toward Hwangbo Ak.
 
 “From what I’ve heard, he had his reasons. Let’s not cause any more trouble. Be a man, shake hands, and call it done. No hard feelings.”
 
-Hwangbo Ak’s eyes went wide, like someone who’d picked Yasuo[^2] and immediately been hit with an insult about his family.
+Hwangbo Ak’s eyes went wide, like someone who’d picked Yasuo and immediately been hit with an insult about his family.
 
 “How can you do this?”
 
@@ -146,7 +142,7 @@ Hwangbo Ak’s eyes went wide, like someone who’d picked Yasuo[^2] and immedia
 
 *Whoosh.*
 
-A warm breeze suddenly blew over my head. It was the breath of the giant, who stood a head—no, two heads—taller than me.
+A warm breeze suddenly blew over my head. It was the giant’s breath.
 
 “Kneel? You. Me?”
 
@@ -154,7 +150,7 @@ Hwangbo Ak flinched for a moment, then gritted his teeth.
 
 “Fine. You pushed me back earlier with a despicable surprise attack, but I’ll make you regret provoking this Young Master even after death!”
 
-“This won’t do. You. I kill.”
+“No. You. I kill.”
 
 The giant’s eyes went cold.
 
@@ -188,7 +184,7 @@ I watched until the last possible moment, then quietly extended both arms.
 
 *Boom!*
 
-A deafening crash sent a wave of qi surging outward. Materials, dust, and dirt scattered across the street were driven beyond a three-zhang[^3] radius. People gasped.
+A deafening crash sent a wave of qi surging outward. Materials, dust, and dirt scattered across the street were driven beyond a three-zhang radius. People gasped.
 
 In the middle of it all, two pairs of eyes trembled.
 
@@ -319,7 +315,3 @@ When his back, looking unusually small, had receded into the distance, a voice r
 “Sir Jin!”
 
 I hadn’t heard it in a long time, which made it all the more welcome.
-
-[^1]: “Golden spoon” translates *geumsujeo*, a Korean expression for someone born into wealth or privilege.
-[^2]: Yasuo is a playable character in the video game *League of Legends*.
-[^3]: A *zhang* is a traditional Chinese unit of length, about 3.03 m (9.94 ft). Three zhang is about 9.09 m (29.8 ft).
