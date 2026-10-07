@@ -1,6 +1,6 @@
 # Chapter 540
 
-They say words have no feet, yet travel a thousand li.[^1]
+They say words have no feet, yet travel a thousand li.
 
 And these days, Henan Province was boiling like a cauldron over a charcoal fire.
 
@@ -42,7 +42,7 @@ Jin Taekyung and Cheongpung inspired envy as well as admiration. That was true n
 
 “And what about you?”
 
-“What good would saying anything do? I’m only a third-generation Disciple. One of my fellow disciples ran his mouth a few shichen[^2] ago and paid for it. Our Senior Martial Uncle was furious. He ordered everyone between him and me to assemble, and…”
+“What good would saying anything do? I’m only a third-generation Disciple. One of my fellow disciples ran his mouth a few shichen ago and paid for it. Our Senior Martial Uncle was furious. He ordered everyone between him and me to assemble, and…”
 
 “I can imagine.”
 
@@ -88,7 +88,7 @@ Hwangbo Gun, the Family Head of the Hwangbo Family, had proudly bragged about hi
 
 For Hwangbo Gun, it was enough to drive him mad.
 
-The next day, a rumor spread that Jin Taekyung had polished off ten bowls of gukbap[^3] in one sitting and patted his stomach. That only made matters worse.
+The next day, a rumor spread that Jin Taekyung had polished off ten bowls of gukbap[^1] in one sitting and patted his stomach. That only made matters worse.
 
 The orthodox purists who supported Hwangbo Gun voiced their discontent too. But the shadow cast by the giant known as the Sword Saint Mae Jonghak was deep, and they could hardly defy the Alliance Leader’s authority over something like this. They had no choice but to swallow their anger.
 
@@ -182,7 +182,7 @@ Then a breathtakingly beautiful woman appeared before the crowd and smiled.
 
 “Waaaaah!”
 
-Hongmae was Honghakru’s most beautiful singer, a singing courtesan famous for her enchanting voice. She bowed her head with graceful poise, then gave a meaningful glance. The musicians took their cue and began to play.
+Hongmae was Honghakru’s most beautiful singer, a singing courtesan famous for her enchanting voice. She bowed her head with graceful poise, then gave a meaningful glance.
 
 Ting-a-ling. Chaarang!
 
@@ -282,7 +282,7 @@ The door broke apart, and someone appeared.
 
 “Join the Murim Alliance’s Two Dragons Pavilion. My era of success begins.”
 
-The most ominous song in the world. A chilling expression.
+The most ominous song in the world.
 
 I froze when I met those glowing red eyes. Fire King Jeok Cheongang spat out his next words.
 
@@ -290,6 +290,4 @@ I froze when I met those glowing red eyes. Fire King Jeok Cheongang spat out his
 
 “…Welcome.”
 
-[^1]: In this Chinese setting, one li is approximately 500 m (0.311 mi); a thousand li is about 500 km (311 mi).
-[^2]: A shichen is a traditional time unit of approximately two hours. Half a shichen is about one hour.
-[^3]: Gukbap is rice served in a bowl of hot soup, a common Korean meal.
+[^1]: Gukbap is rice served in a bowl of hot soup, a common Korean meal.
