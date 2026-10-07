@@ -8,7 +8,7 @@ The special detention center where Go Se-won was being held was no exception.
 
 The soldier’s voice was stiff, his sharp eyes visible behind dark sunglasses. He wore a bulletproof vest and carried an automatic rifle.
 
-The Blue House[^1] security officer in the driver’s seat held out a thin card.
+The Blue House security officer in the driver’s seat held out a thin card.
 
 “The warden should have received a call already.”
 
@@ -48,7 +48,7 @@ His confession caught me so off guard that I could only give an awkward reply. T
 
 “Criminal bastards need a beating. Especially the ones in here.”
 
-The Blue House[^1] security officers wore expressions that seemed to ask whether they should report this to the President, and I began to worry about whether one particular person was still alive.
+The Blue House security officers wore expressions that seemed to ask whether they should report this to the President, and I began to worry about whether one particular person was still alive.
 
 “Is Go Se-won still alive?”
 
@@ -90,7 +90,7 @@ They lay wrapped in mana suppressors from head to toe like mummies. I studied th
 
 “You really do have everything planned, Warden.”
 
-The warden smiled, pleased by my compliment, then asked, “Ah, but what’s going to happen to you, Hunter Jin Taekyung? I hope things work out for you, but the law is a complicated thing.”
+“Ah, but what’s going to happen to you, Hunter Jin Taekyung? I hope things work out for you, but the law is a complicated thing.”
 
 “Who knows? I still have no idea.”
 
@@ -230,12 +230,10 @@ He cut me off sharply, then continued.
 
 “So, Jin Taekyung. Find it. I don’t know what secrets it holds, but…”
 
-I was about to ask another question when the heavy door opened with a metallic clang. The warden and the Blue House[^1] security officers looked at us suspiciously.
+I was about to ask another question when the heavy door opened with a metallic clang. The warden and the Blue House security officers looked at us suspiciously.
 
 “We couldn’t hear anything. Is there a problem?”
 
 Go Se-won answered calmly.
 
 “The visit is over.”
-
-[^1]: The Blue House was the office and residence of South Korea’s president.
