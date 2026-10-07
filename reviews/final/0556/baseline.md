@@ -20,7 +20,7 @@ Unlike me, muttering gruffly, the Skeleton King smiled fondly.
 
 “……”
 
-*That’s not what I meant, man.*
+That’s not what I meant, man.
 
 We seemed to be remembering entirely different things. For all I knew, this guy might have been Skeleton One, some skeleton I’d run into back when I was going from one low-level Gate to the next.
 
@@ -66,7 +66,7 @@ Then its headless body collapsed like a rotten log.
 
 “What the hell is this?”
 
-*What else? Finger Qi.*
+What else? Finger Qi.
 
 I muttered inwardly as I watched the Hunters hurriedly reform their ranks, then realized something.
 
@@ -114,8 +114,6 @@ With my third and final step, a sphere of light summoned by an unknown mage’s 
 
 An invisible shock wave and wave of agitation swept through the cave.
 
-For a moment, everyone stared at my face in a daze. Then cries burst out from all around, like water breaking through a dam.
-
 “L-Lord Fuck!”
 
 “Lord Sibu-leol!”
@@ -124,7 +122,7 @@ For a moment, everyone stared at my face in a daze. Then cries burst out from al
 
 The last one was better, at least.
 
-The stutter had stretched my name to six syllables, but compared to those nicknames, it was practically respectable. Vice-minister[^1] respectable.
+The stutter had stretched my name to six syllables, but compared to those nicknames, it was practically respectable. Vice-minister respectable.
 
 Come to think of it, the name fit the situation. The vibrations had grown steadily stronger, and now the whole cave was sh-sh-sh-shaking like a fucking earthquake.
 
@@ -146,13 +144,13 @@ I clicked my tongue and beckoned to the still-stunned Hunters.
 
 “Undead, have mercy.”
 
-*What was that, a Blink spell?*
+What was that, a Blink spell?
 
 Being famous did have its advantages. Some old lady named Kim in the middle of nowhere had probably heard of me. Of course Hunters in the same line of work would know who I was.
 
 Before I could finish speaking, all twenty of them came running at the speed of light. They looked at me with fear and trust in their eyes.
 
-“Hyung.[^2] I’m a fan. A real fan.”
+“Hyung. I’m a fan. A real fan.”
 
 “Eek! What do I do? What do I dooo?”
 
@@ -240,7 +238,7 @@ Before everyone’s horrified eyes, the Mutated Gate neared the end of its trans
 
 *Rumble-rumble-rumble. Boom!*
 
-The hairline cracks spreading across the ceiling darkened, and the gaps opened wide. It looked as though a giant egg—the cave itself—was breaking open.
+The hairline cracks spreading across the ceiling darkened, and the gaps opened wide.
 
 And then…
 
@@ -268,7 +266,7 @@ I couldn’t see it. But I could feel it.
 
 Immense magical power filled the air. It had swelled almost to bursting, pressing down on the jungle.
 
-It was a level of magical power that would be difficult to sense even in an A-rank Gate. There was no chance ordinary low-level Hunters could withstand it.
+It was a level of mana that would be difficult to sense even in an A-rank Gate. There was no chance ordinary low-level Hunters could withstand it.
 
 “Hhk. Hhk.”
 
@@ -312,7 +310,7 @@ Ogres were monsters whose terrifying strength was always considered among the hi
 
 The Skeleton King turned to look. In the vast jungle, something was slowly rising to its feet.
 
-Twenty meters[^3] tall. Arms and legs longer and thicker than the countless giant trees around it.
+Twenty meters tall. Arms and legs longer and thicker than the countless giant trees around it.
 
 And…
 
@@ -325,13 +323,6 @@ Mist shrouded the mythical giant from head to toe. Its single eye turned toward 
 —Intruders. Humans. Kill.
 
 And the next moment—
-
-
-> **System**
->
-> You have been forcibly moved to the Mutated Gate!
->
-> An Unexpected Quest, **Forest of Giants**, has been created.
 
 > **System**
 >
@@ -387,9 +378,4 @@ I looked around at what had become a battlefield, and a smile touched my lips.
 
 *Whoosh.*
 
-Three jiazi[^4] of Scorching Yang Qi surged up from my lower dantian, became a fire dragon, and spread through every limb and bone in my body.
-
-[^1]: A vice-minister served beneath a minister in a government department of Korea’s Joseon dynasty.
-[^2]: *Hyung* is a familiar Korean form of address used by a younger man for an older brother or older male acquaintance.
-[^3]: Twenty meters is about 66 ft.
-[^4]: A *jiazi* is a traditional sixty-year cycle. In this martial-arts context, three jiazi describes the equivalent of 180 years of accumulated cultivation, not the cultivator’s age.
+Three jiazi of Scorching Yang Qi surged up from my lower dantian, became a fire dragon, and spread through every limb and bone in my body.
