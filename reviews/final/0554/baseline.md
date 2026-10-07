@@ -2,7 +2,7 @@
 
 The monster wave in Sichuan Province, dubbed the Small Cataclysm, had devoured so much.
 
-Buildings, people, hope… More than four million people were dead or injured, and property damage ran into the hundreds of trillions of won.[^1]
+Buildings, people, hope… More than four million people were dead or injured, and property damage ran into the hundreds of trillions.
 
 But as someone once said, people leave their names behind when they die. Among the countless dead, a few names stood out.
 
@@ -46,7 +46,7 @@ But he had misjudged me, and here was the result: me, reading about his death on
 
 His final words flashed through my mind.
 
-“I… have no regrets. None.”
+*I… have no regrets. None.*
 
 Lee Jungryong had been smiling when he said them.
 
@@ -74,35 +74,35 @@ An image filled the screen at once. It showed Ares Guild members departing Sichu
 
 I read the bold headlines and scrolled down to the long stream of comments.
 
-> └ May the deceased rest in peace.
->
-> └ Lee Jungryong is dead… Another great star has fallen.
->
-> └ I don’t know whether Jun Dragon[^2] was a good person. I heard some pretty suspicious stories about him, too.
-> └ I agree, but those stories are still unverified rumors. And you think a dinosaur of a Guild like Ares could operate without getting a little dirty? Just shut up, press X, and pay your respects.[^3] Considering what Lee Jungryong did during the Great Cataclysm, it’s the least you can do.
->
-> └ But who’s Go Jun? They say he was Lee Jungryong’s Head of Security, but I’ve never seen him before.
-> └ People who know, know. You’re either not a Hunter or you’re still new.
-> └ How did you know? I spent all my time stuck in a study room, then awakened by accident. Now I don’t know anything. If you know something, tell me.
-> └ Actually, I don’t know either. This is my older brother’s account.
-> └ You fucking bastard.
+> May the deceased rest in peace.
+
+> Lee Jungryong is dead… Another great star has fallen.
+
+> I don’t know whether Jun Dragon was a good person. I heard some pretty suspicious stories about him, too.  
+> └ I agree, but those stories are still unverified rumors. And you think a dinosaur of a Guild like Ares could operate without getting a little dirty? Just shut up, press X, and express your joy. Considering what Lee Jungryong did during the Great Cataclysm, it’s the least you can do.
+
+> But who’s Go Jun? They say he was Lee Jungryong’s Head of Security, but I’ve never seen him before.  
+> └ People who know, know. You’re either not a Hunter or you’re still new.  
+> └ How did you know? I spent all my time stuck in a study room, then awakened by accident. Now I don’t know anything. If you know something, tell me.  
+> └ Actually, I don’t know either. This is my older brother’s account.  
+> └ You fucking bastard.  
 > └ Waaah. I’m a baby fucking bastard.
->
-> └ What a shitshow up there. Hunters with some standing or experience probably know him, though. Go Jun is famous as Jun Dragon’s[^2] right-hand man. He appeared out of nowhere about ten years ago and caused quite a stir. After that, Jun Dragon[^2] always brought him to official events.
-> └ Seriously. I just searched iTube,[^4] and he was standing behind Lee Jungryong at last year’s UN General Assembly. That was from a quick search. If someone really dug, they’d probably find tons more.
-> └ Think Lee Jungryong raised him as a Disciple?
-> └ King-sized possibility. Other communities are already digging into Go Jun’s background. Apparently, he came from a children’s home—orphanage?—that Lee Jungryong sponsored. He’s never taken the ranker test, but they say he’s stronger than the highest-ranked rankers.
-> └ So is he Ares Guild’s next Vice Guild Master?
-> └ No one knows, but he’s probably the front-runner. Unless Cheon Taemin shows up, Go Jun will likely take over without much trouble. Strength plus legitimacy. That’s a pure enough bloodline to make Voldemort shed a tear.
-> └ Agreed. He looks like a Death Eater, too. Probably a Slytherin.
-> └ Keep attacking his looks and Ares Guild might attack you.
-> └ Speaking of pure bloodlines, I heard something weird recently.
-> └ ?
-> └ ??
-> └ What?
-> └ I’m too scared to say exactly who, but you know. Someone in the P— Guild is Cheon Taemin’s—no, not Cheon Taemin. I’m deleting this myself. Please don’t bring it up.
-> └ Ah, fuck.
-> └ There are two ways to make someone angry. The first is to start saying something and then stop.
+
+> What a shitshow up there. Hunters with some standing or experience probably know him, though. Go Jun is famous as Jun Dragon’s right-hand man. He appeared out of nowhere about ten years ago and caused quite a stir. After that, Jun Dragon always brought him to official events.  
+> └ Seriously. I just searched iTube, and he was standing behind Lee Jungryong at last year’s UN General Assembly. That was from a quick search. If someone really dug, they’d probably find tons more.  
+> └ Think Lee Jungryong raised him as a Disciple?  
+> └ King-sized possibility. Other communities are already digging into Go Jun’s background. Apparently, he came from a children’s home—orphanage?—that Lee Jungryong sponsored. He’s never taken the ranker test, but they say he’s stronger than the highest-ranked rankers.  
+> └ So is he Ares Guild’s next Vice Guild Master?  
+> └ No one knows, but he’s probably the front-runner. Unless Cheon Taemin shows up, Go Jun will likely take over without much trouble. Strength plus legitimacy. That’s a pure enough bloodline to make Voldemort shed a tear.  
+> └ Agreed. He looks like a Death Eater, too. Probably a Slytherin.  
+> └ Keep attacking his looks and Ares Guild might attack you.  
+> └ Speaking of pure bloodlines, I heard something weird recently.  
+> └ ?  
+> └ ??  
+> └ What?  
+> └ I’m too scared to say exactly who, but you know. Someone in the P— Guild is Cheon Taemin’s—no, not Cheon Taemin. I’m deleting this myself. Please don’t bring it up.  
+> └ Ah, fuck.  
+> └ There are two ways to make someone angry. The first is to start saying something and then stop.  
 > └ Ha… Some bastard just cost me a night’s sleep.
 
 *Clink.*
@@ -133,7 +133,7 @@ I gave a small nod.
 
 I wasn’t the only one who’d drawn attention during the Small Cataclysm in Sichuan Province. While the world was in an uproar over the monster wave caused by the Lich, the media and the public had barely stopped talking about me. But at some point, word of Team Leader Choi had begun to spread as well.
 
-*A needle in a bag.*[^5]
+*A needle in a bag.*[^1]
 
 That was Team Leader Choi. He’d learned martial arts from me and taken his skills to another level, then distinguished himself on the battlefield. He was also handsome enough to put a celebrity to shame. The attention from people who cared about looks alone was nothing to sneeze at.
 
@@ -169,7 +169,7 @@ I scratched my chin awkwardly.
 
 “Putting that aside, can I ask you a few things?”
 
-“Go ahead. The seaweed soup[^6] will be out soon, so you’ll have to be quick.”
+“Go ahead. The seaweed soup will be out soon, so you’ll have to be quick.”
 
 “If this was your plan, wouldn’t it have been better for me to tell everyone what Lee Jungryong was really like?”
 
@@ -225,9 +225,4 @@ Removing the hair Lee Jungryong had planted and picking out the vermin would com
 
 Team Leader Choi murmured the words, his eyes glinting coldly.
 
-[^1]: “Hundreds of trillions of won” is roughly 200–900 trillion won: about $140–640 billion and €130–580 billion.
-[^2]: An online nickname for Lee Jungryong that plays on *ryong*, meaning “dragon.”
-[^3]: A variation on the video-game prompt “Press F to pay respects,” commonly quoted online.
-[^4]: A fictional video and live-streaming platform.
-[^5]: A Korean idiom meaning that exceptional talent will eventually reveal itself, even when hidden.
-[^6]: In Korea, seaweed soup is traditionally eaten on birthdays.
+[^1]: A Korean idiom meaning that exceptional talent will eventually reveal itself, even when hidden.
