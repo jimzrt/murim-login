@@ -10,7 +10,7 @@ The moment the blue-flame-wreathed spearhead drove into the Kraken’s body, I k
 
 The spear cut through it, and fire qi exploded from within.
 
-The monster’s head, some ten meters[^1] tall, burst like a balloon. Blue blood that hadn’t evaporated rained down over the sea.
+The monster’s head, some ten meters tall, burst like a balloon. Blue blood that hadn’t evaporated rained down over the sea.
 
 And then—
 
@@ -19,19 +19,6 @@ And then—
 As the Kraken’s enormous body finally collapsed, a clear chime rang in my ears.
 
 *Ding.*
-
-
-> **System**
->
-> You have defeated Lv. 140 ‘King of the Black Sea’ Kraken!
->
-> You have gained a large amount of EXP!
->
-> **Myriad-Poison Ring** has detoxified all poison within your body!
->
-> Status Abnormality: **Poisoned** disappears!
->
-> Status Abnormality: **Paralyzed** disappears!
 
 > **System**
 >
@@ -113,13 +100,13 @@ I raised a hand and pointed. Black smoke rose between the densely packed buildin
 
 Ordinary civilians couldn’t hear what I could, but my senses had already told me what was happening.
 
-*Hssssss!*
+—Hssssss!
 
-“Tank! Three steps forward!”
+—Tank! Three steps forward!
 
-“The building! The building is collapsing! The civilians are in danger!”
+—The building! The building is collapsing! The civilians are in danger!
 
-“Aaaaaagh!”
+—Aaaaaagh!
 
 *Rumble! Boom!*
 
@@ -143,9 +130,9 @@ Everyone ate. But who you ate with, and where, made a difference to how formal t
 
 By that measure, the breakfast shared by the two people sitting across from each other had been formal indeed.
 
-The late-starting breakfast had continued for a full two hours amid quiet conversation. By then, a beautifully decorated dish of sujeonggwa[^2] had been placed on the spotless white tablecloth.
+The late-starting breakfast had continued for a full two hours amid quiet conversation. By then, a beautifully decorated dish of sujeonggwa[^1] had been placed on the spotless white tablecloth.
 
-“Since Seollal[^3] is just around the corner, I had tteokguk[^4] prepared… I’m not sure whether the meal suited your taste, Team Leader Choi.”
+“Since Seollal is just around the corner, I had tteokguk prepared… I’m not sure whether the meal suited your taste, Team Leader Choi.”
 
 Choi Minwoo wiped his mouth with a napkin before answering the gentle, courteous voice.
 
@@ -155,11 +142,11 @@ Choi Minwoo wiped his mouth with a napkin before answering the gentle, courteous
 
 The middle-aged man across from him, President Baek Hanseong, smiled warmly.
 
-“You’ve been so busy lately that I was worried you weren’t eating properly. So I repeatedly impressed upon the head chef here at the Blue House[^5] that you were an important guest and that he needed to take special care with your meal.”
+“You’ve been so busy lately that I was worried you weren’t eating properly. So I repeatedly impressed upon the head chef here at the Blue House that you were an important guest and that he needed to take special care with your meal.”
 
 “Important guest” was no empty compliment.
 
-An invitation to breakfast at the Blue House[^5] already marked a person as powerful and influential. A meal alone with the President meant something more.
+An invitation to breakfast at the Blue House already marked a person as powerful and influential. A meal alone with the President meant something more.
 
 Baek Hanseong valued Choi Minwoo that highly.
 
@@ -205,7 +192,7 @@ While President Baek Hanseong entertained thoroughly political thoughts, Choi Mi
 
 Strange. He had just finished breakfast, yet his stomach felt empty.
 
-He wanted Jin Taekyung’s mother’s kimchi stew more than the tteokguk[^4] the Blue House[^5] head chef—a master of Korean cuisine—had prepared with such care.
+He wanted Jin Taekyung’s mother’s kimchi stew more than the tteokguk the Blue House head chef—a master of Korean cuisine—had prepared with such care.
 
 Fluffy white rice from a pressure cooker of a kind rarely seen these days. Pork cooked until tender, and well-aged kimchi.
 
@@ -217,7 +204,7 @@ As Choi Minwoo realized he was unconsciously smacking his lips, he let out a fai
 
 *So that’s what it is.*
 
-He wasn’t particularly fond of tteokguk[^4] or kimchi stew. Nor was he looking forward to dinner because her cooking was better than the Blue House[^5] chef’s.
+He wasn’t particularly fond of tteokguk or kimchi stew. Nor was he looking forward to dinner because her cooking was better than the Blue House chef’s.
 
 He simply liked being there. The warm food, shared with warm people.
 
@@ -238,6 +225,8 @@ Choi Minwoo thought of the last time he had seen his maternal grandfather—a me
 *Soon… I’ll see you again.*
 
 At the thought of the grandfather who had shut himself away for decades, a feeling he couldn’t name rose within him.
+
+President Baek noticed the change in his expression.
 
 Noticing that Choi Minwoo’s mood had changed, President Baek Hanseong asked with concern, “Is something troubling you?”
 
@@ -271,11 +260,15 @@ He opened the messages. One of his neatly groomed eyebrows twitched.
 
 > **Butler Kim**
 >
-> └ **Butler Kim:** Butler Kim
-> └ **Butler Kim:** Emergency Monster Wave in Busan
-> └ **Butler Kim:** Extra-large named monster sighted
-> └ **Butler Kim:** Young Master, where are you?
-> └ **Butler Kim:** Young Maㄴter
+> **Butler Kim**
+>
+> Emergency Monster Wave in Busan
+>
+> Extra-large named monster sighted
+>
+> Young Master, where are you?
+>
+> Young Maㄴter
 
 The messages were from Butler Kim. They were short, but there was nothing small about the news.
 
@@ -309,7 +302,7 @@ The worst of the immediate crisis might have passed, but this was no time to sit
 
 “Of course. We’ll speak another time.”
 
-They exchanged brief farewells. Choi Minwoo had just left the Blue House[^5] when—
+They exchanged brief farewells. Choi Minwoo had just left the Blue House when—
 
 *Bzzzzzt.*
 
@@ -319,7 +312,7 @@ Team Leader Choi thought he knew who was calling and answered at once.
 
 “Yes, Butler Kim. I’m on my way ri—”
 
-“It’s me.”
+—It’s me.
 
 “…!”
 
@@ -327,10 +320,6 @@ Choi Minwoo stopped dead.
 
 Song Cheonwoo’s aged voice came through the phone.
 
-“Let’s talk for a moment. It’s urgent.”
+—Let’s talk for a moment. It’s urgent.
 
-[^1]: Ten meters is about 33 ft.
-[^2]: Sujeonggwa is a traditional Korean cinnamon punch, often served chilled with dried persimmons and pine nuts.
-[^3]: Seollal is the Korean Lunar New Year.
-[^4]: Tteokguk is Korean rice-cake soup traditionally eaten at Seollal.
-[^5]: The Blue House is Korea’s presidential office.
+[^1]: Sujeonggwa is a traditional Korean cinnamon punch, often served chilled with dried persimmons and pine nuts.
