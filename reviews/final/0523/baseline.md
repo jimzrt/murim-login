@@ -16,7 +16,7 @@ Those impurities were turbid qi. They muddied the purity of my internal energy, 
 
 I kept circulating my energy, repeating the words to myself as if entranced.
 
-Three jiazi[^1] of internal energy took the shape of a fire dragon and swam unhindered through my body. In the image I held in my mind, the dragon grew larger, its heat burning hotter.
+Three jiazi of internal energy took the shape of a fire dragon and swam unhindered through my body. In the image I held in my mind, the dragon grew larger, its heat burning hotter.
 
 Then I knew.
 
@@ -98,7 +98,7 @@ I had just begun to move my internal energy with care when someone spoke.
 
 Crack!
 
-The sudden voice shattered my concentration. The internal energy taking shape as Five Qi Returning to Origin scattered.
+The sudden voice shattered my concentration. The internal energy taking shape as Five Qi Returning to Origin scattered, then reversed its flow.
 
 At the same time, my internal energy reversed its flow. Gastric juices surged up from deep inside my body, and I vomited.
 
@@ -126,7 +126,7 @@ Mungyeong inspected the shoes on his feet before answering.
 
 “Not that. Why did you talk to me while I was circulating my qi?”
 
-“I didn’t even shake you, so what’s the problem? You’ve reached that realm, yet your composure is shattered by a few words. That is your deficiency.”
+“I didn’t even touch you, so what’s the problem? You’ve reached that realm, yet your composure is shattered by a few words. That is your deficiency.”
 
 “You startled me!”
 
@@ -178,7 +178,7 @@ I roared furiously.
 
 “You cold-blooded murderer! You’re just like that bastard the Slaughter Saint!”
 
-“He was asleep blocking the door. I tried to wake him, but he wouldn’t budge… What did you just say?”
+“He was asleep in front of the door. I tried to wake him, but he wouldn’t budge… What did you just say?”
 
 “Huh?”
 
@@ -190,7 +190,7 @@ I roared furiously.
 
 Right on cue, Hyuk Mujin’s corpse—no, his body—stirred. A vigorous snore followed.
 
-Grrrrrr.
+“Grrrrrr.”
 
 “…”
 
@@ -234,7 +234,7 @@ At times like this, I had to regain my composure. I calmly wiped the spit from m
 
 “If I put internal energy behind it, I can burst someone’s eyeballs.”
 
-“Impressive. Are you Zerg,[^2] by any chance?”
+“Impressive. Are you Zerg, by any chance?”
 
 “I’m the Grim Reaper.”
 
@@ -322,15 +322,6 @@ I touched the red pill in its case.
 
 Ding.
 
-
-> **System**
->
-> Mungyeong’s Specially Crafted Pill for Jin Taekyung
->
-> Would you like to view more detailed information?
->
-> **Y / N**
-
 > **System**
 >
 > Mungyeong’s Specially Crafted Pill for Jin Taekyung
@@ -356,6 +347,3 @@ What I felt toward Mungyeong was half gratitude, half fear.
 Being treated this well all of a sudden felt like being fed a good meal before an execution.
 
 As if he understood what my trembling gaze meant, Mungyeong opened his mouth.
-
-[^1]: A *jiazi* is a traditional sixty-year cycle. Three jiazi amount to 180 years.
-[^2]: The Zerg are an insect-like alien species in the *StarCraft* games.
