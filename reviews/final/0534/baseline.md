@@ -94,15 +94,15 @@ His astonishing martial power, which far surpassed that of any young prodigy, wa
 
 Their conversation from moments ago came back to him.
 
-“I don’t know whether you’ve heard of the Black Dragon Demon Gate.”
+*“I don’t know whether you’ve heard of the Black Dragon Demon Gate.”*
 
-“So what brings someone as important as the Young Sect Leader of the Black Dragon Demon Gate here?”
+*“So what brings someone as important as the Young Sect Leader of the Black Dragon Demon Gate here?”*
 
-“Is that all?”
+*“Is that all?”*
 
-“What else do you need?”
+*“What else do you need?”*
 
-“…!”
+*“…!”*
 
 The question had caught Sama Pyo so completely off guard that he’d had no answer. No one had ever asked him that in all his years as the Young Sect Leader of the Black Dragon Demon Gate.
 
@@ -116,7 +116,7 @@ His lips moved soundlessly around the thought. Then he turned to Taishan.
 
 *—If you had to fight Blazing Flame Divine Dragon Jin Taekyung, what would you do?*
 
-In an instant, the smile vanished from Taishan’s face. His expression hardened, and his Sound Transmission followed without the slightest hesitation.
+Then a Sound Transmission arrived without the slightest hesitation.
 
 *—Taishan owes Lord a great debt. If Lord commands it, Taishan fights anyone.*
 
@@ -172,9 +172,7 @@ Sama Pyo walked away, leaving Taishan’s desperate cries behind him. His face w
 
 *Ju Hwaran… I never expected to meet her here.*
 
-Whether it was coincidence or fate, Sama Pyo couldn’t say.
-
-But one thing was certain. The woman who had been his fiancée, if only for a short time—Dagger Hidden Flower Ju Hwaran—would consider everything connected to him an ill-fated relationship.
+The woman who had been his fiancée, if only for a short time—Dagger Hidden Flower Ju Hwaran—would consider everything connected to him an ill-fated relationship.
 
 *An ill-fated relationship… It wouldn’t be wrong.*
 
@@ -182,7 +180,7 @@ His gaze turned cold.
 
 * * *
 
-The rest of the meal went smoothly. The innkeeper treated us lavishly, everyone else kept staring, and outside the inn we exchanged farewells.
+The rest of the meal went smoothly. The innkeeper gave us a lavish send-off, everyone else kept staring, and outside the inn we exchanged farewells.
 
 No. To be precise, it would be more accurate to say that Ju Hwaran said farewell to us.
 
@@ -264,7 +262,7 @@ Different answers, but they had two things in common: both pissed me off, and bo
 
 “Damn it.”
 
-I kicked at the ground. Honestly, I felt a little aggrieved. How was I supposed to have stayed calm in that situation?
+Honestly, I felt a little aggrieved. How was I supposed to have stayed calm in that situation?
 
 *A fiancé, out of nowhere.*
 
@@ -272,7 +270,7 @@ Just thinking about it made my head spin. Forget a grenade—that was a ballisti
 
 “I told you not to ask,” Gung Gibang said.
 
-“If I’d known it would be like this, I wouldn’t have asked,” I replied with a sigh. “Besides, Young Lady Ju brought it up first.”
+“If I’d known it would be like this, I wouldn’t have asked. Besides, Young Lady Ju brought it up first.”
 
 “Because you made it so obvious you wanted to know.”
 
@@ -340,11 +338,11 @@ I was taking damage from every direction just by breathing. I sighed and adjuste
 
 I knew roughly what had happened. Hwaran had told me about her past plainly and without hiding anything.
 
-“It was a political marriage. I hadn’t even seen his face before that.”
+*“It was a political marriage. I hadn’t even seen his face before that.”*
 
 Nothing unusual about that. The Yongbong Escort Bureau had been declining day by day, and the Black Dragon Demon Gate had reached out to Hwaran with an offer she couldn’t refuse.
 
-“I made the decision myself. For my father, after he collapsed.”
+*“I made the decision myself. For my father, after he collapsed.”*
 
 Her calm voice and expression were still on my mind when someone called to me.
 
@@ -356,4 +354,4 @@ Jin Wikyung stood before me, a large man, though not quite as enormous as Taisha
 
 “Great Hero Mae—no, the Alliance Leader is looking for you.”
 
-[^1]: The Korean for “order slip,” *jumunpyo*, shares its final syllable, *pyo*, with Sama Pyo’s name.
+[^1]: The Korean for “order slip,” *jumunpyo*, shares its final syllable with Sama Pyo’s name.
