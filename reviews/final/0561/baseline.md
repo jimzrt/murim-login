@@ -28,23 +28,49 @@ Song Song had posted an urgent message in the group chat for the Peace Guild’s
 
 > **Peace Guild**
 >
-> └ **Song Song:** Hey hey heyyy
-> └ **Song Song:** C-rank Gate anomaly.
-> └ **Song Song:** Just heard from the government hotline.
-> └ **Song Song:** They say the magical power readings are skyrocketing.
-> └ **Song Song:** Fuck; why aren’t you reading this?
-> └ **Song Song:** If you’ve read it, answer me, you crazy bastard.
-> └ **Butler Kim:** Sorry. I’m at the Blue House[^1] right now.
-> └ **Song Song:** S-sorry;; I didn’t know it was you, Butler Kim;;; Please get back to what you were doing……
-> └ **Butler Kim:** Of course. Have a happy day too, Song-i. ^^
-> └ **Song Song:** Huh. Everyone but one person has read it?
-> └ **Song Song:** Whoever’s seen this, get over there and check it out as fast as you can.
-> └ **Song Song:** It’s far from me, and I have something to take care of, so I can’t go right away.
-> └ **Song Song:** [Map attached]
-> └ **Song Song:** ?
-> └ **Song Song:** Oh, but now that I’ve checked, that Gate is kind of…
-> └ **Song Song:** Just go for now.
-> └ **Song Song:** Especially you, Jin Taekyung. Reply as soon as you read this.
+> **Song Song**
+>
+> Hey hey heyyy
+>
+> C-rank Gate anomaly.
+>
+> Just heard from the government hotline.
+>
+> They say the magical power readings are skyrocketing.
+>
+> Fuck; why aren’t you reading this?
+>
+> If you’ve read it, answer me, you crazy bastard.
+>
+> **Butler Kim**
+>
+> Sorry. I’m at the Blue House right now.
+>
+> **Song Song**
+>
+> S-sorry;; I didn’t know it was you, Butler Kim;;; Please get back to what you were doing……
+>
+> **Butler Kim**
+>
+> Of course. Have a happy day too, Song-i. ^^
+>
+> **Song Song**
+>
+> Huh. Everyone but one person has read it?
+>
+> Whoever’s seen this, get over there and check it out as fast as you can.
+>
+> It’s far from me, and I have something to take care of, so I can’t go right away.
+>
+> **[Map attached]**
+>
+> ?
+>
+> Oh, but now that I’ve checked, that Gate is kind of…
+>
+> Just go for now.
+>
+> Especially you, Jin Taekyung. Reply as soon as you read this.
 
 *Where is it?*
 
@@ -96,7 +122,7 @@ My eyes went to both of his arms before I could stop them.
 
 The arms severed on someone’s orders had been reattached so cleanly you would never have known anything had happened. But they were trembling faintly, as though he remembered the pain.
 
-“Uncle Kkeokjeong. No—hyung.[^2]”
+“Uncle Kkeokjeong. No—hyung.”
 
 “…I’m fine.”
 
@@ -108,7 +134,7 @@ As if he’d noticed the look on my face, he made an effort to relax his own.
 
 “…No. Those bastards can handle it themselves.”
 
-*How am I supposed to go? Not in this situation. Especially to help them, of all people.*
+*How am I supposed to go? Especially to help them?*
 
 I stood rooted to the spot. Kkeokjeong gave me a faint smile.
 
@@ -118,7 +144,7 @@ I stood rooted to the spot. Kkeokjeong gave me a faint smile.
 
 “I meant it when I said I’m fine. Everyone who cut off my arms, Lee Jungryong included, has paid for it. My rehabilitation’s practically finished, too. These days, I’m happy spending time with my wife and watching the kids grow up.”
 
-“Hyung[^2]…”
+“Hyung…”
 
 “I’m really fine, so hurry up and go. There must be plenty of good people in Ares Guild, too. If you let a petty personal reason stop you from helping, you’ll regret it for a long time. At least, the Taekyung I know would.”
 
@@ -174,7 +200,7 @@ A fist filled with rage slammed into a parked car.
 
 *Bam!*
 
-With a thunderous crash, the foreign car worth more than a hundred million won[^3] crumpled, sending large and small fragments flying in every direction.
+With a thunderous crash, the foreign car worth more than a hundred million won crumpled, sending large and small fragments flying in every direction.
 
 That was when the flushed, hard-breathing B-rank Hunter spotted the Skeleton King and me.
 
@@ -311,7 +337,3 @@ I’d thought he was a complete moron. Maybe he was only a fool.
 I let out a short laugh and left him with one final remark before striding toward the Gate.
 
 “Call me if you get fired. The Peace Guild will take you in.”
-
-[^1]: The Blue House was the office and residence of South Korea’s president.
-[^2]: *Hyung* is a Korean term a man uses for an older brother or an older man with whom he is close.
-[^3]: One hundred million won is about $71,000 or €65,000; the car is worth more than that.
