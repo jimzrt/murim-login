@@ -106,7 +106,7 @@ Cheongpung was impossible to predict, but even he quieted down in front of Mungy
 
 Water Dragon Stronghold had two swift ships heading toward Henan. Jeok Cheongang had insisted on splitting the passengers between them because there were so many, and Mu Song hadn’t dared defy the Fire King.
 
-Thinking of the Deputy Stronghold Lord traveling comfortably aboard the other swift ship, more than a hundred jang[^1] ahead, was enough to make his stomach hurt.
+Thinking of the Deputy Stronghold Lord traveling comfortably aboard the other swift ship, more than a hundred jang ahead, was enough to make his stomach hurt.
 
 *Compared to this, that ship’s a flower garden. A goddamn flower garden.*
 
@@ -180,7 +180,7 @@ Mu Song’s expression darkened.
 
 As if the monster known as the Fire King, Jeok Cheongang, weren’t enough, now an unidentified old monster who had achieved Returned to Youth was aboard as well. Mu Song almost missed the days when he hadn’t known.
 
-Seeing his mighty Stronghold Lord look so vulnerable, the senior river bandit asked anxiously, “At this rate, are we ever going to make it back to Sichuan? We’ve already been away from the Water Dragon Stronghold for nearly two months. I’m worried it might stay vacant forever.”
+“At this rate, are we ever going to make it back to Sichuan? We’ve already been away from the Water Dragon Stronghold for nearly two months. I’m worried it might stay vacant forever.”
 
 “Don’t say such unlucky things. They say you can survive even in a tiger’s den if you keep your head.”
 
@@ -322,5 +322,3 @@ A large body drew closer with remarkable stealth. The fin poking above the water
 *No, fuck.*
 
 Why the hell was there a shark in the Yangtze?
-
-[^1]: A jang is ten ja, or approximately 3.03 meters (9.94 feet). A hundred jang is approximately 303 meters (994 feet).
