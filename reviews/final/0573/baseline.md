@@ -4,7 +4,7 @@ Everything had an order and a progression.
 
 Mutated Gates were no exception.
 
-When a magical power reading crossed a certain threshold, an alarm sounded and everyone nearby received an evacuation order.
+When a magic power reading crossed a certain threshold, an alarm sounded and everyone nearby received an evacuation order.
 
 But the ordinary Grade C Gate had become a Mutated Gate and then a Monster Wave in just a few dozen seconds.
 
@@ -102,7 +102,7 @@ Each had spent anywhere from one to ten years fighting monsters. They knew exact
 
 Fortunately, only around a dozen Mermen had appeared at the intersection.
 
-None of the four was a particularly high-Grade Hunter, but against that many, they might be able to hold out and buy time.
+None of the four was a particularly high-rank Hunter, but against that many, they might be able to hold out and buy time.
 
 “Surround them!”
 
@@ -126,9 +126,9 @@ And even this many might be just a fraction of it.
 
 All four thought the same thing.
 
-Fighting a dozen Mermen would have meant risking their lives. For four low-to-mid-Grade Hunters, taking on this many was nearly impossible.
+Fighting a dozen Mermen would have meant risking their lives. For four low-to-mid-rank Hunters, taking on this many was nearly impossible.
 
-No—it *was* impossible without high-Grade Hunters to back them up.
+No—it *was* impossible without high-rank Hunters to back them up.
 
 “W-we could hold out until reinforcements arrive…”
 
@@ -172,7 +172,7 @@ The song burrowed into their ears. Their grips on their weapons weakened, and th
 
 They could see death coming. Neither they nor the nearly thousand civilians around them would escape it.
 
-And the massacre wouldn’t end here. Even if high-Grade Hunters arrived, they couldn’t protect every one of Busan’s millions of citizens.
+And the massacre wouldn’t end here. Even if high-rank Hunters arrived, they couldn’t protect every one of Busan’s millions of citizens.
 
 *Fuck. I didn’t think I’d die like this.*
 
@@ -234,8 +234,6 @@ Sharper than spearheads and as fast as arrows, bone fragments rained down on the
 
 *Fwooooosh! Thud-thud-thud-thud!*
 
-Thousands of bone fragments fired at once smashed scales and tore through fins.
-
 A Merman that barely managed to knock away several bone fragments with its spear was immediately turned into a pincushion by another fragment that came flying at it, then collapsed.
 
 *Thud-thud-thud!*
@@ -246,7 +244,7 @@ Amid that horrifying spectacle, the humans stood frozen as they watched the neat
 
 *Thump. Thump. Crash!*
 
-In little more than ten seconds, nearly half of the two hundred Mermen collapsed.
+Nearly half of the two hundred Mermen collapsed in an instant.
 
 No. They had melted.
 
@@ -334,8 +332,6 @@ Time to finish this.
 
 *Fwoosh.*
 
-Flames wrapped around the spearhead and spun faster. I poured all my internal energy into the spear and drove it down toward the creature’s eye.
+I poured all my internal energy into it and drove the spear down toward the creature’s eye.
 
-Fire Dragon Divine Spear, Third Form: Takoyaki.[^1]
-
-[^1]: Takoyaki is a Japanese snack of batter balls filled with octopus.
+Fire Dragon Divine Spear, Third Form: Takoyaki.
