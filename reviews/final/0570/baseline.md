@@ -74,29 +74,29 @@ His résumé gave them nothing to complain about, and from what the Team Leader 
 
 Finding people was hard enough these days. Even now, the DJs chatting quietly on the radio were discussing the main reason Hunters were in short supply.
 
-“We have a comment from Shin Ayoung, a woman in her twenties who lives in Pocheon, Gyeonggi Province. ‘A Mutated Gate appeared near my home three days ago. It happened only ten minutes away, and I’ve been so anxious I can’t sleep.’”
+—We have a comment from Shin Ayoung, a woman in her twenties who lives in Pocheon, Gyeonggi Province. “A Mutated Gate appeared near my home three days ago. It happened only ten minutes away, and I’ve been so anxious I can’t sleep.”
 
-“Oh, no… You live right near it? That’s awful.”
+—Oh, no… You live right near it? That’s awful.
 
-“I remember seeing that on the news. Apparently it was extremely dangerous. There could have been a lot of casualties.”
+—I remember seeing that on the news. Apparently it was extremely dangerous. There could have been a lot of casualties.
 
-“Thank goodness they stopped it just before it became a Monster Wave.”
+—Thank goodness they stopped it just before it became a Monster Wave.
 
 The Team Leader turned up the volume.
 
 As a Hunter, there was no way he could have missed the Pocheon Mutated Gate incident three days earlier. Even Dongseok, who had been staring out the window, seemed to be listening.
 
-“Fortunately, there were no deaths this time either.”
+—Fortunately, there were no deaths this time either.
 
-“That’s right. They stopped the Monster Wave, so there were no civilian casualties, and the Mutated Gate was dealt with quickly.”
+—That’s right. They stopped the Monster Wave, so there were no civilian casualties, and the Mutated Gate was dealt with quickly.
 
-“That was Peace Guild’s Emergency Rescue Team, wasn’t it?”
+—That was Peace Guild’s Emergency Rescue Team, wasn’t it?
 
-“Yes. Hunter Jin Taekyung didn’t go himself, but Peace Guild’s Emergency Rescue Team did an impressive job.”
+—Yes. Hunter Jin Taekyung didn’t go himself, but Peace Guild’s Emergency Rescue Team did an impressive job.
 
-“Rising magic power readings have become a serious problem here and overseas. Of all the countries in the world, ours has been recognized for responding the fastest and suffering the least damage.”
+—Rising magic power readings have become a serious problem here and overseas. Of all the countries in the world, ours has been recognized for responding the fastest and suffering the least damage.
 
-“It really is remarkable. And it isn’t just Hunter Jin Taekyung and Peace Guild’s Emergency Rescue Team. All the Hunters fighting monsters under these circumstances deserve our…”
+—It really is remarkable. And it isn’t just Hunter Jin Taekyung and Peace Guild’s Emergency Rescue Team. All the Hunters fighting monsters under these circumstances deserve our…
 
 As the DJ went on, the Team Leader stole another glance at Dongseok.
 
@@ -134,9 +134,9 @@ The Team Leader eased onto the brakes. When he parked in the Gate management off
 
 “Hey, Team Leader Kim. You made it.”
 
-“You’re here, hyung[^1].”
+“You’re here, hyung.”
 
-“You’re early, oppa[^2]. But who’s that with you…?”
+“You’re early, oppa. But who’s that with you…?”
 
 “This is Dongseok. You know—the temporary guy I told you about.”
 
@@ -144,7 +144,7 @@ The Team Leader eased onto the brakes. When he parked in the Gate management off
 
 “I think he is. Dongseok, these are the rest of the team…”
 
-The Team Leader naturally turned his head, then blinked. Something about Dongseok didn’t look right.
+The Team Leader naturally turned his head, then blinked.
 
 “Dongseok. Are you feeling sick?”
 
@@ -234,27 +234,27 @@ It was a January morning. The sky was blue, and the wind was still cold.
 
 And… this might be the last sky he ever saw.
 
-“I have a mission for you.”
+*I have a mission for you.*
 
 A voice he had heard several days earlier seemed to reach him on the wind, along with his own answer.
 
-“I’ll do it.”
+*I’ll do it.*
 
-“Your life could be at risk.”
+*Your life could be at risk.*
 
-“The former Vice Guild Master saved my life in the first place.”
+*The former Vice Guild Master saved my life in the first place.*
 
 He had been told that his mother, whose face he had never seen, gave birth to him in a subway restroom. Wrapped in toilet paper and thrown into a trash can, the newborn survived by sheer luck. He was sent to an orphanage secretly supported by Lee Jungryong, where he grew up healthy and strong.
 
-“If I can help… I’ll do anything.”
+*If I can help… I’ll do anything.*
 
 To him, Lee Jungryong was a father, and Ares Guild was the home he’d shared with that father. He could do anything for him.
 
-“Leave it to me.”
+*Leave it to me.*
 
 At his resolute answer, the other person had smiled broadly. Then he had handed him something—an object now kept deep in his subspace pocket.
 
-“You must succeed.”
+*You must succeed.*
 
 That was the last thing he’d said. After receiving his orders, Dongseok changed everything, including his face and name, and went down to Busan with that precious, dangerous object in his possession.
 
@@ -282,9 +282,9 @@ After arriving in Busan through three Teleportation magic circles, I knew at onc
 
 No—I could feel it.
 
-“Aaaaaah!”
+—Aaaaaah!
 
-“Aaargh!”
+—Aaargh!
 
 *Kwaaaang!*
 
@@ -295,6 +295,3 @@ The countless screams and tremendous din coming from far away. And…
 The immense magical power shaking the earth.
 
 “…Fuck.”
-
-[^1]: *Hyung* is a term a man uses to address an older brother or an older man with whom he is close.
-[^2]: *Oppa* is a term a woman uses to address an older brother or an older man with whom she is close.
