@@ -52,13 +52,13 @@ Song raised his head. Someone was walking slowly toward him.
 
 The only blood descendant of *that person*, whom Song had always respected and feared. He remembered the quiet words he had heard just before the lightning struck.
 
-“Have you forgotten whose blood flows through my veins?”
+*“Have you forgotten whose blood flows through my veins?”*
 
-But now Song saw someone else in the young man before him. Someone who was not here, who existed only in his memories. Someone he could not have watched from nearby without feeling both reverence and fear.
+But now Song saw someone else in the young man before him. Someone who existed only in his memories. Someone he could not have watched from nearby without feeling both reverence and fear.
 
 Song realized something he had long forgotten: Cheon Taemin’s blood flowed through Choi Minwoo’s veins.
 
-“…Hyung[^1]?”
+“…Hyung?”
 
 The word escaped between ragged breaths.
 
@@ -102,7 +102,7 @@ His trembling gaze lifted to Choi, whose calm expression made the bloody fight t
 
 “I’m not sure.”
 
-Choi felt the immense power flowing through his body. Only a few months ago, he had been unable to sense it. It was the only gift his maternal grandfather had left him—and Jin Taekyung had torn open the wrapping and returned it to its rightful owner, along with a way to put the gift to good use.
+Only a few months ago, he had been unable to sense it. It was the only gift his maternal grandfather had left him—and Jin Taekyung had torn open the wrapping and returned it to its rightful owner.
 
 “Perhaps… because I was stronger than you.”
 
@@ -178,7 +178,7 @@ The voice came from somewhere above them. It was not Choi’s.
 
 *Crunch.*
 
-Kim Hwajong stepped onto the ground, covered from head to toe in blue yeti blood. Flames burned in the old butler’s eyes, matching the whip of fire in his hand.
+Kim Hwajong stepped onto the ground, covered from head to toe in blue yeti blood.
 
 “Hwa-jong. It’s you.”
 
@@ -230,7 +230,7 @@ Kim cursed as he handed over a mid-grade potion. Choi’s eyes widened.
 
 “Why stop now…?”
 
-“You’re almost thirty now. Since things have come to this, learn from me if you want to learn. Or don’t.”
+“You’re almost thirty now. Since things have come to this, learn from me if you want to learn. Otherwise, drink this.”
 
 *Is this really the man who’s been by my side since I was a child?*
 
@@ -280,12 +280,10 @@ Choi gazed at him coldly and slowly tipped the potion.
 
 *Hiss.*
 
-The wound began to close the moment the milky liquid touched it. It was an extremely weak recovery, but to someone, it was a lifeline that could give them enough strength for one final effort.
+It was an extremely weak recovery, but to someone, it was a lifeline that could give them enough strength for one final effort.
 
 *Crack!*
 
-Where had that strength come from?
+Where had Song found it?
 
 Amid the snow exploding in every direction, Song Cheonwoo launched himself with superhuman force and slipped into the enormous crevasse.
-
-[^1]: *Hyung* is a Korean term a man uses for an older brother or a close older man.
