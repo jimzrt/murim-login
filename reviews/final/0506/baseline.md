@@ -150,7 +150,7 @@ One of the river bandits must have overheard me mutter it while I was changing t
 
 “I see. I see.”
 
-Judging by Mu Song’s grim voice, the river bandit who had passed along the wrong information probably would not escape a taste of the Yangtze today.
+Judging by Jeok Cheongang’s grim voice, the river bandit who had passed along the wrong information probably would not escape a taste of the Yangtze today.
 
 I turned toward Mu Song, who was glaring somewhere with a dangerous look in his eyes.
 
@@ -158,7 +158,7 @@ I turned toward Mu Song, who was glaring somewhere with a dangerous look in his 
 
 Although Mu Song was startlingly young compared with the other old martial-world veterans, he was still an experienced river bandit who had spent his entire life on the Yangtze.
 
-He took a moment to work it out, then said, “We should be able to cut the travel time considerably. If weather like today’s continues, we’ll reach Xixia within ten days at the latest.”
+“We should be able to cut the travel time considerably. If weather like today’s continues, we’ll reach Xixia within ten days at the latest.”
 
 “Xixia?”
 
@@ -196,7 +196,7 @@ After the Water God Dragon fell, Mu Song and the other river bandits of Water Dr
 
 They had lived on the Yangtze and died on the Yangtze. It was an end befitting river bandits of the Yangtze River Channel League.
 
-“They must be grateful to you from the Nine Springs.[^1]”
+“They must be grateful to you from the Nine Springs.”
 
 “Was your name Mu Saeng? For a Disciple of the Seafaring King, you have decent manners. Yangtze One Saber raised you well.”
 
@@ -210,7 +210,7 @@ Had his infirmities of old age not been completely cured after all?
 
 For a moment, I wondered. Then I saw Jeok Cheongang glare and realized he was just being stubborn. Whatever Mu Song’s name really was, that look said he’d better change it if Jeok Cheongang called him Mu Saeng.
 
-Mu Song swallowed under the aura of a man steeped in the Three Bonds and Five Relationships.[^2]
+Mu Song swallowed under the aura of a man steeped in the Three Bonds and Five Relationships.[^1]
 
 “What? Why?”
 
@@ -290,5 +290,4 @@ Jeok Cheongang seemed to have reached the same thought. He was muttering to hims
 
 I turned. Mungyeong stood there, his expression composed.
 
-[^1]: The Nine Springs is a traditional expression for the realm of the dead.
-[^2]: The Three Bonds and Five Relationships are a traditional Confucian framework of social and familial duties.
+[^1]: The Three Bonds and Five Relationships are a traditional Confucian framework of social and familial duties.
