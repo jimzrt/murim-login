@@ -254,7 +254,7 @@ Go Se-won wasn’t the only one waiting on the top floor. Roughly a hundred Ares
 
 *Fwoosh!*
 
-A vast surge of energy shook the hall, filling it with blue, red, and brilliant light.
+The hall filled with blue, red, and brilliant light.
 
 Their attacks were stronger and their barrage denser than anything I’d faced on the way up. I stepped forward alone.
 
@@ -266,7 +266,7 @@ My foot struck the floor, charged with internal energy, and flames rose to heat 
 
 *Fwoosh! Screeeeeech!*
 
-One step was enough. I erased more than ten meters[^1] of distance and struck at the air with my palm.
+One step was enough. I erased more than ten meters of distance and struck at the air with my palm.
 
 Arrows melted before the blue-white hellfire. Every spell flying toward me came apart.
 
@@ -278,7 +278,7 @@ The intense heat of Scorching Yang Qi ignored even elemental affinities. As atta
 
 *KABOOM!*
 
-Despite the considerable impact, the Tower Shields didn’t waver an inch. They blocked the aftermath of the Magic without suffering the slightest damage, then tilted diagonally.
+The Tower Shields tilted diagonally after blocking the aftermath of the Magic without suffering the slightest damage.
 
 At the same moment, twenty figures sprang up, using the wall of steel as a foothold.
 
@@ -330,8 +330,6 @@ It struck the enemy behind him, who had been about to use his comrade’s body a
 
 “Graaaaaah!”
 
-Blood burst from the man’s seven apertures[^2].
-
 Before the man whose heart meridians had been severed throughout his body could even lower his head, I was already moving toward another enemy.
 
 *Crack!*
@@ -354,9 +352,7 @@ As when the Black Hunters had attacked Uncle Kkeokjeong, I had no intention of s
 
 *I have to show them here. Make sure this never happens again.*
 
-I had been a Hunter long before I became a martial artist.
-
-I had also been a modern man born in the twenty-first century, someone who had lived in a civilized society where reason and the law existed. That was why I hadn’t been able to eliminate Go Jun in Sichuan.
+I had also been a modern man born in the twenty-first century, someone who had lived in a civilized society where reason and the law existed.
 
 Unlike Lee Jungryong, whom I had been able to eliminate amid chaos and destruction, Go Jun had been protected by a fence built from the two-syllable Korean term for the rule of law.
 
@@ -414,7 +410,7 @@ He tried to, anyway.
 
 *Tap-tap-tap! BOOM!*
 
-A flowing grappling technique followed seamlessly. Another burst of heat drove Go Se-won back, and he thrust out his hand.
+A flowing grappling technique followed seamlessly.
 
 *Fwish!*
 
@@ -480,7 +476,7 @@ What he said next caught even me off guard.
 
 “…You want me to kill you?”
 
-Go Se-won gave a small nod. Even as pain wracked his body, his eyes remained calm, reflecting my face.
+Even as pain wracked his body, his eyes remained calm, reflecting my face.
 
 “It’s too late to go back to how things were. Do it cleanly. Right here. That’s all.”
 
@@ -565,7 +561,3 @@ Everything had a flow.
 I took a deep breath and closed my eyes. Blue-white Force burst from the spearhead in my hand and tore through the empty air.
 
 *Swoooooosh!*
-
-[^1]: Ten meters is about 33 ft.
-
-[^2]: The seven apertures are the eyes, ears, nostrils, and mouth.
