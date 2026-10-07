@@ -50,7 +50,7 @@ They did not all have to believe me right away. Getting them to listen was enoug
 
 *It only got through at all because they’re martial artists and I had hard evidence.*
 
-If my audience had been a bunch of old Confucian scholars, they would have shouted “Confucius Akbar!”[^1] and staged a protest against supernatural powers. The people in the great conference hall were not quite that close-minded.
+If my audience had been a bunch of old Confucian scholars, they would have shouted “Confucius Akbar!” and staged a protest against supernatural powers. The people in the great conference hall were not quite that close-minded.
 
 At least, not with the corpse of a four-armed monster lying in front of them.
 
@@ -62,7 +62,7 @@ Its body had been separated into parts and was still being transported in strict
 
 “What?”
 
-“You know. The imugi[^2] you defeated in Hubei…”
+“You know. The imugi you defeated in Hubei…”
 
 “Ahem. Ahem. Cough-cough-cough!”
 
@@ -168,7 +168,7 @@ Mae Jonghak scratched his chin like a young man my age, then looked at me. My fa
 
 “They may not believe all of it, but they won’t dismiss it. I promise you.”
 
-Even lightly spoken words carried different weight depending on who said them. And when the speaker was the Alliance Leader of the Murim Alliance, it was only natural for those words to carry tremendous authority.
+And when the speaker was the Alliance Leader of the Murim Alliance, it was only natural for those words to carry tremendous authority.
 
 *That gives my argument more weight.*
 
@@ -206,7 +206,7 @@ Jeok Cheongang, who had been sipping strong liquor instead of tea, spoke up.
 
 “I hope I am. They can curse me for the rest of my life if I am.”
 
-I meant it. I would much rather be completely wrong. Maybe Dark Heaven would turn out to be nothing special, and no mutated monsters would ever appear.
+I meant it. I would much rather be completely wrong. Maybe Dark Heaven would turn out to be nothing special, and no monsters like that mutant would ever appear.
 
 If all it took to get a happy ending was for everyone to curse me, I’d take that deal.
 
@@ -366,8 +366,6 @@ Ignoring the eyes of everyone around me, I even used my movement technique to hu
 
 A familiar face came into view.
 
-Hyuk Mujin had been lounging in the annex. He sprang to his feet, looked back and forth between me and the shattered door, and muttered,
-
 “Welcome back… Wow. The owner is going to cry tears of blood. That door was replaced less than half an hour ago.”
 
 I had no time to sympathize with the owner. Instead of greeting Mujin, I gave him an order.
@@ -390,8 +388,4 @@ Hyuk Mujin stared at me, dumbfounded.
 
 I answered the wide-eyed Hyuk Mujin in a low voice.
 
-“Nanman.”[^3]
-
-[^1]: “Confucius Akbar” combines Confucius’s name with the phrase *Allahu akbar*, meaning “God is greatest.”
-[^2]: An *imugi* is a legendary Korean serpent associated with dragons.
-[^3]: *Nanman* is a historical Chinese term for peoples and regions south of China; it can carry a derogatory sense.
+“Nanman.”
