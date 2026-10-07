@@ -28,7 +28,7 @@ More than a hundred workers bustled about. They were all Awakened, which probabl
 
 Of course, their wages were astonishing too. But to a young tycoon with deep pockets, they were pocket change.
 
-“The Guild House is getting cramped now that we have more people.”
+*The Guild House is getting cramped now that we have more people.*
 
 Team Leader Choi had dropped that remark a few days ago and immediately taken action.
 
@@ -38,9 +38,9 @@ I’d heard he bought up all the nearby land, paying above market value for it, 
 
 Besides, I had other uses for my own money.
 
-My fifty trillion won[^1] in untaxed assets was shrinking bit by bit as I spent it, but what I’d used so far was a drop in the ocean compared to what remained.
+My fifty trillion in untaxed assets was shrinking bit by bit as I spent it, but what I’d used so far was a drop in the ocean compared to what remained.
 
-*Fifty trillion won[^1]…*
+*Fifty trillion…*
 
 Even thinking about it again, it was an absurd amount of money. Like the figure of a man gradually approaching from beyond the corridor.
 
@@ -52,7 +52,7 @@ A huge man glided through the air like a ghost and spoke without warning.
 
 “…?”
 
-*Wait. What are you doing here, hyung?*[^2]
+*Wait. What are you doing here, hyung?*
 
 I stared at Magic Johnson in disbelief before I finally managed to speak.
 
@@ -110,7 +110,7 @@ The press conference…
 
 I scratched the back of my head, embarrassed.
 
-The official Blue House[^3] press conference I’d attended at the President’s request had caused an enormous stir. I’d heard domestic viewership had topped seventy percent, and it had made headlines abroad too.
+The official Blue House press conference I’d attended at the President’s request had caused an enormous stir. I’d heard domestic viewership had topped seventy percent, and it had made headlines abroad too.
 
 Even two days later, related searches were holding firm near the top of the real-time rankings. They’d probably still be there a week from now.
 
@@ -124,7 +124,7 @@ Even two days later, related searches were holding firm near the top of the real
 
 “Well, I wasn’t the one who landed it… But I bet it got under Go Jun’s skin.”
 
-We weren’t living in the Warring States period,[^4] but anyone inheriting an organization that big still needed legitimacy.
+We weren’t living in the Warring States period, but anyone inheriting an organization that big still needed legitimacy.
 
 And Go Jun, the new Vice Guild Master of Ares Guild, didn’t have much of it.
 
@@ -152,11 +152,7 @@ Being Head of Security was proof that he had been one of Lee Jungryong’s close
 
 Even with Lee Jungryong’s will, it would not be easy for elderly veterans to respectfully serve a fresh-faced man in his thirties as their superior.
 
-On top of that, Go Jun himself had rapidly fallen apart since Lee Jungryong’s death.
-
-*And in the middle of all that, his legitimacy was openly denied during an official Blue House[^3] press conference with seventy percent viewership…*
-
-President Baek Hanseong’s remark had been both subtle and sharp.
+*And in the middle of all that, his legitimacy was openly denied during an official Blue House press conference with seventy percent viewership…*
 
 He had indirectly criticized Ares Guild over the Mutated Gate while praising Lee Jungryong’s achievements and presenting me as the man who would carry on his legacy.
 
@@ -317,8 +313,3 @@ I felt the chip and looked up. The Grand Mage’s face had turned grave.
 “It’s not just Korea and the United States. Magical power readings are soaring all over the world. Up seven percent from last year. That lucky number has never felt so ominous.”
 
 “…!”
-
-[^1]: Fifty trillion Korean won is about $36 billion or €32 billion at the project conversion rates.
-[^2]: *Hyung* is a familiar Korean term a man uses to address an older man, whether or not they are brothers.
-[^3]: The Blue House is the traditional name for South Korea’s presidential compound.
-[^4]: The Warring States period was an era of competing states in ancient China, from the fifth to the third century BCE.
