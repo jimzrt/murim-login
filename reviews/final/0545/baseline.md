@@ -8,7 +8,6 @@ The moment I murmured those three words—
 
 Clear bell tones burst like celebratory fireworks, and a new holographic window flooded my vision.
 
-
 > **System**
 >
 > - **Fire Dragon Pavilion** has been registered as the new name!
@@ -17,16 +16,6 @@ Clear bell tones burst like celebratory fireworks, and a new holographic window 
 > - **Fire Dragon Pavilion** has been officially established!
 > - You have acquired the unique Title **Fire Dragon Pavilion Master**!
 > - You have achieved the rare achievement **Murim Alliance Civil Servant with a Sword Rice Bowl**!
-> - You have acquired a large amount of Fame and EXP!
-
-> **System**
->
-> - **Fire Dragon Pavilion** has been registered as the new name!
-> - All Quest conditions have been fulfilled!
-> - Quest **Become My Companion!** has been successfully completed!
-> - **Fire Dragon Pavilion** has been officially established!
-> - You have acquired the unique Title **Fire Dragon Pavilion Master**!
-> - You have achieved the rare achievement **Murim Alliance Civil Servant with a Sword Rice Bowl**[^1]!
 > - You have acquired a large amount of Fame and EXP!
 
 A completed Quest, an achievement, and even the unique Title **Fire Dragon Pavilion Master**.
@@ -116,7 +105,7 @@ With members like that, they hadn’t called it the Five Kings Hall for nothing.
 
 And Jeok Cheongang sat at their head.
 
-By Murim’s standards of seniority and age, he was old enough to have drunk skull water with Bodhidharma.[^2] As for the martial arts that had brought him to Returned to Youth, no one could dispute his mastery.
+By Murim’s standards of seniority and age, he was old enough to have drunk skull water with Bodhidharma. As for the martial arts that had brought him to Returned to Youth, no one could dispute his mastery.
 
 *He was considered the best of the Ten Kings even during the Great Faction War.*
 
@@ -124,7 +113,7 @@ When we encountered the Blood Lord during the Shaolin Bloodshed, that bastard ha
 
 But…
 
-“Five Kings Hall, my ass. They’ve stuck me with an office that wasn’t even written in my stars.”[^3]
+“Five Kings Hall, my ass. They’ve stuck me with an office that wasn’t even written in my stars.”
 
 The man himself wouldn’t stop grumbling.
 
@@ -246,7 +235,7 @@ At the heart of the Murim Alliance, it was where the great affairs of Murim were
 
 Two among them stood out.
 
-*Smack. Smack-smack.*
+“Smack. Smack-smack.”
 
 One young man kept stuffing food into his mouth as he walked. Another watched him in silence.
 
@@ -274,9 +263,9 @@ There was envy, jealousy, and disdain, too. Their thoughts were as varied as the
 
 The two young men remained unfazed. More precisely, they paid none of it any attention.
 
-*Smack, smack. Agu, agu-agu.*
+“Smack, smack. Agu, agu-agu.”
 
-Jin Taekyung watched Cheongpung cram dumplings and meat into his mouth and muttered, “What the fuck, is he a martial artist or Agumon[^4]…?”
+Jin Taekyung watched Cheongpung cram dumplings and meat into his mouth and muttered, “What the fuck, is he a martial artist or Agumon…?”
 
 “Whah?”
 
@@ -311,8 +300,3 @@ Jin Taekyung was a Supreme Peak master who had opened his Middle Dantian. It wou
 As everyone watched the two young men with their own thoughts, a deep voice rang through the conference hall.
 
 “The Alliance Leader is entering.”
-
-[^1]: *Kalbaptong* plays on making a living by the sword and *baptong*, a “rice bowl” or livelihood. The achievement pairs that image with a civil servant’s post.
-[^2]: Bodhidharma is a figure associated with the origins of Chan Buddhism. The tale of drinking water from a skull is traditionally associated with the Korean monk Wonhyo; pairing it with Bodhidharma exaggerates Jeok Cheongang’s age.
-[^3]: *Saju* is Korean fortune-telling based on the four pillars of a person’s birth date and time. An office absent from one’s *saju* is a fate one never expected.
-[^4]: Agumon is a dinosaur-like character from *Digimon*. Its name echoes Cheongpung’s “agu-agu” eating sounds.
