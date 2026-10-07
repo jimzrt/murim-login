@@ -46,7 +46,7 @@ Hwangbo Gun’s expression brightened a little. Their days on the battlefield we
 
 “I’ll get straight to the point. The reason I requested this private audience…”
 
-He quickly recounted what had happened a few shichen[^1] earlier. His account was embellished just enough to differ subtly from the truth, though Hwangbo Gun saw it differently.
+He quickly recounted what had happened a few shichen earlier. His account was embellished just enough to differ subtly from the truth, though Hwangbo Gun saw it differently.
 
 *How dare they do this!*
 
@@ -130,7 +130,7 @@ Hwangbo Gun froze for a moment. Then he understood and stood. Family Head or not
 
 Even that polite attempt to keep him there warmed Hwangbo Gun’s heart. He had gained more than he’d hoped for, and he appreciated Mae Jonghak’s consideration for his dignity. The bond they had forged during the Great Faction War felt stronger than ever.
 
-“I can’t take up any more of your valuable time. I’ll take my leave, Alliance Leader.”
+“I can’t take up any more of your valuable time. I’ll leave you to your work, Alliance Leader.”
 
 “Then I suppose it can’t be helped.”
 
@@ -204,7 +204,7 @@ Mae Jonghak scratched his chin. A moment later, he spoke again.
 
 “Pardon?”
 
-“I’ve considered it, and I don’t think personnel action is necessary. There should be some discipline, but I can decide on that later.”
+“I’ve considered it, and I don’t think it’s necessary. There should be some discipline, but I can decide on that later.”
 
 “…!”
 
@@ -309,5 +309,3 @@ I grumbled under my breath and kicked Hyuk Mujin in the butt.
 “To recruit some teammates.”
 
 “Whaaat?”
-
-[^1]: A *shichen* is a traditional Chinese time unit of approximately two hours.
