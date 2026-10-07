@@ -70,7 +70,7 @@ Red light flashed in the Orc Lord’s eyes. The enormous ax in its hands came do
 
 One strike. That was all it took.
 
-The blow was unbelievably fast and powerful. With a thunderous roar, it shattered the **Tower Shield** reinforced with high-grade enhancement magic. The Team Leader’s eyes widened, the pain of his broken arms forgotten.
+The blow was unbelievably fast and powerful. With a thunderous roar, it shattered the **Tower Shield** reinforced with high-grade enhancement magic.
 
 *Whoooosh.*
 
@@ -82,7 +82,7 @@ His life flashed before his eyes, and the world slowed. A second blow was coming
 
 The Team Leader closed his eyes. He had no desire to spend the final moment of his life looking at that ugly, fucking monster.
 
-And in the next moment, along with the pitch-black darkness blocking his vision, a sharp sound of something cutting through the air pierced his ears.
+Along with the pitch-black darkness blocking his vision, a sharp sound of something cutting through the air pierced his ears.
 
 *Fwoooooosh—crack!*
 
@@ -92,7 +92,7 @@ The pain he had been waiting for never came. It felt so strange that he wondered
 
 The Team Leader cracked his eyes open and gaped.
 
-Less than five paces away, the Orc Lord’s three-meter-tall[^1] body stood motionless.
+Less than five paces away, the Orc Lord’s three-meter-tall body stood motionless.
 
 Its head was gone.
 
@@ -126,7 +126,7 @@ As though by agreement, they slowly turned their heads. Only then did they reali
 
 The middle-aged man walked with a confident, unhurried stride.
 
-That did not change when he entered the skyscraper overlooking the Blue House[^2] and the National Assembly.
+That did not change when he entered the skyscraper overlooking the Blue House and the National Assembly.
 
 “If you’re a Guild member, please show your access pass—”
 
@@ -146,15 +146,15 @@ The Security Team Hunter, who had been staring blankly at the middle-aged man, s
 
 The checkpoint that everyone, Guild member or outsider, had to pass through could not stop the middle-aged man. He glanced at the young Hunter bowing hurriedly to him and continued toward his destination.
 
-A voice was already coming through the tiny communicator implanted beneath his ear in a simple operation.
+A voice was already coming through the tiny communicator implanted beneath his ear.
 
-“He’s waiting for you.”
+—He’s waiting for you.
 
 The middle-aged man barely moved his lips.
 
 “Where?”
 
-“Section A.”
+—Section A.
 
 The skyscraper rose 150 stories, but Section A appeared on neither its building plans nor its signs. Only a tiny fraction of its countless Guild members were allowed into that space.
 
@@ -162,7 +162,7 @@ The middle-aged man was one of them.
 
 “Have the Teleport ready.”
 
-“It’s ready. By the way, that new Security Team recruit, Deputy Team—ah, sorry. Team Leader.”
+—It’s ready. By the way, that new Security Team recruit, Deputy Team—ah, sorry. Team Leader.
 
 “It’s fine. Don’t worry about it.”
 
@@ -170,7 +170,7 @@ The middle-aged man was one of them.
 
 Before he could finish the thought, the voice continued.
 
-“In any case, I’ll inform the Security Team Leader and have the recruit disciplined.”
+—In any case, I’ll inform the Security Team Leader and have the recruit disciplined.
 
 Not a report. Not a suggestion. A notification.
 
@@ -178,11 +178,11 @@ At some point, that had become normal, but it still felt strange to him. He frow
 
 “Do we really need to go that far?”
 
-“Team Leader?”
+—Team Leader?
 
 “…Never mind. Handle it as you see fit.”
 
-“Yes. I’ll deal with it appropriately.”
+—Yes. I’ll deal with it appropriately.
 
 “Appropriately” meant a pay cut at minimum. It might mean a demotion.
 
@@ -200,21 +200,21 @@ The middle-aged man let out a small sigh and spoke as he walked.
 
 “Update me on the VIP.”
 
-“He’s in a bad mood.”
+—He’s in a bad mood.
 
 “Am I imagining things, or did you say the same thing yesterday?”
 
-“Well… he read this morning’s papers and—”
+—Well… he read this morning’s papers and—
 
 “That’s enough. Send me everything the VIP is reading. Scrape it all and send it to me. Right now.”
 
-His magically secured smartphone vibrated as soon as he finished speaking. He tapped the screen lightly. The headlines of more than twenty morning newspapers that had left the presses only two or three hours earlier filled the display.
+He tapped the screen lightly. The headlines of more than twenty morning newspapers that had left the presses only two or three hours earlier filled the display.
 
 > Unprecedented Crisis… What Do the Successive Mutated Gates Signify?
 >
 > Ominous Signs: Will the Nightmare of China’s Sichuan Province Come to Korea?
 >
-> Emergency Blue House[^2] Announcement: “We Have Signed an Agreement with the Peace Guild to Prevent Any Potential Crisis. Results So Far Are Encouraging.”
+> Emergency Blue House Announcement: “We Have Signed an Agreement with the Peace Guild to Prevent Any Potential Crisis. Results So Far Are Encouraging.”
 >
 > Third Mutated Gate, but Zero Fatalities? Worldwide Praise for the Peace Guild’s Emergency Rescue Team.
 >
@@ -242,11 +242,11 @@ After reading them all, the middle-aged man rubbed his dry eyes. The fatigue he 
 
 “Damn it.”
 
-“Have you finished reading?”
+—Have you finished reading?
 
 “Yes. I’d have been better off not reading them.”
 
-“I’m sorry to interrupt, but you should hurry.”
+—I’m sorry to interrupt, but you should hurry.
 
 “I was about to. I’m almost there.”
 
@@ -311,6 +311,3 @@ The office looked as though a bomb had gone off. In the middle of the wreckage, 
 Go Se-won bowed his head without a word. Amid the scattered debris, a nameplate gleamed.
 
 > **Ares Guild Vice Guild Master Go Jun**
-
-[^1]: Three meters is about 9.8 ft.
-[^2]: The Blue House is the traditional name for South Korea’s presidential office and residence.
