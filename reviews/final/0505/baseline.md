@@ -12,7 +12,7 @@ Blazing red hair streamed in the wind. A solid frame of taut muscle stood nearly
 
 *…I really can’t get used to this.*
 
-Could a person change *that* much? The longer I looked, the stranger I felt.
+Could a person change *that* much?
 
 The Fire King Jeok Cheongang I knew had been a short, impossibly old man who stood barely five feet tall. He had looked like he could hardly grow any older—not like a fit middle-aged man who appeared to be in his mid-to-late forties.
 
@@ -86,7 +86,7 @@ That answer didn’t come from me. Jeok Cheongang stepped forward with that shor
 
 “Then that man really is…!”
 
-There was a truckload of Wudang and Zhuge Clan martial artists stationed around the makeshift wharf to guard and investigate the area. Ship-Fire Boy[^1] Mu Song and the river bandits of Water Dragon Stronghold were there too, ready to take us out.
+There was a truckload of Wudang and Zhuge Clan martial artists stationed around the makeshift wharf to guard and investigate the area. Ship-Fire Boy Mu Song and the river bandits of Water Dragon Stronghold were there too, ready to take us out.
 
 As everyone stared wide-eyed, Zhuge Feng’s gaze wavered.
 
@@ -158,13 +158,13 @@ Before I’d finished the thought, Zhuge Feng answered without taking a breath.
 
 I would’ve picked number two myself.
 
-To a martial artist, pride was nearly as important as life itself. If word spread that the entire Zhuge Clan had been slapped in a line by the Fire King Jeok Cheongang, the clan would have to take down its sign from that very day onward. Even a member of the Five Great Families like the Zhuge Clan would be no exception.
+If word spread that the entire Zhuge Clan had been slapped in a line by the Fire King Jeok Cheongang, the clan would have to take down its sign from that very day onward.
 
 Zhuge Feng had chosen wisely. Still, he couldn’t quite hide his unease.
 
 “What is the second proposal?”
 
-Jeok Cheongang stroked his short red beard. He slowly looked over everyone present, me included, then spoke.
+Jeok Cheongang stroked his short red beard. He slowly looked over everyone present, me included, then tossed out four words.
 
 “Do better from now on.”
 
@@ -190,7 +190,7 @@ If I admitted I’d expected him to visit the former Family Head’s grave and p
 
 *Still, he’s giving it this much thought. I’m a little touched.*
 
-As Jeok Cheongang had said, if he had remained a reclusive master in Mount Jiuhua, we would never have ended up working together. We would have lived in our separate worlds, never knowing the other existed.
+As Jeok Cheongang had said, if he had remained a reclusive master in Mount Jiuhua, we would never have ended up working together.
 
 But the pendulum of fate had led me to the Murim and connected me with Jeok Cheongang.
 
@@ -222,13 +222,13 @@ The Daoist who had brought him the news was old too, but his many-times-patched 
 
 Clack.
 
-Perfected Being[^2] Hyeongong set down his teacup.
+Perfected Being Hyeongong set down his teacup.
 
 “Yes, Sect Leader Senior Brother.”
 
-The two boys who had studied under the same master since childhood were now respected Perfected Beings[^2] and pillars of Wudang.
+The two boys who had studied under the same master since childhood were now respected Perfected Beings and pillars of Wudang.
 
-Hyeongong, who had cared for little besides martial arts, had reached Supreme Peak and made a name for himself. His Senior Brother, seven years his elder, had succeeded their master as Sect Leader of Wudang. He was the refined-looking old Daoist, Perfected Being[^2] Hyeoncheon.
+Hyeongong, who had cared for little besides martial arts, had reached Supreme Peak and made a name for himself. His Senior Brother, seven years his elder, had succeeded their master as Sect Leader of Wudang. He was the refined-looking old Daoist, Perfected Being Hyeoncheon.
 
 “I’d hoped to meet them at least once before they left.”
 
@@ -236,7 +236,7 @@ Hyeongong answered his Senior Brother’s regretful murmur.
 
 “It couldn’t be helped. You didn’t send me in your place because you didn’t want to meet them.”
 
-“No, but I still regret missing them. There are the Two Dragons[^3] the Jin Family of Taiyuan and Huashan are so proud of, and I hear Senior Jeok has gained enlightenment as well. I should have seen him.”
+“No, but I still regret missing them. There are the Two Dragons the Jin Family of Taiyuan and Huashan are so proud of, and I hear Senior Jeok has gained enlightenment as well. I should have seen him.”
 
 “Ha ha. Don’t be too disappointed. We’ll see him again soon.”
 
@@ -303,7 +303,3 @@ Half an hour later, Wudang Disciples brought the body before him. He saw what th
 “It seems… I have one more reason to go to Henan.”
 
 Reflected in the old Daoist’s clear eyes was something neither beast nor human.
-
-[^1]: Mu Song’s sobriquet refers literally to a boy who lights fires aboard a ship.
-[^2]: Perfected Being is a Daoist honorific for a spiritually accomplished practitioner.
-[^3]: The Two Dragons are a pair ranked beneath the Ten Kings in Murim gossip.
