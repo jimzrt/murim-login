@@ -80,27 +80,6 @@ But I couldn’t fall yet. Not now. Fortunately, I had a power ordinary people d
 
 Ding. Ding. Ding.
 
-
-> **System**
->
-> You have defeated **Lv. 150 Behemoth**!
->
-> You have acquired an enormous amount of **EXP** and **Fame**!
->
-> **Level Up!**
->
-> The Status effect **Exhaustion** has been removed!
->
-> The Status effect **Internal Energy Depletion** has been removed!
->
-> Some fatigue and Status effects have disappeared due to the effects of **Level Up**!
->
-> …
->
-> …
->
-> …
-
 > **System**
 >
 > You have defeated **Lv. 150 Behemoth**!
@@ -149,7 +128,7 @@ Inside was a grim-faced blond foreigner. Leaning against him was a middle-aged m
 
 For a moment, my heart seemed to stop.
 
-It took only a glance to understand. The top-grade potion bottle lying at the Skeleton King’s feet was empty. The man appeared to have recovered without a mark on him, but strength was already draining from his body.
+It took only a glance to understand. The top-grade potion bottle lying empty at the Skeleton King’s feet had rolled to a stop. The man appeared to have recovered without a mark on him, but strength was already draining from his body.
 
 My vision swam.
 
@@ -225,7 +204,7 @@ I knew. I couldn’t blame him when he’d done everything he could. His entire 
 
 —*…I’m sorry, human.*
 
-A question occurred to me. It was about everything happening around me.
+Why was this guy apologizing?
 
 Why was he the one apologizing? How had Kim Hwajong, who’d eaten with us and laughed with us just a few days ago, ended up lying here beyond recovery?
 
@@ -267,9 +246,9 @@ No. I couldn’t let him go yet. I gritted my teeth and sent more internal energ
 
 *More. Just a little more!*
 
-I poured every bit of internal energy in my dantian into him. I held his slowly closing acupoints[^1] open and tried to feed the flame dying deep inside his body.
+I poured every bit of internal energy in my dantian into him. I held his slowly closing acupoints open and tried to feed the flame dying deep inside his body.
 
-The end came closer rapidly anyway.
+The end came closer anyway.
 
 “It’s cold. I don’t know if it’s winter, like you said, or if night’s already fallen.”
 
@@ -324,5 +303,3 @@ The flame that had burned for one person and refused to go out for this moment f
 Sssrrk. Tap.
 
 Everything went black.
-
-[^1]: Acupoints are points along the body’s energy channels in traditional East Asian medicine.
