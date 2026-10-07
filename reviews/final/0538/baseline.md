@@ -18,7 +18,7 @@ Hyuk Mujin stared at me in disbelief.
 
 “……”
 
-*Don’t force meaning onto it, you idiot.*
+Don’t force meaning onto it, you idiot.
 
 They say that once you’re famous, people will applaud even when you take a shit. That fit this situation perfectly.
 
@@ -32,7 +32,7 @@ I gave Hyuk Mujin a long look. He’d changed his tune the instant I mentioned M
 
 I shook my head, opened the door, and stepped outside. Hyuk Mujin hurried after me, muttering as he went.
 
-“Wouldn’t it be stranger *not* to worry? You were appointed pavilion master less than two shichen[^1] ago, and you’re already being punished. Did you take a dump in the Alliance Leader’s room?”
+“Wouldn’t it be stranger *not* to worry? You were appointed pavilion master less than two shichen ago, and you’re already being punished. Did you take a dump in the Alliance Leader’s room?”
 
 Coming from the guy who’d singled me out as the only person who could have taken a dump in a crowded inn. I clicked my tongue.
 
@@ -40,7 +40,7 @@ Coming from the guy who’d singled me out as the only person who could have tak
 
 “Close but wrong? Did you pee in there?”
 
-*…This bastard.*
+…This bastard.
 
 I held back the urge to punch him and answered.
 
@@ -136,11 +136,11 @@ The middle-aged martial artist scowled.
 
 “What was that? You goddamn son of a bitch…”
 
-*Are these people insane? How do they even manage to fight like that?*
+Are these people insane? How do they even manage to fight like that?
 
 *What are they, some kind of battle species?*
 
-Maybe the planet Murim was on was actually Planet Vegeta.[^2]
+Maybe the planet Murim was on was actually Planet Vegeta.
 
 Armed with that perfectly reasonable suspicion, I scanned the crowd for yellow hair. More whispers drifted my way.
 
@@ -172,17 +172,17 @@ Word traveled fast.
 
 If this were modern times, the Murim Alliance would have an online petition board by now.
 
-> The Huashan Divine Dragon’s snake bit me in the crotch. I demand punishment. Please lend me your support.
->
-> └ **Thousand-Faced Fox\*:** Agreed.
->
-> └ **Gung Gi\*:** Agreed.
->
-> └ **Jeok Cheon\*:** ㅋㅋ, that, snake, bastard, I knew, it would do something like this one day,,~~!
->
-> └ **Cheong\*:** That’s not true. Mimi doesn’t bite people.
->
-> └ **Tang Sa\*:** Ah, Mimi…
+[The Huashan Divine Dragon’s snake bit me in the crotch. I demand punishment. Please lend me your support.]
+
+Thousand-Faced Fox*: Agreed.
+
+Gung Gi*: Agreed.
+
+Jeok Cheon*: LOL, that, snake, bastard, I knew, it would do something like this one day,,~~!
+
+Cheong*: That’s not true. Mimi doesn’t bite people.
+
+Tang Sa*: Ah, Mimi…
 
 Once the comments piled up and ten thousand people signed in favor of punishment, Mimi’s fate would be sealed. Hmm.
 
@@ -242,33 +242,6 @@ A cheerful chime sounded, and a translucent holographic window appeared in midai
 
 It was the first Quest I’d received upon joining the Murim Alliance as Pavilion Master of the Two Dragons Pavilion.
 
-
-> **System**
->
-> **Quest**
->
-> **Become My Companion!**
->
-> At last, you have become a member of the Murim Alliance and been appointed Pavilion Master of the Two Dragons Pavilion.
->
-> However, one person cannot be an organization. The Murim Alliance has therefore entrusted you with the authority to appoint personnel.
->
-> Find new members as quickly as possible, form your organization, and give it a name. Only then will you become a pavilion master in the truest sense!
->
-> **Grade:** Peak
->
-> **Restriction:** Jin Taekyung
->
-> **Mission:**
->
-> Secure at least five companions (Incomplete)
->
-> Give the organization an appropriate name (Incomplete)
->
-> **Reward:** ???
->
-> **Failure:** Acquire the Title “Loner”
-
 > **System**
 >
 > **Quest**
@@ -297,7 +270,7 @@ It was the first Quest I’d received upon joining the Murim Alliance as Pavilio
 
 “……”
 
-*Look at that Title. Fuck.*
+Look at that Title. Fuck.
 
 If I failed this Quest, I’d be an outsider officially recognized by the System.
 
@@ -313,13 +286,13 @@ The first person I should recruit had practically been decided from the start.
 
 He could help in all kinds of ways.
 
-*Whatever. Might as well try.*
+Whatever. Might as well try.
 
 I took a deep breath and headed for the clinic.
 
 * * *
 
-“Tony Tony Cho[^3]—no, Mungyeong. Become my companion!”
+“Tony Tony Cho—no, Mungyeong. Become my companion!”
 
 *That lunatic’s acting up again.*
 
@@ -341,8 +314,4 @@ Asking *why* was ridiculous. There were more reasons than Mungyeong could count.
 
 “Uh, sorry, Benefactor.”
 
-A figure appeared with the sudden voice. Jin Taekyung’s eyes widened as he looked at Cheongpung.
-
-[^1]: A *shichen* is a traditional Chinese time unit of approximately two hours; two shichen are approximately four hours.
-[^2]: Planet Vegeta is the homeworld of the battle-loving Saiyans in *Dragon Ball*. The reference to yellow hair recalls their golden-haired Super Saiyan form.
-[^3]: “Tony Tony Cho” begins the name Tony Tony Chopper, the reindeer doctor in *One Piece*. Taekyung cuts himself off before saying Mungyeong’s name.
+Jin Taekyung’s eyes widened as he looked at Cheongpung.
