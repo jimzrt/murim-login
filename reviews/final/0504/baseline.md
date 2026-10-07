@@ -14,7 +14,7 @@ The cave interior was dark, deprived of even a ray of light, but it was now brig
 
 Mungyeong watched the strange sight in silence. Then the boy spoke softly.
 
-“Have you finally escaped your Heart Demon[^1]?”
+“Have you finally escaped your Heart Demon?”
 
 He hadn’t set out to bring this about. He had only wanted Jeok Cheongang to know that he wasn’t alone. That he didn’t have to isolate himself and carry every worry and burden on his own.
 
@@ -274,7 +274,7 @@ Zhuge Feng looked around, then lowered his voice as much as possible.
 
 “…!”
 
-“Heh heh. It was a bold gamble, but it worked. A stratagem to put even Zhuge Wuhou[^2] to shame, wouldn’t you say?”
+“Heh heh. It was a bold gamble, but it worked. A stratagem to put even Zhuge Wuhou to shame, wouldn’t you say?”
 
 As Zhuge Feng casually put his own clan’s ancestor to shame, a deep voice reached his ear.
 
@@ -282,13 +282,10 @@ As Zhuge Feng casually put his own clan’s ancestor to shame, a deep voice reac
 
 “…Huh?”
 
-Zhuge Feng turned in bewilderment and saw him.
-
-“Zhuge Clan, assemble.”
+Zhuge Feng turned in bewilderment.
 
 A middle-aged man was approaching from far beyond the distance his voice should have carried.
 
-And walking beside him, shoulder to shoulder, was a young man.
+“Zhuge Clan, assemble.”
 
-[^1]: A Heart Demon is an inner obsession or psychological obstacle that can hinder a martial artist’s progress.
-[^2]: Zhuge Wuhou is an honorific title for Zhuge Liang, a renowned strategist of China’s Three Kingdoms period.
+And walking beside him, shoulder to shoulder, was a young man.
