@@ -201,7 +201,7 @@ It wasn’t a collection of Internet gossip. Experts had compiled and polished t
 Unlike the online profile, whose updates had stopped five years ago, the final page of the file dealt with recent events.
 
 - **November 15, 2046.** Discussed retirement at a party hosted by the British ambassador. Audio file attached.
-- **November 28, 2046.** Purchased a two-story mansion of approximately 300 pyeong[^1] in Samseong-dong, Seoul. Appears intended as a residence after retirement.
+- **November 28, 2046.** Purchased a two-story mansion of approximately 300 pyeong in Samseong-dong, Seoul. Appears intended as a residence after retirement.
 - **January 1, 2047.** Arrived through Incheon International Airport. Met secretly with key members of Ares Guild’s board of directors. Exact number and names attached in supplementary materials.
 - **January 2, 2047.** Attended Lee Jungryong’s funeral. Held a second meeting with major political and business figures and key members of the Guild.
 - **January 4, 2047.** Ares Guild’s board held an official meeting to appoint a Vice Guild Master. Go Jun’s appointment was approved after three revotes.
@@ -238,7 +238,7 @@ What was this feeling? My mouth felt gritty, as though I’d chewed a handful of
 
 I stared at Song Cheonwoo’s face on the screen. Then Team Leader Choi spoke softly beside me.
 
-“And if this works… a grandparent and grandchild[^2] may finally see each other again after a long time.”
+“And if this works… a grandparent and grandchild[^1] may finally see each other again after a long time.”
 
 *What hand?*
 
@@ -286,5 +286,4 @@ Go Jun stared at the three Korean characters spelling *Song Cheonwoo*, then at t
 
 “Has this old bastard gone senile…?”
 
-[^1]: *Pyeong* is a Korean unit of area equal to 3.31 m² (35.6 ft²). About 300 pyeong is 990 m² (10,700 ft²).
-[^2]: The Korean word *joson* means a grandparent and grandchild. Its final syllable sounds like *son*, the Korean word for “hand.”
+[^1]: In Korean, the word for “grandchild” includes *son*, which also means “hand.”
