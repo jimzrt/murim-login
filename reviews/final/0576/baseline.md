@@ -4,7 +4,7 @@
 
 The short call ended. The signal ringing from the smartphone stopped, but the hand Choi Minwoo had raised to his ear did not come down easily.
 
-He crossed the Green Garden in front of the Blue House[^1] residence, his expression conflicted. His steps had slowed. One thought filled his mind.
+He crossed the Green Garden in front of the Blue House residence, his expression conflicted. His steps had slowed. One thought filled his mind.
 
 *Song Cheonwoo wants to meet me. Right now.*
 
@@ -58,7 +58,7 @@ But Butler Kim calmly shook his head.
 
 “Ah.”
 
-The face of the blond foreigner who always wore an arrogant, self-assured expression flashed before Choi Minwoo’s eyes. He gave a small exclamation and nodded.
+The face of the blond foreigner who always wore an arrogant, self-assured expression flashed before Choi Minwoo's eyes. He gave a small exclamation and nodded.
 
 *With him there, it’s possible.*
 
@@ -88,23 +88,23 @@ Choi’s reply was quiet and final, but his lips moved again as he walked toward
 
 The words reached Butler Kim’s ear through what could no longer properly be called message magic. It was Sound Transmission.
 
-*—He has requested a meeting.*
+—He has requested a meeting.
 
 “……!”
 
 Butler Kim’s eyes trembled. Choi had not named him, but there was no mistaking who *he* meant.
 
-*—Song Cheonwoo?*
+—Song Cheonwoo?
 
-*—Yes.*
+—Yes.
 
-*—Young Master, it may be dangerous. The Busan Monster Wave is already nearing its end. We could go back to the Guild House instead—*
+—Young Master, it may be dangerous. The Busan Monster Wave is already nearing its end. We could go back to the Guild House instead—
 
-*—He spoke about my maternal grandfather’s safety. And about a trap Go Jun is setting.*
+—He spoke about my maternal grandfather’s safety. And about a trap Go Jun is setting.
 
 Choi watched Butler Kim’s face go rigid and continued quietly.
 
-*—I have to meet him. Right now.*
+—I have to meet him. Right now.
 
 * * *
 
@@ -136,7 +136,7 @@ The man had obviously come for a raid. The Team Leader called out to him. He loo
 
 The middle-aged man paused at the abrupt question, then nodded without a word.
 
-The Team Leader clicked his tongue. “Then you’re out of luck too, Boss.[^2] Don’t bother going up. They’ve closed it off.”
+The Team Leader clicked his tongue. “Then you’re out of luck too, Boss. Don’t bother going up. They’ve closed it off.”
 
 “……”
 
@@ -152,7 +152,7 @@ The Team Leader frowned when he sensed something strange. Without answering a si
 
 “What’s with that guy?” the Team Leader muttered as the man receded up the path.
 
-To the middle-aged man, however, the Team Leader’s goodwill was nothing more than needless meddling.
+To the middle-aged man, however, the Team Leader's goodwill was nothing more than needless meddling.
 
 *Clatter.*
 
@@ -170,7 +170,7 @@ Two people stood at the end of the path they made.
 
 “You’re late.”
 
-At Choi Minwoo’s flat voice, the middle-aged man whose appearance had been changed by an illusion spell—Song Cheonwoo—finally parted his tightly closed lips.
+At Choi Minwoo's flat voice, the middle-aged man whose appearance had been changed by an illusion spell—Song Cheonwoo—finally parted his tightly closed lips.
 
 “I had to be careful. And you were the one who chose this place, Minwoo.”
 
@@ -296,7 +296,7 @@ Choi stopped dead at those two words. After a moment of silence, he began walkin
 
 “Why do you say that?”
 
-“You were pushed out of the Ares Guild’s inner circle long ago, Director Song.”
+“You were pushed out of the Ares Guild's inner circle long ago, Director Song.”
 
 “……That stings. But you’re right. I can’t be certain.”
 
@@ -312,9 +312,6 @@ Song sighed softly.
 
 Choi Minwoo turned to him with a questioning expression. Then, at the next words, he froze.
 
-“It happened more than twenty years ago. That person lost consciousness.”
+“It happened more than twenty years ago. That person lost consciousness.” 
 
 “……!”
-
-[^1]: The Blue House, or *Cheong Wa Dae*, is the traditional name of South Korea’s presidential office and residence in Seoul.
-[^2]: *Sajangnim*, literally “business owner,” can be used as a polite form of address for an unfamiliar adult.
