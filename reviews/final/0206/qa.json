@@ -1,0 +1,80 @@
+{
+  "chapter": 206,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.991,
+    "length_ratio": 2.337,
+    "source_characters": 6465,
+    "source_paragraphs": 218,
+    "translation_characters": 15109,
+    "translation_paragraphs": 222
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "깨달음",
+        "preferred": "enlightenment / insight"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진호",
+        "preferred": "Jin-ho"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대리",
+        "preferred": "Assistant Manager"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "정기",
+        "preferred": "vital essence"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "동문",
+        "preferred": "East Gate"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마력",
+        "preferred": "magical power"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "적도",
+        "preferred": "Red Blade"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
