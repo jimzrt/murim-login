@@ -214,7 +214,7 @@ Mungyeong turned his dry gaze on me.
 
 “……!”
 
-I instinctively lowered my head and looked at the water beneath my feet. But I already knew what I would see.
+I instinctively lowered my head and looked at the water beneath my feet.
 
 The path I’d taken chasing the swift ship was covered in white foam, as though another boat had passed through it.
 
@@ -332,15 +332,15 @@ I bowed to Mungyeong. Then I realized I’d forgotten the most important questio
 
 Mungyeong spread both hands as though the answer were obvious.
 
-*Ten stars… no, ten shichen?*[^1]
+*Ten stars… no, ten shichen?*
 
-“W-wait. Even for me, ten shichen[^1] is impossible. I have to keep up with the swift ship using Rising on Duckweed, Crossing Water. You know how much internal energy that’ll take—”
+“W-wait. Even for me, ten shichen is impossible. I have to keep up with the swift ship using Rising on Duckweed, Crossing Water. You know how much internal energy that’ll take—”
 
 “What are you talking about? Ten days.”
 
 “Excuse me?”
 
-“Not ten shichen.[^1] Ten days. Follow me the entire way until we reach Henan.”
+“Not ten shichen. Ten days. Follow me the entire way until we reach Henan.”
 
 “……Excuse me?”
 
@@ -358,5 +358,3 @@ Ding.
 “……”
 
 *Fuck. I have no words.*
-
-[^1]: A shichen is a traditional time unit of about two hours; ten shichen is about twenty hours.
