@@ -240,7 +240,7 @@ In Murim, it had been only two or three months ago, yet somehow it felt impossib
 
 Ironically, it was also one of the clearest memories left behind by all that time.
 
-“The moon is so bright tonight.”
+*The moon is so bright tonight.*
 
 Yes. The moon had been unusually bright that night.
 
@@ -248,11 +248,11 @@ Or perhaps the moon hadn’t been the brightest thing there. Perhaps it had been
 
 I hadn’t been looking at the moon then.
 
-“Great Hero Jin.”
+*Great Hero Jin.*
 
-“Yes, Young Lady Ju.”
+*Yes, Young Lady Ju.*
 
-“Do you think I can do it?”
+*Do you think I can do it?*
 
 I could almost hear her voice again, damp and desolate, drifting through the flower-filled garden.
 
@@ -324,7 +324,7 @@ The three men and one woman seated by a window on its top floor were hardly ordi
 
 “Now, now. The young lady doesn’t care much for alcohol. Isn’t that right, Young Lady Ju?”
 
-The handsome men in gleaming silk martial uniforms and hero headbands[^1] had no idea what the woman before them was thinking.
+The handsome men in gleaming silk martial uniforms and hero headbands had no idea what the woman before them was thinking.
 
 *When is he coming?*
 
@@ -339,5 +339,3 @@ And just as all those worries and thoughts began chasing one another in endless 
 Jingle.
 
 The bell rang as the inn door opened, and Ju Hwaran sprang to her feet.
-
-[^1]: A hero headband (*yeongunggeon*) is a cloth headwrap worn by martial artists in Korean martial-arts fiction.
