@@ -84,7 +84,7 @@ I’d heard Hwangbo Gun wielded considerable influence during the Great Faction 
 
 I hummed a mournful tune.
 
-“I’m a firefly. I have no friends.”[^1]
+“I’m a firefly. I have no friends.”
 
 “You insolent young punk!”
 
@@ -122,7 +122,7 @@ Unable to continue, Hwangbo Gun bit his lip and looked around for help.
 
 The response was lukewarm.
 
-“Amitabha.[^2] Perhaps it would be best to restrain yourself now, Benefactor Hwangbo.”
+“Amitabha. Perhaps it would be best to restrain yourself now, Benefactor Hwangbo.”
 
 “Heavens. Such a disturbance in the sacred Alliance Leader’s Hall.”
 
@@ -166,11 +166,11 @@ The Thunderbolt Saber King Peng Cheolhu’s gaze wavered.
 
 Jeok Cheongang’s aura was that powerful, that overwhelming—like another sun. Those still in the Peak realm could feel his strength, as could those who had already reached Supreme Peak.
 
-*Returned to Youth.*[^3]
+*Returned to Youth.*
 
 The mountain range called martial arts was vast and treacherous. Sometimes one had to cross a steep ravine or scale a sheer cliff.
 
-Jeok Cheongang was a great martial artist standing proudly atop the peak at the very end.
+He was a great martial artist standing proudly atop the peak at the very end.
 
 He had become something beyond his title of Fire King. So had one other person in this room.
 
@@ -242,7 +242,7 @@ Perhaps that was why my voice carried a weight it usually didn’t when I began 
 
 * * *
 
-Two shichen later,[^4] everyone had left the great conference hall except three people.
+Two shichen later,[^1] everyone had left the great conference hall except three people.
 
 The chairs that had held dozens of people stood empty, but the silence that had settled over the room remained. Thousand-Faced Fox Song Ho suspected those who had left the Alliance Leader’s Hall were just as quiet.
 
@@ -270,7 +270,7 @@ Where others spoke of danger, Jin Taekyung foretold disaster. When someone cited
 
 “I don’t know why Dark Heaven has gone quiet, but we need to use this opening to strike back immediately. If we keep going like this, we’re finished. Everyone dies.”
 
-“Who said I was going too far? You, Family Head. Have you ever fought someone who came back to life even after all four limbs were crushed? Or fought an imugi?[^5] When you saw that monster half an hour ago, was all you could think about what to eat for dinner?”
+“Who said I was going too far? You, Family Head. Have you ever fought someone who came back to life even after all four limbs were crushed? Or fought an imugi? When you saw that monster half an hour ago, was all you could think about what to eat for dinner?”
 
 “We aren’t fighting ordinary people. Dark Heaven is one enormous monster, and before long, we may have to fight monsters like that one.”
 
@@ -328,8 +328,4 @@ Mae Jonghak rose slowly from his seat.
 
 “Summon him. It’s time to give the Fire Dragon Pavilion its first mission.”
 
-[^1]: A line from the Korean song *Gaettongbeolle* (“Firefly”), about loneliness.
-[^2]: An invocation of Amitabha Buddha, commonly spoken by Buddhist monks.
-[^3]: A martial-arts concept in which extraordinary attainment restores a person’s youthful appearance.
-[^4]: A shichen is a traditional time unit of approximately two hours; two shichen are about four hours.
-[^5]: An imugi is a legendary Korean serpent associated with dragons.
+[^1]: A shichen is a traditional Chinese time unit lasting approximately two hours.
