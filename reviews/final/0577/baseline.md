@@ -136,7 +136,7 @@ Choi forced his pounding heart to settle and spoke in a trembling voice.
 
 Song’s footsteps stopped. Ahead of him, the ground gave way to empty air.
 
-A crevasse—the kind of fissure found in snowy mountains and glaciers—cut through the mountain. It was enormous, and its depths were too dark to fathom.
+A crevasse cut through the snow-covered mountain. It was enormous, and its depths were too dark to fathom.
 
 “Why. Why, you ask…”
 
@@ -234,7 +234,7 @@ Then—
 
 *Rrrrrumble!*
 
-The snow-covered mountain trembled beneath its blanket of white. An avalanche was taking place beyond the crevasse, which stretched dozens of meters[^1] across.
+The snow-covered mountain trembled beneath its blanket of white. An avalanche was taking place beyond the crevasse, which stretched dozens of meters across.
 
 Fur-covered giants rode atop the surging waves of snow.
 
@@ -269,5 +269,3 @@ And then—
 *BOOM!*
 
 A thunderous explosion erupted, and a blizzard came whirling.
-
-[^1]: One meter is about 3.28 ft; a crevasse dozens of meters across is at least roughly 80 ft wide.
