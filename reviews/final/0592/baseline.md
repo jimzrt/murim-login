@@ -116,7 +116,7 @@ But…
 
 “Jin Taekyung.”
 
-The moment I heard the hatred in his voice and saw that fucking face clearly beyond the dark corridor, I realized something.
+The moment I saw that fucking face clearly beyond the dark corridor.
 
 Composure was no shield against anger reason could not contain.
 
@@ -212,7 +212,7 @@ My vision trembled from the impact to my head. Through it, I saw Go Jun charging
 
 He moved faster than he spoke. His sword cut diagonally down through the air, sending out a burst of red light.
 
-Then, in the next instant, a crescent-shaped Aura Blade that had crossed dozens of meters[^1] came rushing right up to my face.
+Then, in the next instant, a crescent-shaped Aura Blade that had crossed dozens of meters came rushing right up to my face.
 
 *Slice! KRAAAAAASH!*
 
@@ -274,7 +274,7 @@ I couldn’t hold back my laughter.
 
 It wasn’t amusement. It was disgust. Go Jun had chosen to give up being human and become a monster, and the sheer stupidity of it kept making me laugh.
 
-“Fuck, I’ve never seen an idiot like you. You couldn’t beat me any normal way, so you started sucking down Magic Gems? If you were going to do that, why not go to Magic Johnson?[^2] I bet that guy would’ve taken real good care of you with his magic wand.”
+“Fuck, I’ve never seen an idiot like you. You couldn’t beat me any normal way, so you started sucking down Magic Gems? If you were going to do that, why not go to Magic Johnson? I bet that guy would’ve taken real good care of you with his magic wand.”
 
 I had hit a nerve. Go Jun’s face went rigid, and his already-red eyes darkened further.
 
@@ -288,7 +288,7 @@ Rubble and chunks of marble fell away as I got up.
 
 I cracked my stiff neck from side to side and stared at him.
 
-“What? You set off a few Monster Waves with an S-grade Magic Gem and pissed yourself over how well it worked? Watched people die because you barely lifted a finger and thought you were a god? No, sir, you fucking moron. You’re just a monster. At best, you’re some idiot side character with a Named Monster for a constellation.[^3]”
+“What? You set off a few Monster Waves with an S-grade Magic Gem and pissed yourself over how well it worked? Watched people die because you barely lifted a finger and thought you were a god? No, sir, you fucking moron. You’re just a monster. At best, you’re some idiot side character with a Named Monster for a constellation.”
 
 “Shut up!”
 
@@ -331,7 +331,3 @@ But I did not give way. At least the power I wielded had been built through coun
 I grinned as I looked into Go Jun’s wide-open eyes, then thrust my fist forward with all my strength.
 
 *Wham!*
-
-[^1]: Dozens of meters is roughly 20–90 m, or about 66–300 ft.
-[^2]: Magic Johnson is a former American basketball player whose nickname provides the wordplay here.
-[^3]: In Korean fantasy fiction, a constellation is a powerful being who acts as a character’s patron.
