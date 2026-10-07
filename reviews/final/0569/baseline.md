@@ -220,8 +220,6 @@ What I *could* celebrate was that my own attempt was nearly complete.
 
 *It’s not finished yet, though.*
 
-I had never tried anything like this before, and the process so far had been anything but easy.
-
 The pressure of having to create something exceptional while the current situation was on the verge of exploding may have contributed as well.
 
 *What I have now might be good enough……*
@@ -240,11 +238,11 @@ I gave him a look colder than the snow piled on the roof of King Sejong Station 
 
 “Look at this fucking bastard.”
 
-“You heard from Director King Fury,[^1] didn’t you?”
+“You heard from Director King Fury, didn’t you?”
 
 “……Are you playing two roles now?”
 
-“Heh heh. Surely a citizen of the United States of America ought to be King-tin America.[^2]”
+“Heh heh. Surely a citizen of the United States of America ought to be King-tin America.”
 
 “This bastard keeps changing his name however he wants. I’m going to beat you so badly you’ll want to go back to the glacier.”
 
@@ -273,6 +271,3 @@ He nodded.
 “……!”
 
 Damn it.
-
-[^1]: King Fury is the Skeleton King’s version of Nick Fury, the Marvel character who directs S.H.I.E.L.D.
-[^2]: King-tin America is the Skeleton King’s version of Captain America. The blue suit, shield, and “I can do this all day” line continue the Marvel reference.
