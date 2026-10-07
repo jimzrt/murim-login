@@ -54,7 +54,7 @@ The scenery slipped past, and time passed just as quickly.
 
 January 19.
 
-A week had passed since the day that came to be known as the January 19 Incident,[^1] and the world was still in an uproar.
+A week had passed since the day that came to be known as the January 19 Incident, and the world was still in an uproar.
 
 The flames that had erupted that day refused to die down easily. No—no one could control them as they continued to burn.
 
@@ -80,9 +80,9 @@ As secrets that no one had known—or that people had known and kept quiet about
 
 The prosecutors’ office issued countless search and arrest warrants. Several overseas branch directors sensed what was coming and even tried to flee.
 
-> └ **Did you see the news? I heard the Chinese branch director got caught over there while trying to flee.**
+> **Did you see the news? I heard the Chinese branch director got caught over there while trying to flee.**
 >
-> └ **Yeah, saw it. A wanted notice went out right away, and the Public Security Armed Forces Department caught him.**
+> **Yeah, saw it. A wanted notice went out right away, and the Public Security Armed Forces Department caught him.**
 >
 > └ **Of all people, he had to get caught by those Chinks. Fucking idiot. What a disgrace to the country.**
 >
@@ -98,11 +98,11 @@ The prosecutors’ office issued countless search and arrest warrants. Several o
 >
 > └ **In interviews he kept saying “Big Brother Taekyung” and “Big Brother Lord Fuck.” Turns out the Chinese branch director damaged local cultural relics too, so the Ministry of Foreign Affairs is pissed.**
 >
-> └ **?? Was this asshole a Red Guard[^2] in his past life?**
+> └ **?? Was this asshole a Red Guard in his past life?**
 >
-> └ **Maybe it’s revenge for the Northeast Project.[^3] Those mainlanders still call hanbok hanfu.[^4]**
+> └ **Maybe it’s revenge for the Northeast Project. Those mainlanders still call hanbok hanfu.**
 >
-> └ **Winnie the Pooh[^5] died ages ago, but hanfu’s still alive and kicking…**
+> └ **Winnie the Pooh died ages ago, but hanfu’s still alive and kicking…**
 
 It was the first—and worst—crisis Ares Guild had faced since its founding.
 
@@ -140,7 +140,7 @@ The statement by one famous journalist won a considerable amount of support, but
 >
 > **Murders in London, United Kingdom. Ten security-team members flee after murdering the family of Ares Guild European Branch Director Song Cheonwoo, whom they had held captive. Interpol issues wanted notices…**
 >
-> **Lee Kanghee, chief editorial writer at Patriotic Daily: Why did he criticize Jin Taekyung? Where did the hundreds of billions of won[^6] in real estate held under borrowed names come from? Prosecutors begin an investigation.**
+> **Lee Kanghee, chief editorial writer at Patriotic Daily: Why did he criticize Jin Taekyung? Where did the hundreds of billions of won in real estate held under borrowed names come from? Prosecutors begin an investigation.**
 
 As more truths emerged, the voices criticizing Jin Taekyung faltered. Meanwhile, statements from famous figures who had firmly supported him from the start resurfaced.
 
@@ -166,7 +166,9 @@ Go Jun had committed crimes too horrifying to imagine, and Ares Guild was riddle
 
 Yet among all the truths coming to light, one question remained unanswered.
 
-Why? Why, even now, had Cheon Taemin himself not appeared?
+Why? Why, even now, had *he* not appeared?
+
+Why had Cheon Taemin not shown himself?
 
 It was the question everyone carried, and at the same time, a truth no one could uncover.
 
@@ -225,10 +227,3 @@ Team Leader Choi gazed at the memorial with sorrow in his eyes, then added, “B
 I nodded.
 
 It was time to tell him what I had kept hidden.
-
-[^1]: The Korean name for the January 19 Incident also reads as “119 Incident.” In Korea, 119 is the emergency telephone number for fire and ambulance services.
-[^2]: Red Guards were youth groups mobilized during China’s Cultural Revolution.
-[^3]: The Northeast Project was a Chinese historical research program disputed in Korea for treating ancient kingdoms associated with Korean history as part of Chinese history.
-[^4]: Hanbok is traditional Korean clothing; hanfu is traditional Han Chinese clothing. The comment alludes to disputes over claims about the origins of Korean dress.
-[^5]: Winnie the Pooh has been used online to satirize Chinese leader Xi Jinping, and references to the character have faced censorship in China.
-[^6]: Hundreds of billions of won is roughly 100–900 billion won, or about $71–640 million and €65–580 million.
