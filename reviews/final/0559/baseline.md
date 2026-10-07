@@ -14,7 +14,9 @@ In the hands of a Supreme Peak master, even the Three Calamities Sword Technique
 
 I gave a quiet laugh at Magic Johnson, the dark-skinned Grand Mage grumbling in front of me.
 
-“Motion sickness is a small price to pay for crossing continents. Any other mage would be seasick on the Sanzu River[^1] by now.”
+“Motion sickness is a small price to pay for crossing continents. Any other mage would be seasick on the Sanzu River by now.”[^1]
+
+[^1]: The Sanzu River is a Buddhist river associated with the boundary between life and death.
 
 “Sanzu River? What’s that? Is it like Cheonggyecheon in Seoul?”
 
@@ -58,7 +60,7 @@ Magic Johnson, one of the symbols of the United States, had been among them.
 
 “The guy who went with you. Pretty conclusive testimony.”
 
-There was no trace left of his initial delight at seeing Johnson. The victim of that day, the Skeleton King, spoke with an enraged expression.
+The victim of that day, the Skeleton King, spoke with an enraged expression.
 
 “I knew something was wrong when something touched this body’s backside. That damned human tricked me.”
 
@@ -118,15 +120,15 @@ Kim the Butler and Johnson had never met face-to-face. After that brief answer, 
 
 —Krrrraaaaaash!
 
-With a thunderous roar, the ground within a radius of several dozen meters[^2] heaved over, spraying sand in every direction. It looked like an earthquake.
+With a thunderous roar, the ground within a radius of several dozen meters heaved over, spraying sand in every direction. It looked like an earthquake.
 
 Around a hundred Hunters of different ethnicities shouted and cursed.
 
-—“Fuck!”
+—Fuck!
 
-—“Spread out! Spread out now! They’re coming!”
+—Spread out! Spread out now! They’re coming!
 
-—“Healer! Healeeer!”
+—Healer! Healeeer!
 
 Screams and shouts filled the scene. Several buildings were collapsing among the dead trees and sand dunes.
 
@@ -137,8 +139,6 @@ Im Kkeokjeong’s eyes widened as he realized what that meant.
 Correct. Modern buildings had no business being inside a Gate.
 
 Every Gate contained at least a minimal amount of mana, and its Grade was determined by the total amount of mana it held.
-
-But if a monster appeared whose power far exceeded the Gate’s Grade, that was a different matter.
 
 *That was a Mutated Gate.*
 
@@ -154,11 +154,11 @@ That was what we were seeing in the hologram.
 
 More than ten enormous scorpions let out strange cries. Buried deep in the sand, they sent their tails shooting up through the surface. Screams erupted, and blood sprayed in every direction.
 
-—“Gaaaaah!”
+—Gaaaaah!
 
-—“Joseph! Save Joseph!”
+—Joseph! Save Joseph!
 
-—“Commence volley fire!”
+—Commence volley fire!
 
 *Krrrraack!*
 
@@ -244,7 +244,7 @@ Team Leader Choi stared silently at the smartphone screen before answering in a 
 
 “Right. Two were Monster Waves. The rest were Mutated Gates. And that’s only what I managed to get my hands on.”
 
-No one could doubt Magic Johnson’s standing and influence in the United States. But even he could not compare with the intelligence-gathering capabilities of the Ministry of National Defense of the United States, which still claimed to be the most powerful nation in the world.
+But even he could not compare with the intelligence-gathering capabilities of the Ministry of National Defense of the United States, which still claimed to be the most powerful nation in the world.
 
 *Thirty-two incidents in the data Johnson managed to acquire alone.*
 
@@ -279,6 +279,3 @@ A suffocating silence settled over the room. Then the voice of the only person w
 “…”
 
 *To hell with ‘and you.’ Holy shit. Fuck.*
-
-[^1]: The Sanzu River is a Buddhist river associated with the boundary between life and death.
-[^2]: Several dozen meters is roughly 100–300 ft.
