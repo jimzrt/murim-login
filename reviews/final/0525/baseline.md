@@ -102,7 +102,7 @@ Mae Jonghak went still. For a while, he said nothing, gazing at the old martial 
 
 “May I ask the time?”
 
-“It is the wu hour.[^1] Everyone is waiting for one person.”
+“It is the wu hour. Everyone is waiting for one person.”
 
 “I’m late.”
 
@@ -168,7 +168,7 @@ All because of one man’s presence.
 
 The One God, Three Saints, and Ten Kings.
 
-If the Nine Sects and One Gang[^2] and the Five Great Families were the fifteen pillars supporting the world, then the people bearing those titles were the heroes who had made that world anew.
+If the Nine Sects and One Gang and the Five Great Families were the fifteen pillars supporting the world, then the people bearing those titles were the heroes who had made that world anew.
 
 Ten kings stood upon the earth. Above them stretched the unreachable sky of the Martial God, adorned with three stars.
 
@@ -325,6 +325,3 @@ At Jeok Cheongang’s signal, Cheongpung and I stepped forward and took hold of 
 Then we pulled it upright with all our strength.
 
 The Murim Alliance had been born.
-
-[^1]: The wu hour is a traditional two-hour period running approximately from 11 a.m. to 1 p.m.
-[^2]: The Nine Sects and One Gang is a traditional grouping of major martial arts sects and the Beggars’ Gang.
