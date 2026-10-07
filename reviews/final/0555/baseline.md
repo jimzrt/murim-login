@@ -62,7 +62,7 @@ There it was. Prime Minister Jang answered the abrupt question as calmly as he c
 
 “I imagine you already know where he is.”
 
-Prime Minister Jang glanced toward the covered window. Specially treated blackout curtains hid the view, but drawing them back would reveal the Blue House[^1] directly beyond.
+Prime Minister Jang glanced toward the covered window. Specially treated blackout curtains hid the view, but drawing them back would reveal the Blue House directly beyond.
 
 “The President has pressing matters to attend to. He’ll come when the national funeral officially begins in three hours. I believe his office already informed you…?”
 
@@ -120,7 +120,7 @@ The Ares Guild was an impregnable fortress.
 
 Cheon Taemin, the immortal hero and savior of humanity, had laid its cornerstone. Lee Jungryong had built walls no one dared challenge.
 
-“There isn’t a place in Yeouido[^2]—or anywhere in this country—beyond our reach.”
+“There isn’t a place in Yeouido—or anywhere in this country—beyond our reach.”
 
 This was a world ruled by the laws of capitalism.
 
@@ -132,7 +132,7 @@ Now that power would pass from the dead to the living.
 
 “W-What?”
 
-Prime Minister Jang’s eyes widened. According to the NIS,[^3] Lee Jungryong had left no will.
+Prime Minister Jang’s eyes widened. According to the NIS, Lee Jungryong had left no will.
 
 No—there was not supposed to be a will.
 
@@ -304,7 +304,7 @@ Then, as the two species’ differently colored blood sprayed in every direction
 
 The ground shook. Stalactites fell from the cave ceiling.
 
-At the same moment, a surge of powerful magical power swept through the Gate from somewhere. The humans screamed.
+At the same moment, a surge of powerful magical power swept through the Gate from somewhere deeper within. The humans screamed.
 
 “A Mutated Gate!”
 
@@ -321,7 +321,3 @@ Perhaps higher still.
 Death. Just as despair settled over every face at the thought of it, someone’s sighing voice echoed through the dark cave.
 
 “Fuck. Brings back old memories.”
-
-[^1]: The Blue House is the name of South Korea’s presidential office and residence.
-[^2]: Yeouido is a district of Seoul that houses South Korea’s National Assembly and major financial institutions.
-[^3]: The NIS is South Korea’s National Intelligence Service.
