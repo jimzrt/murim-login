@@ -20,8 +20,6 @@ But in the end, the atmosphere of a place depended on the kind of people gathere
 
 “Sir, you look like a martial hero on your way to Mount Song. Could I interest you in a well-honed wea—ah!”
 
-The merchant broke off with a gasp. The handsome face that had first caught his eye no longer registered.
-
 The moment he saw the three characters embroidered in black thread across the young martial artist’s dark blue silk uniform, along with the dragon pattern, the merchant let out a cry that sounded almost like a moan.
 
 “B-Black Dragon Demon Gate!”
@@ -86,6 +84,8 @@ Too much greed led to bloodshed. Most martial artists would rather take a famed 
 
 The merchant could not finish. The young martial artist let out a quiet laugh. He knew exactly what the merchant had swallowed back.
 
+His customer was a martial artist from the Black Dragon Demon Gate, an unorthodox faction.
+
 The man facing him belonged to the Black Dragon Demon Gate, an unorthodox faction. With a knife at his throat, the merchant had no time to think things through. Fear that he might lose his head if he tried to pass off another weapon had paralyzed him.
 
 This was a first for the merchant. For the young martial artist, it was familiar.
@@ -104,7 +104,9 @@ Suspicion flickered across the merchant’s eyes.
 
 “Ah!”
 
-The merchant’s face lit up. His heart had already been burning with anxiety. He had brought out the sword because staying alive came first, but now more than a few people had seen it. Once this young man left, wandering martial artists and petty thieves would surely catch the scent and come after him.
+His heart had already been burning with anxiety.
+
+The merchant’s face lit up. He had brought out the sword because staying alive came first, but now more than a few people had seen it. Once this young man left, wandering martial artists and petty thieves would surely catch the scent and come after him.
 
 If the young man bought it, though, that problem was solved. He would still have to leave the area soon—there would be people after the silver he received—but he could keep his life and take enough money with him to live comfortably elsewhere.
 
@@ -129,6 +131,8 @@ The young man had taken the sword from the chest and was examining it from every
 “I’m afraid you may have the amount wrong.”
 
 “The amount?”
+
+As the young martial artist tilted his head, the merchant swallowed hard.
 
 The merchant swallowed hard at the young man’s puzzled look. The sword was a family heirloom, and by its value alone, he ought to receive at least several hundred silver nyang. The sum in the pouch was absurdly small.
 
@@ -264,8 +268,6 @@ Even the martial artists had frozen at the sudden violence. Just then, the young
 
 “See? I knew there’d be trouble.”
 
-A group of monks in yellow kasayas[^1] was approaching.
+A group of monks in yellow kasayas was approaching.
 
 “Shaolin Temple…”
-
-[^1]: A *kasaya* is a robe worn by Buddhist monks.
