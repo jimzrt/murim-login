@@ -6,7 +6,7 @@ Even counting me, the Fire Dragon Pavilion had only six members. Half an hour wa
 
 “Everyone, listen up.”
 
-I offered no greeting or honorifics. Sensing something unusual in my abrupt command, all five turned their attention to me. Even Hyuk Mujin, who had gone to summon them, still had no idea what was going on.
+Even Hyuk Mujin, who had gone to summon them, still had no idea what was going on.
 
 I looked from one questioning face to the next, then began.
 
@@ -20,7 +20,7 @@ Afterward, everyone fell silent, lost in thought. Then one of them spoke.
 
 Sama Pyo, Young Sect Leader of the Black Dragon Demon Gate, looked at me.
 
-“We’re heading to Nanman.[^1]”
+“We’re heading to Nanman.”
 
 I nodded, with one small correction.
 
@@ -96,7 +96,7 @@ A ripple went through the group, especially Hyuk Mujin and Taishan, the Tiger Gi
 
 *Huff! Huff!*
 
-*What the hell? Was that Scorching Yang Qi?*
+What the hell? Was that Scorching Yang Qi?
 
 Taishan blew an astonishingly hot breath through his nose and leaped to his feet.
 
@@ -236,9 +236,9 @@ Ju Hwaran nodded with confidence.
 
 “……I believe you. I believe you, so please continue.”
 
-And who was the Escort King? The legend among legends who had completed his legendary Ten-Thousand-Li Journey[^2] while a hundred thousand Demonic Cultists covered the realm.
+And who was the Escort King? The legend among legends who had completed his legendary Ten-Thousand-Li Journey while a hundred thousand Demonic Cultists covered the realm.
 
-Ju P. Hwaran[^3] had inherited the will of that very P-King. Like the Going Merry[^4] on open water, she sailed ahead without a hitch. Before half an hour had passed, she’d planned every leg of our route to Nanman.
+Ju P. Hwaran had inherited the will of that very P-King. Like the Going Merry on open water, she sailed ahead without a hitch. Before half an hour had passed, she’d planned every leg of our route to Nanman.
 
 “Whew. That’s everything for now. Any questions?”
 
@@ -276,8 +276,6 @@ Sama Pyo clamped a hand over Taishan’s mouth at once, then gave Ju Hwaran a sm
 
 Her tone was calm, but she could not hide the lowered voice that accompanied it. Given the circumstances, it could not be helped.
 
-No, it was only natural.
-
 *Even if it was a political marriage, they were engaged.*
 
 Maybe those big-nosed Hollywood bastards, supposedly as cool as ice magic, could shrug off something like that. But the Korea I’d lived in and Murim were both full of Confucian girls and Confucian boys.
@@ -300,7 +298,7 @@ I pulled myself together and tried to sound casual.
 
 Ju Hwaran answered when I looked at her.
 
-“Half a shichen.[^5] Even allowing extra time, that should be enough. We need to arrange the horses and carriages without attracting attention.”
+“Half a shichen.[^1] Even allowing extra time, that should be enough. We need to arrange the horses and carriages without attracting attention.”
 
 “Where should we gather?”
 
@@ -314,8 +312,4 @@ This wasn’t a public mission. We had to move as quickly as possible, but discr
 
 Ju Hwaran and the others nodded at the answer I had settled on after careful thought.
 
-[^1]: Nanman is a historical Chinese term for lands and peoples south of the Central Plains, literally “southern barbarians.” Here it refers to Yunnan.
-[^2]: A Chinese *li* is approximately 500 m (0.311 mi); ten thousand *li* is about 5,000 km (3,100 mi).
-[^3]: The “P” plays on *pyo*, the first syllable of *pyo-wang*, the Korean title translated here as “Escort King.” The joke carries that initial into Ju Hwaran’s name.
-[^4]: The Going Merry is a ship in the Japanese manga *One Piece*.
-[^5]: A *shichen* is a traditional time unit of approximately two hours; half a shichen is about one hour.
+[^1]: A shichen is a traditional time unit lasting approximately two hours.
