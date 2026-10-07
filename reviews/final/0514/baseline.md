@@ -1,6 +1,6 @@
 # Chapter 514
 
-Shaolin Temple, the Mount Tai and Northern Dipper of the Murim.[^1]
+Shaolin Temple, the Mount Tai and Northern Dipper of the Murim.
 
 Whenever turmoil descended on the Central Plains, Shaolin had been at the forefront of the fighting. It had been so a thousand years ago, a hundred years ago, and during the Great Faction War several decades earlier.
 
@@ -12,7 +12,7 @@ The monks making their way along a well-paved road held that same conviction in 
 
 *Whoosh!*
 
-Their yellow kasayas[^2] whipped in the wind.
+Their yellow kasayas whipped in the wind.
 
 Not a breath of wind stirred on that clear spring day, but the monks’ swift movement techniques raised a wind of their own.
 
@@ -22,9 +22,9 @@ There were twenty Shaolin monks. At the words of the martial monk leading them, 
 
 “Good. We won’t be late.”
 
-“Yes. The appointed time is around shenshi.[^3] We still have nearly one shichen.[^4]”
+“Yes. The appointed time is around shenshi. We still have nearly one shichen.”
 
-Xixia covered a broad area, but these martial monks had reached a considerable realm. Even at an ordinary walking pace, one shichen[^4] was more than enough time to reach its ferry landing.
+Xixia covered a broad area, but these martial monks had reached a considerable realm. Even at an ordinary walking pace, one shichen was more than enough time to reach its ferry landing.
 
 Having made the calculation, the middle-aged monk shook the Zen staff in his hand.
 
@@ -46,7 +46,7 @@ The middle-aged monk spoke with utmost respect. Beneath the hat, tightly pressed
 
 The voice was so hoarse that there was no guessing the speaker’s age. Grief and pity flickered across every face, including the middle-aged monk’s.
 
-“Thank you for granting permission, Martial… Uncle.”[^5]
+“Thank you for granting permission, Martial… Uncle.”
 
 That form of address still felt unfamiliar. The middle-aged monk turned, and the others resumed walking toward Xixia.
 
@@ -70,7 +70,7 @@ Before the middle-aged monk, with his profound internal energy, could alert the 
 
 Twenty figures came hurtling through the wind.
 
-At the sight of their fluttering yellow kasayas[^2] and the grim faces drawing rapidly closer, the young martial artist of the Black Dragon Demon Gate frowned.
+At the sight of their fluttering yellow kasayas and the grim faces drawing rapidly closer, the young martial artist of the Black Dragon Demon Gate frowned.
 
 “Shaolin…”
 
@@ -80,7 +80,7 @@ They were the last people he wanted to meet, especially now, when his simple-min
 
 *Thwack!*
 
-The eight-foot-tall giant[^6] groaned as the blow struck his shin.
+The eight-foot-tall giant groaned as the blow struck his shin.
 
 “Young Sect Leader. This subordinate hurts.”
 
@@ -98,7 +98,7 @@ At the curt voice, the giant blinked his calf-like eyes.
 
 “You don’t have to tell me. I already know.”
 
-The young martial artist turned with a faint smile. Facing the stern middle-aged monk five steps away, he offered a fist-palm salute.[^7]
+The young martial artist turned with a faint smile. Facing the stern middle-aged monk five steps away, he offered a fist-palm salute.
 
 “An honor to meet Shaolin’s esteemed monks. I didn’t expect to meet Master Jung Ho quite so soon.”
 
@@ -120,7 +120,7 @@ The young martial artist glanced at the Zen staff in Jung Ho’s hand.
 
 “He also said you wield a Zen staff like a demon. One hung all over with prayer beads.”
 
-“…Amitabha.[^8] You have a sharp eye.”
+“…Amitabha. You have a sharp eye.”
 
 “I’m glad you’re the man I thought you were. This would have been rather embarrassing otherwise.”
 
@@ -218,7 +218,7 @@ Jung Ho’s gaze darkened.
 
 “It was a dangerous situation. He had to be killed before he killed me. Ah, of course, that was not my intention either.”
 
-Sama Pyo pointed to the eight-foot-tall giant[^6] beside him.
+Sama Pyo pointed to the eight-foot-tall giant beside him.
 
 “This fellow did it.”
 
@@ -242,7 +242,7 @@ Sama Pyo put a finger to his temple and twirled it. Jung Ho watched him in silen
 
 The Murim was a powder keg about to explode.
 
-Even an illiterate old villager who had never finished the Thousand Character Classic[^9] knew the Murim Alliance was no social club for martial artists. During the Great Faction War, the fighting had engulfed more than the martial artists of the Central Plains.
+Even an illiterate old villager who had never finished the Thousand Character Classic knew the Murim Alliance was no social club for martial artists. During the Great Faction War, the fighting had engulfed more than the martial artists of the Central Plains.
 
 “If someone is openly killed on a main road in broad daylight at a time like this, people will inevitably look on us unfavorably.”
 
@@ -258,8 +258,6 @@ Even an illiterate old villager who had never finished the Thousand Character Cl
 
 Jung Ho’s eyebrow twitched.
 
-Though he was a martial monk, he had spent many years at Shaolin following the Buddhist path.
-
 He was displeased that this had happened, and he was not particularly impressed by the attitude of the Black Dragon Demon Gate’s Young Sect Leader, whose reputation he had already heard.
 
 But what could he do? Sama Pyo was nodding along obediently, at least on the surface. Jung Ho could only turn away.
@@ -268,7 +266,7 @@ But what could he do? Sama Pyo was nodding along obediently, at least on the sur
 
 “We have met by fate. Why don’t we move somewhere else for a while?”
 
-“Amitabha.[^8] I’m afraid I must decline. There is a guest I must receive.”
+“Amitabha. I’m afraid I must decline. There is a guest I must receive.”
 
 Jung Ho looked anything but regretful. He was about to turn when—
 
@@ -299,13 +297,3 @@ The smile at the corner of Sama Pyo’s mouth faded.
 Then someone shouted from far away.
 
 “The Jin Family of Taiyuan! It’s the Jin Family of Taiyuan!”
-
-[^1]: Mount Tai and the Northern Dipper are prominent landmarks used together as an honorific for a preeminent authority.
-[^2]: A kasaya is an outer robe worn by a Buddhist monk.
-[^3]: Shenshi is a traditional time period corresponding to approximately 3–5 p.m.
-[^4]: A shichen is a traditional time unit of approximately two hours.
-[^5]: “Martial Uncle” addresses someone of the generation above one’s teacher within a martial lineage; it does not imply a family relationship.
-[^6]: The source describes the giant as eight *cheok* tall. One Korean *cheok* is approximately 30.3 cm (11.9 in), making eight *cheok* about 2.42 m (7 ft 11 in).
-[^7]: A fist-palm salute is a traditional martial greeting made by covering one fist with the opposite palm.
-[^8]: Amitabha is the name of a Buddha, spoken here as a Buddhist invocation.
-[^9]: The *Thousand Character Classic* is a classical text traditionally used to teach Chinese characters and literacy.
