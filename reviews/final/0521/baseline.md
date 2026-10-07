@@ -54,7 +54,7 @@ I’d come dead last a few times in school, but this was my first time coming fi
 
 The psychological damage made my vision swim. I stared at Jeok Cheongang and opened my mouth.
 
-“There’s this guy I know, Tess hyung.[^1] He once said, ‘Know thyself.’”
+“There’s this guy I know, Tess hyung. He once said, ‘Know thyself.’”
 
 “Was that directed at this old man?”
 
@@ -162,7 +162,7 @@ People with the character *Alliance* embroidered in silver thread on their chest
 
 *Those people…*
 
-Song Ho hadn’t won his post as Chief of the Hidden Shadow Pavilion in a game of Go-Stop.[^2] Walking beside me, he seemed to read the question in my glance at once.
+Song Ho hadn’t won his post as Chief of the Hidden Shadow Pavilion in a game of Go-Stop. Walking beside me, he seemed to read the question in my glance at once.
 
 “They serve directly under the Alliance Leader’s Office.”
 
@@ -234,7 +234,7 @@ The Thunderbolt Saber King, who’d been glancing at me for some time, muttered,
 
 “Peng Dojin.”
 
-“Pengdori?[^3] Sure, he’s a good starter Pokémon. Cute, too.”
+“Pengdori?[^1] Sure, he’s a good starter Pokémon. Cute, too.”
 
 “What the hell are you talking about? Peng Dojin! Peng Dojin! The one who gave you a close fight at the Star-Array Grand Banquet!”
 
@@ -314,6 +314,4 @@ Something unidentifiable had been drawn in black ink.
 
 It was a monster unfamiliar to some, yet strangely familiar to others.
 
-[^1]: Tess hyung is a familiar Korean way of addressing Socrates, popularized by the song “Tess Hyung.” *Hyung* is a man’s familiar address for an older man.
-[^2]: Go-Stop is a Korean card game played with *hwatu*, or flower cards.
-[^3]: Pengdori is the Korean name for Piplup, a penguin Pokémon that players can choose as a starter.
+[^1]: Pengdori is the Korean name for Piplup, a penguin Pokémon that players can choose as a starter.
