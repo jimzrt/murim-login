@@ -102,7 +102,9 @@ My quiet voice carried over the low groans and echoed through the blackened corr
 
 These days, people called me a hero.
 
-To give them the conclusion first: I wasn’t. I didn’t have some noble spirit of self-sacrifice. I cared about money, and I’d rather live for my own people than for strangers I’d never met.
+To give them the conclusion first: I wasn’t.
+
+I wasn’t one. I didn’t have some noble spirit of self-sacrifice. I cared about money, and I’d rather live for my own people than for strangers I’d never met.
 
 But… I thought I’d lived without shame.
 
@@ -238,7 +240,7 @@ He was different from the Ares Guild members I’d faced so far. As I watched hi
 
 “What can I do? I’m a hunting dog too, in the end. I can guess how this will turn out, but I’d appreciate it if you went easy on me.”
 
-*What was it about his attitude?*
+What was it about his attitude?
 
 I silently studied the middle-aged man. Then I suddenly arrived at a conclusion and opened my mouth.
 
@@ -320,7 +322,7 @@ That was right.
 
 Today, the magnificent palace built by an ambitious warlord who had wanted everything would fall.
 
-Along with the Disciple who had become a monster.
+Along with the disciple who had become a monster.
 
 I tossed a few words at the stunned crowd.
 
