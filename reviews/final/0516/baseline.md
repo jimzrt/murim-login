@@ -56,30 +56,11 @@ At the same time, a clear ringing sounded in my ears.
 
 *Ding. Ding. Ding.*
 
-
 > **System**
 >
 > **Fake Murim Practitioner, Stage 2** completed successfully!
 >
 > You have achieved the rare achievement **Single Reed Crossing the River**!
->
-> You will receive a fitting reward for your remarkable persistence and effort!
->
-> Your control over **internal energy** has become freer! The power and efficiency of your martial arts have increased!
->
-> All attributes have increased slightly!
->
-> You have acquired 50 bonus points!
->
-> You have acquired a massive amount of EXP!
->
-> **Level Up!**
-
-> **System**
->
-> **Fake Murim Practitioner, Stage 2** completed successfully!
->
-> You have achieved the rare achievement **Single Reed Crossing the River**[^1]!
 >
 > You will receive a fitting reward for your remarkable persistence and effort!
 >
@@ -107,15 +88,13 @@ Those were my last words before my eyelids grew heavy and the sleep demon took m
 
 * * *
 
-*Where am I?*
+Where am I?
 
 That was my first thought when I opened my eyes.
 
 I blinked slowly and looked around. Pitch-black darkness surrounded me. As my eyes adjusted, I finally made out where I was.
 
 *A swamp.*
-
-Yes, this was a swamp.
 
 White bones of uncertain origin—human or beast—were scattered everywhere, and a horrific stench filled the air, strong enough to make me gag.
 
@@ -215,11 +194,11 @@ Warmth wrapped around my body. I reached toward the light now right in front of 
 
 Thoughts raced through my head.
 
-*Why could I grab the light? Why did it feel so good? I had definitely woken up from the dream, so why could I still feel it?*
+Why could I grab the light? Why did it feel so good? I had definitely woken up from the dream, so why could I still feel it?
 
 *Rub, rub.*
 
-*What the hell was this?*
+What the hell was this?
 
 After thinking for a moment, I opened my eyes, which I had closed slightly.
 
@@ -227,7 +206,7 @@ The bright light was someone’s smooth, shiny head.
 
 A Buddhist precept seal marked his forehead.
 
-“Krillin?”[^2]
+“Krillin?”
 
 The monk, whom I had never seen before—not Krillin—opened his mouth with an awkward expression.
 
@@ -237,9 +216,7 @@ The monk, whom I had never seen before—not Krillin—opened his mouth with an 
 
 “This humble monk is Jung Ho.”
 
-*Who was Jung Ho?*
-
-After a moment’s thought, I asked haltingly, my voice thick with sleep.
+Who was Jung Ho?
 
 “Were you perhaps Park Jung Ho from Class 6, Grade 3 at Garam Middle School…?”
 
@@ -249,7 +226,7 @@ After a moment’s thought, I asked haltingly, my voice thick with sleep.
 
 “A good forty years, at least… No, wait. Could you please listen to me, Benefactor?”
 
-“Oh, right, you bastard. Didn’t you say you were going to become a priest? When did you switch? Apostate. Apostate. Did the Full Gospel Church[^3] Crusaders beat you up? Look how much your face has aged. Which temple hired you?”
+“Oh, right, you bastard. Didn’t you say you were going to become a priest? When did you switch? Apostate. Apostate. Did the Full Gospel Church Crusaders beat you up? Look how much your face has aged. Which temple hired you?”
 
 My old classmate answered with a half-resigned expression.
 
@@ -261,7 +238,7 @@ My old classmate answered with a half-resigned expression.
 
 “Wait. If you’re at Shaolin Temple…”
 
-*Oh. Fuck. What?*
+Oh. Fuck. What?
 
 Only then did my mind fully clear. I hurriedly shook my head to dispel the sleep and cautiously opened my mouth.
 
@@ -269,7 +246,7 @@ Only then did my mind fully clear. I hurriedly shook my head to dispel the sleep
 
 “I understand.”
 
-Jung Ho, the middle-aged monk, looked as though he understood nothing of the sort. He continued.
+Jung Ho, the middle-aged monk, looked as though he understood nothing of the sort.
 
 “Could you take your hand off my head now? You’ve been touching it this whole time…”
 
@@ -299,7 +276,7 @@ I let out a deep sigh, then first kicked the lump curled up asleep at my feet.
 
 “…”
 
-*What kind of wake-up cry was that?*
+What kind of wake-up cry was that?
 
 Cheongpung sprang awake from the sudden impact and opened his sleepy eyes.
 
@@ -315,7 +292,7 @@ Cheongpung sprang awake from the sudden impact and opened his sleepy eyes.
 
 Cheongpung finally noticed the pet snake coiled around my neck. At his call, its thick body slid down across my chest.
 
-*Wait. Thick?*
+Wait. *Thick?*
 
 I stared open-mouthed at the Thousand-Year Poison Horned Snake, which looked practically like a python now.
 
@@ -337,7 +314,7 @@ I stared open-mouthed at the Thousand-Year Poison Horned Snake, which looked pra
 
 “…?”
 
-*Then shouldn’t Jeok Cheongang and Mungyeong be at least three zhang tall by now?*[^4]
+Then shouldn’t Jeok Cheongang and Mungyeong be at least three zhang tall by now?
 
 I gave Cheongpung a troubled look and gave up trying to convince him. Instead, I smacked the mouth beside me that was giving off a horrific stench.
 
@@ -385,13 +362,13 @@ I sat up straight. After rubbing his head like a bowling ball, I’d have had to
 
 “Please, speak, Monk.”
 
-“My Martial Uncle[^5] wishes to see you, Benefactor.”
+“My Martial Uncle wishes to see you, Benefactor.”
 
 “Your Martial Uncle? Is he the person waiting outside?”
 
 “Yes. He says he would like to speak with you again after so long…”
 
-*So that was it. I’d wondered why I could sense two presences.*
+So that was it. I’d wondered why I could sense two presences.
 
 Jung Ho’s Martial Uncle had to be a senior monk of Shaolin. But someone who wanted to speak with me *again*?
 
@@ -418,9 +395,3 @@ He had a slender build, and every inch of exposed skin was covered in scars. A r
 Only then did I recognize the monk before me. His appearance and the air about him had changed so much that it had taken me a moment to find his name.
 
 “Unnamed.”
-
-[^1]: Single Reed Crossing the River alludes to the legend of Bodhidharma crossing a river on a single reed.
-[^2]: Krillin is a bald martial artist from *Dragon Ball*.
-[^3]: Full Gospel Church refers to a Korean Pentecostal Protestant church.
-[^4]: Three zhang, here a traditional Korean measure of length, are approximately 9.09 m (29.8 ft).
-[^5]: Martial Uncle is a title for someone of one’s teacher’s generation within a martial or monastic lineage, not necessarily a relative.

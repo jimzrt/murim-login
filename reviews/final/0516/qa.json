@@ -1,0 +1,86 @@
+{
+  "chapter": 516,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.123,
+    "source_characters": 6065,
+    "source_paragraphs": 207,
+    "translation_characters": 12875,
+    "translation_paragraphs": 195
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 82
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 82
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대사",
+        "preferred": "Master for a senior Buddhist monk"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "계인",
+        "preferred": "Buddhist precept seals"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진맥",
+        "preferred": "take one's pulse"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "성하",
+        "preferred": "Seongha"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "동창",
+        "preferred": "East Depot"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "녕하",
+        "preferred": "Ningxia"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
