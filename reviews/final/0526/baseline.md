@@ -162,7 +162,7 @@ Some of the old martial artists who had once dominated an era—or some of the r
 
 “Then I’ve come to the right place. Go tell them Hong Jeok is here.”
 
-“Hong Jeok, Red Turbans,[^1] whatever you call yourself, you still have to go through verification… Wait. What did you just say?”
+“Hong Jeok, Red Turbans, whatever you call yourself, you still have to go through verification… Wait. What did you just say?”
 
 “Hong Jeok. Hong Jeok of Guangxi.”
 
@@ -252,7 +252,7 @@ The goateed man stroked his beard as he answered.
 
 “Hm. And?”
 
-“Nor are they all disciples of prestigious sects. Jin Mukyung, the Heaven Shaking Sword and Second Young Master of the Jin Family of Taiyuan, is a prime example.”
+“Nor are they all disciples of prestigious sects. Jin Mukyung, the Second Young Master of the Jin Family of Taiyuan, is a prime example.”
 
 “Ah, I forgot about the Heaven Shaking Sword.”
 
@@ -293,5 +293,3 @@ Cheongpung spoke with a stiff expression.
 “……”
 
 *Don’t say it so loudly, you idiot.*
-
-[^1]: The Red Turbans were red-turbaned rebel groups in Chinese history. The guard invokes their name because it sounds similar to Hong Jeok’s.
