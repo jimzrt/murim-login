@@ -10,7 +10,7 @@ Yet most people knew neither his age nor his face—not even his name. Assassins
 
 Decades passed, and the veil over the Slaughter Saint never lifted.
 
-The Slaughter Saint had vanished without a trace immediately after the war ended. He did not show himself even once for a long time, and the words that spilled from the mouths of ordinary people traveled a thousand li, ten thousand li,[^1] without needing feet.
+The Slaughter Saint had vanished without a trace immediately after the war ended. He did not show himself even once for a long time, and the words that spilled from the mouths of ordinary people traveled a thousand li, ten thousand li, without needing feet.
 
 The Slaughter Saint is dead!
 
@@ -22,7 +22,7 @@ It was not only his beloved weapon, stained with blood. He buried the name Slaug
 
 The Slaughter Saint died, and Mungyeong emerged into the world. In time, the world began calling him by another name.
 
-*The Divine Physician.*
+The Divine Physician.
 
 The Yangtze has many tributaries, but all their waters join the same river.
 
@@ -32,7 +32,7 @@ To put it simply…
 
 *My number-one recruitment target.*
 
-That more than qualified him for a place aboard my Going Murim ship.[^2]
+That more than qualified him for a place aboard my Going Murim ship.
 
 Sure, spending time with him meant the occasional attempt on my life. But I’d rather shit blood a few times than die because we ran into a monster like the Western Heaven Demon Lord.
 
@@ -78,7 +78,7 @@ Cheongpung smiled brightly.
 
 “Hehe. That’s how it happened, Benefactor.”
 
-It was the one blow that turned my suspicion into certainty. I looked back and forth between them in silence for a moment before managing to part my lips.
+It was the one blow that turned my suspicion into certainty.
 
 “Is this for real?”
 
@@ -198,7 +198,7 @@ I sighed at his aggrieved expression.
 
 “Can you write?”
 
-“Write? I’d make Wang Xizhi[^3] weep.”
+“Write? I’d make Wang Xizhi weep.”
 
 “Answer properly before I beat you until you cry.”
 
@@ -212,7 +212,7 @@ I sighed at his aggrieved expression.
 
 The world was vast, and masters were plentiful.
 
-Henan, right now, was a prince’s residence[^4] teeming with dragons and tigers.
+Henan, right now, was a prince’s residence teeming with dragons and tigers.
 
 *What’s so special about holding a public audition?*
 
@@ -226,7 +226,7 @@ I pictured applicants flooding in.
 
 Shik, sssshk!
 
-The movements were fast and fluid, unlike anything the onlookers had seen before. Whenever his hands moved as if dancing, the tip of the large needle flashed, and thread stitched the wound closed.
+Whenever his hands moved as if dancing, the tip of the large needle flashed, and thread stitched the wound closed.
 
 In mere moments, a swordsman who had been slowly dying from a deep slash across his abdomen had a chance to live.
 
@@ -264,9 +264,9 @@ The physicians exchanged glances, then shook their heads all at once.
 
 This was hardly the first time the young medical apprentice had astonished them.
 
-About one shichen[^5] earlier, he had arrived with a patient whose injuries were minor. He’d taken one look at the people lying there and remarked:
+About one shichen earlier, he had arrived with a patient whose injuries were minor. He’d taken one look at the people lying there and remarked:
 
-“This won’t take long.”
+*This won’t take long.*
 
 Then he’d begun treating them one by one, so quickly and so thoroughly that the physicians who’d come over to scold him and throw him out couldn’t tear themselves away.
 
@@ -405,9 +405,3 @@ Yet Mungyeong didn’t mind.
 Mungyeong hesitated, wondering whether to draw his short sword. Instead, he took the dumpling Cheongpung offered and bit into it.
 
 The taste was not bad.
-
-[^1]: This uses the Chinese *li*, approximately 500 m (0.311 mi). A thousand li is about 500 km (311 mi); ten thousand li is about 5,000 km (3,110 mi).
-[^2]: “Going Murim” plays on the Going Merry, the ship in the manga and anime series *One Piece*.
-[^3]: Wang Xizhi was a fourth-century Chinese calligrapher celebrated for his skill.
-[^4]: A prince’s residence was his home before he took the throne. Here it suggests a gathering place for people who may become great figures.
-[^5]: A *shichen* is a traditional Chinese time unit of approximately two hours.
