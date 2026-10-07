@@ -110,7 +110,7 @@ Whatever peculiar tastes Hwaran might have, she couldn’t possibly like Gung Gi
 
 —So it really is that bastard? Are you saying this Young Master is less than a worm that crawled out of some backwater corner of Shanxi Province?
 
-—Not a worm. A Divine Dragon. And Shanxi Province is no longer a backwater corner. It is the hidden residence[^1] from which the dragon named Jin Taekyung rose, as well as the center of the trade routes running through northern Gaoyuan.
+—Not a worm. A Divine Dragon. And Shanxi Province is no longer a backwater corner. It is the hidden residence from which the dragon named Jin Taekyung rose, as well as the center of the trade routes running through northern Gaoyuan.
 
 Having lightly corrected him, Baek Woo continued.
 
@@ -170,7 +170,7 @@ Hwangbo Ak remained silent for a moment, staring at Baek Woo in disbelief. Then 
 
 —Are you… serious?
 
-—Infinite Life Buddha.[^2] I swear before the Primordial Heavenly Venerable[^3] that I’m completely serious.
+—Infinite Life Buddha. I swear before the Primordial Heavenly Venerable that I’m completely serious.
 
 —Have you no pride as a martial artist?
 
@@ -188,7 +188,7 @@ Baek Woo gazed into the past with a nostalgic look in his eyes.
 
 —…!
 
-—Infinite Life Buddha.[^2] Let’s be honest. Do you think everything the Blazing Flame Divine Dragon has done is just a rumor?
+—Infinite Life Buddha. Let’s be honest. Do you think everything the Blazing Flame Divine Dragon has done is just a rumor?
 
 —Of course!
 
@@ -208,7 +208,7 @@ At last, a sensible answer. Hwangbo Ak nodded with conviction.
 
 —…What are you playing at?
 
-—Infinite Life Buddha.[^2] It’s simple. Don’t try to reason it out with common sense. Don’t even try to understand it. Just accept it.
+—Infinite Life Buddha. It’s simple. Don’t try to reason it out with common sense. Don’t even try to understand it. Just accept it.
 
 For a moment, Baek Woo’s almost enlightened tone left Hwangbo Ak speechless. Then he tried another angle.
 
@@ -226,7 +226,7 @@ Baek Woo checked that no one was looking, then casually dipped his head.
 
 A strangely bare patch showed between the neatly arranged strands at his crown.
 
-—Infinite Life Buddha.[^2] See?
+—Infinite Life Buddha. See?
 
 —What on earth happened to your—
 
@@ -295,7 +295,3 @@ And at the moment his voice, neither loud nor soft, rang through the inn—
 Scrape.
 
 Someone rose from their seat.
-
-[^1]: *Qian di* originally referred to a prince’s residence before he ascended the throne. Here it casts Shanxi as the place from which Jin Taekyung rose.
-[^2]: A Buddhist invocation wishing for immeasurable life.
-[^3]: A Daoist deity invoked here as a witness to Baek Woo’s oath.
