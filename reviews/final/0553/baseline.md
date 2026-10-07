@@ -112,7 +112,7 @@ Then again, perhaps all of this really was normal to Team Leader Choi.
 
 *He certainly didn’t grow up in an ordinary family.*
 
-Even a third-generation Korean chaebol[^1] heir or the youngest son of a famed swordsmanship family would have to defer to him. His maternal grandfather was the immortal hero who had defeated the Demon King Asmodeus in the final battle and saved humanity.
+Even a third-generation Korean chaebol heir or the youngest son of a famed swordsmanship family would have to defer to him. His maternal grandfather was the immortal hero who had defeated the Demon King Asmodeus in the final battle and saved humanity.
 
 *Cheon Taemin.*
 
@@ -180,7 +180,7 @@ A webtoon, maybe. Turning this kind of fantasy into a TV drama would cost a fort
 
 Honestly, it still threw me every time.
 
-Barely six months ago in modern-world time, I’d been an F-rank Hunter getting by on blood sausage gukbap[^2] and cup noodles. Now the media hailed me as the new hero following in Cheon Taemin’s footsteps, and an S-rank Hunter license made from specially processed top-grade Magic Gems sat in the old leather wallet I still hadn’t replaced.
+Barely six months ago in modern-world time, I’d been an F-rank Hunter getting by on blood sausage gukbap[^1] and cup noodles. Now the media hailed me as the new hero following in Cheon Taemin’s footsteps, and an S-rank Hunter license made from specially processed top-grade Magic Gems sat in the old leather wallet I still hadn’t replaced.
 
 *I should be getting used to this by now, but somehow it isn’t happening.*
 
@@ -302,7 +302,7 @@ His gaze steadied again.
 
 “…”
 
-“What are you waiting for? We need to be ready before the seaweed soup[^3] comes out.”
+“What are you waiting for? We need to be ready before the seaweed soup comes out.”
 
 His parents had died, his grandfather Cheon Taemin had disappeared, and Lee Jungryong had shut him out afterward. But Team Leader Choi was still the Young Master of a wealthy household.
 
@@ -326,6 +326,4 @@ A few touches took me to a large online community open only to Hunters. I found 
 
 Right. That guy was still around.
 
-[^1]: A chaebol is a large, family-controlled South Korean business conglomerate.
-[^2]: Gukbap is a Korean dish of rice served in hot soup.
-[^3]: In Korea, seaweed soup is traditionally eaten on birthdays.
+[^1]: Gukbap is a Korean dish of rice served in hot soup.
