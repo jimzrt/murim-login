@@ -102,7 +102,7 @@ By the time my short but fiercely fought meal was coming to an end, the four sha
 
 “Ah, I missed it.”
 
-“The sa-eo[^1]?”
+“The sa-eo?”
 
 “No. I was going to let them go soon anyway.”
 
@@ -116,7 +116,7 @@ I sucked the seasoning off my fingers.
 
 “I’ve got no reason to be.”
 
-“What a strange fellow. Didn’t you use the sa-eo[^1] to chase the swift ship all the way here so you could catch up?”
+“What a strange fellow. Didn’t you use the sa-eo to chase the swift ship all the way here so you could catch up?”
 
 He was right. I couldn’t deny it.
 
@@ -222,7 +222,7 @@ He watched me in silence for a while, then spoke abruptly.
 
 “I can’t see the ship anymore. I’d better hurry after those damned bastards.”
 
-“Take care. If you run into a sa-eo[^1], catch it and try riding it.”
+“Take care. If you run into a sa-eo, catch it and try riding it.”
 
 “So you don’t intend to come with me.”
 
@@ -323,5 +323,3 @@ In crowded markets, pleasure houses, and inns, gossips talked of little else day
 Even as the gossips talked, people throughout Murim were making their own moves.
 
 And as the fervor spread like wildfire, ten days passed.
-
-[^1]: *Sa-eo* is a Sino-Korean word for shark; the ordinary Korean word is *sang-eo*.
