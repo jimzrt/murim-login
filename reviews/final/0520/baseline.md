@@ -4,7 +4,7 @@ The young man gazed blankly out the window.
 
 It was a beautiful spring day. The sunlight was just right, and the breeze through the half-open window was pleasantly cool. Flowers had come into full bloom, filling the air with their sweet fragrance.
 
-It was a Wuling Peach Blossom Spring[^1] in the mortal world.
+It was a Wuling Peach Blossom Spring in the mortal world.[^1]
 
 Everything would have been perfect if a voice had not suddenly spoken behind him.
 
@@ -244,7 +244,7 @@ Shadow Killer was among the Hidden Shadow Pavilion’s finest agents. At the Sta
 
 “Yes. I sent Shadow Killer when I heard there was trouble on the main road, but…”
 
-*I sent him to capture them, and now he’s escorting them here.*
+He had sent the man to capture them, and now he was bringing them here like honored guests.
 
 Thousand-Faced Fox swallowed the rest of his words as Mae Jonghak’s voice reached his ears.
 
@@ -254,7 +254,7 @@ Thousand-Faced Fox swallowed the rest of his words as Mae Jonghak’s voice reac
 
 “Yes. Some welcome faces are on their way.”
 
-Mae Jonghak patted Thousand-Faced Fox’s shoulder twice, then leaned out the window and muttered, “Come, let’s go.”
+Mae Jonghak patted Thousand-Faced Fox’s shoulder twice, then leaned out the window and muttered,
 
 * * *
 
