@@ -36,7 +36,9 @@ Jeok Cheongang’s eyelids trembled. Then—
 
 Still sitting cross-legged, his small figure rose into the air, turned slowly, and landed facing the cave entrance.
 
-Jeok Cheongang silently stared at the man blocking the narrow cave entrance before asking, “How did you know I was here?”
+Jeok Cheongang silently stared at the man blocking the narrow cave entrance before suddenly opening his mouth.
+
+He stared in silence at the man blocking it before asking, “How did you know I was here?”
 
 Mungyeong answered dryly. “When I came up, a great tiger walked over and rubbed its head against me. It had clearly done that before.”
 
@@ -56,9 +58,7 @@ More than forty years had passed, and the blade called the Slaughter Saint was a
 
 “It would have taken me a little longer.”
 
-Assassins were masters of both killing and pursuit.
-
-Reading the confidence in Mungyeong’s calm expression, Jeok Cheongang muttered, “Damn it. What an irritating assassin.”
+Reading the confidence in Mungyeong’s calm expression, Jeok Cheongang muttered,
 
 “I can hear you.”
 
@@ -184,7 +184,7 @@ Alone, he had defeated a thousand Demonic Cult martial artists and brought count
 
 Yet the Supreme Peak master revered throughout Murim as the Fire King had another, truer enemy.
 
-“It was long ago that the Heart Demon[^1] came for me.”
+“It was long ago that the Heart Demon came for me.”
 
 The wound left by his first Disciple ran deep. It ate away at the body and mind of the Master left alone. Little by little, slowly, without ever stopping.
 
@@ -198,7 +198,7 @@ Jeok Cheongang had let them flow downriver without gaining the slightest enlight
 
 He had laughed like that on the day the infirmities of old age first came upon him.
 
-He had laughed neither from happiness nor from resignation. He simply had not known what else to do.
+He had simply laughed because he did not know what else to do.
 
 It was only when that first lost half-day became two full days that Jeok Cheongang knew what he had to do.
 
@@ -240,7 +240,9 @@ This was too soon.
 
 Jeok Cheongang bowed his head. The Fire King himself.
 
-Mungyeong was bewildered by a sight no one else in Murim had ever witnessed.
+Mungyeong was faced with a sight no one else in the Murim had ever witnessed: the Fire King Jeok Cheongang lowering his head before another person.
+
+He was so bewildered that he could hardly believe what he was seeing.
 
 “Why? Seven days and nights ago, you were clearly…”
 
@@ -276,7 +278,7 @@ Why had he hidden it? Why?
 
 The question died on Mungyeong’s tongue. He already knew.
 
-How small a person felt when they first realized they had grown old. How frightening it was to realize their mind had begun to come and go with the infirmities of old age.
+How much fear he felt when he discovered that his mind had begun to come and go because of the infirmities of old age.
 
 Seeing Mungyeong fall silent, Jeok Cheongang gave a rueful smile.
 
@@ -301,5 +303,3 @@ Jeok Cheongang had searched desperately for a way to stop it, to no avail.
 “I wanted to live as the Fire King Jeok Cheongang. Not as an old man with infirmities who cannot even remember his own name, but as the current Sect Leader of the Fire Gate Clan and someone’s Master.”
 
 His desolate voice echoed through the cave. Drops gathered on the damp ceiling and fell, like an old man’s tears.
-
-[^1]: *Simma*, literally “heart demon,” refers to inner turmoil that impedes a martial artist’s cultivation.
