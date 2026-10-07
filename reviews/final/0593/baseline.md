@@ -26,7 +26,7 @@ White Flame’s shaft trembled under the mountain of pressure bearing down from 
 
 *I haven’t been pushed this hard in a long time.*
 
-Right now, even three jiazi[^1] of internal energy and physical abilities beyond human limits felt inadequate.
+Right now, even three jiazi of internal energy and physical abilities beyond human limits felt inadequate.
 
 Maybe it was the fatigue I’d built up over the course of the day. Or maybe Go Jun had absorbed that much magical power.
 
@@ -86,7 +86,7 @@ I felt sick.
 
 Go Jun could make good on those words. I hated that he could. And when I pictured the people I couldn’t live without lying dead, my mind went blank.
 
-*Mother. Hayeon. Team Leader Choi. Uncle Kkeokjeong, Song Song, Jin-ho hyung[^2]…*
+*Mother. Hayeon. Team Leader Choi. Uncle Kkeokjeong, Song Song, Jin-ho hyung…*
 
 Their faces flashed before my eyes, one after another. So did the graying old butler who had died on the snow-covered mountain.
 
@@ -119,8 +119,6 @@ When I spoke, my voice burned.
 “……!”
 
 “You shouldn’t have talked about my people that way. At the very least, you shouldn’t have.”
-
-I’d suspected it. Go Jun was capable of doing exactly what he’d threatened.
 
 But suspecting it myself and hearing it directly from his mouth were entirely different matters.
 
@@ -158,7 +156,7 @@ Dozens of hairs, severed by the sword pressure, scattered past my shoulder. My f
 
 *Flame-Extinguishing Divine Fist.*
 
-The world slowed. Space warped in the ultra-high temperature heat. It looked almost like the expression Go Jun was making now.
+Space warped in the ultra-high temperature heat. It looked almost like the expression Go Jun was making now.
 
 “No—”
 
@@ -176,7 +174,7 @@ I launched myself after him.
 
 Wind rushed past my ears.
 
-In less than an instant, I covered more than ten meters[^3] and overtook him. As he hurtled toward me, I clasped my hands together and brought them down like a hammer.
+In less than an instant, I covered more than ten meters and overtook him. As he hurtled toward me, I clasped my hands together and brought them down like a hammer.
 
 *CRASH! KRAKAKAK!*
 
@@ -254,7 +252,7 @@ Go Jun charged through it toward me.
 
 *Zzzzzzzzz!*
 
-His Aura Blade, an absurd two meters[^4] long, came cleaving through the air.
+His Aura Blade, an absurd two meters long, came cleaving through the air.
 
 Each time I twisted aside to avoid it, the sword pressure carving up the space around me tore my skin and drew blood.
 
@@ -393,8 +391,3 @@ The eyes of a human—no, a monster—driven to the edge.
 Then I drove the spear deeper into Go Jun’s chest.
 
 *KRAK!*
-
-[^1]: A *jiazi* is a traditional sixty-year cycle; three jiazi are 180 years.
-[^2]: *Hyung* is a Korean term a man uses to address an older brother or an older male friend.
-[^3]: Ten meters is about 33 ft.
-[^4]: Two meters is about 6.6 ft.
