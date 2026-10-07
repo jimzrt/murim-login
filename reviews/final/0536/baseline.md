@@ -112,11 +112,11 @@ That was right. He’d said the same thing when we fought the Blood Lord.
 
 Cut and torn, bleeding heavily and writhing in pain, Cheongpung had refused to retreat. He’d known he was no match for the Blood Lord, but he kept charging at him.
 
-“What the hell? Why are you acting like you’re so desperate to die first?”
+*What the hell? Why are you acting like you’re so desperate to die first?*
 
 And when the Blood Lord had asked him that with confusion and anger, Cheongpung had answered with a clear smile.
 
-“If I retreat… I think I’ll regret it for the rest of my life.”
+*If I retreat… I think I’ll regret it for the rest of my life.*
 
 That regret. I knew what he meant.
 
@@ -178,27 +178,27 @@ His hands were strangely large and thick for a man of his modest build. Only the
 
 *Fist King Yan Hwapyeong.*
 
-The last descendant of the Jinzhou Yan Family, which had been utterly ruined long ago by power struggles between orthodox factions.
+The last descendant of the Jinzhou Yan Family, which had been utterly ruined by power struggles between orthodox factions.
 
 He had turned his back on the world and lived atop an unnamed mountain. But when news reached him that a hundred thousand demonic soldiers had invaded the Central Plains, he joined the Murim Alliance without hesitation.
 
-“Do you know why the Fist King is such an incredible man?”
+*“Do you know why the Fist King is such an incredible man?”*
 
-“How would I know?”
+*“How would I know?”*
 
-“I once asked him if he had no pride. The orthodox bastards had ruined his family before he was even born. How many of the men gathered here, I asked him, knew anything about humanity or chivalry?”
+*“I once asked him if he had no pride. The orthodox bastards had ruined his family before he was even born. How many of the men gathered here, I asked him, knew anything about humanity or chivalry?”*
 
-“You really have no tact, do you?”
+*“You really have no tact, do you?”*
 
-“Shut up and listen. His answer was the best part.”
+*“Shut up and listen. His answer was the best part.”*
 
-“What did he say?”
+*“What did he say?”*
 
-“He said it didn’t matter.”
+*“He said it didn’t matter.”*
 
-“What?”
+*“What?”*
 
-“Just that. None of it mattered. He’d simply come to help. And the moment the Great Faction War ended, he vanished like a phantom. That man was the real thing. Ha ha ha.”
+*“Just that. None of it mattered. He’d simply come to help. And the moment the Great Faction War ended, he vanished like a phantom. That man was the real thing. Ha ha ha.”*
 
 That same Fist King Yan Hwapyeong was smiling at us now. It was a warm smile.
 
@@ -231,8 +231,6 @@ Tang Sadok’s next words confirmed my suspicion.
 Voices of agreement rose around the room.
 
 They belonged to the heads of sects and families who had crossed paths with me personally throughout the Murim, or through Jeok Cheongang or the Jin Family of Taiyuan.
-
-Others nodded as though it were only natural, despite having no connection to me at all.
 
 Encouraged by this response, Myriad-Poison Asura Tang Sadok continued in a clear voice.
 
@@ -267,8 +265,6 @@ Ding.
 > **System**
 >
 > Would you like to join the Murim Alliance?
-
-The notification appeared before my eyes.
 
 Neither Cheongpung nor I took long to decide. Our eyes met, and we answered as one.
 
