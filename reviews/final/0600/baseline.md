@@ -30,7 +30,7 @@ At the mention of Go Jun, Team Leader Choi’s eyebrows twitched. He quickly ste
 
 Team Leader Choi had never met Go Se-won, but he’d guessed right.
 
-I nodded and told him everything I remembered about that day: our private meeting at the special detention center, and the existence of another secret area, which Go Se-won had told only me about.
+I nodded and told him everything I remembered about that day: our private meeting at the special detention center, and the other secret area Go Se-won had told me about.
 
 “He didn’t know exactly where it was or what it was for. He said only Lee Jungryong and Go Jun could enter.”
 
@@ -38,7 +38,7 @@ When I finished, Team Leader Choi murmured, “I suspected as much… So it was 
 
 “What?”
 
-That wasn’t the reaction I’d expected. As I stared at him, eyes wide, he asked, “Does anyone else know about this, Mr. Jin?”
+That wasn’t the reaction I’d expected. As I stared at him, he asked, “Does anyone else know about this, Mr. Jin?”
 
 “Uh, I think Go Se-won and I are the only ones. We temporarily blocked the sound, and we covered our mouths while speaking.”
 
@@ -104,7 +104,7 @@ Then Team Leader Choi spoke, and every thought vanished.
 
 * * *
 
-How much time had passed? Even as the wind blew and clouds drifted slowly overhead, I couldn’t move for a long while.
+Even as the wind blew and clouds drifted slowly overhead, I couldn’t move for a long while.
 
 *This is insane.*
 
@@ -112,7 +112,7 @@ I hadn’t imagined this.
 
 Cheon Taemin. *That* Cheon Taemin was in the secret area.
 
-I felt as if the A-Gwi[^1] of Gyeongsang-do had smashed me in the back of the head with a sledgehammer. Frozen like a statue, I barely managed to speak.
+I felt as if the A-Gwi of Gyeongsang-do had smashed me in the back of the head with a sledgehammer. Frozen like a statue, I barely managed to speak.
 
 “Um… You don’t happen to have two maternal grandfathers, do you?”
 
@@ -138,7 +138,7 @@ Humanity’s immortal hero. The Slayer.
 
 Cheon Taemin, the man who had defeated even the Demon King Asmodeus, was in a vegetative state.
 
-That was harder to believe than Jin-ho hyung[^2] passing the civil service exam or Hyuk Mujin becoming the Murim Alliance Leader.
+That was harder to believe than Jin-ho hyung passing the civil service exam or Hyuk Mujin becoming the Murim Alliance Leader.
 
 *How is that possible?*
 
@@ -265,6 +265,3 @@ I stared dumbfounded at Team Leader Choi as he hung up without hesitation. He sp
 “…What?”
 
 “It’s going to be a busy day. We’ve waited a long time. Once you draw your sword, you have to swing it like lightning.”
-
-[^1]: *A-gwi* is a ravenous ghost in Korean Buddhist folklore.
-[^2]: *Hyung* is a form of address a man uses for an older brother or an older male friend.
