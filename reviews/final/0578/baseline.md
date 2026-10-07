@@ -98,7 +98,7 @@ Someone watching cried out.
 
 The shout held grief, urgency, and fury.
 
-The newcomer closed the hundreds of meters[^1] between them in an instant. With a flick of his sleeve, the surrounding air grew hot.
+The newcomer closed the hundreds of meters between them in an instant. With a flick of his sleeve, the surrounding air grew hot.
 
 *Fwoooosh!*
 
@@ -264,7 +264,7 @@ The instant two flashes of different colors met—
 
 *RUMBLE-RUMBLE-RUMBLE!*
 
-A massive shock wave shook the mountain. Snowdrifts within dozens of meters[^2] turned to powder and scattered.
+A massive shock wave shook the mountain. Snowdrifts within dozens of meters turned to powder and scattered.
 
 Two pale figures streaked through the white.
 
@@ -308,11 +308,11 @@ So why didn’t he feel the terror of death he had felt in Sichuan?
 
 A quiet laugh escaped him instead. He had suddenly remembered a conversation with someone who wasn’t here.
 
-“This might sound a little crazy, but sometimes I start laughing when I’m in a situation where I feel like I’m going to die.”
+*“This might sound a little crazy, but sometimes I start laughing when I’m in a situation where I feel like I’m going to die.”*
 
-“You really are quite insane.”
+*“You really are quite insane.”*
 
-“But… whenever I start laughing, I always end up winning somehow.”
+*“But… whenever I start laughing, I always end up winning somehow.”*
 
 Choi Minwoo didn’t know why that passing conversation had come to mind now.
 
@@ -373,6 +373,3 @@ A massive streak of light cleaved through space.
 Within the blinding flash that filled his vision, Song Cheonwoo felt a bolt of lightning cut across his chest.
 
 *Slice!*
-
-[^1]: Hundreds of meters is an unspecified distance of at least 200 m, or about 660 ft.
-[^2]: Dozens of meters is an unspecified distance of at least 20 m, or about 66 ft.
