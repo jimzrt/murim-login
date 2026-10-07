@@ -52,7 +52,7 @@ The man was the same, but the title made all the difference. That was probably w
 
 *The Alliance Leader.*
 
-It was a weighty title. The man bearing it carried the countless martial artists crisscrossing the Nine Provinces[^1]—and all of Murim—on his shoulders. And he wanted to see me…
+It was a weighty title. The man bearing it carried the countless martial artists crisscrossing the Nine Provinces—and all of Murim—on his shoulders. And he wanted to see me…
 
 *No matter how I look at it, that’s ominous.*
 
@@ -240,8 +240,6 @@ Gazes fell on Cheongpung and me—some sharp, some impassive, others full of won
 
 “What do you mean, not bad? What they’ve done is extraordinary. A blessing for all of Murim.”
 
-The owners of those aged voices sat on either side of us.
-
 Although they had reached supreme realms of martial arts and slowed the aging process, every last hair on their heads was as white as snow. It was enough to give me an idea of how much time they had lived through.
 
 *The leaders of the Nine Sects and One Gang. And the Family Heads of the Five Great Families.*
@@ -354,8 +352,8 @@ Cheongpung spoke so softly that only I could hear.
 
 “Grandpa…”
 
-A warm smile touched Mae Jonghak’s lips as he looked at us. At the same time, a powerful voice flowed from his mouth.
+A warm smile touched Mae Jonghak’s lips as he looked at us. Then he spoke, his voice carrying through the hall.
+
+At the same time, a powerful voice flowed from his mouth.
 
 “The masters of the Two Dragons Pavilion have arrived.”
-
-[^1]: The Nine Provinces, or *Jiuzhou*, is a traditional name for the lands of China.
