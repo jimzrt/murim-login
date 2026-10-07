@@ -36,7 +36,7 @@ Kim Hwajong muttered roughly, “Damn fool. There wasn’t even any guarantee th
 
 “He must have been that afraid. People cling to hope even in despair, don’t they?”
 
-Choi answered quietly and took his eyes off the crevasse. He could not tell exactly how deep it was, but the drop had to be hundreds of meters.[^1] Song had already been at death’s door. His chances of surviving the fall were close to zero.
+Choi answered quietly and took his eyes off the crevasse. He could not tell exactly how deep it was, but the drop had to be hundreds of meters. Song had already been at death’s door. His chances of surviving the fall were close to zero.
 
 “We should call the Guild members. No—it would be faster to have the Guild House send people.”
 
@@ -77,8 +77,6 @@ Muddy water mixed with snow and blood sprayed around him. Kim Hwajong, who had b
 Choi Minwoo did not answer. He silently stared down at his foot, half-submerged in a puddle of murky water, then suddenly muttered,
 
 “Regret.”
-
-“Yes?”
 
 “You said we’d make Go Jun regret doing this.”
 
@@ -140,7 +138,7 @@ A snowstorm swept around them. Blackened by magical power, it was no longer whit
 
 “Team Leader, how about a drink?”
 
-A team member came over with a soju[^2] bottle and an easy grin. The Team Leader answered curtly.
+A team member came over with a soju bottle and an easy grin. The Team Leader answered curtly.
 
 “No, asshole.”
 
@@ -194,7 +192,7 @@ Worse, when he came down and checked the news, he had learned that a Monster Wav
 
 “Then again, when COVID broke out while I was a kid, there were idiots who still went skiing.”
 
-“Melona?”[^3]
+“Melona?”[^1][^1]
 
 “…Never mind. Just keep stuffing your face.”
 
@@ -272,7 +270,7 @@ The place he had climbed toward with such high hopes, only to come back down emp
 
 The B-grade Gate known as Yeti’s Winter Range.
 
-The next moment, what appeared in the Team Leader’s widened eyes was part of the mountain slowly collapsing, with pitch-black darkness settling over it. Amid the wreckage of collapsing gondolas and buildings, a dreadful roar shook him to his core.
+The next moment, what appeared in the Team Leader’s widened eyes was part of the mountain slowly collapsing, with pitch-black darkness settling over it.
 
 —GRAAAAAAAH!
 
@@ -290,6 +288,4 @@ A frightened question came back.
 
 “The Hunter Association, the Peace Guild, Jin Taekyung—anywhere! Right now!”
 
-[^1]: Hundreds of meters is roughly hundreds to thousands of feet; 100 m is about 328 ft.
-[^2]: Soju is a Korean distilled alcoholic drink.
-[^3]: Melona is a Korean melon-flavored ice cream bar; its name echoes “Corona” in the original wordplay.
+[^1]: Melona is a Korean melon-flavored ice cream bar; its name echoes “Corona” in the original wordplay.
