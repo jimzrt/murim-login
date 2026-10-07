@@ -46,7 +46,7 @@ Compressed air burst outward, whipping up a small typhoon around me. The ten arr
 
 Swish-swish-swish! Boom!
 
-As the deflected arrows slammed into the lobby, I launched myself ahead of them. I crossed the dozen or so meters[^1] between us and appeared before the Security Team Leader.
+As the deflected arrows slammed into the lobby, I launched myself ahead of them. I crossed the dozen or so meters between us and appeared before the Security Team Leader.
 
 “You should’ve shot more gently. Then I would’ve made it hurt less.”
 
@@ -90,7 +90,7 @@ Front, back, left, right. Thirty-six directions.
 
 Watching the rays of light shoot toward me from every side, I let out a hollow laugh.
 
-Three jiazi[^2] of Scorching Yang Qi rose from my dantian, became a fire dragon, and entered my spear.
+Three jiazi of Scorching Yang Qi rose from my dantian, became a fire dragon, and entered my spear.
 
 Fire Dragon Divine Spear, First Form: Fire Dragon’s Single Tail.
 
@@ -322,7 +322,7 @@ Step.
 
 With the alarm blaring over the silent crowd, I walked slowly to the center of the lobby.
 
-Then I channeled three jiazi[^2] of internal energy, kicked off the floor, and shot upward.
+Then I channeled three jiazi of internal energy, kicked off the floor, and shot upward.
 
 Screeeeech!
 
@@ -331,6 +331,3 @@ The lobby ceiling rushed toward me with the fierce wind. At the same time, blue-
 The Flame-Extinguishing Divine Fist burst forth, burning through the air.
 
 Kuwaaaaaang!
-
-[^1]: A dozen or so meters is roughly 12 m, or about 39 ft.
-[^2]: A jiazi is a traditional sixty-year cycle. Three jiazi represents 180 years of accumulated power.
