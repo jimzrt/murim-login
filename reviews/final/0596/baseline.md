@@ -12,47 +12,47 @@ The breaking news threw Korea into an uproar. No—the entire world was shaken.
 
 Almost as soon as it broke, posts and comments flooded websites everywhere.
 
-> └ Hey, what is this?
+> Hey, what is this?
 >
 > └ What is?
 >
-> └ I got a sudden alert and checked it out, and… holy shit, Lord Fuck[^1] supposedly stormed Ares Guild headquarters alone?
+> └ I got a sudden alert and checked it out, and… holy shit, Lord Fuck supposedly stormed Ares Guild headquarters alone?
 >
 > └ ???
 >
 > └ ??????
 >
-> └ Quit talking bullshit, lol. I was watching the news just now, and they were looking for Lord Fuck[^1] because he disappeared from Pyeongchang. So why is he suddenly storming Ares Guild headquarters—
+> └ Quit talking bullshit, lol. I was watching the news just now, and they were looking for Lord Fuck because he disappeared from Pyeongchang. So why is he suddenly storming Ares Guild headquarters—
 >
 > └ Fuck, it’s real. What the hell is this?
 
-> └ ?? What is this, *The Truman Show*? You’re not doing this to fool newbies like me, are you?
+> ?? What is this, *The Truman Show*? You’re not doing this to fool newbies like me, are you?
 >
-> └ If it were *The Truman Show*, at least the ratings would be good. Why would we bother fooling you? It’s real. Turn on WBS—they’ve got an exclusive report. The Capital Defense Command[^2] has been dispatched and everything’s going crazy;
+> └ If it were *The Truman Show*, at least the ratings would be good. Why would we bother fooling you? It’s real. Turn on WBS—they’ve got an exclusive report. The Capital Defense Command’s been dispatched and everything’s going crazy;
 >
 > └ Why would the fire department be involved?
 >
-> └ Not the fire department. The Capital Defense Command[^2];
+> └ Not the fire department. The Capital Defense Command;
 
-> └ I get that Lord Sibu-leol[^1] went to Ares Guild headquarters, but isn’t saying he “stormed the place” a bit much? Maybe he went to have tea with Go Jun.
+> I get that Lord Sibu-leol went to Ares Guild headquarters, but isn’t saying he “stormed the place” a bit much? Maybe he went to have tea with Go Jun.
 >
 > └ Probably not. There were more than a thousand witnesses, and apparently Jin Taekyung punched the Ares headquarters building right in the solar plexus before going inside. Even if he went for tea, I bet every teacup in there got smashed.
 >
 > └ Got proof? If more than a thousand people saw it, someone must’ve taken a video. Post a link.
 >
-> └ The thousand witnesses part is real, but apparently nobody took a video or even a picture. They said they only came to their senses after Lord Fuck[^1] went inside. Before that, they just watched like they were possessed.
+> └ The thousand witnesses part is real, but apparently nobody took a video or even a picture. They said they only came to their senses after Lord Fuck went inside. Before that, they just watched like they were possessed.
 >
 > └ ?? Lol. That many people and not one piece of evidence? Sounds like a false report.
 >
-> └ Yeah. Why would Lord Fuck[^1] go there after disappearing for a while? Even if he did go, the rest sounds like rumors. Feels like the media’s using rumors as kindling.
+> └ Yeah. Why would Lord Fuck go there after disappearing for a while? Even if he did go, the rest sounds like rumors. Feels like the media’s using rumors as kindling.
 
 Immediately after the media began broadcasting the breaking news on a massive scale, most people refused to believe the shocking report.
 
 A hero who had put down two monster waves in succession and then vanished had supposedly stormed Ares Guild, of all places, alone. It made no sense.
 
-But within minutes, Jongno was designated a temporary disaster zone. Hunters and troops from the Capital Defense Command[^2] began evacuating civilians and establishing a defensive line, and the mood changed completely.
+But within minutes, Jongno was designated a temporary disaster zone. Hunters and troops from the Capital Defense Command began evacuating civilians and establishing a defensive line, and the mood changed completely.
 
-> └ I think this might actually be real.
+> I think this might actually be real.
 >
 > └ Damn, what the hell is going on?
 >
@@ -265,6 +265,3 @@ A blond foreigner ignored President Baek Hanseong entirely and spoke with a grav
 “That human. No—he’s awake.”
 
 “…!”
-
-[^1]: “Lord Fuck” and “Lord Sibu-leol” are online nicknames drawn from Taekyung’s profanity during a public broadcast. *Sibu-leol* represents a Korean swear word.
-[^2]: The Korean abbreviation for Capital Defense Command, *subangsa*, sounds similar to *sobangseo*, meaning fire station.
