@@ -110,7 +110,7 @@ A chill seized Go Se-won’s entire body. His frozen figure was reflected in Go 
 
 “V-Vice Guild Master.”
 
-“I don’t care if it costs tens of billions[^1] or hundreds of billions[^2] of won. Throw money at the prosecutors’ office. Threaten the old men sitting in the National Assembly. Grab anyone with a camera or a microphone by the collar. Isn’t that your job?”
+“I don’t care if it costs tens of billions or hundreds of billions. Throw money at the prosecutors’ office. Threaten the old men sitting in the National Assembly. Grab anyone with a camera or a microphone by the collar. Isn’t that your job?”
 
 “……!”
 
@@ -174,7 +174,7 @@ And just as Go Jun’s confidence fully returned and a deep smile spread across 
 
 Go Se-won looked directly at the monster before him—his superior—with an unreadable expression.
 
-“The old politicians raised under Ares’s name, the Prosecutor General, the business and media dynasties dating back to the Japanese occupation[^3]—none of them will protect you, Vice Guild Master.”
+“The old politicians raised under Ares’s name, the Prosecutor General, the business and media dynasties dating back to the Japanese occupation—none of them will protect you, Vice Guild Master.”
 
 “Team Leader Go. What are you—”
 
@@ -276,7 +276,7 @@ The thrill of revenge mingled with his obsession with one man. Go Se-won watched
 
 At the short answer, Go Jun laughed aloud. He laughed until his face twisted and the office seemed ready to fall apart from the sound. Then, suddenly, his expression sank, and he parted his lips.
 
-“You fucking idiot. This is Ares Guild. Fall forward and you land at the Blue House[^4]; fall backward and you land at the National Assembly. Do you really think he’ll do something insane enough to turn the whole world against him?”
+“You fucking idiot. This is Ares Guild. Fall forward and you land at the Blue House; fall backward and you land at the National Assembly. Do you really think he’ll do something insane enough to turn the whole world against him?”
 
 “I hear someone I know artificially caused a Monster Wave. Do you really think Jin Taekyung is incapable of doing something less insane than that?”
 
@@ -300,11 +300,6 @@ As the roar began to fade, Go Se-won’s voice reached him.
 
 “Dealing with that lunatic will probably be my final assignment. Thank you for everything, Vice Guild Master. If I survive, I’ll submit my resignation formally.”
 
-Carrying both his gratitude for everything until now and his disgust toward Go Jun as a human being, Go Se-won bowed deeply. He threw open the door that had been shut tight.
+Carrying both his gratitude for everything until now and his disgust toward Go Jun as a human being, Go Se-won bowed deeply.
 
 Emergency sirens were waking Ares Guild.
-
-[^1]: Tens of billions of won is about $7–64 million or €6–58 million.
-[^2]: Hundreds of billions of won is about $71–640 million or €65–580 million.
-[^3]: Japan ruled Korea from 1910 to 1945.
-[^4]: The Blue House was the traditional office and residence of South Korea’s president.
