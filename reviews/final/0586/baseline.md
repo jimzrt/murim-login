@@ -142,7 +142,9 @@ Before Team Leader Choi regained consciousness, I would bring him a gift that co
 
 Whoosh! Slash!
 
-The tip of the spear I swung without any preparation split the air, sending a crescent of Force through Behemoth’s enormous body. Skeleton King murmured, almost with a sigh.
+The tip of the spear I swung without any preparation split the air.
+
+I swung my spear without warning. Its tip split the air, sending a crescent of Force through Behemoth’s enormous body. Skeleton King murmured, almost with a sigh.
 
 “Stop.”
 
@@ -168,7 +170,7 @@ He stared at me, puzzled.
 
 “What in the world are you talking about?”
 
-I didn’t answer. One step carried me several meters[^1], bringing Behemoth’s corpse right before me.
+I didn’t answer. One step carried me several meters, bringing Behemoth’s corpse right before me.
 
 I studied the remains, cut so thoroughly that nothing of the monster’s former majesty remained. At last, I found what I was looking for.
 
@@ -182,8 +184,6 @@ A faint vibration passed through the air. With it came a murky, powerful energy.
 
 I had worried that it might have been erased by the One Annihilation I had fired earlier, but fortunately, *it* was unharmed.
 
-I murmured in relief and reached out without hesitation.
-
 Whoosh. Clack!
 
 Seizing an Object Through Empty Space sent *it* flying into my hand. I stared at it with a solemn gaze.
@@ -191,23 +191,6 @@ Seizing an Object Through Empty Space sent *it* flying into my hand. I stared at
 *Item Appraisal.*
 
 Ding.
-
-
-> **System**
->
-> **Item Window**
->
-> **Behemoth’s Turbid Abyss**
->
-> **Type:** Magic Gem  
-> **Grade:** Supreme Peak  
-> **Restriction:** None
->
-> **Description:** The abyss contained within Behemoth, a Named Monster and primordial beast, and the source of its magical power.
->
-> For some reason, it absorbed another source of magical power. Its once-pure darkness became turbid and even more powerful.
->
-> Using it requires an extremely demanding and difficult purification process.
 
 > **System**
 >
@@ -265,8 +248,6 @@ I was speaking to the Peace Guild members. Their eyes turned toward a middle-age
 
 “I’m sorry, but none of us know. I don’t know who he was either.”
 
-The middle-aged man was probably telling the truth. But I wasn’t disappointed.
-
 I had heard the man’s identity directly from Team Leader Choi himself not long ago. Even the temporary Head of Security had not been informed.
 
 *Song Cheonwoo.*
@@ -313,7 +294,7 @@ The unfamiliar, dry voice that sounded as though it belonged to someone else con
 
 “…!”
 
-The frozen expressions of the people before me came into view, along with someone’s face twisted in anger.
+The frozen expressions of the people before me came into view.
 
 “You bastard. Don’t tell me you’re—”
 
@@ -336,5 +317,3 @@ A mage raised his hand without thinking and asked with a dazed expression,
 I looked at the old butler, asleep forever, and finished.
 
 “Let’s go to Ares Guild.”
-
-[^1]: Several meters is roughly 10–20 ft.
