@@ -8,7 +8,7 @@ Hearing the door slam shut behind me, I dropped heavily onto the floor.
 
 The place was over a hundred pyeong, but all it held was a small desk and a single chair.[^1] It was called an office. Really, it was a training ground.
 
-I immediately took out my smartphone and inserted the chip.
+The place was called an office, but it was really a training ground. I immediately took out my smartphone and inserted the chip.
 
 *Click.*
 
@@ -238,7 +238,7 @@ Butler Kim’s usually gentle voice came out cracked.
 
 Seven percent wasn’t merely a rise. *Surge* was closer to the mark.
 
-And that sharp change in magical power levels was especially obvious in the footage.
+And that sharp change in mana levels was especially obvious in the footage.
 
 “The monsters…”
 
@@ -248,7 +248,7 @@ I nodded and finished Team Leader Choi’s thought.
 
 Rising magical power readings meant stronger monsters. The Giant Mantis in the first video had held its own even after taking a hit from Fire Rain.
 
-*It was like watching Chikorita get a tan from Charizard’s flames.*[^3]
+*It was like watching Chikorita get a tan from Charizard’s flames.*
 
 Type advantages were supposed to mean something. But as magical power readings climbed, the monsters were growing strong enough to shrug those advantages off.
 
@@ -262,7 +262,7 @@ Things were moving at a ridiculous pace. Keep this up, and monsters might be par
 
 A pretty weathercaster would point to a map of the Korean Peninsula no bigger than a booger and explain it all:
 
-“Tomorrow, goblins are expected to fall in Cheorwon, Gangwon Province, instead of heavy snow. They’re expected to pile up to a height of twenty meters, so residents should grab their shields and antidotes and evacuate immediately.”[^4]
+“Tomorrow, goblins are expected to fall in Cheorwon, Gangwon Province, instead of heavy snow. They’re expected to pile up to a height of twenty meters, so residents should grab their shields and antidotes and evacuate immediately.”
 
 “…”
 
@@ -270,7 +270,7 @@ A pretty weathercaster would point to a map of the Korean Peninsula no bigger th
 
 Just imagining monsters pouring down from the sky made my heart shrivel.
 
-Of course, I wasn’t going to sit around twiddling my thumbs until then. I had to stop Korea from turning into Hell Peninsula, whatever it took.[^5]
+Of course, I wasn’t going to sit around twiddling my thumbs until then. I had to stop Korea from turning into Hell Peninsula, whatever it took.
 
 *I’d kept this possibility in mind, but… it’s definitely happening too fast.*
 
@@ -326,8 +326,5 @@ His voice was gentler than ever, with thorns hidden beneath it.
 
 “Everything crumbles from the inside.”
 
-[^1]: A pyeong is a Korean unit of area equal to about 3.31 m² (35.6 ft²).
-[^2]: Patrache is the dog in *A Dog of Flanders*.
-[^3]: Chikorita and Charizard are Pokémon. Chikorita is a Grass-type, which is vulnerable to Charizard’s fire.
-[^4]: Twenty meters is about 66 ft.
-[^5]: “Hell Peninsula,” or *Hellbando*, is Korean slang portraying life in Korea as harsh or oppressive.
+[^1]: A pyeong is a Korean unit of area, about 35.6 square feet; this office is over 3,500 square feet.
+[^2]: Patrache is the dog from the story commonly known in Korea as *A Dog of Flanders*.
