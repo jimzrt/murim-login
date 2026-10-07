@@ -26,13 +26,13 @@ The young man had once seemed like a sprout with no hope of growing. Now he had 
 
 Every branch connected to him was thick and flourishing.
 
-Fire King Jeok Cheongang. Huashan Divine Dragon Cheongpung. Cheongpung’s master, Sword Saint Mae Jonghak, and Huashan, one of the strongest powers among the Nine Sects and One Gang.[^1] Then there were the prestigious sects Taekyung had forged close ties with during his travels through the martial world.
+Fire King Jeok Cheongang. Huashan Divine Dragon Cheongpung. Cheongpung’s master, Sword Saint Mae Jonghak, and Huashan, one of the strongest powers among the Nine Sects and One Gang. Then there were the prestigious sects Taekyung had forged close ties with during his travels through the martial world.
 
 And among them was Shaolin Temple, the Mount Tai and Northern Dipper of the Murim.
 
 “I wondered what sort of guest would bring Shaolin’s Discipline Hall Master all the way here to greet him. Now I know.”
 
-“Amitabha.[^2] This humble monk is not a man with time to spare.”
+“Amitabha. This humble monk is not a man with time to spare.”
 
 Jung Ho fixed Sama Pyo with a stony look.
 
@@ -108,7 +108,7 @@ Sama Pyo watched them go without a word.
 
 The giant turned toward Sama Pyo and spoke in his halting voice.
 
-“Young Sect Leader. That monk. Who is he? I cannot beat him.”
+“Young Sect Leader,” the giant said in his halting voice. “That monk. Who is he? I cannot beat him.”
 
 “…”
 
@@ -145,8 +145,6 @@ On the way to the ferry landing, Jung Ho quickened his steps to draw alongside t
 “It wasn’t your fault, Martial Nephew Jung Ho.”
 
 “No. I should have settled the matter myself. I never imagined that young Benefactor would behave that way…”
-
-Jung Ho’s displeasure showed plainly on his face. Sama Pyo’s conduct still rankled.
 
 At a time like this, on a main road under countless eyes, the young man had not only beaten Blood Cudgel to death but had also tried to provoke one of Shaolin’s senior figures.
 
@@ -205,8 +203,6 @@ They all remembered. They all knew.
 “I will carry on his will—my Master’s will. That one thought carried me through my time in Repentance Cave.”
 
 The skin glimpsed beneath the conical hat was as rough as the monk’s voice, covered with countless scars.
-
-For the unnamed monk, the past three months had been like hell.
 
 Every day, he had repeated treatment and training while writhing in terrible pain. Those who heard the screams echoing from Repentance Cave could not keep themselves from shedding tears.
 
@@ -283,6 +279,3 @@ It was the Morning Star that had risen in the north. A trace of his master.
 *Have you come?*
 
 A smile formed on the stiff lips of the monk in the conical hat, Unnamed.
-
-[^1]: The Nine Sects and One Gang is a grouping of major orthodox martial-arts sects and the Beggars’ Gang.
-[^2]: Amitabha is the Buddha of Infinite Light. His name is also spoken as a Buddhist invocation.
