@@ -2,7 +2,7 @@
 
 Ruuuuumble!
 
-A pillar of fire shot into the sky. The mountain shook. For hundreds of meters[^1] in every direction, the air boiled with heat so intense that snow, dirt, and rock melted away.
+A pillar of fire shot into the sky. The mountain shook. For hundreds of meters in every direction, the air boiled with heat so intense that snow, dirt, and rock melted away.
 
 Lava flowed across a land of death. Above the ground where everything else had evaporated, two figures stood like towers.
 
@@ -206,15 +206,15 @@ The old butler looked down at what he had vomited, the light fading from his eye
 
 His ears felt blocked, as though his eardrums had burst. Through his blurred vision, a memory from long ago rose like a haze.
 
-“Your fire magic is impressive. Were you an arsonist before this?”
+*“Your fire magic is impressive. Were you an arsonist before this?”*
 
-“…What kind of crazy shit is that? If you’re not going to help, get lost.”
+*“…What kind of crazy shit is that? If you’re not going to help, get lost.”*
 
-“Fortunately, I won’t have to ‘go out,’ then. I’m going to help you and everyone here.”[^2]
+*“Fortunately, I won’t have to ‘go out,’ then. I’m going to help you and everyone here.”*[^1]
 
-“Hmm. That changes things. What’s your name?”
+*“Hmm. That changes things. What’s your name?”*
 
-“Cheon Taemin.”
+*“Cheon Taemin.”*
 
 He had not known that this man, who looked absurdly young for his age, would become the idol to whom Kim Hwajong would devote his entire life.
 
@@ -222,29 +222,29 @@ But that became reality soon enough.
 
 One year, two years, five years… By the end of the long, terrible Great War, Kim Hwajong had become Cheon Taemin’s shadow.
 
-“What am I supposed to do now?”
+*“What am I supposed to do now?”*
 
 The Great Cataclysm had changed Kim Hwajong’s life completely, just as it had changed so many others. He had waited so long for peace, yet when it finally came, he did not know what to do with himself.
 
 Cheon Taemin answered his question with one of his own.
 
-“What do you want to do?”
+*“What do you want to do?”*
 
-“I don’t know. But I’ll do anything you ask.”
+*“I don’t know. But I’ll do anything you ask.”*
 
-“Then join the Guild. I need you. I’ve brought Jungryong and Cheonwoo in too.”
+*“Then join the Guild. I need you. I’ve brought Jungryong and Cheonwoo in too.”*
 
-“That Peace Guild thing?”
+*“That Peace Guild thing?”*
 
-“Yes.”
+*“Yes.”*
 
-“The name’s pretty damn lame. How about Ares instead? The god of war from Greek mythology. Ares.”
+*“The name’s pretty damn lame. How about Ares instead? The god of war from Greek mythology. Ares.”*
 
-“Ares, huh? Not bad. I’ll take your suggestion, so join the Guild. I’ll make sure you never have to worry about retirement.”
+*“Ares, huh? Not bad. I’ll take your suggestion, so join the Guild. I’ll make sure you never have to worry about retirement.”*
 
-“…Office work really doesn’t suit me. All right, Guild Master.”
+*“…Office work really doesn’t suit me. All right, Guild Master.”*
 
-“I’ve told you to call me hyung[^3] about five thousand times over the last five years. You never change.”
+*“I’ve told you to call me hyung about five thousand times over the last five years. You never change.”*
 
 As Taemin had said, Kim Hwajong never did.
 
@@ -254,9 +254,9 @@ Peace had come, but Kim Hwajong’s fiery temper remained, and he still swore co
 
 He decided to change only after a child born amid everyone’s blessings lost both parents in an unexpected accident.
 
-“Hello.”
+*“Hello.”*
 
-“…Hello.”
+*“…Hello.”*
 
 Only a few people had gathered for the funeral. The boy, no more than four or five years old, looked lonely.
 
@@ -264,23 +264,23 @@ He clung to the leg of his maternal grandfather, now his only family, and greete
 
 Perhaps that was why, when Cheon Taemin came to him a few days later, he accepted without hesitation.
 
-“Could you take care of Minwoo? Of the boy?”
+*“Could you take care of Minwoo? Of the boy?”*
 
 The immortal hero who had become a symbol of humanity was always busy. Even after the Great Cataclysm ended, Cheon Taemin lived as though something were chasing him.
 
 In his place, Kim Hwajong became family to the child left alone.
 
-“Good day, Young Master.”
+*“Good day, Young Master.”*
 
 Neat hair and clothes. A gentle voice. A smile at the corners of his mouth.
 
 That was how the Hellfire Mage, who had set a page of the Great Cataclysm ablaze, became Butler Kim.
 
-“Young Master, you mustn’t run! You’ll hurt yourself—oh dear.”
+*“Young Master, you mustn’t run! You’ll hurt yourself—oh dear.”*
 
-“Young Master. Being a picky eater is bad for your health. Please eat.”
+*“Young Master. Being a picky eater is bad for your health. Please eat.”*
 
-“Young Master, please don’t cry.”
+*“Young Master, please don’t cry.”*
 
 Young Master. Young Master. Young Master…
 
@@ -294,21 +294,21 @@ His Young Master no longer ran about recklessly, ate every kind of food without 
 
 Then, one day, Kim Hwajong saw traces of someone he had not seen in a long time in the grown young man’s face.
 
-“You said you were going to create a Guild.”
+*“You said you were going to create a Guild.”*
 
-“Yes. I’m sorry to ask, Butler Kim, but I need you to serve as Guild Master.”
+*“Yes. I’m sorry to ask, Butler Kim, but I need you to serve as Guild Master.”*
 
-“If that is what you wish, Young Master, I will do anything. But what do you intend to name the Guild?”
+*“If that is what you wish, Young Master, I will do anything. But what do you intend to name the Guild?”*
 
-“The Peace Guild. I’m going to call it the Peace Guild.”
+*“The Peace Guild. I’m going to call it the Peace Guild.”*
 
-“…!”
+*“…!”*
 
-“Butler Kim, why do you look so… displeased?”
+*“Butler Kim, why do you look so… displeased?”*
 
 What could he say? So many thoughts came at once that the old butler hesitated. Then he burst out laughing.
 
-“Not at all. The Peace Guild. What a wonderful name.”
+*“Not at all. The Peace Guild. What a wonderful name.”*
 
 And so the past met the present.
 
@@ -326,11 +326,11 @@ Kim Hwajong laughed as he vomited blood mixed with pieces of his organs.
 
 There was only one reason he could laugh as he died: something his Young Master had said to him today.
 
-“Thank you. For becoming my only family.”
+*“Thank you. For becoming my only family.”*
 
 And what else had the Young Master said?
 
-“I’ve always wanted to tell you that.”
+*“I’ve always wanted to tell you that.”*
 
 Yes. That was it.
 
@@ -366,6 +366,4 @@ Sssshhhh—FLASH!
 
 A burst of light erupted in midair and turned the whole world white.
 
-[^1]: One meter is about 3.28 ft; hundreds of meters span hundreds to thousands of feet.
-[^2]: The Korean verb translated as “get lost” can also mean “go out,” as a flame does.
-[^3]: *Hyung* is a familiar Korean term a man uses for an older brother or an older man with whom he is close.
+[^1]: The Korean verb in “get lost” can also mean “go out,” as a flame does.
