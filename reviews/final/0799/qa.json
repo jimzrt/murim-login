@@ -1,0 +1,40 @@
+{
+  "chapter": 799,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.091,
+    "source_characters": 5619,
+    "source_paragraphs": 176,
+    "translation_characters": 11748,
+    "translation_paragraphs": 171
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "단군",
+        "romanization": "dangun"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "조선",
+        "romanization": "joseon"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "무타구치",
+        "romanization": "mutaguchi"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
