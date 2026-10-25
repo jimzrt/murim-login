@@ -19,6 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 
 from run_lock import FINAL_LOCK_ENV, hold_final_lock
+from run_next import changed_paths
 from run_next_final import commit_final, final_done, mastering_done, translation_blocked
 
 try:
@@ -77,7 +78,7 @@ def main() -> int:
     args = parser.parse_args()
     end = args.start if args.end is None else args.end
     workers = default_workers() if args.workers is None else max(1, args.workers)
-    chapters, notes = select_batch(args.start, end)
+    chapters, notes = select_batch(args.start, end, changed_paths())
     for note in notes:
         print(note, flush=True)
     if not chapters:

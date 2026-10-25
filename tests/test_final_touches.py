@@ -152,6 +152,18 @@ class FinalQaTest(unittest.TestCase):
         normalized = normalize_reading_copy(baseline, candidate)
         self.assertEqual(normalized.count("> **System**"), 1)
 
+    def test_system_reformat_is_not_prose_drift(self):
+        baseline = chapter(
+            "The hall was quiet. " * 8
+            + "\n\n> **System**\n>\n> You have acquired **Meat Shield**!\n"
+        )
+        candidate = chapter(
+            "The hall was quiet. " * 8
+            + "\n\n> **System**\n>\n> - You have acquired **Meat Shield**!\n"
+        )
+        qa = self.assess(candidate, baseline)
+        self.assertFalse(any(item["code"] == "prose_drift" for item in qa["errors"]), qa["errors"])
+
     def test_warning_heading_must_stay(self):
         baseline = chapter(
             "> **Warning**\n>\n> - The player cannot log out at will.\n\n"
@@ -306,6 +318,14 @@ class FinalBatchTest(unittest.TestCase):
                 chosen, notes = run_final_batch.select_batch(6, 8)
         self.assertEqual(chosen, [7])
         self.assertEqual(notes, ["chapter 8: still in translation or mastering"])
+
+    def test_promoted_chapter_with_uncommitted_files_stays_pending(self):
+        self.write_translation(9)
+        self.write_final(9, "PROMOTED")
+        with patch.object(run_final_batch, "mastering_done", return_value=True):
+            chosen, notes = run_final_batch.select_batch(9, 9, ["reviews/final/0009/final.md"])
+        self.assertEqual(chosen, [9])
+        self.assertEqual(notes, [])
 
 
 if __name__ == "__main__":
