@@ -454,8 +454,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 벌모세수 | **cleansing the sinews and washing the marrow** | Jeok Cheongang’s constitution-improving technique. |
 | 상단전 | **upper dantian** | Advanced dantian whose opening signifies entry into the Martial Extremity realm. |
 | 무극 | **Martial Extremity realm** | Realm associated with opening the upper dantian. |
-| 창천검왕 | **Azure Sky Sword King** | One of the Ten Kings and the Grand Family Head of the Nangong Family. |
-| 태상가주 | **Grand Family Head** | Title held by the Azure Sky Sword King as head of the Nangong Family. |
+| 창천검왕 | **Azure Sky Sword King** | One of the Ten Kings and the Grand Family Head of the Namgung Family. |
+| 태상가주 | **Grand Family Head** | Title held by the Azure Sky Sword King as head of the Namgung Family. |
 | 왕팔 | **Wangpal** | One of the youths who tried to take Jangcheon's dumpling. |
 | 홍소칠 | **Hong Sochil** | One of the youths who tried to take Jangcheon's dumpling. |
 | 소우평 | **So U-pyeong** | One of the youths who tried to take Jangcheon's dumpling. |
@@ -729,14 +729,14 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 검미새 | **sword nut** | Taekyung's joking term for someone obsessed with swords. |
 | 노환 | **infirmities of old age** | Jeok Cheongang's age-related illness. |
 | 헨젤과 그레텔 | **Hansel and Gretel** | Fairy-tale siblings used in Taekyung's chained-iron-ball joke. |
-| 남궁옥 | **Nangong Ok** | Namgung Ryong's only son, the Nangong Family's Lesser Family Head and the Sword Dragon. |
-| 검룡 | **Sword Dragon** | Epithet of Nangong Ok; one of the Ten Dragons and Phoenixes. |
+| 남궁옥 | **Namgung Ok** | Namgung Ryong's only son, the Namgung Family's Lesser Family Head and the Sword Dragon. |
+| 검룡 | **Sword Dragon** | Epithet of Namgung Ok; one of the Ten Dragons and Phoenixes. |
 | 제왕검형 | **Emperor's Sword Form** | Sword form invoked by the Azure Sky Sword King. |
 | 삼초살 | **Three-Move Kill** | Sudden Quest requiring Taekyung to withstand three moves. |
 | 남만 | **Nanman** | Historical regional term used for the source of the imported ebony. |
 | 오기조원 | **Five Qi Returning to Origin** | High martial realm displayed by Jeok Cheongang. |
 | 잠룡 | **Hidden Dragon** | Epithet or metaphor for Jin Taekyung. |
-| 검왕 | **Sword King** | Short form for the Azure Sky Sword King, Nangong Cheon. |
+| 검왕 | **Sword King** | Short form for the Azure Sky Sword King, Namgung Cheon. |
 | 대성 | **Great Completion** | Completion stage of a martial technique. |
 | 흑산채 | **Black Mountain Stronghold** | Bandit organization on a major route between Henan and Anhui. |
 | 흑종필 | **Heuk Jongpil** | Leader of Black Mountain Stronghold. |
@@ -1962,7 +1962,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 전경련 | **Federation of Korean Industries** | Business organization seeking Choi Minwoo's attendance at a social gathering. |
 | 정 기사님 | **Driver Jung** | Choi Minwoo's limousine driver. |
 | 서천 | **Western Heaven** | Short form used by the Lord of Heaven for the Western Heaven Demon Lord. |
-| 남천 | **South Heaven** | Dark Heaven power that the Lord of Heaven orders the servants to contact. |
+| 남천 | **Southern Heaven** | Dark Heaven power led by the Southern Heaven Demon Empress; the Lord of Heaven orders the servants to contact it. |
 | 북천 | **North Heaven** | Dark Heaven power that the Lord of Heaven orders the servants to contact. |
 | 운남성 | **Yunnan Province** | The formal name of the destination region commonly called Nanman in the Central Plains. |
 | 마방 | **horse caravans** | Descendants of northern mounted tribes who traveled ancient trade routes between the Outer Lands and the Central Plains. |
@@ -2206,7 +2206,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 알프스산맥 | **the Alps** | Mountain range containing the hidden cave. |
 | 위저드 | **Wizard** | Guild led by Magic Johnson. |
 | 자경단 사건 | **the vigilante incident** | Operation against Middle Eastern terrorists and African rebel groups. |
-| 지크프리트 바스만 | **Siegfried Wassmann** | Reclusive Swiss Grand Mage known as the Hero. |
+| 지크프리트 바스만 | **Siegfried Bassmann** | Reclusive Swiss Grand Mage known as the Hero. |
 | 마력 | **magical power** | Distinct from mana; the Skeleton King's area of expertise. |
 | 베르세 | **Berse** | Swiss Minister of the Interior expected to become the next president. |
 | 도쿄 | **Tokyo** | City visible behind Huginn's departing ship. |

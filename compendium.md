@@ -36,7 +36,7 @@ Use the established character spellings even where a different romanization migh
 | 송일     | **Song Il**        |
 | 굉도     | **Hong Dao**       |
 | 팽철후    | **Peng Cheolhu**   |
-| 남궁천    | **Nangong Cheon**  |
+| 남궁천    | **Namgung Cheon**  |
 | 파륜     | **Pa Ryun**        |
 | 당태상    | **Tang Taesang**   |
 | 주화란    | **Ju Hwaran**      |
@@ -140,7 +140,7 @@ These should be treated as fixed proper nouns.
 | 하북팽가   | **Hebei Peng Family**            |
 | 사천당가   | **Sichuan Tang Clan**            |
 | 제갈세가   | **Zhuge Clan**                   |
-| 남궁세가   | **Nangong Family**               |
+| 남궁세가   | **Namgung Family**               |
 | 진주언가   | **Jinzhou Yan Family**           |
 | 남만야수궁  | **Nanman Beast Palace**          |
 | 장강수로맹  | **Yangtze River Channel League** |
