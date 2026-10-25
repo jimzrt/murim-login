@@ -27,18 +27,6 @@ Ding.
 >
 > - **Level Up!**
 
-> **System**
->
-> - You have successfully completed **circulating your qi**!
->
-> - The realm of the **Scorching Sun Divine Arts** has risen to the sixth stage!
->
-> - All **Fire Gate Clan** martial arts have become more refined and powerful!
->
-> - All fatigue has been cleared, and all stamina has been restored!
->
-> - **Level Up!**
-
 *Finally, the sixth stage?*
 
 I neither saw nor heard any of the other System notifications. The only thing that mattered to me was that the realm of the Scorching Sun Divine Arts had reached the sixth stage.
