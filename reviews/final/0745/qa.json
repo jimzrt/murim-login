@@ -1,0 +1,32 @@
+{
+  "chapter": 745,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 1.929,
+    "source_characters": 5796,
+    "source_paragraphs": 160,
+    "translation_characters": 11181,
+    "translation_paragraphs": 152
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "교이쿠",
+        "romanization": "gyoiku"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "고오오오오옹",
+        "romanization": "goooooong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
