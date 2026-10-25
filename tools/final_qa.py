@@ -55,6 +55,15 @@ def _blockquote_has_label(line: str, label: str) -> bool:
         return True
     if label in plain:
         return True
+    label_words = re.findall(r"[A-Za-z0-9]+", label)
+    if len(label_words) >= 6:
+        line_words = [word.lower() for word in re.findall(r"[A-Za-z0-9]+", plain)]
+        index = 0
+        for word in line_words:
+            if index < len(label_words) and word == label_words[index].lower():
+                index += 1
+        if index == len(label_words):
+            return True
     return re.search(r"\*\*" + re.escape(label) + r"(?:\*\*|:)", stripped) is not None
 
 
@@ -289,7 +298,9 @@ def baseline_preserved(baseline: str, candidate: str) -> float:
     cand = prose_body(candidate)
     if not base:
         return 1.0
-    matcher = difflib.SequenceMatcher(None, base, cand)
+    # Long chapters repeat spaces and common letters. Treating those as junk
+    # splits one matching chapter into a handful of blocks and reports drift.
+    matcher = difflib.SequenceMatcher(None, base, cand, autojunk=False)
     matched = sum(block.size for block in matcher.get_matching_blocks())
     return matched / len(base)
 
