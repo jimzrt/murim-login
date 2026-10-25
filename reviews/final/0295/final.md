@@ -164,14 +164,6 @@ Beep!
 >
 > The sleeping dead answer their commander’s call!
 
-> **System**
->
-> **Level 105 Skeleton Warlord** has used a Special Skill!
->
-> Special Skill **Summon the Dead** has activated!
->
-> The sleeping dead answer their commander’s call!
-
 It was a howl that sent a chill down my spine—and a cry that awakened the cursed dead.
 
 Crack. Crack-crack-crack!
@@ -223,16 +215,6 @@ Kim Jinsoo groaned.
 “Oh, come on.”
 
 Beep!
-
-> **System**
->
-> **Level 105 Skeleton Warlord** has used a Special Skill!
->
-> Special Skill **Commander’s Rally** has activated!
->
-> The Strength, Agility, and Magic of the monsters under the Skeleton Warlord’s command have been enhanced!
->
-> The enemies’ momentum rises sharply!
 
 The Skeleton Warlord howled!
 
