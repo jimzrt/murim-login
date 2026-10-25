@@ -1,0 +1,24 @@
+{
+  "chapter": 781,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.995,
+    "length_ratio": 1.924,
+    "source_characters": 5479,
+    "source_paragraphs": 166,
+    "translation_characters": 10540,
+    "translation_paragraphs": 163
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "키이잉",
+        "romanization": "kiiing"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
