@@ -1,0 +1,24 @@
+{
+  "chapter": 654,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 1.982,
+    "source_characters": 5460,
+    "source_paragraphs": 142,
+    "translation_characters": 10822,
+    "translation_paragraphs": 134
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "name_absent",
+      "details": {
+        "korean": "복면인",
+        "preferred": "Masked Man"
+      },
+      "message": "a profiled character named in the source is absent from the English"
+    }
+  ]
+}
