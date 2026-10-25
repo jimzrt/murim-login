@@ -1,0 +1,32 @@
+{
+  "chapter": 1031,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.014,
+    "source_characters": 5253,
+    "source_paragraphs": 160,
+    "translation_characters": 10578,
+    "translation_paragraphs": 159
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "콰앙",
+        "romanization": "kwaang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "name_absent",
+      "details": {
+        "korean": "벽력도왕",
+        "preferred": "Peng Cheolhu"
+      },
+      "message": "a profiled character named in the source is absent from the English"
+    }
+  ]
+}
