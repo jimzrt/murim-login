@@ -1,0 +1,33 @@
+{
+  "chapter": 747,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 2.054,
+    "source_characters": 5460,
+    "source_paragraphs": 138,
+    "translation_characters": 11214,
+    "translation_paragraphs": 136
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "10"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "교이쿠",
+        "romanization": "gyoiku"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
