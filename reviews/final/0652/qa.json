@@ -1,0 +1,32 @@
+{
+  "chapter": 652,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.994,
+    "length_ratio": 1.917,
+    "source_characters": 5601,
+    "source_paragraphs": 165,
+    "translation_characters": 10735,
+    "translation_paragraphs": 158
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "파파팟",
+        "romanization": "papapat"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "차차차창",
+        "romanization": "chachachachang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
