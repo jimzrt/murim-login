@@ -1,0 +1,24 @@
+{
+  "chapter": 957,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.993,
+    "length_ratio": 2.026,
+    "source_characters": 5621,
+    "source_paragraphs": 171,
+    "translation_characters": 11388,
+    "translation_paragraphs": 164
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "홀로구",
+        "romanization": "holrogu"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
