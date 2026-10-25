@@ -8,11 +8,9 @@ import ViewCounters from "../../components/ViewCounters.astro";
 import Previously from "../../components/Previously.astro";
 import { allChapters, neighbors, readingMinutes, toRef, type ChapterEntry } from "../../lib/chapters";
 import { loadPreviousSummary } from "../../lib/previousSummary";
-import { loadTranslationProgress } from "../../lib/progress";
 
 export async function getStaticPaths() {
   const entries = await allChapters();
-  const polished = new Set(loadTranslationProgress().polished);
   return entries.map((entry) => {
     const { previous, next } = neighbors(entries, entry.data.chapter);
     return {
@@ -21,7 +19,6 @@ export async function getStaticPaths() {
         entry,
         previous: toRef(previous),
         next: toRef(next),
-        polished: polished.has(entry.data.chapter),
       },
     };
   });
@@ -31,10 +28,9 @@ interface Props {
   entry: ChapterEntry;
   previous: ReturnType<typeof toRef>;
   next: ReturnType<typeof toRef>;
-  polished: boolean;
 }
 
-const { entry, previous, next, polished } = Astro.props;
+const { entry, previous, next } = Astro.props;
 const { Content } = await render(entry);
 const minutes = readingMinutes(entry.data.wordCount);
 const description = `${entry.data.title} — about ${minutes} min read. A translation of Murim Login.`;
@@ -42,7 +38,7 @@ const previously = await loadPreviousSummary(entry.data.chapter);
 ---
 
 <Base title={`${entry.data.title} — Murim Login`} chapter={entry.data.chapter} description={description}>
-  <main class="wrap chapter-page" data-page="chapter" data-chapter={entry.data.chapter} data-polished={polished ? "1" : "0"}>
+  <main class="wrap chapter-page" data-page="chapter" data-chapter={entry.data.chapter}>
     <header class="chapter-header" data-pagefind-body>
       <p class="eyebrow">Murim Login</p>
       <h1 data-pagefind-meta="title">{entry.data.title}</h1>
@@ -59,12 +55,6 @@ const previously = await loadPreviousSummary(entry.data.chapter);
           <span class="view-counter" data-chapter={entry.data.chapter}>—</span>
           <span class="sr-only"> unique readers</span>
         </span>
-        {polished && (
-          <>
-            {" · "}
-            <span class="chapter-badge chapter-badge--polished">Polished</span>
-          </>
-        )}
       </p>
     </header>
     {previously && <Previously summary={previously} />}

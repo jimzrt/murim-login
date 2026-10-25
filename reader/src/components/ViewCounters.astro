@@ -82,8 +82,14 @@ const apiUrl = import.meta.env.PUBLIC_VIEW_COUNT_URL ?? "https://murim-login.com
     }
   }
 
-  document.addEventListener("astro:page-load", () => {
-    void mountViewCounters();
-  });
-  void mountViewCounters();
+  // astro:page-load also fires on the initial window load; fetch once per page.
+  let countedBody: HTMLElement | null = null;
+  function mountOnce() {
+    if (document.body !== countedBody) {
+      countedBody = document.body;
+      void mountViewCounters();
+    }
+  }
+  document.addEventListener("astro:page-load", mountOnce);
+  mountOnce();
 </script>

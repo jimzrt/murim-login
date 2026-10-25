@@ -12,7 +12,6 @@ import {
   toIndex,
   withBase,
 } from "../lib/chapters";
-import { loadTranslationProgress } from "../lib/progress";
 import { SOURCE_CHAPTER_TOTAL } from "../generated/source-count";
 
 const entries = await allChapters();
@@ -23,7 +22,6 @@ const firstHref = first ? chapterHref(first.data.chapter) : withBase("");
 const wordMap = Object.fromEntries(
   entries.map((entry) => [String(entry.data.chapter), entry.data.wordCount]),
 );
-const polished = new Set(loadTranslationProgress().polished);
 ---
 
 <Base
@@ -106,11 +104,9 @@ const polished = new Set(loadTranslationProgress().polished);
           output.
         </p>
         <p>
-          This is still a <strong>work in progress</strong>. The plan is to
-          translate all
-          <strong>{SOURCE_CHAPTER_TOTAL.toLocaleString("en-US")} chapters</strong> that currently exist. The pipeline uses
-          a substantial token budget and currently takes on the order of
-          <strong>30 minutes</strong> per chapter.
+          All <strong>{SOURCE_CHAPTER_TOTAL.toLocaleString("en-US")} chapters</strong> that
+          currently exist are translated and mastered. Corrections are still welcome: the
+          text keeps improving through line reports and pull requests.
         </p>
 
         <h3 class="site-intro__subhead">How the pipeline works</h3>
@@ -119,7 +115,7 @@ const polished = new Set(loadTranslationProgress().polished);
           uses a carefully chosen, <strong>isolated LLM</strong> with a narrow job and only
           the context that stage is allowed to see. Model output is never accepted raw: a
           Python controller owns the order of stages, runs deterministic checks between
-          them, and stops on failure. The models translate, review, polish, and judge —
+          them, and stops on failure. The models translate, review, edit, and judge —
           they do not decide what runs next.
         </p>
         <ol class="site-intro__steps">
@@ -154,9 +150,16 @@ const polished = new Set(loadTranslationProgress().polished);
             chapters stay coherent.
           </li>
           <li>
-            <strong>Polish.</strong> A later polish model edits the full chapter in its
-            own pass. An independent adjudicator model then judges the diff against the
-            Korean source before the published copy is promoted.
+            <strong>Mastering.</strong> Once a chapter is accepted, a mastering
+            editor makes one full-copy fluency edit. An independent adjudicator model then
+            weighs that edit against the Korean source and vetoes changes in meaning, and a
+            separate fidelity gate run by a different model must pass before the mastered
+            copy replaces the published one.
+          </li>
+          <li>
+            <strong>Final touches.</strong> A last pass checks footnotes, formatting,
+            duplicated passages, and omissions. The chapter is only committed after
+            deterministic QA passes again.
           </li>
         </ol>
         <p>
@@ -227,11 +230,7 @@ const polished = new Set(loadTranslationProgress().polished);
         />
       </label>
       {
-        groups.map((group) => {
-          const polishedInGroup = group.items.filter((row) =>
-            polished.has(row.chapter),
-          ).length;
-          return (
+        groups.map((group) => (
           <details
             class="chapter-range"
             data-start={group.start}
@@ -239,28 +238,14 @@ const polished = new Set(loadTranslationProgress().polished);
           >
             <summary>
               <span>{group.label}</span>
-              <span class="range-count">
-                {group.items.length}
-                {polishedInGroup > 0
-                  ? ` · ${polishedInGroup} polished`
-                  : ""}
-              </span>
+              <span class="range-count">{group.items.length}</span>
             </summary>
             <ol class="chapter-ol">
-              {group.items.map((item) => {
-                const isPolished = polished.has(item.chapter);
-                return (
+              {group.items.map((item) => (
                   <li>
-                    <a
-                      href={item.href}
-                      data-chapter={item.chapter}
-                      data-polished={isPolished ? "1" : undefined}
-                    >
+                    <a href={item.href} data-chapter={item.chapter}>
                       <span class="chapter-ol__title">{item.title}</span>
                       <span class="chapter-ol__meta">
-                        {isPolished && (
-                          <span class="chapter-badge chapter-badge--polished" title="Polished">Polished</span>
-                        )}
                         <span class="chapter-views" title="Unique readers">
                           <svg class="chapter-views__icon" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
                             <path
@@ -287,12 +272,10 @@ const polished = new Set(loadTranslationProgress().polished);
                       </span>
                     </a>
                   </li>
-                );
-              })}
+              ))}
             </ol>
           </details>
-          );
-        })
+        ))
       }
     </section>
   </main>

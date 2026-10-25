@@ -10,8 +10,18 @@ interface ReaderState {
   width: Width;
   current: number | null;
   opened: number[];
+  /** Per-chapter read fraction (0..1) of the article text, comments excluded. */
   scroll: Record<string, number>;
+  /** Per-chapter scroll anchor; see Anchor. */
+  anchor: Record<string, Anchor>;
 }
+
+/**
+ * `[index, offset]`. For 0 <= index < blocks, offset is the fraction of that
+ * `article.prose` child above the viewport top. index -1 means above the article
+ * (offset = scrollY px); index >= blocks means below it (px past the article end).
+ */
+type Anchor = [number, number];
 
 interface CatalogItem {
   n: number;
@@ -28,6 +38,9 @@ const WIDTHS: Width[] = ["narrow", "medium", "wide"];
 const JUMP_ROW = 40;
 const JUMP_OVERSCAN = 6;
 const READ_THRESHOLD = 0.95;
+/** Keep re-applying a restored position while late layout settles. */
+const RESTORE_MIN_MS = 1500;
+const RESTORE_MAX_MS = 5000;
 
 const root = document.documentElement;
 const base = root.getAttribute("data-base") || "/";
@@ -41,6 +54,8 @@ let jumpScrollHandler: (() => void) | null = null;
 let chromeReady = false;
 let pageAbort: AbortController | null = null;
 let wordWeights: Map<number, number> | null = null;
+let bootedBody: HTMLElement | null = null;
+const patchedPagefindModal = new WeakSet<object>();
 
 document.addEventListener("astro:page-load", boot);
 document.addEventListener("astro:after-swap", repairPagefindModal);
@@ -48,6 +63,11 @@ boot();
 hardenPagefindModal();
 
 function boot() {
+  // astro:page-load also fires on the initial window load; boot once per swapped body.
+  if (document.body === bootedBody) {
+    return;
+  }
+  bootedBody = document.body;
   state = loadState();
   applyPrefs(state);
   if (!chromeReady) {
@@ -74,10 +94,7 @@ function boot() {
   syncProgressChrome();
   initIndex(signal);
   initChapter(signal);
-  initReportSelection(signal);
 }
-
-const patchedPagefindModal = new WeakSet<object>();
 
 function hardenPagefindModal() {
   const defined = customElements.get("pagefind-modal");
@@ -136,6 +153,7 @@ function defaultState(): ReaderState {
     current: null,
     opened: [],
     scroll: {},
+    anchor: {},
   };
 }
 
@@ -178,7 +196,21 @@ function normalize(raw: Partial<ReaderState>, fallback: ReaderState): ReaderStat
       }
     }
   }
-  return { theme, fontSize, width, current, opened, scroll };
+  const anchor: Record<string, Anchor> = {};
+  if (raw.anchor && typeof raw.anchor === "object") {
+    for (const [key, value] of Object.entries(raw.anchor)) {
+      if (
+        Array.isArray(value) &&
+        value.length === 2 &&
+        Number.isInteger(value[0]) &&
+        typeof value[1] === "number" &&
+        Number.isFinite(value[1])
+      ) {
+        anchor[key] = [value[0], value[1]];
+      }
+    }
+  }
+  return { theme, fontSize, width, current, opened, scroll, anchor };
 }
 
 function saveState() {
@@ -620,7 +652,6 @@ function initIndex(signal: AbortSignal) {
 
   paintIndexList("");
   filter?.addEventListener("input", () => paintIndexList(filter.value), { signal });
-  void loadCatalog();
 }
 
 function overallFraction(total: number) {
@@ -687,6 +718,7 @@ function initChapter(signal: AbortSignal) {
   if (!Number.isInteger(chapter)) {
     return;
   }
+  const key = String(chapter);
 
   state.current = chapter;
   if (!state.opened.includes(chapter)) {
@@ -694,6 +726,7 @@ function initChapter(signal: AbortSignal) {
   }
   saveState();
 
+  const article = page.querySelector<HTMLElement>("article.prose");
   const bar = document.getElementById("read-progress-bar");
   const progress = document.getElementById("read-progress");
   const label = document.getElementById("read-progress-label");
@@ -702,11 +735,55 @@ function initChapter(signal: AbortSignal) {
   const topBtn = document.getElementById("dock-top");
   const bottomBtn = document.getElementById("dock-bottom");
 
+  const blocks = () => (article ? (Array.from(article.children) as HTMLElement[]) : []);
+  /** Document y of the article's end; the comments below it don't count as reading. */
+  const articleEnd = () =>
+    article ? article.getBoundingClientRect().bottom + window.scrollY : document.documentElement.scrollHeight;
   const maxScroll = () => Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
   const fraction = () => {
-    const max = maxScroll();
-    return max === 0 ? 1 : clamp(window.scrollY / max, 0, 1);
+    const end = articleEnd() - window.innerHeight;
+    return end <= 0 ? 1 : clamp(window.scrollY / end, 0, 1);
   };
+
+  const captureAnchor = (): Anchor | null => {
+    const list = blocks();
+    if (!list.length) {
+      return null;
+    }
+    if (list[0].getBoundingClientRect().top > 0) {
+      return [-1, Math.round(window.scrollY)];
+    }
+    // First block whose bottom is below the viewport top; blocks are in document order.
+    let lo = 0;
+    let hi = list.length;
+    while (lo < hi) {
+      const mid = (lo + hi) >> 1;
+      if (list[mid].getBoundingClientRect().bottom > 0) {
+        hi = mid;
+      } else {
+        lo = mid + 1;
+      }
+    }
+    if (lo >= list.length) {
+      return [list.length, Math.round(window.scrollY - articleEnd())];
+    }
+    const rect = list[lo].getBoundingClientRect();
+    const offset = rect.height > 0 ? clamp(-rect.top / rect.height, 0, 1) : 0;
+    return [lo, Math.round(offset * 10000) / 10000];
+  };
+
+  const anchorTarget = ([index, offset]: Anchor) => {
+    const list = blocks();
+    if (index < 0 || !list.length) {
+      return offset;
+    }
+    if (index >= list.length) {
+      return articleEnd() + offset;
+    }
+    const rect = list[index].getBoundingClientRect();
+    return rect.top + window.scrollY + offset * rect.height;
+  };
+
   const paint = () => {
     const value = fraction();
     const percent = Math.round(value * 100);
@@ -723,8 +800,23 @@ function initChapter(signal: AbortSignal) {
       progress.setAttribute("aria-valuetext", `${percent}% of chapter`);
     }
   };
+
+  let restoring = false;
   const persist = () => {
-    state.scroll[String(chapter)] = fraction();
+    // Mid-restore positions are provisional; a scroll-locked body reports scrollY 0.
+    if (restoring || root.dataset.scrollLocked === "1") {
+      return;
+    }
+    // Merge into the latest stored state so other open tabs' progress survives.
+    const latest = loadState();
+    latest.scroll[key] = fraction();
+    const anchor = captureAnchor();
+    if (anchor) {
+      latest.anchor[key] = anchor;
+    }
+    state.scroll = latest.scroll;
+    state.anchor = latest.anchor;
+    state.opened = [...new Set([...latest.opened, ...state.opened])];
     saveState();
   };
   let persistTimer = 0;
@@ -738,11 +830,76 @@ function initChapter(signal: AbortSignal) {
     }, 180);
   };
 
+  /**
+   * Scroll to `target()` and keep re-applying it while the page settles (fonts,
+   * images, counters, Astro/browser scroll restoration) until the reader takes over.
+   */
+  const restore = (target: () => number) => {
+    restoring = true;
+    const started = performance.now();
+    let frame = 0;
+    const apply = () => {
+      if (!restoring) {
+        return;
+      }
+      const y = Math.min(Math.max(0, target()), maxScroll());
+      if (Math.abs(window.scrollY - y) >= 1) {
+        window.scrollTo({ top: y, behavior: "instant" });
+      }
+      paint();
+    };
+    const applySoon = () => {
+      if (!frame) {
+        frame = requestAnimationFrame(() => {
+          frame = 0;
+          apply();
+        });
+      }
+    };
+    const observer = new ResizeObserver(applySoon);
+    const stop = () => {
+      if (!restoring) {
+        return;
+      }
+      restoring = false;
+      observer.disconnect();
+      window.clearInterval(timer);
+      cancelAnimationFrame(frame);
+      for (const type of ["wheel", "touchstart", "keydown", "mousedown"]) {
+        window.removeEventListener(type, stop, true);
+      }
+      window.removeEventListener("scroll", applySoon);
+      if (!signal.aborted) {
+        persist();
+      }
+    };
+    const timer = window.setInterval(() => {
+      const elapsed = performance.now() - started;
+      if ((elapsed >= RESTORE_MIN_MS && document.readyState === "complete") || elapsed >= RESTORE_MAX_MS) {
+        stop();
+      }
+    }, 250);
+    for (const type of ["wheel", "touchstart", "keydown", "mousedown"]) {
+      window.addEventListener(type, stop, { capture: true, passive: true });
+    }
+    // Anything else that moves the page (router/browser restoration) gets undone.
+    window.addEventListener("scroll", applySoon, { passive: true });
+    observer.observe(document.body);
+    void document.fonts?.ready.then(applySoon);
+    window.addEventListener("load", applySoon, { once: true, signal });
+    signal.addEventListener("abort", stop);
+    apply();
+  };
+
   if (!location.hash) {
     history.scrollRestoration = "manual";
-    const saved = state.scroll[String(chapter)];
-    if (saved && saved > 0) {
-      window.scrollTo(0, saved * maxScroll());
+    const anchor = state.anchor[key];
+    const saved = state.scroll[key] ?? 0;
+    if (anchor) {
+      restore(() => anchorTarget(anchor));
+    } else if (saved > 0) {
+      // Pre-anchor data: a plain fraction. Map it onto the article only.
+      restore(() => saved * Math.max(0, articleEnd() - window.innerHeight));
     }
   }
   persist();
@@ -776,14 +933,20 @@ function initChapter(signal: AbortSignal) {
   window.addEventListener(
     "scroll",
     () => {
+      hideReportChip();
       if (ticking) {
         return;
       }
       ticking = true;
       requestAnimationFrame(() => {
+        ticking = false;
         const y = window.scrollY;
         paint();
         persistSoon();
+        if (restoring) {
+          lastY = y;
+          return;
+        }
         const dy = y - lastY;
         if (y <= HIDE_AFTER_Y) {
           chromeHidden = false;
@@ -800,7 +963,6 @@ function initChapter(signal: AbortSignal) {
         header?.classList.toggle("is-hidden", chromeHidden);
         dock?.classList.toggle("is-hidden", chromeHidden);
         lastY = y;
-        ticking = false;
       });
     },
     { passive: true, signal },
@@ -808,19 +970,33 @@ function initChapter(signal: AbortSignal) {
   window.addEventListener(
     "resize",
     () => {
+      hideReportChip();
       paint();
       persistSoon();
     },
     { signal },
   );
   window.addEventListener("pagehide", persist, { signal });
+  document.addEventListener(
+    "visibilitychange",
+    () => {
+      if (document.visibilityState === "hidden") {
+        persist();
+      }
+    },
+    { signal },
+  );
+  // Soft navigation: save while the old DOM and scroll position are still in place.
+  // By the time boot() aborts this signal, the next page has been swapped in.
+  document.addEventListener("astro:before-preparation", persist, { signal });
   signal.addEventListener("abort", () => {
     if (persistTimer) {
       window.clearTimeout(persistTimer);
       persistTimer = 0;
     }
-    persist();
   });
+
+  initReportSelection(signal);
 }
 
 function initKeys() {
@@ -887,7 +1063,7 @@ function paintReportChip() {
   const dialog = document.getElementById("report-line-dialog") as HTMLDialogElement | null;
   const chip = document.getElementById("report-line-chip") as HTMLButtonElement | null;
   const page = document.querySelector<HTMLElement>("[data-page='chapter']");
-  if (dialog?.open || page?.dataset.polished !== "1") {
+  if (dialog?.open || !page) {
     hideReportChip();
     return;
   }
@@ -949,7 +1125,7 @@ function initReportLine() {
     const selected = chapterProseSelection();
     const page = document.querySelector<HTMLElement>("[data-page='chapter']");
     const chapter = Number(page?.dataset.chapter);
-    if (!selected || !Number.isInteger(chapter) || page?.dataset.polished !== "1") {
+    if (!selected || !Number.isInteger(chapter)) {
       return;
     }
     reportQuote = selected.text;
@@ -999,10 +1175,8 @@ function initReportLine() {
   });
 }
 
+/** Chapter pages only; scroll/resize hiding lives in initChapter's handlers. */
 function initReportSelection(signal: AbortSignal) {
-  const onChange = () => paintReportChip();
-  document.addEventListener("selectionchange", onChange, { signal });
-  window.addEventListener("scroll", hideReportChip, { signal, passive: true });
-  window.addEventListener("resize", hideReportChip, { signal });
+  document.addEventListener("selectionchange", paintReportChip, { signal });
   signal.addEventListener("abort", hideReportChip);
 }

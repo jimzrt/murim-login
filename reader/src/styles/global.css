@@ -1377,18 +1377,6 @@ html[data-theme="light"] .system-comments {
   opacity: 0.85;
 }
 
-.chapter-badge {
-  flex: 0 0 auto;
-  padding: 0;
-  border: 0;
-  font-size: 0.68rem;
-  font-weight: 500;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: color-mix(in srgb, var(--muted) 78%, var(--accent));
-  opacity: 0.85;
-}
-
 @media (max-width: 40rem) {
   .system-comments {
     --frame: 2.05rem;
@@ -1692,30 +1680,14 @@ html[data-theme="dark"] .report-line-done-copy a {
   color: var(--gold-bright);
 }
 
-.translation-progress__bars {
+.translation-progress {
+  padding: 0.95rem 0 1.1rem;
+}
+
+.translation-progress__status {
   display: grid;
-  gap: 0.65rem;
-  margin-bottom: 1rem;
-}
-
-.translation-progress__row {
-  display: grid;
-  grid-template-columns: 5.5rem 1fr auto;
-  gap: 0.65rem;
-  align-items: center;
-}
-
-.translation-progress__label,
-.translation-progress__count {
-  font-size: 0.78rem;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
-
-.translation-progress__count {
-  font-variant-numeric: tabular-nums;
-  text-align: right;
+  gap: 0.2rem;
+  margin: 0 0 0.7rem;
 }
 
 .translation-progress__track {
@@ -1727,39 +1699,13 @@ html[data-theme="dark"] .report-line-done-copy a {
 .translation-progress__fill {
   display: block;
   height: 100%;
-}
-
-.translation-progress__fill--translated {
   background: var(--navy);
 }
 
-.translation-progress__fill--polished {
-  background: var(--accent);
-}
-
-.translation-progress__ranges {
-  margin: 0;
-  display: grid;
-  gap: 0.7rem;
-}
-
-.translation-progress__ranges > div {
-  display: grid;
-  gap: 0.2rem;
-}
-
-.translation-progress__ranges dt {
-  font-size: 0.78rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+.translation-progress__missing {
+  margin: 0.7rem 0 0;
+  font-size: 0.88rem;
   color: var(--muted);
-}
-
-.translation-progress__ranges dd {
-  margin: 0;
-  font-size: 0.92rem;
-  line-height: 1.45;
-  color: var(--ink);
   overflow-wrap: anywhere;
 }
 
