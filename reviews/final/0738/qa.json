@@ -1,0 +1,24 @@
+{
+  "chapter": 738,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 1.981,
+    "source_characters": 5067,
+    "source_paragraphs": 139,
+    "translation_characters": 10040,
+    "translation_paragraphs": 140
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "name_absent",
+      "details": {
+        "korean": "진태경",
+        "preferred": "Jin Taekyung"
+      },
+      "message": "a profiled character named in the source is absent from the English"
+    }
+  ]
+}
