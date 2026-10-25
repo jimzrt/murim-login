@@ -1,0 +1,24 @@
+{
+  "chapter": 1048,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.083,
+    "source_characters": 5883,
+    "source_paragraphs": 170,
+    "translation_characters": 12257,
+    "translation_paragraphs": 169
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "파파팟",
+        "romanization": "papapat"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
