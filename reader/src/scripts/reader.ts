@@ -10,7 +10,11 @@ interface ReaderState {
   width: Width;
   current: number | null;
   opened: number[];
-  /** Per-chapter read fraction (0..1) of the article text, comments excluded. */
+  /**
+   * Per-chapter furthest read point (0..1) of the article text, comments excluded.
+   * Only ever increases; drives the read mark and overall progress. Older stored
+   * values (last position) are adopted as the starting maximum. Resuming uses `anchor`.
+   */
   scroll: Record<string, number>;
   /** Per-chapter scroll anchor; see Anchor. */
   anchor: Record<string, Anchor>;
@@ -18,8 +22,9 @@ interface ReaderState {
 
 /**
  * `[index, offset]`. For 0 <= index < blocks, offset is the fraction of that
- * `article.prose` child above the viewport top. index -1 means above the article
- * (offset = scrollY px); index >= blocks means below it (px past the article end).
+ * `article.prose` child above the viewport top (negative if it starts below it).
+ * index -1 means above the article (offset = scrollY px); index >= blocks means
+ * below it (px past the article end).
  */
 type Anchor = [number, number];
 
@@ -768,7 +773,8 @@ function initChapter(signal: AbortSignal) {
       return [list.length, Math.round(window.scrollY - articleEnd())];
     }
     const rect = list[lo].getBoundingClientRect();
-    const offset = rect.height > 0 ? clamp(-rect.top / rect.height, 0, 1) : 0;
+    // Negative when the block starts just below the viewport top (margin gap).
+    const offset = rect.height > 0 ? clamp(-rect.top / rect.height, -1, 1) : 0;
     return [lo, Math.round(offset * 10000) / 10000];
   };
 
@@ -809,7 +815,7 @@ function initChapter(signal: AbortSignal) {
     }
     // Merge into the latest stored state so other open tabs' progress survives.
     const latest = loadState();
-    latest.scroll[key] = fraction();
+    latest.scroll[key] = Math.max(latest.scroll[key] ?? 0, fraction());
     const anchor = captureAnchor();
     if (anchor) {
       latest.anchor[key] = anchor;
@@ -898,7 +904,7 @@ function initChapter(signal: AbortSignal) {
     if (anchor) {
       restore(() => anchorTarget(anchor));
     } else if (saved > 0) {
-      // Pre-anchor data: a plain fraction. Map it onto the article only.
+      // Pre-anchor data: the stored fraction was the last position. Map it onto the article.
       restore(() => saved * Math.max(0, articleEnd() - window.innerHeight));
     }
   }
