@@ -1,0 +1,24 @@
+{
+  "chapter": 793,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 1.943,
+    "source_characters": 5630,
+    "source_paragraphs": 170,
+    "translation_characters": 10940,
+    "translation_paragraphs": 148
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "이몬제몬",
+        "romanization": "imonjemon"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
