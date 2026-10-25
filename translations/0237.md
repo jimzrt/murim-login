@@ -77,12 +77,6 @@ Dodging Jeok Cheongang as he flew into a rage, I placed my hand against the ston
 >
 > - You may freely enter and exit **Fire Gate Cavern**!
 
-> **System**
->
-> - **Scorching Sun Divine Arts** internal energy detected.
->
-> - You may freely enter and exit **Fire Gate Cavern**!
-
 *Take care.*
 
 *Thanks for everything over the past year.*

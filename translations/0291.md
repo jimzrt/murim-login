@@ -166,36 +166,6 @@ That was a title that made me not want to do it for some reason.
 >
 > **Failure:** In the worst-case scenario, suffer **qi deviation**
 
-> **System**
->
-> **Quest**
->
-> **Back, Back—Let’s See Your Back!**
->
-> Unlike the Murim, your modern life had been peaceful.
->
-> But reality is a cesspool!
->
-> Alarmed by this harsh reality, you have decided to pass martial arts on to trustworthy friends.
->
-> Whether this choice proves poisonous or beneficial… depends on your decisions and abilities.
->
-> May fortune in the martial arts be with you!
->
-> **Grade:** Peak
->
-> **Restriction:** Jin Taekyung
->
-> **Mission:** Guide the acquisition of **Jin Family’s Cultivation Technique** *(Incomplete)*
->
-> **Reward:** A considerable amount of EXP
->
-> **Repeat Quest**
->
-> **???**
->
-> **Failure:** In the worst-case scenario, suffer **qi deviation**
-
 “…”
 
 Who the hell came up with this quest title?

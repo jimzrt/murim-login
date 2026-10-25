@@ -151,32 +151,12 @@ Beep!
 >
 > **Agility** temporarily decreased by 10!
 
-> **System**
->
-> **Lv.??? Carus** has used **Binding Magic**!
->
-> Due to the **dragonkin** trait, the magic is enhanced!
->
-> **Strength** temporarily decreased by 10!
->
-> **Stamina** temporarily decreased by 10!
->
-> **Agility** temporarily decreased by 10!
-
 The thorny vines crept upward from my ankles, coiling around my legs, waist, arms, and finally my neck.
 
 Sawtoothed thorns pierced my thin leather armor and dug into my skin.
 
 Beep.
 
-
-> **System**
->
-> **Paralysis Poison** has entered your body!
->
-> **Nerve Poison** has entered your body!
->
-> Status abnormality: **Poisoned**!
 
 > **System**
 >
@@ -245,16 +225,6 @@ Ding.
 >
 > Status abnormality: **Poisoned** has disappeared!
 
-> **System**
->
-> The effect of **Unaffected by a Hundred Poisons** has been applied!
->
-> **Paralysis Poison** has been neutralized!
->
-> **Nerve Poison** has been neutralized!
->
-> Status abnormality: **Poisoned** has disappeared!
-
 “Or they have a good reason not to worry.”
 
 The instant I finished speaking, I stepped forward.
@@ -264,12 +234,6 @@ The thorny vines, each as thick as my thigh, tightened around my entire body, bu
 “While I’m at it, I’ll splurge on a bonus. Fifty Strength. Fifty Stamina.”
 
 Ding.
-
-> **System**
->
-> 100 Bonus Points have been consumed!
->
-> The points have been applied to your stats!
 
 Crack. Crrrunch.
 

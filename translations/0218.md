@@ -176,19 +176,6 @@ As the wind of the snowfield wrapped around my entire body, I recalled the Item 
 >
 > **Effect:** **Wind of the Snowfield** effect activated.
 
-> **System**
-> **Item Window**
->
-> **Yeti’s Necklace**
->
-> **Type:** Accessory  
-> **Grade:** Peak  
-> **Restriction:** None  
->
-> **Description:** A necklace that only an exceptionally skilled Yeti warrior may possess. In truth, however, it is a shackle proving that its wearer was once enslaved by the dragonkin and raised as livestock for food. Anyone who possesses this item becomes a target of dragonkin monsters, regardless of species.
->
-> **Effect:** **Wind of the Snowfield** effect activated.
-
 *So I’m a target.*
 
 It was hardly a pleasant word.

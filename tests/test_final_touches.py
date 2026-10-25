@@ -143,6 +143,15 @@ class FinalQaTest(unittest.TestCase):
         self.assertNotIn("“I’m Iron Man.”", normalized)
         self.assertEqual(final_qa.missing_panel_headings(baseline, normalized), [])
 
+    def test_surplus_system_panel_is_removed(self):
+        from tools.final_qa import normalize_reading_copy
+
+        panel = "> **System**\n>\n> - Logout is impossible.\n\n"
+        baseline = chapter(panel + ("The hall was quiet. " * 8))
+        candidate = chapter(panel + panel + ("The hall was quiet. " * 8))
+        normalized = normalize_reading_copy(baseline, candidate)
+        self.assertEqual(normalized.count("> **System**"), 1)
+
     def test_warning_heading_must_stay(self):
         baseline = chapter(
             "> **Warning**\n>\n> - The player cannot log out at will.\n\n"

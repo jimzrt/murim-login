@@ -111,6 +111,7 @@ def _system_panels(text: str) -> list[tuple[str, list[str]]]:
                     lines[index].strip() == ""
                     and index + 1 < len(lines)
                     and lines[index + 1].lstrip().startswith(">")
+                    and lines[index + 1].strip() != SYSTEM_HEADING
                 ):
                     block.append(lines[index])
                     index += 1
@@ -170,6 +171,62 @@ def _restore_system_panels(baseline: str, lines: list[str]) -> list[str]:
     return lines
 
 
+def _system_spans(lines: list[str]) -> list[tuple[int, int, tuple[str, ...]]]:
+    spans: list[tuple[int, int, tuple[str, ...]]] = []
+    index = 0
+    while index < len(lines):
+        if lines[index].strip() != SYSTEM_HEADING:
+            index += 1
+            continue
+        start = index
+        block = [lines[index]]
+        index += 1
+        while index < len(lines):
+            if lines[index].lstrip().startswith(">"):
+                block.append(lines[index])
+                index += 1
+                continue
+            if (
+                lines[index].strip() == ""
+                and index + 1 < len(lines)
+                and lines[index + 1].lstrip().startswith(">")
+                and lines[index + 1].strip() != SYSTEM_HEADING
+            ):
+                block.append(lines[index])
+                index += 1
+                continue
+            break
+        spans.append((start, index, _panel_body(block)))
+    return spans
+
+
+def _drop_duplicate_system_panels(baseline: str, lines: list[str]) -> list[str]:
+    """Remove System panels repeated beyond the mastered copy.
+
+    A notice the mastered chapter already repeats is kept. A panel whose text
+    does not appear there is left alone, because finalizing may reformat it.
+    """
+    allowed: dict[tuple[str, ...], int] = {}
+    for _previous, panel in _system_panels(baseline):
+        body = _panel_body(panel)
+        if body:
+            allowed[body] = allowed.get(body, 0) + 1
+    seen: dict[tuple[str, ...], int] = {}
+    drop: set[int] = set()
+    for start, end, body in _system_spans(lines):
+        if not body or body not in allowed:
+            continue
+        seen[body] = seen.get(body, 0) + 1
+        if seen[body] <= allowed[body]:
+            continue
+        drop.update(range(start, end))
+        if start - 1 in range(len(lines)) and lines[start - 1].strip() == "":
+            drop.add(start - 1)
+    if not drop:
+        return lines
+    return [line for index, line in enumerate(lines) if index not in drop]
+
+
 def _thought_key(line: str) -> str:
     text = FOOTNOTE_REF.sub("", line.strip())
     if text.startswith("“") and text.endswith("”"):
@@ -209,6 +266,7 @@ def normalize_reading_copy(baseline: str, candidate: str) -> str:
         lines.append(line)
     lines = _restore_thoughts(baseline, lines)
     lines = _restore_system_panels(baseline, lines)
+    lines = _drop_duplicate_system_panels(baseline, lines)
     missing_titles = [
         title
         for title in _chat_titles(baseline)

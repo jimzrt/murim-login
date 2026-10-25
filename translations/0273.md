@@ -255,14 +255,6 @@ Ding.
 >
 > Y   /   N
 
-> **System**
->
-> - The Quest **It Was Too Much Money to Say “I’m Not Doing It!”** has been generated!
->
-> Will you accept the Quest?
->
-> Y   /   N
-
 “What do you say?”
 
 “…”

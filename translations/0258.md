@@ -155,30 +155,6 @@ Ding.
 >
 > .
 
-> **System**
->
-> - Under the rules, **???**, who left the dueling platform first, has been declared the loser by ring-out!
->
-> - Quest, **Star-Array Grand Banquet**, completed successfully!
->
-> - Great Achievement, **Star-Array Grand Banquet Victory**, achieved!
->
-> - Rewards will be distributed according to the participants’ caliber and the difficulty of the competition!
->
-> - You have obtained a vast amount of EXP and Fame, as well as additional Points!
->
-> - Level up!
->
-> - Level up!
->
-> - Level up!
->
-> .
->
-> .
->
-> .
-
 Ding. Ding. Ding.
 
 As System notifications relentlessly rang in my ears, the changes began.

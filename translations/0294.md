@@ -23,12 +23,6 @@ Ding.
 >
 > Quest **Gate Raid** has been automatically generated!
 
-> **System**
->
-> You have entered the A-rank Gate, **Black Wizard’s Black Forest**!
->
-> Quest **Gate Raid** has been automatically generated!
-
 “Left foot, left foot! One, two, three, four! Halt!”
 
 “One, two! Fall in!”

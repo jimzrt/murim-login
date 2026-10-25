@@ -15,20 +15,6 @@
 >
 > **Special Note:** Materials are required to create a martial arts manual.
 
-> **System**
->
-> **Skill Window**
->
-> **Martial Arts Manual Creation**
->
-> **Grade:** None
->
-> **Restriction:** Martial arts at Great Completion
->
-> **Description:** The caster can create manuals only for martial arts they have achieved Great Completion in. A deeper understanding of the martial art may produce better results.
->
-> **Special Note:** Materials are required to create a martial arts manual.
-
 I stared at the Skill information window and thought.
 
 *Hold on. When did I get this?*
@@ -93,16 +79,6 @@ Beep.
 >
 > Select the desired martial art.
 
-> **System**
->
-> All materials are ready.
->
-> The **Martial Arts Manual Creation** Skill has been activated. You can create manuals for martial arts that have achieved Great Completion.
->
-> **Currently Available:** Jin Family’s Cultivation Technique, Jin Family’s Manoeuvre Technique, Jin Family’s Spear Technique
->
-> Select the desired martial art.
-
 None of the Fire Gate Clan’s martial arts I had learned had reached Great Completion.
 
 The Jin Family of Taiyuan’s hereditary martial arts, on the other hand, were stable and reasonably powerful.
@@ -113,24 +89,10 @@ Of those, I chose the most fundamental.
 
 Beep.
 
-> **System**
->
-> Create a martial arts manual for **Jin Family’s Cultivation Technique**?
->
-> **Y / N**
-
 *Yes.*
 
 Beep! Beep!
 
-
-> **System**
->
-> Intelligence insufficient! Brainpower insufficient!
->
-> Teaching is several times harder than learning!
->
-> Creating a manual for a **Peak**-Grade martial art requires at least 100 Intelligence!
 
 > **System**
 >

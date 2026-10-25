@@ -24,14 +24,6 @@ Beep!
 >
 > - The sleeping dead answer the Commander’s call!
 
-> **System**
->
-> - Lv. 105 Skeleton Warlord has used a special Skill!
->
-> - Special Skill, Summon the Dead, has been activated!
->
-> - The sleeping dead answer the Commander’s call!
-
 I had never felt so at ease.
 
 Every time I watched a Skeleton shoot up like a bean sprout, happiness welled up inside me.
@@ -46,16 +38,6 @@ Every time I smashed the skull of a Skeleton that had only just awakened, a beau
 
 Ding. Ding. Ding.
 
-
-> **System**
->
-> - You have defeated Lv. 71 Skeleton Warrior!
->
-> - You have gained a small amount of EXP!
->
-> - You have defeated Lv. 70 Skeleton Archer!
->
-> - You have gained a small amount of EXP!
 
 > **System**
 >
@@ -232,16 +214,6 @@ When I stared at him with an utterly dumbfounded expression, the world’s first
 “Grow stronger, Skeletons, Skeletons!”
 
 Beep!
-
-> **System**
->
-> - Lv. 105 Skeleton Warlord has used a special Skill!
->
-> - Special Skill, Commander’s Rally, has been activated!
->
-> - The Strength, Agility, and Magic of the monsters under the Skeleton Warlord’s command have been enhanced!
->
-> - The enemies’ Levels have increased by 5!
 
 *…He can do it all by himself now.*
 

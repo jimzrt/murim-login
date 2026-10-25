@@ -213,20 +213,6 @@ Ding.
 
 > **System**
 >
-> **Fire King’s Hellfire Training-2** has been completed successfully!
->
-> Outstanding achievement: **Unmoving** achieved!
->
-> **Toughness** changes to **Endurance**!
->
-> **Level Up!**
->
-> **Level Up!**
->
-> You acquired 50 Bonus Points!
-
-> **System**
->
 > Repeat Quest **Fist-and-Foot Training** has been created!
 
 I began with the simplest straight punch.
@@ -248,16 +234,6 @@ Clatter!
 How long had I listened to the chains connected to my wrists sway and rattle? I kept driving my fists into an imaginary point without pause until I heard a System notification in my ear.
 
 Ding.
-
-> **System**
->
-> Repeat Quest **Fist-and-Foot Training** has been completed successfully!
->
-> Flawless movements without a single error!
->
-> **Strength**, **Stamina**, and **Agility** have each increased by 1!
->
-> You have not yet learned fist-and-foot martial arts. Additional rewards will be granted when you acquire a related martial art in the future!
 
 The repeat Quest gave worthwhile rewards. They diminished with each repetition, but even this much was more than enough to be grateful for.
 
@@ -412,16 +388,6 @@ He rose and beckoned to me.
 The instant I carefully stepped into the Fire Gate Cavern, a System notification pierced my ears.
 
 Ding.
-
-> **System**
->
-> You have entered **Fire Gate Cavern**!
->
-> The effects of **Fire Gate Clan** martial arts are amplified when learned!
->
-> Your **Scorching Yang Qi** is reacting intensely!
->
-> The restriction on **internal energy** has been lifted!
 
 Hummm.
 

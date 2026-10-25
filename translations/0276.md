@@ -283,14 +283,6 @@ Ding.
 >
 > **Vision-Blocking Magic** has activated! The scene inside cannot be seen from outside!
 
-> **System**
->
-> **Alarm Magic** has activated!
->
-> **Sound-Blocking Magic** has activated! No noise will escape the mansion!
->
-> **Vision-Blocking Magic** has activated! The scene inside cannot be seen from outside!
-
 They had taken some precautions.
 
 Even better.

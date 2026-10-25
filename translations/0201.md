@@ -283,28 +283,6 @@ Ding.
 >
 > **Failure:** ???
 
-> **System**
->
-> Quest **One Step Back** has been created.
->
-> **Quest**
->
-> **One Step Back**
->
-> Fire King Jeok Cheongang wants to see your true ability.
->
-> Make him retreat within the time limit and prove your worth to him!
->
-> **Grade:** Peak
->
-> **Restriction:** Jin Taekyung
->
-> **Mission:** One Step Back (Incomplete)
->
-> **Reward:** ???
->
-> **Failure:** ???
-
 *Make him retreat one step?*
 
 At first glance, it seemed easy, but there was a reason it was a Peak-Grade Quest.
