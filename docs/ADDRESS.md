@@ -798,7 +798,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 수신룡 | hostile martial artist to monster | you, sibu-leol eel bastard | blunt, insulting, and fearless | Taekyung directly insults the emerged Water God Dragon before attacking it. |
 | 청풍 | 제갈풍 | young_martial_artist_to_family_head | Great Hero Zhuge Feng | cheerful and polite | Cheongpung addresses Zhuge Feng as 제갈풍 대협, but deliberately mispronounces the name once as 제갈퐁 for comic effect. |
 | 제갈풍 | 청풍 | family_head_to_younger_martial_artist | you | familiar and polite | Zhuge Feng uses 자네 while instructing Cheongpung and responding to his advice. |
-| 진호 | 태경 | Older male friend addressing a younger male friend in a close hyung relationship | Taekyung | Informal and familiar | Jin-ho addresses Taekyung as 태경아 in recalled advice; Taekyung refers to him as Jin-ho hyung. |
+| 진호 | 태경 | Older male friend addressing a younger male friend in a close hyung relationship | Taekyung | Informal and familiar | Jinho addresses Taekyung as 태경아 in recalled advice; Taekyung refers to him as Jinho hyung. |
 | 적천강 | 수신룡 | legendary_martial_master_to_dying_spirit_beast | you | wary and trembling | Jeok asks what the Water God Dragon is after witnessing its mental communication. |
 | 문경 | 수신룡 | physician_to_dying_spirit_beast | you | guarded and curious | Mungyeong asks whether the Water God Dragon knows him. |
 | 송 군관 | 홍란 | military_commander_to_singing_courtesan | Young Lady | flattering and flirtatious | Officer Song approaches Honglan and attempts to court her. |
@@ -963,11 +963,11 @@ Overrides generic relationship prose in character profiles for this pair.
 | 백한성 | 보좌관 | President_to_aide | you idiot | angry and informal | Baek rebukes the aide with 이 사람이 after the aide interrupts the breakfast. |
 | 최민우 | 김 집사 | household_guest_to_household_butler | Butler Kim | formal-polite | Choi answers Butler Kim's emergency call as 김 집사님. |
 | 화종 | 최민우 | butler_to_Young_Master | Young Master | formal and deferential | Butler Kim consistently addresses Choi Minwoo with the established deferential title. |
-| 송천우 | 화종 | former_allies | Hwa-jong | familiar and informal | Song uses Hwa-jong's personal name, prompting Hwa-jong to reject the familiarity. |
-| 화종 | 송천우 | former_allies_now_hostile | you | formal and cold | Hwa-jong challenges Song's right to expect Choi's trust and rejects their former intimacy. |
+| 송천우 | 화종 | former_allies | Hwajong | familiar and informal | Song uses Hwajong's personal name, prompting Hwajong to reject the familiarity. |
+| 화종 | 송천우 | former_allies_now_hostile | you | formal and cold | Hwajong challenges Song's right to expect Choi's trust and rejects their former intimacy. |
 | 송천우 | 최민우 | older_former_ally_to_younger_former_ally | Minwoo | familiar and informal | Song addresses Choi by his given name while discussing the meeting place and surveillance. |
 | 팀장 | 중년인 | Hunter_team_leader_to_stranger | Boss | casual and polite | The Team Leader mistakes disguised Song for an ordinary raid customer and warns him not to proceed. |
-| 최민우 | 화종 | Young Master to butler | Butler Kim | formal and respectful | Choi refers to Hwa-jong as 김 집사님 while discussing the concealed truth. |
+| 최민우 | 화종 | Young Master to butler | Butler Kim | formal and respectful | Choi refers to Hwajong as 김 집사님 while discussing the concealed truth. |
 | 최민우 | 송천우 | temporary ally to rival | Regional Director | formal and cutting | Choi uses 지사장님 while condemning Song's survival and concealment. |
 | 송천우 | 천태민 | former subordinate to revered older brother by respect | Hyung | reverent and familiar; shocked | Song Cheonwoo recognizes Cheon Taemin's blood in Choi Minwoo and mutters 형님 while facing Choi. |
 | 고세원 | 경호팀 | security-team commander to subordinate unit | Security Team | terse operational command | Calls the unit over radio before requesting status reports. |
@@ -975,7 +975,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 20대 여자 헌터 | 팀장 | female Hunter to freelance team leader | Team Leader | casual-polite | She repeatedly addresses the unnamed team leader as 팀장님 while discussing Choi Minwoo. |
 | 팀장 | 팀원 | freelance team leader to subordinate team member | asshole/punk | insulting-casual | The Team Leader addresses the subordinate with 새꺄 and 인마 while joking and complaining over drinks. |
 | 최민우 | 스켈레톤 킹 | commander_to_undead_ally | you | casual and encouraging | After the Merman cleanup, Choi tells Skeleton King that it worked hard. |
-| 평화 길드의 헌터들 | 김화종 | guild_members_to_Guild_Master | Guild Master | formal and deferential | The surviving Peace Guild Hunters address Hwa-jong as Guild Master after he rescues Choi and orders their withdrawal. |
+| 평화 길드의 헌터들 | 김화종 | guild_members_to_Guild_Master | Guild Master | formal and deferential | The surviving Peace Guild Hunters address Hwajong as Guild Master after he rescues Choi and orders their withdrawal. |
 | 김화종 | 천태민 | loyal subordinate and trusted comrade to Guild Master | Guild Master | formal and respectful | Kim addresses Taemin as 길드장님 after joining the Peace Guild. |
 | 스켈레톤 킹 | 진태경 | ally_to_ally | Human | blunt, subdued, and concerned | Skeleton King repeatedly addresses Taekyung as 인간 while urging him to release Hwajong. |
 | 길드원 | 진태경 | Peace Guild member to allied S-rank Hunter | Hunter Jin Taekyung | formal-polite and hesitant | A Guild member addresses Taekyung as 진태경 헌터님 while asking whether Choi should be awakened. |
@@ -1033,7 +1033,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 알 디아브 자와히리 | 젊은이 | None; hostile ideological opponent | young man | Formal and coaxing | Al Diab repeatedly addresses the masked protagonist as 젊은이 while attempting to recruit and manipulate him. |
 | 진태경 | 척 헤이글 | allied partners | Chuck | polite speech | Taekyung addresses Hagel directly as Chuck and speaks politely to him. |
 | 척 헤이글 | 진태경 | allied partners | Crazy Korean | informal speech | Hagel repeatedly addresses the masked protagonist as Crazy Korean. |
-| 진태경 | 진호 | younger_friend_to_older_friend | Jin-ho hyung | informal and familiar | Taekyung repeatedly addresses Jin-ho as hyung while joking, asking favors, and sharing personal concerns. |
+| 진태경 | 진호 | younger_friend_to_older_friend | Jinho hyung | informal and familiar | Taekyung repeatedly addresses Jinho as hyung while joking, asking favors, and sharing personal concerns. |
 | 송송이 | 최민우 | guild_member_to_guild_master | Team Leader Choi | formal-polite | Song Song addresses Choi by his former title while urging him to rest. |
 | 임꺽정 | 최민우 | guild_member_to_guild_master | Team Leader Choi | casual-but-concerned | Im Kkeokjeong uses Choi's former title while warning him about overwork. |
 | 최민우 | 정 기사님 | employer_to_driver | Driver Jung | polite | Choi orders the driver to turn the limousine around and cancel the day's schedule. |

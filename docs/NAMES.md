@@ -1015,7 +1015,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 게이트 마력 급증 조사 결과 | **Investigation Results: Sudden Increase in Gate Mana** | Title displayed on Choi Minwoo's tablet. |
 | 도쿄핫 | **Tokyo Hot** | Adult-video studio referenced in Taekyung's insult; footnoted. |
 | 도쿄루 | **Tokyo-ru** | Red-light establishment referenced in Taekyung's joke. |
-| 미미 | **Mimi** | Worker at Honghwaru referenced in Taekyung's joke. |
+| 미미 | **Mimi** | Tang Mimi, the Thousand-Year Poison Horned Snake named by Tang Sadok that later follows Cheongpung; not a Honghwaru worker (ch306 only jokes about a Honghwaru girl of that name). |
 | 키라라 | **Kirara** | Worker at Tokyo-ru referenced in Taekyung's joke. |
 | 신의 | **Divine Physician** | Sobriquet of the legendary anonymous physician sought to treat Jeok Cheongang. |
 | 의선 | **Medicine Immortal** | Alternate sobriquet for the Divine Physician. |
@@ -1220,7 +1220,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 한빙석 | **Cold-Ice Stone** | Special stone provided by Tang Sadok for Jeok Cheongang's treatment. |
 | 서천마군 | **Western Heaven Demon Lord** | Title of the middle-aged antagonist who commands the summoned black-robed hunters. |
 | 기련산 | **Qilian Mountains** | Mountain range in Qinghai from which the Qilian Three Fiends emerged. |
-| 삼괴 | **Three Fiends** | Collective form used by the Western Heaven Demon Lord for the Qilian Three Fiends. |
+| 삼괴 | **Third Fiend** | Ordinal title of the youngest Qilian Three Fiends brother, like 일괴/이괴; the group is 기련삼괴. |
 | 기련삼괴 | **Qilian Three Fiends** | Three identical brothers from the Qilian Mountains. |
 | 삼노 | **Three Old Men** | Mocking designation used by the Western Heaven Demon Lord for the aged Qilian Three Fiends. |
 | 난화수 | **Chaotic Flower Hand** | Cheongpung's technique for redirecting an opponent's force. |
@@ -1872,7 +1872,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 예티 | **yeti** | Monster species in the Gate's name and raid dialogue. |
 | 예티의 겨울 산맥 | **Yeti's Winter Range** | Name of the B-rank Gate in Pyeongchang. |
 | 광안리 | **Gwangalli** | Busan area where Mermen spread. |
-| 화종 | **Hwa-jong** | Butler Kim's personal name. |
+| 화종 | **Hwajong** | Butler Kim's personal name; short form of Kim Hwajong (김화종). |
 | 김호중 | **Kim Ho-jung** | Ares Guild security-team member assigned by Go Jun to Busan. |
 | 김소혜 | **Kim Sohye** | Female Hunter in Pyeongchang who recognizes Choi Minwoo from a news photograph. |
 | 베히모스 | **Behemoth** | Mythical monster emerging from the Pyeongchang Gate. |
@@ -1902,7 +1902,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 효웅 | **ambitious warlord** | Archetype used for Lee Jungryong as a ruthless, ambitious ruler. |
 | 김종필 | **Kim Jong-pil** | Ares Guild managing director whose faction betrays the Guild on the eighty-fifth floor. |
 | 최 전무 | **Executive Director Choi** | Ares Guild executive who asks Go Se-won where the Vice Guild Master is. |
-| 진호 | **Jin-ho** | Jin Taekyung's older male friend, addressed as Jin-ho hyung. |
+| 진호 | **Jinho** | Seong Jinho (성진호), Jin Taekyung's older male friend, addressed as Jinho hyung. |
 | 이강희 | **Lee Kanghee** | Chief editorial writer whose column condemns Jin Taekyung. |
 | 고 모씨 | **Mr. Go** | Anonymous close aide of the late Go Jun who turns himself in. |
 | 대통령 경호실 | **President's Security Service** | Government security organization assigned to protect Jin and his family. |
@@ -1953,11 +1953,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 오마르 알 후세인 | **Omar al-Hussein** | Leader of a Sunni faction captured during the campaign. |
 | 알 디아브 자와히리 | **Al Diab Jawahiri** | Leader of Al-Qaeda. |
 | 알 카에다 | **Al-Qaeda** | The terrorist organization led by Al Diab Jawahiri. |
-| 김 계장 | **Section Chief Kim** | Jin-ho's antagonistic superior in the Hunter and Gate Management Department. |
+| 김 계장 | **Section Chief Kim** | Jinho's antagonistic superior in the Hunter and Gate Management Department. |
 | 아프가니스탄 | **Afghanistan** | Country whose rebel forces issued a joint statement with Middle Eastern terrorist groups. |
 | 소라 아오이 | **Sora Aoi** | Hypothetical deputy minister in Taekyung's pornography-department joke. |
 | 키라라 아스카 | **Asuka Kirara** | Hypothetical spokesperson in Taekyung's pornography-department joke. |
-| 폰허브 | **Pornhub** | Website referenced in Taekyung's joke about Jin-ho. |
+| 폰허브 | **Pornhub** | Website referenced in Taekyung's joke about Jinho. |
 | 김 화 종 | **Kim Hwajong** | Deceased old butler and Choi Minwoo's grandfather. |
 | 전경련 | **Federation of Korean Industries** | Business organization seeking Choi Minwoo's attendance at a social gathering. |
 | 정 기사님 | **Driver Jung** | Choi Minwoo's limousine driver. |
@@ -2018,7 +2018,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 야율 | **Yayul** | Name used in Taekyung's colloquial address to the Beast Miao King. |
 | 수왕석 | **Beast King Stone** | Legendary sacred treasure of the Nanman Beast Palace. |
 | 천년지주 | **Thousand-Year Spider** | Monster appearing at the end of the chapter. |
-| 파브르 | **Fabre** | The entomologist referenced in Jin-ho's joke. |
+| 파브르 | **Fabre** | The entomologist referenced in Jinho's joke. |
 | 유령거미 | **ghost spider** | A spider species identified by Jin. |
 | 무당거미 | **Joro spider** | A spider species identified by Jin. |
 | 브라질 떠돌이 거미 | **Brazilian wandering spider** | A spider species identified by Jin. |
@@ -2164,7 +2164,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 무닌 | **Muninn** | One of the two ravens associated with Odin in Norse mythology. |
 | 오딘 | **Odin** | The name of the world's greatest Guild, invoking the Norse god. |
 | 김 과장 | **Manager Kim** | Manager responsible for the evidence storage room; no personal name is given. |
-| 크로노스 길드 | **Chronos Guild** | A major Guild included among the world's Ten Great Guilds. |
+| 크로노스 길드 | **Kronos Guild** | A major Guild included among the world's Ten Great Guilds; same guild as 크로노스. |
 | 우 쉐이밍 | **Wu Shaiming** | Former Chinese premier, Crown Prince Party leader, and father of Wu Heixing. |
 | 우 헤이싱 | **Wu Heixing** | Deceased S-rank Hunter who learned the Wu family's Mana Cultivation Method. |
 | 샤오 양 주석 | **Chairman Xiao Yang** | Chinese leader who provided the unofficial Odin Guild proposal. |

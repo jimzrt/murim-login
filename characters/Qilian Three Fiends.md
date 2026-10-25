@@ -2,7 +2,7 @@
 
 - **Safe through:** Chapter 1031
 - **Aliases:** Three Fiends
-- **Gender:** unknown
+- **Gender:** male
 - **Role:** First Fiend and at least one other brother are dead, the Third Fiend has been captured by Mungyeong, and the Second Fiend's fate remains unknown.
 - **Personality:** Bloodthirsty and notorious throughout Qinghai, but fearful and submissive before the Western Heaven Demon Lord.
 - **Voice:** The brothers speak in near-unison with frightened, deferential phrasing.

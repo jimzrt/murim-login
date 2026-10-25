@@ -1,15 +1,15 @@
 # Seong Jinho (성진호)
 
 - **Safe through:** Chapter 1175
-- **Aliases:** Jinho; Mr. Seong Jinho
+- **Aliases:** Jinho (진호); Mr. Seong Jinho
 - **Gender:** male
-- **Role:** Seong Jinho is the manager of Hope Goshiwon, a thirty-year-old exam candidate, and Jin Taekyung’s older civilian friend and current roommate.
-- **Personality:** Knowledgeable about IT, shamelessly blunt, melodramatic when threatened, and a heavy drinker
+- **Role:** Seong Jinho is Jin Taekyung’s older civilian friend from Hope Goshiwon, formerly its manager and a civil-service exam candidate, who passed the exam and now works in the Hunter and Gate Management Department.
+- **Personality:** Knowledgeable about IT, shamelessly blunt, perceptive, melodramatic when threatened, a heavy drinker, and good-natured beneath his teasing
 - **Voice:** Casual and teasing; invokes laws and hierarchy for comic effect; speaks informally to Taekyung while demanding respect as his older brother
-- **Relationships:** Three years older than Jin Taekyung; treats him as a younger brother and drinking companion
+- **Relationships:** Three years older than Jin Taekyung, who calls him Jinho hyung; treats him as a younger brother and drinking companion, has inferred Taekyung’s involvement in the masked group’s campaign, and keeps it secret.
 - **Continuity:** Lives or works at Hope Goshiwon; becomes dead drunk after celebrating Taekyung’s dismissal
 - **Chapter 39 continuity:** Finds Taekyung awake in the capsule at 3 a.m., listens to his account of spending a month in Murim, and assumes he is insane. He briefly enters the capsule but exits immediately because its power cord is unplugged, then urges Taekyung to seek psychiatric care.
 - **Chapter 46 continuity:** Jinho takes Taekyung’s discarded Ark - 2020 capsule, bargains over a finder’s fee, and returns it to Taekyung’s room. He remains a teasing older friend while the capsule’s manual confirms permanent binding to its registered user until death.
 - **Chapter 48 continuity:** Jinho celebrates Taekyung’s C-rank-level reassessment over beef and soju, becomes tearful when congratulating him and telling him he worked hard, then immediately resumes teasing him by demanding the capsule finder’s fee. Taekyung gives him a fabricated account of the Gate and reassessment while keeping the Ark - 2020 capsule and Murim secret.
 - **Chapter 53 continuity:** Jinho visits Taekyung’s goshiwon room and jokes about disassembling the Ark - 2020 capsule, but has not touched it. He learns Taekyung is claiming that Jin Wikyung is a Chinese girlfriend and remains unaware of Murim, the System, and the capsule’s true nature.
-- **Sources:** Korean source and accepted translation, Chapters 1, 39–40, 46, 48, and 53
+- **Sources:** Korean source and accepted translation, Chapters 1, 39–40, 46, 48, 53, 600, and 612 (merged former Jin-ho profile)
