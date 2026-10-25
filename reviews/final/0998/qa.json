@@ -1,0 +1,32 @@
+{
+  "chapter": 998,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.087,
+    "source_characters": 5625,
+    "source_paragraphs": 137,
+    "translation_characters": 11742,
+    "translation_paragraphs": 131
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "팡팡",
+        "romanization": "pangpang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "name_absent",
+      "details": {
+        "korean": "월미도",
+        "preferred": "Moon Beauty Saber"
+      },
+      "message": "a profiled character named in the source is absent from the English"
+    }
+  ]
+}
