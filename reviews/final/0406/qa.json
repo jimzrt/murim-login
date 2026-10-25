@@ -1,0 +1,32 @@
+{
+  "chapter": 406,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.995,
+    "length_ratio": 2.348,
+    "source_characters": 5557,
+    "source_paragraphs": 129,
+    "translation_characters": 13048,
+    "translation_paragraphs": 113
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "매생이",
+        "romanization": "maesaengi"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "마이구미",
+        "romanization": "maigumi"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
