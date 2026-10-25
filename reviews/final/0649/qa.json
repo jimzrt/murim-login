@@ -1,0 +1,24 @@
+{
+  "chapter": 649,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 1.968,
+    "source_characters": 5671,
+    "source_paragraphs": 175,
+    "translation_characters": 11161,
+    "translation_paragraphs": 164
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "name_absent",
+      "details": {
+        "korean": "주화란",
+        "preferred": "Ju Hwaran"
+      },
+      "message": "a profiled character named in the source is absent from the English"
+    }
+  ]
+}
