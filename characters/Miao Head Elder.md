@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 688
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** The Miao Head Elder is the senior elder of the Miao people and a guardian of their leadership and loyalty to Yayul Cheok.
 - **Personality:** Fierce, loyal, morally resolute, and openly defiant toward Baeksang's seizure of power.
 - **Voice:** Raspy, furious, accusatory, and unwavering when defending Yayul Cheok.

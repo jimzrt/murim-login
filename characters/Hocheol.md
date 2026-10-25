@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 243
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Jin Dragon Squad martial artist and one of Hyuk Mujin's subordinates.
 - **Personality:** Loyal and quick to obey his superior's commands.
 - **Voice:** Brief and deferential.

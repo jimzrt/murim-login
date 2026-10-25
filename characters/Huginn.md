@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 812
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Huginn is a powerful Odin Guild operative and elite fixer personally selected and trained by Michael, now held captive by Jin Taekyung.
 - **Personality:** Polished, condescending, calculating, overconfident, and absolutely loyal to his Guild Master.
 - **Voice:** Formal and gentlemanly in presentation, indirect and theatrical at first, then blunt and coercive when delivering an ultimatum.

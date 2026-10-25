@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 36
 - **Aliases:** None revealed
+- **Gender:** unknown
 - **Role:** Level 13 martial artist; member of White Tiger Hall’s reconnaissance squad
 - **Personality:** Cheerful, eager, openly enthusiastic about following Jin Taekyung’s orders, and more afraid of fighting than he wants to admit
 - **Voice:** Bright and excitable; addresses Taekyung as Squad Leader, correcting himself when he nearly uses Taekyung’s family title

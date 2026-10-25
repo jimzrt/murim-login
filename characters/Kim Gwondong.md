@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 99
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Level 42 C-rank Hunter in Sangdong Guild’s Security Team, specializing in surveillance and disguise.
 - **Personality:** Cautious, observant, pragmatic, and cynical about his superior’s orders and accountability.
 - **Voice:** Friendly and ordinary while acting as a neighbor; deferential aloud to his Team Leader and profane internally.

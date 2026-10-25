@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 580
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Kim Ho-jung is a member of Ares Guild's security Team One who was assigned by Go Jun to an operation in Busan.
 - **Personality:** Not established.
 - **Voice:** Not established.

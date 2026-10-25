@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 311
 - **Aliases:** Heavenly Axe
+- **Gender:** unknown
 - **Role:** Level 93 Peak master ranked twentieth in the Green Forest Alliance and leader of Black Stone Stronghold; commands more than five hundred Green Forest bandits.
 - **Personality:** Wary and proud, but overconfident when Jeok Cheongang appears to be absent; quickly shifts from guarded respect to contempt and aggression.
 - **Voice:** Initially startled and deferential toward Jin Taekyung, then sneering, taunting, and threatening.

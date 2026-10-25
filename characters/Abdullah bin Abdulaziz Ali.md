@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 803
 - **Aliases:** Amir
+- **Gender:** unknown
 - **Role:** Elder leader of the desert fanatics who commands Hamid and leads his followers toward the promised land.
 - **Personality:** Religiously fervent, resolute, and convinced that the Prophet’s promised time has arrived.
 - **Voice:** Calm and authoritative, framing his commands and convictions in religious terms.

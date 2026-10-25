@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1040
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** So Gunak is a Black Ghost, a former Demonic Cult fiend transformed into a black-armored warrior.
 - **Personality:** Not established.
 - **Voice:** Not established.

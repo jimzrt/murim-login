@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1101
 - **Aliases:** None
+- **Gender:** female
 - **Role:** Local village girl, Jang-pal’s daughter, who lives near Jang Taebo and regularly visits him.
 - **Personality:** Curious, energetic, observant, and already attentive to the value of information and food.
 - **Voice:** Childlike, direct, and inquisitive, with an occasional surprisingly worldly remark.

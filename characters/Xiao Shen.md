@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 429
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Xiao Shen is the acting Head of Security who leads the Hunter escort assigned to Jin Taekyung.
 - **Personality:** Loyal, energetic, and willing to carry out Jin's blunt orders literally.
 - **Voice:** Brief, deferential, and energetic, addressing Jin as hyung.

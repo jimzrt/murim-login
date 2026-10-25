@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1148
 - **Aliases:** Stone King
+- **Gender:** male
 - **Role:** A powerful magical monster and Taekyung’s friend who fights alongside the Hunters.
 - **Personality:** Boastful and quick to trade teasing insults with Taekyung, but openly glad to see him again.
 - **Voice:** He speaks in blunt, boastful casual language and trades teasing insults with Taekyung.

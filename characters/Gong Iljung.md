@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1000
 - **Aliases:** Wind-and-Cloud Sword Lord
+- **Gender:** male
 - **Role:** Current Sect Leader of the Zhongnan Sect and bearer of the Wind-and-Cloud Sword Lord title
 - **Personality:** Not established in this chapter.
 - **Voice:** Not established in this chapter.

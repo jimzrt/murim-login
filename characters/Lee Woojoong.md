@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 302
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Seoul Branch President of the Hunters Association; delayed the Black Forest rescue response for one hour to curry favor with Lee Jungryong, then arrived with the rescue force and confronted Jin Taekyung after he returned alive.
 - **Personality:** Arrogant, status-conscious, and willing to subordinate Hunter safety to political advantage.
 - **Voice:** Authoritative and indignant, becoming offended when challenged.

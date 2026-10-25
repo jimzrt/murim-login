@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 844
 - **Aliases:** Jeok Cheongang; Fire King
+- **Gender:** male
 - **Role:** The Blood Monk is Jeok Cheongang, the Fire King, who disguised himself as a monk to evade Dark Heaven and uses a steel Zen staff and the Flame Divine Palm.
 - **Personality:** As Jeok Cheongang, the Blood Monk is gruff, blunt, protective of his Disciple, and prone to profane mockery, but acts decisively to protect others.
 - **Voice:** He speaks roughly and informally, often curses or teases with insults, and calls himself 'this old man' while addressing Jin as a brat.

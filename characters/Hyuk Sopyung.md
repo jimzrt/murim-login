@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1071
 - **Aliases:** Zhongnan One Dragon
+- **Gender:** male
 - **Role:** Peak master of the Zhongnan Sect known as the Zhongnan One Dragon and a senior disciple who can command the Taeeul Sword Unit in Hwangbo Eom's presence.
 - **Personality:** Proud, volatile, entitled, and quick to anger, especially when drunk.
 - **Voice:** Loud, confrontational, insulting, and imperious.

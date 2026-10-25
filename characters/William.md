@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 385
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** William is Prince Felix Alexander Louis's formal attendant or secretary.
 - **Personality:** Dutiful, literal, ceremonious, and socially rigid.
 - **Voice:** Extremely formal and title-heavy, with a precise instructional manner.

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 379
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** A former A-rank Hunter of the Public Security Armed Forces Department who became a Dullahan after being reanimated on the battlefield.
 - **Personality:** Competitive, playful, friendly, and prone to teasing complaints toward Xiao Shen.
 - **Voice:** Uses familiar, joking complaints with his friend Xiao Shen.

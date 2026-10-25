@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 767
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Franz Meyer is a German reporter covering the Munich incident and the proposed reestablishment of the World Hunter Federation.
 - **Personality:** Blunt, dryly humorous, foul-tempered by his own description, and willing to exchange guarded information.
 - **Voice:** Gruff, deadpan, and sardonic.

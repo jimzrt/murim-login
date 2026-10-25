@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 479
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Officer Song is the commander of the military ship carrying Honglan.
 - **Personality:** Confident, flirtatious, status-conscious, and emboldened by perceived romantic interest.
 - **Voice:** Flirtatious and self-assured before becoming hazy and compliant under Honglan's influence.

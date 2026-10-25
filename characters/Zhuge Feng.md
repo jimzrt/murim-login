@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1136
 - **Aliases:** Crouching Dragon Guest
+- **Gender:** male
 - **Role:** Zhuge Feng is the current Family Head of the Zhuge Clan and father of its Lesser Family Head, Zhuge Gyun.
 - **Personality:** Analytical, disarmingly casual, eccentric, and inventive; he treats comfort and time as principles while delivering grave intelligence with unsettling directness.
 - **Voice:** Clear, calm, polished, and conversational, with understated humor and pointed questioning.

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 982
 - **Aliases:** Iron Blood Saber
+- **Gender:** male
 - **Role:** Family Head of the Hebei Peng Family; son and successor of the Thunderbolt Saber King.
 - **Personality:** Calm and prudent under pressure, prioritizing consultation over risking his family’s lives on a hasty decision.
 - **Voice:** He speaks calmly and deliberately, even when explaining grave decisions.

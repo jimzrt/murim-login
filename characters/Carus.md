@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1151
 - **Aliases:** One-Eyed
+- **Gender:** unknown
 - **Role:** The Black Wyvern's name; a Level 115 Named Monster and lesser branch of the dragonkin with one eye, killed by Jin Taekyung.
 - **Personality:** Predatory, vengeful, patient, and increasingly intelligent.
 - **Voice:** Initially nonverbal; now halting, hostile speech accompanied by spellcasting.

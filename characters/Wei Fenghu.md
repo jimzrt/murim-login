@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 434
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Wei Fenghu is the Minister of National Defense under China's Central Military Commission and a four-star general.
 - **Personality:** Courteous, reserved, and authoritative.
 - **Voice:** Formal and measured, addressing Jin as Mr. Jin.

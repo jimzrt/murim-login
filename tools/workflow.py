@@ -19,6 +19,10 @@ try:
     from tools.run_lock import hold_commit_lock, hold_master_lock, hold_run_lock
 except ModuleNotFoundError:
     from run_lock import hold_commit_lock, hold_master_lock, hold_run_lock
+try:
+    from tools.names import GENDERS, profile_gender, set_profile_gender
+except ModuleNotFoundError:
+    from names import GENDERS, profile_gender, set_profile_gender
 
 STAGES = (
     "READY", "CONTEXT_READY", "DRAFTED", "REVIEWED", "REVISED",
@@ -849,7 +853,7 @@ def command_revise(number: int) -> None:
 
 
 
-PROFILE_UPDATE_FIELDS = ("Safe through", "Aliases", "Role", "Personality", "Voice", "Relationships")
+PROFILE_UPDATE_FIELDS = ("Safe through", "Aliases", "Gender", "Role", "Personality", "Voice", "Relationships")
 
 
 def merge_existing_profile_creation(body: str, item: dict) -> str:
@@ -875,6 +879,9 @@ def merge_existing_profile_creation(body: str, item: dict) -> str:
     text = "\n".join(lines)
     if body.endswith("\n"):
         text += "\n"
+    gender = item.get("gender", "unknown")
+    if gender != "unknown" and profile_gender(text) == "unknown":
+        text = set_profile_gender(text, gender)
     return text
 
 
@@ -1011,6 +1018,13 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
         if not prefix or not replacement.startswith(prefix):
             raise ValueError(f"profile update must preserve an allowed field: {relative}")
         path = matched[relative]
+        if prefix == "- **Gender:**":
+            new_gender = replacement[len(prefix):].strip()
+            if new_gender not in GENDERS:
+                raise ValueError(f"profile gender must be female, male, or unknown: {relative}")
+            old_gender = profile_gender(profile_texts[path])
+            if old_gender != "unknown" and new_gender != old_gender:
+                raise ValueError(f"profile update cannot change an established gender: {relative}")
         if profile_texts[path].count(current) != 1:
             raise ValueError(f"profile update current line is not unique: {relative}")
         profile_texts[path] = profile_texts[path].replace(current, replacement)
@@ -1034,6 +1048,7 @@ def durable_files(number: int, update: dict) -> dict[Path, str]:
 
 - **Safe through:** Chapter {number}
 - **Aliases:** {aliases}
+- **Gender:** {item.get("gender", "unknown")}
 - **Role:** {item["role"]}
 - **Personality:** {item["personality"]}
 - **Voice:** {item["voice"]}

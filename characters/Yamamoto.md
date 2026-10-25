@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 824
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Yamamoto Genji was a Japanese S-rank Hunter assigned to J1; The Prophet later used his Level 120 identity until Jin destroyed that form.
 - **Personality:** As The Prophet's Yamamoto Genji identity, he appeared prideful and easily offended, boasting of his rank but acting cowardly and evasive when danger became real.
 - **Voice:** Not established.

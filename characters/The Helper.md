@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1166
 - **Aliases:** None
+- **Gender:** male
 - **Role:** A mysterious being who inhabits an enduring gray-white space and first taught Jin Taekyung to circulate qi.
 - **Personality:** He chose to remain in his solitary prison and places his trust in Taekyung.
 - **Voice:** Calm and instructive, he uses reflective questions and concise guidance.

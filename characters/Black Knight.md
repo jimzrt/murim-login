@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 392
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Black knight serving the Arch Lich and carrying its orders to the undead legions.
 - **Personality:** Obedient and silent in the presence of the Arch Lich.
 - **Voice:** Brief and deferential when acknowledging commands.

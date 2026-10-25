@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1165
 - **Aliases:** Prince Felix
+- **Gender:** male
 - **Role:** British prince and S-rank Hunter who joins the reinforcement force against the Arch Lich.
 - **Personality:** Haughty and conscious of royal duty, but increasingly willing to set aside convention and connect with allies as equals.
 - **Voice:** Formal, lofty, and aristocratic.

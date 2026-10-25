@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 947
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Jang Il is a junior military officer and one of the seven gate commanders at Yichang’s West Gate.
 - **Personality:** He is complacent and greedy, yet regards his restrained corruption as respectable.
 - **Voice:** Not established

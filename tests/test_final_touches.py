@@ -194,6 +194,75 @@ class FinalQaTest(unittest.TestCase):
         self.assertIn("same marker", packet.casefold())
 
 
+class FinalPacketProfileTest(unittest.TestCase):
+    CFG = {"currency": {"krw_per_usd": 1400, "krw_per_eur": 1550}, "packet_token_limit": 90000}
+
+    def setUp(self):
+        self.temporary = tempfile.TemporaryDirectory()
+        self.folder = Path(self.temporary.name)
+        (self.folder / "Faye Chen.md").write_text(
+            "# Faye Chen (파이 첸)\n\n- **Safe through:** Chapter 773\n- **Aliases:** None\n"
+            "- **Gender:** female\n- **Role:** S-rank Hunter and former film star. "
+            + ("She fought in China. " * 30) + "\n- **Personality:** Teasing.\n",
+            encoding="utf-8",
+        )
+        (self.folder / "Magic Johnson.md").write_text(
+            "# Magic Johnson (매직 존슨)\n\n- **Safe through:** Chapter 773\n"
+            "- **Aliases:** Grand Mage\n- **Gender:** male\n- **Role:** One of three Grand Mages.\n",
+            encoding="utf-8",
+        )
+        (self.folder / "Jintae.md").write_text(
+            "# Jintae (진태)\n\n- **Safe through:** Chapter 9\n- **Aliases:** None\n- **Role:** Scion.\n",
+            encoding="utf-8",
+        )
+        self.source = "파이 첸이 웃었다. 매직 존슨은 고개를 끄덕였다. 파이 첸의 손. 진태경이 말했다."
+
+    def tearDown(self):
+        self.temporary.cleanup()
+
+    def test_matching_profiles_are_compact_and_ordered_by_presence(self):
+        cards = final_touches.matching_profiles(self.source, self.folder)
+        self.assertEqual([card["english"] for card in cards], ["Faye Chen", "Magic Johnson"])
+        self.assertEqual(cards[0]["gender"], "female")
+        self.assertEqual(cards[0]["hits"], 2)
+        self.assertLessEqual(len(cards[0]["role"]), final_touches.ROLE_LIMIT)
+        self.assertNotIn("Personality", json.dumps(cards, ensure_ascii=False))
+
+    def test_packet_lists_profiles_and_required_corrections(self):
+        cards = final_touches.matching_profiles(self.source, self.folder)
+        corrections = [{"korean": "파이 첸", "preferred": "Faye Chen", "found": ["Pai Chen"]}]
+        with patch.object(final_touches, "BRIEF_PATH", self.folder / "brief.md"):
+            (self.folder / "brief.md").write_text("Brief.", encoding="utf-8")
+            packet = final_touches.build_packet(
+                7, self.source, "# Chapter 7\n\nPai Chen smiled.", [], self.CFG, cards, corrections
+            )
+        self.assertIn("- **Faye Chen** (파이 첸) — gender: female; aliases: None; role: S-rank Hunter", packet)
+        self.assertIn("- **Magic Johnson** (매직 존슨) — gender: male; aliases: Grand Mage", packet)
+        self.assertIn("replace “Pai Chen” with “Faye Chen”", packet)
+        self.assertLess(packet.index("## Characters named"), packet.index("## Korean source"))
+
+    def test_packet_without_profiles_says_so(self):
+        with patch.object(final_touches, "BRIEF_PATH", self.folder / "brief.md"):
+            (self.folder / "brief.md").write_text("Brief.", encoding="utf-8")
+            packet = final_touches.build_packet(7, "가", "# Chapter 7", [], self.CFG)
+        self.assertIn("(No profiled characters are named in this chapter.)", packet)
+        self.assertIn("## Required name corrections\n\nThe mastered", packet)
+
+    def test_fitted_packet_drops_least_present_profiles_for_budget(self):
+        cards = final_touches.matching_profiles(self.source, self.folder)
+        with patch.object(final_touches, "BRIEF_PATH", self.folder / "brief.md"):
+            (self.folder / "brief.md").write_text("Brief.", encoding="utf-8")
+            full = final_touches.build_packet(7, self.source, "# Chapter 7", [], self.CFG, cards, [])
+            limit = final_touches.packet_tokens(full) - 5
+            packet = final_touches.fitted_packet(
+                7, self.source, "# Chapter 7", [], {**self.CFG, "packet_token_limit": limit}, cards, []
+            )
+        self.assertIn("**Faye Chen**", packet)
+        self.assertNotIn("**Magic Johnson**", packet)
+        self.assertIn("(1 less-present profiles omitted for the packet budget.)", packet)
+        self.assertLessEqual(final_touches.packet_tokens(packet), limit)
+
+
 class NextFinalChapterTest(unittest.TestCase):
     def setUp(self):
         self.temporary = tempfile.TemporaryDirectory()

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1065
 - **Aliases:** Taeeul Merciless Sword
+- **Gender:** male
 - **Role:** Supreme Peak master of the Zhongnan Sect and its Second Martial Uncle, known as the Taeeul Merciless Sword.
 - **Personality:** Ruthless, severe, proud, and deeply invested in restoring Zhongnan's standing.
 - **Voice:** Calmly courteous when offering tea, then cold, commanding, and cutting when reprimanding others.

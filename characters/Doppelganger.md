@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1170
 - **Aliases:** The Final Abyss
+- **Gender:** unknown
 - **Role:** The last surviving member of its species, the Doppelganger was a Demon Realm being capable of regenerating in new bodies and was erased by Jin Taekyung.
 - **Personality:** Arrogant and manipulative, it treats others as tools and is willing to sacrifice its followers to escape, but becomes desperate when its own survival is threatened.
 - **Voice:** It speaks with theatrical, grandiose confidence, taunting opponents in polished, self-important phrasing.

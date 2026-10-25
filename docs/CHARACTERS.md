@@ -6,6 +6,11 @@ Do not load this file unless creating or restructuring a profile.
 - Heading Korean and `Aliases:` Korean in parentheses join the names ledger.
 - Major means recurring, plot-bearing, or voice-sensitive; skip named extras.
 - Keep only stable role, personality, voice, relationships, and active continuity.
+- `- **Gender:**` follows Aliases and is exactly `female`, `male`, or `unknown`.
+  Korean omits pronouns, so set it only from source evidence (그녀 vs 그는,
+  언니/누나/오빠/형, 아가씨/소저, 여자/남자, 딸/아들); use `unknown` for weak
+  evidence and for beasts. Draft, review, and final-touches packets carry it.
+- A Korean name in a heading or alias may contain spaces: `# Faye Chen (파이 첸)`.
 - Cite source chapters and any wiki page used. The Korean and accepted translation control voice; the wiki is only a cross-check.
 - Put useful unrevealed facts in the matching `characters/spoilers/<preferred-name>.md`.
 - Update existing fields instead of appending chapter recaps.

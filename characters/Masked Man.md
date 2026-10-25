@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1135
 - **Aliases:** None
+- **Gender:** male
 - **Role:** The Masked Man is the Southern Heaven Demon Empress's trained hunting dog; after being crushed beneath a massive boulder in the Inner Palace ruins, he remains capable of twitching while awaiting his abnormal recovery.
 - **Personality:** The Masked Man is emotionless, silent, and indifferent to extreme bodily damage.
 - **Voice:** No spoken voice has been established.

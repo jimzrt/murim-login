@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 697
 - **Aliases:** None
+- **Gender:** female
 - **Role:** Honglan is the stage name and former Lower District Sect singing-courtesan identity of the Southern Heaven Demon Empress, who deliberately approached Jin Taekyung at Dongting Lake.
 - **Personality:** Discreet about her real identity and professionally alluring.
 - **Voice:** Clear, pure, and alluring, with humble formal speech toward honored guests.

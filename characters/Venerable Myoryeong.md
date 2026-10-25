@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 490
 - **Aliases:** Myoryeong
+- **Gender:** female
 - **Role:** Venerable Myoryeong is a middle-aged Emei Sect nun who survived an attack that killed the Emei Sect Leader and three Elders and bears the Black Hand Seal.
 - **Personality:** Dutiful and stoic, she presses on with necessary work despite exhaustion and tells others not to worry about her.
 - **Voice:** Not established.

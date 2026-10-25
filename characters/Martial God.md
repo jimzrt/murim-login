@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1178
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Cheon Taemin, the legendary martial artist known as the Martial God and a former Player, is regarded as a pinnacle above the Ten Kings; more than fifty years ago, he defeated five Supreme Peak fiends and five hundred Blood Ghost Squad members alone.
 - **Personality:** Not established.
 - **Voice:** Not established.

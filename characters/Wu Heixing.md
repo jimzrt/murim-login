@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 778
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Deceased S-rank Hunter and son of a leading Crown Prince Party figure; he used the Wu family's inherited Mana Cultivation Method and was killed after joining Lee Jungryong's betrayal.
 - **Personality:** Entitled and attention-seeking, he avoids personal risk, reacts to criticism with explosive anger, and holds grudges when challenged.
 - **Voice:** He uses blunt, contemptuous challenges and insults, but shifts to deferential, formal address when speaking to powerful seniors.

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1135
 - **Aliases:** Kunlun Cloud Dragon
+- **Gender:** unknown
 - **Role:** Hak Woo is the Kunlun Sect's greatest young prodigy and is known as the Kunlun Cloud Dragon.
 - **Personality:** He is wary, easily intimidated by threats to his hair, and eager to avoid unnecessary confrontation.
 - **Voice:** He speaks politely and defensively, frequently using Daoist invocations.

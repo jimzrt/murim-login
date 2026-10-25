@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1175
 - **Aliases:** None
+- **Gender:** male
 - **Role:** First-generation disciple of the Gongdao Sect in Sichuan, deployed with roughly thirty second- and third-generation disciples to search for the surviving Third Fiend.
 - **Personality:** Privileged, impatient, pleasure-seeking, inattentive, and dismissive of the danger surrounding the mission.
 - **Voice:** Complaining and casual, with irreverent sarcasm toward his Senior Brother and the search.

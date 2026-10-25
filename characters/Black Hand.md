@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 725
 - **Aliases:** Black Hand Fist Demon (흑수권마)
+- **Gender:** male
 - **Role:** Black Hand was a sadistic Dark Heaven agent and Supreme Peak master who acted under orders associated with the Southern Heaven Demon Empress before his death.
 - **Personality:** Black Hand is cruel, gleeful, predatory, and fascinated by the despair of his victims.
 - **Voice:** Black Hand speaks in archaic first person with drunken mockery, humiliating insults, and casual threats.

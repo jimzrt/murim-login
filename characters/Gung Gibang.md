@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1191
 - **Aliases:** Successor Beggar, Beggar Prince, pure-blooded beggar, ultimate beggar
+- **Gender:** male
 - **Role:** Gung Gibang is the Beggars' Sect Successor Beggar and a unique eight-knot disciple.
 - **Personality:** Vulgar, aggressive, and quick-tempered, but grieves deeply for fellow Beggars’ Sect disciples and defends those who risk their lives for others.
 - **Voice:** Blunt, profane, and vividly threatening.

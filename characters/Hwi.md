@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 663
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Hwi was Baeksang's only child and was killed during the Great Snow Mountain battle.
 - **Personality:** Hwi was remembered as upright and bright.
 - **Voice:** Not established.

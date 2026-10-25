@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 510
 - **Aliases:** Yangtze One Saber
+- **Gender:** unknown
 - **Role:** A Supreme Peak master, Hwang Chung was Lord of Donghu Stronghold, a moderate elder of the Yangtze River Channel League, and the Seafaring King's sworn brother before being killed in the stronghold's destruction.
 - **Personality:** Calm, thoughtful, and cautious; he gave Mu Song warm advice and supported him through harsh training.
 - **Voice:** Not established.

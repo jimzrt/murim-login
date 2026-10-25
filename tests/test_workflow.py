@@ -433,6 +433,72 @@ class WorkflowTest(unittest.TestCase):
         address = files[self.root / "docs" / "ADDRESS.md"]
         self.assertIn("| 진태경 | 문경 | allies | Mungyeong | casual | Familiar vocative. |", address)
 
+    def gender_update_files(self, profile_body: str, updates: list[dict], creations: list[dict]) -> dict:
+        (self.root / "docs" / "workflow.json").write_text(
+            json.dumps({**workflow.DEFAULT_CONFIG, "version": 1}), encoding="utf-8"
+        )
+        profile = self.root / "characters" / "Faye Chen.md"
+        profile.parent.mkdir(exist_ok=True)
+        profile.write_text(profile_body, encoding="utf-8")
+        source = "파이 첸이 웃었다."
+        with patch.object(context, "ROOT", self.root), patch.object(
+            context, "chapter_text", return_value=source
+        ), patch.object(
+            context, "exact_glossary_entries", return_value=[]
+        ), patch.object(
+            context, "profile_entries", return_value=[(profile, profile_body)]
+        ), patch.object(
+            context, "bounded_profiles", side_effect=lambda items: items
+        ):
+            return workflow.durable_files(1, {
+                "chapter": 1,
+                "beat": {"plot": ["Faye smiled."], "continuity": [], "translation_decisions": []},
+                "context": {
+                    "version": 1,
+                    "safe_through": 1,
+                    "continuity_sources": [1],
+                    "active_continuity": [],
+                    "open_questions": [],
+                    "temporary_decisions": [],
+                },
+                "names": [],
+                "address_pairs": [],
+                "profile_updates": updates,
+                "profile_creations": creations,
+            })
+
+    def test_durable_files_gender_updates_and_creations(self):
+        body = (
+            "# Faye Chen (파이 첸)\n\n- **Safe through:** Chapter 0\n- **Aliases:** None\n"
+            "- **Gender:** unknown\n- **Role:** Hunter\n- **Personality:** Calm\n"
+            "- **Voice:** Dry\n- **Relationships:** Felix\n"
+        )
+        update = {
+            "path": "characters/Faye Chen.md",
+            "current": "- **Gender:** unknown",
+            "replacement": "- **Gender:** female",
+        }
+        files = self.gender_update_files(body, [update], [])
+        self.assertIn("- **Gender:** female", files[self.root / "characters" / "Faye Chen.md"])
+
+        established = body.replace("unknown", "female")
+        flip = {**update, "current": "- **Gender:** female", "replacement": "- **Gender:** male"}
+        with self.assertRaisesRegex(ValueError, "established gender"):
+            self.gender_update_files(established, [flip], [])
+        bad = {**update, "replacement": "- **Gender:** woman"}
+        with self.assertRaisesRegex(ValueError, "female, male, or unknown"):
+            self.gender_update_files(body, [bad], [])
+
+        creation = {
+            "filename": "Faye Chen.md", "korean": "파이 첸", "english": "Faye Chen", "aliases": [],
+            "gender": "female", "role": "Hunter", "personality": "Calm", "voice": "Dry",
+            "relationships": "Felix",
+        }
+        legacy = body.replace("- **Gender:** unknown\n", "")
+        files = self.gender_update_files(legacy, [], [creation])
+        merged = files[self.root / "characters" / "Faye Chen.md"]
+        self.assertIn("- **Aliases:** None\n- **Gender:** female\n", merged)
+
     def test_durable_files_merges_creation_into_existing_profile(self):
         (self.root / "docs" / "workflow.json").write_text(
             json.dumps({**workflow.DEFAULT_CONFIG, "version": 1}), encoding="utf-8"

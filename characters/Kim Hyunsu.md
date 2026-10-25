@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 220
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Deceased four-month Hunter and Jin Taekyung’s comrade; the first victim of the incident three years earlier, killed when the Black Wyvern’s tail crushed him.
 - **Personality:** Slow-moving but enthusiastic about learning; repeatedly sought Taekyung’s instruction.
 - **Voice:** Respectful and question-driven in remembered speech.

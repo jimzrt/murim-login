@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 949
 - **Aliases:** Blood Wolf Sword
+- **Gender:** male
 - **Role:** Former Sect Leader of the Mount Heng Sword Sect, killed during the Red Wind Band’s assault; father of Lee Seogeun and Lee Seowol
 - **Personality:** Grief-stricken, resolute, and fiercely vengeful
 - **Voice:** Quietly mournful when addressing his son; firm and uncompromising when declaring revenge

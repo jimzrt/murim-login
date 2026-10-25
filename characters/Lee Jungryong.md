@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 843
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Former Vice Guild Master of Ares Guild, one of Korea's two S-rank Hunters, and a Supreme Peak-level martial artist who was killed by Jin Taekyung.
 - **Personality:** Outwardly genial, calm, and humorous; calculating, opportunistic, manipulative, coercive, and ruthless when challenged
 - **Voice:** Smooth, good-natured, and indirect, using teasing conversation and veiled threats before becoming openly furious

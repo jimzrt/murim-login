@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 510
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** First Rate Lower District Sect martial artist who posed as the carriage driver for Wolhwa's group
 - **Personality:** Silent, disciplined, and lethal; obeys Wolhwa's instructions without hesitation
 - **Voice:** Nearly silent; communicates through concise action rather than speech

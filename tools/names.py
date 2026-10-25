@@ -9,9 +9,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 KOREAN = re.compile(r"[가-힣]{2,}")
 TABLE_ROW = re.compile(r"^\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|.*$")
-HEADING = re.compile(r"^#\s+(.+?)\s*\(([가-힣]{2,})\)\s*$")
+# Ledger keys may contain spaces: 파이 첸, 김 집사, 지크프리트 바스만.
+KOREAN_KEY = re.compile(r"[가-힣]+(?: [가-힣]+)*")
+HEADING = re.compile(r"^#\s+(.+?)\s*\(([가-힣]+(?: [가-힣]+)*)\)\s*$")
 ALIAS_LINE = re.compile(r"^- \*\*Aliases:\*\*\s*(.+)$")
-ALIAS_PAIR = re.compile(r"([^;,(]+?)\s*\(([가-힣]{2,})\)")
+ALIAS_PAIR = re.compile(r"([^;,(]+?)\s*\(([가-힣]+(?: [가-힣]+)*)\)")
+GENDER_LINE = re.compile(r"^- \*\*Gender:\*\*\s*(.*)$", re.MULTILINE)
+GENDERS = ("female", "male", "unknown")
 
 CHOSEONG = ["g", "kk", "n", "d", "tt", "r", "m", "b", "pp", "s", "ss", "", "j", "jj", "ch", "k", "t", "p", "h"]
 JUNGSEONG = [
@@ -22,6 +26,12 @@ JONGSEONG = [
     "", "k", "k", "k", "n", "n", "n", "t", "l", "l", "l", "l", "l", "l", "l", "l",
     "m", "p", "p", "t", "t", "ng", "t", "t", "k", "t", "p", "t",
 ]
+
+
+def is_korean_key(value: str) -> bool:
+    """Hangul words separated by single spaces, at least two syllables."""
+    value = value.strip()
+    return KOREAN_KEY.fullmatch(value) is not None and len(value.replace(" ", "")) >= 2
 
 
 def strip_english(value: str) -> str:
@@ -60,12 +70,50 @@ def profile_koreans(body: str) -> list[str]:
     for line in body.splitlines():
         heading = HEADING.match(line)
         if heading:
-            names.append(heading.group(2))
+            if is_korean_key(heading.group(2)):
+                names.append(heading.group(2))
             continue
         aliases = ALIAS_LINE.match(line)
         if aliases:
-            names.extend(match.group(2) for match in ALIAS_PAIR.finditer(aliases.group(1)))
+            names.extend(
+                match.group(2)
+                for match in ALIAS_PAIR.finditer(aliases.group(1))
+                if is_korean_key(match.group(2))
+            )
     return names
+
+
+def normalize_gender(value: object) -> str:
+    """Profile gender is female, male, or unknown; anything else is unknown."""
+    if not isinstance(value, str):
+        return "unknown"
+    words = re.findall(r"[a-z]+", value.casefold())
+    return words[0] if words and words[0] in GENDERS else "unknown"
+
+
+def profile_gender(body: str) -> str:
+    match = GENDER_LINE.search(body)
+    return normalize_gender(match.group(1)) if match else "unknown"
+
+
+def set_profile_gender(body: str, gender: str) -> str:
+    """Write one Gender line, placed after Aliases (or Safe through)."""
+    line = f"- **Gender:** {normalize_gender(gender)}"
+    if GENDER_LINE.search(body):
+        return GENDER_LINE.sub(line, body, count=1)
+    lines = body.splitlines()
+    anchor = None
+    for index, text in enumerate(lines):
+        if text.startswith("- **Aliases:**"):
+            anchor = index
+            break
+        if text.startswith("- **Safe through:**"):
+            anchor = index
+    if anchor is None:
+        raise ValueError("character profile has no Aliases or Safe through line")
+    lines.insert(anchor + 1, line)
+    text = "\n".join(lines)
+    return text + "\n" if body.endswith("\n") else text
 
 
 def _row(korean: str, english: str, note: str = "") -> dict:
@@ -77,7 +125,7 @@ def _row(korean: str, english: str, note: str = "") -> dict:
 
 def _add(index: dict[str, dict], korean: str, english: str, *, overwrite: bool = False) -> None:
     korean = korean.strip()
-    if not KOREAN.fullmatch(korean):
+    if not is_korean_key(korean):
         return
     if korean in index and not overwrite:
         return
@@ -93,7 +141,7 @@ def _load_table(path: Path, index: dict[str, dict], *, overwrite: bool) -> None:
             continue
         korean = match.group(1).strip()
         english = match.group(2).strip()
-        if not KOREAN.fullmatch(korean):
+        if not is_korean_key(korean):
             continue
         if korean in index and not overwrite:
             continue
@@ -130,7 +178,7 @@ def unique_korean_for_english(english: str, extra: list[tuple[str, str]] | None 
         return None
     found: list[str] = []
     for korean, label in extra or []:
-        if strip_english(label).casefold() == needle and KOREAN.fullmatch(korean.strip()):
+        if strip_english(label).casefold() == needle and is_korean_key(korean):
             found.append(korean.strip())
     directory = ROOT / "characters"
     if directory.is_dir():

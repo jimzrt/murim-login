@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -16,9 +17,14 @@ ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "docs" / "final.json"
 BRIEF_PATH = ROOT / "FINAL.md"
 IN_FLIGHT = {"RUNNING", "QA_FAILED", "READY_TO_COMMIT"}
+PROFILE_DIR = ROOT / "characters"
+ROLE_LIMIT = 300
+ALIASES_LIMIT = 200
 
 try:
     from tools.final_qa import assess, normalize_reading_copy
+    from tools.name_check import name_at_boundary, name_corrections
+    from tools.names import ALIAS_LINE, HEADING, profile_gender, profile_koreans
     from tools.mastering import (
         atomic_json,
         atomic_text,
@@ -34,6 +40,8 @@ try:
 except ModuleNotFoundError:
     sys.path.insert(0, str(ROOT / "tools"))
     from final_qa import assess, normalize_reading_copy
+    from name_check import name_at_boundary, name_corrections
+    from names import ALIAS_LINE, HEADING, profile_gender, profile_koreans
     from mastering import (
         atomic_json,
         atomic_text,
@@ -149,7 +157,84 @@ Convert every won amount with these rates. In each footnote, give dollars first 
 """
 
 
-def build_packet(number: int, source: str, baseline: str, glossary: list[dict], cfg: dict) -> str:
+def _shorten(text: str, limit: int) -> str:
+    text = " ".join(text.split())
+    if len(text) <= limit:
+        return text
+    sentence = re.match(r"^(.{40,}?[.;])\s", text[: limit + 1])
+    if sentence:
+        return sentence.group(1)
+    return text[: limit - 1].rstrip(" ,;") + "…"
+
+
+def _field(body: str, name: str) -> str:
+    match = re.search(rf"^- \*\*{re.escape(name)}:\*\*\s*(.*)$", body, re.MULTILINE)
+    return match.group(1).strip() if match else ""
+
+
+def matching_profiles(source: str, directory: Path = PROFILE_DIR) -> list[dict]:
+    """Compact identity cards for profiled characters named in this source.
+
+    Ordered by how often the Korean names occur, so trimming for the packet
+    budget drops the least-present characters first.
+    """
+    cards: list[dict] = []
+    if not directory.is_dir():
+        return cards
+    for path in sorted(directory.glob("*.md")):
+        body = path.read_text(encoding="utf-8")
+        names = [name for name in profile_koreans(body) if name in source and name_at_boundary(source, name)]
+        if not names:
+            continue
+        heading = next((HEADING.match(line) for line in body.splitlines() if HEADING.match(line)), None)
+        if heading is None:
+            continue
+        aliases = next((ALIAS_LINE.match(line) for line in body.splitlines() if ALIAS_LINE.match(line)), None)
+        cards.append({
+            "english": heading.group(1).strip(),
+            "korean": heading.group(2),
+            "aliases": _shorten(aliases.group(1), ALIASES_LIMIT) if aliases else "None",
+            "gender": profile_gender(body),
+            "role": _shorten(_field(body, "Role") or "Not established.", ROLE_LIMIT),
+            "hits": sum(source.count(name) for name in names),
+        })
+    cards.sort(key=lambda card: (-card["hits"], card["english"]))
+    return cards
+
+
+def profiles_text(cards: list[dict], omitted: int = 0) -> str:
+    if not cards:
+        return "(No profiled characters are named in this chapter.)"
+    lines = [
+        f"- **{card['english']}** ({card['korean']}) — gender: {card['gender']}; "
+        f"aliases: {card['aliases']}; role: {card['role']}"
+        for card in cards
+    ]
+    if omitted:
+        lines.append(f"- ({omitted} less-present profiles omitted for the packet budget.)")
+    return "\n".join(lines)
+
+
+def corrections_text(corrections: list[dict]) -> str:
+    if not corrections:
+        return "(None.)"
+    return "\n".join(
+        f"- {item['korean']}: replace {', '.join(f'“{variant}”' for variant in item['found'])} "
+        f"with “{item['preferred']}” everywhere in the chapter."
+        for item in corrections
+    )
+
+
+def build_packet(
+    number: int,
+    source: str,
+    baseline: str,
+    glossary: list[dict],
+    cfg: dict,
+    profiles: list[dict] | None = None,
+    corrections: list[dict] | None = None,
+    omitted_profiles: int = 0,
+) -> str:
     brief = read_text(BRIEF_PATH).strip()
     return f"""# Final Touches — Chapter {number}
 
@@ -159,6 +244,21 @@ def build_packet(number: int, source: str, baseline: str, glossary: list[dict], 
 ## Exact glossary matches for this Korean chapter
 
 {glossary_text(glossary)}
+
+## Characters named in this chapter
+
+Identity only, safe for this chapter. Use these for pronouns and names. Gender
+`unknown` means the source has not settled it: do not change the mastered
+pronouns for that character. Never turn these cards into footnotes.
+
+{profiles_text(profiles or [], omitted_profiles)}
+
+## Required name corrections
+
+The mastered English uses a known wrong spelling of these names. Fix every
+occurrence; final QA rejects the chapter otherwise.
+
+{corrections_text(corrections or [])}
 
 ## Korean source
 
@@ -178,11 +278,36 @@ Apply the final-touches brief to this chapter only. Return only the complete Eng
 """
 
 
+def packet_tokens(text: str) -> int:
+    return (len(text.encode("utf-8")) + 3) // 4
+
+
 def enforce_budget(text: str, cfg: dict) -> None:
-    estimate = (len(text.encode("utf-8")) + 3) // 4
+    estimate = packet_tokens(text)
     limit = int(cfg["packet_token_limit"])
     if estimate > limit:
         raise SystemExit(f"final packet estimate {estimate} exceeds limit {limit}")
+
+
+def fitted_packet(
+    number: int,
+    source: str,
+    baseline: str,
+    glossary: list[dict],
+    cfg: dict,
+    profiles: list[dict],
+    corrections: list[dict],
+) -> str:
+    """Drop the least-present profiles until the packet fits its token limit."""
+    limit = int(cfg["packet_token_limit"])
+    kept = list(profiles)
+    while True:
+        packet = build_packet(
+            number, source, baseline, glossary, cfg, kept, corrections, len(profiles) - len(kept)
+        )
+        if packet_tokens(packet) <= limit or not kept:
+            return packet
+        kept.pop()
 
 
 def slice_chapter(text: str, number: int) -> str:
@@ -241,7 +366,15 @@ def command_run(number: int) -> None:
     source = current_source(number)
     atomic_text(paths["source"], source)
     glossary = exact_glossary(source)
-    packet = build_packet(number, source, baseline, glossary, cfg)
+    packet = fitted_packet(
+        number,
+        source,
+        baseline,
+        glossary,
+        cfg,
+        matching_profiles(source),
+        name_corrections(source, baseline),
+    )
     enforce_budget(packet, cfg)
     atomic_text(paths["packet"], packet)
     save_state(

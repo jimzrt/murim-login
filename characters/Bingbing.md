@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 514
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Child fleeing the Monster Wave with her mother in the reconnaissance footage.
 - **Personality:** Frightened after witnessing her mother's death.
 - **Voice:** Childlike and panicked; cries out for Mommy.

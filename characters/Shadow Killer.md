@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 520
 - **Aliases:** None
+- **Gender:** male
 - **Role:** The Hidden Shadow Pavilion's finest agent and Song Ho's subordinate; he is currently escorting Jin Taekyung and Jeok Cheongang into the Murim Alliance's Inner City.
 - **Personality:** Disciplined and loyal; when captured, he attempted to bite a poison pellet rather than reveal information.
 - **Voice:** His internal narration is terse and grim; his sustained spoken voice is not established before he is incapacitated.

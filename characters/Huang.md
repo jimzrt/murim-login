@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 68
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Sect Leader of Song Sword Sect, a small-to-medium sect in central Shanxi
 - **Personality:** Cautious, anxious under pressure, and politically pragmatic
 - **Voice:** Polite and deferential when speaking with a stronger martial artist

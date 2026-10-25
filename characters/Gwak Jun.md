@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 164
 - **Aliases:** None revealed
+- **Gender:** male
 - **Role:** Level 40 martial artist of the Three Paths Sect
 - **Personality:** Friendly and cheerful as a cover for cold, fanatical violence; fearless, intensely confident, and eager for battle
 - **Voice:** Cheerful and casual, with blunt conviction beneath his jokes

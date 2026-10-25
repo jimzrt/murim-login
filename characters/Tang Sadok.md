@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1140
 - **Aliases:** Myriad-Poison Asura
+- **Gender:** male
 - **Role:** Current Family Head of the Sichuan Tang Clan, overseeing its recovery and relying on allied martial artists to help treat patients and guard against another Dark Heaven attack.
 - **Personality:** Blunt and unsentimental, yet grateful to those who remain with the Tang Clan; he has consciously chosen to change and speaks candidly about the clan’s vulnerability.
 - **Voice:** Hissing, curt, authoritative, and threatening.

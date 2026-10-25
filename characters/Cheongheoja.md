@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1128
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Cheongheoja is the Kunlun Sect Leader and Hak Woo’s master.
 - **Personality:** Warm, composed, and patient, he faces setbacks with resolve and receives even startling company with good humor.
 - **Voice:** Measured and gentle, using formal Daoist courtesies and calm metaphors.

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 100
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** B-rank Hunter and Security Team Leader of Sangdong Guild; led the failed field operation against Jin Taekyung
 - **Personality:** Ambitious, opportunistic, ruthless, and overconfident about his advantage over a C-rank Hunter
 - **Voice:** Commanding, dismissive, profane, and calm when directing dangerous actions

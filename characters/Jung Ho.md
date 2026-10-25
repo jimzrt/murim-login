@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1182
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Middle-aged Shaolin martial monk and Master of Shaolin's Discipline Hall who leads the traveling group and wields a Zen staff hung with prayer beads.
 - **Personality:** Humble, observant, principled, and concerned with the safety of commoners.
 - **Voice:** Formal, restrained, and admonitory, with Buddhist phrasing.

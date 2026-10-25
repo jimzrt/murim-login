@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1120
 - **Aliases:** Green Forest Battle King
+- **Gender:** unknown
 - **Role:** Tae Gunak is the Green Forest Battle King and the founder of the current Green Forest Alliance.
 - **Personality:** Ruthless in pursuing what he wants, he is strategic enough to set aside his longstanding rivalry with Pa Ryun when their plan requires cooperation.
 - **Voice:** He speaks in profane, cutting taunts and refers to himself as 노부.

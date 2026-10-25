@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 547
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Family Head of the Hwangbo Family, an Outer Hall Squad Leader of the Murim Alliance responsible for regional defenses, and father of its only son, the Lesser Family Head.
 - **Personality:** Status-conscious, politically resentful, and fiercely protective of his only son; willing to exaggerate grievances to secure favorable treatment.
 - **Voice:** Formally deferential toward superiors but aggrieved and forceful when defending his family's standing.

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 392
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Supreme commander responsible for the front who issued the operation that killed approximately one hundred Hunters and hundreds of soldiers.
 - **Personality:** Self-focused and panic-stricken when confronted with the operation's failure.
 - **Voice:** Horrified and panicked, with his concern centered on the failed operation.

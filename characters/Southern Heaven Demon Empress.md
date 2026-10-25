@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1025
 - **Aliases:** None
+- **Gender:** female
 - **Role:** The Southern Heaven Demon Empress was Honglan, the creator of the rift behind the Inner Palace, and was killed after the rift closed.
 - **Personality:** Playful, cruel, confident, and casually dismissive of mass death and the suffering of others.
 - **Voice:** Light, taunting, amused, and delighted even when discussing murder or imminent catastrophe.

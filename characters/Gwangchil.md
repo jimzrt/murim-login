@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 112
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Former mounted-bandit boss who took in thirteen-year-old Pung Yang and offered to teach him martial arts; killed by a First Rate master one year later
 - **Personality:** Rough, pragmatic, and willing to feed and recruit a dangerous child
 - **Voice:** Blunt, colloquial, and profane

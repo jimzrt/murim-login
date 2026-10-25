@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 627
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Hwang Gae manages a pavilion within the Nanman Beast Palace.
 - **Personality:** Hwang Gae's personality is not established.
 - **Voice:** Hwang Gae has no established speaking voice.

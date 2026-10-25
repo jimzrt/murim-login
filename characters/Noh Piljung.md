@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 310
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Middle-aged escort captain of the Yongbong Escort Bureau and one of its Dragon-Phoenix Three Escorts; one of the few bureau personnel who knows about the secret Thousand-Year Snow Ginseng cargo.
 - **Personality:** Not established beyond being regarded as an outstanding senior escort captain.
 - **Voice:** Not established.

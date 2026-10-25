@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1191
 - **Aliases:** Roaring Fury Swordsman
+- **Gender:** male
 - **Role:** Elder of the Zhongnan Sect, known as the Roaring Fury Swordsman and one of Sect Leader Gong Iljung’s two Senior Brothers.
 - **Personality:** Arrogant and domineering, but capable of remorse over choices that harmed his sect and those he failed to protect.
 - **Voice:** Gruff, cutting, condescending, and threatening, with formal authority used to pressure those beneath him.

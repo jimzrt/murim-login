@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 711
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Wang Ho is the Commander of the Baekcheon Unit.
 - **Personality:** Not established.
 - **Voice:** Formal and deferential when addressing the Palace Lord.

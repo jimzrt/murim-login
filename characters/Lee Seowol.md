@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 997
 - **Aliases:** None
+- **Gender:** female
 - **Role:** Lee Seowol is the eighteen-year-old Sect Leader of the reconstructed and rapidly growing Mount Heng Sword Sect, a vassal of the Jin Family of Taiyuan who still awaits Taekyung’s answer to her marriage proposal.
 - **Personality:** Cold, commanding, and composed; capable of stopping a fierce confrontation with a calm request
 - **Voice:** Clear and cool, gentle with Cheol Mubaek but frost-cold and firm when asserting her authority

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 385
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Felix Alexander Louis is a British prince, third in line to the throne, and Duke of Cambridge, Earl of Strathearn, Baron Carrickfergus, and knight of the Garter and Thistle.
 - **Personality:** Eccentric, arrogant, condescending, and theatrically benevolent.
 - **Voice:** Formal, self-important, patronizing, and fond of ceremonial language.

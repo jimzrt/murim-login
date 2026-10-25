@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 982
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Cheolyeong is the current Family Head of the Peng Family in Hebei.
 - **Personality:** Not established.
 - **Voice:** Not established

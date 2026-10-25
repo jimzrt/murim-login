@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 25
 - **Aliases:** None revealed
+- **Gender:** unknown
 - **Role:** First Rate wandering martial artist; Jopil’s right-hand man
 - **Personality:** Ruthless participant in Jopil’s hunt; deferential to Jopil’s command
 - **Voice:** No distinctive speech pattern established

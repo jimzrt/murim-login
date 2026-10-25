@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 667
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Dogok is a member of the Beast Miao King's personal guard, the Seven Miao Tigers.
 - **Personality:** No personality traits are established.
 - **Voice:** No distinctive voice is established.

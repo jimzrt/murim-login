@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 310
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Maid of the Yongbong Escort Bureau who passed along rumors about Song Ilseom's feelings and behavior toward Ju Hwaran.
 - **Personality:** Not established.
 - **Voice:** Not established.

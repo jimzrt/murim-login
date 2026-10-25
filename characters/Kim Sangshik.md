@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 275
 - **Aliases:** Team Leader Kim; Mr. Kim Sangshik
+- **Gender:** male
 - **Role:** Former founding member and team leader of Sopung Guild; D-rank Hunter; worked there for more than twenty years before being fired after an employment-corruption accusation; previously goaded the Guild Master into firing Jin Taekyung
 - **Personality:** Petty, self-serving, resentful, and opportunistic; prioritizes status and money over loyalty or fairness
 - **Voice:** Breezy and falsely cordial in public, then insulting and abusive when angry; eager and obsequious when recruiting for the Guild

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 47
 - **Aliases:** None revealed
+- **Gender:** unknown
 - **Role:** Newly recognized C-rank Hunter; Sangdong Guild candidate
 - **Personality:** Not yet established
 - **Voice:** Not yet established

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 229
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Level 95 early-Peak Huashan martial artist, second junior disciple of Baek Museong, second of the Three Plum Blossom Elites, and wielder of the Defeated Flower Fist.
 - **Personality:** Blunt, defensive, physically intimidating, short-sighted, quick-tempered, coarse, and unconcerned with personal cleanliness.
 - **Voice:** Hearty, casual, and blunt, with crude insults, indignant protests, and a competitive streak when provoked.

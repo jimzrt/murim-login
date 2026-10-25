@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 567
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Ares Guild Director and elder-generation power broker nearing honorary retirement who informed Go Se-won about Song Cheonwoo's meeting.
 - **Personality:** Perceptive and pragmatic, choosing comfort and survival as his remaining years diminish.
 - **Voice:** Not established.

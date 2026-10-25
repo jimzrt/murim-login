@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 525
 - **Aliases:** Blood Rakshasa
+- **Gender:** female
 - **Role:** Former Emei Sect Leader and its sole Supreme Peak master, she was killed with three Elders by the one-armed Western Heaven Demon Lord.
 - **Personality:** Forthright and fearless toward enemies.
 - **Voice:** Not established.

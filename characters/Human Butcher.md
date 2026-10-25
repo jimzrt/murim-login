@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1189
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Former mysterious Han Chinese mounted-bandit power in Northern Gaoyuan commanding fifty subordinates; a Peak master killed by an unnamed old man in a single move
 - **Personality:** Cold, intimidating, and murderous; he kills people as though slaughtering livestock
 - **Voice:** Cold, curt, and quietly threatening

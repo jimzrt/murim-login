@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 50
 - **Aliases:** None revealed
+- **Gender:** unknown
 - **Role:** Sopung Guild member; newly recognized D-rank Awakened Hunter
 - **Personality:** Not yet established
 - **Voice:** Not yet established

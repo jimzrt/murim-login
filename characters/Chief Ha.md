@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 201
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** One of Seok Family Manor's five Outer Stewards, with substantial authority; he represents the manor in its proposal to cooperate with the Jin Family of Taiyuan in Shanxi's merchant world.
 - **Personality:** Deferential, profit-minded, and calculating enough to make a generous offer when the Jin Family's future appears promising.
 - **Voice:** Polite, ingratiating, and commercially persuasive.

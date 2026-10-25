@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 409
 - **Aliases:** Bones
+- **Gender:** male
 - **Role:** The Skeleton Warlord is an undead commander captured by Jin Taekyung and forced to accompany him into the battle against the Arch Lich.
 - **Personality:** Reluctant, sarcastic, melodramatic, and unusually preoccupied with its bones and appearance.
 - **Voice:** Formal and grandiose, referring to itself as this commander while complaining theatrically.

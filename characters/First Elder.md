@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 62
 - **Aliases:** None revealed
+- **Gender:** unknown
 - **Role:** First Elder of the Jin Family of Taiyuan; leader within the Head Elder's faction
 - **Personality:** Secretive, calculating, and ruthless
 - **Voice:** Direct and taunting when revealing the betrayal

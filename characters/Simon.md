@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 767
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Simon is a reporter covering the Munich incident and the imminent UN vote on reestablishing the World Hunter Federation.
 - **Personality:** Well-informed, teasing, confident in his sources, and comfortable withholding details until they have value.
 - **Voice:** Light, evasive, and playfully provocative.

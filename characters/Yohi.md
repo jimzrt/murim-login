@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 723
 - **Aliases:** None
+- **Gender:** female
 - **Role:** Yohi is the female Great Chieftain of the Yao people who was pardoned after helping evacuate Outer Palace tribespeople and became the first advocate of abolishing the Great Chieftain system.
 - **Personality:** Yohi is charismatic, proud, perceptive, and fiercely resistant to Heugung's betrayal and coercion.
 - **Voice:** Not established.

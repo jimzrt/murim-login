@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 960
 - **Aliases:** None
+- **Gender:** male
 - **Role:** The Dongting Fisherman was an unaffiliated previous-generation Supreme Peak master whose water arts rivaled the Seafaring King; he died fighting the Jin Family of Taiyuan’s enemies at Eight Spring Gorge.
 - **Personality:** The Dongting Fisherman is fiercely confident and sardonic, and he is determined to repay the Jin Family of Taiyuan and avenge himself on Dark Heaven.
 - **Voice:** He speaks in measured, old-fashioned phrasing, calling himself 노부 and using fishing metaphors in dry taunts.
