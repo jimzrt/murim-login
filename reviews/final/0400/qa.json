@@ -1,0 +1,24 @@
+{
+  "chapter": 400,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.095,
+    "source_characters": 5883,
+    "source_paragraphs": 196,
+    "translation_characters": 12325,
+    "translation_paragraphs": 208
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "name_absent",
+      "details": {
+        "korean": "검은 기사",
+        "preferred": "Black Knight"
+      },
+      "message": "a profiled character named in the source is absent from the English"
+    }
+  ]
+}
