@@ -1,0 +1,40 @@
+{
+  "chapter": 796,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.332,
+    "source_characters": 5799,
+    "source_paragraphs": 155,
+    "translation_characters": 13525,
+    "translation_paragraphs": 116
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "야마토",
+        "romanization": "yamato"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "무타구치",
+        "romanization": "mutaguchi"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "와사비",
+        "romanization": "wasabi"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
