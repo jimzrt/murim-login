@@ -1,0 +1,24 @@
+{
+  "chapter": 417,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 2.217,
+    "source_characters": 5635,
+    "source_paragraphs": 179,
+    "translation_characters": 12494,
+    "translation_paragraphs": 203
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "명동",
+        "romanization": "myeongdong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
