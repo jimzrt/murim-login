@@ -343,12 +343,6 @@ Ding.
 >
 > Quest reward…
 
-> **System**
->
-> Quest **One Step Back** was completed successfully!
->
-> Quest reward…
-
 The fading sound of the System notification was the last thing I heard before falling into a deep sleep.
 
 * * *
