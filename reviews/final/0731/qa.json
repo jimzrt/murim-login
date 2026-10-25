@@ -1,0 +1,24 @@
+{
+  "chapter": 731,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.991,
+    "length_ratio": 1.824,
+    "source_characters": 6415,
+    "source_paragraphs": 177,
+    "translation_characters": 11704,
+    "translation_paragraphs": 158
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "동치미",
+        "romanization": "dongchimi"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
