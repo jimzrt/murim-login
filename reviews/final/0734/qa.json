@@ -1,0 +1,24 @@
+{
+  "chapter": 734,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 1.98,
+    "source_characters": 5625,
+    "source_paragraphs": 153,
+    "translation_characters": 11137,
+    "translation_paragraphs": 143
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "육개장",
+        "romanization": "yukgaejang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
