@@ -1,0 +1,24 @@
+{
+  "chapter": 730,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 1.827,
+    "source_characters": 5603,
+    "source_paragraphs": 177,
+    "translation_characters": 10239,
+    "translation_paragraphs": 160
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "천태",
+        "romanization": "cheontae"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
