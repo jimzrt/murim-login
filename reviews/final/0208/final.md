@@ -43,14 +43,6 @@ Ding.
 >
 > - Level Up!
 
-> **System**
->
-> - You have defeated **Lv.85 Ogre**!
->
-> - You have acquired a considerable amount of EXP!
->
-> - Level Up!
-
 “Oh.”
 
 I’d leveled up already.
