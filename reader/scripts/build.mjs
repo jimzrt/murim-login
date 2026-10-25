@@ -1,7 +1,7 @@
 import { spawnSync } from "node:child_process";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
-import { copyFileSync, mkdirSync, writeFileSync } from "node:fs";
+import { copyFileSync, mkdirSync, readdirSync, writeFileSync } from "node:fs";
 import { generateSW } from "workbox-build";
 
 const readerDir = resolve(dirname(fileURLToPath(import.meta.url)), "..");
@@ -20,7 +20,7 @@ function siteBase() {
 }
 
 const base = siteBase();
-const offlinePath = `${base}offline/`.replace(/\/{2,}/g, "/");
+const offlinePage = `${base}offline/index.html`.replace(/\/{2,}/g, "/");
 
 mkdirSync(publicDir, { recursive: true });
 mkdirSync(assetsDir, { recursive: true });
@@ -77,31 +77,69 @@ writeFileSync(
   ),
 );
 
+// Hashed Astro bundles live in a durable runtime cache instead of the precache:
+// the precache drops a previous build's files on update, which would leave
+// pages cached under that build unable to boot offline. sw-assets.js seeds the
+// current build's bundles on install and on activate prunes only bundles that
+// neither this build nor any cached page still references.
+const astroAssets = readdirSync(resolve(outDir, "_astro"))
+  .filter((name) => /\.(?:js|css|woff2)$/.test(name))
+  .map((name) => `${base}_astro/${name}`);
+writeFileSync(
+  resolve(outDir, "sw-assets.js"),
+  `const ASSET_CACHE = "astro-assets";
+const PAGE_CACHE = "pages";
+const ASSETS = ${JSON.stringify(astroAssets)};
+
+self.addEventListener("install", (event) => {
+  event.waitUntil(
+    caches.open(ASSET_CACHE).then(async (cache) => {
+      const missing = [];
+      for (const url of ASSETS) {
+        if (!(await cache.match(url))) {
+          missing.push(url);
+        }
+      }
+      await cache.addAll(missing);
+    }),
+  );
+});
+
+self.addEventListener("activate", (event) => {
+  event.waitUntil(
+    (async () => {
+      const keep = new Set(ASSETS.map((url) => new URL(url, self.location.href).href));
+      const pages = await caches.open(PAGE_CACHE);
+      for (const request of await pages.keys()) {
+        const response = await pages.match(request);
+        const html = response ? await response.text() : "";
+        for (const match of html.matchAll(/["'(]([^"'()\\s]*\\/_astro\\/[^"'()\\s]+)/g)) {
+          keep.add(new URL(match[1], request.url).href);
+        }
+      }
+      const assets = await caches.open(ASSET_CACHE);
+      for (const request of await assets.keys()) {
+        if (!keep.has(request.url)) {
+          await assets.delete(request);
+        }
+      }
+    })().catch(() => {}),
+  );
+});
+`,
+);
+
 const { count, size, warnings } = await generateSW({
   globDirectory: outDir,
-  globPatterns: [
-    "offline/**",
-    "**/*.{js,css,ico,svg,woff2,webmanifest}",
-    "cover.jpg",
-    "favicon.svg",
-  ],
-  globIgnores: ["index.html", "chapters.json", "pagefind/**"],
+  globPatterns: ["offline/**", "cover.jpg", "favicon.svg", "manifest.webmanifest"],
   swDest: resolve(outDir, "sw.js"),
-  navigateFallback: offlinePath,
-  navigateFallbackDenylist: [
-    /\/pagefind\//,
-    /\/web(?:\/|$)/,
-    /\/api(?:\/|$)/,
-    /\/auth(?:\/|$)/,
-    /\/email(?:\/|$)/,
-    /\/image(?:\/|$)/,
-    /\/avatar(?:\/|$)/,
-    /\/admin(?:\/|$)/,
-  ],
+  importScripts: ["sw-assets.js"],
   skipWaiting: true,
   clientsClaim: true,
   cleanupOutdatedCaches: true,
   sourcemap: false,
+  // No navigateFallback: it would answer every navigation before NetworkFirst.
+  // The offline page is served only when network and the pages cache both miss.
   runtimeCaching: [
     {
       urlPattern: /\/(?:web|api|auth|email|image|avatar|admin)(?:\/|$)/,
@@ -124,14 +162,22 @@ const { count, size, warnings } = await generateSW({
       },
     },
     {
-      urlPattern: ({ request }) => request.mode === "navigate",
+      // Full navigations plus ClientRouter's same-origin HTML fetches (directory URLs).
+      urlPattern: ({ request, url, sameOrigin }) =>
+        request.method === "GET" &&
+        (request.mode === "navigate" ||
+          (sameOrigin && request.destination === "" && url.pathname.endsWith("/"))),
       handler: "NetworkFirst",
       options: {
         cacheName: "pages",
         networkTimeoutSeconds: 4,
+        matchOptions: { ignoreVary: true },
         expiration: {
-          maxEntries: 80,
-          maxAgeSeconds: 60 * 60 * 24 * 14,
+          maxEntries: 150,
+          maxAgeSeconds: 60 * 60 * 24 * 30,
+        },
+        precacheFallback: {
+          fallbackURL: offlinePage,
         },
       },
     },
@@ -139,11 +185,8 @@ const { count, size, warnings } = await generateSW({
       urlPattern: /\/_astro\//,
       handler: "CacheFirst",
       options: {
+        // Pruned by sw-assets.js, not by age or count.
         cacheName: "astro-assets",
-        expiration: {
-          maxEntries: 128,
-          maxAgeSeconds: 60 * 60 * 24 * 365,
-        },
       },
     },
     {
