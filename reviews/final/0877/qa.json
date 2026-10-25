@@ -1,0 +1,24 @@
+{
+  "chapter": 877,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.039,
+    "source_characters": 5486,
+    "source_paragraphs": 142,
+    "translation_characters": 11187,
+    "translation_paragraphs": 138
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "연산",
+        "romanization": "yeonsan"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
