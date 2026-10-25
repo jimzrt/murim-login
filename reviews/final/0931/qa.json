@@ -1,0 +1,24 @@
+{
+  "chapter": 931,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 1.939,
+    "source_characters": 5106,
+    "source_paragraphs": 141,
+    "translation_characters": 9902,
+    "translation_paragraphs": 136
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "동지",
+        "romanization": "dongji"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
