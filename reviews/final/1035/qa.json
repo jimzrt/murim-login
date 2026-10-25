@@ -1,0 +1,24 @@
+{
+  "chapter": 1035,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.993,
+    "length_ratio": 1.881,
+    "source_characters": 5278,
+    "source_paragraphs": 153,
+    "translation_characters": 9926,
+    "translation_paragraphs": 144
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "방혈",
+        "romanization": "banghyeol"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
