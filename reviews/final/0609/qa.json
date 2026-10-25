@@ -1,0 +1,24 @@
+{
+  "chapter": 609,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 1.992,
+    "source_characters": 5668,
+    "source_paragraphs": 168,
+    "translation_characters": 11293,
+    "translation_paragraphs": 166
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "효자손",
+        "romanization": "hyojason"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
