@@ -1,0 +1,339 @@
+# Chapter 390
+
+Whoosh!
+
+Hot blood sprayed from severed necks in the wake of the Force.
+
+I stepped on the body of an ogre collapsing like a bundle of straw and soared high into the air. Sunlight warmed the back of my neck.
+
+*Perfect weather for a fight.*
+
+It was noon, and the battlefield was a wasteland without a single tree.
+
+My shadow fell across the thousand or so monsters gathered below, the sun at my back. Then I plunged toward them, spear sweeping down.
+
+*Heavenly Strike.*
+
+Boom!
+
+The fire dragon’s claw raked the earth.
+
+A deafening roar split the sky. The ground caved in several meters[^1] deep, sending dirt and shattered stone flying in every direction.
+
+A whirlwind of hot air that erupted in the middle of the battlefield transformed into blades and swept across the monsters.
+
+Fwoooosh!
+
+> **System**
+>
+> Ding. Ding. Ding…
+
+Green blood pattered down through the dust-filled haze as System notifications announced the monsters’ deaths.
+
+I gave my hand a casual sweep, dispersing the cloud of dust. The monsters beyond it stared at me in a daze.
+
+“Chirrik?”
+
+“Krruk?”
+
+Their eyes seemed to ask what the hell was happening. I drew a deep breath and shouted with internal energy behind my voice.
+
+“Sweep them away—!”
+
+And then—
+
+“Waaaaaaaaah!”
+
+Along with an ear-deafening roar, more than a thousand Hunters who had arrived before I knew it descended on the monster army like a wave.
+
+Crunch!
+
+Wham!
+
+Watching the monsters crumble without any chance to resist, I became certain of one thing.
+
+*We’ve won this battle.*
+
+The farming was over. Now it was time to harvest.
+
+I headed toward the Twin-Headed Ogre that appeared to be the boss monster.
+
+For the sake of my precious EXP. No—for the sake of minimizing allied casualties.
+
+“That one’s the leader! Ranged unit!”
+
+“Hey, hey! Hands off! I’ll handle it, so don’t touch a single hair on its head!”
+
+I swear to heaven, I didn’t have even the slightest ulterior motive.
+
+…
+
+Well, on second thought, there was probably no need to swear.
+
+“You despicable human. Your scheme to claim the spoils is plain to see. You never even tried to hide your greed while slaughtering my army!”
+
+“Shut up and do your job, will you? Hurry up and make the undead slaughter their own kind.”
+
+“I was already going to. Grow, skeletons, gro—huh?”
+
+“What’s wrong?”
+
+“Why isn’t my power working? Is this a bug?”
+
+“…Where did you even pick up a word like that?”
+
+The increasingly modernized Skeleton Warlord answered in a dejected voice.
+
+“It seems the Arch Lich’s control grows stronger the deeper we go. Ah, a commander without an army! I cannot express the depth of my sorrow. At this rate, I’m as good as dead!”
+
+…
+
+What did this bastard think he was?
+
+I was tired of reminding him that he was already dead. Sighing inwardly, I charged toward the leader.
+
+* * *
+
+“It’s a crushing victory! Another crushing victory!”
+
+Xiao Shen shouted, his face flushed red. Team Leader Choi and I had already seen this more than ten times, so by now we simply took it in stride.
+
+*Well, I suppose he has reason to be excited.*
+
+It had taken barely two hours to annihilate an army of more than a thousand monsters.
+
+And we had done it without a single death. It really was a monumental victory. Under the circumstances, it would have been stranger not to get excited.
+
+“Our only casualties are twenty-three severely wounded and thirty lightly wounded. Ah, this is incredible…!”
+
+Xiao Shen trembled like a puppy desperate to pee and looked at me with shining eyes.
+
+“How can this happen every time?”
+
+“Hmm. Maybe it’s because I’m strong.”
+
+Team Leader Choi gave me a mildly incredulous look.
+
+“Why?”
+
+“Wouldn’t most people say something modest at a time like this? That they were lucky, for example?”
+
+“Most people would. But what can I do when it wasn’t luck? I really am that strong. Right, Shen?”
+
+Xiao Shen nodded at tremendous speed.
+
+“That’s right! You’re the best, hyung[^2]!”
+
+“You rascal. You’ve turned flattery into an art form.”
+
+……
+
+Team Leader Choi shook his head as he watched us play off each other.
+
+“What?”
+
+“Nothing. Then again, this is very much like you, Mr. Jin.”
+
+What was that supposed to mean? Somehow, it sounded unpleasant.
+
+I shrugged and turned to Xiao Shen.
+
+“More importantly, what about headquarters?”
+
+“Ah, I contacted them before the battle began.”
+
+By “contacted,” he meant that he had sent several Hunters under his command ahead as messengers.
+
+In a world like this, one might wonder why anyone was still using messengers, but there was no choice. With magic making communication and satellite surveillance impossible, our only options were to run like hell or use vehicles.
+
+At least we still had various modern conveniences, including flares.
+
+“They’ll take a while, then.”
+
+“They were already following behind us, so it shouldn’t take too long.”
+
+“You’re probably tired, but pitch some tents and let the men rest. The battle ended quickly, but fighting still takes everything out of you.”
+
+“Shouldn’t we take care of at least the large monsters ourselves? They’d probably be difficult for headquarters to move…”
+
+“That’s a fair point.”
+
+By headquarters, he meant the military forces traveling with us.
+
+The Hunters of the Public Security Armed Forces Department, myself included, would defeat the monsters at the front. Then the military forces following behind would “clean up” the area and the monster corpses.
+
+I called it cleaning up because their goal wasn’t to collect byproducts.
+
+It was cleaning in the literal sense. The army assigned to the western front spent most of its time cutting up dead monsters and transporting the remains to the rear so they couldn’t be resurrected as undead.
+
+“Um, hyung[^2].”
+
+“Yeah? What is it?”
+
+“I was too embarrassed to mention this before, but… it seems some of the high-ranking officers have been saying various things.”
+
+“Saying what?”
+
+Xiao Shen studied my expression before whispering cautiously.
+
+“They’re a little dissatisfied with the role they’ve been assigned…”
+
+“…?”
+
+What the hell was he talking about?
+
+It took me quite a while to understand what Xiao Shen meant. After a long, heavy silence, I spoke with a sinking feeling.
+
+“Don’t tell me they’re saying they want to stop cleaning up monster corpses and win some glory of their own.”
+
+“Yes.”
+
+“Would you look at these crazy bastards.”
+
+The curses came spilling out on their own. Soldiers on the other fronts were dying every day, and these people were sick of cleaning up monster corpses?
+
+Team Leader Choi, who had been listening quietly, spoke in a calm voice.
+
+“Don’t be surprised. A chink did what chinks do.”
+
+That hardly seemed like something he should say in front of nearly a thousand Chinese people, but Chinese people and chinks were, strictly speaking, different races.
+
+Xiao Shen, the representative of all good Chinese people, had turned red with embarrassment.
+
+“I-I’m sorry. But as far as I know, it isn’t all the officers. Only some of them are dissatisfied.”
+
+“Only some of them. Right. But there’s one thing I’d like to know…”
+
+I frowned and pointed over Xiao Shen’s shoulder.
+
+“Does that ‘some’ include the man coming this way?”
+
+In the distance, more than a hundred armored vehicles and tanks were approaching us, kicking up clouds of dust.
+
+* * *
+
+Rattle, clunk!
+
+The vehicle driving along the ruined road bounced up and down. Through the window of the military vehicle I was sitting in, I began to see wrecked rice paddies and fields, along with collapsed homes scattered here and there.
+
+Once the cleanup was finished, I—or rather, *we*—set off for a nearby small city.
+
+“Haha, you’ve truly worked hard, Mr. Jin!”
+
+A paunch even his tightly fastened belt couldn’t hide. A bald crown gleaming beneath the sun.
+
+If not for his military uniform and the three stars on his shoulders, I would never have had any reason to meet the middle-aged man sitting before me.
+
+“I contacted the higher-ups this morning, as it happens. Your victory report has thrown not only the United Nations Security Council but the entire world into an uproar! I don’t know what it means, but apparently Korea calls today the Lady of the House’s memorial day….”[^3]
+
+I had heard enough of his nonstop nonsense. Unable to take any more, I cut him off.
+
+“I don’t care whether the Lady of the House is dead or alive. May I ask you one thing?”
+
+“M-Mr. Jin?”
+
+General Liao, commander in chief of the 13th Group Army of the Chengdu Military Region, which comprised seven divisions and brigades, looked at me uneasily.
+
+“Why—why are you acting like this? Did something happen?”
+
+“I heard something strange today, so I’m a little on edge.”
+
+“Who dared upset you, Mr. Jin? Ask me anything.”
+
+“Right. What I wanted to ask was…”
+
+I continued while staring at General Liao’s greasy, glistening face.
+
+“I heard some officers are extremely dissatisfied because they want to distinguish themselves. I was wondering if you knew anything about that.”
+
+“Ahem.”
+
+So he did know.
+
+The fact that he had known and still done nothing about it was so absurd that I felt strangely calm.
+
+Still, he was technically an ally and a three-star general from another country. I asked in the calmest, politest tone I could manage.
+
+“Could I see the faces of those fucking bastards?”
+
+“Ahem!”
+
+“I mean, what kind of lunatics throw a fit about wanting to win glory at a time like this? It’s not as if they’ll go out and fight themselves. They’ll put ordinary soldiers in front of them and wave their command batons around from the rear, won’t they?”
+
+“Ahem!”
+
+“What the hell do they mean, they’re sick of cleaning up monster corpses? Why? Have they seen so many that they’ve grown fond of them and decided they want to become corpses too? Maybe they won’t come to their senses until they actually fucking die. Goddamn bastards.”
+
+“Ahem!”
+
+“If there are officers like that, tell them to come see me. I’ll put Equipment on them and send them to the very front. They’d make perfect meat shields—”
+
+I suddenly stopped in the middle of my tirade. Cold sweat was pouring from General Liao’s forehead like water from a sprinkler.
+
+“…”
+
+This man was one of those lunatics too.
+
+I had suspected he wasn’t an ordinary madman ever since he started babbling in that underground bunker about whether or not to launch nukes. Now it was clear that he was insane on an entirely different level.
+
+“…General. Are you in your right mind?”
+
+“I-I mean, we need to show what we can do as well. Just a little…”
+
+“What more do you need to show anyone? We’ve been advancing steadily without taking casualties. The Hunters clear the path ahead, and the army follows behind to clean up and rescue civilians. We’re doing a good job. What more are you trying to prove?”
+
+Crack.
+
+At the sight of me popping my knuckles, General Liao hurriedly waved his hands.
+
+“Now, now! Let’s not use informal speech with each other. Considering both my age and my rank, I’m not someone who should be treated this way by you, Mr. Jin.”
+
+“How about I treat you to a bowl upside the head?”
+
+“Wh-what did you say?”
+
+“Nothing. You heard me wrong. Anyway, I understand. Don’t entertain any foolish ideas. From now on, we advance slowly, minimize casualties, and rescue civilians. Understood?”
+
+“…”
+
+Why was this man reacting like that?
+
+The moment I saw General Liao’s eyes rolling around instead of answering, a chill ran down my spine.
+
+*No way…*
+
+“Have you already given the order?”
+
+“W-well, the thing is, I’m currently implicated in a military procurement corruption scandal. This is the point where I need to accomplish something on my own…”
+
+“You fucking bastard!”
+
+Bang!
+
+My kick tore the armored door from its hinges. The driver in the front seat hurriedly slammed on the brakes.
+
+Screeeech!
+
+“Eek!”
+
+General Liao curled into a ball and trembled as he answered in a stammer.
+
+“I-I thought there might be monsters in the small city we’re heading toward, so I deployed some of the Public Security Armed Forces Hunters we were holding in reserve…”
+
+I didn’t need to hear any more. Before I could press him for details, a tremendous roar rang out from the city, now close ahead.
+
+Boom!
+
+A massive explosion. Flames and smoke shot into the sky.
+
+And then—
+
+> **System**
+>
+> Ding.
+
+A System notification announced a Sudden Quest.
+
+[^1]: Several meters is roughly 10–16 ft.
+[^2]: *Hyung* is a Korean term a man uses for an older brother or an older man he is close to.
+[^3]: *Jumo* is a traditional Korean tavern hostess. General Liao’s reference to her “memorial day” turns a call to celebrate with drinks into a reference to the anniversary of her death.

@@ -1,0 +1,80 @@
+{
+  "chapter": 390,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.153,
+    "source_characters": 5823,
+    "source_paragraphs": 167,
+    "translation_characters": 12538,
+    "translation_paragraphs": 167
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태경",
+        "preferred": "Jin Taekyung"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중상",
+        "preferred": "Severe Injury"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중국",
+        "preferred": "China"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "황하",
+        "preferred": "Yellow River"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "부산",
+        "preferred": "Busan"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "경상",
+        "preferred": "Gyeongsang"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
