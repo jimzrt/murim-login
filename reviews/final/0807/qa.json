@@ -1,0 +1,24 @@
+{
+  "chapter": 807,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.028,
+    "source_characters": 5693,
+    "source_paragraphs": 171,
+    "translation_characters": 11547,
+    "translation_paragraphs": 164
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "창에",
+        "romanization": "change"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
