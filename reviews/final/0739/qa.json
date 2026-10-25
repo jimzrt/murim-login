@@ -1,0 +1,32 @@
+{
+  "chapter": 739,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.992,
+    "length_ratio": 2.154,
+    "source_characters": 5518,
+    "source_paragraphs": 120,
+    "translation_characters": 11886,
+    "translation_paragraphs": 74
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "짜장",
+        "romanization": "jjajang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "와사비",
+        "romanization": "wasabi"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
