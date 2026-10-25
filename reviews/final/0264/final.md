@@ -79,12 +79,6 @@ Ding.
 >
 > - You cannot refuse the Quest. The Quest will be forcibly accepted!
 
-> **System**
->
-> - A sudden Quest, **Life-or-Death Crisis**, has been generated!
->
-> - You cannot refuse the Quest. The Quest will be forcibly accepted!
-
 Damn it. What a perfect title for the Quest.
 
 I kicked off the ground and charged. Instead of cursing, I remembered to shout one name.
