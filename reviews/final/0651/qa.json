@@ -1,0 +1,24 @@
+{
+  "chapter": 651,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 1.809,
+    "source_characters": 7061,
+    "source_paragraphs": 169,
+    "translation_characters": 12776,
+    "translation_paragraphs": 159
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "소면",
+        "romanization": "somyeon"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
