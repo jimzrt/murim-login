@@ -1,0 +1,24 @@
+{
+  "chapter": 605,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.994,
+    "length_ratio": 1.98,
+    "source_characters": 5897,
+    "source_paragraphs": 161,
+    "translation_characters": 11674,
+    "translation_paragraphs": 155
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "뽀뽀",
+        "romanization": "ppoppo"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
