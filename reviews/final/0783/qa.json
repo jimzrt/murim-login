@@ -1,0 +1,40 @@
+{
+  "chapter": 783,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 1.959,
+    "source_characters": 5356,
+    "source_paragraphs": 157,
+    "translation_characters": 10493,
+    "translation_paragraphs": 155
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "콰앙",
+        "romanization": "kwaang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "카아앙",
+        "romanization": "kaaang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "콰아아앙",
+        "romanization": "kwaaaang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
