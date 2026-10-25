@@ -11,26 +11,12 @@ Ding.
 >
 > **Y** / **N**
 
-> **System**
->
-> A Sudden Quest, **I’ll Take Only Half the Internal Energy I Digest.**, has been generated.
->
-> Will you accept it?
->
-> **Y** / **N**
-
 Damn it. Why now?
 
 I was dying to check the Quest window.
 
 But I was in the middle of True Qi Guidance. Circulating my own qi would be one thing, but if I let go of control here, I could easily suffer an Internal Injury.
 
-
-> **System**
->
-> - If you do not answer within five seconds, the Quest will be canceled automatically.
->
-> - Five, four, three…
 
 > **System**
 >
@@ -308,30 +294,6 @@ As I pounded the floor and wailed, System notifications pierced my ears.
 
 Ding. Ding. Ding.
 
-
-> **System**
->
-> - **Trance** has been dispelled!
->
-> - **Internal Energy** has risen to 100 years!
->
-> - You have achieved a great feat! You have acquired the Title **I’m a Master**!
->
-> - The Sudden Quest, **I’ll Take Only Half the Internal Energy I Digest.**, has been successfully completed!
->
-> - The Repeat Quest, **Back, Back—Let’s See Your Back!**, has been successfully completed!
->
-> - The realm of **Fire Gate Divine Technique** has risen to **Seven Stars**!
->
-> - You have acquired a massive amount of EXP!
->
-> - **Level Up!**
->
-> …
->
-> …
->
-> …
 
 > **System**
 >

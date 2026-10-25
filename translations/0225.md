@@ -343,12 +343,6 @@ The moment his body collapsed with a wet, rattling gurgle—
 >
 > - You have acquired a considerable amount of EXP!
 
-> **System**
->
-> - You have defeated **Lv. 80 Won Myunghoon**!
->
-> - You have acquired a considerable amount of EXP!
-
 The System announced the enemy’s death.
 
 “Let’s go.”

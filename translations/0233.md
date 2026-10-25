@@ -331,14 +331,6 @@ Beep!
 >
 > 5 seconds, 4 seconds, 3 seconds, 2 seconds…
 
-> **System**
->
-> You have been struck by **Pressure-Point Strike**!
->
-> Your **Sleep Acupoint** has been struck. You cannot resist sleep!
->
-> 5 seconds, 4 seconds, 3 seconds, 2 seconds…
-
 Drowsiness swept over me with the System’s countdown.
 
 As my consciousness blurred, Jeok Cheongang’s voice slowly receded into the distance.

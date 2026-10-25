@@ -373,12 +373,6 @@ Ding.
 >
 > - Would you like to accept the Quest?
 
-> **System**
->
-> - A Sudden Quest, **Three-Move Kill**, has been generated!
->
-> - Would you like to accept the Quest?
-
 I looked into his eyes, which boiled like lava.
 
 These were three moves from none other than the Azure Sky Sword King. Three strikes capable of cleaving mountains and splitting rivers would rain down upon me.

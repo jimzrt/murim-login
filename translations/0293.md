@@ -72,12 +72,6 @@ Ding.
 >
 > - The Title **Trainee** has changed to **Training Instructor**!
 
-> **System**
->
-> - Thanks to your excellent instruction, several people have reached **One Star** in the **Jin Family’s Cultivation Technique**.
->
-> - The Title **Trainee** has changed to **Training Instructor**!
-
 A martial arts drill instructor, huh.
 
 Was this heaven telling me to work them to death for a while?
@@ -337,12 +331,6 @@ They couldn’t be allowed to think of this as suffering. I planned to condition
 “All right, everyone quiet!”
 
 Ding.
-
-> **System**
->
-> - The effect of the Title **Training Instructor** activates!
->
-> - The trainees who heard your shout become tense!
 
 “Form ranks!”
 

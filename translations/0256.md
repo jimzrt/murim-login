@@ -302,14 +302,6 @@ Beep!
 >
 > - An unknown force is rejecting the **Skill**!
 
-> **System**
->
-> - **Qi Sense** has failed!
->
-> - Unable to identify the target!
->
-> - An unknown force is rejecting the **Skill**!
-
 “…!”
 
 What?

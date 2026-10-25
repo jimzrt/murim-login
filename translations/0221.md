@@ -21,24 +21,6 @@ Ding.
 >
 > You have acquired 100 additional Bonus Points!
 
-> **System**
->
-> You have achieved the Achievement **Manifestation of Qi**!
->
-> This is truly an outstanding achievement! An Achievement reward will be granted!
->
-> **Spear Energy** is now available!
->
-> The effect of **Unaffected by a Hundred Poisons** has taken root in your body!
->
-> You have acquired a large amount of EXP!
->
-> **Level Up!**
->
-> **Level Up!**
->
-> You have acquired 100 additional Bonus Points!
-
 The System notifications echoed in my ears like a ringing bell. But my gaze remained fixed solely on the spear.
 
 Ssssss.

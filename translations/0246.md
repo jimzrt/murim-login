@@ -21,26 +21,6 @@
 >
 > **Failure:** Fire King’s Wrath
 
-> **System**
->
-> **Quest**
->
-> **Star-Array Grand Banquet**
->
-> What more needs to be said?
->
-> Go forth without hesitation. Become the champion of this banquet watched by all under heaven, leave your mark on the Murim, and bask in glory!
->
-> **Grade:** Supreme Peak
->
-> **Restriction:** Jin Taekyung
->
-> **Mission:** Win the Star-Array Grand Banquet (Incomplete)
->
-> **Reward:** ???
->
-> **Failure:** Fire King’s Wrath
-
 “……”
 
 I paused at the penalty for failure.
