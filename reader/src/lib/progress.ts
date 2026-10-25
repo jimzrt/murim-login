@@ -7,11 +7,11 @@ const CHAPTER = /^\d{4}$/;
 
 export interface TranslationProgress {
   sourceTotal: number;
-  translated: number[];
-  polished: number[];
-  translatedCount: number;
-  polishedCount: number;
   sourceMax: number;
+  translated: number[];
+  translatedCount: number;
+  /** Source chapters (0..sourceMax) without a translation yet. */
+  missing: number[];
 }
 
 /**
@@ -40,39 +40,21 @@ function chapterNumbers(dir: string, ext: string): number[] {
     .sort((a, b) => a - b);
 }
 
-function isPromoted(root: string, chapter: number): boolean {
-  const statePath = path.join(
-    root,
-    "reviews",
-    "mastering",
-    String(chapter).padStart(4, "0"),
-    "state.json",
-  );
-  if (!fs.existsSync(statePath)) {
-    return false;
-  }
-  try {
-    const state = JSON.parse(fs.readFileSync(statePath, "utf8")) as {
-      stage?: string;
-      qa_passed?: boolean;
-    };
-    return state.stage === "PROMOTED" && Boolean(state.qa_passed);
-  } catch {
-    return false;
-  }
-}
-
 export function loadTranslationProgress(): TranslationProgress {
-  const root = repoRoot();
-  const translated = chapterNumbers(path.join(root, "translations"), ".md");
-  const polished = translated.filter((chapter) => isPromoted(root, chapter));
+  const translated = chapterNumbers(path.join(repoRoot(), "translations"), ".md");
+  const have = new Set(translated);
+  const missing: number[] = [];
+  for (let chapter = 0; chapter <= SOURCE_CHAPTER_MAX; chapter++) {
+    if (!have.has(chapter)) {
+      missing.push(chapter);
+    }
+  }
   return {
     sourceTotal: SOURCE_CHAPTER_TOTAL,
-    translated,
-    polished,
-    translatedCount: translated.length,
-    polishedCount: polished.length,
     sourceMax: SOURCE_CHAPTER_MAX,
+    translated,
+    translatedCount: translated.filter((chapter) => chapter <= SOURCE_CHAPTER_MAX).length,
+    missing,
   };
 }
 

@@ -3,6 +3,25 @@ export {};
 const base = document.documentElement.getAttribute("data-base") || "/";
 const swUrl = `${base.replace(/\/?$/, "/")}sw.js`;
 const expectedScope = new URL(base, window.location.origin).href;
+const UPDATE_CHECK_MS = 30 * 60 * 1000;
+
+// Never reload the page someone is reading. When a deploy ships a new service
+// worker it takes over silently; the next in-app navigation then becomes a full
+// page load so old and new bundles never run side by side.
+let updateReady = false;
+
+document.addEventListener("astro:before-preparation", (event) => {
+  if (!updateReady) {
+    return;
+  }
+  const prep = event as Event & { to: URL; navigationType: string };
+  event.preventDefault();
+  if (prep.navigationType === "traverse") {
+    location.replace(prep.to.href);
+  } else {
+    location.assign(prep.to.href);
+  }
+});
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
@@ -22,13 +41,11 @@ if ("serviceWorker" in navigator) {
         }),
       );
 
-      let pendingReload = false;
+      // The first claim on a fresh install is not an update.
+      let controlled = Boolean(navigator.serviceWorker.controller);
       navigator.serviceWorker.addEventListener("controllerchange", () => {
-        if (!pendingReload) {
-          return;
-        }
-        pendingReload = false;
-        window.location.reload();
+        updateReady ||= controlled;
+        controlled = true;
       });
 
       const registration = await navigator.serviceWorker.register(swUrl, {
@@ -36,20 +53,10 @@ if ("serviceWorker" in navigator) {
         updateViaCache: "none",
       });
 
-      registration.addEventListener("updatefound", () => {
-        const worker = registration.installing;
-        if (!worker) {
-          return;
-        }
-        worker.addEventListener("statechange", () => {
-          if (worker.state === "installed" && navigator.serviceWorker.controller) {
-            pendingReload = true;
-          }
-        });
-      });
-
+      let lastCheck = Date.now();
       document.addEventListener("visibilitychange", () => {
-        if (document.visibilityState === "visible") {
+        if (document.visibilityState === "visible" && Date.now() - lastCheck > UPDATE_CHECK_MS) {
+          lastCheck = Date.now();
           void registration.update();
         }
       });

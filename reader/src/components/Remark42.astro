@@ -102,17 +102,50 @@ const pageTitle = title ?? `Chapter ${chapter}`;
     document.body.appendChild(script);
   }
 
-  document.addEventListener("astro:page-load", mountRemark42);
-  mountRemark42();
+  // Mount only when the comments near the viewport: cheaper, and the iframe's
+  // late growth can't shift the text the reader is on.
+  let observer: IntersectionObserver | null = null;
+  let observedBody: HTMLElement | null = null;
+  function scheduleRemark42() {
+    // astro:page-load also fires on the initial window load; once per page.
+    if (document.body === observedBody) {
+      return;
+    }
+    observedBody = document.body;
+    observer?.disconnect();
+    observer = null;
+    const section = document.querySelector<HTMLElement>("[data-remark42]");
+    if (!section) {
+      return;
+    }
+    if (!("IntersectionObserver" in window)) {
+      mountRemark42();
+      return;
+    }
+    observer = new IntersectionObserver(
+      (entries) => {
+        if (entries.some((entry) => entry.isIntersecting)) {
+          observer?.disconnect();
+          observer = null;
+          mountRemark42();
+        }
+      },
+      { rootMargin: "800px 0px" },
+    );
+    observer.observe(section);
+  }
+
+  document.addEventListener("astro:page-load", scheduleRemark42);
+  scheduleRemark42();
 
   // Theme follows the navy plaque, not the site theme.
-  const observer = new MutationObserver(() => {
+  const themeObserver = new MutationObserver(() => {
     const win = window as Window & {
       REMARK42?: { changeTheme?: (theme: string) => void };
     };
     win.REMARK42?.changeTheme?.("dark");
   });
-  observer.observe(document.documentElement, {
+  themeObserver.observe(document.documentElement, {
     attributes: true,
     attributeFilter: ["data-theme"],
   });
