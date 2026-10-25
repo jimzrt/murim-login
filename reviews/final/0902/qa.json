@@ -1,0 +1,32 @@
+{
+  "chapter": 902,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.016,
+    "source_characters": 5545,
+    "source_paragraphs": 149,
+    "translation_characters": 11178,
+    "translation_paragraphs": 148
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "천세",
+        "romanization": "cheonse"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "천천세",
+        "romanization": "cheoncheonse"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
