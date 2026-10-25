@@ -1,0 +1,24 @@
+{
+  "chapter": 724,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 1.973,
+    "source_characters": 5760,
+    "source_paragraphs": 169,
+    "translation_characters": 11366,
+    "translation_paragraphs": 164
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "만남",
+        "romanization": "mannam"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
