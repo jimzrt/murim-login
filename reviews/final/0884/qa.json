@@ -1,0 +1,24 @@
+{
+  "chapter": 884,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.022,
+    "source_characters": 5453,
+    "source_paragraphs": 139,
+    "translation_characters": 11025,
+    "translation_paragraphs": 130
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "충무로",
+        "romanization": "chungmuro"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
