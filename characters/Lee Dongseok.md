@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 570
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Lee Dongseok is a young Hunter using a changed face and assumed identity to join a freelance team temporarily and enter the Haeundae C-rank Gate while carrying out a life-threatening mission.
 - **Personality:** Stoic, disciplined, dutiful, and intensely loyal to Lee Jungryong, whom he regards as a father.
 - **Voice:** Sparse, formal, and decisive.

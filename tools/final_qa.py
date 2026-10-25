@@ -367,14 +367,21 @@ def assess(
     glossary: list[tuple[str, str]] | None = None,
     *,
     min_baseline_preserved: float = 0.8,
+    name_entries: list[dict] | None = None,
 ) -> dict:
     try:
+        from tools.name_check import check_names
         from tools.qa import run_qa
     except ModuleNotFoundError:
+        from name_check import check_names
         from qa import run_qa
     qa = run_qa(number, source, candidate, glossary or [])
     errors: list[dict] = []
-    warnings = list(qa.get("warnings") or [])
+    # The substring-based terminology warning is noise here (진태 inside 진태경,
+    # 상태 inside 상태창); the precise proper-name check below replaces it.
+    warnings = [item for item in qa.get("warnings") or [] if item.get("code") != "terminology"]
+    names = check_names(source, candidate, name_entries)
+    warnings.extend(names["warnings"])
     for error in qa.get("errors") or []:
         if error.get("code") == "length_ratio":
             ratio = float((error.get("details") or {}).get("ratio") or 0)
@@ -385,6 +392,7 @@ def assess(
                 })
                 continue
         errors.append(error)
+    errors.extend(names["errors"])
     errors.extend(format_errors(candidate))
     missing_headings = missing_panel_headings(baseline, candidate)
     if missing_headings:

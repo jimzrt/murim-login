@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 852
 - **Aliases:** None
+- **Gender:** female
 - **Role:** Living Emei Sect Leader and Supreme Peak master who joins Cheongpung the Ancient Sword in investigating a strange formation linked to Dark Heaven.
 - **Personality:** Ordinarily gentle and patient, she can answer Jeok Cheongang’s teasing with composed, pointed wit.
 - **Voice:** Not established.

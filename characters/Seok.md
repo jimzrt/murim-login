@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 136
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Chief steward of Honghwa Inn who receives Taekyung's party and escorts them to a private annex.
 - **Personality:** Calm, courteous, and service-minded.
 - **Voice:** Polite and calm, with understated humor when describing the hot springs.

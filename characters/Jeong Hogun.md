@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1182
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Jeong Hogun is a Thousand Captain of the Embroidered Uniform Guard who guards the Son of Heaven and leads his thousand guards in battle.
 - **Personality:** Disciplined and resolute, Jeong Hogun is willing to defy an order to protect the Son of Heaven, then obeys when entrusted to remain at his side.
 - **Voice:** Formal and rigid, emphasizing duty to imperial authority.

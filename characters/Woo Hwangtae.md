@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 236
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Level 60 chief of the Seongun Escort Bureau and father of Woo Jintae; arrives at the Jin Family of Taiyuan seeking an audience and apology for his son's humiliation.
 - **Personality:** Proud, status-conscious, volatile, and deeply angered by perceived disrespect toward his family.
 - **Voice:** Blunt and sharp under pressure, becoming explosive when his wounded pride is provoked.

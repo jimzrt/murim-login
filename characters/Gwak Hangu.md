@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 561
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** B-rank Hunter and Branch Leader of Ares Guild's Yeokgok Branch.
 - **Personality:** Hot-tempered under emergency pressure but willing to authorize outside help when lives are at stake.
 - **Voice:** Formal and strained, becoming decisive under pressure.

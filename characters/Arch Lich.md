@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 422
 - **Aliases:** None
+- **Gender:** male
 - **Role:** The Arch Lich is an apex undead monster and master of dark magic who was resurrected after falling into the River of Death.
 - **Personality:** Arrogant, prideful, calculating, and haunted by the human it once feared.
 - **Voice:** Archaic, taunting, and increasingly resolute.

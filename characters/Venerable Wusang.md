@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 666
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Former Sect Leader of the Zhongnan Sect, master of the Wind-and-Cloud Sword Lord, and a Supreme Peak master who died during the Great Snow Mountain battle.
 - **Personality:** Righteous, wise, calm, and fair regardless of a person's background.
 - **Voice:** Not established.

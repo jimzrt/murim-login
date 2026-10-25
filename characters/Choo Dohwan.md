@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 188
 - **Aliases:** Iron Fist
+- **Gender:** unknown
 - **Role:** Level 65 martial artist and Disciple of the Iron Blood Sect of Henan who challenged Chulwoo at the Jin Family banquet.
 - **Personality:** Polite, upright, determined, and stubborn in defeat.
 - **Voice:** Formal and respectful when making his request, then resolute when refusing to surrender.

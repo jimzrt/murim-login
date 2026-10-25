@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 793
 - **Aliases:** Hero
+- **Gender:** male
 - **Role:** Siegfried Wassmann was one of humanity’s three Grand Mages, a reclusive scholar and expert in barrier magic and monster research; he is dead, and the cause of his death is unknown.
 - **Personality:** Reclusive and scholarly.
 - **Voice:** Not established.

@@ -12,7 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SUMMARY_NAME = re.compile(r"^(\d{4})-(\d{4})\.md$")
 
-PROFILE_FIELDS = ("Safe through", "Aliases", "Role", "Personality", "Voice", "Relationships")
+PROFILE_FIELDS = ("Safe through", "Aliases", "Gender", "Role", "Personality", "Voice", "Relationships")
 
 
 def compact_profile(body: str) -> str:
@@ -535,11 +535,15 @@ voice evidence; never replace it with unsupported specificity.
 `temporary_decisions` to at most {workflow_config().get("context_thresholds", {}).get("temporary_decisions", 5)} items.
 Keep the serialized context under {workflow_config()["context_max_bytes"]} UTF-8 bytes.
 Use only chapter numbers through {number}. Profile updates may replace only one
-complete line in Aliases, Role, Personality, Voice, or Relationships. Do not
+complete line in Aliases, Gender, Role, Personality, Voice, or Relationships. Do not
 return Safe through updates; the controller sets that field automatically.
 Each profile field should be one concise sentence; never append semicolon-separated
 chapter history. For a new profile, describe voice only when the chapter supports
 a useful, stable distinction; otherwise say “Not established”.
+Gender is exactly `female`, `male`, or `unknown`. Korean usually omits pronouns,
+so set it only from explicit source evidence such as 그녀, 언니/누나/오빠/형 used
+by or for the character, 아가씨, 여자/남자, or a gendered title; otherwise use
+`unknown`. Never change an established female or male Gender line.
 `names` contains only newly required Korean-to-English rows that are absent from
 Exact glossary matches; Korean keys must occur in the source. Do not repeat
 glossary matches. The controller drops rows already in the names ledger.
@@ -597,6 +601,7 @@ Return this exact shape:
       "korean": "source name",
       "english": "English Name",
       "aliases": [],
+      "gender": "female | male | unknown",
       "role": "stable role",
       "personality": "stable traits",
       "voice": "stable voice",

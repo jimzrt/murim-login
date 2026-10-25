@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 578
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Thirty-nine-year-old A-rank Hunter, former top-one-hundred ranker and celebrity entertainer, and CEO of the Star Guild in Incheon; returned toward active Hunter work after an eight-year absence following the Myeongdong Station Mutated Gate Catastrophe, in which his close friend and fellow A-rank star Hunter Do Minsu and around thirty others died; survived the incident, was tried and cleared, and later retired from entertainment; led an ambush against the returning Peace Guild survivors, surrendered, attempted a surprise attack on Jin Taekyung, and was killed by Taekyung.
 - **Personality:** Charismatic, sociable, image-conscious, and calculating; publicly warm and self-deprecating, but privately dismissive of weaker Hunters and coldly serious when assessing danger..
 - **Voice:** Friendly and casual, with easy humor and a warm older-brother tone that turns serious when making his recruitment offer.

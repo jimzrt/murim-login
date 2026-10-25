@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 220
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Deceased comrade of Jin Taekyung who died in the incident three years earlier.
 - **Personality:** Not established in this chapter.
 - **Voice:** Not established in this chapter.

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 723
 - **Aliases:** Beast Miao King
+- **Gender:** male
 - **Role:** Heugung is the secret identity of the Beast Miao King, a Supreme Peak master and long-term Dark Heaven contingency who concealed himself through the Bone-Shrinking Technique.
 - **Personality:** Heugung is calculating, patient, ruthless, and obsessive, masking coercion and strategic intent behind warmth and romantic devotion toward Yohi.
 - **Voice:** Heugung speaks with warm enthusiasm and genuine, openly devoted affection toward Yohi.

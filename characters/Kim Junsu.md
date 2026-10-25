@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 100
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Level 41 C-rank Hunter in Sangdong Guild’s Security Team; the Guild’s sole Familiar mage and a rare mental mage.
 - **Personality:** Exhausted, anxious about his worsening hair loss, dutiful, and privately profane about his workload.
 - **Voice:** Polite and restrained aloud; internally self-pitying, sarcastic, and profane.

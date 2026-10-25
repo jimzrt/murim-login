@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1089
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Branch Master of the Beggars’ Sect’s Xining branch in Qinghai.
 - **Personality:** Experienced and observant, he is usually genial but acts decisively when he senses danger and is protective of his disciples.
 - **Voice:** Not established

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 280
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** C-rank Hunter in Myeongdong Guild's Security Team; witnessed Jin Taekyung's assault on Team 1 inside the Guild headquarters.
 - **Personality:** Overwhelmed and incredulous while witnessing Taekyung's combat; no broader stable traits established.
 - **Voice:** No direct speech established.

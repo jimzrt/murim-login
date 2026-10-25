@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 405
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Lieutenant General newly appointed commander of the northern front.
 - **Personality:** Secretive in his dealings; his broader personality is not established.
 - **Voice:** His voice is not established beyond a brief formal exchange reported by Go Jun.

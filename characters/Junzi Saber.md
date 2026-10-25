@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1018
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** The Junzi Saber was a martial artist from a prominent Qinghai martial family who later served the Demonic Cult and was killed by Jeok Cheongang.
 - **Personality:** He was remembered as a courageous, self-sacrificing martial artist who led from the front and never retreated, but turned to the Demonic Cult after his surviving elder brother sought refuge there for revenge.
 - **Voice:** Not established

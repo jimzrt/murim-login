@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 184
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Leader of the small Hequ Sect who attends the Jin Family of Taiyuan's gathering.
 - **Personality:** Admiring and eager to ingratiate himself with the Jin Family and Jin Taekyung.
 - **Voice:** Elaborate and flattering when introducing himself and praising Taekyung.

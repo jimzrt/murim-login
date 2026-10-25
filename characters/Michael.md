@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1174
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Michael Silbert was the former Odin Guild Master, executed by Jin Taekyung after the World Hunter Federation’s first resolution.
 - **Personality:** Controlled, calculating, condescending, and confident in his intelligence and ability to manipulate events, but increasingly impatient and anxious since learning of Jin Taekyung.
 - **Voice:** Polite and conversational when relaxed, but quietly authoritative and coercive when asserting control.

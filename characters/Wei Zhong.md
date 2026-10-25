@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1067
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Wei Zhong, addressed as Cang Gong, was the East Depot’s Seal-Holding Eunuch and Eastern Heaven Demon Lord; Jin Taekyung killed him with White Flame.
 - **Personality:** Politically perceptive and self-possessed, he uses courteous remarks and veiled barbs to challenge the Emperor.
 - **Voice:** He speaks in formal, deferential language, using repeated praise and respectful address to deliver pointed challenges.

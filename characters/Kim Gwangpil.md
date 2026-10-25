@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 601
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Managing Director of Ares Guild who joined Jin Taekyung's faction before the emergency meeting.
 - **Personality:** Blunt, confrontational, and willing to openly accuse senior colleagues of complicity in Go Jun's crimes.
 - **Voice:** Blunt, sarcastic, and profane.

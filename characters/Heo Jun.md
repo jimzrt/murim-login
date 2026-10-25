@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1015
 - **Aliases:** Uncle Heo, Chief Escort
+- **Gender:** male
 - **Role:** Former Chief Escort of the Yongbong Escort Bureau and Ju Hwaran's uncle, Heo Jun secretly colluded with Zhongnan for two years before Ju Hwaran exposed his betrayal and killed him with a sword strike.
 - **Personality:** Deceitful, greedy, manipulative, and fiercely self-preserving beneath a long-maintained paternal facade.
 - **Voice:** Formal, paternal, calm, and quietly reassuring.

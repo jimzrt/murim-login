@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 15
 - **Aliases:** None revealed
+- **Gender:** male
 - **Role:** Mount Heng Sword Sect disciple and brother of the sect daughter accused of being assaulted by Jin Taekyung
 - **Personality:** Hostile, suspicious, and contemptuous; treats the accusation as settled fact
 - **Voice:** Initially formal and probing, then openly abusive

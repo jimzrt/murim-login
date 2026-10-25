@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 370
 - **Aliases:** Fiend
+- **Gender:** male
 - **Role:** Leader of the Qilian Three Fiends and former commander of the Dark Heaven assault on the Sichuan Tang Clan, grievously wounded by Cheongpung and killed by the Slaughter Saint.
 - **Personality:** Ruthless, sadistic, arrogant, and delighted by violence and destruction.
 - **Voice:** Cackling, mocking, and openly threatening.

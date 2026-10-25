@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 681
 - **Aliases:** Hayeon; Taekyung’s younger sister
+- **Gender:** female
 - **Role:** High-school senior who has completed the college entrance exam and believes she missed a perfect score by one English question
 - **Personality:** Sharp-tongued, academically gifted, impatient with Taekyung’s evasions, warmer beneath the teasing, and intensely fond of cats
 - **Voice:** Bratty, fast, blunt sibling banter; turns brighter when discussing school and her interests

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 62
 - **Aliases:** None revealed
+- **Gender:** male
 - **Role:** Sect Leader of Gunggwimun; one of the Five Gates of Shanxi leaders
 - **Personality:** Responsible, protective, and resigned to the consequences of the conspiracy
 - **Voice:** Firm and compassionate when addressing his disciples

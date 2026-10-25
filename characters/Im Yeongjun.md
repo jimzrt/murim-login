@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 283
 - **Aliases:** the “tail”
+- **Gender:** unknown
 - **Role:** Level 95 A-rank Black Hunter; one of the three men who attacked Im Kkeokjeong and the leader of the hidden countryside base containing twenty-eight Black Hunters; was tortured by Jin Taekyung for information, survived through repeated potion use, and was removed alive but incapacitated with the other surviving Black Hunters
 - **Personality:** Ruthless, contemptuous, self-assured, and confident in the protection provided by his organization
 - **Voice:** Threatening, mocking, and condescending toward opponents he considers inexperienced

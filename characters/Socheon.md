@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 186
 - **Aliases:** None revealed
+- **Gender:** male
 - **Role:** Fourteen-year-old survivor of the Sakju Branch; older brother and protector of Soyul
 - **Personality:** Watchful, frightened, and determined to survive and protect his sister after witnessing the massacre of his home
 - **Voice:** A guarded child’s voice that becomes resolute under pressure

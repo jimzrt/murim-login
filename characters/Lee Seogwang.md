@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 33
 - **Aliases:** None revealed
+- **Gender:** male
 - **Role:** Young Sect Leader of the Mount Heng Sword Sect; Lee Cheonbaek’s son; Lee Seogeun’s elder brother
 - **Personality:** Frightened, submissive, and shaken by the destruction of his detachment
 - **Voice:** Hesitant and trembling when reporting failure to his father

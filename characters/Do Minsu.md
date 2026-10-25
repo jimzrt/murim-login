@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 213
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** A-rank star Hunter who was rapidly gaining popularity; died during the Myeongdong Station Mutated Gate Catastrophe.
 - **Personality:** Not established in Chapter 213.
 - **Voice:** Not established in Chapter 213.

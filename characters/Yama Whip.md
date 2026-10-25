@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 20
 - **Aliases:** Yama Whip; personal name not revealed
+- **Gender:** male
 - **Role:** Peak martial artist and whip master; Wolhwa’s coachman
 - **Personality:** Affable and physically demonstrative; speaks of dangerous encounters with disarming warmth
 - **Voice:** Deep and gentle; conversational even when recounting a fight

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 355
 - **Aliases:** Heaven-Poison Wanderer
+- **Gender:** male
 - **Role:** Retired Supreme Peak master of the Sichuan Tang Clan and former Head Elder and head of the Council of Elders; killed by First Fiend during the Dark Heaven assault.
 - **Personality:** Experienced, fierce, decisive, and fiercely protective of his Tang Clan kin.
 - **Voice:** Blunt and battle-commanding, with furious protective outbursts.

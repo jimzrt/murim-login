@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 732
 - **Aliases:** Director Song
+- **Gender:** male
 - **Role:** Former A-rank Hunter and Korean ranker who placed third nationally, Song Cheonwoo led Ares Guild's European branch for twenty years; forced to attack Choi Minwoo to protect his family, he fell into an abyss and was killed by a monster.
 - **Personality:** Highly ambitious, honor-obsessed, and politically calculating, but ultimately unwilling to sacrifice his humanity for survival.
 - **Voice:** Measured and restrained, he speaks deliberately and directly; he addresses Choi Minwoo familiarly but remains guarded around those he does not trust.

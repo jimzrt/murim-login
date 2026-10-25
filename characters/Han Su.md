@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 263
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Dark Heaven operative known as the Yin Ghost; scholar-like old man who intercepted and killed a Hidden Shadow Pavilion messenger near Mount Song, killed Shaolin's Four Great Vajras, and confronted Unnamed over the Green Jade Buddha Staff; after escaping Shaolin and reaching the Blood Lord, he requested Jeok Cheongang and Jin Taekyung's deaths, but the Blood Lord beheaded him.
 - **Personality:** Deceptive, cruel, casually murderous, and amused by victims' indignation.
 - **Voice:** Calm, conversational, and lightly mocking, with unsettling humor.

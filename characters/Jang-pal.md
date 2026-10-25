@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 990
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Woodcutter from Jang Family Village who encounters and helps the unnamed old man.
 - **Personality:** Simple, kind, polite, and guileless.
 - **Voice:** Plain, respectful, and good-natured.

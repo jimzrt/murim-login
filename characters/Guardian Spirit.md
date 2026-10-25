@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 720
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** The Guardian Spirit was a divine-beast-like tiger that sacrificed itself to seal the rift and was killed after becoming corrupted.
 - **Personality:** The Guardian Spirit was self-sacrificing and chose death rather than allow its corruption to continue.
 - **Voice:** The Guardian Spirit communicates through roars and terse cries; no sustained speech is established.

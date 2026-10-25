@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 547
 - **Aliases:** Shandong Fist Dragon
+- **Gender:** male
 - **Role:** Hwangbo Ak is the Lesser Family Head of the Hwangbo Family, a member of the Ten Dragons and Phoenixes, and a young martial prodigy.
 - **Personality:** Proud, self-obsessed, status-conscious, and easily humiliated.
 - **Voice:** Polite and ceremonious in public but sharp, dismissive, and indignant when challenged.

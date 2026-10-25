@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 759
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Joel Schumacher is Germany's S-rank Hunter, a former fencing gold medalist, and a national symbol who fights to defend Munich from the Monster Wave.
 - **Personality:** Courageous, disciplined, fiercely determined, and willing to keep fighting despite overwhelming injury.
 - **Voice:** Forceful and direct in battle, with terse commands and defiant exclamations.

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 456
 - **Aliases:** Divine Marvel Dragon
+- **Gender:** male
 - **Role:** Zhuge Gyun is the current Lesser Family Head of the Zhuge Clan, son of its Family Head Zhuge Feng, and a scholar-styled martial artist who was a finalist in the Star-Array Grand Banquet.
 - **Personality:** Analytical, pedantic, and unusually preoccupied with theoretical correctness.
 - **Voice:** Polished, formal, and interrogative, treating insults as subjects for precise analysis.

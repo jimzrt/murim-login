@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 603
 - **Aliases:** Head of Security
+- **Gender:** male
 - **Role:** Go Se-won is Ares Guild's former Head of Security and Team Leader, now held in a special detention center after surrendering, subduing the remaining loyalists, and giving decisive testimony that Go Jun caused the two monster waves.
 - **Personality:** Weary after thirty years of serving Ares as a hunting dog, he is morally conflicted but decisive when he finally breaks with the Guild's loyalists.
 - **Voice:** Calm and deferential toward superiors, but blunt and decisive when issuing orders.

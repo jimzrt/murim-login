@@ -9,6 +9,7 @@ import re
 SEVERITIES = {"critical", "major", "minor"}
 SEVERITY_RANK = {"critical": 3, "major": 2, "minor": 1}
 DISPOSITIONS = {"applied", "rejected", "unresolved"}
+GENDERS = ("female", "male", "unknown")
 ADDRESS_ENDPOINT = re.compile(
     r"(?=.*[가-힣])[가-힣0-9](?:[가-힣0-9]| [가-힣0-9])*"
 )
@@ -338,6 +339,12 @@ def validate_durable_update(value: dict, number: int) -> dict:
         normalized["aliases"] = _nonempty_strings(
             item.get("aliases"), f"profile creation {position} aliases"
         )
+        gender = item.get("gender", "unknown")
+        if gender is None:
+            gender = "unknown"
+        if not isinstance(gender, str) or gender.strip().casefold() not in GENDERS:
+            raise ValueError(f"profile creation {position} gender must be female, male, or unknown")
+        normalized["gender"] = gender.strip().casefold()
         normalized_creations.append(normalized)
     return {
         "version": 1,

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 752
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Fujiwara is Japan's Defense Minister, publicly blamed for the failed response to Leviathan and now vowing to protect the country's citizens.
 - **Personality:** Not established.
 - **Voice:** Publicly patriotic and resolute, promising to protect the citizens.

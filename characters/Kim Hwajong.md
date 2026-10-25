@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 663
 - **Aliases:** Butler Kim
+- **Gender:** male
 - **Role:** The deceased old butler who served Choi Minwoo's family and was Choi's grandfather.
 - **Personality:** He showed enduring care for Choi Minwoo through the affectionate message he left at his grave.
 - **Voice:** His living voice is not heard, but his written farewell is affectionate and encouraging.

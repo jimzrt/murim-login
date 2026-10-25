@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 93
 - **Aliases:** None
+- **Gender:** female
 - **Role:** Assistant Manager at the Ilsan Store
 - **Personality:** Highly conscious of sales performance and promotion; privately judgmental toward a miserly customer
 - **Voice:** Polite, formal, and product-focused sales language

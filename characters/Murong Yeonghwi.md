@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1180
 - **Aliases:** One-Ride Heavenly Dragon
+- **Gender:** unknown
 - **Role:** Murong Yeonghwi is a blood relative of the Murong Family and an overwhelmingly powerful young prodigy who escaped the family’s annihilation with several dozen others and is now being pursued toward Liaoning.
 - **Personality:** Not established.
 - **Voice:** Not established.

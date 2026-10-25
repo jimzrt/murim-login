@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 236
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Former leader of the Black Sand Band, a Han-Chinese mounted-bandit power of one hundred; he was killed by the unnamed Supreme Peak old man after attempting to manipulate the old man's search
 - **Personality:** Frivolous and warm on the surface but calculating, bold, authoritative, and adept at manipulating dangerous people through humor and grand promises
 - **Voice:** Light, teasing, and conversational in ordinary speech; becomes firm and decisive when directing the alliance

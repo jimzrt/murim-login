@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 268
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Hong Dao's youngest Junior Brother and a Supreme Peak Shaolin master; remains at Shaolin to defend the temple during the masked invasion, and despite losing an arm and suffering severe injuries in battle with Flame Tiger, continues to resist.
 - **Personality:** Duty-bound, resolute, battle-hardened, and fiercely protective of Shaolin.
 - **Voice:** Forceful, combative, and resonant, capable of producing a lion's roar.

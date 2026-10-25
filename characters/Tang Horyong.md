@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 375
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Master of Poison Dragon Pavilion and Acting Family Head of the Sichuan Tang Clan while Tang Sadok recovers from his injuries.
 - **Personality:** A natural martial artist who is skilled with poison and hidden weapons but anxious and overwhelmed by the burden of leading the devastated clan.
 - **Voice:** Candid, deferential, and worried when discussing the Tang Clan's future.

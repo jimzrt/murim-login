@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 278
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Team Leader in Myeongdong Guild; killed by Park Jihoon after detecting wrongdoing
 - **Personality:** Not established in Chapter 278
 - **Voice:** No direct speech appears in Chapter 278

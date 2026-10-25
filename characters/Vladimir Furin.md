@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 768
 - **Aliases:** None
+- **Gender:** male
 - **Role:** President for life of Russia who opposes the World Hunter Federation's reestablishment because of its immense authority and uncertain leadership.
 - **Personality:** Blunt, politically shrewd, cynical, and confident enough to confront other heads of state directly.
 - **Voice:** Powerful, sardonic, and openly confrontational.

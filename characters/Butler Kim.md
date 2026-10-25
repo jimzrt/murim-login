@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 553
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Butler serving Team Leader Choi at the Choi family mansion.
 - **Personality:** Impeccably composed, attentive, and briefly flustered when the mansion's robots fail to operate.
 - **Voice:** Smooth, polished, low-pitched, and formally deferential toward Team Leader Choi.

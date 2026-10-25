@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 193
 - **Aliases:** None
+- **Gender:** male
 - **Role:** The third member of the Three Hands of Zhongnan and a Zhongnan Sect martial artist from Shaanxi; he incited Song Il to confront the Jin Family of Taiyuan and was rendered unconscious by Song Il along with the other two members of the Three Hands.
 - **Personality:** Sharp-tongued, mocking, and openly antagonistic toward Li Feng
 - **Voice:** Casual, taunting, and deliberately provocative

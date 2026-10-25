@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 997
 - **Aliases:** Ghost Sword; God of Drinking
+- **Gender:** male
 - **Role:** Jin Wikyung’s personal guard and Commander of the Jin Dragon Squad; one of the Jin Family’s three Peak masters
 - **Personality:** Loyal, observant, teasing, capable, and resigned to Jin Wikyung’s impulsive behavior. Respects the dead and urges others to live on their behalf.
 - **Voice:** Weary and knowing, with dry humor when addressing Jin Wikyung or Jin Taekyung. Uses Sound Transmission when appropriate.

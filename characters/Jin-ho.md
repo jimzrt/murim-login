@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1175
 - **Aliases:** None
+- **Gender:** male
 - **Role:** A civil servant in the Hunter and Gate Management Department and Jin Taekyung's older friend.
 - **Personality:** Blunt, vulgar, perceptive, and good-natured beneath his teasing.
 - **Voice:** Casual, profane, teasing, and irreverent.

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 526
 - **Aliases:** Fist King
+- **Gender:** unknown
 - **Role:** Hong Jeok is the Fist King, a renowned old martial artist from Guangxi who has emerged to join the Murim Alliance.
 - **Personality:** Not established.
 - **Voice:** Not established.

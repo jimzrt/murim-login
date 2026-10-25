@@ -3,6 +3,7 @@
 - **Safe through:** Chapter 62
 - **Name:** Jin Baekyang, revealed by the System in Chapter 62
 - **Aliases:** Blade of Flowers
+- **Gender:** unknown
 - **Role:** Former Head Elder of the Jin Family of Taiyuan; senior family authority and hidden traitor during the Five Gates conflict
 - **Personality:** Inscrutable, politically shrewd, ruthless, and driven by long-held revenge. He treated casualties as necessary sacrifices and refused to abandon his vendetta even after defeat.
 - **Voice:** Strange and resonant, shifting between old and young, rough and smooth

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 207
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** B-rank public-service Hunter and team leader responsible for a tollgate Hunter team.
 - **Personality:** Inexperienced and fearful under a crisis; prioritizes survival when his team is overwhelmed.
 - **Voice:** Panicked and hesitant, with frequent stammering and uncertain questions.

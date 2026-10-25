@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 463
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Former Chief Strategist of the Murim Alliance; a Supreme Peak martial artist known for immortal arts and outstanding formation techniques, one of the Ten Kings and a member of the Three Saints; deceased for more than ten years
 - **Personality:** Not established.
 - **Voice:** Not established.

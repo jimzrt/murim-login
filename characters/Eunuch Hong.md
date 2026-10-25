@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 138
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Powerful Deputy Military Commissioner of Shanxi Province who arranges a gathering of martial artists for Prince Shangshan
 - **Personality:** Cunning, glib, socially manipulative, and self-serving in his dealings with rivals
 - **Voice:** Coy and lilting, superficially friendly, with pointed and probing undertones

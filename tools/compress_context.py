@@ -9,11 +9,13 @@ from pathlib import Path
 try:
     from tools.context import ROOT, load_active_context, workflow_config
     from tools.model_io import parse_json_object
+    from tools.names import profile_gender, set_profile_gender
     from tools.run_lock import hold_run_lock
     from tools.workflow import atomic_json, atomic_text, project_config, run_omp
 except ModuleNotFoundError:
     from context import ROOT, load_active_context, workflow_config
     from model_io import parse_json_object
+    from names import profile_gender, set_profile_gender
     from run_lock import hold_run_lock
     from workflow import atomic_json, atomic_text, project_config, run_omp
 
@@ -55,8 +57,8 @@ resolved events, speculative story points, and duplicated details. Preserve only
 facts needed for upcoming chapters: stable identity, voice, relationships,
 unresolved hooks, active medical/status facts, and terminology. Never invent a
 future spoiler. Keep the profile under {cfg.get('profile_compress_trigger_bytes', 4096)} bytes,
-using only these fields: Safe through, Aliases, Role, Personality, Voice,
-Relationships, Sources. Context list limits: {json.dumps(cfg.get('context_thresholds', {}))}.
+using only these fields: Safe through, Aliases, Gender, Role, Personality, Voice,
+Relationships, Sources. Copy an existing Gender line unchanged. Context list limits: {json.dumps(cfg.get('context_thresholds', {}))}.
 
 Return {{"context": {{"version": 1, "safe_through": {context['safe_through']},
 "continuity_sources": {json.dumps(context['continuity_sources'])}, "active_continuity": [],
@@ -107,7 +109,18 @@ def compress_one(number: int, profile: tuple[Path, str]) -> tuple[dict, dict[str
     raw, _metrics, _call = run_omp(
         packet, project_config()["compress_model"], 960, label="compress", hold=True,
     )
-    return validate(parse_json_object(raw), number - 1, {str(profile[0].relative_to(ROOT))})
+    context, replacements = validate(
+        parse_json_object(raw), number - 1, {str(profile[0].relative_to(ROOT))}
+    )
+    return context, preserve_gender(profile, replacements)
+
+
+def preserve_gender(profile: tuple[Path, str], replacements: dict[str, str]) -> dict[str, str]:
+    """Compression never drops or changes an established Gender line."""
+    gender = profile_gender(profile[1])
+    if gender == "unknown" and "- **Gender:**" not in profile[1]:
+        return replacements
+    return {path: set_profile_gender(text, gender) for path, text in replacements.items()}
 
 
 def run_compression(number: int, *, workers: int = 1) -> list[str]:

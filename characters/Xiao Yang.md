@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 768
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Chairman of the Zhonghua People's Republic who supports Baek Hanseong's call for caution before reestablishing the World Hunter Federation.
 - **Personality:** Cautious, diplomatic, and attentive to the consequences of granting the Federation broad authority.
 - **Voice:** Formal, measured, and diplomatically concerned.

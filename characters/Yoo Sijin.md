@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 208
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Captain and Team Leader of Support Team 25, a military and Hunter support unit responding to the tollgate Gate incident.
 - **Personality:** Calm, observant, measured, and responsible; recognizes Taekyung as a civilian hero while reprimanding sensational behavior at an active disaster scene.
 - **Voice:** Restrained, direct, and authoritative.

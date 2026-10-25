@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 228
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Qatar’s prince who won the Christie’s auction for Carus’s processed remains with an approximately 500-billion-won bid.
 - **Personality:** Not established in this chapter.
 - **Voice:** Not established in this chapter.

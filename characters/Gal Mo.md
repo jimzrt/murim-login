@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 188
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Nameless wandering martial artist who challenged Chulwoo at the Jin Family banquet.
 - **Personality:** Confident enough to challenge a visibly dominant opponent; further traits are not established.
 - **Voice:** Polite and direct when proposing a duel.

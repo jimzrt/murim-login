@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 818
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Yahya Muhammad Ahmad Bedouin is the fanatics’ real commander and a formidable martial artist who leads their elite black-robed assassins.
 - **Personality:** Religiously zealous and resolute in his opposition to those he regards as enemies of his faith.
 - **Voice:** Not established

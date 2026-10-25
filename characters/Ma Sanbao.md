@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1137
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Ma Sanbao was a sorcerer and Supreme Peak martial artist who used the White Illusion Jiangshi Art; the Son of Heaven killed him.
 - **Personality:** He is ambitious and confident in his usefulness to the Lord of Heaven, dismissive of his former master’s weakness, and pragmatic about losing subordinates.
 - **Voice:** He speaks in measured, courteous language and uses calm repetition, feigned agreement, and procedural reminders to steer conversations while keeping sensitive details guarded.

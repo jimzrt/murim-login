@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 773
 - **Aliases:** None
+- **Gender:** female
 - **Role:** Comrade of Felix and Magic Johnson from the fighting in China who has come to Korea for the World Hunter Federation's inaugural ceremony.
 - **Personality:** Not established.
 - **Voice:** Not established.

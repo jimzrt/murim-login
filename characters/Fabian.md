@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 781
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Fabian is the Guild Master of Kronos, an S-rank Hunter active since the Great Cataclysm.
 - **Personality:** Authoritative and quick to condemn perceived betrayal.
 - **Voice:** Forceful, accusatory, and declarative.

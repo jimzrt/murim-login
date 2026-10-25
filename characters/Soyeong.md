@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 545
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Deceased mother of Team Leader Choi and daughter of Cheon Taemin.
 - **Personality:** Not established.
 - **Voice:** Not established.

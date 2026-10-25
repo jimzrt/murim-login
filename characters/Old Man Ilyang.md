@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 543
 - **Aliases:** Won Cheol
+- **Gender:** unknown
 - **Role:** An eighty-five-year-old Supreme Peak master between the orthodox and unorthodox paths who seeks access to the Fire Gate Clan's once-per-generation divine technique.
 - **Personality:** Ambitious, calculating, covetous, and willing to exploit the Two Dragons Pavilion and its young master for personal advancement.
 - **Voice:** Jovial and courteous in public, with restrained menace beneath his gentle words.

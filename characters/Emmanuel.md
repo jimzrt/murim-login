@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 790
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Emmanuel is the arrested former President of France and a longtime political beneficiary of Michael Silbert.
 - **Personality:** Ambitious, opportunistic, and willing to trade absolute loyalty for power and wealth.
 - **Voice:** Formal and deferential toward powerful allies, with self-important ambitions.

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 982
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Temur is the surviving chieftain of the northern grasslands who submitted to Jin Wikyung and the Jin Family of Taiyuan.
 - **Personality:** Hot-tempered and proud of his khan lineage, Temur chose survival over loyalty and now recognizes with guilt that his actions have led his followers to slaughter.
 - **Voice:** Blunt, heated, and confrontational

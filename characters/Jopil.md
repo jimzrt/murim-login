@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1188
 - **Aliases:** One Question, One Kill
+- **Gender:** male
 - **Role:** Jopil was a wandering martial artist who led a special detachment against the Jin Family of Taiyuan; Jeok Cheongang rescued and named him Jangcheon before accepting him as a Disciple.
 - **Personality:** Cruel, amused by violence, motivated by both payment and the pleasure of hunting his targets; a born Slaughter Saint who rationalizes murder through Might Makes Right and feels empty when victims die
 - **Voice:** Smoothly mocking and deceptively gentle when threatening victims

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 953
 - **Aliases:** None
+- **Gender:** male
 - **Role:** Assistant Military Commissioner of Shanxi Province; former Huashan lay disciple who left the sect nearly ten years ago
 - **Personality:** Resolute, proud, blunt, and hostile toward political and martial rivals
 - **Voice:** Formal and restrained in official settings; dry and cutting with opponents

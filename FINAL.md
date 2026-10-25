@@ -4,7 +4,14 @@
 
 Prepare one mastered chapter for readers. This pass adds footnotes, repairs formatting, and fixes duplicate or missing sentences. It is not a fluency rewrite.
 
-Keep the mastered prose. Change a sentence only to attach a footnote, repair System / thought / speech / chat formatting, restore a source sentence the English dropped, or remove an English sentence the Korean does not support.
+Keep the mastered prose. Change a sentence only to attach a footnote, repair System / thought / speech / chat formatting, restore a source sentence the English dropped, remove an English sentence the Korean does not support, or fix a character's name or pronoun as described below.
+
+## Names and pronouns
+
+The packet lists the profiled characters named in this chapter with their gender, and any required name corrections.
+
+- Use the glossary or character-card English for every name. Apply each required name correction everywhere it occurs.
+- Korean usually omits pronouns. When a card gives `female` or `male` and the English uses the other pronoun for that character, fix the pronoun. Leave pronouns alone for a character whose gender is `unknown`.
 
 ## Duplicates and omissions
 
@@ -23,6 +30,10 @@ Use Markdown footnotes (`[^1]`, `[^2]`, …). Number them in order of first appe
 Within this chapter, write one definition for a term, unit, amount, or reference. Every later occurrence of that same thing reuses the same marker. `goshiwon` five times is one note, and so is `hyung`. A different amount or a different term gets its own note. Another chapter may carry its own note for the same term.
 
 Write notes in factual English. No spoilers and no jokes added by the note. Romanize words. A note may include the original character when it is explaining that character. Keep Hangul jamo already used as chat reactions, such as ㅋㅋ and ㄷㄷ.
+
+Never write a footnote whose job is to identify or describe a story character, creature, pet, group, place, item, or plot event. The story introduces its own cast; a note must not say who someone is, what they did, or what a name refers to inside the story. This holds even when the glossary or a character card explains the name: those are reference for you, not footnote material.
+
+When a story name coincides with a real person, brand, or work (Magic Johnson, Mimi), the name is the story's. Do not footnote the real one unless the Korean source itself makes that reference.
 
 Add a note only when an English reader would otherwise miss the meaning or the conversion. Skip it when the sentence already says what the reference means. A translated proverb whose warning is plain, a joke the next line completes, a place name used as a place, and a fictional law the dialogue already describes do not get notes.
 

@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1183
 - **Aliases:** Killing Ghost
+- **Gender:** male
 - **Role:** Mungyeong is the legendary physician known as the former Divine Physician and Slaughter Saint, a Returned to Youth Supreme Peak master and the greatest assassin in history; he was the sole survivor of an assassin training cohort that began with three hundred candidates and passed the Divine Physician title to his Disciple.
 - **Personality:** Compassionate, resolute, resourceful, and calm under extreme pressure.
 - **Voice:** His Mungyeong persona is timid, deferential, and cheerful, while his Slaughter Saint voice is dry, impassive, and blunt.

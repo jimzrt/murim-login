@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 1174
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** Leader of a ten-man human-trafficking group and a member of the Red Wind Band; formerly a Level 25 martial artist who had approached First Rate
 - **Personality:** Violent, extortionate, lecherous, and cruel toward captives; becomes terrified and submissive when confronted by overwhelming force
 - **Voice:** Coarse, threatening, mocking, and vulgar

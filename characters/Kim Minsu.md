@@ -2,6 +2,7 @@
 
 - **Safe through:** Chapter 88
 - **Aliases:** None
+- **Gender:** unknown
 - **Role:** D-rank Hunter in Sangdong Guild; son of the restaurant owner.
 - **Personality:** Not established.
 - **Voice:** Not observed.
