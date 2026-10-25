@@ -1,0 +1,24 @@
+{
+  "chapter": 984,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.24,
+    "source_characters": 6031,
+    "source_paragraphs": 151,
+    "translation_characters": 13512,
+    "translation_paragraphs": 150
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "추석",
+        "romanization": "chuseok"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
