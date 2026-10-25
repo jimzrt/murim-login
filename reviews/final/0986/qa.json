@@ -1,0 +1,24 @@
+{
+  "chapter": 986,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.215,
+    "source_characters": 5322,
+    "source_paragraphs": 142,
+    "translation_characters": 11786,
+    "translation_paragraphs": 134
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "석청",
+        "romanization": "seokcheong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
