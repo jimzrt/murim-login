@@ -17,18 +17,6 @@ It was the Quest reward notification I hadn’t gotten a chance to check before 
 >
 > - You have acquired 20 Bonus Points!
 
-> **System**
->
-> - Quest **One Step Back** was completed successfully!
->
-> - You have acquired a large amount of EXP!
->
-> - Level Up!
->
-> - Level Up!
->
-> - You have acquired 20 Bonus Points!
-
 *That’s insanely generous.*
 
 Two level-ups, plus bonus points. All told, a single Quest had given me the equivalent of roughly four levels.
@@ -315,18 +303,6 @@ Ding.
 >
 > - You cannot refuse this Quest. Forced progression will begin!
 
-> **System**
->
-> - You have consumed **Fire Spirit Grass**!
->
-> - You have consumed **Red Flower Grass**!
->
-> - You have consumed **Flame Red Grass**!
->
-> - Quest **Acupoint Opening** has been created!
->
-> - You cannot refuse this Quest. Forced progression will begin!
-
 *Gah!*
 
 System notifications rang out one after another as tremendous heat swept through my body.
@@ -454,12 +430,6 @@ At the same time, an immense torrent of internal energy flowed from his fingerti
 * * *
 
 Ding.
-
-> **System**
->
-> - Information for Quest **Acupoint Opening** has changed!
->
-> - Quest **Conception and Governor Vessels** has been created! The difficulty and rewards have been adjusted to reflect the updated information!
 
 As I listened to the System notification, one thought crossed my mind.
 
