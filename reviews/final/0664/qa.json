@@ -1,0 +1,37 @@
+{
+  "chapter": 664,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 1.0,
+    "length_ratio": 2.158,
+    "source_characters": 5908,
+    "source_paragraphs": 168,
+    "translation_characters": 12751,
+    "translation_paragraphs": 165
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 204
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 212
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 212
+      },
+      "message": "System window contains square brackets"
+    }
+  ]
+}
