@@ -105,38 +105,12 @@ Ding.
 >
 > - The Quest has been forcibly accepted!
 
-> **System**
->
-> - A sudden Quest, **Gate Suppression**, has been created.
->
-> - You cannot refuse the Quest.
->
-> - The Quest has been forcibly accepted!
-
 *Now it isn’t even giving me a choice.*
 
 Couldn’t it at least ask first?
 
 I clicked my tongue and opened the Quest window. A translucent holographic panel popped into the air.
 
-
-> **System**
->
-> **Quest**
->
-> **Gate Suppression**
->
-> An unexpected Gate has appeared!
->
-> The monsters that have set foot on Earth are hungry for blood, and delicious prey surrounds them.
->
-> Minimize casualties and eliminate the monsters to suppress the Gate.
->
-> **Grade:** Peak  
-> **Restriction:** None  
-> **Mission:** Eliminate monsters (Incomplete)  
-> **Reward:** ???  
-> **Failure:** ???
 
 > **System**
 >
@@ -438,16 +412,6 @@ Monster blood and screams filled the air, while a succession of sweet sounds tic
 
 Ding. Ding. Ding.
 
-
-> **System**
->
-> - You have defeated **Lv.84 Ogre**!
->
-> - You have acquired a considerable amount of EXP!
->
-> - You have defeated **Lv.83 Ogre**!
->
-> - You have acquired a considerable amount of EXP!
 
 > **System**
 >
