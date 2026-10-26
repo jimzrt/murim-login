@@ -1,0 +1,45 @@
+{
+  "applied": false,
+  "chapter": 73,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 2
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.97,
+      "current": "martial arts that have reached mastery",
+      "evidence_found": true,
+      "explanation": "대성 is the named completion stage rendered as Great Completion in the glossary.",
+      "id": "E01",
+      "korean": "대성한 무공",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "martial arts that have reached Great Completion",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.97,
+      "current": "both brought to mastery",
+      "evidence_found": true,
+      "explanation": "The two Jin Family techniques have reached 대성, rendered as Great Completion in the glossary.",
+      "id": "E02",
+      "korean": "대성에 이른 진가창법과 진가보법",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "both brought to Great Completion",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}
