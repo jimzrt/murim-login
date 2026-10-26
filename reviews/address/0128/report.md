@@ -3,9 +3,17 @@
 - Model: openai-codex/gpt-6-sol:medium
 - Summary: Both occurrences refer to Jin Taekyung in the third person and must use his name.
 - Occurrences: 2
-- Applied: yes
+- Applied: no
 
-## Applied (2)
+## Applied (0)
+
+None.
+
+## Needs human review (0)
+
+None.
+
+## Reverted after review (2)
 
 ### A01 · third_person · 0.96
 
@@ -14,6 +22,7 @@
 - Korean: 저 소협
 - Speaker → addressee: the merchant → Old Man Jang; referring to Jin Taekyung
 - Why: The merchant is identifying the young man Old Man Jang pointed out, not addressing him.
+- Status reason: restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)
 
 ### A02 · third_person · 0.98
 
@@ -22,7 +31,4 @@
 - Korean: 진 소협의 활약
 - Speaker → addressee: the county magistrate → Jin Taekyung; referring to him in the City Lord's invitation
 - Why: The Korean refers to Jin Taekyung's exploits as what the City Lord heard about; it does not address him as Young Hero Jin.
-
-## Needs human review (0)
-
-None.
+- Status reason: restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)

@@ -1,9 +1,10 @@
 {
-  "applied": true,
+  "applied": false,
   "chapter": 128,
   "counts": {
-    "auto": 2,
-    "human": 0
+    "auto": 0,
+    "human": 0,
+    "reverted": 2
   },
   "findings": [
     {
@@ -14,11 +15,11 @@
       "id": "A01",
       "korean": "저 소협",
       "reason": "The merchant is identifying the young man Old Man Jang pointed out, not addressing him.",
-      "reason_status": "",
+      "reason_status": "restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)",
       "replacement": "“Ah, Jin Taekyung?”",
       "span_count": 1,
       "speaker": "the merchant",
-      "status": "auto",
+      "status": "reverted",
       "use": "third_person"
     },
     {
@@ -29,11 +30,11 @@
       "id": "A02",
       "korean": "진 소협의 활약",
       "reason": "The Korean refers to Jin Taekyung's exploits as what the City Lord heard about; it does not address him as Young Hero Jin.",
-      "reason_status": "",
+      "reason_status": "restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)",
       "replacement": "After hearing about Jin Taekyung's recent exploits, he seems",
       "span_count": 1,
       "speaker": "the county magistrate",
-      "status": "auto",
+      "status": "reverted",
       "use": "third_person"
     }
   ],
