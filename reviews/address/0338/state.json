@@ -3,12 +3,16 @@
   "baseline_sha256": "ba06fccc2dd6761fb3124f7d2905154961104aa4ee2284d6a4524b6da80b66a9",
   "chapter": 338,
   "counts": {
-    "auto": 2,
-    "human": 0
+    "auto": 1,
+    "human": 0,
+    "reverted": 1
   },
   "model": "openai-codex/gpt-6-sol:medium",
+  "reverted": [
+    "A02"
+  ],
   "source_sha256": "6f974d5cf6f75db4c64fb533bfe09215bad83bb039fa8eab2e7b6ef99271f66d",
   "stage": "COMMITTED",
-  "translation_sha256": "d9869f1503746984a10684083cc66c0927345c30a5957f50b0212b3b02530509",
+  "translation_sha256": "61b6c0f918d55a966c2b8b029bff6c51b54bbe4548c96aa74b22b1525ba0f44a",
   "version": 1
 }
