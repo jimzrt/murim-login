@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Jeok Cheongang; referring to Jin Taekyung",
+      "confidence": 0.98,
+      "current": "offer Young Hero Jin an opportunity",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "여기 있는 진 소협에게",
+      "reason": "Ak is explaining his offer to Jeok, not addressing Jin.",
+      "replacement": "offer Jin Taekyung an opportunity",
+      "span_count": 1,
+      "speaker": "Ak Bulgun",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jeok Cheongang; referring to Jin Taekyung",
+      "confidence": 0.98,
+      "current": "Young Hero Jin also hesitated when he heard the offer.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "진 소협도 제의를 듣고 망설이더군요.",
+      "reason": "Ak is describing Jin’s reaction to Jeok, not addressing Jin.",
+      "replacement": "Jin Taekyung also hesitated when he heard the offer.",
+      "span_count": 1,
+      "speaker": "Ak Bulgun",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Two third-person references to Jin Taekyung should use his name; the direct, formal apology should retain “Young Hero Jin.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

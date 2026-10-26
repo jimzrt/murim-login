@@ -1,0 +1,23 @@
+{
+  "chapter": 199,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.257,
+    "source_characters": 6407,
+    "source_paragraphs": 203,
+    "translation_characters": 14462,
+    "translation_paragraphs": 215
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "semantic_probe",
+      "details": {},
+      "message": "큰형 should preserve eldest-brother specificity"
+    }
+  ]
+}
