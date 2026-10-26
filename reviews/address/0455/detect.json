@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "Young Hero Cheongpung and Hyuk Mujin",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청풍 소협과 혁무진이",
+      "reason": "Gung Gibang is telling Taekyung where the absent Cheongpung and Hyuk Mujin went, not addressing Cheongpung.",
+      "replacement": "Cheongpung and Hyuk Mujin",
+      "span_count": 1,
+      "speaker": "Gung Gibang",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The third-person reference to Cheongpung should use his name without the honorific.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
