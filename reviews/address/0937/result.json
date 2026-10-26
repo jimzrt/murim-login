@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 937,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Taishan, referred to while speaking to Jin Taekyung",
+      "confidence": 0.89,
+      "current": "I heard it from Young Hero Taishan.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "태산 소협한테",
+      "reason": "Hong Jin is saying who told him, not addressing Taishan.",
+      "reason_status": "",
+      "replacement": "I heard it from Taishan.",
+      "span_count": 1,
+      "speaker": "Hong Jin",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Taishan, referred to while speaking to Jin Taekyung",
+      "confidence": 0.89,
+      "current": "Young Hero Taishan. That huge guy.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "태산 소협이요",
+      "reason": "Hong Jin is identifying the person he meant, not addressing him.",
+      "reason_status": "",
+      "replacement": "Taishan. That huge guy.",
+      "span_count": 1,
+      "speaker": "Hong Jin",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}

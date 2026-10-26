@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Taishan, referred to while speaking to Jin Taekyung",
+      "confidence": 0.89,
+      "current": "I heard it from Young Hero Taishan.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "태산 소협한테",
+      "reason": "Hong Jin is saying who told him, not addressing Taishan.",
+      "replacement": "I heard it from Taishan.",
+      "span_count": 1,
+      "speaker": "Hong Jin",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Taishan, referred to while speaking to Jin Taekyung",
+      "confidence": 0.89,
+      "current": "Young Hero Taishan. That huge guy.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "태산 소협이요",
+      "reason": "Hong Jin is identifying the person he meant, not addressing him.",
+      "replacement": "Taishan. That huge guy.",
+      "span_count": 1,
+      "speaker": "Hong Jin",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both occurrences refer to Taishan in the third person and should use his name alone.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

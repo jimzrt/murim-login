@@ -1,0 +1,27 @@
+{
+  "summary": "Both occurrences refer to Taishan in the third person and should use his name alone.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "third_person",
+      "current": "I heard it from Young Hero Taishan.",
+      "replacement": "I heard it from Taishan.",
+      "korean": "태산 소협한테",
+      "speaker": "Hong Jin",
+      "addressee": "Taishan, referred to while speaking to Jin Taekyung",
+      "reason": "Hong Jin is saying who told him, not addressing Taishan.",
+      "confidence": 0.89
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Taishan. That huge guy.",
+      "replacement": "Taishan. That huge guy.",
+      "korean": "태산 소협이요",
+      "speaker": "Hong Jin",
+      "addressee": "Taishan, referred to while speaking to Jin Taekyung",
+      "reason": "Hong Jin is identifying the person he meant, not addressing him.",
+      "confidence": 0.89
+    }
+  ]
+}
