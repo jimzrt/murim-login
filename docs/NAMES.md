@@ -371,7 +371,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 무재 | **martial talent** | Innate aptitude for learning martial arts. |
 | 검성 수련 간접 체험기 | **Sword Saint Training: A Secondhand Experience** | Cheongpung's Peak-grade cliff-training Quest. |
 | 검성 수련 간접 체험기-2 | **Sword Saint Training: A Secondhand Experience—2** | Linked Quest generated after the first training Quest succeeds. |
-| 초보 수련자 | **Beginner Trainee** | System Title upgraded after the tenth cliff climb. |
+| 초보 수련자 | **Novice Trainee** | System Title upgraded after the tenth cliff climb. |
 | 중급 수련자 | **Intermediate Trainee** | System Title received after Beginner Trainee is upgraded. |
 | 황하방 | **Yellow River Gang** | Organization involved in a dispute with the Sogong Sect. |
 | 소공문 | **Sogong Sect** | Sect involved in a dispute with the Yellow River Gang. |
@@ -960,7 +960,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 스켈레톤 워로드 | **Skeleton Warlord** | Level 105 undead monster created when the leading Skeleton Knight transforms. |
 | 정몽주 | **Jeong Mong-ju** | Historical Korean scholar-official referenced through the Warlord’s quotation. |
 | 단심가 | **Song of My Single Heart** | Poem associated with Jeong Mong-ju and unwavering loyalty. |
-| 통합 언어 팩 | **Unified Language Pack** | System function that lets Taekyung understand demon-world speech. |
+| 통합 언어 팩 | **Integrated Language Pack** | System function that lets Taekyung understand demon-world speech. |
 | 서울지부 협회장 | **Seoul Branch President** | Hunter Association official overseeing the rescue response at the Black Forest. |
 | 서울 협회장 | **Seoul Branch President** | Source variant for the Seoul Branch President. |
 | 스켈레톤 아처 | **Skeleton Archer** | Skeleton subtype defeated during the Warlord's EXP harvest. |
@@ -987,7 +987,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 중국 | **China** | Country from which Team Leader Choi’s video originates. |
 | 몬스터 웨이브 | **Monster Wave** | Catastrophic release of monsters when Gate mana exceeds its capacity. |
 | 리치 | **Lich** | Named Monster; fallen archmage and apex undead monster. |
-| 공안 무력부 | **Public Security Armed Forces Division** | Chinese state Hunter force deployed against the Monster Wave. |
+| 공안 무력부 | **Public Security Armed Forces Department** | Chinese state Hunter force deployed against the Monster Wave. |
 | 오성홍기 | **Five-Starred Red Flag** | China's national flag. |
 | 쓰촨성 | **Sichuan Province** | Source spelling variant of the established Sichuan location. |
 | 난충시 | **Nanchong City** | City near the disaster site shown in the reconnaissance footage. |
@@ -1099,7 +1099,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 초코파이 | **Choco Pie** | Snack brand used in Taekyung's pun on 정. |
 | 흑걸개 | **Heukgeol Beggar** | Three-knot disciple and head of the Beggars' Sect's Xi'an branch; title-form of Heukgeol. |
 | 왕코 | **Big Nose** | Gung Gibang's nickname for his childhood friend Heukgeol. |
-| 삼결제자 | **three-knot disciple** | Beggars' Sect rank held by Heukgeol. |
+| 삼결제자 | **three-knot Disciple** | Beggars' Sect rank held by Heukgeol. |
 | 팔결제자 | **eight-knot disciple** | Beggars' Sect rank and mark held uniquely by the Successor Beggar. |
 | 법개 | **Law Beggar** | Beggars' Sect authority who enforces the sect rules. |
 | 용두방주 | **Dragon-Head Gang Leader** | Leader of the Beggars' Sect and Gung Gibang's Master. |
@@ -1236,7 +1236,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 검남춘 | **Jiannan Chun** | Sichuan liquor offered to the Heavenly Power Demon. |
 | 신천지 | **Shincheonji** | Modern Korean religious organization referenced in Taekyung's comparison. |
 | 병 신천지 | **Sick Shincheonji** | Taekyung's joking name for a hypothetical Shincheonji splinter faction. |
-| 삼결 제자 | **Three-knot Disciple** | Source-spaced form of the Beggars' Sect rank. |
+| 삼결 제자 | **three-knot Disciple** | Source-spaced form of the Beggars' Sect rank. |
 | 이결 제자 | **Two-knot Disciple** | Beggars' Sect rank held by Jang Il. |
 | 일결 제자 | **One-knot Disciple** | Beggars' Sect rank held by Jang Il's junior companions. |
 | 부 분타주 | **Vice Branch Leader** | Office Jang Il attained in the Chengdu branch. |
@@ -1336,7 +1336,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 샤오 쉔 | **Xiao Shen** | Twenty-year-old Hunter of the Public Security Armed Forces Department and the chapter’s viewpoint character. |
 | 야오위 | **Yao Wei** | A-rank Hunter, Xiao Shen’s friend and colleague, reanimated as a Dullahan. |
 | 류인친 | **Liu Yinqin** | Hunter whose cry identifies himself to a fellow member of the unit. |
-| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Only inside in-character patriotic speech, slogans, or headlines; elsewhere China/Chinese (중화 무술 연맹 Chinese Martial Arts Alliance; 중화인민공화국 People’s Republic of China). |
 | 그리폰 | **Griffon** | Flying monster species attacking the airport. |
 | 가고일 | **Gargoyle** | Flying monster species accompanying the Wyverns. |
 | 라이칸슬로프 | **Lycanthrope** | Source spelling for the higher-tier monster species. |
@@ -1388,7 +1388,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 마이구미 신지로 | **Maigumi Shinjiro** | Japanese prime minister mentioned in a forum headline. |
 | 푸린 | **Furin** | Russian president mentioned in a forum headline. |
 | 매생이 닷컴 | **Maesaeng-i.com** | Website credited with translating overseas reactions. |
-| 리자드 맨 | **lizard man** | Monster species fought on the western front. |
+| 리자드 맨 | **Lizardman** | Monster species fought on the western front. |
 | 윈드 커터 | **Wind Cutter** | Wind-based spell used during the western-front battle. |
 | 다니엘 이노우에 | **Daniel Inoue** | Japanese American A-rank Hunter and leader of the intelligence team. |
 | 샘 | **Sam** | Inoue's longtime operational partner. |
@@ -1439,7 +1439,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 라이프 포스 베슬 | **Life Force Vessel** | Highest-level undead black magic and vessel for storing a soul fragment. |
 | 진린 | **Chen Lin** | Ming Dynasty general cited as Jin Taekyung's alleged ancestor. |
 | 이준범 | **Lee Junbeom** | Captain speaking by telephone while requesting an extension of leave. |
-| 다스 패치 | **Das Patch** | Korean media outlet investigating Jin Taekyung. |
+| 다스 패치 | **Daspatch** | Korean media outlet investigating Jin Taekyung. |
 | 뉴욕 타임즈 | **New York Times** | United States newspaper. |
 | 더 타임즈 | **The Times** | United Kingdom newspaper. |
 | 아사히 신문 | **Asahi Shimbun** | Japanese newspaper. |
@@ -2165,7 +2165,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 오딘 | **Odin** | The name of the world's greatest Guild, invoking the Norse god. |
 | 김 과장 | **Manager Kim** | Manager responsible for the evidence storage room; no personal name is given. |
 | 크로노스 길드 | **Kronos Guild** | A major Guild included among the world's Ten Great Guilds; same guild as 크로노스. |
-| 우 쉐이밍 | **Wu Shaiming** | Former Chinese premier, Crown Prince Party leader, and father of Wu Heixing. |
+| 우 쉐이밍 | **Wu Xueming** | Former Chinese premier, Crown Prince Party leader, and father of Wu Heixing. |
 | 우 헤이싱 | **Wu Heixing** | Deceased S-rank Hunter who learned the Wu family's Mana Cultivation Method. |
 | 샤오 양 주석 | **Chairman Xiao Yang** | Chinese leader who provided the unofficial Odin Guild proposal. |
 | 메이산 | **Meishan** | City in Sichuan Province. |
