@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.94,
+      "current": "“Wait. Young Hero Cheongpung! Wait!”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협",
+      "reason": "Hyuk imagines pleading with a traveling companion he already knows, not formally addressing a stranger.",
+      "replacement": "“Wait. Cheongpung! Wait!”",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin, in his imagined exchange",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One familiar address should use Cheongpung’s name rather than “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
