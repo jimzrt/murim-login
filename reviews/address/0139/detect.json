@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jeong",
+      "confidence": 0.92,
+      "current": "Young Hero Jeong",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "정 소협",
+      "reason": "She and Jeong have grown close after being beaten together; the narrator says they have hit it off, so this is not a formal first-meeting address.",
+      "replacement": "Jeong",
+      "span_count": 1,
+      "speaker": "a young woman among the visiting martial artists",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One familiar address should use the name rather than “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
