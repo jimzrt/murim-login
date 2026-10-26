@@ -1,0 +1,26 @@
+{
+  "applied": true,
+  "chapter": 269,
+  "counts": {
+    "auto": 1,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Mae Jonghak, asked about Cheongpung",
+      "confidence": 0.99,
+      "current": "How is Young Hero Cheongpung?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협은 잘 있습니까?",
+      "reason": "Taekyung asks Cheongpung’s grandfather about Cheongpung in the third person; Cheongpung is not being addressed.",
+      "reason_status": "",
+      "replacement": "How is Cheongpung?",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}
