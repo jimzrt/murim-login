@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung’s second brother, referred to rather than addressed",
+      "confidence": 0.96,
+      "current": "Or Young Hero Heaven Shaking Sword.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "진천검 소협",
+      "reason": "Gong is suggesting someone who might be curious about him, not speaking to that person; “Young Hero” also sits awkwardly before the epithet.",
+      "replacement": "Or Heaven Shaking Sword.",
+      "span_count": 1,
+      "speaker": "Gong Ilhyuk",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One third-person reference should lose “Young Hero”; Li Feng’s formal address should remain unchanged.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
