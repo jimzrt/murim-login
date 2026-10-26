@@ -1,0 +1,61 @@
+{
+  "findings": [
+    {
+      "addressee": "Gung Gibang",
+      "confidence": 0.96,
+      "current": "Young Hero Gung.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "저기, 궁 소협.",
+      "reason": "Hyuk and Gung are companions who have just been bickering; this is a familiar address, not a formal introduction.",
+      "replacement": "Gung.",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Hyuk Mujin; Cheongpung is being discussed",
+      "confidence": 0.99,
+      "current": "Young Hero Cheongpung here",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협은 왜 여기 있는 거야?",
+      "reason": "Gung is asking Hyuk about Cheongpung, not addressing Cheongpung.",
+      "replacement": "Cheongpung here",
+      "span_count": 1,
+      "speaker": "Gung Gibang",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Gung Gibang; Cheongpung is being discussed",
+      "confidence": 0.99,
+      "current": "Young Hero Cheongpung went",
+      "evidence_found": true,
+      "id": "A03",
+      "korean": "청 소협이 도와준답시고 나섰다가",
+      "reason": "Hyuk is telling Gung what Cheongpung did, not addressing Cheongpung.",
+      "replacement": "Cheongpung went",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Gung Gibang",
+      "confidence": 0.95,
+      "current": "Young Hero Gung?",
+      "evidence_found": true,
+      "id": "A04",
+      "korean": "궁 소협은 어떻게 생각합니까?",
+      "reason": "Hyuk asks his familiar companion for his opinion during their ongoing conversation.",
+      "replacement": "Gung?",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Four occurrences should use the name because they are familiar addresses or third-person references.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
