@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 338,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Gung Gibang, referred to while Cheongpung addresses Jin Taekyung",
+      "confidence": 0.98,
+      "current": "Benefactor! Benefactor! Young Hero Gung ate that booger last night!",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "궁 소협이",
+      "reason": "Cheongpung is telling his benefactor what Gung did, not addressing Gung.",
+      "reason_status": "",
+      "replacement": "Benefactor! Benefactor! Gung Gibang ate that booger last night!",
+      "span_count": 1,
+      "speaker": "Cheongpung",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung, referred to in the Sect Leader’s order",
+      "confidence": 0.96,
+      "current": "Our Sect Leader Senior Brother ordered us to do our utmost to help Young Hero Jin find the Divine Physician.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "진 소협을",
+      "reason": "The Elder is describing whom the order says to help, not using 소협 as a direct address.",
+      "reason_status": "",
+      "replacement": "Our Sect Leader Senior Brother ordered us to do our utmost to help Jin Taekyung find the Divine Physician.",
+      "span_count": 1,
+      "speaker": "a Qingcheng Sect Elder",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}

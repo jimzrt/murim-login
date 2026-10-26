@@ -1,0 +1,26 @@
+{
+  "chapter": 338,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.213,
+    "source_characters": 5453,
+    "source_paragraphs": 181,
+    "translation_characters": 12068,
+    "translation_paragraphs": 184
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "기방",
+        "romanization": "gibang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
