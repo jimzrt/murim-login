@@ -1,0 +1,26 @@
+{
+  "applied": true,
+  "chapter": 943,
+  "counts": {
+    "auto": 1,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Hyuk Mujin is being referred to",
+      "confidence": 0.99,
+      "current": "Young Hero Hyuk",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "혁 소협이 했던 말",
+      "reason": "Hwaran is speaking to Taekyung about Mujin, not addressing Mujin.",
+      "reason_status": "",
+      "replacement": "Hyuk Mujin",
+      "span_count": 1,
+      "speaker": "Ju Hwaran",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}

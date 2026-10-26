@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Hyuk Mujin is being referred to",
+      "confidence": 0.99,
+      "current": "Young Hero Hyuk",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "혁 소협이 했던 말",
+      "reason": "Hwaran is speaking to Taekyung about Mujin, not addressing Mujin.",
+      "replacement": "Hyuk Mujin",
+      "span_count": 1,
+      "speaker": "Ju Hwaran",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The sole occurrence is a third-person reference and should use Hyuk Mujin’s name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
