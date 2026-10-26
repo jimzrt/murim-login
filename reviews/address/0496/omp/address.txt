@@ -1,0 +1,97 @@
+{
+  "summary": "Nine third-person references should use names instead of “Young Hero”; the direct-address uses remain unchanged.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "third_person",
+      "current": "Young Hero Gung was already there",
+      "replacement": "Gung Gibang was already there",
+      "korean": "궁 소협이",
+      "speaker": "Hyuk Mujin, writing in his diary",
+      "addressee": "Gung Gibang is referred to, not addressed",
+      "reason": "The diary recounts what Gung Gibang was doing.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Gung joined in",
+      "replacement": "Gung Gibang joined in",
+      "korean": "궁 소협도",
+      "speaker": "Hyuk Mujin, writing in his diary",
+      "addressee": "Gung Gibang is referred to, not addressed",
+      "reason": "The diary describes Gung Gibang joining the questions.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "pointed at Young Hero Gung.",
+      "replacement": "pointed at Gung Gibang.",
+      "korean": "궁 소협을",
+      "speaker": "Hyuk Mujin, writing in his diary",
+      "addressee": "Gung Gibang is referred to, not addressed",
+      "reason": "Mujin recounts the Captain pointing at Gung Gibang.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "curse Young Hero Gung out",
+      "replacement": "curse Gung Gibang out",
+      "korean": "궁 소협의",
+      "speaker": "Hyuk Mujin, writing in his diary",
+      "addressee": "Gung Gibang is referred to, not addressed",
+      "reason": "Mujin speculates about Mungyeong’s reaction to Gung Gibang.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Gung said the same thing",
+      "replacement": "Gung Gibang said the same thing",
+      "korean": "궁 소협이",
+      "speaker": "Hyuk Mujin, writing in his diary",
+      "addressee": "Gung Gibang is referred to, not addressed",
+      "reason": "The diary reports what Gung Gibang said.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Gung and I found",
+      "replacement": "Gung Gibang and I found",
+      "korean": "궁 소협과",
+      "speaker": "Hyuk Mujin, writing in his diary",
+      "addressee": "Gung Gibang is referred to, not addressed",
+      "reason": "Mujin describes training with Gung Gibang.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Cheongpung somehow found us.",
+      "replacement": "Cheongpung somehow found us.",
+      "korean": "청 소협의",
+      "speaker": "Hyuk Mujin, writing in his diary",
+      "addressee": "Cheongpung is referred to, not addressed",
+      "reason": "The diary describes Cheongpung arriving and giving advice.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "caught Young Hero Gung and me",
+      "replacement": "caught Gung Gibang and me",
+      "korean": "궁 소협과",
+      "speaker": "Hyuk Mujin, writing in his diary",
+      "addressee": "Gung Gibang is referred to, not addressed",
+      "reason": "Mujin recounts being caught alongside Gung Gibang.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Cheongpung? Don’t even",
+      "replacement": "Cheongpung? Don’t even",
+      "korean": "청 소협?",
+      "speaker": "Gung Gibang",
+      "addressee": "Hyuk Mujin; Cheongpung is referred to",
+      "reason": "Gung Gibang is talking to Mujin about the absent Cheongpung, not addressing Cheongpung.",
+      "confidence": 0.98
+    }
+  ]
+}
