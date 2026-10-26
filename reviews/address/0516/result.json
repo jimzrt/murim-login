@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 516,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.97,
+      "current": "Young Hero Cheongpung. Was it always that big?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협",
+      "reason": "Taekyung is speaking casually to a companion who calls him Benefactor, not formally addressing a stranger.",
+      "reason_status": "",
+      "replacement": "Cheongpung. Was it always that big?",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Jin Taekyung; referring to Gung Gibang",
+      "confidence": 0.99,
+      "current": "Don’t just hit me. Young Hero Gung too—oh, he’s awake.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "궁 소협",
+      "reason": "Mujin is asking Taekyung to hit Gung Gibang too, not addressing Gung.",
+      "reason_status": "",
+      "replacement": "Don’t just hit me. Gung Gibang too—oh, he’s awake.",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}

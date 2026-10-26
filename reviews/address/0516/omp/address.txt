@@ -1,0 +1,27 @@
+{
+  "summary": "Both occurrences should use names rather than “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "familiar",
+      "current": "Young Hero Cheongpung. Was it always that big?",
+      "replacement": "Cheongpung. Was it always that big?",
+      "korean": "청 소협",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung is speaking casually to a companion who calls him Benefactor, not formally addressing a stranger.",
+      "confidence": 0.97
+    },
+    {
+      "use": "third_person",
+      "current": "Don’t just hit me. Young Hero Gung too—oh, he’s awake.",
+      "replacement": "Don’t just hit me. Gung Gibang too—oh, he’s awake.",
+      "korean": "궁 소협",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Jin Taekyung; referring to Gung Gibang",
+      "reason": "Mujin is asking Taekyung to hit Gung Gibang too, not addressing Gung.",
+      "confidence": 0.99
+    }
+  ]
+}

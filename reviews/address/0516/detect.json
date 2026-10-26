@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.97,
+      "current": "Young Hero Cheongpung. Was it always that big?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협",
+      "reason": "Taekyung is speaking casually to a companion who calls him Benefactor, not formally addressing a stranger.",
+      "replacement": "Cheongpung. Was it always that big?",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Jin Taekyung; referring to Gung Gibang",
+      "confidence": 0.99,
+      "current": "Don’t just hit me. Young Hero Gung too—oh, he’s awake.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "궁 소협",
+      "reason": "Mujin is asking Taekyung to hit Gung Gibang too, not addressing Gung.",
+      "replacement": "Don’t just hit me. Gung Gibang too—oh, he’s awake.",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both occurrences should use names rather than “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
