@@ -1,0 +1,56 @@
+{
+  "applied": true,
+  "chapter": 151,
+  "counts": {
+    "auto": 3,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.93,
+      "current": "Is that okay with you, Young Hero Cheongpung?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협",
+      "reason": "Taekyung is asking a companion he already knows whether Mujin can join their training, not making a formal address.",
+      "reason_status": "",
+      "replacement": "Is that okay with you, Cheongpung?",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Jin Taekyung and Cheongpung",
+      "confidence": 0.97,
+      "current": "Captain and Young Hero Cheongpung are masters",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청풍 소협",
+      "reason": "Mujin is referring to Cheongpung as one of the two masters, not addressing him with a vocative.",
+      "reason_status": "",
+      "replacement": "Captain and Cheongpung are masters",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.94,
+      "current": "Just teach us in whatever way you’re comfortable with, Young Hero Cheongpung.",
+      "evidence_found": true,
+      "id": "A03",
+      "korean": "청 소협이",
+      "reason": "Taekyung is encouraging his familiar training companion to relax, rather than addressing him formally.",
+      "reason_status": "",
+      "replacement": "Just teach us in whatever way you’re comfortable with, Cheongpung.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    }
+  ],
+  "version": 1
+}
