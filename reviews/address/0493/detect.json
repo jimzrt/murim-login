@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.94,
+      "current": "“Hey, Young Hero Cheongpung! How’s it going?”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "어이, 청 소협! 잘되고 있지?",
+      "reason": "Taekyung calls out casually to a companion who fought alongside him, then speaks to him familiarly about their work.",
+      "replacement": "“Hey, Cheongpung! How’s it going?”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Taekyung’s casual call to his companion should use his name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
