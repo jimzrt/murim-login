@@ -1,0 +1,23 @@
+{
+  "counts": {
+    "name_absent": 1,
+    "name_variant": 0,
+    "name_variant_suspect": 0,
+    "pronoun_conflict": 0,
+    "term_absent": 1
+  },
+  "flagged": true,
+  "flags": [
+    {
+      "korean": "복면인",
+      "preferred": "Masked Man",
+      "type": "name_absent"
+    },
+    {
+      "korean": "미친놈",
+      "preferred": "Madman",
+      "type": "term_absent"
+    }
+  ],
+  "version": 1
+}

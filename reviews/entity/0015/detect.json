@@ -1,0 +1,33 @@
+{
+  "findings": [
+    {
+      "category": "kinship",
+      "confidence": 0.95,
+      "current": "The second son of the Mount Heng Sword Sect.",
+      "evidence_found": false,
+      "explanation": "Lee Seogeun is described as the Sect Leader’s blood relative and the second son, not the son of an organization.",
+      "id": "E01",
+      "korean": "항산검문주의 무공을 이은 혈육이자 일류 검객이다. / 항산검문의 차남.",
+      "origin": "detector",
+      "replacement": "The second son of the Mount Heng Sword Sect Leader.",
+      "span_count": 1
+    },
+    {
+      "category": "name",
+      "confidence": 0.99,
+      "current": "The masked man smiled",
+      "evidence_found": true,
+      "explanation": "This refers to the character rendered as Masked Man in the glossary.",
+      "id": "E02",
+      "korean": "복면인은 싱긋 웃으며",
+      "origin": "detector",
+      "replacement": "The Masked Man smiled",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The chapter has one clear kinship error and one name-rendering error.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

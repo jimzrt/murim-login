@@ -1,0 +1,60 @@
+{
+  "applied": false,
+  "chapter": 15,
+  "counts": {
+    "auto": 0,
+    "human": 3,
+    "rejected": 0
+  },
+  "findings": [
+    {
+      "category": "kinship",
+      "confidence": 0.97,
+      "current": "The second son of the Mount Heng Sword Sect.",
+      "escalation": {
+        "confidence": 0.97,
+        "id": "E01",
+        "reason": "The source identifies Lee Seogeun as the Sect Leader’s blood relative who inherited his martial arts, then calls him the Mount Heng Sword Sect’s second son; the son is the leader’s, not the organization’s.",
+        "verdict": "confirm"
+      },
+      "evidence_found": false,
+      "explanation": "Lee Seogeun is described as the Sect Leader’s blood relative and the second son, not the son of an organization.",
+      "id": "E01",
+      "korean": "항산검문주의 무공을 이은 혈육이자 일류 검객이다. / 항산검문의 차남.",
+      "origin": "detector",
+      "reason": "Korean evidence is not in the source",
+      "replacement": "The second son of the Mount Heng Sword Sect Leader.",
+      "span_count": 1,
+      "status": "human"
+    },
+    {
+      "category": "name",
+      "confidence": 0.99,
+      "current": "The masked man smiled",
+      "evidence_found": true,
+      "explanation": "This refers to the character rendered as Masked Man in the glossary.",
+      "id": "E02",
+      "korean": "복면인은 싱긋 웃으며",
+      "origin": "detector",
+      "reason": "overlaps another finding",
+      "replacement": "The Masked Man smiled",
+      "span_count": 1,
+      "status": "human"
+    },
+    {
+      "category": "name",
+      "confidence": 0.95,
+      "current": "The masked man smiled",
+      "evidence_found": true,
+      "explanation": "The source uses 복면인 here, whose glossary rendering is the character name Masked Man.",
+      "id": "S01",
+      "korean": "복면인은 싱긋 웃으며",
+      "origin": "escalation",
+      "reason": "overlaps another finding",
+      "replacement": "The Masked Man smiled",
+      "span_count": 1,
+      "status": "human"
+    }
+  ],
+  "version": 1
+}
