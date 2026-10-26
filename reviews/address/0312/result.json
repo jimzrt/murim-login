@@ -1,0 +1,86 @@
+{
+  "applied": true,
+  "chapter": 312,
+  "counts": {
+    "auto": 5,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Gung Gibang",
+      "confidence": 0.95,
+      "current": "Young Hero Gung,",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "궁 소협은",
+      "reason": "Hyuk is bantering with a traveling companion he already knows, not formally addressing a stranger.",
+      "reason_status": "",
+      "replacement": "Gung Gibang,",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.94,
+      "current": "Young Hero Cheongpung?",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협이",
+      "reason": "Hyuk reacts to a familiar companion’s remark and speaks directly to him in the next sentence.",
+      "reason_status": "",
+      "replacement": "Cheongpung?",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Hyuk Mujin",
+      "confidence": 0.96,
+      "current": "Young Hero Gung looks",
+      "evidence_found": true,
+      "id": "A03",
+      "korean": "궁 소협도",
+      "reason": "Cheongpung is telling Hyuk what he thinks of Gung, rather than addressing Gung.",
+      "reason_status": "",
+      "replacement": "Gung Gibang looks",
+      "span_count": 1,
+      "speaker": "Cheongpung",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.96,
+      "current": "pretty Young Hero Gung.",
+      "evidence_found": true,
+      "id": "A04",
+      "korean": "예쁜 궁 소협이랑",
+      "reason": "Hyuk tells Cheongpung to go with Gung, referring to Gung in the third person.",
+      "reason_status": "",
+      "replacement": "pretty Gung Gibang.",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung is being referred to",
+      "confidence": 0.99,
+      "current": "Young Hero Jin said",
+      "evidence_found": true,
+      "id": "A05",
+      "korean": "진 소협이 마지막으로 했던 말이",
+      "reason": "Ju is recalling something Jin said after he has left, not addressing him.",
+      "reason_status": "",
+      "replacement": "Jin Taekyung said",
+      "span_count": 1,
+      "speaker": "Ju Hwaran, in thought",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}

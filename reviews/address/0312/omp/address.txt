@@ -1,0 +1,57 @@
+{
+  "summary": "Five familiar or third-person uses should lose “Young Hero”; the formal addresses should remain.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "familiar",
+      "current": "Young Hero Gung,",
+      "replacement": "Gung Gibang,",
+      "korean": "궁 소협은",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Gung Gibang",
+      "reason": "Hyuk is bantering with a traveling companion he already knows, not formally addressing a stranger.",
+      "confidence": 0.95
+    },
+    {
+      "use": "familiar",
+      "current": "Young Hero Cheongpung?",
+      "replacement": "Cheongpung?",
+      "korean": "청 소협이",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Cheongpung",
+      "reason": "Hyuk reacts to a familiar companion’s remark and speaks directly to him in the next sentence.",
+      "confidence": 0.94
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Gung looks",
+      "replacement": "Gung Gibang looks",
+      "korean": "궁 소협도",
+      "speaker": "Cheongpung",
+      "addressee": "Hyuk Mujin",
+      "reason": "Cheongpung is telling Hyuk what he thinks of Gung, rather than addressing Gung.",
+      "confidence": 0.96
+    },
+    {
+      "use": "third_person",
+      "current": "pretty Young Hero Gung.",
+      "replacement": "pretty Gung Gibang.",
+      "korean": "예쁜 궁 소협이랑",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Cheongpung",
+      "reason": "Hyuk tells Cheongpung to go with Gung, referring to Gung in the third person.",
+      "confidence": 0.96
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Jin said",
+      "replacement": "Jin Taekyung said",
+      "korean": "진 소협이 마지막으로 했던 말이",
+      "speaker": "Ju Hwaran, in thought",
+      "addressee": "Jin Taekyung is being referred to",
+      "reason": "Ju is recalling something Jin said after he has left, not addressing him.",
+      "confidence": 0.99
+    }
+  ]
+}
