@@ -39,9 +39,27 @@ python tools/run_final_batch.py 6 40 --workers 3
 ```
 
 A failed chapter stays uncommitted and the other workers continue. Inspect
-locks with `python tools/run_lock.py`. An audit takes all three work locks.
+locks with `python tools/run_lock.py`. An audit takes all four work locks.
 The wrappers require a clean Git worktree for their own path set; dirt owned
 by the other runners is ignored.
+
+## Entity Pass
+
+After final touches, a fourth queue fixes only entity errors (gender and
+pronouns, referent, name, title, affiliation, kinship) in finished chapters.
+No style edits. See `docs/WORKFLOW.md` → Entity Pass.
+
+```bash
+python tools/run_entity_pass.py 0 1191 --dry-run      # prefilter + packets + estimate, no model calls
+python tools/run_entity_pass.py 0 1191 --workers 3    # detect → escalate → apply → QA → commit
+python tools/run_next_entity.py                       # oldest finalized chapter only
+python tools/entity_pass.py report 0 1191 --output .work/entity-human.md
+```
+
+It holds `.work/entity.lock`, refuses to start while the final or translation
+lock is live, and only touches chapters whose final pass is `PROMOTED`. Each
+commit `Entity Chapter N` contains only `translations/NNNN.md` and
+`reviews/entity/NNNN/`.
 
 ## Controller Loop
 

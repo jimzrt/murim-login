@@ -138,6 +138,12 @@ def foreign_final_paths(dirty: list[str]) -> set[str]:
             continue
         if any(final_owns_path(path, number) for number in active):
             foreign.add(path)
+    # The entity queue edits finished chapters; the other runners ignore its paths.
+    try:
+        from tools.entity_pass import foreign_entity_paths
+    except ModuleNotFoundError:
+        from entity_pass import foreign_entity_paths
+    foreign.update(foreign_entity_paths(dirty))
     return foreign
 
 

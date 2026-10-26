@@ -223,6 +223,53 @@ and commit one range checkpoint after `VERIFIED`. This workflow never changes
 chapter transaction unless a human separately accepts a genuinely durable
 terminology decision.
 
+## Entity Pass
+
+A retrospective pass over finalized chapters that fixes only entity errors:
+wrong gender or pronouns for named characters, wrong referent (who did or
+said what), wrong name, title, or affiliation, and kinship errors. The rubric
+is `docs/ENTITY.md`; models, thresholds, and estimate rates are in
+`docs/entity.json`.
+
+```bash
+python tools/run_entity_pass.py 0 1191 --dry-run --summary-dir .work/entity-dry
+python tools/run_entity_pass.py 0 1191 --workers 3
+python tools/run_next_entity.py
+python tools/entity_pass.py status N
+python tools/entity_pass.py reset N        # restore the baseline and drop chapter state
+python tools/entity_pass.py report 0 1191 --output .work/entity-human.md
+```
+
+Per chapter, under `reviews/entity/NNNN/`:
+
+1. Prefilter (free): pronoun conflicts near a gendered profile name, known
+   wrong variants, suspected drift, absent profiled names, and absent proper
+   terms. It annotates the packet and the dry-run summary; every chapter still
+   gets the model pass. The summary lists characters with many pronoun
+   conflicts: that usually means the profile gender is wrong, so fix the
+   profile before the real run.
+2. Detector (`models.detector`) returns validated JSON findings with category,
+   exact `current`, `replacement`, Korean evidence, confidence, and an
+   `uncertain` flag (`detect.json`).
+3. Escalation (`models.escalation`) decides findings below
+   `escalate_below_confidence`, findings whose span or evidence cannot be
+   located, and every finding of an uncertain chapter; it may add findings
+   (`escalate.json`).
+4. Findings at or above `auto_apply_min_confidence` are applied atomically.
+   A finding goes to human review instead when its span is missing, repeated,
+   or overlaps another, its Korean evidence is not in the source, it drops a
+   footnote reference, it changes more than `max_changed_chars`, it is a
+   non-gender/name edit inside a footnote definition, or it is a gender fix
+   without gendered Korean evidence. Final QA (`tools/final_qa.py`, including
+   the name-variant check) must not gain an error; otherwise nothing is
+   applied and the chapter stops at `QA_FAILED`.
+
+Stages: `PREPARED → DETECTED → ESCALATED → READY_TO_COMMIT → COMMITTED`. A
+rerun resumes from the saved stage; a changed translation or source stops the
+chapter until `reset`. `result.json` and `report.md` hold every finding with
+its status (`auto`, `human`, `rejected`); `metrics.json` holds provider-
+reported usage. Packets and raw event logs are git-ignored.
+
 ## Frozen Translation Benchmark
 
 `python tools/benchmark.py` scores accepted copies against
