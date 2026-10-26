@@ -1,17 +1,17 @@
 {
   "version": 1,
   "models": {
-    "detector": "openai-codex/gpt-6-luna:high",
+    "detector": "openai-codex/gpt-6-sol:medium",
     "escalation": "openai-codex/gpt-6-sol:medium"
   },
   "omp_config": ".omp/review-overlay.yml",
   "timeouts": {
-    "detector": 1200,
+    "detector": 1800,
     "escalation": 1800
   },
   "packet_token_limit": 60000,
   "model_retries": 1,
-  "escalate_all_findings": true,
+  "escalate_all_findings": false,
   "escalate_below_confidence": 0.9,
   "auto_apply_min_confidence": 0.9,
   "max_changed_chars": 120,
@@ -19,10 +19,10 @@
   "pronoun_window_sentences": 1,
   "batch_workers": 3,
   "estimate": {
-    "detector_usd_per_chapter": [0.003, 0.006],
-    "escalation_usd_per_chapter": [0.06, 0.08],
-    "detector_seconds_per_chapter": 30,
-    "escalation_seconds_per_chapter": 50,
-    "escalation_rate_scenarios": [0.1, 0.3, 0.6]
+    "detector_usd_per_chapter": [0.028, 0.043],
+    "escalation_usd_per_chapter": [0.03, 0.045],
+    "detector_seconds_per_chapter": 25,
+    "escalation_seconds_per_chapter": 20,
+    "escalation_rate_scenarios": [0.1, 0.2, 0.4]
   }
 }
