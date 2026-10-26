@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 458,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.97,
+      "current": "I only said ‘something.’ I didn’t know Young Hero Cheongpung knew how to swear.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협이",
+      "reason": "Taekyung is speaking casually to a companion who has remained at his side, not formally addressing a stranger.",
+      "reason_status": "",
+      "replacement": "I only said ‘something.’ I didn’t know Cheongpung knew how to swear.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.93,
+      "current": "I wasn’t any different from you, Young Hero Cheongpung. I swore nonstop at those bastards who deserved to die, blamed myself for my helplessness, and then made a vow.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협이랑",
+      "reason": "Taekyung is answering his familiar companion’s personal question by comparing their experiences; the address is not a formal introduction or deferential exchange.",
+      "reason_status": "",
+      "replacement": "I wasn’t any different from you, Cheongpung. I swore nonstop at those bastards who deserved to die, blamed myself for my helplessness, and then made a vow.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    }
+  ],
+  "version": 1
+}

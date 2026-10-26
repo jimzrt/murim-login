@@ -1,0 +1,27 @@
+{
+  "summary": "Both occurrences are familiar address from Taekyung to Cheongpung and should use his name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "familiar",
+      "current": "I only said ‘something.’ I didn’t know Young Hero Cheongpung knew how to swear.",
+      "replacement": "I only said ‘something.’ I didn’t know Cheongpung knew how to swear.",
+      "korean": "청 소협이",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung is speaking casually to a companion who has remained at his side, not formally addressing a stranger.",
+      "confidence": 0.97
+    },
+    {
+      "use": "familiar",
+      "current": "I wasn’t any different from you, Young Hero Cheongpung. I swore nonstop at those bastards who deserved to die, blamed myself for my helplessness, and then made a vow.",
+      "replacement": "I wasn’t any different from you, Cheongpung. I swore nonstop at those bastards who deserved to die, blamed myself for my helplessness, and then made a vow.",
+      "korean": "청 소협이랑",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung is answering his familiar companion’s personal question by comparing their experiences; the address is not a formal introduction or deferential exchange.",
+      "confidence": 0.93
+    }
+  ]
+}
