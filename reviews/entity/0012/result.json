@@ -1,0 +1,26 @@
+{
+  "applied": true,
+  "chapter": 12,
+  "counts": {
+    "auto": 1,
+    "human": 0,
+    "rejected": 0
+  },
+  "findings": [
+    {
+      "category": "name",
+      "confidence": 0.98,
+      "current": "China’s thousand-year martial lineage",
+      "evidence_found": true,
+      "explanation": "The declaration invokes Zhonghua, which the glossary distinguishes from 중국 (China).",
+      "id": "E01",
+      "korean": "중화의 천년 무맥",
+      "origin": "detector",
+      "reason": "",
+      "replacement": "Zhonghua’s thousand-year martial lineage",
+      "span_count": 1,
+      "status": "auto"
+    }
+  ],
+  "version": 1
+}
