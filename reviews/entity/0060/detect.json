@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Squad Leader’s orders! Throw dirt!",
+      "evidence_found": true,
+      "explanation": "조장 is Hyuk Mujin’s address for Taekyung and is rendered “Captain” in the glossary.",
+      "id": "E01",
+      "korean": "조장 명령이다! 흙 뿌려!",
+      "origin": "detector",
+      "replacement": "Captain’s orders! Throw dirt!",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The chapter has one title mismatch and no clear gender, referent, or identity errors.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
