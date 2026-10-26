@@ -1,0 +1,51 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "The White Tiger Hall Leader let out a shrill shout.",
+      "evidence_found": true,
+      "explanation": "당주 is rendered as Hall Master in the glossary, not Hall Leader.",
+      "id": "E01",
+      "korean": "백호당주",
+      "origin": "detector",
+      "replacement": "The White Tiger Hall Master let out a shrill shout.",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "severing the White Tiger Hall Leader’s neck.",
+      "evidence_found": true,
+      "explanation": "The person killed is the 백호당주, whose title the glossary renders as Hall Master.",
+      "id": "E02",
+      "korean": "백호당주의 목을 베었기 때문이었다",
+      "origin": "detector",
+      "replacement": "severing the White Tiger Hall Master’s neck.",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "You recruited the White Tiger Hall Leader too?",
+      "evidence_found": true,
+      "explanation": "This refers to the same 백호당주; the glossary renders 당주 as Hall Master.",
+      "id": "E03",
+      "korean": "백호당주도 포섭한 게 아니었나?",
+      "origin": "detector",
+      "replacement": "You recruited the White Tiger Hall Master too?",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "No clear gender, referent, or identity error appears; the White Tiger Hall Master's title differs from the glossary in three places.",
+  "uncertain": true,
+  "uncertain_reason": "Several battlefield speakers are unnamed, though their lines reveal no clear misattribution.",
+  "version": 1
+}
