@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Gung Gibang",
+      "confidence": 0.94,
+      "current": "Young Hero Gung is right.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "궁 소협 말씀이 맞습니다.",
+      "reason": "Hyuk and Gung are companions jointly teasing Taekyung; Hyuk’s pointed politeness here is not a formal introduction or deferential address.",
+      "replacement": "Gung Gibang is right.",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One familiar address should use Gung Gibang’s name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
