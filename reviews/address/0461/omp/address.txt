@@ -1,0 +1,37 @@
+{
+  "summary": "All three occurrences should use Cheongpung’s name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "familiar",
+      "current": "Young Hero Cheongpung, follow me to the stern.",
+      "replacement": "Cheongpung, follow me to the stern.",
+      "korean": "청 소협은",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung is giving an ordinary task assignment to a companion who already knows him as Benefactor, not making a formal address.",
+      "confidence": 0.96
+    },
+    {
+      "use": "familiar",
+      "current": "Young Hero Cheongpung and Gung Gibang, use the Wall Lizard Technique to search the cliffs.",
+      "replacement": "Cheongpung and Gung Gibang, use the Wall Lizard Technique to search the cliffs.",
+      "korean": "청 소협과 궁기방은",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung and Gung Gibang",
+      "reason": "Taekyung is assigning work to familiar companions; the serious warning that follows does not make this a formal introduction or deferential address.",
+      "confidence": 0.94
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Cheongpung and Gung Gibang have the cliffs covered,",
+      "replacement": "Cheongpung and Gung Gibang have the cliffs covered,",
+      "korean": "청 소협과 궁기방이",
+      "speaker": "Jin Taekyung",
+      "addressee": "Hyuk Mujin; Cheongpung is being referred to",
+      "reason": "Taekyung is explaining Cheongpung’s assignment to Mujin, not addressing Cheongpung.",
+      "confidence": 0.99
+    }
+  ]
+}

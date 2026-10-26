@@ -1,0 +1,48 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.96,
+      "current": "Young Hero Cheongpung, follow me to the stern.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협은",
+      "reason": "Taekyung is giving an ordinary task assignment to a companion who already knows him as Benefactor, not making a formal address.",
+      "replacement": "Cheongpung, follow me to the stern.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Cheongpung and Gung Gibang",
+      "confidence": 0.94,
+      "current": "Young Hero Cheongpung and Gung Gibang, use the Wall Lizard Technique to search the cliffs.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협과 궁기방은",
+      "reason": "Taekyung is assigning work to familiar companions; the serious warning that follows does not make this a formal introduction or deferential address.",
+      "replacement": "Cheongpung and Gung Gibang, use the Wall Lizard Technique to search the cliffs.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Hyuk Mujin; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "Young Hero Cheongpung and Gung Gibang have the cliffs covered,",
+      "evidence_found": true,
+      "id": "A03",
+      "korean": "청 소협과 궁기방이",
+      "reason": "Taekyung is explaining Cheongpung’s assignment to Mujin, not addressing Cheongpung.",
+      "replacement": "Cheongpung and Gung Gibang have the cliffs covered,",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "All three occurrences should use Cheongpung’s name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
