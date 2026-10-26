@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "another onlooker, referring to Jin Taekyung",
+      "confidence": 0.98,
+      "current": "That’s Young Hero Jin Taekyung, the Sleeping Dragon of Shanxi.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "저분이 바로 산서잠룡 진태경 소협일세.",
+      "reason": "The speaker is identifying Taekyung to someone else, not addressing him.",
+      "replacement": "That’s Jin Taekyung, the Sleeping Dragon of Shanxi.",
+      "span_count": 1,
+      "speaker": "an onlooker",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The onlooker’s third-person reference should use Jin Taekyung’s name; the official’s formal use remains unchanged.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
