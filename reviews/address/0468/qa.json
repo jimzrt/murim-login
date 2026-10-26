@@ -1,0 +1,26 @@
+{
+  "chapter": 468,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 2.324,
+    "source_characters": 5508,
+    "source_paragraphs": 145,
+    "translation_characters": 12798,
+    "translation_paragraphs": 150
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "현공",
+        "romanization": "hyeongong"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
