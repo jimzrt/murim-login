@@ -1,0 +1,71 @@
+{
+  "applied": true,
+  "chapter": 528,
+  "counts": {
+    "auto": 4,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "confidence": 0.98,
+      "current": "you and Young Hero Cheongpung.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "너와 청 소협을",
+      "reason": "Gung is telling Taekyung who others want to meet, not addressing Cheongpung.",
+      "reason_status": "",
+      "replacement": "you and Cheongpung.",
+      "span_count": 1,
+      "speaker": "Gung Gibang",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "confidence": 0.97,
+      "current": "What about Young Hero Cheongpung?",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "그럼 청 소협은?",
+      "reason": "Gung asks Taekyung about Cheongpung before Cheongpung answers.",
+      "reason_status": "",
+      "replacement": "What about Cheongpung?",
+      "span_count": 1,
+      "speaker": "Gung Gibang",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "confidence": 0.99,
+      "current": "That bastard isn’t Young Hero Cheongpung.",
+      "evidence_found": true,
+      "id": "A03",
+      "korean": "저 새끼 저거, 청 소협 아닙니다.",
+      "reason": "Mujin is identifying Cheongpung in a silent exchange with Taekyung, not addressing him.",
+      "reason_status": "",
+      "replacement": "That bastard isn’t Cheongpung.",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "herself; referring to Gung Gibang",
+      "confidence": 0.99,
+      "current": "Young Hero Gung made such a bold promise.",
+      "evidence_found": true,
+      "id": "A04",
+      "korean": "궁 소협이 호언장담하셨는데.",
+      "reason": "Hwaran is thinking about Gung’s promise, not addressing him.",
+      "reason_status": "",
+      "replacement": "Gung Gibang made such a bold promise.",
+      "span_count": 1,
+      "speaker": "Ju Hwaran",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}

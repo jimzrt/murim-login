@@ -1,0 +1,47 @@
+{
+  "summary": "Four third-person references should use names instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "third_person",
+      "current": "you and Young Hero Cheongpung.",
+      "replacement": "you and Cheongpung.",
+      "korean": "너와 청 소협을",
+      "speaker": "Gung Gibang",
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "reason": "Gung is telling Taekyung who others want to meet, not addressing Cheongpung.",
+      "confidence": 0.98
+    },
+    {
+      "use": "third_person",
+      "current": "What about Young Hero Cheongpung?",
+      "replacement": "What about Cheongpung?",
+      "korean": "그럼 청 소협은?",
+      "speaker": "Gung Gibang",
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "reason": "Gung asks Taekyung about Cheongpung before Cheongpung answers.",
+      "confidence": 0.97
+    },
+    {
+      "use": "third_person",
+      "current": "That bastard isn’t Young Hero Cheongpung.",
+      "replacement": "That bastard isn’t Cheongpung.",
+      "korean": "저 새끼 저거, 청 소협 아닙니다.",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "reason": "Mujin is identifying Cheongpung in a silent exchange with Taekyung, not addressing him.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Gung made such a bold promise.",
+      "replacement": "Gung Gibang made such a bold promise.",
+      "korean": "궁 소협이 호언장담하셨는데.",
+      "speaker": "Ju Hwaran",
+      "addressee": "herself; referring to Gung Gibang",
+      "reason": "Hwaran is thinking about Gung’s promise, not addressing him.",
+      "confidence": 0.99
+    }
+  ]
+}
