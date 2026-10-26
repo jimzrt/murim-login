@@ -1,0 +1,29 @@
+{
+  "applied": false,
+  "chapter": 72,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 1
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.96,
+      "current": "cheap baijiu",
+      "evidence_found": true,
+      "explanation": "화주 is rendered as “strong liquor” in the chapter glossary, not “baijiu.”",
+      "id": "E01",
+      "korean": "싸구려 화주",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "cheap strong liquor",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}
