@@ -1,0 +1,51 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "From now on, call me Squad Leader.",
+      "evidence_found": true,
+      "explanation": "Taekyung asks to be addressed as 조장님, which the glossary renders as Captain.",
+      "id": "E01",
+      "korean": "앞으로 조장님, 이라고 불러라.",
+      "origin": "detector",
+      "replacement": "From now on, call me Captain.",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Young Master—no, Squad Leader!",
+      "evidence_found": true,
+      "explanation": "Han Yeop changes his address to 조장님, which the glossary renders as Captain.",
+      "id": "E02",
+      "korean": "공자, 아니 조장님!",
+      "origin": "detector",
+      "replacement": "Young Master—no, Captain!",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "I’ll do whatever the Squad Leader says!",
+      "evidence_found": true,
+      "explanation": "Han Yeop addresses Taekyung as 조장님, which the glossary renders as Captain.",
+      "id": "E03",
+      "korean": "저는 조장님 말씀을 따르겠습니다!",
+      "origin": "detector",
+      "replacement": "I’ll do whatever the Captain says!",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "No gender, referent, or identity errors found; three uses of a title differ from the glossary.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

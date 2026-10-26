@@ -1,0 +1,31 @@
+{
+  "uncertain": false,
+  "uncertain_reason": "",
+  "summary": "No gender, referent, or identity errors found; three uses of a title differ from the glossary.",
+  "findings": [
+    {
+      "category": "term",
+      "current": "From now on, call me Squad Leader.",
+      "replacement": "From now on, call me Captain.",
+      "korean": "앞으로 조장님, 이라고 불러라.",
+      "explanation": "Taekyung asks to be addressed as 조장님, which the glossary renders as Captain.",
+      "confidence": 0.99
+    },
+    {
+      "category": "term",
+      "current": "Young Master—no, Squad Leader!",
+      "replacement": "Young Master—no, Captain!",
+      "korean": "공자, 아니 조장님!",
+      "explanation": "Han Yeop changes his address to 조장님, which the glossary renders as Captain.",
+      "confidence": 0.99
+    },
+    {
+      "category": "term",
+      "current": "I’ll do whatever the Squad Leader says!",
+      "replacement": "I’ll do whatever the Captain says!",
+      "korean": "저는 조장님 말씀을 따르겠습니다!",
+      "explanation": "Han Yeop addresses Taekyung as 조장님, which the glossary renders as Captain.",
+      "confidence": 0.99
+    }
+  ]
+}
