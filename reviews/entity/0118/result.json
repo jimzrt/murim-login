@@ -1,0 +1,35 @@
+{
+  "applied": false,
+  "chapter": 118,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 1,
+    "term": 0
+  },
+  "findings": [
+    {
+      "category": "identity",
+      "confidence": 0.7,
+      "current": "Jin Taekyung’s iron spear",
+      "escalation": {
+        "confidence": 0.96,
+        "id": "E01",
+        "reason": "Although this sentence says 진무경, the chapter has Jin Taekyung grip and wield the iron spear immediately before the clash, then identifies him as the one retreating with the damaged spear immediately afterward. Jin Mukyung does not appear in the scene.",
+        "verdict": "reject"
+      },
+      "evidence_found": true,
+      "explanation": "The Korean names Jin Mukyung as the owner of the iron spear, while the English names Jin Taekyung; the surrounding scene, however, supports Taekyung.",
+      "id": "E01",
+      "korean": "진무경의 철창과 풍양의 곡도가",
+      "origin": "detector",
+      "reason": "Although this sentence says 진무경, the chapter has Jin Taekyung grip and wield the iron spear immediately before the clash, then identifies him as the one retreating with the damaged spear immediately afterward. Jin Mukyung does not appear in the scene.",
+      "replacement": "Jin Mukyung’s iron spear",
+      "scope": "entity",
+      "scope_reason": "",
+      "span_count": 1,
+      "status": "rejected"
+    }
+  ],
+  "version": 1
+}
