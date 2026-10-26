@@ -1,0 +1,27 @@
+{
+  "chapter": 1155,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 1.888,
+    "source_characters": 5335,
+    "source_paragraphs": 117,
+    "translation_characters": 10073,
+    "translation_paragraphs": 116
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "0",
+          "2",
+          "5"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    }
+  ]
+}
