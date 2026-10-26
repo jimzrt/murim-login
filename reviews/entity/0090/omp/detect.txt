@@ -1,0 +1,23 @@
+{
+  "uncertain": false,
+  "uncertain_reason": "",
+  "summary": "No gender, referent, or identity errors were found; two instances of Guild House differ from the glossary.",
+  "findings": [
+    {
+      "category": "term",
+      "current": "The Guild house remodeling is supposed to be finished in a week.",
+      "replacement": "The Guild House remodeling is supposed to be finished in a week.",
+      "korean": "길드 하우스 리모델링이 일주일 뒤에 끝난다고 해서요.",
+      "explanation": "길드 하우스 is rendered Guild House in the glossary.",
+      "confidence": 0.99
+    },
+    {
+      "category": "term",
+      "current": "because of Guild house remodeling?",
+      "replacement": "because of Guild House remodeling?",
+      "korean": "길드 하우스 리모델링 때문에 레이드를 쉬는 경우도 있나?",
+      "explanation": "This is the same glossary term, Guild House.",
+      "confidence": 0.99
+    }
+  ]
+}

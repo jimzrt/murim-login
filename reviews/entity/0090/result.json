@@ -1,0 +1,45 @@
+{
+  "applied": false,
+  "chapter": 90,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 2
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "The Guild house remodeling is supposed to be finished in a week.",
+      "evidence_found": true,
+      "explanation": "길드 하우스 is rendered Guild House in the glossary.",
+      "id": "E01",
+      "korean": "길드 하우스 리모델링이 일주일 뒤에 끝난다고 해서요.",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "The Guild House remodeling is supposed to be finished in a week.",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "because of Guild house remodeling?",
+      "evidence_found": true,
+      "explanation": "This is the same glossary term, Guild House.",
+      "id": "E02",
+      "korean": "길드 하우스 리모델링 때문에 레이드를 쉬는 경우도 있나?",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "because of Guild House remodeling?",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}
