@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Gung Gibang",
+      "confidence": 0.96,
+      "current": "No. Just you, Young Hero Gung.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "궁 소협",
+      "reason": "Mujin is teasing a squad companion he knows, not formally addressing a stranger; the polite Korean address is pointed in this exchange.",
+      "replacement": "No. Just you, Gung Gibang.",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The sole occurrence is a pointed exchange between familiar companions, so it should use Gung Gibang’s name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
