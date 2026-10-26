@@ -148,8 +148,9 @@ class EscalationTest(unittest.TestCase):
             raw_finding(),
             raw_finding(current="Jin Taekyung spoke", replacement="The Bow Saint spoke",
                         category="referent", confidence=0.6),
-            raw_finding(current="missing span", replacement="other span"),
-            raw_finding(current="The Bow", replacement="A Bow", category="name", korean="없는 말"),
+            raw_finding(current="his missing bow", replacement="her missing bow"),
+            raw_finding(current="Jin Taekyung spoke", replacement="Jin Wikyung spoke", category="name",
+                        korean="없는 말"),
         )
         self.assertEqual(entity_pass.select_escalation(detection, CFG), ["E02", "E03", "E04"])
 
@@ -168,7 +169,7 @@ class EscalationTest(unittest.TestCase):
     def test_resolve_applies_verdicts(self):
         detection = self.detection(
             raw_finding(),
-            raw_finding(current="Jin Taekyung spoke", replacement="Taekyung shouted",
+            raw_finding(current="Jin Taekyung spoke", replacement="The Bow Saint spoke",
                         category="referent", korean="진태경이 말했다", confidence=0.5),
         )
         escalation = {"decisions": [{"id": "E02", "verdict": "reject", "confidence": 0.9, "reason": "fine"}],
@@ -177,11 +178,55 @@ class EscalationTest(unittest.TestCase):
         self.assertEqual([item["status"] for item in findings], ["auto", "rejected"])
 
     def test_amended_finding_uses_new_span(self):
-        detection = self.detection(raw_finding(current="his bow", confidence=0.5))
+        detection = self.detection(raw_finding(current="his bow", replacement="her bow", confidence=0.5))
         escalation = {"decisions": [{"id": "E01", "verdict": "amend", "confidence": 0.95, "reason": "x",
                                      "current": "drew his bow", "replacement": "drew her bow"}], "added": []}
         findings = entity_pass.resolve(detection, escalation, ["E01"], CFG, SOURCE, TEXT)
         self.assertEqual((findings[0]["status"], findings[0]["current"]), ("auto", "drew his bow"))
+
+
+class ScopeTest(unittest.TestCase):
+    def scope(self, **overrides):
+        return entity_pass.validate_detection({"findings": [raw_finding(**overrides)]}, SOURCE, TEXT)["findings"][0]
+
+    def test_pronoun_and_speaker_fixes_are_in_scope(self):
+        self.assertEqual(self.scope()["scope"], "entity")
+        swap = self.scope(category="referent", current="I won’t let go!", replacement="You won’t let go!")
+        self.assertEqual(swap["scope"], "entity")
+        agreement = self.scope(category="referent", current="ever since you were young",
+                               replacement="ever since I was young")
+        self.assertEqual(agreement["scope"], "entity")
+
+    def test_term_and_title_renames_are_out_of_scope(self):
+        for overrides in (
+            {"category": "title", "current": "Novice Trainee", "replacement": "Beginner Trainee"},
+            {"category": "term", "current": "Novice Trainee", "replacement": "Beginner Trainee"},
+            {"category": "name", "current": "the Universal Language Pack", "replacement": "the Unified Language Pack"},
+            {"category": "referent", "current": "Jin Wikyung, the Lesser Family Head",
+             "replacement": "Jin Wikyung, the Young Sect Leader"},
+            {"category": "gender", "current": "drew his bow", "replacement": "drew her longbow"},
+            {"category": "name", "current": "The masked man smiled", "replacement": "The Masked Man smiled"},
+        ):
+            self.assertEqual(self.scope(**overrides)["scope"], "term", overrides)
+
+    def test_identity_needs_a_different_person_or_known_variant(self):
+        other = self.scope(category="name", current="Jin Taekyung answered", replacement="Jin Wikyung answered")
+        self.assertEqual(other["scope"], "entity")
+        source = "파이 첸이 웃었다."
+        value = {"findings": [raw_finding(category="identity", current="Pai Chen smiled",
+                                          replacement="Faye Chen smiled", korean="파이 첸이 웃었다")]}
+        variant = entity_pass.validate_detection(value, source, "Pai Chen smiled.")["findings"][0]
+        self.assertEqual(variant["scope"], "entity")
+
+    def test_term_findings_are_reported_never_applied_or_escalated(self):
+        detection = entity_pass.validate_detection({"findings": [
+            raw_finding(category="title", current="Novice Trainee", replacement="Beginner Trainee", confidence=0.5),
+        ]}, SOURCE, "Novice Trainee " + TEXT)
+        self.assertEqual(entity_pass.select_escalation(detection, CFG), [])
+        findings = entity_pass.resolve(detection, None, [], CFG, SOURCE, "Novice Trainee " + TEXT)
+        self.assertEqual(findings[0]["status"], "term")
+        report = entity_pass.report_markdown(1, findings, detection, None, {"flags": []}, False)
+        self.assertIn("## Term mismatch (not applied) (1)", report)
 
 
 class ScreenAndApplyTest(unittest.TestCase):

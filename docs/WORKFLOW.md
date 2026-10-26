@@ -227,7 +227,10 @@ terminology decision.
 
 A retrospective pass over finalized chapters that fixes only entity errors:
 wrong gender or pronouns for named characters, wrong referent (who did or
-said what), wrong name, title, or affiliation, and kinship errors. The rubric
+said what), and wrong person identity (a different person named, or a
+`docs/NAME_VARIANTS.md` wrong spelling). Terminology, title, and system-item
+renames are never applied; they are listed under “Term mismatch (not
+applied)” in `report.md`. The rubric
 is `docs/ENTITY.md`; models, thresholds, and estimate rates are in
 `docs/entity.json`.
 
@@ -251,18 +254,25 @@ Per chapter, under `reviews/entity/NNNN/`:
 2. Detector (`models.detector`) returns validated JSON findings with category,
    exact `current`, `replacement`, Korean evidence, confidence, and an
    `uncertain` flag (`detect.json`).
-3. Escalation (`models.escalation`) decides every finding while
-   `escalate_all_findings` is true (the default; the smoke test showed a wrong
-   0.99-confidence detector finding). With it false, only findings below
+   Validation classifies each finding: a `gender` fix may change only
+   pronouns and gendered nouns, a `referent` or `identity` fix only pronouns
+   and person names, and an `identity` fix must name a different person or
+   correct a NAME_VARIANTS spelling. Everything else (category `term`, or a
+   change outside those words) becomes a term mismatch: reported, never
+   escalated or applied.
+3. Escalation (`models.escalation`) decides in-scope findings below
    `escalate_below_confidence`, findings whose span or evidence cannot be
-   located, and every finding of an uncertain chapter escalate. Chapters with
-   no findings that are not marked uncertain skip escalation. Escalation may
-   add findings (`escalate.json`).
+   located, and every finding of an uncertain chapter. The default detector is
+   Sol (`gpt-6-sol:medium`) with `escalate_all_findings: false`; the detector
+   re-test found Sol detection far more complete than Luna detection plus
+   confirmation. Set `escalate_all_findings: true` to have every finding
+   confirmed. Chapters with no findings that are not marked uncertain skip
+   escalation. Escalation may add findings (`escalate.json`).
 4. Findings at or above `auto_apply_min_confidence` are applied atomically.
    A finding goes to human review instead when its span is missing, repeated,
    or overlaps another, its Korean evidence is not in the source, it drops a
    footnote reference, it changes more than `max_changed_chars`, it is a
-   non-gender/name edit inside a footnote definition, or it is a gender fix
+   non-gender/identity edit inside a footnote definition, or it is a gender fix
    without gendered Korean evidence. Final QA (`tools/final_qa.py`, including
    the name-variant check) must not gain an error; otherwise nothing is
    applied and the chapter stops at `QA_FAILED`.
@@ -270,7 +280,7 @@ Per chapter, under `reviews/entity/NNNN/`:
 Stages: `PREPARED → DETECTED → ESCALATED → READY_TO_COMMIT → COMMITTED`. A
 rerun resumes from the saved stage; a changed translation or source stops the
 chapter until `reset`. `result.json` and `report.md` hold every finding with
-its status (`auto`, `human`, `rejected`); `metrics.json` holds provider-
+its status (`auto`, `human`, `term`, `rejected`); `metrics.json` holds provider-
 reported usage. Packets and raw event logs are git-ignored.
 
 ## Frozen Translation Benchmark
