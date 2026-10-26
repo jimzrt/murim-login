@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.96,
+      "current": "Hunter training center",
+      "evidence_found": true,
+      "explanation": "The glossary specifies Hunter Training Center for 헌터 훈련소.",
+      "id": "E01",
+      "korean": "헌터 훈련소",
+      "origin": "detector",
+      "replacement": "Hunter Training Center",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One glossary term differs from its specified rendering; no gender, referent, or identity contradiction is clear.",
+  "uncertain": true,
+  "uncertain_reason": "Several squad members speak without being named during the formation dispute.",
+  "version": 1
+}
