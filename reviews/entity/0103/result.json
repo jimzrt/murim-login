@@ -1,0 +1,51 @@
+{
+  "applied": false,
+  "chapter": 103,
+  "counts": {
+    "auto": 0,
+    "human": 1,
+    "rejected": 0,
+    "term": 1
+  },
+  "findings": [
+    {
+      "category": "referent",
+      "confidence": 0.97,
+      "current": "Didn’t I suggest that we have a bout like martial artists?",
+      "escalation": {
+        "confidence": 0.97,
+        "id": "E01",
+        "reason": "Jin Mukyung asks whether Taekyung proposed a bout, and Taekyung replies that he never did; the question therefore requires “you,” not “I.”",
+        "verdict": "confirm"
+      },
+      "evidence_found": false,
+      "explanation": "Mukyung is asking whether Taekyung proposed a fight; Taekyung replies that he never did.",
+      "id": "E01",
+      "korean": "“무인답게 한 판 붙자고 하지 않았나?” “난 붙자고 한 적 없다. 비열하다고 했을 뿐.”",
+      "origin": "detector",
+      "reason": "Korean evidence is not in the source",
+      "replacement": "Didn’t you suggest that we have a bout like martial artists?",
+      "scope": "entity",
+      "scope_reason": "",
+      "span_count": 1,
+      "status": "human"
+    },
+    {
+      "category": "term",
+      "confidence": 0.96,
+      "current": "bones, muscles, and toughness",
+      "evidence_found": true,
+      "explanation": "근골 and 맷집 are the system attributes Muscles and Bones and Toughness. This term mismatch is for the record only.",
+      "id": "E02",
+      "korean": "근골과 맷집을 꾸준히 올려놓은 터라",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Muscles and Bones and Toughness",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}
