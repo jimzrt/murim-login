@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "the Slaughter Saint; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "with Young Hero Cheongpung",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청풍 소협",
+      "reason": "Gung Gibang is speaking to the Slaughter Saint about Cheongpung, not addressing Cheongpung.",
+      "replacement": "with Cheongpung",
+      "span_count": 1,
+      "speaker": "Gung Gibang",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.99,
+      "current": "So, Young Hero Cheongpung,",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협",
+      "reason": "Taekyung and Cheongpung are familiar companions, and Taekyung speaks to him casually here.",
+      "replacement": "So, Cheongpung,",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both occurrences should use Cheongpung’s name rather than “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
