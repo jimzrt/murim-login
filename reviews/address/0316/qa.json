@@ -1,0 +1,26 @@
+{
+  "chapter": 316,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.473,
+    "source_characters": 5876,
+    "source_paragraphs": 152,
+    "translation_characters": 14533,
+    "translation_paragraphs": 154
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "동의보감",
+        "romanization": "donguibogam"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 316,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.96,
+      "current": "Young Hero Cheong, could you shut your mouth for a moment?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협, 입 좀 닥쳐 봐.",
+      "reason": "Taekyung speaks bluntly to a familiar companion, not formally to a stranger.",
+      "reason_status": "",
+      "replacement": "Cheongpung, could you shut your mouth for a moment?",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "confidence": 0.99,
+      "current": "Young Hero Cheong standing here",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "여기 있는 청 소협도",
+      "reason": "Gung Gibang is describing Cheongpung to Taekyung rather than addressing Cheongpung.",
+      "reason_status": "",
+      "replacement": "Cheongpung standing here",
+      "span_count": 1,
+      "speaker": "Gung Gibang",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}
