@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Mukyung, referred to in conversation with Hyuk Mujin",
+      "confidence": 0.98,
+      "current": "Young Hero Jin over here",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "여기 진 소협은",
+      "reason": "Wolhwa is speaking about Jin Mukyung rather than addressing him.",
+      "replacement": "Jin Mukyung over here",
+      "span_count": 1,
+      "speaker": "Wolhwa",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One third-person reference should use Jin Mukyung’s name; the direct address remains appropriate.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
