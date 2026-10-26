@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "The Slaughter Saint; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "Young Hero Cheongpung knew too?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협도 알고 있었습니까?",
+      "reason": "Taekyung is asking the Slaughter Saint about Cheongpung, not addressing Cheongpung.",
+      "replacement": "Cheongpung knew too?",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One third-person reference should use Cheongpung’s name instead of the address.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
