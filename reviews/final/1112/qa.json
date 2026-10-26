@@ -1,0 +1,33 @@
+{
+  "chapter": 1112,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.04,
+    "source_characters": 8284,
+    "source_paragraphs": 193,
+    "translation_characters": 16903,
+    "translation_paragraphs": 172
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "unused_footnotes",
+      "details": {
+        "unused_definitions": [
+          "3"
+        ]
+      },
+      "message": "translation contains unused footnote definitions"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "현천",
+        "romanization": "hyeoncheon"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
