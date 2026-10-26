@@ -1,9 +1,10 @@
 {
-  "applied": true,
+  "applied": false,
   "chapter": 849,
   "counts": {
-    "auto": 1,
-    "human": 0
+    "auto": 0,
+    "human": 0,
+    "reverted": 1
   },
   "findings": [
     {
@@ -14,11 +15,11 @@
       "id": "A01",
       "korean": "진 소협",
       "reason": "The Captain is describing who the order allows inside, not addressing Jin directly.",
-      "reason_status": "",
+      "reason_status": "restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)",
       "replacement": "including Jin Taekyung",
       "span_count": 1,
       "speaker": "Captain of the Guards, relaying the Acting City Lord’s order",
-      "status": "auto",
+      "status": "reverted",
       "use": "third_person"
     }
   ],

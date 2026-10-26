@@ -3,9 +3,17 @@
 - Model: openai-codex/gpt-6-sol:medium
 - Summary: The two direct addresses are formal; the reference in the Acting City Lord’s order should use Jin Taekyung’s name.
 - Occurrences: 3
-- Applied: yes
+- Applied: no
 
-## Applied (1)
+## Applied (0)
+
+None.
+
+## Needs human review (0)
+
+None.
+
+## Reverted after review (1)
 
 ### A01 · third_person · 0.99
 
@@ -14,7 +22,4 @@
 - Korean: 진 소협
 - Speaker → addressee: Captain of the Guards, relaying the Acting City Lord’s order → Jin Taekyung, referred to rather than addressed
 - Why: The Captain is describing who the order allows inside, not addressing Jin directly.
-
-## Needs human review (0)
-
-None.
+- Status reason: restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)
