@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "Why would Young Hero Cheongpung suddenly show up here…",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청풍 소협이",
+      "reason": "Hyuk Mujin is asking his captain about the approaching Cheongpung, who is not part of the conversation.",
+      "replacement": "Why would Cheongpung suddenly show up here…",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The one occurrence must change because Hyuk Mujin is referring to Cheongpung, not addressing him.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
