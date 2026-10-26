@@ -1,0 +1,29 @@
+{
+  "applied": false,
+  "chapter": 46,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 1
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "from the Hunter training center",
+      "evidence_found": true,
+      "explanation": "헌터 훈련소 is the institution rendered as Hunter Training Center in the glossary.",
+      "id": "E01",
+      "korean": "헌터 훈련소에서 수석으로 수료한 기록이 있고",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "from the Hunter Training Center",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}

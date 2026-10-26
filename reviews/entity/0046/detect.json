@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "from the Hunter training center",
+      "evidence_found": true,
+      "explanation": "헌터 훈련소 is the institution rendered as Hunter Training Center in the glossary.",
+      "id": "E01",
+      "korean": "헌터 훈련소에서 수석으로 수료한 기록이 있고",
+      "origin": "detector",
+      "replacement": "from the Hunter Training Center",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The chapter has one glossary term mismatch and no clear gender, referent, or identity errors.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
