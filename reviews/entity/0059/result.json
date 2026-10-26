@@ -1,0 +1,45 @@
+{
+  "applied": false,
+  "chapter": 59,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 2
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "“Discipline Hall Master, you foolish friend.",
+      "evidence_found": true,
+      "explanation": "집법당 is glossed as Enforcement Hall, so the Hall Master's title uses that name.",
+      "id": "E01",
+      "korean": "“집법당주, 이 미련한 친구야.",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "“Enforcement Hall Master, you foolish friend.",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "*Hunter training camp… That was a living hell.*",
+      "evidence_found": true,
+      "explanation": "헌터 훈련소 is glossed as Hunter Training Center.",
+      "id": "E02",
+      "korean": "‘헌터 훈련소…… 정말 지옥 같은 시간이었지.’",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "*Hunter Training Center… That was a living hell.*",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}

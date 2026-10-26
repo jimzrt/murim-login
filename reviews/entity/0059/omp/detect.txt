@@ -1,0 +1,23 @@
+{
+  "uncertain": false,
+  "uncertain_reason": "",
+  "summary": "No gender, referent, or identity errors found; two institutional terms differ from the glossary.",
+  "findings": [
+    {
+      "category": "term",
+      "current": "“Discipline Hall Master, you foolish friend.",
+      "replacement": "“Enforcement Hall Master, you foolish friend.",
+      "korean": "“집법당주, 이 미련한 친구야.",
+      "explanation": "집법당 is glossed as Enforcement Hall, so the Hall Master's title uses that name.",
+      "confidence": 0.98
+    },
+    {
+      "category": "term",
+      "current": "*Hunter training camp… That was a living hell.*",
+      "replacement": "*Hunter Training Center… That was a living hell.*",
+      "korean": "‘헌터 훈련소…… 정말 지옥 같은 시간이었지.’",
+      "explanation": "헌터 훈련소 is glossed as Hunter Training Center.",
+      "confidence": 0.99
+    }
+  ]
+}

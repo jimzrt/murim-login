@@ -1,0 +1,37 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "“Discipline Hall Master, you foolish friend.",
+      "evidence_found": true,
+      "explanation": "집법당 is glossed as Enforcement Hall, so the Hall Master's title uses that name.",
+      "id": "E01",
+      "korean": "“집법당주, 이 미련한 친구야.",
+      "origin": "detector",
+      "replacement": "“Enforcement Hall Master, you foolish friend.",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "*Hunter training camp… That was a living hell.*",
+      "evidence_found": true,
+      "explanation": "헌터 훈련소 is glossed as Hunter Training Center.",
+      "id": "E02",
+      "korean": "‘헌터 훈련소…… 정말 지옥 같은 시간이었지.’",
+      "origin": "detector",
+      "replacement": "*Hunter Training Center… That was a living hell.*",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "No gender, referent, or identity errors found; two institutional terms differ from the glossary.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
