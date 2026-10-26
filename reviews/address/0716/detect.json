@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Sama Pyo; Taishan is referred to",
+      "confidence": 0.99,
+      "current": "Then should I muzzle you instead of Young Hero Taishan?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "태산 소협 대신",
+      "reason": "Hwaran is answering Sama Pyo and refers to Taishan in the third person rather than addressing him.",
+      "replacement": "Then should I muzzle you instead of Taishan?",
+      "span_count": 1,
+      "speaker": "Ju Hwaran",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One third-person reference to Taishan should lose “Young Hero”; the direct addresses remain unchanged.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

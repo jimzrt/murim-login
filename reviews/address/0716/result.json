@@ -1,0 +1,26 @@
+{
+  "applied": true,
+  "chapter": 716,
+  "counts": {
+    "auto": 1,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Sama Pyo; Taishan is referred to",
+      "confidence": 0.99,
+      "current": "Then should I muzzle you instead of Young Hero Taishan?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "태산 소협 대신",
+      "reason": "Hwaran is answering Sama Pyo and refers to Taishan in the third person rather than addressing him.",
+      "reason_status": "",
+      "replacement": "Then should I muzzle you instead of Taishan?",
+      "span_count": 1,
+      "speaker": "Ju Hwaran",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}
