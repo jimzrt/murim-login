@@ -1,0 +1,24 @@
+{
+  "chapter": 1174,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 1.849,
+    "source_characters": 5280,
+    "source_paragraphs": 165,
+    "translation_characters": 9764,
+    "translation_paragraphs": 142
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "판도라",
+        "romanization": "pandora"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
