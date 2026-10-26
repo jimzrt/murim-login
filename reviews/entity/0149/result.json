@@ -1,0 +1,51 @@
+{
+  "applied": false,
+  "chapter": 149,
+  "counts": {
+    "auto": 0,
+    "human": 1,
+    "rejected": 0,
+    "term": 1
+  },
+  "findings": [
+    {
+      "category": "referent",
+      "confidence": 0.93,
+      "current": "Didn't you hear her call Huashan’s Lone Crane her Senior Brother?",
+      "escalation": {
+        "confidence": 0.93,
+        "id": "E01",
+        "reason": "Chulwoo addresses Baek Museong as 대사형 immediately before this exchange, so the patron’s reference should use he and his, not she and her.",
+        "verdict": "confirm"
+      },
+      "evidence_found": true,
+      "explanation": "Chulwoo, not Eunhyang, had addressed Baek Museong as Senior Brother before the patron made this remark.",
+      "id": "E01",
+      "korean": "“대사형, 놈들이 갖고 있어 봤자 악행에나 쓰일 재물입니다.”",
+      "origin": "detector",
+      "reason": "current span is missing from the chapter",
+      "replacement": "Didn't you hear him call Huashan’s Lone Crane his Senior Brother?",
+      "scope": "entity",
+      "scope_reason": "",
+      "span_count": 0,
+      "status": "human"
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "the Five Great Mountains",
+      "evidence_found": true,
+      "explanation": "The glossary renders 오악 as Five Sacred Mountains. This term finding is for the record and is not applied.",
+      "id": "E02",
+      "korean": "오악(五岳)",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "the Five Sacred Mountains",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,37 @@
+{
+  "findings": [
+    {
+      "category": "referent",
+      "confidence": 0.93,
+      "current": "Didn't you hear her call Huashan’s Lone Crane her Senior Brother?",
+      "evidence_found": true,
+      "explanation": "Chulwoo, not Eunhyang, had addressed Baek Museong as Senior Brother before the patron made this remark.",
+      "id": "E01",
+      "korean": "“대사형, 놈들이 갖고 있어 봤자 악행에나 쓰일 재물입니다.”",
+      "origin": "detector",
+      "replacement": "Didn't you hear him call Huashan’s Lone Crane his Senior Brother?",
+      "scope": "entity",
+      "scope_reason": "",
+      "span_count": 0
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "the Five Great Mountains",
+      "evidence_found": true,
+      "explanation": "The glossary renders 오악 as Five Sacred Mountains. This term finding is for the record and is not applied.",
+      "id": "E02",
+      "korean": "오악(五岳)",
+      "origin": "detector",
+      "replacement": "the Five Sacred Mountains",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The English attributes Chulwoo’s address to Eunhyang and renders one glossary term differently.",
+  "uncertain": true,
+  "uncertain_reason": "Several inn patrons speak without individual speaker tags, though the identified finding is supported by the preceding dialogue.",
+  "version": 1
+}
