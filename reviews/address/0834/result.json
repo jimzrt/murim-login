@@ -1,0 +1,56 @@
+{
+  "applied": true,
+  "chapter": 834,
+  "counts": {
+    "auto": 3,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Taishan, referred to rather than addressed",
+      "confidence": 0.85,
+      "current": "I don’t see Young Hero Taishan either!",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "태산 소협도",
+      "reason": "Hwaran is reporting Taishan’s absence, not addressing him.",
+      "reason_status": "",
+      "replacement": "I don’t see Taishan either!",
+      "span_count": 1,
+      "speaker": "Ju Hwaran",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Hyuk Mujin, referred to rather than addressed",
+      "confidence": 0.85,
+      "current": "He should be with Young Hero Hyuk and the other guides, protecting the Pavilion Master.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "혁 소협이나",
+      "reason": "The speaker is describing where Mujin should be, not speaking to him.",
+      "reason_status": "",
+      "replacement": "He should be with Hyuk Mujin and the other guides, protecting the Pavilion Master.",
+      "span_count": 1,
+      "speaker": "Ju Hwaran",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Hyuk Mujin, referred to rather than addressed",
+      "confidence": 0.85,
+      "current": "Young Hero Hyuk will be fine—save the Pavilion Master first!",
+      "evidence_found": true,
+      "id": "A03",
+      "korean": "혁 소협은",
+      "reason": "The speaker tells the others to prioritize the Pavilion Master while referring to Mujin in the third person.",
+      "reason_status": "",
+      "replacement": "Hyuk Mujin will be fine—save the Pavilion Master first!",
+      "span_count": 1,
+      "speaker": "Ju Hwaran",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}
