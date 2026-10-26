@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.93,
+      "current": "“Young Hero Cheong, I’ll contribute too, even if I have to beg for the money.”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협",
+      "reason": "Gung Gibang and Cheongpung are already martial companions, and he is speaking to Cheongpung directly rather than making a formal introduction.",
+      "replacement": "“Cheongpung, I’ll contribute too, even if I have to beg for the money.”",
+      "span_count": 1,
+      "speaker": "Gung Gibang",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Gung Gibang’s familiar address to Cheongpung should use his name; Hyuk Mujin’s deferential address should remain unchanged.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
