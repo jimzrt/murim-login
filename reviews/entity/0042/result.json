@@ -1,0 +1,45 @@
+{
+  "applied": false,
+  "chapter": 42,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 2
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Gate Management Office",
+      "evidence_found": true,
+      "explanation": "The source names the Gate Management Agency, not the Gate Management Office.",
+      "id": "E01",
+      "korean": "게이트 관리청",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Gate Management Agency",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.97,
+      "current": "building housing the Management Office",
+      "evidence_found": true,
+      "explanation": "관리청 refers to the same Gate Management Agency in the description of the building.",
+      "id": "E02",
+      "korean": "관리청 공무원이 상주하는 2층짜리 건물",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "building housing the Gate Management Agency",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}
