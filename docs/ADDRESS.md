@@ -5,6 +5,14 @@ Injected only when both endpoints are present in the current chapter: the
 Korean appears in the source, or belongs to a matched compact profile.
 Overrides generic relationship prose in character profiles for this pair.
 
+`소협` (少俠) is rendered by context (`RULES.md` → Address). A “Young Hero X”
+in the Normal address column records that the Korean uses 소협 for this pair;
+it is the right English only for formal or first-meeting address, deference
+from strangers, officials, elders, servants, and innkeepers, or sarcasm.
+Between familiar friends or peers, use the name, or “young sir” where the
+address itself matters. In third-person reference, use the name. Never attach
+it to a nickname, place, or epithet unless the Korean does so on purpose.
+
 | Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
 | ------- | --------- | ------- | -------------- | ------------ | ----- |
 | 진태경 | 진무경 | younger_to_older_brother | hyung | casual-but-junior | Retain hyung for 형 in Taekyung's greeting; Mukyung then punishes the casual speech. |

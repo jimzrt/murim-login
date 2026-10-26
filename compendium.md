@@ -546,7 +546,7 @@ For actual translation work, these distinctions will prevent the English from so
 | 귀가      | **your family**                                                 |
 | 형장      | **Brother** / **Brother [Name]**                                |
 | 대협      | **Great Hero** or **Sir** depending tone                        |
-| 소협      | **Young Hero**                                                  |
+| 소협      | **Young Hero** / **young sir** / the name, by context (RULES.md → Address) |
 | 공자      | **Young Master**                                                |
 | 소저      | **Young Lady**                                                  |
 | 도사      | **Daoist**                                                      |

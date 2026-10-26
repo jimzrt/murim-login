@@ -16,7 +16,18 @@
 - Search only exact Korean terms already present in the current chapter; the compendium contains future-sensitive entries.
 - Never re-romanize established names or invent grand names for uncertain terms. First use of an unlisted name or title almost always needs a footnote or a mapped ledger term.
 - Use `qi` for Murim energy and `mana` for the modern Hunter system when the source distinguishes them. Preserve an established chapter-specific rendering such as `internal energy` when the exact glossary and surrounding Korean distinguish accumulated `공력` from resulting `기운`.
+- Address forms such as `소협` are rendered by the Address rule below, not one-for-one; a ledger row for an address form names the person, not a fixed rendering.
 - In System panels, render `등급` as `**Grade:**` for quest, item, skill, and martial-art classifications. Reserve `rank` for Hunter classifications or ordinary prose; never replace a System `Grade` field with `Rank`.
+
+## Address
+
+`소협` (少俠) is the routine polite address for any martial artist of the younger generation. Innkeepers, elders, villains, and enemies all use it, and it can be sarcastic. English “Young Hero” sounds grand and marked, so render it by context:
+
+- Keep “Young Hero X” (or a bare “Young Hero”) for formal or first-meeting address, deferential address from strangers, officials, elders, servants, and innkeepers, and sarcastic or mocking use.
+- Between friends or peers who are familiar, use just the name, or “young sir” where the address itself carries meaning.
+- In third-person reference, inside dialogue or narration, use the name: “That’s Jin Taekyung, the Sleeping Dragon of Shanxi,” not “That’s Young Hero Jin Taekyung.”
+- Never attach it to a nickname, place, or epithet (“Young Hero Taishan”) unless the Korean does so on purpose, for formality, sarcasm, or a joke the scene depends on.
+- `대협`, `소저`, `공자`, and other honorifics keep their established renderings.
 
 ## English and Markdown
 
