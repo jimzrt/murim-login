@@ -1,0 +1,39 @@
+{
+  "uncertain": true,
+  "uncertain_reason": "The Korean twice says 임창수 in a scene otherwise consistently involving 임춘수; it is unclear whether those two occurrences are source errors.",
+  "summary": "Two name occurrences differ from the Korean source, and Butler Kim’s title is reversed in two places.",
+  "findings": [
+    {
+      "category": "identity",
+      "current": "Im Chunsoo raised a hand to stop him.",
+      "replacement": "Im Changsoo raised a hand to stop him.",
+      "korean": "임창수가 손을 들어 그를 제지했기 때문이었다.",
+      "explanation": "The Korean names Im Changsoo here, though the surrounding scene suggests the source may have meant Im Chunsoo.",
+      "confidence": 0.75
+    },
+    {
+      "category": "identity",
+      "current": "Im Chunsoo went ahead, and I followed behind him.",
+      "replacement": "Im Changsoo went ahead, and I followed behind him.",
+      "korean": "임창수가 앞장섰고 내가 그 뒤를 따랐다.",
+      "explanation": "The Korean names Im Changsoo here, though the surrounding scene suggests the source may have meant Im Chunsoo.",
+      "confidence": 0.75
+    },
+    {
+      "category": "term",
+      "current": "If Kim Butler possessed a gentle charisma",
+      "replacement": "If Butler Kim possessed a gentle charisma",
+      "korean": "김 집사가 부드러운 카리스마라면",
+      "explanation": "김 집사 is rendered Butler Kim in the glossary, not Kim Butler.",
+      "confidence": 0.99
+    },
+    {
+      "category": "term",
+      "current": "Kim Butler had arrived.",
+      "replacement": "Butler Kim had arrived.",
+      "korean": "김 집사의 등장이었다.",
+      "explanation": "김 집사 is rendered Butler Kim in the glossary, not Kim Butler.",
+      "confidence": 0.99
+    }
+  ]
+}

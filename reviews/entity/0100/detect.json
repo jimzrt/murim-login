@@ -1,0 +1,65 @@
+{
+  "findings": [
+    {
+      "category": "identity",
+      "confidence": 0.75,
+      "current": "Im Chunsoo raised a hand to stop him.",
+      "evidence_found": true,
+      "explanation": "The Korean names Im Changsoo here, though the surrounding scene suggests the source may have meant Im Chunsoo.",
+      "id": "E01",
+      "korean": "임창수가 손을 들어 그를 제지했기 때문이었다.",
+      "origin": "detector",
+      "replacement": "Im Changsoo raised a hand to stop him.",
+      "scope": "term",
+      "scope_reason": "changes non-entity words: changsoo",
+      "span_count": 1
+    },
+    {
+      "category": "identity",
+      "confidence": 0.75,
+      "current": "Im Chunsoo went ahead, and I followed behind him.",
+      "evidence_found": true,
+      "explanation": "The Korean names Im Changsoo here, though the surrounding scene suggests the source may have meant Im Chunsoo.",
+      "id": "E02",
+      "korean": "임창수가 앞장섰고 내가 그 뒤를 따랐다.",
+      "origin": "detector",
+      "replacement": "Im Changsoo went ahead, and I followed behind him.",
+      "scope": "term",
+      "scope_reason": "changes non-entity words: changsoo",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "If Kim Butler possessed a gentle charisma",
+      "evidence_found": true,
+      "explanation": "김 집사 is rendered Butler Kim in the glossary, not Kim Butler.",
+      "id": "E03",
+      "korean": "김 집사가 부드러운 카리스마라면",
+      "origin": "detector",
+      "replacement": "If Butler Kim possessed a gentle charisma",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Kim Butler had arrived.",
+      "evidence_found": true,
+      "explanation": "김 집사 is rendered Butler Kim in the glossary, not Kim Butler.",
+      "id": "E04",
+      "korean": "김 집사의 등장이었다.",
+      "origin": "detector",
+      "replacement": "Butler Kim had arrived.",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Two name occurrences differ from the Korean source, and Butler Kim’s title is reversed in two places.",
+  "uncertain": true,
+  "uncertain_reason": "The Korean twice says 임창수 in a scene otherwise consistently involving 임춘수; it is unclear whether those two occurrences are source errors.",
+  "version": 1
+}

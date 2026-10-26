@@ -1,0 +1,22 @@
+{
+  "summary": "No findings were submitted to decide; the chapter has two instances of a glossary title mismatch, while the two source occurrences of 임창수 refer in context to Im Chunsoo.",
+  "decisions": [],
+  "added": [
+    {
+      "category": "term",
+      "current": "If Kim Butler possessed",
+      "replacement": "If Butler Kim possessed",
+      "korean": "김 집사가 부드러운 카리스마라면",
+      "explanation": "The glossary renders 김 집사 as Butler Kim, not Kim Butler.",
+      "confidence": 0.99
+    },
+    {
+      "category": "term",
+      "current": "Kim Butler had arrived.",
+      "replacement": "Butler Kim had arrived.",
+      "korean": "김 집사의 등장이었다.",
+      "explanation": "The same title is reversed here; the glossary rendering is Butler Kim.",
+      "confidence": 0.99
+    }
+  ]
+}
