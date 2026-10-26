@@ -1,0 +1,21 @@
+{
+  "added": [
+    {
+      "category": "referent",
+      "confidence": 0.97,
+      "current": "Your behavior until now was all an act, and ever since you were young, you’ve",
+      "evidence_found": true,
+      "explanation": "Taekyung is speaking the unfinished line about himself; Han Yeop steps in to finish it when Taekyung cannot say the epithet.",
+      "id": "S01",
+      "korean": "이 말만은 도저히 못 하겠다. 오그라드는 손발을 보호하려는 나를 대신해 한엽이 나섰다.",
+      "origin": "escalation",
+      "replacement": "My behavior until now was all an act, and ever since I was young, I’ve",
+      "span_count": 1
+    }
+  ],
+  "decisions": [],
+  "escalated": [],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The chapter has one clear speaker-attribution error; the other entity references are consistent with the Korean source.",
+  "version": 1
+}
