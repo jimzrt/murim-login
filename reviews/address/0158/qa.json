@@ -1,0 +1,34 @@
+{
+  "chapter": 158,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 2.308,
+    "source_characters": 5967,
+    "source_paragraphs": 207,
+    "translation_characters": 13773,
+    "translation_paragraphs": 192
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 175
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "2400"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    }
+  ]
+}

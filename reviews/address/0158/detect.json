@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "confidence": 0.98,
+      "current": "Young Hero Cheongpung",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청풍 소협이",
+      "reason": "Mujin is speaking to Taekyung about his sparring opponent, not addressing Cheongpung.",
+      "replacement": "Cheongpung",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The one occurrence must change because Mujin is referring to Cheongpung, not addressing him.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
