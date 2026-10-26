@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Ms. Songi",
+      "evidence_found": true,
+      "explanation": "송이 is rendered Song-i in the glossary, but the English uses Songi here.",
+      "id": "E01",
+      "korean": "송이 씨",
+      "origin": "detector",
+      "replacement": "Ms. Song-i",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One glossary term is rendered inconsistently; no gender, referent, or identity errors were found.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

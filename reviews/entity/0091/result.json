@@ -1,0 +1,29 @@
+{
+  "applied": false,
+  "chapter": 91,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 1
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Ms. Songi",
+      "evidence_found": true,
+      "explanation": "송이 is rendered Song-i in the glossary, but the English uses Songi here.",
+      "id": "E01",
+      "korean": "송이 씨",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Ms. Song-i",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}
