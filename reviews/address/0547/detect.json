@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.93,
+      "current": "Young Hero Cheongpung",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협은",
+      "reason": "Cheongpung is sitting beside Taekyung and calls him Benefactor; Taekyung’s warning about the dumplings is familiar banter, not a formal address.",
+      "replacement": "Cheongpung",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One familiar address should use Cheongpung’s name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
