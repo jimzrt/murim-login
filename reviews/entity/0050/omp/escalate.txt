@@ -1,0 +1,54 @@
+{
+  "summary": "The chapter has no clear speaker, pronoun, or identity error; the added findings are mismatches in System displays and equipment names.",
+  "decisions": [],
+  "added": [
+    {
+      "category": "term",
+      "current": "twenty spears sprang up over their heads",
+      "replacement": "twenty windows sprang up over their heads",
+      "korean": "놈들의 머리 위로 스무 개의 창이 불쑥 솟아올랐다",
+      "explanation": "The 창 above the Lizardmen are System status windows, as the level display immediately afterward shows, not spears.",
+      "confidence": 0.96
+    },
+    {
+      "category": "term",
+      "current": "Lizardman Hunter’s Leather Set.",
+      "replacement": "Lizardman Leather Set.",
+      "korean": "리자드맨 가죽 세트",
+      "explanation": "The equipment name does not contain a word corresponding to “Hunter’s.”",
+      "confidence": 0.98
+    },
+    {
+      "category": "term",
+      "current": "effect of **Lizardman Hunter’s Leather Set**.",
+      "replacement": "effect of **Lizardman Leather Set**.",
+      "korean": "[리자드맨 가죽 세트]",
+      "explanation": "The same equipment name in the System notice does not contain “Hunter’s.”",
+      "confidence": 0.98
+    },
+    {
+      "category": "term",
+      "current": "Lizardman Slayer’s Harpoon.",
+      "replacement": "Lizardman Slayer’s Spear.",
+      "korean": "리자드맨 학살자의 창",
+      "explanation": "The named weapon is a spear (창), not a harpoon (작살).",
+      "confidence": 0.99
+    },
+    {
+      "category": "term",
+      "current": "effect of **Lizardman Slayer’s Harpoon**.",
+      "replacement": "effect of **Lizardman Slayer’s Spear**.",
+      "korean": "[리자드맨 학살자의 창]",
+      "explanation": "The System notice names the spear, not a harpoon.",
+      "confidence": 0.99
+    },
+    {
+      "category": "term",
+      "current": "the Lizardman Slayer’s Harpoon traced",
+      "replacement": "the Lizardman Slayer’s Spear traced",
+      "korean": "학살자의 창이 묵직한 궤적을 그려냈다",
+      "explanation": "The weapon tracing the arc is the spear.",
+      "confidence": 0.99
+    }
+  ]
+}
