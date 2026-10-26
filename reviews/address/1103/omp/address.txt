@@ -1,0 +1,37 @@
+{
+  "summary": "All three uses are familiar address from Jin Taekyung to his companion Cheongpung and should lose “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "familiar",
+      "current": "“Young Hero Cheong.”",
+      "replacement": "“Cheongpung.”",
+      "korean": "청 소협",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung is calling to a companion he already knows, not formally addressing a stranger.",
+      "confidence": 0.96
+    },
+    {
+      "use": "familiar",
+      "current": "“……Young Hero Cheong?”",
+      "replacement": "“……Cheongpung?”",
+      "korean": "청 소협",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung calls again when his familiar companion does not answer.",
+      "confidence": 0.96
+    },
+    {
+      "use": "familiar",
+      "current": "“Young Hero Cheong! Cheongpung!”",
+      "replacement": "“Young sir! Cheongpung!”",
+      "korean": "청 소협! 청풍!",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung is calling to his companion; “young sir” preserves the shift from polite address to Cheongpung’s name without making the first call grandiose.",
+      "confidence": 0.94
+    }
+  ]
+}

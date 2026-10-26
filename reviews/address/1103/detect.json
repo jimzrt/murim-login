@@ -1,0 +1,48 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.96,
+      "current": "“Young Hero Cheong.”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협",
+      "reason": "Taekyung is calling to a companion he already knows, not formally addressing a stranger.",
+      "replacement": "“Cheongpung.”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.96,
+      "current": "“……Young Hero Cheong?”",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협",
+      "reason": "Taekyung calls again when his familiar companion does not answer.",
+      "replacement": "“……Cheongpung?”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.94,
+      "current": "“Young Hero Cheong! Cheongpung!”",
+      "evidence_found": true,
+      "id": "A03",
+      "korean": "청 소협! 청풍!",
+      "reason": "Taekyung is calling to his companion; “young sir” preserves the shift from polite address to Cheongpung’s name without making the first call grandiose.",
+      "replacement": "“Young sir! Cheongpung!”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "All three uses are familiar address from Jin Taekyung to his companion Cheongpung and should lose “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
