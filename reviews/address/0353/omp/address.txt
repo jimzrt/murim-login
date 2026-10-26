@@ -1,0 +1,27 @@
+{
+  "summary": "Both addresses are spoken by Taekyung to Cheongpung, a familiar companion, and should use his name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "familiar",
+      "current": "“Young Hero Cheong.”",
+      "replacement": "“Cheongpung.”",
+      "korean": "청 소협.",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung and Cheongpung already know each other well; Taekyung is asking a trusted companion to protect his Master.",
+      "confidence": 0.98
+    },
+    {
+      "use": "familiar",
+      "current": "Young Hero Cheong. I have a favor to ask.",
+      "replacement": "Cheongpung. I have a favor to ask.",
+      "korean": "청 소협. 부탁 하나 하자.",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung is addressing the same familiar companion as they decide which of them will leave to fight.",
+      "confidence": 0.98
+    }
+  ]
+}
