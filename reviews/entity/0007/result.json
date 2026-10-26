@@ -1,0 +1,26 @@
+{
+  "applied": true,
+  "chapter": 7,
+  "counts": {
+    "auto": 1,
+    "human": 0,
+    "rejected": 0
+  },
+  "findings": [
+    {
+      "category": "referent",
+      "confidence": 0.9,
+      "current": "I won’t let go!",
+      "evidence_found": true,
+      "explanation": "Hyuk Mujin is demanding that Jin Taekyung let go, not saying that he himself refuses to let go.",
+      "id": "E01",
+      "korean": "놔! 안 놔!",
+      "origin": "detector",
+      "reason": "",
+      "replacement": "You won’t let go!",
+      "span_count": 1,
+      "status": "auto"
+    }
+  ],
+  "version": 1
+}
