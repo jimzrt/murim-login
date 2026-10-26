@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung, referred to rather than addressed",
+      "confidence": 0.94,
+      "current": "Young Hero Jin",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "진 소협을",
+      "reason": "Zhuge Feng is telling Jeok Cheongang about Jin Taekyung, not addressing Jin directly.",
+      "replacement": "Jin Taekyung",
+      "span_count": 1,
+      "speaker": "Zhuge Feng",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The sole occurrence is a third-person reference and should use Jin Taekyung’s name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
