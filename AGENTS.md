@@ -39,7 +39,7 @@ python tools/run_final_batch.py 6 40 --workers 3
 ```
 
 A failed chapter stays uncommitted and the other workers continue. Inspect
-locks with `python tools/run_lock.py`. An audit takes all four work locks.
+locks with `python tools/run_lock.py`. An audit takes all five work locks.
 The wrappers require a clean Git worktree for their own path set; dirt owned
 by the other runners is ignored.
 
@@ -160,3 +160,21 @@ do not reopen their normal chapter transactions. Run
 and stop at `VERIFIED`. This maintenance flow performs deterministic QA, bounded
 parallel block reviews, one patch-planning call, exact atomic replacements, and
 final QA. It never advances `docs/STATE.md` or `docs/CONTEXT.json`.
+
+## Address Pass
+
+A fifth queue renders `소협` by context (`RULES.md` → Address) in finished
+chapters: “Young Hero X” stays for formal, deferential, and sarcastic address;
+familiar peers and third-person references get the name. Only chapters whose
+source contains `소협` are in scope. See `docs/WORKFLOW.md` → Address Pass.
+
+```bash
+python tools/run_address_pass.py 0 1191 --estimate                # packets + estimate, no model calls
+python tools/run_address_pass.py 0 1191 --workers 3               # model → apply → QA → commit
+python tools/address_pass.py diff 0 1191 --output .work/address-diff.md
+python tools/address_pass.py report 0 1191 --output .work/address-human.md
+```
+
+It holds `.work/address.lock` and refuses while the translation, mastering,
+final, or entity lock is live. Each commit `Address Chapter N` contains only
+`translations/NNNN.md` and `reviews/address/NNNN/`.
