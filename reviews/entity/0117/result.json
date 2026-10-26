@@ -1,0 +1,29 @@
+{
+  "applied": false,
+  "chapter": 117,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 1
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Emperor Sword Form",
+      "evidence_found": true,
+      "explanation": "The named technique 제왕검형 is rendered as “Emperor's Sword Form” in the glossary.",
+      "id": "E01",
+      "korean": "제왕검형",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Emperor's Sword Form",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}
