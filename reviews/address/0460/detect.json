@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "confidence": 0.99,
+      "current": "you or Young Hero Cheongpung, protecting my own life",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협만큼은",
+      "reason": "Gung is comparing his strength with Cheongpung’s while speaking to Taekyung, not addressing Cheongpung.",
+      "replacement": "you or Cheongpung, protecting my own life",
+      "span_count": 1,
+      "speaker": "Gung Gibang",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Gung Gibang’s reference to Cheongpung must lose “Young Hero”; Taekyung’s two familiar addresses to Cheongpung must change as well.",
+  "uncertain": true,
+  "uncertain_reason": "The two standalone “Young Hero Cheongpung.” lines are identical, so neither can be quoted as a unique single-line span under the required span rule.",
+  "version": 1
+}
