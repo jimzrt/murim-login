@@ -10,9 +10,11 @@ from unittest.mock import patch
 
 from tools import entity_pass, run_entity_pass
 from tools.run_lock import (
+    ADDRESS_LOCK_ENV,
     ENTITY_LOCK_ENV,
     FINAL_LOCK_ENV,
     LOCK_ENV,
+    hold_address_lock,
     hold_entity_lock,
     hold_final_lock,
     hold_run_lock,
@@ -328,7 +330,7 @@ class LockRefusalTest(unittest.TestCase):
     def setUp(self):
         self.temporary = tempfile.TemporaryDirectory()
         self.root = Path(self.temporary.name)
-        self.saved = {key: os.environ.pop(key, None) for key in (LOCK_ENV, FINAL_LOCK_ENV, ENTITY_LOCK_ENV)}
+        self.saved = {key: os.environ.pop(key, None) for key in (LOCK_ENV, FINAL_LOCK_ENV, ENTITY_LOCK_ENV, ADDRESS_LOCK_ENV)}
 
     def tearDown(self):
         for key, value in self.saved.items():
@@ -337,9 +339,9 @@ class LockRefusalTest(unittest.TestCase):
                 os.environ[key] = value
         self.temporary.cleanup()
 
-    def test_refuses_while_final_or_translation_lock_is_live(self):
+    def test_refuses_while_final_translation_or_address_lock_is_live(self):
         run_entity_pass.refuse_live_locks(self.root)
-        for hold in (hold_final_lock, hold_run_lock):
+        for hold in (hold_final_lock, hold_run_lock, hold_address_lock):
             with hold(self.root, holder="test"):
                 with self.assertRaises(SystemExit):
                     run_entity_pass.refuse_live_locks(self.root)
