@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Gong Ilhyuk; referring to Cheongpung",
+      "confidence": 0.99,
+      "current": "that Young Hero over there",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "저기 있는 소협",
+      "reason": "Hong Jin is asking Gong Ilhyuk about Cheongpung, not addressing Cheongpung.",
+      "replacement": "Cheongpung over there",
+      "span_count": 1,
+      "speaker": "Hong Jin",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The one listed occurrence is a third-person reference and should use Cheongpung’s name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
