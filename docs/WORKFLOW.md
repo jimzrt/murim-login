@@ -310,3 +310,40 @@ The pre-master snapshot remains at `reviews/mastering/NNNN/baseline.md`.
 Run `python tools/build.py`; select chapters and formats as documented by
 `python tools/build.py --help`. Styling lives in `tools/system-window.lua` and
 `tools/book.css`.
+
+## Address Pass
+
+A retrospective pass over finalized chapters that fixes only how `소협` is
+rendered, following `RULES.md` → Address. Model, terms, thresholds, and
+estimate rates are in `docs/address.json`. `대협` is not in scope; add it to
+`terms` only after deciding that the same rule applies.
+
+```bash
+python tools/run_address_pass.py 0 1191 --estimate
+python tools/run_address_pass.py 0 1191 --workers 3
+python tools/run_address_pass.py 0 1191 --only 148,496,716 --no-commit --retries 0
+python tools/address_pass.py status N
+python tools/address_pass.py reset N        # restore the baseline and drop chapter state
+python tools/address_pass.py diff 0 1191 --output .work/address-diff.md
+python tools/address_pass.py report 0 1191 --output .work/address-human.md
+```
+
+Per chapter, under `reviews/address/NNNN/`:
+
+1. One model call gets the Korean, the English, the rule, the matched
+   address pairs, the compact character cards, and every “Young Hero” line.
+   It returns findings with `use` (`familiar`, `third_person`, `epithet`),
+   exact `current` → `replacement`, Korean evidence with 소협, speaker,
+   addressee, reason, and confidence (`detect.json`).
+2. A finding is applied only when its span occurs exactly once, contains the
+   address phrase, cites Korean with 소협 found in the source, edits nothing
+   more than `edit_window_chars` from the phrase or over `max_changed_chars`,
+   keeps footnote references, avoids footnote definitions, does not overlap
+   another finding, and has confidence ≥ `auto_apply_min_confidence`.
+   Everything else goes to `report.md` for human review.
+3. Applied findings are atomic; final QA must not gain an error, otherwise the
+   chapter stops at `QA_FAILED`.
+
+The pass skips chapters whose final touches are not `PROMOTED` or whose entity
+pass is in flight. `run_address_pass.py` commits `Address Chapter N` one
+chapter at a time; `--no-commit` stops at `READY_TO_COMMIT`.
