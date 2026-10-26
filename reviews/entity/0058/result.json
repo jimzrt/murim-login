@@ -1,0 +1,29 @@
+{
+  "applied": false,
+  "chapter": 58,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 1
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "Jopil, a Peak master",
+      "evidence_found": true,
+      "explanation": "The source calls Jopil a 절정 고수, which the glossary renders as Peak Master.",
+      "id": "E01",
+      "korean": "절정 고수인 조필",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Jopil, a Peak Master",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}
