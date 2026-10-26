@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "model": "openai-codex/gpt-6-sol:medium",
+  "timeout": 1800,
+  "model_retries": 1,
+  "terms": {
+    "소협": "Young Hero"
+  },
+  "packet_token_limit": 60000,
+  "auto_apply_min_confidence": 0.8,
+  "max_changed_chars": 40,
+  "edit_window_chars": 24,
+  "min_baseline_preserved": 0.97,
+  "batch_workers": 3,
+  "estimate": {
+    "usd_per_1k_packet_tokens": [
+      0.003,
+      0.0039
+    ],
+    "seconds_per_chapter": 40
+  }
+}
