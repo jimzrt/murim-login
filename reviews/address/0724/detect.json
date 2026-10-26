@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Sama Pyo",
+      "confidence": 0.84,
+      "current": "Young Hero Sama!",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "사마 소협",
+      "reason": "She calls on a fellow traveling companion during the group’s informal argument, not in a formal introduction or deferential exchange.",
+      "replacement": "Sama Pyo!",
+      "span_count": 1,
+      "speaker": "Young Lady Ju",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One familiar address should use Sama Pyo’s name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
