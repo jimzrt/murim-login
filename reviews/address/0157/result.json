@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 157,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.96,
+      "current": "“That’s about it for now… Young Hero Cheongpung?”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "저기 청 소협?",
+      "reason": "Taekyung is speaking to the companion he has been sparring with for three days, not greeting him formally.",
+      "reason_status": "",
+      "replacement": "“That’s about it for now… Cheongpung?”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.96,
+      "current": "“How long did it take you to learn the Plum Blossom Fist, Young Hero Cheongpung?”",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협은 매화권 익히기까지 얼마나 걸렸어요?",
+      "reason": "Taekyung asks his familiar sparring companion a conversational question about his training.",
+      "reason_status": "",
+      "replacement": "“How long did it take you to learn the Plum Blossom Fist, Cheongpung?”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    }
+  ],
+  "version": 1
+}

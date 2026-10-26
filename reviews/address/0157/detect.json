@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.96,
+      "current": "“That’s about it for now… Young Hero Cheongpung?”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "저기 청 소협?",
+      "reason": "Taekyung is speaking to the companion he has been sparring with for three days, not greeting him formally.",
+      "replacement": "“That’s about it for now… Cheongpung?”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.96,
+      "current": "“How long did it take you to learn the Plum Blossom Fist, Young Hero Cheongpung?”",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협은 매화권 익히기까지 얼마나 걸렸어요?",
+      "reason": "Taekyung asks his familiar sparring companion a conversational question about his training.",
+      "replacement": "“How long did it take you to learn the Plum Blossom Fist, Cheongpung?”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both addresses are between familiar sparring companions and should use Cheongpung’s name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

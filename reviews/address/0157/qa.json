@@ -1,0 +1,26 @@
+{
+  "chapter": 157,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 2.387,
+    "source_characters": 6457,
+    "source_paragraphs": 203,
+    "translation_characters": 15411,
+    "translation_paragraphs": 207
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "태극",
+        "romanization": "taegeuk"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
