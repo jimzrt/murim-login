@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Old Man Jang; referring to Jin Taekyung",
+      "confidence": 0.96,
+      "current": "“Ah, that Young Hero?”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "저 소협",
+      "reason": "The merchant is identifying the young man Old Man Jang pointed out, not addressing him.",
+      "replacement": "“Ah, Jin Taekyung?”",
+      "span_count": 1,
+      "speaker": "the merchant",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung; referring to him in the City Lord's invitation",
+      "confidence": 0.98,
+      "current": "After hearing about your recent exploits, Young Hero Jin, he seems",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "진 소협의 활약",
+      "reason": "The Korean refers to Jin Taekyung's exploits as what the City Lord heard about; it does not address him as Young Hero Jin.",
+      "replacement": "After hearing about Jin Taekyung's recent exploits, he seems",
+      "span_count": 1,
+      "speaker": "the county magistrate",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both occurrences refer to Jin Taekyung in the third person and must use his name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
