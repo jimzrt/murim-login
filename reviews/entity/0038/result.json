@@ -1,0 +1,35 @@
+{
+  "applied": false,
+  "chapter": 38,
+  "counts": {
+    "auto": 0,
+    "human": 1,
+    "rejected": 0,
+    "term": 0
+  },
+  "findings": [
+    {
+      "category": "referent",
+      "confidence": 0.84,
+      "current": "“Looks like I had it wrong.”",
+      "escalation": {
+        "confidence": 0.84,
+        "id": "E01",
+        "reason": "The line follows the reconnaissance-squad members nodding at Gwak Jun’s reaction and reads as their comment on his apparent mistake. The two remarks are untagged, so their individual speakers cannot be distinguished.",
+        "verdict": "confirm"
+      },
+      "evidence_found": true,
+      "explanation": "The reconnaissance-squad members react to Gwak Jun’s apparent misunderstanding; the speaker is referring to him, not admitting a mistake of their own.",
+      "id": "E01",
+      "korean": "그 반응에 정찰조원들이 그럼 그렇지, 하는 얼굴로 고개를 끄덕였다.\n\n“잘못 알고 있었나 보군.”",
+      "origin": "detector",
+      "reason": "confidence 0.84 below 0.90",
+      "replacement": "“Looks like he had it wrong.”",
+      "scope": "entity",
+      "scope_reason": "",
+      "span_count": 1,
+      "status": "human"
+    }
+  ],
+  "version": 1
+}
