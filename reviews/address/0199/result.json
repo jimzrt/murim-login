@@ -1,9 +1,10 @@
 {
-  "applied": true,
+  "applied": false,
   "chapter": 199,
   "counts": {
-    "auto": 2,
-    "human": 0
+    "auto": 0,
+    "human": 0,
+    "reverted": 2
   },
   "findings": [
     {
@@ -14,11 +15,11 @@
       "id": "A01",
       "korean": "여기 있는 진 소협에게",
       "reason": "Ak is explaining his offer to Jeok, not addressing Jin.",
-      "reason_status": "",
+      "reason_status": "restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)",
       "replacement": "offer Jin Taekyung an opportunity",
       "span_count": 1,
       "speaker": "Ak Bulgun",
-      "status": "auto",
+      "status": "reverted",
       "use": "third_person"
     },
     {
@@ -29,11 +30,11 @@
       "id": "A02",
       "korean": "진 소협도 제의를 듣고 망설이더군요.",
       "reason": "Ak is describing Jin’s reaction to Jeok, not addressing Jin.",
-      "reason_status": "",
+      "reason_status": "restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)",
       "replacement": "Jin Taekyung also hesitated when he heard the offer.",
       "span_count": 1,
       "speaker": "Ak Bulgun",
-      "status": "auto",
+      "status": "reverted",
       "use": "third_person"
     }
   ],
