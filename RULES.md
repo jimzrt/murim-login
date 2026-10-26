@@ -24,8 +24,10 @@
 `소협` (少俠) is the routine polite address for any martial artist of the younger generation. Innkeepers, elders, villains, and enemies all use it, and it can be sarcastic. English “Young Hero” sounds grand and marked, so render it by context:
 
 - Keep “Young Hero X” (or a bare “Young Hero”) for formal or first-meeting address, deferential address from strangers, officials, elders, servants, and innkeepers, and sarcastic or mocking use.
+- Korean name + `소협` often stands in for “you”. When the person is the addressee or is present and being spoken about to their face (“진 소협의 활약”, “여기 있는 진 소협”), it is second person: keep the honorific direct address (“your exploits, Young Hero Jin”) and never turn it into a third-person name.
+- Deferential or formal speakers (officials, guards, servants, merchants, strangers, rivals keeping their distance, elders being polite) keep “Young Hero X” even in third-person reference. Only familiar speakers and narration drop it.
 - Between friends or peers who are familiar, use just the name, or “young sir” where the address itself carries meaning.
-- In third-person reference, inside dialogue or narration, use the name: “That’s Jin Taekyung, the Sleeping Dragon of Shanxi,” not “That’s Young Hero Jin Taekyung.”
+- In third-person reference by a familiar speaker or in narration, use the name: “That’s Jin Taekyung, the Sleeping Dragon of Shanxi,” not “That’s Young Hero Jin Taekyung.”
 - Never attach it to a nickname, place, or epithet (“Young Hero Taishan”) unless the Korean does so on purpose, for formality, sarcasm, or a joke the scene depends on.
 - `대협`, `소저`, `공자`, and other honorifics keep their established renderings.
 
