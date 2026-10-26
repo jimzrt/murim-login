@@ -1,0 +1,26 @@
+{
+  "applied": true,
+  "chapter": 544,
+  "counts": {
+    "auto": 1,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Gung Gibang, referred to rather than addressed",
+      "confidence": 0.98,
+      "current": "Young Hero Gung",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "궁 소협",
+      "reason": "Mujin is joking about an absent companion, not addressing him; a third-person reference uses his name.",
+      "reason_status": "",
+      "replacement": "Gung",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}
