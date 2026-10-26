@@ -1,0 +1,45 @@
+{
+  "applied": false,
+  "chapter": 53,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 2
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "A low-grade potion is more than enough…",
+      "evidence_found": true,
+      "explanation": "The glossary renders 하급 포션 as Lesser Potion.",
+      "id": "E01",
+      "korean": "하급 포션으로도 충분히",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "A Lesser Potion is more than enough…",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.95,
+      "current": "A mana field leading outside",
+      "evidence_found": true,
+      "explanation": "The glossary distinguishes 마력, magical power, from mana.",
+      "id": "E02",
+      "korean": "밖으로 통하는 마력장이 생성됐다",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "A magical-power field leading outside",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}

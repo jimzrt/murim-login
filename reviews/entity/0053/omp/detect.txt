@@ -1,0 +1,23 @@
+{
+  "uncertain": false,
+  "uncertain_reason": "",
+  "summary": "No gender, referent, or identity errors found; two terminology mismatches remain.",
+  "findings": [
+    {
+      "category": "term",
+      "current": "A low-grade potion is more than enough…",
+      "replacement": "A Lesser Potion is more than enough…",
+      "korean": "하급 포션으로도 충분히",
+      "explanation": "The glossary renders 하급 포션 as Lesser Potion.",
+      "confidence": 0.99
+    },
+    {
+      "category": "term",
+      "current": "A mana field leading outside",
+      "replacement": "A magical-power field leading outside",
+      "korean": "밖으로 통하는 마력장이 생성됐다",
+      "explanation": "The glossary distinguishes 마력, magical power, from mana.",
+      "confidence": 0.95
+    }
+  ]
+}
