@@ -1,0 +1,37 @@
+{
+  "findings": [
+    {
+      "category": "identity",
+      "confidence": 0.98,
+      "current": "“Junsu, didn’t that bastard say he had some kind of item?”",
+      "evidence_found": true,
+      "explanation": "Kim Gwondong addresses Jinsu, not Junsu.",
+      "id": "E01",
+      "korean": "“진수야, 방금 그 자식이 무슨 물건 갖고 있다고 하지 않았냐?”",
+      "origin": "detector",
+      "replacement": "“Jinsu, didn’t that bastard say he had some kind of item?”",
+      "scope": "term",
+      "scope_reason": "identity fix does not name a different person",
+      "span_count": 1
+    },
+    {
+      "category": "identity",
+      "confidence": 0.98,
+      "current": "Kim Junsu smiled meaningfully.",
+      "evidence_found": true,
+      "explanation": "The source explicitly names Kim Jinsoo as the person smiling.",
+      "id": "E02",
+      "korean": "김진수가 의미심장하게 웃었다.",
+      "origin": "detector",
+      "replacement": "Kim Jinsoo smiled meaningfully.",
+      "scope": "entity",
+      "scope_reason": "",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The final exchange names Jinsu and Kim Jinsoo in Korean, but the English names Junsu in both places.",
+  "uncertain": true,
+  "uncertain_reason": "Several Security Team speakers are unnamed, and the source switches from Kim Junsu to Kim Jinsoo at the end of the scene.",
+  "version": 1
+}

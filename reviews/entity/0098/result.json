@@ -1,0 +1,67 @@
+{
+  "applied": true,
+  "chapter": 98,
+  "counts": {
+    "auto": 1,
+    "human": 0,
+    "rejected": 0,
+    "term": 2
+  },
+  "findings": [
+    {
+      "category": "identity",
+      "confidence": 0.98,
+      "current": "“Junsu, didn’t that bastard say he had some kind of item?”",
+      "evidence_found": true,
+      "explanation": "Kim Gwondong addresses Jinsu, not Junsu.",
+      "id": "E01",
+      "korean": "“진수야, 방금 그 자식이 무슨 물건 갖고 있다고 하지 않았냐?”",
+      "origin": "detector",
+      "reason": "identity fix does not name a different person",
+      "replacement": "“Jinsu, didn’t that bastard say he had some kind of item?”",
+      "scope": "term",
+      "scope_reason": "identity fix does not name a different person",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "identity",
+      "confidence": 0.99,
+      "current": "Kim Junsu smiled meaningfully.",
+      "escalation": {
+        "confidence": 0.99,
+        "id": "E02",
+        "reason": "The source explicitly says 김진수가 의미심장하게 웃었다.",
+        "verdict": "confirm"
+      },
+      "evidence_found": true,
+      "explanation": "The source explicitly names Kim Jinsoo as the person smiling.",
+      "id": "E02",
+      "korean": "김진수가 의미심장하게 웃었다.",
+      "origin": "detector",
+      "reason": "",
+      "replacement": "Kim Jinsoo smiled meaningfully.",
+      "scope": "entity",
+      "scope_reason": "",
+      "span_count": 1,
+      "status": "auto"
+    },
+    {
+      "category": "identity",
+      "confidence": 0.98,
+      "current": "“Junsu, didn’t that bastard say he had some kind of item?”",
+      "evidence_found": true,
+      "explanation": "Kim Gwondong addresses Jinsu, and the source names Kim Jinsoo as the person who responds.",
+      "id": "S01",
+      "korean": "“진수야, 방금 그 자식이 무슨 물건 갖고 있다고 하지 않았냐?”",
+      "origin": "escalation",
+      "reason": "identity fix does not name a different person",
+      "replacement": "“Jinsoo, didn’t that bastard say he had some kind of item?”",
+      "scope": "term",
+      "scope_reason": "identity fix does not name a different person",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}

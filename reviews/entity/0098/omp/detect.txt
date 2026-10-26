@@ -1,0 +1,23 @@
+{
+  "uncertain": true,
+  "uncertain_reason": "Several Security Team speakers are unnamed, and the source switches from Kim Junsu to Kim Jinsoo at the end of the scene.",
+  "summary": "The final exchange names Jinsu and Kim Jinsoo in Korean, but the English names Junsu in both places.",
+  "findings": [
+    {
+      "category": "identity",
+      "current": "“Junsu, didn’t that bastard say he had some kind of item?”",
+      "replacement": "“Jinsu, didn’t that bastard say he had some kind of item?”",
+      "korean": "“진수야, 방금 그 자식이 무슨 물건 갖고 있다고 하지 않았냐?”",
+      "explanation": "Kim Gwondong addresses Jinsu, not Junsu.",
+      "confidence": 0.98
+    },
+    {
+      "category": "identity",
+      "current": "Kim Junsu smiled meaningfully.",
+      "replacement": "Kim Jinsoo smiled meaningfully.",
+      "korean": "김진수가 의미심장하게 웃었다.",
+      "explanation": "The source explicitly names Kim Jinsoo as the person smiling.",
+      "confidence": 0.98
+    }
+  ]
+}
