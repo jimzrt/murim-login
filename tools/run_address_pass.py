@@ -154,7 +154,7 @@ def unexpected_paths(number: int, dirty: list[str]) -> list[str]:
     ]
 
 
-def commit_address(number: int, *, holder: str = "run_address_pass") -> None:
+def commit_address(number: int, *, holder: str = "run_address_pass", message: str | None = None) -> None:
     state = load_state(number)
     if state.get("stage") not in {"READY_TO_COMMIT", "COMMITTED"}:
         raise SystemExit(f"address pass stopped at {state.get('stage')}; expected READY_TO_COMMIT")
@@ -170,7 +170,7 @@ def commit_address(number: int, *, holder: str = "run_address_pass") -> None:
         print(f"Chapter {number}  address: already recorded", flush=True)
         return
     with hold_commit_lock(ROOT, holder=holder, chapter=number, stage="committing"):
-        commit_paths(ours, f"Address Chapter {number}")
+        commit_paths(ours, message or f"Address Chapter {number}")
     applied = (state.get("counts") or {}).get("auto", 0)
     print(f"Chapter {number}  address committed ({len(ours)} files, {applied} applied)", flush=True)
 

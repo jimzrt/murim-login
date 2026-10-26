@@ -9,9 +9,14 @@ Overrides generic relationship prose in character profiles for this pair.
 in the Normal address column records that the Korean uses 소협 for this pair;
 it is the right English only for formal or first-meeting address, deference
 from strangers, officials, elders, servants, and innkeepers, or sarcasm.
-Between familiar friends or peers, use the name, or “young sir” where the
-address itself matters. In third-person reference, use the name. Never attach
-it to a nickname, place, or epithet unless the Korean does so on purpose.
+Korean name + 소협 for the addressee, or for someone present and spoken about
+to their face, is second person: keep the honorific direct address, never a
+third-person name. Deferential or formal speakers (officials, guards,
+servants, merchants, strangers, elders being polite) keep “Young Hero X” even
+in third-person reference. Only familiar speakers and narration drop it:
+between familiar friends or peers, use the name, or “young sir” where the
+address itself matters. Never attach it to a nickname, place, or epithet
+unless the Korean does so on purpose.
 
 | Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
 | ------- | --------- | ------- | -------------- | ------------ | ----- |

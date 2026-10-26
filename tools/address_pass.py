@@ -244,7 +244,8 @@ SCHEMA = """{
       "korean": "exact Korean words with 소협 that this phrase renders",
       "speaker": "who says it, or narration",
       "addressee": "who is addressed or referred to",
-      "reason": "why this use is familiar, a third-person reference, or an epithet, not formal",
+      "present": false,
+      "reason": "the speaker's relationship, and why this use is familiar, a third-person reference, or an epithet, not formal",
       "confidence": 0.0
     }
   ]
@@ -278,11 +279,20 @@ Use an empty findings array when every occurrence is right.
   scene, the address pairs, and the cards. A first meeting, a stranger, an
   official, a servant, an innkeeper, an elder being courteous, a formal
   introduction, a stern or icy register, and sarcasm keep “Young Hero”.
+- Korean name + 소협 often replaces “you”. If that person is the addressee,
+  or is present and spoken about to their face (“진 소협의 활약”, “여기 있는
+  진 소협”), it is second person: keep the honorific direct address. Never
+  report it as `third_person`, and never rewrite “your …, Young Hero Jin”
+  into a third-person name.
+- The speaker decides, not the grammar: a deferential or formal speaker
+  (official, guard, captain relaying orders, servant, merchant, stranger,
+  rival keeping his distance, elder being polite) keeps “Young Hero X” even
+  when referring to someone in the third person. Do not report those.
 - Familiar friends, comrades, and companions who already know each other use
   the name (“Cheongpung”, “Gung Gibang”, the established short form) or
   “young sir” only when the address itself carries meaning. `use: familiar`.
-- A reference to someone who is not being addressed, in dialogue or in
-  narration, uses the name. `use: third_person`.
+- A familiar speaker referring to someone who is absent, or narration, uses
+  the name. `use: third_person`. Name the speaker's relationship in `reason`.
 - “Young Hero” attached to a nickname, place, or epithet is wrong unless the
   Korean does it on purpose. `use: epithet`.
 - When unsure, leave it unchanged. Never report a formal or deferential use.
@@ -301,7 +311,9 @@ Use an empty findings array when every occurrence is right.
 3. `korean` quotes the exact Korean words containing 소협 for this occurrence.
 4. Set `confidence` honestly: 0.9+ only when the relationship is explicit in
    this chapter.
-5. Set `uncertain` when the chapter has speakers or relationships you cannot
+5. Set `present` to true when the person named is the addressee or is in
+   the scene being spoken about to their face.
+6. Set `uncertain` when the chapter has speakers or relationships you cannot
    resolve.
 
 ## English occurrences to decide
@@ -387,9 +399,42 @@ def _finding(raw: object, label: str, cfg: dict) -> dict:
         "korean": raw["korean"].strip(),
         "speaker": str(raw.get("speaker") or "").strip(),
         "addressee": str(raw.get("addressee") or "").strip(),
+        "present": raw.get("present") if isinstance(raw.get("present"), bool) else None,
         "reason": raw["reason"].strip(),
         "confidence": _confidence(raw.get("confidence"), label),
     }
+
+
+def _invalid_finding(raw: object, error: str) -> dict:
+    value = raw if isinstance(raw, dict) else {}
+
+    def text(key: str) -> str:
+        return value[key] if isinstance(value.get(key), str) else ""
+
+    confidence = value.get("confidence")
+    return {
+        "use": text("use").strip().lower() or "invalid",
+        "current": text("current"),
+        "replacement": text("replacement"),
+        "korean": text("korean").strip(),
+        "speaker": text("speaker").strip(),
+        "addressee": text("addressee").strip(),
+        "present": None,
+        "reason": text("reason").strip() or "—",
+        "confidence": float(confidence) if isinstance(confidence, (int, float)) and not isinstance(confidence, bool)
+        and 0 <= confidence <= 1 else 0.0,
+        "invalid": error,
+    }
+
+
+# A deferential or formal speaker keeps “Young Hero X” even in the third person.
+DEFERENTIAL_SPEAKER = re.compile(
+    r"\b(?:official|magistrate|guard|guards|captain|soldier|servant|maid|attendant|steward|butler|"
+    r"merchant|shopkeeper|innkeeper|clerk|manager|supervisor|judge|examiner|herald|messenger|"
+    r"stranger|passerby|onlooker|instructor|host|official's|elder|elders|lord|minister)\b",
+    re.IGNORECASE,
+)
+SECOND_PERSON = re.compile(r"\b(?:you|your|yours|yourself)\b", re.IGNORECASE)
 
 
 def validate_detection(value: dict, source: str, translation: str, cfg: dict) -> dict:
@@ -401,7 +446,11 @@ def validate_detection(value: dict, source: str, translation: str, cfg: dict) ->
         raise ValueError("uncertain must be true or false")
     normalized = []
     for position, raw in enumerate(findings, 1):
-        item = _finding(raw, f"finding {position}", cfg)
+        try:
+            item = _finding(raw, f"finding {position}", cfg)
+        except ValueError as exc:
+            # One malformed finding goes to human review; the valid ones still apply.
+            item = _invalid_finding(raw, str(exc))
         item["id"] = f"A{position:02d}"
         item["span_count"] = translation.count(item["current"])
         item["evidence_found"] = _squash(item["korean"]) in _squash(source)
@@ -436,9 +485,13 @@ def screen(findings: list[dict], cfg: dict, translation: str) -> list[dict]:
     pattern = phrase_pattern(cfg)
     minimum = cfg["auto_apply_min_confidence"]
     for finding in findings:
+        if finding.get("invalid"):
+            finding.update(status="human", reason_status=f"invalid finding: {finding['invalid']}")
+            continue
         current, replacement = finding["current"], finding["replacement"]
         count = translation.count(current)
         problem = ""
+        third = finding["use"] == "third_person"
         if count == 0:
             problem = "current span is missing from the chapter"
         elif count > 1:
@@ -451,6 +504,12 @@ def screen(findings: list[dict], cfg: dict, translation: str) -> list[dict]:
             problem = "Korean evidence is not in the source"
         elif "\n" in current:
             problem = "span crosses a line"
+        elif third and finding.get("present"):
+            problem = "the person is present: name + 소협 is second person"
+        elif third and SECOND_PERSON.search(current) and not SECOND_PERSON.search(replacement):
+            problem = "span is second person: keep the honorific direct address"
+        elif third and DEFERENTIAL_SPEAKER.search(finding.get("speaker", "")):
+            problem = "deferential or formal speaker keeps the address in the third person"
         elif sorted(FOOTNOTE_REF.findall(current)) != sorted(FOOTNOTE_REF.findall(replacement)):
             problem = "replacement changes footnote references"
         elif changed_chars(current, replacement) > cfg["max_changed_chars"]:
@@ -490,7 +549,7 @@ def report_markdown(number: int, findings: list[dict], detection: dict, applied:
     lines.append(f"- Occurrences: {len(phrase_pattern(cfg).findall(baseline))}")
     lines.append(f"- Applied: {'yes' if applied else 'no'}")
     lines.append("")
-    for status, title in (("auto", "Applied"), ("human", "Needs human review")):
+    for status, title in (("auto", "Applied"), ("human", "Needs human review"), ("reverted", "Reverted after review")):
         items = [item for item in findings if item["status"] == status]
         lines += [f"## {title} ({len(items)})", ""]
         if not items:
@@ -643,6 +702,8 @@ def command_run(number: int, cfg: dict | None = None, *, require_final: bool = T
     source = inputs["source"]
 
     if state["stage"] == "PREPARED":
+        # Rebuild so a rerun (after a failed call or a rule change) uses the current rule.
+        atomic_text(paths["packet"], packet_for(number, inputs, cfg))
         detection = structured_call(
             number, paths, cfg, lambda value: validate_detection(value, source, baseline, cfg),
         )
@@ -682,6 +743,48 @@ def command_run(number: int, cfg: dict | None = None, *, require_final: bool = T
                        translation_sha256=sha256_text(candidate))
     step("address", "ready to commit", facts=[f"{counts['auto']} applied", f"{counts['human']} for review"])
     return state
+
+
+def command_revert(number: int, ids: list[str], reason: str, cfg: dict | None = None) -> dict:
+    """Undo applied findings after human review: replacement → current, exact and atomic."""
+    cfg = cfg or load_config()
+    paths = chapter_paths(number)
+    state = load_state(number)
+    if state.get("stage") not in {"READY_TO_COMMIT", "COMMITTED"} or not paths["result"].exists():
+        raise SystemExit(f"chapter {number} has no finished address pass to revert")
+    live = read_text(paths["translation"])
+    if sha256_text(live) != state.get("translation_sha256"):
+        raise SystemExit(f"chapter {number} translation changed after the address pass; revert by hand")
+    result = json.loads(read_text(paths["result"]))
+    findings = result.get("findings", [])
+    by_id = {item["id"]: item for item in findings}
+    chosen = []
+    for identifier in ids:
+        item = by_id.get(identifier)
+        if item is None or item.get("status") != "auto":
+            raise SystemExit(f"chapter {number}: {identifier} is not an applied finding")
+        chosen.append({"id": identifier, "current": item["replacement"], "replacement": item["current"]})
+    try:
+        candidate = apply_findings(live, chosen)
+    except ValueError as exc:
+        raise SystemExit(f"chapter {number}: revert blocked: {exc}") from None
+    source = current_source(number)
+    qa = entity_qa(number, source, live, candidate, exact_glossary(source), cfg)
+    if not qa["passed"]:
+        messages = "; ".join(item.get("message", "") for item in qa["new_errors"])
+        raise SystemExit(f"chapter {number}: revert failed final QA: {messages}")
+    for identifier in ids:
+        by_id[identifier].update(status="reverted", reason_status=reason)
+    counts = {status: sum(1 for item in findings if item["status"] == status) for status in ("auto", "human", "reverted")}
+    result.update(counts=counts, applied=counts["auto"] > 0)
+    atomic_json(paths["result"], result)
+    detection = json.loads(read_text(paths["detect"])) if paths["detect"].exists() else {}
+    atomic_text(paths["report"], report_markdown(number, findings, detection, counts["auto"] > 0, cfg,
+                                                 read_text(paths["baseline"])))
+    atomic_text(paths["translation"], candidate)
+    reverted = sorted(set(state.get("reverted", [])) | set(ids))
+    return save_state(number, stage="READY_TO_COMMIT", counts=counts, reverted=reverted,
+                      translation_sha256=sha256_text(candidate))
 
 
 def command_reset(number: int) -> None:
@@ -788,6 +891,10 @@ def main() -> int:
     run.add_argument("--retries", type=int, help="override docs/address.json model_retries")
     for name in ("status", "reset"):
         sub.add_parser(name).add_argument("chapter", type=int)
+    revert = sub.add_parser("revert", help="undo applied findings after human review; stops at READY_TO_COMMIT")
+    revert.add_argument("chapter", type=int)
+    revert.add_argument("ids", nargs="+", help="finding IDs, e.g. A01 A02")
+    revert.add_argument("--reason", required=True)
     for name in ("report", "diff"):
         command = sub.add_parser(name, help="human-review findings" if name == "report" else "before/after diff")
         command.add_argument("start", type=int)
@@ -818,6 +925,8 @@ def main() -> int:
         if args.retries is not None:
             cfg["model_retries"] = max(0, args.retries)
         action = lambda number: command_run(number, cfg)  # noqa: E731
+    elif args.command == "revert":
+        action = lambda number: command_revert(number, args.ids, args.reason)  # noqa: E731
     else:
         action = command_reset
     if parent_delegated(ADDRESS_LOCK_NAME):

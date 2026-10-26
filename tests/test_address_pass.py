@@ -72,6 +72,12 @@ class RuleTest(unittest.TestCase):
         self.assertTrue(cfg["model"])
         self.assertEqual(cfg["terms"], {"소협": "Young Hero"})
 
+    def test_packet_states_second_person_and_deferential_rules(self):
+        packet = address_pass.build_packet(1, SOURCE, TEXT, CFG, [], "(No matching address pairs.)")
+        self.assertIn("second person", packet)
+        self.assertIn("even in third-person reference", packet)
+        self.assertIn('"present": false', packet)
+
     def test_packet_lists_occurrences_and_korean_lines(self):
         packet = address_pass.build_packet(1, SOURCE, TEXT, CFG, [], "(No matching address pairs.)")
         self.assertIn("- line 3: “Young Hero Gung, let’s go together.”", packet)
@@ -85,13 +91,11 @@ class ValidationTest(unittest.TestCase):
         self.assertEqual(finding["status"], "auto", finding.get("reason_status"))
         self.assertTrue(finding["evidence_found"])
 
-    def test_invalid_use_and_hangul_are_rejected(self):
-        with self.assertRaises(ValueError):
-            address_pass.validate_detection({"findings": [raw_finding(use="style")]}, SOURCE, TEXT, CFG)
-        with self.assertRaises(ValueError):
-            address_pass.validate_detection({"findings": [raw_finding(replacement="궁 laughed.")]}, SOURCE, TEXT, CFG)
-        with self.assertRaises(ValueError):
-            address_pass.validate_detection({"findings": [raw_finding(confidence=2)]}, SOURCE, TEXT, CFG)
+    def test_invalid_use_hangul_and_confidence_go_to_human(self):
+        for bad in (dict(use="style"), dict(replacement="궁 laughed."), dict(confidence=2)):
+            finding = screened(**bad)
+            self.assertEqual(finding["status"], "human", bad)
+            self.assertIn("invalid finding", finding["reason_status"])
 
     def test_repeated_span_goes_to_human(self):
         self.assertIn("occurs", screened(current="Young Hero Gung", replacement="Gung")["reason_status"])
@@ -134,6 +138,63 @@ class ValidationTest(unittest.TestCase):
             "Young Hero Gung said that the river was cold today.",
             "Young Hero Gung said that the river was warm today.", pattern, 10,
         ))
+
+
+class InvalidFindingTest(unittest.TestCase):
+    def test_one_invalid_finding_goes_to_human_and_valid_ones_still_apply(self):
+        detection = address_pass.validate_detection({"findings": [
+            raw_finding(),
+            raw_finding(current="“Young Hero Jin, it’s an honor", replacement="“Jin, it’s an honor", korean=""),
+        ]}, SOURCE, TEXT, CFG)
+        findings = address_pass.screen(detection["findings"], CFG, TEXT)
+        self.assertEqual([item["status"] for item in findings], ["auto", "human"])
+        self.assertIn("invalid finding", findings[1]["reason_status"])
+        self.assertIn("korean", findings[1]["reason_status"])
+        applied = address_pass.apply_findings(TEXT, [findings[0]])
+        self.assertIn("Gung Gibang laughed.", applied)
+
+    def test_non_object_finding_is_kept_for_review(self):
+        detection = address_pass.validate_detection({"findings": ["oops", raw_finding()]}, SOURCE, TEXT, CFG)
+        findings = address_pass.screen(detection["findings"], CFG, TEXT)
+        self.assertEqual([item["status"] for item in findings], ["human", "auto"])
+
+    def test_missing_findings_array_still_fails_the_call(self):
+        with self.assertRaises(ValueError):
+            address_pass.validate_detection({"summary": "x"}, SOURCE, TEXT, CFG)
+
+
+class SecondPersonTest(unittest.TestCase):
+    TEXT = "# Chapter 1\n\nAfter hearing about your recent exploits, Young Hero Jin, he seems eager.\n"
+    SOURCE = "진 소협의 활약을 듣고"
+
+    def run_screen(self, **overrides) -> dict:
+        value = dict(
+            current="After hearing about your recent exploits, Young Hero Jin, he seems",
+            replacement="After hearing about Jin Taekyung's recent exploits, he seems",
+            korean="진 소협의 활약", speaker="the county magistrate", addressee="Jin Taekyung",
+        )
+        value.update(overrides)
+        detection = address_pass.validate_detection({"findings": [raw_finding(**value)]}, self.SOURCE, self.TEXT, CFG)
+        cfg = dict(CFG, max_changed_chars=80, edit_window_chars=40)
+        return address_pass.screen(detection["findings"], cfg, self.TEXT)[0]
+
+    def test_second_person_span_is_not_turned_into_third_person(self):
+        finding = self.run_screen(speaker="a friend")
+        self.assertEqual(finding["status"], "human")
+        self.assertIn("second person", finding["reason_status"])
+
+    def test_present_person_is_second_person(self):
+        finding = self.run_screen(speaker="a friend", present=True,
+                                  replacement="After hearing about your recent exploits, Jin, he seems")
+        self.assertIn("present", finding["reason_status"])
+
+    def test_deferential_speaker_keeps_the_address(self):
+        finding = screened(speaker="Captain of the Guards, relaying the order")
+        self.assertEqual(finding["status"], "human")
+        self.assertIn("deferential", finding["reason_status"])
+
+    def test_familiar_narration_still_applies(self):
+        self.assertEqual(screened(speaker="narration")["status"], "auto")
 
 
 class DiffTest(unittest.TestCase):
