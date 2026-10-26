@@ -1,9 +1,10 @@
 {
-  "applied": true,
+  "applied": false,
   "chapter": 136,
   "counts": {
-    "auto": 3,
-    "human": 0
+    "auto": 0,
+    "human": 0,
+    "reverted": 3
   },
   "findings": [
     {
@@ -14,11 +15,11 @@
       "id": "A01",
       "korean": "정 소협",
       "reason": "The two fellow heirs speak as familiar peers while recovering together.",
-      "reason_status": "",
+      "reason_status": "restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)",
       "replacement": "“Ahem. Jeong, how are your wounds?”",
       "span_count": 1,
       "speaker": "Gal",
-      "status": "auto",
+      "status": "reverted",
       "use": "familiar"
     },
     {
@@ -29,11 +30,11 @@
       "id": "A02",
       "korean": "갈 소협",
       "reason": "Jeong returns the question to his familiar peer, not a stranger or elder.",
-      "reason_status": "",
+      "reason_status": "restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)",
       "replacement": "“Ahem. More or less. How about you, Gal?”",
       "span_count": 1,
       "speaker": "Jeong",
-      "status": "auto",
+      "status": "reverted",
       "use": "familiar"
     },
     {
@@ -44,11 +45,11 @@
       "id": "A03",
       "korean": "정 소협을",
       "reason": "Gal offers help to the same fellow heir with whom he has been speaking familiarly.",
-      "reason_status": "",
+      "reason_status": "restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)",
       "replacement": "“Don’t worry. I’ll do everything in my power to help you, Jeong!”",
       "span_count": 1,
       "speaker": "Gal",
-      "status": "auto",
+      "status": "reverted",
       "use": "familiar"
     }
   ],

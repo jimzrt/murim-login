@@ -3,9 +3,17 @@
 - Model: openai-codex/gpt-6-sol:medium
 - Summary: All three addresses should use names because Jeong and Gal speak to each other as familiar peers.
 - Occurrences: 3
-- Applied: yes
+- Applied: no
 
-## Applied (3)
+## Applied (0)
+
+None.
+
+## Needs human review (0)
+
+None.
+
+## Reverted after review (3)
 
 ### A01 · familiar · 0.88
 
@@ -14,6 +22,7 @@
 - Korean: 정 소협
 - Speaker → addressee: Gal → Jeong
 - Why: The two fellow heirs speak as familiar peers while recovering together.
+- Status reason: restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)
 
 ### A02 · familiar · 0.88
 
@@ -22,6 +31,7 @@
 - Korean: 갈 소협
 - Speaker → addressee: Jeong → Gal
 - Why: Jeong returns the question to his familiar peer, not a stranger or elder.
+- Status reason: restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)
 
 ### A03 · familiar · 0.88
 
@@ -30,7 +40,4 @@
 - Korean: 정 소협을
 - Speaker → addressee: Gal → Jeong
 - Why: Gal offers help to the same fellow heir with whom he has been speaking familiarly.
-
-## Needs human review (0)
-
-None.
+- Status reason: restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)
