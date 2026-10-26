@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung, referred to while speaking to Jin Wikyung",
+      "confidence": 0.99,
+      "current": "Young Hero Jin",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "진 소협은",
+      "reason": "Song Ho is discussing Jin Taekyung with his older brother, not addressing Taekyung.",
+      "replacement": "Jin Taekyung",
+      "span_count": 1,
+      "speaker": "Song Ho",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The sole occurrence refers to Jin Taekyung in the third person and should use his name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
