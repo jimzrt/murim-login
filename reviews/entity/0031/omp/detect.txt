@@ -1,0 +1,39 @@
+{
+  "uncertain": true,
+  "uncertain_reason": "Several team members’ brief lines are unattributed in the Korean, so their individual speakers cannot be established.",
+  "summary": "The entity references are consistent, but three shield mentions and one hall title differ from the glossary.",
+  "findings": [
+    {
+      "category": "term",
+      "current": "three Hunters carrying enormous tower shields",
+      "replacement": "three Hunters carrying enormous Tower Shields",
+      "korean": "거대한 타워 실드를 짊어진 헌터 셋",
+      "explanation": "타워 실드 is listed as Tower Shield in the glossary.",
+      "confidence": 0.98
+    },
+    {
+      "category": "term",
+      "current": "those big, beautiful tower shields",
+      "replacement": "those big, beautiful Tower Shields",
+      "korean": "크고 아름다운 타워 실드",
+      "explanation": "타워 실드 is listed as Tower Shield in the glossary.",
+      "confidence": 0.98
+    },
+    {
+      "category": "term",
+      "current": "The tanks dropped their tower shields",
+      "replacement": "The tanks dropped their Tower Shields",
+      "korean": "탱커들이 타워 실드를 떨어트리는 동시에",
+      "explanation": "타워 실드 is listed as Tower Shield in the glossary.",
+      "confidence": 0.98
+    },
+    {
+      "category": "term",
+      "current": "White Tiger Hall Leader’s anus",
+      "replacement": "White Tiger Hall Master’s anus",
+      "korean": "백호당주의 항문",
+      "explanation": "The title 당주 is listed as Hall Master in the glossary.",
+      "confidence": 0.96
+    }
+  ]
+}

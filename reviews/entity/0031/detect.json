@@ -1,0 +1,65 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "three Hunters carrying enormous tower shields",
+      "evidence_found": true,
+      "explanation": "타워 실드 is listed as Tower Shield in the glossary.",
+      "id": "E01",
+      "korean": "거대한 타워 실드를 짊어진 헌터 셋",
+      "origin": "detector",
+      "replacement": "three Hunters carrying enormous Tower Shields",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "those big, beautiful tower shields",
+      "evidence_found": true,
+      "explanation": "타워 실드 is listed as Tower Shield in the glossary.",
+      "id": "E02",
+      "korean": "크고 아름다운 타워 실드",
+      "origin": "detector",
+      "replacement": "those big, beautiful Tower Shields",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "The tanks dropped their tower shields",
+      "evidence_found": true,
+      "explanation": "타워 실드 is listed as Tower Shield in the glossary.",
+      "id": "E03",
+      "korean": "탱커들이 타워 실드를 떨어트리는 동시에",
+      "origin": "detector",
+      "replacement": "The tanks dropped their Tower Shields",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.96,
+      "current": "White Tiger Hall Leader’s anus",
+      "evidence_found": true,
+      "explanation": "The title 당주 is listed as Hall Master in the glossary.",
+      "id": "E04",
+      "korean": "백호당주의 항문",
+      "origin": "detector",
+      "replacement": "White Tiger Hall Master’s anus",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The entity references are consistent, but three shield mentions and one hall title differ from the glossary.",
+  "uncertain": true,
+  "uncertain_reason": "Several team members’ brief lines are unattributed in the Korean, so their individual speakers cannot be established.",
+  "version": 1
+}
