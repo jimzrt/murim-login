@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.97,
+      "current": "Young Hero Cheong, you did it!",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협",
+      "reason": "They are companions who know each other’s martial arts through countless duels, not strangers making a formal address.",
+      "replacement": "Cheongpung, you did it!",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Hyuk Mujin",
+      "confidence": 0.97,
+      "current": "Young Hero Hyuk!",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "혁 소협",
+      "reason": "Cheongpung cries out to his familiar companion after Mujin is struck.",
+      "replacement": "Mujin!",
+      "span_count": 1,
+      "speaker": "Cheongpung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both occurrences are familiar addresses between companions and should use names.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
