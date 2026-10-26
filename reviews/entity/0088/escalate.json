@@ -1,0 +1,23 @@
+{
+  "added": [
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "bones and muscles",
+      "evidence_found": true,
+      "explanation": "The Korean names the system attribute 근골, whose glossary rendering is “Muscles and Bones”; the English reverses its established name.",
+      "id": "S01",
+      "korean": "근골",
+      "origin": "escalation",
+      "replacement": "Muscles and Bones",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "decisions": [],
+  "escalated": [],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "No speaker, referent, gender, or identity errors are evident; one system-attribute name differs from the glossary.",
+  "version": 1
+}

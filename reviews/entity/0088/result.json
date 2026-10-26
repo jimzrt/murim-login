@@ -1,0 +1,29 @@
+{
+  "applied": false,
+  "chapter": 88,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 1
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "bones and muscles",
+      "evidence_found": true,
+      "explanation": "The Korean names the system attribute 근골, whose glossary rendering is “Muscles and Bones”; the English reverses its established name.",
+      "id": "S01",
+      "korean": "근골",
+      "origin": "escalation",
+      "reason": "terminology or title finding",
+      "replacement": "Muscles and Bones",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}
