@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 314,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Hyuk Sopyung; Baek Museong is being referred to",
+      "confidence": 0.98,
+      "current": "Young Hero Baek gives everyone the time of day.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "백 소협은",
+      "reason": "Taekyung is speaking to Hyuk about Baek, not addressing Baek.",
+      "reason_status": "",
+      "replacement": "Baek Museong gives everyone the time of day.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Hyuk Sopyung; Jin Taekyung is being referred to",
+      "confidence": 0.98,
+      "current": "Young Hero Jin’s sect",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "진 소협의 사문은",
+      "reason": "Baek is correcting Hyuk’s claim about Jin, not addressing Jin.",
+      "reason_status": "",
+      "replacement": "Jin Taekyung’s sect",
+      "span_count": 1,
+      "speaker": "Baek Museong",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Hyuk Sopyung; Baek Museong is being referred to",
+      "confidence": 0.98,
+      "current": "Young Hero Baek gives everyone the time of day.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "백 소협은",
+      "reason": "Taekyung is speaking to Hyuk about Baek, not addressing Baek.",
+      "replacement": "Baek Museong gives everyone the time of day.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Hyuk Sopyung; Jin Taekyung is being referred to",
+      "confidence": 0.98,
+      "current": "Young Hero Jin’s sect",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "진 소협의 사문은",
+      "reason": "Baek is correcting Hyuk’s claim about Jin, not addressing Jin.",
+      "replacement": "Jin Taekyung’s sect",
+      "span_count": 1,
+      "speaker": "Baek Museong",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Two third-person references should use names rather than “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
