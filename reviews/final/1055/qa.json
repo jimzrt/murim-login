@@ -1,0 +1,25 @@
+{
+  "chapter": 1055,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 1.926,
+    "source_characters": 5295,
+    "source_paragraphs": 135,
+    "translation_characters": 10196,
+    "translation_paragraphs": 113
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "unused_footnotes",
+      "details": {
+        "unused_definitions": [
+          "2"
+        ]
+      },
+      "message": "translation contains unused footnote definitions"
+    }
+  ]
+}
