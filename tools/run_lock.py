@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Exclusive locks for translation, mastering, final touches, and Git commits.
+"""Exclusive locks for translation, mastering, final touches, entity pass, and Git commits.
 
-Kernel flocks on `.work/run.lock`, `.work/master.lock`, `.work/final.lock`, and
-`.work/commit.lock` are the mutexes. Each file's JSON is only a status record
+Kernel flocks on `.work/run.lock`, `.work/master.lock`, `.work/final.lock`,
+`.work/entity.lock`, and `.work/commit.lock` are the mutexes. Each file's JSON is only a status record
 (pid, holder, chapter, stage). Nested `run_until` → `run_next` → `workflow.py`
 processes join the matching holder instead of taking a second lock. A dead
 process releases the flock even if the JSON file remains.
@@ -24,16 +24,19 @@ from typing import Iterator
 LOCK_ENV = "MURIM_RUN_LOCK"
 MASTER_LOCK_ENV = "MURIM_MASTER_LOCK"
 FINAL_LOCK_ENV = "MURIM_FINAL_LOCK"
+ENTITY_LOCK_ENV = "MURIM_ENTITY_LOCK"
 COMMIT_LOCK_ENV = "MURIM_COMMIT_LOCK"
 LOCK_NAME = "run.lock"
 MASTER_LOCK_NAME = "master.lock"
 FINAL_LOCK_NAME = "final.lock"
+ENTITY_LOCK_NAME = "entity.lock"
 COMMIT_LOCK_NAME = "commit.lock"
 IDENTITY_KEYS = ("pid", "holder", "started")
 LOCK_LABELS = {
     LOCK_NAME: "translation",
     MASTER_LOCK_NAME: "mastering",
     FINAL_LOCK_NAME: "final touches",
+    ENTITY_LOCK_NAME: "entity pass",
     COMMIT_LOCK_NAME: "git commit",
 }
 
@@ -45,6 +48,8 @@ def lock_env_name(name: str) -> str:
         return MASTER_LOCK_ENV
     if name == FINAL_LOCK_NAME:
         return FINAL_LOCK_ENV
+    if name == ENTITY_LOCK_NAME:
+        return ENTITY_LOCK_ENV
     if name == COMMIT_LOCK_NAME:
         return COMMIT_LOCK_ENV
     return f"MURIM_LOCK_{name.replace('.', '_').upper()}"
@@ -352,6 +357,36 @@ def hold_final_lock(
 
 
 @contextmanager
+def hold_entity_lock(
+    root: Path,
+    *,
+    holder: str,
+    chapter: int | None = None,
+    stage: str | None = None,
+    until: int | None = None,
+) -> Iterator[RunLock]:
+    with hold_named_lock(
+        root, holder=holder, name=ENTITY_LOCK_NAME, chapter=chapter, stage=stage, until=until
+    ) as lock:
+        yield lock
+
+
+def lock_is_live(root: Path, name: str) -> bool:
+    """True when another process holds the kernel flock on `name` right now."""
+    path = lock_path(root, name)
+    if not path.exists():
+        return False
+    fd = os.open(str(path), os.O_RDWR | os.O_CLOEXEC)
+    try:
+        fcntl.flock(fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except BlockingIOError:
+        return True
+    finally:
+        os.close(fd)
+    return False
+
+
+@contextmanager
 def hold_commit_lock(
     root: Path,
     *,
@@ -381,7 +416,8 @@ def hold_audit_locks(
     with hold_run_lock(root, holder=holder, chapter=chapter, stage=stage) as run:
         with hold_master_lock(root, holder=holder, chapter=chapter, stage=stage) as master:
             with hold_final_lock(root, holder=holder, chapter=chapter, stage=stage):
-                yield run, master
+                with hold_entity_lock(root, holder=holder, chapter=chapter, stage=stage):
+                    yield run, master
 
 
 def main() -> int:
@@ -391,6 +427,7 @@ def main() -> int:
         (LOCK_NAME, "Run lock"),
         (MASTER_LOCK_NAME, "Master lock"),
         (FINAL_LOCK_NAME, "Final lock"),
+        (ENTITY_LOCK_NAME, "Entity lock"),
         (COMMIT_LOCK_NAME, "Commit lock"),
     ):
         path = lock_path(root, name)
