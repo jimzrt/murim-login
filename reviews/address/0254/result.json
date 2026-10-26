@@ -1,0 +1,56 @@
+{
+  "applied": true,
+  "chapter": 254,
+  "counts": {
+    "auto": 3,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "Young Hero Cheongpung will",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청풍 소협이 이기겠죠?",
+      "reason": "Mujin asks Taekyung whether Cheongpung will win; he is not addressing Cheongpung.",
+      "reason_status": "",
+      "replacement": "Cheongpung will",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "Young Hero Cheongpung isn’t",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청풍 소협이 잘 알려진 사람은 아니라",
+      "reason": "Mujin tells Taekyung what others know about Cheongpung, rather than addressing Cheongpung.",
+      "reason_status": "",
+      "replacement": "Cheongpung isn’t",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "So Young Hero Cheongpung",
+      "evidence_found": true,
+      "id": "A03",
+      "korean": "그래서, 청풍 소협이 이기는 게 확실하죠?",
+      "reason": "Mujin again asks Taekyung about Cheongpung’s chances, with Cheongpung absent from the exchange.",
+      "reason_status": "",
+      "replacement": "So Cheongpung",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}
