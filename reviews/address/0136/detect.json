@@ -1,0 +1,48 @@
+{
+  "findings": [
+    {
+      "addressee": "Jeong",
+      "confidence": 0.88,
+      "current": "“Ahem. Young Hero Jeong, how are your wounds?”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "정 소협",
+      "reason": "The two fellow heirs speak as familiar peers while recovering together.",
+      "replacement": "“Ahem. Jeong, how are your wounds?”",
+      "span_count": 1,
+      "speaker": "Gal",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Gal",
+      "confidence": 0.88,
+      "current": "“Ahem. More or less. How about you, Young Hero Gal?”",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "갈 소협",
+      "reason": "Jeong returns the question to his familiar peer, not a stranger or elder.",
+      "replacement": "“Ahem. More or less. How about you, Gal?”",
+      "span_count": 1,
+      "speaker": "Jeong",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Jeong",
+      "confidence": 0.88,
+      "current": "“Don’t worry. I’ll do everything in my power to help you, Young Hero Jeong!”",
+      "evidence_found": true,
+      "id": "A03",
+      "korean": "정 소협을",
+      "reason": "Gal offers help to the same fellow heir with whom he has been speaking familiarly.",
+      "replacement": "“Don’t worry. I’ll do everything in my power to help you, Jeong!”",
+      "span_count": 1,
+      "speaker": "Gal",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "All three addresses should use names because Jeong and Gal speak to each other as familiar peers.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
