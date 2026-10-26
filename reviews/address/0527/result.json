@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 527,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "Apparently Young Hero Cheong ran into him",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협이",
+      "reason": "Mujin is telling Taekyung what Cheongpung did, not addressing Cheongpung.",
+      "reason_status": "",
+      "replacement": "Apparently Cheongpung ran into him",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.98,
+      "current": "But Young Hero Cheong, why",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협.",
+      "reason": "Taekyung is speaking casually to a companion he already knows.",
+      "reason_status": "",
+      "replacement": "But Cheongpung, why",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    }
+  ],
+  "version": 1
+}
