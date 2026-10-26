@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Gung Gibang, referred to rather than addressed",
+      "confidence": 0.98,
+      "current": "Young Hero Gung",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "궁 소협이",
+      "reason": "Mujin is telling the Lesser Family Head what Gung said; this is a third-person reference.",
+      "replacement": "Gung Gibang",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.95,
+      "current": "Young Hero Cheongpung",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협!",
+      "reason": "Taekyung is directing his companion in their shared work, and Cheongpung answers him as Benefactor; this is not a formal introduction.",
+      "replacement": "Cheongpung",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both occurrences should change: one refers to Gung in the third person, and the other addresses a familiar companion.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

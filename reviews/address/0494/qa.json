@@ -1,0 +1,29 @@
+{
+  "chapter": 494,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.139,
+    "source_characters": 5455,
+    "source_paragraphs": 175,
+    "translation_characters": 11666,
+    "translation_paragraphs": 157
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "name_variant_suspect",
+      "details": {
+        "found": [
+          "Leave"
+        ],
+        "korean": "레벨",
+        "preferred": "Level"
+      },
+      "message": "the preferred English for a ledger name is absent and a similar spelling is used"
+    }
+  ]
+}
