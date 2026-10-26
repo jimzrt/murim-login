@@ -1,0 +1,26 @@
+{
+  "chapter": 535,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 1.959,
+    "source_characters": 5414,
+    "source_paragraphs": 190,
+    "translation_characters": 10606,
+    "translation_paragraphs": 181
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "name_absent",
+      "details": {
+        "korean": "벽력도왕",
+        "preferred": "Peng Cheolhu"
+      },
+      "message": "a profiled character named in the source is absent from the English"
+    }
+  ]
+}

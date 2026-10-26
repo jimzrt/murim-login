@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 535,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "Yes. And Young Hero Cheongpung as well.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협도 함께",
+      "reason": "Jin Wikyung is telling Taekyung that Cheongpung has also been summoned, not addressing Cheongpung.",
+      "reason_status": "",
+      "replacement": "Yes. And Cheongpung as well.",
+      "span_count": 1,
+      "speaker": "Jin Wikyung",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.97,
+      "current": "Let’s go, Young Hero Cheongpung.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "가자, 청 소협",
+      "reason": "Taekyung speaks casually to his familiar companion, who answers him as Benefactor.",
+      "reason_status": "",
+      "replacement": "Let’s go, Cheongpung.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    }
+  ],
+  "version": 1
+}

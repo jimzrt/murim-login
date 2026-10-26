@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "Yes. And Young Hero Cheongpung as well.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협도 함께",
+      "reason": "Jin Wikyung is telling Taekyung that Cheongpung has also been summoned, not addressing Cheongpung.",
+      "replacement": "Yes. And Cheongpung as well.",
+      "span_count": 1,
+      "speaker": "Jin Wikyung",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.97,
+      "current": "Let’s go, Young Hero Cheongpung.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "가자, 청 소협",
+      "reason": "Taekyung speaks casually to his familiar companion, who answers him as Benefactor.",
+      "replacement": "Let’s go, Cheongpung.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Two occurrences should use Cheongpung’s name; Jin Wikyung’s direct, formal-polite address should remain unchanged.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
