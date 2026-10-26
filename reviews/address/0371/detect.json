@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Gung Gibang",
+      "confidence": 0.92,
+      "current": "“Goodbye, Young Hero Gung.”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "잘 가요, 궁 소협.",
+      "reason": "Cheongpung is bidding farewell to a familiar companion, not formally addressing a stranger.",
+      "replacement": "“Goodbye, Gung Gibang.”",
+      "span_count": 1,
+      "speaker": "Cheongpung",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Gung Gibang",
+      "confidence": 0.94,
+      "current": "“All right. Don’t get so angry, Young Hero Gung.”",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "알겠어요. 그렇게 화내지 마세요, 궁 소협.",
+      "reason": "Cheongpung responds to a familiar companion’s angry outburst; his polite wording does not make this a formal address.",
+      "replacement": "“All right. Don’t get so angry, Gung Gibang.”",
+      "span_count": 1,
+      "speaker": "Cheongpung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both addresses to Gung Gibang should use his name rather than the formal “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

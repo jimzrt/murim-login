@@ -1,0 +1,27 @@
+{
+  "summary": "Both addresses to Gung Gibang should use his name rather than the formal “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "familiar",
+      "current": "“Goodbye, Young Hero Gung.”",
+      "replacement": "“Goodbye, Gung Gibang.”",
+      "korean": "잘 가요, 궁 소협.",
+      "speaker": "Cheongpung",
+      "addressee": "Gung Gibang",
+      "reason": "Cheongpung is bidding farewell to a familiar companion, not formally addressing a stranger.",
+      "confidence": 0.92
+    },
+    {
+      "use": "familiar",
+      "current": "“All right. Don’t get so angry, Young Hero Gung.”",
+      "replacement": "“All right. Don’t get so angry, Gung Gibang.”",
+      "korean": "알겠어요. 그렇게 화내지 마세요, 궁 소협.",
+      "speaker": "Cheongpung",
+      "addressee": "Gung Gibang",
+      "reason": "Cheongpung responds to a familiar companion’s angry outburst; his polite wording does not make this a formal address.",
+      "confidence": 0.94
+    }
+  ]
+}
