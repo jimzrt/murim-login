@@ -1,0 +1,27 @@
+{
+  "summary": "Both addresses are between familiar companions and should use Cheongpung’s name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "familiar",
+      "current": "Young Hero Cheong?",
+      "replacement": "Cheongpung?",
+      "korean": "안 그래, 청 소협?",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung is speaking casually to a companion traveling with him, not addressing a stranger formally.",
+      "confidence": 0.95
+    },
+    {
+      "use": "familiar",
+      "current": "Young Hero Cheong,",
+      "replacement": "Cheongpung,",
+      "korean": "청 소협, 안 마셨잖아. 그치?",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung casually prompts his companion while offering him more sweets; the address is not formal or mocking.",
+      "confidence": 0.95
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.95,
+      "current": "Young Hero Cheong?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "안 그래, 청 소협?",
+      "reason": "Taekyung is speaking casually to a companion traveling with him, not addressing a stranger formally.",
+      "replacement": "Cheongpung?",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.95,
+      "current": "Young Hero Cheong,",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협, 안 마셨잖아. 그치?",
+      "reason": "Taekyung casually prompts his companion while offering him more sweets; the address is not formal or mocking.",
+      "replacement": "Cheongpung,",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both addresses are between familiar companions and should use Cheongpung’s name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
