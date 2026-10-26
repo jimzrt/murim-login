@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "Miss Song and Im Kkeokjeong delivered a lowlife-and-nasty-man combo.",
+      "evidence_found": true,
+      "explanation": "The source says 송이, rendered elsewhere in the chapter and glossary as Song-i, not Song.",
+      "id": "E01",
+      "korean": "송이 씨와 임꺽정의",
+      "origin": "detector",
+      "replacement": "Miss Song-i and Im Kkeokjeong delivered a lowlife-and-nasty-man combo.",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One reference to Song-i drops part of her name; no other clear entity errors were found.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
