@@ -25,6 +25,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 
 from run_lock import (
+    ADDRESS_LOCK_NAME,
     ENTITY_LOCK_ENV,
     FINAL_LOCK_NAME,
     LOCK_NAME,
@@ -64,7 +65,7 @@ except ModuleNotFoundError:
     )
     from workflow import is_harness_artifact
 
-BLOCKING_LOCKS = (FINAL_LOCK_NAME, LOCK_NAME)
+BLOCKING_LOCKS = (FINAL_LOCK_NAME, LOCK_NAME, ADDRESS_LOCK_NAME)
 
 
 def refuse_live_locks(root: Path = ROOT) -> None:

@@ -57,8 +57,8 @@ python tools/run_next_entity.py                       # oldest finalized chapter
 python tools/entity_pass.py report 0 1191 --output .work/entity-human.md
 ```
 
-It holds `.work/entity.lock`, refuses to start while the final or translation
-lock is live, and only touches chapters whose final pass is `PROMOTED`. Each
+It holds `.work/entity.lock`, refuses to start while the final, translation,
+or address lock is live, and only touches chapters whose final pass is `PROMOTED`. Each
 commit `Entity Chapter N` contains only `translations/NNNN.md` and
 `reviews/entity/NNNN/`.
 
