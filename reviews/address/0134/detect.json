@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "the young prodigies of the Five Gates, referring to Cheongpung",
+      "confidence": 0.99,
+      "current": "the Young Hero here",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "여기 계신 소협께서",
+      "reason": "Mujin is speaking to the young prodigies about Cheongpung, not addressing Cheongpung.",
+      "replacement": "Cheongpung here",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One third-person reference should use Cheongpung’s name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
