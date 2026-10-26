@@ -1,0 +1,27 @@
+{
+  "summary": "Both occurrences refer to Cheongpung in the third person and should use his name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "third_person",
+      "current": "“What? Young Hero Cheongpung?”",
+      "replacement": "“What? Cheongpung?”",
+      "korean": "청 소협을",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "reason": "Mujin is asking Taekyung whether he intends to recruit Cheongpung, not addressing Cheongpung.",
+      "confidence": 0.98
+    },
+    {
+      "use": "third_person",
+      "current": "“Then who else at the clinic could you possibly recruit besides Young Hero Cheong—”",
+      "replacement": "“Then who else at the clinic could you possibly recruit besides Cheong—”",
+      "korean": "청 소협 빼고",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "reason": "Mujin again refers to Cheongpung while speaking to Taekyung; Cheongpung is not being addressed.",
+      "confidence": 0.98
+    }
+  ]
+}

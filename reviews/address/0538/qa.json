@@ -1,0 +1,34 @@
+{
+  "chapter": 538,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.131,
+    "source_characters": 5607,
+    "source_paragraphs": 163,
+    "translation_characters": 11947,
+    "translation_paragraphs": 143
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "궁기",
+        "romanization": "gunggi"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "적천",
+        "romanization": "jeokcheon"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "confidence": 0.98,
+      "current": "“What? Young Hero Cheongpung?”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협을",
+      "reason": "Mujin is asking Taekyung whether he intends to recruit Cheongpung, not addressing Cheongpung.",
+      "replacement": "“What? Cheongpung?”",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "confidence": 0.98,
+      "current": "“Then who else at the clinic could you possibly recruit besides Young Hero Cheong—”",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협 빼고",
+      "reason": "Mujin again refers to Cheongpung while speaking to Taekyung; Cheongpung is not being addressed.",
+      "replacement": "“Then who else at the clinic could you possibly recruit besides Cheong—”",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both occurrences refer to Cheongpung in the third person and should use his name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
