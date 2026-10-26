@@ -1,0 +1,24 @@
+{
+  "chapter": 1108,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.994,
+    "length_ratio": 2.074,
+    "source_characters": 5696,
+    "source_paragraphs": 184,
+    "translation_characters": 11812,
+    "translation_paragraphs": 184
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "콰아아아아아",
+        "romanization": "kwaaaaaa"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
