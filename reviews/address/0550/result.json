@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 550,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Mungyeong; Cheongpung is being referred to",
+      "confidence": 0.98,
+      "current": "talking to Young Hero Cheongpung",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협한테",
+      "reason": "Taekyung is telling Mungyeong whom he meant, not addressing Cheongpung.",
+      "reason_status": "",
+      "replacement": "talking to Cheongpung",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.98,
+      "current": "You too, Young Hero Cheongpung.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협도",
+      "reason": "Taekyung is saying goodbye to a companion he has known for over a year.",
+      "reason_status": "",
+      "replacement": "You too, Cheongpung.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,27 @@
+{
+  "summary": "Both occurrences refer to Cheongpung in an established, familiar relationship and should use his name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "third_person",
+      "current": "talking to Young Hero Cheongpung",
+      "replacement": "talking to Cheongpung",
+      "korean": "청 소협한테",
+      "speaker": "Jin Taekyung",
+      "addressee": "Mungyeong; Cheongpung is being referred to",
+      "reason": "Taekyung is telling Mungyeong whom he meant, not addressing Cheongpung.",
+      "confidence": 0.98
+    },
+    {
+      "use": "familiar",
+      "current": "You too, Young Hero Cheongpung.",
+      "replacement": "You too, Cheongpung.",
+      "korean": "청 소협도",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung is saying goodbye to a companion he has known for over a year.",
+      "confidence": 0.98
+    }
+  ]
+}
