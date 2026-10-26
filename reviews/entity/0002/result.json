@@ -1,0 +1,54 @@
+{
+  "applied": true,
+  "chapter": 2,
+  "counts": {
+    "auto": 3,
+    "human": 0,
+    "rejected": 0
+  },
+  "findings": [
+    {
+      "category": "name",
+      "confidence": 0.99,
+      "current": "Apply the Universal Language Pack?",
+      "evidence_found": true,
+      "explanation": "The System function 통합 언어 팩 is rendered Unified Language Pack in the glossary.",
+      "id": "E01",
+      "korean": "[통합 언어 팩]을 적용하시겠습니까?",
+      "origin": "detector",
+      "reason": "",
+      "replacement": "Apply the Unified Language Pack?",
+      "span_count": 1,
+      "status": "auto"
+    },
+    {
+      "category": "name",
+      "confidence": 0.99,
+      "current": "Applying the Universal Language Pack.",
+      "evidence_found": true,
+      "explanation": "This is the same System function, rendered Unified Language Pack in the glossary.",
+      "id": "E02",
+      "korean": "[통합 언어 팩]이 적용됩니다.",
+      "origin": "detector",
+      "reason": "",
+      "replacement": "Applying the Unified Language Pack.",
+      "span_count": 1,
+      "status": "auto"
+    },
+    {
+      "category": "name",
+      "confidence": 0.99,
+      "current": "the Universal Language Pack had been applied",
+      "evidence_found": true,
+      "explanation": "This refers to the same System function, rendered Unified Language Pack in the glossary.",
+      "id": "E03",
+      "korean": "[통합 언어 팩]이 적용됐다는",
+      "origin": "detector",
+      "reason": "",
+      "replacement": "the Unified Language Pack had been applied",
+      "span_count": 1,
+      "status": "auto"
+    }
+  ],
+  "version": 1
+}

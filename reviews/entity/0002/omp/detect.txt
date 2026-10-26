@@ -1,0 +1,31 @@
+{
+  "uncertain": false,
+  "uncertain_reason": "",
+  "summary": "The System function is named inconsistently with its glossary rendering in three places.",
+  "findings": [
+    {
+      "category": "name",
+      "current": "Apply the Universal Language Pack?",
+      "replacement": "Apply the Unified Language Pack?",
+      "korean": "[통합 언어 팩]을 적용하시겠습니까?",
+      "explanation": "The System function 통합 언어 팩 is rendered Unified Language Pack in the glossary.",
+      "confidence": 0.99
+    },
+    {
+      "category": "name",
+      "current": "Applying the Universal Language Pack.",
+      "replacement": "Applying the Unified Language Pack.",
+      "korean": "[통합 언어 팩]이 적용됩니다.",
+      "explanation": "This is the same System function, rendered Unified Language Pack in the glossary.",
+      "confidence": 0.99
+    },
+    {
+      "category": "name",
+      "current": "the Universal Language Pack had been applied",
+      "replacement": "the Unified Language Pack had been applied",
+      "korean": "[통합 언어 팩]이 적용됐다는",
+      "explanation": "This refers to the same System function, rendered Unified Language Pack in the glossary.",
+      "confidence": 0.99
+    }
+  ]
+}
