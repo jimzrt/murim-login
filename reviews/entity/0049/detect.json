@@ -1,0 +1,37 @@
+{
+  "findings": [
+    {
+      "category": "referent",
+      "confidence": 0.91,
+      "current": "They’re right here.",
+      "evidence_found": false,
+      "explanation": "Team Leader Choi means Taekyung is the teammate present; he later confirms that only the two of them will enter.",
+      "id": "E01",
+      "korean": "여기 있잖습니까. 팀원. / 우리 둘이 전붑니다. 추가 인원은 없어요.",
+      "origin": "detector",
+      "replacement": "You’re right here.",
+      "scope": "entity",
+      "scope_reason": "",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.96,
+      "current": "Lizardman fetish",
+      "evidence_found": true,
+      "explanation": "The source says 리자드, which the glossary distinguishes from 리자드맨 (Lizardman).",
+      "id": "E02",
+      "korean": "리자드 성애자인 줄 알겠다",
+      "origin": "detector",
+      "replacement": "Charmeleon fetish",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One teammate reference and one creature term contradict the Korean source.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

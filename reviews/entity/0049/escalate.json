@@ -1,0 +1,32 @@
+{
+  "added": [
+    {
+      "category": "term",
+      "confidence": 0.97,
+      "current": "a Lizardman fetish",
+      "evidence_found": true,
+      "explanation": "The source says 리자드, which the glossary distinguishes from 리자드맨 (Lizardman).",
+      "id": "S01",
+      "korean": "누가 보면 리자드 성애자인 줄 알겠다.",
+      "origin": "escalation",
+      "replacement": "a Charmeleon fetish",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "decisions": [
+    {
+      "confidence": 0.9,
+      "id": "E01",
+      "reason": "Choi later says only he and Taekyung will enter (우리 둘이 전붑니다), so his answer points to Taekyung as the teammate already present, not to other people.",
+      "verdict": "confirm"
+    }
+  ],
+  "escalated": [
+    "E01"
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The teammate reference should address Taekyung, and one distinct creature term was mistranslated.",
+  "version": 1
+}

@@ -1,0 +1,23 @@
+{
+  "uncertain": false,
+  "uncertain_reason": "",
+  "summary": "One teammate reference and one creature term contradict the Korean source.",
+  "findings": [
+    {
+      "category": "referent",
+      "current": "They’re right here.",
+      "replacement": "You’re right here.",
+      "korean": "여기 있잖습니까. 팀원. / 우리 둘이 전붑니다. 추가 인원은 없어요.",
+      "explanation": "Team Leader Choi means Taekyung is the teammate present; he later confirms that only the two of them will enter.",
+      "confidence": 0.91
+    },
+    {
+      "category": "term",
+      "current": "Lizardman fetish",
+      "replacement": "Charmeleon fetish",
+      "korean": "리자드 성애자인 줄 알겠다",
+      "explanation": "The source says 리자드, which the glossary distinguishes from 리자드맨 (Lizardman).",
+      "confidence": 0.96
+    }
+  ]
+}
