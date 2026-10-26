@@ -1,0 +1,27 @@
+{
+  "summary": "Both occurrences should use Cheongpung’s name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "familiar",
+      "current": "“Wait. Young Hero Cheongpung, are we sure this is the way?”",
+      "replacement": "“Wait. Cheongpung, are we sure this is the way?”",
+      "korean": "청 소협",
+      "speaker": "Jin Taekyung",
+      "addressee": "Cheongpung",
+      "reason": "Taekyung addresses a familiar traveling companion in a casual exchange.",
+      "confidence": 0.97
+    },
+    {
+      "use": "third_person",
+      "current": "“Yes, I know. Young Hero Cheongpung told me—”",
+      "replacement": "“Yes, I know. Cheongpung told me—”",
+      "korean": "청 소협이",
+      "speaker": "Jin Taekyung",
+      "addressee": "Zhuge Feng; Cheongpung is referred to",
+      "reason": "Taekyung is speaking to Zhuge Feng about Cheongpung, not addressing Cheongpung.",
+      "confidence": 0.99
+    }
+  ]
+}

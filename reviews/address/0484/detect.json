@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.97,
+      "current": "“Wait. Young Hero Cheongpung, are we sure this is the way?”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협",
+      "reason": "Taekyung addresses a familiar traveling companion in a casual exchange.",
+      "replacement": "“Wait. Cheongpung, are we sure this is the way?”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Zhuge Feng; Cheongpung is referred to",
+      "confidence": 0.99,
+      "current": "“Yes, I know. Young Hero Cheongpung told me—”",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협이",
+      "reason": "Taekyung is speaking to Zhuge Feng about Cheongpung, not addressing Cheongpung.",
+      "replacement": "“Yes, I know. Cheongpung told me—”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both occurrences should use Cheongpung’s name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 484,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.97,
+      "current": "“Wait. Young Hero Cheongpung, are we sure this is the way?”",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협",
+      "reason": "Taekyung addresses a familiar traveling companion in a casual exchange.",
+      "reason_status": "",
+      "replacement": "“Wait. Cheongpung, are we sure this is the way?”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Zhuge Feng; Cheongpung is referred to",
+      "confidence": 0.99,
+      "current": "“Yes, I know. Young Hero Cheongpung told me—”",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협이",
+      "reason": "Taekyung is speaking to Zhuge Feng about Cheongpung, not addressing Cheongpung.",
+      "reason_status": "",
+      "replacement": "“Yes, I know. Cheongpung told me—”",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}
