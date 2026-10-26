@@ -1,0 +1,40 @@
+{
+  "applied": true,
+  "chapter": 9,
+  "counts": {
+    "auto": 2,
+    "human": 0,
+    "rejected": 0
+  },
+  "findings": [
+    {
+      "category": "title",
+      "confidence": 0.99,
+      "current": "the title **Novice Trainee**",
+      "evidence_found": true,
+      "explanation": "The acquired System Title is 초보 수련자, rendered as Beginner Trainee in the glossary.",
+      "id": "E01",
+      "korean": "칭호, [초보 수련자]를 획득합니다",
+      "origin": "detector",
+      "reason": "",
+      "replacement": "the title **Beginner Trainee**",
+      "span_count": 1,
+      "status": "auto"
+    },
+    {
+      "category": "title",
+      "confidence": 0.98,
+      "current": "Jin Wikyung himself, the Lesser Family Head",
+      "evidence_found": true,
+      "explanation": "The source calls Jin Wikyung 소문주 (Young Sect Leader) here, not 소가주 (Lesser Family Head).",
+      "id": "E02",
+      "korean": "소문주인 자신에 대한 공격",
+      "origin": "detector",
+      "reason": "",
+      "replacement": "Jin Wikyung himself, the Young Sect Leader",
+      "span_count": 1,
+      "status": "auto"
+    }
+  ],
+  "version": 1
+}
