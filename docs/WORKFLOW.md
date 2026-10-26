@@ -324,6 +324,7 @@ python tools/run_address_pass.py 0 1191 --workers 3
 python tools/run_address_pass.py 0 1191 --only 148,496,716 --no-commit --retries 0
 python tools/address_pass.py status N
 python tools/address_pass.py reset N        # restore the baseline and drop chapter state
+python tools/address_pass.py revert N A01 A02 --reason "…"   # undo applied findings after review
 python tools/address_pass.py diff 0 1191 --output .work/address-diff.md
 python tools/address_pass.py report 0 1191 --output .work/address-human.md
 ```
@@ -345,5 +346,8 @@ Per chapter, under `reviews/address/NNNN/`:
    chapter stops at `QA_FAILED`.
 
 The pass skips chapters whose final touches are not `PROMOTED` or whose entity
-pass is in flight. `run_address_pass.py` commits `Address Chapter N` one
+pass is in flight. One malformed finding goes to human review; the valid
+findings still apply. A rerun from `PREPARED` rebuilds the packet with the
+current rule. `revert` swaps an applied finding back exactly, runs final QA,
+marks it `reverted`, and stops at `READY_TO_COMMIT`. `run_address_pass.py` commits `Address Chapter N` one
 chapter at a time; `--no-commit` stops at `READY_TO_COMMIT`.
