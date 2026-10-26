@@ -1,0 +1,56 @@
+{
+  "applied": true,
+  "chapter": 842,
+  "counts": {
+    "auto": 3,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Taishan; referring to Hyuk Mujin",
+      "confidence": 0.99,
+      "current": "If Young Hero Hyuk regretted his life",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "혁 소협",
+      "reason": "Hwaran is speaking to Taishan about Mujin, not addressing Mujin.",
+      "reason_status": "",
+      "replacement": "If Hyuk Mujin regretted his life",
+      "span_count": 1,
+      "speaker": "Ju Hwaran",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Sama Pyo; referring to Hyuk Mujin",
+      "confidence": 0.99,
+      "current": "knock Young Hero Hyuk unconscious again",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "혁 소협",
+      "reason": "Mujin is the person Hwaran says Taishan might knock unconscious, not the person she is addressing.",
+      "reason_status": "",
+      "replacement": "knock Hyuk Mujin unconscious again",
+      "span_count": 1,
+      "speaker": "Ju Hwaran",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Namho; referring to Taishan",
+      "confidence": 0.99,
+      "current": "deal with Young Hero Taishan so badly",
+      "evidence_found": true,
+      "id": "A03",
+      "korean": "태산 소협",
+      "reason": "Hwaran addresses Namho and refers to Taishan in the third person.",
+      "reason_status": "",
+      "replacement": "deal with Taishan so badly",
+      "span_count": 1,
+      "speaker": "Ju Hwaran",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}
