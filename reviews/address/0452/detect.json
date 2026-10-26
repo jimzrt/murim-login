@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.98,
+      "current": "Young Hero Cheong, now!",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협, 지금이야!",
+      "reason": "Taekyung is calling to a familiar companion he stationed at the stern; their immediate banter is casual, not formal or deferential.",
+      "replacement": "Cheongpung, now!",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One familiar address should use Cheongpung’s name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
