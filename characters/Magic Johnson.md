@@ -1,7 +1,7 @@
 # Magic Johnson (매직 존슨)
 
 - **Safe through:** Chapter 823
-- **Aliases:** Grand Mage
+- **Aliases:** Johnson (존슨); Grand Mage
 - **Gender:** male
 - **Role:** A Grand Mage and Jin Taekyung’s ally, capable of using Teleport magic in exceptionally dangerous conditions.
 - **Personality:** Practical and wary of reckless risks, but willing to act when duty and the stakes leave him no acceptable alternative.

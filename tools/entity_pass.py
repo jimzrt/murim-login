@@ -262,13 +262,76 @@ def _sentences(paragraph: str) -> list[str]:
     return [part for part in SENTENCE_SPLIT.split(paragraph) if part.strip()]
 
 
-def pronoun_conflicts(translation: str, cards: list[dict], window: int = 1) -> list[dict]:
-    """Narration near a gendered character's name that uses only the other gender.
+# Subject, possessive, and reflexive pronouns only. Object him/her usually
+# points at someone else (“Jin Taekyung gave her a smile”).
+CONFLICT_PRONOUNS = {
+    "male": re.compile(r"\b(?:he|his|himself)\b", re.IGNORECASE),
+    "female": re.compile(r"\b(?:she|hers|herself|her(?=\s+(?!(?:a|an|the|this|that|to|in|on|at|for|with|from|by|of|and|or|as|up|down|away|off|out|back|again|now|then|alone|too)\b)[a-z]))\b", re.IGNORECASE),
+}
+SUBJECT_START = re.compile(r"^(?:he|she)\b", re.IGNORECASE)
+# Person nouns of each gender: a window that has one may be about that person.
+PERSON_NOUNS = {
+    "male": re.compile(
+        r"\b(?:man|men|boy|boys|guy|guys|father|brother|son|husband|king|emperor|monk|"
+        r"gentleman|lord|uncle|grandfather|old man|coachman|sir|prince|master)\b", re.IGNORECASE,
+    ),
+    "female": re.compile(
+        r"\b(?:woman|women|girl|girls|lady|ladies|mother|sister|daughter|wife|queen|empress|"
+        r"nun|aunt|grandmother|old woman|madam|princess|maiden|mistress)\b", re.IGNORECASE,
+    ),
+}
+CAPITALIZED = re.compile(r"\b[A-Z][a-z’'-]+\b")
+LEAD_WORDS = re.compile(r"^(?:the|[A-Z][A-Za-z’'-]*)$")
+# Capitalized openers that put the name in a subordinate phrase, not the subject.
+OPENERS = {
+    "Unlike", "If", "With", "Without", "To", "Did", "Does", "Do", "Even", "Leaving", "As", "At",
+    "After", "Before", "When", "While", "For", "From", "In", "On", "By", "Like", "Since",
+    "Because", "Although", "Though", "Once", "Until", "Despite", "Only", "And", "But", "So",
+    "Then", "Was", "Is", "Had", "Has", "Not", "Neither", "Nor", "Than", "Beside", "Behind",
+}
+# A pronoun after a preposition or a clause word usually belongs to someone else
+# (“nodded at her whisper”, “understood how he felt”).
+NOT_SUBJECT_BEFORE = re.compile(
+    r"\b(?:at|to|toward|towards|with|from|for|of|over|into|onto|on|by|about|behind|beside|"
+    r"before|after|like|than|how|what|whom|who|why|where|when|that|as|if|whether|because|"
+    r"until|while|though|although)\s+$",
+    re.IGNORECASE,
+)
 
-    A window is the sentence naming the character plus `window` following
-    sentences in the same paragraph. Quoted speech is ignored, and a window
-    that names another profiled character is skipped, since the pronoun may be
-    theirs.
+
+def _subject_match(sentence: str, pattern: re.Pattern) -> re.Match | None:
+    """The name as the sentence subject: only title words before it, not possessive."""
+    match = pattern.search(sentence)
+    if not match or re.search(r"['’]s$", match.group(0)):
+        return None
+    lead = re.sub(r"^[\s“\"*_>—-]+", "", sentence[:match.start()]).split()
+    if len(lead) > 3 or not all(LEAD_WORDS.match(word) and word not in OPENERS for word in lead):
+        return None
+    return match
+
+
+def _other_people(text: str, card: dict, cards: list[dict], patterns: dict) -> bool:
+    if any(other["english"] != card["english"] and patterns[other["english"]].search(text) for other in cards):
+        return True
+    own = {word for name in card["english_names"] for word in name.split()}
+    try:
+        from tools.name_check import COMMON_CAPS
+    except ModuleNotFoundError:
+        from name_check import COMMON_CAPS
+    words = [word for word in CAPITALIZED.findall(text) if word not in own and word not in COMMON_CAPS]
+    # The first word of each sentence is capitalized anyway.
+    starts = {sentence.split()[0].strip("“\"*") for sentence in _sentences(text) if sentence.split()}
+    return any(word not in starts for word in words)
+
+
+def pronoun_conflicts(translation: str, cards: list[dict], window: int = 1) -> list[dict]:
+    """Narration where a gendered character is the subject but the other gender's pronoun follows.
+
+    The window is the naming sentence after the name plus up to `window`
+    following sentences that open with he/she. Only subject, possessive, and
+    reflexive pronouns count. Quoted speech is ignored. A window that names
+    any other person or uses an opposite-gender person noun is skipped, since
+    the pronoun may be theirs.
     """
     flags: list[dict] = []
     known = [card for card in cards if card.get("gender") in OPPOSITE]
@@ -278,23 +341,27 @@ def pronoun_conflicts(translation: str, cards: list[dict], window: int = 1) -> l
     for paragraph in re.split(r"\n\s*\n", translation):
         if FOOTNOTE_DEF.match(paragraph.strip()):
             continue
-        sentences = _sentences(paragraph)
+        sentences = [QUOTED.sub(" ", sentence) for sentence in _sentences(paragraph)]
         for index, sentence in enumerate(sentences):
             for card in known:
-                pattern = patterns[card["english"]]
-                match = pattern.search(sentence)
+                match = _subject_match(sentence, patterns[card["english"]])
                 if not match:
                     continue
-                text = " ".join([sentence[match.end():], *sentences[index + 1:index + 1 + window]])
-                full = " ".join(sentences[index:index + 1 + window])
-                if any(
-                    other["english"] != card["english"] and patterns[other["english"]].search(full)
-                    for other in cards
-                ):
+                following = []
+                for nxt in sentences[index + 1:index + 1 + window]:
+                    if not SUBJECT_START.match(nxt.strip()):
+                        break
+                    following.append(nxt)
+                text = " ".join([sentence[match.end():], *following])
+                full = " ".join([sentence, *following])
+                opposite = OPPOSITE[card["gender"]]
+                if _other_people(text, card, cards, patterns) or PERSON_NOUNS[opposite].search(full):
                     continue
-                narration = QUOTED.sub(" ", text)
-                wrong = PRONOUNS[OPPOSITE[card["gender"]]].findall(narration)
-                right = PRONOUNS[card["gender"]].findall(narration)
+                wrong = [
+                    found.group(0) for found in CONFLICT_PRONOUNS[opposite].finditer(text)
+                    if not NOT_SUBJECT_BEFORE.search(text[:found.start()])
+                ]
+                right = PRONOUNS[card["gender"]].findall(text)
                 if wrong and not right:
                     flags.append({
                         "type": "pronoun_conflict",

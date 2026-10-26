@@ -1810,7 +1810,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 붉은 눈 | **Red Eye** | Epithet of the Level 130 Named Monster Cyclops. |
 | 치코리타 | **Chikorita** | Pop-culture reference used in Taekyung’s taunt to the Ent Elder. |
 | 골드문 | **Gold Moon** | Name Song briefly considers before correcting herself to Ares Guild. |
-| 대마도사 | **Grand Mage** | Title used for Magic Johnson. |
+| 대마도사 | **Grand Mage** | Supreme mage rank: Magic Johnson, Siegfried Bassmann, Merlin; also used for the Grand Sorceress. |
 | 순간이동 | **Teleportation** | Spatial-transference magic used by Magic Johnson. |
 | 모하비 사막 | **Mojave Desert** | Location of the concealed US incident. |
 | 애리조나주 | **Arizona** | State near the reported Mojave incident. |
@@ -2492,7 +2492,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 황독소 | **Hwang Dokso** | Name of one of the four defeated Black Ghosts. |
 | 풍귀 | **Wind Ghost** | Power invoked by a white-robed figure and imbued in the Blood-Sword Demon Lord. |
 | 소군악 | **So Gunak** | Name shown in the System status. |
-| 대술사 | **Grand Mage** | Title of the veiled woman leading the white-robed mages. |
+| 대술사 | **Grand Sorceress** | Title of the veiled woman leading the white-robed mages; she is also called a Grand Mage (대마도사). |
 | 녕하 | **Ningxia** | Place name; origin of the mounted bandits mentioned by Sima Gong. |
 | 혈의인 | **Blood-Clad Men** | Blood-soaked figures initially surrounding Sama Pyo; identified as Kongtong Sect Disciples. |
 | 안서 | **Anxi** | Place passed on the route north from Dunhuang into the grasslands. |

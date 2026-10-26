@@ -64,6 +64,23 @@ class PrefilterTest(unittest.TestCase):
         text = "The Bow Saint said, “He is late.”\n"
         self.assertEqual(entity_pass.pronoun_conflicts(text, CARDS), [])
 
+    def test_noise_patterns_are_not_flagged(self):
+        for text in (
+            "Jin Taekyung gave her a sheepish smile.",
+            "Jin Taekyung called one of them over and began speaking to her in Chinese.",
+            "At the Bow Saint’s words, the leader bowed his head.",
+            "Unlike the Bow Saint, he already knew everything.",
+            "The Bow Saint’s gaze followed his hand.",
+            "The Bow Saint understood how he felt.",
+            "The Bow Saint watched the old man raise his cup.",
+            "The Bow Saint smiled at Lee Cheonbaek as he left.",
+        ):
+            self.assertEqual(entity_pass.pronoun_conflicts(text, CARDS), [], text)
+
+    def test_following_subject_pronoun_is_flagged(self):
+        flags = entity_pass.pronoun_conflicts("The Bow Saint nodded. He smiled.", CARDS)
+        self.assertEqual(flags[0]["pronouns"], ["he"])
+
     def test_unknown_gender_is_never_flagged(self):
         cards = [{**CARDS[0], "gender": "unknown"}]
         self.assertEqual(entity_pass.pronoun_conflicts(TEXT, cards), [])

@@ -5,6 +5,10 @@ Curated English spellings that drifted from the binding rendering in
 source names the character at a word boundary while the reading copy still uses
 a wrong variant; the final-touches packet lists each correction it must make.
 
+A wrong variant that is the preferred English of another name in the same
+source is not flagged: “Grand Mage” is wrong for 대술사 alone, but correct
+where the chapter also says 대마도사.
+
 Add a row only after `python tools/name_drift.py` reports the variant and the
 source confirms it is the same name. Separate several variants with `;`.
 
@@ -23,3 +27,4 @@ source confirms it is the same name. Separate several variants with `;`.
 | 남궁룡 | Namgung Ryong | Nangong Ryong |
 | 남궁옥 | Namgung Ok | Nangong Ok |
 | 남천 | Southern Heaven | South Heaven |
+| 대술사 | Grand Sorceress | Grand Mage |

@@ -2,7 +2,7 @@
 
 - **Safe through:** Chapter 795
 - **Aliases:** Team Leader Seok
-- **Gender:** unknown
+- **Gender:** male
 - **Role:** Go Jun was Ares Guild's Vice Guild Master, Lee Jungryong's Disciple and former Head of Security, the de facto successor to Lee's Ares legacy, and a mutated monster who was killed by Jin Taekyung in Area A.
 - **Personality:** Disciplined and controlled under ordinary pressure, fiercely loyal to Lee Jungryong, but consumed by humiliation and rage when Ares Guild's authority is challenged.
 - **Voice:** Dry, controlled, and formal with subordinates; deferential when addressing his Master.
