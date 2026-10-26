@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 524,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Gung Gibang is being referred to",
+      "confidence": 0.99,
+      "current": "Young Hero Gung moved",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "궁 소협은 거처를 옮겼습니다",
+      "reason": "Hyuk Mujin is telling Taekyung where the absent Gung Gibang went, not addressing Gung.",
+      "reason_status": "",
+      "replacement": "Gung Gibang moved",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung; Gung Gibang is being referred to",
+      "confidence": 0.99,
+      "current": "Young Hero Gung?",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "그럼 궁 소협은요?",
+      "reason": "Hyuk Mujin asks Taekyung about Gung Gibang’s sect affiliation while Gung is absent.",
+      "reason_status": "",
+      "replacement": "Gung Gibang?",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,27 @@
+{
+  "summary": "Both occurrences refer to Gung Gibang in the third person and should use his name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "third_person",
+      "current": "Young Hero Gung moved",
+      "replacement": "Gung Gibang moved",
+      "korean": "궁 소협은 거처를 옮겼습니다",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Jin Taekyung; Gung Gibang is being referred to",
+      "reason": "Hyuk Mujin is telling Taekyung where the absent Gung Gibang went, not addressing Gung.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Gung?",
+      "replacement": "Gung Gibang?",
+      "korean": "그럼 궁 소협은요?",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Jin Taekyung; Gung Gibang is being referred to",
+      "reason": "Hyuk Mujin asks Taekyung about Gung Gibang’s sect affiliation while Gung is absent.",
+      "confidence": 0.99
+    }
+  ]
+}
