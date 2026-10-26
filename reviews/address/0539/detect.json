@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Gung Gibang, referred to rather than addressed",
+      "confidence": 0.98,
+      "current": "Young Hero Gung",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "궁 소협",
+      "reason": "Mujin is telling Taekyung that he and Gung could persuade Mungyeong; he is not addressing Gung.",
+      "replacement": "Gung",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One third-person reference should use the name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
