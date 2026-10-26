@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 185,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Wipeng is referring to Cheongpung",
+      "confidence": 0.98,
+      "current": "I’m talking about Young Hero Cheongpung.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협 말입니다.",
+      "reason": "Wipeng is identifying Cheongpung to Taekyung, not addressing Cheongpung.",
+      "reason_status": "",
+      "replacement": "I’m talking about Cheongpung.",
+      "span_count": 1,
+      "speaker": "Wipeng",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung; Wipeng is referring to Cheongpung",
+      "confidence": 0.98,
+      "current": "Young Hero Cheong defied the Sect Leader’s order.",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협 말입니다.",
+      "reason": "Wipeng continues referring to Cheongpung in the third person; this sentence repeats the English honorific although its Korean sentence does not repeat 소협.",
+      "reason_status": "",
+      "replacement": "Cheongpung defied the Sect Leader’s order.",
+      "span_count": 1,
+      "speaker": "Wipeng",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}

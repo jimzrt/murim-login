@@ -1,0 +1,27 @@
+{
+  "summary": "Two third-person references to Cheongpung should use his name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "third_person",
+      "current": "I’m talking about Young Hero Cheongpung.",
+      "replacement": "I’m talking about Cheongpung.",
+      "korean": "청 소협 말입니다.",
+      "speaker": "Wipeng",
+      "addressee": "Jin Taekyung; Wipeng is referring to Cheongpung",
+      "reason": "Wipeng is identifying Cheongpung to Taekyung, not addressing Cheongpung.",
+      "confidence": 0.98
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Cheong defied the Sect Leader’s order.",
+      "replacement": "Cheongpung defied the Sect Leader’s order.",
+      "korean": "청 소협 말입니다.",
+      "speaker": "Wipeng",
+      "addressee": "Jin Taekyung; Wipeng is referring to Cheongpung",
+      "reason": "Wipeng continues referring to Cheongpung in the third person; this sentence repeats the English honorific although its Korean sentence does not repeat 소협.",
+      "confidence": 0.98
+    }
+  ]
+}
