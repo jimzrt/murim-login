@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Mukyung, referred to rather than addressed",
+      "confidence": 0.99,
+      "current": "Young Hero Jin Mukyung",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "진 소협은 예리했어.",
+      "reason": "Cheongpung is thinking about a previous duel with Jin Mukyung, not speaking to him.",
+      "replacement": "Jin Mukyung",
+      "span_count": 1,
+      "speaker": "Cheongpung, in his thoughts",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One third-person reference should use Jin Mukyung’s name rather than an address.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
