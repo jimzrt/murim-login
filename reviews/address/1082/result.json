@@ -1,0 +1,26 @@
+{
+  "applied": true,
+  "chapter": 1082,
+  "counts": {
+    "auto": 1,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Great Sir, referring to Taishan",
+      "confidence": 0.99,
+      "current": "Are you talking about Young Hero Taishan?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "태산 소협",
+      "reason": "Cheongpung is asking Great Sir about Taishan, who is not being addressed.",
+      "reason_status": "",
+      "replacement": "Are you talking about Taishan?",
+      "span_count": 1,
+      "speaker": "Cheongpung",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}

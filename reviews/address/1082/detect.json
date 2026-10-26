@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Great Sir, referring to Taishan",
+      "confidence": 0.99,
+      "current": "Are you talking about Young Hero Taishan?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "태산 소협",
+      "reason": "Cheongpung is asking Great Sir about Taishan, who is not being addressed.",
+      "replacement": "Are you talking about Taishan?",
+      "span_count": 1,
+      "speaker": "Cheongpung",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One third-person reference should use Taishan’s name; Mujin’s deferential address to Cheongpung stays unchanged.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
