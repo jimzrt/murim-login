@@ -1,0 +1,26 @@
+{
+  "chapter": 453,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 2.276,
+    "source_characters": 6124,
+    "source_paragraphs": 212,
+    "translation_characters": 13936,
+    "translation_paragraphs": 217
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "복날",
+        "romanization": "boknal"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

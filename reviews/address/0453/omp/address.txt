@@ -1,0 +1,27 @@
+{
+  "summary": "Both occurrences refer to companions rather than address them, so both should use their names.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "third_person",
+      "current": "What about Young Hero Gung?",
+      "replacement": "What about Gung Gibang?",
+      "korean": "궁 소협은요?",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Jin Taekyung; referring to Gung Gibang",
+      "reason": "Mujin is asking Taekyung why Gung Gibang is not being punished, not addressing Gung Gibang.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "What about Young Hero Cheong?",
+      "replacement": "What about Cheongpung?",
+      "korean": "그럼 청 소협은요?",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "reason": "Mujin is asking Taekyung whether Cheongpung will be punished, not addressing Cheongpung.",
+      "confidence": 0.99
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; referring to Gung Gibang",
+      "confidence": 0.99,
+      "current": "What about Young Hero Gung?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "궁 소협은요?",
+      "reason": "Mujin is asking Taekyung why Gung Gibang is not being punished, not addressing Gung Gibang.",
+      "replacement": "What about Gung Gibang?",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "confidence": 0.99,
+      "current": "What about Young Hero Cheong?",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "그럼 청 소협은요?",
+      "reason": "Mujin is asking Taekyung whether Cheongpung will be punished, not addressing Cheongpung.",
+      "replacement": "What about Cheongpung?",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both occurrences refer to companions rather than address them, so both should use their names.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

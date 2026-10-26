@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 453,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; referring to Gung Gibang",
+      "confidence": 0.99,
+      "current": "What about Young Hero Gung?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "궁 소협은요?",
+      "reason": "Mujin is asking Taekyung why Gung Gibang is not being punished, not addressing Gung Gibang.",
+      "reason_status": "",
+      "replacement": "What about Gung Gibang?",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung; referring to Cheongpung",
+      "confidence": 0.99,
+      "current": "What about Young Hero Cheong?",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "그럼 청 소협은요?",
+      "reason": "Mujin is asking Taekyung whether Cheongpung will be punished, not addressing Cheongpung.",
+      "reason_status": "",
+      "replacement": "What about Cheongpung?",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}
