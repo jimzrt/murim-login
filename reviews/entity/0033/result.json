@@ -1,0 +1,45 @@
+{
+  "applied": false,
+  "chapter": 33,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 2
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Family Shame",
+      "evidence_found": true,
+      "explanation": "The System Title is rendered as “Shame of the Family” in the glossary; this is a term mismatch, not an identity error.",
+      "id": "E01",
+      "korean": "가문의 수치",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Shame of the Family",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Thrust with All My Might",
+      "evidence_found": true,
+      "explanation": "Taekyung’s alternate name for the spear strike is rendered as “Stab with All My Strength” in the glossary; this is a term mismatch.",
+      "id": "E02",
+      "korean": "힘껏 찌르기",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Stab with All My Strength",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}

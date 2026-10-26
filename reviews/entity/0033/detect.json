@@ -1,0 +1,37 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Family Shame",
+      "evidence_found": true,
+      "explanation": "The System Title is rendered as “Shame of the Family” in the glossary; this is a term mismatch, not an identity error.",
+      "id": "E01",
+      "korean": "가문의 수치",
+      "origin": "detector",
+      "replacement": "Shame of the Family",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Thrust with All My Might",
+      "evidence_found": true,
+      "explanation": "Taekyung’s alternate name for the spear strike is rendered as “Stab with All My Strength” in the glossary; this is a term mismatch.",
+      "id": "E02",
+      "korean": "힘껏 찌르기",
+      "origin": "detector",
+      "replacement": "Stab with All My Strength",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "No gender, referent, or identity errors found; two terms differ from the glossary.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
