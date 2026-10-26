@@ -1,0 +1,17 @@
+{
+  "summary": "One third-person reference should use Jin Mukyung’s name; the direct address remains unchanged.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "third_person",
+      "current": "tell Young Hero Jin something",
+      "replacement": "tell Jin Mukyung something",
+      "korean": "진 소협한테",
+      "speaker": "Wolhwa",
+      "addressee": "Jin Taekyung, referring to Jin Mukyung",
+      "reason": "Wolhwa asks Taekyung to relay a message to Mukyung, who is not being addressed.",
+      "confidence": 0.97
+    }
+  ]
+}
