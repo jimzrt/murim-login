@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.88,
+      "current": "What about Young Hero Cheongpung?",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협은?",
+      "present": true,
+      "reason": "Taekyung is asking his familiar companion, who is present, what he did; this is not a formal introduction or deferential address.",
+      "replacement": "What about Cheongpung?",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One familiar address should use Cheongpung’s name instead of “Young Hero.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
