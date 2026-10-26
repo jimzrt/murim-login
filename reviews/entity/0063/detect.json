@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Family Shame, the tag",
+      "evidence_found": true,
+      "explanation": "The System Title 가문의 수치 is rendered as “Shame of the Family” in the glossary, not “Family Shame.”",
+      "id": "E01",
+      "korean": "[가문의 수치]",
+      "origin": "detector",
+      "replacement": "Shame of the Family, the tag",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "No gender, referent, or identity errors found; one System Title differs from the glossary.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
