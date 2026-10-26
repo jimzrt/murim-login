@@ -1,0 +1,25 @@
+{
+  "chapter": 188,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.337,
+    "source_characters": 6007,
+    "source_paragraphs": 216,
+    "translation_characters": 14041,
+    "translation_paragraphs": 215
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 428
+      },
+      "message": "System window contains square brackets"
+    }
+  ]
+}

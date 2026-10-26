@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 188,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Choo Dohwan",
+      "confidence": 0.96,
+      "current": "You could choose Young Hero Baek as your opponent.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "백 소협을 지목할 수도 있소.",
+      "reason": "Wikyung is suggesting Baek Museong as Choo’s opponent, not addressing Baek.",
+      "reason_status": "",
+      "replacement": "You could choose Baek Museong as your opponent.",
+      "span_count": 1,
+      "speaker": "Jin Wikyung",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Wikyung",
+      "confidence": 0.97,
+      "current": "Young Hero Chulwoo, the Defeated Flower Fist!",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "패화권 철우 소협입니다!",
+      "reason": "Choo names Chulwoo as his chosen opponent in answer to Wikyung, rather than addressing Chulwoo.",
+      "reason_status": "",
+      "replacement": "Chulwoo, the Defeated Flower Fist!",
+      "span_count": 1,
+      "speaker": "Choo Dohwan",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}
