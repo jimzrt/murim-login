@@ -1,0 +1,39 @@
+{
+  "uncertain": false,
+  "uncertain_reason": "",
+  "summary": "No gender, referent, or identity errors found; the Minotaur boss’s title differs from the glossary in four places.",
+  "findings": [
+    {
+      "category": "term",
+      "current": "*The Minotaur Great Warrior.*",
+      "replacement": "*The Minotaur Warrior.*",
+      "korean": "‘미노타우로스 대전사.’",
+      "explanation": "The glossary renders 미노타우로스 대전사 as Minotaur Warrior.",
+      "confidence": 0.99
+    },
+    {
+      "category": "term",
+      "current": "*Once the Great Warrior wears him down, we’ll make our move.*",
+      "replacement": "*Once the Warrior wears him down, we’ll make our move.*",
+      "korean": "‘대전사가 놈의 힘을 소진시키면 그때 결행한다.’",
+      "explanation": "대전사 refers to the Minotaur Warrior; its shortened English title retains the mismatched “Great.”",
+      "confidence": 0.97
+    },
+    {
+      "category": "term",
+      "current": "the Great Warrior’s muscular chest",
+      "replacement": "the Warrior’s muscular chest",
+      "korean": "백색 와류가 근육질의 가슴에 닿았다",
+      "explanation": "The chest belongs to the same boss, whose glossary title is Minotaur Warrior.",
+      "confidence": 0.96
+    },
+    {
+      "category": "term",
+      "current": "Lv. 70 Minotaur Great Warrior",
+      "replacement": "Lv. 70 Minotaur Warrior",
+      "korean": "[Lv.70 미노타우로스 대전사]",
+      "explanation": "The System notification names the boss with the term rendered Minotaur Warrior in the glossary.",
+      "confidence": 0.99
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "applied": false,
+  "chapter": 85,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 4
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "*The Minotaur Great Warrior.*",
+      "evidence_found": true,
+      "explanation": "The glossary renders 미노타우로스 대전사 as Minotaur Warrior.",
+      "id": "E01",
+      "korean": "‘미노타우로스 대전사.’",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "*The Minotaur Warrior.*",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.97,
+      "current": "*Once the Great Warrior wears him down, we’ll make our move.*",
+      "evidence_found": true,
+      "explanation": "대전사 refers to the Minotaur Warrior; its shortened English title retains the mismatched “Great.”",
+      "id": "E02",
+      "korean": "‘대전사가 놈의 힘을 소진시키면 그때 결행한다.’",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "*Once the Warrior wears him down, we’ll make our move.*",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.96,
+      "current": "the Great Warrior’s muscular chest",
+      "evidence_found": true,
+      "explanation": "The chest belongs to the same boss, whose glossary title is Minotaur Warrior.",
+      "id": "E03",
+      "korean": "백색 와류가 근육질의 가슴에 닿았다",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "the Warrior’s muscular chest",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Lv. 70 Minotaur Great Warrior",
+      "evidence_found": true,
+      "explanation": "The System notification names the boss with the term rendered Minotaur Warrior in the glossary.",
+      "id": "E04",
+      "korean": "[Lv.70 미노타우로스 대전사]",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Lv. 70 Minotaur Warrior",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}
