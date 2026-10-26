@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Wikyung, referred to",
+      "confidence": 0.98,
+      "current": "Nor was he a Young Hero.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "소협도 아니다",
+      "reason": "Taekyung is contrasting his brother’s former standing with his new status, not addressing him; repeating Jin Wikyung’s name here would make the contrast nonsensical.",
+      "replacement": "Nor was he merely a young martial artist.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung, narrating",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One third-person use should change because “Young Hero” is not an address here.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
