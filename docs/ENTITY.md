@@ -1,9 +1,10 @@
 # Entity Consistency Rubric
 
 Find only entity errors in an already finished English chapter: places where
-the English names, genders, or attributes the wrong person or group. Compare
-every claim with the Korean source. Do not touch style, fluency, register,
-word choice, punctuation, footnote wording, or formatting.
+the English gives the wrong gender, attributes a line or action to the wrong
+person, or names the wrong person. Compare every claim with the Korean source.
+Do not touch style, fluency, register, word choice, punctuation, footnote
+wording, or formatting.
 
 Report exactly these categories:
 
@@ -18,14 +19,19 @@ Report exactly these categories:
   the source has them.
 - `referent`: the wrong person does, says, thinks, owns, or receives
   something. Korean often omits the subject; decide from the source who it is.
-  Includes a speaker tag or attribution that names the wrong speaker.
-- `name`: a person, sect, family, guild, place, or skill is named wrongly, or
-  uses a spelling other than the card or glossary rendering.
-- `title`: a rank, office, honorific title, or epithet belongs to someone else
-  or is wrong for this person (Sect Leader vs. Elder, Branch Leader vs. Head).
-- `affiliation`: the wrong sect, family, guild, faction, or organization.
-- `kinship`: a wrong family or martial relationship (father/uncle,
-  senior/junior brother, master/disciple, elder/younger).
+  Includes a speaker tag or attribution that names the wrong speaker. The fix
+  changes only pronouns or person names (and the verb agreement that follows).
+- `identity`: the English names a different person than the Korean (진위경
+  rendered as Jin Taekyung), or uses a known wrong spelling of a name.
+- `term`: any other mismatch with the glossary or the Korean — a term,
+  title, rank, epithet, system item, sect, place, or kinship word rendered
+  differently. Report it for the record; it is never applied. Do not use
+  `identity` or `referent` for a title or terminology rename.
+
+Validation enforces the scope: a `gender` fix may change only pronouns and
+gendered nouns; a `referent` or `identity` fix only pronouns and person names;
+an `identity` fix must name a different person or correct a NAME_VARIANTS
+spelling. Anything else is filed as a term mismatch and not applied.
 
 Procedure: go through every third-person pronoun and gendered noun that
 refers to a named or titled person and check it against the card and the

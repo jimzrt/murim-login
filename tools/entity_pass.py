@@ -81,8 +81,32 @@ except ModuleNotFoundError:
     )
     from names import ALIAS_LINE, ALIAS_PAIR, HEADING, profile_gender
 
-CATEGORIES = ("gender", "referent", "name", "title", "affiliation", "kinship")
-FOOTNOTE_CATEGORIES = {"gender", "name"}
+# Applied categories: gender, referent (speaker / who did what), identity (the
+# English names a different person, or a NAME_VARIANTS wrong spelling). `term`
+# findings (terminology, titles, system items) are reported, never applied.
+CATEGORIES = ("gender", "referent", "identity", "term")
+LEGACY_CATEGORIES = {"name": "identity", "title": "term", "affiliation": "term", "kinship": "term"}
+FOOTNOTE_CATEGORIES = {"gender", "identity"}
+PRONOUN_WORDS = {
+    "he", "she", "him", "her", "his", "hers", "himself", "herself", "i", "me", "my", "mine",
+    "myself", "we", "us", "our", "ours", "ourselves", "you", "your", "yours", "yourself",
+    "yourselves", "they", "them", "their", "theirs", "themselves", "it", "its", "itself",
+    "one", "someone", "the", "a", "an", "this", "that",
+}
+# Verb agreement that follows a pronoun swap (“you were” → “I was”) and contraction tails.
+AGREEMENT_WORDS = {
+    "am", "is", "are", "was", "were", "has", "have", "had", "do", "does", "did", "don",
+    "doesn", "didn", "won", "will", "ve", "ll", "d", "s", "re", "m", "t",
+}
+GENDERED_WORDS = {
+    "man", "men", "woman", "women", "boy", "boys", "girl", "girls", "brother", "brothers",
+    "sister", "sisters", "son", "sons", "daughter", "daughters", "father", "mother", "husband",
+    "wife", "king", "queen", "prince", "princess", "lord", "lady", "sir", "madam", "ma",
+    "mr", "mrs", "ms", "miss", "gentleman", "gentlemen", "uncle", "aunt", "nephew", "niece",
+    "grandfather", "grandmother", "grandson", "granddaughter", "monk", "nun", "master",
+    "mistress", "emperor", "empress", "guy", "guys", "old", "young", "fellow", "bastard", "bitch",
+}
+WORD = re.compile(r"[A-Za-z]+")
 HANGUL = re.compile(r"[가-힣]")
 FOOTNOTE_REF = re.compile(r"\[\^[^\]]+\]")
 IN_FLIGHT = {"PREPARED", "DETECTED", "ESCALATED", "READY_TO_COMMIT", "QA_FAILED", "FAILED"}
@@ -435,7 +459,7 @@ SCHEMA = """{
   "summary": "one sentence",
   "findings": [
     {
-      "category": "gender|referent|name|title|affiliation|kinship",
+      "category": "gender|referent|identity|term",
       "current": "exact unique English span",
       "replacement": "same span with only the entity words fixed",
       "korean": "exact Korean evidence",
@@ -522,7 +546,7 @@ Return exactly one JSON object with no Markdown fence:
       "replacement": "only for amend", "confidence": 0.0, "reason": "specific reason"}}
   ],
   "added": [
-    {{"category": "…", "current": "…", "replacement": "…", "korean": "…",
+    {{"category": "gender|referent|identity|term", "current": "…", "replacement": "…", "korean": "…",
       "explanation": "…", "confidence": 0.0}}
   ]
 }}
@@ -577,6 +601,7 @@ def _finding(raw: object, label: str) -> dict:
         if not isinstance(raw.get(key), str) or not raw[key].strip():
             raise ValueError(f"{label} requires nonempty {key}")
     category = raw["category"].strip().lower()
+    category = LEGACY_CATEGORIES.get(category, category)
     if category not in CATEGORIES:
         raise ValueError(f"{label} has invalid category {category!r}")
     if raw["current"] == raw["replacement"]:
@@ -596,7 +621,78 @@ def _finding(raw: object, label: str) -> dict:
 def annotate(finding: dict, source: str, translation: str) -> dict:
     finding["span_count"] = translation.count(finding["current"])
     finding["evidence_found"] = _squash(finding["korean"]) in _squash(source)
+    reason = scope_violation(finding, source)
+    finding["scope"] = "term" if reason else "entity"
+    finding["scope_reason"] = reason
     return finding
+
+
+def changed_words(current: str, replacement: str) -> set[str]:
+    left = [word.lower() for word in WORD.findall(current)]
+    right = [word.lower() for word in WORD.findall(replacement)]
+    changed: set[str] = set()
+    for tag, i1, i2, j1, j2 in difflib.SequenceMatcher(None, left, right, autojunk=False).get_opcodes():
+        if tag != "equal":
+            changed.update(left[i1:i2])
+            changed.update(right[j1:j2])
+    return changed
+
+
+@lru_cache(maxsize=2)
+def _people(root: str) -> tuple[tuple[str, ...], frozenset[str]]:
+    names = sorted(
+        {item["english"] for item in proper_name_entries(Path(root)) if item["kind"] == "person"},
+        key=len, reverse=True,
+    )
+    words = frozenset(word.lower() for name in names for word in WORD.findall(name))
+    return tuple(names), words
+
+
+def _persons_in(text: str, names: tuple[str, ...]) -> set[str]:
+    found: set[str] = set()
+    for name in names:
+        if english_present(text, name) and not any(name in other for other in found):
+            found.add(name)
+    return found
+
+
+def variant_fix(current: str, replacement: str, source: str) -> bool:
+    """`current` uses a NAME_VARIANTS wrong spelling of a name in this source; `replacement` the preferred."""
+    for item in proper_name_entries():
+        if not item.get("variants") or item["korean"] not in source:
+            continue
+        if english_present(replacement, item["english"]) and any(
+            english_present(current, variant) and not english_present(replacement, variant)
+            for variant in item["variants"]
+        ):
+            return True
+    return False
+
+
+def scope_violation(finding: dict, source: str) -> str:
+    """Why a finding is a term/title rename the entity pass must not apply ("" when in scope)."""
+    category = finding["category"]
+    if category == "term":
+        return "terminology or title finding"
+    current, replacement = finding["current"], finding["replacement"]
+    if category == "identity" and variant_fix(current, replacement, source):
+        return ""
+    words = changed_words(current, replacement)
+    if not words:
+        return "only capitalization or punctuation changes"
+    names, person_words = _people(str(ROOT))
+    if category == "gender":
+        allowed = PRONOUN_WORDS | AGREEMENT_WORDS | GENDERED_WORDS
+    else:
+        allowed = PRONOUN_WORDS | AGREEMENT_WORDS | person_words
+    outside = sorted(words - allowed)
+    if outside:
+        return "changes non-entity words: " + ", ".join(outside[:6])
+    if category == "identity":
+        before, after = _persons_in(current, names), _persons_in(replacement, names)
+        if not after or before == after:
+            return "identity fix does not name a different person"
+    return ""
 
 
 def validate_detection(value: dict, source: str, translation: str) -> dict:
@@ -635,12 +731,13 @@ def select_escalation(detection: dict, cfg: dict) -> list[str]:
     An uncertain chapter with no findings returns an empty list; callers check
     `needs_escalation`.
     """
+    findings = [item for item in detection["findings"] if item.get("scope", "entity") == "entity"]
     if detection.get("uncertain") or cfg.get("escalate_all_findings"):
-        return [item["id"] for item in detection["findings"]]
+        return [item["id"] for item in findings]
     threshold = cfg["escalate_below_confidence"]
     return [
         item["id"]
-        for item in detection["findings"]
+        for item in findings
         if item["confidence"] < threshold or not item["evidence_found"] or item["span_count"] != 1
     ]
 
@@ -728,6 +825,10 @@ def resolve(detection: dict, escalation: dict | None, escalated: list[str], cfg:
     resolved: list[dict] = []
     for item in detection["findings"]:
         finding = dict(item)
+        if finding.get("scope") == "term":
+            finding.update(status="term", reason=finding.get("scope_reason") or "term mismatch")
+            resolved.append(finding)
+            continue
         if item["id"] in escalated:
             decision = decisions.get(item["id"])
             if decision is None:
@@ -744,6 +845,10 @@ def resolve(detection: dict, escalation: dict | None, escalated: list[str], cfg:
                 finding["replacement"] = decision["replacement"]
                 annotate(finding, source, translation)
             finding["confidence"] = decision["confidence"]
+            if finding.get("scope") == "term":
+                finding.update(status="term", reason=finding.get("scope_reason") or "term mismatch")
+                resolved.append(finding)
+                continue
         if finding["confidence"] >= minimum:
             finding.update(status="auto", reason="")
         else:
@@ -751,7 +856,9 @@ def resolve(detection: dict, escalation: dict | None, escalated: list[str], cfg:
         resolved.append(finding)
     for item in (escalation or {}).get("added", []):
         finding = dict(item)
-        if finding["confidence"] >= minimum:
+        if finding.get("scope") == "term":
+            finding.update(status="term", reason=finding.get("scope_reason") or "term mismatch")
+        elif finding["confidence"] >= minimum:
             finding.update(status="auto", reason="")
         else:
             finding.update(status="human", reason=f"confidence {finding['confidence']:.2f} below {minimum:.2f}")
@@ -857,7 +964,12 @@ def report_markdown(number: int, findings: list[dict], detection: dict, escalati
     lines.append(f"- Prefilter flags: {len(flags['flags'])}")
     lines.append(f"- Applied: {'yes' if applied else 'no'}")
     lines.append("")
-    for status, title in (("auto", "Applied"), ("human", "Needs human review"), ("rejected", "Rejected")):
+    for status, title in (
+        ("auto", "Applied"),
+        ("human", "Needs human review"),
+        ("term", "Term mismatch (not applied)"),
+        ("rejected", "Rejected"),
+    ):
         items = [item for item in findings if item["status"] == status]
         lines += [f"## {title} ({len(items)})", ""]
         if not items:
@@ -1086,7 +1198,7 @@ def command_run(number: int, *, require_final: bool = True) -> dict:
                 save_state(number, stage="QA_FAILED")
                 raise SystemExit(f"entity edit for chapter {number} failed final QA: {messages}")
             applied = True
-    counts = {status: sum(1 for item in findings if item["status"] == status) for status in ("auto", "human", "rejected")}
+    counts = {status: sum(1 for item in findings if item["status"] == status) for status in ("auto", "human", "term", "rejected")}
     atomic_json(paths["result"], {"version": 1, "chapter": number, "applied": applied, "counts": counts, "findings": findings})
     atomic_text(paths["report"], report_markdown(number, findings, detection, escalation, inputs["flags"], applied))
     if applied:
@@ -1224,7 +1336,7 @@ def range_report(start: int, end: int) -> str:
         if not path.exists():
             continue
         result = json.loads(read_text(path))
-        items = [item for item in result.get("findings", []) if item.get("status") == "human"]
+        items = [item for item in result.get("findings", []) if item.get("status") in {"human", "term"}]
         if not items:
             continue
         lines += [f"## Chapter {number}", ""]
@@ -1232,7 +1344,7 @@ def range_report(start: int, end: int) -> str:
             lines.append(
                 f"- **{item['id']}** {item['category']} ({item['confidence']:.2f}): "
                 f"“{item['current']}” → “{item['replacement']}” — {item['explanation']} "
-                f"[{item.get('reason', '')}]"
+                f"[{'term mismatch, not applied: ' if item.get('status') == 'term' else ''}{item.get('reason', '')}]"
             )
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"

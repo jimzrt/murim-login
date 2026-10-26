@@ -46,8 +46,9 @@ by the other runners is ignored.
 ## Entity Pass
 
 After final touches, a fourth queue fixes only entity errors (gender and
-pronouns, referent, name, title, affiliation, kinship) in finished chapters.
-No style edits. See `docs/WORKFLOW.md` → Entity Pass.
+pronouns, speaker or who-did-what, wrong person or a known wrong name
+spelling) in finished chapters. Terminology and title renames are reported,
+never applied. No style edits. See `docs/WORKFLOW.md` → Entity Pass.
 
 ```bash
 python tools/run_entity_pass.py 0 1191 --dry-run      # prefilter + packets + estimate, no model calls
