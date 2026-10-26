@@ -11,6 +11,7 @@ Keep the mastered prose. Change a sentence only to attach a footnote, repair Sys
 The packet lists the profiled characters named in this chapter with their gender, and any required name corrections.
 
 - Use the glossary or character-card English for every name. Apply each required name correction everywhere it occurs.
+- Do not add “Young Hero” to a name, and do not restore it where the English uses the name alone. `소협` is rendered by context (`RULES.md` → Address).
 - Korean usually omits pronouns. When a card gives `female` or `male` and the English uses the other pronoun for that character, fix the pronoun. Leave pronouns alone for a character whose gender is `unknown`.
 
 ## Duplicates and omissions

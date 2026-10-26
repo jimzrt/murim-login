@@ -267,7 +267,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 매채구육 | **Maechae Guyuk** | Pork belly with preserved mustard greens; the abbreviation is explained in a footnote. |
 | 개방 | **Beggars' Sect** | Murim organization counted among the Nine Sects and One Gang. |
 | 우진태 | **Woo Jintae** | Heir of the Seongun Escort Bureau and host of the Five Gates scions. |
-| 우 소협 | **Young Hero Woo** | Honorific address for Woo Jintae. |
+| 우 소협 | **Woo** / **Young Hero Woo** | 소협 address for Woo Jintae; choose by context (RULES.md → Address). |
 | 황 소저 | **Young Lady Hwang** | Honorific address for an unidentified young woman who is the only daughter of a martial sect. |
 | 혁 아우 | **Little Brother Hyuk** | Familiar address for an otherwise unnamed male scion who calls Woo Jintae hyung. |
 | 국주님 | **Chief** | Honorific title for the head of an Escort Bureau. |
@@ -284,8 +284,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 왕가장 | **Wang Family Estate** | Family estate whose heir is one of the Five Gates scions; he uses sabers rather than sword arts. |
 | 왕 공자 | **Young Master Wang** | Heir of the Wang Family Estate. |
 | 신 소저 | **Young Lady Shin** | Young woman described as the only daughter of a martial sect. |
-| 정 소협 | **Young Hero Jeong** | Address for one injured Five Gates heir; his given name is not stated. |
-| 갈 소협 | **Young Hero Gal** | Address for one injured Five Gates heir; his given name is not stated. |
+| 정 소협 | **Jeong** / **Young Hero Jeong** | 소협 address for one injured Five Gates heir; his given name is not stated; choose by context (RULES.md → Address). |
+| 갈 소협 | **Gal** / **Young Hero Gal** | 소협 address for one injured Five Gates heir; his given name is not stated; choose by context (RULES.md → Address). |
 | 석 모 | **Seok** | Self-identification by Honghwa Inn's chief steward; his given name is not stated. |
 | 석 총관 | **Chief Steward Seok** | Title and surname form used for Honghwa Inn's chief steward. |
 | 칠매검 | **Seven Plum Sword** | Sword art practiced by the unnamed martial official at eight-tenths mastery. |
