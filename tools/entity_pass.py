@@ -134,6 +134,7 @@ def load_config(path: Path = CONFIG_PATH) -> dict:
     value["max_changed_chars"] = int(value.get("max_changed_chars", 120))
     value["pronoun_window_sentences"] = max(0, int(value.get("pronoun_window_sentences", 1)))
     value["batch_workers"] = max(1, int(value.get("batch_workers", 3)))
+    value["escalate_all_findings"] = bool(value.get("escalate_all_findings", True))
     value.setdefault("timeouts", {})
     value.setdefault("estimate", {})
     return value
@@ -556,14 +557,18 @@ def validate_detection(value: dict, source: str, translation: str) -> dict:
 
 
 def select_escalation(detection: dict, cfg: dict) -> list[str]:
-    """Finding IDs Sol must decide. An uncertain chapter escalates every finding.
+    """Finding IDs Sol must decide.
 
-    A low-confidence finding, one whose Korean evidence is not in the source, or
-    one whose span is not exactly once in the chapter is escalated as well.
+    With `escalate_all_findings` (the default) every detector finding needs a
+    second model's confirmation before it is applied: the smoke test showed a
+    0.99-confidence detector finding that was wrong. Otherwise an uncertain
+    chapter escalates every finding, and a low-confidence finding, one whose
+    Korean evidence is not in the source, or one whose span is not exactly once
+    in the chapter is escalated.
     An uncertain chapter with no findings returns an empty list; callers check
     `needs_escalation`.
     """
-    if detection.get("uncertain"):
+    if detection.get("uncertain") or cfg.get("escalate_all_findings"):
         return [item["id"] for item in detection["findings"]]
     threshold = cfg["escalate_below_confidence"]
     return [

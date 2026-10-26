@@ -27,6 +27,11 @@ Report exactly these categories:
 - `kinship`: a wrong family or martial relationship (father/uncle,
   senior/junior brother, master/disciple, elder/younger).
 
+Procedure: go through every third-person pronoun and gendered noun that
+refers to a named or titled person and check it against the card and the
+source; then every speaker tag and every sentence whose Korean omits the
+subject; then every name, title, and affiliation against the glossary.
+
 Rules:
 
 1. Report only a clear contradiction of the Korean source or the cards. A
@@ -39,8 +44,12 @@ Rules:
 4. `korean` quotes the exact Korean words that prove the error.
 5. Footnote definition lines (`[^n]: …`) may only receive `gender` or `name`
    fixes.
-6. Set `confidence` honestly: 0.95+ only when the source is explicit; below
+6. A glossary row is a rendering, not proof of identity. When the source uses
+   two different Korean terms, never make their English identical, and never
+   "correct" a rendering that is a defensible translation of the actual Korean
+   word.
+7. Set `confidence` honestly: 0.95+ only when the source is explicit; below
    0.8 when you infer from context.
-7. Set the chapter `uncertain` flag when the chapter has several unnamed or
+8. Set the chapter `uncertain` flag when the chapter has several unnamed or
    ambiguous speakers, a scene whose subjects you cannot resolve from this
    chapter alone, or any finding you are unsure about.
