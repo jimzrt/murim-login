@@ -1,0 +1,26 @@
+{
+  "chapter": 329,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.999,
+    "length_ratio": 2.288,
+    "source_characters": 7038,
+    "source_paragraphs": 217,
+    "translation_characters": 16101,
+    "translation_paragraphs": 219
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "투두두두둑",
+        "romanization": "tududududuk"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
