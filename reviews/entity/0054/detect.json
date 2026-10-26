@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "category": "referent",
+      "confidence": 0.97,
+      "current": "He had spent the past two weeks using every means available to investigate everything about Jin Taekyung.",
+      "evidence_found": true,
+      "explanation": "The Korean identifies Butler Kim as the person who investigated Jin Taekyung; the English pronoun follows a sentence naming Choi Minwoo.",
+      "id": "E01",
+      "korean": "김 집사가 그렇다면 그런 거다. 그는 지난 2주 동안 온갖 수단을 동원해 진태경의 모든 걸 들여다본 사람이니까.",
+      "origin": "detector",
+      "replacement": "Butler Kim had spent the past two weeks using every means available to investigate everything about Jin Taekyung.",
+      "scope": "entity",
+      "scope_reason": "",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One pronoun attributes Butler Kim’s investigation to Choi Minwoo.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
