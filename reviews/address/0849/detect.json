@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Jin Taekyung, referred to rather than addressed",
+      "confidence": 0.99,
+      "current": "including Young Hero Jin",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "진 소협",
+      "reason": "The Captain is describing who the order allows inside, not addressing Jin directly.",
+      "replacement": "including Jin Taekyung",
+      "span_count": 1,
+      "speaker": "Captain of the Guards, relaying the Acting City Lord’s order",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The two direct addresses are formal; the reference in the Acting City Lord’s order should use Jin Taekyung’s name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
