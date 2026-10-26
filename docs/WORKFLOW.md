@@ -251,10 +251,13 @@ Per chapter, under `reviews/entity/NNNN/`:
 2. Detector (`models.detector`) returns validated JSON findings with category,
    exact `current`, `replacement`, Korean evidence, confidence, and an
    `uncertain` flag (`detect.json`).
-3. Escalation (`models.escalation`) decides findings below
+3. Escalation (`models.escalation`) decides every finding while
+   `escalate_all_findings` is true (the default; the smoke test showed a wrong
+   0.99-confidence detector finding). With it false, only findings below
    `escalate_below_confidence`, findings whose span or evidence cannot be
-   located, and every finding of an uncertain chapter; it may add findings
-   (`escalate.json`).
+   located, and every finding of an uncertain chapter escalate. Chapters with
+   no findings that are not marked uncertain skip escalation. Escalation may
+   add findings (`escalate.json`).
 4. Findings at or above `auto_apply_min_confidence` are applied atomically.
    A finding goes to human review instead when its span is missing, repeated,
    or overlaps another, its Korean evidence is not in the source, it drops a

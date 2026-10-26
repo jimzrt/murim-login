@@ -11,6 +11,7 @@
   },
   "packet_token_limit": 60000,
   "model_retries": 1,
+  "escalate_all_findings": true,
   "escalate_below_confidence": 0.9,
   "auto_apply_min_confidence": 0.9,
   "max_changed_chars": 120,
@@ -20,7 +21,7 @@
   "estimate": {
     "detector_usd_per_chapter": [0.003, 0.006],
     "escalation_usd_per_chapter": [0.06, 0.08],
-    "detector_seconds_per_chapter": 60,
+    "detector_seconds_per_chapter": 30,
     "escalation_seconds_per_chapter": 50,
     "escalation_rate_scenarios": [0.1, 0.3, 0.6]
   }

@@ -136,6 +136,12 @@ class EscalationTest(unittest.TestCase):
         )
         self.assertEqual(entity_pass.select_escalation(detection, CFG), ["E02", "E03", "E04"])
 
+    def test_escalate_all_findings_sends_every_finding(self):
+        detection = self.detection(raw_finding())
+        cfg = {**CFG, "escalate_all_findings": True}
+        self.assertEqual(entity_pass.select_escalation(detection, cfg), ["E01"])
+        self.assertFalse(entity_pass.needs_escalation(self.detection(), cfg))
+
     def test_uncertain_chapter_escalates_everything(self):
         detection = self.detection(raw_finding(), uncertain=True)
         self.assertEqual(entity_pass.select_escalation(detection, CFG), ["E01"])
