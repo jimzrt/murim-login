@@ -1,0 +1,15 @@
+{
+  "uncertain": true,
+  "uncertain_reason": "Several battle cries have unnamed speakers, though the identified referents are clear.",
+  "summary": "Hyuk Mujin asks whether Jin Mukyung will kill him, but the English makes him ask Taekyung instead.",
+  "findings": [
+    {
+      "category": "referent",
+      "current": "you aren’t going to kill me too, are you?",
+      "replacement": "he isn’t going to kill me too, is he?",
+      "korean": "이공자님이 저도 죽이는 건 아니겠죠?",
+      "explanation": "이공자님 refers to Jin Mukyung, the Second Young Master, not to Taekyung, whom Hyuk Mujin is addressing.",
+      "confidence": 0.99
+    }
+  ]
+}
