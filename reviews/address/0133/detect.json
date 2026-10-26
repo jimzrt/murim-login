@@ -1,0 +1,48 @@
+{
+  "findings": [
+    {
+      "addressee": "the other scions; Woo Jintae is being referred to",
+      "confidence": 0.98,
+      "current": "the Chief and Young Hero Woo.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "국주님과 우 소협의 혜안(慧眼)에",
+      "reason": "The speaker is referring to Woo Jintae in the third person, not addressing him.",
+      "replacement": "the Chief and Woo Jintae.",
+      "span_count": 1,
+      "speaker": "one of the Five Gates of Shanxi scions",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Woo Jintae",
+      "confidence": 0.86,
+      "current": "“Ha-ha, Young Hero Woo, you haven’t forgotten me, have you?”",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "하하, 우 소협, 날 잊은 건 아니겠지요?",
+      "reason": "A fellow scion jokingly asks their host about a gift during their familiar gathering.",
+      "replacement": "“Ha-ha, Jintae, you haven’t forgotten me, have you?”",
+      "span_count": 1,
+      "speaker": "one of the scions drinking with Woo Jintae",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Woo Jintae",
+      "confidence": 0.86,
+      "current": "“You really underestimate us, Young Hero Woo.”",
+      "evidence_found": true,
+      "id": "A03",
+      "korean": "우 소협도 참, 저희를 너무 무시하는 것 아니에요?",
+      "reason": "The speaker playfully chides a familiar companion for thinking the group might forget the luncheon.",
+      "replacement": "“You really underestimate us, Jintae.”",
+      "span_count": 1,
+      "speaker": "one of the scions drinking with Woo Jintae",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Three occurrences should use Woo Jintae’s name rather than “Young Hero Woo.”",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
