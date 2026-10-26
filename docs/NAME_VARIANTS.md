@@ -28,3 +28,14 @@ source confirms it is the same name. Separate several variants with `;`.
 | 남궁옥 | Namgung Ok | Nangong Ok |
 | 남천 | Southern Heaven | South Heaven |
 | 대술사 | Grand Sorceress | Grand Mage |
+| 통합 언어 팩 | Integrated Language Pack | Unified Language Pack; Universal Language Pack |
+| 통합 언어팩 | Integrated Language Pack | Unified Language Pack; Universal Language Pack |
+| 공안 무력부 | Public Security Armed Forces Department | Public Security Armed Forces Division |
+| 공안무력부 | Public Security Armed Forces Department | Public Security Armed Forces Division |
+| 리자드맨 | Lizardman | lizard man; lizardman |
+| 리자드 맨 | Lizardman | lizard man; lizardman |
+| 다스패치 | Daspatch | Das Patch |
+| 다스 패치 | Daspatch | Das Patch |
+| 우쉐이밍 | Wu Xueming | Wu Shaiming |
+| 우 쉐이밍 | Wu Xueming | Wu Shaiming |
+| 초보 수련자 | Novice Trainee | Beginner Trainee |
