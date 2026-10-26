@@ -1,0 +1,33 @@
+{
+  "findings": [
+    {
+      "category": "title",
+      "confidence": 0.99,
+      "current": "Child of a Prestigious Family",
+      "evidence_found": true,
+      "explanation": "This System Title is rendered as “Scion of a Prestigious Family” in the glossary.",
+      "id": "E01",
+      "korean": "명가의 자제",
+      "origin": "detector",
+      "replacement": "Scion of a Prestigious Family",
+      "span_count": 1
+    },
+    {
+      "category": "title",
+      "confidence": 0.99,
+      "current": "Novice Trainee",
+      "evidence_found": true,
+      "explanation": "This System Title is rendered as “Beginner Trainee” in the glossary.",
+      "id": "E02",
+      "korean": "초보 수련자",
+      "origin": "detector",
+      "replacement": "Beginner Trainee",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Two System Titles use renderings that contradict the supplied glossary.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
