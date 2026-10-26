@@ -1,0 +1,35 @@
+{
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.94,
+      "current": "Clan, Young Hero Cheongpung.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협은",
+      "reason": "Taekyung is assigning his known companion to travel with him, not formally addressing a stranger.",
+      "replacement": "Clan, Cheongpung.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.96,
+      "current": "Young Hero Cheongpung, grab",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협,",
+      "reason": "Taekyung gives his familiar companion a direct, informal command.",
+      "replacement": "Cheongpung, grab",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "use": "familiar"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Both uses are familiar addresses from Jin Taekyung to Cheongpung and should use his name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

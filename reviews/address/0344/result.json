@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 344,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.94,
+      "current": "Clan, Young Hero Cheongpung.",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협은",
+      "reason": "Taekyung is assigning his known companion to travel with him, not formally addressing a stranger.",
+      "reason_status": "",
+      "replacement": "Clan, Cheongpung.",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.96,
+      "current": "Young Hero Cheongpung, grab",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협,",
+      "reason": "Taekyung gives his familiar companion a direct, informal command.",
+      "reason_status": "",
+      "replacement": "Cheongpung, grab",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    }
+  ],
+  "version": 1
+}
