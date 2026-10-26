@@ -1,0 +1,27 @@
+{
+  "summary": "Both occurrences refer to Cheongpung in the third person and should use his name.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "findings": [
+    {
+      "use": "third_person",
+      "current": "with Young Hero Cheongpung",
+      "replacement": "with Cheongpung",
+      "korean": "청 소협과",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "reason": "Mujin is telling Taekyung who is drinking downstairs, not addressing Cheongpung.",
+      "confidence": 0.99
+    },
+    {
+      "use": "third_person",
+      "current": "Young Hero Cheongpung and I",
+      "replacement": "Cheongpung and I",
+      "korean": "저와 청풍 소협이",
+      "speaker": "Hyuk Mujin",
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "reason": "Mujin names Cheongpung as someone who helped explain the incident, not as the person he is addressing.",
+      "confidence": 0.99
+    }
+  ]
+}

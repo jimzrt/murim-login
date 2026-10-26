@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 175,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "with Young Hero Cheongpung",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협과",
+      "reason": "Mujin is telling Taekyung who is drinking downstairs, not addressing Cheongpung.",
+      "reason_status": "",
+      "replacement": "with Cheongpung",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    },
+    {
+      "addressee": "Jin Taekyung; Cheongpung is being referred to",
+      "confidence": 0.99,
+      "current": "Young Hero Cheongpung and I",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "저와 청풍 소협이",
+      "reason": "Mujin names Cheongpung as someone who helped explain the incident, not as the person he is addressing.",
+      "reason_status": "",
+      "replacement": "Cheongpung and I",
+      "span_count": 1,
+      "speaker": "Hyuk Mujin",
+      "status": "auto",
+      "use": "third_person"
+    }
+  ],
+  "version": 1
+}

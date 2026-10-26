@@ -1,0 +1,35 @@
+{
+  "chapter": 175,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.324,
+    "source_characters": 6176,
+    "source_paragraphs": 204,
+    "translation_characters": 14354,
+    "translation_paragraphs": 215
+  },
+  "new_errors": [],
+  "passed": true,
+  "preexisting_errors": 0,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "14,000"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "기목지",
+        "romanization": "gimokji"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
