@@ -303,9 +303,16 @@ def check_names(source: str, translation: str, entries: list[dict] | None = None
     entries = proper_name_entries() if entries is None else entries
     errors: list[dict] = []
     warnings: list[dict] = []
-    for item in matched_names(source, entries):
+    matched = matched_names(source, entries)
+    for item in matched:
         korean, preferred = item["korean"], item["english"]
-        wrong = [variant for variant in item.get("variants", []) if english_present(translation, variant)]
+        # A variant that is another matched name's preferred English (대마도사 →
+        # Grand Mage next to 대술사 → Grand Sorceress) is legitimate here.
+        others = {fold_quotes(other["english"]).casefold() for other in matched if other["korean"] != korean}
+        wrong = [
+            variant for variant in item.get("variants", [])
+            if english_present(translation, variant) and fold_quotes(variant).casefold() not in others
+        ]
         if wrong:
             errors.append({
                 "code": "name_variant",

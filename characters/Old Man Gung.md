@@ -2,7 +2,7 @@
 
 - **Safe through:** Chapter 346
 - **Aliases:** None
-- **Gender:** unknown
+- **Gender:** male
 - **Role:** Hunched caretaker of the Sichuan Tang Clan's underground prison who checks on prisoners and drains the strength from those who become troublesome.
 - **Personality:** Cheerfully sadistic and grotesquely jovial, treating torture and mutilation as enjoyable work.
 - **Voice:** Obsequious and folksy, with a deferential tone toward Tang Sadok and a gleefully macabre undertone.

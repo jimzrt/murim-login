@@ -1,4 +1,4 @@
-# Team Leader Choi
+# Team Leader Choi (최 팀장)
 
 - **Safe through:** Chapter 1175
 - **Aliases:** Choi Minwoo (최민우)

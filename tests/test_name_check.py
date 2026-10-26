@@ -87,6 +87,18 @@ class NameCheckTest(unittest.TestCase):
         self.assertEqual([item["code"] for item in result["errors"]], ["name_variant"])
         self.assertEqual(result["errors"][0]["details"]["found"], ["Pai Chen"])
 
+    def test_variant_that_is_another_names_preferred_english_is_allowed(self):
+        entries = [
+            {"korean": "대술사", "english": "Grand Sorceress", "kind": "ledger", "variants": ["Grand Mage"]},
+            {"korean": "대마도사", "english": "Grand Mage", "kind": "ledger", "variants": []},
+        ]
+        alone = name_check.check_names("대술사가 웃었다.", "The Grand Mage smiled.", entries)
+        self.assertEqual([item["code"] for item in alone["errors"]], ["name_variant"])
+        both = name_check.check_names(
+            "대마도사, 혹은 대술사가 웃었다.", "The Grand Mage, or the Grand Sorceress, smiled.", entries
+        )
+        self.assertEqual(both["errors"], [])
+
     def test_known_variant_without_korean_name_is_ignored(self):
         result = self.check("그녀가 웃었다.", "Pai Chen smiled.")
         self.assertEqual(result, {"errors": [], "warnings": []})
