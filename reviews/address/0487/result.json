@@ -1,0 +1,41 @@
+{
+  "applied": true,
+  "chapter": 487,
+  "counts": {
+    "auto": 2,
+    "human": 0
+  },
+  "findings": [
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.94,
+      "current": "Young Hero Cheongpung, capture",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "청 소협",
+      "reason": "Taekyung calls on a companion he already knows during a joke, not a formal introduction.",
+      "reason_status": "",
+      "replacement": "Cheongpung, capture",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    },
+    {
+      "addressee": "Cheongpung",
+      "confidence": 0.94,
+      "current": "Young Hero Cheongpung, how",
+      "evidence_found": true,
+      "id": "A02",
+      "korean": "청 소협",
+      "reason": "Taekyung asks the same familiar companion for information; his concern about the fish does not make the address formal.",
+      "reason_status": "",
+      "replacement": "Cheongpung, how",
+      "span_count": 1,
+      "speaker": "Jin Taekyung",
+      "status": "auto",
+      "use": "familiar"
+    }
+  ],
+  "version": 1
+}
