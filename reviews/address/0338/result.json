@@ -2,8 +2,9 @@
   "applied": true,
   "chapter": 338,
   "counts": {
-    "auto": 2,
-    "human": 0
+    "auto": 1,
+    "human": 0,
+    "reverted": 1
   },
   "findings": [
     {
@@ -29,11 +30,11 @@
       "id": "A02",
       "korean": "진 소협을",
       "reason": "The Elder is describing whom the order says to help, not using 소협 as a direct address.",
-      "reason_status": "",
+      "reason_status": "restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)",
       "replacement": "Our Sect Leader Senior Brother ordered us to do our utmost to help Jin Taekyung find the Divine Physician.",
       "span_count": 1,
       "speaker": "a Qingcheng Sect Elder",
-      "status": "auto",
+      "status": "reverted",
       "use": "third_person"
     }
   ],

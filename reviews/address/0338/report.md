@@ -5,7 +5,7 @@
 - Occurrences: 4
 - Applied: yes
 
-## Applied (2)
+## Applied (1)
 
 ### A01 · third_person · 0.98
 
@@ -15,6 +15,12 @@
 - Speaker → addressee: Cheongpung → Gung Gibang, referred to while Cheongpung addresses Jin Taekyung
 - Why: Cheongpung is telling his benefactor what Gung did, not addressing Gung.
 
+## Needs human review (0)
+
+None.
+
+## Reverted after review (1)
+
 ### A02 · third_person · 0.96
 
 - Current: “Our Sect Leader Senior Brother ordered us to do our utmost to help Young Hero Jin find the Divine Physician.”
@@ -22,7 +28,4 @@
 - Korean: 진 소협을
 - Speaker → addressee: a Qingcheng Sect Elder → Jin Taekyung, referred to in the Sect Leader’s order
 - Why: The Elder is describing whom the order says to help, not using 소협 as a direct address.
-
-## Needs human review (0)
-
-None.
+- Status reason: restored after review: name+소협 is second person or the speaker is deferential/formal (RULES.md → Address)
