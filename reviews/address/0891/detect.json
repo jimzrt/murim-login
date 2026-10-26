@@ -1,0 +1,22 @@
+{
+  "findings": [
+    {
+      "addressee": "Taishan, referred to while speaking to Jin Taekyung",
+      "confidence": 0.99,
+      "current": "Young Hero Taishan",
+      "evidence_found": true,
+      "id": "A01",
+      "korean": "태산 소협을",
+      "reason": "The Divine Physician is telling Jin about Namho’s attempted ambush, not addressing Taishan.",
+      "replacement": "Taishan",
+      "span_count": 1,
+      "speaker": "Divine Physician",
+      "use": "third_person"
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The Divine Physician refers to Taishan in the third person, so the honorific should be removed.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}
