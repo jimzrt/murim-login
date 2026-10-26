@@ -1,0 +1,29 @@
+{
+  "applied": false,
+  "chapter": 27,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 1
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.96,
+      "current": "A sikyeong[^2]? Half a shichen[^1]?",
+      "evidence_found": true,
+      "explanation": "The source uses 식경, which the glossary renders as “half an hour,” rather than “sikyeong.”",
+      "id": "E01",
+      "korean": "한 식경? 반 시진?",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Half an hour[^2]? Half a shichen[^1]?",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}
