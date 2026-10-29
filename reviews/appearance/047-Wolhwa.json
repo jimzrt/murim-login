@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 47,
   "english": "Wolhwa",
   "profile": "characters/Wolhwa.md",
@@ -11,216 +11,176 @@
   ],
   "chapter_count": 47,
   "first_chapter": 2,
-  "safe_through": 1126,
-  "passages": [
-    [
-      2,
-      79
-    ],
-    [
-      2,
-      35
-    ],
-    [
-      2,
-      30
-    ],
-    [
-      2,
-      49
-    ],
-    [
-      4,
-      37
-    ],
-    [
-      19,
-      70
-    ],
-    [
-      19,
-      46
-    ],
-    [
-      20,
-      53
-    ],
-    [
-      20,
-      54
-    ],
-    [
-      20,
-      41
-    ],
-    [
-      39,
-      72
-    ],
-    [
-      105,
-      69
-    ],
-    [
-      105,
-      43
-    ],
-    [
-      106,
-      70
-    ],
-    [
-      107,
-      81
-    ],
-    [
-      108,
-      57
-    ],
-    [
-      108,
-      71
-    ],
-    [
-      108,
-      30
-    ],
-    [
-      108,
-      56
-    ],
-    [
-      109,
-      80
-    ],
-    [
-      111,
-      116
-    ],
-    [
-      121,
-      39
-    ],
-    [
-      121,
-      62
-    ],
-    [
-      121,
-      56
-    ],
-    [
-      122,
-      37
-    ],
-    [
-      122,
-      62
-    ],
-    [
-      124,
-      94
-    ],
-    [
-      185,
-      55
-    ],
-    [
-      236,
-      50
-    ],
-    [
-      243,
-      69
-    ],
-    [
-      321,
-      31
-    ],
-    [
-      322,
-      52
-    ],
-    [
-      322,
-      94
-    ],
-    [
-      322,
-      36
-    ],
-    [
-      322,
-      114
-    ],
-    [
-      328,
-      86
-    ]
-  ],
+  "profile_safe_through": 1126,
+  "passages": [],
   "facts": [
     {
       "attribute": "skin",
       "kind": "base",
       "fact": "fair, smooth skin",
       "chapter": 2,
-      "quote": "희고 매끄러운 피부에 주먹만 한 얼굴."
+      "quote": "희고 매끄러운 피부에 주먹만 한 얼굴.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Direct description of Wolhwa's skin on first view; ordinary, no change."
+      },
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "fist-sized small face with delicate, neat features",
       "chapter": 2,
-      "quote": "오밀조밀한 이목구비에 눈은 얼마나 크고 맑은지"
+      "quote": "오밀조밀한 이목구비에 눈은 얼마나 크고 맑은지",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Same line describes Wolhwa's small face and delicate features; ordinary, no change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Large, clear eyes",
+      "chapter": 2,
+      "quote": "눈은 얼마나 크고 맑은지",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Dazzlingly beautiful, goddess-like appearance",
+      "chapter": 19,
+      "quote": "여신이 내려왔나 싶을 정도로 눈부신 외모다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "slender figure",
       "chapter": 20,
-      "quote": "늘씬한 몸매에 화려한 옷차림까지 더해지니"
+      "quote": "늘씬한 몸매에 화려한 옷차림까지 더해지니",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Describes Wolhwa as beauty with slender figure in the present; the flashy outfit is just clothing, no lasting change."
+      },
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Strikingly beautiful; her looks captivate others",
       "chapter": 20,
-      "quote": "월화의 미모에 반해"
+      "quote": "월화의 미모에 반해",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Rare beauty",
+      "chapter": 20,
+      "quote": "월화는 보기 드문 미녀다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Has pretty eyebrows",
       "chapter": 321,
-      "quote": "예쁜 눈썹을 찡긋해 보였다"
+      "quote": "예쁜 눈썹을 찡긋해 보였다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Has a characteristic smiling, crinkling eyes expression",
       "chapter": 322,
-      "quote": "특유의 눈웃음을 찡긋거리는 월화"
+      "quote": "특유의 눈웃음을 찡긋거리는 월화",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Strikingly beautiful, alluring",
       "chapter": 322,
-      "quote": "일 년 만에 만난 월화는 오히려 그 전보다 아름다워진 것 같았다."
+      "quote": "일 년 만에 만난 월화는 오히려 그 전보다 아름다워진 것 같았다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "clothing",
       "kind": "base",
       "fact": "Wears flamboyant, gorgeous attire; compared to an elegant peacock",
       "chapter": 322,
-      "quote": "화려한 복장과 매혹적인 미소."
+      "quote": "화려한 복장과 매혹적인 미소.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "2|희고매끄러운피부에주먹만한얼굴.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Direct description of Wolhwa's skin on first view; ordinary, no change."
+    },
+    "2|오밀조밀한이목구비에눈은얼마나크고맑은지": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same line describes Wolhwa's small face and delicate features; ordinary, no change."
+    },
+    "20|늘씬한몸매에화려한옷차림까지더해지니": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Describes Wolhwa as beauty with slender figure in the present; the flashy outfit is just clothing, no lasting change."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "CONFLICT#1 group (skin, face, build)",
+      "indices": [
+        0,
+        1,
+        4
+      ],
+      "kept": [
+        0,
+        1,
+        4
+      ],
+      "resolved": true,
+      "reason": "Flagged facts cover different attributes (skin, face size, build), so none contradicts another. No values were mixed, and all are kept."
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
       "start": 2,
-      "description": "Wolhwa is a woman with fair, smooth skin and a fist-sized small face with delicate, neat features and large, clear eyes. She has a slender figure, pretty eyebrows and a characteristic smiling, crinkling-eyed expression, and her striking beauty is alluring. She wears flamboyant, gorgeous attire, like an elegant peacock. Tags: female, fair skin, small face, delicate features, large clear eyes, pretty eyebrows, smiling eyes, slender, strikingly beautiful, alluring, flamboyant gorgeous clothing, peacock-like elegance",
+      "description": "Wolhwa is a strikingly beautiful woman, goddess-like and rare in her beauty, with fair, smooth skin and a fist-sized small face. Her features are delicate and neat, with large, clear eyes that crinkle in a characteristic smile and pretty eyebrows. She has a slender figure and wears flamboyant, gorgeous attire with an alluring smile, like an elegant peacock. Tags: female, fair smooth skin, small face, delicate features, large clear eyes, smiling crinkled eyes, pretty eyebrows, slender, dazzling beauty, flamboyant gorgeous clothing, elegant peacock, alluring smile",
       "used": [
         0,
         1,
@@ -229,37 +189,30 @@
         4,
         5,
         6,
-        7
-      ]
+        7,
+        8,
+        9,
+        10
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 2):** Wolhwa is a woman with fair, smooth skin and a fist-sized small face with delicate, neat features and large, clear eyes. She has a slender figure, pretty eyebrows and a characteristic smiling, crinkling-eyed expression, and her striking beauty is alluring. She wears flamboyant, gorgeous attire, like an elegant peacock. Tags: female, fair skin, small face, delicate features, large clear eyes, pretty eyebrows, smiling eyes, slender, strikingly beautiful, alluring, flamboyant gorgeous clothing, peacock-like elegance"
+    "- **Appearance (from ch 2):** Wolhwa is a strikingly beautiful woman, goddess-like and rare in her beauty, with fair, smooth skin and a fist-sized small face. Her features are delicate and neat, with large, clear eyes that crinkle in a characteristic smile and pretty eyebrows. She has a slender figure and wears flamboyant, gorgeous attire with an alluring smile, like an elegant peacock. Tags: female, fair smooth skin, small face, delicate features, large clear eyes, smiling crinkled eyes, pretty eyebrows, slender, dazzling beauty, flamboyant gorgeous clothing, elegant peacock, alluring smile"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.021626
+      "cost_usd": 0.0169385
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.016540199999999998
+      "cost_usd": 0.019999700000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0179922
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0195836
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018896
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0206421
+      "cost_usd": 0.0307613
     }
   ]
 }

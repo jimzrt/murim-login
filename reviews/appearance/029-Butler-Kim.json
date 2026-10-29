@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 29,
   "english": "Butler Kim",
   "profile": "characters/Butler Kim.md",
@@ -9,315 +9,205 @@
   "chapter_count": 76,
   "first_chapter": 51,
   "profile_safe_through": 553,
-  "passages": [
-    [
-      51,
-      71
-    ],
-    [
-      78,
-      65
-    ],
-    [
-      80,
-      86
-    ],
-    [
-      80,
-      28
-    ],
-    [
-      80,
-      54
-    ],
-    [
-      83,
-      36
-    ],
-    [
-      90,
-      15
-    ],
-    [
-      90,
-      58
-    ],
-    [
-      209,
-      44
-    ],
-    [
-      209,
-      85
-    ],
-    [
-      214,
-      77
-    ],
-    [
-      220,
-      25
-    ],
-    [
-      220,
-      34
-    ],
-    [
-      223,
-      30
-    ],
-    [
-      224,
-      33
-    ],
-    [
-      225,
-      51
-    ],
-    [
-      226,
-      53
-    ],
-    [
-      226,
-      82
-    ],
-    [
-      274,
-      30
-    ],
-    [
-      274,
-      99
-    ],
-    [
-      274,
-      35
-    ],
-    [
-      286,
-      81
-    ],
-    [
-      286,
-      63
-    ],
-    [
-      287,
-      55
-    ],
-    [
-      287,
-      142
-    ],
-    [
-      292,
-      42
-    ],
-    [
-      292,
-      53
-    ],
-    [
-      297,
-      66
-    ],
-    [
-      299,
-      62
-    ],
-    [
-      300,
-      53
-    ],
-    [
-      304,
-      74
-    ],
-    [
-      420,
-      51
-    ],
-    [
-      553,
-      69
-    ],
-    [
-      565,
-      36
-    ],
-    [
-      565,
-      94
-    ],
-    [
-      576,
-      67
-    ],
-    [
-      576,
-      39
-    ],
-    [
-      577,
-      79
-    ],
-    [
-      578,
-      29
-    ],
-    [
-      583,
-      97
-    ],
-    [
-      585,
-      81
-    ],
-    [
-      595,
-      63
-    ],
-    [
-      596,
-      23
-    ],
-    [
-      596,
-      40
-    ],
-    [
-      597,
-      47
-    ],
-    [
-      599,
-      74
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Sturdy, solidly built physique",
       "chapter": 80,
-      "quote": "제법 다부진 체격이다."
+      "quote": "제법 다부진 체격이다.",
+      "marker": false,
+      "verdict": {
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Describes 임창수, not Butler Kim."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "clothing",
       "kind": "base",
       "fact": "Wears a suit; light, simple mage attire without armor or staff",
       "chapter": 80,
-      "quote": "정장 단추를 푸니"
+      "quote": "정장 단추를 푸니",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "accessories",
       "kind": "base",
       "fact": "Wears bracelets on both wrists and a necklace (magical items)",
       "chapter": 80,
-      "quote": "양 손목의 팔찌와 목걸이가 드러났다"
+      "quote": "양 손목의 팔찌와 목걸이가 드러났다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "clothing",
+      "kind": "base",
+      "fact": "Wears a suit; light, simple attire for a mage, with bracelets on both wrists and a necklace (magical items)",
+      "chapter": 80,
+      "quote": "말과 함께 정장 단추를 푸니 양 손목의 팔찌와 목걸이가 드러났다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "clothing",
+      "fact": "Wears very casual, light clothing for a mage, with no light armor or protective staff",
+      "chapter": 80,
+      "quote": "저 정도로 간편한 복장의 마법사는 흔치 않다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "facial hair",
       "kind": "base",
       "fact": "Has a well-grown, stylish beard",
       "chapter": 223,
-      "quote": "김 집사가 멋들어지게 자란 수염을 쓰다듬으며 대답했다."
+      "quote": "김 집사가 멋들어지게 자란 수염을 쓰다듬으며 대답했다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "facial hair",
       "kind": "base",
       "fact": "Has a well-groomed beard on his chin",
       "chapter": 274,
-      "quote": "잘 손질된 턱수염"
+      "quote": "잘 손질된 턱수염",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "facial hair",
+      "kind": "base",
+      "fact": "Has a well-groomed beard on the chin",
+      "chapter": 274,
+      "quote": "김 집사가 잘 손질된 턱수염을 쓰다듬으며 말을 이었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Elderly man, described as old",
       "chapter": 420,
-      "quote": "나이든 김 집사"
+      "quote": "나이든 김 집사",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Memory/backstory of Choi Minwoo's past; 'old Kim' is a passing mention in recollection, not a present-time description."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Elderly man, described as old",
+      "chapter": 420,
+      "quote": "나이든 김 집사만이 속을 터놓을 수 있는 유일한 상대였다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Memory/backstory of Choi Minwoo's past; 'old Kim' is a passing mention in recollection, not a present-time description."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "hair",
       "kind": "change",
       "fact": "Hair turned gray/white with age (frost settled on his head)",
       "chapter": 597,
-      "quote": "집사의 머리에는 서리가 내려앉았다"
+      "quote": "집사의 머리에는 서리가 내려앉았다",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Summary of the passage of 20+ years, a backstory; 'frost on head' is a metaphor for graying hair, not a lasting change in this scene."
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
+  "rejected": [
+    0,
+    8,
+    9,
+    10
+  ],
+  "judgments": {
+    "597|집사의머리에는서리가내려앉았다": {
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Summary of the passage of 20+ years, a backstory; 'frost on head' is a metaphor for graying hair, not a lasting change in this scene."
+    },
+    "80|제법다부진체격이다.": {
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Describes 임창수, not Butler Kim."
+    },
+    "420|나이든김집사": {
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Memory/backstory of Choi Minwoo's past; 'old Kim' is a passing mention in recollection, not a present-time description."
+    },
+    "420|나이든김집사만이속을터놓을수있는유일한상대였다.": {
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Memory/backstory of Choi Minwoo's past; 'old Kim' is a passing mention in recollection, not a present-time description."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 51,
-      "description": "Butler Kim is a sturdy, solidly built man with a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff",
+      "description": "Butler Kim is a man in a plain suit, light and simple attire with no armor and no staff. He wears bracelets on both wrists and a necklace, all magical items. He has a well-groomed, stylish beard on his chin. Tags: male, suit, light mage attire, no armor, no staff, bracelets on both wrists, necklace, magical accessories, well-groomed chin beard",
       "used": [
-        0,
-        1,
-        2,
-        3,
-        4
-      ]
-    },
-    {
-      "start": 420,
-      "description": "Butler Kim is an elderly man with a sturdy, solidly built physique and a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, elderly, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff",
-      "used": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5
-      ]
-    },
-    {
-      "start": 597,
-      "description": "Butler Kim is an elderly man with a sturdy, solidly built physique, gray-white hair, and a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, elderly, gray-white hair, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff",
-      "used": [
-        0,
         1,
         2,
         3,
         4,
         5,
-        6
-      ]
+        6,
+        7
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (ch 51–419):** Butler Kim is a sturdy, solidly built man with a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff",
-    "- **Appearance (ch 420–596):** Butler Kim is an elderly man with a sturdy, solidly built physique and a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, elderly, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff",
-    "- **Appearance (from ch 597):** Butler Kim is an elderly man with a sturdy, solidly built physique, gray-white hair, and a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, elderly, gray-white hair, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff"
+    "- **Appearance (from ch 51):** Butler Kim is a man in a plain suit, light and simple attire with no armor and no staff. He wears bracelets on both wrists and a necklace, all magical items. He has a well-groomed, stylish beard on his chin. Tags: male, suit, light mage attire, no armor, no staff, bracelets on both wrists, necklace, magical accessories, well-groomed chin beard"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0199895
+      "cost_usd": 0.0175472
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.014147299999999998
+      "cost_usd": 0.0209023
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0199813
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0215556
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.019925099999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.019515
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0231421
+      "cost_usd": 0.0246053
     }
   ]
 }

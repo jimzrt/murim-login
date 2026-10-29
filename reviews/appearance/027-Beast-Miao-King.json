@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 27,
   "english": "Beast Miao King",
   "profile": "characters/Beast Miao King.md",
@@ -8,326 +8,163 @@
   ],
   "chapter_count": 78,
   "first_chapter": 507,
-  "safe_through": 1140,
-  "passages": [
-    [
-      507,
-      32
-    ],
-    [
-      625,
-      39
-    ],
-    [
-      625,
-      131
-    ],
-    [
-      625,
-      69
-    ],
-    [
-      625,
-      57
-    ],
-    [
-      626,
-      61
-    ],
-    [
-      626,
-      34
-    ],
-    [
-      632,
-      50
-    ],
-    [
-      634,
-      72
-    ],
-    [
-      634,
-      58
-    ],
-    [
-      636,
-      35
-    ],
-    [
-      637,
-      130
-    ],
-    [
-      638,
-      66
-    ],
-    [
-      638,
-      59
-    ],
-    [
-      640,
-      63
-    ],
-    [
-      640,
-      62
-    ],
-    [
-      640,
-      57
-    ],
-    [
-      640,
-      32
-    ],
-    [
-      641,
-      50
-    ],
-    [
-      647,
-      212
-    ],
-    [
-      647,
-      166
-    ],
-    [
-      656,
-      30
-    ],
-    [
-      656,
-      58
-    ],
-    [
-      656,
-      38
-    ],
-    [
-      657,
-      20
-    ],
-    [
-      657,
-      43
-    ],
-    [
-      657,
-      118
-    ],
-    [
-      657,
-      56
-    ],
-    [
-      666,
-      85
-    ],
-    [
-      666,
-      57
-    ],
-    [
-      670,
-      64
-    ],
-    [
-      674,
-      68
-    ],
-    [
-      677,
-      61
-    ],
-    [
-      686,
-      87
-    ],
-    [
-      687,
-      159
-    ],
-    [
-      687,
-      138
-    ],
-    [
-      687,
-      32
-    ],
-    [
-      704,
-      36
-    ],
-    [
-      704,
-      52
-    ],
-    [
-      704,
-      26
-    ],
-    [
-      705,
-      90
-    ],
-    [
-      705,
-      107
-    ],
-    [
-      705,
-      98
-    ],
-    [
-      705,
-      52
-    ],
-    [
-      706,
-      37
-    ],
-    [
-      707,
-      38
-    ],
-    [
-      714,
-      70
-    ],
-    [
-      718,
-      51
-    ],
-    [
-      718,
-      46
-    ],
-    [
-      718,
-      52
-    ],
-    [
-      718,
-      51
-    ],
-    [
-      718,
-      22
-    ],
-    [
-      719,
-      39
-    ],
-    [
-      721,
-      32
-    ]
-  ],
+  "profile_safe_through": 1140,
+  "passages": [],
   "facts": [
     {
       "attribute": "beard",
       "kind": "base",
       "fact": "Has a beard like a wild beast's mane",
       "chapter": 625,
-      "quote": "마치 맹수의 갈기 같은 자신의 수염"
+      "quote": "마치 맹수의 갈기 같은 자신의 수염",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Large, bulky frame, contrasted with a lean man",
       "chapter": 625,
-      "quote": "덩치 큰 어린아이 같았다"
+      "quote": "덩치 큰 어린아이 같았다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "fact": "Large, burly build, contrasted with another man's thin frame",
+      "chapter": 626,
+      "quote": "야수묘왕과는 상반되는 마른 체구를 지닌 그는",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "fact": "Huge, imposing physique",
+      "chapter": 627,
+      "quote": "저 덩치에 저 무위라면",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "fact": "Has large fists/hands",
+      "chapter": 636,
+      "quote": "커다란 주먹",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "hair",
+      "fact": "Originally had thick, voluminous hair",
+      "chapter": 638,
+      "quote": "풍성하던 머리카락",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Huge, mountain-ridge-like massive frame",
       "chapter": 656,
-      "quote": "부릅뜬 호목과 산등성이처럼 장대한 체구."
+      "quote": "부릅뜬 호목과 산등성이처럼 장대한 체구.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Huge, towering frame like an iron tower",
       "chapter": 705,
-      "quote": "모두의 앞에 철탑처럼 우뚝 서 있던 거한"
+      "quote": "모두의 앞에 철탑처럼 우뚝 서 있던 거한",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "hair",
       "kind": "base",
       "fact": "Half-grey (salt-and-pepper) hair, middle-aged",
       "chapter": 706,
-      "quote": "그 꼭짓점에 선 반백의 중년인"
+      "quote": "그 꼭짓점에 선 반백의 중년인",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "As a boy, was a large, big-built child",
       "chapter": 714,
-      "quote": "덩치 큰 소년의 모습"
+      "quote": "덩치 큰 소년의 모습",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Face appears as an expressionless, stone-still face (no lasting trait); no age info",
       "chapter": 721,
-      "quote": "석상처럼 굳어 있던 야수묘왕의 입술이"
+      "quote": "석상처럼 굳어 있던 야수묘왕의 입술이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {},
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 507,
-      "description": "Beast Miao King is a huge, bulky, towering man with a mountain-ridge-like frame, standing like an iron tower. He is middle-aged with half-grey salt-and-pepper hair and a thick beard like a wild beast's mane, and a stern, stone-still expressionless face. Tags: male, middle-aged, huge towering build, bulky, salt-and-pepper hair, mane-like beard, stony expression",
+      "description": "Beast Miao King is a middle-aged man with a huge, towering, burly frame, as massive as a mountain ridge or an iron tower, and large fists. He has half-grey (salt-and-pepper) hair and a wild beard like a beast's mane. Tags: male, middle-aged, huge, towering, burly, bulky, large fists, half-grey hair, salt-and-pepper hair, wild mane-like beard",
       "used": [
         0,
         1,
         2,
         3,
         4,
-        6
-      ]
+        6,
+        7,
+        8
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 507):** Beast Miao King is a huge, bulky, towering man with a mountain-ridge-like frame, standing like an iron tower. He is middle-aged with half-grey salt-and-pepper hair and a thick beard like a wild beast's mane, and a stern, stone-still expressionless face. Tags: male, middle-aged, huge towering build, bulky, salt-and-pepper hair, mane-like beard, stony expression"
+    "- **Appearance (from ch 507):** Beast Miao King is a middle-aged man with a huge, towering, burly frame, as massive as a mountain ridge or an iron tower, and large fists. He has half-grey (salt-and-pepper) hair and a wild beard like a beast's mane. Tags: male, middle-aged, huge, towering, burly, bulky, large fists, half-grey hair, salt-and-pepper hair, wild mane-like beard"
+  ],
+  "omitted": [
+    {
+      "index": 5,
+      "reason": "'Originally had' thick hair implies a later loss. That is an event, and it has no APPROVED-CHANGE flag. Hair is described by fact 8."
+    },
+    {
+      "index": 9,
+      "reason": "Describes a boyhood look. It is a past age with no APPROVED-CHANGE, and the base look is the adult one."
+    },
+    {
+      "index": 10,
+      "reason": "Only a momentary expressionless face. It is not a lasting trait and gives no age."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0196443
+      "cost_usd": 0.019012300000000003
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0182082
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0203541
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0189864
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.022125799999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.020817500000000003
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018165200000000003
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0198164
+      "cost_usd": 0.0285111
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 18,
   "english": "Mungyeong",
   "profile": "characters/Mungyeong.md",
@@ -8,305 +8,208 @@
   ],
   "chapter_count": 97,
   "first_chapter": 333,
-  "safe_through": 1183,
-  "passages": [
-    [
-      334,
-      35
-    ],
-    [
-      335,
-      31
-    ],
-    [
-      340,
-      22
-    ],
-    [
-      341,
-      84
-    ],
-    [
-      341,
-      113
-    ],
-    [
-      343,
-      52
-    ],
-    [
-      344,
-      46
-    ],
-    [
-      368,
-      36
-    ],
-    [
-      368,
-      81
-    ],
-    [
-      369,
-      37
-    ],
-    [
-      371,
-      53
-    ],
-    [
-      371,
-      27
-    ],
-    [
-      371,
-      53
-    ],
-    [
-      372,
-      45
-    ],
-    [
-      435,
-      50
-    ],
-    [
-      437,
-      73
-    ],
-    [
-      437,
-      41
-    ],
-    [
-      438,
-      61
-    ],
-    [
-      444,
-      81
-    ],
-    [
-      445,
-      95
-    ],
-    [
-      448,
-      61
-    ],
-    [
-      451,
-      51
-    ],
-    [
-      463,
-      21
-    ],
-    [
-      472,
-      46
-    ],
-    [
-      472,
-      69
-    ],
-    [
-      472,
-      56
-    ],
-    [
-      472,
-      87
-    ],
-    [
-      476,
-      47
-    ],
-    [
-      477,
-      65
-    ],
-    [
-      479,
-      70
-    ],
-    [
-      479,
-      43
-    ],
-    [
-      481,
-      36
-    ],
-    [
-      482,
-      56
-    ],
-    [
-      486,
-      75
-    ],
-    [
-      488,
-      120
-    ],
-    [
-      490,
-      56
-    ],
-    [
-      491,
-      68
-    ],
-    [
-      494,
-      47
-    ],
-    [
-      497,
-      97
-    ],
-    [
-      502,
-      117
-    ],
-    [
-      502,
-      61
-    ],
-    [
-      504,
-      49
-    ],
-    [
-      507,
-      44
-    ],
-    [
-      507,
-      39
-    ],
-    [
-      508,
-      50
-    ],
-    [
-      508,
-      70
-    ],
-    [
-      509,
-      112
-    ],
-    [
-      510,
-      27
-    ],
-    [
-      526,
-      47
-    ],
-    [
-      539,
-      31
-    ],
-    [
-      550,
-      46
-    ],
-    [
-      550,
-      46
-    ],
-    [
-      919,
-      98
-    ]
-  ],
+  "profile_safe_through": 1183,
+  "passages": [],
   "facts": [
+    {
+      "attribute": "build",
+      "fact": "Boy who appears to be an ordinary commoner, with no special aura",
+      "chapter": 333,
+      "quote": "그만큼 소년, 문경에게서 느껴지는 기운은 평범한 양민.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Clear, bright eyes",
+      "chapter": 333,
+      "quote": "문경이 맑은 눈동자로 황태구를 응시했다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears to be a boy (youth)",
       "chapter": 340,
-      "quote": "소년의 이름은 문경이었다"
+      "quote": "소년의 이름은 문경이었다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "fact": "Mungyeong is a boy (youth).",
+      "chapter": 340,
+      "quote": "소년의 이름은 문경이었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "fact": "Appears to be a boy",
+      "chapter": 343,
+      "quote": "감고 있던 눈을 뜨자 소년의 얼굴이 보인다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Has clear eyes",
+      "chapter": 343,
+      "quote": "문경이 맑은 눈동자로 나를 응시했다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears to be a boy (teenage youth)",
       "chapter": 368,
-      "quote": "소년, 아니 문경이라는 이름을 가진"
+      "quote": "소년, 아니 문경이라는 이름을 가진",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears to be a boy (young physician)",
       "chapter": 448,
-      "quote": "소년 의생, 문경이 손가락을 들어"
+      "quote": "소년 의생, 문경이 손가락을 들어",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Smooth forehead",
       "chapter": 451,
-      "quote": "소년 의생의 매끈한 이마"
+      "quote": "소년 의생의 매끈한 이마",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Carries a short sword (small blade)",
       "chapter": 472,
-      "quote": "문경은 호흡과 함께 소검을 힘껏 움켜쥐었다."
+      "quote": "문경은 호흡과 함께 소검을 힘껏 움켜쥐었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Mungyeong has a neat, even brow; no other face details given",
       "chapter": 479,
-      "quote": "문경의 가지런한 눈썹이 꿈틀거렸다"
+      "quote": "문경의 가지런한 눈썹이 꿈틀거렸다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears as a young boy despite being over a hundred years old",
       "chapter": 486,
-      "quote": "겉모습은 젊다 못해 어려 보이는 소년이지만"
+      "quote": "겉모습은 젊다 못해 어려 보이는 소년이지만",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Looks like a young boy though over a hundred years old; a standing state, not a change in this scene."
+      },
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Has transparent/clear eyes",
       "chapter": 494,
-      "quote": "문경의 투명한 눈동자에"
+      "quote": "문경의 투명한 눈동자에",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears as a boy",
       "chapter": 504,
-      "quote": "그 기이한 광경을 말없이 바라보던 소년, 문경의 입술 사이로 나직한 목소리가 흘러나왔다."
+      "quote": "그 기이한 광경을 말없이 바라보던 소년, 문경의 입술 사이로 나직한 목소리가 흘러나왔다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "change",
       "fact": "Looks like a boy/youth, works as a young physician",
       "chapter": 507,
-      "quote": "그런 우리의 반응에 언제 그랬냐는 듯 소년 의생으로 돌아간 문경이 말을 이었다."
+      "quote": "그런 우리의 반응에 언제 그랬냐는 듯 소년 의생으로 돌아간 문경이 말을 이었다.",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Mungyeong returns to the role of a boy physician (소년 의생); present description, no change happening."
+      },
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "change",
       "fact": "Has reverted to youth (rejuvenation, 반로환동); appears as a boy",
       "chapter": 508,
-      "quote": "현재의 문경은 이미 반박귀진(返璞歸眞)의 경지와 더불어 반로환동(返老還童)에 도달한 상태."
+      "quote": "현재의 문경은 이미 반박귀진(返璞歸眞)의 경지와 더불어 반로환동(返老還童)에 도달한 상태.",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narration states Mungyeong currently has reached 반로환동 (rejuvenation), but it is stated as an existing state rather than a change in this scene; the text does not show it happening or having just happened."
+      },
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "486|겉모습은젊다못해어려보이는소년이지만": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Looks like a young boy though over a hundred years old; a standing state, not a change in this scene."
+    },
+    "507|그런우리의반응에언제그랬냐는듯소년의생으로돌아간문경이말을이었다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Mungyeong returns to the role of a boy physician (소년 의생); present description, no change happening."
+    },
+    "508|현재의문경은이미반박귀진(返璞歸眞)의경지와더불어반로환동(返老還童)에도달한상태.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narration states Mungyeong currently has reached 반로환동 (rejuvenation), but it is stated as an existing state rather than a change in this scene; the text does not show it happening or having just happened."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 333,
-      "description": "Mungyeong is a boy-like youth with a young face, smooth forehead, neat even eyebrows and clear, transparent eyes. A young physician who carries a small short sword. Tags: male, boy, youth, young physician, smooth forehead, neat even brows, transparent eyes, short sword",
+      "description": "Mungyeong is a teenage boy with a youthful, smooth-browed face: smooth forehead, neat even eyebrows, clear bright transparent eyes. He looks like an ordinary commoner with an unremarkable build, works as a young physician, and carries a small short sword. Tags: boy, teenage youth, young physician, ordinary commoner, clear bright eyes, smooth forehead, neat even eyebrows, short sword",
       "used": [
         0,
         1,
@@ -318,45 +221,32 @@
         7,
         8,
         9,
-        10
-      ]
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 333):** Mungyeong is a boy-like youth with a young face, smooth forehead, neat even eyebrows and clear, transparent eyes. A young physician who carries a small short sword. Tags: male, boy, youth, young physician, smooth forehead, neat even brows, transparent eyes, short sword"
+    "- **Appearance (from ch 333):** Mungyeong is a teenage boy with a youthful, smooth-browed face: smooth forehead, neat even eyebrows, clear bright transparent eyes. He looks like an ordinary commoner with an unremarkable build, works as a young physician, and carries a small short sword. Tags: boy, teenage youth, young physician, ordinary commoner, clear bright eyes, smooth forehead, neat even eyebrows, short sword"
+  ],
+  "omitted": [
+    {
+      "index": 15,
+      "reason": "Rejuvenation (반로환동) is a transformation event not marked APPROVED-CHANGE. It also shows no visible difference, since he already looks like a boy."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0208441
+      "cost_usd": 0.018888500000000003
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0217669
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0227127
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0197949
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0203727
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.021120299999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018123
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0204556
+      "cost_usd": 0.028131599999999996
     }
   ]
 }

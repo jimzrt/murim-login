@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 22,
   "english": "Sama Pyo",
   "profile": "characters/Sama Pyo.md",
@@ -8,275 +8,79 @@
   ],
   "chapter_count": 91,
   "first_chapter": 514,
-  "safe_through": 1183,
-  "passages": [
-    [
-      514,
-      24
-    ],
-    [
-      514,
-      46
-    ],
-    [
-      533,
-      54
-    ],
-    [
-      533,
-      69
-    ],
-    [
-      534,
-      63
-    ],
-    [
-      542,
-      79
-    ],
-    [
-      619,
-      59
-    ],
-    [
-      622,
-      52
-    ],
-    [
-      622,
-      93
-    ],
-    [
-      624,
-      55
-    ],
-    [
-      648,
-      84
-    ],
-    [
-      652,
-      122
-    ],
-    [
-      652,
-      70
-    ],
-    [
-      652,
-      77
-    ],
-    [
-      652,
-      70
-    ],
-    [
-      652,
-      28
-    ],
-    [
-      664,
-      32
-    ],
-    [
-      669,
-      71
-    ],
-    [
-      836,
-      84
-    ],
-    [
-      855,
-      94
-    ],
-    [
-      855,
-      14
-    ],
-    [
-      878,
-      45
-    ],
-    [
-      878,
-      59
-    ],
-    [
-      878,
-      42
-    ],
-    [
-      883,
-      37
-    ],
-    [
-      930,
-      47
-    ],
-    [
-      995,
-      42
-    ],
-    [
-      1001,
-      27
-    ],
-    [
-      1014,
-      75
-    ],
-    [
-      1014,
-      22
-    ],
-    [
-      1018,
-      23
-    ],
-    [
-      1018,
-      93
-    ],
-    [
-      1019,
-      61
-    ],
-    [
-      1022,
-      78
-    ],
-    [
-      1023,
-      83
-    ],
-    [
-      1028,
-      66
-    ],
-    [
-      1030,
-      18
-    ],
-    [
-      1031,
-      36
-    ],
-    [
-      1037,
-      77
-    ],
-    [
-      1056,
-      81
-    ],
-    [
-      1057,
-      39
-    ],
-    [
-      1057,
-      140
-    ],
-    [
-      1058,
-      39
-    ],
-    [
-      1058,
-      57
-    ],
-    [
-      1058,
-      21
-    ],
-    [
-      1058,
-      13
-    ],
-    [
-      1059,
-      141
-    ],
-    [
-      1059,
-      38
-    ],
-    [
-      1065,
-      114
-    ]
-  ],
+  "profile_safe_through": 1183,
+  "passages": [],
   "facts": [
     {
       "attribute": "facial hair",
       "kind": "base",
       "fact": "Has stubble/beard on his chin",
       "chapter": 514,
-      "quote": "사마표가 수염으로 까슬까슬한 턱을 문질렀다."
+      "quote": "사마표가 수염으로 까슬까슬한 턱을 문질렀다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Lips are smooth, with no chapped or rough skin.",
+      "chapter": 542,
+      "quote": "거스러미 하나 없는 입술 사이로 흘러나온",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Carries his signature weapon, the Black Dragon Blade (Heukryongdo)",
       "chapter": 652,
-      "quote": "자신의 독문병기인 흑룡도(黑龍刀)"
+      "quote": "자신의 독문병기인 흑룡도(黑龍刀)",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Outer eye corners tilt upward, giving a sad look",
       "chapter": 878,
-      "quote": "눈꼬리가 높아 슬픈 청년"
+      "quote": "눈꼬리가 높아 슬픈 청년",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {},
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 514,
-      "description": "Sama Pyo is a man with a stubbly, bearded chin and eyes whose outer corners tilt upward, giving a sad look. He carries his signature weapon, the Black Dragon Blade (Heukryongdo). Tags: male, stubble, beard, upturned eye corners, sad eyes, Black Dragon Blade, Heukryongdo, black blade",
+      "description": "Sama Pyo is a male character with stubble and a beard on his chin, smooth lips with no chapped skin, and outer eye corners that tilt upward, giving a sad look. He carries his signature weapon, the Black Dragon Blade (Heukryongdo). Tags: male, stubble, chin beard, smooth lips, upturned eye corners, sad eyes, Black Dragon Blade, Heukryongdo",
       "used": [
         0,
         1,
-        2
-      ]
+        2,
+        3
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 514):** Sama Pyo is a man with a stubbly, bearded chin and eyes whose outer corners tilt upward, giving a sad look. He carries his signature weapon, the Black Dragon Blade (Heukryongdo). Tags: male, stubble, beard, upturned eye corners, sad eyes, Black Dragon Blade, Heukryongdo, black blade"
+    "- **Appearance (from ch 514):** Sama Pyo is a male character with stubble and a beard on his chin, smooth lips with no chapped skin, and outer eye corners that tilt upward, giving a sad look. He carries his signature weapon, the Black Dragon Blade (Heukryongdo). Tags: male, stubble, chin beard, smooth lips, upturned eye corners, sad eyes, Black Dragon Blade, Heukryongdo"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0188035
+      "cost_usd": 0.015656
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017581600000000003
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0206929
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.014649
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.017872199999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0204552
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.016115599999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0187491
+      "cost_usd": 0.0205768
     }
   ]
 }

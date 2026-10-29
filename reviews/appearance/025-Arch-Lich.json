@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 25,
   "english": "Arch Lich",
   "profile": "characters/Arch Lich.md",
@@ -9,102 +9,42 @@
   "chapter_count": 79,
   "first_chapter": 381,
   "profile_safe_through": 422,
-  "passages": [
-    [
-      407,
-      65
-    ],
-    [
-      408,
-      97
-    ],
-    [
-      408,
-      142
-    ],
-    [
-      409,
-      54
-    ],
-    [
-      412,
-      36
-    ],
-    [
-      414,
-      75
-    ],
-    [
-      414,
-      179
-    ],
-    [
-      420,
-      33
-    ],
-    [
-      420,
-      60
-    ],
-    [
-      420,
-      91
-    ],
-    [
-      422,
-      53
-    ],
-    [
-      422,
-      60
-    ],
-    [
-      422,
-      32
-    ],
-    [
-      423,
-      63
-    ],
-    [
-      804,
-      75
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Has a face memorable after a single viewing (distinctive, unforgettable)",
       "chapter": 420,
-      "quote": "단 한 번 보았을 뿐이지만 잊을 수 없는 얼굴이었다."
+      "quote": "단 한 번 보았을 뿐이지만 잊을 수 없는 얼굴이었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {},
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 381,
-      "description": "Arch Lich, a male figure with a strikingly distinctive, unforgettable face that stays in memory after a single glance. Tags: male, distinctive face, memorable features",
+      "description": "Arch Lich has a strikingly distinctive, unforgettable face that stays in memory after a single glance. No other visual traits are described. Tags: male, distinctive face, memorable features",
       "used": [
         0
-      ]
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 381):** Arch Lich, a male figure with a strikingly distinctive, unforgettable face that stays in memory after a single glance. Tags: male, distinctive face, memorable features"
+    "- **Appearance (from ch 381):** Arch Lich has a strikingly distinctive, unforgettable face that stays in memory after a single glance. No other visual traits are described. Tags: male, distinctive face, memorable features"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0154849
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0175642
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.017601799999999997
+      "cost_usd": 0.014825399999999999
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 42,
   "english": "Jung Ho",
   "profile": "characters/Jung Ho.md",
@@ -8,179 +8,92 @@
   ],
   "chapter_count": 52,
   "first_chapter": 446,
-  "safe_through": 1182,
-  "passages": [
-    [
-      454,
-      67
-    ],
-    [
-      457,
-      108
-    ],
-    [
-      457,
-      39
-    ],
-    [
-      457,
-      48
-    ],
-    [
-      457,
-      79
-    ],
-    [
-      458,
-      175
-    ],
-    [
-      458,
-      15
-    ],
-    [
-      460,
-      82
-    ],
-    [
-      469,
-      59
-    ],
-    [
-      469,
-      39
-    ],
-    [
-      478,
-      101
-    ],
-    [
-      478,
-      41
-    ],
-    [
-      478,
-      103
-    ],
-    [
-      478,
-      88
-    ],
-    [
-      479,
-      52
-    ],
-    [
-      479,
-      82
-    ],
-    [
-      479,
-      42
-    ],
-    [
-      489,
-      64
-    ],
-    [
-      491,
-      136
-    ],
-    [
-      514,
-      24
-    ],
-    [
-      514,
-      24
-    ],
-    [
-      514,
-      38
-    ],
-    [
-      514,
-      14
-    ],
-    [
-      515,
-      33
-    ],
-    [
-      515,
-      69
-    ],
-    [
-      515,
-      30
-    ],
-    [
-      515,
-      62
-    ],
-    [
-      516,
-      91
-    ],
-    [
-      516,
-      68
-    ],
-    [
-      672,
-      79
-    ]
-  ],
+  "profile_safe_through": 1182,
+  "passages": [],
   "facts": [
+    {
+      "attribute": "hair",
+      "fact": "Hair neatly groomed, fixed with a single beautiful silver hairpin",
+      "chapter": 460,
+      "quote": "말끔하게 정돈된 머리카락과 그것을 고정한 아름다운 은비녀 하나.",
+      "marker": false,
+      "verdict": {
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Reflection in the river shows the narrator (addressed as Jin Daehyup), not Jung Ho. Hairpin put on by Hong Ran."
+      },
+      "status": "rejected"
+    },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Middle-aged monk",
       "chapter": 514,
-      "quote": "중년 승려, 정호의 굵은 눈썹이 꿈틀거렸다."
+      "quote": "중년 승려, 정호의 굵은 눈썹이 꿈틀거렸다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "hair",
       "kind": "base",
       "fact": "Shaolin monk with a bald head; his forehead shines in the sunlight",
       "chapter": 516,
-      "quote": "햇빛이 정호의 이마를 받아 번쩍거리고"
+      "quote": "햇빛이 정호의 이마를 받아 번쩍거리고",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Sunlight glints off Jung Ho's forehead, a Shaolin monk with a shaved head. Ordinary description, not a change."
+      },
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [
+    0
+  ],
+  "judgments": {
+    "460|말끔하게정돈된머리카락과그것을고정한아름다운은비녀하나.": {
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Reflection in the river shows the narrator (addressed as Jin Daehyup), not Jung Ho. Hairpin put on by Hong Ran."
+    },
+    "516|햇빛이정호의이마를받아번쩍거리고": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Sunlight glints off Jung Ho's forehead, a Shaolin monk with a shaved head. Ordinary description, not a change."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 446,
-      "description": "Jung Ho is a middle-aged Shaolin monk with a clean-shaven bald head whose forehead shines in the sunlight. He has thick, heavy eyebrows. Tags: middle-aged, male, monk, Shaolin, bald, shiny forehead, thick eyebrows",
+      "description": "Jung Ho is a middle-aged male Shaolin monk with a bald head, a shining forehead and thick eyebrows. Tags: male, middle-aged, monk, Shaolin, bald, thick eyebrows, shining forehead",
       "used": [
-        0,
-        1
-      ]
+        1,
+        2
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 446):** Jung Ho is a middle-aged Shaolin monk with a clean-shaven bald head whose forehead shines in the sunlight. He has thick, heavy eyebrows. Tags: middle-aged, male, monk, Shaolin, bald, shiny forehead, thick eyebrows"
+    "- **Appearance (from ch 446):** Jung Ho is a middle-aged male Shaolin monk with a bald head, a shining forehead and thick eyebrows. Tags: male, middle-aged, monk, Shaolin, bald, thick eyebrows, shining forehead"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.020693
+      "cost_usd": 0.0108317
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020326
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.020432600000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0226397
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0138572
+      "cost_usd": 0.0194588
     }
   ]
 }

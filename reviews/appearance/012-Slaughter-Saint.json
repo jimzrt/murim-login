@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 12,
   "english": "Slaughter Saint",
   "profile": "characters/Slaughter Saint.md",
@@ -9,277 +9,255 @@
   "chapter_count": 105,
   "first_chapter": 177,
   "profile_safe_through": 1175,
-  "passages": [
-    [
-      369,
-      39
-    ],
-    [
-      369,
-      31
-    ],
-    [
-      372,
-      45
-    ],
-    [
-      373,
-      61
-    ],
-    [
-      373,
-      44
-    ],
-    [
-      373,
-      60
-    ],
-    [
-      373,
-      18
-    ],
-    [
-      435,
-      100
-    ],
-    [
-      463,
-      31
-    ],
-    [
-      463,
-      57
-    ],
-    [
-      488,
-      64
-    ],
-    [
-      489,
-      64
-    ],
-    [
-      497,
-      33
-    ],
-    [
-      539,
-      70
-    ],
-    [
-      550,
-      77
-    ],
-    [
-      550,
-      109
-    ],
-    [
-      848,
-      50
-    ],
-    [
-      848,
-      135
-    ],
-    [
-      885,
-      56
-    ],
-    [
-      893,
-      66
-    ],
-    [
-      918,
-      67
-    ],
-    [
-      919,
-      99
-    ],
-    [
-      990,
-      44
-    ],
-    [
-      1074,
-      59
-    ],
-    [
-      1074,
-      82
-    ],
-    [
-      1076,
-      67
-    ],
-    [
-      1076,
-      50
-    ],
-    [
-      1081,
-      35
-    ],
-    [
-      1091,
-      67
-    ],
-    [
-      1093,
-      68
-    ],
-    [
-      1098,
-      16
-    ],
-    [
-      1100,
-      62
-    ],
-    [
-      1108,
-      29
-    ],
-    [
-      1111,
-      28
-    ],
-    [
-      1111,
-      40
-    ],
-    [
-      1111,
-      67
-    ],
-    [
-      1111,
-      28
-    ],
-    [
-      1111,
-      42
-    ],
-    [
-      1137,
-      77
-    ],
-    [
-      1138,
-      36
-    ],
-    [
-      1138,
-      31
-    ],
-    [
-      1142,
-      93
-    ],
-    [
-      1145,
-      25
-    ],
-    [
-      1177,
-      56
-    ],
-    [
-      1184,
-      99
-    ],
-    [
-      1191,
-      128
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears as a boy",
       "chapter": 369,
-      "quote": "소년, 살성의 무뚝뚝한 얼굴 위로 희미한 웃음이 스쳤다."
+      "quote": "소년, 살성의 무뚝뚝한 얼굴 위로 희미한 웃음이 스쳤다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Old man's face shifts into a youth; 살성 revealed as a boy, a drastic transformation happening in this scene."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Dry, flat gaze",
+      "chapter": 372,
+      "quote": "건조한 눈빛으로 내 얼굴을 훑어본 문경, 아니 살성이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears as a boy physician (Mun Gyeong)",
       "chapter": 463,
-      "quote": "소년 의생, 문경의 눈썹이 꿈틀거렸다."
+      "quote": "소년 의생, 문경의 눈썹이 꿈틀거렸다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Boy physician Mun Gyeong is identified as 살성; a literal present description, but no change occurs in this scene."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears as a boy physician (Mun Gyeong identity)",
+      "chapter": 463,
+      "quote": "소년 의생",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Boy physician is recognized as 살성; literal present look, no change shown."
+      },
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "change",
       "fact": "Rejuvenated via 반로환동 into a young-looking boy physician",
       "chapter": 488,
-      "quote": "눈앞의 어린 의생이 반로환동으로 젊어진 초절정 고수라고는"
+      "quote": "눈앞의 어린 의생이 반로환동으로 젊어진 초절정 고수라고는",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "The young physician is Slaughter Saint, who got younger via 반로환동 (literal, lasting rejuvenation). Mentioned as a recent fact, with later chapters confirming the boy look."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Rejuvenated via banro-hwandong (return to youth); looks like a young physician",
+      "chapter": 488,
+      "quote": "반로환동으로 젊어진 초절정 고수",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same line as 0. The young look comes from a lasting return to youth, not a costume."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Slender, lean build",
       "chapter": 489,
-      "quote": "호리호리한 신형이 덜컥 굳는다."
+      "quote": "호리호리한 신형이 덜컥 굳는다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "occupation/reputation",
+      "kind": "base",
+      "fact": "Renowned as the greatest assassin of all time (고금제일의 살수), though this is reputation rather than look",
+      "chapter": 893,
+      "quote": "살성이 고금제일의 살수라 불리는 이유도 비슷한 맥락이고.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Looks like a boy, at most just under twenty (under 약관)",
+      "chapter": 1074,
+      "quote": "아무리 높게 쳐줘도 약관에 못 미치는 소년이",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The boy with the 소도 is Slaughter Saint, described as looking under 20. This is a plain present-time description, and no change happens in this scene."
+      },
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Looks like a very young boy, with peach fuzz still on his face",
       "chapter": 1100,
-      "quote": "아직 솜털도 채 가시지 않은 것 같은 저 소년이"
+      "quote": "아직 솜털도 채 가시지 않은 것 같은 저 소년이",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The boy with peach fuzz is explicitly identified as Slaughter Saint. This is an ordinary present description, not a change shown in this scene."
+      },
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "488|눈앞의어린의생이반로환동으로젊어진초절정고수라고는": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "The young physician is Slaughter Saint, who got younger via 반로환동 (literal, lasting rejuvenation). Mentioned as a recent fact, with later chapters confirming the boy look."
+    },
+    "488|반로환동으로젊어진초절정고수": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line as 0. The young look comes from a lasting return to youth, not a costume."
+    },
+    "1074|아무리높게쳐줘도약관에못미치는소년이": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The boy with the 소도 is Slaughter Saint, described as looking under 20. This is a plain present-time description, and no change happens in this scene."
+    },
+    "1100|아직솜털도채가시지않은것같은저소년이": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The boy with peach fuzz is explicitly identified as Slaughter Saint. This is an ordinary present description, not a change shown in this scene."
+    },
+    "369|소년,살성의무뚝뚝한얼굴위로희미한웃음이스쳤다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Old man's face shifts into a youth; 살성 revealed as a boy, a drastic transformation happening in this scene."
+    },
+    "463|소년의생,문경의눈썹이꿈틀거렸다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Boy physician Mun Gyeong is identified as 살성; a literal present description, but no change occurs in this scene."
+    },
+    "463|소년의생": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Boy physician is recognized as 살성; literal present look, no change shown."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "apparent age",
+      "indices": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9
+      ],
+      "kept": [
+        0,
+        2,
+        3
+      ],
+      "resolved": true,
+      "reason": "Earliest and most repeated value is a plain 'boy' (0, 2, 3). The other age wordings (young-looking, under twenty, peach fuzz) are less clear and appear later."
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
       "start": 177,
-      "description": "Slaughter Saint is a male character who appears as a very young boy with a slender, lean build and a stern, blunt face, with peach fuzz still on his cheeks. Tags: male, boy, very young, slender, lean build, peach fuzz, stern face",
+      "description": "Slaughter Saint is a male who looks like a boy, with a slender, lean build. He has a dry, flat gaze. Tags: male, boy, slender, lean build, dry flat eyes",
       "used": [
         0,
         1,
+        2,
         3,
-        4
-      ]
+        6
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 177):** Slaughter Saint is a male character who appears as a very young boy with a slender, lean build and a stern, blunt face, with peach fuzz still on his cheeks. Tags: male, boy, very young, slender, lean build, peach fuzz, stern face"
+    "- **Appearance (from ch 177):** Slaughter Saint is a male who looks like a boy, with a slender, lean build. He has a dry, flat gaze. Tags: male, boy, slender, lean build, dry flat eyes"
+  ],
+  "omitted": [
+    {
+      "index": 4,
+      "reason": "Rejuvenation is a transformation. The earlier facts already show a boy, so there is no visible change and no new range."
+    },
+    {
+      "index": 5,
+      "reason": "Same rejuvenation as fact 4, so it is exposition only. It does not open a range and is not used."
+    },
+    {
+      "index": 7,
+      "reason": "Reputation as the greatest assassin, not a visual trait."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0182822
+      "cost_usd": 0.01761
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020637400000000004
+      "cost_usd": 0.0205031
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020244599999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0216012
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.013088200000000001
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0198152
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0228564
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0191381
+      "cost_usd": 0.031703
     }
   ]
 }

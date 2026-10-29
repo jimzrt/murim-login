@@ -7,5 +7,5 @@
 - **Personality:** He is ambitious and confident in his usefulness to the Lord of Heaven, dismissive of his former master’s weakness, and pragmatic about losing subordinates.
 - **Voice:** He speaks in measured, courteous language and uses calm repetition, feigned agreement, and procedural reminders to steer conversations while keeping sensitive details guarded.
 - **Relationships:** Ma Sanbao served the Eastern Heaven Demon Lord as his disciple and now serves the Lord of Heaven; he was once an imperial servant before rebelling against the Son of Heaven.
-- **Appearance:** not described
+- **Appearance (from ch 866):** Ma Sanbao is a male character whose eyes shine fiercely and brilliantly. No other look details are given. Tags: male, fierce shining eyes, brilliant gaze
 - **Sources:** Korean source and accepted translation, Chapter 866

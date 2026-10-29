@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 11,
   "english": "Magic Johnson",
   "profile": "characters/Magic Johnson.md",
@@ -10,334 +10,217 @@
   "chapter_count": 118,
   "first_chapter": 242,
   "profile_safe_through": 823,
-  "passages": [
-    [
-      302,
-      27
-    ],
-    [
-      385,
-      105
-    ],
-    [
-      385,
-      85
-    ],
-    [
-      385,
-      97
-    ],
-    [
-      386,
-      86
-    ],
-    [
-      386,
-      41
-    ],
-    [
-      387,
-      33
-    ],
-    [
-      429,
-      46
-    ],
-    [
-      429,
-      33
-    ],
-    [
-      429,
-      25
-    ],
-    [
-      429,
-      32
-    ],
-    [
-      429,
-      149
-    ],
-    [
-      429,
-      67
-    ],
-    [
-      430,
-      35
-    ],
-    [
-      485,
-      41
-    ],
-    [
-      559,
-      39
-    ],
-    [
-      559,
-      77
-    ],
-    [
-      559,
-      51
-    ],
-    [
-      564,
-      42
-    ],
-    [
-      583,
-      124
-    ],
-    [
-      592,
-      188
-    ],
-    [
-      605,
-      64
-    ],
-    [
-      605,
-      117
-    ],
-    [
-      606,
-      31
-    ],
-    [
-      607,
-      86
-    ],
-    [
-      727,
-      147
-    ],
-    [
-      728,
-      138
-    ],
-    [
-      741,
-      40
-    ],
-    [
-      742,
-      30
-    ],
-    [
-      764,
-      123
-    ],
-    [
-      771,
-      79
-    ],
-    [
-      771,
-      91
-    ],
-    [
-      773,
-      64
-    ],
-    [
-      778,
-      102
-    ],
-    [
-      779,
-      113
-    ],
-    [
-      785,
-      62
-    ],
-    [
-      787,
-      90
-    ],
-    [
-      788,
-      104
-    ],
-    [
-      790,
-      64
-    ],
-    [
-      798,
-      36
-    ],
-    [
-      799,
-      66
-    ],
-    [
-      800,
-      19
-    ],
-    [
-      804,
-      92
-    ],
-    [
-      810,
-      50
-    ],
-    [
-      811,
-      88
-    ],
-    [
-      812,
-      109
-    ],
-    [
-      812,
-      60
-    ],
-    [
-      823,
-      50
-    ],
-    [
-      823,
-      85
-    ],
-    [
-      823,
-      19
-    ],
-    [
-      823,
-      24
-    ],
-    [
-      823,
-      80
-    ],
-    [
-      830,
-      13
-    ],
-    [
-      1152,
-      48
-    ]
-  ],
+  "passages": [],
   "facts": [
+    {
+      "attribute": "build",
+      "fact": "Has a large, bulky frame",
+      "chapter": 407,
+      "quote": "덩치에 안 맞게 장난기가 넘친단 말이지.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narrator notes Johnson's playfulness is unlike his big build (덩치); literal, refers to him."
+      },
+      "status": "kept"
+    },
     {
       "attribute": "skin",
       "kind": "base",
       "fact": "Has dark/black skin",
       "chapter": 559,
-      "quote": "투덜거리는 검은 피부의 대마도사, 매직 존슨을 보며"
+      "quote": "투덜거리는 검은 피부의 대마도사, 매직 존슨을 보며",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "skin",
+      "kind": "base",
+      "fact": "Has dark/black skin",
+      "chapter": 559,
+      "quote": "투덜거리는 검은 피부의 대마도사, 매직 존슨을 보며 나는 피식 웃었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "skin",
       "kind": "base",
       "fact": "Has dark/black skin",
       "chapter": 583,
-      "quote": "검은 피부의 대마도사"
+      "quote": "검은 피부의 대마도사",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Wields two staffs",
       "chapter": 728,
-      "quote": "두 개의 지팡이로 믿을 수 없는 마법을 부린다는"
+      "quote": "두 개의 지팡이로 믿을 수 없는 마법을 부린다는",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Reputation/hearsay ('믿을 수 없는 마법을 부린다는') about two staffs, not a direct present description. Likely true in-world but stated as rumor."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Towering, large-framed Black man",
       "chapter": 741,
-      "quote": "거구의 흑인이 우리 앞에 섰다"
+      "quote": "거구의 흑인이 우리 앞에 섰다",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "거구의 흑인 steps in front of them and is identified as Magic Johnson; literal present."
+      },
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Has a huge, bulky frame",
       "chapter": 773,
-      "quote": "매직 존슨만큼이나 거대한 덩치에"
+      "quote": "매직 존슨만큼이나 거대한 덩치에",
+      "marker": false,
+      "verdict": {
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Describes Chuck Hagel's huge frame, which is 'as huge as' Johnson's; the fact is stated about Hagel, but it is only a comparison for Johnson."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Carries a large, handsome staff",
       "chapter": 790,
-      "quote": "매직 존슨이 그가 가진 크고 아름다운 스태프로 놈을 두들겨 패던데"
+      "quote": "매직 존슨이 그가 가진 크고 아름다운 스태프로 놈을 두들겨 패던데",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "A web comment about a video, joking and ambiguous ('크고 아름다운 스태프' is a double entendre), so not a reliable literal description."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Has clear, transparent-looking eyes that reflect others",
       "chapter": 812,
-      "quote": "매직 존슨의 투명한 눈동자에 진태경이 비쳤다."
+      "quote": "매직 존슨의 투명한 눈동자에 진태경이 비쳤다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Described as ugly (an insult from the Skeleton King)",
       "chapter": 823,
-      "quote": "못생긴 놈이 왜 재수 없게 실실 쪼개지?"
+      "quote": "못생긴 놈이 왜 재수 없게 실실 쪼개지?",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [
+    4,
+    6,
+    7
+  ],
+  "judgments": {
+    "728|두개의지팡이로믿을수없는마법을부린다는": {
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Reputation/hearsay ('믿을 수 없는 마법을 부린다는') about two staffs, not a direct present description. Likely true in-world but stated as rumor."
+    },
+    "790|매직존슨이그가가진크고아름다운스태프로놈을두들겨패던데": {
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "A web comment about a video, joking and ambiguous ('크고 아름다운 스태프' is a double entendre), so not a reliable literal description."
+    },
+    "407|덩치에안맞게장난기가넘친단말이지.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narrator notes Johnson's playfulness is unlike his big build (덩치); literal, refers to him."
+    },
+    "741|거구의흑인이우리앞에섰다": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "거구의 흑인 steps in front of them and is identified as Magic Johnson; literal present."
+    },
+    "773|매직존슨만큼이나거대한덩치에": {
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Describes Chuck Hagel's huge frame, which is 'as huge as' Johnson's; the fact is stated about Hagel, but it is only a comparison for Johnson."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "build",
+      "indices": [
+        0,
+        5
+      ],
+      "kept": [
+        5
+      ],
+      "resolved": true,
+      "reason": "Both say large, but fact 4 is clearer and more specific (towering, large-framed) and fits the skin facts. Fact 0 is vaguer."
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
       "start": 242,
-      "description": "Magic Johnson is a towering, large-framed Black man with dark skin and a huge, bulky build. He has clear, transparent-looking eyes and an ugly face, and carries a large, handsome staff (also wielding two staffs). Tags: male, dark skin, towering, bulky, huge frame, transparent eyes, ugly face, large staff, two staffs, mage",
+      "description": "Magic Johnson is a towering, large-framed man with dark black skin. He has clear, transparent-looking eyes that reflect whoever stands before him, and a homely, unattractive face. Tags: male, towering, large frame, dark skin, Black man, clear transparent eyes, homely face",
       "used": [
-        0,
         1,
         2,
         3,
-        4,
         5,
-        6,
-        7
-      ]
+        8,
+        9
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 242):** Magic Johnson is a towering, large-framed Black man with dark skin and a huge, bulky build. He has clear, transparent-looking eyes and an ugly face, and carries a large, handsome staff (also wielding two staffs). Tags: male, dark skin, towering, bulky, huge frame, transparent eyes, ugly face, large staff, two staffs, mage"
+    "- **Appearance (from ch 242):** Magic Johnson is a towering, large-framed man with dark black skin. He has clear, transparent-looking eyes that reflect whoever stands before him, and a homely, unattractive face. Tags: male, towering, large frame, dark skin, Black man, clear transparent eyes, homely face"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0185382
+      "cost_usd": 0.017621599999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0187714
+      "cost_usd": 0.021023899999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0195807
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.023235799999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0230058
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.020803
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0203719
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.019895000000000003
+      "cost_usd": 0.0229975
     }
   ]
 }

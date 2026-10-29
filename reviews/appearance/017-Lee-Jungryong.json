@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 17,
   "english": "Lee Jungryong",
   "profile": "characters/Lee Jungryong.md",
@@ -9,241 +9,155 @@
   "chapter_count": 98,
   "first_chapter": 284,
   "profile_safe_through": 843,
-  "passages": [
-    [
-      284,
-      64
-    ],
-    [
-      284,
-      103
-    ],
-    [
-      284,
-      24
-    ],
-    [
-      284,
-      26
-    ],
-    [
-      285,
-      80
-    ],
-    [
-      286,
-      82
-    ],
-    [
-      287,
-      102
-    ],
-    [
-      299,
-      59
-    ],
-    [
-      300,
-      13
-    ],
-    [
-      300,
-      43
-    ],
-    [
-      305,
-      39
-    ],
-    [
-      305,
-      47
-    ],
-    [
-      305,
-      115
-    ],
-    [
-      305,
-      89
-    ],
-    [
-      395,
-      67
-    ],
-    [
-      405,
-      99
-    ],
-    [
-      405,
-      52
-    ],
-    [
-      407,
-      82
-    ],
-    [
-      408,
-      30
-    ],
-    [
-      414,
-      23
-    ],
-    [
-      415,
-      20
-    ],
-    [
-      416,
-      31
-    ],
-    [
-      416,
-      21
-    ],
-    [
-      417,
-      53
-    ],
-    [
-      417,
-      44
-    ],
-    [
-      418,
-      66
-    ],
-    [
-      418,
-      86
-    ],
-    [
-      419,
-      80
-    ],
-    [
-      553,
-      69
-    ],
-    [
-      554,
-      45
-    ],
-    [
-      554,
-      33
-    ],
-    [
-      555,
-      51
-    ],
-    [
-      558,
-      46
-    ],
-    [
-      563,
-      110
-    ],
-    [
-      564,
-      64
-    ],
-    [
-      567,
-      73
-    ],
-    [
-      577,
-      43
-    ],
-    [
-      594,
-      51
-    ],
-    [
-      605,
-      122
-    ]
-  ],
+  "passages": [],
   "facts": [
+    {
+      "attribute": "eyes",
+      "fact": "Eyes glint with an indecipherable light; later burning intensely",
+      "chapter": 284,
+      "quote": "이정룡의 눈동자가 알 수 없는 빛으로 번뜩였다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Habitually expressionless, mechanical-looking face",
+      "chapter": 288,
+      "quote": "늘 기계처럼 무표정하던 그의 얼굴",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Deeply sunken, calm eyes",
+      "chapter": 288,
+      "quote": "깊게 가라앉은 이정룡의 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Deep-set, inscrutable eyes",
       "chapter": 305,
-      "quote": "이정룡의 눈동자는 짐작하기 어려울 만큼 깊이 가라앉아 있었다"
+      "quote": "이정룡의 눈동자는 짐작하기 어려울 만큼 깊이 가라앉아 있었다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Dark, sunken gaze",
       "chapter": 405,
-      "quote": "깊게 가라앉은 어두컴컴한 안광"
+      "quote": "깊게 가라앉은 어두컴컴한 안광",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Stiff, hard impression",
       "chapter": 405,
-      "quote": "안 그래도 딱딱하던 인상"
+      "quote": "안 그래도 딱딱하던 인상",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "change",
       "fact": "Impression became gloomier after defeat by Jin Taekyung",
       "chapter": 405,
-      "quote": "인상이 더 음울해졌다면 수군거렸지만"
+      "quote": "인상이 더 음울해졌다면 수군거렸지만",
+      "marker": false,
+      "verdict": {
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Describes Seok Gojun (subordinate), not Lee Jungryong; Lee only observes."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "face",
+      "kind": "change",
+      "fact": "Naturally stiff, hard impression that became gloomier after his defeat",
+      "chapter": 405,
+      "quote": "안 그래도 딱딱하던 인상이 더 음울해졌다면",
+      "marker": false,
+      "verdict": {
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Stiff impression belongs to Seok Gojun, not Lee Jungryong."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Over 60 years old but looks like a handsome middle-aged man",
       "chapter": 407,
-      "quote": "환갑이 훌쩍 넘었음에도 미중년의 모습을 한 구렁이가 웃음기 띤 얼굴로 나를 응시한다."
+      "quote": "환갑이 훌쩍 넘었음에도 미중년의 모습을 한 구렁이가 웃음기 띤 얼굴로 나를 응시한다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [
+    6,
+    7
+  ],
+  "judgments": {
+    "405|인상이더음울해졌다면수군거렸지만": {
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Describes Seok Gojun (subordinate), not Lee Jungryong; Lee only observes."
+    },
+    "405|안그래도딱딱하던인상이더음울해졌다면": {
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Stiff impression belongs to Seok Gojun, not Lee Jungryong."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 284,
-      "description": "Lee Jungryong is a man who looks like a handsome middle-aged man. He has a stiff, hard-set face and deep-set, dark, sunken eyes with an inscrutable gaze. Tags: male, handsome middle-aged look, stiff hard face, deep-set eyes, dark sunken gaze",
+      "description": "Lee Jungryong is a male who looks like a handsome middle-aged man, with a habitually expressionless, mechanical-looking, stiff and hard-set face. His eyes are deep-set, sunken, dark and calm, glinting with an indecipherable light. Tags: male, handsome middle-aged man, expressionless face, mechanical look, stiff hard features, deep-set sunken eyes, dark gaze, inscrutable eyes",
       "used": [
         0,
         1,
         2,
-        4
-      ]
+        3,
+        4,
+        5,
+        8
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 284):** Lee Jungryong is a man who looks like a handsome middle-aged man. He has a stiff, hard-set face and deep-set, dark, sunken eyes with an inscrutable gaze. Tags: male, handsome middle-aged look, stiff hard face, deep-set eyes, dark sunken gaze"
+    "- **Appearance (from ch 284):** Lee Jungryong is a male who looks like a handsome middle-aged man, with a habitually expressionless, mechanical-looking, stiff and hard-set face. His eyes are deep-set, sunken, dark and calm, glinting with an indecipherable light. Tags: male, handsome middle-aged man, expressionless face, mechanical look, stiff hard features, deep-set sunken eyes, dark gaze, inscrutable eyes"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0199205
+      "cost_usd": 0.016989099999999997
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0267096
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018590000000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0208695
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0206431
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0191937
+      "cost_usd": 0.0214874
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 38,
   "english": "Im Kkeokjeong",
   "profile": "characters/Im Kkeokjeong.md",
@@ -8,234 +8,117 @@
   ],
   "chapter_count": 59,
   "first_chapter": 41,
-  "safe_through": 1175,
-  "passages": [
-    [
-      41,
-      34
-    ],
-    [
-      41,
-      49
-    ],
-    [
-      41,
-      29
-    ],
-    [
-      42,
-      64
-    ],
-    [
-      42,
-      79
-    ],
-    [
-      43,
-      68
-    ],
-    [
-      43,
-      33
-    ],
-    [
-      78,
-      20
-    ],
-    [
-      79,
-      49
-    ],
-    [
-      80,
-      45
-    ],
-    [
-      80,
-      62
-    ],
-    [
-      81,
-      63
-    ],
-    [
-      82,
-      74
-    ],
-    [
-      86,
-      27
-    ],
-    [
-      209,
-      40
-    ],
-    [
-      209,
-      56
-    ],
-    [
-      214,
-      60
-    ],
-    [
-      214,
-      34
-    ],
-    [
-      215,
-      85
-    ],
-    [
-      215,
-      47
-    ],
-    [
-      223,
-      22
-    ],
-    [
-      277,
-      62
-    ],
-    [
-      286,
-      54
-    ],
-    [
-      286,
-      56
-    ],
-    [
-      286,
-      81
-    ],
-    [
-      286,
-      34
-    ],
-    [
-      286,
-      29
-    ],
-    [
-      286,
-      36
-    ],
-    [
-      289,
-      50
-    ],
-    [
-      292,
-      42
-    ],
-    [
-      299,
-      36
-    ],
-    [
-      561,
-      31
-    ],
-    [
-      595,
-      63
-    ],
-    [
-      595,
-      50
-    ],
-    [
-      595,
-      40
-    ],
-    [
-      773,
-      48
-    ],
-    [
-      773,
-      66
-    ]
-  ],
+  "profile_safe_through": 1175,
+  "passages": [],
   "facts": [
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Bandit-like, rough appearance",
       "chapter": 41,
-      "quote": "다만 산적을 연상시키는 외모라 모두 그를 임꺽정이라고 불렀다."
+      "quote": "다만 산적을 연상시키는 외모라 모두 그를 임꺽정이라고 불렀다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Wields a mace (cheoltoe)",
       "chapter": 42,
-      "quote": "기세를 탄 임꺽정이 철퇴를 파리채처럼 휘두를 때마다"
+      "quote": "기세를 탄 임꺽정이 철퇴를 파리채처럼 휘두를 때마다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Carries a tower shield",
       "chapter": 43,
-      "quote": "임꺽정이 망연자실한 얼굴로 금이 잔뜩 간 타워 실드를 떨어트렸다."
+      "quote": "임꺽정이 망연자실한 얼굴로 금이 잔뜩 간 타워 실드를 떨어트렸다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "weapon",
+      "fact": "Carries a tower shield",
+      "chapter": 43,
+      "quote": "금이 잔뜩 간 타워 실드를 떨어트렸다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "facial hair",
       "kind": "base",
       "fact": "Has a beard on his chin",
       "chapter": 209,
-      "quote": "턱수염을 쓸었다"
+      "quote": "턱수염을 쓸었다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "change",
       "fact": "Both arms are wrapped in bandages (injured arms)",
       "chapter": 289,
-      "quote": "그의 시선은 붕대에 감긴 자신의 두 팔에 고정되어 있었다."
+      "quote": "그의 시선은 붕대에 감긴 자신의 두 팔에 고정되어 있었다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Both his arms are bandaged. He fears he can no longer work as a hunter, and the injury looks serious and ongoing. The text only says recovery is hoped for, so the change is lasting for now."
+      },
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "289|그의시선은붕대에감긴자신의두팔에고정되어있었다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Both his arms are bandaged. He fears he can no longer work as a hunter, and the injury looks serious and ongoing. The text only says recovery is hoped for, so the change is lasting for now."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 41,
-      "description": "Im Kkeokjeong is a man with a rough, bandit-like face and a beard on his chin. He wields an iron mace (cheoltoe) and carries a large tower shield, which is heavily cracked. Tags: male, bandit-like face, rough appearance, chin beard, iron mace, tower shield, cracked shield",
+      "description": "Im Kkeokjeong is a male with a rough, bandit-like face. He wields an iron mace (cheoltoe) and carries a cracked-ready tower shield. He has a beard on his chin. Tags: male, bandit-like face, rough appearance, chin beard, mace, cheoltoe, tower shield",
       "used": [
         0,
         1,
         2,
-        3
-      ]
+        3,
+        4
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 41):** Im Kkeokjeong is a man with a rough, bandit-like face and a beard on his chin. He wields an iron mace (cheoltoe) and carries a large tower shield, which is heavily cracked. Tags: male, bandit-like face, rough appearance, chin beard, iron mace, tower shield, cracked shield"
+    "- **Appearance (from ch 41):** Im Kkeokjeong is a male with a rough, bandit-like face. He wields an iron mace (cheoltoe) and carries a cracked-ready tower shield. He has a beard on his chin. Tags: male, bandit-like face, rough appearance, chin beard, mace, cheoltoe, tower shield"
+  ],
+  "omitted": [
+    {
+      "index": 5,
+      "reason": "Injury event (arms wrapped in bandages), not marked APPROVED-CHANGE; omitted and cannot open a range"
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0234243
+      "cost_usd": 0.0127745
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0202458
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0176042
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0183807
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.017783599999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0202879
+      "cost_usd": 0.021022199999999998
     }
   ]
 }

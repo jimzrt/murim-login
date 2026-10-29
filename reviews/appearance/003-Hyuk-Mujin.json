@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 3,
   "english": "Hyuk Mujin",
   "profile": "characters/Hyuk Mujin.md",
@@ -8,319 +8,131 @@
   ],
   "chapter_count": 335,
   "first_chapter": 6,
-  "safe_through": 1191,
-  "passages": [
-    [
-      12,
-      91
-    ],
-    [
-      23,
-      71
-    ],
-    [
-      25,
-      62
-    ],
-    [
-      55,
-      60
-    ],
-    [
-      58,
-      52
-    ],
-    [
-      105,
-      69
-    ],
-    [
-      108,
-      44
-    ],
-    [
-      121,
-      53
-    ],
-    [
-      121,
-      59
-    ],
-    [
-      131,
-      74
-    ],
-    [
-      131,
-      63
-    ],
-    [
-      133,
-      27
-    ],
-    [
-      134,
-      23
-    ],
-    [
-      154,
-      58
-    ],
-    [
-      190,
-      75
-    ],
-    [
-      190,
-      30
-    ],
-    [
-      191,
-      65
-    ],
-    [
-      306,
-      64
-    ],
-    [
-      308,
-      39
-    ],
-    [
-      315,
-      85
-    ],
-    [
-      337,
-      43
-    ],
-    [
-      339,
-      58
-    ],
-    [
-      370,
-      94
-    ],
-    [
-      377,
-      72
-    ],
-    [
-      444,
-      52
-    ],
-    [
-      452,
-      84
-    ],
-    [
-      469,
-      57
-    ],
-    [
-      470,
-      56
-    ],
-    [
-      487,
-      71
-    ],
-    [
-      487,
-      30
-    ],
-    [
-      487,
-      86
-    ],
-    [
-      491,
-      37
-    ],
-    [
-      528,
-      35
-    ],
-    [
-      541,
-      36
-    ],
-    [
-      549,
-      77
-    ],
-    [
-      618,
-      28
-    ],
-    [
-      619,
-      32
-    ],
-    [
-      619,
-      77
-    ],
-    [
-      622,
-      50
-    ],
-    [
-      724,
-      47
-    ],
-    [
-      838,
-      57
-    ],
-    [
-      848,
-      48
-    ],
-    [
-      857,
-      33
-    ],
-    [
-      859,
-      71
-    ],
-    [
-      863,
-      31
-    ],
-    [
-      864,
-      91
-    ],
-    [
-      868,
-      40
-    ],
-    [
-      869,
-      95
-    ],
-    [
-      936,
-      108
-    ],
-    [
-      999,
-      56
-    ],
-    [
-      1056,
-      59
-    ],
-    [
-      1063,
-      89
-    ],
-    [
-      1119,
-      69
-    ],
-    [
-      1120,
-      78
-    ],
-    [
-      1144,
-      33
-    ],
-    [
-      1144,
-      56
-    ]
-  ],
+  "profile_safe_through": 1191,
+  "passages": [],
   "facts": [
     {
       "attribute": "eyebrows",
       "kind": "base",
       "fact": "Has distinctive thick caterpillar-like eyebrows",
       "chapter": 12,
-      "quote": "특유의 송충이 눈썹"
+      "quote": "특유의 송충이 눈썹",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "clothing",
       "kind": "base",
       "fact": "Wears the navy martial robe of the Taewon Jin family",
       "chapter": 12,
-      "quote": "태원진가의 남색 무복"
+      "quote": "태원진가의 남색 무복",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "clothing",
+      "fact": "Wears the navy-blue martial robes of the Taewon Jin clan",
+      "chapter": 12,
+      "quote": "태원진가의 남색 무복에 특유의 송충이 눈썹",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "height",
+      "fact": "Stands 180 cm tall",
+      "chapter": 12,
+      "quote": "180센티의 키.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "fact": "Has a lean, agile musculature",
+      "chapter": 12,
+      "quote": "날렵한 근육과 싸가지 없는 눈매.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Has an ugly face",
       "chapter": 55,
-      "quote": "못생긴 혁무진의 얼굴"
+      "quote": "못생긴 혁무진의 얼굴",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "skin",
       "kind": "base",
       "fact": "Very pale skin, comparable to a white person's",
       "chapter": 58,
-      "quote": "피부색 하나만큼은 백인이라고 해도 좋을 정도다"
+      "quote": "피부색 하나만큼은 백인이라고 해도 좋을 정도다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "skin",
+      "fact": "Extremely pale skin, as white as a Caucasian's",
+      "chapter": 58,
+      "quote": "피부색 하나만큼은 백인이라고 해도 좋을 정도다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears to be a young man",
       "chapter": 857,
-      "quote": "청년, 혁무진을 향해 고개를 끄덕인 정 천호가 입을 열었다."
+      "quote": "청년, 혁무진을 향해 고개를 끄덕인 정 천호가 입을 열었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {},
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 6,
-      "description": "Hyuk Mujin is a young man with a homely face, very pale skin and distinctive thick, caterpillar-like eyebrows. He wears the navy martial robe of the Taewon Jin family. Tags: young man, ugly face, pale skin, thick caterpillar eyebrows, navy martial robe, Taewon Jin family",
+      "description": "Hyuk Mujin is a young man, 180 cm tall, with a lean, agile musculature. He has an ugly face with distinctive thick, caterpillar-like eyebrows, and very pale skin, as white as a Caucasian's. He wears the navy-blue martial robe of the Taewon Jin family. Tags: young man, male, 180 cm, lean agile build, ugly face, thick caterpillar eyebrows, very pale skin, navy martial robe, Taewon Jin clan",
       "used": [
         0,
         1,
         2,
         3,
-        4
-      ]
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 6):** Hyuk Mujin is a young man with a homely face, very pale skin and distinctive thick, caterpillar-like eyebrows. He wears the navy martial robe of the Taewon Jin family. Tags: young man, ugly face, pale skin, thick caterpillar eyebrows, navy martial robe, Taewon Jin family"
+    "- **Appearance (from ch 6):** Hyuk Mujin is a young man, 180 cm tall, with a lean, agile musculature. He has an ugly face with distinctive thick, caterpillar-like eyebrows, and very pale skin, as white as a Caucasian's. He wears the navy-blue martial robe of the Taewon Jin family. Tags: young man, male, 180 cm, lean agile build, ugly face, thick caterpillar eyebrows, very pale skin, navy martial robe, Taewon Jin clan"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0239099
+      "cost_usd": 0.0126267
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0192957
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0148068
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.019369199999999996
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018582599999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0221809
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.020039900000000003
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.019887699999999998
+      "cost_usd": 0.0253927
     }
   ]
 }

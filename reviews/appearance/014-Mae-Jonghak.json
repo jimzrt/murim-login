@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 14,
   "english": "Mae Jonghak",
   "profile": "characters/Mae Jonghak.md",
@@ -9,291 +9,373 @@
   "chapter_count": 103,
   "first_chapter": 140,
   "profile_safe_through": 1185,
-  "passages": [
-    [
-      141,
-      46
-    ],
-    [
-      141,
-      81
-    ],
-    [
-      142,
-      61
-    ],
-    [
-      143,
-      36
-    ],
-    [
-      143,
-      85
-    ],
-    [
-      148,
-      86
-    ],
-    [
-      148,
-      41
-    ],
-    [
-      172,
-      31
-    ],
-    [
-      173,
-      36
-    ],
-    [
-      184,
-      65
-    ],
-    [
-      197,
-      102
-    ],
-    [
-      200,
-      38
-    ],
-    [
-      252,
-      73
-    ],
-    [
-      252,
-      96
-    ],
-    [
-      264,
-      32
-    ],
-    [
-      266,
-      50
-    ],
-    [
-      266,
-      51
-    ],
-    [
-      269,
-      42
-    ],
-    [
-      269,
-      73
-    ],
-    [
-      269,
-      62
-    ],
-    [
-      269,
-      18
-    ],
-    [
-      336,
-      46
-    ],
-    [
-      336,
-      96
-    ],
-    [
-      355,
-      75
-    ],
-    [
-      520,
-      31
-    ],
-    [
-      520,
-      84
-    ],
-    [
-      520,
-      32
-    ],
-    [
-      521,
-      59
-    ],
-    [
-      522,
-      44
-    ],
-    [
-      522,
-      72
-    ],
-    [
-      525,
-      98
-    ],
-    [
-      525,
-      101
-    ],
-    [
-      547,
-      45
-    ],
-    [
-      548,
-      54
-    ],
-    [
-      548,
-      69
-    ],
-    [
-      551,
-      46
-    ],
-    [
-      551,
-      44
-    ],
-    [
-      950,
-      76
-    ],
-    [
-      950,
-      24
-    ],
-    [
-      950,
-      24
-    ],
-    [
-      950,
-      17
-    ],
-    [
-      989,
-      93
-    ],
-    [
-      989,
-      25
-    ],
-    [
-      1110,
-      70
-    ],
-    [
-      1128,
-      42
-    ],
-    [
-      1134,
-      122
-    ],
-    [
-      1137,
-      41
-    ],
-    [
-      1137,
-      77
-    ],
-    [
-      1137,
-      32
-    ],
-    [
-      1137,
-      47
-    ],
-    [
-      1139,
-      44
-    ]
-  ],
+  "passages": [],
   "facts": [
+    {
+      "attribute": "title",
+      "fact": "Known as the Sword Saint (검성)",
+      "chapter": 155,
+      "quote": "검성 매종학은 옥황상제 그 이상이었으니까",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
     {
       "attribute": "age",
       "kind": "change",
       "fact": "Returned to youth, appearing as a young man of about twenty (yakgwan).",
       "chapter": 266,
-      "quote": "약관의 청년으로 돌아간 매종학을"
+      "quote": "약관의 청년으로 돌아간 매종학을",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Mae Jonghak returned to youth (약관 appearance); just-described rejuvenation, lasting."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Returned to youth; appears as a young man around age 20 (약관)",
+      "chapter": 266,
+      "quote": "약관의 청년으로 돌아간 매종학을 의심하는 아무도 없었다.",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same line: returned to youth as a ~20-year-old; lasting."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "apparent age",
       "kind": "change",
       "fact": "Appears very young after returning to youth (banlohwandong), despite being the legendary Sword Saint",
       "chapter": 269,
-      "quote": "허어, 저렇게 젊은 모습이라니. 반로환동은 황당무계한 헛소리인 줄만 알았거늘."
+      "quote": "허어, 저렇게 젊은 모습이라니. 반로환동은 황당무계한 헛소리인 줄만 알았거늘.",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Crowd remarks on his young look after banlohwandong; he is the Sword Saint, rejuvenation lasting."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Has a smooth, clean-shaven chin",
       "chapter": 269,
-      "quote": "매종학이 매끈한 턱을 쓰다듬었다."
+      "quote": "매종학이 매끈한 턱을 쓰다듬었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Looks like a young man (청년)",
+      "chapter": 269,
+      "quote": "며칠 전만 해도 운 좋은 촌구석 무인 취급받던 청년의 정체가",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Crowd notes his young look after 반로환동 (return to youth); identity just revealed, change recent."
+      },
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears as a young man (youth)",
       "chapter": 520,
-      "quote": "청년, 검성(劍星) 매종학이 떨떠름한 표정으로 대답했다."
+      "quote": "청년, 검성(劍星) 매종학이 떨떠름한 표정으로 대답했다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Called 청년 as plain descriptor; no change shown in scene."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears as a young man (청년)",
+      "chapter": 520,
+      "quote": "청년, 검성(劍星) 매종학이",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Called 청년 as plain descriptor; no change shown in scene."
+      },
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "change",
       "fact": "Appears to have returned to youth; looks visibly younger",
       "chapter": 525,
-      "quote": "검성 매종학의 젊어진 모습에 경악하고"
+      "quote": "검성 매종학의 젊어진 모습에 경악하고",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Onlookers react to the Sword Saint's rejuvenated look; lasting."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Has been rejuvenated and looks younger than before",
+      "chapter": 525,
+      "quote": "검성 매종학의 젊어진 모습",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same line: rejuvenated look, lasting."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Clear, deep eyes",
       "chapter": 548,
-      "quote": "맑고 깊은 눈동자에 내 얼굴이 비쳤다."
+      "quote": "맑고 깊은 눈동자에 내 얼굴이 비쳤다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Clear blue gaze",
       "chapter": 548,
-      "quote": "매종학이 맑고도 푸른 눈빛으로 나를 응시했다."
+      "quote": "매종학이 맑고도 푸른 눈빛으로 나를 응시했다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Clear blue eyes gazing at narrator; ordinary description."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Clear, blue gaze",
+      "chapter": 548,
+      "quote": "맑고도 푸른 눈빛으로 나를 응시했다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Clear blue eyes gazing at narrator; ordinary description."
+      },
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "change",
       "fact": "Appears youthful again, outwardly young like a man of his peers, though he is decades older",
       "chapter": 551,
-      "quote": "겉모습만 젊어졌을 뿐"
+      "quote": "겉모습만 젊어졌을 뿐",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Passing remark that only his appearance got younger; the change is old news, not happening in this scene."
+      },
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Plain, ordinary-looking face and air; could be anyone you pass on the street",
       "chapter": 989,
-      "quote": "당장 어디에서나 마주칠 수 있을 것처럼 평범한 용모와 분위기"
+      "quote": "당장 어디에서나 마주칠 수 있을 것처럼 평범한 용모와 분위기",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Describes his ordinary, unremarkable look and air as he stands; no change."
+      },
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Eyes are strikingly clear, almost transparent",
       "chapter": 989,
-      "quote": "그의 눈동자는 투명하리만치 맑았다"
+      "quote": "그의 눈동자는 투명하리만치 맑았다",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Mae Jonghak's eyes described as clear to the point of transparency in present scene; ordinary description, no change."
+      },
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "266|약관의청년으로돌아간매종학을": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Mae Jonghak returned to youth (약관 appearance); just-described rejuvenation, lasting."
+    },
+    "266|약관의청년으로돌아간매종학을의심하는아무도없었다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line: returned to youth as a ~20-year-old; lasting."
+    },
+    "269|허어,저렇게젊은모습이라니.반로환동은황당무계한헛소리인줄만알았거늘.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Crowd remarks on his young look after banlohwandong; he is the Sword Saint, rejuvenation lasting."
+    },
+    "525|검성매종학의젊어진모습에경악하고": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Onlookers react to the Sword Saint's rejuvenated look; lasting."
+    },
+    "525|검성매종학의젊어진모습": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line: rejuvenated look, lasting."
+    },
+    "551|겉모습만젊어졌을뿐": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Passing remark that only his appearance got younger; the change is old news, not happening in this scene."
+    },
+    "269|며칠전만해도운좋은촌구석무인취급받던청년의정체가": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Crowd notes his young look after 반로환동 (return to youth); identity just revealed, change recent."
+    },
+    "520|청년,검성(劍星)매종학이떨떠름한표정으로대답했다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Called 청년 as plain descriptor; no change shown in scene."
+    },
+    "520|청년,검성(劍星)매종학이": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Called 청년 as plain descriptor; no change shown in scene."
+    },
+    "548|매종학이맑고도푸른눈빛으로나를응시했다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Clear blue eyes gazing at narrator; ordinary description."
+    },
+    "548|맑고도푸른눈빛으로나를응시했다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Clear blue eyes gazing at narrator; ordinary description."
+    },
+    "989|당장어디에서나마주칠수있을것처럼평범한용모와분위기": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Describes his ordinary, unremarkable look and air as he stands; no change."
+    },
+    "989|그의눈동자는투명하리만치맑았다": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Mae Jonghak's eyes described as clear to the point of transparency in present scene; ordinary description, no change."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "apparent age",
+      "indices": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        13
+      ],
+      "kept": [
+        3,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "resolved": true,
+      "reason": "Facts agree on a young man; the kept ones are repeated and visual. 13 only adds a hidden-age remark."
+    },
+    {
+      "attribute": "eye colour/quality",
+      "indices": [
+        11,
+        12,
+        15
+      ],
+      "kept": [
+        11,
+        12
+      ],
+      "resolved": true,
+      "reason": "Blue gaze is repeated in two facts and is concrete. 15 gives only 'almost transparent' and has a single source. 10 (clear, deep) fits the kept value."
+    },
+    {
+      "attribute": "age vs face",
+      "indices": [
+        1,
+        2,
+        14
+      ],
+      "kept": [
+        1,
+        2
+      ],
+      "resolved": true,
+      "reason": "Age ~20 is repeated and APPROVED-CHANGE. 14 (plain, ordinary face) is a single, late, vague impression."
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
-      "start": 140,
-      "description": "Mae Jonghak is a male youth who looks about twenty, with a smooth, clean-shaven chin. His face and air are plain and ordinary, like anyone passed on the street. His eyes are clear, deep, almost transparent, with a blue gaze. Tags: young man, about twenty, youthful, clean-shaven, smooth chin, plain face, clear eyes, deep eyes, transparent eyes, blue eyes",
+      "start": 266,
+      "description": "Mae Jonghak is a young man of about twenty with a smooth, clean-shaven chin. He has clear, deep eyes with a blue gaze. Tags: male, young man, about twenty, clean-shaven, smooth chin, clear deep eyes, blue eyes",
       "used": [
-        0,
         1,
         2,
         3,
@@ -302,45 +384,51 @@
         6,
         7,
         8,
-        9
-      ]
+        9,
+        10,
+        11,
+        12
+      ],
+      "difference": "not described -> youthful young man of about twenty, clean-shaven, clear blue eyes"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 140):** Mae Jonghak is a male youth who looks about twenty, with a smooth, clean-shaven chin. His face and air are plain and ordinary, like anyone passed on the street. His eyes are clear, deep, almost transparent, with a blue gaze. Tags: young man, about twenty, youthful, clean-shaven, smooth chin, plain face, clear eyes, deep eyes, transparent eyes, blue eyes"
+    "- **Appearance (from ch 266):** Mae Jonghak is a young man of about twenty with a smooth, clean-shaven chin. He has clear, deep eyes with a blue gaze. Tags: male, young man, about twenty, clean-shaven, smooth chin, clear deep eyes, blue eyes"
+  ],
+  "omitted": [
+    {
+      "index": 0,
+      "reason": "Title/reputation only, no visual trait."
+    },
+    {
+      "index": 13,
+      "reason": "Refers to hidden true age (decades older); not visual."
+    },
+    {
+      "index": 14,
+      "reason": "Conflicting, vague face impression; dropped in conflict resolution."
+    },
+    {
+      "index": 15,
+      "reason": "Conflicting eye description; dropped in conflict resolution."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0186571
+      "cost_usd": 0.0195786
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0141309
+      "cost_usd": 0.026092499999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0200053
+      "cost_usd": 0.017532
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0199912
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0199748
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0220051
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.016284399999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0247711
+      "cost_usd": 0.038778299999999995
     }
   ]
 }

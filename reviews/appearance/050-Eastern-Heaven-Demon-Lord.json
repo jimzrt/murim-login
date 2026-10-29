@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 50,
   "english": "Eastern Heaven Demon Lord",
   "profile": "characters/Eastern Heaven Demon Lord.md",
@@ -8,206 +8,275 @@
   ],
   "chapter_count": 42,
   "first_chapter": 714,
-  "safe_through": 1135,
-  "passages": [
-    [
-      910,
-      66
-    ],
-    [
-      911,
-      93
-    ],
-    [
-      911,
-      34
-    ],
-    [
-      911,
-      56
-    ],
-    [
-      912,
-      58
-    ],
-    [
-      913,
-      79
-    ],
-    [
-      913,
-      83
-    ],
-    [
-      914,
-      28
-    ],
-    [
-      914,
-      60
-    ],
-    [
-      914,
-      53
-    ],
-    [
-      915,
-      30
-    ],
-    [
-      917,
-      78
-    ],
-    [
-      917,
-      153
-    ],
-    [
-      917,
-      34
-    ],
-    [
-      917,
-      50
-    ],
-    [
-      917,
-      22
-    ],
-    [
-      918,
-      74
-    ],
-    [
-      918,
-      53
-    ],
-    [
-      922,
-      87
-    ],
-    [
-      923,
-      44
-    ],
-    [
-      923,
-      57
-    ],
-    [
-      923,
-      79
-    ],
-    [
-      923,
-      23
-    ],
-    [
-      924,
-      121
-    ],
-    [
-      924,
-      99
-    ],
-    [
-      931,
-      118
-    ],
-    [
-      931,
-      37
-    ],
-    [
-      977,
-      134
-    ]
-  ],
+  "profile_safe_through": 1135,
+  "passages": [],
   "facts": [
     {
       "attribute": "age/skin",
       "kind": "base",
       "fact": "Elderly man with pale skin",
       "chapter": 910,
-      "quote": "창백한 피부의 노인"
+      "quote": "창백한 피부의 노인",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Directly describes Eastern Heaven Demon Lord as pale-skinned elder in present scene; no change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "skin",
+      "fact": "Pale skin, appears elderly",
+      "chapter": 910,
+      "quote": "창백한 피부의 노인, 동천마군",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Same line; pale skin, elderly, literal present description; no change."
+      },
+      "status": "kept"
     },
     {
       "attribute": "beard",
       "kind": "base",
       "fact": "Immaculate white beard like an immortal's",
       "chapter": 911,
-      "quote": "신선처럼 새하얗던 수염"
+      "quote": "신선처럼 새하얗던 수염",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Gray eyes",
       "chapter": 911,
-      "quote": "동천마군의 회색빛 눈동자를"
+      "quote": "동천마군의 회색빛 눈동자를",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Gray eyes of 동천마군 described directly in present scene."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Gray eyes",
+      "chapter": 911,
+      "quote": "동천마군의 회색빛 눈동자",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Same line; gray eyes, present-time description."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Gray eyes",
+      "chapter": 913,
+      "quote": "느슨하게 움직인 회색빛 눈동자",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "His gray eyes move, reflecting the young king; present-time scene."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Cold gray eyes",
+      "chapter": 914,
+      "quote": "차가운 회색빛 눈동자로",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Cold gray eyes gazing at the emperor in the present; flashback is separate narration."
+      },
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Cold gray eyes",
       "chapter": 915,
-      "quote": "차가운 회색빛 눈동자"
+      "quote": "차가운 회색빛 눈동자",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Cold gray eyes looking at narrator and 적천강 in present."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "His eyes shimmer like cold flames.",
+      "chapter": 922,
+      "quote": "동천마군의 두 눈동자는, 차가운 불꽃으로 일렁이고 있었다",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "'Cold flames' is a metaphor for his eyes' emotion, not a literal look."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "body",
       "kind": "change",
       "fact": "Turned himself into a jiangshi (reanimated corpse) using his sect's forbidden art after an unhealed injury",
       "chapter": 924,
-      "quote": "사문의 금지된 대법(大法)을 펼쳐 스스로를 강시로 만들었고"
+      "quote": "사문의 금지된 대법(大法)을 펼쳐 스스로를 강시로 만들었고",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Backstory summary of past; he became a jiangshi long ago, not a change in this scene."
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
+  "rejected": [
+    8,
+    9
+  ],
+  "judgments": {
+    "910|창백한피부의노인": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Directly describes Eastern Heaven Demon Lord as pale-skinned elder in present scene; no change."
+    },
+    "910|창백한피부의노인,동천마군": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same line; pale skin, elderly, literal present description; no change."
+    },
+    "911|동천마군의회색빛눈동자를": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Gray eyes of 동천마군 described directly in present scene."
+    },
+    "911|동천마군의회색빛눈동자": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same line; gray eyes, present-time description."
+    },
+    "913|느슨하게움직인회색빛눈동자": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "His gray eyes move, reflecting the young king; present-time scene."
+    },
+    "914|차가운회색빛눈동자로": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Cold gray eyes gazing at the emperor in the present; flashback is separate narration."
+    },
+    "915|차가운회색빛눈동자": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Cold gray eyes looking at narrator and 적천강 in present."
+    },
+    "922|동천마군의두눈동자는,차가운불꽃으로일렁이고있었다": {
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "'Cold flames' is a metaphor for his eyes' emotion, not a literal look."
+    },
+    "924|사문의금지된대법(大法)을펼쳐스스로를강시로만들었고": {
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Backstory summary of past; he became a jiangshi long ago, not a change in this scene."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "eye colour",
+      "indices": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "kept": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "resolved": true,
+      "reason": "All quotes say gray eyes; 'cold' is only a tone descriptor in 6 and 7. No real disagreement, repeated across ch911-915."
+    },
+    {
+      "attribute": "age/skin",
+      "indices": [
+        0,
+        1
+      ],
+      "kept": [
+        0,
+        1
+      ],
+      "resolved": true,
+      "reason": "Both say pale-skinned elderly man; same value, no real disagreement."
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
       "start": 714,
-      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin, cold gray eyes and an immaculate white beard like an immortal's. Tags: male, elderly, pale skin, white beard, gray eyes, cold gaze",
-      "used": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
-    {
-      "start": 924,
-      "description": "Eastern Heaven Demon Lord is a male jiangshi (reanimated corpse), formerly an elderly man, with pale skin, cold gray eyes and an immaculate white beard like an immortal's. Tags: male, jiangshi, reanimated corpse, undead, pale skin, white beard, gray eyes, cold gaze",
+      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His eyes are cold gray. Tags: male, elderly, pale skin, white beard, immortal-like beard, cold gray eyes",
       "used": [
         0,
         1,
         2,
         3,
-        4
-      ]
+        4,
+        5,
+        6,
+        7
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (ch 714–923):** Eastern Heaven Demon Lord is an elderly man with pale skin, cold gray eyes and an immaculate white beard like an immortal's. Tags: male, elderly, pale skin, white beard, gray eyes, cold gaze",
-    "- **Appearance (from ch 924):** Eastern Heaven Demon Lord is a male jiangshi (reanimated corpse), formerly an elderly man, with pale skin, cold gray eyes and an immaculate white beard like an immortal's. Tags: male, jiangshi, reanimated corpse, undead, pale skin, white beard, gray eyes, cold gaze"
+    "- **Appearance (from ch 714):** Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His eyes are cold gray. Tags: male, elderly, pale skin, white beard, immortal-like beard, cold gray eyes"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0202125
+      "cost_usd": 0.0170193
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020418
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0152263
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0200629
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0202547
+      "cost_usd": 0.0258617
     }
   ]
 }

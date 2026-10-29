@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 36,
   "english": "Wipeng",
   "profile": "characters/Wipeng.md",
@@ -8,290 +8,116 @@
   ],
   "chapter_count": 67,
   "first_chapter": 6,
-  "safe_through": 997,
-  "passages": [
-    [
-      6,
-      53
-    ],
-    [
-      8,
-      50
-    ],
-    [
-      8,
-      22
-    ],
-    [
-      8,
-      69
-    ],
-    [
-      9,
-      102
-    ],
-    [
-      9,
-      17
-    ],
-    [
-      14,
-      71
-    ],
-    [
-      18,
-      167
-    ],
-    [
-      19,
-      46
-    ],
-    [
-      20,
-      44
-    ],
-    [
-      22,
-      62
-    ],
-    [
-      28,
-      58
-    ],
-    [
-      28,
-      104
-    ],
-    [
-      32,
-      43
-    ],
-    [
-      34,
-      26
-    ],
-    [
-      37,
-      14
-    ],
-    [
-      54,
-      25
-    ],
-    [
-      57,
-      54
-    ],
-    [
-      57,
-      36
-    ],
-    [
-      59,
-      55
-    ],
-    [
-      59,
-      58
-    ],
-    [
-      64,
-      32
-    ],
-    [
-      64,
-      64
-    ],
-    [
-      64,
-      52
-    ],
-    [
-      68,
-      53
-    ],
-    [
-      68,
-      34
-    ],
-    [
-      68,
-      41
-    ],
-    [
-      68,
-      50
-    ],
-    [
-      129,
-      45
-    ],
-    [
-      147,
-      77
-    ],
-    [
-      147,
-      18
-    ],
-    [
-      147,
-      49
-    ],
-    [
-      147,
-      84
-    ],
-    [
-      148,
-      38
-    ],
-    [
-      148,
-      49
-    ],
-    [
-      180,
-      51
-    ],
-    [
-      180,
-      76
-    ],
-    [
-      184,
-      54
-    ],
-    [
-      184,
-      99
-    ],
-    [
-      186,
-      43
-    ],
-    [
-      186,
-      17
-    ],
-    [
-      186,
-      29
-    ],
-    [
-      236,
-      42
-    ],
-    [
-      236,
-      64
-    ],
-    [
-      959,
-      58
-    ],
-    [
-      960,
-      36
-    ],
-    [
-      962,
-      52
-    ],
-    [
-      963,
-      71
-    ],
-    [
-      963,
-      71
-    ],
-    [
-      963,
-      73
-    ],
-    [
-      963,
-      84
-    ]
-  ],
+  "profile_safe_through": 997,
+  "passages": [],
   "facts": [
+    {
+      "attribute": "eyes",
+      "fact": "Cold, chilly-looking eyes",
+      "chapter": 13,
+      "quote": "서늘한 눈동자로 나를 내려다봤다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Has sharp, piercing eye shape",
       "chapter": 28,
-      "quote": "위팽처럼 날카로운 눈매의 소유자"
+      "quote": "위팽처럼 날카로운 눈매의 소유자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Has a cold-looking face",
+      "chapter": 31,
+      "quote": "차가움이 뚝뚝 묻어 나오는 얼굴",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "scar",
       "kind": "change",
       "fact": "Scar running from forehead to chin, from a fierce battle",
       "chapter": 32,
-      "quote": "위팽의 이마부터 턱까지 그어진 상처"
+      "quote": "위팽의 이마부터 턱까지 그어진 상처",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Wipeng has a forehead-to-chin scar, a literal present description. It is a fresh battle wound, but the text doesn't show it as a drastic lasting change. The narrator just infers a fierce battle from it."
+      },
+      "status": "kept"
     },
     {
       "attribute": "clothing",
       "kind": "base",
       "fact": "Wears light armor (the figure entering the office, not necessarily Wipeng)",
       "chapter": 147,
-      "quote": "가벼운 갑옷 차림"
+      "quote": "가벼운 갑옷 차림",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears as an older man compared with Jin Mugyeong, who was a boy when they first met.",
       "chapter": 963,
-      "quote": "과거 청년이 소년이었던 시절, 검을 가르쳐 달라며 찾아왔던 그 모습을 떠올리며."
+      "quote": "과거 청년이 소년이었던 시절, 검을 가르쳐 달라며 찾아왔던 그 모습을 떠올리며.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "32|위팽의이마부터턱까지그어진상처": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Wipeng has a forehead-to-chin scar, a literal present description. It is a fresh battle wound, but the text doesn't show it as a drastic lasting change. The narrator just infers a fierce battle from it."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 6,
-      "description": "Wipeng is an older man with sharp, piercing eyes. A long scar runs from his forehead down to his chin. Tags: male, older man, sharp piercing eyes, long scar forehead to chin",
+      "description": "Wipeng is an older man with a cold-looking face and sharp, piercing, chilly eyes. A long scar runs from his forehead down to his chin. Tags: male, older man, cold face, sharp piercing eyes, chilly gaze, forehead-to-chin scar",
       "used": [
         0,
         1,
-        3
-      ]
+        2,
+        3,
+        5
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 6):** Wipeng is an older man with sharp, piercing eyes. A long scar runs from his forehead down to his chin. Tags: male, older man, sharp piercing eyes, long scar forehead to chin"
+    "- **Appearance (from ch 6):** Wipeng is an older man with a cold-looking face and sharp, piercing, chilly eyes. A long scar runs from his forehead down to his chin. Tags: male, older man, cold face, sharp piercing eyes, chilly gaze, forehead-to-chin scar"
+  ],
+  "omitted": [
+    {
+      "index": 4,
+      "reason": "Quote describes a figure entering the office, not necessarily Wipeng; identity unconfirmed, so the light armor is not used."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0192308
+      "cost_usd": 0.016112400000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.023134000000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0180602
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018874000000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0185922
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018613
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0180178
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0220313
+      "cost_usd": 0.0266583
     }
   ]
 }

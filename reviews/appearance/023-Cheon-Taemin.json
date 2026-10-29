@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 23,
   "english": "Cheon Taemin",
   "profile": "characters/Cheon Taemin.md",
@@ -8,195 +8,81 @@
   ],
   "chapter_count": 88,
   "first_chapter": 287,
-  "safe_through": 1175,
-  "passages": [
-    [
-      288,
-      43
-    ],
-    [
-      288,
-      94
-    ],
-    [
-      288,
-      18
-    ],
-    [
-      419,
-      66
-    ],
-    [
-      553,
-      69
-    ],
-    [
-      554,
-      150
-    ],
-    [
-      563,
-      59
-    ],
-    [
-      566,
-      46
-    ],
-    [
-      577,
-      17
-    ],
-    [
-      579,
-      57
-    ],
-    [
-      582,
-      65
-    ],
-    [
-      582,
-      20
-    ],
-    [
-      584,
-      51
-    ],
-    [
-      584,
-      73
-    ],
-    [
-      584,
-      65
-    ],
-    [
-      594,
-      51
-    ],
-    [
-      605,
-      64
-    ],
-    [
-      732,
-      47
-    ],
-    [
-      739,
-      60
-    ],
-    [
-      743,
-      49
-    ],
-    [
-      743,
-      85
-    ],
-    [
-      765,
-      70
-    ],
-    [
-      776,
-      73
-    ],
-    [
-      776,
-      32
-    ],
-    [
-      779,
-      80
-    ],
-    [
-      779,
-      47
-    ],
-    [
-      780,
-      30
-    ],
-    [
-      827,
-      93
-    ],
-    [
-      1144,
-      60
-    ],
-    [
-      1156,
-      52
-    ],
-    [
-      1156,
-      97
-    ],
-    [
-      1175,
-      112
-    ]
-  ],
+  "profile_safe_through": 1175,
+  "passages": [],
   "facts": [
     {
       "attribute": "eyebrows",
       "kind": "base",
       "fact": "Thick, dark eyebrows",
       "chapter": 288,
-      "quote": "진한 눈썹과 조각 같은 이목구비"
+      "quote": "진한 눈썹과 조각 같은 이목구비",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Chiseled, sculpted features; looks like a handsome reincarnated Greek god",
       "chapter": 288,
-      "quote": "잘생긴 그리스 신이 환생한 것 같은 외모다."
+      "quote": "잘생긴 그리스 신이 환생한 것 같은 외모다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Looks absurdly young for his age",
       "chapter": 584,
-      "quote": "나이에 비해 터무니없이 젊어 보이는 그가"
+      "quote": "나이에 비해 터무니없이 젊어 보이는 그가",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narration describes Cheon Taemin as absurdly young-looking for his age at first meeting; ordinary description, no change in this scene."
+      },
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "584|나이에비해터무니없이젊어보이는그가": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narration describes Cheon Taemin as absurdly young-looking for his age at first meeting; ordinary description, no change in this scene."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 287,
-      "description": "Cheon Taemin is a man with thick, dark eyebrows and chiseled, sculpted features, handsome enough to look like a reincarnated Greek god. He appears absurdly young for his age. Tags: male, thick dark eyebrows, chiseled face, sculpted features, handsome, youthful appearance",
+      "description": "Cheon Taemin is a man with thick, dark eyebrows and chiseled, sculpted features, handsome enough to look like a reincarnated Greek god. He looks absurdly young for his age. Tags: male, thick dark eyebrows, chiseled face, sculpted features, Greek-god handsome, youthful appearance",
       "used": [
         0,
         1,
         2
-      ]
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 287):** Cheon Taemin is a man with thick, dark eyebrows and chiseled, sculpted features, handsome enough to look like a reincarnated Greek god. He appears absurdly young for his age. Tags: male, thick dark eyebrows, chiseled face, sculpted features, handsome, youthful appearance"
+    "- **Appearance (from ch 287):** Cheon Taemin is a man with thick, dark eyebrows and chiseled, sculpted features, handsome enough to look like a reincarnated Greek god. He looks absurdly young for his age. Tags: male, thick dark eyebrows, chiseled face, sculpted features, Greek-god handsome, youthful appearance"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.022188999999999997
+      "cost_usd": 0.014878
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0207735
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.017946099999999996
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0196775
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.014173499999999999
+      "cost_usd": 0.019997499999999998
     }
   ]
 }

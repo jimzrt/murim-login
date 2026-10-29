@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 45,
   "english": "Hong Dao",
   "profile": "characters/Hong Dao.md",
@@ -8,159 +8,79 @@
   ],
   "chapter_count": 47,
   "first_chapter": 231,
-  "safe_through": 1140,
-  "passages": [
-    [
-      232,
-      30
-    ],
-    [
-      232,
-      38
-    ],
-    [
-      232,
-      73
-    ],
-    [
-      232,
-      51
-    ],
-    [
-      232,
-      42
-    ],
-    [
-      232,
-      25
-    ],
-    [
-      233,
-      100
-    ],
-    [
-      245,
-      85
-    ],
-    [
-      245,
-      31
-    ],
-    [
-      245,
-      26
-    ],
-    [
-      245,
-      49
-    ],
-    [
-      248,
-      49
-    ],
-    [
-      248,
-      23
-    ],
-    [
-      258,
-      57
-    ],
-    [
-      258,
-      67
-    ],
-    [
-      259,
-      54
-    ],
-    [
-      261,
-      100
-    ],
-    [
-      262,
-      30
-    ],
-    [
-      263,
-      57
-    ],
-    [
-      263,
-      89
-    ],
-    [
-      894,
-      142
-    ],
-    [
-      910,
-      40
-    ],
-    [
-      989,
-      32
-    ],
-    [
-      1115,
-      72
-    ]
-  ],
+  "profile_safe_through": 1140,
+  "passages": [],
   "facts": [
     {
       "attribute": "height",
       "kind": "base",
       "fact": "Very tall, in contrast to the short Jeok Cheon-gang",
       "chapter": 232,
-      "quote": "법왕(法王) 굉도는 훌쩍 큰 키의 노인이었다"
+      "quote": "법왕(法王) 굉도는 훌쩍 큰 키의 노인이었다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "height",
+      "fact": "Tall, towering elderly man",
+      "chapter": 232,
+      "quote": "법왕(法王) 굉도는 훌쩍 큰 키의 노인이었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Has gray eyes",
       "chapter": 258,
-      "quote": "굉도의 회색빛 눈동자"
+      "quote": "굉도의 회색빛 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Carries a very short staff with a smooth surface that has a faint green glow",
       "chapter": 259,
-      "quote": "반들반들한 표면에는 은은한 녹색 빛이 감돌았다"
+      "quote": "반들반들한 표면에는 은은한 녹색 빛이 감돌았다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {},
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 231,
-      "description": "Hong Dao is a very tall elderly man with gray eyes, towering over shorter people. He carries a very short staff with a smooth surface that gives off a faint green glow. Tags: male, elderly, very tall, gray eyes, short staff, smooth staff, faint green glow",
+      "description": "Hong Dao, a very tall, towering elderly man with gray eyes. He carries a very short staff with a smooth surface that has a faint green glow. Tags: male, elderly, very tall, towering, gray eyes, short staff, smooth staff, faint green glow",
       "used": [
         0,
         1,
-        2
-      ]
+        2,
+        3
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 231):** Hong Dao is a very tall elderly man with gray eyes, towering over shorter people. He carries a very short staff with a smooth surface that gives off a faint green glow. Tags: male, elderly, very tall, gray eyes, short staff, smooth staff, faint green glow"
+    "- **Appearance (from ch 231):** Hong Dao, a very tall, towering elderly man with gray eyes. He carries a very short staff with a smooth surface that has a faint green glow. Tags: male, elderly, very tall, towering, gray eyes, short staff, smooth staff, faint green glow"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0172
+      "cost_usd": 0.015184600000000001
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.022333099999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0191365
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018405599999999998
+      "cost_usd": 0.020100700000000003
     }
   ]
 }

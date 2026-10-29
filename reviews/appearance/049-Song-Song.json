@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 49,
   "english": "Song Song",
   "profile": "characters/Song Song.md",
@@ -8,151 +8,122 @@
   ],
   "chapter_count": 43,
   "first_chapter": 77,
-  "safe_through": 1175,
-  "passages": [
-    [
-      83,
-      83
-    ],
-    [
-      223,
-      43
-    ],
-    [
-      270,
-      75
-    ],
-    [
-      271,
-      36
-    ],
-    [
-      274,
-      52
-    ],
-    [
-      278,
-      55
-    ],
-    [
-      286,
-      56
-    ],
-    [
-      289,
-      154
-    ],
-    [
-      289,
-      30
-    ],
-    [
-      292,
-      42
-    ],
-    [
-      300,
-      53
-    ],
-    [
-      303,
-      42
-    ],
-    [
-      561,
-      69
-    ],
-    [
-      593,
-      92
-    ],
-    [
-      595,
-      31
-    ],
-    [
-      595,
-      63
-    ],
-    [
-      595,
-      50
-    ],
-    [
-      595,
-      40
-    ],
-    [
-      597,
-      58
-    ],
-    [
-      728,
-      104
-    ],
-    [
-      746,
-      46
-    ],
-    [
-      746,
-      82
-    ],
-    [
-      773,
-      66
-    ],
-    [
-      1175,
-      55
-    ]
-  ],
+  "profile_safe_through": 1175,
+  "passages": [],
   "facts": [
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Has a sleek, smooth body figure",
       "chapter": 83,
-      "quote": "송송이의 매끈한 몸매와 몽환적인 얼굴"
+      "quote": "송송이의 매끈한 몸매와 몽환적인 얼굴",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "fact": "Has a smooth, sleek figure",
+      "chapter": 83,
+      "quote": "송송이의 매끈한 몸매",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Has a dreamy, ethereal face",
+      "chapter": 83,
+      "quote": "몽환적인 얼굴",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narration describes Song Song's smooth figure and dreamy face in the present; ordinary description."
+      },
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Strikingly beautiful",
       "chapter": 270,
-      "quote": "그녀의 미모에 두 번 넋을 놓고 있던 이들은"
+      "quote": "그녀의 미모에 두 번 넋을 놓고 있던 이들은",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Her beauty captivates the others in the present scene; ordinary description, no change in her look."
+      },
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "83|몽환적인얼굴": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narration describes Song Song's smooth figure and dreamy face in the present; ordinary description."
+    },
+    "270|그녀의미모에두번넋을놓고있던이들은": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Her beauty captivates the others in the present scene; ordinary description, no change in her look."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "face",
+      "indices": [
+        2,
+        3
+      ],
+      "kept": [
+        2
+      ],
+      "resolved": false,
+      "reason": "Dreamy/ethereal face (earlier, concrete visual) vs. strikingly beautiful (later, vague); both are about equally supported and not mutually exclusive in kind, so kept the more concrete visual description."
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
       "start": 77,
-      "description": "Song Song has a sleek, smooth body figure and a strikingly beautiful face with a dreamy, ethereal look. Tags: female, sleek smooth figure, strikingly beautiful, dreamy face",
+      "description": "Song Song is a woman with a sleek, smooth body figure and a dreamy, ethereal face. Tags: female, sleek smooth figure, dreamy ethereal face",
       "used": [
         0,
-        1
-      ]
+        1,
+        2
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 77):** Song Song has a sleek, smooth body figure and a strikingly beautiful face with a dreamy, ethereal look. Tags: female, sleek smooth figure, strikingly beautiful, dreamy face"
+    "- **Appearance (from ch 77):** Song Song is a woman with a sleek, smooth body figure and a dreamy, ethereal face. Tags: female, sleek smooth figure, dreamy ethereal face"
+  ],
+  "omitted": [
+    {
+      "index": 3,
+      "reason": "Conflicting face value in CONFLICT#1; vague 'strikingly beautiful' dropped in favor of the concrete earlier description."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0160269
+      "cost_usd": 0.0151211
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018218300000000003
+      "cost_usd": 0.019641099999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0194253
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0178471
+      "cost_usd": 0.0212811
     }
   ]
 }

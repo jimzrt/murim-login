@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 20,
   "english": "Blood Lord",
   "profile": "characters/Blood Lord.md",
@@ -9,352 +9,274 @@
   "chapter_count": 92,
   "first_chapter": 262,
   "profile_safe_through": 1025,
-  "passages": [
-    [
-      263,
-      48
-    ],
-    [
-      263,
-      35
-    ],
-    [
-      263,
-      20
-    ],
-    [
-      263,
-      57
-    ],
-    [
-      263,
-      17
-    ],
-    [
-      266,
-      26
-    ],
-    [
-      266,
-      22
-    ],
-    [
-      355,
-      60
-    ],
-    [
-      357,
-      33
-    ],
-    [
-      358,
-      90
-    ],
-    [
-      358,
-      81
-    ],
-    [
-      362,
-      116
-    ],
-    [
-      485,
-      78
-    ],
-    [
-      486,
-      79
-    ],
-    [
-      614,
-      38
-    ],
-    [
-      703,
-      68
-    ],
-    [
-      703,
-      78
-    ],
-    [
-      844,
-      35
-    ],
-    [
-      844,
-      56
-    ],
-    [
-      844,
-      74
-    ],
-    [
-      844,
-      29
-    ],
-    [
-      844,
-      80
-    ],
-    [
-      1066,
-      114
-    ],
-    [
-      1087,
-      56
-    ],
-    [
-      1087,
-      116
-    ],
-    [
-      1089,
-      107
-    ],
-    [
-      1089,
-      34
-    ],
-    [
-      1089,
-      51
-    ],
-    [
-      1089,
-      31
-    ],
-    [
-      1094,
-      62
-    ],
-    [
-      1094,
-      62
-    ],
-    [
-      1094,
-      46
-    ],
-    [
-      1102,
-      62
-    ],
-    [
-      1104,
-      137
-    ],
-    [
-      1104,
-      49
-    ],
-    [
-      1106,
-      100
-    ],
-    [
-      1107,
-      53
-    ],
-    [
-      1107,
-      68
-    ],
-    [
-      1107,
-      159
-    ],
-    [
-      1109,
-      48
-    ],
-    [
-      1110,
-      49
-    ],
-    [
-      1111,
-      56
-    ],
-    [
-      1121,
-      38
-    ],
-    [
-      1122,
-      39
-    ],
-    [
-      1124,
-      22
-    ],
-    [
-      1125,
-      44
-    ],
-    [
-      1125,
-      66
-    ],
-    [
-      1125,
-      22
-    ],
-    [
-      1125,
-      51
-    ],
-    [
-      1125,
-      85
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears to be a young man, young enough to be a grandchild of an old man",
       "chapter": 263,
-      "quote": "최소 손자뻘은 될 법한 청년"
+      "quote": "최소 손자뻘은 될 법한 청년",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "hair",
       "kind": "base",
       "fact": "Hair is long enough to fall loose over his face and be swept back",
       "chapter": 263,
-      "quote": "흘러내린 머리카락을 위로 쓸어올렸다"
+      "quote": "흘러내린 머리카락을 위로 쓸어올렸다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Appears to be a young man, young enough to be a grandson of an old man",
+      "chapter": 263,
+      "quote": "최소 손자뻘은 될 법한 청년에게 설설 기는 노인이라니.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "hair",
+      "kind": "base",
+      "fact": "Has long enough hair that strands fall down and can be swept upward",
+      "chapter": 263,
+      "quote": "흘러내린 머리카락을 위로 쓸어올렸다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "fact": "Appears to be a young man",
+      "chapter": 263,
+      "quote": "어쨌건 청년, 혈주라 불린 그의 대답에 한수의 표정이 밝아졌다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Eyes flare with red light; sclera turns blood-red when his power surges",
+      "chapter": 264,
+      "quote": "혈주의 눈동자에 붉은 광망이 솟구쳤다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Sclera dyed blood-red during power surge",
+      "chapter": 264,
+      "quote": "핏빛으로 물든 흰자위와 불길하기 짝이 없는 거대한 기운이 그를 중심으로 뻗어 나갔다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Eyes crescent-shaped (curved like half-moons) when smiling",
+      "chapter": 265,
+      "quote": "혈주의 눈매가 반달처럼 휘었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Face is fierce and grim-looking (contorted into a menacing expression)",
+      "chapter": 265,
+      "quote": "혈주의 얼굴이 험악하게 일그러졌다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Has narrow-set eyes that can narrow to slits",
+      "chapter": 266,
+      "quote": "혈주의 눈매가 가늘어졌다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears to be a young man",
       "chapter": 614,
-      "quote": "청년, 혈주의 눈동자가"
+      "quote": "청년, 혈주의 눈동자가",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Eyes carry a faint blood-red glow (blood light)",
       "chapter": 844,
-      "quote": "사내, 혈주는 은은한 혈광(血光)이 서린 눈으로 돌바닥에 머리를 찧으며 부르짖는 술사들을 굽어보았다."
+      "quote": "사내, 혈주는 은은한 혈광(血光)이 서린 눈으로 돌바닥에 머리를 찧으며 부르짖는 술사들을 굽어보았다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Eyes hold a faint blood-red glow",
+      "chapter": 844,
+      "quote": "은은한 혈광(血光)이 서린 눈으로",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Eyes shimmer with blood-red light",
+      "chapter": 844,
+      "quote": "두 눈동자에는 어느덧 핏빛 광망이 일렁이고 있었다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "limbs",
       "kind": "change",
       "fact": "Lost one arm to Sword Saint Mae Jonghak's strike during the Shaolin Blood Incident",
       "chapter": 1087,
-      "quote": "한쪽 팔을 잃었던 것은"
+      "quote": "한쪽 팔을 잃었던 것은",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Backstory about past arm loss (Shaolin Blood Incident); he's smiling now, arm presumably regrown. Not a change in this scene."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Blood-red eyes",
       "chapter": 1089,
-      "quote": "혈주의 핏빛 눈동자가 번뜩이고 있었다"
+      "quote": "혈주의 핏빛 눈동자가 번뜩이고 있었다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "limbs",
       "kind": "change",
       "fact": "Lost both arms (which he had barely managed to regrow)",
       "chapter": 1109,
-      "quote": "간신히 회복한 두 팔을 잃었음에도"
+      "quote": "간신히 회복한 두 팔을 잃었음에도",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Both arms just severed in this scene, regrown ones lost again; no immediate regrowth shown, so lasting loss."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Has red eyes",
       "chapter": 1110,
-      "quote": "붉은 눈동자를 번뜩였다"
+      "quote": "붉은 눈동자를 번뜩였다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "tongue",
       "kind": "base",
       "fact": "Has a red tongue",
       "chapter": 1124,
-      "quote": "붉은 혀를 내밀어 입술을 핥았다"
+      "quote": "붉은 혀를 내밀어 입술을 핥았다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [
+    14
+  ],
+  "judgments": {
+    "1087|한쪽팔을잃었던것은": {
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Backstory about past arm loss (Shaolin Blood Incident); he's smiling now, arm presumably regrown. Not a change in this scene."
+    },
+    "1109|간신히회복한두팔을잃었음에도": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Both arms just severed in this scene, regrown ones lost again; no immediate regrowth shown, so lasting loss."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 262,
-      "description": "Blood Lord appears as a young man, young enough to pass for an old man's grandchild. His long hair falls loose over his face and is swept back with a hand. His eyes carry a faint blood-red glow. Tags: male, young man, long loose hair, swept-back hair, faint blood-red glow in eyes",
-      "used": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
-    {
-      "start": 1087,
-      "description": "Blood Lord appears as a young man with long hair that falls loose over his face and is swept back. His eyes are blood-red and glint sharply. He has lost one arm and has only a single arm. Tags: male, young man, long loose hair, blood-red eyes, one-armed, missing arm",
+      "description": "Blood Lord is a young man with long hair that falls loose over his face and is often swept back. His eyes are blood-red with a faint red glow; the sclera turns blood-red when his power surges. His eyes curve like half-moons when he smiles and narrow to slits when he is intent, and his face can twist into a fierce, grim scowl. Tags: male, young man, long hair, swept-back hair, blood-red eyes, glowing red eyes, red sclera, crescent smiling eyes, narrowed eyes, fierce grim expression",
       "used": [
         0,
         1,
         2,
         3,
         4,
-        5
-      ]
-    },
-    {
-      "start": 1109,
-      "description": "Blood Lord appears as a young man with long hair that falls loose over his face and is swept back. His eyes are red and glint sharply, and he has a red tongue that he licks across his lips. Both of his arms are missing. Tags: male, young man, long loose hair, red eyes, red tongue, armless, both arms missing",
-      "used": [
-        0,
-        1,
-        2,
         5,
         6,
         7,
-        8
-      ]
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        15
+      ],
+      "difference": ""
+    },
+    {
+      "start": 1109,
+      "description": "Blood Lord is a young man with long hair that falls loose over his face, and both of his arms are missing. His eyes are red and glowing blood-red, and his tongue is red. Tags: male, young man, long hair, armless, both arms missing, red eyes, blood-red glow, red tongue",
+      "used": [
+        0,
+        1,
+        11,
+        15,
+        16,
+        17,
+        18
+      ],
+      "difference": "gains a visible injury: both arms missing (previously had both arms); adds red tongue"
     }
   ],
   "lines": [
-    "- **Appearance (ch 262–1086):** Blood Lord appears as a young man, young enough to pass for an old man's grandchild. His long hair falls loose over his face and is swept back with a hand. His eyes carry a faint blood-red glow. Tags: male, young man, long loose hair, swept-back hair, faint blood-red glow in eyes",
-    "- **Appearance (ch 1087–1108):** Blood Lord appears as a young man with long hair that falls loose over his face and is swept back. His eyes are blood-red and glint sharply. He has lost one arm and has only a single arm. Tags: male, young man, long loose hair, blood-red eyes, one-armed, missing arm",
-    "- **Appearance (from ch 1109):** Blood Lord appears as a young man with long hair that falls loose over his face and is swept back. His eyes are red and glint sharply, and he has a red tongue that he licks across his lips. Both of his arms are missing. Tags: male, young man, long loose hair, red eyes, red tongue, armless, both arms missing"
+    "- **Appearance (ch 262–1108):** Blood Lord is a young man with long hair that falls loose over his face and is often swept back. His eyes are blood-red with a faint red glow; the sclera turns blood-red when his power surges. His eyes curve like half-moons when he smiles and narrow to slits when he is intent, and his face can twist into a fierce, grim scowl. Tags: male, young man, long hair, swept-back hair, blood-red eyes, glowing red eyes, red sclera, crescent smiling eyes, narrowed eyes, fierce grim expression",
+    "- **Appearance (from ch 1109):** Blood Lord is a young man with long hair that falls loose over his face, and both of his arms are missing. His eyes are red and glowing blood-red, and his tongue is red. Tags: male, young man, long hair, armless, both arms missing, red eyes, blood-red glow, red tongue"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.021775999999999997
+      "cost_usd": 0.018551
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.021032799999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0192382
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0201695
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0247406
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018878500000000003
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.016482999999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0262095
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0265159
+      "cost_usd": 0.031683100000000006
     }
   ]
 }

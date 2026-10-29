@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 31,
   "english": "Song Ilseom",
   "profile": "characters/Song Ilseom.md",
@@ -9,292 +9,320 @@
   "chapter_count": 73,
   "first_chapter": 310,
   "profile_safe_through": 1191,
-  "passages": [
-    [
-      310,
-      43
-    ],
-    [
-      310,
-      57
-    ],
-    [
-      310,
-      51
-    ],
-    [
-      319,
-      69
-    ],
-    [
-      319,
-      110
-    ],
-    [
-      321,
-      19
-    ],
-    [
-      321,
-      73
-    ],
-    [
-      328,
-      47
-    ],
-    [
-      328,
-      32
-    ],
-    [
-      328,
-      41
-    ],
-    [
-      328,
-      79
-    ],
-    [
-      329,
-      58
-    ],
-    [
-      329,
-      36
-    ],
-    [
-      549,
-      85
-    ],
-    [
-      551,
-      31
-    ],
-    [
-      616,
-      62
-    ],
-    [
-      618,
-      49
-    ],
-    [
-      619,
-      78
-    ],
-    [
-      619,
-      48
-    ],
-    [
-      619,
-      102
-    ],
-    [
-      619,
-      32
-    ],
-    [
-      646,
-      59
-    ],
-    [
-      659,
-      67
-    ],
-    [
-      659,
-      43
-    ],
-    [
-      660,
-      49
-    ],
-    [
-      665,
-      128
-    ],
-    [
-      840,
-      146
-    ],
-    [
-      842,
-      50
-    ],
-    [
-      849,
-      45
-    ],
-    [
-      849,
-      12
-    ],
-    [
-      855,
-      94
-    ],
-    [
-      855,
-      14
-    ],
-    [
-      878,
-      40
-    ],
-    [
-      909,
-      40
-    ],
-    [
-      995,
-      42
-    ],
-    [
-      1005,
-      70
-    ],
-    [
-      1005,
-      52
-    ],
-    [
-      1005,
-      55
-    ],
-    [
-      1022,
-      70
-    ],
-    [
-      1056,
-      59
-    ],
-    [
-      1120,
-      95
-    ],
-    [
-      1128,
-      80
-    ],
-    [
-      1138,
-      63
-    ],
-    [
-      1184,
-      99
-    ],
-    [
-      1186,
-      80
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Tall and handsome appearance",
       "chapter": 310,
-      "quote": "훤칠하고 잘생긴 외모의 소유자였다"
+      "quote": "훤칠하고 잘생긴 외모의 소유자였다",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narration: Song Ilseom is tall and handsome; ordinary description."
+      },
+      "status": "kept"
     },
     {
       "attribute": "eyebrows",
       "kind": "base",
       "fact": "Thick, fierce-looking eyebrows",
       "chapter": 310,
-      "quote": "사나워 보이는 그의 굵은 눈썹이 위로 솟구쳤다"
+      "quote": "사나워 보이는 그의 굵은 눈썹이 위로 솟구쳤다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyebrows",
+      "fact": "Thick, fierce-looking eyebrows",
+      "chapter": 310,
+      "quote": "사나워 보이는 그의 굵은 눈썹이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Tall, handsome appearance, unlike the other two of the Yongbong Three Leopards",
+      "chapter": 310,
+      "quote": "송일섬은 용봉삼표의 다른 두 사람과는 달리 훤칠하고 잘생긴 외모의 소유자였다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Same line: handsome unlike the other two; ordinary description."
+      },
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Fierce, sharp eyes",
       "chapter": 321,
-      "quote": "사나운 눈매의 표사, 송일섬이었다."
+      "quote": "사나운 눈매의 표사, 송일섬이었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Has a cold, aloof impression",
+      "chapter": 325,
+      "quote": "냉막한 인상의 송일섬이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyebrows",
+      "fact": "fierce-looking eyebrows",
+      "chapter": 327,
+      "quote": "사나워 보이는 눈썹",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "stern, blunt expression",
+      "chapter": 327,
+      "quote": "무뚝뚝한 얼굴로 중얼거렸다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyebrows",
+      "fact": "Has noticeable eyebrows he can raise sharply (eyebrows described as raised)",
+      "chapter": 328,
+      "quote": "그는 그 사실이 마음에 들지 않는 듯 눈썹을 치켜떴다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Claimed to have been extraordinarily handsome in youth, comparable to Song Yu (legendary handsome man)",
       "chapter": 329,
-      "quote": "과장 하나 없이 송옥(宋玉)이 울고 갈 정도였다니까?"
+      "quote": "과장 하나 없이 송옥(宋玉)이 울고 갈 정도였다니까?",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Has a dark, gloomy-looking face, familiar to an old man",
       "chapter": 619,
-      "quote": "저 컴컴하게 생긴 자는 제법 익숙한 얼굴인데"
+      "quote": "저 컴컴하게 생긴 자는 제법 익숙한 얼굴인데",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Old man calls Song Ilseom 'dark-looking' and says the face is familiar; literal."
+      },
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Middle-aged",
       "chapter": 646,
-      "quote": "“중년의 나이에, 선장을 사용한다고?”"
+      "quote": "“중년의 나이에, 선장을 사용한다고?”",
+      "marker": false,
+      "verdict": {
+        "this_character": false,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Song Ilseom is asking about an enemy wielding a staff; the middle age belongs to that unknown person."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Middle-aged",
+      "chapter": 646,
+      "quote": "중년의 나이에, 선장을 사용한다고?",
+      "marker": false,
+      "verdict": {
+        "this_character": false,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Middle age refers to the enemy being described, not Song Ilseom."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Young age, yet reached an outstanding martial level",
       "chapter": 840,
-      "quote": "젊은 나이에 뛰어난 경지에 다다른 송일섬"
+      "quote": "젊은 나이에 뛰어난 경지에 다다른 송일섬",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narration says Song Ilseom reached an outstanding level at a young age; no change in look."
+      },
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Young man with a bleak, stern impression",
       "chapter": 878,
-      "quote": "삭막한 인상의 청년"
+      "quote": "삭막한 인상의 청년",
+      "marker": false,
+      "verdict": {
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Context doesn't establish which of the two young men is Song Ilseom. The speaker is bleak-looking, but he's not named here. He addresses 적천강, who answers, so he may be Song Ilseom, but that isn't confirmed. Not enough to attribute with confidence."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "weapon",
+      "kind": "base",
+      "fact": "Carries a sword",
+      "chapter": 1022,
+      "quote": "검파에 손을 얹고 있던 혁무진과 송일섬",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Song Ilseom has a hand on sword hilt, so carries a sword; literal and present, no change."
+      },
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [
+    11,
+    12,
+    14
+  ],
+  "judgments": {
+    "310|훤칠하고잘생긴외모의소유자였다": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narration: Song Ilseom is tall and handsome; ordinary description."
+    },
+    "310|송일섬은용봉삼표의다른두사람과는달리훤칠하고잘생긴외모의소유자였다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same line: handsome unlike the other two; ordinary description."
+    },
+    "619|저컴컴하게생긴자는제법익숙한얼굴인데": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Old man calls Song Ilseom 'dark-looking' and says the face is familiar; literal."
+    },
+    "646|“중년의나이에,선장을사용한다고?”": {
+      "this_character": false,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Song Ilseom is asking about an enemy wielding a staff; the middle age belongs to that unknown person."
+    },
+    "646|중년의나이에,선장을사용한다고?": {
+      "this_character": false,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Middle age refers to the enemy being described, not Song Ilseom."
+    },
+    "840|젊은나이에뛰어난경지에다다른송일섬": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narration says Song Ilseom reached an outstanding level at a young age; no change in look."
+    },
+    "878|삭막한인상의청년": {
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Context doesn't establish which of the two young men is Song Ilseom. The speaker is bleak-looking, but he's not named here. He addresses 적천강, who answers, so he may be Song Ilseom, but that isn't confirmed. Not enough to attribute with confidence."
+    },
+    "1022|검파에손을얹고있던혁무진과송일섬": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Song Ilseom has a hand on sword hilt, so carries a sword; literal and present, no change."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "face",
+      "indices": [
+        0,
+        3,
+        10
+      ],
+      "kept": [
+        0,
+        3
+      ],
+      "resolved": true,
+      "reason": "Tall, handsome look is stated twice, including the earliest chapter. The dark, gloomy face is a single later remark."
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
       "start": 310,
-      "description": "Song Ilseom is a tall, handsome man of middle-aged apparent age, with a dark, gloomy, stern and bleak-looking face. He has thick, fierce eyebrows that rise sharply and sharp, fierce eyes. He carries a monk's staff as his weapon. Tags: male, middle-aged, tall, handsome, thick fierce eyebrows, sharp fierce eyes, dark gloomy face, stern bleak expression, monk's staff",
+      "description": "Song Ilseom is a tall, handsome young man with thick, fierce-looking eyebrows and sharp, fierce eyes. His face is cold and aloof, with a stern, blunt expression. He carries a sword. Tags: male, young, tall, handsome, thick fierce eyebrows, sharp eyes, cold aloof face, stern expression, sword",
       "used": [
         0,
         1,
         2,
+        3,
         4,
         5,
-        7
-      ]
+        6,
+        7,
+        13,
+        15
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 310):** Song Ilseom is a tall, handsome man of middle-aged apparent age, with a dark, gloomy, stern and bleak-looking face. He has thick, fierce eyebrows that rise sharply and sharp, fierce eyes. He carries a monk's staff as his weapon. Tags: male, middle-aged, tall, handsome, thick fierce eyebrows, sharp fierce eyes, dark gloomy face, stern bleak expression, monk's staff"
+    "- **Appearance (from ch 310):** Song Ilseom is a tall, handsome young man with thick, fierce-looking eyebrows and sharp, fierce eyes. His face is cold and aloof, with a stern, blunt expression. He carries a sword. Tags: male, young, tall, handsome, thick fierce eyebrows, sharp eyes, cold aloof face, stern expression, sword"
+  ],
+  "omitted": [
+    {
+      "index": 8,
+      "reason": "Momentary reaction (raising the eyebrows), not a lasting trait. Eyebrows are already covered by facts 1, 2 and 6."
+    },
+    {
+      "index": 9,
+      "reason": "Boast about past looks in youth, not a verified current look. It implies age or backstory and adds no new visual trait."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.020493499999999998
+      "cost_usd": 0.0222192
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0189255
+      "cost_usd": 0.0168902
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019683000000000003
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018848200000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018192200000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0134965
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0202599
+      "cost_usd": 0.0300917
     }
   ]
 }

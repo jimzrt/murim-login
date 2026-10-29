@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 8,
   "english": "Human Butcher",
   "profile": "characters/Human Butcher.md",
@@ -8,235 +8,43 @@
   ],
   "chapter_count": 157,
   "first_chapter": 9,
-  "safe_through": 1189,
-  "passages": [
-    [
-      9,
-      39
-    ],
-    [
-      25,
-      68
-    ],
-    [
-      25,
-      69
-    ],
-    [
-      28,
-      58
-    ],
-    [
-      28,
-      104
-    ],
-    [
-      99,
-      76
-    ],
-    [
-      99,
-      49
-    ],
-    [
-      162,
-      51
-    ],
-    [
-      162,
-      72
-    ],
-    [
-      162,
-      51
-    ],
-    [
-      162,
-      24
-    ],
-    [
-      162,
-      36
-    ],
-    [
-      169,
-      134
-    ],
-    [
-      204,
-      33
-    ],
-    [
-      214,
-      86
-    ],
-    [
-      231,
-      87
-    ],
-    [
-      236,
-      66
-    ],
-    [
-      237,
-      20
-    ],
-    [
-      237,
-      62
-    ],
-    [
-      245,
-      68
-    ],
-    [
-      249,
-      64
-    ],
-    [
-      352,
-      69
-    ],
-    [
-      357,
-      29
-    ],
-    [
-      364,
-      32
-    ],
-    [
-      435,
-      101
-    ],
-    [
-      435,
-      133
-    ],
-    [
-      525,
-      73
-    ],
-    [
-      541,
-      35
-    ],
-    [
-      541,
-      49
-    ],
-    [
-      574,
-      32
-    ],
-    [
-      671,
-      53
-    ],
-    [
-      674,
-      42
-    ],
-    [
-      679,
-      74
-    ],
-    [
-      763,
-      106
-    ],
-    [
-      833,
-      66
-    ],
-    [
-      836,
-      45
-    ],
-    [
-      840,
-      50
-    ],
-    [
-      883,
-      48
-    ],
-    [
-      918,
-      83
-    ],
-    [
-      1039,
-      78
-    ],
-    [
-      1058,
-      72
-    ],
-    [
-      1117,
-      27
-    ],
-    [
-      1154,
-      130
-    ],
-    [
-      1158,
-      69
-    ]
-  ],
+  "profile_safe_through": 1189,
+  "passages": [],
   "facts": [
     {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Wields a sword called Chammageom (참마검).",
       "chapter": 162,
-      "quote": "마침내 인도가 참마검을 거둬들인 것은 일다경이 지난 후였다."
+      "quote": "마침내 인도가 참마검을 거둬들인 것은 일다경이 지난 후였다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {},
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 9,
-      "description": "Human Butcher is a male human who wields a sword called Chammageom. Tags: male, human, sword, Chammageom",
+      "description": "Human Butcher is a male character who wields a sword called Chammageom. Tags: male, sword, Chammageom",
       "used": [
         0
-      ]
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 9):** Human Butcher is a male human who wields a sword called Chammageom. Tags: male, human, sword, Chammageom"
+    "- **Appearance (from ch 9):** Human Butcher is a male character who wields a sword called Chammageom. Tags: male, sword, Chammageom"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0208005
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0203336
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018717599999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.019312399999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.019202600000000004
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0181202
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.017494700000000002
+      "cost_usd": 0.0189271
     }
   ]
 }

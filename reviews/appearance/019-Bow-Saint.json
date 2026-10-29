@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 19,
   "english": "Bow Saint",
   "profile": "characters/Bow Saint.md",
@@ -9,306 +9,225 @@
   "chapter_count": 96,
   "first_chapter": 308,
   "profile_safe_through": 1178,
-  "passages": [
-    [
-      922,
-      87
-    ],
-    [
-      922,
-      46
-    ],
-    [
-      925,
-      36
-    ],
-    [
-      926,
-      56
-    ],
-    [
-      927,
-      36
-    ],
-    [
-      927,
-      102
-    ],
-    [
-      928,
-      60
-    ],
-    [
-      938,
-      59
-    ],
-    [
-      938,
-      35
-    ],
-    [
-      939,
-      22
-    ],
-    [
-      939,
-      56
-    ],
-    [
-      939,
-      21
-    ],
-    [
-      955,
-      62
-    ],
-    [
-      955,
-      35
-    ],
-    [
-      955,
-      37
-    ],
-    [
-      973,
-      83
-    ],
-    [
-      973,
-      73
-    ],
-    [
-      973,
-      34
-    ],
-    [
-      978,
-      68
-    ],
-    [
-      985,
-      27
-    ],
-    [
-      1047,
-      86
-    ],
-    [
-      1048,
-      82
-    ],
-    [
-      1048,
-      75
-    ],
-    [
-      1048,
-      59
-    ],
-    [
-      1048,
-      74
-    ],
-    [
-      1049,
-      82
-    ],
-    [
-      1053,
-      45
-    ],
-    [
-      1069,
-      51
-    ],
-    [
-      1071,
-      56
-    ],
-    [
-      1074,
-      59
-    ],
-    [
-      1076,
-      67
-    ],
-    [
-      1076,
-      50
-    ],
-    [
-      1081,
-      35
-    ],
-    [
-      1091,
-      67
-    ],
-    [
-      1095,
-      158
-    ],
-    [
-      1115,
-      65
-    ],
-    [
-      1115,
-      55
-    ],
-    [
-      1115,
-      75
-    ],
-    [
-      1121,
-      74
-    ],
-    [
-      1121,
-      29
-    ],
-    [
-      1122,
-      62
-    ],
-    [
-      1123,
-      133
-    ],
-    [
-      1141,
-      68
-    ],
-    [
-      1141,
-      62
-    ],
-    [
-      1141,
-      47
-    ],
-    [
-      1141,
-      22
-    ],
-    [
-      1178,
-      42
-    ],
-    [
-      1179,
-      55
-    ],
-    [
-      1179,
-      41
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "age/appearance",
       "kind": "base",
       "fact": "Eyes curved like half-moons, with deep-set pupils",
       "chapter": 926,
-      "quote": "그녀의 반달처럼 휘어진 눈매가, 그 안에 숨어 있는 눈동자가 깊게 가라앉아 있었다."
+      "quote": "그녀의 반달처럼 휘어진 눈매가, 그 안에 숨어 있는 눈동자가 깊게 가라앉아 있었다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Describes Bow Saint's half-moon-curved eyes with deep-set, sunken pupils in present scene; ordinary description."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Eyes curve like half-moons",
+      "chapter": 926,
+      "quote": "그녀의 반달처럼 휘어진 눈매가",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "궁성's eyes described as curved like half-moons (반달처럼 휘어진 눈매); literal present, ordinary."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Eyes narrow and curve like a full moon when she smiles (narrow eye shape)",
+      "chapter": 928,
+      "quote": "어느덧 가늘어져 있던 궁성의 눈매가 보름달처럼 휘었다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Eyes curving like a full moon is a simile for a smiling expression, a one-scene state, not a fixed eye shape; narrowed eyes are a momentary expression."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "hair",
       "kind": "base",
       "fact": "Hair is fine and silky like a bolt of fine silk/lustrous strands, flutters in the wind",
       "chapter": 973,
-      "quote": "섬단 같은 머리카락이 휘날렸다."
+      "quote": "섬단 같은 머리카락이 휘날렸다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Bow Saint is a giant-like figure ('giant' epithet alongside Fire King)",
+      "chapter": 1051,
+      "quote": "화왕과 궁성이라는 두 거인",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Wields two curved sabers (gokdo) that join into a giant bow",
       "chapter": 1071,
-      "quote": "두 자루의 곡도를 연결하여 거대한 활을 완성시키는"
+      "quote": "두 자루의 곡도를 연결하여 거대한 활을 완성시키는",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "weapon",
+      "kind": "base",
+      "fact": "Carries two curved sabers that connect into one giant bow",
+      "chapter": 1071,
+      "quote": "두 자루의 곡도를 연결하여 거대한 활을 완성시키는 궁성(弓星)",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Imposing, giant-like presence (described as one of two 'giants' alongside Killing Saint)",
       "chapter": 1115,
-      "quote": "두 거인의 존재감으로"
+      "quote": "두 거인의 존재감으로",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Wields two curved sabers (gokdo), gripped tightly",
       "chapter": 1123,
-      "quote": "궁성이 굳게 말아쥔 두 자루의 곡도가"
+      "quote": "궁성이 굳게 말아쥔 두 자루의 곡도가",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Clear, brightly shining eyes",
+      "chapter": 1141,
+      "quote": "선명하게 빛나는 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "skin",
       "kind": "base",
       "fact": "Transparent, pale skin",
       "chapter": 1178,
-      "quote": "투명한 피부와 달리"
+      "quote": "투명한 피부와 달리",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "hands",
       "kind": "base",
       "fact": "Fingers hard as steel and calloused",
       "chapter": 1178,
-      "quote": "강철처럼 단단하고 못 박힌 손가락이"
+      "quote": "강철처럼 단단하고 못 박힌 손가락이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "hands",
+      "kind": "base",
+      "fact": "Fingers hard as steel and calloused",
+      "chapter": 1178,
+      "quote": "강철처럼 단단하고 못 박힌 손가락",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [
+    2
+  ],
+  "judgments": {
+    "926|그녀의반달처럼휘어진눈매가,그안에숨어있는눈동자가깊게가라앉아있었다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Describes Bow Saint's half-moon-curved eyes with deep-set, sunken pupils in present scene; ordinary description."
+    },
+    "926|그녀의반달처럼휘어진눈매가": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "궁성's eyes described as curved like half-moons (반달처럼 휘어진 눈매); literal present, ordinary."
+    },
+    "928|어느덧가늘어져있던궁성의눈매가보름달처럼휘었다.": {
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Eyes curving like a full moon is a simile for a smiling expression, a one-scene state, not a fixed eye shape; narrowed eyes are a momentary expression."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "eyes",
+      "indices": [
+        0,
+        1
+      ],
+      "kept": [
+        1
+      ],
+      "resolved": true,
+      "reason": "Both give half-moon eyes. Index 1 is the clean, repeated core of the quote. Index 0 adds deep-set pupils, which sits poorly with the unflagged 'clear, brightly shining eyes' (8), so only the half-moon shape is kept."
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
       "start": 308,
-      "description": "Bow Saint is a woman with an imposing, giant-like presence, pale transparent skin, and fine, silky lustrous hair that flutters in the wind. Her eyes curve like half-moons with deep-set pupils. Her fingers are steel-hard and calloused, and she wields two curved sabers (gokdo) that join into a giant bow. Tags: female, imposing build, pale skin, silky hair, half-moon eyes, deep-set pupils, calloused hands, two curved sabers, giant bow",
+      "description": "Bow Saint is a giant-like, imposing woman with pale, almost transparent skin and fine, silky, lustrous hair that flutters in the wind. Her eyes curve like half-moons and shine clear and bright, and her fingers are steel-hard and calloused. She carries two curved sabers (gokdo) gripped tightly, which join into one giant bow. Tags: female, giant-like build, imposing presence, pale transparent skin, fine silky lustrous hair, half-moon eyes, clear bright eyes, calloused steel-hard fingers, two curved sabers, giant bow",
       "used": [
-        0,
         1,
-        2,
         3,
         4,
         5,
-        6
-      ]
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 308):** Bow Saint is a woman with an imposing, giant-like presence, pale transparent skin, and fine, silky lustrous hair that flutters in the wind. Her eyes curve like half-moons with deep-set pupils. Her fingers are steel-hard and calloused, and she wields two curved sabers (gokdo) that join into a giant bow. Tags: female, imposing build, pale skin, silky hair, half-moon eyes, deep-set pupils, calloused hands, two curved sabers, giant bow"
+    "- **Appearance (from ch 308):** Bow Saint is a giant-like, imposing woman with pale, almost transparent skin and fine, silky, lustrous hair that flutters in the wind. Her eyes curve like half-moons and shine clear and bright, and her fingers are steel-hard and calloused. She carries two curved sabers (gokdo) gripped tightly, which join into one giant bow. Tags: female, giant-like build, imposing presence, pale transparent skin, fine silky lustrous hair, half-moon eyes, clear bright eyes, calloused steel-hard fingers, two curved sabers, giant bow"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0193963
+      "cost_usd": 0.0186634
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018664299999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0192523
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.022383099999999996
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0193379
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0205842
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.015496200000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.020362
+      "cost_usd": 0.0305583
     }
   ]
 }

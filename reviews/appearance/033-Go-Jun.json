@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 33,
   "english": "Go Jun",
   "profile": "characters/Go Jun.md",
@@ -9,310 +9,275 @@
   ],
   "chapter_count": 70,
   "first_chapter": 285,
-  "safe_through": 795,
-  "passages": [
-    [
-      286,
-      107
-    ],
-    [
-      286,
-      52
-    ],
-    [
-      287,
-      102
-    ],
-    [
-      287,
-      29
-    ],
-    [
-      287,
-      51
-    ],
-    [
-      287,
-      58
-    ],
-    [
-      300,
-      54
-    ],
-    [
-      301,
-      59
-    ],
-    [
-      301,
-      57
-    ],
-    [
-      301,
-      58
-    ],
-    [
-      301,
-      53
-    ],
-    [
-      301,
-      48
-    ],
-    [
-      305,
-      39
-    ],
-    [
-      405,
-      140
-    ],
-    [
-      441,
-      32
-    ],
-    [
-      441,
-      48
-    ],
-    [
-      441,
-      69
-    ],
-    [
-      554,
-      48
-    ],
-    [
-      555,
-      51
-    ],
-    [
-      563,
-      56
-    ],
-    [
-      564,
-      64
-    ],
-    [
-      566,
-      62
-    ],
-    [
-      567,
-      44
-    ],
-    [
-      567,
-      53
-    ],
-    [
-      567,
-      57
-    ],
-    [
-      568,
-      121
-    ],
-    [
-      568,
-      36
-    ],
-    [
-      569,
-      62
-    ],
-    [
-      580,
-      67
-    ],
-    [
-      580,
-      116
-    ],
-    [
-      580,
-      50
-    ],
-    [
-      580,
-      68
-    ],
-    [
-      587,
-      61
-    ],
-    [
-      587,
-      72
-    ],
-    [
-      587,
-      124
-    ],
-    [
-      592,
-      58
-    ],
-    [
-      592,
-      50
-    ],
-    [
-      593,
-      88
-    ],
-    [
-      593,
-      53
-    ],
-    [
-      593,
-      39
-    ],
-    [
-      593,
-      51
-    ],
-    [
-      594,
-      69
-    ],
-    [
-      730,
-      74
-    ]
-  ],
+  "profile_safe_through": 795,
+  "passages": [],
   "facts": [
+    {
+      "attribute": "age",
+      "fact": "Appears around his 40s despite being nearly seventy",
+      "chapter": 286,
+      "quote": "칠순이 되어가는 나이임에도 40대로 보일 만큼 젊은 외모.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Literal description of Go Jun's youthful look for his age; ongoing state, not a change in this scene."
+      },
+      "status": "kept"
+    },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Expressionless, stiff face",
       "chapter": 287,
-      "quote": "안 그래도 무표정한 석고준의 얼굴이 딱딱하게 굳었다."
+      "quote": "안 그래도 무표정한 석고준의 얼굴이 딱딱하게 굳었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Chin/jaw is extremely hard, harder than rebar",
+      "chapter": 288,
+      "quote": "철근보다 단단하더군요",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "change",
       "fact": "Eyes sunken and dark/gloomy after his defeat (lasting change)",
       "chapter": 405,
-      "quote": "깊게 가라앉은 어두컴컴한 안광과 메마른 목소리."
+      "quote": "깊게 가라앉은 어두컴컴한 안광과 메마른 목소리.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Darker gaze and gloomier impression after defeat; a mood/demeanor shift, not a drastic physical change."
+      },
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Stiff, hard-looking impression that became gloomier after his defeat",
       "chapter": 405,
-      "quote": "진태경에게 패배한 후 안 그래도 딱딱하던 인상이 더 음울해졌다면 수군거렸지만"
+      "quote": "진태경에게 패배한 후 안 그래도 딱딱하던 인상이 더 음울해졌다면 수군거렸지만",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Has red eyes",
       "chapter": 555,
-      "quote": "석고준의 붉은 눈동자에"
+      "quote": "석고준의 붉은 눈동자에",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Red eyes reflecting the politician; plain present description, no change shown."
+      },
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears to be a young man in his 30s",
       "chapter": 564,
-      "quote": "30대의 새파란 청년"
+      "quote": "30대의 새파란 청년",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Go Jun described as a young man in his 30s taking over the guild; ordinary description, no change."
+      },
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Has a square, angular jaw",
       "chapter": 568,
-      "quote": "각진 턱을 타고 흘러내리고"
+      "quote": "각진 턱을 타고 흘러내리고",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "accessory",
       "kind": "base",
       "fact": "Habitually wears an old, worn necklace around his neck",
       "chapter": 580,
-      "quote": "목에 걸린 낡은 목걸이를 어루만지는"
+      "quote": "목에 걸린 낡은 목걸이를 어루만지는",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Has red eyes",
       "chapter": 587,
-      "quote": "석고준의 붉은 눈동자에 고스란히 비쳤다"
+      "quote": "석고준의 붉은 눈동자에 고스란히 비쳤다",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Red eyes reflecting Go Sewon; plain present description."
+      },
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Eyes are naturally red, deepening in colour",
       "chapter": 592,
-      "quote": "안 그래도 붉은 눈동자가 더욱 진하게 물들어 간다."
+      "quote": "안 그래도 붉은 눈동자가 더욱 진하게 물들어 간다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Eyes already red and deepen in colour in the moment (anger/power); a one-scene state, not a lasting change."
+      },
+      "status": "kept"
     },
     {
       "attribute": "aura",
       "kind": "base",
       "fact": "Emits red aura/energy",
       "chapter": 592,
-      "quote": "붉은 기운이 아지랑이처럼 일렁였다"
+      "quote": "붉은 기운이 아지랑이처럼 일렁였다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "armor",
       "kind": "base",
       "fact": "Wears a faintly red-glowing armor, the Fire Dragon Armor (Hwaryongap)",
       "chapter": 593,
-      "quote": "은은한 붉은 빛을 띤 갑옷. 화룡갑(火龍鉀)이 비쳤다."
+      "quote": "은은한 붉은 빛을 띤 갑옷. 화룡갑(火龍鉀)이 비쳤다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "286|칠순이되어가는나이임에도40대로보일만큼젊은외모.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Literal description of Go Jun's youthful look for his age; ongoing state, not a change in this scene."
+    },
+    "405|깊게가라앉은어두컴컴한안광과메마른목소리.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Darker gaze and gloomier impression after defeat; a mood/demeanor shift, not a drastic physical change."
+    },
+    "555|석고준의붉은눈동자에": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Red eyes reflecting the politician; plain present description, no change shown."
+    },
+    "564|30대의새파란청년": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Go Jun described as a young man in his 30s taking over the guild; ordinary description, no change."
+    },
+    "587|석고준의붉은눈동자에고스란히비쳤다": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Red eyes reflecting Go Sewon; plain present description."
+    },
+    "592|안그래도붉은눈동자가더욱진하게물들어간다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Eyes already red and deepen in colour in the moment (anger/power); a one-scene state, not a lasting change."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "apparent age",
+      "indices": [
+        0,
+        6
+      ],
+      "kept": [
+        0
+      ],
+      "resolved": false,
+      "reason": "Each side has a single mention (40s in ch286, 30s in ch564), so the evidence is about equal. Kept the earlier quote."
+    },
+    {
+      "attribute": "eye appearance",
+      "indices": [
+        3,
+        5,
+        9,
+        10
+      ],
+      "kept": [
+        5,
+        9,
+        10
+      ],
+      "resolved": true,
+      "reason": "Red eyes are repeated in three chapters and called natural. The sunken, dark gaze is a single mention."
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
       "start": 285,
-      "description": "Go Jun is a stiff-faced man who appears to be in his 30s, with an expressionless, hard-looking face and a square, angular jaw. He has red eyes and a faint red aura shimmering around him, wears the faintly red-glowing Fire Dragon Armor (Hwaryongap), and an old, worn necklace hangs around his neck. Tags: male, 30s, young man, red eyes, square jaw, expressionless, stiff face, red aura, Fire Dragon Armor, glowing red armor, worn necklace",
+      "description": "Go Jun is a man who looks about forty, with a stiff, expressionless face and a square, angular, rock-hard jaw. His eyes are red. He habitually wears an old, worn necklace and a faintly red-glowing armor, the Fire Dragon Armor (Hwaryongap), and a red aura shimmers like heat haze around him. Tags: male, appears 40s, expressionless, stiff face, square jaw, red eyes, old worn necklace, Fire Dragon Armor, faint red glow, red aura",
       "used": [
         0,
+        1,
         2,
-        3,
-        4,
         5,
-        6,
         7,
         8,
         9,
-        10
-      ]
+        10,
+        11,
+        12
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 285):** Go Jun is a stiff-faced man who appears to be in his 30s, with an expressionless, hard-looking face and a square, angular jaw. He has red eyes and a faint red aura shimmering around him, wears the faintly red-glowing Fire Dragon Armor (Hwaryongap), and an old, worn necklace hangs around his neck. Tags: male, 30s, young man, red eyes, square jaw, expressionless, stiff face, red aura, Fire Dragon Armor, glowing red armor, worn necklace"
+    "- **Appearance (from ch 285):** Go Jun is a man who looks about forty, with a stiff, expressionless face and a square, angular, rock-hard jaw. His eyes are red. He habitually wears an old, worn necklace and a faintly red-glowing armor, the Fire Dragon Armor (Hwaryongap), and a red aura shimmers like heat haze around him. Tags: male, appears 40s, expressionless, stiff face, square jaw, red eyes, old worn necklace, Fire Dragon Armor, faint red glow, red aura"
+  ],
+  "omitted": [
+    {
+      "index": 4,
+      "reason": "The 'gloomier after defeat' impression is an event-driven change, and it is not flagged APPROVED-CHANGE. The stiff, hard face is already covered by fact 1."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0191221
+      "cost_usd": 0.017781500000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0198322
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0188382
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0233755
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0208763
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0176987
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.021332699999999996
+      "cost_usd": 0.031225799999999998
     }
   ]
 }

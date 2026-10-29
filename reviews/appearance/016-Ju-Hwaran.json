@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 16,
   "english": "Ju Hwaran",
   "profile": "characters/Ju Hwaran.md",
@@ -8,285 +8,201 @@
   ],
   "chapter_count": 100,
   "first_chapter": 309,
-  "safe_through": 1191,
-  "passages": [
-    [
-      310,
-      43
-    ],
-    [
-      310,
-      32
-    ],
-    [
-      310,
-      57
-    ],
-    [
-      310,
-      51
-    ],
-    [
-      311,
-      106
-    ],
-    [
-      311,
-      43
-    ],
-    [
-      321,
-      111
-    ],
-    [
-      325,
-      47
-    ],
-    [
-      326,
-      53
-    ],
-    [
-      327,
-      91
-    ],
-    [
-      327,
-      31
-    ],
-    [
-      529,
-      93
-    ],
-    [
-      529,
-      50
-    ],
-    [
-      532,
-      69
-    ],
-    [
-      543,
-      43
-    ],
-    [
-      543,
-      23
-    ],
-    [
-      549,
-      85
-    ],
-    [
-      551,
-      32
-    ],
-    [
-      551,
-      31
-    ],
-    [
-      551,
-      46
-    ],
-    [
-      619,
-      78
-    ],
-    [
-      624,
-      49
-    ],
-    [
-      627,
-      22
-    ],
-    [
-      645,
-      54
-    ],
-    [
-      646,
-      121
-    ],
-    [
-      646,
-      50
-    ],
-    [
-      646,
-      62
-    ],
-    [
-      646,
-      121
-    ],
-    [
-      665,
-      128
-    ],
-    [
-      716,
-      62
-    ],
-    [
-      717,
-      86
-    ],
-    [
-      839,
-      69
-    ],
-    [
-      842,
-      50
-    ],
-    [
-      842,
-      81
-    ],
-    [
-      855,
-      134
-    ],
-    [
-      883,
-      76
-    ],
-    [
-      909,
-      60
-    ],
-    [
-      910,
-      39
-    ],
-    [
-      995,
-      104
-    ],
-    [
-      999,
-      183
-    ],
-    [
-      1000,
-      113
-    ],
-    [
-      1005,
-      55
-    ],
-    [
-      1015,
-      60
-    ],
-    [
-      1015,
-      36
-    ],
-    [
-      1015,
-      40
-    ],
-    [
-      1046,
-      88
-    ],
-    [
-      1138,
-      63
-    ],
-    [
-      1184,
-      99
-    ]
-  ],
+  "profile_safe_through": 1191,
+  "passages": [],
   "facts": [
+    {
+      "attribute": "face",
+      "fact": "Exceptionally beautiful appearance, known as one of the Three Flowers of Gangbuk",
+      "chapter": 309,
+      "quote": "강북삼화(江北三華)로 불릴 만큼 뛰어난 용모",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "clothing",
+      "fact": "Wears a face veil",
+      "chapter": 309,
+      "quote": "주화란(周和蘭)은 면사 아래로 입술을 질끈 깨물었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
     {
       "attribute": "eyebrows",
       "kind": "base",
       "fact": "Beautiful eyebrows, as if drawn with a brush",
       "chapter": 310,
-      "quote": "붓으로 그린 듯한 주화란의 아름다운 눈썹이"
+      "quote": "붓으로 그린 듯한 주화란의 아름다운 눈썹이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "weapon",
+      "fact": "Wields a flexible sword (yeongeom)",
+      "chapter": 310,
+      "quote": "그녀가 연검으로 막아 주지 않았다면",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Extraordinarily beautiful; beauty beyond simple description",
       "chapter": 311,
-      "quote": "단순히 예쁘다, 아름답다라는 말로는 주화란의 미모를 제대로 설명할 길이 없다."
+      "quote": "단순히 예쁘다, 아름답다라는 말로는 주화란의 미모를 제대로 설명할 길이 없다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Large black eyes",
+      "chapter": 312,
+      "quote": "큼지막한 검은 눈동자에서는 동공 지진이 일어나는 중이다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Ju Hwaran's large black eyes, shown reacting in shock; ordinary description."
+      },
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Beautiful face with a cold impression",
       "chapter": 327,
-      "quote": "검을 늘어트린 주화란은 아름다웠고, 한편으로는 차가웠다."
+      "quote": "검을 늘어트린 주화란은 아름다웠고, 한편으로는 차가웠다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Carries a sword",
       "chapter": 327,
-      "quote": "검을 늘어트린 주화란은 아름다웠고"
+      "quote": "검을 늘어트린 주화란은 아름다웠고",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Strikingly beautiful even without any makeup",
       "chapter": 529,
-      "quote": "다른 여인들과 달리 화장기 하나 없는 얼굴임에도 뭐라 형용할 수 없을 만한 아름다움이 흘러나왔고"
+      "quote": "다른 여인들과 달리 화장기 하나 없는 얼굴임에도 뭐라 형용할 수 없을 만한 아름다움이 흘러나왔고",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "clothing",
       "kind": "base",
       "fact": "Wears a plain, single-colored martial outfit",
       "chapter": 529,
-      "quote": "그녀가 걸친 단조로운 색의 무복은 화려한 궁장보다 기품 있어 보였다"
+      "quote": "그녀가 걸친 단조로운 색의 무복은 화려한 궁장보다 기품 있어 보였다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Clear, transparent eyes",
       "chapter": 543,
-      "quote": "투명한 눈동자로 나를 응시했다"
+      "quote": "투명한 눈동자로 나를 응시했다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Dark blue (blue-black) eyes with a mysterious sheen",
       "chapter": 549,
-      "quote": "신비한 빛을 띤 검푸른 눈동자"
+      "quote": "신비한 빛을 띤 검푸른 눈동자",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Ju Hwaran's dark blue eyes with a mysterious sheen, seen up close; ordinary description, no lasting change."
+      },
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Pretty like a flower",
       "chapter": 665,
-      "quote": "꽃처럼 예쁜 주화란"
+      "quote": "꽃처럼 예쁜 주화란",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Eyes curve like half-moons when smiling",
       "chapter": 717,
-      "quote": "반달처럼 휘어진 그녀의 눈매"
+      "quote": "반달처럼 휘어진 그녀의 눈매",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Carries a sword in a scabbard at her waist",
       "chapter": 842,
-      "quote": "허리춤에 찬 검집을 만지작거리는"
+      "quote": "허리춤에 찬 검집을 만지작거리는",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "312|큼지막한검은눈동자에서는동공지진이일어나는중이다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Ju Hwaran's large black eyes, shown reacting in shock; ordinary description."
+    },
+    "549|신비한빛을띤검푸른눈동자": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Ju Hwaran's dark blue eyes with a mysterious sheen, seen up close; ordinary description, no lasting change."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "eye colour",
+      "indices": [
+        5,
+        11
+      ],
+      "kept": [
+        5
+      ],
+      "resolved": false,
+      "reason": "Black (ch312, earlier, clear) vs blue-black (ch549, single mention). Both are one fact each and close in value. Kept the earlier black."
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
       "start": 309,
-      "description": "Ju Hwaran is a strikingly beautiful woman with an elegant yet cold face, bare of any makeup, and eyebrows that look brush-drawn. Her clear, dark blue (blue-black) eyes have a mysterious sheen and curve like half-moons when she smiles. She wears a plain, single-colored martial outfit and carries a sword in a scabbard at her waist. Tags: female, beautiful, cold impression, brush-like eyebrows, dark blue eyes, clear eyes, half-moon smile eyes, no makeup, plain martial outfit, single color clothing, sword, scabbard at waist",
+      "description": "Ju Hwaran is an exceptionally beautiful woman with a cold, elegant face. She has brush-drawn-looking eyebrows and large, clear black eyes that curve like half-moons when she smiles. She wears a face veil and a plain single-colored martial outfit, with a flexible sword (yeongeom) and a sword in a scabbard at her waist. Tags: female, strikingly beautiful, cold impression, no makeup, brush-like eyebrows, large clear black eyes, half-moon smiling eyes, face veil, plain single-color martial outfit, flexible sword, scabbard at waist",
       "used": [
         0,
         1,
@@ -298,41 +214,26 @@
         7,
         8,
         9,
-        10
-      ]
+        10,
+        12,
+        13,
+        14
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 309):** Ju Hwaran is a strikingly beautiful woman with an elegant yet cold face, bare of any makeup, and eyebrows that look brush-drawn. Her clear, dark blue (blue-black) eyes have a mysterious sheen and curve like half-moons when she smiles. She wears a plain, single-colored martial outfit and carries a sword in a scabbard at her waist. Tags: female, beautiful, cold impression, brush-like eyebrows, dark blue eyes, clear eyes, half-moon smile eyes, no makeup, plain martial outfit, single color clothing, sword, scabbard at waist"
+    "- **Appearance (from ch 309):** Ju Hwaran is an exceptionally beautiful woman with a cold, elegant face. She has brush-drawn-looking eyebrows and large, clear black eyes that curve like half-moons when she smiles. She wears a face veil and a plain single-colored martial outfit, with a flexible sword (yeongeom) and a sword in a scabbard at her waist. Tags: female, strikingly beautiful, cold impression, no makeup, brush-like eyebrows, large clear black eyes, half-moon smiling eyes, face veil, plain single-color martial outfit, flexible sword, scabbard at waist"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.020239500000000004
+      "cost_usd": 0.0202246
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0223275
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018664299999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.020315899999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0234996
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018534600000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.021782799999999998
+      "cost_usd": 0.031410900000000005
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 10,
   "english": "Lord of Heaven",
   "profile": "characters/Lord of Heaven.md",
@@ -9,183 +9,56 @@
   "chapter_count": 121,
   "first_chapter": 260,
   "profile_safe_through": 1175,
-  "passages": [
-    [
-      353,
-      38
-    ],
-    [
-      354,
-      82
-    ],
-    [
-      485,
-      78
-    ],
-    [
-      523,
-      96
-    ],
-    [
-      614,
-      85
-    ],
-    [
-      614,
-      83
-    ],
-    [
-      614,
-      77
-    ],
-    [
-      695,
-      46
-    ],
-    [
-      697,
-      59
-    ],
-    [
-      701,
-      110
-    ],
-    [
-      707,
-      51
-    ],
-    [
-      724,
-      123
-    ],
-    [
-      891,
-      80
-    ],
-    [
-      903,
-      34
-    ],
-    [
-      914,
-      51
-    ],
-    [
-      989,
-      85
-    ],
-    [
-      1022,
-      64
-    ],
-    [
-      1034,
-      71
-    ],
-    [
-      1034,
-      88
-    ],
-    [
-      1034,
-      99
-    ],
-    [
-      1034,
-      108
-    ],
-    [
-      1054,
-      59
-    ],
-    [
-      1054,
-      90
-    ],
-    [
-      1077,
-      109
-    ],
-    [
-      1078,
-      75
-    ],
-    [
-      1088,
-      51
-    ],
-    [
-      1096,
-      64
-    ],
-    [
-      1096,
-      101
-    ],
-    [
-      1104,
-      49
-    ],
-    [
-      1115,
-      65
-    ],
-    [
-      1115,
-      72
-    ],
-    [
-      1127,
-      112
-    ],
-    [
-      1127,
-      134
-    ],
-    [
-      1136,
-      58
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Blazing, burning eyes (identity of the 'owner' of the burning eyes is ambiguous, likely another person)",
       "chapter": 1127,
-      "quote": "타오르는 눈동자의 주인을"
+      "quote": "타오르는 눈동자의 주인을",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Has blazing, burning eyes",
+      "chapter": 1127,
+      "quote": "저 타오르는 눈동자의 주인을",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {},
+  "conflicts": [],
+  "unused": [],
   "ranges": [],
   "lines": [
     "- **Appearance:** not described"
   ],
+  "omitted": [
+    {
+      "index": 0,
+      "reason": "Fact itself says the owner of the burning eyes is ambiguous and likely another person. The quote ('the owner of those burning eyes') points to a third party, so it is not a reliable trait for Lord of Heaven."
+    },
+    {
+      "index": 1,
+      "reason": "Same quote as fact 0 ('저 타오르는 눈동자의 주인을', 'the owner of those burning eyes'). It refers to someone else, so attributing the eyes to Lord of Heaven is unsupported."
+    }
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0159121
+      "cost_usd": 0.0100389
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.015820499999999998
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.020745499999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0193136
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.018361999999999996
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.017565100000000004
+      "cost_usd": 0.0246338
     }
-  ],
-  "note": "Manual: single fact (ch 1127, 'owner of the burning eyes') is ambiguous about whose eyes; not usable"
+  ]
 }

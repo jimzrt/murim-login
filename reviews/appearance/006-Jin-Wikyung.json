@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 6,
   "english": "Jin Wikyung",
   "profile": "characters/Jin Wikyung.md",
@@ -8,357 +8,199 @@
   ],
   "chapter_count": 160,
   "first_chapter": 6,
-  "safe_through": 1183,
-  "passages": [
-    [
-      8,
-      62
-    ],
-    [
-      17,
-      76
-    ],
-    [
-      17,
-      82
-    ],
-    [
-      21,
-      55
-    ],
-    [
-      21,
-      85
-    ],
-    [
-      22,
-      58
-    ],
-    [
-      28,
-      58
-    ],
-    [
-      34,
-      19
-    ],
-    [
-      34,
-      28
-    ],
-    [
-      34,
-      30
-    ],
-    [
-      58,
-      38
-    ],
-    [
-      59,
-      71
-    ],
-    [
-      61,
-      83
-    ],
-    [
-      62,
-      41
-    ],
-    [
-      68,
-      53
-    ],
-    [
-      69,
-      71
-    ],
-    [
-      69,
-      31
-    ],
-    [
-      69,
-      24
-    ],
-    [
-      72,
-      66
-    ],
-    [
-      104,
-      67
-    ],
-    [
-      126,
-      53
-    ],
-    [
-      147,
-      41
-    ],
-    [
-      147,
-      27
-    ],
-    [
-      182,
-      55
-    ],
-    [
-      182,
-      118
-    ],
-    [
-      187,
-      62
-    ],
-    [
-      187,
-      69
-    ],
-    [
-      187,
-      75
-    ],
-    [
-      192,
-      84
-    ],
-    [
-      193,
-      67
-    ],
-    [
-      194,
-      28
-    ],
-    [
-      194,
-      17
-    ],
-    [
-      197,
-      33
-    ],
-    [
-      198,
-      88
-    ],
-    [
-      198,
-      29
-    ],
-    [
-      308,
-      39
-    ],
-    [
-      308,
-      28
-    ],
-    [
-      374,
-      46
-    ],
-    [
-      374,
-      38
-    ],
-    [
-      375,
-      135
-    ],
-    [
-      375,
-      42
-    ],
-    [
-      443,
-      84
-    ],
-    [
-      499,
-      38
-    ],
-    [
-      500,
-      50
-    ],
-    [
-      500,
-      42
-    ],
-    [
-      500,
-      41
-    ],
-    [
-      501,
-      34
-    ],
-    [
-      949,
-      28
-    ],
-    [
-      953,
-      58
-    ],
-    [
-      964,
-      77
-    ],
-    [
-      964,
-      58
-    ],
-    [
-      982,
-      54
-    ],
-    [
-      982,
-      71
-    ],
-    [
-      985,
-      129
-    ],
-    [
-      997,
-      60
-    ],
-    [
-      997,
-      67
-    ]
-  ],
+  "profile_safe_through": 1183,
+  "passages": [],
   "facts": [
+    {
+      "attribute": "age",
+      "fact": "Apparent age is thirty-five",
+      "chapter": 6,
+      "quote": "올해 서른다섯이 된 진위경이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "fact": "Has a bulky, bear-like physique",
+      "chapter": 10,
+      "quote": "불곰 같은 덩치에 근엄한 말투",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Eyes look dim, as if about to go out",
+      "chapter": 21,
+      "quote": "꺼질 듯한 눈동자로",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Giant-sized, very tall and large man",
       "chapter": 28,
-      "quote": "진위경 같은 거인도"
+      "quote": "진위경 같은 거인도",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "change",
       "fact": "Face covered with sword scars (this appears to describe another person, possibly the first elder; uncertain)",
       "chapter": 58,
-      "quote": "얼굴 가득한 칼자국과 핏발 선 눈동자."
+      "quote": "얼굴 가득한 칼자국과 핏발 선 눈동자.",
+      "marker": false,
+      "verdict": {
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Scarred face belongs to the unknown 'macho man' the narrator holds, not Jin Wikyung (narrator expected to have saved Wikyung but got a different person). No lasting change shown for Wikyung."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Has a huge, large build; a young man with a giant frame is said to resemble him",
       "chapter": 182,
-      "quote": "흡사 진위경을 연상시키는 거대한 덩치의 청년"
+      "quote": "흡사 진위경을 연상시키는 거대한 덩치의 청년",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Has a large, sturdy frame, reminiscent of Cheol-u",
       "chapter": 182,
-      "quote": "철우를 연상시키는 친숙한 덩치"
+      "quote": "철우를 연상시키는 친숙한 덩치",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Imposing, dignified bearing",
       "chapter": 187,
-      "quote": "당당한 풍채와 자연스럽게 흘러나오는 위엄이 좌중을 압도한다."
+      "quote": "당당한 풍채와 자연스럽게 흘러나오는 위엄이 좌중을 압도한다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "clothing",
       "kind": "base",
       "fact": "Wears martial robes embroidered with a silver flying dragon",
       "chapter": 187,
-      "quote": "은빛 비룡이 수놓아진 무복을 걸친 진위경"
+      "quote": "은빛 비룡이 수놓아진 무복을 걸친 진위경",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Enormous, hulking big man",
       "chapter": 197,
-      "quote": "엄청난 덩치의 거한, 진위경이었다"
+      "quote": "엄청난 덩치의 거한, 진위경이었다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build/height",
       "kind": "base",
       "fact": "Tall even by modern standards; considered a giant in the martial world",
       "chapter": 443,
-      "quote": "진위경은 현대의 관점에서 봐도 장신이지만, 무림에서는 거인으로 통한다."
+      "quote": "진위경은 현대의 관점에서 봐도 장신이지만, 무림에서는 거인으로 통한다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Broad, massive shoulders and prominent muscles visible through clothing",
       "chapter": 443,
-      "quote": "우랄산맥 같은 어깨와 의복 위로 도드라진 근육을"
+      "quote": "우랄산맥 같은 어깨와 의복 위로 도드라진 근육을",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Not clearly stated; passage describes old carpenter's eyes, not his",
       "chapter": 953,
-      "quote": "회백색 눈동자"
+      "quote": "회백색 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [
+    4
+  ],
+  "judgments": {
+    "58|얼굴가득한칼자국과핏발선눈동자.": {
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Scarred face belongs to the unknown 'macho man' the narrator holds, not Jin Wikyung (narrator expected to have saved Wikyung but got a different person). No lasting change shown for Wikyung."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 6,
-      "description": "Jin Wikyung is a giant of a man, very tall even by modern standards, with an enormous hulking frame. He has broad, massive shoulders and prominent muscles that show through his clothing. He carries himself with an imposing, dignified bearing and wears martial robes embroidered with a silver flying dragon. Tags: male, giant, very tall, hulking build, broad shoulders, muscular, imposing presence, martial robes, silver flying dragon embroidery",
+      "description": "Jin Wikyung is a man of about thirty-five, a towering giant with a bulky, bear-like build and broad, massive shoulders, with prominent muscles showing through his clothes. He has an imposing, dignified bearing, and his eyes look dim, as if about to go out. He wears martial robes embroidered with a silver flying dragon. Tags: male, age 35, giant, very tall, bulky bear-like build, broad massive shoulders, visible muscles, imposing dignified bearing, dim eyes, martial robes, silver flying dragon embroidery",
       "used": [
         0,
+        1,
         2,
         3,
-        4,
-        5,
-        6,
         7,
-        8
-      ]
+        8,
+        9,
+        10,
+        11
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 6):** Jin Wikyung is a giant of a man, very tall even by modern standards, with an enormous hulking frame. He has broad, massive shoulders and prominent muscles that show through his clothing. He carries himself with an imposing, dignified bearing and wears martial robes embroidered with a silver flying dragon. Tags: male, giant, very tall, hulking build, broad shoulders, muscular, imposing presence, martial robes, silver flying dragon embroidery"
+    "- **Appearance (from ch 6):** Jin Wikyung is a man of about thirty-five, a towering giant with a bulky, bear-like build and broad, massive shoulders, with prominent muscles showing through his clothes. He has an imposing, dignified bearing, and his eyes look dim, as if about to go out. He wears martial robes embroidered with a silver flying dragon. Tags: male, age 35, giant, very tall, bulky bear-like build, broad massive shoulders, visible muscles, imposing dignified bearing, dim eyes, martial robes, silver flying dragon embroidery"
+  ],
+  "omitted": [
+    {
+      "index": 5,
+      "reason": "Describes a different person (a young man who resembles him); the build is already covered by other facts."
+    },
+    {
+      "index": 6,
+      "reason": "Describes a resemblance to Cheol-u, so it is indirect and ambiguous about whom it describes; the build is already covered."
+    },
+    {
+      "index": 12,
+      "reason": "The passage describes the old carpenter's eyes, not his, so it gives no trait for him."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.023772400000000003
+      "cost_usd": 0.0146125
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0192052
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0206165
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0209396
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0138789
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0191262
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.020785200000000004
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.023265
+      "cost_usd": 0.028535200000000004
     }
   ]
 }

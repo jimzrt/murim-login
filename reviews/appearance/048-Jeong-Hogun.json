@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 48,
   "english": "Jeong Hogun",
   "profile": "characters/Jeong Hogun.md",
@@ -8,210 +8,73 @@
   ],
   "chapter_count": 45,
   "first_chapter": 858,
-  "safe_through": 1182,
-  "passages": [
-    [
-      859,
-      41
-    ],
-    [
-      861,
-      100
-    ],
-    [
-      864,
-      62
-    ],
-    [
-      864,
-      37
-    ],
-    [
-      864,
-      33
-    ],
-    [
-      869,
-      44
-    ],
-    [
-      869,
-      48
-    ],
-    [
-      869,
-      114
-    ],
-    [
-      869,
-      111
-    ],
-    [
-      880,
-      93
-    ],
-    [
-      880,
-      33
-    ],
-    [
-      883,
-      50
-    ],
-    [
-      884,
-      142
-    ],
-    [
-      884,
-      21
-    ],
-    [
-      884,
-      26
-    ],
-    [
-      890,
-      194
-    ],
-    [
-      915,
-      128
-    ],
-    [
-      929,
-      52
-    ],
-    [
-      933,
-      105
-    ],
-    [
-      933,
-      50
-    ],
-    [
-      941,
-      55
-    ],
-    [
-      983,
-      14
-    ],
-    [
-      983,
-      74
-    ],
-    [
-      983,
-      35
-    ],
-    [
-      983,
-      72
-    ],
-    [
-      983,
-      87
-    ],
-    [
-      983,
-      45
-    ],
-    [
-      983,
-      91
-    ],
-    [
-      1067,
-      41
-    ],
-    [
-      1067,
-      94
-    ],
-    [
-      1067,
-      24
-    ],
-    [
-      1069,
-      52
-    ],
-    [
-      1070,
-      34
-    ],
-    [
-      1074,
-      67
-    ],
-    [
-      1074,
-      82
-    ]
-  ],
+  "profile_safe_through": 1182,
+  "passages": [],
   "facts": [
     {
       "attribute": "clothing",
       "kind": "base",
       "fact": "Wears splendid brocade imperial robes and armor as leader of the Imperial Guard (Geumuiwi)",
       "chapter": 861,
-      "quote": "그 이름에 어울리는 눈부신 금의(錦衣)와 갑옷을 걸쳤고"
+      "quote": "그 이름에 어울리는 눈부신 금의(錦衣)와 갑옷을 걸쳤고",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age/build",
       "kind": "base",
       "fact": "Face looks about twenty (early adult) — tentative",
       "chapter": 983,
-      "quote": "이제 겨우 약관이나 되었을 법한 용모의 청년이었다"
+      "quote": "이제 겨우 약관이나 되었을 법한 용모의 청년이었다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Eyes are deeply sunken/calm (not a lasting trait)",
       "chapter": 1067,
-      "quote": "정호군의 눈동자가 깊게 가라앉았다"
+      "quote": "정호군의 눈동자가 깊게 가라앉았다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {},
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 858,
-      "description": "Jeong Hogun is a young man whose face looks about twenty, early adult. He wears splendid brocade imperial robes with armor as leader of the Imperial Guard (Geumuiwi). Tags: male, early twenties look, youthful face, brocade imperial robes, armor, Imperial Guard, Geumuiwi",
+      "description": "Jeong Hogun is a young man whose face looks about twenty, early adult. Wears splendid brocade imperial robes with armor, the dress of the Imperial Guard (Geumuiwi) leader. Tags: male, early twenties, youthful face, brocade imperial robes, ornate armor, Imperial Guard commander",
       "used": [
         0,
         1
-      ]
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 858):** Jeong Hogun is a young man whose face looks about twenty, early adult. He wears splendid brocade imperial robes with armor as leader of the Imperial Guard (Geumuiwi). Tags: male, early twenties look, youthful face, brocade imperial robes, armor, Imperial Guard, Geumuiwi"
+    "- **Appearance (from ch 858):** Jeong Hogun is a young man whose face looks about twenty, early adult. Wears splendid brocade imperial robes with armor, the dress of the Imperial Guard (Geumuiwi) leader. Tags: male, early twenties, youthful face, brocade imperial robes, ornate armor, Imperial Guard commander"
+  ],
+  "omitted": [
+    {
+      "index": 2,
+      "reason": "Transient reaction/expression (eyes sinking calm), flagged not a lasting trait; not a stable look and no APPROVED-CHANGE"
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.019274799999999998
+      "cost_usd": 0.015602
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018827200000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.021487
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0195033
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0162642
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0191993
+      "cost_usd": 0.0188317
     }
   ]
 }

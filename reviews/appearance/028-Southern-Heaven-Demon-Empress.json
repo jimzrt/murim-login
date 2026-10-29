@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 28,
   "english": "Southern Heaven Demon Empress",
   "profile": "characters/Southern Heaven Demon Empress.md",
@@ -9,232 +9,194 @@
   "chapter_count": 77,
   "first_chapter": 482,
   "profile_safe_through": 1025,
-  "passages": [
-    [
-      483,
-      44
-    ],
-    [
-      483,
-      47
-    ],
-    [
-      483,
-      48
-    ],
-    [
-      483,
-      78
-    ],
-    [
-      548,
-      81
-    ],
-    [
-      619,
-      78
-    ],
-    [
-      619,
-      62
-    ],
-    [
-      636,
-      56
-    ],
-    [
-      674,
-      42
-    ],
-    [
-      674,
-      109
-    ],
-    [
-      674,
-      69
-    ],
-    [
-      674,
-      50
-    ],
-    [
-      674,
-      66
-    ],
-    [
-      674,
-      51
-    ],
-    [
-      678,
-      103
-    ],
-    [
-      688,
-      70
-    ],
-    [
-      697,
-      50
-    ],
-    [
-      697,
-      74
-    ],
-    [
-      697,
-      29
-    ],
-    [
-      697,
-      46
-    ],
-    [
-      697,
-      48
-    ],
-    [
-      698,
-      55
-    ],
-    [
-      701,
-      18
-    ],
-    [
-      702,
-      88
-    ],
-    [
-      702,
-      49
-    ],
-    [
-      703,
-      104
-    ],
-    [
-      704,
-      93
-    ],
-    [
-      705,
-      41
-    ],
-    [
-      705,
-      85
-    ],
-    [
-      711,
-      59
-    ],
-    [
-      713,
-      82
-    ],
-    [
-      781,
-      93
-    ],
-    [
-      888,
-      82
-    ],
-    [
-      977,
-      134
-    ]
-  ],
+  "passages": [],
   "facts": [
+    {
+      "attribute": "face",
+      "fact": "Strikingly beautiful appearance, like a painting",
+      "chapter": 483,
+      "quote": "그 자체로 한 폭의 그림이나 다름없었다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Has a striking, gorgeous appearance",
       "chapter": 619,
-      "quote": "남천마후는 화려한 외모의 소유자"
+      "quote": "남천마후는 화려한 외모의 소유자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Her presence and looks are bewitchingly alluring, a captivating charm that draws people in.",
+      "chapter": 630,
+      "quote": "남천마후는 그 자체로 사람을 현혹하는 마력(魔力)을 지녔다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Cat-like eye shape",
       "chapter": 697,
-      "quote": "고양이 같은 눈매"
+      "quote": "고양이 같은 눈매",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Strikingly beautiful woman",
       "chapter": 697,
-      "quote": "괴물이라 칭하기에는 너무나도 아름다운 여인"
+      "quote": "괴물이라 칭하기에는 너무나도 아름다운 여인",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Cat-like eyes (upturned, feline shape)",
+      "chapter": 697,
+      "quote": "지상을 굽어보던 고양이 같은 눈매가 반달처럼 휘었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Extremely beautiful woman",
+      "chapter": 697,
+      "quote": "그곳에는 괴물이라 칭하기에는 너무나도 아름다운 여인이 흐트러진 궁장을 정돈하고 있었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "clothing",
+      "kind": "base",
+      "fact": "Wears a gungjang (court dress)",
+      "chapter": 697,
+      "quote": "흐트러진 궁장을 정돈하고 있었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "hair",
       "kind": "change",
       "fact": "Her hair was cut off by an opponent",
       "chapter": 702,
-      "quote": "귀중한 머리카락마저 자른"
+      "quote": "귀중한 머리카락마저 자른",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "She resents that opponent cut her precious hair, but the text gives no sign of a drastic lasting look change. Hair cut is a minor, stated fact."
+      },
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Has a beautiful face",
       "chapter": 702,
-      "quote": "남천마후의 아름다운 얼굴"
+      "quote": "남천마후의 아름다운 얼굴",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "hair",
+      "kind": "change",
+      "fact": "Hair was cut short by an opponent (lasting loss of hair length)",
+      "chapter": 702,
+      "quote": "귀중한 머리카락마저 자른 저 어린놈에게",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Hair was cut, but length isn't stated and it isn't a drastic transformation. Not a lasting-change event of the kind defined."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "fact": "She is described as having a beautiful body.",
+      "chapter": 702,
+      "quote": "자신의 아름다운 몸에 상처를 입힌",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "702|귀중한머리카락마저자른": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "She resents that opponent cut her precious hair, but the text gives no sign of a drastic lasting look change. Hair cut is a minor, stated fact."
+    },
+    "702|귀중한머리카락마저자른저어린놈에게": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Hair was cut, but length isn't stated and it isn't a drastic transformation. Not a lasting-change event of the kind defined."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 482,
-      "description": "Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, glamorous face and cat-like eyes. Her hair is long, and she has an elegant, eye-catching look. Tags: female, strikingly beautiful, gorgeous face, cat-like eyes, long hair",
-      "used": [
-        0,
-        1,
-        2
-      ]
-    },
-    {
-      "start": 702,
-      "description": "Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, glamorous face and cat-like eyes. Her hair has been cut short, but her face remains beautiful. Tags: female, strikingly beautiful, beautiful face, cat-like eyes, cut-off short hair",
+      "description": "Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, painting-like face and a bewitchingly alluring look. She has upturned, cat-like eyes and a beautiful body. She wears a gungjang (Korean court dress). Tags: female, strikingly beautiful, gorgeous face, alluring, cat-like eyes, upturned eyes, beautiful body, gungjang, court dress",
       "used": [
         0,
         1,
         2,
         3,
-        4
-      ]
+        4,
+        5,
+        6,
+        7,
+        9,
+        11
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (ch 482–701):** Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, glamorous face and cat-like eyes. Her hair is long, and she has an elegant, eye-catching look. Tags: female, strikingly beautiful, gorgeous face, cat-like eyes, long hair",
-    "- **Appearance (from ch 702):** Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, glamorous face and cat-like eyes. Her hair has been cut short, but her face remains beautiful. Tags: female, strikingly beautiful, beautiful face, cat-like eyes, cut-off short hair"
+    "- **Appearance (from ch 482):** Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, painting-like face and a bewitchingly alluring look. She has upturned, cat-like eyes and a beautiful body. She wears a gungjang (Korean court dress). Tags: female, strikingly beautiful, gorgeous face, alluring, cat-like eyes, upturned eyes, beautiful body, gungjang, court dress"
+  ],
+  "omitted": [
+    {
+      "index": 8,
+      "reason": "Hair being cut off is an event/injury and not APPROVED-CHANGE, so it is left out."
+    },
+    {
+      "index": 10,
+      "reason": "Hair cut short by an opponent is an event and not APPROVED-CHANGE, so it is left out. It duplicates fact 8."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0211995
+      "cost_usd": 0.0174363
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019557299999999996
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.024376199999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0227971
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0165482
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.022239
+      "cost_usd": 0.0259328
     }
   ]
 }

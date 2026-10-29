@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 30,
   "english": "Martial God",
   "profile": "characters/Martial God.md",
@@ -8,126 +8,104 @@
   ],
   "chapter_count": 73,
   "first_chapter": 116,
-  "safe_through": 1178,
-  "passages": [
-    [
-      266,
-      46
-    ],
-    [
-      350,
-      27
-    ],
-    [
-      535,
-      19
-    ],
-    [
-      539,
-      101
-    ],
-    [
-      647,
-      161
-    ],
-    [
-      647,
-      111
-    ],
-    [
-      684,
-      56
-    ],
-    [
-      888,
-      64
-    ],
-    [
-      894,
-      61
-    ],
-    [
-      894,
-      84
-    ],
-    [
-      938,
-      25
-    ],
-    [
-      994,
-      56
-    ],
-    [
-      1141,
-      138
-    ],
-    [
-      1156,
-      52
-    ],
-    [
-      1166,
-      48
-    ],
-    [
-      1178,
-      56
-    ]
-  ],
+  "profile_safe_through": 1178,
+  "passages": [],
   "facts": [
     {
       "attribute": "beard",
       "kind": "base",
       "fact": "Had a immortal-like, pure white beard at first meeting (elderly appearance)",
       "chapter": 647,
-      "quote": "신선처럼 새하얀 수염을 휘날리던 그분"
+      "quote": "신선처럼 새하얀 수염을 휘날리던 그분",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Recalled past first meeting ~50 years ago, narrated as backstory by another character; not present-time look."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "apparent age",
       "kind": "change",
       "fact": "Later appeared as a young boy",
       "chapter": 647,
-      "quote": "앳된 소년의 모습을 하고 계셨지"
+      "quote": "앳된 소년의 모습을 하고 계셨지",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Recalled second meeting in a past story told by another character; backstory, not present-time scene."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears as an old man (the tutorial helper elder)",
       "chapter": 1166,
-      "quote": "튜토리얼 속 도우미 노인이자"
+      "quote": "튜토리얼 속 도우미 노인이자",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Identifies tutorial helper old man as Martial God; ordinary description, no change. Appearance is the elder form, though only mentioned in memory."
+      },
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [
+    0,
+    1
+  ],
+  "judgments": {
+    "647|신선처럼새하얀수염을휘날리던그분": {
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Recalled past first meeting ~50 years ago, narrated as backstory by another character; not present-time look."
+    },
+    "647|앳된소년의모습을하고계셨지": {
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Recalled second meeting in a past story told by another character; backstory, not present-time scene."
+    },
+    "1166|튜토리얼속도우미노인이자": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Identifies tutorial helper old man as Martial God; ordinary description, no change. Appearance is the elder form, though only mentioned in memory."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 116,
-      "description": "Martial God appears as an elderly man with a long, pure white, immortal-like beard flowing in the wind. Tags: male, old man, elderly, white beard, long beard, immortal sage look",
+      "description": "Martial God appears as an elderly man, an old man with an aged look. Tags: male, old man, elderly",
       "used": [
-        0,
         2
-      ]
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 116):** Martial God appears as an elderly man with a long, pure white, immortal-like beard flowing in the wind. Tags: male, old man, elderly, white beard, long beard, immortal sage look"
+    "- **Appearance (from ch 116):** Martial God appears as an elderly man, an old man with an aged look. Tags: male, old man, elderly"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.023125800000000002
+      "cost_usd": 0.015167300000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0230686
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0185713
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.022147
+      "cost_usd": 0.020803600000000002
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 46,
   "english": "Ma Sanbao",
   "profile": "characters/Ma Sanbao.md",
@@ -8,151 +8,130 @@
   ],
   "chapter_count": 47,
   "first_chapter": 866,
-  "safe_through": 1137,
-  "passages": [
-    [
-      866,
-      61
-    ],
-    [
-      866,
-      53
-    ],
-    [
-      866,
-      40
-    ],
-    [
-      870,
-      60
-    ],
-    [
-      870,
-      95
-    ],
-    [
-      871,
-      44
-    ],
-    [
-      890,
-      62
-    ],
-    [
-      890,
-      113
-    ],
-    [
-      892,
-      56
-    ],
-    [
-      893,
-      20
-    ],
-    [
-      895,
-      61
-    ],
-    [
-      895,
-      34
-    ],
-    [
-      895,
-      20
-    ],
-    [
-      895,
-      52
-    ],
-    [
-      896,
-      23
-    ],
-    [
-      901,
-      53
-    ],
-    [
-      906,
-      50
-    ],
-    [
-      906,
-      40
-    ],
-    [
-      907,
-      87
-    ],
-    [
-      908,
-      73
-    ],
-    [
-      909,
-      33
-    ],
-    [
-      931,
-      118
-    ],
-    [
-      931,
-      44
-    ],
-    [
-      1077,
-      80
-    ],
-    [
-      1077,
-      51
-    ],
-    [
-      1077,
-      109
-    ],
-    [
-      1077,
-      91
-    ],
-    [
-      1077,
-      126
-    ],
-    [
-      1134,
-      115
-    ],
-    [
-      1135,
-      36
-    ]
+  "profile_safe_through": 1137,
+  "passages": [],
+  "facts": [
+    {
+      "attribute": "eyes",
+      "fact": "Has eyes (pupils) in which another person's face is reflected; no colour or shape given, so not a distinguishing trait",
+      "chapter": 866,
+      "quote": "앞에 선 마삼보의 눈동자에 비친 내 얼굴은",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Eyes flash/gleam in the dark",
+      "chapter": 895,
+      "quote": "어둠 속에서 마삼보의 눈동자가 번뜩였다",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Ma Sanbao's eyes gleam in the dark; ordinary, momentary description."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Flames seem to burn within his eyes",
+      "chapter": 896,
+      "quote": "마삼보의 눈동자에 깃든 불꽃이 일렁이고 있었다",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Flame in Ma Sanbao's eyes flickers; a figurative-leaning, momentary emotional description, not a lasting change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Eyes shine fiercely/brilliantly",
+      "chapter": 896,
+      "quote": "마삼보의 눈동자가 형형하게 빛났다.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Ma Sanbao's eyes shine brilliantly as he speaks; momentary, no lasting change."
+      },
+      "status": "kept"
+    }
   ],
-  "facts": [],
   "dropped_facts": [],
-  "ranges": [],
+  "rejected": [],
+  "judgments": {
+    "895|어둠속에서마삼보의눈동자가번뜩였다": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Ma Sanbao's eyes gleam in the dark; ordinary, momentary description."
+    },
+    "896|마삼보의눈동자에깃든불꽃이일렁이고있었다": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Flame in Ma Sanbao's eyes flickers; a figurative-leaning, momentary emotional description, not a lasting change."
+    },
+    "896|마삼보의눈동자가형형하게빛났다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Ma Sanbao's eyes shine brilliantly as he speaks; momentary, no lasting change."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "eyes (luminous quality)",
+      "indices": [
+        1,
+        2,
+        3
+      ],
+      "kept": [
+        3
+      ],
+      "resolved": true,
+      "reason": "Kept the clearest direct description of the eyes themselves (ch896 'shone fiercely'). 1 is a momentary flash in the dark, and 2 is a metaphorical flame."
+    }
+  ],
+  "unused": [],
+  "ranges": [
+    {
+      "start": 866,
+      "description": "Ma Sanbao is a male character whose eyes shine fiercely and brilliantly. No other look details are given. Tags: male, fierce shining eyes, brilliant gaze",
+      "used": [
+        3
+      ],
+      "difference": ""
+    }
+  ],
   "lines": [
-    "- **Appearance:** not described"
+    "- **Appearance (from ch 866):** Ma Sanbao is a male character whose eyes shine fiercely and brilliantly. No other look details are given. Tags: male, fierce shining eyes, brilliant gaze"
+  ],
+  "omitted": [
+    {
+      "index": 0,
+      "reason": "Only says his pupils reflect a face. No colour or shape, so nothing visual to draw."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0180362
+      "cost_usd": 0.016384000000000003
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0127309
+      "cost_usd": 0.022159800000000004
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0205513
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0189664
+      "cost_usd": 0.0233484
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 1,
   "english": "Jin Taekyung",
   "profile": "characters/Jin Taekyung.md",
@@ -9,316 +9,230 @@
   "chapter_count": 791,
   "first_chapter": 1,
   "profile_safe_through": 1025,
-  "passages": [
-    [
-      3,
-      20
-    ],
-    [
-      6,
-      76
-    ],
-    [
-      15,
-      49
-    ],
-    [
-      25,
-      80
-    ],
-    [
-      55,
-      50
-    ],
-    [
-      63,
-      80
-    ],
-    [
-      70,
-      53
-    ],
-    [
-      166,
-      43
-    ],
-    [
-      175,
-      52
-    ],
-    [
-      190,
-      33
-    ],
-    [
-      200,
-      44
-    ],
-    [
-      201,
-      74
-    ],
-    [
-      202,
-      90
-    ],
-    [
-      209,
-      40
-    ],
-    [
-      300,
-      67
-    ],
-    [
-      301,
-      59
-    ],
-    [
-      319,
-      58
-    ],
-    [
-      357,
-      51
-    ],
-    [
-      364,
-      72
-    ],
-    [
-      412,
-      36
-    ],
-    [
-      431,
-      68
-    ],
-    [
-      455,
-      33
-    ],
-    [
-      476,
-      32
-    ],
-    [
-      541,
-      62
-    ],
-    [
-      548,
-      54
-    ],
-    [
-      549,
-      46
-    ],
-    [
-      573,
-      58
-    ],
-    [
-      579,
-      44
-    ],
-    [
-      596,
-      94
-    ],
-    [
-      628,
-      66
-    ],
-    [
-      629,
-      64
-    ],
-    [
-      645,
-      56
-    ],
-    [
-      680,
-      46
-    ],
-    [
-      702,
-      139
-    ],
-    [
-      712,
-      43
-    ],
-    [
-      766,
-      70
-    ],
-    [
-      779,
-      66
-    ],
-    [
-      785,
-      60
-    ],
-    [
-      805,
-      71
-    ],
-    [
-      812,
-      68
-    ],
-    [
-      821,
-      55
-    ],
-    [
-      836,
-      76
-    ],
-    [
-      920,
-      45
-    ],
-    [
-      923,
-      29
-    ],
-    [
-      962,
-      66
-    ],
-    [
-      963,
-      33
-    ],
-    [
-      971,
-      92
-    ],
-    [
-      1014,
-      60
-    ],
-    [
-      1028,
-      52
-    ],
-    [
-      1050,
-      40
-    ],
-    [
-      1053,
-      64
-    ],
-    [
-      1057,
-      41
-    ],
-    [
-      1075,
-      52
-    ],
-    [
-      1078,
-      56
-    ],
-    [
-      1081,
-      51
-    ],
-    [
-      1098,
-      67
-    ]
-  ],
+  "passages": [],
   "facts": [
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears as a young man (reflected in water)",
+      "chapter": 3,
+      "quote": "잔잔한 수면 위로 한 청년이 비친다.",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narrator sees own reflection as a young man; ordinary description, no change shown."
+      },
+      "status": "kept"
+    },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Sturdy, well-built frame",
       "chapter": 55,
-      "quote": "건장한 체구의 진태경"
+      "quote": "건장한 체구의 진태경",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Handsome face",
       "chapter": 63,
-      "quote": "이어 잘생긴 얼굴이 드러났다."
+      "quote": "이어 잘생긴 얼굴이 드러났다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Handsome face",
+      "chapter": 63,
+      "quote": "잘생긴 얼굴이 드러났다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears to be a young man",
       "chapter": 166,
-      "quote": "청년, 진태경이 활짝 웃었다."
+      "quote": "청년, 진태경이 활짝 웃었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Considers himself handsome (self-description)",
       "chapter": 175,
-      "quote": "이만하면 잘생겼죠."
+      "quote": "이만하면 잘생겼죠.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Considers himself good-looking (handsome face)",
+      "chapter": 175,
+      "quote": "이만하면 잘생겼죠",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Bold, well-defined features that look both boyish and worldly-young",
       "chapter": 202,
-      "quote": "시원시원하게 뻗은 이목구비는 천진난만한 소년 같기도 했고, 이미 한차례 세상을 겪은 청년 같기도 했다."
+      "quote": "시원시원하게 뻗은 이목구비는 천진난만한 소년 같기도 했고, 이미 한차례 세상을 겪은 청년 같기도 했다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Clear, deep black eyes",
+      "chapter": 280,
+      "quote": "맑고 깊은 검은색 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears to be a young man",
       "chapter": 301,
-      "quote": "익살스럽게 웃는 청년, 진태경의 얼굴"
+      "quote": "익살스럽게 웃는 청년, 진태경의 얼굴",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Young man with a grand, imposing build",
       "chapter": 319,
-      "quote": "장대한 체구의 청년"
+      "quote": "장대한 체구의 청년",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Young man with a tall, well-proportioned build",
       "chapter": 357,
-      "quote": "훤칠한 체구의 청년, 진태경이"
+      "quote": "훤칠한 체구의 청년, 진태경이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Tall, well-proportioned build; young man",
+      "chapter": 357,
+      "quote": "훤칠한 체구의 청년",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears to be a young man",
+      "chapter": 476,
+      "quote": "청년, 진태경",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears as a young man",
       "chapter": 596,
-      "quote": "그의 부름에 고개를 든 청년의 얼굴은"
+      "quote": "그의 부름에 고개를 든 청년의 얼굴은",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Handsome young man with fine features",
       "chapter": 779,
-      "quote": "수려한 외모의 젊은이도"
+      "quote": "수려한 외모의 젊은이도",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Handsome, good-looking young man",
+      "chapter": 779,
+      "quote": "수려한 외모의 젊은이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears to be a young man (cheongnyeon).",
       "chapter": 821,
-      "quote": "웃고 있는 청년의 얼굴"
+      "quote": "웃고 있는 청년의 얼굴",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Appears to be a young man",
+      "chapter": 821,
+      "quote": "청년의 얼굴",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Appears young, referred to as a youth/kid",
+      "chapter": 971,
+      "quote": "어린놈의 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "3|잔잔한수면위로한청년이비친다.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narrator sees own reflection as a young man; ordinary description, no change shown."
+    }
+  },
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 1,
-      "description": "Jin Taekyung is a young man with a tall, sturdy, well-proportioned and imposing frame. He has a handsome face with bold, well-defined features that look both boyish and worldly-young, and he often smiles broadly. Tags: young man, male, tall, sturdy build, well-built, imposing frame, handsome, fine features, bold features, boyish look, broad smile",
+      "description": "Jin Taekyung is a young man with a tall, well-proportioned, sturdy and imposing frame. He has a handsome face with bold, well-defined features that look both boyish and worldly-young, and clear, deep black eyes. Tags: young man, tall, well-proportioned, sturdy build, imposing frame, handsome, bold defined features, boyish look, clear deep black eyes, youthful",
       "used": [
         0,
         1,
@@ -330,45 +244,32 @@
         7,
         8,
         9,
-        10
-      ]
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 1):** Jin Taekyung is a young man with a tall, sturdy, well-proportioned and imposing frame. He has a handsome face with bold, well-defined features that look both boyish and worldly-young, and he often smiles broadly. Tags: young man, male, tall, sturdy build, well-built, imposing frame, handsome, fine features, bold features, boyish look, broad smile"
+    "- **Appearance (from ch 1):** Jin Taekyung is a young man with a tall, well-proportioned, sturdy and imposing frame. He has a handsome face with bold, well-defined features that look both boyish and worldly-young, and clear, deep black eyes. Tags: young man, tall, well-proportioned, sturdy build, imposing frame, handsome, bold defined features, boyish look, clear deep black eyes, youthful"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0248812
+      "cost_usd": 0.0172333
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0241795
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.021889299999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.022615999999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0238813
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0231429
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0210521
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0203772
+      "cost_usd": 0.0268516
     }
   ]
 }

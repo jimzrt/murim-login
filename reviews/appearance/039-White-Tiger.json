@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 39,
   "english": "White Tiger",
   "profile": "characters/White Tiger.md",
@@ -9,333 +9,406 @@
   "chapter_count": 59,
   "first_chapter": 17,
   "profile_safe_through": 879,
-  "passages": [
-    [
-      17,
-      31
-    ],
-    [
-      18,
-      74
-    ],
-    [
-      21,
-      66
-    ],
-    [
-      21,
-      54
-    ],
-    [
-      22,
-      88
-    ],
-    [
-      57,
-      69
-    ],
-    [
-      623,
-      36
-    ],
-    [
-      623,
-      64
-    ],
-    [
-      623,
-      64
-    ],
-    [
-      623,
-      67
-    ],
-    [
-      623,
-      69
-    ],
-    [
-      631,
-      68
-    ],
-    [
-      632,
-      62
-    ],
-    [
-      634,
-      72
-    ],
-    [
-      634,
-      42
-    ],
-    [
-      642,
-      68
-    ],
-    [
-      642,
-      24
-    ],
-    [
-      654,
-      40
-    ],
-    [
-      669,
-      55
-    ],
-    [
-      672,
-      92
-    ],
-    [
-      675,
-      133
-    ],
-    [
-      676,
-      45
-    ],
-    [
-      680,
-      110
-    ],
-    [
-      680,
-      156
-    ],
-    [
-      680,
-      108
-    ],
-    [
-      684,
-      132
-    ],
-    [
-      685,
-      56
-    ],
-    [
-      686,
-      42
-    ],
-    [
-      687,
-      98
-    ],
-    [
-      689,
-      64
-    ],
-    [
-      689,
-      29
-    ],
-    [
-      689,
-      81
-    ],
-    [
-      689,
-      67
-    ],
-    [
-      696,
-      126
-    ],
-    [
-      696,
-      78
-    ],
-    [
-      704,
-      57
-    ],
-    [
-      704,
-      36
-    ],
-    [
-      707,
-      63
-    ],
-    [
-      708,
-      81
-    ],
-    [
-      711,
-      65
-    ],
-    [
-      712,
-      77
-    ],
-    [
-      712,
-      101
-    ],
-    [
-      879,
-      73
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Blue eyes",
       "chapter": 623,
-      "quote": "백호의 푸른 눈동자"
+      "quote": "백호의 푸른 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "hair",
       "kind": "base",
       "fact": "Snow-white mane",
       "chapter": 623,
-      "quote": "눈처럼 새하얀 백호(白虎)의 갈기"
+      "quote": "눈처럼 새하얀 백호(白虎)의 갈기",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "hair",
       "kind": "base",
       "fact": "Has a mane",
       "chapter": 623,
-      "quote": "백호의 갈기를 쓸어내렸다."
+      "quote": "백호의 갈기를 쓸어내렸다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "mane",
+      "kind": "base",
+      "fact": "Has a mane",
+      "chapter": 623,
+      "quote": "백호의 갈기를 쓸어내렸다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "teeth",
       "kind": "base",
       "fact": "Large, sharp fangs",
       "chapter": 632,
-      "quote": "크고 날카로운 이빨이 허공을 갈랐다."
+      "quote": "크고 날카로운 이빨이 허공을 갈랐다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Huge body size, like ten retrievers combined",
       "chapter": 642,
-      "quote": "물론 덩치는 리트리버 열 마리를 합쳐 놓은 것 같지만."
+      "quote": "물론 덩치는 리트리버 열 마리를 합쳐 놓은 것 같지만.",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narrator describes White Tiger's body as huge, like ten retrievers; the retriever comparison is a joke about behavior, but the size claim is meant literally."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "fur",
+      "kind": "base",
+      "fact": "Silvery, fluffy fur that looks like a silver retriever's",
+      "chapter": 642,
+      "quote": "저 정도면 백호가 아니라 실버 리트리버라고 불러야 하지 않나 싶다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Pale blue-white eyes",
+      "chapter": 675,
+      "quote": "달빛을 머금은 청백색 눈동자에 다시 한번 기광(奇光)이 스친 그때.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Blue-white (pale bluish) eyes",
       "chapter": 676,
-      "quote": "청백색의 눈동자"
+      "quote": "청백색의 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Blue-white eyes",
       "chapter": 686,
-      "quote": "백호의 청백색 눈동자"
+      "quote": "백호의 청백색 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Blue-white (pale cyan) eyes",
+      "chapter": 686,
+      "quote": "낮은 울음소리를 흘리는 백호의 청백색 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Giant tiger, very large body",
       "chapter": 687,
-      "quote": "거대한 백호"
+      "quote": "거대한 백호",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Giant white tiger collapsed, panting; literal present, no lasting change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "species/build",
+      "kind": "base",
+      "fact": "Giant white tiger",
+      "chapter": 687,
+      "quote": "썩은 통나무처럼 쓰러져 숨을 헐떡이는 거대한 백호",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Giant white tiger lies defeated; ordinary description."
+      },
+      "status": "kept"
     },
     {
       "attribute": "fur",
       "kind": "base",
       "fact": "Silvery, pure white fur",
       "chapter": 689,
-      "quote": "은빛이라 불러도 될 만큼 새하얀 털에 청백색 눈동자"
+      "quote": "은빛이라 불러도 될 만큼 새하얀 털에 청백색 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Pale blue-white eyes",
       "chapter": 689,
-      "quote": "청백색 눈동자를 따라 고개를 돌린"
+      "quote": "청백색 눈동자를 따라 고개를 돌린",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "fur",
+      "kind": "base",
+      "fact": "Fur so white it could be called silver",
+      "chapter": 689,
+      "quote": "은빛이라 불러도 될 만큼 새하얀 털에 청백색 눈동자.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Another, smaller white tiger exists, with a comparatively small frame",
       "chapter": 696,
-      "quote": "비교적 작은 덩치를 지닌 또 다른 백호"
+      "quote": "비교적 작은 덩치를 지닌 또 다른 백호",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "A second, smaller white tiger walks toward them with a woman on its back; it is a different tiger, but still a white tiger with a smaller frame."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Giant tiger body, large enough to ride",
+      "chapter": 704,
+      "quote": "거대한 백호의 몸뚱어리",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "A young man leans against the body of a giant white tiger; the size is stated literally, though riding is not shown in this scene."
+      },
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Huge tiger body, large enough to carry a person on its back",
       "chapter": 707,
-      "quote": "거대한 백호의 등 위에"
+      "quote": "거대한 백호의 등 위에",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "A giant white tiger stands with a person on its back, so its size is literal and the person is seated on it."
+      },
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Pale blue-white eyes",
       "chapter": 711,
-      "quote": "청백색의 눈을 들어 나를 바라보았다"
+      "quote": "청백색의 눈을 들어 나를 바라보았다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Blue-white (pale blue) eyes",
+      "chapter": 711,
+      "quote": "청백색의 눈",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "change",
       "fact": "Grown too huge and powerful to be called a cub or ordinary tiger; has pale blue-white eyes",
       "chapter": 712,
-      "quote": "청백색의 눈동자로 주위를 둘러보았다"
+      "quote": "청백색의 눈동자로 주위를 둘러보았다",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "White tiger now huge and powerful, blue-white eyes; gradual growth over time, not a sudden drastic change in scene."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "kind": "change",
+      "fact": "Grew far too huge to be called a cub or an ordinary tiger",
+      "chapter": 712,
+      "quote": "더 이상 새끼라 보기에도, 평범한 호랑이라 부르기에도 너무나 거대해지고",
+      "marker": false,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Same line; huge size described as present state after time passed, not a discrete drastic transformation."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Blue-white eyes",
+      "chapter": 712,
+      "quote": "청백색의 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {
+    "642|물론덩치는리트리버열마리를합쳐놓은것같지만.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narrator describes White Tiger's body as huge, like ten retrievers; the retriever comparison is a joke about behavior, but the size claim is meant literally."
+    },
+    "687|거대한백호": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Giant white tiger collapsed, panting; literal present, no lasting change."
+    },
+    "687|썩은통나무처럼쓰러져숨을헐떡이는거대한백호": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Giant white tiger lies defeated; ordinary description."
+    },
+    "696|비교적작은덩치를지닌또다른백호": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "A second, smaller white tiger walks toward them with a woman on its back; it is a different tiger, but still a white tiger with a smaller frame."
+    },
+    "704|거대한백호의몸뚱어리": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "A young man leans against the body of a giant white tiger; the size is stated literally, though riding is not shown in this scene."
+    },
+    "707|거대한백호의등위에": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "A giant white tiger stands with a person on its back, so its size is literal and the person is seated on it."
+    },
+    "712|청백색의눈동자로주위를둘러보았다": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "White tiger now huge and powerful, blue-white eyes; gradual growth over time, not a sudden drastic change in scene."
+    },
+    "712|더이상새끼라보기에도,평범한호랑이라부르기에도너무나거대해지고": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same line; huge size described as present state after time passed, not a discrete drastic transformation."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "build/size",
+      "indices": [
+        5,
+        11,
+        12,
+        16,
+        17,
+        18,
+        21,
+        22
+      ],
+      "kept": [
+        11,
+        12,
+        17,
+        18
+      ],
+      "resolved": true,
+      "reason": "Giant/huge tiger, rideable, repeated across 4 facts and several chapters; the smaller-frame (16), retriever-comparison (5) and grown-too-big (21, 22) outliers dropped"
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
       "start": 17,
-      "description": "White Tiger is a giant tiger, bigger than ten retrievers combined and large enough to carry a person on its back, with a snow-white, almost silvery coat and a thick white mane. Pale blue-white eyes, large sharp fangs. Tags: giant white tiger, snow-white fur, silvery sheen, white mane, pale blue-white eyes, sharp fangs, huge body",
+      "description": "White Tiger is a giant white tiger, large enough to carry a rider on its back, with a snow-white mane and fluffy silvery-white fur. Pale blue-white eyes, large sharp fangs. Tags: giant white tiger, snow-white mane, silvery-white fluffy fur, pale blue-white eyes, large sharp fangs",
       "used": [
         0,
         1,
         2,
         3,
         4,
-        5,
         6,
         7,
         8,
         9,
+        10,
         11,
         12,
-        13
-      ]
+        13,
+        14,
+        15,
+        17,
+        18,
+        19,
+        20,
+        23
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 17):** White Tiger is a giant tiger, bigger than ten retrievers combined and large enough to carry a person on its back, with a snow-white, almost silvery coat and a thick white mane. Pale blue-white eyes, large sharp fangs. Tags: giant white tiger, snow-white fur, silvery sheen, white mane, pale blue-white eyes, sharp fangs, huge body"
+    "- **Appearance (from ch 17):** White Tiger is a giant white tiger, large enough to carry a rider on its back, with a snow-white mane and fluffy silvery-white fur. Pale blue-white eyes, large sharp fangs. Tags: giant white tiger, snow-white mane, silvery-white fluffy fur, pale blue-white eyes, large sharp fangs"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0220586
+      "cost_usd": 0.022128500000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.021470500000000003
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0226869
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0231526
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.025039500000000003
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0178489
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0210718
+      "cost_usd": 0.0334608
     }
   ]
 }

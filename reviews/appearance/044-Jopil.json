@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 44,
   "english": "Jopil",
   "profile": "characters/Jopil.md",
@@ -9,218 +9,183 @@
   "chapter_count": 49,
   "first_chapter": 22,
   "profile_safe_through": 1188,
-  "passages": [
-    [
-      23,
-      24
-    ],
-    [
-      25,
-      22
-    ],
-    [
-      25,
-      67
-    ],
-    [
-      25,
-      29
-    ],
-    [
-      25,
-      55
-    ],
-    [
-      25,
-      54
-    ],
-    [
-      28,
-      58
-    ],
-    [
-      29,
-      53
-    ],
-    [
-      29,
-      87
-    ],
-    [
-      29,
-      97
-    ],
-    [
-      29,
-      33
-    ],
-    [
-      30,
-      95
-    ],
-    [
-      30,
-      61
-    ],
-    [
-      30,
-      36
-    ],
-    [
-      52,
-      14
-    ],
-    [
-      54,
-      85
-    ],
-    [
-      68,
-      56
-    ],
-    [
-      72,
-      63
-    ],
-    [
-      110,
-      46
-    ],
-    [
-      110,
-      28
-    ],
-    [
-      124,
-      75
-    ],
-    [
-      124,
-      32
-    ],
-    [
-      173,
-      30
-    ],
-    [
-      174,
-      95
-    ],
-    [
-      175,
-      32
-    ],
-    [
-      176,
-      77
-    ],
-    [
-      193,
-      94
-    ],
-    [
-      195,
-      117
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "eyes",
       "fact": "Eyes are black like a viper's",
       "chapter": 26,
-      "quote": "독사처럼 까만 눈동자가 주위를 훑었다."
+      "quote": "독사처럼 까만 눈동자가 주위를 훑었다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "height",
       "fact": "Average height",
       "chapter": 28,
-      "quote": "적당한 키에 평범한 인상의 소유자였고"
+      "quote": "적당한 키에 평범한 인상의 소유자였고",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "hair",
       "kind": "base",
       "fact": "Has hair long enough to be visibly tossed about (hair fluttered when a spear passed his face)",
       "chapter": 29,
-      "quote": "조필의 머리카락이 흩날렸다"
+      "quote": "조필의 머리카락이 흩날렸다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "hair",
       "kind": "change",
       "fact": "Hair rapidly turned white while his skin shriveled (visible aging in his last desperate state)",
       "chapter": 30,
-      "quote": "시시각각 하얗게 세는 머리카락, 쪼그라드는 피부."
+      "quote": "시시각각 하얗게 세는 머리카락, 쪼그라드는 피부.",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Jopil's hair whitens and skin shrivels in front of the narrator as he burns his life. Drastic aging, and it doesn't reverse."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "hair",
       "kind": "change",
       "fact": "Hair rapidly turns white as he visibly ages",
       "chapter": 30,
-      "quote": "시시각각 하얗게 세는 머리카락"
+      "quote": "시시각각 하얗게 세는 머리카락",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same line: hair visibly turns white as he rapidly ages. Literal, happening now, and drastic."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "skin",
       "kind": "change",
       "fact": "Skin shrivels as he ages",
       "chapter": 30,
-      "quote": "쪼그라드는 피부"
+      "quote": "쪼그라드는 피부",
+      "marker": true,
+      "verdict": {
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same line: skin shrivels as life burns away. Literal, present, and drastic."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears as an old man",
       "chapter": 195,
-      "quote": "웬 노인이 산기슭을 서성거리니"
+      "quote": "웬 노인이 산기슭을 서성거리니",
+      "marker": false,
+      "verdict": {
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The old man is the speaker, a relative who came to collect the body. Jopil is already dead, so this isn't Jopil's look."
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
+  "rejected": [
+    6
+  ],
+  "judgments": {
+    "30|시시각각하얗게세는머리카락,쪼그라드는피부.": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Jopil's hair whitens and skin shrivels in front of the narrator as he burns his life. Drastic aging, and it doesn't reverse."
+    },
+    "30|시시각각하얗게세는머리카락": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line: hair visibly turns white as he rapidly ages. Literal, happening now, and drastic."
+    },
+    "30|쪼그라드는피부": {
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line: skin shrivels as life burns away. Literal, present, and drastic."
+    },
+    "195|웬노인이산기슭을서성거리니": {
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The old man is the speaker, a relative who came to collect the body. Jopil is already dead, so this isn't Jopil's look."
+    }
+  },
+  "conflicts": [
+    {
+      "attribute": "hair/skin aging (CONFLICT#2 group)",
+      "indices": [
+        3,
+        4,
+        5
+      ],
+      "kept": [
+        3,
+        4,
+        5
+      ],
+      "resolved": true,
+      "reason": "Flagged as a group, but the facts don't contradict each other. All describe white hair and shriveling skin from the same ch30 change. Facts 3 and 4 are the same hair change, so one range opens at ch30."
+    }
+  ],
+  "unused": [],
   "ranges": [
     {
       "start": 22,
-      "description": "Jopil is a man of average height with an ordinary, unremarkable face. He has hair long enough to flutter and toss about when something passes close, and narrow black eyes like a viper's. Tags: male, average height, ordinary face, long loose hair, black eyes, viper-like gaze",
+      "description": "Jopil is a man of average height with black, viper-like eyes. His hair is long enough to flutter and be tossed about. Tags: male, average height, black eyes, viper-like eyes, hair long enough to flutter",
       "used": [
         0,
         1,
         2
-      ]
+      ],
+      "difference": ""
     },
     {
       "start": 30,
-      "description": "Jopil is a man of average height who looks like an old man. His hair has turned white and still falls long enough to flutter, and his skin is shriveled and shrunken. His eyes are still black like a viper's. Tags: male, old man, average height, white hair, long hair, shriveled skin, black eyes, viper-like gaze",
+      "description": "Jopil is a man of average height with black, viper-like eyes. His hair, long enough to be tossed about, is now white, and his skin is shriveled, so he looks visibly aged. Tags: male, average height, black eyes, viper-like eyes, white hair, hair long enough to flutter, shriveled skin, visibly aged",
       "used": [
         0,
         1,
         2,
         3,
         4,
-        5,
-        6
-      ]
+        5
+      ],
+      "difference": "hair of unspecified colour and normal skin -> white hair and shriveled, aged skin"
     }
   ],
   "lines": [
-    "- **Appearance (ch 22–29):** Jopil is a man of average height with an ordinary, unremarkable face. He has hair long enough to flutter and toss about when something passes close, and narrow black eyes like a viper's. Tags: male, average height, ordinary face, long loose hair, black eyes, viper-like gaze",
-    "- **Appearance (from ch 30):** Jopil is a man of average height who looks like an old man. His hair has turned white and still falls long enough to flutter, and his skin is shriveled and shrunken. His eyes are still black like a viper's. Tags: male, old man, average height, white hair, long hair, shriveled skin, black eyes, viper-like gaze"
+    "- **Appearance (ch 22–29):** Jopil is a man of average height with black, viper-like eyes. His hair is long enough to flutter and be tossed about. Tags: male, average height, black eyes, viper-like eyes, hair long enough to flutter",
+    "- **Appearance (from ch 30):** Jopil is a man of average height with black, viper-like eyes. His hair, long enough to be tossed about, is now white, and his skin is shriveled, so he looks visibly aged. Tags: male, average height, black eyes, viper-like eyes, white hair, hair long enough to flutter, shriveled skin, visibly aged"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0131852
+      "cost_usd": 0.016938400000000003
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0192867
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0174442
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0211697
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0276203
+      "cost_usd": 0.030032999999999997
     }
   ]
 }

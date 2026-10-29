@@ -7,6 +7,5 @@
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** Leads the Odin Guild.
-- **Appearance (ch 735–816):** Michael Silbert is a male with gray eyes. Tags: male, gray eyes
-- **Appearance (from ch 817):** Michael Silbert is a male with a desiccated, mummy-like emaciated body, skin dried and shriveled over thin bones, and gray eyes. Tags: male, gray eyes, emaciated, desiccated, mummy-like, withered
+- **Appearance (from ch 735):** Michael Silbert, male, has gray eyes. Tags: male, gray eyes
 - **Sources:** Korean source and accepted translation, Chapter 736

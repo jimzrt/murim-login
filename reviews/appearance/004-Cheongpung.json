@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "rank": 4,
   "english": "Cheongpung",
   "profile": "characters/Cheongpung.md",
@@ -8,296 +8,171 @@
   ],
   "chapter_count": 246,
   "first_chapter": 130,
-  "safe_through": 1191,
-  "passages": [
-    [
-      130,
-      93
-    ],
-    [
-      131,
-      40
-    ],
-    [
-      139,
-      108
-    ],
-    [
-      141,
-      155
-    ],
-    [
-      148,
-      38
-    ],
-    [
-      150,
-      32
-    ],
-    [
-      157,
-      86
-    ],
-    [
-      165,
-      23
-    ],
-    [
-      171,
-      71
-    ],
-    [
-      171,
-      105
-    ],
-    [
-      171,
-      26
-    ],
-    [
-      172,
-      89
-    ],
-    [
-      174,
-      91
-    ],
-    [
-      184,
-      51
-    ],
-    [
-      251,
-      69
-    ],
-    [
-      251,
-      40
-    ],
-    [
-      251,
-      31
-    ],
-    [
-      251,
-      49
-    ],
-    [
-      253,
-      43
-    ],
-    [
-      253,
-      70
-    ],
-    [
-      255,
-      49
-    ],
-    [
-      332,
-      60
-    ],
-    [
-      332,
-      43
-    ],
-    [
-      335,
-      57
-    ],
-    [
-      336,
-      37
-    ],
-    [
-      339,
-      55
-    ],
-    [
-      355,
-      48
-    ],
-    [
-      366,
-      63
-    ],
-    [
-      375,
-      31
-    ],
-    [
-      375,
-      57
-    ],
-    [
-      375,
-      55
-    ],
-    [
-      375,
-      135
-    ],
-    [
-      377,
-      66
-    ],
-    [
-      441,
-      80
-    ],
-    [
-      469,
-      57
-    ],
-    [
-      470,
-      56
-    ],
-    [
-      472,
-      92
-    ],
-    [
-      472,
-      65
-    ],
-    [
-      476,
-      40
-    ],
-    [
-      477,
-      65
-    ],
-    [
-      484,
-      102
-    ],
-    [
-      487,
-      71
-    ],
-    [
-      536,
-      25
-    ],
-    [
-      536,
-      72
-    ],
-    [
-      536,
-      36
-    ],
-    [
-      539,
-      36
-    ],
-    [
-      539,
-      60
-    ],
-    [
-      545,
-      131
-    ],
-    [
-      848,
-      50
-    ],
-    [
-      1074,
-      78
-    ],
-    [
-      1074,
-      58
-    ],
-    [
-      1082,
-      29
-    ],
-    [
-      1095,
-      158
-    ],
-    [
-      1109,
-      61
-    ],
-    [
-      1110,
-      70
-    ],
-    [
-      1113,
-      78
-    ]
-  ],
+  "profile_safe_through": 1191,
+  "passages": [],
   "facts": [
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears to be a young man",
       "chapter": 130,
-      "quote": "청년, 청풍을 내심 못마땅하게 생각하던 석칠이지만"
+      "quote": "청년, 청풍을 내심 못마땅하게 생각하던 석칠이지만",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "face",
       "kind": "base",
       "fact": "Friendly, affable impression",
       "chapter": 130,
-      "quote": "서글서글한 인상과 맑은 눈동자"
+      "quote": "서글서글한 인상과 맑은 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "fact": "Has a affable, friendly impression",
+      "chapter": 130,
+      "quote": "서글서글한 인상과 맑은 눈동자를",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Has clear, bright eyes",
+      "chapter": 130,
+      "quote": "맑은 눈동자를 보고 있노라면",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "fact": "Is a young man",
+      "chapter": 130,
+      "quote": "청년, 청풍을 내심 못마땅하게 생각하던",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "fact": "Is a young man",
+      "chapter": 131,
+      "quote": "청년, 청풍의 입술이 열렸다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "fact": "Appears to be a young man",
+      "chapter": 132,
+      "quote": "맹렬하게 물고 빠는 청년, 청풍의 모습",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Has clear, bright eyes",
+      "chapter": 139,
+      "quote": "맑은 눈동자를 깜빡였다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Average, moderate build",
       "chapter": 157,
-      "quote": "적당한 체구에 선한 인상"
+      "quote": "적당한 체구에 선한 인상",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "fact": "Moderate, average build",
+      "chapter": 157,
+      "quote": "적당한 체구에 선한 인상.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "fact": "Looks like an ordinary young man, similar to many peers",
+      "chapter": 157,
+      "quote": "또래의 비슷한 젊은이를 서너 명은 만날 수 있을 것 같다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "forehead",
       "kind": "base",
       "fact": "No lightning-shaped scar on forehead (narrator checked for one)",
       "chapter": 375,
-      "quote": "이마에 번개 모양 흉터라도 있나 확인해 봤어."
+      "quote": "이마에 번개 모양 흉터라도 있나 확인해 봤어.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears to be a young man",
       "chapter": 472,
-      "quote": "멀어지는 청년의 뒷모습"
+      "quote": "멀어지는 청년의 뒷모습",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Has clear, bright eyes",
       "chapter": 536,
-      "quote": "맑은 눈동자로 멍하니 매종학을 바라보던 청풍이"
+      "quote": "맑은 눈동자로 멍하니 매종학을 바라보던 청풍이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Looks very young, just past twenty",
       "chapter": 545,
-      "quote": "어찌 약관을 갓 넘긴 아해라 깎아내릴 수 있겠는가"
+      "quote": "어찌 약관을 갓 넘긴 아해라 깎아내릴 수 있겠는가",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Has a perfect physique and bone structure",
       "chapter": 545,
-      "quote": "이럴 수가! 실로 완벽한 근골이다."
+      "quote": "이럴 수가! 실로 완벽한 근골이다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
+  "rejected": [],
+  "judgments": {},
+  "conflicts": [],
+  "unused": [],
   "ranges": [
     {
       "start": 130,
-      "description": "Cheongpung is a young man just past twenty with an average, moderate build and a perfectly proportioned physique and bone structure. Friendly, affable face with an open expression and clear, bright eyes; no scar on the forehead. Tags: young man, early twenties, average build, well-proportioned frame, friendly face, affable look, clear bright eyes, no forehead scar",
+      "description": "Cheongpung is a young man, just past twenty, who looks like an ordinary youth of his age. He has a moderate, average build with a well-formed frame and bone structure. His face is friendly and affable, with clear, bright eyes and an unmarked forehead (no scar). Tags: young man, just past twenty, average build, well-formed frame, friendly face, affable, clear bright eyes, unmarked forehead",
       "used": [
         0,
         1,
@@ -306,45 +181,31 @@
         4,
         5,
         6,
-        7
-      ]
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 130):** Cheongpung is a young man just past twenty with an average, moderate build and a perfectly proportioned physique and bone structure. Friendly, affable face with an open expression and clear, bright eyes; no scar on the forehead. Tags: young man, early twenties, average build, well-proportioned frame, friendly face, affable look, clear bright eyes, no forehead scar"
+    "- **Appearance (from ch 130):** Cheongpung is a young man, just past twenty, who looks like an ordinary youth of his age. He has a moderate, average build with a well-formed frame and bone structure. His face is friendly and affable, with clear, bright eyes and an unmarked forehead (no scar). Tags: young man, just past twenty, average build, well-formed frame, friendly face, affable, clear bright eyes, unmarked forehead"
   ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0247002
+      "cost_usd": 0.014090099999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0198166
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.020184599999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0186942
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.020686200000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.024259
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0209984
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.019755999999999996
+      "cost_usd": 0.0256895
     }
   ]
 }

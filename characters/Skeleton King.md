@@ -7,6 +7,5 @@
 - **Personality:** Boastful and quick to trade teasing insults with Taekyung, but openly glad to see him again.
 - **Voice:** He speaks in blunt, boastful casual language and trades teasing insults with Taekyung.
 - **Relationships:** Taekyung is his friend and ally; he joins the Hunters in fighting the monsters at the bomb shelter.
-- **Appearance (ch 425–1157):** Skeleton King is a young-looking human man with blond hair and golden eyes. He has a strikingly handsome face, and his hands look almost human. He wears a golden crown that radiates brilliant light. Tags: male, young, blond hair, golden eyes, handsome face, human hands, golden crown, radiant light, gold motif
-- **Appearance (from ch 1158):** Skeleton King is a skull-faced man with an ugly, scowling face. Blue ghost-fire flickers in the eye sockets in place of eyes. He wears a golden crown that radiates brilliant light. Tags: male, skull, ugly face, blue ghost-fire eyes, golden crown, radiant light, gold and blue motif
+- **Appearance (from ch 425):** Skeleton King is a strikingly handsome young man with a foreign look, golden-blond hair that flutters loose, and golden eyes. He has a well-proportioned, attractive build and wears a golden crown that radiates brilliant light. Tags: male, young, blond hair, golden hair, golden eyes, handsome face, attractive build, golden crown, radiant light, gold motif
 - **Sources:** Korean source and accepted translation, Chapter 425

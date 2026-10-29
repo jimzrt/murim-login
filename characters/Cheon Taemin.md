@@ -7,5 +7,5 @@
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** Maternal grandfather of Team Leader Choi and Jin Taekyung and father of Soyeong; regarded by Lee Jungryong as an older brother despite their lack of blood relation.
-- **Appearance (from ch 287):** Cheon Taemin is a man with thick, dark eyebrows and chiseled, sculpted features, handsome enough to look like a reincarnated Greek god. He appears absurdly young for his age. Tags: male, thick dark eyebrows, chiseled face, sculpted features, handsome, youthful appearance
+- **Appearance (from ch 287):** Cheon Taemin is a man with thick, dark eyebrows and chiseled, sculpted features, handsome enough to look like a reincarnated Greek god. He looks absurdly young for his age. Tags: male, thick dark eyebrows, chiseled face, sculpted features, Greek-god handsome, youthful appearance
 - **Sources:** Korean source and accepted translation, Chapter 287; Profile retrofit evidence: Chapters 287, 554, 600, 765, 808
