@@ -1,0 +1,77 @@
+{
+  "applied": false,
+  "chapter": 121,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 4
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Squad Leader, thank you for your hard work.",
+      "evidence_found": true,
+      "explanation": "Hyuk Mujin addresses Jin Taekyung as 조장, rendered as Captain in the glossary.",
+      "id": "E01",
+      "korean": "조장님, 고생하셨습니다.",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Captain, thank you for your hard work.",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Our squad leader sure is lucky.",
+      "evidence_found": true,
+      "explanation": "Hyuk Mujin refers to Jin Taekyung as 조장, rendered as Captain in the glossary.",
+      "id": "E02",
+      "korean": "우리 조장은 복도 많아.",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Our captain sure is lucky.",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Squad Leader, what’s wrong?",
+      "evidence_found": true,
+      "explanation": "Hyuk Mujin addresses Jin Taekyung as 조장, rendered as Captain in the glossary.",
+      "id": "E03",
+      "korean": "조장, 왜 그러세요?",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Captain, what’s wrong?",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Squad Leader. Please come to your senses!",
+      "evidence_found": true,
+      "explanation": "Hyuk Mujin addresses Jin Taekyung as 조장, rendered as Captain in the glossary.",
+      "id": "E04",
+      "korean": "조장. 정신 좀 차려 보세요!",
+      "origin": "detector",
+      "reason": "terminology or title finding",
+      "replacement": "Captain. Please come to your senses!",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}

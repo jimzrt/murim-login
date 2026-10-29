@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "category": "referent",
+      "confidence": 0.99,
+      "current": "you aren’t going to kill me too, are you?",
+      "evidence_found": true,
+      "explanation": "이공자님 refers to Jin Mukyung, the Second Young Master, not to Taekyung, whom Hyuk Mujin is addressing.",
+      "id": "E01",
+      "korean": "이공자님이 저도 죽이는 건 아니겠죠?",
+      "origin": "detector",
+      "replacement": "he isn’t going to kill me too, is he?",
+      "scope": "term",
+      "scope_reason": "changes non-entity words: aren, isn",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "Hyuk Mujin asks whether Jin Mukyung will kill him, but the English makes him ask Taekyung instead.",
+  "uncertain": true,
+  "uncertain_reason": "Several battle cries have unnamed speakers, though the identified referents are clear.",
+  "version": 1
+}

@@ -1,0 +1,37 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "the cheapest bottle of fire liquor",
+      "evidence_found": true,
+      "explanation": "화주 is rendered as “strong liquor” in the glossary, not “fire liquor.”",
+      "id": "E01",
+      "korean": "가장 값싼 화주 한 병",
+      "origin": "detector",
+      "replacement": "the cheapest bottle of strong liquor",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    },
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Cheongpung downed the fire liquor without hesitation",
+      "evidence_found": true,
+      "explanation": "This is the same drink, 화주, rendered as “strong liquor” in the glossary.",
+      "id": "E02",
+      "korean": "화주를 거침없이 들이킨 청풍",
+      "origin": "detector",
+      "replacement": "Cheongpung downed the strong liquor without hesitation",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The chapter has two instances where 화주 is rendered differently from the glossary; I found no gender, referent, or identity errors.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

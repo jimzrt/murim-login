@@ -1,0 +1,61 @@
+{
+  "applied": false,
+  "chapter": 133,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 3
+  },
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.97,
+      "current": "the keen insight of the Chief and Woo Jintae",
+      "evidence_found": true,
+      "explanation": "The speaker uses the title 우 소협, not Woo Jintae’s personal name.",
+      "id": "S01",
+      "korean": "국주님과 우 소협의 혜안(慧眼)",
+      "origin": "escalation",
+      "reason": "terminology or title finding",
+      "replacement": "the keen insight of the Chief and Young Hero Woo",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "“Ha-ha, Jintae, you haven’t forgotten me, have you?”",
+      "evidence_found": true,
+      "explanation": "The speaker addresses him as 우 소협, not Jintae.",
+      "id": "S02",
+      "korean": "“하하, 우 소협, 날 잊은 건 아니겠지요?”",
+      "origin": "escalation",
+      "reason": "terminology or title finding",
+      "replacement": "“Ha-ha, Young Hero Woo, you haven’t forgotten me, have you?”",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "term",
+      "confidence": 0.98,
+      "current": "“You really underestimate us, Jintae.”",
+      "evidence_found": true,
+      "explanation": "The speaker again uses 우 소협 rather than his personal name.",
+      "id": "S03",
+      "korean": "“우 소협도 참, 저희를 너무 무시하는 것 아니에요?”",
+      "origin": "escalation",
+      "reason": "terminology or title finding",
+      "replacement": "“You really underestimate us, Young Hero Woo.”",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}

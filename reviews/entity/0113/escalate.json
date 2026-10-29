@@ -1,0 +1,23 @@
+{
+  "added": [
+    {
+      "category": "referent",
+      "confidence": 0.98,
+      "current": "“Second Young Master, you aren’t going to kill me too, are you?”",
+      "evidence_found": true,
+      "explanation": "Hyuk Mujin is asking Taekyung whether the Second Young Master, Jin Mukyung, will kill him too; the Second Young Master is the subject of the question, not its addressee.",
+      "id": "S01",
+      "korean": "“이공자님이 저도 죽이는 건 아니겠죠?”",
+      "origin": "escalation",
+      "replacement": "“Second Young Master, he isn’t going to kill me too, is he?”",
+      "scope": "term",
+      "scope_reason": "changes non-entity words: aren, isn",
+      "span_count": 1
+    }
+  ],
+  "decisions": [],
+  "escalated": [],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The unnamed battle cries do not establish a speaker error, but Hyuk Mujin’s question wrongly treats the Second Young Master as the person he is addressing.",
+  "version": 1
+}

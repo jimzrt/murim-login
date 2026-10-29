@@ -1,0 +1,17 @@
+{
+  "added": [],
+  "decisions": [
+    {
+      "confidence": 0.97,
+      "id": "E01",
+      "reason": "Jin Mukyung asks whether Taekyung proposed a bout, and Taekyung replies that he never did; the question therefore requires “you,” not “I.”",
+      "verdict": "confirm"
+    }
+  ],
+  "escalated": [
+    "E01"
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The reported speaker-reference error is confirmed; I found no other clear entity errors.",
+  "version": 1
+}

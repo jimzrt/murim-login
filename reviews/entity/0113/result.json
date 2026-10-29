@@ -1,0 +1,45 @@
+{
+  "applied": false,
+  "chapter": 113,
+  "counts": {
+    "auto": 0,
+    "human": 0,
+    "rejected": 0,
+    "term": 2
+  },
+  "findings": [
+    {
+      "category": "referent",
+      "confidence": 0.99,
+      "current": "you aren’t going to kill me too, are you?",
+      "evidence_found": true,
+      "explanation": "이공자님 refers to Jin Mukyung, the Second Young Master, not to Taekyung, whom Hyuk Mujin is addressing.",
+      "id": "E01",
+      "korean": "이공자님이 저도 죽이는 건 아니겠죠?",
+      "origin": "detector",
+      "reason": "changes non-entity words: aren, isn",
+      "replacement": "he isn’t going to kill me too, is he?",
+      "scope": "term",
+      "scope_reason": "changes non-entity words: aren, isn",
+      "span_count": 1,
+      "status": "term"
+    },
+    {
+      "category": "referent",
+      "confidence": 0.98,
+      "current": "“Second Young Master, you aren’t going to kill me too, are you?”",
+      "evidence_found": true,
+      "explanation": "Hyuk Mujin is asking Taekyung whether the Second Young Master, Jin Mukyung, will kill him too; the Second Young Master is the subject of the question, not its addressee.",
+      "id": "S01",
+      "korean": "“이공자님이 저도 죽이는 건 아니겠죠?”",
+      "origin": "escalation",
+      "reason": "changes non-entity words: aren, isn",
+      "replacement": "“Second Young Master, he isn’t going to kill me too, is he?”",
+      "scope": "term",
+      "scope_reason": "changes non-entity words: aren, isn",
+      "span_count": 1,
+      "status": "term"
+    }
+  ],
+  "version": 1
+}

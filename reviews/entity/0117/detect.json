@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "category": "term",
+      "confidence": 0.99,
+      "current": "Emperor Sword Form",
+      "evidence_found": true,
+      "explanation": "The named technique 제왕검형 is rendered as “Emperor's Sword Form” in the glossary.",
+      "id": "E01",
+      "korean": "제왕검형",
+      "origin": "detector",
+      "replacement": "Emperor's Sword Form",
+      "scope": "term",
+      "scope_reason": "terminology or title finding",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "No gender, referent, or identity errors found; one named technique differs from the glossary.",
+  "uncertain": false,
+  "uncertain_reason": "",
+  "version": 1
+}

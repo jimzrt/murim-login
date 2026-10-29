@@ -1,0 +1,27 @@
+{
+  "counts": {
+    "name_absent": 0,
+    "name_variant": 0,
+    "name_variant_suspect": 0,
+    "pronoun_conflict": 1,
+    "term_absent": 1
+  },
+  "flagged": true,
+  "flags": [
+    {
+      "character": "Lee Seowol",
+      "excerpt": "Lee Seowol ignored his booming laughter and continued.",
+      "gender": "female",
+      "pronouns": [
+        "his"
+      ],
+      "type": "pronoun_conflict"
+    },
+    {
+      "korean": "아이템",
+      "preferred": "Item",
+      "type": "term_absent"
+    }
+  ],
+  "version": 1
+}

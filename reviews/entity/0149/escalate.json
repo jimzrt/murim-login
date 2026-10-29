@@ -1,0 +1,17 @@
+{
+  "added": [],
+  "decisions": [
+    {
+      "confidence": 0.93,
+      "id": "E01",
+      "reason": "Chulwoo addresses Baek Museong as 대사형 immediately before this exchange, so the patron’s reference should use he and his, not she and her.",
+      "verdict": "confirm"
+    }
+  ],
+  "escalated": [
+    "E01"
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "The patron’s pronouns point to the wrong disciple; I found no other clear entity errors in the chapter.",
+  "version": 1
+}

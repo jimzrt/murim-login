@@ -1,0 +1,23 @@
+{
+  "findings": [
+    {
+      "category": "identity",
+      "confidence": 0.7,
+      "current": "Jin Taekyung’s iron spear",
+      "evidence_found": true,
+      "explanation": "The Korean names Jin Mukyung as the owner of the iron spear, while the English names Jin Taekyung; the surrounding scene, however, supports Taekyung.",
+      "id": "E01",
+      "korean": "진무경의 철창과 풍양의 곡도가",
+      "origin": "detector",
+      "replacement": "Jin Mukyung’s iron spear",
+      "scope": "entity",
+      "scope_reason": "",
+      "span_count": 1
+    }
+  ],
+  "model": "openai-codex/gpt-6-sol:medium",
+  "summary": "One explicit name mismatch appears in an otherwise consistent chapter, though the scene context supports the English name.",
+  "uncertain": true,
+  "uncertain_reason": "The Korean explicitly names Jin Mukyung at the weapon clash, but the surrounding action identifies Jin Taekyung as the spear wielder; the Korean name may be a source error.",
+  "version": 1
+}

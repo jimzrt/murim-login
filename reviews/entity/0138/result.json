@@ -1,0 +1,35 @@
+{
+  "applied": true,
+  "chapter": 138,
+  "counts": {
+    "auto": 1,
+    "human": 0,
+    "rejected": 0,
+    "term": 0
+  },
+  "findings": [
+    {
+      "category": "referent",
+      "confidence": 0.94,
+      "current": "pulls on his ear",
+      "escalation": {
+        "confidence": 0.94,
+        "id": "E01",
+        "reason": "Cheongpung is the one who might pull an ear out of curiosity upon seeing a royal for the first time; 귀 refers to the royal’s ear, not Cheongpung’s.",
+        "verdict": "confirm"
+      },
+      "evidence_found": true,
+      "explanation": "The speaker fears Cheongpung might pull the royal's ear out of curiosity, not his own.",
+      "id": "E01",
+      "korean": "황족 처음 봐서 신기하다고 귀라도 잡아당기면",
+      "origin": "detector",
+      "reason": "",
+      "replacement": "pulls on Prince Shangshan's ear",
+      "scope": "entity",
+      "scope_reason": "",
+      "span_count": 1,
+      "status": "auto"
+    }
+  ],
+  "version": 1
+}
