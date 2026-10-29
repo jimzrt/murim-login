@@ -37,12 +37,14 @@ class PromptTest(unittest.TestCase):
     def test_style_block_verbatim(self):
         style = il.STYLE.format(setting=il.MURIM_SETTING)
         for entry in self.entries:
-            self.assertTrue(entry["prompt"].startswith(style))
+            self.assertIn(f"Style/medium: {style}\n", entry["prompt"])
+            self.assertTrue(entry["prompt"].startswith("Use case: illustration-story\n"))
+            self.assertIn("Avoid: text, watermark", entry["prompt"])
 
     def test_non_murim_setting_replaces_only_the_setting_phrase(self):
         entry = il.build_prompts(ROWS[:1], {"Hero": {"setting": "modern Seoul hunter setting"}})[0]
         self.assertNotIn("wuxia", entry["prompt"])
-        self.assertTrue(entry["prompt"].startswith(il.STYLE.format(setting="modern Seoul hunter setting")))
+        self.assertIn(il.STYLE.format(setting="modern Seoul hunter setting"), entry["prompt"])
 
     def test_range_isolation(self):
         early, late = self.by_id["hero-1"]["prompt"], self.by_id["hero-100"]["prompt"]
@@ -52,8 +54,19 @@ class PromptTest(unittest.TestCase):
         self.assertNotIn("emperor", early + late)
         self.assertIn("bald head", late)
         self.assertNotIn("white hair", late)
-        self.assertIn("a square jaw", early)
-        self.assertIn("a square jaw", late)
+        anchor = "Identity anchor (identical in every portrait of this character; do not redesign the face): a square jaw."
+        self.assertIn(anchor, early)
+        self.assertIn(anchor, late)
+
+    def test_age_and_build_basis_split(self):
+        overrides = {"Hero": {"ranges": {"1": {"age": "looks about 80", "build": {"text": "short", "basis": "오척단구 (ch 5)"},
+                                                "continuity": "same face as before", "avoid": ["handsome face"]}}}}
+        entry = il.build_prompts(ROWS[:1], overrides)[0]
+        self.assertIn("Subject: Hero, male, looks about 80:", entry["prompt"])
+        self.assertIn("Build: short.", entry["prompt"])
+        self.assertEqual(entry["source_facts"]["build"]["basis"], "오척단구 (ch 5)")
+        self.assertEqual(entry["fill_ins"]["age"], "looks about 80")
+        self.assertIn("glamour retouching, handsome face.", entry["prompt"])
 
     def test_eyes_named_as_irises_and_clear_is_not_pale(self):
         self.assertIn("dark brown irises", self.by_id["hero-1"]["prompt"])
@@ -78,7 +91,8 @@ class PromptTest(unittest.TestCase):
         entries = il.build_prompts()
         groups: dict[str, list[dict]] = {}
         for entry in entries:
-            groups.setdefault(entry["character"], []).append(entry)
+            if not entry.get("skip"):
+                groups.setdefault(entry["character"], []).append(entry)
         for character, items in groups.items():
             for entry in items:
                 own = {tag.casefold() for tag in entry["source_facts"]["tags"]}
@@ -151,6 +165,7 @@ class GenerateTest(unittest.TestCase):
         manifest = {"items": {"hero-1": {"status": "done", "prompt_hash": "old"}}}
         self.assertEqual([e["id"] for e in il.select(self.entries, manifest, [], False, False)], ["hero-100"])
         self.assertEqual(il.state(self.entries[0], manifest["items"]["hero-1"]), "stale")
+        self.assertEqual(il.state(self.entries[0], {"status": "done", "prompt_hash": "old", "keep": True}), "done")
         self.assertEqual(len(il.select(self.entries, manifest, [], True, False)), 2)
         manifest["items"]["hero-1"] = {"status": "failed", "prompt_hash": "x"}
         self.assertEqual(len(il.select(self.entries, manifest, [], False, False)), 2)
@@ -159,6 +174,10 @@ class GenerateTest(unittest.TestCase):
         with self.assertRaises(SystemExit):
             il.select(uncurated, {"items": {}}, ["hero-1"], False, False)
         self.assertEqual(len(il.select(uncurated, {"items": {}}, [], False, True)), 2)
+        skipping = il.build_prompts(ROWS, {"Hero": {"ranges": {"100": {"skip": "vision, not a lasting change"}}}})
+        self.assertEqual([e["id"] for e in il.select(skipping, {"items": {}}, [], False, False)], ["hero-1"])
+        with self.assertRaises(SystemExit):
+            il.select(skipping, {"items": {}}, ["hero-100"], False, False)
 
     def test_variant_keeps_main_record_and_reader_data(self):
         manifest = {"version": 1, "items": {}}
