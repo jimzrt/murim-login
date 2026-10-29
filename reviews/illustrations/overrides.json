@@ -1,0 +1,103 @@
+{
+  "_doc": "Hand-curated prompt inputs for tools/illustrate.py. Per character: identity (constant fill-in cues shared by every range), setting (replaces the wuxia murim phrase for non-murim characters), framing, eyes/expression with their Korean basis (null basis = fill-in), fill_ins (hair, clothing, motif: not stated in the novel), and per-range overrides keyed by range start. Range text may use only that range's profile line plus non-spoiler basics. Characters without an entry are uncurated and blocked from generation by default.",
+  "Jin Taekyung": {
+    "identity": "an oval face with a clean, defined jawline, straight nose, dark straight eyebrows and a lean, youthful neck",
+    "framing": "bust",
+    "eyes": {
+      "text": "deep black irises; his eyes are strikingly clear, bright and sharp",
+      "basis": "맑고 깊은 검은색 눈동자 (ch 280)"
+    },
+    "expression": {
+      "text": "a cheeky, playful, mischievous grin, relaxed and good-humoured, not brooding",
+      "basis": "익살스럽게 웃는 청년 (ch 301); 활짝 웃었다 (ch 166)"
+    },
+    "fill_ins": {
+      "hair": "black hair tied up in a loose topknot with a dark cloth ribbon, a few stray strands over the forehead",
+      "clothing": "a plain dark navy martial robe with a white inner collar and a simple cord belt",
+      "motif": "a few faint drifting embers in the background"
+    },
+    "ranges": {
+      "1": {
+        "appearance": "a handsome young man of about twenty, tall and well-proportioned, slender-looking but strong, with bold, clean-cut features that look at once boyish and worldly"
+      },
+      "993": {
+        "appearance": "a handsome young man of about twenty, tall and well-proportioned, slender-looking but strong, with bold, clean-cut features that look at once boyish and worldly; one hand raised near his chest shows iron-hard palm skin and sharp nails"
+      }
+    }
+  },
+  "Jeok Cheongang": {
+    "identity": "a narrow, angular face with high cheekbones and a strong hooked nose, heavy low-set brows over deep-set eyes, naturally fierce features, a pointed chin beard, and a small, slight frame",
+    "framing": "half-body",
+    "framing_reason": "small, slight build is defining (왜소한 체구, ch 192)",
+    "eyes": {
+      "text": "dark brown irises; his eyes are strikingly clear, bright and sharp",
+      "basis": "투명하고 맑은 눈동자 (ch 438); colour not stated, dark brown is a fill-in"
+    },
+    "expression": {
+      "text": "a gruff, naturally fierce look, mouth corners curled up in a dry, nonchalant half-smile",
+      "basis": "가뜩이나 인상이 나쁜데 (ch 444); 천연덕스럽게 입꼬리를 말아 올린 노인 (ch 435)"
+    },
+    "fill_ins": {
+      "motif": "faint drifting red embers in the background"
+    },
+    "ranges": {
+      "124": {
+        "appearance": "a very old, frail-looking little man who looks close to death, with white eyebrows and a deeply wrinkled, naturally fierce face",
+        "fill_ins": {
+          "hair": "thin, unkempt white hair tied in a loose, messy topknot, with a sparse white chin beard",
+          "clothing": "shabby, patched and frayed robes in faded earth tones"
+        }
+      },
+      "505": {
+        "appearance": "a man of middle age, recently returned to youth, with red hair, red eyebrows and a dark-red chin beard; the frailty of old age is gone but his face is as fierce as ever",
+        "fill_ins": {
+          "hair": "thick red hair tied back in a loose topknot",
+          "clothing": "a plain, slightly worn charcoal martial robe with a deep crimson inner collar",
+          "motif": "subtle red flame wisps and drifting embers in the background"
+        }
+      },
+      "711": {
+        "appearance": "a rejuvenated man of middle age with a cleanly shaved bald head glinting in the light, red eyebrows, a dark-red chin beard and a fierce face; his clear eyes carry the weight of many years",
+        "eyes": {
+          "text": "dark brown irises; his eyes are strikingly clear, bright and sharp, with an old man's weight in the gaze",
+          "basis": "비록 몸은 젊어졌으나 눈빛에 담긴 세월만은 여전하다 (ch 938); colour not stated"
+        },
+        "fill_ins": {
+          "clothing": "a worn, faded grey monk's robe"
+        }
+      },
+      "945": {
+        "appearance": "a rejuvenated, youthful-bodied man with short red hair growing back on a previously shaved head, red eyebrows, a dark-red chin beard and a fierce face; his old, worn eyes belie the young body",
+        "eyes": {
+          "text": "dark brown irises; his eyes are clear but old and worn, belying the young body",
+          "basis": "old worn eyes (profile line); colour not stated"
+        },
+        "fill_ins": {
+          "hair": "short, bristly red hair a few weeks grown out",
+          "clothing": "a plain charcoal martial robe with a deep crimson inner collar"
+        }
+      }
+    }
+  },
+  "Hyuk Mujin": {
+    "identity": "a long face with a broad, flat nose, small narrow eyes and a wide mouth",
+    "framing": "bust",
+    "eyes": {
+      "text": "dark brown irises under thick, caterpillar-like black eyebrows; insolent, sharp eyes",
+      "basis": "싸가지 없는 눈매 (ch 12); 특유의 송충이 눈썹 (ch 12); colour not stated, dark brown is a fill-in"
+    },
+    "expression": {
+      "text": "an insolent, irreverent sidelong look with a lopsided, cocky half-smirk, not brooding",
+      "basis": "싸가지 없는 눈매 (ch 12); profile personality: irreverent, self-deprecating"
+    },
+    "fill_ins": {
+      "hair": "black hair tied up in a short, practical topknot",
+      "motif": "none"
+    },
+    "ranges": {
+      "6": {
+        "appearance": "a lean, agile young man about 180 cm tall, with strikingly pale, almost milk-white skin and a plain, homely, unattractive face (deliberately not handsome), wearing the navy martial robe of the Taewon Jin family"
+      }
+    }
+  }
+}
