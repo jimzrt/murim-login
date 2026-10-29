@@ -19,7 +19,8 @@
       "generations": 1,
       "log": ".work/illustrations/codex/jin-taekyung-1-20261029T224104Z",
       "image": "characters/jin-taekyung-1.webp",
-      "webp_bytes": 34234
+      "webp_bytes": 34234,
+      "keep": true
     },
     "jeok-cheongang-124": {
       "status": "done",
@@ -39,27 +40,28 @@
       "generations": 1,
       "log": ".work/illustrations/codex/jeok-cheongang-124-20261029T224133Z",
       "image": "characters/jeok-cheongang-124.webp",
-      "webp_bytes": 57832
+      "webp_bytes": 57832,
+      "keep": true
     },
     "jeok-cheongang-505": {
       "status": "done",
-      "prompt_hash": "f1947a1128b7af02",
-      "generated_at": "2026-10-29T22:43:28+00:00",
+      "prompt_hash": "90032cd43fd53c52",
+      "generated_at": "2026-10-29T23:05:48+00:00",
       "original": ".work/illustrations/originals/jeok-cheongang-505.png",
       "reference": null,
-      "thread_id": "01a189d4-80e0-7f70-af29-ebd6816204a0",
-      "seconds": 41.2,
+      "thread_id": "01a189e8-c4a1-74a2-9058-f3669149411f",
+      "seconds": 52.6,
       "usage": {
-        "input_tokens": 54102,
-        "cached_input_tokens": 44544,
+        "input_tokens": 50839,
+        "cached_input_tokens": 37376,
         "cache_write_input_tokens": 0,
-        "output_tokens": 521,
-        "reasoning_output_tokens": 65
+        "output_tokens": 749,
+        "reasoning_output_tokens": 184
       },
       "generations": 1,
-      "log": ".work/illustrations/codex/jeok-cheongang-505-20261029T224247Z",
+      "log": ".work/illustrations/codex/jeok-cheongang-505-20261029T230455Z",
       "image": "characters/jeok-cheongang-505.webp",
-      "webp_bytes": 41696
+      "webp_bytes": 56950
     },
     "hyuk-mujin-6": {
       "status": "done",
@@ -79,7 +81,8 @@
       "generations": 1,
       "log": ".work/illustrations/codex/hyuk-mujin-6-20261029T224328Z",
       "image": "characters/hyuk-mujin-6.webp",
-      "webp_bytes": 31648
+      "webp_bytes": 31648,
+      "keep": true
     },
     "hyuk-mujin-6~ref": {
       "status": "done",
@@ -98,6 +101,226 @@
       },
       "generations": 1,
       "log": ".work/illustrations/codex/hyuk-mujin-6-20261029T225258Z"
+    },
+    "jin-taekyung-993": {
+      "status": "done",
+      "prompt_hash": "dd41999a627166ba",
+      "generated_at": "2026-10-29T23:07:10+00:00",
+      "original": ".work/illustrations/originals/jin-taekyung-993.png",
+      "reference": null,
+      "thread_id": "01a189e9-bc54-7f62-889e-a436198c776b",
+      "seconds": 71.6,
+      "usage": {
+        "input_tokens": 157987,
+        "cached_input_tokens": 146432,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 771,
+        "reasoning_output_tokens": 92
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/jin-taekyung-993-20261029T230559Z",
+      "image": "characters/jin-taekyung-993.webp",
+      "webp_bytes": 37046
+    },
+    "jeok-cheongang-711": {
+      "status": "done",
+      "prompt_hash": "5598336c54ee3dcd",
+      "generated_at": "2026-10-29T23:07:51+00:00",
+      "original": ".work/illustrations/originals/jeok-cheongang-711.png",
+      "reference": null,
+      "thread_id": "01a189ea-d49b-7771-9e53-bd846df8c875",
+      "seconds": 40.4,
+      "usage": {
+        "input_tokens": 94325,
+        "cached_input_tokens": 84096,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 700,
+        "reasoning_output_tokens": 69
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/jeok-cheongang-711-20261029T230710Z",
+      "image": "characters/jeok-cheongang-711.webp",
+      "webp_bytes": 44164
+    },
+    "jeok-cheongang-945": {
+      "status": "done",
+      "prompt_hash": "ec7f173095536c18",
+      "generated_at": "2026-10-29T23:09:06+00:00",
+      "original": ".work/illustrations/originals/jeok-cheongang-945.png",
+      "reference": null,
+      "thread_id": "01a189eb-7300-7c22-9188-e015269875fd",
+      "seconds": 75.4,
+      "usage": {
+        "input_tokens": 48742,
+        "cached_input_tokens": 42112,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 696,
+        "reasoning_output_tokens": 149
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/jeok-cheongang-945-20261029T230751Z",
+      "image": "characters/jeok-cheongang-945.webp",
+      "webp_bytes": 29708
+    },
+    "cheongpung-130": {
+      "status": "done",
+      "prompt_hash": "34fa339516c5c426",
+      "generated_at": "2026-10-29T23:09:52+00:00",
+      "original": ".work/illustrations/originals/cheongpung-130.png",
+      "reference": null,
+      "thread_id": "01a189ec-99dc-7513-acaf-4059b4e1b782",
+      "seconds": 46.1,
+      "usage": {
+        "input_tokens": 48165,
+        "cached_input_tokens": 41728,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 505,
+        "reasoning_output_tokens": 16
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/cheongpung-130-20261029T230906Z",
+      "image": "characters/cheongpung-130.webp",
+      "webp_bytes": 39676
+    },
+    "team-leader-choi-41": {
+      "status": "done",
+      "prompt_hash": "6a19220a68dff003",
+      "generated_at": "2026-10-29T23:11:02+00:00",
+      "original": ".work/illustrations/originals/team-leader-choi-41.png",
+      "reference": null,
+      "thread_id": "01a189ed-4e4b-7c30-ad7a-e410d5da9534",
+      "seconds": 69.2,
+      "usage": {
+        "input_tokens": 49898,
+        "cached_input_tokens": 41600,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 401,
+        "reasoning_output_tokens": 7
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/team-leader-choi-41-20261029T230952Z",
+      "image": "characters/team-leader-choi-41.webp",
+      "webp_bytes": 25702
+    },
+    "jin-wikyung-6": {
+      "status": "done",
+      "prompt_hash": "5ee8f1acf475cd22",
+      "generated_at": "2026-10-29T23:11:35+00:00",
+      "original": ".work/illustrations/originals/jin-wikyung-6.png",
+      "reference": null,
+      "thread_id": "01a189ee-5cdc-77a3-84a2-a81af267feae",
+      "seconds": 33.6,
+      "usage": {
+        "input_tokens": 56146,
+        "cached_input_tokens": 45696,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 535,
+        "reasoning_output_tokens": 51
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/jin-wikyung-6-20261029T231102Z",
+      "image": "characters/jin-wikyung-6.webp",
+      "webp_bytes": 50170
+    },
+    "taishan-37": {
+      "status": "done",
+      "prompt_hash": "be93703551f1b411",
+      "generated_at": "2026-10-29T23:12:01+00:00",
+      "original": ".work/illustrations/originals/taishan-37.png",
+      "reference": null,
+      "thread_id": "01a189ee-e074-7bd0-8085-a77f7777a8fc",
+      "seconds": 25.9,
+      "usage": {
+        "input_tokens": 32870,
+        "cached_input_tokens": 26240,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 422,
+        "reasoning_output_tokens": 0
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/taishan-37-20261029T231135Z",
+      "image": "characters/taishan-37.webp",
+      "webp_bytes": 36028
+    },
+    "human-butcher-9": {
+      "status": "done",
+      "prompt_hash": "c13c91771d7603c8",
+      "generated_at": "2026-10-29T23:12:53+00:00",
+      "original": ".work/illustrations/originals/human-butcher-9.png",
+      "reference": null,
+      "thread_id": "01a189ef-4644-7763-88a9-f8f1af1fe046",
+      "seconds": 51.3,
+      "usage": {
+        "input_tokens": 50095,
+        "cached_input_tokens": 35968,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 461,
+        "reasoning_output_tokens": 7
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/human-butcher-9-20261029T231201Z",
+      "image": "characters/human-butcher-9.webp",
+      "webp_bytes": 60130
+    },
+    "skeleton-king-425": {
+      "status": "done",
+      "prompt_hash": "e87ede1ecc4ebd27",
+      "generated_at": "2026-10-29T23:13:25+00:00",
+      "original": ".work/illustrations/originals/skeleton-king-425.png",
+      "reference": null,
+      "thread_id": "01a189f0-0f1a-7051-8c36-75f89c1fb38f",
+      "seconds": 32.5,
+      "usage": {
+        "input_tokens": 54137,
+        "cached_input_tokens": 44544,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 492,
+        "reasoning_output_tokens": 40
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/skeleton-king-425-20261029T231253Z",
+      "image": "characters/skeleton-king-425.webp",
+      "webp_bytes": 49658
+    },
+    "skeleton-king-1161": {
+      "status": "done",
+      "prompt_hash": "5ae4ac78a55f9a99",
+      "generated_at": "2026-10-29T23:14:01+00:00",
+      "original": ".work/illustrations/originals/skeleton-king-1161.png",
+      "reference": null,
+      "thread_id": "01a189f0-8ea8-7971-9719-a84b4cf22049",
+      "seconds": 35.8,
+      "usage": {
+        "input_tokens": 54116,
+        "cached_input_tokens": 44544,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 504,
+        "reasoning_output_tokens": 68
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/skeleton-king-1161-20261029T231326Z",
+      "image": "characters/skeleton-king-1161.webp",
+      "webp_bytes": 43148
+    },
+    "magic-johnson-242": {
+      "status": "done",
+      "prompt_hash": "48ce370df4cdbf47",
+      "generated_at": "2026-10-29T23:15:05+00:00",
+      "original": ".work/illustrations/originals/magic-johnson-242.png",
+      "reference": null,
+      "thread_id": "01a189f1-1ac1-7673-89c2-24e863667a64",
+      "seconds": 63.5,
+      "usage": {
+        "input_tokens": 74253,
+        "cached_input_tokens": 64256,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 741,
+        "reasoning_output_tokens": 246
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/magic-johnson-242-20261029T231401Z",
+      "image": "characters/magic-johnson-242.webp",
+      "webp_bytes": 56344
     }
   }
 }

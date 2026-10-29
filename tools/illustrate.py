@@ -14,7 +14,26 @@ Stages:
              reader/public/characters/<slug>-<start>.webp and reader/src/data/character-illustrations.json
              maps character -> ranges. Done ids are skipped. Any failure stops the run; a quota or
              rate-limit failure is recorded as `blocked` and never retried in the same run.
-3. status    done / stale / pending / failed per id.
+3. status    done / stale / pending / failed per id. A done record with `keep: true` is an accepted
+             image that stays done when later prompt-builder changes alter its hash.
+
+Prompt technique (OpenAI image-gen prompting guide, Codex imagegen skill, practitioner guidance):
+- Labeled spec in the order the Codex imagegen skill itself uses (Use case, Asset type, Style, Subject,
+  details, Composition, Scene, Avoid), and the wrapper asks Codex to pass it verbatim, so the agent
+  only normalizes instead of rewriting or adding creative details.
+- One fixed identity anchor per character (face shape, nose, brows, eyes, marks), repeated word for
+  word in every range with "do not redesign the face"; only the range's look (age, hair, build,
+  clothing) changes. Rewording the anchor between images rewrites the face.
+- Age as a number ("looks about 45"), and aging/rejuvenation as concrete texture (wrinkles, folds),
+  with a Continuity line naming what stays the same as an earlier range (never a later one).
+- Concrete features instead of value words: "ugly" or "ordinary" become specific features (broad flat
+  nose, uneven brows); plain characters add idealized-beauty terms to Avoid, since the model drifts
+  to a generic handsome face otherwise. Glamour retouching is always avoided.
+- Iris colour stated explicitly; Korean 맑은/투명한 눈 means clear and sharp, not pale.
+- Framing and orientation stated explicitly (bust or half-body, vertical 4:5); short, no
+  quality-keyword spam; exclusions in one Avoid line.
+- Style anchored by the shared verbatim text block, not by reference images: an attached reference
+  is treated as an edit target and copies its face (tested on Hyuk Mujin).
 
     python tools/illustrate.py prompts
     python tools/illustrate.py generate jin-taekyung-1 --max 1
@@ -54,11 +73,17 @@ STYLE = (
     "eye-level, character centered, plain softly blurred ink-wash background in muted warm tones, soft "
     "cinematic lighting, clean linework, painterly shading. No text, no watermark, no border."
 )
-HALF_BODY = "Framing: half-body (waist-up) instead of a bust, so the build reads clearly."
+FRAMING = {
+    "bust": "bust portrait (head and shoulders), vertical 4:5 portrait orientation, face large and in sharp focus.",
+    "half-body": ("half-body (waist-up) instead of a bust, so the build reads clearly; vertical 4:5 portrait "
+                  "orientation, face still clearly readable."),
+}
+AVOID = ["text", "watermark", "border", "extra characters", "glamour retouching"]
 WRAPPER = (
     "Use your image generation tool to create exactly one image from the prompt below. "
     "Generate exactly one image and do not retry. Do not read files, run shell commands, or copy, "
-    "move or save any files. After the single generation, reply only with: done\n\nPROMPT:\n"
+    "move or save any files. Pass the prompt to the image tool exactly as written: do not rewrite, "
+    "shorten or embellish it. After the single generation, reply only with: done\n\nPROMPT:\n"
 )
 REFERENCE_WRAPPER = (
     "New image, new pose and composition. Use the attached image only as an art-style reference "
@@ -146,39 +171,65 @@ def auto_eyes(tags: list[str]) -> dict:
     return {"text": text, "basis": basis}
 
 
+def basis_value(value) -> dict | None:
+    """Override values are a plain string (a fill-in) or {text, basis} (basis = Korean quote, or null)."""
+    if value is None or isinstance(value, dict):
+        return value
+    return {"text": value, "basis": None}
+
+
 def build_entry(row: dict, item: dict, gender: str | None, overrides: dict) -> dict:
     curated = row["english"] in overrides
     spec = resolve(overrides.get(row["english"], {}), item["from"])
     setting = spec.get("setting") or MURIM_SETTING
     framing = spec.get("framing", "bust")
     appearance = spec.get("appearance") or re.sub(rf"^{re.escape(row['english'])}(,\s*)?\s*(is|has|wears)?\s*", "", item["description"]).rstrip(".")
-    eyes = spec.get("eyes") or auto_eyes(item["tags"])
-    expression = spec.get("expression") or {"text": "a calm, composed expression", "basis": None}
+    fields = {
+        "age": basis_value(spec.get("age")),
+        "build": basis_value(spec.get("build")),
+        "eyes": basis_value(spec.get("eyes")) or auto_eyes(item["tags"]),
+        "expression": basis_value(spec.get("expression")) or {"text": "a calm, composed expression", "basis": None},
+    }
     fill_ins = {key: value for key, value in spec.get("fill_ins", {}).items() if value and value != "none"}
     identity = spec.get("identity")
+    continuity = spec.get("continuity")
+    avoid = [*AVOID, *spec.get("avoid", [])]
 
-    parts = [STYLE.format(setting=setting)]
-    if framing == "half-body":
-        parts.append(HALF_BODY)
     label = f"{row['english']}, {gender}" if gender in ("male", "female") else row["english"]
-    subject = f"Subject: {label}: {appearance}."
+    if fields["age"]:
+        label += f", {fields['age']['text']}"
+    lines = [
+        "Use case: illustration-story",
+        "Asset type: single-character portrait for a web-novel reader's character page",
+        f"Style/medium: {STYLE.format(setting=setting)}",
+        f"Subject: {label}: {appearance}.",
+    ]
     if identity:
-        subject += f" Constant identity features: {identity}."
+        lines.append(f"Identity anchor (identical in every portrait of this character; do not redesign the face): {identity}.")
+    if continuity:
+        lines.append(f"Continuity: {continuity}.")
+    if fields["build"]:
+        lines.append(f"Build: {fields['build']['text']}.")
     for key in ("hair", "clothing"):
         if key in fill_ins:
-            subject += f" {key.capitalize()}: {fill_ins[key]}."
-    parts.append(subject)
-    parts.append(f"Eyes: {eyes['text']}.")
-    parts.append(f"Expression: {expression['text']}.")
+            lines.append(f"{key.capitalize()}: {fill_ins[key]}.")
+    lines.append(f"Eyes: {fields['eyes']['text']}.")
+    lines.append(f"Expression: {fields['expression']['text']}.")
+    lines.append(f"Composition/framing: {FRAMING[framing]}")
     if "motif" in fill_ins:
-        parts.append(f"Motif: {fill_ins['motif']}.")
-    prompt = "\n".join(parts)
+        lines.append(f"Scene/backdrop: {fill_ins['motif']}.")
+    lines.append(f"Avoid: {', '.join(avoid)}.")
+    prompt = "\n".join(lines)
 
     source = {"line": item["line"], "tags": item["tags"], "gender": gender, "appearance": appearance}
     filled = dict(fill_ins)
     if identity:
         filled["identity"] = identity
-    for name, value in (("eyes", eyes), ("expression", expression)):
+    if continuity:
+        filled["continuity"] = continuity
+    for name, value in fields.items():
+        if not value:
+            continue
         if value.get("basis"):
             source[name] = value
         else:
@@ -196,6 +247,7 @@ def build_entry(row: dict, item: dict, gender: str | None, overrides: dict) -> d
         "setting": setting,
         "framing": framing,
         "framing_reason": spec.get("framing_reason"),
+        "skip": spec.get("skip"),
         "prompt": prompt,
         "prompt_hash": hashlib.sha256(prompt.encode("utf-8")).hexdigest()[:16],
         "source_facts": source,
@@ -253,7 +305,7 @@ def state(entry: dict, record: dict | None) -> str:
         return "pending"
     if record.get("status") != "done":
         return record.get("status", "pending")
-    if record.get("prompt_hash") != entry["prompt_hash"]:
+    if record.get("prompt_hash") != entry["prompt_hash"] and not record.get("keep"):
         return "stale"
     return "done"
 
@@ -269,6 +321,10 @@ def select(entries: list[dict], manifest: dict, ids: list[str], force: bool, all
     if unknown:
         raise SystemExit(f"unknown ids: {', '.join(unknown)}")
     chosen = [by_id[name] for name in ids] if ids else entries
+    skipped = [entry["id"] for entry in chosen if entry.get("skip")]
+    if ids and skipped:
+        raise SystemExit(f"skipped in overrides: {', '.join(skipped)}")
+    chosen = [entry for entry in chosen if not entry.get("skip")]
     if not allow_uncurated:
         blocked = [entry["id"] for entry in chosen if not entry["curated"]]
         if ids and blocked:
@@ -435,7 +491,9 @@ def command_status(args: argparse.Namespace) -> int:
     counts: dict[str, int] = {}
     for entry in entries:
         label = state(entry, manifest["items"].get(entry["id"]))
-        if not entry["curated"] and label == "pending":
+        if entry.get("skip") and label == "pending":
+            label = "skipped"
+        elif not entry["curated"] and label == "pending":
             label = "uncurated"
         counts[label] = counts.get(label, 0) + 1
         if args.verbose or label in ("failed", "blocked", "stale"):

@@ -1,7 +1,15 @@
 {
-  "_doc": "Hand-curated prompt inputs for tools/illustrate.py. Per character: identity (constant fill-in cues shared by every range), setting (replaces the wuxia murim phrase for non-murim characters), framing, eyes/expression with their Korean basis (null basis = fill-in), fill_ins (hair, clothing, motif: not stated in the novel), and per-range overrides keyed by range start. Range text may use only that range's profile line plus non-spoiler basics. Characters without an entry are uncurated and blocked from generation by default.",
+  "_doc": "Hand-curated prompt inputs for tools/illustrate.py. Per character: identity (fixed anchor repeated verbatim in every range), setting (replaces the wuxia murim phrase for non-murim characters), framing, age/build/eyes/expression as a string (fill-in) or {text, basis} (basis = Korean quote), fill_ins (hair, clothing, motif), avoid (extra Avoid terms), continuity (what stays the same as an EARLIER range), skip (reason; no image). Per-range overrides are keyed by range start. A range may use only its own profile line plus non-spoiler basics; never a later range.",
+  "_notes": [
+    "Techniques adopted (see the tools/illustrate.py docstring): labeled spec in the Codex imagegen order, passed verbatim; one fixed identity anchor per character; numeric apparent age; concrete un-idealized features plus Avoid terms instead of 'ugly'/'ordinary'; explicit iris colour; explicit framing and 4:5 orientation; text-only style anchoring.",
+    "Jeok Cheongang build: ch505 says 탄력 있는 근육으로 이루어진 단단한 체구와 칠 척에 달하는 키 and 40대 중후반으로 보이는 몸짱 중년인 (tall, firm and muscular, looks mid-to-late forties); the profile line's 'small and slight' is wrong for 505-710. Later ranges say small again (ch795 왜소한 체구; ch972 a disciple 3-4 heads taller), so build is per range, not part of the identity anchor.",
+    "Team Leader Choi from ch830: the scars and lost arm are a vision of an apocalyptic future (ch830, 종말), not a lasting change, so the range is skipped.",
+    "Human Butcher: the ch9 range start is a false hit (인간 백정 there is an epithet for Jin Wikyung); the character 인도 (人屠) appears at ch160. 'Butcher' is a nickname for how he kills, not a trade.",
+    "Jin Wikyung: 꺼질 듯한 눈동자 (ch21) is grief while identifying dead children, not a lasting trait; rendered as heavy, weary eyes."
+  ],
   "Jin Taekyung": {
     "identity": "an oval face with a clean, defined jawline, straight nose, dark straight eyebrows and a lean, youthful neck",
+    "age": "about twenty",
     "framing": "bust",
     "eyes": {
       "text": "deep black irises; his eyes are strikingly clear, bright and sharp",
@@ -21,14 +29,15 @@
         "appearance": "a handsome young man of about twenty, tall and well-proportioned, slender-looking but strong, with bold, clean-cut features that look at once boyish and worldly"
       },
       "993": {
-        "appearance": "a handsome young man of about twenty, tall and well-proportioned, slender-looking but strong, with bold, clean-cut features that look at once boyish and worldly; one hand raised near his chest shows iron-hard palm skin and sharp nails"
+        "appearance": "a handsome young man of about twenty, tall and well-proportioned, slender-looking but strong, with bold, clean-cut features that look at once boyish and worldly; one hand raised near his chest shows iron-hard palm skin and sharp nails",
+        "continuity": "the same young man as before the Bone Transformation: same face, hair and robe; only the hand has changed"
       }
     }
   },
   "Jeok Cheongang": {
-    "identity": "a narrow, angular face with high cheekbones and a strong hooked nose, heavy low-set brows over deep-set eyes, naturally fierce features, a pointed chin beard, and a small, slight frame",
+    "identity": "a long, narrow face with high, sharp cheekbones; a long, slightly hooked nose; thick brows that slant down toward the nose in a permanent scowl; deep-set, hooded eyes; deep lines from the nose to the corners of a thin-lipped mouth; a pointed chin beard",
     "framing": "half-body",
-    "framing_reason": "small, slight build is defining (왜소한 체구, ch 192)",
+    "framing_reason": "build changes between ranges and is defining (오척단구 / 왜소한 체구 when old, 칠 척 at ch505)",
     "eyes": {
       "text": "dark brown irises; his eyes are strikingly clear, bright and sharp",
       "basis": "투명하고 맑은 눈동자 (ch 438); colour not stated, dark brown is a fill-in"
@@ -42,32 +51,57 @@
     },
     "ranges": {
       "124": {
+        "age": "looks well over ninety",
         "appearance": "a very old, frail-looking little man who looks close to death, with white eyebrows and a deeply wrinkled, naturally fierce face",
+        "build": {
+          "text": "small, short and slight",
+          "basis": "남루한 옷차림에 왜소한 체구 (ch 192); 작달막한 체구 (ch 172)"
+        },
         "fill_ins": {
           "hair": "thin, unkempt white hair tied in a loose, messy topknot, with a sparse white chin beard",
           "clothing": "shabby, patched and frayed robes in faded earth tones"
         }
       },
       "505": {
-        "appearance": "a man of middle age, recently returned to youth, with red hair, red eyebrows and a dark-red chin beard; the frailty of old age is gone but his face is as fierce as ever",
+        "age": "looks in his mid-to-late forties",
+        "appearance": "a man returned to youth: weathered, craggy skin with crow's feet and deep scowl lines, red eyebrows and a dark-red chin beard; the frailty of old age is gone but his face is as fierce and unhandsome as ever",
+        "continuity": "the same man as the ancient, frail Fire King of earlier chapters, restored to youth: identical bone structure, nose, brows and scowl lines, with the skin and hair of a man in his late forties instead of a ninety-year-old",
+        "build": {
+          "text": "tall and upright, with a firm, hard build of springy, wiry muscle; lean, not bulky",
+          "basis": "탄력 있는 근육으로 이루어진 단단한 체구와 칠 척에 달하는 키; 40대 중후반으로 보이는 몸짱 중년인 (ch 505)"
+        },
         "fill_ins": {
-          "hair": "thick red hair tied back in a loose topknot",
+          "hair": "flame-red hair worn loose and long, blowing in the wind like fire",
           "clothing": "a plain, slightly worn charcoal martial robe with a deep crimson inner collar",
           "motif": "subtle red flame wisps and drifting embers in the background"
-        }
+        },
+        "avoid": ["handsome leading-man face", "smooth idealized skin", "bodybuilder bulk"]
       },
       "711": {
-        "appearance": "a rejuvenated man of middle age with a cleanly shaved bald head glinting in the light, red eyebrows, a dark-red chin beard and a fierce face; his clear eyes carry the weight of many years",
+        "age": "looks in his mid-to-late forties",
+        "appearance": "a rejuvenated man with a roughly shaved bald head glinting in the light, red eyebrows, a dark-red chin beard and weathered, fierce features; his clear eyes carry the weight of many years",
+        "continuity": "the same man as the red-haired, youth-restored Fire King of earlier chapters, now with a shaved head and a monk's robe",
+        "build": {
+          "text": "small and slight but wiry",
+          "basis": "왜소한 체구의 적천강 (ch 795)"
+        },
         "eyes": {
           "text": "dark brown irises; his eyes are strikingly clear, bright and sharp, with an old man's weight in the gaze",
           "basis": "비록 몸은 젊어졌으나 눈빛에 담긴 세월만은 여전하다 (ch 938); colour not stated"
         },
         "fill_ins": {
           "clothing": "a worn, faded grey monk's robe"
-        }
+        },
+        "avoid": ["handsome leading-man face", "smooth idealized skin"]
       },
       "945": {
-        "appearance": "a rejuvenated, youthful-bodied man with short red hair growing back on a previously shaved head, red eyebrows, a dark-red chin beard and a fierce face; his old, worn eyes belie the young body",
+        "age": "looks in his mid-to-late forties",
+        "appearance": "a rejuvenated, youthful-bodied man with short red hair growing back on a previously shaved head, red eyebrows, a dark-red chin beard and weathered, fierce features; his old, worn eyes belie the young body",
+        "continuity": "the same man as the bald, youth-restored Fire King of earlier chapters, with his red hair grown back short",
+        "build": {
+          "text": "small and slight but wiry",
+          "basis": "머리 서너 개는 더 큰 덩치의 제자 (ch 972: his disciple towers over him)"
+        },
         "eyes": {
           "text": "dark brown irises; his eyes are clear but old and worn, belying the young body",
           "basis": "old worn eyes (profile line); colour not stated"
@@ -75,12 +109,14 @@
         "fill_ins": {
           "hair": "short, bristly red hair a few weeks grown out",
           "clothing": "a plain charcoal martial robe with a deep crimson inner collar"
-        }
+        },
+        "avoid": ["handsome leading-man face", "smooth idealized skin"]
       }
     }
   },
   "Hyuk Mujin": {
     "identity": "a long face with a broad, flat nose, small narrow eyes and a wide mouth",
+    "age": "early twenties",
     "framing": "bust",
     "eyes": {
       "text": "dark brown irises under thick, caterpillar-like black eyebrows; insolent, sharp eyes",
@@ -94,9 +130,220 @@
       "hair": "black hair tied up in a short, practical topknot",
       "motif": "none"
     },
+    "avoid": ["handsome leading-man face", "idealized beauty"],
     "ranges": {
       "6": {
         "appearance": "a lean, agile young man about 180 cm tall, with strikingly pale, almost milk-white skin and a plain, homely, unattractive face (deliberately not handsome), wearing the navy martial robe of the Taewon Jin family"
+      }
+    }
+  },
+  "Cheongpung": {
+    "identity": "a round, soft-featured face with a small, rounded nose, gently arched brows, slightly full cheeks and an easy, open look; neat but unremarkable features, the kind of face seen on many young men",
+    "age": "just past twenty",
+    "framing": "bust",
+    "eyes": {
+      "text": "dark brown irises; his eyes are strikingly clear and bright, guileless rather than intense",
+      "basis": "서글서글한 인상과 맑은 눈동자 (ch 130); colour not stated"
+    },
+    "expression": {
+      "text": "an affable, dreamy, slightly absent-minded smile, innocent and friendly",
+      "basis": "서글서글한 인상 (ch 130); 선한 인상 (ch 157); 맑은 눈동자로 멍하니 (ch 536)"
+    },
+    "build": {
+      "text": "average, moderate build, well-formed but not muscular",
+      "basis": "적당한 체구에 선한 인상 (ch 157); 실로 완벽한 근골이다 (ch 545)"
+    },
+    "fill_ins": {
+      "hair": "black hair tied in a simple topknot with a plain cloth band, a few loose strands",
+      "clothing": "a plain light blue-grey martial robe of simple cut, a sword hilt just visible over one shoulder",
+      "motif": "a few drifting plum blossom petals in the background"
+    },
+    "avoid": ["handsome leading-man face", "intense brooding stare", "forehead scar"],
+    "ranges": {
+      "130": {
+        "appearance": "a young man just past twenty with an ordinary, pleasant face and an average build; looks too young and gentle to be a master swordsman"
+      }
+    }
+  },
+  "Team Leader Choi": {
+    "setting": "present-day Seoul, modern hunter era with dungeon gates",
+    "identity": "a slim, symmetrical face with a sharp V-line jaw, a high straight nose, neat dark brows, double-lidded eyes and smooth, clear skin",
+    "age": "late twenties",
+    "framing": "bust",
+    "eyes": "dark brown irises; calm, observant eyes",
+    "expression": {
+      "text": "calm, composed and pragmatic, a faint confident half-smile",
+      "basis": "profile personality: calm, pragmatic, meticulous"
+    },
+    "build": {
+      "text": "slender and tall, a slim build that hides great strength",
+      "basis": "겉보기에는 늘씬한 체구지만 그 안에는 어마어마한 근력이 숨어 있다 (ch 210)"
+    },
+    "fill_ins": {
+      "hair": "short, neatly styled black hair",
+      "clothing": "a thin, slim-fit casual suit jacket over an open-collared luxury designer shirt, no tie",
+      "motif": "a blurred modern city at dusk in muted warm tones"
+    },
+    "ranges": {
+      "41": {
+        "appearance": "a strikingly handsome man in his twenties with celebrity-level looks, as if he had just stepped out of a fashion photo shoot",
+        "eyes": {
+          "text": "dark brown irises; calm, observant eyes",
+          "basis": null
+        }
+      },
+      "830": {
+        "skip": "ch830 shows a vision of an apocalyptic future (종말), not a lasting change"
+      }
+    }
+  },
+  "Jin Wikyung": {
+    "identity": "a broad, square face with a heavy jaw, a wide, strong nose, thick straight black brows and a short, neatly trimmed black beard along the jaw; weathered skin",
+    "age": "thirty-five",
+    "framing": "half-body",
+    "framing_reason": "giant, bear-like build is defining (불곰 같은 덩치, ch 10; 우랄산맥 같은 어깨, ch 443)",
+    "build": {
+      "text": "a towering giant with a bulky, bear-like body, enormous broad shoulders and heavy muscle showing through his robe",
+      "basis": "불곰 같은 덩치 (ch 10); 우랄산맥 같은 어깨와 의복 위로 도드라진 근육 (ch 443)"
+    },
+    "eyes": {
+      "text": "dark brown irises; heavy, weary eyes under the stern brows",
+      "basis": "꺼질 듯한 눈동자 (ch 21, grief); colour not stated"
+    },
+    "expression": {
+      "text": "stern, dignified and grave, the weight of responsibility for his people in his face",
+      "basis": "근엄한 말투 (ch 10); 당당한 풍채와 자연스럽게 흘러나오는 위엄 (ch 187)"
+    },
+    "fill_ins": {
+      "hair": "black hair bound in a neat topknot with a dark crown pin"
+    },
+    "ranges": {
+      "6": {
+        "appearance": "a giant of a man with an imposing, dignified bearing, wearing a dark martial robe embroidered with a silver flying dragon, the hilt of the Taewon Jin family's heirloom sword at his side",
+        "fill_ins": {
+          "clothing": "a deep navy martial robe embroidered across the chest and shoulder with a silver flying dragon"
+        }
+      }
+    }
+  },
+  "Taishan": {
+    "identity": "a huge, round, childlike face with full cheeks, a small snub nose, sparse brows and enormous, round, bulging eyes as big as a calf's",
+    "age": "looks like an overgrown boy, age hard to tell",
+    "framing": "half-body",
+    "framing_reason": "mountain-sized giant frame is defining (구척장신의 거구, ch 1059)",
+    "build": {
+      "text": "a mountain-like giant about 2.7 m tall, hugely bulky, his shoulders filling the frame",
+      "basis": "구척장신의 거구 (ch 1059); 이름만큼이나 덩치가 산만 하고 (ch 937)"
+    },
+    "eyes": {
+      "text": "dark brown irises in enormous, round, bulging eyes",
+      "basis": "퉁방울만 한 눈동자 (ch 533); 송아지처럼 커다란 태산의 눈 (ch 1128); colour not stated"
+    },
+    "expression": {
+      "text": "a simple, childlike, wide-eyed blank look, innocent and a little wary",
+      "basis": "덩치 큰 어린아이의 모습 (ch 534); profile personality: childlike, wary of strangers"
+    },
+    "fill_ins": {
+      "hair": "short, shaggy black hair",
+      "clothing": "a simple dark sleeveless tunic with a rope belt, huge bare arms",
+      "motif": "none"
+    },
+    "avoid": ["handsome face", "menacing villain look"],
+    "ranges": {
+      "37": {
+        "appearance": "a gigantic, bulky man the size of a small mountain, whose face and manner are those of a big child"
+      }
+    }
+  },
+  "Human Butcher": {
+    "identity": "a lean, hard, sun-darkened face with sunken cheeks, a thin, slightly crooked nose, narrow flat brows, a thin cruel mouth and a short, rough black beard",
+    "age": "looks in his late thirties",
+    "framing": "half-body",
+    "framing_reason": "shows the long horse-cutting sword (참마검) he is known by",
+    "eyes": "dark brown irises; cold, flat, killing eyes",
+    "expression": {
+      "text": "cold, calm and quietly murderous, a dagger-like killing intent behind an indifferent face",
+      "basis": "담담한 목소리 속, 비수처럼 도사린 살기 (ch 160)"
+    },
+    "fill_ins": {
+      "hair": "black hair pulled back roughly and tied with a leather thong",
+      "clothing": "a dark Han-style martial robe under a weathered sheepskin-and-fur steppe cloak",
+      "motif": "a faint, windswept northern steppe plateau in the blurred background"
+    },
+    "avoid": ["butcher's apron or cleaver", "handsome face"],
+    "ranges": {
+      "9": {
+        "appearance": "a Han Chinese mounted-bandit leader of the northern steppe plateau, a peak-level master holding the long, heavy horse-cutting sword Chammageom (斬馬劍) upright beside him"
+      }
+    }
+  },
+  "Skeleton King": {
+    "setting": "modern-fantasy hunter setting with dungeon gates and undead monsters",
+    "identity": "an unknown silver crown-like mark engraved on the forehead",
+    "framing": "bust",
+    "ranges": {
+      "425": {
+        "age": "looks in his twenties",
+        "appearance": "an undead skeleton king whose reconstructed body has taken human form: a strikingly handsome, pretty-boy face with fine, delicate features, blond hair, a faint golden sheen to his skin and a radiant golden crown",
+        "build": {
+          "text": "larger and sturdier than before, a tall, tailored, idealized physique",
+          "basis": "전보다 더욱 커지고 단단해진, 은은한 황금빛을 띤 전신 (ch 425)"
+        },
+        "eyes": {
+          "text": "golden irises",
+          "basis": "금빛 눈동자 (ch 552)"
+        },
+        "expression": {
+          "text": "smug, boastful and self-satisfied, a teasing grin",
+          "basis": "득의양양한 목소리 (ch 429); profile personality: boastful, teasing"
+        },
+        "fill_ins": {
+          "hair": "golden blond hair falling to the jaw",
+          "clothing": "a dark regal high-collared coat with gold trim",
+          "motif": "a faint golden glow in the blurred background"
+        }
+      },
+      "1161": {
+        "appearance": "only a bare skull with no body, empty eye sockets burning with blue ghost-fire",
+        "continuity": "the same Skeleton King as before, now reduced to his skull: the silver crown-like forehead mark is the identifying feature",
+        "eyes": {
+          "text": "no irises or pupils: blue ghost-fire flickering in empty eye sockets",
+          "basis": "눈동자 대신 시퍼런 귀화(鬼火)가 일렁이고 있는 해골 (ch 1161)"
+        },
+        "expression": "a skull's fixed grin, the ghost-fire giving it a defiant look",
+        "fill_ins": {
+          "motif": "cold blue ghost-light in the blurred background"
+        },
+        "avoid": ["any body, neck or flesh", "golden crown"]
+      }
+    }
+  },
+  "Magic Johnson": {
+    "setting": "modern-fantasy hunter setting with dungeon gates and magic",
+    "identity": "a broad, round, fleshy face with a wide, flat nose, full lips, a heavy brow, a shaved head and a short black goatee",
+    "age": "looks in his forties",
+    "framing": "half-body",
+    "framing_reason": "huge, bulky frame and large staff are defining",
+    "build": {
+      "text": "huge, bulky and large-framed",
+      "basis": "거구의 흑인 (ch 741); 덩치에 안 맞게 (ch 407)"
+    },
+    "eyes": {
+      "text": "dark brown irises; his eyes are strikingly clear, bright and sharp",
+      "basis": "매직 존슨의 투명한 눈동자 (ch 812); colour not stated"
+    },
+    "expression": {
+      "text": "a playful, mischievous grin, enjoying himself, at odds with his size",
+      "basis": "덩치에 안 맞게 장난기가 넘친단 말이지 (ch 407)"
+    },
+    "fill_ins": {
+      "clothing": "a long dark-blue grand mage's coat with subtle silver embroidery",
+      "motif": "faint arcane glyph light in the blurred background"
+    },
+    "avoid": ["handsome leading-man face"],
+    "ranges": {
+      "242": {
+        "appearance": "a huge, bulky Black man, a grand mage with dark black skin, holding a large, handsome ornate staff"
       }
     }
   }
