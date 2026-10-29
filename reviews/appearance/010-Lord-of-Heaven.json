@@ -9,125 +9,56 @@
   "chapter_count": 121,
   "first_chapter": 260,
   "profile_safe_through": 1175,
-  "passages": [
-    [
-      260,
-      36
-    ],
-    [
-      261,
-      89
-    ],
-    [
-      347,
-      71
-    ],
-    [
-      358,
-      30
-    ],
-    [
-      358,
-      43
-    ],
-    [
-      485,
-      41
-    ],
-    [
-      702,
-      51
-    ],
-    [
-      702,
-      63
-    ],
-    [
-      707,
-      86
-    ],
-    [
-      714,
-      58
-    ],
-    [
-      844,
-      95
-    ],
-    [
-      891,
-      80
-    ],
-    [
-      989,
-      17
-    ],
-    [
-      989,
-      70
-    ],
-    [
-      989,
-      63
-    ],
-    [
-      1046,
-      52
-    ],
-    [
-      1049,
-      83
-    ],
-    [
-      1065,
-      81
-    ],
-    [
-      1087,
-      87
-    ],
-    [
-      1088,
-      44
-    ],
-    [
-      1098,
-      25
-    ],
-    [
-      1105,
-      66
-    ],
-    [
-      1126,
-      40
-    ],
-    [
-      1133,
-      56
-    ],
-    [
-      1175,
-      54
-    ],
-    [
-      1175,
-      20
-    ],
-    [
-      1175,
-      62
-    ],
-    [
-      1175,
-      55
-    ],
-    [
-      1175,
-      46
-    ]
-  ],
+  "passages": [],
   "facts": [
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Missing arm restored; ten days earlier he was one-armed, now moves the arm naturally",
+      "chapter": 358,
+      "quote": "불과 열흘 전까지 외팔이였다는 것이 믿기지 않을 만큼 자연스러운 움직임이었다.",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Arm belongs to 서천마군. 천주 is only mentioned as his master."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Lost one arm (traded for killing the Poison King at the Sichuan bloodbath), becoming one-armed",
+      "chapter": 485,
+      "quote": "사천혈사 당시 서천마군은 독왕을 처치하는 대가로 한쪽 팔을 내놓아야 했다.",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Arm loss belongs to 서천마군, not 천주."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Lost one arm; leg tendons severed, bones shattered",
+      "chapter": 1049,
+      "quote": "한쪽 팔을 잃고",
+      "marker": true,
+      "verdict": {
+        "subject": "혈검마군",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Injuries belong to 혈검마군. 천주 is not named."
+      },
+      "status": "rejected"
+    },
     {
       "attribute": "arm",
       "kind": "change",
@@ -141,6 +72,22 @@
         "literal_present": true,
         "lasting_change": false,
         "reason": "Describes Blood Sword Demon Lord (혈검마군), not Lord of Heaven."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Lost one arm to the Sword Saint's strike at the Shaolin bloodshed",
+      "chapter": 1087,
+      "quote": "한쪽 팔을 잃었던 것",
+      "marker": true,
+      "verdict": {
+        "subject": "혈주",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Arm loss belongs to 혈주. Nothing links 혈주 to 천주."
       },
       "status": "rejected"
     },
@@ -163,6 +110,38 @@
     {
       "attribute": "apparent age",
       "kind": "change",
+      "fact": "Body rejuvenated to a younger state",
+      "chapter": 1088,
+      "quote": "비록 육신은 젊어졌으나",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "적천강 has a rejuvenated body, but the text never says he is 천주."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Eyes look aged and world-weary despite the young body",
+      "chapter": 1088,
+      "quote": "세월이 담긴 그 노회한 눈동자",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The aged eyes belong to 적천강, not explicitly 천주. This is a description, not a change."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
       "fact": "Body became younger, but eyes still look aged",
       "chapter": 1088,
       "quote": "비록 육신은 젊어졌으나, 세월이 담긴 그 노회한 눈동자에",
@@ -177,14 +156,33 @@
       "status": "rejected"
     },
     {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (회춘)",
+      "chapter": 1098,
+      "quote": "회춘하셔서 그런가",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narrator addresses 적천강 (old master) as 회춘; the speaker's target is 혈주/적천강, not clearly Lord of Heaven (천주). Not established as 천주."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Blazing, burning eyes (identity of the 'owner' of the burning eyes is ambiguous, likely another person)",
       "chapter": 1127,
       "quote": "타오르는 눈동자의 주인을",
       "marker": false,
-      "verdict": null,
-      "status": "kept"
+      "verdict": {
+        "this_character": false,
+        "reason": "manual override: 'owner of the burning eyes' is Jin Taekyung's gaze, not the Lord of Heaven's"
+      },
+      "status": "rejected"
     },
     {
       "attribute": "eyes",
@@ -193,8 +191,27 @@
       "chapter": 1127,
       "quote": "저 타오르는 눈동자의 주인을",
       "marker": false,
-      "verdict": null,
-      "status": "kept"
+      "verdict": {
+        "this_character": false,
+        "reason": "manual override: 'owner of the burning eyes' is Jin Taekyung's gaze, not the Lord of Heaven's"
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Body remade again through 환골탈태",
+      "chapter": 1133,
+      "quote": "또 한 번의 환골탈태(換骨奪胎)",
+      "marker": true,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "환골탈태 happened to 진태경, not shown to be Lord of Heaven (천주)."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "body",
@@ -218,15 +235,53 @@
     0,
     1,
     2,
-    5
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
   ],
   "judgments": {
+    "358|불과열흘전까지외팔이였다는것이믿기지않을만큼자연스러운움직임이었다.": {
+      "subject": "서천마군",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Arm belongs to 서천마군. 천주 is only mentioned as his master."
+    },
+    "485|사천혈사당시서천마군은독왕을처치하는대가로한쪽팔을내놓아야했다.": {
+      "subject": "서천마군",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Arm loss belongs to 서천마군, not 천주."
+    },
+    "1049|한쪽팔을잃고": {
+      "subject": "혈검마군",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Injuries belong to 혈검마군. 천주 is not named."
+    },
     "1049|한쪽팔을잃고,다리의힘줄이잘려나가고,뼈마디가으스러졌음에도": {
       "subject": "혈검마군",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
       "reason": "Describes Blood Sword Demon Lord (혈검마군), not Lord of Heaven."
+    },
+    "1087|한쪽팔을잃었던것": {
+      "subject": "혈주",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Arm loss belongs to 혈주. Nothing links 혈주 to 천주."
     },
     "1087|검성매종학의일격에한쪽팔을잃었던것은": {
       "subject": "혈주",
@@ -235,12 +290,40 @@
       "lasting_change": false,
       "reason": "Arm loss belongs to 혈주 (Blood Lord), not Lord of Heaven; backstory."
     },
+    "1088|비록육신은젊어졌으나": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "적천강 has a rejuvenated body, but the text never says he is 천주."
+    },
+    "1088|세월이담긴그노회한눈동자": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The aged eyes belong to 적천강, not explicitly 천주. This is a description, not a change."
+    },
     "1088|비록육신은젊어졌으나,세월이담긴그노회한눈동자에": {
       "subject": "적천강",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
       "reason": "Subject is 적천강, not named as Lord of Heaven here."
+    },
+    "1098|회춘하셔서그런가": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narrator addresses 적천강 (old master) as 회춘; the speaker's target is 혈주/적천강, not clearly Lord of Heaven (천주). Not established as 천주."
+    },
+    "1133|또한번의환골탈태(換骨奪胎)": {
+      "subject": "진태경",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "환골탈태 happened to 진태경, not shown to be Lord of Heaven (천주)."
     },
     "1133|그리고잇따른또한번의환골탈태(換骨奪胎)는": {
       "subject": "진태경",
@@ -271,53 +354,14 @@
     }
   ],
   "dismissed_events": [],
-  "ranges": [
-    {
-      "start": 260,
-      "description": "Lord of Heaven is a male figure with blazing, burning eyes. Other features are not described. Tags: male, blazing eyes, burning eyes",
-      "used": [
-        4
-      ],
-      "difference": ""
-    }
-  ],
+  "ranges": [],
   "lines": [
-    "- **Appearance (from ch 260):** Lord of Heaven is a male figure with blazing, burning eyes. Other features are not described. Tags: male, blazing eyes, burning eyes"
-  ],
-  "omitted": [
-    {
-      "index": 3,
-      "reason": "The fact itself says the owner of the burning eyes is ambiguous and likely another person. Fact 1 covers the same trait more clearly."
-    }
+    "- **Appearance:** not described"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0212003
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.021193499999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.027160000000000004
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0128989
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.019003600000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0268068
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0234992
+      "cost_usd": 0.018843699999999998
     }
   ]
 }

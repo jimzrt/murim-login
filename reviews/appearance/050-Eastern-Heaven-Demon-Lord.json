@@ -9,100 +9,7 @@
   "chapter_count": 42,
   "first_chapter": 714,
   "profile_safe_through": 1135,
-  "passages": [
-    [
-      714,
-      58
-    ],
-    [
-      714,
-      47
-    ],
-    [
-      714,
-      51
-    ],
-    [
-      714,
-      43
-    ],
-    [
-      714,
-      62
-    ],
-    [
-      914,
-      44
-    ],
-    [
-      917,
-      22
-    ],
-    [
-      917,
-      34
-    ],
-    [
-      917,
-      59
-    ],
-    [
-      917,
-      86
-    ],
-    [
-      917,
-      31
-    ],
-    [
-      920,
-      50
-    ],
-    [
-      921,
-      82
-    ],
-    [
-      921,
-      77
-    ],
-    [
-      937,
-      22
-    ],
-    [
-      980,
-      75
-    ],
-    [
-      980,
-      59
-    ],
-    [
-      1027,
-      74
-    ],
-    [
-      1034,
-      79
-    ],
-    [
-      1049,
-      83
-    ],
-    [
-      1067,
-      24
-    ],
-    [
-      1081,
-      58
-    ],
-    [
-      1135,
-      43
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "limbs/torso",
@@ -363,7 +270,7 @@
   "ranges": [
     {
       "start": 714,
-      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His eyes are cold gray. Tags: male, elderly, pale skin, white beard, cold gray eyes",
+      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His cold gray eyes are steady. Tags: male, elderly, pale skin, white beard, cold gray eyes",
       "used": [
         1,
         2,
@@ -378,7 +285,7 @@
     },
     {
       "start": 917,
-      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His cold gray eyes shimmer like cold flames. He has lost both arms and a leg in battle. Tags: male, elderly, pale skin, white beard, gray eyes, cold-flame eyes, missing both arms, missing a leg",
+      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's, now missing an arm lost in battle. His gray eyes shimmer like cold flames. Tags: male, elderly, pale skin, white beard, gray eyes, cold-flame gaze, missing arm",
       "used": [
         1,
         2,
@@ -392,58 +299,27 @@
         10,
         11
       ],
-      "difference": "intact body -> missing both arms and a leg"
-    },
-    {
-      "start": 924,
-      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His cold gray eyes shimmer like cold flames. He is missing both arms and a leg. His body was remade into a jiangshi (reanimated corpse) by a forbidden sect art. Tags: male, elderly, jiangshi, pale skin, white beard, gray eyes, cold-flame eyes, missing both arms, missing a leg",
-      "used": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "difference": "body remade as a jiangshi (visible effect not stated)"
+      "difference": "intact body -> missing an arm; eyes shimmer like cold flames"
     }
   ],
   "lines": [
-    "- **Appearance (ch 714–916):** Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His eyes are cold gray. Tags: male, elderly, pale skin, white beard, cold gray eyes",
-    "- **Appearance (ch 917–923):** Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His cold gray eyes shimmer like cold flames. He has lost both arms and a leg in battle. Tags: male, elderly, pale skin, white beard, gray eyes, cold-flame eyes, missing both arms, missing a leg",
-    "- **Appearance (from ch 924):** Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His cold gray eyes shimmer like cold flames. He is missing both arms and a leg. His body was remade into a jiangshi (reanimated corpse) by a forbidden sect art. Tags: male, elderly, jiangshi, pale skin, white beard, gray eyes, cold-flame eyes, missing both arms, missing a leg"
+    "- **Appearance (ch 714–916):** Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His cold gray eyes are steady. Tags: male, elderly, pale skin, white beard, cold gray eyes",
+    "- **Appearance (from ch 917):** Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's, now missing an arm lost in battle. His gray eyes shimmer like cold flames. Tags: male, elderly, pale skin, white beard, gray eyes, cold-flame gaze, missing arm"
   ],
-  "omitted": [],
+  "omitted": [
+    {
+      "index": 12,
+      "reason": "APPROVED-CHANGE jiangshi transformation, but the text states no visible effect, so it opens no range and is left out of the descriptions"
+    }
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0240965
+      "cost_usd": 0.0234722
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0205456
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0172839
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.025595800000000002
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0301191
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0376097
+      "cost_usd": 0.034541300000000004
     }
   ]
 }

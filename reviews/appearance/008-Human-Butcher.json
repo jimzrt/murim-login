@@ -9,120 +9,7 @@
   "chapter_count": 157,
   "first_chapter": 9,
   "profile_safe_through": 1189,
-  "passages": [
-    [
-      106,
-      56
-    ],
-    [
-      161,
-      49
-    ],
-    [
-      161,
-      62
-    ],
-    [
-      238,
-      45
-    ],
-    [
-      348,
-      26
-    ],
-    [
-      352,
-      17
-    ],
-    [
-      352,
-      44
-    ],
-    [
-      505,
-      28
-    ],
-    [
-      505,
-      44
-    ],
-    [
-      505,
-      100
-    ],
-    [
-      505,
-      13
-    ],
-    [
-      505,
-      73
-    ],
-    [
-      508,
-      28
-    ],
-    [
-      519,
-      162
-    ],
-    [
-      519,
-      50
-    ],
-    [
-      519,
-      52
-    ],
-    [
-      519,
-      34
-    ],
-    [
-      519,
-      42
-    ],
-    [
-      525,
-      101
-    ],
-    [
-      679,
-      84
-    ],
-    [
-      837,
-      78
-    ],
-    [
-      850,
-      33
-    ],
-    [
-      905,
-      94
-    ],
-    [
-      970,
-      73
-    ],
-    [
-      993,
-      54
-    ],
-    [
-      993,
-      31
-    ],
-    [
-      1136,
-      45
-    ],
-    [
-      1158,
-      76
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "weapon",
@@ -338,60 +225,34 @@
   "ranges": [
     {
       "start": 9,
-      "description": "Human Butcher, a male human butcher, wields a sword called Chammageom. Tags: male, human, butcher, sword Chammageom",
+      "description": "Human Butcher, a male butcher who wields a sword called Chammageom. Tags: male, butcher, sword, Chammageom",
       "used": [
         0
       ],
       "difference": ""
-    },
-    {
-      "start": 993,
-      "description": "Human Butcher, a male human wielding the sword Chammageom, body remade through the Bone Transformation quest. Tags: male, human, sword Chammageom, body remade, Bone Transformation",
-      "used": [
-        0,
-        7,
-        8
-      ],
-      "difference": "body remade by Bone Transformation (visible effect not stated)"
     }
   ],
   "lines": [
-    "- **Appearance (ch 9–992):** Human Butcher, a male human butcher, wields a sword called Chammageom. Tags: male, human, butcher, sword Chammageom",
-    "- **Appearance (from ch 993):** Human Butcher, a male human wielding the sword Chammageom, body remade through the Bone Transformation quest. Tags: male, human, sword Chammageom, body remade, Bone Transformation"
+    "- **Appearance (from ch 9):** Human Butcher, a male butcher who wields a sword called Chammageom. Tags: male, butcher, sword, Chammageom"
   ],
-  "omitted": [],
+  "omitted": [
+    {
+      "index": 7,
+      "reason": "Body remade via 환골탈태 quest, but the text states no visible effect; merged into existing range"
+    },
+    {
+      "index": 8,
+      "reason": "Same change as index 1; no visible effect stated"
+    }
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0207667
+      "cost_usd": 0.0193046
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.024472299999999995
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0229623
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0204965
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.019405199999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.031102299999999996
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0221163
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.022544599999999998
+      "cost_usd": 0.0239762
     }
   ]
 }

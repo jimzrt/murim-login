@@ -111,34 +111,34 @@
     {
       "attribute": "beard",
       "kind": "base",
-      "fact": "Had a immortal-like, pure white beard at first meeting (old appearance)",
+      "fact": "Had a long, immortal-like pure white beard at first meeting (elderly appearance).",
       "chapter": 647,
       "quote": "신선처럼 새하얀 수염을 휘날리던 그분",
       "marker": true,
       "verdict": {
         "subject": "무신",
         "this_character": true,
-        "literal_present": false,
+        "literal_present": true,
         "lasting_change": false,
-        "reason": "Past first-meeting memory told by 야수묘왕; old white beard is backstory recollection, not a change shown here."
+        "reason": "야수묘왕's recollection: first meeting, 무신 had immortal-like white beard. Valid for that period; passage also mentions later boy form, but this item is the elder look, not a change shown."
       },
-      "status": "rejected"
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
       "kind": "change",
-      "fact": "Later appeared as a youthful boy, a return to youth from the old white-bearded look",
+      "fact": "At the second meeting appeared as a youthful boy, a change from the white-bearded elder look.",
       "chapter": 647,
       "quote": "앳된 소년의 모습을 하고 계셨지",
       "marker": true,
       "verdict": {
         "subject": "무신",
         "this_character": true,
-        "literal_present": false,
+        "literal_present": true,
         "lasting_change": false,
-        "reason": "Recounted past second meeting as a boy; told as memory ~50 years ago, and this passage is a recollection rather than the change occurring now."
+        "reason": "Second meeting, 무신 in youthful boy form, stated as fact in recollection. Reveals drastic change from elder to boy."
       },
-      "status": "rejected"
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
@@ -150,16 +150,16 @@
       "verdict": {
         "subject": "무신",
         "this_character": true,
-        "literal_present": false,
+        "literal_present": true,
         "lasting_change": false,
-        "reason": "White beard is from a recalled first meeting, not current state; no transformation shown in this scene."
+        "reason": "Pre-transformation white-bearded elder look stated as fact in recollection; it is the old look, not the change."
       },
-      "status": "rejected"
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
       "kind": "change",
-      "fact": "Body has grown young again (returned to youth), though the eyes still carry his years",
+      "fact": "Body has become young again, though the eyes still carry the weight of his years.",
       "chapter": 938,
       "quote": "비록 몸은 젊어졌으나 눈빛에 담긴 세월만은 여전하다.",
       "marker": true,
@@ -168,7 +168,7 @@
         "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Body grown young belongs to 적천강, not 무신; 무신 is not named here."
+        "reason": "Look belongs to 적천강, not 무신; context never says it is 무신."
       },
       "status": "rejected"
     },
@@ -182,59 +182,68 @@
       "verdict": {
         "subject": "무신",
         "this_character": true,
-        "literal_present": false,
+        "literal_present": true,
         "lasting_change": false,
-        "reason": "Tutorial helper elder is a recalled past guise/role; no lasting change shown."
+        "reason": "Tutorial helper old man is identified as 무신, stated as fact. Plain description, no change."
       },
-      "status": "rejected"
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
   "rejected": [
-    0,
-    1,
-    2,
-    3,
-    4
+    3
   ],
   "judgments": {
     "647|신선처럼새하얀수염을휘날리던그분": {
       "subject": "무신",
       "this_character": true,
-      "literal_present": false,
+      "literal_present": true,
       "lasting_change": false,
-      "reason": "Past first-meeting memory told by 야수묘왕; old white beard is backstory recollection, not a change shown here."
+      "reason": "야수묘왕's recollection: first meeting, 무신 had immortal-like white beard. Valid for that period; passage also mentions later boy form, but this item is the elder look, not a change shown."
     },
     "647|앳된소년의모습을하고계셨지": {
       "subject": "무신",
       "this_character": true,
-      "literal_present": false,
+      "literal_present": true,
       "lasting_change": false,
-      "reason": "Recounted past second meeting as a boy; told as memory ~50 years ago, and this passage is a recollection rather than the change occurring now."
+      "reason": "Second meeting, 무신 in youthful boy form, stated as fact in recollection. Reveals drastic change from elder to boy."
     },
     "647|신선처럼새하얀수염을휘날리던그분과의첫만남": {
       "subject": "무신",
       "this_character": true,
-      "literal_present": false,
+      "literal_present": true,
       "lasting_change": false,
-      "reason": "White beard is from a recalled first meeting, not current state; no transformation shown in this scene."
+      "reason": "Pre-transformation white-bearded elder look stated as fact in recollection; it is the old look, not the change."
     },
     "938|비록몸은젊어졌으나눈빛에담긴세월만은여전하다.": {
       "subject": "적천강",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Body grown young belongs to 적천강, not 무신; 무신 is not named here."
+      "reason": "Look belongs to 적천강, not 무신; context never says it is 무신."
     },
     "1166|튜토리얼속도우미노인이자": {
       "subject": "무신",
       "this_character": true,
-      "literal_present": false,
+      "literal_present": true,
       "lasting_change": false,
-      "reason": "Tutorial helper elder is a recalled past guise/role; no lasting change shown."
+      "reason": "Tutorial helper old man is identified as 무신, stated as fact. Plain description, no change."
     }
   },
-  "conflicts": [],
+  "conflicts": [
+    {
+      "attribute": "apparent age",
+      "indices": [
+        1,
+        4
+      ],
+      "kept": [
+        4
+      ],
+      "resolved": true,
+      "reason": "Old man with white beard is supported by facts 0, 2 and 3. The youthful boy appears only in fact 1, and no timeline event or APPROVED-CHANGE backs a change."
+    }
+  ],
   "unused": [],
   "timeline_events": [
     {
@@ -255,30 +264,51 @@
     }
   ],
   "dismissed_events": [],
-  "ranges": [],
+  "ranges": [
+    {
+      "start": 116,
+      "description": "Martial God is an elderly man with a long, flowing, pure white beard, with an immortal-like look. Tags: male, old man, elderly, long white beard, immortal-like appearance",
+      "used": [
+        0,
+        2,
+        4
+      ],
+      "difference": ""
+    }
+  ],
   "lines": [
-    "- **Appearance:** not described"
+    "- **Appearance (from ch 116):** Martial God is an elderly man with a long, flowing, pure white beard, with an immortal-like look. Tags: male, old man, elderly, long white beard, immortal-like appearance"
+  ],
+  "omitted": [
+    {
+      "index": 1,
+      "reason": "Describes a transformation to a youthful boy that is not APPROVED-CHANGE. It conflicts with the better-supported elderly look."
+    }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0241264
+      "cost_usd": 0.020334599999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0188068
+      "cost_usd": 0.0150055
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0181741
+      "cost_usd": 0.0221079
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0186266
+      "cost_usd": 0.0199385
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.030107199999999997
+      "cost_usd": 0.0306019
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.026990899999999998
     }
   ]
 }

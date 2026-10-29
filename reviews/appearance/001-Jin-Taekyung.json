@@ -9,156 +9,7 @@
   "chapter_count": 791,
   "first_chapter": 1,
   "profile_safe_through": 1025,
-  "passages": [
-    [
-      5,
-      69
-    ],
-    [
-      44,
-      76
-    ],
-    [
-      61,
-      27
-    ],
-    [
-      195,
-      41
-    ],
-    [
-      196,
-      60
-    ],
-    [
-      197,
-      44
-    ],
-    [
-      197,
-      49
-    ],
-    [
-      197,
-      24
-    ],
-    [
-      210,
-      77
-    ],
-    [
-      266,
-      94
-    ],
-    [
-      269,
-      45
-    ],
-    [
-      402,
-      72
-    ],
-    [
-      462,
-      50
-    ],
-    [
-      493,
-      53
-    ],
-    [
-      496,
-      31
-    ],
-    [
-      703,
-      54
-    ],
-    [
-      703,
-      59
-    ],
-    [
-      704,
-      71
-    ],
-    [
-      799,
-      62
-    ],
-    [
-      813,
-      124
-    ],
-    [
-      830,
-      39
-    ],
-    [
-      905,
-      94
-    ],
-    [
-      920,
-      50
-    ],
-    [
-      988,
-      47
-    ],
-    [
-      988,
-      66
-    ],
-    [
-      988,
-      42
-    ],
-    [
-      989,
-      63
-    ],
-    [
-      989,
-      48
-    ],
-    [
-      1049,
-      83
-    ],
-    [
-      1092,
-      38
-    ],
-    [
-      1092,
-      81
-    ],
-    [
-      1105,
-      66
-    ],
-    [
-      1131,
-      59
-    ],
-    [
-      1131,
-      46
-    ],
-    [
-      1132,
-      13
-    ],
-    [
-      1132,
-      52
-    ],
-    [
-      1133,
-      56
-    ]
-  ],
+  "passages": [],
   "facts": [
     {
       "attribute": "apparent age",
@@ -283,6 +134,22 @@
     {
       "attribute": "body",
       "kind": "change",
+      "fact": "Body became perfect, as if he had undergone bone transformation rebirth (환골탈태)",
+      "chapter": 197,
+      "quote": "그야말로 완벽하다. 말로만 듣던 환골탈태(換骨奪胎)를 겪으면 이렇게 될까 싶을 정도였다.",
+      "marker": true,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Body is perfect, but 'as if 환골탈태' is a simile/hypothetical; no actual transformation stated."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
       "fact": "Body became perfect, as if remade by bone-changing rebirth (환골탈태)",
       "chapter": 197,
       "quote": "말로만 듣던 환골탈태(換骨奪胎)를 겪으면 이렇게 될까 싶을 정도였다.",
@@ -293,22 +160,6 @@
         "literal_present": false,
         "lasting_change": false,
         "reason": "Simile ('겪으면 이렇게 될까 싶을 정도'), so not literal. The following line names Jin Taekyung as the one being examined."
-      },
-      "status": "rejected"
-    },
-    {
-      "attribute": "body",
-      "kind": "change",
-      "fact": "Body became perfect, as if after bone-changing rebirth (환골탈태)",
-      "chapter": 197,
-      "quote": "그야말로 완벽하다. 말로만 듣던 환골탈태(換骨奪胎)를 겪으면 이렇게 될까 싶을 정도였다.",
-      "marker": true,
-      "verdict": {
-        "subject": "진태경",
-        "this_character": true,
-        "literal_present": false,
-        "lasting_change": false,
-        "reason": "Body is perfect, but 'as if 환골탈태' is a simile/hypothetical; no actual transformation stated."
       },
       "status": "rejected"
     },
@@ -371,7 +222,13 @@
       "chapter": 301,
       "quote": "익살스럽게 웃는 청년, 진태경의 얼굴",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Named as 청년 Jin Taekyung; ordinary young look, unchanged."
+      },
       "status": "kept"
     },
     {
@@ -417,7 +274,13 @@
       "chapter": 476,
       "quote": "청년, 진태경",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Named 청년 Jin Taekyung in raid scene; ordinary description."
+      },
       "status": "kept"
     },
     {
@@ -427,8 +290,30 @@
       "chapter": 596,
       "quote": "그의 부름에 고개를 든 청년의 얼굴은",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Broadcast shows 청년 Jin Taekyung by name; no drastic change, only tired and bloodied (temporary)."
+      },
       "status": "kept"
+    },
+    {
+      "attribute": "limb",
+      "kind": "change",
+      "fact": "Lost one arm after his strike (arm loss, along with much of his strength)",
+      "chapter": 704,
+      "quote": "그로 인해 한쪽 팔과 함께 상당한 힘을 잃어버렸다.",
+      "marker": true,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Text states Jin Taekyung lost an arm and much strength from his strike. It is stated as a real fact and no regrowth is mentioned."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "arm",
@@ -473,7 +358,13 @@
       "chapter": 821,
       "quote": "웃고 있는 청년의 얼굴",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Name given just before; 청년 smiling, blood-covered is a one-scene state, not a change."
+      },
       "status": "kept"
     },
     {
@@ -483,7 +374,13 @@
       "chapter": 821,
       "quote": "청년의 얼굴",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Same passage as 4; named, young look is unchanged and the blood is temporary."
+      },
       "status": "kept"
     },
     {
@@ -589,6 +486,22 @@
         "literal_present": true,
         "lasting_change": true,
         "reason": "Follows directly on his 환골탈태 in ch988; the youth of about twenty (약관) who received it is him, and the passage announces that the transformation happened."
+      },
+      "status": "approved-change"
+    },
+    {
+      "chapter": 993,
+      "kind": "change",
+      "attribute": "skin",
+      "fact": "palm skin as hard as iron and sharp nails after the Bone Transformation",
+      "quote": "환골탈태까지 거치며 이제는 철피(鐵皮)나 다름없어진 손바닥의 피부와 날카로운 손톱",
+      "marker": true,
+      "verdict": {
+        "subject": "Jin Taekyung",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "manual approval: Bone Transformation completed; Korean states iron-like skin and sharp nails"
       },
       "status": "approved-change"
     },
@@ -778,9 +691,10 @@
     10,
     11,
     21,
-    26,
+    22,
     27,
-    29
+    28,
+    30
   ],
   "judgments": {
     "3|잔잔한수면위로한청년이비친다.": {
@@ -797,12 +711,26 @@
       "lasting_change": false,
       "reason": "Ordinary description: sturdy build, unchanged."
     },
-    "197|말로만듣던환골탈태(換骨奪胎)를겪으면이렇게될까싶을정도였다.": {
-      "subject": "Jin Taekyung",
-      "this_character": true,
-      "literal_present": false,
+    "61|이나이에외팔이가될줄은몰랐는데.": {
+      "subject": "대장로",
+      "this_character": false,
+      "literal_present": true,
       "lasting_change": false,
-      "reason": "Simile ('겪으면 이렇게 될까 싶을 정도'), so not literal. The following line names Jin Taekyung as the one being examined."
+      "reason": "The one-armed elder is the 대장로, not Jin Taekyung."
+    },
+    "166|청년,진태경이활짝웃었다.": {
+      "subject": "진태경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The text names Jin Taekyung as a handsome young man. This is his ordinary look, not a change."
+    },
+    "195|너무늙어버렸다": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The speaker feeling too old is 적천강, not Jin Taekyung. No look change is shown."
     },
     "197|그야말로완벽하다.말로만듣던환골탈태(換骨奪胎)를겪으면이렇게될까싶을정도였다.": {
       "subject": "진태경",
@@ -810,6 +738,13 @@
       "literal_present": false,
       "lasting_change": false,
       "reason": "Body is perfect, but 'as if 환골탈태' is a simile/hypothetical; no actual transformation stated."
+    },
+    "197|말로만듣던환골탈태(換骨奪胎)를겪으면이렇게될까싶을정도였다.": {
+      "subject": "Jin Taekyung",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Simile ('겪으면 이렇게 될까 싶을 정도'), so not literal. The following line names Jin Taekyung as the one being examined."
     },
     "197|그야말로완벽하다.": {
       "subject": "Jin Taekyung",
@@ -825,6 +760,13 @@
       "lasting_change": false,
       "reason": "Context names Jin Taekyung as the team member; slender look with hidden strength is an unchanged description."
     },
+    "301|익살스럽게웃는청년,진태경의얼굴": {
+      "subject": "진태경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Named as 청년 Jin Taekyung; ordinary young look, unchanged."
+    },
     "319|장대한체구의청년": {
       "subject": "Jin Taekyung",
       "this_character": true,
@@ -832,12 +774,47 @@
       "lasting_change": false,
       "reason": "The young man with a grand build is named as Jin Taekyung; ordinary description."
     },
+    "476|청년,진태경": {
+      "subject": "진태경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Named 청년 Jin Taekyung in raid scene; ordinary description."
+    },
+    "596|그의부름에고개를든청년의얼굴은": {
+      "subject": "진태경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Broadcast shows 청년 Jin Taekyung by name; no drastic change, only tired and bloodied (temporary)."
+    },
+    "704|그로인해한쪽팔과함께상당한힘을잃어버렸다.": {
+      "subject": "진태경",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Text states Jin Taekyung lost an arm and much strength from his strike. It is stated as a real fact and no regrowth is mentioned."
+    },
     "704|한쪽팔과함께상당한힘을잃어버렸다": {
       "subject": "Namcheon Mahu",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
       "reason": "The arm was lost by 남천마후 (Namcheon Mahu), not Jin Taekyung. 'Jin Taekyung's strike' made 남천마후 lose it."
+    },
+    "821|웃고있는청년의얼굴": {
+      "subject": "진태경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Name given just before; 청년 smiling, blood-covered is a one-scene state, not a change."
+    },
+    "821|청년의얼굴": {
+      "subject": "진태경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same passage as 4; named, young look is unchanged and the blood is temporary."
     },
     "905|청년의머리에는나이보다일찍찾아온서리가내려앉았고": {
       "subject": "청년 (unnamed young man)",
@@ -859,6 +836,13 @@
       "literal_present": true,
       "lasting_change": false,
       "reason": "The white-haired 'he' is an old man in a conversation with 적천강, not named as Taekyung; Taekyung is the one floating in light nearby."
+    },
+    "988|자신도겪지못한환골탈태(換骨奪胎)의과정에들어선진태경의모습": {
+      "subject": "진태경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "The text says Jin Taekyung has entered the 환골탈태 process. This is a named genre transformation, so it counts as a lasting change."
     },
     "988|자신도겪지못한환골탈태(換骨奪胎)의과정에들어선진태경의모습이": {
       "subject": "Jin Taekyung",
@@ -951,48 +935,55 @@
       "lasting_change": true,
       "reason": "Same line: another 환골탈태 remade his body; named genre transformation counts as lasting change."
     },
-    "61|이나이에외팔이가될줄은몰랐는데.": {
-      "subject": "대장로",
-      "this_character": false,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "The one-armed elder is the 대장로, not Jin Taekyung."
-    },
-    "166|청년,진태경이활짝웃었다.": {
-      "subject": "진태경",
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "The text names Jin Taekyung as a handsome young man. This is his ordinary look, not a change."
-    },
-    "195|너무늙어버렸다": {
-      "subject": "적천강",
-      "this_character": false,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "The speaker feeling too old is 적천강, not Jin Taekyung. No look change is shown."
-    },
-    "988|자신도겪지못한환골탈태(換骨奪胎)의과정에들어선진태경의모습": {
-      "subject": "진태경",
+    "993|환골탈태까지거치며이제는철피(鐵皮)나다름없어진손바닥의피부와날카로운손톱": {
+      "subject": "Jin Taekyung",
       "this_character": true,
       "literal_present": true,
       "lasting_change": true,
-      "reason": "The text says Jin Taekyung has entered the 환골탈태 process. This is a named genre transformation, so it counts as a lasting change."
+      "reason": "First-person narrator (나) states his palm skin is now iron-like and nails sharp after 환골탈태; named genre transformation announced as completed, a lasting change."
     }
   },
   "conflicts": [
+    {
+      "attribute": "apparent age",
+      "indices": [
+        5,
+        15,
+        19,
+        20,
+        25,
+        26,
+        33,
+        37,
+        40
+      ],
+      "kept": [
+        5,
+        15,
+        19,
+        20,
+        25,
+        26,
+        33
+      ],
+      "resolved": true,
+      "reason": "All facts agree on a young man, and ch989 gives about twenty. This is a single value, so the facts reinforce each other."
+    },
     {
       "attribute": "build",
       "indices": [
         1,
         13,
-        16
+        16,
+        17,
+        18
       ],
       "kept": [
-        1
+        17,
+        18
       ],
       "resolved": true,
-      "reason": "Fact 0 is the earliest (ch55) and its sturdy, well-built frame fits the repeated tall, well-proportioned build (11, 12). Fact 10 is similar but later. Fact 7 (slender on the surface) is the outlier."
+      "reason": "Tall, well-proportioned (훤칠한) is repeated in two facts at ch357. The others (sturdy, slender, grand) are single mentions."
     }
   ],
   "unused": [],
@@ -1004,16 +995,10 @@
       "sure": false
     },
     {
-      "chapter": 988,
-      "change": "unclear look change, possibly youth or body transformation (cluster of 9 genre-term hits)",
-      "cause": "unknown, possibly enlightenment or cultivation",
-      "sure": false
-    },
-    {
-      "chapter": 1132,
-      "change": "damaged body restored by heat, with apparent body transformation (exact look unclear)",
-      "cause": "Bone Transformation after heart stopped",
-      "sure": false
+      "chapter": 993,
+      "change": "ordinary skin -> iron-like palm skin and sharp nails",
+      "cause": "Bone Transformation (환골탈태) completed",
+      "sure": true
     }
   ],
   "timeline": [
@@ -1026,30 +1011,12 @@
       "verified": false
     },
     {
-      "chapter": 988,
-      "change": "unclear look change, possibly youth or body transformation (cluster of 9 genre-term hits)",
-      "cause": "unknown, possibly enlightenment or cultivation",
-      "sure": false,
+      "chapter": 993,
+      "change": "ordinary skin -> iron-like palm skin and sharp nails",
+      "cause": "Bone Transformation (환골탈태) completed",
+      "sure": true,
       "facts": [
-        30,
-        31,
-        32
-      ],
-      "verified": true
-    },
-    {
-      "chapter": 1132,
-      "change": "damaged body restored by heat, with apparent body transformation (exact look unclear)",
-      "cause": "Bone Transformation after heart stopped",
-      "sure": false,
-      "facts": [
-        36,
-        37,
-        39,
-        40,
-        41,
-        42,
-        43
+        34
       ],
       "verified": true
     }
@@ -1058,9 +1025,8 @@
   "ranges": [
     {
       "start": 1,
-      "description": "Jin Taekyung is a young man with a tall, sturdy, well-proportioned build. He has a handsome face with bold, well-defined features that look both boyish and worldly-young, and clear, deep black eyes. Tags: young man, tall, sturdy build, well-proportioned, handsome, bold features, boyish look, deep black eyes",
+      "description": "Jin Taekyung is a handsome young man of about twenty with a tall, well-proportioned build. He has bold, well-defined features that look both boyish and worldly-young, and clear, deep black eyes. Tags: male, young man, about twenty, tall, well-proportioned, handsome, bold features, boyish look, black eyes, clear deep eyes",
       "used": [
-        1,
         3,
         4,
         5,
@@ -1073,133 +1039,107 @@
         18,
         19,
         20,
-        22,
         23,
         24,
         25,
-        28
+        26,
+        29,
+        33
       ],
       "difference": ""
     },
     {
-      "start": 988,
-      "description": "Jin Taekyung, after undergoing Bone Transformation, has a body remade by it. He still looks like a youth of about twenty, with a tall, sturdy, well-proportioned build, a handsome face with bold, well-defined features, and clear, deep black eyes. Tags: youth about twenty, body remade by Bone Transformation, tall, sturdy build, handsome, bold features, deep black eyes",
+      "start": 993,
+      "description": "Jin Taekyung is a handsome young man of about twenty with a tall, well-proportioned build, bold well-defined features that look both boyish and worldly-young, and clear, deep black eyes. After completing the Bone Transformation, his palms have skin as hard as iron and his nails are sharp. Tags: male, young man, about twenty, tall, well-proportioned, handsome, bold features, boyish look, black eyes, clear deep eyes, iron-like palm skin, sharp nails",
       "used": [
-        1,
-        3,
-        4,
-        5,
-        6,
-        7,
         12,
         14,
-        15,
         17,
         18,
-        19,
-        20,
-        22,
         23,
         24,
-        25,
-        28,
-        30,
-        31,
-        32
-      ],
-      "difference": "body remade by Bone Transformation (visible effect not stated); still a young man, now about twenty"
-    },
-    {
-      "start": 1132,
-      "description": "Jin Taekyung, after a second Bone Transformation, has a body remade again. He still looks like a young man of about twenty, with a tall, sturdy, well-proportioned build, a handsome face with bold, well-defined features, and clear, deep black eyes. Tags: young man about twenty, body remade again by second Bone Transformation, tall, sturdy build, handsome, bold features, deep black eyes",
-      "used": [
-        1,
-        3,
-        4,
-        5,
-        6,
-        7,
-        12,
-        14,
-        15,
-        17,
-        18,
-        19,
-        20,
-        22,
-        23,
-        24,
-        25,
-        28,
-        32,
-        35,
-        36,
+        29,
+        34,
         37,
-        38,
-        39,
-        40,
-        41,
-        42,
-        43
+        40
       ],
-      "difference": "body remade again by a second Bone Transformation (visible effect not stated)"
+      "difference": "ordinary skin -> iron-hard palm skin and sharp nails"
     }
   ],
   "lines": [
-    "- **Appearance (ch 1–987):** Jin Taekyung is a young man with a tall, sturdy, well-proportioned build. He has a handsome face with bold, well-defined features that look both boyish and worldly-young, and clear, deep black eyes. Tags: young man, tall, sturdy build, well-proportioned, handsome, bold features, boyish look, deep black eyes",
-    "- **Appearance (ch 988–1131):** Jin Taekyung, after undergoing Bone Transformation, has a body remade by it. He still looks like a youth of about twenty, with a tall, sturdy, well-proportioned build, a handsome face with bold, well-defined features, and clear, deep black eyes. Tags: youth about twenty, body remade by Bone Transformation, tall, sturdy build, handsome, bold features, deep black eyes",
-    "- **Appearance (from ch 1132):** Jin Taekyung, after a second Bone Transformation, has a body remade again. He still looks like a young man of about twenty, with a tall, sturdy, well-proportioned build, a handsome face with bold, well-defined features, and clear, deep black eyes. Tags: young man about twenty, body remade again by second Bone Transformation, tall, sturdy build, handsome, bold features, deep black eyes"
+    "- **Appearance (ch 1–992):** Jin Taekyung is a handsome young man of about twenty with a tall, well-proportioned build. He has bold, well-defined features that look both boyish and worldly-young, and clear, deep black eyes. Tags: male, young man, about twenty, tall, well-proportioned, handsome, bold features, boyish look, black eyes, clear deep eyes",
+    "- **Appearance (from ch 993):** Jin Taekyung is a handsome young man of about twenty with a tall, well-proportioned build, bold well-defined features that look both boyish and worldly-young, and clear, deep black eyes. After completing the Bone Transformation, his palms have skin as hard as iron and his nails are sharp. Tags: male, young man, about twenty, tall, well-proportioned, handsome, bold features, boyish look, black eyes, clear deep eyes, iron-like palm skin, sharp nails"
   ],
   "omitted": [
     {
+      "index": 1,
+      "reason": "Build conflict; lost to the better-supported value."
+    },
+    {
       "index": 13,
-      "reason": "Conflicting build value, not kept."
+      "reason": "Build conflict; lost to the better-supported value."
     },
     {
       "index": 16,
-      "reason": "Conflicting build value, not kept."
+      "reason": "Build conflict; lost to the better-supported value."
     },
     {
-      "index": 33,
-      "reason": "Not an APPROVED-CHANGE. It only restates the earlier transformation, already covered by the ch988 range, and gives no visual detail."
+      "index": 31,
+      "reason": "Bone Transformation event with no stated visible effect. The cause is named in range 2."
     },
     {
-      "index": 34,
-      "reason": "Not an APPROVED-CHANGE. It only restates the earlier transformation, already covered by the ch988 range, and gives no visual detail."
+      "index": 32,
+      "reason": "Same as 20: no visible effect stated."
+    },
+    {
+      "index": 35,
+      "reason": "Earlier Bone Transformation mentioned; the look is not given."
+    },
+    {
+      "index": 36,
+      "reason": "Bone Transformation mentioned; the look is not given."
+    },
+    {
+      "index": 38,
+      "reason": "Second Bone Transformation; visual change unspecified, so no new range."
+    },
+    {
+      "index": 39,
+      "reason": "Second Bone Transformation; visual change unspecified, so no new range."
+    },
+    {
+      "index": 41,
+      "reason": "Bone Transformation; visible change not described."
+    },
+    {
+      "index": 42,
+      "reason": "Second Bone Transformation; visual change unspecified."
+    },
+    {
+      "index": 43,
+      "reason": "Second Bone Transformation; visual change unspecified."
+    },
+    {
+      "index": 44,
+      "reason": "Second Bone Transformation; visual change unspecified."
+    },
+    {
+      "index": 45,
+      "reason": "Second Bone Transformation; visual change unspecified."
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.026486000000000003
+      "cost_usd": 0.031783
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.02124
+      "cost_usd": 0.0205263
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.025601799999999997
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0244351
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.023748
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0339288
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0260098
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.0492874
+      "cost_usd": 0.052866899999999994
     }
   ]
 }

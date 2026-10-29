@@ -7,6 +7,5 @@
 - **Personality:** Cold, intimidating, and murderous; he kills people as though slaughtering livestock
 - **Voice:** Cold, curt, and quietly threatening
 - **Relationships:** He is one of four powerful participants at the Northern Gaoyuan gathering, intimidates Temur, and has claimed Ghost Sword Wipeng as his personal target in the proposed attack
-- **Appearance (ch 9–992):** Human Butcher, a male human butcher, wields a sword called Chammageom. Tags: male, human, butcher, sword Chammageom
-- **Appearance (from ch 993):** Human Butcher, a male human wielding the sword Chammageom, body remade through the Bone Transformation quest. Tags: male, human, sword Chammageom, body remade, Bone Transformation
+- **Appearance (from ch 9):** Human Butcher, a male butcher who wields a sword called Chammageom. Tags: male, butcher, sword, Chammageom
 - **Sources:** Korean source and accepted translation, Chapter 160
