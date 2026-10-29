@@ -7,5 +7,5 @@
 - **Personality:** Hungry, self-aware, and dryly observant, he is pragmatic and fiercely defiant; he protects those he cherishes and uses wit and provocation to strengthen allies’ resolve.
 - **Voice:** First-person, conversational, dryly self-mocking, with vivid trap-and-prey imagery, game terminology, and occasional profanity.
 - **Relationships:** Jin Mukyung is his older brother and Jeok Cheongang his Master and trusted confidant; he shares deep loyalty with Hyuk Mujin, whom he values as family, and considers the revived Undead King, formerly the Skeleton King, a friend.
-- **Appearance:** not described
+- **Appearance (from ch 1):** Jin Taekyung is a tall, well-proportioned, sturdy young man with a well-built body. He has a handsome face with bold, well-defined features that look both boyishly innocent and worldly, and clear, deep black eyes. Tags: young man, tall, sturdy build, well-proportioned, handsome, bold defined features, clear deep black eyes
 - **Sources:** Korean source and accepted translation, Chapters 0–8 and 10–63; durable continuity through Chapter 318

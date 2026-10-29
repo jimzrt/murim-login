@@ -7,5 +7,5 @@
 - **Personality:** Vulgar, aggressive, and quick-tempered, but grieves deeply for fellow Beggars’ Sect disciples and defends those who risk their lives for others.
 - **Voice:** Blunt, profane, and vividly threatening.
 - **Relationships:** Gung Gibang is a rival finalist alongside Baek Woo and Zhuge Gyun, and shares blunt, teasing friendships with Taekyung and Hyuk Mujin.
-- **Appearance (as of ch 528):** Gung Gibang has greasy, matted, unkempt hair and a grimy, dirty face. Tags: matted greasy hair, unkempt hair, grimy face, dirty skin
+- **Appearance (from ch 248):** Gung Gibang is a male beggar with matted, greasy hair, a grimy dirt-streaked face with ugly features, and yellowed teeth bared in a grin. Tags: male, beggar, matted greasy hair, grimy face, ugly face, yellowed teeth
 - **Sources:** Korean source and accepted translation, Chapter 248

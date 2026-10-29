@@ -7,5 +7,5 @@
 - **Personality:** Playful and easygoing in ordinary company, yet guided by a principled commitment to chivalry that can outweigh strategic caution.
 - **Voice:** Friendly, casually familiar, and cheerfully teasing, including when greeting old acquaintances and discussing leadership.
 - **Relationships:** Cheongpung's grandfather and martial instructor; taught him the Taeeul Miri Palm; secretly entered Huashan while its Sect Leader slept, left a dagger and handwritten note, and then went into hiding, prompting Huashan's search; fought Jeok Cheongang at Mount Jiuhua more than forty years ago and left after their draw; his old friend Hong Dao left him a letter identifying Jin Taekyung as the Morning Star who would drive away darkness.
-- **Appearance:** not described
+- **Appearance (from ch 140):** Mae Jonghak is a young man of about 20 with a smooth, clean-shaven chin and a plain, ordinary face that blends in anywhere. His eyes are clear and deep, blue and almost transparent in their clarity.
 - **Sources:** Korean source and accepted translation, Chapter 140

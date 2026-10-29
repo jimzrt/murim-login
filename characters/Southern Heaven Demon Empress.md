@@ -7,5 +7,6 @@
 - **Personality:** Playful, cruel, confident, and casually dismissive of mass death and the suffering of others.
 - **Voice:** Light, taunting, amused, and delighted even when discussing murder or imminent catastrophe.
 - **Relationships:** She commands and advises Baeksang, treats Jin Taekyung and Yayul Cheok as expendable to the grand plan, and keeps a masked hunting dog whom she trained carefully.
-- **Appearance:** not described
+- **Appearance (ch 482–701):** Southern Heaven Demon Empress is an extremely beautiful, strikingly gorgeous woman with a beautiful face and upturned, cat-like eyes. She wears a gungjang (court dress). Tags: female, gorgeous, beautiful face, cat-like eyes, upturned eyes, gungjang, court dress
+- **Appearance (from ch 702):** Southern Heaven Demon Empress is an extremely beautiful, strikingly gorgeous woman with a beautiful face and upturned, cat-like eyes. Her hair has been cut short, noticeably shorter than before. She wears a gungjang (court dress). Tags: female, gorgeous, beautiful face, cat-like eyes, upturned eyes, short cut hair, gungjang, court dress
 - **Sources:** Korean source and accepted translation, Chapter 688

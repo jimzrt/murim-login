@@ -7,5 +7,5 @@
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** Served by the Grand Sorceress, the Blood Lord, and the Blood-Sword Demon Lord.
-- **Appearance:** not described
+- **Appearance (from ch 260):** Lord of Heaven has blazing, burning eyes that glow with fierce intensity. Tags: male, blazing eyes, burning eyes, intense gaze
 - **Sources:** Korean source and accepted translation, Chapter 260

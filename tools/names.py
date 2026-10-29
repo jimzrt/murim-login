@@ -16,8 +16,14 @@ ALIAS_LINE = re.compile(r"^- \*\*Aliases:\*\*\s*(.+)$")
 ALIAS_PAIR = re.compile(r"([^;,(]+?)\s*\(([가-힣]+(?: [가-힣]+)*)\)")
 GENDER_LINE = re.compile(r"^- \*\*Gender:\*\*\s*(.*)$", re.MULTILINE)
 GENDERS = ("female", "male", "unknown")
-# `- **Appearance (as of ch N):** text` or `- **Appearance:** not described`.
-APPEARANCE_LINE = re.compile(r"^- \*\*Appearance(?: \(as of ch (\d+)\))?:\*\*.*$", re.MULTILINE)
+# One line per range: `- **Appearance (ch A–B):** text`, `- **Appearance (from ch C):** text`,
+# or `- **Appearance:** not described`. The legacy `(as of ch N)` bound is still recognised.
+APPEARANCE_LINE = re.compile(
+    r"^- \*\*Appearance(?: \((?:as of ch \d+|ch \d+–\d+|from ch \d+)\))?:\*\*.*$", re.MULTILINE
+)
+APPEARANCE_RANGE = re.compile(
+    r"^- \*\*Appearance \((?:ch (?P<start>\d+)–(?P<end>\d+)|from ch (?P<from>\d+))\):\*\* (?P<text>.+)$"
+)
 
 CHOSEONG = ["g", "kk", "n", "d", "tt", "r", "m", "b", "pp", "s", "ss", "", "j", "jj", "ch", "k", "t", "p", "h"]
 JUNGSEONG = [
@@ -119,32 +125,45 @@ def set_profile_gender(body: str, gender: str) -> str:
 
 
 def profile_appearance(body: str) -> str | None:
-    """The full Appearance line, or None when the profile has none."""
-    match = APPEARANCE_LINE.search(body)
-    return match.group(0) if match else None
+    """All Appearance lines (one per range) joined by newlines, or None when the profile has none."""
+    lines = [m.group(0) for m in APPEARANCE_LINE.finditer(body)]
+    return "\n".join(lines) if lines else None
+
+
+def appearance_ranges(body: str) -> list[dict]:
+    """Parsed ranges: start, end (None = open-ended), text. Empty for 'not described'."""
+    ranges = []
+    for line in body.split("\n"):
+        match = APPEARANCE_RANGE.match(line)
+        if match:
+            start = int(match["start"] or match["from"])
+            ranges.append({"start": start, "end": int(match["end"]) if match["end"] else None,
+                           "text": match["text"]})
+    return ranges
 
 
 def strip_appearance(body: str) -> str:
-    """Body without its Appearance line (generated tools never see or edit it)."""
+    """Body without its Appearance lines (generated tools never see or edit them)."""
     kept = [line for line in body.split("\n") if not APPEARANCE_LINE.match(line)]
     return "\n".join(kept)
 
 
-def set_profile_appearance(body: str, line: str | None) -> str:
-    """Write exactly one Appearance line after Relationships (else before Sources, else at the end)."""
+def set_profile_appearance(body: str, lines: str | list[str] | None) -> str:
+    """Write the Appearance lines after Relationships (else before Sources, else at the end)."""
     body = strip_appearance(body)
-    if line is None:
+    if not lines:
         return body
-    lines = body.rstrip("\n").splitlines()
+    new = lines.split("\n") if isinstance(lines, str) else list(lines)
+    existing = body.rstrip("\n").splitlines()
     anchor = None
-    for index, text in enumerate(lines):
+    for index, text in enumerate(existing):
         if text.startswith("- **Relationships:**"):
             anchor = index + 1
             break
     if anchor is None:
-        anchor = next((i for i, t in enumerate(lines) if t.startswith("- **Sources:**")), len(lines))
-    lines.insert(anchor, line)
-    return "\n".join(lines) + "\n"
+        anchor = next((i for i, t in enumerate(existing) if t.startswith("- **Sources:**")), len(existing))
+    existing[anchor:anchor] = new
+    return "\n".join(existing) + "\n"
 
 
 def _row(korean: str, english: str, note: str = "") -> dict:
