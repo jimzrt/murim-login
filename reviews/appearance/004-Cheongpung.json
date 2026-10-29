@@ -1,0 +1,183 @@
+{
+  "rank": 4,
+  "english": "Cheongpung",
+  "profile": "characters/Cheongpung.md",
+  "names": [
+    "청풍"
+  ],
+  "chapter_count": 246,
+  "first_chapter": 130,
+  "safe_through": 1191,
+  "passages": [
+    [
+      130,
+      50
+    ],
+    [
+      130,
+      42
+    ],
+    [
+      130,
+      17
+    ],
+    [
+      130,
+      27
+    ],
+    [
+      131,
+      40
+    ],
+    [
+      132,
+      58
+    ],
+    [
+      132,
+      33
+    ],
+    [
+      132,
+      78
+    ],
+    [
+      132,
+      40
+    ],
+    [
+      133,
+      50
+    ],
+    [
+      134,
+      54
+    ],
+    [
+      138,
+      42
+    ],
+    [
+      139,
+      17
+    ],
+    [
+      141,
+      100
+    ],
+    [
+      142,
+      27
+    ],
+    [
+      143,
+      65
+    ],
+    [
+      148,
+      38
+    ],
+    [
+      157,
+      66
+    ]
+  ],
+  "facts": [
+    {
+      "attribute": "face",
+      "fact": "Has a affable, friendly impression",
+      "chapter": 130,
+      "quote": "서글서글한 인상과 맑은 눈동자를"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Has clear, bright eyes",
+      "chapter": 130,
+      "quote": "맑은 눈동자를 보고 있노라면"
+    },
+    {
+      "attribute": "age",
+      "fact": "Is a young man",
+      "chapter": 130,
+      "quote": "청년, 청풍을 내심 못마땅하게 생각하던"
+    },
+    {
+      "attribute": "age",
+      "fact": "Is a young man",
+      "chapter": 131,
+      "quote": "청년, 청풍의 입술이 열렸다"
+    },
+    {
+      "attribute": "apparent age",
+      "fact": "Appears to be a young man",
+      "chapter": 132,
+      "quote": "맹렬하게 물고 빠는 청년, 청풍의 모습"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Has clear, bright eyes",
+      "chapter": 139,
+      "quote": "맑은 눈동자를 깜빡였다"
+    },
+    {
+      "attribute": "build",
+      "fact": "Moderate, average build",
+      "chapter": 157,
+      "quote": "적당한 체구에 선한 인상."
+    },
+    {
+      "attribute": "apparent age",
+      "fact": "Looks like an ordinary young man, similar to many peers",
+      "chapter": 157,
+      "quote": "또래의 비슷한 젊은이를 서너 명은 만날 수 있을 것 같다."
+    }
+  ],
+  "dropped_facts": [],
+  "used": [
+    1,
+    2,
+    6,
+    0
+  ],
+  "excluded": [
+    {
+      "index": 3,
+      "reason": "Duplicate of fact 2 (young man)"
+    },
+    {
+      "index": 4,
+      "reason": "Duplicate of apparent age already covered by fact 2"
+    },
+    {
+      "index": 5,
+      "reason": "Duplicate of fact 1 (clear, bright eyes)"
+    },
+    {
+      "index": 7,
+      "reason": "Duplicate apparent age; generic 'ordinary young man' adds no distinct visual detail"
+    }
+  ],
+  "line": "- **Appearance (as of ch 157):** Cheongpung appears as a young man of average, moderate build with an affable, friendly face and clear, bright eyes. Tags: young man, average build, friendly face, clear bright eyes",
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0214518
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0156729
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0189296
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.018020199999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0191648
+    }
+  ]
+}

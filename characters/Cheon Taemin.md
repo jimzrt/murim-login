@@ -7,4 +7,5 @@
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** Maternal grandfather of Team Leader Choi and Jin Taekyung and father of Soyeong; regarded by Lee Jungryong as an older brother despite their lack of blood relation.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 287; Profile retrofit evidence: Chapters 287, 554, 600, 765, 808

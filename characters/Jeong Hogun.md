@@ -7,4 +7,5 @@
 - **Personality:** Disciplined and resolute, Jeong Hogun is willing to defy an order to protect the Son of Heaven, then obeys when entrusted to remain at his side.
 - **Voice:** Formal and rigid, emphasizing duty to imperial authority.
 - **Relationships:** Jeong Hogun serves the Son of Heaven as a trusted guard and commands a thousand Embroidered Uniform Guards.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 858

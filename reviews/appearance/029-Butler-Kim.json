@@ -1,0 +1,60 @@
+{
+  "rank": 29,
+  "english": "Butler Kim",
+  "profile": "characters/Butler Kim.md",
+  "names": [
+    "김 집사"
+  ],
+  "chapter_count": 76,
+  "first_chapter": 51,
+  "safe_through": 553,
+  "passages": [
+    [
+      78,
+      65
+    ],
+    [
+      80,
+      86
+    ],
+    [
+      83,
+      36
+    ],
+    [
+      90,
+      15
+    ],
+    [
+      90,
+      20
+    ]
+  ],
+  "facts": [
+    {
+      "attribute": "clothing",
+      "fact": "Wears very casual, light clothing for a mage, with no light armor or protective staff",
+      "chapter": 80,
+      "quote": "저 정도로 간편한 복장의 마법사는 흔치 않다"
+    }
+  ],
+  "dropped_facts": [],
+  "used": [],
+  "excluded": [
+    {
+      "index": 0,
+      "reason": "Only one clothing trait (casual, light attire), with no age, build, hair, face or colour traits to carry it. The 'no armor or staff' part is an absence, not a visual detail."
+    }
+  ],
+  "line": "- **Appearance:** not described",
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0194283
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0172563
+    }
+  ]
+}

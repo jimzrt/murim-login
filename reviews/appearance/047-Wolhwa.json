@@ -1,0 +1,135 @@
+{
+  "rank": 47,
+  "english": "Wolhwa",
+  "profile": "characters/Wolhwa.md",
+  "names": [
+    "섬서 지부장",
+    "섬서지부장",
+    "은소월",
+    "월화"
+  ],
+  "chapter_count": 47,
+  "first_chapter": 2,
+  "safe_through": 1126,
+  "passages": [
+    [
+      2,
+      61
+    ],
+    [
+      2,
+      35
+    ],
+    [
+      2,
+      49
+    ],
+    [
+      4,
+      37
+    ],
+    [
+      19,
+      70
+    ],
+    [
+      19,
+      46
+    ],
+    [
+      19,
+      87
+    ],
+    [
+      19,
+      16
+    ],
+    [
+      20,
+      53
+    ],
+    [
+      20,
+      54
+    ],
+    [
+      20,
+      41
+    ],
+    [
+      39,
+      72
+    ]
+  ],
+  "facts": [
+    {
+      "attribute": "skin",
+      "fact": "Fair, smooth skin",
+      "chapter": 2,
+      "quote": "희고 매끄러운 피부에 주먹만 한 얼굴."
+    },
+    {
+      "attribute": "face",
+      "fact": "Fist-sized small face with delicate, neat features",
+      "chapter": 2,
+      "quote": "오밀조밀한 이목구비에 눈은 얼마나 크고 맑은지"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Large, clear eyes",
+      "chapter": 2,
+      "quote": "눈은 얼마나 크고 맑은지"
+    },
+    {
+      "attribute": "face",
+      "fact": "Dazzlingly beautiful, goddess-like appearance",
+      "chapter": 19,
+      "quote": "여신이 내려왔나 싶을 정도로 눈부신 외모다."
+    },
+    {
+      "attribute": "face",
+      "fact": "Rare beauty",
+      "chapter": 20,
+      "quote": "월화는 보기 드문 미녀다."
+    },
+    {
+      "attribute": "build",
+      "fact": "Slender figure",
+      "chapter": 20,
+      "quote": "늘씬한 몸매에 화려한 옷차림까지 더해지니"
+    }
+  ],
+  "dropped_facts": [],
+  "used": [
+    0,
+    1,
+    2,
+    4,
+    5
+  ],
+  "excluded": [
+    {
+      "index": 3,
+      "reason": "Goddess-like is figurative and redundant with fact 4 (beauty). It adds no concrete visual trait."
+    }
+  ],
+  "line": "- **Appearance (as of ch 20):** A strikingly beautiful woman with fair, smooth skin and a fist-sized small face with delicate, neat features. Her eyes are large and clear, and her figure is slender. Tags: fair smooth skin, small face, delicate features, large clear eyes, slender figure, rare beauty",
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.018724300000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0218562
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0158869
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0217601
+    }
+  ]
+}

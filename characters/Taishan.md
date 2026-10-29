@@ -7,4 +7,5 @@
 - **Personality:** Childlike, obedient, food-obsessed, and dim-witted, with intense wariness toward strangers and absolute trust in Sama Pyo; becomes explosively violent when his meat is threatened.
 - **Voice:** Clipped, simple, and childlike.
 - **Relationships:** He serves Sama Pyo, whom he calls Lord, trusts Jin Taekyung as Pavilion Master, and has grown attached to the Fire Dragon Pavilion members.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 533

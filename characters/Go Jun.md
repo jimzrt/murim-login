@@ -7,4 +7,5 @@
 - **Personality:** Disciplined and controlled under ordinary pressure, fiercely loyal to Lee Jungryong, but consumed by humiliation and rage when Ares Guild's authority is challenged.
 - **Voice:** Dry, controlled, and formal with subordinates; deferential when addressing his Master.
 - **Relationships:** Go Jun inherited Lee Jungryong's Ares legacy after becoming his Disciple and regarded Jin Taekyung and Choi Minwoo as enemies before his death.
+- **Appearance (as of ch 287):** Go Jun is a man who appears to be in his 40s. His face is typically expressionless. Tags: male, appears 40s, expressionless face
 - **Sources:** Korean source and accepted translation, Chapter 285

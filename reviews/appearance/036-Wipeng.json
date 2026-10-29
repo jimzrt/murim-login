@@ -1,0 +1,146 @@
+{
+  "rank": 36,
+  "english": "Wipeng",
+  "profile": "characters/Wipeng.md",
+  "names": [
+    "위팽"
+  ],
+  "chapter_count": 67,
+  "first_chapter": 6,
+  "safe_through": 997,
+  "passages": [
+    [
+      6,
+      47
+    ],
+    [
+      8,
+      50
+    ],
+    [
+      8,
+      22
+    ],
+    [
+      9,
+      102
+    ],
+    [
+      9,
+      17
+    ],
+    [
+      9,
+      56
+    ],
+    [
+      9,
+      48
+    ],
+    [
+      10,
+      18
+    ],
+    [
+      13,
+      47
+    ],
+    [
+      14,
+      71
+    ],
+    [
+      20,
+      44
+    ],
+    [
+      22,
+      62
+    ],
+    [
+      28,
+      58
+    ],
+    [
+      28,
+      45
+    ],
+    [
+      31,
+      62
+    ],
+    [
+      31,
+      32
+    ],
+    [
+      32,
+      43
+    ],
+    [
+      57,
+      21
+    ]
+  ],
+  "facts": [
+    {
+      "attribute": "eyes",
+      "fact": "Cold, chilly-looking eyes",
+      "chapter": 13,
+      "quote": "서늘한 눈동자로 나를 내려다봤다"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Has sharp, narrow-edged eyes",
+      "chapter": 28,
+      "quote": "위팽처럼 날카로운 눈매의 소유자"
+    },
+    {
+      "attribute": "face",
+      "fact": "Has a cold-looking face",
+      "chapter": 31,
+      "quote": "차가움이 뚝뚝 묻어 나오는 얼굴"
+    },
+    {
+      "attribute": "distinguishing marks",
+      "fact": "Has a scar running from forehead to chin",
+      "chapter": 32,
+      "quote": "위팽의 이마부터 턱까지 그어진 상처"
+    }
+  ],
+  "dropped_facts": [],
+  "used": [
+    0,
+    2,
+    3
+  ],
+  "excluded": [
+    {
+      "index": 1,
+      "reason": "The quote is a comparison ('sharp eyes like Wipeng') that describes someone else. It only implies Wipeng's look, so using it would be inference. Fact 0 already covers his eyes."
+    }
+  ],
+  "line": "- **Appearance (as of ch 32):** A man with cold, chilly-looking eyes and a cold-looking face. A scar runs from his forehead to his chin. Tags: cold eyes, cold expression, long facial scar, forehead-to-chin scar",
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0170262
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.017133199999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.016692099999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0162792
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.022789
+    }
+  ]
+}

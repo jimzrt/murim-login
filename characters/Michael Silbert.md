@@ -7,4 +7,5 @@
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** Leads the Odin Guild.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 736

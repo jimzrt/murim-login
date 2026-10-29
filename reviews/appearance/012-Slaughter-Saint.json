@@ -1,0 +1,96 @@
+{
+  "rank": 12,
+  "english": "Slaughter Saint",
+  "profile": "characters/Slaughter Saint.md",
+  "names": [
+    "살성"
+  ],
+  "chapter_count": 105,
+  "first_chapter": 177,
+  "safe_through": 1175,
+  "passages": [
+    [
+      369,
+      39
+    ],
+    [
+      369,
+      31
+    ],
+    [
+      372,
+      45
+    ],
+    [
+      373,
+      61
+    ],
+    [
+      373,
+      44
+    ],
+    [
+      373,
+      60
+    ],
+    [
+      373,
+      18
+    ],
+    [
+      373,
+      57
+    ],
+    [
+      377,
+      48
+    ],
+    [
+      435,
+      20
+    ],
+    [
+      463,
+      21
+    ],
+    [
+      463,
+      32
+    ]
+  ],
+  "facts": [
+    {
+      "attribute": "age",
+      "fact": "Appears to be a boy (young-looking).",
+      "chapter": 369,
+      "quote": "소년, 살성의 무뚝뚝한 얼굴 위로 희미한 웃음이 스쳤다."
+    }
+  ],
+  "dropped_facts": [],
+  "used": [],
+  "excluded": [
+    {
+      "index": 0,
+      "reason": "Only one visual trait (young-looking, boy). Fewer than two distinct visual traits, and 'appears to be a boy' hints at possible disguise/rejuvenation, so it was dropped."
+    }
+  ],
+  "line": "- **Appearance:** not described",
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0168922
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0172992
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.015553400000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0166796
+    }
+  ]
+}

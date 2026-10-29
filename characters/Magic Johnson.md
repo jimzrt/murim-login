@@ -7,4 +7,5 @@
 - **Personality:** Practical and wary of reckless risks, but willing to act when duty and the stakes leave him no acceptable alternative.
 - **Voice:** Familiar and conversational with Jin, using blunt objections, direct appeals, and occasional profanity.
 - **Relationships:** Jin Taekyung is his trusted ally; he agrees to teleport Jin and the Skeleton King toward the Doppelganger while remaining behind to guard the battlefield.
+- **Appearance (as of ch 407):** Magic Johnson has a large, bulky frame.
 - **Sources:** Korean source and accepted translation, Chapter 384

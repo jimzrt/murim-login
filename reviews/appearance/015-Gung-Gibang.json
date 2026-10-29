@@ -1,0 +1,146 @@
+{
+  "rank": 15,
+  "english": "Gung Gibang",
+  "profile": "characters/Gung Gibang.md",
+  "names": [
+    "궁기방"
+  ],
+  "chapter_count": 102,
+  "first_chapter": 248,
+  "safe_through": 1191,
+  "passages": [
+    [
+      249,
+      24
+    ],
+    [
+      249,
+      50
+    ],
+    [
+      250,
+      40
+    ],
+    [
+      309,
+      41
+    ],
+    [
+      309,
+      43
+    ],
+    [
+      313,
+      32
+    ],
+    [
+      315,
+      17
+    ],
+    [
+      316,
+      43
+    ],
+    [
+      318,
+      32
+    ],
+    [
+      318,
+      43
+    ],
+    [
+      318,
+      25
+    ],
+    [
+      318,
+      27
+    ],
+    [
+      322,
+      35
+    ],
+    [
+      337,
+      43
+    ],
+    [
+      370,
+      94
+    ],
+    [
+      459,
+      61
+    ],
+    [
+      469,
+      57
+    ],
+    [
+      528,
+      35
+    ]
+  ],
+  "facts": [
+    {
+      "attribute": "hair",
+      "fact": "Hair is greasy and matted",
+      "chapter": 249,
+      "quote": "궁기방의 떡 진 머리가"
+    },
+    {
+      "attribute": "hair",
+      "fact": "Hair is matted/greasy and unkempt",
+      "chapter": 318,
+      "quote": "전의를 상실한 궁기방이 떡 진 머리를 쥐어뜯었다."
+    },
+    {
+      "attribute": "face",
+      "fact": "Face is grimy, covered in dirt (shared with another man)",
+      "chapter": 322,
+      "quote": "두 사람이 서로의 땟국물 가득한 얼굴을 마주 보며 피식 웃었다."
+    },
+    {
+      "attribute": "face",
+      "fact": "Face is grimy and dirty",
+      "chapter": 528,
+      "quote": "때가 꼬질꼬질한 얼굴로"
+    }
+  ],
+  "dropped_facts": [],
+  "used": [
+    0,
+    1,
+    3
+  ],
+  "excluded": [
+    {
+      "index": 2,
+      "reason": "Describes two men's faces together, so it is not specific to him. Fact 3 already covers the grimy face."
+    }
+  ],
+  "line": "- **Appearance (as of ch 528):** Gung Gibang has greasy, matted, unkempt hair and a grimy, dirty face. Tags: matted greasy hair, unkempt hair, grimy face, dirty skin",
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0167268
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0169182
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.018093599999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.018905500000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.021509800000000003
+    }
+  ]
+}

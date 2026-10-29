@@ -1,0 +1,84 @@
+{
+  "rank": 25,
+  "english": "Arch Lich",
+  "profile": "characters/Arch Lich.md",
+  "names": [
+    "아크 리치"
+  ],
+  "chapter_count": 79,
+  "first_chapter": 381,
+  "safe_through": 422,
+  "passages": [
+    [
+      407,
+      65
+    ],
+    [
+      408,
+      38
+    ],
+    [
+      408,
+      46
+    ],
+    [
+      409,
+      54
+    ],
+    [
+      414,
+      78
+    ],
+    [
+      420,
+      33
+    ],
+    [
+      420,
+      60
+    ],
+    [
+      420,
+      91
+    ],
+    [
+      422,
+      60
+    ],
+    [
+      422,
+      32
+    ]
+  ],
+  "facts": [
+    {
+      "attribute": "face",
+      "fact": "Face is unforgettable, striking after a single viewing",
+      "chapter": 420,
+      "quote": "단 한 번 보았을 뿐이지만 잊을 수 없는 얼굴이었다."
+    }
+  ],
+  "dropped_facts": [],
+  "used": [],
+  "excluded": [
+    {
+      "index": 0,
+      "reason": "Only says the face is memorable; no concrete visual trait (age, build, hair, eyes, marks, clothing) to picture. Fewer than two distinct visual traits."
+    }
+  ],
+  "line": "- **Appearance:** not described",
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.017381499999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0175218
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0165686
+    }
+  ]
+}

@@ -7,4 +7,5 @@
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** Named with the Sword Saint and the Bow Saint as the Three Saints.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 337

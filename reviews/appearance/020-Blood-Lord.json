@@ -1,0 +1,179 @@
+{
+  "rank": 20,
+  "english": "Blood Lord",
+  "profile": "characters/Blood Lord.md",
+  "names": [
+    "혈주"
+  ],
+  "chapter_count": 92,
+  "first_chapter": 262,
+  "safe_through": 1025,
+  "passages": [
+    [
+      263,
+      35
+    ],
+    [
+      263,
+      20
+    ],
+    [
+      263,
+      57
+    ],
+    [
+      263,
+      17
+    ],
+    [
+      263,
+      34
+    ],
+    [
+      263,
+      19
+    ],
+    [
+      264,
+      31
+    ],
+    [
+      264,
+      73
+    ],
+    [
+      264,
+      26
+    ],
+    [
+      264,
+      66
+    ],
+    [
+      264,
+      37
+    ],
+    [
+      264,
+      44
+    ],
+    [
+      265,
+      27
+    ],
+    [
+      265,
+      48
+    ],
+    [
+      265,
+      32
+    ],
+    [
+      265,
+      19
+    ],
+    [
+      266,
+      26
+    ],
+    [
+      266,
+      14
+    ]
+  ],
+  "facts": [
+    {
+      "attribute": "age",
+      "fact": "Appears to be a young man",
+      "chapter": 263,
+      "quote": "어쨌건 청년, 혈주라 불린 그의 대답에 한수의 표정이 밝아졌다."
+    },
+    {
+      "attribute": "hair",
+      "fact": "Hair is long enough to fall down and be swept upward",
+      "chapter": 263,
+      "quote": "흘러내린 머리카락을 위로 쓸어올렸다"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Eyes flare with red light; sclera turns blood-red when his power surges",
+      "chapter": 264,
+      "quote": "혈주의 눈동자에 붉은 광망이 솟구쳤다."
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Sclera dyed blood-red during power surge",
+      "chapter": 264,
+      "quote": "핏빛으로 물든 흰자위와 불길하기 짝이 없는 거대한 기운이 그를 중심으로 뻗어 나갔다."
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Eyes crescent-shaped (curved like half-moons) when smiling",
+      "chapter": 265,
+      "quote": "혈주의 눈매가 반달처럼 휘었다."
+    },
+    {
+      "attribute": "face",
+      "fact": "Face is fierce and grim-looking (contorted into a menacing expression)",
+      "chapter": 265,
+      "quote": "혈주의 얼굴이 험악하게 일그러졌다."
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Has narrow-set eyes that can narrow to slits",
+      "chapter": 266,
+      "quote": "혈주의 눈매가 가늘어졌다."
+    }
+  ],
+  "dropped_facts": [],
+  "used": [
+    0,
+    1
+  ],
+  "excluded": [
+    {
+      "index": 2,
+      "reason": "Eyes flaring red is a temporary power-surge effect, not his base look"
+    },
+    {
+      "index": 3,
+      "reason": "Blood-red sclera appears only during a power surge, so it is a temporary change"
+    },
+    {
+      "index": 4,
+      "reason": "Crescent-shaped eyes are a smiling expression, not a fixed trait"
+    },
+    {
+      "index": 5,
+      "reason": "A menacing contorted face is a momentary expression, not a fixed trait"
+    },
+    {
+      "index": 6,
+      "reason": "Narrowed eyes are a momentary expression. The 'narrow-set' reading is a mistranslation, since the quote says the eyes narrowed"
+    }
+  ],
+  "line": "- **Appearance (as of ch 263):** The Blood Lord appears to be a young man. His hair is long enough to fall loose and be swept upward. Tags: young man, loose hair, swept-back hair",
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0176549
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0182958
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0166662
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0169877
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.026199199999999995
+    }
+  ]
+}

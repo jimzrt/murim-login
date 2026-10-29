@@ -7,4 +7,5 @@
 - **Personality:** Impeccably composed, attentive, and briefly flustered when the mansion's robots fail to operate.
 - **Voice:** Smooth, polished, low-pitched, and formally deferential toward Team Leader Choi.
 - **Relationships:** Serves Team Leader Choi and works alongside the mansion's household systems.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 553

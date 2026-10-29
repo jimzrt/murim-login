@@ -7,6 +7,7 @@
 - **Personality:** Sharp-tongued, academically gifted, impatient with Taekyung’s evasions, warmer beneath the teasing, and intensely fond of cats
 - **Voice:** Bratty, fast, blunt sibling banter; turns brighter when discussing school and her interests
 - **Relationships:** Taekyung’s younger sister; daughter of Taekyung’s mother
+- **Appearance:** not described
 - **Continuity:** Hayeon has 120 days left until the college entrance exam and missed only two questions across the July mock exam. She speaks with Taekyung for more than ten minutes, brightening as she talks about school and a boy she likes; the call helps Taekyung accept that he has returned to reality.
 - **Chapter 52 continuity:** Hayeon is nineteen and still a high-school senior. She is awake early for the school founding anniversary when Taekyung returns, greets him with sharp sibling banter, and helps him spend his new money on the family.
 - **Chapter 53 continuity:** Hayeon hears Taekyung repeatedly say Jin Wikyung’s name in his sleep and asks who she is, but he gives no truthful explanation. She continues her sharp, affectionate sibling banter with him while helping their mother send him home with side dishes and secretly packed cash.

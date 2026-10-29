@@ -1,0 +1,101 @@
+{
+  "rank": 40,
+  "english": "The Prophet",
+  "profile": "characters/The Prophet.md",
+  "names": [
+    "선지자",
+    "무닌"
+  ],
+  "chapter_count": 55,
+  "first_chapter": 507,
+  "safe_through": 1103,
+  "passages": [
+    [
+      588,
+      68
+    ],
+    [
+      738,
+      61
+    ],
+    [
+      738,
+      29
+    ],
+    [
+      739,
+      42
+    ],
+    [
+      740,
+      39
+    ],
+    [
+      745,
+      63
+    ],
+    [
+      772,
+      57
+    ],
+    [
+      791,
+      25
+    ],
+    [
+      795,
+      48
+    ],
+    [
+      799,
+      53
+    ],
+    [
+      802,
+      35
+    ],
+    [
+      803,
+      75
+    ],
+    [
+      805,
+      43
+    ]
+  ],
+  "facts": [
+    {
+      "attribute": "clothing",
+      "fact": "Wears a robe",
+      "chapter": 772,
+      "quote": "로브 아래로 슬며시 입꼬리를 말아 올리는 선지자의 모습"
+    }
+  ],
+  "dropped_facts": [],
+  "used": [],
+  "excluded": [
+    {
+      "index": 0,
+      "reason": "Only a robe is stated, with no age, build, hair, face or colour traits. That is fewer than two distinct visual traits, and clothing alone is not enough."
+    }
+  ],
+  "line": "- **Appearance:** not described",
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0180862
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0172676
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0181573
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0164992
+    }
+  ]
+}

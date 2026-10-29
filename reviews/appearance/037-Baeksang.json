@@ -1,0 +1,197 @@
+{
+  "rank": 37,
+  "english": "Baeksang",
+  "profile": "characters/Baeksang.md",
+  "names": [
+    "백상"
+  ],
+  "chapter_count": 66,
+  "first_chapter": 626,
+  "safe_through": 1095,
+  "passages": [
+    [
+      626,
+      63
+    ],
+    [
+      631,
+      49
+    ],
+    [
+      631,
+      68
+    ],
+    [
+      631,
+      82
+    ],
+    [
+      631,
+      66
+    ],
+    [
+      642,
+      67
+    ],
+    [
+      642,
+      70
+    ],
+    [
+      645,
+      56
+    ],
+    [
+      645,
+      45
+    ],
+    [
+      645,
+      37
+    ],
+    [
+      648,
+      54
+    ],
+    [
+      650,
+      66
+    ],
+    [
+      655,
+      66
+    ],
+    [
+      657,
+      96
+    ],
+    [
+      661,
+      58
+    ],
+    [
+      663,
+      23
+    ],
+    [
+      666,
+      85
+    ],
+    [
+      673,
+      68
+    ]
+  ],
+  "facts": [
+    {
+      "attribute": "clothing",
+      "fact": "Wears all-white clothing and ornaments from head to toe",
+      "chapter": 626,
+      "quote": "머리부터 발끝까지 온통 새하얀 옷과 장신구를 걸친 중년의 이민족"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Eyes burn with flame-like intensity",
+      "chapter": 631,
+      "quote": "화염이 깃든 두 눈동자와 끓어오르는 듯한 음성"
+    },
+    {
+      "attribute": "clothing",
+      "fact": "Wears white clothing",
+      "chapter": 645,
+      "quote": "타들어 가는 그의 새하얀 옷자락"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Eyes habitually give off a cold, chilly gleam",
+      "chapter": 645,
+      "quote": "언제나 서늘한 빛을 발하던 백상의 눈동자"
+    },
+    {
+      "attribute": "clothing",
+      "fact": "Wears snow-white robes with flowing sleeves",
+      "chapter": 648,
+      "quote": "백상은 눈처럼 새하얀 옷소매를 휘날리며"
+    },
+    {
+      "attribute": "eyes",
+      "fact": "Emotionless, unreadable eyes",
+      "chapter": 650,
+      "quote": "무감정한 눈동자로 이곳을 응시하고 있던 백상"
+    },
+    {
+      "attribute": "age",
+      "fact": "Over seventy in years but looks young",
+      "chapter": 673,
+      "quote": "칠순을 넘긴 나이가 무색할 만큼 젊고 수려한 외모"
+    },
+    {
+      "attribute": "face",
+      "fact": "Handsome, refined features",
+      "chapter": 673,
+      "quote": "젊고 수려한 외모와 균형 잡힌 체구"
+    },
+    {
+      "attribute": "build",
+      "fact": "Well-proportioned physique",
+      "chapter": 673,
+      "quote": "균형 잡힌 체구"
+    },
+    {
+      "attribute": "clothing",
+      "fact": "Wears garments made of white fox fur",
+      "chapter": 673,
+      "quote": "새하얀 호리(狐狸)의 털로 만들어진 의복"
+    }
+  ],
+  "dropped_facts": [],
+  "used": [
+    0,
+    1,
+    4,
+    7,
+    8,
+    9
+  ],
+  "excluded": [
+    {
+      "index": 2,
+      "reason": "Redundant with other white-clothing facts; the burning state is a later change"
+    },
+    {
+      "index": 3,
+      "reason": "Conflicts with the earlier eye description (fact 1); the earliest look is kept"
+    },
+    {
+      "index": 5,
+      "reason": "Conflicts with the earlier eye description (fact 1); describes an expression rather than a stable look"
+    },
+    {
+      "index": 6,
+      "reason": "Age-versus-appearance mismatch hints at rejuvenation; the apparent age is not otherwise established"
+    }
+  ],
+  "line": "- **Appearance (as of ch 673):** Baeksang has handsome, refined features, a well-proportioned physique, and eyes that burn with flame-like intensity. He wears all-white clothing and ornaments from head to toe, including snow-white robes with flowing sleeves and garments made of white fox fur. Tags: handsome, refined face, well-proportioned build, flame-like eyes, all-white outfit, white ornaments, snow-white robes, flowing sleeves, white fox fur",
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.019420700000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.017963
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0183969
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0185898
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.029081299999999997
+    }
+  ]
+}

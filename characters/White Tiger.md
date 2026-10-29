@@ -7,4 +7,5 @@
 - **Personality:** Irritable and contemptuous of Jin Taekyung's jokes.
 - **Voice:** Telepathic, terse, and easily exasperated.
 - **Relationships:** The White Tiger shared a roughly three-hundred-year friendship with Yayul Cheon and entrusted Jin Taekyung and Jeok Cheongang with killing it if corruption overcame it.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 695

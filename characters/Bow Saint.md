@@ -7,4 +7,5 @@
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** Named with the Sword Saint and the Slaughter Saint as the Three Saints; the Martial God left her a letter.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 337

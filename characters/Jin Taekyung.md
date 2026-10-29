@@ -7,4 +7,5 @@
 - **Personality:** Hungry, self-aware, and dryly observant, he is pragmatic and fiercely defiant; he protects those he cherishes and uses wit and provocation to strengthen allies’ resolve.
 - **Voice:** First-person, conversational, dryly self-mocking, with vivid trap-and-prey imagery, game terminology, and occasional profanity.
 - **Relationships:** Jin Mukyung is his older brother and Jeok Cheongang his Master and trusted confidant; he shares deep loyalty with Hyuk Mujin, whom he values as family, and considers the revived Undead King, formerly the Skeleton King, a friend.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapters 0–8 and 10–63; durable continuity through Chapter 318
