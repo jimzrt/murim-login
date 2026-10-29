@@ -109,27 +109,27 @@ class AppearancePipelineTest(unittest.TestCase):
     def test_check_ranges_accepts_valid_and_forces_first_start(self):
         result = {"ranges": [
             {"start": 9, "description": "Hero is tall (영웅). Tags: tall", "used": [0]},
-            {"start": 40, "description": "Hero is tall and one-eyed. Tags: one eye", "used": [0, 1, 2]},
+            {"start": 40, "description": "Hero is tall and one-eyed. Tags: one eye", "used": [0, 1, 2],
+             "difference": "two eyes -> one eye"},
         ]}
-        ranges = ap.check_ranges(result, self.facts(), "Hero", first=1)
+        ranges = ap.check_ranges(result, self.facts(), "Hero", first=1, approved={1})
         self.assertEqual([r["start"] for r in ranges], [1, 40])
         self.assertEqual(ranges[0]["description"], "Hero is tall. Tags: tall")
 
     def test_check_ranges_rejects_leaks_and_bad_starts(self):
         base = {"start": 1, "description": "Hero is tall. Tags: tall", "used": [0]}
-        later = {"start": 40, "description": "Hero is one-eyed. Tags: one eye", "used": [1]}
+        later = {"start": 40, "description": "Hero is one-eyed. Tags: one eye", "used": [1], "difference": "two eyes -> one eye"}
         leak = dict(base, used=[0, 1])
         for bad, message in (
             ([leak, later], "next range start"),
-            ([base, dict(later, start=30)], "equal the chapter"),
+            ([base, dict(later, start=30)], "APPROVED-CHANGE"),
             ([base, dict(later, description="He is one-eyed. Tags: one eye")], "start with the name"),
-            ([base, dict(later, start=40)] , None),
+            ([base, later], "APPROVED-CHANGE"),    # nothing approved: first mention is not a change
         ):
-            if message is None:
-                self.assertEqual(len(ap.check_ranges({"ranges": bad}, self.facts(), "Hero", 1)), 2)
-                continue
             with self.assertRaisesRegex(ValueError, message):
                 ap.check_ranges({"ranges": bad}, self.facts(), "Hero", 1)
+        ok = ap.check_ranges({"ranges": [base, later]}, self.facts(), "Hero", 1, approved={1})
+        self.assertEqual(len(ok), 2)
         with self.assertRaisesRegex(ValueError, "Tags"):
             ap.check_ranges({"ranges": [dict(base, description="Hero is tall.")]}, self.facts(), "Hero", 1)
 
@@ -137,6 +137,49 @@ class AppearancePipelineTest(unittest.TestCase):
         a = [{"chapter": 5, "quote": "검은 눈 동자", "fact": "a"}]
         b = [{"chapter": 5, "quote": "검은눈동자", "fact": "dup"}, {"chapter": 2, "quote": "큰 키", "fact": "b"}]
         self.assertEqual([f["fact"] for f in ap.merge_facts(a, b)], ["b", "a"])
+
+    def test_later_range_needs_visible_difference_and_not_described_base(self):
+        base = {"start": 1, "description": "Hero is tall. Tags: tall", "used": [0]}
+        later = {"start": 40, "description": "Hero is one-eyed. Tags: one eye", "used": [1]}
+        with self.assertRaisesRegex(ValueError, "difference"):
+            ap.check_ranges({"ranges": [base, later]}, self.facts(), "Hero", 1, approved={1})
+        placeholder = {"start": 1, "description": "not described", "used": []}
+        ranges = ap.check_ranges(
+            {"ranges": [placeholder, dict(later, difference="old man -> youth")]}, self.facts(), "Hero", 1, approved={1})
+        self.assertEqual([r["start"] for r in ranges], [40])
+
+    def test_change_marker_is_deterministic(self):
+        chapters = {7: "그는 웃었다.\n노인은 어느덧 새하얀 백발이 되어 버렸다.\n그는 말했다.", 8: "평범한 노인이었다."}
+        self.assertTrue(ap.has_marker({"chapter": 7, "quote": "새하얀 백발이 되어 버렸다"}, chapters))
+        self.assertFalse(ap.has_marker({"chapter": 8, "quote": "평범한 노인이었다"}, chapters))
+
+    def test_context_marks_quote_with_neighbours(self):
+        text = "\n".join(f"문단{i}" for i in range(10)) + "\n"
+        ctx = ap.context_for({"chapter": 1, "quote": "문단5"}, {1: text})
+        self.assertIn(">>> 문단5 <<<", ctx)
+        self.assertIn("문단2", ctx)
+        self.assertNotIn("문단1\n", ctx.replace("문단10", ""))
+
+    def test_paragraph_verdicts_are_shared_strictest(self):
+        chapters = {1: "눈이 붉었다. 머리가 하얗다.\n다른 문단.\n"}
+        facts = [{"chapter": 1, "quote": "눈이 붉었다"}, {"chapter": 1, "quote": "머리가 하얗다"}]
+        verdicts = {0: {"this_character": True, "literal_present": True, "lasting_change": True},
+                    1: {"this_character": True, "literal_present": False, "lasting_change": False}}
+        ap.share_paragraph_verdicts(facts, verdicts, chapters)
+        self.assertFalse(verdicts[0]["literal_present"])
+        self.assertFalse(verdicts[0]["lasting_change"])
+
+    def test_write_requires_every_fact_used_or_explained(self):
+        row = {"english": "Hero", "gender": "male", "first_chapter": 1}
+        kept = [{"chapter": 2, "fact": "tall", "quote": "큰 키"}, {"chapter": 3, "fact": "scarf", "quote": "목도리"}]
+        answers = iter([
+            json.dumps({"ranges": [{"start": 1, "description": "Hero is tall. Tags: tall", "used": [0]}]}),
+            json.dumps({"ranges": [{"start": 1, "description": "Hero is tall. Tags: tall", "used": [0]}],
+                        "omitted": [{"index": 1, "reason": "one-scene costume"}]}),
+        ])
+        with patch.object(ap, "claude", lambda model, prompt: next(answers)):
+            ranges, conflicts, unused, omitted = ap.write(row, kept, set(), [])
+        self.assertEqual((len(ranges), unused, omitted[0]["index"]), (1, [], 1))
 
     def test_candidates_ignore_profile_safe_through(self):
         row = {"english": "Other", "names": ["영웅"], "safe_through": 300, "chapters": [1, 150, 400]}
