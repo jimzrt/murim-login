@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 43,
   "english": "Hong Jin",
   "profile": "characters/Hong Jin.md",
@@ -10,12 +11,20 @@
   "safe_through": 953,
   "passages": [
     [
+      139,
+      63
+    ],
+    [
       140,
       46
     ],
     [
       140,
-      55
+      107
+    ],
+    [
+      141,
+      21
     ],
     [
       142,
@@ -27,11 +36,7 @@
     ],
     [
       143,
-      36
-    ],
-    [
-      144,
-      31
+      87
     ],
     [
       145,
@@ -39,11 +44,19 @@
     ],
     [
       145,
-      70
+      29
+    ],
+    [
+      145,
+      78
     ],
     [
       146,
       85
+    ],
+    [
+      146,
+      32
     ],
     [
       147,
@@ -54,43 +67,192 @@
       41
     ],
     [
-      148,
+      851,
+      38
+    ],
+    [
+      856,
+      66
+    ],
+    [
+      856,
+      22
+    ],
+    [
+      856,
+      92
+    ],
+    [
+      856,
+      57
+    ],
+    [
+      859,
+      79
+    ],
+    [
+      862,
+      52
+    ],
+    [
+      863,
+      31
+    ],
+    [
+      864,
+      91
+    ],
+    [
+      865,
+      32
+    ],
+    [
+      865,
+      88
+    ],
+    [
+      866,
       46
+    ],
+    [
+      866,
+      54
+    ],
+    [
+      866,
+      53
+    ],
+    [
+      870,
+      28
+    ],
+    [
+      876,
+      71
+    ],
+    [
+      876,
+      24
+    ],
+    [
+      876,
+      27
+    ],
+    [
+      876,
+      108
+    ],
+    [
+      876,
+      46
+    ],
+    [
+      877,
+      39
+    ],
+    [
+      877,
+      34
+    ],
+    [
+      880,
+      44
+    ],
+    [
+      899,
+      62
+    ],
+    [
+      899,
+      58
+    ],
+    [
+      899,
+      62
+    ],
+    [
+      926,
+      131
+    ],
+    [
+      926,
+      90
+    ],
+    [
+      931,
+      77
+    ],
+    [
+      931,
+      22
+    ],
+    [
+      931,
+      37
+    ],
+    [
+      937,
+      34
     ]
   ],
   "facts": [
     {
-      "attribute": "face",
-      "fact": "Hong Jin is male, yet powders his face white and puts something on his lips (makeup)",
-      "chapter": 146,
-      "quote": "얼굴에 하얗게 분을 칠하고 입술에 뭘 발라도 그 사실은 달라지지 않는다."
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Looks about ten years older than the youthful, androgynous intruder",
+      "chapter": 866,
+      "quote": "홍진과 비교했을 때 십 년은 어려 보이는 외모"
+    },
+    {
+      "attribute": "clothing",
+      "kind": "base",
+      "fact": "Wears navy (군청색) garments embroidered with ornate patterns",
+      "chapter": 931,
+      "quote": "화려한 문양이 수 놓인 군청색 의복을 가다듬은 홍진은"
     }
   ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [
+  "ranges": [
     {
-      "index": 0,
-      "reason": "Only one concrete visual trait (white-powdered face). The lip product has no stated colour or look, so it can't be drawn without guessing. Not enough to picture the character."
+      "start": 139,
+      "description": "Hong Jin looks about ten years older than a youthful, androgynous person, an adult man of mature appearance. He wears ornate navy garments embroidered with elaborate patterns. Tags: male, mature adult look, navy clothing, ornate embroidery, elaborate patterns",
+      "used": [
+        0,
+        1
+      ]
     }
   ],
-  "line": "- **Appearance:** not described",
+  "lines": [
+    "- **Appearance (from ch 139):** Hong Jin looks about ten years older than a youthful, androgynous person, an adult man of mature appearance. He wears ornate navy garments embroidered with elaborate patterns. Tags: male, mature adult look, navy clothing, ornate embroidery, elaborate patterns"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0172439
+      "cost_usd": 0.0209276
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017545100000000004
+      "cost_usd": 0.0198098
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0156653
+      "cost_usd": 0.0191422
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019867
+      "cost_usd": 0.0182582
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0177082
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0184777
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0189797
     }
   ]
 }

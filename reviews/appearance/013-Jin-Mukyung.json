@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 13,
   "english": "Jin Mukyung",
   "profile": "characters/Jin Mukyung.md",
@@ -15,7 +16,7 @@
     ],
     [
       63,
-      22
+      32
     ],
     [
       65,
@@ -31,27 +32,15 @@
     ],
     [
       65,
-      49
+      107
     ],
     [
       66,
       37
     ],
     [
-      66,
-      49
-    ],
-    [
-      68,
+      70,
       53
-    ],
-    [
-      69,
-      65
-    ],
-    [
-      69,
-      50
     ],
     [
       73,
@@ -60,6 +49,10 @@
     [
       73,
       31
+    ],
+    [
+      74,
+      55
     ],
     [
       103,
@@ -74,61 +67,271 @@
       71
     ],
     [
+      112,
+      80
+    ],
+    [
+      112,
+      142
+    ],
+    [
       115,
       71
     ],
     [
+      115,
+      40
+    ],
+    [
+      115,
+      44
+    ],
+    [
+      115,
+      35
+    ],
+    [
       123,
       35
+    ],
+    [
+      124,
+      22
+    ],
+    [
+      124,
+      20
+    ],
+    [
+      124,
+      43
+    ],
+    [
+      124,
+      47
+    ],
+    [
+      124,
+      21
+    ],
+    [
+      125,
+      26
+    ],
+    [
+      131,
+      40
+    ],
+    [
+      147,
+      38
+    ],
+    [
+      147,
+      39
+    ],
+    [
+      148,
+      38
+    ],
+    [
+      148,
+      19
+    ],
+    [
+      148,
+      75
+    ],
+    [
+      154,
+      63
+    ],
+    [
+      198,
+      26
+    ],
+    [
+      229,
+      43
+    ],
+    [
+      229,
+      17
+    ],
+    [
+      242,
+      85
+    ],
+    [
+      526,
+      24
+    ],
+    [
+      529,
+      17
+    ],
+    [
+      927,
+      64
+    ],
+    [
+      952,
+      103
+    ],
+    [
+      956,
+      72
+    ],
+    [
+      959,
+      56
+    ],
+    [
+      959,
+      53
+    ],
+    [
+      963,
+      33
+    ],
+    [
+      963,
+      71
+    ],
+    [
+      965,
+      56
+    ],
+    [
+      970,
+      45
+    ],
+    [
+      970,
+      43
+    ],
+    [
+      970,
+      55
+    ],
+    [
+      979,
+      43
+    ],
+    [
+      980,
+      52
+    ],
+    [
+      980,
+      27
+    ],
+    [
+      980,
+      49
     ]
   ],
   "facts": [
     {
       "attribute": "face",
-      "fact": "Outstandingly good-looking young man",
+      "kind": "base",
+      "fact": "Has outstanding good looks",
       "chapter": 103,
-      "quote": "뛰어난 외모와 천재적인 무재(武才)"
+      "quote": "뛰어난 외모와 천재적인 무재(武才)."
     },
     {
       "attribute": "clothing",
-      "fact": "Wears a navy-blue martial robe (this is a youth who closely resembles Jin Mukyung, likely a relative, not necessarily him)",
+      "kind": "base",
+      "fact": "Wears a navy-blue martial robe",
       "chapter": 115,
       "quote": "청년은 남색 무복을 입고 있었다."
-    }
-  ],
-  "dropped_facts": [],
-  "used": [],
-  "excluded": [
-    {
-      "index": 0,
-      "reason": "Only vague visual info (young, good-looking). Talent part is non-visual. Fewer than two distinct concrete traits."
     },
     {
-      "index": 1,
-      "reason": "Describes a youth who only resembles him, likely a relative. Not confirmed to be him, so it would be speculation. Clothing alone isn't enough."
+      "attribute": "weapon",
+      "kind": "base",
+      "fact": "Carries an ink-black iron spear",
+      "chapter": 115,
+      "quote": "손에 든 묵색 철창"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Deep black eyes",
+      "chapter": 115,
+      "quote": "진무경의 깊고 검은 눈동자가 나를 응시했다"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Young man (cheongnyeon).",
+      "chapter": 229,
+      "quote": "청년, 진무경은 달랐다"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Eyes are large and round when widened (only in moments of shock; not a lasting trait)",
+      "chapter": 970,
+      "quote": "튀어나올 듯이 크게 뜨인 두 눈동자에는 격랑이 휘몰아쳤다."
     }
   ],
-  "line": "- **Appearance:** not described",
+  "dropped_facts": [
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Sturdy, well-built old man visits him (not Jin) — skip",
+      "chapter": 956,
+      "quote": ""
+    }
+  ],
+  "ranges": [
+    {
+      "start": 4,
+      "description": "Jin Mukyung is a young man with outstanding good looks and deep black eyes. He wears a navy-blue martial robe and carries an ink-black iron spear. Tags: young man, handsome, deep black eyes, navy-blue martial robe, ink-black iron spear, male",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "lines": [
+    "- **Appearance (from ch 4):** Jin Mukyung is a young man with outstanding good looks and deep black eyes. He wears a navy-blue martial robe and carries an ink-black iron spear. Tags: young man, handsome, deep black eyes, navy-blue martial robe, ink-black iron spear, male"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.016880700000000002
+      "cost_usd": 0.0182351
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017231700000000003
+      "cost_usd": 0.0190687
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0188311
+      "cost_usd": 0.0192618
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017419700000000003
+      "cost_usd": 0.0175202
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020409899999999998
+      "cost_usd": 0.0205018
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.019775999999999995
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0189256
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0190387
     }
   ]
 }

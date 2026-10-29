@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 5,
   "english": "Team Leader Choi",
   "profile": "characters/Team Leader Choi.md",
@@ -10,6 +11,10 @@
   "first_chapter": 41,
   "safe_through": 1175,
   "passages": [
+    [
+      41,
+      29
+    ],
     [
       42,
       48
@@ -27,114 +32,315 @@
       64
     ],
     [
-      43,
-      29
-    ],
-    [
-      43,
-      66
-    ],
-    [
-      44,
-      38
-    ],
-    [
-      45,
-      29
-    ],
-    [
-      46,
-      52
-    ],
-    [
       51,
       48
     ],
     [
-      51,
-      51
+      78,
+      61
     ],
     [
-      51,
-      15
+      209,
+      44
     ],
     [
-      51,
-      19
+      209,
+      81
     ],
     [
-      54,
+      209,
+      53
+    ],
+    [
+      210,
+      123
+    ],
+    [
+      210,
+      135
+    ],
+    [
+      271,
+      14
+    ],
+    [
+      274,
+      26
+    ],
+    [
+      286,
+      63
+    ],
+    [
+      287,
+      142
+    ],
+    [
+      287,
+      28
+    ],
+    [
+      288,
+      18
+    ],
+    [
+      289,
+      44
+    ],
+    [
+      289,
+      41
+    ],
+    [
+      289,
+      22
+    ],
+    [
+      394,
+      33
+    ],
+    [
+      394,
+      32
+    ],
+    [
+      394,
+      35
+    ],
+    [
+      394,
+      42
+    ],
+    [
+      397,
+      87
+    ],
+    [
+      398,
+      68
+    ],
+    [
+      434,
+      78
+    ],
+    [
+      554,
+      120
+    ],
+    [
+      577,
+      47
+    ],
+    [
+      578,
+      65
+    ],
+    [
+      579,
+      85
+    ],
+    [
+      582,
+      52
+    ],
+    [
+      593,
+      92
+    ],
+    [
+      596,
+      72
+    ],
+    [
+      602,
+      67
+    ],
+    [
+      604,
+      25
+    ],
+    [
+      607,
+      47
+    ],
+    [
+      613,
+      56
+    ],
+    [
+      726,
+      64
+    ],
+    [
+      731,
+      45
+    ],
+    [
+      731,
+      42
+    ],
+    [
+      750,
+      62
+    ],
+    [
+      757,
+      41
+    ],
+    [
+      761,
+      42
+    ],
+    [
+      761,
+      46
+    ],
+    [
+      764,
+      48
+    ],
+    [
+      770,
+      75
+    ],
+    [
+      771,
+      79
+    ],
+    [
+      798,
+      78
+    ],
+    [
+      798,
       31
     ],
     [
-      75,
-      86
+      815,
+      50
     ],
     [
-      76,
-      17
+      830,
+      39
     ],
     [
-      76,
-      20
+      1146,
+      49
     ],
     [
-      78,
-      20
+      1146,
+      65
+    ],
+    [
+      1149,
+      82
     ]
   ],
   "facts": [
     {
-      "attribute": "clothing",
-      "fact": "Wears a thin tailored suit that makes them look like a celebrity",
-      "chapter": 51,
-      "quote": "얇은 맞춤 정장을 입은 모습이 꼭 연예인 같다."
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Slender build that hides tremendous muscle strength",
+      "chapter": 210,
+      "quote": "겉보기에는 늘씬한 체구지만 그 안에는 어마어마한 근력이 숨어 있다."
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Strikingly handsome, celebrity-level looks that draw fans' attention",
+      "chapter": 554,
+      "quote": "외모마저 연예인 턱주가리를 돌릴 정도니"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Annoyingly handsome face",
+      "chapter": 582,
+      "quote": "재수 없을 만큼 잘생긴 외모"
     },
     {
       "attribute": "clothing",
-      "fact": "Wears a thin casual suit; looks like they stepped out of a photo shoot",
-      "chapter": 75,
-      "quote": "얇은 캐주얼 정장을 걸친 최 팀장은 방금 화보에서 튀어나온 것 같았다."
+      "kind": "base",
+      "fact": "Wears a luxury (designer) shirt",
+      "chapter": 770,
+      "quote": "구겨진 명품 셔츠의 옷깃이 힘을 이기지 못해 찢겨 나간다."
     },
     {
-      "attribute": "age",
-      "fact": "Is in their 20s",
-      "chapter": 75,
-      "quote": "20대에 모든 걸 가진 성공한 인생."
+      "attribute": "scars",
+      "kind": "change",
+      "fact": "Face covered with scars",
+      "chapter": 830,
+      "quote": "얼굴에 흉터가 가득하고"
+    },
+    {
+      "attribute": "missing limb",
+      "kind": "change",
+      "fact": "Lost one arm",
+      "chapter": 830,
+      "quote": "한쪽 팔을 잃어버린 최 팀장이"
     }
   ],
   "dropped_facts": [],
-  "used": [
-    0,
-    2
-  ],
-  "excluded": [
+  "ranges": [
     {
-      "index": 1,
-      "reason": "Casual suit variant is a later look; the earliest-established tailored suit (ch51) is kept."
+      "start": 41,
+      "description": "Team Leader Choi is a man with a slender build that hides great muscular strength. He has a strikingly handsome, celebrity-level face. He wears a wrinkled luxury designer shirt. Tags: male, slender build, hidden muscle, very handsome, celebrity looks, designer shirt, wrinkled collar",
+      "used": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "start": 830,
+      "description": "Team Leader Choi is a man with a slender build that hides great muscular strength, and he has lost one arm. His handsome face is now covered in scars. He wears a wrinkled luxury designer shirt. Tags: male, slender build, one-armed, missing arm, scarred face, handsome features, designer shirt, wrinkled collar",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     }
   ],
-  "line": "- **Appearance (as of ch 75):** Team Leader Choi appears as a man in his 20s who wears a thin tailored suit that makes him look like a celebrity. Tags: man, 20s, thin tailored suit, celebrity look",
+  "lines": [
+    "- **Appearance (ch 41–829):** Team Leader Choi is a man with a slender build that hides great muscular strength. He has a strikingly handsome, celebrity-level face. He wears a wrinkled luxury designer shirt. Tags: male, slender build, hidden muscle, very handsome, celebrity looks, designer shirt, wrinkled collar",
+    "- **Appearance (from ch 830):** Team Leader Choi is a man with a slender build that hides great muscular strength, and he has lost one arm. His handsome face is now covered in scars. He wears a wrinkled luxury designer shirt. Tags: male, slender build, one-armed, missing arm, scarred face, handsome features, designer shirt, wrinkled collar"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0171708
+      "cost_usd": 0.0186959
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018743199999999998
+      "cost_usd": 0.0198079
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0184422
+      "cost_usd": 0.0176242
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.015542900000000002
+      "cost_usd": 0.022847700000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017532100000000002
+      "cost_usd": 0.0224644
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0187773
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0222496
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0231108
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 34,
   "english": "Western Heaven Demon Lord",
   "profile": "characters/Western Heaven Demon Lord.md",
@@ -11,51 +12,27 @@
   "passages": [
     [
       348,
-      12
+      45
     ],
     [
       348,
-      21
+      38
     ],
     [
-      354,
+      348,
+      93
+    ],
+    [
+      348,
       26
     ],
     [
       355,
+      58
+    ],
+    [
+      355,
       48
-    ],
-    [
-      355,
-      45
-    ],
-    [
-      355,
-      54
-    ],
-    [
-      355,
-      72
-    ],
-    [
-      355,
-      23
-    ],
-    [
-      355,
-      44
-    ],
-    [
-      355,
-      43
-    ],
-    [
-      355,
-      29
-    ],
-    [
-      355,
-      33
     ],
     [
       357,
@@ -63,15 +40,19 @@
     ],
     [
       359,
-      49
-    ],
-    [
-      361,
       61
     ],
     [
+      361,
+      93
+    ],
+    [
+      363,
+      48
+    ],
+    [
       364,
-      36
+      95
     ],
     [
       364,
@@ -79,50 +60,99 @@
     ],
     [
       364,
-      35
+      61
+    ],
+    [
+      365,
+      41
+    ],
+    [
+      367,
+      60
+    ],
+    [
+      368,
+      103
+    ],
+    [
+      485,
+      41
+    ],
+    [
+      614,
+      39
+    ],
+    [
+      839,
+      47
+    ],
+    [
+      977,
+      134
     ]
   ],
   "facts": [
     {
-      "attribute": "build",
-      "fact": "Plain face and build; looks like an ordinary middle-aged man",
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Missing one arm",
+      "chapter": 348,
+      "quote": "송구하오나 한쪽 팔이"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Plain, ordinary face",
       "chapter": 361,
       "quote": "평범한 얼굴과 체격."
     },
     {
       "attribute": "apparent age",
+      "kind": "base",
       "fact": "Looks like a common middle-aged man",
       "chapter": 361,
-      "quote": "어디서나 볼 수 있는 흔한 중년인이었다"
+      "quote": "그는 어디서나 볼 수 있는 흔한 중년인이었다."
+    },
+    {
+      "attribute": "missing limb",
+      "kind": "change",
+      "fact": "Lost one arm as the price for killing the Poison King during the Sichuan Blood Incident.",
+      "chapter": 485,
+      "quote": "서천마군은 독왕을 처치하는 대가로 한쪽 팔을 내놓아야 했다."
     }
   ],
   "dropped_facts": [],
-  "used": [
-    0,
-    1
+  "ranges": [
+    {
+      "start": 347,
+      "description": "Western Heaven Demon Lord is a male with the look of a common middle-aged man, with a plain, ordinary face and an ordinary build. He is missing one arm. Tags: male, middle-aged, plain face, ordinary build, one-armed, missing arm",
+      "used": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
   ],
-  "excluded": [],
-  "line": "- **Appearance (as of ch 361):** Plain face and build, with the apparent age of a common middle-aged man. Tags: middle-aged man, plain face, ordinary build",
+  "lines": [
+    "- **Appearance (from ch 347):** Western Heaven Demon Lord is a male with the look of a common middle-aged man, with a plain, ordinary face and an ordinary build. He is missing one arm. Tags: male, middle-aged, plain face, ordinary build, one-armed, missing arm"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.017327600000000002
+      "cost_usd": 0.0214724
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017679100000000003
+      "cost_usd": 0.022841399999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0173982
+      "cost_usd": 0.019588599999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0159898
-    },
-    {
-      "model": "sonnet",
-      "cost_usd": 0.016483
+      "cost_usd": 0.0229527
     }
   ]
 }

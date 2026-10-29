@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 41,
   "english": "Jin Hayeon",
   "profile": "characters/Jin Hayeon.md",
@@ -12,11 +13,15 @@
   "passages": [
     [
       31,
-      41
+      52
     ],
     [
       52,
       25
+    ],
+    [
+      52,
+      30
     ],
     [
       53,
@@ -32,7 +37,7 @@
     ],
     [
       87,
-      75
+      104
     ],
     [
       89,
@@ -44,7 +49,7 @@
     ],
     [
       93,
-      54
+      80
     ],
     [
       95,
@@ -68,7 +73,7 @@
     ],
     [
       227,
-      62
+      81
     ],
     [
       227,
@@ -79,47 +84,120 @@
       52
     ],
     [
+      227,
+      22
+    ],
+    [
       270,
       35
+    ],
+    [
+      270,
+      28
+    ],
+    [
+      270,
+      57
+    ],
+    [
+      303,
+      73
+    ],
+    [
+      303,
+      53
+    ],
+    [
+      303,
+      18
+    ],
+    [
+      303,
+      35
+    ],
+    [
+      341,
+      15
+    ],
+    [
+      418,
+      55
+    ],
+    [
+      434,
+      78
+    ],
+    [
+      477,
+      76
+    ],
+    [
+      552,
+      51
+    ],
+    [
+      552,
+      71
+    ],
+    [
+      552,
+      53
+    ],
+    [
+      552,
+      45
+    ],
+    [
+      593,
+      92
     ]
   ],
   "facts": [
     {
-      "attribute": "build",
-      "fact": "Has small hands/fists, suggesting a small, child-like build",
-      "chapter": 53,
-      "quote": "조그만 주먹이 가슴을 퍽 친다"
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Has a slim, oval face.",
+      "chapter": 434,
+      "quote": "갸름한 얼굴 하나가 나타났다"
     }
   ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [
+  "ranges": [
     {
-      "index": 0,
-      "reason": "Only one visual trait (small fists), and it hints at a child-like build from a single action line; too little to picture the character."
+      "start": 5,
+      "description": "Jin Hayeon has a slim, oval face. Tags: female, slim face, oval face",
+      "used": [
+        0
+      ]
     }
   ],
-  "line": "- **Appearance:** not described",
+  "lines": [
+    "- **Appearance (from ch 5):** Jin Hayeon has a slim, oval face. Tags: female, slim face, oval face"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0189506
+      "cost_usd": 0.018887300000000003
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0166575
+      "cost_usd": 0.0186235
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0170097
+      "cost_usd": 0.0180703
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0161501
+      "cost_usd": 0.020897000000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0163502
+      "cost_usd": 0.0163082
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0173113
     }
   ]
 }

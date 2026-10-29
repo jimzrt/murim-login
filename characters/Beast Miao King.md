@@ -7,5 +7,5 @@
 - **Personality:** The Beast Miao King is boisterous and warmhearted toward Nanman's people, but their corruption and destruction awaken fierce grief and wrath in him.
 - **Voice:** Low, growling, and forceful.
 - **Relationships:** Baeksang was his sworn younger brother and childhood companion, and the Beast Miao King killed him at his request; Yayul Mok is his Young Palace Lord, Jeok Cheongang is an old acquaintance, and Jin Taekyung is Jeok's Disciple and ally.
-- **Appearance (as of ch 636):** Beast Miao King is a huge, burly man with a large, imposing frame. He has big fists and a thick beard that looks like a wild beast's mane.
+- **Appearance (from ch 507):** Beast Miao King is a huge, bulky, towering man with a mountain-ridge-like frame, standing like an iron tower. He is middle-aged with half-grey salt-and-pepper hair and a thick beard like a wild beast's mane, and a stern, stone-still expressionless face. Tags: male, middle-aged, huge towering build, bulky, salt-and-pepper hair, mane-like beard, stony expression
 - **Sources:** Korean source and accepted translation, Chapter 634

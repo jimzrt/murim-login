@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 24,
   "english": "Prince Shangshan",
   "profile": "characters/Prince Shangshan.md",
@@ -12,7 +13,19 @@
   "passages": [
     [
       143,
+      51
+    ],
+    [
+      143,
       28
+    ],
+    [
+      143,
+      28
+    ],
+    [
+      143,
+      50
     ],
     [
       144,
@@ -23,85 +36,268 @@
       51
     ],
     [
-      145,
-      29
-    ],
-    [
-      145,
-      17
-    ],
-    [
-      145,
-      18
-    ],
-    [
-      145,
-      23
-    ],
-    [
-      145,
-      70
-    ],
-    [
-      145,
-      23
-    ],
-    [
       146,
       38
     ],
     [
       191,
-      19
+      91
     ],
     [
       196,
+      84
+    ],
+    [
+      838,
+      43
+    ],
+    [
+      856,
+      22
+    ],
+    [
+      856,
+      52
+    ],
+    [
+      856,
+      59
+    ],
+    [
+      859,
+      79
+    ],
+    [
+      863,
+      72
+    ],
+    [
+      863,
+      116
+    ],
+    [
+      864,
+      52
+    ],
+    [
+      864,
+      91
+    ],
+    [
+      864,
+      55
+    ],
+    [
+      869,
+      55
+    ],
+    [
+      870,
+      47
+    ],
+    [
+      871,
+      104
+    ],
+    [
+      871,
+      69
+    ],
+    [
+      872,
+      104
+    ],
+    [
+      874,
+      86
+    ],
+    [
+      879,
+      81
+    ],
+    [
+      879,
+      141
+    ],
+    [
+      888,
+      64
+    ],
+    [
+      896,
+      123
+    ],
+    [
+      902,
       71
+    ],
+    [
+      903,
+      24
+    ],
+    [
+      905,
+      71
+    ],
+    [
+      905,
+      50
+    ],
+    [
+      905,
+      65
+    ],
+    [
+      924,
+      37
+    ],
+    [
+      924,
+      99
+    ],
+    [
+      924,
+      55
+    ],
+    [
+      930,
+      53
+    ],
+    [
+      934,
+      51
+    ],
+    [
+      935,
+      89
+    ],
+    [
+      941,
+      71
+    ],
+    [
+      941,
+      46
+    ],
+    [
+      941,
+      38
     ]
   ],
   "facts": [
     {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Despite young age, has already well-defined, fully formed facial features",
+      "chapter": 143,
+      "quote": "어린 나이임에도 이미 완성된 이목구비는 뚜렷했고"
+    },
+    {
       "attribute": "eyes",
-      "fact": "Eyes sparkle brightly",
-      "chapter": 145,
-      "quote": "주표의 눈동자가 반짝반짝 빛났다."
+      "kind": "base",
+      "fact": "Black eyes",
+      "chapter": 143,
+      "quote": "검은 눈동자는 나를 빤히 응시하고 있었다."
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Handsome face",
+      "chapter": 143,
+      "quote": "‘꼭 싸가지 없는 놈들이 잘생겼더라.’"
     },
     {
       "attribute": "height",
-      "fact": "Short; has to stand on tiptoe to pat the taller narrator's head",
+      "kind": "base",
+      "fact": "Short, child-sized; must stand on tiptoe to pat an adult's bowed head",
       "chapter": 146,
-      "quote": "주표가 까치발을 들고 내 머리를 쓱쓱 쓰다듬었다."
+      "quote": "허리를 꾸벅 숙이자 주표가 까치발을 들고 내 머리를 쓱쓱 쓰다듬었다."
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Boy not yet in mid-teens (under ~15)",
+      "chapter": 856,
+      "quote": "아직 십 대 중반도 되지 않은 소년이라고는 믿을 수 없을 만큼 침착한 태도와 위엄 어린 음성."
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Still a child, not yet fifteen years old",
+      "chapter": 879,
+      "quote": "아직 지학(志學. 열다섯 살)도 되지 않은 연배이시지"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Boy with an extraordinary, striking face",
+      "chapter": 879,
+      "quote": "척 봐도 범상치 않아 보이는 소년의 얼굴이 창가에 나타났는데"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears to be a boy (youth)",
+      "chapter": 924,
+      "quote": "소년은, 상산왕 주표는"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Has eyes (pupils) in which the emperor's reflection is visible; no color given",
+      "chapter": 941,
+      "quote": "순간 놀라서 고개를 든 주표의 눈동자에, 웃고 있는 황제의 모습이 고스란히 담겼다."
     }
   ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [
+  "ranges": [
     {
-      "index": 0,
-      "reason": "Sparkling eyes are a momentary expression, not a lasting visual trait (no colour or shape given)."
-    },
-    {
-      "index": 1,
-      "reason": "Short stature is the only lasting visual trait. One trait is below the two-trait minimum, and the tiptoe detail is relative to another character."
+      "start": 136,
+      "description": "Prince Shangshan is a short, child-sized boy under fifteen, small enough to stand on tiptoe to pat an adult's bowed head. He has a handsome, striking face with well-defined, fully formed features and black eyes. Tags: boy, under fifteen, child-sized, short, black eyes, handsome, striking face, well-defined features",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
     }
   ],
-  "line": "- **Appearance:** not described",
+  "lines": [
+    "- **Appearance (from ch 136):** Prince Shangshan is a short, child-sized boy under fifteen, small enough to stand on tiptoe to pat an adult's bowed head. He has a handsome, striking face with well-defined, fully formed features and black eyes. Tags: boy, under fifteen, child-sized, short, black eyes, handsome, striking face, well-defined features"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0162461
+      "cost_usd": 0.0208062
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017799199999999998
+      "cost_usd": 0.0215383
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0156804
+      "cost_usd": 0.0179258
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0211687
+      "cost_usd": 0.0211036
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0218505
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0178042
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0205532
     }
   ]
 }

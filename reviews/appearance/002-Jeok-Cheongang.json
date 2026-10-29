@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 2,
   "english": "Jeok Cheongang",
   "profile": "characters/Jeok Cheongang.md",
@@ -11,137 +12,422 @@
   "safe_through": 1025,
   "passages": [
     [
-      124,
-      69
-    ],
-    [
-      124,
-      57
-    ],
-    [
-      124,
-      32
-    ],
-    [
-      171,
-      56
-    ],
-    [
-      171,
-      38
-    ],
-    [
-      171,
-      24
-    ],
-    [
-      171,
-      47
-    ],
-    [
       172,
-      64
-    ],
-    [
-      172,
-      55
-    ],
-    [
-      172,
-      23
-    ],
-    [
-      172,
-      63
-    ],
-    [
-      172,
-      46
+      89
     ],
     [
       174,
       59
     ],
     [
-      174,
-      55
-    ],
-    [
       176,
-      74
-    ],
-    [
-      176,
-      75
+      100
     ],
     [
       177,
       48
     ],
     [
-      178,
-      52
+      192,
+      46
+    ],
+    [
+      235,
+      35
+    ],
+    [
+      244,
+      57
+    ],
+    [
+      247,
+      87
+    ],
+    [
+      258,
+      78
+    ],
+    [
+      258,
+      57
+    ],
+    [
+      263,
+      66
+    ],
+    [
+      263,
+      55
+    ],
+    [
+      263,
+      47
+    ],
+    [
+      265,
+      57
+    ],
+    [
+      367,
+      74
+    ],
+    [
+      435,
+      77
+    ],
+    [
+      435,
+      35
+    ],
+    [
+      438,
+      103
+    ],
+    [
+      441,
+      53
+    ],
+    [
+      444,
+      76
+    ],
+    [
+      463,
+      70
+    ],
+    [
+      471,
+      49
+    ],
+    [
+      472,
+      69
+    ],
+    [
+      485,
+      60
+    ],
+    [
+      502,
+      36
+    ],
+    [
+      518,
+      45
+    ],
+    [
+      519,
+      95
+    ],
+    [
+      521,
+      120
+    ],
+    [
+      535,
+      20
+    ],
+    [
+      542,
+      79
+    ],
+    [
+      544,
+      26
+    ],
+    [
+      547,
+      45
+    ],
+    [
+      551,
+      48
+    ],
+    [
+      710,
+      32
+    ],
+    [
+      712,
+      28
+    ],
+    [
+      715,
+      65
+    ],
+    [
+      720,
+      69
+    ],
+    [
+      795,
+      48
+    ],
+    [
+      840,
+      56
+    ],
+    [
+      841,
+      136
+    ],
+    [
+      843,
+      54
+    ],
+    [
+      855,
+      134
+    ],
+    [
+      891,
+      150
+    ],
+    [
+      910,
+      66
+    ],
+    [
+      911,
+      93
+    ],
+    [
+      915,
+      30
+    ],
+    [
+      926,
+      85
+    ],
+    [
+      938,
+      29
+    ],
+    [
+      945,
+      83
+    ],
+    [
+      972,
+      71
+    ],
+    [
+      972,
+      70
+    ],
+    [
+      977,
+      61
+    ],
+    [
+      988,
+      47
+    ],
+    [
+      988,
+      47
+    ],
+    [
+      999,
+      68
+    ],
+    [
+      999,
+      50
     ]
   ],
   "facts": [
     {
-      "attribute": "age",
-      "fact": "Was already an old man when he first appeared in the martial world.",
-      "chapter": 124,
-      "quote": "처음 무림에 모습을 나타냈을 당시에도 화왕은 이미 노인이었다."
-    },
-    {
-      "attribute": "age",
-      "fact": "Appears as an old man.",
-      "chapter": 171,
-      "quote": "노인, 적천강은 목적지에 도착하자마자 제법 흥미로운 상황에 직면했다."
-    },
-    {
-      "attribute": "apparent age",
-      "fact": "Looks like a very old man, seemingly near death",
-      "chapter": 171,
-      "quote": "곧 죽어도 이상하지 않을 것 같은 노인"
+      "attribute": "eyebrows",
+      "kind": "base",
+      "fact": "White eyebrows",
+      "chapter": 172,
+      "quote": "흰 눈썹이 반달처럼 휘어졌다"
     },
     {
       "attribute": "build",
-      "fact": "Short, stocky build",
-      "chapter": 172,
-      "quote": "작달막한 체구"
+      "kind": "base",
+      "fact": "Small, slight frame; ragged clothing",
+      "chapter": 192,
+      "quote": "남루한 옷차림에 왜소한 체구였지만"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Face visibly aged, looks much older",
+      "chapter": 235,
+      "quote": "적천강의 얼굴은 부쩍 늙어 있었다"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears as an old man (elderly)",
+      "chapter": 435,
+      "quote": "천연덕스럽게 입꼬리를 말아 올린 노인"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Small, short elderly man",
+      "chapter": 438,
+      "quote": "자그마한 노인"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Clear, transparent eyes",
+      "chapter": 438,
+      "quote": "투명하고 맑은 눈동자"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Fierce, bad-looking face; looks like a wrathful demon when frowning",
+      "chapter": 444,
+      "quote": "가뜩이나 인상이 나쁜데"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Visibly aged: old man with wrinkled face",
+      "chapter": 472,
+      "quote": "감출 수 없는 세월이 서린 노인의 주름진 얼굴"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Appears middle-aged",
+      "chapter": 518,
+      "quote": "옷소매로 턱수염을 문질러 닦은 중년인, 화왕 적천강이"
+    },
+    {
+      "attribute": "facial hair",
+      "kind": "base",
+      "fact": "Has a beard",
+      "chapter": 518,
+      "quote": "옷소매로 턱수염을 문질러 닦은 중년인"
+    },
+    {
+      "attribute": "eyebrows",
+      "kind": "base",
+      "fact": "Red eyebrows",
+      "chapter": 535,
+      "quote": "적천강의 붉은 눈썹이 파르르 떨렸다."
+    },
+    {
+      "attribute": "facial hair",
+      "kind": "base",
+      "fact": "Dark red beard",
+      "chapter": 544,
+      "quote": "적천강이 검붉은 수염을 쓰다듬으며 말을 이었다."
+    },
+    {
+      "attribute": "hair",
+      "kind": "base",
+      "fact": "Bald head that shines in sunlight",
+      "chapter": 715,
+      "quote": "햇빛을 받아 번쩍거리는 그의 대머리"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Small, slight frame",
+      "chapter": 795,
+      "quote": "왜소한 체구의 적천강"
+    },
+    {
+      "attribute": "hair",
+      "kind": "base",
+      "fact": "Red hair",
+      "chapter": 840,
+      "quote": "붉은 머리카락의 중년인, 적천강"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Body has been rejuvenated to a youthful state, though his gaze still carries the weight of his years.",
+      "chapter": 938,
+      "quote": "비록 몸은 젊어졌으나 눈빛에 담긴 세월만은 여전하다."
+    },
+    {
+      "attribute": "hair",
+      "kind": "change",
+      "fact": "Hair growing back in recently, like spring sprouts (previously bald/shaven)",
+      "chapter": 945,
+      "quote": "최근 들어 봄철 새싹처럼 슬금슬금 고개를 내미는 머리카락을"
     }
   ],
   "dropped_facts": [],
-  "used": [
-    1,
-    2,
-    3
-  ],
-  "excluded": [
+  "ranges": [
     {
-      "index": 0,
-      "reason": "Describes his age at his first appearance in the martial world, which is a timeline detail. It adds nothing beyond the old-man look already taken from facts 1 and 2."
+      "start": 124,
+      "description": "Jeok Cheongang is a small, slight elderly man with a wrinkled, aged face, a fierce and ill-tempered look that turns demon-like when he frowns, and clear, transparent eyes. He has a bald head that shines in sunlight, red eyebrows and a dark red beard, and wears ragged clothing. Tags: elderly man, small slight frame, wrinkled face, fierce scowl, clear eyes, bald head, red eyebrows, dark red beard, ragged clothes",
+      "used": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "start": 938,
+      "description": "Jeok Cheongang is a small, slight man with a youthful body, clear, transparent eyes and a steady, weighty gaze. His face is fierce and ill-tempered, looking like a wrathful demon when he frowns. He has red eyebrows and a dark red beard. His once-bald head now shows short new hair sprouting like spring shoots. Tags: youthful body, small slight frame, clear eyes, fierce face, red eyebrows, dark red beard, short sprouting hair, ragged clothes",
+      "used": [
+        1,
+        4,
+        5,
+        6,
+        10,
+        11,
+        13,
+        15,
+        16
+      ]
     }
   ],
-  "line": "- **Appearance (as of ch 172):** Jeok Cheongang is a very old man who looks as if he could die at any moment. He has a short, stocky build. Tags: old man, elderly, frail-looking, short, stocky",
+  "lines": [
+    "- **Appearance (ch 124–937):** Jeok Cheongang is a small, slight elderly man with a wrinkled, aged face, a fierce and ill-tempered look that turns demon-like when he frowns, and clear, transparent eyes. He has a bald head that shines in sunlight, red eyebrows and a dark red beard, and wears ragged clothing. Tags: elderly man, small slight frame, wrinkled face, fierce scowl, clear eyes, bald head, red eyebrows, dark red beard, ragged clothes",
+    "- **Appearance (from ch 938):** Jeok Cheongang is a small, slight man with a youthful body, clear, transparent eyes and a steady, weighty gaze. His face is fierce and ill-tempered, looking like a wrathful demon when he frowns. He has red eyebrows and a dark red beard. His once-bald head now shows short new hair sprouting like spring shoots. Tags: youthful body, small slight frame, clear eyes, fierce face, red eyebrows, dark red beard, short sprouting hair, ragged clothes"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0204617
+      "cost_usd": 0.020553800000000004
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0124289
+      "cost_usd": 0.0246442
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0193675
+      "cost_usd": 0.0214522
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0161716
+      "cost_usd": 0.016832899999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020918
+      "cost_usd": 0.020798399999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0241167
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.019164699999999996
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0325971
     }
   ]
 }

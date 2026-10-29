@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 1,
   "english": "Jin Taekyung",
   "profile": "characters/Jin Taekyung.md",
@@ -10,111 +11,372 @@
   "safe_through": 1025,
   "passages": [
     [
-      7,
-      51
+      3,
+      20
     ],
     [
-      7,
-      45
-    ],
-    [
-      8,
-      69
-    ],
-    [
-      9,
-      102
+      6,
+      76
     ],
     [
       15,
       49
     ],
     [
-      15,
-      90
-    ],
-    [
-      16,
-      72
-    ],
-    [
-      22,
-      56
-    ],
-    [
       25,
-      62
-    ],
-    [
-      29,
-      18
-    ],
-    [
-      38,
-      70
-    ],
-    [
-      39,
-      18
-    ],
-    [
-      41,
-      58
-    ],
-    [
-      46,
-      52
-    ],
-    [
-      54,
-      31
+      80
     ],
     [
       55,
       50
     ],
     [
-      57,
+      63,
+      80
+    ],
+    [
+      70,
+      53
+    ],
+    [
+      166,
+      43
+    ],
+    [
+      175,
+      52
+    ],
+    [
+      190,
+      33
+    ],
+    [
+      200,
+      44
+    ],
+    [
+      201,
+      74
+    ],
+    [
+      202,
+      90
+    ],
+    [
+      209,
+      40
+    ],
+    [
+      276,
+      37
+    ],
+    [
+      280,
+      31
+    ],
+    [
+      280,
+      31
+    ],
+    [
+      300,
+      67
+    ],
+    [
+      319,
+      58
+    ],
+    [
+      357,
+      51
+    ],
+    [
+      364,
+      72
+    ],
+    [
+      386,
+      56
+    ],
+    [
+      397,
+      53
+    ],
+    [
+      402,
+      127
+    ],
+    [
+      412,
+      36
+    ],
+    [
+      431,
+      68
+    ],
+    [
+      455,
+      33
+    ],
+    [
+      476,
+      32
+    ],
+    [
+      513,
+      42
+    ],
+    [
+      541,
+      62
+    ],
+    [
+      548,
+      54
+    ],
+    [
+      549,
+      46
+    ],
+    [
+      573,
+      58
+    ],
+    [
+      579,
+      44
+    ],
+    [
+      629,
+      64
+    ],
+    [
+      645,
+      56
+    ],
+    [
+      656,
+      178
+    ],
+    [
+      677,
+      61
+    ],
+    [
+      680,
+      46
+    ],
+    [
+      702,
+      139
+    ],
+    [
+      712,
+      43
+    ],
+    [
+      766,
+      70
+    ],
+    [
+      779,
+      66
+    ],
+    [
+      785,
+      60
+    ],
+    [
+      805,
       71
+    ],
+    [
+      812,
+      68
+    ],
+    [
+      821,
+      55
+    ],
+    [
+      836,
+      76
+    ],
+    [
+      866,
+      61
+    ],
+    [
+      901,
+      61
+    ],
+    [
+      920,
+      45
+    ],
+    [
+      923,
+      29
+    ],
+    [
+      962,
+      66
+    ],
+    [
+      963,
+      33
+    ],
+    [
+      971,
+      92
+    ],
+    [
+      1014,
+      60
     ]
   ],
   "facts": [
     {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears as a young man (reflected in water)",
+      "chapter": 3,
+      "quote": "잔잔한 수면 위로 한 청년이 비친다."
+    },
+    {
       "attribute": "build",
-      "fact": "Has a sturdy, well-built physique",
+      "kind": "base",
+      "fact": "Sturdy, well-built body",
       "chapter": 55,
       "quote": "건장한 체구의 진태경"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Handsome face",
+      "chapter": 63,
+      "quote": "잘생긴 얼굴이 드러났다"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Young man",
+      "chapter": 166,
+      "quote": "청년, 진태경이 활짝 웃었다."
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Considers himself good-looking (handsome face)",
+      "chapter": 175,
+      "quote": "이만하면 잘생겼죠"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Bold, well-defined features; looks both like an innocent boy and a worldly young man",
+      "chapter": 202,
+      "quote": "시원시원하게 뻗은 이목구비는 천진난만한 소년 같기도 했고, 이미 한차례 세상을 겪은 청년 같기도 했다."
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Clear, deep black eyes",
+      "chapter": 280,
+      "quote": "맑고 깊은 검은색 눈동자"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Tall, well-proportioned build; young man",
+      "chapter": 357,
+      "quote": "훤칠한 체구의 청년"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears to be a young man",
+      "chapter": 476,
+      "quote": "청년, 진태경"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Handsome, good-looking young man",
+      "chapter": 779,
+      "quote": "수려한 외모의 젊은이"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Appears to be a young man",
+      "chapter": 821,
+      "quote": "청년의 얼굴"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Appears young, referred to as a youth/kid",
+      "chapter": 971,
+      "quote": "어린놈의 눈동자"
     }
   ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [
+  "ranges": [
     {
-      "index": 0,
-      "reason": "Only one visual trait (sturdy build); fewer than two distinct visual traits, so too little to picture the character."
+      "start": 1,
+      "description": "Jin Taekyung is a tall, well-proportioned, sturdy young man with a well-built body. He has a handsome face with bold, well-defined features that look both boyishly innocent and worldly, and clear, deep black eyes. Tags: young man, tall, sturdy build, well-proportioned, handsome, bold defined features, clear deep black eyes",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
     }
   ],
-  "line": "- **Appearance:** not described",
+  "lines": [
+    "- **Appearance (from ch 1):** Jin Taekyung is a tall, well-proportioned, sturdy young man with a well-built body. He has a handsome face with bold, well-defined features that look both boyishly innocent and worldly, and clear, deep black eyes. Tags: young man, tall, sturdy build, well-proportioned, handsome, bold defined features, clear deep black eyes"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.018024300000000004
+      "cost_usd": 0.0218629
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0172391
+      "cost_usd": 0.022687099999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0172129
+      "cost_usd": 0.022886800000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0159902
+      "cost_usd": 0.0209782
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0162851
+      "cost_usd": 0.0223436
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.023258300000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.023826
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.020402399999999998
     }
   ]
 }

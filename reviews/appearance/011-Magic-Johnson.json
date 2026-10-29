@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 11,
   "english": "Magic Johnson",
   "profile": "characters/Magic Johnson.md",
@@ -24,43 +25,23 @@
     ],
     [
       385,
-      54
+      97
     ],
     [
       386,
-      36
+      86
+    ],
+    [
+      386,
+      41
     ],
     [
       387,
       33
     ],
     [
-      394,
-      48
-    ],
-    [
-      395,
-      47
-    ],
-    [
-      396,
-      29
-    ],
-    [
-      396,
-      88
-    ],
-    [
-      403,
-      60
-    ],
-    [
-      407,
-      48
-    ],
-    [
       408,
-      46
+      142
     ],
     [
       429,
@@ -69,6 +50,10 @@
     [
       429,
       33
+    ],
+    [
+      429,
+      25
     ],
     [
       429,
@@ -76,54 +61,239 @@
     ],
     [
       429,
+      149
+    ],
+    [
+      429,
       67
     ],
     [
-      430,
-      35
+      440,
+      49
+    ],
+    [
+      485,
+      41
+    ],
+    [
+      559,
+      39
+    ],
+    [
+      559,
+      77
+    ],
+    [
+      559,
+      51
+    ],
+    [
+      559,
+      52
+    ],
+    [
+      564,
+      42
+    ],
+    [
+      583,
+      124
+    ],
+    [
+      592,
+      188
+    ],
+    [
+      605,
+      64
+    ],
+    [
+      605,
+      117
+    ],
+    [
+      606,
+      31
+    ],
+    [
+      607,
+      86
+    ],
+    [
+      727,
+      147
+    ],
+    [
+      728,
+      138
+    ],
+    [
+      741,
+      40
+    ],
+    [
+      742,
+      30
+    ],
+    [
+      764,
+      123
+    ],
+    [
+      771,
+      79
+    ],
+    [
+      771,
+      91
+    ],
+    [
+      773,
+      64
+    ],
+    [
+      778,
+      102
+    ],
+    [
+      779,
+      113
+    ],
+    [
+      785,
+      62
+    ],
+    [
+      787,
+      90
+    ],
+    [
+      788,
+      104
+    ],
+    [
+      790,
+      64
+    ],
+    [
+      798,
+      36
+    ],
+    [
+      799,
+      66
+    ],
+    [
+      800,
+      19
+    ],
+    [
+      804,
+      92
+    ],
+    [
+      810,
+      50
+    ],
+    [
+      811,
+      88
+    ],
+    [
+      811,
+      64
+    ],
+    [
+      811,
+      87
+    ],
+    [
+      812,
+      109
+    ],
+    [
+      812,
+      60
     ]
   ],
   "facts": [
     {
-      "attribute": "build",
-      "fact": "Has a large, bulky frame",
-      "chapter": 407,
-      "quote": "덩치에 안 맞게 장난기가 넘친단 말이지."
-    }
-  ],
-  "dropped_facts": [
+      "attribute": "skin",
+      "kind": "base",
+      "fact": "Has dark/black skin",
+      "chapter": 559,
+      "quote": "투덜거리는 검은 피부의 대마도사, 매직 존슨을 보며 나는 피식 웃었다."
+    },
     {
-      "attribute": "face",
-      "fact": "Has a jowly/fleshy double-chin-like face? No — not established",
-      "chapter": 0,
-      "quote": ""
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Huge, large-framed Black man",
+      "chapter": 741,
+      "quote": "거구의 흑인이 우리 앞에 섰다"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Has a huge, massive build",
+      "chapter": 773,
+      "quote": "매직 존슨만큼이나 거대한 덩치에"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Has transparent (clear) eyes",
+      "chapter": 812,
+      "quote": "매직 존슨의 투명한 눈동자에 진태경이 비쳤다."
     }
   ],
-  "used": [
-    0
+  "dropped_facts": [],
+  "ranges": [
+    {
+      "start": 242,
+      "description": "Magic Johnson is a huge, massive, large-framed Black man with dark skin and a towering, broad build. His eyes are transparent and clear. Tags: male, Black man, dark skin, huge build, large frame, massive, transparent eyes, clear eyes",
+      "used": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
   ],
-  "excluded": [],
-  "line": "- **Appearance (as of ch 407):** Magic Johnson has a large, bulky frame.",
+  "lines": [
+    "- **Appearance (from ch 242):** Magic Johnson is a huge, massive, large-framed Black man with dark skin and a towering, broad build. His eyes are transparent and clear. Tags: male, Black man, dark skin, huge build, large frame, massive, transparent eyes, clear eyes"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0172322
+      "cost_usd": 0.0183842
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0174226
+      "cost_usd": 0.0191198
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0188009
+      "cost_usd": 0.0197827
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0158964
+      "cost_usd": 0.0198931
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0170276
+      "cost_usd": 0.0212017
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0181289
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0174442
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.018649699999999998
     }
   ]
 }

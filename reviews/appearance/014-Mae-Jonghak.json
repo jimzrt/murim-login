@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 14,
   "english": "Mae Jonghak",
   "profile": "characters/Mae Jonghak.md",
@@ -11,7 +12,11 @@
   "passages": [
     [
       141,
-      41
+      46
+    ],
+    [
+      141,
+      81
     ],
     [
       142,
@@ -27,11 +32,11 @@
     ],
     [
       148,
-      49
+      86
     ],
     [
-      155,
-      73
+      148,
+      41
     ],
     [
       172,
@@ -44,37 +49,298 @@
     [
       184,
       65
+    ],
+    [
+      197,
+      102
+    ],
+    [
+      200,
+      38
+    ],
+    [
+      252,
+      73
+    ],
+    [
+      252,
+      96
+    ],
+    [
+      264,
+      32
+    ],
+    [
+      266,
+      50
+    ],
+    [
+      266,
+      51
+    ],
+    [
+      269,
+      42
+    ],
+    [
+      269,
+      73
+    ],
+    [
+      269,
+      62
+    ],
+    [
+      269,
+      18
+    ],
+    [
+      336,
+      46
+    ],
+    [
+      336,
+      96
+    ],
+    [
+      355,
+      75
+    ],
+    [
+      520,
+      31
+    ],
+    [
+      520,
+      84
+    ],
+    [
+      520,
+      32
+    ],
+    [
+      521,
+      59
+    ],
+    [
+      522,
+      44
+    ],
+    [
+      522,
+      72
+    ],
+    [
+      525,
+      98
+    ],
+    [
+      525,
+      101
+    ],
+    [
+      547,
+      45
+    ],
+    [
+      548,
+      54
+    ],
+    [
+      548,
+      69
+    ],
+    [
+      551,
+      46
+    ],
+    [
+      551,
+      44
+    ],
+    [
+      950,
+      76
+    ],
+    [
+      950,
+      24
+    ],
+    [
+      950,
+      24
+    ],
+    [
+      950,
+      17
+    ],
+    [
+      989,
+      93
+    ],
+    [
+      989,
+      25
+    ],
+    [
+      1110,
+      70
+    ],
+    [
+      1128,
+      42
+    ],
+    [
+      1134,
+      122
+    ],
+    [
+      1137,
+      41
+    ],
+    [
+      1137,
+      77
+    ],
+    [
+      1137,
+      32
+    ],
+    [
+      1137,
+      47
+    ],
+    [
+      1139,
+      44
     ]
   ],
   "facts": [
     {
-      "attribute": "title",
-      "fact": "Known as the Sword Saint (검성)",
-      "chapter": 155,
-      "quote": "검성 매종학은 옥황상제 그 이상이었으니까"
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Returned to youth; appears as a young man around age 20 (약관)",
+      "chapter": 266,
+      "quote": "약관의 청년으로 돌아간 매종학을 의심하는 아무도 없었다."
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Appears very young after returning to youth (반로환동); youthful man",
+      "chapter": 269,
+      "quote": "허어, 저렇게 젊은 모습이라니. 반로환동은 황당무계한 헛소리인 줄만 알았거늘."
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Looks like a young man (청년)",
+      "chapter": 269,
+      "quote": "며칠 전만 해도 운 좋은 촌구석 무인 취급받던 청년의 정체가"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Smooth, clean-shaven chin",
+      "chapter": 269,
+      "quote": "매종학이 매끈한 턱을 쓰다듬었다."
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears as a young man (청년)",
+      "chapter": 520,
+      "quote": "청년, 검성(劍星) 매종학이"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Has been rejuvenated and looks younger than before",
+      "chapter": 525,
+      "quote": "검성 매종학의 젊어진 모습"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Clear, deep eyes",
+      "chapter": 548,
+      "quote": "맑고 깊은 눈동자에 내 얼굴이 비쳤다."
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Clear, blue gaze",
+      "chapter": 548,
+      "quote": "맑고도 푸른 눈빛으로 나를 응시했다."
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Plain, ordinary appearance that blends in anywhere",
+      "chapter": 989,
+      "quote": "당장 어디에서나 마주칠 수 있을 것처럼 평범한 용모와 분위기"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Eyes are clear to the point of transparency",
+      "chapter": 989,
+      "quote": "그의 눈동자는 투명하리만치 맑았다"
     }
   ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [
+  "ranges": [
     {
-      "index": 0,
-      "reason": "Title only (Sword Saint); no visual traits given."
+      "start": 140,
+      "description": "Mae Jonghak is a young man of about 20 with a smooth, clean-shaven chin and a plain, ordinary face that blends in anywhere. His eyes are clear and deep, blue and almost transparent in their clarity.",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     }
   ],
-  "line": "- **Appearance:** not described",
+  "lines": [
+    "- **Appearance (from ch 140):** Mae Jonghak is a young man of about 20 with a smooth, clean-shaven chin and a plain, ordinary face that blends in anywhere. His eyes are clear and deep, blue and almost transparent in their clarity."
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.017820899999999997
+      "cost_usd": 0.0180582
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.016853800000000002
+      "cost_usd": 0.0185982
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0161504
+      "cost_usd": 0.020561299999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0222962
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0222123
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0222446
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0163454
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.023291500000000003
     }
   ]
 }

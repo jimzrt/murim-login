@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 9,
   "english": "Skeleton King",
   "profile": "characters/Skeleton King.md",
@@ -10,47 +11,354 @@
   "safe_through": 1148,
   "passages": [
     [
+      426,
+      87
+    ],
+    [
       429,
-      21
+      33
+    ],
+    [
+      429,
+      54
+    ],
+    [
+      429,
+      57
     ],
     [
       430,
       31
     ],
     [
-      439,
-      30
+      431,
+      31
     ],
     [
-      439,
-      53
+      552,
+      51
     ],
     [
-      439,
+      558,
       40
     ],
     [
-      439,
-      43
+      559,
+      52
     ],
     [
-      439,
-      33
+      561,
+      69
+    ],
+    [
+      561,
+      32
+    ],
+    [
+      573,
+      79
+    ],
+    [
+      582,
+      56
+    ],
+    [
+      583,
+      65
+    ],
+    [
+      597,
+      58
+    ],
+    [
+      607,
+      47
+    ],
+    [
+      607,
+      62
+    ],
+    [
+      611,
+      82
+    ],
+    [
+      728,
+      46
+    ],
+    [
+      728,
+      138
+    ],
+    [
+      733,
+      85
+    ],
+    [
+      734,
+      19
+    ],
+    [
+      734,
+      46
+    ],
+    [
+      742,
+      76
+    ],
+    [
+      742,
+      60
+    ],
+    [
+      746,
+      60
+    ],
+    [
+      753,
+      45
+    ],
+    [
+      754,
+      57
+    ],
+    [
+      758,
+      46
+    ],
+    [
+      764,
+      98
+    ],
+    [
+      764,
+      46
+    ],
+    [
+      766,
+      66
+    ],
+    [
+      767,
+      49
+    ],
+    [
+      769,
+      121
+    ],
+    [
+      770,
+      99
+    ],
+    [
+      778,
+      63
+    ],
+    [
+      786,
+      75
+    ],
+    [
+      787,
+      50
+    ],
+    [
+      791,
+      37
+    ],
+    [
+      791,
+      38
+    ],
+    [
+      793,
+      93
+    ],
+    [
+      793,
+      104
+    ],
+    [
+      802,
+      35
+    ],
+    [
+      803,
+      87
+    ],
+    [
+      804,
+      124
+    ],
+    [
+      805,
+      39
+    ],
+    [
+      808,
+      117
+    ],
+    [
+      811,
+      88
+    ],
+    [
+      811,
+      111
+    ],
+    [
+      819,
+      64
+    ],
+    [
+      822,
+      56
+    ],
+    [
+      825,
+      98
+    ],
+    [
+      826,
+      42
+    ],
+    [
+      828,
+      70
+    ],
+    [
+      829,
+      44
+    ],
+    [
+      1147,
+      68
     ]
   ],
-  "facts": [],
+  "facts": [
+    {
+      "attribute": "hair",
+      "kind": "base",
+      "fact": "Blond hair; appears foreign (non-Korean)",
+      "chapter": 429,
+      "quote": "금발의 외국인, 스켈레톤 킹이 득의양양한 목소리로 대답했다."
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Golden eyes",
+      "chapter": 552,
+      "quote": "금빛 눈동자가 파르르 떨렸다."
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Golden eyes",
+      "chapter": 573,
+      "quote": "금빛 눈동자"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Has a strikingly handsome face (crafted by a creator to suit particular tastes)",
+      "chapter": 728,
+      "quote": "나는 스켈레톤 킹의 저 잘생긴 얼굴이, 어떤 사람의 손을 거쳐 탄생했는지 떠올렸다."
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Handsome face and body type tailored to specific tastes",
+      "chapter": 728,
+      "quote": "그냥 대충 봐도 잘생기긴 했지만, 그중에서도 특정 분야에 속한 이들의 니즈를 완벽히 충족시켜 주는 얼굴과 체형인 것이다."
+    },
+    {
+      "attribute": "head",
+      "kind": "base",
+      "fact": "Has a skull head, which he calls beautiful",
+      "chapter": 734,
+      "quote": "“두개골! 내 아름다운 두개골이!”"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Hands now look almost human",
+      "chapter": 770,
+      "quote": "인간이나 다름없는 자신의 두 손"
+    },
+    {
+      "attribute": "headwear",
+      "kind": "base",
+      "fact": "Wears a golden crown that radiates light",
+      "chapter": 786,
+      "quote": "황금빛 왕관"
+    },
+    {
+      "attribute": "body",
+      "kind": "base",
+      "fact": "Undead skeleton; commands headless undead ogres and undead soldiers (no explicit physical description of his own body)",
+      "chapter": 793,
+      "quote": "스켈레톤 킹의 손짓에 머리가 사라진 세 마리의 언데드 오우거가"
+    },
+    {
+      "attribute": "hair",
+      "kind": "base",
+      "fact": "Has golden (blond) hair",
+      "chapter": 828,
+      "quote": "흩날리는 금빛 머리카락"
+    }
+  ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [],
-  "line": "- **Appearance:** not described",
+  "ranges": [
+    {
+      "start": 425,
+      "description": "Skeleton King is a male undead with a skull head, wearing a radiant golden crown, and a strikingly handsome face and body type crafted to suit particular tastes. Blond golden hair, golden eyes, foreign (non-Korean) appearance. Tags: male, skeleton, skull head, golden crown, blond hair, golden eyes, handsome, foreign look, undead",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9
+      ]
+    }
+  ],
+  "lines": [
+    "- **Appearance (from ch 425):** Skeleton King is a male undead with a skull head, wearing a radiant golden crown, and a strikingly handsome face and body type crafted to suit particular tastes. Blond golden hair, golden eyes, foreign (non-Korean) appearance. Tags: male, skeleton, skull head, golden crown, blond hair, golden eyes, handsome, foreign look, undead"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0176262
+      "cost_usd": 0.019377000000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.015312200000000002
+      "cost_usd": 0.0225664
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0219554
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0190185
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.024596800000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0158043
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.023325000000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.020636500000000002
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 31,
   "english": "Song Ilseom",
   "profile": "characters/Song Ilseom.md",
@@ -11,6 +12,10 @@
   "passages": [
     [
       310,
+      43
+    ],
+    [
+      310,
       57
     ],
     [
@@ -18,16 +23,12 @@
       51
     ],
     [
-      310,
-      43
-    ],
-    [
       319,
       69
     ],
     [
       319,
-      40
+      110
     ],
     [
       321,
@@ -35,31 +36,7 @@
     ],
     [
       321,
-      53
-    ],
-    [
-      325,
-      67
-    ],
-    [
-      327,
-      33
-    ],
-    [
-      327,
-      50
-    ],
-    [
-      327,
-      41
-    ],
-    [
-      327,
-      44
-    ],
-    [
-      327,
-      39
+      73
     ],
     [
       328,
@@ -75,96 +52,250 @@
     ],
     [
       328,
-      30
+      79
+    ],
+    [
+      329,
+      58
     ],
     [
       329,
       36
+    ],
+    [
+      549,
+      85
+    ],
+    [
+      551,
+      31
+    ],
+    [
+      616,
+      62
+    ],
+    [
+      618,
+      49
+    ],
+    [
+      619,
+      78
+    ],
+    [
+      619,
+      48
+    ],
+    [
+      619,
+      102
+    ],
+    [
+      619,
+      32
+    ],
+    [
+      646,
+      59
+    ],
+    [
+      659,
+      67
+    ],
+    [
+      659,
+      43
+    ],
+    [
+      660,
+      49
+    ],
+    [
+      665,
+      128
+    ],
+    [
+      840,
+      146
+    ],
+    [
+      842,
+      50
+    ],
+    [
+      849,
+      45
+    ],
+    [
+      849,
+      12
+    ],
+    [
+      855,
+      94
+    ],
+    [
+      855,
+      14
+    ],
+    [
+      878,
+      40
+    ],
+    [
+      909,
+      40
+    ],
+    [
+      995,
+      42
+    ],
+    [
+      1005,
+      70
+    ],
+    [
+      1005,
+      52
+    ],
+    [
+      1005,
+      55
+    ],
+    [
+      1022,
+      70
+    ],
+    [
+      1056,
+      59
+    ],
+    [
+      1120,
+      95
+    ],
+    [
+      1128,
+      80
+    ],
+    [
+      1138,
+      63
+    ],
+    [
+      1184,
+      99
+    ],
+    [
+      1186,
+      80
     ]
   ],
   "facts": [
     {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Tall, handsome appearance",
+      "chapter": 310,
+      "quote": "훤칠하고 잘생긴 외모의 소유자였다"
+    },
+    {
       "attribute": "eyebrows",
+      "kind": "base",
       "fact": "Thick, fierce-looking eyebrows",
       "chapter": 310,
-      "quote": "사나워 보이는 그의 굵은 눈썹이"
+      "quote": "사나워 보이는 그의 굵은 눈썹이 위로 솟구쳤다"
     },
     {
-      "attribute": "face",
-      "fact": "Tall, handsome appearance, unlike the other two of the Yongbong Three Leopards",
-      "chapter": 310,
-      "quote": "송일섬은 용봉삼표의 다른 두 사람과는 달리 훤칠하고 잘생긴 외모의 소유자였다."
-    },
-    {
-      "attribute": "face",
-      "fact": "Has fierce, sharp-looking eyes",
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Fierce eyes",
       "chapter": 321,
       "quote": "사나운 눈매의 표사, 송일섬이었다."
     },
     {
       "attribute": "face",
-      "fact": "Has a cold, aloof impression",
-      "chapter": 325,
-      "quote": "냉막한 인상의 송일섬이"
+      "kind": "base",
+      "fact": "Has a dark, gloomy-looking face",
+      "chapter": 619,
+      "quote": "저 컴컴하게 생긴 자는 제법 익숙한 얼굴인데"
     },
     {
-      "attribute": "eyebrows",
-      "fact": "fierce-looking eyebrows",
-      "chapter": 327,
-      "quote": "사나워 보이는 눈썹"
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Middle-aged",
+      "chapter": 646,
+      "quote": "중년의 나이에, 선장을 사용한다고?"
     },
     {
-      "attribute": "face",
-      "fact": "stern, blunt expression",
-      "chapter": 327,
-      "quote": "무뚝뚝한 얼굴로 중얼거렸다"
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Young, has reached an excellent martial level at a young age",
+      "chapter": 840,
+      "quote": "젊은 나이에 뛰어난 경지에 다다른 송일섬"
     },
     {
-      "attribute": "eyebrows",
-      "fact": "Has noticeable eyebrows he can raise sharply (eyebrows described as raised)",
-      "chapter": 328,
-      "quote": "그는 그 사실이 마음에 들지 않는 듯 눈썹을 치켜떴다."
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Young man (청년)",
+      "chapter": 878,
+      "quote": "삭막한 인상의 청년"
+    },
+    {
+      "attribute": "weapon",
+      "kind": "base",
+      "fact": "Carries a sword",
+      "chapter": 1022,
+      "quote": "검파에 손을 얹고 있던 혁무진과 송일섬"
     }
   ],
   "dropped_facts": [],
-  "used": [
-    0,
-    1,
-    2,
-    3,
-    5
-  ],
-  "excluded": [
+  "ranges": [
     {
-      "index": 4,
-      "reason": "Duplicate of fact 0 (fierce-looking eyebrows); earliest wording kept"
-    },
-    {
-      "index": 6,
-      "reason": "Describes a momentary action (raising eyebrows), not a fixed appearance trait"
+      "start": 310,
+      "description": "Song Ilseom is a tall, handsome young man with a dark, gloomy, bleak-looking face. He has thick, fierce eyebrows and sharp, fierce eyes. He carries a sword and often rests a hand on its hilt.",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7
+      ]
     }
   ],
-  "line": "- **Appearance (as of ch 327):** Song Ilseom is tall and handsome, with thick, fierce-looking eyebrows and sharp, fierce eyes. His face has a cold, stern, aloof look.",
+  "lines": [
+    "- **Appearance (from ch 310):** Song Ilseom is a tall, handsome young man with a dark, gloomy, bleak-looking face. He has thick, fierce eyebrows and sharp, fierce eyes. He carries a sword and often rests a hand on its hilt."
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.018227300000000002
+      "cost_usd": 0.020278
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0176018
+      "cost_usd": 0.0202255
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017533800000000002
+      "cost_usd": 0.019776500000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0171885
+      "cost_usd": 0.0193603
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0187633
+      "cost_usd": 0.022101299999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0177362
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.018187
     }
   ]
 }

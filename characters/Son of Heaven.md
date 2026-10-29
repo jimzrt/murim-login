@@ -7,5 +7,5 @@
 - **Personality:** Strategic and imperious, the Son of Heaven has learned to value compassion for his people and will risk himself to protect them.
 - **Voice:** Calm and commanding, with dry, understated humor.
 - **Relationships:** Zhu Bao is his younger brother and heir; Jin Taekyung gave him the White Illusion Jiangshi Art; he killed Ma Sanbao.
-- **Appearance:** not described
+- **Appearance (from ch 72):** Son of Heaven is a male who is young in years but looks old and haggard, with a sickly, gaunt-looking face. His skin is pale, with a complexion like white paper. Tags: male, haggard, looks old, sickly face, pale skin, white-paper complexion
 - **Sources:** Korean source and accepted translation, Chapter 1135

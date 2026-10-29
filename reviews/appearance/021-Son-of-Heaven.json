@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 21,
   "english": "Son of Heaven",
   "profile": "characters/Son of Heaven.md",
@@ -8,11 +9,154 @@
   "chapter_count": 92,
   "first_chapter": 72,
   "safe_through": 1185,
-  "passages": [],
-  "facts": [],
+  "passages": [
+    [
+      847,
+      22
+    ],
+    [
+      865,
+      59
+    ],
+    [
+      867,
+      57
+    ],
+    [
+      867,
+      53
+    ],
+    [
+      870,
+      106
+    ],
+    [
+      883,
+      55
+    ],
+    [
+      924,
+      74
+    ],
+    [
+      1021,
+      41
+    ],
+    [
+      1046,
+      158
+    ],
+    [
+      1046,
+      75
+    ],
+    [
+      1083,
+      67
+    ],
+    [
+      1083,
+      74
+    ],
+    [
+      1083,
+      74
+    ],
+    [
+      1083,
+      86
+    ],
+    [
+      1135,
+      52
+    ],
+    [
+      1135,
+      51
+    ],
+    [
+      1135,
+      45
+    ],
+    [
+      1135,
+      39
+    ],
+    [
+      1139,
+      113
+    ],
+    [
+      1139,
+      48
+    ],
+    [
+      1182,
+      76
+    ]
+  ],
+  "facts": [
+    {
+      "attribute": "skin",
+      "kind": "base",
+      "fact": "Has pale skin",
+      "chapter": 1135,
+      "quote": "천자의 저 창백한 피부 속에는"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Sickly, pale face",
+      "chapter": 1135,
+      "quote": "병색이 완연한 창백한 얼굴을 한 천자를"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Young in years but looks old and haggard",
+      "chapter": 1139,
+      "quote": "젊은 나이가 믿어지지 않는 늙수그레한 용모"
+    },
+    {
+      "attribute": "skin",
+      "kind": "base",
+      "fact": "Complexion pale as white paper",
+      "chapter": 1139,
+      "quote": "백지장처럼 파리한 안색"
+    }
+  ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [],
-  "line": "- **Appearance:** not described",
-  "calls": []
+  "ranges": [
+    {
+      "start": 72,
+      "description": "Son of Heaven is a male who is young in years but looks old and haggard, with a sickly, gaunt-looking face. His skin is pale, with a complexion like white paper. Tags: male, haggard, looks old, sickly face, pale skin, white-paper complexion",
+      "used": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "lines": [
+    "- **Appearance (from ch 72):** Son of Heaven is a male who is young in years but looks old and haggard, with a sickly, gaunt-looking face. His skin is pale, with a complexion like white paper. Tags: male, haggard, looks old, sickly face, pale skin, white-paper complexion"
+  ],
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0194825
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0181825
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.019438499999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0140639
+    }
+  ]
 }

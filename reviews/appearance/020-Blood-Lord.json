@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 20,
   "english": "Blood Lord",
   "profile": "characters/Blood Lord.md",
@@ -9,6 +10,10 @@
   "first_chapter": 262,
   "safe_through": 1025,
   "passages": [
+    [
+      263,
+      48
+    ],
     [
       263,
       35
@@ -26,154 +31,164 @@
       17
     ],
     [
-      263,
-      34
-    ],
-    [
-      263,
-      19
-    ],
-    [
-      264,
-      31
-    ],
-    [
-      264,
-      73
-    ],
-    [
-      264,
-      26
-    ],
-    [
-      264,
-      66
-    ],
-    [
-      264,
-      37
-    ],
-    [
-      264,
-      44
-    ],
-    [
-      265,
-      27
-    ],
-    [
-      265,
-      48
-    ],
-    [
-      265,
-      32
-    ],
-    [
-      265,
-      19
-    ],
-    [
       266,
       26
     ],
     [
       266,
-      14
+      22
+    ],
+    [
+      267,
+      45
+    ],
+    [
+      267,
+      56
+    ],
+    [
+      269,
+      29
+    ],
+    [
+      355,
+      60
+    ],
+    [
+      357,
+      33
+    ],
+    [
+      358,
+      90
+    ],
+    [
+      358,
+      81
+    ],
+    [
+      362,
+      116
+    ],
+    [
+      485,
+      78
+    ],
+    [
+      486,
+      79
+    ],
+    [
+      614,
+      38
+    ],
+    [
+      703,
+      68
+    ],
+    [
+      703,
+      78
+    ],
+    [
+      844,
+      35
+    ],
+    [
+      844,
+      56
+    ],
+    [
+      844,
+      74
+    ],
+    [
+      844,
+      29
+    ],
+    [
+      844,
+      80
+    ],
+    [
+      986,
+      42
     ]
   ],
   "facts": [
     {
       "attribute": "age",
-      "fact": "Appears to be a young man",
+      "kind": "base",
+      "fact": "Appears to be a young man, young enough to be a grandson of an old man",
       "chapter": 263,
-      "quote": "어쨌건 청년, 혈주라 불린 그의 대답에 한수의 표정이 밝아졌다."
+      "quote": "최소 손자뻘은 될 법한 청년에게 설설 기는 노인이라니."
     },
     {
       "attribute": "hair",
-      "fact": "Hair is long enough to fall down and be swept upward",
+      "kind": "base",
+      "fact": "Has long enough hair that strands fall down and can be swept upward",
       "chapter": 263,
-      "quote": "흘러내린 머리카락을 위로 쓸어올렸다"
+      "quote": "흘러내린 머리카락을 위로 쓸어올렸다."
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears as a young man",
+      "chapter": 614,
+      "quote": "청년, 혈주의 눈동자가"
     },
     {
       "attribute": "eyes",
-      "fact": "Eyes flare with red light; sclera turns blood-red when his power surges",
-      "chapter": 264,
-      "quote": "혈주의 눈동자에 붉은 광망이 솟구쳤다."
+      "kind": "base",
+      "fact": "Eyes hold a faint blood-red glow",
+      "chapter": 844,
+      "quote": "은은한 혈광(血光)이 서린 눈으로"
     },
     {
       "attribute": "eyes",
-      "fact": "Sclera dyed blood-red during power surge",
-      "chapter": 264,
-      "quote": "핏빛으로 물든 흰자위와 불길하기 짝이 없는 거대한 기운이 그를 중심으로 뻗어 나갔다."
-    },
-    {
-      "attribute": "eyes",
-      "fact": "Eyes crescent-shaped (curved like half-moons) when smiling",
-      "chapter": 265,
-      "quote": "혈주의 눈매가 반달처럼 휘었다."
-    },
-    {
-      "attribute": "face",
-      "fact": "Face is fierce and grim-looking (contorted into a menacing expression)",
-      "chapter": 265,
-      "quote": "혈주의 얼굴이 험악하게 일그러졌다."
-    },
-    {
-      "attribute": "eyes",
-      "fact": "Has narrow-set eyes that can narrow to slits",
-      "chapter": 266,
-      "quote": "혈주의 눈매가 가늘어졌다."
+      "kind": "base",
+      "fact": "Eyes shimmer with blood-red light",
+      "chapter": 844,
+      "quote": "두 눈동자에는 어느덧 핏빛 광망이 일렁이고 있었다"
     }
   ],
   "dropped_facts": [],
-  "used": [
-    0,
-    1
-  ],
-  "excluded": [
+  "ranges": [
     {
-      "index": 2,
-      "reason": "Eyes flaring red is a temporary power-surge effect, not his base look"
-    },
-    {
-      "index": 3,
-      "reason": "Blood-red sclera appears only during a power surge, so it is a temporary change"
-    },
-    {
-      "index": 4,
-      "reason": "Crescent-shaped eyes are a smiling expression, not a fixed trait"
-    },
-    {
-      "index": 5,
-      "reason": "A menacing contorted face is a momentary expression, not a fixed trait"
-    },
-    {
-      "index": 6,
-      "reason": "Narrowed eyes are a momentary expression. The 'narrow-set' reading is a mistranslation, since the quote says the eyes narrowed"
+      "start": 262,
+      "description": "Blood Lord is a young man, youthful enough to pass for a grandson of an old man. He has long hair whose strands fall loose and can be swept upward, and his eyes carry a faint blood-red glow that shimmers with crimson light. Tags: male, young man, long hair, loose strands, blood-red eyes, glowing eyes, crimson light",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ],
-  "line": "- **Appearance (as of ch 263):** The Blood Lord appears to be a young man. His hair is long enough to fall loose and be swept upward. Tags: young man, loose hair, swept-back hair",
+  "lines": [
+    "- **Appearance (from ch 262):** Blood Lord is a young man, youthful enough to pass for a grandson of an old man. He has long hair whose strands fall loose and can be swept upward, and his eyes carry a faint blood-red glow that shimmers with crimson light. Tags: male, young man, long hair, loose strands, blood-red eyes, glowing eyes, crimson light"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0176549
+      "cost_usd": 0.018574200000000003
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0182958
+      "cost_usd": 0.019376899999999996
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0166662
+      "cost_usd": 0.023553499999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0169877
+      "cost_usd": 0.0176376
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.026199199999999995
+      "cost_usd": 0.0192153
     }
   ]
 }

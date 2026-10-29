@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 28,
   "english": "Southern Heaven Demon Empress",
   "profile": "characters/Southern Heaven Demon Empress.md",
@@ -11,6 +12,10 @@
   "passages": [
     [
       483,
+      44
+    ],
+    [
+      483,
       47
     ],
     [
@@ -19,11 +24,11 @@
     ],
     [
       483,
-      21
+      78
     ],
     [
       548,
-      67
+      81
     ],
     [
       619,
@@ -34,44 +39,88 @@
       62
     ],
     [
-      619,
-      44
+      636,
+      56
     ],
     [
-      619,
-      25
+      674,
+      42
     ],
     [
-      630,
-      54
+      674,
+      109
+    ],
+    [
+      674,
+      69
+    ],
+    [
+      674,
+      50
+    ],
+    [
+      674,
+      66
+    ],
+    [
+      674,
+      51
     ],
     [
       678,
+      103
+    ],
+    [
+      688,
+      70
+    ],
+    [
+      697,
       50
     ],
     [
       697,
-      35
+      74
     ],
     [
       697,
-      50
+      29
+    ],
+    [
+      697,
+      46
+    ],
+    [
+      697,
+      48
+    ],
+    [
+      698,
+      55
+    ],
+    [
+      701,
+      18
     ],
     [
       702,
       88
     ],
     [
-      703,
-      59
+      702,
+      49
     ],
     [
       703,
-      46
+      104
     ],
     [
       704,
-      57
+      93
+    ],
+    [
+      705,
+      41
     ],
     [
       705,
@@ -79,76 +128,142 @@
     ],
     [
       708,
+      79
+    ],
+    [
+      708,
       58
+    ],
+    [
+      708,
+      77
+    ],
+    [
+      708,
+      81
+    ],
+    [
+      709,
+      72
+    ],
+    [
+      709,
+      43
+    ],
+    [
+      710,
+      53
+    ],
+    [
+      781,
+      93
+    ],
+    [
+      888,
+      82
+    ],
+    [
+      977,
+      134
     ]
   ],
   "facts": [
     {
       "attribute": "face",
-      "fact": "Strikingly beautiful appearance, like a painting",
-      "chapter": 483,
-      "quote": "그 자체로 한 폭의 그림이나 다름없었다"
-    },
-    {
-      "attribute": "face",
-      "fact": "Possesses a gorgeous, flashy appearance",
+      "kind": "base",
+      "fact": "Has a striking, gorgeous appearance",
       "chapter": 619,
       "quote": "남천마후는 화려한 외모의 소유자"
     },
     {
-      "attribute": "face",
-      "fact": "Her presence and looks are bewitchingly alluring, a captivating charm that draws people in.",
-      "chapter": 630,
-      "quote": "남천마후는 그 자체로 사람을 현혹하는 마력(魔力)을 지녔다."
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Cat-like eyes (upturned, feline shape)",
+      "chapter": 697,
+      "quote": "지상을 굽어보던 고양이 같은 눈매가 반달처럼 휘었다."
     },
     {
-      "attribute": "build",
-      "fact": "She is described as having a beautiful body.",
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Extremely beautiful woman",
+      "chapter": 697,
+      "quote": "그곳에는 괴물이라 칭하기에는 너무나도 아름다운 여인이 흐트러진 궁장을 정돈하고 있었다."
+    },
+    {
+      "attribute": "clothing",
+      "kind": "base",
+      "fact": "Wears a gungjang (court dress)",
+      "chapter": 697,
+      "quote": "흐트러진 궁장을 정돈하고 있었다."
+    },
+    {
+      "attribute": "hair",
+      "kind": "change",
+      "fact": "Hair was cut short by an opponent (lasting loss of hair length)",
       "chapter": 702,
-      "quote": "자신의 아름다운 몸에 상처를 입힌"
+      "quote": "귀중한 머리카락마저 자른 저 어린놈에게"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Has a beautiful face",
+      "chapter": 702,
+      "quote": "남천마후의 아름다운 얼굴"
     }
   ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [
+  "ranges": [
     {
-      "index": 0,
-      "reason": "Vague beauty praise only. No concrete visual trait such as hair, eyes, age or colour."
+      "start": 482,
+      "description": "Southern Heaven Demon Empress is an extremely beautiful, strikingly gorgeous woman with a beautiful face and upturned, cat-like eyes. She wears a gungjang (court dress). Tags: female, gorgeous, beautiful face, cat-like eyes, upturned eyes, gungjang, court dress",
+      "used": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
-      "index": 1,
-      "reason": "'Gorgeous, flashy' is a generic impression. It gives no specific clothing, colour or feature."
-    },
-    {
-      "index": 2,
-      "reason": "Describes charm and presence, not a visual trait."
-    },
-    {
-      "index": 3,
-      "reason": "'Beautiful body' is generic. It gives no build, height or other specifics."
+      "start": 702,
+      "description": "Southern Heaven Demon Empress is an extremely beautiful, strikingly gorgeous woman with a beautiful face and upturned, cat-like eyes. Her hair has been cut short, noticeably shorter than before. She wears a gungjang (court dress). Tags: female, gorgeous, beautiful face, cat-like eyes, upturned eyes, short cut hair, gungjang, court dress",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     }
   ],
-  "line": "- **Appearance:** not described",
+  "lines": [
+    "- **Appearance (ch 482–701):** Southern Heaven Demon Empress is an extremely beautiful, strikingly gorgeous woman with a beautiful face and upturned, cat-like eyes. She wears a gungjang (court dress). Tags: female, gorgeous, beautiful face, cat-like eyes, upturned eyes, gungjang, court dress",
+    "- **Appearance (from ch 702):** Southern Heaven Demon Empress is an extremely beautiful, strikingly gorgeous woman with a beautiful face and upturned, cat-like eyes. Her hair has been cut short, noticeably shorter than before. She wears a gungjang (court dress). Tags: female, gorgeous, beautiful face, cat-like eyes, upturned eyes, short cut hair, gungjang, court dress"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0194982
+      "cost_usd": 0.0157972
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019033900000000003
+      "cost_usd": 0.019013300000000004
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0218595
+      "cost_usd": 0.0214342
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.011699099999999999
+      "cost_usd": 0.0221453
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0194419
+      "cost_usd": 0.0200501
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0210699
     }
   ]
 }

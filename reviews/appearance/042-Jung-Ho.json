@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 42,
   "english": "Jung Ho",
   "profile": "characters/Jung Ho.md",
@@ -11,7 +12,19 @@
   "passages": [
     [
       454,
-      56
+      67
+    ],
+    [
+      457,
+      108
+    ],
+    [
+      457,
+      39
+    ],
+    [
+      457,
+      48
     ],
     [
       457,
@@ -19,23 +32,27 @@
     ],
     [
       458,
-      127
+      175
     ],
     [
-      459,
-      51
-    ],
-    [
-      460,
-      42
+      458,
+      15
     ],
     [
       460,
-      35
+      82
+    ],
+    [
+      469,
+      59
+    ],
+    [
+      469,
+      39
     ],
     [
       478,
-      46
+      101
     ],
     [
       478,
@@ -43,7 +60,7 @@
     ],
     [
       478,
-      61
+      103
     ],
     [
       478,
@@ -62,60 +79,108 @@
       42
     ],
     [
-      480,
-      40
+      489,
+      64
     ],
     [
-      480,
-      88
+      491,
+      136
     ],
     [
-      480,
-      105
+      514,
+      24
     ],
     [
-      480,
-      81
+      514,
+      24
     ],
     [
-      480,
-      114
+      514,
+      38
+    ],
+    [
+      514,
+      14
+    ],
+    [
+      515,
+      33
+    ],
+    [
+      515,
+      69
+    ],
+    [
+      515,
+      30
+    ],
+    [
+      515,
+      62
+    ],
+    [
+      516,
+      91
+    ],
+    [
+      516,
+      68
+    ],
+    [
+      672,
+      79
     ]
   ],
   "facts": [
     {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Middle-aged monk",
+      "chapter": 514,
+      "quote": "중년 승려, 정호의 굵은 눈썹이 꿈틀거렸다."
+    },
+    {
       "attribute": "hair",
-      "fact": "Hair neatly groomed, fixed with a single beautiful silver hairpin",
-      "chapter": 460,
-      "quote": "말끔하게 정돈된 머리카락과 그것을 고정한 아름다운 은비녀 하나."
+      "kind": "base",
+      "fact": "Shaolin monk with a bald head; his forehead shines in the sunlight",
+      "chapter": 516,
+      "quote": "햇빛이 정호의 이마를 받아 번쩍거리고"
     }
   ],
   "dropped_facts": [],
-  "used": [
-    0
+  "ranges": [
+    {
+      "start": 446,
+      "description": "Jung Ho is a middle-aged Shaolin monk with a clean-shaven bald head whose forehead shines in the sunlight. He has thick, heavy eyebrows. Tags: middle-aged, male, monk, Shaolin, bald, shiny forehead, thick eyebrows",
+      "used": [
+        0,
+        1
+      ]
+    }
   ],
-  "excluded": [],
-  "line": "- **Appearance (as of ch 460):** Jung Ho has neatly groomed hair held in place by a single beautiful silver hairpin. Tags: neatly groomed hair, silver hairpin",
+  "lines": [
+    "- **Appearance (from ch 446):** Jung Ho is a middle-aged Shaolin monk with a clean-shaven bald head whose forehead shines in the sunlight. He has thick, heavy eyebrows. Tags: middle-aged, male, monk, Shaolin, bald, shiny forehead, thick eyebrows"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0175434
+      "cost_usd": 0.020693
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018989
+      "cost_usd": 0.020326
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018937900000000004
+      "cost_usd": 0.020432600000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.016228199999999998
+      "cost_usd": 0.0226397
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.016444
+      "cost_usd": 0.0138572
     }
   ]
 }

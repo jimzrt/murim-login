@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 48,
   "english": "Jeong Hogun",
   "profile": "characters/Jeong Hogun.md",
@@ -26,6 +27,10 @@
       37
     ],
     [
+      864,
+      33
+    ],
+    [
       869,
       44
     ],
@@ -35,35 +40,11 @@
     ],
     [
       869,
-      45
+      114
     ],
     [
       869,
-      74
-    ],
-    [
-      869,
-      66
-    ],
-    [
-      870,
-      60
-    ],
-    [
-      870,
-      34
-    ],
-    [
-      870,
-      47
-    ],
-    [
-      870,
-      31
-    ],
-    [
-      871,
-      76
+      111
     ],
     [
       880,
@@ -71,54 +52,166 @@
     ],
     [
       880,
-      19
+      33
     ],
     [
       883,
       50
     ],
     [
+      884,
+      142
+    ],
+    [
+      884,
+      21
+    ],
+    [
+      884,
+      26
+    ],
+    [
       890,
-      113
+      194
+    ],
+    [
+      915,
+      128
+    ],
+    [
+      929,
+      52
+    ],
+    [
+      933,
+      105
+    ],
+    [
+      933,
+      50
+    ],
+    [
+      941,
+      55
+    ],
+    [
+      983,
+      14
+    ],
+    [
+      983,
+      74
+    ],
+    [
+      983,
+      35
+    ],
+    [
+      983,
+      72
+    ],
+    [
+      983,
+      87
+    ],
+    [
+      983,
+      45
+    ],
+    [
+      983,
+      91
+    ],
+    [
+      1067,
+      41
+    ],
+    [
+      1067,
+      94
+    ],
+    [
+      1067,
+      24
+    ],
+    [
+      1069,
+      52
+    ],
+    [
+      1070,
+      34
+    ],
+    [
+      1074,
+      67
+    ],
+    [
+      1074,
+      82
     ]
   ],
   "facts": [
     {
       "attribute": "clothing",
-      "fact": "Wears dazzling golden brocade robes (geumui) and armor, as an Imperial Guard (Geumuiwi) commander.",
+      "kind": "base",
+      "fact": "Wears splendid brocade imperial robes and armor as leader of the Imperial Guard (Geumuiwi)",
       "chapter": 861,
       "quote": "그 이름에 어울리는 눈부신 금의(錦衣)와 갑옷을 걸쳤고"
+    },
+    {
+      "attribute": "age/build",
+      "kind": "base",
+      "fact": "Face looks about twenty (early adult) — tentative",
+      "chapter": 983,
+      "quote": "이제 겨우 약관이나 되었을 법한 용모의 청년이었다"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Eyes are deeply sunken/calm (not a lasting trait)",
+      "chapter": 1067,
+      "quote": "정호군의 눈동자가 깊게 가라앉았다"
     }
   ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [
+  "ranges": [
     {
-      "index": 0,
-      "reason": "Clothing only (golden brocade robes and armor); no apparent age, build, hair, face or colour traits beyond it, so fewer than two distinct visual traits."
+      "start": 858,
+      "description": "Jeong Hogun is a young man whose face looks about twenty, early adult. He wears splendid brocade imperial robes with armor as leader of the Imperial Guard (Geumuiwi). Tags: male, early twenties look, youthful face, brocade imperial robes, armor, Imperial Guard, Geumuiwi",
+      "used": [
+        0,
+        1
+      ]
     }
   ],
-  "line": "- **Appearance:** not described",
+  "lines": [
+    "- **Appearance (from ch 858):** Jeong Hogun is a young man whose face looks about twenty, early adult. He wears splendid brocade imperial robes with armor as leader of the Imperial Guard (Geumuiwi). Tags: male, early twenties look, youthful face, brocade imperial robes, armor, Imperial Guard, Geumuiwi"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.019750300000000002
+      "cost_usd": 0.019274799999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.013652899999999999
+      "cost_usd": 0.018827200000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0145062
+      "cost_usd": 0.021487
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.016954399999999998
+      "cost_usd": 0.0195033
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.016693100000000002
+      "cost_usd": 0.0162642
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0191993
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 29,
   "english": "Butler Kim",
   "profile": "characters/Butler Kim.md",
@@ -10,12 +11,24 @@
   "safe_through": 553,
   "passages": [
     [
+      51,
+      71
+    ],
+    [
       78,
       65
     ],
     [
       80,
       86
+    ],
+    [
+      80,
+      28
+    ],
+    [
+      80,
+      54
     ],
     [
       83,
@@ -27,34 +40,184 @@
     ],
     [
       90,
-      20
+      58
+    ],
+    [
+      209,
+      44
+    ],
+    [
+      209,
+      85
+    ],
+    [
+      214,
+      77
+    ],
+    [
+      220,
+      25
+    ],
+    [
+      220,
+      34
+    ],
+    [
+      223,
+      30
+    ],
+    [
+      224,
+      33
+    ],
+    [
+      225,
+      51
+    ],
+    [
+      226,
+      53
+    ],
+    [
+      226,
+      82
+    ],
+    [
+      274,
+      30
+    ],
+    [
+      274,
+      99
+    ],
+    [
+      274,
+      35
+    ],
+    [
+      286,
+      81
+    ],
+    [
+      286,
+      63
+    ],
+    [
+      287,
+      55
+    ],
+    [
+      287,
+      142
+    ],
+    [
+      292,
+      42
+    ],
+    [
+      292,
+      53
+    ],
+    [
+      297,
+      66
+    ],
+    [
+      299,
+      62
+    ],
+    [
+      300,
+      53
+    ],
+    [
+      304,
+      74
+    ],
+    [
+      420,
+      51
+    ],
+    [
+      553,
+      69
     ]
   ],
   "facts": [
     {
-      "attribute": "clothing",
-      "fact": "Wears very casual, light clothing for a mage, with no light armor or protective staff",
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Has a sturdy, solid physique",
       "chapter": 80,
-      "quote": "저 정도로 간편한 복장의 마법사는 흔치 않다"
+      "quote": "제법 다부진 체격이다."
+    },
+    {
+      "attribute": "clothing",
+      "kind": "base",
+      "fact": "Wears a suit; light, simple attire for a mage, with bracelets on both wrists and a necklace (magical items)",
+      "chapter": 80,
+      "quote": "말과 함께 정장 단추를 푸니 양 손목의 팔찌와 목걸이가 드러났다."
+    },
+    {
+      "attribute": "facial hair",
+      "kind": "base",
+      "fact": "Has a well-grown, stylish beard",
+      "chapter": 223,
+      "quote": "김 집사가 멋들어지게 자란 수염을 쓰다듬으며 대답했다."
+    },
+    {
+      "attribute": "facial hair",
+      "kind": "base",
+      "fact": "Has a well-groomed beard on the chin",
+      "chapter": 274,
+      "quote": "김 집사가 잘 손질된 턱수염을 쓰다듬으며 말을 이었다."
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Elderly man, described as old",
+      "chapter": 420,
+      "quote": "나이든 김 집사만이 속을 터놓을 수 있는 유일한 상대였다."
     }
   ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [
+  "ranges": [
     {
-      "index": 0,
-      "reason": "Only one clothing trait (casual, light attire), with no age, build, hair, face or colour traits to carry it. The 'no armor or staff' part is an absence, not a visual detail."
+      "start": 51,
+      "description": "Butler Kim is a male with a sturdy, solid physique. He wears a suit, light and simple attire for a mage, with bracelets on both wrists and a necklace. Tags: male, sturdy build, solid physique, suit, bracelets on both wrists, necklace, magical accessories",
+      "used": [
+        0,
+        1
+      ]
     }
   ],
-  "line": "- **Appearance:** not described",
+  "lines": [
+    "- **Appearance (from ch 51):** Butler Kim is a male with a sturdy, solid physique. He wears a suit, light and simple attire for a mage, with bracelets on both wrists and a necklace. Tags: male, sturdy build, solid physique, suit, bracelets on both wrists, necklace, magical accessories"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0194283
+      "cost_usd": 0.0196565
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0172563
+      "cost_usd": 0.018595599999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.018702200000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0188262
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0156642
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.021248299999999998
     }
   ]
 }

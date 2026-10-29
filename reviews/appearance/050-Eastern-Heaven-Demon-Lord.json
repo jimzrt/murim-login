@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 50,
   "english": "Eastern Heaven Demon Lord",
   "profile": "characters/Eastern Heaven Demon Lord.md",
@@ -15,6 +16,10 @@
     ],
     [
       911,
+      93
+    ],
+    [
+      911,
       34
     ],
     [
@@ -27,19 +32,11 @@
     ],
     [
       913,
-      50
+      79
     ],
     [
       913,
-      20
-    ],
-    [
-      914,
-      60
-    ],
-    [
-      914,
-      24
+      83
     ],
     [
       914,
@@ -47,107 +44,170 @@
     ],
     [
       914,
-      36
-    ],
-    [
-      914,
-      36
-    ],
-    [
-      916,
       60
     ],
     [
-      917,
-      59
+      914,
+      53
+    ],
+    [
+      915,
+      30
     ],
     [
       917,
-      86
+      78
     ],
     [
       917,
-      31
+      153
+    ],
+    [
+      917,
+      34
+    ],
+    [
+      917,
+      50
+    ],
+    [
+      917,
+      22
     ],
     [
       918,
       74
     ],
     [
+      918,
+      53
+    ],
+    [
       922,
       87
     ],
     [
+      923,
+      44
+    ],
+    [
+      923,
+      57
+    ],
+    [
+      923,
+      79
+    ],
+    [
+      923,
+      23
+    ],
+    [
+      924,
+      121
+    ],
+    [
+      924,
+      99
+    ],
+    [
       931,
       118
+    ],
+    [
+      931,
+      37
+    ],
+    [
+      977,
+      134
     ]
   ],
   "facts": [
     {
-      "attribute": "skin",
-      "fact": "Pale skin, appears elderly",
+      "attribute": "age/skin",
+      "kind": "base",
+      "fact": "Elderly man with pale skin",
       "chapter": 910,
-      "quote": "창백한 피부의 노인, 동천마군"
+      "quote": "창백한 피부의 노인"
+    },
+    {
+      "attribute": "beard",
+      "kind": "base",
+      "fact": "Immaculate white beard like an immortal's",
+      "chapter": 911,
+      "quote": "신선처럼 새하얗던 수염"
     },
     {
       "attribute": "eyes",
+      "kind": "base",
       "fact": "Gray eyes",
       "chapter": 911,
-      "quote": "동천마군의 회색빛 눈동자"
+      "quote": "동천마군의 회색빛 눈동자를"
     },
     {
       "attribute": "eyes",
-      "fact": "Gray eyes",
-      "chapter": 913,
-      "quote": "느슨하게 움직인 회색빛 눈동자"
-    },
-    {
-      "attribute": "eyes",
+      "kind": "base",
       "fact": "Cold gray eyes",
-      "chapter": 914,
-      "quote": "차가운 회색빛 눈동자로"
+      "chapter": 915,
+      "quote": "차가운 회색빛 눈동자"
     },
     {
-      "attribute": "eyes",
-      "fact": "His eyes shimmer like cold flames.",
-      "chapter": 922,
-      "quote": "동천마군의 두 눈동자는, 차가운 불꽃으로 일렁이고 있었다"
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Turned himself into a jiangshi (reanimated corpse) using his sect's forbidden art after an unhealed injury",
+      "chapter": 924,
+      "quote": "사문의 금지된 대법(大法)을 펼쳐 스스로를 강시로 만들었고"
     }
   ],
   "dropped_facts": [],
-  "used": [
-    0,
-    1,
-    2,
-    3
-  ],
-  "excluded": [
+  "ranges": [
     {
-      "index": 4,
-      "reason": "Flame-like shimmer in the eyes is a later, figurative or power effect that conflicts with the earliest-established plain gray eyes; dropped."
+      "start": 714,
+      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin, cold gray eyes and an immaculate white beard like an immortal's. Tags: male, elderly, pale skin, white beard, gray eyes, cold gaze",
+      "used": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "start": 924,
+      "description": "Eastern Heaven Demon Lord is a male jiangshi (reanimated corpse), formerly an elderly man, with pale skin, cold gray eyes and an immaculate white beard like an immortal's. Tags: male, jiangshi, reanimated corpse, undead, pale skin, white beard, gray eyes, cold gaze",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ],
-  "line": "- **Appearance (as of ch 914):** The Eastern Heaven Demon Lord is an elderly man with pale skin. He has cold gray eyes. Tags: elderly man, pale skin, gray eyes, cold gaze",
+  "lines": [
+    "- **Appearance (ch 714–923):** Eastern Heaven Demon Lord is an elderly man with pale skin, cold gray eyes and an immaculate white beard like an immortal's. Tags: male, elderly, pale skin, white beard, gray eyes, cold gaze",
+    "- **Appearance (from ch 924):** Eastern Heaven Demon Lord is a male jiangshi (reanimated corpse), formerly an elderly man, with pale skin, cold gray eyes and an immaculate white beard like an immortal's. Tags: male, jiangshi, reanimated corpse, undead, pale skin, white beard, gray eyes, cold gaze"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.018284
+      "cost_usd": 0.0202125
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0184544
+      "cost_usd": 0.020418
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0156141
+      "cost_usd": 0.0152263
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020602299999999997
+      "cost_usd": 0.0200629
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0210419
+      "cost_usd": 0.0202547
     }
   ]
 }

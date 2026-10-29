@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 26,
   "english": "Namho",
   "profile": "characters/Namho.md",
@@ -11,7 +12,7 @@
   "passages": [
     [
       620,
-      88
+      109
     ],
     [
       620,
@@ -23,7 +24,7 @@
     ],
     [
       620,
-      65
+      82
     ],
     [
       621,
@@ -31,31 +32,7 @@
     ],
     [
       621,
-      65
-    ],
-    [
-      622,
-      20
-    ],
-    [
-      622,
-      52
-    ],
-    [
-      622,
-      44
-    ],
-    [
-      622,
-      62
-    ],
-    [
-      622,
-      50
-    ],
-    [
-      623,
-      57
+      124
     ],
     [
       629,
@@ -63,11 +40,19 @@
     ],
     [
       632,
+      59
+    ],
+    [
+      632,
       57
     ],
     [
       632,
       65
+    ],
+    [
+      633,
+      40
     ],
     [
       633,
@@ -78,86 +63,312 @@
       45
     ],
     [
-      648,
-      84
+      652,
+      64
+    ],
+    [
+      654,
+      30
+    ],
+    [
+      654,
+      17
+    ],
+    [
+      655,
+      27
+    ],
+    [
+      655,
+      73
+    ],
+    [
+      658,
+      46
+    ],
+    [
+      658,
+      106
+    ],
+    [
+      664,
+      32
+    ],
+    [
+      679,
+      14
+    ],
+    [
+      679,
+      54
+    ],
+    [
+      679,
+      74
+    ],
+    [
+      716,
+      58
+    ],
+    [
+      716,
+      51
+    ],
+    [
+      724,
+      78
+    ],
+    [
+      836,
+      59
+    ],
+    [
+      839,
+      93
+    ],
+    [
+      840,
+      30
+    ],
+    [
+      849,
+      72
+    ],
+    [
+      850,
+      36
+    ],
+    [
+      853,
+      32
+    ],
+    [
+      853,
+      39
+    ],
+    [
+      878,
+      45
+    ],
+    [
+      884,
+      41
+    ],
+    [
+      891,
+      42
+    ],
+    [
+      891,
+      150
+    ],
+    [
+      891,
+      76
+    ],
+    [
+      891,
+      35
+    ],
+    [
+      930,
+      81
+    ],
+    [
+      943,
+      120
+    ],
+    [
+      983,
+      42
+    ],
+    [
+      983,
+      17
+    ],
+    [
+      983,
+      67
+    ],
+    [
+      983,
+      27
+    ],
+    [
+      995,
+      79
+    ],
+    [
+      996,
+      45
+    ],
+    [
+      1012,
+      72
+    ],
+    [
+      1018,
+      33
+    ],
+    [
+      1022,
+      70
+    ],
+    [
+      1023,
+      83
+    ],
+    [
+      1023,
+      29
+    ],
+    [
+      1023,
+      63
+    ],
+    [
+      1023,
+      111
+    ],
+    [
+      1056,
+      69
     ]
   ],
   "facts": [
     {
       "attribute": "skin",
-      "fact": "Skin tanned dark by the hot sun of Nanman; features distinctly non-Han",
+      "kind": "base",
+      "fact": "Skin tanned dark by the hot southern Nanman sun",
       "chapter": 620,
-      "quote": "남만의 무더운 햇볕에 의해 거무스름하게 그을린 피부와 특색 있는 용모"
-    },
-    {
-      "attribute": "apparent age",
-      "fact": "Elderly man",
-      "chapter": 620,
-      "quote": "나는 노인. 아니, 남호의 앞에 놓여 있는 술잔을 채워 주며 말을 건넸다."
-    },
-    {
-      "attribute": "voice",
-      "fact": "Aged, raspy voice",
-      "chapter": 620,
-      "quote": "그의 입술 사이로 늙수그레한 목소리가 흘러나왔다."
+      "quote": "남만의 무더운 햇볕에 의해 거무스름하게 그을린 피부"
     },
     {
       "attribute": "face",
-      "fact": "Face looks suddenly much older",
+      "kind": "base",
+      "fact": "Distinctive non-Han (foreign tribal) facial features",
+      "chapter": 620,
+      "quote": "특색 있는 용모는"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Elderly man with an aged voice",
+      "chapter": 620,
+      "quote": "늙수그레한 목소리가 흘러나왔다"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Face has visibly aged considerably",
       "chapter": 621,
-      "quote": "부쩍 늙은 얼굴로 허리를 두드린 남호가 재차 발걸음을 옮겼다."
+      "quote": "부쩍 늙은 얼굴로 허리를 두드린 남호가"
     },
     {
       "attribute": "age",
-      "fact": "Elderly man, addressed as 'old man Nam'",
-      "chapter": 622,
-      "quote": "남 노인, 설마 여기가 진짜"
-    },
-    {
-      "attribute": "age",
-      "fact": "Namho is an elderly man.",
+      "kind": "base",
+      "fact": "Elderly man",
       "chapter": 633,
-      "quote": "일초반식도 익히지 않은 노인일 뿐이니까"
+      "quote": "무공이라고는 일초반식도 익히지 않은 노인일 뿐이니까"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Gray eyes",
+      "chapter": 652,
+      "quote": "회색빛 눈동자"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Called an 'old youth': elderly in years but youthful in appearance.",
+      "chapter": 840,
+      "quote": "지목당한 늙은 청년, 남호가"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Elderly man",
+      "chapter": 878,
+      "quote": "씨근덕거리고 있는 노인, 남호"
+    },
+    {
+      "attribute": "skin",
+      "kind": "base",
+      "fact": "Dark, swarthy skin",
+      "chapter": 884,
+      "quote": "까무잡잡한 피부의 노인, 남호"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Elderly man",
+      "chapter": 983,
+      "quote": "노인, 남호는 당황하지 않았다."
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Narrow, slender eyes",
+      "chapter": 995,
+      "quote": "그의 가느다란 눈매가"
     }
   ],
   "dropped_facts": [],
-  "used": [
-    0,
-    1,
-    4,
-    5
-  ],
-  "excluded": [
+  "ranges": [
     {
-      "index": 2,
-      "reason": "Voice, not a visual trait"
-    },
-    {
-      "index": 3,
-      "reason": "Sudden aging of the face, a later change of appearance"
+      "start": 620,
+      "description": "Namho is an elderly man with a visibly aged face and an aged voice, though he looks youthful for his years. He has dark, swarthy tanned skin from the southern sun, distinctive non-Han tribal facial features, gray eyes, and narrow, slender eye shapes. Tags: elderly man, tanned dark skin, swarthy, non-Han features, gray eyes, narrow eyes, aged face, male",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
     }
   ],
-  "line": "- **Appearance (as of ch 633):** An elderly man with skin tanned dark by the southern sun and distinctive, distinctly non-Han features. Tags: elderly man, dark tanned skin, non-Han features, Nanman",
+  "lines": [
+    "- **Appearance (from ch 620):** Namho is an elderly man with a visibly aged face and an aged voice, though he looks youthful for his years. He has dark, swarthy tanned skin from the southern sun, distinctive non-Han tribal facial features, gray eyes, and narrow, slender eye shapes. Tags: elderly man, tanned dark skin, swarthy, non-Han features, gray eyes, narrow eyes, aged face, male"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0200228
+      "cost_usd": 0.021375
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0204186
+      "cost_usd": 0.021116999999999997
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017420900000000003
+      "cost_usd": 0.0174762
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018844100000000003
+      "cost_usd": 0.022285499999999996
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0216659
+      "cost_usd": 0.0222451
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.021688499999999996
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.020352299999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0203774
     }
   ]
 }

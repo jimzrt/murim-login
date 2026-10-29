@@ -7,5 +7,5 @@
 - **Personality:** Compassionate, resolute, resourceful, and calm under extreme pressure.
 - **Voice:** His Mungyeong persona is timid, deferential, and cheerful, while his Slaughter Saint voice is dry, impassive, and blunt.
 - **Relationships:** Dong Feng is his Disciple, Jeok Cheongang is an old acquaintance whom he helped free from his Heart Demon, he trained Jin Taekyung and considers him worthy of risking his life for, and he trusts the Bow Saint despite uncertainty about her intentions; the Salcheonmun he destroyed vows to pursue him.
-- **Appearance (as of ch 343):** Mungyeong appears as a boy with an ordinary commoner's build and no special aura, and has clear, bright eyes. Tags: boy, youth, commoner, plain build, clear bright eyes
+- **Appearance (from ch 333):** Mungyeong is a boy-like youth with a young face, smooth forehead, neat even eyebrows and clear, transparent eyes. A young physician who carries a small short sword. Tags: male, boy, youth, young physician, smooth forehead, neat even brows, transparent eyes, short sword
 - **Sources:** Korean source and accepted translation, Chapter 333

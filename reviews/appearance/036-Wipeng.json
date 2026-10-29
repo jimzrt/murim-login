@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 36,
   "english": "Wipeng",
   "profile": "characters/Wipeng.md",
@@ -11,7 +12,7 @@
   "passages": [
     [
       6,
-      47
+      53
     ],
     [
       8,
@@ -22,6 +23,10 @@
       22
     ],
     [
+      8,
+      69
+    ],
+    [
       9,
       102
     ],
@@ -30,24 +35,16 @@
       17
     ],
     [
-      9,
-      56
-    ],
-    [
-      9,
-      48
-    ],
-    [
-      10,
-      18
-    ],
-    [
-      13,
-      47
-    ],
-    [
       14,
       71
+    ],
+    [
+      18,
+      167
+    ],
+    [
+      19,
+      46
     ],
     [
       20,
@@ -63,84 +60,238 @@
     ],
     [
       28,
-      45
-    ],
-    [
-      31,
-      62
-    ],
-    [
-      31,
-      32
+      104
     ],
     [
       32,
       43
     ],
     [
+      34,
+      26
+    ],
+    [
+      37,
+      14
+    ],
+    [
+      54,
+      25
+    ],
+    [
       57,
-      21
+      54
+    ],
+    [
+      57,
+      36
+    ],
+    [
+      59,
+      55
+    ],
+    [
+      59,
+      58
+    ],
+    [
+      64,
+      32
+    ],
+    [
+      64,
+      64
+    ],
+    [
+      64,
+      52
+    ],
+    [
+      68,
+      53
+    ],
+    [
+      68,
+      34
+    ],
+    [
+      68,
+      41
+    ],
+    [
+      68,
+      50
+    ],
+    [
+      129,
+      45
+    ],
+    [
+      147,
+      77
+    ],
+    [
+      147,
+      18
+    ],
+    [
+      147,
+      49
+    ],
+    [
+      147,
+      84
+    ],
+    [
+      148,
+      38
+    ],
+    [
+      148,
+      49
+    ],
+    [
+      180,
+      51
+    ],
+    [
+      180,
+      76
+    ],
+    [
+      184,
+      54
+    ],
+    [
+      184,
+      99
+    ],
+    [
+      186,
+      43
+    ],
+    [
+      186,
+      17
+    ],
+    [
+      186,
+      29
+    ],
+    [
+      236,
+      42
+    ],
+    [
+      236,
+      64
+    ],
+    [
+      959,
+      58
+    ],
+    [
+      960,
+      36
+    ],
+    [
+      962,
+      52
+    ],
+    [
+      963,
+      71
+    ],
+    [
+      963,
+      71
+    ],
+    [
+      963,
+      73
+    ],
+    [
+      963,
+      84
     ]
   ],
   "facts": [
     {
       "attribute": "eyes",
-      "fact": "Cold, chilly-looking eyes",
-      "chapter": 13,
-      "quote": "서늘한 눈동자로 나를 내려다봤다"
-    },
-    {
-      "attribute": "eyes",
-      "fact": "Has sharp, narrow-edged eyes",
+      "kind": "base",
+      "fact": "Has sharp, piercing eye shape",
       "chapter": 28,
       "quote": "위팽처럼 날카로운 눈매의 소유자"
     },
     {
-      "attribute": "face",
-      "fact": "Has a cold-looking face",
-      "chapter": 31,
-      "quote": "차가움이 뚝뚝 묻어 나오는 얼굴"
-    },
-    {
-      "attribute": "distinguishing marks",
-      "fact": "Has a scar running from forehead to chin",
+      "attribute": "scar",
+      "kind": "change",
+      "fact": "Scar running from forehead to chin, from a fierce battle",
       "chapter": 32,
       "quote": "위팽의 이마부터 턱까지 그어진 상처"
+    },
+    {
+      "attribute": "clothing",
+      "kind": "base",
+      "fact": "Wears light armor (the figure entering the office, not necessarily Wipeng)",
+      "chapter": 147,
+      "quote": "가벼운 갑옷 차림"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Appears as an older man compared with Jin Mugyeong, who was a boy when they first met.",
+      "chapter": 963,
+      "quote": "과거 청년이 소년이었던 시절, 검을 가르쳐 달라며 찾아왔던 그 모습을 떠올리며."
     }
   ],
   "dropped_facts": [],
-  "used": [
-    0,
-    2,
-    3
-  ],
-  "excluded": [
+  "ranges": [
     {
-      "index": 1,
-      "reason": "The quote is a comparison ('sharp eyes like Wipeng') that describes someone else. It only implies Wipeng's look, so using it would be inference. Fact 0 already covers his eyes."
+      "start": 6,
+      "description": "Wipeng is an older man with sharp, piercing eyes. A long scar runs from his forehead down to his chin. Tags: male, older man, sharp piercing eyes, long scar forehead to chin",
+      "used": [
+        0,
+        1,
+        3
+      ]
     }
   ],
-  "line": "- **Appearance (as of ch 32):** A man with cold, chilly-looking eyes and a cold-looking face. A scar runs from his forehead to his chin. Tags: cold eyes, cold expression, long facial scar, forehead-to-chin scar",
+  "lines": [
+    "- **Appearance (from ch 6):** Wipeng is an older man with sharp, piercing eyes. A long scar runs from his forehead down to his chin. Tags: male, older man, sharp piercing eyes, long scar forehead to chin"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0170262
+      "cost_usd": 0.0192308
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017133199999999998
+      "cost_usd": 0.023134000000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.016692099999999998
+      "cost_usd": 0.0180602
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0162792
+      "cost_usd": 0.018874000000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.022789
+      "cost_usd": 0.0185922
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.018613
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0180178
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0220313
     }
   ]
 }

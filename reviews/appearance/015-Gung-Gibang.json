@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 15,
   "english": "Gung Gibang",
   "profile": "characters/Gung Gibang.md",
@@ -27,7 +28,7 @@
     ],
     [
       309,
-      43
+      85
     ],
     [
       313,
@@ -38,16 +39,12 @@
       17
     ],
     [
-      316,
-      43
-    ],
-    [
       318,
       32
     ],
     [
       318,
-      43
+      90
     ],
     [
       318,
@@ -58,89 +55,279 @@
       27
     ],
     [
+      320,
+      38
+    ],
+    [
       322,
-      35
+      68
+    ],
+    [
+      329,
+      135
     ],
     [
       337,
       43
     ],
     [
+      339,
+      58
+    ],
+    [
+      339,
+      48
+    ],
+    [
+      340,
+      103
+    ],
+    [
+      340,
+      40
+    ],
+    [
       370,
       94
+    ],
+    [
+      377,
+      72
+    ],
+    [
+      436,
+      87
+    ],
+    [
+      442,
+      36
+    ],
+    [
+      447,
+      33
+    ],
+    [
+      450,
+      27
+    ],
+    [
+      450,
+      72
+    ],
+    [
+      453,
+      43
+    ],
+    [
+      454,
+      91
+    ],
+    [
+      457,
+      79
+    ],
+    [
+      457,
+      63
     ],
     [
       459,
       61
     ],
     [
+      460,
+      60
+    ],
+    [
+      461,
+      121
+    ],
+    [
       469,
       57
     ],
     [
+      470,
+      56
+    ],
+    [
+      482,
+      45
+    ],
+    [
+      482,
+      38
+    ],
+    [
+      483,
+      45
+    ],
+    [
+      483,
+      128
+    ],
+    [
+      484,
+      102
+    ],
+    [
+      492,
+      34
+    ],
+    [
+      496,
+      24
+    ],
+    [
+      524,
+      105
+    ],
+    [
       528,
       35
+    ],
+    [
+      528,
+      22
+    ],
+    [
+      528,
+      20
+    ],
+    [
+      530,
+      98
+    ],
+    [
+      530,
+      39
+    ],
+    [
+      531,
+      93
+    ],
+    [
+      1075,
+      51
+    ],
+    [
+      1090,
+      102
+    ],
+    [
+      1128,
+      89
+    ],
+    [
+      1184,
+      99
+    ],
+    [
+      1186,
+      80
     ]
   ],
   "facts": [
     {
       "attribute": "hair",
-      "fact": "Hair is greasy and matted",
+      "kind": "base",
+      "fact": "Hair is matted and greasy (beggar's unkempt hair)",
       "chapter": 249,
-      "quote": "궁기방의 떡 진 머리가"
+      "quote": "궁기방의 떡 진 머리가 위아래로 끄덕여졌다."
     },
     {
       "attribute": "hair",
-      "fact": "Hair is matted/greasy and unkempt",
+      "kind": "base",
+      "fact": "Hair is greasy and matted",
       "chapter": 318,
-      "quote": "전의를 상실한 궁기방이 떡 진 머리를 쥐어뜯었다."
+      "quote": "떡 진 머리를 쥐어뜯었다"
     },
     {
       "attribute": "face",
-      "fact": "Face is grimy, covered in dirt (shared with another man)",
+      "kind": "base",
+      "fact": "Face is grimy with dirt",
       "chapter": 322,
-      "quote": "두 사람이 서로의 땟국물 가득한 얼굴을 마주 보며 피식 웃었다."
+      "quote": "서로의 땟국물 가득한 얼굴을 마주 보며"
     },
     {
       "attribute": "face",
-      "fact": "Face is grimy and dirty",
+      "kind": "base",
+      "fact": "Handsome face, by his own claim",
+      "chapter": 329,
+      "quote": "송 소협이나 나처럼 잘생기면 푼돈 벌기도 힘드오"
+    },
+    {
+      "attribute": "hair",
+      "kind": "base",
+      "fact": "Hair is greasy and matted",
+      "chapter": 483,
+      "quote": "떡 진 머리"
+    },
+    {
+      "attribute": "teeth",
+      "kind": "base",
+      "fact": "Has yellowed teeth",
+      "chapter": 483,
+      "quote": "누런 이빨을 드러내며"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Has an ugly face",
       "chapter": 528,
-      "quote": "때가 꼬질꼬질한 얼굴로"
+      "quote": "궁기방의 못생긴 얼굴이 와락 일그러졌다."
     }
   ],
   "dropped_facts": [],
-  "used": [
-    0,
-    1,
-    3
-  ],
-  "excluded": [
+  "ranges": [
     {
-      "index": 2,
-      "reason": "Describes two men's faces together, so it is not specific to him. Fact 3 already covers the grimy face."
+      "start": 248,
+      "description": "Gung Gibang is a male beggar with matted, greasy hair, a grimy dirt-streaked face with ugly features, and yellowed teeth bared in a grin. Tags: male, beggar, matted greasy hair, grimy face, ugly face, yellowed teeth",
+      "used": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        6
+      ]
     }
   ],
-  "line": "- **Appearance (as of ch 528):** Gung Gibang has greasy, matted, unkempt hair and a grimy, dirty face. Tags: matted greasy hair, unkempt hair, grimy face, dirty skin",
+  "lines": [
+    "- **Appearance (from ch 248):** Gung Gibang is a male beggar with matted, greasy hair, a grimy dirt-streaked face with ugly features, and yellowed teeth bared in a grin. Tags: male, beggar, matted greasy hair, grimy face, ugly face, yellowed teeth"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0167268
+      "cost_usd": 0.018422400000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0169182
+      "cost_usd": 0.0200122
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018093599999999998
+      "cost_usd": 0.0184409
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018905500000000002
+      "cost_usd": 0.0192915
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.021509800000000003
+      "cost_usd": 0.0175833
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.018512300000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0157917
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0191484
     }
   ]
 }

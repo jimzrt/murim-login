@@ -7,5 +7,5 @@
 - **Personality:** Calm, responsible, quietly playful, and still regarded by Jeok as lazy for sleeping whenever possible.
 - **Voice:** Quiet, deep, weighty, and resonant, with casual familiarity when speaking to Jeok Cheongang.
 - **Relationships:** Old friend of Jeok Cheongang and close friend of Peng Cheolhu; master of Unnamed; before his death, entrusted the Green Jade Buddha Staff to Unnamed, warned Jeok about Jongni Chu, Dark Heaven, Unnamed, and the Buddhist Staff, and sent Unnamed to find the Master of Morning Star.
-- **Appearance (as of ch 259):** Hong Dao, the Dharma King, is a tall, towering elderly man with gray eyes. He carries a very short, smooth staff with a faint green glow on its surface, kept inside his clothing. Tags: elderly man, tall, towering, gray eyes, short smooth staff, faint green glow, hidden weapon
+- **Appearance (from ch 231):** Hong Dao is a very tall elderly man with gray eyes, towering over shorter people. He carries a very short staff with a smooth surface that gives off a faint green glow. Tags: male, elderly, very tall, gray eyes, short staff, smooth staff, faint green glow
 - **Sources:** Korean source and accepted translation, Chapter 231

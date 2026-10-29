@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 44,
   "english": "Jopil",
   "profile": "characters/Jopil.md",
@@ -22,32 +23,20 @@
       67
     ],
     [
-      26,
-      65
+      25,
+      29
     ],
     [
-      26,
-      32
+      25,
+      55
     ],
     [
-      28,
-      45
-    ],
-    [
-      28,
-      73
+      25,
+      54
     ],
     [
       28,
-      20
-    ],
-    [
-      28,
-      39
-    ],
-    [
-      28,
-      22
+      58
     ],
     [
       29,
@@ -55,81 +44,150 @@
     ],
     [
       29,
-      33
-    ],
-    [
-      29,
-      18
-    ],
-    [
-      29,
       87
     ],
     [
       29,
-      51
+      97
+    ],
+    [
+      29,
+      33
     ],
     [
       30,
-      62
+      95
+    ],
+    [
+      30,
+      61
     ],
     [
       30,
       36
     ],
     [
-      30,
-      61
+      52,
+      14
+    ],
+    [
+      54,
+      85
+    ],
+    [
+      68,
+      56
+    ],
+    [
+      72,
+      63
+    ],
+    [
+      110,
+      46
+    ],
+    [
+      110,
+      28
+    ],
+    [
+      124,
+      75
+    ],
+    [
+      124,
+      32
+    ],
+    [
+      173,
+      30
+    ],
+    [
+      174,
+      95
+    ],
+    [
+      175,
+      32
+    ],
+    [
+      176,
+      77
+    ],
+    [
+      193,
+      94
+    ],
+    [
+      195,
+      117
     ]
   ],
   "facts": [
     {
-      "attribute": "eyes",
-      "fact": "Eyes are black like a viper's",
-      "chapter": 26,
-      "quote": "독사처럼 까만 눈동자가 주위를 훑었다."
-    },
-    {
-      "attribute": "height",
-      "fact": "Average height",
-      "chapter": 28,
-      "quote": "적당한 키에 평범한 인상의 소유자였고"
+      "attribute": "hair",
+      "kind": "base",
+      "fact": "Has hair that can be tossed/blown by a spear strike (hair present, length unspecified)",
+      "chapter": 29,
+      "quote": "조필의 머리카락이 흩날렸다"
     },
     {
       "attribute": "hair",
-      "fact": "Hair is loose enough to blow and scatter when struck by wind/pressure",
-      "chapter": 29,
-      "quote": "조필의 머리카락이 흩날렸다"
+      "kind": "change",
+      "fact": "Hair rapidly turns white as he visibly ages",
+      "chapter": 30,
+      "quote": "시시각각 하얗게 세는 머리카락"
+    },
+    {
+      "attribute": "skin",
+      "kind": "change",
+      "fact": "Skin shrivels as he visibly ages",
+      "chapter": 30,
+      "quote": "쪼그라드는 피부"
     }
   ],
   "dropped_facts": [],
-  "used": [
-    0,
-    1,
-    2
+  "ranges": [
+    {
+      "start": 22,
+      "description": "Jopil has loose hair that is tossed and blown about by a spear strike. Tags: male, hair present, windblown hair",
+      "used": [
+        0
+      ]
+    },
+    {
+      "start": 30,
+      "description": "Jopil has hair that has rapidly turned white and skin that is shriveled and shrunken, giving a visibly aged look. Tags: male, white hair, shriveled skin, aged appearance",
+      "used": [
+        1,
+        2
+      ]
+    }
   ],
-  "excluded": [],
-  "line": "- **Appearance (as of ch 29):** Jopil has average height and an unremarkable build and face, with black eyes like a viper's and loose hair that scatters in the wind. Tags: male, average height, ordinary face, black eyes, viper-like eyes, loose hair",
+  "lines": [
+    "- **Appearance (ch 22–29):** Jopil has loose hair that is tossed and blown about by a spear strike. Tags: male, hair present, windblown hair",
+    "- **Appearance (from ch 30):** Jopil has hair that has rapidly turned white and skin that is shriveled and shrunken, giving a visibly aged look. Tags: male, white hair, shriveled skin, aged appearance"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0169912
+      "cost_usd": 0.018472999999999996
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017389400000000003
+      "cost_usd": 0.0179544
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0168622
+      "cost_usd": 0.020174
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0173832
+      "cost_usd": 0.019592699999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.016958900000000002
+      "cost_usd": 0.0205573
     }
   ]
 }

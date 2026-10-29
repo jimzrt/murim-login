@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 12,
   "english": "Slaughter Saint",
   "profile": "characters/Slaughter Saint.md",
@@ -38,59 +39,258 @@
       18
     ],
     [
-      373,
-      57
-    ],
-    [
       377,
       48
     ],
     [
       435,
-      20
+      100
     ],
     [
       463,
-      21
+      31
     ],
     [
       463,
-      32
+      57
+    ],
+    [
+      488,
+      64
+    ],
+    [
+      489,
+      64
+    ],
+    [
+      497,
+      33
+    ],
+    [
+      539,
+      70
+    ],
+    [
+      550,
+      77
+    ],
+    [
+      550,
+      109
+    ],
+    [
+      848,
+      50
+    ],
+    [
+      848,
+      135
+    ],
+    [
+      885,
+      56
+    ],
+    [
+      893,
+      66
+    ],
+    [
+      918,
+      67
+    ],
+    [
+      919,
+      99
+    ],
+    [
+      990,
+      44
+    ],
+    [
+      1074,
+      59
+    ],
+    [
+      1074,
+      82
+    ],
+    [
+      1074,
+      131
+    ],
+    [
+      1076,
+      67
+    ],
+    [
+      1076,
+      50
+    ],
+    [
+      1081,
+      35
+    ],
+    [
+      1093,
+      68
+    ],
+    [
+      1098,
+      16
+    ],
+    [
+      1100,
+      62
+    ],
+    [
+      1108,
+      29
+    ],
+    [
+      1111,
+      28
+    ],
+    [
+      1111,
+      40
+    ],
+    [
+      1111,
+      67
+    ],
+    [
+      1121,
+      74
+    ],
+    [
+      1121,
+      29
+    ],
+    [
+      1122,
+      39
+    ],
+    [
+      1123,
+      133
+    ],
+    [
+      1132,
+      50
+    ],
+    [
+      1137,
+      77
+    ],
+    [
+      1137,
+      58
     ]
   ],
   "facts": [
     {
       "attribute": "age",
-      "fact": "Appears to be a boy (young-looking).",
+      "kind": "base",
+      "fact": "Appears as a boy (youthful appearance)",
       "chapter": 369,
       "quote": "소년, 살성의 무뚝뚝한 얼굴 위로 희미한 웃음이 스쳤다."
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Dry, flat gaze",
+      "chapter": 372,
+      "quote": "건조한 눈빛으로 내 얼굴을 훑어본 문경, 아니 살성이"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears as a boy physician (Mun Gyeong identity)",
+      "chapter": 463,
+      "quote": "소년 의생"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Rejuvenated via banro-hwandong (return to youth); looks like a young physician",
+      "chapter": 488,
+      "quote": "반로환동으로 젊어진 초절정 고수"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Slender, lean build",
+      "chapter": 489,
+      "quote": "호리호리한 신형이 덜컥 굳는다."
+    },
+    {
+      "attribute": "occupation/reputation",
+      "kind": "base",
+      "fact": "Renowned as the greatest assassin of all time (고금제일의 살수), though this is reputation rather than look",
+      "chapter": 893,
+      "quote": "살성이 고금제일의 살수라 불리는 이유도 비슷한 맥락이고."
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Looks like a boy, at most just under twenty (under 약관)",
+      "chapter": 1074,
+      "quote": "아무리 높게 쳐줘도 약관에 못 미치는 소년이"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Appears as a very young boy, with downy fuzz still on his face, despite being the formerly revered Slaughter Saint",
+      "chapter": 1100,
+      "quote": "아직 솜털도 채 가시지 않은 것 같은 저 소년이"
     }
   ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [
+  "ranges": [
     {
-      "index": 0,
-      "reason": "Only one visual trait (young-looking, boy). Fewer than two distinct visual traits, and 'appears to be a boy' hints at possible disguise/rejuvenation, so it was dropped."
+      "start": 177,
+      "description": "Slaughter Saint is a male who looks like a boy, at most just under twenty, with a slender, lean build. His face is still youthful, with downy fuzz not yet faded, and his gaze is dry and flat. He has a blunt, stern face that can briefly flash a faint smile. Tags: boy, youthful face, downy facial fuzz, slender build, lean, dry flat eyes, stern expression, young physician look",
+      "used": [
+        0,
+        1,
+        2,
+        4,
+        6,
+        7
+      ]
     }
   ],
-  "line": "- **Appearance:** not described",
+  "lines": [
+    "- **Appearance (from ch 177):** Slaughter Saint is a male who looks like a boy, at most just under twenty, with a slender, lean build. His face is still youthful, with downy fuzz not yet faded, and his gaze is dry and flat. He has a blunt, stern face that can briefly flash a faint smile. Tags: boy, youthful face, downy facial fuzz, slender build, lean, dry flat eyes, stern expression, young physician look"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0168922
+      "cost_usd": 0.020308
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0172992
+      "cost_usd": 0.0235479
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.015553400000000002
+      "cost_usd": 0.020173700000000003
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0166796
+      "cost_usd": 0.022099999999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0144259
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.017170299999999996
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0236431
     }
   ]
 }

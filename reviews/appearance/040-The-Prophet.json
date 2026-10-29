@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 40,
   "english": "The Prophet",
   "profile": "characters/The Prophet.md",
@@ -16,11 +17,11 @@
     ],
     [
       738,
-      61
+      71
     ],
     [
       738,
-      29
+      69
     ],
     [
       739,
@@ -28,11 +29,15 @@
     ],
     [
       740,
-      39
+      46
     ],
     [
       745,
       63
+    ],
+    [
+      745,
+      34
     ],
     [
       772,
@@ -40,62 +45,135 @@
     ],
     [
       791,
-      25
+      32
+    ],
+    [
+      795,
+      27
+    ],
+    [
+      795,
+      109
     ],
     [
       795,
       48
     ],
     [
+      795,
+      37
+    ],
+    [
+      798,
+      76
+    ],
+    [
       799,
-      53
+      41
+    ],
+    [
+      799,
+      66
+    ],
+    [
+      799,
+      124
     ],
     [
       802,
-      35
+      96
     ],
     [
       803,
-      75
+      122
     ],
     [
       805,
-      43
+      60
+    ],
+    [
+      809,
+      109
+    ],
+    [
+      810,
+      36
+    ],
+    [
+      811,
+      74
+    ],
+    [
+      812,
+      52
+    ],
+    [
+      813,
+      95
+    ],
+    [
+      813,
+      69
+    ],
+    [
+      813,
+      59
+    ],
+    [
+      813,
+      128
+    ],
+    [
+      821,
+      70
+    ],
+    [
+      821,
+      36
     ]
   ],
   "facts": [
     {
       "attribute": "clothing",
+      "kind": "base",
       "fact": "Wears a robe",
       "chapter": 772,
       "quote": "로브 아래로 슬며시 입꼬리를 말아 올리는 선지자의 모습"
     }
   ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [
+  "ranges": [
     {
-      "index": 0,
-      "reason": "Only a robe is stated, with no age, build, hair, face or colour traits. That is fewer than two distinct visual traits, and clothing alone is not enough."
+      "start": 507,
+      "description": "The Prophet wears a robe, with the hood or fabric framing the face as a faint smile curls at the lips beneath it. Tags: robe, smiling, hooded look",
+      "used": [
+        0
+      ]
     }
   ],
-  "line": "- **Appearance:** not described",
+  "lines": [
+    "- **Appearance (from ch 507):** The Prophet wears a robe, with the hood or fabric framing the face as a faint smile curls at the lips beneath it. Tags: robe, smiling, hooded look"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0180862
+      "cost_usd": 0.021661800000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0172676
+      "cost_usd": 0.019809
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0181573
+      "cost_usd": 0.0198875
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0164992
+      "cost_usd": 0.0185422
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0174974
     }
   ]
 }

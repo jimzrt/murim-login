@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "rank": 10,
   "english": "Lord of Heaven",
   "profile": "characters/Lord of Heaven.md",
@@ -11,22 +12,191 @@
   "passages": [
     [
       353,
-      21
+      38
+    ],
+    [
+      354,
+      82
+    ],
+    [
+      485,
+      78
     ],
     [
       523,
-      31
+      96
+    ],
+    [
+      614,
+      85
+    ],
+    [
+      614,
+      83
+    ],
+    [
+      614,
+      77
+    ],
+    [
+      695,
+      46
+    ],
+    [
+      697,
+      59
+    ],
+    [
+      701,
+      110
+    ],
+    [
+      707,
+      51
+    ],
+    [
+      724,
+      123
+    ],
+    [
+      891,
+      80
+    ],
+    [
+      903,
+      34
+    ],
+    [
+      914,
+      51
+    ],
+    [
+      989,
+      85
+    ],
+    [
+      1022,
+      64
+    ],
+    [
+      1034,
+      71
+    ],
+    [
+      1034,
+      88
+    ],
+    [
+      1034,
+      99
+    ],
+    [
+      1034,
+      108
+    ],
+    [
+      1054,
+      59
+    ],
+    [
+      1054,
+      90
+    ],
+    [
+      1077,
+      109
+    ],
+    [
+      1078,
+      75
+    ],
+    [
+      1088,
+      51
+    ],
+    [
+      1096,
+      64
+    ],
+    [
+      1096,
+      101
+    ],
+    [
+      1097,
+      38
+    ],
+    [
+      1097,
+      41
+    ],
+    [
+      1104,
+      49
+    ],
+    [
+      1115,
+      65
+    ],
+    [
+      1127,
+      112
+    ],
+    [
+      1127,
+      134
+    ],
+    [
+      1136,
+      58
     ]
   ],
-  "facts": [],
+  "facts": [
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Has blazing, burning eyes",
+      "chapter": 1127,
+      "quote": "저 타오르는 눈동자의 주인을"
+    }
+  ],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [],
-  "line": "- **Appearance:** not described",
+  "ranges": [
+    {
+      "start": 260,
+      "description": "Lord of Heaven has blazing, burning eyes that glow with fierce intensity. Tags: male, blazing eyes, burning eyes, intense gaze",
+      "used": [
+        0
+      ]
+    }
+  ],
+  "lines": [
+    "- **Appearance (from ch 260):** Lord of Heaven has blazing, burning eyes that glow with fierce intensity. Tags: male, blazing eyes, burning eyes, intense gaze"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0154497
+      "cost_usd": 0.0195174
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0205323
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.02137
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0182651
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.017752900000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0175805
     }
   ]
 }

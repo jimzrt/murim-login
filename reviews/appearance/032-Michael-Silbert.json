@@ -1,19 +1,40 @@
 {
+  "version": 2,
   "rank": 32,
   "english": "Michael Silbert",
   "profile": "characters/Michael Silbert.md",
   "names": [
     "미카엘 실베르트",
-    "실베르트"
+    "실베르트",
+    "미카엘"
   ],
-  "chapter_count": 71,
-  "first_chapter": 736,
+  "chapter_count": 72,
+  "first_chapter": 735,
   "safe_through": 736,
-  "passages": [],
+  "passages": [
+    [
+      735,
+      39
+    ],
+    [
+      735,
+      56
+    ],
+    [
+      736,
+      92
+    ]
+  ],
   "facts": [],
   "dropped_facts": [],
-  "used": [],
-  "excluded": [],
-  "line": "- **Appearance:** not described",
-  "calls": []
+  "ranges": [],
+  "lines": [
+    "- **Appearance:** not described"
+  ],
+  "calls": [
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0119269
+    }
+  ]
 }
