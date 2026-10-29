@@ -8,7 +8,7 @@
   ],
   "chapter_count": 98,
   "first_chapter": 284,
-  "safe_through": 843,
+  "profile_safe_through": 843,
   "passages": [
     [
       284,
@@ -171,21 +171,35 @@
     {
       "attribute": "eyes",
       "kind": "base",
-      "fact": "Dark, deep-sunken gaze",
+      "fact": "Deep-set, inscrutable eyes",
+      "chapter": 305,
+      "quote": "이정룡의 눈동자는 짐작하기 어려울 만큼 깊이 가라앉아 있었다"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Dark, sunken gaze",
       "chapter": 405,
       "quote": "깊게 가라앉은 어두컴컴한 안광"
     },
     {
       "attribute": "face",
-      "kind": "change",
-      "fact": "Naturally stiff, hard impression that became gloomier after his defeat",
+      "kind": "base",
+      "fact": "Stiff, hard impression",
       "chapter": 405,
-      "quote": "안 그래도 딱딱하던 인상이 더 음울해졌다면"
+      "quote": "안 그래도 딱딱하던 인상"
     },
     {
-      "attribute": "age/face",
+      "attribute": "face",
+      "kind": "change",
+      "fact": "Impression became gloomier after defeat by Jin Taekyung",
+      "chapter": 405,
+      "quote": "인상이 더 음울해졌다면 수군거렸지만"
+    },
+    {
+      "attribute": "age",
       "kind": "base",
-      "fact": "Well past 60 but looks like a handsome middle-aged man",
+      "fact": "Over 60 years old but looks like a handsome middle-aged man",
       "chapter": 407,
       "quote": "환갑이 훌쩍 넘었음에도 미중년의 모습을 한 구렁이가 웃음기 띤 얼굴로 나를 응시한다."
     }
@@ -194,41 +208,42 @@
   "ranges": [
     {
       "start": 284,
-      "description": "Lee Jungryong looks like a handsome middle-aged man with a naturally stiff, hard face that has turned gloomier and more sombre. His eyes are dark and deep-sunken with a dim, murky gaze, and he wears a faint smile.",
+      "description": "Lee Jungryong is a man who looks like a handsome middle-aged man. He has a stiff, hard-set face and deep-set, dark, sunken eyes with an inscrutable gaze. Tags: male, handsome middle-aged look, stiff hard face, deep-set eyes, dark sunken gaze",
       "used": [
         0,
         1,
-        2
+        2,
+        4
       ]
     }
   ],
   "lines": [
-    "- **Appearance (from ch 284):** Lee Jungryong looks like a handsome middle-aged man with a naturally stiff, hard face that has turned gloomier and more sombre. His eyes are dark and deep-sunken with a dim, murky gaze, and he wears a faint smile."
+    "- **Appearance (from ch 284):** Lee Jungryong is a man who looks like a handsome middle-aged man. He has a stiff, hard-set face and deep-set, dark, sunken eyes with an inscrutable gaze. Tags: male, handsome middle-aged look, stiff hard face, deep-set eyes, dark sunken gaze"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.020128
+      "cost_usd": 0.0199205
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0245556
+      "cost_usd": 0.0267096
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0182362
+      "cost_usd": 0.018590000000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0223
+      "cost_usd": 0.0208695
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020026600000000002
+      "cost_usd": 0.0206431
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0206031
+      "cost_usd": 0.0191937
     }
   ]
 }

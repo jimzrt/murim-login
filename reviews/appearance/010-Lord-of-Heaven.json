@@ -8,7 +8,7 @@
   ],
   "chapter_count": 121,
   "first_chapter": 260,
-  "safe_through": 1175,
+  "profile_safe_through": 1175,
   "passages": [
     [
       353,
@@ -123,20 +123,16 @@
       101
     ],
     [
-      1097,
-      38
-    ],
-    [
-      1097,
-      41
-    ],
-    [
       1104,
       49
     ],
     [
       1115,
       65
+    ],
+    [
+      1115,
+      72
     ],
     [
       1127,
@@ -155,48 +151,41 @@
     {
       "attribute": "eyes",
       "kind": "base",
-      "fact": "Has blazing, burning eyes",
+      "fact": "Blazing, burning eyes (identity of the 'owner' of the burning eyes is ambiguous, likely another person)",
       "chapter": 1127,
-      "quote": "저 타오르는 눈동자의 주인을"
+      "quote": "타오르는 눈동자의 주인을"
     }
   ],
   "dropped_facts": [],
-  "ranges": [
-    {
-      "start": 260,
-      "description": "Lord of Heaven has blazing, burning eyes that glow with fierce intensity. Tags: male, blazing eyes, burning eyes, intense gaze",
-      "used": [
-        0
-      ]
-    }
-  ],
+  "ranges": [],
   "lines": [
-    "- **Appearance (from ch 260):** Lord of Heaven has blazing, burning eyes that glow with fierce intensity. Tags: male, blazing eyes, burning eyes, intense gaze"
+    "- **Appearance:** not described"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0195174
+      "cost_usd": 0.0159121
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0205323
+      "cost_usd": 0.015820499999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.02137
+      "cost_usd": 0.020745499999999997
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0182651
+      "cost_usd": 0.0193136
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017752900000000002
+      "cost_usd": 0.018361999999999996
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0175805
+      "cost_usd": 0.017565100000000004
     }
-  ]
+  ],
+  "note": "Manual: single fact (ch 1127, 'owner of the burning eyes') is ambiguous about whose eyes; not usable"
 }

@@ -8,7 +8,7 @@
   ],
   "chapter_count": 77,
   "first_chapter": 482,
-  "safe_through": 1025,
+  "profile_safe_through": 1025,
   "passages": [
     [
       483,
@@ -127,32 +127,12 @@
       85
     ],
     [
-      708,
-      79
+      711,
+      59
     ],
     [
-      708,
-      58
-    ],
-    [
-      708,
-      77
-    ],
-    [
-      708,
-      81
-    ],
-    [
-      709,
-      72
-    ],
-    [
-      709,
-      43
-    ],
-    [
-      710,
-      53
+      713,
+      82
     ],
     [
       781,
@@ -178,30 +158,23 @@
     {
       "attribute": "eyes",
       "kind": "base",
-      "fact": "Cat-like eyes (upturned, feline shape)",
+      "fact": "Cat-like eye shape",
       "chapter": 697,
-      "quote": "지상을 굽어보던 고양이 같은 눈매가 반달처럼 휘었다."
+      "quote": "고양이 같은 눈매"
     },
     {
       "attribute": "face",
       "kind": "base",
-      "fact": "Extremely beautiful woman",
+      "fact": "Strikingly beautiful woman",
       "chapter": 697,
-      "quote": "그곳에는 괴물이라 칭하기에는 너무나도 아름다운 여인이 흐트러진 궁장을 정돈하고 있었다."
-    },
-    {
-      "attribute": "clothing",
-      "kind": "base",
-      "fact": "Wears a gungjang (court dress)",
-      "chapter": 697,
-      "quote": "흐트러진 궁장을 정돈하고 있었다."
+      "quote": "괴물이라 칭하기에는 너무나도 아름다운 여인"
     },
     {
       "attribute": "hair",
       "kind": "change",
-      "fact": "Hair was cut short by an opponent (lasting loss of hair length)",
+      "fact": "Her hair was cut off by an opponent",
       "chapter": 702,
-      "quote": "귀중한 머리카락마저 자른 저 어린놈에게"
+      "quote": "귀중한 머리카락마저 자른"
     },
     {
       "attribute": "face",
@@ -215,55 +188,53 @@
   "ranges": [
     {
       "start": 482,
-      "description": "Southern Heaven Demon Empress is an extremely beautiful, strikingly gorgeous woman with a beautiful face and upturned, cat-like eyes. She wears a gungjang (court dress). Tags: female, gorgeous, beautiful face, cat-like eyes, upturned eyes, gungjang, court dress",
+      "description": "Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, glamorous face and cat-like eyes. Her hair is long, and she has an elegant, eye-catching look. Tags: female, strikingly beautiful, gorgeous face, cat-like eyes, long hair",
       "used": [
         0,
         1,
-        2,
-        3
+        2
       ]
     },
     {
       "start": 702,
-      "description": "Southern Heaven Demon Empress is an extremely beautiful, strikingly gorgeous woman with a beautiful face and upturned, cat-like eyes. Her hair has been cut short, noticeably shorter than before. She wears a gungjang (court dress). Tags: female, gorgeous, beautiful face, cat-like eyes, upturned eyes, short cut hair, gungjang, court dress",
+      "description": "Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, glamorous face and cat-like eyes. Her hair has been cut short, but her face remains beautiful. Tags: female, strikingly beautiful, beautiful face, cat-like eyes, cut-off short hair",
       "used": [
         0,
         1,
         2,
         3,
-        4,
-        5
+        4
       ]
     }
   ],
   "lines": [
-    "- **Appearance (ch 482–701):** Southern Heaven Demon Empress is an extremely beautiful, strikingly gorgeous woman with a beautiful face and upturned, cat-like eyes. She wears a gungjang (court dress). Tags: female, gorgeous, beautiful face, cat-like eyes, upturned eyes, gungjang, court dress",
-    "- **Appearance (from ch 702):** Southern Heaven Demon Empress is an extremely beautiful, strikingly gorgeous woman with a beautiful face and upturned, cat-like eyes. Her hair has been cut short, noticeably shorter than before. She wears a gungjang (court dress). Tags: female, gorgeous, beautiful face, cat-like eyes, upturned eyes, short cut hair, gungjang, court dress"
+    "- **Appearance (ch 482–701):** Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, glamorous face and cat-like eyes. Her hair is long, and she has an elegant, eye-catching look. Tags: female, strikingly beautiful, gorgeous face, cat-like eyes, long hair",
+    "- **Appearance (from ch 702):** Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, glamorous face and cat-like eyes. Her hair has been cut short, but her face remains beautiful. Tags: female, strikingly beautiful, beautiful face, cat-like eyes, cut-off short hair"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0157972
+      "cost_usd": 0.0211995
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019013300000000004
+      "cost_usd": 0.019557299999999996
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0214342
+      "cost_usd": 0.024376199999999997
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0221453
+      "cost_usd": 0.0227971
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0200501
+      "cost_usd": 0.0165482
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0210699
+      "cost_usd": 0.022239
     }
   ]
 }

@@ -8,7 +8,7 @@
   ],
   "chapter_count": 103,
   "first_chapter": 140,
-  "safe_through": 1185,
+  "profile_safe_through": 1185,
   "passages": [
     [
       141,
@@ -219,44 +219,37 @@
     {
       "attribute": "age",
       "kind": "change",
-      "fact": "Returned to youth; appears as a young man around age 20 (약관)",
+      "fact": "Returned to youth, appearing as a young man of about twenty (yakgwan).",
       "chapter": 266,
-      "quote": "약관의 청년으로 돌아간 매종학을 의심하는 아무도 없었다."
+      "quote": "약관의 청년으로 돌아간 매종학을"
     },
     {
-      "attribute": "age",
+      "attribute": "apparent age",
       "kind": "change",
-      "fact": "Appears very young after returning to youth (반로환동); youthful man",
+      "fact": "Appears very young after returning to youth (banlohwandong), despite being the legendary Sword Saint",
       "chapter": 269,
       "quote": "허어, 저렇게 젊은 모습이라니. 반로환동은 황당무계한 헛소리인 줄만 알았거늘."
     },
     {
-      "attribute": "age",
-      "kind": "base",
-      "fact": "Looks like a young man (청년)",
-      "chapter": 269,
-      "quote": "며칠 전만 해도 운 좋은 촌구석 무인 취급받던 청년의 정체가"
-    },
-    {
       "attribute": "face",
       "kind": "base",
-      "fact": "Smooth, clean-shaven chin",
+      "fact": "Has a smooth, clean-shaven chin",
       "chapter": 269,
       "quote": "매종학이 매끈한 턱을 쓰다듬었다."
     },
     {
-      "attribute": "apparent age",
+      "attribute": "age",
       "kind": "base",
-      "fact": "Appears as a young man (청년)",
+      "fact": "Appears as a young man (youth)",
       "chapter": 520,
-      "quote": "청년, 검성(劍星) 매종학이"
+      "quote": "청년, 검성(劍星) 매종학이 떨떠름한 표정으로 대답했다."
     },
     {
-      "attribute": "apparent age",
+      "attribute": "age",
       "kind": "change",
-      "fact": "Has been rejuvenated and looks younger than before",
+      "fact": "Appears to have returned to youth; looks visibly younger",
       "chapter": 525,
-      "quote": "검성 매종학의 젊어진 모습"
+      "quote": "검성 매종학의 젊어진 모습에 경악하고"
     },
     {
       "attribute": "eyes",
@@ -268,21 +261,28 @@
     {
       "attribute": "eyes",
       "kind": "base",
-      "fact": "Clear, blue gaze",
+      "fact": "Clear blue gaze",
       "chapter": 548,
-      "quote": "맑고도 푸른 눈빛으로 나를 응시했다."
+      "quote": "매종학이 맑고도 푸른 눈빛으로 나를 응시했다."
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Appears youthful again, outwardly young like a man of his peers, though he is decades older",
+      "chapter": 551,
+      "quote": "겉모습만 젊어졌을 뿐"
     },
     {
       "attribute": "face",
       "kind": "base",
-      "fact": "Plain, ordinary appearance that blends in anywhere",
+      "fact": "Plain, ordinary-looking face and air; could be anyone you pass on the street",
       "chapter": 989,
       "quote": "당장 어디에서나 마주칠 수 있을 것처럼 평범한 용모와 분위기"
     },
     {
       "attribute": "eyes",
       "kind": "base",
-      "fact": "Eyes are clear to the point of transparency",
+      "fact": "Eyes are strikingly clear, almost transparent",
       "chapter": 989,
       "quote": "그의 눈동자는 투명하리만치 맑았다"
     }
@@ -291,7 +291,7 @@
   "ranges": [
     {
       "start": 140,
-      "description": "Mae Jonghak is a young man of about 20 with a smooth, clean-shaven chin and a plain, ordinary face that blends in anywhere. His eyes are clear and deep, blue and almost transparent in their clarity.",
+      "description": "Mae Jonghak is a male youth who looks about twenty, with a smooth, clean-shaven chin. His face and air are plain and ordinary, like anyone passed on the street. His eyes are clear, deep, almost transparent, with a blue gaze. Tags: young man, about twenty, youthful, clean-shaven, smooth chin, plain face, clear eyes, deep eyes, transparent eyes, blue eyes",
       "used": [
         0,
         1,
@@ -307,40 +307,40 @@
     }
   ],
   "lines": [
-    "- **Appearance (from ch 140):** Mae Jonghak is a young man of about 20 with a smooth, clean-shaven chin and a plain, ordinary face that blends in anywhere. His eyes are clear and deep, blue and almost transparent in their clarity."
+    "- **Appearance (from ch 140):** Mae Jonghak is a male youth who looks about twenty, with a smooth, clean-shaven chin. His face and air are plain and ordinary, like anyone passed on the street. His eyes are clear, deep, almost transparent, with a blue gaze. Tags: young man, about twenty, youthful, clean-shaven, smooth chin, plain face, clear eyes, deep eyes, transparent eyes, blue eyes"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0180582
+      "cost_usd": 0.0186571
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0185982
+      "cost_usd": 0.0141309
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020561299999999998
+      "cost_usd": 0.0200053
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0222962
+      "cost_usd": 0.0199912
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0222123
+      "cost_usd": 0.0199748
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0222446
+      "cost_usd": 0.0220051
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0163454
+      "cost_usd": 0.016284399999999997
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.023291500000000003
+      "cost_usd": 0.0247711
     }
   ]
 }

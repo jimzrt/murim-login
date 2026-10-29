@@ -9,7 +9,7 @@
   ],
   "chapter_count": 118,
   "first_chapter": 242,
-  "safe_through": 823,
+  "profile_safe_through": 823,
   "passages": [
     [
       302,
@@ -40,10 +40,6 @@
       33
     ],
     [
-      408,
-      142
-    ],
-    [
       429,
       46
     ],
@@ -68,8 +64,8 @@
       67
     ],
     [
-      440,
-      49
+      430,
+      35
     ],
     [
       485,
@@ -86,10 +82,6 @@
     [
       559,
       51
-    ],
-    [
-      559,
-      52
     ],
     [
       564,
@@ -200,20 +192,40 @@
       88
     ],
     [
-      811,
-      64
-    ],
-    [
-      811,
-      87
-    ],
-    [
       812,
       109
     ],
     [
       812,
       60
+    ],
+    [
+      823,
+      50
+    ],
+    [
+      823,
+      85
+    ],
+    [
+      823,
+      19
+    ],
+    [
+      823,
+      24
+    ],
+    [
+      823,
+      80
+    ],
+    [
+      830,
+      13
+    ],
+    [
+      1152,
+      48
     ]
   ],
   "facts": [
@@ -222,78 +234,110 @@
       "kind": "base",
       "fact": "Has dark/black skin",
       "chapter": 559,
-      "quote": "투덜거리는 검은 피부의 대마도사, 매직 존슨을 보며 나는 피식 웃었다."
+      "quote": "투덜거리는 검은 피부의 대마도사, 매직 존슨을 보며"
+    },
+    {
+      "attribute": "skin",
+      "kind": "base",
+      "fact": "Has dark/black skin",
+      "chapter": 583,
+      "quote": "검은 피부의 대마도사"
+    },
+    {
+      "attribute": "weapon",
+      "kind": "base",
+      "fact": "Wields two staffs",
+      "chapter": 728,
+      "quote": "두 개의 지팡이로 믿을 수 없는 마법을 부린다는"
     },
     {
       "attribute": "build",
       "kind": "base",
-      "fact": "Huge, large-framed Black man",
+      "fact": "Towering, large-framed Black man",
       "chapter": 741,
       "quote": "거구의 흑인이 우리 앞에 섰다"
     },
     {
       "attribute": "build",
       "kind": "base",
-      "fact": "Has a huge, massive build",
+      "fact": "Has a huge, bulky frame",
       "chapter": 773,
       "quote": "매직 존슨만큼이나 거대한 덩치에"
     },
     {
+      "attribute": "weapon",
+      "kind": "base",
+      "fact": "Carries a large, handsome staff",
+      "chapter": 790,
+      "quote": "매직 존슨이 그가 가진 크고 아름다운 스태프로 놈을 두들겨 패던데"
+    },
+    {
       "attribute": "eyes",
       "kind": "base",
-      "fact": "Has transparent (clear) eyes",
+      "fact": "Has clear, transparent-looking eyes that reflect others",
       "chapter": 812,
       "quote": "매직 존슨의 투명한 눈동자에 진태경이 비쳤다."
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Described as ugly (an insult from the Skeleton King)",
+      "chapter": 823,
+      "quote": "못생긴 놈이 왜 재수 없게 실실 쪼개지?"
     }
   ],
   "dropped_facts": [],
   "ranges": [
     {
       "start": 242,
-      "description": "Magic Johnson is a huge, massive, large-framed Black man with dark skin and a towering, broad build. His eyes are transparent and clear. Tags: male, Black man, dark skin, huge build, large frame, massive, transparent eyes, clear eyes",
+      "description": "Magic Johnson is a towering, large-framed Black man with dark skin and a huge, bulky build. He has clear, transparent-looking eyes and an ugly face, and carries a large, handsome staff (also wielding two staffs). Tags: male, dark skin, towering, bulky, huge frame, transparent eyes, ugly face, large staff, two staffs, mage",
       "used": [
         0,
         1,
         2,
-        3
+        3,
+        4,
+        5,
+        6,
+        7
       ]
     }
   ],
   "lines": [
-    "- **Appearance (from ch 242):** Magic Johnson is a huge, massive, large-framed Black man with dark skin and a towering, broad build. His eyes are transparent and clear. Tags: male, Black man, dark skin, huge build, large frame, massive, transparent eyes, clear eyes"
+    "- **Appearance (from ch 242):** Magic Johnson is a towering, large-framed Black man with dark skin and a huge, bulky build. He has clear, transparent-looking eyes and an ugly face, and carries a large, handsome staff (also wielding two staffs). Tags: male, dark skin, towering, bulky, huge frame, transparent eyes, ugly face, large staff, two staffs, mage"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0183842
+      "cost_usd": 0.0185382
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0191198
+      "cost_usd": 0.0187714
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0197827
+      "cost_usd": 0.0195807
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0198931
+      "cost_usd": 0.023235799999999997
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0212017
+      "cost_usd": 0.0230058
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0181289
+      "cost_usd": 0.020803
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0174442
+      "cost_usd": 0.0203719
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018649699999999998
+      "cost_usd": 0.019895000000000003
     }
   ]
 }

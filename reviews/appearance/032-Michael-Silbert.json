@@ -10,7 +10,7 @@
   ],
   "chapter_count": 72,
   "first_chapter": 735,
-  "safe_through": 736,
+  "profile_safe_through": 736,
   "passages": [
     [
       735,
@@ -23,18 +23,228 @@
     [
       736,
       92
+    ],
+    [
+      737,
+      38
+    ],
+    [
+      738,
+      42
+    ],
+    [
+      743,
+      133
+    ],
+    [
+      743,
+      79
+    ],
+    [
+      744,
+      75
+    ],
+    [
+      752,
+      64
+    ],
+    [
+      761,
+      60
+    ],
+    [
+      762,
+      46
+    ],
+    [
+      762,
+      25
+    ],
+    [
+      763,
+      81
+    ],
+    [
+      763,
+      67
+    ],
+    [
+      763,
+      53
+    ],
+    [
+      766,
+      118
+    ],
+    [
+      766,
+      70
+    ],
+    [
+      771,
+      25
+    ],
+    [
+      771,
+      44
+    ],
+    [
+      772,
+      57
+    ],
+    [
+      773,
+      66
+    ],
+    [
+      775,
+      31
+    ],
+    [
+      776,
+      108
+    ],
+    [
+      776,
+      49
+    ],
+    [
+      780,
+      47
+    ],
+    [
+      780,
+      91
+    ],
+    [
+      780,
+      82
+    ],
+    [
+      780,
+      88
+    ],
+    [
+      781,
+      40
+    ],
+    [
+      784,
+      58
+    ],
+    [
+      785,
+      53
+    ],
+    [
+      790,
+      101
+    ],
+    [
+      793,
+      55
+    ],
+    [
+      796,
+      80
+    ],
+    [
+      810,
+      91
+    ],
+    [
+      813,
+      90
+    ],
+    [
+      817,
+      89
+    ],
+    [
+      827,
+      123
     ]
   ],
-  "facts": [],
+  "facts": [
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Gray eyes",
+      "chapter": 737,
+      "quote": "놈의 회색빛 눈동자를 마주한 순간 비로소 확신했다."
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Gray eyes",
+      "chapter": 766,
+      "quote": "그의 회색빛 눈동자에 비친 뮌헨의 밤하늘은"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Has gray eyes",
+      "chapter": 780,
+      "quote": "파르르 떨리는 회색빛 눈동자를 보며 나는 확신했다."
+    },
+    {
+      "attribute": "build",
+      "kind": "change",
+      "fact": "Desiccated, mummy-like emaciated body when encountered in person",
+      "chapter": 817,
+      "quote": "미라처럼 말라붙은 모습이 처음이자 마지막이었지만"
+    }
+  ],
   "dropped_facts": [],
-  "ranges": [],
+  "ranges": [
+    {
+      "start": 735,
+      "description": "Michael Silbert is a male with gray eyes. Tags: male, gray eyes",
+      "used": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "start": 817,
+      "description": "Michael Silbert is a male with a desiccated, mummy-like emaciated body, skin dried and shriveled over thin bones, and gray eyes. Tags: male, gray eyes, emaciated, desiccated, mummy-like, withered",
+      "used": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ],
   "lines": [
-    "- **Appearance:** not described"
+    "- **Appearance (ch 735–816):** Michael Silbert is a male with gray eyes. Tags: male, gray eyes",
+    "- **Appearance (from ch 817):** Michael Silbert is a male with a desiccated, mummy-like emaciated body, skin dried and shriveled over thin bones, and gray eyes. Tags: male, gray eyes, emaciated, desiccated, mummy-like, withered"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0119269
+      "cost_usd": 0.0168441
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.014768900000000001
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0185891
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0189502
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.021748
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.019180100000000002
     }
   ]
 }

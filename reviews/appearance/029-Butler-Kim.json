@@ -8,7 +8,7 @@
   ],
   "chapter_count": 76,
   "first_chapter": 51,
-  "safe_through": 553,
+  "profile_safe_through": 553,
   "passages": [
     [
       51,
@@ -141,22 +141,81 @@
     [
       553,
       69
+    ],
+    [
+      565,
+      36
+    ],
+    [
+      565,
+      94
+    ],
+    [
+      576,
+      67
+    ],
+    [
+      576,
+      39
+    ],
+    [
+      577,
+      79
+    ],
+    [
+      578,
+      29
+    ],
+    [
+      583,
+      97
+    ],
+    [
+      585,
+      81
+    ],
+    [
+      595,
+      63
+    ],
+    [
+      596,
+      23
+    ],
+    [
+      596,
+      40
+    ],
+    [
+      597,
+      47
+    ],
+    [
+      599,
+      74
     ]
   ],
   "facts": [
     {
       "attribute": "build",
       "kind": "base",
-      "fact": "Has a sturdy, solid physique",
+      "fact": "Sturdy, solidly built physique",
       "chapter": 80,
       "quote": "제법 다부진 체격이다."
     },
     {
       "attribute": "clothing",
       "kind": "base",
-      "fact": "Wears a suit; light, simple attire for a mage, with bracelets on both wrists and a necklace (magical items)",
+      "fact": "Wears a suit; light, simple mage attire without armor or staff",
       "chapter": 80,
-      "quote": "말과 함께 정장 단추를 푸니 양 손목의 팔찌와 목걸이가 드러났다."
+      "quote": "정장 단추를 푸니"
+    },
+    {
+      "attribute": "accessories",
+      "kind": "base",
+      "fact": "Wears bracelets on both wrists and a necklace (magical items)",
+      "chapter": 80,
+      "quote": "양 손목의 팔찌와 목걸이가 드러났다"
     },
     {
       "attribute": "facial hair",
@@ -168,56 +227,97 @@
     {
       "attribute": "facial hair",
       "kind": "base",
-      "fact": "Has a well-groomed beard on the chin",
+      "fact": "Has a well-groomed beard on his chin",
       "chapter": 274,
-      "quote": "김 집사가 잘 손질된 턱수염을 쓰다듬으며 말을 이었다."
+      "quote": "잘 손질된 턱수염"
     },
     {
       "attribute": "age",
       "kind": "base",
       "fact": "Elderly man, described as old",
       "chapter": 420,
-      "quote": "나이든 김 집사만이 속을 터놓을 수 있는 유일한 상대였다."
+      "quote": "나이든 김 집사"
+    },
+    {
+      "attribute": "hair",
+      "kind": "change",
+      "fact": "Hair turned gray/white with age (frost settled on his head)",
+      "chapter": 597,
+      "quote": "집사의 머리에는 서리가 내려앉았다"
     }
   ],
   "dropped_facts": [],
   "ranges": [
     {
       "start": 51,
-      "description": "Butler Kim is a male with a sturdy, solid physique. He wears a suit, light and simple attire for a mage, with bracelets on both wrists and a necklace. Tags: male, sturdy build, solid physique, suit, bracelets on both wrists, necklace, magical accessories",
+      "description": "Butler Kim is a sturdy, solidly built man with a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff",
       "used": [
         0,
-        1
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "start": 420,
+      "description": "Butler Kim is an elderly man with a sturdy, solidly built physique and a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, elderly, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "start": 597,
+      "description": "Butler Kim is an elderly man with a sturdy, solidly built physique, gray-white hair, and a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, elderly, gray-white hair, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
       ]
     }
   ],
   "lines": [
-    "- **Appearance (from ch 51):** Butler Kim is a male with a sturdy, solid physique. He wears a suit, light and simple attire for a mage, with bracelets on both wrists and a necklace. Tags: male, sturdy build, solid physique, suit, bracelets on both wrists, necklace, magical accessories"
+    "- **Appearance (ch 51–419):** Butler Kim is a sturdy, solidly built man with a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff",
+    "- **Appearance (ch 420–596):** Butler Kim is an elderly man with a sturdy, solidly built physique and a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, elderly, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff",
+    "- **Appearance (from ch 597):** Butler Kim is an elderly man with a sturdy, solidly built physique, gray-white hair, and a well-groomed, stylishly grown beard on his chin. He wears a suit with light, simple mage attire, no armor or staff, and bracelets on both wrists plus a necklace. Tags: male, elderly, gray-white hair, sturdy build, well-groomed beard, suit, light mage attire, wrist bracelets, necklace, no armor, no staff"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0196565
+      "cost_usd": 0.0199895
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018595599999999997
+      "cost_usd": 0.014147299999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018702200000000002
+      "cost_usd": 0.0199813
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0188262
+      "cost_usd": 0.0215556
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0156642
+      "cost_usd": 0.019925099999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.021248299999999998
+      "cost_usd": 0.019515
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0231421
     }
   ]
 }

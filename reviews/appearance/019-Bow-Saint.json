@@ -8,7 +8,7 @@
   ],
   "chapter_count": 96,
   "first_chapter": 308,
-  "safe_through": 1178,
+  "profile_safe_through": 1178,
   "passages": [
     [
       922,
@@ -17,10 +17,6 @@
     [
       922,
       46
-    ],
-    [
-      922,
-      72
     ],
     [
       925,
@@ -43,28 +39,24 @@
       60
     ],
     [
-      928,
-      71
-    ],
-    [
-      928,
-      71
-    ],
-    [
-      928,
-      43
-    ],
-    [
-      928,
-      57
-    ],
-    [
       938,
       59
     ],
     [
       938,
       35
+    ],
+    [
+      939,
+      22
+    ],
+    [
+      939,
+      56
+    ],
+    [
+      939,
+      21
     ],
     [
       955,
@@ -123,10 +115,6 @@
       82
     ],
     [
-      1051,
-      87
-    ],
-    [
       1053,
       45
     ],
@@ -163,10 +151,6 @@
       158
     ],
     [
-      1097,
-      63
-    ],
-    [
       1115,
       65
     ],
@@ -187,12 +171,12 @@
       29
     ],
     [
-      1123,
-      133
+      1122,
+      62
     ],
     [
-      1132,
-      50
+      1123,
+      133
     ],
     [
       1141,
@@ -213,55 +197,56 @@
     [
       1178,
       42
+    ],
+    [
+      1179,
+      55
+    ],
+    [
+      1179,
+      41
     ]
   ],
   "facts": [
     {
-      "attribute": "eyes",
+      "attribute": "age/appearance",
       "kind": "base",
-      "fact": "Eyes curve like half-moons",
+      "fact": "Eyes curved like half-moons, with deep-set pupils",
       "chapter": 926,
-      "quote": "그녀의 반달처럼 휘어진 눈매가"
-    },
-    {
-      "attribute": "eyes",
-      "kind": "base",
-      "fact": "Eyes narrow and curve like a full moon when she smiles (narrow eye shape)",
-      "chapter": 928,
-      "quote": "어느덧 가늘어져 있던 궁성의 눈매가 보름달처럼 휘었다."
+      "quote": "그녀의 반달처럼 휘어진 눈매가, 그 안에 숨어 있는 눈동자가 깊게 가라앉아 있었다."
     },
     {
       "attribute": "hair",
       "kind": "base",
-      "fact": "Hair is fine, silky strands that flutter in the wind (섬단-like, silk-thread-like)",
+      "fact": "Hair is fine and silky like a bolt of fine silk/lustrous strands, flutters in the wind",
       "chapter": 973,
       "quote": "섬단 같은 머리카락이 휘날렸다."
     },
     {
+      "attribute": "weapon",
+      "kind": "base",
+      "fact": "Wields two curved sabers (gokdo) that join into a giant bow",
+      "chapter": 1071,
+      "quote": "두 자루의 곡도를 연결하여 거대한 활을 완성시키는"
+    },
+    {
       "attribute": "build",
       "kind": "base",
-      "fact": "Bow Saint is a giant-like figure ('giant' epithet alongside Fire King)",
-      "chapter": 1051,
-      "quote": "화왕과 궁성이라는 두 거인"
+      "fact": "Imposing, giant-like presence (described as one of two 'giants' alongside Killing Saint)",
+      "chapter": 1115,
+      "quote": "두 거인의 존재감으로"
     },
     {
       "attribute": "weapon",
       "kind": "base",
-      "fact": "Carries two curved sabers that connect into one giant bow",
-      "chapter": 1071,
-      "quote": "두 자루의 곡도를 연결하여 거대한 활을 완성시키는 궁성(弓星)"
-    },
-    {
-      "attribute": "eyes",
-      "kind": "base",
-      "fact": "Clear, brightly shining eyes",
-      "chapter": 1141,
-      "quote": "선명하게 빛나는 눈동자"
+      "fact": "Wields two curved sabers (gokdo), gripped tightly",
+      "chapter": 1123,
+      "quote": "궁성이 굳게 말아쥔 두 자루의 곡도가"
     },
     {
       "attribute": "skin",
       "kind": "base",
-      "fact": "Transparent-looking, pale skin",
+      "fact": "Transparent, pale skin",
       "chapter": 1178,
       "quote": "투명한 피부와 달리"
     },
@@ -270,22 +255,14 @@
       "kind": "base",
       "fact": "Fingers hard as steel and calloused",
       "chapter": 1178,
-      "quote": "강철처럼 단단하고 못 박힌 손가락"
+      "quote": "강철처럼 단단하고 못 박힌 손가락이"
     }
   ],
-  "dropped_facts": [
-    {
-      "attribute": "face",
-      "kind": "base",
-      "fact": "Face is pale/ashen (when exhausted) — omitted",
-      "chapter": 0,
-      "quote": ""
-    }
-  ],
+  "dropped_facts": [],
   "ranges": [
     {
       "start": 308,
-      "description": "Bow Saint is a giant-like, imposing woman with pale, transparent-looking skin. Fine, silky hair flutters in the wind, and clear, brightly shining eyes curve like half-moons, narrowing and curving like a full moon when she smiles. Her fingers are hard as steel and calloused, and she carries two curved sabers that connect into one giant bow. Tags: woman, giant-like build, pale transparent skin, fine silky hair, half-moon eyes, bright clear eyes, calloused hands, two curved sabers, giant bow",
+      "description": "Bow Saint is a woman with an imposing, giant-like presence, pale transparent skin, and fine, silky lustrous hair that flutters in the wind. Her eyes curve like half-moons with deep-set pupils. Her fingers are steel-hard and calloused, and she wields two curved sabers (gokdo) that join into a giant bow. Tags: female, imposing build, pale skin, silky hair, half-moon eyes, deep-set pupils, calloused hands, two curved sabers, giant bow",
       "used": [
         0,
         1,
@@ -293,46 +270,45 @@
         3,
         4,
         5,
-        6,
-        7
+        6
       ]
     }
   ],
   "lines": [
-    "- **Appearance (from ch 308):** Bow Saint is a giant-like, imposing woman with pale, transparent-looking skin. Fine, silky hair flutters in the wind, and clear, brightly shining eyes curve like half-moons, narrowing and curving like a full moon when she smiles. Her fingers are hard as steel and calloused, and she carries two curved sabers that connect into one giant bow. Tags: woman, giant-like build, pale transparent skin, fine silky hair, half-moon eyes, bright clear eyes, calloused hands, two curved sabers, giant bow"
+    "- **Appearance (from ch 308):** Bow Saint is a woman with an imposing, giant-like presence, pale transparent skin, and fine, silky lustrous hair that flutters in the wind. Her eyes curve like half-moons with deep-set pupils. Her fingers are steel-hard and calloused, and she wields two curved sabers (gokdo) that join into a giant bow. Tags: female, imposing build, pale skin, silky hair, half-moon eyes, deep-set pupils, calloused hands, two curved sabers, giant bow"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.019000799999999998
+      "cost_usd": 0.0193963
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018620200000000003
+      "cost_usd": 0.018664299999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019173000000000003
+      "cost_usd": 0.0192523
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0203077
+      "cost_usd": 0.022383099999999996
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0194295
+      "cost_usd": 0.0193379
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018906199999999998
+      "cost_usd": 0.0205842
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0183027
+      "cost_usd": 0.015496200000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020650500000000002
+      "cost_usd": 0.020362
     }
   ]
 }

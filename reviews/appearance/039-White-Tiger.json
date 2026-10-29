@@ -8,7 +8,7 @@
   ],
   "chapter_count": 59,
   "first_chapter": 17,
-  "safe_through": 879,
+  "profile_safe_through": 879,
   "passages": [
     [
       17,
@@ -199,88 +199,95 @@
       "quote": "눈처럼 새하얀 백호(白虎)의 갈기"
     },
     {
-      "attribute": "mane",
+      "attribute": "hair",
       "kind": "base",
       "fact": "Has a mane",
       "chapter": 623,
-      "quote": "백호의 갈기를 쓸어내렸다"
+      "quote": "백호의 갈기를 쓸어내렸다."
+    },
+    {
+      "attribute": "teeth",
+      "kind": "base",
+      "fact": "Large, sharp fangs",
+      "chapter": 632,
+      "quote": "크고 날카로운 이빨이 허공을 갈랐다."
     },
     {
       "attribute": "build",
       "kind": "base",
-      "fact": "Enormous body, about the size of ten retrievers combined",
+      "fact": "Huge body size, like ten retrievers combined",
       "chapter": 642,
       "quote": "물론 덩치는 리트리버 열 마리를 합쳐 놓은 것 같지만."
     },
     {
-      "attribute": "fur",
-      "kind": "base",
-      "fact": "Silvery, fluffy fur that looks like a silver retriever's",
-      "chapter": 642,
-      "quote": "저 정도면 백호가 아니라 실버 리트리버라고 불러야 하지 않나 싶다."
-    },
-    {
       "attribute": "eyes",
       "kind": "base",
-      "fact": "Pale blue-white eyes",
-      "chapter": 675,
-      "quote": "달빛을 머금은 청백색 눈동자에 다시 한번 기광(奇光)이 스친 그때."
-    },
-    {
-      "attribute": "eyes",
-      "kind": "base",
-      "fact": "Blue-white (pale cyan) eyes",
-      "chapter": 686,
-      "quote": "낮은 울음소리를 흘리는 백호의 청백색 눈동자"
-    },
-    {
-      "attribute": "species/build",
-      "kind": "base",
-      "fact": "Giant white tiger",
-      "chapter": 687,
-      "quote": "썩은 통나무처럼 쓰러져 숨을 헐떡이는 거대한 백호"
-    },
-    {
-      "attribute": "fur",
-      "kind": "base",
-      "fact": "Fur so white it could be called silver",
-      "chapter": 689,
-      "quote": "은빛이라 불러도 될 만큼 새하얀 털에 청백색 눈동자."
-    },
-    {
-      "attribute": "build",
-      "kind": "base",
-      "fact": "Giant tiger body, large enough to ride",
-      "chapter": 704,
-      "quote": "거대한 백호의 몸뚱어리"
-    },
-    {
-      "attribute": "eyes",
-      "kind": "base",
-      "fact": "Blue-white (pale blue) eyes",
-      "chapter": 711,
-      "quote": "청백색의 눈"
-    },
-    {
-      "attribute": "build",
-      "kind": "change",
-      "fact": "Grew far too huge to be called a cub or an ordinary tiger",
-      "chapter": 712,
-      "quote": "더 이상 새끼라 보기에도, 평범한 호랑이라 부르기에도 너무나 거대해지고"
+      "fact": "Blue-white (pale bluish) eyes",
+      "chapter": 676,
+      "quote": "청백색의 눈동자"
     },
     {
       "attribute": "eyes",
       "kind": "base",
       "fact": "Blue-white eyes",
+      "chapter": 686,
+      "quote": "백호의 청백색 눈동자"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Giant tiger, very large body",
+      "chapter": 687,
+      "quote": "거대한 백호"
+    },
+    {
+      "attribute": "fur",
+      "kind": "base",
+      "fact": "Silvery, pure white fur",
+      "chapter": 689,
+      "quote": "은빛이라 불러도 될 만큼 새하얀 털에 청백색 눈동자"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Pale blue-white eyes",
+      "chapter": 689,
+      "quote": "청백색 눈동자를 따라 고개를 돌린"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Another, smaller white tiger exists, with a comparatively small frame",
+      "chapter": 696,
+      "quote": "비교적 작은 덩치를 지닌 또 다른 백호"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Huge tiger body, large enough to carry a person on its back",
+      "chapter": 707,
+      "quote": "거대한 백호의 등 위에"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Pale blue-white eyes",
+      "chapter": 711,
+      "quote": "청백색의 눈을 들어 나를 바라보았다"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "change",
+      "fact": "Grown too huge and powerful to be called a cub or ordinary tiger; has pale blue-white eyes",
       "chapter": 712,
-      "quote": "청백색의 눈동자"
+      "quote": "청백색의 눈동자로 주위를 둘러보았다"
     }
   ],
   "dropped_facts": [],
   "ranges": [
     {
       "start": 17,
-      "description": "White Tiger is an enormous tiger with a snow-white mane and fluffy, silvery-white fur, so large it could be ridden. Pale blue-white eyes. Body is roughly ten retrievers in bulk, though the fur looks like a silver retriever's.",
+      "description": "White Tiger is a giant tiger, bigger than ten retrievers combined and large enough to carry a person on its back, with a snow-white, almost silvery coat and a thick white mane. Pale blue-white eyes, large sharp fangs. Tags: giant white tiger, snow-white fur, silvery sheen, white mane, pale blue-white eyes, sharp fangs, huge body",
       "used": [
         0,
         1,
@@ -292,53 +299,43 @@
         7,
         8,
         9,
-        10
-      ]
-    },
-    {
-      "start": 712,
-      "description": "White Tiger is a giant tiger, grown far too huge to be called a cub or an ordinary tiger, with a snow-white mane and fluffy silvery-white fur. Pale blue-white eyes. Tags: giant white tiger, snow-white mane, silvery fur, blue-white eyes, huge body",
-      "used": [
-        1,
-        4,
-        8,
         11,
-        12
+        12,
+        13
       ]
     }
   ],
   "lines": [
-    "- **Appearance (ch 17–711):** White Tiger is an enormous tiger with a snow-white mane and fluffy, silvery-white fur, so large it could be ridden. Pale blue-white eyes. Body is roughly ten retrievers in bulk, though the fur looks like a silver retriever's.",
-    "- **Appearance (from ch 712):** White Tiger is a giant tiger, grown far too huge to be called a cub or an ordinary tiger, with a snow-white mane and fluffy silvery-white fur. Pale blue-white eyes. Tags: giant white tiger, snow-white mane, silvery fur, blue-white eyes, huge body"
+    "- **Appearance (from ch 17):** White Tiger is a giant tiger, bigger than ten retrievers combined and large enough to carry a person on its back, with a snow-white, almost silvery coat and a thick white mane. Pale blue-white eyes, large sharp fangs. Tags: giant white tiger, snow-white fur, silvery sheen, white mane, pale blue-white eyes, sharp fangs, huge body"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0215726
+      "cost_usd": 0.0220586
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.025093999999999998
+      "cost_usd": 0.021470500000000003
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0228354
+      "cost_usd": 0.0226869
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0168788
+      "cost_usd": 0.0231526
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.024312999999999994
+      "cost_usd": 0.025039500000000003
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0168746
+      "cost_usd": 0.0178489
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.024064599999999995
+      "cost_usd": 0.0210718
     }
   ]
 }

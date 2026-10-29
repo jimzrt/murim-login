@@ -9,7 +9,7 @@
   ],
   "chapter_count": 54,
   "first_chapter": 5,
-  "safe_through": 681,
+  "profile_safe_through": 681,
   "passages": [
     [
       31,
@@ -100,22 +100,6 @@
       57
     ],
     [
-      303,
-      73
-    ],
-    [
-      303,
-      53
-    ],
-    [
-      303,
-      18
-    ],
-    [
-      303,
-      35
-    ],
-    [
       341,
       15
     ],
@@ -148,56 +132,88 @@
       45
     ],
     [
+      552,
+      25
+    ],
+    [
       593,
       92
+    ],
+    [
+      789,
+      27
+    ],
+    [
+      789,
+      32
+    ],
+    [
+      789,
+      19
+    ],
+    [
+      789,
+      28
+    ],
+    [
+      871,
+      33
     ]
   ],
   "facts": [
     {
       "attribute": "face",
       "kind": "base",
-      "fact": "Has a slim, oval face.",
+      "fact": "Slender, oval face",
       "chapter": 434,
       "quote": "갸름한 얼굴 하나가 나타났다"
+    },
+    {
+      "attribute": "skin",
+      "kind": "base",
+      "fact": "Glossy, radiant skin (after days of rest)",
+      "chapter": 434,
+      "quote": "피부에 윤기가 좌르르 흐르는 하연이었다"
     }
   ],
   "dropped_facts": [],
   "ranges": [
     {
       "start": 5,
-      "description": "Jin Hayeon has a slim, oval face. Tags: female, slim face, oval face",
+      "description": "Jin Hayeon has a slender, oval face with glossy, radiant skin. Tags: female, slender oval face, glossy radiant skin",
       "used": [
-        0
+        0,
+        1
       ]
     }
   ],
   "lines": [
-    "- **Appearance (from ch 5):** Jin Hayeon has a slim, oval face. Tags: female, slim face, oval face"
+    "- **Appearance (from ch 5):** Jin Hayeon has a slender, oval face with glossy, radiant skin. Tags: female, slender oval face, glossy radiant skin"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.018887300000000003
+      "cost_usd": 0.0196053
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0186235
+      "cost_usd": 0.0183822
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0180703
+      "cost_usd": 0.0178128
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020897000000000002
+      "cost_usd": 0.0196435
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0163082
+      "cost_usd": 0.0119712
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0173113
+      "cost_usd": 0.017738600000000004
     }
   ]
 }

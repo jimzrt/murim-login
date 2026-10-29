@@ -7,6 +7,5 @@
 - **Personality:** Irritable and contemptuous of Jin Taekyung's jokes.
 - **Voice:** Telepathic, terse, and easily exasperated.
 - **Relationships:** The White Tiger shared a roughly three-hundred-year friendship with Yayul Cheon and entrusted Jin Taekyung and Jeok Cheongang with killing it if corruption overcame it.
-- **Appearance (ch 17–711):** White Tiger is an enormous tiger with a snow-white mane and fluffy, silvery-white fur, so large it could be ridden. Pale blue-white eyes. Body is roughly ten retrievers in bulk, though the fur looks like a silver retriever's.
-- **Appearance (from ch 712):** White Tiger is a giant tiger, grown far too huge to be called a cub or an ordinary tiger, with a snow-white mane and fluffy silvery-white fur. Pale blue-white eyes. Tags: giant white tiger, snow-white mane, silvery fur, blue-white eyes, huge body
+- **Appearance (from ch 17):** White Tiger is a giant tiger, bigger than ten retrievers combined and large enough to carry a person on its back, with a snow-white, almost silvery coat and a thick white mane. Pale blue-white eyes, large sharp fangs. Tags: giant white tiger, snow-white fur, silvery sheen, white mane, pale blue-white eyes, sharp fangs, huge body
 - **Sources:** Korean source and accepted translation, Chapter 695

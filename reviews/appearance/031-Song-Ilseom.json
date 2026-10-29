@@ -8,7 +8,7 @@
   ],
   "chapter_count": 73,
   "first_chapter": 310,
-  "safe_through": 1191,
+  "profile_safe_through": 1191,
   "passages": [
     [
       310,
@@ -195,7 +195,7 @@
     {
       "attribute": "face",
       "kind": "base",
-      "fact": "Tall, handsome appearance",
+      "fact": "Tall and handsome appearance",
       "chapter": 310,
       "quote": "훤칠하고 잘생긴 외모의 소유자였다"
     },
@@ -209,14 +209,21 @@
     {
       "attribute": "eyes",
       "kind": "base",
-      "fact": "Fierce eyes",
+      "fact": "Fierce, sharp eyes",
       "chapter": 321,
       "quote": "사나운 눈매의 표사, 송일섬이었다."
     },
     {
       "attribute": "face",
       "kind": "base",
-      "fact": "Has a dark, gloomy-looking face",
+      "fact": "Claimed to have been extraordinarily handsome in youth, comparable to Song Yu (legendary handsome man)",
+      "chapter": 329,
+      "quote": "과장 하나 없이 송옥(宋玉)이 울고 갈 정도였다니까?"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Has a dark, gloomy-looking face, familiar to an old man",
       "chapter": 619,
       "quote": "저 컴컴하게 생긴 자는 제법 익숙한 얼굴인데"
     },
@@ -225,77 +232,69 @@
       "kind": "base",
       "fact": "Middle-aged",
       "chapter": 646,
-      "quote": "중년의 나이에, 선장을 사용한다고?"
+      "quote": "“중년의 나이에, 선장을 사용한다고?”"
     },
     {
       "attribute": "age",
       "kind": "base",
-      "fact": "Young, has reached an excellent martial level at a young age",
+      "fact": "Young age, yet reached an outstanding martial level",
       "chapter": 840,
       "quote": "젊은 나이에 뛰어난 경지에 다다른 송일섬"
     },
     {
-      "attribute": "age",
+      "attribute": "face",
       "kind": "base",
-      "fact": "Young man (청년)",
+      "fact": "Young man with a bleak, stern impression",
       "chapter": 878,
       "quote": "삭막한 인상의 청년"
-    },
-    {
-      "attribute": "weapon",
-      "kind": "base",
-      "fact": "Carries a sword",
-      "chapter": 1022,
-      "quote": "검파에 손을 얹고 있던 혁무진과 송일섬"
     }
   ],
   "dropped_facts": [],
   "ranges": [
     {
       "start": 310,
-      "description": "Song Ilseom is a tall, handsome young man with a dark, gloomy, bleak-looking face. He has thick, fierce eyebrows and sharp, fierce eyes. He carries a sword and often rests a hand on its hilt.",
+      "description": "Song Ilseom is a tall, handsome man of middle-aged apparent age, with a dark, gloomy, stern and bleak-looking face. He has thick, fierce eyebrows that rise sharply and sharp, fierce eyes. He carries a monk's staff as his weapon. Tags: male, middle-aged, tall, handsome, thick fierce eyebrows, sharp fierce eyes, dark gloomy face, stern bleak expression, monk's staff",
       "used": [
         0,
         1,
         2,
-        3,
+        4,
         5,
-        6,
         7
       ]
     }
   ],
   "lines": [
-    "- **Appearance (from ch 310):** Song Ilseom is a tall, handsome young man with a dark, gloomy, bleak-looking face. He has thick, fierce eyebrows and sharp, fierce eyes. He carries a sword and often rests a hand on its hilt."
+    "- **Appearance (from ch 310):** Song Ilseom is a tall, handsome man of middle-aged apparent age, with a dark, gloomy, stern and bleak-looking face. He has thick, fierce eyebrows that rise sharply and sharp, fierce eyes. He carries a monk's staff as his weapon. Tags: male, middle-aged, tall, handsome, thick fierce eyebrows, sharp fierce eyes, dark gloomy face, stern bleak expression, monk's staff"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.020278
+      "cost_usd": 0.020493499999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0202255
+      "cost_usd": 0.0189255
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019776500000000002
+      "cost_usd": 0.019683000000000003
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0193603
+      "cost_usd": 0.018848200000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.022101299999999997
+      "cost_usd": 0.018192200000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0177362
+      "cost_usd": 0.0134965
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018187
+      "cost_usd": 0.0202599
     }
   ]
 }

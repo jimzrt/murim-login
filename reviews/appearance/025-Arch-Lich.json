@@ -8,7 +8,7 @@
   ],
   "chapter_count": 79,
   "first_chapter": 381,
-  "safe_through": 422,
+  "profile_safe_through": 422,
   "passages": [
     [
       407,
@@ -61,22 +61,50 @@
     [
       422,
       32
+    ],
+    [
+      423,
+      63
+    ],
+    [
+      804,
+      75
     ]
   ],
-  "facts": [],
+  "facts": [
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Has a face memorable after a single viewing (distinctive, unforgettable)",
+      "chapter": 420,
+      "quote": "단 한 번 보았을 뿐이지만 잊을 수 없는 얼굴이었다."
+    }
+  ],
   "dropped_facts": [],
-  "ranges": [],
+  "ranges": [
+    {
+      "start": 381,
+      "description": "Arch Lich, a male figure with a strikingly distinctive, unforgettable face that stays in memory after a single glance. Tags: male, distinctive face, memorable features",
+      "used": [
+        0
+      ]
+    }
+  ],
   "lines": [
-    "- **Appearance:** not described"
+    "- **Appearance (from ch 381):** Arch Lich, a male figure with a strikingly distinctive, unforgettable face that stays in memory after a single glance. Tags: male, distinctive face, memorable features"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0203747
+      "cost_usd": 0.0154849
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018120400000000002
+      "cost_usd": 0.0175642
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.017601799999999997
     }
   ]
 }

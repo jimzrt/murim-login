@@ -8,7 +8,7 @@
   ],
   "chapter_count": 132,
   "first_chapter": 425,
-  "safe_through": 1148,
+  "profile_safe_through": 1148,
   "passages": [
     [
       426,
@@ -39,10 +39,6 @@
       51
     ],
     [
-      558,
-      40
-    ],
-    [
       559,
       52
     ],
@@ -55,6 +51,10 @@
       32
     ],
     [
+      568,
+      24
+    ],
+    [
       573,
       79
     ],
@@ -65,10 +65,6 @@
     [
       583,
       65
-    ],
-    [
-      597,
-      58
     ],
     [
       607,
@@ -91,16 +87,12 @@
       138
     ],
     [
+      728,
+      68
+    ],
+    [
       733,
       85
-    ],
-    [
-      734,
-      19
-    ],
-    [
-      734,
-      46
     ],
     [
       742,
@@ -115,24 +107,20 @@
       60
     ],
     [
+      751,
+      56
+    ],
+    [
+      753,
+      45
+    ],
+    [
       753,
       45
     ],
     [
       754,
       57
-    ],
-    [
-      758,
-      46
-    ],
-    [
-      764,
-      98
-    ],
-    [
-      764,
-      46
     ],
     [
       766,
@@ -151,6 +139,10 @@
       99
     ],
     [
+      771,
+      44
+    ],
+    [
       778,
       63
     ],
@@ -159,24 +151,20 @@
       75
     ],
     [
-      787,
-      50
-    ],
-    [
-      791,
-      37
-    ],
-    [
-      791,
-      38
-    ],
-    [
       793,
       93
     ],
     [
       793,
       104
+    ],
+    [
+      798,
+      78
+    ],
+    [
+      798,
+      77
     ],
     [
       802,
@@ -191,20 +179,8 @@
       124
     ],
     [
-      805,
-      39
-    ],
-    [
-      808,
-      117
-    ],
-    [
-      811,
-      88
-    ],
-    [
-      811,
-      111
+      812,
+      36
     ],
     [
       819,
@@ -233,13 +209,37 @@
     [
       1147,
       68
+    ],
+    [
+      1147,
+      57
+    ],
+    [
+      1155,
+      95
+    ],
+    [
+      1155,
+      30
+    ],
+    [
+      1158,
+      99
+    ],
+    [
+      1160,
+      62
+    ],
+    [
+      1161,
+      72
     ]
   ],
   "facts": [
     {
       "attribute": "hair",
       "kind": "base",
-      "fact": "Blond hair; appears foreign (non-Korean)",
+      "fact": "Blond hair",
       "chapter": 429,
       "quote": "금발의 외국인, 스켈레톤 킹이 득의양양한 목소리로 대답했다."
     },
@@ -253,30 +253,16 @@
     {
       "attribute": "eyes",
       "kind": "base",
-      "fact": "Golden eyes",
+      "fact": "Has golden eyes",
       "chapter": 573,
-      "quote": "금빛 눈동자"
+      "quote": "그의 금빛 눈동자에 담겼다"
     },
     {
       "attribute": "face",
       "kind": "base",
-      "fact": "Has a strikingly handsome face (crafted by a creator to suit particular tastes)",
+      "fact": "Has a strikingly handsome face, designed by Magic Johnson to suit particular tastes",
       "chapter": 728,
-      "quote": "나는 스켈레톤 킹의 저 잘생긴 얼굴이, 어떤 사람의 손을 거쳐 탄생했는지 떠올렸다."
-    },
-    {
-      "attribute": "build",
-      "kind": "base",
-      "fact": "Handsome face and body type tailored to specific tastes",
-      "chapter": 728,
-      "quote": "그냥 대충 봐도 잘생기긴 했지만, 그중에서도 특정 분야에 속한 이들의 니즈를 완벽히 충족시켜 주는 얼굴과 체형인 것이다."
-    },
-    {
-      "attribute": "head",
-      "kind": "base",
-      "fact": "Has a skull head, which he calls beautiful",
-      "chapter": 734,
-      "quote": "“두개골! 내 아름다운 두개골이!”"
+      "quote": "저 잘생긴 얼굴이"
     },
     {
       "attribute": "body",
@@ -286,32 +272,39 @@
       "quote": "인간이나 다름없는 자신의 두 손"
     },
     {
+      "attribute": "face",
+      "kind": "change",
+      "fact": "Appears as a young human with a familiar face",
+      "chapter": 770,
+      "quote": "젊은 인간이 보인다"
+    },
+    {
       "attribute": "headwear",
       "kind": "base",
-      "fact": "Wears a golden crown that radiates light",
+      "fact": "Wears a golden crown that radiates brilliant light",
       "chapter": 786,
-      "quote": "황금빛 왕관"
+      "quote": "그의 황금빛 왕관이 토해 내는 광휘가 비치고 있었다"
     },
     {
-      "attribute": "body",
+      "attribute": "face",
       "kind": "base",
-      "fact": "Undead skeleton; commands headless undead ogres and undead soldiers (no explicit physical description of his own body)",
-      "chapter": 793,
-      "quote": "스켈레톤 킹의 손짓에 머리가 사라진 세 마리의 언데드 오우거가"
+      "fact": "Considered ugly-faced (self-described as handsome in a past form, but currently has an ugly face)",
+      "chapter": 1158,
+      "quote": "가뜩이나 못생긴 얼굴로 인상 쓰지 말고."
     },
     {
-      "attribute": "hair",
+      "attribute": "eyes",
       "kind": "base",
-      "fact": "Has golden (blond) hair",
-      "chapter": 828,
-      "quote": "흩날리는 금빛 머리카락"
+      "fact": "Skull with blue ghost-fire flickering in place of eyes",
+      "chapter": 1161,
+      "quote": "눈동자 대신 시퍼런 귀화(鬼火)가 일렁이고 있는 해골을"
     }
   ],
   "dropped_facts": [],
   "ranges": [
     {
       "start": 425,
-      "description": "Skeleton King is a male undead with a skull head, wearing a radiant golden crown, and a strikingly handsome face and body type crafted to suit particular tastes. Blond golden hair, golden eyes, foreign (non-Korean) appearance. Tags: male, skeleton, skull head, golden crown, blond hair, golden eyes, handsome, foreign look, undead",
+      "description": "Skeleton King is a young-looking human man with blond hair and golden eyes. He has a strikingly handsome face, and his hands look almost human. He wears a golden crown that radiates brilliant light. Tags: male, young, blond hair, golden eyes, handsome face, human hands, golden crown, radiant light, gold motif",
       "used": [
         0,
         1,
@@ -319,46 +312,55 @@
         3,
         4,
         5,
+        6
+      ]
+    },
+    {
+      "start": 1158,
+      "description": "Skeleton King is a skull-faced man with an ugly, scowling face. Blue ghost-fire flickers in the eye sockets in place of eyes. He wears a golden crown that radiates brilliant light. Tags: male, skull, ugly face, blue ghost-fire eyes, golden crown, radiant light, gold and blue motif",
+      "used": [
+        6,
         7,
-        9
+        8
       ]
     }
   ],
   "lines": [
-    "- **Appearance (from ch 425):** Skeleton King is a male undead with a skull head, wearing a radiant golden crown, and a strikingly handsome face and body type crafted to suit particular tastes. Blond golden hair, golden eyes, foreign (non-Korean) appearance. Tags: male, skeleton, skull head, golden crown, blond hair, golden eyes, handsome, foreign look, undead"
+    "- **Appearance (ch 425–1157):** Skeleton King is a young-looking human man with blond hair and golden eyes. He has a strikingly handsome face, and his hands look almost human. He wears a golden crown that radiates brilliant light. Tags: male, young, blond hair, golden eyes, handsome face, human hands, golden crown, radiant light, gold motif",
+    "- **Appearance (from ch 1158):** Skeleton King is a skull-faced man with an ugly, scowling face. Blue ghost-fire flickers in the eye sockets in place of eyes. He wears a golden crown that radiates brilliant light. Tags: male, skull, ugly face, blue ghost-fire eyes, golden crown, radiant light, gold and blue motif"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.019377000000000002
+      "cost_usd": 0.022290900000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0225664
+      "cost_usd": 0.018519
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0219554
+      "cost_usd": 0.0218857
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0190185
+      "cost_usd": 0.023538599999999996
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.024596800000000002
+      "cost_usd": 0.0147469
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0158043
+      "cost_usd": 0.0180875
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.023325000000000002
+      "cost_usd": 0.0206463
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020636500000000002
+      "cost_usd": 0.026063199999999998
     }
   ]
 }

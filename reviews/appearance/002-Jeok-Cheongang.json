@@ -9,7 +9,7 @@
   ],
   "chapter_count": 484,
   "first_chapter": 124,
-  "safe_through": 1025,
+  "profile_safe_through": 1025,
   "passages": [
     [
       172,
@@ -40,16 +40,8 @@
       57
     ],
     [
-      247,
-      87
-    ],
-    [
-      258,
-      78
-    ],
-    [
-      258,
-      57
+      262,
+      30
     ],
     [
       263,
@@ -68,16 +60,12 @@
       57
     ],
     [
+      323,
+      34
+    ],
+    [
       367,
       74
-    ],
-    [
-      435,
-      77
-    ],
-    [
-      435,
-      35
     ],
     [
       438,
@@ -108,10 +96,6 @@
       60
     ],
     [
-      502,
-      36
-    ],
-    [
       518,
       45
     ],
@@ -134,18 +118,6 @@
     [
       544,
       26
-    ],
-    [
-      547,
-      45
-    ],
-    [
-      551,
-      48
-    ],
-    [
-      710,
-      32
     ],
     [
       712,
@@ -180,10 +152,6 @@
       134
     ],
     [
-      891,
-      150
-    ],
-    [
       910,
       66
     ],
@@ -196,28 +164,8 @@
       30
     ],
     [
-      926,
-      85
-    ],
-    [
-      938,
-      29
-    ],
-    [
-      945,
-      83
-    ],
-    [
       972,
       71
-    ],
-    [
-      972,
-      70
-    ],
-    [
-      977,
-      61
     ],
     [
       988,
@@ -232,202 +180,243 @@
       68
     ],
     [
-      999,
+      1017,
+      72
+    ],
+    [
+      1024,
+      120
+    ],
+    [
+      1035,
       50
+    ],
+    [
+      1045,
+      76
+    ],
+    [
+      1045,
+      42
+    ],
+    [
+      1047,
+      88
+    ],
+    [
+      1053,
+      64
+    ],
+    [
+      1076,
+      67
+    ],
+    [
+      1093,
+      37
+    ],
+    [
+      1112,
+      84
+    ],
+    [
+      1186,
+      66
+    ],
+    [
+      1186,
+      45
+    ],
+    [
+      1188,
+      35
+    ],
+    [
+      1190,
+      78
     ]
   ],
   "facts": [
     {
       "attribute": "eyebrows",
       "kind": "base",
-      "fact": "White eyebrows",
+      "fact": "Has white eyebrows",
       "chapter": 172,
       "quote": "흰 눈썹이 반달처럼 휘어졌다"
     },
     {
       "attribute": "build",
       "kind": "base",
-      "fact": "Small, slight frame; ragged clothing",
+      "fact": "Small, slight build",
       "chapter": 192,
       "quote": "남루한 옷차림에 왜소한 체구였지만"
     },
     {
       "attribute": "age",
       "kind": "change",
-      "fact": "Face visibly aged, looks much older",
+      "fact": "Face has suddenly aged noticeably",
       "chapter": 235,
       "quote": "적천강의 얼굴은 부쩍 늙어 있었다"
     },
     {
-      "attribute": "apparent age",
+      "attribute": "age/build",
       "kind": "base",
-      "fact": "Appears as an old man (elderly)",
-      "chapter": 435,
-      "quote": "천연덕스럽게 입꼬리를 말아 올린 노인"
-    },
-    {
-      "attribute": "build",
-      "kind": "base",
-      "fact": "Small, short elderly man",
+      "fact": "Small-statured old man",
       "chapter": 438,
-      "quote": "자그마한 노인"
+      "quote": "눈앞의 자그마한 노인은"
     },
     {
       "attribute": "eyes",
       "kind": "base",
-      "fact": "Clear, transparent eyes",
+      "fact": "Clear, transparent-looking eyes",
       "chapter": 438,
-      "quote": "투명하고 맑은 눈동자"
+      "quote": "그 어느 때보다 투명하고 맑은 눈동자로 문경을 바라보며"
     },
     {
       "attribute": "face",
       "kind": "base",
-      "fact": "Fierce, bad-looking face; looks like a wrathful demon when frowning",
+      "fact": "Naturally harsh, fierce-looking face",
       "chapter": 444,
-      "quote": "가뜩이나 인상이 나쁜데"
+      "quote": "가뜩이나 인상이 나쁜데 얼굴까지 찌푸리니 흉신 악살이 따로 없었다."
     },
     {
       "attribute": "age",
       "kind": "change",
-      "fact": "Visibly aged: old man with wrinkled face",
-      "chapter": 472,
-      "quote": "감출 수 없는 세월이 서린 노인의 주름진 얼굴"
+      "fact": "Aged from youth through middle age to old man over a long span of time",
+      "chapter": 471,
+      "quote": "소년이 청년으로, 청년이 중년으로, 마침내 노인이 되기까지는 실로 장구한 세월이 걸렸다."
     },
     {
-      "attribute": "age",
+      "attribute": "face",
+      "kind": "change",
+      "fact": "Elderly, with a wrinkled face bearing the marks of time",
+      "chapter": 472,
+      "quote": "감출 수 없는 세월이 서린 노인의 주름진 얼굴에는 미소가 가득했다."
+    },
+    {
+      "attribute": "facial hair",
       "kind": "base",
-      "fact": "Appears middle-aged",
+      "fact": "Middle-aged man with a beard on his chin",
       "chapter": 518,
       "quote": "옷소매로 턱수염을 문질러 닦은 중년인, 화왕 적천강이"
     },
     {
-      "attribute": "facial hair",
-      "kind": "base",
-      "fact": "Has a beard",
-      "chapter": 518,
-      "quote": "옷소매로 턱수염을 문질러 닦은 중년인"
-    },
-    {
       "attribute": "eyebrows",
       "kind": "base",
-      "fact": "Red eyebrows",
+      "fact": "Has red eyebrows",
       "chapter": 535,
       "quote": "적천강의 붉은 눈썹이 파르르 떨렸다."
     },
     {
-      "attribute": "facial hair",
+      "attribute": "beard",
       "kind": "base",
-      "fact": "Dark red beard",
+      "fact": "Has a dark-red beard",
       "chapter": 544,
       "quote": "적천강이 검붉은 수염을 쓰다듬으며 말을 이었다."
     },
     {
       "attribute": "hair",
-      "kind": "base",
-      "fact": "Bald head that shines in sunlight",
+      "kind": "change",
+      "fact": "Bald head, shining in sunlight",
       "chapter": 715,
-      "quote": "햇빛을 받아 번쩍거리는 그의 대머리"
+      "quote": "햇빛을 받아 번쩍거리는 그의 대머리는 태양권을 패시브 스킬로 쓰고 있었다."
     },
     {
       "attribute": "build",
       "kind": "base",
       "fact": "Small, slight frame",
       "chapter": 795,
-      "quote": "왜소한 체구의 적천강"
+      "quote": "왜소한 체구의 적천강만 봐도 알 수 있듯이"
     },
     {
       "attribute": "hair",
       "kind": "base",
-      "fact": "Red hair",
+      "fact": "Middle-aged man with red hair",
       "chapter": 840,
-      "quote": "붉은 머리카락의 중년인, 적천강"
+      "quote": "붉은 머리카락의 중년인, 적천강이"
     },
     {
-      "attribute": "apparent age",
-      "kind": "change",
-      "fact": "Body has been rejuvenated to a youthful state, though his gaze still carries the weight of his years.",
-      "chapter": 938,
-      "quote": "비록 몸은 젊어졌으나 눈빛에 담긴 세월만은 여전하다."
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Towering disciple, head-and-a-half or more taller than master, large frame",
+      "chapter": 972,
+      "quote": "머리 서너 개는 더 큰 덩치의 제자가"
     },
     {
       "attribute": "hair",
       "kind": "change",
-      "fact": "Hair growing back in recently, like spring sprouts (previously bald/shaven)",
-      "chapter": 945,
-      "quote": "최근 들어 봄철 새싹처럼 슬금슬금 고개를 내미는 머리카락을"
+      "fact": "Hair turned pure white",
+      "chapter": 988,
+      "quote": "어느덧 새하얀 백발이 되어 버린 그를"
     }
   ],
   "dropped_facts": [],
   "ranges": [
     {
       "start": 124,
-      "description": "Jeok Cheongang is a small, slight elderly man with a wrinkled, aged face, a fierce and ill-tempered look that turns demon-like when he frowns, and clear, transparent eyes. He has a bald head that shines in sunlight, red eyebrows and a dark red beard, and wears ragged clothing. Tags: elderly man, small slight frame, wrinkled face, fierce scowl, clear eyes, bald head, red eyebrows, dark red beard, ragged clothes",
+      "description": "Jeok Cheongang is a small, slight-framed middle-aged man with a naturally harsh, fierce-looking face that turns menacing when he frowns. He has red hair, red eyebrows, a dark-red beard on his chin, and clear, transparent-looking eyes. Tags: male, middle-aged, small slight build, red hair, red eyebrows, dark-red beard, clear eyes, harsh fierce face",
       "used": [
         1,
-        2,
-        3,
         4,
         5,
-        6,
-        7,
+        8,
+        9,
         10,
-        11,
         12,
         13
       ]
     },
     {
-      "start": 938,
-      "description": "Jeok Cheongang is a small, slight man with a youthful body, clear, transparent eyes and a steady, weighty gaze. His face is fierce and ill-tempered, looking like a wrathful demon when he frowns. He has red eyebrows and a dark red beard. His once-bald head now shows short new hair sprouting like spring shoots. Tags: youthful body, small slight frame, clear eyes, fierce face, red eyebrows, dark red beard, short sprouting hair, ragged clothes",
+      "start": 988,
+      "description": "Jeok Cheongang is a small, slight-framed man whose hair has turned pure white. He keeps his red eyebrows, dark-red chin beard and clear, transparent-looking eyes. His face is naturally harsh and fierce-looking. Tags: male, small slight build, pure white hair, red eyebrows, dark-red beard, clear eyes, harsh fierce face",
       "used": [
         1,
         4,
         5,
-        6,
+        8,
+        9,
         10,
-        11,
-        13,
-        15,
-        16
+        12,
+        15
       ]
     }
   ],
   "lines": [
-    "- **Appearance (ch 124–937):** Jeok Cheongang is a small, slight elderly man with a wrinkled, aged face, a fierce and ill-tempered look that turns demon-like when he frowns, and clear, transparent eyes. He has a bald head that shines in sunlight, red eyebrows and a dark red beard, and wears ragged clothing. Tags: elderly man, small slight frame, wrinkled face, fierce scowl, clear eyes, bald head, red eyebrows, dark red beard, ragged clothes",
-    "- **Appearance (from ch 938):** Jeok Cheongang is a small, slight man with a youthful body, clear, transparent eyes and a steady, weighty gaze. His face is fierce and ill-tempered, looking like a wrathful demon when he frowns. He has red eyebrows and a dark red beard. His once-bald head now shows short new hair sprouting like spring shoots. Tags: youthful body, small slight frame, clear eyes, fierce face, red eyebrows, dark red beard, short sprouting hair, ragged clothes"
+    "- **Appearance (ch 124–987):** Jeok Cheongang is a small, slight-framed middle-aged man with a naturally harsh, fierce-looking face that turns menacing when he frowns. He has red hair, red eyebrows, a dark-red beard on his chin, and clear, transparent-looking eyes. Tags: male, middle-aged, small slight build, red hair, red eyebrows, dark-red beard, clear eyes, harsh fierce face",
+    "- **Appearance (from ch 988):** Jeok Cheongang is a small, slight-framed man whose hair has turned pure white. He keeps his red eyebrows, dark-red chin beard and clear, transparent-looking eyes. His face is naturally harsh and fierce-looking. Tags: male, small slight build, pure white hair, red eyebrows, dark-red beard, clear eyes, harsh fierce face"
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.020553800000000004
+      "cost_usd": 0.0245873
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0246442
+      "cost_usd": 0.024520200000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0214522
+      "cost_usd": 0.0225748
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.016832899999999998
+      "cost_usd": 0.0216295
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020798399999999998
+      "cost_usd": 0.020262699999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0241167
+      "cost_usd": 0.019648699999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019164699999999996
+      "cost_usd": 0.0187102
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0325971
+      "cost_usd": 0.0315519
     }
   ]
 }
