@@ -7,4 +7,5 @@
 - **Personality:** Duty-bound, pragmatic, and observant; uses theatrical violence to protect intelligence work and takes a veteran’s concern for the younger generation’s resolve.
 - **Voice:** Measured and reflective when advising the younger generation, loudly abusive when maintaining his local cover, and capable of theatrical boasts and dry humor.
 - **Relationships:** Namho is a Hidden Shadow Pavilion contact for Jin Taekyung and the Fire Dragon Pavilion, receives intelligence from the Pavilion Master, and knows the code used by the Thousand-Faced Fox.
+- **Appearance (as of ch 633):** An elderly man with skin tanned dark by the southern sun and distinctive, distinctly non-Han features. Tags: elderly man, dark tanned skin, non-Han features, Nanman
 - **Sources:** Korean source and accepted translation, Chapter 620

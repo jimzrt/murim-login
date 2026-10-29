@@ -7,4 +7,5 @@
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** Served by the Grand Sorceress, the Blood Lord, and the Blood-Sword Demon Lord.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 260

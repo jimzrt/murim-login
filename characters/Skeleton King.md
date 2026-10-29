@@ -7,4 +7,5 @@
 - **Personality:** Boastful and quick to trade teasing insults with Taekyung, but openly glad to see him again.
 - **Voice:** He speaks in blunt, boastful casual language and trades teasing insults with Taekyung.
 - **Relationships:** Taekyung is his friend and ally; he joins the Hunters in fighting the monsters at the bomb shelter.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 425

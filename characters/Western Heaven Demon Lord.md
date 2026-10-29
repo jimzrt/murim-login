@@ -7,4 +7,5 @@
 - **Personality:** Cold, detached, patient, and utterly ruthless toward those he interrogates or hunts.
 - **Voice:** Controlled and dispassionate, with concise statements delivered in a quiet, threatening tone.
 - **Relationships:** Tang Taesang and the Heaven-Shaking Venerable Nun were his latest victims, he lost one arm taking their lives, and the Qilian Three Fiends now submit to him alongside his hundreds of black-robed hunters.
+- **Appearance (as of ch 361):** Plain face and build, with the apparent age of a common middle-aged man. Tags: middle-aged man, plain face, ordinary build
 - **Sources:** Korean source and accepted translation, Chapter 347

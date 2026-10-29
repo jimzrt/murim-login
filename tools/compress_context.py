@@ -9,13 +9,17 @@ from pathlib import Path
 try:
     from tools.context import ROOT, load_active_context, workflow_config
     from tools.model_io import parse_json_object
-    from tools.names import profile_gender, set_profile_gender
+    from tools.names import (
+        profile_appearance, profile_gender, set_profile_appearance, set_profile_gender, strip_appearance,
+    )
     from tools.run_lock import hold_run_lock
     from tools.workflow import atomic_json, atomic_text, project_config, run_omp
 except ModuleNotFoundError:
     from context import ROOT, load_active_context, workflow_config
     from model_io import parse_json_object
-    from names import profile_gender, set_profile_gender
+    from names import (
+        profile_appearance, profile_gender, set_profile_appearance, set_profile_gender, strip_appearance,
+    )
     from run_lock import hold_run_lock
     from workflow import atomic_json, atomic_text, project_config, run_omp
 
@@ -24,9 +28,11 @@ FIELDS = ("Safe through", "Aliases", "Role", "Personality", "Voice", "Relationsh
 
 def oversized_profiles(limit: int | None = None) -> list[tuple[Path, str]]:
     threshold = int(workflow_config().get("profile_compress_trigger_bytes", 4096))
-    profiles = [(path, path.read_text(encoding="utf-8").strip())
+    # The Appearance line is owned by tools/appearance_pass.py; it never counts toward the budget.
+    profiles = [(path, text.strip())
                 for path in sorted((ROOT / "characters").glob("*.md"))
-                if path.stat().st_size > threshold]
+                for text in [path.read_text(encoding="utf-8")]
+                if len(strip_appearance(text).encode("utf-8")) > threshold]
     return profiles if limit is None else profiles[:limit]
 
 def context_compression_due() -> bool:
@@ -49,7 +55,7 @@ def compression_due() -> bool:
 def build_packet(number: int, profiles: list[tuple[Path, str]]) -> str:
     cfg = workflow_config()
     context = load_active_context(number, enforce_max_bytes=False)
-    body = "\n\n".join(f"### {path.relative_to(ROOT)}\n\n{text}" for path, text in profiles) or "(None.)"
+    body = "\n\n".join(f"### {path.relative_to(ROOT)}\n\n{strip_appearance(text)}" for path, text in profiles) or "(None.)"
     return f"""# Context Compression Task
 
 Return exactly one JSON object and no Markdown fence. Remove stale recaps,
@@ -112,7 +118,7 @@ def compress_one(number: int, profile: tuple[Path, str]) -> tuple[dict, dict[str
     context, replacements = validate(
         parse_json_object(raw), number - 1, {str(profile[0].relative_to(ROOT))}
     )
-    return context, preserve_gender(profile, replacements)
+    return context, preserve_appearance(profile, preserve_gender(profile, replacements))
 
 
 def preserve_gender(profile: tuple[Path, str], replacements: dict[str, str]) -> dict[str, str]:
@@ -121,6 +127,12 @@ def preserve_gender(profile: tuple[Path, str], replacements: dict[str, str]) -> 
     if gender == "unknown" and "- **Gender:**" not in profile[1]:
         return replacements
     return {path: set_profile_gender(text, gender) for path, text in replacements.items()}
+
+
+def preserve_appearance(profile: tuple[Path, str], replacements: dict[str, str]) -> dict[str, str]:
+    """Compression never drops, rewrites, or invents the Appearance line."""
+    line = profile_appearance(profile[1])
+    return {path: set_profile_appearance(text, line) for path, text in replacements.items()}
 
 
 def run_compression(number: int, *, workers: int = 1) -> list[str]:

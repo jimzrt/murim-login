@@ -7,4 +7,5 @@
 - **Personality:** Calm and politically capable, Jin Wikyung takes responsibility for his people and prioritizes their lives; with his younger brothers, he is openly affectionate and markedly overprotective.
 - **Voice:** Restrained, formal, and commanding with subordinates; openly affectionate, proud, and occasionally exuberant with Taekyung.
 - **Relationships:** Jin Wikyung is Taekyung’s eldest brother and future Family Head, protects and mentors him, and commands the Jin Family’s forces; Jin Mukyung is his younger brother, and he considers the Jin Family indebted to the Dongting Fisherman and the other fallen defenders of Shanxi.
+- **Appearance (as of ch 10):** Jin Wikyung is a man of apparent age thirty-five with a bulky, bear-like physique. Tags: male, mid-thirties, bulky build, bear-like physique
 - **Sources:** Korean source and accepted translation, Chapters 6, 8, 10–25, 32–34, 36–37, 55–62, and current durable context through Chapter 318

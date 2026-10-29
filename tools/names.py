@@ -16,6 +16,8 @@ ALIAS_LINE = re.compile(r"^- \*\*Aliases:\*\*\s*(.+)$")
 ALIAS_PAIR = re.compile(r"([^;,(]+?)\s*\(([가-힣]+(?: [가-힣]+)*)\)")
 GENDER_LINE = re.compile(r"^- \*\*Gender:\*\*\s*(.*)$", re.MULTILINE)
 GENDERS = ("female", "male", "unknown")
+# `- **Appearance (as of ch N):** text` or `- **Appearance:** not described`.
+APPEARANCE_LINE = re.compile(r"^- \*\*Appearance(?: \(as of ch (\d+)\))?:\*\*.*$", re.MULTILINE)
 
 CHOSEONG = ["g", "kk", "n", "d", "tt", "r", "m", "b", "pp", "s", "ss", "", "j", "jj", "ch", "k", "t", "p", "h"]
 JUNGSEONG = [
@@ -114,6 +116,35 @@ def set_profile_gender(body: str, gender: str) -> str:
     lines.insert(anchor + 1, line)
     text = "\n".join(lines)
     return text + "\n" if body.endswith("\n") else text
+
+
+def profile_appearance(body: str) -> str | None:
+    """The full Appearance line, or None when the profile has none."""
+    match = APPEARANCE_LINE.search(body)
+    return match.group(0) if match else None
+
+
+def strip_appearance(body: str) -> str:
+    """Body without its Appearance line (generated tools never see or edit it)."""
+    kept = [line for line in body.split("\n") if not APPEARANCE_LINE.match(line)]
+    return "\n".join(kept)
+
+
+def set_profile_appearance(body: str, line: str | None) -> str:
+    """Write exactly one Appearance line after Relationships (else before Sources, else at the end)."""
+    body = strip_appearance(body)
+    if line is None:
+        return body
+    lines = body.rstrip("\n").splitlines()
+    anchor = None
+    for index, text in enumerate(lines):
+        if text.startswith("- **Relationships:**"):
+            anchor = index + 1
+            break
+    if anchor is None:
+        anchor = next((i for i, t in enumerate(lines) if t.startswith("- **Sources:**")), len(lines))
+    lines.insert(anchor, line)
+    return "\n".join(lines) + "\n"
 
 
 def _row(korean: str, english: str, note: str = "") -> dict:

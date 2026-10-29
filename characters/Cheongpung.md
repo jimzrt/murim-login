@@ -7,4 +7,5 @@
 - **Personality:** Affable, dreamy, and childlike, with innocent curiosity, a deep love of martial arts, and compassion; guided by his grandfather’s righteousness and Taekyung’s chivalry, he meets danger with resolve and trusts Taekyung without wavering.
 - **Voice:** Dreamy and hazy, with innocent, polite phrasing; he has begun imitating Taekyung's profanity.
 - **Relationships:** Mae Jonghak is his grandfather and martial instructor, Baek Museong is his Martial Nephew, and Jin Taekyung and Hyuk Mujin are his Benefactors and companions; Taekyung is his true martial rival and the person whose way of life he admires, and the Slaughter Saint is his mentor in concealment and Ghost Illusory Slaughter Step.
+- **Appearance (as of ch 157):** Cheongpung appears as a young man of average, moderate build with an affable, friendly face and clear, bright eyes. Tags: young man, average build, friendly face, clear bright eyes
 - **Sources:** Korean source and accepted translation, Chapter 131

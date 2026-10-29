@@ -7,4 +7,5 @@
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** Commanded the monster army that was routed when he fell.
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 1
