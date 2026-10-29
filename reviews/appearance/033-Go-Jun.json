@@ -10,7 +10,60 @@
   "chapter_count": 70,
   "first_chapter": 285,
   "profile_safe_through": 795,
-  "passages": [],
+  "passages": [
+    [
+      286,
+      44
+    ],
+    [
+      299,
+      75
+    ],
+    [
+      431,
+      68
+    ],
+    [
+      569,
+      45
+    ],
+    [
+      578,
+      53
+    ],
+    [
+      592,
+      58
+    ],
+    [
+      593,
+      88
+    ],
+    [
+      593,
+      53
+    ],
+    [
+      594,
+      89
+    ],
+    [
+      595,
+      131
+    ],
+    [
+      601,
+      63
+    ],
+    [
+      601,
+      72
+    ],
+    [
+      606,
+      41
+    ]
+  ],
   "facts": [
     {
       "attribute": "age",
@@ -19,12 +72,13 @@
       "quote": "칠순이 되어가는 나이임에도 40대로 보일 만큼 젊은 외모.",
       "marker": false,
       "verdict": {
-        "this_character": true,
+        "subject": "석고준",
+        "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Literal description of Go Jun's youthful look for his age; ongoing state, not a change in this scene."
+        "reason": "Description follows 이정룡 entering (석고준's face vanished, a man stepped in; then '이정룡.'). Look of 40s despite near-70 belongs to Lee Jeong-ryong, not Go Jun. Also an ordinary unchanged look."
       },
-      "status": "kept"
+      "status": "rejected"
     },
     {
       "attribute": "face",
@@ -53,10 +107,11 @@
       "quote": "깊게 가라앉은 어두컴컴한 안광과 메마른 목소리.",
       "marker": false,
       "verdict": {
+        "subject": "석고준",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Darker gaze and gloomier impression after defeat; a mood/demeanor shift, not a drastic physical change."
+        "reason": "Named; sunken dark gaze and hoarse voice after defeat is a present state. But only a gloomier impression, not a drastic change like age jump, lost limb, or color change."
       },
       "status": "kept"
     },
@@ -77,12 +132,7 @@
       "chapter": 555,
       "quote": "석고준의 붉은 눈동자에",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Red eyes reflecting the politician; plain present description, no change shown."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -93,10 +143,11 @@
       "quote": "30대의 새파란 청년",
       "marker": false,
       "verdict": {
+        "subject": "석고준",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Go Jun described as a young man in his 30s taking over the guild; ordinary description, no change."
+        "reason": "Go Jun is the 30s young man inheriting the guild. Established look, no change shown here."
       },
       "status": "kept"
     },
@@ -127,27 +178,17 @@
       "chapter": 587,
       "quote": "석고준의 붉은 눈동자에 고스란히 비쳤다",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Red eyes reflecting Go Sewon; plain present description."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
       "attribute": "eyes",
       "kind": "base",
-      "fact": "Eyes are naturally red, deepening in colour",
+      "fact": "Has red eyes, which deepen in color when provoked",
       "chapter": 592,
       "quote": "안 그래도 붉은 눈동자가 더욱 진하게 물들어 간다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Eyes already red and deepen in colour in the moment (anger/power); a one-scene state, not a lasting change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -169,88 +210,92 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "After mutation, Go Jun has Troll-like regeneration: flesh and bone regrow quickly at severed leg stumps after both legs were blown off",
+      "chapter": 594,
+      "quote": "잘려 나간 단면에서 살과 뼈가 빠르게 재생된다",
+      "marker": true,
+      "verdict": {
+        "subject": "석고준",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Named Go Jun; legs blown off and flesh/bone regrow fast, shown as real. Troll-like regeneration from mutation is a lasting transformation revealed here (hybrid monster)."
+      },
+      "status": "approved-change"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
+  "rejected": [
+    0
+  ],
   "judgments": {
     "286|칠순이되어가는나이임에도40대로보일만큼젊은외모.": {
-      "this_character": true,
+      "subject": "석고준",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Literal description of Go Jun's youthful look for his age; ongoing state, not a change in this scene."
+      "reason": "Description follows 이정룡 entering (석고준's face vanished, a man stepped in; then '이정룡.'). Look of 40s despite near-70 belongs to Lee Jeong-ryong, not Go Jun. Also an ordinary unchanged look."
     },
     "405|깊게가라앉은어두컴컴한안광과메마른목소리.": {
+      "subject": "석고준",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Darker gaze and gloomier impression after defeat; a mood/demeanor shift, not a drastic physical change."
-    },
-    "555|석고준의붉은눈동자에": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Red eyes reflecting the politician; plain present description, no change shown."
+      "reason": "Named; sunken dark gaze and hoarse voice after defeat is a present state. But only a gloomier impression, not a drastic change like age jump, lost limb, or color change."
     },
     "564|30대의새파란청년": {
+      "subject": "석고준",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Go Jun described as a young man in his 30s taking over the guild; ordinary description, no change."
+      "reason": "Go Jun is the 30s young man inheriting the guild. Established look, no change shown here."
     },
-    "587|석고준의붉은눈동자에고스란히비쳤다": {
+    "594|잘려나간단면에서살과뼈가빠르게재생된다": {
+      "subject": "석고준",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": false,
-      "reason": "Red eyes reflecting Go Sewon; plain present description."
-    },
-    "592|안그래도붉은눈동자가더욱진하게물들어간다.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Eyes already red and deepen in colour in the moment (anger/power); a one-scene state, not a lasting change."
+      "lasting_change": true,
+      "reason": "Named Go Jun; legs blown off and flesh/bone regrow fast, shown as real. Troll-like regeneration from mutation is a lasting transformation revealed here (hybrid monster)."
     }
   },
-  "conflicts": [
+  "conflicts": [],
+  "unused": [],
+  "timeline_events": [
     {
-      "attribute": "apparent age",
-      "indices": [
-        0,
-        6
-      ],
-      "kept": [
-        0
-      ],
-      "resolved": false,
-      "reason": "Each side has a single mention (40s in ch286, 30s in ch564), so the evidence is about equal. Kept the earlier quote."
-    },
-    {
-      "attribute": "eye appearance",
-      "indices": [
-        3,
-        5,
-        9,
-        10
-      ],
-      "kept": [
-        5,
-        9,
-        10
-      ],
-      "resolved": true,
-      "reason": "Red eyes are repeated in three chapters and called natural. The sunken, dark gaze is a single mention."
+      "chapter": 594,
+      "change": "human Vice Guild Master -> grotesque hybrid monster with Troll-like regeneration (limbs regrow after being blown off)",
+      "cause": "absorbed multiple S-grade Magic Gems and mutated",
+      "sure": true
     }
   ],
-  "unused": [],
+  "timeline": [
+    {
+      "chapter": 594,
+      "change": "human Vice Guild Master -> grotesque hybrid monster with Troll-like regeneration (limbs regrow after being blown off)",
+      "cause": "absorbed multiple S-grade Magic Gems and mutated",
+      "sure": true,
+      "facts": [
+        13
+      ],
+      "verified": true
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 285,
-      "description": "Go Jun is a man who looks about forty, with a stiff, expressionless face and a square, angular, rock-hard jaw. His eyes are red. He habitually wears an old, worn necklace and a faintly red-glowing armor, the Fire Dragon Armor (Hwaryongap), and a red aura shimmers like heat haze around him. Tags: male, appears 40s, expressionless, stiff face, square jaw, red eyes, old worn necklace, Fire Dragon Armor, faint red glow, red aura",
+      "description": "Go Jun is a man who looks to be in his 30s, with a stiff, expressionless, hard-looking face and a square, angular jaw that is extremely hard. His red eyes are sunken and dark, giving him a gloomy look. He wears the faintly red-glowing Fire Dragon Armor (Hwaryongap), an old worn necklace around his neck, and emits a red aura. Tags: male, 30s look, expressionless, stiff face, square jaw, sunken red eyes, gloomy, red aura, faint red-glowing armor, Fire Dragon Armor, worn necklace",
       "used": [
-        0,
         1,
         2,
+        3,
+        4,
         5,
+        6,
         7,
         8,
         9,
@@ -259,25 +304,51 @@
         12
       ],
       "difference": ""
+    },
+    {
+      "start": 594,
+      "description": "Go Jun is now a grotesque hybrid monster, mutated after absorbing multiple S-grade Magic Gems. His body has Troll-like regeneration, so flesh and bone regrow quickly at severed stumps. He keeps the stiff face with square, angular jaw, the sunken red eyes, the red aura, the faintly red-glowing Fire Dragon Armor and the old worn necklace. Tags: male, grotesque hybrid monster, mutated, Troll-like regeneration, regrowing flesh and bone, square jaw, sunken red eyes, red aura, faint red-glowing armor, worn necklace",
+      "used": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "difference": "human-looking man in his 30s -> grotesque hybrid monster with Troll-like regeneration"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 285):** Go Jun is a man who looks about forty, with a stiff, expressionless face and a square, angular, rock-hard jaw. His eyes are red. He habitually wears an old, worn necklace and a faintly red-glowing armor, the Fire Dragon Armor (Hwaryongap), and a red aura shimmers like heat haze around him. Tags: male, appears 40s, expressionless, stiff face, square jaw, red eyes, old worn necklace, Fire Dragon Armor, faint red glow, red aura"
+    "- **Appearance (ch 285–593):** Go Jun is a man who looks to be in his 30s, with a stiff, expressionless, hard-looking face and a square, angular jaw that is extremely hard. His red eyes are sunken and dark, giving him a gloomy look. He wears the faintly red-glowing Fire Dragon Armor (Hwaryongap), an old worn necklace around his neck, and emits a red aura. Tags: male, 30s look, expressionless, stiff face, square jaw, sunken red eyes, gloomy, red aura, faint red-glowing armor, Fire Dragon Armor, worn necklace",
+    "- **Appearance (from ch 594):** Go Jun is now a grotesque hybrid monster, mutated after absorbing multiple S-grade Magic Gems. His body has Troll-like regeneration, so flesh and bone regrow quickly at severed stumps. He keeps the stiff face with square, angular jaw, the sunken red eyes, the red aura, the faintly red-glowing Fire Dragon Armor and the old worn necklace. Tags: male, grotesque hybrid monster, mutated, Troll-like regeneration, regrowing flesh and bone, square jaw, sunken red eyes, red aura, faint red-glowing armor, worn necklace"
   ],
-  "omitted": [
-    {
-      "index": 4,
-      "reason": "The 'gloomier after defeat' impression is an event-driven change, and it is not flagged APPROVED-CHANGE. The stiff, hard face is already covered by fact 1."
-    }
-  ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.017781500000000002
+      "cost_usd": 0.022702200000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.031225799999999998
+      "cost_usd": 0.0152858
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.020510499999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0234535
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.034172100000000004
     }
   ]
 }

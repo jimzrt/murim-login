@@ -10,8 +10,41 @@
   "chapter_count": 54,
   "first_chapter": 5,
   "profile_safe_through": 681,
-  "passages": [],
+  "passages": [
+    [
+      26,
+      48
+    ],
+    [
+      26,
+      15
+    ],
+    [
+      89,
+      16
+    ],
+    [
+      593,
+      88
+    ]
+  ],
   "facts": [
+    {
+      "attribute": "eyes",
+      "kind": "change",
+      "fact": "Has only one eye (one-eyed)",
+      "chapter": 26,
+      "quote": "눈이 애꾸여야 돼",
+      "marker": true,
+      "verdict": {
+        "subject": "Jin Hayeon",
+        "this_character": false,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Line is a joke about a requirement for 관심법 (eye must be one-eyed), spoken to Soyul. Hayeon is only recalled as having reacted similarly (wide eyes), not described as one-eyed."
+      },
+      "status": "rejected"
+    },
     {
       "attribute": "build",
       "fact": "Has small hands/fists, suggesting a small, child-like build",
@@ -43,34 +76,55 @@
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
-  "judgments": {},
+  "rejected": [
+    0
+  ],
+  "judgments": {
+    "26|눈이애꾸여야돼": {
+      "subject": "Jin Hayeon",
+      "this_character": false,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Line is a joke about a requirement for 관심법 (eye must be one-eyed), spoken to Soyul. Hayeon is only recalled as having reacted similarly (wide eyes), not described as one-eyed."
+    }
+  },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 5,
-      "description": "Jin Hayeon is a female character with a small, child-like build and small hands. Her face is slender and oval, and her skin is glossy and radiant. Tags: female, small child-like build, small hands, slender oval face, glossy radiant skin",
+      "description": "Jin Hayeon is a woman with a small, child-like build and small hands. She has a slender, oval face and glossy, radiant skin. Tags: female, small child-like build, small hands, slender oval face, glossy radiant skin",
       "used": [
-        0,
         1,
-        2
+        2,
+        3
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 5):** Jin Hayeon is a female character with a small, child-like build and small hands. Her face is slender and oval, and her skin is glossy and radiant. Tags: female, small child-like build, small hands, slender oval face, glossy radiant skin"
+    "- **Appearance (from ch 5):** Jin Hayeon is a woman with a small, child-like build and small hands. She has a slender, oval face and glossy, radiant skin. Tags: female, small child-like build, small hands, slender oval face, glossy radiant skin"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0104364
+      "cost_usd": 0.0184082
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0227672
+      "cost_usd": 0.015175600000000001
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.019646900000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0169698
     }
   ]
 }

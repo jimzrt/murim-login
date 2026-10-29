@@ -10,7 +10,164 @@
   "chapter_count": 238,
   "first_chapter": 41,
   "profile_safe_through": 1175,
-  "passages": [],
+  "passages": [
+    [
+      44,
+      76
+    ],
+    [
+      78,
+      61
+    ],
+    [
+      89,
+      16
+    ],
+    [
+      210,
+      77
+    ],
+    [
+      220,
+      39
+    ],
+    [
+      271,
+      58
+    ],
+    [
+      274,
+      49
+    ],
+    [
+      286,
+      44
+    ],
+    [
+      299,
+      75
+    ],
+    [
+      383,
+      56
+    ],
+    [
+      384,
+      54
+    ],
+    [
+      395,
+      59
+    ],
+    [
+      412,
+      78
+    ],
+    [
+      418,
+      32
+    ],
+    [
+      561,
+      70
+    ],
+    [
+      561,
+      69
+    ],
+    [
+      561,
+      31
+    ],
+    [
+      561,
+      61
+    ],
+    [
+      561,
+      34
+    ],
+    [
+      582,
+      81
+    ],
+    [
+      582,
+      101
+    ],
+    [
+      583,
+      49
+    ],
+    [
+      583,
+      65
+    ],
+    [
+      584,
+      66
+    ],
+    [
+      596,
+      23
+    ],
+    [
+      596,
+      52
+    ],
+    [
+      597,
+      47
+    ],
+    [
+      597,
+      40
+    ],
+    [
+      597,
+      58
+    ],
+    [
+      608,
+      68
+    ],
+    [
+      728,
+      39
+    ],
+    [
+      731,
+      32
+    ],
+    [
+      761,
+      79
+    ],
+    [
+      799,
+      62
+    ],
+    [
+      830,
+      39
+    ],
+    [
+      830,
+      26
+    ],
+    [
+      830,
+      13
+    ],
+    [
+      830,
+      57
+    ],
+    [
+      830,
+      48
+    ]
+  ],
   "facts": [
     {
       "attribute": "clothing",
@@ -45,8 +202,14 @@
       "fact": "Slender build that hides tremendous muscle strength",
       "chapter": 210,
       "quote": "겉보기에는 늘씬한 체구지만 그 안에는 어마어마한 근력이 숨어 있다.",
-      "marker": false,
-      "verdict": null,
+      "marker": true,
+      "verdict": {
+        "subject": "최 팀장",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Ordinary description of unchanged build; 최 팀장 pushes people away."
+      },
       "status": "kept"
     },
     {
@@ -56,12 +219,7 @@
       "chapter": 554,
       "quote": "외모마저 연예인 턱주가리를 돌릴 정도니",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Ordinary description of celebrity-level looks."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -71,13 +229,24 @@
       "chapter": 582,
       "quote": "재수 없을 만큼 잘생긴 외모",
       "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Lost one arm (battle injury, Pyeongchang Monster Wave)",
+      "chapter": 583,
+      "quote": "비록 한쪽 팔을 잃었지만, 더욱 소중한 것을 구할 수 있었기에 나올 수 있는 웃음이었다.",
+      "marker": true,
       "verdict": {
-        "this_character": true,
+        "subject": "김화종",
+        "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Ordinary description of annoyingly handsome face on a screen."
+        "reason": "The arm loss belongs to guild leader 김화종, not 최 팀장."
       },
-      "status": "kept"
+      "status": "rejected"
     },
     {
       "attribute": "clothing",
@@ -90,17 +259,50 @@
       "status": "kept"
     },
     {
-      "attribute": "scars",
+      "attribute": "face",
       "kind": "change",
-      "fact": "Face covered with scars",
+      "fact": "Face covered in scars (later timeline)",
       "chapter": 830,
       "quote": "얼굴에 흉터가 가득하고",
       "marker": true,
       "verdict": {
+        "subject": "최 팀장",
         "this_character": true,
         "literal_present": true,
         "lasting_change": true,
-        "reason": "Face full of scars and a lost arm, with a familiar-yet-unfamiliar look suggesting a lasting change."
+        "reason": "Later timeline: face full of scars, newly revealed, stated as current look; 최 팀장 named."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Lost one arm (later timeline)",
+      "chapter": 830,
+      "quote": "한쪽 팔을 잃어버린 최 팀장이 술잔을 비운다",
+      "marker": true,
+      "verdict": {
+        "subject": "최 팀장",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Named 최 팀장 has lost an arm, shown as the current state in this scene."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "face",
+      "kind": "change",
+      "fact": "Face covered in scars (later timeline)",
+      "chapter": 830,
+      "quote": "얼굴에 흉터가 가득하고, 한쪽 팔을 잃어버린 최 팀장이 술잔을 비운다.",
+      "marker": true,
+      "verdict": {
+        "subject": "최 팀장",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Scar-covered face stated as current look of 최 팀장, 'familiar yet unfamiliar'."
       },
       "status": "approved-change"
     },
@@ -112,63 +314,135 @@
       "quote": "한쪽 팔을 잃어버린 최 팀장이",
       "marker": true,
       "verdict": {
+        "subject": "최 팀장",
         "this_character": true,
         "literal_present": true,
         "lasting_change": true,
-        "reason": "Lost an arm, which appears to be a lasting loss."
+        "reason": "Lost arm is a lasting change, shown here for the first time."
       },
       "status": "approved-change"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
+  "rejected": [
+    6
+  ],
   "judgments": {
-    "554|외모마저연예인턱주가리를돌릴정도니": {
+    "210|겉보기에는늘씬한체구지만그안에는어마어마한근력이숨어있다.": {
+      "subject": "최 팀장",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Ordinary description of celebrity-level looks."
+      "reason": "Ordinary description of unchanged build; 최 팀장 pushes people away."
     },
-    "582|재수없을만큼잘생긴외모": {
-      "this_character": true,
+    "583|비록한쪽팔을잃었지만,더욱소중한것을구할수있었기에나올수있는웃음이었다.": {
+      "subject": "김화종",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Ordinary description of annoyingly handsome face on a screen."
+      "reason": "The arm loss belongs to guild leader 김화종, not 최 팀장."
     },
     "830|얼굴에흉터가가득하고": {
+      "subject": "최 팀장",
       "this_character": true,
       "literal_present": true,
       "lasting_change": true,
-      "reason": "Face full of scars and a lost arm, with a familiar-yet-unfamiliar look suggesting a lasting change."
+      "reason": "Later timeline: face full of scars, newly revealed, stated as current look; 최 팀장 named."
+    },
+    "830|한쪽팔을잃어버린최팀장이술잔을비운다": {
+      "subject": "최 팀장",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Named 최 팀장 has lost an arm, shown as the current state in this scene."
+    },
+    "830|얼굴에흉터가가득하고,한쪽팔을잃어버린최팀장이술잔을비운다.": {
+      "subject": "최 팀장",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Scar-covered face stated as current look of 최 팀장, 'familiar yet unfamiliar'."
     },
     "830|한쪽팔을잃어버린최팀장이": {
+      "subject": "최 팀장",
       "this_character": true,
       "literal_present": true,
       "lasting_change": true,
-      "reason": "Lost an arm, which appears to be a lasting loss."
+      "reason": "Lost arm is a lasting change, shown here for the first time."
     }
   },
-  "conflicts": [
+  "conflicts": [],
+  "unused": [],
+  "timeline_events": [
     {
-      "attribute": "face",
-      "indices": [
-        4,
-        5,
-        7
-      ],
-      "kept": [
-        4,
-        5
-      ],
-      "resolved": true,
-      "reason": "Handsome face is supported twice (ch554, ch582) and is the base look. The scars in fact 7 are a flagged APPROVED-CHANGE at ch830, so they apply only to range 2, with no mixing of values."
+      "chapter": 561,
+      "change": "arm that was cut off by someone's command appears cleanly reattached but trembles faintly with remembered pain (possibly refers to another person, not Choi)",
+      "cause": "severed arm reattached",
+      "sure": false
+    },
+    {
+      "chapter": 583,
+      "change": "both arms intact -> lost one arm (smiling because he saved something more precious; likely Choi Minwoo, Pyeongchang Monster Wave)",
+      "cause": "battle injury",
+      "sure": false
+    },
+    {
+      "chapter": 597,
+      "change": "young-looking -> hair frosted with white (this line refers to the butler, not Choi)",
+      "cause": "time skip/aging",
+      "sure": false
+    },
+    {
+      "chapter": 830,
+      "change": "intact face and both arms -> face covered in scars and one arm lost",
+      "cause": "battle injuries (later timeline)",
+      "sure": true
     }
   ],
-  "unused": [],
+  "timeline": [
+    {
+      "chapter": 561,
+      "change": "arm that was cut off by someone's command appears cleanly reattached but trembles faintly with remembered pain (possibly refers to another person, not Choi)",
+      "cause": "severed arm reattached",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 583,
+      "change": "both arms intact -> lost one arm (smiling because he saved something more precious; likely Choi Minwoo, Pyeongchang Monster Wave)",
+      "cause": "battle injury",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 597,
+      "change": "young-looking -> hair frosted with white (this line refers to the butler, not Choi)",
+      "cause": "time skip/aging",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 830,
+      "change": "intact face and both arms -> face covered in scars and one arm lost",
+      "cause": "battle injuries (later timeline)",
+      "sure": true,
+      "facts": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "verified": true
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 41,
-      "description": "Team Leader Choi is a strikingly handsome man in his 20s with celebrity-level looks and a slender build. He wears a thin tailored suit over a luxury designer shirt, giving a polished photo-shoot look. Tags: male, 20s, slender build, celebrity-handsome face, thin tailored suit, designer shirt, polished look",
+      "description": "Team Leader Choi is a man in his 20s with a slender build that hides great muscle strength. He has strikingly handsome, celebrity-level looks. He wears a thin tailored suit over a luxury designer shirt, a polished, photo-shoot style. Tags: male, 20s, slender, hidden muscle, very handsome, thin tailored suit, casual suit, designer shirt",
       "used": [
         0,
         1,
@@ -176,37 +450,64 @@
         3,
         4,
         5,
-        6
+        7
       ],
       "difference": ""
     },
     {
       "start": 830,
-      "description": "Team Leader Choi is a man in his 20s with a slender build, his face covered with scars and one arm missing. He wears a thin suit over a luxury designer shirt. Tags: male, 20s, slender build, scarred face, one-armed, thin suit, designer shirt",
+      "description": "Team Leader Choi is a man in his 20s with a slender build, in a later timeline after battle injuries. His face is covered in scars and he has lost one arm. He still wears a thin suit over a luxury designer shirt. Tags: male, 20s, slender, face covered in scars, one arm missing, thin suit, designer shirt",
       "used": [
+        0,
         1,
         2,
         3,
-        6,
         7,
-        8
+        8,
+        9,
+        10,
+        11
       ],
-      "difference": "Clean, handsome face and both arms -> face covered with scars and one arm missing"
+      "difference": "intact handsome face and both arms -> face covered in scars and one arm missing"
     }
   ],
   "lines": [
-    "- **Appearance (ch 41–829):** Team Leader Choi is a strikingly handsome man in his 20s with celebrity-level looks and a slender build. He wears a thin tailored suit over a luxury designer shirt, giving a polished photo-shoot look. Tags: male, 20s, slender build, celebrity-handsome face, thin tailored suit, designer shirt, polished look",
-    "- **Appearance (from ch 830):** Team Leader Choi is a man in his 20s with a slender build, his face covered with scars and one arm missing. He wears a thin suit over a luxury designer shirt. Tags: male, 20s, slender build, scarred face, one-armed, thin suit, designer shirt"
+    "- **Appearance (ch 41–829):** Team Leader Choi is a man in his 20s with a slender build that hides great muscle strength. He has strikingly handsome, celebrity-level looks. He wears a thin tailored suit over a luxury designer shirt, a polished, photo-shoot style. Tags: male, 20s, slender, hidden muscle, very handsome, thin tailored suit, casual suit, designer shirt",
+    "- **Appearance (from ch 830):** Team Leader Choi is a man in his 20s with a slender build, in a later timeline after battle injuries. His face is covered in scars and he has lost one arm. He still wears a thin suit over a luxury designer shirt. Tags: male, 20s, slender, face covered in scars, one arm missing, thin suit, designer shirt"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0155603
+      "cost_usd": 0.021414400000000004
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0291207
+      "cost_usd": 0.0179752
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.022755
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0201962
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0236742
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.019167899999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0307915
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.030410899999999998
     }
   ]
 }

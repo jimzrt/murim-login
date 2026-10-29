@@ -9,8 +9,133 @@
   "chapter_count": 96,
   "first_chapter": 308,
   "profile_safe_through": 1178,
-  "passages": [],
+  "passages": [
+    [
+      921,
+      82
+    ],
+    [
+      921,
+      77
+    ],
+    [
+      922,
+      32
+    ],
+    [
+      922,
+      46
+    ],
+    [
+      922,
+      87
+    ],
+    [
+      938,
+      29
+    ],
+    [
+      955,
+      44
+    ],
+    [
+      977,
+      33
+    ],
+    [
+      980,
+      75
+    ],
+    [
+      980,
+      59
+    ],
+    [
+      981,
+      65
+    ],
+    [
+      981,
+      26
+    ],
+    [
+      1046,
+      52
+    ],
+    [
+      1048,
+      74
+    ],
+    [
+      1049,
+      83
+    ],
+    [
+      1053,
+      27
+    ],
+    [
+      1064,
+      83
+    ],
+    [
+      1067,
+      48
+    ],
+    [
+      1067,
+      24
+    ],
+    [
+      1076,
+      68
+    ],
+    [
+      1088,
+      81
+    ],
+    [
+      1088,
+      44
+    ],
+    [
+      1094,
+      61
+    ],
+    [
+      1123,
+      50
+    ],
+    [
+      1126,
+      53
+    ],
+    [
+      1126,
+      59
+    ],
+    [
+      1132,
+      13
+    ]
+  ],
   "facts": [
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (회춘); body became young again, previously an old woman",
+      "chapter": 922,
+      "quote": "어째 저 할망구는 여전하군. 아니, 오히려 회춘하더니 눈빛이 더 기분 나빠졌어.",
+      "marker": true,
+      "verdict": {
+        "subject": "Bow Saint",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "궁성 is glanced at, then 적천강 calls 저 할망구 who 회춘했다; established return to youth, revealed here."
+      },
+      "status": "approved-change"
+    },
     {
       "attribute": "age/appearance",
       "kind": "base",
@@ -18,12 +143,7 @@
       "chapter": 926,
       "quote": "그녀의 반달처럼 휘어진 눈매가, 그 안에 숨어 있는 눈동자가 깊게 가라앉아 있었다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Describes Bow Saint's half-moon-curved eyes with deep-set, sunken pupils in present scene; ordinary description."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -33,12 +153,7 @@
       "chapter": 926,
       "quote": "그녀의 반달처럼 휘어진 눈매가",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "궁성's eyes described as curved like half-moons (반달처럼 휘어진 눈매); literal present, ordinary."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -48,11 +163,22 @@
       "chapter": 928,
       "quote": "어느덧 가늘어져 있던 궁성의 눈매가 보름달처럼 휘었다.",
       "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Body has become young, but her eyes still carry the weight of her years",
+      "chapter": 938,
+      "quote": "비록 몸은 젊어졌으나 눈빛에 담긴 세월만은 여전하다.",
+      "marker": true,
       "verdict": {
-        "this_character": true,
-        "literal_present": false,
+        "subject": "Bow Saint",
+        "this_character": false,
+        "literal_present": true,
         "lasting_change": false,
-        "reason": "Eyes curving like a full moon is a simile for a smiling expression, a one-scene state, not a fixed eye shape; narrowed eyes are a momentary expression."
+        "reason": "The woman is not named in the passage; 적천강 is talking with her, so she is probably Bow Saint, but that is a guess. The body is described as young as an ongoing state, not a new change."
       },
       "status": "rejected"
     },
@@ -79,6 +205,22 @@
     {
       "attribute": "weapon",
       "kind": "base",
+      "fact": "Carries two curved blades that transform into a bow",
+      "chapter": 1064,
+      "quote": "기형적으로 휘어져 있던 두 자루의 곡도(曲刀)를 활로 변모시킨 궁성이",
+      "marker": true,
+      "verdict": {
+        "subject": "Bow Saint",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "궁성 turns two curved blades into a bow; this is an ordinary weapon description, not a look change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "weapon",
+      "kind": "base",
       "fact": "Wields two curved sabers (gokdo) that join into a giant bow",
       "chapter": 1071,
       "quote": "두 자루의 곡도를 연결하여 거대한 활을 완성시키는",
@@ -95,6 +237,22 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Body returned to youth, but eyes still show her age",
+      "chapter": 1088,
+      "quote": "비록 육신은 젊어졌으나, 세월이 담긴 그 노회한 눈동자에 익숙한 얼굴이 비쳤다.",
+      "marker": true,
+      "verdict": {
+        "subject": "Bow Saint",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The line is about a person reflected in 적천강's eyes. Here 적천강 is the one being described, and the passage doesn't name Bow Saint. It also gives the youth only as an existing state."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "build",
@@ -159,75 +317,122 @@
   ],
   "dropped_facts": [],
   "rejected": [
-    2
+    4,
+    10
   ],
   "judgments": {
-    "926|그녀의반달처럼휘어진눈매가,그안에숨어있는눈동자가깊게가라앉아있었다.": {
+    "922|어째저할망구는여전하군.아니,오히려회춘하더니눈빛이더기분나빠졌어.": {
+      "subject": "Bow Saint",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "궁성 is glanced at, then 적천강 calls 저 할망구 who 회춘했다; established return to youth, revealed here."
+    },
+    "938|비록몸은젊어졌으나눈빛에담긴세월만은여전하다.": {
+      "subject": "Bow Saint",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The woman is not named in the passage; 적천강 is talking with her, so she is probably Bow Saint, but that is a guess. The body is described as young as an ongoing state, not a new change."
+    },
+    "1064|기형적으로휘어져있던두자루의곡도(曲刀)를활로변모시킨궁성이": {
+      "subject": "Bow Saint",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Describes Bow Saint's half-moon-curved eyes with deep-set, sunken pupils in present scene; ordinary description."
+      "reason": "궁성 turns two curved blades into a bow; this is an ordinary weapon description, not a look change."
     },
-    "926|그녀의반달처럼휘어진눈매가": {
-      "this_character": true,
+    "1088|비록육신은젊어졌으나,세월이담긴그노회한눈동자에익숙한얼굴이비쳤다.": {
+      "subject": "Bow Saint",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "궁성's eyes described as curved like half-moons (반달처럼 휘어진 눈매); literal present, ordinary."
-    },
-    "928|어느덧가늘어져있던궁성의눈매가보름달처럼휘었다.": {
-      "this_character": true,
-      "literal_present": false,
-      "lasting_change": false,
-      "reason": "Eyes curving like a full moon is a simile for a smiling expression, a one-scene state, not a fixed eye shape; narrowed eyes are a momentary expression."
+      "reason": "The line is about a person reflected in 적천강's eyes. Here 적천강 is the one being described, and the passage doesn't name Bow Saint. It also gives the youth only as an existing state."
     }
   },
-  "conflicts": [
+  "conflicts": [],
+  "unused": [],
+  "timeline_events": [
     {
-      "attribute": "eyes",
-      "indices": [
-        0,
-        1
-      ],
-      "kept": [
-        1
-      ],
-      "resolved": true,
-      "reason": "Both give half-moon eyes. Index 1 is the clean, repeated core of the quote. Index 0 adds deep-set pupils, which sits poorly with the unflagged 'clear, brightly shining eyes' (8), so only the half-moon shape is kept."
+      "chapter": 922,
+      "change": "old woman -> youthful body, with eyes still showing her age (the 'old hag' who 'returned to youth' may be the Bow Saint)",
+      "cause": "returned to youth (회춘)",
+      "sure": false
     }
   ],
-  "unused": [],
+  "timeline": [
+    {
+      "chapter": 922,
+      "change": "old woman -> youthful body, with eyes still showing her age (the 'old hag' who 'returned to youth' may be the Bow Saint)",
+      "cause": "returned to youth (회춘)",
+      "sure": false,
+      "facts": [
+        0
+      ],
+      "verified": true
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
-      "start": 308,
-      "description": "Bow Saint is a giant-like, imposing woman with pale, almost transparent skin and fine, silky, lustrous hair that flutters in the wind. Her eyes curve like half-moons and shine clear and bright, and her fingers are steel-hard and calloused. She carries two curved sabers (gokdo) gripped tightly, which join into one giant bow. Tags: female, giant-like build, imposing presence, pale transparent skin, fine silky lustrous hair, half-moon eyes, clear bright eyes, calloused steel-hard fingers, two curved sabers, giant bow",
+      "start": 922,
+      "description": "Bow Saint is a giant-like, imposing woman with a youthful body, restored after returning to youth. She has fine, silky, lustrous hair that flutters in the wind, transparent pale skin, and half-moon curved, narrow eyes with deep-set, clear, brightly shining pupils. Her eyes curve like a full moon when she smiles. Her fingers are steel-hard and calloused, and she grips two curved sabers (gokdo) that join into one giant bow. Tags: female, youthful body, giant-like build, silky lustrous hair, pale transparent skin, half-moon narrow eyes, deep-set bright pupils, calloused steel-hard fingers, two curved sabers, giant bow",
       "used": [
+        0,
         1,
+        2,
         3,
-        4,
         5,
         6,
         7,
         8,
         9,
-        10,
         11,
-        12
+        12,
+        13,
+        14,
+        15,
+        16
       ],
-      "difference": ""
+      "difference": "old woman -> youthful body (returned to youth)"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 308):** Bow Saint is a giant-like, imposing woman with pale, almost transparent skin and fine, silky, lustrous hair that flutters in the wind. Her eyes curve like half-moons and shine clear and bright, and her fingers are steel-hard and calloused. She carries two curved sabers (gokdo) gripped tightly, which join into one giant bow. Tags: female, giant-like build, imposing presence, pale transparent skin, fine silky lustrous hair, half-moon eyes, clear bright eyes, calloused steel-hard fingers, two curved sabers, giant bow"
+    "- **Appearance (from ch 922):** Bow Saint is a giant-like, imposing woman with a youthful body, restored after returning to youth. She has fine, silky, lustrous hair that flutters in the wind, transparent pale skin, and half-moon curved, narrow eyes with deep-set, clear, brightly shining pupils. Her eyes curve like a full moon when she smiles. Her fingers are steel-hard and calloused, and she grips two curved sabers (gokdo) that join into one giant bow. Tags: female, youthful body, giant-like build, silky lustrous hair, pale transparent skin, half-moon narrow eyes, deep-set bright pupils, calloused steel-hard fingers, two curved sabers, giant bow"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0186634
+      "cost_usd": 0.0208454
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0305583
+      "cost_usd": 0.020511300000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0234985
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0184086
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0217816
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.026358799999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0320061
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.03403810000000001
     }
   ]
 }

@@ -65,6 +65,13 @@ CONTEXT_PARAS = 3            # paragraphs of context each side for the judge
 CONTEXT_CHARS = 320
 JUDGE_BATCH = 6
 JUDGE_MODEL = "sonnet"
+HIT_WINDOW = 1500            # chars between a name/alias and a change term
+MAX_HITS = 30                # change-term passages per character, spread over the book
+EVENT_PASSAGES = 5           # extra passages around each timeline event
+MAX_BEAT_LINES = 90
+TIMELINE_PASSAGES = 25
+EVENT_WINDOW = 3             # chapters either side of an event that may verify it
+BEATS = ROOT / "summaries" / "beats"
 BINS = 8                     # chapter-range bins; each keeps its strongest passages
 PER_BIN = 7
 PASSAGE_CHARS = 520
@@ -74,6 +81,18 @@ BATCH = 8                    # passages per extraction call
 EXTRACT_MODEL = "sonnet"
 WRITE_MODEL = "sonnet"
 WRITE_TRIES = 3
+# Epithets/short forms used only to find passages (not for ranking).
+EPITHETS = {
+    "Jeok Cheongang": ["적 노선배", "적가", "노괴", "적 대협"],
+    "Mungyeong": ["살성", "소년 의생"],
+    "Mae Jonghak": ["검성"],
+    "Butler Kim": ["집사"],
+}
+# Facts at these chapters are rejected after a manual check of the Korean (reason is recorded in the evidence).
+OVERRIDES = {
+    "Jeok Cheongang": {179: "age-number talk ('take thirty years off'), not a visible change; ch235 shows him old again"},
+    "Mungyeong": {508: "furrowed brow is an anger expression in one scene, not a lasting change"},
+}
 FIRST_PERSON = {"Jin Taekyung"}   # narrator: also scan mirror / self-description scenes
 
 STRONG_CUES = (
@@ -91,10 +110,21 @@ WEAK_RE = re.compile("|".join(map(re.escape, WEAK_CUES)))
 COLOUR_RE = re.compile(r"(붉|푸르|푸른|검|까맣|새까|하얀|하얗|흰|은빛|금빛|백색|흑색|회색|자색|보랏빛|녹색|초록|파란|파랗|빨간|빨갛|노란|금발)\S{0,4}\s?(눈|머리|수염|옷|의|복|피부|동공)")
 # narrator self-description: mirror / reflection scenes and "my face / body" paragraphs
 # Korean change markers: a new range needs one next to the quote (checked deterministically).
+# Core genre vocabulary for lasting looks changes (disguise terms such as 역용 are deliberately absent).
+CHANGE_TERMS_RE = re.compile(
+    "반로환동|환골탈태|회춘|젊어졌|젊어진|젊어 ?보|노화|백발이 ?되|서리가 ?(내려|내린|앉)|머리가 ?(하얗게 )?세|외팔|한쪽 팔|애꾸|한쪽 눈|"
+    "흉터가 ?(남|생)|변신|탈피|탈바꿈|변모|잃어 ?버|팔을 잃|눈을 잃|다리를 잃|잘려 ?나|늙어 ?버|늙어졌|어려졌|민머리가 ?되|삭발"
+)
+EN_CHANGE_RE = re.compile(
+    r"returned to youth|return to youth|rejuvenat|younger|youthful|aged|aging|ages |white hair|gray hair|grey hair|"
+    r"bald|shaved|lost (his|her|an|one|both) (arm|eye|leg|hand)|one-armed|one-eyed|scar|transform|metamorph|"
+    r"enlighten|reborn|shed|molt|new form|regrew|regrow|undead|skeleton|rebirth|awaken", re.I)
+GENRE_RE = re.compile("반로환동|환골탈태|탈피|회춘|젊어졌|젊어진|서리가 ?(내려|내린|앉)|외팔|애꾸|한쪽 팔|한쪽 눈|백발이 ?되|변신")
 CHANGE_RE = re.compile(
+    "서리가 ?(내려|내린|앉)|머리가 ?(하얗게 )?세|노화|탈피|변신|삭발|민머리가 ?되|어려졌|늙어졌|"
     "잃어 ?버|흉터가 ?(가득|생|남)|흉터투성|청년으로 돌아|돌아간 |젊은 모습|젊어 ?보|젊어졌|변했|변해|변하|변모|탈바꿈|바뀌었|바뀐|되어 ?버린|되어 ?버렸|잃었|잃은|잃고|잘려 ?나간|잘려 ?나갔|잘렸|베어 ?나갔|"
     "회춘|반로환동|환골탈태|젊어진|젊어졌|늙어 ?버린|늙어 ?버렸|부쩍 늙|늙어 있|하얗게 ?세|백발이 되|새하얀 백발|"
-    "흉터가 생|외팔|애꾸|돌아갔|되돌아|사라졌|없어졌|재가 되|해골|강시|언데드|변이"
+    "한쪽 팔|한쪽 눈|흉터가 생|외팔|애꾸|돌아갔|되돌아|사라졌|없어졌|재가 되|해골|강시|언데드|변이"
 )
 SELF_RE = re.compile(r"(거울|비친|반사|수면에 )|((내|나의|제)\s?(얼굴|머리|눈|몸|피부|키|체격|인상|몸매|손|팔|옷))")
 
@@ -129,8 +159,14 @@ def load_profiles() -> list[dict]:
             names.extend(ledger.get(label, []))
         safe = re.search(r"Safe through:\*\*\s*Chapter\s*(\d+)", body)
         role = re.search(r"^- \*\*Role:\*\*\s*(.+)$", body, re.MULTILINE)
+        english_names = {english}
+        if alias:
+            english_names |= {a.strip() for a in re.split(r"[;,]", alias.group(1)) if a.strip()}
+        english_names |= {n.split()[-1] for n in list(english_names) if len(n.split()) > 1 and len(n.split()[-1]) >= 5}
+        english_names = {re.sub(r"\s*\(.*?\)", "", n).strip() for n in english_names}
         profiles.append({
             "english": english,
+            "english_names": sorted(n for n in english_names if len(n) >= 4),
             "path": str(path.relative_to(ROOT)),
             "names": sorted(set(names), key=lambda n: (-len(n), n)),
             "safe_through": int(safe.group(1)) if safe else 0,
@@ -242,6 +278,180 @@ def candidates(row: dict, chapters: dict[int, str]) -> list[dict]:
     return result
 
 
+# ------------------------------------------------------------- change hits / timeline
+
+def scan_pattern(row: dict) -> re.Pattern:
+    names = list(row["names"]) + EPITHETS.get(row["english"], [])
+    return re.compile("|".join(map(re.escape, sorted(set(names), key=lambda n: (-len(n), n)))))
+
+
+def clip_around(text: str, position: int, width: int = PASSAGE_CHARS) -> str:
+    if len(text) <= width:
+        return text
+    start = max(0, min(position - width // 2, len(text) - width))
+    return text[start:start + width]
+
+
+def change_hits(row: dict, chapters: dict[int, str]) -> list[dict]:
+    """Paragraphs with a core change term within HIT_WINDOW chars of the name, an alias or epithet.
+
+    The narrator also qualifies on first-person paragraphs. Spread over the book, strongest first.
+    """
+    pattern = scan_pattern(row)
+    narrator = row["english"] in FIRST_PERSON
+    found: list[dict] = []
+    for number in sorted(chapters):
+        text = chapters[number]
+        names_at = [m.start() for m in pattern.finditer(text)]
+        if not names_at and not narrator:
+            continue
+        offset = 0
+        for para in text.split("\n"):
+            stripped = para.strip()
+            start = offset
+            offset += len(para) + 1
+            if not stripped or stripped.startswith("＃"):
+                continue
+            terms = list(CHANGE_TERMS_RE.finditer(stripped))
+            if not terms:
+                continue
+            middle = start + terms[0].start()
+            near = any(abs(n - middle) <= HIT_WINDOW for n in names_at)
+            if not near and not (narrator and SELF_RE.search(stripped)):
+                continue
+            found.append({"chapter": number, "text": clip_around(stripped, terms[0].start()),
+                          "score": len({t.group(0) for t in terms}) + 3 * len(set(GENRE_RE.findall(stripped)))})
+    return spread(found, MAX_HITS)
+
+
+def spread(items: list[dict], limit: int) -> list[dict]:
+    """Keep up to `limit` items, strongest first within BINS equal-count chapter bins."""
+    if len(items) <= limit:
+        return sorted(items, key=lambda c: c["chapter"])
+    chapters_sorted = sorted({c["chapter"] for c in items})
+    edges = [chapters_sorted[min(len(chapters_sorted) - 1, k * len(chapters_sorted) // BINS)] for k in range(BINS)]
+    edges.append(chapters_sorted[-1] + 1)
+    per_bin = max(1, limit // BINS)
+    chosen: list[dict] = []
+    for b in range(BINS):
+        pool = [c for c in items if edges[b] <= c["chapter"] < edges[b + 1]]
+        pool.sort(key=lambda c: (-c["score"], c["chapter"]))
+        chosen.extend(pool[:per_bin])
+    return sorted(chosen, key=lambda c: c["chapter"])[:limit + BINS]
+
+
+def beat_sentences(row: dict) -> list[dict]:
+    """English beat sentences naming the character (or an English alias) with change vocabulary."""
+    names = [re.escape(n) for n in row["english_names"]]
+    if not names or not BEATS.is_dir():
+        return []
+    name_re = re.compile("|".join(names), re.I)
+    out = []
+    for path in sorted(BEATS.glob("[0-9][0-9][0-9][0-9].md")):
+        number = int(path.stem)
+        for sentence in re.split(r"(?<=[.!?])\s+|\n+", path.read_text(encoding="utf-8")):
+            hits = EN_CHANGE_RE.findall(sentence)
+            if hits and name_re.search(sentence) and not sentence.startswith("#"):
+                out.append({"chapter": number, "text": sentence.strip()[:320], "score": len(hits)})
+    return spread(out, MAX_BEAT_LINES)
+
+
+TIMELINE_PROMPT = """Build an APPEARANCE TIMELINE of LASTING visual changes for one character of a martial-arts web novel.
+Character: {english} (Korean names: {names}). Profile role (context, may be incomplete): {role}
+
+Evidence 1: English chapter beats mentioning this character with change vocabulary (chapter | sentence):
+{beats}
+
+Evidence 2: Korean passages with change terms near the character (chapter | passage):
+{passages}
+
+Evidence 3: chapters where genre change terms (반로환동, 환골탈태, 회춘, 탈피, 서리가 내려앉다, ...) occur near the
+character, with hit counts. The first chapter of a run is often where the change starts or is first shown, so
+check each cluster, and for every cluster with 4 or more hits include an event unless the passages clearly show
+no look change: {genre}
+
+List only LASTING changes in how the character LOOKS that persist afterwards: returned to youth (반로환동 /
+회춘 by enlightenment or cultivation), a big jump in apparent age or aging (white/gray hair, 서리가 내려앉다), a lost
+limb or eye that stays lost, a permanent scar, a lasting hair/eye colour change, a transformation into a new
+form or body (환골탈태, 변신, becoming undead). Do NOT list disguises (역용), costumes, one-scene or temporary
+states (glowing eyes in a fight, treatment effects that wear off), healing, or changes of other people.
+For each event give the chapter where it is first shown or announced, what visibly changed (before -> after if
+known) and the cause (enlightenment, injury, transformation, time skip, ...). Use only chapters that appear in
+the evidence. If you are unsure whether a change lasts, include it with "sure": false.
+
+Return only JSON: {{"events": [{{"chapter": 505, "change": "old man near death -> middle-aged man with red hair",
+"cause": "returned to youth through enlightenment", "sure": true}}]}}
+"""
+
+
+def genre_chapters(row: dict, chapters: dict[int, str]) -> str:
+    """'chapter(count)' list of chapters with a core genre term near the name, capped."""
+    pattern = scan_pattern(row)
+    narrator = row["english"] in FIRST_PERSON
+    counts: dict[int, int] = {}
+    for number, text in chapters.items():
+        names_at = [m.start() for m in pattern.finditer(text)]
+        for m in GENRE_RE.finditer(text):
+            if any(abs(n - m.start()) <= HIT_WINDOW for n in names_at) or (narrator and SELF_RE.search(text[max(0, m.start() - 80):m.end() + 80])):
+                counts[number] = counts.get(number, 0) + 1
+    clusters: list[list[int]] = []   # runs of chapters at most 5 apart: [first, last, hits]
+    for n in sorted(counts):
+        if clusters and n - clusters[-1][1] <= 5:
+            clusters[-1][1] = n
+            clusters[-1][2] += counts[n]
+        else:
+            clusters.append([n, n, counts[n]])
+    return ", ".join(f"{a}-{b}({c})" if a != b else f"{a}({c})" for a, b, c in clusters[:70]) or "(none)"
+
+
+def timeline(row: dict, beats: list[dict], hits: list[dict], genre: str = "(none)") -> list[dict]:
+    if not beats and not hits:
+        return []
+    prompt = TIMELINE_PROMPT.format(
+        english=row["english"], names=", ".join(row["names"][:6]), role=row.get("role", "")[:400],
+        beats="\n".join(f"{b['chapter']} | {b['text']}" for b in beats) or "(none)",
+        passages="\n".join(f"{h['chapter']} | {h['text']}" for h in hits[:TIMELINE_PASSAGES]) or "(none)",
+        genre=genre,
+    )
+    events = []
+    for item in parse_json(claude(JUDGE_MODEL, prompt)).get("events", []):
+        if isinstance(item, dict) and isinstance(item.get("chapter"), int):
+            events.append({"chapter": item["chapter"], "change": str(item.get("change", "")),
+                           "cause": str(item.get("cause", "")), "sure": bool(item.get("sure", True))})
+    return sorted(events, key=lambda e: e["chapter"])
+
+
+def event_passages(row: dict, events: list[dict], chapters: dict[int, str]) -> list[dict]:
+    """Korean paragraphs around each timeline event: change terms or appearance cues near the name."""
+    pattern = scan_pattern(row)
+    found: list[dict] = []
+    for event in events:
+        local: list[dict] = []
+        for number in range(event["chapter"] - 2, event["chapter"] + 3):
+            if number not in chapters:
+                continue
+            text = chapters[number]
+            names_at = [m.start() for m in pattern.finditer(text)]
+            offset = 0
+            for para in text.split("\n"):
+                stripped = para.strip()
+                start = offset
+                offset += len(para) + 1
+                if not stripped or stripped.startswith("＃"):
+                    continue
+                terms = {m.group(0) for m in CHANGE_TERMS_RE.finditer(stripped)}
+                strong = set(STRONG_RE.findall(stripped)) | {m.group(0) for m in COLOUR_RE.finditer(stripped)}
+                if not (terms or strong):
+                    continue
+                near = any(abs(n - start) <= HIT_WINDOW for n in names_at)
+                if near or (row["english"] in FIRST_PERSON and SELF_RE.search(stripped)):
+                    local.append({"chapter": number, "text": stripped[:PASSAGE_CHARS],
+                                  "score": 3 * len(terms) + len(strong) - abs(number - event["chapter"])})
+        local.sort(key=lambda c: (-c["score"], c["chapter"]))
+        found.extend(local[:EVENT_PASSAGES])
+    return found
+
+
 # ------------------------------------------------------------------ models
 
 _LOCAL = threading.local()
@@ -278,9 +488,11 @@ def parse_json(raw: str) -> dict:
 
 
 EXTRACT_PROMPT = """You extract PHYSICAL APPEARANCE facts about one character from Korean web-novel passages.
-Character: {english} (Korean names: {names}). Gender: {gender}.{narrator}
+Character: {english} (Korean names: {names}). Gender: {gender}.{narrator}{hints}
 
 Rules:
+- Idioms for looks are literal appearance, not metaphor: 머리에 서리가 내려앉았다 = hair turned grey/white;
+  반로환동/회춘 = returned to youth; 환골탈태 = body remade.
 - Only visible traits of THIS character: apparent age, build/height, hair colour and style, eyes, face, skin,
   distinguishing marks, scars, missing limbs/eyes, typical clothing, carried weapon, signature or aura colours.
 - No personality, no plot, no actions, no feelings. If a passage is about someone else, ignore it.
@@ -305,6 +517,9 @@ characters describing him by name all count, but only when the passage is clearl
 WRITE_PROMPT = """Write the Appearance ranges for a character page that also drives small illustration prompts.
 Character: {english}. Gender: {gender}. First chapter they appear: {first}.
 
+Verified story timeline of lasting changes (chapter: change; cause):
+{timeline}
+
 Verified, context-checked facts (index, chapter, flags, attribute, fact, Korean quote):
 {facts}
 
@@ -320,6 +535,14 @@ Rules:
   about twenty"). If the earlier facts already show the same look (a boy before and after), the "change" is
   mere exposition: do not open a range. If the base look has no visual trait at all (only titles/reputation),
   return that range with description "not described" and start the next range at the change.
+- Every timeline event above that is supported by APPROVED-CHANGE facts must open a range (start at the earliest
+  APPROVED-CHANGE chapter within 3 chapters of the event). Name the cause briefly in that range's description
+  (e.g. "after returning to youth through enlightenment"); the range only shows from that chapter on. If an event
+  truly gives no visible difference from the previous range, list it in "dismissed_events" with a reason.
+  Exception: a verified genre transformation (반로환동, 환골탈태, becoming undead, ...) whose visible effect the
+  text does not spell out STILL opens a range: restate the known look, say briefly that the body was remade by
+  it, and set "difference" to e.g. "body remade by Bone Transformation (visible effect not stated)".
+  A disagreement between facts that matches a timeline event is a change (a range), not a conflict.
 - Each description is a complete, illustration-ready look for that range: 1-3 concrete visual sentences, then
   "Tags: " plus short comma-separated tags. It STARTS WITH the name "{english}".
 - Include every non-conflicting fact's trait (age, build/height, hair, eyes, face/marks, clothing, weapon,
@@ -331,19 +554,23 @@ Rules:
   say nothing about the others, and report the group in "conflicts".
 - A range may use only facts whose chapter is before the next range's start; the description must not mention
   that a later change happens. Later ranges restate the traits that persist.
-- Visual only; no personality, plot or relationships; nothing about hidden true age or backstory.
+- Visual only; no personality, plot or relationships; nothing about hidden true age or backstory; no
+  one-scene surroundings (heat haze, lighting, weather, who stands nearby).
 - Gender "unknown": avoid gendered pronouns.
 
 Return only JSON: {{"ranges": [{{"start": 1, "description": "{english} ... Tags: a, b", "used": [fact indices], "difference": "what visibly changed (later ranges only)"}}],
 "conflicts": [{{"attribute": "hair colour", "indices": [3, 7], "kept": [7], "resolved": true, "reason": "why"}}],
-"omitted": [{{"index": 4, "reason": "why this fact is left out"}}]}}
+"omitted": [{{"index": 4, "reason": "why this fact is left out"}}],
+"dismissed_events": [{{"chapter": 179, "reason": "why it opens no range"}}]}}
 Set "resolved": false when the evidence is about equally strong on both sides.
 {feedback}"""
 
 TRIAGE_PROMPT = """Below are appearance facts about one character ({english}) taken from different chapters.
 List groups of facts that CONFLICT: they state incompatible values for the same attribute (hair colour, apparent
 age band, build, eye colour, ...). Only list real disagreements, not complementary traits. Do not decide which
-is right.
+is right. A disagreement that lines up with one of these known lasting changes is a CHANGE, not a conflict;
+leave it out:
+{timeline}
 
 {facts}
 
@@ -354,18 +581,35 @@ JUDGE_PROMPT = """You verify appearance facts about a character in a Korean web 
 Character: {english} (Korean names: {names}).{narrator}
 
 For each numbered item decide, from the context (the quoted line is marked >>> <<<):
-- this_character: the described look really belongs to {english}, not another person.
-- literal_present: it is a literal, present-time description (not a flashback, backstory about someone's past
-  form, hypothetical, metaphor/simile, disguise, costume, illusion or one-scene state).
-- lasting_change: the text shows a DRASTIC, lasting change of {english}'s look happening in this scene or
-  having just happened (returned to youth, a big jump in apparent age, lost limb/eye that stays lost, permanent
-  scar, lasting hair/eye colour change, transformation). False for ordinary descriptions, for looking more
-  tired/worn/aged by a little, for anything temporary or that heals/regrows at once, and for a summary of
+- this_character: the described look really belongs to {english}. The context must make that explicit (named, or
+  unmistakable from the surrounding lines); an unnamed person you merely guess is {english} is false.
+- literal_present: the text states the look as a real, current fact of the story. False only for a flashback,
+  a hypothetical, a metaphor/simile, a disguise, costume or illusion, or a one-scene state. Similes and hypotheticals ("as if he had undergone X",
+  "겪으면 이렇게 될까 싶을 정도") are NOT literal. A look that is
+  stated as the character's established present state IS literal_present, even if the change happened earlier.
+- Idioms for looks are literal, not metaphor: 머리에 서리가 내려앉았다 = grey/white hair; 반로환동/회춘 = returned
+  to youth. Returning to youth through enlightenment or cultivation is a lasting change; a medicine/treatment
+  effect is lasting only if the text treats it as lasting.
+- lasting_change: this passage shows or announces a DRASTIC, lasting change of {english}'s look: the new look
+  appears or is revealed here (the change itself may have happened off-screen) or it happens in this scene
+  (returned to youth, a big jump in apparent age, lost limb/eye that stays lost, permanent scar, lasting
+  hair/eye colour change, transformation). False for ordinary descriptions of an unchanged look, for looking
+  more tired/worn by a little, for anything temporary or that heals/regrows at once, and for a summary of
   someone's past or whole life (that is backstory: literal_present false as well).
+  A named genre transformation (반로환동, 환골탈태, 탈피, becoming undead) announced as having happened to
+  {english} counts as lasting_change even if this passage lists no specific traits.
+  Talk of age numbers, compliments, jokes or claims ("take 30 years off") is NOT a visible change: the passage
+  itself must show changed looks (visible traits) or state that the body/looks really changed.
+  If a "Timeline hint" is given, it is a candidate change at that chapter; decide from the text whether this
+  passage really shows it.
 
 {items}
 
-Return only JSON: {{"verdicts": [{{"index": 0, "this_character": true, "literal_present": true, "lasting_change": false, "reason": "short"}}]}}
+For every item also give "subject": the NAME (as written in the text, or the resolved name for a pronoun) of the
+person the quoted look belongs to. Read the grammar carefully: in "his strike cost her an arm" the look belongs to
+her, not to the striker.
+
+Return only JSON: {{"verdicts": [{{"index": 0, "subject": "name", "this_character": true, "literal_present": true, "lasting_change": false, "reason": "short"}}]}}
 """
 
 
@@ -373,7 +617,15 @@ def norm(text: str) -> str:
     return re.sub(r"\s+", "", text)
 
 
-def extract(row: dict, passages: list[dict]) -> list[dict]:
+def hints_text(events: list[dict]) -> str:
+    if not events:
+        return ""
+    lines = "\n".join(f"- ch{e['chapter']}: {e['change']} ({e['cause']})" for e in events)
+    return ("\nStory-level looks changes already known (hints, may be partial). Extract facts showing the look "
+            "BEFORE and AFTER each, with the exact Korean lines:\n" + lines)
+
+
+def extract(row: dict, passages: list[dict], events: list[dict] | None = None) -> list[dict]:
     """Sonnet over small passage batches (better recall than one long prompt); facts are merged."""
     facts: list[dict] = []
     seen: set[tuple] = set()
@@ -382,7 +634,7 @@ def extract(row: dict, passages: list[dict]) -> list[dict]:
         text = "\n\n".join(f"[Chapter {p['chapter']}]\n{p['text']}" for p in passages[start:start + BATCH])
         prompt = EXTRACT_PROMPT.format(
             english=row["english"], names=", ".join(row["names"][:6]), gender=row["gender"],
-            narrator=note, passages=text,
+            narrator=note, hints=hints_text(events or []), passages=text,
         )
         for fact in parse_json(claude(EXTRACT_MODEL, prompt)).get("facts", []):
             if not isinstance(fact, dict):
@@ -447,10 +699,11 @@ def facts_listing(facts: list[dict], flags: dict[int, str] | None = None) -> str
     )
 
 
-def triage(row: dict, facts: list[dict]) -> list[dict]:
+def triage(row: dict, facts: list[dict], events: list[dict] | None = None) -> list[dict]:
     if len(facts) < 2:
         return []
-    result = parse_json(claude(JUDGE_MODEL, TRIAGE_PROMPT.format(english=row["english"], facts=facts_listing(facts))))
+    result = parse_json(claude(JUDGE_MODEL, TRIAGE_PROMPT.format(english=row["english"], facts=facts_listing(facts),
+                                                                  timeline=hints_text(events or []) or "(none)")))
     groups = []
     for group in result.get("groups", []):
         idx = sorted({i for i in group.get("indices", []) if isinstance(i, int) and 0 <= i < len(facts)})
@@ -474,8 +727,13 @@ def share_paragraph_verdicts(facts: list[dict], verdicts: dict[int, dict], chapt
                 verdicts[i] = {**verdicts[i], key: value}
 
 
+def event_hint(fact: dict, events: list[dict]) -> str:
+    near = [e for e in events if abs(e["chapter"] - fact["chapter"]) <= EVENT_WINDOW]
+    return "".join(f"\nTimeline hint: ch{e['chapter']}: {e['change']} ({e['cause']})" for e in near)
+
+
 def judge(row: dict, facts: list[dict], indices: list[int], chapters: dict[int, str],
-          cache: dict[str, dict]) -> dict[int, dict]:
+          cache: dict[str, dict], events: list[dict] | None = None) -> dict[int, dict]:
     """Context check for the given fact indices; verdicts are cached by chapter+quote."""
     verdicts: dict[int, dict] = {}
     todo = []
@@ -489,7 +747,8 @@ def judge(row: dict, facts: list[dict], indices: list[int], chapters: dict[int, 
     for start in range(0, len(todo), JUDGE_BATCH):
         batch = todo[start:start + JUDGE_BATCH]
         items = "\n\n".join(
-            f"[{n}] Chapter {facts[i]['chapter']}; fact: {facts[i]['fact']}\n{context_for(facts[i], chapters)}"
+            f"[{n}] Chapter {facts[i]['chapter']}; fact: {facts[i]['fact']}{event_hint(facts[i], events or [])}\n"
+            f"{context_for(facts[i], chapters)}"
             for n, i in enumerate(batch)
         )
         prompt = JUDGE_PROMPT.format(english=row["english"], names=", ".join(row["names"][:6]),
@@ -497,8 +756,14 @@ def judge(row: dict, facts: list[dict], indices: list[int], chapters: dict[int, 
         for item in parse_json(claude(JUDGE_MODEL, prompt)).get("verdicts", []):
             n = item.get("index")
             if isinstance(n, int) and 0 <= n < len(batch):
-                verdicts[batch[n]] = {k: item.get(k) for k in
-                                      ("this_character", "literal_present", "lasting_change", "reason")}
+                verdict = {k: item.get(k) for k in
+                           ("subject", "this_character", "literal_present", "lasting_change", "reason")}
+                known = [x.casefold() for x in row["names"] + EPITHETS.get(row["english"], []) + row["english_names"]]
+                subject = str(verdict.get("subject") or "").casefold()
+                if verdict.get("this_character") and not any(x in subject or subject in x for x in known if subject):
+                    verdict["this_character"] = False
+                    verdict["reason"] = f"subject '{verdict.get('subject')}' is not this character; {verdict.get('reason')}"
+                verdicts[batch[n]] = verdict
     return verdicts
 
 
@@ -563,7 +828,7 @@ def clean_conflicts(result: dict, count: int) -> list[dict]:
     return conflicts
 
 
-def write(row: dict, kept: list[dict], approved: set[int], groups: list[dict]) -> tuple[list[dict], list[dict], list[int], list[dict]]:
+def write(row: dict, kept: list[dict], approved: set[int], groups: list[dict], events: list[dict] | None = None) -> tuple[list[dict], list[dict], list[int], list[dict]]:
     """Writer with validation; every kept fact must be used or be a reported conflict loser."""
     flags: dict[int, str] = {}
     for n, group in enumerate(groups, 1):
@@ -578,7 +843,9 @@ def write(row: dict, kept: list[dict], approved: set[int], groups: list[dict]) -
     unused: list[int] = []
     for attempt in range(WRITE_TRIES):
         prompt = WRITE_PROMPT.format(english=row["english"], gender=row["gender"], first=row["first_chapter"],
-                                     facts=listing, feedback=feedback)
+                                     facts=listing, feedback=feedback,
+                                     timeline="\n".join(f"- ch{e['chapter']}: {e['change']} ({e['cause']})"
+                                                         for e in events or []) or "(none)")
         try:
             result = parse_json(claude(WRITE_MODEL, prompt))
             ranges = check_ranges(result, kept, row["english"], row["first_chapter"], approved)
@@ -600,7 +867,19 @@ def write(row: dict, kept: list[dict], approved: set[int], groups: list[dict]) -
             feedback = (f"\nYour previous answer left facts {unused} unused. Include their traits (or report them as "
                         "losers of a conflict group). Answer again.\n")
             continue
-        return ranges, conflicts, unused, [o for o in result.get("omitted", []) if isinstance(o, dict)]
+        dismissed = {d["chapter"] for d in result.get("dismissed_events", [])
+                     if isinstance(d, dict) and isinstance(d.get("chapter"), int) and str(d.get("reason", "")).strip()}
+        starts = [r["start"] for r in ranges]
+        missing = [e["chapter"] for e in events or []
+                   if e["chapter"] not in dismissed and not any(abs(st - e["chapter"]) <= EVENT_WINDOW for st in starts)
+                   and (ranges and e["chapter"] > ranges[0]["start"])]
+        if missing and attempt < WRITE_TRIES - 1:
+            feedback = (f"\nTimeline events at chapters {missing} opened no range. Open a range at the earliest "
+                        "APPROVED-CHANGE fact near each, or list the chapter in dismissed_events with a reason.\n")
+            continue
+        result["_missing_events"] = missing
+        return ranges, conflicts, unused, ([o for o in result.get("omitted", []) if isinstance(o, dict)]
+                                           + [{"event": c, "reason": "dismissed"} for c in sorted(dismissed)])
     raise ValueError("writer failed")
 
 
@@ -667,7 +946,7 @@ def prior_judgments(path: Path) -> dict[str, dict]:
 
 
 def process(index: int, row: dict, chapters: dict[int, str], force: bool, seed_revs: list[str] | None = None,
-            reuse_facts: bool = False) -> dict:
+            reuse_facts: bool = False, reuse_timeline: bool = False, no_extract: bool = False) -> dict:
     path = slug(index, row["english"])
     if path.is_file() and not force:
         cached = json.loads(path.read_text(encoding="utf-8"))
@@ -676,33 +955,60 @@ def process(index: int, row: dict, chapters: dict[int, str], force: bool, seed_r
     _LOCAL.calls = []
     earlier = merge_facts(prior_facts(path, None), *(prior_facts(path, rev) for rev in seed_revs or []))
     cache = prior_judgments(path)
-    passages = [] if (reuse_facts and earlier) else candidates(row, chapters)
+    prior = {}
+    if path.is_file():
+        try:
+            prior = json.loads(path.read_text(encoding="utf-8"))
+        except ValueError:
+            pass
+    hits = change_hits(row, chapters)
+    if reuse_timeline and prior.get("timeline_events") is not None:
+        events = prior["timeline_events"]
+    else:
+        events = timeline(row, beat_sentences(row), hits, genre_chapters(row, chapters))
+    extra = {(c["chapter"], c["text"]): c for c in hits + event_passages(row, events, chapters)}
+    main = [] if (reuse_facts and earlier) else candidates(row, chapters)
+    passages = sorted({(c["chapter"], c["text"]): c for c in main + list(extra.values())}.values(),
+                      key=lambda c: c["chapter"])
+    if no_extract and earlier:
+        passages = []
     evidence: dict = {
         "version": VERSION, "rank": index, "english": row["english"], "profile": row["path"],
         "names": row["names"], "chapter_count": row["chapter_count"], "first_chapter": row["first_chapter"],
         "profile_safe_through": row["safe_through"], "passages": [(p["chapter"], len(p["text"])) for p in passages],
         "facts": [], "dropped_facts": [], "rejected": [], "judgments": {}, "conflicts": [], "unused": [],
+        "timeline_events": events, "timeline": [], "dismissed_events": [],
         "ranges": [], "lines": [NOT_DESCRIBED],
     }
-    extracted = extract(row, passages) if passages else []
+    extracted = extract(row, passages, events) if passages else []
     verified, dropped = verify(merge_facts(extracted, earlier), chapters)
     evidence["dropped_facts"] = dropped
     if verified:
-        groups = triage(row, verified)
+        groups = triage(row, verified, events)
         in_conflict = {i for g in groups for i in g["indices"]}
         marked = {i for i, f in enumerate(verified) if has_marker(f, chapters)}
         to_judge = sorted(in_conflict | marked | {i for i, f in enumerate(verified) if f.get("kind") == "change"})
-        verdicts = judge(row, verified, to_judge, chapters, cache)
+        verdicts = judge(row, verified, to_judge, chapters, cache, events)
         share_paragraph_verdicts(verified, verdicts, chapters)
         evidence["judgments"] = {fact_key(verified[i]): v for i, v in verdicts.items()}
         rejected = {i for i in to_judge
                     if not (verdicts.get(i, {}).get("this_character") and verdicts.get(i, {}).get("literal_present"))}
+        for i, fact in enumerate(verified):
+            reason = OVERRIDES.get(row["english"], {}).get(fact["chapter"])
+            if reason:
+                rejected.add(i)
+                verdicts[i] = {**(verdicts.get(i) or {}), "this_character": False, "reason": f"manual override: {reason}"}
         approved_orig = {i for i in marked if i not in rejected and verdicts[i].get("lasting_change")}
         for i, fact in enumerate(verified):
             fact["marker"] = i in marked
             fact["verdict"] = verdicts.get(i)
             fact["status"] = "rejected" if i in rejected else ("approved-change" if i in approved_orig else "kept")
         evidence["facts"] = verified
+        evidence["timeline"] = [
+            {**e, "facts": [i for i in sorted(approved_orig)
+                            if abs(verified[i]["chapter"] - e["chapter"]) <= EVENT_WINDOW],
+             "verified": any(abs(verified[i]["chapter"] - e["chapter"]) <= EVENT_WINDOW for i in approved_orig)}
+            for e in events]
         evidence["rejected"] = [i for i in sorted(rejected)]
         order = [i for i in range(len(verified)) if i not in rejected]
         remap = {old: new for new, old in enumerate(order)}
@@ -711,7 +1017,8 @@ def process(index: int, row: dict, chapters: dict[int, str], force: bool, seed_r
                        for g in groups]
         kept_groups = [g for g in kept_groups if len(g["indices"]) >= 2]
         if kept:
-            ranges, conflicts, unused, omitted = write(row, kept, {remap[i] for i in approved_orig}, kept_groups)
+            ranges, conflicts, unused, omitted = write(row, kept, {remap[i] for i in approved_orig}, kept_groups,
+                                                       [e for e in evidence["timeline"] if e["verified"]])
             for rng in ranges:  # evidence indices refer to the full `facts` list
                 rng["used"] = [order[i] for i in rng["used"]]
             for c in conflicts:
@@ -721,11 +1028,30 @@ def process(index: int, row: dict, chapters: dict[int, str], force: bool, seed_r
             evidence["unused"] = [order[i] for i in unused]
             evidence["omitted"] = [{"index": order[o["index"]], "reason": o.get("reason", "")}
                                    for o in omitted if isinstance(o.get("index"), int) and 0 <= o["index"] < len(order)]
+            evidence["dismissed_events"] = [o for o in omitted if "event" in o]
             evidence["lines"] = render_lines(ranges)
     evidence["calls"] = list(_LOCAL.calls)
     OUT.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(evidence, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return evidence
+
+
+def write_timelines_md() -> None:
+    """reviews/appearance/timelines.md: every character's timeline events with verification and ranges."""
+    out = ["# Appearance timelines", "",
+           "V = verified by an approved change in the Korean (+-3 chapters); - = not verified (not used).", ""]
+    for path in sorted(OUT.glob("[0-9]*.json")):
+        ev = json.loads(path.read_text(encoding="utf-8"))
+        if not ev.get("timeline") and len(ev.get("ranges", [])) < 2:
+            continue
+        starts = [r["start"] for r in ev.get("ranges", [])]
+        out.append(f"## {ev['english']} — range starts {starts}")
+        for e in ev.get("timeline", []):
+            out.append(f"- ch{e['chapter']} {'V' if e.get('verified') else '-'} {e['change']} — {e['cause']}")
+        for r in ev.get("ranges", [])[1:]:
+            out.append(f"- RANGE from ch{r['start']}: {r.get('difference', '')}")
+        out.append("")
+    (OUT / "timelines.md").write_text("\n".join(out), encoding="utf-8")
 
 
 def write_conflicts_md() -> int:
@@ -793,7 +1119,7 @@ def command_run(args: argparse.Namespace) -> int:
     def job(item):
         index, row = item
         try:
-            return process(index, row, chapters, args.force, args.seed_rev, args.reuse_facts)
+            return process(index, row, chapters, args.force, args.seed_rev, args.reuse_facts, args.reuse_timeline, args.no_extract)
         except Exception as error:  # keep other characters going
             print(f"FAILED {row['english']}: {error}", file=sys.stderr)
             return None
@@ -802,6 +1128,7 @@ def command_run(args: argparse.Namespace) -> int:
         results = [r for r in pool.map(job, selected) if r]
     changed = apply(results) if not args.no_apply else []
     unresolved = write_conflicts_md()
+    write_timelines_md()
     calls = [c for r in results for c in r.get("calls", [])]
     cost = sum(c.get("cost_usd", 0) for c in calls)
     real = sum(1 for r in results if r["lines"] != [NOT_DESCRIBED])
@@ -826,6 +1153,8 @@ def main() -> int:
     run.add_argument("--beyond-safe", action="store_true",
                      help="only profiles whose name or alias appears after their Safe through")
     run.add_argument("--seed-rev", nargs="*", help="git revisions whose evidence facts are merged in (re-verified)")
+    run.add_argument("--no-extract", action="store_true", help="never extract; judge and write from earlier facts only")
+    run.add_argument("--reuse-timeline", action="store_true", help="reuse timeline events from earlier evidence")
     run.add_argument("--reuse-facts", action="store_true",
                      help="skip extraction when earlier facts exist; redo judging and consolidation only")
     run.add_argument("--force", action="store_true", help="redo characters that already have current evidence")

@@ -9,8 +9,175 @@
   "chapter_count": 105,
   "first_chapter": 177,
   "profile_safe_through": 1175,
-  "passages": [],
+  "passages": [
+    [
+      368,
+      57
+    ],
+    [
+      368,
+      75
+    ],
+    [
+      368,
+      60
+    ],
+    [
+      368,
+      63
+    ],
+    [
+      368,
+      36
+    ],
+    [
+      463,
+      49
+    ],
+    [
+      471,
+      39
+    ],
+    [
+      472,
+      23
+    ],
+    [
+      486,
+      21
+    ],
+    [
+      488,
+      64
+    ],
+    [
+      488,
+      54
+    ],
+    [
+      497,
+      32
+    ],
+    [
+      498,
+      86
+    ],
+    [
+      508,
+      50
+    ],
+    [
+      508,
+      56
+    ],
+    [
+      508,
+      37
+    ],
+    [
+      508,
+      28
+    ],
+    [
+      508,
+      56
+    ],
+    [
+      1076,
+      68
+    ],
+    [
+      1098,
+      25
+    ],
+    [
+      1116,
+      37
+    ],
+    [
+      1118,
+      34
+    ],
+    [
+      1123,
+      50
+    ],
+    [
+      1126,
+      53
+    ],
+    [
+      1126,
+      59
+    ],
+    [
+      1132,
+      13
+    ],
+    [
+      1137,
+      80
+    ]
+  ],
   "facts": [
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Was an aged physician (old man) before; returned to youth several years earlier, now a youthful figure with a young body",
+      "chapter": 368,
+      "quote": "수년 전 찾아온 반로환동(返老還童)은 피륙을 바꿔 놓았을지언정",
+      "marker": true,
+      "verdict": {
+        "subject": "Mungyeong (Slaughter Saint)",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Ch368 reveal: boy's hands/young body from 반로환동, established present state, revealed here"
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Appears as a youth/boy after returning to youth, revealed as Mungyeong",
+      "chapter": 368,
+      "quote": "소년, 아니 문경이라는 이름을 가진 ‘그’는 발아래를 굽어보았다.",
+      "marker": false,
+      "verdict": {
+        "subject": "Mungyeong",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "subject 'Mungyeong' is not this character; Revealed as youth Mungyeong (Slaughter Saint) in the reveal scene; youthful look shown"
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Eyes normally cold and forceful",
+      "chapter": 368,
+      "quote": "언제나 서늘하고 힘 있던 눈동자는",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Was an old man (aged physician) before; returned to youth several years earlier, now youthful",
+      "chapter": 368,
+      "quote": "수년 전 찾아온 반로환동(返老還童)은 피륙을 바꿔 놓았을지언정, 손에 배인 혈향마저 지울 수는 없었다.",
+      "marker": true,
+      "verdict": {
+        "subject": "Mungyeong (Slaughter Saint)",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same line: 반로환동 changed body; young hands shown, revealed here"
+      },
+      "status": "approved-change"
+    },
     {
       "attribute": "apparent age",
       "kind": "base",
@@ -18,12 +185,7 @@
       "chapter": 369,
       "quote": "소년, 살성의 무뚝뚝한 얼굴 위로 희미한 웃음이 스쳤다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": true,
-        "reason": "Old man's face shifts into a youth; 살성 revealed as a boy, a drastic transformation happening in this scene."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -38,17 +200,28 @@
     },
     {
       "attribute": "age",
+      "kind": "change",
+      "fact": "Reached the state of returning to youth (반로환동)",
+      "chapter": 463,
+      "quote": "설마하니 반로환동의 경지에 드셨을 줄은 몰랐습니다.",
+      "marker": true,
+      "verdict": {
+        "subject": "Mungyeong (Slaughter Saint)",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Jegal Pung states Slaughter Saint reached 반로환동; named genre transformation announced, Mungyeong addressed"
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "age",
       "kind": "base",
       "fact": "Appears as a boy physician (Mun Gyeong)",
       "chapter": 463,
       "quote": "소년 의생, 문경의 눈썹이 꿈틀거렸다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Boy physician Mun Gyeong is identified as 살성; a literal present description, but no change occurs in this scene."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -58,11 +231,70 @@
       "chapter": 463,
       "quote": "소년 의생",
       "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Body has become younger (returned to youth), though mind remains old",
+      "chapter": 486,
+      "quote": "비록 몸은 어려졌지만, 마음은 낡았다.",
+      "marker": true,
       "verdict": {
+        "subject": "Mungyeong",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "subject 'Mungyeong' is not this character; Body younger stated as established fact, but no new reveal here; just reflection"
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Looks like a young medical apprentice; actually a peak master youthened by returning to youth",
+      "chapter": 488,
+      "quote": "눈앞의 어린 의생이 반로환동으로 젊어진 초절정 고수",
+      "marker": true,
+      "verdict": {
+        "subject": "Slaughter Saint",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Boy physician is recognized as 살성; literal present look, no change shown."
+        "reason": "Young-looking apprentice via 반로환동 is established state; narrator's remark, not new reveal"
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears as a young man, innocent-looking",
+      "chapter": 488,
+      "quote": "천진난만해 보이는 어린 의생에서 고금제일의 살수로 변모한 어린 청년이",
+      "marker": true,
+      "verdict": {
+        "subject": "Slaughter Saint",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Moon Gyeong = Slaughter Saint; young-looking, innocent-looking physician transformed into top assassin; the youthful look is revealed here"
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Looks like a young medical apprentice due to returning to youth, though actually a peak-level master.",
+      "chapter": 488,
+      "quote": "눈앞의 어린 의생이 반로환동으로 젊어진 초절정 고수라고는 짐작하지 못할 거다.",
+      "marker": true,
+      "verdict": {
+        "subject": "Slaughter Saint",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Young physician is Slaughter Saint, rejuvenated via 반로환동; the transformation is announced as having happened"
       },
       "status": "kept"
     },
@@ -74,12 +306,13 @@
       "quote": "눈앞의 어린 의생이 반로환동으로 젊어진 초절정 고수라고는",
       "marker": true,
       "verdict": {
+        "subject": "Slaughter Saint",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": true,
-        "reason": "The young physician is Slaughter Saint, who got younger via 반로환동 (literal, lasting rejuvenation). Mentioned as a recent fact, with later chapters confirming the boy look."
+        "lasting_change": false,
+        "reason": "Same line; young-looking physician, rejuvenated via 반로환동, named as 살성 in context"
       },
-      "status": "approved-change"
+      "status": "kept"
     },
     {
       "attribute": "age",
@@ -89,12 +322,13 @@
       "quote": "반로환동으로 젊어진 초절정 고수",
       "marker": true,
       "verdict": {
+        "subject": "Slaughter Saint",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": true,
-        "reason": "Same line as 0. The young look comes from a lasting return to youth, not a costume."
+        "lasting_change": false,
+        "reason": "Same line; 반로환동 announced as having happened to 살성"
       },
-      "status": "approved-change"
+      "status": "kept"
     },
     {
       "attribute": "build",
@@ -105,6 +339,54 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Has reached returning to youth (반로환동), becoming young again",
+      "chapter": 508,
+      "quote": "현재의 문경은 이미 반박귀진(返璞歸眞)의 경지와 더불어 반로환동(返老還童)에 도달한 상태.",
+      "marker": true,
+      "verdict": {
+        "subject": "Moon Gyeong (Slaughter Saint)",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Moon Gyeong has reached 반로환동 as a current state; named transformation announced"
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "forehead",
+      "kind": "change",
+      "fact": "Forehead is smooth and wrinkle-free from returning to youth",
+      "chapter": 508,
+      "quote": "반로환동으로 주름 하나 없이 매끈해졌던 이마에 깊은 고랑이 파였다.",
+      "marker": true,
+      "verdict": {
+        "subject": "Moon Gyeong (Slaughter Saint)",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Smooth forehead is the established look, but this passage shows a brief anger furrow, not a lasting change; the 반로환동 is only mentioned as backstory here"
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (반로환동), now looks young",
+      "chapter": 508,
+      "quote": "반로환동 하더니 입만 살았어.",
+      "marker": true,
+      "verdict": {
+        "subject": "Slaughter Saint",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Speaker Mun Gyeong addresses the old-man-speaking 'noboo' character (not clearly Slaughter Saint; the narrator is someone else, and Jeok Cheon-gang is a separate person). The 반로환동 remark is a passing quip, not a shown change here, and the identity of the target is not explicit."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "occupation/reputation",
@@ -123,13 +405,24 @@
       "chapter": 1074,
       "quote": "아무리 높게 쳐줘도 약관에 못 미치는 소년이",
       "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Returned to youth (회춘); appears young again",
+      "chapter": 1098,
+      "quote": "회춘하셔서 그런가, 귀가 더 밝아지셨네요.",
+      "marker": true,
       "verdict": {
-        "this_character": true,
+        "subject": "Jeok Cheon-gang",
+        "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "The boy with the 소도 is Slaughter Saint, described as looking under 20. This is a plain present-time description, and no change happens in this scene."
+        "reason": "The 회춘 remark is directed at the elder master Jeok Cheon-gang, and nothing in the passage names Slaughter Saint as that person. It is a passing remark that treats the youth as already established, so no change is shown here."
       },
-      "status": "kept"
+      "status": "rejected"
     },
     {
       "attribute": "apparent age",
@@ -138,126 +431,234 @@
       "chapter": 1100,
       "quote": "아직 솜털도 채 가시지 않은 것 같은 저 소년이",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "The boy with peach fuzz is explicitly identified as Slaughter Saint. This is an ordinary present description, not a change shown in this scene."
-      },
+      "verdict": null,
       "status": "kept"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
+  "rejected": [
+    1,
+    9,
+    18,
+    21
+  ],
   "judgments": {
-    "488|눈앞의어린의생이반로환동으로젊어진초절정고수라고는": {
+    "368|수년전찾아온반로환동(返老還童)은피륙을바꿔놓았을지언정": {
+      "subject": "Mungyeong (Slaughter Saint)",
       "this_character": true,
       "literal_present": true,
       "lasting_change": true,
-      "reason": "The young physician is Slaughter Saint, who got younger via 반로환동 (literal, lasting rejuvenation). Mentioned as a recent fact, with later chapters confirming the boy look."
+      "reason": "Ch368 reveal: boy's hands/young body from 반로환동, established present state, revealed here"
+    },
+    "368|소년,아니문경이라는이름을가진‘그’는발아래를굽어보았다.": {
+      "subject": "Mungyeong",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "subject 'Mungyeong' is not this character; Revealed as youth Mungyeong (Slaughter Saint) in the reveal scene; youthful look shown"
+    },
+    "368|수년전찾아온반로환동(返老還童)은피륙을바꿔놓았을지언정,손에배인혈향마저지울수는없었다.": {
+      "subject": "Mungyeong (Slaughter Saint)",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line: 반로환동 changed body; young hands shown, revealed here"
+    },
+    "463|설마하니반로환동의경지에드셨을줄은몰랐습니다.": {
+      "subject": "Mungyeong (Slaughter Saint)",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Jegal Pung states Slaughter Saint reached 반로환동; named genre transformation announced, Mungyeong addressed"
+    },
+    "486|비록몸은어려졌지만,마음은낡았다.": {
+      "subject": "Mungyeong",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "subject 'Mungyeong' is not this character; Body younger stated as established fact, but no new reveal here; just reflection"
+    },
+    "488|눈앞의어린의생이반로환동으로젊어진초절정고수": {
+      "subject": "Slaughter Saint",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Young-looking apprentice via 반로환동 is established state; narrator's remark, not new reveal"
+    },
+    "488|천진난만해보이는어린의생에서고금제일의살수로변모한어린청년이": {
+      "subject": "Slaughter Saint",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Moon Gyeong = Slaughter Saint; young-looking, innocent-looking physician transformed into top assassin; the youthful look is revealed here"
+    },
+    "488|눈앞의어린의생이반로환동으로젊어진초절정고수라고는짐작하지못할거다.": {
+      "subject": "Slaughter Saint",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Young physician is Slaughter Saint, rejuvenated via 반로환동; the transformation is announced as having happened"
+    },
+    "488|눈앞의어린의생이반로환동으로젊어진초절정고수라고는": {
+      "subject": "Slaughter Saint",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same line; young-looking physician, rejuvenated via 반로환동, named as 살성 in context"
     },
     "488|반로환동으로젊어진초절정고수": {
+      "subject": "Slaughter Saint",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same line; 반로환동 announced as having happened to 살성"
+    },
+    "508|현재의문경은이미반박귀진(返璞歸眞)의경지와더불어반로환동(返老還童)에도달한상태.": {
+      "subject": "Moon Gyeong (Slaughter Saint)",
       "this_character": true,
       "literal_present": true,
       "lasting_change": true,
-      "reason": "Same line as 0. The young look comes from a lasting return to youth, not a costume."
+      "reason": "Moon Gyeong has reached 반로환동 as a current state; named transformation announced"
     },
-    "1074|아무리높게쳐줘도약관에못미치는소년이": {
+    "508|반로환동으로주름하나없이매끈해졌던이마에깊은고랑이파였다.": {
+      "subject": "Moon Gyeong (Slaughter Saint)",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "The boy with the 소도 is Slaughter Saint, described as looking under 20. This is a plain present-time description, and no change happens in this scene."
+      "reason": "Smooth forehead is the established look, but this passage shows a brief anger furrow, not a lasting change; the 반로환동 is only mentioned as backstory here"
     },
-    "1100|아직솜털도채가시지않은것같은저소년이": {
-      "this_character": true,
+    "508|반로환동하더니입만살았어.": {
+      "subject": "Slaughter Saint",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "The boy with peach fuzz is explicitly identified as Slaughter Saint. This is an ordinary present description, not a change shown in this scene."
+      "reason": "Speaker Mun Gyeong addresses the old-man-speaking 'noboo' character (not clearly Slaughter Saint; the narrator is someone else, and Jeok Cheon-gang is a separate person). The 반로환동 remark is a passing quip, not a shown change here, and the identity of the target is not explicit."
     },
-    "369|소년,살성의무뚝뚝한얼굴위로희미한웃음이스쳤다.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": true,
-      "reason": "Old man's face shifts into a youth; 살성 revealed as a boy, a drastic transformation happening in this scene."
-    },
-    "463|소년의생,문경의눈썹이꿈틀거렸다.": {
-      "this_character": true,
+    "1098|회춘하셔서그런가,귀가더밝아지셨네요.": {
+      "subject": "Jeok Cheon-gang",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Boy physician Mun Gyeong is identified as 살성; a literal present description, but no change occurs in this scene."
-    },
-    "463|소년의생": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Boy physician is recognized as 살성; literal present look, no change shown."
+      "reason": "The 회춘 remark is directed at the elder master Jeok Cheon-gang, and nothing in the passage names Slaughter Saint as that person. It is a passing remark that treats the youth as already established, so no change is shown here."
     }
   },
-  "conflicts": [
+  "conflicts": [],
+  "unused": [],
+  "timeline_events": [
     {
-      "attribute": "apparent age",
-      "indices": [
+      "chapter": 368,
+      "change": "old man (aged physician) -> youthful figure with a young body; skin smooth, though bloody scent on hands remains",
+      "cause": "returned to youth (반로환동) several years earlier; revealed as Slaughter Saint Mungyeong in this chapter",
+      "sure": true
+    },
+    {
+      "chapter": 508,
+      "change": "forehead smooth and wrinkle-free from youth -> deep furrows dug into the forehead (brief, tied to emotion/expression)",
+      "cause": "expression of anger or stress after returning to youth",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 368,
+      "change": "old man (aged physician) -> youthful figure with a young body; skin smooth, though bloody scent on hands remains",
+      "cause": "returned to youth (반로환동) several years earlier; revealed as Slaughter Saint Mungyeong in this chapter",
+      "sure": true,
+      "facts": [
+        0,
+        3
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 508,
+      "change": "forehead smooth and wrinkle-free from youth -> deep furrows dug into the forehead (brief, tied to emotion/expression)",
+      "cause": "expression of anger or stress after returning to youth",
+      "sure": false,
+      "facts": [
+        16
+      ],
+      "verified": true
+    }
+  ],
+  "dismissed_events": [
+    {
+      "event": 508,
+      "reason": "dismissed"
+    }
+  ],
+  "ranges": [
+    {
+      "start": 368,
+      "description": "Slaughter Saint is a male with a young, slender, lean body and smooth skin, a wrinkle-free forehead and peach fuzz still on his face. He looks like a boy under twenty, like a young medical apprentice, after returning to youth. His eyes are cold and forceful, with a dry, flat gaze. Tags: male, boy, youthful, under twenty, slender, lean, smooth skin, smooth forehead, peach fuzz, young physician look, cold eyes, flat gaze",
+      "used": [
         0,
         2,
         3,
         4,
         5,
+        6,
+        7,
         8,
-        9
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        20,
+        22
       ],
-      "kept": [
-        0,
-        2,
-        3
-      ],
-      "resolved": true,
-      "reason": "Earliest and most repeated value is a plain 'boy' (0, 2, 3). The other age wordings (young-looking, under twenty, peach fuzz) are less clear and appear later."
-    }
-  ],
-  "unused": [],
-  "ranges": [
-    {
-      "start": 177,
-      "description": "Slaughter Saint is a male who looks like a boy, with a slender, lean build. He has a dry, flat gaze. Tags: male, boy, slender, lean build, dry flat eyes",
-      "used": [
-        0,
-        1,
-        2,
-        3,
-        6
-      ],
-      "difference": ""
+      "difference": "not described -> youthful boy with smooth skin, after returning to youth (반로환동)"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 177):** Slaughter Saint is a male who looks like a boy, with a slender, lean build. He has a dry, flat gaze. Tags: male, boy, slender, lean build, dry flat eyes"
+    "- **Appearance (from ch 368):** Slaughter Saint is a male with a young, slender, lean body and smooth skin, a wrinkle-free forehead and peach fuzz still on his face. He looks like a boy under twenty, like a young medical apprentice, after returning to youth. His eyes are cold and forceful, with a dry, flat gaze. Tags: male, boy, youthful, under twenty, slender, lean, smooth skin, smooth forehead, peach fuzz, young physician look, cold eyes, flat gaze"
   ],
   "omitted": [
     {
-      "index": 4,
-      "reason": "Rejuvenation is a transformation. The earlier facts already show a boy, so there is no visible change and no new range."
-    },
-    {
-      "index": 5,
-      "reason": "Same rejuvenation as fact 4, so it is exposition only. It does not open a range and is not used."
-    },
-    {
-      "index": 7,
-      "reason": "Reputation as the greatest assassin, not a visual trait."
+      "index": 19,
+      "reason": "reputation (greatest assassin of all time), not a visual trait"
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.01761
+      "cost_usd": 0.0228119
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0205031
+      "cost_usd": 0.0233086
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.031703
+      "cost_usd": 0.023386700000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0197693
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0256485
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.031014899999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0316578
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.023724799999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0400547
     }
   ]
 }

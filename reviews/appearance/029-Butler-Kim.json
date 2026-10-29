@@ -9,7 +9,124 @@
   "chapter_count": 76,
   "first_chapter": 51,
   "profile_safe_through": 553,
-  "passages": [],
+  "passages": [
+    [
+      78,
+      61
+    ],
+    [
+      84,
+      54
+    ],
+    [
+      86,
+      75
+    ],
+    [
+      100,
+      72
+    ],
+    [
+      220,
+      39
+    ],
+    [
+      220,
+      55
+    ],
+    [
+      222,
+      38
+    ],
+    [
+      223,
+      45
+    ],
+    [
+      225,
+      52
+    ],
+    [
+      274,
+      49
+    ],
+    [
+      286,
+      44
+    ],
+    [
+      299,
+      75
+    ],
+    [
+      300,
+      82
+    ],
+    [
+      421,
+      68
+    ],
+    [
+      561,
+      70
+    ],
+    [
+      575,
+      85
+    ],
+    [
+      578,
+      53
+    ],
+    [
+      578,
+      44
+    ],
+    [
+      578,
+      74
+    ],
+    [
+      582,
+      81
+    ],
+    [
+      583,
+      49
+    ],
+    [
+      583,
+      65
+    ],
+    [
+      584,
+      80
+    ],
+    [
+      584,
+      66
+    ],
+    [
+      584,
+      40
+    ],
+    [
+      584,
+      77
+    ],
+    [
+      593,
+      88
+    ],
+    [
+      597,
+      47
+    ],
+    [
+      610,
+      44
+    ]
+  ],
   "facts": [
     {
       "attribute": "build",
@@ -18,13 +135,8 @@
       "chapter": 80,
       "quote": "제법 다부진 체격이다.",
       "marker": false,
-      "verdict": {
-        "this_character": false,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Describes 임창수, not Butler Kim."
-      },
-      "status": "rejected"
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "clothing",
@@ -76,6 +188,16 @@
       "status": "kept"
     },
     {
+      "attribute": "body hair",
+      "kind": "base",
+      "fact": "Has hairy arms",
+      "chapter": 274,
+      "quote": "그의 털북숭이 팔이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
       "attribute": "facial hair",
       "kind": "base",
       "fact": "Has a well-groomed beard on his chin",
@@ -102,13 +224,8 @@
       "chapter": 420,
       "quote": "나이든 김 집사",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": false,
-        "lasting_change": false,
-        "reason": "Memory/backstory of Choi Minwoo's past; 'old Kim' is a passing mention in recollection, not a present-time description."
-      },
-      "status": "rejected"
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
@@ -117,97 +234,217 @@
       "chapter": 420,
       "quote": "나이든 김 집사만이 속을 터놓을 수 있는 유일한 상대였다.",
       "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "hair",
+      "kind": "change",
+      "fact": "Hair turned white (frosted) with age as years passed",
+      "chapter": 584,
+      "quote": "김화종의 머리에는 새하얀 서리가 내려앉았다",
+      "marker": true,
       "verdict": {
-        "this_character": true,
-        "literal_present": false,
+        "subject": "김화종",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "subject '김화종' is not this character; Time skip: his head now frosted white with age, stated as established present state; shown here."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Visibly aging, gradually growing older",
+      "chapter": 584,
+      "quote": "조금씩 늙어 가던 김화종의 마음을",
+      "marker": false,
+      "verdict": {
+        "subject": "김화종",
+        "this_character": false,
+        "literal_present": true,
         "lasting_change": false,
-        "reason": "Memory/backstory of Choi Minwoo's past; 'old Kim' is a passing mention in recollection, not a present-time description."
+        "reason": "subject '김화종' is not this character; Flashback; gradually aging is only mild, no drastic visible change."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Gradually aged, visibly older over time",
+      "chapter": 584,
+      "quote": "조금씩 늙어 가던 김화종의 마음을 아프게 했다",
+      "marker": false,
+      "verdict": {
+        "subject": "김화종",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "subject '김화종' is not this character; Flashback to funeral; slow aging is not a drastic change."
       },
       "status": "rejected"
     },
     {
       "attribute": "hair",
       "kind": "change",
-      "fact": "Hair turned gray/white with age (frost settled on his head)",
+      "fact": "Butler's hair turned grey/white with age",
       "chapter": 597,
       "quote": "집사의 머리에는 서리가 내려앉았다",
       "marker": true,
       "verdict": {
+        "subject": "김 집사",
         "this_character": true,
-        "literal_present": false,
-        "lasting_change": false,
-        "reason": "Summary of the passage of 20+ years, a backstory; 'frost on head' is a metaphor for graying hair, not a lasting change in this scene."
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Butler's hair now frosted white after 20+ years; announced as present look."
       },
-      "status": "rejected"
+      "status": "approved-change"
     }
   ],
   "dropped_facts": [],
   "rejected": [
-    0,
-    8,
-    9,
-    10
+    11,
+    12,
+    13
   ],
   "judgments": {
-    "597|집사의머리에는서리가내려앉았다": {
-      "this_character": true,
-      "literal_present": false,
-      "lasting_change": false,
-      "reason": "Summary of the passage of 20+ years, a backstory; 'frost on head' is a metaphor for graying hair, not a lasting change in this scene."
+    "584|김화종의머리에는새하얀서리가내려앉았다": {
+      "subject": "김화종",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "subject '김화종' is not this character; Time skip: his head now frosted white with age, stated as established present state; shown here."
     },
-    "80|제법다부진체격이다.": {
+    "584|조금씩늙어가던김화종의마음을": {
+      "subject": "김화종",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Describes 임창수, not Butler Kim."
+      "reason": "subject '김화종' is not this character; Flashback; gradually aging is only mild, no drastic visible change."
     },
-    "420|나이든김집사": {
-      "this_character": true,
-      "literal_present": false,
+    "584|조금씩늙어가던김화종의마음을아프게했다": {
+      "subject": "김화종",
+      "this_character": false,
+      "literal_present": true,
       "lasting_change": false,
-      "reason": "Memory/backstory of Choi Minwoo's past; 'old Kim' is a passing mention in recollection, not a present-time description."
+      "reason": "subject '김화종' is not this character; Flashback to funeral; slow aging is not a drastic change."
     },
-    "420|나이든김집사만이속을터놓을수있는유일한상대였다.": {
+    "597|집사의머리에는서리가내려앉았다": {
+      "subject": "김 집사",
       "this_character": true,
-      "literal_present": false,
-      "lasting_change": false,
-      "reason": "Memory/backstory of Choi Minwoo's past; 'old Kim' is a passing mention in recollection, not a present-time description."
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Butler's hair now frosted white after 20+ years; announced as present look."
     }
   },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 583,
+      "change": "lost one arm, apparently permanent (owner not named in the evidence; may not be Butler Kim) -> one-armed",
+      "cause": "injury in battle, sacrificed to save something more precious",
+      "sure": false
+    },
+    {
+      "chapter": 584,
+      "change": "hair turned white with age (김화종, apparently Butler Kim) -> the boy he served grew into a young man while his own head was frosted white",
+      "cause": "time skip / aging",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 583,
+      "change": "lost one arm, apparently permanent (owner not named in the evidence; may not be Butler Kim) -> one-armed",
+      "cause": "injury in battle, sacrificed to save something more precious",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 584,
+      "change": "hair turned white with age (김화종, apparently Butler Kim) -> the boy he served grew into a young man while his own head was frosted white",
+      "cause": "time skip / aging",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 51,
-      "description": "Butler Kim is a man in a plain suit, light and simple attire with no armor and no staff. He wears bracelets on both wrists and a necklace, all magical items. He has a well-groomed, stylish beard on his chin. Tags: male, suit, light mage attire, no armor, no staff, bracelets on both wrists, necklace, magical accessories, well-groomed chin beard",
+      "description": "Butler Kim, a sturdy, solidly built elderly man with a well-groomed, full beard on his chin and hairy arms. He wears a suit, light and simple mage attire with no armor or staff, plus bracelets on both wrists and a necklace. Tags: elderly man, male, sturdy build, well-groomed chin beard, hairy arms, suit, light mage attire, bracelets on both wrists, necklace",
       "used": [
+        0,
         1,
         2,
         3,
         4,
         5,
         6,
-        7
+        7,
+        8,
+        9,
+        10
       ],
       "difference": ""
+    },
+    {
+      "start": 597,
+      "description": "Butler Kim, a sturdy, solidly built elderly man with grey/white hair turned frosty with age, a well-groomed, full beard on his chin and hairy arms. He wears a suit, light and simple mage attire with no armor or staff, plus bracelets on both wrists and a necklace. Tags: elderly man, male, grey-white hair, sturdy build, well-groomed chin beard, hairy arms, suit, light mage attire, bracelets on both wrists, necklace",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        14
+      ],
+      "difference": "hair turned grey/white with age"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 51):** Butler Kim is a man in a plain suit, light and simple attire with no armor and no staff. He wears bracelets on both wrists and a necklace, all magical items. He has a well-groomed, stylish beard on his chin. Tags: male, suit, light mage attire, no armor, no staff, bracelets on both wrists, necklace, magical accessories, well-groomed chin beard"
+    "- **Appearance (ch 51–596):** Butler Kim, a sturdy, solidly built elderly man with a well-groomed, full beard on his chin and hairy arms. He wears a suit, light and simple mage attire with no armor or staff, plus bracelets on both wrists and a necklace. Tags: elderly man, male, sturdy build, well-groomed chin beard, hairy arms, suit, light mage attire, bracelets on both wrists, necklace",
+    "- **Appearance (from ch 597):** Butler Kim, a sturdy, solidly built elderly man with grey/white hair turned frosty with age, a well-groomed, full beard on his chin and hairy arms. He wears a suit, light and simple mage attire with no armor or staff, plus bracelets on both wrists and a necklace. Tags: elderly man, male, grey-white hair, sturdy build, well-groomed chin beard, hairy arms, suit, light mage attire, bracelets on both wrists, necklace"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0175472
+      "cost_usd": 0.0204885
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0209023
+      "cost_usd": 0.022196
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0246053
+      "cost_usd": 0.0212105
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.020529299999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.019748299999999996
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.027465800000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.026281099999999998
     }
   ]
 }

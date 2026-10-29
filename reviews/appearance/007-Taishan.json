@@ -9,8 +9,141 @@
   "chapter_count": 160,
   "first_chapter": 37,
   "profile_safe_through": 1183,
-  "passages": [],
+  "passages": [
+    [
+      230,
+      42
+    ],
+    [
+      230,
+      38
+    ],
+    [
+      230,
+      49
+    ],
+    [
+      230,
+      47
+    ],
+    [
+      260,
+      36
+    ],
+    [
+      296,
+      34
+    ],
+    [
+      485,
+      41
+    ],
+    [
+      486,
+      21
+    ],
+    [
+      622,
+      9
+    ],
+    [
+      639,
+      35
+    ],
+    [
+      645,
+      39
+    ],
+    [
+      679,
+      84
+    ],
+    [
+      702,
+      63
+    ],
+    [
+      714,
+      58
+    ],
+    [
+      714,
+      47
+    ],
+    [
+      836,
+      56
+    ],
+    [
+      837,
+      78
+    ],
+    [
+      882,
+      47
+    ],
+    [
+      922,
+      46
+    ],
+    [
+      990,
+      34
+    ],
+    [
+      995,
+      42
+    ],
+    [
+      1036,
+      89
+    ],
+    [
+      1046,
+      52
+    ],
+    [
+      1048,
+      74
+    ],
+    [
+      1056,
+      31
+    ],
+    [
+      1076,
+      68
+    ],
+    [
+      1082,
+      37
+    ],
+    [
+      1120,
+      69
+    ],
+    [
+      1124,
+      55
+    ]
+  ],
   "facts": [
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Body has become younger (rejuvenated), though the mind is old",
+      "chapter": 486,
+      "quote": "비록 몸은 어려졌지만",
+      "marker": true,
+      "verdict": {
+        "subject": "문경",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Speaker is 문경 (Mungyeong), whose body became younger; not Taishan."
+      },
+      "status": "rejected"
+    },
     {
       "attribute": "eyes",
       "kind": "base",
@@ -29,12 +162,29 @@
       "quote": "덩치 큰 어린아이의 모습에",
       "marker": false,
       "verdict": {
+        "subject": "태산",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Taishan is the big-bodied child-like figure asking for food; literal description."
+        "reason": "Big childlike figure who speaks of himself as 태산; ordinary description of an unchanged look."
       },
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (rejuvenation, 반로환동)",
+      "chapter": 622,
+      "quote": "“반로환동이요.”",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The acquaintance cured by 반로환동 is 적천강, not Taishan. It is a casual mention."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "eyes",
@@ -59,15 +209,48 @@
     {
       "attribute": "build",
       "kind": "base",
+      "fact": "Has slender, thin wrists despite being a mighty monster",
+      "chapter": 702,
+      "quote": "가느다란 팔목이 깨끗이 잘려 나감과 동시에 비명이 터져 나왔다.",
+      "marker": false,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The monster with the severed wrist is unnamed and not clearly Taishan; 진태경 is only the listener."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Lost both arms and has a hole through the middle of the chest",
+      "chapter": 714,
+      "quote": "양팔을 잃고, 가슴 한복판이 뻥 뚫린 채 다가온 그는 내 목덜미에 이빨을 박아넣었다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "The figure is 적천강 in a nightmare, so it is not Taishan and not a real fact."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
       "fact": "Has a very large, bulky frame",
       "chapter": 849,
       "quote": "그 커다란 덩치 뒤에서 씩씩거리며 모습을 드러냈다",
       "marker": false,
       "verdict": {
+        "subject": "태산",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Nam Ho emerges from behind Taishan's huge frame; literal."
+        "reason": "Named 태산 with a huge frame (커다란 덩치); a plain description with no change."
       },
       "status": "kept"
     },
@@ -79,10 +262,11 @@
       "quote": "이름만큼이나 덩치가 산만 하고.",
       "marker": false,
       "verdict": {
+        "subject": "태산",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Dialogue describes Taishan as mountain-sized; literal, confirmed by speaker."
+        "reason": "Dialogue confirms the known Taishan is mountain-sized; ordinary established description."
       },
       "status": "kept"
     },
@@ -94,10 +278,11 @@
       "quote": "덩치 엄청나게 큰 그 사람.",
       "marker": false,
       "verdict": {
+        "subject": "태산",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Hong-jin describes Taishan as the very big person; literal."
+        "reason": "Named Taishan sosyeop, very large build; unchanged look."
       },
       "status": "kept"
     },
@@ -109,12 +294,29 @@
       "quote": "커다란 덩치가 자세를 낮추자",
       "marker": false,
       "verdict": {
+        "subject": "태산",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Taishan lowers his large frame so heads are level; literal."
+        "reason": "Namho pats Taishan's head, then his large frame lowers; ordinary description, posture is temporary."
       },
       "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Underwent 환골탈태 (body remade) shortly before this chapter",
+      "chapter": 995,
+      "quote": "엊그제 환골탈태한 사람한테",
+      "marker": true,
+      "verdict": {
+        "subject": "주화란",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The 환골탈태 person is the one Hyeok Mujin tells Ju Hwaran not to ask about their condition. Narrator is not Taishan, and Taishan is addressed separately afterward. The text doesn't make Taishan the subject."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "build",
@@ -124,10 +326,11 @@
       "quote": "구척장신의 거구(巨軀)",
       "marker": false,
       "verdict": {
+        "subject": "태산",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Taishan described as a nine-chok giant; literal, no change."
+        "reason": "Named Taishan, 구척장신 거구 is his established frame; not a change."
       },
       "status": "kept"
     },
@@ -143,96 +346,172 @@
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
+  "rejected": [
+    0,
+    3,
+    6,
+    7,
+    12
+  ],
   "judgments": {
+    "486|비록몸은어려졌지만": {
+      "subject": "문경",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Speaker is 문경 (Mungyeong), whose body became younger; not Taishan."
+    },
     "534|덩치큰어린아이의모습에": {
+      "subject": "태산",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Taishan is the big-bodied child-like figure asking for food; literal description."
+      "reason": "Big childlike figure who speaks of himself as 태산; ordinary description of an unchanged look."
+    },
+    "622|“반로환동이요.”": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The acquaintance cured by 반로환동 is 적천강, not Taishan. It is a casual mention."
+    },
+    "702|가느다란팔목이깨끗이잘려나감과동시에비명이터져나왔다.": {
+      "subject": "진태경",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The monster with the severed wrist is unnamed and not clearly Taishan; 진태경 is only the listener."
+    },
+    "714|양팔을잃고,가슴한복판이뻥뚫린채다가온그는내목덜미에이빨을박아넣었다.": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "The figure is 적천강 in a nightmare, so it is not Taishan and not a real fact."
     },
     "849|그커다란덩치뒤에서씩씩거리며모습을드러냈다": {
+      "subject": "태산",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Nam Ho emerges from behind Taishan's huge frame; literal."
+      "reason": "Named 태산 with a huge frame (커다란 덩치); a plain description with no change."
     },
     "937|이름만큼이나덩치가산만하고.": {
+      "subject": "태산",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Dialogue describes Taishan as mountain-sized; literal, confirmed by speaker."
+      "reason": "Dialogue confirms the known Taishan is mountain-sized; ordinary established description."
     },
     "937|덩치엄청나게큰그사람.": {
+      "subject": "태산",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Hong-jin describes Taishan as the very big person; literal."
+      "reason": "Named Taishan sosyeop, very large build; unchanged look."
     },
     "983|커다란덩치가자세를낮추자": {
+      "subject": "태산",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Taishan lowers his large frame so heads are level; literal."
+      "reason": "Namho pats Taishan's head, then his large frame lowers; ordinary description, posture is temporary."
+    },
+    "995|엊그제환골탈태한사람한테": {
+      "subject": "주화란",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The 환골탈태 person is the one Hyeok Mujin tells Ju Hwaran not to ask about their condition. Narrator is not Taishan, and Taishan is addressed separately afterward. The text doesn't make Taishan the subject."
     },
     "1059|구척장신의거구(巨軀)": {
+      "subject": "태산",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Taishan described as a nine-chok giant; literal, no change."
+      "reason": "Named Taishan, 구척장신 거구 is his established frame; not a change."
     }
   },
   "conflicts": [
     {
       "attribute": "build",
       "indices": [
-        1,
-        4,
-        5,
-        6,
-        7,
-        8
+        2,
+        8,
+        9,
+        10,
+        11,
+        13
       ],
       "kept": [
-        4,
-        5,
-        6,
-        7
+        8,
+        9,
+        10,
+        11,
+        13
       ],
       "resolved": true,
-      "reason": "Facts 4-7 repeatedly agree on a huge, bulky frame. Fact 1 (childlike appearance) and fact 8 (specific ~2.7m height) differ in value, so both are left out."
+      "reason": "Five facts, repeated across chapters, agree on a huge, mountain-like frame, with a concrete height of about 2.7 m. Fact 1 (childlike look) is a single mention and clashes with that scale, so it is dropped."
     }
   ],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 37,
-      "description": "Taishan is a male character with a huge, bulky, mountain-sized frame. He has very large, round, bulging eyes, as big as a calf's. Tags: male, huge bulky build, mountain-like frame, big round bulging eyes, calf-like eyes",
+      "description": "Taishan is a male figure with a huge, bulky, mountain-like giant frame, roughly 2.7 m tall. He has very large, round, bulging eyes, as big as a calf's. Tags: male, giant, huge bulky build, mountain-sized frame, about 2.7 m tall, big round bulging eyes, calf-like eyes",
       "used": [
-        0,
-        2,
-        3,
+        1,
         4,
         5,
-        6,
-        7,
-        9
+        8,
+        9,
+        10,
+        11,
+        13,
+        14
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 37):** Taishan is a male character with a huge, bulky, mountain-sized frame. He has very large, round, bulging eyes, as big as a calf's. Tags: male, huge bulky build, mountain-like frame, big round bulging eyes, calf-like eyes"
+    "- **Appearance (from ch 37):** Taishan is a male figure with a huge, bulky, mountain-like giant frame, roughly 2.7 m tall. He has very large, round, bulging eyes, as big as a calf's. Tags: male, giant, huge bulky build, mountain-sized frame, about 2.7 m tall, big round bulging eyes, calf-like eyes"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.017037999999999998
+      "cost_usd": 0.0217587
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0232558
+      "cost_usd": 0.020904
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.022675499999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0204406
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.021137699999999995
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.029326500000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.028437300000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0256797
     }
   ]
 }

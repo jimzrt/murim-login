@@ -9,7 +9,116 @@
   "chapter_count": 335,
   "first_chapter": 6,
   "profile_safe_through": 1191,
-  "passages": [],
+  "passages": [
+    [
+      26,
+      15
+    ],
+    [
+      26,
+      48
+    ],
+    [
+      29,
+      87
+    ],
+    [
+      65,
+      16
+    ],
+    [
+      106,
+      56
+    ],
+    [
+      150,
+      73
+    ],
+    [
+      179,
+      46
+    ],
+    [
+      197,
+      44
+    ],
+    [
+      197,
+      49
+    ],
+    [
+      336,
+      36
+    ],
+    [
+      340,
+      20
+    ],
+    [
+      340,
+      12
+    ],
+    [
+      488,
+      64
+    ],
+    [
+      496,
+      31
+    ],
+    [
+      508,
+      50
+    ],
+    [
+      544,
+      74
+    ],
+    [
+      545,
+      70
+    ],
+    [
+      622,
+      9
+    ],
+    [
+      891,
+      80
+    ],
+    [
+      922,
+      46
+    ],
+    [
+      980,
+      75
+    ],
+    [
+      998,
+      40
+    ],
+    [
+      998,
+      60
+    ],
+    [
+      998,
+      69
+    ],
+    [
+      998,
+      34
+    ],
+    [
+      999,
+      48
+    ],
+    [
+      1056,
+      31
+    ]
+  ],
   "facts": [
     {
       "attribute": "eyebrows",
@@ -88,6 +197,22 @@
       "status": "kept"
     },
     {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (banro-hwandong); looks like a young physician though he is an old peak-level master. Subject inferred, not named in passage.",
+      "chapter": 488,
+      "quote": "눈앞의 어린 의생이 반로환동으로 젊어진 초절정 고수",
+      "marker": true,
+      "verdict": {
+        "subject": "나 (narrator)",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narrator '나' is the young physician. Item 1 shows narrator looking at 혁무진 as a separate person. Not named as Hyuk Mujin."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears to be a young man",
@@ -96,17 +221,94 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Body remade via Bone Transformation (환골탈태), at the Dengfeng Zaoji realm; subject of passage unclear, may not be Hyuk Mujin",
+      "chapter": 998,
+      "quote": "이제는 등봉조극의 경지에 환골탈태까지 완성한, 그야말로 초인 중의 초인.",
+      "marker": true,
+      "verdict": {
+        "subject": "나 (narrator)",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Follows '나는 ... 초절정도 아니다', so the 환골탈태 line describes the narrator. Hyuk Mujin is the separate 녀석 in the next line."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Looks quite young, a martial artist much younger in appearance than the speaker",
+      "chapter": 999,
+      "quote": "나이도 한참 젊어 보이는 친구",
+      "marker": true,
+      "verdict": {
+        "subject": "나 (narrator)",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Taoist addresses the narrator ('나이만 새파랗지 배분은 노인네'). Hyuk Mujin is not identified. Only an ordinary young-looking description, no change shown."
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
-  "judgments": {},
+  "rejected": [
+    8,
+    10,
+    11
+  ],
+  "judgments": {
+    "488|눈앞의어린의생이반로환동으로젊어진초절정고수": {
+      "subject": "나 (narrator)",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narrator '나' is the young physician. Item 1 shows narrator looking at 혁무진 as a separate person. Not named as Hyuk Mujin."
+    },
+    "998|이제는등봉조극의경지에환골탈태까지완성한,그야말로초인중의초인.": {
+      "subject": "나 (narrator)",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Follows '나는 ... 초절정도 아니다', so the 환골탈태 line describes the narrator. Hyuk Mujin is the separate 녀석 in the next line."
+    },
+    "999|나이도한참젊어보이는친구": {
+      "subject": "나 (narrator)",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Taoist addresses the narrator ('나이만 새파랗지 배분은 노인네'). Hyuk Mujin is not identified. Only an ordinary young-looking description, no change shown."
+    }
+  },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 998,
+      "change": "no stated prior look -> described as a superhuman who has completed Bone Transformation (환골탈태) at the Dengfeng Zaoji realm; the passage's subject is unclear and may not be Hyuk Mujin",
+      "cause": "cultivation breakthrough (Bone Transformation)",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 998,
+      "change": "no stated prior look -> described as a superhuman who has completed Bone Transformation (환골탈태) at the Dengfeng Zaoji realm; the passage's subject is unclear and may not be Hyuk Mujin",
+      "cause": "cultivation breakthrough (Bone Transformation)",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 6,
-      "description": "Hyuk Mujin is a young man, 180 cm tall, with a lean, agile musculature. He has an ugly face with distinctive thick, caterpillar-like eyebrows, and very pale skin, as white as a Caucasian's. He wears the navy-blue martial robe of the Taewon Jin family. Tags: young man, male, 180 cm, lean agile build, ugly face, thick caterpillar eyebrows, very pale skin, navy martial robe, Taewon Jin clan",
+      "description": "Hyuk Mujin is a lean, agile young man standing 180 cm tall, with a pale, almost Caucasian-white complexion and an ugly face with an insolent, sharp-eyed look. He has distinctive thick caterpillar-like eyebrows and wears the navy martial robe of the Taewon Jin family. Tags: male, young man, 180 cm, lean agile build, very pale skin, ugly face, insolent eyes, thick caterpillar eyebrows, navy martial robe, Taewon Jin clan",
       "used": [
         0,
         1,
@@ -116,23 +318,43 @@
         5,
         6,
         7,
-        8
+        9
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 6):** Hyuk Mujin is a young man, 180 cm tall, with a lean, agile musculature. He has an ugly face with distinctive thick, caterpillar-like eyebrows, and very pale skin, as white as a Caucasian's. He wears the navy-blue martial robe of the Taewon Jin family. Tags: young man, male, 180 cm, lean agile build, ugly face, thick caterpillar eyebrows, very pale skin, navy martial robe, Taewon Jin clan"
+    "- **Appearance (from ch 6):** Hyuk Mujin is a lean, agile young man standing 180 cm tall, with a pale, almost Caucasian-white complexion and an ugly face with an insolent, sharp-eyed look. He has distinctive thick caterpillar-like eyebrows and wears the navy martial robe of the Taewon Jin family. Tags: male, young man, 180 cm, lean agile build, very pale skin, ugly face, insolent eyes, thick caterpillar eyebrows, navy martial robe, Taewon Jin clan"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0126267
+      "cost_usd": 0.020851099999999997
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0253927
+      "cost_usd": 0.0251356
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0202824
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0195656
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.018824300000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.030054200000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.023661599999999998
     }
   ]
 }

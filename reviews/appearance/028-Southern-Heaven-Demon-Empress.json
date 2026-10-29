@@ -9,7 +9,116 @@
   "chapter_count": 77,
   "first_chapter": 482,
   "profile_safe_through": 1025,
-  "passages": [],
+  "passages": [
+    [
+      485,
+      41
+    ],
+    [
+      655,
+      36
+    ],
+    [
+      700,
+      73
+    ],
+    [
+      702,
+      51
+    ],
+    [
+      702,
+      63
+    ],
+    [
+      703,
+      64
+    ],
+    [
+      703,
+      54
+    ],
+    [
+      703,
+      59
+    ],
+    [
+      703,
+      66
+    ],
+    [
+      703,
+      67
+    ],
+    [
+      704,
+      85
+    ],
+    [
+      704,
+      71
+    ],
+    [
+      704,
+      57
+    ],
+    [
+      707,
+      38
+    ],
+    [
+      707,
+      29
+    ],
+    [
+      707,
+      86
+    ],
+    [
+      707,
+      77
+    ],
+    [
+      710,
+      42
+    ],
+    [
+      710,
+      86
+    ],
+    [
+      714,
+      58
+    ],
+    [
+      714,
+      47
+    ],
+    [
+      844,
+      95
+    ],
+    [
+      887,
+      31
+    ],
+    [
+      891,
+      80
+    ],
+    [
+      1034,
+      79
+    ],
+    [
+      1049,
+      83
+    ],
+    [
+      1105,
+      66
+    ]
+  ],
   "facts": [
     {
       "attribute": "face",
@@ -91,16 +200,85 @@
     },
     {
       "attribute": "hair",
+      "kind": "base",
+      "fact": "Lustrous, abundant hair (her pride)",
+      "chapter": 702,
+      "quote": "언제나 그녀의 자랑거리였던 풍성하고 윤기 나는 머리카락이",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Describes her prized hair; half cut off is a haircut injury, not drastic lasting change by itself. Hair length loss here is moderate."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "hair",
+      "kind": "change",
+      "fact": "Half of her hair cut off",
+      "chapter": 702,
+      "quote": "무려 절반이나 잘려 나간 것이다",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Half her hair cut off is stated as fact. Hair can regrow/is minor, not drastic lasting change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "base",
+      "fact": "Slender wrists/arms",
+      "chapter": 702,
+      "quote": "가느다란 팔목이 깨끗이 잘려 나감",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "base",
+      "fact": "Slender wrists/arms despite being a powerful monster",
+      "chapter": 702,
+      "quote": "가느다란 팔목이 깨끗이 잘려 나감과 동시에",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Wrist severed cleanly",
+      "chapter": 702,
+      "quote": "가느다란 팔목이 깨끗이 잘려 나감과 동시에 비명이 터져 나왔다",
+      "marker": false,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Wrist severed is stated as real. The context shows it as a sudden injury in battle. The text doesn't yet show it as lasting."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "hair",
       "kind": "change",
       "fact": "Her hair was cut off by an opponent",
       "chapter": 702,
       "quote": "귀중한 머리카락마저 자른",
       "marker": false,
       "verdict": {
+        "subject": "남천마후",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "She resents that opponent cut her precious hair, but the text gives no sign of a drastic lasting look change. Hair cut is a minor, stated fact."
+        "reason": "Her hair was cut. This is a thought about the wound and not a drastic lasting look change."
       },
       "status": "kept"
     },
@@ -122,10 +300,11 @@
       "quote": "귀중한 머리카락마저 자른 저 어린놈에게",
       "marker": false,
       "verdict": {
+        "subject": "남천마후",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Hair was cut, but length isn't stated and it isn't a drastic transformation. Not a lasting-change event of the kind defined."
+        "reason": "Same as 3. Hair cut is stated, but it's not a drastic lasting change."
       },
       "status": "kept"
     },
@@ -137,30 +316,498 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Flesh torn from her side",
+      "chapter": 703,
+      "quote": "뜯겨 나간 옆구리의 살점",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "She finds flesh torn from her side, an arm gone, half her face melted, along with returned aging. This is a drastic change revealed here."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "One arm blown off entirely",
+      "chapter": 703,
+      "quote": "송두리째 날아가 버린 한쪽 팔",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Her arm is blown off, torn flank and half-melted face are stated as real current state, revealed in this scene. The arm loss is lasting."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Sudden return of aging (curse) reverted her to an aged state",
+      "chapter": 703,
+      "quote": "갑작스럽게 돌아온 노화가 저주라면",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "The sudden return of aging, called a curse, is stated as fact. She says she 'lost youth', so the aged look is a lasting reversal."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Flesh torn from her side as if bitten off, and one arm blown away entirely",
+      "chapter": 703,
+      "quote": "뜯겨 나간 옆구리의 살점과 송두리째 날아가 버린 한쪽 팔",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "The simile 'as if bitten off' only describes how the flesh was torn. The torn flank and missing arm are real facts shown in this scene."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Lost one arm permanently to Jin Taekyung's strike",
+      "chapter": 704,
+      "quote": "그로 인해 한쪽 팔과 함께 상당한 힘을 잃어버렸다",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The text states the arm was lost, but it only recaps the earlier loss in ch703. It shows no new change, so it is not a reveal here."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Lost one arm (and much strength) to Jin Taekyung's strike",
+      "chapter": 704,
+      "quote": "한쪽 팔과 함께 상당한 힘을 잃어버렸다",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "This is the same recap of the ch703 arm loss. It is a present fact, but the change was already shown earlier."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "One arm vanished from a blow",
+      "chapter": 707,
+      "quote": "누군가의 일격에 한쪽 팔이 사라지고",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "This is a recollection of the earlier injury. The missing arm and torn flank are present facts, but the change is not newly shown here."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Flesh torn from her side",
+      "chapter": 707,
+      "quote": "옆구리가 뜯겨 나가기 전까지는",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Arm vanished and flank torn by Jin Taekyung's strike; stated as established state (arm loss lasting). Flank wound itself not clearly lasting, but arm loss is."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Lost her once world-beautiful appearance and became an old crone",
+      "chapter": 707,
+      "quote": "세상 그 누구보다 아름다웠던 모습을 잃어버린 채",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "The crone is Southern Heaven Demon Empress (context: 천주 devotion); she lost her world-beautiful looks and is now an old woman, revealed here."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Is now an old woman (crone)",
+      "chapter": 707,
+      "quote": "노파의 공허한 눈빛에 희미한 빛이 스며들었다",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Now an old crone, a drastic aging revealed in this passage."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "One arm gone and flank torn away by a strike",
+      "chapter": 707,
+      "quote": "누군가의 일격에 한쪽 팔이 사라지고, 옆구리가 뜯겨 나가기 전까지는.",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "One arm gone, stated as current state after the strike; permanent loss."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Missing one arm",
+      "chapter": 707,
+      "quote": "한쪽 팔을 잃은 데다 막대한 내상까지 입은 남천마후였지만",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Explicitly says she lost an arm and is badly injured; arm stays lost."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Lost an arm; she has only one arm left, or none after losing it",
+      "chapter": 710,
+      "quote": "하나뿐이었던 팔을 잃은 그 순간",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Her last remaining arm was turned to ash by the staff; both arms gone now, a permanent loss shown in this scene."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Aged body after living over a hundred years",
+      "chapter": 710,
+      "quote": "백 년이 넘는 세월을 살아오며 늙어 버린 가슴",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Old heart belongs to 적천강 (POV character), not clearly Southern Heaven Demon Empress; no change shown."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Lost her last remaining arm, so now has no arms",
+      "chapter": 710,
+      "quote": "아니, 어쩌면 하나뿐이었던 팔을 잃은 그 순간 모든 것이 끝났을지도 모른다.",
+      "marker": true,
+      "verdict": {
+        "subject": "Southern Heaven Demon Empress",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Context uses 그녀 with 양팔의 고통 and lost arm turned to ash; the sole remaining arm is lost here, leaving her armless. Her identity as the 'she' is implied by the scene. The loss is permanent, and her innate energy is also taken."
+      },
+      "status": "approved-change"
     }
   ],
-  "dropped_facts": [],
-  "rejected": [],
+  "dropped_facts": [
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Suppressed aging returned; she aged",
+      "chapter": 703,
+      "quote": "자신에게 찾아온 저주가 억눌렀던 노화(老化)뿐만이 아님을"
+    }
+  ],
+  "rejected": [
+    30
+  ],
   "judgments": {
-    "702|귀중한머리카락마저자른": {
+    "702|언제나그녀의자랑거리였던풍성하고윤기나는머리카락이": {
+      "subject": "남천마후",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "She resents that opponent cut her precious hair, but the text gives no sign of a drastic lasting look change. Hair cut is a minor, stated fact."
+      "reason": "Describes her prized hair; half cut off is a haircut injury, not drastic lasting change by itself. Hair length loss here is moderate."
+    },
+    "702|무려절반이나잘려나간것이다": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Half her hair cut off is stated as fact. Hair can regrow/is minor, not drastic lasting change."
+    },
+    "702|가느다란팔목이깨끗이잘려나감과동시에비명이터져나왔다": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Wrist severed is stated as real. The context shows it as a sudden injury in battle. The text doesn't yet show it as lasting."
+    },
+    "702|귀중한머리카락마저자른": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Her hair was cut. This is a thought about the wound and not a drastic lasting look change."
     },
     "702|귀중한머리카락마저자른저어린놈에게": {
+      "subject": "남천마후",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Hair was cut, but length isn't stated and it isn't a drastic transformation. Not a lasting-change event of the kind defined."
+      "reason": "Same as 3. Hair cut is stated, but it's not a drastic lasting change."
+    },
+    "703|뜯겨나간옆구리의살점": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "She finds flesh torn from her side, an arm gone, half her face melted, along with returned aging. This is a drastic change revealed here."
+    },
+    "703|송두리째날아가버린한쪽팔": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Her arm is blown off, torn flank and half-melted face are stated as real current state, revealed in this scene. The arm loss is lasting."
+    },
+    "703|갑작스럽게돌아온노화가저주라면": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "The sudden return of aging, called a curse, is stated as fact. She says she 'lost youth', so the aged look is a lasting reversal."
+    },
+    "703|뜯겨나간옆구리의살점과송두리째날아가버린한쪽팔": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "The simile 'as if bitten off' only describes how the flesh was torn. The torn flank and missing arm are real facts shown in this scene."
+    },
+    "704|그로인해한쪽팔과함께상당한힘을잃어버렸다": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The text states the arm was lost, but it only recaps the earlier loss in ch703. It shows no new change, so it is not a reveal here."
+    },
+    "704|한쪽팔과함께상당한힘을잃어버렸다": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "This is the same recap of the ch703 arm loss. It is a present fact, but the change was already shown earlier."
+    },
+    "707|누군가의일격에한쪽팔이사라지고": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "This is a recollection of the earlier injury. The missing arm and torn flank are present facts, but the change is not newly shown here."
+    },
+    "707|옆구리가뜯겨나가기전까지는": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Arm vanished and flank torn by Jin Taekyung's strike; stated as established state (arm loss lasting). Flank wound itself not clearly lasting, but arm loss is."
+    },
+    "707|세상그누구보다아름다웠던모습을잃어버린채": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "The crone is Southern Heaven Demon Empress (context: 천주 devotion); she lost her world-beautiful looks and is now an old woman, revealed here."
+    },
+    "707|노파의공허한눈빛에희미한빛이스며들었다": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Now an old crone, a drastic aging revealed in this passage."
+    },
+    "707|누군가의일격에한쪽팔이사라지고,옆구리가뜯겨나가기전까지는.": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "One arm gone, stated as current state after the strike; permanent loss."
+    },
+    "707|한쪽팔을잃은데다막대한내상까지입은남천마후였지만": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Explicitly says she lost an arm and is badly injured; arm stays lost."
+    },
+    "710|하나뿐이었던팔을잃은그순간": {
+      "subject": "남천마후",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Her last remaining arm was turned to ash by the staff; both arms gone now, a permanent loss shown in this scene."
+    },
+    "710|백년이넘는세월을살아오며늙어버린가슴": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Old heart belongs to 적천강 (POV character), not clearly Southern Heaven Demon Empress; no change shown."
+    },
+    "710|아니,어쩌면하나뿐이었던팔을잃은그순간모든것이끝났을지도모른다.": {
+      "subject": "Southern Heaven Demon Empress",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Context uses 그녀 with 양팔의 고통 and lost arm turned to ash; the sole remaining arm is lost here, leaving her armless. Her identity as the 'she' is implied by the scene. The loss is permanent, and her innate energy is also taken."
     }
   },
-  "conflicts": [],
+  "conflicts": [
+    {
+      "attribute": "arms remaining",
+      "indices": [
+        21,
+        22,
+        28,
+        29,
+        31
+      ],
+      "kept": [
+        28
+      ],
+      "resolved": true,
+      "reason": "Facts 18, 20 and 28 (approved) and the timeline (ch703/704) show one arm lost, leaving her with one arm. Facts 29 and 30 (ch710) say she lost her last arm and has none, which contradicts this. Fact 28 is the clearer approved statement."
+    }
+  ],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 702,
+      "change": "half of her lustrous, abundant hair cut off; wrist severed",
+      "cause": "injury from attack (Jin Taekyung's strike)",
+      "sure": false
+    },
+    {
+      "chapter": 703,
+      "change": "youthful, supremely beautiful appearance -> reverted to aged crone; lost an arm, flesh torn from her side, half her face",
+      "cause": "curse of returned aging plus Jin Taekyung's strike (rift backlash)",
+      "sure": true
+    },
+    {
+      "chapter": 704,
+      "change": "one arm permanently lost (along with considerable strength)",
+      "cause": "Jin Taekyung's strike",
+      "sure": true
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 702,
+      "change": "half of her lustrous, abundant hair cut off; wrist severed",
+      "cause": "injury from attack (Jin Taekyung's strike)",
+      "sure": false,
+      "facts": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 703,
+      "change": "youthful, supremely beautiful appearance -> reverted to aged crone; lost an arm, flesh torn from her side, half her face",
+      "cause": "curse of returned aging plus Jin Taekyung's strike (rift backlash)",
+      "sure": true,
+      "facts": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 704,
+      "change": "one arm permanently lost (along with considerable strength)",
+      "cause": "Jin Taekyung's strike",
+      "sure": true,
+      "facts": [
+        17,
+        18,
+        19,
+        20,
+        25,
+        26,
+        28
+      ],
+      "verified": true
+    }
+  ],
+  "dismissed_events": [
+    {
+      "event": 702,
+      "reason": "dismissed"
+    },
+    {
+      "event": 704,
+      "reason": "dismissed"
+    }
+  ],
   "ranges": [
     {
       "start": 482,
-      "description": "Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, painting-like face and a bewitchingly alluring look. She has upturned, cat-like eyes and a beautiful body. She wears a gungjang (Korean court dress). Tags: female, strikingly beautiful, gorgeous face, alluring, cat-like eyes, upturned eyes, beautiful body, gungjang, court dress",
+      "description": "Southern Heaven Demon Empress is a strikingly, bewitchingly beautiful woman with a body described as beautiful and slender wrists and arms. She has upturned, cat-like eyes and lustrous, abundant hair. She wears a gungjang (court dress). Tags: female, strikingly beautiful, painting-like beauty, bewitching charm, cat-like eyes, upturned eyes, lustrous abundant hair, slender arms, beautiful body, gungjang court dress",
       "used": [
         0,
         1,
@@ -170,33 +817,122 @@
         5,
         6,
         7,
-        9,
-        11
+        8,
+        10,
+        11,
+        14,
+        16
       ],
       "difference": ""
+    },
+    {
+      "start": 703,
+      "description": "Southern Heaven Demon Empress, after the curse of returned aging, is an aged crone who has lost her once world-beautiful appearance. She has cat-like, upturned eyes with a hollow gaze, only one arm (the other blown off entirely), and flesh torn from her side as if bitten off. She wears a gungjang (court dress). Tags: female, aged crone, old woman, one-armed, torn flank, cat-like eyes, hollow gaze, gungjang court dress",
+      "used": [
+        3,
+        5,
+        7,
+        17,
+        18,
+        19,
+        20,
+        25,
+        26,
+        28
+      ],
+      "difference": "youthful, supremely beautiful woman with lustrous hair and two arms -> aged crone, one arm missing, flesh torn from her side"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 482):** Southern Heaven Demon Empress is a strikingly beautiful woman with a gorgeous, painting-like face and a bewitchingly alluring look. She has upturned, cat-like eyes and a beautiful body. She wears a gungjang (Korean court dress). Tags: female, strikingly beautiful, gorgeous face, alluring, cat-like eyes, upturned eyes, beautiful body, gungjang, court dress"
+    "- **Appearance (ch 482–702):** Southern Heaven Demon Empress is a strikingly, bewitchingly beautiful woman with a body described as beautiful and slender wrists and arms. She has upturned, cat-like eyes and lustrous, abundant hair. She wears a gungjang (court dress). Tags: female, strikingly beautiful, painting-like beauty, bewitching charm, cat-like eyes, upturned eyes, lustrous abundant hair, slender arms, beautiful body, gungjang court dress",
+    "- **Appearance (from ch 703):** Southern Heaven Demon Empress, after the curse of returned aging, is an aged crone who has lost her once world-beautiful appearance. She has cat-like, upturned eyes with a hollow gaze, only one arm (the other blown off entirely), and flesh torn from her side as if bitten off. She wears a gungjang (court dress). Tags: female, aged crone, old woman, one-armed, torn flank, cat-like eyes, hollow gaze, gungjang court dress"
   ],
   "omitted": [
     {
-      "index": 8,
-      "reason": "Hair being cut off is an event/injury and not APPROVED-CHANGE, so it is left out."
+      "index": 9,
+      "reason": "Hair cut is an unapproved event fact (ch702, not APPROVED-CHANGE); the length after the cut is not given"
     },
     {
-      "index": 10,
-      "reason": "Hair cut short by an opponent is an event and not APPROVED-CHANGE, so it is left out. It duplicates fact 8."
+      "index": 12,
+      "reason": "Wrist severing is an unapproved event fact at ch702; later arm loss is covered by approved facts"
+    },
+    {
+      "index": 13,
+      "reason": "Hair cut by an opponent is an unapproved event fact"
+    },
+    {
+      "index": 15,
+      "reason": "Hair cut short by an opponent is an unapproved event fact"
+    },
+    {
+      "index": 21,
+      "reason": "Arm loss at ch704 is an unapproved event fact in a conflict group; the same loss is already shown from ch703"
+    },
+    {
+      "index": 22,
+      "reason": "Same as 21"
+    },
+    {
+      "index": 23,
+      "reason": "Arm vanishing is an unapproved event fact; covered by approved facts 18 and 20"
+    },
+    {
+      "index": 24,
+      "reason": "Flank torn away is an unapproved event fact; covered by approved facts 17 and 20"
+    },
+    {
+      "index": 27,
+      "reason": "Arm and flank loss is an unapproved event fact; covered by approved facts 18 and 20"
+    },
+    {
+      "index": 29,
+      "reason": "Conflicting value (no arms left); not kept"
+    },
+    {
+      "index": 31,
+      "reason": "Conflicting value (no arms left); not kept"
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0174363
+      "cost_usd": 0.0244165
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0259328
+      "cost_usd": 0.022661
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0234556
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0214709
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.028734500000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.034586900000000004
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.035294799999999994
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0320142
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0228735
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.054410299999999995
     }
   ]
 }

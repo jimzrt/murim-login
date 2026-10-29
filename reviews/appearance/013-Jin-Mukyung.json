@@ -9,7 +9,112 @@
   "chapter_count": 103,
   "first_chapter": 4,
   "profile_safe_through": 1183,
-  "passages": [],
+  "passages": [
+    [
+      5,
+      69
+    ],
+    [
+      61,
+      83
+    ],
+    [
+      61,
+      27
+    ],
+    [
+      65,
+      16
+    ],
+    [
+      73,
+      89
+    ],
+    [
+      106,
+      56
+    ],
+    [
+      110,
+      50
+    ],
+    [
+      118,
+      76
+    ],
+    [
+      125,
+      14
+    ],
+    [
+      125,
+      42
+    ],
+    [
+      126,
+      38
+    ],
+    [
+      132,
+      23
+    ],
+    [
+      132,
+      37
+    ],
+    [
+      150,
+      73
+    ],
+    [
+      150,
+      49
+    ],
+    [
+      961,
+      86
+    ],
+    [
+      962,
+      53
+    ],
+    [
+      962,
+      77
+    ],
+    [
+      969,
+      87
+    ],
+    [
+      970,
+      73
+    ],
+    [
+      980,
+      75
+    ],
+    [
+      980,
+      59
+    ],
+    [
+      981,
+      65
+    ],
+    [
+      981,
+      26
+    ],
+    [
+      1181,
+      42
+    ],
+    [
+      1181,
+      24
+    ]
+  ],
   "facts": [
     {
       "attribute": "face",
@@ -57,13 +162,40 @@
       "chapter": 115,
       "quote": "진무경의 깊고 검은 눈동자가 나를 응시했다",
       "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Looks too young to be a peak-level master",
+      "chapter": 132,
+      "quote": "절정 고수라기에는 너무 젊어 보이는데",
+      "marker": true,
       "verdict": {
-        "this_character": true,
+        "subject": "Cheongpung",
+        "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Narrator describes Jin Mukyung's deep black eyes gazing at them; literal, ordinary description, no change."
+        "reason": "The 'too young' thought is about Cheongpung, the beggar. Jin Mukyung is only mentioned as a famous example."
       },
-      "status": "kept"
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Looks too young for a peak-level master",
+      "chapter": 132,
+      "quote": "절정 고수라기에는 너무 젊어 보이는데.",
+      "marker": true,
+      "verdict": {
+        "subject": "Cheongpung",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The look belongs to Cheongpung, not Jin Mukyung. Jin Mukyung is named only as background."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "apparent age",
@@ -82,77 +214,88 @@
       "chapter": 970,
       "quote": "튀어나올 듯이 크게 뜨인 두 눈동자에는 격랑이 휘몰아쳤다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Jin Mukyung's eyes bulge wide in shock; literal but a momentary reaction, not a lasting change."
-      },
+      "verdict": null,
       "status": "kept"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
+  "rejected": [
+    5,
+    6
+  ],
   "judgments": {
-    "115|진무경의깊고검은눈동자가나를응시했다": {
-      "this_character": true,
+    "132|절정고수라기에는너무젊어보이는데": {
+      "subject": "Cheongpung",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Narrator describes Jin Mukyung's deep black eyes gazing at them; literal, ordinary description, no change."
+      "reason": "The 'too young' thought is about Cheongpung, the beggar. Jin Mukyung is only mentioned as a famous example."
     },
-    "970|튀어나올듯이크게뜨인두눈동자에는격랑이휘몰아쳤다.": {
-      "this_character": true,
+    "132|절정고수라기에는너무젊어보이는데.": {
+      "subject": "Cheongpung",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Jin Mukyung's eyes bulge wide in shock; literal but a momentary reaction, not a lasting change."
+      "reason": "The look belongs to Cheongpung, not Jin Mukyung. Jin Mukyung is named only as background."
     }
   },
-  "conflicts": [
-    {
-      "attribute": "eyes",
-      "indices": [
-        4,
-        6
-      ],
-      "kept": [
-        4
-      ],
-      "resolved": true,
-      "reason": "Fact 6 is a momentary reaction to shock, not a lasting trait. Fact 4 describes the standing eye look."
-    }
-  ],
+  "conflicts": [],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 4,
-      "description": "Jin Mukyung is a strikingly handsome young man with deep black eyes. Wears a navy-blue martial robe and carries an ink-black iron spear. Tags: young man, outstanding good looks, deep black eyes, navy-blue martial robe, ink-black iron spear, male",
+      "description": "Jin Mukyung is an outstandingly handsome young man (cheongnyeon) with deep black eyes. He wears a navy-blue martial robe and carries an ink-black iron spear. Tags: male, young man, very good-looking, deep black eyes, navy-blue martial robe, ink-black iron spear, navy and black palette",
       "used": [
         0,
         1,
         2,
         3,
         4,
-        5
+        7
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 4):** Jin Mukyung is a strikingly handsome young man with deep black eyes. Wears a navy-blue martial robe and carries an ink-black iron spear. Tags: young man, outstanding good looks, deep black eyes, navy-blue martial robe, ink-black iron spear, male"
+    "- **Appearance (from ch 4):** Jin Mukyung is an outstandingly handsome young man (cheongnyeon) with deep black eyes. He wears a navy-blue martial robe and carries an ink-black iron spear. Tags: male, young man, very good-looking, deep black eyes, navy-blue martial robe, ink-black iron spear, navy and black palette"
   ],
-  "omitted": [],
+  "omitted": [
+    {
+      "index": 8,
+      "reason": "Eyes widened only in a moment of shock; explicitly not a lasting trait"
+    }
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0158967
+      "cost_usd": 0.021270300000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018609300000000002
+      "cost_usd": 0.0209248
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020161199999999997
+      "cost_usd": 0.019354500000000004
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0167409
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0168322
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.022188500000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.020733799999999997
     }
   ]
 }

@@ -12,7 +12,48 @@
   "chapter_count": 47,
   "first_chapter": 2,
   "profile_safe_through": 1126,
-  "passages": [],
+  "passages": [
+    [
+      37,
+      23
+    ],
+    [
+      105,
+      69
+    ],
+    [
+      106,
+      56
+    ],
+    [
+      106,
+      28
+    ],
+    [
+      106,
+      60
+    ],
+    [
+      106,
+      70
+    ],
+    [
+      136,
+      59
+    ],
+    [
+      852,
+      65
+    ],
+    [
+      852,
+      19
+    ],
+    [
+      1126,
+      40
+    ]
+  ],
   "facts": [
     {
       "attribute": "skin",
@@ -21,12 +62,7 @@
       "chapter": 2,
       "quote": "희고 매끄러운 피부에 주먹만 한 얼굴.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Direct description of Wolhwa's skin on first view; ordinary, no change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -36,12 +72,7 @@
       "chapter": 2,
       "quote": "오밀조밀한 이목구비에 눈은 얼마나 크고 맑은지",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Same line describes Wolhwa's small face and delicate features; ordinary, no change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -69,12 +100,7 @@
       "chapter": 20,
       "quote": "늘씬한 몸매에 화려한 옷차림까지 더해지니",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Describes Wolhwa as beauty with slender figure in the present; the flashy outfit is just clothing, no lasting change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -92,6 +118,16 @@
       "fact": "Rare beauty",
       "chapter": 20,
       "quote": "월화는 보기 드문 미녀다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "clothing",
+      "kind": "base",
+      "fact": "Beautiful woman in flowing court-style dress (gungjang)",
+      "chapter": 106,
+      "quote": "이쪽을 향해 다가오는 하늘하늘한 궁장 차림의 미녀.",
       "marker": false,
       "verdict": null,
       "status": "kept"
@@ -139,48 +175,32 @@
   ],
   "dropped_facts": [],
   "rejected": [],
-  "judgments": {
-    "2|희고매끄러운피부에주먹만한얼굴.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Direct description of Wolhwa's skin on first view; ordinary, no change."
-    },
-    "2|오밀조밀한이목구비에눈은얼마나크고맑은지": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Same line describes Wolhwa's small face and delicate features; ordinary, no change."
-    },
-    "20|늘씬한몸매에화려한옷차림까지더해지니": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Describes Wolhwa as beauty with slender figure in the present; the flashy outfit is just clothing, no lasting change."
-    }
-  },
-  "conflicts": [
+  "judgments": {},
+  "conflicts": [],
+  "unused": [],
+  "timeline_events": [
     {
-      "attribute": "CONFLICT#1 group (skin, face, build)",
-      "indices": [
-        0,
-        1,
-        4
-      ],
-      "kept": [
-        0,
-        1,
-        4
-      ],
-      "resolved": true,
-      "reason": "Flagged facts cover different attributes (skin, face size, build), so none contradicts another. No values were mixed, and all are kept."
+      "chapter": 106,
+      "change": "Wolhwa's own appearance: no lasting change shown (the 'transformation' in the evidence refers to Taekyung, another character)",
+      "cause": "none",
+      "sure": false
     }
   ],
-  "unused": [],
+  "timeline": [
+    {
+      "chapter": 106,
+      "change": "Wolhwa's own appearance: no lasting change shown (the 'transformation' in the evidence refers to Taekyung, another character)",
+      "cause": "none",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 2,
-      "description": "Wolhwa is a strikingly beautiful woman, goddess-like and rare in her beauty, with fair, smooth skin and a fist-sized small face. Her features are delicate and neat, with large, clear eyes that crinkle in a characteristic smile and pretty eyebrows. She has a slender figure and wears flamboyant, gorgeous attire with an alluring smile, like an elegant peacock. Tags: female, fair smooth skin, small face, delicate features, large clear eyes, smiling crinkled eyes, pretty eyebrows, slender, dazzling beauty, flamboyant gorgeous clothing, elegant peacock, alluring smile",
+      "description": "Wolhwa is a strikingly beautiful woman with fair, smooth skin and a fist-sized small face with delicate, neat features. She has large, clear eyes that crinkle in a characteristic smiling expression, and pretty eyebrows. Her figure is slender, and she wears flamboyant, gorgeous flowing court-style dress (gungjang), elegant like a peacock. Tags: female, fair smooth skin, small face, delicate features, large clear eyes, crinkling smile eyes, pretty eyebrows, slender, goddess-like beauty, alluring, gungjang court dress, flowing, flamboyant gorgeous attire, peacock elegance",
       "used": [
         0,
         1,
@@ -192,27 +212,32 @@
         7,
         8,
         9,
-        10
+        10,
+        11
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 2):** Wolhwa is a strikingly beautiful woman, goddess-like and rare in her beauty, with fair, smooth skin and a fist-sized small face. Her features are delicate and neat, with large, clear eyes that crinkle in a characteristic smile and pretty eyebrows. She has a slender figure and wears flamboyant, gorgeous attire with an alluring smile, like an elegant peacock. Tags: female, fair smooth skin, small face, delicate features, large clear eyes, smiling crinkled eyes, pretty eyebrows, slender, dazzling beauty, flamboyant gorgeous clothing, elegant peacock, alluring smile"
+    "- **Appearance (from ch 2):** Wolhwa is a strikingly beautiful woman with fair, smooth skin and a fist-sized small face with delicate, neat features. She has large, clear eyes that crinkle in a characteristic smiling expression, and pretty eyebrows. Her figure is slender, and she wears flamboyant, gorgeous flowing court-style dress (gungjang), elegant like a peacock. Tags: female, fair smooth skin, small face, delicate features, large clear eyes, crinkling smile eyes, pretty eyebrows, slender, goddess-like beauty, alluring, gungjang court dress, flowing, flamboyant gorgeous attire, peacock elegance"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0169385
+      "cost_usd": 0.0172985
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019999700000000002
+      "cost_usd": 0.0174242
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0307613
+      "cost_usd": 0.0126189
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.026432099999999997
     }
   ]
 }

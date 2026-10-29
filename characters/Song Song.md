@@ -7,5 +7,5 @@
 - **Personality:** Calm, practical, capable, and attentive; speaks briefly and handles domestic work with practiced skill
 - **Voice:** Calm, concise, polite, and capable of devastatingly blunt candor
 - **Relationships:** Works alongside Team Leader Choi, Butler Kim, Im Kkeokjeong, and Jin Taekyung as a member of the Peace Guild; Jin recruited her to help run its emergency rescue team, while she remains his same-age friend and guildmate after rejecting his confession.
-- **Appearance (from ch 77):** Song Song is a woman with a sleek, smooth body figure and a dreamy, ethereal face. Tags: female, sleek smooth figure, dreamy ethereal face
+- **Appearance (from ch 77):** Song Song is a woman with a sleek, smooth figure and a dreamy, ethereal face of striking beauty. Tags: female, sleek smooth figure, dreamy ethereal face, strikingly beautiful
 - **Sources:** Korean source and accepted translation, Chapter 77

@@ -9,7 +9,80 @@
   "chapter_count": 91,
   "first_chapter": 514,
   "profile_safe_through": 1183,
-  "passages": [],
+  "passages": [
+    [
+      622,
+      9
+    ],
+    [
+      679,
+      84
+    ],
+    [
+      836,
+      56
+    ],
+    [
+      837,
+      78
+    ],
+    [
+      922,
+      46
+    ],
+    [
+      995,
+      42
+    ],
+    [
+      1023,
+      18
+    ],
+    [
+      1023,
+      37
+    ],
+    [
+      1023,
+      61
+    ],
+    [
+      1027,
+      74
+    ],
+    [
+      1029,
+      88
+    ],
+    [
+      1030,
+      26
+    ],
+    [
+      1055,
+      95
+    ],
+    [
+      1056,
+      31
+    ],
+    [
+      1058,
+      32
+    ],
+    [
+      1065,
+      81
+    ],
+    [
+      1073,
+      83
+    ],
+    [
+      1120,
+      69
+    ]
+  ],
   "facts": [
     {
       "attribute": "facial hair",
@@ -31,6 +104,22 @@
       "status": "kept"
     },
     {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (rejuvenation)",
+      "chapter": 622,
+      "quote": "“반로환동이요.”",
+      "marker": true,
+      "verdict": {
+        "subject": "남호",
+        "this_character": false,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Joke about 남호 and an unnamed acquaintance; Sama Pyo not named. 반로환동 is a hypothetical suggestion."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Carries his signature weapon, the Black Dragon Blade (Heukryongdo)",
@@ -49,38 +138,139 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Body has visibly aged/grown old",
+      "chapter": 1023,
+      "quote": "아니면 늙어 버린 육신 때문일까.",
+      "marker": true,
+      "verdict": {
+        "subject": "남호",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Aged body belongs to 남호, not Sama Pyo."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (rejuvenated) after previously being old",
+      "chapter": 1030,
+      "quote": "회춘했더니 힘이 펄펄 솟는다",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "회춘 claim is by 적천강; nothing links him to Sama Pyo."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (rejuvenated) after being old",
+      "chapter": 1030,
+      "quote": "회춘했더니 힘이 펄펄 솟는다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Same passage as 2; 적천강 is the subject, not Sama Pyo."
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
-  "judgments": {},
+  "rejected": [
+    2,
+    5,
+    6,
+    7
+  ],
+  "judgments": {
+    "622|“반로환동이요.”": {
+      "subject": "남호",
+      "this_character": false,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Joke about 남호 and an unnamed acquaintance; Sama Pyo not named. 반로환동 is a hypothetical suggestion."
+    },
+    "1023|아니면늙어버린육신때문일까.": {
+      "subject": "남호",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Aged body belongs to 남호, not Sama Pyo."
+    },
+    "1030|회춘했더니힘이펄펄솟는다": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "회춘 claim is by 적천강; nothing links him to Sama Pyo."
+    },
+    "1030|회춘했더니힘이펄펄솟는다.": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same passage as 2; 적천강 is the subject, not Sama Pyo."
+    }
+  },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 514,
-      "description": "Sama Pyo is a male character with stubble and a beard on his chin, smooth lips with no chapped skin, and outer eye corners that tilt upward, giving a sad look. He carries his signature weapon, the Black Dragon Blade (Heukryongdo). Tags: male, stubble, chin beard, smooth lips, upturned eye corners, sad eyes, Black Dragon Blade, Heukryongdo",
+      "description": "Sama Pyo is a man with a stubbly, bearded chin and smooth, unchapped lips. His outer eye corners tilt upward, giving a sad look. He carries his signature weapon, the Black Dragon Blade (Heukryongdo). Tags: male, stubble, beard, smooth lips, upturned eye corners, sad eyes, Black Dragon Blade, Heukryongdo",
       "used": [
         0,
         1,
-        2,
-        3
+        3,
+        4
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 514):** Sama Pyo is a male character with stubble and a beard on his chin, smooth lips with no chapped skin, and outer eye corners that tilt upward, giving a sad look. He carries his signature weapon, the Black Dragon Blade (Heukryongdo). Tags: male, stubble, chin beard, smooth lips, upturned eye corners, sad eyes, Black Dragon Blade, Heukryongdo"
+    "- **Appearance (from ch 514):** Sama Pyo is a man with a stubbly, bearded chin and smooth, unchapped lips. His outer eye corners tilt upward, giving a sad look. He carries his signature weapon, the Black Dragon Blade (Heukryongdo). Tags: male, stubble, beard, smooth lips, upturned eye corners, sad eyes, Black Dragon Blade, Heukryongdo"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.015656
+      "cost_usd": 0.0164939
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0205768
+      "cost_usd": 0.0217178
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.017317400000000004
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0180422
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0250477
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.022283199999999996
     }
   ]
 }

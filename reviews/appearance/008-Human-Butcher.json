@@ -9,7 +9,120 @@
   "chapter_count": 157,
   "first_chapter": 9,
   "profile_safe_through": 1189,
-  "passages": [],
+  "passages": [
+    [
+      106,
+      56
+    ],
+    [
+      161,
+      49
+    ],
+    [
+      161,
+      62
+    ],
+    [
+      238,
+      45
+    ],
+    [
+      348,
+      26
+    ],
+    [
+      352,
+      17
+    ],
+    [
+      352,
+      44
+    ],
+    [
+      505,
+      28
+    ],
+    [
+      505,
+      44
+    ],
+    [
+      505,
+      100
+    ],
+    [
+      505,
+      13
+    ],
+    [
+      505,
+      73
+    ],
+    [
+      508,
+      28
+    ],
+    [
+      519,
+      162
+    ],
+    [
+      519,
+      50
+    ],
+    [
+      519,
+      52
+    ],
+    [
+      519,
+      34
+    ],
+    [
+      519,
+      42
+    ],
+    [
+      525,
+      101
+    ],
+    [
+      679,
+      84
+    ],
+    [
+      837,
+      78
+    ],
+    [
+      850,
+      33
+    ],
+    [
+      905,
+      94
+    ],
+    [
+      970,
+      73
+    ],
+    [
+      993,
+      54
+    ],
+    [
+      993,
+      31
+    ],
+    [
+      1136,
+      45
+    ],
+    [
+      1158,
+      76
+    ]
+  ],
   "facts": [
     {
       "attribute": "weapon",
@@ -20,31 +133,265 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Was a frail old man (near death) earlier, later returned to youth",
+      "chapter": 505,
+      "quote": "회춘까지 해 버렸으니",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "subject '적천강' is not this character; Narrator says 적천강 was a near-death old man, now 회춘; established present state, revealed here."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (banro-hwandong); is addressed as senior Jeok who did this",
+      "chapter": 505,
+      "quote": "저 무인은 혹 반로환동 한 적 노선배가 아닌가",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "subject '적천강' is not this character; Red hair/beard, 반로환동 Senior Jeok; Jegal Pung's guess confirmed ('맞는데요'). Look revealed here."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (반로환동) after having looked like a feeble old man",
+      "chapter": 505,
+      "quote": "오늘내일할 것 같던 할배 시절에도 저런 눈빛을 하면 모두가 꼬리를 내렸는데, 회춘까지 해 버렸으니 그 기세에 오금이 저릴 지경이다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "subject '적천강' is not this character; Old-man era vs now 회춘; established rejuvenation shown in this scene."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth, so no longer recognizable by looks",
+      "chapter": 519,
+      "quote": "사실 적천강이 반로환동만 안 했어도 알아볼 사람들이 몇 명 정도는 있었을 거다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "subject '적천강' is not this character; Rejuvenation is mentioned as past fact for recognition; no new reveal here, just a recap."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "skin",
+      "kind": "change",
+      "fact": "Outer skin/appearance changed by rejuvenation, inner self unchanged",
+      "chapter": 519,
+      "quote": "반로환동으로 뒤집어쓴 가죽만 바뀌었지",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "subject '적천강' is not this character; Banter referencing existing 반로환동; not newly shown or announced."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "hair",
+      "kind": "change",
+      "fact": "Young man's hair turned grey/white prematurely, earlier than his age",
+      "chapter": 905,
+      "quote": "청년의 머리에는 나이보다 일찍 찾아온 서리가 내려앉았고",
+      "marker": true,
+      "verdict": {
+        "subject": "청년 (unnamed young man)",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Unnamed young man with premature grey hair; context doesn't tie him to Human Butcher."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Body remade through the 환골탈태 (bone-changing rebirth) quest, which was completed successfully",
+      "chapter": 993,
+      "quote": "[환골탈태]를 성공적으로 완료했습니다!",
+      "marker": true,
+      "verdict": {
+        "subject": "Human Butcher",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "System message: 환골탈태 quest completed and 전신성形 achievement; named genre transformation announced as happened to the character (user receiving system messages, body remade)."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Body remade through the 환골탈태 (bone-changing rebirth) quest",
+      "chapter": 993,
+      "quote": "돌발 퀘스트, [환골탈태]를 성공적으로 완료했습니다!",
+      "marker": true,
+      "verdict": {
+        "subject": "Human Butcher",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same passage: 환골탈태 quest completed, 전신성형 achievement; body permanently remade."
+      },
+      "status": "approved-change"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
-  "judgments": {},
+  "rejected": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "judgments": {
+    "505|회춘까지해버렸으니": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "subject '적천강' is not this character; Narrator says 적천강 was a near-death old man, now 회춘; established present state, revealed here."
+    },
+    "505|저무인은혹반로환동한적노선배가아닌가": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "subject '적천강' is not this character; Red hair/beard, 반로환동 Senior Jeok; Jegal Pung's guess confirmed ('맞는데요'). Look revealed here."
+    },
+    "505|오늘내일할것같던할배시절에도저런눈빛을하면모두가꼬리를내렸는데,회춘까지해버렸으니그기세에오금이저릴지경이다.": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "subject '적천강' is not this character; Old-man era vs now 회춘; established rejuvenation shown in this scene."
+    },
+    "519|사실적천강이반로환동만안했어도알아볼사람들이몇명정도는있었을거다.": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "subject '적천강' is not this character; Rejuvenation is mentioned as past fact for recognition; no new reveal here, just a recap."
+    },
+    "519|반로환동으로뒤집어쓴가죽만바뀌었지": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "subject '적천강' is not this character; Banter referencing existing 반로환동; not newly shown or announced."
+    },
+    "905|청년의머리에는나이보다일찍찾아온서리가내려앉았고": {
+      "subject": "청년 (unnamed young man)",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Unnamed young man with premature grey hair; context doesn't tie him to Human Butcher."
+    },
+    "993|[환골탈태]를성공적으로완료했습니다!": {
+      "subject": "Human Butcher",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "System message: 환골탈태 quest completed and 전신성形 achievement; named genre transformation announced as happened to the character (user receiving system messages, body remade)."
+    },
+    "993|돌발퀘스트,[환골탈태]를성공적으로완료했습니다!": {
+      "subject": "Human Butcher",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same passage: 환골탈태 quest completed, 전신성형 achievement; body permanently remade."
+    }
+  },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 9,
-      "description": "Human Butcher is a male character who wields a sword called Chammageom. Tags: male, sword, Chammageom",
+      "description": "Human Butcher, a male human butcher, wields a sword called Chammageom. Tags: male, human, butcher, sword Chammageom",
       "used": [
         0
       ],
       "difference": ""
+    },
+    {
+      "start": 993,
+      "description": "Human Butcher, a male human wielding the sword Chammageom, body remade through the Bone Transformation quest. Tags: male, human, sword Chammageom, body remade, Bone Transformation",
+      "used": [
+        0,
+        7,
+        8
+      ],
+      "difference": "body remade by Bone Transformation (visible effect not stated)"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 9):** Human Butcher is a male character who wields a sword called Chammageom. Tags: male, sword, Chammageom"
+    "- **Appearance (ch 9–992):** Human Butcher, a male human butcher, wields a sword called Chammageom. Tags: male, human, butcher, sword Chammageom",
+    "- **Appearance (from ch 993):** Human Butcher, a male human wielding the sword Chammageom, body remade through the Bone Transformation quest. Tags: male, human, sword Chammageom, body remade, Bone Transformation"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0189271
+      "cost_usd": 0.0207667
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.024472299999999995
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0229623
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0204965
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.019405199999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.031102299999999996
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0221163
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.022544599999999998
     }
   ]
 }

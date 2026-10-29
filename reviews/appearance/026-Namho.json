@@ -9,7 +9,96 @@
   "chapter_count": 79,
   "first_chapter": 620,
   "profile_safe_through": 1183,
-  "passages": [],
+  "passages": [
+    [
+      622,
+      9
+    ],
+    [
+      622,
+      20
+    ],
+    [
+      622,
+      78
+    ],
+    [
+      622,
+      66
+    ],
+    [
+      623,
+      36
+    ],
+    [
+      645,
+      39
+    ],
+    [
+      645,
+      47
+    ],
+    [
+      645,
+      31
+    ],
+    [
+      645,
+      54
+    ],
+    [
+      646,
+      80
+    ],
+    [
+      655,
+      36
+    ],
+    [
+      679,
+      84
+    ],
+    [
+      836,
+      56
+    ],
+    [
+      839,
+      18
+    ],
+    [
+      850,
+      33
+    ],
+    [
+      891,
+      80
+    ],
+    [
+      995,
+      42
+    ],
+    [
+      1023,
+      18
+    ],
+    [
+      1023,
+      37
+    ],
+    [
+      1023,
+      61
+    ],
+    [
+      1046,
+      52
+    ],
+    [
+      1056,
+      31
+    ]
+  ],
   "facts": [
     {
       "attribute": "skin",
@@ -38,12 +127,7 @@
       "chapter": 620,
       "quote": "늙수그레한 목소리가 흘러나왔다",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Namho's aged voice, ordinary present description; no change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -61,12 +145,7 @@
       "chapter": 620,
       "quote": "나는 노인. 아니, 남호의 앞에 놓여 있는 술잔을 채워 주며 말을 건넸다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Narrator calls Namho an old man; ordinary description, no change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -86,10 +165,11 @@
       "quote": "부쩍 늙은 얼굴로 허리를 두드린 남호가",
       "marker": true,
       "verdict": {
+        "subject": "남호",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Looks more aged from travel fatigue; minor tiredness, not drastic or lasting."
+        "reason": "Namho named; face looks much older, but a passing description of tiredness/older look, not a clear lasting transformation announced here."
       },
       "status": "kept"
     },
@@ -100,12 +180,29 @@
       "quote": "부쩍 늙은 얼굴로 허리를 두드린 남호가 재차 발걸음을 옮겼다.",
       "marker": true,
       "verdict": {
+        "subject": "남호",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Same line: looks older from exertion; a mild, likely temporary change, not a drastic transformation."
+        "reason": "Same line; 'suddenly older face' is a current description while walking, no announced lasting change."
       },
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Namho's appearance was one of returned youth, looking far younger than his true age",
+      "chapter": 622,
+      "quote": "“반로환동이요.”",
+      "marker": true,
+      "verdict": {
+        "subject": "남호",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "반로환동 is mentioned as a joke about an acquaintance; Namho says he is an 80-year-old non-martial elder. No youthful look shown."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "age",
@@ -113,12 +210,7 @@
       "chapter": 622,
       "quote": "남 노인, 설마 여기가 진짜",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Addressed as 'old man Nam'; ordinary description of age, no change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -128,12 +220,7 @@
       "chapter": 633,
       "quote": "무공이라고는 일초반식도 익히지 않은 노인일 뿐이니까",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Narration calls Namho an old man with no martial arts; ordinary description."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -142,13 +229,40 @@
       "chapter": 633,
       "quote": "일초반식도 익히지 않은 노인일 뿐이니까",
       "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Namho's body underwent sudden, rapid aging (from a younger look to visibly old), with Taishan implied as the cause",
+      "chapter": 645,
+      "quote": "남호의 급격한 노화 원인이 태산이라면",
+      "marker": true,
       "verdict": {
+        "subject": "남호",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": false,
-        "reason": "Namho described as an elderly man; plain description, no change."
+        "lasting_change": true,
+        "reason": "Narration states Namho's rapid aging (with sparse thinning hair on the crown shown), implying a real body change, though cause is conditional on Taishan."
       },
-      "status": "kept"
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Namho's body aged rapidly and visibly (after looking younger), implied to be caused by Taishan",
+      "chapter": 645,
+      "quote": "남호의 급격한 노화 원인이 태산이라면, 유일한 약점은 바로 주화란이다.",
+      "marker": true,
+      "verdict": {
+        "subject": "남호",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same line: his rapid aging is stated as a real bodily change, with visible thinning hair; the cause is only implied."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "eyes",
@@ -167,13 +281,8 @@
       "chapter": 840,
       "quote": "지목당한 늙은 청년, 남호가",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": false,
-        "lasting_change": false,
-        "reason": "'Old youth' is a joke about an old man among young people; he is simply old, not youthful in looks."
-      },
-      "status": "rejected"
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
@@ -182,12 +291,7 @@
       "chapter": 878,
       "quote": "씨근덕거리고 있는 노인, 남호",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Namho called an old man (노인) with rumpled clothes; ordinary description."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -207,12 +311,7 @@
       "chapter": 983,
       "quote": "노인, 남호는 당황하지 않았다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Namho called 노인 and uses 노부; ordinary description."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -228,145 +327,161 @@
   ],
   "dropped_facts": [],
   "rejected": [
-    12
+    8
   ],
   "judgments": {
-    "620|늙수그레한목소리가흘러나왔다": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Namho's aged voice, ordinary present description; no change."
-    },
-    "620|나는노인.아니,남호의앞에놓여있는술잔을채워주며말을건넸다.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Narrator calls Namho an old man; ordinary description, no change."
-    },
     "621|부쩍늙은얼굴로허리를두드린남호가": {
+      "subject": "남호",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Looks more aged from travel fatigue; minor tiredness, not drastic or lasting."
+      "reason": "Namho named; face looks much older, but a passing description of tiredness/older look, not a clear lasting transformation announced here."
     },
     "621|부쩍늙은얼굴로허리를두드린남호가재차발걸음을옮겼다.": {
+      "subject": "남호",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Same line: looks older from exertion; a mild, likely temporary change, not a drastic transformation."
+      "reason": "Same line; 'suddenly older face' is a current description while walking, no announced lasting change."
     },
-    "622|남노인,설마여기가진짜": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Addressed as 'old man Nam'; ordinary description of age, no change."
-    },
-    "633|무공이라고는일초반식도익히지않은노인일뿐이니까": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Narration calls Namho an old man with no martial arts; ordinary description."
-    },
-    "633|일초반식도익히지않은노인일뿐이니까": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Namho described as an elderly man; plain description, no change."
-    },
-    "840|지목당한늙은청년,남호가": {
+    "622|“반로환동이요.”": {
+      "subject": "남호",
       "this_character": true,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "'Old youth' is a joke about an old man among young people; he is simply old, not youthful in looks."
+      "reason": "반로환동 is mentioned as a joke about an acquaintance; Namho says he is an 80-year-old non-martial elder. No youthful look shown."
     },
-    "878|씨근덕거리고있는노인,남호": {
+    "645|남호의급격한노화원인이태산이라면": {
+      "subject": "남호",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": false,
-      "reason": "Namho called an old man (노인) with rumpled clothes; ordinary description."
+      "lasting_change": true,
+      "reason": "Narration states Namho's rapid aging (with sparse thinning hair on the crown shown), implying a real body change, though cause is conditional on Taishan."
     },
-    "983|노인,남호는당황하지않았다.": {
+    "645|남호의급격한노화원인이태산이라면,유일한약점은바로주화란이다.": {
+      "subject": "남호",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": false,
-      "reason": "Namho called 노인 and uses 노부; ordinary description."
+      "lasting_change": true,
+      "reason": "Same line: his rapid aging is stated as a real bodily change, with visible thinning hair; the cause is only implied."
     }
   },
-  "conflicts": [
+  "conflicts": [],
+  "unused": [],
+  "timeline_events": [
     {
-      "attribute": "age",
-      "indices": [
-        2,
-        4,
-        8,
-        9,
-        10,
-        13,
-        15
-      ],
-      "kept": [
-        4,
-        8,
-        9,
-        10,
-        13,
-        15
-      ],
-      "resolved": true,
-      "reason": "Elderly man is stated repeatedly and consistently across chapters 620-983. Fact 2 is only a voice cue and adds nothing visual."
+      "chapter": 622,
+      "change": "appears much younger than his true age of eighty (reverse-aging look); real age revealed as an eighty-year-old Miao elder",
+      "cause": "returned to youth (반로환동), possibly through cultivation",
+      "sure": false
+    },
+    {
+      "chapter": 645,
+      "change": "sudden, rapid aging of his body (younger look -> visibly old)",
+      "cause": "Taishan is implied to be the cause of his rapid aging",
+      "sure": false
     }
   ],
-  "unused": [],
+  "timeline": [
+    {
+      "chapter": 622,
+      "change": "appears much younger than his true age of eighty (reverse-aging look); real age revealed as an eighty-year-old Miao elder",
+      "cause": "returned to youth (반로환동), possibly through cultivation",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 645,
+      "change": "sudden, rapid aging of his body (younger look -> visibly old)",
+      "cause": "Taishan is implied to be the cause of his rapid aging",
+      "sure": false,
+      "facts": [
+        12,
+        13
+      ],
+      "verified": true
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 620,
-      "description": "Namho is an elderly man with dark, swarthy skin tanned by the hot southern sun. He has distinctive non-Han, foreign tribal facial features and narrow, slender gray eyes. Tags: male, elderly, dark tanned skin, swarthy, non-Han tribal features, gray eyes, narrow slender eyes",
+      "description": "Namho is an elderly man with a visibly aged face, a raspy aged voice, and skin tanned dark by the southern sun. His features are distinctly non-Han, tribal-foreign. Tags: male, elderly, aged face, dark tanned skin, non-Han features, raspy voice",
       "used": [
         0,
         1,
+        2,
         3,
         4,
-        8,
+        5,
+        6,
+        7,
         9,
         10,
-        11,
-        13,
-        14,
-        15,
-        16
+        11
       ],
       "difference": ""
+    },
+    {
+      "start": 645,
+      "description": "Namho is an old man whose body has aged rapidly and visibly, after looking younger, implied to be caused by Taishan. His skin is dark and swarthy, his features distinctly non-Han. He has gray eyes, narrow slender and slanted. Tags: male, elderly, rapidly aged body, dark swarthy skin, non-Han features, gray eyes, narrow eyes",
+      "used": [
+        1,
+        3,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19
+      ],
+      "difference": "body visibly aged further, from a younger look to visibly old, frailer"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 620):** Namho is an elderly man with dark, swarthy skin tanned by the hot southern sun. He has distinctive non-Han, foreign tribal facial features and narrow, slender gray eyes. Tags: male, elderly, dark tanned skin, swarthy, non-Han tribal features, gray eyes, narrow slender eyes"
+    "- **Appearance (ch 620–644):** Namho is an elderly man with a visibly aged face, a raspy aged voice, and skin tanned dark by the southern sun. His features are distinctly non-Han, tribal-foreign. Tags: male, elderly, aged face, dark tanned skin, non-Han features, raspy voice",
+    "- **Appearance (from ch 645):** Namho is an old man whose body has aged rapidly and visibly, after looking younger, implied to be caused by Taishan. His skin is dark and swarthy, his features distinctly non-Han. He has gray eyes, narrow slender and slanted. Tags: male, elderly, rapidly aged body, dark swarthy skin, non-Han features, gray eyes, narrow eyes"
   ],
   "omitted": [
     {
-      "index": 2,
-      "reason": "Conflict-group fact about voice only. Not visual, and the elderly value is already covered by the kept facts."
-    },
-    {
-      "index": 5,
-      "reason": "Voice is not a visual trait."
-    },
-    {
-      "index": 6,
-      "reason": "Describes a sudden aging event, not marked APPROVED-CHANGE. Omitted from all ranges."
-    },
-    {
-      "index": 7,
-      "reason": "Describes a sudden aging event, not marked APPROVED-CHANGE. Omitted from all ranges."
+      "index": 15,
+      "reason": "'Old youth' (youthful appearance) contradicts the repeated, visible elderly look and hints at hidden true age; not used"
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0196518
+      "cost_usd": 0.0199967
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0332051
+      "cost_usd": 0.019923800000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0199811
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.017101500000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0305616
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.027642899999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0370191
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.037779200000000006
     }
   ]
 }

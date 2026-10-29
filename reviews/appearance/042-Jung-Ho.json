@@ -9,7 +9,116 @@
   "chapter_count": 52,
   "first_chapter": 446,
   "profile_safe_through": 1182,
-  "passages": [],
+  "passages": [
+    [
+      462,
+      50
+    ],
+    [
+      463,
+      49
+    ],
+    [
+      465,
+      39
+    ],
+    [
+      465,
+      29
+    ],
+    [
+      474,
+      62
+    ],
+    [
+      475,
+      64
+    ],
+    [
+      481,
+      38
+    ],
+    [
+      485,
+      41
+    ],
+    [
+      487,
+      65
+    ],
+    [
+      495,
+      16
+    ],
+    [
+      498,
+      86
+    ],
+    [
+      506,
+      77
+    ],
+    [
+      506,
+      36
+    ],
+    [
+      508,
+      50
+    ],
+    [
+      508,
+      56
+    ],
+    [
+      508,
+      37
+    ],
+    [
+      509,
+      59
+    ],
+    [
+      749,
+      95
+    ],
+    [
+      838,
+      29
+    ],
+    [
+      862,
+      48
+    ],
+    [
+      869,
+      60
+    ],
+    [
+      869,
+      36
+    ],
+    [
+      933,
+      53
+    ],
+    [
+      998,
+      40
+    ],
+    [
+      1067,
+      48
+    ],
+    [
+      1067,
+      24
+    ],
+    [
+      1081,
+      58
+    ]
+  ],
   "facts": [
     {
       "attribute": "hair",
@@ -18,10 +127,75 @@
       "quote": "말끔하게 정돈된 머리카락과 그것을 고정한 아름다운 은비녀 하나.",
       "marker": false,
       "verdict": {
+        "subject": "Jin (진 대협)",
         "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Reflection in the river shows the narrator (addressed as Jin Daehyup), not Jung Ho. Hairpin put on by Hong Ran."
+        "reason": "Reflection is of the protagonist addressed as 진 대협, not Jung Ho; ordinary grooming."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Reached the banrohwandong stage, returned to youth",
+      "chapter": 462,
+      "quote": "반로환동의 경지에 오른 초절정 고수",
+      "marker": true,
+      "verdict": {
+        "subject": "문경",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Banrohwandong master is 문경, not Jung Ho."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Reached the 반로환동 stage (returned to youth), so looks younger",
+      "chapter": 463,
+      "quote": "반로환동의 경지에 드셨을 줄은 몰랐습니다",
+      "marker": true,
+      "verdict": {
+        "subject": "문경",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Banrohwandong attributed to 살성/문경, not Jung Ho."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "change",
+      "fact": "Lost an eye",
+      "chapter": 474,
+      "quote": "처음 눈을 잃었을 때보다",
+      "marker": true,
+      "verdict": {
+        "subject": "수신룡",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Eye loss belongs to the mutated water dragon."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Returned to youth (banrohwandong); old-age ailments cured",
+      "chapter": 506,
+      "quote": "반로환동으로 노환이 완치됨으로써",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Banrohwandong is 적천강's, not Jung Ho's."
       },
       "status": "rejected"
     },
@@ -32,7 +206,13 @@
       "chapter": 514,
       "quote": "중년 승려, 정호의 굵은 눈썹이 꿈틀거렸다.",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "정호",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Middle-aged monk Jung Ho is named; plain description, no change."
+      },
       "status": "kept"
     },
     {
@@ -43,57 +223,150 @@
       "quote": "햇빛이 정호의 이마를 받아 번쩍거리고",
       "marker": false,
       "verdict": {
+        "subject": "정호",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Sunlight glints off Jung Ho's forehead, a Shaolin monk with a shaved head. Ordinary description, not a change."
+        "reason": "Narrator (Jung Ho) wakes; sunlight glints off his forehead (bald head, ordinary established look). Not a change."
       },
       "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Completed 환골탈태 (body remade), reaching a peak-level transcendent state",
+      "chapter": 998,
+      "quote": "환골탈태까지 완성한",
+      "marker": true,
+      "verdict": {
+        "subject": "나",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "subject '나' is not this character; First-person narrator (Jung Ho) is stated as having completed 환골탈태 and reached peak-level state, a named genre transformation announced as having happened."
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
   "rejected": [
-    0
+    0,
+    1,
+    2,
+    3,
+    4,
+    7
   ],
   "judgments": {
     "460|말끔하게정돈된머리카락과그것을고정한아름다운은비녀하나.": {
+      "subject": "Jin (진 대협)",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Reflection in the river shows the narrator (addressed as Jin Daehyup), not Jung Ho. Hairpin put on by Hong Ran."
+      "reason": "Reflection is of the protagonist addressed as 진 대협, not Jung Ho; ordinary grooming."
     },
-    "516|햇빛이정호의이마를받아번쩍거리고": {
+    "462|반로환동의경지에오른초절정고수": {
+      "subject": "문경",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Banrohwandong master is 문경, not Jung Ho."
+    },
+    "463|반로환동의경지에드셨을줄은몰랐습니다": {
+      "subject": "문경",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Banrohwandong attributed to 살성/문경, not Jung Ho."
+    },
+    "474|처음눈을잃었을때보다": {
+      "subject": "수신룡",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Eye loss belongs to the mutated water dragon."
+    },
+    "506|반로환동으로노환이완치됨으로써": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Banrohwandong is 적천강's, not Jung Ho's."
+    },
+    "514|중년승려,정호의굵은눈썹이꿈틀거렸다.": {
+      "subject": "정호",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Sunlight glints off Jung Ho's forehead, a Shaolin monk with a shaved head. Ordinary description, not a change."
+      "reason": "Middle-aged monk Jung Ho is named; plain description, no change."
+    },
+    "516|햇빛이정호의이마를받아번쩍거리고": {
+      "subject": "정호",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narrator (Jung Ho) wakes; sunlight glints off his forehead (bald head, ordinary established look). Not a change."
+    },
+    "998|환골탈태까지완성한": {
+      "subject": "나",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "subject '나' is not this character; First-person narrator (Jung Ho) is stated as having completed 환골탈태 and reached peak-level state, a named genre transformation announced as having happened."
     }
   },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 446,
-      "description": "Jung Ho is a middle-aged male Shaolin monk with a bald head, a shining forehead and thick eyebrows. Tags: male, middle-aged, monk, Shaolin, bald, thick eyebrows, shining forehead",
+      "description": "Jung Ho is a middle-aged male monk with a completely bald head and thick, bushy eyebrows. Shaolin monk appearance. Tags: middle-aged, male, monk, Shaolin, bald, thick eyebrows",
       "used": [
-        1,
-        2
+        5,
+        6
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 446):** Jung Ho is a middle-aged male Shaolin monk with a bald head, a shining forehead and thick eyebrows. Tags: male, middle-aged, monk, Shaolin, bald, thick eyebrows, shining forehead"
+    "- **Appearance (from ch 446):** Jung Ho is a middle-aged male monk with a completely bald head and thick, bushy eyebrows. Shaolin monk appearance. Tags: middle-aged, male, monk, Shaolin, bald, thick eyebrows"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0108317
+      "cost_usd": 0.024225199999999995
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0194588
+      "cost_usd": 0.0231397
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0204147
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0183082
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.018307
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0299235
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0224822
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0212242
     }
   ]
 }

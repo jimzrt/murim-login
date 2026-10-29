@@ -9,7 +9,116 @@
   "chapter_count": 103,
   "first_chapter": 140,
   "profile_safe_through": 1185,
-  "passages": [],
+  "passages": [
+    [
+      150,
+      73
+    ],
+    [
+      197,
+      49
+    ],
+    [
+      248,
+      24
+    ],
+    [
+      255,
+      21
+    ],
+    [
+      264,
+      45
+    ],
+    [
+      266,
+      94
+    ],
+    [
+      266,
+      78
+    ],
+    [
+      266,
+      22
+    ],
+    [
+      267,
+      62
+    ],
+    [
+      269,
+      45
+    ],
+    [
+      336,
+      36
+    ],
+    [
+      351,
+      34
+    ],
+    [
+      485,
+      41
+    ],
+    [
+      521,
+      80
+    ],
+    [
+      521,
+      43
+    ],
+    [
+      535,
+      41
+    ],
+    [
+      544,
+      74
+    ],
+    [
+      547,
+      13
+    ],
+    [
+      551,
+      46
+    ],
+    [
+      895,
+      95
+    ],
+    [
+      989,
+      17
+    ],
+    [
+      1087,
+      87
+    ],
+    [
+      1092,
+      38
+    ],
+    [
+      1092,
+      81
+    ],
+    [
+      1126,
+      59
+    ],
+    [
+      1132,
+      13
+    ],
+    [
+      1133,
+      56
+    ]
+  ],
   "facts": [
     {
       "attribute": "title",
@@ -21,6 +130,70 @@
       "status": "kept"
     },
     {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Before: body became very old after filling in enlightenment (aged Sword Saint)",
+      "chapter": 264,
+      "quote": "깨달음을 채우자 육신이 너무 늙어 버렸다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Line describes 적천강's old body; Mae Jonghak not identified here (different name)."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "After: returned to youth (반로환동), body became younger",
+      "chapter": 266,
+      "quote": "반로환동(返老還童)까지는 나도 예상치 못했네.",
+      "marker": true,
+      "verdict": {
+        "subject": "매종학",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Mae Jonghak states 반로환동 happened, body became younger; lasting change revealed."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "After: body became young unexpectedly",
+      "chapter": 266,
+      "quote": "생각지도 못하게 육신이 어려지니 바깥세상이 궁금해지더군.",
+      "marker": true,
+      "verdict": {
+        "subject": "매종학",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same speaker, body became younger via 반로환동; lasting and revealed here."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "After: Returned to Youth (반로환동), body became younger.",
+      "chapter": 266,
+      "quote": "생각지도 못하게 육신이 어려지니",
+      "marker": true,
+      "verdict": {
+        "subject": "매종학",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "반로환동 announced as having happened to him; named genre transformation."
+      },
+      "status": "approved-change"
+    },
+    {
       "attribute": "age",
       "kind": "change",
       "fact": "Returned to youth, appearing as a young man of about twenty (yakgwan).",
@@ -28,10 +201,11 @@
       "quote": "약관의 청년으로 돌아간 매종학을",
       "marker": true,
       "verdict": {
+        "subject": "매종학",
         "this_character": true,
         "literal_present": true,
         "lasting_change": true,
-        "reason": "Mae Jonghak returned to youth (약관 appearance); just-described rejuvenation, lasting."
+        "reason": "Returned to a 약관 youth, nobody suspects; new look shown as established present state."
       },
       "status": "approved-change"
     },
@@ -43,25 +217,59 @@
       "quote": "약관의 청년으로 돌아간 매종학을 의심하는 아무도 없었다.",
       "marker": true,
       "verdict": {
+        "subject": "매종학",
         "this_character": true,
         "literal_present": true,
         "lasting_change": true,
-        "reason": "Same line: returned to youth as a ~20-year-old; lasting."
+        "reason": "Returned to a 약관 youth, nobody suspects; new look shown as established present state."
       },
       "status": "approved-change"
     },
     {
       "attribute": "apparent age",
       "kind": "change",
-      "fact": "Appears very young after returning to youth (banlohwandong), despite being the legendary Sword Saint",
+      "fact": "Appears strikingly young after Returned to Youth (반로환동); onlookers are astonished",
+      "chapter": 269,
+      "quote": "저렇게 젊은 모습이라니.",
+      "marker": true,
+      "verdict": {
+        "subject": "매종학",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Onlookers name him Sword Saint 매종학 and remark on his youthful look, 반로환동 as real; reveals the lasting change."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Appears strikingly young after returning to youth (previously old Sword Saint)",
+      "chapter": 269,
+      "quote": "허어, 저렇게 젊은 모습이라니.",
+      "marker": true,
+      "verdict": {
+        "subject": "매종학",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Named Sword Saint 매종학; youthful appearance after 반로환동 revealed to onlookers."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Appears remarkably young after returning to youth (반로환동).",
       "chapter": 269,
       "quote": "허어, 저렇게 젊은 모습이라니. 반로환동은 황당무계한 헛소리인 줄만 알았거늘.",
       "marker": true,
       "verdict": {
+        "subject": "매종학",
         "this_character": true,
         "literal_present": true,
         "lasting_change": true,
-        "reason": "Crowd remarks on his young look after banlohwandong; he is the Sword Saint, rejuvenation lasting."
+        "reason": "Named 매종학; remarkably young look from 반로환동 is stated as real and shown here."
       },
       "status": "approved-change"
     },
@@ -82,13 +290,24 @@
       "chapter": 269,
       "quote": "며칠 전만 해도 운 좋은 촌구석 무인 취급받던 청년의 정체가",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": true,
-        "reason": "Crowd notes his young look after 반로환동 (return to youth); identity just revealed, change recent."
-      },
+      "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Looks a decade or even two decades younger than before",
+      "chapter": 351,
+      "quote": "예전에 비하면 족히 십 년, 아니 이십 년은 젊어진 모습이다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The look belongs to 적천강, the patient being treated, not 매종학."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "age",
@@ -97,12 +316,7 @@
       "chapter": 520,
       "quote": "청년, 검성(劍星) 매종학이 떨떠름한 표정으로 대답했다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Called 청년 as plain descriptor; no change shown in scene."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -112,12 +326,7 @@
       "chapter": 520,
       "quote": "청년, 검성(劍星) 매종학이",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Called 청년 as plain descriptor; no change shown in scene."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -128,12 +337,13 @@
       "quote": "검성 매종학의 젊어진 모습에 경악하고",
       "marker": true,
       "verdict": {
+        "subject": "매종학",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": true,
-        "reason": "Onlookers react to the Sword Saint's rejuvenated look; lasting."
+        "lasting_change": false,
+        "reason": "Explicitly 검성 매종학's rejuvenated look, current fact. The change was already shown in ch269, so this is a repeat description, not a new reveal."
       },
-      "status": "approved-change"
+      "status": "kept"
     },
     {
       "attribute": "apparent age",
@@ -143,12 +353,13 @@
       "quote": "검성 매종학의 젊어진 모습",
       "marker": true,
       "verdict": {
+        "subject": "매종학",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": true,
-        "reason": "Same line: rejuvenated look, lasting."
+        "lasting_change": false,
+        "reason": "Same as 4: established younger look, already revealed earlier, not a new change."
       },
-      "status": "approved-change"
+      "status": "kept"
     },
     {
       "attribute": "eyes",
@@ -167,12 +378,7 @@
       "chapter": 548,
       "quote": "매종학이 맑고도 푸른 눈빛으로 나를 응시했다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Clear blue eyes gazing at narrator; ordinary description."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -182,28 +388,24 @@
       "chapter": 548,
       "quote": "맑고도 푸른 눈빛으로 나를 응시했다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Clear blue eyes gazing at narrator; ordinary description."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
-      "attribute": "age",
+      "attribute": "apparent age",
       "kind": "change",
-      "fact": "Appears youthful again, outwardly young like a man of his peers, though he is decades older",
+      "fact": "Appearance became young (returned to youth), though mind unchanged from forty-some years ago",
       "chapter": 551,
       "quote": "겉모습만 젊어졌을 뿐",
       "marker": true,
       "verdict": {
+        "subject": "매종학",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": false,
-        "reason": "Passing remark that only his appearance got younger; the change is old news, not happening in this scene."
+        "lasting_change": true,
+        "reason": "Context shows 매종학 in scene; text states his outward look has become younger (겉모습만 젊어졌을 뿐) as established present fact, i.e. returned-to-youth look revealed here."
       },
-      "status": "kept"
+      "status": "approved-change"
     },
     {
       "attribute": "face",
@@ -212,12 +414,7 @@
       "chapter": 989,
       "quote": "당장 어디에서나 마주칠 수 있을 것처럼 평범한 용모와 분위기",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Describes his ordinary, unremarkable look and air as he stands; no change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -227,156 +424,143 @@
       "chapter": 989,
       "quote": "그의 눈동자는 투명하리만치 맑았다",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Mae Jonghak's eyes described as clear to the point of transparency in present scene; ordinary description, no change."
-      },
+      "verdict": null,
       "status": "kept"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
+  "rejected": [
+    1,
+    12
+  ],
   "judgments": {
-    "266|약관의청년으로돌아간매종학을": {
+    "264|깨달음을채우자육신이너무늙어버렸다.": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Line describes 적천강's old body; Mae Jonghak not identified here (different name)."
+    },
+    "266|반로환동(返老還童)까지는나도예상치못했네.": {
+      "subject": "매종학",
       "this_character": true,
       "literal_present": true,
       "lasting_change": true,
-      "reason": "Mae Jonghak returned to youth (약관 appearance); just-described rejuvenation, lasting."
+      "reason": "Mae Jonghak states 반로환동 happened, body became younger; lasting change revealed."
+    },
+    "266|생각지도못하게육신이어려지니바깥세상이궁금해지더군.": {
+      "subject": "매종학",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same speaker, body became younger via 반로환동; lasting and revealed here."
+    },
+    "266|생각지도못하게육신이어려지니": {
+      "subject": "매종학",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "반로환동 announced as having happened to him; named genre transformation."
+    },
+    "266|약관의청년으로돌아간매종학을": {
+      "subject": "매종학",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Returned to a 약관 youth, nobody suspects; new look shown as established present state."
     },
     "266|약관의청년으로돌아간매종학을의심하는아무도없었다.": {
+      "subject": "매종학",
       "this_character": true,
       "literal_present": true,
       "lasting_change": true,
-      "reason": "Same line: returned to youth as a ~20-year-old; lasting."
+      "reason": "Returned to a 약관 youth, nobody suspects; new look shown as established present state."
+    },
+    "269|저렇게젊은모습이라니.": {
+      "subject": "매종학",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Onlookers name him Sword Saint 매종학 and remark on his youthful look, 반로환동 as real; reveals the lasting change."
+    },
+    "269|허어,저렇게젊은모습이라니.": {
+      "subject": "매종학",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Named Sword Saint 매종학; youthful appearance after 반로환동 revealed to onlookers."
     },
     "269|허어,저렇게젊은모습이라니.반로환동은황당무계한헛소리인줄만알았거늘.": {
+      "subject": "매종학",
       "this_character": true,
       "literal_present": true,
       "lasting_change": true,
-      "reason": "Crowd remarks on his young look after banlohwandong; he is the Sword Saint, rejuvenation lasting."
+      "reason": "Named 매종학; remarkably young look from 반로환동 is stated as real and shown here."
+    },
+    "351|예전에비하면족히십년,아니이십년은젊어진모습이다.": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The look belongs to 적천강, the patient being treated, not 매종학."
     },
     "525|검성매종학의젊어진모습에경악하고": {
+      "subject": "매종학",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": true,
-      "reason": "Onlookers react to the Sword Saint's rejuvenated look; lasting."
+      "lasting_change": false,
+      "reason": "Explicitly 검성 매종학's rejuvenated look, current fact. The change was already shown in ch269, so this is a repeat description, not a new reveal."
     },
     "525|검성매종학의젊어진모습": {
+      "subject": "매종학",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": true,
-      "reason": "Same line: rejuvenated look, lasting."
+      "lasting_change": false,
+      "reason": "Same as 4: established younger look, already revealed earlier, not a new change."
     },
     "551|겉모습만젊어졌을뿐": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Passing remark that only his appearance got younger; the change is old news, not happening in this scene."
-    },
-    "269|며칠전만해도운좋은촌구석무인취급받던청년의정체가": {
+      "subject": "매종학",
       "this_character": true,
       "literal_present": true,
       "lasting_change": true,
-      "reason": "Crowd notes his young look after 반로환동 (return to youth); identity just revealed, change recent."
-    },
-    "520|청년,검성(劍星)매종학이떨떠름한표정으로대답했다.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Called 청년 as plain descriptor; no change shown in scene."
-    },
-    "520|청년,검성(劍星)매종학이": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Called 청년 as plain descriptor; no change shown in scene."
-    },
-    "548|매종학이맑고도푸른눈빛으로나를응시했다.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Clear blue eyes gazing at narrator; ordinary description."
-    },
-    "548|맑고도푸른눈빛으로나를응시했다.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Clear blue eyes gazing at narrator; ordinary description."
-    },
-    "989|당장어디에서나마주칠수있을것처럼평범한용모와분위기": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Describes his ordinary, unremarkable look and air as he stands; no change."
-    },
-    "989|그의눈동자는투명하리만치맑았다": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Mae Jonghak's eyes described as clear to the point of transparency in present scene; ordinary description, no change."
+      "reason": "Context shows 매종학 in scene; text states his outward look has become younger (겉모습만 젊어졌을 뿐) as established present fact, i.e. returned-to-youth look revealed here."
     }
   },
-  "conflicts": [
+  "conflicts": [],
+  "unused": [],
+  "timeline_events": [
     {
-      "attribute": "apparent age",
-      "indices": [
+      "chapter": 266,
+      "change": "aged old Sword Saint -> youthful-looking body",
+      "cause": "Returned to Youth (반로환동) after Great Completion and higher enlightenment",
+      "sure": true
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 266,
+      "change": "aged old Sword Saint -> youthful-looking body",
+      "cause": "Returned to Youth (반로환동) after Great Completion and higher enlightenment",
+      "sure": true,
+      "facts": [
+        2,
         3,
-        5,
-        6,
-        7,
-        8,
-        9,
-        13
-      ],
-      "kept": [
-        3,
+        4,
         5,
         6,
         7,
         8,
         9
       ],
-      "resolved": true,
-      "reason": "Facts agree on a young man; the kept ones are repeated and visual. 13 only adds a hidden-age remark."
-    },
-    {
-      "attribute": "eye colour/quality",
-      "indices": [
-        11,
-        12,
-        15
-      ],
-      "kept": [
-        11,
-        12
-      ],
-      "resolved": true,
-      "reason": "Blue gaze is repeated in two facts and is concrete. 15 gives only 'almost transparent' and has a single source. 10 (clear, deep) fits the kept value."
-    },
-    {
-      "attribute": "age vs face",
-      "indices": [
-        1,
-        2,
-        14
-      ],
-      "kept": [
-        1,
-        2
-      ],
-      "resolved": true,
-      "reason": "Age ~20 is repeated and APPROVED-CHANGE. 14 (plain, ordinary face) is a single, late, vague impression."
+      "verified": true
     }
   ],
-  "unused": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 266,
-      "description": "Mae Jonghak is a young man of about twenty with a smooth, clean-shaven chin. He has clear, deep eyes with a blue gaze. Tags: male, young man, about twenty, clean-shaven, smooth chin, clear deep eyes, blue eyes",
+      "description": "Mae Jonghak is a male young man of about twenty. His body was remade by Returned to Youth after Great Completion and higher enlightenment. He has a smooth, clean-shaven chin and a plain, ordinary face. His eyes are clear, deep, almost transparent, with a blue gaze. Tags: male, young man, about twenty, youthful look, clean-shaven, plain face, clear blue eyes, deep transparent eyes",
       "used": [
-        1,
         2,
         3,
         4,
@@ -387,48 +571,65 @@
         9,
         10,
         11,
-        12
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
       ],
-      "difference": "not described -> youthful young man of about twenty, clean-shaven, clear blue eyes"
+      "difference": "not described -> youthful young man of about twenty (body returned to youth)"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 266):** Mae Jonghak is a young man of about twenty with a smooth, clean-shaven chin. He has clear, deep eyes with a blue gaze. Tags: male, young man, about twenty, clean-shaven, smooth chin, clear deep eyes, blue eyes"
+    "- **Appearance (from ch 266):** Mae Jonghak is a male young man of about twenty. His body was remade by Returned to Youth after Great Completion and higher enlightenment. He has a smooth, clean-shaven chin and a plain, ordinary face. His eyes are clear, deep, almost transparent, with a blue gaze. Tags: male, young man, about twenty, youthful look, clean-shaven, plain face, clear blue eyes, deep transparent eyes"
   ],
   "omitted": [
     {
       "index": 0,
-      "reason": "Title/reputation only, no visual trait."
-    },
-    {
-      "index": 13,
-      "reason": "Refers to hidden true age (decades older); not visual."
-    },
-    {
-      "index": 14,
-      "reason": "Conflicting, vague face impression; dropped in conflict resolution."
-    },
-    {
-      "index": 15,
-      "reason": "Conflicting eye description; dropped in conflict resolution."
+      "reason": "title/reputation only, no visual trait"
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0195786
+      "cost_usd": 0.019282099999999996
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.026092499999999998
+      "cost_usd": 0.0194556
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.017532
+      "cost_usd": 0.0166312
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.038778299999999995
+      "cost_usd": 0.0182039
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0203399
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.032375999999999995
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.030791
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.015667
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0337052
     }
   ]
 }

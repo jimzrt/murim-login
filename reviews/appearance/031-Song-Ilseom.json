@@ -9,7 +9,48 @@
   "chapter_count": 73,
   "first_chapter": 310,
   "profile_safe_through": 1191,
-  "passages": [],
+  "passages": [
+    [
+      319,
+      48
+    ],
+    [
+      544,
+      74
+    ],
+    [
+      622,
+      9
+    ],
+    [
+      645,
+      39
+    ],
+    [
+      837,
+      78
+    ],
+    [
+      891,
+      80
+    ],
+    [
+      922,
+      46
+    ],
+    [
+      995,
+      42
+    ],
+    [
+      1056,
+      31
+    ],
+    [
+      1120,
+      69
+    ]
+  ],
   "facts": [
     {
       "attribute": "face",
@@ -19,10 +60,11 @@
       "quote": "훤칠하고 잘생긴 외모의 소유자였다",
       "marker": false,
       "verdict": {
+        "subject": "송일섬",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Narration: Song Ilseom is tall and handsome; ordinary description."
+        "reason": "Named; established look, no change"
       },
       "status": "kept"
     },
@@ -52,10 +94,11 @@
       "quote": "송일섬은 용봉삼표의 다른 두 사람과는 달리 훤칠하고 잘생긴 외모의 소유자였다.",
       "marker": false,
       "verdict": {
+        "subject": "송일섬",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Same line: handsome unlike the other two; ordinary description."
+        "reason": "Same line; unchanged description"
       },
       "status": "kept"
     },
@@ -123,10 +166,11 @@
       "quote": "저 컴컴하게 생긴 자는 제법 익숙한 얼굴인데",
       "marker": false,
       "verdict": {
+        "subject": "송일섬",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Old man calls Song Ilseom 'dark-looking' and says the face is familiar; literal."
+        "reason": "Old man points at Song Ilseom; dark-looking face is ordinary description"
       },
       "status": "kept"
     },
@@ -138,10 +182,11 @@
       "quote": "“중년의 나이에, 선장을 사용한다고?”",
       "marker": false,
       "verdict": {
+        "subject": "unknown monk",
         "this_character": false,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Song Ilseom is asking about an enemy wielding a staff; the middle age belongs to that unknown person."
+        "reason": "Refers to the target enemy with a steel staff, not Song Ilseom"
       },
       "status": "rejected"
     },
@@ -153,10 +198,11 @@
       "quote": "중년의 나이에, 선장을 사용한다고?",
       "marker": false,
       "verdict": {
+        "subject": "unknown monk",
         "this_character": false,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Middle age refers to the enemy being described, not Song Ilseom."
+        "reason": "Same; the middle-aged staff user is another person"
       },
       "status": "rejected"
     },
@@ -168,10 +214,11 @@
       "quote": "젊은 나이에 뛰어난 경지에 다다른 송일섬",
       "marker": false,
       "verdict": {
+        "subject": "송일섬",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Narration says Song Ilseom reached an outstanding level at a young age; no change in look."
+        "reason": "Stated as young with high martial level; no change"
       },
       "status": "kept"
     },
@@ -183,12 +230,29 @@
       "quote": "삭막한 인상의 청년",
       "marker": false,
       "verdict": {
+        "subject": "unnamed young man",
         "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Context doesn't establish which of the two young men is Song Ilseom. The speaker is bleak-looking, but he's not named here. He addresses 적천강, who answers, so he may be Song Ilseom, but that isn't confirmed. Not enough to attribute with confidence."
+        "reason": "Speaker is an unnamed bleak-looking youth; not explicitly Song Ilseom, and no change shown."
       },
       "status": "rejected"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Underwent a complete body remaking (환골탈태) shortly before this chapter",
+      "chapter": 995,
+      "quote": "엊그제 환골탈태한 사람한테",
+      "marker": true,
+      "verdict": {
+        "subject": "송일섬",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "The narrator is Song Ilseom (the speaker, in a group with 사마표 and 혁무진). 혁무진 says 'someone who underwent 환골탈태 the day before yesterday', and that person is the one being asked about injuries. The narrator replies 'I'm fine', so the person is Song Ilseom. The named transformation is announced as having happened."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "weapon",
@@ -197,12 +261,7 @@
       "chapter": 1022,
       "quote": "검파에 손을 얹고 있던 혁무진과 송일섬",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Song Ilseom has a hand on sword hilt, so carries a sword; literal and present, no change."
-      },
+      "verdict": null,
       "status": "kept"
     }
   ],
@@ -214,57 +273,65 @@
   ],
   "judgments": {
     "310|훤칠하고잘생긴외모의소유자였다": {
+      "subject": "송일섬",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Narration: Song Ilseom is tall and handsome; ordinary description."
+      "reason": "Named; established look, no change"
     },
     "310|송일섬은용봉삼표의다른두사람과는달리훤칠하고잘생긴외모의소유자였다.": {
+      "subject": "송일섬",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Same line: handsome unlike the other two; ordinary description."
+      "reason": "Same line; unchanged description"
     },
     "619|저컴컴하게생긴자는제법익숙한얼굴인데": {
+      "subject": "송일섬",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Old man calls Song Ilseom 'dark-looking' and says the face is familiar; literal."
+      "reason": "Old man points at Song Ilseom; dark-looking face is ordinary description"
     },
     "646|“중년의나이에,선장을사용한다고?”": {
+      "subject": "unknown monk",
       "this_character": false,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "Song Ilseom is asking about an enemy wielding a staff; the middle age belongs to that unknown person."
+      "reason": "Refers to the target enemy with a steel staff, not Song Ilseom"
     },
     "646|중년의나이에,선장을사용한다고?": {
+      "subject": "unknown monk",
       "this_character": false,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "Middle age refers to the enemy being described, not Song Ilseom."
+      "reason": "Same; the middle-aged staff user is another person"
     },
     "840|젊은나이에뛰어난경지에다다른송일섬": {
+      "subject": "송일섬",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Narration says Song Ilseom reached an outstanding level at a young age; no change in look."
+      "reason": "Stated as young with high martial level; no change"
     },
     "878|삭막한인상의청년": {
+      "subject": "unnamed young man",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Context doesn't establish which of the two young men is Song Ilseom. The speaker is bleak-looking, but he's not named here. He addresses 적천강, who answers, so he may be Song Ilseom, but that isn't confirmed. Not enough to attribute with confidence."
+      "reason": "Speaker is an unnamed bleak-looking youth; not explicitly Song Ilseom, and no change shown."
     },
-    "1022|검파에손을얹고있던혁무진과송일섬": {
+    "995|엊그제환골탈태한사람한테": {
+      "subject": "송일섬",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": false,
-      "reason": "Song Ilseom has a hand on sword hilt, so carries a sword; literal and present, no change."
+      "lasting_change": true,
+      "reason": "The narrator is Song Ilseom (the speaker, in a group with 사마표 and 혁무진). 혁무진 says 'someone who underwent 환골탈태 the day before yesterday', and that person is the one being asked about injuries. The narrator replies 'I'm fine', so the person is Song Ilseom. The named transformation is announced as having happened."
     }
   },
   "conflicts": [
     {
-      "attribute": "face",
+      "attribute": "face appearance",
       "indices": [
         0,
         3,
@@ -275,14 +342,17 @@
         3
       ],
       "resolved": true,
-      "reason": "Tall, handsome look is stated twice, including the earliest chapter. The dark, gloomy face is a single later remark."
+      "reason": "Handsome is stated twice, the later quote 3 repeats it with a comparison, and it is the earlier mention. The dark, gloomy face appears once, in ch619."
     }
   ],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 310,
-      "description": "Song Ilseom is a tall, handsome young man with thick, fierce-looking eyebrows and sharp, fierce eyes. His face is cold and aloof, with a stern, blunt expression. He carries a sword. Tags: male, young, tall, handsome, thick fierce eyebrows, sharp eyes, cold aloof face, stern expression, sword",
+      "description": "Song Ilseom is a young, tall man with a handsome face. He has thick, fierce-looking eyebrows that he can raise sharply, sharp fierce eyes, and a cold, aloof, stern expression. Tags: male, young, tall, handsome, thick fierce eyebrows, sharp fierce eyes, cold aloof look, stern blunt expression",
       "used": [
         0,
         1,
@@ -292,37 +362,68 @@
         5,
         6,
         7,
-        13,
-        15
+        8,
+        13
       ],
       "difference": ""
+    },
+    {
+      "start": 995,
+      "description": "Song Ilseom is a young, tall, handsome man whose body was remade by Bone Transformation. He keeps his thick, fierce-looking eyebrows, sharp fierce eyes, and cold, aloof, stern expression. He carries a sword, with his hand resting on the hilt. Tags: male, young, tall, handsome, thick fierce eyebrows, sharp fierce eyes, cold stern expression, sword",
+      "used": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        13,
+        15,
+        16
+      ],
+      "difference": "body remade by Bone Transformation (visible effect not stated)"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 310):** Song Ilseom is a tall, handsome young man with thick, fierce-looking eyebrows and sharp, fierce eyes. His face is cold and aloof, with a stern, blunt expression. He carries a sword. Tags: male, young, tall, handsome, thick fierce eyebrows, sharp eyes, cold aloof face, stern expression, sword"
+    "- **Appearance (ch 310–994):** Song Ilseom is a young, tall man with a handsome face. He has thick, fierce-looking eyebrows that he can raise sharply, sharp fierce eyes, and a cold, aloof, stern expression. Tags: male, young, tall, handsome, thick fierce eyebrows, sharp fierce eyes, cold aloof look, stern blunt expression",
+    "- **Appearance (from ch 995):** Song Ilseom is a young, tall, handsome man whose body was remade by Bone Transformation. He keeps his thick, fierce-looking eyebrows, sharp fierce eyes, and cold, aloof, stern expression. He carries a sword, with his hand resting on the hilt. Tags: male, young, tall, handsome, thick fierce eyebrows, sharp fierce eyes, cold stern expression, sword"
   ],
   "omitted": [
     {
-      "index": 8,
-      "reason": "Momentary reaction (raising the eyebrows), not a lasting trait. Eyebrows are already covered by facts 1, 2 and 6."
+      "index": 9,
+      "reason": "A boastful claim about youth, not a verified current look. It would hint at past age."
     },
     {
-      "index": 9,
-      "reason": "Boast about past looks in youth, not a verified current look. It implies age or backstory and adds no new visual trait."
+      "index": 10,
+      "reason": "Conflicting value, dropped from the conflict group."
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0222192
+      "cost_usd": 0.0225085
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0168902
+      "cost_usd": 0.016502199999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0300917
+      "cost_usd": 0.020995
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0290659
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0233484
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.033344200000000004
     }
   ]
 }

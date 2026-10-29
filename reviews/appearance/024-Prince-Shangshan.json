@@ -10,7 +10,60 @@
   "chapter_count": 88,
   "first_chapter": 136,
   "profile_safe_through": 1140,
-  "passages": [],
+  "passages": [
+    [
+      862,
+      48
+    ],
+    [
+      864,
+      49
+    ],
+    [
+      869,
+      60
+    ],
+    [
+      869,
+      36
+    ],
+    [
+      874,
+      29
+    ],
+    [
+      882,
+      47
+    ],
+    [
+      895,
+      95
+    ],
+    [
+      901,
+      41
+    ],
+    [
+      902,
+      33
+    ],
+    [
+      905,
+      94
+    ],
+    [
+      914,
+      44
+    ],
+    [
+      1135,
+      43
+    ],
+    [
+      1135,
+      51
+    ]
+  ],
   "facts": [
     {
       "attribute": "face",
@@ -58,12 +111,7 @@
       "chapter": 146,
       "quote": "허리를 꾸벅 숙이자 주표가 까치발을 들고 내 머리를 쓱쓱 쓰다듬었다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Zhu Biao stands on tiptoe to pat narrator's head; implies short/small stature, ordinary scene."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -72,12 +120,7 @@
       "chapter": 146,
       "quote": "주표가 까치발을 들고 내 머리를 쓱쓱 쓰다듬었다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Same line: tiptoe to pat taller narrator; no change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -87,12 +130,7 @@
       "chapter": 856,
       "quote": "아직 십 대 중반도 되지 않은 소년이라고는 믿을 수 없을 만큼 침착한 태도와 위엄 어린 음성.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Prince described as boy not yet mid-teens; ordinary description, though text also says body is larger than age."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -102,12 +140,7 @@
       "chapter": 879,
       "quote": "아직 지학(志學. 열다섯 살)도 되지 않은 연배이시지",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Scholar states prince is under fifteen (jihak); present-time age, no change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -121,18 +154,29 @@
       "status": "kept"
     },
     {
+      "attribute": "hair",
+      "kind": "change",
+      "fact": "Hair turned grey/white prematurely, while still a young man",
+      "chapter": 905,
+      "quote": "머리에는 나이보다 일찍 찾아온 서리가 내려앉았고",
+      "marker": true,
+      "verdict": {
+        "subject": "Prince Shangshan",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The passage doesn't name the young man ('감당할 수 없는 짐을 짊어진 청년'). He could be Prince Shangshan, but nothing in the context makes that explicit. The 서리 idiom does mean grey hair, so the look is literal. It's stated as his established state a decade after the event, not as a change shown here."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears to be a boy (youth)",
       "chapter": 924,
       "quote": "소년은, 상산왕 주표는",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Narration says he became a boy (age ~13) after twelve years; ordinary growth, not drastic change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -147,74 +191,27 @@
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
+  "rejected": [
+    9
+  ],
   "judgments": {
-    "146|허리를꾸벅숙이자주표가까치발을들고내머리를쓱쓱쓰다듬었다.": {
-      "this_character": true,
+    "905|머리에는나이보다일찍찾아온서리가내려앉았고": {
+      "subject": "Prince Shangshan",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Zhu Biao stands on tiptoe to pat narrator's head; implies short/small stature, ordinary scene."
-    },
-    "146|주표가까치발을들고내머리를쓱쓱쓰다듬었다.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Same line: tiptoe to pat taller narrator; no change."
-    },
-    "856|아직십대중반도되지않은소년이라고는믿을수없을만큼침착한태도와위엄어린음성.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Prince described as boy not yet mid-teens; ordinary description, though text also says body is larger than age."
-    },
-    "879|아직지학(志學.열다섯살)도되지않은연배이시지": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Scholar states prince is under fifteen (jihak); present-time age, no change."
-    },
-    "924|소년은,상산왕주표는": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Narration says he became a boy (age ~13) after twelve years; ordinary growth, not drastic change."
+      "reason": "The passage doesn't name the young man ('감당할 수 없는 짐을 짊어진 청년'). He could be Prince Shangshan, but nothing in the context makes that explicit. The 서리 idiom does mean grey hair, so the look is literal. It's stated as his established state a decade after the event, not as a change shown here."
     }
   },
-  "conflicts": [
-    {
-      "attribute": "height",
-      "indices": [
-        4,
-        5
-      ],
-      "kept": [
-        4,
-        5
-      ],
-      "resolved": true,
-      "reason": "Same value (short, on tiptoe to pat taller head), same chapter. Not a real disagreement."
-    },
-    {
-      "attribute": "age",
-      "indices": [
-        6,
-        7,
-        9
-      ],
-      "kept": [
-        6,
-        7,
-        9
-      ],
-      "resolved": true,
-      "reason": "All agree: boy under fifteen. Ch879 gives the clearest bound; ch856 and ch924 are consistent."
-    }
-  ],
+  "conflicts": [],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 136,
-      "description": "Prince Shangshan is a young boy, under fifteen, short and child-sized. He has a handsome, striking face with well-defined, fully formed features and bright, sparkling black eyes. Tags: male, boy, short, child-sized, handsome, striking face, well-defined features, black eyes, sparkling eyes",
+      "description": "Prince Shangshan is a boy under fifteen, short and child-sized. He has a handsome, striking face with well-defined, fully formed features and black eyes that sparkle brightly. Tags: male, boy, under 15, short child height, black eyes, bright sparkling eyes, handsome, striking face, well-defined features",
       "used": [
         0,
         1,
@@ -225,32 +222,36 @@
         6,
         7,
         8,
-        9
+        10,
+        11
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 136):** Prince Shangshan is a young boy, under fifteen, short and child-sized. He has a handsome, striking face with well-defined, fully formed features and bright, sparkling black eyes. Tags: male, boy, short, child-sized, handsome, striking face, well-defined features, black eyes, sparkling eyes"
+    "- **Appearance (from ch 136):** Prince Shangshan is a boy under fifteen, short and child-sized. He has a handsome, striking face with well-defined, fully formed features and black eyes that sparkle brightly. Tags: male, boy, under 15, short child height, black eyes, bright sparkling eyes, handsome, striking face, well-defined features"
   ],
-  "omitted": [
-    {
-      "index": 10,
-      "reason": "Adds no new visual trait. Eyes are already covered, and no colour is given there."
-    }
-  ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0179422
+      "cost_usd": 0.0186595
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0211092
+      "cost_usd": 0.0199147
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0315132
+      "cost_usd": 0.020328699999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0204548
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0264191
     }
   ]
 }

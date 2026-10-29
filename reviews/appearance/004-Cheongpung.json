@@ -9,7 +9,104 @@
   "chapter_count": 246,
   "first_chapter": 130,
   "profile_safe_through": 1191,
-  "passages": [],
+  "passages": [
+    [
+      132,
+      23
+    ],
+    [
+      132,
+      37
+    ],
+    [
+      150,
+      73
+    ],
+    [
+      194,
+      46
+    ],
+    [
+      255,
+      21
+    ],
+    [
+      266,
+      94
+    ],
+    [
+      269,
+      45
+    ],
+    [
+      336,
+      36
+    ],
+    [
+      348,
+      26
+    ],
+    [
+      358,
+      30
+    ],
+    [
+      358,
+      43
+    ],
+    [
+      463,
+      49
+    ],
+    [
+      493,
+      53
+    ],
+    [
+      505,
+      28
+    ],
+    [
+      505,
+      44
+    ],
+    [
+      510,
+      28
+    ],
+    [
+      510,
+      78
+    ],
+    [
+      510,
+      52
+    ],
+    [
+      852,
+      19
+    ],
+    [
+      852,
+      65
+    ],
+    [
+      981,
+      26
+    ],
+    [
+      1110,
+      44
+    ],
+    [
+      1125,
+      50
+    ],
+    [
+      1126,
+      59
+    ]
+  ],
   "facts": [
     {
       "attribute": "age",
@@ -69,6 +166,22 @@
     },
     {
       "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Looks too young to be a peak-realm master",
+      "chapter": 132,
+      "quote": "절정 고수라기에는 너무 젊어 보이는데.",
+      "marker": true,
+      "verdict": {
+        "subject": "청풍",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narrator observes Cheongpung looks young; ordinary description, no change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
       "fact": "Appears to be a young man",
       "chapter": 132,
       "quote": "맹렬하게 물고 빠는 청년, 청풍의 모습",
@@ -114,6 +227,22 @@
       "status": "kept"
     },
     {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (반로환동), now has a strikingly young appearance",
+      "chapter": 269,
+      "quote": "허어, 저렇게 젊은 모습이라니.",
+      "marker": true,
+      "verdict": {
+        "subject": "매종학",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Subject is Mae Jonghak (검성), not named as Cheongpung here; unclear identity in passage."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "forehead",
       "kind": "base",
       "fact": "No lightning-shaped scar on forehead (narrator checked for one)",
@@ -124,6 +253,22 @@
       "status": "kept"
     },
     {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Reached the state of returning to youth (banrohwandong), looking younger than his years",
+      "chapter": 463,
+      "quote": "설마하니 반로환동의 경지에 드셨을 줄은 몰랐습니다",
+      "marker": true,
+      "verdict": {
+        "subject": "살성",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Addressed person is 살성 (to 문경); not explicitly Cheongpung. Text states state of banrohwandong but identity not tied to Cheongpung."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears to be a young man",
@@ -132,6 +277,38 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Seems to have returned to youth, though he is an unidentified old master",
+      "chapter": 510,
+      "quote": "반로환동 한 것이 확실해 보이는 정체불명의 노고수",
+      "marker": true,
+      "verdict": {
+        "subject": "unidentified old master",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Unnamed old master seen by Musong; not explicitly Cheongpung."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (반로환동); appears far younger than his real age",
+      "chapter": 510,
+      "quote": "반로환동 한 정체불명의 노괴",
+      "marker": true,
+      "verdict": {
+        "subject": "unidentified old monster",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Unnamed 노괴 per Musong; not explicitly Cheongpung."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "eyes",
@@ -162,17 +339,109 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Became about a hundred years younger",
+      "chapter": 852,
+      "quote": "얼추 백 년쯤 어려졌으니 앞으로 백 년은 더 이렇게 살 예정이오.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Speaker is Jeok Cheongang (적 시주), who got ~100 years younger; not Cheongpung."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Became about a hundred years younger through rejuvenation",
+      "chapter": 852,
+      "quote": "얼추 백 년쯤 어려졌으니",
+      "marker": true,
+      "verdict": {
+        "subject": "Cheongpung",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Speaker (적 시주 = Cheongpung) says he became ~100 years younger; the other character's taunt about 반로환동 confirms a real, lasting rejuvenation, which is revealed here."
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
-  "judgments": {},
+  "rejected": [
+    12,
+    14,
+    16,
+    17,
+    21,
+    22
+  ],
+  "judgments": {
+    "132|절정고수라기에는너무젊어보이는데.": {
+      "subject": "청풍",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narrator observes Cheongpung looks young; ordinary description, no change."
+    },
+    "269|허어,저렇게젊은모습이라니.": {
+      "subject": "매종학",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Subject is Mae Jonghak (검성), not named as Cheongpung here; unclear identity in passage."
+    },
+    "463|설마하니반로환동의경지에드셨을줄은몰랐습니다": {
+      "subject": "살성",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Addressed person is 살성 (to 문경); not explicitly Cheongpung. Text states state of banrohwandong but identity not tied to Cheongpung."
+    },
+    "510|반로환동한것이확실해보이는정체불명의노고수": {
+      "subject": "unidentified old master",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Unnamed old master seen by Musong; not explicitly Cheongpung."
+    },
+    "510|반로환동한정체불명의노괴": {
+      "subject": "unidentified old monster",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Unnamed 노괴 per Musong; not explicitly Cheongpung."
+    },
+    "852|얼추백년쯤어려졌으니앞으로백년은더이렇게살예정이오.": {
+      "subject": "적천강",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Speaker is Jeok Cheongang (적 시주), who got ~100 years younger; not Cheongpung."
+    },
+    "852|얼추백년쯤어려졌으니": {
+      "subject": "Cheongpung",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Speaker (적 시주 = Cheongpung) says he became ~100 years younger; the other character's taunt about 반로환동 confirms a real, lasting rejuvenation, which is revealed here."
+    }
+  },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 130,
-      "description": "Cheongpung is a young man, just past twenty, who looks like an ordinary youth of his age. He has a moderate, average build with a well-formed frame and bone structure. His face is friendly and affable, with clear, bright eyes and an unmarked forehead (no scar). Tags: young man, just past twenty, average build, well-formed frame, friendly face, affable, clear bright eyes, unmarked forehead",
+      "description": "Cheongpung is a young man, just past twenty, with an average, moderate build and a perfect physique and bone structure. He has a friendly, affable face with clear, bright eyes. Tags: young man, early twenties, average build, well-formed frame, affable face, clear bright eyes, no forehead scar",
       "used": [
         0,
         1,
@@ -186,26 +455,47 @@
         9,
         10,
         11,
-        12,
         13,
-        14,
-        15
+        15,
+        18,
+        19,
+        20
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 130):** Cheongpung is a young man, just past twenty, who looks like an ordinary youth of his age. He has a moderate, average build with a well-formed frame and bone structure. His face is friendly and affable, with clear, bright eyes and an unmarked forehead (no scar). Tags: young man, just past twenty, average build, well-formed frame, friendly face, affable, clear bright eyes, unmarked forehead"
+    "- **Appearance (from ch 130):** Cheongpung is a young man, just past twenty, with an average, moderate build and a perfect physique and bone structure. He has a friendly, affable face with clear, bright eyes. Tags: young man, early twenties, average build, well-formed frame, affable face, clear bright eyes, no forehead scar"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.014090099999999998
+      "cost_usd": 0.0225837
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0256895
+      "cost_usd": 0.024147
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0242704
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.021210899999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.031230599999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0199046
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0244071
     }
   ]
 }

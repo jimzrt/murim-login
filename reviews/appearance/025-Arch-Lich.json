@@ -9,7 +9,92 @@
   "chapter_count": 79,
   "first_chapter": 381,
   "profile_safe_through": 422,
-  "passages": [],
+  "passages": [
+    [
+      395,
+      59
+    ],
+    [
+      397,
+      59
+    ],
+    [
+      403,
+      37
+    ],
+    [
+      412,
+      78
+    ],
+    [
+      416,
+      67
+    ],
+    [
+      421,
+      68
+    ],
+    [
+      421,
+      70
+    ],
+    [
+      422,
+      68
+    ],
+    [
+      422,
+      17
+    ],
+    [
+      422,
+      53
+    ],
+    [
+      426,
+      66
+    ],
+    [
+      426,
+      97
+    ],
+    [
+      426,
+      87
+    ],
+    [
+      426,
+      34
+    ],
+    [
+      426,
+      54
+    ],
+    [
+      557,
+      22
+    ],
+    [
+      728,
+      39
+    ],
+    [
+      749,
+      95
+    ],
+    [
+      755,
+      50
+    ],
+    [
+      1030,
+      26
+    ],
+    [
+      1150,
+      52
+    ]
+  ],
   "facts": [
     {
       "attribute": "face",
@@ -27,10 +112,43 @@
   "judgments": {},
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 422,
+      "change": "Arch Lich resurrected as undead apex form, having lost much of its former power (weaker than before)",
+      "cause": "resurrection as Arch Lich after falling into the River of Death / becoming undead",
+      "sure": false
+    },
+    {
+      "chapter": 426,
+      "change": "Arch Lich's manifested body destroyed (erased) by One Annihilation along with the unfinished Gate",
+      "cause": "destroyed by Jin's One Annihilation",
+      "sure": true
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 422,
+      "change": "Arch Lich resurrected as undead apex form, having lost much of its former power (weaker than before)",
+      "cause": "resurrection as Arch Lich after falling into the River of Death / becoming undead",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 426,
+      "change": "Arch Lich's manifested body destroyed (erased) by One Annihilation along with the unfinished Gate",
+      "cause": "destroyed by Jin's One Annihilation",
+      "sure": true,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 381,
-      "description": "Arch Lich has a strikingly distinctive, unforgettable face that stays in memory after a single glance. No other visual traits are described. Tags: male, distinctive face, memorable features",
+      "description": "Arch Lich, male, with a distinctive, unforgettable face that stays in memory after a single viewing. Tags: male, memorable face, distinctive features",
       "used": [
         0
       ],
@@ -38,13 +156,25 @@
     }
   ],
   "lines": [
-    "- **Appearance (from ch 381):** Arch Lich has a strikingly distinctive, unforgettable face that stays in memory after a single glance. No other visual traits are described. Tags: male, distinctive face, memorable features"
+    "- **Appearance (from ch 381):** Arch Lich, male, with a distinctive, unforgettable face that stays in memory after a single viewing. Tags: male, memorable face, distinctive features"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.014825399999999999
+      "cost_usd": 0.020323300000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0141589
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0194844
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0206866
     }
   ]
 }

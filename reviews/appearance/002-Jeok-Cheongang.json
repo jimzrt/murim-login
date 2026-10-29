@@ -13,18 +13,29 @@
   "passages": [],
   "facts": [
     {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Body aged despite deep inner power (over a 60-year span)",
+      "chapter": 59,
+      "quote": "그는 심후한 공력을 얻었지만 육신의 노화까지는 어찌할 수 없었다.",
+      "marker": true,
+      "verdict": {
+        "subject": "일장로",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Refers to the 일장로 (first elder), not Jeok Cheongang; no change shown."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "age",
       "fact": "Was already an old man when he first appeared in the martial world.",
       "chapter": 124,
       "quote": "처음 무림에 모습을 나타냈을 당시에도 화왕은 이미 노인이었다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": false,
-        "lasting_change": false,
-        "reason": "Backstory told by Jin Mugyeong: Hwawang was already old when he first appeared in martial world, past history, not a present scene description; no change."
-      },
-      "status": "rejected"
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "age",
@@ -32,12 +43,7 @@
       "chapter": 171,
       "quote": "노인, 적천강은 목적지에 도착하자마자 제법 흥미로운 상황에 직면했다.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Plain description of Jeok Cheongang as an old man; ordinary look, no change in scene."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -46,12 +52,7 @@
       "chapter": 171,
       "quote": "곧 죽어도 이상하지 않을 것 같은 노인",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Describes him as an old man who seems near death; ordinary description, no change shown."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -62,10 +63,11 @@
       "quote": "흰 눈썹이 반달처럼 휘어졌다",
       "marker": false,
       "verdict": {
+        "subject": "Jeok Cheongang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "White eyebrows bending from the punch; literal current look, no lasting change."
+        "reason": "Scene names Jeok Cheongang as the one struck; white eyebrows are an ordinary description of his look, no change shown."
       },
       "status": "kept"
     },
@@ -76,12 +78,77 @@
       "quote": "작달막한 체구",
       "marker": false,
       "verdict": {
+        "subject": "적천강",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "작달막한 체구 = short, stocky; literal description of him"
+        "reason": "Named; short stocky build is an ordinary description of an unchanged look."
       },
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Jeok Cheongang rejuvenated by thirty years within about three seconds (returned to youth).",
+      "chapter": 179,
+      "quote": "불과 3초 남짓한 시간 만에 삼십 년이나 회춘한 적천강이",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "manual override: age-number talk ('take thirty years off'), not a visible change; ch235 shows him old again"
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Ch179: briefly looks about 30 years younger within seconds (rejuvenation); before, a large-framed old man",
+      "chapter": 179,
+      "quote": "불과 3초 남짓한 시간 만에 삼십 년이나 회춘한 적천강이 흐뭇하게 고개를 끄덕였다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "manual override: age-number talk ('take thirty years off'), not a visible change; ch235 shows him old again"
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Large-framed, bigger than an average strong man; an old man (before rejuvenation)",
+      "chapter": 179,
+      "quote": "한 명은 어지간한 장정보다 몸집이 큰 거구의 노인이고",
+      "marker": false,
+      "verdict": {
+        "subject": "화왕",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "manual override: age-number talk ('take thirty years off'), not a visible change; ch235 shows him old again"
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Jeok Cheongang rejuvenated by about thirty years within seconds (sudden rejuvenation, likely temporary)",
+      "chapter": 179,
+      "quote": "삼십 년이나 회춘한 적천강이",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "manual override: age-number talk ('take thirty years off'), not a visible change; ch235 shows him old again"
+      },
+      "status": "rejected"
     },
     {
       "attribute": "build",
@@ -91,10 +158,11 @@
       "quote": "남루한 옷차림에 왜소한 체구였지만",
       "marker": false,
       "verdict": {
+        "subject": "적천강",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "남루한 옷차림에 왜소한 체구 describes 적천강 directly"
+        "reason": "Ordinary description of small build; unchanged look."
       },
       "status": "kept"
     },
@@ -106,12 +174,93 @@
       "quote": "적천강의 얼굴은 부쩍 늙어 있었다",
       "marker": true,
       "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Face noticeably aged ('부쩍 늙어') as current state, revealed here; marked aging, not a slight tiredness."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Body had grown very old after gaining enlightenment",
+      "chapter": 264,
+      "quote": "깨달음을 채우자 육신이 너무 늙어 버렸다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Face looks noticeably more aged than before, but it's a modest increase in age rather than a drastic jump."
+        "reason": "Body too old after enlightenment is stated as current state, but this passage only laments it; the drastic aging was shown earlier (ch235), no new change here."
       },
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Body has become too old/aged (old man appearance)",
+      "chapter": 264,
+      "quote": "육신이 너무 늙어 버렸다",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Same as 2: current old body stated, lament only, no new change in this scene."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth; body became younger",
+      "chapter": 266,
+      "quote": "반로환동(返老還童)까지는 나도 예상치 못했네.",
+      "marker": true,
+      "verdict": {
+        "subject": "매종학",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Speaker/subject is Sword Saint Mae Jonghak (alias Jongri Chu), not Jeok Cheongang; the return to youth belongs to him."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Body became younger after returning to youth",
+      "chapter": 266,
+      "quote": "생각지도 못하게 육신이 어려지니",
+      "marker": true,
+      "verdict": {
+        "subject": "매종학",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same: 반로환동 happened to Mae Jonghak, not Jeok Cheongang."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Looks very young after returning to youth",
+      "chapter": 269,
+      "quote": "허어, 저렇게 젊은 모습이라니.",
+      "marker": true,
+      "verdict": {
+        "subject": "Mae Jonghak",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Speaker refers to the sword saint Mae Jonghak (a different person), not Jeok Cheongang."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "apparent age",
@@ -120,12 +269,7 @@
       "chapter": 435,
       "quote": "천연덕스럽게 입꼬리를 말아 올린 노인",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Called an old man; ordinary description, no change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -136,10 +280,11 @@
       "quote": "눈앞의 자그마한 노인은",
       "marker": false,
       "verdict": {
+        "subject": "Jeok Cheongang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Described as a small old man; ordinary description, no change."
+        "reason": "The small old man is Jeok, named in the preceding line. This is an ordinary description of a look that has not changed."
       },
       "status": "kept"
     },
@@ -150,7 +295,13 @@
       "chapter": 438,
       "quote": "그 어느 때보다 투명하고 맑은 눈동자로 문경을 바라보며",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "Jeok Cheongang",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The clear, bright eyes belong to the old man, who is Jeok. It is a current state, with no drastic change."
+      },
       "status": "kept"
     },
     {
@@ -161,10 +312,11 @@
       "quote": "자그마한 노인",
       "marker": false,
       "verdict": {
+        "subject": "Jeok Cheongang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "자그마한 노인 = Jeok Cheongang now; ordinary description."
+        "reason": "The small old man is Jeok, named in the preceding line. This is an unchanged description."
       },
       "status": "kept"
     },
@@ -175,7 +327,13 @@
       "chapter": 438,
       "quote": "투명하고 맑은 눈동자",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "Jeok Cheongang",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The clear eyes belong to Jeok, who is named in the context. This is a current state and not a drastic change."
+      },
       "status": "kept"
     },
     {
@@ -199,6 +357,38 @@
       "status": "kept"
     },
     {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Small-bodied old man (before returning to youth)",
+      "chapter": 463,
+      "quote": "자그마한 체구의 노인은 가부좌를 튼 채",
+      "marker": false,
+      "verdict": {
+        "subject": "Unnamed small old man",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The old man is unnamed in this passage. The hint suggests the cultivator may be Mungyeong, so it can't be confirmed as Jeok. The passage also shows the start of a change, but it doesn't clearly show a lasting one."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "build",
+      "kind": "base",
+      "fact": "Old man with a small, short frame",
+      "chapter": 463,
+      "quote": "자그마한 체구의 노인은 가부좌를 튼 채 자신을 관조하고 있었다.",
+      "marker": false,
+      "verdict": {
+        "subject": "Jeok Cheongang",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Unnamed small old man in cave; timeline says Jeok still old, unchanged look. Ordinary description."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "age",
       "kind": "change",
       "fact": "Aged from youth through middle age to old man over a long span of time",
@@ -206,10 +396,11 @@
       "quote": "소년이 청년으로, 청년이 중년으로, 마침내 노인이 되기까지는 실로 장구한 세월이 걸렸다.",
       "marker": true,
       "verdict": {
+        "subject": "Jeok Cheongang",
         "this_character": true,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Summary of whole life aging; backstory, not present look."
+        "reason": "Summary of whole life/aging; backstory."
       },
       "status": "rejected"
     },
@@ -221,10 +412,11 @@
       "quote": "감출 수 없는 세월이 서린 노인의 주름진 얼굴에는 미소가 가득했다.",
       "marker": false,
       "verdict": {
+        "subject": "Jeok Cheongang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Old man with wrinkled face, smiling; ordinary present description, no sudden change."
+        "reason": "Named; wrinkled old face is current, unchanged look."
       },
       "status": "kept"
     },
@@ -236,42 +428,263 @@
       "quote": "감출 수 없는 세월이 서린 노인의 주름진 얼굴",
       "marker": false,
       "verdict": {
+        "subject": "Jeok Cheongang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Wrinkled elderly face is literal present; no drastic change shown."
+        "reason": "Named; wrinkled old face, no change shown."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth; appears as a young physician (looks like a child/youth)",
+      "chapter": 488,
+      "quote": "눈앞의 어린 의생이 반로환동으로 젊어진 초절정 고수",
+      "marker": true,
+      "verdict": {
+        "subject": "Jeok Cheongang",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "살성 is Jeok; young physician look from 반로환동 stated as established present state, revealed here."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Jeok is surmised to have returned to youth (반로환동), looking younger than his true age",
+      "chapter": 505,
+      "quote": "반로환동 한 적 노선배",
+      "marker": true,
+      "verdict": {
+        "subject": "Jeok Cheongang",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Red-haired, red-bearded man beside narrator identified as 반로환동 한 적 노선배, and narrator confirms. New look revealed."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Once looked on the verge of death as an old man; has now returned to youth.",
+      "chapter": 505,
+      "quote": "오늘내일할 것 같던 할배 시절에도 저런 눈빛을 하면 모두가 꼬리를 내렸는데, 회춘까지 해 버렸으니",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "적천강 named; 오늘내일하던 할배 시절 → 회춘 stated as established present fact; rejuvenation announced here"
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Jeok Cheongang is suspected to have returned to youth (반로환동), so he looks young",
+      "chapter": 505,
+      "quote": "자네 옆에 있는 저 무인은 혹 반로환동 한 적 노선배가 아닌가 하는 생각이 드는데",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Jegal Pung only speculates ('혹 반로환동 한 적 노선배가 아닌가'), framed as a hypothesis; though the reply '맞는데요' confirms it, the passage's quoted line itself is a guess. Red hair/beard are visible but the line is a hypothesis"
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (from near-death old man) through enlightenment",
+      "chapter": 505,
+      "quote": "회춘까지 해 버렸으니 그 기세에 오금이 저릴 지경이다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "회춘까지 해 버렸으니 states rejuvenation as fact; new look revealed in this scene"
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Before rejuvenation he was an elderly man on the brink of death",
+      "chapter": 505,
+      "quote": "오늘내일할 것 같던 할배 시절에도",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "할배 시절 on the brink of death is stated as his past state, followed by 회춘; change announced here"
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Jeok was a frail old man on his last legs before returning to youth",
+      "chapter": 505,
+      "quote": "오늘내일할 것 같던 할배 시절에도 저런 눈빛을 하면 모두가 꼬리를 내렸는데",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Old-age 오늘내일 state before 회춘 is stated as real; rejuvenation is the lasting change shown here. 'Frail' is slightly inferred, but near-death old man fits"
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Was a near-death old man; then rejuvenated (회춘) into a youthful look",
+      "chapter": 505,
+      "quote": "회춘까지 해 버렸으니",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "near-death old man then 회춘 stated as fact; lasting rejuvenation revealed in this passage"
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Suspected to be Senior Jeok, who returned to youth (반로환동)",
+      "chapter": 505,
+      "quote": "저 무인은 혹 반로환동 한 적 노선배가 아닌가",
+      "marker": true,
+      "verdict": {
+        "subject": "Jeok Cheongang",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Red hair and red beard on the companion; Jegal Pung guesses he is Senior Jeok who returned to youth, and the narrator confirms 'Correct'. Reveals the new look."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth cured his old-age frailty",
+      "chapter": 506,
+      "quote": "반로환동으로 노환이 완치됨으로써",
+      "marker": true,
+      "verdict": {
+        "subject": "Jeok Cheongang",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "States that returning to youth fully cured Jeok Cheongang's old-age frailty. This is a lasting change of body and announces the new state."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Has returned to youth (반로환동) and is barely recognizable.",
+      "chapter": 518,
+      "quote": "하마터면 몰라볼 뻔했소. 반로환동이라…… 기다린 보람이 있구려.",
+      "marker": true,
+      "verdict": {
+        "subject": "Jeok Cheongang",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Sword King says he almost failed to recognize him. 'Returned to youth' is announced as having happened to Jeok, and the passage is clearly about him. The meeting is with the Flame King."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Appears as a middle-aged man.",
+      "chapter": 518,
+      "quote": "옷소매로 턱수염을 문질러 닦은 중년인, 화왕 적천강이 물끄러미 노인을 바라보았다.",
+      "marker": false,
+      "verdict": {
+        "subject": "Jeok Cheongang",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Text names him as 중년인 화왕 적천강, so he looks middle-aged now. The passage shows no change happening and does not announce a return to youth, so this is an ordinary description of his current look."
       },
       "status": "kept"
     },
     {
       "attribute": "facial hair",
       "kind": "base",
-      "fact": "Middle-aged man with a beard on his chin",
+      "fact": "Has a chin beard.",
+      "chapter": 518,
+      "quote": "옷소매로 턱수염을 문질러 닦은 중년인",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Jeok Cheongang appears as a middle-aged man",
       "chapter": 518,
       "quote": "옷소매로 턱수염을 문질러 닦은 중년인, 화왕 적천강이",
       "marker": false,
       "verdict": {
+        "subject": "Jeok Cheongang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "화왕 적천강 named as middle-aged man wiping beard; ordinary description."
+        "reason": "Named as the middle-aged man with a red beard, Flame King Jeok Cheongang. The context shows the youthful look after his return to youth."
       },
       "status": "kept"
     },
     {
-      "attribute": "facial hair",
+      "attribute": "hair",
       "kind": "base",
-      "fact": "Has a beard",
-      "chapter": 518,
-      "quote": "옷소매로 턱수염을 문질러 닦은 중년인",
-      "marker": false,
+      "fact": "Red hair and red flame, which make him recognizable as the Flame King",
+      "chapter": 519,
+      "quote": "적발에 적염이라면 누가 봐도 화왕이지.",
+      "marker": true,
       "verdict": {
+        "subject": "Jeok Cheongang",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": false,
-        "reason": "His beard, reddish, literal present; no change."
+        "lasting_change": true,
+        "reason": "Red hair and red beard identify the Flame King, and 'Jeok returned to youth' is stated. The new look is revealed here."
       },
-      "status": "kept"
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Jeok Cheongang returned to youth (반로환동), so most people no longer recognized him",
+      "chapter": 519,
+      "quote": "다른 사람들은 적가가 반로환동했다는 사실을 꿈에도 몰랐겠지만",
+      "marker": true,
+      "verdict": {
+        "subject": "Jeok Cheongang",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Thunder Blade King says Jeok returned to youth (반로환동) and others failed to recognize him. This announces the lasting change."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "eyebrows",
@@ -281,10 +694,11 @@
       "quote": "적천강의 붉은 눈썹이 파르르 떨렸다.",
       "marker": false,
       "verdict": {
+        "subject": "Jeok Cheongang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Direct description of his red eyebrows trembling; ordinary description."
+        "reason": "Named; red eyebrows are stated as a plain trait, and the trembling is a momentary reaction. No change."
       },
       "status": "kept"
     },
@@ -295,7 +709,13 @@
       "chapter": 544,
       "quote": "적천강이 검붉은 수염을 쓰다듬으며 말을 이었다.",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "Jeok Cheongang",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Named; dark-red beard is stated as a current trait while he strokes it. No change."
+      },
       "status": "kept"
     },
     {
@@ -306,12 +726,13 @@
       "quote": "햇빛을 받아 번쩍거리는 그의 대머리는 태양권을 패시브 스킬로 쓰고 있었다.",
       "marker": false,
       "verdict": {
+        "subject": "적천강",
         "this_character": true,
-        "literal_present": true,
+        "literal_present": false,
         "lasting_change": false,
-        "reason": "His bald head shines in sunlight now, but the text says it is a disguise he shaved off, so it is not a lasting change."
+        "reason": "Bald head is a disguise ('변장도 좋지만'), temporary; not a lasting change."
       },
-      "status": "kept"
+      "status": "rejected"
     },
     {
       "attribute": "hair",
@@ -321,12 +742,45 @@
       "quote": "햇빛을 받아 번쩍거리는 그의 대머리",
       "marker": false,
       "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Bald head is a disguise, one-scene state; no lasting change."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Looks far younger than the Beast Temple King remembered (returned to youth)",
+      "chapter": 718,
+      "quote": "예전 기억과는 달리 한참 젊어진 적천강의 모습을 힐끔거린",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": false,
-        "reason": "Same scene as item 1: bald head is a disguise, so not lasting."
+        "lasting_change": true,
+        "reason": "Beast Temple King sees Jeok looking far younger than remembered; stated as his current look, a drastic change revealed here."
       },
-      "status": "kept"
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Jeok Cheongang looks much younger than the older Jeok remembered by Beast Temple King (Returned to Youth)",
+      "chapter": 718,
+      "quote": "예전 기억과는 달리 한참 젊어진 적천강의 모습을 힐끔거린 야수묘왕이 조심스럽게 입을 열었다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same line: markedly younger than before, a drastic change revealed in this passage."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "build",
@@ -336,10 +790,11 @@
       "quote": "왜소한 체구의 적천강만 봐도 알 수 있듯이",
       "marker": false,
       "verdict": {
+        "subject": "적천강",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "왜소한 체구의 적천강 stated as known fact"
+        "reason": "Small frame is stated as his established build, an ordinary description, not a change."
       },
       "status": "kept"
     },
@@ -351,10 +806,11 @@
       "quote": "왜소한 체구의 적천강",
       "marker": false,
       "verdict": {
+        "subject": "적천강",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "왜소한 체구의 적천강 stated as known fact"
+        "reason": "Duplicate of item 4: small frame is an established, unchanged trait."
       },
       "status": "kept"
     },
@@ -366,10 +822,11 @@
       "quote": "붉은 머리카락의 중년인, 적천강이",
       "marker": false,
       "verdict": {
+        "subject": "적천강",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Red-haired middle-aged man is named as Jeok Cheongang; ordinary present description."
+        "reason": "Named; middle-aged with red hair is plain description in ch840, not shown as a change here."
       },
       "status": "kept"
     },
@@ -381,12 +838,45 @@
       "quote": "붉은 머리카락의 중년인, 적천강",
       "marker": false,
       "verdict": {
+        "subject": "적천강",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Red hair is explicitly attributed to Jeok Cheongang; ordinary description."
+        "reason": "Named; red hair is an ordinary description of an unchanged look."
       },
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth, rejuvenating by about a hundred years in appearance",
+      "chapter": 841,
+      "quote": "‘아니, 무슨 백 년을 회춘해 버리네.’",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Narrator states he rejuvenated by a hundred years, and his look (like a teen thug) is described as youthful; the change is announced as real."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Body remade, regaining past youthfulness",
+      "chapter": 841,
+      "quote": "환골탈태(換骨奪胎)를 통해 과거의 젊음과 총기를 되찾은 그다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "환골탈태 named as having happened to him, regaining past youth; established present state with a sturdy chest described."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "apparent age",
@@ -396,12 +886,13 @@
       "quote": "비록 몸은 젊어졌으나 눈빛에 담긴 세월만은 여전하다.",
       "marker": true,
       "verdict": {
+        "subject": "적천강",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": true,
-        "reason": "Text says his body has become young again while his eyes still look aged; this is a drastic rejuvenation."
+        "lasting_change": false,
+        "reason": "States his body has become young, but this is an established state mentioned in passing; no change is revealed or happening in this scene."
       },
-      "status": "approved-change"
+      "status": "kept"
     },
     {
       "attribute": "hair",
@@ -411,10 +902,11 @@
       "quote": "최근 들어 봄철 새싹처럼 슬금슬금 고개를 내미는 머리카락을",
       "marker": false,
       "verdict": {
+        "subject": "적천강",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Hair sprouting back on formerly bald Jeok Cheongang, literal present. Gradual regrowth, not a drastic change."
+        "reason": "Hair is regrowing after being lost; a gradual, minor development, and the earlier baldness is only implied by 머리털만 사라졌지. Not a drastic change shown here."
       },
       "status": "kept"
     },
@@ -425,13 +917,8 @@
       "chapter": 972,
       "quote": "머리 서너 개는 더 큰 덩치의 제자가",
       "marker": false,
-      "verdict": {
-        "this_character": false,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "The big build belongs to the disciple, not 적천강; he is only the shorter master"
-      },
-      "status": "rejected"
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "hair",
@@ -441,317 +928,802 @@
       "quote": "어느덧 새하얀 백발이 되어 버린 그를",
       "marker": true,
       "verdict": {
+        "subject": "혁무진",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "White hair belongs to the old man Jeok looks at (the 'him'), not Jeok himself; Jeok is the observer."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "beard",
+      "kind": "change",
+      "fact": "Aged look: white beard hanging down to his navel, giving a hermit-immortal appearance",
+      "chapter": 999,
+      "quote": "배꼽까지 늘어트린 새하얀 수염은 그를 마치 현세에 머무르는 신선처럼 보이게 만들었지만",
+      "marker": false,
+      "verdict": {
+        "subject": "황보엄",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "White beard belongs to the old Taoist Hwangbo Eom, not Jeok."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "limb",
+      "kind": "change",
+      "fact": "Lost one arm to Sword Saint Mae Jonghak's strike during the Shaolin Blood Incident",
+      "chapter": 1087,
+      "quote": "검성 매종학의 일격에 한쪽 팔을 잃었던 것",
+      "marker": true,
+      "verdict": {
+        "subject": "혈주",
         "this_character": false,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Ambiguous: the white-haired person is the other old man (he), whom Jeok Cheongang looks at. Not Jeok Cheongang's own look."
+        "reason": "Arm loss is the Blood Lord's backstory, not Jeok's."
       },
       "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Body has become young again (returned to youth), but the eyes still look old and worn by years",
+      "chapter": 1088,
+      "quote": "비록 육신은 젊어졌으나, 세월이 담긴 그 노회한 눈동자에 익숙한 얼굴이 비쳤다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Jeok named; body stated as having become young again (established present state) while eyes remain old; returned-to-youth look revealed here."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Is said to have returned to youth",
+      "chapter": 1098,
+      "quote": "회춘하셔서 그런가, 귀가 더 밝아지셨네요.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Narrator addresses Jeok (the old master) as having returned to youth (회춘), stated as his current state; announces the named transformation."
+      },
+      "status": "approved-change"
     }
   ],
   "dropped_facts": [],
   "rejected": [
     0,
+    6,
+    7,
+    8,
+    9,
     14,
-    29,
-    30
+    15,
+    16,
+    24,
+    25,
+    26,
+    30,
+    32,
+    37,
+    47,
+    48,
+    60,
+    61,
+    62
   ],
   "judgments": {
-    "124|처음무림에모습을나타냈을당시에도화왕은이미노인이었다.": {
-      "this_character": true,
-      "literal_present": false,
-      "lasting_change": false,
-      "reason": "Backstory told by Jin Mugyeong: Hwawang was already old when he first appeared in martial world, past history, not a present scene description; no change."
-    },
-    "171|노인,적천강은목적지에도착하자마자제법흥미로운상황에직면했다.": {
-      "this_character": true,
+    "59|그는심후한공력을얻었지만육신의노화까지는어찌할수없었다.": {
+      "subject": "일장로",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Plain description of Jeok Cheongang as an old man; ordinary look, no change in scene."
-    },
-    "171|곧죽어도이상하지않을것같은노인": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Describes him as an old man who seems near death; ordinary description, no change shown."
-    },
-    "172|흰눈썹이반달처럼휘어졌다": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "White eyebrows bending from the punch; literal current look, no lasting change."
+      "reason": "Refers to the 일장로 (first elder), not Jeok Cheongang; no change shown."
     },
     "172|작달막한체구": {
+      "subject": "적천강",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "작달막한 체구 = short, stocky; literal description of him"
+      "reason": "Named; short stocky build is an ordinary description of an unchanged look."
     },
-    "192|남루한옷차림에왜소한체구였지만": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "남루한 옷차림에 왜소한 체구 describes 적천강 directly"
-    },
-    "235|적천강의얼굴은부쩍늙어있었다": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Face looks noticeably more aged than before, but it's a modest increase in age rather than a drastic jump."
-    },
-    "435|천연덕스럽게입꼬리를말아올린노인": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Called an old man; ordinary description, no change."
-    },
-    "438|눈앞의자그마한노인은": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Described as a small old man; ordinary description, no change."
-    },
-    "438|자그마한노인": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "자그마한 노인 = Jeok Cheongang now; ordinary description."
-    },
-    "471|소년이청년으로,청년이중년으로,마침내노인이되기까지는실로장구한세월이걸렸다.": {
-      "this_character": true,
-      "literal_present": false,
-      "lasting_change": false,
-      "reason": "Summary of whole life aging; backstory, not present look."
-    },
-    "472|감출수없는세월이서린노인의주름진얼굴에는미소가가득했다.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Old man with wrinkled face, smiling; ordinary present description, no sudden change."
-    },
-    "472|감출수없는세월이서린노인의주름진얼굴": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Wrinkled elderly face is literal present; no drastic change shown."
-    },
-    "518|옷소매로턱수염을문질러닦은중년인,화왕적천강이": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "화왕 적천강 named as middle-aged man wiping beard; ordinary description."
-    },
-    "518|옷소매로턱수염을문질러닦은중년인": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "His beard, reddish, literal present; no change."
-    },
-    "535|적천강의붉은눈썹이파르르떨렸다.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Direct description of his red eyebrows trembling; ordinary description."
-    },
-    "715|햇빛을받아번쩍거리는그의대머리는태양권을패시브스킬로쓰고있었다.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "His bald head shines in sunlight now, but the text says it is a disguise he shaved off, so it is not a lasting change."
-    },
-    "715|햇빛을받아번쩍거리는그의대머리": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Same scene as item 1: bald head is a disguise, so not lasting."
-    },
-    "795|왜소한체구의적천강만봐도알수있듯이": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "왜소한 체구의 적천강 stated as known fact"
-    },
-    "795|왜소한체구의적천강": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "왜소한 체구의 적천강 stated as known fact"
-    },
-    "840|붉은머리카락의중년인,적천강이": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Red-haired middle-aged man is named as Jeok Cheongang; ordinary present description."
-    },
-    "840|붉은머리카락의중년인,적천강": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Red hair is explicitly attributed to Jeok Cheongang; ordinary description."
-    },
-    "938|비록몸은젊어졌으나눈빛에담긴세월만은여전하다.": {
+    "179|불과3초남짓한시간만에삼십년이나회춘한적천강이": {
+      "subject": "적천강",
       "this_character": true,
       "literal_present": true,
       "lasting_change": true,
-      "reason": "Text says his body has become young again while his eyes still look aged; this is a drastic rejuvenation."
+      "reason": "Named; 회춘 by thirty years is shown as happening in this scene. Text doesn't present it as temporary."
     },
-    "945|최근들어봄철새싹처럼슬금슬금고개를내미는머리카락을": {
+    "179|불과3초남짓한시간만에삼십년이나회춘한적천강이흐뭇하게고개를끄덕였다.": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line as item 2; 회춘 by thirty years is stated as having happened here. Nothing marks it as temporary."
+    },
+    "179|한명은어지간한장정보다몸집이큰거구의노인이고": {
+      "subject": "화왕",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Hair sprouting back on formerly bald Jeok Cheongang, literal present. Gradual regrowth, not a drastic change."
+      "reason": "화왕 is Jeok Cheongang's alias, and the large-framed old man is one of the pair. The line is an ordinary description of his look before the change, so there is no change here."
     },
-    "972|머리서너개는더큰덩치의제자가": {
+    "179|삼십년이나회춘한적천강이": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line as item 2; named, and the 30-year 회춘 happens in this scene. The text doesn't show it reverting."
+    },
+    "192|남루한옷차림에왜소한체구였지만": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Ordinary description of small build; unchanged look."
+    },
+    "235|적천강의얼굴은부쩍늙어있었다": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Face noticeably aged ('부쩍 늙어') as current state, revealed here; marked aging, not a slight tiredness."
+    },
+    "264|깨달음을채우자육신이너무늙어버렸다.": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Body too old after enlightenment is stated as current state, but this passage only laments it; the drastic aging was shown earlier (ch235), no new change here."
+    },
+    "264|육신이너무늙어버렸다": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same as 2: current old body stated, lament only, no new change in this scene."
+    },
+    "266|반로환동(返老還童)까지는나도예상치못했네.": {
+      "subject": "매종학",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Speaker/subject is Sword Saint Mae Jonghak (alias Jongri Chu), not Jeok Cheongang; the return to youth belongs to him."
+    },
+    "266|생각지도못하게육신이어려지니": {
+      "subject": "매종학",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same: 반로환동 happened to Mae Jonghak, not Jeok Cheongang."
+    },
+    "269|허어,저렇게젊은모습이라니.": {
+      "subject": "Mae Jonghak",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "The big build belongs to the disciple, not 적천강; he is only the shorter master"
+      "reason": "Speaker refers to the sword saint Mae Jonghak (a different person), not Jeok Cheongang."
+    },
+    "438|눈앞의자그마한노인은": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The small old man is Jeok, named in the preceding line. This is an ordinary description of a look that has not changed."
+    },
+    "438|그어느때보다투명하고맑은눈동자로문경을바라보며": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The clear, bright eyes belong to the old man, who is Jeok. It is a current state, with no drastic change."
+    },
+    "438|자그마한노인": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The small old man is Jeok, named in the preceding line. This is an unchanged description."
+    },
+    "438|투명하고맑은눈동자": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The clear eyes belong to Jeok, who is named in the context. This is a current state and not a drastic change."
+    },
+    "463|자그마한체구의노인은가부좌를튼채": {
+      "subject": "Unnamed small old man",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The old man is unnamed in this passage. The hint suggests the cultivator may be Mungyeong, so it can't be confirmed as Jeok. The passage also shows the start of a change, but it doesn't clearly show a lasting one."
+    },
+    "463|자그마한체구의노인은가부좌를튼채자신을관조하고있었다.": {
+      "subject": "Jeok Cheongang",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Unnamed small old man in cave; timeline says Jeok still old, unchanged look. Ordinary description."
+    },
+    "471|소년이청년으로,청년이중년으로,마침내노인이되기까지는실로장구한세월이걸렸다.": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Summary of whole life/aging; backstory."
+    },
+    "472|감출수없는세월이서린노인의주름진얼굴에는미소가가득했다.": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Named; wrinkled old face is current, unchanged look."
+    },
+    "472|감출수없는세월이서린노인의주름진얼굴": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Named; wrinkled old face, no change shown."
+    },
+    "488|눈앞의어린의생이반로환동으로젊어진초절정고수": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "살성 is Jeok; young physician look from 반로환동 stated as established present state, revealed here."
+    },
+    "505|반로환동한적노선배": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Red-haired, red-bearded man beside narrator identified as 반로환동 한 적 노선배, and narrator confirms. New look revealed."
+    },
+    "505|오늘내일할것같던할배시절에도저런눈빛을하면모두가꼬리를내렸는데,회춘까지해버렸으니": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "적천강 named; 오늘내일하던 할배 시절 → 회춘 stated as established present fact; rejuvenation announced here"
+    },
+    "505|자네옆에있는저무인은혹반로환동한적노선배가아닌가하는생각이드는데": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Jegal Pung only speculates ('혹 반로환동 한 적 노선배가 아닌가'), framed as a hypothesis; though the reply '맞는데요' confirms it, the passage's quoted line itself is a guess. Red hair/beard are visible but the line is a hypothesis"
+    },
+    "505|회춘까지해버렸으니그기세에오금이저릴지경이다.": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "회춘까지 해 버렸으니 states rejuvenation as fact; new look revealed in this scene"
+    },
+    "505|오늘내일할것같던할배시절에도": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "할배 시절 on the brink of death is stated as his past state, followed by 회춘; change announced here"
+    },
+    "505|오늘내일할것같던할배시절에도저런눈빛을하면모두가꼬리를내렸는데": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Old-age 오늘내일 state before 회춘 is stated as real; rejuvenation is the lasting change shown here. 'Frail' is slightly inferred, but near-death old man fits"
+    },
+    "505|회춘까지해버렸으니": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "near-death old man then 회춘 stated as fact; lasting rejuvenation revealed in this passage"
+    },
+    "505|저무인은혹반로환동한적노선배가아닌가": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Red hair and red beard on the companion; Jegal Pung guesses he is Senior Jeok who returned to youth, and the narrator confirms 'Correct'. Reveals the new look."
+    },
+    "506|반로환동으로노환이완치됨으로써": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "States that returning to youth fully cured Jeok Cheongang's old-age frailty. This is a lasting change of body and announces the new state."
+    },
+    "518|하마터면몰라볼뻔했소.반로환동이라……기다린보람이있구려.": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Sword King says he almost failed to recognize him. 'Returned to youth' is announced as having happened to Jeok, and the passage is clearly about him. The meeting is with the Flame King."
+    },
+    "518|옷소매로턱수염을문질러닦은중년인,화왕적천강이": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Named as the middle-aged man with a red beard, Flame King Jeok Cheongang. The context shows the youthful look after his return to youth."
+    },
+    "519|적발에적염이라면누가봐도화왕이지.": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Red hair and red beard identify the Flame King, and 'Jeok returned to youth' is stated. The new look is revealed here."
+    },
+    "519|다른사람들은적가가반로환동했다는사실을꿈에도몰랐겠지만": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Thunder Blade King says Jeok returned to youth (반로환동) and others failed to recognize him. This announces the lasting change."
+    },
+    "715|햇빛을받아번쩍거리는그의대머리는태양권을패시브스킬로쓰고있었다.": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Bald head is a disguise ('변장도 좋지만'), temporary; not a lasting change."
+    },
+    "715|햇빛을받아번쩍거리는그의대머리": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Bald head is a disguise, one-scene state; no lasting change."
+    },
+    "718|예전기억과는달리한참젊어진적천강의모습을힐끔거린": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Beast Temple King sees Jeok looking far younger than remembered; stated as his current look, a drastic change revealed here."
+    },
+    "718|예전기억과는달리한참젊어진적천강의모습을힐끔거린야수묘왕이조심스럽게입을열었다.": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line: markedly younger than before, a drastic change revealed in this passage."
+    },
+    "795|왜소한체구의적천강만봐도알수있듯이": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Small frame is stated as his established build, an ordinary description, not a change."
+    },
+    "795|왜소한체구의적천강": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Duplicate of item 4: small frame is an established, unchanged trait."
+    },
+    "840|붉은머리카락의중년인,적천강이": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Named; middle-aged with red hair is plain description in ch840, not shown as a change here."
+    },
+    "840|붉은머리카락의중년인,적천강": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Named; red hair is an ordinary description of an unchanged look."
+    },
+    "841|‘아니,무슨백년을회춘해버리네.’": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Narrator states he rejuvenated by a hundred years, and his look (like a teen thug) is described as youthful; the change is announced as real."
+    },
+    "841|환골탈태(換骨奪胎)를통해과거의젊음과총기를되찾은그다.": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "환골탈태 named as having happened to him, regaining past youth; established present state with a sturdy chest described."
+    },
+    "938|비록몸은젊어졌으나눈빛에담긴세월만은여전하다.": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "States his body has become young, but this is an established state mentioned in passing; no change is revealed or happening in this scene."
+    },
+    "945|최근들어봄철새싹처럼슬금슬금고개를내미는머리카락을": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Hair is regrowing after being lost; a gradual, minor development, and the earlier baldness is only implied by 머리털만 사라졌지. Not a drastic change shown here."
     },
     "988|어느덧새하얀백발이되어버린그를": {
+      "subject": "혁무진",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "White hair belongs to the old man Jeok looks at (the 'him'), not Jeok himself; Jeok is the observer."
+    },
+    "999|배꼽까지늘어트린새하얀수염은그를마치현세에머무르는신선처럼보이게만들었지만": {
+      "subject": "황보엄",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "White beard belongs to the old Taoist Hwangbo Eom, not Jeok."
+    },
+    "1087|검성매종학의일격에한쪽팔을잃었던것": {
+      "subject": "혈주",
       "this_character": false,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "Ambiguous: the white-haired person is the other old man (he), whom Jeok Cheongang looks at. Not Jeok Cheongang's own look."
+      "reason": "Arm loss is the Blood Lord's backstory, not Jeok's."
+    },
+    "1088|비록육신은젊어졌으나,세월이담긴그노회한눈동자에익숙한얼굴이비쳤다.": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Jeok named; body stated as having become young again (established present state) while eyes remain old; returned-to-youth look revealed here."
+    },
+    "1098|회춘하셔서그런가,귀가더밝아지셨네요.": {
+      "subject": "적천강",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Narrator addresses Jeok (the old master) as having returned to youth (회춘), stated as his current state; announces the named transformation."
+    },
+    "172|흰눈썹이반달처럼휘어졌다": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Scene names Jeok Cheongang as the one struck; white eyebrows are an ordinary description of his look, no change shown."
+    },
+    "518|옷소매로턱수염을문질러닦은중년인,화왕적천강이물끄러미노인을바라보았다.": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Text names him as 중년인 화왕 적천강, so he looks middle-aged now. The passage shows no change happening and does not announce a return to youth, so this is an ordinary description of his current look."
+    },
+    "535|적천강의붉은눈썹이파르르떨렸다.": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Named; red eyebrows are stated as a plain trait, and the trembling is a momentary reaction. No change."
+    },
+    "544|적천강이검붉은수염을쓰다듬으며말을이었다.": {
+      "subject": "Jeok Cheongang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Named; dark-red beard is stated as a current trait while he strokes it. No change."
     }
   },
   "conflicts": [
     {
-      "attribute": "apparent age",
-      "indices": [
-        1,
-        2,
-        7,
-        15,
-        16,
-        17,
-        18
-      ],
-      "kept": [
-        1,
-        2,
-        7,
-        15,
-        16
-      ],
-      "resolved": true,
-      "reason": "Old man is repeated across 5 facts from ch171 on; 'middle-aged' appears only in ch518. The beard trait is taken from non-conflicting fact 18."
-    },
-    {
-      "attribute": "eyebrow colour",
-      "indices": [
-        3,
-        19
-      ],
-      "kept": [
-        3
-      ],
-      "resolved": false,
-      "reason": "One fact each (white ch172, red ch535); kept the earlier one, evidence about equal."
-    },
-    {
       "attribute": "build",
       "indices": [
-        4,
         5,
-        8,
         10,
-        23,
-        24
+        18,
+        20,
+        51,
+        52
       ],
       "kept": [
-        5,
-        8,
         10,
-        23,
-        24
+        18,
+        20,
+        51,
+        52
       ],
       "resolved": true,
-      "reason": "Small/slight is repeated and consistent across ch192, ch438 and ch795; stocky appears once."
+      "reason": "Small and slight is repeated across several chapters, including after the change. Only fact 4 says stocky. The timeline's 'tall, muscular' is not in any verified fact, so it is not used."
     },
     {
       "attribute": "hair",
       "indices": [
-        21,
-        22,
-        25,
-        26
+        43,
+        53,
+        54,
+        58
       ],
       "kept": [
-        21,
-        22
+        43,
+        53,
+        54
       ],
-      "resolved": false,
-      "reason": "Bald (ch715) and red hair (ch840) each have two facts; kept the earlier bald value, evidence about equal."
+      "resolved": true,
+      "reason": "Red hair is stated three times. Fact 42 is a regrowth event with no change marker, so it is left out."
     }
   ],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 179,
+      "change": "old man -> about thirty years younger in appearance (3 seconds)",
+      "cause": "apparent rejuvenation (likely Returned to Youth, possibly a technique/pill effect)",
+      "sure": false
+    },
+    {
+      "chapter": 266,
+      "change": "aged body -> visibly younger, youthful appearance",
+      "cause": "returned to youth (반로환동) through enlightenment; Jeok recounts it during the time-skip",
+      "sure": false
+    },
+    {
+      "chapter": 463,
+      "change": "old man seeking youth -> still old; Jeok has not yet attained Returned to Youth",
+      "cause": "unresolved inner demons, so no change here. Mungyeong, not Jeok, is the one who has returned to youth",
+      "sure": false
+    },
+    {
+      "chapter": 505,
+      "change": "old man with failing innate qi -> tall, muscular, red-haired man",
+      "cause": "returned to youth through enlightenment",
+      "sure": true
+    },
+    {
+      "chapter": 518,
+      "change": "appears as a middle-aged man after Returned to Youth",
+      "cause": "returned to youth (reaffirmed)",
+      "sure": true
+    },
+    {
+      "chapter": 718,
+      "change": "remembered older Jeok -> markedly younger-looking Jeok",
+      "cause": "returned to youth, noted by others after a time skip",
+      "sure": true
+    },
+    {
+      "chapter": 841,
+      "change": "described as rejuvenating by a hundred years",
+      "cause": "returned to youth, a remark about the lasting youthful look",
+      "sure": false
+    },
+    {
+      "chapter": 999,
+      "change": "regained a middle-aged appearance",
+      "cause": "returned to youth effect restored after a lapse",
+      "sure": true
+    },
+    {
+      "chapter": 1087,
+      "change": "lost one arm (Shaolin Blood Incident, struck by Sword Saint Mae Jonghak)",
+      "cause": "injury. This refers to another character's backstory, not Jeok, so it is probably not Jeok's change",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 179,
+      "change": "old man -> about thirty years younger in appearance (3 seconds)",
+      "cause": "apparent rejuvenation (likely Returned to Youth, possibly a technique/pill effect)",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 266,
+      "change": "aged body -> visibly younger, youthful appearance",
+      "cause": "returned to youth (반로환동) through enlightenment; Jeok recounts it during the time-skip",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 463,
+      "change": "old man seeking youth -> still old; Jeok has not yet attained Returned to Youth",
+      "cause": "unresolved inner demons, so no change here. Mungyeong, not Jeok, is the one who has returned to youth",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 505,
+      "change": "old man with failing innate qi -> tall, muscular, red-haired man",
+      "cause": "returned to youth through enlightenment",
+      "sure": true,
+      "facts": [
+        31,
+        33,
+        34,
+        35,
+        36,
+        38
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 518,
+      "change": "appears as a middle-aged man after Returned to Youth",
+      "cause": "returned to youth (reaffirmed)",
+      "sure": true,
+      "facts": [
+        39,
+        43,
+        44
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 718,
+      "change": "remembered older Jeok -> markedly younger-looking Jeok",
+      "cause": "returned to youth, noted by others after a time skip",
+      "sure": true,
+      "facts": [
+        49,
+        50
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 841,
+      "change": "described as rejuvenating by a hundred years",
+      "cause": "returned to youth, a remark about the lasting youthful look",
+      "sure": false,
+      "facts": [
+        55,
+        56
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 999,
+      "change": "regained a middle-aged appearance",
+      "cause": "returned to youth effect restored after a lapse",
+      "sure": true,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 1087,
+      "change": "lost one arm (Shaolin Blood Incident, struck by Sword Saint Mae Jonghak)",
+      "cause": "injury. This refers to another character's backstory, not Jeok, so it is probably not Jeok's change",
+      "sure": false,
+      "facts": [
+        63
+      ],
+      "verified": true
+    }
+  ],
+  "dismissed_events": [
+    {
+      "event": 235,
+      "reason": "dismissed"
+    },
+    {
+      "event": 518,
+      "reason": "dismissed"
+    },
+    {
+      "event": 718,
+      "reason": "dismissed"
+    },
+    {
+      "event": 841,
+      "reason": "dismissed"
+    },
+    {
+      "event": 1087,
+      "reason": "dismissed"
+    }
+  ],
   "ranges": [
     {
       "start": 124,
-      "description": "Jeok Cheongang is a very old, small and slight man whose wrinkled face looks close to death. He has a bald head that shines in sunlight, white eyebrows and a dark-red beard. His face is naturally harsh and fierce, looking like a wrathful demon when frowning, but his eyes are clear and transparent. Tags: male, very old man, wrinkled face, small slight build, bald, shiny head, white eyebrows, dark-red beard, fierce face, clear transparent eyes",
+      "description": "Jeok Cheongang is a small, slight old man, so aged he looks close to death, with a deeply wrinkled face and white eyebrows. His face is naturally harsh and fierce, a scowl making him look like a wrathful demon, and his eyes are clear and transparent. Tags: old man, elderly, near-death frailty, small slight build, wrinkled face, white eyebrows, fierce face, bad-tempered scowl, clear eyes",
       "used": [
         1,
         2,
         3,
-        5,
-        7,
-        8,
-        9,
+        4,
         10,
         11,
         12,
         13,
-        15,
-        16,
+        17,
+        18,
+        19,
         20,
         21,
         22,
         23,
-        24
+        27,
+        28
       ],
       "difference": ""
     },
     {
-      "start": 938,
-      "description": "Jeok Cheongang has a rejuvenated, youthful body, still small and slight, though his gaze carries the weight of years. He has a bald head that shines in sunlight, white eyebrows and a dark-red beard. His face is naturally harsh and fierce, looking like a wrathful demon when frowning, and his eyes are clear and transparent. Tags: male, youthful body, small slight build, bald, shiny head, white eyebrows, dark-red beard, fierce face, clear transparent eyes, weathered gaze",
+      "start": 505,
+      "description": "Jeok Cheongang, after returning to youth through enlightenment, is a rejuvenated middle-aged man with a small, slight frame. He has red hair, red eyebrows and a dark-red beard on his chin, and his face stays fierce. His eyes are old, worn and weighed by years despite the young body. Tags: middle-aged, returned to youth, small slight build, red hair, red eyebrows, dark-red chin beard, fierce face, old worn eyes",
       "used": [
-        3,
-        9,
-        11,
-        12,
-        13,
-        20,
-        21,
         22,
         23,
-        24,
-        27
+        31,
+        33,
+        34,
+        35,
+        36,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        63,
+        64
       ],
-      "difference": "wrinkled, very old man -> youthful body with no elderly look, same build, bald head, brows and beard"
+      "difference": "frail white-browed old man -> rejuvenated middle-aged man with red hair, red eyebrows and dark-red beard"
     }
   ],
   "lines": [
-    "- **Appearance (ch 124–937):** Jeok Cheongang is a very old, small and slight man whose wrinkled face looks close to death. He has a bald head that shines in sunlight, white eyebrows and a dark-red beard. His face is naturally harsh and fierce, looking like a wrathful demon when frowning, but his eyes are clear and transparent. Tags: male, very old man, wrinkled face, small slight build, bald, shiny head, white eyebrows, dark-red beard, fierce face, clear transparent eyes",
-    "- **Appearance (from ch 938):** Jeok Cheongang has a rejuvenated, youthful body, still small and slight, though his gaze carries the weight of years. He has a bald head that shines in sunlight, white eyebrows and a dark-red beard. His face is naturally harsh and fierce, looking like a wrathful demon when frowning, and his eyes are clear and transparent. Tags: male, youthful body, small slight build, bald, shiny head, white eyebrows, dark-red beard, fierce face, clear transparent eyes, weathered gaze"
+    "- **Appearance (ch 124–504):** Jeok Cheongang is a small, slight old man, so aged he looks close to death, with a deeply wrinkled face and white eyebrows. His face is naturally harsh and fierce, a scowl making him look like a wrathful demon, and his eyes are clear and transparent. Tags: old man, elderly, near-death frailty, small slight build, wrinkled face, white eyebrows, fierce face, bad-tempered scowl, clear eyes",
+    "- **Appearance (from ch 505):** Jeok Cheongang, after returning to youth through enlightenment, is a rejuvenated middle-aged man with a small, slight frame. He has red hair, red eyebrows and a dark-red beard on his chin, and his face stays fierce. His eyes are old, worn and weighed by years despite the young body. Tags: middle-aged, returned to youth, small slight build, red hair, red eyebrows, dark-red chin beard, fierce face, old worn eyes"
   ],
   "omitted": [
     {
-      "index": 6,
-      "reason": "Describes a sudden aging event, not marked APPROVED-CHANGE."
+      "index": 29,
+      "reason": "Ch488 is 17 chapters before the ch505 event. It describes a child-like young physician, which conflicts with the other facts, so it may be a disguise or a different person. It cannot open a range."
     },
     {
-      "index": 28,
-      "reason": "Describes hair regrowing, an event not marked APPROVED-CHANGE."
+      "index": 58,
+      "reason": "A hair regrowth event with no APPROVED-CHANGE marker, and it implies earlier baldness that no other fact states."
+    },
+    {
+      "index": 59,
+      "reason": "Describes the disciple's build, not Jeok's."
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0223685
+      "cost_usd": 0.0448035
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.053196099999999996
+      "cost_usd": 0.0263599
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0760624
     }
   ]
 }

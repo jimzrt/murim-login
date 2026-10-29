@@ -7,5 +7,5 @@
 - **Personality:** Practical and wary of reckless risks, but willing to act when duty and the stakes leave him no acceptable alternative.
 - **Voice:** Familiar and conversational with Jin, using blunt objections, direct appeals, and occasional profanity.
 - **Relationships:** Jin Taekyung is his trusted ally; he agrees to teleport Jin and the Skeleton King toward the Doppelganger while remaining behind to guard the battlefield.
-- **Appearance (from ch 242):** Magic Johnson is a towering, large-framed man with dark black skin. He has clear, transparent-looking eyes that reflect whoever stands before him, and a homely, unattractive face. Tags: male, towering, large frame, dark skin, Black man, clear transparent eyes, homely face
+- **Appearance (from ch 242):** Magic Johnson is a huge, bulky, large-framed man with dark black skin and clear, transparent-looking eyes. He carries a large, handsome staff. Tags: male, dark skin, black skin, huge bulky build, clear transparent eyes, large ornate staff
 - **Sources:** Korean source and accepted translation, Chapter 384

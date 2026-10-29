@@ -10,8 +10,85 @@
   "chapter_count": 55,
   "first_chapter": 507,
   "profile_safe_through": 1103,
-  "passages": [],
+  "passages": [
+    [
+      609,
+      49
+    ],
+    [
+      761,
+      79
+    ],
+    [
+      773,
+      80
+    ],
+    [
+      799,
+      62
+    ],
+    [
+      809,
+      69
+    ],
+    [
+      812,
+      68
+    ],
+    [
+      812,
+      66
+    ],
+    [
+      813,
+      72
+    ],
+    [
+      813,
+      124
+    ],
+    [
+      814,
+      70
+    ],
+    [
+      817,
+      32
+    ],
+    [
+      818,
+      43
+    ],
+    [
+      818,
+      77
+    ],
+    [
+      819,
+      29
+    ],
+    [
+      1103,
+      105
+    ]
+  ],
   "facts": [
+    {
+      "attribute": "hair",
+      "kind": "base",
+      "fact": "The Prophet has only a few strands of hair left, and wears a jewel-decorated turban",
+      "chapter": 609,
+      "quote": "보석으로 장식한 터번이 벗겨지고, 몇 가닥 남지 않은 머리카락마저 소멸하듯 잘려 나간다.",
+      "marker": true,
+      "verdict": {
+        "subject": "무함마드",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Hair and turban belong to Muhammad, not explicitly The Prophet; also an ordinary description of hair being cut off, not a lasting change of The Prophet's look."
+      },
+      "status": "rejected"
+    },
     {
       "attribute": "clothing",
       "kind": "base",
@@ -21,35 +98,160 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "hands",
+      "kind": "change",
+      "fact": "After combat with Jin Taekyung, the Prophet has only one hand left (the other hand was severed)",
+      "chapter": 813,
+      "quote": "한쪽 무릎을 꿇은 선지자가 하나밖에 남지 않은 손을 뻗었으나",
+      "marker": true,
+      "verdict": {
+        "subject": "선지자",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Named 선지자 has only one hand left after combat; the loss of a hand is shown here as a current fact."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "hands",
+      "kind": "change",
+      "fact": "The Prophet has only one hand left (other hand lost) after combat.",
+      "chapter": 813,
+      "quote": "하나밖에 남지 않은 손을 뻗었으나",
+      "marker": true,
+      "verdict": {
+        "subject": "선지자",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same line: 선지자 has only one hand left; the lost hand is revealed in this passage."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "hands",
+      "kind": "change",
+      "fact": "One hand severed at the wrist; the clean-cut stump twitches (may regenerate)",
+      "chapter": 814,
+      "quote": "깨끗하게 잘려 나간 손목의 단면이 꿈틀거린다.",
+      "marker": true,
+      "verdict": {
+        "subject": "선지자",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The stump twitches and the body is regenerating (new flesh on the chest), so the injury is not treated as lasting. The speaker is the enemy 'he', presumed to be 선지자, but the passage is about regeneration."
+      },
+      "status": "kept"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
-  "judgments": {},
+  "rejected": [
+    0
+  ],
+  "judgments": {
+    "609|보석으로장식한터번이벗겨지고,몇가닥남지않은머리카락마저소멸하듯잘려나간다.": {
+      "subject": "무함마드",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Hair and turban belong to Muhammad, not explicitly The Prophet; also an ordinary description of hair being cut off, not a lasting change of The Prophet's look."
+    },
+    "813|한쪽무릎을꿇은선지자가하나밖에남지않은손을뻗었으나": {
+      "subject": "선지자",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Named 선지자 has only one hand left after combat; the loss of a hand is shown here as a current fact."
+    },
+    "813|하나밖에남지않은손을뻗었으나": {
+      "subject": "선지자",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line: 선지자 has only one hand left; the lost hand is revealed in this passage."
+    },
+    "814|깨끗하게잘려나간손목의단면이꿈틀거린다.": {
+      "subject": "선지자",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The stump twitches and the body is regenerating (new flesh on the chest), so the injury is not treated as lasting. The speaker is the enemy 'he', presumed to be 선지자, but the passage is about regeneration."
+    }
+  },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 813,
+      "change": "two hands -> only one hand left (other hand severed, wrist cut off; stump still visible in 814)",
+      "cause": "injury from combat with Jin Taekyung; Doppelganger may regenerate, so it may not stay lost",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 813,
+      "change": "two hands -> only one hand left (other hand severed, wrist cut off; stump still visible in 814)",
+      "cause": "injury from combat with Jin Taekyung; Doppelganger may regenerate, so it may not stay lost",
+      "sure": false,
+      "facts": [
+        2,
+        3
+      ],
+      "verified": true
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 507,
-      "description": "The Prophet wears a robe. Tags: robe",
+      "description": "The Prophet wears a robe. Two hands visible. Tags: robe, two hands",
       "used": [
-        0
+        1
       ],
       "difference": ""
+    },
+    {
+      "start": 813,
+      "description": "The Prophet wears a robe. After combat with Jin Taekyung, only one hand remains; the other hand was severed cleanly at the wrist. Tags: robe, one hand, severed wrist",
+      "used": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "difference": "two hands -> only one hand, other severed at the wrist"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 507):** The Prophet wears a robe. Tags: robe"
+    "- **Appearance (ch 507–812):** The Prophet wears a robe. Two hands visible. Tags: robe, two hands",
+    "- **Appearance (from ch 813):** The Prophet wears a robe. After combat with Jin Taekyung, only one hand remains; the other hand was severed cleanly at the wrist. Tags: robe, one hand, severed wrist"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0187788
+      "cost_usd": 0.0217051
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.018783
+      "cost_usd": 0.022155799999999996
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.017015100000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0274351
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0233467
     }
   ]
 }

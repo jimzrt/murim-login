@@ -9,7 +9,48 @@
   "chapter_count": 67,
   "first_chapter": 6,
   "profile_safe_through": 997,
-  "passages": [],
+  "passages": [
+    [
+      59,
+      46
+    ],
+    [
+      126,
+      38
+    ],
+    [
+      126,
+      53
+    ],
+    [
+      126,
+      31
+    ],
+    [
+      126,
+      23
+    ],
+    [
+      127,
+      25
+    ],
+    [
+      961,
+      86
+    ],
+    [
+      962,
+      53
+    ],
+    [
+      969,
+      87
+    ],
+    [
+      970,
+      73
+    ]
+  ],
   "facts": [
     {
       "attribute": "eyes",
@@ -47,12 +88,29 @@
       "quote": "위팽의 이마부터 턱까지 그어진 상처",
       "marker": false,
       "verdict": {
+        "subject": "위팽",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Wipeng has a forehead-to-chin scar, a literal present description. It is a fresh battle wound, but the text doesn't show it as a drastic lasting change. The narrator just infers a fierce battle from it."
+        "reason": "Scar forehead to chin stated as real; but it's a fresh battle wound shown in passing, not announced as a drastic look change here. Permanent scar not clearly established."
       },
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Wipeng looks about ten years older than when last seen (aged)",
+      "chapter": 126,
+      "quote": "못 본 사이 10년은 늙어 버린 위팽의 말을 들으며 주위를 둘러봤다.",
+      "marker": true,
+      "verdict": {
+        "subject": "위팽",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Wipeng explicitly looks 10 years older than when last seen; big jump in apparent age revealed here."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "clothing",
@@ -79,45 +137,99 @@
   "rejected": [],
   "judgments": {
     "32|위팽의이마부터턱까지그어진상처": {
+      "subject": "위팽",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Wipeng has a forehead-to-chin scar, a literal present description. It is a fresh battle wound, but the text doesn't show it as a drastic lasting change. The narrator just infers a fierce battle from it."
+      "reason": "Scar forehead to chin stated as real; but it's a fresh battle wound shown in passing, not announced as a drastic look change here. Permanent scar not clearly established."
+    },
+    "126|못본사이10년은늙어버린위팽의말을들으며주위를둘러봤다.": {
+      "subject": "위팽",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Wipeng explicitly looks 10 years older than when last seen; big jump in apparent age revealed here."
     }
   },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 126,
+      "change": "Wipeng looks about ten years older (aged)",
+      "cause": "time skip / aging since last seen",
+      "sure": true
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 126,
+      "change": "Wipeng looks about ten years older (aged)",
+      "cause": "time skip / aging since last seen",
+      "sure": true,
+      "facts": [
+        4
+      ],
+      "verified": true
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 6,
-      "description": "Wipeng is an older man with a cold-looking face and sharp, piercing, chilly eyes. A long scar runs from his forehead down to his chin. Tags: male, older man, cold face, sharp piercing eyes, chilly gaze, forehead-to-chin scar",
+      "description": "Wipeng is a man with cold, chilly, sharp, piercing eyes and a cold-looking face. A scar runs from his forehead down to his chin. Tags: male, cold eyes, sharp piercing eye shape, cold face, forehead-to-chin scar",
+      "used": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "difference": ""
+    },
+    {
+      "start": 126,
+      "description": "Wipeng, after a time skip, looks about ten years older. He has cold, sharp, piercing eyes, a cold-looking face, and a scar from forehead to chin. He appears as an older man. Tags: male, aged about ten years, older man, cold eyes, sharp piercing eye shape, cold face, forehead-to-chin scar",
       "used": [
         0,
         1,
         2,
         3,
-        5
+        4,
+        6
       ],
-      "difference": ""
+      "difference": "looks about ten years older (aged)"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 6):** Wipeng is an older man with a cold-looking face and sharp, piercing, chilly eyes. A long scar runs from his forehead down to his chin. Tags: male, older man, cold face, sharp piercing eyes, chilly gaze, forehead-to-chin scar"
+    "- **Appearance (ch 6–125):** Wipeng is a man with cold, chilly, sharp, piercing eyes and a cold-looking face. A scar runs from his forehead down to his chin. Tags: male, cold eyes, sharp piercing eye shape, cold face, forehead-to-chin scar",
+    "- **Appearance (from ch 126):** Wipeng, after a time skip, looks about ten years older. He has cold, sharp, piercing eyes, a cold-looking face, and a scar from forehead to chin. He appears as an older man. Tags: male, aged about ten years, older man, cold eyes, sharp piercing eye shape, cold face, forehead-to-chin scar"
   ],
   "omitted": [
     {
-      "index": 4,
-      "reason": "Quote describes a figure entering the office, not necessarily Wipeng; identity unconfirmed, so the light armor is not used."
+      "index": 5,
+      "reason": "Quote refers to a figure entering the office, not necessarily Wipeng; uncertain attribution"
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.016112400000000002
+      "cost_usd": 0.0191271
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0266583
+      "cost_usd": 0.017709
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.013062299999999999
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0220465
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.024740599999999998
     }
   ]
 }

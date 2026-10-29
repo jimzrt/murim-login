@@ -9,7 +9,80 @@
   "chapter_count": 59,
   "first_chapter": 41,
   "profile_safe_through": 1175,
-  "passages": [],
+  "passages": [
+    [
+      45,
+      59
+    ],
+    [
+      45,
+      65
+    ],
+    [
+      78,
+      61
+    ],
+    [
+      84,
+      54
+    ],
+    [
+      86,
+      75
+    ],
+    [
+      222,
+      38
+    ],
+    [
+      274,
+      49
+    ],
+    [
+      274,
+      43
+    ],
+    [
+      274,
+      52
+    ],
+    [
+      274,
+      52
+    ],
+    [
+      274,
+      38
+    ],
+    [
+      277,
+      53
+    ],
+    [
+      286,
+      44
+    ],
+    [
+      299,
+      75
+    ],
+    [
+      300,
+      82
+    ],
+    [
+      561,
+      70
+    ],
+    [
+      728,
+      39
+    ],
+    [
+      773,
+      80
+    ]
+  ],
   "facts": [
     {
       "attribute": "face",
@@ -61,6 +134,58 @@
       "status": "kept"
     },
     {
+      "attribute": "arms",
+      "kind": "base",
+      "fact": "Has hairy arms (before they were severed)",
+      "chapter": 274,
+      "quote": "그의 털북숭이 팔이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "arms",
+      "kind": "change",
+      "fact": "Both arms cut off below the elbow (later reattached)",
+      "chapter": 274,
+      "quote": "팔꿈치 아래로 싹둑 잘려 나가 있었다",
+      "marker": false,
+      "verdict": {
+        "subject": "Im Kkeokjeong",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Arms severed here, but later reattached; hairy arms are his. Treated as temporary/restored, not lasting."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "arms",
+      "kind": "base",
+      "fact": "Has hairy arms",
+      "chapter": 274,
+      "quote": "습관처럼 나를 힘껏 껴안았던 그의 털북숭이 팔이",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "arms",
+      "kind": "change",
+      "fact": "A severed arm was reattached and he recovered right away",
+      "chapter": 286,
+      "quote": "떨어진 팔을 도로 붙였는데 바로 괜찮아지면 그게 사람이에요?",
+      "marker": true,
+      "verdict": {
+        "subject": "Im Kkeokjeong",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Reattached arm recovering quickly; a joke about recovery, not a lasting look change."
+      },
+      "status": "kept"
+    },
+    {
       "attribute": "build",
       "kind": "change",
       "fact": "Both arms are wrapped in bandages (injured arms)",
@@ -68,57 +193,173 @@
       "quote": "그의 시선은 붕대에 감긴 자신의 두 팔에 고정되어 있었다.",
       "marker": false,
       "verdict": {
+        "subject": "Im Kkeokjeong",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": true,
-        "reason": "Both his arms are bandaged. He fears he can no longer work as a hunter, and the injury looks serious and ongoing. The text only says recovery is hoped for, so the change is lasting for now."
+        "lasting_change": false,
+        "reason": "Bandaged arms are a temporary injury state; no lasting change."
       },
       "status": "kept"
+    },
+    {
+      "attribute": "arms",
+      "kind": "change",
+      "fact": "Arms, previously severed on someone's order, are reattached and look neatly restored, though they tremble faintly",
+      "chapter": 561,
+      "quote": "누군가의 명령에 의해 잘려 나간 팔은 언제 그랬냐는 듯 멀끔하게 붙어 있었지만",
+      "marker": true,
+      "verdict": {
+        "subject": "Im Kkeokjeong",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Arms restored and neat; trembling is faint and not a drastic lasting look change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Appears to have aged about ten years in a short time (President Baek Hanseong)",
+      "chapter": 773,
+      "quote": "잠깐 못 본 사이 십 년쯤 늙어 버린 백한성 대통령이",
+      "marker": true,
+      "verdict": {
+        "subject": "Baek Hanseong",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The aged look belongs to President Baek Hanseong, not Im Kkeokjeong."
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
+  "rejected": [
+    11
+  ],
   "judgments": {
-    "289|그의시선은붕대에감긴자신의두팔에고정되어있었다.": {
+    "274|팔꿈치아래로싹둑잘려나가있었다": {
+      "subject": "Im Kkeokjeong",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": true,
-      "reason": "Both his arms are bandaged. He fears he can no longer work as a hunter, and the injury looks serious and ongoing. The text only says recovery is hoped for, so the change is lasting for now."
+      "lasting_change": false,
+      "reason": "Arms severed here, but later reattached; hairy arms are his. Treated as temporary/restored, not lasting."
+    },
+    "286|떨어진팔을도로붙였는데바로괜찮아지면그게사람이에요?": {
+      "subject": "Im Kkeokjeong",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Reattached arm recovering quickly; a joke about recovery, not a lasting look change."
+    },
+    "289|그의시선은붕대에감긴자신의두팔에고정되어있었다.": {
+      "subject": "Im Kkeokjeong",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Bandaged arms are a temporary injury state; no lasting change."
+    },
+    "561|누군가의명령에의해잘려나간팔은언제그랬냐는듯멀끔하게붙어있었지만": {
+      "subject": "Im Kkeokjeong",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Arms restored and neat; trembling is faint and not a drastic lasting look change."
+    },
+    "773|잠깐못본사이십년쯤늙어버린백한성대통령이": {
+      "subject": "Baek Hanseong",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The aged look belongs to President Baek Hanseong, not Im Kkeokjeong."
     }
   },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 274,
+      "change": "hairy arms intact -> both arms severed below the elbow (later reattached, ch286/561 show them restored, bandaged in 289, trembling in 561)",
+      "cause": "severed on an order from above (Ares Guild members incl. Lee Jungryong); reattached afterwards, so probably not lasting",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 274,
+      "change": "hairy arms intact -> both arms severed below the elbow (later reattached, ch286/561 show them restored, bandaged in 289, trembling in 561)",
+      "cause": "severed on an order from above (Ares Guild members incl. Lee Jungryong); reattached afterwards, so probably not lasting",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 41,
-      "description": "Im Kkeokjeong is a male with a rough, bandit-like face. He wields an iron mace (cheoltoe) and carries a cracked-ready tower shield. He has a beard on his chin. Tags: male, bandit-like face, rough appearance, chin beard, mace, cheoltoe, tower shield",
+      "description": "Im Kkeokjeong is a man with a rough, bandit-like face and a beard on his chin. His arms are hairy. He wields a mace (cheoltoe) and carries a tower shield. Tags: male, bandit-like face, rough look, chin beard, hairy arms, mace, cheoltoe, tower shield",
       "used": [
         0,
         1,
         2,
         3,
-        4
+        4,
+        7
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 41):** Im Kkeokjeong is a male with a rough, bandit-like face. He wields an iron mace (cheoltoe) and carries a cracked-ready tower shield. He has a beard on his chin. Tags: male, bandit-like face, rough appearance, chin beard, mace, cheoltoe, tower shield"
+    "- **Appearance (from ch 41):** Im Kkeokjeong is a man with a rough, bandit-like face and a beard on his chin. His arms are hairy. He wields a mace (cheoltoe) and carries a tower shield. Tags: male, bandit-like face, rough look, chin beard, hairy arms, mace, cheoltoe, tower shield"
   ],
   "omitted": [
     {
       "index": 5,
-      "reason": "Injury event (arms wrapped in bandages), not marked APPROVED-CHANGE; omitted and cannot open a range"
+      "reason": "Duplicates hairy arms (fact 7) and refers to the later severing, which is an unapproved injury event."
+    },
+    {
+      "index": 6,
+      "reason": "Injury event (arms cut off), not APPROVED-CHANGE."
+    },
+    {
+      "index": 8,
+      "reason": "Reattachment event, not APPROVED-CHANGE."
+    },
+    {
+      "index": 9,
+      "reason": "Injury state (bandaged arms), not APPROVED-CHANGE."
+    },
+    {
+      "index": 10,
+      "reason": "Reattachment/restoration event, not APPROVED-CHANGE."
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0127745
+      "cost_usd": 0.0232074
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.021022199999999998
+      "cost_usd": 0.0238983
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0186183
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.020021
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0275942
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.029358400000000003
     }
   ]
 }

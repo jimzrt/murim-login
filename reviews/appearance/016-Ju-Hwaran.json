@@ -9,7 +9,60 @@
   "chapter_count": 100,
   "first_chapter": 309,
   "profile_safe_through": 1191,
-  "passages": [],
+  "passages": [
+    [
+      319,
+      48
+    ],
+    [
+      622,
+      9
+    ],
+    [
+      645,
+      39
+    ],
+    [
+      836,
+      56
+    ],
+    [
+      837,
+      78
+    ],
+    [
+      838,
+      29
+    ],
+    [
+      891,
+      80
+    ],
+    [
+      910,
+      68
+    ],
+    [
+      922,
+      46
+    ],
+    [
+      995,
+      42
+    ],
+    [
+      999,
+      48
+    ],
+    [
+      1056,
+      31
+    ],
+    [
+      1120,
+      69
+    ]
+  ],
   "facts": [
     {
       "attribute": "face",
@@ -65,10 +118,11 @@
       "quote": "큼지막한 검은 눈동자에서는 동공 지진이 일어나는 중이다.",
       "marker": false,
       "verdict": {
+        "subject": "주화란",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Ju Hwaran's large black eyes, shown reacting in shock; ordinary description."
+        "reason": "Ordinary description of her large black eyes, unchanged look."
       },
       "status": "kept"
     },
@@ -130,10 +184,11 @@
       "quote": "신비한 빛을 띤 검푸른 눈동자",
       "marker": false,
       "verdict": {
+        "subject": "주화란",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Ju Hwaran's dark blue eyes with a mysterious sheen, seen up close; ordinary description, no lasting change."
+        "reason": "Her dark blue eyes are described in the present. The passage doesn't show a change in her look."
       },
       "status": "kept"
     },
@@ -166,22 +221,118 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Called an old hag, but returned to youth (rejuvenated)",
+      "chapter": 922,
+      "quote": "오히려 회춘하더니",
+      "marker": true,
+      "verdict": {
+        "subject": "주화란",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Jeok Cheon-gang calls the silent onlooker an old hag who has returned to youth (회춘). The passage names no one, but the context points to Ju Hwaran. It announces a lasting rejuvenation."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Returned to youth (rejuvenated), though still called an old woman",
+      "chapter": 922,
+      "quote": "오히려 회춘하더니 눈빛이 더 기분 나빠졌어.",
+      "marker": true,
+      "verdict": {
+        "subject": "주화란",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same line as item 2. 회춘 is stated as having happened, and 할망구 is an insult, not her actual age."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Underwent a body remake (rebirth of the body)",
+      "chapter": 995,
+      "quote": "엊그제 환골탈태한 사람한테",
+      "marker": true,
+      "verdict": {
+        "subject": "주화란",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Hyeok Mu-jin says she underwent 환골탈태 two days ago, and she is the one he addresses. That is a named genre transformation, so it counts as a lasting change."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "age",
+      "kind": "base",
+      "fact": "Looks quite young for a martial artist",
+      "chapter": 999,
+      "quote": "나이도 한참 젊어 보이는 친구가 못 하는 말이 없군.",
+      "marker": true,
+      "verdict": {
+        "subject": "Jin (the protagonist)",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The Taoist is talking about the speaker, a young-looking martial artist, who is the protagonist, not Ju Hwaran."
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
+  "rejected": [
+    18
+  ],
   "judgments": {
     "312|큼지막한검은눈동자에서는동공지진이일어나는중이다.": {
+      "subject": "주화란",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Ju Hwaran's large black eyes, shown reacting in shock; ordinary description."
+      "reason": "Ordinary description of her large black eyes, unchanged look."
     },
     "549|신비한빛을띤검푸른눈동자": {
+      "subject": "주화란",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Ju Hwaran's dark blue eyes with a mysterious sheen, seen up close; ordinary description, no lasting change."
+      "reason": "Her dark blue eyes are described in the present. The passage doesn't show a change in her look."
+    },
+    "922|오히려회춘하더니": {
+      "subject": "주화란",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Jeok Cheon-gang calls the silent onlooker an old hag who has returned to youth (회춘). The passage names no one, but the context points to Ju Hwaran. It announces a lasting rejuvenation."
+    },
+    "922|오히려회춘하더니눈빛이더기분나빠졌어.": {
+      "subject": "주화란",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line as item 2. 회춘 is stated as having happened, and 할망구 is an insult, not her actual age."
+    },
+    "995|엊그제환골탈태한사람한테": {
+      "subject": "주화란",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Hyeok Mu-jin says she underwent 환골탈태 two days ago, and she is the one he addresses. That is a named genre transformation, so it counts as a lasting change."
+    },
+    "999|나이도한참젊어보이는친구가못하는말이없군.": {
+      "subject": "Jin (the protagonist)",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The Taoist is talking about the speaker, a young-looking martial artist, who is the protagonist, not Ju Hwaran."
     }
   },
   "conflicts": [
@@ -194,15 +345,23 @@
       "kept": [
         5
       ],
-      "resolved": false,
-      "reason": "Black (ch312, earlier, clear) vs blue-black (ch549, single mention). Both are one fact each and close in value. Kept the earlier black."
+      "resolved": true,
+      "reason": "Large black eyes appear earlier (ch312) with a plain colour statement. The dark blue (blue-black) eyes appear once, later (ch549), with no change marker."
     }
   ],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [
+    {
+      "event": 922,
+      "reason": "dismissed"
+    }
+  ],
   "ranges": [
     {
       "start": 309,
-      "description": "Ju Hwaran is an exceptionally beautiful woman with a cold, elegant face. She has brush-drawn-looking eyebrows and large, clear black eyes that curve like half-moons when she smiles. She wears a face veil and a plain single-colored martial outfit, with a flexible sword (yeongeom) and a sword in a scabbard at her waist. Tags: female, strikingly beautiful, cold impression, no makeup, brush-like eyebrows, large clear black eyes, half-moon smiling eyes, face veil, plain single-color martial outfit, flexible sword, scabbard at waist",
+      "description": "Ju Hwaran is an exceptionally beautiful woman with a cold, elegant face, brush-drawn eyebrows, and large clear black eyes that curve like half-moons when she smiles. She wears a plain single-colored martial outfit and a face veil, and carries a flexible sword (yeongeom) in a scabbard at her waist. Her face is bare, with no makeup. Tags: female, strikingly beautiful, cold impression, brush-drawn eyebrows, large black eyes, clear eyes, half-moon smiling eyes, no makeup, face veil, plain single-color martial outfit, flexible sword, scabbard at waist",
       "used": [
         0,
         1,
@@ -220,20 +379,68 @@
         14
       ],
       "difference": ""
+    },
+    {
+      "start": 995,
+      "description": "Ju Hwaran, after her body was remade by Bone Transformation (visible effect not stated), keeps the look of an exceptionally beautiful woman with a cold, elegant face, brush-drawn eyebrows, and large clear black eyes that curve like half-moons when she smiles. She wears a plain single-colored martial outfit and a face veil, and carries a flexible sword (yeongeom) in a scabbard at her waist. Her face is bare, with no makeup. Tags: female, strikingly beautiful, cold impression, brush-drawn eyebrows, large black eyes, clear eyes, half-moon smiling eyes, no makeup, face veil, plain single-color martial outfit, flexible sword, scabbard at waist, body remade",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        13,
+        14,
+        17
+      ],
+      "difference": "body remade by Bone Transformation (visible effect not stated)"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 309):** Ju Hwaran is an exceptionally beautiful woman with a cold, elegant face. She has brush-drawn-looking eyebrows and large, clear black eyes that curve like half-moons when she smiles. She wears a face veil and a plain single-colored martial outfit, with a flexible sword (yeongeom) and a sword in a scabbard at her waist. Tags: female, strikingly beautiful, cold impression, no makeup, brush-like eyebrows, large clear black eyes, half-moon smiling eyes, face veil, plain single-color martial outfit, flexible sword, scabbard at waist"
+    "- **Appearance (ch 309–994):** Ju Hwaran is an exceptionally beautiful woman with a cold, elegant face, brush-drawn eyebrows, and large clear black eyes that curve like half-moons when she smiles. She wears a plain single-colored martial outfit and a face veil, and carries a flexible sword (yeongeom) in a scabbard at her waist. Her face is bare, with no makeup. Tags: female, strikingly beautiful, cold impression, brush-drawn eyebrows, large black eyes, clear eyes, half-moon smiling eyes, no makeup, face veil, plain single-color martial outfit, flexible sword, scabbard at waist",
+    "- **Appearance (from ch 995):** Ju Hwaran, after her body was remade by Bone Transformation (visible effect not stated), keeps the look of an exceptionally beautiful woman with a cold, elegant face, brush-drawn eyebrows, and large clear black eyes that curve like half-moons when she smiles. She wears a plain single-colored martial outfit and a face veil, and carries a flexible sword (yeongeom) in a scabbard at her waist. Her face is bare, with no makeup. Tags: female, strikingly beautiful, cold impression, brush-drawn eyebrows, large black eyes, clear eyes, half-moon smiling eyes, no makeup, face veil, plain single-color martial outfit, flexible sword, scabbard at waist, body remade"
   ],
-  "omitted": [],
+  "omitted": [
+    {
+      "index": 11,
+      "reason": "Conflicting eye colour; the better-supported black eyes were kept."
+    },
+    {
+      "index": 15,
+      "reason": "Rejuvenation mentioned only as an insult. Earlier facts already show a youthful, flower-like look, so there is no visible difference."
+    },
+    {
+      "index": 16,
+      "reason": "Repeat mention of the same rejuvenation as fact 15. It is exposition with no visible difference."
+    }
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0202246
+      "cost_usd": 0.0155018
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.031410900000000005
+      "cost_usd": 0.0187959
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.021277199999999996
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.030773599999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0439391
     }
   ]
 }

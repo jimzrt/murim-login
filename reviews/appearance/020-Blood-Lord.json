@@ -9,7 +9,172 @@
   "chapter_count": 92,
   "first_chapter": 262,
   "profile_safe_through": 1025,
-  "passages": [],
+  "passages": [
+    [
+      263,
+      38
+    ],
+    [
+      266,
+      94
+    ],
+    [
+      266,
+      44
+    ],
+    [
+      266,
+      78
+    ],
+    [
+      267,
+      62
+    ],
+    [
+      267,
+      54
+    ],
+    [
+      357,
+      13
+    ],
+    [
+      358,
+      30
+    ],
+    [
+      358,
+      43
+    ],
+    [
+      545,
+      70
+    ],
+    [
+      703,
+      54
+    ],
+    [
+      703,
+      59
+    ],
+    [
+      703,
+      64
+    ],
+    [
+      703,
+      66
+    ],
+    [
+      703,
+      54
+    ],
+    [
+      891,
+      80
+    ],
+    [
+      1049,
+      83
+    ],
+    [
+      1087,
+      87
+    ],
+    [
+      1087,
+      84
+    ],
+    [
+      1087,
+      56
+    ],
+    [
+      1089,
+      55
+    ],
+    [
+      1089,
+      49
+    ],
+    [
+      1090,
+      74
+    ],
+    [
+      1090,
+      32
+    ],
+    [
+      1090,
+      89
+    ],
+    [
+      1092,
+      38
+    ],
+    [
+      1092,
+      81
+    ],
+    [
+      1094,
+      61
+    ],
+    [
+      1098,
+      25
+    ],
+    [
+      1105,
+      66
+    ],
+    [
+      1107,
+      90
+    ],
+    [
+      1109,
+      48
+    ],
+    [
+      1109,
+      61
+    ],
+    [
+      1110,
+      44
+    ],
+    [
+      1110,
+      49
+    ],
+    [
+      1110,
+      53
+    ],
+    [
+      1114,
+      14
+    ],
+    [
+      1116,
+      66
+    ],
+    [
+      1125,
+      50
+    ],
+    [
+      1126,
+      59
+    ],
+    [
+      1133,
+      56
+    ]
+  ],
   "facts": [
     {
       "attribute": "apparent age",
@@ -106,6 +271,38 @@
       "status": "kept"
     },
     {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Both arms severed, leaving stumps that bleed heavily; body covered in sword wounds",
+      "chapter": 267,
+      "quote": "잘려나간 두 팔의 단면에서는 쉴 새 없이 핏물이 솟구치고 있었다.",
+      "marker": true,
+      "verdict": {
+        "subject": "혈주",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Severe injury in this scene; sorcerers summoned to restore, so temporary, not lasting."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Had been one-armed until ten days earlier, now moves arm naturally (arm restored)",
+      "chapter": 358,
+      "quote": "불과 열흘 전까지 외팔이였다는 것이 믿기지 않을 만큼 자연스러운 움직임이었다.",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The arm belongs to 서천마군 (Western Heaven Demon Lord), not Blood Lord."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears to be a young man",
@@ -114,6 +311,22 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "One arm blown off entirely and flesh of the side torn away (injury; arm said to be reattachable without scar by a skilled sorcerer)",
+      "chapter": 703,
+      "quote": "보이지 않는 짐승에게 베어 먹힌 것처럼 뜯겨 나간 옆구리의 살점과 송두리째 날아가 버린 한쪽 팔.",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The injuries belong to 남천마후, not Blood Lord."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "eyes",
@@ -148,17 +361,60 @@
     {
       "attribute": "limbs",
       "kind": "change",
+      "fact": "Lost one arm to Sword Saint Mae Jonghak's strike at the Shaolin Bloodshed",
+      "chapter": 1087,
+      "quote": "검성 매종학의 일격에 한쪽 팔을 잃었던 것",
+      "marker": true,
+      "verdict": {
+        "subject": "혈주",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Past loss recalled as backstory; the loss happened earlier and this passage shows no new change."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "limb",
+      "kind": "change",
+      "fact": "Lost one arm to Sword Saint Mae Jonghak's strike at the Shaolin Bloodshed",
+      "chapter": 1087,
+      "quote": "검성 매종학의 일격에 한쪽 팔을 잃었던 것은",
+      "marker": true,
+      "verdict": {
+        "subject": "혈주",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Past loss recalled as backstory; the loss happened earlier and this passage shows no new change."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
       "fact": "Lost one arm to Sword Saint Mae Jonghak's strike during the Shaolin Blood Incident",
       "chapter": 1087,
       "quote": "한쪽 팔을 잃었던 것은",
       "marker": true,
       "verdict": {
+        "subject": "혈주",
         "this_character": true,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Backstory about past arm loss (Shaolin Blood Incident); he's smiling now, arm presumably regrown. Not a change in this scene."
+        "reason": "Past loss recalled as backstory; the loss happened earlier and this passage shows no new change."
       },
       "status": "rejected"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Blood-red eyes that gleam vividly even from far away",
+      "chapter": 1089,
+      "quote": "먼 거리에서도 선명하게 번뜩이는 핏빛 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
@@ -171,6 +427,90 @@
       "status": "kept"
     },
     {
+      "attribute": "hair",
+      "kind": "base",
+      "fact": "White-haired, beggar-like appearance",
+      "chapter": 1090,
+      "quote": "어느 백발의 거지는 지금껏 누구도 본 적 없는 행색을 하고 있었다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Lost one arm to Sword Saint Mae Jonghak at the Shaolin Bloodshed, left one-armed",
+      "chapter": 1092,
+      "quote": "소림혈사 당시, 검성 매종학에 의해 한쪽 팔을 잃고 도주했던 혈주다.",
+      "marker": true,
+      "verdict": {
+        "subject": "혈주",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Past event (Shaolin Bloodshed) recalled as backstory; the arm loss is not the current state, since he now has two arms."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Reappeared with both arms intact after being one-armed",
+      "chapter": 1092,
+      "quote": "남은 일평생을 외팔이로 살아야 했을 놈이 두 팔을 달고 멀쩡히 나타났다는 것은",
+      "marker": true,
+      "verdict": {
+        "subject": "혈주",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "He appeared with two arms after having been one-armed. The text treats this as his established present state, with stitch marks and swollen arms from fusing with a monster."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Lost both barely-recovered arms again",
+      "chapter": 1109,
+      "quote": "간신히 회복한 두 팔을 잃었음에도, 혈주의 입가에 맺힌 웃음은 사라지지 않았다.",
+      "marker": true,
+      "verdict": {
+        "subject": "혈주",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "He loses both arms in this scene, and the text gives no sign they stay lost. The wording is the same as in items 3 and 4. He keeps smiling and is driven by thirst, which suggests regeneration, so the loss is not clearly lasting."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Barely recovered both arms, then lost them again",
+      "chapter": 1109,
+      "quote": "하지만 간신히 회복한 두 팔을 잃었음에도, 혈주의 입가에 맺힌 웃음은 사라지지 않았다.",
+      "marker": true,
+      "verdict": {
+        "subject": "혈주",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Same passage as item 2. Both arms are severed in combat, but the text does not say the loss is permanent."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "kind": "base",
+      "fact": "Withered, dried-up monstrous appearance",
+      "chapter": 1109,
+      "quote": "메마른 괴물의 입술 사이로",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
       "attribute": "limbs",
       "kind": "change",
       "fact": "Lost both arms (which he had barely managed to regrow)",
@@ -178,12 +518,65 @@
       "quote": "간신히 회복한 두 팔을 잃었음에도",
       "marker": true,
       "verdict": {
+        "subject": "혈주",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": true,
-        "reason": "Both arms just severed in this scene, regrown ones lost again; no immediate regrowth shown, so lasting loss."
+        "lasting_change": false,
+        "reason": "Same passage as item 2. Both arms are cut off, but the text does not show the loss lasting."
       },
-      "status": "approved-change"
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Blood Lord has red eyes",
+      "chapter": 1110,
+      "quote": "혈주(血主)가 붉은 눈동자를 번뜩였다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "One arm torn off up to the shoulder by palm force",
+      "chapter": 1110,
+      "quote": "장력에 의해 한쪽 팔이 어깻죽지까지 뜯겨나간 사람이라고는 믿어지지 않을 정도로",
+      "marker": true,
+      "verdict": {
+        "subject": "unnamed man",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The man with the arm torn off is an unnamed person who speaks calmly and tells Cheongpung to leave. Nothing in the context identifies him as Blood Lord, and he reads as an ally."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "One arm torn off up to the shoulder by palm force",
+      "chapter": 1110,
+      "quote": "장력에 의해 한쪽 팔이 어깻죽지까지 뜯겨나간 사람이라고는 믿어지지 않을 정도로.",
+      "marker": true,
+      "verdict": {
+        "subject": "사내 (unnamed man, context implies Blood Lord)",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Man unnamed in passage; not explicit that he is Blood Lord. Arm loss is real, but identity not established here."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Red eyes",
+      "chapter": 1110,
+      "quote": "혈주(血主)가 붉은 눈동자를 번뜩였다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "eyes",
@@ -204,32 +597,264 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Underwent a second 'bone exchange and rebirth' (hwangoltalttae) body remaking",
+      "chapter": 1133,
+      "quote": "잇따른 또 한 번의 환골탈태(換骨奪胎)는",
+      "marker": true,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Subject is Jin Taegyeong, not Blood Lord."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Body remade again through a second 환골탈태 (bone-changing rebirth)",
+      "chapter": 1133,
+      "quote": "그리고 잇따른 또 한 번의 환골탈태(換骨奪胎)는",
+      "marker": true,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Subject is Jin Taegyeong, not Blood Lord."
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
   "rejected": [
-    14
+    11,
+    13,
+    17,
+    18,
+    19,
+    23,
+    30,
+    31,
+    35,
+    36
   ],
   "judgments": {
-    "1087|한쪽팔을잃었던것은": {
+    "267|잘려나간두팔의단면에서는쉴새없이핏물이솟구치고있었다.": {
+      "subject": "혈주",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Severe injury in this scene; sorcerers summoned to restore, so temporary, not lasting."
+    },
+    "358|불과열흘전까지외팔이였다는것이믿기지않을만큼자연스러운움직임이었다.": {
+      "subject": "서천마군",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The arm belongs to 서천마군 (Western Heaven Demon Lord), not Blood Lord."
+    },
+    "703|보이지않는짐승에게베어먹힌것처럼뜯겨나간옆구리의살점과송두리째날아가버린한쪽팔.": {
+      "subject": "남천마후",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The injuries belong to 남천마후, not Blood Lord."
+    },
+    "1087|검성매종학의일격에한쪽팔을잃었던것": {
+      "subject": "혈주",
       "this_character": true,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "Backstory about past arm loss (Shaolin Blood Incident); he's smiling now, arm presumably regrown. Not a change in this scene."
+      "reason": "Past loss recalled as backstory; the loss happened earlier and this passage shows no new change."
     },
-    "1109|간신히회복한두팔을잃었음에도": {
+    "1087|검성매종학의일격에한쪽팔을잃었던것은": {
+      "subject": "혈주",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Past loss recalled as backstory; the loss happened earlier and this passage shows no new change."
+    },
+    "1087|한쪽팔을잃었던것은": {
+      "subject": "혈주",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Past loss recalled as backstory; the loss happened earlier and this passage shows no new change."
+    },
+    "1092|소림혈사당시,검성매종학에의해한쪽팔을잃고도주했던혈주다.": {
+      "subject": "혈주",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Past event (Shaolin Bloodshed) recalled as backstory; the arm loss is not the current state, since he now has two arms."
+    },
+    "1092|남은일평생을외팔이로살아야했을놈이두팔을달고멀쩡히나타났다는것은": {
+      "subject": "혈주",
       "this_character": true,
       "literal_present": true,
       "lasting_change": true,
-      "reason": "Both arms just severed in this scene, regrown ones lost again; no immediate regrowth shown, so lasting loss."
+      "reason": "He appeared with two arms after having been one-armed. The text treats this as his established present state, with stitch marks and swollen arms from fusing with a monster."
+    },
+    "1109|간신히회복한두팔을잃었음에도,혈주의입가에맺힌웃음은사라지지않았다.": {
+      "subject": "혈주",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "He loses both arms in this scene, and the text gives no sign they stay lost. The wording is the same as in items 3 and 4. He keeps smiling and is driven by thirst, which suggests regeneration, so the loss is not clearly lasting."
+    },
+    "1109|하지만간신히회복한두팔을잃었음에도,혈주의입가에맺힌웃음은사라지지않았다.": {
+      "subject": "혈주",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same passage as item 2. Both arms are severed in combat, but the text does not say the loss is permanent."
+    },
+    "1109|간신히회복한두팔을잃었음에도": {
+      "subject": "혈주",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same passage as item 2. Both arms are cut off, but the text does not show the loss lasting."
+    },
+    "1110|장력에의해한쪽팔이어깻죽지까지뜯겨나간사람이라고는믿어지지않을정도로": {
+      "subject": "unnamed man",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The man with the arm torn off is an unnamed person who speaks calmly and tells Cheongpung to leave. Nothing in the context identifies him as Blood Lord, and he reads as an ally."
+    },
+    "1110|장력에의해한쪽팔이어깻죽지까지뜯겨나간사람이라고는믿어지지않을정도로.": {
+      "subject": "사내 (unnamed man, context implies Blood Lord)",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Man unnamed in passage; not explicit that he is Blood Lord. Arm loss is real, but identity not established here."
+    },
+    "1133|잇따른또한번의환골탈태(換骨奪胎)는": {
+      "subject": "진태경",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Subject is Jin Taegyeong, not Blood Lord."
+    },
+    "1133|그리고잇따른또한번의환골탈태(換骨奪胎)는": {
+      "subject": "진태경",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Subject is Jin Taegyeong, not Blood Lord."
     }
   },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 267,
+      "change": "broken bones and flesh of the Blood Lord restored by sorcerers (body rebuilt after Taekyung fight); lost arm status unclear",
+      "cause": "sorcerer restoration after severe injury",
+      "sure": false
+    },
+    {
+      "chapter": 703,
+      "change": "one arm torn off and side flesh ripped -> arm reattachable by skilled sorcerer without scar (likely restored)",
+      "cause": "injury, then sorcerous grafting",
+      "sure": false
+    },
+    {
+      "chapter": 1087,
+      "change": "lost one arm to Sword Saint Mae Jonghak's strike at the Shaolin Bloodshed -> one-armed (later shown with two arms)",
+      "cause": "injury in combat at Shaolin Bloodshed",
+      "sure": true
+    },
+    {
+      "chapter": 1090,
+      "change": "hair frozen/frosted like a person trapped in a glacier, looks white-haired",
+      "cause": "icy qi (frost cultivation)",
+      "sure": false
+    },
+    {
+      "chapter": 1092,
+      "change": "one-armed -> reappears with both arms intact and powerful",
+      "cause": "arm restored/reattached (sorcery or body reconstruction)",
+      "sure": true
+    },
+    {
+      "chapter": 1110,
+      "change": "arm torn off to the shoulder by palm force",
+      "cause": "injury in combat",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 267,
+      "change": "broken bones and flesh of the Blood Lord restored by sorcerers (body rebuilt after Taekyung fight); lost arm status unclear",
+      "cause": "sorcerer restoration after severe injury",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 703,
+      "change": "one arm torn off and side flesh ripped -> arm reattachable by skilled sorcerer without scar (likely restored)",
+      "cause": "injury, then sorcerous grafting",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 1087,
+      "change": "lost one arm to Sword Saint Mae Jonghak's strike at the Shaolin Bloodshed -> one-armed (later shown with two arms)",
+      "cause": "injury in combat at Shaolin Bloodshed",
+      "sure": true,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 1090,
+      "change": "hair frozen/frosted like a person trapped in a glacier, looks white-haired",
+      "cause": "icy qi (frost cultivation)",
+      "sure": false,
+      "facts": [
+        24
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 1092,
+      "change": "one-armed -> reappears with both arms intact and powerful",
+      "cause": "arm restored/reattached (sorcery or body reconstruction)",
+      "sure": true,
+      "facts": [
+        24
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 1110,
+      "change": "arm torn off to the shoulder by palm force",
+      "cause": "injury in combat",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [
+    {
+      "event": 1090,
+      "reason": "dismissed"
+    }
+  ],
   "ranges": [
     {
       "start": 262,
-      "description": "Blood Lord is a young man with long hair that falls loose over his face and is often swept back. His eyes are blood-red with a faint red glow; the sclera turns blood-red when his power surges. His eyes curve like half-moons when he smiles and narrow to slits when he is intent, and his face can twist into a fierce, grim scowl. Tags: male, young man, long hair, swept-back hair, blood-red eyes, glowing red eyes, red sclera, crescent smiling eyes, narrowed eyes, fierce grim expression",
+      "description": "Blood Lord is a young man, long hair falling loose over his face and swept back, white-haired with a beggar-like look. His eyes are blood-red with a faint glow, crescent-shaped when smiling and narrowing to slits; the sclera floods blood-red when his power surges. His face can twist into a fierce, grim scowl. Tags: young man, long hair, white hair, beggar-like, blood-red eyes, glowing eyes, red sclera, fierce face",
       "used": [
         0,
         1,
@@ -241,42 +866,108 @@
         7,
         8,
         9,
-        10,
-        11,
         12,
-        13,
-        15
+        14,
+        15,
+        16,
+        20,
+        21,
+        22
       ],
       "difference": ""
     },
     {
-      "start": 1109,
-      "description": "Blood Lord is a young man with long hair that falls loose over his face, and both of his arms are missing. His eyes are red and glowing blood-red, and his tongue is red. Tags: male, young man, long hair, armless, both arms missing, red eyes, blood-red glow, red tongue",
+      "start": 1092,
+      "description": "Blood Lord is a young man with both arms intact and powerful, after arm restoration by sorcery or body reconstruction. Long hair falls loose and is swept back, white with a beggar-like look. His body looks withered and dried-up, monstrous, with red eyes that glow blood-red, a red tongue, and a fierce, grim face. Tags: young man, both arms, white hair, beggar-like, withered body, monstrous, red eyes, red tongue, fierce face",
       "used": [
         0,
         1,
-        11,
-        15,
-        16,
-        17,
-        18
+        3,
+        4,
+        5,
+        7,
+        8,
+        9,
+        12,
+        14,
+        20,
+        22,
+        24,
+        27,
+        29,
+        32,
+        33,
+        34
       ],
-      "difference": "gains a visible injury: both arms missing (previously had both arms); adds red tongue"
+      "difference": "Both arms now intact and powerful; body looks withered and monstrous; red tongue shown"
     }
   ],
   "lines": [
-    "- **Appearance (ch 262–1108):** Blood Lord is a young man with long hair that falls loose over his face and is often swept back. His eyes are blood-red with a faint red glow; the sclera turns blood-red when his power surges. His eyes curve like half-moons when he smiles and narrow to slits when he is intent, and his face can twist into a fierce, grim scowl. Tags: male, young man, long hair, swept-back hair, blood-red eyes, glowing red eyes, red sclera, crescent smiling eyes, narrowed eyes, fierce grim expression",
-    "- **Appearance (from ch 1109):** Blood Lord is a young man with long hair that falls loose over his face, and both of his arms are missing. His eyes are red and glowing blood-red, and his tongue is red. Tags: male, young man, long hair, armless, both arms missing, red eyes, blood-red glow, red tongue"
+    "- **Appearance (ch 262–1091):** Blood Lord is a young man, long hair falling loose over his face and swept back, white-haired with a beggar-like look. His eyes are blood-red with a faint glow, crescent-shaped when smiling and narrowing to slits; the sclera floods blood-red when his power surges. His face can twist into a fierce, grim scowl. Tags: young man, long hair, white hair, beggar-like, blood-red eyes, glowing eyes, red sclera, fierce face",
+    "- **Appearance (from ch 1092):** Blood Lord is a young man with both arms intact and powerful, after arm restoration by sorcery or body reconstruction. Long hair falls loose and is swept back, white with a beggar-like look. His body looks withered and dried-up, monstrous, with red eyes that glow blood-red, a red tongue, and a fierce, grim face. Tags: young man, both arms, white hair, beggar-like, withered body, monstrous, red eyes, red tongue, fierce face"
   ],
-  "omitted": [],
+  "omitted": [
+    {
+      "index": 10,
+      "reason": "Injury event (arms severed, wounds), not APPROVED-CHANGE"
+    },
+    {
+      "index": 25,
+      "reason": "Event of losing arms again, not APPROVED-CHANGE"
+    },
+    {
+      "index": 26,
+      "reason": "Event of regrowing then losing arms, not APPROVED-CHANGE"
+    },
+    {
+      "index": 28,
+      "reason": "Event of losing arms, not APPROVED-CHANGE"
+    }
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.018551
+      "cost_usd": 0.0201877
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.031683100000000006
+      "cost_usd": 0.025408999999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.026054499999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0249616
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.026382000000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0188135
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.030333900000000004
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.033290299999999995
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.031907
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0239845
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.041941599999999996
     }
   ]
 }

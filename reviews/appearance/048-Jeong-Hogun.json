@@ -9,7 +9,48 @@
   "chapter_count": 45,
   "first_chapter": 858,
   "profile_safe_through": 1182,
-  "passages": [],
+  "passages": [
+    [
+      862,
+      48
+    ],
+    [
+      869,
+      60
+    ],
+    [
+      869,
+      36
+    ],
+    [
+      933,
+      53
+    ],
+    [
+      1067,
+      48
+    ],
+    [
+      1067,
+      24
+    ],
+    [
+      1067,
+      41
+    ],
+    [
+      1067,
+      94
+    ],
+    [
+      1067,
+      24
+    ],
+    [
+      1081,
+      58
+    ]
+  ],
   "facts": [
     {
       "attribute": "clothing",
@@ -28,8 +69,46 @@
       "chapter": 983,
       "quote": "이제 겨우 약관이나 되었을 법한 용모의 청년이었다",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "모용가의 청년",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Look belongs to the young Mogyong man Jeong Hogun looks down at, not Jeong Hogun."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "armor",
+      "kind": "change",
+      "fact": "Armor lost its original golden radiance and is now stained red (identity of the familiar face not explicit)",
+      "chapter": 1067,
+      "quote": "본래의 황금빛 광채를 잃어버린, 붉게 물든 갑주를 걸친 익숙한 얼굴이 시야에 들어왔다.",
+      "marker": true,
+      "verdict": {
+        "subject": "정호군",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Familiar face in blood-stained armor is named as Jeong Hogun right after. Armor stained by battle is a temporary state, not a drastic change of look."
+      },
       "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Limbs severed and body rotting like a corpse (identity not explicit)",
+      "chapter": 1067,
+      "quote": "처참하게 잘려 나간 사지와 부패한 몸뚱어리.",
+      "marker": true,
+      "verdict": {
+        "subject": "저주받은 괴물",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Look belongs to the undead monster. Its identity is not explicit here, and Jeong Hogun is shown alive and talking in the preceding scene."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "face",
@@ -43,38 +122,97 @@
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
-  "judgments": {},
+  "rejected": [
+    1,
+    3
+  ],
+  "judgments": {
+    "983|이제겨우약관이나되었을법한용모의청년이었다": {
+      "subject": "모용가의 청년",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Look belongs to the young Mogyong man Jeong Hogun looks down at, not Jeong Hogun."
+    },
+    "1067|본래의황금빛광채를잃어버린,붉게물든갑주를걸친익숙한얼굴이시야에들어왔다.": {
+      "subject": "정호군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Familiar face in blood-stained armor is named as Jeong Hogun right after. Armor stained by battle is a temporary state, not a drastic change of look."
+    },
+    "1067|처참하게잘려나간사지와부패한몸뚱어리.": {
+      "subject": "저주받은 괴물",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Look belongs to the undead monster. Its identity is not explicit here, and Jeong Hogun is shown alive and talking in the preceding scene."
+    }
+  },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 1067,
+      "change": "Golden-glowing armor and normal body -> blood-red armor, severed limbs, rotting corpse-like body (a familiar face, possibly Jeong Hogun; identity not explicit in the passage)",
+      "cause": "death or undead transformation, or a battle injury",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 1067,
+      "change": "Golden-glowing armor and normal body -> blood-red armor, severed limbs, rotting corpse-like body (a familiar face, possibly Jeong Hogun; identity not explicit in the passage)",
+      "cause": "death or undead transformation, or a battle injury",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 858,
-      "description": "Jeong Hogun is a young man whose face looks about twenty, early adult. Wears splendid brocade imperial robes with armor, the dress of the Imperial Guard (Geumuiwi) leader. Tags: male, early twenties, youthful face, brocade imperial robes, ornate armor, Imperial Guard commander",
+      "description": "Jeong Hogun wears splendid brocade imperial robes with armor as leader of the Imperial Guard (Geumuiwi). Tags: male, brocade robes, imperial guard, armor, splendid, golden-toned attire",
       "used": [
-        0,
-        1
+        0
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 858):** Jeong Hogun is a young man whose face looks about twenty, early adult. Wears splendid brocade imperial robes with armor, the dress of the Imperial Guard (Geumuiwi) leader. Tags: male, early twenties, youthful face, brocade imperial robes, ornate armor, Imperial Guard commander"
+    "- **Appearance (from ch 858):** Jeong Hogun wears splendid brocade imperial robes with armor as leader of the Imperial Guard (Geumuiwi). Tags: male, brocade robes, imperial guard, armor, splendid, golden-toned attire"
   ],
   "omitted": [
     {
       "index": 2,
-      "reason": "Transient reaction/expression (eyes sinking calm), flagged not a lasting trait; not a stable look and no APPROVED-CHANGE"
+      "reason": "Armor losing golden radiance and turning red is a change/event without an APPROVED-CHANGE flag, and the wearer's identity is not explicit; omitted"
+    },
+    {
+      "index": 4,
+      "reason": "Sunken/calm eyes are explicitly not a lasting trait, a momentary reaction"
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.015602
+      "cost_usd": 0.0225501
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0188317
+      "cost_usd": 0.0122749
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0168105
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0249122
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0228303
     }
   ]
 }

@@ -9,7 +9,84 @@
   "chapter_count": 66,
   "first_chapter": 626,
   "profile_safe_through": 1095,
-  "passages": [],
+  "passages": [
+    [
+      629,
+      64
+    ],
+    [
+      631,
+      68
+    ],
+    [
+      631,
+      82
+    ],
+    [
+      631,
+      60
+    ],
+    [
+      631,
+      66
+    ],
+    [
+      645,
+      39
+    ],
+    [
+      650,
+      25
+    ],
+    [
+      655,
+      36
+    ],
+    [
+      663,
+      72
+    ],
+    [
+      679,
+      84
+    ],
+    [
+      694,
+      68
+    ],
+    [
+      704,
+      71
+    ],
+    [
+      713,
+      55
+    ],
+    [
+      714,
+      58
+    ],
+    [
+      714,
+      47
+    ],
+    [
+      714,
+      70
+    ],
+    [
+      714,
+      53
+    ],
+    [
+      718,
+      51
+    ],
+    [
+      1027,
+      74
+    ]
+  ],
   "facts": [
     {
       "attribute": "age",
@@ -19,10 +96,11 @@
       "quote": "중년의 이민족",
       "marker": false,
       "verdict": {
+        "subject": "Baeksang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Baeksang introduced as middle-aged foreign man in white; ordinary description."
+        "reason": "Named as 백상 숙부; middle-aged non-Han man in white. Ordinary description."
       },
       "status": "kept"
     },
@@ -44,10 +122,11 @@
       "quote": "야수묘왕과는 상반되는 마른 체구를 지닌 그는",
       "marker": false,
       "verdict": {
+        "subject": "Baeksang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Lean build contrasted with the Beast Miao King; refers to Baeksang."
+        "reason": "Lean frame stated of 백상; unchanged look."
       },
       "status": "kept"
     },
@@ -59,10 +138,11 @@
       "quote": "얼음처럼 차가운 눈빛과 경직된 입꼬리.",
       "marker": false,
       "verdict": {
+        "subject": "Baeksang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Icy gaze and stiff mouth describe Baeksang now."
+        "reason": "Icy gaze stated of 백상; ordinary description."
       },
       "status": "kept"
     },
@@ -73,12 +153,13 @@
       "quote": "화염이 깃든 두 눈동자와 끓어오르는 듯한 음성",
       "marker": false,
       "verdict": {
+        "subject": "Baeksang",
         "this_character": true,
-        "literal_present": true,
+        "literal_present": false,
         "lasting_change": false,
-        "reason": "Eyes with flame in anger; temporary emotional state, not a lasting change."
+        "reason": "Flame in eyes is an anger-driven, one-scene/figurative state. The passage shows no burn scar."
       },
-      "status": "kept"
+      "status": "rejected"
     },
     {
       "attribute": "clothing",
@@ -96,10 +177,11 @@
       "quote": "언제나 서늘한 빛을 발하던 백상의 눈동자",
       "marker": false,
       "verdict": {
+        "subject": "Baeksang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Baeksang's eyes always gave off a cool light; habitual, present description."
+        "reason": "Habitually cold gleam in eyes, established trait; no change."
       },
       "status": "kept"
     },
@@ -110,12 +192,7 @@
       "chapter": 648,
       "quote": "음울한 회색 눈동자",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Gloomy gray eyes of Baeksang looking at the cup."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -143,12 +220,7 @@
       "chapter": 650,
       "quote": "무감정한 눈동자로 이곳을 응시하고 있던 백상",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Baeksang's expressionless, unreadable eyes."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -159,10 +231,11 @@
       "quote": "체격이 워낙 컸고",
       "marker": false,
       "verdict": {
+        "subject": "Unnamed visitor (the man the innkeeper identifies)",
         "this_character": false,
-        "literal_present": false,
+        "literal_present": true,
         "lasting_change": false,
-        "reason": "The big tiger-masked man is the suspect described by the innkeeper, not Baeksang, who is the questioner."
+        "reason": "Large build and tiger mask belong to the suspect the innkeeper recalls, not to Baeksang, who is the questioner."
       },
       "status": "rejected"
     },
@@ -194,10 +267,11 @@
       "quote": "칠순을 넘긴 나이가 무색할 만큼 젊고 수려한 외모와 균형 잡힌 체구.",
       "marker": false,
       "verdict": {
+        "subject": "백상",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Mirror view of Baeksang's current youthful look; ordinary description, no change in scene."
+        "reason": "Mirror scene, Baeksang's established present look: young, handsome despite age 70+. Described as current state, not shown as a new change here."
       },
       "status": "kept"
     },
@@ -218,10 +292,11 @@
       "quote": "칠순을 넘긴 나이가 무색할 만큼 젊고 수려한 외모",
       "marker": false,
       "verdict": {
+        "subject": "백상",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Over seventy yet looks young; present description, not a new change."
+        "reason": "Same line: looks young despite age. Ordinary description, no change shown or announced."
       },
       "status": "kept"
     },
@@ -240,12 +315,7 @@
       "chapter": 673,
       "quote": "균형 잡힌 체구",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Well-proportioned body, present description."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -265,10 +335,27 @@
       "quote": "마치 소년 시절로 돌아간 것처럼",
       "marker": true,
       "verdict": {
+        "subject": "백상",
         "this_character": true,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "'Like returning to boyhood' is a simile about laughing; no physical trait or change."
+        "reason": "Simile ('as if returned to boyhood') about his laughter. No look change."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "limbs/body",
+      "kind": "change",
+      "fact": "Lost both arms and had chest hollowed out, yet still moved (at his death)",
+      "chapter": 714,
+      "quote": "양팔을 잃고, 가슴 한복판이 뻥 뚫린 채 다가온 그는",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "The one who lost both arms and has a hollow chest is 적천강, in a dream or vision. The narrator 나 is not clearly Baeksang."
       },
       "status": "rejected"
     },
@@ -280,131 +367,105 @@
       "quote": "덩치 큰 소년의 모습을",
       "marker": false,
       "verdict": {
+        "subject": "백상",
         "this_character": true,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Flashback memory of youth; the large boy is another person. Baeksang's smallness is only implied, and no lasting change is shown."
+        "reason": "Childhood flashback. 'Two heads taller' describes the other boy. Baeksang is only implied to be smaller, with no lasting change."
       },
       "status": "rejected"
     }
   ],
   "dropped_facts": [],
   "rejected": [
+    4,
     11,
     20,
-    21
+    21,
+    22
   ],
   "judgments": {
     "626|중년의이민족": {
+      "subject": "Baeksang",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Baeksang introduced as middle-aged foreign man in white; ordinary description."
+      "reason": "Named as 백상 숙부; middle-aged non-Han man in white. Ordinary description."
     },
     "626|야수묘왕과는상반되는마른체구를지닌그는": {
+      "subject": "Baeksang",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Lean build contrasted with the Beast Miao King; refers to Baeksang."
+      "reason": "Lean frame stated of 백상; unchanged look."
     },
     "626|얼음처럼차가운눈빛과경직된입꼬리.": {
+      "subject": "Baeksang",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Icy gaze and stiff mouth describe Baeksang now."
+      "reason": "Icy gaze stated of 백상; ordinary description."
     },
     "631|화염이깃든두눈동자와끓어오르는듯한음성": {
+      "subject": "Baeksang",
       "this_character": true,
-      "literal_present": true,
+      "literal_present": false,
       "lasting_change": false,
-      "reason": "Eyes with flame in anger; temporary emotional state, not a lasting change."
+      "reason": "Flame in eyes is an anger-driven, one-scene/figurative state. The passage shows no burn scar."
     },
     "645|언제나서늘한빛을발하던백상의눈동자": {
+      "subject": "Baeksang",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Baeksang's eyes always gave off a cool light; habitual, present description."
-    },
-    "648|음울한회색눈동자": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Gloomy gray eyes of Baeksang looking at the cup."
-    },
-    "650|무감정한눈동자로이곳을응시하고있던백상": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Baeksang's expressionless, unreadable eyes."
+      "reason": "Habitually cold gleam in eyes, established trait; no change."
     },
     "657|체격이워낙컸고": {
+      "subject": "Unnamed visitor (the man the innkeeper identifies)",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Large build and tiger mask belong to the suspect the innkeeper recalls, not to Baeksang, who is the questioner."
+    },
+    "673|칠순을넘긴나이가무색할만큼젊고수려한외모와균형잡힌체구.": {
+      "subject": "백상",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Mirror scene, Baeksang's established present look: young, handsome despite age 70+. Described as current state, not shown as a new change here."
+    },
+    "673|칠순을넘긴나이가무색할만큼젊고수려한외모": {
+      "subject": "백상",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same line: looks young despite age. Ordinary description, no change shown or announced."
+    },
+    "699|마치소년시절로돌아간것처럼": {
+      "subject": "백상",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Simile ('as if returned to boyhood') about his laughter. No look change."
+    },
+    "714|양팔을잃고,가슴한복판이뻥뚫린채다가온그는": {
+      "subject": "적천강",
       "this_character": false,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "The big tiger-masked man is the suspect described by the innkeeper, not Baeksang, who is the questioner."
-    },
-    "673|칠순을넘긴나이가무색할만큼젊고수려한외모와균형잡힌체구.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Mirror view of Baeksang's current youthful look; ordinary description, no change in scene."
-    },
-    "673|칠순을넘긴나이가무색할만큼젊고수려한외모": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Over seventy yet looks young; present description, not a new change."
-    },
-    "673|균형잡힌체구": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Well-proportioned body, present description."
-    },
-    "699|마치소년시절로돌아간것처럼": {
-      "this_character": true,
-      "literal_present": false,
-      "lasting_change": false,
-      "reason": "'Like returning to boyhood' is a simile about laughing; no physical trait or change."
+      "reason": "The one who lost both arms and has a hollow chest is 적천강, in a dream or vision. The narrator 나 is not clearly Baeksang."
     },
     "714|덩치큰소년의모습을": {
+      "subject": "백상",
       "this_character": true,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "Flashback memory of youth; the large boy is another person. Baeksang's smallness is only implied, and no lasting change is shown."
+      "reason": "Childhood flashback. 'Two heads taller' describes the other boy. Baeksang is only implied to be smaller, with no lasting change."
     }
   },
   "conflicts": [
     {
-      "attribute": "build",
-      "indices": [
-        2,
-        18
-      ],
-      "kept": [
-        2
-      ],
-      "resolved": false,
-      "reason": "Lean/thin (ch626) vs well-proportioned (ch673). Both are single-source and about equally strong. Kept the earlier, explicit one."
-    },
-    {
-      "attribute": "eyes",
-      "indices": [
-        3,
-        4,
-        6,
-        7,
-        10
-      ],
-      "kept": [
-        3,
-        6
-      ],
-      "resolved": true,
-      "reason": "Cold/icy gaze is stated twice (ch626, ch645, the latter as habitual). Flame-like, gray gloomy and emotionless are each single mentions."
-    },
-    {
-      "attribute": "age",
+      "attribute": "age/apparent age",
       "indices": [
         0,
         14,
@@ -413,49 +474,116 @@
       "kept": [
         0
       ],
+      "resolved": false,
+      "reason": "Middle-aged (ch626, earlier, quoted twice) vs young-looking despite being over seventy (ch673, repeated). Evidence is about equal. Kept the earlier value."
+    },
+    {
+      "attribute": "eyes (gaze quality)",
+      "indices": [
+        3,
+        6
+      ],
+      "kept": [
+        6
+      ],
       "resolved": true,
-      "reason": "Middle-aged appearance is the earliest, and fact 1's quote repeats it. The young-looking claims are tied to a stated age over seventy."
+      "reason": "The ch645 phrasing says the cold gleam is constant ('always'), and it fits the gray eyes. The ch626 icy-gaze phrasing is looser."
     }
   ],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 631,
+      "change": "unmarked face/body -> permanent burn scar (longstanding)",
+      "cause": "burned by Jeok Cheongang after calling him a crazy old man",
+      "sure": true
+    },
+    {
+      "chapter": 714,
+      "change": "intact body -> both arms lost and chest hollowed out, yet still moving (may refer to Baeksang at his death)",
+      "cause": "fatal injuries in final fight with the Beast Miao King",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 631,
+      "change": "unmarked face/body -> permanent burn scar (longstanding)",
+      "cause": "burned by Jeok Cheongang after calling him a crazy old man",
+      "sure": true,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 714,
+      "change": "intact body -> both arms lost and chest hollowed out, yet still moving (may refer to Baeksang at his death)",
+      "cause": "fatal injuries in final fight with the Beast Miao King",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 626,
-      "description": "Baeksang is a middle-aged foreign (non-Han) man with a lean, thin frame and handsome, refined features. His gaze is icy and cold. He wears all-white clothing and ornaments from head to toe: snow-white robes with flowing sleeves, with garments of white fox fur. He carries a sword. Tags: male, middle-aged, non-Han, lean, thin, handsome, refined features, icy cold eyes, all white, white ornaments, snow-white robes, flowing sleeves, white fox fur, sword",
+      "description": "Baeksang is a lean, well-proportioned middle-aged foreign (non-Han) man with handsome, refined features. His gray eyes look gloomy and emotionless, with a habitual cold, chilly gleam. He wears all-white clothing and ornaments from head to toe: snow-white robes of white fox fur with long flowing sleeves. He carries a sword. Tags: middle-aged, non-Han, male, lean, well-proportioned, handsome, gray eyes, cold gaze, all white, snow-white robes, white fox fur, flowing sleeves, white ornaments, sword",
       "used": [
         0,
         1,
         2,
-        3,
         5,
         6,
+        7,
         8,
         9,
+        10,
         13,
         15,
         17,
+        18,
         19
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 626):** Baeksang is a middle-aged foreign (non-Han) man with a lean, thin frame and handsome, refined features. His gaze is icy and cold. He wears all-white clothing and ornaments from head to toe: snow-white robes with flowing sleeves, with garments of white fox fur. He carries a sword. Tags: male, middle-aged, non-Han, lean, thin, handsome, refined features, icy cold eyes, all white, white ornaments, snow-white robes, flowing sleeves, white fox fur, sword"
+    "- **Appearance (from ch 626):** Baeksang is a lean, well-proportioned middle-aged foreign (non-Han) man with handsome, refined features. His gray eyes look gloomy and emotionless, with a habitual cold, chilly gleam. He wears all-white clothing and ornaments from head to toe: snow-white robes of white fox fur with long flowing sleeves. He carries a sword. Tags: middle-aged, non-Han, male, lean, well-proportioned, handsome, gray eyes, cold gaze, all white, snow-white robes, white fox fur, flowing sleeves, white ornaments, sword"
   ],
   "omitted": [
     {
       "index": 12,
-      "reason": "Describes an injury (broken nose, bandaged) with no APPROVED-CHANGE flag, so it is left out of every range."
+      "reason": "Injury event (nose broken and bandaged), not APPROVED-CHANGE. The straight nose bridge is tied to that event, so it is left out."
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.023563800000000003
+      "cost_usd": 0.021167199999999997
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.04136
+      "cost_usd": 0.023818
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0181209
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.026327899999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0302201
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.029527699999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0393256
     }
   ]
 }

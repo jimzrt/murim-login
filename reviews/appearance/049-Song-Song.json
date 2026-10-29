@@ -9,7 +9,72 @@
   "chapter_count": 43,
   "first_chapter": 77,
   "profile_safe_through": 1175,
-  "passages": [],
+  "passages": [
+    [
+      220,
+      39
+    ],
+    [
+      220,
+      55
+    ],
+    [
+      222,
+      38
+    ],
+    [
+      274,
+      49
+    ],
+    [
+      286,
+      44
+    ],
+    [
+      299,
+      75
+    ],
+    [
+      300,
+      82
+    ],
+    [
+      558,
+      67
+    ],
+    [
+      561,
+      70
+    ],
+    [
+      561,
+      69
+    ],
+    [
+      561,
+      31
+    ],
+    [
+      561,
+      61
+    ],
+    [
+      561,
+      34
+    ],
+    [
+      593,
+      88
+    ],
+    [
+      728,
+      39
+    ],
+    [
+      773,
+      80
+    ]
+  ],
   "facts": [
     {
       "attribute": "build",
@@ -36,12 +101,7 @@
       "chapter": 83,
       "quote": "몽환적인 얼굴",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Narration describes Song Song's smooth figure and dreamy face in the present; ordinary description."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -51,79 +111,67 @@
       "chapter": 270,
       "quote": "그녀의 미모에 두 번 넋을 놓고 있던 이들은",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Her beauty captivates the others in the present scene; ordinary description, no change in her look."
-      },
+      "verdict": null,
       "status": "kept"
     }
   ],
   "dropped_facts": [],
   "rejected": [],
-  "judgments": {
-    "83|몽환적인얼굴": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Narration describes Song Song's smooth figure and dreamy face in the present; ordinary description."
-    },
-    "270|그녀의미모에두번넋을놓고있던이들은": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Her beauty captivates the others in the present scene; ordinary description, no change in her look."
-    }
-  },
-  "conflicts": [
+  "judgments": {},
+  "conflicts": [],
+  "unused": [],
+  "timeline_events": [
     {
-      "attribute": "face",
-      "indices": [
-        2,
-        3
-      ],
-      "kept": [
-        2
-      ],
-      "resolved": false,
-      "reason": "Dreamy/ethereal face (earlier, concrete visual) vs. strikingly beautiful (later, vague); both are about equally supported and not mutually exclusive in kind, so kept the more concrete visual description."
+      "chapter": 561,
+      "change": "Song Song is not shown with any changed appearance; the severed-and-reattached arm at 561 belongs to another character",
+      "cause": "none",
+      "sure": false
     }
   ],
-  "unused": [],
+  "timeline": [
+    {
+      "chapter": 561,
+      "change": "Song Song is not shown with any changed appearance; the severed-and-reattached arm at 561 belongs to another character",
+      "cause": "none",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 77,
-      "description": "Song Song is a woman with a sleek, smooth body figure and a dreamy, ethereal face. Tags: female, sleek smooth figure, dreamy ethereal face",
+      "description": "Song Song is a woman with a sleek, smooth figure and a dreamy, ethereal face of striking beauty. Tags: female, sleek smooth figure, dreamy ethereal face, strikingly beautiful",
       "used": [
         0,
         1,
-        2
+        2,
+        3
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 77):** Song Song is a woman with a sleek, smooth body figure and a dreamy, ethereal face. Tags: female, sleek smooth figure, dreamy ethereal face"
+    "- **Appearance (from ch 77):** Song Song is a woman with a sleek, smooth figure and a dreamy, ethereal face of striking beauty. Tags: female, sleek smooth figure, dreamy ethereal face, strikingly beautiful"
   ],
-  "omitted": [
-    {
-      "index": 3,
-      "reason": "Conflicting face value in CONFLICT#1; vague 'strikingly beautiful' dropped in favor of the concrete earlier description."
-    }
-  ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0151211
+      "cost_usd": 0.0197493
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019641099999999998
+      "cost_usd": 0.021336199999999996
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0212811
+      "cost_usd": 0.0154587
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0213802
     }
   ]
 }

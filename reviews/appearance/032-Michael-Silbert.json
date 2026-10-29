@@ -11,7 +11,140 @@
   "chapter_count": 72,
   "first_chapter": 735,
   "profile_safe_through": 736,
-  "passages": [],
+  "passages": [
+    [
+      743,
+      51
+    ],
+    [
+      743,
+      73
+    ],
+    [
+      743,
+      75
+    ],
+    [
+      743,
+      61
+    ],
+    [
+      743,
+      49
+    ],
+    [
+      756,
+      73
+    ],
+    [
+      756,
+      32
+    ],
+    [
+      758,
+      48
+    ],
+    [
+      761,
+      79
+    ],
+    [
+      765,
+      72
+    ],
+    [
+      766,
+      73
+    ],
+    [
+      773,
+      80
+    ],
+    [
+      779,
+      66
+    ],
+    [
+      781,
+      33
+    ],
+    [
+      781,
+      92
+    ],
+    [
+      781,
+      40
+    ],
+    [
+      782,
+      64
+    ],
+    [
+      783,
+      59
+    ],
+    [
+      784,
+      58
+    ],
+    [
+      784,
+      67
+    ],
+    [
+      785,
+      84
+    ],
+    [
+      785,
+      60
+    ],
+    [
+      785,
+      62
+    ],
+    [
+      785,
+      78
+    ],
+    [
+      792,
+      112
+    ],
+    [
+      800,
+      16
+    ],
+    [
+      800,
+      33
+    ],
+    [
+      809,
+      69
+    ],
+    [
+      812,
+      68
+    ],
+    [
+      812,
+      66
+    ],
+    [
+      813,
+      72
+    ],
+    [
+      813,
+      124
+    ],
+    [
+      817,
+      69
+    ]
+  ],
   "facts": [
     {
       "attribute": "eyes",
@@ -27,8 +160,28 @@
       "attribute": "eyes",
       "kind": "base",
       "fact": "Gray eyes",
+      "chapter": 743,
+      "quote": "사내의 회색빛 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Gray eyes",
       "chapter": 766,
       "quote": "그의 회색빛 눈동자에 비친 뮌헨의 밤하늘은",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "face",
+      "kind": "base",
+      "fact": "Handsome young man (before transformation)",
+      "chapter": 779,
+      "quote": "수려한 외모의 젊은이",
       "marker": false,
       "verdict": null,
       "status": "kept"
@@ -44,6 +197,148 @@
       "status": "kept"
     },
     {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Gray eyes originally",
+      "chapter": 781,
+      "quote": "회색빛 눈동자",
+      "marker": true,
+      "verdict": {
+        "subject": "Michael Silbert",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Ch781 transformation: eyes darkening to black, a human-to-nonhuman shift; the ink simile describes the process but the darkening is real. Subject is implied by the transformation scene, though not named in the excerpt."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "change",
+      "fact": "Gray eyes gradually darkened to black like spreading ink during transformation",
+      "chapter": 781,
+      "quote": "마치 먹물이 번지듯 서서히 검게 물들어 가는 회색빛 눈동자.",
+      "marker": true,
+      "verdict": {
+        "subject": "Michael Silbert",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Eyes turning black during the transformation; real, and part of a lasting change."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "skin",
+      "kind": "base",
+      "fact": "White Caucasian skin",
+      "chapter": 781,
+      "quote": "백인 특유의 새하얀 피부",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "skin",
+      "kind": "change",
+      "fact": "Skin covered by a thin leather-like membrane after transformation",
+      "chapter": 781,
+      "quote": "백인 특유의 새하얀 피부는 마치 가죽과도 같은 얇은 막(膜)에 감싸져 있었고",
+      "marker": false,
+      "verdict": {
+        "subject": "Michael Silbert",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Skin wrapped in a leather-like membrane; real, and part of the 'neither human nor monster' change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "build",
+      "kind": "change",
+      "fact": "Whole body became longer and thicker, with far greater power and elasticity",
+      "chapter": 781,
+      "quote": "어느새 길고 두꺼워진 전신에서는 전과 비교도 할 수 없는 힘과 탄력이 느껴지는 듯했다.",
+      "marker": false,
+      "verdict": {
+        "subject": "Michael Silbert",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Body became longer and thicker with far greater power; a stated bodily change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "skin",
+      "kind": "change",
+      "fact": "White skin wrapped in a thin leather-like membrane after transformation",
+      "chapter": 781,
+      "quote": "마치 가죽과도 같은 얇은 막(膜)에 감싸져 있었고",
+      "marker": false,
+      "verdict": {
+        "subject": "Michael Silbert",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "White skin wrapped in a thin membrane; a real transformation trait."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Gray eyes with darkness rippling in them",
+      "chapter": 782,
+      "quote": "어둠이 출렁이는 회색빛 눈동자",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "skin",
+      "kind": "base",
+      "fact": "Very white, pale skin",
+      "chapter": 783,
+      "quote": "새하얗던 피부는",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Lost one arm in battle with an unknown strong opponent; the arm stays lost.",
+      "chapter": 785,
+      "quote": "누구인지 모를 강자에게 한쪽 팔을 잃은 그는",
+      "marker": true,
+      "verdict": {
+        "subject": "Chronos guild master (크로노스 길드장)",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The arm loss belongs to the Chronos guild master, who is then killed. It is not Michael Silbert (the narrator 나 is a different person)."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "limb",
+      "kind": "change",
+      "fact": "Lost one arm in battle; stays lost",
+      "chapter": 785,
+      "quote": "한쪽 팔을 잃은 그는",
+      "marker": true,
+      "verdict": {
+        "subject": "Michael Silbert",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The arm-losing man is the Chronos guild leader (중년의 거한), not Michael Silbert. The Michael hint doesn't match this passage."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "build",
       "kind": "change",
       "fact": "Desiccated, mummy-like emaciated body when encountered in person",
@@ -51,52 +346,227 @@
       "quote": "미라처럼 말라붙은 모습이 처음이자 마지막이었지만",
       "marker": false,
       "verdict": {
+        "subject": "Michael Silbert",
         "this_character": true,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Refers to a past encounter with Michael's mummified body (recollection) while noting the doppelganger's current face matches his photos; not a present description, and no change in this scene."
+        "reason": "Mummy-like look is a past encounter recalled in the narration. Here the face is known from photos, and the doppelganger has taken that face. No new lasting change is shown."
       },
       "status": "rejected"
     }
   ],
   "dropped_facts": [],
   "rejected": [
-    3
+    13,
+    14,
+    15
   ],
   "judgments": {
+    "781|회색빛눈동자": {
+      "subject": "Michael Silbert",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Ch781 transformation: eyes darkening to black, a human-to-nonhuman shift; the ink simile describes the process but the darkening is real. Subject is implied by the transformation scene, though not named in the excerpt."
+    },
+    "781|마치먹물이번지듯서서히검게물들어가는회색빛눈동자.": {
+      "subject": "Michael Silbert",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Eyes turning black during the transformation; real, and part of a lasting change."
+    },
+    "781|백인특유의새하얀피부는마치가죽과도같은얇은막(膜)에감싸져있었고": {
+      "subject": "Michael Silbert",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Skin wrapped in a leather-like membrane; real, and part of the 'neither human nor monster' change."
+    },
+    "781|어느새길고두꺼워진전신에서는전과비교도할수없는힘과탄력이느껴지는듯했다.": {
+      "subject": "Michael Silbert",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Body became longer and thicker with far greater power; a stated bodily change."
+    },
+    "781|마치가죽과도같은얇은막(膜)에감싸져있었고": {
+      "subject": "Michael Silbert",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "White skin wrapped in a thin membrane; a real transformation trait."
+    },
+    "785|누구인지모를강자에게한쪽팔을잃은그는": {
+      "subject": "Chronos guild master (크로노스 길드장)",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The arm loss belongs to the Chronos guild master, who is then killed. It is not Michael Silbert (the narrator 나 is a different person)."
+    },
+    "785|한쪽팔을잃은그는": {
+      "subject": "Michael Silbert",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The arm-losing man is the Chronos guild leader (중년의 거한), not Michael Silbert. The Michael hint doesn't match this passage."
+    },
     "817|미라처럼말라붙은모습이처음이자마지막이었지만": {
+      "subject": "Michael Silbert",
       "this_character": true,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "Refers to a past encounter with Michael's mummified body (recollection) while noting the doppelganger's current face matches his photos; not a present description, and no change in this scene."
+      "reason": "Mummy-like look is a past encounter recalled in the narration. Here the face is known from photos, and the doppelganger has taken that face. No new lasting change is shown."
     }
   },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 743,
+      "change": "human body -> brutally transformed body with overwhelming power (visual details not shown)",
+      "cause": "painful bodily transformation",
+      "sure": false
+    },
+    {
+      "chapter": 781,
+      "change": "human -> monstrous appearance, neither human nor monster",
+      "cause": "absorbed vast magical power and fused it with his mana",
+      "sure": true
+    },
+    {
+      "chapter": 784,
+      "change": "monstrous humanoid -> dragon-like monster with regeneration",
+      "cause": "transformation when badly wounded",
+      "sure": true
+    },
+    {
+      "chapter": 785,
+      "change": "lost one arm, which stays lost; dragon-like features and regeneration gone, left defeated and dying",
+      "cause": "injury from an unknown strong opponent and exhausted magical power",
+      "sure": true
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 743,
+      "change": "human body -> brutally transformed body with overwhelming power (visual details not shown)",
+      "cause": "painful bodily transformation",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 781,
+      "change": "human -> monstrous appearance, neither human nor monster",
+      "cause": "absorbed vast magical power and fused it with his mana",
+      "sure": true,
+      "facts": [
+        5,
+        6
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 784,
+      "change": "monstrous humanoid -> dragon-like monster with regeneration",
+      "cause": "transformation when badly wounded",
+      "sure": true,
+      "facts": [
+        5,
+        6
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 785,
+      "change": "lost one arm, which stays lost; dragon-like features and regeneration gone, left defeated and dying",
+      "cause": "injury from an unknown strong opponent and exhausted magical power",
+      "sure": true,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [
+    {
+      "event": 784,
+      "reason": "dismissed"
+    }
+  ],
   "ranges": [
     {
       "start": 735,
-      "description": "Michael Silbert, male, has gray eyes. Tags: male, gray eyes",
+      "description": "Michael Silbert is a handsome young man with gray eyes. Tags: male, young man, handsome, gray eyes",
       "used": [
         0,
         1,
-        2
+        2,
+        3,
+        4
       ],
       "difference": ""
+    },
+    {
+      "start": 781,
+      "description": "Michael Silbert has a monstrous, neither-human-nor-monster look after fusing absorbed magical power with his mana. His whole body is longer and thicker, with great power and elasticity. His white Caucasian skin is wrapped in a thin leather-like membrane. His gray eyes have darkened like spreading ink, with darkness rippling in them. Tags: male, monstrous humanoid, elongated thick body, powerful elastic physique, pale white skin, thin leather-like membrane, dark-ink-clouded gray eyes",
+      "used": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "difference": "handsome young man with gray eyes -> monstrous humanoid with longer, thicker body, leather-like membrane over white skin, gray eyes darkened with ink-like black"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 735):** Michael Silbert, male, has gray eyes. Tags: male, gray eyes"
+    "- **Appearance (ch 735–780):** Michael Silbert is a handsome young man with gray eyes. Tags: male, young man, handsome, gray eyes",
+    "- **Appearance (from ch 781):** Michael Silbert has a monstrous, neither-human-nor-monster look after fusing absorbed magical power with his mana. His whole body is longer and thicker, with great power and elasticity. His white Caucasian skin is wrapped in a thin leather-like membrane. His gray eyes have darkened like spreading ink, with darkness rippling in them. Tags: male, monstrous humanoid, elongated thick body, powerful elastic physique, pale white skin, thin leather-like membrane, dark-ink-clouded gray eyes"
   ],
-  "omitted": [],
+  "omitted": [
+    {
+      "index": 5,
+      "reason": "Gray eyes 'originally' repeats the base eye colour already in facts 0-4; its chapter (781) is not before the range 2 start, so range 1 cannot use it."
+    }
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0153654
+      "cost_usd": 0.023199200000000003
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019238400000000003
+      "cost_usd": 0.0295192
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.019821199999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.020827599999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0169722
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0210296
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0326636
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0225845
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0343298
     }
   ]
 }

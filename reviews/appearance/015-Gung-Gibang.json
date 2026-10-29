@@ -9,7 +9,104 @@
   "chapter_count": 102,
   "first_chapter": 248,
   "profile_safe_through": 1191,
-  "passages": [],
+  "passages": [
+    [
+      336,
+      42
+    ],
+    [
+      336,
+      36
+    ],
+    [
+      340,
+      20
+    ],
+    [
+      340,
+      12
+    ],
+    [
+      340,
+      60
+    ],
+    [
+      436,
+      87
+    ],
+    [
+      453,
+      46
+    ],
+    [
+      463,
+      49
+    ],
+    [
+      470,
+      34
+    ],
+    [
+      481,
+      38
+    ],
+    [
+      484,
+      61
+    ],
+    [
+      496,
+      31
+    ],
+    [
+      498,
+      86
+    ],
+    [
+      504,
+      48
+    ],
+    [
+      510,
+      28
+    ],
+    [
+      510,
+      78
+    ],
+    [
+      510,
+      52
+    ],
+    [
+      530,
+      53
+    ],
+    [
+      535,
+      75
+    ],
+    [
+      852,
+      65
+    ],
+    [
+      852,
+      19
+    ],
+    [
+      1076,
+      68
+    ],
+    [
+      1090,
+      74
+    ],
+    [
+      1120,
+      69
+    ]
+  ],
   "facts": [
     {
       "attribute": "hair",
@@ -57,10 +154,11 @@
       "quote": "서로의 땟국물 가득한 얼굴을 마주 보며",
       "marker": true,
       "verdict": {
+        "subject": "Gung Gibang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Gung Gibang and Heukgeolgae have grimy faces; literal, ordinary beggar look."
+        "reason": "Grimy face as beggar; ordinary description, not a change."
       },
       "status": "kept"
     },
@@ -71,10 +169,11 @@
       "quote": "두 사람이 서로의 땟국물 가득한 얼굴을 마주 보며 피식 웃었다.",
       "marker": true,
       "verdict": {
+        "subject": "Gung Gibang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Same line; both men's faces are grimy. Literal, present, not a change."
+        "reason": "Grimy faces of both beggars; ordinary look, no change."
       },
       "status": "kept"
     },
@@ -86,10 +185,27 @@
       "quote": "송 소협이나 나처럼 잘생기면 푼돈 벌기도 힘드오",
       "marker": false,
       "verdict": {
+        "subject": "Gung Gibang",
         "this_character": true,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Self-praise about being handsome, partly about childhood looks, in a joking tone; not a reliable literal description."
+        "reason": "Self-claim of handsomeness, joking and about his youth; not a reliable current fact. Not a change."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (반로환동); appears younger than his true age",
+      "chapter": 463,
+      "quote": "설마하니 반로환동의 경지에 드셨을 줄은 몰랐습니다",
+      "marker": true,
+      "verdict": {
+        "subject": "Moon Gyeong",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Jegal Pung addresses Moon Gyeong (Salseong) as having reached banrohwandong; not Gung Gibang."
       },
       "status": "rejected"
     },
@@ -114,6 +230,22 @@
       "status": "kept"
     },
     {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (banrohwandong); became a top-tier master with a youthful appearance",
+      "chapter": 510,
+      "quote": "반로환동 한 초절정 고수한테는",
+      "marker": true,
+      "verdict": {
+        "subject": "Unknown banrohwandong master",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Pirates talk about a banrohwandong peak master, likely Moon Gyeong. Gung Gibang is not named."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "face",
       "kind": "base",
       "fact": "Has an ugly face",
@@ -121,10 +253,11 @@
       "quote": "궁기방의 못생긴 얼굴이 와락 일그러졌다.",
       "marker": false,
       "verdict": {
+        "subject": "Gung Gibang",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Narration calls his face ugly; a present description, no change."
+        "reason": "Named, ugly face is a plain description with no change."
       },
       "status": "kept"
     },
@@ -136,44 +269,90 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (banro-hwandong); became about a hundred years younger",
+      "chapter": 852,
+      "quote": "얼추 백 년쯤 어려졌으니 앞으로 백 년은 더 이렇게 살 예정이오.",
+      "marker": true,
+      "verdict": {
+        "subject": "Gung Gibang",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Speaker (taunted by the nun as 적 시주, i.e. Gung Gibang) says he got about 100 years younger and tells her to 반로환동 too. This establishes his returned-to-youth state as lasting and announces the change."
+      },
+      "status": "approved-change"
     }
   ],
   "dropped_facts": [],
   "rejected": [
-    6
+    6,
+    7,
+    10
   ],
   "judgments": {
     "322|서로의땟국물가득한얼굴을마주보며": {
+      "subject": "Gung Gibang",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Gung Gibang and Heukgeolgae have grimy faces; literal, ordinary beggar look."
+      "reason": "Grimy face as beggar; ordinary description, not a change."
     },
     "322|두사람이서로의땟국물가득한얼굴을마주보며피식웃었다.": {
+      "subject": "Gung Gibang",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Same line; both men's faces are grimy. Literal, present, not a change."
+      "reason": "Grimy faces of both beggars; ordinary look, no change."
     },
     "329|송소협이나나처럼잘생기면푼돈벌기도힘드오": {
+      "subject": "Gung Gibang",
       "this_character": true,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "Self-praise about being handsome, partly about childhood looks, in a joking tone; not a reliable literal description."
+      "reason": "Self-claim of handsomeness, joking and about his youth; not a reliable current fact. Not a change."
+    },
+    "463|설마하니반로환동의경지에드셨을줄은몰랐습니다": {
+      "subject": "Moon Gyeong",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Jegal Pung addresses Moon Gyeong (Salseong) as having reached banrohwandong; not Gung Gibang."
+    },
+    "510|반로환동한초절정고수한테는": {
+      "subject": "Unknown banrohwandong master",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Pirates talk about a banrohwandong peak master, likely Moon Gyeong. Gung Gibang is not named."
     },
     "528|궁기방의못생긴얼굴이와락일그러졌다.": {
+      "subject": "Gung Gibang",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Narration calls his face ugly; a present description, no change."
+      "reason": "Named, ugly face is a plain description with no change."
+    },
+    "852|얼추백년쯤어려졌으니앞으로백년은더이렇게살예정이오.": {
+      "subject": "Gung Gibang",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Speaker (taunted by the nun as 적 시주, i.e. Gung Gibang) says he got about 100 years younger and tells her to 반로환동 too. This establishes his returned-to-youth state as lasting and announces the change."
     }
   },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 248,
-      "description": "Gung Gibang is a male beggar-like figure with greasy, matted, unkempt hair. The face is homely and ugly, smeared with grime and dirt, and the teeth are yellowed and bared when grinning. Tags: male, beggar, matted greasy hair, unkempt, grimy dirty face, homely ugly face, yellowed teeth",
+      "description": "Gung Gibang is a male beggar with matted, greasy, unkempt hair and a grimy, dirt-smeared, ugly face. He has yellowed teeth. Tags: male, beggar, matted greasy hair, grimy face, dirty, ugly face, yellowed teeth",
       "used": [
         0,
         1,
@@ -181,26 +360,65 @@
         3,
         4,
         5,
-        7,
         8,
         9,
-        10
+        11,
+        12
       ],
       "difference": ""
+    },
+    {
+      "start": 852,
+      "description": "Gung Gibang is a male beggar who has returned to youth (banro-hwandong) and looks about a hundred years younger. He has matted, greasy, unkempt hair, a grimy, dirt-smeared, ugly face and yellowed teeth. Tags: male, beggar, rejuvenated, much younger, matted greasy hair, grimy face, ugly face, yellowed teeth",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        9,
+        11,
+        12,
+        13
+      ],
+      "difference": "body remade by banro-hwandong, now looks about a hundred years younger (exact apparent age not stated)"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 248):** Gung Gibang is a male beggar-like figure with greasy, matted, unkempt hair. The face is homely and ugly, smeared with grime and dirt, and the teeth are yellowed and bared when grinning. Tags: male, beggar, matted greasy hair, unkempt, grimy dirty face, homely ugly face, yellowed teeth"
+    "- **Appearance (ch 248–851):** Gung Gibang is a male beggar with matted, greasy, unkempt hair and a grimy, dirt-smeared, ugly face. He has yellowed teeth. Tags: male, beggar, matted greasy hair, grimy face, dirty, ugly face, yellowed teeth",
+    "- **Appearance (from ch 852):** Gung Gibang is a male beggar who has returned to youth (banro-hwandong) and looks about a hundred years younger. He has matted, greasy, unkempt hair, a grimy, dirt-smeared, ugly face and yellowed teeth. Tags: male, beggar, rejuvenated, much younger, matted greasy hair, grimy face, ugly face, yellowed teeth"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.017819699999999997
+      "cost_usd": 0.021008699999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.022630400000000002
+      "cost_usd": 0.0153783
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0222736
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0149882
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.029713899999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.020288900000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0254176
     }
   ]
 }

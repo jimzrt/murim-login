@@ -10,7 +10,88 @@
   "chapter_count": 118,
   "first_chapter": 242,
   "profile_safe_through": 823,
-  "passages": [],
+  "passages": [
+    [
+      384,
+      54
+    ],
+    [
+      395,
+      59
+    ],
+    [
+      416,
+      67
+    ],
+    [
+      485,
+      41
+    ],
+    [
+      606,
+      41
+    ],
+    [
+      609,
+      49
+    ],
+    [
+      799,
+      62
+    ],
+    [
+      800,
+      16
+    ],
+    [
+      800,
+      33
+    ],
+    [
+      809,
+      69
+    ],
+    [
+      812,
+      68
+    ],
+    [
+      812,
+      66
+    ],
+    [
+      813,
+      72
+    ],
+    [
+      813,
+      124
+    ],
+    [
+      814,
+      70
+    ],
+    [
+      819,
+      29
+    ],
+    [
+      826,
+      34
+    ],
+    [
+      830,
+      39
+    ],
+    [
+      1165,
+      42
+    ],
+    [
+      1165,
+      24
+    ]
+  ],
   "facts": [
     {
       "attribute": "build",
@@ -19,10 +100,11 @@
       "quote": "덩치에 안 맞게 장난기가 넘친단 말이지.",
       "marker": false,
       "verdict": {
+        "subject": "Magic Johnson",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Narrator notes Johnson's playfulness is unlike his big build (덩치); literal, refers to him."
+        "reason": "Named; 덩치 = big frame, established trait, no change."
       },
       "status": "kept"
     },
@@ -57,6 +139,38 @@
       "status": "kept"
     },
     {
+      "attribute": "clothing",
+      "kind": "base",
+      "fact": "Wears a jewel-decorated turban",
+      "chapter": 609,
+      "quote": "보석으로 장식한 터번이 벗겨지고",
+      "marker": true,
+      "verdict": {
+        "subject": "Muhammad",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Turban belongs to 무함마드, not Magic Johnson."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "hair",
+      "kind": "base",
+      "fact": "Nearly bald, only a few strands of hair left",
+      "chapter": 609,
+      "quote": "몇 가닥 남지 않은 머리카락마저",
+      "marker": true,
+      "verdict": {
+        "subject": "Muhammad",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Sparse hair belongs to 무함마드."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "weapon",
       "kind": "base",
       "fact": "Wields two staffs",
@@ -64,10 +178,11 @@
       "quote": "두 개의 지팡이로 믿을 수 없는 마법을 부린다는",
       "marker": false,
       "verdict": {
+        "subject": "Magic Johnson",
         "this_character": true,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Reputation/hearsay ('믿을 수 없는 마법을 부린다는') about two staffs, not a direct present description. Likely true in-world but stated as rumor."
+        "reason": "'Reportedly' wields two staffs (rumor-like description of his magic), not a visible look; no change."
       },
       "status": "rejected"
     },
@@ -79,10 +194,11 @@
       "quote": "거구의 흑인이 우리 앞에 섰다",
       "marker": false,
       "verdict": {
+        "subject": "Magic Johnson",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "거구의 흑인 steps in front of them and is identified as Magic Johnson; literal present."
+        "reason": "Next lines identify him as Magic Johnson; huge Black man, tired face only, no drastic change."
       },
       "status": "kept"
     },
@@ -94,12 +210,13 @@
       "quote": "매직 존슨만큼이나 거대한 덩치에",
       "marker": false,
       "verdict": {
-        "this_character": false,
+        "subject": "Magic Johnson",
+        "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Describes Chuck Hagel's huge frame, which is 'as huge as' Johnson's; the fact is stated about Hagel, but it is only a comparison for Johnson."
+        "reason": "Chuck Hagel is described as as huge as Johnson, so Johnson is huge; unchanged look."
       },
-      "status": "rejected"
+      "status": "kept"
     },
     {
       "attribute": "weapon",
@@ -109,12 +226,13 @@
       "quote": "매직 존슨이 그가 가진 크고 아름다운 스태프로 놈을 두들겨 패던데",
       "marker": false,
       "verdict": {
+        "subject": "Magic Johnson",
         "this_character": true,
-        "literal_present": false,
+        "literal_present": true,
         "lasting_change": false,
-        "reason": "A web comment about a video, joking and ambiguous ('크고 아름다운 스태프' is a double entendre), so not a reliable literal description."
+        "reason": "Named; staff described as large and beautiful (an innuendo-tinged joke, but it is stated as his staff). Ordinary description, not a change."
       },
-      "status": "rejected"
+      "status": "kept"
     },
     {
       "attribute": "eyes",
@@ -140,39 +258,58 @@
   "dropped_facts": [],
   "rejected": [
     4,
-    6,
-    7
+    5,
+    6
   ],
   "judgments": {
-    "728|두개의지팡이로믿을수없는마법을부린다는": {
-      "this_character": true,
-      "literal_present": false,
-      "lasting_change": false,
-      "reason": "Reputation/hearsay ('믿을 수 없는 마법을 부린다는') about two staffs, not a direct present description. Likely true in-world but stated as rumor."
-    },
-    "790|매직존슨이그가가진크고아름다운스태프로놈을두들겨패던데": {
-      "this_character": true,
-      "literal_present": false,
-      "lasting_change": false,
-      "reason": "A web comment about a video, joking and ambiguous ('크고 아름다운 스태프' is a double entendre), so not a reliable literal description."
-    },
     "407|덩치에안맞게장난기가넘친단말이지.": {
+      "subject": "Magic Johnson",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Narrator notes Johnson's playfulness is unlike his big build (덩치); literal, refers to him."
+      "reason": "Named; 덩치 = big frame, established trait, no change."
     },
-    "741|거구의흑인이우리앞에섰다": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "거구의 흑인 steps in front of them and is identified as Magic Johnson; literal present."
-    },
-    "773|매직존슨만큼이나거대한덩치에": {
+    "609|보석으로장식한터번이벗겨지고": {
+      "subject": "Muhammad",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Describes Chuck Hagel's huge frame, which is 'as huge as' Johnson's; the fact is stated about Hagel, but it is only a comparison for Johnson."
+      "reason": "Turban belongs to 무함마드, not Magic Johnson."
+    },
+    "609|몇가닥남지않은머리카락마저": {
+      "subject": "Muhammad",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Sparse hair belongs to 무함마드."
+    },
+    "728|두개의지팡이로믿을수없는마법을부린다는": {
+      "subject": "Magic Johnson",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "'Reportedly' wields two staffs (rumor-like description of his magic), not a visible look; no change."
+    },
+    "741|거구의흑인이우리앞에섰다": {
+      "subject": "Magic Johnson",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Next lines identify him as Magic Johnson; huge Black man, tired face only, no drastic change."
+    },
+    "773|매직존슨만큼이나거대한덩치에": {
+      "subject": "Magic Johnson",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Chuck Hagel is described as as huge as Johnson, so Johnson is huge; unchanged look."
+    },
+    "790|매직존슨이그가가진크고아름다운스태프로놈을두들겨패던데": {
+      "subject": "Magic Johnson",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Named; staff described as large and beautiful (an innuendo-tinged joke, but it is stated as his staff). Ordinary description, not a change."
     }
   },
   "conflicts": [
@@ -180,47 +317,78 @@
       "attribute": "build",
       "indices": [
         0,
-        5
+        7,
+        8
       ],
       "kept": [
-        5
+        0,
+        8
       ],
       "resolved": true,
-      "reason": "Both say large, but fact 4 is clearer and more specific (towering, large-framed) and fits the skin facts. Fact 0 is vaguer."
+      "reason": "All three describe a large frame. Facts 0 and 5 clearly refer to Magic Johnson, and fact 5 is the most explicit ('huge, bulky'). Fact 4 is an ambiguous 'towering' description of a man who may be someone else."
     }
   ],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 242,
-      "description": "Magic Johnson is a towering, large-framed man with dark black skin. He has clear, transparent-looking eyes that reflect whoever stands before him, and a homely, unattractive face. Tags: male, towering, large frame, dark skin, Black man, clear transparent eyes, homely face",
+      "description": "Magic Johnson is a huge, bulky, large-framed man with dark black skin and clear, transparent-looking eyes. He carries a large, handsome staff. Tags: male, dark skin, black skin, huge bulky build, clear transparent eyes, large ornate staff",
       "used": [
+        0,
         1,
         2,
         3,
-        5,
         8,
-        9
+        9,
+        10
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 242):** Magic Johnson is a towering, large-framed man with dark black skin. He has clear, transparent-looking eyes that reflect whoever stands before him, and a homely, unattractive face. Tags: male, towering, large frame, dark skin, Black man, clear transparent eyes, homely face"
+    "- **Appearance (from ch 242):** Magic Johnson is a huge, bulky, large-framed man with dark black skin and clear, transparent-looking eyes. He carries a large, handsome staff. Tags: male, dark skin, black skin, huge bulky build, clear transparent eyes, large ornate staff"
   ],
-  "omitted": [],
+  "omitted": [
+    {
+      "index": 7,
+      "reason": "Build conflict. It is ambiguous whether it refers to Magic Johnson, and fact 5 already covers build. Its skin trait is already covered by facts 1-3."
+    },
+    {
+      "index": 11,
+      "reason": "An insult from another character, not a reliable visual description."
+    }
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.017621599999999998
+      "cost_usd": 0.019325600000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.021023899999999998
+      "cost_usd": 0.0198604
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0229975
+      "cost_usd": 0.017847
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0176922
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.029108599999999995
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0199082
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0301285
     }
   ]
 }

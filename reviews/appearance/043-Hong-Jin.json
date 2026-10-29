@@ -9,7 +9,44 @@
   "chapter_count": 51,
   "first_chapter": 139,
   "profile_safe_through": 953,
-  "passages": [],
+  "passages": [
+    [
+      150,
+      73
+    ],
+    [
+      150,
+      49
+    ],
+    [
+      862,
+      48
+    ],
+    [
+      862,
+      98
+    ],
+    [
+      863,
+      46
+    ],
+    [
+      864,
+      49
+    ],
+    [
+      864,
+      52
+    ],
+    [
+      895,
+      95
+    ],
+    [
+      937,
+      22
+    ]
+  ],
   "facts": [
     {
       "attribute": "face",
@@ -46,10 +83,29 @@
   "judgments": {},
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 864,
+      "change": "Hong Jin's body is cut cleanly, with blood spurting from the severed cross-section -> possible lasting loss of a body part; the evidence does not say whose body or which part",
+      "cause": "severing injury",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 864,
+      "change": "Hong Jin's body is cut cleanly, with blood spurting from the severed cross-section -> possible lasting loss of a body part; the evidence does not say whose body or which part",
+      "cause": "severing injury",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 139,
-      "description": "Hong Jin is a man who looks mature, about a decade older than a youthful, androgynous person. His face is powdered white and his lips are tinted with makeup. He wears navy garments embroidered with ornate patterns. Tags: male, mature appearance, white powdered face, tinted lips, navy garments, ornate embroidery",
+      "description": "Hong Jin is a mature-looking man, visibly older than a youthful type, with his face powdered white and something applied to his lips (makeup). He wears navy garments embroidered with ornate patterns. Tags: male, mature appearance, white-powdered face, lip makeup, navy garments, ornate embroidery",
       "used": [
         0,
         1,
@@ -59,17 +115,25 @@
     }
   ],
   "lines": [
-    "- **Appearance (from ch 139):** Hong Jin is a man who looks mature, about a decade older than a youthful, androgynous person. His face is powdered white and his lips are tinted with makeup. He wears navy garments embroidered with ornate patterns. Tags: male, mature appearance, white powdered face, tinted lips, navy garments, ornate embroidery"
+    "- **Appearance (from ch 139):** Hong Jin is a mature-looking man, visibly older than a youthful type, with his face powdered white and something applied to his lips (makeup). He wears navy garments embroidered with ornate patterns. Tags: male, mature appearance, white-powdered face, lip makeup, navy garments, ornate embroidery"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.010736899999999999
+      "cost_usd": 0.0213867
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0226763
+      "cost_usd": 0.0165462
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0157691
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0242397
     }
   ]
 }

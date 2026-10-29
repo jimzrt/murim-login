@@ -9,7 +9,76 @@
   "chapter_count": 98,
   "first_chapter": 284,
   "profile_safe_through": 843,
-  "passages": [],
+  "passages": [
+    [
+      284,
+      36
+    ],
+    [
+      284,
+      46
+    ],
+    [
+      284,
+      26
+    ],
+    [
+      286,
+      44
+    ],
+    [
+      299,
+      75
+    ],
+    [
+      416,
+      67
+    ],
+    [
+      418,
+      32
+    ],
+    [
+      431,
+      68
+    ],
+    [
+      558,
+      67
+    ],
+    [
+      559,
+      39
+    ],
+    [
+      559,
+      45
+    ],
+    [
+      559,
+      28
+    ],
+    [
+      561,
+      70
+    ],
+    [
+      569,
+      45
+    ],
+    [
+      578,
+      44
+    ],
+    [
+      578,
+      74
+    ],
+    [
+      594,
+      89
+    ]
+  ],
   "facts": [
     {
       "attribute": "eyes",
@@ -76,10 +145,11 @@
       "quote": "인상이 더 음울해졌다면 수군거렸지만",
       "marker": false,
       "verdict": {
+        "subject": "석고준",
         "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Describes Seok Gojun (subordinate), not Lee Jungryong; Lee only observes."
+        "reason": "Look (dark eyes, gloomier impression) belongs to Seok Gojun, Lee Jungryong's subordinate, not Lee Jungryong."
       },
       "status": "rejected"
     },
@@ -91,10 +161,11 @@
       "quote": "안 그래도 딱딱하던 인상이 더 음울해졌다면",
       "marker": false,
       "verdict": {
+        "subject": "석고준",
         "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Stiff impression belongs to Seok Gojun, not Lee Jungryong."
+        "reason": "Stiff, gloomy impression is Seok Gojun's; Lee Jungryong only appears as the one holding a different opinion."
       },
       "status": "rejected"
     },
@@ -116,24 +187,45 @@
   ],
   "judgments": {
     "405|인상이더음울해졌다면수군거렸지만": {
+      "subject": "석고준",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Describes Seok Gojun (subordinate), not Lee Jungryong; Lee only observes."
+      "reason": "Look (dark eyes, gloomier impression) belongs to Seok Gojun, Lee Jungryong's subordinate, not Lee Jungryong."
     },
     "405|안그래도딱딱하던인상이더음울해졌다면": {
+      "subject": "석고준",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Stiff impression belongs to Seok Gojun, not Lee Jungryong."
+      "reason": "Stiff, gloomy impression is Seok Gojun's; Lee Jungryong only appears as the one holding a different opinion."
     }
   },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 559,
+      "change": "alive Lee Jungryong -> dead (funeral held); no lasting appearance change shown",
+      "cause": "killed by Jin Taekyung",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 559,
+      "change": "alive Lee Jungryong -> dead (funeral held); no lasting appearance change shown",
+      "cause": "killed by Jin Taekyung",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 284,
-      "description": "Lee Jungryong is a male who looks like a handsome middle-aged man, with a habitually expressionless, mechanical-looking, stiff and hard-set face. His eyes are deep-set, sunken, dark and calm, glinting with an indecipherable light. Tags: male, handsome middle-aged man, expressionless face, mechanical look, stiff hard features, deep-set sunken eyes, dark gaze, inscrutable eyes",
+      "description": "Lee Jungryong is a male who looks like a handsome middle-aged man, with a stiff, hard-set, habitually expressionless face that looks mechanical. His eyes are deep-set, dark and sunken, with a calm, inscrutable gaze that sometimes glints with a strange light. Tags: male, handsome middle-aged look, expressionless face, stiff hard features, deep-set sunken eyes, dark gaze",
       "used": [
         0,
         1,
@@ -147,17 +239,33 @@
     }
   ],
   "lines": [
-    "- **Appearance (from ch 284):** Lee Jungryong is a male who looks like a handsome middle-aged man, with a habitually expressionless, mechanical-looking, stiff and hard-set face. His eyes are deep-set, sunken, dark and calm, glinting with an indecipherable light. Tags: male, handsome middle-aged man, expressionless face, mechanical look, stiff hard features, deep-set sunken eyes, dark gaze, inscrutable eyes"
+    "- **Appearance (from ch 284):** Lee Jungryong is a male who looks like a handsome middle-aged man, with a stiff, hard-set, habitually expressionless face that looks mechanical. His eyes are deep-set, dark and sunken, with a calm, inscrutable gaze that sometimes glints with a strange light. Tags: male, handsome middle-aged look, expressionless face, stiff hard features, deep-set sunken eyes, dark gaze"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.016989099999999997
+      "cost_usd": 0.0193348
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0214874
+      "cost_usd": 0.0151781
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0164642
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.014794700000000001
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.022334800000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0231698
     }
   ]
 }

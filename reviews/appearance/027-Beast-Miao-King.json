@@ -9,7 +9,100 @@
   "chapter_count": 78,
   "first_chapter": 507,
   "profile_safe_through": 1140,
-  "passages": [],
+  "passages": [
+    [
+      638,
+      66
+    ],
+    [
+      639,
+      40
+    ],
+    [
+      639,
+      75
+    ],
+    [
+      639,
+      35
+    ],
+    [
+      639,
+      61
+    ],
+    [
+      645,
+      39
+    ],
+    [
+      667,
+      73
+    ],
+    [
+      679,
+      84
+    ],
+    [
+      686,
+      58
+    ],
+    [
+      686,
+      53
+    ],
+    [
+      687,
+      152
+    ],
+    [
+      687,
+      53
+    ],
+    [
+      687,
+      32
+    ],
+    [
+      704,
+      85
+    ],
+    [
+      704,
+      71
+    ],
+    [
+      707,
+      38
+    ],
+    [
+      707,
+      29
+    ],
+    [
+      707,
+      86
+    ],
+    [
+      707,
+      77
+    ],
+    [
+      714,
+      58
+    ],
+    [
+      714,
+      47
+    ],
+    [
+      718,
+      51
+    ],
+    [
+      719,
+      40
+    ]
+  ],
   "facts": [
     {
       "attribute": "beard",
@@ -60,12 +153,54 @@
     },
     {
       "attribute": "hair",
+      "kind": "base",
+      "fact": "Had thick, abundant hair before the acid damage",
+      "chapter": 638,
+      "quote": "풍성하던 머리카락은 점액질에 거의 다 녹아내린 뒤다",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "hair",
       "fact": "Originally had thick, voluminous hair",
       "chapter": 638,
       "quote": "풍성하던 머리카락",
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "hair",
+      "kind": "change",
+      "fact": "Hair mostly dissolved by slime/acid; crown left bald and shiny like an octopus",
+      "chapter": 639,
+      "quote": "잘려나간 야수묘왕의 정수리는 막 뭍으로 올라온 문어처럼 번쩍 빛나고 있었다",
+      "marker": true,
+      "verdict": {
+        "subject": "야수묘왕",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Named; crown cut off by webs/acid, hair gone, now bald and shiny. Stated as present fact, a visible drastic hair loss; no sign of immediate regrowth."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "hair",
+      "kind": "change",
+      "fact": "Crown of head left bald and shiny like an octopus after acid spit and spider webs cut his hair",
+      "chapter": 639,
+      "quote": "산성을 듬뿍 머금은 천년지주들의 가래 세례와 거미줄에 의해 잘려나간 야수묘왕의 정수리는 막 뭍으로 올라온 문어처럼 번쩍 빛나고 있었다",
+      "marker": true,
+      "verdict": {
+        "subject": "야수묘왕",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same passage: named 야수묘왕's crown is bald and shiny after hair cut away; octopus comparison describes the shine, but baldness is literal."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "build",
@@ -76,6 +211,38 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Lost one arm to Jin Taekyung's strike (subject inferred from context; may be another character)",
+      "chapter": 704,
+      "quote": "한쪽 팔과 함께 상당한 힘을 잃어버렸다",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Arm lost by 남천마후 (she is the one frightened by Jin Taekyung's strike), not Beast Miao King."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "missing limb",
+      "kind": "change",
+      "fact": "Lost one arm to Jin Taegyeong's strike (subject inferred from context)",
+      "chapter": 704,
+      "quote": "그로 인해 한쪽 팔과 함께 상당한 힘을 잃어버렸다",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Same: the arm loss belongs to 남천마후, viewpoint character; 야수묘왕 is a separate person who appears."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "build",
@@ -96,6 +263,22 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "body injury",
+      "kind": "change",
+      "fact": "One arm gone and flank torn away by someone's strike (subject inferred from context)",
+      "chapter": 707,
+      "quote": "누군가의 일격에 한쪽 팔이 사라지고, 옆구리가 뜯겨 나가기 전까지는.",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Arm gone and flank torn belong to 남천마후 (the 그녀 contrasted with 야수묘왕), struck by 진태경."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "build",
@@ -119,52 +302,160 @@
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
-  "judgments": {},
+  "rejected": [
+    10,
+    11,
+    14
+  ],
+  "judgments": {
+    "639|잘려나간야수묘왕의정수리는막뭍으로올라온문어처럼번쩍빛나고있었다": {
+      "subject": "야수묘왕",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Named; crown cut off by webs/acid, hair gone, now bald and shiny. Stated as present fact, a visible drastic hair loss; no sign of immediate regrowth."
+    },
+    "639|산성을듬뿍머금은천년지주들의가래세례와거미줄에의해잘려나간야수묘왕의정수리는막뭍으로올라온문어처럼번쩍빛나고있었다": {
+      "subject": "야수묘왕",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same passage: named 야수묘왕's crown is bald and shiny after hair cut away; octopus comparison describes the shine, but baldness is literal."
+    },
+    "704|한쪽팔과함께상당한힘을잃어버렸다": {
+      "subject": "남천마후",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Arm lost by 남천마후 (she is the one frightened by Jin Taekyung's strike), not Beast Miao King."
+    },
+    "704|그로인해한쪽팔과함께상당한힘을잃어버렸다": {
+      "subject": "남천마후",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same: the arm loss belongs to 남천마후, viewpoint character; 야수묘왕 is a separate person who appears."
+    },
+    "707|누군가의일격에한쪽팔이사라지고,옆구리가뜯겨나가기전까지는.": {
+      "subject": "남천마후",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Arm gone and flank torn belong to 남천마후 (the 그녀 contrasted with 야수묘왕), struck by 진태경."
+    }
+  },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 639,
+      "change": "full head of hair -> bald crown (top of head shaved by spider webs/acid spit, shiny like an octopus)",
+      "cause": "injury from acid spit and webs of thousand-year spiders",
+      "sure": false
+    },
+    {
+      "chapter": 687,
+      "change": "revealed that the Yi chieftain Heugung (thin middle-aged man) is secretly the Beast Miao King; he alternates between the two bodies",
+      "cause": "Bone-Shrinking Technique at Great Completion (reversible disguise-like transformation)",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 639,
+      "change": "full head of hair -> bald crown (top of head shaved by spider webs/acid spit, shiny like an octopus)",
+      "cause": "injury from acid spit and webs of thousand-year spiders",
+      "sure": false,
+      "facts": [
+        7,
+        8
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 687,
+      "change": "revealed that the Yi chieftain Heugung (thin middle-aged man) is secretly the Beast Miao King; he alternates between the two bodies",
+      "cause": "Bone-Shrinking Technique at Great Completion (reversible disguise-like transformation)",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 507,
-      "description": "Beast Miao King is a middle-aged man with a huge, towering, burly frame, as massive as a mountain ridge or an iron tower, and large fists. He has half-grey (salt-and-pepper) hair and a wild beard like a beast's mane. Tags: male, middle-aged, huge, towering, burly, bulky, large fists, half-grey hair, salt-and-pepper hair, wild mane-like beard",
+      "description": "Beast Miao King is a huge, burly, imposing man with a large bulky frame and big fists. He has thick, abundant, voluminous hair and a beard like a wild beast's mane. Tags: male, huge, burly, bulky, large fists, thick voluminous hair, wild mane-like beard",
       "used": [
         0,
         1,
         2,
         3,
         4,
-        6,
-        7,
-        8
+        6
       ],
       "difference": ""
+    },
+    {
+      "start": 639,
+      "description": "Beast Miao King is a huge, middle-aged, burly man with a towering, mountain-ridge-like frame, like an iron tower, and big fists. After acid spit and spider webs, the crown of his head is bald and shiny like an octopus, with the rest of his hair mostly dissolved and half-grey. He has a beard like a wild beast's mane. Tags: male, middle-aged, huge, towering, burly, large fists, bald shiny crown, half-grey hair, wild mane-like beard",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        12,
+        13
+      ],
+      "difference": "thick full head of hair -> bald, shiny crown with the remaining hair half-grey (acid spit and spider webs)"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 507):** Beast Miao King is a middle-aged man with a huge, towering, burly frame, as massive as a mountain ridge or an iron tower, and large fists. He has half-grey (salt-and-pepper) hair and a wild beard like a beast's mane. Tags: male, middle-aged, huge, towering, burly, bulky, large fists, half-grey hair, salt-and-pepper hair, wild mane-like beard"
+    "- **Appearance (ch 507–638):** Beast Miao King is a huge, burly, imposing man with a large bulky frame and big fists. He has thick, abundant, voluminous hair and a beard like a wild beast's mane. Tags: male, huge, burly, bulky, large fists, thick voluminous hair, wild mane-like beard",
+    "- **Appearance (from ch 639):** Beast Miao King is a huge, middle-aged, burly man with a towering, mountain-ridge-like frame, like an iron tower, and big fists. After acid spit and spider webs, the crown of his head is bald and shiny like an octopus, with the rest of his hair mostly dissolved and half-grey. He has a beard like a wild beast's mane. Tags: male, middle-aged, huge, towering, burly, large fists, bald shiny crown, half-grey hair, wild mane-like beard"
   ],
   "omitted": [
     {
       "index": 5,
-      "reason": "'Originally had' thick hair implies a later loss. That is an event, and it has no APPROVED-CHANGE flag. Hair is described by fact 8."
+      "reason": "Describes the acid damage event and is not marked APPROVED-CHANGE. Fact 6 already gives the original thick hair."
     },
     {
-      "index": 9,
-      "reason": "Describes a boyhood look. It is a past age with no APPROVED-CHANGE, and the base look is the adult one."
+      "index": 15,
+      "reason": "Describes his look as a boy in a past scene (backstory), not a current look."
     },
     {
-      "index": 10,
-      "reason": "Only a momentary expressionless face. It is not a lasting trait and gives no age."
+      "index": 16,
+      "reason": "No lasting visual trait and no age info; only a momentary stone-still expression."
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.019012300000000003
+      "cost_usd": 0.021220400000000004
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0285111
+      "cost_usd": 0.0251394
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.019515900000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.022334200000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0260176
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0355188
     }
   ]
 }

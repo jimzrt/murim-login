@@ -9,7 +9,60 @@
   "chapter_count": 59,
   "first_chapter": 17,
   "profile_safe_through": 879,
-  "passages": [],
+  "passages": [
+    [
+      679,
+      84
+    ],
+    [
+      680,
+      84
+    ],
+    [
+      680,
+      71
+    ],
+    [
+      680,
+      53
+    ],
+    [
+      680,
+      42
+    ],
+    [
+      684,
+      65
+    ],
+    [
+      703,
+      64
+    ],
+    [
+      703,
+      54
+    ],
+    [
+      703,
+      59
+    ],
+    [
+      703,
+      66
+    ],
+    [
+      704,
+      85
+    ],
+    [
+      707,
+      86
+    ],
+    [
+      707,
+      77
+    ]
+  ],
   "facts": [
     {
       "attribute": "eyes",
@@ -68,12 +121,7 @@
       "chapter": 642,
       "quote": "물론 덩치는 리트리버 열 마리를 합쳐 놓은 것 같지만.",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Narrator describes White Tiger's body as huge, like ten retrievers; the retriever comparison is a joke about behavior, but the size claim is meant literally."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -134,10 +182,11 @@
       "quote": "거대한 백호",
       "marker": true,
       "verdict": {
+        "subject": "White Tiger",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Giant white tiger collapsed, panting; literal present, no lasting change."
+        "reason": "Giant white tiger is his beast form, shown as ordinary present state, not a new lasting change."
       },
       "status": "kept"
     },
@@ -149,10 +198,11 @@
       "quote": "썩은 통나무처럼 쓰러져 숨을 헐떡이는 거대한 백호",
       "marker": true,
       "verdict": {
+        "subject": "White Tiger",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Giant white tiger lies defeated; ordinary description."
+        "reason": "Same as 0: giant tiger form, a described state, not a new lasting change."
       },
       "status": "kept"
     },
@@ -193,13 +243,24 @@
       "chapter": 696,
       "quote": "비교적 작은 덩치를 지닌 또 다른 백호",
       "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Suddenly aged again; old age returned",
+      "chapter": 703,
+      "quote": "갑작스럽게 돌아온 노화",
+      "marker": true,
       "verdict": {
-        "this_character": true,
+        "subject": "남천마후",
+        "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "A second, smaller white tiger walks toward them with a woman on its back; it is a different tiger, but still a white tiger with a smaller frame."
+        "reason": "The sudden aging belongs to Namcheon Mahu, not White Tiger."
       },
-      "status": "kept"
+      "status": "rejected"
     },
     {
       "attribute": "build",
@@ -208,13 +269,56 @@
       "chapter": 704,
       "quote": "거대한 백호의 몸뚱어리",
       "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Lost one arm",
+      "chapter": 707,
+      "quote": "한쪽 팔을 잃은 데다",
+      "marker": true,
       "verdict": {
-        "this_character": true,
+        "subject": "남천마후",
+        "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "A young man leans against the body of a giant white tiger; the size is stated literally, though riding is not shown in this scene."
+        "reason": "The lost arm belongs to Namcheon Mahu, not White Tiger."
       },
-      "status": "kept"
+      "status": "rejected"
+    },
+    {
+      "attribute": "age",
+      "kind": "change",
+      "fact": "Now an old woman, having lost the once-unmatched beauty",
+      "chapter": 707,
+      "quote": "세상 그 누구보다 아름다웠던 모습을 잃어버린 채",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The old woman who lost her beauty is Namcheon Mahu, not White Tiger."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "gender",
+      "kind": "change",
+      "fact": "Appears as an elderly woman (crone)",
+      "chapter": 707,
+      "quote": "노파의 공허한 눈빛",
+      "marker": true,
+      "verdict": {
+        "subject": "남천마후",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The crone is Namcheon Mahu, not White Tiger."
+      },
+      "status": "rejected"
     },
     {
       "attribute": "build",
@@ -223,12 +327,7 @@
       "chapter": 707,
       "quote": "거대한 백호의 등 위에",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "A giant white tiger stands with a person on its back, so its size is literal and the person is seated on it."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -259,10 +358,11 @@
       "quote": "청백색의 눈동자로 주위를 둘러보았다",
       "marker": false,
       "verdict": {
+        "subject": "백호",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": false,
-        "reason": "White tiger now huge and powerful, blue-white eyes; gradual growth over time, not a sudden drastic change in scene."
+        "lasting_change": true,
+        "reason": "Explicitly the white tiger; now huge, powerful, with blue-white eyes, shown as grown beyond cub/ordinary tiger, a lasting growth revealed here."
       },
       "status": "kept"
     },
@@ -274,10 +374,11 @@
       "quote": "더 이상 새끼라 보기에도, 평범한 호랑이라 부르기에도 너무나 거대해지고",
       "marker": false,
       "verdict": {
+        "subject": "백호",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": false,
-        "reason": "Same line; huge size described as present state after time passed, not a discrete drastic transformation."
+        "lasting_change": true,
+        "reason": "Same line; the white tiger has grown far too huge to be a cub or ordinary tiger, a drastic lasting size change revealed in this passage."
       },
       "status": "kept"
     },
@@ -293,91 +394,86 @@
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
+  "rejected": [
+    17,
+    19,
+    20,
+    21
+  ],
   "judgments": {
-    "642|물론덩치는리트리버열마리를합쳐놓은것같지만.": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Narrator describes White Tiger's body as huge, like ten retrievers; the retriever comparison is a joke about behavior, but the size claim is meant literally."
-    },
     "687|거대한백호": {
+      "subject": "White Tiger",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Giant white tiger collapsed, panting; literal present, no lasting change."
+      "reason": "Giant white tiger is his beast form, shown as ordinary present state, not a new lasting change."
     },
     "687|썩은통나무처럼쓰러져숨을헐떡이는거대한백호": {
+      "subject": "White Tiger",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Giant white tiger lies defeated; ordinary description."
+      "reason": "Same as 0: giant tiger form, a described state, not a new lasting change."
     },
-    "696|비교적작은덩치를지닌또다른백호": {
-      "this_character": true,
+    "703|갑작스럽게돌아온노화": {
+      "subject": "남천마후",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "A second, smaller white tiger walks toward them with a woman on its back; it is a different tiger, but still a white tiger with a smaller frame."
+      "reason": "The sudden aging belongs to Namcheon Mahu, not White Tiger."
     },
-    "704|거대한백호의몸뚱어리": {
-      "this_character": true,
+    "707|한쪽팔을잃은데다": {
+      "subject": "남천마후",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "A young man leans against the body of a giant white tiger; the size is stated literally, though riding is not shown in this scene."
+      "reason": "The lost arm belongs to Namcheon Mahu, not White Tiger."
     },
-    "707|거대한백호의등위에": {
-      "this_character": true,
+    "707|세상그누구보다아름다웠던모습을잃어버린채": {
+      "subject": "남천마후",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "A giant white tiger stands with a person on its back, so its size is literal and the person is seated on it."
+      "reason": "The old woman who lost her beauty is Namcheon Mahu, not White Tiger."
+    },
+    "707|노파의공허한눈빛": {
+      "subject": "남천마후",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The crone is Namcheon Mahu, not White Tiger."
     },
     "712|청백색의눈동자로주위를둘러보았다": {
+      "subject": "백호",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": false,
-      "reason": "White tiger now huge and powerful, blue-white eyes; gradual growth over time, not a sudden drastic change in scene."
+      "lasting_change": true,
+      "reason": "Explicitly the white tiger; now huge, powerful, with blue-white eyes, shown as grown beyond cub/ordinary tiger, a lasting growth revealed here."
     },
     "712|더이상새끼라보기에도,평범한호랑이라부르기에도너무나거대해지고": {
+      "subject": "백호",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": false,
-      "reason": "Same line; huge size described as present state after time passed, not a discrete drastic transformation."
+      "lasting_change": true,
+      "reason": "Same line; the white tiger has grown far too huge to be a cub or ordinary tiger, a drastic lasting size change revealed in this passage."
     }
   },
-  "conflicts": [
-    {
-      "attribute": "build/size",
-      "indices": [
-        5,
-        11,
-        12,
-        16,
-        17,
-        18,
-        21,
-        22
-      ],
-      "kept": [
-        11,
-        12,
-        17,
-        18
-      ],
-      "resolved": true,
-      "reason": "Giant/huge tiger, rideable, repeated across 4 facts and several chapters; the smaller-frame (16), retriever-comparison (5) and grown-too-big (21, 22) outliers dropped"
-    }
-  ],
+  "conflicts": [],
   "unused": [],
+  "timeline_events": [],
+  "timeline": [],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 17,
-      "description": "White Tiger is a giant white tiger, large enough to carry a rider on its back, with a snow-white mane and fluffy silvery-white fur. Pale blue-white eyes, large sharp fangs. Tags: giant white tiger, snow-white mane, silvery-white fluffy fur, pale blue-white eyes, large sharp fangs",
+      "description": "White Tiger is a giant white tiger with a huge body, about ten retrievers' worth of bulk and big enough to carry a person on its back. It has fluffy, pure-white fur bright enough to be called silver, a snow-white mane, and pale blue-white eyes. Large, sharp fangs. Tags: giant white tiger, huge body, rideable size, silvery-white fluffy fur, snow-white mane, pale blue-white eyes, large sharp fangs",
       "used": [
         0,
         1,
         2,
         3,
         4,
+        5,
         6,
         7,
         8,
@@ -388,27 +484,56 @@
         13,
         14,
         15,
-        17,
         18,
-        19,
-        20,
-        23
+        22,
+        23,
+        24,
+        27
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 17):** White Tiger is a giant white tiger, large enough to carry a rider on its back, with a snow-white mane and fluffy silvery-white fur. Pale blue-white eyes, large sharp fangs. Tags: giant white tiger, snow-white mane, silvery-white fluffy fur, pale blue-white eyes, large sharp fangs"
+    "- **Appearance (from ch 17):** White Tiger is a giant white tiger with a huge body, about ten retrievers' worth of bulk and big enough to carry a person on its back. It has fluffy, pure-white fur bright enough to be called silver, a snow-white mane, and pale blue-white eyes. Large, sharp fangs. Tags: giant white tiger, huge body, rideable size, silvery-white fluffy fur, snow-white mane, pale blue-white eyes, large sharp fangs"
   ],
-  "omitted": [],
+  "omitted": [
+    {
+      "index": 16,
+      "reason": "Describes a different, smaller white tiger, not this character"
+    },
+    {
+      "index": 25,
+      "reason": "Eye colour is already covered by other facts. Its growth part is a non-approved change of form."
+    },
+    {
+      "index": 26,
+      "reason": "Describes growing out of cub size. That is a non-approved change event, so it stays out of the description."
+    }
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.022128500000000002
+      "cost_usd": 0.0210576
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0334608
+      "cost_usd": 0.021346900000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.025182600000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.029244
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0224907
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0332625
     }
   ]
 }

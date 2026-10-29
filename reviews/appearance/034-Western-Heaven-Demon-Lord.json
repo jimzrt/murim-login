@@ -9,22 +9,302 @@
   "chapter_count": 70,
   "first_chapter": 347,
   "profile_safe_through": 1095,
-  "passages": [],
+  "passages": [
+    [
+      347,
+      71
+    ],
+    [
+      347,
+      82
+    ],
+    [
+      347,
+      70
+    ],
+    [
+      347,
+      37
+    ],
+    [
+      348,
+      26
+    ],
+    [
+      352,
+      17
+    ],
+    [
+      352,
+      44
+    ],
+    [
+      357,
+      13
+    ],
+    [
+      357,
+      51
+    ],
+    [
+      357,
+      58
+    ],
+    [
+      358,
+      30
+    ],
+    [
+      358,
+      43
+    ],
+    [
+      361,
+      27
+    ],
+    [
+      362,
+      27
+    ],
+    [
+      364,
+      36
+    ],
+    [
+      364,
+      72
+    ],
+    [
+      364,
+      35
+    ],
+    [
+      365,
+      73
+    ],
+    [
+      368,
+      75
+    ],
+    [
+      412,
+      78
+    ],
+    [
+      485,
+      41
+    ],
+    [
+      684,
+      65
+    ],
+    [
+      702,
+      63
+    ],
+    [
+      704,
+      85
+    ],
+    [
+      704,
+      71
+    ],
+    [
+      714,
+      58
+    ],
+    [
+      714,
+      47
+    ],
+    [
+      839,
+      18
+    ],
+    [
+      841,
+      22
+    ],
+    [
+      841,
+      34
+    ],
+    [
+      844,
+      95
+    ],
+    [
+      887,
+      31
+    ],
+    [
+      891,
+      80
+    ],
+    [
+      1034,
+      79
+    ],
+    [
+      1049,
+      83
+    ]
+  ],
   "facts": [
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Lost one arm, became one-armed",
+      "chapter": 347,
+      "quote": "한쪽 팔마저 잃어야 했으니까.",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Context names the 중년인 as Western Heaven Demon Lord (item 5 confirms); lost an arm subduing Poison King, stays lost; revealed here."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Has lost an arm; cannot attack alone",
+      "chapter": 347,
+      "quote": "팔을 잃은 지금 단신으로 쳐들어가기에는 제아무리 중년인이라 해도 무리였다.",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "'팔을 잃은 지금' states current one-armed state; the middle-aged man is Western Heaven Demon Lord; the loss is first shown in this chapter."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Middle-aged man",
+      "chapter": 347,
+      "quote": "금방이라도 꺼질 듯한 사내의 눈동자를 바라보던 중년인이 혀를 찼다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Lost one arm fighting Poison King, now one-armed",
+      "chapter": 347,
+      "quote": "한쪽 팔마저 잃어야 했으니까",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Lost an arm resisting the Poison King; stated as fact and permanent."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Arm lost; one-armed",
+      "chapter": 347,
+      "quote": "팔을 잃은 지금 단신으로 쳐들어가기에는",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "'팔을 잃은 지금' is the current state; the arm loss is revealed here."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Middle-aged man",
+      "chapter": 347,
+      "quote": "제아무리 중년인이라 해도 무리였다",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The look is 'middle-aged' (중년인), an ordinary unchanged description. The arm loss is covered in other items."
+      },
+      "status": "kept"
+    },
     {
       "attribute": "limbs",
       "kind": "change",
       "fact": "Missing one arm",
       "chapter": 348,
       "quote": "송구하오나 한쪽 팔이",
-      "marker": false,
+      "marker": true,
       "verdict": {
+        "subject": "서천마군",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Named; his empty sleeve is confirmed and he says he paid for it with two lives. The arm is lost for good."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Known as one-armed (arm lost to Poison King Dang Samun)",
+      "chapter": 352,
+      "quote": "“독왕 당사문. 명불허전이었네. 솔직히 감탄했어. 한쪽 팔도 그때 잃어버렸지.”",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Characters note his empty sleeve; one arm missing is a present, literal description. Not a change occurring in this scene (loss happened earlier)."
+        "reason": "Speaker (middle-aged man, Western Heaven Demon Lord) recounts arm lost earlier; backstory, no change shown here (he has a left fist now)."
       },
       "status": "kept"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Known as one-armed after losing arm to Poison King",
+      "chapter": 352,
+      "quote": "한쪽 팔도 그때 잃어버렸지.",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Past loss recounted in dialogue; arm already regained, no new change in this passage."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Had been one-armed until about ten days earlier; the arm is now restored and moves naturally",
+      "chapter": 358,
+      "quote": "불과 열흘 전까지 외팔이였다는 것이 믿기지 않을 만큼 자연스러운 움직임이었다.",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Raises arm that moves naturally though one-armed ten days ago; restored arm revealed here as present state."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "face",
@@ -56,66 +336,434 @@
       "status": "kept"
     },
     {
+      "attribute": "wrist",
+      "kind": "change",
+      "fact": "Wrist twisted and crushed, as if wrung by a giant, gripped by Jin Taekyung",
+      "chapter": 364,
+      "quote": "거인에게 쥐어짜인 것처럼 비틀린 손목",
+      "marker": false,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Wrist twisted by Jin Taekyung's grip in the fight; injury, not clearly lasting or drastic look change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "wrist",
+      "kind": "change",
+      "fact": "Wrist twisted/crushed as if wrung by a giant, gripped by Jin Taekyung",
+      "chapter": 364,
+      "quote": "거인에게 쥐어짜인 것처럼 비틀린 손목과 그것을 갈고리처럼 옭아맨 한 청년이었다.",
+      "marker": false,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Same passage as 3; the wrist is wrung in the fight, with no stated lasting change."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Lost one arm while killing Poison King during the Sichuan bloodbath",
+      "chapter": 485,
+      "quote": "사천혈사 당시 서천마군은 독왕을 처치하는 대가로 한쪽 팔을 내놓아야 했다.",
+      "marker": true,
+      "verdict": {
+        "subject": "서천마군",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Recollection of the past arm loss during the Sichuan bloodbath; it later turned out he had a new arm. Backstory, not a present look or new change."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "missing limb",
       "kind": "change",
       "fact": "Lost one arm as the price for killing the Poison King during the Sichuan Blood Incident.",
       "chapter": 485,
       "quote": "서천마군은 독왕을 처치하는 대가로 한쪽 팔을 내놓아야 했다.",
-      "marker": false,
+      "marker": true,
       "verdict": {
+        "subject": "서천마군",
         "this_character": true,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Narrator recalls past event (Sichuan Blood Incident); later he has a new arm, so the missing arm is backstory, not present."
+        "reason": "Lost an arm as the price for killing Poison King; stated as real past event with lasting loss (later he has a new arm, which the narrator finds suspicious)."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Arm lost; Dark Heaven sorcerers expected to be able to restore it",
+      "chapter": 684,
+      "quote": "목숨이나 다름없는 팔을 잃었다지만",
+      "marker": true,
+      "verdict": {
+        "subject": "대설귀",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Arm-loss belongs to Great Snow Ghost (대설귀), not Western Heaven Demon Lord."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Wrist severed cleanly; his arm is slender, surprisingly so for a powerful monster",
+      "chapter": 702,
+      "quote": "가느다란 팔목이 깨끗이 잘려 나감과 동시에 비명이 터져 나왔다.",
+      "marker": false,
+      "verdict": {
+        "subject": "unnamed (monster)",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The severed wrist belongs to an unnamed powerful monster, and the context doesn't make it explicit that this is Western Heaven Demon Lord."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "arms",
+      "kind": "change",
+      "fact": "Both arms intact again after an earlier arm was severed by purple qi; regrown stronger",
+      "chapter": 844,
+      "quote": "시선을 내리니 멀쩡히 붙어 있는 두 팔이 보인다.",
+      "marker": true,
+      "verdict": {
+        "subject": "혈주",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Belongs to Blood Lord (혈주), not Western Heaven Demon Lord."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Limbs severed; dark energy oozes from the cut stumps like differently coloured blood",
+      "chapter": 1034,
+      "quote": "사지가 잘려 나간 단면에서 뭉클뭉클 솟아오르는 어둠의 기운은 색이 다른 핏물과도 같았고",
+      "marker": true,
+      "verdict": {
+        "subject": "흑귀들",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Severed limbs belong to the black ghosts (흑귀), not Western Heaven Demon Lord."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "arm",
+      "kind": "change",
+      "fact": "Lost one arm; leg tendons cut and bones crushed",
+      "chapter": 1049,
+      "quote": "한쪽 팔을 잃고, 다리의 힘줄이 잘려 나가고, 뼈마디가 으스러졌음에도",
+      "marker": true,
+      "verdict": {
+        "subject": "혈검마군",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Injuries belong to Blood Sword Demon Lord (혈검마군), not Western Heaven Demon Lord."
       },
       "status": "rejected"
     }
   ],
   "dropped_facts": [],
   "rejected": [
-    4
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
   ],
   "judgments": {
-    "348|송구하오나한쪽팔이": {
+    "347|한쪽팔마저잃어야했으니까.": {
+      "subject": "서천마군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Context names the 중년인 as Western Heaven Demon Lord (item 5 confirms); lost an arm subduing Poison King, stays lost; revealed here."
+    },
+    "347|팔을잃은지금단신으로쳐들어가기에는제아무리중년인이라해도무리였다.": {
+      "subject": "서천마군",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Characters note his empty sleeve; one arm missing is a present, literal description. Not a change occurring in this scene (loss happened earlier)."
+      "reason": "'팔을 잃은 지금' states current one-armed state; the middle-aged man is Western Heaven Demon Lord; the loss is first shown in this chapter."
     },
-    "485|서천마군은독왕을처치하는대가로한쪽팔을내놓아야했다.": {
+    "347|한쪽팔마저잃어야했으니까": {
+      "subject": "서천마군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Lost an arm resisting the Poison King; stated as fact and permanent."
+    },
+    "347|팔을잃은지금단신으로쳐들어가기에는": {
+      "subject": "서천마군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "'팔을 잃은 지금' is the current state; the arm loss is revealed here."
+    },
+    "347|제아무리중년인이라해도무리였다": {
+      "subject": "서천마군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The look is 'middle-aged' (중년인), an ordinary unchanged description. The arm loss is covered in other items."
+    },
+    "348|송구하오나한쪽팔이": {
+      "subject": "서천마군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Named; his empty sleeve is confirmed and he says he paid for it with two lives. The arm is lost for good."
+    },
+    "352|“독왕당사문.명불허전이었네.솔직히감탄했어.한쪽팔도그때잃어버렸지.”": {
+      "subject": "서천마군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Speaker (middle-aged man, Western Heaven Demon Lord) recounts arm lost earlier; backstory, no change shown here (he has a left fist now)."
+    },
+    "352|한쪽팔도그때잃어버렸지.": {
+      "subject": "서천마군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Past loss recounted in dialogue; arm already regained, no new change in this passage."
+    },
+    "358|불과열흘전까지외팔이였다는것이믿기지않을만큼자연스러운움직임이었다.": {
+      "subject": "서천마군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Raises arm that moves naturally though one-armed ten days ago; restored arm revealed here as present state."
+    },
+    "364|거인에게쥐어짜인것처럼비틀린손목": {
+      "subject": "서천마군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Wrist twisted by Jin Taekyung's grip in the fight; injury, not clearly lasting or drastic look change."
+    },
+    "364|거인에게쥐어짜인것처럼비틀린손목과그것을갈고리처럼옭아맨한청년이었다.": {
+      "subject": "서천마군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Same passage as 3; the wrist is wrung in the fight, with no stated lasting change."
+    },
+    "485|사천혈사당시서천마군은독왕을처치하는대가로한쪽팔을내놓아야했다.": {
+      "subject": "서천마군",
       "this_character": true,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "Narrator recalls past event (Sichuan Blood Incident); later he has a new arm, so the missing arm is backstory, not present."
+      "reason": "Recollection of the past arm loss during the Sichuan bloodbath; it later turned out he had a new arm. Backstory, not a present look or new change."
+    },
+    "485|서천마군은독왕을처치하는대가로한쪽팔을내놓아야했다.": {
+      "subject": "서천마군",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Lost an arm as the price for killing Poison King; stated as real past event with lasting loss (later he has a new arm, which the narrator finds suspicious)."
+    },
+    "684|목숨이나다름없는팔을잃었다지만": {
+      "subject": "대설귀",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Arm-loss belongs to Great Snow Ghost (대설귀), not Western Heaven Demon Lord."
+    },
+    "702|가느다란팔목이깨끗이잘려나감과동시에비명이터져나왔다.": {
+      "subject": "unnamed (monster)",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The severed wrist belongs to an unnamed powerful monster, and the context doesn't make it explicit that this is Western Heaven Demon Lord."
+    },
+    "844|시선을내리니멀쩡히붙어있는두팔이보인다.": {
+      "subject": "혈주",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Belongs to Blood Lord (혈주), not Western Heaven Demon Lord."
+    },
+    "1034|사지가잘려나간단면에서뭉클뭉클솟아오르는어둠의기운은색이다른핏물과도같았고": {
+      "subject": "흑귀들",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Severed limbs belong to the black ghosts (흑귀), not Western Heaven Demon Lord."
+    },
+    "1049|한쪽팔을잃고,다리의힘줄이잘려나가고,뼈마디가으스러졌음에도": {
+      "subject": "혈검마군",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Injuries belong to Blood Sword Demon Lord (혈검마군), not Western Heaven Demon Lord."
     }
   },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 347,
+      "change": "two arms -> one-armed (lost an arm), middle-aged man",
+      "cause": "arm lost subduing Poison King Tang Taesang during the Sichuan bloodbath",
+      "sure": true
+    },
+    {
+      "chapter": 358,
+      "change": "one-armed -> arm restored, moves naturally",
+      "cause": "arm regained within ~10 days, apparently via Dark Heaven arts",
+      "sure": true
+    },
+    {
+      "chapter": 364,
+      "change": "intact wrist/ankle -> crushed ankle and wrist torn free",
+      "cause": "injuries from Jin Taekyung in the fight",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 347,
+      "change": "two arms -> one-armed (lost an arm), middle-aged man",
+      "cause": "arm lost subduing Poison King Tang Taesang during the Sichuan bloodbath",
+      "sure": true,
+      "facts": [
+        0,
+        3,
+        6
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 358,
+      "change": "one-armed -> arm restored, moves naturally",
+      "cause": "arm regained within ~10 days, apparently via Dark Heaven arts",
+      "sure": true,
+      "facts": [
+        9
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 364,
+      "change": "intact wrist/ankle -> crushed ankle and wrist torn free",
+      "cause": "injuries from Jin Taekyung in the fight",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 347,
-      "description": "Western Heaven Demon Lord is a male who looks like a common middle-aged man, with a plain, ordinary face and an unremarkable build. He is missing one arm. Tags: male, middle-aged, plain face, ordinary build, one-armed",
+      "description": "Western Heaven Demon Lord is a male middle-aged man, one-armed after losing an arm subduing the Poison King; one sleeve/shoulder side is empty. Tags: male, middle-aged, one-armed, missing arm",
       "used": [
         0,
         1,
         2,
-        3
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
       ],
-      "difference": ""
+      "difference": "arm count unknown (not described) -> one-armed middle-aged man"
+    },
+    {
+      "start": 358,
+      "description": "Western Heaven Demon Lord is a male common-looking middle-aged man with a plain, ordinary face and build. His lost arm is restored, and both arms move naturally. Tags: male, middle-aged, plain face, ordinary build, two arms, restored arm",
+      "used": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "difference": "one-armed -> missing arm restored, moves naturally"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 347):** Western Heaven Demon Lord is a male who looks like a common middle-aged man, with a plain, ordinary face and an unremarkable build. He is missing one arm. Tags: male, middle-aged, plain face, ordinary build, one-armed"
+    "- **Appearance (ch 347–357):** Western Heaven Demon Lord is a male middle-aged man, one-armed after losing an arm subduing the Poison King; one sleeve/shoulder side is empty. Tags: male, middle-aged, one-armed, missing arm",
+    "- **Appearance (from ch 358):** Western Heaven Demon Lord is a male common-looking middle-aged man with a plain, ordinary face and build. His lost arm is restored, and both arms move naturally. Tags: male, middle-aged, plain face, ordinary build, two arms, restored arm"
   ],
-  "omitted": [],
+  "omitted": [
+    {
+      "index": 13,
+      "reason": "Wrist injury event (ch364), not an approved lasting change"
+    },
+    {
+      "index": 14,
+      "reason": "Wrist injury event (ch364), not an approved lasting change"
+    }
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0156882
+      "cost_usd": 0.0182358
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0200034
+      "cost_usd": 0.025721099999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0217194
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0267518
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.024917
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.027622599999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0341556
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0318417
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0319492
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0276827
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.027631199999999998
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0380024
     }
   ]
 }

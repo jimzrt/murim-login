@@ -9,7 +9,68 @@
   "chapter_count": 47,
   "first_chapter": 866,
   "profile_safe_through": 1137,
-  "passages": [],
+  "passages": [
+    [
+      881,
+      148
+    ],
+    [
+      891,
+      80
+    ],
+    [
+      895,
+      95
+    ],
+    [
+      901,
+      41
+    ],
+    [
+      914,
+      44
+    ],
+    [
+      1066,
+      23
+    ],
+    [
+      1067,
+      24
+    ],
+    [
+      1067,
+      41
+    ],
+    [
+      1067,
+      94
+    ],
+    [
+      1067,
+      24
+    ],
+    [
+      1133,
+      56
+    ],
+    [
+      1135,
+      43
+    ],
+    [
+      1135,
+      51
+    ],
+    [
+      1135,
+      36
+    ],
+    [
+      1135,
+      52
+    ]
+  ],
   "facts": [
     {
       "attribute": "eyes",
@@ -26,12 +87,7 @@
       "chapter": 895,
       "quote": "어둠 속에서 마삼보의 눈동자가 번뜩였다",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Ma Sanbao's eyes gleam in the dark; ordinary, momentary description."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -40,12 +96,7 @@
       "chapter": 896,
       "quote": "마삼보의 눈동자에 깃든 불꽃이 일렁이고 있었다",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Flame in Ma Sanbao's eyes flickers; a figurative-leaning, momentary emotional description, not a lasting change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -54,84 +105,224 @@
       "chapter": 896,
       "quote": "마삼보의 눈동자가 형형하게 빛났다.",
       "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "skin",
+      "kind": "change",
+      "fact": "Body became a jiangshi/undead corpse form with severed limbs and decayed, rotting flesh",
+      "chapter": 1067,
+      "quote": "처참하게 잘려 나간 사지와 부패한 몸뚱어리.",
+      "marker": true,
       "verdict": {
+        "subject": "Ma Sanbao",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": false,
-        "reason": "Ma Sanbao's eyes shine brilliantly as he speaks; momentary, no lasting change."
+        "lasting_change": true,
+        "reason": "Clothes embroidered with two characters (name) identify the corpse monster as Ma Sanbao; severed limbs and rotting body shown as real current state, undead transformation."
       },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Left hand is half severed and stays that way after battle",
+      "chapter": 1135,
+      "quote": "반쯤 잘려 나간 왼손",
+      "marker": true,
+      "verdict": {
+        "subject": "Ma Sanbao",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Named; left hand half severed in battle, stated as real, and he fights on with it (a lasting injury)."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Body is jiangshi-like, with no blood flowing; flesh and bone fragments fall off when cut",
+      "chapter": 1135,
+      "quote": "이미 강시나 다름없는 몸에서 흘러나올 핏물은 없었다.",
+      "marker": true,
+      "verdict": {
+        "subject": "Ma Sanbao",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Next lines name Ma Sanbao; body is jiangshi-like with no blood, flesh and bone shed when cut. Literal state, not a simile, and a lasting transformation."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "left hand",
+      "kind": "change",
+      "fact": "Left hand is half severed",
+      "chapter": 1135,
+      "quote": "반쯤 잘려 나간 왼손을 뻗어 무영을 후려쳤다.",
+      "marker": true,
+      "verdict": {
+        "subject": "Ma Sanbao",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Named; left hand half severed, real injury that persists."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "lips",
+      "kind": "base",
+      "fact": "Lips are dry and withered",
+      "chapter": 1135,
+      "quote": "마삼보는 조용히 메마른 입술을 핥았다.",
+      "marker": false,
+      "verdict": null,
       "status": "kept"
     }
   ],
   "dropped_facts": [],
   "rejected": [],
   "judgments": {
-    "895|어둠속에서마삼보의눈동자가번뜩였다": {
+    "1067|처참하게잘려나간사지와부패한몸뚱어리.": {
+      "subject": "Ma Sanbao",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": false,
-      "reason": "Ma Sanbao's eyes gleam in the dark; ordinary, momentary description."
+      "lasting_change": true,
+      "reason": "Clothes embroidered with two characters (name) identify the corpse monster as Ma Sanbao; severed limbs and rotting body shown as real current state, undead transformation."
     },
-    "896|마삼보의눈동자에깃든불꽃이일렁이고있었다": {
+    "1135|반쯤잘려나간왼손": {
+      "subject": "Ma Sanbao",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": false,
-      "reason": "Flame in Ma Sanbao's eyes flickers; a figurative-leaning, momentary emotional description, not a lasting change."
+      "lasting_change": true,
+      "reason": "Named; left hand half severed in battle, stated as real, and he fights on with it (a lasting injury)."
     },
-    "896|마삼보의눈동자가형형하게빛났다.": {
+    "1135|이미강시나다름없는몸에서흘러나올핏물은없었다.": {
+      "subject": "Ma Sanbao",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": false,
-      "reason": "Ma Sanbao's eyes shine brilliantly as he speaks; momentary, no lasting change."
+      "lasting_change": true,
+      "reason": "Next lines name Ma Sanbao; body is jiangshi-like with no blood, flesh and bone shed when cut. Literal state, not a simile, and a lasting transformation."
+    },
+    "1135|반쯤잘려나간왼손을뻗어무영을후려쳤다.": {
+      "subject": "Ma Sanbao",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Named; left hand half severed, real injury that persists."
     }
   },
-  "conflicts": [
+  "conflicts": [],
+  "unused": [],
+  "timeline_events": [
     {
-      "attribute": "eyes (luminous quality)",
-      "indices": [
+      "chapter": 1067,
+      "change": "intact body -> severed limbs and decayed, rotting corpse-like body (undead jiangshi form, via White Illusion Jiangshi Art)",
+      "cause": "transformation into jiangshi / undead",
+      "sure": false
+    },
+    {
+      "chapter": 1135,
+      "change": "living body -> jiangshi-like body that bleeds nothing; left hand half severed and stays that way",
+      "cause": "jiangshi transformation plus battle injury",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 1067,
+      "change": "intact body -> severed limbs and decayed, rotting corpse-like body (undead jiangshi form, via White Illusion Jiangshi Art)",
+      "cause": "transformation into jiangshi / undead",
+      "sure": false,
+      "facts": [
+        4
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 1135,
+      "change": "living body -> jiangshi-like body that bleeds nothing; left hand half severed and stays that way",
+      "cause": "jiangshi transformation plus battle injury",
+      "sure": false,
+      "facts": [
+        5,
+        6,
+        7
+      ],
+      "verified": true
+    }
+  ],
+  "dismissed_events": [],
+  "ranges": [
+    {
+      "start": 866,
+      "description": "Ma Sanbao, a man whose eyes gleam brightly and fiercely, with flame-like glints burning in his pupils. Tags: male, fierce gleaming eyes, flame-like glints in pupils",
+      "used": [
+        0,
         1,
         2,
         3
       ],
-      "kept": [
-        3
-      ],
-      "resolved": true,
-      "reason": "Kept the clearest direct description of the eyes themselves (ch896 'shone fiercely'). 1 is a momentary flash in the dark, and 2 is a metaphorical flame."
-    }
-  ],
-  "unused": [],
-  "ranges": [
-    {
-      "start": 866,
-      "description": "Ma Sanbao is a male character whose eyes shine fiercely and brilliantly. No other look details are given. Tags: male, fierce shining eyes, brilliant gaze",
-      "used": [
-        3
-      ],
       "difference": ""
+    },
+    {
+      "start": 1067,
+      "description": "Ma Sanbao, a man remade into a jiangshi (undead) by the White Illusion Jiangshi Art, with severed limbs and a decayed, rotting corpse-like body. His eyes still gleam fiercely, with flame-like glints in the pupils. Tags: male, jiangshi, undead, severed limbs, rotting decayed flesh, fierce gleaming eyes, flame-like glints",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "difference": "intact body -> severed limbs and decayed, rotting corpse-like jiangshi body"
+    },
+    {
+      "start": 1135,
+      "description": "Ma Sanbao, a man with a jiangshi-like corpse body that bleeds nothing, with decayed flesh and severed limbs. His left hand is half severed and stays that way, and his lips are dry and withered. His eyes still gleam fiercely, with flame-like glints in the pupils. Tags: male, jiangshi, bloodless body, decayed flesh, severed limbs, left hand half severed, dry withered lips, fierce gleaming eyes",
+      "used": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "difference": "left hand now half severed, body bleeds nothing, lips dry and withered"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 866):** Ma Sanbao is a male character whose eyes shine fiercely and brilliantly. No other look details are given. Tags: male, fierce shining eyes, brilliant gaze"
+    "- **Appearance (ch 866–1066):** Ma Sanbao, a man whose eyes gleam brightly and fiercely, with flame-like glints burning in his pupils. Tags: male, fierce gleaming eyes, flame-like glints in pupils",
+    "- **Appearance (ch 1067–1134):** Ma Sanbao, a man remade into a jiangshi (undead) by the White Illusion Jiangshi Art, with severed limbs and a decayed, rotting corpse-like body. His eyes still gleam fiercely, with flame-like glints in the pupils. Tags: male, jiangshi, undead, severed limbs, rotting decayed flesh, fierce gleaming eyes, flame-like glints",
+    "- **Appearance (from ch 1135):** Ma Sanbao, a man with a jiangshi-like corpse body that bleeds nothing, with decayed flesh and severed limbs. His left hand is half severed and stays that way, and his lips are dry and withered. His eyes still gleam fiercely, with flame-like glints in the pupils. Tags: male, jiangshi, bloodless body, decayed flesh, severed limbs, left hand half severed, dry withered lips, fierce gleaming eyes"
   ],
-  "omitted": [
-    {
-      "index": 0,
-      "reason": "Only says his pupils reflect a face. No colour or shape, so nothing visual to draw."
-    }
-  ],
+  "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.016384000000000003
+      "cost_usd": 0.0201655
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.022159800000000004
+      "cost_usd": 0.023172599999999998
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0233484
+      "cost_usd": 0.0186042
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0268824
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.035154099999999994
     }
   ]
 }

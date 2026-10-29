@@ -9,35 +9,166 @@
   "chapter_count": 73,
   "first_chapter": 116,
   "profile_safe_through": 1178,
-  "passages": [],
+  "passages": [
+    [
+      525,
+      101
+    ],
+    [
+      535,
+      75
+    ],
+    [
+      535,
+      41
+    ],
+    [
+      647,
+      161
+    ],
+    [
+      647,
+      74
+    ],
+    [
+      647,
+      111
+    ],
+    [
+      680,
+      84
+    ],
+    [
+      684,
+      65
+    ],
+    [
+      818,
+      77
+    ],
+    [
+      850,
+      33
+    ],
+    [
+      917,
+      22
+    ],
+    [
+      917,
+      34
+    ],
+    [
+      921,
+      82
+    ],
+    [
+      921,
+      77
+    ],
+    [
+      922,
+      32
+    ],
+    [
+      922,
+      46
+    ],
+    [
+      938,
+      29
+    ],
+    [
+      989,
+      17
+    ],
+    [
+      989,
+      70
+    ],
+    [
+      989,
+      63
+    ],
+    [
+      989,
+      48
+    ],
+    [
+      989,
+      79
+    ],
+    [
+      989,
+      79
+    ],
+    [
+      1126,
+      59
+    ]
+  ],
   "facts": [
     {
       "attribute": "beard",
       "kind": "base",
-      "fact": "Had a immortal-like, pure white beard at first meeting (elderly appearance)",
+      "fact": "Had a immortal-like, pure white beard at first meeting (old appearance)",
       "chapter": 647,
       "quote": "신선처럼 새하얀 수염을 휘날리던 그분",
       "marker": true,
       "verdict": {
+        "subject": "무신",
         "this_character": true,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Recalled past first meeting ~50 years ago, narrated as backstory by another character; not present-time look."
+        "reason": "Past first-meeting memory told by 야수묘왕; old white beard is backstory recollection, not a change shown here."
       },
       "status": "rejected"
     },
     {
       "attribute": "apparent age",
       "kind": "change",
-      "fact": "Later appeared as a young boy",
+      "fact": "Later appeared as a youthful boy, a return to youth from the old white-bearded look",
       "chapter": 647,
       "quote": "앳된 소년의 모습을 하고 계셨지",
       "marker": true,
       "verdict": {
+        "subject": "무신",
         "this_character": true,
         "literal_present": false,
         "lasting_change": false,
-        "reason": "Recalled second meeting in a past story told by another character; backstory, not present-time scene."
+        "reason": "Recounted past second meeting as a boy; told as memory ~50 years ago, and this passage is a recollection rather than the change occurring now."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Before the transformation the Martial God was an old man with a flowing white beard like an immortal",
+      "chapter": 647,
+      "quote": "신선처럼 새하얀 수염을 휘날리던 그분과의 첫 만남",
+      "marker": true,
+      "verdict": {
+        "subject": "무신",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "White beard is from a recalled first meeting, not current state; no transformation shown in this scene."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Body has grown young again (returned to youth), though the eyes still carry his years",
+      "chapter": 938,
+      "quote": "비록 몸은 젊어졌으나 눈빛에 담긴 세월만은 여전하다.",
+      "marker": true,
+      "verdict": {
+        "subject": "적천강",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Body grown young belongs to 적천강, not 무신; 무신 is not named here."
       },
       "status": "rejected"
     },
@@ -49,63 +180,105 @@
       "quote": "튜토리얼 속 도우미 노인이자",
       "marker": false,
       "verdict": {
+        "subject": "무신",
         "this_character": true,
-        "literal_present": true,
+        "literal_present": false,
         "lasting_change": false,
-        "reason": "Identifies tutorial helper old man as Martial God; ordinary description, no change. Appearance is the elder form, though only mentioned in memory."
+        "reason": "Tutorial helper elder is a recalled past guise/role; no lasting change shown."
       },
-      "status": "kept"
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
   "rejected": [
     0,
-    1
+    1,
+    2,
+    3,
+    4
   ],
   "judgments": {
     "647|신선처럼새하얀수염을휘날리던그분": {
+      "subject": "무신",
       "this_character": true,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "Recalled past first meeting ~50 years ago, narrated as backstory by another character; not present-time look."
+      "reason": "Past first-meeting memory told by 야수묘왕; old white beard is backstory recollection, not a change shown here."
     },
     "647|앳된소년의모습을하고계셨지": {
+      "subject": "무신",
       "this_character": true,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "Recalled second meeting in a past story told by another character; backstory, not present-time scene."
+      "reason": "Recounted past second meeting as a boy; told as memory ~50 years ago, and this passage is a recollection rather than the change occurring now."
     },
-    "1166|튜토리얼속도우미노인이자": {
+    "647|신선처럼새하얀수염을휘날리던그분과의첫만남": {
+      "subject": "무신",
       "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "White beard is from a recalled first meeting, not current state; no transformation shown in this scene."
+    },
+    "938|비록몸은젊어졌으나눈빛에담긴세월만은여전하다.": {
+      "subject": "적천강",
+      "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Identifies tutorial helper old man as Martial God; ordinary description, no change. Appearance is the elder form, though only mentioned in memory."
+      "reason": "Body grown young belongs to 적천강, not 무신; 무신 is not named here."
+    },
+    "1166|튜토리얼속도우미노인이자": {
+      "subject": "무신",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Tutorial helper elder is a recalled past guise/role; no lasting change shown."
     }
   },
   "conflicts": [],
   "unused": [],
-  "ranges": [
+  "timeline_events": [
     {
-      "start": 116,
-      "description": "Martial God appears as an elderly man, an old man with an aged look. Tags: male, old man, elderly",
-      "used": [
-        2
-      ],
-      "difference": ""
+      "chapter": 647,
+      "change": "human -> 'divine man' (신인), transformed beyond humanity; exact visible change unknown",
+      "cause": "transformation beyond the human state",
+      "sure": false
     }
   ],
-  "lines": [
-    "- **Appearance (from ch 116):** Martial God appears as an elderly man, an old man with an aged look. Tags: male, old man, elderly"
+  "timeline": [
+    {
+      "chapter": 647,
+      "change": "human -> 'divine man' (신인), transformed beyond humanity; exact visible change unknown",
+      "cause": "transformation beyond the human state",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
   ],
-  "omitted": [],
+  "dismissed_events": [],
+  "ranges": [],
+  "lines": [
+    "- **Appearance:** not described"
+  ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.015167300000000002
+      "cost_usd": 0.0241264
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.020803600000000002
+      "cost_usd": 0.0188068
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0181741
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0186266
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.030107199999999997
     }
   ]
 }

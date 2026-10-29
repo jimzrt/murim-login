@@ -7,5 +7,5 @@
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** He met the Beast Miao King twice more than fifty years ago, Mae Jonghak received several teachings from him, and he left the Bow Saint a letter describing a chosen one; the Tutorial Helper is confirmed to be the Martial God, whom Jin remembers as humanity’s savior.
-- **Appearance (from ch 116):** Martial God appears as an elderly man, an old man with an aged look. Tags: male, old man, elderly
+- **Appearance:** not described
 - **Sources:** Korean source and accepted translation, Chapter 647; Profile retrofit evidence: Chapters 266, 525

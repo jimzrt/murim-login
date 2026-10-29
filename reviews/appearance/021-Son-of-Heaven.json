@@ -9,8 +9,117 @@
   "chapter_count": 92,
   "first_chapter": 72,
   "profile_safe_through": 1185,
-  "passages": [],
+  "passages": [
+    [
+      484,
+      61
+    ],
+    [
+      622,
+      9
+    ],
+    [
+      846,
+      67
+    ],
+    [
+      862,
+      48
+    ],
+    [
+      864,
+      49
+    ],
+    [
+      869,
+      60
+    ],
+    [
+      869,
+      36
+    ],
+    [
+      900,
+      69
+    ],
+    [
+      900,
+      44
+    ],
+    [
+      901,
+      41
+    ],
+    [
+      901,
+      67
+    ],
+    [
+      901,
+      27
+    ],
+    [
+      933,
+      53
+    ],
+    [
+      950,
+      73
+    ],
+    [
+      955,
+      44
+    ],
+    [
+      1081,
+      58
+    ],
+    [
+      1135,
+      43
+    ],
+    [
+      1135,
+      51
+    ],
+    [
+      1135,
+      36
+    ],
+    [
+      1135,
+      52
+    ],
+    [
+      1136,
+      50
+    ],
+    [
+      1136,
+      45
+    ],
+    [
+      1137,
+      80
+    ]
+  ],
   "facts": [
+    {
+      "attribute": "skin",
+      "kind": "change",
+      "fact": "Son of Heaven's face has a skin tone like Ma Sanbao's jiangshi-like, deathly complexion, consistent with his undead-type body",
+      "chapter": 1135,
+      "quote": "천자의 얼굴은, 어찌하여 이토록 자신의 피부색과 닮아 있을까",
+      "marker": false,
+      "verdict": {
+        "subject": "천자",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Son of Heaven (천자) is named; his face resembles Ma Sanbao's deathly skin tone, which is a real current fact. It shows he has taken the jiangshi/undead body, a lasting transformation revealed in this scene."
+      },
+      "status": "kept"
+    },
     {
       "attribute": "skin",
       "kind": "base",
@@ -54,34 +163,92 @@
   ],
   "dropped_facts": [],
   "rejected": [],
-  "judgments": {},
+  "judgments": {
+    "1135|천자의얼굴은,어찌하여이토록자신의피부색과닮아있을까": {
+      "subject": "천자",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Son of Heaven (천자) is named; his face resembles Ma Sanbao's deathly skin tone, which is a real current fact. It shows he has taken the jiangshi/undead body, a lasting transformation revealed in this scene."
+    }
+  },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 900,
+      "change": "Emperor appears aged after years of seclusion (younger -> aged look, sharp gaze)",
+      "cause": "years of seclusion / time passing",
+      "sure": false
+    },
+    {
+      "chapter": 1135,
+      "change": "living human emperor's brother-companion Ma Sanbao context aside: the Son of Heaven (Emperor) became a jiangshi-like body (White Illusion Jiangshi Art) -> undead-type body that lets him remain with Zhu Bao",
+      "cause": "used the White Illusion Jiangshi Art given by Jin Taekyung (transformation into jiangshi/undead form)",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 900,
+      "change": "Emperor appears aged after years of seclusion (younger -> aged look, sharp gaze)",
+      "cause": "years of seclusion / time passing",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 1135,
+      "change": "living human emperor's brother-companion Ma Sanbao context aside: the Son of Heaven (Emperor) became a jiangshi-like body (White Illusion Jiangshi Art) -> undead-type body that lets him remain with Zhu Bao",
+      "cause": "used the White Illusion Jiangshi Art given by Jin Taekyung (transformation into jiangshi/undead form)",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 72,
-      "description": "Son of Heaven is a male figure who is young in years but looks old and haggard. He has a sickly, pale face and skin, with a complexion as pale as white paper. Tags: male, young but haggard, aged look, pale skin, sickly face, white-paper complexion",
+      "description": "Son of Heaven is a male figure who looks old and haggard despite his young years, with a sickly, pale face and paper-white, deathly skin tone. Tags: male, haggard, aged look, sickly face, pale skin, white-paper complexion, deathly pallor",
       "used": [
         0,
         1,
         2,
-        3
+        3,
+        4
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 72):** Son of Heaven is a male figure who is young in years but looks old and haggard. He has a sickly, pale face and skin, with a complexion as pale as white paper. Tags: male, young but haggard, aged look, pale skin, sickly face, white-paper complexion"
+    "- **Appearance (from ch 72):** Son of Heaven is a male figure who looks old and haggard despite his young years, with a sickly, pale face and paper-white, deathly skin tone. Tags: male, haggard, aged look, sickly face, pale skin, white-paper complexion, deathly pallor"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0159675
+      "cost_usd": 0.0199824
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0212253
+      "cost_usd": 0.0228142
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.025449399999999997
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0172122
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0204412
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0219759
     }
   ]
 }

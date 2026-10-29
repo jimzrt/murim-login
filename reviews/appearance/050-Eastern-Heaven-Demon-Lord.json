@@ -9,8 +9,117 @@
   "chapter_count": 42,
   "first_chapter": 714,
   "profile_safe_through": 1135,
-  "passages": [],
+  "passages": [
+    [
+      714,
+      58
+    ],
+    [
+      714,
+      47
+    ],
+    [
+      714,
+      51
+    ],
+    [
+      714,
+      43
+    ],
+    [
+      714,
+      62
+    ],
+    [
+      914,
+      44
+    ],
+    [
+      917,
+      22
+    ],
+    [
+      917,
+      34
+    ],
+    [
+      917,
+      59
+    ],
+    [
+      917,
+      86
+    ],
+    [
+      917,
+      31
+    ],
+    [
+      920,
+      50
+    ],
+    [
+      921,
+      82
+    ],
+    [
+      921,
+      77
+    ],
+    [
+      937,
+      22
+    ],
+    [
+      980,
+      75
+    ],
+    [
+      980,
+      59
+    ],
+    [
+      1027,
+      74
+    ],
+    [
+      1034,
+      79
+    ],
+    [
+      1049,
+      83
+    ],
+    [
+      1067,
+      24
+    ],
+    [
+      1081,
+      58
+    ],
+    [
+      1135,
+      43
+    ]
+  ],
   "facts": [
+    {
+      "attribute": "limbs/torso",
+      "kind": "change",
+      "fact": "Lost both arms and has a hollow hole through the chest (undead state; identity of 그 as Eastern Heaven Demon Lord is uncertain)",
+      "chapter": 714,
+      "quote": "양팔을 잃고, 가슴 한복판이 뻥 뚫린 채 다가온 그는",
+      "marker": true,
+      "verdict": {
+        "subject": "Jeok Cheongang (적천강)",
+        "this_character": false,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "The one with lost arms and a hollow chest is 적천강, not Eastern Heaven Demon Lord. It also appears in a dream/nightmare, since the narrator wakes right after."
+      },
+      "status": "rejected"
+    },
     {
       "attribute": "age/skin",
       "kind": "base",
@@ -18,12 +127,7 @@
       "chapter": 910,
       "quote": "창백한 피부의 노인",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Directly describes Eastern Heaven Demon Lord as pale-skinned elder in present scene; no change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -32,12 +136,7 @@
       "chapter": 910,
       "quote": "창백한 피부의 노인, 동천마군",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Same line; pale skin, elderly, literal present description; no change."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -57,12 +156,7 @@
       "chapter": 911,
       "quote": "동천마군의 회색빛 눈동자를",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Gray eyes of 동천마군 described directly in present scene."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -71,12 +165,7 @@
       "chapter": 911,
       "quote": "동천마군의 회색빛 눈동자",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Same line; gray eyes, present-time description."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -85,12 +174,7 @@
       "chapter": 913,
       "quote": "느슨하게 움직인 회색빛 눈동자",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "His gray eyes move, reflecting the young king; present-time scene."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -99,12 +183,7 @@
       "chapter": 914,
       "quote": "차가운 회색빛 눈동자로",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": true,
-        "lasting_change": false,
-        "reason": "Cold gray eyes gazing at the emperor in the present; flashback is separate narration."
-      },
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -114,12 +193,33 @@
       "chapter": 915,
       "quote": "차가운 회색빛 눈동자",
       "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "Lost an arm entirely (one arm swallowed) in battle, ch917; before: intact body",
+      "chapter": 917,
+      "quote": "동천마군의 주먹으로도 모자라 그의 한쪽 팔 전체를 집어삼켰다.",
+      "marker": true,
       "verdict": {
+        "subject": "동천마군",
         "this_character": true,
         "literal_present": true,
-        "lasting_change": false,
-        "reason": "Cold gray eyes looking at narrator and 적천강 in present."
+        "lasting_change": true,
+        "reason": "Jeok Cheongang's punch swallows Eastern Heaven Demon Lord's whole arm, and no blood or flesh remains. This is a real battle injury. The arm is destroyed, so the loss is lasting."
       },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Eyes are grey-coloured (ch917 passage; speaker context uncertain)",
+      "chapter": 917,
+      "quote": "회색빛 눈동자",
+      "marker": false,
+      "verdict": null,
       "status": "kept"
     },
     {
@@ -128,13 +228,8 @@
       "chapter": 922,
       "quote": "동천마군의 두 눈동자는, 차가운 불꽃으로 일렁이고 있었다",
       "marker": false,
-      "verdict": {
-        "this_character": true,
-        "literal_present": false,
-        "lasting_change": false,
-        "reason": "'Cold flames' is a metaphor for his eyes' emotion, not a literal look."
-      },
-      "status": "rejected"
+      "verdict": null,
+      "status": "kept"
     },
     {
       "attribute": "body",
@@ -144,139 +239,211 @@
       "quote": "사문의 금지된 대법(大法)을 펼쳐 스스로를 강시로 만들었고",
       "marker": true,
       "verdict": {
+        "subject": "동천마군",
         "this_character": true,
-        "literal_present": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "He turned himself into a jiangshi using the forbidden art. That is a named transformation into the undead, announced as having happened to him."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "limbs",
+      "kind": "change",
+      "fact": "All four limbs severed; dark energy wells from the stumps like differently colored blood, so he looks like a dying man",
+      "chapter": 1034,
+      "quote": "사지가 잘려 나간 단면에서 뭉클뭉클 솟아오르는 어둠의 기운은 색이 다른 핏물과도 같았고",
+      "marker": true,
+      "verdict": {
+        "subject": "혈검마군",
+        "this_character": false,
+        "literal_present": true,
         "lasting_change": false,
-        "reason": "Backstory summary of past; he became a jiangshi long ago, not a change in this scene."
+        "reason": "The severed limbs belong to the black ghosts (흑귀) and to 혈검마군, not Eastern Heaven Demon Lord. Nothing in the passage ties them to him."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Limbs gruesomely severed and body rotting (undead state)",
+      "chapter": 1067,
+      "quote": "처참하게 잘려 나간 사지와 부패한 몸뚱어리.",
+      "marker": true,
+      "verdict": {
+        "subject": "unnamed monster (identity not given)",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "The monster is unnamed in this passage. The embroidered name that would identify it is cut off, so it can't be confirmed as Eastern Heaven Demon Lord."
       },
       "status": "rejected"
     }
   ],
   "dropped_facts": [],
   "rejected": [
-    8,
-    9
+    0,
+    13,
+    14
   ],
   "judgments": {
-    "910|창백한피부의노인": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Directly describes Eastern Heaven Demon Lord as pale-skinned elder in present scene; no change."
-    },
-    "910|창백한피부의노인,동천마군": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Same line; pale skin, elderly, literal present description; no change."
-    },
-    "911|동천마군의회색빛눈동자를": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Gray eyes of 동천마군 described directly in present scene."
-    },
-    "911|동천마군의회색빛눈동자": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Same line; gray eyes, present-time description."
-    },
-    "913|느슨하게움직인회색빛눈동자": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "His gray eyes move, reflecting the young king; present-time scene."
-    },
-    "914|차가운회색빛눈동자로": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Cold gray eyes gazing at the emperor in the present; flashback is separate narration."
-    },
-    "915|차가운회색빛눈동자": {
-      "this_character": true,
-      "literal_present": true,
-      "lasting_change": false,
-      "reason": "Cold gray eyes looking at narrator and 적천강 in present."
-    },
-    "922|동천마군의두눈동자는,차가운불꽃으로일렁이고있었다": {
-      "this_character": true,
+    "714|양팔을잃고,가슴한복판이뻥뚫린채다가온그는": {
+      "subject": "Jeok Cheongang (적천강)",
+      "this_character": false,
       "literal_present": false,
       "lasting_change": false,
-      "reason": "'Cold flames' is a metaphor for his eyes' emotion, not a literal look."
+      "reason": "The one with lost arms and a hollow chest is 적천강, not Eastern Heaven Demon Lord. It also appears in a dream/nightmare, since the narrator wakes right after."
+    },
+    "917|동천마군의주먹으로도모자라그의한쪽팔전체를집어삼켰다.": {
+      "subject": "동천마군",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Jeok Cheongang's punch swallows Eastern Heaven Demon Lord's whole arm, and no blood or flesh remains. This is a real battle injury. The arm is destroyed, so the loss is lasting."
     },
     "924|사문의금지된대법(大法)을펼쳐스스로를강시로만들었고": {
+      "subject": "동천마군",
       "this_character": true,
-      "literal_present": false,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "He turned himself into a jiangshi using the forbidden art. That is a named transformation into the undead, announced as having happened to him."
+    },
+    "1034|사지가잘려나간단면에서뭉클뭉클솟아오르는어둠의기운은색이다른핏물과도같았고": {
+      "subject": "혈검마군",
+      "this_character": false,
+      "literal_present": true,
       "lasting_change": false,
-      "reason": "Backstory summary of past; he became a jiangshi long ago, not a change in this scene."
+      "reason": "The severed limbs belong to the black ghosts (흑귀) and to 혈검마군, not Eastern Heaven Demon Lord. Nothing in the passage ties them to him."
+    },
+    "1067|처참하게잘려나간사지와부패한몸뚱어리.": {
+      "subject": "unnamed monster (identity not given)",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "The monster is unnamed in this passage. The embroidered name that would identify it is cut off, so it can't be confirmed as Eastern Heaven Demon Lord."
     }
   },
-  "conflicts": [
+  "conflicts": [],
+  "unused": [],
+  "timeline_events": [
     {
-      "attribute": "eye colour",
-      "indices": [
-        3,
-        4,
-        5,
-        6,
-        7
-      ],
-      "kept": [
-        3,
-        4,
-        5,
-        6,
-        7
-      ],
-      "resolved": true,
-      "reason": "All quotes say gray eyes; 'cold' is only a tone descriptor in 6 and 7. No real disagreement, repeated across ch911-915."
+      "chapter": 714,
+      "change": "intact -> lost both arms and chest hollowed through (undead state; Eastern Heaven Demon Lord's later undead form is uncertain from this passage)",
+      "cause": "injury / undeath",
+      "sure": false
     },
     {
-      "attribute": "age/skin",
-      "indices": [
-        0,
-        1
-      ],
-      "kept": [
-        0,
-        1
-      ],
-      "resolved": true,
-      "reason": "Both say pale-skinned elderly man; same value, no real disagreement."
+      "chapter": 917,
+      "change": "intact body -> lost both arms and a leg",
+      "cause": "injury from battle with Jeok Cheongang",
+      "sure": true
     }
   ],
-  "unused": [],
+  "timeline": [
+    {
+      "chapter": 714,
+      "change": "intact -> lost both arms and chest hollowed through (undead state; Eastern Heaven Demon Lord's later undead form is uncertain from this passage)",
+      "cause": "injury / undeath",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    },
+    {
+      "chapter": 917,
+      "change": "intact body -> lost both arms and a leg",
+      "cause": "injury from battle with Jeok Cheongang",
+      "sure": true,
+      "facts": [
+        9
+      ],
+      "verified": true
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 714,
-      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His eyes are cold gray. Tags: male, elderly, pale skin, white beard, immortal-like beard, cold gray eyes",
+      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His eyes are cold gray. Tags: male, elderly, pale skin, white beard, cold gray eyes",
       "used": [
-        0,
         1,
         2,
         3,
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
       "difference": ""
+    },
+    {
+      "start": 917,
+      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His cold gray eyes shimmer like cold flames. He has lost both arms and a leg in battle. Tags: male, elderly, pale skin, white beard, gray eyes, cold-flame eyes, missing both arms, missing a leg",
+      "used": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "difference": "intact body -> missing both arms and a leg"
+    },
+    {
+      "start": 924,
+      "description": "Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His cold gray eyes shimmer like cold flames. He is missing both arms and a leg. His body was remade into a jiangshi (reanimated corpse) by a forbidden sect art. Tags: male, elderly, jiangshi, pale skin, white beard, gray eyes, cold-flame eyes, missing both arms, missing a leg",
+      "used": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "difference": "body remade as a jiangshi (visible effect not stated)"
     }
   ],
   "lines": [
-    "- **Appearance (from ch 714):** Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His eyes are cold gray. Tags: male, elderly, pale skin, white beard, immortal-like beard, cold gray eyes"
+    "- **Appearance (ch 714–916):** Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His eyes are cold gray. Tags: male, elderly, pale skin, white beard, cold gray eyes",
+    "- **Appearance (ch 917–923):** Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His cold gray eyes shimmer like cold flames. He has lost both arms and a leg in battle. Tags: male, elderly, pale skin, white beard, gray eyes, cold-flame eyes, missing both arms, missing a leg",
+    "- **Appearance (from ch 924):** Eastern Heaven Demon Lord is an elderly man with pale skin and an immaculate white beard like an immortal's. His cold gray eyes shimmer like cold flames. He is missing both arms and a leg. His body was remade into a jiangshi (reanimated corpse) by a forbidden sect art. Tags: male, elderly, jiangshi, pale skin, white beard, gray eyes, cold-flame eyes, missing both arms, missing a leg"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0170193
+      "cost_usd": 0.0240965
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.0258617
+      "cost_usd": 0.0205456
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0172839
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.025595800000000002
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0301191
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0376097
     }
   ]
 }

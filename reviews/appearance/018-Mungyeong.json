@@ -30,6 +30,22 @@
       "status": "kept"
     },
     {
+      "attribute": "limbs",
+      "kind": "base",
+      "fact": "One-armed middle-aged man (earlier look, before youth restoration).",
+      "chapter": 340,
+      "quote": "외팔의 중년인.",
+      "marker": true,
+      "verdict": {
+        "subject": "unnamed one-armed middle-aged man",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Unnamed culprit being hunted; narrator doesn't identify him as Mungyeong here."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears to be a boy (youth)",
@@ -67,6 +83,74 @@
       "status": "kept"
     },
     {
+      "attribute": "limbs",
+      "kind": "base",
+      "fact": "Limb tendons severed, heavily restrained as prisoner (earlier appearance)",
+      "chapter": 348,
+      "quote": "잘려 나간 사지 근맥과 다른 죄수들보다 몇 배는 무겁고 튼튼한 구속구가 그 증거였다.",
+      "marker": true,
+      "verdict": {
+        "subject": "unnamed old prisoner",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Old prisoner in a dungeon, a different person from Mungyeong (narrator visits him)."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (반로환동) years before; flesh and skin remade",
+      "chapter": 368,
+      "quote": "수년 전 찾아온 반로환동(返老還童)은 피륙을 바꿔 놓았을지언정",
+      "marker": true,
+      "verdict": {
+        "subject": "Mungyeong",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Narrator's own hands are a boy's; 반로환동 announced as having happened, skin remade, a lasting change revealed here."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Looks like a boy/youth",
+      "chapter": 368,
+      "quote": "소년, 아니 문경이라는 이름을 가진 ‘그’는 발아래를 굽어보았다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (반로환동) years before; flesh/skin remade, now looks like a youth/boy rather than an old man",
+      "chapter": 368,
+      "quote": "수년 전 찾아온 반로환동(返老還童)은 피륙을 바꿔 놓았을지언정, 손에 배인 혈향마저 지울 수는 없었다.",
+      "marker": true,
+      "verdict": {
+        "subject": "Mungyeong",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same passage: boy's hands, 반로환동 years ago replaced flesh/skin; lasting change revealed."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "eyes",
+      "kind": "base",
+      "fact": "Eyes normally cold and powerful",
+      "chapter": 368,
+      "quote": "언제나 서늘하고 힘 있던 눈동자는 금방이라도 꺼질 것처럼 위태로웠다.",
+      "marker": false,
+      "verdict": null,
+      "status": "kept"
+    },
+    {
       "attribute": "apparent age",
       "kind": "base",
       "fact": "Appears to be a boy (teenage youth)",
@@ -97,6 +181,70 @@
       "status": "kept"
     },
     {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Has reached Returned to Youth (반로환동), so he looks youthful despite his real age",
+      "chapter": 463,
+      "quote": "설마하니 반로환동의 경지에 드셨을 줄은 몰랐습니다",
+      "marker": true,
+      "verdict": {
+        "subject": "Mungyeong",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Jegal Pung says Mungyeong reached 반로환동; the response '제법이군' confirms it and it announces the real transformation."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Appears as a boy physician (소년 의생)",
+      "chapter": 463,
+      "quote": "소년 의생, 문경의 눈썹이 꿈틀거렸다.",
+      "marker": false,
+      "verdict": {
+        "subject": "Mungyeong",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Named as boy physician, ordinary description of current look; the change itself isn't shown here."
+      },
+      "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Has undergone returned-to-youth rejuvenation, so he looks youthful and childlike",
+      "chapter": 472,
+      "quote": "반로환동 하더니 무공도 어린애가 됐나?",
+      "marker": true,
+      "verdict": {
+        "subject": "Mungyeong",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Small slim body, 반로환동 announced as having happened; established present state, revealed here."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (반로환동) via the martial realm; became youthful, no longer aged",
+      "chapter": 472,
+      "quote": "“반로환동 하더니 무공도 어린애가 됐나?”",
+      "marker": true,
+      "verdict": {
+        "subject": "Mungyeong",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same scene; 반로환동 named as having happened to Mungyeong, shown as small youthful body."
+      },
+      "status": "approved-change"
+    },
+    {
       "attribute": "build",
       "kind": "base",
       "fact": "Carries a short sword (small blade)",
@@ -117,6 +265,22 @@
       "status": "kept"
     },
     {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Before returning to youth, he was aged/old",
+      "chapter": 486,
+      "quote": "“그래. 늙어 버렸어.”",
+      "marker": true,
+      "verdict": {
+        "subject": "Mungyeong",
+        "this_character": true,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "'Old' is said to and about Jeok Cheon-gang; the white-haired old man line is a backstory summary of passing time, not Mungyeong's present look."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "age",
       "kind": "base",
       "fact": "Appears as a young boy despite being over a hundred years old",
@@ -124,12 +288,61 @@
       "quote": "겉모습은 젊다 못해 어려 보이는 소년이지만",
       "marker": true,
       "verdict": {
+        "subject": "Mungyeong",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Looks like a young boy though over a hundred years old; a standing state, not a change in this scene."
+        "reason": "Currently a boy-looking youth though 100+ years old; ordinary description of an established state, no change shown here."
       },
       "status": "kept"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (반로환동); now looks like a young physician despite being a peak master",
+      "chapter": 488,
+      "quote": "눈앞의 어린 의생이 반로환동으로 젊어진 초절정 고수라고는 짐작하지 못할 거다",
+      "marker": true,
+      "verdict": {
+        "subject": "Mungyeong",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Narrator (Mungyeong) states he became young by 반로환동 and looks like a young physician; change announced here."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Returned to youth (반로환동), now looks like a young physician",
+      "chapter": 488,
+      "quote": "눈앞의 어린 의생이 반로환동으로 젊어진 초절정 고수라고는",
+      "marker": true,
+      "verdict": {
+        "subject": "Mungyeong",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Same line; 반로환동 youth announced as real, lasting state."
+      },
+      "status": "approved-change"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Young-looking physician; actually a veteran master who returned to youth (반로환동), so looks young",
+      "chapter": 488,
+      "quote": "눈앞의 어린 의생이 반로환동으로 젊어진 초절정 고수라고는 짐작하지 못할 거다.",
+      "marker": true,
+      "verdict": {
+        "subject": "문경",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "Young-looking physician explicitly said to have rejuvenated via 반로환동; announced as having happened, named transformation."
+      },
+      "status": "approved-change"
     },
     {
       "attribute": "eyes",
@@ -159,94 +372,335 @@
       "quote": "그런 우리의 반응에 언제 그랬냐는 듯 소년 의생으로 돌아간 문경이 말을 이었다.",
       "marker": true,
       "verdict": {
+        "subject": "문경",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Mungyeong returns to the role of a boy physician (소년 의생); present description, no change happening."
+        "reason": "Named as boy physician; ordinary description of established youthful look, no change shown."
       },
       "status": "kept"
     },
     {
-      "attribute": "age",
+      "attribute": "apparent age",
       "kind": "change",
-      "fact": "Has reverted to youth (rejuvenation, 반로환동); appears as a boy",
+      "fact": "Reached 반로환동 (returned to youth) state; looks youthful rather than old",
       "chapter": 508,
       "quote": "현재의 문경은 이미 반박귀진(返璞歸眞)의 경지와 더불어 반로환동(返老還童)에 도달한 상태.",
       "marker": true,
       "verdict": {
-        "this_character": true,
+        "subject": "문경",
+        "this_character": false,
         "literal_present": true,
-        "lasting_change": false,
-        "reason": "Narration states Mungyeong currently has reached 반로환동 (rejuvenation), but it is stated as an existing state rather than a change in this scene; the text does not show it happening or having just happened."
+        "lasting_change": true,
+        "reason": "manual override: furrowed brow is an anger expression in one scene, not a lasting change"
       },
-      "status": "kept"
+      "status": "rejected"
+    },
+    {
+      "attribute": "forehead/skin",
+      "kind": "change",
+      "fact": "Forehead became smooth without a single wrinkle due to returned-to-youth",
+      "chapter": 508,
+      "quote": "반로환동으로 주름 하나 없이 매끈해졌던 이마에 깊은 고랑이 파였다.",
+      "marker": true,
+      "verdict": {
+        "subject": "문경",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "manual override: furrowed brow is an anger expression in one scene, not a lasting change"
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "change",
+      "fact": "Was a dying-looking old man until the day before, then looked slightly rejuvenated (returned to youth).",
+      "chapter": 508,
+      "quote": "어제까지만 해도 오늘내일하며 청승 떨던 늙은이가 조금 회춘했다고 입부터 살았군.",
+      "marker": true,
+      "verdict": {
+        "subject": "문경",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "manual override: furrowed brow is an anger expression in one scene, not a lasting change"
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "skin",
+      "kind": "change",
+      "fact": "After returned to youth, forehead is smooth with no wrinkles",
+      "chapter": 508,
+      "quote": "반로환동으로 주름 하나 없이 매끈해졌던 이마",
+      "marker": true,
+      "verdict": {
+        "subject": "문경",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": true,
+        "reason": "manual override: furrowed brow is an anger expression in one scene, not a lasting change"
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
-  "rejected": [],
+  "rejected": [
+    2,
+    7,
+    21,
+    29,
+    30,
+    31,
+    32
+  ],
   "judgments": {
-    "486|겉모습은젊다못해어려보이는소년이지만": {
+    "340|외팔의중년인.": {
+      "subject": "unnamed one-armed middle-aged man",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Unnamed culprit being hunted; narrator doesn't identify him as Mungyeong here."
+    },
+    "348|잘려나간사지근맥과다른죄수들보다몇배는무겁고튼튼한구속구가그증거였다.": {
+      "subject": "unnamed old prisoner",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Old prisoner in a dungeon, a different person from Mungyeong (narrator visits him)."
+    },
+    "368|수년전찾아온반로환동(返老還童)은피륙을바꿔놓았을지언정": {
+      "subject": "Mungyeong",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Narrator's own hands are a boy's; 반로환동 announced as having happened, skin remade, a lasting change revealed here."
+    },
+    "368|수년전찾아온반로환동(返老還童)은피륙을바꿔놓았을지언정,손에배인혈향마저지울수는없었다.": {
+      "subject": "Mungyeong",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same passage: boy's hands, 반로환동 years ago replaced flesh/skin; lasting change revealed."
+    },
+    "463|설마하니반로환동의경지에드셨을줄은몰랐습니다": {
+      "subject": "Mungyeong",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Jegal Pung says Mungyeong reached 반로환동; the response '제법이군' confirms it and it announces the real transformation."
+    },
+    "463|소년의생,문경의눈썹이꿈틀거렸다.": {
+      "subject": "Mungyeong",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Looks like a young boy though over a hundred years old; a standing state, not a change in this scene."
+      "reason": "Named as boy physician, ordinary description of current look; the change itself isn't shown here."
+    },
+    "472|반로환동하더니무공도어린애가됐나?": {
+      "subject": "Mungyeong",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Small slim body, 반로환동 announced as having happened; established present state, revealed here."
+    },
+    "472|“반로환동하더니무공도어린애가됐나?”": {
+      "subject": "Mungyeong",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same scene; 반로환동 named as having happened to Mungyeong, shown as small youthful body."
+    },
+    "486|“그래.늙어버렸어.”": {
+      "subject": "Mungyeong",
+      "this_character": true,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "'Old' is said to and about Jeok Cheon-gang; the white-haired old man line is a backstory summary of passing time, not Mungyeong's present look."
+    },
+    "486|겉모습은젊다못해어려보이는소년이지만": {
+      "subject": "Mungyeong",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Currently a boy-looking youth though 100+ years old; ordinary description of an established state, no change shown here."
+    },
+    "488|눈앞의어린의생이반로환동으로젊어진초절정고수라고는짐작하지못할거다": {
+      "subject": "Mungyeong",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Narrator (Mungyeong) states he became young by 반로환동 and looks like a young physician; change announced here."
+    },
+    "488|눈앞의어린의생이반로환동으로젊어진초절정고수라고는": {
+      "subject": "Mungyeong",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Same line; 반로환동 youth announced as real, lasting state."
+    },
+    "488|눈앞의어린의생이반로환동으로젊어진초절정고수라고는짐작하지못할거다.": {
+      "subject": "문경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Young-looking physician explicitly said to have rejuvenated via 반로환동; announced as having happened, named transformation."
     },
     "507|그런우리의반응에언제그랬냐는듯소년의생으로돌아간문경이말을이었다.": {
+      "subject": "문경",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Mungyeong returns to the role of a boy physician (소년 의생); present description, no change happening."
+      "reason": "Named as boy physician; ordinary description of established youthful look, no change shown."
     },
     "508|현재의문경은이미반박귀진(返璞歸眞)의경지와더불어반로환동(返老還童)에도달한상태.": {
+      "subject": "문경",
       "this_character": true,
       "literal_present": true,
-      "lasting_change": false,
-      "reason": "Narration states Mungyeong currently has reached 반로환동 (rejuvenation), but it is stated as an existing state rather than a change in this scene; the text does not show it happening or having just happened."
+      "lasting_change": true,
+      "reason": "States Mungyeong currently has reached 반로환동; named genre transformation announced as having happened."
+    },
+    "508|반로환동으로주름하나없이매끈해졌던이마에깊은고랑이파였다.": {
+      "subject": "문경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Forehead made smooth by 반로환동 stated as fact; furrow is anger expression, rejuvenation itself is the lasting change."
+    },
+    "508|어제까지만해도오늘내일하며청승떨던늙은이가조금회춘했다고입부터살았군.": {
+      "subject": "문경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Speaker is Mungyeong; line says dying old man until yesterday, now rejuvenated (회춘). Body really changed, presented as current state."
+    },
+    "508|반로환동으로주름하나없이매끈해졌던이마": {
+      "subject": "문경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": true,
+      "reason": "Smooth wrinkle-free forehead from 반로환동 stated as real; furrow is momentary anger expression, not reversal. Rejuvenation announced."
     }
   },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 368,
+      "change": "old man -> youthful appearance, skin remade, no wrinkles (years before story)",
+      "cause": "returned to youth (반로환동) by cultivation, years before",
+      "sure": true
+    },
+    {
+      "chapter": 508,
+      "change": "smooth wrinkle-free forehead -> deep furrows on brow (aging back) when angered/confronted",
+      "cause": "uncertain; possibly temporary expression or partial reversal of returned-to-youth state",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 368,
+      "change": "old man -> youthful appearance, skin remade, no wrinkles (years before story)",
+      "cause": "returned to youth (반로환동) by cultivation, years before",
+      "sure": true,
+      "facts": [
+        8,
+        10
+      ],
+      "verified": true
+    },
+    {
+      "chapter": 508,
+      "change": "smooth wrinkle-free forehead -> deep furrows on brow (aging back) when angered/confronted",
+      "cause": "uncertain; possibly temporary expression or partial reversal of returned-to-youth state",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [
+    {
+      "event": 368,
+      "reason": "dismissed"
+    }
+  ],
   "ranges": [
     {
       "start": 333,
-      "description": "Mungyeong is a teenage boy with a youthful, smooth-browed face: smooth forehead, neat even eyebrows, clear bright transparent eyes. He looks like an ordinary commoner with an unremarkable build, works as a young physician, and carries a small short sword. Tags: boy, teenage youth, young physician, ordinary commoner, clear bright eyes, smooth forehead, neat even eyebrows, short sword",
+      "description": "Mungyeong is a young boy with an ordinary, plain commoner look, a smooth forehead and neat, even eyebrows. Clear, bright, transparent eyes with a cold, strong gaze. Appears as a young physician and carries a short sword. Tags: male, boy, youthful, plain commoner look, clear bright eyes, cold strong gaze, smooth forehead, neat even eyebrows, young physician, short sword",
       "used": [
         0,
         1,
-        2,
         3,
         4,
         5,
         6,
-        7,
-        8,
         9,
-        10,
         11,
         12,
         13,
-        14
+        14,
+        16,
+        19,
+        20,
+        26,
+        27,
+        28
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 333):** Mungyeong is a teenage boy with a youthful, smooth-browed face: smooth forehead, neat even eyebrows, clear bright transparent eyes. He looks like an ordinary commoner with an unremarkable build, works as a young physician, and carries a small short sword. Tags: boy, teenage youth, young physician, ordinary commoner, clear bright eyes, smooth forehead, neat even eyebrows, short sword"
+    "- **Appearance (from ch 333):** Mungyeong is a young boy with an ordinary, plain commoner look, a smooth forehead and neat, even eyebrows. Clear, bright, transparent eyes with a cold, strong gaze. Appears as a young physician and carries a short sword. Tags: male, boy, youthful, plain commoner look, clear bright eyes, cold strong gaze, smooth forehead, neat even eyebrows, young physician, short sword"
   ],
   "omitted": [
     {
+      "index": 8,
+      "reason": "Backstory of returning to youth; look already a boy from ch333, no visible change"
+    },
+    {
+      "index": 10,
+      "reason": "Same returning-to-youth exposition as 6; no visible change"
+    },
+    {
       "index": 15,
-      "reason": "Rejuvenation (반로환동) is a transformation event not marked APPROVED-CHANGE. It also shows no visible difference, since he already looks like a boy."
+      "reason": "Same returning-to-youth exposition; mentions real age"
+    },
+    {
+      "index": 17,
+      "reason": "Same returning-to-youth exposition; martial-arts quip"
+    },
+    {
+      "index": 18,
+      "reason": "Same returning-to-youth exposition"
+    },
+    {
+      "index": 22,
+      "reason": "Hidden true age; the visible boy look is already covered by other facts"
+    },
+    {
+      "index": 23,
+      "reason": "Same returning-to-youth exposition; reveals hidden rank and age"
+    },
+    {
+      "index": 24,
+      "reason": "Same returning-to-youth exposition"
+    },
+    {
+      "index": 25,
+      "reason": "Same returning-to-youth exposition"
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.018888500000000003
+      "cost_usd": 0.0233418
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.028131599999999996
+      "cost_usd": 0.0370468
     }
   ]
 }

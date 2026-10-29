@@ -9,7 +9,112 @@
   "chapter_count": 160,
   "first_chapter": 6,
   "profile_safe_through": 1183,
-  "passages": [],
+  "passages": [
+    [
+      26,
+      48
+    ],
+    [
+      37,
+      23
+    ],
+    [
+      58,
+      42
+    ],
+    [
+      59,
+      46
+    ],
+    [
+      60,
+      52
+    ],
+    [
+      61,
+      27
+    ],
+    [
+      61,
+      43
+    ],
+    [
+      61,
+      83
+    ],
+    [
+      61,
+      28
+    ],
+    [
+      61,
+      60
+    ],
+    [
+      65,
+      16
+    ],
+    [
+      106,
+      56
+    ],
+    [
+      125,
+      14
+    ],
+    [
+      125,
+      42
+    ],
+    [
+      194,
+      46
+    ],
+    [
+      197,
+      49
+    ],
+    [
+      436,
+      87
+    ],
+    [
+      484,
+      61
+    ],
+    [
+      495,
+      16
+    ],
+    [
+      504,
+      48
+    ],
+    [
+      505,
+      28
+    ],
+    [
+      505,
+      44
+    ],
+    [
+      505,
+      100
+    ],
+    [
+      962,
+      77
+    ],
+    [
+      998,
+      40
+    ],
+    [
+      1181,
+      42
+    ]
+  ],
   "facts": [
     {
       "attribute": "age",
@@ -17,7 +122,13 @@
       "chapter": 6,
       "quote": "올해 서른다섯이 된 진위경이",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "진위경",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Named; age 35 is ordinary description, no change."
+      },
       "status": "kept"
     },
     {
@@ -56,12 +167,45 @@
       "quote": "얼굴 가득한 칼자국과 핏발 선 눈동자.",
       "marker": false,
       "verdict": {
+        "subject": "unknown man (mistaken for Jin Wikyung's rescuer target)",
         "this_character": false,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Scarred face belongs to the unknown 'macho man' the narrator holds, not Jin Wikyung (narrator expected to have saved Wikyung but got a different person). No lasting change shown for Wikyung."
+        "reason": "Scarred man is a different person (the stranger in narrator's arms), not named Wikyung."
       },
       "status": "rejected"
+    },
+    {
+      "attribute": "apparent age",
+      "kind": "base",
+      "fact": "Body is aged/old, at its limit (before the change)",
+      "chapter": 61,
+      "quote": "거기에 늙어 버린 육체가 한계에 도달하기까지 했다.",
+      "marker": true,
+      "verdict": {
+        "subject": "대장로",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Aged body belongs to the Head Elder, not Wikyung."
+      },
+      "status": "rejected"
+    },
+    {
+      "attribute": "weapon",
+      "kind": "base",
+      "fact": "Carries the Taewon Jin family's heirloom sword (it is cut in half in ch61)",
+      "chapter": 61,
+      "quote": "태원진가 대대로 내려져 오는 가문의 보검조차 검기를 두른 채로 잘려 나갔다",
+      "marker": true,
+      "verdict": {
+        "subject": "진위경",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Wikyung carries the heirloom sword, but this is not a look change; sword cut, face turning pale is temporary."
+      },
+      "status": "kept"
     },
     {
       "attribute": "build",
@@ -104,6 +248,22 @@
       "status": "kept"
     },
     {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Body became perfect, like a full bone-and-body remake (환골탈태)",
+      "chapter": 197,
+      "quote": "말로만 듣던 환골탈태(換骨奪胎)를 겪으면 이렇게 될까 싶을 정도였다.",
+      "marker": true,
+      "verdict": {
+        "subject": "진태경",
+        "this_character": false,
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "Body belongs to 진태경, not Wikyung; 'if he had undergone 환골탈태' is a simile."
+      },
+      "status": "rejected"
+    },
+    {
       "attribute": "build",
       "kind": "base",
       "fact": "Enormous, hulking big man",
@@ -142,65 +302,154 @@
       "marker": false,
       "verdict": null,
       "status": "kept"
+    },
+    {
+      "attribute": "body",
+      "kind": "change",
+      "fact": "Completed 환골탈태 (body remade), reaching the peak realm",
+      "chapter": 998,
+      "quote": "등봉조극의 경지에 환골탈태까지 완성한",
+      "marker": true,
+      "verdict": {
+        "subject": "나 (narrator)",
+        "this_character": false,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Narrator (first person, contrasted with 혁무진) completed 환골탈태; not named as Jin Wikyung."
+      },
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
   "rejected": [
-    4
+    4,
+    5,
+    11,
+    16
   ],
   "judgments": {
+    "6|올해서른다섯이된진위경이": {
+      "subject": "진위경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Named; age 35 is ordinary description, no change."
+    },
     "58|얼굴가득한칼자국과핏발선눈동자.": {
+      "subject": "unknown man (mistaken for Jin Wikyung's rescuer target)",
       "this_character": false,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Scarred face belongs to the unknown 'macho man' the narrator holds, not Jin Wikyung (narrator expected to have saved Wikyung but got a different person). No lasting change shown for Wikyung."
+      "reason": "Scarred man is a different person (the stranger in narrator's arms), not named Wikyung."
+    },
+    "61|거기에늙어버린육체가한계에도달하기까지했다.": {
+      "subject": "대장로",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Aged body belongs to the Head Elder, not Wikyung."
+    },
+    "61|태원진가대대로내려져오는가문의보검조차검기를두른채로잘려나갔다": {
+      "subject": "진위경",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Wikyung carries the heirloom sword, but this is not a look change; sword cut, face turning pale is temporary."
+    },
+    "197|말로만듣던환골탈태(換骨奪胎)를겪으면이렇게될까싶을정도였다.": {
+      "subject": "진태경",
+      "this_character": false,
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "Body belongs to 진태경, not Wikyung; 'if he had undergone 환골탈태' is a simile."
+    },
+    "998|등봉조극의경지에환골탈태까지완성한": {
+      "subject": "나 (narrator)",
+      "this_character": false,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narrator (first person, contrasted with 혁무진) completed 환골탈태; not named as Jin Wikyung."
     }
   },
   "conflicts": [],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 61,
+      "change": "Head Elder (not Wikyung) lost an arm — not applicable to Wikyung",
+      "cause": "n/a",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 61,
+      "change": "Head Elder (not Wikyung) lost an arm — not applicable to Wikyung",
+      "cause": "n/a",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 6,
-      "description": "Jin Wikyung is a man of about thirty-five, a towering giant with a bulky, bear-like build and broad, massive shoulders, with prominent muscles showing through his clothes. He has an imposing, dignified bearing, and his eyes look dim, as if about to go out. He wears martial robes embroidered with a silver flying dragon. Tags: male, age 35, giant, very tall, bulky bear-like build, broad massive shoulders, visible muscles, imposing dignified bearing, dim eyes, martial robes, silver flying dragon embroidery",
+      "description": "Jin Wikyung is a man of apparent age thirty-five, a towering giant with a bulky, bear-like physique, very broad massive shoulders and prominent muscles showing through his clothing. His eyes look dim, as if about to go out. He carries the Taewon Jin family's heirloom sword and wears martial robes embroidered with a silver flying dragon, with an imposing, dignified bearing. Tags: male, age 35, giant, very tall, bulky bear-like build, huge broad shoulders, visible muscles, dim eyes, heirloom sword, martial robes, silver flying dragon embroidery, dignified bearing",
       "used": [
         0,
         1,
         2,
         3,
+        6,
         7,
         8,
         9,
         10,
-        11
+        12,
+        13,
+        14
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 6):** Jin Wikyung is a man of about thirty-five, a towering giant with a bulky, bear-like build and broad, massive shoulders, with prominent muscles showing through his clothes. He has an imposing, dignified bearing, and his eyes look dim, as if about to go out. He wears martial robes embroidered with a silver flying dragon. Tags: male, age 35, giant, very tall, bulky bear-like build, broad massive shoulders, visible muscles, imposing dignified bearing, dim eyes, martial robes, silver flying dragon embroidery"
+    "- **Appearance (from ch 6):** Jin Wikyung is a man of apparent age thirty-five, a towering giant with a bulky, bear-like physique, very broad massive shoulders and prominent muscles showing through his clothing. His eyes look dim, as if about to go out. He carries the Taewon Jin family's heirloom sword and wears martial robes embroidered with a silver flying dragon, with an imposing, dignified bearing. Tags: male, age 35, giant, very tall, bulky bear-like build, huge broad shoulders, visible muscles, dim eyes, heirloom sword, martial robes, silver flying dragon embroidery, dignified bearing"
   ],
   "omitted": [
     {
-      "index": 5,
-      "reason": "Describes a different person (a young man who resembles him); the build is already covered by other facts."
-    },
-    {
-      "index": 6,
-      "reason": "Describes a resemblance to Cheol-u, so it is indirect and ambiguous about whom it describes; the build is already covered."
-    },
-    {
-      "index": 12,
-      "reason": "The passage describes the old carpenter's eyes, not his, so it gives no trait for him."
+      "index": 15,
+      "reason": "Passage describes an old carpenter's eyes, not his; eye colour not stated"
     }
   ],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.0146125
+      "cost_usd": 0.019968700000000002
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.028535200000000004
+      "cost_usd": 0.027650200000000003
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0202391
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0191807
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0231411
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0300798
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.025564
     }
   ]
 }

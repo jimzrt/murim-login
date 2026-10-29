@@ -7,5 +7,6 @@
 - **Personality:** Calm, responsible, quietly playful, and still regarded by Jeok as lazy for sleeping whenever possible.
 - **Voice:** Quiet, deep, weighty, and resonant, with casual familiarity when speaking to Jeok Cheongang.
 - **Relationships:** Old friend of Jeok Cheongang and close friend of Peng Cheolhu; master of Unnamed; before his death, entrusted the Green Jade Buddha Staff to Unnamed, warned Jeok about Jongni Chu, Dark Heaven, Unnamed, and the Buddhist Staff, and sent Unnamed to find the Master of Morning Star.
-- **Appearance (from ch 231):** Hong Dao, a very tall, towering elderly man with gray eyes. He carries a very short staff with a smooth surface that has a faint green glow. Tags: male, elderly, very tall, towering, gray eyes, short staff, smooth staff, faint green glow
+- **Appearance (ch 231–1104):** Hong Dao is a very tall, towering elderly man with wrinkled, aged hands and grey eyes. He carries prayer beads stained red and a very short staff with a smooth surface and a faint green glow. Tags: male, elderly, very tall, grey eyes, wrinkled hands, red-stained prayer beads, short smooth staff, faint green glow
+- **Appearance (from ch 1105):** Hong Dao is a tall man with a rejuvenated, youthful body and grey eyes. He carries prayer beads stained red and a very short staff with a smooth surface and a faint green glow. Tags: male, youthful body, rejuvenated, very tall, grey eyes, red-stained prayer beads, short smooth staff, faint green glow
 - **Sources:** Korean source and accepted translation, Chapter 231

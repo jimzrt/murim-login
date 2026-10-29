@@ -9,7 +9,92 @@
   "chapter_count": 88,
   "first_chapter": 287,
   "profile_safe_through": 1175,
-  "passages": [],
+  "passages": [
+    [
+      575,
+      85
+    ],
+    [
+      578,
+      53
+    ],
+    [
+      582,
+      81
+    ],
+    [
+      584,
+      80
+    ],
+    [
+      584,
+      66
+    ],
+    [
+      584,
+      40
+    ],
+    [
+      594,
+      89
+    ],
+    [
+      601,
+      63
+    ],
+    [
+      601,
+      72
+    ],
+    [
+      604,
+      25
+    ],
+    [
+      605,
+      51
+    ],
+    [
+      605,
+      22
+    ],
+    [
+      605,
+      22
+    ],
+    [
+      605,
+      64
+    ],
+    [
+      756,
+      73
+    ],
+    [
+      756,
+      32
+    ],
+    [
+      766,
+      73
+    ],
+    [
+      817,
+      69
+    ],
+    [
+      817,
+      65
+    ],
+    [
+      817,
+      32
+    ],
+    [
+      1153,
+      37
+    ]
+  ],
   "facts": [
     {
       "attribute": "eyebrows",
@@ -28,7 +113,13 @@
       "chapter": 288,
       "quote": "잘생긴 그리스 신이 환생한 것 같은 외모다.",
       "marker": false,
-      "verdict": null,
+      "verdict": {
+        "subject": "천태민",
+        "this_character": true,
+        "literal_present": true,
+        "lasting_change": false,
+        "reason": "Profile screen labeled 천태민-인물 정보 shows his face; ordinary description of his look (the 'as if Greek god' is simile-ish but describes real handsome features). No change."
+      },
       "status": "kept"
     },
     {
@@ -39,10 +130,11 @@
       "quote": "나이에 비해 터무니없이 젊어 보이는 그가",
       "marker": true,
       "verdict": {
+        "subject": "천태민",
         "this_character": true,
         "literal_present": true,
         "lasting_change": false,
-        "reason": "Narration describes Cheon Taemin as absurdly young-looking for his age at first meeting; ordinary description, no change in this scene."
+        "reason": "Narration about 천태민 at first meeting, looking absurdly young for age; established look, no change shown in this passage."
       },
       "status": "kept"
     }
@@ -50,39 +142,94 @@
   "dropped_facts": [],
   "rejected": [],
   "judgments": {
-    "584|나이에비해터무니없이젊어보이는그가": {
+    "288|잘생긴그리스신이환생한것같은외모다.": {
+      "subject": "천태민",
       "this_character": true,
       "literal_present": true,
       "lasting_change": false,
-      "reason": "Narration describes Cheon Taemin as absurdly young-looking for his age at first meeting; ordinary description, no change in this scene."
+      "reason": "Profile screen labeled 천태민-인물 정보 shows his face; ordinary description of his look (the 'as if Greek god' is simile-ish but describes real handsome features). No change."
+    },
+    "584|나이에비해터무니없이젊어보이는그가": {
+      "subject": "천태민",
+      "this_character": true,
+      "literal_present": true,
+      "lasting_change": false,
+      "reason": "Narration about 천태민 at first meeting, looking absurdly young for age; established look, no change shown in this passage."
     }
   },
-  "conflicts": [],
+  "conflicts": [
+    {
+      "attribute": "face / apparent age",
+      "indices": [
+        1,
+        2
+      ],
+      "kept": [
+        1
+      ],
+      "resolved": true,
+      "reason": "Fact 1 is earlier and gives concrete visual detail (chiseled, sculpted features, consistent with fact 0). Fact 2 is a vague age impression that does not match a clear look."
+    }
+  ],
   "unused": [],
+  "timeline_events": [
+    {
+      "chapter": 605,
+      "change": "Cheon Taemin lies in a comatose/vegetative state in a hidden chamber, unchanged for 20+ years. Appearance not described, so no visible change is confirmed",
+      "cause": "unknown illness/coma",
+      "sure": false
+    }
+  ],
+  "timeline": [
+    {
+      "chapter": 605,
+      "change": "Cheon Taemin lies in a comatose/vegetative state in a hidden chamber, unchanged for 20+ years. Appearance not described, so no visible change is confirmed",
+      "cause": "unknown illness/coma",
+      "sure": false,
+      "facts": [],
+      "verified": false
+    }
+  ],
+  "dismissed_events": [],
   "ranges": [
     {
       "start": 287,
-      "description": "Cheon Taemin is a man with thick, dark eyebrows and chiseled, sculpted features, handsome enough to look like a reincarnated Greek god. He looks absurdly young for his age. Tags: male, thick dark eyebrows, chiseled face, sculpted features, Greek-god handsome, youthful appearance",
+      "description": "Cheon Taemin is a man with thick, dark eyebrows and chiseled, sculpted features, handsome enough to look like a reincarnated Greek god. Tags: male, thick dark eyebrows, chiseled face, sculpted features, Greek-god handsome",
       "used": [
         0,
-        1,
-        2
+        1
       ],
       "difference": ""
     }
   ],
   "lines": [
-    "- **Appearance (from ch 287):** Cheon Taemin is a man with thick, dark eyebrows and chiseled, sculpted features, handsome enough to look like a reincarnated Greek god. He looks absurdly young for his age. Tags: male, thick dark eyebrows, chiseled face, sculpted features, Greek-god handsome, youthful appearance"
+    "- **Appearance (from ch 287):** Cheon Taemin is a man with thick, dark eyebrows and chiseled, sculpted features, handsome enough to look like a reincarnated Greek god. Tags: male, thick dark eyebrows, chiseled face, sculpted features, Greek-god handsome"
   ],
   "omitted": [],
   "calls": [
     {
       "model": "sonnet",
-      "cost_usd": 0.014878
+      "cost_usd": 0.0194451
     },
     {
       "model": "sonnet",
-      "cost_usd": 0.019997499999999998
+      "cost_usd": 0.0191749
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0177794
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0164829
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0173837
+    },
+    {
+      "model": "sonnet",
+      "cost_usd": 0.0214969
     }
   ]
 }
