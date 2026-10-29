@@ -70,6 +70,7 @@ MAX_HITS = 30                # change-term passages per character, spread over t
 EVENT_PASSAGES = 5           # extra passages around each timeline event
 MAX_BEAT_LINES = 90
 TIMELINE_PASSAGES = 25
+THIN_FACTS = 8               # judge every fact when a character has this few
 EVENT_WINDOW = 3             # chapters either side of an event that may verify it
 BEATS = ROOT / "summaries" / "beats"
 BINS = 8                     # chapter-range bins; each keeps its strongest passages
@@ -91,7 +92,37 @@ EPITHETS = {
 # Facts at these chapters are rejected after a manual check of the Korean (reason is recorded in the evidence).
 OVERRIDES = {
     "Jeok Cheongang": {179: "age-number talk ('take thirty years off'), not a visible change; ch235 shows him old again"},
+    "Lord of Heaven": {1127: "'owner of the burning eyes' is Jin Taekyung's gaze, not the Lord of Heaven's"},
     "Mungyeong": {508: "furrowed brow is an anger expression in one scene, not a lasting change"},
+}
+# Quotes added by hand after reading the Korean (still verified against the chapter) and forced approvals.
+MANUAL_FACTS = {
+    "Jeok Cheongang": [{"chapter": 711, "kind": "change", "attribute": "hair",
+                        "fact": "shaved bald head and a worn monk's robe (kept shaved until his hair regrows)",
+                        "quote": "대충 빡빡 밀어 버린 민머리에 낡은 승복을 걸친 그의 모습"}],
+    "Jin Taekyung": [{"chapter": 993, "kind": "change", "attribute": "skin",
+                      "fact": "palm skin as hard as iron and sharp nails after the Bone Transformation",
+                      "quote": "환골탈태까지 거치며 이제는 철피(鐵皮)나 다름없어진 손바닥의 피부와 날카로운 손톱"}],
+}
+FORCE_APPROVE = {
+    "Jeok Cheongang": {711: "shaved head lasts from ch711 to ch944 (ch715, ch846-847 still bald); a deliberate shave, "
+                            "kept as a monk persona",
+                       945: "hair visibly growing back after the shave; short red hair by ch999"},
+    "Jin Taekyung": {993: "Bone Transformation completed; Korean states iron-like skin and sharp nails"},
+}
+# Manual timeline corrections after reading the Korean: drop events with no visible effect, add missed ones.
+TIMELINE_EDITS = {
+    "Jin Taekyung": {
+        "drop": [988, 1132],     # Bone Transformation announced, no visible effect stated there
+        "add": [{"chapter": 993, "change": "ordinary skin -> iron-like palm skin and sharp nails",
+                 "cause": "Bone Transformation (환골탈태) completed", "sure": True}],
+    },
+    "Jeok Cheongang": {
+        "add": [{"chapter": 711, "change": "red-haired -> shaved bald head, worn monk's robe",
+                 "cause": "shaved his head (ch711 '빡빡 밀어 버린 민머리'); bald through ch846-847", "sure": True},
+                {"chapter": 945, "change": "bald -> short red hair growing back",
+                 "cause": "hair regrowing (ch945 '봄철 새싹처럼'); short red hair by ch999", "sure": True}],
+    },
 }
 FIRST_PERSON = {"Jin Taekyung"}   # narrator: also scan mirror / self-description scenes
 
@@ -120,8 +151,9 @@ EN_CHANGE_RE = re.compile(
     r"bald|shaved|lost (his|her|an|one|both) (arm|eye|leg|hand)|one-armed|one-eyed|scar|transform|metamorph|"
     r"enlighten|reborn|shed|molt|new form|regrew|regrow|undead|skeleton|rebirth|awaken", re.I)
 GENRE_RE = re.compile("반로환동|환골탈태|탈피|회춘|젊어졌|젊어진|서리가 ?(내려|내린|앉)|외팔|애꾸|한쪽 팔|한쪽 눈|백발이 ?되|변신")
+NO_VISIBLE_RE = re.compile(r"visible effect not stated|no visible|not specified|unspecified|unknown|unclear|no specific|none stated", re.I)
 CHANGE_RE = re.compile(
-    "서리가 ?(내려|내린|앉)|머리가 ?(하얗게 )?세|노화|탈피|변신|삭발|민머리가 ?되|어려졌|늙어졌|"
+    "빡빡 ?밀|밀어 ?버린|새싹처럼|까슬까슬하게 자라|머리카락이 ?(다시 )?자라|철피|서리가 ?(내려|내린|앉)|머리가 ?(하얗게 )?세|노화|탈피|변신|삭발|민머리가 ?되|어려졌|늙어졌|"
     "잃어 ?버|흉터가 ?(가득|생|남)|흉터투성|청년으로 돌아|돌아간 |젊은 모습|젊어 ?보|젊어졌|변했|변해|변하|변모|탈바꿈|바뀌었|바뀐|되어 ?버린|되어 ?버렸|잃었|잃은|잃고|잘려 ?나간|잘려 ?나갔|잘렸|베어 ?나갔|"
     "회춘|반로환동|환골탈태|젊어진|젊어졌|늙어 ?버린|늙어 ?버렸|부쩍 늙|늙어 있|하얗게 ?세|백발이 되|새하얀 백발|"
     "한쪽 팔|한쪽 눈|흉터가 생|외팔|애꾸|돌아갔|되돌아|사라졌|없어졌|재가 되|해골|강시|언데드|변이"
@@ -539,9 +571,8 @@ Rules:
   APPROVED-CHANGE chapter within 3 chapters of the event). Name the cause briefly in that range's description
   (e.g. "after returning to youth through enlightenment"); the range only shows from that chapter on. If an event
   truly gives no visible difference from the previous range, list it in "dismissed_events" with a reason.
-  Exception: a verified genre transformation (반로환동, 환골탈태, becoming undead, ...) whose visible effect the
-  text does not spell out STILL opens a range: restate the known look, say briefly that the body was remade by
-  it, and set "difference" to e.g. "body remade by Bone Transformation (visible effect not stated)".
+  A transformation whose visible effect the text never states (skin, eyes, hair, build, aura, apparent age)
+  opens NO range: merge it into the existing range. Never write a difference like "visible effect not stated".
   A disagreement between facts that matches a timeline event is a change (a range), not a conflict.
 - Each description is a complete, illustration-ready look for that range: 1-3 concrete visual sentences, then
   "Tags: " plus short comma-separated tags. It STARTS WITH the name "{english}".
@@ -583,8 +614,10 @@ Character: {english} (Korean names: {names}).{narrator}
 For each numbered item decide, from the context (the quoted line is marked >>> <<<):
 - this_character: the described look really belongs to {english}. The context must make that explicit (named, or
   unmistakable from the surrounding lines); an unnamed person you merely guess is {english} is false.
-- literal_present: the text states the look as a real, current fact of the story. False only for a flashback,
-  a hypothetical, a metaphor/simile, a disguise, costume or illusion, or a one-scene state. Similes and hypotheticals ("as if he had undergone X",
+- literal_present: the text states the look as a real fact of the story. A character's recollection or account of
+  how someone looked during a period IS valid evidence for the period it describes (it is not a flashback problem).
+  False only for a hypothetical, a metaphor/simile, a disguise, costume or illusion, a one-scene state, or a look
+  that belongs to a different, earlier period than the one being established. Similes and hypotheticals ("as if he had undergone X",
   "겪으면 이렇게 될까 싶을 정도") are NOT literal. A look that is
   stated as the character's established present state IS literal_present, even if the change happened earlier.
 - Idioms for looks are literal, not metaphor: 머리에 서리가 내려앉았다 = grey/white hair; 반로환동/회춘 = returned
@@ -606,7 +639,7 @@ For each numbered item decide, from the context (the quoted line is marked >>> <
 {items}
 
 For every item also give "subject": the NAME (as written in the text, or the resolved name for a pronoun) of the
-person the quoted look belongs to. Read the grammar carefully: in "his strike cost her an arm" the look belongs to
+person the quoted look belongs to; write "unknown" if the person is ambiguous or only guessed. Read the grammar carefully: in "his strike cost her an arm" the look belongs to
 her, not to the striker.
 
 Return only JSON: {{"verdicts": [{{"index": 0, "subject": "name", "this_character": true, "literal_present": true, "lasting_change": false, "reason": "short"}}]}}
@@ -806,7 +839,7 @@ def check_ranges(result: dict, kept: list[dict], english: str, first: int,
                     f"range start {rng['start']} must be the chapter of an APPROVED-CHANGE fact the range uses")
             if k and rng["start"] <= ranges[k - 1]["start"]:
                 raise ValueError("range starts must increase")
-            if len(rng["difference"]) < 8:
+            if len(rng["difference"]) < 8 or NO_VISIBLE_RE.search(rng["difference"]):
                 raise ValueError("every range after the base needs a concrete visible \"difference\"")
         if k + 1 < len(ranges):
             late = [i for i in rng["used"] if kept[i]["chapter"] >= ranges[k + 1]["start"]]
@@ -953,7 +986,8 @@ def process(index: int, row: dict, chapters: dict[int, str], force: bool, seed_r
         if cached.get("version") == VERSION:
             return cached
     _LOCAL.calls = []
-    earlier = merge_facts(prior_facts(path, None), *(prior_facts(path, rev) for rev in seed_revs or []))
+    earlier = merge_facts(prior_facts(path, None), *(prior_facts(path, rev) for rev in seed_revs or []),
+                          MANUAL_FACTS.get(row["english"], []))
     cache = prior_judgments(path)
     prior = {}
     if path.is_file():
@@ -966,6 +1000,9 @@ def process(index: int, row: dict, chapters: dict[int, str], force: bool, seed_r
         events = prior["timeline_events"]
     else:
         events = timeline(row, beat_sentences(row), hits, genre_chapters(row, chapters))
+    edits = TIMELINE_EDITS.get(row["english"], {})
+    events = sorted([e for e in events if e["chapter"] not in edits.get("drop", [])] + [a for a in edits.get("add", []) if a["chapter"] not in {e["chapter"] for e in events}],
+                    key=lambda e: e["chapter"])
     extra = {(c["chapter"], c["text"]): c for c in hits + event_passages(row, events, chapters)}
     main = [] if (reuse_facts and earlier) else candidates(row, chapters)
     passages = sorted({(c["chapter"], c["text"]): c for c in main + list(extra.values())}.values(),
@@ -988,6 +1025,8 @@ def process(index: int, row: dict, chapters: dict[int, str], force: bool, seed_r
         in_conflict = {i for g in groups for i in g["indices"]}
         marked = {i for i, f in enumerate(verified) if has_marker(f, chapters)}
         to_judge = sorted(in_conflict | marked | {i for i, f in enumerate(verified) if f.get("kind") == "change"})
+        if len(verified) <= THIN_FACTS:      # one wrong fact would be the whole description: check them all
+            to_judge = list(range(len(verified)))
         verdicts = judge(row, verified, to_judge, chapters, cache, events)
         share_paragraph_verdicts(verified, verdicts, chapters)
         evidence["judgments"] = {fact_key(verified[i]): v for i, v in verdicts.items()}
@@ -999,6 +1038,14 @@ def process(index: int, row: dict, chapters: dict[int, str], force: bool, seed_r
                 rejected.add(i)
                 verdicts[i] = {**(verdicts.get(i) or {}), "this_character": False, "reason": f"manual override: {reason}"}
         approved_orig = {i for i in marked if i not in rejected and verdicts[i].get("lasting_change")}
+        for i, fact in enumerate(verified):
+            reason = FORCE_APPROVE.get(row["english"], {}).get(fact["chapter"])
+            if reason:
+                rejected.discard(i)
+                approved_orig.add(i)
+                marked.add(i)
+                verdicts[i] = {**(verdicts.get(i) or {}), "this_character": True, "literal_present": True,
+                               "lasting_change": True, "reason": f"manual approval: {reason}"}
         for i, fact in enumerate(verified):
             fact["marker"] = i in marked
             fact["verdict"] = verdicts.get(i)

@@ -148,6 +148,22 @@ class AppearancePipelineTest(unittest.TestCase):
             {"ranges": [placeholder, dict(later, difference="old man -> youth")]}, self.facts(), "Hero", 1, approved={1})
         self.assertEqual([r["start"] for r in ranges], [40])
 
+    def test_no_visible_difference_is_rejected(self):
+        base = {"start": 1, "description": "Hero is tall. Tags: tall", "used": [0]}
+        for diff in ("body remade by Bone Transformation (visible effect not stated)", "unclear", "x"):
+            later = {"start": 40, "description": "Hero is remade. Tags: x", "used": [1], "difference": diff}
+            with self.assertRaisesRegex(ValueError, "difference"):
+                ap.check_ranges({"ranges": [base, later]}, self.facts(), "Hero", 1, approved={1})
+
+    def test_manual_facts_and_overrides_are_well_formed(self):
+        for name, facts in ap.MANUAL_FACTS.items():
+            for fact in facts:
+                self.assertTrue(len(ap.norm(fact["quote"])) >= ap.MIN_QUOTE and isinstance(fact["chapter"], int))
+        for table in (ap.OVERRIDES, ap.FORCE_APPROVE):
+            for name, chapters in table.items():
+                self.assertTrue(all(isinstance(c, int) and isinstance(r, str) and r for c, r in chapters.items()))
+        self.assertTrue(ap.CHANGE_RE.search("대충 빡빡 밀어 버린 민머리"))
+
     def test_change_marker_is_deterministic(self):
         chapters = {7: "그는 웃었다.\n노인은 어느덧 새하얀 백발이 되어 버렸다.\n그는 말했다.", 8: "평범한 노인이었다."}
         self.assertTrue(ap.has_marker({"chapter": 7, "quote": "새하얀 백발이 되어 버렸다"}, chapters))
