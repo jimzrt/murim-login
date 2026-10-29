@@ -7,5 +7,6 @@
 - **Personality:** Cold, detached, patient, and utterly ruthless toward those he interrogates or hunts.
 - **Voice:** Controlled and dispassionate, with concise statements delivered in a quiet, threatening tone.
 - **Relationships:** Tang Taesang and the Heaven-Shaking Venerable Nun were his latest victims, he lost one arm taking their lives, and the Qilian Three Fiends now submit to him alongside his hundreds of black-robed hunters.
-- **Appearance (from ch 347):** Western Heaven Demon Lord is a male who looks like a common middle-aged man, with a plain, ordinary face and an unremarkable build. He is missing one arm. Tags: male, middle-aged, plain face, ordinary build, one-armed
+- **Appearance (ch 347–357):** Western Heaven Demon Lord is a male middle-aged man, one-armed after losing an arm subduing the Poison King; one sleeve/shoulder side is empty. Tags: male, middle-aged, one-armed, missing arm
+- **Appearance (from ch 358):** Western Heaven Demon Lord is a male common-looking middle-aged man with a plain, ordinary face and build. His lost arm is restored, and both arms move naturally. Tags: male, middle-aged, plain face, ordinary build, two arms, restored arm
 - **Sources:** Korean source and accepted translation, Chapter 347

@@ -181,6 +181,56 @@ class AppearancePipelineTest(unittest.TestCase):
             ranges, conflicts, unused, omitted = ap.write(row, kept, set(), [])
         self.assertEqual((len(ranges), unused, omitted[0]["index"]), (1, [], 1))
 
+    def test_change_hits_use_epithets_and_proximity(self):
+        row = {"english": "Jeok Cheongang", "names": ["적천강"], "chapters": [1]}
+        near = "＃1화\n노괴가 서 있었다.\n타오르는 붉은 머리카락, 반로환동을 마친 모습이었다.\n"
+        far = "＃2화\n" + "가" * 2000 + "\n적천강은 웃었다.\n" + "나" * 2000 + "\n반로환동 이야기는 먼 이야기였다.\n"
+        hits = ap.change_hits(row, {1: near, 2: far, 3: "반로환동 한 노인.\n"})
+        self.assertEqual([h["chapter"] for h in hits], [1])      # ch2 too far, ch3 names nobody
+        self.assertEqual(ap.change_hits(dict(row, english="Other", names=["엉뚱"]), {1: near}), [])   # 노괴 is an epithet only for him
+
+    def test_narrator_change_hits_need_first_person(self):
+        row = {"english": "Jin Taekyung", "names": ["진태경"], "chapters": []}
+        text = "＃1화\n내 몸이 환골탈태를 거치며 변했다.\n그의 몸이 환골탈태를 거쳤다.\n"
+        hits = ap.change_hits(row, {1: text})
+        self.assertEqual(len(hits), 1)
+        self.assertIn("내 몸", hits[0]["text"])
+
+    def test_beat_sentences_need_name_and_change_vocabulary(self):
+        with tempfile.TemporaryDirectory() as folder:
+            beats = Path(folder)
+            (beats / "0505.md").write_text(
+                "# Chapter 505\n\nJeok Cheongang reveals he achieved Returned to Youth. Zhuge Feng frowns.\n"
+                "Someone else returned to youth.\n", encoding="utf-8")
+            with patch.object(ap, "BEATS", beats):
+                found = ap.beat_sentences({"english_names": ["Jeok Cheongang"]})
+        self.assertEqual([(b["chapter"], b["text"][:14]) for b in found], [(505, "Jeok Cheongang")])
+
+    def test_timeline_parses_events_and_drops_junk(self):
+        answer = json.dumps({"events": [{"chapter": 505, "change": "old -> young", "cause": "enlightenment"},
+                                        {"change": "no chapter"}, "junk"]})
+        with patch.object(ap, "claude", lambda model, prompt: answer):
+            events = ap.timeline({"english": "Hero", "names": ["영웅"]}, [{"chapter": 505, "text": "x"}], [])
+        self.assertEqual([(e["chapter"], e["cause"]) for e in events], [(505, "enlightenment")])
+
+    def test_event_hint_only_near_event(self):
+        events = [{"chapter": 505, "change": "old -> young", "cause": "enlightenment"}]
+        self.assertIn("Timeline hint: ch505", ap.event_hint({"chapter": 506}, events))
+        self.assertEqual(ap.event_hint({"chapter": 700}, events), "")
+
+    def test_write_requires_timeline_events_to_open_a_range_or_be_dismissed(self):
+        row = {"english": "Hero", "gender": "male", "first_chapter": 1}
+        kept = [{"chapter": 2, "fact": "old", "quote": "노인"}, {"chapter": 50, "fact": "young", "quote": "청년"}]
+        events = [{"chapter": 50, "change": "old -> young", "cause": "enlightenment"}]
+        one = {"ranges": [{"start": 1, "description": "Hero is old. Tags: old", "used": [0, 1]}]}
+        two = {"ranges": [{"start": 1, "description": "Hero is old. Tags: old", "used": [0]},
+                          {"start": 50, "description": "Hero is young after enlightenment. Tags: young", "used": [1],
+                           "difference": "old man -> young man"}]}
+        answers = iter([json.dumps(one), json.dumps(two)])
+        with patch.object(ap, "claude", lambda model, prompt: next(answers)):
+            ranges, *_ = ap.write(row, kept, {1}, [], events)
+        self.assertEqual([r["start"] for r in ranges], [1, 50])
+
     def test_candidates_ignore_profile_safe_through(self):
         row = {"english": "Other", "names": ["영웅"], "safe_through": 300, "chapters": [1, 150, 400]}
         text = "＃1화\n영웅의 얼굴은 하얗고 머리카락은 검었다.\n"
