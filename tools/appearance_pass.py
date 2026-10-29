@@ -4,8 +4,8 @@
 Repeatable and resumable. Stages per character, saved in
 `reviews/appearance/NNN-slug.json` (rank-ordered, with exact Korean quotes):
 
-1. rank       chapters naming the character (profile names/aliases + docs/NAMES.md)
-2. candidates cue paragraphs from ALL chapters up to `Safe through`, spread evenly over the
+1. rank       chapters (whole book, no Safe-through cap) naming the character (profile names/aliases + docs/NAMES.md)
+2. candidates cue paragraphs from ALL chapters, spread evenly over the
               chapter range; the narrator also gets mirror/self-description paragraphs
 3. extract    Sonnet calls over passage batches: facts with chapter, kind and verbatim Korean quote
 4. verify     drop facts whose quote is not in that chapter's source
@@ -177,7 +177,7 @@ def paragraphs(text: str) -> list[str]:
 
 
 def candidates(row: dict, chapters: dict[int, str]) -> list[dict]:
-    """Cue paragraphs about the character from every chapter up to Safe through.
+    """Cue paragraphs about the character from every chapter of the book (no Safe-through cap).
 
     A paragraph qualifies when it names the character (or one of the two paragraphs before it
     does) and carries appearance cues; the narrator also qualifies on self/mirror cues. The
@@ -186,8 +186,7 @@ def candidates(row: dict, chapters: dict[int, str]) -> list[dict]:
     """
     pattern = re.compile("|".join(map(re.escape, row["names"])))
     narrator = row["english"] in FIRST_PERSON
-    safe = row["safe_through"]
-    scan = sorted(n for n in (chapters if narrator else row["chapters"]) if n <= safe)
+    scan = sorted(chapters if narrator else row["chapters"])
     found: list[dict] = []
     for chapter in scan:
         paras = paragraphs(chapters[chapter])
@@ -339,18 +338,18 @@ def extract(row: dict, passages: list[dict]) -> list[dict]:
     return facts
 
 
-def verify(facts: list[dict], chapters: dict[int, str], safe_through: int) -> tuple[list[dict], list[dict]]:
+def verify(facts: list[dict], chapters: dict[int, str]) -> tuple[list[dict], list[dict]]:
     good, dropped = [], []
     for fact in facts:
         chapter, quote = fact.get("chapter"), fact.get("quote")
-        ok = (isinstance(chapter, int) and chapter in chapters and chapter <= safe_through
+        ok = (isinstance(chapter, int) and chapter in chapters
               and isinstance(quote, str) and len(norm(quote)) >= MIN_QUOTE
               and isinstance(fact.get("fact"), str) and norm(quote) in norm(chapters[chapter]))
         (good if ok else dropped).append(fact)
     return good, dropped
 
 
-def check_ranges(result: dict, verified: list[dict], english: str, first: int, safe: int) -> list[dict]:
+def check_ranges(result: dict, verified: list[dict], english: str, first: int) -> list[dict]:
     """Validate the writer's ranges; raises ValueError describing the first problem."""
     raw = result.get("ranges")
     if not isinstance(raw, list):
@@ -366,6 +365,8 @@ def check_ranges(result: dict, verified: list[dict], english: str, first: int, s
             raise ValueError(f"description must start with the name '{english}'")
         if text.casefold().rstrip(".") == "not described":
             continue
+        if "Tags:" not in text:
+            raise ValueError("description must end with a 'Tags: ...' list")
         ranges.append({"start": item["start"], "description": text, "used": sorted(set(used))})
     ranges.sort(key=lambda r: r["start"])
     if ranges:
@@ -376,8 +377,6 @@ def check_ranges(result: dict, verified: list[dict], english: str, first: int, s
             raise ValueError(f"range start {rng['start']} must equal the chapter of a fact it uses")
         if k and rng["start"] <= ranges[k - 1]["start"]:
             raise ValueError("range starts must increase")
-        if rng["start"] > safe:
-            raise ValueError("range starts after Safe through")
         if k + 1 < len(ranges):
             late = [i for i in rng["used"] if verified[i]["chapter"] >= ranges[k + 1]["start"]]
             if late:
@@ -397,7 +396,7 @@ def write(row: dict, verified: list[dict]) -> list[dict]:
         )
         try:
             return check_ranges(parse_json(claude(WRITE_MODEL, prompt)), verified, row["english"],
-                                row["first_chapter"], row["safe_through"])
+                                row["first_chapter"])
         except ValueError as error:
             feedback = f"\nYour previous answer was rejected: {error}. Fix it and answer again.\n"
     raise ValueError(f"writer failed validation: {feedback.strip()}")
@@ -428,22 +427,52 @@ def slug(index: int, english: str) -> Path:
     return OUT / f"{index:03d}-{re.sub(r'[^A-Za-z0-9]+', '-', english).strip('-')}.json"
 
 
-def process(index: int, row: dict, chapters: dict[int, str], force: bool) -> dict:
+def prior_facts(path: Path, rev: str | None) -> list[dict]:
+    """Facts from this character's earlier evidence (current file and, optionally, a git revision)."""
+    texts = []
+    if path.is_file():
+        texts.append(path.read_text(encoding="utf-8"))
+    if rev:
+        shown = subprocess.run(["git", "show", f"{rev}:{path.relative_to(ROOT)}"], cwd=ROOT,
+                               capture_output=True, text=True)
+        if shown.returncode == 0:
+            texts.append(shown.stdout)
+    facts = []
+    for text in texts:
+        try:
+            facts.extend(json.loads(text).get("facts", []))
+        except ValueError:
+            pass
+    return facts
+
+
+def merge_facts(*groups: list[dict]) -> list[dict]:
+    """Union by (chapter, quote); a re-run never loses a verified detail."""
+    merged: dict[tuple, dict] = {}
+    for group in groups:
+        for fact in group:
+            merged.setdefault((fact.get("chapter"), norm(str(fact.get("quote")))), fact)
+    return sorted(merged.values(), key=lambda f: f["chapter"] if isinstance(f.get("chapter"), int) else 0)
+
+
+def process(index: int, row: dict, chapters: dict[int, str], force: bool, seed_rev: str | None = None) -> dict:
     path = slug(index, row["english"])
     if path.is_file() and not force:
         cached = json.loads(path.read_text(encoding="utf-8"))
         if cached.get("version") == VERSION:
             return cached
     _LOCAL.calls = []
+    earlier = prior_facts(path, seed_rev)
     passages = candidates(row, chapters)
     evidence: dict = {
         "version": VERSION, "rank": index, "english": row["english"], "profile": row["path"],
         "names": row["names"], "chapter_count": row["chapter_count"], "first_chapter": row["first_chapter"],
-        "safe_through": row["safe_through"], "passages": [(p["chapter"], len(p["text"])) for p in passages],
+        "profile_safe_through": row["safe_through"], "passages": [(p["chapter"], len(p["text"])) for p in passages],
         "facts": [], "dropped_facts": [], "ranges": [], "lines": [NOT_DESCRIBED],
     }
-    if passages:
-        verified, dropped = verify(extract(row, passages), chapters, row["safe_through"])
+    if passages or earlier:
+        extracted = extract(row, passages) if passages else []
+        verified, dropped = verify(merge_facts(extracted, earlier), chapters)
         evidence["facts"], evidence["dropped_facts"] = verified, dropped
         if verified:
             evidence["ranges"] = write(row, verified)
@@ -487,12 +516,15 @@ def command_run(args: argparse.Namespace) -> int:
         selected = [(i, r) for i, r in selected if r["english"].casefold() in wanted]
     elif args.limit:
         selected = selected[:args.limit]
+    if args.beyond_safe:  # name/alias occurs after the profile's Safe through: needs a re-run
+        selected = [(i, r) for i, r in selected if any(n > r["safe_through"] for n in r["chapters"])]
+        print("beyond Safe through:", ", ".join(r["english"] for _, r in selected))
     OUT.mkdir(parents=True, exist_ok=True)
 
     def job(item):
         index, row = item
         try:
-            return process(index, row, chapters, args.force)
+            return process(index, row, chapters, args.force, args.seed_rev)
         except Exception as error:  # keep other characters going
             print(f"FAILED {row['english']}: {error}", file=sys.stderr)
             return None
@@ -521,6 +553,9 @@ def main() -> int:
     run.add_argument("--limit", type=int, default=0, help="only the first N ranked characters")
     run.add_argument("--only", nargs="*", help="English profile names")
     run.add_argument("--workers", type=int, default=3)
+    run.add_argument("--beyond-safe", action="store_true",
+                     help="only profiles whose name or alias appears after their Safe through")
+    run.add_argument("--seed-rev", help="git revision whose evidence facts are merged in (re-verified)")
     run.add_argument("--force", action="store_true", help="redo characters that already have current evidence")
     run.add_argument("--no-apply", action="store_true", help="write evidence only, leave profiles untouched")
     args = parser.parse_args()
