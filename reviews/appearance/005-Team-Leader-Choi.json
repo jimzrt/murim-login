@@ -268,11 +268,11 @@
       "verdict": {
         "subject": "최 팀장",
         "this_character": true,
-        "literal_present": true,
-        "lasting_change": true,
-        "reason": "Later timeline: face full of scars, newly revealed, stated as current look; 최 팀장 named."
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "vision/dream/prediction, not the story's present (like a flashback)"
       },
-      "status": "approved-change"
+      "status": "rejected"
     },
     {
       "attribute": "arm",
@@ -284,11 +284,11 @@
       "verdict": {
         "subject": "최 팀장",
         "this_character": true,
-        "literal_present": true,
-        "lasting_change": true,
-        "reason": "Named 최 팀장 has lost an arm, shown as the current state in this scene."
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "vision/dream/prediction, not the story's present (like a flashback)"
       },
-      "status": "approved-change"
+      "status": "rejected"
     },
     {
       "attribute": "face",
@@ -300,11 +300,11 @@
       "verdict": {
         "subject": "최 팀장",
         "this_character": true,
-        "literal_present": true,
-        "lasting_change": true,
-        "reason": "Scar-covered face stated as current look of 최 팀장, 'familiar yet unfamiliar'."
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "vision/dream/prediction, not the story's present (like a flashback)"
       },
-      "status": "approved-change"
+      "status": "rejected"
     },
     {
       "attribute": "missing limb",
@@ -316,16 +316,20 @@
       "verdict": {
         "subject": "최 팀장",
         "this_character": true,
-        "literal_present": true,
-        "lasting_change": true,
-        "reason": "Lost arm is a lasting change, shown here for the first time."
+        "literal_present": false,
+        "lasting_change": false,
+        "reason": "vision/dream/prediction, not the story's present (like a flashback)"
       },
-      "status": "approved-change"
+      "status": "rejected"
     }
   ],
   "dropped_facts": [],
   "rejected": [
-    6
+    6,
+    8,
+    9,
+    10,
+    11
   ],
   "judgments": {
     "210|겉보기에는늘씬한체구지만그안에는어마어마한근력이숨어있다.": {
@@ -345,30 +349,30 @@
     "830|얼굴에흉터가가득하고": {
       "subject": "최 팀장",
       "this_character": true,
-      "literal_present": true,
-      "lasting_change": true,
-      "reason": "Later timeline: face full of scars, newly revealed, stated as current look; 최 팀장 named."
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "vision/dream/prediction, not the story's present (like a flashback)"
     },
     "830|한쪽팔을잃어버린최팀장이술잔을비운다": {
       "subject": "최 팀장",
       "this_character": true,
-      "literal_present": true,
-      "lasting_change": true,
-      "reason": "Named 최 팀장 has lost an arm, shown as the current state in this scene."
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "vision/dream/prediction, not the story's present (like a flashback)"
     },
     "830|얼굴에흉터가가득하고,한쪽팔을잃어버린최팀장이술잔을비운다.": {
       "subject": "최 팀장",
       "this_character": true,
-      "literal_present": true,
-      "lasting_change": true,
-      "reason": "Scar-covered face stated as current look of 최 팀장, 'familiar yet unfamiliar'."
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "vision/dream/prediction, not the story's present (like a flashback)"
     },
     "830|한쪽팔을잃어버린최팀장이": {
       "subject": "최 팀장",
       "this_character": true,
-      "literal_present": true,
-      "lasting_change": true,
-      "reason": "Lost arm is a lasting change, shown here for the first time."
+      "literal_present": false,
+      "lasting_change": false,
+      "reason": "vision/dream/prediction, not the story's present (like a flashback)"
     }
   },
   "conflicts": [],
@@ -429,13 +433,8 @@
       "change": "intact face and both arms -> face covered in scars and one arm lost",
       "cause": "battle injuries (later timeline)",
       "sure": true,
-      "facts": [
-        8,
-        9,
-        10,
-        11
-      ],
-      "verified": true
+      "facts": [],
+      "verified": false
     }
   ],
   "dismissed_events": [],
@@ -453,27 +452,10 @@
         7
       ],
       "difference": ""
-    },
-    {
-      "start": 830,
-      "description": "Team Leader Choi is a man in his 20s with a slender build, in a later timeline after battle injuries. His face is covered in scars and he has lost one arm. He still wears a thin suit over a luxury designer shirt. Tags: male, 20s, slender, face covered in scars, one arm missing, thin suit, designer shirt",
-      "used": [
-        0,
-        1,
-        2,
-        3,
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
-      "difference": "intact handsome face and both arms -> face covered in scars and one arm missing"
     }
   ],
   "lines": [
-    "- **Appearance (ch 41–829):** Team Leader Choi is a man in his 20s with a slender build that hides great muscle strength. He has strikingly handsome, celebrity-level looks. He wears a thin tailored suit over a luxury designer shirt, a polished, photo-shoot style. Tags: male, 20s, slender, hidden muscle, very handsome, thin tailored suit, casual suit, designer shirt",
-    "- **Appearance (from ch 830):** Team Leader Choi is a man in his 20s with a slender build, in a later timeline after battle injuries. His face is covered in scars and he has lost one arm. He still wears a thin suit over a luxury designer shirt. Tags: male, 20s, slender, face covered in scars, one arm missing, thin suit, designer shirt"
+    "- **Appearance (from ch 41):** Team Leader Choi is a man in his 20s with a slender build that hides great muscle strength. He has strikingly handsome, celebrity-level looks. He wears a thin tailored suit over a luxury designer shirt, a polished, photo-shoot style. Tags: male, 20s, slender, hidden muscle, very handsome, thin tailored suit, casual suit, designer shirt"
   ],
   "omitted": [],
   "calls": [

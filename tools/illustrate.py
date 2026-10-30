@@ -29,6 +29,9 @@ Prompt technique (OpenAI image-gen prompting guide, Codex imagegen skill, practi
 - Concrete features instead of value words: "ugly" or "ordinary" become specific features (broad flat
   nose, uneven brows); plain characters add idealized-beauty terms to Avoid, since the model drifts
   to a generic handsome face otherwise. Glamour retouching is always avoided.
+- Anti-comedy guard: when the Korean exaggerates (calf-sized eyes, mountain-sized bodies; detected from
+  the tags or forced with `serious`), a Tone line asks for a serious adult face in proportion and
+  Avoid gains cartoon/chibi/baby-face terms. Size is shown with a scale reference and a low camera.
 - Iris colour stated explicitly; Korean 맑은/투명한 눈 means clear and sharp, not pale.
 - Framing and orientation stated explicitly (bust or half-body, vertical 4:5); short, no
   quality-keyword spam; exclusions in one Avoid line.
@@ -65,6 +68,9 @@ WORK = ROOT / ".work" / "illustrations"
 ORIGINALS = WORK / "originals"
 PUBLIC = ROOT / "reader" / "public" / "characters"
 READER_DATA = ROOT / "reader" / "src" / "data" / "character-illustrations.json"
+KEYART = ILLUSTRATIONS / "keyart.json"
+TITLE_PUBLIC = ROOT / "reader" / "public" / "title"
+KEYART_WIDTH = 800
 CODEX_IMAGES = Path.home() / ".codex" / "generated_images"
 
 MURIM_SETTING = "wuxia murim setting inspired by Ming-dynasty China"
@@ -77,7 +83,15 @@ FRAMING = {
     "bust": "bust portrait (head and shoulders), vertical 4:5 portrait orientation, face large and in sharp focus.",
     "half-body": ("half-body (waist-up) instead of a bust, so the build reads clearly; vertical 4:5 portrait "
                   "orientation, face still clearly readable."),
+    "scale": ("low camera angle looking up, three-quarter body (head to thighs) instead of a bust, so his size "
+              "reads against the scale reference; vertical 4:5 portrait orientation, face clearly readable."),
 }
+# Korean often exaggerates for effect (calf-sized eyes, mountain-sized bodies); the model turns that into
+# cartoon proportions unless told to keep the face adult, serious and in proportion.
+EXAGGERATED_RE = re.compile(r"bulging|calf|huge round eyes|caterpillar|giant|mountain|exaggerat", re.I)
+SERIOUS = ("Tone: serious and grounded, not comic; render any exaggerated feature literally but realistically, "
+           "on an adult face in proportion with the semi-realistic style")
+SERIOUS_AVOID = ["cartoonish or chibi proportions", "baby face", "caricature", "comedy"]
 AVOID = ["text", "watermark", "border", "extra characters", "glamour retouching"]
 WRAPPER = (
     "Use your image generation tool to create exactly one image from the prompt below. "
@@ -194,6 +208,11 @@ def build_entry(row: dict, item: dict, gender: str | None, overrides: dict) -> d
     identity = spec.get("identity")
     continuity = spec.get("continuity")
     avoid = [*AVOID, *spec.get("avoid", [])]
+    serious = spec.get("serious")
+    if serious is None:
+        serious = bool(EXAGGERATED_RE.search(" ".join(item["tags"]) + " " + item["description"]))
+    if serious:
+        avoid += [term for term in SERIOUS_AVOID if term not in avoid]
 
     label = f"{row['english']}, {gender}" if gender in ("male", "female") else row["english"]
     if fields["age"]:
@@ -216,6 +235,10 @@ def build_entry(row: dict, item: dict, gender: str | None, overrides: dict) -> d
     lines.append(f"Eyes: {fields['eyes']['text']}.")
     lines.append(f"Expression: {fields['expression']['text']}.")
     lines.append(f"Composition/framing: {FRAMING[framing]}")
+    if "scale" in fill_ins:
+        lines.append(f"Scale reference: {fill_ins['scale']}.")
+    if serious:
+        lines.append(f"{SERIOUS}.")
     if "motif" in fill_ins:
         lines.append(f"Scene/backdrop: {fill_ins['motif']}.")
     lines.append(f"Avoid: {', '.join(avoid)}.")
@@ -247,6 +270,7 @@ def build_entry(row: dict, item: dict, gender: str | None, overrides: dict) -> d
         "setting": setting,
         "framing": framing,
         "framing_reason": spec.get("framing_reason"),
+        "serious": serious,
         "skip": spec.get("skip"),
         "prompt": prompt,
         "prompt_hash": hashlib.sha256(prompt.encode("utf-8")).hexdigest()[:16],
@@ -485,6 +509,87 @@ def command_generate(args: argparse.Namespace) -> int:
     return 0
 
 
+# --------------------------------------------------------------------- key art
+
+def cast_line(name: str, start: int, overrides: dict) -> str:
+    """One cast member at an early range, from the same overrides as the portraits so faces match."""
+    spec = resolve(overrides[name], start)
+    parts = [spec.get("appearance", "")]
+    if spec.get("identity"):
+        parts.append(f"face (keep exactly): {spec['identity']}")
+    for key in ("build", "eyes", "expression"):
+        value = basis_value(spec.get(key))
+        if value:
+            parts.append(f"{key}: {value['text']}")
+    for key in ("hair", "clothing"):
+        if spec.get("fill_ins", {}).get(key):
+            parts.append(f"{key}: {spec['fill_ins'][key]}")
+    return f"- {name}: " + "; ".join(part for part in parts if part)
+
+
+def keyart_prompts(spec: dict | None = None, overrides: dict | None = None) -> list[dict]:
+    spec = json.loads(KEYART.read_text(encoding="utf-8")) if spec is None else spec
+    if overrides is None:
+        overrides = json.loads(OVERRIDES.read_text(encoding="utf-8"))
+    title = spec["title"]
+    spelled = " ".join("-".join(word.upper()) for word in title.split())
+    entries = []
+    for key, scene in spec["scenes"].items():
+        lines = [
+            "Use case: illustration-story",
+            f'Asset type: title key art (poster) for the web novel "{title}"',
+            f"Primary request: {scene['idea']}",
+            f"Style/medium: {spec['style']}.",
+            f"Scene/backdrop: {scene['scene']}.",
+            f"Composition/framing: {scene['composition']}.",
+            "Cast (same faces as their character portraits; adult, in proportion, not chibi):",
+            *[cast_line(name, start, overrides) for name, start in scene["cast"]],
+            f'Text (verbatim): "{title}" (spelled {spelled}), exactly once, nothing else. Placement and '
+            f"typography: {scene['title_placement']}.",
+            "Avoid: any other text, letters, numbers or logos; misspelled or extra letters; watermark; border; "
+            "characters other than the listed cast; glamour retouching.",
+        ]
+        prompt = "\n".join(lines)
+        entries.append({"id": key, "prompt": prompt, "idea": scene["idea"], "title": title,
+                        "prompt_hash": hashlib.sha256(prompt.encode("utf-8")).hexdigest()[:16]})
+    return entries
+
+
+def command_keyart(args: argparse.Namespace) -> int:
+    entries = keyart_prompts()
+    manifest = load_manifest()
+    chosen = [e for e in entries if (not args.ids or e["id"] in args.ids)
+              and (args.force or manifest["items"].get(e["id"], {}).get("status") != "done")]
+    for entry in chosen:
+        print(f"{entry['id']} ...", flush=True)
+        try:
+            info = run_codex(entry)
+        except (Blocked, Failed) as error:
+            status = "blocked" if isinstance(error, Blocked) else "failed"
+            print(f"{status}: {entry['id']}: {error}", file=sys.stderr)
+            return 3 if status == "blocked" else 1
+        ORIGINALS.mkdir(parents=True, exist_ok=True)
+        original = ORIGINALS / f"{entry['id']}.png"
+        shutil.copy2(info.pop("png"), original)
+        target = TITLE_PUBLIC / f"{entry['id']}.webp"
+        from PIL import Image
+        target.parent.mkdir(parents=True, exist_ok=True)
+        with Image.open(original) as image:
+            image = image.convert("RGB")
+            image.resize((KEYART_WIDTH, round(image.height * KEYART_WIDTH / image.width)), Image.LANCZOS) \
+                .save(target, "WEBP", quality=WEBP_QUALITY, method=6)
+        manifest["items"][entry["id"]] = {
+            "status": "done", "kind": "keyart", "prompt_hash": entry["prompt_hash"], "idea": entry["idea"],
+            "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+            "original": str(original.relative_to(ROOT)), "image": f"title/{target.name}",
+            "webp_bytes": target.stat().st_size, **info}
+        write_json(MANIFEST, manifest)
+        usage = info.get("usage") or {}
+        print(f"  done in {info['seconds']}s, {usage.get('input_tokens', '?')} in tokens, "
+              f"{info['generations']} generation(s)", flush=True)
+    return 0
+
+
 def command_status(args: argparse.Namespace) -> int:
     entries = load_prompts()
     manifest = load_manifest()
@@ -513,10 +618,15 @@ def main(argv: list[str] | None = None) -> int:
     gen.add_argument("--allow-uncurated", action="store_true", help="include characters without overrides")
     gen.add_argument("--reference", help="attach an image as an art-style reference (experimental)")
     gen.add_argument("--variant", help="store as <id>~<variant> (original only, not in reader data)")
+    art = sub.add_parser("keyart", help="title key art from reviews/illustrations/keyart.json")
+    art.add_argument("ids", nargs="*")
+    art.add_argument("--force", action="store_true")
     status = sub.add_parser("status", help="done / stale / pending per id")
     status.add_argument("-v", "--verbose", action="store_true")
     args = parser.parse_args(argv)
-    return {"prompts": command_prompts, "generate": command_generate, "status": command_status}[args.command](args)
+    commands = {"prompts": command_prompts, "generate": command_generate, "status": command_status,
+                "keyart": command_keyart}
+    return commands[args.command](args)
 
 
 if __name__ == "__main__":

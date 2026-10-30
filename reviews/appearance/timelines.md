@@ -26,12 +26,11 @@ V = verified by an approved change in the Korean (+-3 chapters); - = not verifie
 ## Hyuk Mujin — range starts [6]
 - ch998 - no stated prior look -> described as a superhuman who has completed Bone Transformation (환골탈태) at the Dengfeng Zaoji realm; the passage's subject is unclear and may not be Hyuk Mujin — cultivation breakthrough (Bone Transformation)
 
-## Team Leader Choi — range starts [41, 830]
+## Team Leader Choi — range starts [41]
 - ch561 - arm that was cut off by someone's command appears cleanly reattached but trembles faintly with remembered pain (possibly refers to another person, not Choi) — severed arm reattached
 - ch583 - both arms intact -> lost one arm (smiling because he saved something more precious; likely Choi Minwoo, Pyeongchang Monster Wave) — battle injury
 - ch597 - young-looking -> hair frosted with white (this line refers to the butler, not Choi) — time skip/aging
-- ch830 V intact face and both arms -> face covered in scars and one arm lost — battle injuries (later timeline)
-- RANGE from ch830: intact handsome face and both arms -> face covered in scars and one arm missing
+- ch830 - intact face and both arms -> face covered in scars and one arm lost — battle injuries (later timeline)
 
 ## Jin Wikyung — range starts [6]
 - ch61 - Head Elder (not Wikyung) lost an arm — not applicable to Wikyung — n/a

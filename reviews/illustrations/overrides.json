@@ -3,9 +3,10 @@
   "_notes": [
     "Techniques adopted (see the tools/illustrate.py docstring): labeled spec in the Codex imagegen order, passed verbatim; one fixed identity anchor per character; numeric apparent age; concrete un-idealized features plus Avoid terms instead of 'ugly'/'ordinary'; explicit iris colour; explicit framing and 4:5 orientation; text-only style anchoring.",
     "Jeok Cheongang build: ch505 says 탄력 있는 근육으로 이루어진 단단한 체구와 칠 척에 달하는 키 and 40대 중후반으로 보이는 몸짱 중년인 (tall, firm and muscular, looks mid-to-late forties); the profile line's 'small and slight' is wrong for 505-710. Later ranges say small again (ch795 왜소한 체구; ch972 a disciple 3-4 heads taller), so build is per range, not part of the identity anchor.",
-    "Team Leader Choi from ch830: the scars and lost arm are a vision of an apocalyptic future (ch830, 종말), not a lasting change, so the range is skipped.",
+    "Team Leader Choi: the former ch830 range (scars, lost arm) was a vision of an apocalyptic future; removed from the profile and evidence, and tools/appearance_pass.py now rejects vision/dream/prediction looks like flashbacks.",
     "Human Butcher: the ch9 range start is a false hit (인간 백정 there is an epithet for Jin Wikyung); the character 인도 (人屠) appears at ch160. 'Butcher' is a nickname for how he kills, not a trade.",
-    "Jin Wikyung: 꺼질 듯한 눈동자 (ch21) is grief while identifying dead children, not a lasting trait; rendered as heavy, weary eyes."
+    "Jin Wikyung: 꺼질 듯한 눈동자 (ch21) is grief while identifying dead children, not a lasting trait; rendered as heavy, weary eyes.",
+    "Taishan: redone as a serious adult giant (sample read as a chubby comic child). 호거아 (Tiger Giant Child) is an epithet for his temperament, not his age. His real first appearance is ch533; the ch37 range start is a false hit on the mountain 오태산."
   ],
   "Jin Taekyung": {
     "identity": "an oval face with a clean, defined jawline, straight nose, dark straight eyebrows and a lean, youthful neck",
@@ -75,7 +76,11 @@
           "clothing": "a plain, slightly worn charcoal martial robe with a deep crimson inner collar",
           "motif": "subtle red flame wisps and drifting embers in the background"
         },
-        "avoid": ["handsome leading-man face", "smooth idealized skin", "bodybuilder bulk"]
+        "avoid": [
+          "handsome leading-man face",
+          "smooth idealized skin",
+          "bodybuilder bulk"
+        ]
       },
       "711": {
         "age": "looks in his mid-to-late forties",
@@ -92,7 +97,10 @@
         "fill_ins": {
           "clothing": "a worn, faded grey monk's robe"
         },
-        "avoid": ["handsome leading-man face", "smooth idealized skin"]
+        "avoid": [
+          "handsome leading-man face",
+          "smooth idealized skin"
+        ]
       },
       "945": {
         "age": "looks in his mid-to-late forties",
@@ -110,7 +118,10 @@
           "hair": "short, bristly red hair a few weeks grown out",
           "clothing": "a plain charcoal martial robe with a deep crimson inner collar"
         },
-        "avoid": ["handsome leading-man face", "smooth idealized skin"]
+        "avoid": [
+          "handsome leading-man face",
+          "smooth idealized skin"
+        ]
       }
     }
   },
@@ -130,7 +141,10 @@
       "hair": "black hair tied up in a short, practical topknot",
       "motif": "none"
     },
-    "avoid": ["handsome leading-man face", "idealized beauty"],
+    "avoid": [
+      "handsome leading-man face",
+      "idealized beauty"
+    ],
     "ranges": {
       "6": {
         "appearance": "a lean, agile young man about 180 cm tall, with strikingly pale, almost milk-white skin and a plain, homely, unattractive face (deliberately not handsome), wearing the navy martial robe of the Taewon Jin family"
@@ -158,7 +172,11 @@
       "clothing": "a plain light blue-grey martial robe of simple cut, a sword hilt just visible over one shoulder",
       "motif": "a few drifting plum blossom petals in the background"
     },
-    "avoid": ["handsome leading-man face", "intense brooding stare", "forehead scar"],
+    "avoid": [
+      "handsome leading-man face",
+      "intense brooding stare",
+      "forehead scar"
+    ],
     "ranges": {
       "130": {
         "appearance": "a young man just past twenty with an ordinary, pleasant face and an average build; looks too young and gentle to be a master swordsman"
@@ -191,9 +209,6 @@
           "text": "dark brown irises; calm, observant eyes",
           "basis": null
         }
-      },
-      "830": {
-        "skip": "ch830 shows a vision of an apocalyptic future (종말), not a lasting change"
       }
     }
   },
@@ -227,31 +242,37 @@
     }
   },
   "Taishan": {
-    "identity": "a huge, round, childlike face with full cheeks, a small snub nose, sparse brows and enormous, round, bulging eyes as big as a calf's",
-    "age": "looks like an overgrown boy, age hard to tell",
-    "framing": "half-body",
-    "framing_reason": "mountain-sized giant frame is defining (구척장신의 거구, ch 1059)",
+    "identity": "a huge, broad, heavy-boned adult man's face with a thick brow ridge, a broad flat nose, a wide jaw, heavy cheekbones and very large, round, bulging eyes",
+    "age": "a grown man, apparent age unclear, roughly late twenties",
+    "framing": "scale",
+    "framing_reason": "mountain-sized giant frame is defining (팔척장신의 거한, 산 같은 떡대, ch 533; 구척장신의 거구, ch 1059)",
+    "serious": true,
     "build": {
-      "text": "a mountain-like giant about 2.7 m tall, hugely bulky, his shoulders filling the frame",
-      "basis": "구척장신의 거구 (ch 1059); 이름만큼이나 덩치가 산만 하고 (ch 937)"
+      "text": "a mountain-like giant about 2.7 m tall, massively broad and heavy, thick neck, huge arms and hands",
+      "basis": "팔척장신의 거한 … 산 같은 떡대 (ch 533); 구척장신의 거구 (ch 1059)"
     },
     "eyes": {
-      "text": "dark brown irises in enormous, round, bulging eyes",
+      "text": "dark brown irises in very large, round, bulging eyes, a little too wide open, unblinking",
       "basis": "퉁방울만 한 눈동자 (ch 533); 송아지처럼 커다란 태산의 눈 (ch 1128); colour not stated"
     },
     "expression": {
-      "text": "a simple, childlike, wide-eyed blank look, innocent and a little wary",
-      "basis": "덩치 큰 어린아이의 모습 (ch 534); profile personality: childlike, wary of strangers"
+      "text": "a stiff, set, wary face with an unblinking stare; simple-minded but with the latent menace of a wild beast",
+      "basis": "딱딱하게 굳은 얼굴 (ch 549); 평소에는 순수한 어린아이 같으나, 그 타고난 용력과 무위는 그야말로 맹수와 다름없는 (ch 1059)"
     },
     "fill_ins": {
-      "hair": "short, shaggy black hair",
-      "clothing": "a simple dark sleeveless tunic with a rope belt, huge bare arms",
-      "motif": "none"
+      "hair": "short, coarse black hair, roughly cropped",
+      "clothing": "a dark, coarse sleeveless martial tunic with a thick rope belt and leather bracers",
+      "scale": "he ducks to pass through an inn doorway far too small for him, his shoulders wider than the door frame, one huge hand gripping it; a normal-sized wine jar on a table beside him looks tiny",
+      "motif": "a dim wooden murim inn interior in the blurred background"
     },
-    "avoid": ["handsome face", "menacing villain look"],
+    "avoid": [
+      "handsome face",
+      "smiling",
+      "fat or chubby body"
+    ],
     "ranges": {
       "37": {
-        "appearance": "a gigantic, bulky man the size of a small mountain, whose face and manner are those of a big child"
+        "appearance": "a towering, mountain-sized giant of a man, intimidating by sheer size; his manner is simple and childlike, but nothing about his look is comic"
       }
     }
   },
@@ -270,7 +291,10 @@
       "clothing": "a dark Han-style martial robe under a weathered sheepskin-and-fur steppe cloak",
       "motif": "a faint, windswept northern steppe plateau in the blurred background"
     },
-    "avoid": ["butcher's apron or cleaver", "handsome face"],
+    "avoid": [
+      "butcher's apron or cleaver",
+      "handsome face"
+    ],
     "ranges": {
       "9": {
         "appearance": "a Han Chinese mounted-bandit leader of the northern steppe plateau, a peak-level master holding the long, heavy horse-cutting sword Chammageom (斬馬劍) upright beside him"
@@ -314,7 +338,10 @@
         "fill_ins": {
           "motif": "cold blue ghost-light in the blurred background"
         },
-        "avoid": ["any body, neck or flesh", "golden crown"]
+        "avoid": [
+          "any body, neck or flesh",
+          "golden crown"
+        ]
       }
     }
   },
@@ -340,7 +367,9 @@
       "clothing": "a long dark-blue grand mage's coat with subtle silver embroidery",
       "motif": "faint arcane glyph light in the blurred background"
     },
-    "avoid": ["handsome leading-man face"],
+    "avoid": [
+      "handsome leading-man face"
+    ],
     "ranges": {
       "242": {
         "appearance": "a huge, bulky Black man, a grand mage with dark black skin, holding a large, handsome ornate staff"

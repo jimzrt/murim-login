@@ -263,3 +263,30 @@ class AppearancePipelineTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class VisionGuardTest(unittest.TestCase):
+    CHAPTER = ("평범한 문단이다.\n\n"
+               "얼굴에 흉터가 가득하고, 한쪽 팔을 잃어버린 최 팀장이 술잔을 비운다.\n\n"
+               "백발이 된 노인이 웃었다.")
+
+    def fact(self, text, quote, chapter=830):
+        return {"chapter": chapter, "fact": text, "quote": quote, "kind": "change"}
+
+    def test_vision_and_same_paragraph_facts_are_rejected(self):
+        facts = [
+            self.fact("Face covered in scars (later timeline)", "얼굴에 흉터가 가득하고"),
+            self.fact("Lost one arm", "한쪽 팔을 잃어버린 최 팀장이"),
+            self.fact("Hair turned white", "백발이 된 노인이 웃었다"),
+        ]
+        verdicts = {1: {"reason": "Lost arm is a lasting change, shown here for the first time."}}
+        self.assertEqual(ap.vision_facts(facts, verdicts, {830: self.CHAPTER}), {0, 1})
+
+    def test_judge_reason_alone_marks_a_vision(self):
+        facts = [self.fact("Has one eye", "백발이 된 노인이 웃었다")]
+        self.assertEqual(ap.vision_facts(facts, {0: {"reason": "seen in a dream of the future"}}, {830: self.CHAPTER}), {0})
+        self.assertEqual(ap.vision_facts(facts, {0: {"reason": "permanent injury"}}, {830: self.CHAPTER}), set())
+
+    def test_prompts_treat_visions_like_flashbacks(self):
+        self.assertIn("Visions, dreams, prophecies", ap.JUDGE_PROMPT)
+        self.assertIn("vision, dream, prophecy", ap.EXTRACT_PROMPT)

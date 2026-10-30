@@ -58,6 +58,20 @@ class PromptTest(unittest.TestCase):
         self.assertIn(anchor, early)
         self.assertIn(anchor, late)
 
+    def test_anti_comedy_guard_for_exaggerated_features(self):
+        giant = PROFILE.replace("Tags: old man, white hair, clear eyes", "Tags: giant, big round bulging eyes")
+        rows = [{**ROWS[0], "text": giant}]
+        guarded = {entry["id"]: entry for entry in il.build_prompts(rows, {})}
+        self.assertTrue(guarded["hero-1"]["serious"])
+        self.assertIn("Tone: serious and grounded, not comic", guarded["hero-1"]["prompt"])
+        self.assertIn("cartoonish or chibi proportions", guarded["hero-1"]["prompt"])
+        self.assertFalse(guarded["hero-100"]["serious"])
+        self.assertNotIn("Tone:", guarded["hero-100"]["prompt"])
+        forced = il.build_prompts(ROWS[:1], {"Hero": {"serious": True, "framing": "scale",
+                                                      "fill_ins": {"scale": "a tiny doorway"}}})[0]
+        self.assertIn("Scale reference: a tiny doorway.", forced["prompt"])
+        self.assertIn("low camera angle", forced["prompt"])
+
     def test_age_and_build_basis_split(self):
         overrides = {"Hero": {"ranges": {"1": {"age": "looks about 80", "build": {"text": "short", "basis": "오척단구 (ch 5)"},
                                                 "continuity": "same face as before", "avoid": ["handsome face"]}}}}
@@ -219,3 +233,21 @@ class GenerateTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class KeyArtTest(unittest.TestCase):
+    def test_title_verbatim_and_cast_uses_early_ranges(self):
+        spec = {"title": "Murim Login", "style": "webtoon",
+                "scenes": {"art-1": {"idea": "i", "cast": [["Hero", 1]], "scene": "s", "composition": "c",
+                                     "title_placement": "top"}}}
+        entry = il.keyart_prompts(spec, OVERRIDES | {"Hero": {"identity": "a square jaw",
+                                                               "ranges": {"1": {"appearance": "an old man"},
+                                                                          "100": {"appearance": "a bald man"}}}})[0]
+        self.assertIn('Text (verbatim): "Murim Login" (spelled M-U-R-I-M L-O-G-I-N), exactly once', entry["prompt"])
+        self.assertIn("- Hero: an old man; face (keep exactly): a square jaw", entry["prompt"])
+        self.assertNotIn("bald", entry["prompt"])
+
+    def test_repo_keyart_cast_is_spoiler_free(self):
+        for entry in il.keyart_prompts():
+            for later in ("red hair", "bald", "monk", "iron-hard", "skull"):
+                self.assertNotIn(later, entry["prompt"])
