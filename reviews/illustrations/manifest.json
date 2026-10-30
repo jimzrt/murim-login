@@ -61,7 +61,8 @@
       "generations": 1,
       "log": ".work/illustrations/codex/jeok-cheongang-505-20261029T230455Z",
       "image": "characters/jeok-cheongang-505.webp",
-      "webp_bytes": 56950
+      "webp_bytes": 56950,
+      "keep": true
     },
     "hyuk-mujin-6": {
       "status": "done",
@@ -120,7 +121,8 @@
       "generations": 1,
       "log": ".work/illustrations/codex/jin-taekyung-993-20261029T230559Z",
       "image": "characters/jin-taekyung-993.webp",
-      "webp_bytes": 37046
+      "webp_bytes": 37046,
+      "keep": true
     },
     "jeok-cheongang-711": {
       "status": "done",
@@ -140,7 +142,8 @@
       "generations": 1,
       "log": ".work/illustrations/codex/jeok-cheongang-711-20261029T230710Z",
       "image": "characters/jeok-cheongang-711.webp",
-      "webp_bytes": 44164
+      "webp_bytes": 44164,
+      "keep": true
     },
     "jeok-cheongang-945": {
       "status": "done",
@@ -160,7 +163,8 @@
       "generations": 1,
       "log": ".work/illustrations/codex/jeok-cheongang-945-20261029T230751Z",
       "image": "characters/jeok-cheongang-945.webp",
-      "webp_bytes": 29708
+      "webp_bytes": 29708,
+      "keep": true
     },
     "cheongpung-130": {
       "status": "done",
@@ -180,7 +184,8 @@
       "generations": 1,
       "log": ".work/illustrations/codex/cheongpung-130-20261029T230906Z",
       "image": "characters/cheongpung-130.webp",
-      "webp_bytes": 39676
+      "webp_bytes": 39676,
+      "keep": true
     },
     "team-leader-choi-41": {
       "status": "done",
@@ -200,7 +205,8 @@
       "generations": 1,
       "log": ".work/illustrations/codex/team-leader-choi-41-20261029T230952Z",
       "image": "characters/team-leader-choi-41.webp",
-      "webp_bytes": 25702
+      "webp_bytes": 25702,
+      "keep": true
     },
     "jin-wikyung-6": {
       "status": "done",
@@ -220,27 +226,28 @@
       "generations": 1,
       "log": ".work/illustrations/codex/jin-wikyung-6-20261029T231102Z",
       "image": "characters/jin-wikyung-6.webp",
-      "webp_bytes": 50170
+      "webp_bytes": 50170,
+      "keep": true
     },
     "taishan-37": {
       "status": "done",
-      "prompt_hash": "be93703551f1b411",
-      "generated_at": "2026-10-29T23:12:01+00:00",
+      "prompt_hash": "3e08fac1f65c014c",
+      "generated_at": "2026-10-30T00:12:47+00:00",
       "original": ".work/illustrations/originals/taishan-37.png",
       "reference": null,
-      "thread_id": "01a189ee-e074-7bd0-8085-a77f7777a8fc",
-      "seconds": 25.9,
+      "thread_id": "01a18a26-683d-7300-a876-738a63442a3b",
+      "seconds": 32.5,
       "usage": {
-        "input_tokens": 32870,
-        "cached_input_tokens": 26240,
+        "input_tokens": 35381,
+        "cached_input_tokens": 26496,
         "cache_write_input_tokens": 0,
-        "output_tokens": 422,
+        "output_tokens": 558,
         "reasoning_output_tokens": 0
       },
       "generations": 1,
-      "log": ".work/illustrations/codex/taishan-37-20261029T231135Z",
+      "log": ".work/illustrations/codex/taishan-37-20261030T001214Z",
       "image": "characters/taishan-37.webp",
-      "webp_bytes": 36028
+      "webp_bytes": 38510
     },
     "human-butcher-9": {
       "status": "done",
@@ -260,7 +267,8 @@
       "generations": 1,
       "log": ".work/illustrations/codex/human-butcher-9-20261029T231201Z",
       "image": "characters/human-butcher-9.webp",
-      "webp_bytes": 60130
+      "webp_bytes": 60130,
+      "keep": true
     },
     "skeleton-king-425": {
       "status": "done",
@@ -280,7 +288,8 @@
       "generations": 1,
       "log": ".work/illustrations/codex/skeleton-king-425-20261029T231253Z",
       "image": "characters/skeleton-king-425.webp",
-      "webp_bytes": 49658
+      "webp_bytes": 49658,
+      "keep": true
     },
     "skeleton-king-1161": {
       "status": "done",
@@ -300,7 +309,8 @@
       "generations": 1,
       "log": ".work/illustrations/codex/skeleton-king-1161-20261029T231326Z",
       "image": "characters/skeleton-king-1161.webp",
-      "webp_bytes": 43148
+      "webp_bytes": 43148,
+      "keep": true
     },
     "magic-johnson-242": {
       "status": "done",
@@ -320,7 +330,50 @@
       "generations": 1,
       "log": ".work/illustrations/codex/magic-johnson-242-20261029T231401Z",
       "image": "characters/magic-johnson-242.webp",
-      "webp_bytes": 56344
+      "webp_bytes": 56344,
+      "keep": true
+    },
+    "murim-login-key-art-1": {
+      "status": "done",
+      "kind": "keyart",
+      "prompt_hash": "eb0980df69766117",
+      "idea": "The login: a triangle ensemble on a misty mountain sect terrace, with a faint game interface dissolving into ink-wash mist around the hero's raised hand.",
+      "generated_at": "2026-10-30T00:19:50+00:00",
+      "original": ".work/illustrations/originals/murim-login-key-art-1.png",
+      "image": "title/murim-login-key-art-1.webp",
+      "webp_bytes": 182806,
+      "thread_id": "01a18a29-c1c5-7683-ba6b-d50ce6a55913",
+      "seconds": 235.4,
+      "usage": {
+        "input_tokens": 99953,
+        "cached_input_tokens": 88192,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1413,
+        "reasoning_output_tokens": 84
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/murim-login-key-art-1-20261030T001554Z"
+    },
+    "murim-login-key-art-2": {
+      "status": "done",
+      "kind": "keyart",
+      "prompt_hash": "5c9276479a2d722b",
+      "idea": "The crossing: a split world. A modern Seoul night below, the murim mountains above, joined by a glowing login portal that Jin steps through.",
+      "generated_at": "2026-10-30T00:23:22+00:00",
+      "original": ".work/illustrations/originals/murim-login-key-art-2.png",
+      "image": "title/murim-login-key-art-2.webp",
+      "webp_bytes": 221054,
+      "thread_id": "01a18a2d-5a9e-7793-b590-9c2b98d92aa0",
+      "seconds": 212.1,
+      "usage": {
+        "input_tokens": 104722,
+        "cached_input_tokens": 90496,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 1413,
+        "reasoning_output_tokens": 124
+      },
+      "generations": 1,
+      "log": ".work/illustrations/codex/murim-login-key-art-2-20261030T001950Z"
     }
   }
 }

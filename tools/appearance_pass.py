@@ -406,7 +406,8 @@ List only LASTING changes in how the character LOOKS that persist afterwards: re
 회춘 by enlightenment or cultivation), a big jump in apparent age or aging (white/gray hair, 서리가 내려앉다), a lost
 limb or eye that stays lost, a permanent scar, a lasting hair/eye colour change, a transformation into a new
 form or body (환골탈태, 변신, becoming undead). Do NOT list disguises (역용), costumes, one-scene or temporary
-states (glowing eyes in a fight, treatment effects that wear off), healing, or changes of other people.
+states (glowing eyes in a fight, treatment effects that wear off), healing, changes of other people, or looks
+seen only in a vision, dream, prophecy or glimpse of a possible or alternate future.
 For each event give the chapter where it is first shown or announced, what visibly changed (before -> after if
 known) and the cause (enlightenment, injury, transformation, time skip, ...). Use only chapters that appear in
 the evidence. If you are unsure whether a change lasts, include it with "sure": false.
@@ -531,7 +532,8 @@ Rules:
 - Include lasting changes of look (returned to youth, visible aging, lost limb or eye, permanent scar, lasting
   hair/eye colour change, transformation) and mark them kind "change". Ordinary traits are kind "base".
 - Skip temporary disguises, costumes worn for one scene, make-up, one-scene states (glowing eyes in a fight,
-  bloodied, tired, blushing) and metaphors.
+  bloodied, tired, blushing) and metaphors, and looks seen only in a vision, dream, prophecy or glimpse of a
+  possible future.
 - Every fact needs the chapter number of its passage and a QUOTE copied character-for-character from that
   passage (one phrase or sentence, at least 4 characters, no ellipses). Never paraphrase the quote.
 - Return an empty list if nothing qualifies.
@@ -617,7 +619,9 @@ For each numbered item decide, from the context (the quoted line is marked >>> <
 - literal_present: the text states the look as a real fact of the story. A character's recollection or account of
   how someone looked during a period IS valid evidence for the period it describes (it is not a flashback problem).
   False only for a hypothetical, a metaphor/simile, a disguise, costume or illusion, a one-scene state, or a look
-  that belongs to a different, earlier period than the one being established. Similes and hypotheticals ("as if he had undergone X",
+  that belongs to a different, earlier period than the one being established. Visions, dreams, prophecies,
+  predictions and glimpses of a possible or alternate future/timeline are treated like flashbacks: they are not
+  the story's present, so literal_present is false even when the look is described as current inside the vision. Similes and hypotheticals ("as if he had undergone X",
   "겪으면 이렇게 될까 싶을 정도") are NOT literal. A look that is
   stated as the character's established present state IS literal_present, even if the change happened earlier.
 - Idioms for looks are literal, not metaphor: 머리에 서리가 내려앉았다 = grey/white hair; 반로환동/회춘 = returned
@@ -719,6 +723,38 @@ def has_marker(fact: dict, chapters: dict[int, str]) -> bool:
     paras, i = locate(fact, chapters)
     window = fact["quote"] if i is None else " ".join(paras[max(0, i - 1):i + 2])
     return bool(CHANGE_RE.search(window))
+
+
+VISION_RE = re.compile(r"\b(visions?|dreams?|dreamt|nightmares?|prophec\w*|prophesied|predict\w*|premonition\w*|"
+                       r"foresee\w*|foresaw|future|later timeline|alternate timeline|other timeline|hallucinat\w*)\b", re.I)
+
+
+def is_vision(fact: dict, verdict: dict | None) -> bool:
+    """Deterministic: the fact or its judge reason places the look in a vision, dream or predicted future.
+
+    Such looks are treated like flashbacks (not the story's present), whatever the judge said about them."""
+    text = " ".join([fact.get("fact", ""), (verdict or {}).get("reason", "")])
+    return bool(VISION_RE.search(text))
+
+
+def vision_facts(facts: list[dict], verdicts: dict[int, dict], chapters: dict[int, str]) -> set[int]:
+    """Indices of vision facts plus every fact quoted from the same paragraph (or overlapping quote) as one."""
+    def place(fact: dict) -> tuple[int, int] | None:
+        if fact["chapter"] not in chapters:
+            return None
+        _, i = locate(fact, chapters)
+        return None if i is None else (fact["chapter"], i)
+
+    seeds = [i for i, fact in enumerate(facts) if is_vision(fact, verdicts.get(i))]
+    places = {place(facts[i]) for i in seeds} - {None}
+    found = set(seeds)
+    for i, fact in enumerate(facts):
+        quote = norm(fact["quote"])
+        if place(fact) in places or any(
+                fact["chapter"] == facts[j]["chapter"] and (quote in norm(facts[j]["quote"]) or norm(facts[j]["quote"]) in quote)
+                for j in seeds):
+            found.add(i)
+    return found
 
 
 def fact_key(fact: dict) -> str:
@@ -1037,6 +1073,10 @@ def process(index: int, row: dict, chapters: dict[int, str], force: bool, seed_r
             if reason:
                 rejected.add(i)
                 verdicts[i] = {**(verdicts.get(i) or {}), "this_character": False, "reason": f"manual override: {reason}"}
+        for i in vision_facts(verified, verdicts, chapters) - rejected:
+            rejected.add(i)
+            verdicts[i] = {**(verdicts.get(i) or {}), "literal_present": False, "lasting_change": False,
+                           "reason": "vision/dream/prediction, not the story's present (like a flashback)"}
         approved_orig = {i for i in marked if i not in rejected and verdicts[i].get("lasting_change")}
         for i, fact in enumerate(verified):
             reason = FORCE_APPROVE.get(row["english"], {}).get(fact["chapter"])
