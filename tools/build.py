@@ -128,7 +128,7 @@ def write_pdf_cover(output: Path) -> Path:
     cover_typ = output / ".cover.typ"
     cover_typ.write_text(
         f"""#set page(paper: "a4", margin: 0pt, header: none, footer: none, numbering: none, fill: black)
-#image("{cover_image}", width: 100%, height: 100%, fit: "cover")
+#align(center + horizon, image("{cover_image}", width: 100%, height: 100%, fit: "contain"))
 """,
         encoding="utf-8",
     )
