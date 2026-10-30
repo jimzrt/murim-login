@@ -20,7 +20,8 @@ const site = Astro.site;
 const reportLineUrl = import.meta.env.PUBLIC_REPORT_LINE_URL ?? "";
 const canonical = new URL(Astro.url.pathname, site);
 const desc = description ?? "A translation of the web novel Murim Login.";
-const ogImage = new URL(withBase("cover.jpg"), site).href;
+// Wide 1.91:1 card for link previews; the tall cover.jpg stays the homepage and ebook cover.
+const ogImage = new URL(withBase("social-card.jpg"), site).href;
 const manifestHref = withBase("manifest.webmanifest");
 ---
 
@@ -36,6 +37,9 @@ const manifestHref = withBase("manifest.webmanifest");
     <meta property="og:type" content={ogType} />
     <meta property="og:url" content={canonical.href} />
     <meta property="og:image" content={ogImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Murim Login: a young man steps through a glowing login portal from night-time Seoul into the murim mountains" />
     <meta property="og:site_name" content="Murim Login Translation Project" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
