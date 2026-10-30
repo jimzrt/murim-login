@@ -32,7 +32,8 @@ class BuildToolTest(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temp:
             text = write_pdf_cover(Path(temp)).read_text(encoding="utf-8")
         self.assertIn("#set page", text)
-        self.assertIn("#image(", text)
+        self.assertIn(" image(", text)
+        self.assertIn('fit: "contain"', text)  # the title lettering is part of the 2:3 cover; never crop it
         self.assertNotIn("#pagebreak", text)
 
     def test_html_reader_scaffold_exists(self):

@@ -66,7 +66,7 @@ writeFileSync(
         },
         {
           src: `${base}cover.jpg`.replace(/\/{2,}/g, "/"),
-          sizes: "720x970",
+          sizes: "1024x1536",
           type: "image/jpeg",
           purpose: "any",
         },
