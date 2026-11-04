@@ -4,6 +4,9 @@ Licensed originals are **not** stored in the public repository. They live in
 the private companion [jimzrt/murim-login-source](https://github.com/jimzrt/murim-login-source)
 as `NNNN.txt` files. GitHub Pages and the ebook build do not need them.
 
+Generated files that embed the Korean text, such as `reviews/packets/` and
+`reviews/**/omp/*.jsonl`, are ignored by Git for the same reason. Keep it that way.
+
 On a translation machine, clone that repo **directly into** `source/`:
 
 ```bash

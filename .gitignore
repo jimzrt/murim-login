@@ -12,14 +12,13 @@
 # Licensed Korean originals and generated packets that embed them.
 /source/
 /original 1-1104.txt
-/reviews/packets/[0-9][0-9][0-9][0-9].md
+/reviews/packets/
 /reviews/mastering/**/source.txt
 /reviews/mastering/**/*-packet.md
 /reviews/final/**/source.txt
 /reviews/final/**/packet.md
 /reviews/retrofit/**/packet-*.md
-/reviews/retrofit/**/refine-packet.md
+/reviews/retrofit/**/refine-packet*.md
 /reviews/entity/**/*-packet.md
-/reviews/entity/**/omp/*.jsonl
+/reviews/**/omp/*.jsonl
 /reviews/address/**/*-packet.md
-/reviews/address/**/omp/*.jsonl

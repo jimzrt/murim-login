@@ -82,7 +82,8 @@ facts before generating `docs/STATE.md`, `docs/CONTEXT.json`, `docs/NAMES.md`,
 `docs/ADDRESS.md`, affected profiles, and the chapter beat. Do not invent
 `docs/RISKS.md` rows from that call. The packet and normalized result are
 `reviews/packets/update-NNNN.md` and `reviews/updates/NNNN.json`; their hashes
-gate summary, checkpoint, acceptance, and commit.
+gate summary, checkpoint, acceptance, and commit. Packets embed Korean source,
+so they stay local and are never committed.
 
 When durable context or a profile is over its configured threshold, status at
 `READY` reports `python tools/workflow.py compress N`. `run_next.py` runs that

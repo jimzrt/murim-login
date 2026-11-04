@@ -447,7 +447,6 @@ def accept_required_paths(number: int, p: dict[str, Path] | None = None) -> set[
         relative(p["report"]),
         relative(p["review_meta"]),
         relative(p["beat"]),
-        relative(p["update_packet"]),
         relative(p["update_result"]),
         relative(p["review_json"]),
         relative(p["draft_qa"]),
@@ -460,13 +459,11 @@ def accept_required_paths(number: int, p: dict[str, Path] | None = None) -> set[
         required.update(
             {
                 relative(p["checkpoint_summary"]),
-                relative(p["summary_packet"]),
             }
         )
     if interval_due(number, "checkpoint_review_interval"):
         required.update(
             {
-                relative(p["checkpoint_packet"]),
                 relative(p["checkpoint_report"]),
                 relative(p["checkpoint_json"]),
                 relative(p["checkpoint_meta"]),
