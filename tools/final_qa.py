@@ -101,11 +101,12 @@ def _chat_titles(baseline: str) -> list[str]:
     return titles
 
 
-def _system_panels(text: str) -> list[tuple[str, list[str]]]:
-    """Each System panel with the prose line that introduces it."""
+def _system_panels(text: str) -> list[tuple[str, int, list[str]]]:
+    """Each System panel with its introducing prose line and that line's index."""
     lines = text.splitlines()
-    panels: list[tuple[str, list[str]]] = []
+    panels: list[tuple[str, int, list[str]]] = []
     previous = ""
+    previous_index = -1
     index = 0
     while index < len(lines):
         if lines[index].strip() == SYSTEM_HEADING:
@@ -126,10 +127,11 @@ def _system_panels(text: str) -> list[tuple[str, list[str]]]:
                     index += 1
                     continue
                 break
-            panels.append((previous, block))
+            panels.append((previous, previous_index, block))
             continue
         if lines[index].strip() and not lines[index].lstrip().startswith(">"):
             previous = lines[index]
+            previous_index = index
         index += 1
     return panels
 
@@ -157,16 +159,57 @@ def _body_present(lines: list[str], body: tuple[str, ...]) -> bool:
     return any(tuple(stripped[index : index + width]) == body for index in range(len(stripped)))
 
 
+def _prose_before(lines: list[str], index: int) -> str:
+    for line in reversed(lines[:index]):
+        if line.strip() and not line.lstrip().startswith(">"):
+            return FOOTNOTE_REF.sub("", line)
+    return ""
+
+
+def _matching_anchor(baseline_lines: list[str], source_anchor: int, lines: list[str]) -> int | None:
+    """The candidate line matching a baseline anchor, or None when unclear.
+
+    Cues such as `Ding.` repeat, so the occurrence matters. If editing changed
+    how many there are, the prose before the cue must identify one. A panel
+    with no clear anchor stays out, and the missing panel heading fails QA.
+    """
+    previous = baseline_lines[source_anchor]
+    matches = [index for index, line in enumerate(lines) if line == previous]
+    occurrences = [index for index, line in enumerate(baseline_lines) if line == previous]
+    if len(matches) == len(occurrences):
+        return matches[occurrences.index(source_anchor)]
+    before = _prose_before(baseline_lines, source_anchor)
+    in_context = [index for index in matches if _prose_before(lines, index) == before]
+    return in_context[0] if len(in_context) == 1 else None
+
+
+def _after_sibling_panels(lines: list[str], insert_at: int, siblings: set[tuple[str, ...]]) -> int:
+    """Skip panels that come earlier under the same cue, keeping their order."""
+    spans = {start: (end, body) for start, end, body in _system_spans(lines)}
+    while True:
+        start = insert_at
+        while start < len(lines) and not lines[start].strip():
+            start += 1
+        if start not in spans or spans[start][1] not in siblings:
+            return insert_at
+        insert_at = spans[start][0]
+
+
 def _restore_system_panels(baseline: str, lines: list[str]) -> list[str]:
-    for previous, panel in _system_panels(baseline):
-        if not previous or _body_present(lines, _panel_body(panel)):
+    baseline_lines = baseline.splitlines()
+    siblings: dict[int, set[tuple[str, ...]]] = {}
+    for previous, source_anchor, panel in _system_panels(baseline):
+        body = _panel_body(panel)
+        group = siblings.setdefault(source_anchor, set())
+        earlier = set(group)
+        group.add(body)
+        if not previous or _body_present(lines, body):
+            continue
+        anchor = _matching_anchor(baseline_lines, source_anchor, lines)
+        if anchor is None:
             continue
         words = _panel_words(panel)
-        try:
-            anchor = lines.index(previous)
-        except ValueError:
-            continue
-        insert_at = anchor + 1
+        insert_at = _after_sibling_panels(lines, anchor + 1, earlier)
         if insert_at < len(lines) and lines[insert_at].strip() == "":
             insert_at += 1
         if insert_at < len(lines):
@@ -216,7 +259,7 @@ def _drop_duplicate_system_panels(baseline: str, lines: list[str]) -> list[str]:
     does not appear there is left alone, because finalizing may reformat it.
     """
     allowed: dict[tuple[str, ...], int] = {}
-    for _previous, panel in _system_panels(baseline):
+    for _previous, _anchor, panel in _system_panels(baseline):
         body = _panel_body(panel)
         if body:
             allowed[body] = allowed.get(body, 0) + 1

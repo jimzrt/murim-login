@@ -124,6 +124,66 @@ class FinalQaTest(unittest.TestCase):
         qa = self.assess(normalized, baseline)
         self.assertFalse(any(item["code"] == "panel_heading" for item in qa["errors"]), qa["errors"])
 
+    def test_restored_panel_returns_to_its_own_repeated_cue(self):
+        from tools.final_qa import normalize_reading_copy
+
+        first = "> **System**\n>\n> - First notice arrived.\n\n"
+        second = "> **System**\n>\n> - Second notice arrived.\n\n"
+        third = "> **System**\n>\n> - Third notice arrived.\n\n"
+        baseline = chapter(
+            f"Ding.\n\n{first}Morning passed.\n\nDing.\n\n{second}Noon passed.\n\n"
+            f"Ding.\n\n{third}Night fell."
+        )
+        candidate = chapter(
+            f"Ding.\n\n{first}Morning passed.\n\nDing.\n\nNoon passed.\n\nDing.\n\nNight fell."
+        )
+        normalized = normalize_reading_copy(baseline, candidate)
+        self.assertLess(normalized.index("First notice"), normalized.index("Morning passed"))
+        self.assertLess(normalized.index("Morning passed"), normalized.index("Second notice"))
+        self.assertLess(normalized.index("Second notice"), normalized.index("Noon passed"))
+        self.assertLess(normalized.index("Noon passed"), normalized.index("Third notice"))
+        self.assertLess(normalized.index("Third notice"), normalized.index("Night fell"))
+
+    def test_panels_sharing_a_cue_are_restored_in_order(self):
+        from tools.final_qa import normalize_reading_copy
+
+        first = "> **System**\n>\n> - First notice arrived.\n\n"
+        second = "> **System**\n>\n> - Second notice arrived.\n\n"
+        baseline = chapter(f"Dawn broke.\n\nDing.\n\n{first}{second}Night fell.")
+        missing_both = chapter("Dawn broke.\n\nDing.\n\nNight fell.")
+        missing_second = chapter(f"Dawn broke.\n\nDing.\n\n{first}Night fell.")
+        for candidate in (missing_both, missing_second):
+            normalized = normalize_reading_copy(baseline, candidate)
+            self.assertLess(normalized.index("Ding."), normalized.index("First notice"))
+            self.assertLess(normalized.index("First notice"), normalized.index("Second notice"))
+            self.assertLess(normalized.index("Second notice"), normalized.index("Night fell"))
+
+    def test_edited_cue_count_uses_the_preceding_prose(self):
+        from tools.final_qa import normalize_reading_copy
+
+        panel = "> **System**\n>\n> - Second notice arrived.\n\n"
+        baseline = chapter(
+            f"Dawn broke.\n\nDing.\n\nMorning passed.\n\nDing.\n\n{panel}Night fell."
+        )
+        candidate = chapter(
+            "Dawn broke.\n\nDing.\n\nMorning passed[^1].\n\nDing.\n\nNight fell.\n\nDing.\n\nThe end."
+        )
+        normalized = normalize_reading_copy(baseline, candidate)
+        self.assertLess(normalized.index("Morning passed"), normalized.index("Second notice"))
+        self.assertLess(normalized.index("Second notice"), normalized.index("Night fell"))
+
+    def test_unresolved_cue_blocks_instead_of_misplacing_the_panel(self):
+        from tools.final_qa import normalize_reading_copy
+
+        tail = "The hall was quiet. " * 8
+        panel = "> **System**\n>\n> - Second notice arrived.\n\n"
+        baseline = chapter(f"Dawn broke.\n\nDing.\n\nMorning passed.\n\nDing.\n\n{panel}{tail}")
+        candidate = chapter(f"Rewritten dawn.\n\nDing.\n\nRewritten morning.\n\nDing.\n\nRewritten noon.\n\nDing.\n\n{tail}")
+        normalized = normalize_reading_copy(baseline, candidate)
+        self.assertNotIn("Second notice", normalized)
+        qa = self.assess(normalized, baseline)
+        self.assertTrue(any(item["code"] == "panel_heading" for item in qa["errors"]), qa["errors"])
+
     def test_thoughts_stay_italic_and_footnote_keeps_a_heading(self):
         from tools.final_qa import normalize_reading_copy
 
