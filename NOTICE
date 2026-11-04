@@ -1,0 +1,79 @@
+Murim Login English Translation Project
+https://github.com/jimzrt/murim-login
+Copyright 2026 jimzrt and contributors
+
+This work includes code and content from the Murim Login English Translation
+Project. Keep this notice, including the link above, when you redistribute it
+or anything derived from it.
+
+
+WHAT IS LICENSED
+
+Code and tooling: Apache License 2.0 (see LICENSE)
+  Everything in this repository that is not listed below.
+
+Translations and content: Creative Commons Attribution 4.0 International,
+CC BY 4.0 (see LICENSE-CONTENT)
+  translations/
+  summaries/
+  characters/
+  compendium.md
+  docs/ADDRESS.md, docs/CHARACTERS.md, docs/NAMES.md, docs/NAME_VARIANTS.md,
+  docs/RISKS.md, docs/CONTEXT.json
+  cover.jpg
+  reader/public/characters/, reader/public/title/, reader/public/social-card.jpg,
+  reader/public/favicon.svg, reader/src/ornaments/
+
+Not licensed
+  reviews/ and benchmark/ are working records. They can embed text from the
+  original novel. Neither license above applies to them.
+
+
+THE ORIGINAL NOVEL
+
+The translations are based on the Korean web novel Login Murim (로그인 무림) by
+Zerobic (제로빅). All rights in the original novel, including its text, story,
+characters, and setting, belong to its rights holders.
+
+The licenses above cover only this project's own contributions, and only to
+the extent of the rights this project holds in them. They grant no rights in
+the original novel, and any text from it found in this repository is not
+licensed. If your use needs permission for the original novel, you must get it
+from its rights holders.
+
+
+HOW TO CREDIT
+
+Please credit the translations like this, with the link:
+
+  Murim Login English Translation by jimzrt
+  (https://github.com/jimzrt/murim-login), licensed under CC BY 4.0
+  (https://creativecommons.org/licenses/by/4.0/).
+
+If you changed the text, say so, for example by adding "Edited from the
+original translation."
+
+
+THIRD-PARTY MATERIAL
+
+These keep their own licenses and are not relicensed by this project.
+
+tools/fonts/
+  Noto fonts. Copyright 2022 The Noto Project Authors.
+  SIL Open Font License 1.1 (see tools/fonts/OFL.txt).
+
+tools/typst-template.typ
+  Modified from the Pandoc Typst template. Copyright (c) 2014--2024,
+  John MacFarlane. BSD 3-Clause (see tools/typst-template.LICENSE).
+
+reader/src/ornaments/dragon.svg, dragon.png, dragon-flip.png
+  Adapted from the Font Awesome Free "dragon" icon. Copyright Fonticons, Inc.
+  (https://fontawesome.com). CC BY 4.0. Colors and outline changed; the PNG
+  files are rendered versions.
+
+tests/fixtures/smoke/
+  Public-domain texts, described in tests/fixtures/smoke/README.md.
+
+reader/package.json dependencies
+  Installed from npm under their own licenses, listed in
+  reader/package-lock.json. They are not stored in this repository.

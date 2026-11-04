@@ -237,6 +237,26 @@ input {
   transition: transform 0.22s ease;
 }
 
+.site-license {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 2rem;
+  border-top: 1px solid var(--rule);
+  color: var(--muted);
+  font-family: var(--ui);
+  font-size: 0.8rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.site-license p {
+  margin: 0 0 0.4rem;
+}
+
+.chapter-dock ~ .site-license {
+  padding-bottom: calc(var(--dock-h) + 1.5rem + env(safe-area-inset-bottom, 0px));
+}
+
 .chapter-dock.is-hidden {
   transform: translateY(100%);
 }

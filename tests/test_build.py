@@ -2,7 +2,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from tools.build import BOOK_TYP, COVER, READER, TYPST_TEMPLATE, chapter_paths, pandoc_base, write_pdf_cover
+from tools.build import BOOK_TYP, COLOPHON_TYP, COVER, READER, RIGHTS, TYPST_TEMPLATE, chapter_paths, pandoc_base, write_pdf_cover
 
 
 class BuildToolTest(unittest.TestCase):
@@ -35,6 +35,12 @@ class BuildToolTest(unittest.TestCase):
         self.assertIn(" image(", text)
         self.assertIn('fit: "contain"', text)  # the title lettering is part of the 2:3 cover; never crop it
         self.assertNotIn("#pagebreak", text)
+
+    def test_ebooks_carry_license_and_source_credit(self):
+        for text in (RIGHTS, COLOPHON_TYP.read_text(encoding="utf-8")):
+            self.assertIn("CC BY 4.0", text)
+            self.assertIn("https://github.com/jimzrt/murim-login", text)
+            self.assertIn("Zerobic", text)
 
     def test_html_reader_scaffold_exists(self):
         self.assertTrue((READER / "package.json").is_file())

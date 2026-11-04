@@ -210,3 +210,25 @@ The objective is not to claim that an automated pipeline produces a perfect tran
 * [`docs/WORKFLOW.md`](docs/WORKFLOW.md) — recovery, context hygiene, checkpoints, audits, exports, and operational details.
 * [`README_MASTERING.md`](README_MASTERING.md) — mastering queue, overlay stages, fidelity gate, retries, and manual mastering commands.
 * [`RULES.md`](RULES.md) — binding translation and formatting policy.
+
+## License
+
+The project is free to use, change, and share, including commercially, as long as you credit it and link back here.
+
+| Part | License |
+| --- | --- |
+| Code and tooling | [Apache 2.0](LICENSE) |
+| Translations, summaries, character profiles, glossary, and project artwork | [CC BY 4.0](LICENSE-CONTENT) |
+| `reviews/` and `benchmark/` | Not licensed: working records that can embed text from the original novel |
+
+[`NOTICE`](NOTICE) lists exactly which paths fall under each license, along with third-party material. Keep it with any copy of the code.
+
+To credit the translations:
+
+> Murim Login English Translation by jimzrt (https://github.com/jimzrt/murim-login), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+If you changed the text, say so.
+
+**These licenses do not cover the original novel.** The translations are based on *Login Murim* (로그인 무림) by Zerobic (제로빅), and all rights in the original belong to its rights holders. The licenses apply only to this project's own contributions, and only to the extent of the rights it holds in them.
+
+Contributions to this repository are accepted under the same licenses.

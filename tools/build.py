@@ -21,10 +21,18 @@ FILTER = ROOT / "tools" / "system-window.lua"
 STYLESHEET = ROOT / "tools" / "book.css"
 BOOK_TYP = ROOT / "tools" / "book.typ"
 TYPST_TEMPLATE = ROOT / "tools" / "typst-template.typ"
+COLOPHON_TYP = ROOT / "tools" / "colophon.typ"
 FONT_DIR = ROOT / "tools" / "fonts"
 COVER = ROOT / "cover.jpg"
 READER = ROOT / "reader"
 TITLE = "Murim Login"
+RIGHTS = (
+    "Translation by jimzrt, licensed under CC BY 4.0 "
+    "(https://creativecommons.org/licenses/by/4.0/). "
+    "Source and credit: https://github.com/jimzrt/murim-login. "
+    "Based on the Korean web novel Login Murim by Zerobic. All rights in the "
+    "original novel belong to its rights holders and are not covered by this license."
+)
 
 
 def chapter_paths(source: Path, selected: list[int] | None) -> list[Path]:
@@ -70,6 +78,7 @@ def run_pandoc(
 ) -> None:
     command = pandoc_base(paths, output_format)
     command.append(f"--metadata=title={title}")
+    command.append(f"--metadata=rights={RIGHTS}")
     if css is not None:
         command.append(f"--css={css_ref or css.name}")
     if epub_cover is not None:
@@ -145,7 +154,7 @@ def build_pdf(paths: list[Path], output: Path) -> Path:
             "pdf",
             title=TITLE,
             pdf=True,
-            include_before=[cover_typ, BOOK_TYP],
+            include_before=[cover_typ, COLOPHON_TYP, BOOK_TYP],
         )
     finally:
         cover_typ.unlink(missing_ok=True)
